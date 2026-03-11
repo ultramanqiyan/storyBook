@@ -1,0 +1,1999 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>故事详情 - 乐高故事书</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" id="theme-stylesheet" href="" disabled>
+  <style>
+    :root {
+      --gold: #ffd700;
+      --gold-dark: #b8860b;
+      --silver: #c0c0c0;
+      --bronze: #cd7f32;
+      --crimson: #dc2626;
+      --purple: #a855f7;
+      --green: #22c55e;
+      --blue: #3b82f6;
+      --orange: #f59e0b;
+      --bg-dark: #0d0d14;
+      --bg-medium: #1a1a2e;
+      --text-primary: #f8fafc;
+      --text-secondary: #94a3b8;
+      --font-title: 'Cinzel', serif;
+      --font-body: 'Noto Sans SC', sans-serif;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: var(--font-body);
+      background: linear-gradient(180deg, #1a1a2e 0%, #0d0d14 100%);
+      height: 100vh;
+      color: var(--text-primary);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .particles {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .particle {
+      position: absolute;
+      width: 2px;
+      height: 2px;
+      background: var(--gold);
+      border-radius: 50%;
+      opacity: 0.3;
+      animation: float 20s linear infinite;
+    }
+
+    @keyframes float {
+      0% { transform: translateY(100vh); opacity: 0; }
+      10% { opacity: 0.3; }
+      90% { opacity: 0.3; }
+      100% { transform: translateY(-100vh); opacity: 0; }
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    .header {
+      height: 50px;
+      background: rgba(0,0,0,0.5);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      border-bottom: 1px solid rgba(255,215,0,0.2);
+      flex-shrink: 0;
+      position: relative;
+      z-index: 10;
+    }
+
+    .nav-tabs {
+      display: flex;
+      gap: 8px;
+      position: relative;
+      z-index: 11;
+    }
+
+    .nav-tab {
+      padding: 8px 16px;
+      border-radius: 8px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      color: var(--text-secondary);
+      font-size: 0.8rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      text-decoration: none;
+      position: relative;
+      z-index: 12;
+    }
+
+    .nav-tab:hover {
+      background: rgba(255,215,0,0.1);
+      border-color: rgba(255,215,0,0.3);
+      color: var(--text-primary);
+    }
+
+    .nav-tab-icon {
+      font-size: 1rem;
+    }
+
+    .book-cover {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      padding: 6px 20px;
+      background: linear-gradient(180deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));
+      border-radius: 25px;
+      border: 1px solid rgba(255,215,0,0.3);
+      box-shadow: 0 0 20px rgba(255,215,0,0.1);
+    }
+
+    .book-3d {
+      width: 32px;
+      height: 42px;
+      background: linear-gradient(135deg, #5a4030 0%, #3d2820 50%, #2a1810 100%);
+      border-radius: 2px 6px 6px 2px;
+      border: 2px solid var(--gold);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: inset 0 0 10px rgba(0,0,0,0.5), 0 0 10px rgba(255,215,0,0.3);
+      position: relative;
+    }
+
+    .book-3d::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 4px;
+      bottom: 4px;
+      width: 3px;
+      background: linear-gradient(180deg, var(--gold), var(--gold-dark));
+      border-radius: 2px 0 0 2px;
+    }
+
+    .book-title {
+      font-family: var(--font-title);
+      font-size: 0.5rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, #fff 0%, var(--gold) 50%, #ff9800 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 0 0 30px rgba(255,215,0,0.5);
+      letter-spacing: 1px;
+    }
+
+    .stats {
+      display: flex;
+      gap: 20px;
+    }
+
+    .stat-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.75rem;
+    }
+
+    .stat-gem {
+      width: 16px;
+      height: 20px;
+      border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+      position: relative;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+    }
+
+    .stat-gem::before {
+      content: '';
+      position: absolute;
+      top: 20%;
+      left: 20%;
+      width: 30%;
+      height: 30%;
+      background: rgba(255,255,255,0.6);
+      border-radius: 50%;
+    }
+
+    .stat-gem.blue { background: linear-gradient(180deg, #60a5fa, #2563eb); }
+    .stat-gem.gold { background: linear-gradient(180deg, #ffd700, #b8860b); }
+    .stat-gem.scroll {
+      width: 18px;
+      height: 16px;
+      border-radius: 2px;
+      background: linear-gradient(180deg, #fff8e1, #f5e6c8);
+    }
+
+    .stat-value {
+      font-family: var(--font-title);
+      font-weight: 600;
+      color: var(--gold);
+    }
+
+    .stat-label {
+      color: var(--text-secondary);
+    }
+
+    .main-area {
+      flex: 1;
+      display: flex;
+      overflow: hidden;
+      position: relative;
+      z-index: 1;
+    }
+
+    .chapter-panel {
+      width: 380px;
+      background: rgba(0,0,0,0.3);
+      display: flex;
+      flex-direction: column;
+      padding: 12px;
+      gap: 8px;
+      flex-shrink: 0;
+      border-right: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .panel-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      padding: 8px 12px;
+      border-radius: 6px;
+      background: rgba(255,215,0,0.15);
+      color: var(--gold);
+      border: 1px solid rgba(255,215,0,0.3);
+    }
+
+    .chapters-container {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      overflow-y: auto;
+      padding-right: 5px;
+    }
+
+    .chapters-container::-webkit-scrollbar {
+      width: 4px;
+    }
+
+    .chapters-container::-webkit-scrollbar-track {
+      background: rgba(255,255,255,0.05);
+      border-radius: 2px;
+    }
+
+    .chapters-container::-webkit-scrollbar-thumb {
+      background: rgba(255,215,0,0.3);
+      border-radius: 2px;
+    }
+
+    .chapter-card {
+      position: relative;
+      background: linear-gradient(180deg, #2d2d44, #1a1a2e);
+      border-radius: 10px;
+      padding: 12px 15px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      border: 2px solid rgba(255,255,255,0.1);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    }
+
+    .chapter-card::after {
+      content: '';
+      position: absolute;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background: linear-gradient(45deg, transparent 40%, rgba(255,255,255,0.05) 50%, transparent 60%);
+      transform: translateX(-100%);
+      transition: transform 0.6s ease;
+      pointer-events: none;
+    }
+
+    .chapter-card:hover::after {
+      transform: translateX(100%);
+    }
+
+    .chapter-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 16px rgba(0,0,0,0.4), 0 0 10px rgba(255,215,0,0.15);
+      border-color: rgba(255,215,0,0.3);
+    }
+
+    .chapter-card.active {
+      border-color: var(--gold);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.3), 0 0 15px rgba(255,215,0,0.3);
+    }
+
+    .chapter-badge {
+      width: 36px;
+      height: 36px;
+      background: linear-gradient(135deg, var(--gold), var(--gold-dark));
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-title);
+      font-size: 12px;
+      font-weight: 700;
+      color: #1a0f0a;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      flex-shrink: 0;
+    }
+
+    .chapter-content {
+      flex: 1;
+      position: relative;
+      z-index: 1;
+    }
+
+    .chapter-title {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    .chapter-meta {
+      font-size: 0.7rem;
+      color: var(--text-secondary);
+      margin-top: 2px;
+    }
+
+    .chapter-status {
+      position: absolute;
+      bottom: 8px;
+      right: 8px;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .chapter-status.done {
+      background: linear-gradient(135deg, #22c55e, #16a34a);
+      color: white;
+      box-shadow: 0 0 8px rgba(34,197,94,0.5);
+    }
+
+    .chapter-status.draft {
+      background: linear-gradient(135deg, #ef4444, #dc2626);
+      color: white;
+      box-shadow: 0 0 8px rgba(239,68,68,0.5);
+    }
+
+    .chapter-status.pending {
+      background: linear-gradient(135deg, #f59e0b, #d97706);
+      color: white;
+      box-shadow: 0 0 8px rgba(245,158,11,0.5);
+      font-size: 10px;
+    }
+
+    .center-panel {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 15px;
+      min-width: 0;
+      overflow: hidden;
+    }
+
+    .story-area {
+      background: rgba(0,0,0,0.4);
+      border-radius: 12px;
+      border: 1px solid rgba(255,215,0,0.15);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    .story-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-bottom: 12px;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .story-title {
+      font-family: var(--font-title);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--gold);
+    }
+
+    .story-nav {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .nav-btn {
+      width: 28px;
+      height: 28px;
+      border-radius: 6px;
+      border: 1px solid rgba(255,255,255,0.2);
+      background: rgba(255,255,255,0.05);
+      color: var(--text-primary);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      transition: all 0.2s ease;
+    }
+
+    .nav-btn:hover:not(:disabled) {
+      background: rgba(255,215,0,0.2);
+      border-color: var(--gold);
+    }
+
+    .nav-btn:disabled {
+      opacity: 0.3;
+      cursor: not-allowed;
+    }
+
+    .nav-info {
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+    }
+
+    .story-content {
+      flex: 1;
+      font-size: 1rem;
+      line-height: 1.9;
+      color: var(--text-primary);
+      overflow: hidden;
+      position: relative;
+    }
+
+    .story-content .generate-btn {
+      display: inline-block;
+      padding: 10px 25px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      border: none;
+      border-radius: 20px;
+      background: linear-gradient(135deg, var(--gold), #ff9800);
+      color: #000;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      pointer-events: auto;
+    }
+
+    .story-content .generate-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 5px 20px rgba(255,152,0,0.4);
+    }
+
+    .story-page {
+      display: none;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    .story-page.active {
+      display: block;
+    }
+
+    .story-page p {
+      margin-bottom: 12px;
+      text-indent: 2em;
+    }
+
+    .page-nav {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+      padding: 10px 0;
+      border-top: 1px solid rgba(255,255,255,0.1);
+      margin-top: 10px;
+    }
+
+    .page-nav-btn {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      border: 2px solid rgba(255,215,0,0.3);
+      background: rgba(255,215,0,0.1);
+      color: var(--gold);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      transition: all 0.3s ease;
+    }
+
+    .page-nav-btn:hover:not(:disabled) {
+      background: rgba(255,215,0,0.2);
+      border-color: var(--gold);
+      box-shadow: 0 0 10px rgba(255,215,0,0.3);
+    }
+
+    .page-nav-btn:disabled {
+      opacity: 0.3;
+      cursor: not-allowed;
+    }
+
+    .page-info {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+      min-width: 60px;
+      text-align: center;
+    }
+
+    .char-name { color: #f87171; font-weight: 600; }
+    .action-word { color: #a78bfa; font-weight: 600; }
+    .emotion-word { color: #4ade80; font-weight: 600; }
+    .location-word { color: #fbbf24; font-weight: 600; }
+    .weather-word { color: #60a5fa; font-weight: 600; }
+    .item-word { color: #f472b6; font-weight: 600; }
+
+    .character-panel {
+      width: 380px;
+      background: rgba(0,0,0,0.3);
+      display: flex;
+      flex-direction: column;
+      padding: 12px;
+      gap: 8px;
+      flex-shrink: 0;
+      border-left: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      padding: 8px 12px;
+      border-radius: 6px;
+      background: rgba(255,215,0,0.15);
+      color: var(--gold);
+      border: 1px solid rgba(255,215,0,0.3);
+    }
+
+    .characters-container {
+      flex: 1;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      padding: 10px;
+      align-content: flex-start;
+      overflow-y: auto;
+    }
+
+    .characters-container::-webkit-scrollbar {
+      width: 4px;
+    }
+
+    .characters-container::-webkit-scrollbar-track {
+      background: rgba(255,255,255,0.05);
+      border-radius: 2px;
+    }
+
+    .characters-container::-webkit-scrollbar-thumb {
+      background: rgba(255,215,0,0.3);
+      border-radius: 2px;
+    }
+
+    .hs-card {
+      width: 90px;
+      height: 125px;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.4);
+      background: linear-gradient(180deg, #3d3d3d, #1a1a1a);
+      border: 3px solid;
+      position: relative;
+    }
+
+    .hs-card.protagonist {
+      border-color: var(--gold);
+      box-shadow: 0 5px 15px rgba(0,0,0,0.4), 0 0 10px rgba(255,215,0,0.2);
+    }
+
+    .hs-card.antagonist {
+      border-color: var(--purple);
+      box-shadow: 0 5px 15px rgba(0,0,0,0.4), 0 0 10px rgba(139,92,246,0.2);
+    }
+
+    .hs-card.supporting {
+      border-color: var(--silver);
+    }
+
+    .hs-card.bystander {
+      border-color: #6b7280;
+    }
+
+    .hs-card:hover {
+      transform: translateY(-10px) scale(1.1);
+      z-index: 100;
+      box-shadow: 0 15px 30px rgba(0,0,0,0.5), 0 0 20px rgba(255,215,0,0.3);
+    }
+
+    .hs-card-actions {
+      position: absolute;
+      top: 3px;
+      right: 3px;
+      display: flex;
+      gap: 3px;
+      opacity: 0;
+      transition: opacity 0.2s ease;
+    }
+
+    .hs-card:hover .hs-card-actions {
+      opacity: 1;
+    }
+
+    .hs-action-btn {
+      width: 18px;
+      height: 18px;
+      border-radius: 4px;
+      border: 1px solid rgba(255,255,255,0.3);
+      background: rgba(0,0,0,0.5);
+      color: white;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 9px;
+      transition: all 0.2s ease;
+    }
+
+    .hs-action-btn:hover {
+      transform: scale(1.1);
+    }
+
+    .hs-action-btn.edit-btn:hover {
+      background: rgba(59,130,246,0.6);
+      border-color: #3b82f6;
+    }
+
+    .hs-action-btn.delete-btn:hover {
+      background: rgba(220,38,38,0.6);
+      border-color: #dc2626;
+    }
+
+    .hs-portrait {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(180deg, #4a4a4a, #2a2a2a);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hs-portrait::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse at center top, rgba(255,255,255,0.1), transparent 50%);
+    }
+
+    .hs-avatar {
+      font-size: 2.2rem;
+      filter: drop-shadow(0 3px 6px rgba(0,0,0,0.5));
+    }
+
+    .hs-name-banner {
+      padding: 5px 6px;
+      background: linear-gradient(180deg, #5a4a3a, #3a2a1a);
+      text-align: center;
+    }
+
+    .hs-name {
+      font-family: var(--font-title);
+      font-size: 0.65rem;
+      font-weight: 600;
+      color: #fff8e1;
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+    }
+
+    .hs-stats {
+      display: flex;
+      justify-content: space-between;
+      padding: 4px 6px;
+      background: linear-gradient(180deg, #2a2a2a, #1a1a1a);
+    }
+
+    .hs-card-actions-bottom {
+      display: flex;
+      justify-content: center;
+      gap: 4px;
+      padding: 4px;
+      background: linear-gradient(180deg, #2a2a2a, #1a1a1a);
+      opacity: 0;
+      transition: opacity 0.2s ease;
+    }
+
+    .hs-card:hover .hs-card-actions-bottom {
+      opacity: 1;
+    }
+
+    .hs-card-actions-bottom .hs-action-btn {
+      width: 18px;
+      height: 18px;
+      border-radius: 4px;
+      border: 1px solid rgba(255,255,255,0.2);
+      background: rgba(0,0,0,0.4);
+      color: white;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 8px;
+      transition: all 0.2s ease;
+    }
+
+    .hs-card-actions-bottom .hs-action-btn:hover {
+      transform: scale(1.1);
+    }
+
+    .hs-card-actions-bottom .hs-action-btn.edit-btn:hover {
+      background: rgba(59,130,246,0.6);
+    }
+
+    .hs-card-actions-bottom .hs-action-btn.delete-btn:hover {
+      background: rgba(220,38,38,0.6);
+    }
+
+    .hs-gem {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 8px;
+      font-weight: 700;
+      color: white;
+      text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    }
+
+    .hs-gem.attack {
+      background: linear-gradient(180deg, #fbbf24, #d97706);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+
+    .hs-gem.health {
+      background: linear-gradient(180deg, #f87171, #dc2626);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+
+    .role-tag {
+      position: absolute;
+      top: 3px;
+      left: 3px;
+      padding: 2px 5px;
+      border-radius: 3px;
+      font-size: 7px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+
+    .hs-card.protagonist .role-tag {
+      background: linear-gradient(180deg, var(--gold), var(--gold-dark));
+      color: #1a0f0a;
+    }
+
+    .hs-card.antagonist .role-tag {
+      background: linear-gradient(180deg, var(--purple), #6b21a8);
+      color: white;
+    }
+
+    .hs-card.supporting .role-tag {
+      background: linear-gradient(180deg, var(--silver), #808080);
+      color: #1a0f0a;
+    }
+
+    .hs-card.bystander .role-tag {
+      background: linear-gradient(180deg, #6b7280, #4b5563);
+      color: white;
+    }
+
+    .add-character-btn {
+      width: 90px;
+      height: 125px;
+      border: 2px dashed var(--purple);
+      border-radius: 10px;
+      background: linear-gradient(180deg, rgba(139,92,246,0.1), rgba(107,33,168,0.2));
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      transition: all 0.3s ease;
+    }
+
+    .add-character-btn:hover {
+      border-style: solid;
+      border-color: var(--gold);
+      box-shadow: 0 0 15px rgba(139,92,246,0.4);
+    }
+
+    .pack-icon {
+      font-size: 24px;
+      animation: pack-shake 2s ease-in-out infinite;
+    }
+
+    @keyframes pack-shake {
+      0%, 100% { transform: translateX(0) rotate(0deg); }
+      25% { transform: translateX(-2px) rotate(-1deg); }
+      75% { transform: translateX(2px) rotate(1deg); }
+    }
+
+    .pack-text {
+      font-family: var(--font-title);
+      font-size: 0.6rem;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    .bottom-bar {
+      height: 50px;
+      background: linear-gradient(180deg, transparent, rgba(0,0,0,0.8));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+      padding: 0 20px;
+      flex-shrink: 0;
+      position: relative;
+      z-index: 100;
+      pointer-events: auto;
+    }
+
+    .generate-btn {
+      padding: 10px 30px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      border: none;
+      border-radius: 20px;
+      background: linear-gradient(135deg, var(--gold), #ff9800);
+      color: #000;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-family: var(--font-body);
+      box-shadow: 0 0 25px rgba(255,215,0,0.5);
+      animation: btn-pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes btn-pulse {
+      0%, 100% { box-shadow: 0 0 25px rgba(255,215,0,0.5); }
+      50% { box-shadow: 0 0 40px rgba(255,215,0,0.8); }
+    }
+
+    .generate-btn:hover { transform: scale(1.05); }
+
+    .prompt-btn {
+      padding: 10px 20px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      border: 2px solid var(--gold);
+      border-radius: 20px;
+      background: transparent;
+      color: var(--gold);
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-family: var(--font-body);
+    }
+
+    .prompt-btn:hover {
+      background: rgba(255,215,0,0.1);
+      box-shadow: 0 0 15px rgba(255,215,0,0.3);
+    }
+
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.8);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .modal-overlay.active {
+      display: flex;
+      opacity: 1;
+    }
+
+    .spellbook-modal {
+      width: 90%;
+      max-width: 500px;
+      background: linear-gradient(180deg, #2d2d44, #1a1a2e);
+      border-radius: 15px;
+      border: 3px solid var(--gold);
+      padding: 25px;
+      position: relative;
+      transform: rotateY(-90deg) scale(0.8);
+      transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      box-shadow: 0 20px 60px rgba(0,0,0,0.5), 0 0 30px rgba(255,215,0,0.2);
+    }
+
+    .modal-overlay.active .spellbook-modal {
+      transform: rotateY(0) scale(1);
+    }
+
+    .modal-title {
+      font-family: var(--font-title);
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--gold);
+      text-align: center;
+      margin-bottom: 15px;
+    }
+
+    .modal-content {
+      background: rgba(0,0,0,0.3);
+      border-radius: 8px;
+      padding: 15px;
+      margin-bottom: 15px;
+      max-height: 400px;
+      overflow-y: auto;
+    }
+
+    .modal-content pre {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      font-size: 0.85rem;
+      line-height: 1.6;
+      color: var(--text-primary);
+    }
+
+    .modal-actions {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+    }
+
+    .modal-btn {
+      padding: 10px 25px;
+      border-radius: 8px;
+      font-family: var(--font-title);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      border: 2px solid;
+    }
+
+    .modal-btn.primary {
+      background: linear-gradient(180deg, var(--gold), var(--gold-dark));
+      border-color: var(--gold);
+      color: #1a0f0a;
+      box-shadow: 0 4px 12px rgba(255,215,0,0.3);
+    }
+
+    .modal-btn.primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(255,215,0,0.5);
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      background: rgba(0,0,0,0.3);
+      border: 1px solid var(--text-secondary);
+      color: var(--text-primary);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      transition: all 0.2s ease;
+    }
+
+    .modal-close:hover {
+      background: var(--crimson);
+      border-color: var(--crimson);
+    }
+
+    .form-group {
+      margin-bottom: 15px;
+    }
+
+    .form-group label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: bold;
+      color: var(--gold);
+      font-size: 0.9rem;
+    }
+
+    .form-control {
+      width: 100%;
+      padding: 12px 15px;
+      border: 2px solid rgba(255,215,0,0.3);
+      border-radius: 10px;
+      font-size: 1rem;
+      background: rgba(0,0,0,0.3);
+      color: var(--text-primary);
+      transition: all 0.3s ease;
+    }
+
+    .form-control:focus {
+      outline: none;
+      border-color: var(--gold);
+      box-shadow: 0 0 10px rgba(255,215,0,0.2);
+    }
+
+    .form-control option {
+      background: #1a1a2e;
+      color: var(--text-primary);
+    }
+
+    .empty-state {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px;
+      color: var(--text-secondary);
+      text-align: center;
+    }
+
+    .empty-state-icon {
+      font-size: 3rem;
+      margin-bottom: 15px;
+      opacity: 0.5;
+    }
+
+    .toast {
+      position: fixed;
+      top: 60px;
+      left: 50%;
+      transform: translateX(-50%) translateY(-10px);
+      background: rgba(0,0,0,0.95);
+      padding: 10px 20px;
+      border-radius: 8px;
+      border: 1px solid var(--gold);
+      font-size: 0.85rem;
+      opacity: 0;
+      transition: all 0.3s ease;
+      z-index: 1002;
+    }
+
+    .toast.show { transform: translateX(-50%) translateY(0); opacity: 1; }
+
+    @media (max-width: 1200px) {
+      .chapter-panel, .character-panel {
+        width: 320px;
+      }
+    }
+
+    @media (max-width: 900px) {
+      .main-area {
+        flex-direction: column;
+      }
+
+      .chapter-panel, .character-panel {
+        width: 100%;
+        max-height: 30vh;
+      }
+
+      .center-panel {
+        order: -1;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="particles" id="particles"></div>
+
+  <div class="container">
+    <header class="header">
+      <div class="nav-tabs">
+        <a href="bookshelf.html" class="nav-tab">
+          <span class="nav-tab-icon">📚</span>
+          <span>我的书架</span>
+        </a>
+        <a href="theme-selector.html" class="nav-tab">
+          <span class="nav-tab-icon">🎨</span>
+          <span>主题风格</span>
+        </a>
+        <a href="share.html" id="shareBtn" class="nav-tab">
+          <span class="nav-tab-icon">📤</span>
+          <span>分享故事</span>
+        </a>
+      </div>
+      <div class="book-cover">
+        <div class="book-3d">
+          <span>📖</span>
+        </div>
+        <h1 class="book-title" id="bookTitle">加载中...</h1>
+      </div>
+      <div class="stats">
+        <div class="stat-item">
+          <div class="stat-gem blue"></div>
+          <span class="stat-value" id="chapterCount">0</span>
+          <span class="stat-label">章节</span>
+        </div>
+        <div class="stat-item">
+          <div class="stat-gem gold"></div>
+          <span class="stat-value" id="characterCount">0</span>
+          <span class="stat-label">角色</span>
+        </div>
+        <div class="stat-item">
+          <div class="stat-gem scroll"></div>
+          <span class="stat-value" id="wordCount">0</span>
+          <span class="stat-label">字数</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="main-area">
+      <aside class="chapter-panel">
+        <div class="panel-header">
+          <span>📜</span>
+          <span>章节任务板</span>
+        </div>
+        <div class="chapters-container" id="chapterList">
+          <div class="empty-state">
+            <div class="empty-state-icon">📚</div>
+            <p>还没有章节</p>
+          </div>
+        </div>
+      </aside>
+
+      <section class="center-panel">
+        <div class="story-area">
+          <div class="story-header">
+            <h2 class="story-title" id="currentChapterTitle">选择章节开始阅读</h2>
+            <div class="story-nav">
+              <button class="nav-btn" id="prevBtn" disabled>←</button>
+              <span class="nav-info" id="chapterNav">0 / 0</span>
+              <button class="nav-btn" id="nextBtn" disabled>→</button>
+            </div>
+          </div>
+          <div class="story-content" id="storyContent">
+            <p style="text-align: center; color: var(--text-secondary);">请从左侧选择一个章节开始阅读</p>
+          </div>
+          <div class="page-nav" id="pageNav" style="display: none;">
+            <button class="page-nav-btn" id="prevPageBtn" disabled>←</button>
+            <span class="page-info" id="pageInfo">1 / 1</span>
+            <button class="page-nav-btn" id="nextPageBtn">→</button>
+          </div>
+        </div>
+      </section>
+
+      <aside class="character-panel">
+        <div class="section-header">
+          <span>🎭</span>
+          <span>英雄与随从</span>
+        </div>
+        <div class="characters-container" id="characterList">
+          <div class="empty-state">
+            <div class="empty-state-icon">🎭</div>
+            <p>还没有角色</p>
+          </div>
+        </div>
+      </aside>
+    </main>
+
+    <footer class="bottom-bar">
+      <button class="prompt-btn" id="promptBtn" style="display: none;">📝 查看提示词</button>
+      <button class="generate-btn" id="generateBtn">✨ 生成下一章</button>
+    </footer>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <div class="modal-overlay" id="promptModal">
+    <div class="spellbook-modal">
+      <button class="modal-close" id="promptModalClose">×</button>
+      <h3 class="modal-title">📝 生成提示词</h3>
+      <div class="modal-content">
+        <pre id="promptContent"></pre>
+      </div>
+      <div class="modal-actions">
+        <button class="modal-btn primary" id="promptModalConfirm">关闭</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-overlay" id="editModal">
+    <div class="spellbook-modal">
+      <button class="modal-close" id="editModalClose">×</button>
+      <h3 class="modal-title">✏️ 编辑角色</h3>
+      <div class="modal-content">
+        <div class="form-group">
+          <label>自定义名称</label>
+          <input type="text" id="editCustomName" class="form-control" maxlength="20">
+        </div>
+        <div class="form-group">
+          <label>角色类型</label>
+          <select id="editRoleType" class="form-control">
+            <option value="protagonist">⭐ 主角</option>
+            <option value="supporting">🎭 配角</option>
+            <option value="antagonist">👿 反派</option>
+            <option value="bystander">🚶 路人</option>
+          </select>
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button class="modal-btn primary" id="updateCharacterBtn">✅ 保存</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-overlay" id="addCharacterModal">
+    <div class="spellbook-modal">
+      <button class="modal-close" id="addCharacterModalClose">×</button>
+      <h3 class="modal-title">➕ 添加角色</h3>
+      <div class="modal-content">
+        <div class="form-group">
+          <label>选择人仔</label>
+          <select id="characterSelect" class="form-control"></select>
+        </div>
+        <div class="form-group">
+          <label>自定义名称</label>
+          <input type="text" id="customName" class="form-control" placeholder="为角色取个名字" maxlength="20">
+        </div>
+        <div class="form-group">
+          <label>角色类型</label>
+          <select id="roleTypeSelect" class="form-control">
+            <option value="protagonist">⭐ 主角</option>
+            <option value="supporting" selected>🎭 配角</option>
+            <option value="antagonist">👿 反派</option>
+            <option value="bystander">🚶 路人</option>
+          </select>
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button class="modal-btn primary" id="saveCharacterBtn">✅ 保存</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-overlay" id="plotModal">
+    <div class="spellbook-modal" style="max-width: 600px;">
+      <button class="modal-close" id="plotModalClose">×</button>
+      <h3 class="modal-title">🎭 选择故事情节</h3>
+      <div class="modal-content" style="max-height: 400px; overflow-y: auto;">
+        <div style="margin-bottom: 20px;">
+          <h4 style="color: var(--gold); margin-bottom: 10px; font-size: 0.9rem;">☀️ 天气</h4>
+          <div id="weatherOptions" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px;"></div>
+        </div>
+        <div style="margin-bottom: 20px;">
+          <h4 style="color: var(--gold); margin-bottom: 10px; font-size: 0.9rem;">🗺️ 冒险类型</h4>
+          <div id="adventureTypeOptions" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px;"></div>
+        </div>
+        <div style="margin-bottom: 20px;">
+          <h4 style="color: var(--gold); margin-bottom: 10px; font-size: 0.9rem;">🌲 地形</h4>
+          <div id="terrainOptions" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px;"></div>
+        </div>
+        <div style="margin-bottom: 20px;">
+          <h4 style="color: var(--gold); margin-bottom: 10px; font-size: 0.9rem;">🪄 装备与道具</h4>
+          <div id="equipmentOptions" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px;"></div>
+        </div>
+      </div>
+      <div class="modal-actions" style="justify-content: space-between;">
+        <button class="modal-btn primary" id="randomPlotBtn" style="background: linear-gradient(180deg, #3b82f6, #1d4ed8); border-color: #3b82f6;">🎲 随机选择</button>
+        <div style="display: flex; gap: 12px;">
+          <button class="modal-btn primary" id="confirmPlotBtn">✨ 确认生成</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/utils.js"></script>
+  <script src="js/animations.js"></script>
+  <script src="js/theme-manager.js"></script>
+  <script>
+    var userId = requireAuth();
+    var bookId = getQueryParam('id');
+    var bookData = null;
+    var bookCharacters = [];
+    var chapters = [];
+    var currentChapterIndex = 0;
+    var plotOptions = null;
+    var selectedPlot = {
+      weather: null,
+      adventureType: null,
+      terrain: null,
+      equipment: null
+    };
+    var allCharacters = [];
+    var editingCharacterId = null;
+    var currentPrompt = '';
+    var currentContent = '';
+    var contentPages = [];
+    var currentPageIndex = 0;
+    var emojis = ['🧝‍♀️', '⚔️', '🧙‍♂️', '🔨', '💰', '👿', '🗡️', '👨‍🌾', '🦸', '👸', '🤴', '🧛'];
+
+    if (bookId) {
+      loadBook();
+      loadAllCharacters();
+    } else {
+      window.location.href = 'bookshelf.html';
+    }
+
+    for (var i = 0; i < 15; i++) {
+      var p = document.createElement('div');
+      p.className = 'particle';
+      p.style.left = Math.random() * 100 + '%';
+      p.style.animationDelay = Math.random() * 20 + 's';
+      document.getElementById('particles').appendChild(p);
+    }
+
+    async function loadAllCharacters() {
+      try {
+        var data = await fetchAPI('/characters?userId=' + userId);
+        allCharacters = data.characters || [];
+      } catch (error) {
+        console.error('Failed to load characters:', error);
+      }
+    }
+
+    async function loadBook() {
+      try {
+        var data = await fetchAPI('/books?bookId=' + bookId + '&userId=' + userId);
+        bookData = data.book;
+        bookCharacters = data.characters || [];
+        chapters = data.chapters || [];
+
+        document.getElementById('bookTitle').textContent = bookData.title;
+        document.getElementById('chapterCount').textContent = chapters.length;
+        document.getElementById('characterCount').textContent = bookCharacters.length;
+        document.getElementById('wordCount').textContent = bookData.word_count || '0';
+
+        document.getElementById('shareBtn').href = 'share.html?bookId=' + bookId;
+
+        renderChapters();
+        renderCharacters();
+
+        var savedPrompt = sessionStorage.getItem('savedPrompt_' + bookId);
+        if (savedPrompt) {
+          currentPrompt = savedPrompt;
+          document.getElementById('promptBtn').style.display = 'block';
+          sessionStorage.removeItem('savedPrompt_' + bookId);
+        }
+
+        if (chapters.length > 0) {
+          selectChapter(0);
+        }
+      } catch (error) {
+        showToast('加载失败：' + error.message, 'error');
+      }
+    }
+
+    function renderChapters() {
+      var container = document.getElementById('chapterList');
+
+      if (chapters.length === 0) {
+        container.innerHTML = '<div class="empty-state"><div class="empty-state-icon">📚</div><p>还没有章节</p></div>';
+        return;
+      }
+
+      var html = '';
+      for (var i = 0; i < chapters.length; i++) {
+        var ch = chapters[i];
+        var statusClass, statusText, statusIcon;
+        
+        if (!ch.has_puzzle) {
+          statusClass = 'pending';
+          statusText = '待解';
+        } else if (ch.puzzle_result === 1) {
+          statusClass = 'done';
+          statusText = '✓';
+        } else if (ch.puzzle_result === 0) {
+          statusClass = 'draft';
+          statusText = '✗';
+        } else {
+          statusClass = 'pending';
+          statusText = '?';
+        }
+        
+        var romanNum = toRoman(i + 1);
+
+        html += '<article class="chapter-card' + (i === currentChapterIndex ? ' active' : '') + '" onclick="selectChapter(' + i + ')">' +
+          '<div class="chapter-badge">' + romanNum + '</div>' +
+          '<div class="chapter-content">' +
+            '<h3 class="chapter-title">' + ch.title + '</h3>' +
+            '<p class="chapter-meta">第' + ch.chapter_number + '章</p>' +
+          '</div>' +
+          '<span class="chapter-status ' + statusClass + '">' + statusText + '</span>' +
+        '</article>';
+      }
+
+      container.innerHTML = html;
+    }
+
+    function toRoman(num) {
+      var roman = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX'];
+      return roman[num - 1] || num;
+    }
+
+    async function selectChapter(index) {
+      if (index < 0 || index >= chapters.length) return;
+
+      currentChapterIndex = index;
+      var chapter = chapters[index];
+
+      document.getElementById('currentChapterTitle').textContent = '第' + chapter.chapter_number + '章：' + chapter.title;
+      document.getElementById('chapterNav').textContent = (index + 1) + ' / ' + chapters.length;
+
+      document.getElementById('prevBtn').disabled = index === 0;
+      document.getElementById('nextBtn').disabled = index === chapters.length - 1;
+
+      try {
+        var data = await fetchAPI('/chapters?id=' + chapter.chapter_id);
+        var content = data.chapter.content;
+        var highlighted = highlightKeywords(content);
+        currentContent = '<p>' + highlighted.replace(/\n/g, '</p><p>') + '</p>';
+        currentContent = currentContent.replace(/<p><\/p>/g, '');
+        
+        contentPages = [currentContent];
+        currentPageIndex = 0;
+        
+        if (data.chapter.has_puzzle) {
+          var puzzleBtn = '<p style="text-align: center; margin-top: 20px;"><a href="adventure.html?chapterId=' + chapter.chapter_id + '" class="generate-btn" style="text-decoration: none; display: inline-block;">🧩 去解密</a></p>';
+          contentPages[contentPages.length - 1] += puzzleBtn;
+        }
+        
+        renderCurrentPage();
+        
+        setTimeout(function() {
+          checkOverflowAndSplit();
+        }, 100);
+      } catch (error) {
+        document.getElementById('storyContent').innerHTML = '<p style="text-align: center; color: #f87171;">加载失败：' + error.message + '</p>';
+        document.getElementById('pageNav').style.display = 'none';
+      }
+
+      renderChapters();
+    }
+
+    function checkOverflowAndSplit() {
+      var container = document.getElementById('storyContent');
+      var content = container.innerHTML;
+      
+      var containerHeight = container.clientHeight;
+      var contentHeight = container.scrollHeight;
+      
+      if (contentHeight <= containerHeight + 5) {
+        document.getElementById('pageNav').style.display = 'none';
+        return;
+      }
+
+      var paragraphs = content.split('</p>');
+      var pages = [];
+      var currentPage = '';
+      var tempDiv = document.createElement('div');
+      tempDiv.style.cssText = 'position: absolute; visibility: hidden; width: ' + (container.clientWidth - 20) + 'px; font-size: 1rem; line-height: 1.9; padding: 0;';
+      document.body.appendChild(tempDiv);
+
+      for (var i = 0; i < paragraphs.length; i++) {
+        var p = paragraphs[i];
+        if (p.trim() === '') continue;
+        
+        var fullP = p + '</p>';
+        tempDiv.innerHTML = currentPage + fullP;
+        
+        if (tempDiv.scrollHeight > containerHeight - 10 && currentPage !== '') {
+          pages.push(currentPage);
+          currentPage = fullP;
+        } else {
+          currentPage += fullP;
+        }
+      }
+
+      document.body.removeChild(tempDiv);
+
+      if (currentPage !== '') {
+        pages.push(currentPage);
+      }
+
+      if (pages.length > 1) {
+        contentPages = pages;
+        currentPageIndex = 0;
+        renderCurrentPage();
+        document.getElementById('pageNav').style.display = 'flex';
+      } else {
+        document.getElementById('pageNav').style.display = 'none';
+      }
+    }
+
+    function renderCurrentPage() {
+      var container = document.getElementById('storyContent');
+      container.innerHTML = contentPages[currentPageIndex] || '<p>暂无内容</p>';
+      
+      document.getElementById('pageInfo').textContent = (currentPageIndex + 1) + ' / ' + contentPages.length;
+      document.getElementById('prevPageBtn').disabled = currentPageIndex === 0;
+      document.getElementById('nextPageBtn').disabled = currentPageIndex >= contentPages.length - 1;
+    }
+
+    document.getElementById('prevPageBtn').addEventListener('click', function() {
+      if (currentPageIndex > 0) {
+        currentPageIndex--;
+        renderCurrentPage();
+      }
+    });
+
+    document.getElementById('nextPageBtn').addEventListener('click', function() {
+      if (currentPageIndex < contentPages.length - 1) {
+        currentPageIndex++;
+        renderCurrentPage();
+      }
+    });
+
+    function highlightKeywords(content) {
+      var keywords = [];
+
+      bookCharacters.forEach(function(char) {
+        if (char.custom_name) {
+          keywords.push({ text: char.custom_name, type: 'char-name' });
+        }
+      });
+
+      var actionWords = ['飞向', '跳跃', '奔跑', '战斗', '探索', '发现', '拯救', '追逐', '攀爬', '游泳', '飞翔', '旋转', '冲刺', '躲闪', '攻击', '防御', '寻找', '收集', '建造', '修复', '转过身', '握紧', '举起', '拔出', '走上前', '拉住'];
+      actionWords.forEach(function(word) {
+        keywords.push({ text: word, type: 'action-word' });
+      });
+
+      var emotionWords = ['开心', '快乐', '勇敢', '害怕', '兴奋', '紧张', '感动', '惊讶', '愤怒', '悲伤', '期待', '满足', '自豪', '担心', '安心', '激动', '欣慰', '坚定', '犹豫', '恐惧', '慈祥', '关切'];
+      emotionWords.forEach(function(word) {
+        keywords.push({ text: word, type: 'emotion-word' });
+      });
+
+      var locationWords = ['城堡', '森林', '太空', '海底', '沙漠', '雪山', '火山', '洞穴', '城市', '村庄', '花园', '岛屿', '山脉', '河流', '星空', '云层', '迷宫', '宝藏', '遗迹', '基地', '悬崖'];
+      locationWords.forEach(function(word) {
+        keywords.push({ text: word, type: 'location-word' });
+      });
+
+      var weatherWords = ['阳光', '浓雾', '闪电', '乌云', '夜空', '和平', '清晨', '下雨', '打雷', '下雪', '大雾', '狂风', '彩虹', '星夜'];
+      weatherWords.forEach(function(word) {
+        keywords.push({ text: word, type: 'weather-word' });
+      });
+
+      var itemWords = ['魔法杖', '宝剑', '盾牌', '地图', '药水', '金龙'];
+      itemWords.forEach(function(word) {
+        keywords.push({ text: word, type: 'item-word' });
+      });
+
+      keywords.sort(function(a, b) { return b.text.length - a.text.length; });
+
+      keywords.forEach(function(kw) {
+        var regex = new RegExp('(' + escapeRegex(kw.text) + ')', 'g');
+        content = content.replace(regex, '<span class="' + kw.type + '">$1</span>');
+      });
+
+      return content;
+    }
+
+    function escapeRegex(string) {
+      return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+
+    function renderCharacters() {
+      var container = document.getElementById('characterList');
+
+      if (bookCharacters.length === 0) {
+        container.innerHTML = '<div class="empty-state"><div class="empty-state-icon">🎭</div><p>还没有角色</p></div>';
+        return;
+      }
+
+      var html = '';
+      for (var i = 0; i < bookCharacters.length; i++) {
+        var char = bookCharacters[i];
+        var emoji = emojis[i % emojis.length];
+        var attack = Math.floor(Math.random() * 5) + 3;
+        var health = Math.floor(Math.random() * 5) + 3;
+
+        html += '<div class="hs-card ' + char.role_type + '" data-char-id="' + char.id + '">' +
+          '<span class="role-tag">' + getRoleLabel(char.role_type) + '</span>' +
+          '<div class="hs-portrait"><span class="hs-avatar">' + emoji + '</span></div>' +
+          '<div class="hs-name-banner"><span class="hs-name">' + char.custom_name + '</span></div>' +
+          '<div class="hs-card-actions-bottom">' +
+            '<button class="hs-action-btn edit-btn" onclick="event.stopPropagation(); openEditModal(\'' + char.id + '\')">✏️</button>' +
+            '<button class="hs-action-btn delete-btn" onclick="event.stopPropagation(); deleteCharacter(\'' + char.id + '\')">🗑️</button>' +
+          '</div>' +
+        '</div>';
+      }
+
+      html += '<button class="add-character-btn" onclick="openAddCharacterModal()">' +
+        '<span class="pack-icon">📦</span>' +
+        '<span class="pack-text">添加角色</span>' +
+      '</button>';
+
+      container.innerHTML = html;
+    }
+
+    function getRoleLabel(roleType) {
+      var roles = {
+        'protagonist': '主角',
+        'supporting': '配角',
+        'antagonist': '反派',
+        'bystander': '路人'
+      };
+      return roles[roleType] || '配角';
+    }
+
+    function openEditModal(id) {
+      editingCharacterId = id;
+      var char = bookCharacters.find(function(c) { return c.id === id; });
+      if (!char) return;
+
+      document.getElementById('editCustomName').value = char.custom_name;
+      document.getElementById('editRoleType').value = char.role_type;
+      document.getElementById('editModal').classList.add('active');
+    }
+
+    function openAddCharacterModal() {
+      var existingIds = bookCharacters.map(function(c) { return c.character_id; });
+      var availableChars = allCharacters.filter(function(c) {
+        return existingIds.indexOf(c.character_id) === -1;
+      });
+
+      var select = document.getElementById('characterSelect');
+      if (availableChars.length === 0) {
+        select.innerHTML = '<option value="">没有可选的人仔</option>';
+      } else {
+        select.innerHTML = availableChars.map(function(c) {
+          return '<option value="' + c.character_id + '">' + c.name + '</option>';
+        }).join('');
+      }
+
+      document.getElementById('customName').value = '';
+      document.getElementById('roleTypeSelect').value = 'supporting';
+      document.getElementById('addCharacterModal').classList.add('active');
+    }
+
+    function closeModal(modalId) {
+      document.getElementById(modalId).classList.remove('active');
+    }
+
+    document.getElementById('editModalClose').addEventListener('click', function() { closeModal('editModal'); });
+    document.getElementById('addCharacterModalClose').addEventListener('click', function() { closeModal('addCharacterModal'); });
+    document.getElementById('promptModalClose').addEventListener('click', function() { closeModal('promptModal'); });
+    document.getElementById('promptModalConfirm').addEventListener('click', function() { closeModal('promptModal'); });
+    document.getElementById('plotModalClose').addEventListener('click', function() { closeModal('plotModal'); });
+
+    document.getElementById('updateCharacterBtn').addEventListener('click', async function() {
+      if (!editingCharacterId) return;
+
+      var customName = document.getElementById('editCustomName').value.trim();
+      var roleType = document.getElementById('editRoleType').value;
+
+      if (!customName) {
+        showToast('请输入自定义名称', 'error');
+        return;
+      }
+
+      try {
+        await fetchAPI('/book-characters', {
+          method: 'PUT',
+          body: {
+            id: editingCharacterId,
+            customName: customName,
+            roleType: roleType
+          }
+        });
+        showToast('角色更新成功！🎉', 'success');
+        closeModal('editModal');
+        editingCharacterId = null;
+        loadBook();
+      } catch (error) {
+        showToast('更新失败：' + error.message, 'error');
+      }
+    });
+
+    async function deleteCharacter(id) {
+      if (!confirm('确定要删除这个角色吗？')) return;
+
+      try {
+        await fetchAPI('/book-characters?id=' + id, {
+          method: 'DELETE'
+        });
+        showToast('角色删除成功！', 'success');
+        loadBook();
+      } catch (error) {
+        showToast('删除失败：' + error.message, 'error');
+      }
+    }
+
+    document.getElementById('saveCharacterBtn').addEventListener('click', async function() {
+      var characterId = document.getElementById('characterSelect').value;
+      var customName = document.getElementById('customName').value.trim();
+      var roleType = document.getElementById('roleTypeSelect').value;
+
+      if (!characterId) {
+        showToast('请选择人仔', 'error');
+        return;
+      }
+      if (!customName) {
+        showToast('请输入自定义名称', 'error');
+        return;
+      }
+
+      try {
+        await fetchAPI('/book-characters', {
+          method: 'POST',
+          body: {
+            bookId: bookId,
+            characterId: characterId,
+            customName: customName,
+            roleType: roleType
+          }
+        });
+        showToast('角色添加成功！🎉', 'success');
+        closeModal('addCharacterModal');
+        loadBook();
+      } catch (error) {
+        showToast('添加失败：' + error.message, 'error');
+      }
+    });
+
+    document.getElementById('prevBtn').addEventListener('click', function() {
+      if (currentChapterIndex > 0) {
+        selectChapter(currentChapterIndex - 1);
+      }
+    });
+
+    document.getElementById('nextBtn').addEventListener('click', function() {
+      if (currentChapterIndex < chapters.length - 1) {
+        selectChapter(currentChapterIndex + 1);
+      }
+    });
+
+    document.getElementById('promptBtn').addEventListener('click', function() {
+      document.getElementById('promptContent').textContent = currentPrompt;
+      document.getElementById('promptModal').classList.add('active');
+    });
+
+    document.getElementById('generateBtn').addEventListener('click', async function() {
+      if (bookCharacters.length === 0) {
+        showToast('请先添加角色', 'error');
+        return;
+      }
+
+      if (chapters.length >= 100) {
+        showToast('📚 本书籍已达章节上限', 'error');
+        return;
+      }
+
+      if (currentPrompt) {
+        sessionStorage.setItem('savedPrompt_' + bookId, currentPrompt);
+      }
+
+      window.location.href = 'story-director.html?bookId=' + bookId;
+    });
+
+    async function showPlotModal() {
+      if (!plotOptions) {
+        try {
+          var data = await fetchAPI('/plot-options');
+          plotOptions = data.plotOptions;
+        } catch (error) {
+          console.error('加载情节选项失败:', error);
+          plotOptions = getDefaultPlotOptions();
+        }
+      }
+
+      selectedPlot = { weather: null, adventureType: null, terrain: null, equipment: null };
+      renderPlotOptions();
+      document.getElementById('plotModal').classList.add('active');
+    }
+
+    function getDefaultPlotOptions() {
+      return {
+        weather: [
+          { id: 'sunny', name: '晴天', icon: '☀️' },
+          { id: 'rainy', name: '下雨', icon: '🌧️' },
+          { id: 'thunder', name: '打雷', icon: '⛈️' },
+          { id: 'snow', name: '下雪', icon: '❄️' },
+          { id: 'fog', name: '大雾', icon: '🌫️' },
+          { id: 'wind', name: '狂风', icon: '💨' },
+          { id: 'rainbow', name: '彩虹', icon: '🌈' },
+          { id: 'starry', name: '星夜', icon: '🌟' }
+        ],
+        adventureType: [
+          { id: 'friendship', name: '友谊考验', icon: '🤝' },
+          { id: 'adventure', name: '冒险之旅', icon: '🗺️' },
+          { id: 'wisdom', name: '智慧挑战', icon: '🧠' },
+          { id: 'courage', name: '勇气试炼', icon: '💪' },
+          { id: 'treasure', name: '寻宝探险', icon: '💎' },
+          { id: 'rescue', name: '救援任务', icon: '🦸' },
+          { id: 'mystery', name: '神秘探索', icon: '🔮' },
+          { id: 'competition', name: '竞技比赛', icon: '🏆' }
+        ],
+        terrain: [
+          { id: 'forest', name: '森林', icon: '🌲' },
+          { id: 'castle', name: '城堡', icon: '🏰' },
+          { id: 'ocean', name: '海洋', icon: '🌊' },
+          { id: 'desert', name: '沙漠', icon: '🏜️' },
+          { id: 'mountain', name: '山峰', icon: '⛰️' },
+          { id: 'glacier', name: '冰川', icon: '🧊' },
+          { id: 'volcano', name: '火山', icon: '🌋' },
+          { id: 'city', name: '城市', icon: '🏙️' }
+        ],
+        equipment: [
+          { id: 'wand', name: '魔法杖', icon: '🪄' },
+          { id: 'shield', name: '盾牌', icon: '🛡️' },
+          { id: 'map', name: '地图', icon: '🗺️' },
+          { id: 'telescope', name: '望远镜', icon: '🔭' },
+          { id: 'sword', name: '宝剑', icon: '⚔️' },
+          { id: 'potion', name: '药水', icon: '🧪' },
+          { id: 'flyer', name: '飞行器', icon: '🚀' },
+          { id: 'cloak', name: '隐身斗篷', icon: '🧥' }
+        ]
+      };
+    }
+
+    function renderPlotOptions() {
+      renderPlotCategory('weatherOptions', plotOptions.weather, 'weather');
+      renderPlotCategory('adventureTypeOptions', plotOptions.adventureType, 'adventureType');
+      renderPlotCategory('terrainOptions', plotOptions.terrain, 'terrain');
+      renderPlotCategory('equipmentOptions', plotOptions.equipment, 'equipment');
+    }
+
+    function renderPlotCategory(containerId, options, category) {
+      var container = document.getElementById(containerId);
+      var html = '';
+
+      for (var i = 0; i < options.length; i++) {
+        var option = options[i];
+        var selected = selectedPlot[category] === option.id;
+        var style = selected
+          ? 'background: rgba(255,215,0,0.3); border: 2px solid var(--gold);'
+          : 'background: rgba(255,255,255,0.05); border: 2px solid rgba(255,255,255,0.1);';
+
+        html += '<button onclick="selectPlotOption(\'' + category + '\', \'' + option.id + '\')" style="' + style + ' border-radius: 8px; padding: 8px; cursor: pointer; display: flex; flex-direction: column; align-items: center; gap: 4px; transition: all 0.2s;">' +
+          '<span style="font-size: 20px;">' + option.icon + '</span>' +
+          '<span style="font-size: 0.7rem; font-weight: bold; color: var(--text-primary);">' + option.name + '</span>' +
+        '</button>';
+      }
+
+      container.innerHTML = html;
+    }
+
+    function selectPlotOption(category, id) {
+      selectedPlot[category] = id;
+      renderPlotOptions();
+    }
+
+    document.getElementById('randomPlotBtn').addEventListener('click', function() {
+      if (!plotOptions) return;
+      selectedPlot.weather = plotOptions.weather[Math.floor(Math.random() * plotOptions.weather.length)].id;
+      selectedPlot.adventureType = plotOptions.adventureType[Math.floor(Math.random() * plotOptions.adventureType.length)].id;
+      selectedPlot.terrain = plotOptions.terrain[Math.floor(Math.random() * plotOptions.terrain.length)].id;
+      selectedPlot.equipment = plotOptions.equipment[Math.floor(Math.random() * plotOptions.equipment.length)].id;
+      renderPlotOptions();
+    });
+
+    document.getElementById('confirmPlotBtn').addEventListener('click', async function() {
+      if (!selectedPlot.weather || !selectedPlot.adventureType || !selectedPlot.terrain || !selectedPlot.equipment) {
+        showToast('请选择所有情节选项，或点击随机选择', 'error');
+        return;
+      }
+
+      closeModal('plotModal');
+      await generateNewChapter();
+    });
+
+    async function generateNewChapter() {
+      var btn = document.getElementById('generateBtn');
+      btn.disabled = true;
+      btn.textContent = '🔄 生成中...';
+
+      try {
+        var charactersData = bookCharacters.map(function(c) {
+          return {
+            character_id: c.character_id,
+            custom_name: c.custom_name,
+            original_name: c.original_name || c.character_name || '未知',
+            personality: c.personality || '神秘',
+            speaking_style: c.speaking_style || '正常'
+          };
+        });
+
+        var previousSummary = null;
+        var previousPuzzle = null;
+
+        if (chapters.length > 0) {
+          var lastChapter = chapters[chapters.length - 1];
+          try {
+            var lastChapterData = await fetchAPI('/chapters?id=' + lastChapter.chapter_id + '&userId=' + userId);
+            if (lastChapterData.chapter && lastChapterData.chapter.content) {
+              previousSummary = lastChapterData.chapter.content.substring(0, 300);
+            }
+            if (lastChapterData.puzzle) {
+              var isCorrect = lastChapterData.puzzleRecord ? lastChapterData.puzzleRecord.is_correct === 1 : true;
+              previousPuzzle = {
+                question: lastChapterData.puzzle.question,
+                answer: lastChapterData.puzzle.answer,
+                isCorrect: isCorrect
+              };
+            }
+          } catch (e) {
+            console.error('Failed to get previous chapter:', e);
+          }
+        }
+
+        var requestBody = {
+          characters: charactersData,
+          plot: '冒险之旅',
+          chapter: chapters.length + 1,
+          chapterCharacters: charactersData,
+          previousSummary: previousSummary,
+          previousPuzzle: previousPuzzle,
+          plotSelection: selectedPlot
+        };
+
+        var storyData = await fetchAPI('/story', {
+          method: 'POST',
+          body: requestBody
+        });
+
+        var chapterData = {
+          bookId: bookId,
+          title: storyData.title || '新章节',
+          content: storyData.content
+        };
+
+        if (storyData.puzzle) {
+          chapterData.puzzle = storyData.puzzle;
+        }
+
+        await fetchAPI('/chapters', {
+          method: 'POST',
+          body: chapterData
+        });
+
+        showToast('章节生成成功！🎉', 'success');
+
+        if (storyData.prompt) {
+          currentPrompt = storyData.prompt;
+          document.getElementById('promptBtn').style.display = 'block';
+        }
+
+        loadBook();
+      } catch (error) {
+        showToast('生成失败：' + error.message, 'error');
+      } finally {
+        btn.disabled = false;
+        btn.textContent = '✨ 生成下一章';
+      }
+    }
+
+    function showToast(msg) {
+      var toast = document.getElementById('toast');
+      toast.textContent = msg;
+      toast.classList.add('show');
+      setTimeout(function() { toast.classList.remove('show'); }, 2000);
+    }
+  </script>
+</body>
+</html>

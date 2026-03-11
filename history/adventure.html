@@ -1,0 +1,907 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>冒险模式 - 乐高故事书</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --gold: #ffd700;
+      --gold-dark: #b8860b;
+      --silver: #c0c0c0;
+      --crimson: #dc2626;
+      --purple: #a855f7;
+      --green: #22c55e;
+      --blue: #3b82f6;
+      --orange: #f59e0b;
+      --bg-dark: #0d0d14;
+      --bg-medium: #1a1a2e;
+      --text-primary: #f8fafc;
+      --text-secondary: #94a3b8;
+      --font-title: 'Cinzel', serif;
+      --font-body: 'Noto Sans SC', sans-serif;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: var(--font-body);
+      background: linear-gradient(180deg, #1a1a2e 0%, #0d0d14 100%);
+      min-height: 100vh;
+      color: var(--text-primary);
+      overflow-x: hidden;
+    }
+
+    .particles {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .particle {
+      position: absolute;
+      width: 2px;
+      height: 2px;
+      background: var(--gold);
+      border-radius: 50%;
+      opacity: 0.3;
+      animation: float 20s linear infinite;
+    }
+
+    @keyframes float {
+      0% { transform: translateY(100vh); opacity: 0; }
+      10% { opacity: 0.3; }
+      90% { opacity: 0.3; }
+      100% { transform: translateY(-100vh); opacity: 0; }
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px 0;
+      border-bottom: 1px solid rgba(255,215,0,0.2);
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+
+    .header-title {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .header-icon {
+      font-size: 2rem;
+    }
+
+    .header-text {
+      font-family: var(--font-title);
+      font-size: 1.8rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--gold), #ff9800);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .nav-tabs {
+      display: flex;
+      gap: 10px;
+    }
+
+    .nav-tab {
+      padding: 10px 18px;
+      border-radius: 10px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .nav-tab:hover {
+      background: rgba(255,215,0,0.1);
+      border-color: rgba(255,215,0,0.3);
+      color: var(--text-primary);
+    }
+
+    .time-panel {
+      background: linear-gradient(180deg, #2d2d44, #1a1a2e);
+      border-radius: 15px;
+      border: 2px solid rgba(255,215,0,0.3);
+      padding: 25px;
+      text-align: center;
+      margin-bottom: 25px;
+    }
+
+    .time-label {
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      margin-bottom: 10px;
+    }
+
+    .time-display {
+      font-family: var(--font-title);
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: var(--gold);
+      margin-bottom: 15px;
+    }
+
+    .progress-bar {
+      height: 8px;
+      background: rgba(0,0,0,0.3);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--gold), var(--orange));
+      border-radius: 4px;
+      width: 35%;
+      animation: progress-pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes progress-pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.7; }
+    }
+
+    .time-limit {
+      color: var(--text-secondary);
+      font-size: 0.8rem;
+      margin-top: 10px;
+    }
+
+    .story-card {
+      background: linear-gradient(180deg, #2d2d44, #1a1a2e);
+      border-radius: 15px;
+      border: 2px solid rgba(255,215,0,0.2);
+      padding: 25px;
+      margin-bottom: 25px;
+    }
+
+    .story-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .story-title {
+      font-family: var(--font-title);
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: var(--gold);
+    }
+
+    .story-content {
+      font-size: 1.1rem;
+      line-height: 2;
+      color: var(--text-primary);
+    }
+
+    .story-content p {
+      margin-bottom: 20px;
+      text-indent: 2em;
+    }
+
+    .char-name { color: #f87171; font-weight: 600; }
+    .action-word { color: #a78bfa; font-weight: 600; }
+    .emotion-word { color: #4ade80; font-weight: 600; }
+    .location-word { color: #fbbf24; font-weight: 600; }
+    .weather-word { color: #60a5fa; font-weight: 600; }
+
+    .puzzle-container {
+      background: linear-gradient(180deg, #2d2d44, #1a1a2e);
+      border-radius: 15px;
+      border: 2px solid var(--purple);
+      padding: 25px;
+      display: none;
+    }
+
+    .puzzle-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .puzzle-question {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    .attempts-display {
+      display: flex;
+      gap: 8px;
+    }
+
+    .attempt-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.2);
+      transition: all 0.3s ease;
+    }
+
+    .attempt-dot.active {
+      background: var(--gold);
+      box-shadow: 0 0 10px rgba(255,215,0,0.5);
+    }
+
+    .puzzle-options {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+    }
+
+    .puzzle-option {
+      background: linear-gradient(180deg, #3d3d3d, #2a2a2a);
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      border: 2px solid transparent;
+      font-size: 1rem;
+    }
+
+    .puzzle-option:hover {
+      border-color: var(--purple);
+      transform: translateY(-3px);
+      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    }
+
+    .puzzle-option.selected {
+      border-color: var(--gold);
+      background: linear-gradient(180deg, #4a4a4a, #3a3a3a);
+    }
+
+    .puzzle-option.correct {
+      border-color: var(--green);
+      background: linear-gradient(180deg, #1a4a2e, #166534);
+    }
+
+    .puzzle-option.wrong {
+      border-color: var(--crimson);
+      background: linear-gradient(180deg, #4a2a2e, #3f3f46);
+      animation: shake 0.5s ease-in-out;
+    }
+
+    @keyframes shake {
+      0%, 100% { transform: translateX(0); }
+      20%, 60% { transform: translateX(-5px); }
+      40%, 80% { transform: translateX(5px); }
+    }
+
+    .puzzle-result {
+      text-align: center;
+      padding: 20px;
+      border-radius: 10px;
+      margin-top: 20px;
+      display: none;
+    }
+
+    .result-correct {
+      background: rgba(34,197,94,0.2);
+      color: var(--green);
+      font-size: 1.2rem;
+      font-weight: 600;
+    }
+
+    .result-wrong {
+      background: rgba(220,38,38,0.2);
+      color: #f87171;
+      font-size: 1rem;
+    }
+
+    .result-punishment {
+      background: rgba(245,158,11,0.2);
+      color: var(--orange);
+      font-size: 1rem;
+    }
+
+    .hint-box {
+      display: none;
+      align-items: center;
+      gap: 10px;
+      padding: 15px;
+      background: rgba(59,130,246,0.1);
+      border: 1px solid var(--blue);
+      border-radius: 10px;
+      margin-top: 15px;
+    }
+
+    .hint-icon {
+      font-size: 1.5rem;
+    }
+
+    .hint-text {
+      color: var(--text-secondary);
+    }
+
+    .book-select-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 15px;
+    }
+
+    .book-select-card {
+      background: linear-gradient(180deg, #2d2d44, #1a1a2e);
+      border-radius: 12px;
+      padding: 20px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      border: 2px solid transparent;
+    }
+
+    .book-select-card:hover {
+      border-color: var(--gold);
+      transform: translateY(-5px);
+    }
+
+    .book-select-card.selected {
+      border-color: var(--green);
+      background: linear-gradient(180deg, #1a3a2e, #1a1a2e);
+    }
+
+    .book-select-icon {
+      font-size: 2rem;
+      margin-bottom: 10px;
+    }
+
+    .book-select-title {
+      font-size: 0.95rem;
+      font-weight: 600;
+      margin-bottom: 5px;
+    }
+
+    .book-select-info {
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+    }
+
+    .continue-btn {
+      margin-top: 15px;
+      padding: 12px 25px;
+      font-size: 1rem;
+      font-weight: 600;
+      border: none;
+      border-radius: 20px;
+      background: linear-gradient(135deg, var(--gold), #ff9800);
+      color: #000;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-family: var(--font-body);
+    }
+
+    .continue-btn:hover {
+      transform: scale(1.05);
+    }
+
+    .footer {
+      text-align: center;
+      padding: 20px;
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      border-top: 1px solid rgba(255,255,255,0.1);
+      margin-top: 30px;
+    }
+
+    .toast {
+      position: fixed;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%) translateY(-10px);
+      background: rgba(0,0,0,0.95);
+      padding: 12px 25px;
+      border-radius: 10px;
+      border: 1px solid var(--gold);
+      font-size: 0.9rem;
+      opacity: 0;
+      transition: all 0.3s ease;
+      z-index: 1002;
+    }
+
+    .toast.show {
+      transform: translateX(-50%) translateY(0);
+      opacity: 1;
+    }
+
+    .toast.success { border-color: var(--green); color: var(--green); }
+    .toast.error { border-color: var(--crimson); color: #f87171; }
+    .toast.info { border-color: var(--blue); color: var(--blue); }
+
+    @media (max-width: 600px) {
+      .puzzle-options {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="particles" id="particles"></div>
+
+  <div class="container">
+    <header class="header">
+      <div class="header-title">
+        <span class="header-icon">🗺️</span>
+        <h1 class="header-text">冒险模式</h1>
+      </div>
+      <nav class="nav-tabs">
+        <a href="index.html" class="nav-tab">🏠 首页</a>
+        <a href="bookshelf.html" class="nav-tab">📚 我的书架</a>
+      </nav>
+    </header>
+
+    <div class="time-panel">
+      <p class="time-label">⏰ 今日阅读时间</p>
+      <div class="time-display" id="timeDisplay">0分钟</div>
+      <div class="progress-bar">
+        <div class="progress-fill" id="progressFill"></div>
+      </div>
+      <p class="time-limit">每日限额：120分钟</p>
+    </div>
+
+    <div class="story-card" id="storyCard">
+      <div class="story-header">
+        <h2 class="story-title" id="chapterTitle">选择一个故事开始冒险</h2>
+      </div>
+      <div class="story-content" id="storyContent">
+        <div id="bookSelectArea">
+          <p style="text-align: center; color: var(--text-secondary); padding: 20px 0;">
+            🗺️ 选择一个故事开始你的冒险！
+          </p>
+          <div class="book-select-grid" id="bookList"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="puzzle-container" id="puzzleContainer">
+      <div class="puzzle-header">
+        <div class="puzzle-question" id="puzzleQuestion"></div>
+        <div class="attempts-display" id="attemptsDisplay">
+          <span class="attempt-dot active"></span>
+          <span class="attempt-dot active"></span>
+          <span class="attempt-dot active"></span>
+        </div>
+      </div>
+      <div class="puzzle-options" id="puzzleOptions"></div>
+      <div class="hint-box" id="hintBox">
+        <span class="hint-icon">💡</span>
+        <span class="hint-text" id="hintText"></span>
+      </div>
+      <div class="puzzle-result" id="puzzleResult"></div>
+    </div>
+
+    <footer class="footer">
+      <p>乐高故事书 &copy; 2024 - 让想象力飞翔</p>
+    </footer>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="js/utils.js"></script>
+  <script>
+    for (var i = 0; i < 15; i++) {
+      var p = document.createElement('div');
+      p.className = 'particle';
+      p.style.left = Math.random() * 100 + '%';
+      p.style.animationDelay = Math.random() * 20 + 's';
+      document.getElementById('particles').appendChild(p);
+    }
+
+    var userId = getUserId();
+    var currentChapter = null;
+    var currentPuzzle = null;
+    var currentAttempts = 0;
+    var maxAttempts = 3;
+    var puzzleSolved = false;
+
+    if (userId) {
+      loadTimeUsage();
+    }
+
+    async function loadTimeUsage() {
+      try {
+        var data = await fetchAPI('/users?userId=' + userId);
+        var used = data.user.time_used_today || 0;
+        var limit = data.user.daily_time_limit || 120;
+        
+        var timeDisplay = document.getElementById('timeDisplay');
+        if (timeDisplay) {
+          timeDisplay.textContent = formatTime(used);
+        }
+        updateProgress(used, limit);
+      } catch (error) {
+        console.error('Failed to load time:', error);
+      }
+    }
+
+    function updateProgress(used, limit) {
+      var progressFill = document.getElementById('progressFill');
+      if (!progressFill) return;
+      var percent = Math.min((used / limit) * 100, 100);
+      progressFill.style.width = percent + '%';
+    }
+
+    function formatTime(minutes) {
+      return minutes + '分钟';
+    }
+
+    async function loadChapter(chapterId) {
+      if (!userId) {
+        showToast('请先登录', 'error');
+        return;
+      }
+      
+      try {
+        var data = await fetchAPI('/chapters?id=' + chapterId + '&userId=' + userId);
+        currentChapter = data.chapter;
+        
+        if (!currentChapter) {
+          showToast('章节不存在', 'error');
+          return;
+        }
+        
+        var chapterTitle = document.getElementById('chapterTitle');
+        var storyContent = document.getElementById('storyContent');
+        var bookSelectArea = document.getElementById('bookSelectArea');
+        
+        if (chapterTitle) {
+          chapterTitle.textContent = '📖 第' + currentChapter.chapter_number + '章：' + currentChapter.title;
+        }
+        
+        var content = currentChapter.content || '';
+        if (currentChapter.book_id) {
+          var bookData = await fetchAPI('/books?bookId=' + currentChapter.book_id);
+          var characters = bookData.characters || [];
+          content = highlightKeywords(content, characters);
+        }
+        
+        if (storyContent) {
+          storyContent.innerHTML = '<p style="line-height: 2; text-align: justify;">' + content + '</p>';
+        }
+        if (bookSelectArea) {
+          bookSelectArea.style.display = 'none';
+        }
+        
+        if ((currentChapter.has_puzzle === 1 || currentChapter.has_puzzle === true) && data.puzzle) {
+          currentPuzzle = data.puzzle;
+          if (data.puzzleRecord && data.puzzleRecord.is_correct === 1) {
+            puzzleSolved = true;
+            showPuzzleResult(true);
+          } else {
+            showPuzzle(currentPuzzle);
+          }
+        }
+      } catch (error) {
+        showToast('加载失败：' + error.message, 'error');
+      }
+    }
+
+    function highlightKeywords(content, characters) {
+      var keywords = [];
+      characters.forEach(function(char) {
+        if (char.custom_name) {
+          keywords.push({ text: char.custom_name, role: char.role_type });
+        }
+      });
+      
+      var actionWords = ['飞向', '跳跃', '奔跑', '战斗', '探索', '发现', '拯救', '追逐', '攀爬', '游泳', '飞翔', '旋转', '冲刺', '躲闪', '攻击', '防御', '寻找', '收集', '建造', '修复'];
+      actionWords.forEach(function(word) {
+        keywords.push({ text: word, type: 'action' });
+      });
+      
+      var emotionWords = ['开心', '快乐', '勇敢', '害怕', '兴奋', '紧张', '感动', '惊讶', '愤怒', '悲伤', '期待', '满足', '自豪', '担心', '安心', '激动', '欣慰', '坚定', '犹豫'];
+      emotionWords.forEach(function(word) {
+        keywords.push({ text: word, type: 'emotion' });
+      });
+      
+      var locationWords = ['城堡', '森林', '太空', '海底', '沙漠', '雪山', '火山', '洞穴', '城市', '村庄', '花园', '岛屿', '山脉', '河流', '星空', '云层', '迷宫', '宝藏', '遗迹', '基地'];
+      locationWords.forEach(function(word) {
+        keywords.push({ text: word, type: 'location' });
+      });
+      
+      keywords.sort(function(a, b) { return b.text.length - a.text.length; });
+      
+      keywords.forEach(function(kw) {
+        var regex = new RegExp('(' + escapeRegex(kw.text) + ')', 'g');
+        var highlightClass;
+        if (kw.role) {
+          highlightClass = 'char-name';
+        } else if (kw.type === 'action') {
+          highlightClass = 'action-word';
+        } else if (kw.type === 'emotion') {
+          highlightClass = 'emotion-word';
+        } else if (kw.type === 'location') {
+          highlightClass = 'location-word';
+        }
+        if (highlightClass) {
+          content = content.replace(regex, '<span class="' + highlightClass + '">$1</span>');
+        }
+      });
+      
+      return content;
+    }
+
+    function escapeRegex(string) {
+      return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+
+    function showPuzzle(puzzle) {
+      var container = document.getElementById('puzzleContainer');
+      if (!container) return;
+      
+      var puzzleQuestion = document.getElementById('puzzleQuestion');
+      var puzzleOptions = document.getElementById('puzzleOptions');
+      if (!puzzleQuestion || !puzzleOptions) return;
+      
+      var options = JSON.parse(puzzle.options);
+      currentAttempts = 0;
+      puzzleSolved = false;
+      
+      puzzleQuestion.textContent = puzzle.question;
+      puzzleOptions.innerHTML = options.map(function(opt, i) {
+        var answerLetter = String.fromCharCode(65 + i);
+        return '<div class="puzzle-option" onclick="selectOption(' + i + ', \'' + answerLetter + '\')">' +
+          '<span style="margin-right: 10px; font-weight: bold;">' + answerLetter + '.</span>' +
+          opt +
+        '</div>';
+      }).join('');
+      
+      updateAttemptsDisplay();
+      var hintBox = document.getElementById('hintBox');
+      var puzzleResult = document.getElementById('puzzleResult');
+      if (hintBox) hintBox.style.display = 'none';
+      if (puzzleResult) puzzleResult.style.display = 'none';
+      container.style.display = 'block';
+    }
+
+    function updateAttemptsDisplay() {
+      var dots = document.querySelectorAll('.attempt-dot');
+      dots.forEach(function(dot, index) {
+        if (index < (maxAttempts - currentAttempts)) {
+          dot.classList.add('active');
+        } else {
+          dot.classList.remove('active');
+        }
+      });
+    }
+
+    function playSound(type) {
+      var audioContext;
+      try {
+        audioContext = new (window.AudioContext || window.webkitAudioContext)();
+      } catch (e) {
+        return;
+      }
+      
+      var oscillator = audioContext.createOscillator();
+      var gainNode = audioContext.createGain();
+      
+      oscillator.connect(gainNode);
+      gainNode.connect(audioContext.destination);
+      
+      if (type === 'correct') {
+        oscillator.frequency.setValueAtTime(523.25, audioContext.currentTime);
+        oscillator.frequency.setValueAtTime(659.25, audioContext.currentTime + 0.1);
+        oscillator.frequency.setValueAtTime(783.99, audioContext.currentTime + 0.2);
+        gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+        gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.5);
+        oscillator.start(audioContext.currentTime);
+        oscillator.stop(audioContext.currentTime + 0.5);
+      } else {
+        oscillator.frequency.setValueAtTime(200, audioContext.currentTime);
+        oscillator.frequency.setValueAtTime(150, audioContext.currentTime + 0.1);
+        gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+        gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.3);
+        oscillator.start(audioContext.currentTime);
+        oscillator.stop(audioContext.currentTime + 0.3);
+      }
+    }
+
+    async function selectOption(index, answer) {
+      if (!currentPuzzle || !userId || puzzleSolved) return;
+      
+      if (currentAttempts >= maxAttempts) {
+        showToast('⚠️ 已用完所有机会！', 'error');
+        return;
+      }
+      
+      var options = document.querySelectorAll('.puzzle-option');
+      options.forEach(function(opt) {
+        opt.classList.remove('selected');
+      });
+      options[index].classList.add('selected');
+      
+      try {
+        var data = await fetchAPI('/puzzle', {
+          method: 'POST',
+          body: {
+            puzzleId: currentPuzzle.puzzle_id,
+            userId: userId,
+            userAnswer: answer
+          }
+        });
+        
+        currentAttempts = data.attempts;
+        updateAttemptsDisplay();
+        
+        if (data.isCorrect) {
+          puzzleSolved = true;
+          options[index].classList.add('correct');
+          playSound('correct');
+          showPuzzleResult(true);
+          showToast('🎉 回答正确！', 'success');
+        } else {
+          options[index].classList.add('wrong');
+          playSound('wrong');
+          
+          if (currentAttempts >= maxAttempts) {
+            showGentlePunishment();
+          } else {
+            showToast('❌ 答案错误，还有 ' + (maxAttempts - currentAttempts) + ' 次机会！', 'error');
+          }
+          
+          if (data.hint && currentAttempts >= 2 && currentAttempts < maxAttempts) {
+            showHint(data.hint);
+          }
+        }
+      } catch (error) {
+        showToast('提交失败：' + error.message, 'error');
+      }
+    }
+
+    function showHint(hint) {
+      var hintBox = document.getElementById('hintBox');
+      var hintText = document.getElementById('hintText');
+      if (!hintBox || !hintText) return;
+      hintText.textContent = hint;
+      hintBox.style.display = 'flex';
+    }
+
+    function showGentlePunishment() {
+      var punishments = [
+        '🚪 门没有打开，再想想办法吧...',
+        '🌟 虽然没答对，但冒险还在继续！',
+        '💪 别灰心，下次一定能行！',
+        '🎭 故事还在继续，让我们看看接下来会发生什么...'
+      ];
+      var punishment = punishments[Math.floor(Math.random() * punishments.length)];
+      
+      var resultBox = document.getElementById('puzzleResult');
+      if (!resultBox) return;
+      resultBox.innerHTML = '<div class="result-punishment">' + punishment + '</div>';
+      resultBox.style.display = 'block';
+      
+      showToast('💡 ' + punishment, 'info');
+      
+      var options = document.querySelectorAll('.puzzle-option');
+      options.forEach(function(opt) {
+        opt.style.pointerEvents = 'none';
+      });
+    }
+
+    function showPuzzleResult(isCorrect, correctAnswer) {
+      var resultBox = document.getElementById('puzzleResult');
+      if (!resultBox) return;
+      
+      if (isCorrect) {
+        resultBox.innerHTML = '<div class="result-correct">🎉 恭喜你答对了！</div>';
+      } else {
+        resultBox.innerHTML = '<div class="result-wrong">😢 正确答案是：<strong>' + correctAnswer + '</strong></div>';
+      }
+      
+      if (currentChapter && currentChapter.book_id) {
+        var continueBtn = document.createElement('button');
+        continueBtn.className = 'continue-btn';
+        continueBtn.textContent = '➕ 添加章节';
+        continueBtn.onclick = function() {
+          window.location.href = 'book.html?id=' + currentChapter.book_id;
+        };
+        resultBox.appendChild(continueBtn);
+      }
+      
+      resultBox.style.display = 'block';
+      
+      var options = document.querySelectorAll('.puzzle-option');
+      options.forEach(function(opt) {
+        opt.style.pointerEvents = 'none';
+      });
+    }
+
+    async function loadBookList() {
+      var bookList = document.getElementById('bookList');
+      if (!bookList) return;
+      
+      if (!userId) {
+        bookList.innerHTML = 
+          '<p style="text-align: center; color: var(--text-secondary); grid-column: 1/-1;">请先<a href="login.html" style="color: var(--gold);">登录</a></p>';
+        return;
+      }
+      
+      try {
+        var data = await fetchAPI('/books?userId=' + userId);
+        var books = data.books || [];
+        
+        if (books.length === 0) {
+          bookList.innerHTML = 
+            '<p style="text-align: center; color: var(--text-secondary); grid-column: 1/-1;">还没有故事，<a href="story-create.html" style="color: var(--gold);">创建新故事</a></p>';
+          return;
+        }
+        
+        bookList.innerHTML = books.map(function(book) {
+          return '<div class="book-select-card" onclick="selectBook(\'' + book.book_id + '\')">' +
+            '<div class="book-select-icon">📖</div>' +
+            '<div class="book-select-title">' + book.title + '</div>' +
+            '<div class="book-select-info">📚 ' + book.chapter_count + '章</div>' +
+          '</div>';
+        }).join('');
+      } catch (error) {
+        if (bookList) {
+          bookList.innerHTML = 
+            '<p style="text-align: center; color: var(--text-secondary); grid-column: 1/-1;">加载失败，请刷新重试</p>';
+        }
+      }
+    }
+
+    async function selectBook(bookId) {
+      try {
+        var data = await fetchAPI('/books?bookId=' + bookId);
+        var chapters = data.chapters || [];
+        
+        if (chapters.length === 0) {
+          showToast('这本书还没有章节，请先添加章节', 'info');
+          window.location.href = 'book.html?id=' + bookId;
+          return;
+        }
+        
+        var firstChapter = chapters[0];
+        window.location.href = 'adventure.html?chapterId=' + firstChapter.chapter_id;
+      } catch (error) {
+        showToast('加载失败：' + error.message, 'error');
+      }
+    }
+
+    function showToast(msg, type) {
+      var toast = document.getElementById('toast');
+      if (!toast) return;
+      toast.textContent = msg;
+      toast.className = 'toast show ' + (type || '');
+      setTimeout(function() {
+        toast.classList.remove('show');
+      }, 2000);
+    }
+
+    var chapterId = getQueryParam('chapterId') || getQueryParam('chapter');
+    if (chapterId && userId) {
+      loadChapter(chapterId);
+    } else {
+      loadBookList();
+    }
+  </script>
+</body>
+</html>

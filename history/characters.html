@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>人仔角色 - 乐高故事书</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --gold: #ffd700;
+      --gold-dark: #b8860b;
+      --silver: #c0c0c0;
+      --crimson: #dc2626;
+      --purple: #a855f7;
+      --green: #22c55e;
+      --blue: #3b82f6;
+      --orange: #f59e0b;
+      --bg-dark: #0d0d14;
+      --bg-medium: #1a1a2e;
+      --text-primary: #f8fafc;
+      --text-secondary: #94a3b8;
+      --font-title: 'Cinzel', serif;
+      --font-body: 'Noto Sans SC', sans-serif;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: var(--font-body);
+      background: linear-gradient(180deg, #1a1a2e 0%, #0d0d14 100%);
+      min-height: 100vh;
+      color: var(--text-primary);
+      overflow-x: hidden;
+    }
+
+    .particles {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .particle {
+      position: absolute;
+      width: 2px;
+      height: 2px;
+      background: var(--gold);
+      border-radius: 50%;
+      opacity: 0.3;
+      animation: float 20s linear infinite;
+    }
+
+    @keyframes float {
+      0% { transform: translateY(100vh); opacity: 0; }
+      10% { opacity: 0.3; }
+      90% { opacity: 0.3; }
+      100% { transform: translateY(-100vh); opacity: 0; }
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 0;
+      border-bottom: 1px solid rgba(255,215,0,0.2);
+      margin-bottom: 30px;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+
+    .header-title {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .header-icon {
+      font-size: 2rem;
+    }
+
+    .header-text {
+      font-family: var(--font-title);
+      font-size: 1.8rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--gold), #ff9800);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .nav-tabs {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .nav-tab {
+      padding: 10px 18px;
+      border-radius: 10px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .nav-tab:hover {
+      background: rgba(255,215,0,0.1);
+      border-color: rgba(255,215,0,0.3);
+      color: var(--text-primary);
+    }
+
+    .create-btn {
+      padding: 12px 25px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      border: 2px solid var(--purple);
+      border-radius: 20px;
+      background: transparent;
+      color: var(--purple);
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-family: var(--font-body);
+    }
+
+    .create-btn:hover {
+      background: var(--purple);
+      color: white;
+      box-shadow: 0 0 20px rgba(168,85,247,0.4);
+    }
+
+    .section {
+      margin-bottom: 40px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+      padding: 15px 20px;
+      background: rgba(0,0,0,0.3);
+      border-radius: 12px;
+      border-left: 4px solid;
+    }
+
+    .section-header.preset {
+      border-color: var(--green);
+    }
+
+    .section-header.user {
+      border-color: var(--orange);
+    }
+
+    .section-icon {
+      font-size: 1.5rem;
+    }
+
+    .section-title {
+      font-family: var(--font-title);
+      font-size: 1.2rem;
+      font-weight: 600;
+    }
+
+    .section-desc {
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+      margin-top: 5px;
+    }
+
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 20px;
+    }
+
+    .hs-card {
+      width: 100%;
+      max-width: 160px;
+      margin: 0 auto;
+      aspect-ratio: 3/4;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.4);
+      background: linear-gradient(180deg, #3d3d3d, #1a1a1a);
+      border: 3px solid;
+      position: relative;
+    }
+
+    .hs-card.protagonist { border-color: var(--gold); }
+    .hs-card.antagonist { border-color: var(--crimson); }
+    .hs-card.supporting { border-color: var(--silver); }
+    .hs-card.bystander { border-color: #6b7280; }
+
+    .hs-card:hover {
+      transform: translateY(-15px) scale(1.08);
+      z-index: 100;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.5), 0 0 25px rgba(255,215,0,0.3);
+    }
+
+    .hs-portrait {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(180deg, #4a4a4a, #2a2a2a);
+    }
+
+    .hs-avatar {
+      font-size: 2.5rem;
+    }
+
+    .hs-name-banner {
+      padding: 6px 8px;
+      background: linear-gradient(180deg, #5a4a3a, #3a2a1a);
+      text-align: center;
+    }
+
+    .hs-name {
+      font-family: var(--font-title);
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff8e1;
+    }
+
+    .hs-info {
+      padding: 4px 8px;
+      background: rgba(0,0,0,0.3);
+      font-size: 0.6rem;
+      color: var(--text-secondary);
+      text-align: center;
+      line-height: 1.3;
+    }
+
+    .hs-info-item {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .hs-card-actions {
+      position: absolute;
+      top: 5px;
+      right: 5px;
+      display: flex;
+      gap: 4px;
+      opacity: 0;
+      transition: opacity 0.2s ease;
+    }
+
+    .hs-card:hover .hs-card-actions {
+      opacity: 1;
+    }
+
+    .hs-action-btn {
+      width: 22px;
+      height: 22px;
+      border-radius: 5px;
+      border: 1px solid rgba(255,255,255,0.3);
+      background: rgba(0,0,0,0.6);
+      color: white;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 10px;
+      transition: all 0.2s ease;
+    }
+
+    .hs-action-btn:hover {
+      transform: scale(1.1);
+    }
+
+    .hs-action-btn.edit:hover {
+      background: rgba(59,130,246,0.6);
+    }
+
+    .hs-action-btn.delete:hover {
+      background: rgba(220,38,38,0.6);
+    }
+
+    .system-badge {
+      position: absolute;
+      bottom: 5px;
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 3px 10px;
+      background: var(--green);
+      color: white;
+      border-radius: 10px;
+      font-size: 9px;
+      font-weight: 600;
+    }
+
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.8);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      backdrop-filter: blur(5px);
+    }
+
+    .modal-overlay.active {
+      display: flex;
+    }
+
+    .modal {
+      background: linear-gradient(180deg, #2d2d44, #1a1a2e);
+      border-radius: 20px;
+      border: 3px solid var(--gold);
+      padding: 30px;
+      width: 90%;
+      max-width: 450px;
+      position: relative;
+      transform: scale(0.9);
+      opacity: 0;
+      transition: all 0.3s ease;
+    }
+
+    .modal-overlay.active .modal {
+      transform: scale(1);
+      opacity: 1;
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 1px solid rgba(255,215,0,0.2);
+    }
+
+    .modal-title {
+      font-family: var(--font-title);
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: var(--gold);
+    }
+
+    .modal-close {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background: rgba(0,0,0,0.3);
+      border: 1px solid var(--text-secondary);
+      color: var(--text-primary);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.2rem;
+      transition: all 0.2s ease;
+    }
+
+    .modal-close:hover {
+      background: var(--crimson);
+      border-color: var(--crimson);
+    }
+
+    .form-group {
+      margin-bottom: 20px;
+    }
+
+    .form-label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+    }
+
+    .form-input {
+      width: 100%;
+      padding: 12px 15px;
+      background: rgba(0,0,0,0.4);
+      border: 2px solid rgba(255,215,0,0.3);
+      border-radius: 10px;
+      color: var(--text-primary);
+      font-size: 1rem;
+      font-family: var(--font-body);
+      transition: all 0.3s ease;
+    }
+
+    .form-input:focus {
+      outline: none;
+      border-color: var(--gold);
+      box-shadow: 0 0 15px rgba(255,215,0,0.3);
+    }
+
+    .form-textarea {
+      min-height: 80px;
+      resize: vertical;
+    }
+
+    .modal-actions {
+      display: flex;
+      gap: 15px;
+      margin-top: 25px;
+    }
+
+    .modal-btn {
+      flex: 1;
+      padding: 12px;
+      font-size: 1rem;
+      font-weight: 600;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-family: var(--font-body);
+    }
+
+    .modal-btn.primary {
+      background: linear-gradient(135deg, var(--gold), #ff9800);
+      color: #000;
+    }
+
+    .modal-btn.secondary {
+      background: rgba(255,255,255,0.1);
+      color: var(--text-secondary);
+      border: 1px solid rgba(255,255,255,0.2);
+    }
+
+    .modal-btn:hover {
+      transform: translateY(-2px);
+    }
+
+    .modal-btn.danger {
+      background: linear-gradient(135deg, var(--crimson), #991b1b);
+      color: white;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 40px 20px;
+      color: var(--text-secondary);
+    }
+
+    .empty-icon {
+      font-size: 3rem;
+      margin-bottom: 15px;
+    }
+
+    .empty-title {
+      font-size: 1.1rem;
+      margin-bottom: 10px;
+    }
+
+    .loading {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 40px;
+      color: var(--text-secondary);
+    }
+
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid rgba(255,215,0,0.3);
+      border-top-color: var(--gold);
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 15px;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    .footer {
+      text-align: center;
+      padding: 30px;
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      border-top: 1px solid rgba(255,255,255,0.1);
+      margin-top: 40px;
+    }
+
+    .toast {
+      position: fixed;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%) translateY(-10px);
+      background: rgba(0,0,0,0.95);
+      padding: 12px 25px;
+      border-radius: 10px;
+      border: 1px solid var(--gold);
+      font-size: 0.9rem;
+      opacity: 0;
+      transition: all 0.3s ease;
+      z-index: 1002;
+    }
+
+    .toast.show {
+      transform: translateX(-50%) translateY(0);
+      opacity: 1;
+    }
+
+    .toast.success { border-color: var(--green); color: var(--green); }
+    .toast.error { border-color: var(--crimson); color: #f87171; }
+
+    @media (max-width: 600px) {
+      .header {
+        flex-direction: column;
+        text-align: center;
+      }
+      
+      .card-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="particles" id="particles"></div>
+
+  <div class="container">
+    <header class="header">
+      <div class="header-title">
+        <span class="header-icon">🎭</span>
+        <h1 class="header-text">人仔角色</h1>
+      </div>
+      <nav class="nav-tabs">
+        <a href="index.html" class="nav-tab">🏠 首页</a>
+        <a href="bookshelf.html" class="nav-tab">📚 我的书架</a>
+        <a href="story-create.html" class="nav-tab">✨ 创建故事</a>
+      </nav>
+      <button class="create-btn" id="createBtn">➕ 创建人仔</button>
+    </header>
+
+    <section class="section">
+      <div class="section-header preset">
+        <span class="section-icon">⭐</span>
+        <div>
+          <h2 class="section-title">预设人仔</h2>
+          <p class="section-desc">系统提供的经典角色，可在故事中直接使用</p>
+        </div>
+      </div>
+      <div class="card-grid" id="presetList">
+        <div class="loading">
+          <div class="spinner"></div>
+          <p>加载中...</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-header user">
+        <span class="section-icon">🎨</span>
+        <div>
+          <h2 class="section-title">我的人仔</h2>
+          <p class="section-desc">你创建的专属角色，可以修改或删除</p>
+        </div>
+      </div>
+      <div class="card-grid" id="userList">
+        <div class="loading">
+          <div class="spinner"></div>
+          <p>加载中...</p>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p>乐高故事书 &copy; 2024 - 让想象力飞翔</p>
+    </footer>
+  </div>
+
+  <div class="modal-overlay" id="createModal">
+    <div class="modal">
+      <div class="modal-header">
+        <h3 class="modal-title">🎭 创建新人仔</h3>
+        <button class="modal-close" onclick="closeModal('createModal')">×</button>
+      </div>
+      <form id="createForm">
+        <div class="form-group">
+          <label class="form-label">👤 名称</label>
+          <input type="text" id="name" name="name" class="form-input" required maxlength="20" placeholder="给角色起个名字">
+        </div>
+        <div class="form-group">
+          <label class="form-label">📝 描述</label>
+          <textarea id="description" name="description" class="form-input form-textarea" placeholder="描述一下这个角色"></textarea>
+        </div>
+        <div class="form-group">
+          <label class="form-label">💫 性格</label>
+          <input type="text" id="personality" name="personality" class="form-input" placeholder="例如：勇敢、善良">
+        </div>
+        <div class="form-group">
+          <label class="form-label">🗣️ 说话风格</label>
+          <input type="text" id="speakingStyle" name="speakingStyle" class="form-input" placeholder="例如：亲切友好">
+        </div>
+        <div class="modal-actions">
+          <button type="button" class="modal-btn secondary" onclick="closeModal('createModal')">取消</button>
+          <button type="submit" class="modal-btn primary">✨ 创建</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="modal-overlay" id="editModal">
+    <div class="modal">
+      <div class="modal-header">
+        <h3 class="modal-title">✏️ 编辑人仔</h3>
+        <button class="modal-close" onclick="closeModal('editModal')">×</button>
+      </div>
+      <form id="editForm">
+        <input type="hidden" id="editCharacterId">
+        <div class="form-group">
+          <label class="form-label">👤 名称</label>
+          <input type="text" id="editName" name="name" class="form-input" required maxlength="20">
+        </div>
+        <div class="form-group">
+          <label class="form-label">📝 描述</label>
+          <textarea id="editDescription" name="description" class="form-input form-textarea"></textarea>
+        </div>
+        <div class="form-group">
+          <label class="form-label">💫 性格</label>
+          <input type="text" id="editPersonality" name="personality" class="form-input">
+        </div>
+        <div class="form-group">
+          <label class="form-label">🗣️ 说话风格</label>
+          <input type="text" id="editSpeakingStyle" name="speakingStyle" class="form-input">
+        </div>
+        <div class="modal-actions">
+          <button type="button" class="modal-btn secondary" onclick="closeModal('editModal')">取消</button>
+          <button type="submit" class="modal-btn primary">💾 保存</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="modal-overlay" id="deleteModal">
+    <div class="modal" style="max-width: 400px;">
+      <div class="modal-header">
+        <h3 class="modal-title" style="color: var(--crimson);">🗑️ 确认删除</h3>
+        <button class="modal-close" onclick="closeModal('deleteModal')">×</button>
+      </div>
+      <p id="deleteMessage" style="text-align: center; margin-bottom: 25px; font-size: 1.1rem;"></p>
+      <div class="modal-actions">
+        <button class="modal-btn secondary" onclick="closeModal('deleteModal')">取消</button>
+        <button class="modal-btn danger" id="confirmDeleteBtn">确认删除</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="js/utils.js"></script>
+  <script>
+    for (var i = 0; i < 15; i++) {
+      var p = document.createElement('div');
+      p.className = 'particle';
+      p.style.left = Math.random() * 100 + '%';
+      p.style.animationDelay = Math.random() * 20 + 's';
+      document.getElementById('particles').appendChild(p);
+    }
+
+    var userId = getUserId();
+    var allCharacters = [];
+    var deleteTargetId = null;
+
+    loadCharacters();
+
+    async function loadCharacters() {
+      var presetContainer = document.getElementById('presetList');
+      var userContainer = document.getElementById('userList');
+      
+      try {
+        var data = await fetchAPI('/characters?userId=' + userId);
+        allCharacters = data.characters || [];
+
+        var presetChars = allCharacters.filter(function(c) { return c.creator_id === 'system'; });
+        var userChars = allCharacters.filter(function(c) { return c.creator_id !== 'system'; });
+
+        renderCharacterList(presetContainer, presetChars, true);
+        renderCharacterList(userContainer, userChars, false);
+
+      } catch (error) {
+        presetContainer.innerHTML = '<div class="empty-state">加载失败，请刷新重试</div>';
+        userContainer.innerHTML = '';
+      }
+    }
+
+    function renderCharacterList(container, characters, isPreset) {
+      if (characters.length === 0) {
+        if (isPreset) {
+          container.innerHTML = '<div class="empty-state">暂无预设人仔</div>';
+        } else {
+          container.innerHTML = '<div class="empty-state">' +
+            '<div class="empty-icon">🎨</div>' +
+            '<p class="empty-title">还没有创建人仔</p>' +
+            '<p>点击上方"创建人仔"按钮开始吧！</p>' +
+          '</div>';
+        }
+        return;
+      }
+
+      var emojis = ['🧝‍♀️', '⚔️', '🧙‍♂️', '👿', '👸', '🤴', '🧛', '🧟', '🤖', '👻', '🧚', '🧜'];
+      var roleTypes = ['protagonist', 'antagonist', 'supporting', 'bystander'];
+      
+      container.innerHTML = characters.map(function(char, index) {
+        var emoji = emojis[index % emojis.length];
+        var roleType = roleTypes[index % roleTypes.length];
+        
+        var actionButtons = '';
+        if (!isPreset) {
+          actionButtons = '<div class="hs-card-actions">' +
+            '<button class="hs-action-btn edit" onclick="openEditModal(\'' + char.character_id + '\')" title="编辑">✏️</button>' +
+            '<button class="hs-action-btn delete" onclick="confirmDelete(\'' + char.character_id + '\', \'' + char.name + '\')" title="删除">🗑️</button>' +
+          '</div>';
+        }
+
+        var personalityText = char.personality || '';
+        var speakingStyleText = char.speaking_style || '';
+
+        return '<div class="hs-card ' + roleType + '">' +
+          actionButtons +
+          '<div class="hs-portrait"><span class="hs-avatar">' + emoji + '</span></div>' +
+          '<div class="hs-name-banner"><span class="hs-name">' + char.name + '</span></div>' +
+          '<div class="hs-info">' +
+            (personalityText ? '<div class="hs-info-item">💫 ' + personalityText + '</div>' : '') +
+            (speakingStyleText ? '<div class="hs-info-item">🗣️ ' + speakingStyleText + '</div>' : '') +
+          '</div>' +
+        '</div>';
+      }).join('');
+    }
+
+    function openEditModal(characterId) {
+      var char = allCharacters.find(function(c) { return c.character_id === characterId; });
+      if (!char) return;
+
+      document.getElementById('editCharacterId').value = char.character_id;
+      document.getElementById('editName').value = char.name || '';
+      document.getElementById('editDescription').value = char.description || '';
+      document.getElementById('editPersonality').value = char.personality || '';
+      document.getElementById('editSpeakingStyle').value = char.speaking_style || '';
+      
+      document.getElementById('editModal').classList.add('active');
+    }
+
+    async function confirmDelete(characterId, name) {
+      deleteTargetId = characterId;
+      
+      try {
+        var data = await fetchAPI('/characters?id=' + characterId, { method: 'DELETE' });
+        
+        if (data.needsConfirm) {
+          document.getElementById('deleteMessage').innerHTML = 
+            '该人仔已在 <strong>' + data.usageCount + '</strong> 个故事中使用，删除后角色将显示为默认形象。<br><br>确定要删除"' + name + '"吗？';
+          document.getElementById('confirmDeleteBtn').onclick = function() { executeDelete(true); };
+        } else {
+          document.getElementById('deleteMessage').textContent = '确定要删除"' + name + '"吗？此操作不可撤销。';
+          document.getElementById('confirmDeleteBtn').onclick = function() { executeDelete(false); };
+        }
+        
+        document.getElementById('deleteModal').classList.add('active');
+      } catch (error) {
+        showToast('删除失败：' + error.message, 'error');
+      }
+    }
+
+    async function executeDelete(force) {
+      if (!deleteTargetId) return;
+      
+      try {
+        var url = '/characters?id=' + deleteTargetId;
+        if (force) url += '&force=true';
+        
+        await fetchAPI(url, { method: 'DELETE' });
+        
+        showToast('人仔已删除！🗑️', 'success');
+        closeModal('deleteModal');
+        deleteTargetId = null;
+        loadCharacters();
+      } catch (error) {
+        showToast('删除失败：' + error.message, 'error');
+      }
+    }
+
+    function closeModal(id) {
+      document.getElementById(id).classList.remove('active');
+    }
+
+    document.getElementById('createBtn').addEventListener('click', function() {
+      document.getElementById('createForm').reset();
+      document.getElementById('createModal').classList.add('active');
+    });
+
+    document.getElementById('createForm').addEventListener('submit', async function(e) {
+      e.preventDefault();
+      
+      try {
+        await fetchAPI('/characters', {
+          method: 'POST',
+          body: {
+            name: document.getElementById('name').value.trim(),
+            description: document.getElementById('description').value.trim(),
+            personality: document.getElementById('personality').value.trim(),
+            speakingStyle: document.getElementById('speakingStyle').value.trim(),
+            creatorId: userId || 'user'
+          }
+        });
+        
+        showToast('人仔创建成功！🎉', 'success');
+        closeModal('createModal');
+        loadCharacters();
+      } catch (error) {
+        showToast('创建失败：' + error.message, 'error');
+      }
+    });
+
+    document.getElementById('editForm').addEventListener('submit', async function(e) {
+      e.preventDefault();
+      
+      var characterId = document.getElementById('editCharacterId').value;
+      
+      try {
+        await fetchAPI('/characters', {
+          method: 'PUT',
+          body: {
+            characterId: characterId,
+            name: document.getElementById('editName').value.trim(),
+            description: document.getElementById('editDescription').value.trim(),
+            personality: document.getElementById('editPersonality').value.trim(),
+            speakingStyle: document.getElementById('editSpeakingStyle').value.trim()
+          }
+        });
+        
+        showToast('人仔更新成功！✨', 'success');
+        closeModal('editModal');
+        loadCharacters();
+      } catch (error) {
+        showToast('更新失败：' + error.message, 'error');
+      }
+    });
+
+    document.querySelectorAll('.modal-overlay').forEach(function(modal) {
+      modal.addEventListener('click', function(e) {
+        if (e.target === this) {
+          this.classList.remove('active');
+        }
+      });
+    });
+
+    function showToast(msg, type) {
+      var toast = document.getElementById('toast');
+      toast.textContent = msg;
+      toast.className = 'toast show ' + (type || '');
+      setTimeout(function() {
+        toast.classList.remove('show');
+      }, 2000);
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,1182 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>创建故事 - 乐高故事书</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Noto+Sans+SC:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --gold: #ffd700;
+      --gold-dark: #b8860b;
+      --gold-light: #ffed4a;
+      --silver: #c0c0c0;
+      --crimson: #dc2626;
+      --purple: #a855f7;
+      --green: #22c55e;
+      --blue: #3b82f6;
+      --orange: #f59e0b;
+      --bg-dark: #0d0d14;
+      --bg-medium: #1a1a2e;
+      --bg-light: #252542;
+      --text-primary: #f8fafc;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --font-title: 'Cinzel', serif;
+      --font-body: 'Noto Sans SC', sans-serif;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: var(--font-body);
+      background: var(--bg-dark);
+      color: var(--text-primary);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    .bg-pattern {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: 
+        radial-gradient(ellipse at 20% 20%, rgba(255, 215, 0, 0.08) 0%, transparent 50%),
+        radial-gradient(ellipse at 80% 80%, rgba(168, 85, 247, 0.08) 0%, transparent 50%),
+        radial-gradient(ellipse at 50% 50%, rgba(59, 130, 246, 0.05) 0%, transparent 60%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    #particles {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    .particle {
+      position: absolute;
+      width: 4px;
+      height: 4px;
+      background: var(--gold);
+      border-radius: 50%;
+      opacity: 0.6;
+      animation: float 20s infinite ease-in-out;
+      box-shadow: 0 0 6px var(--gold);
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(100vh) rotate(0deg); opacity: 0; }
+      10% { opacity: 0.6; }
+      90% { opacity: 0.6; }
+      100% { transform: translateY(-100px) rotate(720deg); opacity: 0; }
+    }
+
+    .container {
+      position: relative;
+      z-index: 10;
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 30px 20px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .page-title {
+      font-family: var(--font-title);
+      font-size: 2.5rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--gold), var(--gold-light), var(--gold));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-shadow: 0 0 30px rgba(255, 215, 0, 0.3);
+      margin-bottom: 20px;
+      letter-spacing: 2px;
+    }
+
+    .nav {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .nav a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      padding: 10px 20px;
+      border: 1px solid rgba(255, 215, 0, 0.3);
+      border-radius: 8px;
+      transition: all 0.3s ease;
+      font-size: 0.9rem;
+    }
+
+    .nav a:hover {
+      color: var(--gold);
+      border-color: var(--gold);
+      background: rgba(255, 215, 0, 0.1);
+    }
+
+    .step-card {
+      background: linear-gradient(145deg, var(--bg-medium), var(--bg-light));
+      border: 2px solid rgba(255, 215, 0, 0.2);
+      border-radius: 20px;
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    }
+
+    .step-card h2 {
+      font-family: var(--font-title);
+      font-size: 1.5rem;
+      color: var(--gold);
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .step-card > p {
+      color: var(--text-secondary);
+      margin-bottom: 20px;
+    }
+
+    .step-indicator {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 15px;
+      margin-top: 30px;
+      padding: 20px;
+    }
+
+    .step-dot {
+      width: 45px;
+      height: 45px;
+      border-radius: 50%;
+      background: var(--bg-light);
+      border: 2px solid rgba(255, 215, 0, 0.3);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 600;
+      color: var(--text-muted);
+      transition: all 0.4s ease;
+      font-family: var(--font-title);
+    }
+
+    .step-dot.active {
+      background: linear-gradient(135deg, var(--gold), var(--gold-dark));
+      color: var(--bg-dark);
+      transform: scale(1.15);
+      box-shadow: 0 0 25px rgba(255, 215, 0, 0.5);
+      border-color: var(--gold);
+    }
+
+    .step-line {
+      width: 40px;
+      height: 2px;
+      background: rgba(255, 215, 0, 0.3);
+    }
+
+    .book-list {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      margin-bottom: 25px;
+    }
+
+    .book-card {
+      background: var(--bg-light);
+      border: 2px solid rgba(255, 215, 0, 0.2);
+      border-radius: 15px;
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .book-card:hover {
+      transform: translateY(-5px);
+      border-color: var(--gold);
+      box-shadow: 0 10px 30px rgba(255, 215, 0, 0.15);
+    }
+
+    .book-card.selected {
+      border-color: var(--green);
+      background: linear-gradient(135deg, rgba(34, 197, 94, 0.1), var(--bg-light));
+      box-shadow: 0 0 20px rgba(34, 197, 94, 0.2);
+    }
+
+    .book-icon {
+      width: 60px;
+      height: 60px;
+      background: linear-gradient(135deg, var(--blue), var(--purple));
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.8rem;
+      box-shadow: 0 5px 15px rgba(59, 130, 246, 0.3);
+    }
+
+    .book-info h3 {
+      color: var(--text-primary);
+      font-size: 1.1rem;
+      margin-bottom: 5px;
+    }
+
+    .book-info p {
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+    }
+
+    .new-book-section {
+      background: linear-gradient(135deg, rgba(255, 215, 0, 0.05), var(--bg-light));
+      border: 2px dashed rgba(255, 215, 0, 0.4);
+      border-radius: 15px;
+      padding: 25px;
+      text-align: center;
+    }
+
+    .new-book-section h3 {
+      color: var(--gold);
+      margin-bottom: 15px;
+      font-family: var(--font-title);
+    }
+
+    .input-field {
+      width: 100%;
+      max-width: 400px;
+      padding: 15px 20px;
+      background: var(--bg-dark);
+      border: 2px solid rgba(255, 215, 0, 0.3);
+      border-radius: 10px;
+      color: var(--text-primary);
+      font-size: 1rem;
+      text-align: center;
+      margin-bottom: 15px;
+      transition: all 0.3s ease;
+    }
+
+    .input-field:focus {
+      outline: none;
+      border-color: var(--gold);
+      box-shadow: 0 0 15px rgba(255, 215, 0, 0.2);
+    }
+
+    .input-field::placeholder {
+      color: var(--text-muted);
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, var(--gold), var(--gold-dark));
+      color: var(--bg-dark);
+      border: none;
+      padding: 15px 40px;
+      border-radius: 10px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-family: var(--font-body);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 25px rgba(255, 215, 0, 0.3);
+    }
+
+    .btn-primary:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    .plot-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 20px;
+    }
+
+    .plot-card {
+      background: linear-gradient(145deg, var(--bg-light), var(--bg-medium));
+      border: 2px solid rgba(255, 215, 0, 0.2);
+      border-radius: 15px;
+      padding: 25px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      aspect-ratio: 3/4;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .plot-card:hover {
+      transform: translateY(-10px) scale(1.02);
+      border-color: var(--gold);
+      box-shadow: 0 15px 35px rgba(255, 215, 0, 0.15);
+    }
+
+    .plot-card.selected {
+      border-color: var(--green);
+      background: linear-gradient(135deg, rgba(34, 197, 94, 0.15), var(--bg-light));
+      box-shadow: 0 0 25px rgba(34, 197, 94, 0.25);
+    }
+
+    .plot-icon {
+      font-size: 3rem;
+      margin-bottom: 15px;
+      filter: drop-shadow(0 0 10px rgba(255, 215, 0, 0.3));
+    }
+
+    .plot-card h3 {
+      color: var(--gold);
+      font-family: var(--font-title);
+      font-size: 1.1rem;
+      margin-bottom: 8px;
+    }
+
+    .plot-card p {
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+    }
+
+    .selected-characters-panel {
+      background: linear-gradient(135deg, rgba(255, 215, 0, 0.08), var(--bg-light));
+      border: 2px solid rgba(255, 215, 0, 0.3);
+      border-radius: 15px;
+      padding: 20px;
+      margin-bottom: 25px;
+    }
+
+    .selected-characters-panel h3 {
+      color: var(--gold);
+      margin-bottom: 15px;
+      font-family: var(--font-title);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .selected-characters-list {
+      min-height: 60px;
+    }
+
+    .selected-characters-list .empty-text {
+      color: var(--text-muted);
+      text-align: center;
+      padding: 20px;
+    }
+
+    .selected-character-item {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      padding: 15px;
+      background: var(--bg-medium);
+      border-radius: 12px;
+      margin-bottom: 12px;
+      border: 1px solid rgba(255, 215, 0, 0.2);
+    }
+
+    .character-avatar {
+      width: 50px;
+      height: 50px;
+      background: linear-gradient(135deg, var(--gold), var(--orange));
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      box-shadow: 0 5px 15px rgba(255, 215, 0, 0.2);
+    }
+
+    .character-info {
+      flex: 1;
+    }
+
+    .character-info .name-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+
+    .character-info .name-row strong {
+      color: var(--text-primary);
+    }
+
+    .role-select {
+      padding: 6px 12px;
+      background: var(--bg-dark);
+      border: 1px solid rgba(255, 215, 0, 0.3);
+      border-radius: 6px;
+      color: var(--text-primary);
+      font-size: 0.85rem;
+      cursor: pointer;
+    }
+
+    .role-select:focus {
+      outline: none;
+      border-color: var(--gold);
+    }
+
+    .custom-name-input {
+      width: 100%;
+      padding: 10px 15px;
+      background: var(--bg-dark);
+      border: 1px solid rgba(255, 215, 0, 0.3);
+      border-radius: 8px;
+      color: var(--text-primary);
+      font-size: 0.9rem;
+    }
+
+    .custom-name-input:focus {
+      outline: none;
+      border-color: var(--gold);
+    }
+
+    .custom-name-input.error {
+      border-color: var(--crimson);
+      background: rgba(220, 38, 38, 0.1);
+    }
+
+    .error-message {
+      color: var(--crimson);
+      font-size: 0.8rem;
+      margin-top: 5px;
+    }
+
+    .remove-btn {
+      background: var(--crimson);
+      color: white;
+      border: none;
+      width: 35px;
+      height: 35px;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: 1.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s ease;
+    }
+
+    .remove-btn:hover {
+      transform: scale(1.1);
+      box-shadow: 0 5px 15px rgba(220, 38, 38, 0.3);
+    }
+
+    .character-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 15px;
+    }
+
+    .character-card {
+      background: linear-gradient(145deg, var(--bg-light), var(--bg-medium));
+      border: 2px solid rgba(255, 215, 0, 0.2);
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .character-card:hover {
+      transform: translateY(-8px);
+      border-color: var(--gold);
+      box-shadow: 0 10px 25px rgba(255, 215, 0, 0.15);
+    }
+
+    .character-card.disabled {
+      opacity: 0.4;
+      pointer-events: none;
+    }
+
+    .character-card .avatar {
+      width: 60px;
+      height: 60px;
+      background: linear-gradient(135deg, var(--purple), var(--blue));
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.8rem;
+      margin: 0 auto 12px;
+      box-shadow: 0 5px 15px rgba(168, 85, 247, 0.3);
+    }
+
+    .character-card h3 {
+      color: var(--text-primary);
+      font-size: 1rem;
+      margin-bottom: 5px;
+    }
+
+    .character-card p {
+      color: var(--text-secondary);
+      font-size: 0.8rem;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 40px;
+    }
+
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid rgba(255, 215, 0, 0.2);
+      border-top-color: var(--gold);
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    .section-title {
+      color: var(--gold);
+      font-family: var(--font-title);
+      font-size: 1.2rem;
+      margin-bottom: 15px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .btn-submit {
+      width: 100%;
+      padding: 18px;
+      background: linear-gradient(135deg, var(--gold), var(--gold-dark));
+      color: var(--bg-dark);
+      border: none;
+      border-radius: 12px;
+      font-size: 1.2rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-family: var(--font-body);
+    }
+
+    .btn-submit:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 30px rgba(255, 215, 0, 0.3);
+    }
+
+    .toast {
+      position: fixed;
+      bottom: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 15px 30px;
+      border-radius: 10px;
+      font-size: 0.95rem;
+      z-index: 1000;
+      animation: slideUp 0.3s ease;
+    }
+
+    .toast.success {
+      background: linear-gradient(135deg, var(--green), #16a34a);
+      color: white;
+    }
+
+    .toast.error {
+      background: linear-gradient(135deg, var(--crimson), #b91c1c);
+      color: white;
+    }
+
+    .toast.info {
+      background: linear-gradient(135deg, var(--blue), #2563eb);
+      color: white;
+    }
+
+    @keyframes slideUp {
+      from { transform: translateX(-50%) translateY(20px); opacity: 0; }
+      to { transform: translateX(-50%) translateY(0); opacity: 1; }
+    }
+
+    @media (max-width: 600px) {
+      .page-title {
+        font-size: 1.8rem;
+      }
+
+      .step-card {
+        padding: 20px;
+      }
+
+      .plot-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+      }
+
+      .plot-card {
+        padding: 15px;
+      }
+
+      .plot-icon {
+        font-size: 2rem;
+      }
+
+      .character-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .step-dot {
+        width: 35px;
+        height: 35px;
+        font-size: 0.9rem;
+      }
+
+      .step-line {
+        width: 25px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="bg-pattern"></div>
+  <div id="particles"></div>
+
+  <div class="container">
+    <header>
+      <h1 class="page-title">✨ 创建新故事</h1>
+      <nav class="nav">
+        <a href="bookshelf.html">📚 我的书架</a>
+        <a href="characters.html">🎭 人仔角色</a>
+      </nav>
+    </header>
+
+    <main>
+      <div class="step-card" id="step0Card">
+        <h2>📖 第一步：选择书籍</h2>
+        <p>选择一个已有书籍继续创作，或创建新书籍</p>
+        
+        <div id="existingBooks" class="book-list">
+          <div class="loading"><div class="spinner"></div></div>
+        </div>
+        
+        <div class="new-book-section">
+          <h3>或者创建新书籍</h3>
+          <input type="text" id="newBookTitle" class="input-field" placeholder="输入新书籍名称" maxlength="50">
+          <button class="btn-primary" onclick="createNewBook()">📖 创建新书籍</button>
+        </div>
+      </div>
+
+      <div class="step-card" id="step1Card" style="display: none;">
+        <h2>🗺️ 第二步：选择故事类型</h2>
+        <p>选择一个你喜欢的冒险类型！</p>
+        <div class="plot-grid" id="plotList"></div>
+      </div>
+
+      <div class="step-card" id="step2Card" style="display: none;">
+        <h2>🎭 第三步：选择角色</h2>
+        <p>选择故事中的角色，必须选择一个主角！</p>
+
+        <div class="selected-characters-panel">
+          <h3>📋 已选角色 (<span id="selectedCount">0</span>)</h3>
+          <div id="selectedCharacters" class="selected-characters-list">
+            <p class="empty-text">点击下方人仔添加角色</p>
+          </div>
+        </div>
+
+        <h3 class="section-title">🎭 可选人仔</h3>
+        <div class="character-grid" id="characterList"></div>
+      </div>
+
+      <div class="step-card" id="step3Card" style="display: none;">
+        <h2>🚀 第四步：确认创建</h2>
+        <form id="storyForm">
+          <button type="submit" class="btn-submit">🚀 开始创作</button>
+        </form>
+      </div>
+
+      <div class="step-indicator">
+        <span class="step-dot active" data-step="0">1</span>
+        <span class="step-line"></span>
+        <span class="step-dot" data-step="1">2</span>
+        <span class="step-line"></span>
+        <span class="step-dot" data-step="2">3</span>
+        <span class="step-line"></span>
+        <span class="step-dot" data-step="3">4</span>
+      </div>
+    </main>
+  </div>
+
+  <script src="js/utils.js"></script>
+  <script>
+    for (var i = 0; i < 15; i++) {
+      var p = document.createElement('div');
+      p.className = 'particle';
+      p.style.left = Math.random() * 100 + '%';
+      p.style.animationDelay = Math.random() * 20 + 's';
+      document.getElementById('particles').appendChild(p);
+    }
+
+    var userId = getUserId();
+    var selectedBookId = null;
+    var selectedBookTitle = '';
+    var selectedPlot = null;
+    var selectedCharacters = [];
+    var allCharacters = [];
+    var existingBookCharacters = [];
+
+    var plots = [
+      { id: 'adventure', name: '冒险之旅', icon: '🗺️', desc: '踏上未知旅程，探索神秘世界' },
+      { id: 'mystery', name: '神秘谜团', icon: '🔍', desc: '发现并解开隐藏的谜题' },
+      { id: 'friendship', name: '友谊考验', icon: '🤝', desc: '朋友间的互助与成长' },
+      { id: 'hero', name: '英雄救美', icon: '🦸', desc: '拯救被困之人' },
+      { id: 'treasure', name: '寻宝探险', icon: '💎', desc: '寻找珍贵宝藏' },
+      { id: 'magic', name: '魔法奇遇', icon: '✨', desc: '遇到神奇魔法' }
+    ];
+
+    var roleTypes = [
+      { value: 'protagonist', label: '⭐ 主角', class: 'role-protagonist' },
+      { value: 'supporting', label: '🎭 配角', class: 'role-supporting' },
+      { value: 'antagonist', label: '👿 反派', class: 'role-antagonist' },
+      { value: 'bystander', label: '🚶 路人', class: 'role-bystander' }
+    ];
+
+    var emojis = ['🦸', '🧙', '🧝', '🦹', '👸', '🤴', '🧛', '🧟', '🤖', '👻', '🧚', '🧜'];
+
+    if (!userId) {
+      window.location.href = '/login.html';
+    } else {
+      loadExistingBooks();
+      loadCharacters();
+    }
+
+    async function loadExistingBooks() {
+      try {
+        var data = await fetchAPI('/books?userId=' + userId);
+        var books = data.books || [];
+        var container = document.getElementById('existingBooks');
+        
+        if (books.length === 0) {
+          container.innerHTML = '<p style="text-align: center; color: var(--text-muted); padding: 20px;">暂无已有书籍，请创建新书籍</p>';
+          return;
+        }
+        
+        container.innerHTML = books.map(function(book) {
+          return '<div class="book-card" onclick="selectBook(\'' + book.book_id + '\', \'' + book.title.replace(/'/g, "\\'") + '\')" data-id="' + book.book_id + '">' +
+            '<div class="book-icon">📖</div>' +
+            '<div class="book-info">' +
+              '<h3>' + book.title + '</h3>' +
+              '<p>📚 ' + book.chapter_count + '章</p>' +
+            '</div>' +
+          '</div>';
+        }).join('');
+      } catch (error) {
+        console.error('Failed to load books:', error);
+        document.getElementById('existingBooks').innerHTML = '<p style="text-align: center; color: var(--text-muted);">加载失败</p>';
+      }
+    }
+
+    async function selectBook(bookId, title) {
+      selectedBookId = bookId;
+      selectedBookTitle = title;
+      
+      document.querySelectorAll('.book-card').forEach(function(card) {
+        if (card.dataset.id === bookId) {
+          card.classList.add('selected');
+        } else {
+          card.classList.remove('selected');
+        }
+      });
+      
+      try {
+        var data = await fetchAPI('/books?bookId=' + bookId);
+        existingBookCharacters = data.characters || [];
+        
+        selectedCharacters = existingBookCharacters.map(function(char, index) {
+          var charData = allCharacters.find(function(c) { return c.character_id === char.character_id; });
+          var emoji = charData ? emojis[allCharacters.indexOf(charData) % emojis.length] : '🎭';
+          return {
+            id: char.character_id,
+            name: charData ? charData.name : '未知角色',
+            emoji: emoji,
+            customName: char.custom_name,
+            roleType: char.role_type,
+            isExisting: true
+          };
+        });
+        
+        renderSelectedCharacters();
+        renderCharacterList();
+      } catch (error) {
+        console.error('Failed to load book characters:', error);
+      }
+      
+      showStep1();
+    }
+
+    async function createNewBook() {
+      var title = document.getElementById('newBookTitle').value.trim();
+      if (!title) {
+        showToast('请输入书籍名称', 'error');
+        return;
+      }
+      
+      try {
+        var data = await fetchAPI('/books', {
+          method: 'POST',
+          body: {
+            userId: userId,
+            title: title
+          }
+        });
+        
+        selectedBookId = data.bookId;
+        selectedBookTitle = title;
+        selectedCharacters = [];
+        existingBookCharacters = [];
+        
+        showToast('书籍创建成功！', 'success');
+        showStep1();
+      } catch (error) {
+        showToast('创建失败：' + error.message, 'error');
+      }
+    }
+
+    function showStep1() {
+      document.getElementById('step0Card').style.display = 'none';
+      document.getElementById('step1Card').style.display = 'block';
+      updateStepIndicator(1);
+      loadPlots();
+    }
+
+    function loadPlots() {
+      var container = document.getElementById('plotList');
+      container.innerHTML = plots.map(function(plot, index) {
+        return '<div class="plot-card" onclick="selectPlot(\'' + plot.id + '\')" style="animation-delay: ' + (index * 0.1) + 's">' +
+          '<div class="plot-icon">' + plot.icon + '</div>' +
+          '<h3>' + plot.name + '</h3>' +
+          '<p>' + plot.desc + '</p>' +
+        '</div>';
+      }).join('');
+    }
+
+    async function loadCharacters() {
+      try {
+        var data = await fetchAPI('/characters');
+        allCharacters = data.characters;
+      } catch (error) {
+        console.error('Failed to load characters:', error);
+      }
+    }
+
+    function renderCharacterList() {
+      var container = document.getElementById('characterList');
+      container.innerHTML = allCharacters.map(function(char, index) {
+        var emoji = emojis[index % emojis.length];
+        var isSelected = selectedCharacters.some(function(c) { return c.id === char.character_id; });
+        return '<div class="character-card ' + (isSelected ? 'disabled' : '') + '" onclick="addCharacter(\'' + char.character_id + '\')" data-id="' + char.character_id + '" style="animation-delay: ' + (index * 0.05) + 's">' +
+          '<div class="avatar">' + emoji + '</div>' +
+          '<h3>' + char.name + '</h3>' +
+          '<p>' + (char.description || '神秘角色') + '</p>' +
+        '</div>';
+      }).join('');
+    }
+
+    function selectPlot(id) {
+      selectedPlot = id;
+      document.querySelectorAll('.plot-card').forEach(function(card, index) {
+        if (plots[index].id === id) {
+          card.classList.add('selected');
+        } else {
+          card.classList.remove('selected');
+        }
+      });
+      document.getElementById('step2Card').style.display = 'block';
+      renderCharacterList();
+      updateStepIndicator(2);
+      document.getElementById('step2Card').scrollIntoView({ behavior: 'smooth' });
+    }
+
+    function addCharacter(characterId) {
+      var char = allCharacters.find(function(c) { return c.character_id === characterId; });
+      if (!char) return;
+      
+      var hasProtagonist = selectedCharacters.some(function(c) { return c.roleType === 'protagonist'; });
+      var defaultRole = hasProtagonist ? 'supporting' : 'protagonist';
+      
+      var index = allCharacters.indexOf(char);
+      var emoji = emojis[index % emojis.length];
+      
+      selectedCharacters.push({
+        id: characterId,
+        name: char.name,
+        emoji: emoji,
+        customName: char.name,
+        roleType: defaultRole,
+        isExisting: false
+      });
+      
+      renderSelectedCharacters();
+      renderCharacterList();
+    }
+
+    function removeCharacter(characterId) {
+      selectedCharacters = selectedCharacters.filter(function(c) { return c.id !== characterId; });
+      renderSelectedCharacters();
+      renderCharacterList();
+    }
+
+    function updateCharacterRole(characterId, roleType) {
+      if (roleType === 'protagonist') {
+        selectedCharacters.forEach(function(c) {
+          if (c.roleType === 'protagonist') {
+            c.roleType = 'supporting';
+          }
+        });
+      }
+      
+      var char = selectedCharacters.find(function(c) { return c.id === characterId; });
+      if (char) {
+        char.roleType = roleType;
+      }
+      
+      renderSelectedCharacters();
+    }
+
+    function updateCharacterName(characterId, customName) {
+      var char = selectedCharacters.find(function(c) { return c.id === characterId; });
+      if (char) {
+        char.customName = customName;
+      }
+      checkNameUniqueness();
+    }
+
+    function checkNameUniqueness() {
+      var nameMap = {};
+      var hasDuplicate = false;
+      
+      selectedCharacters.forEach(function(char) {
+        var name = char.customName.trim().toLowerCase();
+        if (nameMap[name]) {
+          hasDuplicate = true;
+          nameMap[name].push(char.id);
+        } else {
+          nameMap[name] = [char.id];
+        }
+      });
+      
+      document.querySelectorAll('.selected-character-item').forEach(function(item) {
+        var input = item.querySelector('input');
+        var charId = item.dataset.id;
+        var char = selectedCharacters.find(function(c) { return c.id === charId; });
+        if (char) {
+          var name = char.customName.trim().toLowerCase();
+          if (nameMap[name] && nameMap[name].length > 1) {
+            input.classList.add('error');
+            var errorMsg = item.querySelector('.error-message');
+            if (!errorMsg) {
+              var err = document.createElement('div');
+              err.className = 'error-message';
+              err.textContent = '名称重复，请修改';
+              item.querySelector('.character-info').appendChild(err);
+            }
+          } else {
+            input.classList.remove('error');
+            var errorMsg = item.querySelector('.error-message');
+            if (errorMsg) errorMsg.remove();
+          }
+        }
+      });
+      
+      return !hasDuplicate;
+    }
+
+    function renderSelectedCharacters() {
+      var container = document.getElementById('selectedCharacters');
+      document.getElementById('selectedCount').textContent = selectedCharacters.length;
+      
+      if (selectedCharacters.length === 0) {
+        container.innerHTML = '<p class="empty-text">点击下方人仔添加角色</p>';
+        document.getElementById('step3Card').style.display = 'none';
+        updateStepIndicator(2);
+        return;
+      }
+      
+      container.innerHTML = selectedCharacters.map(function(char) {
+        var roleType = roleTypes.find(function(r) { return r.value === char.roleType; });
+        var options = roleTypes.map(function(r) {
+          return '<option value="' + r.value + '" ' + (r.value === char.roleType ? 'selected' : '') + '>' + r.label + '</option>';
+        }).join('');
+        
+        return '<div class="selected-character-item" data-id="' + char.id + '">' +
+          '<div class="character-avatar">' + char.emoji + '</div>' +
+          '<div class="character-info">' +
+            '<div class="name-row">' +
+              '<strong>' + char.name + '</strong>' +
+              '<select class="role-select" onchange="updateCharacterRole(\'' + char.id + '\', this.value)">' + options + '</select>' +
+            '</div>' +
+            '<input type="text" class="custom-name-input" placeholder="自定义名称" value="' + char.customName + '" onchange="updateCharacterName(\'' + char.id + '\', this.value)" maxlength="20">' +
+          '</div>' +
+          '<button class="remove-btn" onclick="removeCharacter(\'' + char.id + '\')">×</button>' +
+        '</div>';
+      }).join('');
+      
+      var hasProtagonist = selectedCharacters.some(function(c) { return c.roleType === 'protagonist'; });
+      if (hasProtagonist) {
+        document.getElementById('step3Card').style.display = 'block';
+        updateStepIndicator(3);
+      } else {
+        document.getElementById('step3Card').style.display = 'none';
+        updateStepIndicator(2);
+      }
+    }
+
+    function updateStepIndicator(step) {
+      document.querySelectorAll('.step-dot').forEach(function(dot) {
+        if (parseInt(dot.dataset.step) <= step) {
+          dot.classList.add('active');
+        } else {
+          dot.classList.remove('active');
+        }
+      });
+    }
+
+    function showToast(message, type) {
+      var existing = document.querySelector('.toast');
+      if (existing) existing.remove();
+      
+      var toast = document.createElement('div');
+      toast.className = 'toast ' + type;
+      toast.textContent = message;
+      document.body.appendChild(toast);
+      
+      setTimeout(function() {
+        toast.remove();
+      }, 3000);
+    }
+
+    document.getElementById('storyForm').addEventListener('submit', async function(e) {
+      e.preventDefault();
+      
+      if (!selectedBookId) {
+        showToast('请选择或创建书籍', 'error');
+        return;
+      }
+      
+      if (!selectedPlot) {
+        showToast('请选择故事类型', 'error');
+        return;
+      }
+      
+      var hasProtagonist = selectedCharacters.some(function(c) { return c.roleType === 'protagonist'; });
+      if (!hasProtagonist) {
+        showToast('请至少选择一个主角', 'error');
+        return;
+      }
+      
+      var hasEmptyName = selectedCharacters.some(function(c) { return !c.customName.trim(); });
+      if (hasEmptyName) {
+        showToast('请为所有角色填写名称', 'error');
+        return;
+      }
+      
+      if (!checkNameUniqueness()) {
+        showToast('存在重复的角色名称，请修改', 'error');
+        return;
+      }
+      
+      try {
+        for (var i = 0; i < selectedCharacters.length; i++) {
+          var char = selectedCharacters[i];
+          if (char.isExisting) {
+            await fetchAPI('/book-characters', {
+              method: 'PUT',
+              body: {
+                bookId: selectedBookId,
+                characterId: char.id,
+                customName: char.customName.trim(),
+                roleType: char.roleType
+              }
+            });
+          } else {
+            await fetchAPI('/book-characters', {
+              method: 'POST',
+              body: {
+                bookId: selectedBookId,
+                characterId: char.id,
+                customName: char.customName.trim(),
+                roleType: char.roleType
+              }
+            });
+          }
+        }
+        
+        showToast('正在生成第一章故事...📝', 'info');
+        
+        var charactersData = selectedCharacters.map(function(c) {
+          return {
+            character_id: c.id,
+            custom_name: c.customName.trim(),
+            personality: '神秘',
+            speaking_style: '正常'
+          };
+        });
+        
+        var plotInfo = plots.find(function(p) { return p.id === selectedPlot; });
+        var plotName = plotInfo ? plotInfo.name : '冒险之旅';
+        
+        var storyData = await fetchAPI('/story', {
+          method: 'POST',
+          body: {
+            characters: charactersData,
+            plot: plotName,
+            chapter: 1,
+            chapterCharacters: charactersData
+          }
+        });
+        
+        var chapterData = {
+          bookId: selectedBookId,
+          title: storyData.title || '第一章',
+          content: storyData.content
+        };
+        
+        if (storyData.puzzle) {
+          chapterData.puzzle = storyData.puzzle;
+        }
+        
+        await fetchAPI('/chapters', {
+          method: 'POST',
+          body: chapterData
+        });
+        
+        showToast('故事创建成功！🎉', 'success');
+        setTimeout(function() {
+          window.location.href = 'book.html?id=' + selectedBookId;
+        }, 1000);
+      } catch (error) {
+        showToast('保存失败：' + error.message, 'error');
+      }
+    });
+  </script>
+</body>
+</html>
