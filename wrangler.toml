@@ -1,0 +1,22 @@
+name = "storybook"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "src/frontend"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "storybook_database"
+database_id = ""
+
+[vars]
+ENVIRONMENT = "development"
+
+[env.production]
+name = "storybook"
+
+[[env.production.d1_databases]]
+binding = "DB"
+database_name = "storybook_database"
+database_id = ""
+
+[env.production.vars]
+ENVIRONMENT = "production"

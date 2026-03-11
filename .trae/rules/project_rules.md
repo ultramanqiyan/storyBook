@@ -24,7 +24,8 @@ storyBook/
 ├── history_summary/        # 历史旧项目总结（只作参考）
 ├── tool/                   # 历史旧工具（无用）
 ├── deploy/                 # 部署脚本
-│   ├── scripts/            # 部署脚本
+│   ├── dev-local.bat       # 本地开发脚本
+│   ├── deploy-remote.bat   # 远程部署脚本
 │   └── config/             # 部署配置
 └── .trae/                  # Trae配置
     ├── skills/             # 技能定义
@@ -69,7 +70,8 @@ storyBook/
    - 最佳实践放 `experience/best-practices/`
 
 5. **部署脚本** → `deploy/` 目录
-   - 部署脚本放 `deploy/scripts/`
+   - 本地开发脚本放 `deploy/dev-local.bat`
+   - 远程部署脚本放 `deploy/deploy-remote.bat`
    - 部署配置放 `deploy/config/`
 
 ### 禁止事项
