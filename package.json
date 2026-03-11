@@ -8,7 +8,9 @@
     "deploy": "wrangler pages deploy src/frontend --project-name=storybook",
     "db:migrate:local": "wrangler d1 execute storybook_database --local --file=./migrations/0001_init.sql",
     "db:migrate:remote": "wrangler d1 execute storybook_database --remote --file=./migrations/0001_init.sql",
-    "db:create": "wrangler d1 create storybook_database"
+    "db:create": "wrangler d1 create storybook_database",
+    "test:e2e": "npx playwright test",
+    "test:e2e:ui": "npx playwright test --ui"
   },
   "keywords": [
     "storybook",

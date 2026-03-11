@@ -175,3 +175,27 @@ INSERT INTO version (version, description) VALUES ('V0.1', '初始版本 - Hello
 2. 页面正确显示版本信息
 3. API正确返回数据库数据
 4. 部署脚本可一键部署
+
+---
+
+## 十、部署信息
+
+### 10.1 线上地址
+
+| 环境 | 地址 |
+|------|------|
+| 生产环境 | https://storybook-d4u.pages.dev/ |
+| API接口 | https://storybook-d4u.pages.dev/api/version |
+
+### 10.2 Cloudflare配置
+
+| 配置项 | 值 |
+|--------|-----|
+| 项目名称 | storybook |
+| D1数据库名 | storybook_database |
+| D1数据库ID | 91e6d818-a707-4725-8c05-0923482a53ef |
+| 绑定变量名 | DB |
+
+### 10.3 部署日期
+
+2026-03-11
