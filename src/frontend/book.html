@@ -885,6 +885,18 @@
     
     document.addEventListener('DOMContentLoaded', function() {
       createParticles(document.getElementById('particles'), 30);
+      
+      if (!bookId) {
+        document.getElementById('bookInfoHeader').innerHTML = `
+          <div style="text-align: center; padding: 40px; color: #8B4513;">
+            <h2>No Book Selected</h2>
+            <p style="margin-top: 10px;">Please select a book from your library.</p>
+            <a href="/bookshelf" class="action-btn" style="display: inline-block; margin-top: 20px;">Go to Library</a>
+          </div>
+        `;
+        return;
+      }
+      
       loadBookDetail();
     });
   </script>

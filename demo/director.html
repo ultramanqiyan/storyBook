@@ -833,7 +833,7 @@
         `;
       } else {
         slots.protagonist.classList.remove('filled');
-        slots.protagonist.innerHTML = '<span class="slot-label">主角</span><span class="slot-required">(必选)</span>';
+        slots.protagonist.innerHTML = '<span class="slot-label">Protagonist</span><span class="slot-required">(Required)</span>';
       }
       
       for (let i = 0; i < 3; i++) {
@@ -847,7 +847,7 @@
           `;
         } else {
           slot.classList.remove('filled');
-          slot.innerHTML = '<span class="slot-label">配角' + (i + 1) + '</span><span class="slot-optional">(可选)</span>';
+          slot.innerHTML = '<span class="slot-label">Supporting ' + (i + 1) + '</span><span class="slot-optional">(Optional)</span>';
         }
       }
       
@@ -855,10 +855,10 @@
         const slot = slots[type];
         const card = selections[type];
         const labels = {
-          adventure: '冒险类型',
-          weather: '天气',
-          terrain: '地形',
-          equipment: '装备'
+          adventure: 'Adventure',
+          weather: 'Weather',
+          terrain: 'Terrain',
+          equipment: 'Equipment'
         };
         const isRequired = type !== 'equipment';
         
@@ -870,7 +870,7 @@
           `;
         } else {
           slot.classList.remove('filled');
-          slot.innerHTML = '<span class="slot-label">' + labels[type] + '</span><span class="' + (isRequired ? 'slot-required' : 'slot-optional') + '">(' + (isRequired ? '必选' : '可选') + ')</span>';
+          slot.innerHTML = '<span class="slot-label">' + labels[type] + '</span><span class="' + (isRequired ? 'slot-required' : 'slot-optional') + '">(' + (isRequired ? 'Required' : 'Optional') + ')</span>';
         }
       });
     }
