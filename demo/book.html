@@ -241,79 +241,18 @@
     
     .character-grid-view {
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
       gap: 20px;
       justify-items: center;
-    }
-    
-    .character-card-mini {
-      width: 140px;
-      padding: 15px;
-      background: linear-gradient(135deg, rgba(26, 26, 46, 0.9) 0%, rgba(22, 33, 62, 0.9) 100%);
-      border: 2px solid #FFD700;
-      border-radius: 10px;
-      text-align: center;
-      cursor: pointer;
-      transition: all 0.3s ease;
-    }
-    
-    .character-card-mini:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
-    }
-    
-    .character-card-mini .avatar {
-      font-size: 40px;
-      margin-bottom: 10px;
-    }
-    
-    .character-card-mini .name {
-      font-family: 'Cinzel', serif;
-      font-size: 12px;
-      color: #FFD700;
-    }
-    
-    .character-card-mini .role {
-      font-size: 10px;
-      color: #a0a0a0;
-      margin-top: 5px;
+      padding: 15px 0;
     }
     
     .plot-grid-view {
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 15px;
-    }
-    
-    .plot-card-mini {
-      padding: 15px;
-      background: linear-gradient(135deg, rgba(139, 0, 0, 0.2) 0%, rgba(80, 0, 0, 0.2) 100%);
-      border: 1px solid rgba(139, 0, 0, 0.3);
-      border-radius: 8px;
-      cursor: pointer;
-      transition: all 0.3s ease;
-    }
-    
-    .plot-card-mini:hover {
-      transform: translateY(-3px);
-      border-color: #8B0000;
-    }
-    
-    .plot-card-mini .plot-icon {
-      font-size: 24px;
-      margin-bottom: 8px;
-    }
-    
-    .plot-card-mini .plot-title {
-      font-family: 'Cinzel', serif;
-      font-size: 13px;
-      color: #2a1810;
-    }
-    
-    .plot-card-mini .plot-desc {
-      font-size: 11px;
-      color: #4a3a2a;
-      margin-top: 5px;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 20px;
+      justify-items: center;
+      padding: 15px 0;
     }
     
     .book-info-header {
@@ -420,10 +359,27 @@
         border-radius: 8px;
       }
       
-      .chapter-list-view,
+      .chapter-toc-item {
+        flex-wrap: wrap;
+      }
+      
+      .chapter-toc-item .chapter-dots {
+        display: none;
+      }
+      
+      .chapter-toc-item .chapter-title {
+        max-width: 100%;
+      }
+      
+      .hs-card-mini {
+        width: 120px;
+        height: 160px;
+      }
+      
       .character-grid-view,
       .plot-grid-view {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
       }
     }
   </style>
@@ -492,6 +448,13 @@
     </div>
   </div>
   
+  <div id="cardModal" class="modal-overlay" onclick="closeCardModal(event)">
+    <div class="modal-card-content">
+      <button class="modal-close-btn" onclick="closeCardModal()">&times;</button>
+      <div class="modal-card-display"></div>
+    </div>
+  </div>
+  
   <script src="js/mock-data.js"></script>
   <script src="js/main.js"></script>
   <script src="js/theme.js"></script>
@@ -525,15 +488,37 @@
     };
 
     let currentView = 'chapters';
+    let isAnimating = false;
 
     function switchView(view) {
-      currentView = view;
+      if (isAnimating || view === currentView) return;
+      isAnimating = true;
       
-      document.querySelectorAll('.view-tab').forEach(tab => {
-        tab.classList.toggle('active', tab.dataset.view === view);
-      });
+      const leftContent = document.getElementById('leftPageContent');
+      const rightContent = document.getElementById('rightPageContent');
       
-      renderBookPages();
+      leftContent.style.animation = 'pageFlipOut 0.3s ease-in forwards';
+      rightContent.style.animation = 'pageFlipOut 0.3s ease-in forwards';
+      
+      setTimeout(() => {
+        currentView = view;
+        
+        document.querySelectorAll('.view-tab').forEach(tab => {
+          tab.classList.toggle('active', tab.dataset.view === view);
+        });
+        
+        renderBookPages();
+        
+        leftContent.style.animation = 'pageFlipIn 0.5s ease-out forwards';
+        rightContent.style.animation = 'pageFlipIn 0.5s ease-out forwards';
+        
+        setTimeout(() => {
+          isAnimating = false;
+          leftContent.style.animation = '';
+          rightContent.style.animation = '';
+        }, 500);
+        
+      }, 300);
     }
 
     function renderBookPages() {
@@ -541,61 +526,69 @@
       const rightContent = document.getElementById('rightPageContent');
       
       if (currentView === 'chapters') {
-        const half = Math.ceil(bookData.chapters.length / 2);
-        const leftChapters = bookData.chapters.slice(0, half);
-        const rightChapters = bookData.chapters.slice(half);
+        const chapters = bookData.chapters;
+        const leftChapters = chapters.filter((_, i) => i % 2 === 0);
+        const rightChapters = chapters.filter((_, i) => i % 2 === 1);
         
-        leftContent.innerHTML = `<div class="chapter-list-view">${leftChapters.map(ch => renderChapterCard(ch)).join('')}</div>`;
-        rightContent.innerHTML = `<div class="chapter-list-view">${rightChapters.map(ch => renderChapterCard(ch)).join('')}</div>`;
+        leftContent.innerHTML = `<div class="chapter-toc">${leftChapters.map((ch, i) => renderChapterCard(ch, i)).join('')}</div>`;
+        rightContent.innerHTML = `<div class="chapter-toc">${rightChapters.map((ch, i) => renderChapterCard(ch, i)).join('')}</div>`;
       } else if (currentView === 'characters') {
         const half = Math.ceil(bookData.characters.length / 2);
         const leftChars = bookData.characters.slice(0, half);
         const rightChars = bookData.characters.slice(half);
         
-        leftContent.innerHTML = `<div class="character-grid-view">${leftChars.map(ch => renderCharacterCard(ch)).join('')}</div>`;
-        rightContent.innerHTML = `<div class="character-grid-view">${rightChars.map(ch => renderCharacterCard(ch)).join('')}</div>`;
+        leftContent.innerHTML = `<div class="character-grid-view">${leftChars.map((ch, i) => renderCharacterCard(ch, i)).join('')}</div>`;
+        rightContent.innerHTML = `<div class="character-grid-view">${rightChars.map((ch, i) => renderCharacterCard(ch, i)).join('')}</div>`;
       } else if (currentView === 'plots') {
         const half = Math.ceil(bookData.plots.length / 2);
         const leftPlots = bookData.plots.slice(0, half);
         const rightPlots = bookData.plots.slice(half);
         
-        leftContent.innerHTML = `<div class="plot-grid-view">${leftPlots.map(p => renderPlotCard(p)).join('')}</div>`;
-        rightContent.innerHTML = `<div class="plot-grid-view">${rightPlots.map(p => renderPlotCard(p)).join('')}</div>`;
+        leftContent.innerHTML = `<div class="plot-grid-view">${leftPlots.map((p, i) => renderPlotCard(p, i)).join('')}</div>`;
+        rightContent.innerHTML = `<div class="plot-grid-view">${rightPlots.map((p, i) => renderPlotCard(p, i)).join('')}</div>`;
       }
     }
 
-    function renderChapterCard(chapter) {
+    function renderChapterCard(chapter, index) {
       const statusIcon = {
-        'read': '✓ Read',
-        'current': '📖 Current',
-        'locked': '🔒 Locked'
+        'read': '✓',
+        'current': '🖋️',
+        'locked': '🔒'
       };
       
       return `
-        <div class="chapter-card ${chapter.status}" onclick="goToChapter(${chapter.id})">
-          <div class="chapter-number">Chapter ${chapter.number}</div>
-          <div class="chapter-title">${chapter.title}</div>
-          <div class="chapter-status">${statusIcon[chapter.status]}</div>
+        <div class="chapter-toc-item ${chapter.status}" 
+             onclick="${chapter.status !== 'locked' ? `goToChapter(${chapter.id})` : ''}"
+             style="animation: fadeIn 0.5s ease-out ${index * 0.1}s backwards;">
+          <span class="chapter-number">Chapter ${chapter.number}</span>
+          <span class="chapter-dots"></span>
+          <span class="chapter-title">${chapter.title}</span>
+          <span class="chapter-status-icon">${statusIcon[chapter.status]}</span>
         </div>
       `;
     }
 
-    function renderCharacterCard(char) {
+    function renderCharacterCard(char, index) {
+      const roleClass = char.role.toLowerCase();
       return `
-        <div class="character-card-mini" onclick="showCharacterDetail(${char.id})">
-          <div class="avatar">${char.avatar}</div>
-          <div class="name">${char.name}</div>
-          <div class="role">${char.role}</div>
+        <div class="hs-card-mini ${roleClass}" 
+             onclick="showCharacterDetail(${char.id})"
+             style="animation: fadeIn 0.5s ease-out ${index * 0.1}s backwards;">
+          <div style="font-size: 48px;">${char.avatar}</div>
+          <div style="color: #FFD700; font-family: 'Cinzel', serif; font-size: 14px; margin-top: 10px;">${char.name}</div>
+          <div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">${char.role}</div>
         </div>
       `;
     }
 
-    function renderPlotCard(plot) {
+    function renderPlotCard(plot, index) {
       return `
-        <div class="plot-card-mini" onclick="showPlotDetail(${plot.id})">
-          <div class="plot-icon">${plot.icon}</div>
-          <div class="plot-title">${plot.title}</div>
-          <div class="plot-desc">${plot.desc}</div>
+        <div class="hs-card-mini plot-card" 
+             onclick="showPlotDetail(${plot.id})"
+             style="animation: fadeIn 0.5s ease-out ${index * 0.1}s backwards;">
+          <div style="font-size: 36px;">${plot.icon}</div>
+          <div style="color: #f4e4bc; font-family: 'Cinzel', serif; font-size: 13px; margin-top: 10px; text-align: center;">${plot.title}</div>
+          <div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">${plot.desc}</div>
         </div>
       `;
     }
@@ -606,12 +599,40 @@
 
     function showCharacterDetail(id) {
       const char = bookData.characters.find(c => c.id === id);
-      showNotification(`Viewing: ${char.name}`, 'info');
+      const modal = document.getElementById('cardModal');
+      const content = modal.querySelector('.modal-card-display');
+      
+      content.innerHTML = `
+        <div class="hs-card-mini ${char.role.toLowerCase()}" style="transform: none; margin: 0 auto;">
+          <div style="font-size: 64px;">${char.avatar}</div>
+          <div style="color: #FFD700; font-family: 'Cinzel', serif; font-size: 18px; margin-top: 15px;">${char.name}</div>
+          <div style="color: #a0a0a0; font-size: 14px; margin-top: 8px;">${char.role}</div>
+        </div>
+      `;
+      
+      modal.classList.add('active');
     }
 
     function showPlotDetail(id) {
       const plot = bookData.plots.find(p => p.id === id);
-      showNotification(`Viewing: ${plot.title}`, 'info');
+      const modal = document.getElementById('cardModal');
+      const content = modal.querySelector('.modal-card-display');
+      
+      content.innerHTML = `
+        <div class="hs-card-mini plot-card" style="transform: none; margin: 0 auto;">
+          <div style="font-size: 48px;">${plot.icon}</div>
+          <div style="color: #f4e4bc; font-family: 'Cinzel', serif; font-size: 18px; margin-top: 15px;">${plot.title}</div>
+          <div style="color: #ccc; font-size: 14px; margin-top: 10px; text-align: center; padding: 0 20px;">${plot.desc}</div>
+        </div>
+      `;
+      
+      modal.classList.add('active');
+    }
+
+    function closeCardModal(event) {
+      if (!event || event.target.classList.contains('modal-overlay')) {
+        document.getElementById('cardModal').classList.remove('active');
+      }
     }
 
     document.addEventListener('DOMContentLoaded', function() {
