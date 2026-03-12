@@ -1,0 +1,97 @@
+.theme-romance {
+    --primary-color: #F48FB1;
+    --secondary-color: #90CAF9;
+    --bg-gradient: linear-gradient(135deg, #fce4ec 0%, #f3e5f5 50%, #e8eaf6 100%);
+    --card-bg: linear-gradient(135deg, #ffffff 0%, #fdf2f8 100%);
+    --border-radius: 25px;
+    --shadow-color: rgba(244, 143, 177, 0.3);
+}
+
+.theme-romance body {
+    background: var(--bg-gradient);
+}
+
+.theme-romance .book-card,
+.theme-romance .character-card {
+    background: var(--card-bg);
+    border-radius: var(--border-radius);
+    border: 2px solid var(--primary-color);
+    box-shadow: 0 4px 20px var(--shadow-color);
+}
+
+.theme-romance .book-card:hover,
+.theme-romance .character-card:hover {
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 8px 30px var(--shadow-color);
+}
+
+.theme-romance .btn-primary {
+    background: linear-gradient(135deg, #F48FB1 0%, #EC407A 100%);
+    color: white;
+    border-radius: 30px;
+}
+
+.theme-romance .btn-primary:hover {
+    background: linear-gradient(135deg, #F8BBD9 0%, #F48FB1 100%);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 25px var(--shadow-color);
+}
+
+.theme-romance h1,
+.theme-romance h2 {
+    color: #C2185B;
+}
+
+.theme-romance .nav-bar {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd9 100%);
+    border-bottom: 2px solid var(--primary-color);
+}
+
+.theme-romance .nav-bar a {
+    color: #AD1457;
+}
+
+.theme-romance .nav-bar a:hover {
+    color: #C2185B;
+}
+
+.theme-romance .plot-card {
+    border-radius: 20px;
+    border: 2px solid var(--primary-color);
+    background: var(--card-bg);
+}
+
+.theme-romance .plot-card.selected {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd9 100%);
+    border-color: #EC407A;
+    box-shadow: 0 0 20px var(--shadow-color);
+}
+
+.theme-romance .stage-card {
+    border-radius: 20px;
+    border: 2px solid var(--primary-color);
+}
+
+.theme-romance .progress-step.active .step-number {
+    background: var(--primary-color);
+}
+
+.theme-romance .header-banner {
+    background: linear-gradient(135deg, #F8BBD9 0%, #F48FB1 100%);
+    color: white;
+}
+
+.theme-romance .intimacy-badge {
+    background: linear-gradient(135deg, #F48FB1 0%, #EC407A 100%);
+}
+
+.theme-romance .form-step {
+    border-radius: 20px;
+}
+
+.theme-romance input:focus,
+.theme-romance select:focus,
+.theme-romance textarea:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 15px var(--shadow-color);
+}

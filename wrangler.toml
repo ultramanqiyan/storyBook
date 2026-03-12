@@ -1,22 +1,9 @@
 name = "storybook"
 compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = "src/frontend"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "storybook_database"
-database_id = "91e6d818-a707-4725-8c05-0923482a53ef"
-
-[vars]
-ENVIRONMENT = "development"
-
-[env.production]
-name = "storybook"
-
-[[env.production.d1_databases]]
-binding = "DB"
-database_name = "storybook_database"
-database_id = "91e6d818-a707-4725-8c05-0923482a53ef"
-
-[env.production.vars]
-ENVIRONMENT = "production"
+database_id = "local"

@@ -1,0 +1,111 @@
+.theme-fantasy {
+    --primary-color: #6B21A8;
+    --secondary-color: #FFD700;
+    --bg-gradient: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f0f23 100%);
+    --card-bg: linear-gradient(135deg, #2d2d44 0%, #1a1a2e 100%);
+    --border-radius: 15px;
+    --shadow-color: rgba(107, 33, 168, 0.4);
+    --glow-color: rgba(107, 33, 168, 0.6);
+}
+
+.theme-fantasy body {
+    background: var(--bg-gradient);
+    color: #e0e0e0;
+}
+
+.theme-fantasy .book-card,
+.theme-fantasy .character-card {
+    background: var(--card-bg);
+    border-radius: var(--border-radius);
+    border: 2px solid var(--primary-color);
+    box-shadow: 0 0 20px var(--shadow-color), inset 0 0 30px rgba(107, 33, 168, 0.1);
+}
+
+.theme-fantasy .book-card:hover,
+.theme-fantasy .character-card:hover {
+    box-shadow: 0 0 30px var(--glow-color), inset 0 0 40px rgba(107, 33, 168, 0.2);
+    transform: translateY(-5px);
+}
+
+.theme-fantasy .btn-primary {
+    background: linear-gradient(135deg, #6B21A8 0%, #4A148C 100%);
+    color: white;
+    border: 1px solid var(--secondary-color);
+}
+
+.theme-fantasy .btn-primary:hover {
+    background: linear-gradient(135deg, #7B1FA2 0%, #6A1B9A 100%);
+    box-shadow: 0 0 25px var(--glow-color);
+}
+
+.theme-fantasy h1,
+.theme-fantasy h2 {
+    color: var(--secondary-color);
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+.theme-fantasy .nav-bar {
+    background: linear-gradient(135deg, #1a1a2e 0%, #2d2d44 100%);
+    border-bottom: 2px solid var(--primary-color);
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.5);
+}
+
+.theme-fantasy .nav-bar a {
+    color: #e0e0e0;
+}
+
+.theme-fantasy .nav-bar a:hover {
+    color: var(--secondary-color);
+}
+
+.theme-fantasy .plot-card {
+    border-radius: 12px;
+    border: 2px solid var(--primary-color);
+    background: var(--card-bg);
+}
+
+.theme-fantasy .plot-card.selected {
+    background: linear-gradient(135deg, #3d1a6b 0%, #2d1047 100%);
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 25px var(--glow-color);
+}
+
+.theme-fantasy .stage-card {
+    border-radius: 12px;
+    border: 2px solid var(--primary-color);
+    box-shadow: 0 0 15px var(--shadow-color);
+}
+
+.theme-fantasy .progress-step.active .step-number {
+    background: var(--primary-color);
+    box-shadow: 0 0 15px var(--glow-color);
+}
+
+.theme-fantasy .header-banner {
+    background: linear-gradient(135deg, #2d1047 0%, #1a0a2e 100%);
+    border: 1px solid var(--primary-color);
+}
+
+.theme-fantasy input,
+.theme-fantasy select,
+.theme-fantasy textarea {
+    background: #2d2d44;
+    border-color: var(--primary-color);
+    color: #e0e0e0;
+}
+
+.theme-fantasy input:focus,
+.theme-fantasy select:focus,
+.theme-fantasy textarea:focus {
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 15px var(--shadow-color);
+}
+
+.theme-fantasy .loading-content {
+    background: var(--card-bg);
+    border: 2px solid var(--primary-color);
+}
+
+.theme-fantasy .loading-spinner {
+    border-top-color: var(--secondary-color);
+}

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的书架 - 卡牌互动小说</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <a href="/" class="logo">📚 卡牌互动小说</a>
+            <div class="user-info">
+                <span id="userEmail"></span>
+                <button onclick="logout()" class="btn btn-sm">退出</button>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <section class="section-header">
+                <h2>我的书架</h2>
+                <a href="book-create.html" class="btn btn-primary">+ 新建书籍</a>
+            </section>
+
+            <section class="books-section">
+                <h3>我的创作</h3>
+                <div class="book-grid" id="myBooks">
+                    <div class="loading">加载中...</div>
+                </div>
+            </section>
+
+            <section class="books-section">
+                <h3>预设故事</h3>
+                <div class="book-grid" id="presetBooks">
+                    <div class="loading">加载中...</div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script>
+        const userId = localStorage.getItem('userId');
+        const userEmail = localStorage.getItem('userEmail');
+
+        if (!userId) {
+            window.location.href = '/login';
+        }
+
+        document.getElementById('userEmail').textContent = userEmail;
+
+        async function loadBooks() {
+            try {
+                const [myResponse, presetResponse] = await Promise.all([
+                    fetch(`/api/books?user_id=${userId}`),
+                    fetch('/api/books/preset')
+                ]);
+
+                const myResult = await myResponse.json();
+                const presetResult = await presetResponse.json();
+
+                renderBooks('myBooks', myResult.data, false);
+                renderBooks('presetBooks', presetResult.data, true);
+            } catch (error) {
+                console.error('加载失败:', error);
+            }
+        }
+
+        function renderBooks(containerId, books, isPreset) {
+            const container = document.getElementById(containerId);
+            if (!books || books.length === 0) {
+                container.innerHTML = '<p class="empty">暂无书籍</p>';
+                return;
+            }
+
+            const filteredBooks = isPreset ? books : books.filter(b => !b.is_preset);
+            if (!isPreset && filteredBooks.length === 0) {
+                container.innerHTML = '<p class="empty">还没有创作，点击上方按钮开始</p>';
+                return;
+            }
+
+            container.innerHTML = filteredBooks.map(book => `
+                <div class="book-card" onclick="location.href='/book?id=${book.book_id}'">
+                    <div class="book-cover">${getBookIcon(book.type)}</div>
+                    <div class="book-info">
+                        <h3>${book.title}</h3>
+                        <span class="book-type">${getTypeName(book.type)}</span>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function logout() {
+            localStorage.removeItem('userId');
+            localStorage.removeItem('userEmail');
+            window.location.href = '/login';
+        }
+
+        function getBookIcon(type) {
+            const icons = { 'adventure': '🗺️', 'fantasy': '🧙', 'romance': '💕', 'business': '💼' };
+            return icons[type] || '📖';
+        }
+
+        function getTypeName(type) {
+            const names = { 'adventure': '冒险', 'fantasy': '魔幻', 'romance': '言情', 'business': '职场' };
+            return names[type] || type;
+        }
+
+        loadBooks();
+    </script>
+</body>
+</html>

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>阅读章节 - 卡牌互动小说</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <a href="/" class="logo">📚 卡牌互动小说</a>
+        </header>
+
+        <main class="main-content reading-view">
+            <article class="chapter-content" id="chapterContent">
+                <div class="loading">加载中...</div>
+            </article>
+
+            <div class="puzzle-section hidden" id="puzzleSection">
+                <div class="puzzle-card">
+                    <h3>🧩 谜题</h3>
+                    <p id="puzzleQuestion"></p>
+                    <div id="puzzleOptions" class="puzzle-options"></div>
+                    <input type="text" id="puzzleAnswer" class="puzzle-input" placeholder="输入答案">
+                    <button onclick="submitPuzzle()" class="btn btn-primary">提交答案</button>
+                    <p id="puzzleMessage" class="puzzle-message"></p>
+                </div>
+            </div>
+
+            <div class="chapter-nav" id="chapterNav"></div>
+        </main>
+    </div>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const chapterId = params.get('id');
+        let currentChapter = null;
+        let currentPuzzle = null;
+
+        async function loadChapter() {
+            try {
+                const response = await fetch(`/api/chapters/${chapterId}`);
+                const result = await response.json();
+                
+                if (result.success) {
+                    currentChapter = result.data;
+                    renderChapter();
+                    loadPuzzle();
+                    loadNavigation();
+                } else {
+                    document.getElementById('chapterContent').innerHTML = '<p>章节不存在</p>';
+                }
+            } catch (error) {
+                document.getElementById('chapterContent').innerHTML = '<p>加载失败</p>';
+            }
+        }
+
+        function renderChapter() {
+            document.getElementById('chapterContent').innerHTML = `
+                <h1>${currentChapter.title}</h1>
+                <div class="story-text">${currentChapter.content}</div>
+            `;
+        }
+
+        async function loadPuzzle() {
+            try {
+                const response = await fetch(`/api/puzzles?chapter_id=${chapterId}`);
+                const result = await response.json();
+                
+                if (result.success && result.data.length > 0) {
+                    currentPuzzle = result.data.find(p => !p.is_solved) || result.data[0];
+                    if (currentPuzzle && !currentPuzzle.is_solved) {
+                        showPuzzle();
+                    }
+                }
+            } catch (error) {
+                console.error('加载谜题失败:', error);
+            }
+        }
+
+        function showPuzzle() {
+            document.getElementById('puzzleSection').classList.remove('hidden');
+            document.getElementById('puzzleQuestion').textContent = currentPuzzle.question;
+            
+            if (currentPuzzle.puzzle_type === 'choice' && currentPuzzle.options) {
+                const options = JSON.parse(currentPuzzle.options);
+                document.getElementById('puzzleOptions').innerHTML = options.map(opt => 
+                    `<button class="option-btn" onclick="selectOption('${opt}')">${opt}</button>`
+                ).join('');
+                document.getElementById('puzzleAnswer').classList.add('hidden');
+            } else {
+                document.getElementById('puzzleOptions').innerHTML = '';
+                document.getElementById('puzzleAnswer').classList.remove('hidden');
+            }
+        }
+
+        function selectOption(option) {
+            document.getElementById('puzzleAnswer').value = option;
+            submitPuzzle();
+        }
+
+        async function submitPuzzle() {
+            const answer = document.getElementById('puzzleAnswer').value;
+            if (!answer) return;
+
+            try {
+                const response = await fetch(`/api/puzzles/${currentPuzzle.puzzle_id}/solve`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ answer })
+                });
+
+                const result = await response.json();
+                const messageEl = document.getElementById('puzzleMessage');
+                
+                if (result.success) {
+                    if (result.data.is_correct) {
+                        messageEl.className = 'puzzle-message success';
+                        messageEl.textContent = '🎉 ' + result.data.message;
+                        setTimeout(() => {
+                            document.getElementById('puzzleSection').classList.add('hidden');
+                        }, 2000);
+                    } else {
+                        messageEl.className = 'puzzle-message error';
+                        messageEl.textContent = result.data.message;
+                    }
+                }
+            } catch (error) {
+                document.getElementById('puzzleMessage').textContent = '提交失败';
+            }
+        }
+
+        async function loadNavigation() {
+            const response = await fetch(`/api/chapters?book_id=${currentChapter.book_id}`);
+            const result = await response.json();
+            
+            if (result.success) {
+                const chapters = result.data;
+                const currentIndex = chapters.findIndex(c => c.chapter_id === chapterId);
+                
+                let navHtml = '';
+                if (currentIndex > 0) {
+                    navHtml += `<a href="/chapter?id=${chapters[currentIndex - 1].chapter_id}" class="btn">← 上一章</a>`;
+                }
+                navHtml += `<a href="/book?id=${currentChapter.book_id}" class="btn">目录</a>`;
+                if (currentIndex < chapters.length - 1) {
+                    navHtml += `<a href="/chapter?id=${chapters[currentIndex + 1].chapter_id}" class="btn">下一章 →</a>`;
+                }
+                
+                document.getElementById('chapterNav').innerHTML = navHtml;
+            }
+        }
+
+        loadChapter();
+    </script>
+</body>
+</html>

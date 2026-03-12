@@ -1,0 +1,44 @@
+{
+  "types": [
+    {
+      "type": "adventure",
+      "name": "儿童冒险",
+      "description": "适合儿童的故事",
+      "theme_color": "#FFD700",
+      "secondary_color": "#7CB342",
+      "bg_style": "卡通插画",
+      "border_style": "圆润彩色",
+      "icon_style": "童趣emoji"
+    },
+    {
+      "type": "fantasy",
+      "name": "魔幻传说",
+      "description": "魔法、奇幻主题",
+      "theme_color": "#6B21A8",
+      "secondary_color": "#FFD700",
+      "bg_style": "星空/魔法纹理",
+      "border_style": "华丽花纹",
+      "icon_style": "魔法符文"
+    },
+    {
+      "type": "romance",
+      "name": "都市言情",
+      "description": "现代都市爱情",
+      "theme_color": "#F48FB1",
+      "secondary_color": "#90CAF9",
+      "bg_style": "柔和渐变",
+      "border_style": "蕾丝/花边",
+      "icon_style": "精致小图标"
+    },
+    {
+      "type": "business",
+      "name": "职场风云",
+      "description": "职场故事",
+      "theme_color": "#1E3A8A",
+      "secondary_color": "#F97316",
+      "bg_style": "几何图案",
+      "border_style": "简洁直线",
+      "icon_style": "扁平化商务"
+    }
+  ]
+}

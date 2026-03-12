@@ -1,0 +1,71 @@
+.theme-adventure {
+    --primary-color: #FFD700;
+    --secondary-color: #7CB342;
+    --bg-gradient: linear-gradient(135deg, #FFF9C4 0%, #FFE082 100%);
+    --card-bg: linear-gradient(135deg, #FFFFFF 0%, #FFFDE7 100%);
+    --border-radius: 20px;
+    --shadow-color: rgba(255, 193, 7, 0.3);
+}
+
+.theme-adventure body {
+    background: var(--bg-gradient);
+}
+
+.theme-adventure .book-card,
+.theme-adventure .character-card {
+    background: var(--card-bg);
+    border-radius: var(--border-radius);
+    border: 3px solid var(--primary-color);
+    box-shadow: 0 4px 15px var(--shadow-color);
+}
+
+.theme-adventure .btn-primary {
+    background: linear-gradient(135deg, #FFD700 0%, #FFA000 100%);
+    color: #333;
+}
+
+.theme-adventure .btn-primary:hover {
+    background: linear-gradient(135deg, #FFCA28 0%, #FFB300 100%);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(255, 193, 7, 0.4);
+}
+
+.theme-adventure h1,
+.theme-adventure h2 {
+    color: #F57C00;
+}
+
+.theme-adventure .nav-bar {
+    background: linear-gradient(135deg, #FFF9C4 0%, #FFE082 100%);
+    border-bottom: 3px solid var(--primary-color);
+}
+
+.theme-adventure .card-icon {
+    font-size: 2.5rem;
+}
+
+.theme-adventure .plot-card {
+    border-radius: 15px;
+    border: 2px solid #FFD700;
+}
+
+.theme-adventure .plot-card.selected {
+    background: linear-gradient(135deg, #FFF9C4 0%, #FFE082 100%);
+    border-color: #F57C00;
+    box-shadow: 0 0 20px rgba(255, 193, 7, 0.5);
+}
+
+.theme-adventure .stage-card {
+    border-radius: 15px;
+    border: 3px solid var(--primary-color);
+}
+
+.theme-adventure .progress-step.active .step-number {
+    background: var(--primary-color);
+    color: #333;
+}
+
+.theme-adventure .header-banner {
+    background: linear-gradient(135deg, #FFD700 0%, #FFA000 100%);
+    color: #333;
+}

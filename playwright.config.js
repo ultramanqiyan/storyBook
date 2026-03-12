@@ -1,21 +1,27 @@
-import { defineConfig } from '@playwright/test';
+import { defineConfig, devices } from '@playwright/test';
 
 export default defineConfig({
-  testDir: './test/e2e',
-  fullyParallel: true,
+  testDir: './tests/e2e',
+  fullyParallel: false,
   forbidOnly: !!process.env.CI,
-  retries: process.env.CI ? 2 : 0,
-  workers: process.env.CI ? 1 : undefined,
-  reporter: 'html',
+  retries: 0,
+  workers: 1,
+  reporter: [['html'], ['json', { outputFile: 'test-results/results.json' }]],
   use: {
-    baseURL: 'https://storybook-d4u.pages.dev',
+    baseURL: 'http://localhost:8788',
     trace: 'on-first-retry',
+    screenshot: 'only-on-failure'
   },
   projects: [
     {
       name: 'chromium',
-      use: { browserName: 'chromium' },
-    },
+      use: { ...devices['Desktop Chrome'] }
+    }
   ],
-  webServer: undefined,
+  webServer: {
+    command: 'npm run dev',
+    url: 'http://localhost:8788',
+    reuseExistingServer: !process.env.CI,
+    timeout: 120000
+  }
 });

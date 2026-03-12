@@ -3,100 +3,104 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>StoryBook HelloWorld</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-        }
-        .container {
-            text-align: center;
-            padding: 40px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 20px;
-            backdrop-filter: blur(10px);
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            font-size: 3rem;
-            margin-bottom: 20px;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-        }
-        .version-info {
-            margin-top: 30px;
-            padding: 20px;
-            background: rgba(255, 255, 255, 0.2);
-            border-radius: 10px;
-        }
-        .version-label {
-            font-size: 1rem;
-            opacity: 0.8;
-            margin-bottom: 10px;
-        }
-        .version-number {
-            font-size: 2rem;
-            font-weight: bold;
-            color: #FFD700;
-        }
-        .version-desc {
-            margin-top: 10px;
-            font-size: 0.9rem;
-            opacity: 0.7;
-        }
-        .loading {
-            color: rgba(255, 255, 255, 0.7);
-            font-style: italic;
-        }
-        .error {
-            color: #ff6b6b;
-        }
-    </style>
+    <title>卡牌互动小说</title>
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
     <div class="container">
-        <h1>StoryBook</h1>
-        <p>HelloWorld</p>
-        
-        <div class="version-info">
-            <div class="version-label">当前版本</div>
-            <div id="version" class="loading">加载中...</div>
-            <div id="description" class="version-desc"></div>
-        </div>
+        <header class="header">
+            <h1>📚 卡牌互动小说</h1>
+            <p class="subtitle">创造属于你的故事</p>
+        </header>
+
+        <main class="main-content">
+            <section class="hero">
+                <div class="hero-content">
+                    <h2>用卡牌编织故事</h2>
+                    <p>选择角色、场景和情节，让每一次阅读都是独特的冒险</p>
+                    <div class="cta-buttons">
+                        <a href="/login" class="btn btn-primary">开始创作</a>
+                        <a href="/bookshelf" class="btn btn-secondary">浏览书架</a>
+                    </div>
+                </div>
+            </section>
+
+            <section class="features">
+                <div class="feature-card">
+                    <span class="feature-icon">🎭</span>
+                    <h3>角色卡牌</h3>
+                    <p>创建独特的角色，定义他们的性格和说话风格</p>
+                </div>
+                <div class="feature-card">
+                    <span class="feature-icon">🗺️</span>
+                    <h3>情节卡牌</h3>
+                    <p>选择天气、地形、冒险类型，构建精彩剧情</p>
+                </div>
+                <div class="feature-card">
+                    <span class="feature-icon">🧩</span>
+                    <h3>互动谜题</h3>
+                    <p>在故事中穿插谜题，增加阅读趣味</p>
+                </div>
+            </section>
+
+            <section class="preset-books">
+                <h2>预设故事</h2>
+                <div class="book-grid" id="presetBooks">
+                    <div class="loading">加载中...</div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2026 卡牌互动小说 | Powered by Cloudflare</p>
+        </footer>
     </div>
 
+    <script src="/js/api.js"></script>
     <script>
-        async function loadVersion() {
+        document.addEventListener('DOMContentLoaded', async () => {
             try {
-                const response = await fetch('/api/version');
+                const response = await fetch('/api/books/preset');
                 const result = await response.json();
                 
-                if (result.success && result.data) {
-                    document.getElementById('version').textContent = result.data.version;
-                    document.getElementById('version').className = 'version-number';
-                    document.getElementById('description').textContent = result.data.description || '';
+                if (result.success && result.data.length > 0) {
+                    const container = document.getElementById('presetBooks');
+                    container.innerHTML = result.data.map(book => `
+                        <div class="book-card" onclick="location.href='/book?id=${book.book_id}'">
+                            <div class="book-cover">${getBookIcon(book.type)}</div>
+                            <div class="book-info">
+                                <h3>${book.title}</h3>
+                                <span class="book-type">${getTypeName(book.type)}</span>
+                            </div>
+                        </div>
+                    `).join('');
                 } else {
-                    document.getElementById('version').textContent = '获取版本失败';
-                    document.getElementById('version').className = 'error';
+                    document.getElementById('presetBooks').innerHTML = '<p>暂无预设故事</p>';
                 }
             } catch (error) {
-                console.error('Error loading version:', error);
-                document.getElementById('version').textContent = '连接失败';
-                document.getElementById('version').className = 'error';
+                document.getElementById('presetBooks').innerHTML = '<p>加载失败</p>';
             }
+        });
+
+        function getBookIcon(type) {
+            const icons = {
+                'adventure': '🗺️',
+                'fantasy': '🧙',
+                'romance': '💕',
+                'business': '💼'
+            };
+            return icons[type] || '📖';
         }
 
-        document.addEventListener('DOMContentLoaded', loadVersion);
+        function getTypeName(type) {
+            const names = {
+                'adventure': '冒险',
+                'fantasy': '魔幻',
+                'romance': '言情',
+                'business': '职场'
+            };
+            return names[type] || type;
+        }
     </script>
 </body>
 </html>

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>创建书籍 - 卡牌互动小说</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/book-create.css">
+</head>
+<body>
+    <div class="create-container">
+        <header class="create-header">
+            <a href="bookshelf.html" class="back-link">← 返回书架</a>
+            <h1>📚 创建新书籍</h1>
+        </header>
+
+        <div class="progress-bar">
+            <div class="progress-step active" data-step="1">
+                <span class="step-number">1</span>
+                <span class="step-label">基本信息</span>
+            </div>
+            <div class="progress-line"></div>
+            <div class="progress-step" data-step="2">
+                <span class="step-number">2</span>
+                <span class="step-label">主角信息</span>
+            </div>
+            <div class="progress-line"></div>
+            <div class="progress-step" data-step="3">
+                <span class="step-number">3</span>
+                <span class="step-label">配角信息</span>
+            </div>
+            <div class="progress-line"></div>
+            <div class="progress-step" data-step="4">
+                <span class="step-number">4</span>
+                <span class="step-label">完成</span>
+            </div>
+        </div>
+
+        <form id="create-form" class="create-form">
+            <div id="step1" class="form-step active">
+                <h2>📖 基本信息</h2>
+                <div class="form-group">
+                    <label for="bookTitle">书籍标题 <span class="required">*</span></label>
+                    <input type="text" id="bookTitle" name="title" required placeholder="输入书籍标题">
+                </div>
+                <div class="form-group">
+                    <label for="bookType">书籍类型 <span class="required">*</span></label>
+                    <select id="bookType" name="type" required>
+                        <option value="">请选择类型</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="bookDescription">简介</label>
+                    <textarea id="bookDescription" name="description" rows="4" placeholder="输入书籍简介（可选）"></textarea>
+                </div>
+                <div class="form-actions">
+                    <button type="button" class="btn-primary" onclick="BookCreatePage.nextStep()">下一步 →</button>
+                </div>
+            </div>
+
+            <div id="step2" class="form-step">
+                <h2>🦸 主角信息</h2>
+                <div class="form-group">
+                    <label for="protagonistName">主角名称 <span class="required">*</span></label>
+                    <input type="text" id="protagonistName" name="protagonist_name" required placeholder="输入主角名称">
+                </div>
+                <div class="form-group">
+                    <label for="protagonistAvatar">头像</label>
+                    <div class="avatar-selector">
+                        <input type="text" id="protagonistAvatar" name="protagonist_avatar" placeholder="选择或输入表情符号">
+                        <div class="avatar-options" id="protagonistAvatarOptions"></div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="protagonistType">角色类型</label>
+                    <select id="protagonistType" name="protagonist_type">
+                        <option value="">请选择</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="protagonistPersonality">性格</label>
+                    <select id="protagonistPersonality" name="protagonist_personality">
+                        <option value="">请选择</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="protagonistSpeechStyle">说话方式</label>
+                    <select id="protagonistSpeechStyle" name="protagonist_speech_style">
+                        <option value="">请选择</option>
+                    </select>
+                </div>
+                <div class="form-actions">
+                    <button type="button" class="btn-secondary" onclick="BookCreatePage.prevStep()">← 上一步</button>
+                    <button type="button" class="btn-primary" onclick="BookCreatePage.nextStep()">下一步 →</button>
+                </div>
+            </div>
+
+            <div id="step3" class="form-step">
+                <h2>👥 配角信息 <span class="optional">(可选，最多3个)</span></h2>
+                <div id="supporting-characters">
+                    <div class="supporting-character" data-index="0">
+                        <h3>配角 1</h3>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label>名称</label>
+                                <input type="text" name="supporting_0_name" placeholder="配角名称">
+                            </div>
+                            <div class="form-group">
+                                <label>头像</label>
+                                <input type="text" name="supporting_0_avatar" placeholder="表情符号">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label>角色类型</label>
+                                <select name="supporting_0_type" class="supporting-type-select"></select>
+                            </div>
+                            <div class="form-group">
+                                <label>性格</label>
+                                <select name="supporting_0_personality" class="personality-select"></select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label>说话方式</label>
+                            <select name="supporting_0_speech_style" class="speech-style-select"></select>
+                        </div>
+                    </div>
+                </div>
+                <button type="button" class="btn-add-character" onclick="BookCreatePage.addSupportingCharacter()" id="add-character-btn">
+                    + 添加配角
+                </button>
+                <div class="form-actions">
+                    <button type="button" class="btn-secondary" onclick="BookCreatePage.prevStep()">← 上一步</button>
+                    <button type="button" class="btn-primary" onclick="BookCreatePage.nextStep()">下一步 →</button>
+                </div>
+            </div>
+
+            <div id="step4" class="form-step">
+                <h2>🎉 创建成功！</h2>
+                <div class="success-content">
+                    <div class="success-icon">✅</div>
+                    <p class="success-message">书籍创建成功！</p>
+                    <div id="book-preview" class="book-preview"></div>
+                    <div class="form-actions">
+                        <a href="bookshelf.html" class="btn-secondary">返回书架</a>
+                        <a id="view-book-btn" class="btn-primary">查看书籍</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <script src="js/api.js"></script>
+    <script src="js/book-create.js"></script>
+</body>
+</html>

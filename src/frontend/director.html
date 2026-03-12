@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>故事导演 - 卡牌互动小说</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/director.css">
+</head>
+<body>
+    <div class="director-container">
+        <header class="director-header">
+            <h1>🎬 故事导演</h1>
+            <p class="subtitle">选择卡牌，创造你的故事</p>
+        </header>
+
+        <div class="director-content">
+            <div class="stage-section">
+                <h2>🎭 舞台</h2>
+                <div id="stage" class="stage-area">
+                    <div class="stage-placeholder">选择角色和卡牌来布置舞台</div>
+                </div>
+            </div>
+
+            <div class="cards-section">
+                <div class="card-category">
+                    <h3>👥 角色卡牌</h3>
+                    <div id="character-cards" class="card-grid character-grid"></div>
+                </div>
+
+                <div class="card-category">
+                    <h3>☀️ 天气卡牌</h3>
+                    <div id="weather-cards" class="card-grid"></div>
+                </div>
+
+                <div class="card-category">
+                    <h3>🌲 地形卡牌</h3>
+                    <div id="terrain-cards" class="card-grid"></div>
+                </div>
+
+                <div class="card-category">
+                    <h3>🗺️ 冒险卡牌</h3>
+                    <div id="adventure-cards" class="card-grid"></div>
+                </div>
+
+                <div class="card-category">
+                    <h3>🎒 装备卡牌</h3>
+                    <div id="equipment-cards" class="card-grid"></div>
+                </div>
+            </div>
+
+            <div class="action-section">
+                <button id="start-shooting" class="btn-primary btn-large" disabled>
+                    🎬 开始拍摄
+                </button>
+                <p id="selection-hint" class="hint-text">请选择：1个主角 + 每种情节卡牌各1张</p>
+            </div>
+        </div>
+
+        <div id="loading-overlay" class="loading-overlay hidden">
+            <div class="loading-content">
+                <div class="loading-spinner"></div>
+                <p>正在生成章节...</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/api.js"></script>
+    <script src="js/director.js"></script>
+</body>
+</html>

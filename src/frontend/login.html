@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>登录 - 卡牌互动小说</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <a href="/" class="logo">📚 卡牌互动小说</a>
+        </header>
+
+        <main class="main-content auth-page">
+            <div class="auth-card">
+                <h2>欢迎回来</h2>
+                <p class="auth-subtitle">登录或注册开始创作</p>
+                
+                <form id="loginForm" class="auth-form">
+                    <div class="form-group">
+                        <label for="email">邮箱</label>
+                        <input type="email" id="email" name="email" required 
+                               placeholder="请输入邮箱" autocomplete="email">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="password">密码</label>
+                        <input type="password" id="password" name="password" required 
+                               placeholder="请输入密码 (6-20位)" autocomplete="current-password"
+                               minlength="6" maxlength="20">
+                    </div>
+                    
+                    <button type="submit" class="btn btn-primary btn-block" id="submitBtn">
+                        登录 / 注册
+                    </button>
+                </form>
+                
+                <div id="message" class="message"></div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        document.getElementById('loginForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+            const messageEl = document.getElementById('message');
+            const submitBtn = document.getElementById('submitBtn');
+            
+            submitBtn.disabled = true;
+            submitBtn.textContent = '处理中...';
+            messageEl.className = 'message';
+            messageEl.textContent = '';
+            
+            try {
+                const response = await fetch('/api/users', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ email, password })
+                });
+                
+                const result = await response.json();
+                
+                if (result.success) {
+                    localStorage.setItem('userId', result.data.user_id);
+                    localStorage.setItem('userEmail', result.data.email);
+                    
+                    messageEl.className = 'message success';
+                    messageEl.textContent = result.data.is_new_user ? '注册成功！' : '登录成功！';
+                    
+                    setTimeout(() => {
+                        window.location.href = '/bookshelf';
+                    }, 1000);
+                } else {
+                    messageEl.className = 'message error';
+                    messageEl.textContent = result.error || '操作失败';
+                }
+            } catch (error) {
+                messageEl.className = 'message error';
+                messageEl.textContent = '网络错误，请重试';
+            } finally {
+                submitBtn.disabled = false;
+                submitBtn.textContent = '登录 / 注册';
+            }
+        });
+    </script>
+</body>
+</html>
