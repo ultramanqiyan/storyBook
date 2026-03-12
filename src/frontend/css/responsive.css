@@ -1,65 +1,19 @@
-@media (max-width: 1200px) {
+@media (max-width: 1024px) {
+  :root {
+    --spacing-xxl: 32px;
+  }
+  
   .grid-4 {
     grid-template-columns: repeat(3, 1fr);
   }
   
-  .cards-sidebar {
-    display: none;
-  }
-}
-
-@media (max-width: 1024px) {
-  .three-column-layout {
-    grid-template-columns: 1fr;
+  .hs-card {
+    width: 150px;
   }
   
-  .left-panel,
-  .right-panel {
-    position: static;
-  }
-  
-  .card-grid-4x2 {
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
-
-@media (max-width: 900px) {
-  .book-container {
-    width: 95%;
-    height: auto;
-    min-height: auto;
-    flex-direction: column;
-  }
-  
-  .book-spine {
-    display: none;
-  }
-  
-  .book-page {
-    position: relative;
-    width: 100%;
-    height: auto;
-    min-height: 400px;
-    margin-bottom: 20px;
-  }
-  
-  .book-page.left,
-  .book-page.right {
-    border-radius: 8px;
-  }
-  
-  .chapter-list-view,
-  .character-grid-view,
-  .plot-grid-view {
-    grid-template-columns: 1fr;
-  }
-  
-  .grid-4 {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  
-  .grid-3 {
-    grid-template-columns: repeat(2, 1fr);
+  .book-3d {
+    width: 130px;
+    height: 175px;
   }
 }
 
@@ -68,20 +22,9 @@
     font-size: 14px;
   }
   
-  .navbar {
-    padding: 0 var(--spacing-md);
-  }
-  
-  .navbar-brand {
-    font-size: 18px;
-  }
-  
-  .navbar-nav {
-    gap: var(--spacing-md);
-  }
-  
-  .navbar-link {
-    font-size: 12px;
+  :root {
+    --spacing-xl: 24px;
+    --spacing-xxl: 24px;
   }
   
   h1 {
@@ -89,70 +32,29 @@
   }
   
   h2 {
-    font-size: 1.75rem;
+    font-size: 2rem;
   }
   
   h3 {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
   }
   
-  .container {
-    padding: 0 var(--spacing-md);
-  }
-  
-  .section {
-    padding: var(--spacing-xl) 0;
-  }
-  
-  .three-column-layout {
-    padding: var(--spacing-md);
-  }
-  
-  .center-stage {
-    padding: var(--spacing-lg);
-  }
-  
-  .stage-floor {
-    height: 200px;
-  }
-  
-  .fan-card {
-    width: 60px;
-    height: 80px;
-  }
-  
-  .fan-card .card-icon {
-    font-size: 18px;
-  }
-  
-  .fan-card .card-name {
-    font-size: 6px;
-  }
-  
-  .hearthstone-btn {
-    padding: var(--spacing-md) var(--spacing-xl);
-    font-size: 16px;
-  }
-  
-  .card-grid-4x2 {
+  .grid-2,
+  .grid-3,
+  .grid-4 {
     grid-template-columns: repeat(2, 1fr);
   }
   
-  .btn {
-    padding: var(--spacing-sm) var(--spacing-lg);
-    font-size: 14px;
+  .navbar {
+    padding: 0 var(--spacing-md);
+  }
+  
+  .navbar-nav {
+    gap: var(--spacing-md);
   }
   
   .hs-card {
     width: 140px;
-  }
-  
-  .hs-card-avatar .avatar-placeholder {
-    font-size: 48px;
-  }
-  
-  .hs-card-name {
-    font-size: 12px;
   }
   
   .book-3d {
@@ -160,8 +62,16 @@
     height: 160px;
   }
   
-  .book-title {
-    font-size: 10px;
+  .book-3d:hover {
+    transform: translateY(-10px);
+  }
+  
+  .particles-container .particle:nth-child(n+30) {
+    display: none;
+  }
+  
+  .parchment {
+    padding: var(--spacing-lg);
   }
   
   .wax-seal {
@@ -172,45 +82,20 @@
   .wax-seal-icon {
     font-size: 24px;
   }
-  
-  .wax-seal-text {
-    font-size: 12px;
-  }
-  
-  .modal-content {
-    padding: var(--spacing-lg);
-  }
 }
 
-@media (max-width: 600px) {
-  .reading-book-container {
-    width: 100%;
-    height: auto;
-    min-height: auto;
+@media (max-width: 480px) {
+  :root {
+    --spacing-lg: 16px;
+    --spacing-xl: 16px;
   }
   
-  .reading-spine {
-    display: none;
+  h1 {
+    font-size: 2rem;
   }
   
-  .reading-page {
-    position: relative;
-    width: 100%;
-    min-height: 500px;
-    margin-bottom: 20px;
-    border-radius: 8px;
-  }
-  
-  .reading-content {
-    padding: 25px 20px;
-  }
-  
-  .manuscript-text {
-    font-size: 16px;
-  }
-  
-  .drop-cap {
-    font-size: 3.5em;
+  h2 {
+    font-size: 1.5rem;
   }
   
   .grid-2,
@@ -219,92 +104,37 @@
     grid-template-columns: 1fr;
   }
   
-  .flex-between {
-    flex-direction: column;
-    gap: var(--spacing-md);
-  }
-  
-  .hero-title {
-    font-size: 2rem;
-  }
-  
-  .hero-subtitle {
-    font-size: 1rem;
-  }
-  
-  .hero-buttons {
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .features-grid {
-    grid-template-columns: 1fr;
-  }
-  
-  .books-grid-medieval {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  
-  .bookshelf-header {
-    flex-direction: column;
-    gap: var(--spacing-md);
-    text-align: center;
-  }
-  
-  .auth-card-medieval {
-    padding: var(--spacing-lg);
-  }
-  
-  .progress-bar-medieval {
-    flex-wrap: wrap;
-  }
-  
-  .progress-line-medieval {
-    display: none;
-  }
-  
-  .form-row-medieval {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media (max-width: 480px) {
-  .navbar-brand {
-    font-size: 16px;
-  }
-  
-  .navbar-nav {
-    gap: var(--spacing-sm);
-  }
-  
-  h1 {
-    font-size: 2rem;
-  }
-  
-  .books-grid-medieval {
-    grid-template-columns: 1fr;
-  }
-  
-  .book-card-medieval {
-    max-width: 280px;
+  .hs-card {
+    width: 160px;
     margin: 0 auto;
   }
   
-  .hs-card {
-    width: 120px;
+  .book-3d {
+    width: 140px;
+    height: 185px;
+    margin: 0 auto;
   }
   
-  .book-3d {
-    width: 100px;
-    height: 140px;
+  .btn {
+    padding: var(--spacing-sm) var(--spacing-lg);
+    font-size: 14px;
+  }
+  
+  .navbar-brand {
+    font-size: 18px;
+  }
+  
+  .particles-container .particle:nth-child(n+20) {
+    display: none;
+  }
+  
+  .modal-content {
+    padding: var(--spacing-lg);
   }
 }
 
 @media (hover: none) {
-  .hs-card:hover {
-    transform: none;
-  }
-  
+  .hs-card:hover,
   .book-3d:hover {
     transform: none;
   }
@@ -314,33 +144,18 @@
   }
 }
 
-@media (pointer: coarse) {
+@media (prefers-color-scheme: light) {
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .particle {
+    animation: none;
+    display: none;
+  }
+  
+  .hs-card,
+  .book-3d,
   .btn {
-    min-height: 44px;
-    min-width: 44px;
-  }
-  
-  .navbar-link {
-    padding: var(--spacing-sm);
-  }
-}
-
-@supports (backdrop-filter: blur(10px)) {
-  .navbar {
-    background: rgba(15, 15, 35, 0.8);
-  }
-  
-  .reading-nav-bar {
-    background: rgba(15, 15, 35, 0.8);
-  }
-}
-
-@supports not (backdrop-filter: blur(10px)) {
-  .navbar {
-    background: rgba(15, 15, 35, 0.98);
-  }
-  
-  .reading-nav-bar {
-    background: rgba(15, 15, 35, 0.98);
+    transition: none;
   }
 }

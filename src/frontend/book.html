@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Book Details - StoryBook</title>
-  <link rel="stylesheet" href="/css/variables.css">
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="stylesheet" href="/css/animations.css">
-  <link rel="stylesheet" href="/css/components.css">
-  <link rel="stylesheet" href="/css/themes.css">
-  <link rel="stylesheet" href="/css/responsive.css">
+  <title>The Lost Kingdom - StoryBook</title>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/themes.css">
+  <link rel="stylesheet" href="css/responsive.css">
   <style>
     .book-opening-page {
       min-height: 100vh;
@@ -241,79 +241,18 @@
     
     .character-grid-view {
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
       gap: 20px;
       justify-items: center;
-    }
-    
-    .character-card-mini {
-      width: 140px;
-      padding: 15px;
-      background: linear-gradient(135deg, rgba(26, 26, 46, 0.9) 0%, rgba(22, 33, 62, 0.9) 100%);
-      border: 2px solid #FFD700;
-      border-radius: 10px;
-      text-align: center;
-      cursor: pointer;
-      transition: all 0.3s ease;
-    }
-    
-    .character-card-mini:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
-    }
-    
-    .character-card-mini .avatar {
-      font-size: 40px;
-      margin-bottom: 10px;
-    }
-    
-    .character-card-mini .name {
-      font-family: 'Cinzel', serif;
-      font-size: 12px;
-      color: #FFD700;
-    }
-    
-    .character-card-mini .role {
-      font-size: 10px;
-      color: #a0a0a0;
-      margin-top: 5px;
+      padding: 15px 0;
     }
     
     .plot-grid-view {
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 15px;
-    }
-    
-    .plot-card-mini {
-      padding: 15px;
-      background: linear-gradient(135deg, rgba(139, 0, 0, 0.2) 0%, rgba(80, 0, 0, 0.2) 100%);
-      border: 1px solid rgba(139, 0, 0, 0.3);
-      border-radius: 8px;
-      cursor: pointer;
-      transition: all 0.3s ease;
-    }
-    
-    .plot-card-mini:hover {
-      transform: translateY(-3px);
-      border-color: #8B0000;
-    }
-    
-    .plot-card-mini .plot-icon {
-      font-size: 24px;
-      margin-bottom: 8px;
-    }
-    
-    .plot-card-mini .plot-title {
-      font-family: 'Cinzel', serif;
-      font-size: 13px;
-      color: #2a1810;
-    }
-    
-    .plot-card-mini .plot-desc {
-      font-size: 11px;
-      color: #4a3a2a;
-      margin-top: 5px;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 20px;
+      justify-items: center;
+      padding: 15px 0;
     }
     
     .book-info-header {
@@ -420,10 +359,27 @@
         border-radius: 8px;
       }
       
-      .chapter-list-view,
+      .chapter-toc-item {
+        flex-wrap: wrap;
+      }
+      
+      .chapter-toc-item .chapter-dots {
+        display: none;
+      }
+      
+      .chapter-toc-item .chapter-title {
+        max-width: 100%;
+      }
+      
+      .hs-card-mini {
+        width: 120px;
+        height: 160px;
+      }
+      
       .character-grid-view,
       .plot-grid-view {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
       }
     }
   </style>
@@ -432,17 +388,17 @@
   <div class="particles-container" id="particles"></div>
   
   <nav class="navbar">
-    <a href="/bookshelf" class="navbar-brand">StoryBook</a>
+    <a href="index.html" class="navbar-brand">StoryBook</a>
     <div class="navbar-nav">
-      <a href="/bookshelf" class="navbar-link">My Library</a>
-      <a href="/" class="navbar-link" onclick="localStorage.clear()">Sign Out</a>
+      <a href="bookshelf.html" class="navbar-link">My Library</a>
+      <a href="login.html" class="navbar-link">Sign Out</a>
     </div>
   </nav>
   
   <div class="book-opening-page">
     <div class="book-container">
       <div class="book-spine">
-        <span class="book-spine-title" id="spineTitle">Loading...</span>
+        <span class="book-spine-title">The Lost Kingdom</span>
       </div>
       
       <div class="book-page left">
@@ -451,8 +407,23 @@
         <div class="page-edge left"></div>
         <div class="page-edge bottom"></div>
         <div class="page-content">
-          <div class="book-info-header" id="bookInfoHeader">
-            <div class="loading">Loading...</div>
+          <div class="book-info-header">
+            <div class="book-cover-small">
+              <span>🗺️</span>
+            </div>
+            <div class="book-meta-info">
+              <span class="type-badge">Adventure</span>
+              <h2>The Lost Kingdom</h2>
+              <div class="stats">
+                <span>📜 20 Chapters</span>
+                <span>👥 5 Characters</span>
+                <span>📖 15% Progress</span>
+              </div>
+              <div class="action-buttons">
+                <a href="chapter.html" class="action-btn">Continue Reading</a>
+                <a href="director.html" class="action-btn secondary">Direct New Chapter</a>
+              </div>
+            </div>
           </div>
           
           <div class="view-tabs">
@@ -477,428 +448,254 @@
     </div>
   </div>
   
-  <div id="createChapterModal" class="modal">
-    <div class="modal-content" style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.95) 0%, rgba(22, 33, 62, 0.95) 100%); border: 2px solid #FFD700; border-radius: 12px; padding: 24px; max-width: 400px;">
-      <h3 style="color: #FFD700; font-family: 'Cinzel', serif; margin-bottom: 16px;">Add New Chapter</h3>
-      <form id="createChapterForm">
-        <div class="form-group">
-          <label for="chapterTitle" style="color: #FFD700; font-family: 'Cinzel', serif;">Chapter Title</label>
-          <input type="text" id="chapterTitle" required placeholder="Enter chapter title" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
-        </div>
-        <div class="form-group">
-          <label for="chapterContent" style="color: #FFD700; font-family: 'Cinzel', serif;">Chapter Content</label>
-          <textarea id="chapterContent" rows="6" placeholder="Enter chapter content (optional)" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px; resize: vertical;"></textarea>
-        </div>
-        <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px;">
-          <button type="button" onclick="hideCreateChapterModal()" style="padding: 10px 20px; background: transparent; border: 2px solid #FFD700; border-radius: 8px; color: #FFD700; cursor: pointer; font-family: 'Cinzel', serif;">Cancel</button>
-          <button type="submit" style="padding: 10px 20px; background: linear-gradient(180deg, #FFD700 0%, #B8860B 100%); border: none; border-radius: 8px; color: #1a1a2e; cursor: pointer; font-family: 'Cinzel', serif; font-weight: bold;">Create</button>
-        </div>
-      </form>
+  <div id="cardModal" class="modal-overlay" onclick="closeCardModal(event)">
+    <div class="modal-card-content">
+      <button class="modal-close-btn" onclick="closeCardModal()">&times;</button>
+      <div class="modal-card-display"></div>
     </div>
   </div>
   
-  <div id="createCharacterModal" class="modal">
-    <div class="modal-content" style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.95) 0%, rgba(22, 33, 62, 0.95) 100%); border: 2px solid #FFD700; border-radius: 12px; padding: 24px; max-width: 400px;">
-      <h3 style="color: #FFD700; font-family: 'Cinzel', serif; margin-bottom: 16px;">Add New Character</h3>
-      <form id="createCharacterForm">
-        <div class="form-group">
-          <label for="charName" style="color: #FFD700; font-family: 'Cinzel', serif;">Character Name</label>
-          <input type="text" id="charName" required placeholder="Enter character name" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
-        </div>
-        <div class="form-group">
-          <label for="charAvatar" style="color: #FFD700; font-family: 'Cinzel', serif;">Avatar</label>
-          <input type="text" id="charAvatar" placeholder="Emoji" value="👤" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
-        </div>
-        <div class="form-group">
-          <label for="charRoleType" style="color: #FFD700; font-family: 'Cinzel', serif;">Role Type</label>
-          <input type="text" id="charRoleType" placeholder="e.g., Warrior, Mage, Merchant" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
-        </div>
-        <div class="form-group">
-          <label for="charPersonality" style="color: #FFD700; font-family: 'Cinzel', serif;">Personality</label>
-          <input type="text" id="charPersonality" placeholder="e.g., Brave, Clever" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
-        </div>
-        <div class="form-group">
-          <label for="charSpeechStyle" style="color: #FFD700; font-family: 'Cinzel', serif;">Speech Style</label>
-          <input type="text" id="charSpeechStyle" placeholder="e.g., Humorous, Serious" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
-        </div>
-        <div class="form-group">
-          <label style="color: #f5f5f5; display: flex; align-items: center; gap: 8px;">
-            <input type="checkbox" id="charIsProtagonist" style="width: 18px; height: 18px;"> Is Protagonist
-          </label>
-        </div>
-        <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px;">
-          <button type="button" onclick="hideCreateCharacterModal()" style="padding: 10px 20px; background: transparent; border: 2px solid #FFD700; border-radius: 8px; color: #FFD700; cursor: pointer; font-family: 'Cinzel', serif;">Cancel</button>
-          <button type="submit" style="padding: 10px 20px; background: linear-gradient(180deg, #FFD700 0%, #B8860B 100%); border: none; border-radius: 8px; color: #1a1a2e; cursor: pointer; font-family: 'Cinzel', serif; font-weight: bold;">Create</button>
-        </div>
-      </form>
-    </div>
-  </div>
-  
-  <div id="createCardModal" class="modal">
-    <div class="modal-content" style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.95) 0%, rgba(22, 33, 62, 0.95) 100%); border: 2px solid #FFD700; border-radius: 12px; padding: 24px; max-width: 400px;">
-      <h3 style="color: #FFD700; font-family: 'Cinzel', serif; margin-bottom: 16px;">Add New Card</h3>
-      <form id="createCardForm">
-        <div class="form-group">
-          <label for="cardSubType" style="color: #FFD700; font-family: 'Cinzel', serif;">Card Type</label>
-          <select id="cardSubType" required style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
-            <option value="weather">Weather</option>
-            <option value="terrain">Terrain</option>
-            <option value="adventure">Adventure</option>
-            <option value="equipment">Equipment</option>
-          </select>
-        </div>
-        <div class="form-group">
-          <label for="cardName" style="color: #FFD700; font-family: 'Cinzel', serif;">Card Name</label>
-          <input type="text" id="cardName" required placeholder="Enter card name" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
-        </div>
-        <div class="form-group">
-          <label for="cardIcon" style="color: #FFD700; font-family: 'Cinzel', serif;">Icon</label>
-          <input type="text" id="cardIcon" placeholder="Emoji" value="⭐" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
-        </div>
-        <div class="form-group">
-          <label for="cardDescription" style="color: #FFD700; font-family: 'Cinzel', serif;">Description</label>
-          <textarea id="cardDescription" rows="3" placeholder="Enter card description" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px; resize: vertical;"></textarea>
-        </div>
-        <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px;">
-          <button type="button" onclick="hideCreateCardModal()" style="padding: 10px 20px; background: transparent; border: 2px solid #FFD700; border-radius: 8px; color: #FFD700; cursor: pointer; font-family: 'Cinzel', serif;">Cancel</button>
-          <button type="submit" style="padding: 10px 20px; background: linear-gradient(180deg, #FFD700 0%, #B8860B 100%); border: none; border-radius: 8px; color: #1a1a2e; cursor: pointer; font-family: 'Cinzel', serif; font-weight: bold;">Create</button>
-        </div>
-      </form>
-    </div>
-  </div>
-  
+  <script src="js/api.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/theme.js"></script>
   <script>
-    const params = new URLSearchParams(window.location.search);
-    const bookId = params.get('id');
-    const userId = localStorage.getItem('userId');
     let currentBook = null;
     let currentView = 'chapters';
-    let chaptersData = [];
-    let charactersData = [];
-    let cardsData = [];
-    
-    function createParticles(container, count) {
-      if (!container) return;
-      for (let i = 0; i < count; i++) {
-        const particle = document.createElement('div');
-        particle.className = 'particle';
-        particle.style.left = Math.random() * 100 + '%';
-        particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
-        particle.style.animationDelay = Math.random() * 10 + 's';
-        container.appendChild(particle);
+    let isAnimating = false;
+
+    document.addEventListener('DOMContentLoaded', async function() {
+      createParticles(document.getElementById('particles'), 30);
+      
+      const userId = checkAuth();
+      if (!userId) return;
+      
+      const bookId = getUrlParam('id');
+      if (!bookId) {
+        window.location.href = 'bookshelf.html';
+        return;
       }
-    }
+      
+      await loadBook(bookId);
+    });
     
-    async function loadBookDetail() {
+    async function loadBook(bookId) {
       try {
-        const response = await fetch(`/api/books/${bookId}`);
-        const result = await response.json();
+        const result = await API.getBook(bookId);
         
         if (result.success) {
           currentBook = result.data;
-          renderBookDetail();
-          loadChapters();
-          loadCharacters();
-          loadCards();
-          
-          if (currentBook.is_preset) {
-            document.getElementById('addChapterBtn')?.style.setProperty('display', 'none');
-          }
+          renderBookHeader(currentBook);
+          renderBookPages();
+        } else {
+          showNotification('Book not found', 'error');
+          setTimeout(() => window.location.href = 'bookshelf.html', 1500);
         }
       } catch (error) {
-        console.error('Load failed:', error);
+        showNotification('Failed to load book: ' + error.message, 'error');
       }
     }
     
-    function renderBookDetail() {
-      document.getElementById('spineTitle').textContent = currentBook.title;
+    function renderBookHeader(book) {
+      const typeIcons = {
+        adventure: '🗺️',
+        fantasy: '🧙',
+        romance: '💕',
+        business: '💼'
+      };
       
-      const icon = getBookIcon(currentBook.type);
-      const typeName = getTypeName(currentBook.type);
+      document.querySelector('.book-cover-small span').textContent = typeIcons[book.type] || '📖';
+      document.querySelector('.book-spine-title').textContent = book.title;
+      document.querySelector('.book-meta-info h2').textContent = book.title;
+      document.querySelector('.type-badge').textContent = book.type;
       
-      document.getElementById('bookInfoHeader').innerHTML = `
-        <div class="book-cover-small">
-          <span>${icon}</span>
-        </div>
-        <div class="book-meta-info">
-          <span class="type-badge">${typeName}</span>
-          ${currentBook.is_preset ? '<span class="preset-badge" style="margin-left: 8px; padding: 3px 10px; background: #8B4513; color: #f4e4bc; border-radius: 4px; font-size: 10px;">Preset</span>' : ''}
-          <h2 style="font-family: \'MedievalSharp\', cursive; font-size: 20px; color: #2a1810; margin-bottom: 5px;">${currentBook.title}</h2>
-          <div class="stats" style="display: flex; gap: 15px; font-size: 12px; color: #4a3a2a;">
-            <span id="chapterCount">📜 Loading...</span>
-            <span id="characterCount">👥 Loading...</span>
-          </div>
-          <div class="action-buttons" style="display: flex; gap: 10px; margin-top: 15px;">
-            <a href="chapter.html?id=first&bookId=${bookId}" class="action-btn">Continue Reading</a>
-            <a href="director.html?bookId=${bookId}" class="action-btn secondary">Direct New Chapter</a>
-          </div>
-        </div>
+      const chapters = book.chapters || [];
+      const characters = book.characters || [];
+      const progress = book.progress || 0;
+      
+      document.querySelector('.stats').innerHTML = `
+        <span>📜 ${chapters.length} Chapters</span>
+        <span>👥 ${characters.length} Characters</span>
+        <span>📖 ${progress}% Progress</span>
       `;
+      
+      const actionButtons = document.querySelector('.action-buttons');
+      const currentChapter = chapters.find(c => c.status === 'current') || chapters[0];
+      if (currentChapter) {
+        actionButtons.innerHTML = `
+          <a href="chapter.html?id=${currentChapter.chapter_id}" class="action-btn">Continue Reading</a>
+          <a href="director.html?book_id=${book.book_id}" class="action-btn secondary">Direct New Chapter</a>
+        `;
+      }
     }
-    
-    async function loadChapters() {
-      const response = await fetch(`/api/chapters?book_id=${bookId}`);
-      const result = await response.json();
-      chaptersData = result.success ? result.data : [];
-      document.getElementById('chapterCount').textContent = `📜 ${chaptersData.length} Chapters`;
-      renderBookPages();
-    }
-    
-    async function loadCharacters() {
-      const response = await fetch(`/api/characters?book_id=${bookId}`);
-      const result = await response.json();
-      charactersData = result.success ? result.data : [];
-      document.getElementById('characterCount').textContent = `👥 ${charactersData.length} Characters`;
-      renderBookPages();
-    }
-    
-    async function loadCards() {
-      const response = await fetch(`/api/plot-cards?book_id=${bookId}`);
-      const result = await response.json();
-      cardsData = result.success ? result.data : [];
-      renderBookPages();
-    }
-    
+
     function switchView(view) {
-      currentView = view;
-      document.querySelectorAll('.view-tab').forEach(tab => {
-        tab.classList.toggle('active', tab.dataset.view === view);
-      });
-      renderBookPages();
+      if (isAnimating || view === currentView) return;
+      isAnimating = true;
+      
+      const leftContent = document.getElementById('leftPageContent');
+      const rightContent = document.getElementById('rightPageContent');
+      
+      leftContent.style.animation = 'pageFlipOut 0.3s ease-in forwards';
+      rightContent.style.animation = 'pageFlipOut 0.3s ease-in forwards';
+      
+      setTimeout(() => {
+        currentView = view;
+        
+        document.querySelectorAll('.view-tab').forEach(tab => {
+          tab.classList.toggle('active', tab.dataset.view === view);
+        });
+        
+        renderBookPages();
+        
+        leftContent.style.animation = 'pageFlipIn 0.5s ease-out forwards';
+        rightContent.style.animation = 'pageFlipIn 0.5s ease-out forwards';
+        
+        setTimeout(() => {
+          isAnimating = false;
+          leftContent.style.animation = '';
+          rightContent.style.animation = '';
+        }, 500);
+        
+      }, 300);
     }
-    
+
     function renderBookPages() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       
+      if (!currentBook) return;
+      
       if (currentView === 'chapters') {
-        const half = Math.ceil(chaptersData.length / 2);
-        const leftChapters = chaptersData.slice(0, half);
-        const rightChapters = chaptersData.slice(half);
+        const chapters = currentBook.chapters || [];
+        const leftChapters = chapters.filter((_, i) => i % 2 === 0);
+        const rightChapters = chapters.filter((_, i) => i % 2 === 1);
         
-        leftContent.innerHTML = `
-          <div class="chapter-list-view">
-            ${leftChapters.map(ch => renderChapterCard(ch)).join('')}
-            ${!currentBook?.is_preset ? `
-              <div class="chapter-card" onclick="showCreateChapterModal()" style="border: 2px dashed rgba(139, 90, 43, 0.3); text-align: center;">
-                <div class="chapter-title" style="color: #8B4513;">+ Add Chapter</div>
-              </div>
-            ` : ''}
-          </div>
-        `;
-        
-        rightContent.innerHTML = `
-          <div class="chapter-list-view">
-            ${rightChapters.map(ch => renderChapterCard(ch)).join('')}
-          </div>
-        `;
+        leftContent.innerHTML = `<div class="chapter-toc">${leftChapters.map((ch, i) => renderChapterCard(ch, i)).join('')}</div>`;
+        rightContent.innerHTML = `<div class="chapter-toc">${rightChapters.map((ch, i) => renderChapterCard(ch, i)).join('')}</div>`;
       } else if (currentView === 'characters') {
-        const half = Math.ceil(charactersData.length / 2);
-        const leftChars = charactersData.slice(0, half);
-        const rightChars = charactersData.slice(half);
+        const characters = currentBook.characters || [];
+        const half = Math.ceil(characters.length / 2);
+        const leftChars = characters.slice(0, half);
+        const rightChars = characters.slice(half);
         
-        leftContent.innerHTML = `
-          <div class="character-grid-view">
-            ${leftChars.map(char => renderCharacterCard(char)).join('')}
-          </div>
-        `;
-        
-        rightContent.innerHTML = `
-          <div class="character-grid-view">
-            ${rightChars.map(char => renderCharacterCard(char)).join('')}
-          </div>
-        `;
+        leftContent.innerHTML = `<div class="character-grid-view">${leftChars.map((ch, i) => renderCharacterCard(ch, i)).join('')}</div>`;
+        rightContent.innerHTML = `<div class="character-grid-view">${rightChars.map((ch, i) => renderCharacterCard(ch, i)).join('')}</div>`;
       } else if (currentView === 'plots') {
-        const half = Math.ceil(cardsData.length / 2);
-        const leftCards = cardsData.slice(0, half);
-        const rightCards = cardsData.slice(half);
-        
-        leftContent.innerHTML = `
-          <div class="plot-grid-view">
-            ${leftCards.map(card => renderPlotCard(card)).join('')}
-          </div>
-        `;
-        
-        rightContent.innerHTML = `
-          <div class="plot-grid-view">
-            ${rightCards.map(card => renderPlotCard(card)).join('')}
-          </div>
-        `;
+        renderPlotCards();
       }
     }
     
-    function renderChapterCard(chapter) {
+    async function renderPlotCards() {
+      const leftContent = document.getElementById('leftPageContent');
+      const rightContent = document.getElementById('rightPageContent');
+      
+      try {
+        const result = await API.getPlotCards(currentBook.book_id);
+        const plots = result.success ? (result.data || []) : [];
+        
+        const half = Math.ceil(plots.length / 2);
+        const leftPlots = plots.slice(0, half);
+        const rightPlots = plots.slice(half);
+        
+        leftContent.innerHTML = `<div class="plot-grid-view">${leftPlots.map((p, i) => renderPlotCard(p, i)).join('')}</div>`;
+        rightContent.innerHTML = `<div class="plot-grid-view">${rightPlots.map((p, i) => renderPlotCard(p, i)).join('')}</div>`;
+      } catch (error) {
+        leftContent.innerHTML = '<p>Failed to load plot cards</p>';
+        rightContent.innerHTML = '';
+      }
+    }
+
+    function renderChapterCard(chapter, index) {
       const statusIcon = {
-        'read': '✓ Read',
-        'current': '📖 Current',
-        'locked': '🔒 Locked'
+        'read': '✓',
+        'current': '🖋️',
+        'locked': '🔒'
       };
-      const status = chapter.is_solved ? 'read' : 'current';
+      
+      const status = chapter.status || 'locked';
+      const chapterId = chapter.chapter_id || chapter.id;
+      const orderNum = chapter.order_num || (index + 1);
+      const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       
       return `
-        <div class="chapter-card" onclick="location.href='/chapter?id=${chapter.chapter_id}'">
-          <div class="chapter-number">Chapter ${chapter.order_num}</div>
-          <div class="chapter-title">${chapter.title}</div>
-          <div class="chapter-status">${statusIcon[status]}</div>
+        <div class="chapter-toc-item ${status}" 
+             onclick="${status !== 'locked' ? `goToChapter('${chapterId}')` : ''}"
+             style="animation: fadeIn 0.5s ease-out ${index * 0.1}s backwards;">
+          <span class="chapter-number">Chapter ${romanNumerals[orderNum - 1] || orderNum}</span>
+          <span class="chapter-dots"></span>
+          <span class="chapter-title">${chapter.title}</span>
+          <span class="chapter-status-icon">${statusIcon[status]}</span>
         </div>
       `;
     }
-    
-    function renderCharacterCard(char) {
+
+    function renderCharacterCard(char, index) {
+      const roleClass = (char.role_type || char.role || 'character').toLowerCase();
       return `
-        <div class="character-card-mini">
-          <div class="avatar">${char.avatar || '👤'}</div>
-          <div class="name">${char.name}</div>
-          <div class="role">${char.role_type || ''} ${char.is_protagonist ? '⭐' : ''}</div>
+        <div class="hs-card-mini ${roleClass}" 
+             onclick="showCharacterDetail('${char.char_id}')"
+             style="animation: fadeIn 0.5s ease-out ${index * 0.1}s backwards;">
+          <div style="font-size: 48px;">${char.avatar || '👤'}</div>
+          <div style="color: #FFD700; font-family: 'Cinzel', serif; font-size: 14px; margin-top: 10px;">${char.name}</div>
+          <div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">${char.role_type || char.role || 'Character'}</div>
         </div>
       `;
     }
-    
-    function renderPlotCard(card) {
+
+    function renderPlotCard(plot, index) {
       return `
-        <div class="plot-card-mini">
-          <div class="plot-icon">${card.icon || '⭐'}</div>
-          <div class="plot-title">${card.name}</div>
-          <div class="plot-desc">${card.sub_type || ''}</div>
+        <div class="hs-card-mini plot-card" 
+             onclick="showPlotDetail('${plot.card_id}')"
+             style="animation: fadeIn 0.5s ease-out ${index * 0.1}s backwards;">
+          <div style="font-size: 36px;">${plot.icon || '🎭'}</div>
+          <div style="color: #f4e4bc; font-family: 'Cinzel', serif; font-size: 13px; margin-top: 10px; text-align: center;">${plot.name}</div>
+          <div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">${plot.description || ''}</div>
         </div>
       `;
     }
-    
-    function showCreateChapterModal() {
-      document.getElementById('createChapterModal').style.display = 'flex';
+
+    function goToChapter(id) {
+      window.location.href = `chapter.html?id=${id}`;
     }
-    
-    function hideCreateChapterModal() {
-      document.getElementById('createChapterModal').style.display = 'none';
-      document.getElementById('createChapterForm').reset();
-    }
-    
-    function showCreateCharacterModal() {
-      document.getElementById('createCharacterModal').style.display = 'flex';
-    }
-    
-    function hideCreateCharacterModal() {
-      document.getElementById('createCharacterModal').style.display = 'none';
-      document.getElementById('createCharacterForm').reset();
-    }
-    
-    function showCreateCardModal() {
-      document.getElementById('createCardModal').style.display = 'flex';
-    }
-    
-    function hideCreateCardModal() {
-      document.getElementById('createCardModal').style.display = 'none';
-      document.getElementById('createCardForm').reset();
-    }
-    
-    document.getElementById('createChapterForm').addEventListener('submit', async (e) => {
-      e.preventDefault();
-      const title = document.getElementById('chapterTitle').value;
-      const content = document.getElementById('chapterContent').value;
+
+    function showCharacterDetail(id) {
+      const char = currentBook.characters?.find(c => c.char_id === id);
+      if (!char) return;
       
-      try {
-        const response = await fetch('/api/chapters', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ book_id: bookId, title, content })
-        });
-        
-        const result = await response.json();
-        if (result.success) {
-          hideCreateChapterModal();
-          loadChapters();
-        } else {
-          alert(result.error || 'Create failed');
-        }
-      } catch (error) {
-        alert('Network error');
+      const modal = document.getElementById('cardModal');
+      const content = modal.querySelector('.modal-card-display');
+      
+      content.innerHTML = `
+        <div class="hs-card-mini ${(char.role_type || 'character').toLowerCase()}" style="transform: none; margin: 0 auto;">
+          <div style="font-size: 64px;">${char.avatar || '👤'}</div>
+          <div style="color: #FFD700; font-family: 'Cinzel', serif; font-size: 18px; margin-top: 15px;">${char.name}</div>
+          <div style="color: #a0a0a0; font-size: 14px; margin-top: 8px;">${char.role_type || 'Character'}</div>
+          ${char.personality ? `<div style="color: #ccc; font-size: 12px; margin-top: 10px; padding: 0 20px;">${char.personality}</div>` : ''}
+        </div>
+      `;
+      
+      modal.classList.add('active');
+    }
+
+    function showPlotDetail(id) {
+      const modal = document.getElementById('cardModal');
+      const content = modal.querySelector('.modal-card-display');
+      
+      content.innerHTML = `
+        <div class="hs-card-mini plot-card" style="transform: none; margin: 0 auto;">
+          <div style="font-size: 48px;">🎭</div>
+          <div style="color: #f4e4bc; font-family: 'Cinzel', serif; font-size: 18px; margin-top: 15px;">Plot Card</div>
+        </div>
+      `;
+      
+      modal.classList.add('active');
+    }
+
+    function closeCardModal(event) {
+      if (!event || event.target.classList.contains('modal-overlay')) {
+        document.getElementById('cardModal').classList.remove('active');
       }
-    });
-    
-    document.getElementById('createCharacterForm').addEventListener('submit', async (e) => {
-      e.preventDefault();
-      const name = document.getElementById('charName').value;
-      const avatar = document.getElementById('charAvatar').value || '👤';
-      const role_type = document.getElementById('charRoleType').value;
-      const personality = document.getElementById('charPersonality').value;
-      const speech_style = document.getElementById('charSpeechStyle').value;
-      const is_protagonist = document.getElementById('charIsProtagonist').checked;
-      
-      try {
-        const response = await fetch('/api/characters', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ 
-            book_id: bookId, name, avatar, role_type, personality, speech_style, is_protagonist
-          })
-        });
-        
-        const result = await response.json();
-        if (result.success) {
-          hideCreateCharacterModal();
-          loadCharacters();
-        } else {
-          alert(result.error || 'Create failed');
-        }
-      } catch (error) {
-        alert('Network error');
-      }
-    });
-    
-    document.getElementById('createCardForm').addEventListener('submit', async (e) => {
-      e.preventDefault();
-      const sub_type = document.getElementById('cardSubType').value;
-      const name = document.getElementById('cardName').value;
-      const icon = document.getElementById('cardIcon').value || '⭐';
-      const description = document.getElementById('cardDescription').value;
-      
-      try {
-        const response = await fetch('/api/plot-cards', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ 
-            book_id: bookId, type: 'plot', sub_type, name, icon, description
-          })
-        });
-        
-        const result = await response.json();
-        if (result.success) {
-          hideCreateCardModal();
-          loadCards();
-        } else {
-          alert(result.error || 'Create failed');
-        }
-      } catch (error) {
-        alert('Network error');
-      }
-    });
-    
-    function getBookIcon(type) {
-      const icons = { 'adventure': '🗺️', 'fantasy': '🧙', 'romance': '💕', 'business': '💼' };
-      return icons[type] || '📖';
     }
-    
-    function getTypeName(type) {
-      const names = { 'adventure': 'Adventure', 'fantasy': 'Fantasy', 'romance': 'Romance', 'business': 'Business' };
-      return names[type] || type;
-    }
-    
-    document.addEventListener('DOMContentLoaded', function() {
-      createParticles(document.getElementById('particles'), 30);
-      
-      if (!bookId) {
-        document.getElementById('bookInfoHeader').innerHTML = `
-          <div style="text-align: center; padding: 40px; color: #8B4513;">
-            <h2>No Book Selected</h2>
-            <p style="margin-top: 10px;">Please select a book from your library.</p>
-            <a href="/bookshelf" class="action-btn" style="display: inline-block; margin-top: 20px;">Go to Library</a>
-          </div>
-        `;
-        return;
-      }
-      
-      loadBookDetail();
-    });
   </script>
 </body>
 </html>

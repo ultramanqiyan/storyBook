@@ -1,327 +1,383 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Library - StoryBook</title>
-    <link rel="stylesheet" href="/css/variables.css">
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="stylesheet" href="/css/animations.css">
-    <link rel="stylesheet" href="/css/components.css">
-    <link rel="stylesheet" href="/css/themes.css">
-    <link rel="stylesheet" href="/css/responsive.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Library - StoryBook</title>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/themes.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <style>
+    .bookshelf-page {
+      padding-top: 80px;
+      min-height: 100vh;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .page-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: var(--spacing-xl) var(--spacing-lg);
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    .page-title {
+      font-size: 2.5rem;
+    }
+    
+    .filter-tabs {
+      display: flex;
+      gap: var(--spacing-sm);
+      padding: 0 var(--spacing-lg) var(--spacing-lg);
+      max-width: 1200px;
+      margin: 0 auto;
+      flex-wrap: wrap;
+    }
+    
+    .filter-tab {
+      padding: var(--spacing-sm) var(--spacing-lg);
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 215, 0, 0.3);
+      border-radius: var(--radius-md);
+      color: var(--color-text-muted);
+      font-family: var(--font-title);
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .filter-tab:hover {
+      border-color: var(--color-primary);
+      color: var(--color-primary);
+    }
+    
+    .filter-tab.active {
+      background: rgba(255, 215, 0, 0.1);
+      border-color: var(--color-primary);
+      color: var(--color-primary);
+    }
+    
+    .books-section {
+      padding: 0 var(--spacing-lg) var(--spacing-xxl);
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    .section-title {
+      font-size: 1.5rem;
+      margin-bottom: var(--spacing-lg);
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+    }
+    
+    .section-title .count {
+      font-size: 14px;
+      color: var(--color-text-muted);
+      font-family: var(--font-ui);
+    }
+    
+    .books-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: var(--spacing-xl);
+      perspective: 1000px;
+    }
+    
+    .book-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .book-item .book-3d {
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .book-info {
+      text-align: center;
+    }
+    
+    .book-info h4 {
+      font-family: var(--font-title);
+      font-size: 14px;
+      color: var(--color-primary);
+      margin-bottom: var(--spacing-xs);
+    }
+    
+    .book-info p {
+      font-size: 12px;
+      color: var(--color-text-muted);
+      margin: 0;
+    }
+    
+    .book-progress {
+      width: 100%;
+      height: 4px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 2px;
+      margin-top: var(--spacing-sm);
+      overflow: hidden;
+    }
+    
+    .book-progress-bar {
+      height: 100%;
+      background: var(--gradient-primary);
+      border-radius: 2px;
+      transition: width 0.3s ease;
+    }
+    
+    .user-info {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-md);
+    }
+    
+    .user-avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: var(--gradient-primary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+    }
+    
+    .user-name {
+      font-family: var(--font-ui);
+      font-size: 14px;
+      color: var(--color-text);
+    }
+    
+    .add-book-card {
+      width: 150px;
+      height: 200px;
+      border: 2px dashed rgba(255, 215, 0, 0.3);
+      border-radius: var(--radius-md);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .add-book-card:hover {
+      border-color: var(--color-primary);
+      background: rgba(255, 215, 0, 0.05);
+    }
+    
+    .add-book-icon {
+      font-size: 48px;
+      color: var(--color-primary);
+      margin-bottom: var(--spacing-sm);
+    }
+    
+    .add-book-text {
+      font-family: var(--font-title);
+      font-size: 12px;
+      color: var(--color-text-muted);
+    }
+  </style>
 </head>
 <body class="theme-adventure">
-    <div class="particles-container" id="particles"></div>
-    
-    <nav class="navbar">
-        <a href="/" class="navbar-brand">StoryBook</a>
-        <div class="navbar-nav">
-            <a href="/" class="navbar-link">Home</a>
-            <a href="#" class="navbar-link" onclick="logout()">Sign Out</a>
-        </div>
-    </nav>
-    
-    <main class="bookshelf-page">
-        <header class="bookshelf-header">
-            <h1 class="bookshelf-title">📚 My Library</h1>
-            <div class="user-info">
-                <span class="user-email" id="userEmail"></span>
-                <a href="/book-create" class="btn btn-3d">+ New Book</a>
-            </div>
-        </header>
-        
-        <section class="books-section">
-            <h2 class="section-title">✒️ My Creations</h2>
-            <div class="books-grid" id="myBooks">
-                <div class="loading-spinner"></div>
-            </div>
-        </section>
-        
-        <section class="books-section">
-            <h2 class="section-title">📖 Preset Stories</h2>
-            <div class="books-grid" id="presetBooks">
-                <div class="loading-spinner"></div>
-            </div>
-        </section>
-    </main>
-    
-    <div id="deleteModal" class="modal-overlay">
-        <div class="modal-content">
-            <h3 class="modal-title">⚠️ Confirm Delete</h3>
-            <p class="modal-text">Are you sure you want to delete "<strong id="deleteBookTitle"></strong>"?</p>
-            <p class="modal-warning">⚠️ This action cannot be undone!</p>
-            <div class="modal-actions">
-                <button class="btn btn-secondary" onclick="closeDeleteModal()">Cancel</button>
-                <button class="btn btn-danger" id="confirmDeleteBtn">Delete</button>
-            </div>
-        </div>
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="index.html" class="navbar-brand" data-i18n="home.title">StoryBook</a>
+    <div class="navbar-nav">
+      <div class="user-info">
+        <div class="user-avatar">🧙‍♂️</div>
+        <span class="user-name">StoryTeller</span>
+      </div>
+      <a href="login.html" class="navbar-link" data-i18n="nav.signOut">Sign Out</a>
+    </div>
+  </nav>
+  
+  <div class="bookshelf-page">
+    <div class="page-header">
+      <h1 class="page-title" data-i18n="bookshelf.title">My Library</h1>
+      <a href="book-create.html" class="btn btn-3d" data-i18n="bookshelf.createNew">Create New Story</a>
     </div>
     
-    <script src="/js/main.js"></script>
-    <script>
-        const userId = localStorage.getItem('userId');
-        const userEmail = localStorage.getItem('userEmail');
-
-        if (!userId) {
-            window.location.href = '/login';
-        }
-
-        document.getElementById('userEmail').textContent = userEmail;
-
-        let bookToDelete = null;
-
-        function createParticles(container, count) {
-            if (!container) return;
-            for (let i = 0; i < count; i++) {
-                const particle = document.createElement('div');
-                particle.className = 'particle';
-                particle.style.left = Math.random() * 100 + '%';
-                particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
-                particle.style.animationDelay = Math.random() * 10 + 's';
-                container.appendChild(particle);
-            }
-        }
-
-        async function loadBooks() {
-            try {
-                const [myResponse, presetResponse] = await Promise.all([
-                    fetch(`/api/books?user_id=${userId}`),
-                    fetch('/api/books/preset')
-                ]);
-
-                const myResult = await myResponse.json();
-                const presetResult = await presetResponse.json();
-
-                renderBooks('myBooks', myResult.data, false);
-                renderBooks('presetBooks', presetResult.data, true);
-            } catch (error) {
-                console.error('Failed to load:', error);
-            }
-        }
-
-        function renderBooks(containerId, books, isPreset) {
-            const container = document.getElementById(containerId);
-            if (!books || books.length === 0) {
-                container.innerHTML = '<p class="empty-text">No books available</p>';
-                return;
-            }
-
-            const filteredBooks = isPreset ? books : books.filter(b => !b.is_preset);
-            if (!isPreset && filteredBooks.length === 0) {
-                container.innerHTML = '<p class="empty-text">No creations yet. Click "+ New Book" to start!</p>';
-                return;
-            }
-
-            container.innerHTML = filteredBooks.map(book => `
-                <div class="book-3d" data-book-id="${book.book_id}">
-                    <div class="book-cover" onclick="location.href='/book?id=${book.book_id}'">
-                        <span style="font-size: 64px;">${getBookIcon(book.type)}</span>
-                        <div class="book-title">${book.title}</div>
-                        <span class="book-tag">${getTypeName(book.type)}</span>
-                    </div>
-                    <div class="book-spine"></div>
-                    <div class="book-pages"></div>
-                    ${!isPreset ? `<button class="delete-btn" onclick="event.stopPropagation(); showDeleteModal('${book.book_id}', '${book.title}')">🗑️</button>` : ''}
-                </div>
-            `).join('');
-        }
-
-        function showDeleteModal(bookId, title) {
-            bookToDelete = bookId;
-            document.getElementById('deleteBookTitle').textContent = title;
-            document.getElementById('deleteModal').classList.add('active');
-        }
-
-        function closeDeleteModal() {
-            bookToDelete = null;
-            document.getElementById('deleteModal').classList.remove('active');
-        }
-
-        async function confirmDelete() {
-            if (!bookToDelete) return;
-
-            const btn = document.getElementById('confirmDeleteBtn');
-            btn.disabled = true;
-            btn.textContent = 'Deleting...';
-
-            try {
-                const response = await fetch(`/api/books/${bookToDelete}`, {
-                    method: 'DELETE',
-                    headers: { 'Content-Type': 'application/json' }
-                });
-
-                const result = await response.json();
-
-                if (result.success) {
-                    closeDeleteModal();
-                    loadBooks();
-                } else {
-                    alert('Delete failed: ' + result.error);
-                }
-            } catch (error) {
-                alert('Delete failed: ' + error.message);
-            } finally {
-                btn.disabled = false;
-                btn.textContent = 'Delete';
-            }
-        }
-
-        document.getElementById('confirmDeleteBtn').addEventListener('click', confirmDelete);
-
-        function logout() {
-            localStorage.removeItem('userId');
-            localStorage.removeItem('userEmail');
-            window.location.href = '/login';
-        }
-
-        function getBookIcon(type) {
-            const icons = { 'adventure': '🗺️', 'fantasy': '🧙', 'romance': '💕', 'business': '💼' };
-            return icons[type] || '📖';
-        }
-
-        function getTypeName(type) {
-            const names = { 'adventure': 'Adventure', 'fantasy': 'Fantasy', 'romance': 'Romance', 'business': 'Business' };
-            return names[type] || type;
-        }
-
-        document.addEventListener('DOMContentLoaded', function() {
-            createParticles(document.getElementById('particles'), 30);
-            loadBooks();
-        });
-    </script>
+    <div class="filter-tabs">
+      <button class="filter-tab active" data-filter="all" data-i18n="bookshelf.allStories">All Stories</button>
+      <button class="filter-tab" data-filter="adventure">🗺️ <span data-i18n="bookshelf.adventure">Adventure</span></button>
+      <button class="filter-tab" data-filter="fantasy">🧙 <span data-i18n="bookshelf.fantasy">Fantasy</span></button>
+      <button class="filter-tab" data-filter="romance">💕 <span data-i18n="bookshelf.romance">Romance</span></button>
+      <button class="filter-tab" data-filter="business">💼 <span data-i18n="bookshelf.business">Business</span></button>
+    </div>
     
-    <style>
-        .bookshelf-page {
-            min-height: calc(100vh - 80px);
-            padding: var(--spacing-xl);
-            max-width: 1200px;
-            margin: 0 auto;
-        }
+    <div class="books-section">
+      <h2 class="section-title"><span data-i18n="bookshelf.myCreations">My Creations</span> <span class="count">(4 <span data-i18n="bookshelf.stories">stories</span>)</span></h2>
+      <div class="books-grid" id="myBooks">
+        <div class="book-item">
+          <div class="add-book-card" onclick="window.location.href='book-create.html'">
+            <span class="add-book-icon">+</span>
+            <span class="add-book-text" data-i18n="bookshelf.createNew">Create New</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="books-section">
+      <h2 class="section-title"><span data-i18n="bookshelf.presetStories">Preset Stories</span> <span class="count">(3 <span data-i18n="bookshelf.stories">stories</span>)</span></h2>
+      <div class="books-grid" id="presetBooks"></div>
+    </div>
+  </div>
+  
+  <script src="js/api.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/theme.js"></script>
+  <script>
+    let allUserBooks = [];
+    let allPresetBooks = [];
+    
+    document.addEventListener('DOMContentLoaded', async function() {
+      createParticles(document.getElementById('particles'), 30);
+      
+      const userId = checkAuth();
+      if (!userId) return;
+      
+      await loadBooks(userId);
+      initFilterTabs();
+      updateUserInfo();
+    });
+    
+    async function loadBooks(userId) {
+      try {
+        const [userBooksResult, presetBooksResult] = await Promise.all([
+          API.getBooks(userId),
+          API.getPresetBooks()
+        ]);
         
-        .bookshelf-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: var(--spacing-xl);
-            padding-bottom: var(--spacing-lg);
-            border-bottom: 2px solid rgba(255, 215, 0, 0.2);
-        }
+        allUserBooks = userBooksResult.success ? (userBooksResult.data || []) : [];
+        allPresetBooks = presetBooksResult.success ? (presetBooksResult.data || []) : [];
         
-        .bookshelf-title {
-            font-family: var(--font-medieval);
-            font-size: 2rem;
-            color: var(--color-gold);
-        }
-        
-        .user-info {
-            display: flex;
-            align-items: center;
-            gap: var(--spacing-lg);
-        }
-        
-        .user-email {
-            color: var(--color-text-muted);
-            font-family: var(--font-body);
-        }
-        
-        .books-section {
-            margin-bottom: var(--spacing-xxl);
-        }
-        
-        .section-title {
-            font-family: var(--font-title);
-            font-size: 1.3rem;
-            color: var(--color-gold);
-            margin-bottom: var(--spacing-lg);
-        }
-        
-        .books-grid {
-            display: flex;
-            flex-wrap: wrap;
-            gap: var(--spacing-xl);
-            justify-content: flex-start;
-        }
-        
-        .empty-text {
-            text-align: center;
-            padding: var(--spacing-xl);
-            color: var(--color-text-muted);
-            font-family: var(--font-body);
-            font-style: italic;
-            width: 100%;
-        }
-        
-        .delete-btn {
-            position: absolute;
-            top: -10px;
-            right: -10px;
-            width: 36px;
-            height: 36px;
-            background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
-            border: 2px solid #FFD700;
-            border-radius: 50%;
-            cursor: pointer;
-            font-size: 16px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.3s ease;
-            z-index: 10;
-        }
-        
-        .delete-btn:hover {
-            transform: scale(1.1);
-            box-shadow: 0 0 15px rgba(220, 38, 38, 0.5);
-        }
-        
-        .modal-title {
-            font-family: var(--font-medieval);
-            font-size: 1.5rem;
-            color: var(--color-gold);
-            margin-bottom: var(--spacing-md);
-        }
-        
-        .modal-text {
-            color: var(--color-text);
-            font-family: var(--font-body);
-            margin-bottom: var(--spacing-md);
-        }
-        
-        .modal-warning {
-            color: #ef4444;
-            font-size: 0.9rem;
-            margin-bottom: var(--spacing-lg);
-        }
-        
-        .modal-actions {
-            display: flex;
-            gap: var(--spacing-md);
-            justify-content: flex-end;
-        }
-        
-        .btn-danger {
-            background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
-            color: white;
-            border: none;
-        }
-        
-        .btn-danger:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 15px rgba(220, 38, 38, 0.4);
-        }
-        
-        @media (max-width: 768px) {
-            .bookshelf-header {
-                flex-direction: column;
-                gap: var(--spacing-md);
-                text-align: center;
+        renderMyBooks(allUserBooks);
+        renderPresetBooks(allPresetBooks);
+        updateBookCounts();
+      } catch (error) {
+        showNotification('Failed to load books: ' + error.message, 'error');
+      }
+    }
+    
+    function updateUserInfo() {
+      const email = getUserEmail();
+      const userName = document.querySelector('.user-name');
+      if (email && userName) {
+        userName.textContent = email.split('@')[0];
+      }
+    }
+    
+    function updateBookCounts() {
+      const myCount = document.querySelector('.books-section:first-of-type .count');
+      const presetCount = document.querySelector('.books-section:last-of-type .count');
+      
+      if (myCount) {
+        myCount.textContent = `(${allUserBooks.length} stories)`;
+      }
+      if (presetCount) {
+        presetCount.textContent = `(${allPresetBooks.length} stories)`;
+      }
+    }
+    
+    function renderMyBooks(books) {
+      const container = document.getElementById('myBooks');
+      const addCard = container.querySelector('.book-item');
+      
+      books.forEach(book => {
+        const bookEl = createBookElement(book);
+        container.insertBefore(bookEl, addCard);
+      });
+    }
+    
+    function renderPresetBooks(books) {
+      const container = document.getElementById('presetBooks');
+      container.innerHTML = '';
+      
+      books.forEach(book => {
+        const bookEl = createBookElement(book);
+        container.appendChild(bookEl);
+      });
+    }
+    
+    function createBookElement(book) {
+      const typeIcons = {
+        adventure: '🗺️',
+        fantasy: '🧙',
+        romance: '💕',
+        business: '💼'
+      };
+      
+      const colors = {
+        adventure: 'linear-gradient(135deg, #2a4a2a 0%, #1a2a1a 100%)',
+        fantasy: 'linear-gradient(135deg, #2a1a4a 0%, #1a0a2e 100%)',
+        romance: 'linear-gradient(135deg, #4a1a2a 0%, #2a0a1e 100%)',
+        business: 'linear-gradient(135deg, #1a2a3a 0%, #0a1a2e 100%)'
+      };
+      
+      const bookId = book.book_id || book.id;
+      const chapterCount = book.chapter_count || book.chapters || 0;
+      const progress = book.progress || 0;
+      
+      const div = document.createElement('div');
+      div.className = 'book-item';
+      div.dataset.type = book.type;
+      div.innerHTML = `
+        <div class="book-3d" onclick="window.location.href='book.html?id=${bookId}'">
+          <div class="book-cover" style="background: ${colors[book.type] || colors.adventure}">
+            <span style="font-size: 48px;">${typeIcons[book.type] || '📖'}</span>
+          </div>
+          <div class="book-spine"></div>
+          <div class="book-pages"></div>
+          <div class="book-title">${book.title}</div>
+          <div class="book-tag">${book.type}</div>
+        </div>
+        <div class="book-info">
+          <h4>${book.title}</h4>
+          <p>${chapterCount} chapters</p>
+          <div class="book-progress">
+            <div class="book-progress-bar" style="width: ${progress}%"></div>
+          </div>
+        </div>
+      `;
+      return div;
+    }
+    
+    function initFilterTabs() {
+      const tabs = document.querySelectorAll('.filter-tab');
+      
+      tabs.forEach(tab => {
+        tab.addEventListener('click', function() {
+          tabs.forEach(t => t.classList.remove('active'));
+          this.classList.add('active');
+          
+          const filter = this.dataset.filter;
+          const books = document.querySelectorAll('.book-item');
+          
+          books.forEach(book => {
+            if (filter === 'all' || book.dataset.type === filter) {
+              book.style.display = '';
+            } else {
+              book.style.display = 'none';
             }
-            
-            .books-grid {
-                justify-content: center;
-            }
-        }
-    </style>
+          });
+        });
+      });
+    }
+    
+    function handleLogout() {
+      logout();
+    }
+  </script>
 </body>
 </html>

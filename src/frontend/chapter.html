@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Chapter Reading - StoryBook</title>
-  <link rel="stylesheet" href="/css/variables.css">
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="stylesheet" href="/css/animations.css">
-  <link rel="stylesheet" href="/css/components.css">
-  <link rel="stylesheet" href="/css/themes.css">
-  <link rel="stylesheet" href="/css/responsive.css">
+  <title>Chapter III - The Mountain Pass - StoryBook</title>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/themes.css">
+  <link rel="stylesheet" href="css/responsive.css">
   <style>
     .book-reader-page {
       min-height: 100vh;
@@ -290,7 +290,6 @@
       box-shadow: 
         0 3px 0 #654321,
         0 5px 10px rgba(0, 0, 0, 0.2);
-      text-decoration: none;
     }
     
     .scroll-nav-btn:hover:not(:disabled) {
@@ -659,9 +658,9 @@
   <div class="particles-container" id="particles"></div>
   
   <nav class="navbar">
-    <a href="#" class="navbar-brand" id="navBookTitle">← Back</a>
+    <a href="book.html" class="navbar-brand">← The Lost Kingdom</a>
     <div class="navbar-nav">
-      <a href="/bookshelf" class="navbar-link">Library</a>
+      <a href="bookshelf.html" class="navbar-link">Library</a>
     </div>
   </nav>
   
@@ -673,14 +672,24 @@
         <div class="parchment-bg"></div>
         <div class="page-wear corner-tl"></div>
         <div class="page-wear corner-bl"></div>
-        <div class="progress-corner" id="progressCorner">📖 0%</div>
+        <div class="progress-corner">📖 35%</div>
         <div class="reading-content">
-          <div class="manuscript-title" id="chapterTitle">
-            <div class="chapter-num">Loading...</div>
-            <div class="chapter-name">Loading...</div>
+          <div class="manuscript-title">
+            <div class="chapter-num">CHAPTER III</div>
+            <div class="chapter-name">The Mountain Pass</div>
           </div>
-          <div class="manuscript-text" id="leftContent">
-            <p>Loading chapter content...</p>
+          
+          <div class="manuscript-text">
+            <p><span class="drop-cap">T</span>he path to the Dragon's lair led through treacherous mountain passes, where the wind howled like lost souls and the ground trembled with each step. <span class="character-highlight" data-character="1">Sir Galahad</span> tightened his grip on the ancient sword, its golden hilt warm against his palm.</p>
+            
+            <p>"We must be careful," warned <span class="character-highlight" data-character="2">Lady Elara</span>, her eyes scanning the rocky terrain. "These mountains are home to creatures far older than the Dragon itself."</p>
+            
+            <div class="dialogue-block">
+              <div class="speaker">Lady Elara:</div>
+              <div class="speech">"The ancient texts speak of guardians that protect these peaks. They are neither friend nor foe, but test all who dare to pass."</div>
+            </div>
+            
+            <p>Galahad nodded, his breath visible in the thin mountain air. Below them, the valley stretched out like a patchwork quilt of forests and rivers, the kingdom they had sworn to protect.</p>
           </div>
         </div>
       </div>
@@ -690,8 +699,25 @@
         <div class="page-wear corner-tr"></div>
         <div class="page-wear corner-br"></div>
         <div class="reading-content">
-          <div class="manuscript-text" id="rightContent">
-            <p>Please wait...</p>
+          <div class="manuscript-text">
+            <p>As they rounded a narrow bend, the ground suddenly shook. From the shadows emerged a figure in obsidian armor, his blade gleaming with an otherworldly darkness.</p>
+            
+            <div class="dialogue-block">
+              <div class="speaker">Dark Knight:</div>
+              <div class="speech">"Turn back, young one. None shall pass while I draw breath. The Dragon's secrets are not meant for mortal eyes."</div>
+            </div>
+            
+            <div class="section-divider"></div>
+            
+            <p>The <span class="character-highlight" data-character="3">Dark Knight</span>'s challenge hung in the air like a curse. Galahad knew that violence alone would not win this day - he would need wisdom as sharp as his blade.</p>
+            
+            <p>The ancient <span class="character-highlight" data-character="4">Village Elder</span> had spoken of this guardian, the eternal sentinel who tested the hearts of those who sought the Dragon's treasure.</p>
+            
+            <div class="puzzle-trigger" style="text-align: center; margin-top: 30px;">
+              <button class="scroll-nav-btn" onclick="showPuzzle()">
+                🧩 Solve the Guardian's Riddle
+              </button>
+            </div>
           </div>
         </div>
       </div>
@@ -702,8 +728,8 @@
     <div class="sidebar-toggle" onclick="toggleSidebar()"></div>
     
     <div class="sidebar-tabs">
-      <button class="sidebar-tab active" data-tab="characters" onclick="switchSidebarTab('characters')">👤 Characters</button>
-      <button class="sidebar-tab" data-tab="plots" onclick="switchSidebarTab('plots')">📜 Plots</button>
+      <button class="sidebar-tab active" data-tab="characters" onclick="switchSidebarTab('characters')">👤 角色</button>
+      <button class="sidebar-tab" data-tab="plots" onclick="switchSidebarTab('plots')">📜 情节</button>
     </div>
     
     <div class="sidebar-content">
@@ -713,9 +739,15 @@
   </div>
   
   <div class="reading-nav-bar">
-    <a href="#" class="scroll-nav-btn" id="prevBtn">← Previous</a>
-    <div class="nav-info" id="navInfo">Chapter ? of ?</div>
-    <a href="#" class="scroll-nav-btn" id="nextBtn">Next →</a>
+    <button class="scroll-nav-btn" onclick="prevChapter()">
+      ← Previous
+    </button>
+    <div class="nav-info">
+      Chapter 3 of 20
+    </div>
+    <button class="scroll-nav-btn" onclick="nextChapter()">
+      Next →
+    </button>
   </div>
   
   <div class="puzzle-overlay" id="puzzleOverlay">
@@ -723,180 +755,152 @@
       <button class="puzzle-close" onclick="hidePuzzle()">×</button>
       <div class="scroll-handle-top"></div>
       <div class="puzzle-content">
-        <h3 class="puzzle-title" id="puzzleTitle">⚔️ Puzzle</h3>
-        <p class="puzzle-question" id="puzzleQuestion">Loading...</p>
-        <div class="puzzle-options" id="puzzleOptions"></div>
+        <h3 class="puzzle-title">⚔️ The Guardian's Riddle</h3>
+        <p class="puzzle-question">"I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?"</p>
+        <div class="puzzle-options">
+          <div class="puzzle-option" onclick="selectOption(this, 0)">A) A Shadow</div>
+          <div class="puzzle-option" onclick="selectOption(this, 1)">B) An Echo</div>
+          <div class="puzzle-option" onclick="selectOption(this, 2)">C) A Ghost</div>
+          <div class="puzzle-option" onclick="selectOption(this, 3)">D) A Whisper</div>
+        </div>
         <button class="puzzle-submit" onclick="submitAnswer()">Submit Answer</button>
       </div>
       <div class="scroll-handle-bottom"></div>
     </div>
   </div>
   
+  <script src="js/api.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/theme.js"></script>
   <script>
-    const params = new URLSearchParams(window.location.search);
-    const chapterId = params.get('id');
-    const bookId = params.get('bookId');
     let currentChapter = null;
-    let currentBook = null;
-    let chaptersList = [];
-    let chapterCharacters = [];
-    let chapterPlots = [];
-    let selectedOption = null;
     let currentPuzzle = null;
-    
-    function createParticles(container, count) {
-      if (!container) return;
-      for (let i = 0; i < count; i++) {
-        const particle = document.createElement('div');
-        particle.className = 'particle';
-        particle.style.left = Math.random() * 100 + '%';
-        particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
-        particle.style.animationDelay = Math.random() * 10 + 's';
-        container.appendChild(particle);
+    let selectedOption = null;
+
+    document.addEventListener('DOMContentLoaded', async function() {
+      createParticles(document.getElementById('particles'), 20);
+      
+      const userId = checkAuth();
+      if (!userId) return;
+      
+      const chapterId = getUrlParam('id');
+      if (!chapterId) {
+        window.location.href = 'bookshelf.html';
+        return;
       }
-    }
+      
+      await loadChapter(chapterId);
+    });
     
-    async function loadChapter() {
+    async function loadChapter(chapterId) {
       try {
-        let targetChapterId = chapterId;
-        
-        if (chapterId === 'first' && bookId) {
-          const chaptersRes = await fetch(`/api/chapters?book_id=${bookId}`);
-          const chaptersResult = await chaptersRes.json();
-          if (chaptersResult.success && chaptersResult.data.length > 0) {
-            targetChapterId = chaptersResult.data[0].chapter_id;
-            chaptersList = chaptersResult.data;
-          }
-        } else if (bookId) {
-          const chaptersRes = await fetch(`/api/chapters?book_id=${bookId}`);
-          const chaptersResult = await chaptersRes.json();
-          if (chaptersResult.success) {
-            chaptersList = chaptersResult.data;
-          }
-        }
-        
-        const response = await fetch(`/api/chapters/${targetChapterId}`);
-        const result = await response.json();
+        const result = await API.getChapter(chapterId);
         
         if (result.success) {
           currentChapter = result.data;
-          renderChapter();
-          loadChapterCharacters(targetChapterId);
-          loadChapterPlots(targetChapterId);
-          updateNavigation();
+          renderChapter(currentChapter);
+          renderSidebarCards(currentChapter);
           
-          document.getElementById('navBookTitle').href = `/book?id=${currentChapter.book_id}`;
+          if (currentChapter.puzzle_id) {
+            await loadPuzzle(currentChapter.puzzle_id);
+          }
+        } else {
+          showNotification('Chapter not found', 'error');
+          setTimeout(() => window.location.href = 'bookshelf.html', 1500);
         }
       } catch (error) {
-        console.error('Load failed:', error);
+        showNotification('Failed to load chapter: ' + error.message, 'error');
       }
     }
     
-    function renderChapter() {
-      document.getElementById('chapterTitle').innerHTML = `
-        <div class="chapter-num">CHAPTER ${toRoman(currentChapter.order_num)}</div>
-        <div class="chapter-name">${currentChapter.title}</div>
-      `;
+    function renderChapter(chapter) {
+      const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
+      const orderNum = chapter.order_num || 1;
       
-      const content = currentChapter.content || 'No content available';
-      const paragraphs = content.split('\n').filter(p => p.trim());
+      document.querySelector('.chapter-num').textContent = `CHAPTER ${romanNumerals[orderNum - 1] || orderNum}`;
+      document.querySelector('.chapter-name').textContent = chapter.title || 'Untitled';
       
-      const half = Math.ceil(paragraphs.length / 2);
-      const leftParagraphs = paragraphs.slice(0, half);
-      const rightParagraphs = paragraphs.slice(half);
+      const manuscriptText = document.querySelector('.manuscript-text');
+      if (chapter.content) {
+        manuscriptText.innerHTML = formatChapterContent(chapter.content);
+      }
       
-      document.getElementById('leftContent').innerHTML = leftParagraphs.map((p, i) => {
-        if (i === 0) {
-          return `<p><span class="drop-cap">${p.charAt(0)}</span>${p.slice(1)}</p>`;
-        }
-        return `<p>${highlightCharacters(p)}</p>`;
-      }).join('');
-      
-      document.getElementById('rightContent').innerHTML = rightParagraphs.map(p => 
-        `<p>${highlightCharacters(p)}</p>`
-      ).join('');
-      
-      if (currentChapter.puzzle) {
-        currentPuzzle = currentChapter.puzzle;
-        addPuzzleButton();
+      const navInfo = document.querySelector('.nav-info');
+      if (navInfo && chapter.total_chapters) {
+        navInfo.textContent = `Chapter ${orderNum} of ${chapter.total_chapters}`;
       }
       
       initCharacterHighlights();
     }
     
-    function toRoman(num) {
-      const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX'];
-      return romanNumerals[num - 1] || num;
-    }
-    
-    function highlightCharacters(text) {
-      chapterCharacters.forEach(char => {
-        const regex = new RegExp(char.name, 'g');
-        text = text.replace(regex, 
-          `<span class="character-highlight" data-character="${char.character_id}">${char.name}</span>`);
+    function formatChapterContent(content) {
+      if (!content) return '<p>No content available</p>';
+      
+      const paragraphs = content.split('\n\n');
+      let html = '';
+      
+      paragraphs.forEach((p, index) => {
+        if (index === 0) {
+          html += `<p><span class="drop-cap">${p.charAt(0)}</span>${p.slice(1)}</p>`;
+        } else {
+          html += `<p>${p}</p>`;
+        }
       });
-      return text;
+      
+      return html;
     }
     
-    async function loadChapterCharacters(chapterId) {
+    async function loadPuzzle(puzzleId) {
       try {
-        const response = await fetch(`/api/chapters/${chapterId}/characters`);
-        const result = await response.json();
-        chapterCharacters = result.success ? result.data : [];
-        renderSidebarCards();
+        const result = await API.getPuzzle(puzzleId);
+        if (result.success) {
+          currentPuzzle = result.data;
+          renderPuzzle(currentPuzzle);
+        }
       } catch (error) {
-        console.error('Load characters failed:', error);
+        console.error('Failed to load puzzle:', error);
       }
     }
     
-    async function loadChapterPlots(chapterId) {
-      try {
-        const response = await fetch(`/api/chapters/${chapterId}/plot-cards`);
-        const result = await response.json();
-        chapterPlots = result.success ? result.data : [];
-        renderSidebarCards();
-      } catch (error) {
-        console.error('Load plots failed:', error);
-      }
-    }
-    
-    function renderSidebarCards() {
+    function renderSidebarCards(chapter) {
       const charList = document.getElementById('sidebarCharacters');
       const plotList = document.getElementById('sidebarPlots');
       
-      charList.innerHTML = chapterCharacters.map(char => `
-        <div class="sidebar-card" onclick="toggleCardDetail(this)" data-id="${char.character_id}">
+      const characters = chapter.characters || [];
+      const plots = chapter.plot_cards || [];
+      
+      charList.innerHTML = characters.map(char => `
+        <div class="sidebar-card" onclick="toggleCardDetail(this)" data-id="${char.char_id}">
           <div class="card-header">
             <span class="card-avatar">${char.avatar || '👤'}</span>
             <div>
               <div class="card-name">${char.name}</div>
-              <div class="card-role">${char.role_type || ''}</div>
+              <div class="card-role">${char.role_type || 'Character'}</div>
             </div>
           </div>
           <div class="sidebar-detail">
-            <div class="detail-desc">${char.personality || 'No description'}</div>
-            <div class="detail-chapters">Speech Style: ${char.speech_style || 'Normal'}</div>
+            <div class="detail-desc">${char.personality || ''}</div>
           </div>
         </div>
       `).join('');
       
-      plotList.innerHTML = chapterPlots.map(plot => `
+      plotList.innerHTML = plots.map(plot => `
         <div class="sidebar-card" data-id="${plot.card_id}">
           <div class="card-header">
-            <span class="card-avatar">${plot.icon || '⭐'}</span>
+            <span class="card-avatar">${plot.icon || '🎭'}</span>
             <div>
               <div class="card-name">${plot.name}</div>
-              <div class="card-role">${plot.sub_type || ''}</div>
+              <div class="card-role">${plot.description || ''}</div>
             </div>
           </div>
         </div>
       `).join('');
     }
-    
+
     function toggleSidebar() {
       document.getElementById('cardsSidebar').classList.toggle('expanded');
     }
-    
+
     function switchSidebarTab(tab) {
       document.querySelectorAll('.sidebar-tab').forEach(t => {
         t.classList.toggle('active', t.dataset.tab === tab);
@@ -905,11 +909,11 @@
       document.getElementById('sidebarCharacters').style.display = tab === 'characters' ? 'flex' : 'none';
       document.getElementById('sidebarPlots').style.display = tab === 'plots' ? 'flex' : 'none';
     }
-    
+
     function toggleCardDetail(card) {
       card.classList.toggle('expanded');
     }
-    
+
     function initCharacterHighlights() {
       document.querySelectorAll('.character-highlight').forEach(el => {
         el.addEventListener('click', function() {
@@ -928,57 +932,19 @@
         });
       });
     }
-    
-    function updateNavigation() {
-      const currentIndex = chaptersList.findIndex(c => c.chapter_id === currentChapter.chapter_id);
-      const total = chaptersList.length;
-      
-      document.getElementById('navInfo').textContent = `Chapter ${currentChapter.order_num} of ${total}`;
-      document.getElementById('progressCorner').textContent = `📖 ${Math.round((currentIndex + 1) / total * 100)}%`;
-      
-      if (currentIndex > 0) {
-        document.getElementById('prevBtn').href = `/chapter?id=${chaptersList[currentIndex - 1].chapter_id}&bookId=${currentChapter.book_id}`;
-      } else {
-        document.getElementById('prevBtn').style.visibility = 'hidden';
-      }
-      
-      if (currentIndex < total - 1) {
-        document.getElementById('nextBtn').href = `/chapter?id=${chaptersList[currentIndex + 1].chapter_id}&bookId=${currentChapter.book_id}`;
-      } else {
-        document.getElementById('nextBtn').style.visibility = 'hidden';
-      }
-    }
-    
-    function addPuzzleButton() {
-      const rightContent = document.getElementById('rightContent');
-      rightContent.innerHTML += `
-        <div style="text-align: center; margin-top: 30px;">
-          <button class="scroll-nav-btn" onclick="showPuzzle()">
-            🧩 Solve Puzzle
-          </button>
-        </div>
-      `;
-    }
-    
+
     function showPuzzle() {
-      if (!currentPuzzle) return;
-      
-      document.getElementById('puzzleTitle').textContent = `⚔️ ${currentPuzzle.title || 'Puzzle'}`;
-      document.getElementById('puzzleQuestion').textContent = currentPuzzle.question;
-      
-      const optionsHtml = currentPuzzle.options.map((opt, i) => `
-        <div class="puzzle-option" onclick="selectOption(this, ${i})">${String.fromCharCode(65 + i)}) ${opt}</div>
-      `).join('');
-      
-      document.getElementById('puzzleOptions').innerHTML = optionsHtml;
+      if (!currentPuzzle) {
+        showNotification('No puzzle available', 'info');
+        return;
+      }
       document.getElementById('puzzleOverlay').classList.add('active');
-      selectedOption = null;
     }
-    
+
     function hidePuzzle() {
       document.getElementById('puzzleOverlay').classList.remove('active');
     }
-    
+
     function selectOption(element, index) {
       document.querySelectorAll('.puzzle-option').forEach(opt => {
         opt.classList.remove('selected');
@@ -986,43 +952,56 @@
       element.classList.add('selected');
       selectedOption = index;
     }
-    
+
     async function submitAnswer() {
       if (selectedOption === null) {
-        alert('Please select an answer');
+        showNotification('Please select an answer!', 'warning');
         return;
       }
       
-      const options = document.querySelectorAll('.puzzle-option');
+      if (!currentPuzzle) return;
       
-      if (selectedOption === currentPuzzle.correct_index) {
-        options[selectedOption].classList.add('correct');
+      try {
+        const result = await API.solvePuzzle(currentPuzzle.puzzle_id, selectedOption);
         
-        await fetch(`/api/chapters/${currentChapter.chapter_id}/solve`, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' }
-        });
+        const options = document.querySelectorAll('.puzzle-option');
         
-        setTimeout(() => {
-          hidePuzzle();
-          alert('Correct! Chapter unlocked');
-        }, 1000);
-      } else {
-        options[selectedOption].classList.add('wrong');
-        options[currentPuzzle.correct_index].classList.add('correct');
-        setTimeout(() => {
-          options.forEach(opt => {
-            opt.classList.remove('selected', 'correct', 'wrong');
-          });
-          selectedOption = null;
-        }, 1500);
+        if (result.success && result.data.correct) {
+          options[selectedOption].classList.add('correct');
+          setTimeout(() => {
+            hidePuzzle();
+            showNotification('Correct! The path is clear.', 'success');
+          }, 1000);
+        } else {
+          options[selectedOption].classList.add('wrong');
+          setTimeout(() => {
+            options.forEach(opt => {
+              opt.classList.remove('selected', 'correct', 'wrong');
+            });
+            selectedOption = null;
+            showNotification('Incorrect. Try again!', 'error');
+          }, 1500);
+        }
+      } catch (error) {
+        showNotification(error.message, 'error');
       }
     }
-    
-    document.addEventListener('DOMContentLoaded', function() {
-      createParticles(document.getElementById('particles'), 20);
-      loadChapter();
-    });
+
+    function prevChapter() {
+      if (currentChapter?.prev_chapter_id) {
+        window.location.href = `chapter.html?id=${currentChapter.prev_chapter_id}`;
+      } else {
+        showNotification('This is the first chapter', 'info');
+      }
+    }
+
+    function nextChapter() {
+      if (currentChapter?.next_chapter_id) {
+        window.location.href = `chapter.html?id=${currentChapter.next_chapter_id}`;
+      } else {
+        showNotification('This is the last chapter', 'info');
+      }
+    }
   </script>
 </body>
 </html>

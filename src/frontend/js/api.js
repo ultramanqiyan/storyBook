@@ -13,28 +13,70 @@ async function apiRequest(endpoint, options = {}) {
 }
 
 function getUserId() {
-    return localStorage.getItem('userId');
+    return localStorage.getItem('user_id');
 }
 
 function setUserId(id) {
-    localStorage.setItem('userId', id);
+    localStorage.setItem('user_id', id);
 }
 
 function getUserEmail() {
-    return localStorage.getItem('userEmail');
+    return localStorage.getItem('email');
 }
 
 function setUserEmail(email) {
-    localStorage.setItem('userEmail', email);
+    localStorage.setItem('email', email);
 }
 
 function clearAuth() {
-    localStorage.removeItem('userId');
-    localStorage.removeItem('userEmail');
+    localStorage.removeItem('user_id');
+    localStorage.removeItem('email');
 }
 
 function isLoggedIn() {
     return !!getUserId();
+}
+
+function checkAuth() {
+    const userId = getUserId();
+    if (!userId) {
+        window.location.href = 'login.html';
+        return null;
+    }
+    return userId;
+}
+
+function logout() {
+    clearAuth();
+    window.location.href = 'login.html';
+}
+
+function getUrlParam(param) {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(param);
+}
+
+function showNotification(message, type = 'info') {
+    const notification = document.createElement('div');
+    notification.className = `notification notification-${type}`;
+    notification.textContent = message;
+    notification.style.cssText = `
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        padding: 15px 25px;
+        background: ${type === 'success' ? '#2a4a2a' : type === 'error' ? '#4a1a2a' : '#2a2a4a'};
+        color: #FFD700;
+        border: 2px solid rgba(255, 215, 0, 0.3);
+        border-radius: 8px;
+        z-index: 10000;
+        animation: slideIn 0.3s ease;
+    `;
+    document.body.appendChild(notification);
+    setTimeout(() => {
+        notification.style.animation = 'slideOut 0.3s ease';
+        setTimeout(() => notification.remove(), 300);
+    }, 3000);
 }
 
 const API = {
@@ -170,4 +212,8 @@ window.getUserEmail = getUserEmail;
 window.setUserEmail = setUserEmail;
 window.clearAuth = clearAuth;
 window.isLoggedIn = isLoggedIn;
+window.checkAuth = checkAuth;
+window.logout = logout;
+window.getUrlParam = getUrlParam;
+window.showNotification = showNotification;
 window.API = API;

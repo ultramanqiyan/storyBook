@@ -41,12 +41,26 @@ function initNavbar() {
     const currentScroll = window.pageYOffset;
     
     if (currentScroll > 100) {
-      navbar.style.boxShadow = '0 4px 20px rgba(0, 0, 0, 0.3)';
+      navbar.style.boxShadow = '0 4px 20px rgba(0, 0, 0, 0.5)';
     } else {
       navbar.style.boxShadow = 'none';
     }
     
     lastScroll = currentScroll;
+  });
+}
+
+function initCards() {
+  const cards = document.querySelectorAll('.hs-card');
+  
+  cards.forEach(card => {
+    card.addEventListener('mouseenter', function() {
+      this.style.zIndex = '10';
+    });
+    
+    card.addEventListener('mouseleave', function() {
+      this.style.zIndex = '1';
+    });
   });
 }
 
@@ -59,6 +73,110 @@ function initBooks() {
       if (link) {
         window.location.href = link;
       }
+    });
+  });
+}
+
+function initModals() {
+  const modalTriggers = document.querySelectorAll('[data-modal]');
+  const modals = document.querySelectorAll('.modal-overlay');
+  
+  modalTriggers.forEach(trigger => {
+    trigger.addEventListener('click', () => {
+      const modalId = trigger.dataset.modal;
+      const modal = document.getElementById(modalId);
+      if (modal) {
+        modal.classList.add('active');
+        document.body.style.overflow = 'hidden';
+      }
+    });
+  });
+  
+  modals.forEach(modal => {
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) {
+        modal.classList.remove('active');
+        document.body.style.overflow = '';
+      }
+    });
+  });
+  
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      modals.forEach(modal => {
+        modal.classList.remove('active');
+      });
+      document.body.style.overflow = '';
+    }
+  });
+}
+
+function initTabs() {
+  const tabContainers = document.querySelectorAll('.tabs');
+  
+  tabContainers.forEach(container => {
+    const tabs = container.querySelectorAll('.tab');
+    const contents = container.querySelectorAll('.tab-content');
+    
+    tabs.forEach(tab => {
+      tab.addEventListener('click', () => {
+        const targetId = tab.dataset.tab;
+        
+        tabs.forEach(t => t.classList.remove('active'));
+        contents.forEach(c => c.classList.remove('active'));
+        
+        tab.classList.add('active');
+        const targetContent = container.querySelector(`#${targetId}`);
+        if (targetContent) {
+          targetContent.classList.add('active');
+        }
+      });
+    });
+  });
+}
+
+function initScrolls() {
+  const scrolls = document.querySelectorAll('.scroll');
+  
+  scrolls.forEach(scroll => {
+    const handle = scroll.querySelector('.scroll-handle.top');
+    if (handle) {
+      handle.addEventListener('click', () => {
+        scroll.classList.toggle('expanded');
+        scroll.classList.toggle('collapsed');
+      });
+    }
+  });
+}
+
+function initWaxSeal() {
+  const waxSeals = document.querySelectorAll('.wax-seal-btn');
+  
+  waxSeals.forEach(btn => {
+    btn.addEventListener('click', function(e) {
+      const seal = this.querySelector('.wax-seal');
+      if (seal) {
+        seal.style.animation = 'none';
+        seal.offsetHeight;
+        seal.style.animation = 'waxSealPress 0.3s ease';
+      }
+    });
+  });
+}
+
+function initBookshelf() {
+  const books = document.querySelectorAll('.bookshelf .book-3d');
+  
+  books.forEach((book, index) => {
+    const rotation = (index - books.length / 2) * 8;
+    book.style.transform = `rotate(${rotation}deg)`;
+    
+    book.addEventListener('mouseenter', function() {
+      this.style.transform = 'rotate(0deg) translateY(-30px) scale(1.1)';
+    });
+    
+    book.addEventListener('mouseleave', function() {
+      this.style.transform = `rotate(${rotation}deg)`;
     });
   });
 }
@@ -97,7 +215,13 @@ function init() {
   }
   
   initNavbar();
+  initCards();
   initBooks();
+  initModals();
+  initTabs();
+  initScrolls();
+  initWaxSeal();
+  initBookshelf();
   animateOnScroll();
 }
 
