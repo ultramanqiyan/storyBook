@@ -1,158 +1,1028 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>阅读章节 - 卡牌互动小说</title>
-    <link rel="stylesheet" href="/css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter Reading - StoryBook</title>
+  <link rel="stylesheet" href="/css/variables.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/animations.css">
+  <link rel="stylesheet" href="/css/components.css">
+  <link rel="stylesheet" href="/css/themes.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <style>
+    .book-reader-page {
+      min-height: 100vh;
+      padding-top: 80px;
+      padding-bottom: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 200px);
+      min-height: 600px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-spine::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 40px;
+      height: 100%;
+      background: repeating-linear-gradient(
+        180deg,
+        transparent 0px,
+        transparent 8px,
+        rgba(0, 0, 0, 0.1) 8px,
+        rgba(0, 0, 0, 0.1) 10px
+      );
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      overflow: hidden;
+      box-shadow: 0 0 40px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-radius: 8px 0 0 8px;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .parchment-bg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.12) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.12) 0%, transparent 50%);
+      pointer-events: none;
+    }
+    
+    .page-wear {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-wear.corner-tl {
+      top: 0;
+      left: 0;
+      width: 60px;
+      height: 60px;
+      background: radial-gradient(circle at 0 0, transparent 30px, rgba(60, 30, 15, 0.4) 100%);
+    }
+    
+    .page-wear.corner-tr {
+      top: 0;
+      right: 0;
+      width: 60px;
+      height: 60px;
+      background: radial-gradient(circle at 100% 0, transparent 30px, rgba(60, 30, 15, 0.4) 100%);
+    }
+    
+    .page-wear.corner-bl {
+      bottom: 0;
+      left: 0;
+      width: 60px;
+      height: 60px;
+      background: radial-gradient(circle at 0 100%, transparent 30px, rgba(60, 30, 15, 0.4) 100%);
+    }
+    
+    .page-wear.corner-br {
+      bottom: 0;
+      right: 0;
+      width: 60px;
+      height: 60px;
+      background: radial-gradient(circle at 100% 100%, transparent 30px, rgba(60, 30, 15, 0.4) 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      color: #1a1008;
+      z-index: 1;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .character-highlight {
+      color: #8B4513;
+      font-weight: 600;
+      cursor: pointer;
+      border-bottom: 1px dotted #8B4513;
+      transition: all 0.3s ease;
+    }
+    
+    .character-highlight:hover {
+      color: #5C4033;
+      background: rgba(139, 90, 43, 0.15);
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .progress-corner {
+      position: absolute;
+      top: 15px;
+      right: 20px;
+      font-family: 'Spectral', serif;
+      font-size: 12px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover:not(:disabled) {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .scroll-nav-btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .cards-sidebar {
+      position: fixed;
+      right: 0;
+      top: 80px;
+      bottom: 60px;
+      width: 280px;
+      background: rgba(15, 15, 35, 0.98);
+      border-left: 2px solid rgba(255, 215, 0, 0.3);
+      transform: translateX(calc(100% - 40px));
+      transition: transform 0.4s ease;
+      z-index: 90;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .cards-sidebar.expanded {
+      transform: translateX(0);
+    }
+    
+    .sidebar-toggle {
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translate(-100%, -50%);
+      width: 40px;
+      height: 80px;
+      background: rgba(15, 15, 35, 0.98);
+      border: 2px solid rgba(255, 215, 0, 0.3);
+      border-right: none;
+      border-radius: 8px 0 0 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      color: #FFD700;
+      font-size: 18px;
+      transition: all 0.3s ease;
+    }
+    
+    .sidebar-toggle:hover {
+      background: rgba(255, 215, 0, 0.1);
+    }
+    
+    .sidebar-toggle::before {
+      content: '◀';
+      transition: transform 0.3s ease;
+    }
+    
+    .cards-sidebar.expanded .sidebar-toggle::before {
+      content: '▶';
+    }
+    
+    .sidebar-tabs {
+      display: flex;
+      border-bottom: 1px solid rgba(255, 215, 0, 0.2);
+    }
+    
+    .sidebar-tab {
+      flex: 1;
+      padding: 12px;
+      background: transparent;
+      border: none;
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+      font-size: 12px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      border-bottom: 2px solid transparent;
+    }
+    
+    .sidebar-tab:hover {
+      color: #FFD700;
+    }
+    
+    .sidebar-tab.active {
+      color: #FFD700;
+      border-bottom-color: #FFD700;
+      background: rgba(255, 215, 0, 0.05);
+    }
+    
+    .sidebar-content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 15px;
+    }
+    
+    .sidebar-card-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    
+    .sidebar-card {
+      padding: 12px;
+      background: rgba(255, 215, 0, 0.05);
+      border: 1px solid rgba(255, 215, 0, 0.2);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .sidebar-card:hover {
+      background: rgba(255, 215, 0, 0.1);
+      border-color: #FFD700;
+    }
+    
+    .sidebar-card .card-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .sidebar-card .card-avatar {
+      font-size: 24px;
+    }
+    
+    .sidebar-card .card-name {
+      font-family: 'Cinzel', serif;
+      font-size: 13px;
+      color: #FFD700;
+    }
+    
+    .sidebar-card .card-role {
+      font-size: 11px;
+      color: #a0a0a0;
+      margin-top: 2px;
+    }
+    
+    .sidebar-detail {
+      display: none;
+      padding: 15px;
+      background: rgba(255, 215, 0, 0.08);
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+    
+    .sidebar-card.expanded .sidebar-detail {
+      display: block;
+    }
+    
+    .sidebar-detail .detail-desc {
+      font-size: 12px;
+      color: #d0d0d0;
+      line-height: 1.6;
+      margin-bottom: 10px;
+    }
+    
+    .sidebar-detail .detail-chapters {
+      font-size: 11px;
+      color: #a0a0a0;
+    }
+    
+    .puzzle-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.8);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 200;
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.3s ease;
+    }
+    
+    .puzzle-overlay.active {
+      opacity: 1;
+      visibility: visible;
+    }
+    
+    .puzzle-scroll {
+      position: relative;
+      max-width: 500px;
+      width: 90%;
+      animation: scaleIn 0.5s ease-out;
+    }
+    
+    .puzzle-scroll .scroll-handle-top {
+      height: 30px;
+      background: linear-gradient(90deg, #8B4513 0%, #A0522D 50%, #8B4513 100%);
+      border-radius: 15px 15px 0 0;
+      box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.3);
+    }
+    
+    .puzzle-scroll .scroll-handle-bottom {
+      height: 30px;
+      background: linear-gradient(90deg, #8B4513 0%, #A0522D 50%, #8B4513 100%);
+      border-radius: 0 0 15px 15px;
+      box-shadow: inset 0 -2px 4px rgba(0, 0, 0, 0.3);
+    }
+    
+    .puzzle-content {
+      background: #f4e4bc;
+      padding: 30px;
+      text-align: center;
+      color: #2a1810;
+    }
+    
+    .puzzle-title {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 20px;
+      color: #3a2a1a;
+      margin-bottom: 20px;
+    }
+    
+    .puzzle-question {
+      font-family: 'Spectral', serif;
+      font-size: 16px;
+      color: #4a3a2a;
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+    
+    .puzzle-options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    
+    .puzzle-option {
+      padding: 15px;
+      background: rgba(139, 90, 43, 0.1);
+      border: 2px solid rgba(139, 90, 43, 0.3);
+      border-radius: 8px;
+      font-family: 'Spectral', serif;
+      font-size: 14px;
+      color: #3a2a1a;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .puzzle-option:hover {
+      background: rgba(139, 90, 43, 0.2);
+      border-color: #8B4513;
+    }
+    
+    .puzzle-option.selected {
+      background: rgba(255, 215, 0, 0.2);
+      border-color: #FFD700;
+    }
+    
+    .puzzle-option.correct {
+      background: rgba(34, 197, 94, 0.2);
+      border-color: #22c55e;
+    }
+    
+    .puzzle-option.wrong {
+      background: rgba(220, 38, 38, 0.2);
+      border-color: #dc2626;
+    }
+    
+    .puzzle-submit {
+      margin-top: 20px;
+      padding: 12px 30px;
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      color: #f4e4bc;
+      border: 2px solid #D4AF37;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .puzzle-submit:hover {
+      transform: translateY(-2px);
+    }
+    
+    .puzzle-close {
+      position: absolute;
+      top: -15px;
+      right: -15px;
+      width: 40px;
+      height: 40px;
+      background: #8B0000;
+      border: 2px solid #FFD700;
+      border-radius: 50%;
+      color: white;
+      font-size: 20px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 10;
+    }
+    
+    @media (max-width: 1200px) {
+      .cards-sidebar {
+        display: none;
+      }
+    }
+    
+    @media (max-width: 1000px) {
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: 500px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 25px 20px;
+      }
+      
+      .manuscript-text {
+        font-size: 16px;
+      }
+      
+      .drop-cap {
+        font-size: 3.5em;
+      }
+    }
+  </style>
 </head>
-<body>
-    <div class="container">
-        <header class="header">
-            <a href="/" class="logo">📚 卡牌互动小说</a>
-        </header>
-
-        <main class="main-content reading-view">
-            <article class="chapter-content" id="chapterContent">
-                <div class="loading">加载中...</div>
-            </article>
-
-            <div class="puzzle-section hidden" id="puzzleSection">
-                <div class="puzzle-card">
-                    <h3>🧩 谜题</h3>
-                    <p id="puzzleQuestion"></p>
-                    <div id="puzzleOptions" class="puzzle-options"></div>
-                    <input type="text" id="puzzleAnswer" class="puzzle-input" placeholder="输入答案">
-                    <button onclick="submitPuzzle()" class="btn btn-primary">提交答案</button>
-                    <p id="puzzleMessage" class="puzzle-message"></p>
-                </div>
-            </div>
-
-            <div class="chapter-nav" id="chapterNav"></div>
-        </main>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="#" class="navbar-brand" id="navBookTitle">← Back</a>
+    <div class="navbar-nav">
+      <a href="/bookshelf" class="navbar-link">Library</a>
     </div>
-
-    <script>
-        const params = new URLSearchParams(window.location.search);
-        const chapterId = params.get('id');
-        let currentChapter = null;
-        let currentPuzzle = null;
-
-        async function loadChapter() {
-            try {
-                const response = await fetch(`/api/chapters/${chapterId}`);
-                const result = await response.json();
-                
-                if (result.success) {
-                    currentChapter = result.data;
-                    renderChapter();
-                    loadPuzzle();
-                    loadNavigation();
-                } else {
-                    document.getElementById('chapterContent').innerHTML = '<p>章节不存在</p>';
-                }
-            } catch (error) {
-                document.getElementById('chapterContent').innerHTML = '<p>加载失败</p>';
-            }
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-bg"></div>
+        <div class="page-wear corner-tl"></div>
+        <div class="page-wear corner-bl"></div>
+        <div class="progress-corner" id="progressCorner">📖 0%</div>
+        <div class="reading-content">
+          <div class="manuscript-title" id="chapterTitle">
+            <div class="chapter-num">Loading...</div>
+            <div class="chapter-name">Loading...</div>
+          </div>
+          <div class="manuscript-text" id="leftContent">
+            <p>Loading chapter content...</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-bg"></div>
+        <div class="page-wear corner-tr"></div>
+        <div class="page-wear corner-br"></div>
+        <div class="reading-content">
+          <div class="manuscript-text" id="rightContent">
+            <p>Please wait...</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="cards-sidebar" id="cardsSidebar">
+    <div class="sidebar-toggle" onclick="toggleSidebar()"></div>
+    
+    <div class="sidebar-tabs">
+      <button class="sidebar-tab active" data-tab="characters" onclick="switchSidebarTab('characters')">👤 Characters</button>
+      <button class="sidebar-tab" data-tab="plots" onclick="switchSidebarTab('plots')">📜 Plots</button>
+    </div>
+    
+    <div class="sidebar-content">
+      <div id="sidebarCharacters" class="sidebar-card-list"></div>
+      <div id="sidebarPlots" class="sidebar-card-list" style="display: none;"></div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="#" class="scroll-nav-btn" id="prevBtn">← Previous</a>
+    <div class="nav-info" id="navInfo">Chapter ? of ?</div>
+    <a href="#" class="scroll-nav-btn" id="nextBtn">Next →</a>
+  </div>
+  
+  <div class="puzzle-overlay" id="puzzleOverlay">
+    <div class="puzzle-scroll">
+      <button class="puzzle-close" onclick="hidePuzzle()">×</button>
+      <div class="scroll-handle-top"></div>
+      <div class="puzzle-content">
+        <h3 class="puzzle-title" id="puzzleTitle">⚔️ Puzzle</h3>
+        <p class="puzzle-question" id="puzzleQuestion">Loading...</p>
+        <div class="puzzle-options" id="puzzleOptions"></div>
+        <button class="puzzle-submit" onclick="submitAnswer()">Submit Answer</button>
+      </div>
+      <div class="scroll-handle-bottom"></div>
+    </div>
+  </div>
+  
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const chapterId = params.get('id');
+    const bookId = params.get('bookId');
+    let currentChapter = null;
+    let currentBook = null;
+    let chaptersList = [];
+    let chapterCharacters = [];
+    let chapterPlots = [];
+    let selectedOption = null;
+    let currentPuzzle = null;
+    
+    function createParticles(container, count) {
+      if (!container) return;
+      for (let i = 0; i < count; i++) {
+        const particle = document.createElement('div');
+        particle.className = 'particle';
+        particle.style.left = Math.random() * 100 + '%';
+        particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
+        particle.style.animationDelay = Math.random() * 10 + 's';
+        container.appendChild(particle);
+      }
+    }
+    
+    async function loadChapter() {
+      try {
+        let targetChapterId = chapterId;
+        
+        if (chapterId === 'first' && bookId) {
+          const chaptersRes = await fetch(`/api/chapters?book_id=${bookId}`);
+          const chaptersResult = await chaptersRes.json();
+          if (chaptersResult.success && chaptersResult.data.length > 0) {
+            targetChapterId = chaptersResult.data[0].chapter_id;
+            chaptersList = chaptersResult.data;
+          }
+        } else if (bookId) {
+          const chaptersRes = await fetch(`/api/chapters?book_id=${bookId}`);
+          const chaptersResult = await chaptersRes.json();
+          if (chaptersResult.success) {
+            chaptersList = chaptersResult.data;
+          }
         }
-
-        function renderChapter() {
-            document.getElementById('chapterContent').innerHTML = `
-                <h1>${currentChapter.title}</h1>
-                <div class="story-text">${currentChapter.content}</div>
-            `;
+        
+        const response = await fetch(`/api/chapters/${targetChapterId}`);
+        const result = await response.json();
+        
+        if (result.success) {
+          currentChapter = result.data;
+          renderChapter();
+          loadChapterCharacters(targetChapterId);
+          loadChapterPlots(targetChapterId);
+          updateNavigation();
+          
+          document.getElementById('navBookTitle').href = `/book?id=${currentChapter.book_id}`;
         }
-
-        async function loadPuzzle() {
-            try {
-                const response = await fetch(`/api/puzzles?chapter_id=${chapterId}`);
-                const result = await response.json();
-                
-                if (result.success && result.data.length > 0) {
-                    currentPuzzle = result.data.find(p => !p.is_solved) || result.data[0];
-                    if (currentPuzzle && !currentPuzzle.is_solved) {
-                        showPuzzle();
-                    }
-                }
-            } catch (error) {
-                console.error('加载谜题失败:', error);
-            }
+      } catch (error) {
+        console.error('Load failed:', error);
+      }
+    }
+    
+    function renderChapter() {
+      document.getElementById('chapterTitle').innerHTML = `
+        <div class="chapter-num">CHAPTER ${toRoman(currentChapter.order_num)}</div>
+        <div class="chapter-name">${currentChapter.title}</div>
+      `;
+      
+      const content = currentChapter.content || 'No content available';
+      const paragraphs = content.split('\n').filter(p => p.trim());
+      
+      const half = Math.ceil(paragraphs.length / 2);
+      const leftParagraphs = paragraphs.slice(0, half);
+      const rightParagraphs = paragraphs.slice(half);
+      
+      document.getElementById('leftContent').innerHTML = leftParagraphs.map((p, i) => {
+        if (i === 0) {
+          return `<p><span class="drop-cap">${p.charAt(0)}</span>${p.slice(1)}</p>`;
         }
-
-        function showPuzzle() {
-            document.getElementById('puzzleSection').classList.remove('hidden');
-            document.getElementById('puzzleQuestion').textContent = currentPuzzle.question;
-            
-            if (currentPuzzle.puzzle_type === 'choice' && currentPuzzle.options) {
-                const options = JSON.parse(currentPuzzle.options);
-                document.getElementById('puzzleOptions').innerHTML = options.map(opt => 
-                    `<button class="option-btn" onclick="selectOption('${opt}')">${opt}</button>`
-                ).join('');
-                document.getElementById('puzzleAnswer').classList.add('hidden');
-            } else {
-                document.getElementById('puzzleOptions').innerHTML = '';
-                document.getElementById('puzzleAnswer').classList.remove('hidden');
-            }
-        }
-
-        function selectOption(option) {
-            document.getElementById('puzzleAnswer').value = option;
-            submitPuzzle();
-        }
-
-        async function submitPuzzle() {
-            const answer = document.getElementById('puzzleAnswer').value;
-            if (!answer) return;
-
-            try {
-                const response = await fetch(`/api/puzzles/${currentPuzzle.puzzle_id}/solve`, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ answer })
-                });
-
-                const result = await response.json();
-                const messageEl = document.getElementById('puzzleMessage');
-                
-                if (result.success) {
-                    if (result.data.is_correct) {
-                        messageEl.className = 'puzzle-message success';
-                        messageEl.textContent = '🎉 ' + result.data.message;
-                        setTimeout(() => {
-                            document.getElementById('puzzleSection').classList.add('hidden');
-                        }, 2000);
-                    } else {
-                        messageEl.className = 'puzzle-message error';
-                        messageEl.textContent = result.data.message;
-                    }
-                }
-            } catch (error) {
-                document.getElementById('puzzleMessage').textContent = '提交失败';
-            }
-        }
-
-        async function loadNavigation() {
-            const response = await fetch(`/api/chapters?book_id=${currentChapter.book_id}`);
-            const result = await response.json();
-            
-            if (result.success) {
-                const chapters = result.data;
-                const currentIndex = chapters.findIndex(c => c.chapter_id === chapterId);
-                
-                let navHtml = '';
-                if (currentIndex > 0) {
-                    navHtml += `<a href="/chapter?id=${chapters[currentIndex - 1].chapter_id}" class="btn">← 上一章</a>`;
-                }
-                navHtml += `<a href="/book?id=${currentChapter.book_id}" class="btn">目录</a>`;
-                if (currentIndex < chapters.length - 1) {
-                    navHtml += `<a href="/chapter?id=${chapters[currentIndex + 1].chapter_id}" class="btn">下一章 →</a>`;
-                }
-                
-                document.getElementById('chapterNav').innerHTML = navHtml;
-            }
-        }
-
-        loadChapter();
-    </script>
+        return `<p>${highlightCharacters(p)}</p>`;
+      }).join('');
+      
+      document.getElementById('rightContent').innerHTML = rightParagraphs.map(p => 
+        `<p>${highlightCharacters(p)}</p>`
+      ).join('');
+      
+      if (currentChapter.puzzle) {
+        currentPuzzle = currentChapter.puzzle;
+        addPuzzleButton();
+      }
+      
+      initCharacterHighlights();
+    }
+    
+    function toRoman(num) {
+      const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX'];
+      return romanNumerals[num - 1] || num;
+    }
+    
+    function highlightCharacters(text) {
+      chapterCharacters.forEach(char => {
+        const regex = new RegExp(char.name, 'g');
+        text = text.replace(regex, 
+          `<span class="character-highlight" data-character="${char.character_id}">${char.name}</span>`);
+      });
+      return text;
+    }
+    
+    async function loadChapterCharacters(chapterId) {
+      try {
+        const response = await fetch(`/api/chapters/${chapterId}/characters`);
+        const result = await response.json();
+        chapterCharacters = result.success ? result.data : [];
+        renderSidebarCards();
+      } catch (error) {
+        console.error('Load characters failed:', error);
+      }
+    }
+    
+    async function loadChapterPlots(chapterId) {
+      try {
+        const response = await fetch(`/api/chapters/${chapterId}/plot-cards`);
+        const result = await response.json();
+        chapterPlots = result.success ? result.data : [];
+        renderSidebarCards();
+      } catch (error) {
+        console.error('Load plots failed:', error);
+      }
+    }
+    
+    function renderSidebarCards() {
+      const charList = document.getElementById('sidebarCharacters');
+      const plotList = document.getElementById('sidebarPlots');
+      
+      charList.innerHTML = chapterCharacters.map(char => `
+        <div class="sidebar-card" onclick="toggleCardDetail(this)" data-id="${char.character_id}">
+          <div class="card-header">
+            <span class="card-avatar">${char.avatar || '👤'}</span>
+            <div>
+              <div class="card-name">${char.name}</div>
+              <div class="card-role">${char.role_type || ''}</div>
+            </div>
+          </div>
+          <div class="sidebar-detail">
+            <div class="detail-desc">${char.personality || 'No description'}</div>
+            <div class="detail-chapters">Speech Style: ${char.speech_style || 'Normal'}</div>
+          </div>
+        </div>
+      `).join('');
+      
+      plotList.innerHTML = chapterPlots.map(plot => `
+        <div class="sidebar-card" data-id="${plot.card_id}">
+          <div class="card-header">
+            <span class="card-avatar">${plot.icon || '⭐'}</span>
+            <div>
+              <div class="card-name">${plot.name}</div>
+              <div class="card-role">${plot.sub_type || ''}</div>
+            </div>
+          </div>
+        </div>
+      `).join('');
+    }
+    
+    function toggleSidebar() {
+      document.getElementById('cardsSidebar').classList.toggle('expanded');
+    }
+    
+    function switchSidebarTab(tab) {
+      document.querySelectorAll('.sidebar-tab').forEach(t => {
+        t.classList.toggle('active', t.dataset.tab === tab);
+      });
+      
+      document.getElementById('sidebarCharacters').style.display = tab === 'characters' ? 'flex' : 'none';
+      document.getElementById('sidebarPlots').style.display = tab === 'plots' ? 'flex' : 'none';
+    }
+    
+    function toggleCardDetail(card) {
+      card.classList.toggle('expanded');
+    }
+    
+    function initCharacterHighlights() {
+      document.querySelectorAll('.character-highlight').forEach(el => {
+        el.addEventListener('click', function() {
+          const charId = this.dataset.character;
+          const sidebar = document.getElementById('cardsSidebar');
+          sidebar.classList.add('expanded');
+          switchSidebarTab('characters');
+          
+          const card = sidebar.querySelector(`.sidebar-card[data-id="${charId}"]`);
+          if (card) {
+            card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            card.classList.add('expanded');
+            card.style.animation = 'pulse 0.5s ease';
+            setTimeout(() => card.style.animation = '', 500);
+          }
+        });
+      });
+    }
+    
+    function updateNavigation() {
+      const currentIndex = chaptersList.findIndex(c => c.chapter_id === currentChapter.chapter_id);
+      const total = chaptersList.length;
+      
+      document.getElementById('navInfo').textContent = `Chapter ${currentChapter.order_num} of ${total}`;
+      document.getElementById('progressCorner').textContent = `📖 ${Math.round((currentIndex + 1) / total * 100)}%`;
+      
+      if (currentIndex > 0) {
+        document.getElementById('prevBtn').href = `/chapter?id=${chaptersList[currentIndex - 1].chapter_id}&bookId=${currentChapter.book_id}`;
+      } else {
+        document.getElementById('prevBtn').style.visibility = 'hidden';
+      }
+      
+      if (currentIndex < total - 1) {
+        document.getElementById('nextBtn').href = `/chapter?id=${chaptersList[currentIndex + 1].chapter_id}&bookId=${currentChapter.book_id}`;
+      } else {
+        document.getElementById('nextBtn').style.visibility = 'hidden';
+      }
+    }
+    
+    function addPuzzleButton() {
+      const rightContent = document.getElementById('rightContent');
+      rightContent.innerHTML += `
+        <div style="text-align: center; margin-top: 30px;">
+          <button class="scroll-nav-btn" onclick="showPuzzle()">
+            🧩 Solve Puzzle
+          </button>
+        </div>
+      `;
+    }
+    
+    function showPuzzle() {
+      if (!currentPuzzle) return;
+      
+      document.getElementById('puzzleTitle').textContent = `⚔️ ${currentPuzzle.title || 'Puzzle'}`;
+      document.getElementById('puzzleQuestion').textContent = currentPuzzle.question;
+      
+      const optionsHtml = currentPuzzle.options.map((opt, i) => `
+        <div class="puzzle-option" onclick="selectOption(this, ${i})">${String.fromCharCode(65 + i)}) ${opt}</div>
+      `).join('');
+      
+      document.getElementById('puzzleOptions').innerHTML = optionsHtml;
+      document.getElementById('puzzleOverlay').classList.add('active');
+      selectedOption = null;
+    }
+    
+    function hidePuzzle() {
+      document.getElementById('puzzleOverlay').classList.remove('active');
+    }
+    
+    function selectOption(element, index) {
+      document.querySelectorAll('.puzzle-option').forEach(opt => {
+        opt.classList.remove('selected');
+      });
+      element.classList.add('selected');
+      selectedOption = index;
+    }
+    
+    async function submitAnswer() {
+      if (selectedOption === null) {
+        alert('Please select an answer');
+        return;
+      }
+      
+      const options = document.querySelectorAll('.puzzle-option');
+      
+      if (selectedOption === currentPuzzle.correct_index) {
+        options[selectedOption].classList.add('correct');
+        
+        await fetch(`/api/chapters/${currentChapter.chapter_id}/solve`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' }
+        });
+        
+        setTimeout(() => {
+          hidePuzzle();
+          alert('Correct! Chapter unlocked');
+        }, 1000);
+      } else {
+        options[selectedOption].classList.add('wrong');
+        options[currentPuzzle.correct_index].classList.add('correct');
+        setTimeout(() => {
+          options.forEach(opt => {
+            opt.classList.remove('selected', 'correct', 'wrong');
+          });
+          selectedOption = null;
+        }, 1500);
+      }
+    }
+    
+    document.addEventListener('DOMContentLoaded', function() {
+      createParticles(document.getElementById('particles'), 20);
+      loadChapter();
+    });
+  </script>
 </body>
 </html>

@@ -1,71 +1,698 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>故事导演 - 卡牌互动小说</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/director.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Story Director - StoryBook</title>
+  <link rel="stylesheet" href="/css/variables.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/animations.css">
+  <link rel="stylesheet" href="/css/components.css">
+  <link rel="stylesheet" href="/css/themes.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <style>
+    .director-page {
+      min-height: 100vh;
+      padding-top: 80px;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .director-header {
+      padding: var(--spacing-lg);
+      text-align: center;
+      border-bottom: 1px solid rgba(255, 215, 0, 0.2);
+    }
+    
+    .director-header h1 {
+      font-size: 2rem;
+      margin-bottom: var(--spacing-sm);
+    }
+    
+    .director-header p {
+      color: var(--color-text-muted);
+    }
+    
+    .three-column-layout {
+      display: grid;
+      grid-template-columns: 300px 1fr 280px;
+      gap: var(--spacing-lg);
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: var(--spacing-lg);
+    }
+    
+    .left-panel {
+      background: var(--gradient-card);
+      border: 1px solid rgba(255, 215, 0, 0.2);
+      border-radius: var(--radius-lg);
+      padding: var(--spacing-lg);
+      height: fit-content;
+      position: sticky;
+      top: 100px;
+    }
+    
+    .panel-title {
+      font-family: var(--font-title);
+      font-size: 16px;
+      color: var(--color-gold);
+      margin-bottom: var(--spacing-md);
+      text-align: center;
+      padding-bottom: var(--spacing-sm);
+      border-bottom: 1px solid rgba(255, 215, 0, 0.2);
+    }
+    
+    .selected-list {
+      list-style: none;
+    }
+    
+    .selected-item {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+      padding: var(--spacing-sm);
+      margin-bottom: var(--spacing-sm);
+      background: rgba(255, 215, 0, 0.05);
+      border: 1px solid rgba(255, 215, 0, 0.1);
+      border-radius: var(--radius-md);
+    }
+    
+    .selected-item .slot-icon {
+      font-size: 16px;
+    }
+    
+    .selected-item .slot-name {
+      flex: 1;
+      font-size: 12px;
+      color: var(--color-text);
+    }
+    
+    .selected-item .slot-value {
+      font-size: 10px;
+      color: var(--color-gold);
+      font-family: var(--font-title);
+    }
+    
+    .center-stage {
+      background: var(--gradient-card);
+      border: 1px solid rgba(255, 215, 0, 0.2);
+      border-radius: var(--radius-lg);
+      padding: var(--spacing-xl);
+      position: relative;
+      min-height: 500px;
+    }
+    
+    .stage-area {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      min-height: 400px;
+    }
+    
+    .stage-curtain {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 60px;
+      background: linear-gradient(180deg, #8B0000 0%, #5C0000 100%);
+      border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+      box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.3);
+      z-index: 2;
+    }
+    
+    .stage-floor {
+      width: 100%;
+      max-width: 600px;
+      height: 250px;
+      background: linear-gradient(180deg, rgba(26, 26, 46, 0.5) 0%, rgba(15, 15, 35, 0.8) 100%);
+      border-radius: var(--radius-lg);
+      border: 1px solid rgba(255, 215, 0, 0.2);
+      position: relative;
+      transform: rotateX(10deg);
+      box-shadow: 
+        0 20px 40px rgba(0, 0, 0, 0.5),
+        inset 0 0 50px rgba(255, 215, 0, 0.05);
+      z-index: 1;
+    }
+    
+    .stage-floor::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        linear-gradient(90deg, rgba(255, 215, 0, 0.05) 1px, transparent 1px),
+        linear-gradient(rgba(255, 215, 0, 0.05) 1px, transparent 1px);
+      background-size: 50px 50px;
+      border-radius: var(--radius-lg);
+    }
+    
+    .spotlight {
+      position: absolute;
+      top: -50px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 300px;
+      height: 300px;
+      background: radial-gradient(circle, rgba(255, 215, 0, 0.3) 0%, transparent 70%);
+      border-radius: 50%;
+      pointer-events: none;
+      z-index: 0;
+    }
+    
+    .card-fan-container {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 100%;
+      max-width: 500px;
+      height: 150px;
+    }
+    
+    .card-fan {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+    
+    .fan-card {
+      position: absolute;
+      width: 80px;
+      height: 110px;
+      background: var(--gradient-card);
+      border: 2px solid rgba(255, 215, 0, 0.3);
+      border-radius: var(--radius-md);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    .fan-card:hover {
+      transform: translateY(-10px) scale(1.1);
+      border-color: var(--color-gold);
+      box-shadow: 0 8px 20px rgba(255, 215, 0, 0.3);
+    }
+    
+    .fan-card .card-icon {
+      font-size: 24px;
+      margin-bottom: 4px;
+    }
+    
+    .fan-card .card-name {
+      font-size: 8px;
+      font-family: var(--font-title);
+      color: var(--color-gold);
+      text-align: center;
+    }
+    
+    .action-area {
+      margin-top: var(--spacing-xl);
+      text-align: center;
+    }
+    
+    .selection-status {
+      margin-bottom: var(--spacing-lg);
+      font-family: var(--font-ui);
+      color: var(--color-text-muted);
+    }
+    
+    .selection-status span {
+      color: var(--color-gold);
+      font-weight: bold;
+    }
+    
+    .hearthstone-btn {
+      position: relative;
+      padding: var(--spacing-lg) var(--spacing-xxl);
+      background: linear-gradient(135deg, 
+        #FFD700 0%, 
+        #FFA500 50%, 
+        #FFD700 100%);
+      border: 3px solid #FFD700;
+      border-radius: var(--radius-lg);
+      color: #1a1a2e;
+      font-family: var(--font-title);
+      font-size: 20px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      cursor: pointer;
+      overflow: hidden;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 6px 0 #B8860B,
+        0 10px 30px rgba(255, 215, 0, 0.4);
+      text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.2);
+    }
+    
+    .hearthstone-btn:hover:not(:disabled) {
+      transform: translateY(-4px);
+      box-shadow: 
+        0 10px 0 #B8860B,
+        0 15px 40px rgba(255, 215, 0, 0.6);
+    }
+    
+    .hearthstone-btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      transform: none;
+      box-shadow: 
+        0 3px 0 #B8860B,
+        0 5px 15px rgba(255, 215, 0, 0.2);
+    }
+    
+    .hearthstone-btn::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        transparent 0%, 
+        rgba(255, 255, 255, 0.3) 50%, 
+        transparent 100%);
+      transition: left 0.6s ease;
+    }
+    
+    .hearthstone-btn:hover::before {
+      left: 100%;
+    }
+    
+    .right-panel {
+      background: var(--gradient-card);
+      border: 1px solid rgba(255, 215, 0, 0.2);
+      border-radius: var(--radius-lg);
+      padding: var(--spacing-lg);
+      height: fit-content;
+      position: sticky;
+      top: 100px;
+    }
+    
+    .card-grid-4x2 {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: var(--spacing-md);
+    }
+    
+    .grid-card {
+      padding: var(--spacing-md);
+      background: rgba(255, 215, 0, 0.05);
+      border: 1px solid rgba(255, 215, 0, 0.1);
+      border-radius: var(--radius-md);
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .grid-card:hover {
+      background: rgba(255, 215, 0, 0.1);
+      border-color: var(--color-gold);
+      transform: translateY(-2px);
+    }
+    
+    .grid-card .card-icon {
+      font-size: 24px;
+      margin-bottom: var(--spacing-sm);
+    }
+    
+    .grid-card .card-name {
+      font-size: 12px;
+      font-family: var(--font-title);
+      color: var(--color-gold);
+    }
+    
+    .grid-card .card-effect {
+      font-size: 10px;
+      color: var(--color-text-muted);
+      margin-top: 4px;
+    }
+    
+    .loading-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.9);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: var(--z-modal);
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.5s ease;
+    }
+    
+    .loading-overlay.active {
+      opacity: 1;
+      visibility: visible;
+    }
+    
+    .loading-text {
+      font-family: var(--font-title);
+      font-size: 24px;
+      color: var(--color-gold);
+      margin-top: var(--spacing-lg);
+      animation: pulse 2s ease-in-out infinite;
+    }
+    
+    @media (max-width: 1024px) {
+      .three-column-layout {
+        grid-template-columns: 1fr;
+      }
+      
+      .left-panel,
+      .right-panel {
+        position: static;
+      }
+      
+      .card-grid-4x2 {
+        grid-template-columns: repeat(4, 1fr);
+      }
+    }
+    
+    @media (max-width: 768px) {
+      .three-column-layout {
+        padding: var(--spacing-md);
+      }
+      
+      .center-stage {
+        padding: var(--spacing-lg);
+      }
+      
+      .stage-floor {
+        height: 200px;
+      }
+      
+      .fan-card {
+        width: 60px;
+        height: 80px;
+      }
+      
+      .fan-card .card-icon {
+        font-size: 18px;
+      }
+      
+      .fan-card .card-name {
+        font-size: 6px;
+      }
+      
+      .hearthstone-btn {
+        padding: var(--spacing-md) var(--spacing-xl);
+        font-size: 16px;
+      }
+      
+      .card-grid-4x2 {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+  </style>
 </head>
-<body>
-    <div class="director-container">
-        <header class="director-header">
-            <h1>🎬 故事导演</h1>
-            <p class="subtitle">选择卡牌，创造你的故事</p>
-        </header>
-
-        <div class="director-content">
-            <div class="stage-section">
-                <h2>🎭 舞台</h2>
-                <div id="stage" class="stage-area">
-                    <div class="stage-placeholder">选择角色和卡牌来布置舞台</div>
-                </div>
-            </div>
-
-            <div class="cards-section">
-                <div class="card-category">
-                    <h3>👥 角色卡牌</h3>
-                    <div id="character-cards" class="card-grid character-grid"></div>
-                </div>
-
-                <div class="card-category">
-                    <h3>☀️ 天气卡牌</h3>
-                    <div id="weather-cards" class="card-grid"></div>
-                </div>
-
-                <div class="card-category">
-                    <h3>🌲 地形卡牌</h3>
-                    <div id="terrain-cards" class="card-grid"></div>
-                </div>
-
-                <div class="card-category">
-                    <h3>🗺️ 冒险卡牌</h3>
-                    <div id="adventure-cards" class="card-grid"></div>
-                </div>
-
-                <div class="card-category">
-                    <h3>🎒 装备卡牌</h3>
-                    <div id="equipment-cards" class="card-grid"></div>
-                </div>
-            </div>
-
-            <div class="action-section">
-                <button id="start-shooting" class="btn-primary btn-large" disabled>
-                    🎬 开始拍摄
-                </button>
-                <p id="selection-hint" class="hint-text">请选择：1个主角 + 每种情节卡牌各1张</p>
-            </div>
-        </div>
-
-        <div id="loading-overlay" class="loading-overlay hidden">
-            <div class="loading-content">
-                <div class="loading-spinner"></div>
-                <p>正在生成章节...</p>
-            </div>
-        </div>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="#" class="navbar-brand" id="navBack">← Back</a>
+    <div class="navbar-nav">
+      <a href="/bookshelf" class="navbar-link">Library</a>
     </div>
-
-    <script src="js/api.js"></script>
-    <script src="js/director.js"></script>
+  </nav>
+  
+  <div class="director-page">
+    <div class="director-header">
+      <h1>🎭 Story Director</h1>
+      <p>Select your cards and create a new chapter</p>
+    </div>
+    
+    <div class="three-column-layout">
+      <div class="left-panel">
+        <h3 class="panel-title">🎯 Selected Cards</h3>
+        <ul class="selected-list">
+          <li class="selected-item">
+            <span class="slot-icon">👤</span>
+            <span class="slot-name">Character</span>
+            <span class="slot-value" id="selected-character">None</span>
+          </li>
+          <li class="selected-item">
+            <span class="slot-icon">🌤️</span>
+            <span class="slot-name">Weather</span>
+            <span class="slot-value" id="selected-weather">None</span>
+          </li>
+          <li class="selected-item">
+            <span class="slot-icon">🏔️</span>
+            <span class="slot-name">Terrain</span>
+            <span class="slot-value" id="selected-terrain">None</span>
+          </li>
+          <li class="selected-item">
+            <span class="slot-icon">⚔️</span>
+            <span class="slot-name">Adventure</span>
+            <span class="slot-value" id="selected-adventure">None</span>
+          </li>
+          <li class="selected-item">
+            <span class="slot-icon">🎒</span>
+            <span class="slot-name">Equipment</span>
+            <span class="slot-value" id="selected-equipment">None</span>
+          </li>
+        </ul>
+      </div>
+      
+      <div class="center-stage">
+        <div class="stage-curtain"></div>
+        <div class="stage-area">
+          <div class="spotlight"></div>
+          <div class="stage-floor">
+            <div class="card-fan-container">
+              <div class="card-fan" id="cardFan"></div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="action-area">
+          <div class="selection-status">
+            Selected: <span id="selectedCount">0</span> / 5 cards
+          </div>
+          <button class="hearthstone-btn" id="startBtn" onclick="startProduction()" disabled>
+            🎬 Start Production
+          </button>
+        </div>
+      </div>
+      
+      <div class="right-panel">
+        <h3 class="panel-title">🃏 Card Collection</h3>
+        <div class="card-grid-4x2" id="cardGrid"></div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="loading-overlay" id="loadingOverlay">
+    <div class="loading-spinner"></div>
+    <div class="loading-text">Creating Your Story...</div>
+  </div>
+  
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const bookId = params.get('bookId');
+    
+    const selectedCards = {
+      character: null,
+      weather: null,
+      terrain: null,
+      adventure: null,
+      equipment: null
+    };
+    
+    let allCards = [];
+    let characters = [];
+    let weatherCards = [];
+    let terrainCards = [];
+    let adventureCards = [];
+    let equipmentCards = [];
+    
+    function createParticles(container, count) {
+      if (!container) return;
+      for (let i = 0; i < count; i++) {
+        const particle = document.createElement('div');
+        particle.className = 'particle';
+        particle.style.left = Math.random() * 100 + '%';
+        particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
+        particle.style.animationDelay = Math.random() * 10 + 's';
+        container.appendChild(particle);
+      }
+    }
+    
+    async function loadCards() {
+      try {
+        const response = await fetch(`/api/plot-cards?book_id=${bookId}`);
+        const result = await response.json();
+        
+        if (result.success) {
+          allCards = result.data || [];
+          
+          characters = allCards.filter(c => c.sub_type === 'character' || c.type === 'character');
+          weatherCards = allCards.filter(c => c.sub_type === 'weather');
+          terrainCards = allCards.filter(c => c.sub_type === 'terrain');
+          adventureCards = allCards.filter(c => c.sub_type === 'adventure');
+          equipmentCards = allCards.filter(c => c.sub_type === 'equipment');
+          
+          renderCardGrid();
+          renderCardFan();
+        }
+      } catch (error) {
+        console.error('Load cards failed:', error);
+      }
+    }
+    
+    function renderCardGrid() {
+      const grid = document.getElementById('cardGrid');
+      
+      const displayCards = allCards.slice(0, 8);
+      
+      grid.innerHTML = displayCards.map(card => `
+        <div class="grid-card" onclick="selectCard('${card.sub_type || 'character'}', ${JSON.stringify(card).replace(/"/g, '&quot;')})">
+          <div class="card-icon">${card.icon || '⭐'}</div>
+          <div class="card-name">${card.name}</div>
+          <div class="card-effect">${card.sub_type || ''}</div>
+        </div>
+      `).join('');
+    }
+    
+    function renderCardFan() {
+      const fan = document.getElementById('cardFan');
+      const categories = ['character', 'weather', 'terrain', 'adventure', 'equipment'];
+      const icons = {
+        character: '👤',
+        weather: '🌤️',
+        terrain: '🏔️',
+        adventure: '⚔️',
+        equipment: '🎒'
+      };
+      
+      fan.innerHTML = categories.map((category, index) => {
+        const angle = (index - 2) * 25;
+        const card = selectedCards[category];
+        
+        return `
+          <div class="fan-card" 
+               style="transform: rotate(${angle}deg); left: 50%; top: 50%; margin-left: -40px; margin-top: -55px;"
+               onclick="openCategory('${category}')">
+            <div class="card-icon">${card ? (card.avatar || card.icon) : icons[category]}</div>
+            <div class="card-name">${card ? card.name : getCategoryName(category)}</div>
+          </div>
+        `;
+      }).join('');
+    }
+    
+    function getCategoryName(category) {
+      const names = {
+        character: 'Character',
+        weather: 'Weather',
+        terrain: 'Terrain',
+        adventure: 'Adventure',
+        equipment: 'Equipment'
+      };
+      return names[category] || category;
+    }
+    
+    function openCategory(category) {
+      showNotification(`Selected category: ${getCategoryName(category)}`, 'info');
+    }
+    
+    function selectCard(category, card) {
+      selectedCards[category] = card;
+      updateSelectionDisplay();
+      renderCardFan();
+    }
+    
+    function updateSelectionDisplay() {
+      const count = Object.values(selectedCards).filter(c => c !== null).length;
+      document.getElementById('selectedCount').textContent = count;
+      document.getElementById('startBtn').disabled = count < 5;
+      
+      Object.keys(selectedCards).forEach(category => {
+        const element = document.getElementById(`selected-${category}`);
+        if (selectedCards[category]) {
+          element.textContent = selectedCards[category].name;
+          element.style.color = 'var(--color-gold)';
+        } else {
+          element.textContent = 'None';
+          element.style.color = 'var(--color-text-muted)';
+        }
+      });
+    }
+    
+    async function startProduction() {
+      document.getElementById('loadingOverlay').classList.add('active');
+      
+      try {
+        const selectedIds = Object.values(selectedCards).map(c => c.card_id).filter(id => id);
+        
+        const response = await fetch('/api/generate-chapter', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            book_id: bookId,
+            card_ids: selectedIds
+          })
+        });
+        
+        const result = await response.json();
+        
+        if (result.success) {
+          document.getElementById('loadingOverlay').classList.remove('active');
+          showNotification('Chapter created successfully!', 'success');
+          setTimeout(() => {
+            window.location.href = `/chapter?id=${result.data.chapter_id}`;
+          }, 1000);
+        } else {
+          document.getElementById('loadingOverlay').classList.remove('active');
+          showNotification(result.error || 'Creation failed', 'error');
+        }
+      } catch (error) {
+        document.getElementById('loadingOverlay').classList.remove('active');
+        showNotification('Network error', 'error');
+      }
+    }
+    
+    function showNotification(message, type) {
+      const notification = document.createElement('div');
+      notification.style.cssText = `
+        position: fixed;
+        top: 100px;
+        right: 20px;
+        padding: 15px 25px;
+        background: ${type === 'success' ? 'linear-gradient(135deg, rgba(34, 197, 94, 0.9) 0%, rgba(34, 197, 94, 0.7) 100%)' : type === 'error' ? 'linear-gradient(135deg, rgba(220, 38, 38, 0.9) 0%, rgba(220, 38, 38, 0.7) 100%)' : 'linear-gradient(135deg, rgba(255, 215, 0, 0.9) 0%, rgba(255, 215, 0, 0.7) 100%)'};
+        border: 2px solid ${type === 'success' ? '#22c55e' : type === 'error' ? '#dc2626' : '#FFD700'};
+        border-radius: 8px;
+        color: white;
+        font-family: 'Cinzel', serif;
+        z-index: 1000;
+        animation: slideIn 0.3s ease;
+      `;
+      notification.textContent = message;
+      document.body.appendChild(notification);
+      
+      setTimeout(() => {
+        notification.remove();
+      }, 3000);
+    }
+    
+    document.addEventListener('DOMContentLoaded', function() {
+      createParticles(document.getElementById('particles'), 30);
+      loadCards();
+      
+      document.getElementById('navBack').href = `/book?id=${bookId}`;
+    });
+  </script>
 </body>
 </html>

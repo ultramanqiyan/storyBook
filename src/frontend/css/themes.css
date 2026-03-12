@@ -1,0 +1,314 @@
+.theme-adventure {
+  --theme-name: 'adventure';
+  --color-bg-dark: #0f0f23;
+  --color-bg-medium: #16213e;
+  --color-bg-light: #1a1a2e;
+  --color-primary: #FFD700;
+  --color-primary-dark: #B8860B;
+  --color-primary-light: #FFA500;
+  --color-secondary: #8B0000;
+  --color-accent: #C0C0C0;
+  --color-success: #22c55e;
+  --color-error: #dc2626;
+  --color-text: #f5f5f5;
+  --color-text-muted: #a0a0a0;
+  --color-parchment: #f4e4bc;
+  
+  --gradient-bg: linear-gradient(135deg, var(--color-bg-light) 0%, var(--color-bg-medium) 50%, var(--color-bg-dark) 100%);
+  --gradient-primary: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%);
+  --gradient-card: linear-gradient(135deg, rgba(26, 26, 46, 0.9) 0%, rgba(22, 33, 62, 0.9) 100%);
+  
+  --particle-color: var(--color-primary);
+  --particle-count: 60;
+  
+  --card-border-color: var(--color-primary);
+  --card-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+}
+
+.theme-fantasy {
+  --theme-name: 'fantasy';
+  --color-bg-dark: #1a0a1e;
+  --color-bg-medium: #2a1a2e;
+  --color-bg-light: #3a2a3e;
+  --color-primary: #FF6B9D;
+  --color-primary-dark: #6C3483;
+  --color-primary-light: #BB8FCE;
+  --color-secondary: #E8E8E8;
+  --color-accent: #F5B7B1;
+  --color-success: #58D68D;
+  --color-error: #EC7063;
+  --color-text: #F5EEF8;
+  --color-text-muted: #D7BDE2;
+  --color-parchment: #FDEBD0;
+  
+  --gradient-bg: linear-gradient(135deg, #E8DAEF 0%, #D2B4DE 25%, #BB8FCE 50%, #9B59B6 100%);
+  --gradient-primary: linear-gradient(135deg, var(--color-primary-light) 0%, var(--color-primary) 100%);
+  --gradient-card: linear-gradient(135deg, rgba(186, 46, 255, 0.15) 0%, rgba(155, 107, 255, 0.15) 100%);
+  
+  --particle-color: var(--color-primary);
+  --particle-count: 30;
+  
+  --card-border-color: var(--color-primary-light);
+  --card-shadow: 0 0 20px rgba(255, 107, 157, 0.3);
+  
+  --btn-primary-bg: linear-gradient(135deg, #FF6B9D 0%, #9B6BFF 100%);
+  --btn-primary-shadow: 0 4px 15px rgba(255, 107, 157, 0.4);
+  
+  --font-title: 'Playfair Display', serif;
+  --font-body: 'Georgia', serif;
+}
+
+@keyframes starTwinkle {
+  0%, 100% { opacity: 0.3; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.2); }
+}
+
+@keyframes heartFloat {
+  0% {
+    transform: translateY(100vh) rotate(0deg);
+    opacity: 0;
+  }
+  10% { opacity: 0.6; }
+  90% { opacity: 0.6; }
+  100% {
+    transform: translateY(-100vh) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+.theme-fantasy .particle {
+  animation: starTwinkle 2s ease-in-out infinite;
+}
+
+.theme-romance .particle {
+  animation: heartFloat 20s linear infinite;
+}
+
+.theme-fantasy .particle::before {
+  content: '✦';
+  font-size: 12px;
+  background: none;
+  width: auto;
+  height: auto;
+}
+
+.theme-romance .particle::before {
+  content: '♥';
+  font-size: 10px;
+  background: none;
+  width: auto;
+  height: auto;
+}
+
+.theme-business .particles-container {
+  display: none;
+}
+
+.theme-romance {
+  --theme-name: 'romance';
+  --color-bg-dark: #2a1a2e;
+  --color-bg-medium: #3a2a3e;
+  --color-bg-light: #4a3a4e;
+  --color-primary: #FF6B9D;
+  --color-primary-dark: #C44569;
+  --color-primary-light: #FFB6C1;
+  --color-secondary: #9B6BFF;
+  --color-accent: #FFD1DC;
+  --color-success: #FF69B4;
+  --color-error: #DC143C;
+  --color-text: #FFF0F5;
+  --color-text-muted: #FFB6C1;
+  --color-parchment: #FFF5EE;
+  
+  --gradient-bg: linear-gradient(135deg, #2a1a2e 0%, #3a2a3e 50%, #4a3a4e 100%);
+  --gradient-primary: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+  --gradient-card: linear-gradient(135deg, rgba(255, 107, 157, 0.15) 0%, rgba(155, 107, 255, 0.15) 100%);
+  
+  --particle-color: var(--color-primary);
+  --particle-count: 40;
+  
+  --card-border-color: #FFB6C1;
+  --card-shadow: 0 0 25px rgba(255, 107, 157, 0.4);
+  
+  --btn-primary-bg: linear-gradient(135deg, #FF6B9D 0%, #9B6BFF 100%);
+  --btn-primary-shadow: 0 4px 15px rgba(255, 107, 157, 0.4);
+}
+
+.theme-business {
+  --theme-name: 'business';
+  --color-bg-dark: #1a1a1a;
+  --color-bg-medium: #2a2a2a;
+  --color-bg-light: #3a3a3a;
+  --color-primary: #4A90D9;
+  --color-primary-dark: #2a5a8a;
+  --color-primary-light: #6ab0f0;
+  --color-secondary: #6C757D;
+  --color-accent: #28A745;
+  --color-success: #28A745;
+  --color-error: #DC3545;
+  --color-text: #F8F9FA;
+  --color-text-muted: #ADB5BD;
+  --color-parchment: #F8F9FA;
+  
+  --gradient-bg: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 50%, #3a3a3a 100%);
+  --gradient-primary: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
+  --gradient-card: linear-gradient(135deg, rgba(74, 144, 217, 0.1) 0%, rgba(42, 90, 138, 0.1) 100%);
+  
+  --particle-color: var(--color-primary);
+  --particle-count: 0;
+  
+  --card-border-color: var(--color-primary);
+  --card-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  
+  --btn-primary-bg: linear-gradient(135deg, #4A90D9 0%, #2a5a8a 100%);
+  --btn-primary-shadow: 0 2px 8px rgba(74, 144, 217, 0.3);
+  
+  --font-title: 'Arial', sans-serif;
+  --font-body: 'Helvetica', sans-serif;
+}
+
+.theme-adventure .hs-card {
+  border: 3px solid var(--color-gold);
+  box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+}
+
+.theme-adventure .hs-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 0 30px rgba(255, 215, 0, 0.5);
+}
+
+.theme-fantasy .hs-card {
+  border: 3px solid #BB8FCE;
+  box-shadow: 0 0 15px rgba(187, 143, 206, 0.4);
+}
+
+.theme-fantasy .hs-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 0 25px rgba(187, 143, 206, 0.6);
+}
+
+.theme-romance .hs-card {
+  border: 3px solid #FFB6C1;
+  box-shadow: 0 0 15px rgba(255, 182, 193, 0.4);
+}
+
+.theme-romance .hs-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 0 25px rgba(255, 182, 193, 0.6);
+}
+
+.theme-business .hs-card {
+  border: 2px solid var(--color-primary);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.theme-business .hs-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.theme-adventure .navbar {
+  background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+  border-bottom: 2px solid rgba(255, 215, 0, 0.3);
+}
+
+.theme-fantasy .navbar {
+  background: linear-gradient(180deg, rgba(26, 10, 30, 0.95) 0%, rgba(42, 26, 46, 0.98) 100%);
+  border-bottom: 2px solid rgba(187, 143, 206, 0.3);
+}
+
+.theme-romance .navbar {
+  background: linear-gradient(180deg, rgba(42, 26, 46, 0.95) 0%, rgba(58, 42, 62, 0.98) 100%);
+  border-bottom: 2px solid rgba(255, 182, 193, 0.3);
+}
+
+.theme-business .navbar {
+  background: linear-gradient(180deg, rgba(26, 26, 26, 0.95) 0%, rgba(42, 42, 42, 0.98) 100%);
+  border-bottom: 1px solid rgba(74, 144, 217, 0.3);
+}
+
+.theme-adventure .btn-primary {
+  background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+  border: 2px solid #D4AF37;
+  color: #f4e4bc;
+}
+
+.theme-fantasy .btn-primary {
+  background: linear-gradient(180deg, #6C3483 0%, #4a2060 100%);
+  border: 2px solid #BB8FCE;
+  color: #F5EEF8;
+}
+
+.theme-romance .btn-primary {
+  background: linear-gradient(180deg, #C44569 0%, #9B3366 100%);
+  border: 2px solid #FFB6C1;
+  color: #FFF0F5;
+}
+
+.theme-business .btn-primary {
+  background: linear-gradient(180deg, #4A90D9 0%, #2a5a8a 100%);
+  border: 2px solid #6ab0f0;
+  color: #F8F9FA;
+}
+
+.theme-adventure .form-input {
+  background: rgba(139, 90, 43, 0.1);
+  border: 2px solid rgba(139, 90, 43, 0.3);
+  color: #2a1810;
+}
+
+.theme-fantasy .form-input {
+  background: rgba(187, 143, 206, 0.1);
+  border: 2px solid rgba(187, 143, 206, 0.3);
+  color: #F5EEF8;
+}
+
+.theme-romance .form-input {
+  background: rgba(255, 182, 193, 0.1);
+  border: 2px solid rgba(255, 182, 193, 0.3);
+  color: #FFF0F5;
+}
+
+.theme-business .form-input {
+  background: rgba(74, 144, 217, 0.1);
+  border: 2px solid rgba(74, 144, 217, 0.3);
+  color: #F8F9FA;
+}
+
+.theme-adventure .parchment {
+  background: linear-gradient(135deg, #f4e4bc 0%, #e4d4a0 100%);
+  border: 2px solid rgba(139, 90, 43, 0.3);
+}
+
+.theme-fantasy .parchment{
+  background: linear-gradient(135deg, #FFF8E7 0%, #FDEBD0 100%);
+  border-radius: 20px;
+  border: 2px solid rgba(155, 89, 182, 0.3);
+}
+
+.theme-romance .parchment{
+  background: linear-gradient(135deg, #FFF5EE 0%, #FFE4E1 100%);
+  border-radius: 25px;
+  border: 1px solid rgba(255, 107, 157, 0.2);
+}
+
+.theme-business .parchment{
+  background: linear-gradient(135deg, #F5F5DC 0%, #D2B48C 100%);
+  border-radius: 2px;
+  border: 1px solid var(--color-primary);
+}
+
+.theme-fantasy .wax-seal{
+  background: radial-gradient(circle at 30% 30%, #BB8FCE 0%, #9B59B6 50%, #6C3483 100%);
+  border: 2px solid #F5B7B1;
+}
+
+.theme-romance .wax-seal{
+  background: radial-gradient(circle at 30% 30%, #FFB6C1 0%, #FF6B9D 50%, #C44569 100%);
+  border: 2px solid #FFD1DC;
+}
+
+.theme-business .wax-seal{
+  background: radial-gradient(circle at 30% 30%, #D4AF37 0%, #C9A962 50%, #8B7355 100%);
+  border: 2px solid var(--color-primary-light);
+}

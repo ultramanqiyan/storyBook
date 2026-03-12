@@ -1,43 +1,64 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>我的书架 - 卡牌互动小说</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <title>My Library - StoryBook</title>
+    <link rel="stylesheet" href="/css/variables.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/animations.css">
+    <link rel="stylesheet" href="/css/components.css">
+    <link rel="stylesheet" href="/css/themes.css">
+    <link rel="stylesheet" href="/css/responsive.css">
 </head>
-<body>
-    <div class="container">
-        <header class="header">
-            <a href="/" class="logo">📚 卡牌互动小说</a>
+<body class="theme-adventure">
+    <div class="particles-container" id="particles"></div>
+    
+    <nav class="navbar">
+        <a href="/" class="navbar-brand">StoryBook</a>
+        <div class="navbar-nav">
+            <a href="/" class="navbar-link">Home</a>
+            <a href="#" class="navbar-link" onclick="logout()">Sign Out</a>
+        </div>
+    </nav>
+    
+    <main class="bookshelf-page">
+        <header class="bookshelf-header">
+            <h1 class="bookshelf-title">📚 My Library</h1>
             <div class="user-info">
-                <span id="userEmail"></span>
-                <button onclick="logout()" class="btn btn-sm">退出</button>
+                <span class="user-email" id="userEmail"></span>
+                <a href="/book-create" class="btn btn-3d">+ New Book</a>
             </div>
         </header>
-
-        <main class="main-content">
-            <section class="section-header">
-                <h2>我的书架</h2>
-                <a href="book-create.html" class="btn btn-primary">+ 新建书籍</a>
-            </section>
-
-            <section class="books-section">
-                <h3>我的创作</h3>
-                <div class="book-grid" id="myBooks">
-                    <div class="loading">加载中...</div>
-                </div>
-            </section>
-
-            <section class="books-section">
-                <h3>预设故事</h3>
-                <div class="book-grid" id="presetBooks">
-                    <div class="loading">加载中...</div>
-                </div>
-            </section>
-        </main>
+        
+        <section class="books-section">
+            <h2 class="section-title">✒️ My Creations</h2>
+            <div class="books-grid" id="myBooks">
+                <div class="loading-spinner"></div>
+            </div>
+        </section>
+        
+        <section class="books-section">
+            <h2 class="section-title">📖 Preset Stories</h2>
+            <div class="books-grid" id="presetBooks">
+                <div class="loading-spinner"></div>
+            </div>
+        </section>
+    </main>
+    
+    <div id="deleteModal" class="modal-overlay">
+        <div class="modal-content">
+            <h3 class="modal-title">⚠️ Confirm Delete</h3>
+            <p class="modal-text">Are you sure you want to delete "<strong id="deleteBookTitle"></strong>"?</p>
+            <p class="modal-warning">⚠️ This action cannot be undone!</p>
+            <div class="modal-actions">
+                <button class="btn btn-secondary" onclick="closeDeleteModal()">Cancel</button>
+                <button class="btn btn-danger" id="confirmDeleteBtn">Delete</button>
+            </div>
+        </div>
     </div>
-
+    
+    <script src="/js/main.js"></script>
     <script>
         const userId = localStorage.getItem('userId');
         const userEmail = localStorage.getItem('userEmail');
@@ -47,6 +68,20 @@
         }
 
         document.getElementById('userEmail').textContent = userEmail;
+
+        let bookToDelete = null;
+
+        function createParticles(container, count) {
+            if (!container) return;
+            for (let i = 0; i < count; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'particle';
+                particle.style.left = Math.random() * 100 + '%';
+                particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
+                particle.style.animationDelay = Math.random() * 10 + 's';
+                container.appendChild(particle);
+            }
+        }
 
         async function loadBooks() {
             try {
@@ -61,33 +96,78 @@
                 renderBooks('myBooks', myResult.data, false);
                 renderBooks('presetBooks', presetResult.data, true);
             } catch (error) {
-                console.error('加载失败:', error);
+                console.error('Failed to load:', error);
             }
         }
 
         function renderBooks(containerId, books, isPreset) {
             const container = document.getElementById(containerId);
             if (!books || books.length === 0) {
-                container.innerHTML = '<p class="empty">暂无书籍</p>';
+                container.innerHTML = '<p class="empty-text">No books available</p>';
                 return;
             }
 
             const filteredBooks = isPreset ? books : books.filter(b => !b.is_preset);
             if (!isPreset && filteredBooks.length === 0) {
-                container.innerHTML = '<p class="empty">还没有创作，点击上方按钮开始</p>';
+                container.innerHTML = '<p class="empty-text">No creations yet. Click "+ New Book" to start!</p>';
                 return;
             }
 
             container.innerHTML = filteredBooks.map(book => `
-                <div class="book-card" onclick="location.href='/book?id=${book.book_id}'">
-                    <div class="book-cover">${getBookIcon(book.type)}</div>
-                    <div class="book-info">
-                        <h3>${book.title}</h3>
-                        <span class="book-type">${getTypeName(book.type)}</span>
+                <div class="book-3d" data-book-id="${book.book_id}">
+                    <div class="book-cover" onclick="location.href='/book?id=${book.book_id}'">
+                        <span style="font-size: 64px;">${getBookIcon(book.type)}</span>
+                        <div class="book-title">${book.title}</div>
+                        <span class="book-tag">${getTypeName(book.type)}</span>
                     </div>
+                    <div class="book-spine"></div>
+                    <div class="book-pages"></div>
+                    ${!isPreset ? `<button class="delete-btn" onclick="event.stopPropagation(); showDeleteModal('${book.book_id}', '${book.title}')">🗑️</button>` : ''}
                 </div>
             `).join('');
         }
+
+        function showDeleteModal(bookId, title) {
+            bookToDelete = bookId;
+            document.getElementById('deleteBookTitle').textContent = title;
+            document.getElementById('deleteModal').classList.add('active');
+        }
+
+        function closeDeleteModal() {
+            bookToDelete = null;
+            document.getElementById('deleteModal').classList.remove('active');
+        }
+
+        async function confirmDelete() {
+            if (!bookToDelete) return;
+
+            const btn = document.getElementById('confirmDeleteBtn');
+            btn.disabled = true;
+            btn.textContent = 'Deleting...';
+
+            try {
+                const response = await fetch(`/api/books/${bookToDelete}`, {
+                    method: 'DELETE',
+                    headers: { 'Content-Type': 'application/json' }
+                });
+
+                const result = await response.json();
+
+                if (result.success) {
+                    closeDeleteModal();
+                    loadBooks();
+                } else {
+                    alert('Delete failed: ' + result.error);
+                }
+            } catch (error) {
+                alert('Delete failed: ' + error.message);
+            } finally {
+                btn.disabled = false;
+                btn.textContent = 'Delete';
+            }
+        }
+
+        document.getElementById('confirmDeleteBtn').addEventListener('click', confirmDelete);
 
         function logout() {
             localStorage.removeItem('userId');
@@ -101,11 +181,147 @@
         }
 
         function getTypeName(type) {
-            const names = { 'adventure': '冒险', 'fantasy': '魔幻', 'romance': '言情', 'business': '职场' };
+            const names = { 'adventure': 'Adventure', 'fantasy': 'Fantasy', 'romance': 'Romance', 'business': 'Business' };
             return names[type] || type;
         }
 
-        loadBooks();
+        document.addEventListener('DOMContentLoaded', function() {
+            createParticles(document.getElementById('particles'), 30);
+            loadBooks();
+        });
     </script>
+    
+    <style>
+        .bookshelf-page {
+            min-height: calc(100vh - 80px);
+            padding: var(--spacing-xl);
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .bookshelf-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: var(--spacing-xl);
+            padding-bottom: var(--spacing-lg);
+            border-bottom: 2px solid rgba(255, 215, 0, 0.2);
+        }
+        
+        .bookshelf-title {
+            font-family: var(--font-medieval);
+            font-size: 2rem;
+            color: var(--color-gold);
+        }
+        
+        .user-info {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-lg);
+        }
+        
+        .user-email {
+            color: var(--color-text-muted);
+            font-family: var(--font-body);
+        }
+        
+        .books-section {
+            margin-bottom: var(--spacing-xxl);
+        }
+        
+        .section-title {
+            font-family: var(--font-title);
+            font-size: 1.3rem;
+            color: var(--color-gold);
+            margin-bottom: var(--spacing-lg);
+        }
+        
+        .books-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: var(--spacing-xl);
+            justify-content: flex-start;
+        }
+        
+        .empty-text {
+            text-align: center;
+            padding: var(--spacing-xl);
+            color: var(--color-text-muted);
+            font-family: var(--font-body);
+            font-style: italic;
+            width: 100%;
+        }
+        
+        .delete-btn {
+            position: absolute;
+            top: -10px;
+            right: -10px;
+            width: 36px;
+            height: 36px;
+            background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
+            border: 2px solid #FFD700;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            z-index: 10;
+        }
+        
+        .delete-btn:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 15px rgba(220, 38, 38, 0.5);
+        }
+        
+        .modal-title {
+            font-family: var(--font-medieval);
+            font-size: 1.5rem;
+            color: var(--color-gold);
+            margin-bottom: var(--spacing-md);
+        }
+        
+        .modal-text {
+            color: var(--color-text);
+            font-family: var(--font-body);
+            margin-bottom: var(--spacing-md);
+        }
+        
+        .modal-warning {
+            color: #ef4444;
+            font-size: 0.9rem;
+            margin-bottom: var(--spacing-lg);
+        }
+        
+        .modal-actions {
+            display: flex;
+            gap: var(--spacing-md);
+            justify-content: flex-end;
+        }
+        
+        .btn-danger {
+            background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
+            color: white;
+            border: none;
+        }
+        
+        .btn-danger:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(220, 38, 38, 0.4);
+        }
+        
+        @media (max-width: 768px) {
+            .bookshelf-header {
+                flex-direction: column;
+                gap: var(--spacing-md);
+                text-align: center;
+            }
+            
+            .books-grid {
+                justify-content: center;
+            }
+        }
+    </style>
 </body>
 </html>

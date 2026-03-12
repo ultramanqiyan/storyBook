@@ -1,47 +1,71 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>登录 - 卡牌互动小说</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <title>Sign In - StoryBook</title>
+    <link rel="stylesheet" href="/css/variables.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/animations.css">
+    <link rel="stylesheet" href="/css/components.css">
+    <link rel="stylesheet" href="/css/themes.css">
+    <link rel="stylesheet" href="/css/responsive.css">
 </head>
-<body>
-    <div class="container">
-        <header class="header">
-            <a href="/" class="logo">📚 卡牌互动小说</a>
-        </header>
-
-        <main class="main-content auth-page">
-            <div class="auth-card">
-                <h2>欢迎回来</h2>
-                <p class="auth-subtitle">登录或注册开始创作</p>
+<body class="theme-adventure">
+    <div class="particles-container" id="particles"></div>
+    
+    <nav class="navbar">
+        <a href="/" class="navbar-brand">StoryBook</a>
+        <div class="navbar-nav">
+            <a href="/" class="navbar-link">Home</a>
+            <a href="/bookshelf" class="navbar-link">Library</a>
+        </div>
+    </nav>
+    
+    <main class="auth-page">
+        <div class="auth-card">
+            <h2 class="auth-title">⚔️ Welcome Back</h2>
+            <p class="auth-subtitle">Sign in or create an account to begin your adventure</p>
+            
+            <form id="loginForm">
+                <div class="form-group">
+                    <label for="email" class="form-label">📧 Email</label>
+                    <input type="email" id="email" name="email" required 
+                           class="form-input"
+                           placeholder="Enter your email" autocomplete="email">
+                </div>
                 
-                <form id="loginForm" class="auth-form">
-                    <div class="form-group">
-                        <label for="email">邮箱</label>
-                        <input type="email" id="email" name="email" required 
-                               placeholder="请输入邮箱" autocomplete="email">
-                    </div>
-                    
-                    <div class="form-group">
-                        <label for="password">密码</label>
-                        <input type="password" id="password" name="password" required 
-                               placeholder="请输入密码 (6-20位)" autocomplete="current-password"
-                               minlength="6" maxlength="20">
-                    </div>
-                    
-                    <button type="submit" class="btn btn-primary btn-block" id="submitBtn">
-                        登录 / 注册
-                    </button>
-                </form>
+                <div class="form-group">
+                    <label for="password" class="form-label">🔑 Password</label>
+                    <input type="password" id="password" name="password" required 
+                           class="form-input"
+                           placeholder="Enter password (6-20 characters)" autocomplete="current-password"
+                           minlength="6" maxlength="20">
+                </div>
                 
-                <div id="message" class="message"></div>
+                <button type="submit" class="btn btn-3d" style="width: 100%;" id="submitBtn">
+                    Sign In / Sign Up
+                </button>
+            </form>
+            
+            <div id="message" class="message"></div>
+            
+            <div class="auth-divider">
+                <span>❧</span>
             </div>
-        </main>
-    </div>
-
+            
+            <div class="auth-footer">
+                <p>First time? An account will be created automatically</p>
+            </div>
+        </div>
+    </main>
+    
+    <script src="/js/main.js"></script>
     <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            createParticles(document.getElementById('particles'), 30);
+        });
+        
         document.getElementById('loginForm').addEventListener('submit', async (e) => {
             e.preventDefault();
             
@@ -51,7 +75,7 @@
             const submitBtn = document.getElementById('submitBtn');
             
             submitBtn.disabled = true;
-            submitBtn.textContent = '处理中...';
+            submitBtn.textContent = 'Processing...';
             messageEl.className = 'message';
             messageEl.textContent = '';
             
@@ -69,23 +93,119 @@
                     localStorage.setItem('userEmail', result.data.email);
                     
                     messageEl.className = 'message success';
-                    messageEl.textContent = result.data.is_new_user ? '注册成功！' : '登录成功！';
+                    messageEl.textContent = result.data.is_new_user ? '🎉 Account created!' : '✨ Welcome back!';
                     
                     setTimeout(() => {
                         window.location.href = '/bookshelf';
                     }, 1000);
                 } else {
                     messageEl.className = 'message error';
-                    messageEl.textContent = result.error || '操作失败';
+                    messageEl.textContent = result.error || 'Operation failed';
                 }
             } catch (error) {
                 messageEl.className = 'message error';
-                messageEl.textContent = '网络错误，请重试';
+                messageEl.textContent = 'Network error, please try again';
             } finally {
                 submitBtn.disabled = false;
-                submitBtn.textContent = '登录 / 注册';
+                submitBtn.textContent = 'Sign In / Sign Up';
             }
         });
     </script>
+    
+    <style>
+        .auth-page {
+            min-height: calc(100vh - 80px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: var(--spacing-xl);
+        }
+        
+        .auth-card {
+            background: var(--gradient-card);
+            border: 2px solid rgba(255, 215, 0, 0.3);
+            border-radius: var(--radius-xl);
+            padding: var(--spacing-xxl);
+            width: 100%;
+            max-width: 420px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .auth-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: var(--gradient-gold);
+        }
+        
+        .auth-title {
+            font-family: var(--font-medieval);
+            font-size: 2rem;
+            color: var(--color-gold);
+            text-align: center;
+            margin-bottom: var(--spacing-sm);
+        }
+        
+        .auth-subtitle {
+            font-family: var(--font-body);
+            color: var(--color-text-muted);
+            text-align: center;
+            margin-bottom: var(--spacing-xl);
+        }
+        
+        .message {
+            margin-top: var(--spacing-lg);
+            padding: var(--spacing-md);
+            border-radius: var(--radius-md);
+            text-align: center;
+            font-family: var(--font-body);
+            display: none;
+        }
+        
+        .message.success {
+            display: block;
+            background: rgba(34, 197, 94, 0.2);
+            border: 1px solid rgba(34, 197, 94, 0.5);
+            color: #22c55e;
+        }
+        
+        .message.error {
+            display: block;
+            background: rgba(220, 38, 38, 0.2);
+            border: 1px solid rgba(220, 38, 38, 0.5);
+            color: #ef4444;
+        }
+        
+        .auth-divider {
+            display: flex;
+            align-items: center;
+            margin: var(--spacing-xl) 0;
+            color: var(--color-gold);
+            opacity: 0.5;
+        }
+        
+        .auth-divider::before,
+        .auth-divider::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(255, 215, 0, 0.3), transparent);
+        }
+        
+        .auth-divider span {
+            padding: 0 var(--spacing-md);
+            font-family: var(--font-medieval);
+        }
+        
+        .auth-footer {
+            text-align: center;
+            color: var(--color-text-muted);
+            font-family: var(--font-body);
+        }
+    </style>
 </body>
 </html>

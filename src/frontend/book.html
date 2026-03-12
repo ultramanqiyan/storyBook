@@ -1,389 +1,892 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>书籍详情 - 卡牌互动小说</title>
-    <link rel="stylesheet" href="/css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Details - StoryBook</title>
+  <link rel="stylesheet" href="/css/variables.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/animations.css">
+  <link rel="stylesheet" href="/css/components.css">
+  <link rel="stylesheet" href="/css/themes.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <style>
+    .book-opening-page {
+      min-height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      perspective: 2000px;
+    }
+    
+    .book-container {
+      position: relative;
+      width: 90%;
+      max-width: 1200px;
+      height: 80vh;
+      min-height: 600px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .book-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 40px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #2a1a0a 0%, 
+        #4a3a2a 20%, 
+        #3a2a1a 50%, 
+        #4a3a2a 80%, 
+        #2a1a0a 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 20px rgba(0, 0, 0, 0.5),
+        inset 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    .book-spine::before {
+      content: '';
+      position: absolute;
+      top: 10%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 4px;
+      height: 80%;
+      background: linear-gradient(180deg, 
+        #8B4513 0%, 
+        #A0522D 50%, 
+        #8B4513 100%);
+      border-radius: 2px;
+    }
+    
+    .book-spine-title {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) rotate(-90deg);
+      white-space: nowrap;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #D4AF37;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+      letter-spacing: 2px;
+    }
+    
+    .book-page {
+      position: absolute;
+      width: calc(50% - 30px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .book-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .book-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-content {
+      position: relative;
+      height: 100%;
+      padding: 30px;
+      overflow-y: auto;
+      color: #2a1810;
+      z-index: 1;
+    }
+    
+    .view-tabs {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.3);
+    }
+    
+    .view-tab {
+      padding: 8px 20px;
+      background: rgba(139, 90, 43, 0.1);
+      border: 2px solid rgba(139, 90, 43, 0.3);
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #4a3a2a;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .view-tab:hover {
+      background: rgba(139, 90, 43, 0.2);
+      border-color: #8B4513;
+    }
+    
+    .view-tab.active {
+      background: rgba(139, 90, 43, 0.3);
+      border-color: #8B4513;
+      color: #2a1810;
+    }
+    
+    .chapter-list-view {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+    }
+    
+    .chapter-card {
+      padding: 15px;
+      background: rgba(139, 90, 43, 0.1);
+      border: 1px solid rgba(139, 90, 43, 0.2);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .chapter-card:hover {
+      background: rgba(139, 90, 43, 0.2);
+      transform: translateY(-2px);
+    }
+    
+    .chapter-card .chapter-number {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 12px;
+      color: #8B4513;
+      margin-bottom: 5px;
+    }
+    
+    .chapter-card .chapter-title {
+      font-family: 'Cinzel', serif;
+      font-size: 14px;
+      color: #2a1810;
+    }
+    
+    .chapter-card .chapter-status {
+      font-size: 11px;
+      color: #6a4a2a;
+      margin-top: 5px;
+    }
+    
+    .character-grid-view {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      justify-items: center;
+    }
+    
+    .character-card-mini {
+      width: 140px;
+      padding: 15px;
+      background: linear-gradient(135deg, rgba(26, 26, 46, 0.9) 0%, rgba(22, 33, 62, 0.9) 100%);
+      border: 2px solid #FFD700;
+      border-radius: 10px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .character-card-mini:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+    }
+    
+    .character-card-mini .avatar {
+      font-size: 40px;
+      margin-bottom: 10px;
+    }
+    
+    .character-card-mini .name {
+      font-family: 'Cinzel', serif;
+      font-size: 12px;
+      color: #FFD700;
+    }
+    
+    .character-card-mini .role {
+      font-size: 10px;
+      color: #a0a0a0;
+      margin-top: 5px;
+    }
+    
+    .plot-grid-view {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+    }
+    
+    .plot-card-mini {
+      padding: 15px;
+      background: linear-gradient(135deg, rgba(139, 0, 0, 0.2) 0%, rgba(80, 0, 0, 0.2) 100%);
+      border: 1px solid rgba(139, 0, 0, 0.3);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .plot-card-mini:hover {
+      transform: translateY(-3px);
+      border-color: #8B0000;
+    }
+    
+    .plot-card-mini .plot-icon {
+      font-size: 24px;
+      margin-bottom: 8px;
+    }
+    
+    .plot-card-mini .plot-title {
+      font-family: 'Cinzel', serif;
+      font-size: 13px;
+      color: #2a1810;
+    }
+    
+    .plot-card-mini .plot-desc {
+      font-size: 11px;
+      color: #4a3a2a;
+      margin-top: 5px;
+    }
+    
+    .book-info-header {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      padding: 20px;
+      background: rgba(139, 90, 43, 0.1);
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    
+    .book-cover-small {
+      width: 80px;
+      height: 110px;
+      background: linear-gradient(135deg, #2a4a2a 0%, #1a2a1a 100%);
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    .book-cover-small span {
+      font-size: 36px;
+    }
+    
+    .book-meta-info h2 {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 20px;
+      color: #2a1810;
+      margin-bottom: 5px;
+    }
+    
+    .book-meta-info .type-badge {
+      display: inline-block;
+      padding: 3px 10px;
+      background: #8B4513;
+      color: #f4e4bc;
+      border-radius: 4px;
+      font-size: 10px;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    
+    .book-meta-info .stats {
+      display: flex;
+      gap: 15px;
+      font-size: 12px;
+      color: #4a3a2a;
+    }
+    
+    .action-buttons {
+      display: flex;
+      gap: 10px;
+      margin-top: 15px;
+    }
+    
+    .action-btn {
+      padding: 10px 20px;
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border: 2px solid #D4AF37;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 13px;
+      color: #f4e4bc;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+    }
+    
+    .action-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
+    }
+    
+    .action-btn.secondary {
+      background: transparent;
+      color: #8B4513;
+    }
+    
+    @media (max-width: 900px) {
+      .book-container {
+        width: 95%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+      }
+      
+      .book-spine {
+        display: none;
+      }
+      
+      .book-page {
+        position: relative;
+        width: 100%;
+        height: auto;
+        min-height: 400px;
+        margin-bottom: 20px;
+      }
+      
+      .book-page.left,
+      .book-page.right {
+        border-radius: 8px;
+      }
+      
+      .chapter-list-view,
+      .character-grid-view,
+      .plot-grid-view {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
 </head>
-<body>
-    <div class="container">
-        <header class="header">
-            <a href="/bookshelf" class="logo">📚 卡牌互动小说</a>
-        </header>
-
-        <main class="main-content">
-            <div class="book-detail" id="bookDetail">
-                <div class="loading">加载中...</div>
-            </div>
-
-            <div class="tabs">
-                <button class="tab-btn active" data-tab="chapters">章节</button>
-                <button class="tab-btn" data-tab="characters">角色</button>
-                <button class="tab-btn" data-tab="cards">卡牌</button>
-            </div>
-
-            <div class="tab-content" id="chaptersTab">
-                <div class="section-header">
-                    <h3>章节列表</h3>
-                    <button onclick="showCreateChapterModal()" class="btn btn-primary btn-sm" id="addChapterBtn">+ 添加章节</button>
-                </div>
-                <div id="chaptersList" class="chapters-list"></div>
-            </div>
-
-            <div class="tab-content hidden" id="charactersTab">
-                <div class="section-header">
-                    <h3>角色卡牌</h3>
-                    <button onclick="showCreateCharacterModal()" class="btn btn-primary btn-sm" id="addCharBtn">+ 添加角色</button>
-                </div>
-                <div id="charactersList" class="character-grid"></div>
-            </div>
-
-            <div class="tab-content hidden" id="cardsTab">
-                <div class="section-header">
-                    <h3>情节卡牌</h3>
-                    <button onclick="showCreateCardModal()" class="btn btn-primary btn-sm" id="addCardBtn">+ 添加卡牌</button>
-                </div>
-                <div id="cardsList" class="card-grid"></div>
-            </div>
-        </main>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="/bookshelf" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="/bookshelf" class="navbar-link">My Library</a>
+      <a href="/" class="navbar-link" onclick="localStorage.clear()">Sign Out</a>
     </div>
-
-    <div id="createChapterModal" class="modal">
-        <div class="modal-content">
-            <h3>添加新章节</h3>
-            <form id="createChapterForm">
-                <div class="form-group">
-                    <label for="chapterTitle">章节标题</label>
-                    <input type="text" id="chapterTitle" required placeholder="输入章节标题">
-                </div>
-                <div class="form-group">
-                    <label for="chapterContent">章节内容</label>
-                    <textarea id="chapterContent" rows="6" placeholder="输入章节内容（可选）"></textarea>
-                </div>
-                <div class="modal-actions">
-                    <button type="button" onclick="hideCreateChapterModal()" class="btn">取消</button>
-                    <button type="submit" class="btn btn-primary">创建</button>
-                </div>
-            </form>
+  </nav>
+  
+  <div class="book-opening-page">
+    <div class="book-container">
+      <div class="book-spine">
+        <span class="book-spine-title" id="spineTitle">Loading...</span>
+      </div>
+      
+      <div class="book-page left">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div class="book-info-header" id="bookInfoHeader">
+            <div class="loading">Loading...</div>
+          </div>
+          
+          <div class="view-tabs">
+            <button class="view-tab active" data-view="chapters" onclick="switchView('chapters')">📜 Chapters</button>
+            <button class="view-tab" data-view="characters" onclick="switchView('characters')">👥 Characters</button>
+            <button class="view-tab" data-view="plots" onclick="switchView('plots')">🎭 Plots</button>
+          </div>
+          
+          <div id="leftPageContent"></div>
         </div>
-    </div>
-
-    <div id="createCharacterModal" class="modal">
-        <div class="modal-content">
-            <h3>添加新角色</h3>
-            <form id="createCharacterForm">
-                <div class="form-group">
-                    <label for="charName">角色名称</label>
-                    <input type="text" id="charName" required placeholder="输入角色名称">
-                </div>
-                <div class="form-group">
-                    <label for="charAvatar">头像</label>
-                    <input type="text" id="charAvatar" placeholder="表情符号" value="👤">
-                </div>
-                <div class="form-group">
-                    <label for="charRoleType">角色类型</label>
-                    <input type="text" id="charRoleType" placeholder="如：战士、法师、商人">
-                </div>
-                <div class="form-group">
-                    <label for="charPersonality">性格</label>
-                    <input type="text" id="charPersonality" placeholder="如：勇敢、聪明">
-                </div>
-                <div class="form-group">
-                    <label for="charSpeechStyle">说话方式</label>
-                    <input type="text" id="charSpeechStyle" placeholder="如：幽默、严肃">
-                </div>
-                <div class="form-group">
-                    <label>
-                        <input type="checkbox" id="charIsProtagonist"> 是否为主角
-                    </label>
-                </div>
-                <div class="modal-actions">
-                    <button type="button" onclick="hideCreateCharacterModal()" class="btn">取消</button>
-                    <button type="submit" class="btn btn-primary">创建</button>
-                </div>
-            </form>
+      </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent"></div>
         </div>
+      </div>
     </div>
-
-    <div id="createCardModal" class="modal">
-        <div class="modal-content">
-            <h3>添加新卡牌</h3>
-            <form id="createCardForm">
-                <div class="form-group">
-                    <label for="cardSubType">卡牌类型</label>
-                    <select id="cardSubType" required>
-                        <option value="weather">天气</option>
-                        <option value="terrain">地形</option>
-                        <option value="adventure">冒险</option>
-                        <option value="equipment">装备</option>
-                    </select>
-                </div>
-                <div class="form-group">
-                    <label for="cardName">卡牌名称</label>
-                    <input type="text" id="cardName" required placeholder="输入卡牌名称">
-                </div>
-                <div class="form-group">
-                    <label for="cardIcon">图标</label>
-                    <input type="text" id="cardIcon" placeholder="表情符号" value="⭐">
-                </div>
-                <div class="form-group">
-                    <label for="cardDescription">描述</label>
-                    <textarea id="cardDescription" rows="3" placeholder="输入卡牌描述"></textarea>
-                </div>
-                <div class="modal-actions">
-                    <button type="button" onclick="hideCreateCardModal()" class="btn">取消</button>
-                    <button type="submit" class="btn btn-primary">创建</button>
-                </div>
-            </form>
+  </div>
+  
+  <div id="createChapterModal" class="modal">
+    <div class="modal-content" style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.95) 0%, rgba(22, 33, 62, 0.95) 100%); border: 2px solid #FFD700; border-radius: 12px; padding: 24px; max-width: 400px;">
+      <h3 style="color: #FFD700; font-family: 'Cinzel', serif; margin-bottom: 16px;">Add New Chapter</h3>
+      <form id="createChapterForm">
+        <div class="form-group">
+          <label for="chapterTitle" style="color: #FFD700; font-family: 'Cinzel', serif;">Chapter Title</label>
+          <input type="text" id="chapterTitle" required placeholder="Enter chapter title" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
         </div>
+        <div class="form-group">
+          <label for="chapterContent" style="color: #FFD700; font-family: 'Cinzel', serif;">Chapter Content</label>
+          <textarea id="chapterContent" rows="6" placeholder="Enter chapter content (optional)" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px; resize: vertical;"></textarea>
+        </div>
+        <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px;">
+          <button type="button" onclick="hideCreateChapterModal()" style="padding: 10px 20px; background: transparent; border: 2px solid #FFD700; border-radius: 8px; color: #FFD700; cursor: pointer; font-family: 'Cinzel', serif;">Cancel</button>
+          <button type="submit" style="padding: 10px 20px; background: linear-gradient(180deg, #FFD700 0%, #B8860B 100%); border: none; border-radius: 8px; color: #1a1a2e; cursor: pointer; font-family: 'Cinzel', serif; font-weight: bold;">Create</button>
+        </div>
+      </form>
     </div>
-
-    <script>
-        const params = new URLSearchParams(window.location.search);
-        const bookId = params.get('id');
-        const userId = localStorage.getItem('userId');
-        let currentBook = null;
-
-        async function loadBookDetail() {
-            try {
-                const response = await fetch(`/api/books/${bookId}`);
-                const result = await response.json();
-                
-                if (result.success) {
-                    currentBook = result.data;
-                    renderBookDetail();
-                    loadChapters();
-                    loadCharacters();
-                    loadCards();
-                    
-                    if (currentBook.is_preset) {
-                        document.getElementById('addChapterBtn').style.display = 'none';
-                        document.getElementById('addCharBtn').style.display = 'none';
-                        document.getElementById('addCardBtn').style.display = 'none';
-                    }
-                }
-            } catch (error) {
-                console.error('加载失败:', error);
-            }
+  </div>
+  
+  <div id="createCharacterModal" class="modal">
+    <div class="modal-content" style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.95) 0%, rgba(22, 33, 62, 0.95) 100%); border: 2px solid #FFD700; border-radius: 12px; padding: 24px; max-width: 400px;">
+      <h3 style="color: #FFD700; font-family: 'Cinzel', serif; margin-bottom: 16px;">Add New Character</h3>
+      <form id="createCharacterForm">
+        <div class="form-group">
+          <label for="charName" style="color: #FFD700; font-family: 'Cinzel', serif;">Character Name</label>
+          <input type="text" id="charName" required placeholder="Enter character name" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
+        </div>
+        <div class="form-group">
+          <label for="charAvatar" style="color: #FFD700; font-family: 'Cinzel', serif;">Avatar</label>
+          <input type="text" id="charAvatar" placeholder="Emoji" value="👤" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
+        </div>
+        <div class="form-group">
+          <label for="charRoleType" style="color: #FFD700; font-family: 'Cinzel', serif;">Role Type</label>
+          <input type="text" id="charRoleType" placeholder="e.g., Warrior, Mage, Merchant" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
+        </div>
+        <div class="form-group">
+          <label for="charPersonality" style="color: #FFD700; font-family: 'Cinzel', serif;">Personality</label>
+          <input type="text" id="charPersonality" placeholder="e.g., Brave, Clever" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
+        </div>
+        <div class="form-group">
+          <label for="charSpeechStyle" style="color: #FFD700; font-family: 'Cinzel', serif;">Speech Style</label>
+          <input type="text" id="charSpeechStyle" placeholder="e.g., Humorous, Serious" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
+        </div>
+        <div class="form-group">
+          <label style="color: #f5f5f5; display: flex; align-items: center; gap: 8px;">
+            <input type="checkbox" id="charIsProtagonist" style="width: 18px; height: 18px;"> Is Protagonist
+          </label>
+        </div>
+        <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px;">
+          <button type="button" onclick="hideCreateCharacterModal()" style="padding: 10px 20px; background: transparent; border: 2px solid #FFD700; border-radius: 8px; color: #FFD700; cursor: pointer; font-family: 'Cinzel', serif;">Cancel</button>
+          <button type="submit" style="padding: 10px 20px; background: linear-gradient(180deg, #FFD700 0%, #B8860B 100%); border: none; border-radius: 8px; color: #1a1a2e; cursor: pointer; font-family: 'Cinzel', serif; font-weight: bold;">Create</button>
+        </div>
+      </form>
+    </div>
+  </div>
+  
+  <div id="createCardModal" class="modal">
+    <div class="modal-content" style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.95) 0%, rgba(22, 33, 62, 0.95) 100%); border: 2px solid #FFD700; border-radius: 12px; padding: 24px; max-width: 400px;">
+      <h3 style="color: #FFD700; font-family: 'Cinzel', serif; margin-bottom: 16px;">Add New Card</h3>
+      <form id="createCardForm">
+        <div class="form-group">
+          <label for="cardSubType" style="color: #FFD700; font-family: 'Cinzel', serif;">Card Type</label>
+          <select id="cardSubType" required style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
+            <option value="weather">Weather</option>
+            <option value="terrain">Terrain</option>
+            <option value="adventure">Adventure</option>
+            <option value="equipment">Equipment</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="cardName" style="color: #FFD700; font-family: 'Cinzel', serif;">Card Name</label>
+          <input type="text" id="cardName" required placeholder="Enter card name" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
+        </div>
+        <div class="form-group">
+          <label for="cardIcon" style="color: #FFD700; font-family: 'Cinzel', serif;">Icon</label>
+          <input type="text" id="cardIcon" placeholder="Emoji" value="⭐" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px;">
+        </div>
+        <div class="form-group">
+          <label for="cardDescription" style="color: #FFD700; font-family: 'Cinzel', serif;">Description</label>
+          <textarea id="cardDescription" rows="3" placeholder="Enter card description" style="width: 100%; padding: 12px; background: rgba(255,255,255,0.1); border: 2px solid rgba(255,215,0,0.3); border-radius: 8px; color: #f5f5f5; font-size: 16px; resize: vertical;"></textarea>
+        </div>
+        <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px;">
+          <button type="button" onclick="hideCreateCardModal()" style="padding: 10px 20px; background: transparent; border: 2px solid #FFD700; border-radius: 8px; color: #FFD700; cursor: pointer; font-family: 'Cinzel', serif;">Cancel</button>
+          <button type="submit" style="padding: 10px 20px; background: linear-gradient(180deg, #FFD700 0%, #B8860B 100%); border: none; border-radius: 8px; color: #1a1a2e; cursor: pointer; font-family: 'Cinzel', serif; font-weight: bold;">Create</button>
+        </div>
+      </form>
+    </div>
+  </div>
+  
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const bookId = params.get('id');
+    const userId = localStorage.getItem('userId');
+    let currentBook = null;
+    let currentView = 'chapters';
+    let chaptersData = [];
+    let charactersData = [];
+    let cardsData = [];
+    
+    function createParticles(container, count) {
+      if (!container) return;
+      for (let i = 0; i < count; i++) {
+        const particle = document.createElement('div');
+        particle.className = 'particle';
+        particle.style.left = Math.random() * 100 + '%';
+        particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
+        particle.style.animationDelay = Math.random() * 10 + 's';
+        container.appendChild(particle);
+      }
+    }
+    
+    async function loadBookDetail() {
+      try {
+        const response = await fetch(`/api/books/${bookId}`);
+        const result = await response.json();
+        
+        if (result.success) {
+          currentBook = result.data;
+          renderBookDetail();
+          loadChapters();
+          loadCharacters();
+          loadCards();
+          
+          if (currentBook.is_preset) {
+            document.getElementById('addChapterBtn')?.style.setProperty('display', 'none');
+          }
         }
-
-        function renderBookDetail() {
-            document.getElementById('bookDetail').innerHTML = `
-                <div class="book-header">
-                    <div class="book-cover-large">${getBookIcon(currentBook.type)}</div>
-                    <div class="book-meta">
-                        <h1>${currentBook.title}</h1>
-                        <span class="book-type">${getTypeName(currentBook.type)}</span>
-                        ${currentBook.is_preset ? '<span class="preset-badge">预设</span>' : ''}
-                    </div>
-                </div>
-            `;
-        }
-
-        async function loadChapters() {
-            const response = await fetch(`/api/chapters?book_id=${bookId}`);
-            const result = await response.json();
-            const container = document.getElementById('chaptersList');
-            
-            if (result.success && result.data.length > 0) {
-                container.innerHTML = result.data.map(ch => `
-                    <div class="chapter-item" onclick="location.href='/chapter?id=${ch.chapter_id}'">
-                        <span class="chapter-order">第${ch.order_num}章</span>
-                        <span class="chapter-title">${ch.title}</span>
-                        <span class="chapter-arrow">→</span>
-                    </div>
-                `).join('');
-            } else {
-                container.innerHTML = '<p class="empty">暂无章节</p>';
-            }
-        }
-
-        async function loadCharacters() {
-            const response = await fetch(`/api/characters?book_id=${bookId}`);
-            const result = await response.json();
-            const container = document.getElementById('charactersList');
-            
-            if (result.success && result.data.length > 0) {
-                container.innerHTML = result.data.map(char => `
-                    <div class="character-card">
-                        <div class="char-avatar">${char.avatar}</div>
-                        <div class="char-info">
-                            <h4>${char.name}</h4>
-                            <span class="char-role">${char.role_type || ''}</span>
-                            ${char.is_protagonist ? '<span class="protagonist-badge">主角</span>' : ''}
-                        </div>
-                    </div>
-                `).join('');
-            } else {
-                container.innerHTML = '<p class="empty">暂无角色</p>';
-            }
-        }
-
-        async function loadCards() {
-            const response = await fetch(`/api/plot-cards?book_id=${bookId}`);
-            const result = await response.json();
-            const container = document.getElementById('cardsList');
-            
-            if (result.success && result.data.length > 0) {
-                container.innerHTML = result.data.map(card => `
-                    <div class="plot-card">
-                        <span class="card-icon">${card.icon}</span>
-                        <div class="card-info">
-                            <h4>${card.name}</h4>
-                            <span class="card-type">${card.sub_type}</span>
-                        </div>
-                    </div>
-                `).join('');
-            } else {
-                container.innerHTML = '<p class="empty">暂无卡牌</p>';
-            }
-        }
-
-        document.querySelectorAll('.tab-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
-                document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-                document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden'));
-                btn.classList.add('active');
-                document.getElementById(btn.dataset.tab + 'Tab').classList.remove('hidden');
-            });
+      } catch (error) {
+        console.error('Load failed:', error);
+      }
+    }
+    
+    function renderBookDetail() {
+      document.getElementById('spineTitle').textContent = currentBook.title;
+      
+      const icon = getBookIcon(currentBook.type);
+      const typeName = getTypeName(currentBook.type);
+      
+      document.getElementById('bookInfoHeader').innerHTML = `
+        <div class="book-cover-small">
+          <span>${icon}</span>
+        </div>
+        <div class="book-meta-info">
+          <span class="type-badge">${typeName}</span>
+          ${currentBook.is_preset ? '<span class="preset-badge" style="margin-left: 8px; padding: 3px 10px; background: #8B4513; color: #f4e4bc; border-radius: 4px; font-size: 10px;">Preset</span>' : ''}
+          <h2 style="font-family: \'MedievalSharp\', cursive; font-size: 20px; color: #2a1810; margin-bottom: 5px;">${currentBook.title}</h2>
+          <div class="stats" style="display: flex; gap: 15px; font-size: 12px; color: #4a3a2a;">
+            <span id="chapterCount">📜 Loading...</span>
+            <span id="characterCount">👥 Loading...</span>
+          </div>
+          <div class="action-buttons" style="display: flex; gap: 10px; margin-top: 15px;">
+            <a href="chapter.html?id=first&bookId=${bookId}" class="action-btn">Continue Reading</a>
+            <a href="director.html?bookId=${bookId}" class="action-btn secondary">Direct New Chapter</a>
+          </div>
+        </div>
+      `;
+    }
+    
+    async function loadChapters() {
+      const response = await fetch(`/api/chapters?book_id=${bookId}`);
+      const result = await response.json();
+      chaptersData = result.success ? result.data : [];
+      document.getElementById('chapterCount').textContent = `📜 ${chaptersData.length} Chapters`;
+      renderBookPages();
+    }
+    
+    async function loadCharacters() {
+      const response = await fetch(`/api/characters?book_id=${bookId}`);
+      const result = await response.json();
+      charactersData = result.success ? result.data : [];
+      document.getElementById('characterCount').textContent = `👥 ${charactersData.length} Characters`;
+      renderBookPages();
+    }
+    
+    async function loadCards() {
+      const response = await fetch(`/api/plot-cards?book_id=${bookId}`);
+      const result = await response.json();
+      cardsData = result.success ? result.data : [];
+      renderBookPages();
+    }
+    
+    function switchView(view) {
+      currentView = view;
+      document.querySelectorAll('.view-tab').forEach(tab => {
+        tab.classList.toggle('active', tab.dataset.view === view);
+      });
+      renderBookPages();
+    }
+    
+    function renderBookPages() {
+      const leftContent = document.getElementById('leftPageContent');
+      const rightContent = document.getElementById('rightPageContent');
+      
+      if (currentView === 'chapters') {
+        const half = Math.ceil(chaptersData.length / 2);
+        const leftChapters = chaptersData.slice(0, half);
+        const rightChapters = chaptersData.slice(half);
+        
+        leftContent.innerHTML = `
+          <div class="chapter-list-view">
+            ${leftChapters.map(ch => renderChapterCard(ch)).join('')}
+            ${!currentBook?.is_preset ? `
+              <div class="chapter-card" onclick="showCreateChapterModal()" style="border: 2px dashed rgba(139, 90, 43, 0.3); text-align: center;">
+                <div class="chapter-title" style="color: #8B4513;">+ Add Chapter</div>
+              </div>
+            ` : ''}
+          </div>
+        `;
+        
+        rightContent.innerHTML = `
+          <div class="chapter-list-view">
+            ${rightChapters.map(ch => renderChapterCard(ch)).join('')}
+          </div>
+        `;
+      } else if (currentView === 'characters') {
+        const half = Math.ceil(charactersData.length / 2);
+        const leftChars = charactersData.slice(0, half);
+        const rightChars = charactersData.slice(half);
+        
+        leftContent.innerHTML = `
+          <div class="character-grid-view">
+            ${leftChars.map(char => renderCharacterCard(char)).join('')}
+          </div>
+        `;
+        
+        rightContent.innerHTML = `
+          <div class="character-grid-view">
+            ${rightChars.map(char => renderCharacterCard(char)).join('')}
+          </div>
+        `;
+      } else if (currentView === 'plots') {
+        const half = Math.ceil(cardsData.length / 2);
+        const leftCards = cardsData.slice(0, half);
+        const rightCards = cardsData.slice(half);
+        
+        leftContent.innerHTML = `
+          <div class="plot-grid-view">
+            ${leftCards.map(card => renderPlotCard(card)).join('')}
+          </div>
+        `;
+        
+        rightContent.innerHTML = `
+          <div class="plot-grid-view">
+            ${rightCards.map(card => renderPlotCard(card)).join('')}
+          </div>
+        `;
+      }
+    }
+    
+    function renderChapterCard(chapter) {
+      const statusIcon = {
+        'read': '✓ Read',
+        'current': '📖 Current',
+        'locked': '🔒 Locked'
+      };
+      const status = chapter.is_solved ? 'read' : 'current';
+      
+      return `
+        <div class="chapter-card" onclick="location.href='/chapter?id=${chapter.chapter_id}'">
+          <div class="chapter-number">Chapter ${chapter.order_num}</div>
+          <div class="chapter-title">${chapter.title}</div>
+          <div class="chapter-status">${statusIcon[status]}</div>
+        </div>
+      `;
+    }
+    
+    function renderCharacterCard(char) {
+      return `
+        <div class="character-card-mini">
+          <div class="avatar">${char.avatar || '👤'}</div>
+          <div class="name">${char.name}</div>
+          <div class="role">${char.role_type || ''} ${char.is_protagonist ? '⭐' : ''}</div>
+        </div>
+      `;
+    }
+    
+    function renderPlotCard(card) {
+      return `
+        <div class="plot-card-mini">
+          <div class="plot-icon">${card.icon || '⭐'}</div>
+          <div class="plot-title">${card.name}</div>
+          <div class="plot-desc">${card.sub_type || ''}</div>
+        </div>
+      `;
+    }
+    
+    function showCreateChapterModal() {
+      document.getElementById('createChapterModal').style.display = 'flex';
+    }
+    
+    function hideCreateChapterModal() {
+      document.getElementById('createChapterModal').style.display = 'none';
+      document.getElementById('createChapterForm').reset();
+    }
+    
+    function showCreateCharacterModal() {
+      document.getElementById('createCharacterModal').style.display = 'flex';
+    }
+    
+    function hideCreateCharacterModal() {
+      document.getElementById('createCharacterModal').style.display = 'none';
+      document.getElementById('createCharacterForm').reset();
+    }
+    
+    function showCreateCardModal() {
+      document.getElementById('createCardModal').style.display = 'flex';
+    }
+    
+    function hideCreateCardModal() {
+      document.getElementById('createCardModal').style.display = 'none';
+      document.getElementById('createCardForm').reset();
+    }
+    
+    document.getElementById('createChapterForm').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const title = document.getElementById('chapterTitle').value;
+      const content = document.getElementById('chapterContent').value;
+      
+      try {
+        const response = await fetch('/api/chapters', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ book_id: bookId, title, content })
         });
-
-        function showCreateChapterModal() {
-            document.getElementById('createChapterModal').style.display = 'flex';
+        
+        const result = await response.json();
+        if (result.success) {
+          hideCreateChapterModal();
+          loadChapters();
+        } else {
+          alert(result.error || 'Create failed');
         }
-
-        function hideCreateChapterModal() {
-            document.getElementById('createChapterModal').style.display = 'none';
-            document.getElementById('createChapterForm').reset();
-        }
-
-        function showCreateCharacterModal() {
-            document.getElementById('createCharacterModal').style.display = 'flex';
-        }
-
-        function hideCreateCharacterModal() {
-            document.getElementById('createCharacterModal').style.display = 'none';
-            document.getElementById('createCharacterForm').reset();
-        }
-
-        function showCreateCardModal() {
-            document.getElementById('createCardModal').style.display = 'flex';
-        }
-
-        function hideCreateCardModal() {
-            document.getElementById('createCardModal').style.display = 'none';
-            document.getElementById('createCardForm').reset();
-        }
-
-        document.getElementById('createChapterForm').addEventListener('submit', async (e) => {
-            e.preventDefault();
-            const title = document.getElementById('chapterTitle').value;
-            const content = document.getElementById('chapterContent').value;
-
-            try {
-                const response = await fetch('/api/chapters', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ 
-                        book_id: bookId, 
-                        title, 
-                        content
-                    })
-                });
-
-                const result = await response.json();
-                if (result.success) {
-                    hideCreateChapterModal();
-                    loadChapters();
-                } else {
-                    alert(result.error || '创建失败');
-                }
-            } catch (error) {
-                alert('网络错误');
-            }
+      } catch (error) {
+        alert('Network error');
+      }
+    });
+    
+    document.getElementById('createCharacterForm').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const name = document.getElementById('charName').value;
+      const avatar = document.getElementById('charAvatar').value || '👤';
+      const role_type = document.getElementById('charRoleType').value;
+      const personality = document.getElementById('charPersonality').value;
+      const speech_style = document.getElementById('charSpeechStyle').value;
+      const is_protagonist = document.getElementById('charIsProtagonist').checked;
+      
+      try {
+        const response = await fetch('/api/characters', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ 
+            book_id: bookId, name, avatar, role_type, personality, speech_style, is_protagonist
+          })
         });
-
-        document.getElementById('createCharacterForm').addEventListener('submit', async (e) => {
-            e.preventDefault();
-            const name = document.getElementById('charName').value;
-            const avatar = document.getElementById('charAvatar').value || '👤';
-            const role_type = document.getElementById('charRoleType').value;
-            const personality = document.getElementById('charPersonality').value;
-            const speech_style = document.getElementById('charSpeechStyle').value;
-            const is_protagonist = document.getElementById('charIsProtagonist').checked;
-
-            try {
-                const response = await fetch('/api/characters', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ 
-                        book_id: bookId, 
-                        name, 
-                        avatar,
-                        role_type,
-                        personality,
-                        speech_style,
-                        is_protagonist
-                    })
-                });
-
-                const result = await response.json();
-                if (result.success) {
-                    hideCreateCharacterModal();
-                    loadCharacters();
-                } else {
-                    alert(result.error || '创建失败');
-                }
-            } catch (error) {
-                alert('网络错误');
-            }
-        });
-
-        document.getElementById('createCardForm').addEventListener('submit', async (e) => {
-            e.preventDefault();
-            const sub_type = document.getElementById('cardSubType').value;
-            const name = document.getElementById('cardName').value;
-            const icon = document.getElementById('cardIcon').value || '⭐';
-            const description = document.getElementById('cardDescription').value;
-
-            try {
-                const response = await fetch('/api/plot-cards', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ 
-                        book_id: bookId, 
-                        type: 'plot',
-                        sub_type, 
-                        name, 
-                        icon,
-                        description
-                    })
-                });
-
-                const result = await response.json();
-                if (result.success) {
-                    hideCreateCardModal();
-                    loadCards();
-                } else {
-                    alert(result.error || '创建失败');
-                }
-            } catch (error) {
-                alert('网络错误');
-            }
-        });
-
-        function getBookIcon(type) {
-            const icons = { 'adventure': '🗺️', 'fantasy': '🧙', 'romance': '💕', 'business': '💼' };
-            return icons[type] || '📖';
+        
+        const result = await response.json();
+        if (result.success) {
+          hideCreateCharacterModal();
+          loadCharacters();
+        } else {
+          alert(result.error || 'Create failed');
         }
-
-        function getTypeName(type) {
-            const names = { 'adventure': '冒险', 'fantasy': '魔幻', 'romance': '言情', 'business': '职场' };
-            return names[type] || type;
+      } catch (error) {
+        alert('Network error');
+      }
+    });
+    
+    document.getElementById('createCardForm').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const sub_type = document.getElementById('cardSubType').value;
+      const name = document.getElementById('cardName').value;
+      const icon = document.getElementById('cardIcon').value || '⭐';
+      const description = document.getElementById('cardDescription').value;
+      
+      try {
+        const response = await fetch('/api/plot-cards', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ 
+            book_id: bookId, type: 'plot', sub_type, name, icon, description
+          })
+        });
+        
+        const result = await response.json();
+        if (result.success) {
+          hideCreateCardModal();
+          loadCards();
+        } else {
+          alert(result.error || 'Create failed');
         }
-
-        loadBookDetail();
-    </script>
+      } catch (error) {
+        alert('Network error');
+      }
+    });
+    
+    function getBookIcon(type) {
+      const icons = { 'adventure': '🗺️', 'fantasy': '🧙', 'romance': '💕', 'business': '💼' };
+      return icons[type] || '📖';
+    }
+    
+    function getTypeName(type) {
+      const names = { 'adventure': 'Adventure', 'fantasy': 'Fantasy', 'romance': 'Romance', 'business': 'Business' };
+      return names[type] || type;
+    }
+    
+    document.addEventListener('DOMContentLoaded', function() {
+      createParticles(document.getElementById('particles'), 30);
+      loadBookDetail();
+    });
+  </script>
 </body>
 </html>

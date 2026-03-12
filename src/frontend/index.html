@@ -1,64 +1,116 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>卡牌互动小说</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <title>StoryBook - Card-Based Interactive Fiction</title>
+    <link rel="stylesheet" href="/css/variables.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/animations.css">
+    <link rel="stylesheet" href="/css/components.css">
+    <link rel="stylesheet" href="/css/themes.css">
+    <link rel="stylesheet" href="/css/responsive.css">
 </head>
-<body>
-    <div class="container">
-        <header class="header">
-            <h1>📚 卡牌互动小说</h1>
-            <p class="subtitle">创造属于你的故事</p>
-        </header>
-
-        <main class="main-content">
-            <section class="hero">
-                <div class="hero-content">
-                    <h2>用卡牌编织故事</h2>
-                    <p>选择角色、场景和情节，让每一次阅读都是独特的冒险</p>
-                    <div class="cta-buttons">
-                        <a href="/login" class="btn btn-primary">开始创作</a>
-                        <a href="/bookshelf" class="btn btn-secondary">浏览书架</a>
-                    </div>
+<body class="theme-adventure">
+    <div class="particles-container" id="particles"></div>
+    
+    <nav class="navbar">
+        <a href="/" class="navbar-brand">StoryBook</a>
+        <div class="navbar-nav">
+            <a href="/login" class="navbar-link">Sign In</a>
+            <a href="/bookshelf" class="navbar-link">My Library</a>
+        </div>
+    </nav>
+    
+    <main class="hero-section">
+        <div class="hero-content">
+            <h1 class="hero-title animate-fade-in">StoryBook</h1>
+            <p class="hero-subtitle animate-slide-up">Card-Based Interactive Fiction</p>
+            <p class="hero-description animate-slide-up" style="animation-delay: 0.2s;">
+                Choose your characters, scenes, and plots. Every reading is a unique adventure.
+                You are the director of your own legendary tale.
+            </p>
+            <div class="hero-buttons animate-slide-up" style="animation-delay: 0.4s;">
+                <a href="/login" class="btn btn-3d">Start Your Journey</a>
+                <a href="/bookshelf" class="btn btn-secondary">Browse Library</a>
+            </div>
+        </div>
+        
+        <div class="hero-cards">
+            <div class="hs-card protagonist animate-float" style="animation-delay: 0s;">
+                <div class="hs-card-avatar">
+                    <span class="avatar-placeholder">🧙‍♂️</span>
                 </div>
-            </section>
-
-            <section class="features">
+                <div class="hs-card-name">Sir Galahad</div>
+                <div class="hs-card-gems">
+                    <span class="gem">⚔️</span>
+                    <span class="gem">🛡️</span>
+                </div>
+            </div>
+            <div class="hs-card supporter animate-float" style="animation-delay: 0.5s;">
+                <div class="hs-card-avatar">
+                    <span class="avatar-placeholder">👸</span>
+                </div>
+                <div class="hs-card-name">Lady Elara</div>
+                <div class="hs-card-gems">
+                    <span class="gem">✨</span>
+                    <span class="gem">🔮</span>
+                </div>
+            </div>
+            <div class="hs-card antagonist animate-float" style="animation-delay: 1s;">
+                <div class="hs-card-avatar">
+                    <span class="avatar-placeholder">🐉</span>
+                </div>
+                <div class="hs-card-name">Ancient Dragon</div>
+                <div class="hs-card-gems">
+                    <span class="gem">🔥</span>
+                    <span class="gem">💀</span>
+                </div>
+            </div>
+        </div>
+    </main>
+    
+    <section class="features-section">
+        <div class="container">
+            <h2 class="section-title">✨ Features</h2>
+            <div class="features-grid">
                 <div class="feature-card">
-                    <span class="feature-icon">🎭</span>
-                    <h3>角色卡牌</h3>
-                    <p>创建独特的角色，定义他们的性格和说话风格</p>
+                    <div class="feature-icon">🎭</div>
+                    <h3 class="feature-title">Character Cards</h3>
+                    <p class="feature-description">Create unique characters with distinct personalities and speech styles.</p>
                 </div>
                 <div class="feature-card">
-                    <span class="feature-icon">🗺️</span>
-                    <h3>情节卡牌</h3>
-                    <p>选择天气、地形、冒险类型，构建精彩剧情</p>
+                    <div class="feature-icon">🗺️</div>
+                    <h3 class="feature-title">Plot Cards</h3>
+                    <p class="feature-description">Choose weather, terrain, and adventure types to craft compelling narratives.</p>
                 </div>
                 <div class="feature-card">
-                    <span class="feature-icon">🧩</span>
-                    <h3>互动谜题</h3>
-                    <p>在故事中穿插谜题，增加阅读趣味</p>
+                    <div class="feature-icon">🧩</div>
+                    <h3 class="feature-title">Interactive Puzzles</h3>
+                    <p class="feature-description">Add puzzles to your stories for an engaging reading experience.</p>
                 </div>
-            </section>
-
-            <section class="preset-books">
-                <h2>预设故事</h2>
-                <div class="book-grid" id="presetBooks">
-                    <div class="loading">加载中...</div>
-                </div>
-            </section>
-        </main>
-
-        <footer class="footer">
-            <p>&copy; 2026 卡牌互动小说 | Powered by Cloudflare</p>
-        </footer>
-    </div>
-
-    <script src="/js/api.js"></script>
+            </div>
+        </div>
+    </section>
+    
+    <section class="books-section">
+        <div class="container">
+            <h2 class="section-title">📖 Featured Stories</h2>
+            <div class="books-grid" id="presetBooks">
+                <div class="loading-spinner"></div>
+            </div>
+        </div>
+    </section>
+    
+    <footer class="footer">
+        <p>&copy; 2026 StoryBook - Card-Based Interactive Fiction</p>
+    </footer>
+    
+    <script src="/js/main.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', async () => {
+            createParticles(document.getElementById('particles'), 40);
+            
             try {
                 const response = await fetch('/api/books/preset');
                 const result = await response.json();
@@ -66,41 +118,187 @@
                 if (result.success && result.data.length > 0) {
                     const container = document.getElementById('presetBooks');
                     container.innerHTML = result.data.map(book => `
-                        <div class="book-card" onclick="location.href='/book?id=${book.book_id}'">
-                            <div class="book-cover">${getBookIcon(book.type)}</div>
-                            <div class="book-info">
-                                <h3>${book.title}</h3>
-                                <span class="book-type">${getTypeName(book.type)}</span>
+                        <div class="book-3d" onclick="location.href='/book?id=${book.book_id}'">
+                            <div class="book-cover">
+                                <span style="font-size: 64px;">${getBookIcon(book.type)}</span>
+                                <div class="book-title">${book.title}</div>
+                                <span class="book-tag">${getTypeName(book.type)}</span>
                             </div>
+                            <div class="book-spine"></div>
+                            <div class="book-pages"></div>
                         </div>
                     `).join('');
                 } else {
-                    document.getElementById('presetBooks').innerHTML = '<p>暂无预设故事</p>';
+                    document.getElementById('presetBooks').innerHTML = '<p class="text-muted">No stories available</p>';
                 }
             } catch (error) {
-                document.getElementById('presetBooks').innerHTML = '<p>加载失败</p>';
+                document.getElementById('presetBooks').innerHTML = '<p class="text-muted">Failed to load stories</p>';
             }
         });
 
         function getBookIcon(type) {
-            const icons = {
-                'adventure': '🗺️',
-                'fantasy': '🧙',
-                'romance': '💕',
-                'business': '💼'
-            };
+            const icons = { 'adventure': '🗺️', 'fantasy': '🧙', 'romance': '💕', 'business': '💼' };
             return icons[type] || '📖';
         }
 
         function getTypeName(type) {
-            const names = {
-                'adventure': '冒险',
-                'fantasy': '魔幻',
-                'romance': '言情',
-                'business': '职场'
-            };
+            const names = { 'adventure': 'Adventure', 'fantasy': 'Fantasy', 'romance': 'Romance', 'business': 'Business' };
             return names[type] || type;
         }
     </script>
+    
+    <style>
+        .hero-section {
+            min-height: calc(100vh - 60px);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 100px var(--spacing-xl) var(--spacing-xxl);
+            max-width: 1200px;
+            margin: 0 auto;
+            gap: var(--spacing-xxl);
+        }
+        
+        .hero-content {
+            flex: 1;
+            max-width: 500px;
+        }
+        
+        .hero-title {
+            font-size: 4rem;
+            margin-bottom: var(--spacing-md);
+        }
+        
+        .hero-subtitle {
+            font-family: var(--font-title);
+            font-size: 1.5rem;
+            color: var(--color-gold);
+            margin-bottom: var(--spacing-lg);
+            letter-spacing: 2px;
+        }
+        
+        .hero-description {
+            font-family: var(--font-body);
+            font-size: 1.2rem;
+            color: var(--color-text);
+            line-height: 1.8;
+            margin-bottom: var(--spacing-xl);
+        }
+        
+        .hero-buttons {
+            display: flex;
+            gap: var(--spacing-lg);
+            flex-wrap: wrap;
+        }
+        
+        .hero-cards {
+            display: flex;
+            gap: var(--spacing-lg);
+            perspective: 1000px;
+        }
+        
+        .features-section {
+            padding: var(--spacing-xxl) var(--spacing-xl);
+            background: rgba(0, 0, 0, 0.2);
+        }
+        
+        .section-title {
+            font-family: var(--font-medieval);
+            font-size: 2rem;
+            color: var(--color-gold);
+            text-align: center;
+            margin-bottom: var(--spacing-xl);
+        }
+        
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: var(--spacing-xl);
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        .feature-card {
+            background: var(--gradient-card);
+            border: 2px solid rgba(255, 215, 0, 0.2);
+            border-radius: var(--radius-lg);
+            padding: var(--spacing-xl);
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+        
+        .feature-card:hover {
+            border-color: var(--color-gold);
+            transform: translateY(-5px);
+            box-shadow: var(--shadow-gold);
+        }
+        
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: var(--spacing-md);
+        }
+        
+        .feature-title {
+            font-family: var(--font-title);
+            font-size: 1.2rem;
+            color: var(--color-gold);
+            margin-bottom: var(--spacing-sm);
+        }
+        
+        .feature-description {
+            color: var(--color-text-muted);
+            line-height: 1.6;
+        }
+        
+        .books-section {
+            padding: var(--spacing-xxl) var(--spacing-xl);
+        }
+        
+        .books-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: var(--spacing-xl);
+            justify-content: center;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: var(--spacing-xl);
+            border-top: 1px solid rgba(255, 215, 0, 0.2);
+            color: var(--color-text-muted);
+            font-family: var(--font-title);
+        }
+        
+        @media (max-width: 900px) {
+            .hero-section {
+                flex-direction: column;
+                text-align: center;
+                padding-top: 100px;
+            }
+            
+            .hero-content {
+                max-width: 100%;
+            }
+            
+            .hero-buttons {
+                justify-content: center;
+            }
+            
+            .hero-cards {
+                margin-top: var(--spacing-xl);
+            }
+        }
+        
+        @media (max-width: 600px) {
+            .hero-title {
+                font-size: 2.5rem;
+            }
+            
+            .hero-cards {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
 </body>
 </html>
