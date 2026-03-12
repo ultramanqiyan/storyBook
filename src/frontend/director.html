@@ -702,7 +702,7 @@
   <script src="js/main.js"></script>
   <script src="js/theme.js"></script>
   <script>
-    const selections = {
+    window.selections = {
       protagonist: null,
       supporting: [],
       adventure: null,
@@ -814,7 +814,7 @@
       stage.classList.add('shake');
       setTimeout(() => stage.classList.remove('shake'), 500);
       
-      const cardId = card.char_id;
+      const cardId = card.char_id || card.card_id;
       
       if (type === 'protagonist') {
         if (selections.protagonist && selections.protagonist.char_id === cardId) {
@@ -837,7 +837,7 @@
           return;
         }
       } else if (type === 'adventure' || type === 'terrain' || type === 'weather' || type === 'equipment') {
-        if (selections[type] && selections[type].card_id === cardId) {
+        if (selections[type] && (selections[type].card_id || selections[type].char_id) === cardId) {
           selections[type] = null;
           showNotification('Deselected: ' + card.name, 'info');
           if (type === 'weather') clearWeatherEffect();

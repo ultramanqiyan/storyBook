@@ -27,13 +27,21 @@ class DatabaseHelper {
     }
 
     const files = fs.readdirSync(miniflarePath);
-    for (const file of files) {
-      if (file.endsWith('.sqlite')) {
-        return path.join(miniflarePath, file);
-      }
+    const sqliteFiles = files.filter(f => f.endsWith('.sqlite'));
+    
+    if (sqliteFiles.length === 0) {
+      return null;
     }
 
-    return null;
+    const filesWithStats = sqliteFiles.map(f => ({
+      name: f,
+      path: path.join(miniflarePath, f),
+      mtime: fs.statSync(path.join(miniflarePath, f)).mtime.getTime()
+    }));
+
+    filesWithStats.sort((a, b) => b.mtime - a.mtime);
+    
+    return filesWithStats[0].path;
   }
 
   connect() {

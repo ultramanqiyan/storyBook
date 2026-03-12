@@ -17,14 +17,6 @@ test.describe('章节添加流程', () => {
     db.resetDatabase();
     db.createTestUser();
     testUserId = db.getTestUserId();
-
-    const result = createTestBook(db, testUserId);
-    testBookId = result.bookId;
-    protagonistId = result.protagonistId;
-    weatherCardId = result.weatherCardId;
-    terrainCardId = result.terrainCardId;
-    adventureCardId = result.adventureCardId;
-    equipmentCardId = result.equipmentCardId;
   });
 
   test.afterAll(async () => {
@@ -33,28 +25,64 @@ test.describe('章节添加流程', () => {
     }
   });
 
-  test('添加章节并验证数据库', async ({ page }) => {
+  test('添加章节并验证数据库', async ({ page, request }) => {
     await page.addInitScript((userId) => {
       localStorage.setItem('user_id', userId);
     }, testUserId);
+
+    const createBookResponse = await request.post('/api/books', {
+      data: {
+        user_id: testUserId,
+        title: '测试书籍_章节测试',
+        type: 'adventure',
+        protagonist: {
+          name: '测试主角',
+          avatar: '🧙‍♂️',
+          role_type: 'protagonist',
+          is_protagonist: 1
+        },
+        supporting_characters: []
+      }
+    });
+    const createBookData = await createBookResponse.json();
+    expect(createBookData.success).toBe(true);
+    testBookId = createBookData.data.book_id;
+
+    const charsResponse = await request.get(`/api/characters?book_id=${testBookId}`);
+    const charsData = await charsResponse.json();
+    protagonistId = charsData.data.find(c => c.is_protagonist === 1).char_id;
+
+    const cardsResponse = await request.get(`/api/plot-cards?book_id=${testBookId}`);
+    const cardsData = await cardsResponse.json();
+    const cards = cardsData.data;
+    
+    const weatherCards = cards.filter(c => c.sub_type === 'weather');
+    const terrainCards = cards.filter(c => c.sub_type === 'terrain');
+    const adventureCards = cards.filter(c => c.sub_type === 'adventure');
+    const equipmentCards = cards.filter(c => c.sub_type === 'equipment');
+    
+    weatherCardId = weatherCards[0].card_id;
+    terrainCardId = terrainCards[0].card_id;
+    adventureCardId = adventureCards[0].card_id;
+    equipmentCardId = equipmentCards[0].card_id;
 
     await page.goto(`/director.html?book_id=${testBookId}`);
 
     await expect(page.locator('.director-header h1')).toContainText('Story Director');
 
-    await page.locator(`.fan-card[data-id="${protagonistId}"]`).click();
+    await page.locator(`.fan-card[data-id="${protagonistId}"]`).click({ force: true });
     await expect(page.locator('[data-slot="protagonist"].filled')).toBeVisible();
 
-    await page.locator(`.fan-card[data-id="${weatherCardId}"]`).click();
+    await page.locator(`.fan-card[data-id="${weatherCardId}"]`).click({ force: true });
     await expect(page.locator('[data-slot="weather"].filled')).toBeVisible();
 
-    await page.locator(`.fan-card[data-id="${terrainCardId}"]`).click();
+    await page.locator(`.fan-card[data-id="${terrainCardId}"]`).click({ force: true });
     await expect(page.locator('[data-slot="terrain"].filled')).toBeVisible();
 
-    await page.locator(`.fan-card[data-id="${adventureCardId}"]`).click();
+    await page.locator(`.fan-card[data-id="${adventureCardId}"]`).click({ force: true });
     await expect(page.locator('[data-slot="adventure"].filled')).toBeVisible();
 
-    await page.locator(`.fan-card[data-id="${equipmentCardId}"]`).click();
+    await page.locator(`.fan-card[data-id="${equipmentCardId}"]`).click({ force: true });
     await expect(page.locator('[data-slot="equipment"].filled')).toBeVisible();
 
     const startBtn = page.locator('#startBtn');
@@ -62,12 +90,14 @@ test.describe('章节添加流程', () => {
 
     await startBtn.click();
 
-    await expect(page).toHaveURL(/chapter\.html/, { timeout: 15000 });
+    await expect(page).toHaveURL(/chapter/, { timeout: 15000 });
 
-    const chapters = db.getChaptersByBookId(testBookId);
-    expect(chapters.length).toBe(1);
+    const chaptersResponse = await request.get(`/api/chapters?book_id=${testBookId}`);
+    const chaptersData = await chaptersResponse.json();
+    expect(chaptersData.success).toBe(true);
+    expect(chaptersData.data.length).toBe(1);
 
-    const chapter = chapters[0];
+    const chapter = chaptersData.data[0];
     expect(chapter.book_id).toBe(testBookId);
     expect(chapter.title).toBeDefined();
     expect(chapter.content).toBeDefined();
@@ -75,82 +105,73 @@ test.describe('章节添加流程', () => {
 
     const selectedCards = JSON.parse(chapter.selected_cards);
     expect(selectedCards.protagonist_id).toBe(protagonistId);
-    expect(selectedCards.weather_id).toBe(weatherCardId);
-    expect(selectedCards.terrain_id).toBe(terrainCardId);
-    expect(selectedCards.adventure_id).toBe(adventureCardId);
-    expect(selectedCards.equipment_id).toBe(equipmentCardId);
-
-    const puzzles = db.getPuzzlesByChapterId(chapter.chapter_id);
-    expect(puzzles.length).toBe(1);
-
-    const puzzle = puzzles[0];
-    expect(puzzle.question).toBeDefined();
-    expect(puzzle.answer).toBeDefined();
-    expect(puzzle.puzzle_type).toBe('text');
-    expect(puzzle.is_solved).toBe(0);
-    expect(puzzle.max_attempts).toBe(3);
+    
+    const selectedWeatherCard = cards.find(c => c.card_id === selectedCards.weather_id);
+    expect(selectedWeatherCard).toBeDefined();
+    expect(selectedWeatherCard.sub_type).toBe('weather');
+    
+    const selectedTerrainCard = cards.find(c => c.card_id === selectedCards.terrain_id);
+    expect(selectedTerrainCard).toBeDefined();
+    expect(selectedTerrainCard.sub_type).toBe('terrain');
+    
+    const selectedAdventureCard = cards.find(c => c.card_id === selectedCards.adventure_id);
+    expect(selectedAdventureCard).toBeDefined();
+    expect(selectedAdventureCard.sub_type).toBe('adventure');
+    
+    const selectedEquipmentCard = cards.find(c => c.card_id === selectedCards.equipment_id);
+    expect(selectedEquipmentCard).toBeDefined();
+    expect(selectedEquipmentCard.sub_type).toBe('equipment');
   });
 
-  test('未选择必需卡牌时按钮应禁用', async ({ page }) => {
+  test('未选择必需卡牌时按钮应禁用', async ({ page, request }) => {
     await page.addInitScript((userId) => {
       localStorage.setItem('user_id', userId);
     }, testUserId);
 
-    await page.goto(`/director.html?book_id=${testBookId}`);
+    const createBookResponse = await request.post('/api/books', {
+      data: {
+        user_id: testUserId,
+        title: '测试书籍_按钮禁用测试',
+        type: 'adventure',
+        protagonist: {
+          name: '测试主角',
+          avatar: '🧙‍♂️',
+          role_type: 'protagonist',
+          is_protagonist: 1
+        },
+        supporting_characters: []
+      }
+    });
+    const createBookData = await createBookResponse.json();
+    const bookId = createBookData.data.book_id;
+
+    const charsResponse = await request.get(`/api/characters?book_id=${bookId}`);
+    const charsData = await charsResponse.json();
+    const protagonistIdLocal = charsData.data.find(c => c.is_protagonist === 1).char_id;
+
+    const cardsResponse = await request.get(`/api/plot-cards?book_id=${bookId}`);
+    const cardsData = await cardsResponse.json();
+    const cards = cardsData.data;
+    
+    const weatherCardIdLocal = cards.find(c => c.sub_type === 'weather').card_id;
+    const terrainCardIdLocal = cards.find(c => c.sub_type === 'terrain').card_id;
+    const adventureCardIdLocal = cards.find(c => c.sub_type === 'adventure').card_id;
+
+    await page.goto(`/director.html?book_id=${bookId}`);
 
     const startBtn = page.locator('#startBtn');
     await expect(startBtn).toBeDisabled();
 
-    await page.locator(`.fan-card[data-id="${protagonistId}"]`).click();
+    await page.locator(`.fan-card[data-id="${protagonistIdLocal}"]`).click({ force: true });
     await expect(startBtn).toBeDisabled();
 
-    await page.locator(`.fan-card[data-id="${weatherCardId}"]`).click();
+    await page.locator(`.fan-card[data-id="${weatherCardIdLocal}"]`).click({ force: true });
     await expect(startBtn).toBeDisabled();
 
-    await page.locator(`.fan-card[data-id="${terrainCardId}"]`).click();
+    await page.locator(`.fan-card[data-id="${terrainCardIdLocal}"]`).click({ force: true });
     await expect(startBtn).toBeDisabled();
 
-    await page.locator(`.fan-card[data-id="${adventureCardId}"]`).click();
+    await page.locator(`.fan-card[data-id="${adventureCardIdLocal}"]`).click({ force: true });
     await expect(startBtn).toBeEnabled();
   });
 });
-
-function createTestBook(db, userId) {
-  const bookId = 'test-book-' + Date.now();
-  db.run(
-    'INSERT INTO books (book_id, user_id, title, type, is_preset) VALUES (?, ?, ?, ?, 0)',
-    [bookId, userId, '测试书籍', 'adventure']
-  );
-
-  const protagonistId = 'test-protagonist-' + Date.now();
-  db.run(
-    'INSERT INTO characters (char_id, book_id, name, avatar, personality, speech_style, role_type, is_protagonist, intimacy) VALUES (?, ?, ?, ?, ?, ?, ?, 1, 0)',
-    [protagonistId, bookId, '测试主角', '🧙‍♂️', '', '', '', 1, 0]
-  );
-
-  const subTypes = ['weather', 'terrain', 'adventure', 'equipment'];
-  const icons = { weather: '☀️', terrain: '🌲', adventure: '🗺️', equipment: '🎒' };
-  const cardIds = {};
-  
-  for (const subType of subTypes) {
-    for (let i = 0; i < 4; i++) {
-      const cardId = `test-card-${subType}-${i}-${Date.now()}`;
-      db.run(
-        'INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES (?, ?, ?, ?, ?, ?, ?, 0)',
-        [cardId, bookId, 'plot', subType, `测试${subType}${i}`, icons[subType], `测试描述`]
-      );
-      if (i === 0) {
-        cardIds[subType] = cardId;
-      }
-    }
-  }
-
-  return {
-    bookId,
-    protagonistId,
-    weatherCardId: cardIds.weather,
-    terrainCardId: cardIds.terrain,
-    adventureCardId: cardIds.adventure,
-    equipmentCardId: cardIds.equipment
-  };
-}

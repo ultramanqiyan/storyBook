@@ -774,8 +774,8 @@
   <script src="js/theme.js"></script>
   <script>
     let currentChapter = null;
-    let currentPuzzle = null;
-    let selectedOption = null;
+    window.currentPuzzle = null;
+    window.selectedOption = null;
 
     document.addEventListener('DOMContentLoaded', async function() {
       createParticles(document.getElementById('particles'), 20);
@@ -854,8 +854,8 @@
       try {
         const result = await API.getPuzzle(puzzleId);
         if (result.success) {
-          currentPuzzle = result.data;
-          renderPuzzle(currentPuzzle);
+          window.currentPuzzle = result.data;
+          renderPuzzle(window.currentPuzzle);
         }
       } catch (error) {
         console.error('Failed to load puzzle:', error);
@@ -878,12 +878,12 @@
             <span class="option-text">${opt}</span>
           </div>
         `).join('');
-        selectedOption = null;
+        window.selectedOption = null;
       } else if (puzzleOptions && puzzle.puzzle_type === 'text') {
         puzzleOptions.innerHTML = `
           <input type="text" class="puzzle-input" id="puzzleInput" placeholder="请输入答案..." style="width: 100%; padding: 15px; font-size: 16px; border: 2px solid rgba(139, 90, 43, 0.3); border-radius: 8px; background: rgba(139, 90, 43, 0.1); color: #3a2a1a;">
         `;
-        selectedOption = null;
+        window.selectedOption = null;
       }
     }
     
@@ -892,11 +892,13 @@
         opt.classList.remove('selected');
       });
       element.classList.add('selected');
-      selectedOption = index;
+      window.selectedOption = index;
     }
 
     async function submitAnswer() {
-      if (!currentPuzzle) return;
+      if (!window.currentPuzzle) {
+        return;
+      }
       
       let answer;
       const puzzleInput = document.getElementById('puzzleInput');
@@ -907,11 +909,11 @@
           showNotification('请输入答案！', 'warning');
           return;
         }
-      } else if (selectedOption === null) {
+      } else if (window.selectedOption === null) {
         showNotification('请选择一个答案！', 'warning');
         return;
-      } else if (currentPuzzle.options && currentPuzzle.options[selectedOption]) {
-        answer = currentPuzzle.options[selectedOption];
+      } else if (window.currentPuzzle.options && window.currentPuzzle.options[window.selectedOption]) {
+        answer = window.currentPuzzle.options[window.selectedOption];
       }
       
       if (!answer) {
@@ -922,7 +924,7 @@
       const userId = API.getUserId();
       
       try {
-        const result = await API.solvePuzzle(currentPuzzle.puzzle_id, answer, userId);
+        const result = await API.solvePuzzle(window.currentPuzzle.puzzle_id, answer, userId);
         
         if (result.success && result.data.is_correct) {
           if (puzzleInput) {
@@ -930,7 +932,7 @@
             puzzleInput.style.background = 'rgba(34, 197, 94, 0.2)';
           } else {
             const options = document.querySelectorAll('.puzzle-option');
-            options[selectedOption]?.classList.add('correct');
+            options[window.selectedOption]?.classList.add('correct');
           }
           setTimeout(() => {
             hidePuzzle();
@@ -942,7 +944,7 @@
             puzzleInput.style.background = 'rgba(220, 38, 38, 0.2)';
           } else {
             const options = document.querySelectorAll('.puzzle-option');
-            options[selectedOption]?.classList.add('wrong');
+            options[window.selectedOption]?.classList.add('wrong');
           }
           setTimeout(() => {
             if (puzzleInput) {
@@ -953,7 +955,7 @@
               document.querySelectorAll('.puzzle-option').forEach(opt => {
                 opt.classList.remove('selected', 'correct', 'wrong');
               });
-              selectedOption = null;
+              window.selectedOption = null;
             }
             showNotification(result.data.message || '答案错误，请重试！', 'error');
           }, 1500);
@@ -1035,11 +1037,14 @@
     }
 
     function showPuzzle() {
-      if (!currentPuzzle) {
+      console.log('=== showPuzzle called ===');
+      console.log('currentPuzzle:', window.currentPuzzle);
+      if (!window.currentPuzzle) {
         showNotification('No puzzle available', 'info');
         return;
       }
       document.getElementById('puzzleOverlay').classList.add('active');
+      console.log('Puzzle overlay shown');
     }
 
     function hidePuzzle() {

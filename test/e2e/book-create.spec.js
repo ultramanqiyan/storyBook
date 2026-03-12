@@ -17,7 +17,7 @@ test.describe('书籍创建流程', () => {
     }
   });
 
-  test('创建书籍并验证数据库', async ({ page }) => {
+  test('创建书籍并验证数据库', async ({ page, request }) => {
     const testUserId = db.getTestUserId();
     const testBookTitle = `测试书籍_${Date.now()}`;
     const protagonistName = '测试主角';
@@ -57,38 +57,49 @@ test.describe('书籍创建流程', () => {
 
     await expect(page.locator('.success-title')).toContainText('Story Created', { timeout: 15000 });
 
-    const books = db.getBooksByTitle(testBookTitle);
-    expect(books.length).toBe(1);
-    expect(books[0].title).toBe(testBookTitle);
-    expect(books[0].type).toBe('adventure');
-    expect(books[0].user_id).toBe(testUserId);
-    expect(books[0].is_preset).toBe(0);
+    const viewStoryLink = page.locator('.success-content a:has-text("View Story")');
+    await expect(viewStoryLink).toBeVisible();
+    
+    const bookHref = await viewStoryLink.getAttribute('href');
+    expect(bookHref).toMatch(/book\.html\?id=/);
+    
+    const bookId = bookHref.split('id=')[1];
+    expect(bookId).toBeDefined();
 
-    const bookId = books[0].book_id;
+    const booksResponse = await request.get(`/api/books/${bookId}`);
+    const booksData = await booksResponse.json();
+    expect(booksData.success).toBe(true);
+    expect(booksData.data.title).toBe(testBookTitle);
+    expect(booksData.data.type).toBe('adventure');
+    expect(booksData.data.user_id).toBe(testUserId);
 
-    const protagonist = db.getProtagonistByBookId(bookId);
+    const charsResponse = await request.get(`/api/characters?book_id=${bookId}`);
+    const charsData = await charsResponse.json();
+    expect(charsData.success).toBe(true);
+    
+    const protagonist = charsData.data.find(c => c.is_protagonist === 1);
     expect(protagonist).toBeDefined();
     expect(protagonist.name).toBe(protagonistName);
-    expect(protagonist.is_protagonist).toBe(1);
 
-    const supporting = db.getSupportingByBookId(bookId);
+    const supporting = charsData.data.filter(c => c.is_protagonist === 0);
     expect(supporting.length).toBe(1);
     expect(supporting[0].name).toBe(companionName);
-    expect(supporting[0].is_protagonist).toBe(0);
 
-    const plotCards = db.getPlotCardsByBookId(bookId);
-    expect(plotCards.length).toBeGreaterThan(0);
+    const cardsResponse = await request.get(`/api/plot-cards?book_id=${bookId}`);
+    const cardsData = await cardsResponse.json();
+    expect(cardsData.success).toBe(true);
+    expect(cardsData.data.length).toBeGreaterThan(0);
 
-    const weatherCards = db.getPlotCardsBySubType(bookId, 'weather');
+    const weatherCards = cardsData.data.filter(c => c.sub_type === 'weather');
     expect(weatherCards.length).toBe(4);
 
-    const terrainCards = db.getPlotCardsBySubType(bookId, 'terrain');
+    const terrainCards = cardsData.data.filter(c => c.sub_type === 'terrain');
     expect(terrainCards.length).toBe(4);
 
-    const adventureCards = db.getPlotCardsBySubType(bookId, 'adventure');
+    const adventureCards = cardsData.data.filter(c => c.sub_type === 'adventure');
     expect(adventureCards.length).toBe(4);
 
-    const equipmentCards = db.getPlotCardsBySubType(bookId, 'equipment');
+    const equipmentCards = cardsData.data.filter(c => c.sub_type === 'equipment');
     expect(equipmentCards.length).toBe(4);
   });
 
@@ -111,7 +122,19 @@ test.describe('书籍创建流程', () => {
     await page.selectOption('#storyGenre', 'adventure');
     await page.click('#step1 .btn-next:has-text("Next")');
 
-    await expect(page.locator('#step1.active')).toBeVisible();
+    await expect(page.locator('#step2.active')).toBeVisible();
+
+    await page.fill('#protagonistName', '测试主角');
+    await page.locator('#protagonistAvatars .avatar-option').first().click();
+    await page.click('#step2 .btn-next:has-text("Next")');
+
+    await expect(page.locator('#step3.active')).toBeVisible();
+
+    await page.click('#step3 .btn-next:has-text("Create Story")');
+
+    await page.waitForTimeout(2000);
+
+    await expect(page.locator('.success-title')).not.toBeVisible();
   });
 
   test('创建书籍不选择类型应失败', async ({ page }) => {
@@ -133,6 +156,18 @@ test.describe('书籍创建流程', () => {
     await page.fill('#storyTitle', '测试书籍');
     await page.click('#step1 .btn-next:has-text("Next")');
 
-    await expect(page.locator('#step1.active')).toBeVisible();
+    await expect(page.locator('#step2.active')).toBeVisible();
+
+    await page.fill('#protagonistName', '测试主角');
+    await page.locator('#protagonistAvatars .avatar-option').first().click();
+    await page.click('#step2 .btn-next:has-text("Next")');
+
+    await expect(page.locator('#step3.active')).toBeVisible();
+
+    await page.click('#step3 .btn-next:has-text("Create Story")');
+
+    await page.waitForTimeout(2000);
+
+    await expect(page.locator('.success-title')).not.toBeVisible();
   });
 });

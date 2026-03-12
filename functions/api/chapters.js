@@ -138,8 +138,8 @@ export async function onRequestPost(context) {
       return createErrorResponse('必须选择主角');
     }
 
-    if (!weather_id || !terrain_id || !adventure_id || !equipment_id) {
-      return createErrorResponse('必须选择天气、地形、冒险类型和装备卡牌');
+    if (!weather_id || !terrain_id || !adventure_id) {
+      return createErrorResponse('必须选择天气、地形和冒险类型卡牌');
     }
 
     const book = await env.DB.prepare(
