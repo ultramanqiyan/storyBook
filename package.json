@@ -30,6 +30,7 @@
   "devDependencies": {
     "@playwright/test": "^1.40.0",
     "@vitest/coverage-v8": "^1.0.0",
+    "better-sqlite3": "^12.6.2",
     "vitest": "^1.0.0",
     "wrangler": "^3.24.0"
   }

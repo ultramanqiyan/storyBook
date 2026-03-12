@@ -20,13 +20,20 @@ export async function onRequestGet(context) {
     ).bind(bookId).all();
 
     const chapters = await env.DB.prepare(
-      'SELECT * FROM chapters WHERE book_id = ? ORDER BY order_num ASC'
+      'SELECT c.*, p.is_solved FROM chapters c LEFT JOIN puzzles p ON c.chapter_id = p.chapter_id WHERE c.book_id = ? ORDER BY c.order_num ASC'
     ).bind(bookId).all();
+
+    const chaptersWithStatus = (chapters.results || []).map((chapter, index) => {
+      return {
+        ...chapter,
+        status: 'read'
+      };
+    });
 
     return createSuccessResponse({
       ...book,
       characters: characters.results,
-      chapters: chapters.results
+      chapters: chaptersWithStatus
     });
   } catch (error) {
     return createErrorResponse(error.message, 500);

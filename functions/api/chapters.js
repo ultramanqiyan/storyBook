@@ -4,24 +4,24 @@ const CARD_LIMIT_PER_TYPE = 8;
 
 const puzzleTemplates = {
   adventure: [
-    { question: '在森林中，你发现了什么？', answer: '宝藏', type: 'text' },
-    { question: '冒险中最重要的品质是什么？', answer: '勇气', type: 'text' },
-    { question: '指南针指向哪个方向？', answer: '北', type: 'text' }
+    { question: '在森林中，你发现了什么？', answer: '宝藏', options: ['宝藏', '怪物', '陷阱', '出口'], type: 'choice' },
+    { question: '冒险中最重要的品质是什么？', answer: '勇气', options: ['智慧', '勇气', '力量', '速度'], type: 'choice' },
+    { question: '指南针指向哪个方向？', answer: '北', options: ['东', '南', '西', '北'], type: 'choice' }
   ],
   fantasy: [
-    { question: '魔法师最常用的咒语是什么？', answer: '魔法', type: 'text' },
-    { question: '龙最怕什么？', answer: '勇士', type: 'text' },
-    { question: '精灵住在哪里？', answer: '森林', type: 'text' }
+    { question: '魔法师最常用的咒语是什么？', answer: '魔法', options: ['魔法', '火焰', '冰霜', '雷电'], type: 'choice' },
+    { question: '龙最怕什么？', answer: '勇士', options: ['魔法', '勇士', '火焰', '水'], type: 'choice' },
+    { question: '精灵住在哪里？', answer: '森林', options: ['森林', '海洋', '沙漠', '火山'], type: 'choice' }
   ],
   romance: [
-    { question: '爱情最重要的元素是什么？', answer: '信任', type: 'text' },
-    { question: '约会最浪漫的地方是？', answer: '海边', type: 'text' },
-    { question: '表白时最需要的是什么？', answer: '勇气', type: 'text' }
+    { question: '爱情最重要的元素是什么？', answer: '信任', options: ['信任', '激情', '浪漫', '惊喜'], type: 'choice' },
+    { question: '约会最浪漫的地方是？', answer: '海边', options: ['海边', '山顶', '餐厅', '电影院'], type: 'choice' },
+    { question: '表白时最需要的是什么？', answer: '勇气', options: ['勇气', '礼物', '鲜花', '音乐'], type: 'choice' }
   ],
   business: [
-    { question: '商业成功最重要的因素是什么？', answer: '诚信', type: 'text' },
-    { question: '团队合作的核心是什么？', answer: '沟通', type: 'text' },
-    { question: '创业最需要的是什么？', answer: '创新', type: 'text' }
+    { question: '商业成功最重要的因素是什么？', answer: '诚信', options: ['诚信', '资金', '人脉', '运气'], type: 'choice' },
+    { question: '团队合作的核心是什么？', answer: '沟通', options: ['沟通', '领导', '执行', '计划'], type: 'choice' },
+    { question: '创业最需要的是什么？', answer: '创新', options: ['创新', '资金', '团队', '市场'], type: 'choice' }
   ]
 };
 
@@ -89,10 +89,11 @@ async function createPuzzleForChapter(env, chapterId, bookType) {
   const template = templates[Math.floor(Math.random() * templates.length)];
   
   const puzzleId = generateId();
+  const optionsJson = template.options ? JSON.stringify(template.options) : null;
   
   await env.DB.prepare(
-    'INSERT INTO puzzles (puzzle_id, chapter_id, question, answer, puzzle_type, max_attempts) VALUES (?, ?, ?, ?, ?, ?)'
-  ).bind(puzzleId, chapterId, template.question, template.answer, template.type, 3).run();
+    'INSERT INTO puzzles (puzzle_id, chapter_id, question, answer, puzzle_type, options, max_attempts) VALUES (?, ?, ?, ?, ?, ?, ?)'
+  ).bind(puzzleId, chapterId, template.question, template.answer, template.type, optionsJson, 3).run();
   
   return puzzleId;
 }

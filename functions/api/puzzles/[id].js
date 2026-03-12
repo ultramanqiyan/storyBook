@@ -6,14 +6,17 @@ export async function onRequestGet(context) {
 
   try {
     const puzzle = await env.DB.prepare(
-      'SELECT * FROM puzzles WHERE puzzle_id = ?'
+      'SELECT puzzle_id, chapter_id, question, answer, puzzle_type, options, attempts, max_attempts, is_solved FROM puzzles WHERE puzzle_id = ?'
     ).bind(puzzleId).first();
 
     if (!puzzle) {
       return createErrorResponse('谜题不存在', 404);
     }
 
-    return createSuccessResponse(puzzle);
+    return createSuccessResponse({
+      ...puzzle,
+      options: puzzle.options ? JSON.parse(puzzle.options) : null
+    });
   } catch (error) {
     return createErrorResponse(error.message, 500);
   }

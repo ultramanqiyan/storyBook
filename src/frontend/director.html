@@ -775,7 +775,7 @@
         const div = document.createElement('div');
         const cardType = card.role || type;
         div.className = 'fan-card ' + cardType;
-        div.dataset.id = card.char_id || card.card_id || card.id;
+        div.dataset.id = card.char_id || card.card_id;
         div.dataset.type = card.role || type;
         if (card.effect) div.dataset.effect = card.effect;
         
@@ -814,10 +814,10 @@
       stage.classList.add('shake');
       setTimeout(() => stage.classList.remove('shake'), 500);
       
-      const cardId = card.char_id || card.card_id || card.id;
+      const cardId = card.char_id;
       
       if (type === 'protagonist') {
-        if (selections.protagonist && (selections.protagonist.char_id || selections.protagonist.id) === cardId) {
+        if (selections.protagonist && selections.protagonist.char_id === cardId) {
           selections.protagonist = null;
           showNotification('Deselected: ' + card.name, 'info');
         } else {
@@ -825,7 +825,7 @@
           showNotification('Selected: ' + card.name, 'success');
         }
       } else if (type === 'supporting') {
-        const idx = selections.supporting.findIndex(c => (c.char_id || c.id) === cardId);
+        const idx = selections.supporting.findIndex(c => c.char_id === cardId);
         if (idx > -1) {
           selections.supporting.splice(idx, 1);
           showNotification('Deselected: ' + card.name, 'info');
@@ -837,7 +837,7 @@
           return;
         }
       } else if (type === 'adventure' || type === 'terrain' || type === 'weather' || type === 'equipment') {
-        if (selections[type] && (selections[type].card_id || selections[type].id) === cardId) {
+        if (selections[type] && selections[type].card_id === cardId) {
           selections[type] = null;
           showNotification('Deselected: ' + card.name, 'info');
           if (type === 'weather') clearWeatherEffect();
@@ -923,11 +923,11 @@
         const type = card.dataset.type;
         
         let isSelected = false;
-        if (type === 'protagonist' && selections.protagonist && (selections.protagonist.char_id || selections.protagonist.id) == id) {
+        if (type === 'protagonist' && selections.protagonist && (selections.protagonist.char_id || selections.protagonist.card_id) == id) {
           isSelected = true;
-        } else if (type === 'supporting' && selections.supporting.some(c => (c.char_id || c.id) == id)) {
+        } else if (type === 'supporting' && selections.supporting.some(c => (c.char_id || c.card_id) == id)) {
           isSelected = true;
-        } else if (['adventure', 'terrain', 'weather', 'equipment'].includes(type) && selections[type] && (selections[type].card_id || selections[type].id) == id) {
+        } else if (['adventure', 'terrain', 'weather', 'equipment'].includes(type) && selections[type] && (selections[type].card_id || selections[type].char_id) == id) {
           isSelected = true;
         }
         
@@ -1057,12 +1057,12 @@
           user_id: userId,
           book_id: currentBook.book_id,
           selected_cards: {
-            protagonist_id: selections.protagonist.char_id || selections.protagonist.id,
-            supporting_ids: selections.supporting.map(c => c.char_id || c.id),
-            weather_id: selections.weather.card_id || selections.weather.id,
-            terrain_id: selections.terrain.card_id || selections.terrain.id,
-            adventure_id: selections.adventure.card_id || selections.adventure.id,
-            equipment_id: selections.equipment?.card_id || selections.equipment?.id
+            protagonist_id: selections.protagonist.char_id,
+          supporting_ids: selections.supporting.map(c => c.char_id),
+          weather_id: selections.weather.card_id,
+          terrain_id: selections.terrain.card_id,
+          adventure_id: selections.adventure.card_id,
+          equipment_id: selections.equipment?.card_id
           }
         });
         

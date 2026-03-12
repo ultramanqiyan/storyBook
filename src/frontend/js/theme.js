@@ -600,7 +600,6 @@ function switchLanguage(lang) {
 function initTheme() {
   setTheme(currentTheme);
   setLanguage(currentLanguage);
-  createStylePanel();
   updateAllTranslations();
 }
 

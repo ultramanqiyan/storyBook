@@ -325,8 +325,8 @@
         business: 'linear-gradient(135deg, #1a2a3a 0%, #0a1a2e 100%)'
       };
       
-      const bookId = book.book_id || book.id;
-      const chapterCount = book.chapter_count || book.chapters || 0;
+      const bookId = book.book_id;
+      const chapterCount = book.chapter_count || 0;
       const progress = book.progress || 0;
       
       const div = document.createElement('div');

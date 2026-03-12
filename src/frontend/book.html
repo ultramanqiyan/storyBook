@@ -525,6 +525,10 @@
           <a href="chapter.html?id=${currentChapter.chapter_id}" class="action-btn">Continue Reading</a>
           <a href="director.html?book_id=${book.book_id}" class="action-btn secondary">Direct New Chapter</a>
         `;
+      } else {
+        actionButtons.innerHTML = `
+          <a href="director.html?book_id=${book.book_id}" class="action-btn">Direct New Chapter</a>
+        `;
       }
     }
 
@@ -567,11 +571,12 @@
       
       if (currentView === 'chapters') {
         const chapters = currentBook.chapters || [];
-        const leftChapters = chapters.filter((_, i) => i % 2 === 0);
-        const rightChapters = chapters.filter((_, i) => i % 2 === 1);
+        const half = Math.ceil(chapters.length / 2);
+        const leftChapters = chapters.slice(0, half);
+        const rightChapters = chapters.slice(half);
         
         leftContent.innerHTML = `<div class="chapter-toc">${leftChapters.map((ch, i) => renderChapterCard(ch, i)).join('')}</div>`;
-        rightContent.innerHTML = `<div class="chapter-toc">${rightChapters.map((ch, i) => renderChapterCard(ch, i)).join('')}</div>`;
+        rightContent.innerHTML = `<div class="chapter-toc">${rightChapters.map((ch, i) => renderChapterCard(ch, i + half)).join('')}</div>`;
       } else if (currentView === 'characters') {
         const characters = currentBook.characters || [];
         const half = Math.ceil(characters.length / 2);
@@ -606,38 +611,34 @@
     }
 
     function renderChapterCard(chapter, index) {
-      const statusIcon = {
-        'read': '✓',
-        'current': '🖋️',
-        'locked': '🔒'
-      };
-      
-      const status = chapter.status || 'locked';
-      const chapterId = chapter.chapter_id || chapter.id;
+      const chapterId = chapter.chapter_id;
       const orderNum = chapter.order_num || (index + 1);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       
+      const isSolved = chapter.is_solved === 1;
+      const statusIcon = isSolved ? '✓' : '🖋️';
+      const statusText = isSolved ? '已完成' : '待完成';
+      
       return `
-        <div class="chapter-toc-item ${status}" 
-             onclick="${status !== 'locked' ? `goToChapter('${chapterId}')` : ''}"
-             style="animation: fadeIn 0.5s ease-out ${index * 0.1}s backwards;">
+        <div class="chapter-toc-item" 
+             onclick="goToChapter('${chapterId}')"
+             style="animation: fadeIn 0.5s ease-out ${orderNum * 0.1}s backwards;">
           <span class="chapter-number">Chapter ${romanNumerals[orderNum - 1] || orderNum}</span>
           <span class="chapter-dots"></span>
           <span class="chapter-title">${chapter.title}</span>
-          <span class="chapter-status-icon">${statusIcon[status]}</span>
+          <span class="chapter-status-icon" title="${statusText}">${statusIcon}</span>
         </div>
       `;
     }
 
     function renderCharacterCard(char, index) {
-      const roleClass = (char.role_type || char.role || 'character').toLowerCase();
       return `
-        <div class="hs-card-mini ${roleClass}" 
+        <div class="hs-card-mini ${(char.role_type || 'character').toLowerCase()}" 
              onclick="showCharacterDetail('${char.char_id}')"
              style="animation: fadeIn 0.5s ease-out ${index * 0.1}s backwards;">
           <div style="font-size: 48px;">${char.avatar || '👤'}</div>
           <div style="color: #FFD700; font-family: 'Cinzel', serif; font-size: 14px; margin-top: 10px;">${char.name}</div>
-          <div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">${char.role_type || char.role || 'Character'}</div>
+          <div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">${char.role_type || 'Character'}</div>
         </div>
       `;
     }

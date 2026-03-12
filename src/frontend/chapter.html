@@ -658,7 +658,7 @@
   <div class="particles-container" id="particles"></div>
   
   <nav class="navbar">
-    <a href="book.html" class="navbar-brand">← The Lost Kingdom</a>
+    <a href="index.html" class="navbar-brand">StoryBook</a>
     <div class="navbar-nav">
       <a href="bookshelf.html" class="navbar-link">Library</a>
     </div>
@@ -862,6 +862,107 @@
       }
     }
     
+    function renderPuzzle(puzzle) {
+      const puzzleQuestion = document.querySelector('.puzzle-question');
+      const puzzleOptions = document.querySelector('.puzzle-options');
+      
+      if (puzzleQuestion && puzzle.question) {
+        puzzleQuestion.textContent = puzzle.question;
+      }
+      
+      if (puzzleOptions && puzzle.options && puzzle.options.length > 0) {
+        const labels = ['A', 'B', 'C', 'D'];
+        puzzleOptions.innerHTML = puzzle.options.map((opt, i) => `
+          <div class="puzzle-option" onclick="selectOption(this, ${i})">
+            <span class="option-label">${labels[i]}</span>
+            <span class="option-text">${opt}</span>
+          </div>
+        `).join('');
+        selectedOption = null;
+      } else if (puzzleOptions && puzzle.puzzle_type === 'text') {
+        puzzleOptions.innerHTML = `
+          <input type="text" class="puzzle-input" id="puzzleInput" placeholder="请输入答案..." style="width: 100%; padding: 15px; font-size: 16px; border: 2px solid rgba(139, 90, 43, 0.3); border-radius: 8px; background: rgba(139, 90, 43, 0.1); color: #3a2a1a;">
+        `;
+        selectedOption = null;
+      }
+    }
+    
+    function selectOption(element, index) {
+      document.querySelectorAll('.puzzle-option').forEach(opt => {
+        opt.classList.remove('selected');
+      });
+      element.classList.add('selected');
+      selectedOption = index;
+    }
+
+    async function submitAnswer() {
+      if (!currentPuzzle) return;
+      
+      let answer;
+      const puzzleInput = document.getElementById('puzzleInput');
+      
+      if (puzzleInput) {
+        answer = puzzleInput.value.trim();
+        if (!answer) {
+          showNotification('请输入答案！', 'warning');
+          return;
+        }
+      } else if (selectedOption === null) {
+        showNotification('请选择一个答案！', 'warning');
+        return;
+      } else if (currentPuzzle.options && currentPuzzle.options[selectedOption]) {
+        answer = currentPuzzle.options[selectedOption];
+      }
+      
+      if (!answer) {
+        showNotification('请选择或输入答案！', 'warning');
+        return;
+      }
+      
+      const userId = API.getUserId();
+      
+      try {
+        const result = await API.solvePuzzle(currentPuzzle.puzzle_id, answer, userId);
+        
+        if (result.success && result.data.is_correct) {
+          if (puzzleInput) {
+            puzzleInput.style.borderColor = '#22c55e';
+            puzzleInput.style.background = 'rgba(34, 197, 94, 0.2)';
+          } else {
+            const options = document.querySelectorAll('.puzzle-option');
+            options[selectedOption]?.classList.add('correct');
+          }
+          setTimeout(() => {
+            hidePuzzle();
+            showNotification(result.data.message || '正确！谜题已解开！', 'success');
+          }, 1000);
+        } else {
+          if (puzzleInput) {
+            puzzleInput.style.borderColor = '#dc2626';
+            puzzleInput.style.background = 'rgba(220, 38, 38, 0.2)';
+          } else {
+            const options = document.querySelectorAll('.puzzle-option');
+            options[selectedOption]?.classList.add('wrong');
+          }
+          setTimeout(() => {
+            if (puzzleInput) {
+              puzzleInput.style.borderColor = 'rgba(139, 90, 43, 0.3)';
+              puzzleInput.style.background = 'rgba(139, 90, 43, 0.1)';
+              puzzleInput.value = '';
+            } else {
+              document.querySelectorAll('.puzzle-option').forEach(opt => {
+                opt.classList.remove('selected', 'correct', 'wrong');
+              });
+              selectedOption = null;
+            }
+            showNotification(result.data.message || '答案错误，请重试！', 'error');
+          }, 1500);
+        }
+      } catch (error) {
+        showNotification(error.message, 'error');
+      }
+    }
+
     function renderSidebarCards(chapter) {
       const charList = document.getElementById('sidebarCharacters');
       const plotList = document.getElementById('sidebarPlots');
@@ -943,48 +1044,6 @@
 
     function hidePuzzle() {
       document.getElementById('puzzleOverlay').classList.remove('active');
-    }
-
-    function selectOption(element, index) {
-      document.querySelectorAll('.puzzle-option').forEach(opt => {
-        opt.classList.remove('selected');
-      });
-      element.classList.add('selected');
-      selectedOption = index;
-    }
-
-    async function submitAnswer() {
-      if (selectedOption === null) {
-        showNotification('Please select an answer!', 'warning');
-        return;
-      }
-      
-      if (!currentPuzzle) return;
-      
-      try {
-        const result = await API.solvePuzzle(currentPuzzle.puzzle_id, selectedOption);
-        
-        const options = document.querySelectorAll('.puzzle-option');
-        
-        if (result.success && result.data.correct) {
-          options[selectedOption].classList.add('correct');
-          setTimeout(() => {
-            hidePuzzle();
-            showNotification('Correct! The path is clear.', 'success');
-          }, 1000);
-        } else {
-          options[selectedOption].classList.add('wrong');
-          setTimeout(() => {
-            options.forEach(opt => {
-              opt.classList.remove('selected', 'correct', 'wrong');
-            });
-            selectedOption = null;
-            showNotification('Incorrect. Try again!', 'error');
-          }, 1500);
-        }
-      } catch (error) {
-        showNotification(error.message, 'error');
-      }
     }
 
     function prevChapter() {

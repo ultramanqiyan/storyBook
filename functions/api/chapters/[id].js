@@ -13,7 +13,65 @@ export async function onRequestGet(context) {
       return createErrorResponse('章节不存在', 404);
     }
 
-    return createSuccessResponse(chapter);
+    const puzzle = await env.DB.prepare(
+      'SELECT puzzle_id, question, puzzle_type, options FROM puzzles WHERE chapter_id = ?'
+    ).bind(chapterId).first();
+
+    const characters = await env.DB.prepare(
+      'SELECT char_id, name, avatar, role_type, personality FROM characters WHERE book_id = ? ORDER BY is_protagonist DESC'
+    ).bind(chapter.book_id).all();
+
+    const selectedCards = chapter.selected_cards ? JSON.parse(chapter.selected_cards) : null;
+    let plotCards = [];
+    if (selectedCards) {
+      const cardIds = [
+        selectedCards.weather_id,
+        selectedCards.terrain_id,
+        selectedCards.adventure_id,
+        selectedCards.equipment_id
+      ].filter(id => id);
+
+      if (cardIds.length > 0) {
+        const placeholders = cardIds.map(() => '?').join(',');
+        const plotResults = await env.DB.prepare(
+          `SELECT card_id, name, icon, description, sub_type FROM plot_cards WHERE card_id IN (${placeholders})`
+        ).bind(...cardIds).all();
+        plotCards = plotResults.results || [];
+      }
+    }
+
+    const totalChapters = await env.DB.prepare(
+      'SELECT COUNT(*) as count FROM chapters WHERE book_id = ?'
+    ).bind(chapter.book_id).first();
+
+    const allChapters = await env.DB.prepare(
+      'SELECT chapter_id, order_num FROM chapters WHERE book_id = ? ORDER BY order_num ASC'
+    ).bind(chapter.book_id).all();
+
+    let prevChapterId = null;
+    let nextChapterId = null;
+    const chapters = allChapters.results || [];
+    const currentIndex = chapters.findIndex(c => c.chapter_id === chapterId);
+    if (currentIndex > 0) {
+      prevChapterId = chapters[currentIndex - 1].chapter_id;
+    }
+    if (currentIndex < chapters.length - 1) {
+      nextChapterId = chapters[currentIndex + 1].chapter_id;
+    }
+
+    return createSuccessResponse({
+      ...chapter,
+      puzzle_id: puzzle?.puzzle_id || null,
+      puzzle: puzzle ? {
+        ...puzzle,
+        options: puzzle.options ? JSON.parse(puzzle.options) : null
+      } : null,
+      characters: characters.results || [],
+      plot_cards: plotCards,
+      total_chapters: totalChapters?.count || 0,
+      prev_chapter_id: prevChapterId,
+      next_chapter_id: nextChapterId
+    });
   } catch (error) {
     return createErrorResponse(error.message, 500);
   }

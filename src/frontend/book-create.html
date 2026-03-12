@@ -510,7 +510,7 @@
       try {
         const result = await API.getBookTypes();
         if (result.success && result.data) {
-          bookTypes = result.data;
+          bookTypes = result.data.types || result.data;
           renderBookTypes();
         }
       } catch (error) {
@@ -531,8 +531,8 @@
       
       bookTypes.forEach(type => {
         const option = document.createElement('option');
-        option.value = type;
-        option.textContent = `${typeIcons[type] || '📖'} ${type.charAt(0).toUpperCase() + type.slice(1)}`;
+        option.value = type.type || type;
+        option.textContent = `${typeIcons[type.type || type] || '📖'} ${type.name || (type.type || type).charAt(0).toUpperCase() + (type.type || type).slice(1)}`;
         select.appendChild(option);
       });
     }

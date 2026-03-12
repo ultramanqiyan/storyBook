@@ -1,12 +1,12 @@
 import { defineConfig, devices } from '@playwright/test';
 
 export default defineConfig({
-  testDir: './tests/e2e',
+  testDir: './test/e2e',
   fullyParallel: false,
   forbidOnly: !!process.env.CI,
   retries: 0,
   workers: 1,
-  reporter: [['html'], ['json', { outputFile: 'test-results/results.json' }]],
+  reporter: [['list'], ['json', { outputFile: 'test-results/results.json' }]],
   use: {
     baseURL: 'http://localhost:8788',
     trace: 'on-first-retry',

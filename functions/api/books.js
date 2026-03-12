@@ -405,7 +405,20 @@ export async function onRequestGet(context) {
       'SELECT * FROM books WHERE user_id = ? OR is_preset = 1 ORDER BY created_at DESC'
     ).bind(userId).all();
 
-    return createSuccessResponse(results.results);
+    const booksWithStats = await Promise.all(
+      (results.results || []).map(async (book) => {
+        const chapterCount = await env.DB.prepare(
+          'SELECT COUNT(*) as count FROM chapters WHERE book_id = ?'
+        ).bind(book.book_id).first();
+        
+        return {
+          ...book,
+          chapter_count: chapterCount?.count || 0
+        };
+      })
+    );
+
+    return createSuccessResponse(booksWithStats);
   } catch (error) {
     return createErrorResponse(error.message, 500);
   }

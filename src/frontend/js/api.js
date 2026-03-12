@@ -177,10 +177,14 @@ const API = {
         return apiRequest(`/api/puzzles/${puzzleId}`);
     },
 
-    async solvePuzzle(puzzleId, answer) {
+    async solvePuzzle(puzzleId, answer, userId) {
+        const body = { answer };
+        if (userId) {
+            body.user_id = userId;
+        }
         return apiRequest(`/api/puzzles/${puzzleId}/solve`, {
             method: 'POST',
-            body: JSON.stringify({ answer })
+            body: JSON.stringify(body)
         });
     },
 
