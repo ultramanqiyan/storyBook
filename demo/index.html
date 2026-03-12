@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StoryBook - Create Your Interactive Stories</title>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/themes.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <style>
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: var(--spacing-xxl) var(--spacing-lg);
+      position: relative;
+      z-index: 1;
+    }
+    
+    .hero-title {
+      font-size: 4rem;
+      margin-bottom: var(--spacing-md);
+      animation: fadeIn 1s ease-out;
+    }
+    
+    .hero-subtitle {
+      font-family: var(--font-body);
+      font-size: 1.5rem;
+      color: var(--color-text-muted);
+      margin-bottom: var(--spacing-xl);
+      animation: fadeIn 1s ease-out 0.2s backwards;
+    }
+    
+    .hero-buttons {
+      display: flex;
+      gap: var(--spacing-lg);
+      animation: fadeIn 1s ease-out 0.4s backwards;
+    }
+    
+    .features {
+      padding: var(--spacing-xxl) var(--spacing-lg);
+      position: relative;
+      z-index: 1;
+    }
+    
+    .features-title {
+      text-align: center;
+      margin-bottom: var(--spacing-xxl);
+    }
+    
+    .features-grid {
+      display: flex;
+      justify-content: center;
+      gap: var(--spacing-xl);
+      flex-wrap: wrap;
+    }
+    
+    .feature-card {
+      text-align: center;
+    }
+    
+    .feature-card .hs-card {
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .feature-card p {
+      color: var(--color-text-muted);
+      font-size: 14px;
+      max-width: 180px;
+    }
+    
+    .bookshelf-section {
+      padding: var(--spacing-xxl) var(--spacing-lg);
+      position: relative;
+      z-index: 1;
+    }
+    
+    .bookshelf-title {
+      text-align: center;
+      margin-bottom: var(--spacing-xxl);
+    }
+    
+    .bookshelf {
+      display: flex;
+      justify-content: center;
+      gap: var(--spacing-lg);
+      flex-wrap: wrap;
+      perspective: 1000px;
+      padding: var(--spacing-xl);
+    }
+    
+    .bookshelf .book-3d {
+      transition: transform 0.5s var(--transition-bounce);
+    }
+    
+    .footer {
+      padding: var(--spacing-xl) var(--spacing-lg);
+      text-align: center;
+      border-top: 1px solid rgba(255, 215, 0, 0.2);
+      position: relative;
+      z-index: 1;
+    }
+    
+    .footer p {
+      color: var(--color-text-muted);
+      font-size: 14px;
+    }
+    
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: var(--spacing-lg);
+      margin-top: var(--spacing-md);
+    }
+    
+    .footer-links a {
+      color: var(--color-text-muted);
+      font-size: 14px;
+    }
+    
+    .footer-links a:hover {
+      color: var(--color-gold);
+    }
+  </style>
+</head>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="index.html" class="navbar-brand" data-i18n="home.title">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="bookshelf.html" class="navbar-link" data-i18n="nav.myLibrary">My Library</a>
+      <a href="login.html" class="btn btn-secondary" data-i18n="nav.signIn">Sign In</a>
+    </div>
+  </nav>
+  
+  <section class="hero">
+    <h1 class="hero-title" data-i18n="home.title">StoryBook</h1>
+    <p class="hero-subtitle" data-i18n="home.subtitle">Create Your Own Interactive Stories</p>
+    <div class="hero-buttons">
+      <a href="book-create.html" class="btn btn-3d" data-i18n="home.beginJourney">Begin Your Journey</a>
+      <a href="bookshelf.html" class="btn btn-secondary" data-i18n="home.exploreStories">Explore Stories</a>
+    </div>
+  </section>
+  
+  <section class="features">
+    <h2 class="features-title" data-i18n="home.featuresTitle">What Awaits You</h2>
+    <div class="features-grid">
+      <div class="feature-card animate-on-scroll">
+        <div class="hs-card protagonist">
+          <div class="hs-card-avatar">
+            <span class="avatar-placeholder">🧙‍♂️</span>
+          </div>
+          <div class="hs-card-name" data-i18n="home.characterCards">Character Cards</div>
+          <div class="hs-card-gems">
+            <span class="gem">⚡</span>
+            <span class="gem">📖</span>
+          </div>
+        </div>
+        <p data-i18n="home.characterCardsDesc">Create unique heroes and villains with rich backstories</p>
+      </div>
+      
+      <div class="feature-card animate-on-scroll">
+        <div class="hs-card supporter">
+          <div class="hs-card-avatar">
+            <span class="avatar-placeholder">📜</span>
+          </div>
+          <div class="hs-card-name" data-i18n="home.plotCards">Plot Cards</div>
+          <div class="hs-card-gems">
+            <span class="gem">🎭</span>
+            <span class="gem">🗺️</span>
+          </div>
+        </div>
+        <p data-i18n="home.plotCardsDesc">Shape your story with weather, terrain, and adventure cards</p>
+      </div>
+      
+      <div class="feature-card animate-on-scroll">
+        <div class="hs-card antagonist">
+          <div class="hs-card-avatar">
+            <span class="avatar-placeholder">🧩</span>
+          </div>
+          <div class="hs-card-name" data-i18n="home.interactivePuzzles">Interactive Puzzles</div>
+          <div class="hs-card-gems">
+            <span class="gem">🔮</span>
+            <span class="gem">⚔️</span>
+          </div>
+        </div>
+        <p data-i18n="home.interactivePuzzlesDesc">Challenge your readers with engaging puzzles and choices</p>
+      </div>
+    </div>
+  </section>
+  
+  <section class="bookshelf-section">
+    <h2 class="bookshelf-title" data-i18n="home.featuredStories">Featured Stories</h2>
+    <div class="bookshelf" id="bookshelf">
+      <div class="book-3d" data-link="book.html?id=101">
+        <div class="book-cover">
+          <span style="font-size: 48px;">🗺️</span>
+        </div>
+        <div class="book-spine"></div>
+        <div class="book-pages"></div>
+        <div class="book-title">The Lost Kingdom</div>
+        <div class="book-tag">Adventure</div>
+      </div>
+      
+      <div class="book-3d" data-link="book.html?id=102">
+        <div class="book-cover" style="background: linear-gradient(135deg, #2a1a4a 0%, #1a0a2e 100%);">
+          <span style="font-size: 48px;">🧙</span>
+        </div>
+        <div class="book-spine"></div>
+        <div class="book-pages"></div>
+        <div class="book-title">Mystic Academy</div>
+        <div class="book-tag">Fantasy</div>
+      </div>
+      
+      <div class="book-3d" data-link="book.html?id=103">
+        <div class="book-cover" style="background: linear-gradient(135deg, #4a1a2a 0%, #2a0a1e 100%);">
+          <span style="font-size: 48px;">💕</span>
+        </div>
+        <div class="book-spine"></div>
+        <div class="book-pages"></div>
+        <div class="book-title">Hearts Entwined</div>
+        <div class="book-tag">Romance</div>
+      </div>
+      
+      <div class="book-3d" data-link="book.html?id=104">
+        <div class="book-cover" style="background: linear-gradient(135deg, #1a2a3a 0%, #0a1a2e 100%);">
+          <span style="font-size: 48px;">💼</span>
+        </div>
+        <div class="book-spine"></div>
+        <div class="book-pages"></div>
+        <div class="book-title">Corporate Crown</div>
+        <div class="book-tag">Business</div>
+      </div>
+    </div>
+  </section>
+  
+  <footer class="footer">
+    <p data-i18n="footer.tagline">StoryBook - Where Your Stories Come to Life</p>
+    <div class="footer-links">
+      <a href="#" data-i18n="footer.about">About</a>
+      <a href="#" data-i18n="footer.privacy">Privacy</a>
+      <a href="#" data-i18n="footer.terms">Terms</a>
+      <a href="#" data-i18n="footer.contact">Contact</a>
+    </div>
+  </footer>
+  
+  <script src="js/mock-data.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const particlesContainer = document.getElementById('particles');
+      if (particlesContainer) {
+        const isMobile = window.innerWidth < 768;
+        createParticles(particlesContainer, isMobile ? 20 : 50);
+      }
+      
+      animateOnScroll();
+      initNavbar();
+      initBookshelf();
+      
+      const books = document.querySelectorAll('.book-3d');
+      books.forEach(book => {
+        book.addEventListener('click', function() {
+          const link = this.dataset.link;
+          if (link) {
+            window.location.href = link;
+          }
+        });
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Library - StoryBook</title>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/themes.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <style>
+    .bookshelf-page {
+      padding-top: 80px;
+      min-height: 100vh;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .page-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: var(--spacing-xl) var(--spacing-lg);
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    .page-title {
+      font-size: 2.5rem;
+    }
+    
+    .filter-tabs {
+      display: flex;
+      gap: var(--spacing-sm);
+      padding: 0 var(--spacing-lg) var(--spacing-lg);
+      max-width: 1200px;
+      margin: 0 auto;
+      flex-wrap: wrap;
+    }
+    
+    .filter-tab {
+      padding: var(--spacing-sm) var(--spacing-lg);
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 215, 0, 0.3);
+      border-radius: var(--radius-md);
+      color: var(--color-text-muted);
+      font-family: var(--font-title);
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .filter-tab:hover {
+      border-color: var(--color-primary);
+      color: var(--color-primary);
+    }
+    
+    .filter-tab.active {
+      background: rgba(255, 215, 0, 0.1);
+      border-color: var(--color-primary);
+      color: var(--color-primary);
+    }
+    
+    .books-section {
+      padding: 0 var(--spacing-lg) var(--spacing-xxl);
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    .section-title {
+      font-size: 1.5rem;
+      margin-bottom: var(--spacing-lg);
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+    }
+    
+    .section-title .count {
+      font-size: 14px;
+      color: var(--color-text-muted);
+      font-family: var(--font-ui);
+    }
+    
+    .books-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: var(--spacing-xl);
+      perspective: 1000px;
+    }
+    
+    .book-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .book-item .book-3d {
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .book-info {
+      text-align: center;
+    }
+    
+    .book-info h4 {
+      font-family: var(--font-title);
+      font-size: 14px;
+      color: var(--color-primary);
+      margin-bottom: var(--spacing-xs);
+    }
+    
+    .book-info p {
+      font-size: 12px;
+      color: var(--color-text-muted);
+      margin: 0;
+    }
+    
+    .book-progress {
+      width: 100%;
+      height: 4px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 2px;
+      margin-top: var(--spacing-sm);
+      overflow: hidden;
+    }
+    
+    .book-progress-bar {
+      height: 100%;
+      background: var(--gradient-primary);
+      border-radius: 2px;
+      transition: width 0.3s ease;
+    }
+    
+    .user-info {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-md);
+    }
+    
+    .user-avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: var(--gradient-primary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+    }
+    
+    .user-name {
+      font-family: var(--font-ui);
+      font-size: 14px;
+      color: var(--color-text);
+    }
+    
+    .add-book-card {
+      width: 150px;
+      height: 200px;
+      border: 2px dashed rgba(255, 215, 0, 0.3);
+      border-radius: var(--radius-md);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .add-book-card:hover {
+      border-color: var(--color-primary);
+      background: rgba(255, 215, 0, 0.05);
+    }
+    
+    .add-book-icon {
+      font-size: 48px;
+      color: var(--color-primary);
+      margin-bottom: var(--spacing-sm);
+    }
+    
+    .add-book-text {
+      font-family: var(--font-title);
+      font-size: 12px;
+      color: var(--color-text-muted);
+    }
+  </style>
+</head>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="index.html" class="navbar-brand" data-i18n="home.title">StoryBook</a>
+    <div class="navbar-nav">
+      <div class="user-info">
+        <div class="user-avatar">🧙‍♂️</div>
+        <span class="user-name">StoryTeller</span>
+      </div>
+      <a href="login.html" class="navbar-link" data-i18n="nav.signOut">Sign Out</a>
+    </div>
+  </nav>
+  
+  <div class="bookshelf-page">
+    <div class="page-header">
+      <h1 class="page-title" data-i18n="bookshelf.title">My Library</h1>
+      <a href="book-create.html" class="btn btn-3d" data-i18n="bookshelf.createNew">Create New Story</a>
+    </div>
+    
+    <div class="filter-tabs">
+      <button class="filter-tab active" data-filter="all" data-i18n="bookshelf.allStories">All Stories</button>
+      <button class="filter-tab" data-filter="adventure">🗺️ <span data-i18n="bookshelf.adventure">Adventure</span></button>
+      <button class="filter-tab" data-filter="fantasy">🧙 <span data-i18n="bookshelf.fantasy">Fantasy</span></button>
+      <button class="filter-tab" data-filter="romance">💕 <span data-i18n="bookshelf.romance">Romance</span></button>
+      <button class="filter-tab" data-filter="business">💼 <span data-i18n="bookshelf.business">Business</span></button>
+    </div>
+    
+    <div class="books-section">
+      <h2 class="section-title"><span data-i18n="bookshelf.myCreations">My Creations</span> <span class="count">(4 <span data-i18n="bookshelf.stories">stories</span>)</span></h2>
+      <div class="books-grid" id="myBooks">
+        <div class="book-item">
+          <div class="add-book-card" onclick="window.location.href='book-create.html'">
+            <span class="add-book-icon">+</span>
+            <span class="add-book-text" data-i18n="bookshelf.createNew">Create New</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="books-section">
+      <h2 class="section-title"><span data-i18n="bookshelf.presetStories">Preset Stories</span> <span class="count">(3 <span data-i18n="bookshelf.stories">stories</span>)</span></h2>
+      <div class="books-grid" id="presetBooks"></div>
+    </div>
+  </div>
+  
+  <script src="js/mock-data.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      createParticles(document.getElementById('particles'), 30);
+      
+      renderMyBooks();
+      renderPresetBooks();
+      initFilterTabs();
+    });
+    
+    function renderMyBooks() {
+      const container = document.getElementById('myBooks');
+      const addCard = container.querySelector('.book-item');
+      
+      mockData.books.forEach(book => {
+        const bookEl = createBookElement(book);
+        container.insertBefore(bookEl, addCard);
+      });
+    }
+    
+    function renderPresetBooks() {
+      const container = document.getElementById('presetBooks');
+      
+      mockData.presetBooks.forEach(book => {
+        const bookEl = createBookElement(book);
+        container.appendChild(bookEl);
+      });
+    }
+    
+    function createBookElement(book) {
+      const colors = {
+        adventure: 'linear-gradient(135deg, #2a4a2a 0%, #1a2a1a 100%)',
+        fantasy: 'linear-gradient(135deg, #2a1a4a 0%, #1a0a2e 100%)',
+        romance: 'linear-gradient(135deg, #4a1a2a 0%, #2a0a1e 100%)',
+        business: 'linear-gradient(135deg, #1a2a3a 0%, #0a1a2e 100%)'
+      };
+      
+      const div = document.createElement('div');
+      div.className = 'book-item';
+      div.dataset.type = book.type;
+      div.innerHTML = `
+        <div class="book-3d" onclick="window.location.href='book.html?id=${book.id}'">
+          <div class="book-cover" style="background: ${colors[book.type] || colors.adventure}">
+            <span style="font-size: 48px;">${book.typeIcon}</span>
+          </div>
+          <div class="book-spine"></div>
+          <div class="book-pages"></div>
+          <div class="book-title">${book.title}</div>
+          <div class="book-tag">${book.type}</div>
+        </div>
+        <div class="book-info">
+          <h4>${book.title}</h4>
+          <p>${book.chapters} <span data-i18n="bookshelf.chapters">chapters</span></p>
+          <div class="book-progress">
+            <div class="book-progress-bar" style="width: ${book.progress || 0}%"></div>
+          </div>
+        </div>
+      `;
+      return div;
+    }
+    
+    function initFilterTabs() {
+      const tabs = document.querySelectorAll('.filter-tab');
+      const books = document.querySelectorAll('.book-item');
+      
+      tabs.forEach(tab => {
+        tab.addEventListener('click', function() {
+          tabs.forEach(t => t.classList.remove('active'));
+          this.classList.add('active');
+          
+          const filter = this.dataset.filter;
+          
+          books.forEach(book => {
+            if (filter === 'all' || book.dataset.type === filter) {
+              book.style.display = '';
+            } else {
+              book.style.display = 'none';
+            }
+          });
+        });
+      });
+    }
+  </script>
+</body>
+</html>

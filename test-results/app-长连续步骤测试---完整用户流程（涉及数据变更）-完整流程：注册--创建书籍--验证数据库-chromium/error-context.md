@@ -1,0 +1,42 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "📚 卡牌互动小说" [ref=e4] [cursor=pointer]:
+      - /url: /
+    - generic [ref=e5]:
+      - generic [ref=e6]: full_flow_1773298435593@test.com
+      - button "退出" [ref=e7] [cursor=pointer]
+  - main [ref=e8]:
+    - generic [ref=e9]:
+      - heading "我的书架" [level=2] [ref=e10]
+      - link "+ 新建书籍" [ref=e11] [cursor=pointer]:
+        - /url: book-create.html
+    - generic [ref=e12]:
+      - heading "我的创作" [level=3] [ref=e13]
+      - paragraph [ref=e15]: 还没有创作，点击上方按钮开始
+    - generic [ref=e16]:
+      - heading "预设故事" [level=3] [ref=e17]
+      - generic [ref=e18]:
+        - generic [ref=e19] [cursor=pointer]:
+          - generic [ref=e20]: 🗺️
+          - generic [ref=e21]:
+            - heading "小明的奇幻冒险" [level=3] [ref=e22]
+            - text: 冒险
+        - generic [ref=e23] [cursor=pointer]:
+          - generic [ref=e24]: 🧙
+          - generic [ref=e25]:
+            - heading "魔法学院传说" [level=3] [ref=e26]
+            - text: 魔幻
+        - generic [ref=e27] [cursor=pointer]:
+          - generic [ref=e28]: 💕
+          - generic [ref=e29]:
+            - heading "都市恋曲" [level=3] [ref=e30]
+            - text: 言情
+        - generic [ref=e31] [cursor=pointer]:
+          - generic [ref=e32]: 💼
+          - generic [ref=e33]:
+            - heading "职场风云录" [level=3] [ref=e34]
+            - text: 职场
+```

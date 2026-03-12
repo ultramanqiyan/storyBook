@@ -1,5 +1,7 @@
 import { createSuccessResponse, createErrorResponse, generateId } from '../../utils.js';
 
+const CARD_LIMIT_PER_TYPE = 8;
+
 const plotOptions = {
   adventure: {
     weather: ['晴天', '阴天', '小雨', '大雨', '雷雨', '大风', '雾天', '雪天', '沙尘暴', '彩虹', '朝霞', '晚霞', '星空', '月夜', '烈日', '微风', '暴雨', '冰雹', '龙卷风', '台风'],
@@ -38,6 +40,30 @@ function getRandomElement(array) {
   return array[Math.floor(Math.random() * array.length)];
 }
 
+async function checkCardLimit(env, bookId, subType) {
+  const result = await env.DB.prepare(
+    'SELECT COUNT(*) as count FROM plot_cards WHERE book_id = ? AND sub_type = ?'
+  ).bind(bookId, subType).first();
+  
+  return result.count >= CARD_LIMIT_PER_TYPE;
+}
+
+async function getCardCountByType(env, bookId, subType) {
+  const result = await env.DB.prepare(
+    'SELECT COUNT(*) as count FROM plot_cards WHERE book_id = ? AND sub_type = ?'
+  ).bind(bookId, subType).first();
+  
+  return result.count;
+}
+
+async function getCardsByType(env, bookId, subType) {
+  const results = await env.DB.prepare(
+    'SELECT * FROM plot_cards WHERE book_id = ? AND sub_type = ? ORDER BY created_at ASC'
+  ).bind(bookId, subType).all();
+  
+  return results.results;
+}
+
 function generateCardDrop(bookType) {
   const options = plotOptions[bookType];
   if (!options) {
@@ -69,6 +95,9 @@ export async function onRequestPost(context) {
   const puzzleId = params.id;
 
   try {
+    const body = await request.json();
+    const { answer, user_id } = body;
+
     const puzzle = await env.DB.prepare(
       'SELECT * FROM puzzles WHERE puzzle_id = ?'
     ).bind(puzzleId).first();
@@ -85,9 +114,6 @@ export async function onRequestPost(context) {
       });
     }
 
-    const body = await request.json();
-    const { answer } = body;
-
     if (!answer) {
       return createErrorResponse('请提供答案');
     }
@@ -101,6 +127,21 @@ export async function onRequestPost(context) {
       ).bind(newAttempts, puzzleId).run();
 
       let reward = null;
+      let cardLimitExceeded = false;
+      let exceededCards = [];
+      let loginRequired = false;
+      
+      if (!user_id) {
+        loginRequired = true;
+        return createSuccessResponse({
+          is_correct: true,
+          is_solved: true,
+          attempts: newAttempts,
+          message: '恭喜！答案正确！登录后可以获得卡牌奖励哦~',
+          login_required: true,
+          reward: null
+        });
+      }
       
       const chapter = await env.DB.prepare(
         'SELECT * FROM chapters WHERE chapter_id = ?'
@@ -115,23 +156,37 @@ export async function onRequestPost(context) {
           const droppedCard = generateCardDrop(book.type);
           
           if (droppedCard) {
-            await env.DB.prepare(
-              'INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES (?, ?, ?, ?, ?, ?, ?, ?)'
-            ).bind(
-              droppedCard.card_id,
-              book.book_id,
-              'plot',
-              droppedCard.sub_type,
-              droppedCard.name,
-              droppedCard.icon,
-              droppedCard.description,
-              droppedCard.is_custom
-            ).run();
+            const isLimitReached = await checkCardLimit(env, book.book_id, droppedCard.sub_type);
+            
+            if (isLimitReached) {
+              cardLimitExceeded = true;
+              exceededCards = await getCardsByType(env, book.book_id, droppedCard.sub_type);
+              reward = {
+                card: droppedCard,
+                sub_type: droppedCard.sub_type,
+                current_count: await getCardCountByType(env, book.book_id, droppedCard.sub_type),
+                existing_cards: exceededCards,
+                message: `恭喜获得卡牌【${droppedCard.name}】！但该类型卡牌已达上限（8张），请选择丢弃一张。`
+              };
+            } else {
+              await env.DB.prepare(
+                'INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES (?, ?, ?, ?, ?, ?, ?, ?)'
+              ).bind(
+                droppedCard.card_id,
+                book.book_id,
+                'plot',
+                droppedCard.sub_type,
+                droppedCard.name,
+                droppedCard.icon,
+                droppedCard.description,
+                droppedCard.is_custom
+              ).run();
 
-            reward = {
-              card: droppedCard,
-              message: `恭喜获得卡牌【${droppedCard.name}】！`
-            };
+              reward = {
+                card: droppedCard,
+                message: `恭喜获得卡牌【${droppedCard.name}】！`
+              };
+            }
           }
         }
       }
@@ -141,7 +196,8 @@ export async function onRequestPost(context) {
         is_solved: true,
         attempts: newAttempts,
         message: '恭喜！答案正确！',
-        reward
+        reward,
+        card_limit_exceeded: cardLimitExceeded
       });
     } else {
       if (newAttempts >= puzzle.max_attempts) {

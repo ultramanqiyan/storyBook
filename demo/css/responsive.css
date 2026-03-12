@@ -1,0 +1,161 @@
+@media (max-width: 1024px) {
+  :root {
+    --spacing-xxl: 32px;
+  }
+  
+  .grid-4 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  .hs-card {
+    width: 150px;
+  }
+  
+  .book-3d {
+    width: 130px;
+    height: 175px;
+  }
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+  
+  :root {
+    --spacing-xl: 24px;
+    --spacing-xxl: 24px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  h2 {
+    font-size: 2rem;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+  }
+  
+  .grid-2,
+  .grid-3,
+  .grid-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .navbar {
+    padding: 0 var(--spacing-md);
+  }
+  
+  .navbar-nav {
+    gap: var(--spacing-md);
+  }
+  
+  .hs-card {
+    width: 140px;
+  }
+  
+  .book-3d {
+    width: 120px;
+    height: 160px;
+  }
+  
+  .book-3d:hover {
+    transform: translateY(-10px);
+  }
+  
+  .particles-container .particle:nth-child(n+30) {
+    display: none;
+  }
+  
+  .parchment {
+    padding: var(--spacing-lg);
+  }
+  
+  .wax-seal {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .wax-seal-icon {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  :root {
+    --spacing-lg: 16px;
+    --spacing-xl: 16px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  .grid-2,
+  .grid-3,
+  .grid-4 {
+    grid-template-columns: 1fr;
+  }
+  
+  .hs-card {
+    width: 160px;
+    margin: 0 auto;
+  }
+  
+  .book-3d {
+    width: 140px;
+    height: 185px;
+    margin: 0 auto;
+  }
+  
+  .btn {
+    padding: var(--spacing-sm) var(--spacing-lg);
+    font-size: 14px;
+  }
+  
+  .navbar-brand {
+    font-size: 18px;
+  }
+  
+  .particles-container .particle:nth-child(n+20) {
+    display: none;
+  }
+  
+  .modal-content {
+    padding: var(--spacing-lg);
+  }
+}
+
+@media (hover: none) {
+  .hs-card:hover,
+  .book-3d:hover {
+    transform: none;
+  }
+  
+  .btn:hover {
+    transform: none;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .particle {
+    animation: none;
+    display: none;
+  }
+  
+  .hs-card,
+  .book-3d,
+  .btn {
+    transition: none;
+  }
+}

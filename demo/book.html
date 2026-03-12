@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Lost Kingdom - StoryBook</title>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/themes.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <style>
+    .book-opening-page {
+      min-height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      perspective: 2000px;
+    }
+    
+    .book-container {
+      position: relative;
+      width: 90%;
+      max-width: 1200px;
+      height: 80vh;
+      min-height: 600px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .book-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 40px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #2a1a0a 0%, 
+        #4a3a2a 20%, 
+        #3a2a1a 50%, 
+        #4a3a2a 80%, 
+        #2a1a0a 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 20px rgba(0, 0, 0, 0.5),
+        inset 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    .book-spine::before {
+      content: '';
+      position: absolute;
+      top: 10%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 4px;
+      height: 80%;
+      background: linear-gradient(180deg, 
+        #8B4513 0%, 
+        #A0522D 50%, 
+        #8B4513 100%);
+      border-radius: 2px;
+    }
+    
+    .book-spine-title {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) rotate(-90deg);
+      white-space: nowrap;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #D4AF37;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+      letter-spacing: 2px;
+    }
+    
+    .book-page {
+      position: absolute;
+      width: calc(50% - 30px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .book-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .book-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-content {
+      position: relative;
+      height: 100%;
+      padding: 30px;
+      overflow-y: auto;
+      color: #2a1810;
+      z-index: 1;
+    }
+    
+    .view-tabs {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.3);
+    }
+    
+    .view-tab {
+      padding: 8px 20px;
+      background: rgba(139, 90, 43, 0.1);
+      border: 2px solid rgba(139, 90, 43, 0.3);
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #4a3a2a;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .view-tab:hover {
+      background: rgba(139, 90, 43, 0.2);
+      border-color: #8B4513;
+    }
+    
+    .view-tab.active {
+      background: rgba(139, 90, 43, 0.3);
+      border-color: #8B4513;
+      color: #2a1810;
+    }
+    
+    .chapter-list-view {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+    }
+    
+    .chapter-card {
+      padding: 15px;
+      background: rgba(139, 90, 43, 0.1);
+      border: 1px solid rgba(139, 90, 43, 0.2);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .chapter-card:hover {
+      background: rgba(139, 90, 43, 0.2);
+      transform: translateY(-2px);
+    }
+    
+    .chapter-card .chapter-number {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 12px;
+      color: #8B4513;
+      margin-bottom: 5px;
+    }
+    
+    .chapter-card .chapter-title {
+      font-family: 'Cinzel', serif;
+      font-size: 14px;
+      color: #2a1810;
+    }
+    
+    .chapter-card .chapter-status {
+      font-size: 11px;
+      color: #6a4a2a;
+      margin-top: 5px;
+    }
+    
+    .character-grid-view {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      justify-items: center;
+    }
+    
+    .character-card-mini {
+      width: 140px;
+      padding: 15px;
+      background: linear-gradient(135deg, rgba(26, 26, 46, 0.9) 0%, rgba(22, 33, 62, 0.9) 100%);
+      border: 2px solid #FFD700;
+      border-radius: 10px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .character-card-mini:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+    }
+    
+    .character-card-mini .avatar {
+      font-size: 40px;
+      margin-bottom: 10px;
+    }
+    
+    .character-card-mini .name {
+      font-family: 'Cinzel', serif;
+      font-size: 12px;
+      color: #FFD700;
+    }
+    
+    .character-card-mini .role {
+      font-size: 10px;
+      color: #a0a0a0;
+      margin-top: 5px;
+    }
+    
+    .plot-grid-view {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+    }
+    
+    .plot-card-mini {
+      padding: 15px;
+      background: linear-gradient(135deg, rgba(139, 0, 0, 0.2) 0%, rgba(80, 0, 0, 0.2) 100%);
+      border: 1px solid rgba(139, 0, 0, 0.3);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .plot-card-mini:hover {
+      transform: translateY(-3px);
+      border-color: #8B0000;
+    }
+    
+    .plot-card-mini .plot-icon {
+      font-size: 24px;
+      margin-bottom: 8px;
+    }
+    
+    .plot-card-mini .plot-title {
+      font-family: 'Cinzel', serif;
+      font-size: 13px;
+      color: #2a1810;
+    }
+    
+    .plot-card-mini .plot-desc {
+      font-size: 11px;
+      color: #4a3a2a;
+      margin-top: 5px;
+    }
+    
+    .book-info-header {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      padding: 20px;
+      background: rgba(139, 90, 43, 0.1);
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    
+    .book-cover-small {
+      width: 80px;
+      height: 110px;
+      background: linear-gradient(135deg, #2a4a2a 0%, #1a2a1a 100%);
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    .book-cover-small span {
+      font-size: 36px;
+    }
+    
+    .book-meta-info h2 {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 20px;
+      color: #2a1810;
+      margin-bottom: 5px;
+    }
+    
+    .book-meta-info .type-badge {
+      display: inline-block;
+      padding: 3px 10px;
+      background: #8B4513;
+      color: #f4e4bc;
+      border-radius: 4px;
+      font-size: 10px;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    
+    .book-meta-info .stats {
+      display: flex;
+      gap: 15px;
+      font-size: 12px;
+      color: #4a3a2a;
+    }
+    
+    .action-buttons {
+      display: flex;
+      gap: 10px;
+      margin-top: 15px;
+    }
+    
+    .action-btn {
+      padding: 10px 20px;
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border: 2px solid #D4AF37;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 13px;
+      color: #f4e4bc;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+    }
+    
+    .action-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
+    }
+    
+    .action-btn.secondary {
+      background: transparent;
+      color: #8B4513;
+    }
+    
+    @media (max-width: 900px) {
+      .book-container {
+        width: 95%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+      }
+      
+      .book-spine {
+        display: none;
+      }
+      
+      .book-page {
+        position: relative;
+        width: 100%;
+        height: auto;
+        min-height: 400px;
+        margin-bottom: 20px;
+      }
+      
+      .book-page.left,
+      .book-page.right {
+        border-radius: 8px;
+      }
+      
+      .chapter-list-view,
+      .character-grid-view,
+      .plot-grid-view {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="index.html" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="bookshelf.html" class="navbar-link">My Library</a>
+      <a href="login.html" class="navbar-link">Sign Out</a>
+    </div>
+  </nav>
+  
+  <div class="book-opening-page">
+    <div class="book-container">
+      <div class="book-spine">
+        <span class="book-spine-title">The Lost Kingdom</span>
+      </div>
+      
+      <div class="book-page left">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div class="book-info-header">
+            <div class="book-cover-small">
+              <span>🗺️</span>
+            </div>
+            <div class="book-meta-info">
+              <span class="type-badge">Adventure</span>
+              <h2>The Lost Kingdom</h2>
+              <div class="stats">
+                <span>📜 20 Chapters</span>
+                <span>👥 5 Characters</span>
+                <span>📖 15% Progress</span>
+              </div>
+              <div class="action-buttons">
+                <a href="chapter.html" class="action-btn">Continue Reading</a>
+                <a href="director.html" class="action-btn secondary">Direct New Chapter</a>
+              </div>
+            </div>
+          </div>
+          
+          <div class="view-tabs">
+            <button class="view-tab active" data-view="chapters" onclick="switchView('chapters')">📜 Chapters</button>
+            <button class="view-tab" data-view="characters" onclick="switchView('characters')">👥 Characters</button>
+            <button class="view-tab" data-view="plots" onclick="switchView('plots')">🎭 Plots</button>
+          </div>
+          
+          <div id="leftPageContent"></div>
+        </div>
+      </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script src="js/mock-data.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/theme.js"></script>
+  <script>
+    const bookData = {
+      chapters: [
+        { id: 1, number: 'I', title: 'The Beginning', status: 'read' },
+        { id: 2, number: 'II', title: 'The Journey Begins', status: 'read' },
+        { id: 3, number: 'III', title: 'The Mountain Pass', status: 'current' },
+        { id: 4, number: 'IV', title: "The Dragon's Lair", status: 'locked' },
+        { id: 5, number: 'V', title: 'The Hidden Treasure', status: 'locked' },
+        { id: 6, number: 'VI', title: 'The Final Battle', status: 'locked' },
+        { id: 7, number: 'VII', title: 'Victory and Peace', status: 'locked' },
+        { id: 8, number: 'VIII', title: 'A New Beginning', status: 'locked' }
+      ],
+      characters: [
+        { id: 1, avatar: '🧙‍♂️', name: 'Sir Galahad', role: 'Protagonist' },
+        { id: 2, avatar: '👸', name: 'Lady Elara', role: 'Supporter' },
+        { id: 3, avatar: '⚔️', name: 'Dark Knight', role: 'Antagonist' },
+        { id: 4, avatar: '👴', name: 'Village Elder', role: 'NPC' },
+        { id: 5, avatar: '🐉', name: 'Ancient Dragon', role: 'Boss' }
+      ],
+      plots: [
+        { id: 1, icon: '🗡️', title: 'The Call to Adventure', desc: 'Galahad receives his quest' },
+        { id: 2, icon: '🏔️', title: 'Mountain Crossing', desc: 'The treacherous journey' },
+        { id: 3, icon: '🐉', title: 'Dragon Encounter', desc: 'Face the ancient beast' },
+        { id: 4, icon: '💎', title: 'Hidden Treasure', desc: "Discover the kingdom's secret" },
+        { id: 5, icon: '⚔️', title: 'Final Confrontation', desc: 'Battle for the kingdom' },
+        { id: 6, icon: '👑', title: 'Restoration', desc: 'The kingdom reborn' }
+      ]
+    };
+
+    let currentView = 'chapters';
+
+    function switchView(view) {
+      currentView = view;
+      
+      document.querySelectorAll('.view-tab').forEach(tab => {
+        tab.classList.toggle('active', tab.dataset.view === view);
+      });
+      
+      renderBookPages();
+    }
+
+    function renderBookPages() {
+      const leftContent = document.getElementById('leftPageContent');
+      const rightContent = document.getElementById('rightPageContent');
+      
+      if (currentView === 'chapters') {
+        const half = Math.ceil(bookData.chapters.length / 2);
+        const leftChapters = bookData.chapters.slice(0, half);
+        const rightChapters = bookData.chapters.slice(half);
+        
+        leftContent.innerHTML = `<div class="chapter-list-view">${leftChapters.map(ch => renderChapterCard(ch)).join('')}</div>`;
+        rightContent.innerHTML = `<div class="chapter-list-view">${rightChapters.map(ch => renderChapterCard(ch)).join('')}</div>`;
+      } else if (currentView === 'characters') {
+        const half = Math.ceil(bookData.characters.length / 2);
+        const leftChars = bookData.characters.slice(0, half);
+        const rightChars = bookData.characters.slice(half);
+        
+        leftContent.innerHTML = `<div class="character-grid-view">${leftChars.map(ch => renderCharacterCard(ch)).join('')}</div>`;
+        rightContent.innerHTML = `<div class="character-grid-view">${rightChars.map(ch => renderCharacterCard(ch)).join('')}</div>`;
+      } else if (currentView === 'plots') {
+        const half = Math.ceil(bookData.plots.length / 2);
+        const leftPlots = bookData.plots.slice(0, half);
+        const rightPlots = bookData.plots.slice(half);
+        
+        leftContent.innerHTML = `<div class="plot-grid-view">${leftPlots.map(p => renderPlotCard(p)).join('')}</div>`;
+        rightContent.innerHTML = `<div class="plot-grid-view">${rightPlots.map(p => renderPlotCard(p)).join('')}</div>`;
+      }
+    }
+
+    function renderChapterCard(chapter) {
+      const statusIcon = {
+        'read': '✓ Read',
+        'current': '📖 Current',
+        'locked': '🔒 Locked'
+      };
+      
+      return `
+        <div class="chapter-card ${chapter.status}" onclick="goToChapter(${chapter.id})">
+          <div class="chapter-number">Chapter ${chapter.number}</div>
+          <div class="chapter-title">${chapter.title}</div>
+          <div class="chapter-status">${statusIcon[chapter.status]}</div>
+        </div>
+      `;
+    }
+
+    function renderCharacterCard(char) {
+      return `
+        <div class="character-card-mini" onclick="showCharacterDetail(${char.id})">
+          <div class="avatar">${char.avatar}</div>
+          <div class="name">${char.name}</div>
+          <div class="role">${char.role}</div>
+        </div>
+      `;
+    }
+
+    function renderPlotCard(plot) {
+      return `
+        <div class="plot-card-mini" onclick="showPlotDetail(${plot.id})">
+          <div class="plot-icon">${plot.icon}</div>
+          <div class="plot-title">${plot.title}</div>
+          <div class="plot-desc">${plot.desc}</div>
+        </div>
+      `;
+    }
+
+    function goToChapter(id) {
+      window.location.href = `chapter.html?id=${id}`;
+    }
+
+    function showCharacterDetail(id) {
+      const char = bookData.characters.find(c => c.id === id);
+      showNotification(`Viewing: ${char.name}`, 'info');
+    }
+
+    function showPlotDetail(id) {
+      const plot = bookData.plots.find(p => p.id === id);
+      showNotification(`Viewing: ${plot.title}`, 'info');
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+      createParticles(document.getElementById('particles'), 30);
+      renderBookPages();
+    });
+  </script>
+</body>
+</html>

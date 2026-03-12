@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter III - The Mountain Pass - StoryBook</title>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/themes.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <style>
+    .book-reader-page {
+      min-height: 100vh;
+      padding-top: 80px;
+      padding-bottom: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 200px);
+      min-height: 600px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-spine::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 40px;
+      height: 100%;
+      background: repeating-linear-gradient(
+        180deg,
+        transparent 0px,
+        transparent 8px,
+        rgba(0, 0, 0, 0.1) 8px,
+        rgba(0, 0, 0, 0.1) 10px
+      );
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      overflow: hidden;
+      box-shadow: 0 0 40px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-radius: 8px 0 0 8px;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .parchment-bg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.12) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.12) 0%, transparent 50%);
+      pointer-events: none;
+    }
+    
+    .page-wear {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-wear.corner-tl {
+      top: 0;
+      left: 0;
+      width: 60px;
+      height: 60px;
+      background: radial-gradient(circle at 0 0, transparent 30px, rgba(60, 30, 15, 0.4) 100%);
+    }
+    
+    .page-wear.corner-tr {
+      top: 0;
+      right: 0;
+      width: 60px;
+      height: 60px;
+      background: radial-gradient(circle at 100% 0, transparent 30px, rgba(60, 30, 15, 0.4) 100%);
+    }
+    
+    .page-wear.corner-bl {
+      bottom: 0;
+      left: 0;
+      width: 60px;
+      height: 60px;
+      background: radial-gradient(circle at 0 100%, transparent 30px, rgba(60, 30, 15, 0.4) 100%);
+    }
+    
+    .page-wear.corner-br {
+      bottom: 0;
+      right: 0;
+      width: 60px;
+      height: 60px;
+      background: radial-gradient(circle at 100% 100%, transparent 30px, rgba(60, 30, 15, 0.4) 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      color: #1a1008;
+      z-index: 1;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .character-highlight {
+      color: #8B4513;
+      font-weight: 600;
+      cursor: pointer;
+      border-bottom: 1px dotted #8B4513;
+      transition: all 0.3s ease;
+    }
+    
+    .character-highlight:hover {
+      color: #5C4033;
+      background: rgba(139, 90, 43, 0.15);
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .progress-corner {
+      position: absolute;
+      top: 15px;
+      right: 20px;
+      font-family: 'Spectral', serif;
+      font-size: 12px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+    }
+    
+    .scroll-nav-btn:hover:not(:disabled) {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .scroll-nav-btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .cards-sidebar {
+      position: fixed;
+      right: 0;
+      top: 80px;
+      bottom: 60px;
+      width: 280px;
+      background: rgba(15, 15, 35, 0.98);
+      border-left: 2px solid rgba(255, 215, 0, 0.3);
+      transform: translateX(calc(100% - 40px));
+      transition: transform 0.4s ease;
+      z-index: 90;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .cards-sidebar.expanded {
+      transform: translateX(0);
+    }
+    
+    .sidebar-toggle {
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translate(-100%, -50%);
+      width: 40px;
+      height: 80px;
+      background: rgba(15, 15, 35, 0.98);
+      border: 2px solid rgba(255, 215, 0, 0.3);
+      border-right: none;
+      border-radius: 8px 0 0 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      color: #FFD700;
+      font-size: 18px;
+      transition: all 0.3s ease;
+    }
+    
+    .sidebar-toggle:hover {
+      background: rgba(255, 215, 0, 0.1);
+    }
+    
+    .sidebar-toggle::before {
+      content: '◀';
+      transition: transform 0.3s ease;
+    }
+    
+    .cards-sidebar.expanded .sidebar-toggle::before {
+      content: '▶';
+    }
+    
+    .sidebar-tabs {
+      display: flex;
+      border-bottom: 1px solid rgba(255, 215, 0, 0.2);
+    }
+    
+    .sidebar-tab {
+      flex: 1;
+      padding: 12px;
+      background: transparent;
+      border: none;
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+      font-size: 12px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      border-bottom: 2px solid transparent;
+    }
+    
+    .sidebar-tab:hover {
+      color: #FFD700;
+    }
+    
+    .sidebar-tab.active {
+      color: #FFD700;
+      border-bottom-color: #FFD700;
+      background: rgba(255, 215, 0, 0.05);
+    }
+    
+    .sidebar-content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 15px;
+    }
+    
+    .sidebar-card-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    
+    .sidebar-card {
+      padding: 12px;
+      background: rgba(255, 215, 0, 0.05);
+      border: 1px solid rgba(255, 215, 0, 0.2);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .sidebar-card:hover {
+      background: rgba(255, 215, 0, 0.1);
+      border-color: #FFD700;
+    }
+    
+    .sidebar-card .card-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .sidebar-card .card-avatar {
+      font-size: 24px;
+    }
+    
+    .sidebar-card .card-name {
+      font-family: 'Cinzel', serif;
+      font-size: 13px;
+      color: #FFD700;
+    }
+    
+    .sidebar-card .card-role {
+      font-size: 11px;
+      color: #a0a0a0;
+      margin-top: 2px;
+    }
+    
+    .sidebar-detail {
+      display: none;
+      padding: 15px;
+      background: rgba(255, 215, 0, 0.08);
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+    
+    .sidebar-card.expanded .sidebar-detail {
+      display: block;
+    }
+    
+    .sidebar-detail .detail-desc {
+      font-size: 12px;
+      color: #d0d0d0;
+      line-height: 1.6;
+      margin-bottom: 10px;
+    }
+    
+    .sidebar-detail .detail-chapters {
+      font-size: 11px;
+      color: #a0a0a0;
+    }
+    
+    .puzzle-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.8);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 200;
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.3s ease;
+    }
+    
+    .puzzle-overlay.active {
+      opacity: 1;
+      visibility: visible;
+    }
+    
+    .puzzle-scroll {
+      position: relative;
+      max-width: 500px;
+      width: 90%;
+      animation: scaleIn 0.5s ease-out;
+    }
+    
+    .puzzle-scroll .scroll-handle-top {
+      height: 30px;
+      background: linear-gradient(90deg, #8B4513 0%, #A0522D 50%, #8B4513 100%);
+      border-radius: 15px 15px 0 0;
+      box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.3);
+    }
+    
+    .puzzle-scroll .scroll-handle-bottom {
+      height: 30px;
+      background: linear-gradient(90deg, #8B4513 0%, #A0522D 50%, #8B4513 100%);
+      border-radius: 0 0 15px 15px;
+      box-shadow: inset 0 -2px 4px rgba(0, 0, 0, 0.3);
+    }
+    
+    .puzzle-content {
+      background: #f4e4bc;
+      padding: 30px;
+      text-align: center;
+      color: #2a1810;
+    }
+    
+    .puzzle-title {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 20px;
+      color: #3a2a1a;
+      margin-bottom: 20px;
+    }
+    
+    .puzzle-question {
+      font-family: 'Spectral', serif;
+      font-size: 16px;
+      color: #4a3a2a;
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+    
+    .puzzle-options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    
+    .puzzle-option {
+      padding: 15px;
+      background: rgba(139, 90, 43, 0.1);
+      border: 2px solid rgba(139, 90, 43, 0.3);
+      border-radius: 8px;
+      font-family: 'Spectral', serif;
+      font-size: 14px;
+      color: #3a2a1a;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .puzzle-option:hover {
+      background: rgba(139, 90, 43, 0.2);
+      border-color: #8B4513;
+    }
+    
+    .puzzle-option.selected {
+      background: rgba(255, 215, 0, 0.2);
+      border-color: #FFD700;
+    }
+    
+    .puzzle-option.correct {
+      background: rgba(34, 197, 94, 0.2);
+      border-color: #22c55e;
+    }
+    
+    .puzzle-option.wrong {
+      background: rgba(220, 38, 38, 0.2);
+      border-color: #dc2626;
+    }
+    
+    .puzzle-submit {
+      margin-top: 20px;
+      padding: 12px 30px;
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      color: #f4e4bc;
+      border: 2px solid #D4AF37;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .puzzle-submit:hover {
+      transform: translateY(-2px);
+    }
+    
+    .puzzle-close {
+      position: absolute;
+      top: -15px;
+      right: -15px;
+      width: 40px;
+      height: 40px;
+      background: #8B0000;
+      border: 2px solid #FFD700;
+      border-radius: 50%;
+      color: white;
+      font-size: 20px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 10;
+    }
+    
+    @media (max-width: 1200px) {
+      .cards-sidebar {
+        display: none;
+      }
+    }
+    
+    @media (max-width: 1000px) {
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: 500px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 25px 20px;
+      }
+      
+      .manuscript-text {
+        font-size: 16px;
+      }
+      
+      .drop-cap {
+        font-size: 3.5em;
+      }
+    }
+  </style>
+</head>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="book.html" class="navbar-brand">← The Lost Kingdom</a>
+    <div class="navbar-nav">
+      <a href="bookshelf.html" class="navbar-link">Library</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-bg"></div>
+        <div class="page-wear corner-tl"></div>
+        <div class="page-wear corner-bl"></div>
+        <div class="progress-corner">📖 35%</div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+            <div class="chapter-num">CHAPTER III</div>
+            <div class="chapter-name">The Mountain Pass</div>
+          </div>
+          
+          <div class="manuscript-text">
+            <p><span class="drop-cap">T</span>he path to the Dragon's lair led through treacherous mountain passes, where the wind howled like lost souls and the ground trembled with each step. <span class="character-highlight" data-character="1">Sir Galahad</span> tightened his grip on the ancient sword, its golden hilt warm against his palm.</p>
+            
+            <p>"We must be careful," warned <span class="character-highlight" data-character="2">Lady Elara</span>, her eyes scanning the rocky terrain. "These mountains are home to creatures far older than the Dragon itself."</p>
+            
+            <div class="dialogue-block">
+              <div class="speaker">Lady Elara:</div>
+              <div class="speech">"The ancient texts speak of guardians that protect these peaks. They are neither friend nor foe, but test all who dare to pass."</div>
+            </div>
+            
+            <p>Galahad nodded, his breath visible in the thin mountain air. Below them, the valley stretched out like a patchwork quilt of forests and rivers, the kingdom they had sworn to protect.</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-bg"></div>
+        <div class="page-wear corner-tr"></div>
+        <div class="page-wear corner-br"></div>
+        <div class="reading-content">
+          <div class="manuscript-text">
+            <p>As they rounded a narrow bend, the ground suddenly shook. From the shadows emerged a figure in obsidian armor, his blade gleaming with an otherworldly darkness.</p>
+            
+            <div class="dialogue-block">
+              <div class="speaker">Dark Knight:</div>
+              <div class="speech">"Turn back, young one. None shall pass while I draw breath. The Dragon's secrets are not meant for mortal eyes."</div>
+            </div>
+            
+            <div class="section-divider"></div>
+            
+            <p>The <span class="character-highlight" data-character="3">Dark Knight</span>'s challenge hung in the air like a curse. Galahad knew that violence alone would not win this day - he would need wisdom as sharp as his blade.</p>
+            
+            <p>The ancient <span class="character-highlight" data-character="4">Village Elder</span> had spoken of this guardian, the eternal sentinel who tested the hearts of those who sought the Dragon's treasure.</p>
+            
+            <div class="puzzle-trigger" style="text-align: center; margin-top: 30px;">
+              <button class="scroll-nav-btn" onclick="showPuzzle()">
+                🧩 Solve the Guardian's Riddle
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="cards-sidebar" id="cardsSidebar">
+    <div class="sidebar-toggle" onclick="toggleSidebar()"></div>
+    
+    <div class="sidebar-tabs">
+      <button class="sidebar-tab active" data-tab="characters" onclick="switchSidebarTab('characters')">👤 角色</button>
+      <button class="sidebar-tab" data-tab="plots" onclick="switchSidebarTab('plots')">📜 情节</button>
+    </div>
+    
+    <div class="sidebar-content">
+      <div id="sidebarCharacters" class="sidebar-card-list"></div>
+      <div id="sidebarPlots" class="sidebar-card-list" style="display: none;"></div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <button class="scroll-nav-btn" onclick="prevChapter()">
+      ← Previous
+    </button>
+    <div class="nav-info">
+      Chapter 3 of 20
+    </div>
+    <button class="scroll-nav-btn" onclick="nextChapter()">
+      Next →
+    </button>
+  </div>
+  
+  <div class="puzzle-overlay" id="puzzleOverlay">
+    <div class="puzzle-scroll">
+      <button class="puzzle-close" onclick="hidePuzzle()">×</button>
+      <div class="scroll-handle-top"></div>
+      <div class="puzzle-content">
+        <h3 class="puzzle-title">⚔️ The Guardian's Riddle</h3>
+        <p class="puzzle-question">"I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?"</p>
+        <div class="puzzle-options">
+          <div class="puzzle-option" onclick="selectOption(this, 0)">A) A Shadow</div>
+          <div class="puzzle-option" onclick="selectOption(this, 1)">B) An Echo</div>
+          <div class="puzzle-option" onclick="selectOption(this, 2)">C) A Ghost</div>
+          <div class="puzzle-option" onclick="selectOption(this, 3)">D) A Whisper</div>
+        </div>
+        <button class="puzzle-submit" onclick="submitAnswer()">Submit Answer</button>
+      </div>
+      <div class="scroll-handle-bottom"></div>
+    </div>
+  </div>
+  
+  <script src="js/mock-data.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/theme.js"></script>
+  <script>
+    const chapterCharacters = [
+      { id: 1, avatar: '🧙‍♂️', name: 'Sir Galahad', role: 'Protagonist', desc: 'A brave knight on a quest to save the kingdom.', chapters: '1, 2, 3, 4, 5' },
+      { id: 2, avatar: '👸', name: 'Lady Elara', role: 'Supporter', desc: 'A wise sorceress who guides the hero.', chapters: '1, 2, 3, 5' },
+      { id: 3, avatar: '⚔️', name: 'Dark Knight', role: 'Antagonist', desc: 'The mysterious guardian of the mountain pass.', chapters: '3, 4' },
+      { id: 4, avatar: '👴', name: 'Village Elder', role: 'NPC', desc: 'An ancient sage who knows the old legends.', chapters: '1, 3' }
+    ];
+
+    const chapterPlots = [
+      { id: 1, icon: '🏔️', title: 'Mountain Crossing', desc: 'The treacherous journey through the peaks.' },
+      { id: 2, icon: '⚔️', title: 'Guardian Encounter', desc: "Face the Dark Knight's challenge." },
+      { id: 3, icon: '🧩', title: 'Riddle of Wisdom', desc: 'Prove your worth through intellect.' }
+    ];
+
+    let selectedOption = null;
+    const correctAnswer = 1;
+
+    function toggleSidebar() {
+      document.getElementById('cardsSidebar').classList.toggle('expanded');
+    }
+
+    function switchSidebarTab(tab) {
+      document.querySelectorAll('.sidebar-tab').forEach(t => {
+        t.classList.toggle('active', t.dataset.tab === tab);
+      });
+      
+      document.getElementById('sidebarCharacters').style.display = tab === 'characters' ? 'flex' : 'none';
+      document.getElementById('sidebarPlots').style.display = tab === 'plots' ? 'flex' : 'none';
+    }
+
+    function renderSidebarCards() {
+      const charList = document.getElementById('sidebarCharacters');
+      const plotList = document.getElementById('sidebarPlots');
+      
+      charList.innerHTML = chapterCharacters.map(char => `
+        <div class="sidebar-card" onclick="toggleCardDetail(this)" data-id="${char.id}">
+          <div class="card-header">
+            <span class="card-avatar">${char.avatar}</span>
+            <div>
+              <div class="card-name">${char.name}</div>
+              <div class="card-role">${char.role}</div>
+            </div>
+          </div>
+          <div class="sidebar-detail">
+            <div class="detail-desc">${char.desc}</div>
+            <div class="detail-chapters">Appears in: Chapter ${char.chapters}</div>
+          </div>
+        </div>
+      `).join('');
+      
+      plotList.innerHTML = chapterPlots.map(plot => `
+        <div class="sidebar-card" data-id="${plot.id}">
+          <div class="card-header">
+            <span class="card-avatar">${plot.icon}</span>
+            <div>
+              <div class="card-name">${plot.title}</div>
+              <div class="card-role">${plot.desc}</div>
+            </div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function toggleCardDetail(card) {
+      card.classList.toggle('expanded');
+    }
+
+    function initCharacterHighlights() {
+      document.querySelectorAll('.character-highlight').forEach(el => {
+        el.addEventListener('click', function() {
+          const charId = this.dataset.character;
+          const sidebar = document.getElementById('cardsSidebar');
+          sidebar.classList.add('expanded');
+          switchSidebarTab('characters');
+          
+          const card = sidebar.querySelector(`.sidebar-card[data-id="${charId}"]`);
+          if (card) {
+            card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            card.classList.add('expanded');
+            card.style.animation = 'pulse 0.5s ease';
+            setTimeout(() => card.style.animation = '', 500);
+          }
+        });
+      });
+    }
+
+    function showPuzzle() {
+      document.getElementById('puzzleOverlay').classList.add('active');
+    }
+
+    function hidePuzzle() {
+      document.getElementById('puzzleOverlay').classList.remove('active');
+    }
+
+    function selectOption(element, index) {
+      document.querySelectorAll('.puzzle-option').forEach(opt => {
+        opt.classList.remove('selected');
+      });
+      element.classList.add('selected');
+      selectedOption = index;
+    }
+
+    function submitAnswer() {
+      if (selectedOption === null) {
+        showNotification('Please select an answer!', 'warning');
+        return;
+      }
+      
+      const options = document.querySelectorAll('.puzzle-option');
+      
+      if (selectedOption === correctAnswer) {
+        options[selectedOption].classList.add('correct');
+        setTimeout(() => {
+          hidePuzzle();
+          showNotification('Correct! The path is clear.', 'success');
+        }, 1000);
+      } else {
+        options[selectedOption].classList.add('wrong');
+        options[correctAnswer].classList.add('correct');
+        setTimeout(() => {
+          options.forEach(opt => {
+            opt.classList.remove('selected', 'correct', 'wrong');
+          });
+          selectedOption = null;
+        }, 1500);
+      }
+    }
+
+    function prevChapter() {
+      showNotification('Loading previous chapter...', 'info');
+    }
+
+    function nextChapter() {
+      showNotification('Loading next chapter...', 'info');
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+      createParticles(document.getElementById('particles'), 20);
+      renderSidebarCards();
+      initCharacterHighlights();
+    });
+  </script>
+</body>
+</html>

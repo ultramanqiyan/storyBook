@@ -1,0 +1,654 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "📚 卡牌互动小说" [ref=e4] [cursor=pointer]:
+      - /url: /
+    - generic [ref=e5]:
+      - generic [ref=e6]: test@example.com
+      - button "退出" [ref=e7] [cursor=pointer]
+  - main [ref=e8]:
+    - generic [ref=e9]:
+      - heading "我的书架" [level=2] [ref=e10]
+      - link "+ 新建书籍" [ref=e11] [cursor=pointer]:
+        - /url: book-create.html
+    - generic [ref=e12]:
+      - heading "我的创作" [level=3] [ref=e13]
+      - generic [ref=e14]:
+        - generic [ref=e15] [cursor=pointer]:
+          - generic [ref=e16]: 💼
+          - generic [ref=e17]:
+            - heading "书架验证书籍_1773284413810" [level=3] [ref=e18]
+            - text: 职场
+          - button "🗑️" [ref=e19]
+        - generic [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: 💼
+          - generic [ref=e22]:
+            - heading "business测试_1773284409544" [level=3] [ref=e23]
+            - text: 职场
+          - button "🗑️" [ref=e24]
+        - generic [ref=e25] [cursor=pointer]:
+          - generic [ref=e26]: 💕
+          - generic [ref=e27]:
+            - heading "romance测试_1773284403458" [level=3] [ref=e28]
+            - text: 言情
+          - button "🗑️" [ref=e29]
+        - generic [ref=e30] [cursor=pointer]:
+          - generic [ref=e31]: 🧙
+          - generic [ref=e32]:
+            - heading "fantasy测试_1773284397373" [level=3] [ref=e33]
+            - text: 魔幻
+          - button "🗑️" [ref=e34]
+        - generic [ref=e35] [cursor=pointer]:
+          - generic [ref=e36]: 🗺️
+          - generic [ref=e37]:
+            - heading "adventure测试_1773284391255" [level=3] [ref=e38]
+            - text: 冒险
+          - button "🗑️" [ref=e39]
+        - generic [ref=e40] [cursor=pointer]:
+          - generic [ref=e41]: 💕
+          - generic [ref=e42]:
+            - heading "卡牌验证书籍_1773284374039" [level=3] [ref=e43]
+            - text: 言情
+          - button "🗑️" [ref=e44]
+        - generic [ref=e45] [cursor=pointer]:
+          - generic [ref=e46]: 🧙
+          - generic [ref=e47]:
+            - heading "角色验证书籍_1773284365399" [level=3] [ref=e48]
+            - text: 魔幻
+          - button "🗑️" [ref=e49]
+        - generic [ref=e50] [cursor=pointer]:
+          - generic [ref=e51]: 🗺️
+          - generic [ref=e52]:
+            - heading "测试书籍_1773284337256" [level=3] [ref=e53]
+            - text: 冒险
+          - button "🗑️" [ref=e54]
+        - generic [ref=e55] [cursor=pointer]:
+          - generic [ref=e56]: 🗺️
+          - generic [ref=e57]:
+            - heading "测试书籍_1773284329330" [level=3] [ref=e58]
+            - text: 冒险
+          - button "🗑️" [ref=e59]
+        - generic [ref=e60] [cursor=pointer]:
+          - generic [ref=e61]: 🗺️
+          - generic [ref=e62]:
+            - heading "完整流程测试书籍_1773284320400" [level=3] [ref=e63]
+            - text: 冒险
+          - button "🗑️" [ref=e64]
+        - generic [ref=e65] [cursor=pointer]:
+          - generic [ref=e66]: 🗺️
+          - generic [ref=e67]:
+            - heading "测试书籍_1773284226821" [level=3] [ref=e68]
+            - text: 冒险
+          - button "🗑️" [ref=e69]
+        - generic [ref=e70] [cursor=pointer]:
+          - generic [ref=e71]: 💼
+          - generic [ref=e72]:
+            - heading "书架验证书籍_1773281627941" [level=3] [ref=e73]
+            - text: 职场
+          - button "🗑️" [ref=e74]
+        - generic [ref=e75] [cursor=pointer]:
+          - generic [ref=e76]: 💼
+          - generic [ref=e77]:
+            - heading "business测试_1773281623644" [level=3] [ref=e78]
+            - text: 职场
+          - button "🗑️" [ref=e79]
+        - generic [ref=e80] [cursor=pointer]:
+          - generic [ref=e81]: 💕
+          - generic [ref=e82]:
+            - heading "romance测试_1773281617553" [level=3] [ref=e83]
+            - text: 言情
+          - button "🗑️" [ref=e84]
+        - generic [ref=e85] [cursor=pointer]:
+          - generic [ref=e86]: 🧙
+          - generic [ref=e87]:
+            - heading "fantasy测试_1773281611450" [level=3] [ref=e88]
+            - text: 魔幻
+          - button "🗑️" [ref=e89]
+        - generic [ref=e90] [cursor=pointer]:
+          - generic [ref=e91]: 🗺️
+          - generic [ref=e92]:
+            - heading "adventure测试_1773281605323" [level=3] [ref=e93]
+            - text: 冒险
+          - button "🗑️" [ref=e94]
+        - generic [ref=e95] [cursor=pointer]:
+          - generic [ref=e96]: 💕
+          - generic [ref=e97]:
+            - heading "卡牌验证书籍_1773281588168" [level=3] [ref=e98]
+            - text: 言情
+          - button "🗑️" [ref=e99]
+        - generic [ref=e100] [cursor=pointer]:
+          - generic [ref=e101]: 🧙
+          - generic [ref=e102]:
+            - heading "角色验证书籍_1773281579440" [level=3] [ref=e103]
+            - text: 魔幻
+          - button "🗑️" [ref=e104]
+        - generic [ref=e105] [cursor=pointer]:
+          - generic [ref=e106]: 🗺️
+          - generic [ref=e107]:
+            - heading "测试书籍_1773281551345" [level=3] [ref=e108]
+            - text: 冒险
+          - button "🗑️" [ref=e109]
+        - generic [ref=e110] [cursor=pointer]:
+          - generic [ref=e111]: 🗺️
+          - generic [ref=e112]:
+            - heading "测试书籍_1773281543427" [level=3] [ref=e113]
+            - text: 冒险
+          - button "🗑️" [ref=e114]
+        - generic [ref=e115] [cursor=pointer]:
+          - generic [ref=e116]: 🗺️
+          - generic [ref=e117]:
+            - heading "完整流程测试书籍_1773281534479" [level=3] [ref=e118]
+            - text: 冒险
+          - button "🗑️" [ref=e119]
+        - generic [ref=e120] [cursor=pointer]:
+          - generic [ref=e121]: 🗺️
+          - generic [ref=e122]:
+            - heading "测试书籍_1773281441099" [level=3] [ref=e123]
+            - text: 冒险
+          - button "🗑️" [ref=e124]
+        - generic [ref=e125] [cursor=pointer]:
+          - generic [ref=e126]: 💼
+          - generic [ref=e127]:
+            - heading "书架验证书籍_1773280982412" [level=3] [ref=e128]
+            - text: 职场
+          - button "🗑️" [ref=e129]
+        - generic [ref=e130] [cursor=pointer]:
+          - generic [ref=e131]: 💼
+          - generic [ref=e132]:
+            - heading "business测试_1773280978167" [level=3] [ref=e133]
+            - text: 职场
+          - button "🗑️" [ref=e134]
+        - generic [ref=e135] [cursor=pointer]:
+          - generic [ref=e136]: 💕
+          - generic [ref=e137]:
+            - heading "romance测试_1773280972075" [level=3] [ref=e138]
+            - text: 言情
+          - button "🗑️" [ref=e139]
+        - generic [ref=e140] [cursor=pointer]:
+          - generic [ref=e141]: 🧙
+          - generic [ref=e142]:
+            - heading "fantasy测试_1773280965991" [level=3] [ref=e143]
+            - text: 魔幻
+          - button "🗑️" [ref=e144]
+        - generic [ref=e145] [cursor=pointer]:
+          - generic [ref=e146]: 🗺️
+          - generic [ref=e147]:
+            - heading "adventure测试_1773280959867" [level=3] [ref=e148]
+            - text: 冒险
+          - button "🗑️" [ref=e149]
+        - generic [ref=e150] [cursor=pointer]:
+          - generic [ref=e151]: 💕
+          - generic [ref=e152]:
+            - heading "卡牌验证书籍_1773280942713" [level=3] [ref=e153]
+            - text: 言情
+          - button "🗑️" [ref=e154]
+        - generic [ref=e155] [cursor=pointer]:
+          - generic [ref=e156]: 🧙
+          - generic [ref=e157]:
+            - heading "角色验证书籍_1773280934064" [level=3] [ref=e158]
+            - text: 魔幻
+          - button "🗑️" [ref=e159]
+        - generic [ref=e160] [cursor=pointer]:
+          - generic [ref=e161]: 🗺️
+          - generic [ref=e162]:
+            - heading "测试书籍_1773280905974" [level=3] [ref=e163]
+            - text: 冒险
+          - button "🗑️" [ref=e164]
+        - generic [ref=e165] [cursor=pointer]:
+          - generic [ref=e166]: 🗺️
+          - generic [ref=e167]:
+            - heading "测试书籍_1773280898043" [level=3] [ref=e168]
+            - text: 冒险
+          - button "🗑️" [ref=e169]
+        - generic [ref=e170] [cursor=pointer]:
+          - generic [ref=e171]: 🗺️
+          - generic [ref=e172]:
+            - heading "完整流程测试书籍_1773280889095" [level=3] [ref=e173]
+            - text: 冒险
+          - button "🗑️" [ref=e174]
+        - generic [ref=e175] [cursor=pointer]:
+          - generic [ref=e176]: 🗺️
+          - generic [ref=e177]:
+            - heading "测试书籍_1773280796001" [level=3] [ref=e178]
+            - text: 冒险
+          - button "🗑️" [ref=e179]
+        - generic [ref=e180] [cursor=pointer]:
+          - generic [ref=e181]: 💼
+          - generic [ref=e182]:
+            - heading "书架验证书籍_1773280396101" [level=3] [ref=e183]
+            - text: 职场
+          - button "🗑️" [ref=e184]
+        - generic [ref=e185] [cursor=pointer]:
+          - generic [ref=e186]: 🗺️
+          - generic [ref=e187]:
+            - heading "adventure测试_1773280307715" [level=3] [ref=e188]
+            - text: 冒险
+          - button "🗑️" [ref=e189]
+        - generic [ref=e190] [cursor=pointer]:
+          - generic [ref=e191]: 💕
+          - generic [ref=e192]:
+            - heading "卡牌验证书籍_1773280207444" [level=3] [ref=e193]
+            - text: 言情
+          - button "🗑️" [ref=e194]
+        - generic [ref=e195] [cursor=pointer]:
+          - generic [ref=e196]: 🧙
+          - generic [ref=e197]:
+            - heading "角色验证书籍_1773280115109" [level=3] [ref=e198]
+            - text: 魔幻
+          - button "🗑️" [ref=e199]
+        - generic [ref=e200] [cursor=pointer]:
+          - generic [ref=e201]: 🗺️
+          - generic [ref=e202]:
+            - heading "测试书籍_1773280002824" [level=3] [ref=e203]
+            - text: 冒险
+          - button "🗑️" [ref=e204]
+        - generic [ref=e205] [cursor=pointer]:
+          - generic [ref=e206]: 🗺️
+          - generic [ref=e207]:
+            - heading "测试书籍_1773279910868" [level=3] [ref=e208]
+            - text: 冒险
+          - button "🗑️" [ref=e209]
+        - generic [ref=e210] [cursor=pointer]:
+          - generic [ref=e211]: 🗺️
+          - generic [ref=e212]:
+            - heading "完整流程测试书籍_1773279902729" [level=3] [ref=e213]
+            - text: 冒险
+          - button "🗑️" [ref=e214]
+        - generic [ref=e215] [cursor=pointer]:
+          - generic [ref=e216]: 🗺️
+          - generic [ref=e217]:
+            - heading "测试书籍_1773279809245" [level=3] [ref=e218]
+            - text: 冒险
+          - button "🗑️" [ref=e219]
+        - generic [ref=e220] [cursor=pointer]:
+          - generic [ref=e221]: 💼
+          - generic [ref=e222]:
+            - heading "书架验证书籍_1773279530970" [level=3] [ref=e223]
+            - text: 职场
+          - button "🗑️" [ref=e224]
+        - generic [ref=e225] [cursor=pointer]:
+          - generic [ref=e226]: 🗺️
+          - generic [ref=e227]:
+            - heading "adventure测试_1773279526729" [level=3] [ref=e228]
+            - text: 冒险
+          - button "🗑️" [ref=e229]
+        - generic [ref=e230] [cursor=pointer]:
+          - generic [ref=e231]: 💕
+          - generic [ref=e232]:
+            - heading "卡牌验证书籍_1773279510043" [level=3] [ref=e233]
+            - text: 言情
+          - button "🗑️" [ref=e234]
+        - generic [ref=e235] [cursor=pointer]:
+          - generic [ref=e236]: 🧙
+          - generic [ref=e237]:
+            - heading "角色验证书籍_1773279502440" [level=3] [ref=e238]
+            - text: 魔幻
+          - button "🗑️" [ref=e239]
+        - generic [ref=e240] [cursor=pointer]:
+          - generic [ref=e241]: 🗺️
+          - generic [ref=e242]:
+            - heading "测试书籍_1773279473826" [level=3] [ref=e243]
+            - text: 冒险
+          - button "🗑️" [ref=e244]
+        - generic [ref=e245] [cursor=pointer]:
+          - generic [ref=e246]: 🗺️
+          - generic [ref=e247]:
+            - heading "测试书籍_1773279465986" [level=3] [ref=e248]
+            - text: 冒险
+          - button "🗑️" [ref=e249]
+        - generic [ref=e250] [cursor=pointer]:
+          - generic [ref=e251]: 🗺️
+          - generic [ref=e252]:
+            - heading "完整流程测试书籍_1773279458002" [level=3] [ref=e253]
+            - text: 冒险
+          - button "🗑️" [ref=e254]
+        - generic [ref=e255] [cursor=pointer]:
+          - generic [ref=e256]: 🗺️
+          - generic [ref=e257]:
+            - heading "测试书籍_1773279364646" [level=3] [ref=e258]
+            - text: 冒险
+          - button "🗑️" [ref=e259]
+        - generic [ref=e260] [cursor=pointer]:
+          - generic [ref=e261]: 💼
+          - generic [ref=e262]:
+            - heading "书架验证书籍_1773275010820" [level=3] [ref=e263]
+            - text: 职场
+          - button "🗑️" [ref=e264]
+        - generic [ref=e265] [cursor=pointer]:
+          - generic [ref=e266]: 🗺️
+          - generic [ref=e267]:
+            - heading "adventure测试_1773274952355" [level=3] [ref=e268]
+            - text: 冒险
+          - button "🗑️" [ref=e269]
+        - generic [ref=e270] [cursor=pointer]:
+          - generic [ref=e271]: 💕
+          - generic [ref=e272]:
+            - heading "卡牌验证书籍_1773274882115" [level=3] [ref=e273]
+            - text: 言情
+          - button "🗑️" [ref=e274]
+        - generic [ref=e275] [cursor=pointer]:
+          - generic [ref=e276]: 🧙
+          - generic [ref=e277]:
+            - heading "角色验证书籍_1773274820094" [level=3] [ref=e278]
+            - text: 魔幻
+          - button "🗑️" [ref=e279]
+        - generic [ref=e280] [cursor=pointer]:
+          - generic [ref=e281]: 🗺️
+          - generic [ref=e282]:
+            - heading "测试书籍_1773274737737" [level=3] [ref=e283]
+            - text: 冒险
+          - button "🗑️" [ref=e284]
+        - generic [ref=e285] [cursor=pointer]:
+          - generic [ref=e286]: 🗺️
+          - generic [ref=e287]:
+            - heading "测试书籍_1773274675743" [level=3] [ref=e288]
+            - text: 冒险
+          - button "🗑️" [ref=e289]
+        - generic [ref=e290] [cursor=pointer]:
+          - generic [ref=e291]: 🗺️
+          - generic [ref=e292]:
+            - heading "完整流程测试书籍_1773274613750" [level=3] [ref=e293]
+            - text: 冒险
+          - button "🗑️" [ref=e294]
+        - generic [ref=e295] [cursor=pointer]:
+          - generic [ref=e296]: 🗺️
+          - generic [ref=e297]:
+            - heading "测试书籍_1773274520126" [level=3] [ref=e298]
+            - text: 冒险
+          - button "🗑️" [ref=e299]
+        - generic [ref=e300] [cursor=pointer]:
+          - generic [ref=e301]: 💼
+          - generic [ref=e302]:
+            - heading "书架验证书籍_1773273038120" [level=3] [ref=e303]
+            - text: 职场
+          - button "🗑️" [ref=e304]
+        - generic [ref=e305] [cursor=pointer]:
+          - generic [ref=e306]: 🗺️
+          - generic [ref=e307]:
+            - heading "adventure测试_1773273009404" [level=3] [ref=e308]
+            - text: 冒险
+          - button "🗑️" [ref=e309]
+        - generic [ref=e310] [cursor=pointer]:
+          - generic [ref=e311]: 💕
+          - generic [ref=e312]:
+            - heading "卡牌验证书籍_1773272968836" [level=3] [ref=e313]
+            - text: 言情
+          - button "🗑️" [ref=e314]
+        - generic [ref=e315] [cursor=pointer]:
+          - generic [ref=e316]: 🧙
+          - generic [ref=e317]:
+            - heading "角色验证书籍_1773272936380" [level=3] [ref=e318]
+            - text: 魔幻
+          - button "🗑️" [ref=e319]
+        - generic [ref=e320] [cursor=pointer]:
+          - generic [ref=e321]: 🗺️
+          - generic [ref=e322]:
+            - heading "测试书籍_1773272883496" [level=3] [ref=e323]
+            - text: 冒险
+          - button "🗑️" [ref=e324]
+        - generic [ref=e325] [cursor=pointer]:
+          - generic [ref=e326]: 🗺️
+          - generic [ref=e327]:
+            - heading "测试书籍_1773272851388" [level=3] [ref=e328]
+            - text: 冒险
+          - button "🗑️" [ref=e329]
+        - generic [ref=e330] [cursor=pointer]:
+          - generic [ref=e331]: 🗺️
+          - generic [ref=e332]:
+            - heading "完整流程测试书籍_1773272819102" [level=3] [ref=e333]
+            - text: 冒险
+          - button "🗑️" [ref=e334]
+        - generic [ref=e335] [cursor=pointer]:
+          - generic [ref=e336]: 🗺️
+          - generic [ref=e337]:
+            - heading "测试书籍_1773272725130" [level=3] [ref=e338]
+            - text: 冒险
+          - button "🗑️" [ref=e339]
+        - generic [ref=e340] [cursor=pointer]:
+          - generic [ref=e341]: 💼
+          - generic [ref=e342]:
+            - heading "书架验证书籍_1773272393256" [level=3] [ref=e343]
+            - text: 职场
+          - button "🗑️" [ref=e344]
+        - generic [ref=e345] [cursor=pointer]:
+          - generic [ref=e346]: 💼
+          - generic [ref=e347]:
+            - heading "business测试_1773272388915" [level=3] [ref=e348]
+            - text: 职场
+          - button "🗑️" [ref=e349]
+        - generic [ref=e350] [cursor=pointer]:
+          - generic [ref=e351]: 💕
+          - generic [ref=e352]:
+            - heading "romance测试_1773272382817" [level=3] [ref=e353]
+            - text: 言情
+          - button "🗑️" [ref=e354]
+        - generic [ref=e355] [cursor=pointer]:
+          - generic [ref=e356]: 🧙
+          - generic [ref=e357]:
+            - heading "fantasy测试_1773272376718" [level=3] [ref=e358]
+            - text: 魔幻
+          - button "🗑️" [ref=e359]
+        - generic [ref=e360] [cursor=pointer]:
+          - generic [ref=e361]: 🗺️
+          - generic [ref=e362]:
+            - heading "adventure测试_1773272370531" [level=3] [ref=e363]
+            - text: 冒险
+          - button "🗑️" [ref=e364]
+        - generic [ref=e365] [cursor=pointer]:
+          - generic [ref=e366]: 💕
+          - generic [ref=e367]:
+            - heading "卡牌验证书籍_1773272354238" [level=3] [ref=e368]
+            - text: 言情
+          - button "🗑️" [ref=e369]
+        - generic [ref=e370] [cursor=pointer]:
+          - generic [ref=e371]: 🧙
+          - generic [ref=e372]:
+            - heading "角色验证书籍_1773272346556" [level=3] [ref=e373]
+            - text: 魔幻
+          - button "🗑️" [ref=e374]
+        - generic [ref=e375] [cursor=pointer]:
+          - generic [ref=e376]: 🗺️
+          - generic [ref=e377]:
+            - heading "测试书籍" [level=3] [ref=e378]
+            - text: 冒险
+          - button "🗑️" [ref=e379]
+        - generic [ref=e380] [cursor=pointer]:
+          - generic [ref=e381]: 🗺️
+          - generic [ref=e382]:
+            - heading "测试书籍_1773272220526" [level=3] [ref=e383]
+            - text: 冒险
+          - button "🗑️" [ref=e384]
+        - generic [ref=e385] [cursor=pointer]:
+          - generic [ref=e386]: 💼
+          - generic [ref=e387]:
+            - heading "书架验证书籍_1773272129285" [level=3] [ref=e388]
+            - text: 职场
+          - button "🗑️" [ref=e389]
+        - generic [ref=e390] [cursor=pointer]:
+          - generic [ref=e391]: 💼
+          - generic [ref=e392]:
+            - heading "business测试_1773272124983" [level=3] [ref=e393]
+            - text: 职场
+          - button "🗑️" [ref=e394]
+        - generic [ref=e395] [cursor=pointer]:
+          - generic [ref=e396]: 💕
+          - generic [ref=e397]:
+            - heading "romance测试_1773272118907" [level=3] [ref=e398]
+            - text: 言情
+          - button "🗑️" [ref=e399]
+        - generic [ref=e400] [cursor=pointer]:
+          - generic [ref=e401]: 🧙
+          - generic [ref=e402]:
+            - heading "fantasy测试_1773272112798" [level=3] [ref=e403]
+            - text: 魔幻
+          - button "🗑️" [ref=e404]
+        - generic [ref=e405] [cursor=pointer]:
+          - generic [ref=e406]: 🗺️
+          - generic [ref=e407]:
+            - heading "adventure测试_1773272106545" [level=3] [ref=e408]
+            - text: 冒险
+          - button "🗑️" [ref=e409]
+        - generic [ref=e410] [cursor=pointer]:
+          - generic [ref=e411]: 💕
+          - generic [ref=e412]:
+            - heading "卡牌验证书籍_1773272090278" [level=3] [ref=e413]
+            - text: 言情
+          - button "🗑️" [ref=e414]
+        - generic [ref=e415] [cursor=pointer]:
+          - generic [ref=e416]: 🧙
+          - generic [ref=e417]:
+            - heading "角色验证书籍_1773272082620" [level=3] [ref=e418]
+            - text: 魔幻
+          - button "🗑️" [ref=e419]
+        - generic [ref=e420] [cursor=pointer]:
+          - generic [ref=e421]: 🗺️
+          - generic [ref=e422]:
+            - heading "测试书籍" [level=3] [ref=e423]
+            - text: 冒险
+          - button "🗑️" [ref=e424]
+        - generic [ref=e425] [cursor=pointer]:
+          - generic [ref=e426]: 🗺️
+          - generic [ref=e427]:
+            - heading "测试书籍_1773271949523" [level=3] [ref=e428]
+            - text: 冒险
+          - button "🗑️" [ref=e429]
+        - generic [ref=e430] [cursor=pointer]:
+          - generic [ref=e431]: 💼
+          - generic [ref=e432]:
+            - heading "书架验证书籍_1773271800529" [level=3] [ref=e433]
+            - text: 职场
+          - button "🗑️" [ref=e434]
+        - generic [ref=e435] [cursor=pointer]:
+          - generic [ref=e436]: 🗺️
+          - generic [ref=e437]:
+            - heading "adventure测试_1773271789232" [level=3] [ref=e438]
+            - text: 冒险
+          - button "🗑️" [ref=e439]
+        - generic [ref=e440] [cursor=pointer]:
+          - generic [ref=e441]: 💕
+          - generic [ref=e442]:
+            - heading "卡牌验证书籍_1773271764964" [level=3] [ref=e443]
+            - text: 言情
+          - button "🗑️" [ref=e444]
+        - generic [ref=e445] [cursor=pointer]:
+          - generic [ref=e446]: 🧙
+          - generic [ref=e447]:
+            - heading "角色验证书籍_1773271749365" [level=3] [ref=e448]
+            - text: 魔幻
+          - button "🗑️" [ref=e449]
+        - generic [ref=e450] [cursor=pointer]:
+          - generic [ref=e451]: 🗺️
+          - generic [ref=e452]:
+            - heading "测试书籍" [level=3] [ref=e453]
+            - text: 冒险
+          - button "🗑️" [ref=e454]
+        - generic [ref=e455] [cursor=pointer]:
+          - generic [ref=e456]: 🗺️
+          - generic [ref=e457]:
+            - heading "测试书籍" [level=3] [ref=e458]
+            - text: 冒险
+          - button "🗑️" [ref=e459]
+        - generic [ref=e460] [cursor=pointer]:
+          - generic [ref=e461]: 🗺️
+          - generic [ref=e462]:
+            - heading "完整流程测试书籍_1773271655877" [level=3] [ref=e463]
+            - text: 冒险
+          - button "🗑️" [ref=e464]
+        - generic [ref=e465] [cursor=pointer]:
+          - generic [ref=e466]: 🗺️
+          - generic [ref=e467]:
+            - heading "测试书籍_1773271553944" [level=3] [ref=e468]
+            - text: 冒险
+          - button "🗑️" [ref=e469]
+        - generic [ref=e470] [cursor=pointer]:
+          - generic [ref=e471]: 💼
+          - generic [ref=e472]:
+            - heading "书架验证书籍_1773271384850" [level=3] [ref=e473]
+            - text: 职场
+          - button "🗑️" [ref=e474]
+        - generic [ref=e475] [cursor=pointer]:
+          - generic [ref=e476]: 🗺️
+          - generic [ref=e477]:
+            - heading "adventure测试_1773271373610" [level=3] [ref=e478]
+            - text: 冒险
+          - button "🗑️" [ref=e479]
+        - generic [ref=e480] [cursor=pointer]:
+          - generic [ref=e481]: 💕
+          - generic [ref=e482]:
+            - heading "卡牌验证书籍_1773271349583" [level=3] [ref=e483]
+            - text: 言情
+          - button "🗑️" [ref=e484]
+        - generic [ref=e485] [cursor=pointer]:
+          - generic [ref=e486]: 🧙
+          - generic [ref=e487]:
+            - heading "角色验证书籍_1773271334034" [level=3] [ref=e488]
+            - text: 魔幻
+          - button "🗑️" [ref=e489]
+        - generic [ref=e490] [cursor=pointer]:
+          - generic [ref=e491]: 🗺️
+          - generic [ref=e492]:
+            - heading "测试书籍" [level=3] [ref=e493]
+            - text: 冒险
+          - button "🗑️" [ref=e494]
+        - generic [ref=e495] [cursor=pointer]:
+          - generic [ref=e496]: 🗺️
+          - generic [ref=e497]:
+            - heading "测试书籍" [level=3] [ref=e498]
+            - text: 冒险
+          - button "🗑️" [ref=e499]
+        - generic [ref=e500] [cursor=pointer]:
+          - generic [ref=e501]: 🗺️
+          - generic [ref=e502]:
+            - heading "完整流程测试书籍_1773271257587" [level=3] [ref=e503]
+            - text: 冒险
+          - button "🗑️" [ref=e504]
+        - generic [ref=e505] [cursor=pointer]:
+          - generic [ref=e506]: 🗺️
+          - generic [ref=e507]:
+            - heading "我的冒险故事" [level=3] [ref=e508]
+            - text: 冒险
+          - button "🗑️" [ref=e509]
+        - generic [ref=e510] [cursor=pointer]:
+          - generic [ref=e511]: 🗺️
+          - generic [ref=e512]:
+            - heading "我的测试书籍" [level=3] [ref=e513]
+            - text: 冒险
+          - button "🗑️" [ref=e514]
+        - generic [ref=e515] [cursor=pointer]:
+          - generic [ref=e516]: 🗺️
+          - generic [ref=e517]:
+            - heading "我的测试书籍" [level=3] [ref=e518]
+            - text: 冒险
+          - button "🗑️" [ref=e519]
+        - generic [ref=e520] [cursor=pointer]:
+          - generic [ref=e521]: 🗺️
+          - generic [ref=e522]:
+            - heading "我的测试书籍" [level=3] [ref=e523]
+            - text: 冒险
+          - button "🗑️" [ref=e524]
+    - generic [ref=e525]:
+      - heading "预设故事" [level=3] [ref=e526]
+      - generic [ref=e527]:
+        - generic [ref=e528] [cursor=pointer]:
+          - generic [ref=e529]: 🗺️
+          - generic [ref=e530]:
+            - heading "小明的奇幻冒险" [level=3] [ref=e531]
+            - text: 冒险
+        - generic [ref=e532] [cursor=pointer]:
+          - generic [ref=e533]: 🧙
+          - generic [ref=e534]:
+            - heading "魔法学院传说" [level=3] [ref=e535]
+            - text: 魔幻
+        - generic [ref=e536] [cursor=pointer]:
+          - generic [ref=e537]: 💕
+          - generic [ref=e538]:
+            - heading "都市恋曲" [level=3] [ref=e539]
+            - text: 言情
+        - generic [ref=e540] [cursor=pointer]:
+          - generic [ref=e541]: 💼
+          - generic [ref=e542]:
+            - heading "职场风云录" [level=3] [ref=e543]
+            - text: 职场
+```

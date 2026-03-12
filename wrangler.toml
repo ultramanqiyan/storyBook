@@ -6,4 +6,4 @@ pages_build_output_dir = "src/frontend"
 [[d1_databases]]
 binding = "DB"
 database_name = "storybook_database"
-database_id = "local"
+database_id = "155b2bfd-3108-4b23-af12-9afd64b25b7f"

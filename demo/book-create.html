@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Create New Story - StoryBook</title>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/themes.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <style>
+    .create-page {
+      min-height: 100vh;
+      padding-top: 80px;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .create-header {
+      padding: var(--spacing-lg);
+      text-align: center;
+      border-bottom: 1px solid rgba(255, 215, 0, 0.2);
+    }
+    
+    .create-header h1 {
+      font-size: 2rem;
+      margin-bottom: var(--spacing-sm);
+    }
+    
+    .progress-indicator {
+      display: flex;
+      justify-content: center;
+      gap: var(--spacing-md);
+      padding: var(--spacing-lg);
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    
+    .page-step {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      position: relative;
+      flex: 1;
+    }
+    
+    .page-step::after {
+      content: '';
+      position: absolute;
+      top: 20px;
+      left: 60%;
+      width: 80%;
+      height: 2px;
+      background: rgba(255, 215, 0, 0.2);
+    }
+    
+    .page-step:last-child::after {
+      display: none;
+    }
+    
+    .page-step.completed::after {
+      background: var(--color-gold);
+    }
+    
+    .page-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: rgba(255, 215, 0, 0.1);
+      border: 2px solid rgba(255, 215, 0, 0.3);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      margin-bottom: var(--spacing-sm);
+      transition: all 0.3s ease;
+      position: relative;
+      z-index: 1;
+    }
+    
+    .page-step.active .page-icon {
+      background: var(--color-gold);
+      border-color: var(--color-gold);
+      color: #1a1a2e;
+      box-shadow: var(--shadow-gold);
+    }
+    
+    .page-step.completed .page-icon {
+      background: var(--color-success);
+      border-color: var(--color-success);
+    }
+    
+    .page-label {
+      font-family: var(--font-ui);
+      font-size: 12px;
+      color: var(--color-text-muted);
+      text-align: center;
+    }
+    
+    .page-step.active .page-label {
+      color: var(--color-gold);
+    }
+    
+    .form-container {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: var(--spacing-xl) var(--spacing-lg);
+    }
+    
+    .parchment-form {
+      background: var(--color-parchment);
+      border-radius: var(--radius-lg);
+      padding: var(--spacing-xl);
+      box-shadow: var(--shadow-lg);
+      color: #2a1810;
+      position: relative;
+    }
+    
+    .parchment-form::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: radial-gradient(ellipse at center, transparent 50%, rgba(139, 90, 43, 0.15) 100%);
+      pointer-events: none;
+      border-radius: var(--radius-lg);
+    }
+    
+    .step-title {
+      font-family: var(--font-title);
+      font-size: 24px;
+      color: #3a2a1a;
+      text-align: center;
+      margin-bottom: var(--spacing-xl);
+    }
+    
+    .form-group {
+      margin-bottom: var(--spacing-lg);
+      position: relative;
+      z-index: 1;
+    }
+    
+    .form-label {
+      display: block;
+      font-family: var(--font-title);
+      font-size: 14px;
+      color: #5a3a1a;
+      margin-bottom: var(--spacing-sm);
+    }
+    
+    .form-input {
+      width: 100%;
+      padding: var(--spacing-md);
+      background: rgba(255, 255, 255, 0.5);
+      border: 2px solid rgba(139, 90, 43, 0.3);
+      border-radius: var(--radius-md);
+      color: #3a2a1a;
+      font-family: var(--font-body);
+      font-size: 16px;
+      transition: all 0.3s ease;
+    }
+    
+    .form-input:focus {
+      outline: none;
+      border-color: var(--color-gold);
+      box-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
+    }
+    
+    .form-select {
+      width: 100%;
+      padding: var(--spacing-md);
+      background: rgba(255, 255, 255, 0.5);
+      border: 2px solid rgba(139, 90, 43, 0.3);
+      border-radius: var(--radius-md);
+      color: #3a2a1a;
+      font-family: var(--font-body);
+      font-size: 16px;
+      cursor: pointer;
+    }
+    
+    .form-textarea {
+      min-height: 120px;
+      resize: vertical;
+    }
+    
+    .avatar-selector {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+      gap: var(--spacing-md);
+    }
+    
+    .avatar-option {
+      aspect-ratio: 1;
+      background: rgba(255, 255, 255, 0.3);
+      border: 2px solid rgba(139, 90, 43, 0.3);
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 32px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .avatar-option:hover {
+      transform: translateY(-3px);
+      border-color: var(--color-gold);
+      box-shadow: 0 4px 10px rgba(255, 215, 0, 0.3);
+    }
+    
+    .avatar-option.selected {
+      border-color: var(--color-gold);
+      background: rgba(255, 215, 0, 0.2);
+    }
+    
+    .step-content {
+      display: none;
+      animation: fadeIn 0.5s ease-out;
+    }
+    
+    .step-content.active {
+      display: block;
+    }
+    
+    .step-actions {
+      display: flex;
+      justify-content: space-between;
+      margin-top: var(--spacing-xl);
+      padding-top: var(--spacing-lg);
+      border-top: 1px solid rgba(139, 90, 43, 0.2);
+      position: relative;
+      z-index: 1;
+    }
+    
+    .btn-prev {
+      padding: var(--spacing-md) var(--spacing-xl);
+      background: transparent;
+      border: 2px solid rgba(139, 90, 43, 0.5);
+      border-radius: var(--radius-md);
+      color: #5a3a1a;
+      font-family: var(--font-title);
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .btn-prev:hover {
+      border-color: #5a3a1a;
+      background: rgba(90, 58, 26, 0.1);
+    }
+    
+    .btn-next {
+      padding: var(--spacing-md) var(--spacing-xl);
+      background: linear-gradient(135deg, #8B4513 0%, #A0522D 100%);
+      border: none;
+      border-radius: var(--radius-md);
+      color: #f4e4bc;
+      font-family: var(--font-title);
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .btn-next:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 10px rgba(139, 90, 43, 0.3);
+    }
+    
+    .success-content {
+      text-align: center;
+      padding: var(--spacing-xxl);
+    }
+    
+    .success-icon {
+      font-size: 80px;
+      margin-bottom: var(--spacing-lg);
+      animation: float 3s ease-in-out infinite;
+    }
+    
+    .success-title {
+      font-family: var(--font-title);
+      font-size: 28px;
+      color: #3a2a1a;
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .success-message {
+      color: #5a3a1a;
+      margin-bottom: var(--spacing-xl);
+    }
+    
+    .companion-section {
+      margin-top: var(--spacing-lg);
+      padding-top: var(--spacing-lg);
+      border-top: 1px solid rgba(139, 90, 43, 0.2);
+    }
+    
+    .companion-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .add-companion-btn {
+      padding: var(--spacing-sm) var(--spacing-md);
+      background: rgba(139, 90, 43, 0.1);
+      border: 1px solid rgba(139, 90, 43, 0.3);
+      border-radius: var(--radius-md);
+      color: #5a3a1a;
+      font-family: var(--font-ui);
+      font-size: 12px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .add-companion-btn:hover {
+      background: rgba(139, 90, 43, 0.2);
+    }
+    
+    .add-companion-btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+    
+    @media (max-width: 768px) {
+      .progress-indicator {
+        gap: var(--spacing-sm);
+      }
+      
+      .page-label {
+        font-size: 10px;
+      }
+      
+      .parchment-form {
+        padding: var(--spacing-lg);
+      }
+      
+      .avatar-selector {
+        grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+      }
+      
+      .avatar-option {
+        font-size: 24px;
+      }
+    }
+  </style>
+</head>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="bookshelf.html" class="navbar-brand">← Library</a>
+    <div class="navbar-nav">
+      <a href="bookshelf.html" class="navbar-link">Cancel</a>
+    </div>
+  </nav>
+  
+  <div class="create-page">
+    <div class="create-header">
+      <h1>Create New Story</h1>
+    </div>
+    
+    <div class="progress-indicator">
+      <div class="page-step active" data-step="1">
+        <div class="page-icon">📖</div>
+        <span class="page-label">Basic Info</span>
+      </div>
+      <div class="page-step" data-step="2">
+        <div class="page-icon">🧙‍♂️</div>
+        <span class="page-label">Protagonist</span>
+      </div>
+      <div class="page-step" data-step="3">
+        <div class="page-icon">👥</div>
+        <span class="page-label">Companions</span>
+      </div>
+      <div class="page-step" data-step="4">
+        <div class="page-icon">✨</div>
+        <span class="page-label">Complete</span>
+      </div>
+    </div>
+    
+    <div class="form-container">
+      <div class="parchment-form">
+        <div class="step-content active" id="step1">
+          <h2 class="step-title">📖 Story Basics</h2>
+          
+          <div class="form-group">
+            <label class="form-label">Story Title</label>
+            <input type="text" class="form-input" id="storyTitle" placeholder="Enter your story's title...">
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label">Genre</label>
+            <select class="form-select" id="storyGenre">
+              <option value="">Select a genre...</option>
+              <option value="adventure">🗺️ Adventure</option>
+              <option value="fantasy">🧙 Fantasy</option>
+              <option value="romance">💕 Romance</option>
+              <option value="business">💼 Business</option>
+            </select>
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label">Description</label>
+            <textarea class="form-input form-textarea" id="storyDescription" placeholder="Describe your story in a few sentences..."></textarea>
+          </div>
+          
+          <div class="step-actions">
+            <div></div>
+            <button class="btn-next" onclick="nextStep()">Next: Protagonist →</button>
+          </div>
+        </div>
+        
+        <div class="step-content" id="step2">
+          <h2 class="step-title">🧙‍♂️ Your Protagonist</h2>
+          
+          <div class="form-group">
+            <label class="form-label">Character Name</label>
+            <input type="text" class="form-input" id="protagonistName" placeholder="Enter the hero's name...">
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label">Select Avatar</label>
+            <div class="avatar-selector" id="protagonistAvatars">
+            </div>
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label">Character Background</label>
+            <textarea class="form-input form-textarea" id="protagonistBackground" placeholder="Tell us about your hero's past..."></textarea>
+          </div>
+          
+          <div class="step-actions">
+            <button class="btn-prev" onclick="prevStep()">← Back</button>
+            <button class="btn-next" onclick="nextStep()">Next: Companions →</button>
+          </div>
+        </div>
+        
+        <div class="step-content" id="step3">
+          <h2 class="step-title">👥 Companion Characters</h2>
+          
+          <div id="companionsContainer">
+            <div class="companion-section" id="companion1">
+              <div class="companion-header">
+                <label class="form-label">Companion 1</label>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-input" placeholder="Companion's name...">
+              </div>
+              <div class="form-group">
+                <div class="avatar-selector" id="companion1Avatars"></div>
+              </div>
+            </div>
+          </div>
+          
+          <button class="add-companion-btn" id="addCompanionBtn" onclick="addCompanion()">
+            + Add Another Companion (Max 3)
+          </button>
+          
+          <div class="step-actions">
+            <button class="btn-prev" onclick="prevStep()">← Back</button>
+            <button class="btn-next" onclick="createStory()">Create Story ✨</button>
+          </div>
+        </div>
+        
+        <div class="step-content" id="step4">
+          <div class="success-content">
+            <div class="success-icon">📚</div>
+            <h2 class="success-title">Story Created!</h2>
+            <p class="success-message">Your story is ready to begin. Start writing your first chapter or let the Director guide you.</p>
+            <div class="flex-center gap-lg">
+              <a href="chapter.html" class="btn btn-primary">Start Writing</a>
+              <a href="director.html" class="btn btn-secondary">Use Director</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script src="js/mock-data.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/theme.js"></script>
+  <script>
+    let currentStep = 1;
+    let companionCount = 1;
+    let selectedProtagonistAvatar = null;
+    const selectedCompanionAvatars = {};
+    
+    document.addEventListener('DOMContentLoaded', function() {
+      createParticles(document.getElementById('particles'), 30);
+      renderAvatarSelectors();
+    });
+    
+    function renderAvatarSelectors() {
+      const protagonistContainer = document.getElementById('protagonistAvatars');
+      protagonistContainer.innerHTML = mockData.avatars.map(avatar => `
+        <div class="avatar-option" onclick="selectAvatar('protagonist', '${avatar}', this)">
+          ${avatar}
+        </div>
+      `).join('');
+      
+      renderCompanionAvatars(1);
+    }
+    
+    function renderCompanionAvatars(companionNum) {
+      const container = document.getElementById(`companion${companionNum}Avatars`);
+      if (!container) return;
+      
+      container.innerHTML = mockData.avatars.map(avatar => `
+        <div class="avatar-option" onclick="selectAvatar('companion${companionNum}', '${avatar}', this)">
+          ${avatar}
+        </div>
+      `).join('');
+    }
+    
+    function selectAvatar(type, avatar, element) {
+      const container = element.parentElement;
+      container.querySelectorAll('.avatar-option').forEach(opt => {
+        opt.classList.remove('selected');
+      });
+      element.classList.add('selected');
+      
+      if (type === 'protagonist') {
+        selectedProtagonistAvatar = avatar;
+      } else {
+        selectedCompanionAvatars[type] = avatar;
+      }
+    }
+    
+    function nextStep() {
+      if (currentStep < 4) {
+        document.getElementById(`step${currentStep}`).classList.remove('active');
+        document.querySelector(`.page-step[data-step="${currentStep}"]`).classList.remove('active');
+        document.querySelector(`.page-step[data-step="${currentStep}"]`).classList.add('completed');
+        
+        currentStep++;
+        document.getElementById(`step${currentStep}`).classList.add('active');
+        document.querySelector(`.page-step[data-step="${currentStep}"]`).classList.add('active');
+      }
+    }
+    
+    function prevStep() {
+      if (currentStep > 1) {
+        document.getElementById(`step${currentStep}`).classList.remove('active');
+        document.querySelector(`.page-step[data-step="${currentStep}"]`).classList.remove('active');
+        
+        currentStep--;
+        document.getElementById(`step${currentStep}`).classList.add('active');
+        document.querySelector(`.page-step[data-step="${currentStep}"]`).classList.remove('completed');
+        document.querySelector(`.page-step[data-step="${currentStep}"]`).classList.add('active');
+      }
+    }
+    
+    function addCompanion() {
+      if (companionCount >= 3) return;
+      
+      companionCount++;
+      const container = document.getElementById('companionsContainer');
+      
+      const newCompanion = document.createElement('div');
+      newCompanion.className = 'companion-section';
+      newCompanion.id = `companion${companionCount}`;
+      newCompanion.innerHTML = `
+        <div class="companion-header">
+          <label class="form-label">Companion ${companionCount}</label>
+          <button class="add-companion-btn" onclick="removeCompanion(${companionCount})">Remove</button>
+        </div>
+        <div class="form-group">
+          <input type="text" class="form-input" placeholder="Companion's name...">
+        </div>
+        <div class="form-group">
+          <div class="avatar-selector" id="companion${companionCount}Avatars"></div>
+        </div>
+      `;
+      
+      container.appendChild(newCompanion);
+      renderCompanionAvatars(companionCount);
+      
+      if (companionCount >= 3) {
+        document.getElementById('addCompanionBtn').disabled = true;
+      }
+    }
+    
+    function removeCompanion(num) {
+      const companion = document.getElementById(`companion${num}`);
+      if (companion) {
+        companion.remove();
+        companionCount--;
+        document.getElementById('addCompanionBtn').disabled = false;
+      }
+    }
+    
+    function createStory() {
+      showNotification('Creating your story...', 'info');
+      
+      setTimeout(() => {
+        nextStep();
+      }, 1000);
+    }
+  </script>
+</body>
+</html>

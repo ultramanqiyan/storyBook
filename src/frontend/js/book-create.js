@@ -161,8 +161,8 @@ const BookCreatePage = {
     validateStep(step) {
         switch (step) {
             case 1:
-                const title = document.getElementById('bookTitle').value.trim();
-                const type = document.getElementById('bookType').value;
+                const title = document.getElementById('storyTitle').value.trim();
+                const type = document.getElementById('storyGenre').value;
                 if (!title) {
                     alert('请输入书籍标题');
                     return false;
@@ -223,15 +223,14 @@ const BookCreatePage = {
         
         newChar.innerHTML = `
             <h3>配角 ${this.supportingCount}</h3>
-            <div class="form-row">
-                <div class="form-group">
-                    <label>名称</label>
-                    <input type="text" name="supporting_${this.supportingCount - 1}_name" placeholder="配角名称">
-                </div>
-                <div class="form-group">
-                    <label>头像</label>
-                    <input type="text" name="supporting_${this.supportingCount - 1}_avatar" placeholder="表情符号">
-                </div>
+            <div class="form-group">
+                <label>名称</label>
+                <input type="text" name="supporting_${this.supportingCount - 1}_name" placeholder="配角名称">
+                <input type="hidden" name="supporting_${this.supportingCount - 1}_avatar" value="👤">
+            </div>
+            <div class="form-group">
+                <label>选择头像</label>
+                <div class="avatar-selector" id="supporting_${this.supportingCount - 1}_avatar_options"></div>
             </div>
             <div class="form-row">
                 <div class="form-group">
@@ -247,15 +246,58 @@ const BookCreatePage = {
                 <label>说话方式</label>
                 <select name="supporting_${this.supportingCount - 1}_speech_style" class="speech-style-select"></select>
             </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label>与主角亲密度 <span class="required">*</span></label>
+                    <select name="supporting_${this.supportingCount - 1}_intimacy" class="intimacy-select" required>
+                        <option value="">请选择</option>
+                        <option value="-50">敌对</option>
+                        <option value="0" selected>中立</option>
+                        <option value="50">友好</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>与主角关系</label>
+                    <select name="supporting_${this.supportingCount - 1}_relationship" class="relationship-select">
+                        <option value="">请选择</option>
+                        <option value="朋友">朋友</option>
+                        <option value="家人">家人</option>
+                        <option value="同事">同事</option>
+                        <option value="同学">同学</option>
+                        <option value="邻居">邻居</option>
+                        <option value="对手">对手</option>
+                        <option value="陌生人">陌生人</option>
+                    </select>
+                </div>
+            </div>
         `;
 
         container.appendChild(newChar);
         this.updateCharacterTypeSelects();
         this.updateSupportingSelects();
+        this.setupSupportingAvatarOptions(this.supportingCount - 1);
 
         if (this.supportingCount >= 3) {
             document.getElementById('add-character-btn').disabled = true;
         }
+    },
+
+    setupSupportingAvatarOptions(index) {
+        const container = document.getElementById(`supporting_${index}_avatar_options`);
+        if (!container) return;
+        
+        container.innerHTML = '';
+        this.avatarOptions.slice(0, 12).forEach(avatar => {
+            const option = document.createElement('div');
+            option.className = 'avatar-option';
+            option.textContent = avatar;
+            option.addEventListener('click', () => {
+                document.querySelector(`[name="supporting_${index}_avatar"]`).value = avatar;
+                container.querySelectorAll('.avatar-option').forEach(o => o.classList.remove('selected'));
+                option.classList.add('selected');
+            });
+            container.appendChild(option);
+        });
     },
 
     async createBook() {
@@ -268,11 +310,11 @@ const BookCreatePage = {
 
         const bookData = {
             user_id: userId,
-            title: document.getElementById('bookTitle').value.trim(),
-            type: document.getElementById('bookType').value,
+            title: document.getElementById('storyTitle').value.trim(),
+            type: document.getElementById('storyGenre').value,
             protagonist: {
                 name: document.getElementById('protagonistName').value.trim(),
-                avatar: document.getElementById('protagonistAvatar').value || '👤',
+                avatar: this.selectedProtagonistAvatar,
                 role_type: document.getElementById('protagonistType').value,
                 personality: document.getElementById('protagonistPersonality').value,
                 speech_style: document.getElementById('protagonistSpeechStyle').value
@@ -300,12 +342,15 @@ const BookCreatePage = {
         for (let i = 0; i < this.supportingCount; i++) {
             const name = document.querySelector(`[name="supporting_${i}_name"]`)?.value?.trim();
             if (name) {
+                const intimacyValue = document.querySelector(`[name="supporting_${i}_intimacy"]`)?.value;
                 characters.push({
                     name: name,
                     avatar: document.querySelector(`[name="supporting_${i}_avatar"]`)?.value || '👤',
                     role_type: document.querySelector(`[name="supporting_${i}_type"]`)?.value || '',
                     personality: document.querySelector(`[name="supporting_${i}_personality"]`)?.value || '',
-                    speech_style: document.querySelector(`[name="supporting_${i}_speech_style"]`)?.value || ''
+                    speech_style: document.querySelector(`[name="supporting_${i}_speech_style"]`)?.value || '',
+                    intimacy: intimacyValue ? parseInt(intimacyValue) : 0,
+                    relationship: document.querySelector(`[name="supporting_${i}_relationship"]`)?.value || ''
                 });
             }
         }

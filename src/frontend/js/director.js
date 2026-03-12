@@ -174,10 +174,8 @@ const DirectorPage = {
     },
 
     getIntimacyText(intimacy) {
-        if (intimacy >= 80) return '挚友';
-        if (intimacy >= 60) return '友好';
-        if (intimacy >= 40) return '普通';
-        if (intimacy >= 20) return '冷淡';
+        if (intimacy >= 50) return '友好';
+        if (intimacy >= 0) return '中立';
         return '敌对';
     },
 
