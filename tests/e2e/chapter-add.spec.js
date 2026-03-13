@@ -495,4 +495,297 @@ test.describe('章节添加流程', () => {
     expect(book2Chapters.length).toBe(1);
     expect(book1Chapters[0].book_id).not.toBe(book2Chapters[0].book_id);
   });
+
+  test('配角参与章节生成应正确记录', async ({ request }) => {
+    const createBookResponse = await request.post('/api/books', {
+      data: {
+        user_id: testUserId,
+        title: '配角参与测试书籍',
+        type: 'adventure',
+        protagonist: {
+          name: '主角',
+          avatar: '🧙‍♂️',
+          role_type: 'protagonist',
+          is_protagonist: 1
+        },
+        supporting_characters: [
+          {
+            name: '配角1',
+            avatar: '👧',
+            role_type: 'supporting',
+            personality: '勇敢',
+            speech_style: '简洁直接',
+            intimacy: 50,
+            relationship: '朋友'
+          }
+        ]
+      }
+    });
+    const bookData = await createBookResponse.json();
+    const bookId = bookData.data.book_id;
+
+    const charsResponse = await request.get(`/api/characters?book_id=${bookId}`);
+    const charsData = await charsResponse.json();
+    const protagonist = charsData.data.find(c => c.is_protagonist === 1);
+    const supporting = charsData.data.filter(c => c.is_protagonist === 0);
+
+    const cardsResponse = await request.get(`/api/plot-cards?book_id=${bookId}`);
+    const cardsData = await cardsResponse.json();
+    const cards = cardsData.data;
+
+    const chapterResponse = await request.post('/api/chapters', {
+      data: {
+        user_id: testUserId,
+        book_id: bookId,
+        selected_cards: {
+          protagonist_id: protagonist.char_id,
+          supporting_ids: supporting.map(s => s.char_id),
+          weather_id: cards.find(c => c.sub_type === 'weather').card_id,
+          terrain_id: cards.find(c => c.sub_type === 'terrain').card_id,
+          adventure_id: cards.find(c => c.sub_type === 'adventure').card_id,
+          equipment_id: cards.find(c => c.sub_type === 'equipment').card_id
+        }
+      }
+    });
+
+    const chapterData = await chapterResponse.json();
+    expect(chapterData.success).toBe(true);
+
+    const dbChapter = db.query(
+      'SELECT * FROM chapters WHERE chapter_id = ?',
+      [chapterData.data.chapter.chapter_id]
+    );
+
+    const selectedCards = JSON.parse(dbChapter.selected_cards);
+    expect(selectedCards.supporting_ids).toBeDefined();
+    expect(selectedCards.supporting_ids.length).toBe(1);
+  });
+
+  test('选择不同卡牌组合应生成不同章节', async ({ request }) => {
+    const setup = await setupBook(request);
+    const currentBookId = setup.testBookId;
+    const currentProtagonistId = setup.protagonistId;
+    const currentTerrainCardId = setup.terrainCardId;
+    const currentAdventureCardId = setup.adventureCardId;
+    const currentEquipmentCardId = setup.equipmentCardId;
+
+    const cardsResponse = await request.get(`/api/plot-cards?book_id=${currentBookId}`);
+    const cardsData = await cardsResponse.json();
+    const cards = cardsData.data;
+
+    const weatherCards = cards.filter(c => c.sub_type === 'weather');
+
+    const chapter1Response = await request.post('/api/chapters', {
+      data: {
+        user_id: testUserId,
+        book_id: currentBookId,
+        selected_cards: {
+          protagonist_id: currentProtagonistId,
+          supporting_ids: [],
+          weather_id: weatherCards[0].card_id,
+          terrain_id: currentTerrainCardId,
+          adventure_id: currentAdventureCardId,
+          equipment_id: currentEquipmentCardId
+        }
+      }
+    });
+
+    const chapter1Data = await chapter1Response.json();
+
+    const chapter2Response = await request.post('/api/chapters', {
+      data: {
+        user_id: testUserId,
+        book_id: currentBookId,
+        selected_cards: {
+          protagonist_id: currentProtagonistId,
+          supporting_ids: [],
+          weather_id: weatherCards[1]?.card_id || weatherCards[0].card_id,
+          terrain_id: currentTerrainCardId,
+          adventure_id: currentAdventureCardId,
+          equipment_id: currentEquipmentCardId
+        }
+      }
+    });
+
+    const chapter2Data = await chapter2Response.json();
+
+    expect(chapter1Data.data.chapter.chapter_id).not.toBe(chapter2Data.data.chapter.chapter_id);
+
+    const dbChapters = db.queryAll(
+      'SELECT * FROM chapters WHERE book_id = ? ORDER BY order_num',
+      [currentBookId]
+    );
+    expect(dbChapters.length).toBe(2);
+  });
+
+  test('章节生成应验证用户权限', async ({ request }) => {
+    const setup = await setupBook(request);
+    const currentBookId = setup.testBookId;
+    const currentProtagonistId = setup.protagonistId;
+    const currentWeatherCardId = setup.weatherCardId;
+    const currentTerrainCardId = setup.terrainCardId;
+    const currentAdventureCardId = setup.adventureCardId;
+    const currentEquipmentCardId = setup.equipmentCardId;
+
+    const otherUserId = 'other-user-' + Date.now();
+    const response = await request.post('/api/chapters', {
+      data: {
+        user_id: otherUserId,
+        book_id: currentBookId,
+        selected_cards: {
+          protagonist_id: currentProtagonistId,
+          weather_id: currentWeatherCardId,
+          terrain_id: currentTerrainCardId,
+          adventure_id: currentAdventureCardId,
+          equipment_id: currentEquipmentCardId
+        }
+      }
+    });
+
+    const data = await response.json();
+    expect(data.success).toBe(false);
+  });
+
+  test('章节生成应验证书籍存在', async ({ request }) => {
+    const response = await request.post('/api/chapters', {
+      data: {
+        user_id: testUserId,
+        book_id: 'non-existent-book-id',
+        selected_cards: {
+          protagonist_id: 'non-existent-protagonist',
+          weather_id: 'non-existent-weather',
+          terrain_id: 'non-existent-terrain',
+          adventure_id: 'non-existent-adventure',
+          equipment_id: 'non-existent-equipment'
+        }
+      }
+    });
+
+    const data = await response.json();
+    expect(data.success).toBe(false);
+  });
+
+  test('章节生成应验证必需卡牌', async ({ request }) => {
+    const setup = await setupBook(request);
+    const currentBookId = setup.testBookId;
+    const currentProtagonistId = setup.protagonistId;
+    const currentWeatherCardId = setup.weatherCardId;
+    const currentTerrainCardId = setup.terrainCardId;
+
+    const response = await request.post('/api/chapters', {
+      data: {
+        user_id: testUserId,
+        book_id: currentBookId,
+        selected_cards: {
+          protagonist_id: currentProtagonistId,
+          weather_id: currentWeatherCardId,
+          terrain_id: currentTerrainCardId
+        }
+      }
+    });
+
+    const data = await response.json();
+    expect(data.success).toBe(false);
+  });
+
+  test('章节内容长度应在合理范围', async ({ request }) => {
+    const setup = await setupBook(request);
+    const currentBookId = setup.testBookId;
+    const currentProtagonistId = setup.protagonistId;
+    const currentWeatherCardId = setup.weatherCardId;
+    const currentTerrainCardId = setup.terrainCardId;
+    const currentAdventureCardId = setup.adventureCardId;
+    const currentEquipmentCardId = setup.equipmentCardId;
+
+    const response = await request.post('/api/chapters', {
+      data: {
+        user_id: testUserId,
+        book_id: currentBookId,
+        selected_cards: {
+          protagonist_id: currentProtagonistId,
+          weather_id: currentWeatherCardId,
+          terrain_id: currentTerrainCardId,
+          adventure_id: currentAdventureCardId,
+          equipment_id: currentEquipmentCardId
+        }
+      }
+    });
+
+    const data = await response.json();
+    const content = data.data.chapter.content;
+
+    expect(content.length).toBeGreaterThan(50);
+    expect(content.length).toBeLessThan(10000);
+  });
+
+  test('谜题应有正确的问题和答案', async ({ request }) => {
+    const setup = await setupBook(request);
+    const currentBookId = setup.testBookId;
+    const currentProtagonistId = setup.protagonistId;
+    const currentWeatherCardId = setup.weatherCardId;
+    const currentTerrainCardId = setup.terrainCardId;
+    const currentAdventureCardId = setup.adventureCardId;
+    const currentEquipmentCardId = setup.equipmentCardId;
+
+    const response = await request.post('/api/chapters', {
+      data: {
+        user_id: testUserId,
+        book_id: currentBookId,
+        selected_cards: {
+          protagonist_id: currentProtagonistId,
+          weather_id: currentWeatherCardId,
+          terrain_id: currentTerrainCardId,
+          adventure_id: currentAdventureCardId,
+          equipment_id: currentEquipmentCardId
+        }
+      }
+    });
+
+    const data = await response.json();
+    const puzzle = data.data.puzzle;
+
+    expect(puzzle.question).toBeDefined();
+    expect(puzzle.question.length).toBeGreaterThan(0);
+    expect(puzzle.puzzle_type).toBeDefined();
+    
+    if (puzzle.answer) {
+      expect(puzzle.answer.length).toBeGreaterThan(0);
+    }
+  });
+
+  test('谜题初始状态应为未解决', async ({ request }) => {
+    const setup = await setupBook(request);
+    const currentBookId = setup.testBookId;
+    const currentProtagonistId = setup.protagonistId;
+    const currentWeatherCardId = setup.weatherCardId;
+    const currentTerrainCardId = setup.terrainCardId;
+    const currentAdventureCardId = setup.adventureCardId;
+    const currentEquipmentCardId = setup.equipmentCardId;
+
+    const response = await request.post('/api/chapters', {
+      data: {
+        user_id: testUserId,
+        book_id: currentBookId,
+        selected_cards: {
+          protagonist_id: currentProtagonistId,
+          weather_id: currentWeatherCardId,
+          terrain_id: currentTerrainCardId,
+          adventure_id: currentAdventureCardId,
+          equipment_id: currentEquipmentCardId
+        }
+      }
+    });
+
+    const data = await response.json();
+    const puzzleId = data.data.puzzle.puzzle_id;
+
+    const dbPuzzle = db.query(
+      'SELECT * FROM puzzles WHERE puzzle_id = ?',
+      [puzzleId]
+    );
+
+    expect(dbPuzzle.is_solved).toBe(0);
+    expect(dbPuzzle.attempts).toBe(0);
+    expect(dbPuzzle.max_attempts).toBe(3);
+  });
 });

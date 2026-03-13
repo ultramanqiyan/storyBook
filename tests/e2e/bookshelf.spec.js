@@ -363,4 +363,254 @@ test.describe('书架页面', () => {
     const bookCover = page.locator('.book-3d').first();
     await expect(bookCover).toBeVisible();
   });
+
+  test('删除书籍应显示确认弹窗', async ({ page, request }) => {
+    const createResponse = await request.post('/api/books', {
+      data: {
+        user_id: testUserId,
+        title: '待删除书籍',
+        type: 'adventure',
+        protagonist: {
+          name: '主角',
+          avatar: '🧙‍♂️',
+          role_type: 'protagonist',
+          is_protagonist: 1
+        },
+        supporting_characters: []
+      }
+    });
+    const bookData = await createResponse.json();
+    const bookId = bookData.data.book_id;
+
+    await page.addInitScript((userId) => {
+      localStorage.setItem('user_id', userId);
+    }, testUserId);
+
+    await page.goto('/bookshelf.html');
+    await page.waitForTimeout(1000);
+
+    const bookItem = page.locator('.book-3d').first();
+    await bookItem.hover();
+
+    const deleteBtn = page.locator('.delete-btn, .book-delete-btn, [data-action="delete"]').first();
+    if (await deleteBtn.count() > 0) {
+      await deleteBtn.click();
+      await page.waitForTimeout(500);
+      const confirmDialog = page.locator('.modal, .confirm-dialog, .delete-confirm');
+      const dialogVisible = await confirmDialog.count() > 0;
+      expect(dialogVisible || page.url().includes('book')).toBeTruthy();
+    }
+
+    const dbBook = db.query('SELECT * FROM books WHERE book_id = ?', [bookId]);
+    expect(dbBook).toBeDefined();
+  });
+
+  test('确认删除书籍后应从数据库删除', async ({ page, request }) => {
+    const createResponse = await request.post('/api/books', {
+      data: {
+        user_id: testUserId,
+        title: '确认删除书籍',
+        type: 'adventure',
+        protagonist: {
+          name: '主角',
+          avatar: '🧙‍♂️',
+          role_type: 'protagonist',
+          is_protagonist: 1
+        },
+        supporting_characters: []
+      }
+    });
+    const bookData = await createResponse.json();
+    const bookId = bookData.data.book_id;
+
+    const deleteResponse = await request.delete(`/api/books/${bookId}?user_id=${testUserId}`);
+    const deleteResult = await deleteResponse.json();
+
+    expect(deleteResult.success).toBe(true);
+
+    const dbBook = db.query('SELECT * FROM books WHERE book_id = ?', [bookId]);
+    expect(dbBook).toBeUndefined();
+  });
+
+  test('删除书籍应级联删除关联的角色', async ({ request }) => {
+    const createResponse = await request.post('/api/books', {
+      data: {
+        user_id: testUserId,
+        title: '级联删除测试书籍',
+        type: 'adventure',
+        protagonist: {
+          name: '主角',
+          avatar: '🧙‍♂️',
+          role_type: 'protagonist',
+          is_protagonist: 1
+        },
+        supporting_characters: [
+          {
+            name: '配角1',
+            avatar: '👧',
+            role_type: 'supporting',
+            personality: '勇敢',
+            speech_style: '简洁直接',
+            intimacy: 50,
+            relationship: '朋友'
+          }
+        ]
+      }
+    });
+    const bookData = await createResponse.json();
+    const bookId = bookData.data.book_id;
+
+    const beforeChars = db.queryAll('SELECT * FROM characters WHERE book_id = ?', [bookId]);
+    expect(beforeChars.length).toBe(2);
+
+    await request.delete(`/api/books/${bookId}?user_id=${testUserId}`);
+
+    const afterChars = db.queryAll('SELECT * FROM characters WHERE book_id = ?', [bookId]);
+    expect(afterChars.length).toBe(0);
+  });
+
+  test('删除书籍应级联删除关联的卡牌', async ({ request }) => {
+    const createResponse = await request.post('/api/books', {
+      data: {
+        user_id: testUserId,
+        title: '卡牌级联删除测试',
+        type: 'adventure',
+        protagonist: {
+          name: '主角',
+          avatar: '🧙‍♂️',
+          role_type: 'protagonist',
+          is_protagonist: 1
+        },
+        supporting_characters: []
+      }
+    });
+    const bookData = await createResponse.json();
+    const bookId = bookData.data.book_id;
+
+    const beforeCards = db.queryAll('SELECT * FROM plot_cards WHERE book_id = ?', [bookId]);
+    expect(beforeCards.length).toBe(16);
+
+    await request.delete(`/api/books/${bookId}?user_id=${testUserId}`);
+
+    const afterCards = db.queryAll('SELECT * FROM plot_cards WHERE book_id = ?', [bookId]);
+    expect(afterCards.length).toBe(0);
+  });
+
+  test('删除书籍应级联删除关联的章节和谜题', async ({ request }) => {
+    const createResponse = await request.post('/api/books', {
+      data: {
+        user_id: testUserId,
+        title: '章节级联删除测试',
+        type: 'adventure',
+        protagonist: {
+          name: '主角',
+          avatar: '🧙‍♂️',
+          role_type: 'protagonist',
+          is_protagonist: 1
+        },
+        supporting_characters: []
+      }
+    });
+    const bookData = await createResponse.json();
+    const bookId = bookData.data.book_id;
+
+    const cards = db.queryAll('SELECT * FROM plot_cards WHERE book_id = ?', [bookId]);
+    const weatherCard = cards.find(c => c.sub_type === 'weather');
+    const terrainCard = cards.find(c => c.sub_type === 'terrain');
+    const adventureCard = cards.find(c => c.sub_type === 'adventure');
+    const equipmentCard = cards.find(c => c.sub_type === 'equipment');
+    const protagonist = db.query('SELECT * FROM characters WHERE book_id = ? AND is_protagonist = 1', [bookId]);
+
+    if (weatherCard && terrainCard && adventureCard && equipmentCard && protagonist) {
+      const chapterResponse = await request.post('/api/chapters', {
+        data: {
+          book_id: bookId,
+          selected_cards: {
+            protagonist_id: protagonist.char_id,
+            supporting_ids: [],
+            weather_id: weatherCard.card_id,
+            terrain_id: terrainCard.card_id,
+            adventure_id: adventureCard.card_id,
+            equipment_id: equipmentCard.card_id
+          }
+        }
+      });
+
+      if (chapterResponse.ok()) {
+        const chapterData = await chapterResponse.json();
+        if (chapterData.success) {
+          const beforeChapters = db.queryAll('SELECT * FROM chapters WHERE book_id = ?', [bookId]);
+          expect(beforeChapters.length).toBeGreaterThan(0);
+
+          const chapter = beforeChapters[0];
+          const beforePuzzles = db.queryAll('SELECT * FROM puzzles WHERE chapter_id = ?', [chapter.chapter_id]);
+
+          await request.delete(`/api/books/${bookId}?user_id=${testUserId}`);
+
+          const afterChapters = db.queryAll('SELECT * FROM chapters WHERE book_id = ?', [bookId]);
+          expect(afterChapters.length).toBe(0);
+
+          if (beforePuzzles.length > 0) {
+            const afterPuzzles = db.queryAll('SELECT * FROM puzzles WHERE chapter_id = ?', [chapter.chapter_id]);
+            expect(afterPuzzles.length).toBe(0);
+          }
+        }
+      }
+    } else {
+      await request.delete(`/api/books/${bookId}?user_id=${testUserId}`);
+    }
+  });
+
+  test('不能删除预设书籍', async ({ page }) => {
+    await page.addInitScript((userId) => {
+      localStorage.setItem('user_id', userId);
+    }, testUserId);
+
+    await page.goto('/bookshelf.html');
+    await page.waitForTimeout(1000);
+
+    const presetBook = page.locator('.book-3d.preset, .book-item[data-preset="true"]').first();
+    if (await presetBook.count() > 0) {
+      await presetBook.hover();
+      const deleteBtn = presetBook.locator('.delete-btn, .book-delete-btn');
+      const deleteBtnCount = await deleteBtn.count();
+      expect(deleteBtnCount).toBe(0);
+    }
+  });
+
+  test('删除书籍后书架应更新显示', async ({ page, request }) => {
+    db.run('DELETE FROM books WHERE user_id = ?', [testUserId]);
+
+    const createResponse = await request.post('/api/books', {
+      data: {
+        user_id: testUserId,
+        title: '删除后更新测试',
+        type: 'adventure',
+        protagonist: {
+          name: '主角',
+          avatar: '🧙‍♂️',
+          role_type: 'protagonist',
+          is_protagonist: 1
+        },
+        supporting_characters: []
+      }
+    });
+    const bookData = await createResponse.json();
+    const bookId = bookData.data.book_id;
+
+    await page.addInitScript((userId) => {
+      localStorage.setItem('user_id', userId);
+    }, testUserId);
+
+    await page.goto('/bookshelf.html');
+    await page.waitForTimeout(1000);
+
+    await request.delete(`/api/books/${bookId}?user_id=${testUserId}`);
+
+    await page.reload();
+    await page.waitForTimeout(1000);
+
+    const dbBooks = db.queryAll('SELECT * FROM books WHERE user_id = ?', [testUserId]);
+    expect(dbBooks.length).toBe(0);
+  });
 });

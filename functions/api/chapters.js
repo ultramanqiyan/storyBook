@@ -2,6 +2,33 @@ import { createSuccessResponse, createErrorResponse, createOptionsResponse, gene
 
 const CARD_LIMIT_PER_TYPE = 8;
 
+const SYSTEM_PROMPT = `你是互动故事章节生成专家。根据输入信息生成新一章节内容。
+
+## 输出格式（仅JSON，无其他文字）
+{
+  "title": "章节标题",
+  "content": "章节内容约300字",
+  "puzzle": {
+    "question": "谜题问题",
+    "options": ["选项A", "选项B", "选项C", "选项D"],
+    "answer": "正确答案"
+  },
+  "intimacy_changes": [
+    { "char_name": "角色名字", "change": 5 }
+  ]
+}
+
+## 创作要点
+- 风格匹配书籍类型
+- 角色行为符合性格
+- 承接上章，使用卡牌元素
+- 谜题相关且难度适中
+- 亲密度变化-10到+10，有因果关系
+
+## 解谜影响
+- 上一章解谜成功：新章节内容偏向积极，配角亲密度倾向正向变化
+- 上一章解谜失败：新章节内容偏向挑战，配角亲密度倾向负向变化`;
+
 const puzzleTemplates = {
   adventure: [
     { question: '在森林中，你发现了什么？', answer: '宝藏', options: ['宝藏', '怪物', '陷阱', '出口'], type: 'choice' },
@@ -52,6 +79,105 @@ function generateChapterContent(bookType, selectedCardsInfo) {
   };
   
   return templates[bookType] || templates.adventure;
+}
+
+async function buildAIInput(env, bookId, selectedCards) {
+  const { protagonist_id, supporting_ids, weather_id, terrain_id, adventure_id, equipment_id } = selectedCards;
+  
+  const book = await env.DB.prepare(
+    'SELECT title, type FROM books WHERE book_id = ?'
+  ).bind(bookId).first();
+  
+  const protagonist = await env.DB.prepare(
+    'SELECT name, role_type, personality, speech_style FROM characters WHERE char_id = ?'
+  ).bind(protagonist_id).first();
+  
+  let supporting = null;
+  if (supporting_ids && supporting_ids.length > 0) {
+    supporting = await env.DB.prepare(
+      'SELECT name, role_type, personality, speech_style, relationship, intimacy FROM characters WHERE char_id = ?'
+    ).bind(supporting_ids[0]).first();
+  }
+  
+  const [weather, terrain, adventure, equipment] = await Promise.all([
+    weather_id ? env.DB.prepare('SELECT name FROM plot_cards WHERE card_id = ?').bind(weather_id).first() : Promise.resolve(null),
+    terrain_id ? env.DB.prepare('SELECT name FROM plot_cards WHERE card_id = ?').bind(terrain_id).first() : Promise.resolve(null),
+    adventure_id ? env.DB.prepare('SELECT name FROM plot_cards WHERE card_id = ?').bind(adventure_id).first() : Promise.resolve(null),
+    equipment_id ? env.DB.prepare('SELECT name FROM plot_cards WHERE card_id = ?').bind(equipment_id).first() : Promise.resolve(null)
+  ]);
+  
+  const recentChapters = await env.DB.prepare(
+    'SELECT title FROM chapters WHERE book_id = ? ORDER BY order_num DESC LIMIT 3'
+  ).bind(bookId).all();
+  const recentTitles = recentChapters.results.map(c => c.title).reverse().join('、');
+  
+  const lastChapter = await env.DB.prepare(
+    'SELECT content FROM chapters WHERE book_id = ? ORDER BY order_num DESC LIMIT 1'
+  ).bind(bookId).first();
+  
+  const lastPuzzle = await env.DB.prepare(`
+    SELECT p.question, p.answer, p.is_solved 
+    FROM puzzles p 
+    JOIN chapters c ON p.chapter_id = c.chapter_id 
+    WHERE c.book_id = ? 
+    ORDER BY c.order_num DESC LIMIT 1
+  `).bind(bookId).first();
+  
+  let userData = `书籍名称：${book?.title || '未知'}
+书籍类型：${book?.type || 'adventure'}
+
+主角：${protagonist?.name || '未知'}
+角色类型：${protagonist?.role_type || '未知'}
+性格：${protagonist?.personality || '未知'}
+说话方式：${protagonist?.speech_style || '未知'}`;
+  
+  if (supporting) {
+    userData += `
+
+配角：${supporting.name || '未知'}
+角色类型：${supporting.role_type || '未知'}
+性格：${supporting.personality || '未知'}
+说话方式：${supporting.speech_style || '未知'}
+与主角关系：${supporting.relationship || '未知'}
+与主角亲密度：${supporting.intimacy || 0}`;
+  }
+  
+  userData += `
+
+天气：${weather?.name || '未知'}
+地形：${terrain?.name || '未知'}
+冒险类型：${adventure?.name || '未知'}
+装备：${equipment?.name || '未知'}
+
+最近三章标题：${recentTitles || '无'}
+最近一章内容：${lastChapter?.content || '无'}
+最近一章谜题：${lastPuzzle?.question || '无'}
+正确答案：${lastPuzzle?.answer || '无'}
+是否解谜成功：${lastPuzzle?.is_solved === 1 ? 'true' : 'false'}`;
+  
+  return SYSTEM_PROMPT + '\n' + userData;
+}
+
+function mockAIGenerate(aiInput, bookType, orderNum, supportingName) {
+  const title = generateChapterTitle(bookType, orderNum);
+  
+  const templates = puzzleTemplates[bookType] || puzzleTemplates.adventure;
+  const randomPuzzle = templates[Math.floor(Math.random() * templates.length)];
+  
+  const intimacyChange = Math.floor(Math.random() * 21) - 10;
+  
+  return {
+    title: title,
+    content: aiInput,
+    puzzle: {
+      question: randomPuzzle.question,
+      options: randomPuzzle.options,
+      answer: randomPuzzle.answer
+    },
+    intimacy_changes: supportingName ? [
+      { char_name: supportingName, change: intimacyChange }
+    ] : []
+  };
 }
 
 async function getCardInfo(env, cardId, cardType) {
@@ -205,17 +331,18 @@ export async function onRequestPost(context) {
     const orderNum = (maxOrder?.max_order || 0) + 1;
     const chapterId = generateId();
 
-    const title = generateChapterTitle(book.type, orderNum);
-    
-    const selectedCardsInfo = {
-      protagonist: await getCardInfo(env, protagonist_id, 'character'),
-      weather: await getCardInfo(env, weather_id, 'plot'),
-      terrain: await getCardInfo(env, terrain_id, 'plot'),
-      adventure: await getCardInfo(env, adventure_id, 'plot'),
-      equipment: await getCardInfo(env, equipment_id, 'plot')
-    };
-    
-    const content = generateChapterContent(book.type, selectedCardsInfo);
+    const aiInput = await buildAIInput(env, book_id, { protagonist_id, supporting_ids, weather_id, terrain_id, adventure_id, equipment_id });
+
+    let supportingName = null;
+    if (supporting_ids && supporting_ids.length > 0) {
+      const supportingChar = await env.DB.prepare(
+        'SELECT name FROM characters WHERE char_id = ?'
+      ).bind(supporting_ids[0]).first();
+      supportingName = supportingChar?.name;
+    }
+
+    const aiResult = mockAIGenerate(aiInput, book.type, orderNum, supportingName);
+    const { title, content, puzzle, intimacy_changes } = aiResult;
 
     const cardsData = {
       protagonist_id,
@@ -230,30 +357,38 @@ export async function onRequestPost(context) {
       'INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES (?, ?, ?, ?, ?, ?)'
     ).bind(chapterId, book_id, title, content, JSON.stringify(cardsData), orderNum).run();
 
-    const puzzleId = await createPuzzleForChapter(env, chapterId, book.type);
+    const puzzleId = generateId();
+    await env.DB.prepare(
+      'INSERT INTO puzzles (puzzle_id, chapter_id, question, answer, puzzle_type, options, max_attempts) VALUES (?, ?, ?, ?, ?, ?, ?)'
+    ).bind(puzzleId, chapterId, puzzle.question, puzzle.answer, 'choice', JSON.stringify(puzzle.options), 3).run();
 
     const updatedIntimacy = [];
-    if (protagonist_id && supporting_ids && supporting_ids.length > 0) {
-      for (const charId of supporting_ids) {
-        const randomChange = Math.floor(Math.random() * 21) - 10;
-        await env.DB.prepare(
-          'UPDATE characters SET intimacy = MAX(-100, MIN(100, intimacy + ?)) WHERE char_id = ?'
-        ).bind(randomChange, charId).run();
+    if (intimacy_changes && intimacy_changes.length > 0) {
+      for (const change of intimacy_changes) {
+        const char = await env.DB.prepare(
+          'SELECT char_id FROM characters WHERE name = ? AND book_id = ?'
+        ).bind(change.char_name, book_id).first();
         
-        const updatedChar = await env.DB.prepare(
-          'SELECT char_id, intimacy FROM characters WHERE char_id = ?'
-        ).bind(charId).first();
-        
-        if (updatedChar) {
-          updatedIntimacy.push({
-            char_id: updatedChar.char_id,
-            intimacy: updatedChar.intimacy
-          });
+        if (char) {
+          await env.DB.prepare(
+            'UPDATE characters SET intimacy = MAX(-100, MIN(100, intimacy + ?)) WHERE char_id = ?'
+          ).bind(change.change, char.char_id).run();
+          
+          const updatedChar = await env.DB.prepare(
+            'SELECT char_id, intimacy FROM characters WHERE char_id = ?'
+          ).bind(char.char_id).first();
+          
+          if (updatedChar) {
+            updatedIntimacy.push({
+              char_id: updatedChar.char_id,
+              intimacy: updatedChar.intimacy
+            });
+          }
         }
       }
     }
 
-    const puzzle = await env.DB.prepare(
+    const puzzleResult = await env.DB.prepare(
       'SELECT puzzle_id, question, puzzle_type FROM puzzles WHERE puzzle_id = ?'
     ).bind(puzzleId).first();
 
@@ -265,9 +400,9 @@ export async function onRequestPost(context) {
         order_num: orderNum
       },
       puzzle: {
-        puzzle_id: puzzle.puzzle_id,
-        question: puzzle.question,
-        puzzle_type: puzzle.puzzle_type
+        puzzle_id: puzzleResult.puzzle_id,
+        question: puzzleResult.question,
+        puzzle_type: puzzleResult.puzzle_type
       },
       updated_intimacy: updatedIntimacy,
       card_limit_warning: cardLimitInfo.length > 0 ? cardLimitInfo : undefined

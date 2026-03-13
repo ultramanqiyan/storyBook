@@ -1,0 +1,56 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: index.html
+    - link "Library" [ref=e5] [cursor=pointer]:
+      - /url: bookshelf.html
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]: 📖 35%
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - text: ❧
+          - generic [ref=e13]: CHAPTER I
+          - generic [ref=e14]: 神秘的开端
+          - text: ❧
+        - paragraph [ref=e15]:
+          - generic [ref=e16]: 在
+          - text: 一个阳光明媚的早晨，小明收到了一封神秘的信件。信上画着一张古老的地图，指向森林深处的一个秘密地点。小明决定踏上探险之旅，他收拾好背包，带上放大镜和指南针，向着森林出发了。森林里阳光透过树叶洒下斑驳的光影，鸟儿在枝头欢快地歌唱。小明一边走一边用放大镜观察地上的脚印，这些脚印似乎通向森林深处。
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - text: ❧
+        - generic [ref=e20]: CHAPTER II
+        - generic [ref=e21]: 彩虹桥的秘密
+        - text: ❧
+      - paragraph [ref=e22]:
+        - generic [ref=e23]: 雨
+        - text: 后的天空出现了一道美丽的彩虹，小明沿着小溪边走边寻找线索。小红从树后跳出来，笑着说："我也要一起去探险！"她手里拿着一个指南针，说这是她爸爸送给她的宝贝。两人决定一起沿着小溪向上游探险，寻找彩虹的尽头。小溪的水清澈见底，偶尔能看到小鱼在水中游来游去。
+  - generic [ref=e24]:
+    - generic [ref=e25] [cursor=pointer]: ◀
+    - generic [ref=e26]:
+      - button "👤 角色" [ref=e27] [cursor=pointer]
+      - button "📜 情节" [ref=e28] [cursor=pointer]
+    - generic [ref=e30]:
+      - generic [ref=e32] [cursor=pointer]:
+        - generic [ref=e33]: 👦
+        - generic [ref=e34]:
+          - generic [ref=e35]: 小明
+          - generic [ref=e36]: 小探险家
+      - generic [ref=e38] [cursor=pointer]:
+        - generic [ref=e39]: 👧
+        - generic [ref=e40]:
+          - generic [ref=e41]: 小红
+          - generic [ref=e42]: 小智者
+      - generic [ref=e44] [cursor=pointer]:
+        - generic [ref=e45]: 👴
+        - generic [ref=e46]:
+          - generic [ref=e47]: 老爷爷
+          - generic [ref=e48]: 向导
+  - generic [ref=e49]:
+    - button "← Previous" [disabled] [ref=e50]
+    - generic [ref=e51]: Page 1 of 5
+    - button "Next →" [ref=e52] [cursor=pointer]
+```

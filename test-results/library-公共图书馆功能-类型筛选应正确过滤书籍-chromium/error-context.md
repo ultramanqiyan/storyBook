@@ -1,0 +1,53 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - navigation [ref=e2]:
+    - link "Ancient Library" [ref=e3] [cursor=pointer]:
+      - /url: index.html
+    - generic [ref=e4]:
+      - link "Home" [ref=e5] [cursor=pointer]:
+        - /url: index.html
+      - link "My Books" [ref=e6] [cursor=pointer]:
+        - /url: bookshelf.html
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - heading "Public Library" [level=1] [ref=e9]
+      - paragraph [ref=e10]: Explore ancient stories and bring them to your bookshelf
+    - generic [ref=e11]:
+      - generic [ref=e12]: "*"
+      - generic [ref=e13]: "*"
+      - generic [ref=e14]: "*"
+      - generic [ref=e15]: "*"
+      - generic [ref=e16]: "*"
+    - generic [ref=e17]:
+      - button "All" [ref=e18] [cursor=pointer]
+      - button "Adventure" [active] [ref=e19] [cursor=pointer]
+      - button "Fantasy" [ref=e20] [cursor=pointer]
+      - button "Romance" [ref=e21] [cursor=pointer]
+      - button "Business" [ref=e22] [cursor=pointer]
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - generic [ref=e26] [cursor=pointer]:
+          - generic [ref=e28]: 🗺️
+          - generic [ref=e31]: 小明的奇幻冒险
+          - generic [ref=e32]: Adventure
+        - generic [ref=e33]:
+          - heading "小明的奇幻冒险" [level=4] [ref=e34]
+          - paragraph [ref=e35]: 0 chapters
+      - generic [ref=e36]:
+        - generic [ref=e37] [cursor=pointer]:
+          - generic [ref=e39]: 🗺️
+          - generic [ref=e42]: 小勇的丛林探险
+          - generic [ref=e43]: Adventure
+        - generic [ref=e44]:
+          - heading "小勇的丛林探险" [level=4] [ref=e45]
+          - paragraph [ref=e46]: 0 chapters
+    - generic [ref=e47]:
+      - generic [ref=e48]: "*"
+      - generic [ref=e49]: "*"
+      - generic [ref=e50]: "*"
+      - generic [ref=e51]: "*"
+      - generic [ref=e52]: "*"
+    - paragraph [ref=e54]: May the stories guide your journey...
+```
