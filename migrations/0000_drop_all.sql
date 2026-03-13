@@ -1,0 +1,7 @@
+-- 清理所有表
+DROP TABLE IF EXISTS puzzles;
+DROP TABLE IF EXISTS chapters;
+DROP TABLE IF EXISTS plot_cards;
+DROP TABLE IF EXISTS characters;
+DROP TABLE IF EXISTS books;
+DROP TABLE IF EXISTS users;
