@@ -12,12 +12,13 @@
   <link rel="stylesheet" href="css/responsive.css">
   <style>
     .book-opening-page {
-      min-height: 100vh;
+      height: 100vh;
       padding-top: 80px;
       display: flex;
       justify-content: center;
       align-items: center;
       perspective: 2000px;
+      overflow: hidden;
     }
     
     .book-container {
@@ -467,15 +468,18 @@
     document.addEventListener('DOMContentLoaded', async function() {
       createParticles(document.getElementById('particles'), 30);
       
-      const userId = checkAuth();
-      if (!userId) return;
-      
       const bookId = getUrlParam('id');
       isPresetBook = getUrlParam('is_preset') === '1';
       
       if (!bookId) {
         window.location.href = 'bookshelf.html';
         return;
+      }
+      
+      // Only require login for non-preset books
+      if (!isPresetBook) {
+        const userId = checkAuth();
+        if (!userId) return;
       }
       
       await loadBook(bookId);
@@ -568,7 +572,7 @@
     async function importPresetBook() {
       const userId = getUserId();
       if (!userId) {
-        showNotification('Please login first', 'warning');
+        window.location.href = 'login.html?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       

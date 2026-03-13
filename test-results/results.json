@@ -1,0 +1,183 @@
+{
+  "config": {
+    "configFile": "D:\\trae_job\\storyBook\\playwright.config.js",
+    "rootDir": "D:/trae_job/storyBook/tests/e2e",
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "projects": [
+      {
+        "outputDir": "D:/trae_job/storyBook/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "chromium",
+        "name": "chromium",
+        "testDir": "D:/trae_job/storyBook/tests/e2e",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      }
+    ],
+    "quiet": false,
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "test-results/results.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "runAgents": "none",
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "patch",
+    "version": "1.58.2",
+    "workers": 1,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "compare.spec.js",
+      "file": "compare.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "对比测试",
+          "file": "compare.spec.js",
+          "line": 3,
+          "column": 6,
+          "specs": [
+            {
+              "title": "对比书架页和公共图书馆的书籍展示",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 4581,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "\n=== 公共图书馆书籍卡片结构 ===\n"
+                        },
+                        {
+                          "text": "\n    <div class=\"book-3d\" onclick=\"window.location.href='book.html?id=preset-adventure-001&amp;is_preset=1'\">\n      <div class=\"book-cover\" style=\"background: linear-gradient(135deg, #2a1a0a 0%, #1a0a00 100%);\">\n        <span style=\"font-size: 48px;\">🗺️</span>\n      </div>\n      <div class=\"book-spine\"></div>\n      <div class=\"book-pages\"></div>\n      <div class=\"book-title\">小明的奇幻冒险</div>\n      <div class=\"book-tag\">Adventure</div>\n    </div>\n    <div class=\"book-info\">\n      <h4>小明的奇幻冒险</h4>\n \n"
+                        },
+                        {
+                          "text": "\n公共图书馆书籍卡片类名: {\n  \"itemClasses\": \"book-item\",\n  \"children\": [\n    {\n      \"tag\": \"DIV\",\n      \"classes\": \"book-3d\",\n      \"text\": \"\\n      \\n        🗺️\\n      \\n      \\n      \\n      小明的\"\n    },\n    {\n      \"tag\": \"DIV\",\n      \"classes\": \"book-info\",\n      \"text\": \"\\n      小明的奇幻冒险\\n      0 chapters\\n    \"\n    }\n  ]\n}\n"
+                        },
+                        {
+                          "text": "\n公共图书馆 .book-3d 样式: {\n  \"position\": \"relative\",\n  \"width\": \"150px\",\n  \"height\": \"200px\",\n  \"marginBottom\": \"0px\",\n  \"display\": \"block\"\n}\n"
+                        },
+                        {
+                          "text": "\n公共图书馆 .book-title 样式: {\n  \"position\": \"absolute\",\n  \"bottom\": \"20px\",\n  \"top\": \"160.812px\",\n  \"left\": \"15px\",\n  \"transform\": \"none\",\n  \"color\": \"rgb(255, 215, 0)\",\n  \"isInCorrectPosition\": true\n}\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2026-03-13T11:50:47.999Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8b59a2396251a251eb0b-ae36e78e500548eab850",
+              "file": "compare.spec.js",
+              "line": 4,
+              "column": 3
+            },
+            {
+              "title": "对比项目章节页和Demo章节页",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 6553,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "\n=== Demo 章节页信息 ===\n"
+                        },
+                        {
+                          "text": "{\n  \"bodyBackground\": \"rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box\",\n  \"bodyOverflow\": \"visible\",\n  \"htmlOverflow\": \"visible\",\n  \"readingContentOverflow\": null,\n  \"leftPageContent\": null,\n  \"rightPageContent\": null,\n  \"hasScrollbar\": true\n}\n"
+                        },
+                        {
+                          "text": "\n=== 差异对比 ===\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2026-03-13T11:50:52.984Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8b59a2396251a251eb0b-4e182f79dd356af6edfc",
+              "file": "compare.spec.js",
+              "line": 64,
+              "column": 3
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-03-13T11:50:46.235Z",
+    "duration": 13688.761,
+    "expected": 2,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

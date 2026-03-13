@@ -2,10 +2,10 @@ let allPresetBooks = [];
 let currentBook = null;
 
 const typeIcons = {
-  adventure: '*',
-  fantasy: '*',
-  romance: '*',
-  business: '*'
+  adventure: '🗺️',
+  fantasy: '🧙',
+  romance: '💕',
+  business: '💼'
 };
 
 const typeNames = {
@@ -13,6 +13,13 @@ const typeNames = {
   fantasy: 'Fantasy',
   romance: 'Romance',
   business: 'Business'
+};
+
+const typeColors = {
+  adventure: 'linear-gradient(135deg, #2a1a0a 0%, #1a0a00 100%)',
+  fantasy: 'linear-gradient(135deg, #2a1a4a 0%, #1a0a2e 100%)',
+  romance: 'linear-gradient(135deg, #4a1a2a 0%, #2a0a1e 100%)',
+  business: 'linear-gradient(135deg, #1a2a3a 0%, #0a1a2e 100%)'
 };
 
 document.addEventListener('DOMContentLoaded', async function() {
@@ -63,26 +70,27 @@ function renderBooks(books) {
 
 function createBookCard(book, index) {
   const div = document.createElement('div');
-  div.className = 'magic-book-card';
+  div.className = 'book-item';
   div.dataset.type = book.type;
   div.style.animationDelay = `${index * 0.1}s`;
   
+  const chapterCount = book.chapter_count || 0;
+  
   div.innerHTML = `
-    <div class="book-float">
-      <div class="book-glow"></div>
-      <div class="book-body">
-        <div class="book-type-icon">${typeIcons[book.type] || '*'}</div>
-        <div class="book-cover-icon">*</div>
+    <div class="book-3d" onclick="window.location.href='book.html?id=${book.book_id}&is_preset=1'">
+      <div class="book-cover" style="background: ${typeColors[book.type] || typeColors.adventure};">
+        <span style="font-size: 48px;">${typeIcons[book.type] || '📖'}</span>
       </div>
-      <div class="book-particles"></div>
+      <div class="book-spine"></div>
+      <div class="book-pages"></div>
+      <div class="book-title">${book.title}</div>
+      <div class="book-tag">${typeNames[book.type] || book.type}</div>
     </div>
     <div class="book-info">
       <h4>${book.title}</h4>
-      <p>${typeNames[book.type] || book.type} | ${book.chapter_count || 0} chapters</p>
+      <p>${chapterCount} chapters</p>
     </div>
   `;
-  
-  div.addEventListener('click', () => showBookDetail(book));
   
   return div;
 }

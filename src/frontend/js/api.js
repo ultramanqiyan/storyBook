@@ -170,6 +170,10 @@ const API = {
         return apiRequest(`/api/preset-chapters/${chapterId}`);
     },
 
+    async getPresetBookChapters(bookId) {
+        return apiRequest(`/api/books/${bookId}/chapters`);
+    },
+
     async createChapter(data) {
         return apiRequest('/api/chapters', {
             method: 'POST',

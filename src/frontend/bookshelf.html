@@ -218,7 +218,7 @@
     </div>
     
     <div class="books-section">
-      <h2 class="section-title"><span data-i18n="bookshelf.myCreations">My Creations</span> <span class="count">(4 <span data-i18n="bookshelf.stories">stories</span>)</span></h2>
+      <h2 class="section-title"><span data-i18n="bookshelf.myCreations">My Creations</span> <span class="count">(0 <span data-i18n="bookshelf.stories">stories</span>)</span></h2>
       <div class="books-grid" id="myBooks">
         <div class="book-item">
           <div class="add-book-card" onclick="window.location.href='book-create.html'">
@@ -229,9 +229,9 @@
       </div>
     </div>
     
-    <div class="books-section">
-      <h2 class="section-title"><span data-i18n="bookshelf.presetStories">Preset Stories</span> <span class="count">(3 <span data-i18n="bookshelf.stories">stories</span>)</span></h2>
-      <div class="books-grid" id="presetBooks"></div>
+    <div class="books-section" style="text-align: center; padding: 40px;">
+      <p style="color: var(--color-text-muted); margin-bottom: 16px;">Looking for more stories?</p>
+      <a href="library.html" class="btn btn-secondary">Browse Public Library</a>
     </div>
   </div>
   
@@ -240,7 +240,6 @@
   <script src="js/theme.js"></script>
   <script>
     let allUserBooks = [];
-    let allPresetBooks = [];
     
     document.addEventListener('DOMContentLoaded', async function() {
       createParticles(document.getElementById('particles'), 30);
@@ -255,16 +254,9 @@
     
     async function loadBooks(userId) {
       try {
-        const [userBooksResult, presetBooksResult] = await Promise.all([
-          API.getBooks(userId),
-          API.getPresetBooks()
-        ]);
-        
+        const userBooksResult = await API.getBooks(userId);
         allUserBooks = userBooksResult.success ? (userBooksResult.data || []) : [];
-        allPresetBooks = presetBooksResult.success ? (presetBooksResult.data || []) : [];
-        
         renderMyBooks(allUserBooks);
-        renderPresetBooks(allPresetBooks);
         updateBookCounts();
       } catch (error) {
         showNotification('Failed to load books: ' + error.message, 'error');
@@ -280,14 +272,9 @@
     }
     
     function updateBookCounts() {
-      const myCount = document.querySelector('.books-section:first-of-type .count');
-      const presetCount = document.querySelector('.books-section:last-of-type .count');
-      
+      const myCount = document.querySelector('.books-section .count');
       if (myCount) {
         myCount.textContent = `(${allUserBooks.length} stories)`;
-      }
-      if (presetCount) {
-        presetCount.textContent = `(${allPresetBooks.length} stories)`;
       }
     }
     
@@ -298,16 +285,6 @@
       books.forEach(book => {
         const bookEl = createBookElement(book);
         container.insertBefore(bookEl, addCard);
-      });
-    }
-    
-    function renderPresetBooks(books) {
-      const container = document.getElementById('presetBooks');
-      container.innerHTML = '';
-      
-      books.forEach(book => {
-        const bookEl = createBookElement(book);
-        container.appendChild(bookEl);
       });
     }
     

@@ -112,7 +112,20 @@ export async function onRequestGet(context) {
       'SELECT * FROM chapters WHERE book_id = ? ORDER BY order_num ASC'
     ).bind(bookId).all();
 
-    return createSuccessResponse(results.results);
+    const chaptersWithPuzzles = await Promise.all(
+      (results.results || []).map(async (chapter) => {
+        const puzzle = await env.DB.prepare(
+          'SELECT puzzle_id FROM puzzles WHERE chapter_id = ?'
+        ).bind(chapter.chapter_id).first();
+        
+        return {
+          ...chapter,
+          puzzle_id: puzzle?.puzzle_id || null
+        };
+      })
+    );
+
+    return createSuccessResponse(chaptersWithPuzzles);
   } catch (error) {
     return createErrorResponse(error.message, 500);
   }

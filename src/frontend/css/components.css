@@ -324,8 +324,6 @@
 
 .book-tag {
   position: absolute;
-  top: var(--spacing-sm);
-  right: var(--spacing-sm);
   padding: 2px 8px;
   background: var(--color-gold);
   color: #1a1a2e;

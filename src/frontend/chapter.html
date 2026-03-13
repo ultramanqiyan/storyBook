@@ -11,22 +11,23 @@
   <link rel="stylesheet" href="css/themes.css">
   <link rel="stylesheet" href="css/responsive.css">
   <link rel="stylesheet" href="css/custom-card.css">
+  <link rel="stylesheet" href="css/style.css">
   <style>
     .book-reader-page {
-      min-height: 100vh;
+      height: 100vh;
       padding-top: 80px;
-      padding-bottom: 80px;
       display: flex;
       justify-content: center;
       perspective: 2000px;
+      overflow: hidden;
     }
     
     .reading-book-container {
       position: relative;
       width: 95%;
       max-width: 1400px;
-      height: calc(100vh - 200px);
-      min-height: 600px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
       display: flex;
       justify-content: center;
     }
@@ -90,76 +91,127 @@
       width: calc(50% - 35px);
       height: 100%;
       background: #f4e4bc;
+      border-radius: 5px;
       overflow: hidden;
-      box-shadow: 0 0 40px rgba(0, 0, 0, 0.4);
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
     }
     
     .reading-page.left {
       left: 0;
-      border-radius: 8px 0 0 8px;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
     }
     
     .reading-page.right {
       right: 0;
-      border-radius: 0 8px 8px 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
     }
     
-    .parchment-bg {
+    .parchment-texture {
       position: absolute;
       top: 0;
       left: 0;
       right: 0;
       bottom: 0;
       background: 
-        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.12) 0%, transparent 50%),
-        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.12) 0%, transparent 50%);
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
       pointer-events: none;
     }
     
-    .page-wear {
+    .page-edge {
       position: absolute;
       pointer-events: none;
     }
     
-    .page-wear.corner-tl {
+    .page-edge.top {
       top: 0;
       left: 0;
-      width: 60px;
-      height: 60px;
-      background: radial-gradient(circle at 0 0, transparent 30px, rgba(60, 30, 15, 0.4) 100%);
-    }
-    
-    .page-wear.corner-tr {
-      top: 0;
       right: 0;
-      width: 60px;
-      height: 60px;
-      background: radial-gradient(circle at 100% 0, transparent 30px, rgba(60, 30, 15, 0.4) 100%);
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
     }
     
-    .page-wear.corner-bl {
+    .page-edge.bottom {
       bottom: 0;
       left: 0;
-      width: 60px;
-      height: 60px;
-      background: radial-gradient(circle at 0 100%, transparent 30px, rgba(60, 30, 15, 0.4) 100%);
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
     }
     
-    .page-wear.corner-br {
+    .page-edge.left {
+      top: 0;
+      left: 0;
       bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
       right: 0;
-      width: 60px;
-      height: 60px;
-      background: radial-gradient(circle at 100% 100%, transparent 30px, rgba(60, 30, 15, 0.4) 100%);
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
     }
     
     .reading-content {
       position: relative;
       height: 100%;
       padding: 40px 35px;
-      overflow-y: auto;
+      overflow: hidden;
       color: #1a1008;
       z-index: 1;
+    }
+    
+    .page-text {
+      height: calc(100% - 100px);
+      overflow: hidden;
+      line-height: 1.8;
+      font-size: 18px;
+    }
+    
+    .page-indicator {
+      position: absolute;
+      bottom: 15px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 12px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .chapter-divider {
+      text-align: center;
+      padding: 15px 0;
+      border-top: 1px solid rgba(139, 90, 43, 0.3);
+      border-bottom: 1px solid rgba(139, 90, 43, 0.3);
+      margin: 15px 0;
+      font-style: italic;
+      color: #8B4513;
+      font-size: 14px;
+    }
+    
+    .empty-page {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      color: rgba(139, 90, 43, 0.5);
+      font-style: italic;
     }
     
     .manuscript-title {
@@ -670,9 +722,10 @@
       <div class="reading-spine"></div>
       
       <div class="reading-page left" id="leftPage">
-        <div class="parchment-bg"></div>
-        <div class="page-wear corner-tl"></div>
-        <div class="page-wear corner-bl"></div>
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
         <div class="progress-corner">📖 35%</div>
         <div class="reading-content">
           <div class="manuscript-title">
@@ -696,9 +749,10 @@
       </div>
       
       <div class="reading-page right" id="rightPage">
-        <div class="parchment-bg"></div>
-        <div class="page-wear corner-tr"></div>
-        <div class="page-wear corner-br"></div>
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
         <div class="reading-content">
           <div class="manuscript-text">
             <p>As they rounded a narrow bend, the ground suddenly shook. From the shadows emerged a figure in obsidian armor, his blade gleaming with an otherworldly darkness.</p>
@@ -943,15 +997,23 @@
     let currentCharStep = 1;
     let characterOptions = null;
     let isPresetChapter = false;
+    
+    let currentPageIndex = 0;
+    let allPages = [];
+    let allChapters = [];
+    const CHARS_PER_PAGE = 1500;
 
     document.addEventListener('DOMContentLoaded', async function() {
       createParticles(document.getElementById('particles'), 20);
       
-      const userId = checkAuth();
-      if (!userId) return;
-      
       const chapterId = getUrlParam('id');
       isPresetChapter = getUrlParam('is_preset') === '1';
+      
+      // Only require login for non-preset chapters
+      if (!isPresetChapter) {
+        const userId = checkAuth();
+        if (!userId) return;
+      }
       
       if (!chapterId) {
         window.location.href = 'bookshelf.html';
@@ -975,7 +1037,20 @@
         if (result.success) {
           currentChapter = result.data;
           currentChapter.is_preset = isPresetChapter;
-          renderChapter(currentChapter);
+          
+          // Load all chapters for pagination
+          await loadAllChapters(currentChapter.book_id);
+          
+          // Calculate page index for current chapter
+          currentPageIndex = 0;
+          for (let i = 0; i < allChapters.length; i++) {
+            if (allChapters[i].chapter_id === chapterId) {
+              break;
+            }
+            currentPageIndex += splitContentIntoPages(allChapters[i].content).length;
+          }
+          
+          renderCurrentPages();
           renderSidebarCards(currentChapter);
           
           if (currentChapter.puzzle_id && !isPresetChapter) {
@@ -987,6 +1062,182 @@
         }
       } catch (error) {
         showNotification('Failed to load chapter: ' + error.message, 'error');
+      }
+    }
+    
+    async function loadAllChapters(bookId) {
+      try {
+        const result = await API.getChapters(bookId);
+        if (result.success) {
+          allChapters = result.data || [];
+        }
+      } catch (error) {
+        console.error('Failed to load all chapters:', error);
+      }
+    }
+    
+    function splitContentIntoPages(content) {
+      if (!content) return [''];
+      
+      const pages = [];
+      let remaining = content;
+      
+      while (remaining.length > 0) {
+        if (remaining.length <= CHARS_PER_PAGE) {
+          pages.push(remaining);
+          break;
+        }
+        
+        let breakPoint = remaining.lastIndexOf('\n\n', CHARS_PER_PAGE);
+        if (breakPoint === -1 || breakPoint < CHARS_PER_PAGE / 2) {
+          breakPoint = remaining.lastIndexOf(' ', CHARS_PER_PAGE);
+        }
+        if (breakPoint === -1 || breakPoint < CHARS_PER_PAGE / 2) {
+          breakPoint = CHARS_PER_PAGE;
+        }
+        
+        pages.push(remaining.substring(0, breakPoint));
+        remaining = remaining.substring(breakPoint).trim();
+      }
+      
+      return pages;
+    }
+    
+    function renderCurrentPages() {
+      const leftPage = document.querySelector('#leftPage .reading-content');
+      const rightPage = document.querySelector('#rightPage .reading-content');
+      
+      const leftContent = getPageContent(currentPageIndex);
+      const rightContent = getPageContent(currentPageIndex + 1);
+      
+      leftPage.innerHTML = leftContent;
+      rightPage.innerHTML = rightContent;
+      
+      updateNavigationButtons();
+      updatePageIndicator();
+      initCharacterHighlights();
+      
+      loadPuzzleForCurrentPage();
+    }
+    
+    async function loadPuzzleForCurrentPage() {
+      let currentIdx = 0;
+      
+      for (let i = 0; i < allChapters.length; i++) {
+        const chapter = allChapters[i];
+        const chapterPages = splitContentIntoPages(chapter.content);
+        
+        if (currentIdx + chapterPages.length > currentPageIndex) {
+          if (chapter.puzzle_id && !isPresetChapter) {
+            try {
+              const result = await API.getPuzzle(chapter.puzzle_id);
+              if (result.success) {
+                window.currentPuzzle = result.data;
+                renderPuzzle(window.currentPuzzle);
+              }
+            } catch (error) {
+              console.error('Failed to load puzzle:', error);
+            }
+          } else {
+            window.currentPuzzle = null;
+          }
+          break;
+        }
+        
+        currentIdx += chapterPages.length;
+      }
+    }
+    
+    function getPageContent(pageIndex) {
+      let currentIdx = 0;
+      
+      for (let i = 0; i < allChapters.length; i++) {
+        const chapter = allChapters[i];
+        const chapterPages = splitContentIntoPages(chapter.content);
+        
+        if (currentIdx + chapterPages.length > pageIndex) {
+          const pageInChapter = pageIndex - currentIdx;
+          if (pageInChapter >= 0 && pageInChapter < chapterPages.length) {
+            const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
+            const orderNum = chapter.order_num || 1;
+            
+            let content = '';
+            if (pageInChapter === 0) {
+              content = `<div class="manuscript-title">
+                <div class="chapter-num">CHAPTER ${romanNumerals[orderNum - 1] || orderNum}</div>
+                <div class="chapter-name">${chapter.title || 'Untitled'}</div>
+              </div>`;
+            }
+            
+            const pageContent = chapterPages[pageInChapter];
+            if (pageInChapter === 0 && pageContent) {
+              content += formatChapterContent(pageContent);
+            } else {
+              content += formatChapterContentContinued(pageContent);
+            }
+            
+            const isLastPageOfChapter = pageInChapter === chapterPages.length - 1;
+            if (isLastPageOfChapter && chapter.puzzle_id && !isPresetChapter) {
+              content += `
+                <div class="puzzle-trigger" style="text-align: center; margin-top: 30px;">
+                  <button class="scroll-nav-btn" onclick="showPuzzle()">
+                    🧩 Solve the Guardian's Riddle
+                  </button>
+                </div>`;
+            }
+            
+            return content;
+          }
+        }
+        
+        currentIdx += chapterPages.length;
+      }
+      
+      return '<p class="empty-page">No more content</p>';
+    }
+    
+    function formatChapterContentContinued(content) {
+      if (!content) return '';
+      
+      const paragraphs = content.split('\n\n');
+      let html = '<div class="page-text">';
+      
+      paragraphs.forEach(p => {
+        html += `<p>${p}</p>`;
+      });
+      
+      html += '</div>';
+      return html;
+    }
+    
+    function calculateTotalPages() {
+      let total = 0;
+      for (const chapter of allChapters) {
+        total += splitContentIntoPages(chapter.content).length;
+      }
+      return total;
+    }
+    
+    function updateNavigationButtons() {
+      const prevBtn = document.querySelector('.scroll-nav-btn[onclick*="prev"]');
+      const nextBtn = document.querySelector('.scroll-nav-btn[onclick*="next"]');
+      const totalPages = calculateTotalPages();
+      
+      if (prevBtn) {
+        prevBtn.disabled = currentPageIndex === 0;
+        prevBtn.style.opacity = currentPageIndex === 0 ? '0.5' : '1';
+      }
+      if (nextBtn) {
+        nextBtn.disabled = currentPageIndex + 2 >= totalPages;
+        nextBtn.style.opacity = currentPageIndex + 2 >= totalPages ? '0.5' : '1';
+      }
+    }
+    
+    function updatePageIndicator() {
+      const navInfo = document.querySelector('.nav-info');
+      if (navInfo) {
+        const totalPages = calculateTotalPages();
+        navInfo.textContent = `Page ${Math.floor(currentPageIndex / 2) + 1} of ${Math.ceil(totalPages / 2)}`;
       }
     }
     
@@ -1698,18 +1949,21 @@
     }
 
     function prevChapter() {
-      if (currentChapter?.prev_chapter_id) {
-        window.location.href = `chapter.html?id=${currentChapter.prev_chapter_id}`;
+      if (currentPageIndex > 0) {
+        currentPageIndex = Math.max(0, currentPageIndex - 2);
+        renderCurrentPages();
       } else {
-        showNotification('This is the first chapter', 'info');
+        showNotification('This is the first page', 'info');
       }
     }
 
     function nextChapter() {
-      if (currentChapter?.next_chapter_id) {
-        window.location.href = `chapter.html?id=${currentChapter.next_chapter_id}`;
+      const totalPages = calculateTotalPages();
+      if (currentPageIndex + 2 < totalPages) {
+        currentPageIndex += 2;
+        renderCurrentPages();
       } else {
-        showNotification('This is the last chapter', 'info');
+        showNotification('This is the last page', 'info');
       }
     }
   </script>

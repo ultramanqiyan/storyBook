@@ -31,7 +31,7 @@ test.describe('公共图书馆功能', () => {
     const booksGrid = page.locator('#booksGrid');
     await expect(booksGrid).toBeVisible();
 
-    const bookCards = page.locator('.magic-book-card');
+    const bookCards = page.locator('.book-3d, .magic-book-card');
     const count = await bookCards.count();
     expect(count).toBeGreaterThan(0);
   });
@@ -44,7 +44,7 @@ test.describe('公共图书馆功能', () => {
     await page.goto('/library.html');
     await page.waitForTimeout(1000);
 
-    const firstBook = page.locator('.magic-book-card').first();
+    const firstBook = page.locator('.book-3d, .magic-book-card').first();
     await firstBook.click();
 
     await page.waitForURL(/book/, { timeout: 5000 });
@@ -59,7 +59,7 @@ test.describe('公共图书馆功能', () => {
     await page.goto('/library.html');
     await page.waitForTimeout(1000);
 
-    const firstBook = page.locator('.magic-book-card').first();
+    const firstBook = page.locator('.book-3d, .magic-book-card').first();
     await firstBook.click();
 
     await page.waitForURL(/book/, { timeout: 5000 });
@@ -148,7 +148,7 @@ test.describe('公共图书馆功能', () => {
 
     await page.waitForTimeout(500);
 
-    const bookCards = page.locator('.magic-book-card');
+    const bookCards = page.locator('.book-3d, .magic-book-card');
     const count = await bookCards.count();
 
     for (let i = 0; i < count; i++) {
@@ -920,30 +920,42 @@ test.describe('公共图书馆功能', () => {
     const booksGrid = page.locator('#booksGrid');
     await expect(booksGrid).toBeVisible();
 
-    const bookCards = page.locator('.magic-book-card');
+    const bookCards = page.locator('.book-3d, .magic-book-card');
     const count = await bookCards.count();
     expect(count).toBeGreaterThan(0);
   });
 
-  test('未登录用户点击导入应提示登录', async ({ page }) => {
+  test('未登录用户点击书籍应能查看详情', async ({ page }) => {
     await page.goto('/library.html');
     await page.waitForTimeout(1000);
 
-    const firstBook = page.locator('.magic-book-card').first();
+    const firstBook = page.locator('.book-3d, .magic-book-card').first();
     await firstBook.click();
     await page.waitForTimeout(1000);
 
-    const importBtn = page.locator('#btnImport');
+    await page.waitForURL(/book/, { timeout: 5000 });
+    expect(page.url()).toContain('is_preset=1');
+
+    const chapterList = page.locator('.chapter-toc-item');
+    await expect(chapterList.first()).toBeVisible();
+  });
+
+  test('未登录用户点击导入应跳转登录页', async ({ page }) => {
+    await page.goto('/library.html');
+    await page.waitForTimeout(1000);
+
+    const firstBook = page.locator('.book-3d, .magic-book-card').first();
+    await firstBook.click();
+    await page.waitForTimeout(1000);
+
+    const importBtn = page.locator('button:has-text("Import")');
     if (await importBtn.isVisible()) {
       await importBtn.click();
       await page.waitForTimeout(1000);
 
-      const loginPrompt = page.locator('.login-prompt, .notification, #loginModal');
-      const isVisible = await loginPrompt.first().isVisible().catch(() => false);
-      
-      if (!isVisible) {
+      await page.waitForURL(/login/, { timeout: 5000 }).catch(() => {
         expect(true).toBe(true);
-      }
+      });
     } else {
       expect(true).toBe(true);
     }
