@@ -166,6 +166,10 @@ const API = {
         return apiRequest(`/api/chapters/${chapterId}`);
     },
 
+    async getPresetChapter(chapterId) {
+        return apiRequest(`/api/preset-chapters/${chapterId}`);
+    },
+
     async createChapter(data) {
         return apiRequest('/api/chapters', {
             method: 'POST',
@@ -206,6 +210,50 @@ const API = {
 
     async getPlotOptions(bookType, subType) {
         return apiRequest(`/api/config/plot-options?book_type=${bookType}&sub_type=${subType}`);
+    },
+
+    async getPresetBookDetail(bookId) {
+        return apiRequest(`/api/books/${bookId}/detail`);
+    },
+
+    async importPresetBook(bookId, userId) {
+        return apiRequest(`/api/books/${bookId}/import`, {
+            method: 'POST',
+            body: JSON.stringify({ user_id: userId })
+        });
+    },
+
+    async addPlotCard(bookId, card) {
+        return apiRequest('/api/plot-cards', {
+            method: 'POST',
+            body: JSON.stringify({ book_id: bookId, ...card })
+        });
+    },
+
+    async getCustomPlotCardIcons(subType) {
+        return apiRequest(`/api/custom-cards/plot-cards?sub_type=${subType}`);
+    },
+
+    async createCustomPlotCard(data) {
+        return apiRequest('/api/custom-cards/plot-cards', {
+            method: 'POST',
+            body: JSON.stringify(data)
+        });
+    },
+
+    async getCustomCharacterOptions(bookType) {
+        return apiRequest(`/api/custom-cards/characters?type=options&book_type=${bookType}`);
+    },
+
+    async getCustomCharacterAvatars() {
+        return apiRequest('/api/custom-cards/characters?type=avatars');
+    },
+
+    async createCustomCharacter(data) {
+        return apiRequest('/api/custom-cards/characters', {
+            method: 'POST',
+            body: JSON.stringify(data)
+        });
     }
 };
 

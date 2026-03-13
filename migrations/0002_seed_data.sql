@@ -543,3 +543,159 @@ INSERT INTO puzzles (puzzle_id, chapter_id, question, answer, puzzle_type, optio
 ('puzzle-business-002', 'chapter-business-001-06', '融资需要什么？', '商业计划书', 'text', NULL),
 ('puzzle-business-003', 'chapter-business-002-02', '创业最重要的是什么？', '团队', 'choice', '["资金","团队","办公室","设备"]'),
 ('puzzle-business-004', 'chapter-business-002-10', '上市意味着什么？', '成功', 'text', NULL);
+
+-- ============================================
+-- 预设书籍卡牌数据
+-- ============================================
+
+-- 小明的奇幻冒险 (preset-adventure-001) - 16张卡牌
+INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
+('card-preset-adv001-w01', 'preset-adventure-001', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
+('card-preset-adv001-w02', 'preset-adventure-001', 'plot', 'weather', '彩虹天', '🌈', '天气类型卡牌', 0),
+('card-preset-adv001-w03', 'preset-adventure-001', 'plot', 'weather', '微风天', '🌬️', '天气类型卡牌', 0),
+('card-preset-adv001-w04', 'preset-adventure-001', 'plot', 'weather', '小雨天', '🌧️', '天气类型卡牌', 0),
+('card-preset-adv001-t01', 'preset-adventure-001', 'plot', 'terrain', '森林', '🌲', '地形类型卡牌', 0),
+('card-preset-adv001-t02', 'preset-adventure-001', 'plot', 'terrain', '小溪', '💧', '地形类型卡牌', 0),
+('card-preset-adv001-t03', 'preset-adventure-001', 'plot', 'terrain', '草原', '🌿', '地形类型卡牌', 0),
+('card-preset-adv001-t04', 'preset-adventure-001', 'plot', 'terrain', '山洞', '🕳️', '地形类型卡牌', 0),
+('card-preset-adv001-a01', 'preset-adventure-001', 'plot', 'adventure', '寻宝', '🗺️', '冒险类型卡牌', 0),
+('card-preset-adv001-a02', 'preset-adventure-001', 'plot', 'adventure', '探险', '🧭', '冒险类型卡牌', 0),
+('card-preset-adv001-a03', 'preset-adventure-001', 'plot', 'adventure', '帮助朋友', '🤝', '冒险类型卡牌', 0),
+('card-preset-adv001-a04', 'preset-adventure-001', 'plot', 'adventure', '发现秘密', '🔮', '冒险类型卡牌', 0),
+('card-preset-adv001-e01', 'preset-adventure-001', 'plot', 'equipment', '放大镜', '🔍', '装备类型卡牌', 0),
+('card-preset-adv001-e02', 'preset-adventure-001', 'plot', 'equipment', '指南针', '🧭', '装备类型卡牌', 0),
+('card-preset-adv001-e03', 'preset-adventure-001', 'plot', 'equipment', '背包', '🎒', '装备类型卡牌', 0),
+('card-preset-adv001-e04', 'preset-adventure-001', 'plot', 'equipment', '手电筒', '🔦', '装备类型卡牌', 0);
+
+-- 小勇的丛林探险 (preset-adventure-002) - 16张卡牌
+INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
+('card-preset-adv002-w01', 'preset-adventure-002', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
+('card-preset-adv002-w02', 'preset-adventure-002', 'plot', 'weather', '白云', '☁️', '天气类型卡牌', 0),
+('card-preset-adv002-w03', 'preset-adventure-002', 'plot', 'weather', '彩虹天', '🌈', '天气类型卡牌', 0),
+('card-preset-adv002-w04', 'preset-adventure-002', 'plot', 'weather', '小雨天', '🌧️', '天气类型卡牌', 0),
+('card-preset-adv002-t01', 'preset-adventure-002', 'plot', 'terrain', '海滩', '🏖️', '地形类型卡牌', 0),
+('card-preset-adv002-t02', 'preset-adventure-002', 'plot', 'terrain', '岛屿', '🏝️', '地形类型卡牌', 0),
+('card-preset-adv002-t03', 'preset-adventure-002', 'plot', 'terrain', '热带雨林', '🌴', '地形类型卡牌', 0),
+('card-preset-adv002-t04', 'preset-adventure-002', 'plot', 'terrain', '雪山', '🏔️', '地形类型卡牌', 0),
+('card-preset-adv002-a01', 'preset-adventure-002', 'plot', 'adventure', '探险', '🧭', '冒险类型卡牌', 0),
+('card-preset-adv002-a02', 'preset-adventure-002', 'plot', 'adventure', '寻宝', '🗺️', '冒险类型卡牌', 0),
+('card-preset-adv002-a03', 'preset-adventure-002', 'plot', 'adventure', '观察动物', '🦋', '冒险类型卡牌', 0),
+('card-preset-adv002-a04', 'preset-adventure-002', 'plot', 'adventure', '骑行', '🚴', '冒险类型卡牌', 0),
+('card-preset-adv002-e01', 'preset-adventure-002', 'plot', 'equipment', '指南针', '🧭', '装备类型卡牌', 0),
+('card-preset-adv002-e02', 'preset-adventure-002', 'plot', 'equipment', '地图', '🗺️', '装备类型卡牌', 0),
+('card-preset-adv002-e03', 'preset-adventure-002', 'plot', 'equipment', '相机', '📷', '装备类型卡牌', 0),
+('card-preset-adv002-e04', 'preset-adventure-002', 'plot', 'equipment', '背包', '🎒', '装备类型卡牌', 0);
+
+-- 魔法学院传说 (preset-fantasy-001) - 16张卡牌
+INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
+('card-preset-fan001-w01', 'preset-fantasy-001', 'plot', 'weather', '极光', '🌌', '天气类型卡牌', 0),
+('card-preset-fan001-w02', 'preset-fantasy-001', 'plot', 'weather', '元素乱流', '⚡', '天气类型卡牌', 0),
+('card-preset-fan001-w03', 'preset-fantasy-001', 'plot', 'weather', '精灵光', '🧚', '天气类型卡牌', 0),
+('card-preset-fan001-w04', 'preset-fantasy-001', 'plot', 'weather', '魔法雨', '💧', '天气类型卡牌', 0),
+('card-preset-fan001-t01', 'preset-fantasy-001', 'plot', 'terrain', '魔法森林', '🌳', '地形类型卡牌', 0),
+('card-preset-fan001-t02', 'preset-fantasy-001', 'plot', 'terrain', '魔法塔', '🗼', '地形类型卡牌', 0),
+('card-preset-fan001-t03', 'preset-fantasy-001', 'plot', 'terrain', '精灵村落', '🧚', '地形类型卡牌', 0),
+('card-preset-fan001-t04', 'preset-fantasy-001', 'plot', 'terrain', '水晶洞穴', '💎', '地形类型卡牌', 0),
+('card-preset-fan001-a01', 'preset-fantasy-001', 'plot', 'adventure', '魔法测试', '📝', '冒险类型卡牌', 0),
+('card-preset-fan001-a02', 'preset-fantasy-001', 'plot', 'adventure', '魔法研究', '📚', '冒险类型卡牌', 0),
+('card-preset-fan001-a03', 'preset-fantasy-001', 'plot', 'adventure', '精灵结盟', '🧚', '冒险类型卡牌', 0),
+('card-preset-fan001-a04', 'preset-fantasy-001', 'plot', 'adventure', '元素觉醒', '🔥', '冒险类型卡牌', 0),
+('card-preset-fan001-e01', 'preset-fantasy-001', 'plot', 'equipment', '魔杖', '🪄', '装备类型卡牌', 0),
+('card-preset-fan001-e02', 'preset-fantasy-001', 'plot', 'equipment', '法典', '📖', '装备类型卡牌', 0),
+('card-preset-fan001-e03', 'preset-fantasy-001', 'plot', 'equipment', '水晶球', '🔮', '装备类型卡牌', 0),
+('card-preset-fan001-e04', 'preset-fantasy-001', 'plot', 'equipment', '元素宝石', '💠', '装备类型卡牌', 0);
+
+-- 龙之谷秘闻 (preset-fantasy-002) - 16张卡牌
+INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
+('card-preset-fan002-w01', 'preset-fantasy-002', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
+('card-preset-fan002-w02', 'preset-fantasy-002', 'plot', 'weather', '元素风暴', '🌪️', '天气类型卡牌', 0),
+('card-preset-fan002-w03', 'preset-fantasy-002', 'plot', 'weather', '流星火雨', '☄️', '天气类型卡牌', 0),
+('card-preset-fan002-w04', 'preset-fantasy-002', 'plot', 'weather', '灵魂雾', '👻', '天气类型卡牌', 0),
+('card-preset-fan002-t01', 'preset-fantasy-002', 'plot', 'terrain', '古代遗迹', '🏛️', '地形类型卡牌', 0),
+('card-preset-fan002-t02', 'preset-fantasy-002', 'plot', 'terrain', '矮人矿山', '⛏️', '地形类型卡牌', 0),
+('card-preset-fan002-t03', 'preset-fantasy-002', 'plot', 'terrain', '龙之巢', '🐉', '地形类型卡牌', 0),
+('card-preset-fan002-t04', 'preset-fantasy-002', 'plot', 'terrain', '亡灵陵园', '💀', '地形类型卡牌', 0),
+('card-preset-fan002-a01', 'preset-fantasy-002', 'plot', 'adventure', '寻找神器', '⚔️', '冒险类型卡牌', 0),
+('card-preset-fan002-a02', 'preset-fantasy-002', 'plot', 'adventure', '神器锻造', '🔨', '冒险类型卡牌', 0),
+('card-preset-fan002-a03', 'preset-fantasy-002', 'plot', 'adventure', '屠龙', '🐉', '冒险类型卡牌', 0),
+('card-preset-fan002-a04', 'preset-fantasy-002', 'plot', 'adventure', '灵魂救赎', '👼', '冒险类型卡牌', 0),
+('card-preset-fan002-e01', 'preset-fantasy-002', 'plot', 'equipment', '矮人锤', '🔨', '装备类型卡牌', 0),
+('card-preset-fan002-e02', 'preset-fantasy-002', 'plot', 'equipment', '精灵弓', '🏹', '装备类型卡牌', 0),
+('card-preset-fan002-e03', 'preset-fantasy-002', 'plot', 'equipment', '龙之心脏', '❤️', '装备类型卡牌', 0),
+('card-preset-fan002-e04', 'preset-fantasy-002', 'plot', 'equipment', '灵魂石', '💜', '装备类型卡牌', 0);
+
+-- 都市恋曲 (preset-romance-001) - 16张卡牌
+INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
+('card-preset-rom001-w01', 'preset-romance-001', 'plot', 'weather', '晨光', '🌅', '天气类型卡牌', 0),
+('card-preset-rom001-w02', 'preset-romance-001', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
+('card-preset-rom001-w03', 'preset-romance-001', 'plot', 'weather', '夕阳', '🌇', '天气类型卡牌', 0),
+('card-preset-rom001-w04', 'preset-romance-001', 'plot', 'weather', '雨天', '🌧️', '天气类型卡牌', 0),
+('card-preset-rom001-t01', 'preset-romance-001', 'plot', 'terrain', '地铁站', '🚇', '地形类型卡牌', 0),
+('card-preset-rom001-t02', 'preset-romance-001', 'plot', 'terrain', '咖啡厅', '☕', '地形类型卡牌', 0),
+('card-preset-rom001-t03', 'preset-romance-001', 'plot', 'terrain', '公园', '🌳', '地形类型卡牌', 0),
+('card-preset-rom001-t04', 'preset-romance-001', 'plot', 'terrain', '公司', '🏢', '地形类型卡牌', 0),
+('card-preset-rom001-a01', 'preset-romance-001', 'plot', 'adventure', '邂逅', '💫', '冒险类型卡牌', 0),
+('card-preset-rom001-a02', 'preset-romance-001', 'plot', 'adventure', '约会', '🌹', '冒险类型卡牌', 0),
+('card-preset-rom001-a03', 'preset-romance-001', 'plot', 'adventure', '表白', '💌', '冒险类型卡牌', 0),
+('card-preset-rom001-a04', 'preset-romance-001', 'plot', 'adventure', '误会', '😔', '冒险类型卡牌', 0),
+('card-preset-rom001-e01', 'preset-romance-001', 'plot', 'equipment', '手机', '📱', '装备类型卡牌', 0),
+('card-preset-rom001-e02', 'preset-romance-001', 'plot', 'equipment', '咖啡', '☕', '装备类型卡牌', 0),
+('card-preset-rom001-e03', 'preset-romance-001', 'plot', 'equipment', '鲜花', '💐', '装备类型卡牌', 0),
+('card-preset-rom001-e04', 'preset-romance-001', 'plot', 'equipment', '雨伞', '☂️', '装备类型卡牌', 0);
+
+-- 咖啡馆的邂逅 (preset-romance-002) - 16张卡牌
+INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
+('card-preset-rom002-w01', 'preset-romance-002', 'plot', 'weather', '雨天', '🌧️', '天气类型卡牌', 0),
+('card-preset-rom002-w02', 'preset-romance-002', 'plot', 'weather', '阴天', '☁️', '天气类型卡牌', 0),
+('card-preset-rom002-w03', 'preset-romance-002', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
+('card-preset-rom002-w04', 'preset-romance-002', 'plot', 'weather', '黄昏', '🌆', '天气类型卡牌', 0),
+('card-preset-rom002-t01', 'preset-romance-002', 'plot', 'terrain', '咖啡厅', '☕', '地形类型卡牌', 0),
+('card-preset-rom002-t02', 'preset-romance-002', 'plot', 'terrain', '画廊', '🖼️', '地形类型卡牌', 0),
+('card-preset-rom002-t03', 'preset-romance-002', 'plot', 'terrain', '公园', '🌳', '地形类型卡牌', 0),
+('card-preset-rom002-t04', 'preset-romance-002', 'plot', 'terrain', '老街', '🏘️', '地形类型卡牌', 0),
+('card-preset-rom002-a01', 'preset-romance-002', 'plot', 'adventure', '邂逅', '💫', '冒险类型卡牌', 0),
+('card-preset-rom002-a02', 'preset-romance-002', 'plot', 'adventure', '暧昧', '💗', '冒险类型卡牌', 0),
+('card-preset-rom002-a03', 'preset-romance-002', 'plot', 'adventure', '约会', '🌹', '冒险类型卡牌', 0),
+('card-preset-rom002-a04', 'preset-romance-002', 'plot', 'adventure', '表白', '💌', '冒险类型卡牌', 0),
+('card-preset-rom002-e01', 'preset-romance-002', 'plot', 'equipment', '书本', '📚', '装备类型卡牌', 0),
+('card-preset-rom002-e02', 'preset-romance-002', 'plot', 'equipment', '画板', '🎨', '装备类型卡牌', 0),
+('card-preset-rom002-e03', 'preset-romance-002', 'plot', 'equipment', '吉他', '🎸', '装备类型卡牌', 0),
+('card-preset-rom002-e04', 'preset-romance-002', 'plot', 'equipment', '信纸', '✉️', '装备类型卡牌', 0);
+
+-- 职场风云录 (preset-business-001) - 16张卡牌
+INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
+('card-preset-bus001-w01', 'preset-business-001', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
+('card-preset-bus001-w02', 'preset-business-001', 'plot', 'weather', '阴天', '☁️', '天气类型卡牌', 0),
+('card-preset-bus001-w03', 'preset-business-001', 'plot', 'weather', '雨天', '🌧️', '天气类型卡牌', 0),
+('card-preset-bus001-w04', 'preset-business-001', 'plot', 'weather', '多云', '⛅', '天气类型卡牌', 0),
+('card-preset-bus001-t01', 'preset-business-001', 'plot', 'terrain', '办公室', '🏢', '地形类型卡牌', 0),
+('card-preset-bus001-t02', 'preset-business-001', 'plot', 'terrain', '会议室', '📋', '地形类型卡牌', 0),
+('card-preset-bus001-t03', 'preset-business-001', 'plot', 'terrain', '客户公司', '🏛️', '地形类型卡牌', 0),
+('card-preset-bus001-t04', 'preset-business-001', 'plot', 'terrain', '展会', '🎪', '地形类型卡牌', 0),
+('card-preset-bus001-a01', 'preset-business-001', 'plot', 'adventure', '项目启动', '🚀', '冒险类型卡牌', 0),
+('card-preset-bus001-a02', 'preset-business-001', 'plot', 'adventure', '团队管理', '👥', '冒险类型卡牌', 0),
+('card-preset-bus001-a03', 'preset-business-001', 'plot', 'adventure', '谈判', '🤝', '冒险类型卡牌', 0),
+('card-preset-bus001-a04', 'preset-business-001', 'plot', 'adventure', '竞标', '📊', '冒险类型卡牌', 0),
+('card-preset-bus001-e01', 'preset-business-001', 'plot', 'equipment', '笔记本电脑', '💻', '装备类型卡牌', 0),
+('card-preset-bus001-e02', 'preset-business-001', 'plot', 'equipment', '白板', '📋', '装备类型卡牌', 0),
+('card-preset-bus001-e03', 'preset-business-001', 'plot', 'equipment', '合同', '📄', '装备类型卡牌', 0),
+('card-preset-bus001-e04', 'preset-business-001', 'plot', 'equipment', '名片', '💳', '装备类型卡牌', 0);
+
+-- 创业路上的我们 (preset-business-002) - 16张卡牌
+INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
+('card-preset-bus002-w01', 'preset-business-002', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
+('card-preset-bus002-w02', 'preset-business-002', 'plot', 'weather', '阴天', '☁️', '天气类型卡牌', 0),
+('card-preset-bus002-w03', 'preset-business-002', 'plot', 'weather', '雨天', '🌧️', '天气类型卡牌', 0),
+('card-preset-bus002-w04', 'preset-business-002', 'plot', 'weather', '多云', '⛅', '天气类型卡牌', 0),
+('card-preset-bus002-t01', 'preset-business-002', 'plot', 'terrain', '咖啡馆', '☕', '地形类型卡牌', 0),
+('card-preset-bus002-t02', 'preset-business-002', 'plot', 'terrain', '写字楼', '🏬', '地形类型卡牌', 0),
+('card-preset-bus002-t03', 'preset-business-002', 'plot', 'terrain', '会议室', '📋', '地形类型卡牌', 0),
+('card-preset-bus002-t04', 'preset-business-002', 'plot', 'terrain', '展会', '🎪', '地形类型卡牌', 0),
+('card-preset-bus002-a01', 'preset-business-002', 'plot', 'adventure', '项目启动', '🚀', '冒险类型卡牌', 0),
+('card-preset-bus002-a02', 'preset-business-002', 'plot', 'adventure', '融资', '💰', '冒险类型卡牌', 0),
+('card-preset-bus002-a03', 'preset-business-002', 'plot', 'adventure', '谈判', '🤝', '冒险类型卡牌', 0),
+('card-preset-bus002-a04', 'preset-business-002', 'plot', 'adventure', '竞标', '📊', '冒险类型卡牌', 0),
+('card-preset-bus002-e01', 'preset-business-002', 'plot', 'equipment', '笔记本电脑', '💻', '装备类型卡牌', 0),
+('card-preset-bus002-e02', 'preset-business-002', 'plot', 'equipment', '商业计划书', '📄', '装备类型卡牌', 0),
+('card-preset-bus002-e03', 'preset-business-002', 'plot', 'equipment', '合同', '📄', '装备类型卡牌', 0),
+('card-preset-bus002-e04', 'preset-business-002', 'plot', 'equipment', '展板', '🖼️', '装备类型卡牌', 0);

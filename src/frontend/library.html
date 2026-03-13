@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>公共图书馆 - StoryBook</title>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/themes.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/library.css">
+</head>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="index.html" class="navbar-brand">Ancient Library</a>
+    <div class="navbar-nav">
+      <a href="index.html" class="navbar-link">Home</a>
+      <a href="bookshelf.html" class="navbar-link">My Books</a>
+    </div>
+  </nav>
+  
+  <div class="library-page">
+    <div class="page-header">
+      <h1 class="page-title">Public Library</h1>
+      <p class="page-subtitle">Explore ancient stories and bring them to your bookshelf</p>
+    </div>
+    
+    <div class="rune-divider">
+      <span class="rune">*</span>
+      <span class="rune">*</span>
+      <span class="rune">*</span>
+      <span class="rune">*</span>
+      <span class="rune">*</span>
+    </div>
+    
+    <div class="filter-tabs">
+      <button class="filter-tab active" data-filter="all">All</button>
+      <button class="filter-tab" data-filter="adventure">Adventure</button>
+      <button class="filter-tab" data-filter="fantasy">Fantasy</button>
+      <button class="filter-tab" data-filter="romance">Romance</button>
+      <button class="filter-tab" data-filter="business">Business</button>
+    </div>
+    
+    <div class="books-showcase">
+      <div class="books-grid" id="booksGrid"></div>
+    </div>
+    
+    <div class="rune-divider">
+      <span class="rune">*</span>
+      <span class="rune">*</span>
+      <span class="rune">*</span>
+      <span class="rune">*</span>
+      <span class="rune">*</span>
+    </div>
+    
+    <div class="library-footer">
+      <p>May the stories guide your journey...</p>
+    </div>
+  </div>
+  
+  <div id="bookDetailModal" class="book-detail-modal" style="display: none;">
+    <div class="modal-backdrop"></div>
+    <div class="modal-content">
+      <button class="modal-close" onclick="hideBookDetail()">X</button>
+      <div class="book-detail-header">
+        <div class="book-detail-icon" id="detailIcon">*</div>
+        <div class="book-detail-info">
+          <h2 class="book-detail-title" id="detailTitle">Book Title</h2>
+          <p class="book-detail-meta">
+            <span id="detailType">Type: Adventure</span>
+            <span id="detailChapters">Chapters: 10</span>
+          </p>
+        </div>
+      </div>
+      <div class="book-detail-section">
+        <h3>Story Preview</h3>
+        <p id="detailDescription">A wonderful adventure awaits...</p>
+      </div>
+      <div class="book-detail-section">
+        <h3>Main Characters</h3>
+        <div class="characters-preview" id="detailCharacters"></div>
+      </div>
+      <div class="book-detail-section">
+        <h3>Card Preview</h3>
+        <div class="cards-preview" id="detailCards"></div>
+      </div>
+      <div class="book-detail-actions">
+        <button class="btn-import" id="btnImport" onclick="importBook()">Import to My Bookshelf</button>
+      </div>
+    </div>
+  </div>
+  
+  <div id="importSuccessModal" class="import-success-modal" style="display: none;">
+    <div class="modal-backdrop"></div>
+    <div class="modal-content">
+      <div class="success-icon">*</div>
+      <h2>Import Successful!</h2>
+      <p id="importBookTitle">"Book Title" has been added to your bookshelf</p>
+      <div class="success-actions">
+        <button class="btn-goto-shelf" onclick="goToShelf()">Go to Bookshelf</button>
+        <button class="btn-continue-explore" onclick="hideImportSuccess()">Continue Exploring</button>
+      </div>
+    </div>
+  </div>
+  
+  <script src="js/api.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/library.js"></script>
+</body>
+</html>

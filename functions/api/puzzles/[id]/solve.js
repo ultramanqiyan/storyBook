@@ -1,6 +1,9 @@
 import { createSuccessResponse, createErrorResponse, generateId } from '../../utils.js';
 
 const CARD_LIMIT_PER_TYPE = 8;
+const CHARACTER_LIMIT = 8;
+const CUSTOM_DROP_CHANCE = 0.30;
+const CHARACTER_DROP_RATIO = 0.40;
 
 const plotOptions = {
   adventure: {
@@ -36,6 +39,22 @@ const cardIcons = {
   equipment: '🎒'
 };
 
+const avatarEmojis = [
+  '👦', '👧', '👨', '👩', '👴', '👵', '🧑', '👱', '👨‍🦰', '👩‍🦰',
+  '👨‍🦱', '👩‍🦱', '👨‍🦳', '👩‍🦳', '👨‍🦲', '👩‍🦲', '🧔', '🧓', '🧑‍🦰', '🧑‍🦱'
+];
+
+const characterTypes = {
+  adventure: ['探险家', '向导', '船长', '考古学家', '摄影师', '动物学家', '植物学家', '地质学家'],
+  fantasy: ['魔法师', '骑士', '精灵', '矮人', '龙骑士', '巫师', '游侠', '吟游诗人'],
+  romance: ['企业家', '医生', '律师', '艺术家', '作家', '设计师', '建筑师', '音乐家'],
+  business: ['CEO', '经理', '创业者', '投资人', '顾问', '分析师', '工程师', '设计师']
+};
+
+const personalities = ['勇敢', '谨慎', '乐观', '悲观', '幽默', '严肃', '热情', '冷漠', '聪明', '单纯', '善良', '狡猾', '忠诚', '叛逆', '温柔', '坚强'];
+
+const speechStyles = ['简洁直接', '幽默风趣', '文雅礼貌', '粗犷豪放', '温柔细腻', '神秘莫测', '活泼开朗', '沉稳内敛'];
+
 function getRandomElement(array) {
   return array[Math.floor(Math.random() * array.length)];
 }
@@ -48,6 +67,14 @@ async function checkCardLimit(env, bookId, subType) {
   return result.count >= CARD_LIMIT_PER_TYPE;
 }
 
+async function checkCharacterLimit(env, bookId) {
+  const result = await env.DB.prepare(
+    'SELECT COUNT(*) as count FROM characters WHERE book_id = ?'
+  ).bind(bookId).first();
+  
+  return result.count >= CHARACTER_LIMIT;
+}
+
 async function getCardCountByType(env, bookId, subType) {
   const result = await env.DB.prepare(
     'SELECT COUNT(*) as count FROM plot_cards WHERE book_id = ? AND sub_type = ?'
@@ -56,10 +83,26 @@ async function getCardCountByType(env, bookId, subType) {
   return result.count;
 }
 
+async function getCharacterCount(env, bookId) {
+  const result = await env.DB.prepare(
+    'SELECT COUNT(*) as count FROM characters WHERE book_id = ?'
+  ).bind(bookId).first();
+  
+  return result.count;
+}
+
 async function getCardsByType(env, bookId, subType) {
   const results = await env.DB.prepare(
     'SELECT * FROM plot_cards WHERE book_id = ? AND sub_type = ? ORDER BY created_at ASC'
   ).bind(bookId, subType).all();
+  
+  return results.results;
+}
+
+async function getCharacters(env, bookId) {
+  const results = await env.DB.prepare(
+    'SELECT * FROM characters WHERE book_id = ? ORDER BY created_at ASC'
+  ).bind(bookId).all();
   
   return results.results;
 }
@@ -88,6 +131,55 @@ function generateCardDrop(bookType) {
     description: `${randomSubType}类型卡牌`,
     is_custom: 0
   };
+}
+
+function generateCustomPlotCardDrop() {
+  const subTypes = ['weather', 'terrain', 'adventure', 'equipment'];
+  const randomSubType = getRandomElement(subTypes);
+  
+  const icons = {
+    weather: ['☀️', '🌤️', '⛅', '🌧️', '⛈️', '🌪️', '🌈', '❄️', '🌫️', '🌬️'],
+    terrain: ['🏔️', '⛰️', '🌋', '🗻', '🏕️', '🏖️', '🏜️', '🏝️', '🌳', '🌲'],
+    adventure: ['🗺️', '🧭', '⚔️', '🛡️', '🏹', '🎯', '🎲', '🎰', '🧩', '🔮'],
+    equipment: ['🎒', '📦', '🧰', '🧳', '💼', '🔦', '💡', '🕯️', '🪔', '📱']
+  };
+
+  return {
+    card_id: generateId(),
+    sub_type: randomSubType,
+    name: '',
+    icon: getRandomElement(icons[randomSubType]),
+    description: '',
+    is_custom: 1,
+    card_type: 'custom_plot'
+  };
+}
+
+function generateCustomCharacterDrop(bookType) {
+  const types = characterTypes[bookType] || characterTypes.adventure;
+  
+  return {
+    char_id: generateId(),
+    avatar: getRandomElement(avatarEmojis),
+    role_type: getRandomElement(types),
+    personality: getRandomElement(personalities),
+    speech_style: getRandomElement(speechStyles),
+    intimacy: 0,
+    is_custom: 1,
+    card_type: 'custom_character'
+  };
+}
+
+function determineRewardType() {
+  const random = Math.random();
+  
+  if (random < CUSTOM_DROP_CHANCE * CHARACTER_DROP_RATIO) {
+    return 'custom_character';
+  } else if (random < CUSTOM_DROP_CHANCE) {
+    return 'custom_plot';
+  }
+  
+  return 'preset_plot';
 }
 
 export async function onRequestPost(context) {
@@ -128,11 +220,9 @@ export async function onRequestPost(context) {
 
       let reward = null;
       let cardLimitExceeded = false;
-      let exceededCards = [];
-      let loginRequired = false;
+      let characterLimitExceeded = false;
       
       if (!user_id) {
-        loginRequired = true;
         return createSuccessResponse({
           is_correct: true,
           is_solved: true,
@@ -153,39 +243,92 @@ export async function onRequestPost(context) {
         ).bind(chapter.book_id).first();
 
         if (book) {
-          const droppedCard = generateCardDrop(book.type);
+          const rewardType = determineRewardType();
           
-          if (droppedCard) {
-            const isLimitReached = await checkCardLimit(env, book.book_id, droppedCard.sub_type);
+          if (rewardType === 'custom_character') {
+            const isCharLimitReached = await checkCharacterLimit(env, book.book_id);
+            
+            if (isCharLimitReached) {
+              characterLimitExceeded = true;
+              const existingChars = await getCharacters(env, book.book_id);
+              const customChar = generateCustomCharacterDrop(book.type);
+              
+              reward = {
+                type: 'custom_character',
+                character: customChar,
+                current_count: await getCharacterCount(env, book.book_id),
+                existing_characters: existingChars,
+                message: '触发自定义角色卡牌创建！但角色卡牌已达上限（8张），请选择丢弃一张。'
+              };
+            } else {
+              const customChar = generateCustomCharacterDrop(book.type);
+              reward = {
+                type: 'custom_character',
+                character: customChar,
+                message: '触发自定义角色卡牌创建！'
+              };
+            }
+          } else if (rewardType === 'custom_plot') {
+            const customCard = generateCustomPlotCardDrop();
+            const isLimitReached = await checkCardLimit(env, book.book_id, customCard.sub_type);
             
             if (isLimitReached) {
               cardLimitExceeded = true;
-              exceededCards = await getCardsByType(env, book.book_id, droppedCard.sub_type);
+              const existingCards = await getCardsByType(env, book.book_id, customCard.sub_type);
+              
               reward = {
-                card: droppedCard,
-                sub_type: droppedCard.sub_type,
-                current_count: await getCardCountByType(env, book.book_id, droppedCard.sub_type),
-                existing_cards: exceededCards,
-                message: `恭喜获得卡牌【${droppedCard.name}】！但该类型卡牌已达上限（8张），请选择丢弃一张。`
+                type: 'custom_plot',
+                card: customCard,
+                sub_type: customCard.sub_type,
+                current_count: await getCardCountByType(env, book.book_id, customCard.sub_type),
+                existing_cards: existingCards,
+                message: '触发自定义情节卡牌创建！但该类型卡牌已达上限（8张），请选择丢弃一张。'
               };
             } else {
-              await env.DB.prepare(
-                'INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES (?, ?, ?, ?, ?, ?, ?, ?)'
-              ).bind(
-                droppedCard.card_id,
-                book.book_id,
-                'plot',
-                droppedCard.sub_type,
-                droppedCard.name,
-                droppedCard.icon,
-                droppedCard.description,
-                droppedCard.is_custom
-              ).run();
-
               reward = {
-                card: droppedCard,
-                message: `恭喜获得卡牌【${droppedCard.name}】！`
+                type: 'custom_plot',
+                card: customCard,
+                message: '触发自定义情节卡牌创建！'
               };
+            }
+          } else {
+            const droppedCard = generateCardDrop(book.type);
+            
+            if (droppedCard) {
+              const isLimitReached = await checkCardLimit(env, book.book_id, droppedCard.sub_type);
+              
+              if (isLimitReached) {
+                cardLimitExceeded = true;
+                const existingCards = await getCardsByType(env, book.book_id, droppedCard.sub_type);
+                
+                reward = {
+                  type: 'preset_plot',
+                  card: droppedCard,
+                  sub_type: droppedCard.sub_type,
+                  current_count: await getCardCountByType(env, book.book_id, droppedCard.sub_type),
+                  existing_cards: existingCards,
+                  message: `恭喜获得卡牌【${droppedCard.name}】！但该类型卡牌已达上限（8张），请选择丢弃一张。`
+                };
+              } else {
+                await env.DB.prepare(
+                  'INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES (?, ?, ?, ?, ?, ?, ?, ?)'
+                ).bind(
+                  droppedCard.card_id,
+                  book.book_id,
+                  'plot',
+                  droppedCard.sub_type,
+                  droppedCard.name,
+                  droppedCard.icon,
+                  droppedCard.description,
+                  droppedCard.is_custom
+                ).run();
+
+                reward = {
+                  type: 'preset_plot',
+                  card: droppedCard,
+                  message: `恭喜获得卡牌【${droppedCard.name}】！`
+                };
+              }
             }
           }
         }
@@ -197,7 +340,8 @@ export async function onRequestPost(context) {
         attempts: newAttempts,
         message: '恭喜！答案正确！',
         reward,
-        card_limit_exceeded: cardLimitExceeded
+        card_limit_exceeded: cardLimitExceeded,
+        character_limit_exceeded: characterLimitExceeded
       });
     } else {
       if (newAttempts >= puzzle.max_attempts) {

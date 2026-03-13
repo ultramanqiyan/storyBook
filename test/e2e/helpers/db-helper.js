@@ -60,6 +60,12 @@ class DatabaseHelper {
   }
 
   resetDatabase() {
+    this.db.exec('DELETE FROM puzzles');
+    this.db.exec('DELETE FROM chapters');
+    this.db.exec('DELETE FROM plot_cards');
+    this.db.exec('DELETE FROM characters');
+    this.db.exec('DELETE FROM books');
+    this.db.exec('DELETE FROM users');
     this.execSqlFile(path.join(process.cwd(), 'migrations', '0001_init.sql'));
   }
 
@@ -99,6 +105,10 @@ class DatabaseHelper {
 
   run(sql, params = []) {
     return this.db.prepare(sql).run(...params);
+  }
+
+  exec(sql) {
+    return this.db.exec(sql);
   }
 
   getBookById(bookId) {

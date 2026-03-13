@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="css/components.css">
   <link rel="stylesheet" href="css/themes.css">
   <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/custom-card.css">
   <style>
     .book-reader-page {
       min-height: 100vh;
@@ -769,6 +770,162 @@
     </div>
   </div>
   
+  <div id="cardRewardModal" class="card-reward-modal" style="display: none;">
+    <div class="modal-backdrop"></div>
+    <div class="modal-content">
+      <div class="card-fly-in">
+        <div class="reward-card">
+          <div class="card-glow"></div>
+          <div class="card-icon" id="rewardCardIcon">☀️</div>
+          <div class="card-name" id="rewardCardName">晴天</div>
+          <div class="card-type" id="rewardCardType">天气卡牌</div>
+        </div>
+      </div>
+      <div class="reward-message" id="rewardMessage">恭喜获得卡牌！</div>
+      <button class="btn-receive" id="btnReceive">收下</button>
+      <button class="btn-continue" id="btnContinue" style="display: none;">继续</button>
+    </div>
+  </div>
+  
+  <div id="cardDiscardModal" class="card-discard-modal" style="display: none;">
+    <div class="modal-backdrop"></div>
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3>⚠️ 背包已满</h3>
+        <p>该类型卡牌已达上限(8张)，请选择一张丢弃</p>
+      </div>
+      <div class="cards-grid" id="discardCardsGrid"></div>
+      <div class="modal-actions">
+        <button class="btn-cancel" id="btnCancelDiscard">取消</button>
+        <button class="btn-discard" id="btnConfirmDiscard" disabled>丢弃选中</button>
+      </div>
+    </div>
+  </div>
+  
+  <div id="customPlotCardModal" class="custom-card-modal">
+    <div class="modal-backdrop" onclick="hideCustomPlotCardModal()"></div>
+    <div class="modal-content">
+      <button class="modal-close" onclick="hideCustomPlotCardModal()">×</button>
+      <div class="modal-header">
+        <h2 class="modal-title">✨ 创建自定义情节卡牌</h2>
+        <p class="modal-subtitle">填写卡牌信息，创造属于你的故事元素</p>
+      </div>
+      <div class="custom-card-form">
+        <div class="form-section">
+          <div class="form-section-title">卡牌类型</div>
+          <div class="type-selector" id="plotTypeSelector">
+            <div class="type-option selected" data-type="weather" onclick="selectPlotType('weather')">
+              <div class="type-icon">☀️</div>
+              <div class="type-name">天气</div>
+            </div>
+            <div class="type-option" data-type="terrain" onclick="selectPlotType('terrain')">
+              <div class="type-icon">🏔️</div>
+              <div class="type-name">地形</div>
+            </div>
+            <div class="type-option" data-type="adventure" onclick="selectPlotType('adventure')">
+              <div class="type-icon">🗺️</div>
+              <div class="type-name">冒险</div>
+            </div>
+            <div class="type-option" data-type="equipment" onclick="selectPlotType('equipment')">
+              <div class="type-icon">🎒</div>
+              <div class="type-name">装备</div>
+            </div>
+          </div>
+        </div>
+        <div class="form-section">
+          <div class="form-section-title">选择图标</div>
+          <div class="icon-grid" id="plotIconGrid"></div>
+        </div>
+        <div class="form-section">
+          <div class="form-section-title">卡牌名称 *</div>
+          <input type="text" class="form-input-field" id="plotCardName" maxlength="20" placeholder="输入卡牌名称（1-20字符）" oninput="updatePlotNameCounter()">
+          <div class="char-counter"><span id="plotNameCount">0</span>/20</div>
+        </div>
+        <div class="form-section">
+          <div class="form-section-title">卡牌描述（可选）</div>
+          <textarea class="form-input-field form-textarea" id="plotCardDesc" maxlength="100" placeholder="输入卡牌描述（最多100字符）" oninput="updatePlotDescCounter()"></textarea>
+          <div class="char-counter"><span id="plotDescCount">0</span>/100</div>
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button class="btn-action btn-cancel" onclick="hideCustomPlotCardModal()">取消</button>
+        <button class="btn-action btn-create" id="btnCreatePlotCard" onclick="createCustomPlotCard()">创建卡牌</button>
+      </div>
+    </div>
+  </div>
+  
+  <div id="customCharacterModal" class="custom-card-modal">
+    <div class="modal-backdrop" onclick="hideCustomCharacterModal()"></div>
+    <div class="modal-content">
+      <button class="modal-close" onclick="hideCustomCharacterModal()">×</button>
+      <div class="modal-header">
+        <h2 class="modal-title">✨ 创建自定义角色卡牌</h2>
+        <p class="modal-subtitle">步骤 <span id="charStep">1</span>/2 - 基本信息</p>
+      </div>
+      <div class="step-indicator">
+        <div class="step-dot active" id="stepDot1"></div>
+        <div class="step-dot" id="stepDot2"></div>
+      </div>
+      <div id="charStep1" class="custom-card-form">
+        <div class="form-section">
+          <div class="form-section-title">选择头像</div>
+          <div class="avatar-grid" id="charAvatarGrid"></div>
+        </div>
+        <div class="form-section">
+          <div class="form-section-title">角色名称 *</div>
+          <input type="text" class="form-input-field" id="charName" maxlength="20" placeholder="输入角色名称（1-20字符）" oninput="updateCharNameCounter()">
+          <div class="char-counter"><span id="charNameCount">0</span>/20</div>
+        </div>
+      </div>
+      <div id="charStep2" class="custom-card-form" style="display: none;">
+        <div class="form-section">
+          <div class="form-section-title">角色类型 *</div>
+          <select class="select-field" id="charRoleType">
+            <option value="">选择角色类型...</option>
+          </select>
+          <input type="text" class="form-input-field" id="charRoleTypeCustom" style="display: none; margin-top: 10px;" placeholder="或输入自定义类型">
+        </div>
+        <div class="form-section">
+          <div class="form-section-title">性格 *</div>
+          <select class="select-field" id="charPersonality">
+            <option value="">选择性格...</option>
+          </select>
+          <input type="text" class="form-input-field" id="charPersonalityCustom" style="display: none; margin-top: 10px;" placeholder="或输入自定义性格">
+        </div>
+        <div class="form-section">
+          <div class="form-section-title">说话方式 *</div>
+          <select class="select-field" id="charSpeechStyle">
+            <option value="">选择说话方式...</option>
+          </select>
+          <input type="text" class="form-input-field" id="charSpeechStyleCustom" style="display: none; margin-top: 10px;" placeholder="或输入自定义说话方式">
+        </div>
+        <div class="form-section">
+          <div class="form-section-title">与主角亲密度</div>
+          <div class="intimacy-selector">
+            <div class="intimacy-option" data-value="-50" onclick="selectIntimacy(-50)">
+              <div class="intimacy-icon">😠</div>
+              <div class="intimacy-label">敌对</div>
+            </div>
+            <div class="intimacy-option selected" data-value="0" onclick="selectIntimacy(0)">
+              <div class="intimacy-icon">😐</div>
+              <div class="intimacy-label">中立</div>
+            </div>
+            <div class="intimacy-option" data-value="50" onclick="selectIntimacy(50)">
+              <div class="intimacy-icon">😊</div>
+              <div class="intimacy-label">友好</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button class="btn-action btn-cancel" id="btnCharCancel" onclick="hideCustomCharacterModal()">取消</button>
+        <button class="btn-action btn-create" id="btnCharNext" onclick="nextCharStep()">下一步</button>
+        <button class="btn-action btn-create" id="btnCharPrev" onclick="prevCharStep()" style="display: none;">上一步</button>
+        <button class="btn-action btn-create" id="btnCharCreate" onclick="createCustomCharacter()" style="display: none;">创建角色</button>
+      </div>
+    </div>
+  </div>
+  
   <script src="js/api.js"></script>
   <script src="js/main.js"></script>
   <script src="js/theme.js"></script>
@@ -776,6 +933,16 @@
     let currentChapter = null;
     window.currentPuzzle = null;
     window.selectedOption = null;
+    let currentReward = null;
+    let selectedDiscardCard = null;
+    
+    let selectedPlotType = 'weather';
+    let selectedPlotIcon = null;
+    let selectedAvatar = null;
+    let selectedIntimacy = 0;
+    let currentCharStep = 1;
+    let characterOptions = null;
+    let isPresetChapter = false;
 
     document.addEventListener('DOMContentLoaded', async function() {
       createParticles(document.getElementById('particles'), 20);
@@ -784,24 +951,34 @@
       if (!userId) return;
       
       const chapterId = getUrlParam('id');
+      isPresetChapter = getUrlParam('is_preset') === '1';
+      
       if (!chapterId) {
         window.location.href = 'bookshelf.html';
         return;
       }
       
       await loadChapter(chapterId);
+      initCardRewardHandlers();
     });
     
     async function loadChapter(chapterId) {
       try {
-        const result = await API.getChapter(chapterId);
+        let result;
+        
+        if (isPresetChapter) {
+          result = await API.getPresetChapter(chapterId);
+        } else {
+          result = await API.getChapter(chapterId);
+        }
         
         if (result.success) {
           currentChapter = result.data;
+          currentChapter.is_preset = isPresetChapter;
           renderChapter(currentChapter);
           renderSidebarCards(currentChapter);
           
-          if (currentChapter.puzzle_id) {
+          if (currentChapter.puzzle_id && !isPresetChapter) {
             await loadPuzzle(currentChapter.puzzle_id);
           }
         } else {
@@ -934,9 +1111,16 @@
             const options = document.querySelectorAll('.puzzle-option');
             options[window.selectedOption]?.classList.add('correct');
           }
+          
           setTimeout(() => {
             hidePuzzle();
-            showNotification(result.data.message || '正确！谜题已解开！', 'success');
+            
+            if (result.data.reward) {
+              currentReward = result.data;
+              handleReward(result.data.reward, result.data.card_limit_exceeded, result.data.character_limit_exceeded);
+            } else {
+              showNotification(result.data.message || '正确！谜题已解开！', 'success');
+            }
           }, 1000);
         } else {
           if (puzzleInput) {
@@ -963,6 +1147,468 @@
       } catch (error) {
         showNotification(error.message, 'error');
       }
+    }
+    
+    async function handleReward(reward, cardLimitExceeded, characterLimitExceeded) {
+      if (reward.type === 'custom_character') {
+        if (characterLimitExceeded) {
+          showCharacterDiscardModal(reward);
+        } else {
+          await showCustomCharacterModal();
+        }
+      } else if (reward.type === 'custom_plot') {
+        if (cardLimitExceeded) {
+          showDiscardModal(reward);
+        } else {
+          await showCustomPlotCardModal(reward.card.sub_type, reward.card.icon);
+        }
+      } else {
+        if (cardLimitExceeded) {
+          showDiscardModal(reward);
+        } else {
+          showCardReward(reward, false);
+        }
+      }
+    }
+    
+    async function showCharacterDiscardModal(reward) {
+      showNotification('角色卡牌已达上限，请丢弃一张后再创建', 'warning');
+    }
+    
+    async function showCustomPlotCardModal(subType, defaultIcon) {
+      selectedPlotType = subType || 'weather';
+      selectedPlotIcon = defaultIcon || null;
+      
+      document.querySelectorAll('#plotTypeSelector .type-option').forEach(opt => {
+        opt.classList.toggle('selected', opt.dataset.type === selectedPlotType);
+      });
+      
+      await loadPlotIcons(selectedPlotType);
+      
+      document.getElementById('plotCardName').value = '';
+      document.getElementById('plotCardDesc').value = '';
+      updatePlotNameCounter();
+      updatePlotDescCounter();
+      
+      document.getElementById('customPlotCardModal').classList.add('active');
+    }
+    
+    function hideCustomPlotCardModal() {
+      document.getElementById('customPlotCardModal').classList.remove('active');
+    }
+    
+    async function loadPlotIcons(subType) {
+      try {
+        const result = await API.getCustomPlotCardIcons(subType);
+        if (result.success && result.data.icons) {
+          const icons = result.data.icons;
+          const grid = document.getElementById('plotIconGrid');
+          grid.innerHTML = icons.map(icon => `
+            <div class="icon-option ${icon === selectedPlotIcon ? 'selected' : ''}" 
+                 data-icon="${icon}" onclick="selectPlotIcon('${icon}')">
+              ${icon}
+            </div>
+          `).join('');
+        }
+      } catch (error) {
+        console.error('Failed to load plot icons:', error);
+      }
+    }
+    
+    function selectPlotType(type) {
+      selectedPlotType = type;
+      selectedPlotIcon = null;
+      
+      document.querySelectorAll('#plotTypeSelector .type-option').forEach(opt => {
+        opt.classList.toggle('selected', opt.dataset.type === type);
+      });
+      
+      loadPlotIcons(type);
+    }
+    
+    function selectPlotIcon(icon) {
+      selectedPlotIcon = icon;
+      document.querySelectorAll('#plotIconGrid .icon-option').forEach(opt => {
+        opt.classList.toggle('selected', opt.dataset.icon === icon);
+      });
+    }
+    
+    function updatePlotNameCounter() {
+      const name = document.getElementById('plotCardName').value;
+      document.getElementById('plotNameCount').textContent = name.length;
+    }
+    
+    function updatePlotDescCounter() {
+      const desc = document.getElementById('plotCardDesc').value;
+      document.getElementById('plotDescCount').textContent = desc.length;
+    }
+    
+    async function createCustomPlotCard() {
+      const name = document.getElementById('plotCardName').value.trim();
+      const description = document.getElementById('plotCardDesc').value.trim();
+      
+      if (!name) {
+        showNotification('请输入卡牌名称', 'warning');
+        return;
+      }
+      
+      if (!selectedPlotIcon) {
+        showNotification('请选择一个图标', 'warning');
+        return;
+      }
+      
+      const bookId = currentChapter?.book_id;
+      if (!bookId) {
+        showNotification('无法获取书籍信息', 'error');
+        return;
+      }
+      
+      try {
+        const result = await API.createCustomPlotCard({
+          book_id: bookId,
+          sub_type: selectedPlotType,
+          name: name,
+          icon: selectedPlotIcon,
+          description: description,
+          user_id: getUserId()
+        });
+        
+        if (result.success && result.data.success) {
+          hideCustomPlotCardModal();
+          showNotification('自定义情节卡牌创建成功！', 'success');
+          await loadChapter(currentChapter.chapter_id);
+        } else if (result.data && result.data.limit_exceeded) {
+          showNotification(result.data.message, 'warning');
+        } else {
+          showNotification(result.error || '创建失败', 'error');
+        }
+      } catch (error) {
+        showNotification(error.message, 'error');
+      }
+    }
+    
+    async function showCustomCharacterModal() {
+      currentCharStep = 1;
+      selectedAvatar = null;
+      selectedIntimacy = 0;
+      
+      updateCharStepUI();
+      
+      await loadCharacterOptions();
+      await loadCharacterAvatars();
+      
+      document.getElementById('charName').value = '';
+      updateCharNameCounter();
+      
+      document.getElementById('customCharacterModal').classList.add('active');
+    }
+    
+    function hideCustomCharacterModal() {
+      document.getElementById('customCharacterModal').classList.remove('active');
+    }
+    
+    async function loadCharacterAvatars() {
+      try {
+        const result = await API.getCustomCharacterAvatars();
+        if (result.success && result.data.avatars) {
+          const avatars = result.data.avatars;
+          const grid = document.getElementById('charAvatarGrid');
+          grid.innerHTML = avatars.map(avatar => `
+            <div class="avatar-option ${avatar === selectedAvatar ? 'selected' : ''}" 
+                 data-avatar="${avatar}" onclick="selectAvatar('${avatar}')">
+              ${avatar}
+            </div>
+          `).join('');
+        }
+      } catch (error) {
+        console.error('Failed to load avatars:', error);
+      }
+    }
+    
+    async function loadCharacterOptions() {
+      try {
+        const bookType = currentChapter?.book_type || 'adventure';
+        const result = await API.getCustomCharacterOptions(bookType);
+        if (result.success) {
+          characterOptions = result.data;
+          
+          const roleSelect = document.getElementById('charRoleType');
+          roleSelect.innerHTML = '<option value="">选择角色类型...</option>';
+          (result.data.character_types || []).forEach(type => {
+            roleSelect.innerHTML += `<option value="${type}">${type}</option>`;
+          });
+          roleSelect.innerHTML += '<option value="custom">自定义...</option>';
+          
+          const personalitySelect = document.getElementById('charPersonality');
+          personalitySelect.innerHTML = '<option value="">选择性格...</option>';
+          (result.data.personalities || []).forEach(p => {
+            personalitySelect.innerHTML += `<option value="${p}">${p}</option>`;
+          });
+          personalitySelect.innerHTML += '<option value="custom">自定义...</option>';
+          
+          const speechSelect = document.getElementById('charSpeechStyle');
+          speechSelect.innerHTML = '<option value="">选择说话方式...</option>';
+          (result.data.speech_styles || []).forEach(s => {
+            speechSelect.innerHTML += `<option value="${s}">${s}</option>`;
+          });
+          speechSelect.innerHTML += '<option value="custom">自定义...</option>';
+        }
+      } catch (error) {
+        console.error('Failed to load character options:', error);
+      }
+    }
+    
+    function selectAvatar(avatar) {
+      selectedAvatar = avatar;
+      document.querySelectorAll('#charAvatarGrid .avatar-option').forEach(opt => {
+        opt.classList.toggle('selected', opt.dataset.avatar === avatar);
+      });
+    }
+    
+    function selectIntimacy(value) {
+      selectedIntimacy = value;
+      document.querySelectorAll('.intimacy-option').forEach(opt => {
+        opt.classList.toggle('selected', parseInt(opt.dataset.value) === value);
+      });
+    }
+    
+    function updateCharNameCounter() {
+      const name = document.getElementById('charName').value;
+      document.getElementById('charNameCount').textContent = name.length;
+    }
+    
+    function updateCharStepUI() {
+      document.getElementById('charStep').textContent = currentCharStep;
+      document.getElementById('charStep1').style.display = currentCharStep === 1 ? 'block' : 'none';
+      document.getElementById('charStep2').style.display = currentCharStep === 2 ? 'block' : 'none';
+      
+      document.getElementById('stepDot1').classList.toggle('active', currentCharStep === 1);
+      document.getElementById('stepDot1').classList.toggle('completed', currentCharStep === 2);
+      document.getElementById('stepDot2').classList.toggle('active', currentCharStep === 2);
+      
+      document.getElementById('btnCharNext').style.display = currentCharStep === 1 ? 'inline-block' : 'none';
+      document.getElementById('btnCharPrev').style.display = currentCharStep === 2 ? 'inline-block' : 'none';
+      document.getElementById('btnCharCreate').style.display = currentCharStep === 2 ? 'inline-block' : 'none';
+      document.getElementById('btnCharCancel').textContent = currentCharStep === 1 ? '取消' : '上一步';
+    }
+    
+    function nextCharStep() {
+      const name = document.getElementById('charName').value.trim();
+      if (!name) {
+        showNotification('请输入角色名称', 'warning');
+        return;
+      }
+      if (!selectedAvatar) {
+        showNotification('请选择一个头像', 'warning');
+        return;
+      }
+      
+      currentCharStep = 2;
+      updateCharStepUI();
+    }
+    
+    function prevCharStep() {
+      currentCharStep = 1;
+      updateCharStepUI();
+    }
+    
+    async function createCustomCharacter() {
+      const name = document.getElementById('charName').value.trim();
+      
+      let roleType = document.getElementById('charRoleType').value;
+      if (roleType === 'custom') {
+        roleType = document.getElementById('charRoleTypeCustom').value.trim();
+      }
+      
+      let personality = document.getElementById('charPersonality').value;
+      if (personality === 'custom') {
+        personality = document.getElementById('charPersonalityCustom').value.trim();
+      }
+      
+      let speechStyle = document.getElementById('charSpeechStyle').value;
+      if (speechStyle === 'custom') {
+        speechStyle = document.getElementById('charSpeechStyleCustom').value.trim();
+      }
+      
+      if (!roleType) {
+        showNotification('请选择或输入角色类型', 'warning');
+        return;
+      }
+      if (!personality) {
+        showNotification('请选择或输入性格', 'warning');
+        return;
+      }
+      if (!speechStyle) {
+        showNotification('请选择或输入说话方式', 'warning');
+        return;
+      }
+      
+      const bookId = currentChapter?.book_id;
+      if (!bookId) {
+        showNotification('无法获取书籍信息', 'error');
+        return;
+      }
+      
+      try {
+        const result = await API.createCustomCharacter({
+          book_id: bookId,
+          name: name,
+          avatar: selectedAvatar,
+          role_type: roleType,
+          personality: personality,
+          speech_style: speechStyle,
+          intimacy: selectedIntimacy,
+          user_id: getUserId()
+        });
+        
+        if (result.success && result.data.success) {
+          hideCustomCharacterModal();
+          showNotification('自定义角色卡牌创建成功！', 'success');
+          await loadChapter(currentChapter.chapter_id);
+        } else if (result.data && result.data.limit_exceeded) {
+          showNotification(result.data.message, 'warning');
+        } else {
+          showNotification(result.error || '创建失败', 'error');
+        }
+      } catch (error) {
+        showNotification(error.message, 'error');
+      }
+    }
+
+    function showCardReward(reward, limitExceeded) {
+      const modal = document.getElementById('cardRewardModal');
+      const cardIcon = document.getElementById('rewardCardIcon');
+      const cardName = document.getElementById('rewardCardName');
+      const cardType = document.getElementById('rewardCardType');
+      const message = document.getElementById('rewardMessage');
+      const btnReceive = document.getElementById('btnReceive');
+      const btnContinue = document.getElementById('btnContinue');
+      
+      cardIcon.textContent = reward.card.icon;
+      cardName.textContent = reward.card.name;
+      
+      const typeNames = {
+        weather: '天气卡牌',
+        terrain: '地形卡牌',
+        adventure: '冒险卡牌',
+        equipment: '装备卡牌'
+      };
+      cardType.textContent = typeNames[reward.card.sub_type] || '情节卡牌';
+      message.textContent = reward.message || '恭喜获得卡牌！';
+      
+      if (limitExceeded) {
+        btnReceive.style.display = 'none';
+        btnContinue.style.display = 'inline-block';
+      } else {
+        btnReceive.style.display = 'inline-block';
+        btnContinue.style.display = 'none';
+      }
+      
+      modal.style.display = 'flex';
+    }
+
+    function hideCardReward() {
+      document.getElementById('cardRewardModal').style.display = 'none';
+    }
+
+    function showDiscardModal(reward) {
+      const modal = document.getElementById('cardDiscardModal');
+      const grid = document.getElementById('discardCardsGrid');
+      
+      selectedDiscardCard = null;
+      document.getElementById('btnConfirmDiscard').disabled = true;
+      
+      let cardsHtml = '';
+      
+      if (reward.existing_cards && reward.existing_cards.length > 0) {
+        reward.existing_cards.forEach(card => {
+          cardsHtml += `
+            <div class="card-item" data-card-id="${card.card_id}" onclick="selectDiscardCard('${card.card_id}')">
+              <div class="card-icon">${card.icon}</div>
+              <div class="card-name">${card.name}</div>
+            </div>
+          `;
+        });
+      }
+      
+      cardsHtml += `
+        <div class="card-item new-card" data-card-id="new" onclick="selectDiscardCard('new')">
+          <div class="new-badge">NEW</div>
+          <div class="card-icon">${reward.card.icon}</div>
+          <div class="card-name">${reward.card.name}</div>
+        </div>
+      `;
+      
+      grid.innerHTML = cardsHtml;
+      modal.style.display = 'flex';
+    }
+
+    function selectDiscardCard(cardId) {
+      selectedDiscardCard = cardId;
+      
+      document.querySelectorAll('#discardCardsGrid .card-item').forEach(item => {
+        item.classList.remove('selected');
+      });
+      
+      const selectedItem = document.querySelector(`#discardCardsGrid .card-item[data-card-id="${cardId}"]`);
+      if (selectedItem) {
+        selectedItem.classList.add('selected');
+      }
+      document.getElementById('btnConfirmDiscard').disabled = false;
+    }
+
+    function hideDiscardModal() {
+      document.getElementById('cardDiscardModal').style.display = 'none';
+    }
+
+    async function confirmDiscard() {
+      if (!selectedDiscardCard || !currentReward) return;
+      
+      try {
+        if (selectedDiscardCard !== 'new') {
+          await API.deletePlotCard(selectedDiscardCard);
+        }
+        
+        if (selectedDiscardCard === 'new') {
+          hideDiscardModal();
+          hideCardReward();
+          showNotification('已放弃新卡牌', 'success');
+        } else {
+          const bookId = currentChapter?.book_id || getUrlParam('book_id');
+          
+          if (bookId && currentReward.reward && currentReward.reward.card) {
+            await API.addPlotCard(bookId, currentReward.reward.card);
+          }
+          
+          hideDiscardModal();
+          hideCardReward();
+          showNotification('卡牌已替换！', 'success');
+        }
+      } catch (error) {
+        showNotification(error.message, 'error');
+      }
+    }
+
+    function initCardRewardHandlers() {
+      document.getElementById('btnReceive')?.addEventListener('click', () => {
+        hideCardReward();
+      });
+
+      document.getElementById('btnContinue')?.addEventListener('click', () => {
+        hideCardReward();
+        if (currentReward && currentReward.reward) {
+          showDiscardModal(currentReward.reward);
+        }
+      });
+
+      document.getElementById('btnCancelDiscard')?.addEventListener('click', () => {
+        hideDiscardModal();
+        if (currentReward && currentReward.reward) {
+          showCardReward(currentReward.reward, false);
+        }
+      });
+
+      document.getElementById('btnConfirmDiscard')?.addEventListener('click', confirmDiscard);
     }
 
     function renderSidebarCards(chapter) {

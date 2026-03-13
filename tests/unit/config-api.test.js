@@ -3,10 +3,10 @@ import { describe, it, expect, vi, beforeEach } from 'vitest';
 vi.mock('../../config/book-types.json', () => ({
   default: {
     types: [
-      { type: 'adventure', name: '儿童冒险', theme_color: '#FFD700', bg_style: '卡通插画' },
-      { type: 'fantasy', name: '魔幻传说', theme_color: '#6B21A8', bg_style: '星空/魔法纹理' },
-      { type: 'romance', name: '都市言情', theme_color: '#F48FB1', bg_style: '柔和渐变' },
-      { type: 'business', name: '职场风云', theme_color: '#1E3A8A', bg_style: '几何图案' }
+      { type: 'adventure', name: '儿童冒险', theme: 'adventure' },
+      { type: 'fantasy', name: '魔幻传说', theme: 'fantasy' },
+      { type: 'romance', name: '都市言情', theme: 'romance' },
+      { type: 'business', name: '职场风云', theme: 'business' }
     ]
   }
 }));
@@ -28,23 +28,23 @@ vi.mock('../../config/personality.json', () => ({
 
 vi.mock('../../config/speech-style.json', () => ({
   default: {
-    speech_styles: ['简洁直接', '啰嗦详细', '礼貌客气', '尖酸刻薄', '幽默风趣', '严肃正式', '温柔体贴', '咄咄逼人', '慢条斯理', '快速急促', '诗意文艺', '务实平淡', '夸张生动', '阴阳怪气', '热情奔放', '冷淡疏离', '睿智深沉', '天真单纯', '讽刺挖苦', '抱怨连天', '命令式', '敷衍了事', '油嘴滑舌', '沉默寡言', '爱打断人']
+    speech_styles: ['正式', '随意', '幽默', '严肃', '温柔', '强硬', '礼貌', '直接', '委婉', '热情', '冷淡', '亲切', '疏离', '活泼', '沉稳', '夸张', '低调', '文雅', '粗犷', '细腻', '简洁', '啰嗦', '深沉', '轻快', '神秘']
   }
 }));
 
 vi.mock('../../config/plot-options.json', () => ({
   default: {
     adventure: {
-      weather: Array(20).fill(null).map((_, i) => ({ name: `天气${i+1}`, icon: '☀️', description: `描述${i+1}` })),
-      terrain: Array(20).fill(null).map((_, i) => ({ name: `地形${i+1}`, icon: '🌲', description: `描述${i+1}` })),
-      adventure: Array(20).fill(null).map((_, i) => ({ name: `冒险${i+1}`, icon: '🗺️', description: `描述${i+1}` })),
-      equipment: Array(20).fill(null).map((_, i) => ({ name: `装备${i+1}`, icon: '🔍', description: `描述${i+1}` }))
+      weather: ['晴天', '阴天', '小雨', '大雨', '雷雨', '大风', '雾天', '雪天', '沙尘暴', '彩虹', '朝霞', '晚霞', '星空', '月夜', '烈日', '微风', '暴雨', '冰雹', '龙卷风', '台风'],
+      terrain: ['森林', '山脉', '河流', '湖泊', '沙漠', '草原', '峡谷', '洞穴', '瀑布', '冰川', '火山', '海滩', '沼泽', '高原', '盆地', '丘陵', '平原', '岛屿', '暗礁', '悬崖'],
+      adventure: ['寻宝', '探险', '救援', '解谜', '追逐', '生存', '发现', '挑战', '比赛', '旅行', '考古', '观察', '收集', '建造', '训练', '竞技', '狩猎', '钓鱼', '摄影', '记录'],
+      equipment: ['地图', '指南针', '绳索', '手电筒', '望远镜', '背包', '水壶', '急救包', '帐篷', '睡袋', '刀具', '火柴', '食物', '雨衣', '登山鞋', '帽子', '太阳镜', '防晒霜', '驱虫剂', '相机']
     },
     fantasy: {
-      weather: Array(20).fill(null).map((_, i) => ({ name: `天气${i+1}`, icon: '⚡', description: `描述${i+1}` })),
-      terrain: Array(20).fill(null).map((_, i) => ({ name: `地形${i+1}`, icon: '🏰', description: `描述${i+1}` })),
-      adventure: Array(20).fill(null).map((_, i) => ({ name: `冒险${i+1}`, icon: '⚔️', description: `描述${i+1}` })),
-      equipment: Array(20).fill(null).map((_, i) => ({ name: `装备${i+1}`, icon: '🪄', description: `描述${i+1}` }))
+      weather: ['魔法风暴', '星光雨', '彩虹云', '月光雾', '火焰雨', '冰霜雪', '雷电云', '水晶雨', '暗影雾', '圣光普照', '龙息风', '精灵之雨', '魔力波动', '时空裂隙', '元素风暴', '魔法极光', '咒语回响', '魔法涟漪', '能量涌动', '法力潮汐'],
+      terrain: ['魔法森林', '龙之谷', '精灵王国', '矮人矿坑', '巫师塔', '魔法学院', '神秘岛屿', '地下城', '仙境', '魔幻山脉', '水晶洞穴', '魔法湖泊', '幻境森林', '龙巢', '魔法花园', '神秘遗迹', '魔法沼泽', '幻影城堡', '魔法平原', '元素圣地'],
+      adventure: ['魔法试炼', '龙之挑战', '精灵任务', '巫师对决', '魔法收集', '神秘探索', '魔法解谜', '元素召唤', '咒语学习', '魔法比赛', '龙骑士训练', '精灵舞蹈', '魔法炼金', '咒语创造', '魔法防御', '神秘预言', '魔法传送', '元素融合', '魔法契约', '命运抉择'],
+      equipment: ['魔法杖', '魔法书', '魔法宝石', '魔法斗篷', '魔法戒指', '魔法药水', '魔法卷轴', '魔法水晶', '魔法护符', '魔法盾牌', '魔法剑', '魔法弓', '魔法飞毯', '魔法灯笼', '魔法罗盘', '魔法沙漏', '魔法镜子', '魔法钥匙', '魔法羽毛笔', '魔法墨水']
     }
   }
 }));
@@ -84,8 +84,8 @@ describe('Config API', () => {
       
       const adventure = result.data.types.find(t => t.type === 'adventure');
       expect(adventure.name).toBe('儿童冒险');
-      expect(adventure.theme_color).toBe('#FFD700');
-      expect(adventure.bg_style).toBeDefined();
+      expect(adventure.theme).toBe('adventure');
+      expect(adventure.type).toBeDefined();
     });
 
     it('should return correct CORS headers on OPTIONS', async () => {
@@ -103,10 +103,11 @@ describe('Config API', () => {
       const result = await response.json();
       
       expect(result.success).toBe(true);
-      expect(result.data.adventure).toBeDefined();
-      expect(result.data.fantasy).toBeDefined();
-      expect(result.data.romance).toBeDefined();
-      expect(result.data.business).toBeDefined();
+      expect(result.data.character_types).toBeDefined();
+      expect(result.data.character_types.adventure).toBeDefined();
+      expect(result.data.character_types.fantasy).toBeDefined();
+      expect(result.data.character_types.romance).toBeDefined();
+      expect(result.data.character_types.business).toBeDefined();
     });
 
     it('should return character types for specific book_type', async () => {
@@ -173,8 +174,8 @@ describe('Config API', () => {
       const response = await onRequestGet(context);
       const result = await response.json();
       
-      expect(result.data.speech_styles).toContain('简洁直接');
-      expect(result.data.speech_styles).toContain('幽默风趣');
+      expect(result.data.speech_styles).toContain('幽默');
+      expect(result.data.speech_styles).toContain('温柔');
     });
   });
 

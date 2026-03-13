@@ -8,7 +8,7 @@ export default defineConfig({
   workers: 1,
   reporter: [['list'], ['json', { outputFile: 'test-results/results.json' }]],
   use: {
-    baseURL: 'http://localhost:8788',
+    baseURL: 'http://127.0.0.1:8789',
     trace: 'on-first-retry',
     screenshot: 'only-on-failure'
   },
@@ -17,11 +17,5 @@ export default defineConfig({
       name: 'chromium',
       use: { ...devices['Desktop Chrome'] }
     }
-  ],
-  webServer: {
-    command: 'npm run dev',
-    url: 'http://localhost:8788',
-    reuseExistingServer: !process.env.CI,
-    timeout: 120000
-  }
+  ]
 });

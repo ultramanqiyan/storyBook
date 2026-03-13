@@ -462,6 +462,7 @@
     let currentBook = null;
     let currentView = 'chapters';
     let isAnimating = false;
+    let isPresetBook = false;
 
     document.addEventListener('DOMContentLoaded', async function() {
       createParticles(document.getElementById('particles'), 30);
@@ -470,6 +471,8 @@
       if (!userId) return;
       
       const bookId = getUrlParam('id');
+      isPresetBook = getUrlParam('is_preset') === '1';
+      
       if (!bookId) {
         window.location.href = 'bookshelf.html';
         return;
@@ -480,10 +483,27 @@
     
     async function loadBook(bookId) {
       try {
-        const result = await API.getBook(bookId);
+        let result;
+        
+        if (isPresetBook) {
+          result = await API.getPresetBookDetail(bookId);
+          if (result.success) {
+            currentBook = {
+              ...result.data,
+              book_id: bookId,
+              chapters: result.data.chapters || [],
+              characters: result.data.characters || [],
+              progress: 0
+            };
+          }
+        } else {
+          result = await API.getBook(bookId);
+          if (result.success) {
+            currentBook = result.data;
+          }
+        }
         
         if (result.success) {
-          currentBook = result.data;
           renderBookHeader(currentBook);
           renderBookPages();
         } else {
@@ -519,16 +539,50 @@
       `;
       
       const actionButtons = document.querySelector('.action-buttons');
-      const currentChapter = chapters.find(c => c.status === 'current') || chapters[0];
-      if (currentChapter) {
+      
+      if (isPresetBook) {
+        const currentChapter = chapters[0];
         actionButtons.innerHTML = `
-          <a href="chapter.html?id=${currentChapter.chapter_id}" class="action-btn">Continue Reading</a>
-          <a href="director.html?book_id=${book.book_id}" class="action-btn secondary">Direct New Chapter</a>
+          ${currentChapter ? `<a href="chapter.html?id=${currentChapter.chapter_id}&is_preset=1" class="action-btn">Start Reading</a>` : ''}
+          <button class="action-btn secondary" onclick="importPresetBook()">Import to My Shelf</button>
         `;
       } else {
-        actionButtons.innerHTML = `
-          <a href="director.html?book_id=${book.book_id}" class="action-btn">Direct New Chapter</a>
-        `;
+        const currentChapter = chapters.find(c => c.status === 'current') || chapters[0];
+        if (currentChapter) {
+          actionButtons.innerHTML = `
+            <a href="chapter.html?id=${currentChapter.chapter_id}" class="action-btn">Start Reading</a>
+            <a href="director.html?book_id=${book.book_id}" class="action-btn secondary">Direct New Chapter</a>
+          `;
+        } else {
+          actionButtons.innerHTML = `
+            <a href="director.html?book_id=${book.book_id}" class="action-btn">Direct New Chapter</a>
+          `;
+        }
+      }
+    }
+    
+    function showImportPrompt() {
+      showNotification('Please import this book to your shelf first to add new chapters', 'warning');
+    }
+    
+    async function importPresetBook() {
+      const userId = getUserId();
+      if (!userId) {
+        showNotification('Please login first', 'warning');
+        return;
+      }
+      
+      try {
+        const result = await API.importPresetBook(currentBook.book_id, userId);
+        
+        if (result.success) {
+          showNotification('Book imported successfully! Redirecting...', 'success');
+          setTimeout(() => {
+            window.location.href = `book.html?id=${result.data.new_book_id}`;
+          }, 1500);
+        }
+      } catch (error) {
+        showNotification('Import failed: ' + error.message, 'error');
       }
     }
 
@@ -617,7 +671,9 @@
       
       const isSolved = chapter.is_solved === 1;
       const statusIcon = isSolved ? '✓' : '🖋️';
-      const statusText = isSolved ? '已完成' : '待完成';
+      const statusText = isSolved ? 'Completed' : 'Pending';
+      
+      const presetParam = isPresetBook ? '&is_preset=1' : '';
       
       return `
         <div class="chapter-toc-item" 
@@ -656,7 +712,8 @@
     }
 
     function goToChapter(id) {
-      window.location.href = `chapter.html?id=${id}`;
+      const presetParam = isPresetBook ? '&is_preset=1' : '';
+      window.location.href = `chapter.html?id=${id}${presetParam}`;
     }
 
     function showCharacterDetail(id) {
