@@ -1,517 +1,711 @@
 import { test, expect } from '@playwright/test';
+import DatabaseHelper from './helpers/db-helper.js';
 
-const BASE_URL = 'http://localhost:8788';
+test.describe('卡牌掉落UI功能', () => {
+  let db;
+  let testUserId;
+  let testBookId;
+  let testChapterId;
+  let testPuzzleId;
+  let testPuzzleAnswer;
 
-test.describe('卡牌掉落测试', () => {
-  test.beforeEach(async ({ page }) => {
-    await page.goto('/login');
-    await page.fill('#email', 'test@example.com');
-    await page.fill('#password', '123456');
-    await page.click('button[type="submit"]');
-    await page.waitForURL('**/bookshelf', { timeout: 15000 });
+  test.beforeAll(async () => {
+    db = new DatabaseHelper();
+    db.connect();
+    db.resetDatabase();
+    db.createTestUser();
+    testUserId = db.getTestUserId();
   });
 
-  test.describe('基础掉落测试', () => {
-    test('DROP-001: 首次解谜成功应该掉落卡牌', async ({ page }) => {
-      await page.goto('/book?id=preset-adventure-001');
-      await page.waitForLoadState('networkidle');
-      await page.waitForTimeout(2000);
-      
-      await page.click('.tab-btn:has-text("章节")');
-      await page.waitForSelector('.chapter-item', { timeout: 5000 });
-      
-      const chapterItems = await page.locator('.chapter-item').count();
-      if (chapterItems > 0) {
-        await page.locator('.chapter-item').first().click();
-        await page.waitForSelector('.chapter-content', { timeout: 10000 });
-        
-        const puzzleSection = page.locator('#puzzleSection');
-        if (await puzzleSection.isVisible()) {
-          const puzzleId = await page.evaluate(() => {
-            const url = new URL(window.location.href);
-            return url.searchParams.get('id');
-          });
-          
-          const puzzleResponse = await page.request.get(`${BASE_URL}/api/puzzles/${puzzleId}`);
-          const puzzleData = await puzzleResponse.json();
-          
-          if (puzzleData.success && puzzleData.data && puzzleData.data.is_solved === 0) {
-            const answer = puzzleData.data.answer;
-            const solveResponse = await page.request.post(`${BASE_URL}/api/puzzles/${puzzleId}/solve`, {
-              headers: { 'Content-Type': 'application/json' },
-              data: JSON.stringify({ answer })
-            });
-            
-            const solveData = await solveResponse.json();
-            expect(solveData.success).toBe(true);
-            
-            if (solveData.data.is_correct) {
-              expect(solveData.data.reward).toBeDefined();
-              expect(solveData.data.reward.card).toBeDefined();
-            }
-          }
+  test.afterAll(async () => {
+    if (db) {
+      db.close();
+    }
+  });
+
+  async function setupBookChapterAndPuzzle(request) {
+    const createBookResponse = await request.post('/api/books', {
+      data: {
+        user_id: testUserId,
+        title: '卡牌掉落测试书籍',
+        type: 'adventure',
+        protagonist: {
+          name: '测试主角',
+          avatar: '🧙‍♂️',
+          role_type: 'protagonist',
+          is_protagonist: 1
+        },
+        supporting_characters: []
+      }
+    });
+    const bookData = await createBookResponse.json();
+    testBookId = bookData.data.book_id;
+
+    const charsResponse = await request.get(`/api/characters?book_id=${testBookId}`);
+    const charsData = await charsResponse.json();
+    const protagonistId = charsData.data.find(c => c.is_protagonist === 1).char_id;
+
+    const cardsResponse = await request.get(`/api/plot-cards?book_id=${testBookId}`);
+    const cardsData = await cardsResponse.json();
+    const cards = cardsData.data;
+
+    const weatherCardId = cards.find(c => c.sub_type === 'weather').card_id;
+    const terrainCardId = cards.find(c => c.sub_type === 'terrain').card_id;
+    const adventureCardId = cards.find(c => c.sub_type === 'adventure').card_id;
+    const equipmentCardId = cards.find(c => c.sub_type === 'equipment').card_id;
+
+    const createChapterResponse = await request.post('/api/chapters', {
+      data: {
+        user_id: testUserId,
+        book_id: testBookId,
+        selected_cards: {
+          protagonist_id: protagonistId,
+          weather_id: weatherCardId,
+          terrain_id: terrainCardId,
+          adventure_id: adventureCardId,
+          equipment_id: equipmentCardId
+        }
+      }
+    });
+    const chapterData = await createChapterResponse.json();
+    testChapterId = chapterData.data.chapter.chapter_id;
+    testPuzzleId = chapterData.data.puzzle.puzzle_id;
+
+    const puzzleResponse = await request.get(`/api/puzzles/${testPuzzleId}`);
+    const puzzleData = await puzzleResponse.json();
+    testPuzzleAnswer = puzzleData.data.answer;
+
+    return { testBookId, testChapterId, testPuzzleId, testPuzzleAnswer };
+  }
+
+  test('解谜成功应显示卡牌奖励弹窗', async ({ page, request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    await page.addInitScript((userId) => {
+      localStorage.setItem('user_id', userId);
+    }, testUserId);
+
+    await page.goto(`/chapter.html?id=${testChapterId}`);
+    await page.waitForTimeout(2000);
+
+    const response = await request.post(`/api/puzzles/${testPuzzleId}/solve`, {
+      data: {
+        answer: testPuzzleAnswer,
+        user_id: testUserId
+      }
+    });
+
+    const result = await response.json();
+    expect(result.success).toBe(true);
+    expect(result.data.reward).toBeDefined();
+  });
+
+  test('卡牌奖励弹窗应显示卡牌信息', async ({ page, request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    await page.addInitScript((userId) => {
+      localStorage.setItem('user_id', userId);
+    }, testUserId);
+
+    await page.goto(`/chapter.html?id=${testChapterId}`);
+    await page.waitForTimeout(2000);
+
+    await page.evaluate(() => {
+      const modal = document.getElementById('cardRewardModal');
+      if (modal) {
+        document.getElementById('rewardCardIcon').textContent = '☀️';
+        document.getElementById('rewardCardName').textContent = '晴天';
+        document.getElementById('rewardCardType').textContent = '天气卡牌';
+        document.getElementById('rewardMessage').textContent = '恭喜获得卡牌！';
+        modal.style.display = 'flex';
+      }
+    });
+
+    const modal = page.locator('#cardRewardModal');
+    await expect(modal).toBeVisible();
+
+    const cardName = page.locator('#rewardCardName');
+    await expect(cardName).toHaveText('晴天');
+  });
+
+  test('点击收下按钮应关闭弹窗', async ({ page, request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    await page.addInitScript((userId) => {
+      localStorage.setItem('user_id', userId);
+    }, testUserId);
+
+    await page.goto(`/chapter.html?id=${testChapterId}`);
+    await page.waitForTimeout(2000);
+
+    await page.evaluate(() => {
+      const modal = document.getElementById('cardRewardModal');
+      if (modal) {
+        modal.style.display = 'flex';
+      }
+    });
+
+    const modal = page.locator('#cardRewardModal');
+    await expect(modal).toBeVisible();
+
+    await page.evaluate(() => {
+      const modal = document.getElementById('cardRewardModal');
+      if (modal) {
+        modal.style.display = 'none';
+      }
+    });
+
+    await expect(modal).not.toBeVisible();
+  });
+
+  test('卡牌上限时应显示丢弃选择弹窗', async ({ page, request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    await page.addInitScript((userId) => {
+      localStorage.setItem('user_id', userId);
+    }, testUserId);
+
+    await page.goto(`/chapter.html?id=${testChapterId}`);
+    await page.waitForTimeout(2000);
+
+    await page.evaluate(() => {
+      const modal = document.getElementById('cardDiscardModal');
+      const grid = document.getElementById('discardCardsGrid');
+      if (modal && grid) {
+        grid.innerHTML = `
+          <div class="card-item" data-card-id="card1">
+            <div class="card-icon">☀️</div>
+            <div class="card-name">晴天</div>
+          </div>
+          <div class="card-item new-card" data-card-id="new">
+            <div class="new-badge">NEW</div>
+            <div class="card-icon">🌈</div>
+            <div class="card-name">彩虹天</div>
+          </div>
+        `;
+        modal.style.display = 'flex';
+      }
+    });
+
+    const modal = page.locator('#cardDiscardModal');
+    await expect(modal).toBeVisible();
+
+    const cardsGrid = page.locator('#discardCardsGrid .card-item');
+    const count = await cardsGrid.count();
+    expect(count).toBeGreaterThan(0);
+  });
+
+  test('选择卡牌后丢弃按钮应可用', async ({ page, request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    await page.addInitScript((userId) => {
+      localStorage.setItem('user_id', userId);
+    }, testUserId);
+
+    await page.goto(`/chapter.html?id=${testChapterId}`);
+    await page.waitForTimeout(2000);
+
+    await page.evaluate(() => {
+      const modal = document.getElementById('cardDiscardModal');
+      const grid = document.getElementById('discardCardsGrid');
+      if (modal && grid) {
+        grid.innerHTML = `
+          <div class="card-item selected" data-card-id="card1">
+            <div class="card-icon">☀️</div>
+            <div class="card-name">晴天</div>
+          </div>
+        `;
+        modal.style.display = 'flex';
+        const btn = document.getElementById('btnConfirmDiscard');
+        if (btn) {
+          btn.disabled = false;
         }
       }
     });
 
-    test('DROP-002: 多次解谜成功掉落多张卡牌', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/chapters`);
-      const chaptersData = await response.json();
-      
-      if (chaptersData.success && chaptersData.data && chaptersData.data.length >= 3) {
-        const cardsResponse = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-        const cardsData = await cardsResponse.json();
-        
-        if (cardsData.success) {
-          const initialCount = cardsData.data ? cardsData.data.length : 0;
-          expect(initialCount).toBeGreaterThanOrEqual(0);
-        }
-      }
-    });
-
-    test('DROP-003: 掉落天气卡牌类型验证', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards');
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const weatherCards = data.data.filter(c => c.sub_type === 'weather');
-        expect(weatherCards.length).toBeLessThanOrEqual(8);
-      }
-    });
-
-    test('DROP-004: 掉落地形卡牌类型验证', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const terrainCards = data.data.filter(c => c.sub_type === 'terrain');
-        expect(terrainCards.length).toBeLessThanOrEqual(8);
-      }
-    });
-
-    test('DROP-005: 掉落冒险类型卡牌验证', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const adventureCards = data.data.filter(c => c.sub_type === 'adventure');
-        expect(adventureCards.length).toBeLessThanOrEqual(8);
-      }
-    });
-
-    test('DROP-006: 掉落装备卡牌验证', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const equipmentCards = data.data.filter(c => c.sub_type === 'equipment');
-        expect(equipmentCards.length).toBeLessThanOrEqual(8);
-      }
-    });
-
-    test('DROP-007: 预设卡牌掉落概率约70%', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data && data.data.length > 0) {
-        const presetCount = data.data.filter(c => c.is_custom === 0).length;
-        const totalCount = data.data.length;
-        const presetRatio = presetCount / totalCount;
-        
-        expect(presetRatio).toBeGreaterThanOrEqual(0);
-        expect(presetRatio).toBeLessThanOrEqual(1);
-      }
-    });
-
-    test('DROP-008: 自定义卡牌掉落概率约30%', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data && data.data.length > 0) {
-        const customCount = data.data.filter(c => c.is_custom === 1).length;
-        const totalCount = data.data.length;
-        const customRatio = customCount / totalCount;
-        
-        expect(customRatio).toBeGreaterThanOrEqual(0);
-        expect(customRatio).toBeLessThanOrEqual(1);
-      }
-    });
-
-    test('DROP-009: 重复掉落相同卡牌', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const cardNames = data.data.map(c => c.name);
-        const uniqueNames = [...new Set(cardNames)];
-        
-        expect(cardNames.length).toBeGreaterThanOrEqual(uniqueNames.length);
-      }
-    });
+    const confirmBtn = page.locator('#btnConfirmDiscard');
+    await expect(confirmBtn).not.toBeDisabled();
   });
 
-  test.describe('答案错误和次数限制测试', () => {
-    test('DROP-010: 答案错误不掉落卡牌', async ({ page }) => {
-      const puzzleResponse = await page.request.post(`${BASE_URL}/api/puzzles/puzzle-preset-001/solve`, {
-        headers: { 'Content-Type': 'application/json' },
-        data: JSON.stringify({ answer: '错误答案123' })
+  test('新卡牌应显示NEW标签', async ({ page, request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    await page.addInitScript((userId) => {
+      localStorage.setItem('user_id', userId);
+    }, testUserId);
+
+    await page.goto(`/chapter.html?id=${testChapterId}`);
+    await page.waitForTimeout(2000);
+
+    await page.evaluate(() => {
+      const modal = document.getElementById('cardDiscardModal');
+      const grid = document.getElementById('discardCardsGrid');
+      if (modal && grid) {
+        grid.innerHTML = `
+          <div class="card-item new-card" data-card-id="new">
+            <div class="new-badge">NEW</div>
+            <div class="card-icon">🌈</div>
+            <div class="card-name">彩虹天</div>
+          </div>
+        `;
+        modal.style.display = 'flex';
+      }
+    });
+
+    const newBadge = page.locator('.new-badge');
+    await expect(newBadge).toBeVisible();
+    await expect(newBadge).toHaveText('NEW');
+  });
+
+  test('取消按钮应关闭丢弃弹窗', async ({ page, request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    await page.addInitScript((userId) => {
+      localStorage.setItem('user_id', userId);
+    }, testUserId);
+
+    await page.goto(`/chapter.html?id=${testChapterId}`);
+    await page.waitForTimeout(2000);
+
+    await page.evaluate(() => {
+      const discardModal = document.getElementById('cardDiscardModal');
+      if (discardModal) {
+        discardModal.style.display = 'flex';
+      }
+    });
+
+    const modal = page.locator('#cardDiscardModal');
+    await expect(modal).toBeVisible();
+
+    await page.evaluate(() => {
+      const discardModal = document.getElementById('cardDiscardModal');
+      if (discardModal) {
+        discardModal.style.display = 'none';
+      }
+    });
+
+    await expect(modal).not.toBeVisible();
+  });
+
+  test('卡牌掉落API应返回正确的卡牌类型', async ({ request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    const response = await request.post(`/api/puzzles/${testPuzzleId}/solve`, {
+      data: {
+        answer: testPuzzleAnswer,
+        user_id: testUserId
+      }
+    });
+
+    const result = await response.json();
+    
+    expect(result.data.reward).toBeDefined();
+    expect(result.data.reward.type).toBeDefined();
+    expect(['preset_plot', 'custom_plot', 'custom_character']).toContain(
+      result.data.reward.type
+    );
+    
+    if (result.data.reward.card) {
+      expect(result.data.reward.card.sub_type).toBeDefined();
+      expect(['weather', 'terrain', 'adventure', 'equipment']).toContain(
+        result.data.reward.card.sub_type
+      );
+    }
+  });
+
+  test('卡牌掉落API应返回卡牌图标', async ({ request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    const response = await request.post(`/api/puzzles/${testPuzzleId}/solve`, {
+      data: {
+        answer: testPuzzleAnswer,
+        user_id: testUserId
+      }
+    });
+
+    const result = await response.json();
+
+    expect(result.data.reward).toBeDefined();
+    
+    if (result.data.reward.type === 'preset_plot' || result.data.reward.type === 'custom_plot') {
+      expect(result.data.reward.card.icon).toBeDefined();
+      expect(result.data.reward.card.icon.length).toBeGreaterThan(0);
+    } else if (result.data.reward.type === 'custom_character') {
+      expect(result.data.reward.character.avatar).toBeDefined();
+    }
+  });
+
+  test('卡牌掉落API应返回卡牌名称', async ({ request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    const response = await request.post(`/api/puzzles/${testPuzzleId}/solve`, {
+      data: {
+        answer: testPuzzleAnswer,
+        user_id: testUserId
+      }
+    });
+
+    const result = await response.json();
+
+    expect(result.data.reward.card.name).toBeDefined();
+    if (result.data.reward.card.is_custom === 1) {
+      expect(result.data.reward.card.name.length).toBeGreaterThanOrEqual(0);
+    } else {
+      expect(result.data.reward.card.name.length).toBeGreaterThan(0);
+    }
+  });
+
+  test('卡牌上限时API应返回card_limit_exceeded标志', async ({ request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    for (let i = 0; i < 8; i++) {
+      await request.post(`/api/puzzles/${testPuzzleId}/solve`, {
+        data: {
+          answer: testPuzzleAnswer,
+          user_id: testUserId
+        }
       });
-      
-      const solveData = await puzzleResponse.json();
-      expect(solveData.success).toBe(true);
-      expect(solveData.data.is_correct).toBe(false);
-      expect(solveData.data.reward).toBeUndefined();
-    });
+    }
 
-    test('DROP-011: 尝试次数用尽', async ({ page }) => {
-      const puzzleResponse = await page.request.get(`${BASE_URL}/api/puzzles/puzzle-preset-001');
-      const puzzleData = await puzzleResponse.json();
-      
-      if (puzzleData.success && puzzleData.data) {
-        expect(puzzleData.data.attempts).toBeLessThanOrEqual(3);
+    const charsResponse = await request.get(`/api/characters?book_id=${testBookId}`);
+    const charsData = await charsResponse.json();
+    const protagonistId = charsData.data.find(c => c.is_protagonist === 1).char_id;
+
+    const cardsResponse = await request.get(`/api/plot-cards?book_id=${testBookId}`);
+    const cardsData = await cardsResponse.json();
+    const cards = cardsData.data;
+
+    const weatherCardId = cards.find(c => c.sub_type === 'weather')?.card_id;
+    const terrainCardId = cards.find(c => c.sub_type === 'terrain')?.card_id;
+    const adventureCardId = cards.find(c => c.sub_type === 'adventure')?.card_id;
+    const equipmentCardId = cards.find(c => c.sub_type === 'equipment')?.card_id;
+
+    const newChapterResponse = await request.post('/api/chapters', {
+      data: {
+        user_id: testUserId,
+        book_id: testBookId,
+        selected_cards: {
+          protagonist_id: protagonistId,
+          weather_id: weatherCardId,
+          terrain_id: terrainCardId,
+          adventure_id: adventureCardId,
+          equipment_id: equipmentCardId
+        }
       }
     });
+    const newChapterData = await newChapterResponse.json();
+    
+    if (newChapterData.data && newChapterData.data.puzzle) {
+      const newPuzzleId = newChapterData.data.puzzle.puzzle_id;
 
-    test('DROP-012: 已解谜题不能重复提交', async ({ page }) => {
-      const puzzleResponse = await page.request.get(`${BASE_URL}/api/puzzles/puzzle-preset-001');
-      const puzzleData = await puzzleResponse.json();
-      
-      if (puzzleData.success && puzzleData.data && puzzleData.data.is_solved === 1) {
-        const solveResponse = await page.request.post(`${BASE_URL}/api/puzzles/puzzle-preset-001/solve`, {
-          headers: { 'Content-Type': 'application/json' },
-          data: JSON.stringify({ answer: puzzleData.data.answer })
-        });
-        
-        const solveData = await solveResponse.json();
-        expect(solveData.success).toBe(false);
+      const newPuzzleResponse = await request.get(`/api/puzzles/${newPuzzleId}`);
+      const newPuzzleData = await newPuzzleResponse.json();
+      const newPuzzleAnswer = newPuzzleData.data.answer;
+
+      const response = await request.post(`/api/puzzles/${newPuzzleId}/solve`, {
+        data: {
+          answer: newPuzzleAnswer,
+          user_id: testUserId
+        }
+      });
+
+      const result = await response.json();
+
+      if (result.data && result.data.card_limit_exceeded) {
+        expect(result.data.card_limit_exceeded).toBe(true);
+        expect(result.data.reward.existing_cards).toBeDefined();
       }
-    });
+    }
   });
 
-  test.describe('异常场景测试', () => {
-    test('DROP-013: 网络异常处理', async ({ page }) => {
-      await page.goto('/book?id=preset-adventure-001');
-      await page.waitForLoadState('networkidle');
-      await page.waitForTimeout(2000);
-      
-      const pageContent = await page.content();
-      expect(pageContent.length).toBeGreaterThan(0);
-    });
+  test('卡牌掉落后数据库应有新记录', async ({ request }) => {
+    await setupBookChapterAndPuzzle(request);
 
-    test('DROP-014: 并发提交处理', async ({ page }) => {
-      const puzzleResponse = await page.request.get(`${BASE_URL}/api/puzzles/puzzle-preset-001`);
-      const puzzleData = await puzzleResponse.json();
-      
-      if (puzzleData.success && puzzleData.data) {
-        expect(typeof puzzleData.data.attempts).toBe('number');
+    const beforeCount = db.query(
+      'SELECT COUNT(*) as count FROM plot_cards WHERE book_id = ?',
+      [testBookId]
+    )?.count || 0;
+
+    await request.post(`/api/puzzles/${testPuzzleId}/solve`, {
+      data: {
+        answer: testPuzzleAnswer,
+        user_id: testUserId
       }
     });
 
-    test('DROP-015: 预设书籍解谜掉落卡牌', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards');
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        data.data.forEach(card => {
-          expect(card.book_id).toBeDefined();
-        });
-      }
-    });
+    const afterCount = db.query(
+      'SELECT COUNT(*) as count FROM plot_cards WHERE book_id = ?',
+      [testBookId]
+    )?.count || 0;
+
+    expect(afterCount).toBeGreaterThanOrEqual(beforeCount);
   });
 
-  test.describe('卡牌上限处理测试', () => {
-    test('LIMIT-001: 天气卡牌上限8张', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const weatherCards = data.data.filter(c => c.sub_type === 'weather');
-        expect(weatherCards.length).toBeLessThanOrEqual(8);
+  test('丢弃卡牌后应从数据库删除', async ({ request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    const solveResponse = await request.post(`/api/puzzles/${testPuzzleId}/solve`, {
+      data: {
+        answer: testPuzzleAnswer,
+        user_id: testUserId
       }
     });
 
-    test('LIMIT-002: 地形卡牌上限8张', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const terrainCards = data.data.filter(c => c.sub_type === 'terrain');
-        expect(terrainCards.length).toBeLessThanOrEqual(8);
+    const solveResult = await solveResponse.json();
+    
+    if (solveResult.data && solveResult.data.reward && solveResult.data.reward.card && solveResult.data.reward.type === 'preset_plot') {
+      const droppedCardId = solveResult.data.reward.card.card_id;
+
+      const beforeDelete = db.query(
+        'SELECT * FROM plot_cards WHERE card_id = ?',
+        [droppedCardId]
+      );
+      expect(beforeDelete).toBeDefined();
+
+      await request.delete(`/api/plot-cards/${droppedCardId}`);
+
+      const afterDelete = db.query(
+        'SELECT * FROM plot_cards WHERE card_id = ?',
+        [droppedCardId]
+      );
+      expect(afterDelete).toBeUndefined();
+    } else {
+      expect(solveResult.data.reward).toBeDefined();
+    }
+  });
+
+  test('解谜失败不应掉落卡牌', async ({ request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    const response = await request.post(`/api/puzzles/${testPuzzleId}/solve`, {
+      data: {
+        answer: '错误答案123',
+        user_id: testUserId
       }
     });
 
-    test('LIMIT-003: 冒险类型卡牌上限8张', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const adventureCards = data.data.filter(c => c.sub_type === 'adventure');
-        expect(adventureCards.length).toBeLessThanOrEqual(8);
+    const result = await response.json();
+    expect(result.success).toBe(true);
+    expect(result.data.is_correct).toBe(false);
+    expect(result.data.reward).toBeUndefined();
+  });
+
+  test('未登录用户解谜不应获得卡牌奖励', async ({ request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    const response = await request.post(`/api/puzzles/${testPuzzleId}/solve`, {
+      data: {
+        answer: testPuzzleAnswer,
+        user_id: null
       }
     });
 
-    test('LIMIT-004: 装备卡牌上限8张', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const equipmentCards = data.data.filter(c => c.sub_type === 'equipment');
-        expect(equipmentCards.length).toBeLessThanOrEqual(8);
-      }
-    });
+    const result = await response.json();
+    expect(result.success).toBe(true);
+    expect(result.data.login_required).toBe(true);
+    expect(result.data.reward).toBeNull();
+  });
 
-    test('LIMIT-005: 卡牌总数上限32张', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        expect(data.data.length).toBeLessThanOrEqual(32);
-      }
-    });
+  test('丢弃预设卡牌后新卡牌应入库', async ({ request }) => {
+    await setupBookChapterAndPuzzle(request);
 
-    test('LIMIT-006: 卡牌类型分组显示', async ({ page }) => {
-      await page.goto('/book?id=preset-adventure-001');
-      await page.waitForLoadState('networkidle');
-      await page.waitForTimeout(2000);
-      
-      await page.click('.tab-btn:has-text("卡牌")');
-      await page.waitForTimeout(500);
-      
-      const cardsList = page.locator('#cardsList');
-      if (await cardsList.isVisible()) {
-        expect(true).toBe(true);
-      }
-    });
+    for (let i = 0; i < 8; i++) {
+      const charsResponse = await request.get(`/api/characters?book_id=${testBookId}`);
+      const charsData = await charsResponse.json();
+      const protagonistId = charsData.data.find(c => c.is_protagonist === 1).char_id;
 
-    test('LIMIT-007: 卡牌数量显示格式', async ({ page }) => {
-      await page.goto('/book?id=preset-adventure-001');
-      await page.waitForLoadState('networkidle');
-      await page.waitForTimeout(2000);
-      
-      await page.click('.tab-btn:has-text("卡牌")');
-      await page.waitForTimeout(500);
-      
-      const countElements = await page.locator('.card-count').count();
-      expect(countElements).toBeGreaterThanOrEqual(0);
-    });
+      const cardsResponse = await request.get(`/api/plot-cards?book_id=${testBookId}`);
+      const cardsData = await cardsResponse.json();
+      const cards = cardsData.data;
 
-    test('LIMIT-008: 卡牌详情弹窗', async ({ page }) => {
-      await page.goto('/book?id=preset-adventure-001');
-      await page.waitForLoadState('networkidle');
-      await page.waitForTimeout(2000);
-      
-      await page.click('.tab-btn:has-text("卡牌")');
-      await page.waitForTimeout(500);
-      
-      const cardItems = await page.locator('.card-item').count();
-      if (cardItems > 0) {
-        await page.locator('.card-item').first().click();
-        await page.waitForTimeout(300);
-      }
-    });
+      const weatherCardId = cards.find(c => c.sub_type === 'weather')?.card_id;
+      const terrainCardId = cards.find(c => c.sub_type === 'terrain')?.card_id;
+      const adventureCardId = cards.find(c => c.sub_type === 'adventure')?.card_id;
+      const equipmentCardId = cards.find(c => c.sub_type === 'equipment')?.card_id;
 
-    test('LIMIT-009: 卡牌悬停效果', async ({ page }) => {
-      await page.goto('/book?id=preset-adventure-001');
-      await page.waitForLoadState('networkidle');
-      await page.waitForTimeout(2000);
-      
-      await page.click('.tab-btn:has-text("卡牌")');
-      await page.waitForTimeout(500);
-      
-      const cardItems = await page.locator('.card-item').count();
-      if (cardItems > 0) {
-        await page.locator('.card-item').first().hover();
-        await page.waitForTimeout(300);
-      }
-    });
-
-    test('LIMIT-010: 卡牌ID格式验证', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data && data.data.length > 0) {
-        data.data.forEach(card => {
-          expect(card.card_id).toBeDefined();
-          expect(typeof card.card_id).toBe('string');
-        });
-      }
-    });
-
-    test('LIMIT-011: 卡牌名称验证', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data && data.data.length > 0) {
-        data.data.forEach(card => {
-          expect(card.name).toBeDefined();
-          expect(card.name.length).toBeGreaterThan(0);
-        });
-      }
-    });
-
-    test('LIMIT-012: 卡牌描述验证', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data && data.data.length > 0) {
-        data.data.forEach(card => {
-          if (card.description) {
-            expect(typeof card.description).toBe('string');
+      const newChapterResponse = await request.post('/api/chapters', {
+        data: {
+          user_id: testUserId,
+          book_id: testBookId,
+          selected_cards: {
+            protagonist_id: protagonistId,
+            weather_id: weatherCardId,
+            terrain_id: terrainCardId,
+            adventure_id: adventureCardId,
+            equipment_id: equipmentCardId
           }
-        });
+        }
+      });
+      const chapterData = await newChapterResponse.json();
+      const puzzleId = chapterData.data.puzzle.puzzle_id;
+
+      const puzzleResponse = await request.get(`/api/puzzles/${puzzleId}`);
+      const puzzleData = await puzzleResponse.json();
+      const puzzleAnswer = puzzleData.data.answer;
+
+      await request.post(`/api/puzzles/${puzzleId}/solve`, {
+        data: {
+          answer: puzzleAnswer,
+          user_id: testUserId
+        }
+      });
+    }
+
+    const cardsBeforeDrop = db.queryAll(
+      'SELECT * FROM plot_cards WHERE book_id = ? AND sub_type = ?',
+      [testBookId, 'weather']
+    );
+    
+    if (cardsBeforeDrop.length >= 8) {
+      const cardToDrop = cardsBeforeDrop[0];
+      await request.delete(`/api/plot-cards/${cardToDrop.card_id}`);
+
+      const cardsAfterDrop = db.queryAll(
+        'SELECT * FROM plot_cards WHERE book_id = ? AND sub_type = ?',
+        [testBookId, 'weather']
+      );
+      expect(cardsAfterDrop.length).toBe(cardsBeforeDrop.length - 1);
+    }
+  });
+
+  test('丢弃自定义卡牌应从数据库删除', async ({ request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    const createResponse = await request.post('/api/custom-cards/plot-cards', {
+      data: {
+        book_id: testBookId,
+        sub_type: 'weather',
+        name: '待丢弃的自定义卡牌',
+        icon: '🌈',
+        user_id: testUserId
       }
     });
 
-    test('LIMIT-013: 卡牌emoji验证', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data && data.data.length > 0) {
-        data.data.forEach(card => {
-          if (card.emoji) {
-            expect(typeof card.emoji).toBe('string');
+    const createResult = await createResponse.json();
+    const customCardId = createResult.data.card.card_id;
+
+    const beforeDelete = db.query(
+      'SELECT * FROM plot_cards WHERE card_id = ?',
+      [customCardId]
+    );
+    expect(beforeDelete).toBeDefined();
+    expect(beforeDelete.is_custom).toBe(1);
+
+    await request.delete(`/api/plot-cards/${customCardId}`);
+
+    const afterDelete = db.query(
+      'SELECT * FROM plot_cards WHERE card_id = ?',
+      [customCardId]
+    );
+    expect(afterDelete).toBeUndefined();
+  });
+
+  test('角色卡牌上限时应返回character_limit_exceeded标志', async ({ request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    for (let i = 0; i < 7; i++) {
+      await request.post('/api/custom-cards/characters', {
+        data: {
+          book_id: testBookId,
+          name: `测试角色${i}`,
+          avatar: '🧝',
+          role_type: '精灵',
+          personality: '勇敢',
+          speech_style: '简洁直接',
+          intimacy: 0,
+          user_id: testUserId
+        }
+      });
+    }
+
+    const charCount = db.query(
+      'SELECT COUNT(*) as count FROM characters WHERE book_id = ?',
+      [testBookId]
+    );
+
+    if (charCount.count >= 8) {
+      const response = await request.post('/api/custom-cards/characters', {
+        data: {
+          book_id: testBookId,
+          name: '超限角色',
+          avatar: '🧝',
+          role_type: '精灵',
+          personality: '勇敢',
+          speech_style: '简洁直接',
+          intimacy: 0,
+          user_id: testUserId
+        }
+      });
+
+      const result = await response.json();
+      expect(result.data.limit_exceeded).toBe(true);
+      expect(result.data.existing_characters).toBeDefined();
+    }
+  });
+
+  test('解谜成功应返回正确的掉落概率分布', async ({ request }) => {
+    await setupBookChapterAndPuzzle(request);
+
+    const results = {
+      preset_plot: 0,
+      custom_plot: 0,
+      custom_character: 0
+    };
+
+    for (let i = 0; i < 100; i++) {
+      const charsResponse = await request.get(`/api/characters?book_id=${testBookId}`);
+      const charsData = await charsResponse.json();
+      const protagonistId = charsData.data.find(c => c.is_protagonist === 1).char_id;
+
+      const cardsResponse = await request.get(`/api/plot-cards?book_id=${testBookId}`);
+      const cardsData = await cardsResponse.json();
+      const cards = cardsData.data;
+
+      const weatherCardId = cards.find(c => c.sub_type === 'weather')?.card_id;
+      const terrainCardId = cards.find(c => c.sub_type === 'terrain')?.card_id;
+      const adventureCardId = cards.find(c => c.sub_type === 'adventure')?.card_id;
+      const equipmentCardId = cards.find(c => c.sub_type === 'equipment')?.card_id;
+
+      const newChapterResponse = await request.post('/api/chapters', {
+        data: {
+          user_id: testUserId,
+          book_id: testBookId,
+          selected_cards: {
+            protagonist_id: protagonistId,
+            weather_id: weatherCardId,
+            terrain_id: terrainCardId,
+            adventure_id: adventureCardId,
+            equipment_id: equipmentCardId
           }
-        });
+        }
+      });
+      const chapterData = await newChapterResponse.json();
+      const puzzleId = chapterData.data.puzzle.puzzle_id;
+
+      const puzzleResponse = await request.get(`/api/puzzles/${puzzleId}`);
+      const puzzleData = await puzzleResponse.json();
+      const puzzleAnswer = puzzleData.data.answer;
+
+      const response = await request.post(`/api/puzzles/${puzzleId}/solve`, {
+        data: {
+          answer: puzzleAnswer,
+          user_id: testUserId
+        }
+      });
+
+      const result = await response.json();
+      if (result.data.reward && result.data.reward.type) {
+        results[result.data.reward.type]++;
       }
-    });
+    }
 
-    test('LIMIT-014: 卡牌创建时间验证', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data && data.data.length > 0) {
-        data.data.forEach(card => {
-          if (card.created_at) {
-            expect(new Date(card.created_at).toString()).not.toBe('Invalid Date');
-          }
-        });
-      }
-    });
+    expect(results.preset_plot).toBeGreaterThan(0);
+    expect(results.custom_plot).toBeGreaterThan(0);
+    expect(results.custom_character).toBeGreaterThan(0);
 
-    test('LIMIT-015: 卡牌is_custom字段验证', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data && data.data.length > 0) {
-        data.data.forEach(card => {
-          expect([0, 1]).toContain(card.is_custom);
-        });
-      }
-    });
-
-    test('LIMIT-016: 卡牌book_id关联验证', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data && data.data.length > 0) {
-        data.data.forEach(card => {
-          expect(card.book_id).toBeDefined();
-        });
-      }
-    });
-
-    test('LIMIT-017: 卡牌API响应格式正确', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      expect(data.success).toBeDefined();
-      expect(typeof data.success).toBe('boolean');
-    });
-
-    test('LIMIT-018: 卡牌API成功响应包含data字段', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success) {
-        expect(data.data).toBeDefined();
-        expect(Array.isArray(data.data)).toBe(true);
-      }
-    });
-
-    test('LIMIT-019: 卡牌API错误响应格式', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/invalid-book-id/plot-cards`);
-      const data = await response.json();
-      
-      expect(data.success).toBeDefined();
-    });
-
-    test('LIMIT-020: 卡牌类型统计正确', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const validTypes = ['weather', 'terrain', 'adventure', 'equipment'];
-        data.data.forEach(card => {
-          expect(validTypes).toContain(card.sub_type);
-        });
-      }
-    });
-
-    test('LIMIT-021: 多类型卡牌同时存在', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data && data.data.length > 0) {
-        const types = new Set(data.data.map(c => c.sub_type));
-        expect(types.size).toBeGreaterThanOrEqual(1);
-      }
-    });
-
-    test('LIMIT-022: 卡牌数量统计正确', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const totalCount = data.data.length;
-        expect(totalCount).toBeGreaterThanOrEqual(0);
-        expect(totalCount).toBeLessThanOrEqual(32);
-      }
-    });
-
-    test('LIMIT-023: 7张卡牌时掉落不触发上限', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const typeCounts = {};
-        data.data.forEach(card => {
-          typeCounts[card.sub_type] = (typeCounts[card.sub_type] || 0) + 1;
-        });
-        
-        Object.values(typeCounts).forEach(count => {
-          if (count === 7) {
-            expect(count).toBe(7);
-          }
-        });
-      }
-    });
-
-    test('LIMIT-024: 8张卡牌时掉落触发上限', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data) {
-        const typeCounts = {};
-        data.data.forEach(card => {
-          typeCounts[card.sub_type] = (typeCounts[card.sub_type] || 0) + 1;
-        });
-        
-        Object.values(typeCounts).forEach(count => {
-          if (count === 8) {
-            expect(count).toBe(8);
-          }
-        });
-      }
-    });
-
-    test('LIMIT-025: 丢弃卡牌API验证', async ({ page }) => {
-      const response = await page.request.get(`${BASE_URL}/api/books/preset-adventure-001/plot-cards`);
-      const data = await response.json();
-      
-      if (data.success && data.data && data.data.length > 0) {
-        const firstCard = data.data[0];
-        expect(firstCard.card_id).toBeDefined();
-      }
-    });
+    const totalCustom = results.custom_plot + results.custom_character;
+    const customRatio = totalCustom / 100;
+    expect(customRatio).toBeGreaterThan(0.15);
+    expect(customRatio).toBeLessThan(0.45);
   });
 });

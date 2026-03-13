@@ -43,6 +43,18 @@ function renderBooks(books) {
   const grid = document.getElementById('booksGrid');
   grid.innerHTML = '';
   
+  if (!books || books.length === 0) {
+    grid.innerHTML = `
+      <div class="empty-library">
+        <div class="empty-icon">📚</div>
+        <h3 class="empty-title">The Library is Empty</h3>
+        <p class="empty-message">No preset stories are available yet. Please check back later or contact the administrator.</p>
+        <p class="empty-hint">If you are the developer, please run: <code>npx wrangler d1 execute storybook_database --local --file=./migrations/0002_seed_data.sql</code></p>
+      </div>
+    `;
+    return;
+  }
+  
   books.forEach((book, index) => {
     const card = createBookCard(book, index);
     grid.appendChild(card);

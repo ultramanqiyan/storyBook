@@ -1,0 +1,176 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: index.html
+    - generic [ref=e4]:
+      - link "Public Library" [ref=e5] [cursor=pointer]:
+        - /url: library.html
+      - generic [ref=e6]:
+        - generic [ref=e7]: 🧙‍♂️
+        - generic [ref=e8]: journey_1773379948875
+      - link "Sign Out" [ref=e9] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=e10]:
+    - generic [ref=e11]:
+      - heading "My Library" [level=1] [ref=e12]
+      - link "Create New Story" [ref=e13] [cursor=pointer]:
+        - /url: book-create.html
+    - generic [ref=e14]:
+      - button "All Stories" [ref=e15] [cursor=pointer]
+      - button "🗺️ Adventure" [ref=e16] [cursor=pointer]
+      - button "🧙 Fantasy" [ref=e17] [cursor=pointer]
+      - button "💕 Romance" [ref=e18] [cursor=pointer]
+      - button "💼 Business" [ref=e19] [cursor=pointer]
+    - generic [ref=e20]:
+      - heading "My Creations (4 stories)" [level=2] [ref=e21]:
+        - generic [ref=e22]: My Creations
+        - generic [ref=e23]: (4 stories)
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - generic [ref=e26] [cursor=pointer]:
+            - generic [ref=e28]: 🗺️
+            - generic [ref=e29]: Journey Book 1773379948875
+            - generic [ref=e30]: adventure
+          - generic [ref=e31]:
+            - heading "Journey Book 1773379948875" [level=4] [ref=e32]
+            - paragraph [ref=e33]: 0 chapters
+        - generic [ref=e35]:
+          - generic [ref=e36] [cursor=pointer]:
+            - generic [ref=e38]: 🗺️
+            - generic [ref=e39]: 小明的奇幻冒险
+            - generic [ref=e40]: adventure
+          - generic [ref=e41]:
+            - heading "小明的奇幻冒险" [level=4] [ref=e42]
+            - paragraph [ref=e43]: 10 chapters
+        - generic [ref=e45]:
+          - generic [ref=e46] [cursor=pointer]:
+            - generic [ref=e48]: 🗺️
+            - generic [ref=e49]: 小勇的丛林探险
+            - generic [ref=e50]: adventure
+          - generic [ref=e51]:
+            - heading "小勇的丛林探险" [level=4] [ref=e52]
+            - paragraph [ref=e53]: 10 chapters
+        - generic [ref=e55]:
+          - generic [ref=e56] [cursor=pointer]:
+            - generic [ref=e58]: 🧙
+            - generic [ref=e59]: 魔法学院传说
+            - generic [ref=e60]: fantasy
+          - generic [ref=e61]:
+            - heading "魔法学院传说" [level=4] [ref=e62]
+            - paragraph [ref=e63]: 10 chapters
+        - generic [ref=e65]:
+          - generic [ref=e66] [cursor=pointer]:
+            - generic [ref=e68]: 🧙
+            - generic [ref=e69]: 龙之谷秘闻
+            - generic [ref=e70]: fantasy
+          - generic [ref=e71]:
+            - heading "龙之谷秘闻" [level=4] [ref=e72]
+            - paragraph [ref=e73]: 10 chapters
+        - generic [ref=e75]:
+          - generic [ref=e76] [cursor=pointer]:
+            - generic [ref=e78]: 💕
+            - generic [ref=e79]: 都市恋曲
+            - generic [ref=e80]: romance
+          - generic [ref=e81]:
+            - heading "都市恋曲" [level=4] [ref=e82]
+            - paragraph [ref=e83]: 10 chapters
+        - generic [ref=e85]:
+          - generic [ref=e86] [cursor=pointer]:
+            - generic [ref=e88]: 💕
+            - generic [ref=e89]: 咖啡馆的邂逅
+            - generic [ref=e90]: romance
+          - generic [ref=e91]:
+            - heading "咖啡馆的邂逅" [level=4] [ref=e92]
+            - paragraph [ref=e93]: 10 chapters
+        - generic [ref=e95]:
+          - generic [ref=e96] [cursor=pointer]:
+            - generic [ref=e98]: 💼
+            - generic [ref=e99]: 职场风云录
+            - generic [ref=e100]: business
+          - generic [ref=e101]:
+            - heading "职场风云录" [level=4] [ref=e102]
+            - paragraph [ref=e103]: 10 chapters
+        - generic [ref=e105]:
+          - generic [ref=e106] [cursor=pointer]:
+            - generic [ref=e108]: 💼
+            - generic [ref=e109]: 创业路上的我们
+            - generic [ref=e110]: business
+          - generic [ref=e111]:
+            - heading "创业路上的我们" [level=4] [ref=e112]
+            - paragraph [ref=e113]: 10 chapters
+        - generic [ref=e116] [cursor=pointer]:
+          - generic [ref=e117]: +
+          - generic [ref=e118]: Create New Story
+    - generic [ref=e119]:
+      - heading "Preset Stories (8 stories)" [level=2] [ref=e120]:
+        - generic [ref=e121]: Preset Stories
+        - generic [ref=e122]: (8 stories)
+      - generic [ref=e123]:
+        - generic [ref=e124]:
+          - generic [ref=e125] [cursor=pointer]:
+            - generic [ref=e127]: 🗺️
+            - generic [ref=e128]: 小明的奇幻冒险
+            - generic [ref=e129]: adventure
+          - generic [ref=e130]:
+            - heading "小明的奇幻冒险" [level=4] [ref=e131]
+            - paragraph [ref=e132]: 0 chapters
+        - generic [ref=e134]:
+          - generic [ref=e135] [cursor=pointer]:
+            - generic [ref=e137]: 🗺️
+            - generic [ref=e138]: 小勇的丛林探险
+            - generic [ref=e139]: adventure
+          - generic [ref=e140]:
+            - heading "小勇的丛林探险" [level=4] [ref=e141]
+            - paragraph [ref=e142]: 0 chapters
+        - generic [ref=e144]:
+          - generic [ref=e145] [cursor=pointer]:
+            - generic [ref=e147]: 🧙
+            - generic [ref=e148]: 魔法学院传说
+            - generic [ref=e149]: fantasy
+          - generic [ref=e150]:
+            - heading "魔法学院传说" [level=4] [ref=e151]
+            - paragraph [ref=e152]: 0 chapters
+        - generic [ref=e154]:
+          - generic [ref=e155] [cursor=pointer]:
+            - generic [ref=e157]: 🧙
+            - generic [ref=e158]: 龙之谷秘闻
+            - generic [ref=e159]: fantasy
+          - generic [ref=e160]:
+            - heading "龙之谷秘闻" [level=4] [ref=e161]
+            - paragraph [ref=e162]: 0 chapters
+        - generic [ref=e164]:
+          - generic [ref=e165] [cursor=pointer]:
+            - generic [ref=e167]: 💕
+            - generic [ref=e168]: 都市恋曲
+            - generic [ref=e169]: romance
+          - generic [ref=e170]:
+            - heading "都市恋曲" [level=4] [ref=e171]
+            - paragraph [ref=e172]: 0 chapters
+        - generic [ref=e174]:
+          - generic [ref=e175] [cursor=pointer]:
+            - generic [ref=e177]: 💕
+            - generic [ref=e178]: 咖啡馆的邂逅
+            - generic [ref=e179]: romance
+          - generic [ref=e180]:
+            - heading "咖啡馆的邂逅" [level=4] [ref=e181]
+            - paragraph [ref=e182]: 0 chapters
+        - generic [ref=e184]:
+          - generic [ref=e185] [cursor=pointer]:
+            - generic [ref=e187]: 💼
+            - generic [ref=e188]: 职场风云录
+            - generic [ref=e189]: business
+          - generic [ref=e190]:
+            - heading "职场风云录" [level=4] [ref=e191]
+            - paragraph [ref=e192]: 0 chapters
+        - generic [ref=e194]:
+          - generic [ref=e195] [cursor=pointer]:
+            - generic [ref=e197]: 💼
+            - generic [ref=e198]: 创业路上的我们
+            - generic [ref=e199]: business
+          - generic [ref=e200]:
+            - heading "创业路上的我们" [level=4] [ref=e201]
+            - paragraph [ref=e202]: 0 chapters
+```
