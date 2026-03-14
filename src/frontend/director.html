@@ -3,7 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Story Director - StoryBook</title>
+  <title data-i18n="meta.directorTitle">Story Director - StoryBook</title>
+  <meta name="description" content="Select your cards and create a new chapter in StoryBook.">
+  <meta name="keywords" content="StoryBook, story director, create chapter, cards">
+  <link rel="alternate" hreflang="en" href="director.html">
+  <link rel="alternate" hreflang="zh" href="director.html?lang=zh">
+  <meta property="og:title" content="Story Director - StoryBook">
+  <meta property="og:description" content="Select your cards and create a new chapter.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
   <link rel="stylesheet" href="css/variables.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/animations.css">
@@ -586,27 +595,31 @@
   <div class="particles-container" id="particles"></div>
   
   <nav class="navbar">
-    <a href="book.html" class="navbar-brand">← The Lost Kingdom</a>
+    <a href="book.html" class="navbar-brand">← <span data-i18n="director.backToBook">The Lost Kingdom</span></a>
     <div class="navbar-nav">
-      <a href="bookshelf.html" class="navbar-link">Library</a>
+      <a href="bookshelf.html" class="navbar-link" data-i18n="nav.library">Library</a>
+      <div class="navbar-language">
+        <button class="lang-btn active" onclick="switchLanguage('en')">EN</button>
+        <button class="lang-btn" onclick="switchLanguage('zh')">中文</button>
+      </div>
     </div>
   </nav>
   
   <div class="director-page">
     <div class="director-header">
-      <h1>🎭 Story Director</h1>
-      <p>Select your cards and create a new chapter</p>
+      <h1>🎭 <span data-i18n="director.title">Story Director</span></h1>
+      <p data-i18n="director.subtitle">Select your cards and create a new chapter</p>
     </div>
     
     <div class="three-column-layout">
       <!-- Left Panel -->
       <div class="left-panel">
         <div class="card-section">
-          <div class="section-header character">👥 Characters (Protagonist required, up to 3 supporting)</div>
+          <div class="section-header character">👥 <span data-i18n="director.characters">Characters</span> (<span data-i18n="director.protagonistRequired">Protagonist required, up to 3 supporting</span>)</div>
           <div class="fan-container" id="characterFan"></div>
         </div>
         <div class="card-section">
-          <div class="section-header adventure">🗺️ Adventure (Required)</div>
+          <div class="section-header adventure">🗺️ <span data-i18n="cardType.adventure">Adventure</span> (<span data-i18n="common.required">Required</span>)</div>
           <div class="fan-container" id="adventureFan"></div>
         </div>
       </div>
@@ -628,49 +641,49 @@
             <div class="rainbow" id="rainbow" style="display: none;"></div>
             <div class="starry" id="starry" style="display: none;"></div>
           </div>
-          <div class="stage-title">🎭 Stage Preview</div>
+          <div class="stage-title">🎭 <span data-i18n="director.stagePreview">Stage Preview</span></div>
           <div class="stage-grid">
             <div class="stage-slot required" data-slot="protagonist">
-              <span class="slot-label">Protagonist</span>
-              <span class="slot-required">(Required)</span>
+              <span class="slot-label" data-i18n="director.protagonist">Protagonist</span>
+              <span class="slot-required">(<span data-i18n="common.required">Required</span>)</span>
             </div>
             <div class="stage-slot" data-slot="supporting1">
-              <span class="slot-label">Supporting 1</span>
-              <span class="slot-optional">(Optional)</span>
+              <span class="slot-label" data-i18n="director.supporting1">Supporting 1</span>
+              <span class="slot-optional">(<span data-i18n="common.optional">Optional</span>)</span>
             </div>
             <div class="stage-slot" data-slot="supporting2">
-              <span class="slot-label">Supporting 2</span>
-              <span class="slot-optional">(Optional)</span>
+              <span class="slot-label" data-i18n="director.supporting2">Supporting 2</span>
+              <span class="slot-optional">(<span data-i18n="common.optional">Optional</span>)</span>
             </div>
             <div class="stage-slot" data-slot="supporting3">
-              <span class="slot-label">Supporting 3</span>
-              <span class="slot-optional">(Optional)</span>
+              <span class="slot-label" data-i18n="director.supporting3">Supporting 3</span>
+              <span class="slot-optional">(<span data-i18n="common.optional">Optional</span>)</span>
             </div>
             <div class="stage-slot required" data-slot="adventure">
-              <span class="slot-label">Adventure</span>
-              <span class="slot-required">(Required)</span>
+              <span class="slot-label" data-i18n="cardType.adventure">Adventure</span>
+              <span class="slot-required">(<span data-i18n="common.required">Required</span>)</span>
             </div>
             <div class="stage-slot required" data-slot="weather">
-              <span class="slot-label">Weather</span>
-              <span class="slot-required">(Required)</span>
+              <span class="slot-label" data-i18n="cardType.weather">Weather</span>
+              <span class="slot-required">(<span data-i18n="common.required">Required</span>)</span>
             </div>
             <div class="stage-slot required" data-slot="terrain">
-              <span class="slot-label">Terrain</span>
-              <span class="slot-required">(Required)</span>
+              <span class="slot-label" data-i18n="cardType.terrain">Terrain</span>
+              <span class="slot-required">(<span data-i18n="common.required">Required</span>)</span>
             </div>
             <div class="stage-slot" data-slot="equipment">
-              <span class="slot-label">Equipment</span>
-              <span class="slot-optional">(Optional)</span>
+              <span class="slot-label" data-i18n="cardType.equipment">Equipment</span>
+              <span class="slot-optional">(<span data-i18n="common.optional">Optional</span>)</span>
             </div>
           </div>
         </div>
         
         <div class="action-area">
           <div class="selection-status">
-            Selected: <span id="selectedCount">0</span> / 5 required items
+            <span data-i18n="director.selected">Selected</span>: <span id="selectedCount">0</span> / 5 <span data-i18n="director.requiredItems">required items</span>
           </div>
           <button class="hearthstone-btn" id="startBtn" onclick="startProduction()" disabled>
-            🎬 Start Production
+            🎬 <span data-i18n="director.startProduction">Start Production</span>
           </button>
         </div>
       </div>
@@ -678,15 +691,15 @@
       <!-- Right Panel -->
       <div class="right-panel">
         <div class="card-section">
-          <div class="section-header terrain">🏔️ Terrain (Required)</div>
+          <div class="section-header terrain">🏔️ <span data-i18n="cardType.terrain">Terrain</span> (<span data-i18n="common.required">Required</span>)</div>
           <div class="fan-container" id="terrainFan"></div>
         </div>
         <div class="card-section">
-          <div class="section-header weather">🌤️ Weather (Required)</div>
+          <div class="section-header weather">🌤️ <span data-i18n="cardType.weather">Weather</span> (<span data-i18n="common.required">Required</span>)</div>
           <div class="fan-container" id="weatherFan"></div>
         </div>
         <div class="card-section">
-          <div class="section-header equipment">🎒 Equipment (Optional)</div>
+          <div class="section-header equipment">🎒 <span data-i18n="cardType.equipment">Equipment</span> (<span data-i18n="common.optional">Optional</span>)</div>
           <div class="fan-container" id="equipmentFan"></div>
         </div>
       </div>
@@ -695,7 +708,7 @@
   
   <div class="loading-overlay" id="loadingOverlay">
     <div class="loading-spinner"></div>
-    <div class="loading-text">Creating Your Story...</div>
+    <div class="loading-text" data-i18n="director.creatingStory">Creating Your Story...</div>
   </div>
   
   <script src="js/api.js"></script>
@@ -754,7 +767,7 @@
         
         renderAllFanCards();
       } catch (error) {
-        showNotification('Failed to load director data: ' + error.message, 'error');
+        showNotification(t('errors.loadDirectorFailed') + ': ' + error.message, 'error');
       }
     }
     
@@ -763,7 +776,7 @@
       
       const count = cards.length;
       if (count === 0) {
-        container.innerHTML = '<div style="text-align: center; color: var(--color-text-muted); font-size: 12px; padding: 20px;">No cards available</div>';
+        container.innerHTML = `<div style="text-align: center; color: var(--color-text-muted); font-size: 12px; padding: 20px;">${t('director.noCardsAvailable')}</div>`;
         return;
       }
       
@@ -819,31 +832,31 @@
       if (type === 'protagonist') {
         if (selections.protagonist && selections.protagonist.char_id === cardId) {
           selections.protagonist = null;
-          showNotification('Deselected: ' + card.name, 'info');
+          showNotification(t('director.deselected') + ': ' + card.name, 'info');
         } else {
           selections.protagonist = card;
-          showNotification('Selected: ' + card.name, 'success');
+          showNotification(t('director.selected') + ': ' + card.name, 'success');
         }
       } else if (type === 'supporting') {
         const idx = selections.supporting.findIndex(c => c.char_id === cardId);
         if (idx > -1) {
           selections.supporting.splice(idx, 1);
-          showNotification('Deselected: ' + card.name, 'info');
+          showNotification(t('director.deselected') + ': ' + card.name, 'info');
         } else if (selections.supporting.length < 3) {
           selections.supporting.push(card);
-          showNotification('Selected: ' + card.name, 'success');
+          showNotification(t('director.selected') + ': ' + card.name, 'success');
         } else {
-          showNotification('Maximum 3 supporting characters', 'error');
+          showNotification(t('director.maxSupportingCharacters'), 'error');
           return;
         }
       } else if (type === 'adventure' || type === 'terrain' || type === 'weather' || type === 'equipment') {
         if (selections[type] && (selections[type].card_id || selections[type].char_id) === cardId) {
           selections[type] = null;
-          showNotification('Deselected: ' + card.name, 'info');
+          showNotification(t('director.deselected') + ': ' + card.name, 'info');
           if (type === 'weather') clearWeatherEffect();
         } else {
           selections[type] = card;
-          showNotification('Selected: ' + card.name, 'success');
+          showNotification(t('director.selected') + ': ' + card.name, 'success');
           if (type === 'weather' && card.effect) {
             triggerWeatherEffect(card.effect);
           }
@@ -875,7 +888,7 @@
         `;
       } else {
         slots.protagonist.classList.remove('filled');
-        slots.protagonist.innerHTML = '<span class="slot-label">Protagonist</span><span class="slot-required">(Required)</span>';
+        slots.protagonist.innerHTML = `<span class="slot-label">${t('director.protagonist')}</span><span class="slot-required">(${t('common.required')})</span>`;
       }
       
       for (let i = 0; i < 3; i++) {
@@ -889,7 +902,7 @@
           `;
         } else {
           slot.classList.remove('filled');
-          slot.innerHTML = '<span class="slot-label">Supporting ' + (i + 1) + '</span><span class="slot-optional">(Optional)</span>';
+          slot.innerHTML = `<span class="slot-label">${t('director.supporting')} ${i + 1}</span><span class="slot-optional">(${t('common.optional')})</span>`;
         }
       }
       
@@ -897,10 +910,10 @@
         const slot = slots[type];
         const card = selections[type];
         const labels = {
-          adventure: 'Adventure',
-          weather: 'Weather',
-          terrain: 'Terrain',
-          equipment: 'Equipment'
+          adventure: t('cardType.adventure'),
+          weather: t('cardType.weather'),
+          terrain: t('cardType.terrain'),
+          equipment: t('cardType.equipment')
         };
         const isRequired = type !== 'equipment';
         
@@ -912,7 +925,7 @@
           `;
         } else {
           slot.classList.remove('filled');
-          slot.innerHTML = '<span class="slot-label">' + labels[type] + '</span><span class="' + (isRequired ? 'slot-required' : 'slot-optional') + '">(' + (isRequired ? 'Required' : 'Optional') + ')</span>';
+          slot.innerHTML = `<span class="slot-label">${labels[type]}</span><span class="${isRequired ? 'slot-required' : 'slot-optional'}">(${isRequired ? t('common.required') : t('common.optional')})</span>`;
         }
       });
     }
@@ -1032,19 +1045,19 @@
     
     async function startProduction() {
       if (!selections.protagonist) {
-        showNotification('Please select a protagonist', 'error');
+        showNotification(t('director.selectProtagonist'), 'error');
         return;
       }
       if (!selections.adventure) {
-        showNotification('Please select an adventure card', 'error');
+        showNotification(t('director.selectAdventure'), 'error');
         return;
       }
       if (!selections.weather) {
-        showNotification('Please select a weather card', 'error');
+        showNotification(t('director.selectWeather'), 'error');
         return;
       }
       if (!selections.terrain) {
-        showNotification('Please select a terrain card', 'error');
+        showNotification(t('director.selectTerrain'), 'error');
         return;
       }
       
@@ -1069,16 +1082,16 @@
         document.getElementById('loadingOverlay').classList.remove('active');
         
         if (result.success) {
-          showNotification('Chapter created successfully!', 'success');
+          showNotification(t('messages.chapterCreated'), 'success');
           setTimeout(() => {
             window.location.href = `chapter.html?id=${result.data.chapter.chapter_id}`;
           }, 1000);
         } else {
-          showNotification(result.error || 'Failed to create chapter', 'error');
+          showNotification(result.error || t('errors.createChapterFailed'), 'error');
         }
       } catch (error) {
         document.getElementById('loadingOverlay').classList.remove('active');
-        showNotification('Failed to create chapter: ' + error.message, 'error');
+        showNotification(t('errors.createChapterFailed') + ': ' + error.message, 'error');
       }
     }
   </script>

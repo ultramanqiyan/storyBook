@@ -1,0 +1,48 @@
+{
+  "adventure": [
+    "Little Explorer",
+    "Little Warrior",
+    "Little Wise One",
+    "Little Animal",
+    "Little Mage",
+    "Little Inventor",
+    "Little Detective",
+    "Little Captain"
+  ],
+  "fantasy": [
+    "Mage",
+    "Warrior",
+    "Ranger",
+    "Priest",
+    "Assassin",
+    "Druid",
+    "Warlock",
+    "Paladin",
+    "Wizard",
+    "Rogue"
+  ],
+  "romance": [
+    "Office Worker",
+    "Student",
+    "Artist",
+    "Doctor",
+    "Lawyer",
+    "Journalist",
+    "Designer",
+    "Programmer",
+    "Teacher",
+    "Entrepreneur"
+  ],
+  "business": [
+    "Manager",
+    "Specialist",
+    "Entrepreneur",
+    "Consultant",
+    "Director",
+    "Assistant",
+    "Sales",
+    "Engineer",
+    "Analyst",
+    "Supervisor"
+  ]
+}

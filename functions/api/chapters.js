@@ -296,19 +296,19 @@ export async function onRequestPost(context) {
     const { protagonist_id, supporting_ids, weather_id, terrain_id, adventure_id, equipment_id } = selected_cards || {};
 
     if (!user_id) {
-      return createErrorResponse('请先登录');
+      return createErrorResponse('PLEASE_LOGIN');
     }
 
     if (!book_id) {
-      return createErrorResponse('book_id不能为空');
+      return createErrorResponse('MISSING_BOOK_ID');
     }
 
     if (!protagonist_id) {
-      return createErrorResponse('必须选择主角');
+      return createErrorResponse('PROTAGONIST_REQUIRED');
     }
 
     if (!weather_id || !terrain_id || !adventure_id) {
-      return createErrorResponse('必须选择天气、地形和冒险类型卡牌');
+      return createErrorResponse('REQUIRED_CARDS_MISSING');
     }
 
     const book = await env.DB.prepare(
@@ -316,15 +316,15 @@ export async function onRequestPost(context) {
     ).bind(book_id).first();
 
     if (!book) {
-      return createErrorResponse('书籍不存在');
+      return createErrorResponse('BOOK_NOT_FOUND');
     }
 
     if (book.is_preset === 1) {
-      return createErrorResponse('预设书籍不能添加章节');
+      return createErrorResponse('PRESET_BOOK_NO_CHAPTERS');
     }
 
     if (book.user_id !== user_id) {
-      return createErrorResponse('没有权限操作此书籍');
+      return createErrorResponse('NO_PERMISSION');
     }
 
     const cardLimitInfo = [];

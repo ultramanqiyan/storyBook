@@ -397,8 +397,8 @@ export async function onRequestGet(context) {
   const userId = url.searchParams.get('user_id');
 
   if (!userId) {
-    return createErrorResponse('缺少user_id参数');
-  }
+      return createErrorResponse('MISSING_USER_ID');
+    }
 
   try {
     const results = await env.DB.prepare(
@@ -432,33 +432,33 @@ export async function onRequestPost(context) {
     const { user_id, title, type, protagonist, supporting_characters } = body;
 
     if (!user_id || !title || !type) {
-      return createErrorResponse('user_id、标题和类型不能为空');
+      return createErrorResponse('MISSING_REQUIRED_FIELDS');
     }
 
     if (!VALID_BOOK_TYPES.includes(type)) {
-      return createErrorResponse('无效的书籍类型，有效类型：adventure, fantasy, romance, business');
+      return createErrorResponse('INVALID_BOOK_TYPE');
     }
 
     if (!protagonist || !protagonist.name) {
-      return createErrorResponse('主角信息不能为空');
+      return createErrorResponse('PROTAGONIST_REQUIRED');
     }
 
     if (supporting_characters && supporting_characters.length > 3) {
-      return createErrorResponse('配角最多3个');
+      return createErrorResponse('MAX_THREE_SUPPORTING');
     }
 
     if (title.length > 50) {
-      return createErrorResponse('书籍名称不能超过50个字符');
+      return createErrorResponse('TITLE_TOO_LONG');
     }
 
     if (protagonist.name.length > 20) {
-      return createErrorResponse('主角名称不能超过20个字符');
+      return createErrorResponse('PROTAGONIST_NAME_TOO_LONG');
     }
 
     if (supporting_characters) {
       for (const companion of supporting_characters) {
         if (companion.name && companion.name.length > 20) {
-          return createErrorResponse('配角名称不能超过20个字符');
+          return createErrorResponse('SUPPORTING_NAME_TOO_LONG');
         }
       }
     }

@@ -207,19 +207,19 @@ export async function onRequestPost(context) {
     ).bind(puzzleId).first();
 
     if (!puzzle) {
-      return createErrorResponse('谜题不存在', 404);
+      return createErrorResponse('PUZZLE_NOT_FOUND', 404);
     }
 
     if (puzzle.is_solved === 1) {
       return createSuccessResponse({
         is_correct: true,
         is_solved: true,
-        message: '谜题已经解开了'
+        message: 'PUZZLE_ALREADY_SOLVED'
       });
     }
 
     if (!answer) {
-      return createErrorResponse('请提供答案');
+      return createErrorResponse('PLEASE_PROVIDE_ANSWER');
     }
 
     const isCorrect = puzzle.answer.toLowerCase().trim() === answer.toLowerCase().trim();
@@ -239,7 +239,7 @@ export async function onRequestPost(context) {
           is_correct: true,
           is_solved: true,
           attempts: newAttempts,
-          message: '恭喜！答案正确！登录后可以获得卡牌奖励哦~',
+          message: 'CORRECT_LOGIN_FOR_REWARD',
           login_required: true,
           reward: null
         });
@@ -270,14 +270,14 @@ export async function onRequestPost(context) {
                 character: customChar,
                 current_count: await getCharacterCount(env, book.book_id),
                 existing_characters: existingChars,
-                message: '触发自定义角色卡牌创建！但角色卡牌已达上限（8张），请选择丢弃一张。'
+                message: 'CHARACTER_LIMIT_REACHED'
               };
             } else {
               const customChar = generateCustomCharacterDrop(book.type);
               reward = {
                 type: 'custom_character',
                 character: customChar,
-                message: '触发自定义角色卡牌创建！'
+                message: 'CUSTOM_CHARACTER_TRIGGERED'
               };
             }
           } else if (rewardType === 'custom_plot') {
@@ -294,13 +294,13 @@ export async function onRequestPost(context) {
                 sub_type: customCard.sub_type,
                 current_count: await getCardCountByType(env, book.book_id, customCard.sub_type),
                 existing_cards: existingCards,
-                message: '触发自定义情节卡牌创建！但该类型卡牌已达上限（8张），请选择丢弃一张。'
+                message: 'CARD_LIMIT_REACHED'
               };
             } else {
               reward = {
                 type: 'custom_plot',
                 card: customCard,
-                message: '触发自定义情节卡牌创建！'
+                message: 'CUSTOM_PLOT_TRIGGERED'
               };
             }
           } else {
@@ -319,7 +319,8 @@ export async function onRequestPost(context) {
                   sub_type: droppedCard.sub_type,
                   current_count: await getCardCountByType(env, book.book_id, droppedCard.sub_type),
                   existing_cards: existingCards,
-                  message: `恭喜获得卡牌【${droppedCard.name}】！但该类型卡牌已达上限（8张），请选择丢弃一张。`
+                  message: 'CARD_LIMIT_REACHED',
+                  card_name: droppedCard.name
                 };
               } else {
                 await env.DB.prepare(
@@ -338,7 +339,8 @@ export async function onRequestPost(context) {
                 reward = {
                   type: 'preset_plot',
                   card: droppedCard,
-                  message: `恭喜获得卡牌【${droppedCard.name}】！`
+                  message: 'CARD_REWARD',
+                  card_name: droppedCard.name
                 };
               }
             }
@@ -350,7 +352,7 @@ export async function onRequestPost(context) {
         is_correct: true,
         is_solved: true,
         attempts: newAttempts,
-        message: '恭喜！答案正确！',
+        message: 'CORRECT_ANSWER',
         reward,
         card_limit_exceeded: cardLimitExceeded,
         character_limit_exceeded: characterLimitExceeded
@@ -366,7 +368,7 @@ export async function onRequestPost(context) {
           is_solved: false,
           attempts: newAttempts,
           max_attempts: puzzle.max_attempts,
-          message: '答案错误，已达到最大尝试次数'
+          message: 'WRONG_ANSWER_MAX_ATTEMPTS'
         });
       }
 
@@ -380,7 +382,8 @@ export async function onRequestPost(context) {
         attempts: newAttempts,
         max_attempts: puzzle.max_attempts,
         remaining_attempts: puzzle.max_attempts - newAttempts,
-        message: `答案错误，还有 ${puzzle.max_attempts - newAttempts} 次机会`
+        message: 'WRONG_ANSWER_RETRY',
+        remaining: puzzle.max_attempts - newAttempts
       });
     }
   } catch (error) {

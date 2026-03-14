@@ -3,7 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Library - StoryBook</title>
+  <title data-i18n="bookshelf.pageTitle">My Library - StoryBook</title>
+  <meta name="description" content="Your personal library of interactive stories">
+  <meta property="og:title" content="My Library - StoryBook">
+  <meta property="og:description" content="Your personal library of interactive stories">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook.com/bookshelf.html?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook.com/bookshelf.html?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook.com/bookshelf.html">
   <link rel="stylesheet" href="css/variables.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/animations.css">
@@ -292,6 +300,35 @@
     .delete-confirm-modal .btn-confirm-delete:hover {
       background: #b91c1c;
     }
+    
+    .navbar-language {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-right: var(--spacing-md);
+    }
+    
+    .navbar-language .lang-btn {
+      padding: 6px 12px;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 16px;
+      color: var(--color-text-muted);
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-size: 12px;
+    }
+    
+    .navbar-language .lang-btn:hover {
+      border-color: var(--color-gold);
+      color: var(--color-gold);
+    }
+    
+    .navbar-language .lang-btn.active {
+      background: var(--color-gold);
+      border-color: var(--color-gold);
+      color: #1a1a2e;
+    }
   </style>
 </head>
 <body class="theme-adventure">
@@ -300,7 +337,11 @@
   <nav class="navbar">
     <a href="index.html" class="navbar-brand" data-i18n="home.title">StoryBook</a>
     <div class="navbar-nav">
-      <a href="library.html" class="navbar-link">Public Library</a>
+      <div class="navbar-language">
+        <button class="lang-btn active" onclick="switchLanguage('en')">EN</button>
+        <button class="lang-btn" onclick="switchLanguage('zh')">中文</button>
+      </div>
+      <a href="library.html" class="navbar-link" data-i18n="nav.library">Public Library</a>
       <div class="user-info">
         <div class="user-avatar">🧙‍♂️</div>
         <span class="user-name">StoryTeller</span>
@@ -329,26 +370,26 @@
         <div class="book-item">
           <div class="add-book-card" onclick="window.location.href='book-create.html'">
             <span class="add-book-icon">+</span>
-            <span class="add-book-text" data-i18n="bookshelf.createNew">Create New</span>
+            <span class="add-book-text" data-i18n="bookshelf.createNewStory">Create New</span>
           </div>
         </div>
       </div>
     </div>
     
     <div class="books-section" style="text-align: center; padding: 40px;">
-      <p style="color: var(--color-text-muted); margin-bottom: 16px;">Looking for more stories?</p>
-      <a href="library.html" class="btn btn-secondary">Browse Public Library</a>
+      <p style="color: var(--color-text-muted); margin-bottom: 16px;" data-i18n="bookshelf.lookingForMore">Looking for more stories?</p>
+      <a href="library.html" class="btn btn-secondary" data-i18n="bookshelf.browseLibrary">Browse Public Library</a>
     </div>
   </div>
   
   <div id="deleteConfirmModal" class="delete-confirm-modal">
     <div class="modal-content">
-      <h3>⚠️ 确认删除</h3>
-      <p>确定要删除书籍《<span id="deleteBookTitle"></span>》吗？</p>
-      <p class="warning">⚠️ 删除后数据不可恢复！</p>
+      <h3>⚠️ <span data-i18n="bookshelf.confirmDelete">Confirm Delete</span></h3>
+      <p><span data-i18n="bookshelf.confirmDeleteMsg">Are you sure you want to delete</span> "<span id="deleteBookTitle"></span>"?</p>
+      <p class="warning">⚠️ <span data-i18n="bookshelf.deleteWarning">Data cannot be recovered after deletion!</span></p>
       <div class="modal-actions">
-        <button class="btn-cancel" onclick="hideDeleteConfirm()">取消</button>
-        <button class="btn-confirm-delete" onclick="confirmDeleteBook()">确认删除</button>
+        <button class="btn-cancel" onclick="hideDeleteConfirm()" data-i18n="bookshelf.cancel">Cancel</button>
+        <button class="btn-confirm-delete" onclick="confirmDeleteBook()" data-i18n="bookshelf.confirmDeleteBtn">Confirm Delete</button>
       </div>
     </div>
   </div>
@@ -368,7 +409,19 @@
       await loadBooks(userId);
       initFilterTabs();
       updateUserInfo();
+      updateNavbarLanguage();
     });
+    
+    function updateNavbarLanguage() {
+      const langBtns = document.querySelectorAll('.navbar-language .lang-btn');
+      langBtns.forEach(btn => {
+        btn.classList.remove('active');
+        if ((currentLanguage === 'en' && btn.textContent === 'EN') || 
+            (currentLanguage === 'zh' && btn.textContent === '中文')) {
+          btn.classList.add('active');
+        }
+      });
+    }
     
     async function loadBooks(userId) {
       try {
@@ -377,7 +430,7 @@
         renderMyBooks(allUserBooks);
         updateBookCounts();
       } catch (error) {
-        showNotification('Failed to load books: ' + error.message, 'error');
+        showNotification(t('messages.loadBooksFailed'), 'error');
       }
     }
     
@@ -392,7 +445,7 @@
     function updateBookCounts() {
       const myCount = document.querySelector('.books-section .count');
       if (myCount) {
-        myCount.textContent = `(${allUserBooks.length} stories)`;
+        myCount.innerHTML = `(${allUserBooks.length} <span data-i18n="bookshelf.stories">${t('bookshelf.stories')}</span>)`;
       }
     }
     
@@ -444,7 +497,7 @@
         </div>
         <div class="book-info">
           <h4>${book.title}</h4>
-          <p>${chapterCount} chapters</p>
+          <p>${chapterCount} <span data-i18n="bookshelf.chapters">${t('bookshelf.chapters')}</span></p>
           <div class="book-progress">
             <div class="book-progress-bar" style="width: ${progress}%"></div>
           </div>
@@ -481,12 +534,12 @@
           allUserBooks = allUserBooks.filter(b => b.book_id !== bookToDelete);
           updateBookCounts();
           
-          showNotification('书籍已删除', 'success');
+          showNotification(t('bookshelf.bookDeleted'), 'success');
         } else {
-          showNotification('删除失败: ' + (result.error || '未知错误'), 'error');
+          showNotification(t('bookshelf.deleteFailed') + ': ' + (result.error || t('errors.unknownError')), 'error');
         }
       } catch (error) {
-        showNotification('删除失败: ' + error.message, 'error');
+        showNotification(t('bookshelf.deleteFailed') + ': ' + error.message, 'error');
       } finally {
         hideDeleteConfirm();
       }

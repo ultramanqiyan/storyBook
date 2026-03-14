@@ -3,7 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Lost Kingdom - StoryBook</title>
+  <title data-i18n="meta.bookTitle">StoryBook - Book Details</title>
+  <meta name="description" content="View your story details, chapters, characters and plot cards in StoryBook.">
+  <meta name="keywords" content="StoryBook, interactive story, chapters, characters, plot cards">
+  <link rel="alternate" hreflang="en" href="book.html">
+  <link rel="alternate" hreflang="zh" href="book.html?lang=zh">
+  <meta property="og:title" content="StoryBook - Book Details">
+  <meta property="og:description" content="View your story details, chapters, characters and plot cards.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
   <link rel="stylesheet" href="css/variables.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/animations.css">
@@ -391,8 +400,12 @@
   <nav class="navbar">
     <a href="index.html" class="navbar-brand">StoryBook</a>
     <div class="navbar-nav">
-      <a href="bookshelf.html" class="navbar-link">My Library</a>
-      <a href="#" class="navbar-link" onclick="logout(); return false;">Sign Out</a>
+      <a href="bookshelf.html" class="navbar-link" data-i18n="nav.library">My Library</a>
+      <a href="#" class="navbar-link" onclick="logout(); return false;" data-i18n="nav.signOut">Sign Out</a>
+      <div class="navbar-language">
+        <button class="lang-btn active" onclick="switchLanguage('en')">EN</button>
+        <button class="lang-btn" onclick="switchLanguage('zh')">中文</button>
+      </div>
     </div>
   </nav>
   
@@ -416,21 +429,21 @@
               <span class="type-badge">Adventure</span>
               <h2>The Lost Kingdom</h2>
               <div class="stats">
-                <span>📜 20 Chapters</span>
-                <span>👥 5 Characters</span>
-                <span>📖 15% Progress</span>
+                <span>📜 <span data-i18n="book.chapters">20 Chapters</span></span>
+                <span>👥 <span data-i18n="book.characters">5 Characters</span></span>
+                <span>📖 <span data-i18n="book.progress">15% Progress</span></span>
               </div>
               <div class="action-buttons">
-                <a href="chapter.html" class="action-btn">Continue Reading</a>
-                <a href="director.html" class="action-btn secondary">Direct New Chapter</a>
+                <a href="chapter.html" class="action-btn" data-i18n="book.continueReading">Continue Reading</a>
+                <a href="director.html" class="action-btn secondary" data-i18n="book.directNewChapter">Direct New Chapter</a>
               </div>
             </div>
           </div>
           
           <div class="view-tabs">
-            <button class="view-tab active" data-view="chapters" onclick="switchView('chapters')">📜 Chapters</button>
-            <button class="view-tab" data-view="characters" onclick="switchView('characters')">👥 Characters</button>
-            <button class="view-tab" data-view="plots" onclick="switchView('plots')">🎭 Plots</button>
+            <button class="view-tab active" data-view="chapters" onclick="switchView('chapters')">📜 <span data-i18n="book.chaptersTab">Chapters</span></button>
+            <button class="view-tab" data-view="characters" onclick="switchView('characters')">👥 <span data-i18n="book.charactersTab">Characters</span></button>
+            <button class="view-tab" data-view="plots" onclick="switchView('plots')">🎭 <span data-i18n="book.plotsTab">Plots</span></button>
           </div>
           
           <div id="leftPageContent"></div>
@@ -511,11 +524,11 @@
           renderBookHeader(currentBook);
           renderBookPages();
         } else {
-          showNotification('Book not found', 'error');
+          showNotification(t('errors.bookNotFound'), 'error');
           setTimeout(() => window.location.href = 'bookshelf.html', 1500);
         }
       } catch (error) {
-        showNotification('Failed to load book: ' + error.message, 'error');
+        showNotification(t('errors.loadBookFailed') + ': ' + error.message, 'error');
       }
     }
     
@@ -537,9 +550,9 @@
       const progress = book.progress || 0;
       
       document.querySelector('.stats').innerHTML = `
-        <span>📜 ${chapters.length} Chapters</span>
-        <span>👥 ${characters.length} Characters</span>
-        <span>📖 ${progress}% Progress</span>
+        <span>📜 ${chapters.length} ${t('book.chaptersCount')}</span>
+        <span>👥 ${characters.length} ${t('book.charactersCount')}</span>
+        <span>📖 ${progress}% ${t('book.progressLabel')}</span>
       `;
       
       const actionButtons = document.querySelector('.action-buttons');
@@ -547,26 +560,26 @@
       if (isPresetBook) {
         const currentChapter = chapters[0];
         actionButtons.innerHTML = `
-          ${currentChapter ? `<a href="chapter.html?id=${currentChapter.chapter_id}&is_preset=1" class="action-btn">Start Reading</a>` : ''}
-          <button class="action-btn secondary" onclick="importPresetBook()">Import to My Shelf</button>
+          ${currentChapter ? `<a href="chapter.html?id=${currentChapter.chapter_id}&is_preset=1" class="action-btn">${t('book.startReading')}</a>` : ''}
+          <button class="action-btn secondary" onclick="importPresetBook()">${t('book.importToShelf')}</button>
         `;
       } else {
         const currentChapter = chapters.find(c => c.status === 'current') || chapters[0];
         if (currentChapter) {
           actionButtons.innerHTML = `
-            <a href="chapter.html?id=${currentChapter.chapter_id}" class="action-btn">Start Reading</a>
-            <a href="director.html?book_id=${book.book_id}" class="action-btn secondary">Direct New Chapter</a>
+            <a href="chapter.html?id=${currentChapter.chapter_id}" class="action-btn">${t('book.startReading')}</a>
+            <a href="director.html?book_id=${book.book_id}" class="action-btn secondary">${t('book.directNewChapter')}</a>
           `;
         } else {
           actionButtons.innerHTML = `
-            <a href="director.html?book_id=${book.book_id}" class="action-btn">Direct New Chapter</a>
+            <a href="director.html?book_id=${book.book_id}" class="action-btn">${t('book.directNewChapter')}</a>
           `;
         }
       }
     }
     
     function showImportPrompt() {
-      showNotification('Please import this book to your shelf first to add new chapters', 'warning');
+      showNotification(t('messages.importBookFirst'), 'warning');
     }
     
     async function importPresetBook() {
@@ -580,13 +593,13 @@
         const result = await API.importPresetBook(currentBook.book_id, userId);
         
         if (result.success) {
-          showNotification('Book imported successfully! Redirecting...', 'success');
+          showNotification(t('messages.bookImported'), 'success');
           setTimeout(() => {
             window.location.href = `book.html?id=${result.data.new_book_id}`;
           }, 1500);
         }
       } catch (error) {
-        showNotification('Import failed: ' + error.message, 'error');
+        showNotification(t('errors.importFailed') + ': ' + error.message, 'error');
       }
     }
 
@@ -675,7 +688,7 @@
       
       const isSolved = chapter.is_solved === 1;
       const statusIcon = isSolved ? '✓' : '🖋️';
-      const statusText = isSolved ? 'Completed' : 'Pending';
+      const statusText = isSolved ? t('book.completed') : t('book.pending');
       
       const presetParam = isPresetBook ? '&is_preset=1' : '';
       
@@ -683,7 +696,7 @@
         <div class="chapter-toc-item" 
              onclick="goToChapter('${chapterId}')"
              style="animation: fadeIn 0.5s ease-out ${orderNum * 0.1}s backwards;">
-          <span class="chapter-number">Chapter ${romanNumerals[orderNum - 1] || orderNum}</span>
+          <span class="chapter-number">${t('book.chapter')} ${romanNumerals[orderNum - 1] || orderNum}</span>
           <span class="chapter-dots"></span>
           <span class="chapter-title">${chapter.title}</span>
           <span class="chapter-status-icon" title="${statusText}">${statusIcon}</span>

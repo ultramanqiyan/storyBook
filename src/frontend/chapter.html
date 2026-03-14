@@ -3,7 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Chapter III - The Mountain Pass - StoryBook</title>
+  <title data-i18n="meta.chapterTitle">StoryBook - Chapter</title>
+  <meta name="description" content="Read your interactive story chapter and solve puzzles in StoryBook.">
+  <meta name="keywords" content="StoryBook, interactive story, chapter, reading, puzzle">
+  <link rel="alternate" hreflang="en" href="chapter.html">
+  <link rel="alternate" hreflang="zh" href="chapter.html?lang=zh">
+  <meta property="og:title" content="StoryBook - Chapter">
+  <meta property="og:description" content="Read your interactive story chapter and solve puzzles.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
   <link rel="stylesheet" href="css/variables.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/animations.css">
@@ -713,7 +722,11 @@
   <nav class="navbar">
     <a href="index.html" class="navbar-brand">StoryBook</a>
     <div class="navbar-nav">
-      <a href="bookshelf.html" class="navbar-link">Library</a>
+      <a href="bookshelf.html" class="navbar-link" data-i18n="nav.library">Library</a>
+      <div class="navbar-language">
+        <button class="lang-btn active" onclick="switchLanguage('en')">EN</button>
+        <button class="lang-btn" onclick="switchLanguage('zh')">中文</button>
+      </div>
     </div>
   </nav>
   
@@ -783,8 +796,8 @@
     <div class="sidebar-toggle" onclick="toggleSidebar()"></div>
     
     <div class="sidebar-tabs">
-      <button class="sidebar-tab active" data-tab="characters" onclick="switchSidebarTab('characters')">👤 角色</button>
-      <button class="sidebar-tab" data-tab="plots" onclick="switchSidebarTab('plots')">📜 情节</button>
+      <button class="sidebar-tab active" data-tab="characters" onclick="switchSidebarTab('characters')">👤 <span data-i18n="chapter.characters">Characters</span></button>
+      <button class="sidebar-tab" data-tab="plots" onclick="switchSidebarTab('plots')">📜 <span data-i18n="chapter.plots">Plots</span></button>
     </div>
     
     <div class="sidebar-content">
@@ -795,13 +808,13 @@
   
   <div class="reading-nav-bar">
     <button class="scroll-nav-btn" onclick="prevChapter()">
-      ← Previous
+      ← <span data-i18n="chapter.previous">Previous</span>
     </button>
     <div class="nav-info">
-      Chapter 3 of 20
+      <span data-i18n="chapter.chapterOf">Chapter 3 of 20</span>
     </div>
     <button class="scroll-nav-btn" onclick="nextChapter()">
-      Next →
+      <span data-i18n="chapter.next">Next</span> →
     </button>
   </div>
   
@@ -831,13 +844,13 @@
         <div class="reward-card">
           <div class="card-glow"></div>
           <div class="card-icon" id="rewardCardIcon">☀️</div>
-          <div class="card-name" id="rewardCardName">晴天</div>
-          <div class="card-type" id="rewardCardType">天气卡牌</div>
+          <div class="card-name" id="rewardCardName">Sunny</div>
+          <div class="card-type" id="rewardCardType" data-i18n="cardType.weather">Weather Card</div>
         </div>
       </div>
-      <div class="reward-message" id="rewardMessage">恭喜获得卡牌！</div>
-      <button class="btn-receive" id="btnReceive">收下</button>
-      <button class="btn-continue" id="btnContinue" style="display: none;">继续</button>
+      <div class="reward-message" id="rewardMessage" data-i18n="messages.cardReward">Congratulations! You got a card!</div>
+      <button class="btn-receive" id="btnReceive" data-i18n="common.receive">Receive</button>
+      <button class="btn-continue" id="btnContinue" style="display: none;" data-i18n="common.continue">Continue</button>
     </div>
   </div>
   
@@ -845,13 +858,13 @@
     <div class="modal-backdrop"></div>
     <div class="modal-content">
       <div class="modal-header">
-        <h3>⚠️ 背包已满</h3>
-        <p>该类型卡牌已达上限(8张)，请选择一张丢弃</p>
+        <h3>⚠️ <span data-i18n="chapter.backpackFull">Backpack Full</span></h3>
+        <p data-i18n="chapter.selectDiscard">This card type has reached the limit (8), please select one to discard</p>
       </div>
       <div class="cards-grid" id="discardCardsGrid"></div>
       <div class="modal-actions">
-        <button class="btn-cancel" id="btnCancelDiscard">取消</button>
-        <button class="btn-discard" id="btnConfirmDiscard" disabled>丢弃选中</button>
+        <button class="btn-cancel" id="btnCancelDiscard" data-i18n="common.cancel">Cancel</button>
+        <button class="btn-discard" id="btnConfirmDiscard" disabled data-i18n="chapter.discardSelected">Discard Selected</button>
       </div>
     </div>
   </div>
@@ -861,49 +874,49 @@
     <div class="modal-content">
       <button class="modal-close" onclick="hideCustomPlotCardModal()">×</button>
       <div class="modal-header">
-        <h2 class="modal-title">✨ 创建自定义情节卡牌</h2>
-        <p class="modal-subtitle">填写卡牌信息，创造属于你的故事元素</p>
+        <h2 class="modal-title">✨ <span data-i18n="chapter.createCustomPlot">Create Custom Plot Card</span></h2>
+        <p class="modal-subtitle" data-i18n="chapter.fillCardInfo">Fill in card information to create your story element</p>
       </div>
       <div class="custom-card-form">
         <div class="form-section">
-          <div class="form-section-title">卡牌类型</div>
+          <div class="form-section-title" data-i18n="chapter.cardType">Card Type</div>
           <div class="type-selector" id="plotTypeSelector">
             <div class="type-option selected" data-type="weather" onclick="selectPlotType('weather')">
               <div class="type-icon">☀️</div>
-              <div class="type-name">天气</div>
+              <div class="type-name" data-i18n="cardType.weather">Weather</div>
             </div>
             <div class="type-option" data-type="terrain" onclick="selectPlotType('terrain')">
               <div class="type-icon">🏔️</div>
-              <div class="type-name">地形</div>
+              <div class="type-name" data-i18n="cardType.terrain">Terrain</div>
             </div>
             <div class="type-option" data-type="adventure" onclick="selectPlotType('adventure')">
               <div class="type-icon">🗺️</div>
-              <div class="type-name">冒险</div>
+              <div class="type-name" data-i18n="cardType.adventure">Adventure</div>
             </div>
             <div class="type-option" data-type="equipment" onclick="selectPlotType('equipment')">
               <div class="type-icon">🎒</div>
-              <div class="type-name">装备</div>
+              <div class="type-name" data-i18n="cardType.equipment">Equipment</div>
             </div>
           </div>
         </div>
         <div class="form-section">
-          <div class="form-section-title">选择图标</div>
+          <div class="form-section-title" data-i18n="chapter.selectIcon">Select Icon</div>
           <div class="icon-grid" id="plotIconGrid"></div>
         </div>
         <div class="form-section">
-          <div class="form-section-title">卡牌名称 *</div>
-          <input type="text" class="form-input-field" id="plotCardName" maxlength="20" placeholder="输入卡牌名称（1-20字符）" oninput="updatePlotNameCounter()">
+          <div class="form-section-title" data-i18n="chapter.cardName">Card Name *</div>
+          <input type="text" class="form-input-field" id="plotCardName" maxlength="20" data-i18n-placeholder="chapter.cardNamePlaceholder" placeholder="Enter card name (1-20 characters)" oninput="updatePlotNameCounter()">
           <div class="char-counter"><span id="plotNameCount">0</span>/20</div>
         </div>
         <div class="form-section">
-          <div class="form-section-title">卡牌描述（可选）</div>
-          <textarea class="form-input-field form-textarea" id="plotCardDesc" maxlength="100" placeholder="输入卡牌描述（最多100字符）" oninput="updatePlotDescCounter()"></textarea>
+          <div class="form-section-title" data-i18n="chapter.cardDesc">Card Description (Optional)</div>
+          <textarea class="form-input-field form-textarea" id="plotCardDesc" maxlength="100" data-i18n-placeholder="chapter.cardDescPlaceholder" placeholder="Enter card description (max 100 characters)" oninput="updatePlotDescCounter()"></textarea>
           <div class="char-counter"><span id="plotDescCount">0</span>/100</div>
         </div>
       </div>
       <div class="modal-actions">
-        <button class="btn-action btn-cancel" onclick="hideCustomPlotCardModal()">取消</button>
-        <button class="btn-action btn-create" id="btnCreatePlotCard" onclick="createCustomPlotCard()">创建卡牌</button>
+        <button class="btn-action btn-cancel" onclick="hideCustomPlotCardModal()" data-i18n="common.cancel">Cancel</button>
+        <button class="btn-action btn-create" id="btnCreatePlotCard" onclick="createCustomPlotCard()" data-i18n="chapter.createCard">Create Card</button>
       </div>
     </div>
   </div>
@@ -913,8 +926,8 @@
     <div class="modal-content">
       <button class="modal-close" onclick="hideCustomCharacterModal()">×</button>
       <div class="modal-header">
-        <h2 class="modal-title">✨ 创建自定义角色卡牌</h2>
-        <p class="modal-subtitle">步骤 <span id="charStep">1</span>/2 - 基本信息</p>
+        <h2 class="modal-title">✨ <span data-i18n="chapter.createCustomCharacter">Create Custom Character</span></h2>
+        <p class="modal-subtitle"><span data-i18n="chapter.step">Step</span> <span id="charStep">1</span>/2 - <span data-i18n="chapter.basicInfo">Basic Info</span></p>
       </div>
       <div class="step-indicator">
         <div class="step-dot active" id="stepDot1"></div>
@@ -922,60 +935,60 @@
       </div>
       <div id="charStep1" class="custom-card-form">
         <div class="form-section">
-          <div class="form-section-title">选择头像</div>
+          <div class="form-section-title" data-i18n="chapter.selectAvatar">Select Avatar</div>
           <div class="avatar-grid" id="charAvatarGrid"></div>
         </div>
         <div class="form-section">
-          <div class="form-section-title">角色名称 *</div>
-          <input type="text" class="form-input-field" id="charName" maxlength="20" placeholder="输入角色名称（1-20字符）" oninput="updateCharNameCounter()">
+          <div class="form-section-title" data-i18n="chapter.characterName">Character Name *</div>
+          <input type="text" class="form-input-field" id="charName" maxlength="20" data-i18n-placeholder="chapter.characterNamePlaceholder" placeholder="Enter character name (1-20 characters)" oninput="updateCharNameCounter()">
           <div class="char-counter"><span id="charNameCount">0</span>/20</div>
         </div>
       </div>
       <div id="charStep2" class="custom-card-form" style="display: none;">
         <div class="form-section">
-          <div class="form-section-title">角色类型 *</div>
+          <div class="form-section-title" data-i18n="chapter.roleType">Role Type *</div>
           <select class="select-field" id="charRoleType">
-            <option value="">选择角色类型...</option>
+            <option value="" data-i18n="chapter.selectRoleType">Select role type...</option>
           </select>
-          <input type="text" class="form-input-field" id="charRoleTypeCustom" style="display: none; margin-top: 10px;" placeholder="或输入自定义类型">
+          <input type="text" class="form-input-field" id="charRoleTypeCustom" style="display: none; margin-top: 10px;" data-i18n-placeholder="chapter.customRoleType" placeholder="Or enter custom type">
         </div>
         <div class="form-section">
-          <div class="form-section-title">性格 *</div>
+          <div class="form-section-title" data-i18n="chapter.personality">Personality *</div>
           <select class="select-field" id="charPersonality">
-            <option value="">选择性格...</option>
+            <option value="" data-i18n="chapter.selectPersonality">Select personality...</option>
           </select>
-          <input type="text" class="form-input-field" id="charPersonalityCustom" style="display: none; margin-top: 10px;" placeholder="或输入自定义性格">
+          <input type="text" class="form-input-field" id="charPersonalityCustom" style="display: none; margin-top: 10px;" data-i18n-placeholder="chapter.customPersonality" placeholder="Or enter custom personality">
         </div>
         <div class="form-section">
-          <div class="form-section-title">说话方式 *</div>
+          <div class="form-section-title" data-i18n="chapter.speechStyle">Speech Style *</div>
           <select class="select-field" id="charSpeechStyle">
-            <option value="">选择说话方式...</option>
+            <option value="" data-i18n="chapter.selectSpeechStyle">Select speech style...</option>
           </select>
-          <input type="text" class="form-input-field" id="charSpeechStyleCustom" style="display: none; margin-top: 10px;" placeholder="或输入自定义说话方式">
+          <input type="text" class="form-input-field" id="charSpeechStyleCustom" style="display: none; margin-top: 10px;" data-i18n-placeholder="chapter.customSpeechStyle" placeholder="Or enter custom speech style">
         </div>
         <div class="form-section">
-          <div class="form-section-title">与主角亲密度</div>
+          <div class="form-section-title" data-i18n="chapter.intimacy">Intimacy with Protagonist</div>
           <div class="intimacy-selector">
             <div class="intimacy-option" data-value="-50" onclick="selectIntimacy(-50)">
               <div class="intimacy-icon">😠</div>
-              <div class="intimacy-label">敌对</div>
+              <div class="intimacy-label" data-i18n="intimacy.hostile">Hostile</div>
             </div>
             <div class="intimacy-option selected" data-value="0" onclick="selectIntimacy(0)">
               <div class="intimacy-icon">😐</div>
-              <div class="intimacy-label">中立</div>
+              <div class="intimacy-label" data-i18n="intimacy.neutral">Neutral</div>
             </div>
             <div class="intimacy-option" data-value="50" onclick="selectIntimacy(50)">
               <div class="intimacy-icon">😊</div>
-              <div class="intimacy-label">友好</div>
+              <div class="intimacy-label" data-i18n="intimacy.friendly">Friendly</div>
             </div>
           </div>
         </div>
       </div>
       <div class="modal-actions">
-        <button class="btn-action btn-cancel" id="btnCharCancel" onclick="hideCustomCharacterModal()">取消</button>
-        <button class="btn-action btn-create" id="btnCharNext" onclick="nextCharStep()">下一步</button>
-        <button class="btn-action btn-create" id="btnCharPrev" onclick="prevCharStep()" style="display: none;">上一步</button>
-        <button class="btn-action btn-create" id="btnCharCreate" onclick="createCustomCharacter()" style="display: none;">创建角色</button>
+        <button class="btn-action btn-cancel" id="btnCharCancel" onclick="hideCustomCharacterModal()" data-i18n="common.cancel">Cancel</button>
+        <button class="btn-action btn-create" id="btnCharNext" onclick="nextCharStep()" data-i18n="common.next">Next</button>
+        <button class="btn-action btn-create" id="btnCharPrev" onclick="prevCharStep()" style="display: none;" data-i18n="common.previous">Previous</button>
+        <button class="btn-action btn-create" id="btnCharCreate" onclick="createCustomCharacter()" style="display: none;" data-i18n="chapter.createCharacter">Create Character</button>
       </div>
     </div>
   </div>
@@ -1057,11 +1070,11 @@
             await loadPuzzle(currentChapter.puzzle_id);
           }
         } else {
-          showNotification('Chapter not found', 'error');
+          showNotification(t('errors.chapterNotFound'), 'error');
           setTimeout(() => window.location.href = 'bookshelf.html', 1500);
         }
       } catch (error) {
-        showNotification('Failed to load chapter: ' + error.message, 'error');
+        showNotification(t('errors.loadChapterFailed') + ': ' + error.message, 'error');
       }
     }
     
@@ -1309,7 +1322,7 @@
         window.selectedOption = null;
       } else if (puzzleOptions && puzzle.puzzle_type === 'text') {
         puzzleOptions.innerHTML = `
-          <input type="text" class="puzzle-input" id="puzzleInput" placeholder="请输入答案..." style="width: 100%; padding: 15px; font-size: 16px; border: 2px solid rgba(139, 90, 43, 0.3); border-radius: 8px; background: rgba(139, 90, 43, 0.1); color: #3a2a1a;">
+          <input type="text" class="puzzle-input" id="puzzleInput" placeholder="${t('chapter.enterAnswer')}" style="width: 100%; padding: 15px; font-size: 16px; border: 2px solid rgba(139, 90, 43, 0.3); border-radius: 8px; background: rgba(139, 90, 43, 0.1); color: #3a2a1a;">
         `;
         window.selectedOption = null;
       }
@@ -1334,18 +1347,18 @@
       if (puzzleInput) {
         answer = puzzleInput.value.trim();
         if (!answer) {
-          showNotification('请输入答案！', 'warning');
+          showNotification(t('chapter.enterAnswer'), 'warning');
           return;
         }
       } else if (window.selectedOption === null) {
-        showNotification('请选择一个答案！', 'warning');
+        showNotification(t('chapter.selectAnswer'), 'warning');
         return;
       } else if (window.currentPuzzle.options && window.currentPuzzle.options[window.selectedOption]) {
         answer = window.currentPuzzle.options[window.selectedOption];
       }
       
       if (!answer) {
-        showNotification('请选择或输入答案！', 'warning');
+        showNotification(t('chapter.selectOrEnter'), 'warning');
         return;
       }
       
@@ -1370,7 +1383,7 @@
               currentReward = result.data;
               handleReward(result.data.reward, result.data.card_limit_exceeded, result.data.character_limit_exceeded);
             } else {
-              showNotification(result.data.message || '正确！谜题已解开！', 'success');
+              showNotification(result.data.message || t('messages.puzzleSolved'), 'success');
             }
           }, 1000);
         } else {
@@ -1392,7 +1405,7 @@
               });
               window.selectedOption = null;
             }
-            showNotification(result.data.message || '答案错误，请重试！', 'error');
+            showNotification(result.data.message || t('errors.wrongAnswer'), 'error');
           }, 1500);
         }
       } catch (error) {
@@ -1423,7 +1436,7 @@
     }
     
     async function showCharacterDiscardModal(reward) {
-      showNotification('角色卡牌已达上限，请丢弃一张后再创建', 'warning');
+      showNotification(t('chapter.characterLimitReached'), 'warning');
     }
     
     async function showCustomPlotCardModal(subType, defaultIcon) {
@@ -1499,18 +1512,18 @@
       const description = document.getElementById('plotCardDesc').value.trim();
       
       if (!name) {
-        showNotification('请输入卡牌名称', 'warning');
+        showNotification(t('chapter.enterCardName'), 'warning');
         return;
       }
       
       if (!selectedPlotIcon) {
-        showNotification('请选择一个图标', 'warning');
+        showNotification(t('chapter.selectIcon'), 'warning');
         return;
       }
       
       const bookId = currentChapter?.book_id;
       if (!bookId) {
-        showNotification('无法获取书籍信息', 'error');
+        showNotification(t('errors.bookInfoNotFound'), 'error');
         return;
       }
       
@@ -1526,12 +1539,12 @@
         
         if (result.success && result.data.success) {
           hideCustomPlotCardModal();
-          showNotification('自定义情节卡牌创建成功！', 'success');
+          showNotification(t('messages.plotCardCreated'), 'success');
           await loadChapter(currentChapter.chapter_id);
         } else if (result.data && result.data.limit_exceeded) {
           showNotification(result.data.message, 'warning');
         } else {
-          showNotification(result.error || '创建失败', 'error');
+          showNotification(result.error || t('errors.createFailed'), 'error');
         }
       } catch (error) {
         showNotification(error.message, 'error');
@@ -1584,25 +1597,25 @@
           characterOptions = result.data;
           
           const roleSelect = document.getElementById('charRoleType');
-          roleSelect.innerHTML = '<option value="">选择角色类型...</option>';
+          roleSelect.innerHTML = `<option value="">${t('chapter.selectRoleType')}</option>`;
           (result.data.character_types || []).forEach(type => {
             roleSelect.innerHTML += `<option value="${type}">${type}</option>`;
           });
-          roleSelect.innerHTML += '<option value="custom">自定义...</option>';
+          roleSelect.innerHTML += `<option value="custom">${t('common.custom')}...</option>`;
           
           const personalitySelect = document.getElementById('charPersonality');
-          personalitySelect.innerHTML = '<option value="">选择性格...</option>';
+          personalitySelect.innerHTML = `<option value="">${t('chapter.selectPersonality')}</option>`;
           (result.data.personalities || []).forEach(p => {
             personalitySelect.innerHTML += `<option value="${p}">${p}</option>`;
           });
-          personalitySelect.innerHTML += '<option value="custom">自定义...</option>';
+          personalitySelect.innerHTML += `<option value="custom">${t('common.custom')}...</option>`;
           
           const speechSelect = document.getElementById('charSpeechStyle');
-          speechSelect.innerHTML = '<option value="">选择说话方式...</option>';
+          speechSelect.innerHTML = `<option value="">${t('chapter.selectSpeechStyle')}</option>`;
           (result.data.speech_styles || []).forEach(s => {
             speechSelect.innerHTML += `<option value="${s}">${s}</option>`;
           });
-          speechSelect.innerHTML += '<option value="custom">自定义...</option>';
+          speechSelect.innerHTML += `<option value="custom">${t('common.custom')}...</option>`;
         }
       } catch (error) {
         console.error('Failed to load character options:', error);
@@ -1640,17 +1653,17 @@
       document.getElementById('btnCharNext').style.display = currentCharStep === 1 ? 'inline-block' : 'none';
       document.getElementById('btnCharPrev').style.display = currentCharStep === 2 ? 'inline-block' : 'none';
       document.getElementById('btnCharCreate').style.display = currentCharStep === 2 ? 'inline-block' : 'none';
-      document.getElementById('btnCharCancel').textContent = currentCharStep === 1 ? '取消' : '上一步';
+      document.getElementById('btnCharCancel').textContent = currentCharStep === 1 ? t('common.cancel') : t('common.previous');
     }
     
     function nextCharStep() {
       const name = document.getElementById('charName').value.trim();
       if (!name) {
-        showNotification('请输入角色名称', 'warning');
+        showNotification(t('chapter.enterCharacterName'), 'warning');
         return;
       }
       if (!selectedAvatar) {
-        showNotification('请选择一个头像', 'warning');
+        showNotification(t('chapter.selectAvatar'), 'warning');
         return;
       }
       
@@ -1682,21 +1695,21 @@
       }
       
       if (!roleType) {
-        showNotification('请选择或输入角色类型', 'warning');
+        showNotification(t('chapter.selectOrEnterRoleType'), 'warning');
         return;
       }
       if (!personality) {
-        showNotification('请选择或输入性格', 'warning');
+        showNotification(t('chapter.selectOrEnterPersonality'), 'warning');
         return;
       }
       if (!speechStyle) {
-        showNotification('请选择或输入说话方式', 'warning');
+        showNotification(t('chapter.selectOrEnterSpeechStyle'), 'warning');
         return;
       }
       
       const bookId = currentChapter?.book_id;
       if (!bookId) {
-        showNotification('无法获取书籍信息', 'error');
+        showNotification(t('errors.bookInfoNotFound'), 'error');
         return;
       }
       
@@ -1714,12 +1727,12 @@
         
         if (result.success && result.data.success) {
           hideCustomCharacterModal();
-          showNotification('自定义角色卡牌创建成功！', 'success');
+          showNotification(t('messages.characterCreated'), 'success');
           await loadChapter(currentChapter.chapter_id);
         } else if (result.data && result.data.limit_exceeded) {
           showNotification(result.data.message, 'warning');
         } else {
-          showNotification(result.error || '创建失败', 'error');
+          showNotification(result.error || t('errors.createFailed'), 'error');
         }
       } catch (error) {
         showNotification(error.message, 'error');
@@ -1739,13 +1752,13 @@
       cardName.textContent = reward.card.name;
       
       const typeNames = {
-        weather: '天气卡牌',
-        terrain: '地形卡牌',
-        adventure: '冒险卡牌',
-        equipment: '装备卡牌'
+        weather: t('cardType.weather'),
+        terrain: t('cardType.terrain'),
+        adventure: t('cardType.adventure'),
+        equipment: t('cardType.equipment')
       };
-      cardType.textContent = typeNames[reward.card.sub_type] || '情节卡牌';
-      message.textContent = reward.message || '恭喜获得卡牌！';
+      cardType.textContent = typeNames[reward.card.sub_type] || t('cardType.plot');
+      message.textContent = reward.message || t('messages.cardReward');
       
       if (limitExceeded) {
         btnReceive.style.display = 'none';
@@ -1823,7 +1836,7 @@
         if (selectedDiscardCard === 'new') {
           hideDiscardModal();
           hideCardReward();
-          showNotification('已放弃新卡牌', 'success');
+          showNotification(t('messages.cardDiscarded'), 'success');
         } else {
           const bookId = currentChapter?.book_id || getUrlParam('book_id');
           
@@ -1833,7 +1846,7 @@
           
           hideDiscardModal();
           hideCardReward();
-          showNotification('卡牌已替换！', 'success');
+          showNotification(t('messages.cardReplaced'), 'success');
         }
       } catch (error) {
         showNotification(error.message, 'error');
@@ -1937,7 +1950,7 @@
       console.log('=== showPuzzle called ===');
       console.log('currentPuzzle:', window.currentPuzzle);
       if (!window.currentPuzzle) {
-        showNotification('No puzzle available', 'info');
+        showNotification(t('messages.noPuzzle'), 'info');
         return;
       }
       document.getElementById('puzzleOverlay').classList.add('active');
@@ -1953,7 +1966,7 @@
         currentPageIndex = Math.max(0, currentPageIndex - 2);
         renderCurrentPages();
       } else {
-        showNotification('This is the first page', 'info');
+        showNotification(t('messages.firstPage'), 'info');
       }
     }
 
@@ -1963,7 +1976,7 @@
         currentPageIndex += 2;
         renderCurrentPages();
       } else {
-        showNotification('This is the last page', 'info');
+        showNotification(t('messages.lastPage'), 'info');
       }
     }
   </script>

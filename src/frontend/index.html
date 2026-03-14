@@ -3,7 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>StoryBook - Create Your Interactive Stories</title>
+  <title data-i18n="meta.title">StoryBook - Create Your Interactive Stories</title>
+  <meta name="description" content="Create your own interactive stories with AI-powered storytelling">
+  <meta name="keywords" content="interactive story, story creator, AI storytelling, choose your own adventure">
+  <meta property="og:title" content="StoryBook - Create Your Interactive Stories">
+  <meta property="og:description" content="Create your own interactive stories with AI-powered storytelling">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook.com/?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook.com/?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook.com/">
   <link rel="stylesheet" href="css/variables.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/animations.css">
@@ -127,6 +136,35 @@
     .footer-links a:hover {
       color: var(--color-gold);
     }
+    
+    .navbar-language {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-right: var(--spacing-md);
+    }
+    
+    .navbar-language .lang-btn {
+      padding: 6px 12px;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 16px;
+      color: var(--color-text-muted);
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-size: 12px;
+    }
+    
+    .navbar-language .lang-btn:hover {
+      border-color: var(--color-gold);
+      color: var(--color-gold);
+    }
+    
+    .navbar-language .lang-btn.active {
+      background: var(--color-gold);
+      border-color: var(--color-gold);
+      color: #1a1a2e;
+    }
   </style>
 </head>
 <body class="theme-adventure">
@@ -135,7 +173,11 @@
   <nav class="navbar">
     <a href="index.html" class="navbar-brand" data-i18n="home.title">StoryBook</a>
     <div class="navbar-nav">
-      <a href="library.html" class="navbar-link">Public Library</a>
+      <div class="navbar-language">
+        <button class="lang-btn active" onclick="switchLanguage('en')">EN</button>
+        <button class="lang-btn" onclick="switchLanguage('zh')">中文</button>
+      </div>
+      <a href="library.html" class="navbar-link" data-i18n="nav.library">Library</a>
       <a href="bookshelf.html" class="navbar-link" data-i18n="nav.myLibrary">My Library</a>
       <a href="login.html" class="btn btn-secondary" data-i18n="nav.signIn">Sign In</a>
     </div>
@@ -207,7 +249,7 @@
         <div class="book-spine"></div>
         <div class="book-pages"></div>
         <div class="book-title">The Lost Kingdom</div>
-        <div class="book-tag">Adventure</div>
+        <div class="book-tag" data-i18n="library.adventure">Adventure</div>
       </div>
       
       <div class="book-3d" data-link="book.html?id=102">
@@ -217,7 +259,7 @@
         <div class="book-spine"></div>
         <div class="book-pages"></div>
         <div class="book-title">Mystic Academy</div>
-        <div class="book-tag">Fantasy</div>
+        <div class="book-tag" data-i18n="library.fantasy">Fantasy</div>
       </div>
       
       <div class="book-3d" data-link="book.html?id=103">
@@ -227,7 +269,7 @@
         <div class="book-spine"></div>
         <div class="book-pages"></div>
         <div class="book-title">Hearts Entwined</div>
-        <div class="book-tag">Romance</div>
+        <div class="book-tag" data-i18n="library.romance">Romance</div>
       </div>
       
       <div class="book-3d" data-link="book.html?id=104">
@@ -237,7 +279,7 @@
         <div class="book-spine"></div>
         <div class="book-pages"></div>
         <div class="book-title">Corporate Crown</div>
-        <div class="book-tag">Business</div>
+        <div class="book-tag" data-i18n="library.business">Business</div>
       </div>
     </div>
   </section>
@@ -280,7 +322,20 @@
           }
         });
       });
+      
+      updateNavbarLanguage();
     });
+    
+    function updateNavbarLanguage() {
+      const langBtns = document.querySelectorAll('.navbar-language .lang-btn');
+      langBtns.forEach(btn => {
+        btn.classList.remove('active');
+        if ((currentLanguage === 'en' && btn.textContent === 'EN') || 
+            (currentLanguage === 'zh' && btn.textContent === '中文')) {
+          btn.classList.add('active');
+        }
+      });
+    }
   </script>
 </body>
 </html>

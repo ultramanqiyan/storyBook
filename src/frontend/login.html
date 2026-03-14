@@ -3,7 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sign In - StoryBook</title>
+  <title data-i18n="login.pageTitle">Sign In - StoryBook</title>
+  <meta name="description" content="Sign in to your StoryBook account and continue your storytelling journey">
+  <meta property="og:title" content="Sign In - StoryBook">
+  <meta property="og:description" content="Sign in to your StoryBook account">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook.com/login.html?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook.com/login.html?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook.com/login.html">
   <link rel="stylesheet" href="css/variables.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/animations.css">
@@ -303,6 +311,35 @@
       left: 20px;
     }
     
+    .language-switcher-login {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      display: flex;
+      gap: 8px;
+      z-index: 20;
+    }
+    
+    .language-switcher-login .lang-btn {
+      padding: 6px 12px;
+      background: rgba(139, 90, 43, 0.2);
+      border: 1px solid rgba(139, 90, 43, 0.3);
+      border-radius: 16px;
+      color: #5a3a1a;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-size: 12px;
+    }
+    
+    .language-switcher-login .lang-btn:hover {
+      background: rgba(139, 90, 43, 0.3);
+    }
+    
+    .language-switcher-login .lang-btn.active {
+      background: #8B4513;
+      color: #f4e4bc;
+    }
+    
     @media (max-width: 768px) {
       .book-open {
         flex-direction: column;
@@ -327,6 +364,10 @@
   
   <div class="login-page">
     <div class="book-container">
+      <div class="language-switcher-login">
+        <button class="lang-btn active" onclick="switchLanguage('en')">EN</button>
+        <button class="lang-btn" onclick="switchLanguage('zh')">中文</button>
+      </div>
       <div class="book-open">
         <div class="corner-decoration top-left"></div>
         <div class="corner-decoration top-right"></div>
@@ -379,30 +420,30 @@
             <h2 class="register-title"><span data-i18n="login.createAccount">Create Thy Account</span></h2>
             
             <div class="form-group">
-              <label class="form-label">Username</label>
+              <label class="form-label" data-i18n="login.username">Username</label>
               <div class="input-icon" data-icon="👤">
-                <input type="text" id="registerUsername" class="form-input" placeholder="Choose thy name">
+                <input type="text" id="registerUsername" class="form-input" data-i18n-placeholder="login.usernamePlaceholder" placeholder="Choose thy name">
               </div>
             </div>
             
             <div class="form-group">
-              <label class="form-label">Email</label>
+              <label class="form-label" data-i18n="login.email">Email</label>
               <div class="input-icon" data-icon="📧">
-                <input type="email" id="registerEmail" class="form-input" placeholder="Enter thy email">
+                <input type="email" id="registerEmail" class="form-input" data-i18n-placeholder="login.emailPlaceholder" placeholder="Enter thy email">
               </div>
             </div>
             
             <div class="form-group">
-              <label class="form-label">Password</label>
+              <label class="form-label" data-i18n="login.password">Password</label>
               <div class="input-icon" data-icon="🔐">
-                <input type="password" id="registerPassword" class="form-input" placeholder="Choose thy secret">
+                <input type="password" id="registerPassword" class="form-input" data-i18n-placeholder="login.passwordPlaceholder" placeholder="Choose thy secret">
               </div>
             </div>
             
             <div class="form-group">
-              <label class="form-label">Confirm Password</label>
+              <label class="form-label" data-i18n="login.confirmPassword">Confirm Password</label>
               <div class="input-icon" data-icon="🔐">
-                <input type="password" id="registerConfirmPassword" class="form-input" placeholder="Confirm thy secret">
+                <input type="password" id="registerConfirmPassword" class="form-input" data-i18n-placeholder="login.confirmPasswordPlaceholder" placeholder="Confirm thy secret">
               </div>
             </div>
             
@@ -411,12 +452,12 @@
                 <div class="wax-seal">
                   <span class="wax-seal-icon">✓</span>
                 </div>
-                <span class="wax-seal-text">Register</span>
+                <span class="wax-seal-text" data-i18n="login.register">Register</span>
               </button>
             </div>
             
             <div class="login-footer">
-              <p><span>Already have an account?</span> <a href="#" id="showLogin">Sign In</a></p>
+              <p><span data-i18n="login.alreadyHaveAccount">Already have an account?</span> <a href="#" id="showLogin" data-i18n="login.signIn">Sign In</a></p>
             </div>
           </div>
         </div>
@@ -434,14 +475,27 @@
       if (isLoggedIn()) {
         window.location.href = 'bookshelf.html';
       }
+      
+      updateLoginLanguageSwitcher();
     });
+    
+    function updateLoginLanguageSwitcher() {
+      const langBtns = document.querySelectorAll('.language-switcher-login .lang-btn');
+      langBtns.forEach(btn => {
+        btn.classList.remove('active');
+        if ((currentLanguage === 'en' && btn.textContent === 'EN') || 
+            (currentLanguage === 'zh' && btn.textContent === '中文')) {
+          btn.classList.add('active');
+        }
+      });
+    }
     
     async function handleLogin() {
       const email = document.getElementById('email').value;
       const password = document.getElementById('password').value;
       
       if (!email || !password) {
-        showNotification('Please enter email and password', 'error');
+        showNotification(t('login.pleaseEnterCredentials'), 'error');
         return;
       }
       
@@ -455,16 +509,16 @@
           setUserId(result.data.user_id);
           setUserEmail(result.data.email);
           
-          showNotification(result.data.is_new_user ? 'Welcome, new traveler!' : 'Welcome back!', 'success');
+          showNotification(result.data.is_new_user ? t('login.welcomeNew') : t('login.welcomeBack'), 'success');
           
           setTimeout(() => {
             window.location.href = 'bookshelf.html';
           }, 500);
         } else {
-          showNotification(result.error || 'Login failed', 'error');
+          showNotification(result.error || t('login.loginFailed'), 'error');
         }
       } catch (error) {
-        showNotification(error.message || 'Login failed', 'error');
+        showNotification(error.message || t('login.loginFailed'), 'error');
       }
     }
     
@@ -489,12 +543,12 @@
       const confirmPassword = document.getElementById('registerConfirmPassword').value;
       
       if (!username || !email || !password) {
-        showNotification('Please fill in all fields', 'error');
+        showNotification(t('login.pleaseFillAllFields'), 'error');
         return;
       }
       
       if (password !== confirmPassword) {
-        showNotification('Passwords do not match', 'error');
+        showNotification(t('login.passwordMismatch'), 'error');
         return;
       }
       
@@ -505,16 +559,16 @@
           setUserId(result.data.user_id);
           setUserEmail(email);
           
-          showNotification('Account created successfully!', 'success');
+          showNotification(t('login.accountCreated'), 'success');
           
           setTimeout(() => {
             window.location.href = 'bookshelf.html';
           }, 500);
         } else {
-          showNotification(result.error || 'Registration failed', 'error');
+          showNotification(result.error || t('login.registerFailed'), 'error');
         }
       } catch (error) {
-        showNotification(error.message || 'Registration failed', 'error');
+        showNotification(error.message || t('login.registerFailed'), 'error');
       }
     });
   </script>

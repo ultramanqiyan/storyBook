@@ -1,0 +1,44 @@
+{
+  "types": [
+    {
+      "type": "adventure",
+      "name": "Children's Adventure",
+      "description": "Stories for children",
+      "theme_color": "#FFD700",
+      "secondary_color": "#7CB342",
+      "bg_style": "Cartoon illustration",
+      "border_style": "Rounded colorful",
+      "icon_style": "Playful emoji"
+    },
+    {
+      "type": "fantasy",
+      "name": "Fantasy Legend",
+      "description": "Magic and fantasy themes",
+      "theme_color": "#6B21A8",
+      "secondary_color": "#FFD700",
+      "bg_style": "Starry sky/magic texture",
+      "border_style": "Ornate patterns",
+      "icon_style": "Magic runes"
+    },
+    {
+      "type": "romance",
+      "name": "Urban Romance",
+      "description": "Modern urban love stories",
+      "theme_color": "#F48FB1",
+      "secondary_color": "#90CAF9",
+      "bg_style": "Soft gradient",
+      "border_style": "Lace/trim",
+      "icon_style": "Delicate icons"
+    },
+    {
+      "type": "business",
+      "name": "Workplace Drama",
+      "description": "Workplace stories",
+      "theme_color": "#1E3A8A",
+      "secondary_color": "#F97316",
+      "bg_style": "Geometric patterns",
+      "border_style": "Clean lines",
+      "icon_style": "Flat business style"
+    }
+  ]
+}

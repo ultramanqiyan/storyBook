@@ -3,7 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Create New Story - StoryBook</title>
+  <title data-i18n="meta.createTitle">Create New Story - StoryBook</title>
+  <meta name="description" content="Create your own interactive story with custom characters and plot cards in StoryBook.">
+  <meta name="keywords" content="StoryBook, create story, interactive fiction, custom characters">
+  <link rel="alternate" hreflang="en" href="book-create.html">
+  <link rel="alternate" hreflang="zh" href="book-create.html?lang=zh">
+  <meta property="og:title" content="Create New Story - StoryBook">
+  <meta property="og:description" content="Create your own interactive story with custom characters and plot cards.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
   <link rel="stylesheet" href="css/variables.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/animations.css">
@@ -394,235 +403,239 @@
   <div class="particles-container" id="particles"></div>
   
   <nav class="navbar">
-    <a href="bookshelf.html" class="navbar-brand">← Library</a>
+    <a href="bookshelf.html" class="navbar-brand">← <span data-i18n="nav.library">Library</span></a>
     <div class="navbar-nav">
-      <a href="bookshelf.html" class="navbar-link">Cancel</a>
+      <a href="bookshelf.html" class="navbar-link" data-i18n="common.cancel">Cancel</a>
+      <div class="navbar-language">
+        <button class="lang-btn active" onclick="switchLanguage('en')">EN</button>
+        <button class="lang-btn" onclick="switchLanguage('zh')">中文</button>
+      </div>
     </div>
   </nav>
   
   <div class="create-page">
     <div class="create-header">
-      <h1>Create New Story</h1>
+      <h1 data-i18n="create.title">Create New Story</h1>
     </div>
     
     <div class="progress-indicator">
       <div class="page-step active" data-step="1">
         <div class="page-icon">📖</div>
-        <span class="page-label">Basic Info</span>
+        <span class="page-label" data-i18n="create.basicInfo">Basic Info</span>
       </div>
       <div class="page-step" data-step="2">
         <div class="page-icon">🧙‍♂️</div>
-        <span class="page-label">Protagonist</span>
+        <span class="page-label" data-i18n="create.protagonist">Protagonist</span>
       </div>
       <div class="page-step" data-step="3">
         <div class="page-icon">👥</div>
-        <span class="page-label">Companions</span>
+        <span class="page-label" data-i18n="create.companions">Companions</span>
       </div>
       <div class="page-step" data-step="4">
         <div class="page-icon">✨</div>
-        <span class="page-label">Complete</span>
+        <span class="page-label" data-i18n="create.complete">Complete</span>
       </div>
     </div>
     
     <div class="form-container">
       <div class="parchment-form">
         <div class="step-content active" id="step1">
-          <h2 class="step-title">📖 Story Basics</h2>
+          <h2 class="step-title">📖 <span data-i18n="create.storyBasics">Story Basics</span></h2>
           
           <div class="form-group">
-            <label class="form-label">Story Title</label>
-            <input type="text" class="form-input" id="storyTitle" placeholder="Enter your story's title..." maxlength="50">
+            <label class="form-label" data-i18n="create.storyTitle">Story Title</label>
+            <input type="text" class="form-input" id="storyTitle" data-i18n-placeholder="create.storyTitlePlaceholder" placeholder="Enter your story's title..." maxlength="50">
           </div>
           
           <div class="form-group">
-            <label class="form-label">Genre</label>
+            <label class="form-label" data-i18n="create.genre">Genre</label>
             <select class="form-select" id="storyGenre">
-              <option value="">Select a genre...</option>
-              <option value="adventure">🗺️ Adventure</option>
-              <option value="fantasy">🧙 Fantasy</option>
-              <option value="romance">💕 Romance</option>
-              <option value="business">💼 Business</option>
+              <option value="" data-i18n="create.selectGenre">Select a genre...</option>
+              <option value="adventure">🗺️ <span data-i18n="genre.adventure">Adventure</span></option>
+              <option value="fantasy">🧙 <span data-i18n="genre.fantasy">Fantasy</span></option>
+              <option value="romance">💕 <span data-i18n="genre.romance">Romance</span></option>
+              <option value="business">💼 <span data-i18n="genre.business">Business</span></option>
             </select>
           </div>
           
           <div class="form-group">
-            <label class="form-label">Description</label>
-            <textarea class="form-input form-textarea" id="storyDescription" placeholder="Describe your story in a few sentences..."></textarea>
+            <label class="form-label" data-i18n="create.description">Description</label>
+            <textarea class="form-input form-textarea" id="storyDescription" data-i18n-placeholder="create.descriptionPlaceholder" placeholder="Describe your story in a few sentences..."></textarea>
           </div>
           
           <div class="step-actions">
             <div></div>
-            <button class="btn-next" onclick="nextStep()">Next: Protagonist →</button>
+            <button class="btn-next" onclick="nextStep()"><span data-i18n="create.nextProtagonist">Next: Protagonist</span> →</button>
           </div>
         </div>
         
         <div class="step-content" id="step2">
-          <h2 class="step-title">🧙‍♂️ Your Protagonist</h2>
+          <h2 class="step-title">🧙‍♂️ <span data-i18n="create.yourProtagonist">Your Protagonist</span></h2>
           
           <div class="form-group">
-            <label class="form-label">Character Name</label>
-            <input type="text" class="form-input" id="protagonistName" placeholder="Enter the hero's name..." maxlength="20">
+            <label class="form-label" data-i18n="create.characterName">Character Name</label>
+            <input type="text" class="form-input" id="protagonistName" data-i18n-placeholder="create.characterNamePlaceholder" placeholder="Enter the hero's name..." maxlength="20">
           </div>
           
           <div class="form-group">
-            <label class="form-label">Select Avatar</label>
+            <label class="form-label" data-i18n="create.selectAvatar">Select Avatar</label>
             <div class="avatar-selector" id="protagonistAvatars">
             </div>
           </div>
           
           <div class="form-group">
-            <label class="form-label">Character Background</label>
-            <textarea class="form-input form-textarea" id="protagonistBackground" placeholder="Tell us about your hero's past..."></textarea>
+            <label class="form-label" data-i18n="create.characterBackground">Character Background</label>
+            <textarea class="form-input form-textarea" id="protagonistBackground" data-i18n-placeholder="create.characterBackgroundPlaceholder" placeholder="Tell us about your hero's past..."></textarea>
           </div>
           
           <div class="form-group">
-            <label class="form-label">性格 *</label>
+            <label class="form-label" data-i18n="create.personality">Personality *</label>
             <select class="form-select" id="protagonistPersonality">
-              <option value="">选择性格...</option>
-              <option value="勇敢">勇敢</option>
-              <option value="聪明">聪明</option>
-              <option value="温柔">温柔</option>
-              <option value="活泼">活泼</option>
-              <option value="冷静">冷静</option>
-              <option value="乐观">乐观</option>
-              <option value="善良">善良</option>
-              <option value="严肃">严肃</option>
+              <option value="" data-i18n="create.selectPersonality">Select personality...</option>
+              <option value="brave" data-i18n="options.personality.brave">Brave</option>
+              <option value="smart" data-i18n="options.personality.smart">Smart</option>
+              <option value="gentle" data-i18n="options.personality.gentle">Gentle</option>
+              <option value="lively" data-i18n="options.personality.lively">Lively</option>
+              <option value="calm" data-i18n="options.personality.calm">Calm</option>
+              <option value="optimistic" data-i18n="options.personality.optimistic">Optimistic</option>
+              <option value="kind" data-i18n="options.personality.kind">Kind</option>
+              <option value="serious" data-i18n="options.personality.serious">Serious</option>
             </select>
           </div>
           
           <div class="form-group">
-            <label class="form-label">说话方式 *</label>
+            <label class="form-label" data-i18n="create.speechStyle">Speech Style *</label>
             <select class="form-select" id="protagonistSpeechStyle">
-              <option value="">选择说话方式...</option>
-              <option value="简洁直接">简洁直接</option>
-              <option value="幽默风趣">幽默风趣</option>
-              <option value="温柔体贴">温柔体贴</option>
-              <option value="严肃正式">严肃正式</option>
-              <option value="活泼热情">活泼热情</option>
-              <option value="礼貌客气">礼貌客气</option>
-              <option value="深沉">深沉</option>
-              <option value="诗意文艺">诗意文艺</option>
+              <option value="" data-i18n="create.selectSpeechStyle">Select speech style...</option>
+              <option value="direct" data-i18n="options.speechStyle.direct">Direct and Concise</option>
+              <option value="humorous" data-i18n="options.speechStyle.humorous">Humorous and Witty</option>
+              <option value="gentle" data-i18n="options.speechStyle.gentle">Gentle and Caring</option>
+              <option value="formal" data-i18n="options.speechStyle.formal">Formal and Serious</option>
+              <option value="enthusiastic" data-i18n="options.speechStyle.enthusiastic">Enthusiastic and Lively</option>
+              <option value="polite" data-i18n="options.speechStyle.polite">Polite and Courteous</option>
+              <option value="deep" data-i18n="options.speechStyle.deep">Deep and Thoughtful</option>
+              <option value="poetic" data-i18n="options.speechStyle.poetic">Poetic and Artistic</option>
             </select>
           </div>
           
           <div class="form-group">
-            <label class="form-label">角色类型 *</label>
+            <label class="form-label" data-i18n="create.roleType">Role Type *</label>
             <select class="form-select" id="protagonistRoleType">
-              <option value="">选择角色类型...</option>
+              <option value="" data-i18n="create.selectRoleType">Select role type...</option>
             </select>
           </div>
           
           <div class="step-actions">
-            <button class="btn-prev" onclick="prevStep()">← Back</button>
-            <button class="btn-next" onclick="nextStep()">Next: Companions →</button>
+            <button class="btn-prev" onclick="prevStep()">← <span data-i18n="common.back">Back</span></button>
+            <button class="btn-next" onclick="nextStep()"><span data-i18n="create.nextCompanions">Next: Companions</span> →</button>
           </div>
         </div>
         
         <div class="step-content" id="step3">
-          <h2 class="step-title">👥 Companion Characters</h2>
+          <h2 class="step-title">👥 <span data-i18n="create.companionCharacters">Companion Characters</span></h2>
           
           <div id="companionsContainer">
             <div class="companion-section" id="companion1">
               <div class="companion-header">
-                <label class="form-label">Companion 1</label>
+                <label class="form-label" data-i18n="create.companion">Companion 1</label>
               </div>
               <div class="form-group">
-                <input type="text" class="form-input companion-name" placeholder="Companion's name..." maxlength="20">
+                <input type="text" class="form-input companion-name" data-i18n-placeholder="create.companionNamePlaceholder" placeholder="Companion's name..." maxlength="20">
               </div>
               <div class="form-group">
                 <div class="avatar-selector" id="companion1Avatars"></div>
               </div>
               <div class="form-group">
-                <label class="form-label">与主角亲密度</label>
+                <label class="form-label" data-i18n="create.intimacyWithProtagonist">Intimacy with Protagonist</label>
                 <div class="intimacy-options" id="companion1Intimacy">
                   <div class="intimacy-option" data-value="-50" onclick="selectIntimacy('companion1', -50, this)">
                     <span class="intimacy-icon">😠</span>
-                    <span class="intimacy-label">敌对</span>
+                    <span class="intimacy-label" data-i18n="intimacy.hostile">Hostile</span>
                   </div>
                   <div class="intimacy-option selected" data-value="0" onclick="selectIntimacy('companion1', 0, this)">
                     <span class="intimacy-icon">😐</span>
-                    <span class="intimacy-label">中立</span>
+                    <span class="intimacy-label" data-i18n="intimacy.neutral">Neutral</span>
                   </div>
                   <div class="intimacy-option" data-value="50" onclick="selectIntimacy('companion1', 50, this)">
                     <span class="intimacy-icon">😊</span>
-                    <span class="intimacy-label">友好</span>
+                    <span class="intimacy-label" data-i18n="intimacy.friendly">Friendly</span>
                   </div>
                 </div>
               </div>
               <div class="form-group">
-                <label class="form-label">性格 *</label>
+                <label class="form-label" data-i18n="create.personality">Personality *</label>
                 <select class="form-select companion-personality">
-                  <option value="">选择性格...</option>
-                  <option value="勇敢">勇敢</option>
-                  <option value="聪明">聪明</option>
-                  <option value="温柔">温柔</option>
-                  <option value="活泼">活泼</option>
-                  <option value="冷静">冷静</option>
-                  <option value="乐观">乐观</option>
-                  <option value="善良">善良</option>
-                  <option value="严肃">严肃</option>
-                  <option value="睿智">睿智</option>
-                  <option value="幽默">幽默</option>
+                  <option value="" data-i18n="create.selectPersonality">Select personality...</option>
+                  <option value="brave" data-i18n="options.personality.brave">Brave</option>
+                  <option value="smart" data-i18n="options.personality.smart">Smart</option>
+                  <option value="gentle" data-i18n="options.personality.gentle">Gentle</option>
+                  <option value="lively" data-i18n="options.personality.lively">Lively</option>
+                  <option value="calm" data-i18n="options.personality.calm">Calm</option>
+                  <option value="optimistic" data-i18n="options.personality.optimistic">Optimistic</option>
+                  <option value="kind" data-i18n="options.personality.kind">Kind</option>
+                  <option value="serious" data-i18n="options.personality.serious">Serious</option>
+                  <option value="wise" data-i18n="options.personality.wise">Wise</option>
+                  <option value="humorous" data-i18n="options.personality.humorous">Humorous</option>
                 </select>
               </div>
               <div class="form-group">
-                <label class="form-label">说话方式 *</label>
+                <label class="form-label" data-i18n="create.speechStyle">Speech Style *</label>
                 <select class="form-select companion-speech-style">
-                  <option value="">选择说话方式...</option>
-                  <option value="简洁直接">简洁直接</option>
-                  <option value="幽默风趣">幽默风趣</option>
-                  <option value="温柔体贴">温柔体贴</option>
-                  <option value="严肃正式">严肃正式</option>
-                  <option value="活泼热情">活泼热情</option>
-                  <option value="礼貌客气">礼貌客气</option>
-                  <option value="深沉">深沉</option>
-                  <option value="诗意文艺">诗意文艺</option>
-                  <option value="温和">温和</option>
+                  <option value="" data-i18n="create.selectSpeechStyle">Select speech style...</option>
+                  <option value="direct" data-i18n="options.speechStyle.direct">Direct and Concise</option>
+                  <option value="humorous" data-i18n="options.speechStyle.humorous">Humorous and Witty</option>
+                  <option value="gentle" data-i18n="options.speechStyle.gentle">Gentle and Caring</option>
+                  <option value="formal" data-i18n="options.speechStyle.formal">Formal and Serious</option>
+                  <option value="enthusiastic" data-i18n="options.speechStyle.enthusiastic">Enthusiastic and Lively</option>
+                  <option value="polite" data-i18n="options.speechStyle.polite">Polite and Courteous</option>
+                  <option value="deep" data-i18n="options.speechStyle.deep">Deep and Thoughtful</option>
+                  <option value="poetic" data-i18n="options.speechStyle.poetic">Poetic and Artistic</option>
+                  <option value="mild" data-i18n="options.speechStyle.mild">Mild and Gentle</option>
                 </select>
               </div>
               <div class="form-group">
-                <label class="form-label">角色类型 *</label>
+                <label class="form-label" data-i18n="create.roleType">Role Type *</label>
                 <select class="form-select companion-role-type">
-                  <option value="">选择角色类型...</option>
+                  <option value="" data-i18n="create.selectRoleType">Select role type...</option>
                 </select>
               </div>
               <div class="form-group">
-                <label class="form-label">与主角关系</label>
+                <label class="form-label" data-i18n="create.relationshipWithProtagonist">Relationship with Protagonist</label>
                 <select class="form-select companion-relationship">
-                  <option value="">选择关系...</option>
-                  <option value="朋友">朋友</option>
-                  <option value="恋人">恋人</option>
-                  <option value="导师">导师</option>
-                  <option value="竞争对手">竞争对手</option>
-                  <option value="同事">同事</option>
-                  <option value="合作伙伴">合作伙伴</option>
-                  <option value="家人">家人</option>
-                  <option value="陌生人">陌生人</option>
-                  <option value="custom">自定义...</option>
+                  <option value="" data-i18n="create.selectRelationship">Select relationship...</option>
+                  <option value="friend" data-i18n="options.relationship.friend">Friend</option>
+                  <option value="lover" data-i18n="options.relationship.lover">Lover</option>
+                  <option value="mentor" data-i18n="options.relationship.mentor">Mentor</option>
+                  <option value="rival" data-i18n="options.relationship.rival">Rival</option>
+                  <option value="colleague" data-i18n="options.relationship.colleague">Colleague</option>
+                  <option value="partner" data-i18n="options.relationship.partner">Partner</option>
+                  <option value="family" data-i18n="options.relationship.family">Family</option>
+                  <option value="stranger" data-i18n="options.relationship.stranger">Stranger</option>
+                  <option value="custom" data-i18n="common.custom">Custom...</option>
                 </select>
-                <input type="text" class="form-input custom-relationship-input" placeholder="输入自定义关系..." style="display: none; margin-top: 8px;" maxlength="20">
+                <input type="text" class="form-input custom-relationship-input" data-i18n-placeholder="create.customRelationshipPlaceholder" placeholder="Enter custom relationship..." style="display: none; margin-top: 8px;" maxlength="20">
               </div>
             </div>
           </div>
           
           <button class="add-companion-btn" id="addCompanionBtn" onclick="addCompanion()">
-            + Add Another Companion (Max 3)
+            + <span data-i18n="create.addCompanion">Add Another Companion</span> (<span data-i18n="create.max">Max</span> 3)
           </button>
           
           <div class="step-actions">
-            <button class="btn-prev" onclick="prevStep()">← Back</button>
-            <button class="btn-next" onclick="createStory()">Create Story ✨</button>
+            <button class="btn-prev" onclick="prevStep()">← <span data-i18n="common.back">Back</span></button>
+            <button class="btn-next" onclick="createStory()"><span data-i18n="create.createStory">Create Story</span> ✨</button>
           </div>
         </div>
         
         <div class="step-content" id="step4">
           <div class="success-content">
             <div class="success-icon">📚</div>
-            <h2 class="success-title">Story Created!</h2>
-            <p class="success-message">Your story is ready to begin. Start writing your first chapter or let the Director guide you.</p>
+            <h2 class="success-title" data-i18n="create.storyCreated">Story Created!</h2>
+            <p class="success-message" data-i18n="create.storyReady">Your story is ready to begin. Start writing your first chapter or let the Director guide you.</p>
             <div class="flex-center gap-lg">
-              <a href="chapter.html" class="btn btn-primary">Start Writing</a>
-              <a href="director.html" class="btn btn-secondary">Use Director</a>
+              <a href="chapter.html" class="btn btn-primary" data-i18n="create.startWriting">Start Writing</a>
+              <a href="director.html" class="btn btn-secondary" data-i18n="create.useDirector">Use Director</a>
             </div>
           </div>
         </div>
@@ -645,10 +658,10 @@
     const defaultAvatars = ['🧙‍♂️', '👸', '🧝', '🧛', '🧟', '🦸', '🥷', '🧚', '🧜', '🧞'];
     
     const roleTypesByBookType = {
-      adventure: ['小探险家', '小勇士', '冒险者', '旅行者', '寻宝者'],
-      fantasy: ['魔法学徒', '战士', '游侠', '法师', '牧师', '召唤师'],
-      romance: ['白领', '学生', '艺术家', '设计师', '作家'],
-      business: ['经理', '创业者', '顾问', '助理', '投资人']
+      adventure: ['explorer', 'warrior', 'adventurer', 'traveler', 'treasure_hunter'],
+      fantasy: ['mage_apprentice', 'warrior', 'ranger', 'wizard', 'priest', 'summoner'],
+      romance: ['office_worker', 'student', 'artist', 'designer', 'writer'],
+      business: ['manager', 'entrepreneur', 'consultant', 'assistant', 'investor']
     };
     
     document.addEventListener('DOMContentLoaded', async function() {
@@ -716,24 +729,24 @@
     
     function updateRoleTypeOptions(bookType) {
       const roleTypeSelect = document.getElementById('protagonistRoleType');
-      roleTypeSelect.innerHTML = '<option value="">选择角色类型...</option>';
+      roleTypeSelect.innerHTML = `<option value="">${t('create.selectRoleType')}</option>`;
       
       if (bookType && roleTypesByBookType[bookType]) {
         roleTypesByBookType[bookType].forEach(type => {
           const option = document.createElement('option');
           option.value = type;
-          option.textContent = type;
+          option.textContent = t(`options.roleType.${type}`, type);
           roleTypeSelect.appendChild(option);
         });
       }
       
       document.querySelectorAll('.companion-role-type').forEach(select => {
-        select.innerHTML = '<option value="">选择角色类型...</option>';
+        select.innerHTML = `<option value="">${t('create.selectRoleType')}</option>`;
         if (bookType && roleTypesByBookType[bookType]) {
           roleTypesByBookType[bookType].forEach(type => {
             const option = document.createElement('option');
             option.value = type;
-            option.textContent = type;
+            option.textContent = t(`options.roleType.${type}`, type);
             select.appendChild(option);
           });
         }

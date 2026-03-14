@@ -1,0 +1,29 @@
+{
+  "speech_styles": [
+    "Direct and Concise",
+    "Verbose and Detailed",
+    "Polite and Courteous",
+    "Sarcastic and Sharp",
+    "Humorous and Witty",
+    "Formal and Serious",
+    "Gentle and Caring",
+    "Aggressive",
+    "Slow and Methodical",
+    "Fast and Urgent",
+    "Poetic and Artistic",
+    "Practical and Plain",
+    "Exaggerated and Vivid",
+    "Passive-Aggressive",
+    "Enthusiastic",
+    "Cold and Distant",
+    "Wise and Deep",
+    "Innocent and Naive",
+    "Ironic and Mocking",
+    "Complaining",
+    "Commanding",
+    "Dismissive",
+    "Smooth-talking",
+    "Silent and Reticent",
+    "Interrupting"
+  ]
+}
