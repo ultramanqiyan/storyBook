@@ -186,6 +186,112 @@
       font-size: 12px;
       color: var(--color-text-muted);
     }
+    
+    .book-delete-btn {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: rgba(220, 38, 38, 0.8);
+      border: 2px solid rgba(255, 255, 255, 0.3);
+      color: white;
+      font-size: 14px;
+      cursor: pointer;
+      opacity: 0;
+      transition: all 0.3s ease;
+      z-index: 10;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .book-3d:hover .book-delete-btn {
+      opacity: 1;
+    }
+    
+    .book-delete-btn:hover {
+      background: #dc2626;
+      transform: scale(1.1);
+    }
+    
+    .delete-confirm-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.8);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+    }
+    
+    .delete-confirm-modal.active {
+      display: flex;
+    }
+    
+    .delete-confirm-modal .modal-content {
+      background: linear-gradient(135deg, #1a1a2e 0%, #0f0f1e 100%);
+      border: 2px solid rgba(255, 215, 0, 0.3);
+      border-radius: 16px;
+      padding: 30px;
+      max-width: 400px;
+      text-align: center;
+    }
+    
+    .delete-confirm-modal h3 {
+      font-family: var(--font-title);
+      color: #dc2626;
+      margin-bottom: 16px;
+    }
+    
+    .delete-confirm-modal p {
+      color: var(--color-text-muted);
+      margin-bottom: 8px;
+    }
+    
+    .delete-confirm-modal .warning {
+      color: #f59e0b;
+      font-size: 14px;
+      margin-bottom: 24px;
+    }
+    
+    .delete-confirm-modal .modal-actions {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+    }
+    
+    .delete-confirm-modal .btn-cancel {
+      padding: 12px 24px;
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 8px;
+      color: var(--color-text);
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .delete-confirm-modal .btn-cancel:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+    
+    .delete-confirm-modal .btn-confirm-delete {
+      padding: 12px 24px;
+      background: #dc2626;
+      border: none;
+      border-radius: 8px;
+      color: white;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .delete-confirm-modal .btn-confirm-delete:hover {
+      background: #b91c1c;
+    }
   </style>
 </head>
 <body class="theme-adventure">
@@ -232,6 +338,18 @@
     <div class="books-section" style="text-align: center; padding: 40px;">
       <p style="color: var(--color-text-muted); margin-bottom: 16px;">Looking for more stories?</p>
       <a href="library.html" class="btn btn-secondary">Browse Public Library</a>
+    </div>
+  </div>
+  
+  <div id="deleteConfirmModal" class="delete-confirm-modal">
+    <div class="modal-content">
+      <h3>⚠️ 确认删除</h3>
+      <p>确定要删除书籍《<span id="deleteBookTitle"></span>》吗？</p>
+      <p class="warning">⚠️ 删除后数据不可恢复！</p>
+      <div class="modal-actions">
+        <button class="btn-cancel" onclick="hideDeleteConfirm()">取消</button>
+        <button class="btn-confirm-delete" onclick="confirmDeleteBook()">确认删除</button>
+      </div>
     </div>
   </div>
   
@@ -306,10 +424,13 @@
       const bookId = book.book_id;
       const chapterCount = book.chapter_count || 0;
       const progress = book.progress || 0;
+      const isPreset = book.is_preset === 1;
       
       const div = document.createElement('div');
       div.className = 'book-item';
       div.dataset.type = book.type;
+      div.dataset.bookId = bookId;
+      div.dataset.isPreset = isPreset ? '1' : '0';
       div.innerHTML = `
         <div class="book-3d" onclick="window.location.href='book.html?id=${bookId}'">
           <div class="book-cover" style="background: ${colors[book.type] || colors.adventure}">
@@ -319,6 +440,7 @@
           <div class="book-pages"></div>
           <div class="book-title">${book.title}</div>
           <div class="book-tag">${book.type}</div>
+          ${!isPreset ? `<button class="book-delete-btn" onclick="event.stopPropagation(); showDeleteConfirm('${bookId}', '${book.title.replace(/'/g, "\\'")}')">🗑️</button>` : ''}
         </div>
         <div class="book-info">
           <h4>${book.title}</h4>
@@ -329,6 +451,45 @@
         </div>
       `;
       return div;
+    }
+    
+    let bookToDelete = null;
+    
+    function showDeleteConfirm(bookId, bookTitle) {
+      bookToDelete = bookId;
+      document.getElementById('deleteBookTitle').textContent = bookTitle;
+      document.getElementById('deleteConfirmModal').classList.add('active');
+    }
+    
+    function hideDeleteConfirm() {
+      document.getElementById('deleteConfirmModal').classList.remove('active');
+      bookToDelete = null;
+    }
+    
+    async function confirmDeleteBook() {
+      if (!bookToDelete) return;
+      
+      try {
+        const result = await API.deleteBook(bookToDelete);
+        
+        if (result.success) {
+          const bookItem = document.querySelector(`.book-item[data-book-id="${bookToDelete}"]`);
+          if (bookItem) {
+            bookItem.remove();
+          }
+          
+          allUserBooks = allUserBooks.filter(b => b.book_id !== bookToDelete);
+          updateBookCounts();
+          
+          showNotification('书籍已删除', 'success');
+        } else {
+          showNotification('删除失败: ' + (result.error || '未知错误'), 'error');
+        }
+      } catch (error) {
+        showNotification('删除失败: ' + error.message, 'error');
+      } finally {
+        hideDeleteConfirm();
+      }
     }
     
     function initFilterTabs() {

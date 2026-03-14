@@ -327,6 +327,46 @@
       cursor: not-allowed;
     }
     
+    .intimacy-options {
+      display: flex;
+      gap: 12px;
+      margin-top: 8px;
+    }
+    
+    .intimacy-option {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 12px;
+      background: rgba(255, 255, 255, 0.3);
+      border: 2px solid rgba(139, 90, 43, 0.3);
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .intimacy-option:hover {
+      border-color: var(--color-gold);
+      transform: translateY(-2px);
+    }
+    
+    .intimacy-option.selected {
+      border-color: var(--color-gold);
+      background: rgba(255, 215, 0, 0.2);
+      box-shadow: 0 4px 10px rgba(255, 215, 0, 0.3);
+    }
+    
+    .intimacy-icon {
+      font-size: 24px;
+      margin-bottom: 4px;
+    }
+    
+    .intimacy-label {
+      font-size: 14px;
+      color: #5a3a1a;
+    }
+    
     @media (max-width: 768px) {
       .progress-indicator {
         gap: var(--spacing-sm);
@@ -450,10 +490,27 @@
                 <label class="form-label">Companion 1</label>
               </div>
               <div class="form-group">
-                <input type="text" class="form-input" placeholder="Companion's name...">
+                <input type="text" class="form-input companion-name" placeholder="Companion's name...">
               </div>
               <div class="form-group">
                 <div class="avatar-selector" id="companion1Avatars"></div>
+              </div>
+              <div class="form-group">
+                <label class="form-label">与主角亲密度</label>
+                <div class="intimacy-options" id="companion1Intimacy">
+                  <div class="intimacy-option" data-value="-50" onclick="selectIntimacy('companion1', -50, this)">
+                    <span class="intimacy-icon">😠</span>
+                    <span class="intimacy-label">敌对</span>
+                  </div>
+                  <div class="intimacy-option selected" data-value="0" onclick="selectIntimacy('companion1', 0, this)">
+                    <span class="intimacy-icon">😐</span>
+                    <span class="intimacy-label">中立</span>
+                  </div>
+                  <div class="intimacy-option" data-value="50" onclick="selectIntimacy('companion1', 50, this)">
+                    <span class="intimacy-icon">😊</span>
+                    <span class="intimacy-label">友好</span>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -491,6 +548,7 @@
     let companionCount = 1;
     let selectedProtagonistAvatar = null;
     const selectedCompanionAvatars = {};
+    const selectedCompanionIntimacy = { companion1: 0 };
     let bookTypes = [];
     let createdBookId = null;
     
@@ -573,6 +631,15 @@
       }
     }
     
+    function selectIntimacy(companionId, value, element) {
+      const container = element.parentElement;
+      container.querySelectorAll('.intimacy-option').forEach(opt => {
+        opt.classList.remove('selected');
+      });
+      element.classList.add('selected');
+      selectedCompanionIntimacy[companionId] = value;
+    }
+    
     function nextStep() {
       if (currentStep < 4) {
         document.getElementById(`step${currentStep}`).classList.remove('active');
@@ -612,15 +679,33 @@
           <button class="add-companion-btn" onclick="removeCompanion(${companionCount})">Remove</button>
         </div>
         <div class="form-group">
-          <input type="text" class="form-input" placeholder="Companion's name...">
+          <input type="text" class="form-input companion-name" placeholder="Companion's name...">
         </div>
         <div class="form-group">
           <div class="avatar-selector" id="companion${companionCount}Avatars"></div>
+        </div>
+        <div class="form-group">
+          <label class="form-label">与主角亲密度</label>
+          <div class="intimacy-options" id="companion${companionCount}Intimacy">
+            <div class="intimacy-option" data-value="-50" onclick="selectIntimacy('companion${companionCount}', -50, this)">
+              <span class="intimacy-icon">😠</span>
+              <span class="intimacy-label">敌对</span>
+            </div>
+            <div class="intimacy-option selected" data-value="0" onclick="selectIntimacy('companion${companionCount}', 0, this)">
+              <span class="intimacy-icon">😐</span>
+              <span class="intimacy-label">中立</span>
+            </div>
+            <div class="intimacy-option" data-value="50" onclick="selectIntimacy('companion${companionCount}', 50, this)">
+              <span class="intimacy-icon">😊</span>
+              <span class="intimacy-label">友好</span>
+            </div>
+          </div>
         </div>
       `;
       
       container.appendChild(newCompanion);
       renderCompanionAvatars(companionCount);
+      selectedCompanionIntimacy[`companion${companionCount}`] = 0;
       
       if (companionCount >= 3) {
         document.getElementById('addCompanionBtn').disabled = true;
@@ -667,7 +752,7 @@
       for (let i = 1; i <= companionCount; i++) {
         const companionSection = document.getElementById(`companion${i}`);
         if (companionSection) {
-          const nameInput = companionSection.querySelector('input');
+          const nameInput = companionSection.querySelector('input.companion-name');
           if (nameInput && nameInput.value) {
             supportingCharacters.push({
               name: nameInput.value,
@@ -675,7 +760,7 @@
               personality: '',
               speech_style: '',
               role_type: 'supporting',
-              intimacy: 50,
+              intimacy: selectedCompanionIntimacy[`companion${i}`] || 0,
               relationship: ''
             });
           }
