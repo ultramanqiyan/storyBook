@@ -141,6 +141,12 @@ const API = {
         });
     },
 
+    async deleteCharacter(charId) {
+        return apiRequest(`/api/characters/${charId}`, {
+            method: 'DELETE'
+        });
+    },
+
     async getPlotCards(bookId) {
         return apiRequest(`/api/plot-cards?book_id=${bookId}`);
     },

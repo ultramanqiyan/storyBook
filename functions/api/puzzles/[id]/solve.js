@@ -114,9 +114,21 @@ function generateCardDrop(bookType) {
   }
 
   const subTypes = ['weather', 'terrain', 'adventure', 'equipment'];
-  const randomSubType = getRandomElement(subTypes);
+  const subTypeWeights = [2, 2, 3, 3];
   
-  const cardPool = options[randomSubType];
+  const totalWeight = subTypeWeights.reduce((a, b) => a + b, 0);
+  let random = Math.random() * totalWeight;
+  let selectedSubType = 'adventure';
+  
+  for (let i = 0; i < subTypes.length; i++) {
+    random -= subTypeWeights[i];
+    if (random <= 0) {
+      selectedSubType = subTypes[i];
+      break;
+    }
+  }
+  
+  const cardPool = options[selectedSubType];
   if (!cardPool || cardPool.length === 0) {
     return null;
   }
@@ -125,10 +137,10 @@ function generateCardDrop(bookType) {
   
   return {
     card_id: generateId(),
-    sub_type: randomSubType,
+    sub_type: selectedSubType,
     name: randomCard,
-    icon: cardIcons[randomSubType],
-    description: `${randomSubType}类型卡牌`,
+    icon: cardIcons[selectedSubType],
+    description: `${selectedSubType}类型卡牌`,
     is_custom: 0
   };
 }

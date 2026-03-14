@@ -431,7 +431,7 @@
           
           <div class="form-group">
             <label class="form-label">Story Title</label>
-            <input type="text" class="form-input" id="storyTitle" placeholder="Enter your story's title...">
+            <input type="text" class="form-input" id="storyTitle" placeholder="Enter your story's title..." maxlength="50">
           </div>
           
           <div class="form-group">
@@ -461,7 +461,7 @@
           
           <div class="form-group">
             <label class="form-label">Character Name</label>
-            <input type="text" class="form-input" id="protagonistName" placeholder="Enter the hero's name...">
+            <input type="text" class="form-input" id="protagonistName" placeholder="Enter the hero's name..." maxlength="20">
           </div>
           
           <div class="form-group">
@@ -473,6 +473,43 @@
           <div class="form-group">
             <label class="form-label">Character Background</label>
             <textarea class="form-input form-textarea" id="protagonistBackground" placeholder="Tell us about your hero's past..."></textarea>
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label">性格 *</label>
+            <select class="form-select" id="protagonistPersonality">
+              <option value="">选择性格...</option>
+              <option value="勇敢">勇敢</option>
+              <option value="聪明">聪明</option>
+              <option value="温柔">温柔</option>
+              <option value="活泼">活泼</option>
+              <option value="冷静">冷静</option>
+              <option value="乐观">乐观</option>
+              <option value="善良">善良</option>
+              <option value="严肃">严肃</option>
+            </select>
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label">说话方式 *</label>
+            <select class="form-select" id="protagonistSpeechStyle">
+              <option value="">选择说话方式...</option>
+              <option value="简洁直接">简洁直接</option>
+              <option value="幽默风趣">幽默风趣</option>
+              <option value="温柔体贴">温柔体贴</option>
+              <option value="严肃正式">严肃正式</option>
+              <option value="活泼热情">活泼热情</option>
+              <option value="礼貌客气">礼貌客气</option>
+              <option value="深沉">深沉</option>
+              <option value="诗意文艺">诗意文艺</option>
+            </select>
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label">角色类型 *</label>
+            <select class="form-select" id="protagonistRoleType">
+              <option value="">选择角色类型...</option>
+            </select>
           </div>
           
           <div class="step-actions">
@@ -490,7 +527,7 @@
                 <label class="form-label">Companion 1</label>
               </div>
               <div class="form-group">
-                <input type="text" class="form-input companion-name" placeholder="Companion's name...">
+                <input type="text" class="form-input companion-name" placeholder="Companion's name..." maxlength="20">
               </div>
               <div class="form-group">
                 <div class="avatar-selector" id="companion1Avatars"></div>
@@ -511,6 +548,59 @@
                     <span class="intimacy-label">友好</span>
                   </div>
                 </div>
+              </div>
+              <div class="form-group">
+                <label class="form-label">性格 *</label>
+                <select class="form-select companion-personality">
+                  <option value="">选择性格...</option>
+                  <option value="勇敢">勇敢</option>
+                  <option value="聪明">聪明</option>
+                  <option value="温柔">温柔</option>
+                  <option value="活泼">活泼</option>
+                  <option value="冷静">冷静</option>
+                  <option value="乐观">乐观</option>
+                  <option value="善良">善良</option>
+                  <option value="严肃">严肃</option>
+                  <option value="睿智">睿智</option>
+                  <option value="幽默">幽默</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label class="form-label">说话方式 *</label>
+                <select class="form-select companion-speech-style">
+                  <option value="">选择说话方式...</option>
+                  <option value="简洁直接">简洁直接</option>
+                  <option value="幽默风趣">幽默风趣</option>
+                  <option value="温柔体贴">温柔体贴</option>
+                  <option value="严肃正式">严肃正式</option>
+                  <option value="活泼热情">活泼热情</option>
+                  <option value="礼貌客气">礼貌客气</option>
+                  <option value="深沉">深沉</option>
+                  <option value="诗意文艺">诗意文艺</option>
+                  <option value="温和">温和</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label class="form-label">角色类型 *</label>
+                <select class="form-select companion-role-type">
+                  <option value="">选择角色类型...</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label class="form-label">与主角关系</label>
+                <select class="form-select companion-relationship">
+                  <option value="">选择关系...</option>
+                  <option value="朋友">朋友</option>
+                  <option value="恋人">恋人</option>
+                  <option value="导师">导师</option>
+                  <option value="竞争对手">竞争对手</option>
+                  <option value="同事">同事</option>
+                  <option value="合作伙伴">合作伙伴</option>
+                  <option value="家人">家人</option>
+                  <option value="陌生人">陌生人</option>
+                  <option value="custom">自定义...</option>
+                </select>
+                <input type="text" class="form-input custom-relationship-input" placeholder="输入自定义关系..." style="display: none; margin-top: 8px;" maxlength="20">
               </div>
             </div>
           </div>
@@ -554,6 +644,13 @@
     
     const defaultAvatars = ['🧙‍♂️', '👸', '🧝', '🧛', '🧟', '🦸', '🥷', '🧚', '🧜', '🧞'];
     
+    const roleTypesByBookType = {
+      adventure: ['小探险家', '小勇士', '冒险者', '旅行者', '寻宝者'],
+      fantasy: ['魔法学徒', '战士', '游侠', '法师', '牧师', '召唤师'],
+      romance: ['白领', '学生', '艺术家', '设计师', '作家'],
+      business: ['经理', '创业者', '顾问', '助理', '投资人']
+    };
+    
     document.addEventListener('DOMContentLoaded', async function() {
       createParticles(document.getElementById('particles'), 30);
       
@@ -562,7 +659,25 @@
       
       await loadConfig();
       renderAvatarSelectors();
+      initCustomRelationshipHandlers();
     });
+    
+    function initCustomRelationshipHandlers() {
+      document.addEventListener('change', function(e) {
+        if (e.target.classList.contains('companion-relationship')) {
+          const customInput = e.target.parentElement.querySelector('.custom-relationship-input');
+          if (customInput) {
+            if (e.target.value === 'custom') {
+              customInput.style.display = 'block';
+              customInput.focus();
+            } else {
+              customInput.style.display = 'none';
+              customInput.value = '';
+            }
+          }
+        }
+      });
+    }
     
     async function loadConfig() {
       try {
@@ -592,6 +707,36 @@
         option.value = type.type || type;
         option.textContent = `${typeIcons[type.type || type] || '📖'} ${type.name || (type.type || type).charAt(0).toUpperCase() + (type.type || type).slice(1)}`;
         select.appendChild(option);
+      });
+      
+      select.addEventListener('change', function() {
+        updateRoleTypeOptions(this.value);
+      });
+    }
+    
+    function updateRoleTypeOptions(bookType) {
+      const roleTypeSelect = document.getElementById('protagonistRoleType');
+      roleTypeSelect.innerHTML = '<option value="">选择角色类型...</option>';
+      
+      if (bookType && roleTypesByBookType[bookType]) {
+        roleTypesByBookType[bookType].forEach(type => {
+          const option = document.createElement('option');
+          option.value = type;
+          option.textContent = type;
+          roleTypeSelect.appendChild(option);
+        });
+      }
+      
+      document.querySelectorAll('.companion-role-type').forEach(select => {
+        select.innerHTML = '<option value="">选择角色类型...</option>';
+        if (bookType && roleTypesByBookType[bookType]) {
+          roleTypesByBookType[bookType].forEach(type => {
+            const option = document.createElement('option');
+            option.value = type;
+            option.textContent = type;
+            select.appendChild(option);
+          });
+        }
       });
     }
     
@@ -701,11 +846,75 @@
             </div>
           </div>
         </div>
+        <div class="form-group">
+          <label class="form-label">性格 *</label>
+          <select class="form-select companion-personality">
+            <option value="">选择性格...</option>
+            <option value="勇敢">勇敢</option>
+            <option value="聪明">聪明</option>
+            <option value="温柔">温柔</option>
+            <option value="活泼">活泼</option>
+            <option value="冷静">冷静</option>
+            <option value="乐观">乐观</option>
+            <option value="善良">善良</option>
+            <option value="严肃">严肃</option>
+            <option value="睿智">睿智</option>
+            <option value="幽默">幽默</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="form-label">说话方式 *</label>
+          <select class="form-select companion-speech-style">
+            <option value="">选择说话方式...</option>
+            <option value="简洁直接">简洁直接</option>
+            <option value="幽默风趣">幽默风趣</option>
+            <option value="温柔体贴">温柔体贴</option>
+            <option value="严肃正式">严肃正式</option>
+            <option value="活泼热情">活泼热情</option>
+            <option value="礼貌客气">礼貌客气</option>
+            <option value="深沉">深沉</option>
+            <option value="诗意文艺">诗意文艺</option>
+            <option value="温和">温和</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="form-label">角色类型 *</label>
+          <select class="form-select companion-role-type">
+            <option value="">选择角色类型...</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="form-label">与主角关系</label>
+          <select class="form-select companion-relationship">
+            <option value="">选择关系...</option>
+            <option value="朋友">朋友</option>
+            <option value="恋人">恋人</option>
+            <option value="导师">导师</option>
+            <option value="竞争对手">竞争对手</option>
+            <option value="同事">同事</option>
+            <option value="合作伙伴">合作伙伴</option>
+            <option value="家人">家人</option>
+            <option value="陌生人">陌生人</option>
+            <option value="custom">自定义...</option>
+          </select>
+          <input type="text" class="form-input custom-relationship-input" placeholder="输入自定义关系..." style="display: none; margin-top: 8px;" maxlength="20">
+        </div>
       `;
       
       container.appendChild(newCompanion);
       renderCompanionAvatars(companionCount);
       selectedCompanionIntimacy[`companion${companionCount}`] = 0;
+      
+      const bookType = document.getElementById('storyGenre').value;
+      if (bookType && roleTypesByBookType[bookType]) {
+        const roleTypeSelect = newCompanion.querySelector('.companion-role-type');
+        roleTypesByBookType[bookType].forEach(type => {
+          const option = document.createElement('option');
+          option.value = type;
+          option.textContent = type;
+          roleTypeSelect.appendChild(option);
+        });
+      }
       
       if (companionCount >= 3) {
         document.getElementById('addCompanionBtn').disabled = true;
@@ -737,14 +946,32 @@
         return;
       }
       
+      const protagonistPersonality = document.getElementById('protagonistPersonality').value;
+      const protagonistSpeechStyle = document.getElementById('protagonistSpeechStyle').value;
+      const protagonistRoleType = document.getElementById('protagonistRoleType').value;
+      
+      if (!protagonistPersonality) {
+        showNotification('请选择主角性格', 'error');
+        return;
+      }
+      if (!protagonistSpeechStyle) {
+        showNotification('请选择主角说话方式', 'error');
+        return;
+      }
+      if (!protagonistRoleType) {
+        showNotification('请选择主角角色类型', 'error');
+        return;
+      }
+      
       const userId = getUserId();
       
       const protagonist = {
         name: protagonistName,
         avatar: selectedProtagonistAvatar || '🧙‍♂️',
-        personality: document.getElementById('protagonistBackground').value || '',
-        speech_style: '',
-        role_type: 'protagonist',
+        personality: protagonistPersonality,
+        speech_style: protagonistSpeechStyle,
+        role_type: protagonistRoleType,
+        background: document.getElementById('protagonistBackground').value || '',
         is_protagonist: 1
       };
       
@@ -754,14 +981,42 @@
         if (companionSection) {
           const nameInput = companionSection.querySelector('input.companion-name');
           if (nameInput && nameInput.value) {
+            const personalitySelect = companionSection.querySelector('.companion-personality');
+            const speechStyleSelect = companionSection.querySelector('.companion-speech-style');
+            const roleTypeSelect = companionSection.querySelector('.companion-role-type');
+            const relationshipSelect = companionSection.querySelector('.companion-relationship');
+            const customRelationshipInput = companionSection.querySelector('.custom-relationship-input');
+            
+            const personality = personalitySelect ? personalitySelect.value : '';
+            const speechStyle = speechStyleSelect ? speechStyleSelect.value : '';
+            const roleType = roleTypeSelect ? roleTypeSelect.value : 'supporting';
+            let relationship = relationshipSelect ? relationshipSelect.value : '';
+            
+            if (relationship === 'custom' && customRelationshipInput && customRelationshipInput.value.trim()) {
+              relationship = customRelationshipInput.value.trim();
+            }
+            
+            if (!personality) {
+              showNotification(`请选择配角${i}的性格`, 'error');
+              return;
+            }
+            if (!speechStyle) {
+              showNotification(`请选择配角${i}的说话方式`, 'error');
+              return;
+            }
+            if (!roleType) {
+              showNotification(`请选择配角${i}的角色类型`, 'error');
+              return;
+            }
+            
             supportingCharacters.push({
               name: nameInput.value,
               avatar: selectedCompanionAvatars[`companion${i}`] || '👤',
-              personality: '',
-              speech_style: '',
-              role_type: 'supporting',
+              personality: personality,
+              speech_style: speechStyle,
+              role_type: roleType,
               intimacy: selectedCompanionIntimacy[`companion${i}`] || 0,
-              relationship: ''
+              relationship: relationship
             });
           }
         }

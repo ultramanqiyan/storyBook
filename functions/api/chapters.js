@@ -70,12 +70,41 @@ function generateChapterContent(bookType, selectedCardsInfo) {
   const terrain = selectedCardsInfo.terrain?.name || '森林';
   const adventure = selectedCardsInfo.adventure?.name || '探险';
   const equipment = selectedCardsInfo.equipment?.name || '指南针';
+  const personality = selectedCardsInfo.protagonist?.personality || '勇敢';
+  const supporting = selectedCardsInfo.supporting?.name || '';
   
   const templates = {
-    adventure: `${weather}的日子里，${protagonist}来到了${terrain}。这里充满了神秘和未知，${protagonist}拿出${equipment}，开始了${adventure}之旅。周围的景色令人叹为观止，每一步都充满惊喜。在这片神奇的土地上，${protagonist}将会遇到什么样的挑战呢？让我们拭目以待...`,
-    fantasy: `在${weather}的笼罩下，${protagonist}踏入了${terrain}。${equipment}在手中闪闪发光，预示着即将到来的${adventure}。空气中弥漫着魔法的气息，每一步都可能触发古老的咒语。${protagonist}深吸一口气，准备迎接命运的挑战...`,
-    romance: `${weather}的午后，${protagonist}漫步在${terrain}。手中紧握着${equipment}，心中期待着一场${adventure}。这里的一切都那么美好，仿佛时间都慢了下来。${protagonist}不知道的是，命运的齿轮已经开始转动...`,
-    business: `${weather}，${protagonist}来到了${terrain}。今天有一场重要的${adventure}在等待着。${protagonist}整理好${equipment}，深吸一口气，推开了那扇门。新的挑战，新的机遇，一切都将从这里开始...`
+    adventure: `${weather}的日子里，阳光透过云层洒下金色的光芒，照亮了前方的道路。${protagonist}怀着${personality}的心情，踏上了前往${terrain}的旅程。一路上，风景如画，鸟儿在枝头欢快地歌唱，微风轻拂着脸庞，带来阵阵花香和泥土的芬芳。
+
+${protagonist}拿出${equipment}，仔细观察着周围的环境。这片${terrain}充满了神秘和未知，每一处角落都可能隐藏着惊喜或挑战。远处的山峦起伏，近处的溪流潺潺，构成了一幅美丽的自然画卷。${supporting ? `身旁的${supporting}也在默默观察着一切，两人相视一笑，默契地继续前行。${supporting}的存在让这段旅程变得更加温暖。` : ''}
+
+随着深入${terrain}，${protagonist}开始了${adventure}之旅。脚下的路蜿蜒曲折，通向未知的远方。周围的景色令人叹为观止，高耸的树木遮天蔽日，清澈的溪流潺潺流淌。每一步都充满惊喜，每一刻都值得铭记。偶尔，远处传来野兽的吼声，提醒着这片土地的原始与野性。
+
+在这片神奇的土地上，${protagonist}将会遇到什么样的挑战呢？命运的齿轮已经开始转动，冒险的号角已经吹响。前方的道路虽然充满未知，但${protagonist}的心中充满了勇气和期待。这段旅程，注定会成为一段难忘的回忆...`,
+    
+    fantasy: `在${weather}的笼罩下，整个世界仿佛被一层神秘的面纱所覆盖，空气中弥漫着古老魔法的气息。${protagonist}踏入了传说中的${terrain}，每一步都可能触发沉睡千年的咒语，每一眼都可能看见不可思议的景象。远处的魔法光芒闪烁，近处的符文在石壁上若隐若现。
+
+${equipment}在手中闪闪发光，散发着微弱的魔法波动，预示着即将到来的${adventure}。${protagonist}${personality}地握紧了手中的法器，感受着其中蕴含的力量，那是一种古老而强大的能量。${supporting ? `${supporting}在身旁轻声说道："小心，这里的魔法很不稳定，我们必须谨慎前行。"${protagonist}点点头，继续谨慎前行，两人之间的默契让这段旅程更加安心。` : ''}
+
+${terrain}深处，奇异的生物在阴影中游荡，古老的符文在石壁上闪烁着神秘的光芒。${protagonist}深吸一口气，准备迎接命运的挑战。传说中，只有真正的勇者才能通过这里的考验，获得无上的力量和智慧。空气中充满了魔法的波动，每一次呼吸都仿佛在吸入魔力。
+
+魔法的旅程才刚刚开始，${protagonist}的传奇正在书写。前方等待着什么样的奇迹与危险？古老的预言正在一步步应验，而${protagonist}正是这预言中的主角。命运的齿轮已经开始转动，没有人能够阻止即将发生的一切...`,
+    
+    romance: `${weather}的午后，阳光温柔地洒落在大地上，为世界披上了一层金色的光芒。${protagonist}漫步在${terrain}，心中怀着对未来的憧憬和期待。手中紧握着${equipment}，那是承载着回忆的珍贵之物，每一个细节都诉说着过往的故事。这里的一切都那么美好，仿佛时间都慢了下来。
+
+${supporting ? `${supporting}静静地走在${protagonist}身旁，两人的影子在阳光下交织在一起，形成了一幅美丽的画面。空气中弥漫着淡淡的花香，微风轻拂，带来一丝甜蜜的气息。${supporting}的存在让这个下午变得更加特别。` : ''}${protagonist}${personality}地望着远方，心中期待着一场${adventure}，一场可能改变人生的际遇。
+
+${terrain}里，花朵竞相绽放，蝴蝶在花丛中翩翩起舞，为这个美好的下午增添了生机。每一个转角都可能遇见惊喜，每一次回眸都可能发现美好。${protagonist}不知道的是，命运的齿轮已经开始转动，一个美丽的邂逅正在悄然酝酿，等待着最合适的时机绽放。
+
+爱情的种子已经播下，等待着阳光和雨露的滋养。${protagonist}的故事，才刚刚开始书写。在这个充满可能性的世界里，每一天都可能成为改变命运的转折点。而今天，或许就是那个特别的日子...`,
+    
+    business: `${weather}，城市的天际线在晨光中渐渐清晰，高楼大厦的玻璃幕墙反射着第一缕阳光。${protagonist}来到了${terrain}，今天有一场重要的${adventure}在等待着。整理好${equipment}，${protagonist}${personality}地深吸一口气，推开了那扇门，准备迎接新的挑战。
+
+${terrain}里人来人往，每个人都在为自己的目标而忙碌，空气中弥漫着紧张而兴奋的气息。${supporting ? `${supporting}已经在等候，看到${protagonist}到来，微笑着点了点头。两人握手致意，准备开始今天的挑战。${supporting}的支持让${protagonist}更加有信心。` : ''}这是一个充满机遇的地方，每一个决定都可能影响未来的走向。
+
+${protagonist}环顾四周，目光坚定而专注。新的挑战，新的机遇，一切都将从这里开始。每一次握手都可能改变命运，每一次对话都可能开启新的篇章。在这个竞争激烈的世界里，只有不断进取才能立于不败之地。
+
+职场的风云变幻莫测，但${protagonist}已经准备好迎接一切。成功的大门已经打开，关键在于如何把握机会、展现自我。今天，将是${protagonist}职业生涯中又一个重要的里程碑...`
   };
   
   return templates[bookType] || templates.adventure;
@@ -158,8 +187,9 @@ async function buildAIInput(env, bookId, selectedCards) {
   return SYSTEM_PROMPT + '\n' + userData;
 }
 
-function mockAIGenerate(aiInput, bookType, orderNum, supportingName) {
+function mockAIGenerate(aiInput, bookType, orderNum, selectedCardsInfo, supportingName) {
   const title = generateChapterTitle(bookType, orderNum);
+  const content = generateChapterContent(bookType, selectedCardsInfo);
   
   const templates = puzzleTemplates[bookType] || puzzleTemplates.adventure;
   const randomPuzzle = templates[Math.floor(Math.random() * templates.length)];
@@ -168,7 +198,7 @@ function mockAIGenerate(aiInput, bookType, orderNum, supportingName) {
   
   return {
     title: title,
-    content: aiInput,
+    content: content,
     puzzle: {
       question: randomPuzzle.question,
       options: randomPuzzle.options,
@@ -333,15 +363,36 @@ export async function onRequestPost(context) {
 
     const aiInput = await buildAIInput(env, book_id, { protagonist_id, supporting_ids, weather_id, terrain_id, adventure_id, equipment_id });
 
-    let supportingName = null;
+    const protagonist = await env.DB.prepare(
+      'SELECT name, role_type, personality, speech_style FROM characters WHERE char_id = ?'
+    ).bind(protagonist_id).first();
+    
+    let supporting = null;
     if (supporting_ids && supporting_ids.length > 0) {
-      const supportingChar = await env.DB.prepare(
-        'SELECT name FROM characters WHERE char_id = ?'
+      supporting = await env.DB.prepare(
+        'SELECT name, role_type, personality, speech_style, relationship, intimacy FROM characters WHERE char_id = ?'
       ).bind(supporting_ids[0]).first();
-      supportingName = supportingChar?.name;
     }
+    
+    const [weather, terrain, adventure, equipment] = await Promise.all([
+      weather_id ? env.DB.prepare('SELECT name FROM plot_cards WHERE card_id = ?').bind(weather_id).first() : Promise.resolve(null),
+      terrain_id ? env.DB.prepare('SELECT name FROM plot_cards WHERE card_id = ?').bind(terrain_id).first() : Promise.resolve(null),
+      adventure_id ? env.DB.prepare('SELECT name FROM plot_cards WHERE card_id = ?').bind(adventure_id).first() : Promise.resolve(null),
+      equipment_id ? env.DB.prepare('SELECT name FROM plot_cards WHERE card_id = ?').bind(equipment_id).first() : Promise.resolve(null)
+    ]);
+    
+    const selectedCardsInfo = {
+      protagonist: protagonist,
+      supporting: supporting,
+      weather: weather,
+      terrain: terrain,
+      adventure: adventure,
+      equipment: equipment
+    };
+    
+    const supportingName = supporting?.name || null;
 
-    const aiResult = mockAIGenerate(aiInput, book.type, orderNum, supportingName);
+    const aiResult = mockAIGenerate(aiInput, book.type, orderNum, selectedCardsInfo, supportingName);
     const { title, content, puzzle, intimacy_changes } = aiResult;
 
     const cardsData = {

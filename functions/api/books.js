@@ -447,6 +447,22 @@ export async function onRequestPost(context) {
       return createErrorResponse('配角最多3个');
     }
 
+    if (title.length > 50) {
+      return createErrorResponse('书籍名称不能超过50个字符');
+    }
+
+    if (protagonist.name.length > 20) {
+      return createErrorResponse('主角名称不能超过20个字符');
+    }
+
+    if (supporting_characters) {
+      for (const companion of supporting_characters) {
+        if (companion.name && companion.name.length > 20) {
+          return createErrorResponse('配角名称不能超过20个字符');
+        }
+      }
+    }
+
     const bookId = generateId();
 
     await env.DB.prepare(

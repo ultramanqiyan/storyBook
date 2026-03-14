@@ -40,7 +40,7 @@ test.describe('字段验证', () => {
       expect(result.success).toBe(false);
     });
 
-    test('书籍名称超过50字符当前API允许', async ({ request }) => {
+    test('书籍名称超过50字符应失败', async ({ request }) => {
       const longTitle = 'a'.repeat(51);
       const response = await request.post('/api/books', {
         data: {
@@ -58,7 +58,7 @@ test.describe('字段验证', () => {
       });
 
       const result = await response.json();
-      expect(result.success).toBe(true);
+      expect(result.success).toBe(false);
     });
 
     test('书籍名称正好50字符应成功', async ({ request }) => {
@@ -104,7 +104,7 @@ test.describe('字段验证', () => {
       expect(result.success).toBe(false);
     });
 
-    test('主角名称超过20字符当前API允许', async ({ request }) => {
+    test('主角名称超过20字符应失败', async ({ request }) => {
       const longName = 'a'.repeat(21);
       const response = await request.post('/api/books', {
         data: {
@@ -122,7 +122,7 @@ test.describe('字段验证', () => {
       });
 
       const result = await response.json();
-      expect(result.success).toBe(true);
+      expect(result.success).toBe(false);
     });
 
     test('主角名称正好20字符应成功', async ({ request }) => {
