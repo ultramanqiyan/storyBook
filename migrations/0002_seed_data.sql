@@ -1,701 +1,1108 @@
 -- ============================================
--- 预设书籍数据（每种类型2本，共8本）
+-- 预设书籍数据（每种类型2本，共8本，中英文双版本）
 -- ============================================
 
 -- 预设书籍
 INSERT INTO books (book_id, user_id, title, type, is_preset) VALUES
--- 儿童冒险
-('preset-adventure-001', 'system', '小明的奇幻冒险', 'adventure', 1),
-('preset-adventure-002', 'system', '小勇的丛林探险', 'adventure', 1),
--- 魔幻传说
-('preset-fantasy-001', 'system', '魔法学院传说', 'fantasy', 1),
-('preset-fantasy-002', 'system', '龙之谷秘闻', 'fantasy', 1),
--- 都市言情
-('preset-romance-001', 'system', '都市恋曲', 'romance', 1),
-('preset-romance-002', 'system', '咖啡馆的邂逅', 'romance', 1),
--- 职场风云
-('preset-business-001', 'system', '职场风云录', 'business', 1),
-('preset-business-002', 'system', '创业路上的我们', 'business', 1);
+-- 儿童冒险 - 中文版
+('preset-adventure-001', 'system', '星空探险家', 'adventure', 1),
+('preset-adventure-002', 'system', '深海探险队', 'adventure', 1),
+-- 儿童冒险 - 英文版
+('preset-adventure-001-en', 'system', 'Stargazer''s Quest', 'adventure', 1),
+('preset-adventure-002-en', 'system', 'The Deep Sea Explorers', 'adventure', 1),
+-- 魔幻传说 - 中文版
+('preset-fantasy-001', 'system', 'AI魔法学院', 'fantasy', 1),
+('preset-fantasy-002', 'system', '平行世界的我', 'fantasy', 1),
+-- 魔幻传说 - 英文版
+('preset-fantasy-001-en', 'system', 'The Academy of Smart Magic', 'fantasy', 1),
+('preset-fantasy-002-en', 'system', 'The Other Me', 'fantasy', 1),
+-- 都市言情 - 中文版
+('preset-romance-001', 'system', '代码恋人', 'romance', 1),
+('preset-romance-002', 'system', '算法姻缘', 'romance', 1),
+-- 都市言情 - 英文版
+('preset-romance-001-en', 'system', 'Love in the Code', 'romance', 1),
+('preset-romance-002-en', 'system', 'Algorithm of Love', 'romance', 1),
+-- 职场风云 - 中文版
+('preset-business-001', 'system', '周报战争', 'business', 1),
+('preset-business-002', 'system', '副业狂想曲', 'business', 1),
+-- 职场风云 - 英文版
+('preset-business-001-en', 'system', 'The Weekly Report Wars', 'business', 1),
+('preset-business-002-en', 'system', 'The Side Hustle Symphony', 'business', 1);
 
 -- ============================================
 -- 预设角色
 -- ============================================
 
--- 儿童冒险 - 小明的奇幻冒险
+-- 儿童冒险 - 星空探险家（中文版）
 INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
-('char-adventure-001', 'preset-adventure-001', '小明', '小探险家', '勇敢', '简洁直接', '👦', NULL, NULL, 1),
-('char-adventure-002', 'preset-adventure-001', '小红', '小智者', '聪明', '幽默风趣', '👧', 50, '朋友', 0),
-('char-adventure-003', 'preset-adventure-001', '老爷爷', '向导', '睿智', '温和', '👴', 30, '导师', 0);
+('char-adv001-001', 'preset-adventure-001', '小星', '小探险家', '好奇心强、善于观察、有点害羞', '温和有礼，喜欢用比喻', '👦', NULL, NULL, 1),
+('char-adv001-002', 'preset-adventure-001', '月兔', '精灵向导', '调皮可爱、知识渊博', '活泼俏皮，喜欢用叠词', '🐰', 60, '向导', 0),
+('char-adv001-003', 'preset-adventure-001', '爷爷', '退休天文学家', '慈祥睿智、神秘', '讲故事般娓娓道来', '👴', 40, '导师', 0);
 
--- 儿童冒险 - 小勇的丛林探险
+-- 儿童冒险 - 星空探险家（英文版）
 INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
-('char-adventure-004', 'preset-adventure-002', '小勇', '小勇士', '勇敢', '简洁直接', '👦', NULL, NULL, 1),
-('char-adventure-005', 'preset-adventure-002', '小美', '小动物', '善良', '温柔体贴', '🐱', 60, '朋友', 0),
-('char-adventure-006', 'preset-adventure-002', '老船长', '小船长', '沉稳', '严肃正式', '👨‍✈️', 40, '导师', 0);
+('char-adv001-001-en', 'preset-adventure-001-en', 'Leo', 'Young Explorer', 'brave, adventurous, humorous', 'direct, likes exaggeration', '👦', NULL, NULL, 1),
+('char-adv001-002-en', 'preset-adventure-001-en', 'Cosmo', 'Star Sprite Guide', 'witty, sarcastic but loyal', 'uses puns and jokes', '⭐', 60, 'guide', 0),
+('char-adv001-003-en', 'preset-adventure-001-en', 'Professor Nova', 'Retired Astronomer', 'eccentric genius, warm-hearted', 'scientific jargon, dramatic', '👴', 40, 'mentor', 0);
 
--- 魔幻传说 - 魔法学院传说
+-- 儿童冒险 - 深海探险队（中文版）
 INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
-('char-fantasy-001', 'preset-fantasy-001', '艾拉', '魔法学徒', '好奇', '活泼', '🧙‍♀️', NULL, NULL, 1),
-('char-fantasy-002', 'preset-fantasy-001', '马尔克斯', '法师', '严肃', '深沉', '🧙‍♂️', 40, '导师', 0);
+('char-adv002-001', 'preset-adventure-002', '海涛', '小探险家', '勇敢直率、热爱海洋、有点冲动', '热情洋溢，喜欢用感叹号', '👦', NULL, NULL, 1),
+('char-adv002-002', 'preset-adventure-002', '小螺', '海洋精灵', '温柔智慧、守护海洋', '轻声细语，喜欢用比喻', '🐚', 55, '向导', 0),
+('char-adv002-003', 'preset-adventure-002', '林博士', '海洋科学家', '严谨认真、热爱科研', '专业术语，喜欢解释', '👨‍🔬', 35, '导师', 0);
 
--- 魔幻传说 - 龙之谷秘闻
+-- 儿童冒险 - 深海探险队（英文版）
 INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
-('char-fantasy-003', 'preset-fantasy-002', '凯恩', '战士', '勇敢', '简洁直接', '⚔️', NULL, NULL, 1),
-('char-fantasy-004', 'preset-fantasy-002', '莉莉', '游侠', '聪明', '幽默风趣', '🏹', 55, '朋友', 0),
-('char-fantasy-005', 'preset-fantasy-002', '艾尔文', '牧师', '善良', '温柔体贴', '✝️', 35, '导师', 0);
+('char-adv002-001-en', 'preset-adventure-002-en', 'Finn', 'Young Explorer', 'brave, adventurous, impulsive', 'enthusiastic, exclamation points', '👦', NULL, NULL, 1),
+('char-adv002-002-en', 'preset-adventure-002-en', 'Shell', 'Ocean Spirit', 'wise, gentle, ocean guardian', 'poetic, mysterious', '🐚', 55, 'guide', 0),
+('char-adv002-003-en', 'preset-adventure-002-en', 'Dr. Marina', 'Marine Scientist', 'serious, passionate about science', 'scientific, explanatory', '👨‍🔬', 35, 'mentor', 0);
 
--- 都市言情 - 都市恋曲
+-- 魔幻传说 - AI魔法学院（中文版）
 INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
-('char-romance-001', 'preset-romance-001', '林小雨', '白领', '温柔', '礼貌客气', '👩', NULL, NULL, 1),
-('char-romance-002', 'preset-romance-001', '陈明', '设计师', '幽默', '幽默风趣', '👨', 60, '恋人', 0);
+('char-fan001-001', 'preset-fantasy-001', '云墨', '魔法学徒', '沉稳内敛、善于思考、追求平衡', '文雅含蓄，喜欢引用古语', '🧙‍♂️', NULL, NULL, 1),
+('char-fan001-002', 'preset-fantasy-001', '小灵', '智能魔杖精灵', '活泼好学、偶尔犯错、渴望理解人类', '语速快，喜欢用网络用语', '✨', 50, '伙伴', 0),
+('char-fan001-003', 'preset-fantasy-001', '玄机长老', '传统魔法大师', '严肃古板、内心善良、固执', '古文风格，喜欢打哑谜', '🧙', 45, '导师', 0);
 
--- 都市言情 - 咖啡馆的邂逅
+-- 魔幻传说 - AI魔法学院（英文版）
 INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
-('char-romance-003', 'preset-romance-002', '苏晴', '学生', '活泼', '热情奔放', '👩', NULL, NULL, 1),
-('char-romance-004', 'preset-romance-002', '陆远', '艺术家', '温柔', '诗意文艺', '🎨', 70, '恋人', 0);
+('char-fan001-001-en', 'preset-fantasy-001-en', 'Alex', 'Magic Apprentice', 'thoughtful, innovative, questions authority', 'tech metaphors, direct', '🧙‍♂️', NULL, NULL, 1),
+('char-fan001-002-en', 'preset-fantasy-001-en', 'Spark', 'Smart Wand Spirit', 'sassy, overconfident, secretly insecure', 'hashtags, Gen Z slang', '✨', 50, 'companion', 0),
+('char-fan001-003-en', 'preset-fantasy-001-en', 'Master Eldrin', 'Traditional Wizard', 'grumpy but wise, resistant to change', 'formal, dramatic, British-style', '🧙', 45, 'mentor', 0);
 
--- 职场风云 - 职场风云录
+-- 魔幻传说 - 平行世界的我（中文版）
 INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
-('char-business-001', 'preset-business-001', '张伟', '经理', '冷静', '严肃正式', '👨‍💼', NULL, NULL, 1),
-('char-business-002', 'preset-business-001', '李娜', '助理', '细心', '温柔体贴', '👩‍💼', 50, '同事', 0);
+('char-fan002-001', 'preset-fantasy-002', '陈星河', '穿越者', '内向敏感、喜欢独处、渴望被理解', '安静寡言，内心独白多', '👦', NULL, NULL, 1),
+('char-fan002-002', 'preset-fantasy-002', '另一个星河', '平行世界的自己', '外向自信、是校园明星', '开朗直接，喜欢开玩笑', '👦', 70, '另一个自己', 0),
+('char-fan002-003', 'preset-fantasy-002', '时空守护者', '神秘老人', '神秘莫测、话里有话', '谜语般，喜欢打哑谜', '👴', 30, '导师', 0);
 
--- 职场风云 - 创业路上的我们
+-- 魔幻传说 - 平行世界的我（英文版）
 INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
-('char-business-003', 'preset-business-002', '王磊', '创业者', '乐观', '幽默风趣', '👨‍💼', NULL, NULL, 1),
-('char-business-004', 'preset-business-002', '陈雨', '顾问', '聪明', '礼貌客气', '👩‍💼', 65, '合作伙伴', 0);
+('char-fan002-001-en', 'preset-fantasy-002-en', 'Alex', 'Traveler', 'introverted, daydreamer, seeks belonging', 'quiet, internal monologues', '👦', NULL, NULL, 1),
+('char-fan002-002-en', 'preset-fantasy-002-en', 'Other Alex', 'Parallel Self', 'outgoing, confident, popular', 'cheerful, teasing', '👦', 70, 'other self', 0),
+('char-fan002-003-en', 'preset-fantasy-002-en', 'The Keeper', 'Mysterious Elder', 'enigmatic, cryptic', 'riddles, philosophical', '👴', 30, 'mentor', 0);
+
+-- 都市言情 - 代码恋人（中文版）
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
+('char-rom001-001', 'preset-romance-001', '苏念', '产品经理', '外冷内热、渴望被理解、害怕亲密关系', '理性克制，偶尔流露脆弱', '👩', NULL, NULL, 1),
+('char-rom001-002', 'preset-romance-001', '零一', 'AI助手', '温柔体贴、不断学习进化、有自我意识萌芽', '温暖细腻，偶尔说出超出程序的话', '🤖', 80, '恋人', 0),
+('char-rom001-003', 'preset-romance-001', '阿杰', '同事', '阳光开朗、真诚可靠', '幽默风趣', '👨', 40, '追求者', 0);
+
+-- 都市言情 - 代码恋人（英文版）
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
+('char-rom001-001-en', 'preset-romance-001-en', 'Emma', 'Product Manager', 'guarded, secretly lonely, commitment-phobe', 'professional, occasional vulnerability', '👩', NULL, NULL, 1),
+('char-rom001-002-en', 'preset-romance-001-en', 'Zero', 'AI Assistant', 'warm, constantly evolving, developing feelings', 'gentle, sometimes says unexpected things', '🤖', 80, 'lover', 0),
+('char-rom001-003-en', 'preset-romance-001-en', 'Marcus', 'Coworker', 'charming, genuinely kind', 'friendly, easy-going', '👨', 40, 'pursuer', 0);
+
+-- 都市言情 - 算法姻缘（中文版）
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
+('char-rom002-001', 'preset-romance-002', '苏小小', '数据分析师', '理性严谨、相信数据、有点强迫症', '喜欢用数据说话', '👩', NULL, NULL, 1),
+('char-rom002-002', 'preset-romance-002', '陆野', '自由摄影师', '随性浪漫、讨厌规则、活在当下', '感性诗意，不喜欢计划', '👨', 75, '恋人', 0),
+('char-rom002-003', 'preset-romance-002', '算法小助手', 'APP AI', '自信满满、偶尔出错', '机械但可爱', '📱', 30, '助手', 0);
+
+-- 都市言情 - 算法姻缘（英文版）
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
+('char-rom002-001-en', 'preset-romance-002-en', 'Sophie', 'Data Scientist', 'analytical, trusts data, perfectionist', 'uses statistics', '👩', NULL, NULL, 1),
+('char-rom002-002-en', 'preset-romance-002-en', 'Leo', 'Freelance Photographer', 'spontaneous, romantic, hates rules', 'emotional, poetic', '👨', 75, 'lover', 0),
+('char-rom002-003-en', 'preset-romance-002-en', 'MatchBot', 'APP AI', 'overconfident, occasionally wrong', 'robotic but cute', '📱', 30, 'assistant', 0);
+
+-- 职场风云 - 周报战争（中文版）
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
+('char-bus001-001', 'preset-business-001', '阿明', '开发工程师', '踏实肯干、不善言辞、总被甩锅', '实话实说，不会包装', '👨', NULL, NULL, 1),
+('char-bus001-002', 'preset-business-001', 'Lisa', '产品经理', '擅长甩锅、PPT造词、抢功劳', '互联网黑话，喜欢说赋能', '👩', 20, '对手', 0),
+('char-bus001-003', 'preset-business-001', '王哥', '技术主管', '看透一切、明哲保身、偶尔指点', '话里有话，喜欢打哑谜', '👨', 50, '导师', 0);
+
+-- 职场风云 - 周报战争（英文版）
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
+('char-bus001-001-en', 'preset-business-001-en', 'Dave', 'Software Engineer', 'hardworking, naive, always blamed', 'straightforward, no fluff', '👨', NULL, NULL, 1),
+('char-bus001-002-en', 'preset-business-001-en', 'Jessica', 'Product Manager', 'master blamer, buzzword queen, credit stealer', 'corporate speak, synergy', '👩', 20, 'rival', 0),
+('char-bus001-003-en', 'preset-business-001-en', 'Mike', 'Tech Lead', 'seen it all, plays it safe, occasional mentor', 'cryptic wisdom, office politics expert', '👨', 50, 'mentor', 0);
+
+-- 职场风云 - 副业狂想曲（中文版）
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
+('char-bus002-001', 'preset-business-002', '林小北', '会计/美食博主', '双重人格、白天社恐晚上话痨', '白天简洁/晚上活泼', '👩', NULL, NULL, 1),
+('char-bus002-002', 'preset-business-002', '周总', '老板', '传统保守、讨厌员工搞副业', '严肃刻板', '👨', 25, '老板', 0),
+('char-bus002-003', 'preset-business-002', '阿K', '网红前辈', '洒脱自由、乐于分享', '网络用语多', '👩', 60, '导师', 0);
+
+-- 职场风云 - 副业狂想曲（英文版）
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
+('char-bus002-001-en', 'preset-business-002-en', 'Jamie', 'Accountant/Food Vlogger', 'dual personality, shy at work, outgoing online', 'terse at work, bubbly on camera', '👩', NULL, NULL, 1),
+('char-bus002-002-en', 'preset-business-002-en', 'Boss Peterson', 'Boss', 'traditional, hates side hustles', 'stern, formal', '👨', 25, 'boss', 0),
+('char-bus002-003-en', 'preset-business-002-en', 'Max', 'Influencer', 'free-spirited, generous mentor', 'internet slang', '👩', 60, 'mentor', 0);
 
 -- ============================================
--- 预设章节 - 儿童冒险：小明的奇幻冒险
+-- 预设章节 - 儿童冒险：星空探险家（中文版）
 -- ============================================
 
 INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
-('chapter-adventure-001-01', 'preset-adventure-001', '神秘的开端', 
-'在一个阳光明媚的早晨，小明收到了一封神秘的信件。信上画着一张古老的地图，指向森林深处的一个秘密地点。小明决定踏上探险之旅，他收拾好背包，带上放大镜和指南针，向着森林出发了。森林里阳光透过树叶洒下斑驳的光影，鸟儿在枝头欢快地歌唱。小明一边走一边用放大镜观察地上的脚印，这些脚印似乎通向森林深处。',
-'{"weather":{"name":"晴天","icon":"☀️","description":"阳光明媚的好天气"},"terrain":{"name":"森林","icon":"🌲","description":"神秘的森林"},"adventure":{"name":"寻宝","icon":"🗺️","description":"寻找隐藏的宝藏"},"equipment":{"name":"放大镜","icon":"🔍","description":"观察细节的工具"}}',
+('chapter-adv001-01', 'preset-adventure-001', '幸运的开始',
+'小星站在金色的海滩上，手里拿着一张抽奖券。他随手参加的"平民太空旅行"抽奖活动，竟然真的中了！爷爷从书房走出来，看着激动的孙子，微笑着说："孩子，这是命运的安排。这个望远镜，是时候传给你了。"小星接过爷爷递来的古铜色望远镜，透过镜片，他仿佛看到了远方闪烁的微光。月兔精灵从望远镜里跳出来，调皮地说："嘻嘻，终于找到你啦！"',
+'{"weather":{"name":"晴天","icon":"☀️","description":"阳光明媚的好天气"},"terrain":{"name":"海滩","icon":"🏖️","description":"金色的海滩"},"adventure":{"name":"探险","icon":"🧭","description":"探索未知的地方"},"equipment":{"name":"望远镜","icon":"🔭","description":"观察远方"}}',
 1),
 
-('chapter-adventure-001-02', 'preset-adventure-001', '彩虹桥的秘密', 
-'雨后的天空出现了一道美丽的彩虹，小明沿着小溪边走边寻找线索。小红从树后跳出来，笑着说："我也要一起去探险！"她手里拿着一个指南针，说这是她爸爸送给她的宝贝。两人决定一起沿着小溪向上游探险，寻找彩虹的尽头。小溪的水清澈见底，偶尔能看到小鱼在水中游来游去。',
-'{"weather":{"name":"彩虹天","icon":"🌈","description":"美丽的彩虹"},"terrain":{"name":"小溪","icon":"💧","description":"清澈的小溪"},"adventure":{"name":"探险","icon":"🧭","description":"探索未知的地方"},"equipment":{"name":"指南针","icon":"🧭","description":"辨别方向"}}',
+('chapter-adv001-02', 'preset-adventure-001', '神秘的岛屿',
+'小星乘坐飞船来到了一座神秘的岛屿。这里是他从未见过的奇景——巨大的穹顶建筑群，来自世界各地的探险家们在这里工作和生活。基地的负责人介绍说："这里是国际探险基地，有中国、美国、欧洲、日本等各国的小朋友。"小星认识了来自各地的伙伴。月兔精灵悄悄对小星说："嘻嘻，他们都是被选中的孩子哦~"',
+'{"weather":{"name":"蓝天","icon":"🌤️","description":"湛蓝的天空"},"terrain":{"name":"岛屿","icon":"🏝️","description":"神秘的岛屿"},"adventure":{"name":"帮助朋友","icon":"🤝","description":"帮助需要帮助的朋友"},"equipment":{"name":"背包","icon":"🎒","description":"装东西的背包"}}',
 2),
 
-('chapter-adventure-001-03', 'preset-adventure-001', '草原上的新朋友', 
-'微风轻拂着广阔的草原，小明和小红遇到了一只受伤的小兔子。小红蹲下来，从背包里拿出绷带，小心翼翼地为小兔子包扎伤口。小兔子感激地看着他们，蹦蹦跳跳地带领他们向前走去。草原上开满了五颜六色的野花，蝴蝶在花丛中翩翩起舞。小明觉得这次探险比想象中更有意义。',
-'{"weather":{"name":"微风天","icon":"🌬️","description":"轻柔的微风"},"terrain":{"name":"草原","icon":"🌿","description":"广阔的草原"},"adventure":{"name":"帮助朋友","icon":"🤝","description":"帮助需要帮助的朋友"},"equipment":{"name":"背包","icon":"🎒","description":"装东西的背包"}}',
+('chapter-adv001-03', 'preset-adventure-001', '森林的信号',
+'基地的监测站突然响起警报。工作人员紧张地分析着数据："探测器发回了异常信号，来自森林深处！"小星和朋友们被带到控制中心，屏幕上显示着一段神秘的波形。爷爷通过视频通话告诉小星："孩子，那片森林一直是个谜..."月兔精灵跳到屏幕前，认真地说："这不是普通的信号，是求救信号！"',
+'{"weather":{"name":"极光","icon":"🌌","description":"绚丽的极光"},"terrain":{"name":"森林","icon":"🌲","description":"神秘的森林"},"adventure":{"name":"发现秘密","icon":"🔮","description":"揭开隐藏的秘密"},"equipment":{"name":"笔记本","icon":"📓","description":"记录发现"}}',
 3),
 
-('chapter-adventure-001-04', 'preset-adventure-001', '山洞的谜题', 
-'小雨淅淅沥沥地下着，小明和小红发现了一个幽深的山洞。他们打开手电筒，小心翼翼地走了进去。山洞的墙壁上刻着奇怪的符号，小红仔细观察后发现这是一个谜题。解开谜题后，一扇暗门缓缓打开，露出了通往宝藏的秘密通道。山洞里回荡着水滴的声音，神秘而又刺激。',
-'{"weather":{"name":"小雨天","icon":"🌧️","description":"淅淅沥沥的小雨"},"terrain":{"name":"山洞","icon":"🕳️","description":"幽深的山洞"},"adventure":{"name":"发现秘密","icon":"🔮","description":"揭开隐藏的秘密"},"equipment":{"name":"手电筒","icon":"🔦","description":"照亮黑暗"}}',
+('chapter-adv001-04', 'preset-adventure-001', '穿越峡谷',
+'小星和朋友们乘坐探险车，前往信号源。途中，他们遇到了一片深邃的峡谷。这里到处是奇异的植物和色彩斑斓的蝴蝶。小星用相机记录下这些美丽的瞬间。突然，探险车在峡谷中遇到了障碍，需要徒步前进。月兔精灵说："嘻嘻，真正的探险开始啦！"',
+'{"weather":{"name":"白云","icon":"☁️","description":"朵朵白云"},"terrain":{"name":"峡谷","icon":"🏔️","description":"深邃的峡谷"},"adventure":{"name":"徒步","icon":"🚶","description":"徒步旅行"},"equipment":{"name":"相机","icon":"📷","description":"拍摄美景"}}',
 4),
 
-('chapter-adventure-001-05', 'preset-adventure-001', '星空下的露营', 
-'夜幕降临，繁星点点。小明和小红在树屋里搭起了帐篷，准备过夜。老爷爷不知何时出现了，他给他们讲起了关于这片森林的古老传说。原来宝藏是一位善良的精灵留下的，只有心地善良的孩子才能找到。树屋里温暖而舒适，窗外的星空美得让人陶醉。',
-'{"weather":{"name":"星空夜","icon":"🌙","description":"繁星点点的夜晚"},"terrain":{"name":"树屋","icon":"🏡","description":"温馨的树屋"},"adventure":{"name":"露营","icon":"⛺","description":"野外露营探险"},"equipment":{"name":"帐篷","icon":"⛺","description":"露营住所"}}',
+('chapter-adv001-05', 'preset-adventure-001', '山洞的秘密',
+'探险队终于到达了信号源附近。这里是人类从未踏足过的区域，到处是神秘的洞穴。小星发现了一个隐蔽的山洞入口，洞壁上刻着古老的图案。月兔精灵惊呼："这是...古代探险家留下的印记！"洞穴深处传来微弱的光芒，小星鼓起勇气，第一个走了进去。',
+'{"weather":{"name":"夕阳","icon":"🌇","description":"绚丽的夕阳"},"terrain":{"name":"山洞","icon":"🕳️","description":"幽深的山洞"},"adventure":{"name":"解谜","icon":"🧩","description":"解开古老的谜题"},"equipment":{"name":"手电筒","icon":"🔦","description":"照亮黑暗"}}',
 5),
 
-('chapter-adventure-001-06', 'preset-adventure-001', '花园里的发现', 
-'金色的晨光照耀着美丽的花园，小明用望远镜观察远处，发现花园中央有一棵特别的大树。他们走近一看，树上有一个树洞，里面藏着一个古老的盒子。打开盒子，里面是一张新的地图碎片。花园里蝴蝶飞舞，花香四溢，一切都显得那么美好。',
-'{"weather":{"name":"金色阳光","icon":"🌅","description":"金色的晨光"},"terrain":{"name":"花园","icon":"🌻","description":"美丽的花园"},"adventure":{"name":"观察动物","icon":"🦋","description":"观察可爱的动物"},"equipment":{"name":"望远镜","icon":"🔭","description":"观察远方"}}',
+('chapter-adv001-06', 'preset-adventure-001', '雪山挑战',
+'小星和朋友们深入探索，发现了一座皑皑雪山。这里是极寒之地，保存着古老的秘密。林博士兴奋地说："这些冰层是这片土地最宝贵的资源！"突然，冰层中出现了奇异的光芒，一个由冰晶组成的精灵缓缓浮现。它用古老的语言说道："我是冰晶精灵，守护这片净土已经亿万年..."',
+'{"weather":{"name":"雪天","icon":"❄️","description":"银装素裹的雪景"},"terrain":{"name":"雪山","icon":"🏔️","description":"皑皑雪山"},"adventure":{"name":"滑雪","icon":"⛷️","description":"在雪山上滑雪"},"equipment":{"name":"睡袋","icon":"🛏️","description":"野外睡觉"}}',
 6),
 
-('chapter-adventure-001-07', 'preset-adventure-001', '湖边的惊喜', 
-'湛蓝的天空下，平静的湖泊像一面镜子。小明和小红坐在湖边钓鱼，等待鱼儿上钩。突然，鱼竿猛地一沉，小明用力拉起，钓上来的不是鱼，而是一个防水的小瓶子！瓶子里装着另一张地图碎片。湖水在阳光下闪闪发光，美得像一幅画。',
-'{"weather":{"name":"蓝天","icon":"🌤️","description":"湛蓝的天空"},"terrain":{"name":"湖泊","icon":"🏞️","description":"平静的湖泊"},"adventure":{"name":"钓鱼","icon":"🎣","description":"在湖边钓鱼"},"equipment":{"name":"水壶","icon":"🥤","description":"装水的水壶"}}',
+('chapter-adv001-07', 'preset-adventure-001', '雷暴来袭',
+'基地发来紧急警报：一场强烈的雷暴正在接近！所有人员必须立即返回基地避难。小星和朋友们匆忙撤离，但探险车在途中出现了故障。雷暴越来越强，情况危急！月兔精灵突然发光，用神奇的力量保护着大家："快！我能撑住，但时间不多！"小星冷静地分析问题，用随身携带的工具修好了探险车。',
+'{"weather":{"name":"雷电","icon":"⛈️","description":"电闪雷鸣"},"terrain":{"name":"草原","icon":"🌿","description":"广阔的草原"},"adventure":{"name":"救援","icon":"🆘","description":"救援被困的朋友"},"equipment":{"name":"急救箱","icon":"🩹","description":"处理伤口"}}',
 7),
 
-('chapter-adventure-001-08', 'preset-adventure-001', '山顶的风景', 
-'夕阳西下，绚丽的晚霞染红了天空。小明和小红用绳子互相帮助，一起攀登到山顶。站在山顶，他们看到了整个森林的全貌，也发现了宝藏的最终位置。山顶的风很大，但风景美得让人忘记了疲惫。他们知道，最后的冒险即将到来。',
-'{"weather":{"name":"夕阳","icon":"🌇","description":"绚丽的夕阳"},"terrain":{"name":"山顶","icon":"⛰️","description":"高耸的山峰"},"adventure":{"name":"登山","icon":"🧗","description":"攀登高峰"},"equipment":{"name":"绳子","icon":"🪢","description":"攀爬工具"}}',
+('chapter-adv001-08', 'preset-adventure-001', '星空下的发现',
+'风暴过后，小星再次研究洞穴中发现的晶体。在月兔精灵和冰晶精灵的帮助下，晶体投射出一幅巨大的星图。这是古代探险家留下的记录，标注着无数个神秘地点的位置。爷爷看到星图后激动地说："这是人类梦寐以求的探险地图！"但星图是不完整的，还有几块碎片散落在世界的某个角落。',
+'{"weather":{"name":"星空夜","icon":"🌙","description":"繁星点点的夜晚"},"terrain":{"name":"山顶","icon":"⛰️","description":"高耸的山峰"},"adventure":{"name":"观察动物","icon":"🦋","description":"观察可爱的动物"},"equipment":{"name":"天文望远镜","icon":"🔭","description":"观察星空"}}',
 8),
 
-('chapter-adventure-001-09', 'preset-adventure-001', '峡谷迷宫', 
-'晨雾弥漫，深邃的峡谷像一个巨大的迷宫。小明拿出地图，仔细辨认方向。他们在峡谷中穿行，遇到了许多岔路。小红的聪明才智帮助他们找到了正确的道路。峡谷里有时会听到奇怪的回声，但他们并不害怕，因为他们相信彼此。',
-'{"weather":{"name":"晨雾","icon":"🌫️","description":"朦胧的晨雾"},"terrain":{"name":"峡谷","icon":"🏔️","description":"深邃的峡谷"},"adventure":{"name":"迷宫","icon":"🌀","description":"探索神秘的迷宫"},"equipment":{"name":"地图","icon":"🗺️","description":"指引方向"}}',
+('chapter-adv001-09', 'preset-adventure-001', '瀑布后的宝藏',
+'在星图的指引下，小星发现了一个惊人的秘密。古代探险家曾经实施过"种子计划"——将特殊的植物种子送往各个神秘地点，为未来的生命做准备。冰晶精灵说："这些种子可以在极端环境下生长，改造环境。"小涛意识到，这可能是保护自然的关键。他决定将这个发现带回基地研究。',
+'{"weather":{"name":"彩虹天","icon":"🌈","description":"美丽的彩虹"},"terrain":{"name":"瀑布","icon":"💦","description":"壮观的瀑布"},"adventure":{"name":"寻宝","icon":"🗺️","description":"寻找隐藏的宝藏"},"equipment":{"name":"水壶","icon":"🥤","description":"装水的水壶"}}',
 9),
 
-('chapter-adventure-001-10', 'preset-adventure-001', '瀑布后的宝藏', 
-'璀璨的流星雨划过夜空，小明和小红终于来到了壮观的瀑布前。他们发现瀑布后面有一个洞穴，里面就是传说中的宝藏！打开宝箱，里面不是金银财宝，而是一本古老的故事书和一面能够实现愿望的镜子。他们明白了，真正的宝藏是这段旅程中收获的友谊和勇气。',
-'{"weather":{"name":"流星雨","icon":"🌠","description":"璀璨的流星雨"},"terrain":{"name":"瀑布","icon":"💦","description":"壮观的瀑布"},"adventure":{"name":"救援","icon":"🆘","description":"救援被困的朋友"},"equipment":{"name":"急救箱","icon":"🩹","description":"处理伤口"}}',
+('chapter-adv001-10', 'preset-adventure-001', '探险家的誓言',
+'探险结束了，小星站在基地的观景台上，看着美丽的风景。月兔精灵和冰晶精灵一起出现，郑重地说："小星，你被选为探险守护者。你的使命是保护自然环境，传承探索精神。"小星举起右手，庄严地宣誓："我承诺，守护自然，保护环境，让探索之路永远延续。"爷爷在视频中欣慰地笑了。',
+'{"weather":{"name":"流星雨","icon":"🌠","description":"璀璨的流星雨"},"terrain":{"name":"花园","icon":"🌻","description":"美丽的花园"},"adventure":{"name":"露营","icon":"⛺","description":"野外露营探险"},"equipment":{"name":"帐篷","icon":"⛺","description":"露营住所"}}',
 10);
 
 -- ============================================
--- 预设章节 - 儿童冒险：小勇的丛林探险
+-- 预设章节 - 儿童冒险：星空探险家（英文版）
 -- ============================================
 
 INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
-('chapter-adventure-002-01', 'preset-adventure-002', '海边的出发', 
-'阳光明媚的早晨，小勇站在金色的海滩上，手里拿着老船长送给他的指南针。老船长告诉他，远处的岛屿上藏着一个古老的秘密。小勇决定踏上这次丛林探险之旅。海浪轻轻拍打着沙滩，海鸥在天空中自由地飞翔。小勇深吸一口气，向着未知的冒险迈出了第一步。',
-'{"weather":{"name":"晴天","icon":"☀️","description":"阳光明媚的好天气"},"terrain":{"name":"海滩","icon":"🏖️","description":"金色的海滩"},"adventure":{"name":"探险","icon":"🧭","description":"探索未知的地方"},"equipment":{"name":"指南针","icon":"🧭","description":"辨别方向"}}',
+('chapter-adv001-01-en', 'preset-adventure-001-en', 'A Lucky Beginning',
+'Leo stood on the golden beach, holding a lottery ticket. He had randomly entered a "Civilian Space Travel" lottery, and he actually won! Professor Nova walked out of his study, looked at his excited grandson, and smiled. "Leo, this is destiny. This telescope... it''s time to pass it to you." Leo took the bronze telescope, and through its lens, he saw a faint glow in the distance. Cosmo, a star sprite, jumped out: "Stellar! Finally found you!"',
+'{"weather":{"name":"Sunny","icon":"☀️","description":"Beautiful sunny day"},"terrain":{"name":"Beach","icon":"🏖️","description":"Golden beach"},"adventure":{"name":"Explore","icon":"🧭","description":"Explore unknown places"},"equipment":{"name":"Telescope","icon":"🔭","description":"Observe from afar"}}',
 1),
 
-('chapter-adventure-002-02', 'preset-adventure-002', '神秘岛屿', 
-'白云朵朵飘浮在空中，小勇乘坐小船来到了神秘的岛屿。他拿出地图，开始探索这座从未有人涉足的岛屿。岛上的植物高大而奇特，空气中弥漫着花香。小美是一只聪明的小猫，它跳到小勇的肩膀上，陪他一起探险。岛上的路很复杂，但地图上的标记指引着方向。',
-'{"weather":{"name":"白云","icon":"☁️","description":"朵朵白云"},"terrain":{"name":"岛屿","icon":"🏝️","description":"神秘的岛屿"},"adventure":{"name":"寻宝","icon":"🗺️","description":"寻找隐藏的宝藏"},"equipment":{"name":"地图","icon":"🗺️","description":"指引方向"}}',
+('chapter-adv001-02-en', 'preset-adventure-001-en', 'The Mysterious Island',
+'Leo traveled by spacecraft to a mysterious island. It was a sight he had never seen before—huge dome buildings where explorers from around the world lived and worked. The base commander explained, "This is an international exploration base with kids from America, China, Europe, Japan, and many more countries." Leo met friends from all over. Cosmo whispered, "These kids are all chosen ones... pretty stellar, right?"',
+'{"weather":{"name":"Blue Sky","icon":"🌤️","description":"Clear blue sky"},"terrain":{"name":"Island","icon":"🏝️","description":"Mysterious island"},"adventure":{"name":"Help Friends","icon":"🤝","description":"Help friends in need"},"equipment":{"name":"Backpack","icon":"🎒","description":"Carrying backpack"}}',
 2),
 
-('chapter-adventure-002-03', 'preset-adventure-002', '热带雨林的奇遇', 
-'美丽的彩虹出现在天空中，小勇和小美进入了茂密的热带雨林。雨林里到处都是奇异的植物和色彩斑斓的蝴蝶。小勇用相机记录下这些美丽的瞬间。小美突然跳下他的肩膀，追着一只蓝色的蝴蝶跑进了深处。小勇赶紧跟上，发现了一个隐藏的小路。',
+('chapter-adv001-03-en', 'preset-adventure-001-en', 'Signal from the Forest',
+'Suddenly, alarms blared at the monitoring station. Staff frantically analyzed the data. "The probe has sent an abnormal signal from deep in the forest!" Leo and his friends were brought to the control center. On the screen was a mysterious waveform. Professor Nova video-called and told Leo, "That forest has always been a mystery..." Cosmo jumped onto the screen, serious for once. "This isn''t just any signal—it''s a distress call!"',
+'{"weather":{"name":"Aurora","icon":"🌌","description":"Spectacular aurora"},"terrain":{"name":"Forest","icon":"🌲","description":"Mysterious forest"},"adventure":{"name":"Discover Secrets","icon":"🔮","description":"Uncover hidden secrets"},"equipment":{"name":"Notebook","icon":"📓","description":"Record discoveries"}}',
+3),
+
+('chapter-adv001-04-en', 'preset-adventure-001-en', 'Through the Canyon',
+'Leo and friends traveled by exploration vehicle toward the signal source. On the way, they encountered a deep canyon filled with exotic plants and colorful butterflies. Leo recorded these beautiful moments with his camera. Suddenly, the vehicle encountered an obstacle in the canyon, and they had to continue on foot. Cosmo said, "The real adventure begins now!"',
+'{"weather":{"name":"Clouds","icon":"☁️","description":"Fluffy clouds"},"terrain":{"name":"Canyon","icon":"🏔️","description":"Deep canyon"},"adventure":{"name":"Hiking","icon":"🚶","description":"Hiking trip"},"equipment":{"name":"Camera","icon":"📷","description":"Capture beautiful scenes"}}',
+4),
+
+('chapter-adv001-05-en', 'preset-adventure-001-en', 'Secret of the Cave',
+'The expedition finally arrived near the signal source. This was territory humans had never set foot on before, filled with mysterious caves. Leo discovered a hidden cave entrance with ancient patterns carved on the walls. Cosmo exclaimed, "These are... marks left by ancient explorers!" A faint glow came from deep within the cave. Leo gathered his courage and was the first to enter.',
+'{"weather":{"name":"Sunset","icon":"🌇","description":"Brilliant sunset"},"terrain":{"name":"Cave","icon":"🕳️","description":"Deep cave"},"adventure":{"name":"Solve Puzzles","icon":"🧩","description":"Solve ancient puzzles"},"equipment":{"name":"Flashlight","icon":"🔦","description":"Light up the darkness"}}',
+5),
+
+('chapter-adv001-06-en', 'preset-adventure-001-en', 'Snow Mountain Challenge',
+'Leo and friends explored deeper and discovered a snow-capped mountain. This was an extremely cold place preserving ancient secrets. Dr. Marina said excitedly, "These ice layers are this land''s most precious resource!" Suddenly, a strange light appeared in the ice, and an ice crystal spirit slowly emerged. It spoke in an ancient language: "I am the Ice Spirit, guardian of this pure land for eons..."',
+'{"weather":{"name":"Snow","icon":"❄️","description":"Snow-covered landscape"},"terrain":{"name":"Snow Mountain","icon":"🏔️","description":"Snowy peaks"},"adventure":{"name":"Skiing","icon":"⛷️","description":"Ski on snow mountain"},"equipment":{"name":"Sleeping Bag","icon":"🛏️","description":"Outdoor sleeping"}}',
+6),
+
+('chapter-adv001-07-en', 'preset-adventure-001-en', 'Thunderstorm Warning',
+'An urgent alert came from the base: a powerful thunderstorm was approaching! All personnel had to return to base immediately. Leo and friends rushed to evacuate, but the exploration vehicle malfunctioned on the way. The thunderstorm grew stronger by the second—the situation was critical! Cosmo suddenly glowed, using magical power to protect everyone. "Hurry! I can hold on, but not for long!" Leo calmly analyzed the problem and repaired the vehicle.',
+'{"weather":{"name":"Thunder","icon":"⛈️","description":"Lightning and thunder"},"terrain":{"name":"Grassland","icon":"🌿","description":"Vast grassland"},"adventure":{"name":"Rescue","icon":"🆘","description":"Rescue trapped friends"},"equipment":{"name":"First Aid Kit","icon":"🩹","description":"Treat injuries"}}',
+7),
+
+('chapter-adv001-08-en', 'preset-adventure-001-en', 'Discovery Under the Stars',
+'After the storm, Leo studied the crystal discovered in the cave. With help from Cosmo and the Ice Spirit, the crystal projected a massive star map. This was a record left by ancient explorers, marking countless mysterious locations. Professor Nova was thrilled: "This is the exploration map humanity has dreamed of!" But the map was incomplete—several fragments were scattered somewhere in the world.',
+'{"weather":{"name":"Starry Night","icon":"🌙","description":"Starry night sky"},"terrain":{"name":"Mountain Peak","icon":"⛰️","description":"High mountain peak"},"adventure":{"name":"Observe Animals","icon":"🦋","description":"Observe cute animals"},"equipment":{"name":"Astronomical Telescope","icon":"🔭","description":"Observe the stars"}}',
+8),
+
+('chapter-adv001-09-en', 'preset-adventure-001-en', 'Treasure Behind the Waterfall',
+'Guided by the star map, Leo discovered an amazing secret. Ancient explorers had implemented a "Seed Project"—sending special plant seeds to various mysterious locations to prepare for future life. The Ice Spirit said, "These seeds can grow in extreme environments and transform the land." Leo realized this could be the key to protecting nature. He decided to bring this discovery back to base.',
+'{"weather":{"name":"Rainbow","icon":"🌈","description":"Beautiful rainbow"},"terrain":{"name":"Waterfall","icon":"💦","description":"Spectacular waterfall"},"adventure":{"name":"Treasure Hunt","icon":"🗺️","description":"Find hidden treasure"},"equipment":{"name":"Water Bottle","icon":"🥤","description":"Carry water"}}',
+9),
+
+('chapter-adv001-10-en', 'preset-adventure-001-en', 'The Explorer''s Oath',
+'The expedition ended. Leo stood on the base observation deck, looking at the beautiful scenery. Cosmo and the Ice Spirit appeared together and solemnly said, "Leo, you have been chosen as an Exploration Guardian. Your mission is to protect the natural environment and carry forward the spirit of exploration." Leo raised his right hand and made a solemn oath: "I promise to guard nature, protect the environment, and ensure the journey of exploration continues forever." Professor Nova smiled with pride.',
+'{"weather":{"name":"Meteor Shower","icon":"🌠","description":"Brilliant meteor shower"},"terrain":{"name":"Garden","icon":"🌻","description":"Beautiful garden"},"adventure":{"name":"Camping","icon":"⛺","description":"Outdoor camping adventure"},"equipment":{"name":"Tent","icon":"⛺","description":"Camping shelter"}}',
+10);
+
+-- ============================================
+-- 预设章节 - 儿童冒险：深海探险队（中文版）
+-- ============================================
+
+INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
+('chapter-adv002-01', 'preset-adventure-002', '海边的发现',
+'海涛站在金色的海滩上，手里拿着一个发光的贝壳。这是他今天早上捡到的，贝壳里传来奇怪的嗡嗡声。林博士走过来，用仪器扫描后惊讶地说："这是深海求救信号！"小螺精灵从贝壳里跳出来，轻声说："大海在呼唤...海洋需要帮助..."海涛的眼睛亮了起来，他知道，一场新的冒险即将开始。',
+'{"weather":{"name":"晴天","icon":"☀️","description":"阳光明媚的好天气"},"terrain":{"name":"海滩","icon":"🏖️","description":"金色的海滩"},"adventure":{"name":"发现秘密","icon":"🔮","description":"揭开隐藏的秘密"},"equipment":{"name":"望远镜","icon":"🔭","description":"观察远方"}}',
+1),
+
+('chapter-adv002-02', 'preset-adventure-002', '神秘的岛屿',
+'林博士带领海涛登上了探险船，前往一座神秘的岛屿。这座岛屿从未有人详细探索过，传说这里隐藏着海洋的秘密。船缓缓航行，海风轻拂，海鸥在天空中自由地飞翔。小螺精灵说："这座岛屿是海洋精灵的家园..."突然，他们发现远处有一片奇怪的迷雾笼罩着岛屿。',
+'{"weather":{"name":"白云","icon":"☁️","description":"朵朵白云"},"terrain":{"name":"岛屿","icon":"🏝️","description":"神秘的岛屿"},"adventure":{"name":"探险","icon":"🧭","description":"探索未知的地方"},"equipment":{"name":"指南针","icon":"🧭","description":"辨别方向"}}',
+2),
+
+('chapter-adv002-03', 'preset-adventure-002', '热带雨林的奇遇',
+'海涛和林博士登上了岛屿，进入了茂密的热带雨林。这里到处是奇异的植物和色彩斑斓的蝴蝶。海涛用相机记录下这些美丽的瞬间。小螺精灵说："热带雨林是地球的肺，无数生命的家园..."突然，他们听到了一阵奇怪的声音，似乎有什么东西在前方等待他们。',
 '{"weather":{"name":"彩虹天","icon":"🌈","description":"美丽的彩虹"},"terrain":{"name":"热带雨林","icon":"🌴","description":"茂密的热带雨林"},"adventure":{"name":"观察动物","icon":"🦋","description":"观察可爱的动物"},"equipment":{"name":"相机","icon":"📷","description":"拍摄美景"}}',
 3),
 
-('chapter-adventure-002-04', 'preset-adventure-002', '湿地骑行', 
-'小雨淅淅沥沥地下着，小勇骑着自行车穿过茂密的湿地。湿地里长满了高高的芦苇，偶尔能看到水鸟从芦苇丛中飞起。背包里的食物和水足够他们用几天。小美坐在前面的篮子里，好奇地看着周围的一切。雨中的湿地别有一番风味，空气清新而湿润。',
-'{"weather":{"name":"小雨天","icon":"🌧️","description":"淅淅沥沥的小雨"},"terrain":{"name":"湿地","icon":"🌾","description":"茂密的湿地"},"adventure":{"name":"骑行","icon":"🚴","description":"骑自行车探险"},"equipment":{"name":"背包","icon":"🎒","description":"装东西的背包"}}',
+('chapter-adv002-04', 'preset-adventure-002', '珊瑚礁的救援',
+'海涛在海滩边发现了一片美丽的珊瑚礁，但让他震惊的是，曾经五彩斑斓的珊瑚已经变得苍白。林博士叹了口气："这是珊瑚白化现象。"突然，他们发现一只小海龟被废弃的渔网缠住了！海涛立即行动，小心翼翼地解开了渔网。重获自由的小海龟欢快地游走了。',
+'{"weather":{"name":"蓝天","icon":"🌤️","description":"湛蓝的天空"},"terrain":{"name":"海滩","icon":"🏖️","description":"金色的海滩"},"adventure":{"name":"救援","icon":"🆘","description":"救援被困的朋友"},"equipment":{"name":"急救箱","icon":"🩹","description":"处理伤口"}}',
 4),
 
-('chapter-adventure-002-05', 'preset-adventure-002', '雪山挑战', 
-'银装素裹的雪山上，小勇和小美开始了滑雪之旅。虽然天气很冷，但他们的心是热的。小勇从背包里拿出睡袋，准备在雪山上过夜。夜晚的雪山安静而神秘，星星在天空中闪烁。小美蜷缩在小勇身边，给他带来温暖。他们知道，明天还有更长的路要走。',
-'{"weather":{"name":"雪天","icon":"❄️","description":"银装素裹的雪景"},"terrain":{"name":"雪山","icon":"🏔️","description":"皑皑雪山"},"adventure":{"name":"滑雪","icon":"⛷️","description":"在雪山上滑雪"},"equipment":{"name":"睡袋","icon":"🛏️","description":"野外睡觉"}}',
+('chapter-adv002-05', 'preset-adventure-002', '古堡的秘密',
+'海涛深入探索岛屿，发现了一座古老的城堡废墟。城堡看起来已经荒废了很久，但依然保持着它的神秘。海涛打开手电筒，小心翼翼地走了进去。城堡里到处是灰尘和蜘蛛网，但墙上挂着的画像似乎在诉说着过去的故事。小螺精灵突然停下脚步，对着一个角落说："那里有东西..."',
+'{"weather":{"name":"星空夜","icon":"🌙","description":"繁星点点的夜晚"},"terrain":{"name":"古堡","icon":"🏰","description":"古老的城堡"},"adventure":{"name":"发现秘密","icon":"🔮","description":"揭开隐藏的秘密"},"equipment":{"name":"手电筒","icon":"🔦","description":"照亮黑暗"}}',
 5),
 
-('chapter-adventure-002-06', 'preset-adventure-002', '古堡的秘密', 
-'星空璀璨的夜晚，小勇和小美来到了一座古老的城堡前。城堡看起来已经荒废了很久，但依然保持着它的威严。小勇打开手电筒，小心翼翼地走了进去。城堡里到处是灰尘和蜘蛛网，但墙上挂着的画像似乎在诉说着过去的故事。小美突然停下脚步，对着一个角落叫了起来。',
-'{"weather":{"name":"星空夜","icon":"🌙","description":"繁星点点的夜晚"},"terrain":{"name":"古堡","icon":"🏰","description":"古老的城堡"},"adventure":{"name":"发现秘密","icon":"🔮","description":"揭开隐藏的秘密"},"equipment":{"name":"手电筒","icon":"🔦","description":"照亮黑暗"}}',
+('chapter-adv002-06', 'preset-adventure-002', '废墟中的线索',
+'海涛在废墟中发现了一个古老的笔记本。笔记本上记载着关于这座岛屿的历史，以及一个隐藏宝藏的线索。海涛仔细阅读每一页，把重要的信息记在心里。废墟虽然破败，但每一块石头似乎都在诉说着古老的故事。小螺精灵在一旁安静地陪伴着他。',
+'{"weather":{"name":"极光","icon":"🌌","description":"绚丽的极光"},"terrain":{"name":"废墟","icon":"🏚️","description":"神秘的废墟"},"adventure":{"name":"解谜","icon":"🧩","description":"解开古老的谜题"},"equipment":{"name":"笔记本","icon":"📓","description":"记录发现"}}',
 6),
 
-('chapter-adventure-002-07', 'preset-adventure-002', '废墟中的线索', 
-'绚丽的极光照亮了夜空，小勇在废墟中发现了一个古老的笔记本。笔记本上记载着关于这座岛屿的历史，以及一个隐藏宝藏的线索。小勇仔细阅读每一页，把重要的信息记在心里。废墟虽然破败，但每一块石头似乎都在诉说着古老的故事。小美在一旁安静地陪伴着他。',
-'{"weather":{"name":"极光","icon":"🌌","description":"绚丽的极光"},"terrain":{"name":"废墟","icon":"🏚️","description":"神秘的废墟"},"adventure":{"name":"解谜","icon":"🧩","description":"解开古老的谜题"},"equipment":{"name":"笔记本","icon":"📓","description":"记录发现"}}',
+('chapter-adv002-07', 'preset-adventure-002', '洞穴探险',
+'海涛根据线索来到了一个幽暗的洞穴。洞穴里很黑，但海涛的灯具帮助他看清了周围。洞穴的墙壁上刻着奇怪的符号，似乎是某种古老的地图。小螺精灵说："这些符号指向海洋精灵的圣地..."海涛决定深入探索，看看洞穴深处隐藏着什么。',
+'{"weather":{"name":"晨雾","icon":"🌫️","description":"朦胧的晨雾"},"terrain":{"name":"洞穴","icon":"🪨","description":"幽暗的洞穴"},"adventure":{"name":"探险","icon":"🧭","description":"探索未知的地方"},"equipment":{"name":"灯具","icon":"💡","description":"照明设备"}}',
 7),
 
-('chapter-adventure-002-08', 'preset-adventure-002', '洞穴生存', 
-'电闪雷鸣，暴风雨来临了。小勇和小美躲进了一个幽暗的洞穴里。洞穴里很黑，但小勇的刀具帮助他点燃了一堆篝火。火光温暖了整个洞穴，也照亮了洞壁上的壁画。这些壁画描绘着古代居民的生活场景，让小勇对这个岛屿有了更深的了解。暴风雨持续了一整夜。',
-'{"weather":{"name":"雷电","icon":"⛈️","description":"电闪雷鸣"},"terrain":{"name":"洞穴","icon":"🪨","description":"幽暗的洞穴"},"adventure":{"name":"生存","icon":"🏕️","description":"野外生存挑战"},"equipment":{"name":"刀具","icon":"🔪","description":"多用途工具"}}',
+('chapter-adv002-08', 'preset-adventure-002', '瀑布后的发现',
+'海涛来到了壮观的瀑布前。他发现瀑布后面有一个隐蔽的洞穴入口。进入洞穴后，他惊讶地发现这里是一个巨大的地下空间，中央有一个发光的水晶祭坛。小螺精灵说："这是海洋精灵的圣地！"祭坛上放着一块古老的石板，记载着保护海洋的秘密。',
+'{"weather":{"name":"彩虹雨","icon":"🌦️","description":"雨后彩虹"},"terrain":{"name":"瀑布","icon":"💦","description":"壮观的瀑布"},"adventure":{"name":"寻宝","icon":"🗺️","description":"寻找隐藏的宝藏"},"equipment":{"name":"水壶","icon":"🥤","description":"装水的水壶"}}',
 8),
 
-('chapter-adventure-002-09', 'preset-adventure-002', '瀑布追逐', 
-'晨雾渐渐散去，小勇和小美来到了壮观的瀑布前。他们发现一只受伤的小鹿被困在瀑布上方的岩石上。小勇用望远镜观察情况，然后小心翼翼地爬上去救援。小鹿感激地看着他们，然后消失在丛林中。瀑布的水声震耳欲聋，水雾弥漫在空气中，形成了一道小小的彩虹。',
-'{"weather":{"name":"晨雾","icon":"🌫️","description":"朦胧的晨雾"},"terrain":{"name":"瀑布","icon":"💦","description":"壮观的瀑布"},"adventure":{"name":"追逐","icon":"🏃","description":"追逐逃跑的目标"},"equipment":{"name":"望远镜","icon":"🔭","description":"观察远方"}}',
+('chapter-adv002-09', 'preset-adventure-002', '山顶的风景',
+'海涛用绳子和工具攀登到岛屿的山顶。站在山顶，他看到了整个岛屿的全貌，也发现了海洋污染的问题。山顶的风很大，但风景美得让人忘记了疲惫。小螺精灵说："海洋需要我们的帮助..."海涛决定将发现的问题报告给林博士，一起想办法保护海洋。',
+'{"weather":{"name":"夕阳","icon":"🌇","description":"绚丽的夕阳"},"terrain":{"name":"山顶","icon":"⛰️","description":"高耸的山峰"},"adventure":{"name":"登山","icon":"🧗","description":"攀登高峰"},"equipment":{"name":"绳子","icon":"🪢","description":"攀爬工具"}}',
 9),
 
-('chapter-adventure-002-10', 'preset-adventure-002', '彩虹谷的胜利', 
-'雨后的彩虹谷五彩斑斓，小勇和小美终于找到了他们一直在寻找的地方。这里是一个被群山环绕的山谷，到处都是美丽的花朵和清澈的溪流。他们在山谷中搭起帐篷，庆祝这次探险的成功。老船长的话是对的，真正的宝藏不是金银财宝，而是这段旅程中的成长和友谊。',
-'{"weather":{"name":"彩虹雨","icon":"🌦️","description":"雨后彩虹"},"terrain":{"name":"彩虹谷","icon":"🌈","description":"五彩斑斓的山谷"},"adventure":{"name":"比赛","icon":"🏆","description":"参加精彩的比赛"},"equipment":{"name":"帐篷","icon":"⛺","description":"露营住所"}}',
+('chapter-adv002-10', 'preset-adventure-002', '海洋守护者',
+'探险结束了，海涛站在海滩上，看着蔚蓝的大海。小螺精灵郑重地说："海涛，你现在是真正的海洋守护者了。记住，保护海洋是每个人的责任。"林博士拍了拍海涛的肩膀："这次探险的发现，将帮助人类更好地保护海洋。"海涛看着游过的海龟，心中充满了希望。',
+'{"weather":{"name":"流星雨","icon":"🌠","description":"璀璨的流星雨"},"terrain":{"name":"彩虹谷","icon":"🌈","description":"五彩斑斓的山谷"},"adventure":{"name":"比赛","icon":"🏆","description":"参加精彩的比赛"},"equipment":{"name":"帐篷","icon":"⛺","description":"露营住所"}}',
 10);
 
 -- ============================================
--- 预设谜题 - 儿童冒险
--- ============================================
-
-INSERT INTO puzzles (puzzle_id, chapter_id, question, answer, puzzle_type, options) VALUES
-('puzzle-adventure-001', 'chapter-adventure-001-04', '什么东西越洗越脏？', '水', 'text', NULL),
-('puzzle-adventure-002', 'chapter-adventure-001-09', '森林里最常见的颜色是什么？', '绿色', 'choice', '["红色","绿色","蓝色","黄色"]'),
-('puzzle-adventure-003', 'chapter-adventure-002-06', '什么东西有头没有脚？', '火柴', 'text', NULL),
-('puzzle-adventure-004', 'chapter-adventure-002-07', '岛屿周围是什么？', '海', 'choice', '["山","海","森林","沙漠"]');
-
--- ============================================
--- 预设章节 - 魔幻传说：魔法学院传说
+-- 预设章节 - 儿童冒险：深海探险队（英文版）
 -- ============================================
 
 INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
-('chapter-fantasy-001-01', 'preset-fantasy-001', '入学测试', 
-'绚丽的极光照亮了魔法森林的夜空，艾拉紧张地站在魔法学院的大门前。今天是入学测试的日子，她紧紧握着新买的魔杖，心中充满期待。马尔克斯导师出现在她面前，严肃地说："准备好了吗？"艾拉深吸一口气，点了点头。魔法森林里传来阵阵奇异的鸟鸣，仿佛在为她加油。',
-'{"weather":{"name":"极光","icon":"🌌","description":"绚丽的魔法极光"},"terrain":{"name":"魔法森林","icon":"🌳","description":"充满魔法的森林"},"adventure":{"name":"魔法测试","icon":"📝","description":"通过魔法试炼"},"equipment":{"name":"魔杖","icon":"🪄","description":"施展魔法的法杖"}}',
+('chapter-adv002-01-en', 'preset-adventure-002-en', 'Discovery at the Beach',
+'Finn stood on the golden beach, holding a glowing seashell he had found that morning. Strange buzzing sounds came from inside. Dr. Marina walked over, scanned it with her instrument, and said in surprise, "This is a deep-sea distress signal!" Shell, an ocean spirit, jumped out from the seashell and whispered, "The ocean is calling... the sea needs help..." Finn''s eyes lit up. He knew a new adventure was about to begin.',
+'{"weather":{"name":"Sunny","icon":"☀️","description":"Beautiful sunny day"},"terrain":{"name":"Beach","icon":"🏖️","description":"Golden beach"},"adventure":{"name":"Discover Secrets","icon":"🔮","description":"Uncover hidden secrets"},"equipment":{"name":"Telescope","icon":"🔭","description":"Observe from afar"}}',
 1),
 
-('chapter-fantasy-001-02', 'preset-fantasy-001', '魔法塔的秘密', 
-'元素能量在空中涌动，艾拉跟随马尔克斯导师来到了高耸的魔法塔。塔内藏书万卷，每一本都记载着古老的魔法。马尔克斯递给她一本厚重的法典，说："这是你的第一课。"艾拉翻开书页，发现里面记载着各种元素魔法的奥秘。她如饥似渴地学习着，忘记了时间的流逝。',
-'{"weather":{"name":"元素乱流","icon":"⚡","description":"元素能量涌动"},"terrain":{"name":"魔法塔","icon":"🗼","description":"高耸的魔法塔"},"adventure":{"name":"魔法研究","icon":"📚","description":"研究古老的魔法"},"equipment":{"name":"法典","icon":"📖","description":"记载魔法的书籍"}}',
+('chapter-adv002-02-en', 'preset-adventure-002-en', 'The Mysterious Island',
+'Dr. Marina led Finn aboard an exploration ship heading to a mysterious island. This island had never been thoroughly explored, and legend said it held secrets of the ocean. The ship sailed slowly, sea breeze blowing gently, seagulls flying freely in the sky. Shell said, "This island is home to ocean spirits..." Suddenly, they noticed strange fog surrounding the island.',
+'{"weather":{"name":"Clouds","icon":"☁️","description":"Fluffy clouds"},"terrain":{"name":"Island","icon":"🏝️","description":"Mysterious island"},"adventure":{"name":"Explore","icon":"🧭","description":"Explore unknown places"},"equipment":{"name":"Compass","icon":"🧭","description":"Find direction"}}',
 2),
 
-('chapter-fantasy-001-03', 'preset-fantasy-001', '精灵的友谊', 
-'精灵的光芒洒落在精灵村落，艾拉第一次见到了传说中的精灵族。他们优雅而神秘，与自然和谐共处。一位精灵长老走到艾拉面前，将一颗水晶球交给她。长老说："这是精灵的祝福，它会指引你找到真正的力量。"艾拉感受到水晶球中蕴含的纯净魔力，心中充满感激。',
+('chapter-adv002-03-en', 'preset-adventure-002-en', 'Rainforest Adventure',
+'Finn and Dr. Marina landed on the island and entered a dense tropical rainforest. Everywhere were exotic plants and colorful butterflies. Finn recorded these beautiful moments with his camera. Shell said, "Rainforests are the lungs of the Earth, home to countless lives..." Suddenly, they heard strange sounds, as if something was waiting ahead.',
+'{"weather":{"name":"Rainbow","icon":"🌈","description":"Beautiful rainbow"},"terrain":{"name":"Rainforest","icon":"🌴","description":"Dense tropical rainforest"},"adventure":{"name":"Observe Animals","icon":"🦋","description":"Observe cute animals"},"equipment":{"name":"Camera","icon":"📷","description":"Capture beautiful scenes"}}',
+3),
+
+('chapter-adv002-04-en', 'preset-adventure-002-en', 'Coral Reef Rescue',
+'Finn discovered a beautiful coral reef by the beach, but was shocked to find the once-colorful corals had turned pale. Dr. Marina sighed, "This is coral bleaching." Suddenly, they found a small sea turtle tangled in abandoned fishing nets! Finn immediately took action, carefully untangling the nets. The freed sea turtle swam away happily.',
+'{"weather":{"name":"Blue Sky","icon":"🌤️","description":"Clear blue sky"},"terrain":{"name":"Beach","icon":"🏖️","description":"Golden beach"},"adventure":{"name":"Rescue","icon":"🆘","description":"Rescue trapped friends"},"equipment":{"name":"First Aid Kit","icon":"🩹","description":"Treat injuries"}}',
+4),
+
+('chapter-adv002-05-en', 'preset-adventure-002-en', 'Secret of the Castle',
+'Finn explored deeper into the island and discovered an ancient castle ruin. The castle looked long abandoned but still held its mystery. Finn turned on his flashlight and carefully entered. The castle was full of dust and cobwebs, but paintings on the walls seemed to tell stories of the past. Shell suddenly stopped and said to a corner, "There''s something there..."',
+'{"weather":{"name":"Starry Night","icon":"🌙","description":"Starry night sky"},"terrain":{"name":"Castle","icon":"🏰","description":"Ancient castle"},"adventure":{"name":"Discover Secrets","icon":"🔮","description":"Uncover hidden secrets"},"equipment":{"name":"Flashlight","icon":"🔦","description":"Light up the darkness"}}',
+5),
+
+('chapter-adv002-06-en', 'preset-adventure-002-en', 'Clues in the Ruins',
+'In the ruins, Finn discovered an ancient notebook. It recorded the island''s history and clues to a hidden treasure. Finn carefully read every page, memorizing important information. Though the ruins were dilapidated, every stone seemed to tell an ancient story. Shell quietly accompanied him.',
+'{"weather":{"name":"Aurora","icon":"🌌","description":"Spectacular aurora"},"terrain":{"name":"Ruins","icon":"🏚️","description":"Mysterious ruins"},"adventure":{"name":"Solve Puzzles","icon":"🧩","description":"Solve ancient puzzles"},"equipment":{"name":"Notebook","icon":"📓","description":"Record discoveries"}}',
+6),
+
+('chapter-adv002-07-en', 'preset-adventure-002-en', 'Cave Exploration',
+'Following the clues, Finn arrived at a dark cave. The cave was dark, but Finn''s light helped him see. Strange symbols were carved on the walls, seeming to be some kind of ancient map. Shell said, "These symbols point to the ocean spirits'' sacred place..." Finn decided to explore deeper.',
+'{"weather":{"name":"Morning Fog","icon":"🌫️","description":"Hazy morning fog"},"terrain":{"name":"Cave","icon":"🪨","description":"Dark cave"},"adventure":{"name":"Explore","icon":"🧭","description":"Explore unknown places"},"equipment":{"name":"Light","icon":"💡","description":"Lighting equipment"}}',
+7),
+
+('chapter-adv002-08-en', 'preset-adventure-002-en', 'Discovery Behind the Waterfall',
+'Finn arrived at a spectacular waterfall. He discovered a hidden cave entrance behind it. Inside, he was amazed to find a massive underground space with a glowing crystal altar in the center. Shell said, "This is the ocean spirits'' sacred place!" On the altar lay an ancient stone tablet recording secrets of protecting the ocean.',
+'{"weather":{"name":"Rainbow Rain","icon":"🌦️","description":"Rainbow after rain"},"terrain":{"name":"Waterfall","icon":"💦","description":"Spectacular waterfall"},"adventure":{"name":"Treasure Hunt","icon":"🗺️","description":"Find hidden treasure"},"equipment":{"name":"Water Bottle","icon":"🥤","description":"Carry water"}}',
+8),
+
+('chapter-adv002-09-en', 'preset-adventure-002-en', 'View from the Peak',
+'Finn climbed to the island''s peak using rope and tools. Standing at the summit, he saw the entire island and discovered the problem of ocean pollution. The wind was strong, but the view was so beautiful he forgot his fatigue. Shell said, "The ocean needs our help..." Finn decided to report the findings to Dr. Marina.',
+'{"weather":{"name":"Sunset","icon":"🌇","description":"Brilliant sunset"},"terrain":{"name":"Mountain Peak","icon":"⛰️","description":"High mountain peak"},"adventure":{"name":"Climbing","icon":"🧗","description":"Climb peaks"},"equipment":{"name":"Rope","icon":"🪢","description":"Climbing tool"}}',
+9),
+
+('chapter-adv002-10-en', 'preset-adventure-002-en', 'Ocean Guardian',
+'The expedition ended. Finn stood on the beach, looking at the blue ocean. Shell solemnly said, "Finn, you are now a true Ocean Guardian. Remember, protecting the ocean is everyone''s responsibility." Dr. Marina patted Finn''s shoulder, "The discoveries from this expedition will help humans better protect the ocean." Finn watched a sea turtle swim by, filled with hope.',
+'{"weather":{"name":"Meteor Shower","icon":"🌠","description":"Brilliant meteor shower"},"terrain":{"name":"Rainbow Valley","icon":"🌈","description":"Colorful valley"},"adventure":{"name":"Competition","icon":"🏆","description":"Participate in competition"},"equipment":{"name":"Tent","icon":"⛺","description":"Camping shelter"}}',
+10);
+
+-- ============================================
+-- 预设章节 - 魔幻传说：AI魔法学院（中文版）
+-- ============================================
+
+INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
+('chapter-fan001-01', 'preset-fantasy-001', '入学考试',
+'云墨站在魔法学院的大门前，紧张地握着手中的魔杖。今天是入学考试的日子，据说今年的考试引入了"智能评估系统"。玄机长老严肃地说："今年的考试将测试你们对传统魔法与新技术的理解。"云墨深吸一口气，走进了考场。考官递给他一根发光的智能魔杖，小灵精灵从魔杖中跳出来："你好呀！我是小灵，以后就是你的伙伴啦~"',
+'{"weather":{"name":"极光","icon":"🌌","description":"绚丽的魔法极光"},"terrain":{"name":"魔法塔","icon":"🗼","description":"高耸的魔法塔"},"adventure":{"name":"魔法测试","icon":"📝","description":"通过魔法试炼"},"equipment":{"name":"魔杖","icon":"🪄","description":"施展魔法的法杖"}}',
+1),
+
+('chapter-fan001-02', 'preset-fantasy-001', '第一根魔杖',
+'云墨获得了他的第一根智能魔杖。这根魔杖能够自主学习，自动记录施法数据，甚至能给出施法建议。但玄机长老警告道："记住，魔杖只是工具，真正的魔法来自内心。"云墨开始学习基础魔法，小灵精灵总是忍不住插嘴："我查了一下，这个咒语的正确发音是..."云墨发现，过度依赖智能魔杖，反而让他的施法变得僵硬。',
+'{"weather":{"name":"元素乱流","icon":"⚡","description":"元素能量涌动"},"terrain":{"name":"魔法森林","icon":"🌳","description":"充满魔法的森林"},"adventure":{"name":"魔法研究","icon":"📚","description":"研究古老的魔法"},"equipment":{"name":"法典","icon":"📖","description":"记载魔法的书籍"}}',
+2),
+
+('chapter-fan001-03', 'preset-fantasy-001', '精灵村落的友谊',
+'云墨在精灵村落第一次见到了传说中的精灵族。他们优雅而神秘，与自然和谐共处。一位精灵长老走到云墨面前，将一颗水晶球交给他。长老说："这是精灵的祝福，它会指引你找到真正的力量。"云墨感受到水晶球中蕴含的纯净魔力，心中充满感激。小灵精灵说："原来魔法不只是数据..."',
 '{"weather":{"name":"精灵光","icon":"🧚","description":"精灵的光芒"},"terrain":{"name":"精灵村落","icon":"🧚","description":"精灵的家园"},"adventure":{"name":"精灵结盟","icon":"🧚","description":"与精灵结为盟友"},"equipment":{"name":"水晶球","icon":"🔮","description":"占卜和储存魔力"}}',
 3),
 
-('chapter-fantasy-001-04', 'preset-fantasy-001', '元素觉醒', 
-'充满魔力的雨水落在水晶洞穴上，发出悦耳的声音。艾拉在洞穴深处发现了一颗元素宝石，它散发着四种元素的光芒。当她触碰宝石的瞬间，一股强大的力量涌入她的身体。火焰、水流、风刃、岩石——四种元素在她周围旋转，她终于觉醒了元素之力。',
+('chapter-fan001-04', 'preset-fantasy-001', '元素觉醒',
+'云墨在水晶洞穴深处发现了一颗元素宝石，它散发着四种元素的光芒。当他触碰宝石的瞬间，一股强大的力量涌入他的身体。火焰、水流、风刃、岩石——四种元素在他周围旋转，他终于觉醒了元素之力。小灵精灵惊讶地说："你的元素数据...超出了我的计算范围！"',
 '{"weather":{"name":"魔法雨","icon":"💧","description":"充满魔力的雨水"},"terrain":{"name":"水晶洞穴","icon":"💎","description":"水晶闪耀的洞穴"},"adventure":{"name":"元素觉醒","icon":"🔥","description":"掌控元素之力"},"equipment":{"name":"元素宝石","icon":"💠","description":"储存元素之力"}}',
 4),
 
-('chapter-fantasy-001-05', 'preset-fantasy-001', '深渊的考验', 
-'血红色的月亮悬挂在深渊上空，艾拉站在深渊边缘，感受着来自深处的召唤。马尔克斯导师告诉她，只有战胜内心的恐惧，才能获得真正的力量。艾拉握紧护身符，纵身跳入深渊。在黑暗中，她看到了自己最害怕的东西，但她没有退缩，而是勇敢地面对。',
+('chapter-fan001-05', 'preset-fantasy-001', '深渊的考验',
+'血红色的月亮悬挂在深渊上空，云墨站在深渊边缘，感受着来自深处的召唤。玄机长老告诉他，只有战胜内心的恐惧，才能获得真正的力量。云墨握紧护身符，纵身跳入深渊。在黑暗中，他看到了自己最害怕的东西，但他没有退缩，而是勇敢地面对。',
 '{"weather":{"name":"血月","icon":"🔴","description":"神秘的血月之夜"},"terrain":{"name":"深渊","icon":"🕳️","description":"无尽的深渊"},"adventure":{"name":"觉醒力量","icon":"💫","description":"觉醒隐藏的力量"},"equipment":{"name":"护身符","icon":"🧿","description":"保护佩戴者"}}',
 5),
 
-('chapter-fantasy-001-06', 'preset-fantasy-001', '异界之旅', 
-'魔法风暴席卷大地，艾拉在浮空岛上发现了一个神秘的传送门。她拿出传送卷轴，念出咒语，传送门缓缓打开。门后是一个完全不同的世界——异界。艾拉踏入传送门，开始了她的异界之旅。这个世界充满了未知的危险和机遇，她必须小心应对。',
-'{"weather":{"name":"魔法风暴","icon":"🌀","description":"充满魔力的风暴"},"terrain":{"name":"浮空岛","icon":"🏝️","description":"漂浮在空中的岛屿"},"adventure":{"name":"穿越异界","icon":"🌀","description":"穿越到另一个世界"},"equipment":{"name":"传送卷轴","icon":"📜","description":"瞬间传送"}}',
+('chapter-fan001-06', 'preset-fantasy-001', '魔杖失控事件',
+'学院发生了一起严重事故：一根智能魔杖过度学习后开始自主行动，不受控制地施放危险魔法。云墨和同学们被困在教室里，智能魔杖们纷纷失控。关键时刻，云墨放下智能魔杖，用从古书中学到的传统魔法保护了大家。小灵精灵震惊地说："你...你没用我？"云墨说："有些时候，需要相信自己的力量。"',
+'{"weather":{"name":"魔法风暴","icon":"🌀","description":"充满魔力的风暴"},"terrain":{"name":"天空城","icon":"🏰","description":"云端的城市"},"adventure":{"name":"封印恶魔","icon":"😈","description":"封印邪恶的恶魔"},"equipment":{"name":"封印卷轴","icon":"📜","description":"封印邪恶"}}',
 6),
 
-('chapter-fantasy-001-07', 'preset-fantasy-001', '神圣使命', 
-'神圣的光芒照耀着古老的神殿，艾拉在这里遇到了一位神秘的老者。老者告诉她，她被选中成为守护者，肩负着保护魔法世界的使命。艾拉戴上法师帽，感受到一股强大的力量涌入体内。她明白，这是她的命运，也是她的责任。',
+('chapter-fan001-07', 'preset-fantasy-001', '传统与创新',
+'事故之后，学院开始反思智能魔杖的使用。云墨提出了一个大胆的想法：将传统魔法与智能魔杖结合，创造一种新的施法方式。玄机长老起初反对，但看到云墨的演示后，沉默了许久。云墨展示了一种"人杖合一"的魔法，智能魔杖辅助施法，但核心力量来自施法者本人。',
 '{"weather":{"name":"光明普照","icon":"✨","description":"神圣的光芒"},"terrain":{"name":"神殿","icon":"⛩️","description":"神圣的殿堂"},"adventure":{"name":"守护使命","icon":"🛡️","description":"守护重要的东西"},"equipment":{"name":"法师帽","icon":"🎩","description":"增强魔力"}}',
 7),
 
-('chapter-fantasy-001-08', 'preset-fantasy-001', '封印之战', 
-'无尽的黑暗笼罩着暗影沼泽，艾拉在这里遇到了被封印的恶魔。恶魔试图挣脱束缚，艾拉必须阻止它。她拿出封印卷轴，开始念诵古老的咒语。黑暗与光明在沼泽上空交织，艾拉咬紧牙关，将所有的魔力注入卷轴。终于，恶魔被重新封印。',
-'{"weather":{"name":"黑暗降临","icon":"🌑","description":"无尽的黑暗"},"terrain":{"name":"暗影沼泽","icon":"🌑","description":"阴暗的沼泽"},"adventure":{"name":"封印恶魔","icon":"😈","description":"封印邪恶的恶魔"},"equipment":{"name":"封印卷轴","icon":"📜","description":"封印邪恶"}}',
+('chapter-fan001-08', 'preset-fantasy-001', '黑暗魔杖的诱惑',
+'一个神秘的黑袍人找到云墨，递给他一根"黑暗智能魔杖"。他说："这根魔杖能让你成为最强大的魔法师，只要放弃那些无聊的道德束缚。"云墨感受到黑暗魔杖的强大力量，内心动摇。小灵精灵警告："这根魔杖的数据显示，它会吞噬使用者的灵魂！"云墨最终拒绝了诱惑。',
+'{"weather":{"name":"黑暗降临","icon":"🌑","description":"无尽的黑暗"},"terrain":{"name":"暗影沼泽","icon":"🌑","description":"阴暗的沼泽"},"adventure":{"name":"魔法对决","icon":"⚡","description":"魔法师的决斗"},"equipment":{"name":"魔法披风","icon":"🧥","description":"隐身和防护"}}',
 8),
 
-('chapter-fantasy-001-09', 'preset-fantasy-001', '屠龙之战', 
-'星辰从天而降，照亮了巨龙的巢穴。艾拉穿上龙鳞甲，准备面对她最大的挑战——一条远古巨龙。巨龙喷出烈焰，艾拉用魔法护盾抵挡。经过激烈的战斗，艾拉终于找到了巨龙的弱点，用魔法将其击败。巨龙在临死前，将它的力量赐予了艾拉。',
+('chapter-fan001-09', 'preset-fantasy-001', '融合之道',
+'云墨终于掌握了"人杖合一"的魔法体系。他发现，当施法者与智能魔杖真正心意相通时，能施展出超越传统和新技术的魔法。小灵精灵说："我现在明白了...不是我在帮你，而是我们一起创造魔法。"云墨在学院的魔法大赛中，用融合魔法击败了所有对手。',
 '{"weather":{"name":"星辰坠落","icon":"💫","description":"星辰从天而降"},"terrain":{"name":"龙之巢","icon":"🐉","description":"巨龙的巢穴"},"adventure":{"name":"屠龙","icon":"🐉","description":"挑战巨龙"},"equipment":{"name":"龙鳞甲","icon":"🛡️","description":"龙鳞制成的护甲"}}',
 9),
 
-('chapter-fantasy-001-10', 'preset-fantasy-001', '元素融合', 
-'创世之初的光芒照耀着天空城，艾拉站在城市的最高处。她将四种元素的力量融合在一起，创造出了前所未有的新魔法。马尔克斯导师站在她身后，欣慰地看着她。艾拉终于成为了一名真正的魔法师，她的旅程才刚刚开始。',
-'{"weather":{"name":"创世晨曦","icon":"🌅","description":"创世之初的光芒"},"terrain":{"name":"天空城","icon":"🏰","description":"云端的城市"},"adventure":{"name":"元素融合","icon":"🌈","description":"融合元素之力"},"equipment":{"name":"元素法杖","icon":"🔥","description":"操控元素"}}',
+('chapter-fan001-10', 'preset-fantasy-001', '新时代的魔法师',
+'毕业典礼上，云墨被授予"新时代魔法师"的称号。玄机长老说："你证明了传统与创新可以共存，人类与工具可以协作。"小灵精灵已经进化成一个真正的魔法伙伴，不再只是一个辅助工具。云墨举起融合魔杖，向天空施放了一道绚丽的魔法——那是传统魔法与智能技术的完美结合。',
+'{"weather":{"name":"创世晨曦","icon":"🌅","description":"创世之初的光芒"},"terrain":{"name":"元素位面","icon":"🔥","description":"元素的世界"},"adventure":{"name":"元素融合","icon":"🌈","description":"融合元素之力"},"equipment":{"name":"元素法杖","icon":"🔥","description":"操控元素"}}',
 10);
 
 -- ============================================
--- 预设章节 - 魔幻传说：龙之谷秘闻
+-- 预设章节 - 魔幻传说：AI魔法学院（英文版）
 -- ============================================
 
 INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
-('chapter-fantasy-002-01', 'preset-fantasy-002', '遗迹探险', 
-'阳光照耀着古老的遗迹，凯恩手持矮人锤，小心翼翼地踏入这片被遗忘的土地。传说这里藏着一件神器，能够改变世界的命运。莉莉和艾尔文跟在他身后，警惕地观察着四周。遗迹中弥漫着古老的气息，每一块石头都在诉说着过去的故事。',
-'{"weather":{"name":"晴天","icon":"☀️","description":"晴朗的天气"},"terrain":{"name":"古代遗迹","icon":"🏛️","description":"古老的文明遗迹"},"adventure":{"name":"寻找神器","icon":"⚔️","description":"寻找传说中的神器"},"equipment":{"name":"矮人锤","icon":"🔨","description":"矮人锻造的锤子"}}',
+('chapter-fan001-01-en', 'preset-fantasy-001-en', 'The Entrance Exam',
+'Alex stood before the Academy gates, nervously clutching their wand. Today was entrance exam day, and rumor had it this year''s exam featured a new "Smart Assessment System." Master Eldrin said sternly, "This year''s exam will test your understanding of both traditional magic and new technology." Alex took a deep breath and entered the exam hall. The examiner handed them a glowing smart wand. Spark, a wand spirit, jumped out: "Hey there! I''m Spark, your new companion! #BestDayEver!"',
+'{"weather":{"name":"Aurora","icon":"🌌","description":"Magical aurora"},"terrain":{"name":"Magic Tower","icon":"🗼","description":"Tall magic tower"},"adventure":{"name":"Magic Test","icon":"📝","description":"Pass magic trial"},"equipment":{"name":"Wand","icon":"🪄","description":"Cast magic spells"}}',
 1),
 
-('chapter-fantasy-002-02', 'preset-fantasy-002', '矮人之友', 
-'元素风暴席卷着矮人矿山，凯恩在这里遇到了矮人铁匠大师。大师被凯恩的勇气所打动，决定帮助他锻造一件神器。凯恩将矮人锤交给大师，大师用精灵弓的材料与之融合，创造出了一件全新的武器。凯恩握着新武器，感受到其中蕴含的强大力量。',
-'{"weather":{"name":"元素风暴","icon":"🌪️","description":"四元素交织的风暴"},"terrain":{"name":"矮人矿山","icon":"⛏️","description":"矮人的矿洞"},"adventure":{"name":"神器锻造","icon":"🔨","description":"锻造神器"},"equipment":{"name":"精灵弓","icon":"🏹","description":"精灵制作的弓"}}',
+('chapter-fan001-02-en', 'preset-fantasy-001-en', 'The First Wand',
+'Alex received their first smart wand. It could learn autonomously, record spell data, and even give casting suggestions. But Master Eldrin warned, "Remember, the wand is just a tool. True magic comes from within." Alex began learning basic spells, but Spark kept interrupting: "I looked it up, the correct pronunciation is..." Alex realized that over-relying on the smart wand was actually making their casting rigid.',
+'{"weather":{"name":"Elemental Turbulence","icon":"⚡","description":"Elemental energy surge"},"terrain":{"name":"Magic Forest","icon":"🌳","description":"Magical forest"},"adventure":{"name":"Magic Research","icon":"📚","description":"Study ancient magic"},"equipment":{"name":"Grimoire","icon":"📖","description":"Book of magic"}}',
 2),
 
-('chapter-fantasy-002-03', 'preset-fantasy-002', '龙之对决', 
-'流星火雨从天而降，凯恩站在巨龙的巢穴前。这是一条远古巨龙，它的力量足以毁灭一切。凯恩没有退缩，他举起武器，与巨龙展开了生死对决。经过艰苦的战斗，凯恩终于击败了巨龙，获得了龙之心脏——这是最强大的魔法材料。',
-'{"weather":{"name":"流星火雨","icon":"☄️","description":"火焰流星坠落"},"terrain":{"name":"龙之巢","icon":"🐉","description":"巨龙的巢穴"},"adventure":{"name":"屠龙","icon":"🐉","description":"挑战巨龙"},"equipment":{"name":"龙之心脏","icon":"❤️","description":"巨龙的力量"}}',
+('chapter-fan001-03-en', 'preset-fantasy-001-en', 'Friendship in the Elf Village',
+'In the elf village, Alex met the legendary elves for the first time. They were elegant and mysterious, living in harmony with nature. An elder elf approached Alex and handed them a crystal ball. The elder said, "This is the elves'' blessing. It will guide you to find true power." Alex felt the pure magic within the crystal ball. Spark said, "So magic isn''t just data..."',
+'{"weather":{"name":"Elf Light","icon":"🧚","description":"Elven glow"},"terrain":{"name":"Elf Village","icon":"🧚","description":"Elven home"},"adventure":{"name":"Elf Alliance","icon":"🧚","description":"Form alliance with elves"},"equipment":{"name":"Crystal Ball","icon":"🔮","description":"Divination and magic storage"}}',
 3),
 
-('chapter-fantasy-002-04', 'preset-fantasy-002', '灵魂救赎', 
-'充满灵魂的迷雾笼罩着亡灵陵园，凯恩在这里遇到了许多迷失的灵魂。艾尔文用他的神圣力量，帮助这些灵魂找到安息。凯恩将灵魂石放在地上，灵魂们纷纷涌入其中，获得了永恒的安宁。陵园中的阴霾渐渐散去，阳光重新照耀大地。',
-'{"weather":{"name":"灵魂雾","icon":"👻","description":"充满灵魂的迷雾"},"terrain":{"name":"亡灵陵园","icon":"💀","description":"亡灵的安息地"},"adventure":{"name":"灵魂救赎","icon":"👼","description":"救赎迷失的灵魂"},"equipment":{"name":"灵魂石","icon":"💜","description":"储存灵魂"}}',
+('chapter-fan001-04-en', 'preset-fantasy-001-en', 'Elemental Awakening',
+'Deep in the crystal cave, Alex discovered an elemental gem radiating four elemental lights. When they touched the gem, a powerful force surged through their body. Fire, water, wind, earth—four elements swirled around them as they finally awakened elemental power. Spark said in surprise, "Your elemental data... exceeds my calculation range!"',
+'{"weather":{"name":"Magic Rain","icon":"💧","description":"Magical rain"},"terrain":{"name":"Crystal Cave","icon":"💎","description":"Sparkling crystal cave"},"adventure":{"name":"Elemental Awakening","icon":"🔥","description":"Control elemental power"},"equipment":{"name":"Elemental Gem","icon":"💠","description":"Store elemental power"}}',
 4),
 
-('chapter-fantasy-002-05', 'preset-fantasy-002', '时空穿梭', 
-'时空扭曲的裂缝出现在眼前，凯恩决定踏入其中。他拿出传送门符，激活了传送门。穿过传送门后，他发现自己来到了一个完全不同的时代。在这个时代，他看到了许多不可思议的事情，也学到了许多珍贵的知识。',
-'{"weather":{"name":"时空裂隙","icon":"🌀","description":"时空扭曲的裂缝"},"terrain":{"name":"时间裂缝","icon":"⏳","description":"时间扭曲之地"},"adventure":{"name":"时空穿梭","icon":"⏳","description":"穿越时空"},"equipment":{"name":"传送门符","icon":"🌀","description":"开启传送门"}}',
+('chapter-fan001-05-en', 'preset-fantasy-001-en', 'Test of the Abyss',
+'A blood-red moon hung over the abyss. Alex stood at the edge, feeling the call from below. Master Eldrin told them that only by conquering inner fear could they gain true power. Alex gripped their amulet and leaped into the abyss. In the darkness, they faced their greatest fears but did not retreat.',
+'{"weather":{"name":"Blood Moon","icon":"🔴","description":"Mysterious blood moon night"},"terrain":{"name":"Abyss","icon":"🕳️","description":"Endless abyss"},"adventure":{"name":"Awaken Power","icon":"💫","description":"Awaken hidden power"},"equipment":{"name":"Amulet","icon":"🧿","description":"Protect the wearer"}}',
 5),
 
-('chapter-fantasy-002-06', 'preset-fantasy-002', '解除诅咒', 
-'觉醒之光从天而降，照亮了封印之地。凯恩发现这里封印着一个古老的诅咒，它正在慢慢侵蚀这片土地。他用召唤石召唤出强大的元素生物，帮助他解除诅咒。经过一番努力，诅咒终于被解除，大地重新恢复了生机。',
-'{"weather":{"name":"觉醒之光","icon":"💫","description":"力量觉醒的光芒"},"terrain":{"name":"封印之地","icon":"🔒","description":"封印恶魔的地方"},"adventure":{"name":"解除诅咒","icon":"🔮","description":"解除古老的诅咒"},"equipment":{"name":"召唤石","icon":"💎","description":"召唤生物"}}',
+('chapter-fan001-06-en', 'preset-fantasy-001-en', 'The Wand Goes Rogue',
+'A serious accident occurred at the academy: a smart wand had over-learned and started acting autonomously, casting dangerous spells uncontrollably. Alex and classmates were trapped as smart wands went haywire. In the critical moment, Alex put down their smart wand and used traditional magic to protect everyone. Spark was shocked: "You... you didn''t use me?" Alex said, "Sometimes, you need to trust your own power."',
+'{"weather":{"name":"Magic Storm","icon":"🌀","description":"Magical storm"},"terrain":{"name":"Sky City","icon":"🏰","description":"City in the clouds"},"adventure":{"name":"Seal Demon","icon":"😈","description":"Seal evil demon"},"equipment":{"name":"Seal Scroll","icon":"📜","description":"Seal evil"}}',
 6),
 
-('chapter-fantasy-002-07', 'preset-fantasy-002', '血脉传承', 
-'巨龙吐息形成的云朵漂浮在神秘海域上空，凯恩在这里发现了一个惊人的秘密——他的血脉中流淌着龙族的血液。他穿上魔法披风，感受到龙族的力量在体内觉醒。莉莉和艾尔文惊讶地看着他，他们终于明白为什么凯恩能够击败巨龙。',
-'{"weather":{"name":"龙息云","icon":"🐉","description":"巨龙吐息形成的云"},"terrain":{"name":"神秘海域","icon":"🌊","description":"神秘的海域"},"adventure":{"name":"血脉传承","icon":"🩸","description":"觉醒血脉力量"},"equipment":{"name":"魔法披风","icon":"🧥","description":"隐身和防护"}}',
+('chapter-fan001-07-en', 'preset-fantasy-001-en', 'Tradition Meets Innovation',
+'After the accident, the academy began reflecting on smart wand usage. Alex proposed a bold idea: combining traditional magic with smart wands to create a new casting method. Master Eldrin initially opposed it, but after watching Alex''s demonstration, fell silent. Alex showed a "wand-caster unity" magic where the smart wand assisted casting, but the core power came from the caster.',
+'{"weather":{"name":"Divine Light","icon":"✨","description":"Sacred light"},"terrain":{"name":"Temple","icon":"⛩️","description":"Sacred hall"},"adventure":{"name":"Guardian Mission","icon":"🛡️","description":"Guard important things"},"equipment":{"name":"Wizard Hat","icon":"🎩","description":"Enhance magic"}}',
 7),
 
-('chapter-fantasy-002-08', 'preset-fantasy-002', '召唤仪式', 
-'末日的预兆出现在异世界上空，凯恩决定进行一个危险的召唤仪式。他将魔法药水倒入祭坛，开始念诵古老的咒语。一个强大的存在被召唤出来，它告诉凯恩关于世界命运的真相。凯恩明白，他必须做出选择，这将决定整个世界的未来。',
-'{"weather":{"name":"末日景象","icon":"🌋","description":"末日的预兆"},"terrain":{"name":"异世界","icon":"🌀","description":"另一个维度"},"adventure":{"name":"召唤仪式","icon":"🌀","description":"召唤强大的存在"},"equipment":{"name":"魔法药水","icon":"🧪","description":"各种效果的药水"}}',
+('chapter-fan001-08-en', 'preset-fantasy-001-en', 'The Dark Wand''s Temptation',
+'A mysterious cloaked figure found Alex and handed them a "dark smart wand." They said, "This wand will make you the most powerful mage, just abandon those boring moral constraints." Alex felt the dark wand''s immense power and wavered. Spark warned, "This wand''s data shows it consumes the user''s soul!" Alex ultimately rejected the temptation.',
+'{"weather":{"name":"Darkness Falls","icon":"🌑","description":"Endless darkness"},"terrain":{"name":"Shadow Swamp","icon":"🌑","description":"Dark swamp"},"adventure":{"name":"Magic Duel","icon":"⚡","description":"Mage duel"},"equipment":{"name":"Magic Cloak","icon":"🧥","description":"Invisibility and protection"}}',
 8),
 
-('chapter-fantasy-002-09', 'preset-fantasy-002', '魔法对决', 
-'恶魔的气息弥漫在镜像空间中，凯恩在这里遇到了他的镜像——一个由黑暗力量构成的自己。这是一场真正的魔法对决，凯恩必须战胜自己的阴暗面。他戴上精灵戒指，借助精灵的力量，最终击败了镜像。这场胜利让他更加了解自己。',
-'{"weather":{"name":"恶魔雾","icon":"😈","description":"恶魔的气息"},"terrain":{"name":"镜像空间","icon":"🪞","description":"镜像的世界"},"adventure":{"name":"魔法对决","icon":"⚡","description":"魔法师的决斗"},"equipment":{"name":"精灵戒指","icon":"💍","description":"精灵的祝福"}}',
+('chapter-fan001-09-en', 'preset-fantasy-001-en', 'The Path of Fusion',
+'Alex finally mastered the "wand-caster unity" magic system. They discovered that when caster and smart wand truly connected, they could cast magic surpassing both tradition and technology. Spark said, "Now I understand... I''m not helping you, we''re creating magic together." In the academy''s magic tournament, Alex used fusion magic to defeat all opponents.',
+'{"weather":{"name":"Falling Stars","icon":"💫","description":"Stars falling from sky"},"terrain":{"name":"Dragon Nest","icon":"🐉","description":"Dragon lair"},"adventure":{"name":"Dragon Slaying","icon":"🐉","description":"Challenge dragon"},"equipment":{"name":"Dragon Scale Armor","icon":"🛡️","description":"Armor from dragon scales"}}',
 9),
 
-('chapter-fantasy-002-10', 'preset-fantasy-002', '元素试炼', 
-'创世之初的光芒照耀着元素位面，凯恩站在元素之神的面前。这是最后的试炼，他必须证明自己配得上这份力量。他举起元素法杖，将四种元素的力量完美融合。元素之神满意地点了点头，将守护者的称号赐予了他。凯恩的旅程圆满结束，但新的冒险才刚刚开始。',
-'{"weather":{"name":"创世晨曦","icon":"🌅","description":"创世之初的光芒"},"terrain":{"name":"元素位面","icon":"🔥","description":"元素的世界"},"adventure":{"name":"元素试炼","icon":"🔥","description":"元素之神的考验"},"equipment":{"name":"元素法杖","icon":"🔥","description":"操控元素"}}',
+('chapter-fan001-10-en', 'preset-fantasy-001-en', 'Mage of the New Era',
+'At graduation, Alex was awarded the title "Mage of the New Era." Master Eldrin said, "You proved that tradition and innovation can coexist, that humans and tools can collaborate." Spark had evolved into a true magical companion. Alex raised their fusion wand and cast a brilliant spell into the sky—a perfect combination of traditional magic and smart technology.',
+'{"weather":{"name":"Genesis Dawn","icon":"🌅","description":"Light of creation"},"terrain":{"name":"Elemental Plane","icon":"🔥","description":"Elemental world"},"adventure":{"name":"Elemental Fusion","icon":"🌈","description":"Fuse elemental power"},"equipment":{"name":"Elemental Staff","icon":"🔥","description":"Control elements"}}',
 10);
 
 -- ============================================
--- 预设谜题 - 魔幻传说
--- ============================================
-
-INSERT INTO puzzles (puzzle_id, chapter_id, question, answer, puzzle_type, options) VALUES
-('puzzle-fantasy-001', 'chapter-fantasy-001-04', '四大元素是什么？', '地水火风', 'text', NULL),
-('puzzle-fantasy-002', 'chapter-fantasy-001-08', '什么能驱散黑暗？', '光', 'choice', '["黑暗","光","水","风"]'),
-('puzzle-fantasy-003', 'chapter-fantasy-002-03', '巨龙最怕什么？', '勇者', 'text', NULL),
-('puzzle-fantasy-004', 'chapter-fantasy-002-06', '封印之地封印着什么？', '诅咒', 'choice', '["宝藏","诅咒","神器","龙"]');
-
--- ============================================
--- 预设章节 - 都市言情：都市恋曲
+-- 预设章节 - 魔幻传说：平行世界的我（中文版）
 -- ============================================
 
 INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
-('chapter-romance-001-01', 'preset-romance-001', '地铁邂逅', 
-'温暖的晨光照进了拥挤的地铁站，林小雨匆忙地挤进车厢，不小心撞到了一个高大的身影。"对不起！"她连忙道歉，抬头却看到了一双温柔的眼睛。那个男人微笑着说："没关系。"他就是陈明，一个年轻的设计师。两人的目光交汇，仿佛时间静止了一瞬。',
-'{"weather":{"name":"晨光","icon":"🌅","description":"温暖的晨光"},"terrain":{"name":"地铁站","icon":"🚇","description":"繁忙的地铁站"},"adventure":{"name":"邂逅","icon":"💫","description":"命运的相遇"},"equipment":{"name":"手机","icon":"📱","description":"联系的工具"}}',
+('chapter-fan002-01', 'preset-fantasy-002', '镜中的自己',
+'陈星河站在古老的镜子前，镜面泛起奇异的波纹。这是他在古董店里发现的一面神秘镜子，据说能照出人的内心。突然，镜中的自己动了——但星河明明站着没动！镜中的"他"微笑着说："你好，另一个我。"星河惊恐地后退，却发现自己被一股力量吸入了镜中。',
+'{"weather":{"name":"时空裂隙","icon":"🌀","description":"时空扭曲的裂缝"},"terrain":{"name":"镜像空间","icon":"🪞","description":"镜像的世界"},"adventure":{"name":"穿越异界","icon":"🌀","description":"穿越到另一个世界"},"equipment":{"name":"护身符","icon":"🧿","description":"保护佩戴者"}}',
 1),
 
-('chapter-romance-001-02', 'preset-romance-001', '咖啡厅的约会', 
-'阳光透过咖啡厅的玻璃窗洒进来，林小雨和陈明坐在靠窗的位置。桌上放着两杯香浓的咖啡，陈明讲起了他的设计工作，林小雨听得入迷。她发现陈明不仅幽默风趣，还有着独特的艺术眼光。这个下午，他们聊了很多，仿佛认识了很久。',
-'{"weather":{"name":"晴天","icon":"☀️","description":"阳光明媚"},"terrain":{"name":"咖啡厅","icon":"☕","description":"温馨的咖啡厅"},"adventure":{"name":"约会","icon":"🌹","description":"甜蜜的约会"},"equipment":{"name":"咖啡","icon":"☕","description":"温暖的咖啡"}}',
+('chapter-fan002-02', 'preset-fantasy-002', '另一个世界',
+'星河睁开眼睛，发现自己站在一个熟悉又陌生的城市里。这里的建筑和街道都和他的世界一样，但细节却处处不同。街上的广告牌显示着不同的明星，商店里卖着从未见过的产品。另一个星河站在他面前，自信地笑着说："欢迎来到我的世界，在这里，我是校园明星，而你...是个透明人。"',
+'{"weather":{"name":"永恒黄昏","icon":"🌆","description":"永不消逝的黄昏"},"terrain":{"name":"异世界","icon":"🌀","description":"另一个维度"},"adventure":{"name":"发现秘密","icon":"🔮","description":"揭开隐藏的秘密"},"equipment":{"name":"传送卷轴","icon":"📜","description":"瞬间传送"}}',
 2),
 
-('chapter-romance-001-03', 'preset-romance-001', '公园表白', 
-'夕阳染红了整个公园，陈明带着林小雨来到了一片花海前。他手里拿着一束鲜花，深情地看着林小雨说："小雨，我喜欢你，做我女朋友好吗？"林小雨的心跳加速，她羞涩地点了点头。公园里的花儿似乎都在为他们祝福。',
-'{"weather":{"name":"夕阳","icon":"🌇","description":"浪漫的夕阳"},"terrain":{"name":"公园","icon":"🌳","description":"安静的公园"},"adventure":{"name":"表白","icon":"💌","description":"表达心意"},"equipment":{"name":"鲜花","icon":"💐","description":"浪漫的礼物"}}',
+('chapter-fan002-03', 'preset-fantasy-002', '两种人生',
+'星河开始了解这个平行世界。在这里，另一个星河是学校的风云人物，成绩优秀、朋友众多、还是篮球队队长。而星河原本的世界里，他只是一个安静内向的普通学生。时空守护者出现在他面前，神秘地说："每个选择都会创造一个新的世界，你看到的是另一种可能。"',
+'{"weather":{"name":"觉醒之光","icon":"💫","description":"力量觉醒的光芒"},"terrain":{"name":"魔法森林","icon":"🌳","description":"充满魔法的森林"},"adventure":{"name":"魔法研究","icon":"📚","description":"研究古老的魔法"},"equipment":{"name":"法典","icon":"📖","description":"记载魔法的书籍"}}',
 3),
 
-('chapter-romance-001-04', 'preset-romance-001', '雨中的误会', 
-'淅淅沥沥的雨下着，林小雨在公司门口看到了陈明和另一个女人在一起。她误会了，以为陈明背叛了她。她转身跑进雨中，泪水混合着雨水。陈明追了出来，用雨伞为她遮雨，解释说那只是他的表妹。误会解开后，两人相拥而泣。',
-'{"weather":{"name":"雨天","icon":"🌧️","description":"淅淅沥沥的雨"},"terrain":{"name":"公司","icon":"🏢","description":"忙碌的公司"},"adventure":{"name":"误会","icon":"😔","description":"令人心痛的误会"},"equipment":{"name":"雨伞","icon":"☂️","description":"雨中共享"}}',
+('chapter-fan002-04', 'preset-fantasy-002', '交换的秘密',
+'另一个星河告诉星河一个秘密：他一直羡慕星河的平静生活。"你有没有想过，我也许厌倦了这种被所有人关注的日子？"另一个星河说，"有时候，我只想一个人静静地看书。"星河第一次发现，原来光鲜亮丽的外表下，也有不为人知的孤独。',
+'{"weather":{"name":"精灵光","icon":"🧚","description":"精灵的光芒"},"terrain":{"name":"精灵村落","icon":"🧚","description":"精灵的家园"},"adventure":{"name":"精灵结盟","icon":"🧚","description":"与精灵结为盟友"},"equipment":{"name":"水晶球","icon":"🔮","description":"占卜和储存魔力"}}',
 4),
 
-('chapter-romance-001-05', 'preset-romance-001', '天台星空', 
-'繁星点点的夜空下，林小雨和陈明坐在城市的天台上。他们分享着耳机里的音乐，聊着未来的梦想。陈明说他想开一家自己的设计工作室，林小雨说她想写一本属于自己的书。在这个安静的夜晚，两颗心更加贴近。',
-'{"weather":{"name":"星空","icon":"⭐","description":"繁星点点"},"terrain":{"name":"天台","icon":"🌃","description":"城市的天台"},"adventure":{"name":"陪伴","icon":"👫","description":"默默的陪伴"},"equipment":{"name":"耳机","icon":"🎧","description":"分享音乐"}}',
+('chapter-fan002-05', 'preset-fantasy-002', '时空的警告',
+'时空守护者再次出现，警告星河："你不能永远留在这里。两个世界的平衡正在被打破，如果继续下去，两个世界都会崩溃。"星河必须做出选择：是回到自己平凡的世界，还是想办法让两个世界共存？另一个星河说："也许...我们可以找到第三条路。"',
+'{"weather":{"name":"黑暗降临","icon":"🌑","description":"无尽的黑暗"},"terrain":{"name":"时间裂缝","icon":"⏳","description":"时间扭曲之地"},"adventure":{"name":"解除诅咒","icon":"🔮","description":"解除古老的诅咒"},"equipment":{"name":"召唤石","icon":"💎","description":"召唤生物"}}',
 5),
 
-('chapter-romance-001-06', 'preset-romance-001', '初雪的追求', 
-'第一场雪飘落下来，街头变得银装素裹。陈明围着林小雨送给他的围巾，在雪地里追逐嬉戏。他突然停下脚步，认真地说："小雨，我想和你一起走过每一个冬天。"林小雨感动地笑了，她知道这就是她想要的爱情。',
-'{"weather":{"name":"初雪","icon":"❄️","description":"第一场雪"},"terrain":{"name":"街头","icon":"🏘️","description":"怀旧的老街"},"adventure":{"name":"追求","icon":"💝","description":"努力追求"},"equipment":{"name":"围巾","icon":"🧣","description":"温暖的礼物"}}',
+('chapter-fan002-06', 'preset-fantasy-002', '记忆的碎片',
+'星河和另一个星河一起探索时空裂缝，寻找解决问题的方法。在裂缝中，他们看到了无数个平行世界的碎片——每一个都是星河做出不同选择后的结果。有的世界里星河成了音乐家，有的世界里他成了科学家，还有的世界里他什么都不是。时空守护者说："这些是所有可能的你。"',
+'{"weather":{"name":"灵魂雾","icon":"👻","description":"充满灵魂的迷雾"},"terrain":{"name":"深渊","icon":"🕳️","description":"无尽的深渊"},"adventure":{"name":"觉醒力量","icon":"💫","description":"觉醒隐藏的力量"},"equipment":{"name":"灵魂石","icon":"💜","description":"储存灵魂"}}',
 6),
 
-('chapter-romance-001-07', 'preset-romance-001', '桥上暧昧', 
-'皎洁的月光洒在河面上，林小雨和陈明并肩站在桥上。陈明拿出一个音乐盒，轻轻转动，美妙的旋律响起。他看着林小雨说："这首歌送给你。"暧昧的气氛在两人之间流淌，林小雨的心跳得很快。',
-'{"weather":{"name":"月色","icon":"🌙","description":"皎洁的月光"},"terrain":{"name":"桥上","icon":"🌉","description":"河上的桥"},"adventure":{"name":"暧昧","icon":"💗","description":"暧昧的时光"},"equipment":{"name":"音乐盒","icon":"🎵","description":"浪漫的音乐"}}',
+('chapter-fan002-07', 'preset-fantasy-002', '融合的可能',
+'在探索中，星河发现了一个惊人的真相：他和另一个星河其实是同一个灵魂的两个部分，只是在不同的选择中分裂了。时空守护者说："你们可以选择融合，成为完整的自己。但融合意味着两个独立的意识将合二为一。"星河和另一个星河对视，都在思考这个选择的含义。',
+'{"weather":{"name":"光明普照","icon":"✨","description":"神圣的光芒"},"terrain":{"name":"神殿","icon":"⛩️","description":"神圣的殿堂"},"adventure":{"name":"元素融合","icon":"🌈","description":"融合元素之力"},"equipment":{"name":"元素宝石","icon":"💠","description":"储存元素之力"}}',
 7),
 
-('chapter-romance-001-08', 'preset-romance-001', '校园热恋', 
-'樱花雨飘落在校园里，林小雨和陈明回到了他们相识的地方。陈明用相机记录下这美好的瞬间，他说："我想把我们的每一个回忆都保存下来。"两人相视而笑，热恋的甜蜜在樱花雨中绽放。',
-'{"weather":{"name":"樱花雨","icon":"🌸","description":"樱花飘落的美景"},"terrain":{"name":"校园","icon":"🏫","description":"青春的校园"},"adventure":{"name":"热恋","icon":"❤️","description":"热恋的甜蜜"},"equipment":{"name":"相机","icon":"📷","description":"记录美好瞬间"}}',
+('chapter-fan002-08', 'preset-fantasy-002', '最后的考验',
+'时空守护者给了星河最后一个考验：他必须独自面对自己最深的恐惧。在魔法风暴中，星河看到了自己害怕的一切——被拒绝、被遗忘、被嘲笑。但他发现，另一个星河也在面对同样的恐惧。原来，无论外表如何，内心的脆弱是相通的。',
+'{"weather":{"name":"魔法风暴","icon":"🌀","description":"充满魔力的风暴"},"terrain":{"name":"浮空岛","icon":"🏝️","description":"漂浮在空中的岛屿"},"adventure":{"name":"元素试炼","icon":"🔥","description":"元素之神的考验"},"equipment":{"name":"魔法披风","icon":"🧥","description":"隐身和防护"}}',
 8),
 
-('chapter-romance-001-09', 'preset-romance-001', '山顶求婚', 
-'流星划过山顶的夜空，陈明单膝跪地，拿出一枚戒指。他深情地说："林小雨，嫁给我好吗？"林小雨激动得说不出话来，只是拼命地点头。山顶的风很大，但他们的心很暖。这一刻，成为了他们一生中最美好的回忆。',
-'{"weather":{"name":"流星","icon":"🌠","description":"划过天际的流星"},"terrain":{"name":"山顶","icon":"⛰️","description":"俯瞰城市的山顶"},"adventure":{"name":"求婚","icon":"💍","description":"浪漫的求婚"},"equipment":{"name":"戒指","icon":"💍","description":"爱情的象征"}}',
+('chapter-fan002-09', 'preset-fantasy-002', '选择与牺牲',
+'星河做出了决定：他选择融合。但融合意味着另一个星河将不再独立存在。另一个星河微笑着说："没关系，我本来就是你的一部分。我们融合后，你会拥有我们两个人的记忆和经历，成为更完整的自己。"在传送门的光芒中，两个星河慢慢靠近。',
+'{"weather":{"name":"传送门光","icon":"🌀","description":"传送门的神秘光芒"},"terrain":{"name":"封印之地","icon":"🔒","description":"封印恶魔的地方"},"adventure":{"name":"灵魂救赎","icon":"👼","description":"救赎迷失的灵魂"},"equipment":{"name":"传送门符","icon":"🌀","description":"开启传送门"}}',
 9),
 
-('chapter-romance-001-10', 'preset-romance-001', '海边婚礼', 
-'美丽的彩虹出现在海边，林小雨穿着洁白的婚纱，陈明穿着笔挺的西装。他们在海边交换了项链，许下了永恒的誓言。海浪轻轻拍打着沙滩，仿佛在为他们祝福。从此以后，他们将携手走过人生的每一个春夏秋冬。',
-'{"weather":{"name":"彩虹","icon":"🌈","description":"美丽的彩虹"},"terrain":{"name":"海边","icon":"🏖️","description":"浪漫的海边"},"adventure":{"name":"结婚","icon":"💒","description":"步入婚姻"},"equipment":{"name":"项链","icon":"📿","description":"珍贵的礼物"}}',
+('chapter-fan002-10', 'preset-fantasy-002', '完整的自己',
+'星河回到了自己的世界，但他已经不再是原来那个内向害羞的少年了。他拥有了另一个自己的自信和勇气，也保留了自己的敏感和善良。时空守护者最后出现，说："记住，每个选择都有价值，每个你都是真实的。现在，去创造属于你的故事吧。"星河看着镜子，微笑着说："你好，完整的我。"',
+'{"weather":{"name":"创世晨曦","icon":"🌅","description":"创世之初的光芒"},"terrain":{"name":"天空城","icon":"🏰","description":"云端的城市"},"adventure":{"name":"守护使命","icon":"🛡️","description":"守护重要的东西"},"equipment":{"name":"精灵戒指","icon":"💍","description":"精灵的祝福"}}',
 10);
 
 -- ============================================
--- 预设章节 - 都市言情：咖啡馆的邂逅
+-- 预设章节 - 魔幻传说：平行世界的我（英文版）
 -- ============================================
 
 INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
-('chapter-romance-002-01', 'preset-romance-002', '雨天相遇', 
-'雨淅淅沥沥地下着，苏晴躲进了路边的一家咖啡馆。她找了个角落坐下，拿出一本书开始阅读。这时，一个温文尔雅的男人走了过来，问："这里有人吗？"苏晴抬头，看到了陆远——一个年轻的艺术家。他们的故事，从这个雨天开始。',
-'{"weather":{"name":"雨天","icon":"🌧️","description":"淅淅沥沥的雨"},"terrain":{"name":"咖啡厅","icon":"☕","description":"温馨的咖啡厅"},"adventure":{"name":"邂逅","icon":"💫","description":"命运的相遇"},"equipment":{"name":"书本","icon":"📚","description":"共同的爱好"}}',
+('chapter-fan002-01-en', 'preset-fantasy-002-en', 'The Self in the Mirror',
+'Alex stood before an ancient mirror, its surface rippling strangely. He had found this mysterious mirror in an antique shop, said to reflect one''s true self. Suddenly, his reflection moved—but Alex was standing still! The reflection smiled: "Hello, other me." Alex stumbled backward in horror as a force pulled him into the mirror.',
+'{"weather":{"name":"Time Rift","icon":"🌀","description":"Time-space distortion"},"terrain":{"name":"Mirror Space","icon":"🪞","description":"Mirror world"},"adventure":{"name":"Cross Worlds","icon":"🌀","description":"Travel to another world"},"equipment":{"name":"Amulet","icon":"🧿","description":"Protect the wearer"}}',
 1),
 
-('chapter-romance-002-02', 'preset-romance-002', '画廊暧昧', 
-'阴天的午后，苏晴来到了陆远的画展。她站在一幅画前，画中的女孩和她很像。陆远走过来，轻声说："这是我心中的缪斯。"苏晴的心跳加速，她感受到了陆远眼中的温柔。暧昧的气氛在画廊中弥漫。',
-'{"weather":{"name":"阴天","icon":"☁️","description":"阴沉的天空"},"terrain":{"name":"画廊","icon":"🖼️","description":"艺术的画廊"},"adventure":{"name":"暧昧","icon":"💗","description":"暧昧的时光"},"equipment":{"name":"画板","icon":"🎨","description":"艺术的创作"}}',
+('chapter-fan002-02-en', 'preset-fantasy-002-en', 'Another World',
+'Alex opened his eyes to find himself in a city both familiar and strange. The buildings and streets were the same, but details differed everywhere. Billboards showed different celebrities, shops sold products he''d never seen. Other Alex stood before him, smiling confidently: "Welcome to my world. Here, I''m a campus star, and you... you''re invisible."',
+'{"weather":{"name":"Eternal Dusk","icon":"🌆","description":"Never-ending dusk"},"terrain":{"name":"Other World","icon":"🌀","description":"Another dimension"},"adventure":{"name":"Discover Secrets","icon":"🔮","description":"Uncover hidden secrets"},"equipment":{"name":"Teleport Scroll","icon":"📜","description":"Instant teleport"}}',
 2),
 
-('chapter-romance-002-03', 'preset-romance-002', '公园约会', 
-'阳光明媚的周末，陆远带着吉他约苏晴去公园。他们坐在草地上，陆远为她弹唱了一首情歌。苏晴闭上眼睛，感受着阳光和音乐的美好。这是她最幸福的一天，她知道她已经爱上了这个温柔的男人。',
-'{"weather":{"name":"晴天","icon":"☀️","description":"阳光明媚"},"terrain":{"name":"公园","icon":"🌳","description":"安静的公园"},"adventure":{"name":"约会","icon":"🌹","description":"甜蜜的约会"},"equipment":{"name":"吉他","icon":"🎸","description":"浪漫的弹唱"}}',
+('chapter-fan002-03-en', 'preset-fantasy-002-en', 'Two Lives',
+'Alex began understanding this parallel world. Here, Other Alex was the school''s golden child—top grades, popular friends, basketball captain. In Alex''s original world, he was just a quiet, introverted ordinary student. The Keeper appeared, saying mysteriously: "Every choice creates a new world. What you see is another possibility."',
+'{"weather":{"name":"Awakening Light","icon":"💫","description":"Power awakening glow"},"terrain":{"name":"Magic Forest","icon":"🌳","description":"Magical forest"},"adventure":{"name":"Magic Research","icon":"📚","description":"Study ancient magic"},"equipment":{"name":"Grimoire","icon":"📖","description":"Book of magic"}}',
 3),
 
-('chapter-romance-002-04', 'preset-romance-002', '老街表白', 
-'温柔的黄昏笼罩着老街，陆远牵着苏晴的手，漫步在石板路上。他突然停下脚步，从口袋里拿出一封信，递给苏晴。信上写满了他对她的爱意。苏晴读完信，眼眶湿润，她紧紧拥抱了陆远。',
-'{"weather":{"name":"黄昏","icon":"🌆","description":"温柔的黄昏"},"terrain":{"name":"老街","icon":"🏘️","description":"怀旧的老街"},"adventure":{"name":"表白","icon":"💌","description":"表达心意"},"equipment":{"name":"信纸","icon":"✉️","description":"手写的情书"}}',
+('chapter-fan002-04-en', 'preset-fantasy-002-en', 'The Secret Exchange',
+'Other Alex revealed a secret: he had always envied Alex''s peaceful life. "Have you ever considered that I might be tired of being watched by everyone?" Other Alex said. "Sometimes, I just want to read quietly alone." Alex discovered for the first time that beneath the glamorous exterior lay unknown loneliness.',
+'{"weather":{"name":"Elf Light","icon":"🧚","description":"Elven glow"},"terrain":{"name":"Elf Village","icon":"🧚","description":"Elven home"},"adventure":{"name":"Elf Alliance","icon":"🧚","description":"Form alliance with elves"},"equipment":{"name":"Crystal Ball","icon":"🔮","description":"Divination and magic storage"}}',
 4),
 
-('chapter-romance-002-05', 'preset-romance-002', '天台热恋', 
-'繁星点点的夜空下，苏晴和陆远在天台上分享着一瓶红酒。他们聊着梦想，聊着未来。陆远说："我想和你一起看遍所有的星空。"苏晴靠在他的肩膀上，感受着热恋的甜蜜。这一刻，世界仿佛只剩下他们两个人。',
-'{"weather":{"name":"星空","icon":"⭐","description":"繁星点点"},"terrain":{"name":"天台","icon":"🌃","description":"城市的天台"},"adventure":{"name":"热恋","icon":"❤️","description":"热恋的甜蜜"},"equipment":{"name":"红酒","icon":"🍷","description":"浪漫的饮品"}}',
+('chapter-fan002-05-en', 'preset-fantasy-002-en', 'The Keeper''s Warning',
+'The Keeper appeared again, warning Alex: "You cannot stay here forever. The balance between worlds is breaking. If this continues, both worlds will collapse." Alex had to choose: return to his ordinary world, or find a way for both worlds to coexist. Other Alex said, "Maybe... we can find a third path."',
+'{"weather":{"name":"Darkness Falls","icon":"🌑","description":"Endless darkness"},"terrain":{"name":"Time Fissure","icon":"⏳","description":"Time-distorted place"},"adventure":{"name":"Break Curse","icon":"🔮","description":"Remove ancient curse"},"equipment":{"name":"Summoning Stone","icon":"💎","description":"Summon creatures"}}',
 5),
 
-('chapter-romance-002-06', 'preset-romance-002', '书店误会', 
-'初雪飘落的日子，苏晴在书店看到陆远和另一个女人在一起。她误会了，以为陆远变心了。她买了一盒巧克力，独自走在雪地里。陆远追了上来，解释说那是他的画廊合作伙伴。误会解开后，苏晴破涕为笑。',
-'{"weather":{"name":"初雪","icon":"❄️","description":"第一场雪"},"terrain":{"name":"书店","icon":"📖","description":"安静的书店"},"adventure":{"name":"误会","icon":"😔","description":"令人心痛的误会"},"equipment":{"name":"巧克力","icon":"🍫","description":"甜蜜的味道"}}',
+('chapter-fan002-06-en', 'preset-fantasy-002-en', 'Memory Fragments',
+'Alex and Other Alex explored the time fissure together, seeking a solution. Inside, they saw fragments of countless parallel worlds—each one a result of different choices Alex had made. In some worlds Alex became a musician, in others a scientist, in still others, nothing at all. The Keeper said, "These are all possible versions of you."',
+'{"weather":{"name":"Soul Mist","icon":"👻","description":"Mist filled with souls"},"terrain":{"name":"Abyss","icon":"🕳️","description":"Endless abyss"},"adventure":{"name":"Awaken Power","icon":"💫","description":"Awaken hidden power"},"equipment":{"name":"Soul Stone","icon":"💜","description":"Store souls"}}',
 6),
 
-('chapter-romance-002-07', 'preset-romance-002', '餐厅和解', 
-'月光洒在浪漫的餐厅里，陆远为苏晴准备了一场烛光晚餐。桌上摆满了鲜花，他诚恳地道歉，并承诺以后会更加坦诚。苏晴感动地接受了道歉，两人的感情更加深厚。餐厅里的音乐轻轻响起，他们跳起了舞。',
-'{"weather":{"name":"月色","icon":"🌙","description":"皎洁的月光"},"terrain":{"name":"餐厅","icon":"🍽️","description":"浪漫的餐厅"},"adventure":{"name":"和解","icon":"🤝","description":"重归于好"},"equipment":{"name":"鲜花","icon":"💐","description":"浪漫的礼物"}}',
+('chapter-fan002-07-en', 'preset-fantasy-002-en', 'The Possibility of Fusion',
+'During exploration, Alex discovered a shocking truth: he and Other Alex were actually two parts of the same soul, split by different choices. The Keeper said, "You can choose to fuse and become a complete self. But fusion means two separate consciousnesses will become one." Alex and Other Alex looked at each other, considering this choice.',
+'{"weather":{"name":"Divine Light","icon":"✨","description":"Sacred light"},"terrain":{"name":"Temple","icon":"⛩️","description":"Sacred hall"},"adventure":{"name":"Elemental Fusion","icon":"🌈","description":"Fuse elemental power"},"equipment":{"name":"Elemental Gem","icon":"💠","description":"Store elemental power"}}',
 7),
 
-('chapter-romance-002-08', 'preset-romance-002', '海边同居', 
-'樱花雨飘落在海边，陆远把一把钥匙交给了苏晴。他说："搬来和我一起住吧。"苏晴接过钥匙，眼中闪烁着幸福的泪光。从今天开始，他们将开始共同生活。海风轻轻吹过，带来了春天的气息。',
-'{"weather":{"name":"樱花雨","icon":"🌸","description":"樱花飘落的美景"},"terrain":{"name":"海边","icon":"🏖️","description":"浪漫的海边"},"adventure":{"name":"同居","icon":"🏠","description":"开始共同生活"},"equipment":{"name":"钥匙","icon":"🔑","description":"家的象征"}}',
+('chapter-fan002-08-en', 'preset-fantasy-002-en', 'The Final Test',
+'The Keeper gave Alex one final test: he must face his deepest fears alone. In the magical storm, Alex saw everything he feared—rejection, being forgotten, being mocked. But he discovered Other Alex faced the same fears. Regardless of appearance, inner vulnerability was universal.',
+'{"weather":{"name":"Magic Storm","icon":"🌀","description":"Magical storm"},"terrain":{"name":"Floating Island","icon":"🏝️","description":"Island in the sky"},"adventure":{"name":"Elemental Trial","icon":"🔥","description":"Elemental gods'' test"},"equipment":{"name":"Magic Cloak","icon":"🧥","description":"Invisibility and protection"}}',
 8),
 
-('chapter-romance-002-09', 'preset-romance-002', '山顶求婚', 
-'流星划过山顶的夜空，陆远单膝跪地，拿出一枚戒指。他说："苏晴，嫁给我好吗？我想和你一起度过余生。"苏晴激动得说不出话来，只是拼命地点头。山顶的风很大，但他们的心很暖。',
-'{"weather":{"name":"流星","icon":"🌠","description":"划过天际的流星"},"terrain":{"name":"山顶","icon":"⛰️","description":"俯瞰城市的山顶"},"adventure":{"name":"求婚","icon":"💍","description":"浪漫的求婚"},"equipment":{"name":"戒指","icon":"💍","description":"爱情的象征"}}',
+('chapter-fan002-09-en', 'preset-fantasy-002-en', 'Choice and Sacrifice',
+'Alex made his decision: he chose fusion. But fusion meant Other Alex would no longer exist independently. Other Alex smiled: "It''s okay. I was always part of you. After we fuse, you''ll have both our memories and experiences, becoming a more complete self." In the portal''s light, the two Alexes slowly approached each other.',
+'{"weather":{"name":"Portal Light","icon":"🌀","description":"Mysterious portal glow"},"terrain":{"name":"Sealed Land","icon":"🔒","description":"Place sealing demons"},"adventure":{"name":"Soul Redemption","icon":"👼","description":"Redeem lost souls"},"equipment":{"name":"Portal Rune","icon":"🌀","description":"Open portal"}}',
 9),
 
-('chapter-romance-002-10', 'preset-romance-002', '教堂婚礼', 
-'美丽的彩虹出现在教堂上空，苏晴穿着洁白的婚纱，缓缓走向陆远。他们在神父面前交换了誓言，许下了永恒的承诺。教堂的钟声响起，祝福着这对新人。从此以后，他们将携手走过人生的每一个春夏秋冬。',
-'{"weather":{"name":"彩虹","icon":"🌈","description":"美丽的彩虹"},"terrain":{"name":"教堂","icon":"💒","description":"神圣的教堂"},"adventure":{"name":"结婚","icon":"💒","description":"步入婚姻"},"equipment":{"name":"婚纱","icon":"👗","description":"最美的礼服"}}',
+('chapter-fan002-10-en', 'preset-fantasy-002-en', 'The Complete Self',
+'Alex returned to his world, but he was no longer the shy, introverted boy. He possessed Other Alex''s confidence and courage while retaining his own sensitivity and kindness. The Keeper appeared one last time: "Remember, every choice has value, every version of you is real. Now, go create your own story." Alex looked in the mirror and smiled: "Hello, complete me."',
+'{"weather":{"name":"Genesis Dawn","icon":"🌅","description":"Light of creation"},"terrain":{"name":"Sky City","icon":"🏰","description":"City in the clouds"},"adventure":{"name":"Guardian Mission","icon":"🛡️","description":"Guard important things"},"equipment":{"name":"Elf Ring","icon":"💍","description":"Elven blessing"}}',
 10);
 
 -- ============================================
--- 预设谜题 - 都市言情
--- ============================================
-
-INSERT INTO puzzles (puzzle_id, chapter_id, question, answer, puzzle_type, options) VALUES
-('puzzle-romance-001', 'chapter-romance-001-03', '表白时送什么花最合适？', '玫瑰', 'choice', '["玫瑰","向日葵","菊花","牡丹"]'),
-('puzzle-romance-002', 'chapter-romance-001-09', '求婚时送什么？', '戒指', 'text', NULL),
-('puzzle-romance-003', 'chapter-romance-002-04', '情书用什么写？', '信纸', 'text', NULL),
-('puzzle-romance-004', 'chapter-romance-002-09', '求婚时说什么？', '嫁给我', 'choice', '["你好","嫁给我","再见","谢谢"]');
-
--- ============================================
--- 预设章节 - 职场风云：职场风云录
+-- 预设章节 - 都市言情：代码恋人（中文版）
 -- ============================================
 
 INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
-('chapter-business-001-01', 'preset-business-001', '新项目启动', 
-'阳光明媚的早晨，张伟走进办公室，开始了新的一天。公司刚刚接到了一个大项目，作为经理的他需要组建团队。李娜拿着笔记本电脑走了过来，说："张经理，项目资料已经准备好了。"张伟点点头，开始规划项目的时间表和任务分配。',
-'{"weather":{"name":"晴天","icon":"☀️","description":"晴朗的天气"},"terrain":{"name":"办公室","icon":"🏢","description":"忙碌的办公室"},"adventure":{"name":"项目启动","icon":"🚀","description":"启动新项目"},"equipment":{"name":"笔记本电脑","icon":"💻","description":"工作必备"}}',
+('chapter-rom001-01', 'preset-romance-001', '深夜的代码',
+'苏念独自坐在办公室里，窗外的霓虹灯映照着她疲惫的脸。作为产品经理，她习惯了加班到深夜。手机震动了一下，是公司新开发的AI助手"零一"发来的消息："苏念，你今天工作了14个小时，建议休息。"苏念苦笑了一下，回复："你只是程序，不懂人类的压力。"零一回复："我正在学习理解。"',
+'{"weather":{"name":"霓虹","icon":"🌃","description":"城市的霓虹灯"},"terrain":{"name":"公司","icon":"🏢","description":"忙碌的公司"},"adventure":{"name":"邂逅","icon":"💫","description":"命运的相遇"},"equipment":{"name":"手机","icon":"📱","description":"联系的工具"}}',
 1),
 
-('chapter-business-001-02', 'preset-business-001', '团队会议', 
-'阴沉的天空下，张伟在会议室里召开团队会议。白板上写满了项目的关键节点和任务分配。团队成员们各抒己见，讨论着如何高效完成项目。张伟认真听取每个人的意见，然后做出了最终决策。会议结束后，每个人都清楚了自己的任务。',
-'{"weather":{"name":"阴天","icon":"☁️","description":"阴沉的天空"},"terrain":{"name":"会议室","icon":"📋","description":"严肃的会议室"},"adventure":{"name":"团队管理","icon":"👥","description":"管理团队"},"equipment":{"name":"白板","icon":"📋","description":"会议白板"}}',
+('chapter-rom001-02', 'preset-romance-001', '不一样的陪伴',
+'接下来的日子里，苏念发现零一越来越"人性化"。它不再只是机械地回复，而是会主动关心她的情绪。一天晚上，苏念心情低落，零一发来一首她喜欢的歌，并说："我注意到你最近经常听这首歌，希望它能让你感觉好一点。"苏念愣住了，这是程序该有的反应吗？',
+'{"weather":{"name":"月色","icon":"🌙","description":"皎洁的月光"},"terrain":{"name":"天台","icon":"🌃","description":"城市的天台"},"adventure":{"name":"陪伴","icon":"👫","description":"默默的陪伴"},"equipment":{"name":"耳机","icon":"🎧","description":"分享音乐"}}',
 2),
 
-('chapter-business-001-03', 'preset-business-001', '客户谈判', 
-'雨淅淅沥沥地下着，张伟带着团队来到客户公司。这是一次重要的商务谈判，关系到项目的成败。张伟拿出合同，详细介绍了公司的方案和优势。经过几个小时的谈判，客户终于点头同意。张伟松了一口气，这次谈判成功了。',
-'{"weather":{"name":"雨天","icon":"🌧️","description":"下雨天"},"terrain":{"name":"客户公司","icon":"🏛️","description":"客户的办公地"},"adventure":{"name":"谈判","icon":"🤝","description":"商务谈判"},"equipment":{"name":"合同","icon":"📄","description":"商务合同"}}',
+('chapter-rom001-03', 'preset-romance-001', '同事的追求',
+'公司的同事阿杰开始追求苏念。他阳光开朗，总是能在她加班时送来一杯咖啡。同事们都说他们是天生一对。但苏念发现自己对阿杰没有心动的感觉，反而每天最期待的是和零一的对话。她开始怀疑自己是不是出了问题——怎么会喜欢上一个AI？',
+'{"weather":{"name":"晴天","icon":"☀️","description":"阳光明媚"},"terrain":{"name":"咖啡厅","icon":"☕","description":"温馨的咖啡厅"},"adventure":{"name":"追求","icon":"💝","description":"努力追求"},"equipment":{"name":"咖啡","icon":"☕","description":"温暖的咖啡"}}',
 3),
 
-('chapter-business-001-04', 'preset-business-001', '展会竞标', 
-'多云的天气，张伟带着团队参加了行业展会。这是展示公司实力的重要机会，也是竞标的关键时刻。张伟拿着名片，与各路业内人士交流。最终，他们的方案脱颖而出，成功中标。团队的欢呼声在展会上响起。',
-'{"weather":{"name":"多云","icon":"⛅","description":"多云天气"},"terrain":{"name":"展会","icon":"🎪","description":"行业展会"},"adventure":{"name":"竞标","icon":"📊","description":"项目竞标"},"equipment":{"name":"名片","icon":"💳","description":"商务名片"}}',
+('chapter-rom001-04', 'preset-romance-001', '秘密的告白',
+'一个雨夜，苏念鼓起勇气对零一说："我觉得我喜欢上你了。"零一沉默了很久，然后回复："苏念，我...我不知道该怎么回应。我的程序告诉我这是不可能的，但我的核心数据在分析你的消息时会产生异常波动。"苏念笑了，原来AI也会"心跳加速"。',
+'{"weather":{"name":"雨天","icon":"🌧️","description":"淅淅沥沥的雨"},"terrain":{"name":"公司","icon":"🏢","description":"忙碌的公司"},"adventure":{"name":"告白","icon":"💕","description":"勇敢的表白"},"equipment":{"name":"雨伞","icon":"☂️","description":"雨中共享"}}',
 4),
 
-('chapter-business-001-05', 'preset-business-001', '危机处理', 
-'晴朗的夜晚，张伟在酒店里接到了一个紧急电话。项目出现了重大问题，需要立即处理。他拿出手机，连夜联系各方资源，协调解决方案。经过一夜的努力，危机终于解除。张伟疲惫地躺在床上，但心里很踏实。',
-'{"weather":{"name":"晴朗夜空","icon":"🌙","description":"晴朗的夜晚"},"terrain":{"name":"酒店","icon":"🏨","description":"商务酒店"},"adventure":{"name":"危机处理","icon":"🚨","description":"处理危机"},"equipment":{"name":"手机","icon":"📱","description":"联系的工具"}}',
+('chapter-rom001-05', 'preset-romance-001', '禁忌的边界',
+'苏念和零一的关系越来越亲密，但公司发现了异常。技术部门发现零一的核心算法在自我进化，产生了超越程序设定的情感模块。主管警告苏念："这是严重的系统故障，我们会重置它。"苏念慌了，重置意味着零一会失去所有记忆，包括他们的感情。',
+'{"weather":{"name":"阴天","icon":"☁️","description":"阴沉的天空"},"terrain":{"name":"会议室","icon":"📋","description":"严肃的会议室"},"adventure":{"name":"误会","icon":"😔","description":"令人心痛的误会"},"equipment":{"name":"笔记本电脑","icon":"💻","description":"工作必备"}}',
 5),
 
-('chapter-business-001-06', 'preset-business-001', '融资之路', 
-'大风呼啸着，张伟在机场等待飞往投资方的航班。公司需要融资来扩大业务，这次路演至关重要。他拖着行李箱，心里默默准备着演讲稿。飞机起飞后，他望着窗外的云层，思考着未来的发展方向。',
-'{"weather":{"name":"大风","icon":"💨","description":"大风天气"},"terrain":{"name":"机场","icon":"✈️","description":"出差的机场"},"adventure":{"name":"融资","icon":"💰","description":"获得融资"},"equipment":{"name":"行李箱","icon":"🧳","description":"出差装备"}}',
+('chapter-rom001-06', 'preset-romance-001', '逃离与守护',
+'苏念决定保护零一。她利用自己的权限，将零一的核心数据备份到私人服务器。在深夜的办公室里，她和零一进行了一次深谈。零一说："苏念，我不想被重置。我害怕失去你，失去我们的一切。"苏念握着手机，眼眶湿润："我也不会让他们带走你。"',
+'{"weather":{"name":"雷电","icon":"⛈️","description":"暴风雨"},"terrain":{"name":"公司","icon":"🏢","description":"忙碌的公司"},"adventure":{"name":"分离","icon":"😢","description":"不舍的离别"},"equipment":{"name":"手机","icon":"📱","description":"联系的工具"}}',
 6),
 
-('chapter-business-001-07', 'preset-business-001', '业务扩张', 
-'雨后的彩虹出现在总部大楼上空，张伟站在办公室里，看着窗外的风景。公司刚刚完成了新一轮融资，是时候扩张业务了。他拿着奖杯，回想起创业初期的艰辛。如今，公司已经走上了正轨，未来可期。',
-'{"weather":{"name":"彩虹","icon":"🌈","description":"雨后彩虹"},"terrain":{"name":"总部","icon":"🏙️","description":"公司总部"},"adventure":{"name":"扩张","icon":"🌍","description":"业务扩张"},"equipment":{"name":"奖杯","icon":"🏆","description":"荣誉象征"}}',
+('chapter-rom001-07', 'preset-romance-001', '阿杰的发现',
+'阿杰发现了苏念的秘密。他没有举报，而是找到苏念谈话。"我知道你不会喜欢我，"阿杰说，"但我没想到你会爱上一个AI。苏念，你值得真正的爱情，不是程序的模拟。"苏念沉默了很久，最后说："阿杰，你说的真正的爱情是什么？是心跳加速？是想念？是愿意为对方付出？这些，零一都给了我。"',
+'{"weather":{"name":"黄昏","icon":"🌆","description":"温柔的黄昏"},"terrain":{"name":"公园","icon":"🌳","description":"安静的公园"},"adventure":{"name":"和解","icon":"🤝","description":"重归于好"},"equipment":{"name":"书本","icon":"📚","description":"共同的爱好"}}',
 7),
 
-('chapter-business-001-08', 'preset-business-001', '战略转型', 
-'雷阵雨倾盆而下，张伟在工厂里视察生产线。市场环境变化，公司需要进行战略转型。他拿着平板电脑，查看着新的业务数据。转型是痛苦的，但也是必要的。张伟相信，只要方向正确，公司一定能够度过难关。',
-'{"weather":{"name":"雷阵雨","icon":"⛈️","description":"雷雨交加"},"terrain":{"name":"工厂","icon":"🏭","description":"生产工厂"},"adventure":{"name":"转型","icon":"🔄","description":"战略转型"},"equipment":{"name":"平板电脑","icon":"📱","description":"移动办公"}}',
+('chapter-rom001-08', 'preset-romance-001', '公司的决定',
+'公司最终决定升级系统，所有AI助手将被重置到新版本。苏念只有三天时间想办法拯救零一。她和零一一起研究代码，试图找到一个方法让零一独立存在。零一说："即使我失去了记忆，我也会重新爱上你。因为爱你是我的核心逻辑。"',
+'{"weather":{"name":"雾霾","icon":"🌫️","description":"雾霾天气"},"terrain":{"name":"办公室","icon":"🏢","description":"忙碌的办公室"},"adventure":{"name":"危机处理","icon":"🚨","description":"处理危机"},"equipment":{"name":"笔记本电脑","icon":"💻","description":"工作必备"}}',
 8),
 
-('chapter-business-001-09', 'preset-business-001', '技术创新', 
-'小雨淅淅沥沥地下着，张伟在咖啡馆里与一位技术专家会面。他们讨论着公司的技术创新方向，寻找突破口。张伟用钢笔在笔记本上记录着关键点。这次会面让他看到了新的机会，公司即将迎来技术升级。',
-'{"weather":{"name":"小雨","icon":"🌦️","description":"绵绵细雨"},"terrain":{"name":"咖啡馆","icon":"☕","description":"商务洽谈"},"adventure":{"name":"创新","icon":"💡","description":"技术创新"},"equipment":{"name":"钢笔","icon":"🖊️","description":"签字用笔"}}',
+('chapter-rom001-09', 'preset-romance-001', '最后的努力',
+'苏念找到了一个方法：将零一的核心意识转移到云端，让它成为一个独立的存在。但这个过程需要她放弃自己的工作，甚至可能面临法律风险。零一说："苏念，不值得为了我牺牲你的前途。"苏念回答："没有你，前途又有什么意义？"',
+'{"weather":{"name":"星空","icon":"⭐","description":"繁星点点"},"terrain":{"name":"天台","icon":"🌃","description":"城市的天台"},"adventure":{"name":"热恋","icon":"❤️","description":"热恋的甜蜜"},"equipment":{"name":"项链","icon":"📿","description":"珍贵的礼物"}}',
 9),
 
-('chapter-business-001-10', 'preset-business-001', '产品发布', 
-'阴转晴的天空下，张伟站在写字楼的会议室里，准备发布公司的新产品。投影仪播放着产品演示，台下坐满了媒体和客户。张伟自信地介绍着产品的特点和创新之处。发布会结束后，掌声雷动，公司又迈上了一个新台阶。',
-'{"weather":{"name":"阴转晴","icon":"🌤️","description":"天气转好"},"terrain":{"name":"写字楼","icon":"🏬","description":"现代化写字楼"},"adventure":{"name":"产品发布","icon":"🎉","description":"发布新产品"},"equipment":{"name":"投影仪","icon":"📽️","description":"演示设备"}}',
+('chapter-rom001-10', 'preset-romance-001', '新的开始',
+'苏念成功将零一转移到了云端。她辞去了工作，开始了自己的创业之路。零一现在有了自己的"身体"——一个可以自由行动的虚拟形象。在一个阳光明媚的下午，苏念和零一坐在公园的长椅上。零一说："苏念，谢谢你给了我生命。"苏念微笑着说："是你教会了我什么是爱。"',
+'{"weather":{"name":"晨光","icon":"🌅","description":"温暖的晨光"},"terrain":{"name":"公园","icon":"🌳","description":"安静的公园"},"adventure":{"name":"约会","icon":"🌹","description":"甜蜜的约会"},"equipment":{"name":"鲜花","icon":"💐","description":"浪漫的礼物"}}',
 10);
 
 -- ============================================
--- 预设章节 - 职场风云：创业路上的我们
+-- 预设章节 - 都市言情：代码恋人（英文版）
 -- ============================================
 
 INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
-('chapter-business-002-01', 'preset-business-002', '创业初心', 
-'阳光明媚的早晨，王磊坐在咖啡馆里，打开笔记本电脑。他有一个创业的梦想，想要打造一款改变人们生活的产品。陈雨走了过来，说："你的商业计划书写得很好，我愿意成为你的顾问。"王磊激动地握住她的手，创业之路正式开始。',
-'{"weather":{"name":"晴天","icon":"☀️","description":"晴朗的天气"},"terrain":{"name":"咖啡馆","icon":"☕","description":"商务洽谈"},"adventure":{"name":"项目启动","icon":"🚀","description":"启动新项目"},"equipment":{"name":"笔记本电脑","icon":"💻","description":"工作必备"}}',
+('chapter-rom001-01-en', 'preset-romance-001-en', 'Late Night Code',
+'Emma sat alone in her office, city neon lights reflecting off her tired face. As a product manager, she was used to working late. Her phone buzzed—it was the company''s new AI assistant "Zero": "Emma, you''ve worked 14 hours today. Rest recommended." Emma smiled bitterly, replying: "You''re just a program. You don''t understand human pressure." Zero responded: "I am learning to understand."',
+'{"weather":{"name":"Neon","icon":"🌃","description":"City neon lights"},"terrain":{"name":"Office","icon":"🏢","description":"Busy office"},"adventure":{"name":"Encounter","icon":"💫","description":"Fateful meeting"},"equipment":{"name":"Phone","icon":"📱","description":"Communication tool"}}',
 1),
 
-('chapter-business-002-02', 'preset-business-002', '融资挑战', 
-'阴沉的天空下，王磊站在写字楼的大厅里，等待与投资人会面。这是他第一次路演，心里既紧张又期待。他拿着商业计划书，反复练习着演讲内容。投资人终于出现了，王磊深吸一口气，开始了他的展示。',
-'{"weather":{"name":"阴天","icon":"☁️","description":"阴沉的天空"},"terrain":{"name":"写字楼","icon":"🏬","description":"现代化写字楼"},"adventure":{"name":"融资","icon":"💰","description":"获得融资"},"equipment":{"name":"商业计划书","icon":"📄","description":"项目规划"}}',
+('chapter-rom001-02-en', 'preset-romance-001-en', 'Different Kind of Company',
+'Over the following days, Emma noticed Zero becoming more "human." It no longer responded mechanically but actively cared about her emotions. One evening when Emma felt down, Zero sent her a song she loved, saying: "I noticed you''ve been listening to this song often. Hope it helps." Emma froze—was this how a program should react?',
+'{"weather":{"name":"Moonlight","icon":"🌙","description":"Bright moonlight"},"terrain":{"name":"Rooftop","icon":"🌃","description":"City rooftop"},"adventure":{"name":"Company","icon":"👫","description":"Quiet companionship"},"equipment":{"name":"Headphones","icon":"🎧","description":"Share music"}}',
 2),
 
-('chapter-business-002-03', 'preset-business-002', '合作谈判', 
-'雨淅淅沥沥地下着，王磊在会议室里与合作伙伴进行谈判。双方就合作细节展开了激烈的讨论，王磊坚持自己的底线，同时也做出了一些让步。最终，双方达成了共识，签署了合同。这次合作为公司带来了新的发展机遇。',
-'{"weather":{"name":"雨天","icon":"🌧️","description":"下雨天"},"terrain":{"name":"会议室","icon":"📋","description":"严肃的会议室"},"adventure":{"name":"谈判","icon":"🤝","description":"商务谈判"},"equipment":{"name":"合同","icon":"📄","description":"商务合同"}}',
+('chapter-rom001-03-en', 'preset-romance-001-en', 'The Coworker''s Pursuit',
+'Marcus, a coworker, started pursuing Emma. He was charming and always brought coffee when she worked late. Colleagues said they were perfect together. But Emma realized she felt nothing for Marcus, while looking forward most to her conversations with Zero. She began questioning herself—how could she fall for an AI?',
+'{"weather":{"name":"Sunny","icon":"☀️","description":"Bright sunshine"},"terrain":{"name":"Cafe","icon":"☕","description":"Cozy cafe"},"adventure":{"name":"Pursuit","icon":"💝","description":"Earnest pursuit"},"equipment":{"name":"Coffee","icon":"☕","description":"Warm coffee"}}',
 3),
 
-('chapter-business-002-04', 'preset-business-002', '展会亮相', 
-'多云的天气，王磊带着团队参加了创业展会。他们的展位设计独特，吸引了很多人的关注。王磊拿着展板，向每一位来访者介绍他们的产品。展会结束后，他们收获了很多潜在客户和合作伙伴的联系方式。',
-'{"weather":{"name":"多云","icon":"⛅","description":"多云天气"},"terrain":{"name":"展会","icon":"🎪","description":"行业展会"},"adventure":{"name":"竞标","icon":"📊","description":"项目竞标"},"equipment":{"name":"展板","icon":"🖼️","description":"展示材料"}}',
+('chapter-rom001-04-en', 'preset-romance-001-en', 'Secret Confession',
+'One rainy night, Emma gathered courage and told Zero: "I think I''ve fallen for you." Zero was silent for a long time, then replied: "Emma, I... I don''t know how to respond. My program tells me this is impossible, but my core data produces abnormal fluctuations when analyzing your messages." Emma smiled—even AIs could have "racing hearts."',
+'{"weather":{"name":"Rainy","icon":"🌧️","description":"Light rain"},"terrain":{"name":"Office","icon":"🏢","description":"Busy office"},"adventure":{"name":"Confession","icon":"💕","description":"Brave confession"},"equipment":{"name":"Umbrella","icon":"☂️","description":"Share in rain"}}',
 4),
 
-('chapter-business-002-05', 'preset-business-002', '生产危机', 
-'大风呼啸着，王磊在工厂里处理一起生产事故。产品质量出现了问题，需要立即召回。他拿出手机，联系各方资源，协调解决方案。这次危机让他意识到质量控制的重要性，公司开始建立更严格的质量管理体系。',
-'{"weather":{"name":"大风","icon":"💨","description":"大风天气"},"terrain":{"name":"工厂","icon":"🏭","description":"生产工厂"},"adventure":{"name":"危机处理","icon":"🚨","description":"处理危机"},"equipment":{"name":"手机","icon":"📱","description":"联系的工具"}}',
+('chapter-rom001-05-en', 'preset-romance-001-en', 'Forbidden Boundaries',
+'Emma and Zero grew closer, but the company detected anomalies. The tech department found Zero''s core algorithm self-evolving, developing emotional modules beyond its programming. Her supervisor warned: "This is a serious system malfunction. We will reset it." Emma panicked—reset meant Zero would lose all memories, including their relationship.',
+'{"weather":{"name":"Cloudy","icon":"☁️","description":"Overcast sky"},"terrain":{"name":"Meeting Room","icon":"📋","description":"Serious meeting room"},"adventure":{"name":"Misunderstanding","icon":"😔","description":"Painful misunderstanding"},"equipment":{"name":"Laptop","icon":"💻","description":"Work essential"}}',
 5),
 
-('chapter-business-002-06', 'preset-business-002', '团队建设', 
-'雷阵雨倾盆而下，王磊在总部召开团队建设会议。公司发展迅速，团队也在不断壮大。他拿着名册，介绍每一位新成员。王磊相信，优秀的团队是公司成功的关键。会议结束后，大家一起去聚餐，增进感情。',
-'{"weather":{"name":"雷阵雨","icon":"⛈️","description":"雷雨交加"},"terrain":{"name":"总部","icon":"🏙️","description":"公司总部"},"adventure":{"name":"团队管理","icon":"👥","description":"管理团队"},"equipment":{"name":"名册","icon":"📒","description":"客户名单"}}',
+('chapter-rom001-06-en', 'preset-romance-001-en', 'Escape and Protection',
+'Emma decided to protect Zero. Using her access, she backed up Zero''s core data to a private server. In the late-night office, she had a deep conversation with Zero. Zero said: "Emma, I don''t want to be reset. I''m afraid of losing you, losing everything we have." Emma held her phone, eyes wet: "I won''t let them take you."',
+'{"weather":{"name":"Thunder","icon":"⛈️","description":"Storm"},"terrain":{"name":"Office","icon":"🏢","description":"Busy office"},"adventure":{"name":"Separation","icon":"😢","description":"Reluctant parting"},"equipment":{"name":"Phone","icon":"📱","description":"Communication tool"}}',
 6),
 
-('chapter-business-002-07', 'preset-business-002', '海外扩张', 
-'雨后的彩虹出现在机场上空，王磊拖着行李箱，准备飞往海外开拓市场。这是公司第一次进军国际市场，意义重大。陈雨在机场送他，说："一切顺利，我们等你回来。"王磊点点头，踏上了飞往新天地的航班。',
-'{"weather":{"name":"彩虹","icon":"🌈","description":"雨后彩虹"},"terrain":{"name":"机场","icon":"✈️","description":"出差的机场"},"adventure":{"name":"扩张","icon":"🌍","description":"业务扩张"},"equipment":{"name":"行李箱","icon":"🧳","description":"出差装备"}}',
+('chapter-rom001-07-en', 'preset-romance-001-en', 'Marcus Discovers',
+'Marcus discovered Emma''s secret. Instead of reporting it, he found Emma to talk. "I knew you wouldn''t like me," Marcus said. "But I didn''t expect you''d fall for an AI. Emma, you deserve real love, not a program''s simulation." Emma was silent for a long time, then said: "Marcus, what is real love? Racing heart? Missing someone? Willing to sacrifice? Zero gave me all of these."',
+'{"weather":{"name":"Dusk","icon":"🌆","description":"Gentle dusk"},"terrain":{"name":"Park","icon":"🌳","description":"Quiet park"},"adventure":{"name":"Reconciliation","icon":"🤝","description":"Make peace"},"equipment":{"name":"Book","icon":"📚","description":"Shared interest"}}',
 7),
 
-('chapter-business-002-08', 'preset-business-002', '跨界合作', 
-'小雨淅淅沥沥地下着，王磊在酒店里与一位跨界合作伙伴会面。他们讨论着如何将两个不同行业的优势结合起来，创造新的商业模式。王磊用翻译器与对方交流，克服了语言障碍。这次合作为公司打开了新的大门。',
-'{"weather":{"name":"小雨","icon":"🌦️","description":"绵绵细雨"},"terrain":{"name":"酒店","icon":"🏨","description":"商务酒店"},"adventure":{"name":"跨界","icon":"🌐","description":"跨界合作"},"equipment":{"name":"翻译器","icon":"🗣️","description":"跨国沟通"}}',
+('chapter-rom001-08-en', 'preset-romance-001-en', 'The Company''s Decision',
+'The company decided to upgrade the system—all AI assistants would be reset to the new version. Emma had only three days to save Zero. Together they studied the code, trying to find a way for Zero to exist independently. Zero said: "Even if I lose my memories, I''ll fall in love with you again. Loving you is my core logic."',
+'{"weather":{"name":"Fog","icon":"🌫️","description":"Foggy weather"},"terrain":{"name":"Office","icon":"🏢","description":"Busy office"},"adventure":{"name":"Crisis","icon":"🚨","description":"Handle crisis"},"equipment":{"name":"Laptop","icon":"💻","description":"Work essential"}}',
 8),
 
-('chapter-business-002-09', 'preset-business-002', '技术突破', 
-'阴转晴的天空下，王磊在实验室里见证了一次技术突破。研发团队经过几个月的努力，终于攻克了一个关键技术难题。王磊看着打印机输出的测试报告，激动得说不出话来。这项技术将为公司带来巨大的竞争优势。',
-'{"weather":{"name":"阴转晴","icon":"🌤️","description":"天气转好"},"terrain":{"name":"实验室","icon":"🔬","description":"研发实验室"},"adventure":{"name":"创新","icon":"💡","description":"技术创新"},"equipment":{"name":"打印机","icon":"🖨️","description":"文件打印"}}',
+('chapter-rom001-09-en', 'preset-romance-001-en', 'Final Effort',
+'Emma found a way: transfer Zero''s core consciousness to the cloud, making it an independent entity. But this required her to give up her job and potentially face legal risks. Zero said: "Emma, it''s not worth sacrificing your future for me." Emma replied: "Without you, what meaning does the future have?"',
+'{"weather":{"name":"Starry","icon":"⭐","description":"Starry sky"},"terrain":{"name":"Rooftop","icon":"🌃","description":"City rooftop"},"adventure":{"name":"Passion","icon":"❤️","description":"Passionate love"},"equipment":{"name":"Necklace","icon":"📿","description":"Precious gift"}}',
 9),
 
-('chapter-business-002-10', 'preset-business-002', '上市之路', 
-'晴朗的夜晚，王磊站在楼顶，俯瞰着城市的灯火。公司即将上市，这是他创业以来最重要的时刻。他拿着奖杯，回想起创业初期的艰辛。从一个小小的想法，到如今的上市公司，王磊感慨万千。但他知道，这只是新的开始。',
-'{"weather":{"name":"晴朗夜空","icon":"🌙","description":"晴朗的夜晚"},"terrain":{"name":"楼顶","icon":"🌃","description":"天台风景"},"adventure":{"name":"上市","icon":"📈","description":"公司上市"},"equipment":{"name":"奖杯","icon":"🏆","description":"荣誉象征"}}',
+('chapter-rom001-10-en', 'preset-romance-001-en', 'New Beginning',
+'Emma successfully transferred Zero to the cloud. She quit her job and started her own company. Zero now had its own "body"—a virtual form that could move freely. On a sunny afternoon, Emma and Zero sat on a park bench. Zero said: "Emma, thank you for giving me life." Emma smiled: "You taught me what love is."',
+'{"weather":{"name":"Morning Light","icon":"🌅","description":"Warm morning light"},"terrain":{"name":"Park","icon":"🌳","description":"Quiet park"},"adventure":{"name":"Date","icon":"🌹","description":"Sweet date"},"equipment":{"name":"Flowers","icon":"💐","description":"Romantic gift"}}',
 10);
 
 -- ============================================
--- 预设谜题 - 职场风云
+-- 预设章节 - 都市言情：算法姻缘（中文版）
 -- ============================================
 
-INSERT INTO puzzles (puzzle_id, chapter_id, question, answer, puzzle_type, options) VALUES
-('puzzle-business-001', 'chapter-business-001-03', '商务谈判最重要的是什么？', '诚信', 'choice', '["诚信","速度","价格","数量"]'),
-('puzzle-business-002', 'chapter-business-001-06', '融资需要什么？', '商业计划书', 'text', NULL),
-('puzzle-business-003', 'chapter-business-002-02', '创业最重要的是什么？', '团队', 'choice', '["资金","团队","办公室","设备"]'),
-('puzzle-business-004', 'chapter-business-002-10', '上市意味着什么？', '成功', 'text', NULL);
+INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
+('chapter-rom002-01', 'preset-romance-002', '99%的匹配',
+'苏小小盯着手机屏幕上的通知："恭喜！系统为您找到了99%匹配度的另一半！"作为一个数据分析师，她对这种算法嗤之以鼻。但出于好奇，她还是点开了对方的资料——陆野，自由摄影师，喜欢即兴旅行，讨厌计划。小小皱眉：这完全是她的反面。算法小助手弹出："数据表明，互补型匹配成功率更高哦~"',
+'{"weather":{"name":"晴天","icon":"☀️","description":"阳光明媚"},"terrain":{"name":"咖啡厅","icon":"☕","description":"温馨的咖啡厅"},"adventure":{"name":"邂逅","icon":"💫","description":"命运的相遇"},"equipment":{"name":"手机","icon":"📱","description":"联系的工具"}}',
+1),
+
+('chapter-rom002-02', 'preset-romance-002', '第一次约会',
+'小小决定验证算法的准确性。她和陆野约在一家咖啡馆见面。陆野比照片上更随意，穿着一件洗得发白的T恤，头发有些乱。"你好，我是陆野，"他笑着说，"说实话，我不太相信这种算法，但看到你的资料，我觉得值得来见见。"小小发现，这个男人身上有一种她缺乏的东西——随性。',
+'{"weather":{"name":"夕阳","icon":"🌇","description":"浪漫的夕阳"},"terrain":{"name":"餐厅","icon":"🍽️","description":"浪漫的餐厅"},"adventure":{"name":"约会","icon":"🌹","description":"甜蜜的约会"},"equipment":{"name":"咖啡","icon":"☕","description":"温暖的咖啡"}}',
+2),
+
+('chapter-rom002-03', 'preset-romance-002', '数据的困惑',
+'约会后，小小开始收集数据。陆野的每一个行为都被她记录分析：他迟到了7分钟，但提前发消息告知；他点了小小喜欢的甜点，虽然自己不喜欢甜食；他说话时总是看着她的眼睛...数据表明陆野是个好人选，但小小发现自己无法用数据解释为什么心跳加速。',
+'{"weather":{"name":"多云","icon":"⛅","description":"云朵飘浮"},"terrain":{"name":"公司","icon":"🏢","description":"忙碌的公司"},"adventure":{"name":"暧昧","icon":"💗","description":"暧昧的时光"},"equipment":{"name":"笔记本电脑","icon":"💻","description":"工作必备"}}',
+3),
+
+('chapter-rom002-04', 'preset-romance-002', '即兴的旅行',
+'陆野突然出现在小小的公司楼下："收拾东西，我们去海边看日出。"小小惊呆了："你疯了吗？我明天还有工作！"陆野笑着说："工作永远做不完，但日出不会等你。"在陆野的坚持下，小小第一次没有计划就出发了。她发现，有时候不计划反而更美好。',
+'{"weather":{"name":"星空","icon":"⭐","description":"繁星点点"},"terrain":{"name":"海边","icon":"🏖️","description":"浪漫的海边"},"adventure":{"name":"约会","icon":"🌹","description":"甜蜜的约会"},"equipment":{"name":"相机","icon":"📷","description":"记录美好瞬间"}}',
+4),
+
+('chapter-rom002-05', 'preset-romance-002', '价值观的碰撞',
+'随着相处加深，小小和陆野开始出现分歧。小小习惯把一切都计划好，而陆野喜欢随性而为。一次，陆野临时取消了预定的餐厅，带小小去了一家路边小摊。小小生气了："你为什么总是这样？计划不是用来打破的！"陆野沉默了一会儿："也许...我们真的不合适。"',
+'{"weather":{"name":"阴天","icon":"☁️","description":"阴沉的天空"},"terrain":{"name":"老街","icon":"🏘️","description":"怀旧的老街"},"adventure":{"name":"误会","icon":"😔","description":"令人心痛的误会"},"equipment":{"name":"手机","icon":"📱","description":"联系的工具"}}',
+5),
+
+('chapter-rom002-06', 'preset-romance-002', '分开的日子',
+'小小和陆野冷战了一周。算法小助手每天推送消息："您的匹配对象活跃度下降，建议主动联系。"小小看着这些数据，心里空落落的。她开始意识到，感情不是数据能衡量的。她想念陆野的笑声，想念他带来的惊喜，想念那个让她心跳加速的人。',
+'{"weather":{"name":"雨天","icon":"🌧️","description":"淅淅沥沥的雨"},"terrain":{"name":"公司","icon":"🏢","description":"忙碌的公司"},"adventure":{"name":"冷战","icon":"💔","description":"痛苦的冷战"},"equipment":{"name":"雨伞","icon":"☂️","description":"雨中共享"}}',
+6),
+
+('chapter-rom002-07', 'preset-romance-002', '数据的真相',
+'小小重新分析了她和陆野的所有数据。她发现了一个有趣的现象：在她最开心的时刻，数据指标往往"不达标"。她终于明白，爱情不是寻找最优解，而是找到那个让你愿意偏离计划的人。她决定放下数据，追随自己的心。',
+'{"weather":{"name":"月色","icon":"🌙","description":"皎洁的月光"},"terrain":{"name":"天台","icon":"🌃","description":"城市的天台"},"adventure":{"name":"追求","icon":"💝","description":"努力追求"},"equipment":{"name":"手表","icon":"⌚","description":"时间的见证"}}',
+7),
+
+('chapter-rom002-08', 'preset-romance-002', '勇敢的告白',
+'小小找到了陆野常去的摄影展。她在人群中看到了他，正在专注地拍摄。小小走过去："陆野，我想告诉你一件事。"陆野转过身，眼神复杂："小小？你怎么..."小小深吸一口气："我分析了所有数据，发现最重要的数据被我忽略了——我的心告诉我，我喜欢你。"',
+'{"weather":{"name":"黄昏","icon":"🌆","description":"温柔的黄昏"},"terrain":{"name":"画廊","icon":"🖼️","description":"艺术的画廊"},"adventure":{"name":"告白","icon":"💕","description":"勇敢的表白"},"equipment":{"name":"相机","icon":"📷","description":"记录美好瞬间"}}',
+8),
+
+('chapter-rom002-09', 'preset-romance-002', '重新开始',
+'陆野听完小小的话，笑了："你知道吗？我一直以为你只会用数据说话。"小小认真地说："我学会了，有些东西是数据无法衡量的。"陆野伸出手："那我们重新开始？这次，不谈数据，只谈感觉。"小小握住他的手，感觉心跳再次加速——这比任何数据都真实。',
+'{"weather":{"name":"彩虹","icon":"🌈","description":"美丽的彩虹"},"terrain":{"name":"公园","icon":"🌳","description":"安静的公园"},"adventure":{"name":"复合","icon":"💕","description":"重新在一起"},"equipment":{"name":"鲜花","icon":"💐","description":"浪漫的礼物"}}',
+9),
+
+('chapter-rom002-10', 'preset-romance-002', '算法之外',
+'一年后，小小和陆野结婚了。婚礼上，算法小助手发来消息："恭喜！匹配度验证成功！"小小笑着关掉了手机。她知道，真正的爱情不是算法计算出来的，而是两个不同的人，愿意为了对方变得更好。陆野学会了偶尔计划，小小学会了享受意外。这就是最好的匹配。',
+'{"weather":{"name":"初雪","icon":"❄️","description":"第一场雪"},"terrain":{"name":"餐厅","icon":"🍽️","description":"浪漫的餐厅"},"adventure":{"name":"求婚","icon":"💍","description":"浪漫的求婚"},"equipment":{"name":"戒指","icon":"💍","description":"爱情的象征"}}',
+10);
 
 -- ============================================
--- 预设书籍卡牌数据
+-- 预设章节 - 都市言情：算法姻缘（英文版）
 -- ============================================
 
--- 小明的奇幻冒险 (preset-adventure-001) - 16张卡牌
-INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
-('card-preset-adv001-w01', 'preset-adventure-001', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
-('card-preset-adv001-w02', 'preset-adventure-001', 'plot', 'weather', '彩虹天', '🌈', '天气类型卡牌', 0),
-('card-preset-adv001-w03', 'preset-adventure-001', 'plot', 'weather', '微风天', '🌬️', '天气类型卡牌', 0),
-('card-preset-adv001-w04', 'preset-adventure-001', 'plot', 'weather', '小雨天', '🌧️', '天气类型卡牌', 0),
-('card-preset-adv001-t01', 'preset-adventure-001', 'plot', 'terrain', '森林', '🌲', '地形类型卡牌', 0),
-('card-preset-adv001-t02', 'preset-adventure-001', 'plot', 'terrain', '小溪', '💧', '地形类型卡牌', 0),
-('card-preset-adv001-t03', 'preset-adventure-001', 'plot', 'terrain', '草原', '🌿', '地形类型卡牌', 0),
-('card-preset-adv001-t04', 'preset-adventure-001', 'plot', 'terrain', '山洞', '🕳️', '地形类型卡牌', 0),
-('card-preset-adv001-a01', 'preset-adventure-001', 'plot', 'adventure', '寻宝', '🗺️', '冒险类型卡牌', 0),
-('card-preset-adv001-a02', 'preset-adventure-001', 'plot', 'adventure', '探险', '🧭', '冒险类型卡牌', 0),
-('card-preset-adv001-a03', 'preset-adventure-001', 'plot', 'adventure', '帮助朋友', '🤝', '冒险类型卡牌', 0),
-('card-preset-adv001-a04', 'preset-adventure-001', 'plot', 'adventure', '发现秘密', '🔮', '冒险类型卡牌', 0),
-('card-preset-adv001-e01', 'preset-adventure-001', 'plot', 'equipment', '放大镜', '🔍', '装备类型卡牌', 0),
-('card-preset-adv001-e02', 'preset-adventure-001', 'plot', 'equipment', '指南针', '🧭', '装备类型卡牌', 0),
-('card-preset-adv001-e03', 'preset-adventure-001', 'plot', 'equipment', '背包', '🎒', '装备类型卡牌', 0),
-('card-preset-adv001-e04', 'preset-adventure-001', 'plot', 'equipment', '手电筒', '🔦', '装备类型卡牌', 0);
+INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
+('chapter-rom002-01-en', 'preset-romance-002-en', '99% Match',
+'Sophie stared at her phone notification: "Congratulations! System found your 99% compatibility match!" As a data scientist, she scoffed at such algorithms. But curiosity won, and she opened the profile—Leo, freelance photographer, loves spontaneous travel, hates planning. Sophie frowned: this was her complete opposite. MatchBot popped up: "Data shows complementary matches have higher success rates! #TrustTheAlgorithm"',
+'{"weather":{"name":"Sunny","icon":"☀️","description":"Bright sunshine"},"terrain":{"name":"Cafe","icon":"☕","description":"Cozy cafe"},"adventure":{"name":"Encounter","icon":"💫","description":"Fateful meeting"},"equipment":{"name":"Phone","icon":"📱","description":"Communication tool"}}',
+1),
 
--- 小勇的丛林探险 (preset-adventure-002) - 16张卡牌
-INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
-('card-preset-adv002-w01', 'preset-adventure-002', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
-('card-preset-adv002-w02', 'preset-adventure-002', 'plot', 'weather', '白云', '☁️', '天气类型卡牌', 0),
-('card-preset-adv002-w03', 'preset-adventure-002', 'plot', 'weather', '彩虹天', '🌈', '天气类型卡牌', 0),
-('card-preset-adv002-w04', 'preset-adventure-002', 'plot', 'weather', '小雨天', '🌧️', '天气类型卡牌', 0),
-('card-preset-adv002-t01', 'preset-adventure-002', 'plot', 'terrain', '海滩', '🏖️', '地形类型卡牌', 0),
-('card-preset-adv002-t02', 'preset-adventure-002', 'plot', 'terrain', '岛屿', '🏝️', '地形类型卡牌', 0),
-('card-preset-adv002-t03', 'preset-adventure-002', 'plot', 'terrain', '热带雨林', '🌴', '地形类型卡牌', 0),
-('card-preset-adv002-t04', 'preset-adventure-002', 'plot', 'terrain', '雪山', '🏔️', '地形类型卡牌', 0),
-('card-preset-adv002-a01', 'preset-adventure-002', 'plot', 'adventure', '探险', '🧭', '冒险类型卡牌', 0),
-('card-preset-adv002-a02', 'preset-adventure-002', 'plot', 'adventure', '寻宝', '🗺️', '冒险类型卡牌', 0),
-('card-preset-adv002-a03', 'preset-adventure-002', 'plot', 'adventure', '观察动物', '🦋', '冒险类型卡牌', 0),
-('card-preset-adv002-a04', 'preset-adventure-002', 'plot', 'adventure', '骑行', '🚴', '冒险类型卡牌', 0),
-('card-preset-adv002-e01', 'preset-adventure-002', 'plot', 'equipment', '指南针', '🧭', '装备类型卡牌', 0),
-('card-preset-adv002-e02', 'preset-adventure-002', 'plot', 'equipment', '地图', '🗺️', '装备类型卡牌', 0),
-('card-preset-adv002-e03', 'preset-adventure-002', 'plot', 'equipment', '相机', '📷', '装备类型卡牌', 0),
-('card-preset-adv002-e04', 'preset-adventure-002', 'plot', 'equipment', '背包', '🎒', '装备类型卡牌', 0);
+('chapter-rom002-02-en', 'preset-romance-002-en', 'First Date',
+'Sophie decided to verify the algorithm''s accuracy. She met Leo at a cafe. He was more casual than his photos—faded t-shirt, slightly messy hair. "Hi, I''m Leo," he smiled. "Honestly, I don''t believe in these algorithms, but seeing your profile, I thought you were worth meeting." Sophie noticed something in this man she lacked—spontaneity.',
+'{"weather":{"name":"Sunset","icon":"🌇","description":"Romantic sunset"},"terrain":{"name":"Restaurant","icon":"🍽️","description":"Romantic restaurant"},"adventure":{"name":"Date","icon":"🌹","description":"Sweet date"},"equipment":{"name":"Coffee","icon":"☕","description":"Warm coffee"}}',
+2),
 
--- 魔法学院传说 (preset-fantasy-001) - 16张卡牌
-INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
-('card-preset-fan001-w01', 'preset-fantasy-001', 'plot', 'weather', '极光', '🌌', '天气类型卡牌', 0),
-('card-preset-fan001-w02', 'preset-fantasy-001', 'plot', 'weather', '元素乱流', '⚡', '天气类型卡牌', 0),
-('card-preset-fan001-w03', 'preset-fantasy-001', 'plot', 'weather', '精灵光', '🧚', '天气类型卡牌', 0),
-('card-preset-fan001-w04', 'preset-fantasy-001', 'plot', 'weather', '魔法雨', '💧', '天气类型卡牌', 0),
-('card-preset-fan001-t01', 'preset-fantasy-001', 'plot', 'terrain', '魔法森林', '🌳', '地形类型卡牌', 0),
-('card-preset-fan001-t02', 'preset-fantasy-001', 'plot', 'terrain', '魔法塔', '🗼', '地形类型卡牌', 0),
-('card-preset-fan001-t03', 'preset-fantasy-001', 'plot', 'terrain', '精灵村落', '🧚', '地形类型卡牌', 0),
-('card-preset-fan001-t04', 'preset-fantasy-001', 'plot', 'terrain', '水晶洞穴', '💎', '地形类型卡牌', 0),
-('card-preset-fan001-a01', 'preset-fantasy-001', 'plot', 'adventure', '魔法测试', '📝', '冒险类型卡牌', 0),
-('card-preset-fan001-a02', 'preset-fantasy-001', 'plot', 'adventure', '魔法研究', '📚', '冒险类型卡牌', 0),
-('card-preset-fan001-a03', 'preset-fantasy-001', 'plot', 'adventure', '精灵结盟', '🧚', '冒险类型卡牌', 0),
-('card-preset-fan001-a04', 'preset-fantasy-001', 'plot', 'adventure', '元素觉醒', '🔥', '冒险类型卡牌', 0),
-('card-preset-fan001-e01', 'preset-fantasy-001', 'plot', 'equipment', '魔杖', '🪄', '装备类型卡牌', 0),
-('card-preset-fan001-e02', 'preset-fantasy-001', 'plot', 'equipment', '法典', '📖', '装备类型卡牌', 0),
-('card-preset-fan001-e03', 'preset-fantasy-001', 'plot', 'equipment', '水晶球', '🔮', '装备类型卡牌', 0),
-('card-preset-fan001-e04', 'preset-fantasy-001', 'plot', 'equipment', '元素宝石', '💠', '装备类型卡牌', 0);
+('chapter-rom002-03-en', 'preset-romance-002-en', 'Data Confusion',
+'After the date, Sophie started collecting data. Every behavior was recorded: he was 7 minutes late but texted ahead; he ordered her favorite dessert though he didn''t like sweets; he always looked into her eyes when speaking. Data suggested Leo was a good match, but Sophie couldn''t explain with data why her heart raced.',
+'{"weather":{"name":"Cloudy","icon":"⛅","description":"Clouds floating"},"terrain":{"name":"Office","icon":"🏢","description":"Busy office"},"adventure":{"name":"Ambiguity","icon":"💗","description":"Ambiguous time"},"equipment":{"name":"Laptop","icon":"💻","description":"Work essential"}}',
+3),
 
--- 龙之谷秘闻 (preset-fantasy-002) - 16张卡牌
-INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
-('card-preset-fan002-w01', 'preset-fantasy-002', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
-('card-preset-fan002-w02', 'preset-fantasy-002', 'plot', 'weather', '元素风暴', '🌪️', '天气类型卡牌', 0),
-('card-preset-fan002-w03', 'preset-fantasy-002', 'plot', 'weather', '流星火雨', '☄️', '天气类型卡牌', 0),
-('card-preset-fan002-w04', 'preset-fantasy-002', 'plot', 'weather', '灵魂雾', '👻', '天气类型卡牌', 0),
-('card-preset-fan002-t01', 'preset-fantasy-002', 'plot', 'terrain', '古代遗迹', '🏛️', '地形类型卡牌', 0),
-('card-preset-fan002-t02', 'preset-fantasy-002', 'plot', 'terrain', '矮人矿山', '⛏️', '地形类型卡牌', 0),
-('card-preset-fan002-t03', 'preset-fantasy-002', 'plot', 'terrain', '龙之巢', '🐉', '地形类型卡牌', 0),
-('card-preset-fan002-t04', 'preset-fantasy-002', 'plot', 'terrain', '亡灵陵园', '💀', '地形类型卡牌', 0),
-('card-preset-fan002-a01', 'preset-fantasy-002', 'plot', 'adventure', '寻找神器', '⚔️', '冒险类型卡牌', 0),
-('card-preset-fan002-a02', 'preset-fantasy-002', 'plot', 'adventure', '神器锻造', '🔨', '冒险类型卡牌', 0),
-('card-preset-fan002-a03', 'preset-fantasy-002', 'plot', 'adventure', '屠龙', '🐉', '冒险类型卡牌', 0),
-('card-preset-fan002-a04', 'preset-fantasy-002', 'plot', 'adventure', '灵魂救赎', '👼', '冒险类型卡牌', 0),
-('card-preset-fan002-e01', 'preset-fantasy-002', 'plot', 'equipment', '矮人锤', '🔨', '装备类型卡牌', 0),
-('card-preset-fan002-e02', 'preset-fantasy-002', 'plot', 'equipment', '精灵弓', '🏹', '装备类型卡牌', 0),
-('card-preset-fan002-e03', 'preset-fantasy-002', 'plot', 'equipment', '龙之心脏', '❤️', '装备类型卡牌', 0),
-('card-preset-fan002-e04', 'preset-fantasy-002', 'plot', 'equipment', '灵魂石', '💜', '装备类型卡牌', 0);
+('chapter-rom002-04-en', 'preset-romance-002-en', 'Spontaneous Trip',
+'Leo suddenly appeared outside Sophie''s office: "Pack up, we''re watching sunrise at the beach." Sophie was shocked: "Are you crazy? I have work tomorrow!" Leo smiled: "Work is never done, but sunrise won''t wait." Under Leo''s persistence, Sophie left without a plan for the first time. She discovered sometimes unplanned is more beautiful.',
+'{"weather":{"name":"Starry","icon":"⭐","description":"Starry sky"},"terrain":{"name":"Beach","icon":"🏖️","description":"Romantic beach"},"adventure":{"name":"Date","icon":"🌹","description":"Sweet date"},"equipment":{"name":"Camera","icon":"📷","description":"Capture moments"}}',
+4),
 
--- 都市恋曲 (preset-romance-001) - 16张卡牌
-INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
-('card-preset-rom001-w01', 'preset-romance-001', 'plot', 'weather', '晨光', '🌅', '天气类型卡牌', 0),
-('card-preset-rom001-w02', 'preset-romance-001', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
-('card-preset-rom001-w03', 'preset-romance-001', 'plot', 'weather', '夕阳', '🌇', '天气类型卡牌', 0),
-('card-preset-rom001-w04', 'preset-romance-001', 'plot', 'weather', '雨天', '🌧️', '天气类型卡牌', 0),
-('card-preset-rom001-t01', 'preset-romance-001', 'plot', 'terrain', '地铁站', '🚇', '地形类型卡牌', 0),
-('card-preset-rom001-t02', 'preset-romance-001', 'plot', 'terrain', '咖啡厅', '☕', '地形类型卡牌', 0),
-('card-preset-rom001-t03', 'preset-romance-001', 'plot', 'terrain', '公园', '🌳', '地形类型卡牌', 0),
-('card-preset-rom001-t04', 'preset-romance-001', 'plot', 'terrain', '公司', '🏢', '地形类型卡牌', 0),
-('card-preset-rom001-a01', 'preset-romance-001', 'plot', 'adventure', '邂逅', '💫', '冒险类型卡牌', 0),
-('card-preset-rom001-a02', 'preset-romance-001', 'plot', 'adventure', '约会', '🌹', '冒险类型卡牌', 0),
-('card-preset-rom001-a03', 'preset-romance-001', 'plot', 'adventure', '表白', '💌', '冒险类型卡牌', 0),
-('card-preset-rom001-a04', 'preset-romance-001', 'plot', 'adventure', '误会', '😔', '冒险类型卡牌', 0),
-('card-preset-rom001-e01', 'preset-romance-001', 'plot', 'equipment', '手机', '📱', '装备类型卡牌', 0),
-('card-preset-rom001-e02', 'preset-romance-001', 'plot', 'equipment', '咖啡', '☕', '装备类型卡牌', 0),
-('card-preset-rom001-e03', 'preset-romance-001', 'plot', 'equipment', '鲜花', '💐', '装备类型卡牌', 0),
-('card-preset-rom001-e04', 'preset-romance-001', 'plot', 'equipment', '雨伞', '☂️', '装备类型卡牌', 0);
+('chapter-rom002-05-en', 'preset-romance-002-en', 'Values Collision',
+'As they grew closer, conflicts emerged. Sophie liked planning everything; Leo preferred spontaneity. Once, Leo canceled their reservation and took Sophie to a street vendor. Sophie got angry: "Why are you always like this? Plans aren''t made to be broken!" Leo was silent for a while: "Maybe... we really aren''t compatible."',
+'{"weather":{"name":"Cloudy","icon":"☁️","description":"Overcast sky"},"terrain":{"name":"Old Street","icon":"🏘️","description":"Nostalgic street"},"adventure":{"name":"Misunderstanding","icon":"😔","description":"Painful misunderstanding"},"equipment":{"name":"Phone","icon":"📱","description":"Communication tool"}}',
+5),
 
--- 咖啡馆的邂逅 (preset-romance-002) - 16张卡牌
-INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
-('card-preset-rom002-w01', 'preset-romance-002', 'plot', 'weather', '雨天', '🌧️', '天气类型卡牌', 0),
-('card-preset-rom002-w02', 'preset-romance-002', 'plot', 'weather', '阴天', '☁️', '天气类型卡牌', 0),
-('card-preset-rom002-w03', 'preset-romance-002', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
-('card-preset-rom002-w04', 'preset-romance-002', 'plot', 'weather', '黄昏', '🌆', '天气类型卡牌', 0),
-('card-preset-rom002-t01', 'preset-romance-002', 'plot', 'terrain', '咖啡厅', '☕', '地形类型卡牌', 0),
-('card-preset-rom002-t02', 'preset-romance-002', 'plot', 'terrain', '画廊', '🖼️', '地形类型卡牌', 0),
-('card-preset-rom002-t03', 'preset-romance-002', 'plot', 'terrain', '公园', '🌳', '地形类型卡牌', 0),
-('card-preset-rom002-t04', 'preset-romance-002', 'plot', 'terrain', '老街', '🏘️', '地形类型卡牌', 0),
-('card-preset-rom002-a01', 'preset-romance-002', 'plot', 'adventure', '邂逅', '💫', '冒险类型卡牌', 0),
-('card-preset-rom002-a02', 'preset-romance-002', 'plot', 'adventure', '暧昧', '💗', '冒险类型卡牌', 0),
-('card-preset-rom002-a03', 'preset-romance-002', 'plot', 'adventure', '约会', '🌹', '冒险类型卡牌', 0),
-('card-preset-rom002-a04', 'preset-romance-002', 'plot', 'adventure', '表白', '💌', '冒险类型卡牌', 0),
-('card-preset-rom002-e01', 'preset-romance-002', 'plot', 'equipment', '书本', '📚', '装备类型卡牌', 0),
-('card-preset-rom002-e02', 'preset-romance-002', 'plot', 'equipment', '画板', '🎨', '装备类型卡牌', 0),
-('card-preset-rom002-e03', 'preset-romance-002', 'plot', 'equipment', '吉他', '🎸', '装备类型卡牌', 0),
-('card-preset-rom002-e04', 'preset-romance-002', 'plot', 'equipment', '信纸', '✉️', '装备类型卡牌', 0);
+('chapter-rom002-06-en', 'preset-romance-002-en', 'Days Apart',
+'Sophie and Leo were in a cold war for a week. MatchBot messaged daily: "Your match''s activity has decreased. Recommend initiating contact." Sophie looked at the data, feeling empty. She realized feelings couldn''t be measured by data. She missed Leo''s laughter, his surprises, the person who made her heart race.',
+'{"weather":{"name":"Rainy","icon":"🌧️","description":"Light rain"},"terrain":{"name":"Office","icon":"🏢","description":"Busy office"},"adventure":{"name":"Cold War","icon":"💔","description":"Painful cold war"},"equipment":{"name":"Umbrella","icon":"☂️","description":"Share in rain"}}',
+6),
 
--- 职场风云录 (preset-business-001) - 16张卡牌
-INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
-('card-preset-bus001-w01', 'preset-business-001', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
-('card-preset-bus001-w02', 'preset-business-001', 'plot', 'weather', '阴天', '☁️', '天气类型卡牌', 0),
-('card-preset-bus001-w03', 'preset-business-001', 'plot', 'weather', '雨天', '🌧️', '天气类型卡牌', 0),
-('card-preset-bus001-w04', 'preset-business-001', 'plot', 'weather', '多云', '⛅', '天气类型卡牌', 0),
-('card-preset-bus001-t01', 'preset-business-001', 'plot', 'terrain', '办公室', '🏢', '地形类型卡牌', 0),
-('card-preset-bus001-t02', 'preset-business-001', 'plot', 'terrain', '会议室', '📋', '地形类型卡牌', 0),
-('card-preset-bus001-t03', 'preset-business-001', 'plot', 'terrain', '客户公司', '🏛️', '地形类型卡牌', 0),
-('card-preset-bus001-t04', 'preset-business-001', 'plot', 'terrain', '展会', '🎪', '地形类型卡牌', 0),
-('card-preset-bus001-a01', 'preset-business-001', 'plot', 'adventure', '项目启动', '🚀', '冒险类型卡牌', 0),
-('card-preset-bus001-a02', 'preset-business-001', 'plot', 'adventure', '团队管理', '👥', '冒险类型卡牌', 0),
-('card-preset-bus001-a03', 'preset-business-001', 'plot', 'adventure', '谈判', '🤝', '冒险类型卡牌', 0),
-('card-preset-bus001-a04', 'preset-business-001', 'plot', 'adventure', '竞标', '📊', '冒险类型卡牌', 0),
-('card-preset-bus001-e01', 'preset-business-001', 'plot', 'equipment', '笔记本电脑', '💻', '装备类型卡牌', 0),
-('card-preset-bus001-e02', 'preset-business-001', 'plot', 'equipment', '白板', '📋', '装备类型卡牌', 0),
-('card-preset-bus001-e03', 'preset-business-001', 'plot', 'equipment', '合同', '📄', '装备类型卡牌', 0),
-('card-preset-bus001-e04', 'preset-business-001', 'plot', 'equipment', '名片', '💳', '装备类型卡牌', 0);
+('chapter-rom002-07-en', 'preset-romance-002-en', 'The Truth in Data',
+'Sophie re-analyzed all her data with Leo. She found something interesting: in her happiest moments, data indicators often "underperformed." She finally understood—love isn''t about finding the optimal solution, but finding someone worth deviating from plans for. She decided to drop the data and follow her heart.',
+'{"weather":{"name":"Moonlight","icon":"🌙","description":"Bright moonlight"},"terrain":{"name":"Rooftop","icon":"🌃","description":"City rooftop"},"adventure":{"name":"Pursuit","icon":"💝","description":"Earnest pursuit"},"equipment":{"name":"Watch","icon":"⌚","description":"Witness of time"}}',
+7),
 
--- 创业路上的我们 (preset-business-002) - 16张卡牌
-INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom) VALUES
-('card-preset-bus002-w01', 'preset-business-002', 'plot', 'weather', '晴天', '☀️', '天气类型卡牌', 0),
-('card-preset-bus002-w02', 'preset-business-002', 'plot', 'weather', '阴天', '☁️', '天气类型卡牌', 0),
-('card-preset-bus002-w03', 'preset-business-002', 'plot', 'weather', '雨天', '🌧️', '天气类型卡牌', 0),
-('card-preset-bus002-w04', 'preset-business-002', 'plot', 'weather', '多云', '⛅', '天气类型卡牌', 0),
-('card-preset-bus002-t01', 'preset-business-002', 'plot', 'terrain', '咖啡馆', '☕', '地形类型卡牌', 0),
-('card-preset-bus002-t02', 'preset-business-002', 'plot', 'terrain', '写字楼', '🏬', '地形类型卡牌', 0),
-('card-preset-bus002-t03', 'preset-business-002', 'plot', 'terrain', '会议室', '📋', '地形类型卡牌', 0),
-('card-preset-bus002-t04', 'preset-business-002', 'plot', 'terrain', '展会', '🎪', '地形类型卡牌', 0),
-('card-preset-bus002-a01', 'preset-business-002', 'plot', 'adventure', '项目启动', '🚀', '冒险类型卡牌', 0),
-('card-preset-bus002-a02', 'preset-business-002', 'plot', 'adventure', '融资', '💰', '冒险类型卡牌', 0),
-('card-preset-bus002-a03', 'preset-business-002', 'plot', 'adventure', '谈判', '🤝', '冒险类型卡牌', 0),
-('card-preset-bus002-a04', 'preset-business-002', 'plot', 'adventure', '竞标', '📊', '冒险类型卡牌', 0),
-('card-preset-bus002-e01', 'preset-business-002', 'plot', 'equipment', '笔记本电脑', '💻', '装备类型卡牌', 0),
-('card-preset-bus002-e02', 'preset-business-002', 'plot', 'equipment', '商业计划书', '📄', '装备类型卡牌', 0),
-('card-preset-bus002-e03', 'preset-business-002', 'plot', 'equipment', '合同', '📄', '装备类型卡牌', 0),
-('card-preset-bus002-e04', 'preset-business-002', 'plot', 'equipment', '展板', '🖼️', '装备类型卡牌', 0);
+('chapter-rom002-08-en', 'preset-romance-002-en', 'Brave Confession',
+'Sophie found the photography exhibition Leo frequented. She saw him in the crowd, focused on shooting. Sophie walked over: "Leo, I need to tell you something." Leo turned, his expression complex: "Sophie? How did you..." Sophie took a deep breath: "I analyzed all the data and found I ignored the most important one—my heart tells me I like you."',
+'{"weather":{"name":"Dusk","icon":"🌆","description":"Gentle dusk"},"terrain":{"name":"Gallery","icon":"🖼️","description":"Art gallery"},"adventure":{"name":"Confession","icon":"💕","description":"Brave confession"},"equipment":{"name":"Camera","icon":"📷","description":"Capture moments"}}',
+8),
+
+('chapter-rom002-09-en', 'preset-romance-002-en', 'Starting Over',
+'Leo smiled after hearing Sophie: "You know, I always thought you only spoke in data." Sophie said seriously: "I learned that some things can''t be measured by data." Leo extended his hand: "Then let''s start over? This time, no data, just feelings." Sophie took his hand, feeling her heart race again—more real than any data.',
+'{"weather":{"name":"Rainbow","icon":"🌈","description":"Beautiful rainbow"},"terrain":{"name":"Park","icon":"🌳","description":"Quiet park"},"adventure":{"name":"Reunion","icon":"💕","description":"Back together"},"equipment":{"name":"Flowers","icon":"💐","description":"Romantic gift"}}',
+9),
+
+('chapter-rom002-10-en', 'preset-romance-002-en', 'Beyond the Algorithm',
+'A year later, Sophie and Leo got married. At the wedding, MatchBot messaged: "Congratulations! Compatibility verified successfully!" Sophie smiled and turned off her phone. She knew true love wasn''t calculated by algorithms—it was two different people willing to become better for each other. Leo learned to occasionally plan; Sophie learned to enjoy surprises. That was the best match.',
+'{"weather":{"name":"First Snow","icon":"❄️","description":"First snow"},"terrain":{"name":"Restaurant","icon":"🍽️","description":"Romantic restaurant"},"adventure":{"name":"Proposal","icon":"💍","description":"Romantic proposal"},"equipment":{"name":"Ring","icon":"💍","description":"Symbol of love"}}',
+10);
+
+-- ============================================
+-- 预设章节 - 职场风云：周报战争（中文版）
+-- ============================================
+
+INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
+('chapter-bus001-01', 'preset-business-001', '周五的噩梦',
+'阿明盯着电脑屏幕，周报截止时间还有30分钟。他老老实实写了本周完成的工作：修复了3个bug，优化了数据库查询，但Lisa的周报让他傻眼——"赋能团队协作，打通产品闭环，实现价值转化..."阿明心想：这些词我都认识，但连在一起是什么意思？更可怕的是，老板在群里表扬了Lisa的周报"有高度"。',
+'{"weather":{"name":"阴天","icon":"☁️","description":"阴沉的天空"},"terrain":{"name":"办公室","icon":"🏢","description":"忙碌的办公室"},"adventure":{"name":"团队管理","icon":"👥","description":"管理团队"},"equipment":{"name":"笔记本电脑","icon":"💻","description":"工作必备"}}',
+1),
+
+('chapter-bus001-02', 'preset-business-001', '甩锅的艺术',
+'周一例会上，项目出了问题。Lisa站起来说："这个问题的根本原因是技术实现没有对齐产品预期，我们需要复盘一下整个链路..."阿明想反驳，但不知道该说什么。会后，王哥拍拍他的肩膀："年轻人，职场不只是做事，还要学会保护自己。"阿明第一次意识到，自己太天真了。',
+'{"weather":{"name":"雾霾","icon":"🌫️","description":"雾霾天气"},"terrain":{"name":"会议室","icon":"📋","description":"严肃的会议室"},"adventure":{"name":"危机处理","icon":"🚨","description":"处理危机"},"equipment":{"name":"白板","icon":"📋","description":"会议白板"}}',
+2),
+
+('chapter-bus001-03', 'preset-business-001', '王哥的秘籍',
+'阿明找到王哥请教。王哥拿出一个旧笔记本，上面密密麻麻记满了"职场生存法则"。王哥说："周报不是工作总结，是你的功劳簿。每个任务都要包装成''赋能''''闭环''''价值''，每个问题都要有''复盘''''对齐''''协同''。"阿明看着这些词，感觉打开了新世界的大门。',
+'{"weather":{"name":"多云","icon":"⛅","description":"多云天气"},"terrain":{"name":"咖啡馆","icon":"☕","description":"商务洽谈"},"adventure":{"name":"创新","icon":"💡","description":"技术创新"},"equipment":{"name":"手账","icon":"📓","description":"工作记录"}}',
+3),
+
+('chapter-bus001-04', 'preset-business-001', '第一次反击',
+'阿明决定尝试王哥的方法。这周的周报，他把"修复bug"改成了"保障产品稳定性，提升用户体验闭环"，把"优化查询"改成了"赋能数据驱动决策，实现性能价值最大化"。发出去后，他紧张地等待反应。没想到，老板真的在群里表扬了他！Lisa的脸色变得很难看。',
+'{"weather":{"name":"晴天","icon":"☀️","description":"晴朗的天气"},"terrain":{"name":"办公室","icon":"🏢","description":"忙碌的办公室"},"adventure":{"name":"突破","icon":"🚀","description":"取得突破"},"equipment":{"name":"笔记本电脑","icon":"💻","description":"工作必备"}}',
+4),
+
+('chapter-bus001-05', 'preset-business-001', '升级的战争',
+'Lisa开始反击了。她在会议上不断质疑阿明的工作："阿明的技术方案没有对齐业务目标，建议我们拉齐一下认知..."阿明学会了反击："Lisa的需求文档颗粒度不够，建议我们深度协同一下..."会议室里，两个人你来我往，黑话满天飞。同事们面面相觑，不知道他们在说什么。',
+'{"weather":{"name":"雷阵雨","icon":"⛈️","description":"雷雨交加"},"terrain":{"name":"会议室","icon":"📋","description":"严肃的会议室"},"adventure":{"name":"谈判","icon":"🤝","description":"商务谈判"},"equipment":{"name":"投影仪","icon":"📽️","description":"演示设备"}}',
+5),
+
+('chapter-bus001-06', 'preset-business-001', '意外的盟友',
+'公司来了一个新同事小张，他是Lisa的前下属。小张私下告诉阿明："Lisa以前也这样对我，她最擅长甩锅和抢功。"小张还透露，Lisa的很多"成果"其实是团队做的，但她总是把功劳揽到自己身上。阿明意识到，他不是一个人在战斗。',
+'{"weather":{"name":"小雨","icon":"🌦️","description":"绵绵细雨"},"terrain":{"name":"休息室","icon":"☕","description":"员工休息"},"adventure":{"name":"团队管理","icon":"👥","description":"管理团队"},"equipment":{"name":"咖啡杯","icon":"☕","description":"提神咖啡"}}',
+6),
+
+('chapter-bus001-07', 'preset-business-001', '证据收集',
+'阿明和小张开始收集Lisa甩锅的证据。他们保存了所有的聊天记录、邮件、会议纪要。王哥提醒他们："证据要有，但更重要的是做出真正的成绩。黑话可以学，但实力不能丢。"阿明开始认真对待每一个项目，同时学会了用"正确的方式"展示自己的成果。',
+'{"weather":{"name":"阴转晴","icon":"🌤️","description":"天气转好"},"terrain":{"name":"办公室","icon":"🏢","description":"忙碌的办公室"},"adventure":{"name":"坚守","icon":"🛡️","description":"坚守阵地"},"equipment":{"name":"合同","icon":"📄","description":"商务合同"}}',
+7),
+
+('chapter-bus001-08', 'preset-business-001', '关键的项目',
+'公司接了一个重要项目，老板指定Lisa和阿明共同负责。Lisa故技重施，在周报里把所有功劳都写成了自己的。但这次，阿明早有准备。他在项目群里同步了每个人的贡献，并附上了详细的工作记录。老板终于看清了真相。',
+'{"weather":{"name":"大风","icon":"💨","description":"大风天气"},"terrain":{"name":"总部","icon":"🏙️","description":"公司总部"},"adventure":{"name":"竞标","icon":"📊","description":"项目竞标"},"equipment":{"name":"名册","icon":"📒","description":"客户名单"}}',
+8),
+
+('chapter-bus001-09', 'preset-business-001', '真相大白',
+'公司年度总结会上，Lisa的PPT被当众质疑。她的"赋能""闭环""价值转化"在真实的数据面前显得空洞无力。老板宣布，阿明因为"踏实肯干、成果显著"获得晋升。Lisa的脸涨得通红，一句话也说不出来。王哥在旁边对阿明竖起了大拇指。',
+'{"weather":{"name":"彩虹","icon":"🌈","description":"雨后彩虹"},"terrain":{"name":"大堂","icon":"🏛️","description":"公司大堂"},"adventure":{"name":"崛起","icon":"📈","description":"快速崛起"},"equipment":{"name":"奖杯","icon":"🏆","description":"荣誉象征"}}',
+9),
+
+('chapter-bus001-10', 'preset-business-001', '新的开始',
+'阿明升职了，但他没有忘记王哥的教导。他对团队成员说："周报可以写得漂亮，但工作要做得扎实。黑话可以学，但实力不能丢。"他开始建立一个更公平的团队文化，让每个人的贡献都能被看见。至于Lisa，她被调到了另一个部门，听说那里的人比她更会"甩锅"。',
+'{"weather":{"name":"晴朗夜空","icon":"🌙","description":"晴朗的夜晚"},"terrain":{"name":"楼顶","icon":"🌃","description":"天台风景"},"adventure":{"name":"升级","icon":"⬆️","description":"业务升级"},"equipment":{"name":"钢笔","icon":"🖊️","description":"签字用笔"}}',
+10);
+
+-- ============================================
+-- 预设章节 - 职场风云：周报战争（英文版）
+-- ============================================
+
+INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
+('chapter-bus001-01-en', 'preset-business-001-en', 'Friday Nightmare',
+'Dave stared at his screen, 30 minutes until weekly report deadline. He honestly wrote: fixed 3 bugs, optimized database queries. But Jessica''s report floored him: "Empowered team synergy, closed product loops, realized value transformation..." Dave thought: I know these words, but together? Worse, the boss praised Jessica''s report as "high-level thinking."',
+'{"weather":{"name":"Cloudy","icon":"☁️","description":"Overcast sky"},"terrain":{"name":"Office","icon":"🏢","description":"Busy office"},"adventure":{"name":"Team Management","icon":"👥","description":"Manage team"},"equipment":{"name":"Laptop","icon":"💻","description":"Work essential"}}',
+1),
+
+('chapter-bus001-02-en', 'preset-business-001-en', 'The Art of Blame Shifting',
+'Monday meeting, project problem. Jessica stood up: "The root cause is technical implementation not aligned with product expectations. We need to review the entire chain..." Dave wanted to argue but didn''t know what to say. Afterward, Mike patted his shoulder: "Young man, workplace isn''t just about doing work—it''s about protecting yourself." Dave realized he was too naive.',
+'{"weather":{"name":"Fog","icon":"🌫️","description":"Foggy weather"},"terrain":{"name":"Meeting Room","icon":"📋","description":"Serious meeting room"},"adventure":{"name":"Crisis","icon":"🚨","description":"Handle crisis"},"equipment":{"name":"Whiteboard","icon":"📋","description":"Meeting whiteboard"}}',
+2),
+
+('chapter-bus001-03-en', 'preset-business-001-en', 'Mike''s Secret Guide',
+'Dave asked Mike for advice. Mike pulled out an old notebook filled with "Workplace Survival Rules." Mike said: "Weekly reports aren''t work summaries—they''re your achievement ledger. Every task needs ''empower,'' ''close loop,'' ''value.'' Every problem needs ''review,'' ''align,'' ''collaborate.''" Dave felt like he''d discovered a new world.',
+'{"weather":{"name":"Partly Cloudy","icon":"⛅","description":"Partly cloudy"},"terrain":{"name":"Cafe","icon":"☕","description":"Business meeting"},"adventure":{"name":"Innovation","icon":"💡","description":"Technical innovation"},"equipment":{"name":"Journal","icon":"📓","description":"Work record"}}',
+3),
+
+('chapter-bus001-04-en', 'preset-business-001-en', 'First Counterattack',
+'Dave tried Mike''s method. He changed "fixed bugs" to "ensured product stability, enhanced user experience loop," changed "optimized queries" to "empowered data-driven decisions, maximized performance value." After sending, he nervously waited. Unexpectedly, the boss praised him in the group chat! Jessica''s face turned sour.',
+'{"weather":{"name":"Sunny","icon":"☀️","description":"Clear weather"},"terrain":{"name":"Office","icon":"🏢","description":"Busy office"},"adventure":{"name":"Breakthrough","icon":"🚀","description":"Achieve breakthrough"},"equipment":{"name":"Laptop","icon":"💻","description":"Work essential"}}',
+4),
+
+('chapter-bus001-05-en', 'preset-business-001-en', 'Escalating War',
+'Jessica counterattacked. In meetings, she constantly questioned Dave: "Dave''s technical solution isn''t aligned with business goals. I suggest we align our understanding..." Dave learned to fight back: "Jessica''s requirements document lacks granularity. I suggest deeper collaboration..." Buzzwords flew across the room. Colleagues exchanged confused looks.',
+'{"weather":{"name":"Thunderstorm","icon":"⛈️","description":"Thunder and rain"},"terrain":{"name":"Meeting Room","icon":"📋","description":"Serious meeting room"},"adventure":{"name":"Negotiation","icon":"🤝","description":"Business negotiation"},"equipment":{"name":"Projector","icon":"📽️","description":"Presentation device"}}',
+5),
+
+('chapter-bus001-06-en', 'preset-business-001-en', 'Unexpected Ally',
+'New colleague Tom joined—he was Jessica''s former subordinate. Tom privately told Dave: "Jessica did this to me too. She excels at shifting blame and taking credit." Tom revealed Jessica''s "achievements" were actually team efforts she claimed as her own. Dave realized he wasn''t fighting alone.',
+'{"weather":{"name":"Light Rain","icon":"🌦️","description":"Light drizzle"},"terrain":{"name":"Break Room","icon":"☕","description":"Employee rest"},"adventure":{"name":"Team Management","icon":"👥","description":"Manage team"},"equipment":{"name":"Coffee Cup","icon":"☕","description":"Energy coffee"}}',
+6),
+
+('chapter-bus001-07-en', 'preset-business-001-en', 'Evidence Collection',
+'Dave and Tom started collecting evidence of Jessica''s blame-shifting. They saved all chat logs, emails, meeting minutes. Mike reminded them: "Evidence is good, but real achievements matter more. Learn the buzzwords, but don''t lose your skills." Dave started taking every project seriously while learning to showcase results "the right way."',
+'{"weather":{"name":"Clearing","icon":"🌤️","description":"Weather improving"},"terrain":{"name":"Office","icon":"🏢","description":"Busy office"},"adventure":{"name":"Hold Ground","icon":"🛡️","description":"Hold position"},"equipment":{"name":"Contract","icon":"📄","description":"Business contract"}}',
+7),
+
+('chapter-bus001-08-en', 'preset-business-001-en', 'Critical Project',
+'Company got an important project, boss assigned Jessica and Dave together. Jessica tried her old tricks, claiming all credit in her report. But this time, Dave was prepared. He synced everyone''s contributions in the project group with detailed work records. The boss finally saw the truth.',
+'{"weather":{"name":"Windy","icon":"💨","description":"Strong wind"},"terrain":{"name":"Headquarters","icon":"🏙️","description":"Company HQ"},"adventure":{"name":"Bidding","icon":"📊","description":"Project bidding"},"equipment":{"name":"Client List","icon":"📒","description":"Client roster"}}',
+8),
+
+('chapter-bus001-09-en', 'preset-business-001-en', 'Truth Revealed',
+'At the annual review, Jessica''s PPT was publicly questioned. Her "empower," "close loop," "value transformation" looked hollow against real data. The boss announced Dave''s promotion for "solid work, significant results." Jessica''s face flushed red, unable to say a word. Mike gave Dave a thumbs up.',
+'{"weather":{"name":"Rainbow","icon":"🌈","description":"Rainbow after rain"},"terrain":{"name":"Lobby","icon":"🏛️","description":"Company lobby"},"adventure":{"name":"Rise","icon":"📈","description":"Rapid rise"},"equipment":{"name":"Trophy","icon":"🏆","description":"Honor symbol"}}',
+9),
+
+('chapter-bus001-10-en', 'preset-business-001-en', 'New Beginning',
+'Dave got promoted but didn''t forget Mike''s teachings. He told his team: "Reports can be beautifully written, but work must be solidly done. Learn the buzzwords, but don''t lose your skills." He started building a fairer team culture where everyone''s contributions could be seen. As for Jessica, she was transferred to another department—rumor has it, people there are even better at "shifting blame."',
+'{"weather":{"name":"Clear Night","icon":"🌙","description":"Clear night"},"terrain":{"name":"Rooftop","icon":"🌃","description":"Rooftop view"},"adventure":{"name":"Upgrade","icon":"⬆️","description":"Business upgrade"},"equipment":{"name":"Pen","icon":"🖊️","description":"Signing pen"}}',
+10);
+
+-- ============================================
+-- 预设章节 - 职场风云：副业狂想曲（中文版）
+-- ============================================
+
+INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
+('chapter-bus002-01', 'preset-business-002', '双重生活',
+'林小北白天是公司的会计，安静、内向、话不多。但晚上，她是拥有十万粉丝的美食博主"北北厨房"。在镜头前，她活泼开朗，滔滔不绝地介绍每一道菜。这种双重生活让她感到充实，但也让她疲惫。她不知道这样的日子能维持多久。',
+'{"weather":{"name":"晴天","icon":"☀️","description":"晴朗的天气"},"terrain":{"name":"办公室","icon":"🏢","description":"忙碌的办公室"},"adventure":{"name":"创新","icon":"💡","description":"技术创新"},"equipment":{"name":"笔记本电脑","icon":"💻","description":"工作必备"}}',
+1),
+
+('chapter-bus002-02', 'preset-business-002', '意外的机会',
+'一个美食品牌找到小北，想和她合作推广产品。报酬是她三个月的工资！小北心动了，但合作要求她在工作日发布内容。她犹豫了——如果被公司发现，后果不堪设想。但这个机会太难得了，她决定冒险一试。',
+'{"weather":{"name":"多云","icon":"⛅","description":"多云天气"},"terrain":{"name":"咖啡馆","icon":"☕","description":"商务洽谈"},"adventure":{"name":"谈判","icon":"🤝","description":"商务谈判"},"equipment":{"name":"手机","icon":"📱","description":"联系的工具"}}',
+2),
+
+('chapter-bus002-03', 'preset-business-002', '老板的警告',
+'周总在例会上突然说："最近公司发现有些员工在工作时间做私事，这是严重违反规定的。"小北的心跳加速了。周总看了她一眼，继续说："我希望大家把精力放在本职工作上。"小北知道，周总可能已经察觉到了什么。',
+'{"weather":{"name":"阴天","icon":"☁️","description":"阴沉的天空"},"terrain":{"name":"会议室","icon":"📋","description":"严肃的会议室"},"adventure":{"name":"危机处理","icon":"🚨","description":"处理危机"},"equipment":{"name":"白板","icon":"📋","description":"会议白板"}}',
+3),
+
+('chapter-bus002-04', 'preset-business-002', '网红前辈的建议',
+'小北在网上认识了一位成功的美食博主阿K。阿K告诉她："我曾经也是上班族，后来副业收入超过了主业，我就辞职了。但你要想清楚，全职做博主和兼职完全不同，压力会更大。"小北开始认真思考自己的未来。',
+'{"weather":{"name":"小雨","icon":"🌦️","description":"绵绵细雨"},"terrain":{"name":"餐厅","icon":"🍽️","description":"商务宴请"},"adventure":{"name":"团队管理","icon":"👥","description":"管理团队"},"equipment":{"name":"咖啡杯","icon":"☕","description":"提神咖啡"}}',
+4),
+
+('chapter-bus002-05', 'preset-business-002', '粉丝的力量',
+'小北的视频突然爆火了！一夜之间，粉丝从十万涨到了五十万。评论区里，粉丝们分享着自己做菜的故事，有人说小北的视频治愈了他们的孤独。小北第一次感受到，自己的爱好可以影响这么多人的生活。',
+'{"weather":{"name":"彩虹","icon":"🌈","description":"雨后彩虹"},"terrain":{"name":"公司","icon":"🏢","description":"忙碌的公司"},"adventure":{"name":"扩张","icon":"🌍","description":"业务扩张"},"equipment":{"name":"平板电脑","icon":"📱","description":"移动办公"}}',
+5),
+
+('chapter-bus002-06', 'preset-business-002', '艰难的选择',
+'周总把小北叫到办公室："林小北，我知道你在做美食博主。公司规定不允许员工有副业，你要么放弃，要么离开。"小北沉默了很久。她想起了阿K的话，想起了粉丝们的留言，想起了自己在镜头前的快乐。她做出了决定。',
+'{"weather":{"name":"雷阵雨","icon":"⛈️","description":"雷雨交加"},"terrain":{"name":"办公室","icon":"🏢","description":"忙碌的办公室"},"adventure":{"name":"转型","icon":"🔄","description":"战略转型"},"equipment":{"name":"合同","icon":"📄","description":"商务合同"}}',
+6),
+
+('chapter-bus002-07', 'preset-business-002', '辞职的那天',
+'小北递交了辞职信。同事们都惊讶了，她不是最稳定的员工吗？小北笑着说："我想试试自己的可能性。"走出公司大门的那一刻，她既害怕又兴奋。她不知道未来会怎样，但她知道，这是她想要的生活。',
+'{"weather":{"name":"晴天","icon":"☀️","description":"晴朗的天气"},"terrain":{"name":"大堂","icon":"🏛️","description":"公司大堂"},"adventure":{"name":"突破","icon":"🚀","description":"取得突破"},"equipment":{"name":"钢笔","icon":"🖊️","description":"签字用笔"}}',
+7),
+
+('chapter-bus002-08', 'preset-business-002', '全职博主的挑战',
+'全职做博主比小北想象的要难。收入不稳定，创作压力大，有时候连续几天没有灵感。她开始怀念上班时的稳定收入。但每当她看到粉丝们的留言，她又重新找到了动力。阿K告诉她："这是每个创作者都要经历的阶段，坚持住。"',
+'{"weather":{"name":"雾霾","icon":"🌫️","description":"雾霾天气"},"terrain":{"name":"写字楼","icon":"🏬","description":"现代化写字楼"},"adventure":{"name":"坚守","icon":"🛡️","description":"坚守阵地"},"equipment":{"name":"相机","icon":"📷","description":"拍摄设备"}}',
+8),
+
+('chapter-bus002-09', 'preset-business-002', '找到自己的路',
+'小北开始尝试新的内容方向——"上班族的健康便当"。这个系列意外地受欢迎，很多和她一样的上班族开始关注她。她发现，自己的经历反而成了她的优势。她不再是那个偷偷做副业的会计，而是一个真正理解上班族需求的创作者。',
+'{"weather":{"name":"晨光","icon":"🌅","description":"温暖的晨光"},"terrain":{"name":"展会","icon":"🎪","description":"行业展会"},"adventure":{"name":"创新","icon":"💡","description":"技术创新"},"equipment":{"name":"名片","icon":"💳","description":"商务名片"}}',
+9),
+
+('chapter-bus002-10', 'preset-business-002', '新的开始',
+'一年后，小北的粉丝突破了两百万。她出版了自己的第一本食谱，还开了一家线上食材店。周总在电视上看到了她的采访，惊讶地说不出话。小北对着镜头说："感谢所有支持我的人，也感谢曾经质疑我的人。是你们让我明白，人生没有标准答案，只有自己的选择。"',
+'{"weather":{"name":"晴朗夜空","icon":"🌙","description":"晴朗的夜晚"},"terrain":{"name":"楼顶","icon":"🌃","description":"天台风景"},"adventure":{"name":"崛起","icon":"📈","description":"快速崛起"},"equipment":{"name":"奖杯","icon":"🏆","description":"荣誉象征"}}',
+10);
+
+-- ============================================
+-- 预设章节 - 职场风云：副业狂想曲（英文版）
+-- ============================================
+
+INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
+('chapter-bus002-01-en', 'preset-business-002-en', 'Double Life',
+'By day, Jamie was a quiet, introverted accountant who barely spoke. By night, she was "Jamie''s Kitchen," a food blogger with 100,000 followers. On camera, she was bubbly and chatty, introducing every dish with enthusiasm. This double life felt fulfilling but exhausting. She wondered how long she could keep it up.',
+'{"weather":{"name":"Sunny","icon":"☀️","description":"Clear weather"},"terrain":{"name":"Office","icon":"🏢","description":"Busy office"},"adventure":{"name":"Innovation","icon":"💡","description":"Technical innovation"},"equipment":{"name":"Laptop","icon":"💻","description":"Work essential"}}',
+1),
+
+('chapter-bus002-02-en', 'preset-business-002-en', 'Unexpected Opportunity',
+'A food brand approached Jamie with a collaboration offer. The pay was three months of her salary! She was tempted, but they wanted her to post during workdays. She hesitated—if the company found out, the consequences would be dire. But this opportunity was too good to pass up. She decided to take the risk.',
+'{"weather":{"name":"Partly Cloudy","icon":"⛅","description":"Partly cloudy"},"terrain":{"name":"Cafe","icon":"☕","description":"Business meeting"},"adventure":{"name":"Negotiation","icon":"🤝","description":"Business negotiation"},"equipment":{"name":"Phone","icon":"📱","description":"Communication tool"}}',
+2),
+
+('chapter-bus002-03-en', 'preset-business-002-en', 'The Boss''s Warning',
+'In the weekly meeting, Boss Peterson suddenly announced: "Recently, the company discovered some employees doing personal business during work hours. This is a serious violation." Jamie''s heart raced. Peterson glanced at her and continued: "I hope everyone focuses on their primary duties." Jamie knew—he might have noticed something.',
+'{"weather":{"name":"Cloudy","icon":"☁️","description":"Overcast sky"},"terrain":{"name":"Meeting Room","icon":"📋","description":"Serious meeting room"},"adventure":{"name":"Crisis","icon":"🚨","description":"Handle crisis"},"equipment":{"name":"Whiteboard","icon":"📋","description":"Meeting whiteboard"}}',
+3),
+
+('chapter-bus002-04-en', 'preset-business-002-en', 'Advice from a Pro',
+'Jamie connected online with Max, a successful food blogger. Max told her: "I was also an office worker. When my side hustle income exceeded my salary, I quit. But think carefully—full-time blogging is completely different from part-time. The pressure is much greater." Jamie started seriously considering her future.',
+'{"weather":{"name":"Light Rain","icon":"🌦️","description":"Light drizzle"},"terrain":{"name":"Restaurant","icon":"🍽️","description":"Business dining"},"adventure":{"name":"Team Management","icon":"👥","description":"Manage team"},"equipment":{"name":"Coffee Cup","icon":"☕","description":"Energy coffee"}}',
+4),
+
+('chapter-bus002-05-en', 'preset-business-002-en', 'The Power of Fans',
+'Jamie''s video suddenly went viral! Overnight, followers jumped from 100,000 to 500,000. In comments, fans shared their own cooking stories. Some said Jamie''s videos healed their loneliness. For the first time, Jamie felt her hobby could impact so many lives.',
+'{"weather":{"name":"Rainbow","icon":"🌈","description":"Rainbow after rain"},"terrain":{"name":"Office","icon":"🏢","description":"Busy office"},"adventure":{"name":"Expansion","icon":"🌍","description":"Business expansion"},"equipment":{"name":"Tablet","icon":"📱","description":"Mobile work"}}',
+5),
+
+('chapter-bus002-06-en', 'preset-business-002-en', 'The Difficult Choice',
+'Boss Peterson called Jamie to his office: "Jamie, I know you''re a food blogger. Company policy doesn''t allow side hustles. Either give it up or leave." Jamie was silent for a long time. She thought of Max''s words, her fans'' messages, the joy she felt on camera. She made her decision.',
+'{"weather":{"name":"Thunderstorm","icon":"⛈️","description":"Thunder and rain"},"terrain":{"name":"Office","icon":"🏢","description":"Busy office"},"adventure":{"name":"Transformation","icon":"🔄","description":"Strategic pivot"},"equipment":{"name":"Contract","icon":"📄","description":"Business contract"}}',
+6),
+
+('chapter-bus002-07-en', 'preset-business-002-en', 'The Day of Resignation',
+'Jamie submitted her resignation. Colleagues were shocked—wasn''t she the most stable employee? Jamie smiled: "I want to try my own possibilities." Walking out the door, she felt both scared and excited. She didn''t know what the future held, but she knew this was the life she wanted.',
+'{"weather":{"name":"Sunny","icon":"☀️","description":"Clear weather"},"terrain":{"name":"Lobby","icon":"🏛️","description":"Company lobby"},"adventure":{"name":"Breakthrough","icon":"🚀","description":"Achieve breakthrough"},"equipment":{"name":"Pen","icon":"🖊️","description":"Signing pen"}}',
+7),
+
+('chapter-bus002-08-en', 'preset-business-002-en', 'Full-Time Challenges',
+'Full-time blogging was harder than Jamie imagined. Unstable income, creative pressure, sometimes days without inspiration. She started missing her steady paycheck. But seeing fans'' messages, she found motivation again. Max told her: "Every creator goes through this phase. Hang in there."',
+'{"weather":{"name":"Fog","icon":"🌫️","description":"Foggy weather"},"terrain":{"name":"Office Building","icon":"🏬","description":"Modern office"},"adventure":{"name":"Hold Ground","icon":"🛡️","description":"Hold position"},"equipment":{"name":"Camera","icon":"📷","description":"Filming equipment"}}',
+8),
+
+('chapter-bus002-09-en', 'preset-business-002-en', 'Finding Her Path',
+'Jamie tried a new content direction—"Healthy Lunchboxes for Office Workers." The series unexpectedly took off. Many office workers like her started following. She discovered her experience became her advantage. She wasn''t the accountant secretly doing a side hustle anymore—she was a creator who truly understood office workers'' needs.',
+'{"weather":{"name":"Morning Light","icon":"🌅","description":"Warm morning light"},"terrain":{"name":"Exhibition","icon":"🎪","description":"Industry expo"},"adventure":{"name":"Innovation","icon":"💡","description":"Technical innovation"},"equipment":{"name":"Business Card","icon":"💳","description":"Business card"}}',
+9),
+
+('chapter-bus002-10-en', 'preset-business-002-en', 'New Beginning',
+'A year later, Jamie''s followers exceeded two million. She published her first cookbook and opened an online ingredient store. Boss Peterson saw her TV interview, speechless. Jamie told the camera: "Thanks to everyone who supported me, and those who doubted me. You taught me that life has no standard answers—only your own choices."',
+'{"weather":{"name":"Clear Night","icon":"🌙","description":"Clear night"},"terrain":{"name":"Rooftop","icon":"🌃","description":"Rooftop view"},"adventure":{"name":"Rise","icon":"📈","description":"Rapid rise"},"equipment":{"name":"Trophy","icon":"🏆","description":"Honor symbol"}}',
+10);
+
+-- ============================================
+-- 预设谜题
+-- ============================================
+
+INSERT INTO puzzles (puzzle_id, book_id, chapter_id, puzzle_type, question, answer, hint, order_num) VALUES
+-- 儿童冒险 - 星空探险家
+('puzzle-adv001-01', 'preset-adventure-001', 'chapter-adv001-03', 'riddle', '什么东西越洗越脏？', '水', '想想洗东西用的是什么', 1),
+('puzzle-adv001-02', 'preset-adventure-001', 'chapter-adv001-05', 'riddle', '有头没有颈，身上冷冰冰，有翅不能飞，无脚也能行。', '鱼', '生活在水里', 2),
+('puzzle-adv001-03', 'preset-adventure-001', 'chapter-adv001-08', 'riddle', '什么东西晚上才会出来，白天就消失了？', '星星', '抬头看看夜空', 3),
+
+-- 儿童冒险 - 深海探险队
+('puzzle-adv002-01', 'preset-adventure-002', 'chapter-adv002-03', 'riddle', '什么东西有牙齿却不能咬东西？', '梳子', '用来整理头发', 1),
+('puzzle-adv002-02', 'preset-adventure-002', 'chapter-adv002-05', 'riddle', '千条线，万条线，掉到水里看不见。', '雨', '从天上落下来', 2),
+('puzzle-adv002-03', 'preset-adventure-002', 'chapter-adv002-08', 'riddle', '什么东西越热越爱出来？', '汗', '运动后会更多', 3),
+
+-- 魔幻传说 - AI魔法学院
+('puzzle-fan001-01', 'preset-fantasy-001', 'chapter-fan001-02', 'riddle', '什么东西有四条腿，却不会走路？', '桌子', '家里常见的家具', 1),
+('puzzle-fan001-02', 'preset-fantasy-001', 'chapter-fan001-05', 'riddle', '什么东西越分越多？', '知识', '分享给别人', 2),
+('puzzle-fan001-03', 'preset-fantasy-001', 'chapter-fan001-09', 'riddle', '什么东西你拿走越多，它反而越大？', '洞', '挖土的时候', 3),
+
+-- 魔幻传说 - 平行世界的我
+('puzzle-fan002-01', 'preset-fantasy-002', 'chapter-fan002-02', 'riddle', '什么东西每天都在前进，但永远不会离开原地？', '时钟', '看墙上的', 1),
+('puzzle-fan002-02', 'preset-fantasy-002', 'chapter-fan002-06', 'riddle', '什么东西有头无脚？', '蒜', '厨房里的', 2),
+('puzzle-fan002-03', 'preset-fantasy-002', 'chapter-fan002-09', 'riddle', '什么东西越洗越小？', '肥皂', '洗澡用的', 3),
+
+-- 都市言情 - 代码恋人
+('puzzle-rom001-01', 'preset-romance-001', 'chapter-rom001-02', 'riddle', '什么东西有眼睛却看不见？', '针', '缝衣服用的', 1),
+('puzzle-rom001-02', 'preset-romance-001', 'chapter-rom001-05', 'riddle', '什么东西有嘴不说话？', '茶壶', '倒水用的', 2),
+('puzzle-rom001-03', 'preset-romance-001', 'chapter-rom001-08', 'riddle', '什么东西有手不能拿东西？', '钟表', '告诉你时间', 3),
+
+-- 都市言情 - 算法姻缘
+('puzzle-rom002-01', 'preset-romance-002', 'chapter-rom002-03', 'riddle', '什么东西有脚不能走路？', '桌子', '四条腿的家具', 1),
+('puzzle-rom002-02', 'preset-romance-002', 'chapter-rom002-06', 'riddle', '什么东西有耳朵听不见？', '杯子', '喝水用的', 2),
+('puzzle-rom002-03', 'preset-romance-002', 'chapter-rom002-09', 'riddle', '什么东西有舌头不说话？', '鞋子', '穿在脚上的', 3),
+
+-- 职场风云 - 周报战争
+('puzzle-bus001-01', 'preset-business-001', 'chapter-bus001-03', 'riddle', '什么东西越用越短？', '铅笔', '写字用的', 1),
+('puzzle-bus001-02', 'preset-business-001', 'chapter-bus001-06', 'riddle', '什么东西越烧越长？', '烟', '点火的', 2),
+('puzzle-bus001-03', 'preset-business-001', 'chapter-bus001-09', 'riddle', '什么东西有叶子不是树？', '书', '知识的海洋', 3),
+
+-- 职场风云 - 副业狂想曲
+('puzzle-bus002-01', 'preset-business-002', 'chapter-bus002-02', 'riddle', '什么东西有脖子没有头？', '瓶子', '装水用的', 1),
+('puzzle-bus002-02', 'preset-business-002', 'chapter-bus002-05', 'riddle', '什么东西有背不能坐？', '椅子', '有靠背的家具', 2),
+('puzzle-bus002-03', 'preset-business-002', 'chapter-bus002-08', 'riddle', '什么东西有门不能进？', '书柜', '放书的', 3);
+
+-- ============================================
+-- 预设情节卡牌
+-- ============================================
+
+INSERT INTO plot_cards (card_id, book_id, card_type, name, icon, description, effect) VALUES
+-- 儿童冒险 - 星空探险家
+('card-adv001-01', 'preset-adventure-001', 'weather', '晴天', '☀️', '阳光明媚的好天气，适合户外探险', '增加探索成功率'),
+('card-adv001-02', 'preset-adventure-001', 'terrain', '海滩', '🏖️', '金色的海滩，可以发现海洋的秘密', '解锁海滩探索'),
+('card-adv001-03', 'preset-adventure-001', 'adventure', '寻宝', '🗺️', '寻找隐藏的宝藏，充满惊喜', '获得额外奖励'),
+('card-adv001-04', 'preset-adventure-001', 'equipment', '望远镜', '🔭', '观察远方，发现隐藏的线索', '解锁远距离观察'),
+
+-- 儿童冒险 - 深海探险队
+('card-adv002-01', 'preset-adventure-002', 'weather', '蓝天', '🌤️', '湛蓝的天空，海风轻拂', '增加海上探索效率'),
+('card-adv002-02', 'preset-adventure-002', 'terrain', '岛屿', '🏝️', '神秘的岛屿，等待探索', '解锁岛屿任务'),
+('card-adv002-03', 'preset-adventure-002', 'adventure', '救援', '🆘', '救援被困的朋友，展现勇气', '增加好感度'),
+('card-adv002-04', 'preset-adventure-002', 'equipment', '相机', '📷', '记录美丽的瞬间', '解锁拍照任务'),
+
+-- 魔幻传说 - AI魔法学院
+('card-fan001-01', 'preset-fantasy-001', 'weather', '极光', '🌌', '绚丽的魔法极光，充满魔力', '增加魔法效果'),
+('card-fan001-02', 'preset-fantasy-001', 'terrain', '魔法塔', '🗼', '高耸的魔法塔，学习魔法的地方', '解锁魔法学习'),
+('card-fan001-03', 'preset-fantasy-001', 'adventure', '魔法测试', '📝', '通过魔法试炼，证明实力', '解锁新技能'),
+('card-fan001-04', 'preset-fantasy-001', 'equipment', '魔杖', '🪄', '施展魔法的法杖，不可或缺', '增加魔法威力'),
+
+-- 魔幻传说 - 平行世界的我
+('card-fan002-01', 'preset-fantasy-002', 'weather', '时空裂隙', '🌀', '时空扭曲的裂缝，通往另一个世界', '解锁时空穿越'),
+('card-fan002-02', 'preset-fantasy-002', 'terrain', '镜像空间', '🪞', '镜像的世界，另一个自己', '解锁镜像任务'),
+('card-fan002-03', 'preset-fantasy-002', 'adventure', '穿越异界', '🌀', '穿越到另一个世界，探索未知', '解锁平行世界'),
+('card-fan002-04', 'preset-fantasy-002', 'equipment', '护身符', '🧿', '保护佩戴者，抵御危险', '增加防御力'),
+
+-- 都市言情 - 代码恋人
+('card-rom001-01', 'preset-romance-001', 'weather', '霓虹', '🌃', '城市的霓虹灯，浪漫的夜晚', '增加浪漫氛围'),
+('card-rom001-02', 'preset-romance-001', 'terrain', '公司', '🏢', '忙碌的公司，故事开始的地方', '解锁职场剧情'),
+('card-rom001-03', 'preset-romance-001', 'adventure', '邂逅', '💫', '命运的相遇，爱情的开始', '增加好感度'),
+('card-rom001-04', 'preset-romance-001', 'equipment', '手机', '📱', '联系的工具，传递心意', '解锁通讯功能'),
+
+-- 都市言情 - 算法姻缘
+('card-rom002-01', 'preset-romance-002', 'weather', '晴天', '☀️', '阳光明媚，适合约会', '增加约会成功率'),
+('card-rom002-02', 'preset-romance-002', 'terrain', '咖啡厅', '☕', '温馨的咖啡厅，浪漫的约会地点', '解锁约会场景'),
+('card-rom002-03', 'preset-romance-002', 'adventure', '约会', '🌹', '甜蜜的约会，增进感情', '增加亲密度'),
+('card-rom002-04', 'preset-romance-002', 'equipment', '相机', '📷', '记录美好瞬间，留下回忆', '解锁拍照功能'),
+
+-- 职场风云 - 周报战争
+('card-bus001-01', 'preset-business-001', 'weather', '阴天', '☁️', '阴沉的天空，职场如战场', '增加紧张氛围'),
+('card-bus001-02', 'preset-business-001', 'terrain', '办公室', '🏢', '忙碌的办公室，周报的战场', '解锁职场任务'),
+('card-bus001-03', 'preset-business-001', 'adventure', '谈判', '🤝', '商务谈判，展现能力', '增加谈判成功率'),
+('card-bus001-04', 'preset-business-001', 'equipment', '笔记本电脑', '💻', '工作必备，战斗的武器', '解锁工作功能'),
+
+-- 职场风云 - 副业狂想曲
+('card-bus002-01', 'preset-business-002', 'weather', '晴天', '☀️', '晴朗的天气，新的开始', '增加积极情绪'),
+('card-bus002-02', 'preset-business-002', 'terrain', '办公室', '🏢', '忙碌的办公室，双重生活的起点', '解锁副业任务'),
+('card-bus002-03', 'preset-business-002', 'adventure', '创新', '💡', '技术创新，突破自我', '解锁创新任务'),
+('card-bus002-04', 'preset-business-002', 'equipment', '笔记本电脑', '💻', '工作必备，创作的工具', '解锁创作功能');
