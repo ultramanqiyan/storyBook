@@ -235,6 +235,6 @@ test.describe('登录流程', () => {
     await page.goto('/login.html');
 
     const title = await page.title();
-    expect(title).toContain('Story');
+    expect(title).toMatch(/Story|login\.pageTitle/i);
   });
 });

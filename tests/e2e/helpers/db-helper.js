@@ -71,14 +71,11 @@ class DatabaseHelper {
 
   execSqlFile(filePath) {
     const sql = fs.readFileSync(filePath, 'utf8');
-    const statements = sql.split(';').filter(s => s.trim());
-    for (const statement of statements) {
-      try {
-        this.db.exec(statement);
-      } catch (e) {
-        if (!e.message.includes('already exists')) {
-          throw e;
-        }
+    try {
+      this.db.exec(sql);
+    } catch (e) {
+      if (!e.message.includes('already exists')) {
+        throw e;
       }
     }
   }

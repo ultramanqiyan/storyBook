@@ -1013,96 +1013,96 @@ INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order
 -- 预设谜题
 -- ============================================
 
-INSERT INTO puzzles (puzzle_id, book_id, chapter_id, puzzle_type, question, answer, hint, order_num) VALUES
+INSERT INTO puzzles (puzzle_id, chapter_id, question, answer, puzzle_type) VALUES
 -- 儿童冒险 - 星空探险家
-('puzzle-adv001-01', 'preset-adventure-001', 'chapter-adv001-03', 'riddle', '什么东西越洗越脏？', '水', '想想洗东西用的是什么', 1),
-('puzzle-adv001-02', 'preset-adventure-001', 'chapter-adv001-05', 'riddle', '有头没有颈，身上冷冰冰，有翅不能飞，无脚也能行。', '鱼', '生活在水里', 2),
-('puzzle-adv001-03', 'preset-adventure-001', 'chapter-adv001-08', 'riddle', '什么东西晚上才会出来，白天就消失了？', '星星', '抬头看看夜空', 3),
+('puzzle-adv001-01', 'chapter-adv001-03', '什么东西越洗越脏？', '水', 'riddle'),
+('puzzle-adv001-02', 'chapter-adv001-05', '有头没有颈，身上冷冰冰，有翅不能飞，无脚也能行。', '鱼', 'riddle'),
+('puzzle-adv001-03', 'chapter-adv001-08', '什么东西晚上才会出来，白天就消失了？', '星星', 'riddle'),
 
 -- 儿童冒险 - 深海探险队
-('puzzle-adv002-01', 'preset-adventure-002', 'chapter-adv002-03', 'riddle', '什么东西有牙齿却不能咬东西？', '梳子', '用来整理头发', 1),
-('puzzle-adv002-02', 'preset-adventure-002', 'chapter-adv002-05', 'riddle', '千条线，万条线，掉到水里看不见。', '雨', '从天上落下来', 2),
-('puzzle-adv002-03', 'preset-adventure-002', 'chapter-adv002-08', 'riddle', '什么东西越热越爱出来？', '汗', '运动后会更多', 3),
+('puzzle-adv002-01', 'chapter-adv002-03', '什么东西有牙齿却不能咬东西？', '梳子', 'riddle'),
+('puzzle-adv002-02', 'chapter-adv002-05', '千条线，万条线，掉到水里看不见。', '雨', 'riddle'),
+('puzzle-adv002-03', 'chapter-adv002-08', '什么东西越热越爱出来？', '汗', 'riddle'),
 
 -- 魔幻传说 - AI魔法学院
-('puzzle-fan001-01', 'preset-fantasy-001', 'chapter-fan001-02', 'riddle', '什么东西有四条腿，却不会走路？', '桌子', '家里常见的家具', 1),
-('puzzle-fan001-02', 'preset-fantasy-001', 'chapter-fan001-05', 'riddle', '什么东西越分越多？', '知识', '分享给别人', 2),
-('puzzle-fan001-03', 'preset-fantasy-001', 'chapter-fan001-09', 'riddle', '什么东西你拿走越多，它反而越大？', '洞', '挖土的时候', 3),
+('puzzle-fan001-01', 'chapter-fan001-02', '什么东西有四条腿，却不会走路？', '桌子', 'riddle'),
+('puzzle-fan001-02', 'chapter-fan001-05', '什么东西越分越多？', '知识', 'riddle'),
+('puzzle-fan001-03', 'chapter-fan001-09', '什么东西你拿走越多，它反而越大？', '洞', 'riddle'),
 
 -- 魔幻传说 - 平行世界的我
-('puzzle-fan002-01', 'preset-fantasy-002', 'chapter-fan002-02', 'riddle', '什么东西每天都在前进，但永远不会离开原地？', '时钟', '看墙上的', 1),
-('puzzle-fan002-02', 'preset-fantasy-002', 'chapter-fan002-06', 'riddle', '什么东西有头无脚？', '蒜', '厨房里的', 2),
-('puzzle-fan002-03', 'preset-fantasy-002', 'chapter-fan002-09', 'riddle', '什么东西越洗越小？', '肥皂', '洗澡用的', 3),
+('puzzle-fan002-01', 'chapter-fan002-02', '什么东西每天都在前进，但永远不会离开原地？', '时钟', 'riddle'),
+('puzzle-fan002-02', 'chapter-fan002-06', '什么东西有头无脚？', '蒜', 'riddle'),
+('puzzle-fan002-03', 'chapter-fan002-09', '什么东西越洗越小？', '肥皂', 'riddle'),
 
 -- 都市言情 - 代码恋人
-('puzzle-rom001-01', 'preset-romance-001', 'chapter-rom001-02', 'riddle', '什么东西有眼睛却看不见？', '针', '缝衣服用的', 1),
-('puzzle-rom001-02', 'preset-romance-001', 'chapter-rom001-05', 'riddle', '什么东西有嘴不说话？', '茶壶', '倒水用的', 2),
-('puzzle-rom001-03', 'preset-romance-001', 'chapter-rom001-08', 'riddle', '什么东西有手不能拿东西？', '钟表', '告诉你时间', 3),
+('puzzle-rom001-01', 'chapter-rom001-02', '什么东西有眼睛却看不见？', '针', 'riddle'),
+('puzzle-rom001-02', 'chapter-rom001-05', '什么东西有嘴不说话？', '茶壶', 'riddle'),
+('puzzle-rom001-03', 'chapter-rom001-08', '什么东西有手不能拿东西？', '钟表', 'riddle'),
 
 -- 都市言情 - 算法姻缘
-('puzzle-rom002-01', 'preset-romance-002', 'chapter-rom002-03', 'riddle', '什么东西有脚不能走路？', '桌子', '四条腿的家具', 1),
-('puzzle-rom002-02', 'preset-romance-002', 'chapter-rom002-06', 'riddle', '什么东西有耳朵听不见？', '杯子', '喝水用的', 2),
-('puzzle-rom002-03', 'preset-romance-002', 'chapter-rom002-09', 'riddle', '什么东西有舌头不说话？', '鞋子', '穿在脚上的', 3),
+('puzzle-rom002-01', 'chapter-rom002-03', '什么东西有脚不能走路？', '桌子', 'riddle'),
+('puzzle-rom002-02', 'chapter-rom002-06', '什么东西有耳朵听不见？', '杯子', 'riddle'),
+('puzzle-rom002-03', 'chapter-rom002-09', '什么东西有舌头不说话？', '鞋子', 'riddle'),
 
 -- 职场风云 - 周报战争
-('puzzle-bus001-01', 'preset-business-001', 'chapter-bus001-03', 'riddle', '什么东西越用越短？', '铅笔', '写字用的', 1),
-('puzzle-bus001-02', 'preset-business-001', 'chapter-bus001-06', 'riddle', '什么东西越烧越长？', '烟', '点火的', 2),
-('puzzle-bus001-03', 'preset-business-001', 'chapter-bus001-09', 'riddle', '什么东西有叶子不是树？', '书', '知识的海洋', 3),
+('puzzle-bus001-01', 'chapter-bus001-03', '什么东西越用越短？', '铅笔', 'riddle'),
+('puzzle-bus001-02', 'chapter-bus001-06', '什么东西越烧越长？', '烟', 'riddle'),
+('puzzle-bus001-03', 'chapter-bus001-09', '什么东西有叶子不是树？', '书', 'riddle'),
 
 -- 职场风云 - 副业狂想曲
-('puzzle-bus002-01', 'preset-business-002', 'chapter-bus002-02', 'riddle', '什么东西有脖子没有头？', '瓶子', '装水用的', 1),
-('puzzle-bus002-02', 'preset-business-002', 'chapter-bus002-05', 'riddle', '什么东西有背不能坐？', '椅子', '有靠背的家具', 2),
-('puzzle-bus002-03', 'preset-business-002', 'chapter-bus002-08', 'riddle', '什么东西有门不能进？', '书柜', '放书的', 3);
+('puzzle-bus002-01', 'chapter-bus002-02', '什么东西有脖子没有头？', '瓶子', 'riddle'),
+('puzzle-bus002-02', 'chapter-bus002-05', '什么东西有背不能坐？', '椅子', 'riddle'),
+('puzzle-bus002-03', 'chapter-bus002-08', '什么东西有门不能进？', '书柜', 'riddle');
 
 -- ============================================
 -- 预设情节卡牌
 -- ============================================
 
-INSERT INTO plot_cards (card_id, book_id, card_type, name, icon, description, effect) VALUES
+INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description) VALUES
 -- 儿童冒险 - 星空探险家
-('card-adv001-01', 'preset-adventure-001', 'weather', '晴天', '☀️', '阳光明媚的好天气，适合户外探险', '增加探索成功率'),
-('card-adv001-02', 'preset-adventure-001', 'terrain', '海滩', '🏖️', '金色的海滩，可以发现海洋的秘密', '解锁海滩探索'),
-('card-adv001-03', 'preset-adventure-001', 'adventure', '寻宝', '🗺️', '寻找隐藏的宝藏，充满惊喜', '获得额外奖励'),
-('card-adv001-04', 'preset-adventure-001', 'equipment', '望远镜', '🔭', '观察远方，发现隐藏的线索', '解锁远距离观察'),
+('card-adv001-01', 'preset-adventure-001', 'weather', 'sunny', '晴天', '☀️', '阳光明媚的好天气，适合户外探险'),
+('card-adv001-02', 'preset-adventure-001', 'terrain', 'beach', '海滩', '🏖️', '金色的海滩，可以发现海洋的秘密'),
+('card-adv001-03', 'preset-adventure-001', 'adventure', 'treasure', '寻宝', '🗺️', '寻找隐藏的宝藏，充满惊喜'),
+('card-adv001-04', 'preset-adventure-001', 'equipment', 'telescope', '望远镜', '🔭', '观察远方，发现隐藏的线索'),
 
 -- 儿童冒险 - 深海探险队
-('card-adv002-01', 'preset-adventure-002', 'weather', '蓝天', '🌤️', '湛蓝的天空，海风轻拂', '增加海上探索效率'),
-('card-adv002-02', 'preset-adventure-002', 'terrain', '岛屿', '🏝️', '神秘的岛屿，等待探索', '解锁岛屿任务'),
-('card-adv002-03', 'preset-adventure-002', 'adventure', '救援', '🆘', '救援被困的朋友，展现勇气', '增加好感度'),
-('card-adv002-04', 'preset-adventure-002', 'equipment', '相机', '📷', '记录美丽的瞬间', '解锁拍照任务'),
+('card-adv002-01', 'preset-adventure-002', 'weather', 'sunny', '蓝天', '🌤️', '湛蓝的天空，海风轻拂'),
+('card-adv002-02', 'preset-adventure-002', 'terrain', 'island', '岛屿', '🏝️', '神秘的岛屿，等待探索'),
+('card-adv002-03', 'preset-adventure-002', 'adventure', 'rescue', '救援', '🆘', '救援被困的朋友，展现勇气'),
+('card-adv002-04', 'preset-adventure-002', 'equipment', 'camera', '相机', '📷', '记录美丽的瞬间'),
 
 -- 魔幻传说 - AI魔法学院
-('card-fan001-01', 'preset-fantasy-001', 'weather', '极光', '🌌', '绚丽的魔法极光，充满魔力', '增加魔法效果'),
-('card-fan001-02', 'preset-fantasy-001', 'terrain', '魔法塔', '🗼', '高耸的魔法塔，学习魔法的地方', '解锁魔法学习'),
-('card-fan001-03', 'preset-fantasy-001', 'adventure', '魔法测试', '📝', '通过魔法试炼，证明实力', '解锁新技能'),
-('card-fan001-04', 'preset-fantasy-001', 'equipment', '魔杖', '🪄', '施展魔法的法杖，不可或缺', '增加魔法威力'),
+('card-fan001-01', 'preset-fantasy-001', 'weather', 'aurora', '极光', '🌌', '绚丽的魔法极光，充满魔力'),
+('card-fan001-02', 'preset-fantasy-001', 'terrain', 'tower', '魔法塔', '🗼', '高耸的魔法塔，学习魔法的地方'),
+('card-fan001-03', 'preset-fantasy-001', 'adventure', 'test', '魔法测试', '📝', '通过魔法试炼，证明实力'),
+('card-fan001-04', 'preset-fantasy-001', 'equipment', 'wand', '魔杖', '🪄', '施展魔法的法杖，不可或缺'),
 
 -- 魔幻传说 - 平行世界的我
-('card-fan002-01', 'preset-fantasy-002', 'weather', '时空裂隙', '🌀', '时空扭曲的裂缝，通往另一个世界', '解锁时空穿越'),
-('card-fan002-02', 'preset-fantasy-002', 'terrain', '镜像空间', '🪞', '镜像的世界，另一个自己', '解锁镜像任务'),
-('card-fan002-03', 'preset-fantasy-002', 'adventure', '穿越异界', '🌀', '穿越到另一个世界，探索未知', '解锁平行世界'),
-('card-fan002-04', 'preset-fantasy-002', 'equipment', '护身符', '🧿', '保护佩戴者，抵御危险', '增加防御力'),
+('card-fan002-01', 'preset-fantasy-002', 'weather', 'portal', '时空裂隙', '🌀', '时空扭曲的裂缝，通往另一个世界'),
+('card-fan002-02', 'preset-fantasy-002', 'terrain', 'mirror', '镜像空间', '🪞', '镜像的世界，另一个自己'),
+('card-fan002-03', 'preset-fantasy-002', 'adventure', 'travel', '穿越异界', '🌀', '穿越到另一个世界，探索未知'),
+('card-fan002-04', 'preset-fantasy-002', 'equipment', 'amulet', '护身符', '🧿', '保护佩戴者，抵御危险'),
 
 -- 都市言情 - 代码恋人
-('card-rom001-01', 'preset-romance-001', 'weather', '霓虹', '🌃', '城市的霓虹灯，浪漫的夜晚', '增加浪漫氛围'),
-('card-rom001-02', 'preset-romance-001', 'terrain', '公司', '🏢', '忙碌的公司，故事开始的地方', '解锁职场剧情'),
-('card-rom001-03', 'preset-romance-001', 'adventure', '邂逅', '💫', '命运的相遇，爱情的开始', '增加好感度'),
-('card-rom001-04', 'preset-romance-001', 'equipment', '手机', '📱', '联系的工具，传递心意', '解锁通讯功能'),
+('card-rom001-01', 'preset-romance-001', 'weather', 'neon', '霓虹', '🌃', '城市的霓虹灯，浪漫的夜晚'),
+('card-rom001-02', 'preset-romance-001', 'terrain', 'office', '公司', '🏢', '忙碌的公司，故事开始的地方'),
+('card-rom001-03', 'preset-romance-001', 'adventure', 'encounter', '邂逅', '💫', '命运的相遇，爱情的开始'),
+('card-rom001-04', 'preset-romance-001', 'equipment', 'phone', '手机', '📱', '联系的工具，传递心意'),
 
 -- 都市言情 - 算法姻缘
-('card-rom002-01', 'preset-romance-002', 'weather', '晴天', '☀️', '阳光明媚，适合约会', '增加约会成功率'),
-('card-rom002-02', 'preset-romance-002', 'terrain', '咖啡厅', '☕', '温馨的咖啡厅，浪漫的约会地点', '解锁约会场景'),
-('card-rom002-03', 'preset-romance-002', 'adventure', '约会', '🌹', '甜蜜的约会，增进感情', '增加亲密度'),
-('card-rom002-04', 'preset-romance-002', 'equipment', '相机', '📷', '记录美好瞬间，留下回忆', '解锁拍照功能'),
+('card-rom002-01', 'preset-romance-002', 'weather', 'sunny', '晴天', '☀️', '阳光明媚，适合约会'),
+('card-rom002-02', 'preset-romance-002', 'terrain', 'cafe', '咖啡厅', '☕', '温馨的咖啡厅，浪漫的约会地点'),
+('card-rom002-03', 'preset-romance-002', 'adventure', 'date', '约会', '🌹', '甜蜜的约会，增进感情'),
+('card-rom002-04', 'preset-romance-002', 'equipment', 'camera', '相机', '📷', '记录美好瞬间，留下回忆'),
 
 -- 职场风云 - 周报战争
-('card-bus001-01', 'preset-business-001', 'weather', '阴天', '☁️', '阴沉的天空，职场如战场', '增加紧张氛围'),
-('card-bus001-02', 'preset-business-001', 'terrain', '办公室', '🏢', '忙碌的办公室，周报的战场', '解锁职场任务'),
-('card-bus001-03', 'preset-business-001', 'adventure', '谈判', '🤝', '商务谈判，展现能力', '增加谈判成功率'),
-('card-bus001-04', 'preset-business-001', 'equipment', '笔记本电脑', '💻', '工作必备，战斗的武器', '解锁工作功能'),
+('card-bus001-01', 'preset-business-001', 'weather', 'cloudy', '阴天', '☁️', '阴沉的天空，职场如战场'),
+('card-bus001-02', 'preset-business-001', 'terrain', 'office', '办公室', '🏢', '忙碌的办公室，周报的战场'),
+('card-bus001-03', 'preset-business-001', 'adventure', 'negotiate', '谈判', '🤝', '商务谈判，展现能力'),
+('card-bus001-04', 'preset-business-001', 'equipment', 'laptop', '笔记本电脑', '💻', '工作必备，战斗的武器'),
 
 -- 职场风云 - 副业狂想曲
-('card-bus002-01', 'preset-business-002', 'weather', '晴天', '☀️', '晴朗的天气，新的开始', '增加积极情绪'),
-('card-bus002-02', 'preset-business-002', 'terrain', '办公室', '🏢', '忙碌的办公室，双重生活的起点', '解锁副业任务'),
-('card-bus002-03', 'preset-business-002', 'adventure', '创新', '💡', '技术创新，突破自我', '解锁创新任务'),
-('card-bus002-04', 'preset-business-002', 'equipment', '笔记本电脑', '💻', '工作必备，创作的工具', '解锁创作功能');
+('card-bus002-01', 'preset-business-002', 'weather', 'sunny', '晴天', '☀️', '晴朗的天气，新的开始'),
+('card-bus002-02', 'preset-business-002', 'terrain', 'office', '办公室', '🏢', '忙碌的办公室，双重生活的起点'),
+('card-bus002-03', 'preset-business-002', 'adventure', 'innovate', '创新', '💡', '技术创新，突破自我'),
+('card-bus002-04', 'preset-business-002', 'equipment', 'laptop', '笔记本电脑', '💻', '工作必备，创作的工具');
