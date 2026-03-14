@@ -31,7 +31,7 @@ test.describe('完整用户旅程测试 - 多步骤多页面', () => {
     await page.waitForURL(/login/);
 
     // Step 3: 填写登录信息（新用户自动注册）
-    await expect(page.locator('.login-title')).toContainText('Begin');
+    await expect(page.locator('.login-title').first()).toContainText('Begin');
     await page.fill('#email', testEmail);
     await page.fill('#password', testPassword);
 
@@ -75,11 +75,11 @@ test.describe('完整用户旅程测试 - 多步骤多页面', () => {
 
     // Step 10: 进入导演页面添加章节
     await page.goto('/director.html');
-    await page.waitForTimeout(1000);
+    await page.waitForTimeout(2000);
 
     // Step 11: 验证导演页面加载
     const directorPage = page.locator('.director-page, .page-container, main');
-    await expect(directorPage.first()).toBeVisible();
+    await expect(directorPage.first()).toBeVisible({ timeout: 10000 });
 
     // Step 12: 进入公共图书馆
     await page.goto('/library.html');

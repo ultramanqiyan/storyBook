@@ -22,7 +22,7 @@ test.describe('登录流程', () => {
 
     await page.goto('/login.html');
 
-    await expect(page.locator('.login-title')).toContainText('Begin');
+    await expect(page.locator('.login-title').first()).toContainText('Begin');
 
     await page.fill('#email', testEmail);
     await page.fill('#password', testPassword);
@@ -134,10 +134,10 @@ test.describe('登录流程', () => {
   test('登录页面应正确显示所有元素', async ({ page }) => {
     await page.goto('/login.html');
 
-    await expect(page.locator('.login-title')).toBeVisible();
+    await expect(page.locator('.login-title').first()).toBeVisible();
     await expect(page.locator('#email')).toBeVisible();
     await expect(page.locator('#password')).toBeVisible();
-    await expect(page.locator('.wax-seal-btn')).toBeVisible();
+    await expect(page.locator('.wax-seal-btn').first()).toBeVisible();
   });
 
   test('登录成功后localStorage应存储用户信息', async ({ page }) => {

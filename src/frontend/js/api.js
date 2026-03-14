@@ -80,10 +80,10 @@ function showNotification(message, type = 'info') {
 }
 
 const API = {
-    async register(email, password) {
+    async register(email, password, username) {
         return apiRequest('/api/users', {
             method: 'POST',
-            body: JSON.stringify({ email, password, action: 'register' })
+            body: JSON.stringify({ email, password, username, action: 'register' })
         });
     },
 

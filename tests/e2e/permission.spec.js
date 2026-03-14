@@ -332,7 +332,7 @@ test.describe('权限控制', () => {
       [bookId]
     );
     
-    expect(bookExists).toBeNull();
+    expect(bookExists).toBeFalsy();
   });
 
   test('预设书籍不能被删除', async ({ request }) => {

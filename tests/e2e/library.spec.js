@@ -1,6 +1,8 @@
 import { test, expect } from '@playwright/test';
 import DatabaseHelper from './helpers/db-helper.js';
 
+import path from 'path';
+
 test.describe('公共图书馆功能', () => {
   let db;
   let testUserId;
@@ -9,7 +11,7 @@ test.describe('公共图书馆功能', () => {
     db = new DatabaseHelper();
     db.connect();
     db.resetDatabase();
-    db.execSqlFile('migrations/0002_seed_data.sql');
+    db.execSqlFile(path.join(process.cwd(), 'migrations', '0002_seed_data.sql'));
     db.createTestUser();
     testUserId = db.getTestUserId();
   });
@@ -21,11 +23,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('公共图书馆页面应显示预设书籍', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const booksGrid = page.locator('#booksGrid');
@@ -37,11 +37,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('点击书籍应跳转到书籍详情页', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const firstBook = page.locator('.book-3d, .magic-book-card').first();
@@ -52,11 +50,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('书籍详情页应显示章节列表', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const firstBook = page.locator('.book-3d, .magic-book-card').first();
@@ -71,11 +67,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('书籍详情页应显示角色列表', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const firstBook = page.locator('.magic-book-card').first();
@@ -94,9 +88,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('预设书籍详情页应显示导入按钮', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
+    await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
 
     await page.goto('/library.html');
     await page.waitForTimeout(1000);
@@ -115,11 +109,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('预设书籍点击章节可阅读内容', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const firstBook = page.locator('.magic-book-card').first();
@@ -136,11 +128,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('类型筛选应正确过滤书籍', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const adventureTab = page.locator('.filter-tab[data-filter="adventure"]');
@@ -158,9 +148,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('导入书籍应创建新书籍副本', async ({ page, request }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
+    await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
 
     const presetBooks = db.queryAll(
       'SELECT * FROM books WHERE is_preset = 1 LIMIT 1'
@@ -188,11 +178,7 @@ test.describe('公共图书馆功能', () => {
     expect(newBook.user_id).toBe(testUserId);
   });
 
-  test('导入书籍应复制所有角色', async ({ page, request }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
+  test('导入书籍应复制所有角色', async ({ request }) => {
     const presetBook = db.query(
       'SELECT * FROM books WHERE is_preset = 1 LIMIT 1'
     );
@@ -218,11 +204,7 @@ test.describe('公共图书馆功能', () => {
     expect(newCharacters.length).toBe(originalCharacters.length);
   });
 
-  test('导入书籍应复制所有卡牌', async ({ page, request }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
+  test('导入书籍应复制所有卡牌', async ({ request }) => {
     const presetBook = db.query(
       'SELECT * FROM books WHERE is_preset = 1 LIMIT 1'
     );
@@ -248,11 +230,7 @@ test.describe('公共图书馆功能', () => {
     expect(newCards.length).toBe(originalCards.length);
   });
 
-  test('导入书籍应复制所有章节', async ({ page, request }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
+  test('导入书籍应复制所有章节', async ({ request }) => {
     const presetBook = db.query(
       'SELECT * FROM books WHERE is_preset = 1 LIMIT 1'
     );
@@ -278,11 +256,7 @@ test.describe('公共图书馆功能', () => {
     expect(newChapters.length).toBe(originalChapters.length);
   });
 
-  test('导入书籍应复制所有谜题并重置状态', async ({ page, request }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
+  test('导入书籍应复制所有谜题并重置状态', async ({ request }) => {
     const presetBook = db.query(
       'SELECT * FROM books WHERE is_preset = 1 LIMIT 1'
     );
@@ -352,11 +326,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('UI导入成功后应跳转到新书籍页面', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const firstBook = page.locator('.magic-book-card').first();
@@ -375,11 +347,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('导入成功后应跳转到新书籍页面', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const firstBook = page.locator('.magic-book-card').first();
@@ -474,11 +444,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('搜索功能应正确过滤书籍', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const searchInput = page.locator('#searchInput');
@@ -522,17 +490,15 @@ test.describe('公共图书馆功能', () => {
     expect(afterImportBook.is_preset).toBe(1);
   });
 
-  test('UI导入书籍后数据库应正确记录', async ({ page, request }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
+  test('UI导入书籍后数据库应正确记录', async ({ page }) => {
     const beforeCount = db.query(
       'SELECT COUNT(*) as count FROM books WHERE user_id = ?',
       [testUserId]
     )?.count || 0;
 
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const firstBook = page.locator('.magic-book-card').first();
@@ -895,11 +861,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('关闭详情页应返回图书馆', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const firstBook = page.locator('.magic-book-card').first();
@@ -962,11 +926,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('公共图书馆应显示书籍卡片', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const bookCards = page.locator('.magic-book-card');
@@ -979,11 +941,9 @@ test.describe('公共图书馆功能', () => {
   });
 
   test('详情弹窗应显示书籍描述', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const firstBook = page.locator('.magic-book-card').first();
@@ -1021,11 +981,9 @@ test.describe('公共图书馆空状态测试', () => {
   });
 
   test('没有预设书籍时应显示空状态提示', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const emptyLibrary = page.locator('.empty-library');
@@ -1039,11 +997,9 @@ test.describe('公共图书馆空状态测试', () => {
   });
 
   test('空状态应显示开发者提示', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const emptyHint = page.locator('.empty-hint');
@@ -1052,11 +1008,9 @@ test.describe('公共图书馆空状态测试', () => {
   });
 
   test('空状态时筛选标签应仍然可用', async ({ page }) => {
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
     await page.goto('/library.html');
+    await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
+    await page.reload();
     await page.waitForTimeout(1000);
 
     const adventureTab = page.locator('.filter-tab[data-filter="adventure"]');

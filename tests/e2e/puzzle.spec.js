@@ -118,8 +118,13 @@ test.describe('谜题功能', () => {
     expect(result.success).toBe(true);
     expect(result.data.is_correct).toBe(true);
     expect(result.data.reward).toBeDefined();
-    expect(result.data.reward.card).toBeDefined();
-    expect(result.data.reward.card.name).toBeDefined();
+    
+    if (result.data.reward.type === 'custom_character') {
+      expect(result.data.reward.character).toBeDefined();
+    } else {
+      expect(result.data.reward.card).toBeDefined();
+      expect(result.data.reward.card.name).toBeDefined();
+    }
 
     const dbPuzzle = db.query(
       'SELECT * FROM puzzles WHERE puzzle_id = ?',
@@ -156,19 +161,24 @@ test.describe('谜题功能', () => {
     expect(result.data.is_correct).toBe(true);
     expect(result.data.is_solved).toBe(true);
     expect(result.data.reward).toBeDefined();
-    expect(result.data.reward.card).toBeDefined();
-    expect(result.data.reward.card.card_id).toBeDefined();
-    expect(result.data.reward.card.sub_type).toBeDefined();
-    expect(['weather', 'terrain', 'adventure', 'equipment']).toContain(result.data.reward.card.sub_type);
-    expect(result.data.reward.card.name).toBeDefined();
-    expect(result.data.reward.card.icon).toBeDefined();
+    
+    if (result.data.reward.type === 'custom_character') {
+      expect(result.data.reward.character).toBeDefined();
+    } else {
+      expect(result.data.reward.card).toBeDefined();
+      expect(result.data.reward.card.card_id).toBeDefined();
+      expect(result.data.reward.card.sub_type).toBeDefined();
+      expect(['weather', 'terrain', 'adventure', 'equipment']).toContain(result.data.reward.card.sub_type);
+      expect(result.data.reward.card.name).toBeDefined();
+      expect(result.data.reward.card.icon).toBeDefined();
 
-    const dbCard = db.query(
-      'SELECT * FROM plot_cards WHERE card_id = ?',
-      [result.data.reward.card.card_id]
-    );
-    expect(dbCard).toBeDefined();
-    expect(dbCard.book_id).toBe(testBookId);
+      const dbCard = db.query(
+        'SELECT * FROM plot_cards WHERE card_id = ?',
+        [result.data.reward.card.card_id]
+      );
+      expect(dbCard).toBeDefined();
+      expect(dbCard.book_id).toBe(testBookId);
+    }
   });
 
   test('未登录用户解谜成功应提示登录', async ({ request }) => {

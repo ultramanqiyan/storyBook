@@ -10,7 +10,7 @@ test.describe('首页和版本测试', () => {
   test('登录页面应该正常加载', async ({ page }) => {
     await page.goto('/login.html');
 
-    await expect(page.locator('.login-title')).toBeVisible({ timeout: 10000 });
+    await expect(page.locator('.login-title').first()).toBeVisible({ timeout: 10000 });
   });
 
   test('静态资源应该正确加载', async ({ page }) => {
