@@ -75,9 +75,10 @@ function createBookCard(book, index) {
   div.style.animationDelay = `${index * 0.1}s`;
   
   const chapterCount = book.chapter_count || 0;
+  const bookUrl = `books/${book.book_id}.html`;
   
   div.innerHTML = `
-    <div class="book-3d" onclick="window.location.href='book.html?id=${book.book_id}&is_preset=1'">
+    <div class="book-3d" onclick="window.location.href='${bookUrl}'">
       <div class="book-cover" style="background: ${typeColors[book.type] || typeColors.adventure};">
         <span style="font-size: 48px;">${typeIcons[book.type] || '📖'}</span>
       </div>

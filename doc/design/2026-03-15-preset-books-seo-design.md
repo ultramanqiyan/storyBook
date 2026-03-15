@@ -503,14 +503,14 @@ git push  # Cloudflare 自动构建时会运行 generate:pages
 
 ## 待办事项
 
-- [ ] 创建 `scripts/generate-preset-pages.js` 脚本
-- [ ] 创建 `src/frontend/books/` 目录
-- [ ] 更新 `package.json` 添加 npm scripts
-- [ ] 更新 `library.html` 链接指向静态页面
-- [ ] 创建 `sitemap.xml` 包含所有预设书籍页面
-- [ ] 创建 `robots.txt`
-- [ ] 添加 og:image 图片资源
-- [ ] 测试生成脚本的正确性
+- [x] 创建 `scripts/generate-preset-pages.js` 脚本
+- [x] 创建 `src/frontend/books/` 目录
+- [x] 更新 `package.json` 添加 npm scripts
+- [x] 更新 `library.html` 链接指向静态页面 ✅ 已完成
+- [x] 创建 `sitemap.xml` 包含所有预设书籍页面
+- [x] 创建 `robots.txt`
+- [x] 添加 og:image 图片资源
+- [x] 测试生成脚本的正确性 ✅ 已完成
 
 ## 发现时间
 

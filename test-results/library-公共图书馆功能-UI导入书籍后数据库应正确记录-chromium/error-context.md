@@ -1,0 +1,75 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: ../index.html
+    - generic [ref=e4]:
+      - link "Home" [ref=e5] [cursor=pointer]:
+        - /url: ../index.html
+      - link "Library" [ref=e6] [cursor=pointer]:
+        - /url: ../library.html
+      - link "My Books" [ref=e7] [cursor=pointer]:
+        - /url: ../bookshelf.html
+  - generic [ref=e9]:
+    - generic [ref=e11]: Stargazer's Quest
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e16]: 🗺️
+        - generic [ref=e17]:
+          - generic [ref=e18]: Adventure
+          - heading "Stargazer's Quest" [level=2] [ref=e19]
+          - generic [ref=e20]:
+            - generic [ref=e21]: 📜 10 Chapters
+            - generic [ref=e22]: 👥 3 Characters
+          - generic [ref=e23]:
+            - link "Start Reading" [ref=e24] [cursor=pointer]:
+              - /url: ../chapter.html?id=chapter-adv001-01-en&is_preset=1
+            - button "Import" [active] [ref=e25] [cursor=pointer]
+      - generic [ref=e26]:
+        - button "📜 Chapters" [ref=e27] [cursor=pointer]
+        - button "👥 Characters" [ref=e28] [cursor=pointer]
+      - generic [ref=e30]:
+        - link "Ch. I A Lucky Beginning" [ref=e31] [cursor=pointer]:
+          - /url: ../chapter.html?id=chapter-adv001-01-en&is_preset=1
+          - generic [ref=e32]: Ch. I
+          - generic [ref=e34]: A Lucky Beginning
+        - link "Ch. II The Mysterious Island" [ref=e35] [cursor=pointer]:
+          - /url: ../chapter.html?id=chapter-adv001-02-en&is_preset=1
+          - generic [ref=e36]: Ch. II
+          - generic [ref=e38]: The Mysterious Island
+        - link "Ch. III Signal from the Forest" [ref=e39] [cursor=pointer]:
+          - /url: ../chapter.html?id=chapter-adv001-03-en&is_preset=1
+          - generic [ref=e40]: Ch. III
+          - generic [ref=e42]: Signal from the Forest
+        - link "Ch. IV Through the Canyon" [ref=e43] [cursor=pointer]:
+          - /url: ../chapter.html?id=chapter-adv001-04-en&is_preset=1
+          - generic [ref=e44]: Ch. IV
+          - generic [ref=e46]: Through the Canyon
+        - link "Ch. V Secret of the Cave" [ref=e47] [cursor=pointer]:
+          - /url: ../chapter.html?id=chapter-adv001-05-en&is_preset=1
+          - generic [ref=e48]: Ch. V
+          - generic [ref=e50]: Secret of the Cave
+    - generic [ref=e54]:
+      - link "Ch. VI Snow Mountain Challenge" [ref=e55] [cursor=pointer]:
+        - /url: ../chapter.html?id=chapter-adv001-06-en&is_preset=1
+        - generic [ref=e56]: Ch. VI
+        - generic [ref=e58]: Snow Mountain Challenge
+      - link "Ch. VII Thunderstorm Warning" [ref=e59] [cursor=pointer]:
+        - /url: ../chapter.html?id=chapter-adv001-07-en&is_preset=1
+        - generic [ref=e60]: Ch. VII
+        - generic [ref=e62]: Thunderstorm Warning
+      - link "Ch. VIII Discovery Under the Stars" [ref=e63] [cursor=pointer]:
+        - /url: ../chapter.html?id=chapter-adv001-08-en&is_preset=1
+        - generic [ref=e64]: Ch. VIII
+        - generic [ref=e66]: Discovery Under the Stars
+      - link "Ch. IX Treasure Behind the Waterfall" [ref=e67] [cursor=pointer]:
+        - /url: ../chapter.html?id=chapter-adv001-09-en&is_preset=1
+        - generic [ref=e68]: Ch. IX
+        - generic [ref=e70]: Treasure Behind the Waterfall
+      - link "Ch. X The Explorer's Oath" [ref=e71] [cursor=pointer]:
+        - /url: ../chapter.html?id=chapter-adv001-10-en&is_preset=1
+        - generic [ref=e72]: Ch. X
+        - generic [ref=e74]: The Explorer's Oath
+```
