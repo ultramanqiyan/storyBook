@@ -426,7 +426,7 @@
                 <span>👥 3 Characters</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapter.html?id=chapter-adv001-01-en&is_preset=1" class="action-btn">Start Reading</a>
+                <a href="../chapters/chapter-adv001-01-en.html" class="action-btn">Start Reading</a>
                 <button class="action-btn" onclick="importPresetBook()">Import</button>
               </div>
             </div>
@@ -440,31 +440,31 @@
           <div id="leftPageContent">
             <div class="chapter-toc">
               
-                <a href="../chapter.html?id=chapter-adv001-01-en&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0s backwards;">
+                <a href="../chapters/chapter-adv001-01-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0s backwards;">
                   <span class="chapter-number">Ch. I</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">A Lucky Beginning</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-adv001-02-en&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.1s backwards;">
+                <a href="../chapters/chapter-adv001-02-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.1s backwards;">
                   <span class="chapter-number">Ch. II</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">The Mysterious Island</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-adv001-03-en&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.2s backwards;">
+                <a href="../chapters/chapter-adv001-03-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.2s backwards;">
                   <span class="chapter-number">Ch. III</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Signal from the Forest</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-adv001-04-en&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
+                <a href="../chapters/chapter-adv001-04-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
                   <span class="chapter-number">Ch. IV</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Through the Canyon</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-adv001-05-en&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                <a href="../chapters/chapter-adv001-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
                   <span class="chapter-number">Ch. V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Secret of the Cave</span>
@@ -484,31 +484,31 @@
           <div id="rightPageContent">
             <div class="chapter-toc">
               
-                <a href="../chapter.html?id=chapter-adv001-06-en&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                <a href="../chapters/chapter-adv001-06-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
                   <span class="chapter-number">Ch. VI</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Snow Mountain Challenge</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-adv001-07-en&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.6000000000000001s backwards;">
+                <a href="../chapters/chapter-adv001-07-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.6000000000000001s backwards;">
                   <span class="chapter-number">Ch. VII</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Thunderstorm Warning</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-adv001-08-en&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.7000000000000001s backwards;">
+                <a href="../chapters/chapter-adv001-08-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.7000000000000001s backwards;">
                   <span class="chapter-number">Ch. VIII</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Discovery Under the Stars</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-adv001-09-en&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.8s backwards;">
+                <a href="../chapters/chapter-adv001-09-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.8s backwards;">
                   <span class="chapter-number">Ch. IX</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Treasure Behind the Waterfall</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-adv001-10-en&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.9s backwards;">
+                <a href="../chapters/chapter-adv001-10-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.9s backwards;">
                   <span class="chapter-number">Ch. X</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">The Explorer's Oath</span>
@@ -574,7 +574,7 @@
       const isZh = 'en' === 'zh';
       
       leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapter.html?id=' + ch.chapterId + '&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+        '<a href="../chapters/' + ch.chapterId + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
           '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
           '<span class="chapter-dots"></span>' +
           '<span class="chapter-title">' + ch.title + '</span>' +
@@ -582,7 +582,7 @@
       ).join('') + '</div>';
       
       rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapter.html?id=' + ch.chapterId + '&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+        '<a href="../chapters/' + ch.chapterId + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
           '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
           '<span class="chapter-dots"></span>' +
           '<span class="chapter-title">' + ch.title + '</span>' +

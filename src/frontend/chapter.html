@@ -187,10 +187,30 @@
     }
     
     .page-text {
-      height: calc(100% - 100px);
-      overflow: hidden;
+      height: calc(100% - 80px);
+      overflow-y: auto;
+      overflow-x: hidden;
       line-height: 1.8;
       font-size: 18px;
+      padding-bottom: 20px;
+    }
+    
+    .page-text::-webkit-scrollbar {
+      width: 6px;
+    }
+    
+    .page-text::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.1);
+      border-radius: 3px;
+    }
+    
+    .page-text::-webkit-scrollbar-thumb {
+      background: rgba(139, 90, 43, 0.4);
+      border-radius: 3px;
+    }
+    
+    .page-text::-webkit-scrollbar-thumb:hover {
+      background: rgba(139, 90, 43, 0.6);
     }
     
     .page-indicator {
@@ -364,6 +384,33 @@
     .scroll-nav-btn:disabled {
       opacity: 0.5;
       cursor: not-allowed;
+    }
+    
+    .puzzle-trigger {
+      text-align: center;
+      margin-top: 30px;
+      padding: 20px 10px;
+      background: linear-gradient(180deg, rgba(139, 90, 43, 0.1) 0%, transparent 100%);
+      border-radius: 8px;
+    }
+    
+    .puzzle-trigger .scroll-nav-btn {
+      animation: pulse-glow 2s ease-in-out infinite;
+    }
+    
+    @keyframes pulse-glow {
+      0%, 100% {
+        box-shadow: 
+          0 3px 0 #654321,
+          0 5px 10px rgba(0, 0, 0, 0.2),
+          0 0 0 rgba(255, 215, 0, 0);
+      }
+      50% {
+        box-shadow: 
+          0 3px 0 #654321,
+          0 5px 10px rgba(0, 0, 0, 0.2),
+          0 0 20px rgba(255, 215, 0, 0.4);
+      }
     }
     
     .reading-nav-bar {
@@ -1192,7 +1239,7 @@
             const isLastPageOfChapter = pageInChapter === chapterPages.length - 1;
             if (isLastPageOfChapter && chapter.puzzle_id && !isPresetChapter) {
               content += `
-                <div class="puzzle-trigger" style="text-align: center; margin-top: 30px;">
+                <div class="puzzle-trigger">
                   <button class="scroll-nav-btn" onclick="showPuzzle()">
                     🧩 Solve the Guardian's Riddle
                   </button>

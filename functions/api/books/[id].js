@@ -15,13 +15,17 @@ export async function onRequestGet(context) {
       return createErrorResponse('书籍不存在', 404);
     }
 
-    const characters = await env.DB.prepare(
-      'SELECT * FROM characters WHERE book_id = ? ORDER BY is_protagonist DESC'
-    ).bind(bookId).all();
-
-    const chapters = await env.DB.prepare(
-      'SELECT c.*, p.is_solved FROM chapters c LEFT JOIN puzzles p ON c.chapter_id = p.chapter_id WHERE c.book_id = ? ORDER BY c.order_num ASC'
-    ).bind(bookId).all();
+    const [characters, chapters, plotCards] = await Promise.all([
+      env.DB.prepare(
+        'SELECT * FROM characters WHERE book_id = ? ORDER BY is_protagonist DESC'
+      ).bind(bookId).all(),
+      env.DB.prepare(
+        'SELECT c.*, p.is_solved FROM chapters c LEFT JOIN puzzles p ON c.chapter_id = p.chapter_id WHERE c.book_id = ? ORDER BY c.order_num ASC'
+      ).bind(bookId).all(),
+      env.DB.prepare(
+        'SELECT * FROM plot_cards WHERE book_id = ? ORDER BY type, sub_type, created_at ASC'
+      ).bind(bookId).all()
+    ]);
 
     const chaptersWithStatus = (chapters.results || []).map((chapter, index) => {
       return {
@@ -33,7 +37,8 @@ export async function onRequestGet(context) {
     return createSuccessResponse({
       ...book,
       characters: characters.results,
-      chapters: chaptersWithStatus
+      chapters: chaptersWithStatus,
+      plot_cards: plotCards.results
     });
   } catch (error) {
     return createErrorResponse(error.message, 500);

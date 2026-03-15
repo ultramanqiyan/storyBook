@@ -5,9 +5,13 @@ export async function onRequestGet(context) {
   const lang = getLanguage(context);
 
   try {
-    const results = await env.DB.prepare(
-      'SELECT * FROM books WHERE is_preset = 1 AND language = ? ORDER BY created_at DESC'
-    ).bind(lang).all();
+    const results = await env.DB.prepare(`
+      SELECT b.*, 
+        (SELECT COUNT(*) FROM chapters WHERE book_id = b.book_id) as chapter_count
+      FROM books b 
+      WHERE b.is_preset = 1 AND b.language = ? 
+      ORDER BY b.created_at DESC
+    `).bind(lang).all();
 
     return createSuccessResponse(results.results);
   } catch (error) {

@@ -16,7 +16,7 @@
       { "name": "雷电", "icon": "⛈️", "description": "电闪雷鸣" },
       { "name": "阴天", "icon": "🌥️", "description": "阴沉的天空" },
       { "name": "沙尘", "icon": "🌪️", "description": "漫天沙尘" },
-      { "name": "雾霾", "icon": "🌫️", "description": "朦胧的雾霾" },
+      { "name": "雾霾", "icon": "😷", "description": "朦胧的雾霾" },
       { "name": "流星雨", "icon": "🌠", "description": "璀璨的流星雨" },
       { "name": "极光", "icon": "🌌", "description": "绚丽的极光" },
       { "name": "月食", "icon": "🌚", "description": "神秘的月食" },
@@ -41,7 +41,7 @@
       { "name": "洞穴", "icon": "🪨", "description": "幽暗的洞穴" },
       { "name": "瀑布", "icon": "💦", "description": "壮观的瀑布" },
       { "name": "沙漠", "icon": "🏜️", "description": "无垠的沙漠" },
-      { "name": "雪山", "icon": "🏔️", "description": "皑皑雪山" },
+      { "name": "雪山", "icon": "🗻", "description": "皑皑雪山" },
       { "name": "热带雨林", "icon": "🌴", "description": "茂密的热带雨林" }
     ],
     "adventure": [
@@ -86,7 +86,7 @@
       { "name": "音箱", "icon": "🔊", "description": "播放音乐" },
       { "name": "无人机", "icon": "🛸", "description": "空中侦察" },
       { "name": "显微镜", "icon": "🔬", "description": "观察微观世界" },
-      { "name": "天文望远镜", "icon": "🔭", "description": "观察星空" }
+      { "name": "天文望远镜", "icon": "🌌", "description": "观察星空" }
     ]
   },
   "fantasy": {
@@ -95,7 +95,7 @@
       { "name": "血月", "icon": "🔴", "description": "神秘的血月之夜" },
       { "name": "极光", "icon": "🌌", "description": "绚丽的魔法极光" },
       { "name": "元素乱流", "icon": "⚡", "description": "元素能量涌动" },
-      { "name": "时空裂隙", "icon": "🌀", "description": "时空扭曲的裂缝" },
+      { "name": "时空裂隙", "icon": "🕳️", "description": "时空扭曲的裂缝" },
       { "name": "星辰坠落", "icon": "💫", "description": "星辰从天而降" },
       { "name": "永恒黄昏", "icon": "🌆", "description": "永不消逝的黄昏" },
       { "name": "灵魂雾", "icon": "👻", "description": "充满灵魂的迷雾" },
@@ -107,8 +107,8 @@
       { "name": "精灵光", "icon": "🧚", "description": "精灵的光芒" },
       { "name": "恶魔雾", "icon": "😈", "description": "恶魔的气息" },
       { "name": "龙息云", "icon": "🐉", "description": "巨龙吐息形成的云" },
-      { "name": "传送门光", "icon": "🌀", "description": "传送门的神秘光芒" },
-      { "name": "觉醒之光", "icon": "💫", "description": "力量觉醒的光芒" },
+      { "name": "传送门光", "icon": "🚪", "description": "传送门的神秘光芒" },
+      { "name": "觉醒之光", "icon": "🌟", "description": "力量觉醒的光芒" },
       { "name": "末日景象", "icon": "🌋", "description": "末日的预兆" },
       { "name": "创世晨曦", "icon": "🌅", "description": "创世之初的光芒" }
     ],
@@ -127,7 +127,7 @@
       { "name": "兽人领地", "icon": "👹", "description": "兽人的地盘" },
       { "name": "亡灵陵园", "icon": "💀", "description": "亡灵的安息地" },
       { "name": "神殿", "icon": "⛩️", "description": "神圣的殿堂" },
-      { "name": "异世界", "icon": "🌀", "description": "另一个维度" },
+      { "name": "异世界", "icon": "🌐", "description": "另一个维度" },
       { "name": "镜像空间", "icon": "🪞", "description": "镜像的世界" },
       { "name": "时间裂缝", "icon": "⏳", "description": "时间扭曲之地" },
       { "name": "元素位面", "icon": "🔥", "description": "元素的世界" },
@@ -192,7 +192,7 @@
       { "name": "雾凇", "icon": "🌫️", "description": "朦胧的雾气" },
       { "name": "流星", "icon": "🌠", "description": "划过天际的流星" },
       { "name": "黄昏", "icon": "🌆", "description": "温柔的黄昏" },
-      { "name": "黎明", "icon": "🌅", "description": "新的一天开始" },
+      { "name": "黎明", "icon": "🌤️", "description": "新的一天开始" },
       { "name": "阴天", "icon": "☁️", "description": "阴沉的天空" },
       { "name": "雨天", "icon": "🌧️", "description": "淅淅沥沥的雨" },
       { "name": "晴天", "icon": "☀️", "description": "阳光明媚" },

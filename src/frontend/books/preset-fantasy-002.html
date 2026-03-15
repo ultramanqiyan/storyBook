@@ -426,7 +426,7 @@
                 <span>👥 3 角色</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapter.html?id=chapter-fan002-01&is_preset=1" class="action-btn">开始阅读</a>
+                <a href="../chapters/chapter-fan002-01.html" class="action-btn">开始阅读</a>
                 <button class="action-btn" onclick="importPresetBook()">导入书架</button>
               </div>
             </div>
@@ -440,31 +440,31 @@
           <div id="leftPageContent">
             <div class="chapter-toc">
               
-                <a href="../chapter.html?id=chapter-fan002-01&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0s backwards;">
+                <a href="../chapters/chapter-fan002-01.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0s backwards;">
                   <span class="chapter-number">第I</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">镜中的自己</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-fan002-02&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.1s backwards;">
+                <a href="../chapters/chapter-fan002-02.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.1s backwards;">
                   <span class="chapter-number">第II</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">另一个世界</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-fan002-03&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.2s backwards;">
+                <a href="../chapters/chapter-fan002-03.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.2s backwards;">
                   <span class="chapter-number">第III</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">两种人生</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-fan002-04&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
+                <a href="../chapters/chapter-fan002-04.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
                   <span class="chapter-number">第IV</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">交换的秘密</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-fan002-05&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                <a href="../chapters/chapter-fan002-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
                   <span class="chapter-number">第V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">时空的警告</span>
@@ -484,31 +484,31 @@
           <div id="rightPageContent">
             <div class="chapter-toc">
               
-                <a href="../chapter.html?id=chapter-fan002-06&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                <a href="../chapters/chapter-fan002-06.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
                   <span class="chapter-number">第VI</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">记忆的碎片</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-fan002-07&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.6000000000000001s backwards;">
+                <a href="../chapters/chapter-fan002-07.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.6000000000000001s backwards;">
                   <span class="chapter-number">第VII</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">融合的可能</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-fan002-08&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.7000000000000001s backwards;">
+                <a href="../chapters/chapter-fan002-08.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.7000000000000001s backwards;">
                   <span class="chapter-number">第VIII</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">最后的考验</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-fan002-09&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.8s backwards;">
+                <a href="../chapters/chapter-fan002-09.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.8s backwards;">
                   <span class="chapter-number">第IX</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">选择与牺牲</span>
                 </a>
               
-                <a href="../chapter.html?id=chapter-fan002-10&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.9s backwards;">
+                <a href="../chapters/chapter-fan002-10.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.9s backwards;">
                   <span class="chapter-number">第X</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">完整的自己</span>
@@ -574,7 +574,7 @@
       const isZh = 'zh' === 'zh';
       
       leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapter.html?id=' + ch.chapterId + '&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+        '<a href="../chapters/' + ch.chapterId + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
           '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
           '<span class="chapter-dots"></span>' +
           '<span class="chapter-title">' + ch.title + '</span>' +
@@ -582,7 +582,7 @@
       ).join('') + '</div>';
       
       rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapter.html?id=' + ch.chapterId + '&is_preset=1" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+        '<a href="../chapters/' + ch.chapterId + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
           '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
           '<span class="chapter-dots"></span>' +
           '<span class="chapter-title">' + ch.title + '</span>' +

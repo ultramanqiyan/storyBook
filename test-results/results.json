@@ -1,0 +1,330 @@
+{
+  "config": {
+    "configFile": "D:\\trae_job\\storyBook\\playwright.config.js",
+    "rootDir": "D:/trae_job/storyBook/tests/e2e",
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "projects": [
+      {
+        "outputDir": "D:/trae_job/storyBook/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "chromium",
+        "name": "chromium",
+        "testDir": "D:/trae_job/storyBook/tests/e2e",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      }
+    ],
+    "quiet": false,
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "test-results/results.json"
+        }
+      ],
+      [
+        "html",
+        {
+          "outputFolder": "playwright-report",
+          "open": "never"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "runAgents": "none",
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "patch",
+    "version": "1.58.2",
+    "workers": 1,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "bug-fix-verification.spec.js",
+      "file": "bug-fix-verification.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "Bug Fix Verification Tests",
+          "file": "bug-fix-verification.spec.js",
+          "line": 5,
+          "column": 6,
+          "specs": [
+            {
+              "title": "问题2验证: 公共图书馆章节数正确显示",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 1072,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "Found 8 books in library\n"
+                        },
+                        {
+                          "text": "Book: Stargazer's Quest, Info: 10 chapters\n"
+                        },
+                        {
+                          "text": "  ✅ Chapter count: 10\n"
+                        },
+                        {
+                          "text": "Book: The Deep Sea Explorers, Info: 10 chapters\n"
+                        },
+                        {
+                          "text": "  ✅ Chapter count: 10\n"
+                        },
+                        {
+                          "text": "Book: The Academy of Smart Magic, Info: 10 chapters\n"
+                        },
+                        {
+                          "text": "  ✅ Chapter count: 10\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2026-03-15T11:08:22.770Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "00ea2a7ea8c1b50c3fb9-0f262c68dac77404a93b",
+              "file": "bug-fix-verification.spec.js",
+              "line": 7,
+              "column": 3
+            },
+            {
+              "title": "问题3验证: 预设图书导入后情节卡牌可见",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 291,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "Book data includes plot_cards: \u001b[33mtrue\u001b[39m\n"
+                        },
+                        {
+                          "text": "Plot cards count: \u001b[33m4\u001b[39m\n"
+                        },
+                        {
+                          "text": "\nSample plot cards:\n"
+                        },
+                        {
+                          "text": "  Magic Test: 📝\n"
+                        },
+                        {
+                          "text": "  Magic Wand: 🪄\n"
+                        },
+                        {
+                          "text": "  Magic Tower: 🗼\n"
+                        },
+                        {
+                          "text": "  Aurora: 🌌\n"
+                        },
+                        {
+                          "text": "\nUnique icons: 4 out of 4 cards\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2026-03-15T11:08:24.303Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "00ea2a7ea8c1b50c3fb9-d1b3f7d755d2fd484921",
+              "file": "bug-fix-verification.spec.js",
+              "line": 36,
+              "column": 3
+            },
+            {
+              "title": "问题4验证: 章节有puzzle_id",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 282,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "Chapters count: \u001b[33m10\u001b[39m\n"
+                        },
+                        {
+                          "text": "Chapters with puzzle: \u001b[33m3\u001b[39m\n"
+                        },
+                        {
+                          "text": "  Chapter 3: puzzle_id = puzzle-adv001-01-en\n"
+                        },
+                        {
+                          "text": "  Chapter 5: puzzle_id = puzzle-adv001-02-en\n"
+                        },
+                        {
+                          "text": "  Chapter 8: puzzle_id = puzzle-adv001-03-en\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2026-03-15T11:08:24.622Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "00ea2a7ea8c1b50c3fb9-062f6930b75192eea418",
+              "file": "bug-fix-verification.spec.js",
+              "line": 56,
+              "column": 3
+            },
+            {
+              "title": "问题1验证: 情节牌EMOJI各不相同",
+              "ok": false,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "failed",
+                      "duration": 17113,
+                      "error": {
+                        "message": "TimeoutError: page.waitForURL: Timeout 15000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation until \"load\"\n============================================================",
+                        "stack": "TimeoutError: page.waitForURL: Timeout 15000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation until \"load\"\n============================================================\n    at D:\\trae_job\\storyBook\\tests\\e2e\\bug-fix-verification.spec.js:86:16",
+                        "location": {
+                          "file": "D:\\trae_job\\storyBook\\tests\\e2e\\bug-fix-verification.spec.js",
+                          "column": 16,
+                          "line": 86
+                        },
+                        "snippet": "\u001b[0m \u001b[90m 84 |\u001b[39m     })\u001b[33m;\u001b[39m\n \u001b[90m 85 |\u001b[39m     \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 86 |\u001b[39m     \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mwaitForURL(\u001b[35m/bookshelf\\.html/\u001b[39m\u001b[33m,\u001b[39m { timeout\u001b[33m:\u001b[39m \u001b[35m15000\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 87 |\u001b[39m     console\u001b[33m.\u001b[39mlog(\u001b[32m'Logged in successfully'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 88 |\u001b[39m     \n \u001b[90m 89 |\u001b[39m     \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgoto(\u001b[32m`${BASE_URL}/book-create.html`\u001b[39m)\u001b[33m;\u001b[39m\u001b[0m"
+                      },
+                      "errors": [
+                        {
+                          "location": {
+                            "file": "D:\\trae_job\\storyBook\\tests\\e2e\\bug-fix-verification.spec.js",
+                            "column": 16,
+                            "line": 86
+                          },
+                          "message": "TimeoutError: page.waitForURL: Timeout 15000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation until \"load\"\n============================================================\n\n\u001b[0m \u001b[90m 84 |\u001b[39m     })\u001b[33m;\u001b[39m\n \u001b[90m 85 |\u001b[39m     \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 86 |\u001b[39m     \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mwaitForURL(\u001b[35m/bookshelf\\.html/\u001b[39m\u001b[33m,\u001b[39m { timeout\u001b[33m:\u001b[39m \u001b[35m15000\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 87 |\u001b[39m     console\u001b[33m.\u001b[39mlog(\u001b[32m'Logged in successfully'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 88 |\u001b[39m     \n \u001b[90m 89 |\u001b[39m     \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgoto(\u001b[32m`${BASE_URL}/book-create.html`\u001b[39m)\u001b[33m;\u001b[39m\u001b[0m\n\u001b[2m    at D:\\trae_job\\storyBook\\tests\\e2e\\bug-fix-verification.spec.js:86:16\u001b[22m"
+                        }
+                      ],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2026-03-15T11:08:24.924Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "D:\\trae_job\\storyBook\\test-results\\bug-fix-verification-Bug-F-8962f-on-Tests-问题1验证-情节牌EMOJI各不相同-chromium\\test-failed-1.png"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "D:\\trae_job\\storyBook\\test-results\\bug-fix-verification-Bug-F-8962f-on-Tests-问题1验证-情节牌EMOJI各不相同-chromium\\error-context.md"
+                        }
+                      ],
+                      "errorLocation": {
+                        "file": "D:\\trae_job\\storyBook\\tests\\e2e\\bug-fix-verification.spec.js",
+                        "column": 16,
+                        "line": 86
+                      }
+                    }
+                  ],
+                  "status": "unexpected"
+                }
+              ],
+              "id": "00ea2a7ea8c1b50c3fb9-f88cbbb0eee463b6c2be",
+              "file": "bug-fix-verification.spec.js",
+              "line": 72,
+              "column": 3
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-03-15T11:08:20.962Z",
+    "duration": 21464.867000000002,
+    "expected": 3,
+    "skipped": 0,
+    "unexpected": 1,
+    "flaky": 0
+  }
+}

@@ -16,7 +16,7 @@
       { "name": "Thunderstorm", "icon": "⛈️", "description": "Lightning and thunder" },
       { "name": "Cloudy", "icon": "🌥️", "description": "Overcast sky" },
       { "name": "Dust Storm", "icon": "🌪️", "description": "Sand and dust everywhere" },
-      { "name": "Fog", "icon": "🌫️", "description": "Hazy fog" },
+      { "name": "Fog", "icon": "😷", "description": "Hazy fog" },
       { "name": "Meteor Shower", "icon": "🌠", "description": "Brilliant meteors" },
       { "name": "Aurora", "icon": "🌌", "description": "Beautiful northern lights" },
       { "name": "Lunar Eclipse", "icon": "🌚", "description": "Mysterious lunar eclipse" },
@@ -41,7 +41,7 @@
       { "name": "Cavern", "icon": "🪨", "description": "Dark cavern" },
       { "name": "Waterfall", "icon": "💦", "description": "Magnificent waterfall" },
       { "name": "Desert", "icon": "🏜️", "description": "Endless desert" },
-      { "name": "Snow Mountain", "icon": "🏔️", "description": "Snowy mountain" },
+      { "name": "Snow Mountain", "icon": "🗻", "description": "Snowy mountain" },
       { "name": "Rainforest", "icon": "🌴", "description": "Dense rainforest" }
     ],
     "adventure": [
@@ -86,7 +86,7 @@
       { "name": "Speaker", "icon": "🔊", "description": "Play music" },
       { "name": "Drone", "icon": "🛸", "description": "Aerial reconnaissance" },
       { "name": "Microscope", "icon": "🔬", "description": "Observe microscopic world" },
-      { "name": "Astronomical Telescope", "icon": "🔭", "description": "Observe the stars" }
+      { "name": "Astronomical Telescope", "icon": "🌌", "description": "Observe the stars" }
     ]
   },
   "fantasy": {
@@ -95,7 +95,7 @@
       { "name": "Blood Moon", "icon": "🔴", "description": "Mysterious blood moon night" },
       { "name": "Aurora", "icon": "🌌", "description": "Beautiful magical aurora" },
       { "name": "Elemental Turbulence", "icon": "⚡", "description": "Surging elemental energy" },
-      { "name": "Time Rift", "icon": "🌀", "description": "Distorted time-space fissure" },
+      { "name": "Time Rift", "icon": "🕳️", "description": "Distorted time-space fissure" },
       { "name": "Falling Stars", "icon": "💫", "description": "Stars falling from sky" },
       { "name": "Eternal Dusk", "icon": "🌆", "description": "Never-ending dusk" },
       { "name": "Soul Fog", "icon": "👻", "description": "Fog filled with souls" },
@@ -107,8 +107,8 @@
       { "name": "Fairy Light", "icon": "🧚", "description": "Fairy radiance" },
       { "name": "Demon Fog", "icon": "😈", "description": "Demonic presence" },
       { "name": "Dragon Breath Cloud", "icon": "🐉", "description": "Clouds from dragon's breath" },
-      { "name": "Portal Light", "icon": "🌀", "description": "Mysterious portal glow" },
-      { "name": "Awakening Light", "icon": "💫", "description": "Light of power awakening" },
+      { "name": "Portal Light", "icon": "🚪", "description": "Mysterious portal glow" },
+      { "name": "Awakening Light", "icon": "🌟", "description": "Light of power awakening" },
       { "name": "Apocalypse Vision", "icon": "🌋", "description": "Signs of doomsday" },
       { "name": "Genesis Dawn", "icon": "🌅", "description": "Light of creation" }
     ],
@@ -127,7 +127,7 @@
       { "name": "Orc Territory", "icon": "👹", "description": "Orc domain" },
       { "name": "Undead Cemetery", "icon": "💀", "description": "Resting place of the undead" },
       { "name": "Temple", "icon": "⛩️", "description": "Sacred temple" },
-      { "name": "Otherworld", "icon": "🌀", "description": "Another dimension" },
+      { "name": "Otherworld", "icon": "🌐", "description": "Another dimension" },
       { "name": "Mirror Dimension", "icon": "🪞", "description": "Mirror world" },
       { "name": "Time Fissure", "icon": "⏳", "description": "Time-distorted place" },
       { "name": "Elemental Plane", "icon": "🔥", "description": "World of elements" },
@@ -192,7 +192,7 @@
       { "name": "Misty", "icon": "🌫️", "description": "Hazy mist" },
       { "name": "Shooting Star", "icon": "🌠", "description": "Meteor across the sky" },
       { "name": "Twilight", "icon": "🌆", "description": "Gentle twilight" },
-      { "name": "Dawn", "icon": "🌅", "description": "Beginning of a new day" },
+      { "name": "Dawn", "icon": "🌤️", "description": "Beginning of a new day" },
       { "name": "Cloudy", "icon": "☁️", "description": "Overcast sky" },
       { "name": "Rainy Day", "icon": "🌧️", "description": "Drizzling rain" },
       { "name": "Sunny Day", "icon": "☀️", "description": "Bright and sunny" },
@@ -244,7 +244,7 @@
       { "name": "Engagement", "icon": "💎", "description": "Making promises" },
       { "name": "Marriage", "icon": "💒", "description": "Getting married" },
       { "name": "Divorce", "icon": "💔", "description": "Painful separation" },
-      { "name": "Reconciliation", "icon": "💕", "description": "Getting back together" }
+      { "name": "Getting Back Together", "icon": "💕", "description": "Getting back together" }
     ],
     "equipment": [
       { "name": "Phone", "icon": "📱", "description": "Communication tool" },
