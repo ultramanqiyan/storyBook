@@ -3,31 +3,31 @@
 -- ============================================
 
 -- 预设书籍
-INSERT INTO books (book_id, user_id, title, type, is_preset) VALUES
+INSERT INTO books (book_id, user_id, title, type, is_preset, language) VALUES
 -- 儿童冒险 - 中文版
-('preset-adventure-001', 'system', '星空探险家', 'adventure', 1),
-('preset-adventure-002', 'system', '深海探险队', 'adventure', 1),
+('preset-adventure-001', 'system', '星空探险家', 'adventure', 1, 'zh'),
+('preset-adventure-002', 'system', '深海探险队', 'adventure', 1, 'zh'),
 -- 儿童冒险 - 英文版
-('preset-adventure-001-en', 'system', 'Stargazer''s Quest', 'adventure', 1),
-('preset-adventure-002-en', 'system', 'The Deep Sea Explorers', 'adventure', 1),
+('preset-adventure-001-en', 'system', 'Stargazer''s Quest', 'adventure', 1, 'en'),
+('preset-adventure-002-en', 'system', 'The Deep Sea Explorers', 'adventure', 1, 'en'),
 -- 魔幻传说 - 中文版
-('preset-fantasy-001', 'system', 'AI魔法学院', 'fantasy', 1),
-('preset-fantasy-002', 'system', '平行世界的我', 'fantasy', 1),
+('preset-fantasy-001', 'system', 'AI魔法学院', 'fantasy', 1, 'zh'),
+('preset-fantasy-002', 'system', '平行世界的我', 'fantasy', 1, 'zh'),
 -- 魔幻传说 - 英文版
-('preset-fantasy-001-en', 'system', 'The Academy of Smart Magic', 'fantasy', 1),
-('preset-fantasy-002-en', 'system', 'The Other Me', 'fantasy', 1),
+('preset-fantasy-001-en', 'system', 'The Academy of Smart Magic', 'fantasy', 1, 'en'),
+('preset-fantasy-002-en', 'system', 'The Other Me', 'fantasy', 1, 'en'),
 -- 都市言情 - 中文版
-('preset-romance-001', 'system', '代码恋人', 'romance', 1),
-('preset-romance-002', 'system', '算法姻缘', 'romance', 1),
+('preset-romance-001', 'system', '代码恋人', 'romance', 1, 'zh'),
+('preset-romance-002', 'system', '算法姻缘', 'romance', 1, 'zh'),
 -- 都市言情 - 英文版
-('preset-romance-001-en', 'system', 'Love in the Code', 'romance', 1),
-('preset-romance-002-en', 'system', 'Algorithm of Love', 'romance', 1),
+('preset-romance-001-en', 'system', 'Love in the Code', 'romance', 1, 'en'),
+('preset-romance-002-en', 'system', 'Algorithm of Love', 'romance', 1, 'en'),
 -- 职场风云 - 中文版
-('preset-business-001', 'system', '周报战争', 'business', 1),
-('preset-business-002', 'system', '副业狂想曲', 'business', 1),
+('preset-business-001', 'system', '周报战争', 'business', 1, 'zh'),
+('preset-business-002', 'system', '副业狂想曲', 'business', 1, 'zh'),
 -- 职场风云 - 英文版
-('preset-business-001-en', 'system', 'The Weekly Report Wars', 'business', 1),
-('preset-business-002-en', 'system', 'The Side Hustle Symphony', 'business', 1);
+('preset-business-001-en', 'system', 'The Weekly Report Wars', 'business', 1, 'en'),
+('preset-business-002-en', 'system', 'The Side Hustle Symphony', 'business', 1, 'en');
 
 -- ============================================
 -- 预设角色
@@ -1105,4 +1105,52 @@ INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, descriptio
 ('card-bus002-01', 'preset-business-002', 'weather', 'sunny', '晴天', '☀️', '晴朗的天气，新的开始'),
 ('card-bus002-02', 'preset-business-002', 'terrain', 'office', '办公室', '🏢', '忙碌的办公室，双重生活的起点'),
 ('card-bus002-03', 'preset-business-002', 'adventure', 'innovate', '创新', '💡', '技术创新，突破自我'),
-('card-bus002-04', 'preset-business-002', 'equipment', 'laptop', '笔记本电脑', '💻', '工作必备，创作的工具');
+('card-bus002-04', 'preset-business-002', 'equipment', 'laptop', '笔记本电脑', '💻', '工作必备，创作的工具'),
+
+-- English versions - Children's Adventure - Stargazer's Quest
+('card-adv001-01-en', 'preset-adventure-001-en', 'weather', 'sunny', 'Sunny', '☀️', 'Bright sunshine, perfect for outdoor adventures'),
+('card-adv001-02-en', 'preset-adventure-001-en', 'terrain', 'beach', 'Beach', '🏖️', 'Golden beach, discover ocean secrets'),
+('card-adv001-03-en', 'preset-adventure-001-en', 'adventure', 'treasure', 'Treasure Hunt', '🗺️', 'Search for hidden treasures, full of surprises'),
+('card-adv001-04-en', 'preset-adventure-001-en', 'equipment', 'telescope', 'Telescope', '🔭', 'Observe the distance, discover hidden clues'),
+
+-- English versions - Children's Adventure - The Deep Sea Explorers
+('card-adv002-01-en', 'preset-adventure-002-en', 'weather', 'sunny', 'Blue Sky', '🌤️', 'Clear blue sky, gentle sea breeze'),
+('card-adv002-02-en', 'preset-adventure-002-en', 'terrain', 'island', 'Island', '🏝️', 'Mysterious island, waiting to be explored'),
+('card-adv002-03-en', 'preset-adventure-002-en', 'adventure', 'rescue', 'Rescue', '🆘', 'Rescue trapped friends, show courage'),
+('card-adv002-04-en', 'preset-adventure-002-en', 'equipment', 'camera', 'Camera', '📷', 'Capture beautiful moments'),
+
+-- English versions - Fantasy Legend - The Academy of Smart Magic
+('card-fan001-01-en', 'preset-fantasy-001-en', 'weather', 'aurora', 'Aurora', '🌌', 'Magical aurora, full of enchantment'),
+('card-fan001-02-en', 'preset-fantasy-001-en', 'terrain', 'tower', 'Magic Tower', '🗼', 'Towering magic tower, where magic is learned'),
+('card-fan001-03-en', 'preset-fantasy-001-en', 'adventure', 'test', 'Magic Test', '📝', 'Pass the magic trial, prove your power'),
+('card-fan001-04-en', 'preset-fantasy-001-en', 'equipment', 'wand', 'Magic Wand', '🪄', 'Essential tool for casting spells'),
+
+-- English versions - Fantasy Legend - The Other Me
+('card-fan002-01-en', 'preset-fantasy-002-en', 'weather', 'portal', 'Time Rift', '🌀', 'Distorted space-time rift, gateway to another world'),
+('card-fan002-02-en', 'preset-fantasy-002-en', 'terrain', 'mirror', 'Mirror Dimension', '🪞', 'Mirror world, another version of yourself'),
+('card-fan002-03-en', 'preset-fantasy-002-en', 'adventure', 'travel', 'Dimension Travel', '🌀', 'Cross to another world, explore the unknown'),
+('card-fan002-04-en', 'preset-fantasy-002-en', 'equipment', 'amulet', 'Amulet', '🧿', 'Protects the wearer from danger'),
+
+-- English versions - Urban Romance - Love in the Code
+('card-rom001-01-en', 'preset-romance-001-en', 'weather', 'neon', 'Neon Lights', '🌃', 'City neon lights, romantic evening'),
+('card-rom001-02-en', 'preset-romance-001-en', 'terrain', 'office', 'Office', '🏢', 'Busy office, where the story begins'),
+('card-rom001-03-en', 'preset-romance-001-en', 'adventure', 'encounter', 'Chance Meeting', '💫', 'Fateful encounter, the start of love'),
+('card-rom001-04-en', 'preset-romance-001-en', 'equipment', 'phone', 'Phone', '📱', 'Tool for connection, conveying feelings'),
+
+-- English versions - Urban Romance - Algorithm of Love
+('card-rom002-01-en', 'preset-romance-002-en', 'weather', 'sunny', 'Sunny', '☀️', 'Bright sunshine, perfect for a date'),
+('card-rom002-02-en', 'preset-romance-002-en', 'terrain', 'cafe', 'Cafe', '☕', 'Cozy cafe, romantic date spot'),
+('card-rom002-03-en', 'preset-romance-002-en', 'adventure', 'date', 'Date', '🌹', 'Sweet date, deepen the bond'),
+('card-rom002-04-en', 'preset-romance-002-en', 'equipment', 'camera', 'Camera', '📷', 'Capture beautiful moments, create memories'),
+
+-- English versions - Corporate Drama - The Weekly Report Wars
+('card-bus001-01-en', 'preset-business-001-en', 'weather', 'cloudy', 'Cloudy', '☁️', 'Overcast sky, workplace is a battlefield'),
+('card-bus001-02-en', 'preset-business-001-en', 'terrain', 'office', 'Office', '🏢', 'Busy office, the weekly report battlefield'),
+('card-bus001-03-en', 'preset-business-001-en', 'adventure', 'negotiate', 'Negotiation', '🤝', 'Business negotiation, showcase your skills'),
+('card-bus001-04-en', 'preset-business-001-en', 'equipment', 'laptop', 'Laptop', '💻', 'Essential for work, weapon of battle'),
+
+-- English versions - Corporate Drama - The Side Hustle Symphony
+('card-bus002-01-en', 'preset-business-002-en', 'weather', 'sunny', 'Sunny', '☀️', 'Clear weather, a new beginning'),
+('card-bus002-02-en', 'preset-business-002-en', 'terrain', 'office', 'Office', '🏢', 'Busy office, starting point of dual life'),
+('card-bus002-03-en', 'preset-business-002-en', 'adventure', 'innovate', 'Innovation', '💡', 'Technical innovation, break through limits'),
+('card-bus002-04-en', 'preset-business-002-en', 'equipment', 'laptop', 'Laptop', '💻', 'Essential for work, tool for creation');

@@ -14,6 +14,7 @@ CREATE TABLE IF NOT EXISTS books (
     title TEXT NOT NULL,
     type TEXT NOT NULL,
     is_preset INTEGER NOT NULL DEFAULT 0,
+    language TEXT NOT NULL DEFAULT 'zh',
     created_at TEXT NOT NULL DEFAULT (datetime('now')),
     updated_at TEXT NOT NULL DEFAULT (datetime('now'))
 );
@@ -77,6 +78,7 @@ CREATE UNIQUE INDEX IF NOT EXISTS idx_users_email ON users(email);
 CREATE INDEX IF NOT EXISTS idx_books_user_id ON books(user_id);
 CREATE INDEX IF NOT EXISTS idx_books_type ON books(type);
 CREATE INDEX IF NOT EXISTS idx_books_is_preset ON books(is_preset);
+CREATE INDEX IF NOT EXISTS idx_books_language ON books(language);
 CREATE INDEX IF NOT EXISTS idx_characters_book_id ON characters(book_id);
 CREATE INDEX IF NOT EXISTS idx_characters_is_protagonist ON characters(is_protagonist);
 CREATE INDEX IF NOT EXISTS idx_plot_cards_book_id ON plot_cards(book_id);

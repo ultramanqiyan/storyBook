@@ -161,40 +161,35 @@ test.describe('i18n - updatePageTitle() Function', () => {
 });
 
 test.describe('i18n - Config Files', () => {
-  test('should load English config files', async ({ page }) => {
-    const response = await page.request.get('/config/en/book-types.json');
-    if (response.status() === 200) {
-      const data = await response.json();
-      expect(data.types).toBeDefined();
-      expect(data.types.length).toBeGreaterThan(0);
-    } else {
-      expect(true).toBe(true);
-    }
+  test('should load English config via API', async ({ page }) => {
+    const response = await page.request.get('/api/config/book-types?lang=en');
+    expect(response.status()).toBe(200);
+    const data = await response.json();
+    expect(data.success).toBe(true);
+    expect(data.data.types).toBeDefined();
+    expect(data.data.types.length).toBeGreaterThan(0);
   });
 
-  test('should load Chinese config files', async ({ page }) => {
-    const response = await page.request.get('/config/zh/book-types.json');
-    if (response.status() === 200) {
-      const data = await response.json();
-      expect(data.types).toBeDefined();
-      expect(data.types.length).toBeGreaterThan(0);
-    } else {
-      expect(true).toBe(true);
-    }
+  test('should load Chinese config via API', async ({ page }) => {
+    const response = await page.request.get('/api/config/book-types?lang=zh');
+    expect(response.status()).toBe(200);
+    const data = await response.json();
+    expect(data.success).toBe(true);
+    expect(data.data.types).toBeDefined();
+    expect(data.data.types.length).toBeGreaterThan(0);
   });
 
-  test('should have matching structure in config files', async ({ page }) => {
-    const enResponse = await page.request.get('/config/en/personality.json');
-    const zhResponse = await page.request.get('/config/zh/personality.json');
+  test('should have matching structure in API responses', async ({ page }) => {
+    const enResponse = await page.request.get('/api/config/personality?lang=en');
+    const zhResponse = await page.request.get('/api/config/personality?lang=zh');
     
-    if (enResponse.status() === 200 && zhResponse.status() === 200) {
-      const enData = await enResponse.json();
-      const zhData = await zhResponse.json();
-      
-      expect(enData.personality.length).toBe(zhData.personality.length);
-    } else {
-      expect(true).toBe(true);
-    }
+    expect(enResponse.status()).toBe(200);
+    expect(zhResponse.status()).toBe(200);
+    
+    const enData = await enResponse.json();
+    const zhData = await zhResponse.json();
+    
+    expect(enData.data.personality.length).toBe(zhData.data.personality.length);
   });
 });
 

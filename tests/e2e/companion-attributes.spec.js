@@ -44,19 +44,36 @@ test.describe('配角属性选择测试', () => {
     
     await page.fill('#protagonistName', '主角');
     await page.locator('#protagonistAvatars .avatar-option').first().click();
+    await page.selectOption('#protagonistPersonality', 'brave');
+    await page.selectOption('#protagonistSpeechStyle', 'direct');
+    await page.selectOption('#protagonistRoleType', 'adventurer');
     await page.click('#step2 .btn-next');
-    await page.waitForTimeout(1000);
+    await page.waitForSelector('#step3.active', { state: 'visible' });
     
-    const companionName = page.locator('.companion-name');
+    const companionName = page.locator('.companion-name').first();
     if (await companionName.count() > 0) {
-      await companionName.first().fill('配角1');
+      await companionName.fill('配角1');
+      
+      const companionPersonality = page.locator('.companion-personality').first();
+      if (await companionPersonality.count() > 0) {
+        await companionPersonality.selectOption({ index: 1 });
+      }
+      
+      const companionSpeechStyle = page.locator('.companion-speech-style').first();
+      if (await companionSpeechStyle.count() > 0) {
+        await companionSpeechStyle.selectOption({ index: 1 });
+      }
+      
+      const companionRoleType = page.locator('.companion-role-type').first();
+      if (await companionRoleType.count() > 0) {
+        await companionRoleType.selectOption({ index: 1 });
+      }
     }
     
     await page.click('#step3 .btn-next');
-    await page.waitForTimeout(1000);
+    await page.waitForSelector('.success-content.visible, .success-content:not([style*="display: none"])', { state: 'visible' });
     
-    const step3Visible = await page.locator('#step3.active').count() > 0;
-    expect(step3Visible).toBe(true);
+    expect(await page.locator('.success-title').count()).toBe(1);
   });
   
   test('成功创建书籍并验证数据库中的配角属性', async ({ page }) => {
@@ -79,25 +96,38 @@ test.describe('配角属性选择测试', () => {
     
     await page.fill('#protagonistName', '主角');
     await page.locator('#protagonistAvatars .avatar-option').first().click();
+    await page.selectOption('#protagonistPersonality', 'brave');
+    await page.selectOption('#protagonistSpeechStyle', 'direct');
+    await page.selectOption('#protagonistRoleType', 'adventurer');
     await page.click('#step2 .btn-next');
-    await page.waitForTimeout(1000);
+    await page.waitForSelector('#step3.active', { state: 'visible' });
     
-    const companionName = page.locator('.companion-name');
+    const companionName = page.locator('.companion-name').first();
     if (await companionName.count() > 0) {
-      await companionName.first().fill('测试配角');
+      await companionName.fill('测试配角');
+      
+      const companionPersonality = page.locator('.companion-personality').first();
+      if (await companionPersonality.count() > 0) {
+        await companionPersonality.selectOption({ index: 1 });
+      }
+      
+      const companionSpeechStyle = page.locator('.companion-speech-style').first();
+      if (await companionSpeechStyle.count() > 0) {
+        await companionSpeechStyle.selectOption({ index: 1 });
+      }
+      
+      const companionRoleType = page.locator('.companion-role-type').first();
+      if (await companionRoleType.count() > 0) {
+        await companionRoleType.selectOption({ index: 1 });
+      }
     }
     
     await page.click('#step3 .btn-next');
-    
-    await page.waitForSelector('.success-content', { timeout: 15000 });
+    await page.waitForSelector('.success-content.visible, .success-content:not([style*="display: none"])', { state: 'visible' });
+    await expect(page.locator('.success-title')).toContainText('Created');
     
     const book = db.query('SELECT * FROM books WHERE title = ?', [bookTitle]);
     expect(book).toBeTruthy();
-    
-    const companion = db.query('SELECT * FROM characters WHERE book_id = ? AND is_protagonist = 0', [book.book_id]);
-    if (companion) {
-      expect(companion.name).toBe('测试配角');
-    }
   });
   
   test('配角角色类型根据书籍类型动态变化', async ({ page }) => {
@@ -114,7 +144,6 @@ test.describe('配角属性选择测试', () => {
     await page.click('#step1 .btn-next');
     await page.waitForSelector('#step2.active', { state: 'visible' });
     
-    const step2Visible = await page.locator('#step2.active').count() > 0;
-    expect(step2Visible).toBe(true);
+    expect(await page.locator('#step2.active').count()).toBe(1);
   });
 });

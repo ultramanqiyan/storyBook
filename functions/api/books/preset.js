@@ -1,12 +1,13 @@
-import { createSuccessResponse, createErrorResponse } from '../utils.js';
+import { createSuccessResponse, createErrorResponse, getLanguage } from '../utils.js';
 
 export async function onRequestGet(context) {
   const { env } = context;
+  const lang = getLanguage(context);
 
   try {
     const results = await env.DB.prepare(
-      'SELECT * FROM books WHERE is_preset = 1 ORDER BY created_at DESC'
-    ).all();
+      'SELECT * FROM books WHERE is_preset = 1 AND language = ? ORDER BY created_at DESC'
+    ).bind(lang).all();
 
     return createSuccessResponse(results.results);
   } catch (error) {

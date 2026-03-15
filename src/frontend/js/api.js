@@ -1,7 +1,9 @@
 const API_BASE = '';
 
 async function apiRequest(endpoint, options = {}) {
-    const url = `${API_BASE}${endpoint}`;
+    const lang = localStorage.getItem('storybook-language') || 'en';
+    const separator = endpoint.includes('?') ? '&' : '?';
+    const url = `${API_BASE}${endpoint}${separator}lang=${lang}`;
     const response = await fetch(url, {
         ...options,
         headers: {

@@ -1,4 +1,5 @@
-import { createSuccessResponse, createErrorResponse, createOptionsResponse, generateId } from './utils.js';
+import { createSuccessResponse, createErrorResponse, createOptionsResponse, generateId, getLanguage } from './utils.js';
+import { getPrompt } from '../_shared/i18n-prompts.js';
 
 const CARD_LIMIT_PER_TYPE = 8;
 
@@ -110,7 +111,7 @@ ${protagonist}环顾四周，目光坚定而专注。新的挑战，新的机遇
   return templates[bookType] || templates.adventure;
 }
 
-async function buildAIInput(env, bookId, selectedCards) {
+async function buildAIInput(env, bookId, selectedCards, lang) {
   const { protagonist_id, supporting_ids, weather_id, terrain_id, adventure_id, equipment_id } = selectedCards;
   
   const book = await env.DB.prepare(
@@ -152,6 +153,8 @@ async function buildAIInput(env, bookId, selectedCards) {
     ORDER BY c.order_num DESC LIMIT 1
   `).bind(bookId).first();
   
+  const systemPrompt = getPrompt('chapterGeneration', lang);
+  
   let userData = `书籍名称：${book?.title || '未知'}
 书籍类型：${book?.type || 'adventure'}
 
@@ -184,7 +187,7 @@ async function buildAIInput(env, bookId, selectedCards) {
 正确答案：${lastPuzzle?.answer || '无'}
 是否解谜成功：${lastPuzzle?.is_solved === 1 ? 'true' : 'false'}`;
   
-  return SYSTEM_PROMPT + '\n' + userData;
+  return systemPrompt + '\n' + userData;
 }
 
 function mockAIGenerate(aiInput, bookType, orderNum, selectedCardsInfo, supportingName) {
@@ -289,6 +292,7 @@ export async function onRequestGet(context) {
 
 export async function onRequestPost(context) {
   const { request, env } = context;
+  const lang = getLanguage(context);
 
   try {
     const body = await request.json();
@@ -361,7 +365,7 @@ export async function onRequestPost(context) {
     const orderNum = (maxOrder?.max_order || 0) + 1;
     const chapterId = generateId();
 
-    const aiInput = await buildAIInput(env, book_id, { protagonist_id, supporting_ids, weather_id, terrain_id, adventure_id, equipment_id });
+    const aiInput = await buildAIInput(env, book_id, { protagonist_id, supporting_ids, weather_id, terrain_id, adventure_id, equipment_id }, lang);
 
     const protagonist = await env.DB.prepare(
       'SELECT name, role_type, personality, speech_style FROM characters WHERE char_id = ?'

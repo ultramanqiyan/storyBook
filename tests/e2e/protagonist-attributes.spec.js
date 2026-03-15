@@ -26,7 +26,7 @@ test.describe('主角属性选择测试', () => {
       localStorage.setItem('user_id', uid);
     }, testUserId);
   });
-  
+
   test('创建书籍时必须选择主角性格', async ({ page }) => {
     await page.goto('/book-create.html');
     
@@ -44,11 +44,13 @@ test.describe('主角属性选择测试', () => {
     
     await page.fill('#protagonistName', '测试主角');
     await page.locator('#protagonistAvatars .avatar-option').first().click();
+    await page.selectOption('#protagonistPersonality', 'brave');
+    await page.selectOption('#protagonistSpeechStyle', 'direct');
+    await page.selectOption('#protagonistRoleType', 'adventurer');
     await page.click('#step2 .btn-next');
     
-    await page.waitForTimeout(1000);
-    const step3Visible = await page.locator('#step3.active').count() > 0;
-    expect(step3Visible).toBe(true);
+    await page.waitForSelector('#step3.active', { state: 'visible' });
+    expect(await page.locator('#step3.active').count()).toBe(1);
   });
   
   test('成功创建书籍并验证数据库中的主角属性', async ({ page }) => {
@@ -71,12 +73,15 @@ test.describe('主角属性选择测试', () => {
     
     await page.fill('#protagonistName', '测试勇者');
     await page.locator('#protagonistAvatars .avatar-option').first().click();
+    await page.selectOption('#protagonistPersonality', 'brave');
+    await page.selectOption('#protagonistSpeechStyle', 'direct');
+    await page.selectOption('#protagonistRoleType', 'adventurer');
     await page.click('#step2 .btn-next');
     
     await page.waitForSelector('#step3.active', { state: 'visible' });
     await page.click('#step3 .btn-next');
     
-    await page.waitForSelector('.success-content', { timeout: 15000 });
+    await page.waitForSelector('.success-content');
     await expect(page.locator('.success-title')).toContainText('Created');
     
     const book = db.query('SELECT * FROM books WHERE title = ?', [bookTitle]);
@@ -101,7 +106,6 @@ test.describe('主角属性选择测试', () => {
     await page.click('#step1 .btn-next');
     await page.waitForSelector('#step2.active', { state: 'visible' });
     
-    const step2Visible = await page.locator('#step2.active').count() > 0;
-    expect(step2Visible).toBe(true);
+    expect(await page.locator('#step2.active').count()).toBe(1);
   });
 });

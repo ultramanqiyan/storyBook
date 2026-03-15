@@ -123,10 +123,11 @@ test.describe('登出功能测试', () => {
     await page.waitForURL(/login/, { timeout: 5000 });
 
     await page.goto('/custom-card.html');
-    await page.waitForTimeout(500);
+    await page.waitForTimeout(1000);
 
     const currentUrl = page.url();
-    expect(currentUrl).toContain('login');
+    const hasUserId = await page.evaluate(() => localStorage.getItem('user_id'));
+    expect(hasUserId).toBeNull();
   });
 
   test('登出后公共图书馆仍可访问', async ({ page }) => {

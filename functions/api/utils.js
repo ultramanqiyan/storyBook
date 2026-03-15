@@ -50,3 +50,10 @@ export function createOptionsResponse() {
     }
   });
 }
+
+export function getLanguage(context) {
+  const { request } = context;
+  const url = new URL(request.url);
+  const lang = url.searchParams.get('lang');
+  return (lang === 'zh' || lang === 'en') ? lang : 'en';
+}
