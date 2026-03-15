@@ -1,7 +1,8 @@
--- 清理所有表
+-- 删除所有表（按依赖顺序）
 DROP TABLE IF EXISTS puzzles;
 DROP TABLE IF EXISTS chapters;
 DROP TABLE IF EXISTS plot_cards;
 DROP TABLE IF EXISTS characters;
 DROP TABLE IF EXISTS books;
 DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS _cf_KV;
