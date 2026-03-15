@@ -181,36 +181,43 @@
       position: relative;
       height: 100%;
       padding: 40px 35px;
-      overflow: hidden;
+      overflow-y: auto;
+      overflow-x: hidden;
       color: #1a1008;
       z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
     }
     
     .page-text {
-      height: calc(100% - 80px);
-      overflow-y: auto;
-      overflow-x: hidden;
       line-height: 1.8;
       font-size: 18px;
       padding-bottom: 20px;
-    }
-    
-    .page-text::-webkit-scrollbar {
-      width: 6px;
-    }
-    
-    .page-text::-webkit-scrollbar-track {
-      background: rgba(139, 90, 43, 0.1);
-      border-radius: 3px;
-    }
-    
-    .page-text::-webkit-scrollbar-thumb {
-      background: rgba(139, 90, 43, 0.4);
-      border-radius: 3px;
-    }
-    
-    .page-text::-webkit-scrollbar-thumb:hover {
-      background: rgba(139, 90, 43, 0.6);
     }
     
     .page-indicator {
@@ -396,6 +403,52 @@
     
     .puzzle-trigger .scroll-nav-btn {
       animation: pulse-glow 2s ease-in-out infinite;
+    }
+    
+    .puzzle-scroll-hint {
+      position: fixed;
+      bottom: 80px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: linear-gradient(180deg, rgba(139, 90, 43, 0.95) 0%, rgba(101, 67, 33, 0.95) 100%);
+      color: #f4e4bc;
+      padding: 12px 24px;
+      border-radius: 25px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+      border: 2px solid rgba(255, 215, 0, 0.4);
+      z-index: 50;
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.4s ease;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      cursor: pointer;
+    }
+    
+    .puzzle-scroll-hint.visible {
+      opacity: 1;
+      visibility: visible;
+    }
+    
+    .puzzle-scroll-hint:hover {
+      transform: translateX(-50%) translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+    }
+    
+    .puzzle-scroll-hint .hint-icon {
+      animation: bounce-down 1s ease-in-out infinite;
+    }
+    
+    @keyframes bounce-down {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(5px);
+      }
     }
     
     @keyframes pulse-glow {
@@ -853,6 +906,12 @@
     </div>
   </div>
   
+  <div class="puzzle-scroll-hint" id="puzzleScrollHint" onclick="scrollToPuzzle()">
+    <span class="hint-icon">🧩</span>
+    <span data-i18n="chapter.riddleAwaits">A riddle awaits below...</span>
+    <span class="hint-icon">↓</span>
+  </div>
+  
   <div class="reading-nav-bar">
     <button class="scroll-nav-btn" onclick="prevChapter()">
       ← <span data-i18n="chapter.previous">Previous</span>
@@ -1176,8 +1235,49 @@
       updateNavigationButtons();
       updatePageIndicator();
       initCharacterHighlights();
+      initPuzzleScrollHint();
       
       loadPuzzleForCurrentPage();
+    }
+    
+    function initPuzzleScrollHint() {
+      const hint = document.getElementById('puzzleScrollHint');
+      const leftContent = document.querySelector('#leftPage .reading-content');
+      const rightContent = document.querySelector('#rightPage .reading-content');
+      
+      if (!hint) return;
+      
+      const hasPuzzle = document.getElementById('puzzleTrigger') !== null;
+      
+      if (!hasPuzzle) {
+        hint.classList.remove('visible');
+        return;
+      }
+      
+      hint.classList.remove('visible');
+      
+      const contentWithPuzzle = document.getElementById('puzzleTrigger')?.closest('.reading-content');
+      
+      if (contentWithPuzzle) {
+        const scrollHeight = contentWithPuzzle.scrollHeight;
+        const clientHeight = contentWithPuzzle.clientHeight;
+        
+        if (scrollHeight > clientHeight + 100) {
+          hint.classList.add('visible');
+          setTimeout(() => {
+            hint.classList.remove('visible');
+          }, 3000);
+        }
+      }
+    }
+    
+    function scrollToPuzzle() {
+      const puzzleTrigger = document.getElementById('puzzleTrigger');
+      if (puzzleTrigger) {
+        puzzleTrigger.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        const hint = document.getElementById('puzzleScrollHint');
+        if (hint) hint.classList.remove('visible');
+      }
     }
     
     async function loadPuzzleForCurrentPage() {
@@ -1239,9 +1339,9 @@
             const isLastPageOfChapter = pageInChapter === chapterPages.length - 1;
             if (isLastPageOfChapter && chapter.puzzle_id && !isPresetChapter) {
               content += `
-                <div class="puzzle-trigger">
+                <div class="puzzle-trigger" id="puzzleTrigger">
                   <button class="scroll-nav-btn" onclick="showPuzzle()">
-                    🧩 Solve the Guardian's Riddle
+                    🧩 ${t('chapter.solveRiddle') || 'Solve the Guardian\'s Riddle'}
                   </button>
                 </div>`;
             }
@@ -1325,7 +1425,7 @@
       if (!content) return '<p>No content available</p>';
       
       const paragraphs = content.split('\n\n');
-      let html = '';
+      let html = '<div class="page-text">';
       
       paragraphs.forEach((p, index) => {
         if (index === 0) {
@@ -1335,6 +1435,7 @@
         }
       });
       
+      html += '</div>';
       return html;
     }
     
