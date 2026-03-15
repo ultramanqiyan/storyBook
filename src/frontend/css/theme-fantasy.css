@@ -1,111 +1,111 @@
 .theme-fantasy {
-    --primary-color: #6B21A8;
-    --secondary-color: #FFD700;
-    --bg-gradient: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f0f23 100%);
-    --card-bg: linear-gradient(135deg, #2d2d44 0%, #1a1a2e 100%);
-    --border-radius: 15px;
-    --shadow-color: rgba(107, 33, 168, 0.4);
-    --glow-color: rgba(107, 33, 168, 0.6);
+    --primary-color: #FFD700;
+    --secondary-color: #7CB342;
+    --bg-gradient: linear-gradient(135deg, #FFF9C4 0%, #FFE082 100%);
+    --card-bg: linear-gradient(135deg, #FFFFFF 0%, #FFFDE7 100%);
+    --border-radius: 20px;
+    --shadow-color: rgba(255, 193, 7, 0.3);
 }
 
 .theme-fantasy body {
     background: var(--bg-gradient);
-    color: #e0e0e0;
 }
 
 .theme-fantasy .book-card,
 .theme-fantasy .character-card {
     background: var(--card-bg);
     border-radius: var(--border-radius);
-    border: 2px solid var(--primary-color);
-    box-shadow: 0 0 20px var(--shadow-color), inset 0 0 30px rgba(107, 33, 168, 0.1);
+    border: 3px solid var(--primary-color);
+    box-shadow: 0 4px 15px var(--shadow-color);
 }
 
 .theme-fantasy .book-card:hover,
 .theme-fantasy .character-card:hover {
-    box-shadow: 0 0 30px var(--glow-color), inset 0 0 40px rgba(107, 33, 168, 0.2);
     transform: translateY(-5px);
+    box-shadow: 0 8px 25px var(--shadow-color);
 }
 
 .theme-fantasy .btn-primary {
-    background: linear-gradient(135deg, #6B21A8 0%, #4A148C 100%);
-    color: white;
-    border: 1px solid var(--secondary-color);
+    background: linear-gradient(135deg, #FFD700 0%, #FFA000 100%);
+    color: #333;
 }
 
 .theme-fantasy .btn-primary:hover {
-    background: linear-gradient(135deg, #7B1FA2 0%, #6A1B9A 100%);
-    box-shadow: 0 0 25px var(--glow-color);
+    background: linear-gradient(135deg, #FFCA28 0%, #FFB300 100%);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(255, 193, 7, 0.4);
 }
 
 .theme-fantasy h1,
 .theme-fantasy h2 {
-    color: var(--secondary-color);
-    text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+    color: #F57C00;
 }
 
 .theme-fantasy .nav-bar {
-    background: linear-gradient(135deg, #1a1a2e 0%, #2d2d44 100%);
-    border-bottom: 2px solid var(--primary-color);
-    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.5);
+    background: linear-gradient(135deg, #FFF9C4 0%, #FFE082 100%);
+    border-bottom: 3px solid var(--primary-color);
 }
 
 .theme-fantasy .nav-bar a {
-    color: #e0e0e0;
+    color: #333;
 }
 
 .theme-fantasy .nav-bar a:hover {
-    color: var(--secondary-color);
+    color: #F57C00;
+}
+
+.theme-fantasy .card-icon {
+    font-size: 2.5rem;
 }
 
 .theme-fantasy .plot-card {
-    border-radius: 12px;
-    border: 2px solid var(--primary-color);
-    background: var(--card-bg);
+    border-radius: 15px;
+    border: 2px solid #FFD700;
 }
 
 .theme-fantasy .plot-card.selected {
-    background: linear-gradient(135deg, #3d1a6b 0%, #2d1047 100%);
-    border-color: var(--secondary-color);
-    box-shadow: 0 0 25px var(--glow-color);
+    background: linear-gradient(135deg, #FFF9C4 0%, #FFE082 100%);
+    border-color: #F57C00;
+    box-shadow: 0 0 20px rgba(255, 193, 7, 0.5);
 }
 
 .theme-fantasy .stage-card {
-    border-radius: 12px;
-    border: 2px solid var(--primary-color);
-    box-shadow: 0 0 15px var(--shadow-color);
+    border-radius: 15px;
+    border: 3px solid var(--primary-color);
 }
 
 .theme-fantasy .progress-step.active .step-number {
     background: var(--primary-color);
-    box-shadow: 0 0 15px var(--glow-color);
+    color: #333;
 }
 
 .theme-fantasy .header-banner {
-    background: linear-gradient(135deg, #2d1047 0%, #1a0a2e 100%);
-    border: 1px solid var(--primary-color);
+    background: linear-gradient(135deg, #FFD700 0%, #FFA000 100%);
+    color: #333;
 }
 
 .theme-fantasy input,
 .theme-fantasy select,
 .theme-fantasy textarea {
-    background: #2d2d44;
-    border-color: var(--primary-color);
-    color: #e0e0e0;
+    background: #FFFFFF;
+    border: 2px solid #FFD700;
+    border-radius: 8px;
+    color: #333;
 }
 
 .theme-fantasy input:focus,
 .theme-fantasy select:focus,
 .theme-fantasy textarea:focus {
-    border-color: var(--secondary-color);
-    box-shadow: 0 0 15px var(--shadow-color);
+    border-color: #F57C00;
+    box-shadow: 0 0 15px rgba(255, 193, 7, 0.3);
 }
 
 .theme-fantasy .loading-content {
     background: var(--card-bg);
     border: 2px solid var(--primary-color);
+    border-radius: 15px;
 }
 
 .theme-fantasy .loading-spinner {
-    border-top-color: var(--secondary-color);
+    border-top-color: #F57C00;
 }

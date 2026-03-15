@@ -173,9 +173,37 @@
       position: relative;
       height: 100%;
       padding: 40px 35px;
-      overflow: hidden;
+      overflow-y: auto;
+      overflow-x: hidden;
       color: #1a1008;
       z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
     }
     
     .manuscript-title {
@@ -397,9 +425,13 @@
         <div class="page-edge right"></div>
         <div class="page-edge bottom"></div>
         <div class="reading-content">
-          <div class="manuscript-text">
-            
-          </div>
+          <div class="manuscript-title">
+    <div class="chapter-num">第V</div>
+    <div class="chapter-name">深渊的考验</div>
+  </div>
+  <div class="manuscript-text">
+    <p><span class="drop-cap">血</span>红色的月亮悬挂在深渊上空，云墨站在深渊边缘，感受着来自深处的召唤。玄机长老告诉他，只有战胜内心的恐惧，才能获得真正的力量。云墨握紧护身符，纵身跳入深渊。在黑暗中，他看到了自己最害怕的东西，但他没有退缩，而是勇敢地面对。</p>
+  </div>
         </div>
       </div>
     </div>

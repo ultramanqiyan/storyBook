@@ -173,9 +173,37 @@
       position: relative;
       height: 100%;
       padding: 40px 35px;
-      overflow: hidden;
+      overflow-y: auto;
+      overflow-x: hidden;
       color: #1a1008;
       z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
     }
     
     .manuscript-title {
@@ -397,9 +425,13 @@
         <div class="page-edge right"></div>
         <div class="page-edge bottom"></div>
         <div class="reading-content">
-          <div class="manuscript-text">
-            
-          </div>
+          <div class="manuscript-title">
+    <div class="chapter-num">第V</div>
+    <div class="chapter-name">山洞的秘密</div>
+  </div>
+  <div class="manuscript-text">
+    <p><span class="drop-cap">探</span>险队终于到达了信号源附近。这里是人类从未踏足过的区域，到处是神秘的洞穴。小星发现了一个隐蔽的山洞入口，洞壁上刻着古老的图案。月兔精灵惊呼："这是...古代探险家留下的印记！"洞穴深处传来微弱的光芒，小星鼓起勇气，第一个走了进去。</p>
+  </div>
         </div>
       </div>
     </div>

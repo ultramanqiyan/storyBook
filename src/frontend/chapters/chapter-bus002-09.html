@@ -173,9 +173,37 @@
       position: relative;
       height: 100%;
       padding: 40px 35px;
-      overflow: hidden;
+      overflow-y: auto;
+      overflow-x: hidden;
       color: #1a1008;
       z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
     }
     
     .manuscript-title {
@@ -397,9 +425,13 @@
         <div class="page-edge right"></div>
         <div class="page-edge bottom"></div>
         <div class="reading-content">
-          <div class="manuscript-text">
-            
-          </div>
+          <div class="manuscript-title">
+    <div class="chapter-num">第X</div>
+    <div class="chapter-name">新的开始</div>
+  </div>
+  <div class="manuscript-text">
+    <p><span class="drop-cap">一</span>年后，小北的粉丝突破了两百万。她出版了自己的第一本食谱，还开了一家线上食材店。周总在电视上看到了她的采访，惊讶地说不出话。小北对着镜头说："感谢所有支持我的人，也感谢曾经质疑我的人。是你们让我明白，人生没有标准答案，只有自己的选择。"</p>
+  </div>
         </div>
       </div>
     </div>

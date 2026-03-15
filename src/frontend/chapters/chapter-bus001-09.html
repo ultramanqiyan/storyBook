@@ -173,9 +173,37 @@
       position: relative;
       height: 100%;
       padding: 40px 35px;
-      overflow: hidden;
+      overflow-y: auto;
+      overflow-x: hidden;
       color: #1a1008;
       z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
     }
     
     .manuscript-title {
@@ -397,9 +425,13 @@
         <div class="page-edge right"></div>
         <div class="page-edge bottom"></div>
         <div class="reading-content">
-          <div class="manuscript-text">
-            
-          </div>
+          <div class="manuscript-title">
+    <div class="chapter-num">第X</div>
+    <div class="chapter-name">新的开始</div>
+  </div>
+  <div class="manuscript-text">
+    <p><span class="drop-cap">阿</span>明升职了，但他没有忘记王哥的教导。他对团队成员说："周报可以写得漂亮，但工作要做得扎实。黑话可以学，但实力不能丢。"他开始建立一个更公平的团队文化，让每个人的贡献都能被看见。至于Lisa，她被调到了另一个部门，听说那里的人比她更会"甩锅"。</p>
+  </div>
         </div>
       </div>
     </div>

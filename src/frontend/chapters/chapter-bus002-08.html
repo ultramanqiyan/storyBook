@@ -173,9 +173,37 @@
       position: relative;
       height: 100%;
       padding: 40px 35px;
-      overflow: hidden;
+      overflow-y: auto;
+      overflow-x: hidden;
       color: #1a1008;
       z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
     }
     
     .manuscript-title {
@@ -397,9 +425,13 @@
         <div class="page-edge right"></div>
         <div class="page-edge bottom"></div>
         <div class="reading-content">
-          <div class="manuscript-text">
-            
-          </div>
+          <div class="manuscript-title">
+    <div class="chapter-num">第IX</div>
+    <div class="chapter-name">找到自己的路</div>
+  </div>
+  <div class="manuscript-text">
+    <p><span class="drop-cap">小</span>北开始尝试新的内容方向——"上班族的健康便当"。这个系列意外地受欢迎，很多和她一样的上班族开始关注她。她发现，自己的经历反而成了她的优势。她不再是那个偷偷做副业的会计，而是一个真正理解上班族需求的创作者。</p>
+  </div>
         </div>
       </div>
     </div>

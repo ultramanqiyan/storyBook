@@ -749,31 +749,59 @@ function formatChapterContent(content, isZh) {
     return { leftContent: '<p>No content available</p>', rightContent: '' };
   }
   
+  const CHARS_PER_PAGE = 800;
   const paragraphs = content.split(/\n\n|\n/).filter(p => p.trim());
   
   if (paragraphs.length === 0) {
     return { leftContent: '<p>No content available</p>', rightContent: '' };
   }
   
-  const halfIndex = Math.ceil(paragraphs.length / 2);
-  const leftParagraphs = paragraphs.slice(0, halfIndex);
-  const rightParagraphs = paragraphs.slice(halfIndex);
-  
   let leftContent = '';
-  leftParagraphs.forEach((p, index) => {
-    if (index === 0) {
-      leftContent += `<p><span class="drop-cap">${p.charAt(0)}</span>${formatParagraph(p.slice(1), isZh)}</p>\n`;
-    } else {
-      leftContent += `<p>${formatParagraph(p, isZh)}</p>\n`;
-    }
-  });
-  
   let rightContent = '';
-  rightParagraphs.forEach(p => {
-    rightContent += `<p>${formatParagraph(p, isZh)}</p>\n`;
-  });
+  let currentChars = 0;
+  let isLeftPage = true;
+  let isFirstParagraph = true;
+  
+  for (const p of paragraphs) {
+    if (isLeftPage && currentChars + p.length > CHARS_PER_PAGE) {
+      isLeftPage = false;
+      currentChars = 0;
+    }
+    
+    if (isLeftPage) {
+      if (isFirstParagraph) {
+        leftContent += `<p><span class="drop-cap">${p.charAt(0)}</span>${formatParagraph(p.slice(1), isZh)}</p>\n`;
+        isFirstParagraph = false;
+      } else {
+        leftContent += `<p>${formatParagraph(p, isZh)}</p>\n`;
+      }
+      currentChars += p.length;
+    } else {
+      rightContent += `<p>${formatParagraph(p, isZh)}</p>\n`;
+      currentChars += p.length;
+    }
+  }
   
   return { leftContent, rightContent };
+}
+
+function formatNextChapterContent(nextChapter, isZh, romanNumerals) {
+  if (!nextChapter) {
+    return `<p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">${isZh ? '— 本章完 —' : '— End of Chapter —'}</p>`;
+  }
+  
+  const previewContent = nextChapter.content ? nextChapter.content.split(/\n\n|\n/).filter(p => p.trim()).slice(0, 2).join('\n\n') : '';
+  const truncatedContent = previewContent.length > 400 ? previewContent.substring(0, 400) + '...' : previewContent;
+  
+  let content = `<div class="manuscript-title">
+    <div class="chapter-num">${isZh ? '第' : 'CHAPTER '}${romanNumerals[nextChapter.orderNum - 1] || nextChapter.orderNum}</div>
+    <div class="chapter-name">${nextChapter.title}</div>
+  </div>
+  <div class="manuscript-text">
+    ${truncatedContent ? `<p><span class="drop-cap">${truncatedContent.charAt(0)}</span>${formatParagraph(truncatedContent.slice(1), isZh)}</p>` : ''}
+  </div>`;
+  
+  return content;
 }
 
 function formatParagraph(text, isZh) {
@@ -799,7 +827,7 @@ function generateChapterHTML(book, chapter, prevChapter, nextChapter, characters
   
   const formattedContent = formatChapterContent(chapter.content, isZh);
   const leftContent = formattedContent.leftContent;
-  const rightContent = formattedContent.rightContent;
+  const rightContent = formattedContent.rightContent || formatNextChapterContent(nextChapter, isZh, romanNumerals);
   
   return `<!DOCTYPE html>
 <html lang="${isZh ? 'zh' : 'en'}">
@@ -976,9 +1004,37 @@ function generateChapterHTML(book, chapter, prevChapter, nextChapter, characters
       position: relative;
       height: 100%;
       padding: 40px 35px;
-      overflow: hidden;
+      overflow-y: auto;
+      overflow-x: hidden;
       color: #1a1008;
       z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
     }
     
     .manuscript-title {
@@ -1199,9 +1255,7 @@ function generateChapterHTML(book, chapter, prevChapter, nextChapter, characters
         <div class="page-edge right"></div>
         <div class="page-edge bottom"></div>
         <div class="reading-content">
-          <div class="manuscript-text">
-            ${rightContent}
-          </div>
+          ${rightContent || `<div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">${isZh ? '— 本章完 —' : '— End of Chapter —'}</p></div>`}
         </div>
       </div>
     </div>
