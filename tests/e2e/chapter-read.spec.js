@@ -87,8 +87,10 @@ test.describe('章节阅读页面', () => {
 
     await expect(page.locator('.chapter-name')).toBeVisible({ timeout: 10000 });
 
-    const manuscriptText = page.locator('.manuscript-text').first();
-    await expect(manuscriptText).toBeVisible();
+    await page.waitForTimeout(1000);
+
+    const readingContent = page.locator('.reading-content').first();
+    await expect(readingContent).toBeVisible();
 
     const dbChapter = db.query(
       'SELECT * FROM chapters WHERE chapter_id = ?',
@@ -201,8 +203,11 @@ test.describe('章节阅读页面', () => {
 
     await page.goto(`/chapter.html?id=${testChapterId}`);
 
-    const manuscriptText = page.locator('.manuscript-text').first();
-    const content = await manuscriptText.textContent();
+    await expect(page.locator('.chapter-name')).toBeVisible({ timeout: 10000 });
+    await page.waitForTimeout(1000);
+
+    const readingContent = page.locator('.reading-content').first();
+    const content = await readingContent.textContent();
 
     expect(content).toBeDefined();
     expect(content.length).toBeGreaterThan(0);

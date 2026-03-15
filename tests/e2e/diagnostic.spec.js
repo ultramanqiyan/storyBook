@@ -4,9 +4,9 @@ test('诊断测试 - 检查本地服务器', async ({ page }) => {
   test.setTimeout(15000);
   
   console.log('=== 开始诊断测试 ===');
-  console.log('尝试访问 http://127.0.0.1:8789');
+  console.log('尝试访问 http://127.0.0.1:8788');
   
-  const response = await page.goto('http://127.0.0.1:8789', { 
+  const response = await page.goto('http://127.0.0.1:8788', { 
     timeout: 10000,
     waitUntil: 'domcontentloaded'
   });

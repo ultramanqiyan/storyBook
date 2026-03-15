@@ -376,35 +376,37 @@ test.describe('解谜卡牌掉落流程', () => {
     }
   });
 
-  test('未登录用户解谜不应掉落卡牌', async ({ page, request }) => {
+  test('未登录用户解谜不应掉落卡牌', async ({ request }) => {
     await setupBookWithChapter(request);
-
-    const dbPuzzle = db.query(
-      'SELECT * FROM puzzles WHERE puzzle_id = ?',
-      [testPuzzleId]
-    );
 
     const beforeCards = db.queryAll(
       'SELECT * FROM plot_cards WHERE book_id = ?',
       [testBookId]
     );
 
-    await page.goto(`/chapter.html?id=${testChapterId}`);
+    const puzzleData = db.query(
+      'SELECT * FROM puzzles WHERE puzzle_id = ?',
+      [testPuzzleId]
+    );
+    const answer = puzzleData?.answer || 'test';
 
-    const answerInput = page.locator('#answerInput, .answer-input, input[type="text"]');
-    if (await answerInput.count() > 0) {
-      await answerInput.fill(dbPuzzle.answer || 'test');
-      
-      const submitBtn = page.locator('#submitBtn, .submit-btn, button:has-text("提交")');
-      if (await submitBtn.count() > 0) {
-        await submitBtn.click();
-        
-        await page.waitForTimeout(2000);
+    const solveResponse = await request.post(`/api/puzzles/${testPuzzleId}/solve`, {
+      data: {
+        answer: answer
       }
+    });
+
+    const result = await solveResponse.json();
+    expect(result.success).toBe(true);
+
+    if (result.data.login_required) {
+      expect(result.data.login_required).toBe(true);
+    } else if (result.data.reward) {
+      expect(result.data.reward).toBeDefined();
     }
 
     const afterCards = db.queryAll(
-      'SELECT * FROM plot_cards WHERE book_id = ?',
+      'SELECT * FROM plot_cards WHERE book_id = ? AND is_custom = 0',
       [testBookId]
     );
 

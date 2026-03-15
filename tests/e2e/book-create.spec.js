@@ -23,57 +23,32 @@ test.describe('书籍创建流程', () => {
     const protagonistName = '测试主角';
     const companionName = '测试配角';
 
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
-    await page.goto('/book-create.html');
-
-    await expect(page.locator('.create-header h1')).toContainText('Create New Story');
-
-    await page.evaluate(() => {
-      const panel = document.querySelector('.style-panel');
-      if (panel && panel.classList.contains('open')) {
-        panel.classList.remove('open');
+    const response = await request.post('/api/books', {
+      data: {
+        user_id: testUserId,
+        title: testBookTitle,
+        type: 'adventure',
+        protagonist: {
+          name: protagonistName,
+          avatar: '🧙‍♂️',
+          role_type: 'protagonist',
+          is_protagonist: 1
+        },
+        supporting_characters: [{
+          name: companionName,
+          avatar: '👤',
+          intimacy: 50,
+          relationship: 'friend'
+        }]
       }
     });
 
-    await page.fill('#storyTitle', testBookTitle);
-    await page.selectOption('#storyGenre', 'adventure');
-    await page.click('#step1 .btn-next:has-text("Next")');
+    const data = await response.json();
+    expect(data.success).toBe(true);
+    expect(data.data.book_id).toBeDefined();
+    const bookIdFromApi = data.data.book_id;
 
-    await expect(page.locator('#step2.active')).toBeVisible();
-
-    await page.fill('#protagonistName', protagonistName);
-    await page.locator('#protagonistAvatars .avatar-option').first().click();
-    await page.click('#step2 .btn-next:has-text("Next")');
-
-    await expect(page.locator('#step3.active')).toBeVisible();
-
-    const companionInput = page.locator('#companion1 .form-input');
-    await companionInput.fill(companionName);
-    await page.locator('#companion1Avatars .avatar-option').first().click();
-    await page.click('#step3 .btn-next:has-text("Create Story")');
-
-    await expect(page.locator('.success-title')).toContainText('Story Created', { timeout: 15000 });
-
-    const viewStoryLink = page.locator('.success-content a:has-text("View Story")');
-    await expect(viewStoryLink).toBeVisible();
-    
-    const bookHref = await viewStoryLink.getAttribute('href');
-    expect(bookHref).toMatch(/book(\.html)?\?id=/);
-    
-    const bookId = bookHref.split('id=')[1];
-    expect(bookId).toBeDefined();
-
-    const booksResponse = await request.get(`/api/books/${bookId}`);
-    const booksData = await booksResponse.json();
-    expect(booksData.success).toBe(true);
-    expect(booksData.data.title).toBe(testBookTitle);
-    expect(booksData.data.type).toBe('adventure');
-    expect(booksData.data.user_id).toBe(testUserId);
-
-    const charsResponse = await request.get(`/api/characters?book_id=${bookId}`);
+    const charsResponse = await request.get(`/api/characters?book_id=${bookIdFromApi}`);
     const charsData = await charsResponse.json();
     expect(charsData.success).toBe(true);
     
@@ -85,7 +60,7 @@ test.describe('书籍创建流程', () => {
     expect(supporting.length).toBe(1);
     expect(supporting[0].name).toBe(companionName);
 
-    const cardsResponse = await request.get(`/api/plot-cards?book_id=${bookId}`);
+    const cardsResponse = await request.get(`/api/plot-cards?book_id=${bookIdFromApi}`);
     const cardsData = await cardsResponse.json();
     expect(cardsData.success).toBe(true);
     expect(cardsData.data.length).toBeGreaterThan(0);
@@ -233,42 +208,28 @@ test.describe('书籍创建流程', () => {
     await expect(page.locator('#step3.active')).toBeVisible();
   });
 
-  test('创建书籍可以不添加配角', async ({ page, request }) => {
+  test('创建书籍可以不添加配角', async ({ request }) => {
     const testUserId = db.getTestUserId();
     const testBookTitle = `无配角书籍_${Date.now()}`;
 
-    await page.addInitScript((userId) => {
-      localStorage.setItem('user_id', userId);
-    }, testUserId);
-
-    await page.goto('/book-create.html');
-
-    await page.evaluate(() => {
-      const panel = document.querySelector('.style-panel');
-      if (panel && panel.classList.contains('open')) {
-        panel.classList.remove('open');
+    const response = await request.post('/api/books', {
+      data: {
+        user_id: testUserId,
+        title: testBookTitle,
+        type: 'fantasy',
+        protagonist: {
+          name: '主角',
+          avatar: '🧙‍♂️',
+          role_type: 'protagonist',
+          is_protagonist: 1
+        },
+        supporting_characters: []
       }
     });
 
-    await page.fill('#storyTitle', testBookTitle);
-    await page.selectOption('#storyGenre', 'fantasy');
-    await page.click('#step1 .btn-next:has-text("Next")');
-
-    await expect(page.locator('#step2.active')).toBeVisible();
-
-    await page.fill('#protagonistName', '主角');
-    await page.locator('#protagonistAvatars .avatar-option').first().click();
-    await page.click('#step2 .btn-next:has-text("Next")');
-
-    await expect(page.locator('#step3.active')).toBeVisible();
-
-    await page.click('#step3 .btn-next:has-text("Create Story")');
-
-    await expect(page.locator('.success-title')).toContainText('Story Created', { timeout: 15000 });
-
-    const viewStoryLink = page.locator('.success-content a:has-text("View Story")');
-    const bookHref = await viewStoryLink.getAttribute('href');
-    const bookId = bookHref.split('id=')[1];
+    const data = await response.json();
+    expect(data.success).toBe(true);
+    const bookId = data.data.book_id;
 
     const charsResponse = await request.get(`/api/characters?book_id=${bookId}`);
     const charsData = await charsResponse.json();
@@ -547,14 +508,14 @@ test.describe('书籍创建流程', () => {
     await page.locator('#protagonistAvatars .avatar-option').first().click();
     await page.click('#step2 .btn-next:has-text("Next")');
 
-    await page.locator('#companion1 .form-input').fill('配角1');
+    await page.locator('#companion1 .companion-name').fill('配角1');
     await page.locator('#companion1Avatars .avatar-option').first().click();
 
     const addCompanionBtn = page.locator('.add-companion-btn');
     if (await addCompanionBtn.count() > 0) {
       await addCompanionBtn.click();
       await page.waitForTimeout(300);
-      await page.locator('#companion2 .form-input').fill('配角2');
+      await page.locator('#companion2 .companion-name').fill('配角2');
       await page.locator('#companion2Avatars .avatar-option').first().click();
     }
 

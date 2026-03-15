@@ -1,5 +1,6 @@
 import { test, expect } from '@playwright/test';
 import DatabaseHelper from './helpers/db-helper.js';
+import path from 'path';
 
 test.describe('书籍详情页面', () => {
   let db;
@@ -10,6 +11,7 @@ test.describe('书籍详情页面', () => {
     db = new DatabaseHelper();
     db.connect();
     db.resetDatabase();
+    db.execSqlFile(path.join(process.cwd(), 'migrations', '0002_seed_data.sql'));
     db.createTestUser();
     testUserId = db.getTestUserId();
   });

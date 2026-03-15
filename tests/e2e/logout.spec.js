@@ -111,7 +111,7 @@ test.describe('登出功能测试', () => {
     expect(page.url()).toContain('login');
   });
 
-  test.skip('登出后访问自定义卡牌页面应重定向到登录页', async ({ page }) => {
+  test('登出后访问自定义卡牌页面应重定向到登录页', async ({ page }) => {
     await page.goto('/bookshelf.html');
     await page.evaluate((userId) => localStorage.setItem('user_id', userId), testUserId);
     await page.reload();
@@ -125,7 +125,8 @@ test.describe('登出功能测试', () => {
     await page.goto('/custom-card.html');
     await page.waitForTimeout(500);
 
-    expect(page.url()).toContain('login');
+    const currentUrl = page.url();
+    expect(currentUrl).toContain('login');
   });
 
   test('登出后公共图书馆仍可访问', async ({ page }) => {
