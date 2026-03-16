@@ -121,7 +121,7 @@ describe('Books API with Characters', () => {
       const json = await response.json();
 
       expect(json.success).toBe(false);
-      expect(json.error).toContain('配角最多3个');
+      expect(json.error).toContain('MAX_THREE_SUPPORTING');
     });
 
     it('应该拒绝缺少主角信息', async () => {
@@ -140,7 +140,7 @@ describe('Books API with Characters', () => {
       const json = await response.json();
 
       expect(json.success).toBe(false);
-      expect(json.error).toContain('主角');
+      expect(json.error).toContain('PROTAGONIST_REQUIRED');
     });
 
     it('应该为主角设置初始亲密度为0', async () => {

@@ -1,0 +1,75 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: ../index.html
+    - generic [ref=e4]:
+      - link "首页" [ref=e5] [cursor=pointer]:
+        - /url: ../index.html
+      - link "图书馆" [ref=e6] [cursor=pointer]:
+        - /url: ../library.html
+      - link "我的书架" [ref=e7] [cursor=pointer]:
+        - /url: ../bookshelf.html
+  - generic [ref=e9]:
+    - generic [ref=e11]: 星空探险家
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e16]: 🗺️
+        - generic [ref=e17]:
+          - generic [ref=e18]: 冒险
+          - heading "星空探险家" [level=2] [ref=e19]
+          - generic [ref=e20]:
+            - generic [ref=e21]: 📜 10 章节
+            - generic [ref=e22]: 👥 3 角色
+          - generic [ref=e23]:
+            - link "开始阅读" [ref=e24] [cursor=pointer]:
+              - /url: ../chapters/chapter-adv001-01.html
+            - button "导入书架" [ref=e25] [cursor=pointer]
+      - generic [ref=e26]:
+        - button "📜 章节" [ref=e27] [cursor=pointer]
+        - button "👥 角色" [ref=e28] [cursor=pointer]
+      - generic [ref=e30]:
+        - link "第I 幸运的开始" [ref=e31] [cursor=pointer]:
+          - /url: ../chapters/chapter-adv001-01.html
+          - generic [ref=e32]: 第I
+          - generic [ref=e34]: 幸运的开始
+        - link "第II 神秘的岛屿" [ref=e35] [cursor=pointer]:
+          - /url: ../chapters/chapter-adv001-01.html
+          - generic [ref=e36]: 第II
+          - generic [ref=e38]: 神秘的岛屿
+        - link "第III 森林的信号" [ref=e39] [cursor=pointer]:
+          - /url: ../chapters/chapter-adv001-03.html
+          - generic [ref=e40]: 第III
+          - generic [ref=e42]: 森林的信号
+        - link "第IV 穿越峡谷" [ref=e43] [cursor=pointer]:
+          - /url: ../chapters/chapter-adv001-03.html
+          - generic [ref=e44]: 第IV
+          - generic [ref=e46]: 穿越峡谷
+        - link "第V 山洞的秘密" [ref=e47] [cursor=pointer]:
+          - /url: ../chapters/chapter-adv001-05.html
+          - generic [ref=e48]: 第V
+          - generic [ref=e50]: 山洞的秘密
+    - generic [ref=e54]:
+      - link "第VI 雪山挑战" [ref=e55] [cursor=pointer]:
+        - /url: ../chapters/chapter-adv001-05.html
+        - generic [ref=e56]: 第VI
+        - generic [ref=e58]: 雪山挑战
+      - link "第VII 雷暴来袭" [ref=e59] [cursor=pointer]:
+        - /url: ../chapters/chapter-adv001-07.html
+        - generic [ref=e60]: 第VII
+        - generic [ref=e62]: 雷暴来袭
+      - link "第VIII 星空下的发现" [ref=e63] [cursor=pointer]:
+        - /url: ../chapters/chapter-adv001-07.html
+        - generic [ref=e64]: 第VIII
+        - generic [ref=e66]: 星空下的发现
+      - link "第IX 瀑布后的宝藏" [ref=e67] [cursor=pointer]:
+        - /url: ../chapters/chapter-adv001-09.html
+        - generic [ref=e68]: 第IX
+        - generic [ref=e70]: 瀑布后的宝藏
+      - link "第X 探险家的誓言" [ref=e71] [cursor=pointer]:
+        - /url: ../chapters/chapter-adv001-09.html
+        - generic [ref=e72]: 第X
+        - generic [ref=e74]: 探险家的誓言
+```

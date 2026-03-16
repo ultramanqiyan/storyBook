@@ -13,9 +13,11 @@ export async function onRequestGet(context) {
       return createErrorResponse('预设书籍不存在', 404);
     }
 
+    const baseBookId = bookId.replace(/-en$|-zh$/, '');
+
     const [characters, plotCards, chapters] = await Promise.all([
       env.DB.prepare('SELECT * FROM characters WHERE book_id = ?').bind(bookId).all(),
-      env.DB.prepare('SELECT * FROM plot_cards WHERE book_id = ?').bind(bookId).all(),
+      env.DB.prepare('SELECT * FROM plot_cards WHERE book_id = ?').bind(baseBookId).all(),
       env.DB.prepare('SELECT * FROM chapters WHERE book_id = ? ORDER BY order_num').bind(bookId).all()
     ]);
 

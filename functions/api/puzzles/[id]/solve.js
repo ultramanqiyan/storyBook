@@ -1,5 +1,5 @@
 import { createSuccessResponse, createErrorResponse, generateId } from '../../utils.js';
-import { i18nConfig } from '../../_shared/i18n-config.js';
+import { i18nConfig } from '../../../_shared/i18n-config.js';
 
 const CARD_LIMIT_PER_TYPE = 8;
 const CHARACTER_LIMIT = 8;

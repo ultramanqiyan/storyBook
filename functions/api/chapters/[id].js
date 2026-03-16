@@ -24,19 +24,28 @@ export async function onRequestGet(context) {
     const selectedCards = chapter.selected_cards ? JSON.parse(chapter.selected_cards) : null;
     let plotCards = [];
     if (selectedCards) {
-      const cardIds = [
-        selectedCards.weather_id,
-        selectedCards.terrain_id,
-        selectedCards.adventure_id,
-        selectedCards.equipment_id
-      ].filter(id => id);
+      if (selectedCards.weather_id || selectedCards.terrain_id || selectedCards.adventure_id || selectedCards.equipment_id) {
+        const cardIds = [
+          selectedCards.weather_id,
+          selectedCards.terrain_id,
+          selectedCards.adventure_id,
+          selectedCards.equipment_id
+        ].filter(id => id);
 
-      if (cardIds.length > 0) {
-        const placeholders = cardIds.map(() => '?').join(',');
-        const plotResults = await env.DB.prepare(
-          `SELECT card_id, name, icon, description, sub_type FROM plot_cards WHERE card_id IN (${placeholders})`
-        ).bind(...cardIds).all();
-        plotCards = plotResults.results || [];
+        if (cardIds.length > 0) {
+          const placeholders = cardIds.map(() => '?').join(',');
+          const plotResults = await env.DB.prepare(
+            `SELECT card_id, name, icon, description, sub_type FROM plot_cards WHERE card_id IN (${placeholders})`
+          ).bind(...cardIds).all();
+          plotCards = plotResults.results || [];
+        }
+      } else if (selectedCards.weather || selectedCards.terrain || selectedCards.adventure || selectedCards.equipment) {
+        plotCards = [
+          selectedCards.weather ? { ...selectedCards.weather, sub_type: 'weather' } : null,
+          selectedCards.terrain ? { ...selectedCards.terrain, sub_type: 'terrain' } : null,
+          selectedCards.adventure ? { ...selectedCards.adventure, sub_type: 'adventure' } : null,
+          selectedCards.equipment ? { ...selectedCards.equipment, sub_type: 'equipment' } : null
+        ].filter(card => card !== null);
       }
     }
 

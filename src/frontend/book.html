@@ -506,10 +506,11 @@
           result = await API.getPresetBookDetail(bookId);
           if (result.success) {
             currentBook = {
-              ...result.data,
+              ...result.data.book,
               book_id: bookId,
               chapters: result.data.chapters || [],
               characters: result.data.characters || [],
+              plot_cards: result.data.plot_cards || [],
               progress: 0
             };
           }

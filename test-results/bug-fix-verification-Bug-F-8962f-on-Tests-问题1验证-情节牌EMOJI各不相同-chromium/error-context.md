@@ -17,7 +17,7 @@
           - generic [ref=e23]: Thy Email
           - generic [ref=e24]:
             - text: 📧
-            - textbox "Enter thy email address" [ref=e25]: test-emoji-fix-1773572905086@test.com
+            - textbox "Enter thy email address" [ref=e25]: test-emoji-fix-1773605083553@test.com
         - generic [ref=e26]:
           - generic [ref=e27]: Thy Secret
           - generic [ref=e28]:

@@ -65,8 +65,8 @@ function parseInsertStatements(sql, tableName) {
   const results = [];
   
   const regex = new RegExp(
-    `INSERT INTO ${tableName}\\s*\\([^)]+\\)\\s*VALUES\\s*`,
-    'g'
+    `INSERT\\s+(OR\\s+\\w+\\s+)?INTO\\s+${tableName}\\s*\\([^)]+\\)\\s*VALUES\\s*`,
+    'gi'
   );
   
   let match;
@@ -88,11 +88,13 @@ function parseInsertStatements(sql, tableName) {
   return results;
 }
 
-function generateBookHTML(book, characters, chapters) {
+function generateBookHTML(book, characters, chapters, plotCards) {
   const lang = book.language;
   const isZh = lang === 'zh';
   const typeName = TYPE_NAMES[lang][book.type] || book.type;
   const typeIcon = TYPE_ICONS[book.type] || '📖';
+  
+  const bookPlotCards = plotCards.filter(p => p.bookId === book.bookId);
   
   const characterSchema = characters.map(c => ({
     '@type': 'Person',
@@ -457,6 +459,14 @@ function generateBookHTML(book, characters, chapters) {
       padding: 15px 0;
     }
     
+    .plot-grid-view {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 20px;
+      justify-items: center;
+      padding: 15px 0;
+    }
+    
     .hs-card-mini {
       width: 130px;
       height: 170px;
@@ -550,17 +560,19 @@ function generateBookHTML(book, characters, chapters) {
           <div class="view-tabs">
             <button class="view-tab active" onclick="switchView('chapters')">📜 ${isZh ? '章节' : 'Chapters'}</button>
             <button class="view-tab" onclick="switchView('characters')">👥 ${isZh ? '角色' : 'Characters'}</button>
+            <button class="view-tab" onclick="switchView('plotcards')">🃏 ${isZh ? '情节卡牌' : 'Plot Cards'}</button>
           </div>
           
           <div id="leftPageContent">
             <div class="chapter-toc">
-              ${leftChapters.sort((a, b) => a.orderNum - b.orderNum).map((ch, i) => `
-                <a href="../chapters/${ch.chapterId}.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ${i * 0.1}s backwards;">
+              ${leftChapters.sort((a, b) => a.orderNum - b.orderNum).map((ch, i) => {
+                const pageChapterId = chapters[Math.floor((ch.orderNum - 1) / 2) * 2].chapterId;
+                return `<a href="../chapters/${pageChapterId}.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ${i * 0.1}s backwards;">
                   <span class="chapter-number">${isZh ? '第' : 'Ch. '}${romanNumerals[ch.orderNum - 1] || ch.orderNum}</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">${ch.title}</span>
-                </a>
-              `).join('')}
+                </a>`;
+              }).join('')}
             </div>
           </div>
         </div>
@@ -574,13 +586,14 @@ function generateBookHTML(book, characters, chapters) {
         <div class="page-content">
           <div id="rightPageContent">
             <div class="chapter-toc">
-              ${rightChapters.sort((a, b) => a.orderNum - b.orderNum).map((ch, i) => `
-                <a href="../chapters/${ch.chapterId}.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ${(i + halfChapters) * 0.1}s backwards;">
+              ${rightChapters.sort((a, b) => a.orderNum - b.orderNum).map((ch, i) => {
+                const pageChapterId = chapters[Math.floor((ch.orderNum - 1) / 2) * 2].chapterId;
+                return `<a href="../chapters/${pageChapterId}.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ${(i + halfChapters) * 0.1}s backwards;">
                   <span class="chapter-number">${isZh ? '第' : 'Ch. '}${romanNumerals[ch.orderNum - 1] || ch.orderNum}</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">${ch.title}</span>
-                </a>
-              `).join('')}
+                </a>`;
+              }).join('')}
             </div>
           </div>
         </div>
@@ -604,7 +617,8 @@ function generateBookHTML(book, characters, chapters) {
       title: '${book.title}',
       type: '${book.type}',
       chapters: ${JSON.stringify(chapters.map(ch => ({ chapterId: ch.chapterId, title: ch.title, orderNum: ch.orderNum })))},
-      characters: ${JSON.stringify(characters.map(c => ({ charId: c.charId, name: c.name, roleType: c.roleType, personality: c.personality, avatar: c.avatar, isProtagonist: c.isProtagonist })))}
+      characters: ${JSON.stringify(characters.map(c => ({ charId: c.charId, name: c.name, roleType: c.roleType, personality: c.personality, avatar: c.avatar, isProtagonist: c.isProtagonist })))},
+      plotCards: ${JSON.stringify(bookPlotCards.map(p => ({ card_id: p.cardId, sub_type: p.sub_type, name: p.name, icon: p.icon, description: p.description })))}
     };
     
     let currentView = 'chapters';
@@ -619,16 +633,16 @@ function generateBookHTML(book, characters, chapters) {
       currentView = view;
       
       document.querySelectorAll('.view-tab').forEach(tab => {
-        tab.classList.toggle('active', tab.textContent.toLowerCase().includes(view.slice(0, 4)));
+        tab.classList.remove('active');
       });
-      
-      const leftContent = document.getElementById('leftPageContent');
-      const rightContent = document.getElementById('rightPageContent');
+      event.target.classList.add('active');
       
       if (view === 'chapters') {
         renderChapters();
       } else if (view === 'characters') {
         renderCharacters();
+      } else if (view === 'plotcards') {
+        renderPlotCards();
       }
     }
     
@@ -640,8 +654,13 @@ function generateBookHTML(book, characters, chapters) {
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = '${lang}' === 'zh';
       
+      function getPageChapterId(chapterOrder) {
+        const pageIndex = Math.floor((chapterOrder - 1) / 2);
+        return chapters[pageIndex * 2].chapterId;
+      }
+      
       leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + ch.chapterId + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
           '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
           '<span class="chapter-dots"></span>' +
           '<span class="chapter-title">' + ch.title + '</span>' +
@@ -649,12 +668,54 @@ function generateBookHTML(book, characters, chapters) {
       ).join('') + '</div>';
       
       rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + ch.chapterId + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
           '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
           '<span class="chapter-dots"></span>' +
           '<span class="chapter-title">' + ch.title + '</span>' +
         '</a>'
       ).join('') + '</div>';
+    }
+    
+    function renderPlotCards() {
+      const leftContent = document.getElementById('leftPageContent');
+      const rightContent = document.getElementById('rightPageContent');
+      const allCards = bookData.plotCards || [];
+      
+      const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
+      const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
+      
+      const half = Math.ceil(cards.length / 2);
+      const leftCards = cards.slice(0, half);
+      const rightCards = cards.slice(half);
+      
+      function renderPlotCard(card, index) {
+        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\\'' + card.cardId + '\\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
+          '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
+          '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 13px; margin-top: 10px; text-align: center;">' + card.name + '</div>' +
+          '<div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">' + (card.description || '') + '</div>' +
+        '</div>';
+      }
+      
+      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+    }
+    
+    function showPlotCardDetail(cardId) {
+      const card = bookData.plotCards.find(c => c.cardId === cardId);
+      if (!card) return;
+      
+      const modal = document.getElementById('cardModal');
+      const content = modal.querySelector('.modal-card-display');
+      
+      content.innerHTML = 
+        '<div class="hs-card-mini plot-card" style="transform: none; margin: 0 auto;">' +
+          '<div style="font-size: 48px;">' + (card.icon || '🎭') + '</div>' +
+          '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 18px; margin-top: 15px;">' + card.name + '</div>' +
+          '<div style="color: #a0a0a0; font-size: 12px; margin-top: 8px;">' + card.sub_type + '</div>' +
+          '<div style="color: #ccc; font-size: 13px; margin-top: 10px; padding: 0 20px; line-height: 1.5;">' + (card.description || '') + '</div>' +
+        '</div>';
+      
+      modal.classList.add('active');
     }
     
     function renderCharacters() {
@@ -744,6 +805,32 @@ function generateBookHTML(book, characters, chapters) {
 </html>`;
 }
 
+function formatSingleChapterContent(chapter, isZh, romanNumerals) {
+  if (!chapter) {
+    return `<p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">${isZh ? '— 本章完 —' : '— End of Chapter —'}</p>`;
+  }
+  
+  const content = chapter.content || '';
+  const paragraphs = content.split(/\n\n|\n/).filter(p => p.trim());
+  
+  let html = `<div class="manuscript-title">
+    <div class="chapter-num">${isZh ? '第' : 'CHAPTER '}${romanNumerals[chapter.orderNum - 1] || chapter.orderNum}</div>
+    <div class="chapter-name">${chapter.title}</div>
+  </div>
+  <div class="manuscript-text">`;
+  
+  paragraphs.forEach((p, i) => {
+    if (i === 0) {
+      html += `<p><span class="drop-cap">${p.charAt(0)}</span>${formatParagraph(p.slice(1), isZh)}</p>\n`;
+    } else {
+      html += `<p>${formatParagraph(p, isZh)}</p>\n`;
+    }
+  });
+  
+  html += '</div>';
+  return html;
+}
+
 function formatChapterContent(content, isZh) {
   if (!content) {
     return { leftContent: '<p>No content available</p>', rightContent: '' };
@@ -819,26 +906,38 @@ function formatParagraph(text, isZh) {
   return formatted;
 }
 
-function generateChapterHTML(book, chapter, prevChapter, nextChapter, characters, totalChapters) {
+function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapter, nextPageFirstChapter, characters, totalChapters, currentPage, totalPages) {
   const lang = book.language;
   const isZh = lang === 'zh';
   const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
-  const orderNum = chapter.orderNum;
   
-  const formattedContent = formatChapterContent(chapter.content, isZh);
-  const leftContent = formattedContent.leftContent;
-  const rightContent = formattedContent.rightContent || formatNextChapterContent(nextChapter, isZh, romanNumerals);
+  const leftContent = formatSingleChapterContent(leftChapter, isZh, romanNumerals);
+  const rightContent = rightChapter 
+    ? formatSingleChapterContent(rightChapter, isZh, romanNumerals)
+    : `<div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">${isZh ? '— 全书完 —' : '— The End —'}</p></div>`;
+  
+  const prevUrl = prevPageFirstChapter 
+    ? `${prevPageFirstChapter.chapterId}.html`
+    : `../books/${book.bookId}.html`;
+  const prevLabel = prevPageFirstChapter 
+    ? (isZh ? '上一页' : 'Previous')
+    : (isZh ? '目录' : 'Contents');
+  
+  const nextUrl = nextPageFirstChapter 
+    ? `${nextPageFirstChapter.chapterId}.html`
+    : null;
+  const nextLabel = isZh ? '下一页' : 'Next';
   
   return `<!DOCTYPE html>
 <html lang="${isZh ? 'zh' : 'en'}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${isZh ? '第' : 'Chapter '}${romanNumerals[orderNum - 1] || orderNum}: ${chapter.title} - ${book.title} - StoryBook</title>
-  <meta name="description" content="${isZh ? '阅读' : 'Read'} ${chapter.title} - ${book.title}">
-  <meta name="keywords" content="${isZh ? '互动故事, AI故事, ' + book.title + ', ' + chapter.title : 'interactive story, AI story, ' + book.title + ', ' + chapter.title}">
-  <meta property="og:title" content="${chapter.title} - ${book.title}">
-  <meta property="og:description" content="${isZh ? '阅读' : 'Read'} ${chapter.title}">
+  <title>${isZh ? '第' : 'Chapter '}${romanNumerals[leftChapter.orderNum - 1] || leftChapter.orderNum}${rightChapter ? (isZh ? '、' : ' & ') + (romanNumerals[rightChapter.orderNum - 1] || rightChapter.orderNum) : ''}: ${leftChapter.title}${rightChapter ? ' / ' + rightChapter.title : ''} - ${book.title} - StoryBook</title>
+  <meta name="description" content="${isZh ? '阅读' : 'Read'} ${leftChapter.title}${rightChapter ? ' / ' + rightChapter.title : ''} - ${book.title}">
+  <meta name="keywords" content="${isZh ? '互动故事, AI故事, ' + book.title + ', ' + leftChapter.title : 'interactive story, AI story, ' + book.title + ', ' + leftChapter.title}">
+  <meta property="og:title" content="${leftChapter.title}${rightChapter ? ' / ' + rightChapter.title : ''} - ${book.title}">
+  <meta property="og:description" content="${isZh ? '阅读' : 'Read'} ${leftChapter.title}${rightChapter ? ' / ' + rightChapter.title : ''}">
   <meta property="og:type" content="article">
   <meta property="og:locale" content="${isZh ? 'zh_CN' : 'en_US'}">
   <link rel="stylesheet" href="../css/variables.css">
@@ -851,13 +950,13 @@ function generateChapterHTML(book, chapter, prevChapter, nextChapter, characters
   {
     "@context": "https://schema.org",
     "@type": "Chapter",
-    "name": "${chapter.title}",
+    "name": "${leftChapter.title}",
     "isPartOf": {
       "@type": "Book",
       "name": "${book.title}",
       "genre": "${TYPE_NAMES[lang][book.type] || book.type}"
     },
-    "position": ${orderNum},
+    "position": ${leftChapter.orderNum},
     "inLanguage": "${isZh ? 'zh' : 'en'}"
   }
   </script>
@@ -1239,13 +1338,7 @@ function generateChapterHTML(book, chapter, prevChapter, nextChapter, characters
         <div class="page-edge left"></div>
         <div class="page-edge bottom"></div>
         <div class="reading-content">
-          <div class="manuscript-title">
-            <div class="chapter-num">${isZh ? '第' : 'CHAPTER '}${romanNumerals[orderNum - 1] || orderNum}</div>
-            <div class="chapter-name">${chapter.title}</div>
-          </div>
-          <div class="manuscript-text">
-            ${leftContent}
-          </div>
+          ${leftContent}
         </div>
       </div>
       
@@ -1255,24 +1348,21 @@ function generateChapterHTML(book, chapter, prevChapter, nextChapter, characters
         <div class="page-edge right"></div>
         <div class="page-edge bottom"></div>
         <div class="reading-content">
-          ${rightContent || `<div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">${isZh ? '— 本章完 —' : '— End of Chapter —'}</p></div>`}
+          ${rightContent}
         </div>
       </div>
     </div>
   </div>
   
   <div class="reading-nav-bar">
-    ${prevChapter 
-      ? `<a href="${prevChapter.chapterId}.html" class="scroll-nav-btn">← ${isZh ? '上一章' : 'Previous'}</a>`
-      : `<a href="../books/${book.bookId}.html" class="scroll-nav-btn">← ${isZh ? '目录' : 'Contents'}</a>`
-    }
+    <a href="${prevUrl}" class="scroll-nav-btn">← ${prevLabel}</a>
     <div class="nav-info">
       <a href="../books/${book.bookId}.html">${book.title}</a>
       <span style="margin: 0 10px;">|</span>
-      ${isZh ? '第' : 'Chapter '}${orderNum} ${isZh ? '章' : ''} ${isZh ? '' : 'of '}${totalChapters || '?'}
+      ${isZh ? '第' : 'Page '}${currentPage} ${isZh ? '页' : ''} ${isZh ? '' : 'of '}${totalPages}
     </div>
-    ${nextChapter 
-      ? `<a href="${nextChapter.chapterId}.html" class="scroll-nav-btn">${isZh ? '下一章' : 'Next'} →</a>`
+    ${nextUrl 
+      ? `<a href="${nextUrl}" class="scroll-nav-btn">${nextLabel} →</a>`
       : `<span class="scroll-nav-btn" style="opacity: 0.5; cursor: default;">${isZh ? '已完结' : 'The End'}</span>`
     }
   </div>
@@ -1292,18 +1382,42 @@ function generateChapterHTML(book, chapter, prevChapter, nextChapter, characters
 }
 
 function main() {
-  const sqlPath = path.join(__dirname, '../migrations/0002_seed_data.sql');
-  const sql = fs.readFileSync(sqlPath, 'utf8');
+  const sqlPaths = [
+    path.join(__dirname, '../migrations/0002_seed_data.sql'),
+    path.join(__dirname, '../migrations/0010_fix_plot_cards_fields.sql'),
+    path.join(__dirname, '../migrations/0011_new_preset_books.sql'),
+    path.join(__dirname, '../migrations/0012_fix_seed_plot_cards_part1.sql'),
+    path.join(__dirname, '../migrations/0012_fix_seed_plot_cards_part2.sql'),
+    path.join(__dirname, '../migrations/0012_fix_seed_plot_cards_part3.sql'),
+    path.join(__dirname, '../migrations/0013_supplement_new_books_plot_cards.sql')
+  ];
   
-  const booksRaw = parseInsertStatements(sql, 'books');
-  const charactersRaw = parseInsertStatements(sql, 'characters');
-  const chaptersRaw = parseInsertStatements(sql, 'chapters');
+  let allBooksRaw = [];
+  let allCharactersRaw = [];
+  let allChaptersRaw = [];
+  let allPlotCardsRaw = [];
   
-  console.log(`解析到 ${booksRaw.length} 本书籍`);
-  console.log(`解析到 ${charactersRaw.length} 个角色`);
-  console.log(`解析到 ${chaptersRaw.length} 个章节`);
+  for (const sqlPath of sqlPaths) {
+    if (fs.existsSync(sqlPath)) {
+      const sql = fs.readFileSync(sqlPath, 'utf8');
+      
+      const booksRaw = parseInsertStatements(sql, 'books');
+      const charactersRaw = parseInsertStatements(sql, 'characters');
+      const chaptersRaw = parseInsertStatements(sql, 'chapters');
+      const plotCardsRaw = parseInsertStatements(sql, 'plot_cards');
+      
+      allBooksRaw = allBooksRaw.concat(booksRaw);
+      allCharactersRaw = allCharactersRaw.concat(charactersRaw);
+      allChaptersRaw = allChaptersRaw.concat(chaptersRaw);
+      allPlotCardsRaw = allPlotCardsRaw.concat(plotCardsRaw);
+      
+      console.log(`从 ${path.basename(sqlPath)} 解析到 ${booksRaw.length} 本书籍, ${charactersRaw.length} 个角色, ${chaptersRaw.length} 个章节, ${plotCardsRaw.length} 个情节卡牌`);
+    }
+  }
   
-  const books = booksRaw.map(b => ({
+  console.log(`总计: ${allBooksRaw.length} 本书籍, ${allCharactersRaw.length} 个角色, ${allChaptersRaw.length} 个章节, ${allPlotCardsRaw.length} 个情节卡牌`);
+  
+  const books = allBooksRaw.map(b => ({
     bookId: b[0],
     userId: b[1],
     title: b[2],
@@ -1312,7 +1426,7 @@ function main() {
     language: b[5]
   }));
   
-  const characters = charactersRaw.map(c => ({
+  const characters = allCharactersRaw.map(c => ({
     charId: c[0],
     bookId: c[1],
     name: c[2],
@@ -1325,7 +1439,40 @@ function main() {
     isProtagonist: c[9] === '1' || c[9] === 1
   }));
   
-  const chapters = chaptersRaw.map(ch => ({
+  const plotCardsRaw = allPlotCardsRaw.map(p => ({
+    cardId: p[0],
+    bookId: p[1],
+    type: p[2],
+    sub_type: p[3],
+    name: p[4],
+    icon: p[5],
+    description: p[6]
+  }));
+  
+  const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
+  const seenCardIds = new Set();
+  const seenContent = new Set();
+  const uniquePlotCards = [];
+  
+  for (const card of plotCardsRaw) {
+    if (!validSubTypes.includes(card.sub_type)) {
+      continue;
+    }
+    if (seenCardIds.has(card.cardId)) {
+      continue;
+    }
+    const contentKey = `${card.bookId}-${card.sub_type}-${card.name}`;
+    if (seenContent.has(contentKey)) {
+      continue;
+    }
+    seenCardIds.add(card.cardId);
+    seenContent.add(contentKey);
+    uniquePlotCards.push(card);
+  }
+  
+  console.log(`去重后保留 ${uniquePlotCards.length} 个情节卡牌`);
+  
+  const chapters = allChaptersRaw.map(ch => ({
     chapterId: ch[0],
     bookId: ch[1],
     title: ch[2],
@@ -1344,7 +1491,7 @@ function main() {
     const bookCharacters = characters.filter(c => c.bookId === book.bookId);
     const bookChapters = chapters.filter(ch => ch.bookId === book.bookId);
     
-    const html = generateBookHTML(book, bookCharacters, bookChapters);
+    const html = generateBookHTML(book, bookCharacters, bookChapters, uniquePlotCards);
     const filename = `${book.bookId}.html`;
     
     fs.writeFileSync(path.join(booksOutputDir, filename), html);
@@ -1364,17 +1511,27 @@ function main() {
       .filter(ch => ch.bookId === book.bookId)
       .sort((a, b) => a.orderNum - b.orderNum);
     
-    bookChapters.forEach((chapter, index) => {
-      const prevChapter = index > 0 ? bookChapters[index - 1] : null;
-      const nextChapter = index < bookChapters.length - 1 ? bookChapters[index + 1] : null;
+    const totalPages = Math.ceil(bookChapters.length / 2);
+    
+    for (let pageIndex = 0; pageIndex < totalPages; pageIndex++) {
+      const leftIndex = pageIndex * 2;
+      const rightIndex = leftIndex + 1;
       
-      const html = generateChapterHTML(book, chapter, prevChapter, nextChapter, bookCharacters, bookChapters.length);
-      const filename = `${chapter.chapterId}.html`;
+      const leftChapter = bookChapters[leftIndex];
+      const rightChapter = rightIndex < bookChapters.length ? bookChapters[rightIndex] : null;
+      
+      const prevPageFirstChapter = pageIndex > 0 ? bookChapters[(pageIndex - 1) * 2] : null;
+      const nextPageFirstChapter = pageIndex < totalPages - 1 ? bookChapters[(pageIndex + 1) * 2] : null;
+      
+      const currentPage = pageIndex + 1;
+      
+      const html = generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapter, nextPageFirstChapter, bookCharacters, bookChapters.length, currentPage, totalPages);
+      const filename = `${leftChapter.chapterId}.html`;
       
       fs.writeFileSync(path.join(chaptersOutputDir, filename), html);
-      console.log(`✓ 生成章节: ${filename}`);
+      console.log(`✓ 生成章节页: ${filename} (第${leftChapter.orderNum}章${rightChapter ? ` + 第${rightChapter.orderNum}章` : ''})`);
       chapterCount++;
-    });
+    }
   });
   
   console.log(`\n完成！共生成 ${bookCount} 个书籍页面, ${chapterCount} 个章节页面`);

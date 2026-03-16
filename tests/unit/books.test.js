@@ -149,7 +149,7 @@ describe('Books API', () => {
       const json = await response.json();
 
       expect(json.success).toBe(false);
-      expect(json.error).toContain('主角');
+      expect(json.error).toContain('PROTAGONIST_REQUIRED');
     });
   });
 

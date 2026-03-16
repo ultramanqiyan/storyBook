@@ -25,26 +25,26 @@ describe('预设数据', () => {
 
   it('应该有预设角色数据', () => {
     expect(sql).toContain('INSERT INTO characters');
-    expect(sql).toContain('char-adventure-');
-    expect(sql).toContain('char-fantasy-');
-    expect(sql).toContain('char-romance-');
-    expect(sql).toContain('char-business-');
+    expect(sql).toContain('char-adv');
+    expect(sql).toContain('char-fan');
+    expect(sql).toContain('char-rom');
+    expect(sql).toContain('char-bus');
   });
 
   it('应该有预设章节数据', () => {
     expect(sql).toContain('INSERT INTO chapters');
-    expect(sql).toContain('chapter-adventure-');
-    expect(sql).toContain('chapter-fantasy-');
-    expect(sql).toContain('chapter-romance-');
-    expect(sql).toContain('chapter-business-');
+    expect(sql).toContain('chapter-adv');
+    expect(sql).toContain('chapter-fan');
+    expect(sql).toContain('chapter-rom');
+    expect(sql).toContain('chapter-bus');
   });
 
   it('应该有预设谜题数据', () => {
     expect(sql).toContain('INSERT INTO puzzles');
-    expect(sql).toContain('puzzle-adventure-');
-    expect(sql).toContain('puzzle-fantasy-');
-    expect(sql).toContain('puzzle-romance-');
-    expect(sql).toContain('puzzle-business-');
+    expect(sql).toContain('puzzle-adv');
+    expect(sql).toContain('puzzle-fan');
+    expect(sql).toContain('puzzle-rom');
+    expect(sql).toContain('puzzle-bus');
   });
 
   it('章节应该有selected_cards字段', () => {

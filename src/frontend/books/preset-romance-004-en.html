@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Childhood Sweethearts - StoryBook</title>
+  <meta name="description" content="Childhood Sweethearts - AI Interactive Story">
+  <meta name="keywords" content="interactive story, AI story, Childhood Sweethearts, Romance">
+  <meta property="og:title" content="Childhood Sweethearts - StoryBook">
+  <meta property="og:description" content="Childhood Sweethearts - AI Interactive Story">
+  <meta property="og:type" content="book">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Childhood Sweethearts",
+    "genre": "Romance",
+    "inLanguage": "en",
+    "author": { "@type": "Organization", "name": "StoryBook" },
+    "character": [{"@type":"Person","name":"Sunny","description":"Designer - independent, nostalgic, fears change"},{"@type":"Person","name":"Chase","description":"Architect - gentle, devoted, responsible"},{"@type":"Person","name":"Candy","description":"Little Sister - cute, mischievous, matchmaker"}],
+    "numberOfPages": "10"
+  }
+  </script>
+  <style>
+    .book-opening-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .book-container {
+      position: relative;
+      width: 90%;
+      max-width: 1200px;
+      height: 80vh;
+      min-height: 600px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .book-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 40px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #2a1a0a 0%, 
+        #4a3a2a 20%, 
+        #3a2a1a 50%, 
+        #4a3a2a 80%, 
+        #2a1a0a 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 20px rgba(0, 0, 0, 0.5),
+        inset 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    .book-spine::before {
+      content: '';
+      position: absolute;
+      top: 10%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 4px;
+      height: 80%;
+      background: linear-gradient(180deg, 
+        #8B4513 0%, 
+        #A0522D 50%, 
+        #8B4513 100%);
+      border-radius: 2px;
+    }
+    
+    .book-spine-title {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) rotate(-90deg);
+      white-space: nowrap;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #D4AF37;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+      letter-spacing: 2px;
+    }
+    
+    .book-page {
+      position: absolute;
+      width: calc(50% - 30px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .book-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .book-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-content {
+      position: relative;
+      height: 100%;
+      padding: 30px;
+      overflow-y: auto;
+      color: #2a1810;
+      z-index: 1;
+    }
+    
+    .view-tabs {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.3);
+    }
+    
+    .view-tab {
+      padding: 8px 20px;
+      background: rgba(139, 90, 43, 0.1);
+      border: 2px solid rgba(139, 90, 43, 0.3);
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #4a3a2a;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .view-tab:hover {
+      background: rgba(139, 90, 43, 0.2);
+      border-color: #8B4513;
+    }
+    
+    .view-tab.active {
+      background: rgba(139, 90, 43, 0.3);
+      border-color: #8B4513;
+      color: #2a1810;
+    }
+    
+    .book-info-header {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      padding: 20px;
+      background: rgba(139, 90, 43, 0.1);
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    
+    .book-cover-small {
+      width: 80px;
+      height: 110px;
+      background: linear-gradient(135deg, #2a4a2a 0%, #1a2a1a 100%);
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    .book-cover-small span {
+      font-size: 36px;
+    }
+    
+    .book-meta-info h2 {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 20px;
+      color: #2a1810;
+      margin-bottom: 5px;
+    }
+    
+    .book-meta-info .type-badge {
+      display: inline-block;
+      padding: 3px 10px;
+      background: #8B4513;
+      color: #f4e4bc;
+      border-radius: 4px;
+      font-size: 10px;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    
+    .book-meta-info .stats {
+      display: flex;
+      gap: 15px;
+      font-size: 12px;
+      color: #4a3a2a;
+    }
+    
+    .action-buttons {
+      display: flex;
+      gap: 10px;
+      margin-top: 15px;
+    }
+    
+    .action-btn {
+      padding: 10px 20px;
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border: 2px solid #D4AF37;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 13px;
+      color: #f4e4bc;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+    }
+    
+    .action-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
+    }
+    
+    .chapter-toc {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    
+    .chapter-toc-item {
+      display: flex;
+      align-items: center;
+      padding: 10px 15px;
+      background: rgba(139, 90, 43, 0.1);
+      border: 1px solid rgba(139, 90, 43, 0.2);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+      color: #2a1810;
+    }
+    
+    .chapter-toc-item:hover {
+      background: rgba(139, 90, 43, 0.2);
+      transform: translateX(5px);
+    }
+    
+    .chapter-toc-item .chapter-number {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 12px;
+      color: #8B4513;
+      min-width: 60px;
+    }
+    
+    .chapter-toc-item .chapter-dots {
+      flex: 1;
+      border-bottom: 1px dotted rgba(139, 90, 43, 0.3);
+      margin: 0 10px;
+    }
+    
+    .chapter-toc-item .chapter-title {
+      font-family: 'Cinzel', serif;
+      font-size: 14px;
+    }
+    
+    .character-grid-view {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+      gap: 15px;
+      justify-items: center;
+      padding: 15px 0;
+    }
+    
+    .plot-grid-view {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 20px;
+      justify-items: center;
+      padding: 15px 0;
+    }
+    
+    .hs-card-mini {
+      width: 130px;
+      height: 170px;
+      background: linear-gradient(180deg, #1a1a2e 0%, #16213e 50%, #0f0f23 100%);
+      border: 2px solid #D4AF37;
+      border-radius: 10px;
+      padding: 15px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .hs-card-mini:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 25px rgba(212, 175, 55, 0.3);
+    }
+    
+    @media (max-width: 900px) {
+      .book-container {
+        width: 95%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+      }
+      
+      .book-spine {
+        display: none;
+      }
+      
+      .book-page {
+        position: relative;
+        width: 100%;
+        height: auto;
+        min-height: 400px;
+        margin-bottom: 20px;
+      }
+      
+      .book-page.left,
+      .book-page.right {
+        border-radius: 8px;
+      }
+    }
+  </style>
+</head>
+<body class="theme-romance">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index.html" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index.html" class="navbar-link">Home</a>
+      <a href="../library.html" class="navbar-link">Library</a>
+      <a href="../bookshelf.html" class="navbar-link">My Books</a>
+    </div>
+  </nav>
+  
+  <div class="book-opening-page">
+    <div class="book-container">
+      <div class="book-spine">
+        <span class="book-spine-title">Childhood Sweethearts</span>
+      </div>
+      
+      <div class="book-page left">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div class="book-info-header">
+            <div class="book-cover-small">
+              <span>💕</span>
+            </div>
+            <div class="book-meta-info">
+              <span class="type-badge">Romance</span>
+              <h2>Childhood Sweethearts</h2>
+              <div class="stats">
+                <span>📜 10 Chapters</span>
+                <span>👥 3 Characters</span>
+              </div>
+              <div class="action-buttons">
+                <a href="../chapters/chapter-rom004-01-en.html" class="action-btn">Start Reading</a>
+                <button class="action-btn" onclick="importPresetBook()">Import</button>
+              </div>
+            </div>
+          </div>
+          
+          <div class="view-tabs">
+            <button class="view-tab active" onclick="switchView('chapters')">📜 Chapters</button>
+            <button class="view-tab" onclick="switchView('characters')">👥 Characters</button>
+            <button class="view-tab" onclick="switchView('plotcards')">🃏 Plot Cards</button>
+          </div>
+          
+          <div id="leftPageContent">
+            <div class="chapter-toc">
+              <a href="../chapters/chapter-rom004-01-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0s backwards;">
+                  <span class="chapter-number">Ch. I</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Returning Home</span>
+                </a><a href="../chapters/chapter-rom004-01-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.1s backwards;">
+                  <span class="chapter-number">Ch. II</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Reunion</span>
+                </a><a href="../chapters/chapter-rom004-03-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.2s backwards;">
+                  <span class="chapter-number">Ch. III</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Memories</span>
+                </a><a href="../chapters/chapter-rom004-03-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
+                  <span class="chapter-number">Ch. IV</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Ambiguity</span>
+                </a><a href="../chapters/chapter-rom004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                  <span class="chapter-number">Ch. V</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Confession</span>
+                </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
+            <div class="chapter-toc">
+              <a href="../chapters/chapter-rom004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                  <span class="chapter-number">Ch. VI</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Sweetness</span>
+                </a><a href="../chapters/chapter-rom004-07-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.6000000000000001s backwards;">
+                  <span class="chapter-number">Ch. VII</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Test</span>
+                </a><a href="../chapters/chapter-rom004-07-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.7000000000000001s backwards;">
+                  <span class="chapter-number">Ch. VIII</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Choice</span>
+                </a><a href="../chapters/chapter-rom004-09-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.8s backwards;">
+                  <span class="chapter-number">Ch. IX</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Proposal</span>
+                </a><a href="../chapters/chapter-rom004-09-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.9s backwards;">
+                  <span class="chapter-number">Ch. X</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Happiness</span>
+                </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div id="cardModal" class="modal-overlay" onclick="closeCardModal(event)">
+    <div class="modal-card-content">
+      <button class="modal-close-btn" onclick="closeCardModal()">&times;</button>
+      <div class="modal-card-display"></div>
+    </div>
+  </div>
+  
+  <script src="../js/api.js"></script>
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    const bookData = {
+      bookId: 'preset-romance-004-en',
+      title: 'Childhood Sweethearts',
+      type: 'romance',
+      chapters: [{"chapterId":"chapter-rom004-01-en","title":"Returning Home","orderNum":1},{"chapterId":"chapter-rom004-02-en","title":"Reunion","orderNum":2},{"chapterId":"chapter-rom004-03-en","title":"Memories","orderNum":3},{"chapterId":"chapter-rom004-04-en","title":"Ambiguity","orderNum":4},{"chapterId":"chapter-rom004-05-en","title":"Confession","orderNum":5},{"chapterId":"chapter-rom004-06-en","title":"Sweetness","orderNum":6},{"chapterId":"chapter-rom004-07-en","title":"Test","orderNum":7},{"chapterId":"chapter-rom004-08-en","title":"Choice","orderNum":8},{"chapterId":"chapter-rom004-09-en","title":"Proposal","orderNum":9},{"chapterId":"chapter-rom004-10-en","title":"Happiness","orderNum":10}],
+      characters: [{"charId":"char-rom004-001-en","name":"Sunny","roleType":"Designer","personality":"independent, nostalgic, fears change","avatar":"👩","isProtagonist":true},{"charId":"char-rom004-002-en","name":"Chase","roleType":"Architect","personality":"gentle, devoted, responsible","avatar":"👨","isProtagonist":false},{"charId":"char-rom004-003-en","name":"Candy","roleType":"Little Sister","personality":"cute, mischievous, matchmaker","avatar":"👧","isProtagonist":false}],
+      plotCards: [{"card_id":"card-rom004-01-en","sub_type":"weather","name":"Cherry Blossoms","icon":"🌸","description":"Falling cherry blossoms, romantic memories"},{"card_id":"card-rom004-02-en","sub_type":"terrain","name":"Campus","icon":"🏫","description":"Youthful campus, place of memories"},{"card_id":"card-rom004-03-en","sub_type":"adventure","name":"Reunion","icon":"🎉","description":"Meet again, old flames reignite"},{"card_id":"card-rom004-04-en","sub_type":"equipment","name":"Letter Paper","icon":"✉️","description":"Handwritten love letters, convey feelings"},{"card_id":"card-rom004-w02-en","sub_type":"weather","name":"Sunny","icon":"☀️","description":"Bright sunshine, day of reunion"},{"card_id":"card-rom004-w03-en","sub_type":"weather","name":"Sunset","icon":"🌇","description":"Romantic sunset"},{"card_id":"card-rom004-w04-en","sub_type":"weather","name":"Moonlight","icon":"🌙","description":"Bright moonlight"},{"card_id":"card-rom004-t02-en","sub_type":"terrain","name":"Old Street","icon":"🏘️","description":"Nostalgic old street"},{"card_id":"card-rom004-t03-en","sub_type":"terrain","name":"Park","icon":"🌳","description":"Quiet park"},{"card_id":"card-rom004-t04-en","sub_type":"terrain","name":"Cafe","icon":"☕","description":"Cozy cafe"},{"card_id":"card-rom004-a02-en","sub_type":"adventure","name":"Date","icon":"🌹","description":"Sweet date"},{"card_id":"card-rom004-a03-en","sub_type":"adventure","name":"Confession","icon":"💕","description":"Brave confession"},{"card_id":"card-rom004-a04-en","sub_type":"adventure","name":"Proposal","icon":"💍","description":"Romantic proposal"},{"card_id":"card-rom004-e02-en","sub_type":"equipment","name":"Camera","icon":"📷","description":"Capture beautiful moments"},{"card_id":"card-rom004-e03-en","sub_type":"equipment","name":"Ring","icon":"💍","description":"Symbol of love"},{"card_id":"card-rom004-e04-en","sub_type":"equipment","name":"Flowers","icon":"💐","description":"Romantic gift"}]
+    };
+    
+    let currentView = 'chapters';
+    
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-romance';
+      createParticles(document.getElementById('particles'), 30);
+    });
+    
+    function switchView(view) {
+      if (view === currentView) return;
+      currentView = view;
+      
+      document.querySelectorAll('.view-tab').forEach(tab => {
+        tab.classList.remove('active');
+      });
+      event.target.classList.add('active');
+      
+      if (view === 'chapters') {
+        renderChapters();
+      } else if (view === 'characters') {
+        renderCharacters();
+      } else if (view === 'plotcards') {
+        renderPlotCards();
+      }
+    }
+    
+    function renderChapters() {
+      const leftContent = document.getElementById('leftPageContent');
+      const rightContent = document.getElementById('rightPageContent');
+      const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
+      const half = Math.ceil(chapters.length / 2);
+      const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
+      const isZh = 'en' === 'zh';
+      
+      function getPageChapterId(chapterOrder) {
+        const pageIndex = Math.floor((chapterOrder - 1) / 2);
+        return chapters[pageIndex * 2].chapterId;
+      }
+      
+      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+          '<span class="chapter-dots"></span>' +
+          '<span class="chapter-title">' + ch.title + '</span>' +
+        '</a>'
+      ).join('') + '</div>';
+      
+      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+          '<span class="chapter-dots"></span>' +
+          '<span class="chapter-title">' + ch.title + '</span>' +
+        '</a>'
+      ).join('') + '</div>';
+    }
+    
+    function renderPlotCards() {
+      const leftContent = document.getElementById('leftPageContent');
+      const rightContent = document.getElementById('rightPageContent');
+      const allCards = bookData.plotCards || [];
+      
+      const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
+      const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
+      
+      const half = Math.ceil(cards.length / 2);
+      const leftCards = cards.slice(0, half);
+      const rightCards = cards.slice(half);
+      
+      function renderPlotCard(card, index) {
+        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.cardId + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
+          '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
+          '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 13px; margin-top: 10px; text-align: center;">' + card.name + '</div>' +
+          '<div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">' + (card.description || '') + '</div>' +
+        '</div>';
+      }
+      
+      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+    }
+    
+    function showPlotCardDetail(cardId) {
+      const card = bookData.plotCards.find(c => c.cardId === cardId);
+      if (!card) return;
+      
+      const modal = document.getElementById('cardModal');
+      const content = modal.querySelector('.modal-card-display');
+      
+      content.innerHTML = 
+        '<div class="hs-card-mini plot-card" style="transform: none; margin: 0 auto;">' +
+          '<div style="font-size: 48px;">' + (card.icon || '🎭') + '</div>' +
+          '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 18px; margin-top: 15px;">' + card.name + '</div>' +
+          '<div style="color: #a0a0a0; font-size: 12px; margin-top: 8px;">' + card.sub_type + '</div>' +
+          '<div style="color: #ccc; font-size: 13px; margin-top: 10px; padding: 0 20px; line-height: 1.5;">' + (card.description || '') + '</div>' +
+        '</div>';
+      
+      modal.classList.add('active');
+    }
+    
+    function renderCharacters() {
+      const leftContent = document.getElementById('leftPageContent');
+      const rightContent = document.getElementById('rightPageContent');
+      const characters = bookData.characters;
+      const half = Math.ceil(characters.length / 2);
+      
+      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+        '</div>'
+      ).join('') + '</div>';
+      
+      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+        '</div>'
+      ).join('') + '</div>';
+    }
+    
+    function showCharacterDetail(index) {
+      const char = bookData.characters[index];
+      const modal = document.getElementById('cardModal');
+      const content = modal.querySelector('.modal-card-display');
+      
+      content.innerHTML = 
+        '<div class="hs-card-mini" style="transform: none; margin: 0 auto;">' +
+          '<div style="font-size: 64px;">' + (char.avatar || '👤') + '</div>' +
+          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 18px; margin-top: 15px;">' + char.name + '</div>' +
+          '<div style="color: #a0a0a0; font-size: 14px; margin-top: 8px;">' + char.roleType + '</div>' +
+          (char.personality ? '<div style="color: #ccc; font-size: 12px; margin-top: 10px; padding: 0 20px;">' + char.personality + '</div>' : '') +
+        '</div>';
+      
+      modal.classList.add('active');
+    }
+    
+    function closeCardModal(event) {
+      if (!event || event.target.classList.contains('modal-overlay')) {
+        document.getElementById('cardModal').classList.remove('active');
+      }
+    }
+    
+    async function importPresetBook() {
+      const btn = event.target;
+      const userId = localStorage.getItem('user_id');
+      
+      if (!userId) {
+        alert('Please login first');
+        window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
+        return;
+      }
+      
+      btn.disabled = true;
+      btn.textContent = 'Importing...';
+      
+      try {
+        const response = await fetch('/api/books/' + bookData.bookId + '/import', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ user_id: userId })
+        });
+        
+        if (response.ok) {
+          const result = await response.json();
+          btn.textContent = 'Import Success!';
+          setTimeout(() => {
+            window.location.href = '../book.html?id=' + result.data.new_book_id;
+          }, 1000);
+        } else {
+          throw new Error('Import failed');
+        }
+      } catch (error) {
+        btn.textContent = 'Import Failed';
+        btn.disabled = false;
+        setTimeout(() => {
+          btn.textContent = 'Import';
+        }, 2000);
+      }
+    }
+  </script>
+</body>
+</html>

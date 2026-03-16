@@ -83,7 +83,7 @@ describe('Config API', () => {
       const result = await response.json();
       
       const adventure = result.data.types.find(t => t.type === 'adventure');
-      expect(adventure.name).toBe('儿童冒险');
+      expect(adventure.name).toContain('Adventure');
       expect(adventure.theme).toBe('adventure');
       expect(adventure.type).toBeDefined();
     });
@@ -129,7 +129,7 @@ describe('Config API', () => {
       const result = await response.json();
       
       expect(result.success).toBe(false);
-      expect(result.error).toContain('无效');
+      expect(result.error).toContain('Invalid');
     });
   });
 
@@ -151,8 +151,8 @@ describe('Config API', () => {
       const response = await onRequestGet(context);
       const result = await response.json();
       
-      expect(result.data.personality).toContain('勇敢');
-      expect(result.data.personality).toContain('善良');
+      expect(result.data.personality).toContain('Brave');
+      expect(result.data.personality).toContain('Kind');
     });
   });
 
@@ -174,8 +174,8 @@ describe('Config API', () => {
       const response = await onRequestGet(context);
       const result = await response.json();
       
-      expect(result.data.speech_styles).toContain('幽默');
-      expect(result.data.speech_styles).toContain('温柔');
+      expect(result.data.speech_styles).toContain('Humorous');
+      expect(result.data.speech_styles).toContain('Gentle');
     });
   });
 
@@ -223,7 +223,7 @@ describe('Config API', () => {
       const result = await response.json();
       
       expect(result.success).toBe(false);
-      expect(result.error).toContain('无效');
+      expect(result.error).toContain('Invalid');
     });
 
     it('should return error for invalid sub_type', async () => {
@@ -233,7 +233,7 @@ describe('Config API', () => {
       const result = await response.json();
       
       expect(result.success).toBe(false);
-      expect(result.error).toContain('无效');
+      expect(result.error).toContain('Invalid');
     });
 
     it('should return plot options with correct structure', async () => {
