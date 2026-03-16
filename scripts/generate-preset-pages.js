@@ -1389,7 +1389,9 @@ function main() {
     path.join(__dirname, '../migrations/0012_fix_seed_plot_cards_part1.sql'),
     path.join(__dirname, '../migrations/0012_fix_seed_plot_cards_part2.sql'),
     path.join(__dirname, '../migrations/0012_fix_seed_plot_cards_part3.sql'),
-    path.join(__dirname, '../migrations/0013_supplement_new_books_plot_cards.sql')
+    path.join(__dirname, '../migrations/0013_supplement_new_books_plot_cards.sql'),
+    path.join(__dirname, '../migrations/0016_new_preset_books_006.sql'),
+    path.join(__dirname, '../migrations/0017_new_preset_books_006_chapters.sql')
   ];
   
   let allBooksRaw = [];

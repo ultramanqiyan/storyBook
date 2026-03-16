@@ -210,17 +210,68 @@ const sqlFiles = [
 ];
 ```
 
-### 步骤4：线上部署
+### 步骤4：更新sitemap.xml
+
+**重要**：为了让Google等搜索引擎收录新书，需要更新sitemap.xml。
+
+编辑 `src/frontend/sitemap.xml`，添加新书籍和章节的URL：
+
+```xml
+<!-- 书籍页面 -->
+<url>
+  <loc>https://storybook-adventures.com/books/preset-adventure-006.html</loc>
+  <lastmod>2026-03-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-adventure-006.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-adventure-006-en.html"/>
+</url>
+
+<url>
+  <loc>https://storybook-adventures.com/books/preset-adventure-006-en.html</loc>
+  <lastmod>2026-03-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-adventure-006.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-adventure-006-en.html"/>
+</url>
+
+<!-- 章节页面（每本书5个章节页面，奇数章节） -->
+<url>
+  <loc>https://storybook-adventures.com/chapters/chapter-adv006-01.html</loc>
+  <lastmod>2026-03-16</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.6</priority>
+  <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-adv006-01.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-adv006-01-en.html"/>
+</url>
+```
+
+**需要添加的URL数量**：
+- 每本书：2个URL（中文版 + 英文版）
+- 每本书章节：10个URL（5个章节 × 2语言）
+- 总计：每本书12个sitemap条目
+
+### 步骤5：线上部署
 
 ```bash
 # 1. 执行线上数据库迁移
 wrangler d1 execute storybook_database --remote --file=./migrations/00XX_new_preset_books.sql
 
-# 2. 部署前端（包含静态页面）
+# 2. 部署前端（包含静态页面和sitemap.xml）
 wrangler pages deploy src/frontend --project-name=storybook --commit-dirty=true
 ```
 
-### 步骤5：验证
+### 步骤6：提交Google收录（可选）
+
+部署完成后，可以在Google Search Console提交sitemap：
+
+1. 访问 [Google Search Console](https://search.google.com/search-console)
+2. 选择网站属性
+3. 点击"站点地图"
+4. 输入 `sitemap.xml` 并提交
+
+### 步骤7：验证
 
 ```bash
 # 检查线上数据
@@ -231,7 +282,7 @@ wrangler d1 execute storybook_database --remote --command "SELECT book_id, title
 # 书籍详情: https://storybook.pages.dev/books/preset-adventure-005.html
 ```
 
-### 步骤6：完整命令汇总
+### 步骤8：完整命令汇总
 
 ```bash
 # === 本地开发 ===
@@ -240,6 +291,7 @@ node scripts/generate-preset-pages.js
 
 # === 线上部署 ===
 wrangler d1 execute storybook_database --remote --file=./migrations/00XX_new_preset_books.sql
+# 手动更新 src/frontend/sitemap.xml
 wrangler pages deploy src/frontend --project-name=storybook --commit-dirty=true
 ```
 
@@ -307,6 +359,31 @@ wrangler d1 execute storybook_database --remote --file=./migrations/00XX_new_pre
 **原因**：单引号转义问题
 
 **解决方案**：使用 `''` 替代 `\'`
+
+### Q: Google没有收录新书？
+
+**原因**：sitemap.xml未更新
+
+**解决方案**：
+1. 更新 `src/frontend/sitemap.xml`，添加新书和章节URL
+2. 重新部署前端
+3. 在Google Search Console提交sitemap
+
+### Q: 静态文件已部署但图书馆看不到书？
+
+**原因**：SQL迁移未执行到线上数据库
+
+**解决方案**：
+```bash
+# 执行线上数据库迁移
+wrangler d1 execute storybook_database --remote --file=./migrations/00XX_new_preset_books.sql
+```
+
+**说明**：
+- 静态HTML文件用于SEO和直接访问
+- 公共图书馆页面从数据库读取书籍列表
+- 导入功能需要数据库中有预设书籍数据
+- 两者都需要才能完整功能
 
 ## 六、部署架构说明
 
