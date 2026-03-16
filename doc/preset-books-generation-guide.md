@@ -2,7 +2,7 @@
 
 ## 概述
 
-本文档说明如何为预设书籍生成SQL数据文件和静态HTML页面。
+本文档说明如何为预设书籍生成SQL数据文件和静态HTML页面，并部署到线上。
 
 ## 目录结构
 
@@ -135,31 +135,113 @@ node scripts/generate-preset-pages.js
 2. **角色卡牌** - 显示所有角色
 3. **情节卡牌** - 按类型分组显示情节卡牌
 
-## 三、完整流程
+## 三、完整流程：新增预设书籍并上线
 
-### 添加新预设书籍的步骤
+### 步骤1：创建SQL迁移文件
 
-1. **创建SQL文件**
-   - 在 `migrations/` 目录创建新的SQL文件
-   - 按照命名规范创建书籍ID
-   - 填充书籍、角色、章节、情节卡牌、谜题数据
+在 `migrations/` 目录下创建新的SQL文件，命名格式：`00XX_new_preset_books_描述.sql`
 
-2. **导入数据库**
-   ```bash
-   wrangler d1 execute storybook_database --local --file=migrations/your_file.sql
-   ```
+**SQL文件需要包含以下数据表**：
 
-3. **更新生成脚本**
-   - 在 `generate-preset-pages.js` 的 `sqlPaths` 数组中添加新SQL文件路径
+| 表名 | 必填内容 | 说明 |
+|------|----------|------|
+| `books` | 书籍基本信息 | book_id, title, type, is_preset=1, language |
+| `characters` | 角色数据 | 每本书3个角色，包含主角 |
+| `chapters` | 章节数据 | 每本书10个章节，每章>300字 |
+| `plot_cards` | 情节卡牌 | 每本书16张（4种类型×4张） |
+| `puzzles` | 谜题数据 | 可选，每本书3个谜题 |
 
-4. **生成静态页面**
-   ```bash
-   node scripts/generate-preset-pages.js
-   ```
+**SQL模板示例**：
 
-5. **验证结果**
-   - 访问 `http://127.0.0.1:8788/books/preset-{type}-{number}.html`
-   - 检查章节、角色、情节卡牌是否正确显示
+```sql
+-- 1. 书籍数据
+INSERT OR IGNORE INTO books (book_id, user_id, title, type, is_preset, language) VALUES
+('preset-adventure-005', 'system', '新书标题', 'adventure', 1, 'zh'),
+('preset-adventure-005-en', 'system', 'New Book Title', 'adventure', 1, 'en');
+
+-- 2. 角色数据
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist) VALUES
+('char-adv005-001', 'preset-adventure-005', '主角名', '角色类型', '性格描述', '说话风格', '👦', NULL, NULL, 1);
+
+-- 3. 章节数据
+INSERT INTO chapters (chapter_id, book_id, title, content, selected_cards, order_num) VALUES
+('chap-adv005-01', 'preset-adventure-005', '第一章标题', '章节内容...', '卡牌ID列表', 1);
+
+-- 4. 情节卡牌（每种类型4张）
+INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description) VALUES
+('card-adv005-w01', 'preset-adventure-005', 'plot', 'weather', '晴天', '☀️', '描述'),
+('card-adv005-t01', 'preset-adventure-005', 'plot', 'terrain', '森林', '🌲', '描述'),
+('card-adv005-a01', 'preset-adventure-005', 'plot', 'adventure', '探险', '🧭', '描述'),
+('card-adv005-e01', 'preset-adventure-005', 'plot', 'equipment', '地图', '🗺️', '描述');
+```
+
+**注意事项**：
+- `book_id` 格式：`preset-{类型缩写}-{序号}`，如 `preset-adventure-005`
+- `is_preset` 必须为 `1`
+- `language` 为 `zh` 或 `en`
+- 情节卡牌命名：`card-{类型缩写}{序号}-{类型缩写}{卡牌序号}`
+- SQLite单引号转义使用 `''` 而非 `\'`
+
+### 步骤2：本地测试
+
+```bash
+# 1. 执行本地数据库迁移
+wrangler d1 execute storybook_database --local --file=./migrations/00XX_new_preset_books.sql
+
+# 2. 验证数据
+wrangler d1 execute storybook_database --local --command "SELECT * FROM books WHERE book_id LIKE 'preset-%'"
+```
+
+### 步骤3：生成静态页面
+
+```bash
+# 运行生成脚本
+node scripts/generate-preset-pages.js
+```
+
+**如需修改生成脚本读取的SQL文件**，编辑 `scripts/generate-preset-pages.js`：
+
+```javascript
+const sqlFiles = [
+  path.join(__dirname, '../migrations/0002_seed_data.sql'),
+  path.join(__dirname, '../migrations/0011_new_preset_books.sql'),
+  // 添加新的SQL文件
+  path.join(__dirname, '../migrations/00XX_new_preset_books.sql'),
+];
+```
+
+### 步骤4：线上部署
+
+```bash
+# 1. 执行线上数据库迁移
+wrangler d1 execute storybook_database --remote --file=./migrations/00XX_new_preset_books.sql
+
+# 2. 部署前端（包含静态页面）
+wrangler pages deploy src/frontend --project-name=storybook --commit-dirty=true
+```
+
+### 步骤5：验证
+
+```bash
+# 检查线上数据
+wrangler d1 execute storybook_database --remote --command "SELECT book_id, title FROM books WHERE is_preset = 1"
+
+# 访问验证
+# 公共图书馆: https://storybook.pages.dev/library.html
+# 书籍详情: https://storybook.pages.dev/books/preset-adventure-005.html
+```
+
+### 步骤6：完整命令汇总
+
+```bash
+# === 本地开发 ===
+wrangler d1 execute storybook_database --local --file=./migrations/00XX_new_preset_books.sql
+node scripts/generate-preset-pages.js
+
+# === 线上部署 ===
+wrangler d1 execute storybook_database --remote --file=./migrations/00XX_new_preset_books.sql
+wrangler pages deploy src/frontend --project-name=storybook --commit-dirty=true
+```
 
 ## 四、注意事项
 
@@ -186,12 +268,27 @@ node scripts/generate-preset-pages.js
 
 ## 五、常见问题
 
+### Q: 公共图书馆看不到书籍？
+
+**原因**：线上数据库没有书籍数据
+
+**解决方案**：
+```bash
+wrangler d1 execute storybook_database --remote --file=./migrations/00XX_new_preset_books.sql
+```
+
 ### Q: 情节卡牌不显示？
 
 检查：
 1. SQL文件是否在 `sqlPaths` 数组中
 2. `sub_type` 是否为标准类型
 3. `book_id` 是否与书籍ID匹配
+
+### Q: 情节卡牌重复？
+
+**原因**：多个SQL文件有相同内容
+
+**解决方案**：使用内容去重或合并SQL
 
 ### Q: 章节内容显示不完整？
 
@@ -204,3 +301,35 @@ node scripts/generate-preset-pages.js
 1. 确认SQL文件已导入数据库
 2. 重新运行生成脚本
 3. 清除浏览器缓存
+
+### Q: SQL执行报错？
+
+**原因**：单引号转义问题
+
+**解决方案**：使用 `''` 替代 `\'`
+
+## 六、部署架构说明
+
+### 6.1 技术架构
+
+| 组件 | 技术 | 说明 |
+|------|------|------|
+| 前端托管 | Cloudflare Pages | 静态HTML页面 |
+| 数据库 | Cloudflare D1 | SQLite数据库 |
+| API | Cloudflare Workers | Functions API |
+
+### 6.2 数据流向
+
+```
+SQL文件 → 本地数据库测试 → 生成静态页面 → 线上数据库 → 前端部署
+```
+
+### 6.3 关键文件
+
+| 文件 | 用途 |
+|------|------|
+| `wrangler.toml` | Cloudflare配置 |
+| `migrations/*.sql` | 数据库迁移文件 |
+| `scripts/generate-preset-pages.js` | 静态页面生成脚本 |
+| `src/frontend/books/*.html` | 书籍静态页面 |
+| `src/frontend/chapters/*.html` | 章节静态页面 |

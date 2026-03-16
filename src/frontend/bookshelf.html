@@ -9,9 +9,10 @@
   <meta property="og:description" content="Your personal library of interactive stories">
   <meta property="og:locale" content="en_US">
   <meta property="og:locale:alternate" content="zh_CN">
-  <link rel="alternate" hreflang="en" href="https://storybook.com/bookshelf.html?lang=en">
-  <link rel="alternate" hreflang="zh" href="https://storybook.com/bookshelf.html?lang=zh">
-  <link rel="alternate" hreflang="x-default" href="https://storybook.com/bookshelf.html">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/bookshelf.html?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/bookshelf.html?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/bookshelf.html">
+  <link rel="canonical" href="https://storybook-adventures.com/bookshelf.html">
   <link rel="stylesheet" href="css/variables.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/animations.css">
@@ -343,7 +344,7 @@
       </div>
       <a href="library.html" class="navbar-link" data-i18n="nav.library">Public Library</a>
       <div class="user-info">
-        <div class="user-avatar">🧙‍♂️</div>
+        <div class="user-avatar">🧙‍♂�?/div>
         <span class="user-name">StoryTeller</span>
       </div>
       <a href="#" class="navbar-link" onclick="logout(); return false;" data-i18n="nav.signOut">Sign Out</a>
@@ -358,7 +359,7 @@
     
     <div class="filter-tabs">
       <button class="filter-tab active" data-filter="all" data-i18n="bookshelf.allStories">All Stories</button>
-      <button class="filter-tab" data-filter="adventure">🗺️ <span data-i18n="bookshelf.adventure">Adventure</span></button>
+      <button class="filter-tab" data-filter="adventure">🗺�?<span data-i18n="bookshelf.adventure">Adventure</span></button>
       <button class="filter-tab" data-filter="fantasy">🧙 <span data-i18n="bookshelf.fantasy">Fantasy</span></button>
       <button class="filter-tab" data-filter="romance">💕 <span data-i18n="bookshelf.romance">Romance</span></button>
       <button class="filter-tab" data-filter="business">💼 <span data-i18n="bookshelf.business">Business</span></button>
@@ -461,7 +462,7 @@
     
     function createBookElement(book) {
       const typeIcons = {
-        adventure: '🗺️',
+        adventure: '🗺�?,
         fantasy: '🧙',
         romance: '💕',
         business: '💼'
@@ -493,7 +494,7 @@
           <div class="book-pages"></div>
           <div class="book-title">${book.title}</div>
           <div class="book-tag">${book.type}</div>
-          ${!isPreset ? `<button class="book-delete-btn" onclick="event.stopPropagation(); showDeleteConfirm('${bookId}', '${book.title.replace(/'/g, "\\'")}')">🗑️</button>` : ''}
+          ${!isPreset ? `<button class="book-delete-btn" onclick="event.stopPropagation(); showDeleteConfirm('${bookId}', '${book.title.replace(/'/g, "\\'")}')">🗑�?/button>` : ''}
         </div>
         <div class="book-info">
           <h4>${book.title}</h4>

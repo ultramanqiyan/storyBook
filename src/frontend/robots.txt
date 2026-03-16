@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://storybook-adventures.com/sitemap.xml
