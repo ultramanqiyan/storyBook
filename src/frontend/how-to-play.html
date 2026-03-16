@@ -1,0 +1,1088 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="howToPlay.meta.title">How to Play - StoryBook</title>
+  <meta name="description" content="Learn how to create interactive stories with StoryBook">
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/themes.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <style>
+    .how-to-play-container {
+      display: flex;
+      min-height: 100vh;
+      padding-top: 70px;
+    }
+    
+    .sidebar-nav {
+      width: 240px;
+      background: rgba(0, 0, 0, 0.3);
+      border-right: 1px solid rgba(255, 215, 0, 0.2);
+      padding: var(--spacing-xl) 0;
+      position: fixed;
+      top: 70px;
+      left: 0;
+      height: calc(100vh - 70px);
+      overflow-y: auto;
+      z-index: 100;
+    }
+    
+    .sidebar-nav-title {
+      padding: 0 var(--spacing-lg);
+      margin-bottom: var(--spacing-lg);
+      font-size: 14px;
+      color: var(--color-text-muted);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    
+    .sidebar-nav-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    
+    .sidebar-nav-item {
+      margin: 4px 0;
+    }
+    
+    .sidebar-nav-link {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+      padding: 12px var(--spacing-lg);
+      color: var(--color-text-muted);
+      text-decoration: none;
+      transition: all 0.3s ease;
+      border-left: 3px solid transparent;
+    }
+    
+    .sidebar-nav-link:hover {
+      color: var(--color-text);
+      background: rgba(255, 255, 255, 0.05);
+    }
+    
+    .sidebar-nav-link.active {
+      color: var(--color-gold);
+      background: rgba(255, 215, 0, 0.1);
+      border-left-color: var(--color-gold);
+    }
+    
+    .sidebar-nav-link .nav-icon {
+      font-size: 18px;
+    }
+    
+    .content-area {
+      flex: 1;
+      margin-left: 240px;
+      padding: var(--spacing-xxl) var(--spacing-xxl);
+      max-width: 900px;
+    }
+    
+    .section {
+      margin-bottom: var(--spacing-xxl);
+      scroll-margin-top: 100px;
+    }
+    
+    .section-header {
+      margin-bottom: var(--spacing-xl);
+    }
+    
+    .section-title {
+      font-size: 2rem;
+      margin-bottom: var(--spacing-sm);
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+    }
+    
+    .section-subtitle {
+      color: var(--color-text-muted);
+      font-size: 1.1rem;
+    }
+    
+    .intro-hero {
+      text-align: center;
+      padding: var(--spacing-xxl) 0;
+      border-bottom: 1px solid rgba(255, 215, 0, 0.2);
+      margin-bottom: var(--spacing-xxl);
+    }
+    
+    .intro-hero-title {
+      font-size: 2.5rem;
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .intro-hero-subtitle {
+      font-size: 1.3rem;
+      color: var(--color-text-muted);
+      margin-bottom: var(--spacing-sm);
+    }
+    
+    .intro-hero-tagline {
+      font-size: 1.1rem;
+      color: var(--color-gold);
+      font-style: italic;
+    }
+    
+    .feature-cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: var(--spacing-lg);
+      margin-top: var(--spacing-xl);
+    }
+    
+    .feature-card {
+      background: var(--gradient-card);
+      border: 1px solid rgba(255, 215, 0, 0.2);
+      border-radius: 12px;
+      padding: var(--spacing-xl);
+      text-align: center;
+      transition: all 0.3s ease;
+    }
+    
+    .feature-card:hover {
+      transform: translateY(-5px);
+      border-color: var(--color-gold);
+      box-shadow: 0 10px 30px rgba(255, 215, 0, 0.1);
+    }
+    
+    .feature-card-icon {
+      font-size: 3rem;
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .feature-card-title {
+      font-size: 1.2rem;
+      margin-bottom: var(--spacing-sm);
+      color: var(--color-gold);
+    }
+    
+    .feature-card-desc {
+      color: var(--color-text-muted);
+      font-size: 0.9rem;
+      line-height: 1.6;
+    }
+    
+    .step-container {
+      background: var(--gradient-card);
+      border: 1px solid rgba(255, 215, 0, 0.2);
+      border-radius: 12px;
+      padding: var(--spacing-xl);
+      margin-bottom: var(--spacing-lg);
+    }
+    
+    .step-header {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-md);
+      margin-bottom: var(--spacing-lg);
+    }
+    
+    .step-number {
+      width: 40px;
+      height: 40px;
+      background: var(--color-gold);
+      color: #1a1a2e;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+    
+    .step-title {
+      font-size: 1.3rem;
+    }
+    
+    .step-content {
+      color: var(--color-text-muted);
+      line-height: 1.8;
+    }
+    
+    .book-type-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: var(--spacing-md);
+      margin-top: var(--spacing-lg);
+    }
+    
+    .book-type-card {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 8px;
+      padding: var(--spacing-md);
+      text-align: center;
+      transition: all 0.3s ease;
+    }
+    
+    .book-type-card:hover {
+      border-color: var(--color-gold);
+      background: rgba(255, 215, 0, 0.1);
+    }
+    
+    .book-type-icon {
+      font-size: 2rem;
+      margin-bottom: var(--spacing-sm);
+    }
+    
+    .book-type-name {
+      font-size: 0.9rem;
+      margin-bottom: 4px;
+    }
+    
+    .book-type-desc {
+      font-size: 0.75rem;
+      color: var(--color-text-muted);
+    }
+    
+    .character-preview {
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 8px;
+      padding: var(--spacing-lg);
+      margin-top: var(--spacing-lg);
+    }
+    
+    .character-preview-row {
+      display: flex;
+      gap: var(--spacing-lg);
+      flex-wrap: wrap;
+    }
+    
+    .character-item {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+      background: rgba(255, 255, 255, 0.05);
+      padding: var(--spacing-sm) var(--spacing-md);
+      border-radius: 20px;
+    }
+    
+    .character-avatar {
+      font-size: 1.5rem;
+    }
+    
+    .card-type-section {
+      margin-bottom: var(--spacing-xl);
+    }
+    
+    .card-type-title {
+      font-size: 1.2rem;
+      margin-bottom: var(--spacing-md);
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+    }
+    
+    .card-type-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: var(--spacing-md);
+    }
+    
+    .card-type-item {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 8px;
+      padding: var(--spacing-md);
+      text-align: center;
+    }
+    
+    .card-type-item-icon {
+      font-size: 1.5rem;
+      margin-bottom: var(--spacing-xs);
+    }
+    
+    .card-type-item-name {
+      font-size: 0.85rem;
+      margin-bottom: 2px;
+    }
+    
+    .card-type-item-limit {
+      font-size: 0.7rem;
+      color: var(--color-text-muted);
+    }
+    
+    .obtain-methods {
+      background: rgba(255, 255, 255, 0.03);
+      border-radius: 8px;
+      padding: var(--spacing-lg);
+      margin-top: var(--spacing-lg);
+    }
+    
+    .obtain-method {
+      display: flex;
+      align-items: flex-start;
+      gap: var(--spacing-md);
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .obtain-method:last-child {
+      margin-bottom: 0;
+    }
+    
+    .obtain-method-icon {
+      font-size: 1.5rem;
+      flex-shrink: 0;
+    }
+    
+    .obtain-method-content {
+      flex: 1;
+    }
+    
+    .obtain-method-title {
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+    
+    .obtain-method-desc {
+      color: var(--color-text-muted);
+      font-size: 0.9rem;
+    }
+    
+    .director-flow {
+      display: flex;
+      flex-direction: column;
+      gap: var(--spacing-lg);
+    }
+    
+    .director-step {
+      display: flex;
+      gap: var(--spacing-lg);
+      align-items: flex-start;
+    }
+    
+    .director-step-number {
+      width: 50px;
+      height: 50px;
+      background: var(--gradient-primary);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      flex-shrink: 0;
+    }
+    
+    .director-step-content {
+      flex: 1;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 8px;
+      padding: var(--spacing-lg);
+    }
+    
+    .director-step-title {
+      font-size: 1.1rem;
+      margin-bottom: var(--spacing-sm);
+    }
+    
+    .director-step-desc {
+      color: var(--color-text-muted);
+      font-size: 0.9rem;
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .card-selection-preview {
+      display: flex;
+      gap: var(--spacing-sm);
+      flex-wrap: wrap;
+    }
+    
+    .card-preview-item {
+      background: rgba(255, 215, 0, 0.1);
+      border: 1px solid rgba(255, 215, 0, 0.3);
+      border-radius: 6px;
+      padding: 6px 12px;
+      font-size: 0.85rem;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    
+    .puzzle-rules {
+      background: var(--gradient-card);
+      border: 1px solid rgba(255, 215, 0, 0.2);
+      border-radius: 12px;
+      padding: var(--spacing-xl);
+      margin-bottom: var(--spacing-lg);
+    }
+    
+    .puzzle-rule {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-md);
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .puzzle-rule:last-child {
+      margin-bottom: 0;
+    }
+    
+    .puzzle-rule-icon {
+      font-size: 1.5rem;
+    }
+    
+    .puzzle-rule-text {
+      flex: 1;
+    }
+    
+    .reward-section {
+      background: rgba(255, 215, 0, 0.1);
+      border: 1px solid rgba(255, 215, 0, 0.3);
+      border-radius: 12px;
+      padding: var(--spacing-xl);
+      text-align: center;
+      margin-bottom: var(--spacing-lg);
+    }
+    
+    .reward-title {
+      font-size: 1.2rem;
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .reward-card {
+      display: inline-flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+      background: var(--gradient-primary);
+      padding: var(--spacing-md) var(--spacing-xl);
+      border-radius: 8px;
+      margin-bottom: var(--spacing-md);
+    }
+    
+    .reward-card-icon {
+      font-size: 2rem;
+    }
+    
+    .reward-card-text {
+      font-size: 1.1rem;
+      font-weight: bold;
+    }
+    
+    .reward-note {
+      color: var(--color-text-muted);
+      font-size: 0.9rem;
+    }
+    
+    .puzzle-types {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: var(--spacing-md);
+    }
+    
+    .puzzle-type-card {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 8px;
+      padding: var(--spacing-lg);
+      text-align: center;
+    }
+    
+    .puzzle-type-icon {
+      font-size: 2rem;
+      margin-bottom: var(--spacing-sm);
+    }
+    
+    .puzzle-type-name {
+      font-size: 1rem;
+      margin-bottom: 4px;
+    }
+    
+    .puzzle-type-desc {
+      font-size: 0.8rem;
+      color: var(--color-text-muted);
+    }
+    
+    .cta-section {
+      text-align: center;
+      padding: var(--spacing-xxl) 0;
+      border-top: 1px solid rgba(255, 215, 0, 0.2);
+      margin-top: var(--spacing-xxl);
+    }
+    
+    .cta-title {
+      font-size: 1.5rem;
+      margin-bottom: var(--spacing-lg);
+    }
+    
+    .cta-buttons {
+      display: flex;
+      gap: var(--spacing-md);
+      justify-content: center;
+    }
+    
+    @media (max-width: 1024px) {
+      .sidebar-nav {
+        width: 200px;
+      }
+      
+      .content-area {
+        margin-left: 200px;
+        padding: var(--spacing-xl);
+      }
+      
+      .feature-cards {
+        grid-template-columns: 1fr;
+      }
+      
+      .book-type-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      
+      .card-type-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      
+      .puzzle-types {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    @media (max-width: 768px) {
+      .how-to-play-container {
+        flex-direction: column;
+      }
+      
+      .sidebar-nav {
+        position: fixed;
+        top: 70px;
+        left: 0;
+        width: 100%;
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid rgba(255, 215, 0, 0.2);
+        padding: var(--spacing-md) 0;
+      }
+      
+      .sidebar-nav-title {
+        display: none;
+      }
+      
+      .sidebar-nav-list {
+        display: flex;
+        overflow-x: auto;
+        padding: 0 var(--spacing-md);
+        gap: var(--spacing-sm);
+        -webkit-overflow-scrolling: touch;
+      }
+      
+      .sidebar-nav-item {
+        flex-shrink: 0;
+      }
+      
+      .sidebar-nav-link {
+        padding: 8px 16px;
+        border-left: none;
+        border-bottom: 2px solid transparent;
+        border-radius: 20px;
+        white-space: nowrap;
+      }
+      
+      .sidebar-nav-link.active {
+        border-left: none;
+        border-bottom-color: var(--color-gold);
+      }
+      
+      .content-area {
+        margin-left: 0;
+        margin-top: 60px;
+        padding: var(--spacing-lg);
+      }
+      
+      .intro-hero-title {
+        font-size: 1.8rem;
+      }
+      
+      .section-title {
+        font-size: 1.5rem;
+      }
+      
+      .book-type-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      
+      .card-type-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      
+      .director-step {
+        flex-direction: column;
+      }
+      
+      .cta-buttons {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="index.html" class="navbar-brand" data-i18n="home.title">StoryBook</a>
+    <div class="navbar-nav">
+      <div class="navbar-language">
+        <button class="lang-btn active" onclick="switchLanguage('en')">EN</button>
+        <button class="lang-btn" onclick="switchLanguage('zh')">中文</button>
+      </div>
+      <a href="library.html" class="navbar-link" data-i18n="nav.library">Library</a>
+      <a href="bookshelf.html" class="navbar-link" data-i18n="nav.myLibrary">My Library</a>
+      <a href="login.html" class="btn btn-secondary" data-i18n="nav.signIn">Sign In</a>
+    </div>
+  </nav>
+  
+  <div class="how-to-play-container">
+    <aside class="sidebar-nav">
+      <div class="sidebar-nav-title" data-i18n="howToPlay.nav.title">Contents</div>
+      <ul class="sidebar-nav-list">
+        <li class="sidebar-nav-item">
+          <a href="#section-intro" class="sidebar-nav-link active" data-section="section-intro">
+            <span class="nav-icon">✨</span>
+            <span data-i18n="howToPlay.nav.intro">Introduction</span>
+          </a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a href="#section-create" class="sidebar-nav-link" data-section="section-create">
+            <span class="nav-icon">📚</span>
+            <span data-i18n="howToPlay.nav.createBook">Create Book</span>
+          </a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a href="#section-cards" class="sidebar-nav-link" data-section="section-cards">
+            <span class="nav-icon">🃏</span>
+            <span data-i18n="howToPlay.nav.cardSystem">Card System</span>
+          </a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a href="#section-chapter" class="sidebar-nav-link" data-section="section-chapter">
+            <span class="nav-icon">🎬</span>
+            <span data-i18n="howToPlay.nav.chapterGen">Chapter Gen</span>
+          </a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a href="#section-puzzle" class="sidebar-nav-link" data-section="section-puzzle">
+            <span class="nav-icon">🧩</span>
+            <span data-i18n="howToPlay.nav.puzzle">Puzzles</span>
+          </a>
+        </li>
+      </ul>
+    </aside>
+    
+    <main class="content-area">
+      <section id="section-intro" class="section">
+        <div class="intro-hero">
+          <h1 class="intro-hero-title" data-i18n="howToPlay.intro.title">Welcome to StoryBook</h1>
+          <p class="intro-hero-subtitle" data-i18n="howToPlay.intro.subtitle">Create Your Own Interactive Stories</p>
+          <p class="intro-hero-tagline" data-i18n="howToPlay.intro.tagline">Every choice begins a new story</p>
+        </div>
+        
+        <div class="feature-cards">
+          <div class="feature-card">
+            <div class="feature-card-icon">🎭</div>
+            <h3 class="feature-card-title" data-i18n="howToPlay.intro.creationTitle">Interactive Creation</h3>
+            <p class="feature-card-desc" data-i18n="howToPlay.intro.creationDesc">You are the director. Choose characters and plots to weave unique stories.</p>
+          </div>
+          
+          <div class="feature-card">
+            <div class="feature-card-icon">🃏</div>
+            <h3 class="feature-card-title" data-i18n="howToPlay.intro.collectionTitle">Card Collection</h3>
+            <p class="feature-card-desc" data-i18n="howToPlay.intro.collectionDesc">Each card is a puzzle piece of your story. Collect them all!</p>
+          </div>
+          
+          <div class="feature-card">
+            <div class="feature-card-icon">🧩</div>
+            <h3 class="feature-card-title" data-i18n="howToPlay.intro.puzzleTitle">Fun Puzzles</h3>
+            <p class="feature-card-desc" data-i18n="howToPlay.intro.puzzleDesc">Solve puzzles to earn mysterious rewards and enrich your collection.</p>
+          </div>
+        </div>
+      </section>
+      
+      <section id="section-create" class="section">
+        <div class="section-header">
+          <h2 class="section-title">
+            <span>📚</span>
+            <span data-i18n="howToPlay.create.title">Create Your First Book</span>
+          </h2>
+        </div>
+        
+        <div class="step-container">
+          <div class="step-header">
+            <div class="step-number">1</div>
+            <h3 class="step-title" data-i18n="howToPlay.create.step1Title">Choose Book Type</h3>
+          </div>
+          <p class="step-content" data-i18n="howToPlay.create.step1Desc">Each type has unique visual style and character settings.</p>
+          <div class="book-type-grid">
+            <div class="book-type-card">
+              <div class="book-type-icon">🗺️</div>
+              <div class="book-type-name" data-i18n="howToPlay.create.adventure">Adventure</div>
+              <div class="book-type-desc" data-i18n="howToPlay.create.adventureDesc">Bright & Lively</div>
+            </div>
+            <div class="book-type-card">
+              <div class="book-type-icon">🧙</div>
+              <div class="book-type-name" data-i18n="howToPlay.create.fantasy">Fantasy</div>
+              <div class="book-type-desc" data-i18n="howToPlay.create.fantasyDesc">Mysterious & Gorgeous</div>
+            </div>
+            <div class="book-type-card">
+              <div class="book-type-icon">💕</div>
+              <div class="book-type-name" data-i18n="howToPlay.create.romance">Romance</div>
+              <div class="book-type-desc" data-i18n="howToPlay.create.romanceDesc">Romantic & Warm</div>
+            </div>
+            <div class="book-type-card">
+              <div class="book-type-icon">💼</div>
+              <div class="book-type-name" data-i18n="howToPlay.create.business">Business</div>
+              <div class="book-type-desc" data-i18n="howToPlay.create.businessDesc">Professional & Calm</div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="step-container">
+          <div class="step-header">
+            <div class="step-number">2</div>
+            <h3 class="step-title" data-i18n="howToPlay.create.step2Title">Create Protagonist</h3>
+          </div>
+          <p class="step-content" data-i18n="howToPlay.create.step2Desc">Define personality, speech style, and character type.</p>
+          <div class="character-preview">
+            <div class="character-preview-row">
+              <div class="character-item">
+                <span class="character-avatar">🧙‍♂️</span>
+                <span data-i18n="howToPlay.create.protagonistName">Protagonist Name</span>
+              </div>
+            </div>
+            <p style="margin-top: var(--spacing-md); color: var(--color-text-muted); font-size: 0.9rem;">
+              <span data-i18n="howToPlay.create.personality">Personality</span>: Brave / Smart / Gentle ...<br>
+              <span data-i18n="howToPlay.create.speechStyle">Speech Style</span>: Humorous / Serious / Gentle ...<br>
+              <span data-i18n="howToPlay.create.roleType">Role Type</span>: Explorer / Mage / White Collar ...
+            </p>
+          </div>
+        </div>
+        
+        <div class="step-container">
+          <div class="step-header">
+            <div class="step-number">3</div>
+            <h3 class="step-title" data-i18n="howToPlay.create.step3Title">Add Supporting Characters (Optional)</h3>
+          </div>
+          <p class="step-content" data-i18n="howToPlay.create.step3Desc">Enrich your story with up to 3 supporting characters.</p>
+          <div class="character-preview">
+            <div class="character-preview-row">
+              <div class="character-item">
+                <span class="character-avatar">👸</span>
+                <span data-i18n="howToPlay.create.supporting1">Supporting 1</span>
+                <span style="color: #4CAF50;">😊</span>
+              </div>
+              <div class="character-item">
+                <span class="character-avatar">🧝</span>
+                <span data-i18n="howToPlay.create.supporting2">Supporting 2</span>
+                <span style="color: #FFC107;">😐</span>
+              </div>
+              <div class="character-item">
+                <span class="character-avatar">🦹</span>
+                <span data-i18n="howToPlay.create.supporting3">Supporting 3</span>
+                <span style="color: #f44336;">😠</span>
+              </div>
+            </div>
+            <p style="margin-top: var(--spacing-md); color: var(--color-text-muted); font-size: 0.9rem;" data-i18n="howToPlay.create.relationshipHint">
+              Set relationship: Friendly / Neutral / Hostile
+            </p>
+          </div>
+        </div>
+      </section>
+      
+      <section id="section-cards" class="section">
+        <div class="section-header">
+          <h2 class="section-title">
+            <span>🃏</span>
+            <span data-i18n="howToPlay.cards.title">Card System</span>
+          </h2>
+        </div>
+        
+        <div class="card-type-section">
+          <h3 class="card-type-title">
+            <span>👥</span>
+            <span data-i18n="howToPlay.cards.characterCards">Character Cards</span>
+          </h3>
+          <p style="color: var(--color-text-muted); margin-bottom: var(--spacing-md);" data-i18n="howToPlay.cards.characterDesc">
+            Represent characters in the story, auto-generated when creating a book.
+          </p>
+          <div class="character-preview-row">
+            <div class="character-item">
+              <span class="character-avatar">🧙‍♂️</span>
+              <span data-i18n="howToPlay.cards.protagonist">Protagonist</span>
+            </div>
+            <div class="character-item">
+              <span class="character-avatar">👸</span>
+              <span data-i18n="howToPlay.cards.supporting">Supporting</span>
+            </div>
+          </div>
+          <p style="margin-top: var(--spacing-sm); color: var(--color-text-muted); font-size: 0.85rem;" data-i18n="howToPlay.cards.characterLimit">
+            Limit: 8 cards
+          </p>
+        </div>
+        
+        <div class="card-type-section">
+          <h3 class="card-type-title">
+            <span>🎴</span>
+            <span data-i18n="howToPlay.cards.plotCards">Plot Cards</span>
+          </h3>
+          <p style="color: var(--color-text-muted); margin-bottom: var(--spacing-md);" data-i18n="howToPlay.cards.plotDesc">
+            Earned by solving puzzles, used to generate chapters.
+          </p>
+          <div class="card-type-grid">
+            <div class="card-type-item">
+              <div class="card-type-item-icon">☀️</div>
+              <div class="card-type-item-name" data-i18n="howToPlay.cards.weather">Weather</div>
+              <div class="card-type-item-limit" data-i18n="howToPlay.cards.limit8">Limit: 8</div>
+            </div>
+            <div class="card-type-item">
+              <div class="card-type-item-icon">🏔️</div>
+              <div class="card-type-item-name" data-i18n="howToPlay.cards.terrain">Terrain</div>
+              <div class="card-type-item-limit" data-i18n="howToPlay.cards.limit8">Limit: 8</div>
+            </div>
+            <div class="card-type-item">
+              <div class="card-type-item-icon">⚔️</div>
+              <div class="card-type-item-name" data-i18n="howToPlay.cards.adventure">Adventure</div>
+              <div class="card-type-item-limit" data-i18n="howToPlay.cards.limit8">Limit: 8</div>
+            </div>
+            <div class="card-type-item">
+              <div class="card-type-item-icon">🎒</div>
+              <div class="card-type-item-name" data-i18n="howToPlay.cards.equipment">Equipment</div>
+              <div class="card-type-item-limit" data-i18n="howToPlay.cards.limit8">Limit: 8</div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="obtain-methods">
+          <h4 style="margin-bottom: var(--spacing-lg);" data-i18n="howToPlay.cards.howToGet">How to Get Cards</h4>
+          
+          <div class="obtain-method">
+            <span class="obtain-method-icon">1️⃣</span>
+            <div class="obtain-method-content">
+              <div class="obtain-method-title" data-i18n="howToPlay.cards.method1Title">Create Book</div>
+              <div class="obtain-method-desc" data-i18n="howToPlay.cards.method1Desc">Character cards are auto-generated when creating a book.</div>
+            </div>
+          </div>
+          
+          <div class="obtain-method">
+            <span class="obtain-method-icon">2️⃣</span>
+            <div class="obtain-method-content">
+              <div class="obtain-method-title" data-i18n="howToPlay.cards.method2Title">Solve Puzzles</div>
+              <div class="obtain-method-desc" data-i18n="howToPlay.cards.method2Desc">Solve puzzles to randomly earn 1 plot card.</div>
+            </div>
+          </div>
+          
+          <div class="obtain-method">
+            <span class="obtain-method-icon">3️⃣</span>
+            <div class="obtain-method-content">
+              <div class="obtain-method-title" data-i18n="howToPlay.cards.method3Title">Over Limit</div>
+              <div class="obtain-method-desc" data-i18n="howToPlay.cards.method3Desc">When over limit, choose a card to discard.</div>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      <section id="section-chapter" class="section">
+        <div class="section-header">
+          <h2 class="section-title">
+            <span>🎬</span>
+            <span data-i18n="howToPlay.chapter.title">Chapter Generation</span>
+          </h2>
+          <p class="section-subtitle" data-i18n="howToPlay.chapter.subtitle">In the "Story Director" page, select cards to generate new chapters.</p>
+        </div>
+        
+        <div class="director-flow">
+          <div class="director-step">
+            <div class="director-step-number">1</div>
+            <div class="director-step-content">
+              <h4 class="director-step-title" data-i18n="howToPlay.chapter.step1Title">Select Protagonist</h4>
+              <p class="director-step-desc" data-i18n="howToPlay.chapter.step1Desc">Must select 1 character as the chapter protagonist.</p>
+              <div class="card-selection-preview">
+                <div class="card-preview-item">
+                  <span>🧙‍♂️</span>
+                  <span data-i18n="howToPlay.chapter.protagonist">Protagonist</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="director-step">
+            <div class="director-step-number">2</div>
+            <div class="director-step-content">
+              <h4 class="director-step-title" data-i18n="howToPlay.chapter.step2Title">Select Plot Cards</h4>
+              <p class="director-step-desc" data-i18n="howToPlay.chapter.step2Desc">Must select exactly 1 card of each type.</p>
+              <div class="card-selection-preview">
+                <div class="card-preview-item">
+                  <span>☀️</span>
+                  <span data-i18n="howToPlay.chapter.sunny">Sunny</span>
+                </div>
+                <div class="card-preview-item">
+                  <span>🌲</span>
+                  <span data-i18n="howToPlay.chapter.forest">Forest</span>
+                </div>
+                <div class="card-preview-item">
+                  <span>🗺️</span>
+                  <span data-i18n="howToPlay.chapter.treasureHunt">Treasure Hunt</span>
+                </div>
+                <div class="card-preview-item">
+                  <span>🧭</span>
+                  <span data-i18n="howToPlay.chapter.compass">Compass</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="director-step">
+            <div class="director-step-number">3</div>
+            <div class="director-step-content">
+              <h4 class="director-step-title" data-i18n="howToPlay.chapter.step3Title">Start Shooting</h4>
+              <p class="director-step-desc" data-i18n="howToPlay.chapter.step3Desc">AI will generate a ~300 word chapter based on your selected cards.</p>
+              <button class="btn btn-3d" style="margin-top: var(--spacing-sm);">
+                <span>🎬</span>
+                <span data-i18n="howToPlay.chapter.startShooting">Start Shooting</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      <section id="section-puzzle" class="section">
+        <div class="section-header">
+          <h2 class="section-title">
+            <span>🧩</span>
+            <span data-i18n="howToPlay.puzzle.title">Puzzle Gameplay</span>
+          </h2>
+          <p class="section-subtitle" data-i18n="howToPlay.puzzle.subtitle">Each chapter contains a puzzle. Solve it to earn rewards!</p>
+        </div>
+        
+        <div class="puzzle-rules">
+          <h4 style="margin-bottom: var(--spacing-lg);" data-i18n="howToPlay.puzzle.rulesTitle">Puzzle Rules</h4>
+          
+          <div class="puzzle-rule">
+            <span class="puzzle-rule-icon">🎯</span>
+            <span class="puzzle-rule-text" data-i18n="howToPlay.puzzle.rule1">Each chapter has exactly 1 puzzle.</span>
+          </div>
+          
+          <div class="puzzle-rule">
+            <span class="puzzle-rule-icon">🔢</span>
+            <span class="puzzle-rule-text" data-i18n="howToPlay.puzzle.rule2">Maximum 3 attempts.</span>
+          </div>
+          
+          <div class="puzzle-rule">
+            <span class="puzzle-rule-icon">❌</span>
+            <span class="puzzle-rule-text" data-i18n="howToPlay.puzzle.rule3">Wrong answers show remaining attempts.</span>
+          </div>
+          
+          <div class="puzzle-rule">
+            <span class="puzzle-rule-icon">✅</span>
+            <span class="puzzle-rule-text" data-i18n="howToPlay.puzzle.rule4">Correct answer earns 1 random plot card.</span>
+          </div>
+        </div>
+        
+        <div class="reward-section">
+          <h4 class="reward-title" data-i18n="howToPlay.puzzle.rewardTitle">Puzzle Rewards</h4>
+          <div class="reward-card">
+            <span class="reward-card-icon">🃏</span>
+            <span class="reward-card-text" data-i18n="howToPlay.puzzle.rewardText">Random Plot Card x1</span>
+          </div>
+          <p class="reward-note" data-i18n="howToPlay.puzzle.rewardNote">Note: Only logged-in users can earn card rewards.</p>
+        </div>
+        
+        <h4 style="margin-bottom: var(--spacing-md);" data-i18n="howToPlay.puzzle.typesTitle">Puzzle Types</h4>
+        <div class="puzzle-types">
+          <div class="puzzle-type-card">
+            <div class="puzzle-type-icon">📝</div>
+            <div class="puzzle-type-name" data-i18n="howToPlay.puzzle.wordPuzzle">Word Puzzles</div>
+            <div class="puzzle-type-desc" data-i18n="howToPlay.puzzle.wordPuzzleDesc">Idioms, Riddles</div>
+          </div>
+          <div class="puzzle-type-card">
+            <div class="puzzle-type-icon">🔢</div>
+            <div class="puzzle-type-name" data-i18n="howToPlay.puzzle.logicPuzzle">Logic Puzzles</div>
+            <div class="puzzle-type-desc" data-i18n="howToPlay.puzzle.logicPuzzleDesc">Number patterns, Deduction</div>
+          </div>
+          <div class="puzzle-type-card">
+            <div class="puzzle-type-icon">🅰️</div>
+            <div class="puzzle-type-name" data-i18n="howToPlay.puzzle.multipleChoice">Multiple Choice</div>
+            <div class="puzzle-type-desc" data-i18n="howToPlay.puzzle.multipleChoiceDesc">Pick one from options</div>
+          </div>
+        </div>
+      </section>
+      
+      <div class="cta-section">
+        <h3 class="cta-title" data-i18n="howToPlay.cta.title">Ready to Create Your Story?</h3>
+        <div class="cta-buttons">
+          <a href="book-create.html" class="btn btn-3d" data-i18n="howToPlay.cta.createStory">Create Your Story</a>
+          <a href="library.html" class="btn btn-secondary" data-i18n="howToPlay.cta.exploreLibrary">Explore Library</a>
+        </div>
+      </div>
+    </main>
+  </div>
+  
+  <script src="js/api.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const particlesContainer = document.getElementById('particles');
+      if (particlesContainer) {
+        const isMobile = window.innerWidth < 768;
+        createParticles(particlesContainer, isMobile ? 20 : 50);
+      }
+      
+      initSidebarNavigation();
+      updateNavbarLanguage();
+    });
+    
+    function initSidebarNavigation() {
+      const sections = document.querySelectorAll('.section[id]');
+      const navLinks = document.querySelectorAll('.sidebar-nav-link');
+      
+      function updateActiveLink() {
+        let currentSection = '';
+        
+        sections.forEach(section => {
+          const sectionTop = section.offsetTop;
+          const sectionHeight = section.clientHeight;
+          if (window.scrollY >= sectionTop - 150) {
+            currentSection = section.getAttribute('id');
+          }
+        });
+        
+        navLinks.forEach(link => {
+          link.classList.remove('active');
+          if (link.getAttribute('data-section') === currentSection) {
+            link.classList.add('active');
+          }
+        });
+      }
+      
+      navLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+          e.preventDefault();
+          const targetId = this.getAttribute('href').substring(1);
+          const targetSection = document.getElementById(targetId);
+          if (targetSection) {
+            targetSection.scrollIntoView({ behavior: 'smooth' });
+          }
+        });
+      });
+      
+      window.addEventListener('scroll', updateActiveLink);
+      updateActiveLink();
+    }
+    
+    function updateNavbarLanguage() {
+      const langBtns = document.querySelectorAll('.navbar-language .lang-btn');
+      langBtns.forEach(btn => {
+        btn.classList.remove('active');
+        if ((currentLanguage === 'en' && btn.textContent === 'EN') || 
+            (currentLanguage === 'zh' && btn.textContent === '中文')) {
+          btn.classList.add('active');
+        }
+      });
+    }
+  </script>
+</body>
+</html>
