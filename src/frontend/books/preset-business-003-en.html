@@ -9,7 +9,6 @@
   <meta property="og:description" content="Startup Partners - AI Interactive Story">
   <meta property="og:type" content="book">
   <meta property="og:locale" content="en_US">
-  <link rel="canonical" href="https://storybook-adventures.com/books/preset-business-003-en.html">
   <link rel="stylesheet" href="../css/variables.css">
   <link rel="stylesheet" href="../css/main.css">
   <link rel="stylesheet" href="../css/animations.css">
@@ -492,7 +491,7 @@
       type: 'business',
       chapters: [{"chapterId":"chapter-bus003-01-en","title":"Startup Dream","orderNum":1}],
       characters: [{"charId":"char-bus003-001-en","name":"Max","roleType":"Entrepreneur","personality":"idealistic, risk-taker, loyal","avatar":"👨","isProtagonist":true},{"charId":"char-bus003-002-en","name":"Tina","roleType":"Co-founder","personality":"practical, organized, complementary","avatar":"👩","isProtagonist":false},{"charId":"char-bus003-003-en","name":"Mr. Wang","roleType":"Investor","personality":"sharp-eyed, demanding, talent-seeker","avatar":"👨","isProtagonist":false}],
-      plotCards: [{"card_id":"card-bus003-01-en","sub_type":"weather","name":"Sunny","icon":"☀�?,"description":"Clear weather, new beginning"},{"card_id":"card-bus003-02-en","sub_type":"terrain","name":"Office","icon":"🏢","description":"Startup office, starting point of dreams"},{"card_id":"card-bus003-03-en","sub_type":"adventure","name":"Funding","icon":"💰","description":"Get funding, business growth"},{"card_id":"card-bus003-04-en","sub_type":"equipment","name":"Laptop","icon":"💻","description":"Essential for work, startup tool"},{"card_id":"card-bus003-w02-en","sub_type":"weather","name":"Cloudy","icon":"☁️","description":"Overcast sky, challenges ahead"},{"card_id":"card-bus003-w03-en","sub_type":"weather","name":"Rainbow","icon":"🌈","description":"Rainbow after rain, success in sight"},{"card_id":"card-bus003-w04-en","sub_type":"weather","name":"Morning Light","icon":"🌅","description":"Warm morning light, startup hope"},{"card_id":"card-bus003-t02-en","sub_type":"terrain","name":"Meeting Room","icon":"📋","description":"Serious meeting room"},{"card_id":"card-bus003-t03-en","sub_type":"terrain","name":"Headquarters","icon":"🏙�?,"description":"Company headquarters"},{"card_id":"card-bus003-t04-en","sub_type":"terrain","name":"Cafe","icon":"�?,"description":"Business meeting"},{"card_id":"card-bus003-a02-en","sub_type":"adventure","name":"Pivot","icon":"🔄","description":"Strategic pivot"},{"card_id":"card-bus003-a03-en","sub_type":"adventure","name":"Expansion","icon":"🌍","description":"Business expansion"},{"card_id":"card-bus003-a04-en","sub_type":"adventure","name":"IPO","icon":"📈","description":"Go public"},{"card_id":"card-bus003-e02-en","sub_type":"equipment","name":"Contract","icon":"📄","description":"Business contract"},{"card_id":"card-bus003-e03-en","sub_type":"equipment","name":"Trophy","icon":"🏆","description":"Symbol of honor"},{"card_id":"card-bus003-e04-en","sub_type":"equipment","name":"Business Card","icon":"💳","description":"Business card"}]
+      plotCards: [{"card_id":"card-bus003-01-en","sub_type":"weather","name":"Sunny","icon":"☀️","description":"Clear weather, new beginning"},{"card_id":"card-bus003-02-en","sub_type":"terrain","name":"Office","icon":"🏢","description":"Startup office, starting point of dreams"},{"card_id":"card-bus003-03-en","sub_type":"adventure","name":"Funding","icon":"💰","description":"Get funding, business growth"},{"card_id":"card-bus003-04-en","sub_type":"equipment","name":"Laptop","icon":"💻","description":"Essential for work, startup tool"},{"card_id":"card-bus003-w02-en","sub_type":"weather","name":"Cloudy","icon":"☁️","description":"Overcast sky, challenges ahead"},{"card_id":"card-bus003-w03-en","sub_type":"weather","name":"Rainbow","icon":"🌈","description":"Rainbow after rain, success in sight"},{"card_id":"card-bus003-w04-en","sub_type":"weather","name":"Morning Light","icon":"🌅","description":"Warm morning light, startup hope"},{"card_id":"card-bus003-t02-en","sub_type":"terrain","name":"Meeting Room","icon":"📋","description":"Serious meeting room"},{"card_id":"card-bus003-t03-en","sub_type":"terrain","name":"Headquarters","icon":"🏙️","description":"Company headquarters"},{"card_id":"card-bus003-t04-en","sub_type":"terrain","name":"Cafe","icon":"☕","description":"Business meeting"},{"card_id":"card-bus003-a02-en","sub_type":"adventure","name":"Pivot","icon":"🔄","description":"Strategic pivot"},{"card_id":"card-bus003-a03-en","sub_type":"adventure","name":"Expansion","icon":"🌍","description":"Business expansion"},{"card_id":"card-bus003-a04-en","sub_type":"adventure","name":"IPO","icon":"📈","description":"Go public"},{"card_id":"card-bus003-e02-en","sub_type":"equipment","name":"Contract","icon":"📄","description":"Business contract"},{"card_id":"card-bus003-e03-en","sub_type":"equipment","name":"Trophy","icon":"🏆","description":"Symbol of honor"},{"card_id":"card-bus003-e04-en","sub_type":"equipment","name":"Business Card","icon":"💳","description":"Business card"}]
     };
     
     let currentView = 'chapters';
@@ -535,7 +534,7 @@
       
       leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
         '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '�? : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
           '<span class="chapter-dots"></span>' +
           '<span class="chapter-title">' + ch.title + '</span>' +
         '</a>'
@@ -543,7 +542,7 @@
       
       rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
         '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '�? : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
           '<span class="chapter-dots"></span>' +
           '<span class="chapter-title">' + ch.title + '</span>' +
         '</a>'

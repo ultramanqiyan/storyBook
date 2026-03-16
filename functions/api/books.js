@@ -51,7 +51,7 @@ export async function onRequestGet(context) {
 
   try {
     const results = await env.DB.prepare(
-      'SELECT * FROM books WHERE user_id = ? OR is_preset = 1 ORDER BY created_at DESC'
+      'SELECT * FROM books WHERE user_id = ? ORDER BY created_at DESC'
     ).bind(userId).all();
 
     const booksWithStats = await Promise.all(

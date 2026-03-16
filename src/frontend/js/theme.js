@@ -62,6 +62,7 @@ const translations = {
       featuredStories: 'Featured Stories'
     },
     login: {
+      pageTitle: 'Sign In - StoryBook',
       welcome: 'Welcome, Traveler',
       quote: '"Every great story begins with a single step into the unknown."',
       beginJourney: 'Begin Thy Journey',
@@ -71,7 +72,21 @@ const translations = {
       passwordPlaceholder: 'Enter thy password',
       signIn: 'Sign In',
       newHere: 'New to our realm?',
-      createAccount: 'Create thy account'
+      createAccount: 'Create thy account',
+      username: 'Username',
+      usernamePlaceholder: 'Choose thy name',
+      confirmPassword: 'Confirm Password',
+      confirmPasswordPlaceholder: 'Confirm thy secret',
+      register: 'Register',
+      alreadyHaveAccount: 'Already have an account?',
+      pleaseEnterCredentials: 'Please enter email and password',
+      welcomeNew: 'Welcome to StoryBook!',
+      welcomeBack: 'Welcome back!',
+      loginFailed: 'Login failed',
+      pleaseFillAllFields: 'Please fill in all fields',
+      passwordMismatch: 'Passwords do not match',
+      accountCreated: 'Account created successfully!',
+      registerFailed: 'Registration failed'
     },
     library: {
       pageTitle: 'Public Library',
@@ -94,6 +109,7 @@ const translations = {
       continueExploring: 'Continue Exploring'
     },
     bookshelf: {
+      pageTitle: 'My Library - StoryBook',
       title: 'My Library',
       createNew: 'Create New Story',
       allStories: 'All Stories',
@@ -736,6 +752,7 @@ const translations = {
       featuredStories: '精选故事'
     },
     login: {
+      pageTitle: '登录 - 故事书',
       welcome: '欢迎，旅行者',
       quote: '"每一个伟大的故事都始于踏入未知的第一步。"',
       beginJourney: '开始你的旅程',
@@ -745,7 +762,21 @@ const translations = {
       passwordPlaceholder: '输入你的密码',
       signIn: '登录',
       newHere: '初次来到？',
-      createAccount: '创建账号'
+      createAccount: '创建账号',
+      username: '用户名',
+      usernamePlaceholder: '选择你的名字',
+      confirmPassword: '确认密码',
+      confirmPasswordPlaceholder: '确认你的密码',
+      register: '注册',
+      alreadyHaveAccount: '已有账号？',
+      pleaseEnterCredentials: '请输入邮箱和密码',
+      welcomeNew: '欢迎来到故事书！',
+      welcomeBack: '欢迎回来！',
+      loginFailed: '登录失败',
+      pleaseFillAllFields: '请填写所有字段',
+      passwordMismatch: '密码不匹配',
+      accountCreated: '账号创建成功！',
+      registerFailed: '注册失败'
     },
     library: {
       pageTitle: '公共图书馆',
@@ -768,6 +799,7 @@ const translations = {
       continueExploring: '继续探索'
     },
     bookshelf: {
+      pageTitle: '我的书架 - 故事书',
       title: '我的书架',
       createNew: '创建新故事',
       allStories: '全部故事',
@@ -1416,7 +1448,8 @@ function setLanguage(lang) {
 function updatePageTitle() {
   const titleEl = document.querySelector('title[data-i18n]');
   if (titleEl) {
-    document.title = t('meta.title');
+    const key = titleEl.getAttribute('data-i18n');
+    document.title = t(key);
   }
 }
 
