@@ -33,9 +33,9 @@
 
 .theme-fantasy {
   --theme-name: 'fantasy';
-  --color-bg-dark: #1a0a2e;
-  --color-bg-medium: #2a1a4a;
-  --color-bg-light: #3a2a5a;
+  --color-bg-dark: #0f0f23;
+  --color-bg-medium: #16213e;
+  --color-bg-light: #1a1a2e;
   --color-primary: #9B59B6;
   --color-primary-dark: #6C3483;
   --color-primary-light: #BB8FCE;
@@ -47,7 +47,7 @@
   --color-text-muted: #D7BDE2;
   --color-parchment: #FDEBD0;
   
-  --gradient-bg: linear-gradient(135deg, #E8DAEF 0%, #D2B4DE 25%, #BB8FCE 50%, #9B59B6 100%);
+  --gradient-bg: linear-gradient(135deg, var(--color-bg-light) 0%, var(--color-bg-medium) 50%, var(--color-bg-dark) 100%);
   --gradient-primary: linear-gradient(135deg, var(--color-primary-light) 0%, var(--color-primary) 100%);
   --gradient-card: linear-gradient(135deg, rgba(186, 143, 206, 0.3) 0%, rgba(155, 89, 182, 0.3) 100%);
   
