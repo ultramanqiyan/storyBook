@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>第V、VI: 辞职 / 新协议 - 裁员协议 - StoryBook</title>
+  <meta name="description" content="阅读 辞职 / 新协议 - 裁员协议">
+  <meta name="keywords" content="互动故事, AI故事, 裁员协议, 辞职">
+  <meta property="og:title" content="辞职 / 新协议 - 裁员协议">
+  <meta property="og:description" content="阅读 辞职 / 新协议">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="zh_CN">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "辞职",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "裁员协议",
+      "genre": "职场"
+    },
+    "position": 5,
+    "inLanguage": "zh"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 1000px) {
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: 500px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 25px 20px;
+      }
+      
+      .manuscript-text {
+        font-size: 16px;
+      }
+      
+      .drop-cap {
+        font-size: 3.5em;
+      }
+    }
+  </style>
+</head>
+<body class="theme-business">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index.html" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index.html" class="navbar-link">首页</a>
+      <a href="../library.html" class="navbar-link">图书馆</a>
+      <a href="../bookshelf.html" class="navbar-link">我的书架</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">第V</div>
+    <div class="chapter-name">辞职</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">六</span>个月过去了。试点项目成功了——某种程度上。人工审查小组抓住了几个算法遗漏的案例。Jennifer Walsh被保留并晋升了。其他几个员工成功申诉了他们的解雇。</p>
+<p>但基本系统没有改变。算法仍然生成初始名单。大多数裁员仍然在没有审查的情况下进行。而Elena仍然是一个非人过程的人类面孔。</p>
+<p>一个周五下午，她发现自己坐在办公室里，盯着一份新名单。第四阶段。这次有五十三个名字。</p>
+<p>她的手机响了。Sarah："今晚晚餐？我有消息。"</p>
+<p>她们在常去的餐厅见面。Sarah看起来不同了——更轻松了，不知怎么。</p>
+<p>"我要创办自己的公司了，"Sarah宣布。"一个内容合作社。人类作家与AI工具一起工作，而不是被取代。我们已经有第一批客户了。"</p>
+<p>Elena感到复杂的情绪。为朋友骄傲。也有嫉妒。还有别的——希望。</p>
+<p>"那太棒了，"她说。"你是怎么做到的？"</p>
+<p>"我不再等待系统改变。我建立了新东西。"Sarah伸过桌子。"跟我一起来。我们需要一个HR总监。一个既了解人性面又了解商业面的人。一个见过算法在没有人类监督下做决策会发生什么的人。"</p>
+<p>Elena的心跳加速。这是她几个月来——也许几年——一直在走向的东西。一个建立不同东西的机会。成为一个重视人的系统的一部分。</p>
+<p>"我得提前通知，"她慢慢说。"我得完成这轮裁员。"</p>
+<p>"或者你可以直接...停止。走开。让别人做算法的信使。"</p>
+<p>那天晚上，Elena写了辞职信。简短而专业——多年来她从数百名员工那里收到的那种信。但在正式语言下面是别的东西：解脱。</p>
+<p>第二天早上，她提交了辞职。然后她走进CEO的办公室。</p>
+<p>"我不再做信使了，"她说。"找别人传达你们算法的决策。我要去建立一些重视人的东西。"</p>
+<p>最后一次走出大楼时，Elena感到肩上的重量消散了。她不知道接下来会发生什么。但多年来第一次，她很兴奋去发现。</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">第VI</div>
+    <div class="chapter-name">新协议</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">一</span>年后，Elena坐在一个阳光充足的办公室里，与她离开的灰色格子农场完全不同。Sarah的内容合作社已经从三个人发展到二十人。Elena从头建立了一个HR系统——一个把员工当作伙伴而不是资源的系统。</p>
+<p>她的手机响了。一位老同事的短信："今天第七阶段裁员。89个名字。算法一直在增长。"</p>
+<p>Elena对现在坐在她旧办公室里的人感到一阵同情，那个人正在传达机器决定人类命运的消息。但她也感到别的东西：感激她不再是那个系统的一部分。</p>
+<p>Jennifer Walsh敲她的门。"有空吗？"</p>
+<p>"永远有空。"</p>
+<p>"我想给你看些东西。"Jennifer拿出她的平板电脑。"还记得一年前我推销的那个混合活动吗？那个保住我工作的？我们已经把它扩展到所有客户了。参与度提高了60%。最好的部分——我们又雇佣了五个内容策展人。真人，有真实视角，与AI一起工作。"</p>
+<p>Elena微笑了。这就是她一直在努力的目标。不是没有AI的世界，而是AI增强人类潜力而不是取代人类的世界。</p>
+<p>"Jennifer，我有个提议给你，"Elena说。"你觉得领导我们的内容策略团队怎么样？"</p>
+<p>Jennifer的眼睛睁大了。"你是认真的吗？"</p>
+<p>"完全认真。你看到了算法看不到的东西——人类创造力和AI效率不是互斥的。这正是我们需要的领导力。"</p>
+<p>Jennifer离开后，Elena看着窗外下面的城市。在某处，算法仍在决定人们的生活。公司仍在"优化"他们的劳动力。裁员协议仍在运行。</p>
+<p>但在这里，在这个世界的小角落，一些不同的东西正在生长。一家重视创新胜过效率的公司。一个把人看作不仅仅是数据点的系统。</p>
+<p>她的手机又响了。老同事的另一条短信："他们在问你的事。董事会想知道你是否愿意就人工审查流程提供咨询。"</p>
+<p>Elena微笑了。也许系统终究可以改变。一次一家公司。一次一个协议。一次一个人类决策。</p>
+<p>她回复："告诉他们我忙着建立更好的东西。"</p>
+<p>全文完</p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-ai003-03-zh.html" class="scroll-nav-btn">← 上一页</a>
+    <div class="nav-info">
+      <a href="../books/preset-ai-003-zh.html">裁员协议</a>
+      <span style="margin: 0 10px;">|</span>
+      第3 页 3
+    </div>
+    <span class="scroll-nav-btn" style="opacity: 0.5; cursor: default;">已完结</span>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-business';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+    });
+  </script>
+</body>
+</html>

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>裁员协议 - StoryBook</title>
   <meta name="description" content="裁员协议 - AI互动故事">
-  <meta name="keywords" content="AI故事, 互动故事">
+  <meta name="keywords" content="互动故事, AI故事, 裁员协议, 职场">
   <meta property="og:title" content="裁员协议 - StoryBook">
   <meta property="og:description" content="裁员协议 - AI互动故事">
   <meta property="og:type" content="book">
@@ -20,11 +20,11 @@
     "@context": "https://schema.org",
     "@type": "Book",
     "name": "裁员协议",
-    "genre": "story",
+    "genre": "职场",
     "inLanguage": "zh",
     "author": { "@type": "Organization", "name": "StoryBook" },
-    "character": [],
-    "numberOfPages": "0"
+    "character": [{"@type":"Person","name":"Elena","description":"HR经理 - 富有同情心、内心矛盾、专业、暗自被愧疚困扰"},{"@type":"Person","name":"Marcus","description":"AI系统总监 - 冷酷高效、相信进步、轻视情感"},{"@type":"Person","name":"Sarah","description":"前内容总监 - 坚韧、反思、寻找新目标、理解"}],
+    "numberOfPages": "6"
   }
   </script>
   <style>
@@ -292,45 +292,6 @@
       box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
     }
     
-    .action-btn-secondary {
-      background: transparent;
-      border: 2px solid #8B4513;
-      color: #4a3a2a;
-    }
-    
-    .action-btn-secondary:hover {
-      background: rgba(139, 69, 19, 0.1);
-    }
-    
-    .action-btn-primary {
-      background: linear-gradient(180deg, #D4AF37 0%, #B8860B 100%);
-      border: 2px solid #FFD700;
-      color: #1a1008;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 8px 20px;
-      min-width: 160px;
-    }
-    
-    .action-btn-primary:hover {
-      background: linear-gradient(180deg, #FFD700 0%, #D4AF37 100%);
-      box-shadow: 0 4px 20px rgba(212, 175, 55, 0.5);
-    }
-    
-    .action-btn-primary .btn-main {
-      font-size: 13px;
-      font-weight: bold;
-      line-height: 1.3;
-    }
-    
-    .action-btn-primary .btn-sub {
-      font-size: 10px;
-      opacity: 0.8;
-      font-weight: normal;
-      line-height: 1.2;
-    }
-    
     .chapter-toc {
       display: flex;
       flex-direction: column;
@@ -437,7 +398,7 @@
     }
   </style>
 </head>
-<body class="theme-story">
+<body class="theme-business">
   <div class="particles-container" id="particles"></div>
   
   <nav class="navbar">
@@ -463,21 +424,18 @@
         <div class="page-content">
           <div class="book-info-header">
             <div class="book-cover-small">
-              <span>📖</span>
+              <span>💼</span>
             </div>
             <div class="book-meta-info">
-              <span class="type-badge">story</span>
+              <span class="type-badge">职场</span>
               <h2>裁员协议</h2>
               <div class="stats">
-                <span>📜 0 章节</span>
-                <span>👥 0 角色</span>
+                <span>📜 6 章节</span>
+                <span>👥 3 角色</span>
               </div>
               <div class="action-buttons">
-                
-                <button class="action-btn action-btn-primary" onclick="importPresetBook()">
-                  <span class="btn-main">续写这个故事</span>
-                  <span class="btn-sub">用卡牌创作新章节</span>
-                </button>
+                <a href="../chapters/chapter-ai003-01-zh.html" class="action-btn">开始阅读</a>
+                <button class="action-btn" onclick="importPresetBook()">续写这个故事</button>
               </div>
             </div>
           </div>
@@ -490,7 +448,19 @@
           
           <div id="leftPageContent">
             <div class="chapter-toc">
-              
+              <a href="../chapters/chapter-ai003-01-zh.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0s backwards;">
+                  <span class="chapter-number">第I</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">名单</span>
+                </a><a href="../chapters/chapter-ai003-01-zh.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.1s backwards;">
+                  <span class="chapter-number">第II</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">对话</span>
+                </a><a href="../chapters/chapter-ai003-03-zh.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.2s backwards;">
+                  <span class="chapter-number">第III</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">例外</span>
+                </a>
             </div>
           </div>
         </div>
@@ -504,7 +474,19 @@
         <div class="page-content">
           <div id="rightPageContent">
             <div class="chapter-toc">
-              
+              <a href="../chapters/chapter-ai003-03-zh.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
+                  <span class="chapter-number">第IV</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">重量</span>
+                </a><a href="../chapters/chapter-ai003-05-zh.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                  <span class="chapter-number">第V</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">辞职</span>
+                </a><a href="../chapters/chapter-ai003-05-zh.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                  <span class="chapter-number">第VI</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">新协议</span>
+                </a>
             </div>
           </div>
         </div>
@@ -526,16 +508,16 @@
     const bookData = {
       bookId: 'preset-ai-003-zh',
       title: '裁员协议',
-      type: 'story',
-      chapters: [],
-      characters: [],
-      plotCards: []
+      type: 'business',
+      chapters: [{"chapterId":"chapter-ai003-01-zh","title":"名单","orderNum":1},{"chapterId":"chapter-ai003-02-zh","title":"对话","orderNum":2},{"chapterId":"chapter-ai003-03-zh","title":"例外","orderNum":3},{"chapterId":"chapter-ai003-04-zh","title":"重量","orderNum":4},{"chapterId":"chapter-ai003-05-zh","title":"辞职","orderNum":5},{"chapterId":"chapter-ai003-06-zh","title":"新协议","orderNum":6}],
+      characters: [{"charId":"char-ai003-001-zh","name":"Elena","roleType":"HR经理","personality":"富有同情心、内心矛盾、专业、暗自被愧疚困扰","avatar":"👩‍💼","isProtagonist":true},{"charId":"char-ai003-002-zh","name":"Marcus","roleType":"AI系统总监","personality":"冷酷高效、相信进步、轻视情感","avatar":"👨‍💻","isProtagonist":false},{"charId":"char-ai003-003-zh","name":"Sarah","roleType":"前内容总监","personality":"坚韧、反思、寻找新目标、理解","avatar":"👩‍💼","isProtagonist":false}],
+      plotCards: [{"card_id":"card-ai003-w01-zh","sub_type":"weather","name":"周一早晨","icon":"🌅","description":"坏消息最糟糕的时间"},{"card_id":"card-ai003-w02-zh","sub_type":"weather","name":"雨天告别","icon":"🌧️","description":"当泪水与雨水混合"},{"card_id":"card-ai003-w03-zh","sub_type":"weather","name":"清白的良心","icon":"☀️","description":"在最艰难的决定之后"},{"card_id":"card-ai003-w04-zh","sub_type":"weather","name":"辞职风暴","icon":"⛈️","description":"当一个人变成许多人"},{"card_id":"card-ai003-t01-zh","sub_type":"terrain","name":"HR办公室","icon":"🏢","description":"职业生涯终结的地方"},{"card_id":"card-ai003-t02-zh","sub_type":"terrain","name":"离职面谈室","icon":"🚪","description":"最后的对话"},{"card_id":"card-ai003-t03-zh","sub_type":"terrain","name":"天台","icon":"🏙️","description":"重担消散的地方"},{"card_id":"card-ai003-t04-zh","sub_type":"terrain","name":"咖啡店","icon":"☕","description":"诚实存在的地方"},{"card_id":"card-ai003-a01-zh","sub_type":"adventure","name":"名单","icon":"📋","description":"曾经是人的名字"},{"card_id":"card-ai003-a02-zh","sub_type":"adventure","name":"对话","icon":"💬","description":"最难说出口的话"},{"card_id":"card-ai003-a03-zh","sub_type":"adventure","name":"例外","icon":"⚠️","description":"当协议失败时"},{"card_id":"card-ai003-a04-zh","sub_type":"adventure","name":"辞职","icon":"📝","description":"当信使离开时"},{"card_id":"card-ai003-e01-zh","sub_type":"equipment","name":"遣散费包裹","icon":"📦","description":"装在盒子里的职业生涯"},{"card_id":"card-ai003-e02-zh","sub_type":"equipment","name":"个人物品箱","icon":"🗃️","description":"浓缩成纸板的生活"},{"card_id":"card-ai003-e03-zh","sub_type":"equipment","name":"工牌","icon":"🎫","description":"访问被拒绝"},{"card_id":"card-ai003-e04-zh","sub_type":"equipment","name":"辞职信","icon":"📄","description":"离开的重量"}]
     };
     
     let currentView = 'chapters';
     
     document.addEventListener('DOMContentLoaded', function() {
-      document.body.className = 'theme-story';
+      document.body.className = 'theme-business';
       createParticles(document.getElementById('particles'), 30);
     });
     
@@ -600,7 +582,7 @@
       const rightCards = cards.slice(half);
       
       function renderPlotCard(card, index) {
-        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
+        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.cardId + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
           '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 13px; margin-top: 10px; text-align: center;">' + card.name + '</div>' +
           '<div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">' + (card.description || '') + '</div>' +
@@ -612,7 +594,7 @@
     }
     
     function showPlotCardDetail(cardId) {
-      const card = bookData.plotCards.find(c => c.card_id === cardId);
+      const card = bookData.plotCards.find(c => c.cardId === cardId);
       if (!card) return;
       
       const modal = document.getElementById('cardModal');
@@ -679,12 +661,13 @@
       const userId = localStorage.getItem('user_id');
       
       if (!userId) {
+        alert('请先登录');
         window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
       btn.disabled = true;
-      btn.innerHTML = '<span class="btn-main">' + '处理中...' + '</span>';
+      btn.textContent = '处理中...';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -695,7 +678,7 @@
         
         if (response.ok) {
           const result = await response.json();
-          btn.innerHTML = '<span class="btn-main">' + '已添加到书架！' + '</span>';
+          btn.textContent = '已添加到书架！';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -703,10 +686,10 @@
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.innerHTML = '<span class="btn-main">' + '操作失败' + '</span>';
+        btn.textContent = '操作失败';
         btn.disabled = false;
         setTimeout(() => {
-          btn.innerHTML = '<span class="btn-main">续写这个故事</span><span class="btn-sub">用卡牌创作新章节</span>';
+          btn.textContent = '续写这个故事';
         }, 2000);
       }
     }

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>平行世界的我 - StoryBook</title>
   <meta name="description" content="平行世界的我 - AI互动故事">
-  <meta name="keywords" content="陈星河, 另一个星河, 时空守护者, creativity, consciousness, human, justice, memory">
+  <meta name="keywords" content="互动故事, AI故事, 平行世界的我, 奇幻">
   <meta property="og:title" content="平行世界的我 - StoryBook">
   <meta property="og:description" content="平行世界的我 - AI互动故事">
   <meta property="og:type" content="book">
@@ -292,45 +292,6 @@
       box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
     }
     
-    .action-btn-secondary {
-      background: transparent;
-      border: 2px solid #8B4513;
-      color: #4a3a2a;
-    }
-    
-    .action-btn-secondary:hover {
-      background: rgba(139, 69, 19, 0.1);
-    }
-    
-    .action-btn-primary {
-      background: linear-gradient(180deg, #D4AF37 0%, #B8860B 100%);
-      border: 2px solid #FFD700;
-      color: #1a1008;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 8px 20px;
-      min-width: 160px;
-    }
-    
-    .action-btn-primary:hover {
-      background: linear-gradient(180deg, #FFD700 0%, #D4AF37 100%);
-      box-shadow: 0 4px 20px rgba(212, 175, 55, 0.5);
-    }
-    
-    .action-btn-primary .btn-main {
-      font-size: 13px;
-      font-weight: bold;
-      line-height: 1.3;
-    }
-    
-    .action-btn-primary .btn-sub {
-      font-size: 10px;
-      opacity: 0.8;
-      font-weight: normal;
-      line-height: 1.2;
-    }
-    
     .chapter-toc {
       display: flex;
       flex-direction: column;
@@ -473,11 +434,8 @@
                 <span>👥 3 角色</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapters/chapter-fan002-01.html" class="action-btn action-btn-secondary">开始阅读</a>
-                <button class="action-btn action-btn-primary" onclick="importPresetBook()">
-                  <span class="btn-main">续写这个故事</span>
-                  <span class="btn-sub">用卡牌创作新章节</span>
-                </button>
+                <a href="../chapters/chapter-fan002-01.html" class="action-btn">开始阅读</a>
+                <button class="action-btn" onclick="importPresetBook()">续写这个故事</button>
               </div>
             </div>
           </div>
@@ -568,8 +526,8 @@
       title: '平行世界的我',
       type: 'fantasy',
       chapters: [{"chapterId":"chapter-fan002-01","title":"镜中的自己","orderNum":1},{"chapterId":"chapter-fan002-02","title":"另一个世界","orderNum":2},{"chapterId":"chapter-fan002-03","title":"两种人生","orderNum":3},{"chapterId":"chapter-fan002-04","title":"交换的秘密","orderNum":4},{"chapterId":"chapter-fan002-05","title":"时空的警告","orderNum":5},{"chapterId":"chapter-fan002-06","title":"记忆的碎片","orderNum":6},{"chapterId":"chapter-fan002-07","title":"融合的可能","orderNum":7},{"chapterId":"chapter-fan002-08","title":"最后的考验","orderNum":8},{"chapterId":"chapter-fan002-09","title":"选择与牺牲","orderNum":9},{"chapterId":"chapter-fan002-10","title":"完整的自己","orderNum":10}],
-      characters: [{"charId":"char-fan002-001","name":"陈星河","roleType":"穿越者","personality":"内向敏感、喜欢独处、渴望被理解","avatar":"👦","isProtagonist":1},{"charId":"char-fan002-002","name":"另一个星河","roleType":"平行世界的自己","personality":"外向自信、是校园明星","avatar":"👦","isProtagonist":0},{"charId":"char-fan002-003","name":"时空守护者","roleType":"神秘老人","personality":"神秘莫测、话里有话","avatar":"👴","isProtagonist":0}],
-      plotCards: [{"card_id":"card-fan002-01","sub_type":"portal","name":"时空裂隙","icon":"🌀","description":"时空扭曲的裂缝，通往另一个世界"},{"card_id":"card-fan002-02","sub_type":"mirror","name":"镜像空间","icon":"🪞","description":"镜像的世界，另一个自己"},{"card_id":"card-fan002-03","sub_type":"travel","name":"穿越异界","icon":"🌀","description":"穿越到另一个世界，探索未知"},{"card_id":"card-fan002-04","sub_type":"amulet","name":"护身符","icon":"🧿","description":"保护佩戴者，抵御危险"}]
+      characters: [{"charId":"char-fan002-001","name":"陈星河","roleType":"穿越者","personality":"内向敏感、喜欢独处、渴望被理解","avatar":"👦","isProtagonist":true},{"charId":"char-fan002-002","name":"另一个星河","roleType":"平行世界的自己","personality":"外向自信、是校园明星","avatar":"👦","isProtagonist":false},{"charId":"char-fan002-003","name":"时空守护者","roleType":"神秘老人","personality":"神秘莫测、话里有话","avatar":"👴","isProtagonist":false}],
+      plotCards: [{"card_id":"card-fan002-01","sub_type":"weather","name":"时空裂隙","icon":"🌀","description":"时空扭曲的裂缝，通往另一个世界"},{"card_id":"card-fan002-02","sub_type":"terrain","name":"镜像空间","icon":"🪞","description":"镜像的世界，另一个自己"},{"card_id":"card-fan002-03","sub_type":"adventure","name":"穿越异界","icon":"🌀","description":"穿越到另一个世界，探索未知"},{"card_id":"card-fan002-04","sub_type":"equipment","name":"护身符","icon":"🧿","description":"保护佩戴者，抵御危险"},{"card_id":"card-fan002-w02","sub_type":"weather","name":"永恒黄昏","icon":"🌆","description":"永不消逝的黄昏"},{"card_id":"card-fan002-w03","sub_type":"weather","name":"觉醒之光","icon":"💫","description":"力量觉醒的光芒"},{"card_id":"card-fan002-w04","sub_type":"weather","name":"精灵光","icon":"🧚","description":"精灵的光芒"},{"card_id":"card-fan002-w05","sub_type":"weather","name":"黑暗降临","icon":"🌑","description":"无尽的黑暗"},{"card_id":"card-fan002-w06","sub_type":"weather","name":"灵魂雾","icon":"👻","description":"充满灵魂的迷雾"},{"card_id":"card-fan002-w07","sub_type":"weather","name":"光明普照","icon":"✨","description":"神圣的光芒"},{"card_id":"card-fan002-w08","sub_type":"weather","name":"魔法风暴","icon":"🌀","description":"充满魔力的风暴"},{"card_id":"card-fan002-w09","sub_type":"weather","name":"传送门光","icon":"🌀","description":"传送门的神秘光芒"},{"card_id":"card-fan002-w10","sub_type":"weather","name":"创世晨曦","icon":"🌅","description":"创世之初的光芒"},{"card_id":"card-fan002-t02","sub_type":"terrain","name":"异世界","icon":"🌀","description":"另一个维度"},{"card_id":"card-fan002-t03","sub_type":"terrain","name":"魔法森林","icon":"🌳","description":"充满魔法的森林"},{"card_id":"card-fan002-t04","sub_type":"terrain","name":"精灵村落","icon":"🧚","description":"精灵的家园"},{"card_id":"card-fan002-t05","sub_type":"terrain","name":"时间裂缝","icon":"⏳","description":"时间扭曲之地"},{"card_id":"card-fan002-t06","sub_type":"terrain","name":"深渊","icon":"🕳️","description":"无尽的深渊"},{"card_id":"card-fan002-t07","sub_type":"terrain","name":"神殿","icon":"⛩️","description":"神圣的殿堂"},{"card_id":"card-fan002-t08","sub_type":"terrain","name":"浮空岛","icon":"🏝️","description":"漂浮在空中的岛屿"},{"card_id":"card-fan002-t09","sub_type":"terrain","name":"封印之地","icon":"🔒","description":"封印恶魔的地方"},{"card_id":"card-fan002-t10","sub_type":"terrain","name":"天空城","icon":"🏰","description":"云端的城市"},{"card_id":"card-fan002-a02","sub_type":"adventure","name":"发现秘密","icon":"🔮","description":"揭开隐藏的秘密"},{"card_id":"card-fan002-a03","sub_type":"adventure","name":"魔法研究","icon":"📚","description":"研究古老的魔法"},{"card_id":"card-fan002-a04","sub_type":"adventure","name":"精灵结盟","icon":"🧚","description":"与精灵结为盟友"},{"card_id":"card-fan002-a05","sub_type":"adventure","name":"解除诅咒","icon":"🔮","description":"解除古老的诅咒"},{"card_id":"card-fan002-a06","sub_type":"adventure","name":"觉醒力量","icon":"💫","description":"觉醒隐藏的力量"},{"card_id":"card-fan002-a07","sub_type":"adventure","name":"元素融合","icon":"🌈","description":"融合元素之力"},{"card_id":"card-fan002-a08","sub_type":"adventure","name":"元素试炼","icon":"🔥","description":"元素之神的考验"},{"card_id":"card-fan002-a09","sub_type":"adventure","name":"灵魂救赎","icon":"👼","description":"救赎迷失的灵魂"},{"card_id":"card-fan002-a10","sub_type":"adventure","name":"守护使命","icon":"🛡️","description":"守护重要的东西"},{"card_id":"card-fan002-e02","sub_type":"equipment","name":"传送卷轴","icon":"📜","description":"瞬间传送"},{"card_id":"card-fan002-e03","sub_type":"equipment","name":"法典","icon":"📖","description":"记载魔法的书籍"},{"card_id":"card-fan002-e04","sub_type":"equipment","name":"水晶球","icon":"🔮","description":"占卜和储存魔力"},{"card_id":"card-fan002-e05","sub_type":"equipment","name":"召唤石","icon":"💎","description":"召唤生物"},{"card_id":"card-fan002-e06","sub_type":"equipment","name":"灵魂石","icon":"💜","description":"储存灵魂"},{"card_id":"card-fan002-e07","sub_type":"equipment","name":"元素宝石","icon":"💠","description":"储存元素之力"},{"card_id":"card-fan002-e08","sub_type":"equipment","name":"魔法披风","icon":"🧥","description":"隐身和防护"},{"card_id":"card-fan002-e09","sub_type":"equipment","name":"传送门符","icon":"🌀","description":"开启传送门"},{"card_id":"card-fan002-e10","sub_type":"equipment","name":"精灵戒指","icon":"💍","description":"精灵的祝福"}]
     };
     
     let currentView = 'chapters';
@@ -640,7 +598,7 @@
       const rightCards = cards.slice(half);
       
       function renderPlotCard(card, index) {
-        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
+        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.cardId + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
           '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 13px; margin-top: 10px; text-align: center;">' + card.name + '</div>' +
           '<div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">' + (card.description || '') + '</div>' +
@@ -652,7 +610,7 @@
     }
     
     function showPlotCardDetail(cardId) {
-      const card = bookData.plotCards.find(c => c.card_id === cardId);
+      const card = bookData.plotCards.find(c => c.cardId === cardId);
       if (!card) return;
       
       const modal = document.getElementById('cardModal');
@@ -719,12 +677,13 @@
       const userId = localStorage.getItem('user_id');
       
       if (!userId) {
+        alert('请先登录');
         window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
       btn.disabled = true;
-      btn.innerHTML = '<span class="btn-main">' + '处理中...' + '</span>';
+      btn.textContent = '处理中...';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -735,7 +694,7 @@
         
         if (response.ok) {
           const result = await response.json();
-          btn.innerHTML = '<span class="btn-main">' + '已添加到书架！' + '</span>';
+          btn.textContent = '已添加到书架！';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -743,10 +702,10 @@
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.innerHTML = '<span class="btn-main">' + '操作失败' + '</span>';
+        btn.textContent = '操作失败';
         btn.disabled = false;
         setTimeout(() => {
-          btn.innerHTML = '<span class="btn-main">续写这个故事</span><span class="btn-sub">用卡牌创作新章节</span>';
+          btn.textContent = '续写这个故事';
         }, 2000);
       }
     }

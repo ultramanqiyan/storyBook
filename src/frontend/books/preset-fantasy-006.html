@@ -435,7 +435,7 @@
               </div>
               <div class="action-buttons">
                 <a href="../chapters/chapter-fan006-01.html" class="action-btn">开始阅读</a>
-                <button class="action-btn" onclick="importPresetBook()">导入书架</button>
+                <button class="action-btn" onclick="importPresetBook()">续写这个故事</button>
               </div>
             </div>
           </div>
@@ -683,7 +683,7 @@
       }
       
       btn.disabled = true;
-      btn.textContent = '导入中...';
+      btn.textContent = '处理中...';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -694,7 +694,7 @@
         
         if (response.ok) {
           const result = await response.json();
-          btn.textContent = '导入成功！';
+          btn.textContent = '已添加到书架！';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -702,10 +702,10 @@
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.textContent = '导入失败';
+        btn.textContent = '操作失败';
         btn.disabled = false;
         setTimeout(() => {
-          btn.textContent = '导入书架';
+          btn.textContent = '续写这个故事';
         }, 2000);
       }
     }

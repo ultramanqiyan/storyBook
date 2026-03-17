@@ -1581,7 +1581,7 @@ function main() {
   let chapterCount = 0;
   books.forEach(book => {
     const bookCharacters = characters.filter(c => c.bookId === book.bookId);
-    const bookChapters = chapters
+    const bookChapters = uniqueChapters
       .filter(ch => ch.bookId === book.bookId)
       .sort((a, b) => a.orderNum - b.orderNum);
     
