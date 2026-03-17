@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 const DB_PATH = path.join(__dirname, '..', '.wrangler', 'state', 'v3', 'd1', 'miniflare-D1DatabaseObject', 'acc37b41506e55d59117c2fbd31b6e6f179816bedc9c3eee10abef26dc7764e6.sqlite');
 const SQL_BACKUP = path.join(__dirname, '..', 'backups', 'remote_storybook_database_backup.sql');
 
-console.log('📦 从线上备份导入003和004系列数据');
+console.log('📦 从线上备份导入16本预设书籍数据');
 console.log('数据库路径:', DB_PATH);
 console.log('SQL备份路径:', SQL_BACKUP);
 
@@ -48,13 +48,23 @@ const chaptersMatches = sqlContent.match(chapterPattern) || [];
 const plotCardPattern = new RegExp(`INSERT INTO "plot_cards".*VALUES\\('.*?(?:${bookIds.join('|')}).*?'\\);`, 'g');
 const plotCardsMatches = sqlContent.match(plotCardPattern) || [];
 
+const puzzlePattern = new RegExp(`INSERT INTO "puzzles".*VALUES\\('puzzle-(adv|fan|rom|bus)00[34].*?'\\);`, 'g');
+const puzzlesMatches = sqlContent.match(puzzlePattern) || [];
+
 console.log(`\n📊 找到数据:`);
-console.log(`  书籍: ${booksMatches.length}`);
-console.log(`  角色: ${charsMatches.length}`);
-console.log(`  章节: ${chaptersMatches.length}`);
-console.log(`  情节卡牌: ${plotCardsMatches.length}`);
+console.log(`  书籍: ${booksMatches.length} (预期: 16)`);
+console.log(`  角色: ${charsMatches.length} (预期: 48)`);
+console.log(`  章节: ${chaptersMatches.length} (预期: 160)`);
+console.log(`  情节卡牌: ${plotCardsMatches.length} (预期: 320)`);
+console.log(`  谜题: ${puzzlesMatches.length} (预期: 48)`);
 
 const db = new Database(DB_PATH);
+
+console.log('\n📋 导入前检查...');
+const existingBooks = db.prepare("SELECT COUNT(*) as count FROM books WHERE is_preset = 1").get();
+if (existingBooks.count > 0) {
+  console.log(`  ⚠️ 已存在 ${existingBooks.count} 本预设书籍，将跳过重复数据`);
+}
 
 console.log('\n📝 导入数据...');
 
@@ -62,7 +72,8 @@ const importStatements = [
   ...booksMatches,
   ...charsMatches,
   ...chaptersMatches,
-  ...plotCardsMatches
+  ...plotCardsMatches,
+  ...puzzlesMatches
 ];
 
 let successCount = 0;
@@ -87,15 +98,25 @@ execMany(importStatements);
 console.log(`\n✅ 导入完成: 成功 ${successCount}, 失败 ${errorCount}`);
 
 console.log('\n📊 验证导入结果...');
-const bookCount = db.prepare("SELECT COUNT(*) as count FROM books WHERE book_id LIKE 'preset-adventure-003%' OR book_id LIKE 'preset-adventure-004%'").get();
-const charCount = db.prepare("SELECT COUNT(*) as count FROM characters WHERE book_id LIKE 'preset-adventure-003%' OR book_id LIKE 'preset-adventure-004%'").get();
-const chapterCount = db.prepare("SELECT COUNT(*) as count FROM chapters WHERE book_id LIKE 'preset-adventure-003%' OR book_id LIKE 'preset-adventure-004%'").get();
-const plotCardCount = db.prepare("SELECT COUNT(*) as count FROM plot_cards WHERE book_id LIKE 'preset-adventure-003%' OR book_id LIKE 'preset-adventure-004%'").get();
+const bookCount = db.prepare("SELECT COUNT(*) as count FROM books WHERE is_preset = 1").get();
+const charCount = db.prepare("SELECT COUNT(*) as count FROM characters WHERE book_id LIKE 'preset-%'").get();
+const chapterCount = db.prepare("SELECT COUNT(*) as count FROM chapters WHERE book_id LIKE 'preset-%'").get();
+const plotCardCount = db.prepare("SELECT COUNT(*) as count FROM plot_cards WHERE book_id LIKE 'preset-%'").get();
+const puzzleCount = db.prepare("SELECT COUNT(*) as count FROM puzzles WHERE chapter_id LIKE 'chapter-adv00%' OR chapter_id LIKE 'chapter-fan00%' OR chapter_id LIKE 'chapter-rom00%' OR chapter_id LIKE 'chapter-bus00%'").get();
 
-console.log(`  书籍: ${bookCount.count}`);
-console.log(`  角色: ${charCount.count}`);
-console.log(`  章节: ${chapterCount.count}`);
-console.log(`  情节卡牌: ${plotCardCount.count}`);
+console.log(`  书籍: ${bookCount.count} (预期: 16)`);
+console.log(`  角色: ${charCount.count} (预期: 48)`);
+console.log(`  章节: ${chapterCount.count} (预期: 160)`);
+console.log(`  情节卡牌: ${plotCardCount.count} (预期: 320)`);
+console.log(`  谜题: ${puzzleCount.count} (预期: 48)`);
+
+console.log('\n📚 每本书数据验证:');
+for (const bookId of bookIds) {
+  const charCnt = db.prepare("SELECT COUNT(*) as count FROM characters WHERE book_id = ?").get(bookId);
+  const chapterCnt = db.prepare("SELECT COUNT(*) as count FROM chapters WHERE book_id = ?").get(bookId);
+  const cardCnt = db.prepare("SELECT COUNT(*) as count FROM plot_cards WHERE book_id = ?").get(bookId);
+  console.log(`  ${bookId}: 角色=${charCnt.count}, 章节=${chapterCnt.count}, 卡牌=${cardCnt.count}`);
+}
 
 db.close();
 console.log('\n✅ 导入完成！');
