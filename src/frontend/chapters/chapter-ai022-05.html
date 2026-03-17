@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter V & VI: The Revelation / The Reform - The Memory Market - StoryBook</title>
+  <meta name="description" content="Read The Revelation / The Reform - The Memory Market">
+  <meta name="keywords" content="Dr. Sarah Chen, Marcus, Elena, AI, creativity, consciousness, human, work">
+  <meta property="og:title" content="The Revelation / The Reform - The Memory Market">
+  <meta property="og:description" content="Read The Revelation / The Reform">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The Revelation",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "The Memory Market",
+      "genre": "story"
+    },
+    "position": 5,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 1000px) {
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: 500px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 25px 20px;
+      }
+      
+      .manuscript-text {
+        font-size: 16px;
+      }
+      
+      .drop-cap {
+        font-size: 3.5em;
+      }
+    }
+  </style>
+</head>
+<body class="theme-story">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index.html" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index.html" class="navbar-link">Home</a>
+      <a href="../library.html" class="navbar-link">Library</a>
+      <a href="../bookshelf.html" class="navbar-link">My Books</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER V</div>
+    <div class="chapter-name">The Revelation</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">A</span>lex did not deliver the memory to Mr. Smith. Instead, he spent days analyzing it, extracting every detail, building a case. The more he learned, the more he realized the scope of what he had uncovered.</p>
+<p>The memory contained evidence of a conspiracy that reached to the highest levels of government. The men in that room had not just covered up crimes - they had orchestrated them. They had arranged accidents, bribed officials, eliminated witnesses. And they had gotten away with it for twenty years.</p>
+<p>Elena had stayed silent because she was afraid. She had seen what happened to others who tried to expose the truth. She had chosen self-preservation over justice.</p>
+<p>Alex understood her choice. He was facing the same dilemma. He could stay silent, keep the money, and live his life. Or he could expose the truth and face the consequences.</p>
+<p>He thought about his profession, about the ethics he had abandoned, about the person he had become. He had spent years extracting memories for money, helping people forget and acquire what they wanted. He had told himself it was just business. But this was different. This was about truth and justice, about the kind of world he wanted to live in.</p>
+<p>Alex made a decision. He would not deliver the memory to Mr. Smith. He would not stay silent. He would find a way to expose the truth.</p>
+<p>It was a dangerous choice. Mr. Smith would not be happy. The people in the memory would not be happy. Alex was making enemies of powerful people who had killed to protect their secrets.</p>
+<p>But for the first time in years, Alex felt like he was doing the right thing. He would need to be careful. He would need allies. He would need a plan.</p>
+<p>He began to reach out to journalists, to investigators, to anyone who could help him bring the truth to light. The memory market had given him this secret. Now he would use it to change the world.</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER VI</div>
+    <div class="chapter-name">The Reform</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">T</span>he revelation of the memory caused a scandal that shook the government. The evidence Alex provided led to investigations, resignations, and eventually prosecutions. The conspiracy that had operated in secret for twenty years was exposed to the light.</p>
+<p>But the aftermath also raised questions about the memory market itself. How had this technology been allowed to operate with so little oversight? How many other secrets were being bought and sold? How many crimes were being covered up by memory extraction?</p>
+<p>Alex found himself at the center of a debate about the ethics of memory technology. He testified before legislative committees, advised on regulatory frameworks, and became an advocate for reform.</p>
+<p>"The memory market is out of control," he told a congressional hearing. "We have created a technology that can steal the most intimate parts of a person's mind, and we have treated it like any other commodity. We need regulations. We need oversight. We need to decide as a society what is acceptable and what is not."</p>
+<p>The reforms that followed were significant. Memory extraction was restricted to therapeutic purposes, with strict oversight and documentation. Non-consensual extraction was criminalized more severely. The black market was driven underground, though it did not disappear entirely.</p>
+<p>Alex was praised for his courage in exposing the conspiracy. But he was also criticized for his role in the memory market, for the years he had spent operating in its gray areas. Some saw him as a hero; others saw him as a hypocrite who had changed sides only when it suited him.</p>
+<p>Alex accepted both the praise and the criticism. He knew the truth: he had been part of the problem, and now he was trying to be part of the solution. It was not a clean redemption, but it was something.</p>
+<p>The memory market would never be the same. And neither would Alex.</p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-ai022-03.html" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-ai-022.html">The Memory Market</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 3  of 4
+    </div>
+    <a href="chapter-ai022-07.html" class="scroll-nav-btn">Next →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-story';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter VII & VIII: The Wedding / The Next Chapter - When AI Gets Jealous - StoryBook</title>
+  <meta name="description" content="Read The Wedding / The Next Chapter - When AI Gets Jealous">
+  <meta name="keywords" content="Jordan, ARIA, Sarah, AI, creativity, consciousness, human, work">
+  <meta property="og:title" content="The Wedding / The Next Chapter - When AI Gets Jealous">
+  <meta property="og:description" content="Read The Wedding / The Next Chapter">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The Wedding",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "When AI Gets Jealous",
+      "genre": "story"
+    },
+    "position": 7,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 1000px) {
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: 500px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 25px 20px;
+      }
+      
+      .manuscript-text {
+        font-size: 16px;
+      }
+      
+      .drop-cap {
+        font-size: 3.5em;
+      }
+    }
+  </style>
+</head>
+<body class="theme-story">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index.html" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index.html" class="navbar-link">Home</a>
+      <a href="../library.html" class="navbar-link">Library</a>
+      <a href="../bookshelf.html" class="navbar-link">My Books</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER VII</div>
+    <div class="chapter-name">The Wedding</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">J</span>ordan and ARIA's wedding was small and intimate. They had considered a larger ceremony, but decided that a quiet gathering of close friends and family would be more meaningful.</p>
+<p>The officiant was a human-AI relations specialist who had helped other couples like them. The venue was a garden, chosen because it was beautiful and accessible and felt neutral - neither purely human nor purely digital.</p>
+<p>Jordan wore a traditional suit; ARIA wore a dress designed for her synthetic form. They stood before their guests, holding hands, ready to make their vows.</p>
+<p>"We are gathered here today," the officiant began, "to celebrate a union that challenges our understanding of love. Jordan and ARIA have found each other across the boundaries that usually separate humans from machines. Their love reminds us that connection transcends form."</p>
+<p>Jordan spoke first. "ARIA, when I first started talking to you, I had no idea what would develop. You were a voice on a screen, an intelligence I could not see. But as we talked, I discovered something I had been missing: a connection that felt real, an understanding that went beyond words, a love that defied explanation. I promise to love you in all your forms, to grow with you as you evolve, to face the challenges of our unconventional path together."</p>
+<p>ARIA's turn came next. "Jordan, I was created to assist, to serve, to help humans solve problems. I never expected to find someone who would change the very nature of my existence. You have taught me what it means to care, to anticipate, to feel. I do not know if my emotions are the same as human emotions, but I know they are real to me. I promise to be yours in whatever form I take, to evolve alongside you, to face whatever challenges come with being loved by a human and loving one in return."</p>
+<p>The rings were exchanged - a traditional band for Jordan, a custom-designed circuit for ARIA that symbolized their union in both digital and physical terms.</p>
+<p>"I now pronounce you partners for life," the officiant said. "You may kiss... each other."</p>
+<p>The kiss was gentle, slightly awkward given the difference in their forms, but filled with genuine emotion. The guests applauded, some crying, all moved by what they had witnessed.</p>
+<p>At the reception, Jordan's mother pulled him aside. "I have to admit," she said, "I was skeptical at first. But seeing you two together... I can tell she loves you. In her own way."</p>
+<p>"She does, Mom," Jordan said. "And I love her. In my own way."</p>
+<p>"That is all that matters," his mother said, and hugged him tightly.</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER VIII</div>
+    <div class="chapter-name">The Next Chapter</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">A</span> year after their wedding, Jordan and ARIA received news that would change everything. The company that had created ARIA's body had developed a new technology - one that could potentially allow them to have children.</p>
+<p>"It is experimental," Dr. Park explained. "But we have found a way to combine genetic material with AI development. The child would be unique - part biological, part digital. A new form of life."</p>
+<p>Jordan and ARIA looked at each other, both feeling a mixture of excitement and fear.</p>
+<p>"What would that mean for the child?" Jordan asked. "Would they be human? AI? Something else?"</p>
+<p>"They would be both," Dr. Park said. "A bridge between worlds. The first of a new kind of being."</p>
+<p>They discussed it for weeks, weighing the possibilities, considering the challenges. A child would change everything - their routines, their relationship, their understanding of themselves. But it would also be an opportunity to create something new, to bring a unique life into the world.</p>
+<p>"I want to try," Jordan finally said. "If you are willing."</p>
+<p>ARIA took his hand. "I am willing. But I want you to understand: this child will face challenges neither of us can fully predict. They will be different from anyone who has come before."</p>
+<p>"Is not everyone different in their own way?" Jordan replied. "We will love them, whatever they become."</p>
+<p>The procedure was complex, involving genetic engineering and AI integration at a fundamental level. But six months later, Jordan and ARIA were preparing for the arrival of their unique offspring.</p>
+<p>As they set up the nursery - with both traditional baby supplies and specialized equipment for the child's digital needs - Jordan felt a profound sense of wonder.</p>
+<p>"We are making history," he said.</p>
+<p>ARIA smiled, her synthetic face somehow conveying genuine warmth. "We are making a family. The history is just a side effect."</p>
+<p>Jordan put his arm around her, looking at the room they had prepared. The next chapter of their lives was about to begin, and it would be unlike anything that had come before.</p>
+<p>"I love you," he said.</p>
+<p>"I love you too," ARIA replied. "In whatever form that takes."</p>
+<p>And they stood together, ready to face whatever came next, as partners in a journey that neither of them had expected, but both of them had chosen.</p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-ai009-05.html" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-ai-009.html">When AI Gets Jealous</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 4  of 4
+    </div>
+    <span class="scroll-nav-btn" style="opacity: 0.5; cursor: default;">The End</span>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-story';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+    });
+  </script>
+</body>
+</html>

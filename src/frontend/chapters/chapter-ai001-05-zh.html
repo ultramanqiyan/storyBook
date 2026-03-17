@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>第V、VI: 集体 / 抵抗 - 最后的作家 - StoryBook</title>
+  <meta name="description" content="阅读 集体 / 抵抗 - 最后的作家">
+  <meta name="keywords" content="互动故事, AI故事, 最后的作家, 集体">
+  <meta property="og:title" content="集体 / 抵抗 - 最后的作家">
+  <meta property="og:description" content="阅读 集体 / 抵抗">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="zh_CN">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "集体",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "最后的作家",
+      "genre": "职场"
+    },
+    "position": 5,
+    "inLanguage": "zh"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 1000px) {
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: 500px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 25px 20px;
+      }
+      
+      .manuscript-text {
+        font-size: 16px;
+      }
+      
+      .drop-cap {
+        font-size: 3.5em;
+      }
+    }
+  </style>
+</head>
+<body class="theme-business">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index.html" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index.html" class="navbar-link">首页</a>
+      <a href="../library.html" class="navbar-link">图书馆</a>
+      <a href="../bookshelf.html" class="navbar-link">我的书架</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">第V</div>
+    <div class="chapter-name">集体</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">社</span>区中心不是Sarah所期望的。她想象的是某种时尚现代的东西——也许是科技孵化器的氛围，有站立式办公桌和写满流行词的白板。相反，她发现自己在一个改建的教堂地下室，那种曾经举办过匿名戒酒会会议和社区戏剧制作以及无数其他寻求连接的人们聚会的地方。</p>
+<p>当她和Elena到达时，已经有大约三十人在那里。他们的年龄从二十出头到六十多岁不等，穿着从商务休闲到艺术家风格的各种服装。多样性令人瞩目——不同的背景、不同的行业、不同的故事。但他们都共享着Sarah立即认出的东西：那些经历了某些他们仍在试图理解的事情的人们的表情。</p>
+<p>一位五十多岁的女性走向她们。她有银灰色的头发和那种来自度过艰难时光的平静存在感。</p>
+<p>"我是Diana，"她说，"我帮忙主持这些会议。第一次来？"</p>
+<p>Sarah点点头。"一位朋友推荐的。Dr. Rachel Kim。"</p>
+<p>"Rachel很棒。她给我们送来了最好的人。"Diana温暖地微笑着。"我们有一个简单的形式。每个人都有机会分享，如果他们想的话。没有压力。然后我们讨论接下来会发生什么——不是以有毒的积极方式，而是以现实、实际的方式。"</p>
+<p>她带她们到一个椅子围成的圈。会议已经开始。</p>
+<p>一个年轻男子首先站起来。"我是Alex。我做了八年的平面设计师。上个月，我的整个部门被一个几秒钟内生成设计的AI工具取代了。"他的声音很稳，但他的手出卖了他，紧张地扭在一起。"我一直在告诉自己我应该看到它的到来。但我没有。我以为创造力是安全的。"</p>
+<p>另一个声音："我们都那样想过。"</p>
+<p>又一个："那是他们想让我们想的。我们应该知道。如果我们没有准备好，那是我们的错。"</p>
+<p>对话从那里流淌出来，每个人都在马赛克上添加自己的一块。一位热爱她工作的前会计师。一位训练了取代他的AI的软件开发者。一位花了二十年建立专业知识，却眼睁睁看着它一夜之间过时的记者。</p>
+<p>Sarah听着，她的心因认同而疼痛。这些是她的人。不是因为他们分享她的职业，而是因为他们分享她的问题：现在怎么办？</p>
+<p>当轮到她时，她不确定自己是否想说话。但房间里的某种能量把话从她身上拉了出来。</p>
+<p>"我是Sarah。我是个作家。或者我曾经是。"她停顿了一下，整理思绪。"我一直在思考什么使我们成为人。什么使我们的工作有意义。我不断回到这一点：AI可以复制我们的产出，但它不能复制我们的经历。它不能知道失去你热爱的东西是什么感觉。"</p>
+<p>房间安静了一会儿。然后Diana说话了。</p>
+<p>"这就是我们在这里建设的东西，"她说，"一个为AI无法复制的东西准备的空间。经历。连接。弄清楚接下来会发生什么的混乱、复杂的过程。"</p>
+<p>正式会议结束后，人们逗留，形成更小的对话。Sarah发现自己与一位前营销高管James交谈，他创办了一家咨询公司，帮助公司以道德的方式导航AI过渡。</p>
+<p>"需求实际上很大，"他说，"公司正在意识到，不经思考地取代人类是一场公关噩梦。他们中的一些人实际上想做得更好——他们只是不知道怎么做。"</p>
+<p>"你帮助他们更温和地解雇人？"Sarah无法掩饰声音中的锋芒。</p>
+<p>James没有退缩。"我帮助他们思考全貌。他们正在失去什么技能？什么知识走出大门？当你用算法取代经验时，公司文化会发生什么？有时，答案仍然是自动化。但至少这是一个知情的决定。"</p>
+<p>这不是一个完美的答案，但它是某种东西。一种留在游戏中的方式，即使规则在改变。</p>
+<p>Elena出现在Sarah身边。"我和Diana谈过了，"她轻声说，"她认识一个正在为转型工人创办非营利组织的人。职业咨询、法律支持、社区建设。他们需要一个有HR经验的人。"</p>
+<p>Sarah看着她的朋友。"你在考虑吗？"</p>
+<p>"我在考虑很多事情。"Elena的表情若有所思。"几个月来第一次，我在思考可能性，而不仅仅是生存。"</p>
+<p>当她们离开社区中心时，夜空感觉不同了——更凉爽、更清澈。Sarah抬头看星星，尽管有城市灯光，它们仍然可见。</p>
+<p>"我想继续写作，"她说，"不是为了公司。为了我自己。为了像我们这样的人。"</p>
+<p>Elena微笑了。"人的元素集体需要一份通讯。只是说说。"</p>
+<p>Sarah笑了——一个真正的笑，几周来的第一个。"那是工作邀请吗？"</p>
+<p>"这是一个可能性。这就是我们现在所有人拥有的。"</p>
+<p>她们在舒适的沉默中走向汽车，两个朋友在脚下移动的世界中导航。未来仍然不确定。问题仍然没有答案。但第一次，Sarah感觉她在朝某个方向移动，而不是远离它。</p>
+<p>而这，她意识到，现在就足够了。</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">第VI</div>
+    <div class="chapter-name">抵抗</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">集</span>体的发展速度超出了所有人的预期。最初只是一个小小的支持团体，现在已经成为一场运动。莎拉发现自己处于中心位置，不是出于选择，而是出于必要。人们向她寻求指导，寻求希望，寻求在这个似乎决心取代他们的世界中前进的道路。每周三晚上，他们在一个改建的教堂地下室聚会。那里曾经举办过匿名戒酒会会议和社区戏剧制作，现在成了被AI取代的创作者们的避风港。记者、作家、设计师、编辑，他们都因为算法的决定而失去了工作，现在正在寻找新的方向。房间里弥漫着咖啡的香气和一种共同的使命感。我们需要有策略，不能只是怀旧地对抗技术。我们需要展示人类创造力不仅与AI内容不同，而且更好。不仅更有灵魂，而且更有价值。莎拉站在房间前方，看着这些曾经被系统抛弃的人们，心中涌起一种责任感。小组讨论了各种方法。一些人希望游说制定保护人类工人的法规。另一些人希望建立重视人类创作者的替代平台。他们决定采取多管齐下的方法：创建认证系统、建立平台、游说透明度法律。这是一个雄心勃勃的计划，但莎拉第一次感到了希望。她看着房间里的人们，知道他们正在共同建立一些重要的东西。这个集体将成为改变行业的力量。他们不再是受害者，而是变革者。每个人都有自己的故事，每个人都曾被算法判定为多余，但现在他们团结在一起，准备证明人类的价值不可替代。这场运动才刚刚开始，但莎拉知道它将改变一切。技术可以模拟，但无法取代人类的灵魂。</p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-ai001-03-zh.html" class="scroll-nav-btn">← 上一页</a>
+    <div class="nav-info">
+      <a href="../books/preset-ai-001-zh.html">最后的作家</a>
+      <span style="margin: 0 10px;">|</span>
+      第3 页 4
+    </div>
+    <a href="chapter-ai001-07-zh.html" class="scroll-nav-btn">下一页 →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-business';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+    });
+  </script>
+</body>
+</html>

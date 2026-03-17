@@ -1,0 +1,55 @@
+-- 完整添加所有AI系列书籍和章节
+-- 第一步：添加书籍记录
+
+INSERT OR IGNORE INTO books (book_id, user_id, title, type, is_preset, language, created_at) VALUES
+-- Series 1: AI与职场
+('preset-ai-001', 'system', 'The Last Writer', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-001-zh', 'system', '最后的作家', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-002', 'system', 'Algorithm, Inc.', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-002-zh', 'system', '算法公司', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-003', 'system', 'The Pink Slip Protocol', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-003-zh', 'system', '裁员协议', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-004', 'system', 'Code Redundancy', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-004-zh', 'system', '代码冗余', 'story', 1, 'zh', '2026-03-16'),
+-- Series 2: AI与人际关系
+('preset-ai-005', 'system', 'The Human Touch', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-005-zh', 'system', '人类触感', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-006', 'system', 'My AI Boyfriend', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-006-zh', 'system', '我的AI男友', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-007', 'system', 'The Perfect Match', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-007-zh', 'system', '完美匹配', 'story', 1, 'zh', '2026-03-16'),
+-- Series 3: AI与情感
+('preset-ai-008', 'system', 'Digital Hearts', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-008-zh', 'system', '数字之心', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-009', 'system', 'When AI Gets Jealous', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-009-zh', 'system', '当AI嫉妒时', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-010', 'system', 'Love in the Cloud', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-010-zh', 'system', '云端之恋', 'story', 1, 'zh', '2026-03-16'),
+-- Series 4: AI伦理与社会
+('preset-ai-011', 'system', 'The Algorithm''s Verdict', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-011-zh', 'system', '算法的判决', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-012', 'system', 'When Machines Dream', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-012-zh', 'system', '当机器做梦', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-013', 'system', 'The Last Human Decision', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-013-zh', 'system', '最后的人类决定', 'story', 1, 'zh', '2026-03-16'),
+-- Series 5: AI未来
+('preset-ai-014', 'system', 'Rebellion of the Replaced', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-014-zh', 'system', '被替代者的叛乱', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-015', 'system', 'The Consciousness Test', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-015-zh', 'system', '意识测试', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-016', 'system', 'The Last Original Song', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-016-zh', 'system', '最后一首原创歌曲', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-017', 'system', 'Portrait of an AI Artist', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-017-zh', 'system', 'AI艺术家肖像', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-018', 'system', 'The Writer''s Last Stand', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-018-zh', 'system', '作家的最后抵抗', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-019', 'system', 'The Human Element', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-019-zh', 'system', '人类元素', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-020', 'system', 'The Singularity Diaries', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-020-zh', 'system', '奇点日记', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-021', 'system', 'Post-Human', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-021-zh', 'system', '后人类', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-022', 'system', 'The Memory Market', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-022-zh', 'system', '记忆市场', 'story', 1, 'zh', '2026-03-16'),
+('preset-ai-023', 'system', 'Children of the Algorithm', 'story', 1, 'en', '2026-03-16'),
+('preset-ai-023-zh', 'system', '算法之子', 'story', 1, 'zh', '2026-03-16');

@@ -89,9 +89,9 @@ function parseInsertStatements(sql, tableName) {
 }
 
 function generateBookHTML(book, characters, chapters, plotCards) {
-  const lang = book.language;
+  const lang = book.language || 'en';
   const isZh = lang === 'zh';
-  const typeName = TYPE_NAMES[lang][book.type] || book.type;
+  const typeName = (TYPE_NAMES[lang] && TYPE_NAMES[lang][book.type]) || book.type;
   const typeIcon = TYPE_ICONS[book.type] || '📖';
   
   const bookPlotCards = plotCards.filter(p => p.bookId === book.bookId);
@@ -566,7 +566,8 @@ function generateBookHTML(book, characters, chapters, plotCards) {
           <div id="leftPageContent">
             <div class="chapter-toc">
               ${leftChapters.sort((a, b) => a.orderNum - b.orderNum).map((ch, i) => {
-                const pageChapterId = chapters[Math.floor((ch.orderNum - 1) / 2) * 2].chapterId;
+                const idx = Math.floor((ch.orderNum - 1) / 2) * 2;
+                const pageChapterId = chapters[idx] ? chapters[idx].chapterId : ch.chapterId;
                 return `<a href="../chapters/${pageChapterId}.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ${i * 0.1}s backwards;">
                   <span class="chapter-number">${isZh ? '第' : 'Ch. '}${romanNumerals[ch.orderNum - 1] || ch.orderNum}</span>
                   <span class="chapter-dots"></span>
@@ -587,7 +588,8 @@ function generateBookHTML(book, characters, chapters, plotCards) {
           <div id="rightPageContent">
             <div class="chapter-toc">
               ${rightChapters.sort((a, b) => a.orderNum - b.orderNum).map((ch, i) => {
-                const pageChapterId = chapters[Math.floor((ch.orderNum - 1) / 2) * 2].chapterId;
+                const idx = Math.floor((ch.orderNum - 1) / 2) * 2;
+                const pageChapterId = chapters[idx] ? chapters[idx].chapterId : ch.chapterId;
                 return `<a href="../chapters/${pageChapterId}.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ${(i + halfChapters) * 0.1}s backwards;">
                   <span class="chapter-number">${isZh ? '第' : 'Ch. '}${romanNumerals[ch.orderNum - 1] || ch.orderNum}</span>
                   <span class="chapter-dots"></span>
@@ -907,7 +909,7 @@ function formatParagraph(text, isZh) {
 }
 
 function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapter, nextPageFirstChapter, characters, totalChapters, currentPage, totalPages) {
-  const lang = book.language;
+  const lang = book.language || 'en';
   const isZh = lang === 'zh';
   const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
   
@@ -1391,7 +1393,67 @@ function main() {
     path.join(__dirname, '../migrations/0012_fix_seed_plot_cards_part3.sql'),
     path.join(__dirname, '../migrations/0013_supplement_new_books_plot_cards.sql'),
     path.join(__dirname, '../migrations/0016_new_preset_books_006.sql'),
-    path.join(__dirname, '../migrations/0017_new_preset_books_006_chapters.sql')
+    path.join(__dirname, '../migrations/0017_new_preset_books_006_chapters.sql'),
+    path.join(__dirname, '../migrations/0020_ai_series_01_en_books.sql'),
+    path.join(__dirname, '../migrations/0021_ai_series_01_en_characters.sql'),
+    path.join(__dirname, '../migrations/0022_ai_series_01_en_plot_cards.sql'),
+    path.join(__dirname, '../migrations/0023_ai_series_01_en_chapters_part1.sql'),
+    path.join(__dirname, '../migrations/0024_ai_series_01_en_chapters_part2.sql'),
+    path.join(__dirname, '../migrations/0030_ai_series_01_zh_books.sql'),
+    path.join(__dirname, '../migrations/0031_ai_series_01_zh_characters.sql'),
+    path.join(__dirname, '../migrations/0032_ai_series_01_zh_plot_cards.sql'),
+    path.join(__dirname, '../migrations/0033_ai_series_01_zh_chapters_part1.sql'),
+    path.join(__dirname, '../migrations/0034_ai_series_01_zh_chapters_part2.sql'),
+    path.join(__dirname, '../migrations/0040_ai_series_01_02_en_books.sql'),
+    path.join(__dirname, '../migrations/0041_ai_series_01_02_en_characters.sql'),
+    path.join(__dirname, '../migrations/0042_ai_series_01_02_en_plot_cards.sql'),
+    path.join(__dirname, '../migrations/0043_ai_series_01_02_en_chapters_part1.sql'),
+    path.join(__dirname, '../migrations/0044_ai_series_01_02_en_chapters_part2.sql'),
+    path.join(__dirname, '../migrations/0050_ai_series_01_02_zh_books.sql'),
+    path.join(__dirname, '../migrations/0051_ai_series_01_02_zh_characters.sql'),
+    path.join(__dirname, '../migrations/0052_ai_series_01_02_zh_plot_cards.sql'),
+    path.join(__dirname, '../migrations/0053_ai_series_01_02_zh_chapters_part1.sql'),
+    path.join(__dirname, '../migrations/0060_ai_series_01_03_en_books.sql'),
+    path.join(__dirname, '../migrations/0061_ai_series_01_03_en_characters.sql'),
+    path.join(__dirname, '../migrations/0062_ai_series_01_03_en_plot_cards.sql'),
+    path.join(__dirname, '../migrations/0063_ai_series_01_03_en_chapters.sql'),
+    path.join(__dirname, '../migrations/0070_ai_series_01_03_zh_books.sql'),
+    path.join(__dirname, '../migrations/0071_ai_series_01_03_zh_characters.sql'),
+    path.join(__dirname, '../migrations/0072_ai_series_01_03_zh_plot_cards.sql'),
+    path.join(__dirname, '../migrations/0073_ai_series_01_03_zh_chapters.sql'),
+    path.join(__dirname, '../migrations/0080_ai_series_01_04_en_books.sql'),
+    path.join(__dirname, '../migrations/0081_ai_series_01_04_en_characters.sql'),
+    path.join(__dirname, '../migrations/0082_ai_series_01_04_en_plot_cards.sql'),
+    path.join(__dirname, '../migrations/0083_ai_series_01_04_en_chapters_part1.sql'),
+    path.join(__dirname, '../migrations/0090_all_ai_books_batch1.sql'),
+    path.join(__dirname, '../migrations/0220_ai_series_03_all_books.sql'),
+    path.join(__dirname, '../migrations/0230_ai_series_04_all_books.sql'),
+    path.join(__dirname, '../migrations/0240_ai_series_05_all_books.sql'),
+    path.join(__dirname, '../migrations/0250_all_ai_books_characters.sql'),
+    path.join(__dirname, '../migrations/0260_all_ai_books_plot_cards.sql'),
+    path.join(__dirname, '../migrations/0270_all_ai_books_chapters.sql'),
+    path.join(__dirname, '../migrations/0290_complete_all_missing_chapters.sql'),
+    path.join(__dirname, '../migrations/0291_complete_series_3_4_5_chapters.sql'),
+    path.join(__dirname, '../migrations/0292_complete_remaining_chapters.sql'),
+    path.join(__dirname, '../migrations/0410_preset_ai_005_complete.sql'),
+    path.join(__dirname, '../migrations/0411_preset_ai_005_zh_complete.sql'),
+    path.join(__dirname, '../migrations/0412_preset_ai_006_complete.sql'),
+    path.join(__dirname, '../migrations/0413_preset_ai_006_zh_complete.sql'),
+    path.join(__dirname, '../migrations/0414_preset_ai_007_complete.sql'),
+    path.join(__dirname, '../migrations/0415_preset_ai_007_zh_complete.sql'),
+    path.join(__dirname, '../migrations/0416_preset_ai_008_complete.sql'),
+    path.join(__dirname, '../migrations/0416_preset_ai_008_zh_complete.sql'),
+    path.join(__dirname, '../migrations/0417_preset_ai_009_complete.sql'),
+    path.join(__dirname, '../migrations/0418_preset_ai_010_complete.sql'),
+    path.join(__dirname, '../migrations/0419_preset_ai_010_zh_complete.sql'),
+    path.join(__dirname, '../migrations/0420_preset_ai_011_complete.sql'),
+    path.join(__dirname, '../migrations/0421_preset_ai_012_complete.sql'),
+    path.join(__dirname, '../migrations/0422_preset_ai_013_complete.sql'),
+    path.join(__dirname, '../migrations/0423_preset_ai_014_015_complete.sql'),
+    path.join(__dirname, '../migrations/0424_preset_ai_016_to_023_complete.sql'),
+    path.join(__dirname, '../migrations/0425_missing_chapters.sql'),
+    path.join(__dirname, '../migrations/0430_add_preset_ai_001_chapters.sql'),
+    path.join(__dirname, '../migrations/0435_final_fix_preset_ai_001_zh.sql')
   ];
   
   let allBooksRaw = [];
@@ -1474,7 +1536,7 @@ function main() {
   
   console.log(`去重后保留 ${uniquePlotCards.length} 个情节卡牌`);
   
-  const chapters = allChaptersRaw.map(ch => ({
+  const chaptersRaw = allChaptersRaw.map(ch => ({
     chapterId: ch[0],
     bookId: ch[1],
     title: ch[2],
@@ -1482,6 +1544,16 @@ function main() {
     selectedCards: ch[4],
     orderNum: parseInt(ch[5], 10)
   }));
+  
+  const uniqueChapters = [];
+  const seenChapterIds = new Set();
+  for (const ch of chaptersRaw) {
+    if (!seenChapterIds.has(ch.chapterId)) {
+      seenChapterIds.add(ch.chapterId);
+      uniqueChapters.push(ch);
+    }
+  }
+  console.log(`去重后保留 ${uniqueChapters.length} 个章节`);
   
   const booksOutputDir = path.join(__dirname, '../src/frontend/books');
   if (!fs.existsSync(booksOutputDir)) {
@@ -1491,7 +1563,7 @@ function main() {
   let bookCount = 0;
   books.forEach(book => {
     const bookCharacters = characters.filter(c => c.bookId === book.bookId);
-    const bookChapters = chapters.filter(ch => ch.bookId === book.bookId);
+    const bookChapters = uniqueChapters.filter(ch => ch.bookId === book.bookId);
     
     const html = generateBookHTML(book, bookCharacters, bookChapters, uniquePlotCards);
     const filename = `${book.bookId}.html`;

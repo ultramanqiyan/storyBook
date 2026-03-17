@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>第V、VI: 余波 / 覆盖 - 算法公司 - StoryBook</title>
+  <meta name="description" content="阅读 余波 / 覆盖 - 算法公司">
+  <meta name="keywords" content="互动故事, AI故事, 算法公司, 余波">
+  <meta property="og:title" content="余波 / 覆盖 - 算法公司">
+  <meta property="og:description" content="阅读 余波 / 覆盖">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="zh_CN">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "余波",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "算法公司",
+      "genre": "story"
+    },
+    "position": 5,
+    "inLanguage": "zh"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 1000px) {
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: 500px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 25px 20px;
+      }
+      
+      .manuscript-text {
+        font-size: 16px;
+      }
+      
+      .drop-cap {
+        font-size: 3.5em;
+      }
+    }
+  </style>
+</head>
+<body class="theme-story">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index.html" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index.html" class="navbar-link">首页</a>
+      <a href="../library.html" class="navbar-link">图书馆</a>
+      <a href="../bookshelf.html" class="navbar-link">我的书架</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">第V</div>
+    <div class="chapter-name">余波</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">文</span>章在一个周二早上发布。到中午，算法公司的股票下跌了23%。到晚上，首席执行官正在每个主要新闻网络上进行损害控制。</p>
+<p>迈克从他的公寓观看这一切展开，他的手机不断震动，同事、朋友甚至一些不知怎么得到他号码的记者发来的消息。</p>
+<p>文章是瑞秋承诺的一切——甚至更多。她验证了每一个主张，采访了目睹类似问题的前员工，并请来独立专家分析算法。结果是一篇毁灭性的曝光，将算法公司描绘成系统性歧视的自愿参与者，而不是有偏见数据的受害者。</p>
+<p>公司的反应迅速且可预测。首先是否认。然后是转移视线。然后，当证据变得无法忽视时，一份关于"意外后果"和承诺"审查我们的流程"的精心措辞声明。</p>
+<p>迈克预期被解雇。他准备好了辞职信，打包了办公桌，排练了告别。但当他在周五被叫进首席执行官办公室时，不是为了解雇他。</p>
+<p>"我们想让你领导补救工作，"陈博士说，表情难以捉摸。"你发现了问题。你应该成为解决方案的一部分。"</p>
+<p>迈克盯着他。"你想让我修复我刚刚曝光的算法？"</p>
+<p>"我们想让你帮助我们做得更好。这不是你想要的吗？"</p>
+<p>问题悬在空中。是吗？迈克想要正义，问责，改变。但他能在一家如此努力忽视他的公司内部实现这些吗？</p>
+<p>"我会考虑的，"他最终说。</p>
+<p>陈博士点头。"周末好好想想。但要明白这一点——我们正处于十字路口。公司要么从中学习，要么加倍坚持旧方式。你的声音可能会产生影响。"</p>
+<p>迈克离开办公室，比以往更加矛盾。瑞秋那天晚上打电话来。</p>
+<p>"他们给你一份工作？"她难以置信地问。"在这一切之后？"</p>
+<p>"他们想让我领导补救工作。"</p>
+<p>"你在考虑它？"</p>
+<p>"我不知道，"迈克承认。"一部分我想我应该走开。但另一部分想也许这就是变革发生的方式——不是从外部，而是从内部。"</p>
+<p>瑞秋沉默了一会儿。"只是要小心。像这样的公司不会改变因为他们想改变。他们改变因为他们必须改变。一旦压力消失..."</p>
+<p>"我知道，"迈克说。"但如果我能做出真正的改变呢？如果这是我一直在等待的机会呢？"</p>
+<p>"那就接受它，"瑞秋说。"但保持警惕。保留我的号码。"</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">第VI</div>
+    <div class="chapter-name">覆盖</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">丑</span>闻六个月后，算法公司是一家不同的公司——或者至少，看起来是这样。有偏见的算法已被替换。新的监督委员会已经成立。迈克已被提升为"伦理合规主管"，这个头衔带来了一个角落办公室和执行团队的一席之地。</p>
+<p>但他看到的越多，他就越意识到这些变化很大程度上是表面的。新算法更好，是的，但它仍然包含微妙的偏见，监督委员会——充斥着公司忠诚者——一直淡化或忽视。</p>
+<p>"我们需要调整参数，"迈克在又一次会议上争辩。"少数族裔申请人的批准率仍然比具有相同信用状况的白人申请人低15%。"</p>
+<p>"这在可接受的方差范围内，"委员会主席回答，没有从平板电脑上抬起头。"而且我们必须考虑进一步调整的商业影响。"</p>
+<p>"从什么时候开始歧视变成了'可接受的方差'？"迈克问道，声音提高。</p>
+<p>"迈克，我们都欣赏你的热情，但你需要理解大局。我们是一家企业，不是慈善机构。我们增加的每一个百分点的批准都是风险的一个百分点。"</p>
+<p>会议再次没有解决就结束了。</p>
+<p>那天晚上，迈克做出了一个决定。他尝试在系统内工作，系统失败了。是时候采取不同的方法了。</p>
+<p>他开始记录一切——被忽视的报告，被驳回的担忧，转移视线的微妙压力。他还开始联系监管机构、立法者和其他吹哨人。安静地，小心地，建立一个无法忽视的案例。</p>
+<p>丽莎深夜在他的办公室找到了他，周围是文件。</p>
+<p>"你又在做这件事了，对吧？"她轻声问。</p>
+<p>迈克抬起头。"做什么？"</p>
+<p>"打一场你赢不了的战斗。迈克，我之前支持你是因为公司做的事情是错的。但现在？他们在尝试。也许不像你希望的那样努力，但他们在尝试。你就不能妥协吗？"</p>
+<p>"当人们的生活正在被摧毁时，妥协是不够的，"迈克回答。"而且我不确定他们在尝试。我认为他们在等待热度消退，这样他们就可以回到照常营业。"</p>
+<p>丽莎叹了口气。"只是...要小心。你已经有了敌人。不要让自己成为烈士。"</p>
+<p>迈克苦笑。"我不是想成为烈士。我是想做出改变。有区别的。"</p>
+<p>"有吗？"丽莎问，然后走开了。</p>
+<p>迈克转回他的文件。她是对的，当然。他正在走一条危险的线。但必须有人走它。如果不是他，那是谁？</p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-ai002-03-zh.html" class="scroll-nav-btn">← 上一页</a>
+    <div class="nav-info">
+      <a href="../books/preset-ai-002-zh.html">算法公司</a>
+      <span style="margin: 0 10px;">|</span>
+      第3 页 4
+    </div>
+    <a href="chapter-ai002-07-zh.html" class="scroll-nav-btn">下一页 →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-story';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+    });
+  </script>
+</body>
+</html>

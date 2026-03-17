@@ -866,4 +866,499 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-rom004-09-en.html"/>
   </url>
 
+  <!-- AI Series 01 - The Last Writer -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-001.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-001.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-001-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-001-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-001.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-001-zh.html"/>
+  </url>
+
+  <!-- AI Series 01 Chapters - English -->
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-ai001-01.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-ai001-04.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-ai001-06.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-ai001-08.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- AI Series 01 Chapters - Chinese -->
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-ai001-01-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-ai001-03-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-ai001-05-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-ai001-07-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- AI Series 02 - Algorithm, Inc. -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-002.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-002.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-002-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-002-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-002.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-002-zh.html"/>
+  </url>
+
+  <!-- AI Series 03 - The Pink Slip Protocol -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-003.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-003.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-003-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-003-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-003.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-003-zh.html"/>
+  </url>
+
+  <!-- AI Series 04 - Code Redundancy -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-004.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-004.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-004-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-004-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-004.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-004-zh.html"/>
+  </url>
+
+  <!-- AI Series 05 - The Human Touch -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-005.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-005.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-005-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-005-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-005.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-005-zh.html"/>
+  </url>
+
+  <!-- AI Series 06 - My AI Boyfriend -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-006.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-006.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-006-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-006-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-006.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-006-zh.html"/>
+  </url>
+
+  <!-- AI Series 07 - The Perfect Match -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-007.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-007.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-007-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-007-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-007.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-007-zh.html"/>
+  </url>
+
+  <!-- AI Series 08 - Digital Hearts -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-008.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-008.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-008-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-008-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-008.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-008-zh.html"/>
+  </url>
+
+  <!-- AI Series 09 - When AI Gets Jealous -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-009.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-009.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-009-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-009-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-009.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-009-zh.html"/>
+  </url>
+
+  <!-- AI Series 10 - Love in the Cloud -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-010.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-010.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-010-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-010-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-010.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-010-zh.html"/>
+  </url>
+
+  <!-- AI Series 11 - The Algorithm's Verdict -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-011.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-011.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-011-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-011-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-011.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-011-zh.html"/>
+  </url>
+
+  <!-- AI Series 12 - When Machines Dream -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-012.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-012.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-012-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-012-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-012.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-012-zh.html"/>
+  </url>
+
+  <!-- AI Series 13 - The Last Human Decision -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-013.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-013.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-013-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-013-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-013.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-013-zh.html"/>
+  </url>
+
+  <!-- AI Series 14 - Rebellion of the Replaced -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-014.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-014.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-014-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-014-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-014.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-014-zh.html"/>
+  </url>
+
+  <!-- AI Series 15 - The Consciousness Test -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-015.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-015.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-015-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-015-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-015.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-015-zh.html"/>
+  </url>
+
+  <!-- AI Series 16 - The Last Original Song -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-016.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-016.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-016-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-016-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-016.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-016-zh.html"/>
+  </url>
+
+  <!-- AI Series 17 - Portrait of an AI Artist -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-017.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-017.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-017-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-017-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-017.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-017-zh.html"/>
+  </url>
+
+  <!-- AI Series 18 - The Writer's Last Stand -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-018.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-018.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-018-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-018-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-018.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-018-zh.html"/>
+  </url>
+
+  <!-- AI Series 19 - The Human Element -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-019.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-019.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-019-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-019-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-019.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-019-zh.html"/>
+  </url>
+
+  <!-- AI Series 20 - The Singularity Diaries -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-020.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-020.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-020-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-020-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-020.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-020-zh.html"/>
+  </url>
+
+  <!-- AI Series 21 - Post-Human -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-021.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-021.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-021-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-021-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-021.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-021-zh.html"/>
+  </url>
+
+  <!-- AI Series 22 - The Memory Market -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-022.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-022.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-022-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-022-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-022.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-022-zh.html"/>
+  </url>
+
+  <!-- AI Series 23 - Children of the Algorithm -->
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-023.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-023.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-023-zh.html"/>
+  </url>
+
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-ai-023-zh.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-023.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-ai-023-zh.html"/>
+  </url>
+
 </urlset>
