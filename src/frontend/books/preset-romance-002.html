@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>算法姻缘 - StoryBook</title>
   <meta name="description" content="算法姻缘 - AI互动故事">
-  <meta name="keywords" content="互动故事, AI故事, 算法姻缘, 言情">
+  <meta name="keywords" content="苏小小, 陆野, 算法小助手, AI, consciousness, human, work, future">
   <meta property="og:title" content="算法姻缘 - StoryBook">
   <meta property="og:description" content="算法姻缘 - AI互动故事">
   <meta property="og:type" content="book">
@@ -292,6 +292,45 @@
       box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
     }
     
+    .action-btn-secondary {
+      background: transparent;
+      border: 2px solid #8B4513;
+      color: #4a3a2a;
+    }
+    
+    .action-btn-secondary:hover {
+      background: rgba(139, 69, 19, 0.1);
+    }
+    
+    .action-btn-primary {
+      background: linear-gradient(180deg, #D4AF37 0%, #B8860B 100%);
+      border: 2px solid #FFD700;
+      color: #1a1008;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 8px 20px;
+      min-width: 160px;
+    }
+    
+    .action-btn-primary:hover {
+      background: linear-gradient(180deg, #FFD700 0%, #D4AF37 100%);
+      box-shadow: 0 4px 20px rgba(212, 175, 55, 0.5);
+    }
+    
+    .action-btn-primary .btn-main {
+      font-size: 13px;
+      font-weight: bold;
+      line-height: 1.3;
+    }
+    
+    .action-btn-primary .btn-sub {
+      font-size: 10px;
+      opacity: 0.8;
+      font-weight: normal;
+      line-height: 1.2;
+    }
+    
     .chapter-toc {
       display: flex;
       flex-direction: column;
@@ -434,8 +473,11 @@
                 <span>👥 3 角色</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapters/chapter-rom002-01.html" class="action-btn">开始阅读</a>
-                <button class="action-btn" onclick="importPresetBook()">导入书架</button>
+                <a href="../chapters/chapter-rom002-01.html" class="action-btn action-btn-secondary">开始阅读</a>
+                <button class="action-btn action-btn-primary" onclick="importPresetBook()">
+                  <span class="btn-main">续写这个故事</span>
+                  <span class="btn-sub">用卡牌创作新章节</span>
+                </button>
               </div>
             </div>
           </div>
@@ -526,8 +568,8 @@
       title: '算法姻缘',
       type: 'romance',
       chapters: [{"chapterId":"chapter-rom002-01","title":"99%的匹配","orderNum":1},{"chapterId":"chapter-rom002-02","title":"第一次约会","orderNum":2},{"chapterId":"chapter-rom002-03","title":"数据的困惑","orderNum":3},{"chapterId":"chapter-rom002-04","title":"即兴的旅行","orderNum":4},{"chapterId":"chapter-rom002-05","title":"价值观的碰撞","orderNum":5},{"chapterId":"chapter-rom002-06","title":"分开的日子","orderNum":6},{"chapterId":"chapter-rom002-07","title":"数据的真相","orderNum":7},{"chapterId":"chapter-rom002-08","title":"勇敢的告白","orderNum":8},{"chapterId":"chapter-rom002-09","title":"重新开始","orderNum":9},{"chapterId":"chapter-rom002-10","title":"算法之外","orderNum":10}],
-      characters: [{"charId":"char-rom002-001","name":"苏小小","roleType":"数据分析师","personality":"理性严谨、相信数据、有点强迫症","avatar":"👩","isProtagonist":true},{"charId":"char-rom002-002","name":"陆野","roleType":"自由摄影师","personality":"随性浪漫、讨厌规则、活在当下","avatar":"👨","isProtagonist":false},{"charId":"char-rom002-003","name":"算法小助手","roleType":"APP AI","personality":"自信满满、偶尔出错","avatar":"📱","isProtagonist":false}],
-      plotCards: [{"card_id":"card-rom002-01","sub_type":"weather","name":"晴天","icon":"☀️","description":"阳光明媚，适合约会"},{"card_id":"card-rom002-02","sub_type":"terrain","name":"咖啡厅","icon":"☕","description":"温馨的咖啡厅，浪漫的约会地点"},{"card_id":"card-rom002-03","sub_type":"adventure","name":"约会","icon":"🌹","description":"甜蜜的约会，增进感情"},{"card_id":"card-rom002-04","sub_type":"equipment","name":"相机","icon":"📷","description":"记录美好瞬间，留下回忆"},{"card_id":"card-rom002-w02","sub_type":"weather","name":"夕阳","icon":"🌇","description":"浪漫的夕阳"},{"card_id":"card-rom002-w03","sub_type":"weather","name":"多云","icon":"⛅","description":"云朵飘浮"},{"card_id":"card-rom002-w04","sub_type":"weather","name":"星空","icon":"⭐","description":"繁星点点"},{"card_id":"card-rom002-w05","sub_type":"weather","name":"阴天","icon":"☁️","description":"阴沉的天空"},{"card_id":"card-rom002-w06","sub_type":"weather","name":"雨天","icon":"🌧️","description":"淅淅沥沥的雨"},{"card_id":"card-rom002-w07","sub_type":"weather","name":"月色","icon":"🌙","description":"皎洁的月光"},{"card_id":"card-rom002-w08","sub_type":"weather","name":"黄昏","icon":"🌆","description":"温柔的黄昏"},{"card_id":"card-rom002-w09","sub_type":"weather","name":"彩虹","icon":"🌈","description":"美丽的彩虹"},{"card_id":"card-rom002-w10","sub_type":"weather","name":"初雪","icon":"❄️","description":"第一场雪"},{"card_id":"card-rom002-t02","sub_type":"terrain","name":"餐厅","icon":"🍽️","description":"浪漫的餐厅"},{"card_id":"card-rom002-t03","sub_type":"terrain","name":"公司","icon":"🏢","description":"忙碌的公司"},{"card_id":"card-rom002-t04","sub_type":"terrain","name":"海边","icon":"🏖️","description":"浪漫的海边"},{"card_id":"card-rom002-t05","sub_type":"terrain","name":"老街","icon":"🏘️","description":"怀旧的老街"},{"card_id":"card-rom002-t06","sub_type":"terrain","name":"天台","icon":"🌃","description":"城市的天台"},{"card_id":"card-rom002-t07","sub_type":"terrain","name":"画廊","icon":"🖼️","description":"艺术的画廊"},{"card_id":"card-rom002-t08","sub_type":"terrain","name":"公园","icon":"🌳","description":"安静的公园"},{"card_id":"card-rom002-a01","sub_type":"adventure","name":"邂逅","icon":"💫","description":"命运的相遇"},{"card_id":"card-rom002-a03","sub_type":"adventure","name":"暧昧","icon":"💗","description":"暧昧的时光"},{"card_id":"card-rom002-a04","sub_type":"adventure","name":"误会","icon":"😔","description":"令人心痛的误会"},{"card_id":"card-rom002-a05","sub_type":"adventure","name":"冷战","icon":"💔","description":"痛苦的冷战"},{"card_id":"card-rom002-a06","sub_type":"adventure","name":"追求","icon":"💝","description":"努力追求"},{"card_id":"card-rom002-a07","sub_type":"adventure","name":"告白","icon":"💕","description":"勇敢的表白"},{"card_id":"card-rom002-a08","sub_type":"adventure","name":"复合","icon":"💕","description":"重新在一起"},{"card_id":"card-rom002-a09","sub_type":"adventure","name":"求婚","icon":"💍","description":"浪漫的求婚"},{"card_id":"card-rom002-e01","sub_type":"equipment","name":"手机","icon":"📱","description":"联系的工具"},{"card_id":"card-rom002-e02","sub_type":"equipment","name":"咖啡","icon":"☕","description":"温暖的咖啡"},{"card_id":"card-rom002-e03","sub_type":"equipment","name":"笔记本电脑","icon":"💻","description":"工作必备"},{"card_id":"card-rom002-e05","sub_type":"equipment","name":"雨伞","icon":"☂️","description":"雨中共享"},{"card_id":"card-rom002-e06","sub_type":"equipment","name":"手表","icon":"⌚","description":"时间的见证"},{"card_id":"card-rom002-e07","sub_type":"equipment","name":"鲜花","icon":"💐","description":"浪漫的礼物"},{"card_id":"card-rom002-e08","sub_type":"equipment","name":"戒指","icon":"💍","description":"爱情的象征"}]
+      characters: [{"charId":"char-rom002-001","name":"苏小小","roleType":"数据分析师","personality":"理性严谨、相信数据、有点强迫症","avatar":"👩","isProtagonist":1},{"charId":"char-rom002-002","name":"陆野","roleType":"自由摄影师","personality":"随性浪漫、讨厌规则、活在当下","avatar":"👨","isProtagonist":0},{"charId":"char-rom002-003","name":"算法小助手","roleType":"APP AI","personality":"自信满满、偶尔出错","avatar":"📱","isProtagonist":0}],
+      plotCards: [{"card_id":"card-rom002-01","sub_type":"sunny","name":"晴天","icon":"☀️","description":"阳光明媚，适合约会"},{"card_id":"card-rom002-02","sub_type":"cafe","name":"咖啡厅","icon":"☕","description":"温馨的咖啡厅，浪漫的约会地点"},{"card_id":"card-rom002-03","sub_type":"date","name":"约会","icon":"🌹","description":"甜蜜的约会，增进感情"},{"card_id":"card-rom002-04","sub_type":"camera","name":"相机","icon":"📷","description":"记录美好瞬间，留下回忆"}]
     };
     
     let currentView = 'chapters';
@@ -598,7 +640,7 @@
       const rightCards = cards.slice(half);
       
       function renderPlotCard(card, index) {
-        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.cardId + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
+        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
           '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 13px; margin-top: 10px; text-align: center;">' + card.name + '</div>' +
           '<div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">' + (card.description || '') + '</div>' +
@@ -610,7 +652,7 @@
     }
     
     function showPlotCardDetail(cardId) {
-      const card = bookData.plotCards.find(c => c.cardId === cardId);
+      const card = bookData.plotCards.find(c => c.card_id === cardId);
       if (!card) return;
       
       const modal = document.getElementById('cardModal');
@@ -677,13 +719,12 @@
       const userId = localStorage.getItem('user_id');
       
       if (!userId) {
-        alert('请先登录');
         window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
       btn.disabled = true;
-      btn.textContent = '导入中...';
+      btn.innerHTML = '<span class="btn-main">' + '处理中...' + '</span>';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -694,7 +735,7 @@
         
         if (response.ok) {
           const result = await response.json();
-          btn.textContent = '导入成功！';
+          btn.innerHTML = '<span class="btn-main">' + '已添加到书架！' + '</span>';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -702,10 +743,10 @@
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.textContent = '导入失败';
+        btn.innerHTML = '<span class="btn-main">' + '操作失败' + '</span>';
         btn.disabled = false;
         setTimeout(() => {
-          btn.textContent = '导入书架';
+          btn.innerHTML = '<span class="btn-main">续写这个故事</span><span class="btn-sub">用卡牌创作新章节</span>';
         }, 2000);
       }
     }

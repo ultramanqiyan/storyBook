@@ -716,7 +716,7 @@
       }
       
       btn.disabled = true;
-      btn.innerHTML = '<span class="btn-main">' + 'Importing...' + '</span>';
+      btn.innerHTML = '<span class="btn-main">' + 'Processing...' + '</span>';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -727,7 +727,7 @@
         
         if (response.ok) {
           const result = await response.json();
-          btn.innerHTML = '<span class="btn-main">' + 'Imported! ✓' + '</span>';
+          btn.innerHTML = '<span class="btn-main">' + 'Added to Shelf!' + '</span>';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);

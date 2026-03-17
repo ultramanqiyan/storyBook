@@ -1312,7 +1312,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       }
       
       btn.disabled = true;
-      btn.innerHTML = '<span class="btn-main">' + '${isZh ? '导入中...' : 'Importing...'}' + '</span>';
+      btn.innerHTML = '<span class="btn-main">' + '${isZh ? '处理中...' : 'Processing...'}' + '</span>';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -1323,7 +1323,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
         
         if (response.ok) {
           const result = await response.json();
-          btn.innerHTML = '<span class="btn-main">' + '${isZh ? '导入成功！' : 'Imported! ✓'}' + '</span>';
+          btn.innerHTML = '<span class="btn-main">' + '${isZh ? '已添加到书架！' : 'Added to Shelf!'}' + '</span>';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -1331,7 +1331,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.innerHTML = '<span class="btn-main">' + '${isZh ? '导入失败' : 'Failed'}' + '</span>';
+        btn.innerHTML = '<span class="btn-main">' + '${isZh ? '操作失败' : 'Failed'}' + '</span>';
         btn.disabled = false;
         setTimeout(() => {
           btn.innerHTML = '<span class="btn-main">${isZh ? '续写这个故事' : 'Continue This Story'}</span><span class="btn-sub">${isZh ? '用卡牌创作新章节' : 'Add chapters with cards'}</span>';
@@ -1825,9 +1825,9 @@ async function main() {
   const bookId = process.argv[2];
   
   console.log('📚 从数据库生成静态页面...');
-  console.log(`目标书籍: ${bookId || '所有preset-ai书籍'}`);
+  console.log(`目标书籍: ${bookId || '所有预设书籍'}`);
   
-  let booksQuery = `SELECT book_id, title, type, language FROM books WHERE book_id LIKE 'preset-ai-%'`;
+  let booksQuery = `SELECT book_id, title, type, language FROM books WHERE is_preset = 1`;
   if (bookId) {
     booksQuery = `SELECT book_id, title, type, language FROM books WHERE book_id = '${bookId}'`;
   }

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>算法公司 - StoryBook</title>
   <meta name="description" content="算法公司 - AI互动故事">
-  <meta name="keywords" content="互动故事, AI故事, 算法公司, story">
+  <meta name="keywords" content="AI, creativity, consciousness, human, work, future, justice, memory">
   <meta property="og:title" content="算法公司 - StoryBook">
   <meta property="og:description" content="算法公司 - AI互动故事">
   <meta property="og:type" content="book">
@@ -292,6 +292,45 @@
       box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
     }
     
+    .action-btn-secondary {
+      background: transparent;
+      border: 2px solid #8B4513;
+      color: #4a3a2a;
+    }
+    
+    .action-btn-secondary:hover {
+      background: rgba(139, 69, 19, 0.1);
+    }
+    
+    .action-btn-primary {
+      background: linear-gradient(180deg, #D4AF37 0%, #B8860B 100%);
+      border: 2px solid #FFD700;
+      color: #1a1008;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 8px 20px;
+      min-width: 160px;
+    }
+    
+    .action-btn-primary:hover {
+      background: linear-gradient(180deg, #FFD700 0%, #D4AF37 100%);
+      box-shadow: 0 4px 20px rgba(212, 175, 55, 0.5);
+    }
+    
+    .action-btn-primary .btn-main {
+      font-size: 13px;
+      font-weight: bold;
+      line-height: 1.3;
+    }
+    
+    .action-btn-primary .btn-sub {
+      font-size: 10px;
+      opacity: 0.8;
+      font-weight: normal;
+      line-height: 1.2;
+    }
+    
     .chapter-toc {
       display: flex;
       flex-direction: column;
@@ -434,8 +473,11 @@
                 <span>👥 0 角色</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapters/chapter-ai002-01-zh.html" class="action-btn">开始阅读</a>
-                <button class="action-btn" onclick="importPresetBook()">导入书架</button>
+                <a href="../chapters/chapter-ai002-01-zh.html" class="action-btn action-btn-secondary">开始阅读</a>
+                <button class="action-btn action-btn-primary" onclick="importPresetBook()">
+                  <span class="btn-main">续写这个故事</span>
+                  <span class="btn-sub">用卡牌创作新章节</span>
+                </button>
               </div>
             </div>
           </div>
@@ -670,7 +712,7 @@
       }
       
       btn.disabled = true;
-      btn.textContent = '导入中...';
+      btn.innerHTML = '<span class="btn-main">' + '处理中...' + '</span>';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -681,7 +723,7 @@
         
         if (response.ok) {
           const result = await response.json();
-          btn.textContent = '导入成功！';
+          btn.innerHTML = '<span class="btn-main">' + '已添加到书架！' + '</span>';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -689,10 +731,10 @@
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.textContent = '导入失败';
+        btn.innerHTML = '<span class="btn-main">' + '操作失败' + '</span>';
         btn.disabled = false;
         setTimeout(() => {
-          btn.textContent = '导入书架';
+          btn.innerHTML = '<span class="btn-main">续写这个故事</span><span class="btn-sub">用卡牌创作新章节</span>';
         }, 2000);
       }
     }

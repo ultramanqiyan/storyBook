@@ -552,7 +552,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
               </div>
               <div class="action-buttons">
                 ${chapters.length > 0 ? `<a href="../chapters/${chapters[0].chapterId}.html" class="action-btn">${isZh ? '开始阅读' : 'Start Reading'}</a>` : ''}
-                <button class="action-btn" onclick="importPresetBook()">${isZh ? '导入书架' : 'Import'}</button>
+                <button class="action-btn" onclick="importPresetBook()">${isZh ? '续写这个故事' : 'Continue This Story'}</button>
               </div>
             </div>
           </div>
@@ -776,7 +776,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       }
       
       btn.disabled = true;
-      btn.textContent = '${isZh ? '导入中...' : 'Importing...'}';
+      btn.textContent = '${isZh ? '处理中...' : 'Processing...'}';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -787,7 +787,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
         
         if (response.ok) {
           const result = await response.json();
-          btn.textContent = '${isZh ? '导入成功！' : 'Import Success!'}';
+          btn.textContent = '${isZh ? '已添加到书架！' : 'Added to Shelf!'}';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -795,10 +795,10 @@ function generateBookHTML(book, characters, chapters, plotCards) {
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.textContent = '${isZh ? '导入失败' : 'Import Failed'}';
+        btn.textContent = '${isZh ? '操作失败' : 'Failed'}';
         btn.disabled = false;
         setTimeout(() => {
-          btn.textContent = '${isZh ? '导入书架' : 'Import'}';
+          btn.textContent = '${isZh ? '续写这个故事' : 'Continue This Story'}';
         }, 2000);
       }
     }

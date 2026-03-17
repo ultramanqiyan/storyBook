@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>第IV: 看不见的线 - 最后的作家 - StoryBook</title>
+  <meta name="description" content="阅读 看不见的线 - 最后的作家">
+  <meta name="keywords" content="AI, creativity, consciousness, human, work, future, memory, 职场">
+  <meta property="og:title" content="看不见的线 - 最后的作家">
+  <meta property="og:description" content="阅读 看不见的线">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="zh_CN">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "看不见的线",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "最后的作家",
+      "genre": "职场"
+    },
+    "position": 4,
+    "inLanguage": "zh"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 1000px) {
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: 500px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 25px 20px;
+      }
+      
+      .manuscript-text {
+        font-size: 16px;
+      }
+      
+      .drop-cap {
+        font-size: 3.5em;
+      }
+    }
+  </style>
+</head>
+<body class="theme-business">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index.html" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index.html" class="navbar-link">首页</a>
+      <a href="../library.html" class="navbar-link">图书馆</a>
+      <a href="../bookshelf.html" class="navbar-link">我的书架</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">第IV</div>
+    <div class="chapter-name">看不见的线</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">E</span>lena准时在晚上七点到达，手里拿着一瓶酒，还有她尚未说出口的某种沉重。Sarah足够了解她的朋友，能读懂那些迹象——眼周的紧绷、她站得太直的方式，仿佛在准备迎接冲击。</p>
+<p>"我去拿杯子，"Sarah说，决定不追问。Elena准备好时会说的。</p>
+<p>她们在沙发上安顿下来，城市灯光透过窗户闪烁。有一会儿，她们只是静静地喝着，享受着酒、风景和老朋友的舒适。</p>
+<p>"我要辞职了，"Elena终于说。</p>
+<p>Sarah差点被酒呛到。"什么？"</p>
+<p>"下个月。我下个月提辞职。"Elena的声音很稳，但她的手在酒杯周围微微颤抖。"我不能再这样做了，Sarah。我不能坐在那些会议上谈论'人力优化'，而人们的生活正在被拆解。"</p>
+<p>"你会做什么？"</p>
+<p>"我不知道。一些不会让我觉得自己像个怪物的事情。"Elena苦涩地笑了。"讽刺的是，我现在可能比以往任何时候都更有就业市场。HR总监很抢手——特别是那些有'过渡管理'经验的。"她做了个引号的手势，表情扭曲。"他们现在这么叫。过渡管理。就好像我们在帮助人们搬新家，而不是把他们推出他们的生计。"</p>
+<p>Sarah伸出手握住朋友的手。"你不是怪物，Elena。你一直在尽可能地为人们争取。"</p>
+<p>"是吗？还是我只是通过倡导稍微好一点的遣散费来让自己感觉更好？"Elena抽回手，突然站起来在房间里踱步。"你知道我上周做了什么吗？我不得不告诉一个在公司工作了二十三年的女人，她的职位正在被'整合'。她哭了。她真的哭了，就在我的办公室里。而我所能想的是：谢天谢地不是我。谢天谢地我还安全。"</p>
+<p>"那是人的反应，Elena。"</p>
+<p>"是吗？还是只是伪装成同理心的生存本能？"她停止踱步，面对Sarah。"我一直在想你正在经历的事情。Marcus正在经历的事情。成千上万的人正在经历的事情。而我坐在桌子的另一边，传达摧毁他们生活的消息。"</p>
+<p>Sarah站起来走到朋友身边。"你没有摧毁任何人的生活。公司是。系统是。你只是信使。"</p>
+<p>"每个人都这么说。'我只是在执行命令。我只是在做我的工作。'"Elena的声音破裂了。"但在某个时候，作为信使不就让你成为同谋了吗？"</p>
+<p>她们站在沉默中，问题悬在她们之间。Sarah没有答案。她不确定任何人都有。</p>
+<p>"跟我一起去，"她终于说。</p>
+<p>"去哪？"</p>
+<p>"人的元素集体。Rachel告诉我的那个小组。他们明晚聚会。"Sarah停顿了一下。"我不知道这是否有帮助。但至少我们不会孤单。"</p>
+<p>Elena考虑着这个。"一个为流离失所者和有罪者设立的支持小组？"</p>
+<p>"差不多是这样。"</p>
+<p>一个小小的微笑突破了Elena的痛苦。"我想那比独自喝酒要好。"</p>
+<p>她们喝完了酒，谈论其他事情——旧时的记忆、未来的可能性、她们都在导航的陌生新世界。当Elena离开时，沉重感稍微减轻了一些，被某种几乎像希望的东西取代了。</p>
+<p>那天晚上，Sarah睡不着。她躺在床上，思考着看不见的线——我们在对与错之间画的线、同谋与抵抗之间的线、我们是谁与我们正在成为谁之间的线。</p>
+<p>明天，她会见到其他已经越过这些线的人。也许在一起，她们能弄清楚接下来会发生什么。</p>
+<p>她拿起手机打开她的随笔。现在文字来得更容易了，从某个比以前更深的地方流淌出来。</p>
+<p>"看不见的线不是在我们和他们之间，"她写道，"而是在我们曾经是谁和我们正在成为谁之间。越过它不是关于到达某个新地方——而是关于接受我们从未停止越过。"</p>
+<p>她不知道这是不是好的写作。她不知道是否有人会读它。但几周来第一次，她感觉自己在做一些重要的事情——不是因为它会拯救她的工作，而是因为它是真实的。</p>
+<p>在一个充满算法和优化的世界里，真实感觉像是唯一值得坚持的东西。</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">— 未完待续 —</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-ai001-03-zh.html" class="scroll-nav-btn">← 上一页</a>
+    <div class="nav-info">
+      <a href="../books/preset-ai-001-zh.html">最后的作家</a>
+      <span style="margin: 0 10px;">|</span>
+      第2 页 4
+    </div>
+    <a href="chapter-ai001-05-zh.html" class="scroll-nav-btn">下一页 →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-business';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+    });
+  </script>
+</body>
+</html>
