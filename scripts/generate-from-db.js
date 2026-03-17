@@ -1153,7 +1153,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
   <script>
     const bookData = {
       bookId: '${book.bookId}',
-      title: '${book.title}',
+      title: ${JSON.stringify(book.title)},
       type: '${book.type}',
       chapters: ${JSON.stringify(chapters.map(ch => ({ chapterId: ch.chapterId, title: ch.title, orderNum: ch.orderNum })))},
       characters: ${JSON.stringify(characters.map(c => ({ charId: c.charId, name: c.name, roleType: c.roleType, personality: c.personality, avatar: c.avatar, isProtagonist: c.isProtagonist })))},
