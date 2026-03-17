@@ -1,0 +1,947 @@
+[
+  {
+    "bookId": "preset-adventure-003",
+    "cardId": "card-adv003-w03",
+    "subType": "weather",
+    "oldName": "星空夜",
+    "newName": "星空",
+    "oldIcon": "🌙",
+    "newIcon": "🌙"
+  },
+  {
+    "bookId": "preset-adventure-003",
+    "cardId": "card-adv003-w04",
+    "subType": "weather",
+    "oldName": "彩虹天",
+    "newName": "彩虹",
+    "oldIcon": "🌈",
+    "newIcon": "🌈"
+  },
+  {
+    "bookId": "preset-adventure-003",
+    "cardId": "card-adv003-t01",
+    "subType": "terrain",
+    "oldName": "丛林",
+    "newName": "森林",
+    "oldIcon": "🌲",
+    "newIcon": "🌲"
+  },
+  {
+    "bookId": "preset-adventure-003",
+    "cardId": "card-adv003-t03",
+    "subType": "terrain",
+    "oldName": "榕树下",
+    "newName": "树屋",
+    "oldIcon": "🌳",
+    "newIcon": "🏡"
+  },
+  {
+    "bookId": "preset-adventure-003",
+    "cardId": "card-adv003-t04",
+    "subType": "terrain",
+    "oldName": "萤火虫小径",
+    "newName": "花园",
+    "oldIcon": "✨",
+    "newIcon": "🌻"
+  },
+  {
+    "bookId": "preset-adventure-003",
+    "cardId": "card-adv003-a04",
+    "subType": "adventure",
+    "oldName": "守护使命",
+    "newName": "救援",
+    "oldIcon": "🛡️",
+    "newIcon": "🆘"
+  },
+  {
+    "bookId": "preset-adventure-003",
+    "cardId": "card-adv003-e01",
+    "subType": "equipment",
+    "oldName": "老地图",
+    "newName": "地图",
+    "oldIcon": "🗺️",
+    "newIcon": "🗺️"
+  },
+  {
+    "bookId": "preset-adventure-003",
+    "cardId": "card-adv003-02",
+    "subType": "terrain",
+    "oldName": "丛林",
+    "newName": "森林",
+    "oldIcon": "🌲",
+    "newIcon": "🌲"
+  },
+  {
+    "bookId": "preset-adventure-003",
+    "cardId": "card-adv003-04",
+    "subType": "equipment",
+    "oldName": "老地图",
+    "newName": "地图",
+    "oldIcon": "🗺️",
+    "newIcon": "🗺️"
+  },
+  {
+    "bookId": "preset-adventure-003-en",
+    "cardId": "card-adv003-w02-en",
+    "subType": "weather",
+    "oldName": "Morning Fog",
+    "newName": "Morning Mist",
+    "oldIcon": "🌫️",
+    "newIcon": "🌫️"
+  },
+  {
+    "bookId": "preset-adventure-003-en",
+    "cardId": "card-adv003-t01-en",
+    "subType": "terrain",
+    "oldName": "Jungle",
+    "newName": "Forest",
+    "oldIcon": "🌲",
+    "newIcon": "🌲"
+  },
+  {
+    "bookId": "preset-adventure-003-en",
+    "cardId": "card-adv003-t03-en",
+    "subType": "terrain",
+    "oldName": "Banyan Tree",
+    "newName": "Treehouse",
+    "oldIcon": "🌳",
+    "newIcon": "🏡"
+  },
+  {
+    "bookId": "preset-adventure-003-en",
+    "cardId": "card-adv003-t04-en",
+    "subType": "terrain",
+    "oldName": "Firefly Path",
+    "newName": "Garden",
+    "oldIcon": "✨",
+    "newIcon": "🌻"
+  },
+  {
+    "bookId": "preset-adventure-003-en",
+    "cardId": "card-adv003-a01-en",
+    "subType": "adventure",
+    "oldName": "Explore",
+    "newName": "Exploration",
+    "oldIcon": "🧭",
+    "newIcon": "🧭"
+  },
+  {
+    "bookId": "preset-adventure-003-en",
+    "cardId": "card-adv003-a02-en",
+    "subType": "adventure",
+    "oldName": "Solve Puzzles",
+    "newName": "Puzzle Solving",
+    "oldIcon": "🧩",
+    "newIcon": "🧩"
+  },
+  {
+    "bookId": "preset-adventure-003-en",
+    "cardId": "card-adv003-a04-en",
+    "subType": "adventure",
+    "oldName": "Guardian Mission",
+    "newName": "Rescue",
+    "oldIcon": "🛡️",
+    "newIcon": "🆘"
+  },
+  {
+    "bookId": "preset-adventure-003-en",
+    "cardId": "card-adv003-e01-en",
+    "subType": "equipment",
+    "oldName": "Old Map",
+    "newName": "Map",
+    "oldIcon": "🗺️",
+    "newIcon": "🗺️"
+  },
+  {
+    "bookId": "preset-adventure-003-en",
+    "cardId": "card-adv003-02-en",
+    "subType": "terrain",
+    "oldName": "Jungle",
+    "newName": "Forest",
+    "oldIcon": "🌲",
+    "newIcon": "🌲"
+  },
+  {
+    "bookId": "preset-adventure-003-en",
+    "cardId": "card-adv003-03-en",
+    "subType": "adventure",
+    "oldName": "Explore",
+    "newName": "Exploration",
+    "oldIcon": "🧭",
+    "newIcon": "🧭"
+  },
+  {
+    "bookId": "preset-adventure-003-en",
+    "cardId": "card-adv003-04-en",
+    "subType": "equipment",
+    "oldName": "Old Map",
+    "newName": "Map",
+    "oldIcon": "🗺️",
+    "newIcon": "🗺️"
+  },
+  {
+    "bookId": "preset-adventure-004",
+    "cardId": "card-adv004-w04",
+    "subType": "weather",
+    "oldName": "暴风雪",
+    "newName": "雷雨",
+    "oldIcon": "🌨️",
+    "newIcon": "⛈️"
+  },
+  {
+    "bookId": "preset-adventure-004",
+    "cardId": "card-adv004-t01",
+    "subType": "terrain",
+    "oldName": "冰原",
+    "newName": "雪山",
+    "oldIcon": "🧊",
+    "newIcon": "🗻"
+  },
+  {
+    "bookId": "preset-adventure-004",
+    "cardId": "card-adv004-t02",
+    "subType": "terrain",
+    "oldName": "冰川",
+    "newName": "雪山",
+    "oldIcon": "🏔️",
+    "newIcon": "🗻"
+  },
+  {
+    "bookId": "preset-adventure-004",
+    "cardId": "card-adv004-t03",
+    "subType": "terrain",
+    "oldName": "冰洞",
+    "newName": "洞穴",
+    "oldIcon": "🪨",
+    "newIcon": "🕳️"
+  },
+  {
+    "bookId": "preset-adventure-004",
+    "cardId": "card-adv004-a02",
+    "subType": "adventure",
+    "oldName": "科考",
+    "newName": "发现秘密",
+    "oldIcon": "🔬",
+    "newIcon": "🔮"
+  },
+  {
+    "bookId": "preset-adventure-004",
+    "cardId": "card-adv004-a03",
+    "subType": "adventure",
+    "oldName": "守护使命",
+    "newName": "救援",
+    "oldIcon": "🛡️",
+    "newIcon": "🆘"
+  },
+  {
+    "bookId": "preset-adventure-004",
+    "cardId": "card-adv004-e02",
+    "subType": "equipment",
+    "oldName": "羽绒服",
+    "newName": "背包",
+    "oldIcon": "🧥",
+    "newIcon": "🎒"
+  },
+  {
+    "bookId": "preset-adventure-004",
+    "cardId": "card-adv004-e04",
+    "subType": "equipment",
+    "oldName": "徽章",
+    "newName": "指南针",
+    "oldIcon": "🏅",
+    "newIcon": "🧭"
+  },
+  {
+    "bookId": "preset-adventure-004",
+    "cardId": "card-adv004-02",
+    "subType": "terrain",
+    "oldName": "冰原",
+    "newName": "雪山",
+    "oldIcon": "🧊",
+    "newIcon": "🗻"
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "cardId": "card-adv004-w01-en",
+    "subType": "weather",
+    "oldName": "Snow",
+    "newName": "Snowy",
+    "oldIcon": "❄️",
+    "newIcon": "❄️"
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "cardId": "card-adv004-w04-en",
+    "subType": "weather",
+    "oldName": "Blizzard",
+    "newName": "Thunderstorm",
+    "oldIcon": "🌨️",
+    "newIcon": "⛈️"
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "cardId": "card-adv004-t01-en",
+    "subType": "terrain",
+    "oldName": "Ice Plains",
+    "newName": "Snow Mountain",
+    "oldIcon": "🧊",
+    "newIcon": "🗻"
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "cardId": "card-adv004-t02-en",
+    "subType": "terrain",
+    "oldName": "Glacier",
+    "newName": "Snow Mountain",
+    "oldIcon": "🏔️",
+    "newIcon": "🗻"
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "cardId": "card-adv004-t03-en",
+    "subType": "terrain",
+    "oldName": "Ice Cave",
+    "newName": "Cave",
+    "oldIcon": "🪨",
+    "newIcon": "🕳️"
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "cardId": "card-adv004-a02-en",
+    "subType": "adventure",
+    "oldName": "Research",
+    "newName": "Discover Secrets",
+    "oldIcon": "🔬",
+    "newIcon": "🔮"
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "cardId": "card-adv004-a03-en",
+    "subType": "adventure",
+    "oldName": "Guardian Mission",
+    "newName": "Rescue",
+    "oldIcon": "🛡️",
+    "newIcon": "🆘"
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "cardId": "card-adv004-a04-en",
+    "subType": "adventure",
+    "oldName": "Observe Animals",
+    "newName": "Animal Watching",
+    "oldIcon": "🦋",
+    "newIcon": "🦋"
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "cardId": "card-adv004-e02-en",
+    "subType": "equipment",
+    "oldName": "Parka",
+    "newName": "Backpack",
+    "oldIcon": "🧥",
+    "newIcon": "🎒"
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "cardId": "card-adv004-e04-en",
+    "subType": "equipment",
+    "oldName": "Badge",
+    "newName": "Compass",
+    "oldIcon": "🏅",
+    "newIcon": "🧭"
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "cardId": "card-adv004-01-en",
+    "subType": "weather",
+    "oldName": "Snow",
+    "newName": "Snowy",
+    "oldIcon": "❄️",
+    "newIcon": "❄️"
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "cardId": "card-adv004-02-en",
+    "subType": "terrain",
+    "oldName": "Ice Plains",
+    "newName": "Snow Mountain",
+    "oldIcon": "🧊",
+    "newIcon": "🗻"
+  },
+  {
+    "bookId": "preset-business-003",
+    "cardId": "card-bus003-w04",
+    "subType": "weather",
+    "oldName": "晨光",
+    "newName": "晴天",
+    "oldIcon": "🌅",
+    "newIcon": "☀️"
+  },
+  {
+    "bookId": "preset-business-003",
+    "cardId": "card-bus003-t04",
+    "subType": "terrain",
+    "oldName": "咖啡馆",
+    "newName": "咖啡厅",
+    "oldIcon": "☕",
+    "newIcon": "☕"
+  },
+  {
+    "bookId": "preset-business-003-en",
+    "cardId": "card-bus003-w04-en",
+    "subType": "weather",
+    "oldName": "Morning Light",
+    "newName": "Sunny",
+    "oldIcon": "🌅",
+    "newIcon": "☀️"
+  },
+  {
+    "bookId": "preset-business-003-en",
+    "cardId": "card-bus003-t04-en",
+    "subType": "terrain",
+    "oldName": "Cafe",
+    "newName": "Coffee Shop",
+    "oldIcon": "☕",
+    "newIcon": "☕"
+  },
+  {
+    "bookId": "preset-business-003-en",
+    "cardId": "card-bus003-a01-en",
+    "subType": "adventure",
+    "oldName": "Funding",
+    "newName": "Financing",
+    "oldIcon": "💰",
+    "newIcon": "💰"
+  },
+  {
+    "bookId": "preset-business-003-en",
+    "cardId": "card-bus003-a02-en",
+    "subType": "adventure",
+    "oldName": "Pivot",
+    "newName": "Transformation",
+    "oldIcon": "🔄",
+    "newIcon": "🔄"
+  },
+  {
+    "bookId": "preset-business-003-en",
+    "cardId": "card-bus003-03-en",
+    "subType": "adventure",
+    "oldName": "Funding",
+    "newName": "Financing",
+    "oldIcon": "💰",
+    "newIcon": "💰"
+  },
+  {
+    "bookId": "preset-business-004",
+    "cardId": "card-bus004-w04",
+    "subType": "weather",
+    "oldName": "晨光",
+    "newName": "晴天",
+    "oldIcon": "🌅",
+    "newIcon": "☀️"
+  },
+  {
+    "bookId": "preset-business-004",
+    "cardId": "card-bus004-t04",
+    "subType": "terrain",
+    "oldName": "楼顶",
+    "newName": "天台",
+    "oldIcon": "🌃",
+    "newIcon": "🌃"
+  },
+  {
+    "bookId": "preset-business-004",
+    "cardId": "card-bus004-a01",
+    "subType": "adventure",
+    "oldName": "突破",
+    "newName": "突破",
+    "oldIcon": "🚀",
+    "newIcon": "🎯"
+  },
+  {
+    "bookId": "preset-business-004",
+    "cardId": "card-bus004-e01",
+    "subType": "equipment",
+    "oldName": "笔记本",
+    "newName": "记事本",
+    "oldIcon": "📓",
+    "newIcon": "📓"
+  },
+  {
+    "bookId": "preset-business-004",
+    "cardId": "card-bus004-e04",
+    "subType": "equipment",
+    "oldName": "钢笔",
+    "newName": "签字笔",
+    "oldIcon": "🖊️",
+    "newIcon": "🖊️"
+  },
+  {
+    "bookId": "preset-business-004",
+    "cardId": "card-bus004-03",
+    "subType": "adventure",
+    "oldName": "突破",
+    "newName": "突破",
+    "oldIcon": "🚀",
+    "newIcon": "🎯"
+  },
+  {
+    "bookId": "preset-business-004",
+    "cardId": "card-bus004-04",
+    "subType": "equipment",
+    "oldName": "笔记本",
+    "newName": "记事本",
+    "oldIcon": "📓",
+    "newIcon": "📓"
+  },
+  {
+    "bookId": "preset-business-004-en",
+    "cardId": "card-bus004-w04-en",
+    "subType": "weather",
+    "oldName": "Morning Light",
+    "newName": "Sunny",
+    "oldIcon": "🌅",
+    "newIcon": "☀️"
+  },
+  {
+    "bookId": "preset-business-004-en",
+    "cardId": "card-bus004-t03-en",
+    "subType": "terrain",
+    "oldName": "Client Office",
+    "newName": "Client Company",
+    "oldIcon": "🏛️",
+    "newIcon": "🏛️"
+  },
+  {
+    "bookId": "preset-business-004-en",
+    "cardId": "card-bus004-a01-en",
+    "subType": "adventure",
+    "oldName": "Breakthrough",
+    "newName": "Breakthrough",
+    "oldIcon": "🚀",
+    "newIcon": "🎯"
+  },
+  {
+    "bookId": "preset-business-004-en",
+    "cardId": "card-bus004-e01-en",
+    "subType": "equipment",
+    "oldName": "Notebook",
+    "newName": "Planner",
+    "oldIcon": "📓",
+    "newIcon": "📓"
+  },
+  {
+    "bookId": "preset-business-004-en",
+    "cardId": "card-bus004-03-en",
+    "subType": "adventure",
+    "oldName": "Breakthrough",
+    "newName": "Breakthrough",
+    "oldIcon": "🚀",
+    "newIcon": "🎯"
+  },
+  {
+    "bookId": "preset-business-004-en",
+    "cardId": "card-bus004-04-en",
+    "subType": "equipment",
+    "oldName": "Notebook",
+    "newName": "Planner",
+    "oldIcon": "📓",
+    "newIcon": "📓"
+  },
+  {
+    "bookId": "preset-fantasy-003",
+    "cardId": "card-fan003-w01",
+    "subType": "weather",
+    "oldName": "火焰风暴",
+    "newName": "魔法风暴",
+    "oldIcon": "🔥",
+    "newIcon": "🌀"
+  },
+  {
+    "bookId": "preset-fantasy-003",
+    "cardId": "card-fan003-w04",
+    "subType": "weather",
+    "oldName": "创世晨曦",
+    "newName": "创世曙光",
+    "oldIcon": "🌅",
+    "newIcon": "🌅"
+  },
+  {
+    "bookId": "preset-fantasy-003",
+    "cardId": "card-fan003-t01",
+    "subType": "terrain",
+    "oldName": "龙之巢",
+    "newName": "龙巢",
+    "oldIcon": "🐉",
+    "newIcon": "🐉"
+  },
+  {
+    "bookId": "preset-fantasy-003",
+    "cardId": "card-fan003-t02",
+    "subType": "terrain",
+    "oldName": "龙族学院",
+    "newName": "魔法塔",
+    "oldIcon": "🏫",
+    "newIcon": "🗼"
+  },
+  {
+    "bookId": "preset-fantasy-003",
+    "cardId": "card-fan003-e03",
+    "subType": "equipment",
+    "oldName": "魔杖",
+    "newName": "魔法杖",
+    "oldIcon": "🪄",
+    "newIcon": "🪄"
+  },
+  {
+    "bookId": "preset-fantasy-003",
+    "cardId": "card-fan003-e04",
+    "subType": "equipment",
+    "oldName": "龙心勋章",
+    "newName": "龙之心",
+    "oldIcon": "🏅",
+    "newIcon": "❤️"
+  },
+  {
+    "bookId": "preset-fantasy-003",
+    "cardId": "card-fan003-01",
+    "subType": "weather",
+    "oldName": "火焰风暴",
+    "newName": "魔法风暴",
+    "oldIcon": "🔥",
+    "newIcon": "🌀"
+  },
+  {
+    "bookId": "preset-fantasy-003",
+    "cardId": "card-fan003-02",
+    "subType": "terrain",
+    "oldName": "龙之巢",
+    "newName": "龙巢",
+    "oldIcon": "🐉",
+    "newIcon": "🐉"
+  },
+  {
+    "bookId": "preset-fantasy-003-en",
+    "cardId": "card-fan003-w01-en",
+    "subType": "weather",
+    "oldName": "Fire Storm",
+    "newName": "Magic Storm",
+    "oldIcon": "🔥",
+    "newIcon": "🌀"
+  },
+  {
+    "bookId": "preset-fantasy-003-en",
+    "cardId": "card-fan003-t01-en",
+    "subType": "terrain",
+    "oldName": "Dragon Nest",
+    "newName": "Dragon's Lair",
+    "oldIcon": "🐉",
+    "newIcon": "🐉"
+  },
+  {
+    "bookId": "preset-fantasy-003-en",
+    "cardId": "card-fan003-t02-en",
+    "subType": "terrain",
+    "oldName": "Dragon Academy",
+    "newName": "Magic Tower",
+    "oldIcon": "🏫",
+    "newIcon": "🗼"
+  },
+  {
+    "bookId": "preset-fantasy-003-en",
+    "cardId": "card-fan003-01-en",
+    "subType": "weather",
+    "oldName": "Fire Storm",
+    "newName": "Magic Storm",
+    "oldIcon": "🔥",
+    "newIcon": "🌀"
+  },
+  {
+    "bookId": "preset-fantasy-003-en",
+    "cardId": "card-fan003-02-en",
+    "subType": "terrain",
+    "oldName": "Dragon Nest",
+    "newName": "Dragon's Lair",
+    "oldIcon": "🐉",
+    "newIcon": "🐉"
+  },
+  {
+    "bookId": "preset-fantasy-004",
+    "cardId": "card-fan004-w01",
+    "subType": "weather",
+    "oldName": "时空裂隙",
+    "newName": "时空裂隙",
+    "oldIcon": "🌀",
+    "newIcon": "🕳️"
+  },
+  {
+    "bookId": "preset-fantasy-004",
+    "cardId": "card-fan004-w04",
+    "subType": "weather",
+    "oldName": "创世晨曦",
+    "newName": "创世曙光",
+    "oldIcon": "🌅",
+    "newIcon": "🌅"
+  },
+  {
+    "bookId": "preset-fantasy-004",
+    "cardId": "card-fan004-t04",
+    "subType": "terrain",
+    "oldName": "时空裂缝",
+    "newName": "时间裂隙",
+    "oldIcon": "⏳",
+    "newIcon": "⏳"
+  },
+  {
+    "bookId": "preset-fantasy-004",
+    "cardId": "card-fan004-e03",
+    "subType": "equipment",
+    "oldName": "魔杖",
+    "newName": "魔法杖",
+    "oldIcon": "🪄",
+    "newIcon": "🪄"
+  },
+  {
+    "bookId": "preset-fantasy-004",
+    "cardId": "card-fan004-e04",
+    "subType": "equipment",
+    "oldName": "时空徽章",
+    "newName": "传送符文",
+    "oldIcon": "🏅",
+    "newIcon": "🌀"
+  },
+  {
+    "bookId": "preset-fantasy-004",
+    "cardId": "card-fan004-01",
+    "subType": "weather",
+    "oldName": "时空裂隙",
+    "newName": "时空裂隙",
+    "oldIcon": "🌀",
+    "newIcon": "🕳️"
+  },
+  {
+    "bookId": "preset-fantasy-004-en",
+    "cardId": "card-fan004-w01-en",
+    "subType": "weather",
+    "oldName": "Time Rift",
+    "newName": "Time Rift",
+    "oldIcon": "🌀",
+    "newIcon": "🕳️"
+  },
+  {
+    "bookId": "preset-fantasy-004-en",
+    "cardId": "card-fan004-e02-en",
+    "subType": "equipment",
+    "oldName": "Seal Scroll",
+    "newName": "Sealing Scroll",
+    "oldIcon": "📜",
+    "newIcon": "📜"
+  },
+  {
+    "bookId": "preset-fantasy-004-en",
+    "cardId": "card-fan004-01-en",
+    "subType": "weather",
+    "oldName": "Time Rift",
+    "newName": "Time Rift",
+    "oldIcon": "🌀",
+    "newIcon": "🕳️"
+  },
+  {
+    "bookId": "preset-romance-003",
+    "cardId": "card-rom003-w04",
+    "subType": "weather",
+    "oldName": "月色",
+    "newName": "月光",
+    "oldIcon": "🌙",
+    "newIcon": "🌙"
+  },
+  {
+    "bookId": "preset-romance-003",
+    "cardId": "card-rom003-t01",
+    "subType": "terrain",
+    "oldName": "咖啡厅",
+    "newName": "咖啡馆",
+    "oldIcon": "☕",
+    "newIcon": "☕"
+  },
+  {
+    "bookId": "preset-romance-003",
+    "cardId": "card-rom003-t03",
+    "subType": "terrain",
+    "oldName": "画室",
+    "newName": "画廊",
+    "oldIcon": "🎨",
+    "newIcon": "🖼️"
+  },
+  {
+    "bookId": "preset-romance-003",
+    "cardId": "card-rom003-t04",
+    "subType": "terrain",
+    "oldName": "街道",
+    "newName": "老街",
+    "oldIcon": "🛤️",
+    "newIcon": "🏘️"
+  },
+  {
+    "bookId": "preset-romance-003",
+    "cardId": "card-rom003-a01",
+    "subType": "adventure",
+    "oldName": "邂逅",
+    "newName": "初遇",
+    "oldIcon": "💫",
+    "newIcon": "💫"
+  },
+  {
+    "bookId": "preset-romance-003",
+    "cardId": "card-rom003-e01",
+    "subType": "equipment",
+    "oldName": "画板",
+    "newName": "画布",
+    "oldIcon": "🎨",
+    "newIcon": "🎨"
+  },
+  {
+    "bookId": "preset-romance-003",
+    "cardId": "card-rom003-02",
+    "subType": "terrain",
+    "oldName": "咖啡厅",
+    "newName": "咖啡馆",
+    "oldIcon": "☕",
+    "newIcon": "☕"
+  },
+  {
+    "bookId": "preset-romance-003",
+    "cardId": "card-rom003-03",
+    "subType": "adventure",
+    "oldName": "邂逅",
+    "newName": "初遇",
+    "oldIcon": "💫",
+    "newIcon": "💫"
+  },
+  {
+    "bookId": "preset-romance-003",
+    "cardId": "card-rom003-04",
+    "subType": "equipment",
+    "oldName": "画板",
+    "newName": "画布",
+    "oldIcon": "🎨",
+    "newIcon": "🎨"
+  },
+  {
+    "bookId": "preset-romance-003-en",
+    "cardId": "card-rom003-w02-en",
+    "subType": "weather",
+    "oldName": "Rainy",
+    "newName": "Rainy Day",
+    "oldIcon": "🌧️",
+    "newIcon": "🌧️"
+  },
+  {
+    "bookId": "preset-romance-003-en",
+    "cardId": "card-rom003-w03-en",
+    "subType": "weather",
+    "oldName": "Sunny",
+    "newName": "Sunny Day",
+    "oldIcon": "☀️",
+    "newIcon": "☀️"
+  },
+  {
+    "bookId": "preset-romance-003-en",
+    "cardId": "card-rom003-t03-en",
+    "subType": "terrain",
+    "oldName": "Studio",
+    "newName": "Gallery",
+    "oldIcon": "🎨",
+    "newIcon": "🖼️"
+  },
+  {
+    "bookId": "preset-romance-003-en",
+    "cardId": "card-rom003-t04-en",
+    "subType": "terrain",
+    "oldName": "Street",
+    "newName": "Old Street",
+    "oldIcon": "🛤️",
+    "newIcon": "🏘️"
+  },
+  {
+    "bookId": "preset-romance-003-en",
+    "cardId": "card-rom003-a01-en",
+    "subType": "adventure",
+    "oldName": "Encounter",
+    "newName": "First Meeting",
+    "oldIcon": "💫",
+    "newIcon": "💫"
+  },
+  {
+    "bookId": "preset-romance-003-en",
+    "cardId": "card-rom003-e01-en",
+    "subType": "equipment",
+    "oldName": "Easel",
+    "newName": "Canvas",
+    "oldIcon": "🎨",
+    "newIcon": "🎨"
+  },
+  {
+    "bookId": "preset-romance-003-en",
+    "cardId": "card-rom003-03-en",
+    "subType": "adventure",
+    "oldName": "Encounter",
+    "newName": "First Meeting",
+    "oldIcon": "💫",
+    "newIcon": "💫"
+  },
+  {
+    "bookId": "preset-romance-003-en",
+    "cardId": "card-rom003-04-en",
+    "subType": "equipment",
+    "oldName": "Easel",
+    "newName": "Canvas",
+    "oldIcon": "🎨",
+    "newIcon": "🎨"
+  },
+  {
+    "bookId": "preset-romance-004",
+    "cardId": "card-rom004-w04",
+    "subType": "weather",
+    "oldName": "月色",
+    "newName": "月光",
+    "oldIcon": "🌙",
+    "newIcon": "🌙"
+  },
+  {
+    "bookId": "preset-romance-004",
+    "cardId": "card-rom004-t04",
+    "subType": "terrain",
+    "oldName": "咖啡厅",
+    "newName": "咖啡馆",
+    "oldIcon": "☕",
+    "newIcon": "☕"
+  },
+  {
+    "bookId": "preset-romance-004-en",
+    "cardId": "card-rom004-w01-en",
+    "subType": "weather",
+    "oldName": "Cherry Blossoms",
+    "newName": "Cherry Blossom Rain",
+    "oldIcon": "🌸",
+    "newIcon": "🌸"
+  },
+  {
+    "bookId": "preset-romance-004-en",
+    "cardId": "card-rom004-w02-en",
+    "subType": "weather",
+    "oldName": "Sunny",
+    "newName": "Sunny Day",
+    "oldIcon": "☀️",
+    "newIcon": "☀️"
+  },
+  {
+    "bookId": "preset-romance-004-en",
+    "cardId": "card-rom004-01-en",
+    "subType": "weather",
+    "oldName": "Cherry Blossoms",
+    "newName": "Cherry Blossom Rain",
+    "oldIcon": "🌸",
+    "newIcon": "🌸"
+  }
+]

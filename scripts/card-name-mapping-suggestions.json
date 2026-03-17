@@ -1,0 +1,3924 @@
+{
+  "summary": {
+    "total": 348,
+    "autoMapped": 0,
+    "partialMapped": 56,
+    "similarMapped": 44,
+    "noMatch": 248
+  },
+  "autoMapped": [],
+  "needsReview": [
+    {
+      "bookId": "preset-adventure-001-en",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "Clouds",
+      "currentIcon": "☁️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "White Clouds",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-001-en",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "Snow",
+      "currentIcon": "❄️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Snowy",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-001-en",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "Thunder",
+      "currentIcon": "⛈️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Thunderstorm",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-001",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "星空夜",
+      "currentIcon": "🌙",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "星空",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-001",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "彩虹天",
+      "currentIcon": "🌈",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "彩虹",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002-en",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "Clouds",
+      "currentIcon": "☁️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "White Clouds",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002-en",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "Morning Fog",
+      "currentIcon": "🌫️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Fog",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Climbing",
+      "currentIcon": "🧗",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Mountain Climbing",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002-en",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "Light",
+      "currentIcon": "💡",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Flashlight",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "彩虹天",
+      "currentIcon": "🌈",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "彩虹",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "星空夜",
+      "currentIcon": "🌙",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "星空",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "热带雨林",
+      "currentIcon": "🌴",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "雨林",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003-en",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "Morning Fog",
+      "currentIcon": "🌫️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Fog",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003-en",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "Old Map",
+      "currentIcon": "🗺️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Map",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003-en",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "Old Map",
+      "currentIcon": "🗺️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Map",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "星空夜",
+      "currentIcon": "🌙",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "星空",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "彩虹天",
+      "currentIcon": "🌈",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "彩虹",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "老地图",
+      "currentIcon": "🗺️",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "地图",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "老地图",
+      "currentIcon": "🗺️",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "地图",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "Snow",
+      "currentIcon": "❄️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Snowy",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Ice Cave",
+      "currentIcon": "🪨",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Cave",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "Snow",
+      "currentIcon": "❄️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Snowy",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Ancient Ruins",
+      "currentIcon": "🏛️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Ruins",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Space Exploration",
+      "currentIcon": "🚀",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Exploration",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Rescue Mission",
+      "currentIcon": "🆘",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Rescue",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "极光闪烁",
+      "currentIcon": "🌌",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "极光",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "古老遗迹",
+      "currentIcon": "🏛️",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "遗迹",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "危机救援",
+      "currentIcon": "🆘",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "救援",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001-en",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "Clearing",
+      "currentIcon": "🌤️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Clearing Up",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001-en",
+      "bookType": "business",
+      "subType": "adventure",
+      "cardName": "Crisis",
+      "currentIcon": "🚨",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Crisis Management",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "阴转晴",
+      "currentIcon": "🌤️",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "转晴",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002-en",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "Company",
+      "currentIcon": "🏢",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Client Company",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002-en",
+      "bookType": "business",
+      "subType": "adventure",
+      "cardName": "Crisis",
+      "currentIcon": "🚨",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Crisis Management",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "公司",
+      "currentIcon": "🏢",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "客户公司",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-004-en",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "Client Office",
+      "currentIcon": "🏛️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Office",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-004",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "笔记本",
+      "currentIcon": "📓",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "笔记本电脑",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-004",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "笔记本",
+      "currentIcon": "📓",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "笔记本电脑",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "雨后彩虹",
+      "currentIcon": "🌈",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "彩虹",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001-en",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "Wand",
+      "currentIcon": "🪄",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Magic Wand",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003-en",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "Dragon Heart Medal",
+      "currentIcon": "🏅",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Dragon Heart",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Neon",
+      "currentIcon": "🌃",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Neon Lights",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Sunny",
+      "currentIcon": "☀️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Sunny Day",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Rainy",
+      "currentIcon": "🌧️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Rainy Day",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Thunder",
+      "currentIcon": "⛈️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Thunderstorm",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Starry",
+      "currentIcon": "⭐",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Starry Sky",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "Passion",
+      "currentIcon": "❤️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Passionate Love",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Sunny",
+      "currentIcon": "☀️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Sunny Day",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Starry",
+      "currentIcon": "⭐",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Starry Sky",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Rainy",
+      "currentIcon": "🌧️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Rainy Day",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Rainy",
+      "currentIcon": "🌧️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Rainy Day",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Sunny",
+      "currentIcon": "☀️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Sunny Day",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003-en",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "Street",
+      "currentIcon": "🛤️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Old Street",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-004-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Sunny",
+      "currentIcon": "☀️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Sunny Day",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006-en",
+      "bookType": "romance",
+      "subType": "equipment",
+      "cardName": "Notebook",
+      "currentIcon": "📓",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Book",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "夕阳西下",
+      "currentIcon": "🌇",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "夕阳",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "星空璀璨",
+      "currentIcon": "⭐",
+      "lang": "zh",
+      "suggestion": {
+        "standardName": "星空",
+        "matchType": "partial"
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "Starry Sky",
+      "currentIcon": "✨",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Starry Night",
+        "matchType": "similar",
+        "commonWords": [
+          "starry"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "Solar Storm",
+      "currentIcon": "☀️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Dust Storm",
+        "matchType": "similar",
+        "commonWords": [
+          "storm"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002-en",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "Morning Light",
+      "currentIcon": "🌅",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Light Rain",
+        "matchType": "similar",
+        "commonWords": [
+          "light"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-003-en",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "Morning Light",
+      "currentIcon": "🌅",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Light Rain",
+        "matchType": "similar",
+        "commonWords": [
+          "light"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-004-en",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "Morning Light",
+      "currentIcon": "🌅",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Light Rain",
+        "matchType": "similar",
+        "commonWords": [
+          "light"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006-en",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "Starry Night",
+      "currentIcon": "⭐",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Clear Night",
+        "matchType": "similar",
+        "commonWords": [
+          "night"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006-en",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "Business Plan",
+      "currentIcon": "📋",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Business Card",
+        "matchType": "similar",
+        "commonWords": [
+          "business"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Magic Test",
+      "currentIcon": "📝",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Magic Duel",
+        "matchType": "similar",
+        "commonWords": [
+          "magic"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001-en",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "Elf Light",
+      "currentIcon": "🧚",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Divine Light",
+        "matchType": "similar",
+        "commonWords": [
+          "light"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001-en",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "Elf Village",
+      "currentIcon": "🧚",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Fairy Village",
+        "matchType": "similar",
+        "commonWords": [
+          "village"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Elf Alliance",
+      "currentIcon": "🧚",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Fairy Alliance",
+        "matchType": "similar",
+        "commonWords": [
+          "alliance"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Awaken Power",
+      "currentIcon": "💫",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Power Awakening",
+        "matchType": "similar",
+        "commonWords": [
+          "power"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Seal Demon",
+      "currentIcon": "😈",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Demon Sealing",
+        "matchType": "similar",
+        "commonWords": [
+          "demon"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Elemental Fusion",
+      "currentIcon": "🌈",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Elemental Awakening",
+        "matchType": "similar",
+        "commonWords": [
+          "elemental"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001-en",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "Seal Scroll",
+      "currentIcon": "📜",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Teleport Scroll",
+        "matchType": "similar",
+        "commonWords": [
+          "scroll"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002-en",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "Elf Light",
+      "currentIcon": "🧚",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Divine Light",
+        "matchType": "similar",
+        "commonWords": [
+          "light"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002-en",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "Soul Mist",
+      "currentIcon": "👻",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Soul Fog",
+        "matchType": "similar",
+        "commonWords": [
+          "soul"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002-en",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "Mirror Space",
+      "currentIcon": "🪞",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Mirror Dimension",
+        "matchType": "similar",
+        "commonWords": [
+          "mirror"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002-en",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "Elf Village",
+      "currentIcon": "🧚",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Fairy Village",
+        "matchType": "similar",
+        "commonWords": [
+          "village"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Elf Alliance",
+      "currentIcon": "🧚",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Fairy Alliance",
+        "matchType": "similar",
+        "commonWords": [
+          "alliance"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Break Curse",
+      "currentIcon": "🔮",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Curse Breaking",
+        "matchType": "similar",
+        "commonWords": [
+          "curse"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Awaken Power",
+      "currentIcon": "💫",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Power Awakening",
+        "matchType": "similar",
+        "commonWords": [
+          "power"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Elemental Fusion",
+      "currentIcon": "🌈",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Elemental Awakening",
+        "matchType": "similar",
+        "commonWords": [
+          "elemental"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002-en",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "Elf Ring",
+      "currentIcon": "💍",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Fairy Ring",
+        "matchType": "similar",
+        "commonWords": [
+          "ring"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003-en",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "Fire Storm",
+      "currentIcon": "🔥",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Magic Storm",
+        "matchType": "similar",
+        "commonWords": [
+          "storm"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Dragon Battle",
+      "currentIcon": "🐉",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Dragon Slaying",
+        "matchType": "similar",
+        "commonWords": [
+          "dragon"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003-en",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "Fire Storm",
+      "currentIcon": "🔥",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Magic Storm",
+        "matchType": "similar",
+        "commonWords": [
+          "storm"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Dragon Battle",
+      "currentIcon": "🐉",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Dragon Slaying",
+        "matchType": "similar",
+        "commonWords": [
+          "dragon"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-004-en",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "Seal Scroll",
+      "currentIcon": "📜",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Teleport Scroll",
+        "matchType": "similar",
+        "commonWords": [
+          "scroll"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006-en",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "Fire Storm",
+      "currentIcon": "🔥",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Magic Storm",
+        "matchType": "similar",
+        "commonWords": [
+          "storm"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006-en",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "Elf Forest",
+      "currentIcon": "🌳",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Magic Forest",
+        "matchType": "similar",
+        "commonWords": [
+          "forest"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Awaken Power",
+      "currentIcon": "💫",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Power Awakening",
+        "matchType": "similar",
+        "commonWords": [
+          "power"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Guard Dragon Egg",
+      "currentIcon": "🥚",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Dragon Slaying",
+        "matchType": "similar",
+        "commonWords": [
+          "dragon"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Dragon Birth",
+      "currentIcon": "🐉",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Dragon Slaying",
+        "matchType": "similar",
+        "commonWords": [
+          "dragon"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006-en",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "Dragon Mark",
+      "currentIcon": "🔰",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Dragon Scale Armor",
+        "matchType": "similar",
+        "commonWords": [
+          "dragon"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006-en",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "Magic Shield",
+      "currentIcon": "🛡️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Magic Wand",
+        "matchType": "similar",
+        "commonWords": [
+          "magic"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006-en",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "Dragon Crystal",
+      "currentIcon": "💎",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Crystal Ball",
+        "matchType": "similar",
+        "commonWords": [
+          "crystal"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006-en",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "Ancient Scroll",
+      "currentIcon": "📜",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Teleport Scroll",
+        "matchType": "similar",
+        "commonWords": [
+          "scroll"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "Chance Meeting",
+      "currentIcon": "💫",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "First Meeting",
+        "matchType": "similar",
+        "commonWords": [
+          "meeting"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-004-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Cherry Blossoms",
+      "currentIcon": "🌸",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Cherry Blossom Rain",
+        "matchType": "similar",
+        "commonWords": [
+          "cherry"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-004-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Cherry Blossoms",
+      "currentIcon": "🌸",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Cherry Blossom Rain",
+        "matchType": "similar",
+        "commonWords": [
+          "cherry"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Light Rain",
+      "currentIcon": "🌧️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Cherry Blossom Rain",
+        "matchType": "similar",
+        "commonWords": [
+          "rain"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Starry Night",
+      "currentIcon": "⭐",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Starry Sky",
+        "matchType": "similar",
+        "commonWords": [
+          "starry"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006-en",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "City Street",
+      "currentIcon": "🏙️",
+      "lang": "en",
+      "suggestion": {
+        "standardName": "Old Street",
+        "matchType": "similar",
+        "commonWords": [
+          "street"
+        ]
+      },
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-001-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Explore",
+      "currentIcon": "🧭",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-001-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Solve Puzzles",
+      "currentIcon": "🧩",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-001-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Observe Animals",
+      "currentIcon": "🦋",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-001",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "夕阳",
+      "currentIcon": "🌇",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-001",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "雷电",
+      "currentIcon": "⛈️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-001",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "山洞",
+      "currentIcon": "🕳️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-001",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "山顶",
+      "currentIcon": "⛰️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-001",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "急救箱",
+      "currentIcon": "🩹",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Coral Reef",
+      "currentIcon": "🪸",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Explore",
+      "currentIcon": "🧭",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Observe Animals",
+      "currentIcon": "🦋",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Solve Puzzles",
+      "currentIcon": "🧩",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Guardian Mission",
+      "currentIcon": "🛡️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "夕阳",
+      "currentIcon": "🌇",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "古堡",
+      "currentIcon": "🏰",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "废墟",
+      "currentIcon": "🏚️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "山顶",
+      "currentIcon": "⛰️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "珊瑚礁",
+      "currentIcon": "🪸",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "守护使命",
+      "currentIcon": "🛡️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "急救箱",
+      "currentIcon": "🩹",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "灯具",
+      "currentIcon": "💡",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-002",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "绳子",
+      "currentIcon": "🪢",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Jungle",
+      "currentIcon": "🌲",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Banyan Tree",
+      "currentIcon": "🌳",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Firefly Path",
+      "currentIcon": "✨",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Explore",
+      "currentIcon": "🧭",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Solve Puzzles",
+      "currentIcon": "🧩",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Guardian Mission",
+      "currentIcon": "🛡️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003-en",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "Magic Seed",
+      "currentIcon": "🌱",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Jungle",
+      "currentIcon": "🌲",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Explore",
+      "currentIcon": "🧭",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "丛林",
+      "currentIcon": "🌲",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "榕树下",
+      "currentIcon": "🌳",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "萤火虫小径",
+      "currentIcon": "✨",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "守护使命",
+      "currentIcon": "🛡️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "神奇种子",
+      "currentIcon": "🌱",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-003",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "丛林",
+      "currentIcon": "🌲",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "Blizzard",
+      "currentIcon": "🌨️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Ice Plains",
+      "currentIcon": "🧊",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Glacier",
+      "currentIcon": "🏔️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Research Station",
+      "currentIcon": "🔬",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Research",
+      "currentIcon": "🔬",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Guardian Mission",
+      "currentIcon": "🛡️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Observe Animals",
+      "currentIcon": "🦋",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "Parka",
+      "currentIcon": "🧥",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "Badge",
+      "currentIcon": "🏅",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Ice Plains",
+      "currentIcon": "🧊",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "暴风雪",
+      "currentIcon": "🌨️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "冰原",
+      "currentIcon": "🧊",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "冰川",
+      "currentIcon": "🏔️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "冰洞",
+      "currentIcon": "🪨",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "科考站",
+      "currentIcon": "🔬",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "科考",
+      "currentIcon": "🔬",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "守护使命",
+      "currentIcon": "🛡️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "羽绒服",
+      "currentIcon": "🧥",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "徽章",
+      "currentIcon": "🏅",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-004",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "冰原",
+      "currentIcon": "🧊",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Space Station",
+      "currentIcon": "🛸",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Alien Planet",
+      "currentIcon": "🌍",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "Asteroid Belt",
+      "currentIcon": "☄️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Signal Detection",
+      "currentIcon": "📡",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "Guardian Mission",
+      "currentIcon": "🛡️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "Spacesuit",
+      "currentIcon": "👨‍🚀",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "Laser Gun",
+      "currentIcon": "🔫",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "Communicator",
+      "currentIcon": "📻",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006-en",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "Energy Core",
+      "currentIcon": "💎",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "星光璀璨",
+      "currentIcon": "✨",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "weather",
+      "cardName": "太阳风暴",
+      "currentIcon": "☀️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "太空站",
+      "currentIcon": "🛸",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "外星球",
+      "currentIcon": "🌍",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "terrain",
+      "cardName": "小行星带",
+      "currentIcon": "☄️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "星际探索",
+      "currentIcon": "🚀",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "发现信号",
+      "currentIcon": "📡",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "adventure",
+      "cardName": "守护使命",
+      "currentIcon": "🛡️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "宇航服",
+      "currentIcon": "👨‍🚀",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "激光枪",
+      "currentIcon": "🔫",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "通讯器",
+      "currentIcon": "📻",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-adventure-006",
+      "bookType": "adventure",
+      "subType": "equipment",
+      "cardName": "能量核心",
+      "currentIcon": "💎",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001-en",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "Cafe",
+      "currentIcon": "☕",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001-en",
+      "bookType": "business",
+      "subType": "adventure",
+      "cardName": "Hold Ground",
+      "currentIcon": "🛡️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001-en",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "Journal",
+      "currentIcon": "📓",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001-en",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "Client List",
+      "currentIcon": "📒",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "雷阵雨",
+      "currentIcon": "⛈️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "晴朗夜空",
+      "currentIcon": "🌙",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "咖啡馆",
+      "currentIcon": "☕",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "大堂",
+      "currentIcon": "🏛️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "楼顶",
+      "currentIcon": "🌃",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "手账",
+      "currentIcon": "📓",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "名册",
+      "currentIcon": "📒",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-001",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "钢笔",
+      "currentIcon": "🖊️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002-en",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "Cafe",
+      "currentIcon": "☕",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002-en",
+      "bookType": "business",
+      "subType": "adventure",
+      "cardName": "Pivot",
+      "currentIcon": "🔄",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002-en",
+      "bookType": "business",
+      "subType": "adventure",
+      "cardName": "Hold Ground",
+      "currentIcon": "🛡️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002-en",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "Phone",
+      "currentIcon": "📱",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002-en",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "Camera",
+      "currentIcon": "📷",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "雷阵雨",
+      "currentIcon": "⛈️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "晨光",
+      "currentIcon": "🌅",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "晴朗夜空",
+      "currentIcon": "🌙",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "咖啡馆",
+      "currentIcon": "☕",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "大堂",
+      "currentIcon": "🏛️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "楼顶",
+      "currentIcon": "🌃",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "手机",
+      "currentIcon": "📱",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "钢笔",
+      "currentIcon": "🖊️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-002",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "相机",
+      "currentIcon": "📷",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-003-en",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "Cafe",
+      "currentIcon": "☕",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-003-en",
+      "bookType": "business",
+      "subType": "adventure",
+      "cardName": "Funding",
+      "currentIcon": "💰",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-003-en",
+      "bookType": "business",
+      "subType": "adventure",
+      "cardName": "Pivot",
+      "currentIcon": "🔄",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-003-en",
+      "bookType": "business",
+      "subType": "adventure",
+      "cardName": "Funding",
+      "currentIcon": "💰",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-003",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "晨光",
+      "currentIcon": "🌅",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-003",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "咖啡馆",
+      "currentIcon": "☕",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-004-en",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "Notebook",
+      "currentIcon": "📓",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-004-en",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "Notebook",
+      "currentIcon": "📓",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-004",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "晨光",
+      "currentIcon": "🌅",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-004",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "楼顶",
+      "currentIcon": "🌃",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-004",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "钢笔",
+      "currentIcon": "🖊️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006-en",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "Cafe",
+      "currentIcon": "☕",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006-en",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "Investment Firm",
+      "currentIcon": "🏦",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006-en",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "Startup Contest",
+      "currentIcon": "🏆",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006-en",
+      "bookType": "business",
+      "subType": "adventure",
+      "cardName": "Startup",
+      "currentIcon": "🚀",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006-en",
+      "bookType": "business",
+      "subType": "adventure",
+      "cardName": "Funding",
+      "currentIcon": "💰",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006",
+      "bookType": "business",
+      "subType": "weather",
+      "cardName": "星空",
+      "currentIcon": "⭐",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "咖啡馆",
+      "currentIcon": "☕",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "投资公司",
+      "currentIcon": "🏦",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006",
+      "bookType": "business",
+      "subType": "terrain",
+      "cardName": "创业大赛",
+      "currentIcon": "🏆",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006",
+      "bookType": "business",
+      "subType": "adventure",
+      "cardName": "创业",
+      "currentIcon": "🚀",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006",
+      "bookType": "business",
+      "subType": "adventure",
+      "cardName": "坚持",
+      "currentIcon": "💪",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-business-006",
+      "bookType": "business",
+      "subType": "equipment",
+      "cardName": "商业计划书",
+      "currentIcon": "📋",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001-en",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "Dragon Nest",
+      "currentIcon": "🐉",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "魔法测试",
+      "currentIcon": "📝",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "魔杖",
+      "currentIcon": "🪄",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "元素乱流",
+      "currentIcon": "⚡",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "精灵光",
+      "currentIcon": "🧚",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "魔法雨",
+      "currentIcon": "💧",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "光明普照",
+      "currentIcon": "✨",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "星辰坠落",
+      "currentIcon": "💫",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "创世晨曦",
+      "currentIcon": "🌅",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "天空城",
+      "currentIcon": "🏰",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "龙之巢",
+      "currentIcon": "🐉",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "觉醒力量",
+      "currentIcon": "💫",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "封印恶魔",
+      "currentIcon": "😈",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "法典",
+      "currentIcon": "📖",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "法师帽",
+      "currentIcon": "🎩",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-001",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "魔法披风",
+      "currentIcon": "🧥",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002-en",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "Other World",
+      "currentIcon": "🌀",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Cross Worlds",
+      "currentIcon": "🌀",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Discover Secrets",
+      "currentIcon": "🔮",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "镜像空间",
+      "currentIcon": "🪞",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "精灵光",
+      "currentIcon": "🧚",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "灵魂雾",
+      "currentIcon": "👻",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "光明普照",
+      "currentIcon": "✨",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "传送门光",
+      "currentIcon": "🌀",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "创世晨曦",
+      "currentIcon": "🌅",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "时间裂缝",
+      "currentIcon": "⏳",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "天空城",
+      "currentIcon": "🏰",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "发现秘密",
+      "currentIcon": "🔮",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "解除诅咒",
+      "currentIcon": "🔮",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "觉醒力量",
+      "currentIcon": "💫",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "法典",
+      "currentIcon": "📖",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "魔法披风",
+      "currentIcon": "🧥",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-002",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "传送门符",
+      "currentIcon": "🌀",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003-en",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "Dragon Nest",
+      "currentIcon": "🐉",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003-en",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "Dragon Academy",
+      "currentIcon": "🏫",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003-en",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "Dragon Nest",
+      "currentIcon": "🐉",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "火焰风暴",
+      "currentIcon": "🔥",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "创世晨曦",
+      "currentIcon": "🌅",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "龙之巢",
+      "currentIcon": "🐉",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "龙族学院",
+      "currentIcon": "🏫",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "魔杖",
+      "currentIcon": "🪄",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "龙心勋章",
+      "currentIcon": "🏅",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "火焰风暴",
+      "currentIcon": "🔥",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-003",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "龙之巢",
+      "currentIcon": "🐉",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-004-en",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "Locked Room",
+      "currentIcon": "🔒",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-004-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Solve Puzzles",
+      "currentIcon": "🧩",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-004-en",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "Time Badge",
+      "currentIcon": "🏅",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-004",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "创世晨曦",
+      "currentIcon": "🌅",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-004",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "禁闭室",
+      "currentIcon": "🔒",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-004",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "时空裂缝",
+      "currentIcon": "⏳",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-004",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "解谜",
+      "currentIcon": "🧩",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-004",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "魔杖",
+      "currentIcon": "🪄",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-004",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "时空徽章",
+      "currentIcon": "🏅",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006-en",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "Dragon Sanctuary",
+      "currentIcon": "🏔️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006-en",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "Dark Castle",
+      "currentIcon": "🏰",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006-en",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "Battle Darkness",
+      "currentIcon": "⚔️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006",
+      "bookType": "fantasy",
+      "subType": "weather",
+      "cardName": "火焰风暴",
+      "currentIcon": "🔥",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "龙族圣地",
+      "currentIcon": "🏔️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "精灵森林",
+      "currentIcon": "🌳",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006",
+      "bookType": "fantasy",
+      "subType": "terrain",
+      "cardName": "黑暗城堡",
+      "currentIcon": "🏰",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "觉醒力量",
+      "currentIcon": "💫",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "守护龙蛋",
+      "currentIcon": "🥚",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "对抗黑暗",
+      "currentIcon": "⚔️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006",
+      "bookType": "fantasy",
+      "subType": "adventure",
+      "cardName": "龙的诞生",
+      "currentIcon": "🐉",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "龙族印记",
+      "currentIcon": "🔰",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "魔法护盾",
+      "currentIcon": "🛡️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "龙晶",
+      "currentIcon": "💎",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-fantasy-006",
+      "bookType": "fantasy",
+      "subType": "equipment",
+      "cardName": "古老卷轴",
+      "currentIcon": "📜",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Dusk",
+      "currentIcon": "🌆",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Fog",
+      "currentIcon": "🌫️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "Meeting Room",
+      "currentIcon": "📋",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "Encounter",
+      "currentIcon": "💫",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "Company",
+      "currentIcon": "👫",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "Crisis",
+      "currentIcon": "🚨",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001-en",
+      "bookType": "romance",
+      "subType": "equipment",
+      "cardName": "Laptop",
+      "currentIcon": "💻",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "公司",
+      "currentIcon": "🏢",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "邂逅",
+      "currentIcon": "💫",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "月色",
+      "currentIcon": "🌙",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "雷电",
+      "currentIcon": "⛈️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "雾霾",
+      "currentIcon": "🌫️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "咖啡厅",
+      "currentIcon": "☕",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "会议室",
+      "currentIcon": "📋",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "分离",
+      "currentIcon": "😢",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "危机处理",
+      "currentIcon": "🚨",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001",
+      "bookType": "romance",
+      "subType": "equipment",
+      "cardName": "笔记本电脑",
+      "currentIcon": "💻",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-001",
+      "bookType": "romance",
+      "subType": "equipment",
+      "cardName": "书本",
+      "currentIcon": "📚",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Overcast",
+      "currentIcon": "☁️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002-en",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "Dusk",
+      "currentIcon": "🌆",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002-en",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "Beach",
+      "currentIcon": "🏖️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002-en",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "Encounter",
+      "currentIcon": "💫",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002-en",
+      "bookType": "romance",
+      "subType": "equipment",
+      "cardName": "Laptop",
+      "currentIcon": "💻",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "咖啡厅",
+      "currentIcon": "☕",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "月色",
+      "currentIcon": "🌙",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "公司",
+      "currentIcon": "🏢",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "邂逅",
+      "currentIcon": "💫",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-002",
+      "bookType": "romance",
+      "subType": "equipment",
+      "cardName": "笔记本电脑",
+      "currentIcon": "💻",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003-en",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "Studio",
+      "currentIcon": "🎨",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003-en",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "Encounter",
+      "currentIcon": "💫",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003-en",
+      "bookType": "romance",
+      "subType": "equipment",
+      "cardName": "Easel",
+      "currentIcon": "🎨",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003-en",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "Encounter",
+      "currentIcon": "💫",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003-en",
+      "bookType": "romance",
+      "subType": "equipment",
+      "cardName": "Easel",
+      "currentIcon": "🎨",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "月色",
+      "currentIcon": "🌙",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "咖啡厅",
+      "currentIcon": "☕",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "画室",
+      "currentIcon": "🎨",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "街道",
+      "currentIcon": "🛤️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "邂逅",
+      "currentIcon": "💫",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003",
+      "bookType": "romance",
+      "subType": "equipment",
+      "cardName": "画板",
+      "currentIcon": "🎨",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "咖啡厅",
+      "currentIcon": "☕",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "邂逅",
+      "currentIcon": "💫",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-003",
+      "bookType": "romance",
+      "subType": "equipment",
+      "cardName": "画板",
+      "currentIcon": "🎨",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-004",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "月色",
+      "currentIcon": "🌙",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-004",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "咖啡厅",
+      "currentIcon": "☕",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006-en",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "Beach",
+      "currentIcon": "🏖️",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006-en",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "Encounter",
+      "currentIcon": "💫",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006-en",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "Persistence",
+      "currentIcon": "💪",
+      "lang": "en",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "阳光明媚",
+      "currentIcon": "☀️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006",
+      "bookType": "romance",
+      "subType": "weather",
+      "cardName": "细雨绵绵",
+      "currentIcon": "🌧️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006",
+      "bookType": "romance",
+      "subType": "terrain",
+      "cardName": "城市街头",
+      "currentIcon": "🏙️",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "邂逅",
+      "currentIcon": "💫",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006",
+      "bookType": "romance",
+      "subType": "adventure",
+      "cardName": "坚持",
+      "currentIcon": "💪",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    },
+    {
+      "bookId": "preset-romance-006",
+      "bookType": "romance",
+      "subType": "equipment",
+      "cardName": "笔记本",
+      "currentIcon": "📓",
+      "lang": "zh",
+      "suggestion": null,
+      "needsManualReview": true
+    }
+  ]
+}

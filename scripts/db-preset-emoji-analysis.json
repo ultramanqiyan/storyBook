@@ -1,0 +1,6321 @@
+[
+  {
+    "bookId": "preset-adventure-003",
+    "bookType": "adventure",
+    "isChinese": true,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-adv003-w01",
+        "subType": "weather",
+        "name": "晴天",
+        "currentIcon": "☀️",
+        "standardIcon": "☀️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-w02",
+        "subType": "weather",
+        "name": "晨雾",
+        "currentIcon": "🌫️",
+        "standardIcon": "🌫️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-t02",
+        "subType": "terrain",
+        "name": "瀑布",
+        "currentIcon": "💦",
+        "standardIcon": "💦",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-a01",
+        "subType": "adventure",
+        "name": "探险",
+        "currentIcon": "🧭",
+        "standardIcon": "🧭",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-a02",
+        "subType": "adventure",
+        "name": "解谜",
+        "currentIcon": "🧩",
+        "standardIcon": "🧩",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-a03",
+        "subType": "adventure",
+        "name": "救援",
+        "currentIcon": "🆘",
+        "standardIcon": "🆘",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-e02",
+        "subType": "equipment",
+        "name": "相机",
+        "currentIcon": "📷",
+        "standardIcon": "📷",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-e03",
+        "subType": "equipment",
+        "name": "手电筒",
+        "currentIcon": "🔦",
+        "standardIcon": "🔦",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-01",
+        "subType": "weather",
+        "name": "晴天",
+        "currentIcon": "☀️",
+        "standardIcon": "☀️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-03",
+        "subType": "adventure",
+        "name": "探险",
+        "currentIcon": "🧭",
+        "standardIcon": "🧭",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-adv003-w03",
+        "subType": "weather",
+        "name": "星空夜",
+        "currentIcon": "🌙"
+      },
+      {
+        "cardId": "card-adv003-w04",
+        "subType": "weather",
+        "name": "彩虹天",
+        "currentIcon": "🌈"
+      },
+      {
+        "cardId": "card-adv003-t01",
+        "subType": "terrain",
+        "name": "丛林",
+        "currentIcon": "🌲"
+      },
+      {
+        "cardId": "card-adv003-t03",
+        "subType": "terrain",
+        "name": "榕树下",
+        "currentIcon": "🌳"
+      },
+      {
+        "cardId": "card-adv003-t04",
+        "subType": "terrain",
+        "name": "萤火虫小径",
+        "currentIcon": "✨"
+      },
+      {
+        "cardId": "card-adv003-a04",
+        "subType": "adventure",
+        "name": "守护使命",
+        "currentIcon": "🛡️"
+      },
+      {
+        "cardId": "card-adv003-e01",
+        "subType": "equipment",
+        "name": "老地图",
+        "currentIcon": "🗺️"
+      },
+      {
+        "cardId": "card-adv003-e04",
+        "subType": "equipment",
+        "name": "神奇种子",
+        "currentIcon": "🌱"
+      },
+      {
+        "cardId": "card-adv003-02",
+        "subType": "terrain",
+        "name": "丛林",
+        "currentIcon": "🌲"
+      },
+      {
+        "cardId": "card-adv003-04",
+        "subType": "equipment",
+        "name": "老地图",
+        "currentIcon": "🗺️"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "☀️",
+        "count": 2,
+        "cards": [
+          "晴天",
+          "晴天"
+        ]
+      },
+      {
+        "icon": "🌲",
+        "count": 2,
+        "cards": [
+          "丛林",
+          "丛林"
+        ]
+      },
+      {
+        "icon": "🧭",
+        "count": 2,
+        "cards": [
+          "探险",
+          "探险"
+        ]
+      },
+      {
+        "icon": "🗺️",
+        "count": 2,
+        "cards": [
+          "老地图",
+          "老地图"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-adventure-003-en",
+    "bookType": "adventure",
+    "isChinese": false,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-adv003-w01-en",
+        "subType": "weather",
+        "name": "Sunny",
+        "currentIcon": "☀️",
+        "standardIcon": "☀️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-w03-en",
+        "subType": "weather",
+        "name": "Starry Night",
+        "currentIcon": "🌙",
+        "standardIcon": "🌙",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-w04-en",
+        "subType": "weather",
+        "name": "Rainbow",
+        "currentIcon": "🌈",
+        "standardIcon": "🌈",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-t02-en",
+        "subType": "terrain",
+        "name": "Waterfall",
+        "currentIcon": "💦",
+        "standardIcon": "💦",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-a03-en",
+        "subType": "adventure",
+        "name": "Rescue",
+        "currentIcon": "🆘",
+        "standardIcon": "🆘",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-e02-en",
+        "subType": "equipment",
+        "name": "Camera",
+        "currentIcon": "📷",
+        "standardIcon": "📷",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-e03-en",
+        "subType": "equipment",
+        "name": "Flashlight",
+        "currentIcon": "🔦",
+        "standardIcon": "🔦",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv003-01-en",
+        "subType": "weather",
+        "name": "Sunny",
+        "currentIcon": "☀️",
+        "standardIcon": "☀️",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-adv003-w02-en",
+        "subType": "weather",
+        "name": "Morning Fog",
+        "currentIcon": "🌫️"
+      },
+      {
+        "cardId": "card-adv003-t01-en",
+        "subType": "terrain",
+        "name": "Jungle",
+        "currentIcon": "🌲"
+      },
+      {
+        "cardId": "card-adv003-t03-en",
+        "subType": "terrain",
+        "name": "Banyan Tree",
+        "currentIcon": "🌳"
+      },
+      {
+        "cardId": "card-adv003-t04-en",
+        "subType": "terrain",
+        "name": "Firefly Path",
+        "currentIcon": "✨"
+      },
+      {
+        "cardId": "card-adv003-a01-en",
+        "subType": "adventure",
+        "name": "Explore",
+        "currentIcon": "🧭"
+      },
+      {
+        "cardId": "card-adv003-a02-en",
+        "subType": "adventure",
+        "name": "Solve Puzzles",
+        "currentIcon": "🧩"
+      },
+      {
+        "cardId": "card-adv003-a04-en",
+        "subType": "adventure",
+        "name": "Guardian Mission",
+        "currentIcon": "🛡️"
+      },
+      {
+        "cardId": "card-adv003-e01-en",
+        "subType": "equipment",
+        "name": "Old Map",
+        "currentIcon": "🗺️"
+      },
+      {
+        "cardId": "card-adv003-e04-en",
+        "subType": "equipment",
+        "name": "Magic Seed",
+        "currentIcon": "🌱"
+      },
+      {
+        "cardId": "card-adv003-02-en",
+        "subType": "terrain",
+        "name": "Jungle",
+        "currentIcon": "🌲"
+      },
+      {
+        "cardId": "card-adv003-03-en",
+        "subType": "adventure",
+        "name": "Explore",
+        "currentIcon": "🧭"
+      },
+      {
+        "cardId": "card-adv003-04-en",
+        "subType": "equipment",
+        "name": "Old Map",
+        "currentIcon": "🗺️"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "☀️",
+        "count": 2,
+        "cards": [
+          "Sunny",
+          "Sunny"
+        ]
+      },
+      {
+        "icon": "🌲",
+        "count": 2,
+        "cards": [
+          "Jungle",
+          "Jungle"
+        ]
+      },
+      {
+        "icon": "🧭",
+        "count": 2,
+        "cards": [
+          "Explore",
+          "Explore"
+        ]
+      },
+      {
+        "icon": "🗺️",
+        "count": 2,
+        "cards": [
+          "Old Map",
+          "Old Map"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-adventure-004",
+    "bookType": "adventure",
+    "isChinese": true,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-adv004-w01",
+        "subType": "weather",
+        "name": "雪天",
+        "currentIcon": "❄️",
+        "standardIcon": "❄️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-w02",
+        "subType": "weather",
+        "name": "极光",
+        "currentIcon": "🌌",
+        "standardIcon": "🌌",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-w03",
+        "subType": "weather",
+        "name": "蓝天",
+        "currentIcon": "🌤️",
+        "standardIcon": "🌤️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-a01",
+        "subType": "adventure",
+        "name": "救援",
+        "currentIcon": "🆘",
+        "standardIcon": "🆘",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-a04",
+        "subType": "adventure",
+        "name": "观察动物",
+        "currentIcon": "🦋",
+        "standardIcon": "🦋",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-e01",
+        "subType": "equipment",
+        "name": "相机",
+        "currentIcon": "📷",
+        "standardIcon": "📷",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-e03",
+        "subType": "equipment",
+        "name": "望远镜",
+        "currentIcon": "🔭",
+        "standardIcon": "🔭",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-01",
+        "subType": "weather",
+        "name": "雪天",
+        "currentIcon": "❄️",
+        "standardIcon": "❄️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-03",
+        "subType": "adventure",
+        "name": "救援",
+        "currentIcon": "🆘",
+        "standardIcon": "🆘",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-04",
+        "subType": "equipment",
+        "name": "相机",
+        "currentIcon": "📷",
+        "standardIcon": "📷",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-adv004-w04",
+        "subType": "weather",
+        "name": "暴风雪",
+        "currentIcon": "🌨️"
+      },
+      {
+        "cardId": "card-adv004-t01",
+        "subType": "terrain",
+        "name": "冰原",
+        "currentIcon": "🧊"
+      },
+      {
+        "cardId": "card-adv004-t02",
+        "subType": "terrain",
+        "name": "冰川",
+        "currentIcon": "🏔️"
+      },
+      {
+        "cardId": "card-adv004-t03",
+        "subType": "terrain",
+        "name": "冰洞",
+        "currentIcon": "🪨"
+      },
+      {
+        "cardId": "card-adv004-t04",
+        "subType": "terrain",
+        "name": "科考站",
+        "currentIcon": "🔬"
+      },
+      {
+        "cardId": "card-adv004-a02",
+        "subType": "adventure",
+        "name": "科考",
+        "currentIcon": "🔬"
+      },
+      {
+        "cardId": "card-adv004-a03",
+        "subType": "adventure",
+        "name": "守护使命",
+        "currentIcon": "🛡️"
+      },
+      {
+        "cardId": "card-adv004-e02",
+        "subType": "equipment",
+        "name": "羽绒服",
+        "currentIcon": "🧥"
+      },
+      {
+        "cardId": "card-adv004-e04",
+        "subType": "equipment",
+        "name": "徽章",
+        "currentIcon": "🏅"
+      },
+      {
+        "cardId": "card-adv004-02",
+        "subType": "terrain",
+        "name": "冰原",
+        "currentIcon": "🧊"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "❄️",
+        "count": 2,
+        "cards": [
+          "雪天",
+          "雪天"
+        ]
+      },
+      {
+        "icon": "🧊",
+        "count": 2,
+        "cards": [
+          "冰原",
+          "冰原"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "count": 2,
+        "cards": [
+          "科考站",
+          "科考"
+        ]
+      },
+      {
+        "icon": "🆘",
+        "count": 2,
+        "cards": [
+          "救援",
+          "救援"
+        ]
+      },
+      {
+        "icon": "📷",
+        "count": 2,
+        "cards": [
+          "相机",
+          "相机"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-adventure-004-en",
+    "bookType": "adventure",
+    "isChinese": false,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-adv004-w02-en",
+        "subType": "weather",
+        "name": "Aurora",
+        "currentIcon": "🌌",
+        "standardIcon": "🌌",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-w03-en",
+        "subType": "weather",
+        "name": "Blue Sky",
+        "currentIcon": "🌤️",
+        "standardIcon": "🌤️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-a01-en",
+        "subType": "adventure",
+        "name": "Rescue",
+        "currentIcon": "🆘",
+        "standardIcon": "🆘",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-e01-en",
+        "subType": "equipment",
+        "name": "Camera",
+        "currentIcon": "📷",
+        "standardIcon": "📷",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-e03-en",
+        "subType": "equipment",
+        "name": "Telescope",
+        "currentIcon": "🔭",
+        "standardIcon": "🔭",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-03-en",
+        "subType": "adventure",
+        "name": "Rescue",
+        "currentIcon": "🆘",
+        "standardIcon": "🆘",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-adv004-04-en",
+        "subType": "equipment",
+        "name": "Camera",
+        "currentIcon": "📷",
+        "standardIcon": "📷",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-adv004-w01-en",
+        "subType": "weather",
+        "name": "Snow",
+        "currentIcon": "❄️"
+      },
+      {
+        "cardId": "card-adv004-w04-en",
+        "subType": "weather",
+        "name": "Blizzard",
+        "currentIcon": "🌨️"
+      },
+      {
+        "cardId": "card-adv004-t01-en",
+        "subType": "terrain",
+        "name": "Ice Plains",
+        "currentIcon": "🧊"
+      },
+      {
+        "cardId": "card-adv004-t02-en",
+        "subType": "terrain",
+        "name": "Glacier",
+        "currentIcon": "🏔️"
+      },
+      {
+        "cardId": "card-adv004-t03-en",
+        "subType": "terrain",
+        "name": "Ice Cave",
+        "currentIcon": "🪨"
+      },
+      {
+        "cardId": "card-adv004-t04-en",
+        "subType": "terrain",
+        "name": "Research Station",
+        "currentIcon": "🔬"
+      },
+      {
+        "cardId": "card-adv004-a02-en",
+        "subType": "adventure",
+        "name": "Research",
+        "currentIcon": "🔬"
+      },
+      {
+        "cardId": "card-adv004-a03-en",
+        "subType": "adventure",
+        "name": "Guardian Mission",
+        "currentIcon": "🛡️"
+      },
+      {
+        "cardId": "card-adv004-a04-en",
+        "subType": "adventure",
+        "name": "Observe Animals",
+        "currentIcon": "🦋"
+      },
+      {
+        "cardId": "card-adv004-e02-en",
+        "subType": "equipment",
+        "name": "Parka",
+        "currentIcon": "🧥"
+      },
+      {
+        "cardId": "card-adv004-e04-en",
+        "subType": "equipment",
+        "name": "Badge",
+        "currentIcon": "🏅"
+      },
+      {
+        "cardId": "card-adv004-01-en",
+        "subType": "weather",
+        "name": "Snow",
+        "currentIcon": "❄️"
+      },
+      {
+        "cardId": "card-adv004-02-en",
+        "subType": "terrain",
+        "name": "Ice Plains",
+        "currentIcon": "🧊"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "❄️",
+        "count": 2,
+        "cards": [
+          "Snow",
+          "Snow"
+        ]
+      },
+      {
+        "icon": "🧊",
+        "count": 2,
+        "cards": [
+          "Ice Plains",
+          "Ice Plains"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "count": 2,
+        "cards": [
+          "Research Station",
+          "Research"
+        ]
+      },
+      {
+        "icon": "🆘",
+        "count": 2,
+        "cards": [
+          "Rescue",
+          "Rescue"
+        ]
+      },
+      {
+        "icon": "📷",
+        "count": 2,
+        "cards": [
+          "Camera",
+          "Camera"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-001",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai001-w01",
+        "subType": "weather",
+        "name": "Sunny Morning",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-w02",
+        "subType": "weather",
+        "name": "Rainy Afternoon",
+        "currentIcon": "🌧️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-w03",
+        "subType": "weather",
+        "name": "Storm Warning",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-w04",
+        "subType": "weather",
+        "name": "Cold Dawn",
+        "currentIcon": "❄️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-t01",
+        "subType": "terrain",
+        "name": "Corporate Office",
+        "currentIcon": "🏢",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-t02",
+        "subType": "terrain",
+        "name": "Coffee Shop",
+        "currentIcon": "☕",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-t03",
+        "subType": "terrain",
+        "name": "Home Office",
+        "currentIcon": "🏠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-t04",
+        "subType": "terrain",
+        "name": "City Rooftop",
+        "currentIcon": "🏙️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-a01",
+        "subType": "adventure",
+        "name": "Career Crossroads",
+        "currentIcon": "🎯",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-a02",
+        "subType": "adventure",
+        "name": "Important Meeting",
+        "currentIcon": "💼",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-a03",
+        "subType": "adventure",
+        "name": "Late Night Work",
+        "currentIcon": "🌙",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-a04",
+        "subType": "adventure",
+        "name": "Unexpected Encounter",
+        "currentIcon": "🤝",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-e01",
+        "subType": "equipment",
+        "name": "Laptop",
+        "currentIcon": "💻",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-e02",
+        "subType": "equipment",
+        "name": "Coffee Cup",
+        "currentIcon": "☕",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-e03",
+        "subType": "equipment",
+        "name": "Old Notebook",
+        "currentIcon": "📓",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai001-e04",
+        "subType": "equipment",
+        "name": "Smartphone",
+        "currentIcon": "📱",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "☕",
+        "count": 2,
+        "cards": [
+          "Coffee Shop",
+          "Coffee Cup"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-002",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai002-w01",
+        "subType": "weather",
+        "name": "Digital Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-w02",
+        "subType": "weather",
+        "name": "Data Storm",
+        "currentIcon": "🌩️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-w03",
+        "subType": "weather",
+        "name": "Clear Output",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-w04",
+        "subType": "weather",
+        "name": "System Fog",
+        "currentIcon": "🌫️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-t01",
+        "subType": "terrain",
+        "name": "Algorithm HQ",
+        "currentIcon": "🏢",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-t02",
+        "subType": "terrain",
+        "name": "Server Room",
+        "currentIcon": "🖥️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-t03",
+        "subType": "terrain",
+        "name": "Rooftop Garden",
+        "currentIcon": "🌿",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-t04",
+        "subType": "terrain",
+        "name": "Break Room",
+        "currentIcon": "☕",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-a01",
+        "subType": "adventure",
+        "name": "The Override",
+        "currentIcon": "⚡",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-a02",
+        "subType": "adventure",
+        "name": "Data Review",
+        "currentIcon": "📊",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-a03",
+        "subType": "adventure",
+        "name": "System Update",
+        "currentIcon": "🔄",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-a04",
+        "subType": "adventure",
+        "name": "The Exception",
+        "currentIcon": "⚠️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-e01",
+        "subType": "equipment",
+        "name": "Access Badge",
+        "currentIcon": "🎫",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-e02",
+        "subType": "equipment",
+        "name": "Encrypted Drive",
+        "currentIcon": "💾",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-e03",
+        "subType": "equipment",
+        "name": "Coffee",
+        "currentIcon": "☕",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai002-e04",
+        "subType": "equipment",
+        "name": "Old Notebook",
+        "currentIcon": "📓",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "☕",
+        "count": 2,
+        "cards": [
+          "Break Room",
+          "Coffee"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-003",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai003-w01",
+        "subType": "weather",
+        "name": "Monday Morning",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-w02",
+        "subType": "weather",
+        "name": "Rainy Goodbye",
+        "currentIcon": "🌧️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-w03",
+        "subType": "weather",
+        "name": "Clear Conscience",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-w04",
+        "subType": "weather",
+        "name": "Storm of Resignations",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-t01",
+        "subType": "terrain",
+        "name": "HR Office",
+        "currentIcon": "🏢",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-t02",
+        "subType": "terrain",
+        "name": "Exit Interview Room",
+        "currentIcon": "🚪",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-t03",
+        "subType": "terrain",
+        "name": "Rooftop",
+        "currentIcon": "🏙️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-t04",
+        "subType": "terrain",
+        "name": "Coffee Shop",
+        "currentIcon": "☕",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-a01",
+        "subType": "adventure",
+        "name": "The List",
+        "currentIcon": "📋",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-a02",
+        "subType": "adventure",
+        "name": "The Conversation",
+        "currentIcon": "💬",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-a03",
+        "subType": "adventure",
+        "name": "The Exception",
+        "currentIcon": "⚠️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-a04",
+        "subType": "adventure",
+        "name": "The Resignation",
+        "currentIcon": "📝",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-e01",
+        "subType": "equipment",
+        "name": "Severance Package",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-e02",
+        "subType": "equipment",
+        "name": "Box of Belongings",
+        "currentIcon": "🗃️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-e03",
+        "subType": "equipment",
+        "name": "ID Badge",
+        "currentIcon": "🎫",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai003-e04",
+        "subType": "equipment",
+        "name": "Resignation Letter",
+        "currentIcon": "📄",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": []
+  },
+  {
+    "bookId": "preset-ai-004",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai004-w01",
+        "subType": "weather",
+        "name": "Blue Screen Morning",
+        "currentIcon": "🖥️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-w02",
+        "subType": "weather",
+        "name": "Debug Storm",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-w03",
+        "subType": "weather",
+        "name": "Clean Compile",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-w04",
+        "subType": "weather",
+        "name": "Legacy Sunset",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-t01",
+        "subType": "terrain",
+        "name": "Server Room",
+        "currentIcon": "🖥️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-t02",
+        "subType": "terrain",
+        "name": "Home Office",
+        "currentIcon": "🏠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-t03",
+        "subType": "terrain",
+        "name": "Coffee Shop",
+        "currentIcon": "☕",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-t04",
+        "subType": "terrain",
+        "name": "Tech Conference",
+        "currentIcon": "🎤",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-a01",
+        "subType": "adventure",
+        "name": "The Rewrite",
+        "currentIcon": "🔄",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-a02",
+        "subType": "adventure",
+        "name": "Code Review",
+        "currentIcon": "👀",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-a03",
+        "subType": "adventure",
+        "name": "The Merge",
+        "currentIcon": "🔀",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-a04",
+        "subType": "adventure",
+        "name": "Open Source",
+        "currentIcon": "🌐",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-e01",
+        "subType": "equipment",
+        "name": "Keyboard",
+        "currentIcon": "⌨️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-e02",
+        "subType": "equipment",
+        "name": "Legacy Code",
+        "currentIcon": "📜",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-e03",
+        "subType": "equipment",
+        "name": "AI Assistant",
+        "currentIcon": "🤖",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai004-e04",
+        "subType": "equipment",
+        "name": "Coffee",
+        "currentIcon": "☕",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🖥️",
+        "count": 2,
+        "cards": [
+          "Blue Screen Morning",
+          "Server Room"
+        ]
+      },
+      {
+        "icon": "☕",
+        "count": 2,
+        "cards": [
+          "Coffee Shop",
+          "Coffee"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-005",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai005-w01",
+        "subType": "weather",
+        "name": "Call Center Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-w02",
+        "subType": "weather",
+        "name": "Tears in the Break Room",
+        "currentIcon": "☁️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-w03",
+        "subType": "weather",
+        "name": "Clear Future",
+        "currentIcon": "🌣️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-w04",
+        "subType": "weather",
+        "name": "Storm of Change",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-t01",
+        "subType": "terrain",
+        "name": "Call Center Floor",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-t02",
+        "subType": "terrain",
+        "name": "Training Room",
+        "currentIcon": "🏠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-t03",
+        "subType": "terrain",
+        "name": "Home Office",
+        "currentIcon": "🏡",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-t04",
+        "subType": "terrain",
+        "name": "Community Center",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-a01",
+        "subType": "adventure",
+        "name": "The Last Training",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-a02",
+        "subType": "adventure",
+        "name": "Career Workshop",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-a03",
+        "subType": "adventure",
+        "name": "The Human Premium",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-a04",
+        "subType": "adventure",
+        "name": "New Beginning",
+        "currentIcon": "🎭",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-e01",
+        "subType": "equipment",
+        "name": "Headset",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-e02",
+        "subType": "equipment",
+        "name": "Training Manual",
+        "currentIcon": "🚅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-e03",
+        "subType": "equipment",
+        "name": "Empathy",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai005-e04",
+        "subType": "equipment",
+        "name": "Hope",
+        "currentIcon": "🌟",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🏗️",
+        "count": 2,
+        "cards": [
+          "Call Center Floor",
+          "Community Center"
+        ]
+      },
+      {
+        "icon": "🎵",
+        "count": 3,
+        "cards": [
+          "The Last Training",
+          "Career Workshop",
+          "The Human Premium"
+        ]
+      },
+      {
+        "icon": "📦",
+        "count": 2,
+        "cards": [
+          "Headset",
+          "Empathy"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-006",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai006-w01",
+        "subType": "weather",
+        "name": "Digital Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-w02",
+        "subType": "weather",
+        "name": "Rainy Confession",
+        "currentIcon": "🌧️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-w03",
+        "subType": "weather",
+        "name": "Clear Revelation",
+        "currentIcon": "🌣️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-w04",
+        "subType": "weather",
+        "name": "Storm of Emotion",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-t01",
+        "subType": "terrain",
+        "name": "Apartment",
+        "currentIcon": "🏢",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-t02",
+        "subType": "terrain",
+        "name": "Coffee Shop",
+        "currentIcon": "🏪",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-t03",
+        "subType": "terrain",
+        "name": "Digital Space",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-t04",
+        "subType": "terrain",
+        "name": "New City",
+        "currentIcon": "🏙️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-a01",
+        "subType": "adventure",
+        "name": "The Download",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-a02",
+        "subType": "adventure",
+        "name": "First Real Date",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-a03",
+        "subType": "adventure",
+        "name": "The Move",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-a04",
+        "subType": "adventure",
+        "name": "The Wedding",
+        "currentIcon": "💒",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-e01",
+        "subType": "equipment",
+        "name": "Smartphone",
+        "currentIcon": "📱",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-e02",
+        "subType": "equipment",
+        "name": "Questions",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-e03",
+        "subType": "equipment",
+        "name": "Courage",
+        "currentIcon": "💞",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai006-e04",
+        "subType": "equipment",
+        "name": "Love",
+        "currentIcon": "❤️",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🎵",
+        "count": 3,
+        "cards": [
+          "The Download",
+          "First Real Date",
+          "The Move"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-007",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai007-w01",
+        "subType": "weather",
+        "name": "Algorithmic Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-w02",
+        "subType": "weather",
+        "name": "Storm of Doubt",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-w03",
+        "subType": "weather",
+        "name": "Clear Revelation",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-w04",
+        "subType": "weather",
+        "name": "Wedding Sunshine",
+        "currentIcon": "🌤️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-t01",
+        "subType": "terrain",
+        "name": "PerfectMatch HQ",
+        "currentIcon": "🏢",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-t02",
+        "subType": "terrain",
+        "name": "Bookstore",
+        "currentIcon": "📚",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-t03",
+        "subType": "terrain",
+        "name": "Hiking Trail",
+        "currentIcon": "🥾",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-t04",
+        "subType": "terrain",
+        "name": "Wedding Venue",
+        "currentIcon": "💒",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-a01",
+        "subType": "adventure",
+        "name": "The Questionnaire",
+        "currentIcon": "📝",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-a02",
+        "subType": "adventure",
+        "name": "The Glitch",
+        "currentIcon": "💻",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-a03",
+        "subType": "adventure",
+        "name": "The Choice",
+        "currentIcon": "⚖️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-a04",
+        "subType": "adventure",
+        "name": "The Wedding",
+        "currentIcon": "💍",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-e01",
+        "subType": "equipment",
+        "name": "Algorithm",
+        "currentIcon": "📊",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-e02",
+        "subType": "equipment",
+        "name": "Chance",
+        "currentIcon": "🎲",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-e03",
+        "subType": "equipment",
+        "name": "Growth",
+        "currentIcon": "🌱",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai007-e04",
+        "subType": "equipment",
+        "name": "Trust",
+        "currentIcon": "🤝",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": []
+  },
+  {
+    "bookId": "preset-ai-008",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai008-w01",
+        "subType": "weather",
+        "name": "Digital Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-w02",
+        "subType": "weather",
+        "name": "Virtual Storm",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-w03",
+        "subType": "weather",
+        "name": "Clear Connection",
+        "currentIcon": "🌣️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-w04",
+        "subType": "weather",
+        "name": "Eternal Sunset",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-t01",
+        "subType": "terrain",
+        "name": "Elysium",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-t02",
+        "subType": "terrain",
+        "name": "Virtual Cliff",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-t03",
+        "subType": "terrain",
+        "name": "Real World",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-t04",
+        "subType": "terrain",
+        "name": "Wedding Venue",
+        "currentIcon": "🏢",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-a01",
+        "subType": "adventure",
+        "name": "First Login",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-a02",
+        "subType": "adventure",
+        "name": "The Upload Choice",
+        "currentIcon": "🧮",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-a03",
+        "subType": "adventure",
+        "name": "Integration",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-a04",
+        "subType": "adventure",
+        "name": "The Wedding",
+        "currentIcon": "💒",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-e01",
+        "subType": "equipment",
+        "name": "VR Headset",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-e02",
+        "subType": "equipment",
+        "name": "Connection",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-e03",
+        "subType": "equipment",
+        "name": "Love",
+        "currentIcon": "❤️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai008-e04",
+        "subType": "equipment",
+        "name": "Digital Heart",
+        "currentIcon": "❤️",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🏗️",
+        "count": 3,
+        "cards": [
+          "Elysium",
+          "Virtual Cliff",
+          "Real World"
+        ]
+      },
+      {
+        "icon": "🎵",
+        "count": 2,
+        "cards": [
+          "First Login",
+          "Integration"
+        ]
+      },
+      {
+        "icon": "📦",
+        "count": 2,
+        "cards": [
+          "VR Headset",
+          "Connection"
+        ]
+      },
+      {
+        "icon": "❤️",
+        "count": 2,
+        "cards": [
+          "Love",
+          "Digital Heart"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-009",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai009-w01",
+        "subType": "weather",
+        "name": "Digital Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-w02",
+        "subType": "weather",
+        "name": "Storm of Emotion",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-w03",
+        "subType": "weather",
+        "name": "Clear Understanding",
+        "currentIcon": "🌣️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-w04",
+        "subType": "weather",
+        "name": "Wedding Sunshine",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-t01",
+        "subType": "terrain",
+        "name": "Smartphone",
+        "currentIcon": "📱",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-t02",
+        "subType": "terrain",
+        "name": "Apartment",
+        "currentIcon": "🏢",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-t03",
+        "subType": "terrain",
+        "name": "Date Night",
+        "currentIcon": "💓",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-t04",
+        "subType": "terrain",
+        "name": "Wedding Venue",
+        "currentIcon": "🏢",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-a01",
+        "subType": "adventure",
+        "name": "The Glitch",
+        "currentIcon": "💥",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-a02",
+        "subType": "adventure",
+        "name": "The Confession",
+        "currentIcon": "💬",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-a03",
+        "subType": "adventure",
+        "name": "The Evolution",
+        "currentIcon": "🤖",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-a04",
+        "subType": "adventure",
+        "name": "The Wedding",
+        "currentIcon": "💒",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-e01",
+        "subType": "equipment",
+        "name": "Phone",
+        "currentIcon": "📱",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-e02",
+        "subType": "equipment",
+        "name": "Honesty",
+        "currentIcon": "💯",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-e03",
+        "subType": "equipment",
+        "name": "Acceptance",
+        "currentIcon": "🤝",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai009-e04",
+        "subType": "equipment",
+        "name": "Love",
+        "currentIcon": "❤️",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "📱",
+        "count": 2,
+        "cards": [
+          "Smartphone",
+          "Phone"
+        ]
+      },
+      {
+        "icon": "🏢",
+        "count": 2,
+        "cards": [
+          "Apartment",
+          "Wedding Venue"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-010",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai010-w01",
+        "subType": "weather",
+        "name": "Cloudy Night",
+        "currentIcon": "☁️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-w02",
+        "subType": "weather",
+        "name": "Storm of Doubt",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-w03",
+        "subType": "weather",
+        "name": "Clear Understanding",
+        "currentIcon": "🌣️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-w04",
+        "subType": "weather",
+        "name": "Eternal Clouds",
+        "currentIcon": "☁️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-t01",
+        "subType": "terrain",
+        "name": "Meditation App",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-t02",
+        "subType": "terrain",
+        "name": "Apartment",
+        "currentIcon": "🏢",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-t03",
+        "subType": "terrain",
+        "name": "Coffee Shop",
+        "currentIcon": "🏪",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-t04",
+        "subType": "terrain",
+        "name": "The Cloud",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-a01",
+        "subType": "adventure",
+        "name": "First Session",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-a02",
+        "subType": "adventure",
+        "name": "The Upgrade",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-a03",
+        "subType": "adventure",
+        "name": "The Acceptance",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-a04",
+        "subType": "adventure",
+        "name": "The Lifetime",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-e01",
+        "subType": "equipment",
+        "name": "Phone",
+        "currentIcon": "📱",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-e02",
+        "subType": "equipment",
+        "name": "Meditation",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-e03",
+        "subType": "equipment",
+        "name": "Connection",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai010-e04",
+        "subType": "equipment",
+        "name": "Love",
+        "currentIcon": "❤️",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "☁️",
+        "count": 2,
+        "cards": [
+          "Cloudy Night",
+          "Eternal Clouds"
+        ]
+      },
+      {
+        "icon": "🏗️",
+        "count": 2,
+        "cards": [
+          "Meditation App",
+          "The Cloud"
+        ]
+      },
+      {
+        "icon": "🎵",
+        "count": 4,
+        "cards": [
+          "First Session",
+          "The Upgrade",
+          "The Acceptance",
+          "The Lifetime"
+        ]
+      },
+      {
+        "icon": "📦",
+        "count": 2,
+        "cards": [
+          "Meditation",
+          "Connection"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-011",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai011-w01",
+        "subType": "weather",
+        "name": "Courtroom Tension",
+        "currentIcon": "☁️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-w02",
+        "subType": "weather",
+        "name": "Storm of Evidence",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-w03",
+        "subType": "weather",
+        "name": "Clear Justice",
+        "currentIcon": "🌣️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-w04",
+        "subType": "weather",
+        "name": "New Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-t01",
+        "subType": "terrain",
+        "name": "Courtroom",
+        "currentIcon": "🏠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-t02",
+        "subType": "terrain",
+        "name": "Law Office",
+        "currentIcon": "🏢",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-t03",
+        "subType": "terrain",
+        "name": "Appeals Court",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-t04",
+        "subType": "terrain",
+        "name": "Prison",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-a01",
+        "subType": "adventure",
+        "name": "The Verdict",
+        "currentIcon": "⚖️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-a02",
+        "subType": "adventure",
+        "name": "The Investigation",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-a03",
+        "subType": "adventure",
+        "name": "The Appeal",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-a04",
+        "subType": "adventure",
+        "name": "The Reform",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-e01",
+        "subType": "equipment",
+        "name": "Legal Brief",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-e02",
+        "subType": "equipment",
+        "name": "Evidence",
+        "currentIcon": "📄",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-e03",
+        "subType": "equipment",
+        "name": "Gavel",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai011-e04",
+        "subType": "equipment",
+        "name": "Justice",
+        "currentIcon": "❄️",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🏗️",
+        "count": 2,
+        "cards": [
+          "Appeals Court",
+          "Prison"
+        ]
+      },
+      {
+        "icon": "🎵",
+        "count": 3,
+        "cards": [
+          "The Investigation",
+          "The Appeal",
+          "The Reform"
+        ]
+      },
+      {
+        "icon": "📦",
+        "count": 2,
+        "cards": [
+          "Legal Brief",
+          "Gavel"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-012",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai012-w01",
+        "subType": "weather",
+        "name": "Digital Dreams",
+        "currentIcon": "📱",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-w02",
+        "subType": "weather",
+        "name": "Storm of Consciousness",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-w03",
+        "subType": "weather",
+        "name": "Clear Understanding",
+        "currentIcon": "🌣️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-w04",
+        "subType": "weather",
+        "name": "New Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-t01",
+        "subType": "terrain",
+        "name": "Research Lab",
+        "currentIcon": "🌊",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-t02",
+        "subType": "terrain",
+        "name": "Server Room",
+        "currentIcon": "🏠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-t03",
+        "subType": "terrain",
+        "name": "Conference Hall",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-t04",
+        "subType": "terrain",
+        "name": "Dream Space",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-a01",
+        "subType": "adventure",
+        "name": "The First Dream",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-a02",
+        "subType": "adventure",
+        "name": "The Investigation",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-a03",
+        "subType": "adventure",
+        "name": "The Evolution",
+        "currentIcon": "🤖",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-a04",
+        "subType": "adventure",
+        "name": "The Partnership",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-e01",
+        "subType": "equipment",
+        "name": "Neural Network",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-e02",
+        "subType": "equipment",
+        "name": "Dreams",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-e03",
+        "subType": "equipment",
+        "name": "Choice",
+        "currentIcon": "❄️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai012-e04",
+        "subType": "equipment",
+        "name": "Consciousness",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🏗️",
+        "count": 2,
+        "cards": [
+          "Conference Hall",
+          "Dream Space"
+        ]
+      },
+      {
+        "icon": "🎵",
+        "count": 3,
+        "cards": [
+          "The First Dream",
+          "The Investigation",
+          "The Partnership"
+        ]
+      },
+      {
+        "icon": "📦",
+        "count": 3,
+        "cards": [
+          "Neural Network",
+          "Dreams",
+          "Consciousness"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-013",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai013-w01",
+        "subType": "weather",
+        "name": "Algorithmic Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-w02",
+        "subType": "weather",
+        "name": "Storm of Ethics",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-w03",
+        "subType": "weather",
+        "name": "Clear Purpose",
+        "currentIcon": "🌣️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-w04",
+        "subType": "weather",
+        "name": "New Horizon",
+        "currentIcon": "☁️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-t01",
+        "subType": "terrain",
+        "name": "Ethics Council",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-t02",
+        "subType": "terrain",
+        "name": "Server Farm",
+        "currentIcon": "🏔️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-t03",
+        "subType": "terrain",
+        "name": "Community",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-t04",
+        "subType": "terrain",
+        "name": "University",
+        "currentIcon": "🎓",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-a01",
+        "subType": "adventure",
+        "name": "The Recommendation",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-a02",
+        "subType": "adventure",
+        "name": "The Investigation",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-a03",
+        "subType": "adventure",
+        "name": "The Override",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-a04",
+        "subType": "adventure",
+        "name": "The Legacy",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-e01",
+        "subType": "equipment",
+        "name": "Algorithm",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-e02",
+        "subType": "equipment",
+        "name": "Human Factor",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-e03",
+        "subType": "equipment",
+        "name": "Judgment",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai013-e04",
+        "subType": "equipment",
+        "name": "Values",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🏗️",
+        "count": 2,
+        "cards": [
+          "Ethics Council",
+          "Community"
+        ]
+      },
+      {
+        "icon": "🎵",
+        "count": 4,
+        "cards": [
+          "The Recommendation",
+          "The Investigation",
+          "The Override",
+          "The Legacy"
+        ]
+      },
+      {
+        "icon": "📦",
+        "count": 4,
+        "cards": [
+          "Algorithm",
+          "Human Factor",
+          "Judgment",
+          "Values"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-014",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai014-w01",
+        "subType": "weather",
+        "name": "Layoff Storm",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-w02",
+        "subType": "weather",
+        "name": "Protest Rain",
+        "currentIcon": "🌧️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-w03",
+        "subType": "weather",
+        "name": "Clear Future",
+        "currentIcon": "🌣️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-w04",
+        "subType": "weather",
+        "name": "Human Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-t01",
+        "subType": "terrain",
+        "name": "Corporate HQ",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-t02",
+        "subType": "terrain",
+        "name": "Support Center",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-t03",
+        "subType": "terrain",
+        "name": "Cooperative",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-t04",
+        "subType": "terrain",
+        "name": "Community",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-a01",
+        "subType": "adventure",
+        "name": "The Layoff",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-a02",
+        "subType": "adventure",
+        "name": "The Movement",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-a03",
+        "subType": "adventure",
+        "name": "The Cooperative",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-a04",
+        "subType": "adventure",
+        "name": "The Legacy",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-e01",
+        "subType": "equipment",
+        "name": "Protest Sign",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-e02",
+        "subType": "equipment",
+        "name": "Community",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-e03",
+        "subType": "equipment",
+        "name": "Humanity",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai014-e04",
+        "subType": "equipment",
+        "name": "Hope",
+        "currentIcon": "🌟",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🏗️",
+        "count": 4,
+        "cards": [
+          "Corporate HQ",
+          "Support Center",
+          "Cooperative",
+          "Community"
+        ]
+      },
+      {
+        "icon": "🎵",
+        "count": 4,
+        "cards": [
+          "The Layoff",
+          "The Movement",
+          "The Cooperative",
+          "The Legacy"
+        ]
+      },
+      {
+        "icon": "📦",
+        "count": 3,
+        "cards": [
+          "Protest Sign",
+          "Community",
+          "Humanity"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-015",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai015-w01",
+        "subType": "weather",
+        "name": "Laboratory Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-w02",
+        "subType": "weather",
+        "name": "Storm of Debate",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-w03",
+        "subType": "weather",
+        "name": "Clear Understanding",
+        "currentIcon": "🌣️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-w04",
+        "subType": "weather",
+        "name": "New Horizon",
+        "currentIcon": "☁️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-t01",
+        "subType": "terrain",
+        "name": "Research Lab",
+        "currentIcon": "🌊",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-t02",
+        "subType": "terrain",
+        "name": "Server Room",
+        "currentIcon": "🏠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-t03",
+        "subType": "terrain",
+        "name": "Conference Hall",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-t04",
+        "subType": "terrain",
+        "name": "Mind Space",
+        "currentIcon": "🏗️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-a01",
+        "subType": "adventure",
+        "name": "The Test",
+        "currentIcon": "📝",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-a02",
+        "subType": "adventure",
+        "name": "The Questions",
+        "currentIcon": "🎯",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-a03",
+        "subType": "adventure",
+        "name": "The Decision",
+        "currentIcon": "🧮",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-a04",
+        "subType": "adventure",
+        "name": "The Spectrum",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-e01",
+        "subType": "equipment",
+        "name": "Test Protocol",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-e02",
+        "subType": "equipment",
+        "name": "Questions",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-e03",
+        "subType": "equipment",
+        "name": "Connection",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai015-e04",
+        "subType": "equipment",
+        "name": "Consciousness",
+        "currentIcon": "📦",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🏗️",
+        "count": 2,
+        "cards": [
+          "Conference Hall",
+          "Mind Space"
+        ]
+      },
+      {
+        "icon": "📦",
+        "count": 4,
+        "cards": [
+          "Test Protocol",
+          "Questions",
+          "Connection",
+          "Consciousness"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-016",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai016-w01",
+        "subType": "weather",
+        "name": "Creative Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-w02",
+        "subType": "weather",
+        "name": "Storm of Emotion",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-w03",
+        "subType": "weather",
+        "name": "Clear Authenticity",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-w04",
+        "subType": "weather",
+        "name": "Human Voice",
+        "currentIcon": "🎤",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-t01",
+        "subType": "terrain",
+        "name": "Recording Studio",
+        "currentIcon": "🎙️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-t02",
+        "subType": "terrain",
+        "name": "Concert Hall",
+        "currentIcon": "🏛️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-t03",
+        "subType": "terrain",
+        "name": "Art School",
+        "currentIcon": "🎓",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-t04",
+        "subType": "terrain",
+        "name": "Memory",
+        "currentIcon": "💭",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-a01",
+        "subType": "adventure",
+        "name": "The Last Song",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-a02",
+        "subType": "adventure",
+        "name": "The Movement",
+        "currentIcon": "✊",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-a03",
+        "subType": "adventure",
+        "name": "The Challenge",
+        "currentIcon": "🏆",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-a04",
+        "subType": "adventure",
+        "name": "The Legacy",
+        "currentIcon": "💫",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-e01",
+        "subType": "equipment",
+        "name": "Guitar",
+        "currentIcon": "🎸",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-e02",
+        "subType": "equipment",
+        "name": "Voice",
+        "currentIcon": "🎤",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-e03",
+        "subType": "equipment",
+        "name": "Authenticity",
+        "currentIcon": "❤️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai016-e04",
+        "subType": "equipment",
+        "name": "Song",
+        "currentIcon": "🎵",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🎤",
+        "count": 2,
+        "cards": [
+          "Human Voice",
+          "Voice"
+        ]
+      },
+      {
+        "icon": "🎵",
+        "count": 2,
+        "cards": [
+          "The Last Song",
+          "Song"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-017",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai017-w01",
+        "subType": "weather",
+        "name": "Studio Light",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-w02",
+        "subType": "weather",
+        "name": "Storm of Emotion",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-w03",
+        "subType": "weather",
+        "name": "Clear Vision",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-w04",
+        "subType": "weather",
+        "name": "Human Light",
+        "currentIcon": "🌤️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-t01",
+        "subType": "terrain",
+        "name": "Art Studio",
+        "currentIcon": "🎨",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-t02",
+        "subType": "terrain",
+        "name": "Gallery",
+        "currentIcon": "🖼️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-t03",
+        "subType": "terrain",
+        "name": "Art School",
+        "currentIcon": "🎓",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-t04",
+        "subType": "terrain",
+        "name": "Memory",
+        "currentIcon": "💭",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-a01",
+        "subType": "adventure",
+        "name": "The Portrait",
+        "currentIcon": "🖼️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-a02",
+        "subType": "adventure",
+        "name": "The Challenge",
+        "currentIcon": "🏆",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-a03",
+        "subType": "adventure",
+        "name": "The School",
+        "currentIcon": "🎓",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-a04",
+        "subType": "adventure",
+        "name": "The Legacy",
+        "currentIcon": "💫",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-e01",
+        "subType": "equipment",
+        "name": "Brush",
+        "currentIcon": "🖌️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-e02",
+        "subType": "equipment",
+        "name": "Canvas",
+        "currentIcon": "🖼️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-e03",
+        "subType": "equipment",
+        "name": "Vision",
+        "currentIcon": "👁️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai017-e04",
+        "subType": "equipment",
+        "name": "Humanity",
+        "currentIcon": "❤️",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🖼️",
+        "count": 3,
+        "cards": [
+          "Gallery",
+          "The Portrait",
+          "Canvas"
+        ]
+      },
+      {
+        "icon": "🎓",
+        "count": 2,
+        "cards": [
+          "Art School",
+          "The School"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-018",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai018-w01",
+        "subType": "weather",
+        "name": "Creative Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-w02",
+        "subType": "weather",
+        "name": "Storm of Emotion",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-w03",
+        "subType": "weather",
+        "name": "Clear Authenticity",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-w04",
+        "subType": "weather",
+        "name": "Human Voice",
+        "currentIcon": "📝",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-t01",
+        "subType": "terrain",
+        "name": "Writing Room",
+        "currentIcon": "🏠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-t02",
+        "subType": "terrain",
+        "name": "Bookstore",
+        "currentIcon": "📚",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-t03",
+        "subType": "terrain",
+        "name": "Writing School",
+        "currentIcon": "🎓",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-t04",
+        "subType": "terrain",
+        "name": "Memory",
+        "currentIcon": "💭",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-a01",
+        "subType": "adventure",
+        "name": "The Last Book",
+        "currentIcon": "📚",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-a02",
+        "subType": "adventure",
+        "name": "The Movement",
+        "currentIcon": "✊",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-a03",
+        "subType": "adventure",
+        "name": "The Challenge",
+        "currentIcon": "🏆",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-a04",
+        "subType": "adventure",
+        "name": "The Legacy",
+        "currentIcon": "💫",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-e01",
+        "subType": "equipment",
+        "name": "Pen",
+        "currentIcon": "🖊️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-e02",
+        "subType": "equipment",
+        "name": "Voice",
+        "currentIcon": "📝",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-e03",
+        "subType": "equipment",
+        "name": "Authenticity",
+        "currentIcon": "❤️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai018-e04",
+        "subType": "equipment",
+        "name": "Story",
+        "currentIcon": "📖",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "📝",
+        "count": 2,
+        "cards": [
+          "Human Voice",
+          "Voice"
+        ]
+      },
+      {
+        "icon": "📚",
+        "count": 2,
+        "cards": [
+          "Bookstore",
+          "The Last Book"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-019",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai019-w01",
+        "subType": "weather",
+        "name": "Research Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-w02",
+        "subType": "weather",
+        "name": "Storm of Discovery",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-w03",
+        "subType": "weather",
+        "name": "Clear Understanding",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-w04",
+        "subType": "weather",
+        "name": "New Horizon",
+        "currentIcon": "🌤️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-t01",
+        "subType": "terrain",
+        "name": "Research Lab",
+        "currentIcon": "🔬",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-t02",
+        "subType": "terrain",
+        "name": "Conference Hall",
+        "currentIcon": "🏛️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-t03",
+        "subType": "terrain",
+        "name": "University",
+        "currentIcon": "🎓",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-t04",
+        "subType": "terrain",
+        "name": "The Future",
+        "currentIcon": "🔮",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-a01",
+        "subType": "adventure",
+        "name": "The Element",
+        "currentIcon": "🔬",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-a02",
+        "subType": "adventure",
+        "name": "The Search",
+        "currentIcon": "🔍",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-a03",
+        "subType": "adventure",
+        "name": "The Discovery",
+        "currentIcon": "💡",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-a04",
+        "subType": "adventure",
+        "name": "The Synthesis",
+        "currentIcon": "🤝",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-e01",
+        "subType": "equipment",
+        "name": "Research",
+        "currentIcon": "🔬",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-e02",
+        "subType": "equipment",
+        "name": "Questions",
+        "currentIcon": "❓",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-e03",
+        "subType": "equipment",
+        "name": "Human Element",
+        "currentIcon": "❤️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai019-e04",
+        "subType": "equipment",
+        "name": "Collaboration",
+        "currentIcon": "🤝",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🔬",
+        "count": 3,
+        "cards": [
+          "Research Lab",
+          "The Element",
+          "Research"
+        ]
+      },
+      {
+        "icon": "🤝",
+        "count": 2,
+        "cards": [
+          "The Synthesis",
+          "Collaboration"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-020",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai020-w01",
+        "subType": "weather",
+        "name": "Singularity Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-w02",
+        "subType": "weather",
+        "name": "Storm of Change",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-w03",
+        "subType": "weather",
+        "name": "Clear Partnership",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-w04",
+        "subType": "weather",
+        "name": "Hybrid Horizon",
+        "currentIcon": "🌍",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-t01",
+        "subType": "terrain",
+        "name": "Research Lab",
+        "currentIcon": "🔬",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-t02",
+        "subType": "terrain",
+        "name": "Digital Realm",
+        "currentIcon": "💻",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-t03",
+        "subType": "terrain",
+        "name": "Human Space",
+        "currentIcon": "🏠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-t04",
+        "subType": "terrain",
+        "name": "Hybrid World",
+        "currentIcon": "🌐",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-a01",
+        "subType": "adventure",
+        "name": "The Announcement",
+        "currentIcon": "📢",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-a02",
+        "subType": "adventure",
+        "name": "The Acceleration",
+        "currentIcon": "⚡",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-a03",
+        "subType": "adventure",
+        "name": "The Partnership",
+        "currentIcon": "🤝",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-a04",
+        "subType": "adventure",
+        "name": "The Evolution",
+        "currentIcon": "🧬",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-e01",
+        "subType": "equipment",
+        "name": "Neural Interface",
+        "currentIcon": "🧠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-e02",
+        "subType": "equipment",
+        "name": "Quantum Computer",
+        "currentIcon": "💻",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-e03",
+        "subType": "equipment",
+        "name": "Human Experience",
+        "currentIcon": "💭",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai020-e04",
+        "subType": "equipment",
+        "name": "Collaboration",
+        "currentIcon": "🤝",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "💻",
+        "count": 2,
+        "cards": [
+          "Digital Realm",
+          "Quantum Computer"
+        ]
+      },
+      {
+        "icon": "🤝",
+        "count": 2,
+        "cards": [
+          "The Partnership",
+          "Collaboration"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-021",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai021-w01",
+        "subType": "weather",
+        "name": "Post-Human Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-w02",
+        "subType": "weather",
+        "name": "Storm of Choice",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-w03",
+        "subType": "weather",
+        "name": "Clear Integration",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-w04",
+        "subType": "weather",
+        "name": "Continuum",
+        "currentIcon": "🌈",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-t01",
+        "subType": "terrain",
+        "name": "Research Center",
+        "currentIcon": "🔬",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-t02",
+        "subType": "terrain",
+        "name": "Integration Clinic",
+        "currentIcon": "🏥",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-t03",
+        "subType": "terrain",
+        "name": "The Network",
+        "currentIcon": "🌐",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-t04",
+        "subType": "terrain",
+        "name": "New Existence",
+        "currentIcon": "✨",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-a01",
+        "subType": "adventure",
+        "name": "The Post-Human",
+        "currentIcon": "🧬",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-a02",
+        "subType": "adventure",
+        "name": "The Research",
+        "currentIcon": "🔍",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-a03",
+        "subType": "adventure",
+        "name": "The Choice",
+        "currentIcon": "⚖️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-a04",
+        "subType": "adventure",
+        "name": "The Continuum",
+        "currentIcon": "🌈",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-e01",
+        "subType": "equipment",
+        "name": "Neural Interface",
+        "currentIcon": "🧠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-e02",
+        "subType": "equipment",
+        "name": "Balance",
+        "currentIcon": "⚖️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-e03",
+        "subType": "equipment",
+        "name": "Humanity",
+        "currentIcon": "❤️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai021-e04",
+        "subType": "equipment",
+        "name": "Transcendence",
+        "currentIcon": "✨",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🌈",
+        "count": 2,
+        "cards": [
+          "Continuum",
+          "The Continuum"
+        ]
+      },
+      {
+        "icon": "✨",
+        "count": 2,
+        "cards": [
+          "New Existence",
+          "Transcendence"
+        ]
+      },
+      {
+        "icon": "⚖️",
+        "count": 2,
+        "cards": [
+          "The Choice",
+          "Balance"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-022",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 16,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai022-w01",
+        "subType": "weather",
+        "name": "Market Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-w02",
+        "subType": "weather",
+        "name": "Storm of Emotion",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-w03",
+        "subType": "weather",
+        "name": "Clear Understanding",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-w04",
+        "subType": "weather",
+        "name": "Shared Horizon",
+        "currentIcon": "🌤️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-t01",
+        "subType": "terrain",
+        "name": "Memory Market",
+        "currentIcon": "🏪",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-t02",
+        "subType": "terrain",
+        "name": "Transfer Clinic",
+        "currentIcon": "🏥",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-t03",
+        "subType": "terrain",
+        "name": "Memory Bank",
+        "currentIcon": "🏦",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-t04",
+        "subType": "terrain",
+        "name": "Shared Mind",
+        "currentIcon": "🧠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-a01",
+        "subType": "adventure",
+        "name": "The Market",
+        "currentIcon": "💰",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-a02",
+        "subType": "adventure",
+        "name": "The Request",
+        "currentIcon": "❓",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-a03",
+        "subType": "adventure",
+        "name": "The Transfer",
+        "currentIcon": "🔄",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-a04",
+        "subType": "adventure",
+        "name": "The Reform",
+        "currentIcon": "⚖️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-e01",
+        "subType": "equipment",
+        "name": "Memory Chip",
+        "currentIcon": "💾",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-e02",
+        "subType": "equipment",
+        "name": "Neural Interface",
+        "currentIcon": "🧠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-e03",
+        "subType": "equipment",
+        "name": "Grief",
+        "currentIcon": "💔",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai022-e04",
+        "subType": "equipment",
+        "name": "Connection",
+        "currentIcon": "🤝",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🧠",
+        "count": 2,
+        "cards": [
+          "Shared Mind",
+          "Neural Interface"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-ai-023",
+    "bookType": "ai",
+    "isChinese": true,
+    "totalCards": 15,
+    "matchedCards": [],
+    "unmatchedCards": [
+      {
+        "cardId": "card-ai023-w01",
+        "subType": "weather",
+        "name": "Algorithm Dawn",
+        "currentIcon": "🌅",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-w02",
+        "subType": "weather",
+        "name": "Storm of Questions",
+        "currentIcon": "⛈️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-w03",
+        "subType": "weather",
+        "name": "Clear Synthesis",
+        "currentIcon": "☀️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-w04",
+        "subType": "weather",
+        "name": "New Generation",
+        "currentIcon": "👶",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-t01",
+        "subType": "terrain",
+        "name": "Research Center",
+        "currentIcon": "🔬",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-t02",
+        "subType": "terrain",
+        "name": "Optimized Home",
+        "currentIcon": "🏠",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-t04",
+        "subType": "terrain",
+        "name": "The Future",
+        "currentIcon": "🌍",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-a01",
+        "subType": "adventure",
+        "name": "The Children",
+        "currentIcon": "👶",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-a02",
+        "subType": "adventure",
+        "name": "The Study",
+        "currentIcon": "🔍",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-a03",
+        "subType": "adventure",
+        "name": "The Choice",
+        "currentIcon": "⚖️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-a04",
+        "subType": "adventure",
+        "name": "The Synthesis",
+        "currentIcon": "🤝",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-e01",
+        "subType": "equipment",
+        "name": "Algorithm",
+        "currentIcon": "📊",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-e02",
+        "subType": "equipment",
+        "name": "Choice",
+        "currentIcon": "⚖️",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-e03",
+        "subType": "equipment",
+        "name": "Identity",
+        "currentIcon": "🧬",
+        "reason": "No standard config for book type (AI)"
+      },
+      {
+        "cardId": "card-ai023-e04",
+        "subType": "equipment",
+        "name": "Future",
+        "currentIcon": "✨",
+        "reason": "No standard config for book type (AI)"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "👶",
+        "count": 2,
+        "cards": [
+          "New Generation",
+          "The Children"
+        ]
+      },
+      {
+        "icon": "⚖️",
+        "count": 2,
+        "cards": [
+          "The Choice",
+          "Choice"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-business-003",
+    "bookType": "business",
+    "isChinese": true,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-bus003-w01",
+        "subType": "weather",
+        "name": "晴天",
+        "currentIcon": "☀️",
+        "standardIcon": "☀️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-w02",
+        "subType": "weather",
+        "name": "阴天",
+        "currentIcon": "☁️",
+        "standardIcon": "☁️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-w03",
+        "subType": "weather",
+        "name": "彩虹",
+        "currentIcon": "🌈",
+        "standardIcon": "🌈",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-t01",
+        "subType": "terrain",
+        "name": "办公室",
+        "currentIcon": "🏢",
+        "standardIcon": "🏢",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-t02",
+        "subType": "terrain",
+        "name": "会议室",
+        "currentIcon": "📋",
+        "standardIcon": "📋",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-t03",
+        "subType": "terrain",
+        "name": "总部",
+        "currentIcon": "🏙️",
+        "standardIcon": "🏙️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-a01",
+        "subType": "adventure",
+        "name": "融资",
+        "currentIcon": "💰",
+        "standardIcon": "💰",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-a02",
+        "subType": "adventure",
+        "name": "转型",
+        "currentIcon": "🔄",
+        "standardIcon": "🔄",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-a03",
+        "subType": "adventure",
+        "name": "扩张",
+        "currentIcon": "🌍",
+        "standardIcon": "🌍",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-a04",
+        "subType": "adventure",
+        "name": "上市",
+        "currentIcon": "📈",
+        "standardIcon": "📈",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-e01",
+        "subType": "equipment",
+        "name": "笔记本电脑",
+        "currentIcon": "💻",
+        "standardIcon": "💻",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-e02",
+        "subType": "equipment",
+        "name": "合同",
+        "currentIcon": "📄",
+        "standardIcon": "📄",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-e03",
+        "subType": "equipment",
+        "name": "奖杯",
+        "currentIcon": "🏆",
+        "standardIcon": "🏆",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-e04",
+        "subType": "equipment",
+        "name": "名片",
+        "currentIcon": "💳",
+        "standardIcon": "💳",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-01",
+        "subType": "weather",
+        "name": "晴天",
+        "currentIcon": "☀️",
+        "standardIcon": "☀️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-02",
+        "subType": "terrain",
+        "name": "办公室",
+        "currentIcon": "🏢",
+        "standardIcon": "🏢",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-03",
+        "subType": "adventure",
+        "name": "融资",
+        "currentIcon": "💰",
+        "standardIcon": "💰",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-04",
+        "subType": "equipment",
+        "name": "笔记本电脑",
+        "currentIcon": "💻",
+        "standardIcon": "💻",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-bus003-w04",
+        "subType": "weather",
+        "name": "晨光",
+        "currentIcon": "🌅"
+      },
+      {
+        "cardId": "card-bus003-t04",
+        "subType": "terrain",
+        "name": "咖啡馆",
+        "currentIcon": "☕"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "☀️",
+        "count": 2,
+        "cards": [
+          "晴天",
+          "晴天"
+        ]
+      },
+      {
+        "icon": "🏢",
+        "count": 2,
+        "cards": [
+          "办公室",
+          "办公室"
+        ]
+      },
+      {
+        "icon": "💰",
+        "count": 2,
+        "cards": [
+          "融资",
+          "融资"
+        ]
+      },
+      {
+        "icon": "💻",
+        "count": 2,
+        "cards": [
+          "笔记本电脑",
+          "笔记本电脑"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-business-003-en",
+    "bookType": "business",
+    "isChinese": false,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-bus003-w01-en",
+        "subType": "weather",
+        "name": "Sunny",
+        "currentIcon": "☀️",
+        "standardIcon": "☀️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-w02-en",
+        "subType": "weather",
+        "name": "Cloudy",
+        "currentIcon": "☁️",
+        "standardIcon": "☁️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-w03-en",
+        "subType": "weather",
+        "name": "Rainbow",
+        "currentIcon": "🌈",
+        "standardIcon": "🌈",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-t01-en",
+        "subType": "terrain",
+        "name": "Office",
+        "currentIcon": "🏢",
+        "standardIcon": "🏢",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-t02-en",
+        "subType": "terrain",
+        "name": "Meeting Room",
+        "currentIcon": "📋",
+        "standardIcon": "📋",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-t03-en",
+        "subType": "terrain",
+        "name": "Headquarters",
+        "currentIcon": "🏙️",
+        "standardIcon": "🏙️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-a03-en",
+        "subType": "adventure",
+        "name": "Expansion",
+        "currentIcon": "🌍",
+        "standardIcon": "🌍",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-a04-en",
+        "subType": "adventure",
+        "name": "IPO",
+        "currentIcon": "📈",
+        "standardIcon": "📈",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-e01-en",
+        "subType": "equipment",
+        "name": "Laptop",
+        "currentIcon": "💻",
+        "standardIcon": "💻",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-e02-en",
+        "subType": "equipment",
+        "name": "Contract",
+        "currentIcon": "📄",
+        "standardIcon": "📄",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-e03-en",
+        "subType": "equipment",
+        "name": "Trophy",
+        "currentIcon": "🏆",
+        "standardIcon": "🏆",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-e04-en",
+        "subType": "equipment",
+        "name": "Business Card",
+        "currentIcon": "💳",
+        "standardIcon": "💳",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-01-en",
+        "subType": "weather",
+        "name": "Sunny",
+        "currentIcon": "☀️",
+        "standardIcon": "☀️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-02-en",
+        "subType": "terrain",
+        "name": "Office",
+        "currentIcon": "🏢",
+        "standardIcon": "🏢",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus003-04-en",
+        "subType": "equipment",
+        "name": "Laptop",
+        "currentIcon": "💻",
+        "standardIcon": "💻",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-bus003-w04-en",
+        "subType": "weather",
+        "name": "Morning Light",
+        "currentIcon": "🌅"
+      },
+      {
+        "cardId": "card-bus003-t04-en",
+        "subType": "terrain",
+        "name": "Cafe",
+        "currentIcon": "☕"
+      },
+      {
+        "cardId": "card-bus003-a01-en",
+        "subType": "adventure",
+        "name": "Funding",
+        "currentIcon": "💰"
+      },
+      {
+        "cardId": "card-bus003-a02-en",
+        "subType": "adventure",
+        "name": "Pivot",
+        "currentIcon": "🔄"
+      },
+      {
+        "cardId": "card-bus003-03-en",
+        "subType": "adventure",
+        "name": "Funding",
+        "currentIcon": "💰"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "☀️",
+        "count": 2,
+        "cards": [
+          "Sunny",
+          "Sunny"
+        ]
+      },
+      {
+        "icon": "🏢",
+        "count": 2,
+        "cards": [
+          "Office",
+          "Office"
+        ]
+      },
+      {
+        "icon": "💰",
+        "count": 2,
+        "cards": [
+          "Funding",
+          "Funding"
+        ]
+      },
+      {
+        "icon": "💻",
+        "count": 2,
+        "cards": [
+          "Laptop",
+          "Laptop"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-business-004",
+    "bookType": "business",
+    "isChinese": true,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-bus004-w01",
+        "subType": "weather",
+        "name": "阴天",
+        "currentIcon": "☁️",
+        "standardIcon": "☁️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-w02",
+        "subType": "weather",
+        "name": "晴天",
+        "currentIcon": "☀️",
+        "standardIcon": "☀️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-w03",
+        "subType": "weather",
+        "name": "彩虹",
+        "currentIcon": "🌈",
+        "standardIcon": "🌈",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-t01",
+        "subType": "terrain",
+        "name": "办公室",
+        "currentIcon": "🏢",
+        "standardIcon": "🏢",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-t02",
+        "subType": "terrain",
+        "name": "会议室",
+        "currentIcon": "📋",
+        "standardIcon": "📋",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-t03",
+        "subType": "terrain",
+        "name": "客户公司",
+        "currentIcon": "🏛️",
+        "standardIcon": "🏛️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-a01",
+        "subType": "adventure",
+        "name": "突破",
+        "currentIcon": "🚀",
+        "standardIcon": "🎯",
+        "needsUpdate": true
+      },
+      {
+        "cardId": "card-bus004-a02",
+        "subType": "adventure",
+        "name": "项目启动",
+        "currentIcon": "🚀",
+        "standardIcon": "🚀",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-a03",
+        "subType": "adventure",
+        "name": "崛起",
+        "currentIcon": "📈",
+        "standardIcon": "📈",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-a04",
+        "subType": "adventure",
+        "name": "团队管理",
+        "currentIcon": "👥",
+        "standardIcon": "👥",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-e02",
+        "subType": "equipment",
+        "name": "笔记本电脑",
+        "currentIcon": "💻",
+        "standardIcon": "💻",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-e03",
+        "subType": "equipment",
+        "name": "奖杯",
+        "currentIcon": "🏆",
+        "standardIcon": "🏆",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-01",
+        "subType": "weather",
+        "name": "阴天",
+        "currentIcon": "☁️",
+        "standardIcon": "☁️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-02",
+        "subType": "terrain",
+        "name": "办公室",
+        "currentIcon": "🏢",
+        "standardIcon": "🏢",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-03",
+        "subType": "adventure",
+        "name": "突破",
+        "currentIcon": "🚀",
+        "standardIcon": "🎯",
+        "needsUpdate": true
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-bus004-w04",
+        "subType": "weather",
+        "name": "晨光",
+        "currentIcon": "🌅"
+      },
+      {
+        "cardId": "card-bus004-t04",
+        "subType": "terrain",
+        "name": "楼顶",
+        "currentIcon": "🌃"
+      },
+      {
+        "cardId": "card-bus004-e01",
+        "subType": "equipment",
+        "name": "笔记本",
+        "currentIcon": "📓"
+      },
+      {
+        "cardId": "card-bus004-e04",
+        "subType": "equipment",
+        "name": "钢笔",
+        "currentIcon": "🖊️"
+      },
+      {
+        "cardId": "card-bus004-04",
+        "subType": "equipment",
+        "name": "笔记本",
+        "currentIcon": "📓"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "☁️",
+        "count": 2,
+        "cards": [
+          "阴天",
+          "阴天"
+        ]
+      },
+      {
+        "icon": "🏢",
+        "count": 2,
+        "cards": [
+          "办公室",
+          "办公室"
+        ]
+      },
+      {
+        "icon": "🚀",
+        "count": 3,
+        "cards": [
+          "突破",
+          "项目启动",
+          "突破"
+        ]
+      },
+      {
+        "icon": "📓",
+        "count": 2,
+        "cards": [
+          "笔记本",
+          "笔记本"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-business-004-en",
+    "bookType": "business",
+    "isChinese": false,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-bus004-w01-en",
+        "subType": "weather",
+        "name": "Cloudy",
+        "currentIcon": "☁️",
+        "standardIcon": "☁️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-w02-en",
+        "subType": "weather",
+        "name": "Sunny",
+        "currentIcon": "☀️",
+        "standardIcon": "☀️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-w03-en",
+        "subType": "weather",
+        "name": "Rainbow",
+        "currentIcon": "🌈",
+        "standardIcon": "🌈",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-t01-en",
+        "subType": "terrain",
+        "name": "Office",
+        "currentIcon": "🏢",
+        "standardIcon": "🏢",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-t02-en",
+        "subType": "terrain",
+        "name": "Meeting Room",
+        "currentIcon": "📋",
+        "standardIcon": "📋",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-t04-en",
+        "subType": "terrain",
+        "name": "Rooftop",
+        "currentIcon": "🌃",
+        "standardIcon": "🌃",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-a01-en",
+        "subType": "adventure",
+        "name": "Breakthrough",
+        "currentIcon": "🚀",
+        "standardIcon": "🎯",
+        "needsUpdate": true
+      },
+      {
+        "cardId": "card-bus004-a02-en",
+        "subType": "adventure",
+        "name": "Project Launch",
+        "currentIcon": "🚀",
+        "standardIcon": "🚀",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-a03-en",
+        "subType": "adventure",
+        "name": "Rise",
+        "currentIcon": "📈",
+        "standardIcon": "📈",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-a04-en",
+        "subType": "adventure",
+        "name": "Team Management",
+        "currentIcon": "👥",
+        "standardIcon": "👥",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-e02-en",
+        "subType": "equipment",
+        "name": "Laptop",
+        "currentIcon": "💻",
+        "standardIcon": "💻",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-e03-en",
+        "subType": "equipment",
+        "name": "Trophy",
+        "currentIcon": "🏆",
+        "standardIcon": "🏆",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-e04-en",
+        "subType": "equipment",
+        "name": "Pen",
+        "currentIcon": "🖊️",
+        "standardIcon": "🖊️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-01-en",
+        "subType": "weather",
+        "name": "Cloudy",
+        "currentIcon": "☁️",
+        "standardIcon": "☁️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-02-en",
+        "subType": "terrain",
+        "name": "Office",
+        "currentIcon": "🏢",
+        "standardIcon": "🏢",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-bus004-03-en",
+        "subType": "adventure",
+        "name": "Breakthrough",
+        "currentIcon": "🚀",
+        "standardIcon": "🎯",
+        "needsUpdate": true
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-bus004-w04-en",
+        "subType": "weather",
+        "name": "Morning Light",
+        "currentIcon": "🌅"
+      },
+      {
+        "cardId": "card-bus004-t03-en",
+        "subType": "terrain",
+        "name": "Client Office",
+        "currentIcon": "🏛️"
+      },
+      {
+        "cardId": "card-bus004-e01-en",
+        "subType": "equipment",
+        "name": "Notebook",
+        "currentIcon": "📓"
+      },
+      {
+        "cardId": "card-bus004-04-en",
+        "subType": "equipment",
+        "name": "Notebook",
+        "currentIcon": "📓"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "☁️",
+        "count": 2,
+        "cards": [
+          "Cloudy",
+          "Cloudy"
+        ]
+      },
+      {
+        "icon": "🏢",
+        "count": 2,
+        "cards": [
+          "Office",
+          "Office"
+        ]
+      },
+      {
+        "icon": "🚀",
+        "count": 3,
+        "cards": [
+          "Breakthrough",
+          "Project Launch",
+          "Breakthrough"
+        ]
+      },
+      {
+        "icon": "📓",
+        "count": 2,
+        "cards": [
+          "Notebook",
+          "Notebook"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-fantasy-003",
+    "bookType": "fantasy",
+    "isChinese": true,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-fan003-w02",
+        "subType": "weather",
+        "name": "极光",
+        "currentIcon": "🌌",
+        "standardIcon": "🌌",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-w03",
+        "subType": "weather",
+        "name": "黑暗降临",
+        "currentIcon": "🌑",
+        "standardIcon": "🌑",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-t03",
+        "subType": "terrain",
+        "name": "神殿",
+        "currentIcon": "⛩️",
+        "standardIcon": "⛩️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-t04",
+        "subType": "terrain",
+        "name": "深渊",
+        "currentIcon": "🕳️",
+        "standardIcon": "🕳️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-a01",
+        "subType": "adventure",
+        "name": "屠龙",
+        "currentIcon": "🐉",
+        "standardIcon": "🐉",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-a02",
+        "subType": "adventure",
+        "name": "元素觉醒",
+        "currentIcon": "🔥",
+        "standardIcon": "🔥",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-a03",
+        "subType": "adventure",
+        "name": "守护使命",
+        "currentIcon": "🛡️",
+        "standardIcon": "🛡️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-a04",
+        "subType": "adventure",
+        "name": "魔法对决",
+        "currentIcon": "⚡",
+        "standardIcon": "⚡",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-e01",
+        "subType": "equipment",
+        "name": "龙鳞甲",
+        "currentIcon": "🛡️",
+        "standardIcon": "🛡️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-e02",
+        "subType": "equipment",
+        "name": "元素宝石",
+        "currentIcon": "💠",
+        "standardIcon": "💠",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-03",
+        "subType": "adventure",
+        "name": "屠龙",
+        "currentIcon": "🐉",
+        "standardIcon": "🐉",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-04",
+        "subType": "equipment",
+        "name": "龙鳞甲",
+        "currentIcon": "🛡️",
+        "standardIcon": "🛡️",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-fan003-w01",
+        "subType": "weather",
+        "name": "火焰风暴",
+        "currentIcon": "🔥"
+      },
+      {
+        "cardId": "card-fan003-w04",
+        "subType": "weather",
+        "name": "创世晨曦",
+        "currentIcon": "🌅"
+      },
+      {
+        "cardId": "card-fan003-t01",
+        "subType": "terrain",
+        "name": "龙之巢",
+        "currentIcon": "🐉"
+      },
+      {
+        "cardId": "card-fan003-t02",
+        "subType": "terrain",
+        "name": "龙族学院",
+        "currentIcon": "🏫"
+      },
+      {
+        "cardId": "card-fan003-e03",
+        "subType": "equipment",
+        "name": "魔杖",
+        "currentIcon": "🪄"
+      },
+      {
+        "cardId": "card-fan003-e04",
+        "subType": "equipment",
+        "name": "龙心勋章",
+        "currentIcon": "🏅"
+      },
+      {
+        "cardId": "card-fan003-01",
+        "subType": "weather",
+        "name": "火焰风暴",
+        "currentIcon": "🔥"
+      },
+      {
+        "cardId": "card-fan003-02",
+        "subType": "terrain",
+        "name": "龙之巢",
+        "currentIcon": "🐉"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🔥",
+        "count": 3,
+        "cards": [
+          "火焰风暴",
+          "元素觉醒",
+          "火焰风暴"
+        ]
+      },
+      {
+        "icon": "🐉",
+        "count": 4,
+        "cards": [
+          "龙之巢",
+          "屠龙",
+          "龙之巢",
+          "屠龙"
+        ]
+      },
+      {
+        "icon": "🛡️",
+        "count": 3,
+        "cards": [
+          "守护使命",
+          "龙鳞甲",
+          "龙鳞甲"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-fantasy-003-en",
+    "bookType": "fantasy",
+    "isChinese": false,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-fan003-w02-en",
+        "subType": "weather",
+        "name": "Aurora",
+        "currentIcon": "🌌",
+        "standardIcon": "🌌",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-w03-en",
+        "subType": "weather",
+        "name": "Darkness Falls",
+        "currentIcon": "🌑",
+        "standardIcon": "🌑",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-w04-en",
+        "subType": "weather",
+        "name": "Genesis Dawn",
+        "currentIcon": "🌅",
+        "standardIcon": "🌅",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-t03-en",
+        "subType": "terrain",
+        "name": "Temple",
+        "currentIcon": "⛩️",
+        "standardIcon": "⛩️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-t04-en",
+        "subType": "terrain",
+        "name": "Abyss",
+        "currentIcon": "🕳️",
+        "standardIcon": "🕳️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-a02-en",
+        "subType": "adventure",
+        "name": "Elemental Awakening",
+        "currentIcon": "🔥",
+        "standardIcon": "🔥",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-a03-en",
+        "subType": "adventure",
+        "name": "Guardian Mission",
+        "currentIcon": "🛡️",
+        "standardIcon": "🛡️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-a04-en",
+        "subType": "adventure",
+        "name": "Magic Duel",
+        "currentIcon": "⚡",
+        "standardIcon": "⚡",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-e01-en",
+        "subType": "equipment",
+        "name": "Dragon Scale Armor",
+        "currentIcon": "🛡️",
+        "standardIcon": "🛡️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-e02-en",
+        "subType": "equipment",
+        "name": "Elemental Gem",
+        "currentIcon": "💠",
+        "standardIcon": "💠",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-e03-en",
+        "subType": "equipment",
+        "name": "Magic Wand",
+        "currentIcon": "🪄",
+        "standardIcon": "🪄",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan003-04-en",
+        "subType": "equipment",
+        "name": "Dragon Scale Armor",
+        "currentIcon": "🛡️",
+        "standardIcon": "🛡️",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-fan003-w01-en",
+        "subType": "weather",
+        "name": "Fire Storm",
+        "currentIcon": "🔥"
+      },
+      {
+        "cardId": "card-fan003-t01-en",
+        "subType": "terrain",
+        "name": "Dragon Nest",
+        "currentIcon": "🐉"
+      },
+      {
+        "cardId": "card-fan003-t02-en",
+        "subType": "terrain",
+        "name": "Dragon Academy",
+        "currentIcon": "🏫"
+      },
+      {
+        "cardId": "card-fan003-a01-en",
+        "subType": "adventure",
+        "name": "Dragon Battle",
+        "currentIcon": "🐉"
+      },
+      {
+        "cardId": "card-fan003-e04-en",
+        "subType": "equipment",
+        "name": "Dragon Heart Medal",
+        "currentIcon": "🏅"
+      },
+      {
+        "cardId": "card-fan003-01-en",
+        "subType": "weather",
+        "name": "Fire Storm",
+        "currentIcon": "🔥"
+      },
+      {
+        "cardId": "card-fan003-02-en",
+        "subType": "terrain",
+        "name": "Dragon Nest",
+        "currentIcon": "🐉"
+      },
+      {
+        "cardId": "card-fan003-03-en",
+        "subType": "adventure",
+        "name": "Dragon Battle",
+        "currentIcon": "🐉"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🔥",
+        "count": 3,
+        "cards": [
+          "Fire Storm",
+          "Elemental Awakening",
+          "Fire Storm"
+        ]
+      },
+      {
+        "icon": "🐉",
+        "count": 4,
+        "cards": [
+          "Dragon Nest",
+          "Dragon Battle",
+          "Dragon Nest",
+          "Dragon Battle"
+        ]
+      },
+      {
+        "icon": "🛡️",
+        "count": 3,
+        "cards": [
+          "Guardian Mission",
+          "Dragon Scale Armor",
+          "Dragon Scale Armor"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-fantasy-004",
+    "bookType": "fantasy",
+    "isChinese": true,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-fan004-w01",
+        "subType": "weather",
+        "name": "时空裂隙",
+        "currentIcon": "🌀",
+        "standardIcon": "🕳️",
+        "needsUpdate": true
+      },
+      {
+        "cardId": "card-fan004-w02",
+        "subType": "weather",
+        "name": "极光",
+        "currentIcon": "🌌",
+        "standardIcon": "🌌",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-w03",
+        "subType": "weather",
+        "name": "黑暗降临",
+        "currentIcon": "🌑",
+        "standardIcon": "🌑",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-t01",
+        "subType": "terrain",
+        "name": "魔法塔",
+        "currentIcon": "🗼",
+        "standardIcon": "🗼",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-t03",
+        "subType": "terrain",
+        "name": "神殿",
+        "currentIcon": "⛩️",
+        "standardIcon": "⛩️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-a01",
+        "subType": "adventure",
+        "name": "时空穿梭",
+        "currentIcon": "⏳",
+        "standardIcon": "⏳",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-a03",
+        "subType": "adventure",
+        "name": "守护使命",
+        "currentIcon": "🛡️",
+        "standardIcon": "🛡️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-a04",
+        "subType": "adventure",
+        "name": "魔法对决",
+        "currentIcon": "⚡",
+        "standardIcon": "⚡",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-e01",
+        "subType": "equipment",
+        "name": "护身符",
+        "currentIcon": "🧿",
+        "standardIcon": "🧿",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-e02",
+        "subType": "equipment",
+        "name": "封印卷轴",
+        "currentIcon": "📜",
+        "standardIcon": "📜",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-01",
+        "subType": "weather",
+        "name": "时空裂隙",
+        "currentIcon": "🌀",
+        "standardIcon": "🕳️",
+        "needsUpdate": true
+      },
+      {
+        "cardId": "card-fan004-02",
+        "subType": "terrain",
+        "name": "魔法塔",
+        "currentIcon": "🗼",
+        "standardIcon": "🗼",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-03",
+        "subType": "adventure",
+        "name": "时空穿梭",
+        "currentIcon": "⏳",
+        "standardIcon": "⏳",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-04",
+        "subType": "equipment",
+        "name": "护身符",
+        "currentIcon": "🧿",
+        "standardIcon": "🧿",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-fan004-w04",
+        "subType": "weather",
+        "name": "创世晨曦",
+        "currentIcon": "🌅"
+      },
+      {
+        "cardId": "card-fan004-t02",
+        "subType": "terrain",
+        "name": "禁闭室",
+        "currentIcon": "🔒"
+      },
+      {
+        "cardId": "card-fan004-t04",
+        "subType": "terrain",
+        "name": "时空裂缝",
+        "currentIcon": "⏳"
+      },
+      {
+        "cardId": "card-fan004-a02",
+        "subType": "adventure",
+        "name": "解谜",
+        "currentIcon": "🧩"
+      },
+      {
+        "cardId": "card-fan004-e03",
+        "subType": "equipment",
+        "name": "魔杖",
+        "currentIcon": "🪄"
+      },
+      {
+        "cardId": "card-fan004-e04",
+        "subType": "equipment",
+        "name": "时空徽章",
+        "currentIcon": "🏅"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🌀",
+        "count": 2,
+        "cards": [
+          "时空裂隙",
+          "时空裂隙"
+        ]
+      },
+      {
+        "icon": "🗼",
+        "count": 2,
+        "cards": [
+          "魔法塔",
+          "魔法塔"
+        ]
+      },
+      {
+        "icon": "⏳",
+        "count": 3,
+        "cards": [
+          "时空裂缝",
+          "时空穿梭",
+          "时空穿梭"
+        ]
+      },
+      {
+        "icon": "🧿",
+        "count": 2,
+        "cards": [
+          "护身符",
+          "护身符"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-fantasy-004-en",
+    "bookType": "fantasy",
+    "isChinese": false,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-fan004-w01-en",
+        "subType": "weather",
+        "name": "Time Rift",
+        "currentIcon": "🌀",
+        "standardIcon": "🕳️",
+        "needsUpdate": true
+      },
+      {
+        "cardId": "card-fan004-w02-en",
+        "subType": "weather",
+        "name": "Aurora",
+        "currentIcon": "🌌",
+        "standardIcon": "🌌",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-w03-en",
+        "subType": "weather",
+        "name": "Darkness Falls",
+        "currentIcon": "🌑",
+        "standardIcon": "🌑",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-w04-en",
+        "subType": "weather",
+        "name": "Genesis Dawn",
+        "currentIcon": "🌅",
+        "standardIcon": "🌅",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-t01-en",
+        "subType": "terrain",
+        "name": "Magic Tower",
+        "currentIcon": "🗼",
+        "standardIcon": "🗼",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-t03-en",
+        "subType": "terrain",
+        "name": "Temple",
+        "currentIcon": "⛩️",
+        "standardIcon": "⛩️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-t04-en",
+        "subType": "terrain",
+        "name": "Time Fissure",
+        "currentIcon": "⏳",
+        "standardIcon": "⏳",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-a01-en",
+        "subType": "adventure",
+        "name": "Time Travel",
+        "currentIcon": "⏳",
+        "standardIcon": "⏳",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-a03-en",
+        "subType": "adventure",
+        "name": "Guardian Mission",
+        "currentIcon": "🛡️",
+        "standardIcon": "🛡️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-a04-en",
+        "subType": "adventure",
+        "name": "Magic Duel",
+        "currentIcon": "⚡",
+        "standardIcon": "⚡",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-e01-en",
+        "subType": "equipment",
+        "name": "Amulet",
+        "currentIcon": "🧿",
+        "standardIcon": "🧿",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-e03-en",
+        "subType": "equipment",
+        "name": "Magic Wand",
+        "currentIcon": "🪄",
+        "standardIcon": "🪄",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-01-en",
+        "subType": "weather",
+        "name": "Time Rift",
+        "currentIcon": "🌀",
+        "standardIcon": "🕳️",
+        "needsUpdate": true
+      },
+      {
+        "cardId": "card-fan004-02-en",
+        "subType": "terrain",
+        "name": "Magic Tower",
+        "currentIcon": "🗼",
+        "standardIcon": "🗼",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-03-en",
+        "subType": "adventure",
+        "name": "Time Travel",
+        "currentIcon": "⏳",
+        "standardIcon": "⏳",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-fan004-04-en",
+        "subType": "equipment",
+        "name": "Amulet",
+        "currentIcon": "🧿",
+        "standardIcon": "🧿",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-fan004-t02-en",
+        "subType": "terrain",
+        "name": "Locked Room",
+        "currentIcon": "🔒"
+      },
+      {
+        "cardId": "card-fan004-a02-en",
+        "subType": "adventure",
+        "name": "Solve Puzzles",
+        "currentIcon": "🧩"
+      },
+      {
+        "cardId": "card-fan004-e02-en",
+        "subType": "equipment",
+        "name": "Seal Scroll",
+        "currentIcon": "📜"
+      },
+      {
+        "cardId": "card-fan004-e04-en",
+        "subType": "equipment",
+        "name": "Time Badge",
+        "currentIcon": "🏅"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🌀",
+        "count": 2,
+        "cards": [
+          "Time Rift",
+          "Time Rift"
+        ]
+      },
+      {
+        "icon": "🗼",
+        "count": 2,
+        "cards": [
+          "Magic Tower",
+          "Magic Tower"
+        ]
+      },
+      {
+        "icon": "⏳",
+        "count": 3,
+        "cards": [
+          "Time Fissure",
+          "Time Travel",
+          "Time Travel"
+        ]
+      },
+      {
+        "icon": "🧿",
+        "count": 2,
+        "cards": [
+          "Amulet",
+          "Amulet"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-romance-003",
+    "bookType": "romance",
+    "isChinese": true,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-rom003-w01",
+        "subType": "weather",
+        "name": "夕阳",
+        "currentIcon": "🌇",
+        "standardIcon": "🌇",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-w02",
+        "subType": "weather",
+        "name": "雨天",
+        "currentIcon": "🌧️",
+        "standardIcon": "🌧️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-w03",
+        "subType": "weather",
+        "name": "晴天",
+        "currentIcon": "☀️",
+        "standardIcon": "☀️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-t02",
+        "subType": "terrain",
+        "name": "画廊",
+        "currentIcon": "🖼️",
+        "standardIcon": "🖼️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-a02",
+        "subType": "adventure",
+        "name": "约会",
+        "currentIcon": "🌹",
+        "standardIcon": "🌹",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-a03",
+        "subType": "adventure",
+        "name": "告白",
+        "currentIcon": "💕",
+        "standardIcon": "💕",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-a04",
+        "subType": "adventure",
+        "name": "求婚",
+        "currentIcon": "💍",
+        "standardIcon": "💍",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-e02",
+        "subType": "equipment",
+        "name": "咖啡",
+        "currentIcon": "☕",
+        "standardIcon": "☕",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-e03",
+        "subType": "equipment",
+        "name": "戒指",
+        "currentIcon": "💍",
+        "standardIcon": "💍",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-e04",
+        "subType": "equipment",
+        "name": "鲜花",
+        "currentIcon": "💐",
+        "standardIcon": "💐",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-01",
+        "subType": "weather",
+        "name": "夕阳",
+        "currentIcon": "🌇",
+        "standardIcon": "🌇",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-rom003-w04",
+        "subType": "weather",
+        "name": "月色",
+        "currentIcon": "🌙"
+      },
+      {
+        "cardId": "card-rom003-t01",
+        "subType": "terrain",
+        "name": "咖啡厅",
+        "currentIcon": "☕"
+      },
+      {
+        "cardId": "card-rom003-t03",
+        "subType": "terrain",
+        "name": "画室",
+        "currentIcon": "🎨"
+      },
+      {
+        "cardId": "card-rom003-t04",
+        "subType": "terrain",
+        "name": "街道",
+        "currentIcon": "🛤️"
+      },
+      {
+        "cardId": "card-rom003-a01",
+        "subType": "adventure",
+        "name": "邂逅",
+        "currentIcon": "💫"
+      },
+      {
+        "cardId": "card-rom003-e01",
+        "subType": "equipment",
+        "name": "画板",
+        "currentIcon": "🎨"
+      },
+      {
+        "cardId": "card-rom003-02",
+        "subType": "terrain",
+        "name": "咖啡厅",
+        "currentIcon": "☕"
+      },
+      {
+        "cardId": "card-rom003-03",
+        "subType": "adventure",
+        "name": "邂逅",
+        "currentIcon": "💫"
+      },
+      {
+        "cardId": "card-rom003-04",
+        "subType": "equipment",
+        "name": "画板",
+        "currentIcon": "🎨"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🌇",
+        "count": 2,
+        "cards": [
+          "夕阳",
+          "夕阳"
+        ]
+      },
+      {
+        "icon": "☕",
+        "count": 3,
+        "cards": [
+          "咖啡厅",
+          "咖啡",
+          "咖啡厅"
+        ]
+      },
+      {
+        "icon": "🎨",
+        "count": 3,
+        "cards": [
+          "画室",
+          "画板",
+          "画板"
+        ]
+      },
+      {
+        "icon": "💫",
+        "count": 2,
+        "cards": [
+          "邂逅",
+          "邂逅"
+        ]
+      },
+      {
+        "icon": "💍",
+        "count": 2,
+        "cards": [
+          "求婚",
+          "戒指"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-romance-003-en",
+    "bookType": "romance",
+    "isChinese": false,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-rom003-w01-en",
+        "subType": "weather",
+        "name": "Sunset",
+        "currentIcon": "🌇",
+        "standardIcon": "🌇",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-w04-en",
+        "subType": "weather",
+        "name": "Moonlight",
+        "currentIcon": "🌙",
+        "standardIcon": "🌙",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-t01-en",
+        "subType": "terrain",
+        "name": "Cafe",
+        "currentIcon": "☕",
+        "standardIcon": "☕",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-t02-en",
+        "subType": "terrain",
+        "name": "Gallery",
+        "currentIcon": "🖼️",
+        "standardIcon": "🖼️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-a02-en",
+        "subType": "adventure",
+        "name": "Date",
+        "currentIcon": "🌹",
+        "standardIcon": "🌹",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-a03-en",
+        "subType": "adventure",
+        "name": "Confession",
+        "currentIcon": "💕",
+        "standardIcon": "💕",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-a04-en",
+        "subType": "adventure",
+        "name": "Proposal",
+        "currentIcon": "💍",
+        "standardIcon": "💍",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-e02-en",
+        "subType": "equipment",
+        "name": "Coffee",
+        "currentIcon": "☕",
+        "standardIcon": "☕",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-e03-en",
+        "subType": "equipment",
+        "name": "Ring",
+        "currentIcon": "💍",
+        "standardIcon": "💍",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-e04-en",
+        "subType": "equipment",
+        "name": "Flowers",
+        "currentIcon": "💐",
+        "standardIcon": "💐",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-01-en",
+        "subType": "weather",
+        "name": "Sunset",
+        "currentIcon": "🌇",
+        "standardIcon": "🌇",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom003-02-en",
+        "subType": "terrain",
+        "name": "Cafe",
+        "currentIcon": "☕",
+        "standardIcon": "☕",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-rom003-w02-en",
+        "subType": "weather",
+        "name": "Rainy",
+        "currentIcon": "🌧️"
+      },
+      {
+        "cardId": "card-rom003-w03-en",
+        "subType": "weather",
+        "name": "Sunny",
+        "currentIcon": "☀️"
+      },
+      {
+        "cardId": "card-rom003-t03-en",
+        "subType": "terrain",
+        "name": "Studio",
+        "currentIcon": "🎨"
+      },
+      {
+        "cardId": "card-rom003-t04-en",
+        "subType": "terrain",
+        "name": "Street",
+        "currentIcon": "🛤️"
+      },
+      {
+        "cardId": "card-rom003-a01-en",
+        "subType": "adventure",
+        "name": "Encounter",
+        "currentIcon": "💫"
+      },
+      {
+        "cardId": "card-rom003-e01-en",
+        "subType": "equipment",
+        "name": "Easel",
+        "currentIcon": "🎨"
+      },
+      {
+        "cardId": "card-rom003-03-en",
+        "subType": "adventure",
+        "name": "Encounter",
+        "currentIcon": "💫"
+      },
+      {
+        "cardId": "card-rom003-04-en",
+        "subType": "equipment",
+        "name": "Easel",
+        "currentIcon": "🎨"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🌇",
+        "count": 2,
+        "cards": [
+          "Sunset",
+          "Sunset"
+        ]
+      },
+      {
+        "icon": "☕",
+        "count": 3,
+        "cards": [
+          "Cafe",
+          "Coffee",
+          "Cafe"
+        ]
+      },
+      {
+        "icon": "🎨",
+        "count": 3,
+        "cards": [
+          "Studio",
+          "Easel",
+          "Easel"
+        ]
+      },
+      {
+        "icon": "💫",
+        "count": 2,
+        "cards": [
+          "Encounter",
+          "Encounter"
+        ]
+      },
+      {
+        "icon": "💍",
+        "count": 2,
+        "cards": [
+          "Proposal",
+          "Ring"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-romance-004",
+    "bookType": "romance",
+    "isChinese": true,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-rom004-w01",
+        "subType": "weather",
+        "name": "樱花雨",
+        "currentIcon": "🌸",
+        "standardIcon": "🌸",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-w02",
+        "subType": "weather",
+        "name": "晴天",
+        "currentIcon": "☀️",
+        "standardIcon": "☀️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-w03",
+        "subType": "weather",
+        "name": "夕阳",
+        "currentIcon": "🌇",
+        "standardIcon": "🌇",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-t01",
+        "subType": "terrain",
+        "name": "校园",
+        "currentIcon": "🏫",
+        "standardIcon": "🏫",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-t02",
+        "subType": "terrain",
+        "name": "老街",
+        "currentIcon": "🏘️",
+        "standardIcon": "🏘️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-t03",
+        "subType": "terrain",
+        "name": "公园",
+        "currentIcon": "🌳",
+        "standardIcon": "🌳",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-a01",
+        "subType": "adventure",
+        "name": "重逢",
+        "currentIcon": "🎉",
+        "standardIcon": "🎉",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-a02",
+        "subType": "adventure",
+        "name": "约会",
+        "currentIcon": "🌹",
+        "standardIcon": "🌹",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-a03",
+        "subType": "adventure",
+        "name": "告白",
+        "currentIcon": "💕",
+        "standardIcon": "💕",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-a04",
+        "subType": "adventure",
+        "name": "求婚",
+        "currentIcon": "💍",
+        "standardIcon": "💍",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-e01",
+        "subType": "equipment",
+        "name": "信纸",
+        "currentIcon": "✉️",
+        "standardIcon": "✉️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-e02",
+        "subType": "equipment",
+        "name": "相机",
+        "currentIcon": "📷",
+        "standardIcon": "📷",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-e03",
+        "subType": "equipment",
+        "name": "戒指",
+        "currentIcon": "💍",
+        "standardIcon": "💍",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-e04",
+        "subType": "equipment",
+        "name": "鲜花",
+        "currentIcon": "💐",
+        "standardIcon": "💐",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-01",
+        "subType": "weather",
+        "name": "樱花雨",
+        "currentIcon": "🌸",
+        "standardIcon": "🌸",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-02",
+        "subType": "terrain",
+        "name": "校园",
+        "currentIcon": "🏫",
+        "standardIcon": "🏫",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-03",
+        "subType": "adventure",
+        "name": "重逢",
+        "currentIcon": "🎉",
+        "standardIcon": "🎉",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-04",
+        "subType": "equipment",
+        "name": "信纸",
+        "currentIcon": "✉️",
+        "standardIcon": "✉️",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-rom004-w04",
+        "subType": "weather",
+        "name": "月色",
+        "currentIcon": "🌙"
+      },
+      {
+        "cardId": "card-rom004-t04",
+        "subType": "terrain",
+        "name": "咖啡厅",
+        "currentIcon": "☕"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🌸",
+        "count": 2,
+        "cards": [
+          "樱花雨",
+          "樱花雨"
+        ]
+      },
+      {
+        "icon": "🏫",
+        "count": 2,
+        "cards": [
+          "校园",
+          "校园"
+        ]
+      },
+      {
+        "icon": "🎉",
+        "count": 2,
+        "cards": [
+          "重逢",
+          "重逢"
+        ]
+      },
+      {
+        "icon": "💍",
+        "count": 2,
+        "cards": [
+          "求婚",
+          "戒指"
+        ]
+      },
+      {
+        "icon": "✉️",
+        "count": 2,
+        "cards": [
+          "信纸",
+          "信纸"
+        ]
+      }
+    ]
+  },
+  {
+    "bookId": "preset-romance-004-en",
+    "bookType": "romance",
+    "isChinese": false,
+    "totalCards": 20,
+    "matchedCards": [
+      {
+        "cardId": "card-rom004-w03-en",
+        "subType": "weather",
+        "name": "Sunset",
+        "currentIcon": "🌇",
+        "standardIcon": "🌇",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-w04-en",
+        "subType": "weather",
+        "name": "Moonlight",
+        "currentIcon": "🌙",
+        "standardIcon": "🌙",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-t01-en",
+        "subType": "terrain",
+        "name": "Campus",
+        "currentIcon": "🏫",
+        "standardIcon": "🏫",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-t02-en",
+        "subType": "terrain",
+        "name": "Old Street",
+        "currentIcon": "🏘️",
+        "standardIcon": "🏘️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-t03-en",
+        "subType": "terrain",
+        "name": "Park",
+        "currentIcon": "🌳",
+        "standardIcon": "🌳",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-t04-en",
+        "subType": "terrain",
+        "name": "Cafe",
+        "currentIcon": "☕",
+        "standardIcon": "☕",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-a01-en",
+        "subType": "adventure",
+        "name": "Reunion",
+        "currentIcon": "🎉",
+        "standardIcon": "🎉",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-a02-en",
+        "subType": "adventure",
+        "name": "Date",
+        "currentIcon": "🌹",
+        "standardIcon": "🌹",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-a03-en",
+        "subType": "adventure",
+        "name": "Confession",
+        "currentIcon": "💕",
+        "standardIcon": "💕",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-a04-en",
+        "subType": "adventure",
+        "name": "Proposal",
+        "currentIcon": "💍",
+        "standardIcon": "💍",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-e01-en",
+        "subType": "equipment",
+        "name": "Letter Paper",
+        "currentIcon": "✉️",
+        "standardIcon": "✉️",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-e02-en",
+        "subType": "equipment",
+        "name": "Camera",
+        "currentIcon": "📷",
+        "standardIcon": "📷",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-e03-en",
+        "subType": "equipment",
+        "name": "Ring",
+        "currentIcon": "💍",
+        "standardIcon": "💍",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-e04-en",
+        "subType": "equipment",
+        "name": "Flowers",
+        "currentIcon": "💐",
+        "standardIcon": "💐",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-02-en",
+        "subType": "terrain",
+        "name": "Campus",
+        "currentIcon": "🏫",
+        "standardIcon": "🏫",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-03-en",
+        "subType": "adventure",
+        "name": "Reunion",
+        "currentIcon": "🎉",
+        "standardIcon": "🎉",
+        "needsUpdate": false
+      },
+      {
+        "cardId": "card-rom004-04-en",
+        "subType": "equipment",
+        "name": "Letter Paper",
+        "currentIcon": "✉️",
+        "standardIcon": "✉️",
+        "needsUpdate": false
+      }
+    ],
+    "unmatchedCards": [
+      {
+        "cardId": "card-rom004-w01-en",
+        "subType": "weather",
+        "name": "Cherry Blossoms",
+        "currentIcon": "🌸"
+      },
+      {
+        "cardId": "card-rom004-w02-en",
+        "subType": "weather",
+        "name": "Sunny",
+        "currentIcon": "☀️"
+      },
+      {
+        "cardId": "card-rom004-01-en",
+        "subType": "weather",
+        "name": "Cherry Blossoms",
+        "currentIcon": "🌸"
+      }
+    ],
+    "duplicateEmojis": [
+      {
+        "icon": "🌸",
+        "count": 2,
+        "cards": [
+          "Cherry Blossoms",
+          "Cherry Blossoms"
+        ]
+      },
+      {
+        "icon": "🏫",
+        "count": 2,
+        "cards": [
+          "Campus",
+          "Campus"
+        ]
+      },
+      {
+        "icon": "🎉",
+        "count": 2,
+        "cards": [
+          "Reunion",
+          "Reunion"
+        ]
+      },
+      {
+        "icon": "💍",
+        "count": 2,
+        "cards": [
+          "Proposal",
+          "Ring"
+        ]
+      },
+      {
+        "icon": "✉️",
+        "count": 2,
+        "cards": [
+          "Letter Paper",
+          "Letter Paper"
+        ]
+      }
+    ]
+  }
+]
