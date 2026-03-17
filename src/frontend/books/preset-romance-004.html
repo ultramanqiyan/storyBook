@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>青梅竹马的重逢 - StoryBook</title>
   <meta name="description" content="青梅竹马的重逢 - AI互动故事">
-  <meta name="keywords" content="互动故事, AI故事, 青梅竹马的重逢, 言情">
+  <meta name="keywords" content="苏晴, 江辰, 小糖, human, work, memory, 言情, AI故事">
   <meta property="og:title" content="青梅竹马的重逢 - StoryBook">
   <meta property="og:description" content="青梅竹马的重逢 - AI互动故事">
   <meta property="og:type" content="book">
@@ -292,6 +292,45 @@
       box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
     }
     
+    .action-btn-secondary {
+      background: transparent;
+      border: 2px solid #8B4513;
+      color: #4a3a2a;
+    }
+    
+    .action-btn-secondary:hover {
+      background: rgba(139, 69, 19, 0.1);
+    }
+    
+    .action-btn-primary {
+      background: linear-gradient(180deg, #D4AF37 0%, #B8860B 100%);
+      border: 2px solid #FFD700;
+      color: #1a1008;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 8px 20px;
+      min-width: 160px;
+    }
+    
+    .action-btn-primary:hover {
+      background: linear-gradient(180deg, #FFD700 0%, #D4AF37 100%);
+      box-shadow: 0 4px 20px rgba(212, 175, 55, 0.5);
+    }
+    
+    .action-btn-primary .btn-main {
+      font-size: 13px;
+      font-weight: bold;
+      line-height: 1.3;
+    }
+    
+    .action-btn-primary .btn-sub {
+      font-size: 10px;
+      opacity: 0.8;
+      font-weight: normal;
+      line-height: 1.2;
+    }
+    
     .chapter-toc {
       display: flex;
       flex-direction: column;
@@ -434,8 +473,11 @@
                 <span>👥 3 角色</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapters/chapter-rom004-01.html" class="action-btn">开始阅读</a>
-                <button class="action-btn" onclick="importPresetBook()">续写这个故事</button>
+                <a href="../chapters/chapter-rom004-01.html" class="action-btn action-btn-secondary">开始阅读</a>
+                <button class="action-btn action-btn-primary" onclick="importPresetBook()">
+                  <span class="btn-main">续写这个故事</span>
+                  <span class="btn-sub">用卡牌创作新章节</span>
+                </button>
               </div>
             </div>
           </div>
@@ -526,8 +568,8 @@
       title: '青梅竹马的重逢',
       type: 'romance',
       chapters: [{"chapterId":"chapter-rom004-01","title":"回乡","orderNum":1},{"chapterId":"chapter-rom004-02","title":"重逢","orderNum":2},{"chapterId":"chapter-rom004-03","title":"回忆","orderNum":3},{"chapterId":"chapter-rom004-04","title":"暧昧","orderNum":4},{"chapterId":"chapter-rom004-05","title":"表白","orderNum":5},{"chapterId":"chapter-rom004-06","title":"甜蜜","orderNum":6},{"chapterId":"chapter-rom004-07","title":"考验","orderNum":7},{"chapterId":"chapter-rom004-08","title":"选择","orderNum":8},{"chapterId":"chapter-rom004-09","title":"求婚","orderNum":9},{"chapterId":"chapter-rom004-10","title":"幸福","orderNum":10}],
-      characters: [{"charId":"char-rom004-001","name":"苏晴","roleType":"设计师","personality":"独立坚强、怀念过去、害怕改变","avatar":"👩","isProtagonist":true},{"charId":"char-rom004-002","name":"江辰","roleType":"建筑师","personality":"温柔专一、默默守护、有担当","avatar":"👨","isProtagonist":false},{"charId":"char-rom004-003","name":"小糖","roleType":"妹妹","personality":"可爱调皮、喜欢撮合、助攻担当","avatar":"👧","isProtagonist":false}],
-      plotCards: [{"card_id":"card-rom004-01","sub_type":"weather","name":"樱花雨","icon":"🌸","description":"樱花飘落的美景，浪漫的回忆"},{"card_id":"card-rom004-02","sub_type":"terrain","name":"校园","icon":"🏫","description":"青春的校园，回忆的地方"},{"card_id":"card-rom004-03","sub_type":"adventure","name":"重逢","icon":"🎉","description":"再次相遇，旧情复燃"},{"card_id":"card-rom004-04","sub_type":"equipment","name":"信纸","icon":"✉️","description":"手写的情书，传递心意"},{"card_id":"card-rom004-w02","sub_type":"weather","name":"晴天","icon":"☀️","description":"阳光明媚，\r\n重逢的日子"},{"card_id":"card-rom004-w03","sub_type":"weather","name":"夕阳","icon":"🌇","description":"浪漫的夕阳"},{"card_id":"card-rom004-w04","sub_type":"weather","name":"月色","icon":"🌙","description":"皎洁的月光"},{"card_id":"card-rom004-t02","sub_type":"terrain","name":"老街","icon":"🏘️","description":"怀旧的老街"},{"card_id":"card-rom004-t03","sub_type":"terrain","name":"公园","icon":"🌳","description":"安静的公园"},{"card_id":"card-rom004-t04","sub_type":"terrain","name":"咖啡厅","icon":"☕","description":"温馨的咖啡厅"},{"card_id":"card-rom004-a02","sub_type":"adventure","name":"约会","icon":"🌹","description":"甜蜜的约会"},{"card_id":"card-rom004-a03","sub_type":"adventure","name":"告白","icon":"💕","description":"勇敢的表白"},{"card_id":"card-rom004-a04","sub_type":"adventure","name":"求婚","icon":"💍","description":"浪漫的求婚"},{"card_id":"card-rom004-e02","sub_type":"equipment","name":"相机","icon":"📷","description":"记录美好瞬间"},{"card_id":"card-rom004-e03","sub_type":"equipment","name":"戒指","icon":"💍","description":"爱情的象征"},{"card_id":"card-rom004-e04","sub_type":"equipment","name":"鲜花","icon":"💐","description":"浪漫的礼物"}]
+      characters: [{"charId":"char-rom004-001","name":"苏晴","roleType":"设计师","personality":"独立坚强、怀念过去、害怕改变","avatar":"👩","isProtagonist":1},{"charId":"char-rom004-002","name":"江辰","roleType":"建筑师","personality":"温柔专一、默默守护、有担当","avatar":"👨","isProtagonist":0},{"charId":"char-rom004-003","name":"小糖","roleType":"妹妹","personality":"可爱调皮、喜欢撮合、助攻担当","avatar":"👧","isProtagonist":0}],
+      plotCards: [{"card_id":"preset-romance-004-weather-1773788764467-um1naeayk","sub_type":"weather","name":"霓虹","icon":"🌃","description":"城市的霓虹灯"},{"card_id":"preset-romance-004-weather-1773788764467-xl3i53405","sub_type":"weather","name":"星空","icon":"⭐","description":"繁星点点"},{"card_id":"preset-romance-004-weather-1773788764467-v40kcb0gq","sub_type":"weather","name":"樱花雨","icon":"🌸","description":"樱花飘落的美景"},{"card_id":"preset-romance-004-weather-1773788764467-dww9myi8d","sub_type":"weather","name":"雪天","icon":"🌨️","description":"飘雪的日子"},{"card_id":"preset-romance-004-weather-1773788764467-0d68eixdo","sub_type":"weather","name":"黎明","icon":"🌤️","description":"新的一天开始"},{"card_id":"preset-romance-004-weather-1773788764467-en5vrxye3","sub_type":"weather","name":"阴天","icon":"☁️","description":"阴沉的天空"},{"card_id":"preset-romance-004-weather-1773788764467-0pri5asru","sub_type":"weather","name":"初雪","icon":"❄️","description":"第一场雪"},{"card_id":"preset-romance-004-weather-1773788764467-5xt6seazi","sub_type":"weather","name":"夕阳","icon":"🌇","description":"浪漫的夕阳"},{"card_id":"preset-romance-004-terrain-1773788764467-4ejjl1jg9","sub_type":"terrain","name":"地铁站","icon":"🚇","description":"繁忙的地铁站"},{"card_id":"preset-romance-004-terrain-1773788764467-srewaek19","sub_type":"terrain","name":"公园","icon":"🌳","description":"安静的公园"},{"card_id":"preset-romance-004-terrain-1773788764467-pslygcm5x","sub_type":"terrain","name":"画廊","icon":"🖼️","description":"艺术的画廊"},{"card_id":"preset-romance-004-terrain-1773788764467-f2eegd9d1","sub_type":"terrain","name":"学校","icon":"🎓","description":"回忆的学校"},{"card_id":"preset-romance-004-terrain-1773788764467-sh0sx6cbq","sub_type":"terrain","name":"餐厅","icon":"🍽️","description":"浪漫的餐厅"},{"card_id":"preset-romance-004-terrain-1773788764467-fek0kj2xx","sub_type":"terrain","name":"老街","icon":"🏘️","description":"怀旧的老街"},{"card_id":"preset-romance-004-terrain-1773788764467-52toqqzsl","sub_type":"terrain","name":"咖啡厅","icon":"☕","description":"温馨的咖啡厅"},{"card_id":"preset-romance-004-terrain-1773788764467-68vml9yy5","sub_type":"terrain","name":"酒吧","icon":"🍸","description":"放松的酒吧"},{"card_id":"preset-romance-004-adventure-1773788764467-pdd7n3bqb","sub_type":"adventure","name":"告白","icon":"💕","description":"勇敢的表白"},{"card_id":"preset-romance-004-adventure-1773788764467-cziuy2fs4","sub_type":"adventure","name":"邂逅","icon":"💫","description":"命运的相遇"},{"card_id":"preset-romance-004-adventure-1773788764467-84c7a7vpk","sub_type":"adventure","name":"表白","icon":"💌","description":"表达心意"},{"card_id":"preset-romance-004-adventure-1773788764467-4c2qmxpx4","sub_type":"adventure","name":"追求","icon":"💝","description":"努力追求"},{"card_id":"preset-romance-004-adventure-1773788764467-2yo4rg72s","sub_type":"adventure","name":"和解","icon":"🤝","description":"重归于好"},{"card_id":"preset-romance-004-adventure-1773788764467-za9s6i6j0","sub_type":"adventure","name":"同居","icon":"🏠","description":"开始共同生活"},{"card_id":"preset-romance-004-adventure-1773788764467-tjsvu6l7t","sub_type":"adventure","name":"重逢","icon":"🎉","description":"再次相遇"},{"card_id":"preset-romance-004-adventure-1773788764467-q14ljg0yg","sub_type":"adventure","name":"离婚","icon":"💔","description":"痛苦的分离"},{"card_id":"preset-romance-004-equipment-1773788764467-0ckpgp1u6","sub_type":"equipment","name":"手机","icon":"📱","description":"联系的工具"},{"card_id":"preset-romance-004-equipment-1773788764467-ur6mvnfi7","sub_type":"equipment","name":"咖啡","icon":"☕","description":"温暖的咖啡"},{"card_id":"preset-romance-004-equipment-1773788764467-4bhzuqd46","sub_type":"equipment","name":"钢琴","icon":"🎹","description":"优美的音乐"},{"card_id":"preset-romance-004-equipment-1773788764467-arn4c1cbm","sub_type":"equipment","name":"耳机","icon":"🎧","description":"分享音乐"},{"card_id":"preset-romance-004-equipment-1773788764467-so38yev55","sub_type":"equipment","name":"红酒","icon":"🍷","description":"浪漫的饮品"},{"card_id":"preset-romance-004-equipment-1773788764467-usdkmaql6","sub_type":"equipment","name":"书本","icon":"📚","description":"共同的爱好"},{"card_id":"preset-romance-004-equipment-1773788764467-ps6sou7ot","sub_type":"equipment","name":"蛋糕","icon":"🎂","description":"甜蜜的甜点"},{"card_id":"preset-romance-004-equipment-1773788764467-fccx76ayf","sub_type":"equipment","name":"相机","icon":"📷","description":"记录美好瞬间"}]
     };
     
     let currentView = 'chapters';
@@ -598,7 +640,7 @@
       const rightCards = cards.slice(half);
       
       function renderPlotCard(card, index) {
-        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.cardId + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
+        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
           '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 13px; margin-top: 10px; text-align: center;">' + card.name + '</div>' +
           '<div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">' + (card.description || '') + '</div>' +
@@ -610,7 +652,7 @@
     }
     
     function showPlotCardDetail(cardId) {
-      const card = bookData.plotCards.find(c => c.cardId === cardId);
+      const card = bookData.plotCards.find(c => c.card_id === cardId);
       if (!card) return;
       
       const modal = document.getElementById('cardModal');
@@ -677,13 +719,12 @@
       const userId = localStorage.getItem('user_id');
       
       if (!userId) {
-        alert('请先登录');
         window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
       btn.disabled = true;
-      btn.textContent = '处理中...';
+      btn.innerHTML = '<span class="btn-main">' + '处理中...' + '</span>';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -694,7 +735,7 @@
         
         if (response.ok) {
           const result = await response.json();
-          btn.textContent = '已添加到书架！';
+          btn.innerHTML = '<span class="btn-main">' + '已添加到书架！' + '</span>';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -702,10 +743,10 @@
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.textContent = '操作失败';
+        btn.innerHTML = '<span class="btn-main">' + '操作失败' + '</span>';
         btn.disabled = false;
         setTimeout(() => {
-          btn.textContent = '续写这个故事';
+          btn.innerHTML = '<span class="btn-main">续写这个故事</span><span class="btn-sub">用卡牌创作新章节</span>';
         }, 2000);
       }
     }

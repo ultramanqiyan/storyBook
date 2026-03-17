@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>龙族守护者 - StoryBook</title>
   <meta name="description" content="龙族守护者 - AI互动故事">
-  <meta name="keywords" content="互动故事, AI故事, 龙族守护者, 奇幻">
+  <meta name="keywords" content="龙炎, 小火, 龙长老, human, justice, 奇幻, AI故事, 互动故事">
   <meta property="og:title" content="龙族守护者 - StoryBook">
   <meta property="og:description" content="龙族守护者 - AI互动故事">
   <meta property="og:type" content="book">
@@ -292,6 +292,45 @@
       box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
     }
     
+    .action-btn-secondary {
+      background: transparent;
+      border: 2px solid #8B4513;
+      color: #4a3a2a;
+    }
+    
+    .action-btn-secondary:hover {
+      background: rgba(139, 69, 19, 0.1);
+    }
+    
+    .action-btn-primary {
+      background: linear-gradient(180deg, #D4AF37 0%, #B8860B 100%);
+      border: 2px solid #FFD700;
+      color: #1a1008;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 8px 20px;
+      min-width: 160px;
+    }
+    
+    .action-btn-primary:hover {
+      background: linear-gradient(180deg, #FFD700 0%, #D4AF37 100%);
+      box-shadow: 0 4px 20px rgba(212, 175, 55, 0.5);
+    }
+    
+    .action-btn-primary .btn-main {
+      font-size: 13px;
+      font-weight: bold;
+      line-height: 1.3;
+    }
+    
+    .action-btn-primary .btn-sub {
+      font-size: 10px;
+      opacity: 0.8;
+      font-weight: normal;
+      line-height: 1.2;
+    }
+    
     .chapter-toc {
       display: flex;
       flex-direction: column;
@@ -434,8 +473,11 @@
                 <span>👥 3 角色</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapters/chapter-fan003-01.html" class="action-btn">开始阅读</a>
-                <button class="action-btn" onclick="importPresetBook()">续写这个故事</button>
+                <a href="../chapters/chapter-fan003-01.html" class="action-btn action-btn-secondary">开始阅读</a>
+                <button class="action-btn action-btn-primary" onclick="importPresetBook()">
+                  <span class="btn-main">续写这个故事</span>
+                  <span class="btn-sub">用卡牌创作新章节</span>
+                </button>
               </div>
             </div>
           </div>
@@ -526,8 +568,8 @@
       title: '龙族守护者',
       type: 'fantasy',
       chapters: [{"chapterId":"chapter-fan003-01","title":"龙蛋的召唤","orderNum":1},{"chapterId":"chapter-fan003-02","title":"龙族学院","orderNum":2},{"chapterId":"chapter-fan003-03","title":"火焰试炼","orderNum":3},{"chapterId":"chapter-fan003-04","title":"黑暗龙的威胁","orderNum":4},{"chapterId":"chapter-fan003-05","title":"第一次战斗","orderNum":5},{"chapterId":"chapter-fan003-06","title":"龙族秘密","orderNum":6},{"chapterId":"chapter-fan003-07","title":"特训","orderNum":7},{"chapterId":"chapter-fan003-08","title":"黑暗龙的巢穴","orderNum":8},{"chapterId":"chapter-fan003-09","title":"最终决战","orderNum":9},{"chapterId":"chapter-fan003-10","title":"新的守护者","orderNum":10}],
-      characters: [{"charId":"char-fan003-001","name":"龙炎","roleType":"龙族守护者","personality":"勇敢正义、热血冲动、重情重义","avatar":"🐉","isProtagonist":true},{"charId":"char-fan003-002","name":"小火","roleType":"龙族精灵","personality":"调皮活泼、火焰之力、忠诚伙伴","avatar":"🔥","isProtagonist":false},{"charId":"char-fan003-003","name":"龙长老","roleType":"龙族智者","personality":"古老睿智、守护龙族秘密","avatar":"🐲","isProtagonist":false}],
-      plotCards: [{"card_id":"card-fan003-01","sub_type":"weather","name":"火焰风暴","icon":"🔥","description":"火焰与龙息交织的风暴"},{"card_id":"card-fan003-02","sub_type":"terrain","name":"龙之巢","icon":"🐉","description":"巨龙的巢穴，龙族的家园"},{"card_id":"card-fan003-03","sub_type":"adventure","name":"屠龙","icon":"🐉","description":"挑战巨龙，证明勇气"},{"card_id":"card-fan003-04","sub_type":"equipment","name":"龙鳞甲","icon":"🛡️","description":"龙鳞制成的护甲，坚不可摧"},{"card_id":"card-fan003-w02","sub_type":"weather","name":"极光","icon":"🌌","description":"绚丽的魔法极光"},{"card_id":"card-fan003-w03","sub_type":"weather","name":"黑暗降临","icon":"🌑","description":"无尽的黑暗"},{"card_id":"card-fan003-w04","sub_type":"weather","name":"创世晨曦","icon":"🌅","description":"创世之初的光芒"},{"card_id":"card-fan003-t02","sub_type":"terrain","name":"龙族学院","icon":"🏫","description":"培养龙族守护者的地方"},{"card_id":"card-fan003-t03","sub_type":"terrain","name":"神殿","icon":"⛩️","description":"神圣的殿堂"},{"card_id":"card-fan003-t04","sub_type":"terrain","name":"深渊","icon":"🕳️","description":"无尽的深渊"},{"card_id":"card-fan003-a02","sub_type":"adventure","name":"元素觉醒","icon":"🔥","description":"掌控元素之力"},{"card_id":"card-fan003-a03","sub_type":"adventure","name":"守护使命","icon":"🛡️","description":"守护龙族"},{"card_id":"card-fan003-a04","sub_type":"adventure","name":"魔法对决","icon":"⚡","description":"魔法师的决斗"},{"card_id":"card-fan003-e02","sub_type":"equipment","name":"元素宝石","icon":"💠","description":"储存元素之力"},{"card_id":"card-fan003-e03","sub_type":"equipment","name":"魔杖","icon":"🪄","description":"施展魔法的法杖"},{"card_id":"card-fan003-e04","sub_type":"equipment","name":"龙心勋章","icon":"🏅","description":"龙族最高荣誉"}]
+      characters: [{"charId":"char-fan003-001","name":"龙炎","roleType":"龙族守护者","personality":"勇敢正义、热血冲动、重情重义","avatar":"🐉","isProtagonist":1},{"charId":"char-fan003-002","name":"小火","roleType":"龙族精灵","personality":"调皮活泼、火焰之力、忠诚伙伴","avatar":"🔥","isProtagonist":0},{"charId":"char-fan003-003","name":"龙长老","roleType":"龙族智者","personality":"古老睿智、守护龙族秘密","avatar":"🐲","isProtagonist":0}],
+      plotCards: [{"card_id":"preset-fantasy-003-weather-1773788764443-g9s6iexh9","sub_type":"weather","name":"永恒黄昏","icon":"🌆","description":"永不消逝的黄昏"},{"card_id":"preset-fantasy-003-weather-1773788764443-4gidajqss","sub_type":"weather","name":"精灵光","icon":"🧚","description":"精灵的光芒"},{"card_id":"preset-fantasy-003-weather-1773788764443-6mi9hh0ox","sub_type":"weather","name":"黑暗降临","icon":"🌑","description":"无尽的黑暗"},{"card_id":"preset-fantasy-003-weather-1773788764443-re4y1yhcg","sub_type":"weather","name":"极光","icon":"🌌","description":"绚丽的魔法极光"},{"card_id":"preset-fantasy-003-weather-1773788764443-uukcl59cc","sub_type":"weather","name":"魔法风暴","icon":"🌀","description":"充满魔力的风暴"},{"card_id":"preset-fantasy-003-weather-1773788764443-f08ws9h6p","sub_type":"weather","name":"传送门光","icon":"🚪","description":"传送门的神秘光芒"},{"card_id":"preset-fantasy-003-weather-1773788764443-wwf6rsfz1","sub_type":"weather","name":"魔法雨","icon":"💧","description":"充满魔力的雨水"},{"card_id":"preset-fantasy-003-weather-1773788764443-r4gyse2wh","sub_type":"weather","name":"觉醒之光","icon":"🌟","description":"力量觉醒的光芒"},{"card_id":"preset-fantasy-003-terrain-1773788764443-lx2w5sh6g","sub_type":"terrain","name":"龙之巢","icon":"🐉","description":"巨龙的巢穴"},{"card_id":"preset-fantasy-003-terrain-1773788764443-bt930jtyx","sub_type":"terrain","name":"神殿","icon":"⛩️","description":"神圣的殿堂"},{"card_id":"preset-fantasy-003-terrain-1773788764443-i3p1v49lp","sub_type":"terrain","name":"元素位面","icon":"🔥","description":"元素的世界"},{"card_id":"preset-fantasy-003-terrain-1773788764443-gfrc47a9z","sub_type":"terrain","name":"水晶洞穴","icon":"💎","description":"水晶闪耀的洞穴"},{"card_id":"preset-fantasy-003-terrain-1773788764443-5j3el4vnh","sub_type":"terrain","name":"精灵村落","icon":"🧚","description":"精灵的家园"},{"card_id":"preset-fantasy-003-terrain-1773788764443-3duvdqqcr","sub_type":"terrain","name":"兽人领地","icon":"👹","description":"兽人的地盘"},{"card_id":"preset-fantasy-003-terrain-1773788764443-8yjbv1cag","sub_type":"terrain","name":"异世界","icon":"🌐","description":"另一个维度"},{"card_id":"preset-fantasy-003-terrain-1773788764443-70h3v8ld3","sub_type":"terrain","name":"深渊","icon":"🕳️","description":"无尽的深渊"},{"card_id":"preset-fantasy-003-adventure-1773788764443-i5kv2fwds","sub_type":"adventure","name":"解除诅咒","icon":"🔮","description":"解除古老的诅咒"},{"card_id":"preset-fantasy-003-adventure-1773788764443-xshumxiy1","sub_type":"adventure","name":"屠龙","icon":"🐉","description":"挑战巨龙"},{"card_id":"preset-fantasy-003-adventure-1773788764443-5hw2xhy9d","sub_type":"adventure","name":"穿越异界","icon":"🌀","description":"穿越到另一个世界"},{"card_id":"preset-fantasy-003-adventure-1773788764443-f1mro1brr","sub_type":"adventure","name":"寻找神器","icon":"⚔️","description":"寻找传说中的神器"},{"card_id":"preset-fantasy-003-adventure-1773788764443-43oljalqf","sub_type":"adventure","name":"精灵结盟","icon":"🧚","description":"与精灵结为盟友"},{"card_id":"preset-fantasy-003-adventure-1773788764443-yacd6esif","sub_type":"adventure","name":"元素融合","icon":"🌈","description":"融合元素之力"},{"card_id":"preset-fantasy-003-adventure-1773788764443-2ragxmq81","sub_type":"adventure","name":"觉醒力量","icon":"💫","description":"觉醒隐藏的力量"},{"card_id":"preset-fantasy-003-adventure-1773788764443-fioukbgxe","sub_type":"adventure","name":"魔法测试","icon":"📝","description":"通过魔法试炼"},{"card_id":"preset-fantasy-003-equipment-1773788764443-g76m9nfg3","sub_type":"equipment","name":"灵魂石","icon":"💜","description":"储存灵魂"},{"card_id":"preset-fantasy-003-equipment-1773788764443-7e7md15iv","sub_type":"equipment","name":"召唤石","icon":"💎","description":"召唤生物"},{"card_id":"preset-fantasy-003-equipment-1773788764443-5qlq32e7y","sub_type":"equipment","name":"魔杖","icon":"🪄","description":"施展魔法的法杖"},{"card_id":"preset-fantasy-003-equipment-1773788764443-ckl70kmf3","sub_type":"equipment","name":"元素宝石","icon":"💠","description":"储存元素之力"},{"card_id":"preset-fantasy-003-equipment-1773788764443-5lvh5i4li","sub_type":"equipment","name":"魔法药水","icon":"🧪","description":"各种效果的药水"},{"card_id":"preset-fantasy-003-equipment-1773788764443-jpc4g3lwc","sub_type":"equipment","name":"水晶球","icon":"🔮","description":"占卜和储存魔力"},{"card_id":"preset-fantasy-003-equipment-1773788764443-j4rim4eed","sub_type":"equipment","name":"精灵弓","icon":"🏹","description":"精灵制作的弓"},{"card_id":"preset-fantasy-003-equipment-1773788764443-410zlyo3f","sub_type":"equipment","name":"元素法杖","icon":"🔥","description":"操控元素"}]
     };
     
     let currentView = 'chapters';
@@ -598,7 +640,7 @@
       const rightCards = cards.slice(half);
       
       function renderPlotCard(card, index) {
-        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.cardId + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
+        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
           '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 13px; margin-top: 10px; text-align: center;">' + card.name + '</div>' +
           '<div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">' + (card.description || '') + '</div>' +
@@ -610,7 +652,7 @@
     }
     
     function showPlotCardDetail(cardId) {
-      const card = bookData.plotCards.find(c => c.cardId === cardId);
+      const card = bookData.plotCards.find(c => c.card_id === cardId);
       if (!card) return;
       
       const modal = document.getElementById('cardModal');
@@ -677,13 +719,12 @@
       const userId = localStorage.getItem('user_id');
       
       if (!userId) {
-        alert('请先登录');
         window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
       btn.disabled = true;
-      btn.textContent = '处理中...';
+      btn.innerHTML = '<span class="btn-main">' + '处理中...' + '</span>';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -694,7 +735,7 @@
         
         if (response.ok) {
           const result = await response.json();
-          btn.textContent = '已添加到书架！';
+          btn.innerHTML = '<span class="btn-main">' + '已添加到书架！' + '</span>';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -702,10 +743,10 @@
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.textContent = '操作失败';
+        btn.innerHTML = '<span class="btn-main">' + '操作失败' + '</span>';
         btn.disabled = false;
         setTimeout(() => {
-          btn.textContent = '续写这个故事';
+          btn.innerHTML = '<span class="btn-main">续写这个故事</span><span class="btn-sub">用卡牌创作新章节</span>';
         }, 2000);
       }
     }

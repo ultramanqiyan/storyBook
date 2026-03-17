@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>职场新人逆袭记 - StoryBook</title>
   <meta name="description" content="职场新人逆袭记 - AI互动故事">
-  <meta name="keywords" content="互动故事, AI故事, 职场新人逆袭记, 职场">
+  <meta name="keywords" content="李小白, 陈姐, 刘经理, creativity, human, work, future, memory">
   <meta property="og:title" content="职场新人逆袭记 - StoryBook">
   <meta property="og:description" content="职场新人逆袭记 - AI互动故事">
   <meta property="og:type" content="book">
@@ -292,6 +292,45 @@
       box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
     }
     
+    .action-btn-secondary {
+      background: transparent;
+      border: 2px solid #8B4513;
+      color: #4a3a2a;
+    }
+    
+    .action-btn-secondary:hover {
+      background: rgba(139, 69, 19, 0.1);
+    }
+    
+    .action-btn-primary {
+      background: linear-gradient(180deg, #D4AF37 0%, #B8860B 100%);
+      border: 2px solid #FFD700;
+      color: #1a1008;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 8px 20px;
+      min-width: 160px;
+    }
+    
+    .action-btn-primary:hover {
+      background: linear-gradient(180deg, #FFD700 0%, #D4AF37 100%);
+      box-shadow: 0 4px 20px rgba(212, 175, 55, 0.5);
+    }
+    
+    .action-btn-primary .btn-main {
+      font-size: 13px;
+      font-weight: bold;
+      line-height: 1.3;
+    }
+    
+    .action-btn-primary .btn-sub {
+      font-size: 10px;
+      opacity: 0.8;
+      font-weight: normal;
+      line-height: 1.2;
+    }
+    
     .chapter-toc {
       display: flex;
       flex-direction: column;
@@ -434,8 +473,11 @@
                 <span>👥 3 角色</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapters/chapter-bus004-01.html" class="action-btn">开始阅读</a>
-                <button class="action-btn" onclick="importPresetBook()">续写这个故事</button>
+                <a href="../chapters/chapter-bus004-01.html" class="action-btn action-btn-secondary">开始阅读</a>
+                <button class="action-btn action-btn-primary" onclick="importPresetBook()">
+                  <span class="btn-main">续写这个故事</span>
+                  <span class="btn-sub">用卡牌创作新章节</span>
+                </button>
               </div>
             </div>
           </div>
@@ -526,8 +568,8 @@
       title: '职场新人逆袭记',
       type: 'business',
       chapters: [{"chapterId":"chapter-bus004-01","title":"入职第一天","orderNum":1},{"chapterId":"chapter-bus004-02","title":"第一个任务","orderNum":2},{"chapterId":"chapter-bus004-03","title":"犯错","orderNum":3},{"chapterId":"chapter-bus004-04","title":"学习","orderNum":4},{"chapterId":"chapter-bus004-05","title":"机会","orderNum":5},{"chapterId":"chapter-bus004-06","title":"挑战","orderNum":6},{"chapterId":"chapter-bus004-07","title":"成功","orderNum":7},{"chapterId":"chapter-bus004-08","title":"晋升","orderNum":8},{"chapterId":"chapter-bus004-09","title":"带新人","orderNum":9},{"chapterId":"chapter-bus004-10","title":"成长","orderNum":10}],
-      characters: [{"charId":"char-bus004-001","name":"李小白","roleType":"职场新人","personality":"勤奋好学、有点社恐、渴望成长","avatar":"👨","isProtagonist":true},{"charId":"char-bus004-002","name":"陈姐","roleType":"老员工","personality":"经验丰富、热心指导、职场老手","avatar":"👩","isProtagonist":false},{"charId":"char-bus004-003","name":"刘经理","roleType":"部门经理","personality":"严格认真、看重能力、外冷内热","avatar":"👨","isProtagonist":false}],
-      plotCards: [{"card_id":"card-bus004-01","sub_type":"weather","name":"阴天","icon":"☁️","description":"阴沉的天空，职场的挑战"},{"card_id":"card-bus004-02","sub_type":"terrain","name":"办公室","icon":"🏢","description":"忙碌的办公室，成长的战场"},{"card_id":"card-bus004-03","sub_type":"adventure","name":"突破","icon":"🚀","description":"取得突破，证明自己"},{"card_id":"card-bus004-04","sub_type":"equipment","name":"笔记本","icon":"📓","description":"工作记录，成长的见证"},{"card_id":"card-bus004-w02","sub_type":"weather","name":"晴天","icon":"☀️","description":"晴朗的天气"},{"card_id":"card-bus004-w03","sub_type":"weather","name":"彩虹","icon":"🌈","description":"雨后彩虹"},{"card_id":"card-bus004-w04","sub_type":"weather","name":"晨光","icon":"🌅","description":"温暖的晨光"},{"card_id":"card-bus004-t02","sub_type":"terrain","name":"会议室","icon":"📋","description":"严肃的会议室"},{"card_id":"card-bus004-t03","sub_type":"terrain","name":"客户公司","icon":"🏛️","description":"客户的办公地"},{"card_id":"card-bus004-t04","sub_type":"terrain","name":"楼顶","icon":"🌃","description":"天台风景"},{"card_id":"card-bus004-a02","sub_type":"adventure","name":"项目启动","icon":"🚀","description":"启动新项目"},{"card_id":"card-bus004-a03","sub_type":"adventure","name":"崛起","icon":"📈","description":"快速崛起"},{"card_id":"card-bus004-a04","sub_type":"adventure","name":"团队管理","icon":"👥","description":"管理团队"},{"card_id":"card-bus004-e02","sub_type":"equipment","name":"笔记本电脑","icon":"💻","description":"工作必备"},{"card_id":"card-bus004-e03","sub_type":"equipment","name":"奖杯","icon":"🏆","description":"荣誉象征"},{"card_id":"card-bus004-e04","sub_type":"equipment","name":"钢笔","icon":"🖊️","description":"签字用笔"}]
+      characters: [{"charId":"char-bus004-001","name":"李小白","roleType":"职场新人","personality":"勤奋好学、有点社恐、渴望成长","avatar":"👨","isProtagonist":1},{"charId":"char-bus004-002","name":"陈姐","roleType":"老员工","personality":"经验丰富、热心指导、职场老手","avatar":"👩","isProtagonist":0},{"charId":"char-bus004-003","name":"刘经理","roleType":"部门经理","personality":"严格认真、看重能力、外冷内热","avatar":"👨","isProtagonist":0}],
+      plotCards: [{"card_id":"preset-business-004-weather-1773788764437-0e25z6h7p","sub_type":"weather","name":"晴天","icon":"☀️","description":"晴朗的天气"},{"card_id":"preset-business-004-weather-1773788764437-xqj1fwaam","sub_type":"weather","name":"霜冻","icon":"🌨️","description":"寒冷的霜冻"},{"card_id":"preset-business-004-weather-1773788764437-yevebbqdp","sub_type":"weather","name":"大风","icon":"💨","description":"大风天气"},{"card_id":"preset-business-004-weather-1773788764437-nrzkymjd8","sub_type":"weather","name":"雪天","icon":"❄️","description":"下雪天"},{"card_id":"preset-business-004-weather-1773788764437-im46aq097","sub_type":"weather","name":"龙卷风","icon":"🌪️","description":"龙卷风"},{"card_id":"preset-business-004-weather-1773788764437-1021c6259","sub_type":"weather","name":"雷电","icon":"⚡","description":"电闪雷鸣"},{"card_id":"preset-business-004-weather-1773788764437-k1m20g72q","sub_type":"weather","name":"雾","icon":"🌫️","description":"大雾弥漫"},{"card_id":"preset-business-004-weather-1773788764437-733h88kb2","sub_type":"weather","name":"雷阵雨","icon":"⛈️","description":"雷雨交加"},{"card_id":"preset-business-004-terrain-1773788764437-9a82jl7gv","sub_type":"terrain","name":"公园","icon":"🌳","description":"附近公园"},{"card_id":"preset-business-004-terrain-1773788764437-q2miz0zrm","sub_type":"terrain","name":"酒店","icon":"🏨","description":"商务酒店"},{"card_id":"preset-business-004-terrain-1773788764437-bhdxsjznh","sub_type":"terrain","name":"仓库","icon":"📦","description":"物流仓库"},{"card_id":"preset-business-004-terrain-1773788764437-ye2s5knsa","sub_type":"terrain","name":"机场","icon":"✈️","description":"出差的机场"},{"card_id":"preset-business-004-terrain-1773788764437-qqtymc2t5","sub_type":"terrain","name":"实验室","icon":"🔬","description":"研发实验室"},{"card_id":"preset-business-004-terrain-1773788764437-0q0ihkfp1","sub_type":"terrain","name":"休息室","icon":"☕","description":"员工休息"},{"card_id":"preset-business-004-terrain-1773788764437-uaau0axxs","sub_type":"terrain","name":"餐厅","icon":"🍽️","description":"商务宴请"},{"card_id":"preset-business-004-terrain-1773788764437-ad2fufr2y","sub_type":"terrain","name":"咖啡馆","icon":"☕","description":"商务洽谈"},{"card_id":"preset-business-004-adventure-1773788764437-cagaaw9yv","sub_type":"adventure","name":"产品发布","icon":"🎉","description":"发布新产品"},{"card_id":"preset-business-004-adventure-1773788764437-3uzld9407","sub_type":"adventure","name":"融资","icon":"💰","description":"获得融资"},{"card_id":"preset-business-004-adventure-1773788764437-snkbz1vmw","sub_type":"adventure","name":"扩张","icon":"🌍","description":"业务扩张"},{"card_id":"preset-business-004-adventure-1773788764437-2lzkjbjv8","sub_type":"adventure","name":"坚守","icon":"🛡️","description":"坚守阵地"},{"card_id":"preset-business-004-adventure-1773788764437-5njdpfg7m","sub_type":"adventure","name":"跨界","icon":"🌐","description":"跨界合作"},{"card_id":"preset-business-004-adventure-1773788764437-z1lw2x63w","sub_type":"adventure","name":"收缩","icon":"📉","description":"业务收缩"},{"card_id":"preset-business-004-adventure-1773788764437-jvt2se2hz","sub_type":"adventure","name":"上市","icon":"📈","description":"公司上市"},{"card_id":"preset-business-004-adventure-1773788764437-dc72jsr7i","sub_type":"adventure","name":"危机处理","icon":"🚨","description":"处理危机"},{"card_id":"preset-business-004-equipment-1773788764437-18fiimm6g","sub_type":"equipment","name":"平板电脑","icon":"📱","description":"移动办公"},{"card_id":"preset-business-004-equipment-1773788764437-dfvaoy64l","sub_type":"equipment","name":"笔记本电脑","icon":"💻","description":"工作必备"},{"card_id":"preset-business-004-equipment-1773788764437-5cj142ll4","sub_type":"equipment","name":"咖啡杯","icon":"☕","description":"提神咖啡"},{"card_id":"preset-business-004-equipment-1773788764437-2e4f644vj","sub_type":"equipment","name":"钢笔","icon":"🖊️","description":"签字用笔"},{"card_id":"preset-business-004-equipment-1773788764437-ldqwp56zz","sub_type":"equipment","name":"名片","icon":"💳","description":"商务名片"},{"card_id":"preset-business-004-equipment-1773788764437-yfdl4qf9a","sub_type":"equipment","name":"打印机","icon":"🖨️","description":"文件打印"},{"card_id":"preset-business-004-equipment-1773788764437-pcbmxs00p","sub_type":"equipment","name":"行李箱","icon":"🧳","description":"出差装备"},{"card_id":"preset-business-004-equipment-1773788764437-uj8qiimi4","sub_type":"equipment","name":"投影仪","icon":"📽️","description":"演示设备"}]
     };
     
     let currentView = 'chapters';
@@ -598,7 +640,7 @@
       const rightCards = cards.slice(half);
       
       function renderPlotCard(card, index) {
-        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.cardId + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
+        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
           '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 13px; margin-top: 10px; text-align: center;">' + card.name + '</div>' +
           '<div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">' + (card.description || '') + '</div>' +
@@ -610,7 +652,7 @@
     }
     
     function showPlotCardDetail(cardId) {
-      const card = bookData.plotCards.find(c => c.cardId === cardId);
+      const card = bookData.plotCards.find(c => c.card_id === cardId);
       if (!card) return;
       
       const modal = document.getElementById('cardModal');
@@ -677,13 +719,12 @@
       const userId = localStorage.getItem('user_id');
       
       if (!userId) {
-        alert('请先登录');
         window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
       btn.disabled = true;
-      btn.textContent = '处理中...';
+      btn.innerHTML = '<span class="btn-main">' + '处理中...' + '</span>';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -694,7 +735,7 @@
         
         if (response.ok) {
           const result = await response.json();
-          btn.textContent = '已添加到书架！';
+          btn.innerHTML = '<span class="btn-main">' + '已添加到书架！' + '</span>';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -702,10 +743,10 @@
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.textContent = '操作失败';
+        btn.innerHTML = '<span class="btn-main">' + '操作失败' + '</span>';
         btn.disabled = false;
         setTimeout(() => {
-          btn.textContent = '续写这个故事';
+          btn.innerHTML = '<span class="btn-main">续写这个故事</span><span class="btn-sub">用卡牌创作新章节</span>';
         }, 2000);
       }
     }

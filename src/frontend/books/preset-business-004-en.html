@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>Rookie Rising - StoryBook</title>
   <meta name="description" content="Rookie Rising - AI Interactive Story">
-  <meta name="keywords" content="interactive story, AI story, Rookie Rising, Business">
+  <meta name="keywords" content="Alex, Sarah, Manager Liu, AI, creativity, human, work, future">
   <meta property="og:title" content="Rookie Rising - StoryBook">
   <meta property="og:description" content="Rookie Rising - AI Interactive Story">
   <meta property="og:type" content="book">
@@ -24,7 +24,7 @@
     "inLanguage": "en",
     "author": { "@type": "Organization", "name": "StoryBook" },
     "character": [{"@type":"Person","name":"Alex","description":"Office Rookie - hardworking, shy, eager to learn"},{"@type":"Person","name":"Sarah","description":"Senior Colleague - experienced, helpful, mentor"},{"@type":"Person","name":"Manager Liu","description":"Department Manager - strict, values competence, fair"}],
-    "numberOfPages": "5"
+    "numberOfPages": "10"
   }
   </script>
   <style>
@@ -292,6 +292,45 @@
       box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
     }
     
+    .action-btn-secondary {
+      background: transparent;
+      border: 2px solid #8B4513;
+      color: #4a3a2a;
+    }
+    
+    .action-btn-secondary:hover {
+      background: rgba(139, 69, 19, 0.1);
+    }
+    
+    .action-btn-primary {
+      background: linear-gradient(180deg, #D4AF37 0%, #B8860B 100%);
+      border: 2px solid #FFD700;
+      color: #1a1008;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 8px 20px;
+      min-width: 160px;
+    }
+    
+    .action-btn-primary:hover {
+      background: linear-gradient(180deg, #FFD700 0%, #D4AF37 100%);
+      box-shadow: 0 4px 20px rgba(212, 175, 55, 0.5);
+    }
+    
+    .action-btn-primary .btn-main {
+      font-size: 13px;
+      font-weight: bold;
+      line-height: 1.3;
+    }
+    
+    .action-btn-primary .btn-sub {
+      font-size: 10px;
+      opacity: 0.8;
+      font-weight: normal;
+      line-height: 1.2;
+    }
+    
     .chapter-toc {
       display: flex;
       flex-direction: column;
@@ -430,12 +469,15 @@
               <span class="type-badge">Business</span>
               <h2>Rookie Rising</h2>
               <div class="stats">
-                <span>📜 5 Chapters</span>
+                <span>📜 10 Chapters</span>
                 <span>👥 3 Characters</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapters/chapter-bus004-01-en.html" class="action-btn">Start Reading</a>
-                <button class="action-btn" onclick="importPresetBook()">Continue This Story</button>
+                <a href="../chapters/chapter-bus004-01-en.html" class="action-btn action-btn-secondary">Start Reading</a>
+                <button class="action-btn action-btn-primary" onclick="importPresetBook()">
+                  <span class="btn-main">Continue This Story</span>
+                  <span class="btn-sub">Add chapters with cards</span>
+                </button>
               </div>
             </div>
           </div>
@@ -460,6 +502,14 @@
                   <span class="chapter-number">Ch. III</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Mistake</span>
+                </a><a href="../chapters/chapter-bus004-03-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
+                  <span class="chapter-number">Ch. IV</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Learning</span>
+                </a><a href="../chapters/chapter-bus004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                  <span class="chapter-number">Ch. V</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Opportunity</span>
                 </a>
             </div>
           </div>
@@ -474,14 +524,26 @@
         <div class="page-content">
           <div id="rightPageContent">
             <div class="chapter-toc">
-              <a href="../chapters/chapter-bus004-03-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
-                  <span class="chapter-number">Ch. IV</span>
+              <a href="../chapters/chapter-bus004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                  <span class="chapter-number">Ch. VI</span>
                   <span class="chapter-dots"></span>
-                  <span class="chapter-title">Learning</span>
-                </a><a href="../chapters/chapter-bus004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
-                  <span class="chapter-number">Ch. V</span>
+                  <span class="chapter-title">Challenge</span>
+                </a><a href="../chapters/chapter-bus004-07-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.6000000000000001s backwards;">
+                  <span class="chapter-number">Ch. VII</span>
                   <span class="chapter-dots"></span>
-                  <span class="chapter-title">Opportunity</span>
+                  <span class="chapter-title">Success</span>
+                </a><a href="../chapters/chapter-bus004-07-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.7000000000000001s backwards;">
+                  <span class="chapter-number">Ch. VIII</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Promotion</span>
+                </a><a href="../chapters/chapter-bus004-09-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.8s backwards;">
+                  <span class="chapter-number">Ch. IX</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Mentoring</span>
+                </a><a href="../chapters/chapter-bus004-09-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.9s backwards;">
+                  <span class="chapter-number">Ch. X</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">Growth</span>
                 </a>
             </div>
           </div>
@@ -505,9 +567,9 @@
       bookId: 'preset-business-004-en',
       title: 'Rookie Rising',
       type: 'business',
-      chapters: [{"chapterId":"chapter-bus004-01-en","title":"First Day","orderNum":1},{"chapterId":"chapter-bus004-02-en","title":"First Task","orderNum":2},{"chapterId":"chapter-bus004-03-en","title":"Mistake","orderNum":3},{"chapterId":"chapter-bus004-04-en","title":"Learning","orderNum":4},{"chapterId":"chapter-bus004-05-en","title":"Opportunity","orderNum":5}],
-      characters: [{"charId":"char-bus004-001-en","name":"Alex","roleType":"Office Rookie","personality":"hardworking, shy, eager to learn","avatar":"👨","isProtagonist":true},{"charId":"char-bus004-002-en","name":"Sarah","roleType":"Senior Colleague","personality":"experienced, helpful, mentor","avatar":"👩","isProtagonist":false},{"charId":"char-bus004-003-en","name":"Manager Liu","roleType":"Department Manager","personality":"strict, values competence, fair","avatar":"👨","isProtagonist":false}],
-      plotCards: [{"card_id":"card-bus004-01-en","sub_type":"weather","name":"Cloudy","icon":"☁️","description":"Overcast sky, workplace challenges"},{"card_id":"card-bus004-02-en","sub_type":"terrain","name":"Office","icon":"🏢","description":"Busy office, battlefield for growth"},{"card_id":"card-bus004-03-en","sub_type":"adventure","name":"Breakthrough","icon":"🚀","description":"Make a breakthrough, prove yourself"},{"card_id":"card-bus004-04-en","sub_type":"equipment","name":"Notebook","icon":"📓","description":"Work records, witness to growth"},{"card_id":"card-bus004-w02-en","sub_type":"weather","name":"Sunny","icon":"☀️","description":"Clear weather"},{"card_id":"card-bus004-w03-en","sub_type":"weather","name":"Rainbow","icon":"🌈","description":"Rainbow after rain"},{"card_id":"card-bus004-w04-en","sub_type":"weather","name":"Morning Light","icon":"🌅","description":"Warm morning light"},{"card_id":"card-bus004-t02-en","sub_type":"terrain","name":"Meeting Room","icon":"📋","description":"Serious meeting room"},{"card_id":"card-bus004-t03-en","sub_type":"terrain","name":"Client Office","icon":"🏛️","description":"Client workplace"},{"card_id":"card-bus004-t04-en","sub_type":"terrain","name":"Rooftop","icon":"🌃","description":"Rooftop view"},{"card_id":"card-bus004-a02-en","sub_type":"adventure","name":"Project Launch","icon":"🚀","description":"Start new project"},{"card_id":"card-bus004-a03-en","sub_type":"adventure","name":"Rise","icon":"📈","description":"Rapid rise"},{"card_id":"card-bus004-a04-en","sub_type":"adventure","name":"Team Management","icon":"👥","description":"Manage team"},{"card_id":"card-bus004-e02-en","sub_type":"equipment","name":"Laptop","icon":"💻","description":"Essential for work"},{"card_id":"card-bus004-e03-en","sub_type":"equipment","name":"Trophy","icon":"🏆","description":"Symbol of honor"},{"card_id":"card-bus004-e04-en","sub_type":"equipment","name":"Pen","icon":"🖊️","description":"Signing pen"}]
+      chapters: [{"chapterId":"chapter-bus004-01-en","title":"First Day","orderNum":1},{"chapterId":"chapter-bus004-02-en","title":"First Task","orderNum":2},{"chapterId":"chapter-bus004-03-en","title":"Mistake","orderNum":3},{"chapterId":"chapter-bus004-04-en","title":"Learning","orderNum":4},{"chapterId":"chapter-bus004-05-en","title":"Opportunity","orderNum":5},{"chapterId":"chapter-bus004-06-en","title":"Challenge","orderNum":6},{"chapterId":"chapter-bus004-07-en","title":"Success","orderNum":7},{"chapterId":"chapter-bus004-08-en","title":"Promotion","orderNum":8},{"chapterId":"chapter-bus004-09-en","title":"Mentoring","orderNum":9},{"chapterId":"chapter-bus004-10-en","title":"Growth","orderNum":10}],
+      characters: [{"charId":"char-bus004-001-en","name":"Alex","roleType":"Office Rookie","personality":"hardworking, shy, eager to learn","avatar":"👨","isProtagonist":1},{"charId":"char-bus004-002-en","name":"Sarah","roleType":"Senior Colleague","personality":"experienced, helpful, mentor","avatar":"👩","isProtagonist":0},{"charId":"char-bus004-003-en","name":"Manager Liu","roleType":"Department Manager","personality":"strict, values competence, fair","avatar":"👨","isProtagonist":0}],
+      plotCards: [{"card_id":"preset-business-004-en-weather-1773788764440-oksis70tu","sub_type":"weather","name":"Clearing Up","icon":"🌤️","description":"Weather improving"},{"card_id":"preset-business-004-en-weather-1773788764440-1yqpepraw","sub_type":"weather","name":"Windy","icon":"💨","description":"Strong wind"},{"card_id":"preset-business-004-en-weather-1773788764440-8xclncji3","sub_type":"weather","name":"Lightning","icon":"⚡","description":"Lightning strikes"},{"card_id":"preset-business-004-en-weather-1773788764440-x5ig5se8f","sub_type":"weather","name":"Partly Cloudy","icon":"⛅","description":"Partly cloudy"},{"card_id":"preset-business-004-en-weather-1773788764440-fs6m9bmzl","sub_type":"weather","name":"Light Rain","icon":"🌦️","description":"Drizzling"},{"card_id":"preset-business-004-en-weather-1773788764440-npry11r7o","sub_type":"weather","name":"Sunny","icon":"☀️","description":"Clear weather"},{"card_id":"preset-business-004-en-weather-1773788764440-inwqtkf5s","sub_type":"weather","name":"Tornado","icon":"🌪️","description":"Tornado"},{"card_id":"preset-business-004-en-weather-1773788764440-s71sazv5n","sub_type":"weather","name":"Fog","icon":"🌫️","description":"Thick fog"},{"card_id":"preset-business-004-en-terrain-1773788764440-oaoibkq10","sub_type":"terrain","name":"Warehouse","icon":"📦","description":"Logistics warehouse"},{"card_id":"preset-business-004-en-terrain-1773788764440-ybvi0y6xk","sub_type":"terrain","name":"Client Company","icon":"🏛️","description":"Client's office"},{"card_id":"preset-business-004-en-terrain-1773788764440-gakk8osdz","sub_type":"terrain","name":"Park","icon":"🌳","description":"Nearby park"},{"card_id":"preset-business-004-en-terrain-1773788764440-ji5qrz26c","sub_type":"terrain","name":"Headquarters","icon":"🏙️","description":"Company headquarters"},{"card_id":"preset-business-004-en-terrain-1773788764440-bi92nlxfa","sub_type":"terrain","name":"Factory","icon":"🏭","description":"Production factory"},{"card_id":"preset-business-004-en-terrain-1773788764440-gxgmlf89u","sub_type":"terrain","name":"Training Room","icon":"📚","description":"Training and learning"},{"card_id":"preset-business-004-en-terrain-1773788764440-5g1ak9osx","sub_type":"terrain","name":"Reception Area","icon":"🛋️","description":"Guest reception"},{"card_id":"preset-business-004-en-terrain-1773788764440-egd9vqier","sub_type":"terrain","name":"Lobby","icon":"🏛️","description":"Company lobby"},{"card_id":"preset-business-004-en-adventure-1773788764440-mbt14cdm8","sub_type":"adventure","name":"Merger","icon":"🏢","description":"Company merger"},{"card_id":"preset-business-004-en-adventure-1773788764440-mp51pg4fv","sub_type":"adventure","name":"Team Management","icon":"👥","description":"Manage the team"},{"card_id":"preset-business-004-en-adventure-1773788764440-3ksaohzs9","sub_type":"adventure","name":"Breakthrough","icon":"🎯","description":"Break through困境"},{"card_id":"preset-business-004-en-adventure-1773788764440-i65p1o0n0","sub_type":"adventure","name":"Innovation","icon":"💡","description":"Technical innovation"},{"card_id":"preset-business-004-en-adventure-1773788764440-m1ngwnl78","sub_type":"adventure","name":"IPO","icon":"📈","description":"Company goes public"},{"card_id":"preset-business-004-en-adventure-1773788764440-q0fjqkhpz","sub_type":"adventure","name":"Persistence","icon":"🛡️","description":"Hold the ground"},{"card_id":"preset-business-004-en-adventure-1773788764440-9jh8jxvi4","sub_type":"adventure","name":"Financing","icon":"💰","description":"Secure funding"},{"card_id":"preset-business-004-en-adventure-1773788764440-gx4evhbir","sub_type":"adventure","name":"Crisis Management","icon":"🚨","description":"Handle crisis"},{"card_id":"preset-business-004-en-equipment-1773788764440-x43pozs19","sub_type":"equipment","name":"Laptop","icon":"💻","description":"Work essential"},{"card_id":"preset-business-004-en-equipment-1773788764440-17pvtrkad","sub_type":"equipment","name":"Printer","icon":"🖨️","description":"Document printing"},{"card_id":"preset-business-004-en-equipment-1773788764440-yzmz9q7y4","sub_type":"equipment","name":"Scanner","icon":"📠","description":"Document scanning"},{"card_id":"preset-business-004-en-equipment-1773788764440-bhixl7dtn","sub_type":"equipment","name":"Safe","icon":"🔒","description":"Important documents"},{"card_id":"preset-business-004-en-equipment-1773788764440-6b06q2rdo","sub_type":"equipment","name":"Tablet","icon":"📱","description":"Mobile office"},{"card_id":"preset-business-004-en-equipment-1773788764440-dv4asveuu","sub_type":"equipment","name":"Business Card","icon":"💳","description":"Business card"},{"card_id":"preset-business-004-en-equipment-1773788764440-0b4nq7djj","sub_type":"equipment","name":"Contract","icon":"📄","description":"Business contract"},{"card_id":"preset-business-004-en-equipment-1773788764440-7nbzj2n15","sub_type":"equipment","name":"Pen","icon":"🖊️","description":"Signing pen"}]
     };
     
     let currentView = 'chapters';
@@ -578,7 +640,7 @@
       const rightCards = cards.slice(half);
       
       function renderPlotCard(card, index) {
-        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.cardId + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
+        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
           '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 13px; margin-top: 10px; text-align: center;">' + card.name + '</div>' +
           '<div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">' + (card.description || '') + '</div>' +
@@ -590,7 +652,7 @@
     }
     
     function showPlotCardDetail(cardId) {
-      const card = bookData.plotCards.find(c => c.cardId === cardId);
+      const card = bookData.plotCards.find(c => c.card_id === cardId);
       if (!card) return;
       
       const modal = document.getElementById('cardModal');
@@ -657,13 +719,12 @@
       const userId = localStorage.getItem('user_id');
       
       if (!userId) {
-        alert('Please login first');
         window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
       btn.disabled = true;
-      btn.textContent = 'Processing...';
+      btn.innerHTML = '<span class="btn-main">' + 'Processing...' + '</span>';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -674,7 +735,7 @@
         
         if (response.ok) {
           const result = await response.json();
-          btn.textContent = 'Added to Shelf!';
+          btn.innerHTML = '<span class="btn-main">' + 'Added to Shelf!' + '</span>';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -682,10 +743,10 @@
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.textContent = 'Failed';
+        btn.innerHTML = '<span class="btn-main">' + 'Failed' + '</span>';
         btn.disabled = false;
         setTimeout(() => {
-          btn.textContent = 'Continue This Story';
+          btn.innerHTML = '<span class="btn-main">Continue This Story</span><span class="btn-sub">Add chapters with cards</span>';
         }, 2000);
       }
     }

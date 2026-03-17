@@ -138,9 +138,9 @@ ${report.errors.map(e => `| ${e.bookId} | ${e.error} |`).join('\n')}
 }
 
 async function regenerateStaticFiles() {
-  console.log('\n=== Regenerating Static Files ===');
+  console.log('\n=== Regenerating Static Files from Database ===');
   
-  const scriptPath = path.join(process.cwd(), 'scripts', 'generate-preset-pages.js');
+  const scriptPath = path.join(process.cwd(), 'scripts', 'generate-from-db.js');
   
   if (!fs.existsSync(scriptPath)) {
     console.log('Static file generation script not found, skipping...');
@@ -148,11 +148,11 @@ async function regenerateStaticFiles() {
   }
   
   try {
-    execSync('node scripts/generate-preset-pages.js', {
+    execSync('node scripts/generate-from-db.js', {
       stdio: 'inherit',
       cwd: process.cwd()
     });
-    console.log('Static files regenerated successfully');
+    console.log('Static files regenerated successfully from database');
     return true;
   } catch (error) {
     console.error('Failed to regenerate static files:', error.message);

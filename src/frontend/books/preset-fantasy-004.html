@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>魔法学院大逃亡 - StoryBook</title>
   <meta name="description" content="魔法学院大逃亡 - AI互动故事">
-  <meta name="keywords" content="互动故事, AI故事, 魔法学院大逃亡, 奇幻">
+  <meta name="keywords" content="小月, 小影, 时空守护者, human, justice, memory, 奇幻, AI故事">
   <meta property="og:title" content="魔法学院大逃亡 - StoryBook">
   <meta property="og:description" content="魔法学院大逃亡 - AI互动故事">
   <meta property="og:type" content="book">
@@ -292,6 +292,45 @@
       box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
     }
     
+    .action-btn-secondary {
+      background: transparent;
+      border: 2px solid #8B4513;
+      color: #4a3a2a;
+    }
+    
+    .action-btn-secondary:hover {
+      background: rgba(139, 69, 19, 0.1);
+    }
+    
+    .action-btn-primary {
+      background: linear-gradient(180deg, #D4AF37 0%, #B8860B 100%);
+      border: 2px solid #FFD700;
+      color: #1a1008;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 8px 20px;
+      min-width: 160px;
+    }
+    
+    .action-btn-primary:hover {
+      background: linear-gradient(180deg, #FFD700 0%, #D4AF37 100%);
+      box-shadow: 0 4px 20px rgba(212, 175, 55, 0.5);
+    }
+    
+    .action-btn-primary .btn-main {
+      font-size: 13px;
+      font-weight: bold;
+      line-height: 1.3;
+    }
+    
+    .action-btn-primary .btn-sub {
+      font-size: 10px;
+      opacity: 0.8;
+      font-weight: normal;
+      line-height: 1.2;
+    }
+    
     .chapter-toc {
       display: flex;
       flex-direction: column;
@@ -434,8 +473,11 @@
                 <span>👥 3 角色</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapters/chapter-fan004-01.html" class="action-btn">开始阅读</a>
-                <button class="action-btn" onclick="importPresetBook()">续写这个故事</button>
+                <a href="../chapters/chapter-fan004-01.html" class="action-btn action-btn-secondary">开始阅读</a>
+                <button class="action-btn action-btn-primary" onclick="importPresetBook()">
+                  <span class="btn-main">续写这个故事</span>
+                  <span class="btn-sub">用卡牌创作新章节</span>
+                </button>
               </div>
             </div>
           </div>
@@ -526,8 +568,8 @@
       title: '魔法学院大逃亡',
       type: 'fantasy',
       chapters: [{"chapterId":"chapter-fan004-01","title":"神秘的邀请","orderNum":1},{"chapterId":"chapter-fan004-02","title":"学院的第一天","orderNum":2},{"chapterId":"chapter-fan004-03","title":"禁闭室的秘密","orderNum":3},{"chapterId":"chapter-fan004-04","title":"时空守护者","orderNum":4},{"chapterId":"chapter-fan004-05","title":"穿越时空","orderNum":5},{"chapterId":"chapter-fan004-06","title":"黑暗的起源","orderNum":6},{"chapterId":"chapter-fan004-07","title":"寻找封印","orderNum":7},{"chapterId":"chapter-fan004-08","title":"校长的追捕","orderNum":8},{"chapterId":"chapter-fan004-09","title":"最终对决","orderNum":9},{"chapterId":"chapter-fan004-10","title":"自由的学院","orderNum":10}],
-      characters: [{"charId":"char-fan004-001","name":"小月","roleType":"时空穿越者","personality":"聪明机智、善于应变、渴望自由","avatar":"🌙","isProtagonist":true},{"charId":"char-fan004-002","name":"小影","roleType":"时空精灵","personality":"神秘莫测、操控时间、守护时空","avatar":"⏳","isProtagonist":false},{"charId":"char-fan004-003","name":"时空守护者","roleType":"神秘老人","personality":"全知全能、守护时空秩序","avatar":"👴","isProtagonist":false}],
-      plotCards: [{"card_id":"card-fan004-01","sub_type":"weather","name":"时空裂隙","icon":"🌀","description":"时空扭曲的裂缝，穿越的通道"},{"card_id":"card-fan004-02","sub_type":"terrain","name":"魔法塔","icon":"🗼","description":"高耸的魔法塔，学院的核心"},{"card_id":"card-fan004-03","sub_type":"adventure","name":"时空穿梭","icon":"⏳","description":"穿越时空，逃离困境"},{"card_id":"card-fan004-04","sub_type":"equipment","name":"护身符","icon":"🧿","description":"保护佩戴者，抵御魔法"},{"card_id":"card-fan004-w02","sub_type":"weather","name":"极光","icon":"🌌","description":"绚丽的魔法极光"},{"card_id":"card-fan004-w03","sub_type":"weather","name":"黑暗降临","icon":"🌑","description":"无尽的黑暗"},{"card_id":"card-fan004-w04","sub_type":"weather","name":"创世晨曦","icon":"🌅","description":"创世之初的光芒"},{"card_id":"card-fan004-t02","sub_type":"terrain","name":"禁闭室","icon":"🔒","description":"关押学生的密室"},{"card_id":"card-fan004-t03","sub_type":"terrain","name":"神殿","icon":"⛩️","description":"神圣的殿堂"},{"card_id":"card-fan004-t04","sub_type":"terrain","name":"时空裂缝","icon":"⏳","description":"时间扭曲之地"},{"card_id":"card-fan004-a02","sub_type":"adventure","name":"解谜","icon":"🧩","description":"解开古老的谜题"},{"card_id":"card-fan004-a03","sub_type":"adventure","name":"守护使命","icon":"🛡️","description":"守护重要的东西"},{"card_id":"card-fan004-a04","sub_type":"adventure","name":"魔法对决","icon":"⚡","description":"魔法师的决斗"},{"card_id":"card-fan004-e02","sub_type":"equipment","name":"封印卷轴","icon":"📜","description":"封印邪恶"},{"card_id":"card-fan004-e03","sub_type":"equipment","name":"魔杖","icon":"🪄","description":"施展魔法的法杖"},{"card_id":"card-fan004-e04","sub_type":"equipment","name":"时空徽章","icon":"🏅","description":"时空使者徽章"}]
+      characters: [{"charId":"char-fan004-001","name":"小月","roleType":"时空穿越者","personality":"聪明机智、善于应变、渴望自由","avatar":"🌙","isProtagonist":1},{"charId":"char-fan004-002","name":"小影","roleType":"时空精灵","personality":"神秘莫测、操控时间、守护时空","avatar":"⏳","isProtagonist":0},{"charId":"char-fan004-003","name":"时空守护者","roleType":"神秘老人","personality":"全知全能、守护时空秩序","avatar":"👴","isProtagonist":0}],
+      plotCards: [{"card_id":"preset-fantasy-004-weather-1773788764454-jmxje38yj","sub_type":"weather","name":"永恒黄昏","icon":"🌆","description":"永不消逝的黄昏"},{"card_id":"preset-fantasy-004-weather-1773788764454-6adp2f8uj","sub_type":"weather","name":"元素乱流","icon":"⚡","description":"元素能量涌动"},{"card_id":"preset-fantasy-004-weather-1773788764454-6oh07mrtb","sub_type":"weather","name":"龙息云","icon":"🐉","description":"巨龙吐息形成的云"},{"card_id":"preset-fantasy-004-weather-1773788764454-lxeflxhm1","sub_type":"weather","name":"极光","icon":"🌌","description":"绚丽的魔法极光"},{"card_id":"preset-fantasy-004-weather-1773788764454-qs6ql5mm0","sub_type":"weather","name":"血月","icon":"🔴","description":"神秘的血月之夜"},{"card_id":"preset-fantasy-004-weather-1773788764454-ws0qmnmum","sub_type":"weather","name":"星辰坠落","icon":"💫","description":"星辰从天而降"},{"card_id":"preset-fantasy-004-weather-1773788764454-50ugu7zwh","sub_type":"weather","name":"元素风暴","icon":"🌪️","description":"四元素交织的风暴"},{"card_id":"preset-fantasy-004-weather-1773788764454-5ksfvvu3o","sub_type":"weather","name":"创世晨曦","icon":"🌅","description":"创世之初的光芒"},{"card_id":"preset-fantasy-004-terrain-1773788764454-6ormdc2ge","sub_type":"terrain","name":"镜像空间","icon":"🪞","description":"镜像的世界"},{"card_id":"preset-fantasy-004-terrain-1773788764454-qhw3gyqbe","sub_type":"terrain","name":"矮人矿山","icon":"⛏️","description":"矮人的矿洞"},{"card_id":"preset-fantasy-004-terrain-1773788764454-qs97bcvcd","sub_type":"terrain","name":"神殿","icon":"⛩️","description":"神圣的殿堂"},{"card_id":"preset-fantasy-004-terrain-1773788764454-sf5qxrg30","sub_type":"terrain","name":"浮空岛","icon":"🏝️","description":"漂浮在空中的岛屿"},{"card_id":"preset-fantasy-004-terrain-1773788764454-lbvisxffy","sub_type":"terrain","name":"古代遗迹","icon":"🏛️","description":"古老的文明遗迹"},{"card_id":"preset-fantasy-004-terrain-1773788764454-bq0soyn5s","sub_type":"terrain","name":"魔法森林","icon":"🌳","description":"充满魔法的森林"},{"card_id":"preset-fantasy-004-terrain-1773788764454-wkmphtwrh","sub_type":"terrain","name":"兽人领地","icon":"👹","description":"兽人的地盘"},{"card_id":"preset-fantasy-004-terrain-1773788764454-6y1r7h9g9","sub_type":"terrain","name":"精灵村落","icon":"🧚","description":"精灵的家园"},{"card_id":"preset-fantasy-004-adventure-1773788764454-slllf2e5f","sub_type":"adventure","name":"神器锻造","icon":"🔨","description":"锻造神器"},{"card_id":"preset-fantasy-004-adventure-1773788764454-4rrmukuyk","sub_type":"adventure","name":"元素觉醒","icon":"🔥","description":"掌控元素之力"},{"card_id":"preset-fantasy-004-adventure-1773788764454-sdhtz5byp","sub_type":"adventure","name":"守护使命","icon":"🛡️","description":"守护重要的东西"},{"card_id":"preset-fantasy-004-adventure-1773788764454-b8mbkq34c","sub_type":"adventure","name":"穿越异界","icon":"🌀","description":"穿越到另一个世界"},{"card_id":"preset-fantasy-004-adventure-1773788764454-vnf3lopjo","sub_type":"adventure","name":"解除诅咒","icon":"🔮","description":"解除古老的诅咒"},{"card_id":"preset-fantasy-004-adventure-1773788764454-y8le6vpgm","sub_type":"adventure","name":"魔法对决","icon":"⚡","description":"魔法师的决斗"},{"card_id":"preset-fantasy-004-adventure-1773788764454-7p696j2zi","sub_type":"adventure","name":"寻找神器","icon":"⚔️","description":"寻找传说中的神器"},{"card_id":"preset-fantasy-004-adventure-1773788764454-kydey8hch","sub_type":"adventure","name":"召唤仪式","icon":"🌀","description":"召唤强大的存在"},{"card_id":"preset-fantasy-004-equipment-1773788764454-uzxi351kr","sub_type":"equipment","name":"矮人锤","icon":"🔨","description":"矮人锻造的锤子"},{"card_id":"preset-fantasy-004-equipment-1773788764454-6ypvz74mr","sub_type":"equipment","name":"水晶球","icon":"🔮","description":"占卜和储存魔力"},{"card_id":"preset-fantasy-004-equipment-1773788764454-v0kk5uc2k","sub_type":"equipment","name":"法师帽","icon":"🎩","description":"增强魔力"},{"card_id":"preset-fantasy-004-equipment-1773788764454-5v455a02r","sub_type":"equipment","name":"封印卷轴","icon":"📜","description":"封印邪恶"},{"card_id":"preset-fantasy-004-equipment-1773788764454-dn4dloh0x","sub_type":"equipment","name":"元素宝石","icon":"💠","description":"储存元素之力"},{"card_id":"preset-fantasy-004-equipment-1773788764454-62o5pr8fw","sub_type":"equipment","name":"魔杖","icon":"🪄","description":"施展魔法的法杖"},{"card_id":"preset-fantasy-004-equipment-1773788764454-936wh1wiz","sub_type":"equipment","name":"魔法靴","icon":"👢","description":"增加移动速度"},{"card_id":"preset-fantasy-004-equipment-1773788764454-njai2j746","sub_type":"equipment","name":"灵魂石","icon":"💜","description":"储存灵魂"}]
     };
     
     let currentView = 'chapters';
@@ -598,7 +640,7 @@
       const rightCards = cards.slice(half);
       
       function renderPlotCard(card, index) {
-        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.cardId + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
+        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
           '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 13px; margin-top: 10px; text-align: center;">' + card.name + '</div>' +
           '<div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">' + (card.description || '') + '</div>' +
@@ -610,7 +652,7 @@
     }
     
     function showPlotCardDetail(cardId) {
-      const card = bookData.plotCards.find(c => c.cardId === cardId);
+      const card = bookData.plotCards.find(c => c.card_id === cardId);
       if (!card) return;
       
       const modal = document.getElementById('cardModal');
@@ -677,13 +719,12 @@
       const userId = localStorage.getItem('user_id');
       
       if (!userId) {
-        alert('请先登录');
         window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
       btn.disabled = true;
-      btn.textContent = '处理中...';
+      btn.innerHTML = '<span class="btn-main">' + '处理中...' + '</span>';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -694,7 +735,7 @@
         
         if (response.ok) {
           const result = await response.json();
-          btn.textContent = '已添加到书架！';
+          btn.innerHTML = '<span class="btn-main">' + '已添加到书架！' + '</span>';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -702,10 +743,10 @@
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.textContent = '操作失败';
+        btn.innerHTML = '<span class="btn-main">' + '操作失败' + '</span>';
         btn.disabled = false;
         setTimeout(() => {
-          btn.textContent = '续写这个故事';
+          btn.innerHTML = '<span class="btn-main">续写这个故事</span><span class="btn-sub">用卡牌创作新章节</span>';
         }, 2000);
       }
     }

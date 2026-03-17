@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>Cafe Encounter - StoryBook</title>
   <meta name="description" content="Cafe Encounter - AI Interactive Story">
-  <meta name="keywords" content="interactive story, AI story, Cafe Encounter, Romance">
+  <meta name="keywords" content="Summer, Morgan, Rain, AI, creativity, consciousness, human, work">
   <meta property="og:title" content="Cafe Encounter - StoryBook">
   <meta property="og:description" content="Cafe Encounter - AI Interactive Story">
   <meta property="og:type" content="book">
@@ -292,6 +292,45 @@
       box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
     }
     
+    .action-btn-secondary {
+      background: transparent;
+      border: 2px solid #8B4513;
+      color: #4a3a2a;
+    }
+    
+    .action-btn-secondary:hover {
+      background: rgba(139, 69, 19, 0.1);
+    }
+    
+    .action-btn-primary {
+      background: linear-gradient(180deg, #D4AF37 0%, #B8860B 100%);
+      border: 2px solid #FFD700;
+      color: #1a1008;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 8px 20px;
+      min-width: 160px;
+    }
+    
+    .action-btn-primary:hover {
+      background: linear-gradient(180deg, #FFD700 0%, #D4AF37 100%);
+      box-shadow: 0 4px 20px rgba(212, 175, 55, 0.5);
+    }
+    
+    .action-btn-primary .btn-main {
+      font-size: 13px;
+      font-weight: bold;
+      line-height: 1.3;
+    }
+    
+    .action-btn-primary .btn-sub {
+      font-size: 10px;
+      opacity: 0.8;
+      font-weight: normal;
+      line-height: 1.2;
+    }
+    
     .chapter-toc {
       display: flex;
       flex-direction: column;
@@ -434,8 +473,11 @@
                 <span>👥 3 Characters</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapters/chapter-rom003-01-en.html" class="action-btn">Start Reading</a>
-                <button class="action-btn" onclick="importPresetBook()">Continue This Story</button>
+                <a href="../chapters/chapter-rom003-01-en.html" class="action-btn action-btn-secondary">Start Reading</a>
+                <button class="action-btn action-btn-primary" onclick="importPresetBook()">
+                  <span class="btn-main">Continue This Story</span>
+                  <span class="btn-sub">Add chapters with cards</span>
+                </button>
               </div>
             </div>
           </div>
@@ -526,8 +568,8 @@
       title: 'Cafe Encounter',
       type: 'romance',
       chapters: [{"chapterId":"chapter-rom003-01-en","title":"Coffee Shop in the Rain","orderNum":1},{"chapterId":"chapter-rom003-02-en","title":"Regular Customer","orderNum":2},{"chapterId":"chapter-rom003-03-en","title":"Art Exhibition Invitation","orderNum":3},{"chapterId":"chapter-rom003-04-en","title":"Heartbeat Moment","orderNum":4},{"chapterId":"chapter-rom003-05-en","title":"Misunderstanding","orderNum":5},{"chapterId":"chapter-rom003-06-en","title":"The Truth","orderNum":6},{"chapterId":"chapter-rom003-07-en","title":"Shared Dreams","orderNum":7},{"chapterId":"chapter-rom003-08-en","title":"Difficulty","orderNum":8},{"chapterId":"chapter-rom003-09-en","title":"Proposal","orderNum":9},{"chapterId":"chapter-rom003-10-en","title":"Happiness","orderNum":10}],
-      characters: [{"charId":"char-rom003-001-en","name":"Summer","roleType":"Illustrator","personality":"gentle, artistic, guarded heart","avatar":"👩","isProtagonist":true},{"charId":"char-rom003-002-en","name":"Morgan","roleType":"Cafe Owner","personality":"warm, reliable, good listener","avatar":"👨","isProtagonist":false},{"charId":"char-rom003-003-en","name":"Rain","roleType":"Best Friend","personality":"cheerful, meddlesome, supportive","avatar":"👩","isProtagonist":false}],
-      plotCards: [{"card_id":"card-rom003-01-en","sub_type":"weather","name":"Sunset","icon":"🌇","description":"Romantic sunset, warm moments"},{"card_id":"card-rom003-02-en","sub_type":"terrain","name":"Cafe","icon":"☕","description":"Cozy cafe, where the story begins"},{"card_id":"card-rom003-03-en","sub_type":"adventure","name":"Encounter","icon":"💫","description":"Fateful meeting, start of love"},{"card_id":"card-rom003-04-en","sub_type":"equipment","name":"Easel","icon":"🎨","description":"Artistic creation, express feelings"},{"card_id":"card-rom003-w02-en","sub_type":"weather","name":"Rainy","icon":"🌧️","description":"Light rain, start of encounter"},{"card_id":"card-rom003-w03-en","sub_type":"weather","name":"Sunny","icon":"☀️","description":"Bright sunshine, perfect for dates"},{"card_id":"card-rom003-w04-en","sub_type":"weather","name":"Moonlight","icon":"🌙","description":"Bright moonlight, romantic night"},{"card_id":"card-rom003-t02-en","sub_type":"terrain","name":"Gallery","icon":"🖼️","description":"Art gallery, moment of heartbeat"},{"card_id":"card-rom003-t03-en","sub_type":"terrain","name":"Studio","icon":"🎨","description":"Creative space, shared dreams"},{"card_id":"card-rom003-t04-en","sub_type":"terrain","name":"Street","icon":"🛤️","description":"Quiet street, romantic walk"},{"card_id":"card-rom003-a02-en","sub_type":"adventure","name":"Date","icon":"🌹","description":"Sweet date"},{"card_id":"card-rom003-a03-en","sub_type":"adventure","name":"Confession","icon":"💕","description":"Brave confession"},{"card_id":"card-rom003-a04-en","sub_type":"adventure","name":"Proposal","icon":"💍","description":"Romantic proposal"},{"card_id":"card-rom003-e02-en","sub_type":"equipment","name":"Coffee","icon":"☕","description":"Warm coffee"},{"card_id":"card-rom003-e03-en","sub_type":"equipment","name":"Ring","icon":"💍","description":"Symbol of love"},{"card_id":"card-rom003-e04-en","sub_type":"equipment","name":"Flowers","icon":"💐","description":"Romantic gift"}]
+      characters: [{"charId":"char-rom003-001-en","name":"Summer","roleType":"Illustrator","personality":"gentle, artistic, guarded heart","avatar":"👩","isProtagonist":1},{"charId":"char-rom003-002-en","name":"Morgan","roleType":"Cafe Owner","personality":"warm, reliable, good listener","avatar":"👨","isProtagonist":0},{"charId":"char-rom003-003-en","name":"Rain","roleType":"Best Friend","personality":"cheerful, meddlesome, supportive","avatar":"👩","isProtagonist":0}],
+      plotCards: [{"card_id":"preset-romance-003-en-weather-1773788764464-8crfkrcx1","sub_type":"weather","name":"Partly Cloudy","icon":"⛅","description":"Clouds floating by"},{"card_id":"preset-romance-003-en-weather-1773788764464-mtc7idf7o","sub_type":"weather","name":"Cherry Blossom Rain","icon":"🌸","description":"Falling cherry blossoms"},{"card_id":"preset-romance-003-en-weather-1773788764464-ike3fh0jc","sub_type":"weather","name":"Twilight","icon":"🌆","description":"Gentle twilight"},{"card_id":"preset-romance-003-en-weather-1773788764464-e3pes2uc3","sub_type":"weather","name":"First Snow","icon":"❄️","description":"First snow of the year"},{"card_id":"preset-romance-003-en-weather-1773788764464-f4fhpv5b3","sub_type":"weather","name":"Neon Lights","icon":"🌃","description":"City neon lights"},{"card_id":"preset-romance-003-en-weather-1773788764464-ol6e7qtvy","sub_type":"weather","name":"After Rain","icon":"🌈","description":"Rainbow after rain"},{"card_id":"preset-romance-003-en-weather-1773788764464-6x9cjh0uj","sub_type":"weather","name":"Misty","icon":"🌫️","description":"Hazy mist"},{"card_id":"preset-romance-003-en-weather-1773788764464-4ixdpdyjx","sub_type":"weather","name":"Cloudy","icon":"☁️","description":"Overcast sky"},{"card_id":"preset-romance-003-en-terrain-1773788764464-ew9ck6gzy","sub_type":"terrain","name":"Shopping Mall","icon":"🛒","description":"Lively mall"},{"card_id":"preset-romance-003-en-terrain-1773788764464-aqnil3zl5","sub_type":"terrain","name":"Seaside","icon":"🏖️","description":"Romantic beach"},{"card_id":"preset-romance-003-en-terrain-1773788764464-xuol5ej4p","sub_type":"terrain","name":"Mountain Top","icon":"⛰️","description":"Peak overlooking the city"},{"card_id":"preset-romance-003-en-terrain-1773788764464-wfrt8j3zh","sub_type":"terrain","name":"Restaurant","icon":"🍽️","description":"Romantic restaurant"},{"card_id":"preset-romance-003-en-terrain-1773788764464-fw7t3toci","sub_type":"terrain","name":"Office","icon":"🏢","description":"Busy workplace"},{"card_id":"preset-romance-003-en-terrain-1773788764464-e6v1j5fup","sub_type":"terrain","name":"Bridge","icon":"🌉","description":"Bridge over the river"},{"card_id":"preset-romance-003-en-terrain-1773788764464-t6bhnh615","sub_type":"terrain","name":"School","icon":"🎓","description":"School of memories"},{"card_id":"preset-romance-003-en-terrain-1773788764464-jbn72j940","sub_type":"terrain","name":"Hospital","icon":"🏥","description":"Hospital full of stories"},{"card_id":"preset-romance-003-en-adventure-1773788764464-r2i8roxo9","sub_type":"adventure","name":"Engagement","icon":"💎","description":"Making promises"},{"card_id":"preset-romance-003-en-adventure-1773788764464-r6jbgludu","sub_type":"adventure","name":"Pursuit","icon":"💝","description":"Earnest pursuit"},{"card_id":"preset-romance-003-en-adventure-1773788764464-p6jmnu4hu","sub_type":"adventure","name":"Expression","icon":"💌","description":"Expressing feelings"},{"card_id":"preset-romance-003-en-adventure-1773788764464-nxnqoiuby","sub_type":"adventure","name":"Ambiguity","icon":"💗","description":"Ambiguous moments"},{"card_id":"preset-romance-003-en-adventure-1773788764464-z39e4bbtb","sub_type":"adventure","name":"Marriage","icon":"💒","description":"Getting married"},{"card_id":"preset-romance-003-en-adventure-1773788764464-6jzeuays1","sub_type":"adventure","name":"Passionate Love","icon":"❤️","description":"Sweet passion"},{"card_id":"preset-romance-003-en-adventure-1773788764464-ij3g6g6vh","sub_type":"adventure","name":"Living Together","icon":"🏠","description":"Starting life together"},{"card_id":"preset-romance-003-en-adventure-1773788764464-q6wcvoiu7","sub_type":"adventure","name":"Getting Back Together","icon":"💕","description":"Getting back together"},{"card_id":"preset-romance-003-en-equipment-1773788764464-mvso35t40","sub_type":"equipment","name":"Necklace","icon":"📿","description":"Precious gift"},{"card_id":"preset-romance-003-en-equipment-1773788764464-lt7rvin0a","sub_type":"equipment","name":"Watch","icon":"⌚","description":"Witness of time"},{"card_id":"preset-romance-003-en-equipment-1773788764464-mbdtgjieb","sub_type":"equipment","name":"Perfume","icon":"🧴","description":"Charming fragrance"},{"card_id":"preset-romance-003-en-equipment-1773788764464-83ey7tb9f","sub_type":"equipment","name":"Cake","icon":"🎂","description":"Sweet dessert"},{"card_id":"preset-romance-003-en-equipment-1773788764464-dk9za8l7v","sub_type":"equipment","name":"Umbrella","icon":"☂️","description":"Shared in the rain"},{"card_id":"preset-romance-003-en-equipment-1773788764464-ox6eeu608","sub_type":"equipment","name":"Wine","icon":"🍷","description":"Romantic drink"},{"card_id":"preset-romance-003-en-equipment-1773788764464-sh573qn0o","sub_type":"equipment","name":"Ring","icon":"💍","description":"Symbol of love"},{"card_id":"preset-romance-003-en-equipment-1773788764464-xpidqm3gy","sub_type":"equipment","name":"Canvas","icon":"🎨","description":"Artistic creation"}]
     };
     
     let currentView = 'chapters';
@@ -598,7 +640,7 @@
       const rightCards = cards.slice(half);
       
       function renderPlotCard(card, index) {
-        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.cardId + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
+        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
           '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 13px; margin-top: 10px; text-align: center;">' + card.name + '</div>' +
           '<div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">' + (card.description || '') + '</div>' +
@@ -610,7 +652,7 @@
     }
     
     function showPlotCardDetail(cardId) {
-      const card = bookData.plotCards.find(c => c.cardId === cardId);
+      const card = bookData.plotCards.find(c => c.card_id === cardId);
       if (!card) return;
       
       const modal = document.getElementById('cardModal');
@@ -677,13 +719,12 @@
       const userId = localStorage.getItem('user_id');
       
       if (!userId) {
-        alert('Please login first');
         window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
       btn.disabled = true;
-      btn.textContent = 'Processing...';
+      btn.innerHTML = '<span class="btn-main">' + 'Processing...' + '</span>';
       
       try {
         const response = await fetch('/api/books/' + bookData.bookId + '/import', {
@@ -694,7 +735,7 @@
         
         if (response.ok) {
           const result = await response.json();
-          btn.textContent = 'Added to Shelf!';
+          btn.innerHTML = '<span class="btn-main">' + 'Added to Shelf!' + '</span>';
           setTimeout(() => {
             window.location.href = '../book.html?id=' + result.data.new_book_id;
           }, 1000);
@@ -702,10 +743,10 @@
           throw new Error('Import failed');
         }
       } catch (error) {
-        btn.textContent = 'Failed';
+        btn.innerHTML = '<span class="btn-main">' + 'Failed' + '</span>';
         btn.disabled = false;
         setTimeout(() => {
-          btn.textContent = 'Continue This Story';
+          btn.innerHTML = '<span class="btn-main">Continue This Story</span><span class="btn-sub">Add chapters with cards</span>';
         }, 2000);
       }
     }
