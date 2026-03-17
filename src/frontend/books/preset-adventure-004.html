@@ -483,9 +483,9 @@
           </div>
           
           <div class="view-tabs">
-            <button class="view-tab active" onclick="switchView('chapters')">📜 章节</button>
-            <button class="view-tab" onclick="switchView('characters')">👥 角色</button>
-            <button class="view-tab" onclick="switchView('plotcards')">🃏 情节卡牌</button>
+            <button class="view-tab active" onclick="switchView('chapters', event)">📜 章节</button>
+            <button class="view-tab" onclick="switchView('characters', event)">👥 角色</button>
+            <button class="view-tab" onclick="switchView('plotcards', event)">🃏 情节卡牌</button>
           </div>
           
           <div id="leftPageContent">
@@ -575,14 +575,16 @@
       createParticles(document.getElementById('particles'), 30);
     });
     
-    function switchView(view) {
+    function switchView(view, evt) {
       if (view === currentView) return;
       currentView = view;
       
       document.querySelectorAll('.view-tab').forEach(tab => {
         tab.classList.remove('active');
       });
-      event.target.classList.add('active');
+      if (evt && evt.target) {
+        evt.target.classList.add('active');
+      }
       
       if (view === 'chapters') {
         renderChapters();

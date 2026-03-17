@@ -1095,9 +1095,9 @@ function generateBookHTML(book, characters, chapters, plotCards) {
           </div>
           
           <div class="view-tabs">
-            <button class="view-tab active" onclick="switchView('chapters')">📜 ${isZh ? '章节' : 'Chapters'}</button>
-            <button class="view-tab" onclick="switchView('characters')">👥 ${isZh ? '角色' : 'Characters'}</button>
-            <button class="view-tab" onclick="switchView('plotcards')">🃏 ${isZh ? '情节卡牌' : 'Plot Cards'}</button>
+            <button class="view-tab active" onclick="switchView('chapters', event)">📜 ${isZh ? '章节' : 'Chapters'}</button>
+            <button class="view-tab" onclick="switchView('characters', event)">👥 ${isZh ? '角色' : 'Characters'}</button>
+            <button class="view-tab" onclick="switchView('plotcards', event)">🃏 ${isZh ? '情节卡牌' : 'Plot Cards'}</button>
           </div>
           
           <div id="leftPageContent">
@@ -1167,14 +1167,16 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       createParticles(document.getElementById('particles'), 30);
     });
     
-    function switchView(view) {
+    function switchView(view, evt) {
       if (view === currentView) return;
       currentView = view;
       
       document.querySelectorAll('.view-tab').forEach(tab => {
         tab.classList.remove('active');
       });
-      event.target.classList.add('active');
+      if (evt && evt.target) {
+        evt.target.classList.add('active');
+      }
       
       if (view === 'chapters') {
         renderChapters();
