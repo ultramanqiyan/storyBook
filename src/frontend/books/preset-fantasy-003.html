@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>龙族守护者 - StoryBook</title>
   <meta name="description" content="龙族守护者 - AI互动故事">
-  <meta name="keywords" content="奇幻, AI故事, 互动故事">
+  <meta name="keywords" content="龙炎, 小火, 龙长老, human, justice, 奇幻, AI故事, 互动故事">
   <meta property="og:title" content="龙族守护者 - StoryBook">
   <meta property="og:description" content="龙族守护者 - AI互动故事">
   <meta property="og:type" content="book">
@@ -23,8 +23,8 @@
     "genre": "奇幻",
     "inLanguage": "zh",
     "author": { "@type": "Organization", "name": "StoryBook" },
-    "character": [],
-    "numberOfPages": "0"
+    "character": [{"@type":"Person","name":"龙炎","description":"龙族守护者 - 勇敢正义、热血冲动、重情重义"},{"@type":"Person","name":"小火","description":"龙族精灵 - 调皮活泼、火焰之力、忠诚伙伴"},{"@type":"Person","name":"龙长老","description":"龙族智者 - 古老睿智、守护龙族秘密"}],
+    "numberOfPages": "10"
   }
   </script>
   <style>
@@ -469,11 +469,11 @@
               <span class="type-badge">奇幻</span>
               <h2>龙族守护者</h2>
               <div class="stats">
-                <span>📜 0 章节</span>
-                <span>👥 0 角色</span>
+                <span>📜 10 章节</span>
+                <span>👥 3 角色</span>
               </div>
               <div class="action-buttons">
-                
+                <a href="../chapters/chapter-fan003-01.html" class="action-btn action-btn-secondary">开始阅读</a>
                 <button class="action-btn action-btn-primary" onclick="importPresetBook()">
                   <span class="btn-main">续写这个故事</span>
                   <span class="btn-sub">用卡牌创作新章节</span>
@@ -490,7 +490,27 @@
           
           <div id="leftPageContent">
             <div class="chapter-toc">
-              
+              <a href="../chapters/chapter-fan003-01.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0s backwards;">
+                  <span class="chapter-number">第I</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">龙蛋的召唤</span>
+                </a><a href="../chapters/chapter-fan003-01.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.1s backwards;">
+                  <span class="chapter-number">第II</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">龙族学院</span>
+                </a><a href="../chapters/chapter-fan003-03.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.2s backwards;">
+                  <span class="chapter-number">第III</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">火焰试炼</span>
+                </a><a href="../chapters/chapter-fan003-03.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
+                  <span class="chapter-number">第IV</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">黑暗龙的威胁</span>
+                </a><a href="../chapters/chapter-fan003-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                  <span class="chapter-number">第V</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">第一次战斗</span>
+                </a>
             </div>
           </div>
         </div>
@@ -504,7 +524,27 @@
         <div class="page-content">
           <div id="rightPageContent">
             <div class="chapter-toc">
-              
+              <a href="../chapters/chapter-fan003-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                  <span class="chapter-number">第VI</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">龙族秘密</span>
+                </a><a href="../chapters/chapter-fan003-07.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.6000000000000001s backwards;">
+                  <span class="chapter-number">第VII</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">特训</span>
+                </a><a href="../chapters/chapter-fan003-07.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.7000000000000001s backwards;">
+                  <span class="chapter-number">第VIII</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">黑暗龙的巢穴</span>
+                </a><a href="../chapters/chapter-fan003-09.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.8s backwards;">
+                  <span class="chapter-number">第IX</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">最终决战</span>
+                </a><a href="../chapters/chapter-fan003-09.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.9s backwards;">
+                  <span class="chapter-number">第X</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">新的守护者</span>
+                </a>
             </div>
           </div>
         </div>
@@ -527,9 +567,9 @@
       bookId: 'preset-fantasy-003',
       title: '龙族守护者',
       type: 'fantasy',
-      chapters: [],
-      characters: [],
-      plotCards: []
+      chapters: [{"chapterId":"chapter-fan003-01","title":"龙蛋的召唤","orderNum":1},{"chapterId":"chapter-fan003-02","title":"龙族学院","orderNum":2},{"chapterId":"chapter-fan003-03","title":"火焰试炼","orderNum":3},{"chapterId":"chapter-fan003-04","title":"黑暗龙的威胁","orderNum":4},{"chapterId":"chapter-fan003-05","title":"第一次战斗","orderNum":5},{"chapterId":"chapter-fan003-06","title":"龙族秘密","orderNum":6},{"chapterId":"chapter-fan003-07","title":"特训","orderNum":7},{"chapterId":"chapter-fan003-08","title":"黑暗龙的巢穴","orderNum":8},{"chapterId":"chapter-fan003-09","title":"最终决战","orderNum":9},{"chapterId":"chapter-fan003-10","title":"新的守护者","orderNum":10}],
+      characters: [{"charId":"char-fan003-001","name":"龙炎","roleType":"龙族守护者","personality":"勇敢正义、热血冲动、重情重义","avatar":"🐉","isProtagonist":1},{"charId":"char-fan003-002","name":"小火","roleType":"龙族精灵","personality":"调皮活泼、火焰之力、忠诚伙伴","avatar":"🔥","isProtagonist":0},{"charId":"char-fan003-003","name":"龙长老","roleType":"龙族智者","personality":"古老睿智、守护龙族秘密","avatar":"🐲","isProtagonist":0}],
+      plotCards: [{"card_id":"card-fan003-w01","sub_type":"weather","name":"火焰风暴","icon":"🔥","description":"火焰与龙息交织的风暴"},{"card_id":"card-fan003-w02","sub_type":"weather","name":"极光","icon":"🌌","description":"绚丽的魔法极光"},{"card_id":"card-fan003-w03","sub_type":"weather","name":"黑暗降临","icon":"🌑","description":"无尽的黑暗"},{"card_id":"card-fan003-w04","sub_type":"weather","name":"创世晨曦","icon":"🌅","description":"创世之初的光芒"},{"card_id":"card-fan003-t01","sub_type":"terrain","name":"龙之巢","icon":"🐉","description":"巨龙的巢穴，龙族的家园"},{"card_id":"card-fan003-t02","sub_type":"terrain","name":"龙族学院","icon":"🏫","description":"培养龙族守护者的地方"},{"card_id":"card-fan003-t03","sub_type":"terrain","name":"神殿","icon":"⛩️","description":"神圣的殿堂"},{"card_id":"card-fan003-t04","sub_type":"terrain","name":"深渊","icon":"🕳️","description":"无尽的深渊"},{"card_id":"card-fan003-a01","sub_type":"adventure","name":"屠龙","icon":"🐉","description":"挑战巨龙，证明勇气"},{"card_id":"card-fan003-a02","sub_type":"adventure","name":"元素觉醒","icon":"🔥","description":"掌控元素之力"},{"card_id":"card-fan003-a03","sub_type":"adventure","name":"守护使命","icon":"🛡️","description":"守护龙族"},{"card_id":"card-fan003-a04","sub_type":"adventure","name":"魔法对决","icon":"⚡","description":"魔法师的决斗"},{"card_id":"card-fan003-e01","sub_type":"equipment","name":"龙鳞甲","icon":"🛡️","description":"龙鳞制成的护甲，坚不可摧"},{"card_id":"card-fan003-e02","sub_type":"equipment","name":"元素宝石","icon":"💠","description":"储存元素之力"},{"card_id":"card-fan003-e03","sub_type":"equipment","name":"魔杖","icon":"🪄","description":"施展魔法的法杖"},{"card_id":"card-fan003-e04","sub_type":"equipment","name":"龙心勋章","icon":"🏅","description":"龙族最高荣誉"},{"card_id":"card-fan003-01","sub_type":"weather","name":"火焰风暴","icon":"🔥","description":"火焰与龙息交织的风暴"},{"card_id":"card-fan003-02","sub_type":"terrain","name":"龙之巢","icon":"🐉","description":"巨龙的巢穴，龙族的家园"},{"card_id":"card-fan003-03","sub_type":"adventure","name":"屠龙","icon":"🐉","description":"挑战巨龙，证明勇气"},{"card_id":"card-fan003-04","sub_type":"equipment","name":"龙鳞甲","icon":"🛡️","description":"龙鳞制成的护甲，坚不可摧"}]
     };
     
     let currentView = 'chapters';
