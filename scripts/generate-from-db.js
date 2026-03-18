@@ -1022,12 +1022,21 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       box-shadow: 0 8px 25px rgba(212, 175, 55, 0.3);
     }
     
-    @media (max-width: 900px) {
+    @media (max-width: 768px) {
+      .book-opening-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 80px;
+        overflow-x: hidden;
+      }
+      
       .book-container {
-        width: 95%;
+        width: 100%;
         height: auto;
         min-height: auto;
         flex-direction: column;
+        padding-top: 0;
       }
       
       .book-spine {
@@ -1038,13 +1047,134 @@ function generateBookHTML(book, characters, chapters, plotCards) {
         position: relative;
         width: 100%;
         height: auto;
-        min-height: 400px;
-        margin-bottom: 20px;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
       }
       
       .book-page.left,
       .book-page.right {
-        border-radius: 8px;
+        border-radius: 0;
+      }
+      
+      .book-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .book-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .page-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+      }
+      
+      .book-info-header {
+        flex-direction: row;
+        gap: 12px;
+        padding: 12px;
+        margin-bottom: 15px;
+      }
+      
+      .book-cover-small {
+        width: 60px;
+        height: 80px;
+        flex-shrink: 0;
+      }
+      
+      .book-cover-small span {
+        font-size: 28px;
+      }
+      
+      .book-meta-info h2 {
+        font-size: 16px;
+        margin-bottom: 4px;
+      }
+      
+      .book-meta-info .stats {
+        flex-wrap: wrap;
+        gap: 8px;
+        font-size: 11px;
+      }
+      
+      .action-buttons {
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 10px;
+      }
+      
+      .action-btn {
+        padding: 8px 12px;
+        font-size: 11px;
+        min-height: 36px;
+      }
+      
+      .view-tabs {
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .view-tab {
+        padding: 6px 12px;
+        font-size: 11px;
+      }
+      
+      .chapter-toc-item {
+        flex-wrap: wrap;
+      }
+      
+      .chapter-toc-item .chapter-dots {
+        display: none;
+      }
+      
+      .chapter-toc-item .chapter-title {
+        max-width: 100%;
+      }
+      
+      .hs-card-mini {
+        width: 120px;
+        height: 160px;
+      }
+      
+      .character-grid-view,
+      .plot-grid-view {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        padding: 10px 0;
       }
     }
   </style>
@@ -1723,11 +1853,21 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
       text-decoration: underline;
     }
     
-    @media (max-width: 1000px) {
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
       .reading-book-container {
         width: 100%;
         height: auto;
         min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
       }
       
       .reading-spine {
@@ -1737,23 +1877,158 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
       .reading-page {
         position: relative;
         width: 100%;
-        min-height: 500px;
-        margin-bottom: 20px;
-        border-radius: 8px;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
       }
     }
     
     @media (max-width: 600px) {
       .reading-content {
-        padding: 25px 20px;
+        padding: 12px 10px;
+        padding-bottom: 15px;
       }
       
       .manuscript-text {
-        font-size: 16px;
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
       }
       
       .drop-cap {
-        font-size: 3.5em;
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
       }
     }
   </style>
@@ -1774,7 +2049,7 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
     <div class="reading-book-container">
       <div class="reading-spine"></div>
       
-      <div class="reading-page left">
+      <div class="reading-page left" id="leftPage">
         <div class="parchment-texture"></div>
         <div class="page-edge top"></div>
         <div class="page-edge left"></div>
@@ -1784,7 +2059,7 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
         </div>
       </div>
       
-      <div class="reading-page right">
+      <div class="reading-page right" id="rightPage">
         <div class="parchment-texture"></div>
         <div class="page-edge top"></div>
         <div class="page-edge right"></div>
@@ -1817,7 +2092,64 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
       if (typeof createParticles === 'function') {
         createParticles(document.getElementById('particles'), 20);
       }
+      
+      initMobileNavigation();
     });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('${nextLabel}') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('${prevLabel}') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
   </script>
 </body>
 </html>`;

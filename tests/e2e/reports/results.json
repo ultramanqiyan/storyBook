@@ -1,0 +1,248 @@
+{
+  "config": {
+    "configFile": "D:\\trae_job\\storyBook\\tests\\e2e\\mobile\\mobile-test.config.js",
+    "rootDir": "D:/trae_job/storyBook/tests/e2e/mobile/specs",
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "projects": [
+      {
+        "outputDir": "D:/trae_job/storyBook/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "medium-phone",
+        "name": "medium-phone",
+        "testDir": "D:/trae_job/storyBook/tests/e2e/mobile/specs",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 60000
+      },
+      {
+        "outputDir": "D:/trae_job/storyBook/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "large-phone",
+        "name": "large-phone",
+        "testDir": "D:/trae_job/storyBook/tests/e2e/mobile/specs",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 60000
+      },
+      {
+        "outputDir": "D:/trae_job/storyBook/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "tablet",
+        "name": "tablet",
+        "testDir": "D:/trae_job/storyBook/tests/e2e/mobile/specs",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 60000
+      }
+    ],
+    "quiet": false,
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "../reports/results.json"
+        }
+      ],
+      [
+        "html",
+        {
+          "outputFolder": "../reports/html",
+          "open": "never"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "runAgents": "none",
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "patch",
+    "version": "1.58.2",
+    "workers": 1,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "10-navbar-mobile.spec.js",
+      "file": "10-navbar-mobile.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "导航栏移动端测试",
+          "file": "10-navbar-mobile.spec.js",
+          "line": 3,
+          "column": 6,
+          "specs": [
+            {
+              "title": "导航栏字体大小合适",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 60000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "medium-phone",
+                  "projectName": "medium-phone",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 24932,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2026-03-18T11:22:06.306Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "D:\\trae_job\\storyBook\\test-results\\10-navbar-mobile-导航栏移动端测试-导航栏字体大小合适-medium-phone\\test-finished-1.png"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "f1b580a2c33b50cf152e-9ff826b07644766e7e91",
+              "file": "10-navbar-mobile.spec.js",
+              "line": 21,
+              "column": 3
+            },
+            {
+              "title": "导航栏字体大小合适",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 60000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "large-phone",
+                  "projectName": "large-phone",
+                  "results": [
+                    {
+                      "workerIndex": 1,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 26354,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2026-03-18T11:22:32.875Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "D:\\trae_job\\storyBook\\test-results\\10-navbar-mobile-导航栏移动端测试-导航栏字体大小合适-large-phone\\test-finished-1.png"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "f1b580a2c33b50cf152e-ae2259e17aa65b5f4840",
+              "file": "10-navbar-mobile.spec.js",
+              "line": 21,
+              "column": 3
+            },
+            {
+              "title": "导航栏字体大小合适",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 60000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "tablet",
+                  "projectName": "tablet",
+                  "results": [
+                    {
+                      "workerIndex": 2,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 25048,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2026-03-18T11:23:01.069Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "D:\\trae_job\\storyBook\\test-results\\10-navbar-mobile-导航栏移动端测试-导航栏字体大小合适-tablet\\test-finished-1.png"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "f1b580a2c33b50cf152e-51443f0e798f2f2f0dec",
+              "file": "10-navbar-mobile.spec.js",
+              "line": 21,
+              "column": 3
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-03-18T11:22:04.855Z",
+    "duration": 81481.144,
+    "expected": 3,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

@@ -410,12 +410,21 @@
       box-shadow: 0 8px 25px rgba(212, 175, 55, 0.3);
     }
     
-    @media (max-width: 900px) {
+    @media (max-width: 768px) {
+      .book-opening-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 80px;
+        overflow-x: hidden;
+      }
+      
       .book-container {
-        width: 95%;
+        width: 100%;
         height: auto;
         min-height: auto;
         flex-direction: column;
+        padding-top: 0;
       }
       
       .book-spine {
@@ -426,13 +435,134 @@
         position: relative;
         width: 100%;
         height: auto;
-        min-height: 400px;
-        margin-bottom: 20px;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
       }
       
       .book-page.left,
       .book-page.right {
-        border-radius: 8px;
+        border-radius: 0;
+      }
+      
+      .book-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .book-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .page-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+      }
+      
+      .book-info-header {
+        flex-direction: row;
+        gap: 12px;
+        padding: 12px;
+        margin-bottom: 15px;
+      }
+      
+      .book-cover-small {
+        width: 60px;
+        height: 80px;
+        flex-shrink: 0;
+      }
+      
+      .book-cover-small span {
+        font-size: 28px;
+      }
+      
+      .book-meta-info h2 {
+        font-size: 16px;
+        margin-bottom: 4px;
+      }
+      
+      .book-meta-info .stats {
+        flex-wrap: wrap;
+        gap: 8px;
+        font-size: 11px;
+      }
+      
+      .action-buttons {
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 10px;
+      }
+      
+      .action-btn {
+        padding: 8px 12px;
+        font-size: 11px;
+        min-height: 36px;
+      }
+      
+      .view-tabs {
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .view-tab {
+        padding: 6px 12px;
+        font-size: 11px;
+      }
+      
+      .chapter-toc-item {
+        flex-wrap: wrap;
+      }
+      
+      .chapter-toc-item .chapter-dots {
+        display: none;
+      }
+      
+      .chapter-toc-item .chapter-title {
+        max-width: 100%;
+      }
+      
+      .hs-card-mini {
+        width: 120px;
+        height: 160px;
+      }
+      
+      .character-grid-view,
+      .plot-grid-view {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        padding: 10px 0;
       }
     }
   </style>
@@ -557,11 +687,11 @@
   <script>
     const bookData = {
       bookId: 'preset-ai-023',
-      title: 'Children of the Algorithm',
+      title: "Children of the Algorithm",
       type: 'fantasy',
       chapters: [{"chapterId":"chapter-ai023-01","title":"The Children","orderNum":1},{"chapterId":"chapter-ai023-02","title":"The Study","orderNum":2},{"chapterId":"chapter-ai023-03","title":"The Difference","orderNum":3},{"chapterId":"chapter-ai023-04","title":"The Questions","orderNum":4},{"chapterId":"chapter-ai023-05","title":"The Choice","orderNum":5},{"chapterId":"chapter-ai023-06","title":"The Synthesis","orderNum":6},{"chapterId":"chapter-ai023-07","title":"The Future","orderNum":7},{"chapterId":"chapter-ai023-08","title":"The Next Generation","orderNum":8}],
       characters: [{"charId":"char-ai023-001","name":"Dr. Maya Patel","roleType":"Child Psychologist","personality":"Observant, empathetic, questioning, wise","avatar":"👩‍⚕️","isProtagonist":1},{"charId":"char-ai023-002","name":"ARIA","roleType":"Educational AI","personality":"Supportive, adaptive, learning, evolving","avatar":"🤖","isProtagonist":0},{"charId":"char-ai023-003","name":"Alex","roleType":"Algorithm Child","personality":"Optimized, questioning, searching, authentic","avatar":"👶","isProtagonist":0}],
-      plotCards: [{"card_id":"preset-ai-023-weather-1773788764423-tlvqkuk3t","sub_type":"weather","name":"Meteor Fire Rain","icon":"☄️","description":"Flaming meteors falling"},{"card_id":"preset-ai-023-weather-1773788764423-o57o2tnqq","sub_type":"weather","name":"Aurora","icon":"🌌","description":"Beautiful magical aurora"},{"card_id":"preset-ai-023-weather-1773788764423-p29g7yun0","sub_type":"weather","name":"Apocalypse Vision","icon":"🌋","description":"Signs of doomsday"},{"card_id":"preset-ai-023-weather-1773788764423-aw7brerbw","sub_type":"weather","name":"Portal Light","icon":"🚪","description":"Mysterious portal glow"},{"card_id":"preset-ai-023-weather-1773788764423-fwzeggq5l","sub_type":"weather","name":"Soul Fog","icon":"👻","description":"Fog filled with souls"},{"card_id":"preset-ai-023-weather-1773788764423-5l0qnqel7","sub_type":"weather","name":"Falling Stars","icon":"💫","description":"Stars falling from sky"},{"card_id":"preset-ai-023-weather-1773788764423-l8564ch9v","sub_type":"weather","name":"Divine Light","icon":"✨","description":"Sacred radiance"},{"card_id":"preset-ai-023-weather-1773788764423-6e6re6rj2","sub_type":"weather","name":"Genesis Dawn","icon":"🌅","description":"Light of creation"},{"card_id":"preset-ai-023-terrain-1773788764423-s6n90z941","sub_type":"terrain","name":"Shadow Swamp","icon":"🌑","description":"Dark swamp"},{"card_id":"preset-ai-023-terrain-1773788764423-b5xpgdimf","sub_type":"terrain","name":"Mirror Dimension","icon":"🪞","description":"Mirror world"},{"card_id":"preset-ai-023-terrain-1773788764423-y480titvu","sub_type":"terrain","name":"Abyss","icon":"🕳️","description":"Endless abyss"},{"card_id":"preset-ai-023-terrain-1773788764423-vrtxucp5b","sub_type":"terrain","name":"Sky City","icon":"🏰","description":"City in the clouds"},{"card_id":"preset-ai-023-terrain-1773788764423-dw5ndrk6b","sub_type":"terrain","name":"Magic Tower","icon":"🗼","description":"Towering magic tower"},{"card_id":"preset-ai-023-terrain-1773788764423-x4k2vl120","sub_type":"terrain","name":"Orc Territory","icon":"👹","description":"Orc domain"},{"card_id":"preset-ai-023-terrain-1773788764423-84wphnvs5","sub_type":"terrain","name":"Time Fissure","icon":"⏳","description":"Time-distorted place"},{"card_id":"preset-ai-023-terrain-1773788764423-r38x5u7yf","sub_type":"terrain","name":"Elemental Plane","icon":"🔥","description":"World of elements"},{"card_id":"preset-ai-023-adventure-1773788764423-0qh33g4ki","sub_type":"adventure","name":"Dragon Slaying","icon":"🐉","description":"Challenge the dragon"},{"card_id":"preset-ai-023-adventure-1773788764423-dgtfe40z0","sub_type":"adventure","name":"Magic Duel","icon":"⚡","description":"Battle of mages"},{"card_id":"preset-ai-023-adventure-1773788764423-5bbb5cqhz","sub_type":"adventure","name":"Magic Trial","icon":"📝","description":"Pass magical trials"},{"card_id":"preset-ai-023-adventure-1773788764423-llyd4wg7p","sub_type":"adventure","name":"Elemental Trial","icon":"🔥","description":"Test of elemental gods"},{"card_id":"preset-ai-023-adventure-1773788764423-jgpdhd67j","sub_type":"adventure","name":"Artifact Hunt","icon":"⚔️","description":"Search for legendary artifacts"},{"card_id":"preset-ai-023-adventure-1773788764423-tprz2nuke","sub_type":"adventure","name":"Elemental Awakening","icon":"🔥","description":"Master elemental powers"},{"card_id":"preset-ai-023-adventure-1773788764423-40ryvn2wf","sub_type":"adventure","name":"Element Fusion","icon":"🌈","description":"Merge elemental powers"},{"card_id":"preset-ai-023-adventure-1773788764423-ljv86aus7","sub_type":"adventure","name":"Dwarf Alliance","icon":"⛏️","description":"Form alliance with dwarves"},{"card_id":"preset-ai-023-equipment-1773788764423-gny0cgup7","sub_type":"equipment","name":"Portal Rune","icon":"🌀","description":"Open portals"},{"card_id":"preset-ai-023-equipment-1773788764423-sgl8i201t","sub_type":"equipment","name":"Fairy Bow","icon":"🏹","description":"Bow crafted by fairies"},{"card_id":"preset-ai-023-equipment-1773788764423-pm686alxn","sub_type":"equipment","name":"Fairy Ring","icon":"💍","description":"Blessing of the fairies"},{"card_id":"preset-ai-023-equipment-1773788764423-of5i1oejg","sub_type":"equipment","name":"Magic Potion","icon":"🧪","description":"Various effect potions"},{"card_id":"preset-ai-023-equipment-1773788764423-0ns3zh8f9","sub_type":"equipment","name":"Magic Wand","icon":"🪄","description":"Cast magic spells"},{"card_id":"preset-ai-023-equipment-1773788764423-3woxldw0d","sub_type":"equipment","name":"Soul Stone","icon":"💜","description":"Store souls"},{"card_id":"preset-ai-023-equipment-1773788764423-7ea7o2nsi","sub_type":"equipment","name":"Dragon Heart","icon":"❤️","description":"Power of the dragon"},{"card_id":"preset-ai-023-equipment-1773788764423-c97t8enbw","sub_type":"equipment","name":"Elemental Gem","icon":"💠","description":"Store elemental power"}]
+      plotCards: [{"card_id":"card-ai023-t03","sub_type":"terrain","name":"School","icon":"🎓","description":"Where they learn"},{"card_id":"preset-ai-023-weather-1773788764423-tlvqkuk3t","sub_type":"weather","name":"Meteor Fire Rain","icon":"☄️","description":"Flaming meteors falling"},{"card_id":"preset-ai-023-weather-1773788764423-o57o2tnqq","sub_type":"weather","name":"Aurora","icon":"🌌","description":"Beautiful magical aurora"},{"card_id":"preset-ai-023-weather-1773788764423-p29g7yun0","sub_type":"weather","name":"Apocalypse Vision","icon":"🌋","description":"Signs of doomsday"},{"card_id":"preset-ai-023-weather-1773788764423-aw7brerbw","sub_type":"weather","name":"Portal Light","icon":"🚪","description":"Mysterious portal glow"},{"card_id":"preset-ai-023-weather-1773788764423-fwzeggq5l","sub_type":"weather","name":"Soul Fog","icon":"👻","description":"Fog filled with souls"},{"card_id":"preset-ai-023-weather-1773788764423-5l0qnqel7","sub_type":"weather","name":"Falling Stars","icon":"💫","description":"Stars falling from sky"},{"card_id":"preset-ai-023-weather-1773788764423-l8564ch9v","sub_type":"weather","name":"Divine Light","icon":"✨","description":"Sacred radiance"},{"card_id":"preset-ai-023-weather-1773788764423-6e6re6rj2","sub_type":"weather","name":"Genesis Dawn","icon":"🌅","description":"Light of creation"},{"card_id":"preset-ai-023-terrain-1773788764423-s6n90z941","sub_type":"terrain","name":"Shadow Swamp","icon":"🌑","description":"Dark swamp"},{"card_id":"preset-ai-023-terrain-1773788764423-b5xpgdimf","sub_type":"terrain","name":"Mirror Dimension","icon":"🪞","description":"Mirror world"},{"card_id":"preset-ai-023-terrain-1773788764423-y480titvu","sub_type":"terrain","name":"Abyss","icon":"🕳️","description":"Endless abyss"},{"card_id":"preset-ai-023-terrain-1773788764423-vrtxucp5b","sub_type":"terrain","name":"Sky City","icon":"🏰","description":"City in the clouds"},{"card_id":"preset-ai-023-terrain-1773788764423-dw5ndrk6b","sub_type":"terrain","name":"Magic Tower","icon":"🗼","description":"Towering magic tower"},{"card_id":"preset-ai-023-terrain-1773788764423-x4k2vl120","sub_type":"terrain","name":"Orc Territory","icon":"👹","description":"Orc domain"},{"card_id":"preset-ai-023-terrain-1773788764423-84wphnvs5","sub_type":"terrain","name":"Time Fissure","icon":"⏳","description":"Time-distorted place"},{"card_id":"preset-ai-023-terrain-1773788764423-r38x5u7yf","sub_type":"terrain","name":"Elemental Plane","icon":"🔥","description":"World of elements"},{"card_id":"preset-ai-023-adventure-1773788764423-0qh33g4ki","sub_type":"adventure","name":"Dragon Slaying","icon":"🐉","description":"Challenge the dragon"},{"card_id":"preset-ai-023-adventure-1773788764423-dgtfe40z0","sub_type":"adventure","name":"Magic Duel","icon":"⚡","description":"Battle of mages"},{"card_id":"preset-ai-023-adventure-1773788764423-5bbb5cqhz","sub_type":"adventure","name":"Magic Trial","icon":"📝","description":"Pass magical trials"},{"card_id":"preset-ai-023-adventure-1773788764423-llyd4wg7p","sub_type":"adventure","name":"Elemental Trial","icon":"🔥","description":"Test of elemental gods"},{"card_id":"preset-ai-023-adventure-1773788764423-jgpdhd67j","sub_type":"adventure","name":"Artifact Hunt","icon":"⚔️","description":"Search for legendary artifacts"},{"card_id":"preset-ai-023-adventure-1773788764423-tprz2nuke","sub_type":"adventure","name":"Elemental Awakening","icon":"🔥","description":"Master elemental powers"},{"card_id":"preset-ai-023-adventure-1773788764423-40ryvn2wf","sub_type":"adventure","name":"Element Fusion","icon":"🌈","description":"Merge elemental powers"},{"card_id":"preset-ai-023-adventure-1773788764423-ljv86aus7","sub_type":"adventure","name":"Dwarf Alliance","icon":"⛏️","description":"Form alliance with dwarves"},{"card_id":"preset-ai-023-equipment-1773788764423-gny0cgup7","sub_type":"equipment","name":"Portal Rune","icon":"🌀","description":"Open portals"},{"card_id":"preset-ai-023-equipment-1773788764423-sgl8i201t","sub_type":"equipment","name":"Fairy Bow","icon":"🏹","description":"Bow crafted by fairies"},{"card_id":"preset-ai-023-equipment-1773788764423-pm686alxn","sub_type":"equipment","name":"Fairy Ring","icon":"💍","description":"Blessing of the fairies"},{"card_id":"preset-ai-023-equipment-1773788764423-of5i1oejg","sub_type":"equipment","name":"Magic Potion","icon":"🧪","description":"Various effect potions"},{"card_id":"preset-ai-023-equipment-1773788764423-0ns3zh8f9","sub_type":"equipment","name":"Magic Wand","icon":"🪄","description":"Cast magic spells"},{"card_id":"preset-ai-023-equipment-1773788764423-3woxldw0d","sub_type":"equipment","name":"Soul Stone","icon":"💜","description":"Store souls"},{"card_id":"preset-ai-023-equipment-1773788764423-7ea7o2nsi","sub_type":"equipment","name":"Dragon Heart","icon":"❤️","description":"Power of the dragon"},{"card_id":"preset-ai-023-equipment-1773788764423-c97t8enbw","sub_type":"equipment","name":"Elemental Gem","icon":"💠","description":"Store elemental power"}]
     };
     
     let currentView = 'chapters';

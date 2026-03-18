@@ -410,12 +410,21 @@
       box-shadow: 0 8px 25px rgba(212, 175, 55, 0.3);
     }
     
-    @media (max-width: 900px) {
+    @media (max-width: 768px) {
+      .book-opening-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 80px;
+        overflow-x: hidden;
+      }
+      
       .book-container {
-        width: 95%;
+        width: 100%;
         height: auto;
         min-height: auto;
         flex-direction: column;
+        padding-top: 0;
       }
       
       .book-spine {
@@ -426,13 +435,134 @@
         position: relative;
         width: 100%;
         height: auto;
-        min-height: 400px;
-        margin-bottom: 20px;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
       }
       
       .book-page.left,
       .book-page.right {
-        border-radius: 8px;
+        border-radius: 0;
+      }
+      
+      .book-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .book-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .page-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+      }
+      
+      .book-info-header {
+        flex-direction: row;
+        gap: 12px;
+        padding: 12px;
+        margin-bottom: 15px;
+      }
+      
+      .book-cover-small {
+        width: 60px;
+        height: 80px;
+        flex-shrink: 0;
+      }
+      
+      .book-cover-small span {
+        font-size: 28px;
+      }
+      
+      .book-meta-info h2 {
+        font-size: 16px;
+        margin-bottom: 4px;
+      }
+      
+      .book-meta-info .stats {
+        flex-wrap: wrap;
+        gap: 8px;
+        font-size: 11px;
+      }
+      
+      .action-buttons {
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 10px;
+      }
+      
+      .action-btn {
+        padding: 8px 12px;
+        font-size: 11px;
+        min-height: 36px;
+      }
+      
+      .view-tabs {
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .view-tab {
+        padding: 6px 12px;
+        font-size: 11px;
+      }
+      
+      .chapter-toc-item {
+        flex-wrap: wrap;
+      }
+      
+      .chapter-toc-item .chapter-dots {
+        display: none;
+      }
+      
+      .chapter-toc-item .chapter-title {
+        max-width: 100%;
+      }
+      
+      .hs-card-mini {
+        width: 120px;
+        height: 160px;
+      }
+      
+      .character-grid-view,
+      .plot-grid-view {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        padding: 10px 0;
       }
     }
   </style>
@@ -565,7 +695,7 @@
   <script>
     const bookData = {
       bookId: 'preset-romance-003-en',
-      title: 'Cafe Encounter',
+      title: "Cafe Encounter",
       type: 'romance',
       chapters: [{"chapterId":"chapter-rom003-01-en","title":"Coffee Shop in the Rain","orderNum":1},{"chapterId":"chapter-rom003-02-en","title":"Regular Customer","orderNum":2},{"chapterId":"chapter-rom003-03-en","title":"Art Exhibition Invitation","orderNum":3},{"chapterId":"chapter-rom003-04-en","title":"Heartbeat Moment","orderNum":4},{"chapterId":"chapter-rom003-05-en","title":"Misunderstanding","orderNum":5},{"chapterId":"chapter-rom003-06-en","title":"The Truth","orderNum":6},{"chapterId":"chapter-rom003-07-en","title":"Shared Dreams","orderNum":7},{"chapterId":"chapter-rom003-08-en","title":"Difficulty","orderNum":8},{"chapterId":"chapter-rom003-09-en","title":"Proposal","orderNum":9},{"chapterId":"chapter-rom003-10-en","title":"Happiness","orderNum":10}],
       characters: [{"charId":"char-rom003-001-en","name":"Summer","roleType":"Illustrator","personality":"gentle, artistic, guarded heart","avatar":"👩","isProtagonist":1},{"charId":"char-rom003-002-en","name":"Morgan","roleType":"Cafe Owner","personality":"warm, reliable, good listener","avatar":"👨","isProtagonist":0},{"charId":"char-rom003-003-en","name":"Rain","roleType":"Best Friend","personality":"cheerful, meddlesome, supportive","avatar":"👩","isProtagonist":0}],
