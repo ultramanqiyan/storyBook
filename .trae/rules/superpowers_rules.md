@@ -18,7 +18,6 @@
 | `receiving-code-review` | 收到代码审查反馈 | 实施建议前 |
 | `verification-before-completion` | 即将声称工作完成、修复、通过 | 提交或创建PR前 |
 | `finishing-a-development-branch` | 实现完成、测试通过 | 决定如何集成工作 |
-| `using-git-worktrees` | 开始需要隔离的功能工作 | 执行实施计划前 |
 | `dispatching-parallel-agents` | 面对2+独立任务 | 可并行工作时 |
 | `writing-skills` | 创建新技能、编辑现有技能 | 部署前验证技能 |
 
@@ -174,3 +173,27 @@
 2. **按顺序调用技能**，不要跳过步骤
 3. **遵循技能指导**，不要自行其是
 4. **记录技能调用**，便于追溯
+
+## 禁止事项
+
+### 禁止使用 Git Worktree
+
+**本项目禁止使用 `git worktree` 功能。**
+
+| 项目 | 说明 |
+|------|------|
+| 禁止原因 | 历史上多次出现问题，包括但不限于：分支混乱、文件冲突、状态不同步等 |
+| 替代方案 | 使用常规的分支切换方式：`git checkout`、`git switch` 或创建新分支 |
+| 强制级别 | **绝对禁止**，无例外情况 |
+
+**禁止的操作：**
+- ❌ `git worktree add`
+- ❌ `git worktree remove`
+- ❌ `git worktree prune`
+- ❌ 任何与 worktree 相关的操作
+
+**推荐的操作：**
+- ✅ `git checkout <branch>` - 切换分支
+- ✅ `git switch <branch>` - 切换分支（Git 2.23+）
+- ✅ `git checkout -b <new-branch>` - 创建并切换新分支
+- ✅ `git stash` - 暂存当前修改后切换分支
