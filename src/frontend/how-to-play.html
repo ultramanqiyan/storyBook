@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -551,13 +551,15 @@
       
       .sidebar-nav {
         position: fixed;
-        top: 70px;
+        top: 44px;
         left: 0;
         width: 100%;
         height: auto;
         border-right: none;
         border-bottom: 1px solid rgba(255, 215, 0, 0.2);
-        padding: var(--spacing-md) 0;
+        padding: 6px 0;
+        background: rgba(15, 15, 35, 0.98);
+        z-index: 99;
       }
       
       .sidebar-nav-title {
@@ -567,9 +569,20 @@
       .sidebar-nav-list {
         display: flex;
         overflow-x: auto;
-        padding: 0 var(--spacing-md);
-        gap: var(--spacing-sm);
+        padding: 0 16px 0 8px;
+        gap: 4px;
         -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+      }
+      
+      .sidebar-nav-list::-webkit-scrollbar {
+        display: none;
+      }
+      
+      .sidebar-nav-list::after {
+        content: '';
+        flex-shrink: 0;
+        width: 16px;
       }
       
       .sidebar-nav-item {
@@ -577,46 +590,110 @@
       }
       
       .sidebar-nav-link {
-        padding: 8px 16px;
+        padding: 6px 12px;
         border-left: none;
         border-bottom: 2px solid transparent;
-        border-radius: 20px;
+        border-radius: 16px;
         white-space: nowrap;
+        font-size: 11px;
+      }
+      
+      .sidebar-nav-link .nav-icon {
+        font-size: 14px;
       }
       
       .sidebar-nav-link.active {
         border-left: none;
         border-bottom-color: var(--color-gold);
+        background: rgba(255, 215, 0, 0.15);
       }
       
       .content-area {
         margin-left: 0;
-        margin-top: 60px;
-        padding: var(--spacing-lg);
+        margin-top: 100px;
+        padding: var(--spacing-md);
       }
       
       .intro-hero-title {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
+      }
+      
+      .intro-hero-subtitle {
+        font-size: 1rem;
       }
       
       .section-title {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
+      }
+      
+      .step-container {
+        padding: var(--spacing-md);
+      }
+      
+      .step-number {
+        width: 32px;
+        height: 32px;
+        font-size: 1rem;
+      }
+      
+      .step-title {
+        font-size: 1rem;
       }
       
       .book-type-grid {
         grid-template-columns: repeat(2, 1fr);
+        gap: var(--spacing-sm);
+      }
+      
+      .book-type-card {
+        padding: var(--spacing-sm);
+      }
+      
+      .book-type-icon {
+        font-size: 1.5rem;
+      }
+      
+      .book-type-name {
+        font-size: 0.8rem;
       }
       
       .card-type-grid {
         grid-template-columns: repeat(2, 1fr);
+        gap: var(--spacing-sm);
+      }
+      
+      .card-type-item {
+        padding: var(--spacing-sm);
       }
       
       .director-step {
         flex-direction: column;
       }
       
+      .director-step-number {
+        width: 40px;
+        height: 40px;
+        font-size: 1.2rem;
+      }
+      
       .cta-buttons {
         flex-direction: column;
+      }
+      
+      .feature-card {
+        padding: var(--spacing-md);
+      }
+      
+      .feature-card-icon {
+        font-size: 2rem;
+      }
+      
+      .puzzle-types {
+        grid-template-columns: 1fr;
+      }
+      
+      .puzzle-type-card {
+        padding: var(--spacing-md);
       }
     }
   </style>
