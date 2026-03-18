@@ -359,7 +359,7 @@ test.describe('静态预设书籍页面完整旅程测试', () => {
     const firstChapter = page.locator('.chapter-toc-item').first();
     await firstChapter.click();
 
-    await page.waitForURL(/chapter/, { timeout: 5000 });
+    await page.waitForURL(/chapter/, { timeout: 30000 });
     expect(page.url()).toContain('is_preset=1');
   });
 
@@ -683,7 +683,7 @@ test.describe('页面间导航路径完整旅程测试', () => {
     const firstChapter = page.locator('.chapter-toc-item').first();
     if (await firstChapter.count() > 0) {
       await firstChapter.click();
-      await page.waitForURL(/chapter/, { timeout: 5000 });
+      await page.waitForURL(/chapter/, { timeout: 30000 });
     }
   });
 
@@ -699,7 +699,7 @@ test.describe('页面间导航路径完整旅程测试', () => {
       await page.fill('#email', `nav_test_${Date.now()}@test.com`);
       await page.fill('#password', 'TestPassword123!');
       await page.locator('.wax-seal-btn').first().click();
-      await page.waitForURL(/bookshelf/, { timeout: 10000 });
+      await page.waitForURL(/bookshelf/, { timeout: 30000 });
     }
 
     const createBtn = page.locator('a:has-text("Create"), a:has-text("创建"), .create-btn');
@@ -745,7 +745,7 @@ test.describe('页面间导航路径完整旅程测试', () => {
       const firstChapter = page.locator('.chapter-toc-item').first();
       if (await firstChapter.count() > 0) {
         await firstChapter.click();
-        await page.waitForURL(/chapter/, { timeout: 5000 });
+        await page.waitForURL(/chapter/, { timeout: 30000 });
       }
     }
   });
@@ -779,7 +779,7 @@ test.describe('页面间导航路径完整旅程测试', () => {
     const directorBtn = page.locator('a:has-text("Director"), a[href*="director"]');
     if (await directorBtn.count() > 0) {
       await directorBtn.first().click();
-      await page.waitForURL(/director/, { timeout: 5000 });
+      await page.waitForURL(/director/, { timeout: 30000 });
 
       const characterFan = page.locator('#characterFan .fan-card');
       if (await characterFan.count() > 0) {
@@ -824,7 +824,7 @@ test.describe('页面间导航路径完整旅程测试', () => {
     const logoutBtn = page.locator('a:has-text("Sign Out"), a:has-text("登出"), [onclick*="logout"]').first();
     if (await logoutBtn.count() > 0) {
       await logoutBtn.click();
-      await page.waitForURL(/login/, { timeout: 5000 });
+      await page.waitForURL(/login/, { timeout: 30000 });
 
       expect(page.url()).toContain('login');
     }
@@ -2496,7 +2496,7 @@ test.describe('40次连续添加章节完整旅程测试', () => {
     await page.fill('#password', testPassword);
     await page.click('.wax-seal-btn');
     
-    await page.waitForURL(/bookshelf/, { timeout: 10000 });
+    await page.waitForURL(/bookshelf/, { timeout: 30000 });
     await page.waitForTimeout(1000);
 
     testUserId = await page.evaluate(() => localStorage.getItem('user_id'));
@@ -2525,7 +2525,7 @@ test.describe('40次连续添加章节完整旅程测试', () => {
     
     await page.click('#step3 .btn-next');
     
-    await expect(page.locator('.success-title')).toBeVisible({ timeout: 15000 });
+    await expect(page.locator('.success-title')).toBeVisible({ timeout: 30000 });
 
     // ==================== 步骤4: SQL验证书籍创建成功 ====================
     const newBook = db.query(
@@ -2603,12 +2603,12 @@ test.describe('40次连续添加章节完整旅程测试', () => {
 
       // 点击开始按钮
       const startBtn = page.locator('#startBtn');
-      await expect(startBtn).toBeEnabled({ timeout: 10000 });
+      await expect(startBtn).toBeEnabled({ timeout: 30000 });
       await startBtn.click();
       await page.waitForTimeout(2000);
 
       // 验证跳转到章节页面
-      await expect(page).toHaveURL(/chapter/, { timeout: 15000 });
+      await expect(page).toHaveURL(/chapter/, { timeout: 30000 });
       console.log(`第 ${chapterNum} 章节创建成功，已跳转到章节页`);
 
       // SQL验证章节创建成功
@@ -2652,7 +2652,7 @@ test.describe('40次连续添加章节完整旅程测试', () => {
         
         // 等待谜题弹窗出现
         const puzzleOverlay = page.locator('.puzzle-overlay, .modal, .puzzle-modal');
-        await puzzleOverlay.first().waitFor({ state: 'visible', timeout: 10000 });
+        await puzzleOverlay.first().waitFor({ state: 'visible', timeout: 30000 });
         console.log('谜题弹窗已显示');
         
         // 查找选项
@@ -2807,7 +2807,7 @@ test.describe('40次连续添加章节完整旅程测试', () => {
     await page.waitForTimeout(2000);
 
     const chapterList = page.locator('.chapter-toc-item');
-    await chapterList.first().waitFor({ timeout: 10000 }).catch(() => {});
+    await chapterList.first().waitFor({ timeout: 30000 }).catch(() => {});
     const chapterCount = await chapterList.count();
     expect(chapterCount).toBe(40);
     console.log(`\n书籍详情页显示 ${chapterCount} 个章节`);

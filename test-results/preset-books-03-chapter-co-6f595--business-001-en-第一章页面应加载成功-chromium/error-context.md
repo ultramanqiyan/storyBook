@@ -1,0 +1,64 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: index.html
+    - generic [ref=e4]:
+      - link "Library" [ref=e5] [cursor=pointer]:
+        - /url: bookshelf.html
+      - generic [ref=e6]:
+        - button "EN" [ref=e7]
+        - button "中文" [ref=e8]
+  - generic [ref=e10]:
+    - generic [ref=e12]:
+      - generic [ref=e13]: 📖 35%
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - text: ❧
+          - generic [ref=e16]: CHAPTER I
+          - generic [ref=e17]: Friday Nightmare
+          - text: ❧
+        - paragraph [ref=e19]:
+          - generic [ref=e20]: D
+          - text: "ave stared at his screen, 30 minutes until weekly report deadline. He honestly wrote: fixed 3 bugs, optimized database queries. But Jessica's report floored him: \"Empowered team synergy, closed product loops, realized value transformation...\" Dave thought: I know these words, but together? Worse, the boss praised Jessica's report as \"high-level thinking.\""
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - text: ❧
+        - generic [ref=e24]: CHAPTER II
+        - generic [ref=e25]: The Art of Blame Shifting
+        - text: ❧
+      - paragraph [ref=e27]:
+        - generic [ref=e28]: M
+        - text: "onday meeting, project problem. Jessica stood up: \"The root cause is technical implementation not aligned with product expectations. We need to review the entire chain...\" Dave wanted to argue but didn't know what to say. Afterward, Mike patted his shoulder: \"Young man, workplace isn't just about doing work—it's about protecting yourself.\" Dave realized he was too naive."
+  - generic [ref=e29]:
+    - generic [ref=e30] [cursor=pointer]: ◀
+    - generic [ref=e31]:
+      - button "👤 Characters" [ref=e32] [cursor=pointer]
+      - button "📜 Plots" [ref=e33] [cursor=pointer]
+    - generic [ref=e35]:
+      - generic [ref=e37] [cursor=pointer]:
+        - generic [ref=e38]: 👨
+        - generic [ref=e39]:
+          - generic [ref=e40]: Dave
+          - generic [ref=e41]: Software Engineer
+      - generic [ref=e43] [cursor=pointer]:
+        - generic [ref=e44]: 👩
+        - generic [ref=e45]:
+          - generic [ref=e46]: Jessica
+          - generic [ref=e47]: Product Manager
+      - generic [ref=e49] [cursor=pointer]:
+        - generic [ref=e50]: 👨
+        - generic [ref=e51]:
+          - generic [ref=e52]: Mike
+          - generic [ref=e53]: Tech Lead
+  - generic [ref=e54]:
+    - button "← Previous" [disabled] [ref=e55]:
+      - text: ←
+      - generic [ref=e56]: Previous
+    - generic [ref=e57]: Page 1 of 5
+    - button "Next →" [ref=e58] [cursor=pointer]:
+      - generic [ref=e59]: Next
+      - text: →
+```

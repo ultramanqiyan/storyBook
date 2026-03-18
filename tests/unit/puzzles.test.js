@@ -165,7 +165,7 @@ describe('Puzzles API', () => {
 
       expect(json.success).toBe(true);
       expect(json.data.is_correct).toBe(false);
-      expect(json.data.message).toContain('最大尝试次数');
+      expect(json.data.message).toBe('WRONG_ANSWER_MAX_ATTEMPTS');
     });
   });
 

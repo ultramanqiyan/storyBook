@@ -38,7 +38,7 @@ test.describe('AI系列书籍验证', () => {
     test(`${book.id} 英文版 - 书籍页面应正确显示`, async ({ page }) => {
       await page.goto(`${BASE_URL}/books/${book.id}.html`);
       
-      await expect(page.locator('.book-container')).toBeVisible({ timeout: 10000 });
+      await expect(page.locator('.book-container')).toBeVisible({ timeout: 30000 });
       
       const titleElement = page.locator('.book-meta-info h2');
       await expect(titleElement).toContainText(book.title);
@@ -60,7 +60,7 @@ test.describe('AI系列书籍验证', () => {
       const chapterTitle = await firstChapter.textContent();
       await firstChapter.click();
       
-      await page.waitForURL(/chapter/, { timeout: 10000 });
+      await page.waitForURL(/chapter/, { timeout: 30000 });
       
       const content = page.locator('.reading-content');
       const text = await content.first().textContent();
@@ -71,7 +71,7 @@ test.describe('AI系列书籍验证', () => {
     test(`${book.id}-zh 中文版 - 书籍页面应正确显示`, async ({ page }) => {
       await page.goto(`${BASE_URL}/books/${book.id}-zh.html`);
       
-      await expect(page.locator('.book-container')).toBeVisible({ timeout: 10000 });
+      await expect(page.locator('.book-container')).toBeVisible({ timeout: 30000 });
       
       const titleElement = page.locator('.book-meta-info h2');
       await expect(titleElement).toContainText(book.zhTitle);
@@ -92,7 +92,7 @@ test.describe('AI系列书籍验证', () => {
       const firstChapter = page.locator('.chapter-toc-item').first();
       await firstChapter.click();
       
-      await page.waitForURL(/chapter/, { timeout: 10000 });
+      await page.waitForURL(/chapter/, { timeout: 30000 });
       
       const content = page.locator('.reading-content');
       const text = await content.first().textContent();

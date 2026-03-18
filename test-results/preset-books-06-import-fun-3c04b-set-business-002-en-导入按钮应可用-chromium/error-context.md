@@ -1,0 +1,76 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: ../index.html
+    - generic [ref=e4]:
+      - link "Home" [ref=e5] [cursor=pointer]:
+        - /url: ../index.html
+      - link "Library" [ref=e6] [cursor=pointer]:
+        - /url: ../library.html
+      - link "My Books" [ref=e7] [cursor=pointer]:
+        - /url: ../bookshelf.html
+  - generic [ref=e9]:
+    - generic [ref=e11]: The Side Hustle Symphony
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e16]: 💼
+        - generic [ref=e17]:
+          - generic [ref=e18]: Business
+          - heading "The Side Hustle Symphony" [level=2] [ref=e19]
+          - generic [ref=e20]:
+            - generic [ref=e21]: 📜 10 Chapters
+            - generic [ref=e22]: 👥 3 Characters
+          - generic [ref=e23]:
+            - link "Start Reading" [ref=e24] [cursor=pointer]:
+              - /url: ../chapters/chapter-bus002-01-en.html
+            - button "Continue This Story" [ref=e25] [cursor=pointer]
+      - generic [ref=e26]:
+        - button "📜 Chapters" [ref=e27] [cursor=pointer]
+        - button "👥 Characters" [ref=e28] [cursor=pointer]
+        - button "🃏 Plot Cards" [ref=e29] [cursor=pointer]
+      - generic [ref=e31]:
+        - link "Ch. I Double Life" [ref=e32] [cursor=pointer]:
+          - /url: ../chapters/chapter-bus002-01-en.html
+          - generic [ref=e33]: Ch. I
+          - generic [ref=e35]: Double Life
+        - link "Ch. II Unexpected Opportunity" [ref=e36] [cursor=pointer]:
+          - /url: ../chapters/chapter-bus002-01-en.html
+          - generic [ref=e37]: Ch. II
+          - generic [ref=e39]: Unexpected Opportunity
+        - link "Ch. III The Boss's Warning" [ref=e40] [cursor=pointer]:
+          - /url: ../chapters/chapter-bus002-03-en.html
+          - generic [ref=e41]: Ch. III
+          - generic [ref=e43]: The Boss's Warning
+        - link "Ch. IV Advice from a Pro" [ref=e44] [cursor=pointer]:
+          - /url: ../chapters/chapter-bus002-03-en.html
+          - generic [ref=e45]: Ch. IV
+          - generic [ref=e47]: Advice from a Pro
+        - link "Ch. V The Power of Fans" [ref=e48] [cursor=pointer]:
+          - /url: ../chapters/chapter-bus002-05-en.html
+          - generic [ref=e49]: Ch. V
+          - generic [ref=e51]: The Power of Fans
+    - generic [ref=e55]:
+      - link "Ch. VI The Difficult Choice" [ref=e56] [cursor=pointer]:
+        - /url: ../chapters/chapter-bus002-05-en.html
+        - generic [ref=e57]: Ch. VI
+        - generic [ref=e59]: The Difficult Choice
+      - link "Ch. VII The Day of Resignation" [ref=e60] [cursor=pointer]:
+        - /url: ../chapters/chapter-bus002-07-en.html
+        - generic [ref=e61]: Ch. VII
+        - generic [ref=e63]: The Day of Resignation
+      - link "Ch. VIII Full-Time Challenges" [ref=e64] [cursor=pointer]:
+        - /url: ../chapters/chapter-bus002-07-en.html
+        - generic [ref=e65]: Ch. VIII
+        - generic [ref=e67]: Full-Time Challenges
+      - link "Ch. IX Finding Her Path" [ref=e68] [cursor=pointer]:
+        - /url: ../chapters/chapter-bus002-09-en.html
+        - generic [ref=e69]: Ch. IX
+        - generic [ref=e71]: Finding Her Path
+      - link "Ch. X New Beginning" [ref=e72] [cursor=pointer]:
+        - /url: ../chapters/chapter-bus002-09-en.html
+        - generic [ref=e73]: Ch. X
+        - generic [ref=e75]: New Beginning
+```

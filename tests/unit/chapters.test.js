@@ -51,40 +51,75 @@ describe('Chapters API', () => {
   });
 
   describe('POST /api/chapters - 创建章节', () => {
-    it('应该创建新章节', async () => {
-      mockDB.first.mockResolvedValueOnce({ max_order: 0 });
-      mockDB.run.mockResolvedValueOnce({ success: true });
+    it('应该验证必填字段', async () => {
+      const { onRequestPost } = await import('../../functions/api/chapters.js');
+      
+      const request1 = new Request('http://localhost/api/chapters', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({})
+      });
+      const response1 = await onRequestPost({ request: request1, env: mockEnv });
+      const json1 = await response1.json();
+      expect(json1.success).toBe(false);
+    });
 
+    it('应该验证user_id', async () => {
       const { onRequestPost } = await import('../../functions/api/chapters.js');
       const request = new Request('http://localhost/api/chapters', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           book_id: 'book-123',
-          title: '新章节',
-          content: '章节内容...'
+          selected_cards: {
+            protagonist_id: 'char-1',
+            weather_id: 'card-1',
+            terrain_id: 'card-2',
+            adventure_id: 'card-3'
+          }
         })
       });
-
       const response = await onRequestPost({ request, env: mockEnv });
       const json = await response.json();
-
-      expect(json.success).toBe(true);
-      expect(json.data.title).toBe('新章节');
+      expect(json.success).toBe(false);
+      expect(json.error).toBe('PLEASE_LOGIN');
     });
 
-    it('应该拒绝缺少必填字段', async () => {
+    it('应该验证book_id', async () => {
       const { onRequestPost } = await import('../../functions/api/chapters.js');
       const request = new Request('http://localhost/api/chapters', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({})
+        body: JSON.stringify({
+          user_id: 'user-123',
+          selected_cards: {
+            protagonist_id: 'char-1',
+            weather_id: 'card-1',
+            terrain_id: 'card-2',
+            adventure_id: 'card-3'
+          }
+        })
       });
-
       const response = await onRequestPost({ request, env: mockEnv });
       const json = await response.json();
-
       expect(json.success).toBe(false);
+      expect(json.error).toBe('MISSING_BOOK_ID');
+    });
+
+    it('应该验证selected_cards', async () => {
+      const { onRequestPost } = await import('../../functions/api/chapters.js');
+      const request = new Request('http://localhost/api/chapters', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          user_id: 'user-123',
+          book_id: 'book-123'
+        })
+      });
+      const response = await onRequestPost({ request, env: mockEnv });
+      const json = await response.json();
+      expect(json.success).toBe(false);
+      expect(json.error).toBe('PROTAGONIST_REQUIRED');
     });
   });
 
@@ -94,8 +129,14 @@ describe('Chapters API', () => {
         chapter_id: 'chapter-123',
         title: '测试章节',
         content: '章节内容',
-        order_num: 1
+        order_num: 1,
+        book_id: 'book-123',
+        selected_cards: null
       });
+      mockDB.first.mockResolvedValueOnce(null);
+      mockDB.all.mockResolvedValueOnce({ results: [] });
+      mockDB.first.mockResolvedValueOnce({ count: 1 });
+      mockDB.all.mockResolvedValueOnce({ results: [{ chapter_id: 'chapter-123', order_num: 1 }] });
 
       const { onRequestGet } = await import('../../functions/api/chapters/[id].js');
       const request = new Request('http://localhost/api/chapters/chapter-123', {

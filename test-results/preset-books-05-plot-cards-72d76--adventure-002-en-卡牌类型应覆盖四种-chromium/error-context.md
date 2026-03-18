@@ -1,0 +1,196 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: ../index.html
+    - generic [ref=e4]:
+      - link "Home" [ref=e5] [cursor=pointer]:
+        - /url: ../index.html
+      - link "Library" [ref=e6] [cursor=pointer]:
+        - /url: ../library.html
+      - link "My Books" [ref=e7] [cursor=pointer]:
+        - /url: ../bookshelf.html
+  - generic [ref=e9]:
+    - generic [ref=e11]: The Deep Sea Explorers
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e16]: 🗺️
+        - generic [ref=e17]:
+          - generic [ref=e18]: Adventure
+          - heading "The Deep Sea Explorers" [level=2] [ref=e19]
+          - generic [ref=e20]:
+            - generic [ref=e21]: 📜 10 Chapters
+            - generic [ref=e22]: 👥 3 Characters
+          - generic [ref=e23]:
+            - link "Start Reading" [ref=e24] [cursor=pointer]:
+              - /url: ../chapters/chapter-adv002-01-en.html
+            - button "Continue This Story" [ref=e25] [cursor=pointer]
+      - generic [ref=e26]:
+        - button "📜 Chapters" [ref=e27] [cursor=pointer]
+        - button "👥 Characters" [ref=e28] [cursor=pointer]
+        - button "🃏 Plot Cards" [active] [ref=e29] [cursor=pointer]
+      - generic [ref=e31]:
+        - generic [ref=e32] [cursor=pointer]:
+          - generic [ref=e33]: 🌤️
+          - generic [ref=e34]: Blue Sky
+          - generic [ref=e35]: Clear blue sky, gentle sea breeze
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]: 🏝️
+          - generic [ref=e38]: Island
+          - generic [ref=e39]: Mysterious island, waiting to be explored
+        - generic [ref=e40] [cursor=pointer]:
+          - generic [ref=e41]: 🆘
+          - generic [ref=e42]: Rescue
+          - generic [ref=e43]: Rescue trapped friends, show courage
+        - generic [ref=e44] [cursor=pointer]:
+          - generic [ref=e45]: 📷
+          - generic [ref=e46]: Camera
+          - generic [ref=e47]: Capture beautiful moments
+        - generic [ref=e48] [cursor=pointer]:
+          - generic [ref=e49]: ☀️
+          - generic [ref=e50]: Sunny
+          - generic [ref=e51]: Beautiful sunny day
+        - generic [ref=e52] [cursor=pointer]:
+          - generic [ref=e53]: ☁️
+          - generic [ref=e54]: Clouds
+          - generic [ref=e55]: Fluffy clouds
+        - generic [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: 🌈
+          - generic [ref=e58]: Rainbow
+          - generic [ref=e59]: Beautiful rainbow
+        - generic [ref=e60] [cursor=pointer]:
+          - generic [ref=e61]: 🌙
+          - generic [ref=e62]: Starry Night
+          - generic [ref=e63]: Starry night sky
+        - generic [ref=e64] [cursor=pointer]:
+          - generic [ref=e65]: 🌌
+          - generic [ref=e66]: Aurora
+          - generic [ref=e67]: Spectacular aurora
+        - generic [ref=e68] [cursor=pointer]:
+          - generic [ref=e69]: 🌫️
+          - generic [ref=e70]: Morning Fog
+          - generic [ref=e71]: Hazy morning fog
+        - generic [ref=e72] [cursor=pointer]:
+          - generic [ref=e73]: 🌦️
+          - generic [ref=e74]: Rainbow Rain
+          - generic [ref=e75]: Rainbow after rain
+        - generic [ref=e76] [cursor=pointer]:
+          - generic [ref=e77]: 🌇
+          - generic [ref=e78]: Sunset
+          - generic [ref=e79]: Brilliant sunset
+        - generic [ref=e80] [cursor=pointer]:
+          - generic [ref=e81]: 🌠
+          - generic [ref=e82]: Meteor Shower
+          - generic [ref=e83]: Brilliant meteor shower
+        - generic [ref=e84] [cursor=pointer]:
+          - generic [ref=e85]: 🏖️
+          - generic [ref=e86]: Beach
+          - generic [ref=e87]: Golden beach
+        - generic [ref=e88] [cursor=pointer]:
+          - generic [ref=e89]: 🌴
+          - generic [ref=e90]: Rainforest
+          - generic [ref=e91]: Dense tropical rainforest
+        - generic [ref=e92] [cursor=pointer]:
+          - generic [ref=e93]: 🏰
+          - generic [ref=e94]: Castle
+          - generic [ref=e95]: Ancient castle
+        - generic [ref=e96] [cursor=pointer]:
+          - generic [ref=e97]: 🏚️
+          - generic [ref=e98]: Ruins
+          - generic [ref=e99]: Mysterious ruins
+        - generic [ref=e100] [cursor=pointer]:
+          - generic [ref=e101]: 🪨
+          - generic [ref=e102]: Cave
+          - generic [ref=e103]: Dark cave
+        - generic [ref=e104] [cursor=pointer]:
+          - generic [ref=e105]: 💦
+          - generic [ref=e106]: Waterfall
+          - generic [ref=e107]: Spectacular waterfall
+        - generic [ref=e108] [cursor=pointer]:
+          - generic [ref=e109]: ⛰️
+          - generic [ref=e110]: Mountain Peak
+          - generic [ref=e111]: High mountain peak
+    - generic [ref=e115]:
+      - generic [ref=e116] [cursor=pointer]:
+        - generic [ref=e117]: 🌈
+        - generic [ref=e118]: Rainbow Valley
+        - generic [ref=e119]: Colorful valley
+      - generic [ref=e120] [cursor=pointer]:
+        - generic [ref=e121]: 🪸
+        - generic [ref=e122]: Coral Reef
+        - generic [ref=e123]: Beautiful coral reef
+      - generic [ref=e124] [cursor=pointer]:
+        - generic [ref=e125]: 🔮
+        - generic [ref=e126]: Discover Secrets
+        - generic [ref=e127]: Uncover hidden secrets
+      - generic [ref=e128] [cursor=pointer]:
+        - generic [ref=e129]: 🧭
+        - generic [ref=e130]: Explore
+        - generic [ref=e131]: Explore unknown places
+      - generic [ref=e132] [cursor=pointer]:
+        - generic [ref=e133]: 🦋
+        - generic [ref=e134]: Observe Animals
+        - generic [ref=e135]: Observe cute animals
+      - generic [ref=e136] [cursor=pointer]:
+        - generic [ref=e137]: 🧩
+        - generic [ref=e138]: Solve Puzzles
+        - generic [ref=e139]: Solve ancient puzzles
+      - generic [ref=e140] [cursor=pointer]:
+        - generic [ref=e141]: 🗺️
+        - generic [ref=e142]: Treasure Hunt
+        - generic [ref=e143]: Find hidden treasure
+      - generic [ref=e144] [cursor=pointer]:
+        - generic [ref=e145]: 🧗
+        - generic [ref=e146]: Climbing
+        - generic [ref=e147]: Climb peaks
+      - generic [ref=e148] [cursor=pointer]:
+        - generic [ref=e149]: 🏆
+        - generic [ref=e150]: Competition
+        - generic [ref=e151]: Participate in competition
+      - generic [ref=e152] [cursor=pointer]:
+        - generic [ref=e153]: 🤿
+        - generic [ref=e154]: Diving
+        - generic [ref=e155]: Explore underwater world
+      - generic [ref=e156] [cursor=pointer]:
+        - generic [ref=e157]: 🛡️
+        - generic [ref=e158]: Guardian Mission
+        - generic [ref=e159]: Guard what matters
+      - generic [ref=e160] [cursor=pointer]:
+        - generic [ref=e161]: 🔭
+        - generic [ref=e162]: Telescope
+        - generic [ref=e163]: Observe from afar
+      - generic [ref=e164] [cursor=pointer]:
+        - generic [ref=e165]: 🧭
+        - generic [ref=e166]: Compass
+        - generic [ref=e167]: Find direction
+      - generic [ref=e168] [cursor=pointer]:
+        - generic [ref=e169]: 🩹
+        - generic [ref=e170]: First Aid Kit
+        - generic [ref=e171]: Treat injuries
+      - generic [ref=e172] [cursor=pointer]:
+        - generic [ref=e173]: 🔦
+        - generic [ref=e174]: Flashlight
+        - generic [ref=e175]: Light up the darkness
+      - generic [ref=e176] [cursor=pointer]:
+        - generic [ref=e177]: 📓
+        - generic [ref=e178]: Notebook
+        - generic [ref=e179]: Record discoveries
+      - generic [ref=e180] [cursor=pointer]:
+        - generic [ref=e181]: 💡
+        - generic [ref=e182]: Light
+        - generic [ref=e183]: Lighting equipment
+      - generic [ref=e184] [cursor=pointer]:
+        - generic [ref=e185]: 🥤
+        - generic [ref=e186]: Water Bottle
+        - generic [ref=e187]: Carry water
+      - generic [ref=e188] [cursor=pointer]:
+        - generic [ref=e189]: 🪢
+        - generic [ref=e190]: Rope
+        - generic [ref=e191]: Climbing tool
+      - generic [ref=e192] [cursor=pointer]:
+        - generic [ref=e193]: ⛺
+        - generic [ref=e194]: Tent
+        - generic [ref=e195]: Camping shelter
+```

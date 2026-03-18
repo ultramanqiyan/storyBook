@@ -168,6 +168,9 @@ describe('Books API', () => {
       mockDB.all.mockResolvedValueOnce({
         results: [{ chapter_id: 'chap-1', title: '第一章' }]
       });
+      mockDB.all.mockResolvedValueOnce({
+        results: []
+      });
 
       const { onRequestGet } = await import('../../functions/api/books/[id].js');
       const request = new Request('http://localhost/api/books/book-123', {

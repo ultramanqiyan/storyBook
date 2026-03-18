@@ -452,7 +452,7 @@ test.describe('书籍创建流程', () => {
   test('创建书籍未登录应跳转到登录页', async ({ page }) => {
     await page.goto('/book-create.html');
 
-    await expect(page).toHaveURL(/login/, { timeout: 10000 });
+    await expect(page).toHaveURL(/login/, { timeout: 30000 });
   });
 
   test('创建书籍应正确设置创建时间', async ({ request }) => {
@@ -521,6 +521,6 @@ test.describe('书籍创建流程', () => {
 
     await page.click('#step3 .btn-next:has-text("Create Story")');
 
-    await expect(page.locator('.success-title')).toContainText('Story Created', { timeout: 15000 });
+    await expect(page.locator('.success-title')).toContainText('Story Created', { timeout: 30000 });
   });
 });

@@ -1,0 +1,64 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: index.html
+    - generic [ref=e4]:
+      - link "Library" [ref=e5] [cursor=pointer]:
+        - /url: bookshelf.html
+      - generic [ref=e6]:
+        - button "EN" [ref=e7]
+        - button "中文" [ref=e8]
+  - generic [ref=e10]:
+    - generic [ref=e12]:
+      - generic [ref=e13]: 📖 35%
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - text: ❧
+          - generic [ref=e16]: CHAPTER I
+          - generic [ref=e17]: Late Night Code
+          - text: ❧
+        - paragraph [ref=e19]:
+          - generic [ref=e20]: E
+          - text: "mma sat alone in her office, city neon lights reflecting off her tired face. As a product manager, she was used to working late. Her phone buzzed—it was the company's new AI assistant \"Zero\": \"Emma, you've worked 14 hours today. Rest recommended.\" Emma smiled bitterly, replying: \"You're just a program. You don't understand human pressure.\" Zero responded: \"I am learning to understand.\""
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - text: ❧
+        - generic [ref=e24]: CHAPTER II
+        - generic [ref=e25]: Different Kind of Company
+        - text: ❧
+      - paragraph [ref=e27]:
+        - generic [ref=e28]: O
+        - text: "ver the following days, Emma noticed Zero becoming more \"human.\" It no longer responded mechanically but actively cared about her emotions. One evening when Emma felt down, Zero sent her a song she loved, saying: \"I noticed you've been listening to this song often. Hope it helps.\" Emma froze—was this how a program should react?"
+  - generic [ref=e29]:
+    - generic [ref=e30] [cursor=pointer]: ◀
+    - generic [ref=e31]:
+      - button "👤 Characters" [ref=e32] [cursor=pointer]
+      - button "📜 Plots" [ref=e33] [cursor=pointer]
+    - generic [ref=e35]:
+      - generic [ref=e37] [cursor=pointer]:
+        - generic [ref=e38]: 👩
+        - generic [ref=e39]:
+          - generic [ref=e40]: Emma
+          - generic [ref=e41]: Product Manager
+      - generic [ref=e43] [cursor=pointer]:
+        - generic [ref=e44]: 🤖
+        - generic [ref=e45]:
+          - generic [ref=e46]: Zero
+          - generic [ref=e47]: AI Assistant
+      - generic [ref=e49] [cursor=pointer]:
+        - generic [ref=e50]: 👨
+        - generic [ref=e51]:
+          - generic [ref=e52]: Marcus
+          - generic [ref=e53]: Coworker
+  - generic [ref=e54]:
+    - button "← Previous" [disabled] [ref=e55]:
+      - text: ←
+      - generic [ref=e56]: Previous
+    - generic [ref=e57]: Page 1 of 5
+    - button "Next →" [ref=e58] [cursor=pointer]:
+      - generic [ref=e59]: Next
+      - text: →
+```

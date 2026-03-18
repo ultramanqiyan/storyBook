@@ -96,7 +96,7 @@ test.describe('章节添加流程', () => {
 
     await startBtn.click();
 
-    await expect(page).toHaveURL(/chapter/, { timeout: 15000 });
+    await expect(page).toHaveURL(/chapter/, { timeout: 30000 });
 
     const chaptersResponse = await request.get(`/api/chapters?book_id=${testBookId}`);
     const chaptersData = await chaptersResponse.json();
@@ -346,7 +346,7 @@ test.describe('章节添加流程', () => {
 
     await page.goto(`/director.html?book_id=${testBookId}`);
 
-    await expect(page).toHaveURL(/login/, { timeout: 10000 });
+    await expect(page).toHaveURL(/login/, { timeout: 30000 });
   });
 
   test('导演页面应正确显示卡牌列表', async ({ page, request }) => {

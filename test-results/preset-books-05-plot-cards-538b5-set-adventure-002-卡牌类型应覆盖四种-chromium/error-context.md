@@ -1,0 +1,196 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: ../index.html
+    - generic [ref=e4]:
+      - link "首页" [ref=e5] [cursor=pointer]:
+        - /url: ../index.html
+      - link "图书馆" [ref=e6] [cursor=pointer]:
+        - /url: ../library.html
+      - link "我的书架" [ref=e7] [cursor=pointer]:
+        - /url: ../bookshelf.html
+  - generic [ref=e9]:
+    - generic [ref=e11]: 深海探险队
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e16]: 🗺️
+        - generic [ref=e17]:
+          - generic [ref=e18]: 冒险
+          - heading "深海探险队" [level=2] [ref=e19]
+          - generic [ref=e20]:
+            - generic [ref=e21]: 📜 10 章节
+            - generic [ref=e22]: 👥 3 角色
+          - generic [ref=e23]:
+            - link "开始阅读" [ref=e24] [cursor=pointer]:
+              - /url: ../chapters/chapter-adv002-01.html
+            - button "续写这个故事" [ref=e25] [cursor=pointer]
+      - generic [ref=e26]:
+        - button "📜 章节" [ref=e27] [cursor=pointer]
+        - button "👥 角色" [ref=e28] [cursor=pointer]
+        - button "🃏 情节卡牌" [active] [ref=e29] [cursor=pointer]
+      - generic [ref=e31]:
+        - generic [ref=e32] [cursor=pointer]:
+          - generic [ref=e33]: 🌤️
+          - generic [ref=e34]: 蓝天
+          - generic [ref=e35]: 湛蓝的天空，海风轻拂
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]: 🏝️
+          - generic [ref=e38]: 岛屿
+          - generic [ref=e39]: 神秘的岛屿，等待探索
+        - generic [ref=e40] [cursor=pointer]:
+          - generic [ref=e41]: 🆘
+          - generic [ref=e42]: 救援
+          - generic [ref=e43]: 救援被困的朋友，展现勇气
+        - generic [ref=e44] [cursor=pointer]:
+          - generic [ref=e45]: 📷
+          - generic [ref=e46]: 相机
+          - generic [ref=e47]: 记录美丽的瞬间
+        - generic [ref=e48] [cursor=pointer]:
+          - generic [ref=e49]: ☀️
+          - generic [ref=e50]: 晴天
+          - generic [ref=e51]: 阳光明媚的好天气
+        - generic [ref=e52] [cursor=pointer]:
+          - generic [ref=e53]: ☁️
+          - generic [ref=e54]: 白云
+          - generic [ref=e55]: 朵朵白云
+        - generic [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: 🌈
+          - generic [ref=e58]: 彩虹天
+          - generic [ref=e59]: 美丽的彩虹
+        - generic [ref=e60] [cursor=pointer]:
+          - generic [ref=e61]: 🌙
+          - generic [ref=e62]: 星空夜
+          - generic [ref=e63]: 繁星点点的夜晚
+        - generic [ref=e64] [cursor=pointer]:
+          - generic [ref=e65]: 🌌
+          - generic [ref=e66]: 极光
+          - generic [ref=e67]: 绚丽的极光
+        - generic [ref=e68] [cursor=pointer]:
+          - generic [ref=e69]: 🌫️
+          - generic [ref=e70]: 晨雾
+          - generic [ref=e71]: 朦胧的晨雾
+        - generic [ref=e72] [cursor=pointer]:
+          - generic [ref=e73]: 🌦️
+          - generic [ref=e74]: 彩虹雨
+          - generic [ref=e75]: 雨后彩虹
+        - generic [ref=e76] [cursor=pointer]:
+          - generic [ref=e77]: 🌇
+          - generic [ref=e78]: 夕阳
+          - generic [ref=e79]: 绚丽的夕阳
+        - generic [ref=e80] [cursor=pointer]:
+          - generic [ref=e81]: 🌠
+          - generic [ref=e82]: 流星雨
+          - generic [ref=e83]: 璀璨的流星雨
+        - generic [ref=e84] [cursor=pointer]:
+          - generic [ref=e85]: 🏖️
+          - generic [ref=e86]: 海滩
+          - generic [ref=e87]: 金色的海滩
+        - generic [ref=e88] [cursor=pointer]:
+          - generic [ref=e89]: 🌴
+          - generic [ref=e90]: 热带雨林
+          - generic [ref=e91]: 茂密的热带雨林
+        - generic [ref=e92] [cursor=pointer]:
+          - generic [ref=e93]: 🏰
+          - generic [ref=e94]: 古堡
+          - generic [ref=e95]: 古老的城堡
+        - generic [ref=e96] [cursor=pointer]:
+          - generic [ref=e97]: 🏚️
+          - generic [ref=e98]: 废墟
+          - generic [ref=e99]: 神秘的废墟
+        - generic [ref=e100] [cursor=pointer]:
+          - generic [ref=e101]: 🪨
+          - generic [ref=e102]: 洞穴
+          - generic [ref=e103]: 幽暗的洞穴
+        - generic [ref=e104] [cursor=pointer]:
+          - generic [ref=e105]: 💦
+          - generic [ref=e106]: 瀑布
+          - generic [ref=e107]: 壮观的瀑布
+        - generic [ref=e108] [cursor=pointer]:
+          - generic [ref=e109]: ⛰️
+          - generic [ref=e110]: 山顶
+          - generic [ref=e111]: 高耸的山峰
+    - generic [ref=e115]:
+      - generic [ref=e116] [cursor=pointer]:
+        - generic [ref=e117]: 🌈
+        - generic [ref=e118]: 彩虹谷
+        - generic [ref=e119]: 五彩斑斓的山谷
+      - generic [ref=e120] [cursor=pointer]:
+        - generic [ref=e121]: 🪸
+        - generic [ref=e122]: 珊瑚礁
+        - generic [ref=e123]: 美丽的珊瑚礁
+      - generic [ref=e124] [cursor=pointer]:
+        - generic [ref=e125]: 🔮
+        - generic [ref=e126]: 发现秘密
+        - generic [ref=e127]: 揭开隐藏的秘密
+      - generic [ref=e128] [cursor=pointer]:
+        - generic [ref=e129]: 🧭
+        - generic [ref=e130]: 探险
+        - generic [ref=e131]: 探索未知的地方
+      - generic [ref=e132] [cursor=pointer]:
+        - generic [ref=e133]: 🦋
+        - generic [ref=e134]: 观察动物
+        - generic [ref=e135]: 观察可爱的动物
+      - generic [ref=e136] [cursor=pointer]:
+        - generic [ref=e137]: 🧩
+        - generic [ref=e138]: 解谜
+        - generic [ref=e139]: 解开古老的谜题
+      - generic [ref=e140] [cursor=pointer]:
+        - generic [ref=e141]: 🗺️
+        - generic [ref=e142]: 寻宝
+        - generic [ref=e143]: 寻找隐藏的宝藏
+      - generic [ref=e144] [cursor=pointer]:
+        - generic [ref=e145]: 🧗
+        - generic [ref=e146]: 登山
+        - generic [ref=e147]: 攀登高峰
+      - generic [ref=e148] [cursor=pointer]:
+        - generic [ref=e149]: 🏆
+        - generic [ref=e150]: 比赛
+        - generic [ref=e151]: 参加精彩的比赛
+      - generic [ref=e152] [cursor=pointer]:
+        - generic [ref=e153]: 🤿
+        - generic [ref=e154]: 潜水
+        - generic [ref=e155]: 探索海底世界
+      - generic [ref=e156] [cursor=pointer]:
+        - generic [ref=e157]: 🛡️
+        - generic [ref=e158]: 守护使命
+        - generic [ref=e159]: 守护重要的东西
+      - generic [ref=e160] [cursor=pointer]:
+        - generic [ref=e161]: 🔭
+        - generic [ref=e162]: 望远镜
+        - generic [ref=e163]: 观察远方
+      - generic [ref=e164] [cursor=pointer]:
+        - generic [ref=e165]: 🧭
+        - generic [ref=e166]: 指南针
+        - generic [ref=e167]: 辨别方向
+      - generic [ref=e168] [cursor=pointer]:
+        - generic [ref=e169]: 🩹
+        - generic [ref=e170]: 急救箱
+        - generic [ref=e171]: 处理伤口
+      - generic [ref=e172] [cursor=pointer]:
+        - generic [ref=e173]: 🔦
+        - generic [ref=e174]: 手电筒
+        - generic [ref=e175]: 照亮黑暗
+      - generic [ref=e176] [cursor=pointer]:
+        - generic [ref=e177]: 📓
+        - generic [ref=e178]: 笔记本
+        - generic [ref=e179]: 记录发现
+      - generic [ref=e180] [cursor=pointer]:
+        - generic [ref=e181]: 💡
+        - generic [ref=e182]: 灯具
+        - generic [ref=e183]: 照明设备
+      - generic [ref=e184] [cursor=pointer]:
+        - generic [ref=e185]: 🥤
+        - generic [ref=e186]: 水壶
+        - generic [ref=e187]: 装水的水壶
+      - generic [ref=e188] [cursor=pointer]:
+        - generic [ref=e189]: 🪢
+        - generic [ref=e190]: 绳子
+        - generic [ref=e191]: 攀爬工具
+      - generic [ref=e192] [cursor=pointer]:
+        - generic [ref=e193]: ⛺
+        - generic [ref=e194]: 帐篷
+        - generic [ref=e195]: 露营住所
+```

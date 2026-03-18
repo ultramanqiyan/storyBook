@@ -1,0 +1,267 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic:
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: ../index.html
+    - generic [ref=e4]:
+      - link "首页" [ref=e5] [cursor=pointer]:
+        - /url: ../index.html
+      - link "图书馆" [ref=e6] [cursor=pointer]:
+        - /url: ../library.html
+      - link "我的书架" [ref=e7] [cursor=pointer]:
+        - /url: ../bookshelf.html
+  - generic [ref=e9]:
+    - generic [ref=e11]: 算法姻缘
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e16]: 💕
+        - generic [ref=e17]:
+          - generic [ref=e18]: 言情
+          - heading "算法姻缘" [level=2] [ref=e19]
+          - generic [ref=e20]:
+            - generic [ref=e21]: 📜 10 章节
+            - generic [ref=e22]: 👥 3 角色
+          - generic [ref=e23]:
+            - link "开始阅读" [ref=e24] [cursor=pointer]:
+              - /url: ../chapters/chapter-rom002-01.html
+            - button "续写这个故事" [ref=e25] [cursor=pointer]
+      - generic [ref=e26]:
+        - button "📜 章节" [ref=e27] [cursor=pointer]
+        - button "👥 角色" [ref=e28] [cursor=pointer]
+        - button "🃏 情节卡牌" [active] [ref=e29] [cursor=pointer]
+      - generic [ref=e31]:
+        - generic [ref=e32] [cursor=pointer]:
+          - generic [ref=e33]: ☀️
+          - generic [ref=e34]: 晴天
+          - generic [ref=e35]: 阳光明媚，适合约会
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]: ☕
+          - generic [ref=e38]: 咖啡厅
+          - generic [ref=e39]: 温馨的咖啡厅，浪漫的约会地点
+        - generic [ref=e40] [cursor=pointer]:
+          - generic [ref=e41]: 🌹
+          - generic [ref=e42]: 约会
+          - generic [ref=e43]: 甜蜜的约会，增进感情
+        - generic [ref=e44] [cursor=pointer]:
+          - generic [ref=e45]: 📷
+          - generic [ref=e46]: 相机
+          - generic [ref=e47]: 记录美好瞬间，留下回忆
+        - generic [ref=e48] [cursor=pointer]:
+          - generic [ref=e49]: 🌇
+          - generic [ref=e50]: 夕阳
+          - generic [ref=e51]: 浪漫的夕阳
+        - generic [ref=e52] [cursor=pointer]:
+          - generic [ref=e53]: ⛅
+          - generic [ref=e54]: 多云
+          - generic [ref=e55]: 云朵飘浮
+        - generic [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: ⭐
+          - generic [ref=e58]: 星空
+          - generic [ref=e59]: 繁星点点
+        - generic [ref=e60] [cursor=pointer]:
+          - generic [ref=e61]: ☁️
+          - generic [ref=e62]: 阴天
+          - generic [ref=e63]: 阴沉的天空
+        - generic [ref=e64] [cursor=pointer]:
+          - generic [ref=e65]: 🌧️
+          - generic [ref=e66]: 雨天
+          - generic [ref=e67]: 淅淅沥沥的雨
+        - generic [ref=e68] [cursor=pointer]:
+          - generic [ref=e69]: 🌙
+          - generic [ref=e70]: 月色
+          - generic [ref=e71]: 皎洁的月光
+        - generic [ref=e72] [cursor=pointer]:
+          - generic [ref=e73]: 🌆
+          - generic [ref=e74]: 黄昏
+          - generic [ref=e75]: 温柔的黄昏
+        - generic [ref=e76] [cursor=pointer]:
+          - generic [ref=e77]: 🌈
+          - generic [ref=e78]: 彩虹
+          - generic [ref=e79]: 美丽的彩虹
+        - generic [ref=e80] [cursor=pointer]:
+          - generic [ref=e81]: ❄️
+          - generic [ref=e82]: 初雪
+          - generic [ref=e83]: 第一场雪
+        - generic [ref=e84] [cursor=pointer]:
+          - generic [ref=e85]: 🍽️
+          - generic [ref=e86]: 餐厅
+          - generic [ref=e87]: 浪漫的餐厅
+        - generic [ref=e88] [cursor=pointer]:
+          - generic [ref=e89]: 🏢
+          - generic [ref=e90]: 公司
+          - generic [ref=e91]: 忙碌的公司
+        - generic [ref=e92] [cursor=pointer]:
+          - generic [ref=e93]: 🏖️
+          - generic [ref=e94]: 海边
+          - generic [ref=e95]: 浪漫的海边
+        - generic [ref=e96] [cursor=pointer]:
+          - generic [ref=e97]: 🏘️
+          - generic [ref=e98]: 老街
+          - generic [ref=e99]: 怀旧的老街
+        - generic [ref=e100] [cursor=pointer]:
+          - generic [ref=e101]: 🌃
+          - generic [ref=e102]: 天台
+          - generic [ref=e103]: 城市的天台
+    - generic [ref=e107]:
+      - generic [ref=e108] [cursor=pointer]:
+        - generic [ref=e109]: 🖼️
+        - generic [ref=e110]: 画廊
+        - generic [ref=e111]: 艺术的画廊
+      - generic [ref=e112] [cursor=pointer]:
+        - generic [ref=e113]: 🌳
+        - generic [ref=e114]: 公园
+        - generic [ref=e115]: 安静的公园
+      - generic [ref=e116] [cursor=pointer]:
+        - generic [ref=e117]: 💫
+        - generic [ref=e118]: 邂逅
+        - generic [ref=e119]: 命运的相遇
+      - generic [ref=e120] [cursor=pointer]:
+        - generic [ref=e121]: 💗
+        - generic [ref=e122]: 暧昧
+        - generic [ref=e123]: 暧昧的时光
+      - generic [ref=e124] [cursor=pointer]:
+        - generic [ref=e125]: 😔
+        - generic [ref=e126]: 误会
+        - generic [ref=e127]: 令人心痛的误会
+      - generic [ref=e128] [cursor=pointer]:
+        - generic [ref=e129]: 💔
+        - generic [ref=e130]: 冷战
+        - generic [ref=e131]: 痛苦的冷战
+      - generic [ref=e132] [cursor=pointer]:
+        - generic [ref=e133]: 💝
+        - generic [ref=e134]: 追求
+        - generic [ref=e135]: 努力追求
+      - generic [ref=e136] [cursor=pointer]:
+        - generic [ref=e137]: 💕
+        - generic [ref=e138]: 告白
+        - generic [ref=e139]: 勇敢的表白
+      - generic [ref=e140] [cursor=pointer]:
+        - generic [ref=e141]: 💕
+        - generic [ref=e142]: 复合
+        - generic [ref=e143]: 重新在一起
+      - generic [ref=e144] [cursor=pointer]:
+        - generic [ref=e145]: 💍
+        - generic [ref=e146]: 求婚
+        - generic [ref=e147]: 浪漫的求婚
+      - generic [ref=e148] [cursor=pointer]:
+        - generic [ref=e149]: 📱
+        - generic [ref=e150]: 手机
+        - generic [ref=e151]: 联系的工具
+      - generic [ref=e152] [cursor=pointer]:
+        - generic [ref=e153]: ☕
+        - generic [ref=e154]: 咖啡
+        - generic [ref=e155]: 温暖的咖啡
+      - generic [ref=e156] [cursor=pointer]:
+        - generic [ref=e157]: 💻
+        - generic [ref=e158]: 笔记本电脑
+        - generic [ref=e159]: 工作必备
+      - generic [ref=e160] [cursor=pointer]:
+        - generic [ref=e161]: ☂️
+        - generic [ref=e162]: 雨伞
+        - generic [ref=e163]: 雨中共享
+      - generic [ref=e164] [cursor=pointer]:
+        - generic [ref=e165]: ⌚
+        - generic [ref=e166]: 手表
+        - generic [ref=e167]: 时间的见证
+      - generic [ref=e168] [cursor=pointer]:
+        - generic [ref=e169]: 💐
+        - generic [ref=e170]: 鲜花
+        - generic [ref=e171]: 浪漫的礼物
+      - generic [ref=e172] [cursor=pointer]:
+        - generic [ref=e173]: 💍
+        - generic [ref=e174]: 戒指
+        - generic [ref=e175]: 爱情的象征
+```

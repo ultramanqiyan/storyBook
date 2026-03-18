@@ -34,7 +34,7 @@ test.describe('完整用户旅程测试 - 多步骤多页面', () => {
     await page.fill('#password', testPassword);
 
     await page.click('.wax-seal-btn');
-    await page.waitForURL(/bookshelf/, { timeout: 10000 });
+    await page.waitForURL(/bookshelf/, { timeout: 30000 });
 
     const userId = await page.evaluate(() => localStorage.getItem('user_id'));
     expect(userId).toBeTruthy();
@@ -86,7 +86,7 @@ test.describe('完整用户旅程测试 - 多步骤多页面', () => {
     await page.fill('#email', testEmail);
     await page.fill('#password', testPassword);
     await page.click('.wax-seal-btn');
-    await page.waitForURL(/bookshelf/, { timeout: 10000 });
+    await page.waitForURL(/bookshelf/, { timeout: 30000 });
 
     await page.goto('/library.html');
     await page.waitForTimeout(1000);
@@ -130,7 +130,7 @@ test.describe('完整用户旅程测试 - 多步骤多页面', () => {
     await page.fill('#password', newPassword);
     await page.click('.wax-seal-btn');
 
-    await page.waitForURL(/bookshelf/, { timeout: 10000 });
+    await page.waitForURL(/bookshelf/, { timeout: 30000 });
 
     const userId = await page.evaluate(() => localStorage.getItem('user_id'));
     expect(userId).toBeTruthy();

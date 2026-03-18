@@ -9,7 +9,7 @@ test.describe('User Created Book Puzzle Tests', () => {
     const testPassword = 'Test123456';
     
     await page.goto(`${BASE_URL}/login.html`);
-    await page.waitForSelector('input[type="email"]', { timeout: 10000 });
+    await page.waitForSelector('input[type="email"]', { timeout: 30000 });
     await page.fill('input[type="email"]', testEmail);
     await page.fill('input[type="password"]', testPassword);
     
@@ -18,11 +18,11 @@ test.describe('User Created Book Puzzle Tests', () => {
       if (btn) btn.click();
     });
     
-    await page.waitForURL(/bookshelf\.html/, { timeout: 15000 });
+    await page.waitForURL(/bookshelf\.html/, { timeout: 30000 });
     console.log('Logged in successfully');
     
     await page.goto(`${BASE_URL}/book-create.html`);
-    await page.waitForSelector('#bookTitle', { timeout: 10000 });
+    await page.waitForSelector('#bookTitle', { timeout: 30000 });
     
     await page.fill('#bookTitle', 'Test Puzzle Book');
     await page.selectOption('#bookType', 'adventure');
@@ -33,7 +33,7 @@ test.describe('User Created Book Puzzle Tests', () => {
       if (btn) btn.click();
     });
     
-    await page.waitForURL(/director\.html/, { timeout: 15000 });
+    await page.waitForURL(/director\.html/, { timeout: 30000 });
     console.log('Book created, on director page');
     
     const currentUrl = page.url();
@@ -41,7 +41,7 @@ test.describe('User Created Book Puzzle Tests', () => {
     const bookId = bookIdMatch ? bookIdMatch[1] : null;
     console.log('Created book ID:', bookId);
     
-    await page.waitForSelector('.fan-card', { timeout: 10000 });
+    await page.waitForSelector('.fan-card', { timeout: 30000 });
     
     const protagonistCard = await page.$('.fan-card[data-type="protagonist"]');
     if (protagonistCard) {

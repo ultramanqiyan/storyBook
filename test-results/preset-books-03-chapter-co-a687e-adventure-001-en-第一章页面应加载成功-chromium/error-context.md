@@ -1,0 +1,64 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: index.html
+    - generic [ref=e4]:
+      - link "Library" [ref=e5] [cursor=pointer]:
+        - /url: bookshelf.html
+      - generic [ref=e6]:
+        - button "EN" [ref=e7]
+        - button "中文" [ref=e8]
+  - generic [ref=e10]:
+    - generic [ref=e12]:
+      - generic [ref=e13]: 📖 35%
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - text: ❧
+          - generic [ref=e16]: CHAPTER I
+          - generic [ref=e17]: A Lucky Beginning
+          - text: ❧
+        - paragraph [ref=e19]:
+          - generic [ref=e20]: L
+          - text: "eo stood on the golden beach, holding a lottery ticket. He had randomly entered a \"Civilian Space Travel\" lottery, and he actually won! Professor Nova walked out of his study, looked at his excited grandson, and smiled. \"Leo, this is destiny. This telescope... it's time to pass it to you.\" Leo took the bronze telescope, and through its lens, he saw a faint glow in the distance. Cosmo, a star sprite, jumped out: \"Stellar! Finally found you!\""
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - text: ❧
+        - generic [ref=e24]: CHAPTER II
+        - generic [ref=e25]: The Mysterious Island
+        - text: ❧
+      - paragraph [ref=e27]:
+        - generic [ref=e28]: L
+        - text: eo traveled by spacecraft to a mysterious island. It was a sight he had never seen before—huge dome buildings where explorers from around the world lived and worked. The base commander explained, "This is an international exploration base with kids from America, China, Europe, Japan, and many more countries." Leo met friends from all over. Cosmo whispered, "These kids are all chosen ones... pretty stellar, right?"
+  - generic [ref=e29]:
+    - generic [ref=e30] [cursor=pointer]: ◀
+    - generic [ref=e31]:
+      - button "👤 Characters" [ref=e32] [cursor=pointer]
+      - button "📜 Plots" [ref=e33] [cursor=pointer]
+    - generic [ref=e35]:
+      - generic [ref=e37] [cursor=pointer]:
+        - generic [ref=e38]: 👦
+        - generic [ref=e39]:
+          - generic [ref=e40]: Leo
+          - generic [ref=e41]: Young Explorer
+      - generic [ref=e43] [cursor=pointer]:
+        - generic [ref=e44]: ⭐
+        - generic [ref=e45]:
+          - generic [ref=e46]: Cosmo
+          - generic [ref=e47]: Star Sprite Guide
+      - generic [ref=e49] [cursor=pointer]:
+        - generic [ref=e50]: 👴
+        - generic [ref=e51]:
+          - generic [ref=e52]: Professor Nova
+          - generic [ref=e53]: Retired Astronomer
+  - generic [ref=e54]:
+    - button "← Previous" [disabled] [ref=e55]:
+      - text: ←
+      - generic [ref=e56]: Previous
+    - generic [ref=e57]: Page 1 of 5
+    - button "Next →" [ref=e58] [cursor=pointer]:
+      - generic [ref=e59]: Next
+      - text: →
+```

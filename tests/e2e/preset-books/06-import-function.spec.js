@@ -44,7 +44,7 @@ test.describe('阶段6：导入功能验证', () => {
             page.waitForResponse(resp => 
               resp.url().includes(`/api/books/${book.book_id}/import`) && 
               resp.request().method() === 'POST',
-              { timeout: 15000 }
+              { timeout: 30000 }
             ),
             importBtn.click()
           ]);

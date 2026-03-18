@@ -1,0 +1,105 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: index.html
+    - generic [ref=e4]:
+      - link "Library" [ref=e5] [cursor=pointer]:
+        - /url: bookshelf.html
+      - generic [ref=e6]:
+        - button "EN" [ref=e7]
+        - button "中文" [ref=e8]
+  - generic [ref=e10]:
+    - generic [ref=e12]:
+      - generic [ref=e13]: 📖 35%
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - text: ❧
+          - generic [ref=e16]: CHAPTER I
+          - generic [ref=e17]: 神秘的开端
+          - text: ❧
+        - generic [ref=e18]:
+          - paragraph [ref=e19]:
+            - generic [ref=e20]: L
+            - text: unar Eclipse的日子里，阳光透过云层洒下金色的光芒，照亮了前方的道路。测试主角怀着brave的心情，踏上了前往Waterfall的旅程。一路上，风景如画，鸟儿在枝头欢快地歌唱，微风轻拂着脸庞，带来阵阵花香和泥土的芬芳。
+          - paragraph [ref=e21]: 测试主角拿出指南针，仔细观察着周围的环境。这片Waterfall充满了神秘和未知，每一处角落都可能隐藏着惊喜或挑战。远处的山峦起伏，近处的溪流潺潺，构成了一幅美丽的自然画卷。
+          - paragraph [ref=e22]: 随着深入Waterfall，测试主角开始了Help Friends之旅。脚下的路蜿蜒曲折，通向未知的远方。周围的景色令人叹为观止，高耸的树木遮天蔽日，清澈的溪流潺潺流淌。每一步都充满惊喜，每一刻都值得铭记。偶尔，远处传来野兽的吼声，提醒着这片土地的原始与野性。
+          - paragraph [ref=e23]: 在这片神奇的土地上，测试主角将会遇到什么样的挑战呢？命运的齿轮已经开始转动，冒险的号角已经吹响。前方的道路虽然充满未知，但测试主角的心中充满了勇气和期待。这段旅程，注定会成为一段难忘的回忆...
+        - button "🧩 Solve the Guardian's Riddle" [ref=e25] [cursor=pointer]
+    - paragraph [ref=e28]: No more content
+  - generic [ref=e29]:
+    - generic [ref=e30] [cursor=pointer]: ◀
+    - generic [ref=e31]:
+      - button "👤 Characters" [ref=e32] [cursor=pointer]
+      - button "📜 Plots" [ref=e33] [cursor=pointer]
+    - generic [ref=e37] [cursor=pointer]:
+      - generic [ref=e38]: 🧙‍♂️
+      - generic [ref=e39]:
+        - generic [ref=e40]: 测试主角
+        - generic [ref=e41]: explorer
+  - generic [ref=e42]:
+    - button "← Previous" [disabled] [ref=e43]:
+      - text: ←
+      - generic [ref=e44]: Previous
+    - generic [ref=e45]: Page 1 of 1
+    - button "Next →" [disabled] [ref=e46]:
+      - generic [ref=e47]: Next
+      - text: →
+  - generic [ref=e50]:
+    - button "×" [ref=e51] [cursor=pointer]
+    - generic [ref=e52]:
+      - heading "✨ Create Custom Plot Card" [level=2] [ref=e53]
+      - paragraph [ref=e54]: Fill in card information to create your story element
+    - generic [ref=e55]:
+      - generic [ref=e56]:
+        - generic [ref=e57]: ❧ Card Type
+        - generic [ref=e58]:
+          - generic [ref=e59] [cursor=pointer]:
+            - generic [ref=e60]: ☀️
+            - generic [ref=e61]: Weather Card
+          - generic [ref=e62] [cursor=pointer]:
+            - generic [ref=e63]: 🏔️
+            - generic [ref=e64]: Terrain Card
+          - generic [ref=e65] [cursor=pointer]:
+            - generic [ref=e66]: 🗺️
+            - generic [ref=e67]: Adventure Card
+          - generic [ref=e68] [cursor=pointer]:
+            - generic [ref=e69]: 🎒
+            - generic [ref=e70]: Equipment Card
+      - generic [ref=e71]:
+        - generic [ref=e72]: ❧ Select Icon
+        - generic [ref=e73]:
+          - generic [ref=e74] [cursor=pointer]: 🎒
+          - generic [ref=e75] [cursor=pointer]: 📦
+          - generic [ref=e76] [cursor=pointer]: 🧰
+          - generic [ref=e77] [cursor=pointer]: 🧳
+          - generic [ref=e78] [cursor=pointer]: 💼
+          - generic [ref=e79] [cursor=pointer]: 🔦
+          - generic [ref=e80] [cursor=pointer]: 💡
+          - generic [ref=e81] [cursor=pointer]: 🕯️
+          - generic [ref=e82] [cursor=pointer]: 🪔
+          - generic [ref=e83] [cursor=pointer]: 📱
+          - generic [ref=e84] [cursor=pointer]: 📷
+          - generic [ref=e85] [cursor=pointer]: 📹
+          - generic [ref=e86] [cursor=pointer]: 🔭
+          - generic [ref=e87] [cursor=pointer]: 🔬
+          - generic [ref=e88] [cursor=pointer]: 🩺
+          - generic [ref=e89] [cursor=pointer]: 💊
+          - generic [ref=e90] [cursor=pointer]: 💉
+          - generic [ref=e91] [cursor=pointer]: 🩹
+          - generic [ref=e92] [cursor=pointer]: 🧬
+          - generic [ref=e93] [cursor=pointer]: 🔭
+      - generic [ref=e94]:
+        - generic [ref=e95]: ❧ Card Name
+        - textbox "Enter card name (1-20 characters)" [ref=e96]
+        - generic [ref=e97]: 0/20
+      - generic [ref=e98]:
+        - generic [ref=e99]: ❧ Card Description
+        - textbox "Enter card description (max 100 characters)" [ref=e100]
+        - generic [ref=e101]: 0/100
+    - generic [ref=e102]:
+      - button "Cancel" [ref=e103] [cursor=pointer]
+      - button "Create Card" [ref=e104] [cursor=pointer]
+```

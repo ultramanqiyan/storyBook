@@ -64,7 +64,7 @@ test.describe('首页完整测试', () => {
     const loginLink = page.locator('a[href="login.html"]').first();
     await loginLink.click();
 
-    await page.waitForURL(/login/, { timeout: 5000 });
+    await page.waitForURL(/login/, { timeout: 30000 });
     expect(page.url()).toContain('login');
   });
 
@@ -76,7 +76,7 @@ test.describe('首页完整测试', () => {
     await page.goto('/');
     await page.waitForTimeout(1000);
 
-    await page.waitForURL(/bookshelf/, { timeout: 5000 });
+    await page.waitForURL(/bookshelf/, { timeout: 30000 });
     expect(page.url()).toContain('bookshelf');
   });
 

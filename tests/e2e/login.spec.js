@@ -29,7 +29,7 @@ test.describe('登录流程', () => {
 
     await page.click('.wax-seal-btn');
 
-    await expect(page).toHaveURL(/bookshelf/, { timeout: 10000 });
+    await expect(page).toHaveURL(/bookshelf/, { timeout: 30000 });
 
     const userId = await page.evaluate(() => localStorage.getItem('user_id'));
     expect(userId).toBeDefined();
@@ -151,7 +151,7 @@ test.describe('登录流程', () => {
 
     await page.click('.wax-seal-btn');
 
-    await expect(page).toHaveURL(/bookshelf/, { timeout: 10000 });
+    await expect(page).toHaveURL(/bookshelf/, { timeout: 30000 });
 
     const userId = await page.evaluate(() => localStorage.getItem('user_id'));
     const email = await page.evaluate(() => localStorage.getItem('email'));

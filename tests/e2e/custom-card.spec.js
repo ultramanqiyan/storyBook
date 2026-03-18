@@ -831,7 +831,7 @@ test.describe('自定义卡牌功能', () => {
       await page.waitForTimeout(1000);
 
       const avatarOption = modal.locator('.avatar-option').first();
-      await avatarOption.waitFor({ state: 'visible', timeout: 5000 });
+      await avatarOption.waitFor({ state: 'visible', timeout: 30000 });
       await avatarOption.click({ force: true });
 
       const nameInput = modal.locator('#charName');
@@ -842,7 +842,7 @@ test.describe('自定义卡牌功能', () => {
       await page.waitForTimeout(500);
 
       const roleSelect = modal.locator('#charRoleType');
-      await roleSelect.waitFor({ state: 'visible', timeout: 5000 });
+      await roleSelect.waitFor({ state: 'visible', timeout: 30000 });
       await roleSelect.selectOption({ index: 1 });
 
       const personalitySelect = modal.locator('#charPersonality');

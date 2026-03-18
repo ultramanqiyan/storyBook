@@ -1,0 +1,138 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic:
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+    - generic: ♥
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: ../index.html
+    - generic [ref=e4]:
+      - link "Home" [ref=e5] [cursor=pointer]:
+        - /url: ../index.html
+      - link "Library" [ref=e6] [cursor=pointer]:
+        - /url: ../library.html
+      - link "My Books" [ref=e7] [cursor=pointer]:
+        - /url: ../bookshelf.html
+  - generic [ref=e9]:
+    - generic [ref=e11]: Love in the Code
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e16]: 💕
+        - generic [ref=e17]:
+          - generic [ref=e18]: Romance
+          - heading "Love in the Code" [level=2] [ref=e19]
+          - generic [ref=e20]:
+            - generic [ref=e21]: 📜 10 Chapters
+            - generic [ref=e22]: 👥 3 Characters
+          - generic [ref=e23]:
+            - link "Start Reading" [ref=e24] [cursor=pointer]:
+              - /url: ../chapters/chapter-rom001-01-en.html
+            - button "Continue This Story" [ref=e25] [cursor=pointer]
+      - generic [ref=e26]:
+        - button "📜 Chapters" [ref=e27] [cursor=pointer]
+        - button "👥 Characters" [active] [ref=e28] [cursor=pointer]
+        - button "🃏 Plot Cards" [ref=e29] [cursor=pointer]
+      - generic [ref=e31]:
+        - generic [ref=e32] [cursor=pointer]:
+          - generic [ref=e33]: 👩
+          - generic [ref=e34]: Emma
+          - generic [ref=e35]: Product Manager
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]: 🤖
+          - generic [ref=e38]: Zero
+          - generic [ref=e39]: AI Assistant
+    - generic [ref=e44] [cursor=pointer]:
+      - generic [ref=e45]: 👨
+      - generic [ref=e46]: Marcus
+      - generic [ref=e47]: Coworker
+```

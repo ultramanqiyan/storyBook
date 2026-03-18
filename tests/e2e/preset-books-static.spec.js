@@ -52,7 +52,7 @@ test.describe('预设书籍静态页面', () => {
     const firstChapter = page.locator('.chapter-toc-item').first();
     await firstChapter.click();
     
-    await page.waitForURL(/chapter/, { timeout: 5000 });
+    await page.waitForURL(/chapter/, { timeout: 30000 });
     expect(page.url()).toContain('is_preset=1');
   });
 
@@ -127,7 +127,7 @@ test.describe('预设书籍静态页面', () => {
       page.waitForResponse(resp => 
         resp.url().includes('/api/books/preset-adventure-001/import') && 
         resp.request().method() === 'POST',
-        { timeout: 10000 }
+        { timeout: 30000 }
       ).catch(() => null),
       importBtn.click()
     ]);

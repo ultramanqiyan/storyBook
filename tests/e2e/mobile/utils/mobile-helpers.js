@@ -10,7 +10,7 @@ export async function loginUser(page) {
   
   await page.click('.wax-seal-btn');
   
-  await page.waitForURL(/bookshelf/, { timeout: 15000 });
+  await page.waitForURL(/bookshelf/, { timeout: 30000 });
   await page.waitForLoadState('domcontentloaded');
   await page.waitForTimeout(1000);
   

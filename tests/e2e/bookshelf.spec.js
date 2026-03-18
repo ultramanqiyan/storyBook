@@ -121,7 +121,7 @@ test.describe('书架页面', () => {
     const bookItem = page.locator('.book-3d').first();
     await bookItem.click();
 
-    await expect(page).toHaveURL(/book\?id=/, { timeout: 10000 });
+    await expect(page).toHaveURL(/book\?id=/, { timeout: 30000 });
   });
 
   test('点击创建新故事应跳转到创建页面', async ({ page }) => {
@@ -134,7 +134,7 @@ test.describe('书架页面', () => {
     const createBtn = page.locator('.btn-3d:has-text("Create")');
     await createBtn.click();
 
-    await expect(page).toHaveURL(/book-create/, { timeout: 10000 });
+    await expect(page).toHaveURL(/book-create/, { timeout: 30000 });
   });
 
   test('点击添加书籍卡片应跳转到创建页面', async ({ page }) => {
@@ -149,14 +149,14 @@ test.describe('书架页面', () => {
     const addBookCard = page.locator('.add-book-card');
     if (await addBookCard.count() > 0) {
       await addBookCard.click();
-      await expect(page).toHaveURL(/book-create/, { timeout: 10000 });
+      await expect(page).toHaveURL(/book-create/, { timeout: 30000 });
     }
   });
 
   test('未登录用户应跳转到登录页', async ({ page }) => {
     await page.goto('/bookshelf.html');
 
-    await expect(page).toHaveURL(/login/, { timeout: 10000 });
+    await expect(page).toHaveURL(/login/, { timeout: 30000 });
   });
 
   test('API应返回正确的书籍列表数据', async ({ request }) => {

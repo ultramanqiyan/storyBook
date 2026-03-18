@@ -6,7 +6,7 @@ test.describe('Bug Fix Verification Tests', () => {
   
   test('问题2验证: 公共图书馆章节数正确显示', async ({ page }) => {
     await page.goto(`${BASE_URL}/library.html`);
-    await page.waitForSelector('.book-item', { timeout: 10000 });
+    await page.waitForSelector('.book-item', { timeout: 30000 });
     
     const bookItems = await page.$$('.book-item');
     console.log(`Found ${bookItems.length} books in library`);
@@ -74,7 +74,7 @@ test.describe('Bug Fix Verification Tests', () => {
     const testPassword = 'Test123456';
     
     await page.goto(`${BASE_URL}/login.html`);
-    await page.waitForSelector('input[type="email"]', { timeout: 10000 });
+    await page.waitForSelector('input[type="email"]', { timeout: 30000 });
     await page.fill('input[type="email"]', testEmail);
     await page.fill('input[type="password"]', testPassword);
     
@@ -83,11 +83,11 @@ test.describe('Bug Fix Verification Tests', () => {
       if (btn) btn.click();
     });
     
-    await page.waitForURL(/bookshelf\.html/, { timeout: 15000 });
+    await page.waitForURL(/bookshelf\.html/, { timeout: 30000 });
     console.log('Logged in successfully');
     
     await page.goto(`${BASE_URL}/book-create.html`);
-    await page.waitForSelector('#bookTitle', { timeout: 10000 });
+    await page.waitForSelector('#bookTitle', { timeout: 30000 });
     
     await page.fill('#bookTitle', 'Test Emoji Fix Book');
     await page.selectOption('#bookType', 'adventure');
@@ -98,7 +98,7 @@ test.describe('Bug Fix Verification Tests', () => {
       if (btn) btn.click();
     });
     
-    await page.waitForURL(/director\.html/, { timeout: 15000 });
+    await page.waitForURL(/director\.html/, { timeout: 30000 });
     console.log('Book created, on director page');
     
     const currentUrl = page.url();

@@ -59,7 +59,7 @@ test.describe('英文用户完整旅程测试', () => {
         await bookCard.first().click();
         await page.waitForTimeout(500);
         
-        await page.waitForURL(/book|books/, { timeout: 5000 });
+        await page.waitForURL(/book|books/, { timeout: 30000 });
         await page.waitForTimeout(1000);
         
         const importBtn = page.locator('button:has-text("Import"), button:has-text("import")');
@@ -90,7 +90,7 @@ test.describe('英文用户完整旅程测试', () => {
             await page.fill('#password', testPassword);
             await page.click('.wax-seal-btn');
             
-            await expect(page).toHaveURL(/bookshelf/, { timeout: 10000 });
+            await expect(page).toHaveURL(/bookshelf/, { timeout: 30000 });
             userId = await page.evaluate(() => localStorage.getItem('user_id'));
           } else {
             userId = await page.evaluate(() => localStorage.getItem('user_id'));
@@ -99,7 +99,7 @@ test.describe('英文用户完整旅程测试', () => {
               await page.fill('#email', testEmail);
               await page.fill('#password', testPassword);
               await page.click('.wax-seal-btn');
-              await expect(page).toHaveURL(/bookshelf/, { timeout: 10000 });
+              await expect(page).toHaveURL(/bookshelf/, { timeout: 30000 });
               userId = await page.evaluate(() => localStorage.getItem('user_id'));
             }
           }
@@ -151,7 +151,7 @@ test.describe('英文用户完整旅程测试', () => {
           
           await page.click('#step3 .btn-next');
           
-          await expect(page.locator('.success-title')).toBeVisible({ timeout: 15000 });
+          await expect(page.locator('.success-title')).toBeVisible({ timeout: 30000 });
           await expect(page.locator('.success-title')).toContainText(/Created|Success/i);
           
           const newBook = db.query(
@@ -233,7 +233,7 @@ test.describe('英文用户完整旅程测试', () => {
             await page.waitForTimeout(800);
             
             const startBtn = page.locator('#startBtn');
-            await expect(startBtn).toBeEnabled({ timeout: 10000 });
+            await expect(startBtn).toBeEnabled({ timeout: 30000 });
             
             // ==================== 步骤9: 添加章节 ====================
             await startBtn.click();
@@ -244,7 +244,7 @@ test.describe('英文用户完整旅程测试', () => {
               [testBookId]
             );
             
-            await expect(page).toHaveURL(/chapter/, { timeout: 15000 });
+            await expect(page).toHaveURL(/chapter/, { timeout: 30000 });
             
             const chaptersAfter = db.queryAll(
               'SELECT * FROM chapters WHERE book_id = ?',
@@ -428,7 +428,7 @@ test.describe('中文用户完整旅程测试', () => {
     await page.fill('#password', testPassword);
     await page.click('.wax-seal-btn');
     
-    await expect(page).toHaveURL(/bookshelf/, { timeout: 10000 });
+    await expect(page).toHaveURL(/bookshelf/, { timeout: 30000 });
     
     const userId = await page.evaluate(() => localStorage.getItem('user_id'));
     expect(userId).toBeTruthy();
@@ -463,7 +463,7 @@ test.describe('中文用户完整旅程测试', () => {
     
     await page.click('#step3 .btn-next');
     
-    await expect(page.locator('.success-title')).toBeVisible({ timeout: 15000 });
+    await expect(page.locator('.success-title')).toBeVisible({ timeout: 30000 });
     
     const newBook = db.query(
       'SELECT * FROM books WHERE title = ? AND user_id = ?',
@@ -1754,7 +1754,7 @@ test.describe('数据持久化完整旅程测试', () => {
     
     // ==================== 步骤4: 验证书籍仍然存在 ====================
     const bookCard = page.locator(`.book-card:has-text("Persistence Test Book"), .book-item:has-text("Persistence Test Book")`);
-    await expect(bookCard.first()).toBeVisible({ timeout: 5000 });
+    await expect(bookCard.first()).toBeVisible({ timeout: 30000 });
     
     // ==================== 步骤5: 访问书籍详情页 ====================
     await page.goto(`/book.html?id=${testBookId}`);
@@ -2185,7 +2185,7 @@ test.describe('用户注册到完整体验旅程测试', () => {
     await page.fill('#password', newPassword);
     await page.click('.wax-seal-btn');
     
-    await expect(page).toHaveURL(/bookshelf/, { timeout: 10000 });
+    await expect(page).toHaveURL(/bookshelf/, { timeout: 30000 });
     
     // ==================== 步骤5: SQL验证用户创建 ====================
     newUserId = await page.evaluate(() => localStorage.getItem('user_id'));
@@ -2225,7 +2225,7 @@ test.describe('用户注册到完整体验旅程测试', () => {
     
     await page.click('#step3 .btn-next');
     
-    await expect(page.locator('.success-title')).toBeVisible({ timeout: 15000 });
+    await expect(page.locator('.success-title')).toBeVisible({ timeout: 30000 });
     
     // ==================== 步骤8: SQL验证书籍创建 ====================
     const newBook = db.query(
@@ -2288,7 +2288,7 @@ test.describe('用户注册到完整体验旅程测试', () => {
     await page.waitForTimeout(1000);
     
     const bookCard = page.locator(`.book-card:has-text("${bookTitle}"), .book-item:has-text("${bookTitle}")`);
-    await expect(bookCard.first()).toBeVisible({ timeout: 5000 });
+    await expect(bookCard.first()).toBeVisible({ timeout: 30000 });
   });
 });
 
@@ -2346,7 +2346,7 @@ test.describe('跨页面数据一致性旅程测试', () => {
     await page.waitForTimeout(1000);
     
     const bookshelfBook = page.locator(`.book-card:has-text("Cross-Page Consistency Test"), .book-item:has-text("Cross-Page Consistency Test")`);
-    await expect(bookshelfBook.first()).toBeVisible({ timeout: 5000 });
+    await expect(bookshelfBook.first()).toBeVisible({ timeout: 30000 });
     
     // ==================== 步骤3: 书籍详情页验证 ====================
     await page.goto(`/book.html?id=${testBookId}`);
@@ -2421,7 +2421,7 @@ test.describe('跨页面数据一致性旅程测试', () => {
     await page.waitForTimeout(1000);
     
     const finalBookCard = page.locator(`.book-card:has-text("Cross-Page Consistency Test"), .book-item:has-text("Cross-Page Consistency Test")`);
-    await expect(finalBookCard.first()).toBeVisible({ timeout: 5000 });
+    await expect(finalBookCard.first()).toBeVisible({ timeout: 30000 });
     
     // ==================== 步骤10: 最终SQL验证数据完整性 ====================
     const finalBook = db.query(

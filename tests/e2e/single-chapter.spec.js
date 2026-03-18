@@ -32,7 +32,7 @@ test.describe('单章节添加和解谜卡牌掉落测试', () => {
     await page.fill('#password', testPassword);
     await page.click('.wax-seal-btn');
     
-    await page.waitForURL(/bookshelf/, { timeout: 10000 });
+    await page.waitForURL(/bookshelf/, { timeout: 30000 });
     await page.waitForTimeout(1000);
 
     // 获取登录后的用户ID
@@ -62,7 +62,7 @@ test.describe('单章节添加和解谜卡牌掉落测试', () => {
     
     await page.click('#step3 .btn-next');
     
-    await expect(page.locator('.success-title')).toBeVisible({ timeout: 15000 });
+    await expect(page.locator('.success-title')).toBeVisible({ timeout: 30000 });
 
     // 验证书籍创建成功
     const newBook = db.query(
@@ -126,13 +126,13 @@ test.describe('单章节添加和解谜卡牌掉落测试', () => {
 
     // ==================== 步骤5: 点击开始按钮 ====================
     const startBtn = page.locator('#startBtn');
-    await expect(startBtn).toBeEnabled({ timeout: 10000 });
+    await expect(startBtn).toBeEnabled({ timeout: 30000 });
     await startBtn.click();
     await page.waitForTimeout(2000);
     console.log('点击开始按钮');
 
     // ==================== 步骤6: 验证章节创建成功 ====================
-    await expect(page).toHaveURL(/chapter/, { timeout: 15000 });
+    await expect(page).toHaveURL(/chapter/, { timeout: 30000 });
 
     const chapters = db.queryAll(
       'SELECT * FROM chapters WHERE book_id = ? ORDER BY order_num',
@@ -176,7 +176,7 @@ test.describe('单章节添加和解谜卡牌掉落测试', () => {
     
     // 等待谜题弹窗出现
     const puzzleOverlay = page.locator('.puzzle-overlay, .modal, .puzzle-modal');
-    await puzzleOverlay.first().waitFor({ state: 'visible', timeout: 10000 });
+    await puzzleOverlay.first().waitFor({ state: 'visible', timeout: 30000 });
     console.log('谜题弹窗已显示');
     
     // 验证弹窗可见

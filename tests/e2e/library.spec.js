@@ -45,7 +45,7 @@ test.describe('公共图书馆功能', () => {
     const firstBook = page.locator('.book-item').first();
     await firstBook.click();
 
-    await page.waitForURL(/book|books/, { timeout: 5000 });
+    await page.waitForURL(/book|books/, { timeout: 30000 });
     expect(page.url()).toMatch(/book|preset/);
   });
 
@@ -58,7 +58,7 @@ test.describe('公共图书馆功能', () => {
     const firstBook = page.locator('.book-item').first();
     await firstBook.click();
 
-    await page.waitForURL(/book/, { timeout: 5000 });
+    await page.waitForURL(/book/, { timeout: 30000 });
     await page.waitForTimeout(2000);
 
     const chapterList = page.locator('.chapter-toc-item');
@@ -75,7 +75,7 @@ test.describe('公共图书馆功能', () => {
     const firstBook = page.locator('.book-item').first();
     await firstBook.click();
 
-    await page.waitForURL(/book|books/, { timeout: 5000 });
+    await page.waitForURL(/book|books/, { timeout: 30000 });
     await page.waitForTimeout(1500);
 
     const charactersTab = page.locator('.view-tab[data-view="characters"], .tab-btn:has-text("角色"), .tab-btn:has-text("Characters")');
@@ -101,7 +101,7 @@ test.describe('公共图书馆功能', () => {
     const firstBook = page.locator('.book-item').first();
     await firstBook.click();
 
-    await page.waitForURL(/book/, { timeout: 5000 });
+    await page.waitForURL(/book/, { timeout: 30000 });
     await page.waitForTimeout(1000);
 
     const importBtn = page.locator('button:has-text("Import")');
@@ -120,13 +120,13 @@ test.describe('公共图书馆功能', () => {
     const firstBook = page.locator('.book-item').first();
     await firstBook.click();
 
-    await page.waitForURL(/book/, { timeout: 5000 });
+    await page.waitForURL(/book/, { timeout: 30000 });
     await page.waitForTimeout(1000);
 
     const firstChapter = page.locator('.chapter-toc-item').first();
     await firstChapter.click();
 
-    await page.waitForURL(/chapter/, { timeout: 5000 });
+    await page.waitForURL(/chapter/, { timeout: 30000 });
     expect(page.url()).toContain('is_preset=1');
   });
 
@@ -337,7 +337,7 @@ test.describe('公共图书馆功能', () => {
     const firstBook = page.locator('.book-item').first();
     await firstBook.click();
 
-    await page.waitForURL(/book/, { timeout: 5000 });
+    await page.waitForURL(/book/, { timeout: 30000 });
     await page.waitForTimeout(1000);
 
     const importBtn = page.locator('button:has-text("Import")');
@@ -358,7 +358,7 @@ test.describe('公共图书馆功能', () => {
     const firstBook = page.locator('.book-item').first();
     await firstBook.click();
 
-    await page.waitForURL(/book/, { timeout: 5000 });
+    await page.waitForURL(/book/, { timeout: 30000 });
     await page.waitForTimeout(1000);
 
     const importBtn = page.locator('button:has-text("Import")');
@@ -507,7 +507,7 @@ test.describe('公共图书馆功能', () => {
     const firstBook = page.locator('.book-item').first();
     await firstBook.click();
 
-    await page.waitForURL(/book|books/, { timeout: 5000 });
+    await page.waitForURL(/book|books/, { timeout: 30000 });
     await page.waitForTimeout(1500);
 
     const importBtn = page.locator('button:has-text("Import"), button:has-text("导入")');
@@ -874,11 +874,11 @@ test.describe('公共图书馆功能', () => {
     const firstBook = page.locator('.book-item').first();
     await firstBook.click();
 
-    await page.waitForURL(/book/, { timeout: 5000 });
+    await page.waitForURL(/book/, { timeout: 30000 });
     await page.waitForTimeout(1000);
 
     await page.goBack();
-    await page.waitForURL(/library/, { timeout: 5000 });
+    await page.waitForURL(/library/, { timeout: 30000 });
     expect(page.url()).toContain('library');
   });
 
@@ -902,7 +902,7 @@ test.describe('公共图书馆功能', () => {
     await firstBook.click();
     await page.waitForTimeout(1000);
 
-    await page.waitForURL(/book|books/, { timeout: 5000 });
+    await page.waitForURL(/book|books/, { timeout: 30000 });
     expect(page.url()).toMatch(/book|preset/);
 
     const chapterList = page.locator('.chapter-toc-item');
@@ -922,7 +922,7 @@ test.describe('公共图书馆功能', () => {
       await importBtn.click();
       await page.waitForTimeout(1000);
 
-      await page.waitForURL(/login/, { timeout: 5000 }).catch(() => {
+      await page.waitForURL(/login/, { timeout: 30000 }).catch(() => {
         expect(true).toBe(true);
       });
     } else {

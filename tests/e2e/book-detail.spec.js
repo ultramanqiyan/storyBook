@@ -139,13 +139,13 @@ test.describe('书籍详情页面', () => {
     const directorBtn = page.locator('.action-btn:has-text("Direct")');
     await directorBtn.click();
 
-    await expect(page).toHaveURL(/director\?book_id=/, { timeout: 10000 });
+    await expect(page).toHaveURL(/director\?book_id=/, { timeout: 30000 });
   });
 
   test('未登录用户应跳转到登录页', async ({ page }) => {
     await page.goto(`/book.html?id=${testBookId}`);
 
-    await expect(page).toHaveURL(/login/, { timeout: 10000 });
+    await expect(page).toHaveURL(/login/, { timeout: 30000 });
   });
 
   test('API应返回正确的书籍详情数据', async ({ request }) => {

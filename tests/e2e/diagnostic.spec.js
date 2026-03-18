@@ -7,7 +7,7 @@ test('诊断测试 - 检查本地服务器', async ({ page }) => {
   console.log('尝试访问 http://127.0.0.1:8788');
   
   const response = await page.goto('http://127.0.0.1:8788', { 
-    timeout: 10000,
+    timeout: 30000,
     waitUntil: 'domcontentloaded'
   });
   

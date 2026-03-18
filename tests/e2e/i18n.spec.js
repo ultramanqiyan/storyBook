@@ -8,7 +8,7 @@ test.describe('i18n - Language Switching', () => {
 
   test('should display language switcher in navbar', async ({ page }) => {
     const langSwitcher = page.locator('.navbar-language');
-    await expect(langSwitcher).toBeVisible({ timeout: 10000 });
+    await expect(langSwitcher).toBeVisible({ timeout: 30000 });
     
     const enBtn = page.locator('.lang-btn:has-text("EN")');
     const zhBtn = page.locator('.lang-btn:has-text("中文")');

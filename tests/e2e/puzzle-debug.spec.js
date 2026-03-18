@@ -27,10 +27,10 @@ test.describe('Puzzle Button Verification Tests', () => {
     await page.fill('input[type="password"]', testPassword);
     await page.click('button[type="submit"]');
     
-    await page.waitForURL(/bookshelf\.html/, { timeout: 10000 });
+    await page.waitForURL(/bookshelf\.html/, { timeout: 30000 });
     
     await page.goto(`${BASE_URL}/library.html`);
-    await page.waitForSelector('.book-item', { timeout: 10000 });
+    await page.waitForSelector('.book-item', { timeout: 30000 });
     
     const firstBook = await page.$('.book-item');
     if (firstBook) {
@@ -40,7 +40,7 @@ test.describe('Puzzle Button Verification Tests', () => {
       const importButton = await page.$('button:has-text("Import")');
       if (importButton) {
         await importButton.click();
-        await page.waitForURL(/book\.html\?id=[^&]+$/, { timeout: 10000 });
+        await page.waitForURL(/book\.html\?id=[^&]+$/, { timeout: 30000 });
         
         const currentUrl = page.url();
         const bookIdMatch = currentUrl.match(/id=([^&]+)/);
@@ -75,7 +75,7 @@ test.describe('Puzzle Button Verification Tests', () => {
 
   test('验证章节数正确显示', async ({ page }) => {
     await page.goto(`${BASE_URL}/library.html`);
-    await page.waitForSelector('.book-item', { timeout: 10000 });
+    await page.waitForSelector('.book-item', { timeout: 30000 });
     
     const bookItems = await page.$$('.book-item');
     

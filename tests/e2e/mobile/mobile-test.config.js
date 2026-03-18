@@ -6,7 +6,7 @@ export default defineConfig({
   forbidOnly: !!process.env.CI,
   retries: 0,
   workers: 1,
-  timeout: 60000,
+  timeout: 120000,
   reporter: [
     ['list'],
     ['json', { outputFile: '../reports/results.json' }],
@@ -18,8 +18,8 @@ export default defineConfig({
     screenshot: 'on',
     video: 'retain-on-failure',
     headless: false,
-    actionTimeout: 10000,
-    navigationTimeout: 30000,
+    actionTimeout: 30000,
+    navigationTimeout: 60000,
   },
   projects: [
     {

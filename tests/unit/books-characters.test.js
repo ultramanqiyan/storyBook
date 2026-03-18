@@ -213,6 +213,7 @@ describe('Books API with Characters', () => {
         ]
       });
       mockDB.all.mockResolvedValueOnce({ results: [] });
+      mockDB.all.mockResolvedValueOnce({ results: [] });
 
       const { onRequestGet } = await import('../../functions/api/books/[id].js');
       const request = new Request('http://localhost/api/books/book-123', {
@@ -242,6 +243,7 @@ describe('Books API with Characters', () => {
           { chapter_id: 'chap-2', title: '第二章', order_num: 2 }
         ]
       });
+      mockDB.all.mockResolvedValueOnce({ results: [] });
 
       const { onRequestGet } = await import('../../functions/api/books/[id].js');
       const request = new Request('http://localhost/api/books/book-123', {

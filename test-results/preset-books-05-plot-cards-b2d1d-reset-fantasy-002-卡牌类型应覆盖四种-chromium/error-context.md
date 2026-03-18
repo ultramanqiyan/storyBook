@@ -1,0 +1,287 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic:
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: ../index.html
+    - generic [ref=e4]:
+      - link "首页" [ref=e5] [cursor=pointer]:
+        - /url: ../index.html
+      - link "图书馆" [ref=e6] [cursor=pointer]:
+        - /url: ../library.html
+      - link "我的书架" [ref=e7] [cursor=pointer]:
+        - /url: ../bookshelf.html
+  - generic [ref=e9]:
+    - generic [ref=e11]: 平行世界的我
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e16]: 🧙
+        - generic [ref=e17]:
+          - generic [ref=e18]: 奇幻
+          - heading "平行世界的我" [level=2] [ref=e19]
+          - generic [ref=e20]:
+            - generic [ref=e21]: 📜 10 章节
+            - generic [ref=e22]: 👥 3 角色
+          - generic [ref=e23]:
+            - link "开始阅读" [ref=e24] [cursor=pointer]:
+              - /url: ../chapters/chapter-fan002-01.html
+            - button "续写这个故事" [ref=e25] [cursor=pointer]
+      - generic [ref=e26]:
+        - button "📜 章节" [ref=e27] [cursor=pointer]
+        - button "👥 角色" [ref=e28] [cursor=pointer]
+        - button "🃏 情节卡牌" [active] [ref=e29] [cursor=pointer]
+      - generic [ref=e31]:
+        - generic [ref=e32] [cursor=pointer]:
+          - generic [ref=e33]: 🌀
+          - generic [ref=e34]: 时空裂隙
+          - generic [ref=e35]: 时空扭曲的裂缝，通往另一个世界
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]: 🪞
+          - generic [ref=e38]: 镜像空间
+          - generic [ref=e39]: 镜像的世界，另一个自己
+        - generic [ref=e40] [cursor=pointer]:
+          - generic [ref=e41]: 🌀
+          - generic [ref=e42]: 穿越异界
+          - generic [ref=e43]: 穿越到另一个世界，探索未知
+        - generic [ref=e44] [cursor=pointer]:
+          - generic [ref=e45]: 🧿
+          - generic [ref=e46]: 护身符
+          - generic [ref=e47]: 保护佩戴者，抵御危险
+        - generic [ref=e48] [cursor=pointer]:
+          - generic [ref=e49]: 🌆
+          - generic [ref=e50]: 永恒黄昏
+          - generic [ref=e51]: 永不消逝的黄昏
+        - generic [ref=e52] [cursor=pointer]:
+          - generic [ref=e53]: 💫
+          - generic [ref=e54]: 觉醒之光
+          - generic [ref=e55]: 力量觉醒的光芒
+        - generic [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: 🧚
+          - generic [ref=e58]: 精灵光
+          - generic [ref=e59]: 精灵的光芒
+        - generic [ref=e60] [cursor=pointer]:
+          - generic [ref=e61]: 🌑
+          - generic [ref=e62]: 黑暗降临
+          - generic [ref=e63]: 无尽的黑暗
+        - generic [ref=e64] [cursor=pointer]:
+          - generic [ref=e65]: 👻
+          - generic [ref=e66]: 灵魂雾
+          - generic [ref=e67]: 充满灵魂的迷雾
+        - generic [ref=e68] [cursor=pointer]:
+          - generic [ref=e69]: ✨
+          - generic [ref=e70]: 光明普照
+          - generic [ref=e71]: 神圣的光芒
+        - generic [ref=e72] [cursor=pointer]:
+          - generic [ref=e73]: 🌀
+          - generic [ref=e74]: 魔法风暴
+          - generic [ref=e75]: 充满魔力的风暴
+        - generic [ref=e76] [cursor=pointer]:
+          - generic [ref=e77]: 🌀
+          - generic [ref=e78]: 传送门光
+          - generic [ref=e79]: 传送门的神秘光芒
+        - generic [ref=e80] [cursor=pointer]:
+          - generic [ref=e81]: 🌅
+          - generic [ref=e82]: 创世晨曦
+          - generic [ref=e83]: 创世之初的光芒
+        - generic [ref=e84] [cursor=pointer]:
+          - generic [ref=e85]: 🌀
+          - generic [ref=e86]: 异世界
+          - generic [ref=e87]: 另一个维度
+        - generic [ref=e88] [cursor=pointer]:
+          - generic [ref=e89]: 🌳
+          - generic [ref=e90]: 魔法森林
+          - generic [ref=e91]: 充满魔法的森林
+        - generic [ref=e92] [cursor=pointer]:
+          - generic [ref=e93]: 🧚
+          - generic [ref=e94]: 精灵村落
+          - generic [ref=e95]: 精灵的家园
+        - generic [ref=e96] [cursor=pointer]:
+          - generic [ref=e97]: ⏳
+          - generic [ref=e98]: 时间裂缝
+          - generic [ref=e99]: 时间扭曲之地
+        - generic [ref=e100] [cursor=pointer]:
+          - generic [ref=e101]: 🕳️
+          - generic [ref=e102]: 深渊
+          - generic [ref=e103]: 无尽的深渊
+        - generic [ref=e104] [cursor=pointer]:
+          - generic [ref=e105]: ⛩️
+          - generic [ref=e106]: 神殿
+          - generic [ref=e107]: 神圣的殿堂
+        - generic [ref=e108] [cursor=pointer]:
+          - generic [ref=e109]: 🏝️
+          - generic [ref=e110]: 浮空岛
+          - generic [ref=e111]: 漂浮在空中的岛屿
+    - generic [ref=e115]:
+      - generic [ref=e116] [cursor=pointer]:
+        - generic [ref=e117]: 🔒
+        - generic [ref=e118]: 封印之地
+        - generic [ref=e119]: 封印恶魔的地方
+      - generic [ref=e120] [cursor=pointer]:
+        - generic [ref=e121]: 🏰
+        - generic [ref=e122]: 天空城
+        - generic [ref=e123]: 云端的城市
+      - generic [ref=e124] [cursor=pointer]:
+        - generic [ref=e125]: 🔮
+        - generic [ref=e126]: 发现秘密
+        - generic [ref=e127]: 揭开隐藏的秘密
+      - generic [ref=e128] [cursor=pointer]:
+        - generic [ref=e129]: 📚
+        - generic [ref=e130]: 魔法研究
+        - generic [ref=e131]: 研究古老的魔法
+      - generic [ref=e132] [cursor=pointer]:
+        - generic [ref=e133]: 🧚
+        - generic [ref=e134]: 精灵结盟
+        - generic [ref=e135]: 与精灵结为盟友
+      - generic [ref=e136] [cursor=pointer]:
+        - generic [ref=e137]: 🔮
+        - generic [ref=e138]: 解除诅咒
+        - generic [ref=e139]: 解除古老的诅咒
+      - generic [ref=e140] [cursor=pointer]:
+        - generic [ref=e141]: 💫
+        - generic [ref=e142]: 觉醒力量
+        - generic [ref=e143]: 觉醒隐藏的力量
+      - generic [ref=e144] [cursor=pointer]:
+        - generic [ref=e145]: 🌈
+        - generic [ref=e146]: 元素融合
+        - generic [ref=e147]: 融合元素之力
+      - generic [ref=e148] [cursor=pointer]:
+        - generic [ref=e149]: 🔥
+        - generic [ref=e150]: 元素试炼
+        - generic [ref=e151]: 元素之神的考验
+      - generic [ref=e152] [cursor=pointer]:
+        - generic [ref=e153]: 👼
+        - generic [ref=e154]: 灵魂救赎
+        - generic [ref=e155]: 救赎迷失的灵魂
+      - generic [ref=e156] [cursor=pointer]:
+        - generic [ref=e157]: 🛡️
+        - generic [ref=e158]: 守护使命
+        - generic [ref=e159]: 守护重要的东西
+      - generic [ref=e160] [cursor=pointer]:
+        - generic [ref=e161]: 📜
+        - generic [ref=e162]: 传送卷轴
+        - generic [ref=e163]: 瞬间传送
+      - generic [ref=e164] [cursor=pointer]:
+        - generic [ref=e165]: 📖
+        - generic [ref=e166]: 法典
+        - generic [ref=e167]: 记载魔法的书籍
+      - generic [ref=e168] [cursor=pointer]:
+        - generic [ref=e169]: 🔮
+        - generic [ref=e170]: 水晶球
+        - generic [ref=e171]: 占卜和储存魔力
+      - generic [ref=e172] [cursor=pointer]:
+        - generic [ref=e173]: 💎
+        - generic [ref=e174]: 召唤石
+        - generic [ref=e175]: 召唤生物
+      - generic [ref=e176] [cursor=pointer]:
+        - generic [ref=e177]: 💜
+        - generic [ref=e178]: 灵魂石
+        - generic [ref=e179]: 储存灵魂
+      - generic [ref=e180] [cursor=pointer]:
+        - generic [ref=e181]: 💠
+        - generic [ref=e182]: 元素宝石
+        - generic [ref=e183]: 储存元素之力
+      - generic [ref=e184] [cursor=pointer]:
+        - generic [ref=e185]: 🧥
+        - generic [ref=e186]: 魔法披风
+        - generic [ref=e187]: 隐身和防护
+      - generic [ref=e188] [cursor=pointer]:
+        - generic [ref=e189]: 🌀
+        - generic [ref=e190]: 传送门符
+        - generic [ref=e191]: 开启传送门
+      - generic [ref=e192] [cursor=pointer]:
+        - generic [ref=e193]: 💍
+        - generic [ref=e194]: 精灵戒指
+        - generic [ref=e195]: 精灵的祝福
+```

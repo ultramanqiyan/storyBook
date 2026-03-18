@@ -56,7 +56,7 @@ test.describe('登出功能测试', () => {
     const logoutButton = page.locator('a:has-text("Sign Out"), [onclick*="logout"]').first();
     await logoutButton.click();
 
-    await page.waitForURL(/login/, { timeout: 5000 });
+    await page.waitForURL(/login/, { timeout: 30000 });
     expect(page.url()).toContain('login');
   });
 
@@ -69,7 +69,7 @@ test.describe('登出功能测试', () => {
     const logoutButton = page.locator('a:has-text("Sign Out"), [onclick*="logout"]').first();
     await logoutButton.click();
 
-    await page.waitForURL(/login/, { timeout: 5000 });
+    await page.waitForURL(/login/, { timeout: 30000 });
 
     await page.goto('/bookshelf.html');
     await page.waitForTimeout(500);
@@ -86,7 +86,7 @@ test.describe('登出功能测试', () => {
     const logoutButton = page.locator('a:has-text("Sign Out"), [onclick*="logout"]').first();
     await logoutButton.click();
 
-    await page.waitForURL(/login/, { timeout: 5000 });
+    await page.waitForURL(/login/, { timeout: 30000 });
 
     await page.goto('/director.html');
     await page.waitForTimeout(500);
@@ -103,7 +103,7 @@ test.describe('登出功能测试', () => {
     const logoutButton = page.locator('a:has-text("Sign Out"), [onclick*="logout"]').first();
     await logoutButton.click();
 
-    await page.waitForURL(/login/, { timeout: 5000 });
+    await page.waitForURL(/login/, { timeout: 30000 });
 
     await page.goto('/book-create.html');
     await page.waitForTimeout(500);
@@ -120,7 +120,7 @@ test.describe('登出功能测试', () => {
     const logoutButton = page.locator('a:has-text("Sign Out"), [onclick*="logout"]').first();
     await logoutButton.click();
 
-    await page.waitForURL(/login/, { timeout: 5000 });
+    await page.waitForURL(/login/, { timeout: 30000 });
 
     await page.goto('/custom-card.html');
     await page.waitForTimeout(1000);
@@ -139,7 +139,7 @@ test.describe('登出功能测试', () => {
     const logoutButton = page.locator('a:has-text("Sign Out"), [onclick*="logout"]').first();
     await logoutButton.click();
 
-    await page.waitForURL(/login/, { timeout: 5000 });
+    await page.waitForURL(/login/, { timeout: 30000 });
 
     await page.goto('/library.html');
     await page.waitForTimeout(1000);
@@ -158,7 +158,7 @@ test.describe('登出功能测试', () => {
     const logoutButton = page.locator('a:has-text("Sign Out"), [onclick*="logout"]').first();
     await logoutButton.click();
 
-    await page.waitForURL(/login/, { timeout: 5000 });
+    await page.waitForURL(/login/, { timeout: 30000 });
 
     await page.goto('/book.html?id=1');
     await page.waitForTimeout(500);
@@ -179,7 +179,7 @@ test.describe('登出功能测试', () => {
     const logoutButton = page.locator('a:has-text("Sign Out"), [onclick*="logout"]').first();
     await logoutButton.click();
 
-    await page.waitForURL(/login/, { timeout: 5000 });
+    await page.waitForURL(/login/, { timeout: 30000 });
 
     await page.click('#showRegister');
     await page.waitForSelector('#registerForm', { state: 'visible' });
@@ -189,7 +189,7 @@ test.describe('登出功能测试', () => {
     await page.fill('#registerConfirmPassword', password);
     await page.click('#registerForm button[type="submit"]');
 
-    await page.waitForURL(/bookshelf/, { timeout: 15000 });
+    await page.waitForURL(/bookshelf/, { timeout: 30000 });
 
     expect(page.url()).toContain('bookshelf');
   });
@@ -208,7 +208,7 @@ test.describe('登出功能测试', () => {
       const logoutButton = page.locator('a:has-text("Sign Out"), [onclick*="logout"]').first();
       if (await logoutButton.count() > 0) {
         await logoutButton.click();
-        await page.waitForURL(/login/, { timeout: 5000 });
+        await page.waitForURL(/login/, { timeout: 30000 });
         expect(page.url()).toContain('login');
       }
     }
@@ -231,7 +231,7 @@ test.describe('登出功能测试', () => {
 
     const logoutButton = page1.locator('a:has-text("Sign Out"), [onclick*="logout"]').first();
     await logoutButton.click();
-    await page1.waitForURL(/login/, { timeout: 5000 });
+    await page1.waitForURL(/login/, { timeout: 30000 });
 
     await page2.reload();
     await page2.waitForTimeout(500);

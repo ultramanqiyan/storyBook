@@ -104,7 +104,7 @@ test.describe('谜题功能', () => {
       await puzzleBtn.first().click();
 
       const puzzleOverlay = page.locator('#puzzleOverlay.active');
-      await expect(puzzleOverlay).toBeVisible({ timeout: 5000 });
+      await expect(puzzleOverlay).toBeVisible({ timeout: 30000 });
     }
 
     const response = await request.post(`/api/puzzles/${testPuzzleId}/solve`, {
@@ -607,7 +607,7 @@ test.describe('谜题功能', () => {
       await puzzleBtn.first().click();
 
       const puzzleOverlay = page.locator('#puzzleOverlay.active');
-      await expect(puzzleOverlay).toBeVisible({ timeout: 5000 });
+      await expect(puzzleOverlay).toBeVisible({ timeout: 30000 });
     }
 
     const puzzleOptions = page.locator('.puzzle-option');

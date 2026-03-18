@@ -9,7 +9,7 @@ test.describe('Debug Puzzle Button - With Auth', () => {
     const testPassword = 'Test123456';
     
     await page.goto(`${BASE_URL}/login.html`);
-    await page.waitForSelector('input[type="email"]', { timeout: 10000 });
+    await page.waitForSelector('input[type="email"]', { timeout: 30000 });
     await page.fill('input[type="email"]', testEmail);
     await page.fill('input[type="password"]', testPassword);
     

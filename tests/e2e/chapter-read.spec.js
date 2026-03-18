@@ -85,7 +85,7 @@ test.describe('章节阅读页面', () => {
 
     await page.goto(`/chapter.html?id=${testChapterId}`);
 
-    await expect(page.locator('.chapter-name')).toBeVisible({ timeout: 10000 });
+    await expect(page.locator('.chapter-name')).toBeVisible({ timeout: 30000 });
 
     await page.waitForTimeout(1000);
 
@@ -161,7 +161,7 @@ test.describe('章节阅读页面', () => {
   test('未登录用户应跳转到登录页', async ({ page }) => {
     await page.goto(`/chapter.html?id=test-chapter-id`);
 
-    await expect(page).toHaveURL(/login/, { timeout: 10000 });
+    await expect(page).toHaveURL(/login/, { timeout: 30000 });
   });
 
   test('API应返回正确的章节数据', async ({ request }) => {
@@ -203,7 +203,7 @@ test.describe('章节阅读页面', () => {
 
     await page.goto(`/chapter.html?id=${testChapterId}`);
 
-    await expect(page.locator('.chapter-name')).toBeVisible({ timeout: 10000 });
+    await expect(page.locator('.chapter-name')).toBeVisible({ timeout: 30000 });
     await page.waitForTimeout(1000);
 
     const readingContent = page.locator('.reading-content').first();

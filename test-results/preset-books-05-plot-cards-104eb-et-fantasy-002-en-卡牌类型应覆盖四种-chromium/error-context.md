@@ -1,0 +1,295 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic:
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+    - generic: ✦
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3] [cursor=pointer]:
+      - /url: ../index.html
+    - generic [ref=e4]:
+      - link "Home" [ref=e5] [cursor=pointer]:
+        - /url: ../index.html
+      - link "Library" [ref=e6] [cursor=pointer]:
+        - /url: ../library.html
+      - link "My Books" [ref=e7] [cursor=pointer]:
+        - /url: ../bookshelf.html
+  - generic [ref=e9]:
+    - generic [ref=e11]: The Other Me
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e16]: 🧙
+        - generic [ref=e17]:
+          - generic [ref=e18]: Fantasy
+          - heading "The Other Me" [level=2] [ref=e19]
+          - generic [ref=e20]:
+            - generic [ref=e21]: 📜 10 Chapters
+            - generic [ref=e22]: 👥 3 Characters
+          - generic [ref=e23]:
+            - link "Start Reading" [ref=e24] [cursor=pointer]:
+              - /url: ../chapters/chapter-fan002-01-en.html
+            - button "Continue This Story" [ref=e25] [cursor=pointer]
+      - generic [ref=e26]:
+        - button "📜 Chapters" [ref=e27] [cursor=pointer]
+        - button "👥 Characters" [ref=e28] [cursor=pointer]
+        - button "🃏 Plot Cards" [active] [ref=e29] [cursor=pointer]
+      - generic [ref=e31]:
+        - generic [ref=e32] [cursor=pointer]:
+          - generic [ref=e33]: 🌀
+          - generic [ref=e34]: Time Rift
+          - generic [ref=e35]: Distorted space-time rift, gateway to another world
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]: 🪞
+          - generic [ref=e38]: Mirror Dimension
+          - generic [ref=e39]: Mirror world, another version of yourself
+        - generic [ref=e40] [cursor=pointer]:
+          - generic [ref=e41]: 🌀
+          - generic [ref=e42]: Dimension Travel
+          - generic [ref=e43]: Cross to another world, explore the unknown
+        - generic [ref=e44] [cursor=pointer]:
+          - generic [ref=e45]: 🧿
+          - generic [ref=e46]: Amulet
+          - generic [ref=e47]: Protects the wearer from danger
+        - generic [ref=e48] [cursor=pointer]:
+          - generic [ref=e49]: 🌆
+          - generic [ref=e50]: Eternal Dusk
+          - generic [ref=e51]: Never-ending dusk
+        - generic [ref=e52] [cursor=pointer]:
+          - generic [ref=e53]: 💫
+          - generic [ref=e54]: Awakening Light
+          - generic [ref=e55]: Power awakening glow
+        - generic [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: 🧚
+          - generic [ref=e58]: Elf Light
+          - generic [ref=e59]: Elven glow
+        - generic [ref=e60] [cursor=pointer]:
+          - generic [ref=e61]: 🌑
+          - generic [ref=e62]: Darkness Falls
+          - generic [ref=e63]: Endless darkness
+        - generic [ref=e64] [cursor=pointer]:
+          - generic [ref=e65]: 👻
+          - generic [ref=e66]: Soul Mist
+          - generic [ref=e67]: Mist filled with souls
+        - generic [ref=e68] [cursor=pointer]:
+          - generic [ref=e69]: ✨
+          - generic [ref=e70]: Divine Light
+          - generic [ref=e71]: Sacred light
+        - generic [ref=e72] [cursor=pointer]:
+          - generic [ref=e73]: 🌀
+          - generic [ref=e74]: Magic Storm
+          - generic [ref=e75]: Magical storm
+        - generic [ref=e76] [cursor=pointer]:
+          - generic [ref=e77]: 🌀
+          - generic [ref=e78]: Portal Light
+          - generic [ref=e79]: Mysterious portal glow
+        - generic [ref=e80] [cursor=pointer]:
+          - generic [ref=e81]: 🌅
+          - generic [ref=e82]: Genesis Dawn
+          - generic [ref=e83]: Light of creation
+        - generic [ref=e84] [cursor=pointer]:
+          - generic [ref=e85]: 🪞
+          - generic [ref=e86]: Mirror Space
+          - generic [ref=e87]: Mirror world
+        - generic [ref=e88] [cursor=pointer]:
+          - generic [ref=e89]: 🌀
+          - generic [ref=e90]: Other World
+          - generic [ref=e91]: Another dimension
+        - generic [ref=e92] [cursor=pointer]:
+          - generic [ref=e93]: 🌳
+          - generic [ref=e94]: Magic Forest
+          - generic [ref=e95]: Magical forest
+        - generic [ref=e96] [cursor=pointer]:
+          - generic [ref=e97]: 🧚
+          - generic [ref=e98]: Elf Village
+          - generic [ref=e99]: Elven home
+        - generic [ref=e100] [cursor=pointer]:
+          - generic [ref=e101]: ⏳
+          - generic [ref=e102]: Time Fissure
+          - generic [ref=e103]: Time-distorted place
+        - generic [ref=e104] [cursor=pointer]:
+          - generic [ref=e105]: 🕳️
+          - generic [ref=e106]: Abyss
+          - generic [ref=e107]: Endless abyss
+        - generic [ref=e108] [cursor=pointer]:
+          - generic [ref=e109]: ⛩️
+          - generic [ref=e110]: Temple
+          - generic [ref=e111]: Sacred hall
+        - generic [ref=e112] [cursor=pointer]:
+          - generic [ref=e113]: 🏝️
+          - generic [ref=e114]: Floating Island
+          - generic [ref=e115]: Island in the sky
+    - generic [ref=e119]:
+      - generic [ref=e120] [cursor=pointer]:
+        - generic [ref=e121]: 🔒
+        - generic [ref=e122]: Sealed Land
+        - generic [ref=e123]: Place sealing demons
+      - generic [ref=e124] [cursor=pointer]:
+        - generic [ref=e125]: 🏰
+        - generic [ref=e126]: Sky City
+        - generic [ref=e127]: City in the clouds
+      - generic [ref=e128] [cursor=pointer]:
+        - generic [ref=e129]: 🌀
+        - generic [ref=e130]: Cross Worlds
+        - generic [ref=e131]: Travel to another world
+      - generic [ref=e132] [cursor=pointer]:
+        - generic [ref=e133]: 🔮
+        - generic [ref=e134]: Discover Secrets
+        - generic [ref=e135]: Uncover hidden secrets
+      - generic [ref=e136] [cursor=pointer]:
+        - generic [ref=e137]: 📚
+        - generic [ref=e138]: Magic Research
+        - generic [ref=e139]: Study ancient magic
+      - generic [ref=e140] [cursor=pointer]:
+        - generic [ref=e141]: 🧚
+        - generic [ref=e142]: Elf Alliance
+        - generic [ref=e143]: Form alliance with elves
+      - generic [ref=e144] [cursor=pointer]:
+        - generic [ref=e145]: 🔮
+        - generic [ref=e146]: Break Curse
+        - generic [ref=e147]: Remove ancient curse
+      - generic [ref=e148] [cursor=pointer]:
+        - generic [ref=e149]: 💫
+        - generic [ref=e150]: Awaken Power
+        - generic [ref=e151]: Awaken hidden power
+      - generic [ref=e152] [cursor=pointer]:
+        - generic [ref=e153]: 🌈
+        - generic [ref=e154]: Elemental Fusion
+        - generic [ref=e155]: Fuse elemental power
+      - generic [ref=e156] [cursor=pointer]:
+        - generic [ref=e157]: 🔥
+        - generic [ref=e158]: Elemental Trial
+        - generic [ref=e159]: Elemental gods test
+      - generic [ref=e160] [cursor=pointer]:
+        - generic [ref=e161]: 👼
+        - generic [ref=e162]: Soul Redemption
+        - generic [ref=e163]: Redeem lost souls
+      - generic [ref=e164] [cursor=pointer]:
+        - generic [ref=e165]: 🛡️
+        - generic [ref=e166]: Guardian Mission
+        - generic [ref=e167]: Guard important things
+      - generic [ref=e168] [cursor=pointer]:
+        - generic [ref=e169]: 📜
+        - generic [ref=e170]: Teleport Scroll
+        - generic [ref=e171]: Instant teleport
+      - generic [ref=e172] [cursor=pointer]:
+        - generic [ref=e173]: 📖
+        - generic [ref=e174]: Grimoire
+        - generic [ref=e175]: Book of magic
+      - generic [ref=e176] [cursor=pointer]:
+        - generic [ref=e177]: 🔮
+        - generic [ref=e178]: Crystal Ball
+        - generic [ref=e179]: Divination and magic storage
+      - generic [ref=e180] [cursor=pointer]:
+        - generic [ref=e181]: 💎
+        - generic [ref=e182]: Summoning Stone
+        - generic [ref=e183]: Summon creatures
+      - generic [ref=e184] [cursor=pointer]:
+        - generic [ref=e185]: 💜
+        - generic [ref=e186]: Soul Stone
+        - generic [ref=e187]: Store souls
+      - generic [ref=e188] [cursor=pointer]:
+        - generic [ref=e189]: 💠
+        - generic [ref=e190]: Elemental Gem
+        - generic [ref=e191]: Store elemental power
+      - generic [ref=e192] [cursor=pointer]:
+        - generic [ref=e193]: 🧥
+        - generic [ref=e194]: Magic Cloak
+        - generic [ref=e195]: Invisibility and protection
+      - generic [ref=e196] [cursor=pointer]:
+        - generic [ref=e197]: 🌀
+        - generic [ref=e198]: Portal Rune
+        - generic [ref=e199]: Open portal
+      - generic [ref=e200] [cursor=pointer]:
+        - generic [ref=e201]: 💍
+        - generic [ref=e202]: Elf Ring
+        - generic [ref=e203]: Elven blessing
+```
