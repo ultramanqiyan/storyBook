@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Childhood Sweethearts - StoryBook</title>
   <meta name="description" content="Childhood Sweethearts - AI Interactive Story">
   <meta name="keywords" content="Sunny, Chase, Candy, AI, creativity, consciousness, human, work">
@@ -447,6 +448,14 @@
         border-radius: 0;
       }
       
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -518,15 +527,24 @@
       }
       
       .action-buttons {
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 6px;
         margin-top: 10px;
       }
       
       .action-btn {
-        padding: 8px 12px;
-        font-size: 11px;
-        min-height: 36px;
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
       }
       
       .view-tabs {
@@ -640,21 +658,7 @@
                   <span class="chapter-number">Ch. V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Confession</span>
-                </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="book-page right">
-        <div class="parchment-texture"></div>
-        <div class="page-edge top"></div>
-        <div class="page-edge right"></div>
-        <div class="page-edge bottom"></div>
-        <div class="page-content">
-          <div id="rightPageContent">
-            <div class="chapter-toc">
-              <a href="../chapters/chapter-rom004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                </a><a href="../chapters/chapter-rom004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
                   <span class="chapter-number">Ch. VI</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Sweetness</span>
@@ -679,6 +683,17 @@
           </div>
         </div>
       </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   
@@ -699,7 +714,7 @@
       type: 'romance',
       chapters: [{"chapterId":"chapter-rom004-01-en","title":"Returning Home","orderNum":1},{"chapterId":"chapter-rom004-02-en","title":"Reunion","orderNum":2},{"chapterId":"chapter-rom004-03-en","title":"Memories","orderNum":3},{"chapterId":"chapter-rom004-04-en","title":"Ambiguity","orderNum":4},{"chapterId":"chapter-rom004-05-en","title":"Confession","orderNum":5},{"chapterId":"chapter-rom004-06-en","title":"Sweetness","orderNum":6},{"chapterId":"chapter-rom004-07-en","title":"Test","orderNum":7},{"chapterId":"chapter-rom004-08-en","title":"Choice","orderNum":8},{"chapterId":"chapter-rom004-09-en","title":"Proposal","orderNum":9},{"chapterId":"chapter-rom004-10-en","title":"Happiness","orderNum":10}],
       characters: [{"charId":"char-rom004-001-en","name":"Sunny","roleType":"Designer","personality":"independent, nostalgic, fears change","avatar":"👩","isProtagonist":1},{"charId":"char-rom004-002-en","name":"Chase","roleType":"Architect","personality":"gentle, devoted, responsible","avatar":"👨","isProtagonist":0},{"charId":"char-rom004-003-en","name":"Candy","roleType":"Little Sister","personality":"cute, mischievous, matchmaker","avatar":"👧","isProtagonist":0}],
-      plotCards: [{"card_id":"preset-romance-004-en-weather-1773788764471-vfzzj5emf","sub_type":"weather","name":"Misty","icon":"🌫️","description":"Hazy mist"},{"card_id":"preset-romance-004-en-weather-1773788764471-ne5jlbe33","sub_type":"weather","name":"Neon Lights","icon":"🌃","description":"City neon lights"},{"card_id":"preset-romance-004-en-weather-1773788764471-yohuh1vum","sub_type":"weather","name":"Moonlight","icon":"🌙","description":"Bright moonlight"},{"card_id":"preset-romance-004-en-weather-1773788764471-7s05dcosk","sub_type":"weather","name":"Thunderstorm","icon":"⛈️","description":"Storm"},{"card_id":"preset-romance-004-en-weather-1773788764471-3nr5k6pdb","sub_type":"weather","name":"Cloudy","icon":"☁️","description":"Overcast sky"},{"card_id":"preset-romance-004-en-weather-1773788764471-gkg6psod5","sub_type":"weather","name":"First Snow","icon":"❄️","description":"First snow of the year"},{"card_id":"preset-romance-004-en-weather-1773788764471-oe5c5zk4k","sub_type":"weather","name":"Sunny Day","icon":"☀️","description":"Bright and sunny"},{"card_id":"preset-romance-004-en-weather-1773788764471-7wzz60x2j","sub_type":"weather","name":"Sunset","icon":"🌇","description":"Romantic sunset"},{"card_id":"preset-romance-004-en-terrain-1773788764471-l5ggg261z","sub_type":"terrain","name":"Seaside","icon":"🏖️","description":"Romantic beach"},{"card_id":"preset-romance-004-en-terrain-1773788764471-5vhe1bvy4","sub_type":"terrain","name":"Cafe","icon":"☕","description":"Cozy cafe"},{"card_id":"preset-romance-004-en-terrain-1773788764471-rqbbcyssj","sub_type":"terrain","name":"Bridge","icon":"🌉","description":"Bridge over the river"},{"card_id":"preset-romance-004-en-terrain-1773788764471-f4isndgd2","sub_type":"terrain","name":"Rooftop","icon":"🌃","description":"City rooftop"},{"card_id":"preset-romance-004-en-terrain-1773788764471-6ywu389fy","sub_type":"terrain","name":"Gallery","icon":"🖼️","description":"Art gallery"},{"card_id":"preset-romance-004-en-terrain-1773788764471-mj4a8biz2","sub_type":"terrain","name":"Bookstore","icon":"📖","description":"Quiet bookstore"},{"card_id":"preset-romance-004-en-terrain-1773788764471-q3cvx164j","sub_type":"terrain","name":"Old Street","icon":"🏘️","description":"Nostalgic old street"},{"card_id":"preset-romance-004-en-terrain-1773788764471-7fgozt8ik","sub_type":"terrain","name":"School","icon":"🎓","description":"School of memories"},{"card_id":"preset-romance-004-en-adventure-1773788764471-cxtj9ldq2","sub_type":"adventure","name":"Reconciliation","icon":"🤝","description":"Making up"},{"card_id":"preset-romance-004-en-adventure-1773788764471-u0p61bmox","sub_type":"adventure","name":"Living Together","icon":"🏠","description":"Starting life together"},{"card_id":"preset-romance-004-en-adventure-1773788764471-jwqpop4bl","sub_type":"adventure","name":"Marriage","icon":"💒","description":"Getting married"},{"card_id":"preset-romance-004-en-adventure-1773788764471-6ltliuo4u","sub_type":"adventure","name":"Ambiguity","icon":"💗","description":"Ambiguous moments"},{"card_id":"preset-romance-004-en-adventure-1773788764471-9ovlcfatq","sub_type":"adventure","name":"Reunion","icon":"🎉","description":"Meeting again"},{"card_id":"preset-romance-004-en-adventure-1773788764471-izvlmmw3z","sub_type":"adventure","name":"Engagement","icon":"💎","description":"Making promises"},{"card_id":"preset-romance-004-en-adventure-1773788764471-z5nthyjph","sub_type":"adventure","name":"Misunderstanding","icon":"😔","description":"Heartbreaking misunderstanding"},{"card_id":"preset-romance-004-en-adventure-1773788764471-x94fdrd7q","sub_type":"adventure","name":"Meeting Parents","icon":"👨‍👩‍👧","description":"Meeting the parents"},{"card_id":"preset-romance-004-en-equipment-1773788764471-5tan6ktup","sub_type":"equipment","name":"Chocolate","icon":"🍫","description":"Sweet taste"},{"card_id":"preset-romance-004-en-equipment-1773788764471-otj2sfjhz","sub_type":"equipment","name":"Book","icon":"📚","description":"Shared interest"},{"card_id":"preset-romance-004-en-equipment-1773788764471-hi6ij67oj","sub_type":"equipment","name":"Wine","icon":"🍷","description":"Romantic drink"},{"card_id":"preset-romance-004-en-equipment-1773788764471-d64pd3tix","sub_type":"equipment","name":"Music Box","icon":"🎵","description":"Romantic music"},{"card_id":"preset-romance-004-en-equipment-1773788764471-ec5pjbujb","sub_type":"equipment","name":"Perfume","icon":"🧴","description":"Charming fragrance"},{"card_id":"preset-romance-004-en-equipment-1773788764471-8swmfp6pz","sub_type":"equipment","name":"Wallet","icon":"👛","description":"Daily essential"},{"card_id":"preset-romance-004-en-equipment-1773788764471-a6hgx06ap","sub_type":"equipment","name":"Umbrella","icon":"☂️","description":"Shared in the rain"},{"card_id":"preset-romance-004-en-equipment-1773788764471-7a93soejk","sub_type":"equipment","name":"Letter Paper","icon":"✉️","description":"Handwritten love letter"}]
+      plotCards: [{"card_id":"preset-romance-004-en-adventure-1773788764471-6ltliuo4u","sub_type":"adventure","name":"Ambiguity","icon":"💗","description":"Ambiguous moments"},{"card_id":"preset-romance-004-en-adventure-1773788764471-9ovlcfatq","sub_type":"adventure","name":"Reunion","icon":"🎉","description":"Meeting again"},{"card_id":"preset-romance-004-en-adventure-1773788764471-cxtj9ldq2","sub_type":"adventure","name":"Reconciliation","icon":"🤝","description":"Making up"},{"card_id":"preset-romance-004-en-adventure-1773788764471-izvlmmw3z","sub_type":"adventure","name":"Engagement","icon":"💎","description":"Making promises"},{"card_id":"preset-romance-004-en-adventure-1773788764471-jwqpop4bl","sub_type":"adventure","name":"Marriage","icon":"💒","description":"Getting married"},{"card_id":"preset-romance-004-en-adventure-1773788764471-u0p61bmox","sub_type":"adventure","name":"Living Together","icon":"🏠","description":"Starting life together"},{"card_id":"preset-romance-004-en-adventure-1773788764471-x94fdrd7q","sub_type":"adventure","name":"Meeting Parents","icon":"👨‍👩‍👧","description":"Meeting the parents"},{"card_id":"preset-romance-004-en-adventure-1773788764471-z5nthyjph","sub_type":"adventure","name":"Misunderstanding","icon":"😔","description":"Heartbreaking misunderstanding"},{"card_id":"preset-romance-004-en-equipment-1773788764471-5tan6ktup","sub_type":"equipment","name":"Chocolate","icon":"🍫","description":"Sweet taste"},{"card_id":"preset-romance-004-en-equipment-1773788764471-7a93soejk","sub_type":"equipment","name":"Letter Paper","icon":"✉️","description":"Handwritten love letter"},{"card_id":"preset-romance-004-en-equipment-1773788764471-8swmfp6pz","sub_type":"equipment","name":"Wallet","icon":"👛","description":"Daily essential"},{"card_id":"preset-romance-004-en-equipment-1773788764471-a6hgx06ap","sub_type":"equipment","name":"Umbrella","icon":"☂️","description":"Shared in the rain"},{"card_id":"preset-romance-004-en-equipment-1773788764471-d64pd3tix","sub_type":"equipment","name":"Music Box","icon":"🎵","description":"Romantic music"},{"card_id":"preset-romance-004-en-equipment-1773788764471-ec5pjbujb","sub_type":"equipment","name":"Perfume","icon":"🧴","description":"Charming fragrance"},{"card_id":"preset-romance-004-en-equipment-1773788764471-hi6ij67oj","sub_type":"equipment","name":"Wine","icon":"🍷","description":"Romantic drink"},{"card_id":"preset-romance-004-en-equipment-1773788764471-otj2sfjhz","sub_type":"equipment","name":"Book","icon":"📚","description":"Shared interest"},{"card_id":"preset-romance-004-en-terrain-1773788764471-5vhe1bvy4","sub_type":"terrain","name":"Cafe","icon":"☕","description":"Cozy cafe"},{"card_id":"preset-romance-004-en-terrain-1773788764471-6ywu389fy","sub_type":"terrain","name":"Gallery","icon":"🖼️","description":"Art gallery"},{"card_id":"preset-romance-004-en-terrain-1773788764471-7fgozt8ik","sub_type":"terrain","name":"School","icon":"🎓","description":"School of memories"},{"card_id":"preset-romance-004-en-terrain-1773788764471-f4isndgd2","sub_type":"terrain","name":"Rooftop","icon":"🌃","description":"City rooftop"},{"card_id":"preset-romance-004-en-terrain-1773788764471-l5ggg261z","sub_type":"terrain","name":"Seaside","icon":"🏖️","description":"Romantic beach"},{"card_id":"preset-romance-004-en-terrain-1773788764471-mj4a8biz2","sub_type":"terrain","name":"Bookstore","icon":"📖","description":"Quiet bookstore"},{"card_id":"preset-romance-004-en-terrain-1773788764471-q3cvx164j","sub_type":"terrain","name":"Old Street","icon":"🏘️","description":"Nostalgic old street"},{"card_id":"preset-romance-004-en-terrain-1773788764471-rqbbcyssj","sub_type":"terrain","name":"Bridge","icon":"🌉","description":"Bridge over the river"},{"card_id":"preset-romance-004-en-weather-1773788764471-3nr5k6pdb","sub_type":"weather","name":"Cloudy","icon":"☁️","description":"Overcast sky"},{"card_id":"preset-romance-004-en-weather-1773788764471-7s05dcosk","sub_type":"weather","name":"Thunderstorm","icon":"⛈️","description":"Storm"},{"card_id":"preset-romance-004-en-weather-1773788764471-7wzz60x2j","sub_type":"weather","name":"Sunset","icon":"🌇","description":"Romantic sunset"},{"card_id":"preset-romance-004-en-weather-1773788764471-gkg6psod5","sub_type":"weather","name":"First Snow","icon":"❄️","description":"First snow of the year"},{"card_id":"preset-romance-004-en-weather-1773788764471-ne5jlbe33","sub_type":"weather","name":"Neon Lights","icon":"🌃","description":"City neon lights"},{"card_id":"preset-romance-004-en-weather-1773788764471-oe5c5zk4k","sub_type":"weather","name":"Sunny Day","icon":"☀️","description":"Bright and sunny"},{"card_id":"preset-romance-004-en-weather-1773788764471-vfzzj5emf","sub_type":"weather","name":"Misty","icon":"🌫️","description":"Hazy mist"},{"card_id":"preset-romance-004-en-weather-1773788764471-yohuh1vum","sub_type":"weather","name":"Moonlight","icon":"🌙","description":"Bright moonlight"}]
     };
     
     let currentView = 'chapters';
@@ -707,6 +722,8 @@
     document.addEventListener('DOMContentLoaded', function() {
       document.body.className = 'theme-romance';
       createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
     });
     
     function switchView(view, evt) {
@@ -729,11 +746,14 @@
       }
     }
     
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderChapters() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
-      const half = Math.ceil(chapters.length / 2);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = 'en' === 'zh';
       
@@ -742,21 +762,38 @@
         return chapters[pageIndex * 2].chapterId;
       }
       
-      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
     }
     
     function renderPlotCards() {
@@ -767,10 +804,6 @@
       const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
       const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
       
-      const half = Math.ceil(cards.length / 2);
-      const leftCards = cards.slice(0, half);
-      const rightCards = cards.slice(half);
-      
       function renderPlotCard(card, index) {
         return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
@@ -779,8 +812,14 @@
         '</div>';
       }
       
-      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
-      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
     }
     
     function showPlotCardDetail(cardId) {
@@ -805,23 +844,33 @@
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const characters = bookData.characters;
-      const half = Math.ceil(characters.length / 2);
       
-      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
     }
     
     function showCharacterDetail(index) {

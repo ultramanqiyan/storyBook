@@ -446,15 +446,23 @@
   .book-item .book-3d,
   .book-3d {
     width: 100%;
-    height: 140px;
+    aspect-ratio: 3/4;
+    height: auto;
   }
   
   .book-float {
-    height: 140px;
+    aspect-ratio: 3/4;
+    height: auto;
   }
   
   .book-cover {
-    height: 120px;
+    aspect-ratio: 3/4;
+    height: auto;
+  }
+  
+  .book-body {
+    aspect-ratio: 3/4;
+    height: auto;
   }
   
   .book-info {
@@ -646,10 +654,24 @@
 @media (max-width: 768px) {
   .book-3d {
     width: 120px;
-    height: 160px;
+    aspect-ratio: 3/4;
+    height: auto;
   }
   
   .books-grid {
-    gap: 50px 30px;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 12px !important;
+    padding: 12px;
+  }
+  
+  .book-item {
+    width: 100% !important;
+    min-width: 0 !important;
+  }
+  
+  .book-item .book-3d {
+    width: 100%;
+    aspect-ratio: 3/4;
+    height: auto;
   }
 }

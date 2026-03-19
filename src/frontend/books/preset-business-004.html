@@ -2,6 +2,7 @@
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>职场新人逆袭记 - StoryBook</title>
   <meta name="description" content="职场新人逆袭记 - AI互动故事">
   <meta name="keywords" content="李小白, 陈姐, 刘经理, creativity, human, work, future, memory">
@@ -447,6 +448,14 @@
         border-radius: 0;
       }
       
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -518,15 +527,24 @@
       }
       
       .action-buttons {
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 6px;
         margin-top: 10px;
       }
       
       .action-btn {
-        padding: 8px 12px;
-        font-size: 11px;
-        min-height: 36px;
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
       }
       
       .view-tabs {
@@ -640,21 +658,7 @@
                   <span class="chapter-number">第V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">机会</span>
-                </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="book-page right">
-        <div class="parchment-texture"></div>
-        <div class="page-edge top"></div>
-        <div class="page-edge right"></div>
-        <div class="page-edge bottom"></div>
-        <div class="page-content">
-          <div id="rightPageContent">
-            <div class="chapter-toc">
-              <a href="../chapters/chapter-bus004-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                </a><a href="../chapters/chapter-bus004-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
                   <span class="chapter-number">第VI</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">挑战</span>
@@ -679,6 +683,17 @@
           </div>
         </div>
       </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   
@@ -699,7 +714,7 @@
       type: 'business',
       chapters: [{"chapterId":"chapter-bus004-01","title":"入职第一天","orderNum":1},{"chapterId":"chapter-bus004-02","title":"第一个任务","orderNum":2},{"chapterId":"chapter-bus004-03","title":"犯错","orderNum":3},{"chapterId":"chapter-bus004-04","title":"学习","orderNum":4},{"chapterId":"chapter-bus004-05","title":"机会","orderNum":5},{"chapterId":"chapter-bus004-06","title":"挑战","orderNum":6},{"chapterId":"chapter-bus004-07","title":"成功","orderNum":7},{"chapterId":"chapter-bus004-08","title":"晋升","orderNum":8},{"chapterId":"chapter-bus004-09","title":"带新人","orderNum":9},{"chapterId":"chapter-bus004-10","title":"成长","orderNum":10}],
       characters: [{"charId":"char-bus004-001","name":"李小白","roleType":"职场新人","personality":"勤奋好学、有点社恐、渴望成长","avatar":"👨","isProtagonist":1},{"charId":"char-bus004-002","name":"陈姐","roleType":"老员工","personality":"经验丰富、热心指导、职场老手","avatar":"👩","isProtagonist":0},{"charId":"char-bus004-003","name":"刘经理","roleType":"部门经理","personality":"严格认真、看重能力、外冷内热","avatar":"👨","isProtagonist":0}],
-      plotCards: [{"card_id":"preset-business-004-weather-1773788764437-0e25z6h7p","sub_type":"weather","name":"晴天","icon":"☀️","description":"晴朗的天气"},{"card_id":"preset-business-004-weather-1773788764437-xqj1fwaam","sub_type":"weather","name":"霜冻","icon":"🌨️","description":"寒冷的霜冻"},{"card_id":"preset-business-004-weather-1773788764437-yevebbqdp","sub_type":"weather","name":"大风","icon":"💨","description":"大风天气"},{"card_id":"preset-business-004-weather-1773788764437-nrzkymjd8","sub_type":"weather","name":"雪天","icon":"❄️","description":"下雪天"},{"card_id":"preset-business-004-weather-1773788764437-im46aq097","sub_type":"weather","name":"龙卷风","icon":"🌪️","description":"龙卷风"},{"card_id":"preset-business-004-weather-1773788764437-1021c6259","sub_type":"weather","name":"雷电","icon":"⚡","description":"电闪雷鸣"},{"card_id":"preset-business-004-weather-1773788764437-k1m20g72q","sub_type":"weather","name":"雾","icon":"🌫️","description":"大雾弥漫"},{"card_id":"preset-business-004-weather-1773788764437-733h88kb2","sub_type":"weather","name":"雷阵雨","icon":"⛈️","description":"雷雨交加"},{"card_id":"preset-business-004-terrain-1773788764437-9a82jl7gv","sub_type":"terrain","name":"公园","icon":"🌳","description":"附近公园"},{"card_id":"preset-business-004-terrain-1773788764437-q2miz0zrm","sub_type":"terrain","name":"酒店","icon":"🏨","description":"商务酒店"},{"card_id":"preset-business-004-terrain-1773788764437-bhdxsjznh","sub_type":"terrain","name":"仓库","icon":"📦","description":"物流仓库"},{"card_id":"preset-business-004-terrain-1773788764437-ye2s5knsa","sub_type":"terrain","name":"机场","icon":"✈️","description":"出差的机场"},{"card_id":"preset-business-004-terrain-1773788764437-qqtymc2t5","sub_type":"terrain","name":"实验室","icon":"🔬","description":"研发实验室"},{"card_id":"preset-business-004-terrain-1773788764437-0q0ihkfp1","sub_type":"terrain","name":"休息室","icon":"☕","description":"员工休息"},{"card_id":"preset-business-004-terrain-1773788764437-uaau0axxs","sub_type":"terrain","name":"餐厅","icon":"🍽️","description":"商务宴请"},{"card_id":"preset-business-004-terrain-1773788764437-ad2fufr2y","sub_type":"terrain","name":"咖啡馆","icon":"☕","description":"商务洽谈"},{"card_id":"preset-business-004-adventure-1773788764437-cagaaw9yv","sub_type":"adventure","name":"产品发布","icon":"🎉","description":"发布新产品"},{"card_id":"preset-business-004-adventure-1773788764437-3uzld9407","sub_type":"adventure","name":"融资","icon":"💰","description":"获得融资"},{"card_id":"preset-business-004-adventure-1773788764437-snkbz1vmw","sub_type":"adventure","name":"扩张","icon":"🌍","description":"业务扩张"},{"card_id":"preset-business-004-adventure-1773788764437-2lzkjbjv8","sub_type":"adventure","name":"坚守","icon":"🛡️","description":"坚守阵地"},{"card_id":"preset-business-004-adventure-1773788764437-5njdpfg7m","sub_type":"adventure","name":"跨界","icon":"🌐","description":"跨界合作"},{"card_id":"preset-business-004-adventure-1773788764437-z1lw2x63w","sub_type":"adventure","name":"收缩","icon":"📉","description":"业务收缩"},{"card_id":"preset-business-004-adventure-1773788764437-jvt2se2hz","sub_type":"adventure","name":"上市","icon":"📈","description":"公司上市"},{"card_id":"preset-business-004-adventure-1773788764437-dc72jsr7i","sub_type":"adventure","name":"危机处理","icon":"🚨","description":"处理危机"},{"card_id":"preset-business-004-equipment-1773788764437-18fiimm6g","sub_type":"equipment","name":"平板电脑","icon":"📱","description":"移动办公"},{"card_id":"preset-business-004-equipment-1773788764437-dfvaoy64l","sub_type":"equipment","name":"笔记本电脑","icon":"💻","description":"工作必备"},{"card_id":"preset-business-004-equipment-1773788764437-5cj142ll4","sub_type":"equipment","name":"咖啡杯","icon":"☕","description":"提神咖啡"},{"card_id":"preset-business-004-equipment-1773788764437-2e4f644vj","sub_type":"equipment","name":"钢笔","icon":"🖊️","description":"签字用笔"},{"card_id":"preset-business-004-equipment-1773788764437-ldqwp56zz","sub_type":"equipment","name":"名片","icon":"💳","description":"商务名片"},{"card_id":"preset-business-004-equipment-1773788764437-yfdl4qf9a","sub_type":"equipment","name":"打印机","icon":"🖨️","description":"文件打印"},{"card_id":"preset-business-004-equipment-1773788764437-pcbmxs00p","sub_type":"equipment","name":"行李箱","icon":"🧳","description":"出差装备"},{"card_id":"preset-business-004-equipment-1773788764437-uj8qiimi4","sub_type":"equipment","name":"投影仪","icon":"📽️","description":"演示设备"}]
+      plotCards: [{"card_id":"preset-business-004-adventure-1773788764437-2lzkjbjv8","sub_type":"adventure","name":"坚守","icon":"🛡️","description":"坚守阵地"},{"card_id":"preset-business-004-adventure-1773788764437-3uzld9407","sub_type":"adventure","name":"融资","icon":"💰","description":"获得融资"},{"card_id":"preset-business-004-adventure-1773788764437-5njdpfg7m","sub_type":"adventure","name":"跨界","icon":"🌐","description":"跨界合作"},{"card_id":"preset-business-004-adventure-1773788764437-cagaaw9yv","sub_type":"adventure","name":"产品发布","icon":"🎉","description":"发布新产品"},{"card_id":"preset-business-004-adventure-1773788764437-dc72jsr7i","sub_type":"adventure","name":"危机处理","icon":"🚨","description":"处理危机"},{"card_id":"preset-business-004-adventure-1773788764437-jvt2se2hz","sub_type":"adventure","name":"上市","icon":"📈","description":"公司上市"},{"card_id":"preset-business-004-adventure-1773788764437-snkbz1vmw","sub_type":"adventure","name":"扩张","icon":"🌍","description":"业务扩张"},{"card_id":"preset-business-004-adventure-1773788764437-z1lw2x63w","sub_type":"adventure","name":"收缩","icon":"📉","description":"业务收缩"},{"card_id":"preset-business-004-equipment-1773788764437-18fiimm6g","sub_type":"equipment","name":"平板电脑","icon":"📱","description":"移动办公"},{"card_id":"preset-business-004-equipment-1773788764437-2e4f644vj","sub_type":"equipment","name":"钢笔","icon":"🖊️","description":"签字用笔"},{"card_id":"preset-business-004-equipment-1773788764437-5cj142ll4","sub_type":"equipment","name":"咖啡杯","icon":"☕","description":"提神咖啡"},{"card_id":"preset-business-004-equipment-1773788764437-dfvaoy64l","sub_type":"equipment","name":"笔记本电脑","icon":"💻","description":"工作必备"},{"card_id":"preset-business-004-equipment-1773788764437-ldqwp56zz","sub_type":"equipment","name":"名片","icon":"💳","description":"商务名片"},{"card_id":"preset-business-004-equipment-1773788764437-pcbmxs00p","sub_type":"equipment","name":"行李箱","icon":"🧳","description":"出差装备"},{"card_id":"preset-business-004-equipment-1773788764437-uj8qiimi4","sub_type":"equipment","name":"投影仪","icon":"📽️","description":"演示设备"},{"card_id":"preset-business-004-equipment-1773788764437-yfdl4qf9a","sub_type":"equipment","name":"打印机","icon":"🖨️","description":"文件打印"},{"card_id":"preset-business-004-terrain-1773788764437-0q0ihkfp1","sub_type":"terrain","name":"休息室","icon":"☕","description":"员工休息"},{"card_id":"preset-business-004-terrain-1773788764437-9a82jl7gv","sub_type":"terrain","name":"公园","icon":"🌳","description":"附近公园"},{"card_id":"preset-business-004-terrain-1773788764437-ad2fufr2y","sub_type":"terrain","name":"咖啡馆","icon":"☕","description":"商务洽谈"},{"card_id":"preset-business-004-terrain-1773788764437-bhdxsjznh","sub_type":"terrain","name":"仓库","icon":"📦","description":"物流仓库"},{"card_id":"preset-business-004-terrain-1773788764437-q2miz0zrm","sub_type":"terrain","name":"酒店","icon":"🏨","description":"商务酒店"},{"card_id":"preset-business-004-terrain-1773788764437-qqtymc2t5","sub_type":"terrain","name":"实验室","icon":"🔬","description":"研发实验室"},{"card_id":"preset-business-004-terrain-1773788764437-uaau0axxs","sub_type":"terrain","name":"餐厅","icon":"🍽️","description":"商务宴请"},{"card_id":"preset-business-004-terrain-1773788764437-ye2s5knsa","sub_type":"terrain","name":"机场","icon":"✈️","description":"出差的机场"},{"card_id":"preset-business-004-weather-1773788764437-0e25z6h7p","sub_type":"weather","name":"晴天","icon":"☀️","description":"晴朗的天气"},{"card_id":"preset-business-004-weather-1773788764437-1021c6259","sub_type":"weather","name":"雷电","icon":"⚡","description":"电闪雷鸣"},{"card_id":"preset-business-004-weather-1773788764437-733h88kb2","sub_type":"weather","name":"雷阵雨","icon":"⛈️","description":"雷雨交加"},{"card_id":"preset-business-004-weather-1773788764437-im46aq097","sub_type":"weather","name":"龙卷风","icon":"🌪️","description":"龙卷风"},{"card_id":"preset-business-004-weather-1773788764437-k1m20g72q","sub_type":"weather","name":"雾","icon":"🌫️","description":"大雾弥漫"},{"card_id":"preset-business-004-weather-1773788764437-nrzkymjd8","sub_type":"weather","name":"雪天","icon":"❄️","description":"下雪天"},{"card_id":"preset-business-004-weather-1773788764437-xqj1fwaam","sub_type":"weather","name":"霜冻","icon":"🌨️","description":"寒冷的霜冻"},{"card_id":"preset-business-004-weather-1773788764437-yevebbqdp","sub_type":"weather","name":"大风","icon":"💨","description":"大风天气"}]
     };
     
     let currentView = 'chapters';
@@ -707,6 +722,8 @@
     document.addEventListener('DOMContentLoaded', function() {
       document.body.className = 'theme-business';
       createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
     });
     
     function switchView(view, evt) {
@@ -729,11 +746,14 @@
       }
     }
     
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderChapters() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
-      const half = Math.ceil(chapters.length / 2);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = 'zh' === 'zh';
       
@@ -742,21 +762,38 @@
         return chapters[pageIndex * 2].chapterId;
       }
       
-      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
     }
     
     function renderPlotCards() {
@@ -767,10 +804,6 @@
       const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
       const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
       
-      const half = Math.ceil(cards.length / 2);
-      const leftCards = cards.slice(0, half);
-      const rightCards = cards.slice(half);
-      
       function renderPlotCard(card, index) {
         return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
@@ -779,8 +812,14 @@
         '</div>';
       }
       
-      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
-      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
     }
     
     function showPlotCardDetail(cardId) {
@@ -805,23 +844,33 @@
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const characters = bookData.characters;
-      const half = Math.ceil(characters.length / 2);
       
-      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
     }
     
     function showCharacterDetail(index) {

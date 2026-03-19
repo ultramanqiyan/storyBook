@@ -614,6 +614,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
 <html lang="${isZh ? 'zh' : 'en'}">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${book.title} - StoryBook</title>
   <meta name="description" content="${isZh ? book.title + ' - AI互动故事' : book.title + ' - AI Interactive Story'}">
   <meta name="keywords" content="${keywords}">
@@ -1059,6 +1060,14 @@ function generateBookHTML(book, characters, chapters, plotCards) {
         border-radius: 0;
       }
       
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -1130,15 +1139,24 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       }
       
       .action-buttons {
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 6px;
         margin-top: 10px;
       }
       
       .action-btn {
-        padding: 8px 12px;
-        font-size: 11px;
-        min-height: 36px;
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
       }
       
       .view-tabs {
@@ -1232,7 +1250,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
           
           <div id="leftPageContent">
             <div class="chapter-toc">
-              ${leftChapters.sort((a, b) => a.orderNum - b.orderNum).map((ch, i) => {
+              ${chapters.sort((a, b) => a.orderNum - b.orderNum).map((ch, i) => {
                 const idx = Math.floor((ch.orderNum - 1) / 2) * 2;
                 const pageChapterId = chapters[idx] ? chapters[idx].chapterId : ch.chapterId;
                 return `<a href="../chapters/${pageChapterId}.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ${i * 0.1}s backwards;">
@@ -1253,17 +1271,6 @@ function generateBookHTML(book, characters, chapters, plotCards) {
         <div class="page-edge bottom"></div>
         <div class="page-content">
           <div id="rightPageContent">
-            <div class="chapter-toc">
-              ${rightChapters.sort((a, b) => a.orderNum - b.orderNum).map((ch, i) => {
-                const idx = Math.floor((ch.orderNum - 1) / 2) * 2;
-                const pageChapterId = chapters[idx] ? chapters[idx].chapterId : ch.chapterId;
-                return `<a href="../chapters/${pageChapterId}.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ${(i + halfChapters) * 0.1}s backwards;">
-                  <span class="chapter-number">${isZh ? '第' : 'Ch. '}${romanNumerals[ch.orderNum - 1] || ch.orderNum}</span>
-                  <span class="chapter-dots"></span>
-                  <span class="chapter-title">${ch.title}</span>
-                </a>`;
-              }).join('')}
-            </div>
           </div>
         </div>
       </div>
@@ -1295,6 +1302,8 @@ function generateBookHTML(book, characters, chapters, plotCards) {
     document.addEventListener('DOMContentLoaded', function() {
       document.body.className = 'theme-${book.type}';
       createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
     });
     
     function switchView(view, evt) {
@@ -1317,11 +1326,14 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       }
     }
     
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderChapters() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
-      const half = Math.ceil(chapters.length / 2);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = '${lang}' === 'zh';
       
@@ -1330,21 +1342,38 @@ function generateBookHTML(book, characters, chapters, plotCards) {
         return chapters[pageIndex * 2].chapterId;
       }
       
-      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
     }
     
     function renderPlotCards() {
@@ -1355,10 +1384,6 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
       const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
       
-      const half = Math.ceil(cards.length / 2);
-      const leftCards = cards.slice(0, half);
-      const rightCards = cards.slice(half);
-      
       function renderPlotCard(card, index) {
         return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\\'' + card.card_id + '\\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
@@ -1367,8 +1392,14 @@ function generateBookHTML(book, characters, chapters, plotCards) {
         '</div>';
       }
       
-      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
-      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
     }
     
     function showPlotCardDetail(cardId) {
@@ -1393,23 +1424,33 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const characters = bookData.characters;
-      const half = Math.ceil(characters.length / 2);
       
-      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
     }
     
     function showCharacterDetail(index) {

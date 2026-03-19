@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Magic Academy Escape - StoryBook</title>
   <meta name="description" content="Magic Academy Escape - AI Interactive Story">
   <meta name="keywords" content="Luna, Shadow, The Keeper, AI, creativity, consciousness, human, future">
@@ -447,6 +448,14 @@
         border-radius: 0;
       }
       
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -518,15 +527,24 @@
       }
       
       .action-buttons {
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 6px;
         margin-top: 10px;
       }
       
       .action-btn {
-        padding: 8px 12px;
-        font-size: 11px;
-        min-height: 36px;
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
       }
       
       .view-tabs {
@@ -640,21 +658,7 @@
                   <span class="chapter-number">Ch. V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Time Travel</span>
-                </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="book-page right">
-        <div class="parchment-texture"></div>
-        <div class="page-edge top"></div>
-        <div class="page-edge right"></div>
-        <div class="page-edge bottom"></div>
-        <div class="page-content">
-          <div id="rightPageContent">
-            <div class="chapter-toc">
-              <a href="../chapters/chapter-fan004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                </a><a href="../chapters/chapter-fan004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
                   <span class="chapter-number">Ch. VI</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Origin of Darkness</span>
@@ -679,6 +683,17 @@
           </div>
         </div>
       </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   
@@ -699,7 +714,7 @@
       type: 'fantasy',
       chapters: [{"chapterId":"chapter-fan004-01-en","title":"Mysterious Invitation","orderNum":1},{"chapterId":"chapter-fan004-02-en","title":"First Day at Academy","orderNum":2},{"chapterId":"chapter-fan004-03-en","title":"Secret of the Locked Room","orderNum":3},{"chapterId":"chapter-fan004-04-en","title":"The Time Keeper","orderNum":4},{"chapterId":"chapter-fan004-05-en","title":"Time Travel","orderNum":5},{"chapterId":"chapter-fan004-06-en","title":"Origin of Darkness","orderNum":6},{"chapterId":"chapter-fan004-07-en","title":"Finding the Seal","orderNum":7},{"chapterId":"chapter-fan004-08-en","title":"Headmaster's Pursuit","orderNum":8},{"chapterId":"chapter-fan004-09-en","title":"Final Confrontation","orderNum":9},{"chapterId":"chapter-fan004-10-en","title":"Free Academy","orderNum":10}],
       characters: [{"charId":"char-fan004-001-en","name":"Luna","roleType":"Time Traveler","personality":"clever, adaptable, freedom-seeker","avatar":"🌙","isProtagonist":1},{"charId":"char-fan004-002-en","name":"Shadow","roleType":"Time Spirit","personality":"mysterious, controls time, guardian","avatar":"⏳","isProtagonist":0},{"charId":"char-fan004-003-en","name":"The Keeper","roleType":"Mysterious Elder","personality":"omniscient, guards time order","avatar":"👴","isProtagonist":0}],
-      plotCards: [{"card_id":"preset-fantasy-004-en-weather-1773788764458-livci43u2","sub_type":"weather","name":"Blood Moon","icon":"🔴","description":"Mysterious blood moon night"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-9s8574blr","sub_type":"weather","name":"Soul Fog","icon":"👻","description":"Fog filled with souls"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-qzatusr4r","sub_type":"weather","name":"Aurora","icon":"🌌","description":"Beautiful magical aurora"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-1vxpapceq","sub_type":"weather","name":"Dragon Breath Cloud","icon":"🐉","description":"Clouds from dragon's breath"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-mic4i8xs5","sub_type":"weather","name":"Darkness Falls","icon":"🌑","description":"Endless darkness"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-s7dwaqhtt","sub_type":"weather","name":"Meteor Fire Rain","icon":"☄️","description":"Flaming meteors falling"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-beybqwq62","sub_type":"weather","name":"Portal Light","icon":"🚪","description":"Mysterious portal glow"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-nsi8tgh13","sub_type":"weather","name":"Elemental Storm","icon":"🌪️","description":"Four elements intertwined"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-oxjyu6jts","sub_type":"terrain","name":"Mirror Dimension","icon":"🪞","description":"Mirror world"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-ssr20jvy9","sub_type":"terrain","name":"Abyss","icon":"🕳️","description":"Endless abyss"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-z5px1lvhs","sub_type":"terrain","name":"Floating Island","icon":"🏝️","description":"Island floating in the sky"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-5xi2ay7r0","sub_type":"terrain","name":"Elemental Plane","icon":"🔥","description":"World of elements"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-mlgjy11g3","sub_type":"terrain","name":"Ancient Ruins","icon":"🏛️","description":"Remains of ancient civilization"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-5vqhtt762","sub_type":"terrain","name":"Magic Tower","icon":"🗼","description":"Towering magic tower"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-al2qdq2f2","sub_type":"terrain","name":"Time Fissure","icon":"⏳","description":"Time-distorted place"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-lcwuxlnta","sub_type":"terrain","name":"Crystal Cave","icon":"💎","description":"Cave with shining crystals"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-bb91ef1j7","sub_type":"adventure","name":"Magic Duel","icon":"⚡","description":"Battle of mages"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-fep1jp5fe","sub_type":"adventure","name":"Power Awakening","icon":"💫","description":"Awaken hidden powers"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-qxqreioyw","sub_type":"adventure","name":"Guardian Mission","icon":"🛡️","description":"Protect something important"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-kyjedwtwe","sub_type":"adventure","name":"Element Fusion","icon":"🌈","description":"Merge elemental powers"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-rl63xibgy","sub_type":"adventure","name":"Elemental Awakening","icon":"🔥","description":"Master elemental powers"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-r4s3wh6e0","sub_type":"adventure","name":"Dragon Slaying","icon":"🐉","description":"Challenge the dragon"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-lwg1tgdvs","sub_type":"adventure","name":"Curse Breaking","icon":"🔮","description":"Break ancient curses"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-fj1v0u5zx","sub_type":"adventure","name":"Magic Research","icon":"📚","description":"Study ancient magic"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-teylqqdz9","sub_type":"equipment","name":"Dwarf Hammer","icon":"🔨","description":"Hammer forged by dwarves"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-i61qhmklr","sub_type":"equipment","name":"Summoning Stone","icon":"💎","description":"Summon creatures"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-nxd8oixg9","sub_type":"equipment","name":"Elemental Gem","icon":"💠","description":"Store elemental power"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-tzty0paoy","sub_type":"equipment","name":"Portal Rune","icon":"🌀","description":"Open portals"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-qpt11uzzf","sub_type":"equipment","name":"Magic Potion","icon":"🧪","description":"Various effect potions"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-4pco7cqe1","sub_type":"equipment","name":"Teleport Scroll","icon":"📜","description":"Instant teleportation"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-8wr5zffd4","sub_type":"equipment","name":"Crystal Ball","icon":"🔮","description":"Divination and mana storage"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-xzx7fgpkm","sub_type":"equipment","name":"Elemental Staff","icon":"🔥","description":"Control elements"}]
+      plotCards: [{"card_id":"preset-fantasy-004-en-adventure-1773788764458-bb91ef1j7","sub_type":"adventure","name":"Magic Duel","icon":"⚡","description":"Battle of mages"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-fep1jp5fe","sub_type":"adventure","name":"Power Awakening","icon":"💫","description":"Awaken hidden powers"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-fj1v0u5zx","sub_type":"adventure","name":"Magic Research","icon":"📚","description":"Study ancient magic"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-kyjedwtwe","sub_type":"adventure","name":"Element Fusion","icon":"🌈","description":"Merge elemental powers"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-lwg1tgdvs","sub_type":"adventure","name":"Curse Breaking","icon":"🔮","description":"Break ancient curses"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-qxqreioyw","sub_type":"adventure","name":"Guardian Mission","icon":"🛡️","description":"Protect something important"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-r4s3wh6e0","sub_type":"adventure","name":"Dragon Slaying","icon":"🐉","description":"Challenge the dragon"},{"card_id":"preset-fantasy-004-en-adventure-1773788764458-rl63xibgy","sub_type":"adventure","name":"Elemental Awakening","icon":"🔥","description":"Master elemental powers"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-4pco7cqe1","sub_type":"equipment","name":"Teleport Scroll","icon":"📜","description":"Instant teleportation"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-8wr5zffd4","sub_type":"equipment","name":"Crystal Ball","icon":"🔮","description":"Divination and mana storage"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-i61qhmklr","sub_type":"equipment","name":"Summoning Stone","icon":"💎","description":"Summon creatures"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-nxd8oixg9","sub_type":"equipment","name":"Elemental Gem","icon":"💠","description":"Store elemental power"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-qpt11uzzf","sub_type":"equipment","name":"Magic Potion","icon":"🧪","description":"Various effect potions"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-teylqqdz9","sub_type":"equipment","name":"Dwarf Hammer","icon":"🔨","description":"Hammer forged by dwarves"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-tzty0paoy","sub_type":"equipment","name":"Portal Rune","icon":"🌀","description":"Open portals"},{"card_id":"preset-fantasy-004-en-equipment-1773788764458-xzx7fgpkm","sub_type":"equipment","name":"Elemental Staff","icon":"🔥","description":"Control elements"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-5vqhtt762","sub_type":"terrain","name":"Magic Tower","icon":"🗼","description":"Towering magic tower"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-5xi2ay7r0","sub_type":"terrain","name":"Elemental Plane","icon":"🔥","description":"World of elements"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-al2qdq2f2","sub_type":"terrain","name":"Time Fissure","icon":"⏳","description":"Time-distorted place"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-lcwuxlnta","sub_type":"terrain","name":"Crystal Cave","icon":"💎","description":"Cave with shining crystals"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-mlgjy11g3","sub_type":"terrain","name":"Ancient Ruins","icon":"🏛️","description":"Remains of ancient civilization"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-oxjyu6jts","sub_type":"terrain","name":"Mirror Dimension","icon":"🪞","description":"Mirror world"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-ssr20jvy9","sub_type":"terrain","name":"Abyss","icon":"🕳️","description":"Endless abyss"},{"card_id":"preset-fantasy-004-en-terrain-1773788764458-z5px1lvhs","sub_type":"terrain","name":"Floating Island","icon":"🏝️","description":"Island floating in the sky"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-1vxpapceq","sub_type":"weather","name":"Dragon Breath Cloud","icon":"🐉","description":"Clouds from dragon's breath"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-9s8574blr","sub_type":"weather","name":"Soul Fog","icon":"👻","description":"Fog filled with souls"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-beybqwq62","sub_type":"weather","name":"Portal Light","icon":"🚪","description":"Mysterious portal glow"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-livci43u2","sub_type":"weather","name":"Blood Moon","icon":"🔴","description":"Mysterious blood moon night"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-mic4i8xs5","sub_type":"weather","name":"Darkness Falls","icon":"🌑","description":"Endless darkness"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-nsi8tgh13","sub_type":"weather","name":"Elemental Storm","icon":"🌪️","description":"Four elements intertwined"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-qzatusr4r","sub_type":"weather","name":"Aurora","icon":"🌌","description":"Beautiful magical aurora"},{"card_id":"preset-fantasy-004-en-weather-1773788764458-s7dwaqhtt","sub_type":"weather","name":"Meteor Fire Rain","icon":"☄️","description":"Flaming meteors falling"}]
     };
     
     let currentView = 'chapters';
@@ -707,6 +722,8 @@
     document.addEventListener('DOMContentLoaded', function() {
       document.body.className = 'theme-fantasy';
       createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
     });
     
     function switchView(view, evt) {
@@ -729,11 +746,14 @@
       }
     }
     
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderChapters() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
-      const half = Math.ceil(chapters.length / 2);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = 'en' === 'zh';
       
@@ -742,21 +762,38 @@
         return chapters[pageIndex * 2].chapterId;
       }
       
-      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
     }
     
     function renderPlotCards() {
@@ -767,10 +804,6 @@
       const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
       const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
       
-      const half = Math.ceil(cards.length / 2);
-      const leftCards = cards.slice(0, half);
-      const rightCards = cards.slice(half);
-      
       function renderPlotCard(card, index) {
         return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
@@ -779,8 +812,14 @@
         '</div>';
       }
       
-      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
-      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
     }
     
     function showPlotCardDetail(cardId) {
@@ -805,23 +844,33 @@
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const characters = bookData.characters;
-      const half = Math.ceil(characters.length / 2);
       
-      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
     }
     
     function showCharacterDetail(index) {

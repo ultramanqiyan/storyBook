@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Algorithm, Inc. - StoryBook</title>
   <meta name="description" content="Algorithm, Inc. - AI Interactive Story">
   <meta name="keywords" content="Mike, Dr. Chen, Lisa, AI, creativity, consciousness, human, work">
@@ -447,6 +448,14 @@
         border-radius: 0;
       }
       
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -518,15 +527,24 @@
       }
       
       .action-buttons {
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 6px;
         margin-top: 10px;
       }
       
       .action-btn {
-        padding: 8px 12px;
-        font-size: 11px;
-        min-height: 36px;
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
       }
       
       .view-tabs {
@@ -636,21 +654,7 @@
                   <span class="chapter-number">Ch. IV</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">The Whistleblower</span>
-                </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="book-page right">
-        <div class="parchment-texture"></div>
-        <div class="page-edge top"></div>
-        <div class="page-edge right"></div>
-        <div class="page-edge bottom"></div>
-        <div class="page-content">
-          <div id="rightPageContent">
-            <div class="chapter-toc">
-              <a href="../chapters/chapter-ai002-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                </a><a href="../chapters/chapter-ai002-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
                   <span class="chapter-number">Ch. V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">The Fallout</span>
@@ -668,6 +672,17 @@
                   <span class="chapter-title">The Next Step</span>
                 </a>
             </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
           </div>
         </div>
       </div>
@@ -691,7 +706,7 @@
       type: 'business',
       chapters: [{"chapterId":"chapter-ai002-01","title":"The Algorithm's Shadow","orderNum":1},{"chapterId":"chapter-ai002-02","title":"Trust the Data","orderNum":2},{"chapterId":"chapter-ai002-03","title":"The Human Variable","orderNum":3},{"chapterId":"chapter-ai002-04","title":"The Whistleblower","orderNum":4},{"chapterId":"chapter-ai002-05","title":"The Fallout","orderNum":5},{"chapterId":"chapter-ai002-06","title":"The Override","orderNum":6},{"chapterId":"chapter-ai002-07","title":"The Human Decision","orderNum":7},{"chapterId":"chapter-ai002-08","title":"The Next Step","orderNum":8}],
       characters: [{"charId":"char-ai002-001","name":"Mike","roleType":"Junior Data Analyst","personality":"Curious, idealistic, morally conflicted, observant","avatar":"👨‍💻","isProtagonist":1},{"charId":"char-ai002-002","name":"Dr. Chen","roleType":"AI System Architect","personality":"Brilliant, coldly logical, secretly troubled by his creation","avatar":"👨‍🔬","isProtagonist":0},{"charId":"char-ai002-003","name":"Lisa","roleType":"Compliance Officer","personality":"Principled, cautious, the company's moral compass","avatar":"👩‍💼","isProtagonist":0}],
-      plotCards: [{"card_id":"preset-ai-002-weather-1773788764316-ty2hpzy3i","sub_type":"weather","name":"Light Rain","icon":"🌦️","description":"Drizzling"},{"card_id":"preset-ai-002-weather-1773788764316-kjv553oeh","sub_type":"weather","name":"Tornado","icon":"🌪️","description":"Tornado"},{"card_id":"preset-ai-002-weather-1773788764316-9u0rvw0uy","sub_type":"weather","name":"Storm","icon":"🌧️","description":"Heavy storm"},{"card_id":"preset-ai-002-weather-1773788764316-9h32385r2","sub_type":"weather","name":"Rainbow","icon":"🌈","description":"Rainbow after rain"},{"card_id":"preset-ai-002-weather-1773788764316-9a2w6uvyv","sub_type":"weather","name":"Clearing Up","icon":"🌤️","description":"Weather improving"},{"card_id":"preset-ai-002-weather-1773788764316-2hasy3s3p","sub_type":"weather","name":"Frost","icon":"🌨️","description":"Cold frost"},{"card_id":"preset-ai-002-weather-1773788764316-zewnwhc6a","sub_type":"weather","name":"Snowy","icon":"❄️","description":"Snowing"},{"card_id":"preset-ai-002-weather-1773788764316-z43fkv1w1","sub_type":"weather","name":"Sandstorm","icon":"🌪️","description":"Dust everywhere"},{"card_id":"preset-ai-002-terrain-1773788764316-8x745g9rz","sub_type":"terrain","name":"Laboratory","icon":"🔬","description":"R&D laboratory"},{"card_id":"preset-ai-002-terrain-1773788764316-l0s3h0vpg","sub_type":"terrain","name":"Parking Lot","icon":"🅿️","description":"Parking area"},{"card_id":"preset-ai-002-terrain-1773788764316-q7gop7dvj","sub_type":"terrain","name":"Airport","icon":"✈️","description":"Business travel airport"},{"card_id":"preset-ai-002-terrain-1773788764316-8xnvzx5lh","sub_type":"terrain","name":"Break Room","icon":"☕","description":"Employee rest area"},{"card_id":"preset-ai-002-terrain-1773788764316-mvza2cvdg","sub_type":"terrain","name":"Exhibition","icon":"🎪","description":"Industry exhibition"},{"card_id":"preset-ai-002-terrain-1773788764316-hqae6kd9i","sub_type":"terrain","name":"Meeting Room","icon":"📋","description":"Serious meeting room"},{"card_id":"preset-ai-002-terrain-1773788764316-uzzagkxef","sub_type":"terrain","name":"Warehouse","icon":"📦","description":"Logistics warehouse"},{"card_id":"preset-ai-002-terrain-1773788764316-gh6ouetn0","sub_type":"terrain","name":"Training Room","icon":"📚","description":"Training and learning"},{"card_id":"preset-ai-002-adventure-1773788764316-fapfjcpu4","sub_type":"adventure","name":"Negotiation","icon":"🤝","description":"Business negotiation"},{"card_id":"preset-ai-002-adventure-1773788764316-19hx49wbu","sub_type":"adventure","name":"Bidding","icon":"📊","description":"Project bidding"},{"card_id":"preset-ai-002-adventure-1773788764316-268w258cr","sub_type":"adventure","name":"Product Launch","icon":"🎉","description":"Launch new product"},{"card_id":"preset-ai-002-adventure-1773788764316-qmz0i4jn4","sub_type":"adventure","name":"Merger","icon":"🏢","description":"Company merger"},{"card_id":"preset-ai-002-adventure-1773788764316-sucg2tyxa","sub_type":"adventure","name":"Expansion","icon":"🌍","description":"Business expansion"},{"card_id":"preset-ai-002-adventure-1773788764316-o6z9phlyz","sub_type":"adventure","name":"Rise","icon":"📈","description":"Rapid rise"},{"card_id":"preset-ai-002-adventure-1773788764316-r3qh6pss8","sub_type":"adventure","name":"Crisis Management","icon":"🚨","description":"Handle crisis"},{"card_id":"preset-ai-002-adventure-1773788764316-8bleslshx","sub_type":"adventure","name":"Layoff Crisis","icon":"😔","description":"Difficult layoffs"},{"card_id":"preset-ai-002-equipment-1773788764316-x5qyckjun","sub_type":"equipment","name":"Projector","icon":"📽️","description":"Presentation equipment"},{"card_id":"preset-ai-002-equipment-1773788764316-wn0vlzwa8","sub_type":"equipment","name":"Scanner","icon":"📠","description":"Document scanning"},{"card_id":"preset-ai-002-equipment-1773788764316-t5eipaf89","sub_type":"equipment","name":"Business Card","icon":"💳","description":"Business card"},{"card_id":"preset-ai-002-equipment-1773788764316-us4ad847a","sub_type":"equipment","name":"Printer","icon":"🖨️","description":"Document printing"},{"card_id":"preset-ai-002-equipment-1773788764316-jksny0678","sub_type":"equipment","name":"Contract","icon":"📄","description":"Business contract"},{"card_id":"preset-ai-002-equipment-1773788764316-h9wyaz7gh","sub_type":"equipment","name":"Trophy","icon":"🏆","description":"Symbol of honor"},{"card_id":"preset-ai-002-equipment-1773788764316-8kgdmyb08","sub_type":"equipment","name":"Suitcase","icon":"🧳","description":"Business travel gear"},{"card_id":"preset-ai-002-equipment-1773788764316-il6obhes8","sub_type":"equipment","name":"Safe","icon":"🔒","description":"Important documents"}]
+      plotCards: [{"card_id":"preset-ai-002-adventure-1773788764316-19hx49wbu","sub_type":"adventure","name":"Bidding","icon":"📊","description":"Project bidding"},{"card_id":"preset-ai-002-adventure-1773788764316-268w258cr","sub_type":"adventure","name":"Product Launch","icon":"🎉","description":"Launch new product"},{"card_id":"preset-ai-002-adventure-1773788764316-8bleslshx","sub_type":"adventure","name":"Layoff Crisis","icon":"😔","description":"Difficult layoffs"},{"card_id":"preset-ai-002-adventure-1773788764316-fapfjcpu4","sub_type":"adventure","name":"Negotiation","icon":"🤝","description":"Business negotiation"},{"card_id":"preset-ai-002-adventure-1773788764316-o6z9phlyz","sub_type":"adventure","name":"Rise","icon":"📈","description":"Rapid rise"},{"card_id":"preset-ai-002-adventure-1773788764316-qmz0i4jn4","sub_type":"adventure","name":"Merger","icon":"🏢","description":"Company merger"},{"card_id":"preset-ai-002-adventure-1773788764316-r3qh6pss8","sub_type":"adventure","name":"Crisis Management","icon":"🚨","description":"Handle crisis"},{"card_id":"preset-ai-002-adventure-1773788764316-sucg2tyxa","sub_type":"adventure","name":"Expansion","icon":"🌍","description":"Business expansion"},{"card_id":"preset-ai-002-equipment-1773788764316-8kgdmyb08","sub_type":"equipment","name":"Suitcase","icon":"🧳","description":"Business travel gear"},{"card_id":"preset-ai-002-equipment-1773788764316-h9wyaz7gh","sub_type":"equipment","name":"Trophy","icon":"🏆","description":"Symbol of honor"},{"card_id":"preset-ai-002-equipment-1773788764316-il6obhes8","sub_type":"equipment","name":"Safe","icon":"🔒","description":"Important documents"},{"card_id":"preset-ai-002-equipment-1773788764316-jksny0678","sub_type":"equipment","name":"Contract","icon":"📄","description":"Business contract"},{"card_id":"preset-ai-002-equipment-1773788764316-t5eipaf89","sub_type":"equipment","name":"Business Card","icon":"💳","description":"Business card"},{"card_id":"preset-ai-002-equipment-1773788764316-us4ad847a","sub_type":"equipment","name":"Printer","icon":"🖨️","description":"Document printing"},{"card_id":"preset-ai-002-equipment-1773788764316-wn0vlzwa8","sub_type":"equipment","name":"Scanner","icon":"📠","description":"Document scanning"},{"card_id":"preset-ai-002-equipment-1773788764316-x5qyckjun","sub_type":"equipment","name":"Projector","icon":"📽️","description":"Presentation equipment"},{"card_id":"preset-ai-002-terrain-1773788764316-8x745g9rz","sub_type":"terrain","name":"Laboratory","icon":"🔬","description":"R&D laboratory"},{"card_id":"preset-ai-002-terrain-1773788764316-8xnvzx5lh","sub_type":"terrain","name":"Break Room","icon":"☕","description":"Employee rest area"},{"card_id":"preset-ai-002-terrain-1773788764316-gh6ouetn0","sub_type":"terrain","name":"Training Room","icon":"📚","description":"Training and learning"},{"card_id":"preset-ai-002-terrain-1773788764316-hqae6kd9i","sub_type":"terrain","name":"Meeting Room","icon":"📋","description":"Serious meeting room"},{"card_id":"preset-ai-002-terrain-1773788764316-l0s3h0vpg","sub_type":"terrain","name":"Parking Lot","icon":"🅿️","description":"Parking area"},{"card_id":"preset-ai-002-terrain-1773788764316-mvza2cvdg","sub_type":"terrain","name":"Exhibition","icon":"🎪","description":"Industry exhibition"},{"card_id":"preset-ai-002-terrain-1773788764316-q7gop7dvj","sub_type":"terrain","name":"Airport","icon":"✈️","description":"Business travel airport"},{"card_id":"preset-ai-002-terrain-1773788764316-uzzagkxef","sub_type":"terrain","name":"Warehouse","icon":"📦","description":"Logistics warehouse"},{"card_id":"preset-ai-002-weather-1773788764316-2hasy3s3p","sub_type":"weather","name":"Frost","icon":"🌨️","description":"Cold frost"},{"card_id":"preset-ai-002-weather-1773788764316-9a2w6uvyv","sub_type":"weather","name":"Clearing Up","icon":"🌤️","description":"Weather improving"},{"card_id":"preset-ai-002-weather-1773788764316-9h32385r2","sub_type":"weather","name":"Rainbow","icon":"🌈","description":"Rainbow after rain"},{"card_id":"preset-ai-002-weather-1773788764316-9u0rvw0uy","sub_type":"weather","name":"Storm","icon":"🌧️","description":"Heavy storm"},{"card_id":"preset-ai-002-weather-1773788764316-kjv553oeh","sub_type":"weather","name":"Tornado","icon":"🌪️","description":"Tornado"},{"card_id":"preset-ai-002-weather-1773788764316-ty2hpzy3i","sub_type":"weather","name":"Light Rain","icon":"🌦️","description":"Drizzling"},{"card_id":"preset-ai-002-weather-1773788764316-z43fkv1w1","sub_type":"weather","name":"Sandstorm","icon":"🌪️","description":"Dust everywhere"},{"card_id":"preset-ai-002-weather-1773788764316-zewnwhc6a","sub_type":"weather","name":"Snowy","icon":"❄️","description":"Snowing"}]
     };
     
     let currentView = 'chapters';
@@ -699,6 +714,8 @@
     document.addEventListener('DOMContentLoaded', function() {
       document.body.className = 'theme-business';
       createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
     });
     
     function switchView(view, evt) {
@@ -721,11 +738,14 @@
       }
     }
     
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderChapters() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
-      const half = Math.ceil(chapters.length / 2);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = 'en' === 'zh';
       
@@ -734,21 +754,38 @@
         return chapters[pageIndex * 2].chapterId;
       }
       
-      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
     }
     
     function renderPlotCards() {
@@ -759,10 +796,6 @@
       const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
       const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
       
-      const half = Math.ceil(cards.length / 2);
-      const leftCards = cards.slice(0, half);
-      const rightCards = cards.slice(half);
-      
       function renderPlotCard(card, index) {
         return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
@@ -771,8 +804,14 @@
         '</div>';
       }
       
-      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
-      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
     }
     
     function showPlotCardDetail(cardId) {
@@ -797,23 +836,33 @@
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const characters = bookData.characters;
-      const half = Math.ceil(characters.length / 2);
       
-      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
     }
     
     function showCharacterDetail(index) {

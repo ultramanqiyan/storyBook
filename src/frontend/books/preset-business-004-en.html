@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Rookie Rising - StoryBook</title>
   <meta name="description" content="Rookie Rising - AI Interactive Story">
   <meta name="keywords" content="Alex, Sarah, Manager Liu, AI, creativity, human, work, future">
@@ -447,6 +448,14 @@
         border-radius: 0;
       }
       
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -518,15 +527,24 @@
       }
       
       .action-buttons {
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 6px;
         margin-top: 10px;
       }
       
       .action-btn {
-        padding: 8px 12px;
-        font-size: 11px;
-        min-height: 36px;
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
       }
       
       .view-tabs {
@@ -640,21 +658,7 @@
                   <span class="chapter-number">Ch. V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Opportunity</span>
-                </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="book-page right">
-        <div class="parchment-texture"></div>
-        <div class="page-edge top"></div>
-        <div class="page-edge right"></div>
-        <div class="page-edge bottom"></div>
-        <div class="page-content">
-          <div id="rightPageContent">
-            <div class="chapter-toc">
-              <a href="../chapters/chapter-bus004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                </a><a href="../chapters/chapter-bus004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
                   <span class="chapter-number">Ch. VI</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Challenge</span>
@@ -679,6 +683,17 @@
           </div>
         </div>
       </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   
@@ -699,7 +714,7 @@
       type: 'business',
       chapters: [{"chapterId":"chapter-bus004-01-en","title":"First Day","orderNum":1},{"chapterId":"chapter-bus004-02-en","title":"First Task","orderNum":2},{"chapterId":"chapter-bus004-03-en","title":"Mistake","orderNum":3},{"chapterId":"chapter-bus004-04-en","title":"Learning","orderNum":4},{"chapterId":"chapter-bus004-05-en","title":"Opportunity","orderNum":5},{"chapterId":"chapter-bus004-06-en","title":"Challenge","orderNum":6},{"chapterId":"chapter-bus004-07-en","title":"Success","orderNum":7},{"chapterId":"chapter-bus004-08-en","title":"Promotion","orderNum":8},{"chapterId":"chapter-bus004-09-en","title":"Mentoring","orderNum":9},{"chapterId":"chapter-bus004-10-en","title":"Growth","orderNum":10}],
       characters: [{"charId":"char-bus004-001-en","name":"Alex","roleType":"Office Rookie","personality":"hardworking, shy, eager to learn","avatar":"👨","isProtagonist":1},{"charId":"char-bus004-002-en","name":"Sarah","roleType":"Senior Colleague","personality":"experienced, helpful, mentor","avatar":"👩","isProtagonist":0},{"charId":"char-bus004-003-en","name":"Manager Liu","roleType":"Department Manager","personality":"strict, values competence, fair","avatar":"👨","isProtagonist":0}],
-      plotCards: [{"card_id":"preset-business-004-en-weather-1773788764440-oksis70tu","sub_type":"weather","name":"Clearing Up","icon":"🌤️","description":"Weather improving"},{"card_id":"preset-business-004-en-weather-1773788764440-1yqpepraw","sub_type":"weather","name":"Windy","icon":"💨","description":"Strong wind"},{"card_id":"preset-business-004-en-weather-1773788764440-8xclncji3","sub_type":"weather","name":"Lightning","icon":"⚡","description":"Lightning strikes"},{"card_id":"preset-business-004-en-weather-1773788764440-x5ig5se8f","sub_type":"weather","name":"Partly Cloudy","icon":"⛅","description":"Partly cloudy"},{"card_id":"preset-business-004-en-weather-1773788764440-fs6m9bmzl","sub_type":"weather","name":"Light Rain","icon":"🌦️","description":"Drizzling"},{"card_id":"preset-business-004-en-weather-1773788764440-npry11r7o","sub_type":"weather","name":"Sunny","icon":"☀️","description":"Clear weather"},{"card_id":"preset-business-004-en-weather-1773788764440-inwqtkf5s","sub_type":"weather","name":"Tornado","icon":"🌪️","description":"Tornado"},{"card_id":"preset-business-004-en-weather-1773788764440-s71sazv5n","sub_type":"weather","name":"Fog","icon":"🌫️","description":"Thick fog"},{"card_id":"preset-business-004-en-terrain-1773788764440-oaoibkq10","sub_type":"terrain","name":"Warehouse","icon":"📦","description":"Logistics warehouse"},{"card_id":"preset-business-004-en-terrain-1773788764440-ybvi0y6xk","sub_type":"terrain","name":"Client Company","icon":"🏛️","description":"Client's office"},{"card_id":"preset-business-004-en-terrain-1773788764440-gakk8osdz","sub_type":"terrain","name":"Park","icon":"🌳","description":"Nearby park"},{"card_id":"preset-business-004-en-terrain-1773788764440-ji5qrz26c","sub_type":"terrain","name":"Headquarters","icon":"🏙️","description":"Company headquarters"},{"card_id":"preset-business-004-en-terrain-1773788764440-bi92nlxfa","sub_type":"terrain","name":"Factory","icon":"🏭","description":"Production factory"},{"card_id":"preset-business-004-en-terrain-1773788764440-gxgmlf89u","sub_type":"terrain","name":"Training Room","icon":"📚","description":"Training and learning"},{"card_id":"preset-business-004-en-terrain-1773788764440-5g1ak9osx","sub_type":"terrain","name":"Reception Area","icon":"🛋️","description":"Guest reception"},{"card_id":"preset-business-004-en-terrain-1773788764440-egd9vqier","sub_type":"terrain","name":"Lobby","icon":"🏛️","description":"Company lobby"},{"card_id":"preset-business-004-en-adventure-1773788764440-mbt14cdm8","sub_type":"adventure","name":"Merger","icon":"🏢","description":"Company merger"},{"card_id":"preset-business-004-en-adventure-1773788764440-mp51pg4fv","sub_type":"adventure","name":"Team Management","icon":"👥","description":"Manage the team"},{"card_id":"preset-business-004-en-adventure-1773788764440-3ksaohzs9","sub_type":"adventure","name":"Breakthrough","icon":"🎯","description":"Break through困境"},{"card_id":"preset-business-004-en-adventure-1773788764440-i65p1o0n0","sub_type":"adventure","name":"Innovation","icon":"💡","description":"Technical innovation"},{"card_id":"preset-business-004-en-adventure-1773788764440-m1ngwnl78","sub_type":"adventure","name":"IPO","icon":"📈","description":"Company goes public"},{"card_id":"preset-business-004-en-adventure-1773788764440-q0fjqkhpz","sub_type":"adventure","name":"Persistence","icon":"🛡️","description":"Hold the ground"},{"card_id":"preset-business-004-en-adventure-1773788764440-9jh8jxvi4","sub_type":"adventure","name":"Financing","icon":"💰","description":"Secure funding"},{"card_id":"preset-business-004-en-adventure-1773788764440-gx4evhbir","sub_type":"adventure","name":"Crisis Management","icon":"🚨","description":"Handle crisis"},{"card_id":"preset-business-004-en-equipment-1773788764440-x43pozs19","sub_type":"equipment","name":"Laptop","icon":"💻","description":"Work essential"},{"card_id":"preset-business-004-en-equipment-1773788764440-17pvtrkad","sub_type":"equipment","name":"Printer","icon":"🖨️","description":"Document printing"},{"card_id":"preset-business-004-en-equipment-1773788764440-yzmz9q7y4","sub_type":"equipment","name":"Scanner","icon":"📠","description":"Document scanning"},{"card_id":"preset-business-004-en-equipment-1773788764440-bhixl7dtn","sub_type":"equipment","name":"Safe","icon":"🔒","description":"Important documents"},{"card_id":"preset-business-004-en-equipment-1773788764440-6b06q2rdo","sub_type":"equipment","name":"Tablet","icon":"📱","description":"Mobile office"},{"card_id":"preset-business-004-en-equipment-1773788764440-dv4asveuu","sub_type":"equipment","name":"Business Card","icon":"💳","description":"Business card"},{"card_id":"preset-business-004-en-equipment-1773788764440-0b4nq7djj","sub_type":"equipment","name":"Contract","icon":"📄","description":"Business contract"},{"card_id":"preset-business-004-en-equipment-1773788764440-7nbzj2n15","sub_type":"equipment","name":"Pen","icon":"🖊️","description":"Signing pen"}]
+      plotCards: [{"card_id":"preset-business-004-en-adventure-1773788764440-3ksaohzs9","sub_type":"adventure","name":"Breakthrough","icon":"🎯","description":"Break through困境"},{"card_id":"preset-business-004-en-adventure-1773788764440-9jh8jxvi4","sub_type":"adventure","name":"Financing","icon":"💰","description":"Secure funding"},{"card_id":"preset-business-004-en-adventure-1773788764440-gx4evhbir","sub_type":"adventure","name":"Crisis Management","icon":"🚨","description":"Handle crisis"},{"card_id":"preset-business-004-en-adventure-1773788764440-i65p1o0n0","sub_type":"adventure","name":"Innovation","icon":"💡","description":"Technical innovation"},{"card_id":"preset-business-004-en-adventure-1773788764440-m1ngwnl78","sub_type":"adventure","name":"IPO","icon":"📈","description":"Company goes public"},{"card_id":"preset-business-004-en-adventure-1773788764440-mbt14cdm8","sub_type":"adventure","name":"Merger","icon":"🏢","description":"Company merger"},{"card_id":"preset-business-004-en-adventure-1773788764440-mp51pg4fv","sub_type":"adventure","name":"Team Management","icon":"👥","description":"Manage the team"},{"card_id":"preset-business-004-en-adventure-1773788764440-q0fjqkhpz","sub_type":"adventure","name":"Persistence","icon":"🛡️","description":"Hold the ground"},{"card_id":"preset-business-004-en-equipment-1773788764440-0b4nq7djj","sub_type":"equipment","name":"Contract","icon":"📄","description":"Business contract"},{"card_id":"preset-business-004-en-equipment-1773788764440-17pvtrkad","sub_type":"equipment","name":"Printer","icon":"🖨️","description":"Document printing"},{"card_id":"preset-business-004-en-equipment-1773788764440-6b06q2rdo","sub_type":"equipment","name":"Tablet","icon":"📱","description":"Mobile office"},{"card_id":"preset-business-004-en-equipment-1773788764440-7nbzj2n15","sub_type":"equipment","name":"Pen","icon":"🖊️","description":"Signing pen"},{"card_id":"preset-business-004-en-equipment-1773788764440-bhixl7dtn","sub_type":"equipment","name":"Safe","icon":"🔒","description":"Important documents"},{"card_id":"preset-business-004-en-equipment-1773788764440-dv4asveuu","sub_type":"equipment","name":"Business Card","icon":"💳","description":"Business card"},{"card_id":"preset-business-004-en-equipment-1773788764440-x43pozs19","sub_type":"equipment","name":"Laptop","icon":"💻","description":"Work essential"},{"card_id":"preset-business-004-en-equipment-1773788764440-yzmz9q7y4","sub_type":"equipment","name":"Scanner","icon":"📠","description":"Document scanning"},{"card_id":"preset-business-004-en-terrain-1773788764440-5g1ak9osx","sub_type":"terrain","name":"Reception Area","icon":"🛋️","description":"Guest reception"},{"card_id":"preset-business-004-en-terrain-1773788764440-bi92nlxfa","sub_type":"terrain","name":"Factory","icon":"🏭","description":"Production factory"},{"card_id":"preset-business-004-en-terrain-1773788764440-egd9vqier","sub_type":"terrain","name":"Lobby","icon":"🏛️","description":"Company lobby"},{"card_id":"preset-business-004-en-terrain-1773788764440-gakk8osdz","sub_type":"terrain","name":"Park","icon":"🌳","description":"Nearby park"},{"card_id":"preset-business-004-en-terrain-1773788764440-gxgmlf89u","sub_type":"terrain","name":"Training Room","icon":"📚","description":"Training and learning"},{"card_id":"preset-business-004-en-terrain-1773788764440-ji5qrz26c","sub_type":"terrain","name":"Headquarters","icon":"🏙️","description":"Company headquarters"},{"card_id":"preset-business-004-en-terrain-1773788764440-oaoibkq10","sub_type":"terrain","name":"Warehouse","icon":"📦","description":"Logistics warehouse"},{"card_id":"preset-business-004-en-terrain-1773788764440-ybvi0y6xk","sub_type":"terrain","name":"Client Company","icon":"🏛️","description":"Client's office"},{"card_id":"preset-business-004-en-weather-1773788764440-1yqpepraw","sub_type":"weather","name":"Windy","icon":"💨","description":"Strong wind"},{"card_id":"preset-business-004-en-weather-1773788764440-8xclncji3","sub_type":"weather","name":"Lightning","icon":"⚡","description":"Lightning strikes"},{"card_id":"preset-business-004-en-weather-1773788764440-fs6m9bmzl","sub_type":"weather","name":"Light Rain","icon":"🌦️","description":"Drizzling"},{"card_id":"preset-business-004-en-weather-1773788764440-inwqtkf5s","sub_type":"weather","name":"Tornado","icon":"🌪️","description":"Tornado"},{"card_id":"preset-business-004-en-weather-1773788764440-npry11r7o","sub_type":"weather","name":"Sunny","icon":"☀️","description":"Clear weather"},{"card_id":"preset-business-004-en-weather-1773788764440-oksis70tu","sub_type":"weather","name":"Clearing Up","icon":"🌤️","description":"Weather improving"},{"card_id":"preset-business-004-en-weather-1773788764440-s71sazv5n","sub_type":"weather","name":"Fog","icon":"🌫️","description":"Thick fog"},{"card_id":"preset-business-004-en-weather-1773788764440-x5ig5se8f","sub_type":"weather","name":"Partly Cloudy","icon":"⛅","description":"Partly cloudy"}]
     };
     
     let currentView = 'chapters';
@@ -707,6 +722,8 @@
     document.addEventListener('DOMContentLoaded', function() {
       document.body.className = 'theme-business';
       createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
     });
     
     function switchView(view, evt) {
@@ -729,11 +746,14 @@
       }
     }
     
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderChapters() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
-      const half = Math.ceil(chapters.length / 2);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = 'en' === 'zh';
       
@@ -742,21 +762,38 @@
         return chapters[pageIndex * 2].chapterId;
       }
       
-      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
     }
     
     function renderPlotCards() {
@@ -767,10 +804,6 @@
       const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
       const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
       
-      const half = Math.ceil(cards.length / 2);
-      const leftCards = cards.slice(0, half);
-      const rightCards = cards.slice(half);
-      
       function renderPlotCard(card, index) {
         return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
@@ -779,8 +812,14 @@
         '</div>';
       }
       
-      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
-      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
     }
     
     function showPlotCardDetail(cardId) {
@@ -805,23 +844,33 @@
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const characters = bookData.characters;
-      const half = Math.ceil(characters.length / 2);
       
-      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
     }
     
     function showCharacterDetail(index) {

@@ -2,6 +2,7 @@
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>青梅竹马的重逢 - StoryBook</title>
   <meta name="description" content="青梅竹马的重逢 - AI互动故事">
   <meta name="keywords" content="苏晴, 江辰, 小糖, human, work, memory, 言情, AI故事">
@@ -447,6 +448,14 @@
         border-radius: 0;
       }
       
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -518,15 +527,24 @@
       }
       
       .action-buttons {
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 6px;
         margin-top: 10px;
       }
       
       .action-btn {
-        padding: 8px 12px;
-        font-size: 11px;
-        min-height: 36px;
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
       }
       
       .view-tabs {
@@ -640,21 +658,7 @@
                   <span class="chapter-number">第V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">表白</span>
-                </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="book-page right">
-        <div class="parchment-texture"></div>
-        <div class="page-edge top"></div>
-        <div class="page-edge right"></div>
-        <div class="page-edge bottom"></div>
-        <div class="page-content">
-          <div id="rightPageContent">
-            <div class="chapter-toc">
-              <a href="../chapters/chapter-rom004-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                </a><a href="../chapters/chapter-rom004-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
                   <span class="chapter-number">第VI</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">甜蜜</span>
@@ -679,6 +683,17 @@
           </div>
         </div>
       </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   
@@ -699,7 +714,7 @@
       type: 'romance',
       chapters: [{"chapterId":"chapter-rom004-01","title":"回乡","orderNum":1},{"chapterId":"chapter-rom004-02","title":"重逢","orderNum":2},{"chapterId":"chapter-rom004-03","title":"回忆","orderNum":3},{"chapterId":"chapter-rom004-04","title":"暧昧","orderNum":4},{"chapterId":"chapter-rom004-05","title":"表白","orderNum":5},{"chapterId":"chapter-rom004-06","title":"甜蜜","orderNum":6},{"chapterId":"chapter-rom004-07","title":"考验","orderNum":7},{"chapterId":"chapter-rom004-08","title":"选择","orderNum":8},{"chapterId":"chapter-rom004-09","title":"求婚","orderNum":9},{"chapterId":"chapter-rom004-10","title":"幸福","orderNum":10}],
       characters: [{"charId":"char-rom004-001","name":"苏晴","roleType":"设计师","personality":"独立坚强、怀念过去、害怕改变","avatar":"👩","isProtagonist":1},{"charId":"char-rom004-002","name":"江辰","roleType":"建筑师","personality":"温柔专一、默默守护、有担当","avatar":"👨","isProtagonist":0},{"charId":"char-rom004-003","name":"小糖","roleType":"妹妹","personality":"可爱调皮、喜欢撮合、助攻担当","avatar":"👧","isProtagonist":0}],
-      plotCards: [{"card_id":"preset-romance-004-weather-1773788764467-um1naeayk","sub_type":"weather","name":"霓虹","icon":"🌃","description":"城市的霓虹灯"},{"card_id":"preset-romance-004-weather-1773788764467-xl3i53405","sub_type":"weather","name":"星空","icon":"⭐","description":"繁星点点"},{"card_id":"preset-romance-004-weather-1773788764467-v40kcb0gq","sub_type":"weather","name":"樱花雨","icon":"🌸","description":"樱花飘落的美景"},{"card_id":"preset-romance-004-weather-1773788764467-dww9myi8d","sub_type":"weather","name":"雪天","icon":"🌨️","description":"飘雪的日子"},{"card_id":"preset-romance-004-weather-1773788764467-0d68eixdo","sub_type":"weather","name":"黎明","icon":"🌤️","description":"新的一天开始"},{"card_id":"preset-romance-004-weather-1773788764467-en5vrxye3","sub_type":"weather","name":"阴天","icon":"☁️","description":"阴沉的天空"},{"card_id":"preset-romance-004-weather-1773788764467-0pri5asru","sub_type":"weather","name":"初雪","icon":"❄️","description":"第一场雪"},{"card_id":"preset-romance-004-weather-1773788764467-5xt6seazi","sub_type":"weather","name":"夕阳","icon":"🌇","description":"浪漫的夕阳"},{"card_id":"preset-romance-004-terrain-1773788764467-4ejjl1jg9","sub_type":"terrain","name":"地铁站","icon":"🚇","description":"繁忙的地铁站"},{"card_id":"preset-romance-004-terrain-1773788764467-srewaek19","sub_type":"terrain","name":"公园","icon":"🌳","description":"安静的公园"},{"card_id":"preset-romance-004-terrain-1773788764467-pslygcm5x","sub_type":"terrain","name":"画廊","icon":"🖼️","description":"艺术的画廊"},{"card_id":"preset-romance-004-terrain-1773788764467-f2eegd9d1","sub_type":"terrain","name":"学校","icon":"🎓","description":"回忆的学校"},{"card_id":"preset-romance-004-terrain-1773788764467-sh0sx6cbq","sub_type":"terrain","name":"餐厅","icon":"🍽️","description":"浪漫的餐厅"},{"card_id":"preset-romance-004-terrain-1773788764467-fek0kj2xx","sub_type":"terrain","name":"老街","icon":"🏘️","description":"怀旧的老街"},{"card_id":"preset-romance-004-terrain-1773788764467-52toqqzsl","sub_type":"terrain","name":"咖啡厅","icon":"☕","description":"温馨的咖啡厅"},{"card_id":"preset-romance-004-terrain-1773788764467-68vml9yy5","sub_type":"terrain","name":"酒吧","icon":"🍸","description":"放松的酒吧"},{"card_id":"preset-romance-004-adventure-1773788764467-pdd7n3bqb","sub_type":"adventure","name":"告白","icon":"💕","description":"勇敢的表白"},{"card_id":"preset-romance-004-adventure-1773788764467-cziuy2fs4","sub_type":"adventure","name":"邂逅","icon":"💫","description":"命运的相遇"},{"card_id":"preset-romance-004-adventure-1773788764467-84c7a7vpk","sub_type":"adventure","name":"表白","icon":"💌","description":"表达心意"},{"card_id":"preset-romance-004-adventure-1773788764467-4c2qmxpx4","sub_type":"adventure","name":"追求","icon":"💝","description":"努力追求"},{"card_id":"preset-romance-004-adventure-1773788764467-2yo4rg72s","sub_type":"adventure","name":"和解","icon":"🤝","description":"重归于好"},{"card_id":"preset-romance-004-adventure-1773788764467-za9s6i6j0","sub_type":"adventure","name":"同居","icon":"🏠","description":"开始共同生活"},{"card_id":"preset-romance-004-adventure-1773788764467-tjsvu6l7t","sub_type":"adventure","name":"重逢","icon":"🎉","description":"再次相遇"},{"card_id":"preset-romance-004-adventure-1773788764467-q14ljg0yg","sub_type":"adventure","name":"离婚","icon":"💔","description":"痛苦的分离"},{"card_id":"preset-romance-004-equipment-1773788764467-0ckpgp1u6","sub_type":"equipment","name":"手机","icon":"📱","description":"联系的工具"},{"card_id":"preset-romance-004-equipment-1773788764467-ur6mvnfi7","sub_type":"equipment","name":"咖啡","icon":"☕","description":"温暖的咖啡"},{"card_id":"preset-romance-004-equipment-1773788764467-4bhzuqd46","sub_type":"equipment","name":"钢琴","icon":"🎹","description":"优美的音乐"},{"card_id":"preset-romance-004-equipment-1773788764467-arn4c1cbm","sub_type":"equipment","name":"耳机","icon":"🎧","description":"分享音乐"},{"card_id":"preset-romance-004-equipment-1773788764467-so38yev55","sub_type":"equipment","name":"红酒","icon":"🍷","description":"浪漫的饮品"},{"card_id":"preset-romance-004-equipment-1773788764467-usdkmaql6","sub_type":"equipment","name":"书本","icon":"📚","description":"共同的爱好"},{"card_id":"preset-romance-004-equipment-1773788764467-ps6sou7ot","sub_type":"equipment","name":"蛋糕","icon":"🎂","description":"甜蜜的甜点"},{"card_id":"preset-romance-004-equipment-1773788764467-fccx76ayf","sub_type":"equipment","name":"相机","icon":"📷","description":"记录美好瞬间"}]
+      plotCards: [{"card_id":"preset-romance-004-adventure-1773788764467-2yo4rg72s","sub_type":"adventure","name":"和解","icon":"🤝","description":"重归于好"},{"card_id":"preset-romance-004-adventure-1773788764467-4c2qmxpx4","sub_type":"adventure","name":"追求","icon":"💝","description":"努力追求"},{"card_id":"preset-romance-004-adventure-1773788764467-84c7a7vpk","sub_type":"adventure","name":"表白","icon":"💌","description":"表达心意"},{"card_id":"preset-romance-004-adventure-1773788764467-cziuy2fs4","sub_type":"adventure","name":"邂逅","icon":"💫","description":"命运的相遇"},{"card_id":"preset-romance-004-adventure-1773788764467-pdd7n3bqb","sub_type":"adventure","name":"告白","icon":"💕","description":"勇敢的表白"},{"card_id":"preset-romance-004-adventure-1773788764467-q14ljg0yg","sub_type":"adventure","name":"离婚","icon":"💔","description":"痛苦的分离"},{"card_id":"preset-romance-004-adventure-1773788764467-tjsvu6l7t","sub_type":"adventure","name":"重逢","icon":"🎉","description":"再次相遇"},{"card_id":"preset-romance-004-adventure-1773788764467-za9s6i6j0","sub_type":"adventure","name":"同居","icon":"🏠","description":"开始共同生活"},{"card_id":"preset-romance-004-equipment-1773788764467-0ckpgp1u6","sub_type":"equipment","name":"手机","icon":"📱","description":"联系的工具"},{"card_id":"preset-romance-004-equipment-1773788764467-4bhzuqd46","sub_type":"equipment","name":"钢琴","icon":"🎹","description":"优美的音乐"},{"card_id":"preset-romance-004-equipment-1773788764467-arn4c1cbm","sub_type":"equipment","name":"耳机","icon":"🎧","description":"分享音乐"},{"card_id":"preset-romance-004-equipment-1773788764467-fccx76ayf","sub_type":"equipment","name":"相机","icon":"📷","description":"记录美好瞬间"},{"card_id":"preset-romance-004-equipment-1773788764467-ps6sou7ot","sub_type":"equipment","name":"蛋糕","icon":"🎂","description":"甜蜜的甜点"},{"card_id":"preset-romance-004-equipment-1773788764467-so38yev55","sub_type":"equipment","name":"红酒","icon":"🍷","description":"浪漫的饮品"},{"card_id":"preset-romance-004-equipment-1773788764467-ur6mvnfi7","sub_type":"equipment","name":"咖啡","icon":"☕","description":"温暖的咖啡"},{"card_id":"preset-romance-004-equipment-1773788764467-usdkmaql6","sub_type":"equipment","name":"书本","icon":"📚","description":"共同的爱好"},{"card_id":"preset-romance-004-terrain-1773788764467-4ejjl1jg9","sub_type":"terrain","name":"地铁站","icon":"🚇","description":"繁忙的地铁站"},{"card_id":"preset-romance-004-terrain-1773788764467-52toqqzsl","sub_type":"terrain","name":"咖啡厅","icon":"☕","description":"温馨的咖啡厅"},{"card_id":"preset-romance-004-terrain-1773788764467-68vml9yy5","sub_type":"terrain","name":"酒吧","icon":"🍸","description":"放松的酒吧"},{"card_id":"preset-romance-004-terrain-1773788764467-f2eegd9d1","sub_type":"terrain","name":"学校","icon":"🎓","description":"回忆的学校"},{"card_id":"preset-romance-004-terrain-1773788764467-fek0kj2xx","sub_type":"terrain","name":"老街","icon":"🏘️","description":"怀旧的老街"},{"card_id":"preset-romance-004-terrain-1773788764467-pslygcm5x","sub_type":"terrain","name":"画廊","icon":"🖼️","description":"艺术的画廊"},{"card_id":"preset-romance-004-terrain-1773788764467-sh0sx6cbq","sub_type":"terrain","name":"餐厅","icon":"🍽️","description":"浪漫的餐厅"},{"card_id":"preset-romance-004-terrain-1773788764467-srewaek19","sub_type":"terrain","name":"公园","icon":"🌳","description":"安静的公园"},{"card_id":"preset-romance-004-weather-1773788764467-0d68eixdo","sub_type":"weather","name":"黎明","icon":"🌤️","description":"新的一天开始"},{"card_id":"preset-romance-004-weather-1773788764467-0pri5asru","sub_type":"weather","name":"初雪","icon":"❄️","description":"第一场雪"},{"card_id":"preset-romance-004-weather-1773788764467-5xt6seazi","sub_type":"weather","name":"夕阳","icon":"🌇","description":"浪漫的夕阳"},{"card_id":"preset-romance-004-weather-1773788764467-dww9myi8d","sub_type":"weather","name":"雪天","icon":"🌨️","description":"飘雪的日子"},{"card_id":"preset-romance-004-weather-1773788764467-en5vrxye3","sub_type":"weather","name":"阴天","icon":"☁️","description":"阴沉的天空"},{"card_id":"preset-romance-004-weather-1773788764467-um1naeayk","sub_type":"weather","name":"霓虹","icon":"🌃","description":"城市的霓虹灯"},{"card_id":"preset-romance-004-weather-1773788764467-v40kcb0gq","sub_type":"weather","name":"樱花雨","icon":"🌸","description":"樱花飘落的美景"},{"card_id":"preset-romance-004-weather-1773788764467-xl3i53405","sub_type":"weather","name":"星空","icon":"⭐","description":"繁星点点"}]
     };
     
     let currentView = 'chapters';
@@ -707,6 +722,8 @@
     document.addEventListener('DOMContentLoaded', function() {
       document.body.className = 'theme-romance';
       createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
     });
     
     function switchView(view, evt) {
@@ -729,11 +746,14 @@
       }
     }
     
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderChapters() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
-      const half = Math.ceil(chapters.length / 2);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = 'zh' === 'zh';
       
@@ -742,21 +762,38 @@
         return chapters[pageIndex * 2].chapterId;
       }
       
-      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
     }
     
     function renderPlotCards() {
@@ -767,10 +804,6 @@
       const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
       const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
       
-      const half = Math.ceil(cards.length / 2);
-      const leftCards = cards.slice(0, half);
-      const rightCards = cards.slice(half);
-      
       function renderPlotCard(card, index) {
         return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
@@ -779,8 +812,14 @@
         '</div>';
       }
       
-      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
-      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
     }
     
     function showPlotCardDetail(cardId) {
@@ -805,23 +844,33 @@
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const characters = bookData.characters;
-      const half = Math.ceil(characters.length / 2);
       
-      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
     }
     
     function showCharacterDetail(index) {

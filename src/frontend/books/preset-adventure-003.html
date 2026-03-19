@@ -2,6 +2,7 @@
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>丛林奇遇记 - StoryBook</title>
   <meta name="description" content="丛林奇遇记 - AI互动故事">
   <meta name="keywords" content="小森, 小叶, 林爷爷, creativity, human, 冒险, AI故事, 互动故事">
@@ -447,6 +448,14 @@
         border-radius: 0;
       }
       
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -518,15 +527,24 @@
       }
       
       .action-buttons {
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 6px;
         margin-top: 10px;
       }
       
       .action-btn {
-        padding: 8px 12px;
-        font-size: 11px;
-        min-height: 36px;
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
       }
       
       .view-tabs {
@@ -640,21 +658,7 @@
                   <span class="chapter-number">第V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">巨大的榕树</span>
-                </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="book-page right">
-        <div class="parchment-texture"></div>
-        <div class="page-edge top"></div>
-        <div class="page-edge right"></div>
-        <div class="page-edge bottom"></div>
-        <div class="page-content">
-          <div id="rightPageContent">
-            <div class="chapter-toc">
-              <a href="../chapters/chapter-adv003-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                </a><a href="../chapters/chapter-adv003-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
                   <span class="chapter-number">第VI</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">瀑布后的洞穴</span>
@@ -679,6 +683,17 @@
           </div>
         </div>
       </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   
@@ -699,7 +714,7 @@
       type: 'adventure',
       chapters: [{"chapterId":"chapter-adv003-01","title":"神秘的老地图","orderNum":1},{"chapterId":"chapter-adv003-02","title":"进入丛林","orderNum":2},{"chapterId":"chapter-adv003-03","title":"会说话的猴子","orderNum":3},{"chapterId":"chapter-adv003-04","title":"萤火虫的指引","orderNum":4},{"chapterId":"chapter-adv003-05","title":"巨大的榕树","orderNum":5},{"chapterId":"chapter-adv003-06","title":"瀑布后的洞穴","orderNum":6},{"chapterId":"chapter-adv003-07","title":"洞穴的秘密","orderNum":7},{"chapterId":"chapter-adv003-08","title":"丛林危机","orderNum":8},{"chapterId":"chapter-adv003-09","title":"丛林的守护者","orderNum":9},{"chapterId":"chapter-adv003-10","title":"新的守护者","orderNum":10}],
       characters: [{"charId":"char-adv003-001","name":"小森","roleType":"丛林探险家","personality":"勇敢善良、热爱自然、善于观察","avatar":"👦","isProtagonist":1},{"charId":"char-adv003-002","name":"小叶","roleType":"森林精灵","personality":"活泼可爱、知识丰富、守护森林","avatar":"🍃","isProtagonist":0},{"charId":"char-adv003-003","name":"林爷爷","roleType":"森林护林员","personality":"慈祥智慧、了解丛林秘密","avatar":"👴","isProtagonist":0}],
-      plotCards: [{"card_id":"preset-adventure-003-weather-1773788764284-n343mzvqy","sub_type":"weather","name":"晴天","icon":"☀️","description":"阳光明媚的好天气"},{"card_id":"preset-adventure-003-weather-1773788764284-125dk1ibc","sub_type":"weather","name":"雪天","icon":"❄️","description":"银装素裹的雪景"},{"card_id":"preset-adventure-003-weather-1773788764284-bl47p854k","sub_type":"weather","name":"晨雾","icon":"🌫️","description":"朦胧的晨雾"},{"card_id":"preset-adventure-003-weather-1773788764284-yusgw1j5g","sub_type":"weather","name":"白云","icon":"☁️","description":"朵朵白云"},{"card_id":"preset-adventure-003-weather-1773788764284-njlmyqaz1","sub_type":"weather","name":"彩虹雨","icon":"🌦️","description":"雨后彩虹"},{"card_id":"preset-adventure-003-weather-1773788764284-ntgqkqjjj","sub_type":"weather","name":"彩虹天","icon":"🌈","description":"美丽的彩虹"},{"card_id":"preset-adventure-003-weather-1773788764284-9jd8659tl","sub_type":"weather","name":"流星雨","icon":"🌠","description":"璀璨的流星雨"},{"card_id":"preset-adventure-003-weather-1773788764284-hrl0m3x6o","sub_type":"weather","name":"雾霾","icon":"😷","description":"朦胧的雾霾"},{"card_id":"preset-adventure-003-terrain-1773788764284-bmjc9vwzx","sub_type":"terrain","name":"湖泊","icon":"🏞️","description":"平静的湖泊"},{"card_id":"preset-adventure-003-terrain-1773788764284-qdo4a03nn","sub_type":"terrain","name":"彩虹谷","icon":"🌈","description":"五彩斑斓的山谷"},{"card_id":"preset-adventure-003-terrain-1773788764284-pl3mve1gg","sub_type":"terrain","name":"热带雨林","icon":"🌴","description":"茂密的热带雨林"},{"card_id":"preset-adventure-003-terrain-1773788764284-odigm2bc8","sub_type":"terrain","name":"山顶","icon":"⛰️","description":"高耸的山峰"},{"card_id":"preset-adventure-003-terrain-1773788764284-m1x272nno","sub_type":"terrain","name":"洞穴","icon":"🪨","description":"幽暗的洞穴"},{"card_id":"preset-adventure-003-terrain-1773788764284-2iia4flw5","sub_type":"terrain","name":"峡谷","icon":"🏔️","description":"深邃的峡谷"},{"card_id":"preset-adventure-003-terrain-1773788764284-dbsc30whn","sub_type":"terrain","name":"小溪","icon":"💧","description":"清澈的小溪"},{"card_id":"preset-adventure-003-terrain-1773788764284-ad3fywon3","sub_type":"terrain","name":"瀑布","icon":"💦","description":"壮观的瀑布"},{"card_id":"preset-adventure-003-adventure-1773788764284-uoxrogrkk","sub_type":"adventure","name":"迷宫","icon":"🌀","description":"探索神秘的迷宫"},{"card_id":"preset-adventure-003-adventure-1773788764284-6nx11hskb","sub_type":"adventure","name":"徒步","icon":"🚶","description":"徒步旅行"},{"card_id":"preset-adventure-003-adventure-1773788764284-2ddkdl4qm","sub_type":"adventure","name":"观察动物","icon":"🦋","description":"观察可爱的动物"},{"card_id":"preset-adventure-003-adventure-1773788764284-pnb0xi6bh","sub_type":"adventure","name":"登山","icon":"🧗","description":"攀登高峰"},{"card_id":"preset-adventure-003-adventure-1773788764284-gv7xydwob","sub_type":"adventure","name":"解谜","icon":"🧩","description":"解开古老的谜题"},{"card_id":"preset-adventure-003-adventure-1773788764284-nxiil11sf","sub_type":"adventure","name":"滑雪","icon":"⛷️","description":"在雪山上滑雪"},{"card_id":"preset-adventure-003-adventure-1773788764284-x9irhm46u","sub_type":"adventure","name":"种植","icon":"🌱","description":"种植神奇的植物"},{"card_id":"preset-adventure-003-adventure-1773788764284-xmwhxymej","sub_type":"adventure","name":"探险","icon":"🧭","description":"探索未知的地方"},{"card_id":"preset-adventure-003-equipment-1773788764284-pfwqjxyj2","sub_type":"equipment","name":"地图","icon":"🗺️","description":"指引方向"},{"card_id":"preset-adventure-003-equipment-1773788764284-abgk6rtbe","sub_type":"equipment","name":"望远镜","icon":"🔭","description":"观察远方"},{"card_id":"preset-adventure-003-equipment-1773788764284-6ru1kwd4y","sub_type":"equipment","name":"相机","icon":"📷","description":"拍摄美景"},{"card_id":"preset-adventure-003-equipment-1773788764284-8il0zwkto","sub_type":"equipment","name":"水壶","icon":"🥤","description":"装水的水壶"},{"card_id":"preset-adventure-003-equipment-1773788764284-rllabfk6k","sub_type":"equipment","name":"灯具","icon":"💡","description":"照明设备"},{"card_id":"preset-adventure-003-equipment-1773788764284-dtjfl732n","sub_type":"equipment","name":"无人机","icon":"🛸","description":"空中侦察"},{"card_id":"preset-adventure-003-equipment-1773788764284-biszxcyh1","sub_type":"equipment","name":"笔记本","icon":"📓","description":"记录发现"},{"card_id":"preset-adventure-003-equipment-1773788764284-j476wh1m2","sub_type":"equipment","name":"帐篷","icon":"⛺","description":"露营住所"}]
+      plotCards: [{"card_id":"preset-adventure-003-adventure-1773788764284-2ddkdl4qm","sub_type":"adventure","name":"观察动物","icon":"🦋","description":"观察可爱的动物"},{"card_id":"preset-adventure-003-adventure-1773788764284-6nx11hskb","sub_type":"adventure","name":"徒步","icon":"🚶","description":"徒步旅行"},{"card_id":"preset-adventure-003-adventure-1773788764284-gv7xydwob","sub_type":"adventure","name":"解谜","icon":"🧩","description":"解开古老的谜题"},{"card_id":"preset-adventure-003-adventure-1773788764284-nxiil11sf","sub_type":"adventure","name":"滑雪","icon":"⛷️","description":"在雪山上滑雪"},{"card_id":"preset-adventure-003-adventure-1773788764284-pnb0xi6bh","sub_type":"adventure","name":"登山","icon":"🧗","description":"攀登高峰"},{"card_id":"preset-adventure-003-adventure-1773788764284-uoxrogrkk","sub_type":"adventure","name":"迷宫","icon":"🌀","description":"探索神秘的迷宫"},{"card_id":"preset-adventure-003-adventure-1773788764284-x9irhm46u","sub_type":"adventure","name":"种植","icon":"🌱","description":"种植神奇的植物"},{"card_id":"preset-adventure-003-adventure-1773788764284-xmwhxymej","sub_type":"adventure","name":"探险","icon":"🧭","description":"探索未知的地方"},{"card_id":"preset-adventure-003-equipment-1773788764284-6ru1kwd4y","sub_type":"equipment","name":"相机","icon":"📷","description":"拍摄美景"},{"card_id":"preset-adventure-003-equipment-1773788764284-8il0zwkto","sub_type":"equipment","name":"水壶","icon":"🥤","description":"装水的水壶"},{"card_id":"preset-adventure-003-equipment-1773788764284-abgk6rtbe","sub_type":"equipment","name":"望远镜","icon":"🔭","description":"观察远方"},{"card_id":"preset-adventure-003-equipment-1773788764284-biszxcyh1","sub_type":"equipment","name":"笔记本","icon":"📓","description":"记录发现"},{"card_id":"preset-adventure-003-equipment-1773788764284-dtjfl732n","sub_type":"equipment","name":"无人机","icon":"🛸","description":"空中侦察"},{"card_id":"preset-adventure-003-equipment-1773788764284-j476wh1m2","sub_type":"equipment","name":"帐篷","icon":"⛺","description":"露营住所"},{"card_id":"preset-adventure-003-equipment-1773788764284-pfwqjxyj2","sub_type":"equipment","name":"地图","icon":"🗺️","description":"指引方向"},{"card_id":"preset-adventure-003-equipment-1773788764284-rllabfk6k","sub_type":"equipment","name":"灯具","icon":"💡","description":"照明设备"},{"card_id":"preset-adventure-003-terrain-1773788764284-2iia4flw5","sub_type":"terrain","name":"峡谷","icon":"🏔️","description":"深邃的峡谷"},{"card_id":"preset-adventure-003-terrain-1773788764284-ad3fywon3","sub_type":"terrain","name":"瀑布","icon":"💦","description":"壮观的瀑布"},{"card_id":"preset-adventure-003-terrain-1773788764284-bmjc9vwzx","sub_type":"terrain","name":"湖泊","icon":"🏞️","description":"平静的湖泊"},{"card_id":"preset-adventure-003-terrain-1773788764284-dbsc30whn","sub_type":"terrain","name":"小溪","icon":"💧","description":"清澈的小溪"},{"card_id":"preset-adventure-003-terrain-1773788764284-m1x272nno","sub_type":"terrain","name":"洞穴","icon":"🪨","description":"幽暗的洞穴"},{"card_id":"preset-adventure-003-terrain-1773788764284-odigm2bc8","sub_type":"terrain","name":"山顶","icon":"⛰️","description":"高耸的山峰"},{"card_id":"preset-adventure-003-terrain-1773788764284-pl3mve1gg","sub_type":"terrain","name":"热带雨林","icon":"🌴","description":"茂密的热带雨林"},{"card_id":"preset-adventure-003-terrain-1773788764284-qdo4a03nn","sub_type":"terrain","name":"彩虹谷","icon":"🌈","description":"五彩斑斓的山谷"},{"card_id":"preset-adventure-003-weather-1773788764284-125dk1ibc","sub_type":"weather","name":"雪天","icon":"❄️","description":"银装素裹的雪景"},{"card_id":"preset-adventure-003-weather-1773788764284-9jd8659tl","sub_type":"weather","name":"流星雨","icon":"🌠","description":"璀璨的流星雨"},{"card_id":"preset-adventure-003-weather-1773788764284-bl47p854k","sub_type":"weather","name":"晨雾","icon":"🌫️","description":"朦胧的晨雾"},{"card_id":"preset-adventure-003-weather-1773788764284-hrl0m3x6o","sub_type":"weather","name":"雾霾","icon":"😷","description":"朦胧的雾霾"},{"card_id":"preset-adventure-003-weather-1773788764284-n343mzvqy","sub_type":"weather","name":"晴天","icon":"☀️","description":"阳光明媚的好天气"},{"card_id":"preset-adventure-003-weather-1773788764284-njlmyqaz1","sub_type":"weather","name":"彩虹雨","icon":"🌦️","description":"雨后彩虹"},{"card_id":"preset-adventure-003-weather-1773788764284-ntgqkqjjj","sub_type":"weather","name":"彩虹天","icon":"🌈","description":"美丽的彩虹"},{"card_id":"preset-adventure-003-weather-1773788764284-yusgw1j5g","sub_type":"weather","name":"白云","icon":"☁️","description":"朵朵白云"}]
     };
     
     let currentView = 'chapters';
@@ -707,6 +722,8 @@
     document.addEventListener('DOMContentLoaded', function() {
       document.body.className = 'theme-adventure';
       createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
     });
     
     function switchView(view, evt) {
@@ -729,11 +746,14 @@
       }
     }
     
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderChapters() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
-      const half = Math.ceil(chapters.length / 2);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = 'zh' === 'zh';
       
@@ -742,21 +762,38 @@
         return chapters[pageIndex * 2].chapterId;
       }
       
-      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
     }
     
     function renderPlotCards() {
@@ -767,10 +804,6 @@
       const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
       const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
       
-      const half = Math.ceil(cards.length / 2);
-      const leftCards = cards.slice(0, half);
-      const rightCards = cards.slice(half);
-      
       function renderPlotCard(card, index) {
         return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
@@ -779,8 +812,14 @@
         '</div>';
       }
       
-      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
-      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
     }
     
     function showPlotCardDetail(cardId) {
@@ -805,23 +844,33 @@
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const characters = bookData.characters;
-      const half = Math.ceil(characters.length / 2);
       
-      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
     }
     
     function showCharacterDetail(index) {

@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Rebellion of the Replaced - StoryBook</title>
   <meta name="description" content="Rebellion of the Replaced - AI Interactive Story">
   <meta name="keywords" content="Marcus, Sarah, Tom, AI, creativity, consciousness, human, work">
@@ -447,6 +448,14 @@
         border-radius: 0;
       }
       
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -518,15 +527,24 @@
       }
       
       .action-buttons {
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 6px;
         margin-top: 10px;
       }
       
       .action-btn {
-        padding: 8px 12px;
-        font-size: 11px;
-        min-height: 36px;
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
       }
       
       .view-tabs {
@@ -636,21 +654,7 @@
                   <span class="chapter-number">Ch. IV</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">The New Economy</span>
-                </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="book-page right">
-        <div class="parchment-texture"></div>
-        <div class="page-edge top"></div>
-        <div class="page-edge right"></div>
-        <div class="page-edge bottom"></div>
-        <div class="page-content">
-          <div id="rightPageContent">
-            <div class="chapter-toc">
-              <a href="../chapters/chapter-ai014-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                </a><a href="../chapters/chapter-ai014-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
                   <span class="chapter-number">Ch. V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">The Recognition</span>
@@ -668,6 +672,17 @@
                   <span class="chapter-title">The Human Economy</span>
                 </a>
             </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
           </div>
         </div>
       </div>
@@ -691,7 +706,7 @@
       type: 'fantasy',
       chapters: [{"chapterId":"chapter-ai014-01","title":"The Displaced","orderNum":1},{"chapterId":"chapter-ai014-02","title":"The Movement","orderNum":2},{"chapterId":"chapter-ai014-03","title":"The Resistance","orderNum":3},{"chapterId":"chapter-ai014-04","title":"The New Economy","orderNum":4},{"chapterId":"chapter-ai014-05","title":"The Recognition","orderNum":5},{"chapterId":"chapter-ai014-06","title":"The Legacy","orderNum":6},{"chapterId":"chapter-ai014-07","title":"The Future","orderNum":7},{"chapterId":"chapter-ai014-08","title":"The Human Economy","orderNum":8}],
       characters: [{"charId":"char-ai014-001","name":"Marcus","roleType":"Former Manager","personality":"Determined, resilient, evolving, leader","avatar":"👨‍💼","isProtagonist":1},{"charId":"char-ai014-002","name":"Sarah","roleType":"Community Organizer","personality":"Supportive, practical, connected, hopeful","avatar":"👩‍💼","isProtagonist":0},{"charId":"char-ai014-003","name":"Tom","roleType":"Former Colleague","personality":"Conflicted, uncertain, searching, eventually supportive","avatar":"👨","isProtagonist":0}],
-      plotCards: [{"card_id":"preset-ai-014-weather-1773788764373-i8l3yu7qs","sub_type":"weather","name":"Time Rift","icon":"🕳️","description":"Distorted time-space fissure"},{"card_id":"preset-ai-014-weather-1773788764373-mhmxa5uuz","sub_type":"weather","name":"Eternal Dusk","icon":"🌆","description":"Never-ending dusk"},{"card_id":"preset-ai-014-weather-1773788764373-racowkjx4","sub_type":"weather","name":"Elemental Turbulence","icon":"⚡","description":"Surging elemental energy"},{"card_id":"preset-ai-014-weather-1773788764373-t8umhup0y","sub_type":"weather","name":"Apocalypse Vision","icon":"🌋","description":"Signs of doomsday"},{"card_id":"preset-ai-014-weather-1773788764373-n41ajjtez","sub_type":"weather","name":"Magic Rain","icon":"💧","description":"Rain filled with magic"},{"card_id":"preset-ai-014-weather-1773788764373-1k2x1tuxx","sub_type":"weather","name":"Awakening Light","icon":"🌟","description":"Light of power awakening"},{"card_id":"preset-ai-014-weather-1773788764373-hp76z6yrq","sub_type":"weather","name":"Divine Light","icon":"✨","description":"Sacred radiance"},{"card_id":"preset-ai-014-weather-1773788764373-612a5r11k","sub_type":"weather","name":"Aurora","icon":"🌌","description":"Beautiful magical aurora"},{"card_id":"preset-ai-014-terrain-1773788764373-mx868y789","sub_type":"terrain","name":"Dragon's Lair","icon":"🐉","description":"Dragon's nest"},{"card_id":"preset-ai-014-terrain-1773788764373-bic40l2dm","sub_type":"terrain","name":"Ancient Ruins","icon":"🏛️","description":"Remains of ancient civilization"},{"card_id":"preset-ai-014-terrain-1773788764373-4yeijh4pf","sub_type":"terrain","name":"Dwarf Mine","icon":"⛏️","description":"Dwarven mine"},{"card_id":"preset-ai-014-terrain-1773788764373-8a3as9qzk","sub_type":"terrain","name":"Sealed Land","icon":"🔒","description":"Place where demons are sealed"},{"card_id":"preset-ai-014-terrain-1773788764373-r8mxzsw4w","sub_type":"terrain","name":"Temple","icon":"⛩️","description":"Sacred temple"},{"card_id":"preset-ai-014-terrain-1773788764373-fup4ij1fr","sub_type":"terrain","name":"Time Fissure","icon":"⏳","description":"Time-distorted place"},{"card_id":"preset-ai-014-terrain-1773788764373-8cln3slpn","sub_type":"terrain","name":"Abyss","icon":"🕳️","description":"Endless abyss"},{"card_id":"preset-ai-014-terrain-1773788764373-p4xdco9ma","sub_type":"terrain","name":"Fairy Village","icon":"🧚","description":"Home of the fairies"},{"card_id":"preset-ai-014-adventure-1773788764373-98mwkvw5k","sub_type":"adventure","name":"Guardian Mission","icon":"🛡️","description":"Protect something important"},{"card_id":"preset-ai-014-adventure-1773788764373-n65ysirf2","sub_type":"adventure","name":"Dragon Slaying","icon":"🐉","description":"Challenge the dragon"},{"card_id":"preset-ai-014-adventure-1773788764373-jvoet3nlf","sub_type":"adventure","name":"Time Travel","icon":"⏳","description":"Journey through time"},{"card_id":"preset-ai-014-adventure-1773788764373-1dn1l2yy4","sub_type":"adventure","name":"Dimension Travel","icon":"🌀","description":"Travel to another world"},{"card_id":"preset-ai-014-adventure-1773788764373-a7r2wvtd0","sub_type":"adventure","name":"Artifact Forging","icon":"🔨","description":"Forge legendary weapons"},{"card_id":"preset-ai-014-adventure-1773788764373-l2hcnsgql","sub_type":"adventure","name":"Dwarf Alliance","icon":"⛏️","description":"Form alliance with dwarves"},{"card_id":"preset-ai-014-adventure-1773788764373-utik0jphb","sub_type":"adventure","name":"Fairy Alliance","icon":"🧚","description":"Form alliance with fairies"},{"card_id":"preset-ai-014-adventure-1773788764373-6zs4j9pxn","sub_type":"adventure","name":"Magic Research","icon":"📚","description":"Study ancient magic"},{"card_id":"preset-ai-014-equipment-1773788764373-7stp9h9tm","sub_type":"equipment","name":"Dragon Scale Armor","icon":"🛡️","description":"Armor made of dragon scales"},{"card_id":"preset-ai-014-equipment-1773788764373-zojig4lmo","sub_type":"equipment","name":"Sealing Scroll","icon":"📜","description":"Seal evil entities"},{"card_id":"preset-ai-014-equipment-1773788764373-ue0ydu60s","sub_type":"equipment","name":"Magic Wand","icon":"🪄","description":"Cast magic spells"},{"card_id":"preset-ai-014-equipment-1773788764373-0fqnmzk1g","sub_type":"equipment","name":"Grimoire","icon":"📖","description":"Book of magic"},{"card_id":"preset-ai-014-equipment-1773788764373-hwddmhjnq","sub_type":"equipment","name":"Dwarf Hammer","icon":"🔨","description":"Hammer forged by dwarves"},{"card_id":"preset-ai-014-equipment-1773788764373-6m7vvk5ob","sub_type":"equipment","name":"Fairy Ring","icon":"💍","description":"Blessing of the fairies"},{"card_id":"preset-ai-014-equipment-1773788764373-7u1lyccq6","sub_type":"equipment","name":"Summoning Stone","icon":"💎","description":"Summon creatures"},{"card_id":"preset-ai-014-equipment-1773788764373-u0fh97r6l","sub_type":"equipment","name":"Portal Rune","icon":"🌀","description":"Open portals"}]
+      plotCards: [{"card_id":"preset-ai-014-adventure-1773788764373-1dn1l2yy4","sub_type":"adventure","name":"Dimension Travel","icon":"🌀","description":"Travel to another world"},{"card_id":"preset-ai-014-adventure-1773788764373-6zs4j9pxn","sub_type":"adventure","name":"Magic Research","icon":"📚","description":"Study ancient magic"},{"card_id":"preset-ai-014-adventure-1773788764373-98mwkvw5k","sub_type":"adventure","name":"Guardian Mission","icon":"🛡️","description":"Protect something important"},{"card_id":"preset-ai-014-adventure-1773788764373-a7r2wvtd0","sub_type":"adventure","name":"Artifact Forging","icon":"🔨","description":"Forge legendary weapons"},{"card_id":"preset-ai-014-adventure-1773788764373-jvoet3nlf","sub_type":"adventure","name":"Time Travel","icon":"⏳","description":"Journey through time"},{"card_id":"preset-ai-014-adventure-1773788764373-l2hcnsgql","sub_type":"adventure","name":"Dwarf Alliance","icon":"⛏️","description":"Form alliance with dwarves"},{"card_id":"preset-ai-014-adventure-1773788764373-n65ysirf2","sub_type":"adventure","name":"Dragon Slaying","icon":"🐉","description":"Challenge the dragon"},{"card_id":"preset-ai-014-adventure-1773788764373-utik0jphb","sub_type":"adventure","name":"Fairy Alliance","icon":"🧚","description":"Form alliance with fairies"},{"card_id":"preset-ai-014-equipment-1773788764373-0fqnmzk1g","sub_type":"equipment","name":"Grimoire","icon":"📖","description":"Book of magic"},{"card_id":"preset-ai-014-equipment-1773788764373-6m7vvk5ob","sub_type":"equipment","name":"Fairy Ring","icon":"💍","description":"Blessing of the fairies"},{"card_id":"preset-ai-014-equipment-1773788764373-7stp9h9tm","sub_type":"equipment","name":"Dragon Scale Armor","icon":"🛡️","description":"Armor made of dragon scales"},{"card_id":"preset-ai-014-equipment-1773788764373-7u1lyccq6","sub_type":"equipment","name":"Summoning Stone","icon":"💎","description":"Summon creatures"},{"card_id":"preset-ai-014-equipment-1773788764373-hwddmhjnq","sub_type":"equipment","name":"Dwarf Hammer","icon":"🔨","description":"Hammer forged by dwarves"},{"card_id":"preset-ai-014-equipment-1773788764373-u0fh97r6l","sub_type":"equipment","name":"Portal Rune","icon":"🌀","description":"Open portals"},{"card_id":"preset-ai-014-equipment-1773788764373-ue0ydu60s","sub_type":"equipment","name":"Magic Wand","icon":"🪄","description":"Cast magic spells"},{"card_id":"preset-ai-014-equipment-1773788764373-zojig4lmo","sub_type":"equipment","name":"Sealing Scroll","icon":"📜","description":"Seal evil entities"},{"card_id":"preset-ai-014-terrain-1773788764373-4yeijh4pf","sub_type":"terrain","name":"Dwarf Mine","icon":"⛏️","description":"Dwarven mine"},{"card_id":"preset-ai-014-terrain-1773788764373-8a3as9qzk","sub_type":"terrain","name":"Sealed Land","icon":"🔒","description":"Place where demons are sealed"},{"card_id":"preset-ai-014-terrain-1773788764373-8cln3slpn","sub_type":"terrain","name":"Abyss","icon":"🕳️","description":"Endless abyss"},{"card_id":"preset-ai-014-terrain-1773788764373-bic40l2dm","sub_type":"terrain","name":"Ancient Ruins","icon":"🏛️","description":"Remains of ancient civilization"},{"card_id":"preset-ai-014-terrain-1773788764373-fup4ij1fr","sub_type":"terrain","name":"Time Fissure","icon":"⏳","description":"Time-distorted place"},{"card_id":"preset-ai-014-terrain-1773788764373-mx868y789","sub_type":"terrain","name":"Dragon's Lair","icon":"🐉","description":"Dragon's nest"},{"card_id":"preset-ai-014-terrain-1773788764373-p4xdco9ma","sub_type":"terrain","name":"Fairy Village","icon":"🧚","description":"Home of the fairies"},{"card_id":"preset-ai-014-terrain-1773788764373-r8mxzsw4w","sub_type":"terrain","name":"Temple","icon":"⛩️","description":"Sacred temple"},{"card_id":"preset-ai-014-weather-1773788764373-1k2x1tuxx","sub_type":"weather","name":"Awakening Light","icon":"🌟","description":"Light of power awakening"},{"card_id":"preset-ai-014-weather-1773788764373-612a5r11k","sub_type":"weather","name":"Aurora","icon":"🌌","description":"Beautiful magical aurora"},{"card_id":"preset-ai-014-weather-1773788764373-hp76z6yrq","sub_type":"weather","name":"Divine Light","icon":"✨","description":"Sacred radiance"},{"card_id":"preset-ai-014-weather-1773788764373-i8l3yu7qs","sub_type":"weather","name":"Time Rift","icon":"🕳️","description":"Distorted time-space fissure"},{"card_id":"preset-ai-014-weather-1773788764373-mhmxa5uuz","sub_type":"weather","name":"Eternal Dusk","icon":"🌆","description":"Never-ending dusk"},{"card_id":"preset-ai-014-weather-1773788764373-n41ajjtez","sub_type":"weather","name":"Magic Rain","icon":"💧","description":"Rain filled with magic"},{"card_id":"preset-ai-014-weather-1773788764373-racowkjx4","sub_type":"weather","name":"Elemental Turbulence","icon":"⚡","description":"Surging elemental energy"},{"card_id":"preset-ai-014-weather-1773788764373-t8umhup0y","sub_type":"weather","name":"Apocalypse Vision","icon":"🌋","description":"Signs of doomsday"}]
     };
     
     let currentView = 'chapters';
@@ -699,6 +714,8 @@
     document.addEventListener('DOMContentLoaded', function() {
       document.body.className = 'theme-fantasy';
       createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
     });
     
     function switchView(view, evt) {
@@ -721,11 +738,14 @@
       }
     }
     
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderChapters() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
-      const half = Math.ceil(chapters.length / 2);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = 'en' === 'zh';
       
@@ -734,21 +754,38 @@
         return chapters[pageIndex * 2].chapterId;
       }
       
-      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
     }
     
     function renderPlotCards() {
@@ -759,10 +796,6 @@
       const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
       const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
       
-      const half = Math.ceil(cards.length / 2);
-      const leftCards = cards.slice(0, half);
-      const rightCards = cards.slice(half);
-      
       function renderPlotCard(card, index) {
         return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
@@ -771,8 +804,14 @@
         '</div>';
       }
       
-      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
-      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
     }
     
     function showPlotCardDetail(cardId) {
@@ -797,23 +836,33 @@
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const characters = bookData.characters;
-      const half = Math.ceil(characters.length / 2);
       
-      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
     }
     
     function showCharacterDetail(index) {

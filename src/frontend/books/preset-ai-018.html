@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Writer's Last Stand - StoryBook</title>
   <meta name="description" content="The Writer's Last Stand - AI Interactive Story">
   <meta name="keywords" content="James, Sarah, Marcus, AI, creativity, consciousness, human, work">
@@ -447,6 +448,14 @@
         border-radius: 0;
       }
       
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -518,15 +527,24 @@
       }
       
       .action-buttons {
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 6px;
         margin-top: 10px;
       }
       
       .action-btn {
-        padding: 8px 12px;
-        font-size: 11px;
-        min-height: 36px;
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
       }
       
       .view-tabs {
@@ -636,21 +654,7 @@
                   <span class="chapter-number">Ch. IV</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">The Teaching</span>
-                </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="book-page right">
-        <div class="parchment-texture"></div>
-        <div class="page-edge top"></div>
-        <div class="page-edge right"></div>
-        <div class="page-edge bottom"></div>
-        <div class="page-content">
-          <div id="rightPageContent">
-            <div class="chapter-toc">
-              <a href="../chapters/chapter-ai018-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                </a><a href="../chapters/chapter-ai018-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
                   <span class="chapter-number">Ch. V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">The Legacy</span>
@@ -668,6 +672,17 @@
                   <span class="chapter-title">The Next Original Story</span>
                 </a>
             </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
           </div>
         </div>
       </div>
@@ -691,7 +706,7 @@
       type: 'fantasy',
       chapters: [{"chapterId":"chapter-ai018-01","title":"The Last Book","orderNum":1},{"chapterId":"chapter-ai018-02","title":"The Movement","orderNum":2},{"chapterId":"chapter-ai018-03","title":"The Challenge","orderNum":3},{"chapterId":"chapter-ai018-04","title":"The Teaching","orderNum":4},{"chapterId":"chapter-ai018-05","title":"The Legacy","orderNum":5},{"chapterId":"chapter-ai018-06","title":"The Future","orderNum":6},{"chapterId":"chapter-ai018-07","title":"The Recognition","orderNum":7},{"chapterId":"chapter-ai018-08","title":"The Next Original Story","orderNum":8}],
       characters: [{"charId":"char-ai018-001","name":"James","roleType":"Writer","personality":"Creative, authentic, passionate, resilient","avatar":"📚","isProtagonist":1},{"charId":"char-ai018-002","name":"Sarah","roleType":"Editor","personality":"Supportive, business-minded, evolving, appreciative","avatar":"📖","isProtagonist":0},{"charId":"char-ai018-003","name":"Marcus","roleType":"Student","personality":"Young, talented, searching, authentic","avatar":"✍️","isProtagonist":0}],
-      plotCards: [{"card_id":"preset-ai-018-weather-1773788764409-ff4rbcvfw","sub_type":"weather","name":"Magic Storm","icon":"🌀","description":"Storm filled with magic"},{"card_id":"preset-ai-018-weather-1773788764409-092a1wf2m","sub_type":"weather","name":"Darkness Falls","icon":"🌑","description":"Endless darkness"},{"card_id":"preset-ai-018-weather-1773788764409-d33bnbar9","sub_type":"weather","name":"Awakening Light","icon":"🌟","description":"Light of power awakening"},{"card_id":"preset-ai-018-weather-1773788764409-sdg3levft","sub_type":"weather","name":"Demon Fog","icon":"😈","description":"Demonic presence"},{"card_id":"preset-ai-018-weather-1773788764409-3scx8b5x2","sub_type":"weather","name":"Genesis Dawn","icon":"🌅","description":"Light of creation"},{"card_id":"preset-ai-018-weather-1773788764409-04rv56f9a","sub_type":"weather","name":"Blood Moon","icon":"🔴","description":"Mysterious blood moon night"},{"card_id":"preset-ai-018-weather-1773788764409-rdipqc8bo","sub_type":"weather","name":"Soul Fog","icon":"👻","description":"Fog filled with souls"},{"card_id":"preset-ai-018-weather-1773788764409-lxjacukg4","sub_type":"weather","name":"Falling Stars","icon":"💫","description":"Stars falling from sky"},{"card_id":"preset-ai-018-terrain-1773788764409-lr71kltfg","sub_type":"terrain","name":"Sky City","icon":"🏰","description":"City in the clouds"},{"card_id":"preset-ai-018-terrain-1773788764409-n69u7kkjv","sub_type":"terrain","name":"Dragon's Lair","icon":"🐉","description":"Dragon's nest"},{"card_id":"preset-ai-018-terrain-1773788764409-v43x9tdx4","sub_type":"terrain","name":"Mirror Dimension","icon":"🪞","description":"Mirror world"},{"card_id":"preset-ai-018-terrain-1773788764409-50kjm5z51","sub_type":"terrain","name":"Magic Forest","icon":"🌳","description":"Forest filled with magic"},{"card_id":"preset-ai-018-terrain-1773788764409-6cy00q266","sub_type":"terrain","name":"Temple","icon":"⛩️","description":"Sacred temple"},{"card_id":"preset-ai-018-terrain-1773788764409-h60s9rb00","sub_type":"terrain","name":"Magic Tower","icon":"🗼","description":"Towering magic tower"},{"card_id":"preset-ai-018-terrain-1773788764409-ehkffe61f","sub_type":"terrain","name":"Time Fissure","icon":"⏳","description":"Time-distorted place"},{"card_id":"preset-ai-018-terrain-1773788764409-0gj4dyj72","sub_type":"terrain","name":"Orc Territory","icon":"👹","description":"Orc domain"},{"card_id":"preset-ai-018-adventure-1773788764409-wp84w7how","sub_type":"adventure","name":"Dimension Travel","icon":"🌀","description":"Travel to another world"},{"card_id":"preset-ai-018-adventure-1773788764409-vl6qv8ywi","sub_type":"adventure","name":"Dragon Slaying","icon":"🐉","description":"Challenge the dragon"},{"card_id":"preset-ai-018-adventure-1773788764409-vcqdo2iab","sub_type":"adventure","name":"Guardian Mission","icon":"🛡️","description":"Protect something important"},{"card_id":"preset-ai-018-adventure-1773788764409-u14h3ea1b","sub_type":"adventure","name":"Element Fusion","icon":"🌈","description":"Merge elemental powers"},{"card_id":"preset-ai-018-adventure-1773788764409-nbuj5zhhi","sub_type":"adventure","name":"Artifact Hunt","icon":"⚔️","description":"Search for legendary artifacts"},{"card_id":"preset-ai-018-adventure-1773788764409-o2s15zmoi","sub_type":"adventure","name":"Elemental Awakening","icon":"🔥","description":"Master elemental powers"},{"card_id":"preset-ai-018-adventure-1773788764409-s5ivgajjl","sub_type":"adventure","name":"Curse Breaking","icon":"🔮","description":"Break ancient curses"},{"card_id":"preset-ai-018-adventure-1773788764409-zx07jn09x","sub_type":"adventure","name":"Time Travel","icon":"⏳","description":"Journey through time"},{"card_id":"preset-ai-018-equipment-1773788764409-frecfrw6e","sub_type":"equipment","name":"Magic Potion","icon":"🧪","description":"Various effect potions"},{"card_id":"preset-ai-018-equipment-1773788764409-wkjrfhb5k","sub_type":"equipment","name":"Fairy Ring","icon":"💍","description":"Blessing of the fairies"},{"card_id":"preset-ai-018-equipment-1773788764409-ukko02n0k","sub_type":"equipment","name":"Teleport Scroll","icon":"📜","description":"Instant teleportation"},{"card_id":"preset-ai-018-equipment-1773788764409-20g0qdyb6","sub_type":"equipment","name":"Amulet","icon":"🧿","description":"Protect the wearer"},{"card_id":"preset-ai-018-equipment-1773788764409-a2kaokz2n","sub_type":"equipment","name":"Dragon Scale Armor","icon":"🛡️","description":"Armor made of dragon scales"},{"card_id":"preset-ai-018-equipment-1773788764409-cdlrytljs","sub_type":"equipment","name":"Magic Cloak","icon":"🧥","description":"Invisibility and protection"},{"card_id":"preset-ai-018-equipment-1773788764409-bvxf695u0","sub_type":"equipment","name":"Elemental Staff","icon":"🔥","description":"Control elements"},{"card_id":"preset-ai-018-equipment-1773788764409-nybf04wje","sub_type":"equipment","name":"Dragon Heart","icon":"❤️","description":"Power of the dragon"}]
+      plotCards: [{"card_id":"preset-ai-018-adventure-1773788764409-nbuj5zhhi","sub_type":"adventure","name":"Artifact Hunt","icon":"⚔️","description":"Search for legendary artifacts"},{"card_id":"preset-ai-018-adventure-1773788764409-o2s15zmoi","sub_type":"adventure","name":"Elemental Awakening","icon":"🔥","description":"Master elemental powers"},{"card_id":"preset-ai-018-adventure-1773788764409-s5ivgajjl","sub_type":"adventure","name":"Curse Breaking","icon":"🔮","description":"Break ancient curses"},{"card_id":"preset-ai-018-adventure-1773788764409-u14h3ea1b","sub_type":"adventure","name":"Element Fusion","icon":"🌈","description":"Merge elemental powers"},{"card_id":"preset-ai-018-adventure-1773788764409-vcqdo2iab","sub_type":"adventure","name":"Guardian Mission","icon":"🛡️","description":"Protect something important"},{"card_id":"preset-ai-018-adventure-1773788764409-vl6qv8ywi","sub_type":"adventure","name":"Dragon Slaying","icon":"🐉","description":"Challenge the dragon"},{"card_id":"preset-ai-018-adventure-1773788764409-wp84w7how","sub_type":"adventure","name":"Dimension Travel","icon":"🌀","description":"Travel to another world"},{"card_id":"preset-ai-018-adventure-1773788764409-zx07jn09x","sub_type":"adventure","name":"Time Travel","icon":"⏳","description":"Journey through time"},{"card_id":"preset-ai-018-equipment-1773788764409-20g0qdyb6","sub_type":"equipment","name":"Amulet","icon":"🧿","description":"Protect the wearer"},{"card_id":"preset-ai-018-equipment-1773788764409-a2kaokz2n","sub_type":"equipment","name":"Dragon Scale Armor","icon":"🛡️","description":"Armor made of dragon scales"},{"card_id":"preset-ai-018-equipment-1773788764409-bvxf695u0","sub_type":"equipment","name":"Elemental Staff","icon":"🔥","description":"Control elements"},{"card_id":"preset-ai-018-equipment-1773788764409-cdlrytljs","sub_type":"equipment","name":"Magic Cloak","icon":"🧥","description":"Invisibility and protection"},{"card_id":"preset-ai-018-equipment-1773788764409-frecfrw6e","sub_type":"equipment","name":"Magic Potion","icon":"🧪","description":"Various effect potions"},{"card_id":"preset-ai-018-equipment-1773788764409-nybf04wje","sub_type":"equipment","name":"Dragon Heart","icon":"❤️","description":"Power of the dragon"},{"card_id":"preset-ai-018-equipment-1773788764409-ukko02n0k","sub_type":"equipment","name":"Teleport Scroll","icon":"📜","description":"Instant teleportation"},{"card_id":"preset-ai-018-equipment-1773788764409-wkjrfhb5k","sub_type":"equipment","name":"Fairy Ring","icon":"💍","description":"Blessing of the fairies"},{"card_id":"preset-ai-018-terrain-1773788764409-0gj4dyj72","sub_type":"terrain","name":"Orc Territory","icon":"👹","description":"Orc domain"},{"card_id":"preset-ai-018-terrain-1773788764409-50kjm5z51","sub_type":"terrain","name":"Magic Forest","icon":"🌳","description":"Forest filled with magic"},{"card_id":"preset-ai-018-terrain-1773788764409-6cy00q266","sub_type":"terrain","name":"Temple","icon":"⛩️","description":"Sacred temple"},{"card_id":"preset-ai-018-terrain-1773788764409-ehkffe61f","sub_type":"terrain","name":"Time Fissure","icon":"⏳","description":"Time-distorted place"},{"card_id":"preset-ai-018-terrain-1773788764409-h60s9rb00","sub_type":"terrain","name":"Magic Tower","icon":"🗼","description":"Towering magic tower"},{"card_id":"preset-ai-018-terrain-1773788764409-lr71kltfg","sub_type":"terrain","name":"Sky City","icon":"🏰","description":"City in the clouds"},{"card_id":"preset-ai-018-terrain-1773788764409-n69u7kkjv","sub_type":"terrain","name":"Dragon's Lair","icon":"🐉","description":"Dragon's nest"},{"card_id":"preset-ai-018-terrain-1773788764409-v43x9tdx4","sub_type":"terrain","name":"Mirror Dimension","icon":"🪞","description":"Mirror world"},{"card_id":"preset-ai-018-weather-1773788764409-04rv56f9a","sub_type":"weather","name":"Blood Moon","icon":"🔴","description":"Mysterious blood moon night"},{"card_id":"preset-ai-018-weather-1773788764409-092a1wf2m","sub_type":"weather","name":"Darkness Falls","icon":"🌑","description":"Endless darkness"},{"card_id":"preset-ai-018-weather-1773788764409-3scx8b5x2","sub_type":"weather","name":"Genesis Dawn","icon":"🌅","description":"Light of creation"},{"card_id":"preset-ai-018-weather-1773788764409-d33bnbar9","sub_type":"weather","name":"Awakening Light","icon":"🌟","description":"Light of power awakening"},{"card_id":"preset-ai-018-weather-1773788764409-ff4rbcvfw","sub_type":"weather","name":"Magic Storm","icon":"🌀","description":"Storm filled with magic"},{"card_id":"preset-ai-018-weather-1773788764409-lxjacukg4","sub_type":"weather","name":"Falling Stars","icon":"💫","description":"Stars falling from sky"},{"card_id":"preset-ai-018-weather-1773788764409-rdipqc8bo","sub_type":"weather","name":"Soul Fog","icon":"👻","description":"Fog filled with souls"},{"card_id":"preset-ai-018-weather-1773788764409-sdg3levft","sub_type":"weather","name":"Demon Fog","icon":"😈","description":"Demonic presence"}]
     };
     
     let currentView = 'chapters';
@@ -699,6 +714,8 @@
     document.addEventListener('DOMContentLoaded', function() {
       document.body.className = 'theme-fantasy';
       createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
     });
     
     function switchView(view, evt) {
@@ -721,11 +738,14 @@
       }
     }
     
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderChapters() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
-      const half = Math.ceil(chapters.length / 2);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = 'en' === 'zh';
       
@@ -734,21 +754,38 @@
         return chapters[pageIndex * 2].chapterId;
       }
       
-      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
     }
     
     function renderPlotCards() {
@@ -759,10 +796,6 @@
       const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
       const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
       
-      const half = Math.ceil(cards.length / 2);
-      const leftCards = cards.slice(0, half);
-      const rightCards = cards.slice(half);
-      
       function renderPlotCard(card, index) {
         return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
@@ -771,8 +804,14 @@
         '</div>';
       }
       
-      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
-      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
     }
     
     function showPlotCardDetail(cardId) {
@@ -797,23 +836,33 @@
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const characters = bookData.characters;
-      const half = Math.ceil(characters.length / 2);
       
-      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
     }
     
     function showCharacterDetail(index) {

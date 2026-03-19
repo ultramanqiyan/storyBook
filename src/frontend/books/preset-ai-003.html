@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Pink Slip Protocol - StoryBook</title>
   <meta name="description" content="The Pink Slip Protocol - AI Interactive Story">
   <meta name="keywords" content="Elena, Marcus, Sarah, AI, creativity, consciousness, human, work">
@@ -447,6 +448,14 @@
         border-radius: 0;
       }
       
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -518,15 +527,24 @@
       }
       
       .action-buttons {
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 6px;
         margin-top: 10px;
       }
       
       .action-btn {
-        padding: 8px 12px;
-        font-size: 11px;
-        min-height: 36px;
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
       }
       
       .view-tabs {
@@ -636,21 +654,7 @@
                   <span class="chapter-number">Ch. IV</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">The Weight</span>
-                </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="book-page right">
-        <div class="parchment-texture"></div>
-        <div class="page-edge top"></div>
-        <div class="page-edge right"></div>
-        <div class="page-edge bottom"></div>
-        <div class="page-content">
-          <div id="rightPageContent">
-            <div class="chapter-toc">
-              <a href="../chapters/chapter-ai003-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                </a><a href="../chapters/chapter-ai003-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
                   <span class="chapter-number">Ch. V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">The Resignation</span>
@@ -668,6 +672,17 @@
                   <span class="chapter-title">The Human Protocol</span>
                 </a>
             </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
           </div>
         </div>
       </div>
@@ -691,7 +706,7 @@
       type: 'business',
       chapters: [{"chapterId":"chapter-ai003-01","title":"The List","orderNum":1},{"chapterId":"chapter-ai003-02","title":"The Conversation","orderNum":2},{"chapterId":"chapter-ai003-03","title":"The Exception","orderNum":3},{"chapterId":"chapter-ai003-04","title":"The Weight","orderNum":4},{"chapterId":"chapter-ai003-05","title":"The Resignation","orderNum":5},{"chapterId":"chapter-ai003-06","title":"A New Protocol","orderNum":6},{"chapterId":"chapter-ai003-07","title":"The Ripple Effect","orderNum":7},{"chapterId":"chapter-ai003-08","title":"The Human Protocol","orderNum":8}],
       characters: [{"charId":"char-ai003-001","name":"Elena","roleType":"HR Manager","personality":"Compassionate, conflicted, professional, secretly struggling with guilt","avatar":"👩‍💼","isProtagonist":1},{"charId":"char-ai003-002","name":"Marcus","roleType":"AI Systems Director","personality":"Coldly efficient, believes in progress, dismissive of sentiment","avatar":"👨‍💻","isProtagonist":0},{"charId":"char-ai003-003","name":"Sarah","roleType":"Former Content Director","personality":"Resilient, reflective, finding new purpose, understanding","avatar":"👩‍💼","isProtagonist":0}],
-      plotCards: [{"card_id":"preset-ai-003-weather-1773788764321-6u9qwaglg","sub_type":"weather","name":"Snowy","icon":"❄️","description":"Snowing"},{"card_id":"preset-ai-003-weather-1773788764321-sk0ucobrd","sub_type":"weather","name":"Sunny","icon":"☀️","description":"Clear weather"},{"card_id":"preset-ai-003-weather-1773788764321-wnvnmqti0","sub_type":"weather","name":"Partly Cloudy","icon":"⛅","description":"Partly cloudy"},{"card_id":"preset-ai-003-weather-1773788764321-frhrl41p0","sub_type":"weather","name":"Fog","icon":"🌫️","description":"Thick fog"},{"card_id":"preset-ai-003-weather-1773788764321-17choac24","sub_type":"weather","name":"Clear Night","icon":"🌙","description":"Clear night sky"},{"card_id":"preset-ai-003-weather-1773788764321-73i7je3a3","sub_type":"weather","name":"Typhoon","icon":"🌀","description":"Typhoon approaching"},{"card_id":"preset-ai-003-weather-1773788764321-2o4wctj05","sub_type":"weather","name":"Tornado","icon":"🌪️","description":"Tornado"},{"card_id":"preset-ai-003-weather-1773788764321-mhdp8sdn0","sub_type":"weather","name":"Light Rain","icon":"🌦️","description":"Drizzling"},{"card_id":"preset-ai-003-terrain-1773788764321-tjb7qw1dv","sub_type":"terrain","name":"Airport","icon":"✈️","description":"Business travel airport"},{"card_id":"preset-ai-003-terrain-1773788764321-c5mjb8997","sub_type":"terrain","name":"Client Company","icon":"🏛️","description":"Client's office"},{"card_id":"preset-ai-003-terrain-1773788764321-k67lj5ems","sub_type":"terrain","name":"Factory","icon":"🏭","description":"Production factory"},{"card_id":"preset-ai-003-terrain-1773788764321-p3je7n0hz","sub_type":"terrain","name":"Coffee Shop","icon":"☕","description":"Business meeting place"},{"card_id":"preset-ai-003-terrain-1773788764321-kunw75lr2","sub_type":"terrain","name":"Park","icon":"🌳","description":"Nearby park"},{"card_id":"preset-ai-003-terrain-1773788764321-vwqd36lr7","sub_type":"terrain","name":"Training Room","icon":"📚","description":"Training and learning"},{"card_id":"preset-ai-003-terrain-1773788764321-lfvm29d8u","sub_type":"terrain","name":"Warehouse","icon":"📦","description":"Logistics warehouse"},{"card_id":"preset-ai-003-terrain-1773788764321-4agigdgbd","sub_type":"terrain","name":"Office Building","icon":"🏬","description":"Modern office building"},{"card_id":"preset-ai-003-adventure-1773788764321-zvlxh66ie","sub_type":"adventure","name":"Innovation","icon":"💡","description":"Technical innovation"},{"card_id":"preset-ai-003-adventure-1773788764321-wz1ljnbat","sub_type":"adventure","name":"Bidding","icon":"📊","description":"Project bidding"},{"card_id":"preset-ai-003-adventure-1773788764321-x5horbrdy","sub_type":"adventure","name":"Transformation","icon":"🔄","description":"Strategic transformation"},{"card_id":"preset-ai-003-adventure-1773788764321-2ayovu01z","sub_type":"adventure","name":"Merger","icon":"🏢","description":"Company merger"},{"card_id":"preset-ai-003-adventure-1773788764321-1bl6r1jfd","sub_type":"adventure","name":"Breakthrough","icon":"🎯","description":"Break through困境"},{"card_id":"preset-ai-003-adventure-1773788764321-8aq5om4o7","sub_type":"adventure","name":"Persistence","icon":"🛡️","description":"Hold the ground"},{"card_id":"preset-ai-003-adventure-1773788764321-8w2egliol","sub_type":"adventure","name":"Negotiation","icon":"🤝","description":"Business negotiation"},{"card_id":"preset-ai-003-adventure-1773788764321-vi6znu3tp","sub_type":"adventure","name":"IPO","icon":"📈","description":"Company goes public"},{"card_id":"preset-ai-003-equipment-1773788764321-60ajr4i5h","sub_type":"equipment","name":"Translator","icon":"🗣️","description":"Cross-border communication"},{"card_id":"preset-ai-003-equipment-1773788764321-yjhk39eai","sub_type":"equipment","name":"Pen","icon":"🖊️","description":"Signing pen"},{"card_id":"preset-ai-003-equipment-1773788764321-2m1ru27w3","sub_type":"equipment","name":"Printer","icon":"🖨️","description":"Document printing"},{"card_id":"preset-ai-003-equipment-1773788764321-hcfav15qv","sub_type":"equipment","name":"Projector","icon":"📽️","description":"Presentation equipment"},{"card_id":"preset-ai-003-equipment-1773788764321-14ujsan8s","sub_type":"equipment","name":"Display Board","icon":"🖼️","description":"Presentation materials"},{"card_id":"preset-ai-003-equipment-1773788764321-yg2r5sqm7","sub_type":"equipment","name":"Scanner","icon":"📠","description":"Document scanning"},{"card_id":"preset-ai-003-equipment-1773788764321-o6ozsbfgn","sub_type":"equipment","name":"Tablet","icon":"📱","description":"Mobile office"},{"card_id":"preset-ai-003-equipment-1773788764321-exugtrj8g","sub_type":"equipment","name":"Laptop","icon":"💻","description":"Work essential"}]
+      plotCards: [{"card_id":"preset-ai-003-adventure-1773788764321-1bl6r1jfd","sub_type":"adventure","name":"Breakthrough","icon":"🎯","description":"Break through困境"},{"card_id":"preset-ai-003-adventure-1773788764321-2ayovu01z","sub_type":"adventure","name":"Merger","icon":"🏢","description":"Company merger"},{"card_id":"preset-ai-003-adventure-1773788764321-8aq5om4o7","sub_type":"adventure","name":"Persistence","icon":"🛡️","description":"Hold the ground"},{"card_id":"preset-ai-003-adventure-1773788764321-8w2egliol","sub_type":"adventure","name":"Negotiation","icon":"🤝","description":"Business negotiation"},{"card_id":"preset-ai-003-adventure-1773788764321-vi6znu3tp","sub_type":"adventure","name":"IPO","icon":"📈","description":"Company goes public"},{"card_id":"preset-ai-003-adventure-1773788764321-wz1ljnbat","sub_type":"adventure","name":"Bidding","icon":"📊","description":"Project bidding"},{"card_id":"preset-ai-003-adventure-1773788764321-x5horbrdy","sub_type":"adventure","name":"Transformation","icon":"🔄","description":"Strategic transformation"},{"card_id":"preset-ai-003-adventure-1773788764321-zvlxh66ie","sub_type":"adventure","name":"Innovation","icon":"💡","description":"Technical innovation"},{"card_id":"preset-ai-003-equipment-1773788764321-14ujsan8s","sub_type":"equipment","name":"Display Board","icon":"🖼️","description":"Presentation materials"},{"card_id":"preset-ai-003-equipment-1773788764321-2m1ru27w3","sub_type":"equipment","name":"Printer","icon":"🖨️","description":"Document printing"},{"card_id":"preset-ai-003-equipment-1773788764321-60ajr4i5h","sub_type":"equipment","name":"Translator","icon":"🗣️","description":"Cross-border communication"},{"card_id":"preset-ai-003-equipment-1773788764321-exugtrj8g","sub_type":"equipment","name":"Laptop","icon":"💻","description":"Work essential"},{"card_id":"preset-ai-003-equipment-1773788764321-hcfav15qv","sub_type":"equipment","name":"Projector","icon":"📽️","description":"Presentation equipment"},{"card_id":"preset-ai-003-equipment-1773788764321-o6ozsbfgn","sub_type":"equipment","name":"Tablet","icon":"📱","description":"Mobile office"},{"card_id":"preset-ai-003-equipment-1773788764321-yg2r5sqm7","sub_type":"equipment","name":"Scanner","icon":"📠","description":"Document scanning"},{"card_id":"preset-ai-003-equipment-1773788764321-yjhk39eai","sub_type":"equipment","name":"Pen","icon":"🖊️","description":"Signing pen"},{"card_id":"preset-ai-003-terrain-1773788764321-4agigdgbd","sub_type":"terrain","name":"Office Building","icon":"🏬","description":"Modern office building"},{"card_id":"preset-ai-003-terrain-1773788764321-c5mjb8997","sub_type":"terrain","name":"Client Company","icon":"🏛️","description":"Client's office"},{"card_id":"preset-ai-003-terrain-1773788764321-k67lj5ems","sub_type":"terrain","name":"Factory","icon":"🏭","description":"Production factory"},{"card_id":"preset-ai-003-terrain-1773788764321-kunw75lr2","sub_type":"terrain","name":"Park","icon":"🌳","description":"Nearby park"},{"card_id":"preset-ai-003-terrain-1773788764321-lfvm29d8u","sub_type":"terrain","name":"Warehouse","icon":"📦","description":"Logistics warehouse"},{"card_id":"preset-ai-003-terrain-1773788764321-p3je7n0hz","sub_type":"terrain","name":"Coffee Shop","icon":"☕","description":"Business meeting place"},{"card_id":"preset-ai-003-terrain-1773788764321-tjb7qw1dv","sub_type":"terrain","name":"Airport","icon":"✈️","description":"Business travel airport"},{"card_id":"preset-ai-003-terrain-1773788764321-vwqd36lr7","sub_type":"terrain","name":"Training Room","icon":"📚","description":"Training and learning"},{"card_id":"preset-ai-003-weather-1773788764321-17choac24","sub_type":"weather","name":"Clear Night","icon":"🌙","description":"Clear night sky"},{"card_id":"preset-ai-003-weather-1773788764321-2o4wctj05","sub_type":"weather","name":"Tornado","icon":"🌪️","description":"Tornado"},{"card_id":"preset-ai-003-weather-1773788764321-6u9qwaglg","sub_type":"weather","name":"Snowy","icon":"❄️","description":"Snowing"},{"card_id":"preset-ai-003-weather-1773788764321-73i7je3a3","sub_type":"weather","name":"Typhoon","icon":"🌀","description":"Typhoon approaching"},{"card_id":"preset-ai-003-weather-1773788764321-frhrl41p0","sub_type":"weather","name":"Fog","icon":"🌫️","description":"Thick fog"},{"card_id":"preset-ai-003-weather-1773788764321-mhdp8sdn0","sub_type":"weather","name":"Light Rain","icon":"🌦️","description":"Drizzling"},{"card_id":"preset-ai-003-weather-1773788764321-sk0ucobrd","sub_type":"weather","name":"Sunny","icon":"☀️","description":"Clear weather"},{"card_id":"preset-ai-003-weather-1773788764321-wnvnmqti0","sub_type":"weather","name":"Partly Cloudy","icon":"⛅","description":"Partly cloudy"}]
     };
     
     let currentView = 'chapters';
@@ -699,6 +714,8 @@
     document.addEventListener('DOMContentLoaded', function() {
       document.body.className = 'theme-business';
       createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
     });
     
     function switchView(view, evt) {
@@ -721,11 +738,14 @@
       }
     }
     
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderChapters() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
-      const half = Math.ceil(chapters.length / 2);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = 'en' === 'zh';
       
@@ -734,21 +754,38 @@
         return chapters[pageIndex * 2].chapterId;
       }
       
-      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
     }
     
     function renderPlotCards() {
@@ -759,10 +796,6 @@
       const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
       const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
       
-      const half = Math.ceil(cards.length / 2);
-      const leftCards = cards.slice(0, half);
-      const rightCards = cards.slice(half);
-      
       function renderPlotCard(card, index) {
         return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
@@ -771,8 +804,14 @@
         '</div>';
       }
       
-      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
-      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
     }
     
     function showPlotCardDetail(cardId) {
@@ -797,23 +836,33 @@
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const characters = bookData.characters;
-      const half = Math.ceil(characters.length / 2);
       
-      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
     }
     
     function showCharacterDetail(index) {

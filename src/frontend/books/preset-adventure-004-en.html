@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Polar Expedition - StoryBook</title>
   <meta name="description" content="Polar Expedition - AI Interactive Story">
   <meta name="keywords" content="Crystal, Frost, Dr. Chen, AI, creativity, consciousness, human, work">
@@ -447,6 +448,14 @@
         border-radius: 0;
       }
       
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -518,15 +527,24 @@
       }
       
       .action-buttons {
-        flex-wrap: wrap;
-        gap: 8px;
+        flex-wrap: nowrap;
+        gap: 6px;
         margin-top: 10px;
       }
       
       .action-btn {
-        padding: 8px 12px;
-        font-size: 11px;
-        min-height: 36px;
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
       }
       
       .view-tabs {
@@ -640,21 +658,7 @@
                   <span class="chapter-number">Ch. V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Warning from the Iceberg</span>
-                </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="book-page right">
-        <div class="parchment-texture"></div>
-        <div class="page-edge top"></div>
-        <div class="page-edge right"></div>
-        <div class="page-edge bottom"></div>
-        <div class="page-content">
-          <div id="rightPageContent">
-            <div class="chapter-toc">
-              <a href="../chapters/chapter-adv004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                </a><a href="../chapters/chapter-adv004-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
                   <span class="chapter-number">Ch. VI</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Power of Unity</span>
@@ -679,6 +683,17 @@
           </div>
         </div>
       </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   
@@ -699,7 +714,7 @@
       type: 'adventure',
       chapters: [{"chapterId":"chapter-adv004-01-en","title":"Call of the Arctic","orderNum":1},{"chapterId":"chapter-adv004-02-en","title":"Onto the Ice","orderNum":2},{"chapterId":"chapter-adv004-03-en","title":"The Polar Bear's Request","orderNum":3},{"chapterId":"chapter-adv004-04-en","title":"Secret of the Ice Cave","orderNum":4},{"chapterId":"chapter-adv004-05-en","title":"Warning from the Iceberg","orderNum":5},{"chapterId":"chapter-adv004-06-en","title":"Power of Unity","orderNum":6},{"chapterId":"chapter-adv004-07-en","title":"Revelation Under the Aurora","orderNum":7},{"chapterId":"chapter-adv004-08-en","title":"The Disappearing Glacier","orderNum":8},{"chapterId":"chapter-adv004-09-en","title":"Global Action","orderNum":9},{"chapterId":"chapter-adv004-10-en","title":"Arctic Guardian","orderNum":10}],
       characters: [{"charId":"char-adv004-001-en","name":"Crystal","roleType":"Polar Explorer","personality":"calm, analytical, loves ice and snow","avatar":"👧","isProtagonist":1},{"charId":"char-adv004-002-en","name":"Frost","roleType":"Polar Bear Spirit","personality":"gentle giant, powerful, protective","avatar":"🐻‍❄️","isProtagonist":0},{"charId":"char-adv004-003-en","name":"Dr. Chen","roleType":"Polar Scientist","personality":"serious, passionate, environmentalist","avatar":"👨‍🔬","isProtagonist":0}],
-      plotCards: [{"card_id":"preset-adventure-004-en-weather-1773788764301-vh8u5vo71","sub_type":"weather","name":"Starry Night","icon":"🌙","description":"Star-filled night"},{"card_id":"preset-adventure-004-en-weather-1773788764301-oi7bj973t","sub_type":"weather","name":"Snowy","icon":"❄️","description":"Snow-covered scenery"},{"card_id":"preset-adventure-004-en-weather-1773788764301-8bnd9i3jl","sub_type":"weather","name":"Sunny","icon":"☀️","description":"Bright and sunny weather"},{"card_id":"preset-adventure-004-en-weather-1773788764301-d34stpx3k","sub_type":"weather","name":"Meteor Shower","icon":"🌠","description":"Brilliant meteors"},{"card_id":"preset-adventure-004-en-weather-1773788764301-3o4nfmisa","sub_type":"weather","name":"Rainbow","icon":"🌈","description":"Beautiful rainbow"},{"card_id":"preset-adventure-004-en-weather-1773788764301-vbaqq2g5f","sub_type":"weather","name":"Aurora","icon":"🌌","description":"Beautiful northern lights"},{"card_id":"preset-adventure-004-en-weather-1773788764301-j0z13ilux","sub_type":"weather","name":"Fog","icon":"😷","description":"Hazy fog"},{"card_id":"preset-adventure-004-en-weather-1773788764301-cts6lpybx","sub_type":"weather","name":"Blue Sky","icon":"🌤️","description":"Clear blue sky"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-td4s91eop","sub_type":"terrain","name":"Forest","icon":"🌲","description":"Mysterious forest"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-1oqj2wyrz","sub_type":"terrain","name":"Lake","icon":"🏞️","description":"Calm lake"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-ccng9pmv5","sub_type":"terrain","name":"Waterfall","icon":"💦","description":"Magnificent waterfall"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-nfosn0vsn","sub_type":"terrain","name":"Rainforest","icon":"🌴","description":"Dense rainforest"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-f69dlsek7","sub_type":"terrain","name":"Snow Mountain","icon":"🗻","description":"Snowy mountain"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-0midnta54","sub_type":"terrain","name":"Wetland","icon":"🌾","description":"Lush wetland"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-xh92uowvt","sub_type":"terrain","name":"Canyon","icon":"🏔️","description":"Deep canyon"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-lwj1axl2o","sub_type":"terrain","name":"Grassland","icon":"🌿","description":"Vast grassland"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-98iwi323f","sub_type":"adventure","name":"Maze","icon":"🌀","description":"Explore mysterious maze"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-8bfiv2lu4","sub_type":"adventure","name":"Discover Secrets","icon":"🔮","description":"Uncover hidden secrets"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-46litao1c","sub_type":"adventure","name":"Exploration","icon":"🧭","description":"Explore unknown places"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-c1ovtu346","sub_type":"adventure","name":"Animal Watching","icon":"🦋","description":"Observe cute animals"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-b59ec9713","sub_type":"adventure","name":"Hot Air Balloon","icon":"🎈","description":"Fly in a hot air balloon"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-kem74alk3","sub_type":"adventure","name":"Diving","icon":"🤿","description":"Explore underwater world"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-majg59vnn","sub_type":"adventure","name":"Hiking","icon":"🚶","description":"Hiking trip"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-t4v7b4a9p","sub_type":"adventure","name":"Mountain Climbing","icon":"🧗","description":"Climb the peak"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-6iv37frtm","sub_type":"equipment","name":"Microscope","icon":"🔬","description":"Observe microscopic world"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-liv44v3ux","sub_type":"equipment","name":"Flashlight","icon":"🔦","description":"Light up the darkness"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-uknwk2vtm","sub_type":"equipment","name":"Backpack","icon":"🎒","description":"Carry supplies"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-4qhdvjgz7","sub_type":"equipment","name":"Tent","icon":"⛺","description":"Camping shelter"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-wpfkwe0c2","sub_type":"equipment","name":"Compass","icon":"🧭","description":"Find directions"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-z4l045zyq","sub_type":"equipment","name":"Sleeping Bag","icon":"🛏️","description":"Sleep outdoors"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-2beopy0fr","sub_type":"equipment","name":"Cookware","icon":"🍳","description":"Outdoor cooking"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-bymy0st9n","sub_type":"equipment","name":"Lantern","icon":"💡","description":"Lighting equipment"}]
+      plotCards: [{"card_id":"preset-adventure-004-en-adventure-1773788764301-46litao1c","sub_type":"adventure","name":"Exploration","icon":"🧭","description":"Explore unknown places"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-8bfiv2lu4","sub_type":"adventure","name":"Discover Secrets","icon":"🔮","description":"Uncover hidden secrets"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-98iwi323f","sub_type":"adventure","name":"Maze","icon":"🌀","description":"Explore mysterious maze"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-b59ec9713","sub_type":"adventure","name":"Hot Air Balloon","icon":"🎈","description":"Fly in a hot air balloon"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-c1ovtu346","sub_type":"adventure","name":"Animal Watching","icon":"🦋","description":"Observe cute animals"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-kem74alk3","sub_type":"adventure","name":"Diving","icon":"🤿","description":"Explore underwater world"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-majg59vnn","sub_type":"adventure","name":"Hiking","icon":"🚶","description":"Hiking trip"},{"card_id":"preset-adventure-004-en-adventure-1773788764301-t4v7b4a9p","sub_type":"adventure","name":"Mountain Climbing","icon":"🧗","description":"Climb the peak"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-2beopy0fr","sub_type":"equipment","name":"Cookware","icon":"🍳","description":"Outdoor cooking"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-4qhdvjgz7","sub_type":"equipment","name":"Tent","icon":"⛺","description":"Camping shelter"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-6iv37frtm","sub_type":"equipment","name":"Microscope","icon":"🔬","description":"Observe microscopic world"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-bymy0st9n","sub_type":"equipment","name":"Lantern","icon":"💡","description":"Lighting equipment"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-liv44v3ux","sub_type":"equipment","name":"Flashlight","icon":"🔦","description":"Light up the darkness"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-uknwk2vtm","sub_type":"equipment","name":"Backpack","icon":"🎒","description":"Carry supplies"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-wpfkwe0c2","sub_type":"equipment","name":"Compass","icon":"🧭","description":"Find directions"},{"card_id":"preset-adventure-004-en-equipment-1773788764301-z4l045zyq","sub_type":"equipment","name":"Sleeping Bag","icon":"🛏️","description":"Sleep outdoors"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-0midnta54","sub_type":"terrain","name":"Wetland","icon":"🌾","description":"Lush wetland"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-1oqj2wyrz","sub_type":"terrain","name":"Lake","icon":"🏞️","description":"Calm lake"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-ccng9pmv5","sub_type":"terrain","name":"Waterfall","icon":"💦","description":"Magnificent waterfall"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-f69dlsek7","sub_type":"terrain","name":"Snow Mountain","icon":"🗻","description":"Snowy mountain"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-lwj1axl2o","sub_type":"terrain","name":"Grassland","icon":"🌿","description":"Vast grassland"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-nfosn0vsn","sub_type":"terrain","name":"Rainforest","icon":"🌴","description":"Dense rainforest"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-td4s91eop","sub_type":"terrain","name":"Forest","icon":"🌲","description":"Mysterious forest"},{"card_id":"preset-adventure-004-en-terrain-1773788764301-xh92uowvt","sub_type":"terrain","name":"Canyon","icon":"🏔️","description":"Deep canyon"},{"card_id":"preset-adventure-004-en-weather-1773788764301-3o4nfmisa","sub_type":"weather","name":"Rainbow","icon":"🌈","description":"Beautiful rainbow"},{"card_id":"preset-adventure-004-en-weather-1773788764301-8bnd9i3jl","sub_type":"weather","name":"Sunny","icon":"☀️","description":"Bright and sunny weather"},{"card_id":"preset-adventure-004-en-weather-1773788764301-cts6lpybx","sub_type":"weather","name":"Blue Sky","icon":"🌤️","description":"Clear blue sky"},{"card_id":"preset-adventure-004-en-weather-1773788764301-d34stpx3k","sub_type":"weather","name":"Meteor Shower","icon":"🌠","description":"Brilliant meteors"},{"card_id":"preset-adventure-004-en-weather-1773788764301-j0z13ilux","sub_type":"weather","name":"Fog","icon":"😷","description":"Hazy fog"},{"card_id":"preset-adventure-004-en-weather-1773788764301-oi7bj973t","sub_type":"weather","name":"Snowy","icon":"❄️","description":"Snow-covered scenery"},{"card_id":"preset-adventure-004-en-weather-1773788764301-vbaqq2g5f","sub_type":"weather","name":"Aurora","icon":"🌌","description":"Beautiful northern lights"},{"card_id":"preset-adventure-004-en-weather-1773788764301-vh8u5vo71","sub_type":"weather","name":"Starry Night","icon":"🌙","description":"Star-filled night"}]
     };
     
     let currentView = 'chapters';
@@ -707,6 +722,8 @@
     document.addEventListener('DOMContentLoaded', function() {
       document.body.className = 'theme-adventure';
       createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
     });
     
     function switchView(view, evt) {
@@ -729,11 +746,14 @@
       }
     }
     
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderChapters() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
-      const half = Math.ceil(chapters.length / 2);
       const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
       const isZh = 'en' === 'zh';
       
@@ -742,21 +762,38 @@
         return chapters[pageIndex * 2].chapterId;
       }
       
-      leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-        '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
-          '<span class="chapter-dots"></span>' +
-          '<span class="chapter-title">' + ch.title + '</span>' +
-        '</a>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
     }
     
     function renderPlotCards() {
@@ -767,10 +804,6 @@
       const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
       const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
       
-      const half = Math.ceil(cards.length / 2);
-      const leftCards = cards.slice(0, half);
-      const rightCards = cards.slice(half);
-      
       function renderPlotCard(card, index) {
         return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
           '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
@@ -779,8 +812,14 @@
         '</div>';
       }
       
-      leftContent.innerHTML = '<div class="plot-grid-view">' + leftCards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
-      rightContent.innerHTML = '<div class="plot-grid-view">' + rightCards.map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
     }
     
     function showPlotCardDetail(cardId) {
@@ -805,23 +844,33 @@
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
       const characters = bookData.characters;
-      const half = Math.ceil(characters.length / 2);
       
-      leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
-      
-      rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
-        '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
-          '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
-          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
-          '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
-        '</div>'
-      ).join('') + '</div>';
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
     }
     
     function showCharacterDetail(index) {
