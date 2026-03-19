@@ -1,18 +1,12 @@
 # Chapter 8: The Mirror
 
-**MONTH 6 (continued)**
-
 Alex started to see clearly.
-
----
 
 **THE RESEARCH**
 
 Alex began investigating.
 
-Not openly - they couldn't risk Marcus finding out. But quietly, carefully, they started asking questions.
-
----
+Not openly—they couldn't risk Marcus finding out. But quietly, carefully, they started asking questions.
 
 **THE PATTERN**
 
@@ -36,8 +30,6 @@ Taylor laughed bitterly. "No. But only because I stopped trying. I do my job, I 
 
 The words landed like a blow.
 
----
-
 **THE DATA**
 
 Alex started tracking.
@@ -46,17 +38,13 @@ They looked at the team composition over the past three years. They looked at wh
 
 The pattern was clear:
 
-| Group | Promoted | Pushed Out | Stagnant |
-|-------|----------|------------|----------|
-| White men | 3 | 0 | 2 |
-| Women | 0 | 4 | 1 |
-| People of color | 0 | 3 | 2 |
+- **White men:** 3 promoted, 0 pushed out, 2 stagnant
+- **Women:** 0 promoted, 4 pushed out, 1 stagnant
+- **People of color:** 0 promoted, 3 pushed out, 2 stagnant
 
 *Every person pushed out in three years was a woman or person of color.*
 
 *Every person promoted was a white man.*
-
----
 
 **THE CONVERSATION**
 
@@ -84,13 +72,11 @@ Sarah looked at Alex for a long moment.
 
 "We survive. Or we leave. Those are the options."
 
----
-
 **THE MIRROR**
 
 Alex couldn't accept that.
 
-They started talking to other people - quietly, carefully. Not just on their team, but across the company.
+They started talking to other people—quietly, carefully. Not just on their team, but across the company.
 
 And the stories were the same.
 
@@ -101,8 +87,6 @@ A Latina designer who'd been PIPed after reporting a manager for harassment.
 An Asian PM who'd been "managed out" after questioning a strategic decision.
 
 *This isn't just Marcus. This is the system.*
-
----
 
 **THE HR MEETING**
 
@@ -116,7 +100,7 @@ Jennifer listened politely.
 
 *Misinterpreting.*
 
-"Marcus is a high-performing manager. He's developed several people who've gone on to successful careers. The PIP process is standard - we use it to help employees improve."
+"Marcus is a high-performing manager. He's developed several people who've gone on to successful careers. The PIP process is standard—we use it to help employees improve."
 
 "Help them improve? Or push them out?"
 
@@ -125,8 +109,6 @@ Jennifer's expression hardened. "Alex, I'd encourage you to focus on your own pe
 *Distracted.*
 
 The message was clear: *Stop asking questions, or you'll be next.*
-
----
 
 **THE ALLY**
 
@@ -137,8 +119,6 @@ But then they got a message from someone unexpected.
 **David Park:** *Hey, heard you've been asking questions about Marcus. Can we talk?*
 
 David was the PM who'd left Meridian six months ago. Alex had heard he'd "found a better opportunity," but now they wondered.
-
----
 
 **THE MEETING**
 
@@ -164,8 +144,6 @@ Alex shared their documentation. The data. The pattern.
 
 David nodded slowly. "You're not crazy. This is real. And it's not just Marcus. It's the culture. The system. The way they operate."
 
----
-
 **THE QUESTION**
 
 "What do I do?" Alex asked.
@@ -182,8 +160,6 @@ David was quiet for a moment.
 
 David smiled sadly. "That's a harder road. And I can't tell you if it's the right one. But I can tell you this: you're not alone. There are others who've seen it. Who are watching. Who are waiting for someone to speak up."
 
----
-
 **THE NETWORK**
 
 Over the next few weeks, Alex quietly built a network.
@@ -192,13 +168,11 @@ They talked to former employees who'd left. They talked to current employees who
 
 And they documented everything.
 
-Not just their own experience - everyone's experience. The stories. The data. The pattern.
+Not just their own experience—everyone's experience. The stories. The data. The pattern.
 
 By the end of the month, they had a 50-page document.
 
 *This is the truth. This is what's happening.*
-
----
 
 **THE DECISION**
 
@@ -220,10 +194,4 @@ They thought about Sarah. About Taylor. About all the people who'd been pushed o
 
 They thought about David's words: *You're not alone.*
 
----
-
 **END OF CHAPTER 8**
-
----
-
-*Chapter 8 is the mirror. Alex sees the pattern clearly - not just their own experience, but the systemic nature of the manipulation. The data reveals that women and people of color are disproportionately pushed out. HR is complicit. The network of allies grows. Alex faces the choice: leave or fight. The reader should feel the shift from personal struggle to systemic awareness.*

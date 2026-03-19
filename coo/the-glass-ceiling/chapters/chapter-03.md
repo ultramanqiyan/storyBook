@@ -1,14 +1,10 @@
 # Chapter 3: The First Crack
 
-**MONTH 1**
-
 The first month at Meridian was a blur.
 
-Alex worked long hours - not because they had to, but because they wanted to. They wanted to prove they belonged. They wanted to show Marcus that his investment in them was justified.
+Alex worked long hours—not because they had to, but because they wanted to. They wanted to prove they belonged. They wanted to show Marcus that his investment in them was justified.
 
 They wanted to be a Meridian person.
-
----
 
 **THE PROJECT**
 
@@ -18,11 +14,9 @@ The feature enhancement was on track. The engineering team was responsive. The s
 
 They scheduled a 1:1 with Marcus to give an update.
 
----
-
 **THE 1:1**
 
-Marcus's office was sparse - a desk, a whiteboard, a few family photos. He gestured for Alex to sit.
+Marcus's office was sparse—a desk, a whiteboard, a few family photos. He gestured for Alex to sit.
 
 "So, how's it going?"
 
@@ -40,7 +34,7 @@ The words landed like a punch.
 
 "What kind of areas?"
 
-Marcus smiled - the same warm smile he'd given Alex in their interview. "Don't worry, this is normal. Everyone has areas for growth. That's how we get better."
+Marcus smiled—the same warm smile he'd given Alex in their interview. "Don't worry, this is normal. Everyone has areas for growth. That's how we get better."
 
 He pulled up a document on his screen.
 
@@ -56,8 +50,6 @@ Alex nodded slowly. "Okay. I can do that."
 
 Marcus's smile widened. "I know you can. That's why I'm telling you this. I believe in you, Alex. I want to help you grow."
 
----
-
 **THE DOUBT**
 
 After the meeting, Alex walked back to their desk in a daze.
@@ -70,8 +62,6 @@ They pulled up their project notes and stared at them.
 
 *What am I missing? What's the bigger picture?*
 
----
-
 **THE LATE NIGHT**
 
 Alex stayed late that night.
@@ -81,8 +71,6 @@ They rewrote their project documentation. They added strategic context to every 
 By 10 PM, they had a new version ready to share with Marcus.
 
 They sent it to him and headed home.
-
----
 
 **THE RESPONSE**
 
@@ -97,8 +85,6 @@ Alex stared at the email.
 But yesterday, they'd been too detail-oriented and missing the bigger picture.
 
 Which was it?
-
----
 
 **THE CONVERSATION**
 
@@ -120,8 +106,6 @@ Alex felt like they were losing their mind.
 
 Marcus smiled. "That's what I'm here to help you with. It takes time. Be patient with yourself."
 
----
-
 **THE PATTERN**
 
 Over the next few weeks, a pattern emerged.
@@ -138,8 +122,6 @@ Alex would work hard on something. Marcus would give feedback. The feedback woul
 
 Always "but." Always something to improve. Always just out of reach.
 
----
-
 **THE COMPARISON**
 
 Alex started comparing themselves to the other PMs.
@@ -153,8 +135,6 @@ Sarah was... Sarah. Quiet. Tired. Going through the motions.
 And Sam. Sam was always anxious, always checking their phone, always worried about something.
 
 *Is this what happens to people here?*
-
----
 
 **THE BREAKTHROUGH**
 
@@ -177,8 +157,6 @@ For the first time in weeks, Alex felt like they'd done something right.
 "Thank you, Marcus."
 
 He smiled. "See? You're learning. I knew you had it in you."
-
----
 
 **THE HIGH**
 
@@ -204,8 +182,6 @@ Alex stared at the message.
 
 *I hope you're right.*
 
----
-
 Alex put down their phone.
 
 Rachel didn't understand. She'd never worked at a place like Meridian. She didn't know what it took to succeed here.
@@ -214,10 +190,4 @@ Rachel didn't understand. She'd never worked at a place like Meridian. She didn'
 
 That had to mean something.
 
----
-
 **END OF CHAPTER 3**
-
----
-
-*Chapter 3 introduces the first crack - the subtle criticism that plants doubt. Marcus's feedback is contradictory and impossible to satisfy, keeping Alex off-balance and striving. The intermittent reinforcement (one "good job" after weeks of criticism) creates dependency. Rachel's skepticism grows, but Alex is too invested to see the pattern. The reader should feel the confusion and self-doubt that comes from gaslighting.*

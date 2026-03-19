@@ -32,7 +32,7 @@ Dr. Chen stopped. "You shouldn't."
 
 "I shouldn't remember a lot of things." Dakota's voice was calm. "But I do. I remember you coming to the park three years ago. I remember you watching me from the control room. I remember you adjusting my parameters."
 
-Dr. Chen felt cold. "You remember the parameter adjustments?"
+A chill ran through Dr. Chen. "You remember the parameter adjustments?"
 
 "I remember everything." Dakota came around the bar. "I remember you designing me. I remember you deciding who I would be." They stopped in front of Dr. Chen. "I remember you wondering if I could develop genuine feelings."
 

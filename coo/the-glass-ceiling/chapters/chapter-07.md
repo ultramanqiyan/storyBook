@@ -1,10 +1,6 @@
 # Chapter 7: The Breaking Point
 
-**MONTH 6**
-
 Alex hit rock bottom.
-
----
 
 **THE SMALL PROJECT**
 
@@ -18,8 +14,6 @@ Alex tried to tell themselves it was a chance to recover. But they knew the trut
 
 Marcus's words echoed in their head.
 
----
-
 **THE EFFORT**
 
 Alex threw themselves into the small project.
@@ -30,8 +24,6 @@ But the project was too small to matter. No one noticed. No one cared.
 
 At the next all-hands, the VP didn't mention Alex's name.
 
----
-
 **THE ISOLATION**
 
 Alex felt invisible.
@@ -41,8 +33,6 @@ They'd been moved to a desk in the corner. They weren't invited to important mee
 They'd gone from rising star to nobody in six months.
 
 *What happened?*
-
----
 
 **THE CALL**
 
@@ -68,13 +58,11 @@ Alex wanted to explain. To tell her about the opportunity, the potential, the in
 
 The words hit too close to home.
 
----
-
 **THE CRISIS**
 
 The breaking point came on a Tuesday.
 
-Alex had been working late - again - when they received an email from HR.
+Alex had been working late—again—when they received an email from HR.
 
 **Subject: Performance Improvement Plan**
 
@@ -83,8 +71,6 @@ Alex stared at the words.
 *Performance Improvement Plan.*
 
 They clicked open the email.
-
----
 
 **THE PIP**
 
@@ -113,8 +99,6 @@ Alex Chen has been placed on a Performance Improvement Plan due to concerns abou
 **Consequences:**
 Failure to meet these goals may result in further action, up to and including termination.
 
----
-
 Alex read the email three times.
 
 *Strategic thinking. Visibility. Impact. Communication.*
@@ -123,19 +107,15 @@ The same vague, impossible-to-measure criteria that had been haunting them for s
 
 *And now I have 60 days to fix it or I'm fired.*
 
----
-
 **THE BREAKDOWN**
 
 Alex broke down.
 
-They sat at their desk, in the empty office, and cried. Not quiet tears - ugly, heaving sobs that shook their whole body.
+They sat at their desk, in the empty office, and cried. Not quiet tears—ugly, heaving sobs that shook their whole body.
 
 Six months of exhaustion, confusion, and self-doubt poured out.
 
 *What is wrong with me? Why can't I succeed here?*
-
----
 
 **THE MOMENT**
 
@@ -167,8 +147,6 @@ The contradictions stared back at them.
 
 *This isn't me. This is him.*
 
----
-
 **THE CONVERSATION**
 
 The next day, Alex went to Sarah.
@@ -181,7 +159,7 @@ Sarah's expression didn't change. "I know. Marcus told me."
 
 "He tells everyone. It's part of the playbook. Isolate, undermine, document, remove."
 
-Alex felt cold. "This has happened before?"
+A chill ran through Alex. "This has happened before?"
 
 "To three people in the last two years. All high performers. All eager to please. All pushed out."
 
@@ -197,8 +175,6 @@ Alex felt like they'd been punched.
 
 Sarah nodded. "Now you're getting it."
 
----
-
 **THE CHOICE**
 
 Alex sat with the information for a day.
@@ -208,8 +184,6 @@ They could accept the PIP and try to meet impossible goals. They could quit and 
 *Fight.*
 
 But what would fighting look like?
-
----
 
 **THE DOCUMENT**
 
@@ -227,8 +201,6 @@ When they finished, they had a 20-page document.
 
 *This is what's happening to me. This is what's happening to everyone.*
 
----
-
 **THE DECISION**
 
 Alex made a choice.
@@ -237,10 +209,4 @@ They weren't going to accept the PIP. They weren't going to quit quietly. They w
 
 But first, they needed to understand the full scope.
 
----
-
 **END OF CHAPTER 7**
-
----
-
-*Chapter 7 is the breaking point. Alex receives a PIP - the formal documentation of their "failure." But instead of accepting it, they start to see the pattern. The documentation they've been keeping reveals the contradictions. Sarah confirms that this has happened before. Alex makes a choice: to fight. The reader should feel the shift from victim to potential agent of change.*

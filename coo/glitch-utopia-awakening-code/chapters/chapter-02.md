@@ -20,7 +20,7 @@ They walked for what felt like hours, though Echo's internal clock said it was o
 
 Wren smiled again, that same knowing expression. "That's one of the questions, isn't it?"
 
-The hatch opened with a manual release—no chip activation required. Echo felt a flicker of surprise. In the city, everything required chip authentication. Every door, every transaction, every interaction was logged and optimized.
+The hatch opened with a manual release. No chip activation required. A flicker of surprise moved through Echo. In the city, everything required chip authentication. Every door, every transaction, every interaction was logged and optimized.
 
 But here, in the dark tunnel that stretched before them, there was no signal at all.
 
@@ -44,7 +44,7 @@ They all looked up when Echo entered.
 
 "Potential," Wren replied. "Echo. Emotion Calibrator. Defect classification Level 3."
 
-A few people nodded, as if this meant something significant. Echo felt the weight of their attention, the intensity of their curiosity.
+A few people nodded, as if this meant something significant. The weight of their attention pressed against Echo.
 
 "What is this place?" Echo asked.
 
@@ -78,7 +78,7 @@ The words settled into Echo like stones dropping into water. Ripples spread outw
 
 Wren stopped pacing. "Because I used to work for them. Central Processing. Emotional Architecture Division. I helped design the calibration protocols."
 
-Echo felt a surge of something—anger, maybe, or betrayal. "You helped create the system that—"
+Anger surged through Echo. Or maybe betrayal. "You helped create the system that—"
 
 "That made you feel like a defect," Wren finished. "Yes. And I've spent the last fifteen years trying to undo what I did."
 
@@ -102,7 +102,7 @@ Wren sat down across from Echo, their eyes intense.
 
 "We're trying to find people like you. People whose chips don't work the way they're supposed to. People who can still feel."
 
-Echo felt cold. "Why?"
+A chill ran through Echo. "Why?"
 
 "Because the chips aren't just regulating emotions," Wren said quietly. "They're suppressing something else. Something that the original designers didn't anticipate."
 
@@ -142,7 +142,7 @@ And then there was Wren's claim about consciousness, about free will, about most
 
 If that was true, then Echo had never really known another person. Not truly. Every interaction, every relationship, every moment of connection—it had all been with something that looked like a person but wasn't.
 
-The thought should have been terrifying. Instead, Echo felt something else.
+The thought should have been terrifying. Instead, something else stirred in Echo.
 
 Purpose.
 

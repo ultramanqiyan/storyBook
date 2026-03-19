@@ -1,10 +1,6 @@
 # Chapter 6: The Gaslight
 
-**MONTH 5**
-
 Alex started to question their own mind.
-
----
 
 **THE INCIDENT**
 
@@ -16,7 +12,7 @@ But when they arrived at his office, Marcus looked confused.
 
 "Alex, I don't have you on my calendar. Are you sure we had a meeting?"
 
-Alex pulled out their phone. "Yes, we scheduled it last week. Tuesday at 2 PM. You said -"
+Alex pulled out their phone. "Yes, we scheduled it last week. Tuesday at 2 PM. You said—"
 
 Marcus shook his head. "I don't remember that. I've been in back-to-back meetings all day. I think you might be confused."
 
@@ -33,8 +29,6 @@ But Marcus was looking at them with concern.
 But Marcus's certainty made them doubt.
 
 *Did I imagine it? Am I losing my mind?*
-
----
 
 **THE PATTERN**
 
@@ -54,8 +48,6 @@ Alex would remember a conversation one way. Marcus would remember it differently
 
 *Did I misunderstand? Am I remembering wrong?*
 
----
-
 **THE DOCUMENTATION**
 
 Alex started documenting everything.
@@ -71,8 +63,6 @@ But when they brought up the documentation, Marcus would say:
 *Not trusting. That's bad. I should trust my manager.*
 
 But the documentation was the only thing keeping Alex sane.
-
----
 
 **THE BREAKDOWN**
 
@@ -91,8 +81,6 @@ They'd been working 15-hour days. They'd delivered the project on time. They'd d
 They couldn't sleep that night. They replayed every interaction, every piece of feedback, every conversation.
 
 *What am I doing wrong? What am I missing?*
-
----
 
 **THE CONVERSATION**
 
@@ -118,15 +106,13 @@ Marcus stood up and came around the desk. He put a hand on Alex's shoulder.
 
 *Time off? After you just said I'm not having impact?*
 
-"I can't take time off. I have another project -"
+"I can't take time off. I have another project—"
 
 "The project will be fine. Jordan can take it over. You need to take care of yourself."
 
 Alex felt like they were in a nightmare.
 
 *He's taking my project away. Because I'm burned out. Because I've been working too hard. Because he made me work too hard.*
-
----
 
 **THE TIME OFF**
 
@@ -160,8 +146,6 @@ Alex wanted to believe her. But Marcus's voice was louder in their head.
 
 *You're not stepping up. You're defensive. You're burned out.*
 
----
-
 **THE RETURN**
 
 Alex came back to work after a week.
@@ -175,8 +159,6 @@ Jordan had taken over their project. The team had moved on. Alex was assigned to
 Alex sat at their desk, staring at their screen.
 
 *What am I doing here?*
-
----
 
 **THE MIRROR**
 
@@ -206,10 +188,4 @@ The words hit Alex like a physical blow.
 
 Sarah shrugged. "I don't know if it's conscious. But it's the result. Look around, Alex. Everyone on this team is either new and eager, or burned out and going through the motions. No one is thriving. No one is growing. We're all just... surviving."
 
----
-
 **END OF CHAPTER 6**
-
----
-
-*Chapter 6 is the gaslighting. Alex's perception of reality is systematically undermined. They start documenting everything, but even that is used against them. The burnout is weaponized - Marcus takes away their project and gives them less important work. Sarah's revelation about the team's pattern is the first clear articulation of what's happening. The reader should feel the disorientation and the growing awareness that something is deeply wrong.*

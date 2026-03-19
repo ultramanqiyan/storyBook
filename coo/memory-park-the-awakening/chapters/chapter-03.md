@@ -64,7 +64,7 @@ Now she watched that balance shatter.
 
 The technician checked the logs. "Two thousand eight hundred and forty-seven cycles. The memory wipe has been failing for... all of them."
 
-Dr. Chen felt cold. "Every cycle? They remember every death?"
+A chill ran through Dr. Chen. "Every cycle? They remember every death?"
 
 "Every interaction, every narrative, every death. The memory buffer is full. It's been overwriting itself for months, but the core memories—the traumatic ones—they're preserved."
 

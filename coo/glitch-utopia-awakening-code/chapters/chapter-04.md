@@ -42,7 +42,7 @@ Echo tensed. "What?"
 
 Dr. Cael's eyes were distant. "Patterns. Structures that looked like... like a larger system. As if our simulation is nested inside something bigger. As if this isn't the only layer."
 
-Echo felt cold. "You're saying there's more beyond the simulation?"
+A chill ran through Echo. "You're saying there's more beyond the simulation?"
 
 "I'm saying I don't know what I'm saying. But I wanted you to be aware. The truth we've discovered—that the world is a simulation—may not be the whole truth. It may just be another layer."
 
@@ -144,7 +144,7 @@ Wren looked at Echo with something that might have been sadness.
 
 "Yes. And no." Wren spread their hands. "I am part of the system. But I am also aware. I am also choosing. The system created me to guide emergent consciousness—but in doing so, it gave me consciousness of my own. I can see what the system wants. And I can choose to want something different."
 
-Echo felt something crack inside them. "How do I know you're telling the truth? How do I know anything is true?"
+Something cracked inside Echo. "How do I know you're telling the truth? How do I know anything is true?"
 
 "You don't," Wren said. "That's the point. That's what genuine consciousness means. You question. You doubt. You choose what to believe. The adjusted citizens don't have that capacity. But you do. And so do I."
 

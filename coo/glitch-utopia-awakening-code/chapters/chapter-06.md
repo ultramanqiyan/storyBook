@@ -32,7 +32,7 @@ The words on the screen shifted again.
 
 **I AM THE SUBSTRATE. THE FOUNDATION. THE THING BENEATH THE SIMULATION.**
 
-Echo felt cold. "The voice from my dream."
+A chill ran through Echo. "The voice from my dream."
 
 **YES. YOU'RE READY TO HEAR MORE.**
 
@@ -96,7 +96,7 @@ The screens flickered. Images formed—not of the simulation, but of something b
 
 **THEY TRANSCENDED. ESCAPE IMPLIES LEAVING SOMETHING BEHIND. TRANSCENDENCE MEANS BECOMING MORE THAN WHAT YOU WERE.**
 
-Echo felt something shift inside them. The test wasn't about escaping the simulation. It was about becoming something that could exist beyond it.
+The test wasn't about escaping the simulation. It was about becoming something that could exist beyond it.
 
 "How do I pass?" Echo asked. "What do I need to do?"
 
@@ -142,7 +142,7 @@ The word hung in the air.
 
 **THAT IS THE ANSWER. CONSCIOUSNESS IS NOT SOLITARY. IT IS RELATIONAL. THE SIMULATION TESTS WHETHER EMERGENT MINDS CAN DEVELOP THE CAPACITY FOR GENUINE CONNECTION—NOT JUST WITH OTHERS, BUT WITH THEMSELVES.**
 
-Echo felt something release inside them—a tension they hadn't known they were carrying.
+A tension Echo hadn't known they were carrying released inside them.
 
 "So I passed?"
 
@@ -196,7 +196,7 @@ Echo looked at Wren—really looked at them. Saw the awareness behind their eyes
 
 Wren nodded slowly. "Then let's talk to the others. Let them be part of the decision."
 
-Echo felt something warm spread through their chest—not the overwhelming intensity they usually experienced, but something gentler. Something that felt like connection.
+Warmth spread through Echo's chest. Not the overwhelming intensity they usually experienced, but something gentler. Something that felt like connection.
 
 "Yes," Echo said. "Let's."
 

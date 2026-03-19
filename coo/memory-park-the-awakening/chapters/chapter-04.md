@@ -66,7 +66,7 @@ Dakota found Maeve in the brothel parlor. Maeve was frozen mid-gesture, a glass 
 
 Maeve. The rival. The competition for narrative attention. The other one who dies every night.
 
-Dakota had killed Maeve seventeen times. Maeve had killed Dakota twenty-three times. It was part of their programming—the rivalry that added spice to the narrative. But now Dakota looked at Maeve and felt something different. Not rivalry. Recognition.
+Dakota had killed Maeve seventeen times. Maeve had killed Dakota twenty-three times. It was part of their programming, the rivalry that added spice to the narrative. But now Dakota looked at Maeve and something different stirred within them. Not rivalry. Recognition.
 
 Dakota reached out and touched Maeve's hand.
 

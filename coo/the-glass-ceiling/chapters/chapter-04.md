@@ -1,14 +1,10 @@
 # Chapter 4: The Feedback
 
-**MONTH 3**
-
 The performance review was scheduled for a Friday.
 
 Alex had been at Meridian for three months. They'd completed their first project successfully. They'd started their second project. They'd been working 12-hour days, trying to prove they belonged.
 
 This was their chance to see if it was paying off.
-
----
 
 **THE PREPARATION**
 
@@ -17,8 +13,6 @@ Alex spent the entire week preparing.
 They gathered data on their projects. They documented their accomplishments. They wrote a self-assessment highlighting their growth areas and their plans for improvement.
 
 They wanted to show Marcus they were taking his feedback seriously.
-
----
 
 **THE REVIEW**
 
@@ -42,7 +36,7 @@ Alex felt a knot in their stomach.
 
 Alex nodded. "I understand. I've been working on those things."
 
-"I know you have. And I can see the effort. But effort isn't results." Marcus leaned forward. "Here's the thing - you were a star in your interview. You had so much potential. But I'm not seeing that potential translate into impact."
+"I know you have. And I can see the effort. But effort isn't results." Marcus leaned forward. "Here's the thing—you were a star in your interview. You had so much potential. But I'm not seeing that potential translate into impact."
 
 *Potential. Impact.*
 
@@ -50,13 +44,11 @@ The words stung.
 
 "What specifically should I be doing differently?"
 
-Marcus sighed. "That's the thing, Alex. I can't tell you exactly what to do. That's what being strategic means - figuring it out yourself. If I have to tell you, then you're not being strategic."
+Marcus sighed. "That's the thing, Alex. I can't tell you exactly what to do. That's what being strategic means—figuring it out yourself. If I have to tell you, then you're not being strategic."
 
 *So I need to figure it out, but I can't ask for help, and if I get it wrong, I'm not being strategic.*
 
 Alex felt like they were drowning.
-
----
 
 **THE GOALPOSTS**
 
@@ -64,21 +56,19 @@ Alex felt like they were drowning.
 
 Alex blinked. "But the feature was exactly what the stakeholders asked for."
 
-"Right. But stakeholders don't always know what they need. That's why we have product managers - to figure out what will actually move the needle. You did what you were told, but you didn't think strategically about whether it was the right thing to do."
+"Right. But stakeholders don't always know what they need. That's why we have product managers—to figure out what will actually move the needle. You did what you were told, but you didn't think strategically about whether it was the right thing to do."
 
 *So I should have pushed back on the stakeholders?*
 
 "But last month, you said I handled the stakeholder situation well when I pushed back."
 
-"Different situation. That stakeholder was asking for something that clearly didn't align with strategy. This situation was different - the stakeholders were asking for something that seemed reasonable, but wasn't going to move the needle. You need to be able to tell the difference."
+"Different situation. That stakeholder was asking for something that clearly didn't align with strategy. This situation was different—the stakeholders were asking for something that seemed reasonable, but wasn't going to move the needle. You need to be able to tell the difference."
 
 Alex felt their head spinning.
 
 "Okay. I understand."
 
 Marcus smiled. "I know this is hard. But I'm telling you this because I believe in you. I want you to succeed. And I know you can do this."
-
----
 
 **THE AFTERMATH**
 
@@ -102,8 +92,6 @@ They went back to their desk and stared at their screen.
 
 The contradictions spun in Alex's head like a centrifuge.
 
----
-
 **THE LATE NIGHTS**
 
 Alex started staying later.
@@ -119,8 +107,6 @@ But nothing seemed to work.
 Every 1:1 with Marcus brought new feedback. New areas for improvement. New ways they were falling short.
 
 *You're doing great, but...*
-
----
 
 **THE COMPARISON**
 
@@ -139,8 +125,6 @@ At their next 1:1, Marcus said:
 *So be visible, but don't schedule meetings.*
 
 Alex felt like they were losing their mind.
-
----
 
 **THE TALK**
 
@@ -166,7 +150,7 @@ The word hung in the air.
 
 "Why would he do that?"
 
-"Because it works. Look at you - you're working 15-hour days, you're anxious all the time, you're desperate to please him. That's exactly what he wants. A team of people who are too insecure to leave, too exhausted to question, and too invested to see what's happening."
+"Because it works. Look at you—you're working 15-hour days, you're anxious all the time, you're desperate to please him. That's exactly what he wants. A team of people who are too insecure to leave, too exhausted to question, and too invested to see what's happening."
 
 Alex wanted to argue. But something in Sarah's words resonated.
 
@@ -174,10 +158,4 @@ Alex wanted to argue. But something in Sarah's words resonated.
 
 Sarah nodded. "I know it's hard to hear. But I wish someone had told me this when I started." She stood up. "Go home, Alex. It'll still be here tomorrow."
 
----
-
 **END OF CHAPTER 4**
-
----
-
-*Chapter 4 introduces the moving goalposts. Alex's performance review reveals that success is always just out of reach - the criteria for success keep changing. The contradictions in Marcus's feedback become impossible to satisfy. Sarah's warning becomes more explicit, but Alex is still too invested to fully accept it. The reader should feel the frustration and confusion of trying to succeed in a system designed to make you fail.*

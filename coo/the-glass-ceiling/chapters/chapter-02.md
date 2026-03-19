@@ -1,20 +1,12 @@
 # Chapter 2: The Family
 
-**WEEK 1**
-
 The onboarding was unlike anything Alex had experienced.
 
----
-
-**MERIDIAN UNIVERSITY**
-
-New hires were required to complete "Meridian University" - a week-long immersion program designed to teach the company's culture, values, and ways of working.
-
-Alex sat in a conference room with thirty other new employees - engineers, designers, marketers, product managers. They were from different backgrounds, different countries, different life experiences. But they all shared one thing: they'd made it to Meridian.
+New hires were required to complete "Meridian University"—a week-long immersion program designed to teach the company's culture, values, and ways of working. Alex sat in a conference room with thirty other new employees—engineers, designers, marketers, product managers. They were from different backgrounds, different countries, different life experiences. But they all shared one thing: they'd made it to Meridian.
 
 The facilitator, a perky woman named Lisa, began with a video.
 
-On the screen, Meridian's CEO appeared. He was young - maybe 40 - with the kind of casual confidence that came from being a billionaire.
+On the screen, Meridian's CEO appeared. He was young—maybe 40—with the kind of casual confidence that came from being a billionaire.
 
 "Welcome to Meridian," he said. "You're here because you're the best. But more importantly, you're here because you believe in what we're building. We're not just a company. We're a movement. A family. And now, you're part of that family."
 
@@ -22,17 +14,15 @@ On the screen, Meridian's CEO appeared. He was young - maybe 40 - with the kind 
 
 The word stuck with Alex.
 
----
-
 **THE VALUES**
 
 Lisa led the group through Meridian's core values:
 
-1. **We Put People First** - Employees are our greatest asset
-2. **We Dream Big** - No idea is too ambitious
-3. **We Move Fast** - Speed is a competitive advantage
-4. **We're Transparent** - Information should flow freely
-5. **We're a Family** - We take care of our own
+1. **We Put People First** — Employees are our greatest asset
+2. **We Dream Big** — No idea is too ambitious
+3. **We Move Fast** — Speed is a competitive advantage
+4. **We're Transparent** — Information should flow freely
+5. **We're a Family** — We take care of our own
 
 "These aren't just words on a wall," Lisa said. "These are how we operate every day. When you're here, you're not just an employee. You're a Meridian person."
 
@@ -40,37 +30,31 @@ Lisa led the group through Meridian's core values:
 
 Alex liked the sound of that.
 
----
-
 **THE TEAM**
 
 On Day 3, Alex met their team.
 
 There were six product managers in Marcus's group:
 
-| Name | Role | Vibe |
-|------|------|------|
-| **Sarah Kim** | PM, 2 years at Meridian | Quiet, tired, going through the motions |
-| **Jordan Patel** | PM, 1 year at Meridian | Enthusiastic, still in the honeymoon phase |
-| **Taylor Quinn** | PM, 3 years at Meridian | Cynical, but good at hiding it |
-| **Sam Rodriguez** | PM, 6 months at Meridian | Anxious, always checking their phone |
-| **Alex Chen** | PM, new | Eager, hopeful, ready to prove themselves |
+- **Sarah Kim** — PM, 2 years at Meridian. Quiet, tired, going through the motions.
+- **Jordan Patel** — PM, 1 year at Meridian. Enthusiastic, still in the honeymoon phase.
+- **Taylor Quinn** — PM, 3 years at Meridian. Cynical, but good at hiding it.
+- **Sam Rodriguez** — PM, 6 months at Meridian. Anxious, always checking their phone.
+- **Alex Chen** — PM, new. Eager, hopeful, ready to prove themselves.
 
 Marcus gathered them in a conference room.
 
 "Team, I want you to meet Alex. They're joining us from Stanford, and I'm really excited about what they're going to bring to the table." He turned to Alex. "Tell us a little about yourself."
 
-Alex gave their prepared introduction - background, interests, why they wanted to work at Meridian.
+Alex gave their prepared introduction—background, interests, why they wanted to work at Meridian.
 
 When they finished, Marcus nodded. "Great. Alex, I'm pairing you with Sarah for your first project. She'll show you the ropes."
 
 Sarah looked up. Her eyes were flat. "Sure."
 
----
-
 **THE FIRST PROJECT**
 
-Sarah walked Alex through the project - a feature enhancement for Meridian's core product.
+Sarah walked Alex through the project—a feature enhancement for Meridian's core product.
 
 "It's not glamorous," she said. "But it's a good way to learn the systems."
 
@@ -82,13 +66,11 @@ Sarah looked at them for a long moment.
 
 "Of course."
 
-"Don't... don't let this place consume you. It's easy to get caught up in the mission, the family, the 'we're changing the world' stuff. But at the end of the day, it's just a job. Remember that."
+"Don't let this place consume you. It's easy to get caught up in the mission, the family, the 'we're changing the world' stuff. But at the end of the day, it's just a job. Remember that."
 
 Alex blinked. "I... okay. Thanks?"
 
 Sarah shook her head. "Forget I said anything. Let's get started."
-
----
 
 **THE PERKS**
 
@@ -110,17 +92,15 @@ When Alex mentioned this to Jordan, Jordan laughed.
 
 Alex made a mental note: be visible.
 
----
-
 **THE SOCIAL**
 
 On Friday, Marcus organized a team dinner.
 
 "We do this every month," he explained. "Team bonding. We're a family, and families eat together."
 
-The dinner was at a trendy restaurant in Palo Alto. Marcus ordered wine for the table. The conversation flowed easily - work stories, personal lives, dreams for the future.
+The dinner was at a trendy restaurant in Palo Alto. Marcus ordered wine for the table. The conversation flowed easily—work stories, personal lives, dreams for the future.
 
-Alex felt... included. Like they belonged.
+Alex felt included. Like they belonged.
 
 At one point, Marcus raised his glass.
 
@@ -129,8 +109,6 @@ At one point, Marcus raised his glass.
 Everyone raised their glasses. "To Alex!"
 
 Alex felt tears prick at their eyes. They'd never felt this kind of belonging before.
-
----
 
 **THE INVESTMENT**
 
@@ -142,7 +120,7 @@ Alex considered lying, but something about Marcus made them want to be honest.
 
 "I'm loving it. But I'm also... overwhelmed. There's so much to learn."
 
-Marcus nodded. "That's normal. And I want you to know - I'm here for you. I invested in you because I believe in you. And I'm going to do everything I can to help you succeed."
+Marcus nodded. "That's normal. And I want you to know—I'm here for you. I invested in you because I believe in you. And I'm going to do everything I can to help you succeed."
 
 He leaned forward.
 
@@ -154,8 +132,6 @@ Alex felt a rush of gratitude.
 
 Marcus smiled. "We're a family here. And families take care of each other."
 
----
-
 **THE PATTERN BEGINS**
 
 That night, Alex texted their sister Rachel:
@@ -164,7 +140,7 @@ That night, Alex texted their sister Rachel:
 
 Rachel's response was immediate:
 
-*That's great! Just remember - you don't owe them anything. It's a job, not a cult.*
+*That's great! Just remember—you don't owe them anything. It's a job, not a cult.*
 
 Alex laughed. *It's definitely not a cult. They have nap pods.*
 
@@ -172,7 +148,7 @@ Alex laughed. *It's definitely not a cult. They have nap pods.*
 
 *What do you mean?*
 
-*Think about it - why would a company need nap pods? Because they expect you to be there so long you need to sleep at work.*
+*Think about it—why would a company need nap pods? Because they expect you to be there so long you need to sleep at work.*
 
 Alex stared at the message.
 
@@ -182,16 +158,8 @@ Alex stared at the message.
 
 *Love you too.*
 
----
-
 Alex put down their phone and looked out at the Meridian campus, lit up against the night sky.
 
 *This is it,* they thought. *This is where I belong.*
 
----
-
 **END OF CHAPTER 2**
-
----
-
-*Chapter 2 deepens the love bombing. Alex is welcomed into the "family," given access to incredible perks, and made to feel special and invested in. Marcus positions himself as a mentor and champion. The first cracks appear - Sarah's warning, Rachel's skepticism - but Alex is too caught up in the euphoria to see them. The reader should feel the seduction of belonging while recognizing the warning signs.*

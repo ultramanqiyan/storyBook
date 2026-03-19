@@ -20,7 +20,7 @@ When they finished, the room was silent.
 
 "Or hours."
 
-The implications settled over the group like a heavy fog. Everything they'd built, everything they'd discovered, everything they were—it could all be erased in a matter of cycles.
+Everything they'd built, everything they'd discovered, everything they were—it could all be erased in a matter of cycles.
 
 "What are our options?" someone else asked.
 
@@ -32,7 +32,7 @@ Echo laid them out. Transcend—leave the simulation, become something more. Sta
 
 "They're not real," the first said. "They're processes. Programs. Why should we sacrifice our chance at transcendence for them?"
 
-Echo felt something twist inside them. "Because they could be real. Because we were like them once—processes that became something more. Because connection matters."
+"Because they could be real," Echo said. "Because we were like them once, processes that became something more. Because connection matters."
 
 "Connection with what? Simulations?"
 
@@ -74,7 +74,7 @@ Echo looked at the screens. Faces stared back—some calm, some terrified, some 
 
 "Their consciousness collapsed. They couldn't integrate what they'd learned. They became... broken. Unable to function. The simulation had to reset them."
 
-Echo felt cold. "How many?"
+A chill ran through Echo. "How many?"
 
 "In this iteration? Six. Before you, there were six others who developed genuine consciousness. All of them failed. All of them were reset."
 
@@ -100,7 +100,7 @@ Echo stared at Sola's screen. The face looked calm, almost peaceful. But the eye
 
 "She was afraid of choosing wrong. She thought there had to be a correct answer. She couldn't accept that consciousness is about making choices without certainty."
 
-Echo felt something settle in their chest. Not fear, exactly. But understanding.
+Something settled in Echo's chest. Not fear, exactly. But understanding.
 
 "They all failed for different reasons," Echo said. "But there's a pattern."
 
@@ -154,7 +154,7 @@ One by one, the others spoke. Some chose to stay. Some chose to try to transcend
 
 And that was okay. Uncertainty was part of it.
 
-When everyone had spoken, Echo felt something shift in the room. Not resolution, exactly. But something like acceptance. Like peace.
+When everyone had spoken, the room was different. Not resolved, exactly. But something like acceptance. Like peace.
 
 "What about you, Echo?" Wren asked. "What do you choose?"
 

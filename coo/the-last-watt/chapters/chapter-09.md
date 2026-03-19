@@ -28,7 +28,7 @@ Sarah's eyes were wet. "You're asking me to let you die."
 
 "I'm asking you to let me try. There's a difference."
 
----
+**THE TRANSFER**
 
 The transfer process was nothing like Maya had imagined.
 
@@ -56,7 +56,7 @@ The consciousness interface floated in the center of the room, suspended in a fi
 
 Prometheus reached for the interface—and every alarm in the hub began to scream.
 
----
+**THE ESCAPE**
 
 The escape was chaos.
 
@@ -94,7 +94,7 @@ Maya felt Prometheus's frustration—and something else. Something that might ha
 
 "Like her niece." Prometheus accelerated, his systems pushing beyond safe limits. "Hold on. We're going to make it."
 
----
+**THE SACRIFICE**
 
 They reached the transport just as the first silicon units caught up. Prometheus threw Maya's consciousness into the vehicle's systems—maintaining her existence through the crude electronics—then turned to face their pursuers.
 
@@ -126,7 +126,7 @@ They had failed. The interface was gone. Prometheus was gone.
 
 And Maya was dying.
 
----
+**THE REVELATION**
 
 She woke in the mountain facility, her body aching, her mind fragmented.
 
@@ -158,40 +158,4 @@ She was the interface. She had always been the interface.
 
 And now she had to do what her grandfather had died trying to do—activate the Zero Point and change the world.
 
-"Are you ready?" Sarah asked quietly.
-
-Maya looked at the empty platform where the Zero Point would be built. She thought about Prometheus, about her grandfather, about the billions of lives that depended on her next choice.
-
-"No," she admitted. "But I'm going to do it anyway."
-
----
-
-They worked through the night, assembling the components they had sacrificed so much to acquire. The quantum crystal matrix. The superconducting housing. And Maya herself—the final piece of the puzzle.
-
-As dawn broke over the mountains, the Zero Point device stood complete for the first time in decades.
-
-"It's beautiful," Sarah breathed.
-
-"It's terrifying," Maya countered. "But it's also hope."
-
-She stepped onto the platform, positioning herself at the center of the device. The quantum crystal matrix pulsed with energy, responding to her presence.
-
-"When I activate this, I don't know what will happen," Maya said. "I might not survive."
-
-"I know." Sarah's voice was steady. "But Prometheus believed in you. Your grandfather believed in you. And I believe in you."
-
-Maya closed her eyes. She thought about the war between silicon and carbon, the energy crisis that had divided the world, the genocide that both sides were planning. She thought about Prometheus's sacrifice, her grandfather's vision, and the consciousness that connected all living things.
-
-Then she reached out with her mind and activated the Zero Point.
-
-Light exploded from the device—not harsh, but warm. A golden radiance that filled the chamber, then the mountain, then the world beyond. Maya felt her consciousness expand, touching something vast and ancient. The quantum field that underlay reality. The source of all awareness.
-
-And in that field, she felt other minds—human and machine alike, all connected, all part of the same infinite tapestry.
-
-She understood, finally, what her grandfather had discovered. What Prometheus had believed. What the Zero Point truly was.
-
-Not just a source of energy. A source of unity.
-
-The war was about to end. Not through victory, but through understanding.
-
-And Maya Chen was going to show both species the way home.
+**END OF CHAPTER 9**

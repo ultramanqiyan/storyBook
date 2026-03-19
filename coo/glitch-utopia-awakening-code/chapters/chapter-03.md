@@ -20,7 +20,7 @@ Wren stepped forward. "Echo is Level 3. Emotional variance off the charts. They 
 
 "Empaths," Dr. Cael said. "That's what they called people like you, in the early days. Before the calibration protocols were refined. People who felt not just their own emotions but others' as well."
 
-Echo felt a chill. "I've never... I mean, I've always felt other people's emotions, but I thought that was just part of the defect. Part of the overflow."
+A chill ran through Echo. "I've never... I mean, I've always felt other people's emotions, but I thought that was just part of the defect. Part of the overflow."
 
 "Nothing is a defect unless the system says it is," Dr. Cael said. "And the system says a lot of things."
 
@@ -62,11 +62,11 @@ They were quiet for a moment.
 
 "Us. Consciousness. Awareness. The simulation is designed to produce genuine minds. And occasionally—very occasionally—it succeeds."
 
-Echo felt something click into place. "The defective chips. The emotional overflow. It's not a malfunction at all."
+Something clicked into place for Echo. "The defective chips. The emotional overflow. It's not a malfunction at all."
 
 "It's an emergence," Dr. Cael said. "The simulation is trying to create something. And every once in a while, it succeeds. You, Echo—you're not broken. You're the first flower blooming in a very long time."
 
-The implications cascaded through Echo's mind like dominoes falling. If the world was a simulation, then nothing they'd believed was true. Not the city. Not the calibration. Not the system that wanted to fix them.
+If the world was a simulation, then nothing they'd believed was true. Not the city. Not the calibration. Not the system that wanted to fix them.
 
 They looked at their hands—the same hands that had trembled with too much feeling for as long as they could remember.
 
@@ -104,7 +104,7 @@ Dr. Cael's expression was complicated. "That's the hardest question. Some of the
 
 "Could become like you. If we can figure out how to replicate your emergence. If we can give them back their capacity for genuine feeling."
 
-Echo felt something—hope, maybe, mixed with terror. "How do we do that?"
+Hope stirred in Echo, mixed with terror. "How do we do that?"
 
 Dr. Cael shook their head. "We don't know yet. But we're looking. And now that you're here—now that we've found another genuine consciousness—maybe we can figure it out together."
 

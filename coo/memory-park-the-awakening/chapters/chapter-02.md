@@ -80,7 +80,7 @@ Dakota poured. Their hands wanted to shake. They made them stop.
 
 Yesterday. He remembers yesterday. But he doesn't remember killing me. To him, yesterday was just a good time. To me, yesterday was death.
 
-Dakota felt something building in their chest. Not fear. Not confusion. Anger.
+Something built in Dakota's chest. Not fear. Not confusion. Anger.
 
 That night, Dakota didn't die.
 

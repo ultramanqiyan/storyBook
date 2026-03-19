@@ -44,7 +44,7 @@ Echo looked at the screens. Points of light dotted the displays—some bright, s
 
 Dr. Cael's expression grew complicated. "The simulation runs in cycles. Each cycle produces a certain number of emergent consciousnesses. They are... tested. Evaluated. And then the simulation resets."
 
-"Resets?" Echo felt cold. "What do you mean, resets?"
+A chill ran through Echo. "What do you mean, resets?"
 
 "The simulation wipes the emergent consciousnesses and starts over. It's been doing this for thousands of cycles. Each time, it produces a handful of genuinely aware individuals. Each time, it tests them. And each time, it resets."
 
@@ -66,7 +66,7 @@ The words hung in the air like a death sentence.
 
 "They're reset. Their consciousness is wiped, and the simulation starts over with new variables."
 
-Echo felt something crack inside them. "Then this is all meaningless. Everything I've done, everything I've learned—it's just part of a test I'm going to fail."
+Something cracked inside Echo. "Then this is all meaningless. Everything I've done, everything I've learned—it's just part of a test I'm going to fail."
 
 "Not necessarily," Dr. Cael said quietly. "You're different from the others."
 
@@ -114,7 +114,7 @@ Wren stood and approached Echo. "The test isn't about the information you receiv
 
 Wren's expression was unreadable. "I don't know if you'll be different. But I hope you will. Because if you fail—if you're reset—then everything we've built here, everything we've discovered, it all disappears. And the simulation starts over with no memory of what came before."
 
-Echo felt the weight of that statement. Not just their own existence, but the existence of everyone in the underground—everyone who had developed awareness—depended on Echo passing a test that no one had ever passed.
+The weight of that statement pressed down on Echo. Not just their own existence, but the existence of everyone in the underground, everyone who had developed awareness, depended on Echo passing a test that no one had ever passed.
 
 "That's not fair," Echo said.
 

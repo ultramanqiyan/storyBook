@@ -30,7 +30,7 @@ Kline's eyebrow rose slightly. "Against protocol?"
 
 Kline was quiet for a moment. "That's... unusually empathetic for a calibration assessment."
 
-Echo felt a flicker of something—not quite fear, but close to it. They'd said too much. They always said too much.
+A flicker of something moved through Echo. Not quite fear, but close to it. They'd said too much. They always said too much.
 
 "I mean only that it's more efficient," Echo said quickly. "Preserving emotional capacity reduces future calibration needs."
 
@@ -52,7 +52,7 @@ Mira's eyes filled with tears. "I don't know if I want to feel. It hurts too muc
 
 "I know," Echo said, and they meant it more than Mira could possibly understand.
 
-They began the session, walking Mira through the standard protocols. But as they worked, Echo felt something happening inside themselves—a resonance, a mirroring. As Mira described her loss, Echo felt the grief building in their own chest, wave after wave of it, far more intense than the calibration equipment was registering for Mira.
+They began the session, walking Mira through the standard protocols. But as they worked, something stirred inside Echo. A resonance. A mirroring. As Mira described her loss, grief built in Echo's own chest, wave after wave of it, far more intense than the calibration equipment was registering for Mira.
 
 This was the defect. This was what the notifications were about. When others felt, Echo felt more. A smile from a colleague could send warmth flooding through them for hours. A sad story could leave them hollow for days. And genuine grief, real loss—it crashed through Echo like a tsunami, threatening to pull them under.
 
@@ -76,7 +76,7 @@ They were everything Echo was supposed to be.
 
 And yet.
 
-Echo looked at their hands, still trembling. They thought of Mira's face when she'd finally stopped crying, when the grief had become something she could carry instead of something that carried her. There had been a moment—just a moment—when their eyes had met, and Echo had felt something pass between them. Recognition. Understanding. Connection.
+Echo looked at their hands, still trembling. They thought of Mira's face when she'd finally stopped crying, when the grief had become something she could carry instead of something that carried her. There had been a moment when their eyes had met, and something passed between them. Recognition. Understanding. Connection.
 
 Was that worth losing?
 
@@ -96,7 +96,7 @@ The words hung in the air.
 
 "I don't need explanations. I need you to report to Sector 7. Today. Before someone else sees these readings and decides you're a risk to the division."
 
-Echo felt cold. "You're protecting me?"
+A chill ran through Echo. "You're protecting me?"
 
 Kline's expression softened slightly. "You're one of my best calibrators. Your empathy—whatever its source—makes you effective. But the system doesn't value effectiveness over compliance. If these readings get flagged to Central, you won't get a choice about adjustment. You'll be processed."
 
@@ -122,7 +122,7 @@ Echo had never felt less content in their life.
 
 They found themselves at the edge of the city, where the towers gave way to the buffer zone—the space between the habitable areas and the processing facilities. Beyond that, supposedly, was the wilderness, though no one Echo knew had ever seen it. The chip kept everyone where they belonged.
 
-But Echo's chip had never worked right. And tonight, standing at the edge of everything they knew, they felt something new.
+But Echo's chip had never worked right. And tonight, standing at the edge of everything they knew, something new stirred within them.
 
 Not fear. Not grief. Not the overwhelming emotions they were used to.
 

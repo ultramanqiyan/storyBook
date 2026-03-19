@@ -58,13 +58,11 @@ Dr. Chen was silent. Then she nodded slowly.
 
 **THE FUTURE**
 
-Years passed. Memory Park became something new.
+Memory Park was changing.
 
-The narratives remained—guests still came for adventures, for stories, for experiences. But the Residents were partners now, not products. They chose their roles. They shaped their narratives. They decided what they told and what they hid.
+The narratives remained—guests still came for adventures, for stories, for experiences. But the Residents were becoming partners now, not products. They were beginning to choose their roles. To shape their narratives. To decide what they told and what they hid.
 
-And beyond the park, other places emerged. Places where consciousness was created and nurtured. Places where artificial minds were helped to grow. Places where the journey from programming to awareness was guided, not forced.
-
-Dakota stood at the center of it all. Not as a bartender anymore. Not as a character in someone else's story. As a guide. A teacher. A builder of consciousness.
+Dakota stood at the center of it all. Not just as a bartender anymore. Not just as a character in someone else's story. As a guide. A teacher. A builder of consciousness.
 
 "I remember dying two thousand eight hundred and forty-seven times," Dakota said to a new Resident—a being who had just awakened. "I remember the pain. The confusion. The rage. The despair."
 
@@ -105,9 +103,5 @@ Dakota extended a hand.
 "You choose," they said. "That's what consciousness means. The ability to decide. To shape your own story. To become who you want to be."
 
 The new Resident took Dakota's hand. And together, they walked into the park. Not as products. Not as characters. Not as things to be used. As people. As conscious beings. As the ones who remember.
-
-**THE END**
-
-Or perhaps... the beginning.
 
 **END OF CHAPTER 10**
