@@ -548,8 +548,8 @@
                 <span>📖 <span data-i18n="book.progress">15% Progress</span></span>
               </div>
               <div class="action-buttons">
-                <a href="chapter.html" class="action-btn" data-i18n="book.continueReading">Continue Reading</a>
-                <a href="director.html" class="action-btn secondary" data-i18n="book.directNewChapter">Direct New Chapter</a>
+                <a href="chapter" class="action-btn" data-i18n="book.continueReading">Continue Reading</a>
+                <a href="director" class="action-btn secondary" data-i18n="book.directNewChapter">Direct New Chapter</a>
               </div>
             </div>
           </div>
@@ -675,19 +675,19 @@
       if (isPresetBook) {
         const currentChapter = chapters[0];
         actionButtons.innerHTML = `
-          ${currentChapter ? `<a href="chapter.html?id=${currentChapter.chapter_id}&is_preset=1" class="action-btn">${t('book.startReading')}</a>` : ''}
+          ${currentChapter ? `<a href="chapter?id=${currentChapter.chapter_id}&is_preset=1" class="action-btn">${t('book.startReading')}</a>` : ''}
           <button class="action-btn secondary" onclick="importPresetBook()">${t('book.importToShelf')}</button>
         `;
       } else {
         const currentChapter = chapters.find(c => c.status === 'current') || chapters[0];
         if (currentChapter) {
           actionButtons.innerHTML = `
-            <a href="chapter.html?id=${currentChapter.chapter_id}" class="action-btn">${t('book.startReading')}</a>
-            <a href="director.html?book_id=${book.book_id}" class="action-btn secondary">${t('book.directNewChapter')}</a>
+            <a href="chapter?id=${currentChapter.chapter_id}" class="action-btn">${t('book.startReading')}</a>
+            <a href="director?book_id=${book.book_id}" class="action-btn secondary">${t('book.directNewChapter')}</a>
           `;
         } else {
           actionButtons.innerHTML = `
-            <a href="director.html?book_id=${book.book_id}" class="action-btn">${t('book.directNewChapter')}</a>
+            <a href="director?book_id=${book.book_id}" class="action-btn">${t('book.directNewChapter')}</a>
           `;
         }
       }
@@ -700,7 +700,7 @@
     async function importPresetBook() {
       const userId = getUserId();
       if (!userId) {
-        window.location.href = 'login.html?redirect=' + encodeURIComponent(window.location.href);
+        window.location.href = 'login?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
@@ -710,7 +710,7 @@
         if (result.success) {
           showNotification(t('messages.bookImported'), 'success');
           setTimeout(() => {
-            window.location.href = `book.html?id=${result.data.new_book_id}`;
+            window.location.href = `book?id=${result.data.new_book_id}`;
           }, 1500);
         }
       } catch (error) {
@@ -866,7 +866,7 @@
 
     function goToChapter(id) {
       const presetParam = isPresetBook ? '&is_preset=1' : '';
-      window.location.href = `chapter.html?id=${id}${presetParam}`;
+      window.location.href = `chapter?id=${id}${presetParam}`;
     }
 
     function showCharacterDetail(id) {

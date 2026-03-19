@@ -594,11 +594,11 @@
   <div class="particles-container" id="particles"></div>
   
   <nav class="navbar">
-    <a href="../index.html" class="navbar-brand">StoryBook</a>
+    <a href="../index" class="navbar-brand">StoryBook</a>
     <div class="navbar-nav">
-      <a href="../index.html" class="navbar-link">首页</a>
-      <a href="../library.html" class="navbar-link">图书馆</a>
-      <a href="../bookshelf.html" class="navbar-link">我的书架</a>
+      <a href="../index" class="navbar-link">首页</a>
+      <a href="../library" class="navbar-link">图书馆</a>
+      <a href="../bookshelf" class="navbar-link">我的书架</a>
     </div>
   </nav>
   
@@ -626,7 +626,7 @@
                 <span>👥 3 角色</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapters/chapter-adv004-01.html" class="action-btn action-btn-secondary">开始阅读</a>
+                <a href="../chapters/chapter-adv004-01" class="action-btn action-btn-secondary">开始阅读</a>
                 <button class="action-btn action-btn-primary" onclick="importPresetBook()">
                   <span class="btn-main">续写这个故事</span>
                   <span class="btn-sub">用卡牌创作新章节</span>
@@ -643,39 +643,39 @@
           
           <div id="leftPageContent">
             <div class="chapter-toc">
-              <a href="../chapters/chapter-adv004-01.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0s backwards;">
+              <a href="../chapters/chapter-adv004-01" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0s backwards;">
                   <span class="chapter-number">第I</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">北极的召唤</span>
-                </a><a href="../chapters/chapter-adv004-01.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.1s backwards;">
+                </a><a href="../chapters/chapter-adv004-01" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.1s backwards;">
                   <span class="chapter-number">第II</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">踏上冰原</span>
-                </a><a href="../chapters/chapter-adv004-03.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.2s backwards;">
+                </a><a href="../chapters/chapter-adv004-03" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.2s backwards;">
                   <span class="chapter-number">第III</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">北极熊的请求</span>
-                </a><a href="../chapters/chapter-adv004-03.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
+                </a><a href="../chapters/chapter-adv004-03" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
                   <span class="chapter-number">第IV</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">冰洞的秘密</span>
-                </a><a href="../chapters/chapter-adv004-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                </a><a href="../chapters/chapter-adv004-05" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
                   <span class="chapter-number">第V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">冰山的警告</span>
-                </a><a href="../chapters/chapter-adv004-05.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                </a><a href="../chapters/chapter-adv004-05" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
                   <span class="chapter-number">第VI</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">团结的力量</span>
-                </a><a href="../chapters/chapter-adv004-07.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.6000000000000001s backwards;">
+                </a><a href="../chapters/chapter-adv004-07" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.6000000000000001s backwards;">
                   <span class="chapter-number">第VII</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">极光下的启示</span>
-                </a><a href="../chapters/chapter-adv004-07.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.7000000000000001s backwards;">
+                </a><a href="../chapters/chapter-adv004-07" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.7000000000000001s backwards;">
                   <span class="chapter-number">第VIII</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">消失的冰川</span>
-                </a><a href="../chapters/chapter-adv004-09.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.8s backwards;">
+                </a><a href="../chapters/chapter-adv004-09" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.8s backwards;">
                   <span class="chapter-number">第IX</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">全球的行动</span>
@@ -765,7 +765,7 @@
       
       if (isMobile()) {
         leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
-          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
             '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
             '<span class="chapter-dots"></span>' +
             '<span class="chapter-title">' + ch.title + '</span>' +
@@ -775,14 +775,14 @@
       } else {
         const half = Math.ceil(chapters.length / 2);
         leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
             '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
             '<span class="chapter-dots"></span>' +
             '<span class="chapter-title">' + ch.title + '</span>' +
           '</a>'
         ).join('') + '</div>';
         rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
             '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
             '<span class="chapter-dots"></span>' +
             '<span class="chapter-title">' + ch.title + '</span>' +
@@ -901,7 +901,7 @@
       const userId = localStorage.getItem('user_id');
       
       if (!userId) {
-        window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
+        window.location.href = '../login?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
@@ -919,7 +919,7 @@
           const result = await response.json();
           btn.innerHTML = '<span class="btn-main">' + '已添加到书架！' + '</span>';
           setTimeout(() => {
-            window.location.href = '../book.html?id=' + result.data.new_book_id;
+            window.location.href = '../book?id=' + result.data.new_book_id;
           }, 1000);
         } else {
           throw new Error('Import failed');

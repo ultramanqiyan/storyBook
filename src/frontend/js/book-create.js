@@ -304,7 +304,7 @@ const BookCreatePage = {
         const userId = getUserId();
         if (!userId) {
             alert('请先登录');
-            window.location.href = '/login.html';
+            window.location.href = '/login';
             return;
         }
 
@@ -372,7 +372,7 @@ const BookCreatePage = {
                 `<p><strong>配角:</strong> ${data.supporting_characters.map(c => `${c.avatar} ${c.name}`).join(', ')}</p>` : ''}
         `;
 
-        document.getElementById('view-book-btn').href = `/book.html?id=${data.book_id}`;
+        document.getElementById('view-book-btn').href = `/book?id=${data.book_id}`;
     }
 };
 

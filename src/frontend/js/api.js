@@ -42,7 +42,7 @@ function isLoggedIn() {
 function checkAuth() {
     const userId = getUserId();
     if (!userId) {
-        window.location.href = 'login.html';
+        window.location.href = 'login';
         return null;
     }
     return userId;
@@ -50,7 +50,7 @@ function checkAuth() {
 
 function logout() {
     clearAuth();
-    window.location.href = 'login.html';
+    window.location.href = 'login';
 }
 
 function getUrlParam(param) {

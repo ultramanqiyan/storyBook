@@ -594,11 +594,11 @@
   <div class="particles-container" id="particles"></div>
   
   <nav class="navbar">
-    <a href="../index.html" class="navbar-brand">StoryBook</a>
+    <a href="../index" class="navbar-brand">StoryBook</a>
     <div class="navbar-nav">
-      <a href="../index.html" class="navbar-link">Home</a>
-      <a href="../library.html" class="navbar-link">Library</a>
-      <a href="../bookshelf.html" class="navbar-link">My Books</a>
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
     </div>
   </nav>
   
@@ -626,7 +626,7 @@
                 <span>👥 3 Characters</span>
               </div>
               <div class="action-buttons">
-                <a href="../chapters/chapter-fan003-01-en.html" class="action-btn action-btn-secondary">Start Reading</a>
+                <a href="../chapters/chapter-fan003-01-en" class="action-btn action-btn-secondary">Start Reading</a>
                 <button class="action-btn action-btn-primary" onclick="importPresetBook()">
                   <span class="btn-main">Continue This Story</span>
                   <span class="btn-sub">Add chapters with cards</span>
@@ -643,43 +643,43 @@
           
           <div id="leftPageContent">
             <div class="chapter-toc">
-              <a href="../chapters/chapter-fan003-01-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0s backwards;">
+              <a href="../chapters/chapter-fan003-01-en" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0s backwards;">
                   <span class="chapter-number">Ch. I</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Call of the Dragon Egg</span>
-                </a><a href="../chapters/chapter-fan003-01-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.1s backwards;">
+                </a><a href="../chapters/chapter-fan003-01-en" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.1s backwards;">
                   <span class="chapter-number">Ch. II</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Dragon Academy</span>
-                </a><a href="../chapters/chapter-fan003-03-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.2s backwards;">
+                </a><a href="../chapters/chapter-fan003-03-en" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.2s backwards;">
                   <span class="chapter-number">Ch. III</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Fire Trial</span>
-                </a><a href="../chapters/chapter-fan003-03-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
+                </a><a href="../chapters/chapter-fan003-03-en" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
                   <span class="chapter-number">Ch. IV</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Dark Dragon Threat</span>
-                </a><a href="../chapters/chapter-fan003-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                </a><a href="../chapters/chapter-fan003-05-en" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
                   <span class="chapter-number">Ch. V</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">First Battle</span>
-                </a><a href="../chapters/chapter-fan003-05-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                </a><a href="../chapters/chapter-fan003-05-en" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
                   <span class="chapter-number">Ch. VI</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Dragon Secret</span>
-                </a><a href="../chapters/chapter-fan003-07-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.6000000000000001s backwards;">
+                </a><a href="../chapters/chapter-fan003-07-en" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.6000000000000001s backwards;">
                   <span class="chapter-number">Ch. VII</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Special Training</span>
-                </a><a href="../chapters/chapter-fan003-07-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.7000000000000001s backwards;">
+                </a><a href="../chapters/chapter-fan003-07-en" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.7000000000000001s backwards;">
                   <span class="chapter-number">Ch. VIII</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Dark Dragon's Lair</span>
-                </a><a href="../chapters/chapter-fan003-09-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.8s backwards;">
+                </a><a href="../chapters/chapter-fan003-09-en" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.8s backwards;">
                   <span class="chapter-number">Ch. IX</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">Final Battle</span>
-                </a><a href="../chapters/chapter-fan003-09-en.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.9s backwards;">
+                </a><a href="../chapters/chapter-fan003-09-en" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.9s backwards;">
                   <span class="chapter-number">Ch. X</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">New Guardian</span>
@@ -769,7 +769,7 @@
       
       if (isMobile()) {
         leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
-          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
             '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
             '<span class="chapter-dots"></span>' +
             '<span class="chapter-title">' + ch.title + '</span>' +
@@ -779,14 +779,14 @@
       } else {
         const half = Math.ceil(chapters.length / 2);
         leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
             '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
             '<span class="chapter-dots"></span>' +
             '<span class="chapter-title">' + ch.title + '</span>' +
           '</a>'
         ).join('') + '</div>';
         rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
             '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
             '<span class="chapter-dots"></span>' +
             '<span class="chapter-title">' + ch.title + '</span>' +
@@ -905,7 +905,7 @@
       const userId = localStorage.getItem('user_id');
       
       if (!userId) {
-        window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
+        window.location.href = '../login?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
@@ -923,7 +923,7 @@
           const result = await response.json();
           btn.innerHTML = '<span class="btn-main">' + 'Added to Shelf!' + '</span>';
           setTimeout(() => {
-            window.location.href = '../book.html?id=' + result.data.new_book_id;
+            window.location.href = '../book?id=' + result.data.new_book_id;
           }, 1000);
         } else {
           throw new Error('Import failed');
