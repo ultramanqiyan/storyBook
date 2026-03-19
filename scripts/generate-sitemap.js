@@ -31,7 +31,7 @@ function generateUrlEntry(url, priority, changefreq, alternates = []) {
 }
 
 function generateBookUrlEntry(bookId, priority, changefreq) {
-  const url = `${baseUrl}/books/${bookId}.html`;
+  const url = `${baseUrl}/books/${bookId}`;
   return generateUrlEntry(url, priority, changefreq, [
     { lang: 'en', href: `${url}?lang=en` },
     { lang: 'zh', href: `${url}?lang=zh` },
@@ -51,20 +51,20 @@ sitemap += generateUrlEntry(`${baseUrl}/`, '1.0', 'weekly', [
   { lang: 'x-default', href: `${baseUrl}/` }
 ]);
 
-sitemap += generateUrlEntry(`${baseUrl}/library.html`, '0.8', 'weekly', [
-  { lang: 'zh', href: `${baseUrl}/library.html?lang=zh` },
-  { lang: 'en', href: `${baseUrl}/library.html?lang=en` },
-  { lang: 'x-default', href: `${baseUrl}/library.html` }
+sitemap += generateUrlEntry(`${baseUrl}/library`, '0.8', 'weekly', [
+  { lang: 'zh', href: `${baseUrl}/library?lang=zh` },
+  { lang: 'en', href: `${baseUrl}/library?lang=en` },
+  { lang: 'x-default', href: `${baseUrl}/library` }
 ]);
 
-sitemap += generateUrlEntry(`${baseUrl}/how-to-play.html`, '0.8', 'monthly', [
-  { lang: 'zh', href: `${baseUrl}/how-to-play.html?lang=zh` },
-  { lang: 'en', href: `${baseUrl}/how-to-play.html?lang=en` },
-  { lang: 'x-default', href: `${baseUrl}/how-to-play.html` }
+sitemap += generateUrlEntry(`${baseUrl}/how-to-play`, '0.8', 'monthly', [
+  { lang: 'zh', href: `${baseUrl}/how-to-play?lang=zh` },
+  { lang: 'en', href: `${baseUrl}/how-to-play?lang=en` },
+  { lang: 'x-default', href: `${baseUrl}/how-to-play` }
 ]);
 
-sitemap += generateUrlEntry(`${baseUrl}/privacy.html`, '0.3', 'yearly');
-sitemap += generateUrlEntry(`${baseUrl}/terms.html`, '0.3', 'yearly');
+sitemap += generateUrlEntry(`${baseUrl}/privacy`, '0.3', 'yearly');
+sitemap += generateUrlEntry(`${baseUrl}/terms`, '0.3', 'yearly');
 
 const presetBooks = db.prepare(`
   SELECT book_id, title, type, language 
