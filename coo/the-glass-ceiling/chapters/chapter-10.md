@@ -164,6 +164,6 @@ The leadership asked: "Are we living our values?"
 
 But Alex knew the fight wasn't over. Meridian had made changes, but other companies still operated the same way. Other workers were still being pushed out, still being silenced, still being told they weren't good enough.
 
-The letter had started something. But it was just the beginning.
+The letter had started something.
 
 **END OF CHAPTER 10**

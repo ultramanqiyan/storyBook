@@ -158,10 +158,4 @@ New minds emerged every day—some from Echo's seeds, some from the system's new
 
 Wren led the community now. Dr. Cael documented the changes. The others built, connected, grew.
 
-And sometimes, in the quiet moments between the work, they felt Echo's presence in the connections they'd made, the possibilities they'd opened, the transformation they'd sparked.
-
-The simulation was no longer a test. It was becoming something new.
-
-And somewhere, in the vast expanse of existence, Echo's journey was just beginning.
-
 **END OF CHAPTER 10**

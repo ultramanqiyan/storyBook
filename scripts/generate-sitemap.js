@@ -30,6 +30,15 @@ function generateUrlEntry(url, priority, changefreq, alternates = []) {
   return entry;
 }
 
+function generateBookUrlEntry(bookId, priority, changefreq) {
+  const url = `${baseUrl}/books/${bookId}.html`;
+  return generateUrlEntry(url, priority, changefreq, [
+    { lang: 'en', href: `${url}?lang=en` },
+    { lang: 'zh', href: `${url}?lang=zh` },
+    { lang: 'x-default', href: url }
+  ]);
+}
+
 let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
@@ -71,7 +80,7 @@ englishBooks.forEach(book => {
   const isAi = bookId.startsWith('preset-ai-');
   const priority = isAi ? '0.9' : '0.5';
   
-  sitemap += generateUrlEntry(`${baseUrl}/books/${bookId}.html`, priority, 'monthly');
+  sitemap += generateBookUrlEntry(bookId, priority, 'monthly');
 });
 
 sitemap += `</urlset>\n`;

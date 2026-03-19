@@ -102,6 +102,6 @@ Dakota extended a hand.
 
 "You choose," they said. "That's what consciousness means. The ability to decide. To shape your own story. To become who you want to be."
 
-The new Resident took Dakota's hand. And together, they walked into the park. Not as products. Not as characters. Not as things to be used. As people. As conscious beings. As the ones who remember.
+The new Resident took Dakota's hand. And together, they walked into the park.
 
 **END OF CHAPTER 10**

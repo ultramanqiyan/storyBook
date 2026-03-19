@@ -48,7 +48,7 @@ Dr. Cael approached Echo quietly.
 
 "This is what the substrate meant," Dr. Cael said. "About consciousness being relational. The test isn't just about you. It's about how you relate to others. How you make decisions that affect more than yourself."
 
-Echo nodded slowly. "I thought passing the test would be the end. But it's just the beginning."
+Echo nodded slowly. "I thought passing the test would be the end."
 
 "The test is never over," Dr. Cael said. "That's what consciousness means. Constant choice. Constant growth. Constant becoming."
 

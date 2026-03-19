@@ -610,6 +610,9 @@ function generateBookHTML(book, characters, chapters, plotCards) {
   
   const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
   
+  const baseUrl = 'https://storybook-adventures.com';
+  const bookUrl = `${baseUrl}/books/${book.bookId}.html`;
+  
   return `<!DOCTYPE html>
 <html lang="${isZh ? 'zh' : 'en'}">
 <head>
@@ -622,6 +625,11 @@ function generateBookHTML(book, characters, chapters, plotCards) {
   <meta property="og:description" content="${isZh ? book.title + ' - AI互动故事' : book.title + ' - AI Interactive Story'}">
   <meta property="og:type" content="book">
   <meta property="og:locale" content="${isZh ? 'zh_CN' : 'en_US'}">
+  <meta property="og:locale:alternate" content="${isZh ? 'en_US' : 'zh_CN'}">
+  <link rel="alternate" hreflang="en" href="${bookUrl}?lang=en">
+  <link rel="alternate" hreflang="zh" href="${bookUrl}?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="${bookUrl}">
+  <link rel="canonical" href="${bookUrl}">
   <link rel="stylesheet" href="../css/variables.css">
   <link rel="stylesheet" href="../css/main.css">
   <link rel="stylesheet" href="../css/animations.css">
@@ -1541,6 +1549,9 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
   const chapterContent = (leftChapter?.content || '') + ' ' + (rightChapter?.content || '');
   const chapterKeywords = extractKeywordsFromContent(chapterContent, characters, book.type, isZh);
   
+  const baseUrl = 'https://storybook-adventures.com';
+  const chapterUrl = `${baseUrl}/chapters/${leftChapter.chapterId}.html`;
+  
   return `<!DOCTYPE html>
 <html lang="${isZh ? 'zh' : 'en'}">
 <head>
@@ -1553,6 +1564,11 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
   <meta property="og:description" content="${isZh ? '阅读' : 'Read'} ${leftChapter.title}${rightChapter ? ' / ' + rightChapter.title : ''}">
   <meta property="og:type" content="article">
   <meta property="og:locale" content="${isZh ? 'zh_CN' : 'en_US'}">
+  <meta property="og:locale:alternate" content="${isZh ? 'en_US' : 'zh_CN'}">
+  <link rel="alternate" hreflang="en" href="${chapterUrl}?lang=en">
+  <link rel="alternate" hreflang="zh" href="${chapterUrl}?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="${chapterUrl}">
+  <link rel="canonical" href="${chapterUrl}">
   <link rel="stylesheet" href="../css/variables.css">
   <link rel="stylesheet" href="../css/main.css">
   <link rel="stylesheet" href="../css/animations.css">
