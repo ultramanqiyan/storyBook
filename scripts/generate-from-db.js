@@ -611,7 +611,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
   const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
   
   const baseUrl = 'https://storybook-adventures.com';
-  const bookUrl = `${baseUrl}/books/${book.bookId}.html`;
+  const bookUrl = `${baseUrl}/books/${book.bookId}`;
   
   return `<!DOCTYPE html>
 <html lang="${isZh ? 'zh' : 'en'}">
@@ -1550,7 +1550,7 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
   const chapterKeywords = extractKeywordsFromContent(chapterContent, characters, book.type, isZh);
   
   const baseUrl = 'https://storybook-adventures.com';
-  const chapterUrl = `${baseUrl}/chapters/${leftChapter.chapterId}.html`;
+  const chapterUrl = `${baseUrl}/chapters/${leftChapter.chapterId}`;
   
   return `<!DOCTYPE html>
 <html lang="${isZh ? 'zh' : 'en'}">
