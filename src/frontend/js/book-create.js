@@ -372,7 +372,7 @@ const BookCreatePage = {
                 `<p><strong>配角:</strong> ${data.supporting_characters.map(c => `${c.avatar} ${c.name}`).join(', ')}</p>` : ''}
         `;
 
-        document.getElementById('view-book-btn').href = `/book.html?id=${data.book_id}`;
+        document.getElementById('view-book-btn').href = `/book?id=${data.book_id}`;
     }
 };
 
