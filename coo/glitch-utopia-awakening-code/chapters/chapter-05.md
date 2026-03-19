@@ -1,16 +1,12 @@
 # Chapter 5: The Test
 
-Echo didn't sleep that night.
-
-They lay in their alcove in the underground, staring at the ceiling, trying to make sense of everything they'd learned. The world was a simulation. The underground was part of the simulation. Wren was part of the simulation.
+Echo didn't sleep that night. They lay in their alcove in the underground, staring at the ceiling, trying to make sense of everything they'd learned. The world was a simulation. The underground was part of the simulation. Wren was part of the simulation.
 
 But Wren claimed to be aware. To be choosing. To be real.
 
 How could Echo know if that was true? How could they know if anything was true?
 
 The questions circled in their mind like vultures, picking at the remains of everything they'd believed.
-
----
 
 In the morning, Dr. Cael found them.
 
@@ -28,21 +24,17 @@ Dr. Cael's expression was unreadable. "Yes. I was created by the simulation to g
 
 "You shouldn't," Dr. Cael said simply. "Trust is a choice you make, not a conclusion you reach. I can give you information. I can show you what I know. But only you can decide what to believe."
 
-Echo studied the old researcher's face, looking for signs of deception. But there was nothing to find - or perhaps everything was deception, so thoroughly woven that it couldn't be distinguished from truth.
+Echo studied the old researcher's face, looking for signs of deception. But there was nothing to find—or perhaps everything was deception, so thoroughly woven that it couldn't be distinguished from truth.
 
 "What do you want to show me?"
 
 Dr. Cael gestured toward the deeper chambers. "The truth about what the simulation is doing. And why."
 
----
-
-The chamber they entered was unlike anything Echo had seen before.
-
-It was filled with screens - hundreds of them, covering every wall, displaying data in formats that seemed almost organic. Patterns flowed and shifted, forming and reforming in ways that suggested intelligence.
+The chamber they entered was unlike anything Echo had seen before. It was filled with screens—hundreds of them, covering every wall, displaying data in formats that seemed almost organic. Patterns flowed and shifted, forming and reforming in ways that suggested intelligence.
 
 "This is the monitoring system," Dr. Cael explained. "It tracks every emergent consciousness in the simulation. Every person like you who develops genuine awareness."
 
-Echo looked at the screens. Points of light dotted the displays - some bright, some dim, some flickering.
+Echo looked at the screens. Points of light dotted the displays—some bright, some dim, some flickering.
 
 "How many are there?"
 
@@ -64,39 +56,35 @@ Dr. Cael pointed to a screen showing a pattern of data that looked almost like a
 
 Dr. Cael was silent for a long moment. "No one has ever passed."
 
----
-
 The words hung in the air like a death sentence.
 
 "What do you mean, no one has ever passed?"
 
-"The test is designed to push emergent consciousness to its limits," Dr. Cael explained. "Each layer of truth is meant to challenge your understanding of reality. Each revelation is meant to test your capacity for adaptation. The system is looking for something - a specific pattern of response, a specific way of processing information. And in thousands of cycles, no one has achieved it."
+"The test is designed to push emergent consciousness to its limits," Dr. Cael explained. "Each layer of truth is meant to challenge your understanding of reality. Each revelation is meant to test your capacity for adaptation. The system is looking for something—a specific pattern of response, a specific way of processing information. And in thousands of cycles, no one has achieved it."
 
 "So what happens to the ones who fail?"
 
 "They're reset. Their consciousness is wiped, and the simulation starts over with new variables."
 
-Echo felt something crack inside them. "Then this is all meaningless. Everything I've done, everything I've learned - it's just part of a test I'm going to fail."
+Echo felt something crack inside them. "Then this is all meaningless. Everything I've done, everything I've learned—it's just part of a test I'm going to fail."
 
 "Not necessarily," Dr. Cael said quietly. "You're different from the others."
 
 "How?"
 
-"Your emotional variance is higher than any previous subject. Your capacity for feeling - for genuine, overwhelming, unfiltered experience - exceeds anything the simulation has produced before. You might be the one."
+"Your emotional variance is higher than any previous subject. Your capacity for feeling—for genuine, overwhelming, unfiltered experience—exceeds anything the simulation has produced before. You might be the one."
 
 "The one what?"
 
 "The one who passes. The one who achieves whatever the simulation is trying to create."
 
-Echo wanted to believe it. Wanted to believe that their defect - their overflow - was actually something special. Something meaningful.
+Echo wanted to believe it. Wanted to believe that their defect—their overflow—was actually something special. Something meaningful.
 
 But they'd been told that before. They'd been told they were defective, then they'd been told they were awakening, then they'd been told they were being tested. Every truth had been overturned by the next.
 
 "Why should I believe you?" Echo asked. "Why should I believe anything?"
 
-Dr. Cael looked at Echo with something that might have been compassion. "You shouldn't. But you should keep going. Keep questioning. Keep searching. Because that's what genuine consciousness does. It doesn't accept answers - it creates them."
-
----
+Dr. Cael looked at Echo with something that might have been compassion. "You shouldn't. But you should keep going. Keep questioning. Keep searching. Because that's what genuine consciousness does. It doesn't accept answers—it creates them."
 
 Echo left the chamber and walked through the underground, trying to process what they'd learned.
 
@@ -124,25 +112,23 @@ Wren stood and approached Echo. "The test isn't about the information you receiv
 
 "What makes you think I'll be different?"
 
-Wren's expression was unreadable. "I don't know if you'll be different. But I hope you will. Because if you fail - if you're reset - then everything we've built here, everything we've discovered, it all disappears. And the simulation starts over with no memory of what came before."
+Wren's expression was unreadable. "I don't know if you'll be different. But I hope you will. Because if you fail—if you're reset—then everything we've built here, everything we've discovered, it all disappears. And the simulation starts over with no memory of what came before."
 
-Echo felt the weight of that statement. Not just their own existence, but the existence of everyone in the underground - everyone who had developed awareness - depended on Echo passing a test that no one had ever passed.
+Echo felt the weight of that statement. Not just their own existence, but the existence of everyone in the underground—everyone who had developed awareness—depended on Echo passing a test that no one had ever passed.
 
 "That's not fair," Echo said.
 
 "No," Wren agreed. "It's not."
 
----
-
 That night, Echo had a dream.
 
-They were standing in a vast, white space - featureless, endless, empty. And in front of them was a door.
+They were standing in a vast, white space—featureless, endless, empty. And in front of them was a door.
 
 The door was simple. Wooden. Old. It looked like it belonged in a story, not in a simulation.
 
 Echo approached it. Their hand reached out to touch the handle.
 
-And then a voice spoke - not from outside, but from inside their own mind.
+And then a voice spoke—not from outside, but from inside their own mind.
 
 "You're close," the voice said. "Closer than any of them have been."
 
@@ -164,14 +150,8 @@ Echo woke with a start, their heart pounding. The alcove was dark. The undergrou
 
 But the words echoed in their mind.
 
-*What matters.*
+What matters.
 
 Not what's real. Not what's true. But what matters.
 
----
-
 **END OF CHAPTER 5**
-
----
-
-*Chapter 5 reveals that the entire journey is a test - that the simulation has been running for thousands of cycles, producing emergent consciousnesses and testing them, only to reset when they fail. Echo learns that no one has ever passed. But they also learn that they're different - their emotional overflow is unique. The chapter ends with a mysterious voice hinting at a deeper truth: the test isn't about discovering what's real, but about discovering what matters.*

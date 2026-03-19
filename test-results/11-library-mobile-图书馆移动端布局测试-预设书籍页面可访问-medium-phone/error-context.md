@@ -1,0 +1,70 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "StoryBook" [ref=e3]:
+      - /url: ../index.html
+    - generic [ref=e4]:
+      - link "Home" [ref=e5]:
+        - /url: ../index.html
+      - link "Library" [ref=e6]:
+        - /url: ../library.html
+      - link "My Books" [ref=e7]:
+        - /url: ../bookshelf.html
+  - generic [ref=e9]:
+    - generic [ref=e11]: The Last Writer
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e16]: 💼
+        - generic [ref=e17]:
+          - generic [ref=e18]: Business
+          - heading "The Last Writer" [level=2] [ref=e19]
+          - generic [ref=e20]:
+            - generic [ref=e21]: 📜 8 Chapters
+            - generic [ref=e22]: 👥 3 Characters
+          - generic [ref=e23]:
+            - link "Start Reading" [ref=e24] [cursor=pointer]:
+              - /url: ../chapters/chapter-ai001-01.html
+            - button "Continue This Story Add chapters with cards" [ref=e25] [cursor=pointer]:
+              - generic [ref=e26]: Continue This Story
+              - generic [ref=e27]: Add chapters with cards
+      - generic [ref=e28]:
+        - button "📜 Chapters" [ref=e29] [cursor=pointer]
+        - button "👥 Characters" [ref=e30] [cursor=pointer]
+        - button "🃏 Plot Cards" [ref=e31] [cursor=pointer]
+      - generic [ref=e33]:
+        - link "Ch. I The Email That Changed Everything" [ref=e34] [cursor=pointer]:
+          - /url: ../chapters/chapter-ai001-01.html
+          - generic [ref=e35]: Ch. I
+          - generic [ref=e37]: The Email That Changed Everything
+        - link "Ch. II The Algorithm's Shadow" [ref=e38] [cursor=pointer]:
+          - /url: ../chapters/chapter-ai001-01.html
+          - generic [ref=e39]: Ch. II
+          - generic [ref=e41]: The Algorithm's Shadow
+        - link "Ch. III The Human Element" [ref=e42] [cursor=pointer]:
+          - /url: ../chapters/chapter-ai001-03.html
+          - generic [ref=e43]: Ch. III
+          - generic [ref=e45]: The Human Element
+        - link "Ch. IV The Invisible Line" [ref=e46] [cursor=pointer]:
+          - /url: ../chapters/chapter-ai001-03.html
+          - generic [ref=e47]: Ch. IV
+          - generic [ref=e49]: The Invisible Line
+    - generic [ref=e53]:
+      - link "Ch. V The Collective" [ref=e54] [cursor=pointer]:
+        - /url: ../chapters/chapter-ai001-05.html
+        - generic [ref=e55]: Ch. V
+        - generic [ref=e57]: The Collective
+      - link "Ch. VI The Resistance" [ref=e58] [cursor=pointer]:
+        - /url: ../chapters/chapter-ai001-05.html
+        - generic [ref=e59]: Ch. VI
+        - generic [ref=e61]: The Resistance
+      - link "Ch. VII The Breakthrough" [ref=e62] [cursor=pointer]:
+        - /url: ../chapters/chapter-ai001-07.html
+        - generic [ref=e63]: Ch. VII
+        - generic [ref=e65]: The Breakthrough
+      - link "Ch. VIII The Next Chapter" [ref=e66] [cursor=pointer]:
+        - /url: ../chapters/chapter-ai001-07.html
+        - generic [ref=e67]: Ch. VIII
+        - generic [ref=e69]: The Next Chapter
+```

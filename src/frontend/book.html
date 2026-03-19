@@ -381,6 +381,10 @@
         border-radius: 0;
       }
       
+      .book-page.right {
+        display: none;
+      }
+      
       .book-page.left::after {
         content: '';
         position: absolute;
@@ -743,6 +747,10 @@
       }, 300);
     }
 
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
     function renderBookPages() {
       const leftContent = document.getElementById('leftPageContent');
       const rightContent = document.getElementById('rightPageContent');
@@ -751,20 +759,32 @@
       
       if (currentView === 'chapters') {
         const chapters = currentBook.chapters || [];
-        const half = Math.ceil(chapters.length / 2);
-        const leftChapters = chapters.slice(0, half);
-        const rightChapters = chapters.slice(half);
         
-        leftContent.innerHTML = `<div class="chapter-toc">${leftChapters.map((ch, i) => renderChapterCard(ch, i)).join('')}</div>`;
-        rightContent.innerHTML = `<div class="chapter-toc">${rightChapters.map((ch, i) => renderChapterCard(ch, i + half)).join('')}</div>`;
+        if (isMobile()) {
+          leftContent.innerHTML = `<div class="chapter-toc">${chapters.map((ch, i) => renderChapterCard(ch, i)).join('')}</div>`;
+          rightContent.innerHTML = '';
+        } else {
+          const half = Math.ceil(chapters.length / 2);
+          const leftChapters = chapters.slice(0, half);
+          const rightChapters = chapters.slice(half);
+          
+          leftContent.innerHTML = `<div class="chapter-toc">${leftChapters.map((ch, i) => renderChapterCard(ch, i)).join('')}</div>`;
+          rightContent.innerHTML = `<div class="chapter-toc">${rightChapters.map((ch, i) => renderChapterCard(ch, i + half)).join('')}</div>`;
+        }
       } else if (currentView === 'characters') {
         const characters = currentBook.characters || [];
-        const half = Math.ceil(characters.length / 2);
-        const leftChars = characters.slice(0, half);
-        const rightChars = characters.slice(half);
         
-        leftContent.innerHTML = `<div class="character-grid-view">${leftChars.map((ch, i) => renderCharacterCard(ch, i)).join('')}</div>`;
-        rightContent.innerHTML = `<div class="character-grid-view">${rightChars.map((ch, i) => renderCharacterCard(ch, i)).join('')}</div>`;
+        if (isMobile()) {
+          leftContent.innerHTML = `<div class="character-grid-view">${characters.map((ch, i) => renderCharacterCard(ch, i)).join('')}</div>`;
+          rightContent.innerHTML = '';
+        } else {
+          const half = Math.ceil(characters.length / 2);
+          const leftChars = characters.slice(0, half);
+          const rightChars = characters.slice(half);
+          
+          leftContent.innerHTML = `<div class="character-grid-view">${leftChars.map((ch, i) => renderCharacterCard(ch, i)).join('')}</div>`;
+          rightContent.innerHTML = `<div class="character-grid-view">${rightChars.map((ch, i) => renderCharacterCard(ch, i)).join('')}</div>`;
+        }
       } else if (currentView === 'plots') {
         renderPlotCards();
       }
@@ -778,12 +798,17 @@
         const result = await API.getPlotCards(currentBook.book_id);
         const plots = result.success ? (result.data || []) : [];
         
-        const half = Math.ceil(plots.length / 2);
-        const leftPlots = plots.slice(0, half);
-        const rightPlots = plots.slice(half);
-        
-        leftContent.innerHTML = `<div class="plot-grid-view">${leftPlots.map((p, i) => renderPlotCard(p, i)).join('')}</div>`;
-        rightContent.innerHTML = `<div class="plot-grid-view">${rightPlots.map((p, i) => renderPlotCard(p, i)).join('')}</div>`;
+        if (isMobile()) {
+          leftContent.innerHTML = `<div class="plot-grid-view">${plots.map((p, i) => renderPlotCard(p, i)).join('')}</div>`;
+          rightContent.innerHTML = '';
+        } else {
+          const half = Math.ceil(plots.length / 2);
+          const leftPlots = plots.slice(0, half);
+          const rightPlots = plots.slice(half);
+          
+          leftContent.innerHTML = `<div class="plot-grid-view">${leftPlots.map((p, i) => renderPlotCard(p, i)).join('')}</div>`;
+          rightContent.innerHTML = `<div class="plot-grid-view">${rightPlots.map((p, i) => renderPlotCard(p, i)).join('')}</div>`;
+        }
       } catch (error) {
         leftContent.innerHTML = '<p>Failed to load plot cards</p>';
         rightContent.innerHTML = '';
