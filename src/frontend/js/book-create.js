@@ -304,7 +304,7 @@ const BookCreatePage = {
         const userId = getUserId();
         if (!userId) {
             alert('请先登录');
-            window.location.href = '/login.html';
+            window.location.href = '/login';
             return;
         }
 

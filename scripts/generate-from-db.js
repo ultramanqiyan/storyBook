@@ -1209,11 +1209,11 @@ function generateBookHTML(book, characters, chapters, plotCards) {
   <div class="particles-container" id="particles"></div>
   
   <nav class="navbar">
-    <a href="../index.html" class="navbar-brand">StoryBook</a>
+    <a href="../index" class="navbar-brand">StoryBook</a>
     <div class="navbar-nav">
-      <a href="../index.html" class="navbar-link">${isZh ? '首页' : 'Home'}</a>
-      <a href="../library.html" class="navbar-link">${isZh ? '图书馆' : 'Library'}</a>
-      <a href="../bookshelf.html" class="navbar-link">${isZh ? '我的书架' : 'My Books'}</a>
+      <a href="../index" class="navbar-link">${isZh ? '首页' : 'Home'}</a>
+      <a href="../library" class="navbar-link">${isZh ? '图书馆' : 'Library'}</a>
+      <a href="../bookshelf" class="navbar-link">${isZh ? '我的书架' : 'My Books'}</a>
     </div>
   </nav>
   
@@ -1241,7 +1241,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
                 <span>👥 ${characters.length} ${isZh ? '角色' : 'Characters'}</span>
               </div>
               <div class="action-buttons">
-                ${chapters.length > 0 ? `<a href="../chapters/${chapters[0].chapterId}.html" class="action-btn action-btn-secondary">${isZh ? '开始阅读' : 'Start Reading'}</a>` : ''}
+                ${chapters.length > 0 ? `<a href="../chapters/${chapters[0].chapterId}" class="action-btn action-btn-secondary">${isZh ? '开始阅读' : 'Start Reading'}</a>` : ''}
                 <button class="action-btn action-btn-primary" onclick="importPresetBook()">
                   <span class="btn-main">${isZh ? '续写这个故事' : 'Continue This Story'}</span>
                   <span class="btn-sub">${isZh ? '用卡牌创作新章节' : 'Add chapters with cards'}</span>
@@ -1261,7 +1261,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
               ${chapters.sort((a, b) => a.orderNum - b.orderNum).map((ch, i) => {
                 const idx = Math.floor((ch.orderNum - 1) / 2) * 2;
                 const pageChapterId = chapters[idx] ? chapters[idx].chapterId : ch.chapterId;
-                return `<a href="../chapters/${pageChapterId}.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ${i * 0.1}s backwards;">
+                return `<a href="../chapters/${pageChapterId}" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ${i * 0.1}s backwards;">
                   <span class="chapter-number">${isZh ? '第' : 'Ch. '}${romanNumerals[ch.orderNum - 1] || ch.orderNum}</span>
                   <span class="chapter-dots"></span>
                   <span class="chapter-title">${ch.title}</span>
@@ -1352,7 +1352,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       
       if (isMobile()) {
         leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
-          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
             '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
             '<span class="chapter-dots"></span>' +
             '<span class="chapter-title">' + ch.title + '</span>' +
@@ -1362,14 +1362,14 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       } else {
         const half = Math.ceil(chapters.length / 2);
         leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
-          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
             '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
             '<span class="chapter-dots"></span>' +
             '<span class="chapter-title">' + ch.title + '</span>' +
           '</a>'
         ).join('') + '</div>';
         rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
-          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '.html" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
             '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
             '<span class="chapter-dots"></span>' +
             '<span class="chapter-title">' + ch.title + '</span>' +
@@ -1488,7 +1488,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       const userId = localStorage.getItem('user_id');
       
       if (!userId) {
-        window.location.href = '../login.html?redirect=' + encodeURIComponent(window.location.href);
+        window.location.href = '../login?redirect=' + encodeURIComponent(window.location.href);
         return;
       }
       
@@ -1506,7 +1506,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
           const result = await response.json();
           btn.innerHTML = '<span class="btn-main">' + '${isZh ? '已添加到书架！' : 'Added to Shelf!'}' + '</span>';
           setTimeout(() => {
-            window.location.href = '../book.html?id=' + result.data.new_book_id;
+            window.location.href = '../book?id=' + result.data.new_book_id;
           }, 1000);
         } else {
           throw new Error('Import failed');
@@ -1535,14 +1535,14 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
     : `<div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">${isZh ? '— 未完待续 —' : '— To Be Continued —'}</p></div>`;
   
   const prevUrl = prevPageFirstChapter 
-    ? `${prevPageFirstChapter.chapterId}.html`
-    : `../books/${book.bookId}.html`;
+    ? `${prevPageFirstChapter.chapterId}`
+    : `../books/${book.bookId}`;
   const prevLabel = prevPageFirstChapter 
     ? (isZh ? '上一页' : 'Previous')
     : (isZh ? '目录' : 'Contents');
   
   const nextUrl = nextPageFirstChapter 
-    ? `${nextPageFirstChapter.chapterId}.html`
+    ? `${nextPageFirstChapter.chapterId}`
     : null;
   const nextLabel = isZh ? '下一页' : 'Next';
   
@@ -2094,11 +2094,11 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
   <div class="particles-container" id="particles"></div>
   
   <nav class="navbar">
-    <a href="../index.html" class="navbar-brand">StoryBook</a>
+    <a href="../index" class="navbar-brand">StoryBook</a>
     <div class="navbar-nav">
-      <a href="../index.html" class="navbar-link">${isZh ? '首页' : 'Home'}</a>
-      <a href="../library.html" class="navbar-link">${isZh ? '图书馆' : 'Library'}</a>
-      <a href="../bookshelf.html" class="navbar-link">${isZh ? '我的书架' : 'My Books'}</a>
+      <a href="../index" class="navbar-link">${isZh ? '首页' : 'Home'}</a>
+      <a href="../library" class="navbar-link">${isZh ? '图书馆' : 'Library'}</a>
+      <a href="../bookshelf" class="navbar-link">${isZh ? '我的书架' : 'My Books'}</a>
     </div>
   </nav>
   
@@ -2131,7 +2131,7 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
   <div class="reading-nav-bar">
     <a href="${prevUrl}" class="scroll-nav-btn">← ${prevLabel}</a>
     <div class="nav-info">
-      <a href="../books/${book.bookId}.html">${book.title}</a>
+      <a href="../books/${book.bookId}">${book.title}</a>
       <span style="margin: 0 10px;">|</span>
       ${isZh ? '第' : 'Page '}${currentPage} ${isZh ? '页' : ''} ${isZh ? '' : 'of '}${totalPages}
     </div>

@@ -17,7 +17,7 @@ const DirectorPage = {
         
         if (!this.bookId) {
             alert('缺少书籍ID');
-            window.location.href = '/bookshelf.html';
+            window.location.href = '/bookshelf';
             return;
         }
 
@@ -231,7 +231,7 @@ const DirectorPage = {
             const response = await API.createChapter(chapterData);
             
             if (response.success) {
-                window.location.href = `/book.html?id=${this.bookId}`;
+                window.location.href = `/book?id=${this.bookId}`;
             } else {
                 throw new Error(response.error || '创建章节失败');
             }
