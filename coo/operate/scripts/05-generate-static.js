@@ -932,6 +932,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       <a href="../index" class="navbar-link">${isZh ? '首页' : 'Home'}</a>
       <a href="../library" class="navbar-link">${isZh ? '图书馆' : 'Library'}</a>
       <a href="../bookshelf" class="navbar-link">${isZh ? '我的书架' : 'My Books'}</a>
+      <a href="../how-to-play" class="navbar-link">${isZh ? '玩法说明' : 'How to Play'}</a>
     </div>
   </nav>
   
@@ -1817,6 +1818,7 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
       <a href="../index" class="navbar-link">${isZh ? '首页' : 'Home'}</a>
       <a href="../library" class="navbar-link">${isZh ? '图书馆' : 'Library'}</a>
       <a href="../bookshelf" class="navbar-link">${isZh ? '我的书架' : 'My Books'}</a>
+      <a href="../how-to-play" class="navbar-link">${isZh ? '玩法说明' : 'How to Play'}</a>
     </div>
   </nav>
   
