@@ -201,61 +201,239 @@ function extractBookSpecInfo(bookSpecContent) {
 function extractCharactersFromBookSpec(bookSpecContent) {
   const characters = [];
   
-  // 匹配角色定义：### Buddy（主角 - 金毛犬）或### The Voice（AI）
+  // 匹配角色定义：### Elara (Protagonist) 或 ### Elara（主角）
+  // 支持英文和中文括号
   const charRegex = /###\s+([A-Za-z][A-Za-z\s\-\']*)\s*[\(（]([^)）]+)[\)）]/g;
   let match;
   
   while ((match = charRegex.exec(bookSpecContent)) !== null) {
     const name = match[1].trim();
-    const roleTypeZh = match[2].trim();
+    const roleType = match[2].trim();
     
-    // 只提取真正的角色（Buddy, The Voice, Sarah），跳过其他章节
-    if (['Buddy', 'The Voice', 'Sarah'].includes(name)) {
-      // 将中文角色类型转换为英文
-      const roleTypeEn = convertRoleTypeToEnglish(roleTypeZh);
+    // 跳过非角色内容（如章节标题等）
+    // 检查是否包含角色类型的关键词（支持英文和中文）
+    const roleKeywords = [
+      // 英文
+      'Protagonist', 'Antagonist', 'Mentor', 'AI', 'System', 'Human', 'Dog', 'Cat', 
+      'Scientist', 'Doctor', 'Teacher', 'Student', 'Guide', 'Partner', 'Friend', 'Enemy', 
+      'Master', 'Pet', 'Wizard', 'Mage', 'Warrior', 'Knight', 'Princess', 'Prince', 
+      'King', 'Queen', 'Voice', 'Consciousness', 'Entity', 'Being', 'Robot', 'Animal',
+      'Supporting Character', 'Minor Character', 'Villain',
+      // 中文
+      '主角', '配角', '反派', 'AI', '系统', '人类', '狗', '猫', '科学家', '医生', 
+      '老师', '学生', '导师', '伙伴', '朋友', '敌人', '主人', '宠物', '巫师', '法师', 
+      '战士', '骑士', '公主', '王子', '国王', '女王', '声音', '意识', '实体'
+    ];
+    
+    const isRole = roleKeywords.some(keyword => roleType.includes(keyword));
+    
+    if (!isRole) {
+      continue; // 跳过非角色内容
+    }
+    
+    let personality = '';
+    let speechStyle = '';
+    
+    // 找到这个角色的完整章节内容（支持中文和英文括号）
+    const escapedName = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const charSectionRegex = new RegExp(`###\\s+${escapedName}\\s*[\(（][^)）]+[\)）][\\s\\S]*?(?=###|$)`, 'i');
+    const charSectionMatch = bookSpecContent.match(charSectionRegex);
+    
+    if (charSectionMatch) {
+      const section = charSectionMatch[0];
       
-      let personality = '';
-      let speechStyle = '';
+      // 尝试匹配性格特征（支持多种格式）
+      const personalityPatterns = [
+        /\*\*Personality\*\*[:\s]+([\s\S]*?)(?=\*\*|$)/i,
+        /-\s*Personality[:\s]+([\s\S]*?)(?=\n\s*-\s*|$)/i,
+        /\*\*性格特征\*\*[:：]\s*([\s\S]*?)(?=\*\*|$)/i,
+        /-\s*性格特征 [:：]\s*([\s\S]*?)(?=\n\s*-\s*|$)/i
+      ];
       
-      // 找到这个角色的完整章节内容
-      const charSectionRegex = new RegExp(`###\\s+${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*[\\(（][^)）]+[\\)）][\\s\\S]*?(?=###|$)`, 'i');
-      const charSectionMatch = bookSpecContent.match(charSectionRegex);
-      
-      if (charSectionMatch) {
-        const section = charSectionMatch[0];
-        
-        // 尝试匹配英文或中文的性格特征
-        const personalityMatch = section.match(/\*\*性格特征\*\*[：:]?\s*([\s\S]*?)(?=\*\*|$)|\*\*Personality\*\*[：:]?\s*([\s\S]*?)(?=\*\*|$)/i);
+      for (const pattern of personalityPatterns) {
+        const personalityMatch = section.match(pattern);
         if (personalityMatch) {
-          personality = (personalityMatch[1] || personalityMatch[2] || '').trim().replace(/\n/g, ' ');
-        }
-        
-        // 尝试匹配英文或中文的说话特点
-        const speechMatch = section.match(/\*\*说话特点\*\*[：:]?\s*([\s\S]*?)(?=\*\*|$)|\*\*Speech Style\*\*[：:]?\s*([\s\S]*?)(?=\*\*|$)/i);
-        if (speechMatch) {
-          speechStyle = (speechMatch[1] || speechMatch[2] || '').trim().replace(/\n/g, ' ');
+          personality = personalityMatch[1].trim().replace(/\n/g, ' ');
+          break;
         }
       }
       
-      characters.push({ name, roleType: roleTypeEn, personality, speechStyle });
+      // 尝试匹配说话特点（支持多种格式）
+      const speechPatterns = [
+        /\*\*Speech Pattern\*\*[:\s]+([\s\S]*?)(?=\*\*|$)/i,
+        /\*\*Speech Style\*\*[:\s]+([\s\S]*?)(?=\*\*|$)/i,
+        /\*\*说话特点\*\*[:：]\s*([\s\S]*?)(?=\*\*|$)/i,
+        /-\s*Speech Pattern[:\s]+([\s\S]*?)(?=\n\s*-\s*|$)/i,
+        /-\s*说话特点 [:：]\s*([\s\S]*?)(?=\n\s*-\s*|$)/i,
+        /-\s*Vocabulary[:\s]+([\s\S]*?)(?=\n\s*-\s*|$)/i,
+        /-\s*用词习惯[:：]\s*([\s\S]*?)(?=\n\s*-\s*|$)/i
+      ];
+      
+      for (const pattern of speechPatterns) {
+        const speechMatch = section.match(pattern);
+        if (speechMatch) {
+          speechStyle = speechMatch[1].trim().replace(/\n/g, ' ');
+          break;
+        }
+      }
+      
+      // 如果还是没有提取到，尝试更宽松的匹配
+      if (!personality && !speechStyle) {
+        // 提取所有以"- "开头的行作为特征
+        const lines = section.split('\n').filter(line => line.trim().startsWith('-'));
+        const features = lines.map(line => line.replace(/^-\s*/, '').trim());
+        
+        if (features.length > 0) {
+          // 前两个特征作为性格和说话风格
+          if (features.length >= 1) personality = features[0];
+          if (features.length >= 2) speechStyle = features[1];
+        }
+      }
     }
+    
+    characters.push({ name, roleType, personality, speechStyle });
   }
   
   return characters;
 }
 
 function convertRoleTypeToEnglish(roleTypeZh) {
-  // 中文到英文的角色类型映射
+  // 中文到英文的角色类型映射（扩展版）
   const roleTypeMap = {
+    // 基本角色
     '主角': 'Protagonist',
-    '金毛犬': 'Golden Retriever',
-    '人类': 'Human',
-    '主人': 'Owner',
-    'AI': 'AI',
+    '配角': 'Supporting Character',
+    '反派': 'Antagonist',
+    '次要角色': 'Minor Character',
+    
+    // 职业角色
     '科学家': 'Scientist',
+    '研究员': 'Researcher',
     '医生': 'Doctor',
     '老师': 'Teacher',
-    '学生': 'Student'
+    '学生': 'Student',
+    '工程师': 'Engineer',
+    '程序员': 'Programmer',
+    '设计师': 'Designer',
+    '艺术家': 'Artist',
+    '作家': 'Writer',
+    '音乐家': 'Musician',
+    '律师': 'Lawyer',
+    '警察': 'Police Officer',
+    '侦探': 'Detective',
+    '记者': 'Journalist',
+    '摄影师': 'Photographer',
+    '厨师': 'Chef',
+    '护士': 'Nurse',
+    '教授': 'Professor',
+    '商人': 'Businessman',
+    '企业家': 'Entrepreneur',
+    '经理': 'Manager',
+    '秘书': 'Secretary',
+    '服务员': 'Waiter',
+    '司机': 'Driver',
+    '飞行员': 'Pilot',
+    '宇航员': 'Astronaut',
+    '军人': 'Soldier',
+    '警察': 'Police Officer',
+    '消防员': 'Firefighter',
+    
+    // 身份角色
+    '人类': 'Human',
+    'AI': 'AI',
+    '机器人': 'Robot',
+    '人工智能': 'Artificial Intelligence',
+    '系统': 'System',
+    '意识': 'Consciousness',
+    '灵魂': 'Soul',
+    '幽灵': 'Ghost',
+    '魔法': 'Magic',
+    '巫师': 'Wizard',
+    '法师': 'Mage',
+    '战士': 'Warrior',
+    '骑士': 'Knight',
+    '公主': 'Princess',
+    '王子': 'Prince',
+    '国王': 'King',
+    '女王': 'Queen',
+    '皇帝': 'Emperor',
+    '村民': 'Villager',
+    '市民': 'Citizen',
+    
+    // 动物角色
+    '狗': 'Dog',
+    '猫': 'Cat',
+    '鸟': 'Bird',
+    '鱼': 'Fish',
+    '龙': 'Dragon',
+    '狼': 'Wolf',
+    '狮子': 'Lion',
+    '老虎': 'Tiger',
+    '熊': 'Bear',
+    '狐狸': 'Fox',
+    '兔子': 'Rabbit',
+    '马': 'Horse',
+    '牛': 'Cow',
+    '羊': 'Sheep',
+    '猪': 'Pig',
+    '猴': 'Monkey',
+    '蛇': 'Snake',
+    '鹰': 'Eagle',
+    '猫头鹰': 'Owl',
+    '乌鸦': 'Raven',
+    '金毛犬': 'Golden Retriever',
+    '拉布拉多': 'Labrador',
+    '哈士奇': 'Husky',
+    
+    // 关系角色
+    '主人': 'Owner',
+    '朋友': 'Friend',
+    '敌人': 'Enemy',
+    '伙伴': 'Partner',
+    '同事': 'Colleague',
+    '同学': 'Classmate',
+    '邻居': 'Neighbor',
+    '陌生人': 'Stranger',
+    '导师': 'Mentor',
+    '学徒': 'Apprentice',
+    '父亲': 'Father',
+    '母亲': 'Mother',
+    '儿子': 'Son',
+    '女儿': 'Daughter',
+    '兄弟': 'Brother',
+    '姐妹': 'Sister',
+    '祖父': 'Grandfather',
+    '祖母': 'Grandmother',
+    '叔叔': 'Uncle',
+    '阿姨': 'Aunt',
+    '表亲': 'Cousin',
+    '恋人': 'Lover',
+    '配偶': 'Spouse',
+    '丈夫': 'Husband',
+    '妻子': 'Wife',
+    '男朋友': 'Boyfriend',
+    '女朋友': 'Girlfriend',
+    
+    // 抽象角色
+    '声音': 'Voice',
+    '意识体': 'Consciousness',
+    '实体': 'Entity',
+    '存在': 'Being',
+    '观察者': 'Observer',
+    '引导者': 'Guide',
+    '守护者': 'Guardian',
+    '创造者': 'Creator',
+    '毁灭者': 'Destroyer',
+    '旅行者': 'Traveler',
+    '探索者': 'Explorer',
+    '学习者': 'Learner',
+    '教导者': 'Teacher',
+    '治疗者': 'Healer',
+    '保护者': 'Protector',
+    '拯救者': 'Savior',
+    '背叛者': 'Traitor',
+    '英雄': 'Hero',
+    '反派': 'Villain'
   };
   
   // 如果包含连字符，分别翻译
@@ -278,6 +456,7 @@ function convertRoleTypeToEnglish(roleTypeZh) {
     }
   }
   
+  // 如果没有匹配到，返回原文（可能是已经是英文）
   return roleTypeZh;
 }
 

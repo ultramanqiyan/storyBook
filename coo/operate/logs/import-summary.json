@@ -1,0 +1,24 @@
+[
+  {
+    "bookId": "preset-coo-the-unconditional",
+    "success": true,
+    "results": [
+      {
+        "file": "book.sql",
+        "success": true
+      },
+      {
+        "file": "characters.sql",
+        "success": true
+      },
+      {
+        "file": "plot-cards.sql",
+        "success": true
+      },
+      {
+        "file": "chapters.sql",
+        "success": true
+      }
+    ]
+  }
+]

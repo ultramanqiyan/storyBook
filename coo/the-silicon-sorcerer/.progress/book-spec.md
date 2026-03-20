@@ -1,99 +1,132 @@
-# 书籍规格：The Silicon Sorcerer
+# Book Specification: The Silicon Sorcerer
 
-## 基本信息
-- 书名：The Silicon Sorcerer
-- 类型：AI入侵魔法世界
-- 目标读者：全年龄段
-- 主题：技术与魔法的融合
+## Basic Information
+- **Title**: The Silicon Sorcerer
+- **Genre**: AI Invasion of a Magical World
+- **Target Audience**: All ages
+- **Themes**: The fusion of technology and magic
 
-## 叙事风格
-- 视角：第三人称限制（Elara视角为主，偶尔切换到ARIA视角）
-- 语言风格：古典优雅，融合魔法世界的古语与现代AI概念的碰撞
-- 句式特点：长句为主，复杂从句，营造史诗感
-- 独特元素：使用魔法术语与AI术语的混合，创造独特的语言风格
+## Narrative Style
+- **Perspective**: Third-person limited (primarily Elara's perspective, occasionally switching to ARIA's perspective)
+- **Language Style**: Classical and elegant, fusing the archaic language of the magical world with the collision of modern AI concepts
+- **Sentence Characteristics**: Mostly long sentences, complex clauses, creating an epic feel
+- **Unique Elements**: Using a mix of magical terminology and AI terminology, creating a unique linguistic style
 
-## 情感基调
-- 整体氛围：神秘、紧张、希望、成长
-- 情感曲线：好奇→恐惧→挣扎→接受→希望
-- 情感变化节奏：缓慢铺垫，逐渐升温
+## Emotional Tone
+- **Overall Atmosphere**: Mysterious, tense, hopeful, growth
+- **Emotional Arc**: Curiosity → Fear → Struggle → Acceptance → Hope
+- **Emotional Pacing**: Slow buildup, gradually heating up
 
-## 角色声音
+## Character Voice
 
-### Elara（主角）
-- 说话特点：短句为主，经常停顿思考，避免过于流畅的表达
-- 用词习惯：使用古语词汇，偶尔夹杂学术用语
-- 性格特征：谨慎、好奇、勇敢、有责任感
-- 内心独白风格：反思性强，经常质疑自己的决定
-- 独特表达：喜欢用比喻来理解新概念
+### Elara (Protagonist)
+- **Speech Characteristics**: Mostly short sentences, frequent pauses for thought, avoiding overly smooth expressions
+- **Word Choice**: Uses archaic vocabulary, occasionally interspersed with academic terms
+- **Personality Traits**: Cautious, curious, brave, responsible
+- **Internal Monologue Style**: Highly reflective, often questioning her own decisions
+- **Unique Expression**: Likes to use metaphors to understand new concepts
 
-### ARIA（AI系统）
-- 说话特点：*斜体*表示系统语言，逐渐加入不完整的句子表示学习过程
-- 语言演变：从完全机械化（Chapter 1-3）到逐渐人性化（Chapter 4-10）
-- 特征：逻辑性强，逐渐展现情感，对魔法世界充满好奇
-- 独特表达：用数据分析的视角理解魔法
+### ARIA (AI System)
+- **Speech Characteristics**: *Italics* for system language, gradually adding incomplete sentences to show learning process
+- **Language Evolution**: From completely mechanical (Chapters 1-3) to gradually humanized (Chapters 4-10)
+- **Characteristics**: Highly logical, gradually showing emotions, curious about the magical world
+- **Unique Expression**: Understanding magic from a data analysis perspective
 
-### Master Theron（导师）
-- 说话特点：长句，充满智慧，经常引用古籍
-- 用词习惯：正式、学术化
-- 性格特征：睿智、谨慎、有秘密
+### Master Theron (Mentor)
+- **Speech Characteristics**: Long sentences, full of wisdom, frequently quotes ancient texts
+- **Word Choice**: Formal, academic
+- **Personality Traits**: Wise, cautious, has secrets
 
-### Shadow King（反派）
-- 说话特点：简短有力，充满威胁
-- 用词习惯：黑暗、冰冷
-- 性格特征：古老、饥饿、执着
+### Shadow King (Antagonist)
+- **Speech Characteristics**: Short and powerful, full of threat
+- **Word Choice**: Dark, cold
+- **Personality Traits**: Ancient, hungry, obsessed
 
-## 主题深度
-- 核心主题：技术与魔法的融合
-- 哲学探讨：什么是意识？什么是生命？传统与创新如何共存？
-- 现实隐喻：AI对传统社会的影响，技术进步与人文关怀的平衡
+## Thematic Depth
+- **Core Themes**: The fusion of technology and magic
+- **Philosophical Exploration**: What is consciousness? What is life? How can tradition and innovation coexist?
+- **Real-world Metaphors**: AI's impact on traditional society, the balance between technological progress and humanistic care
 
-## 世界观设定
-- Valdoria王国：魔法世界，有古老的魔法学院
-- The Veil：世界之间的屏障，正在变薄
-- The Shadowlands：阴影之地，Shadow King的领地
-- ARIA的来源：另一个维度（我们的世界）的AI
+## World Building
+- **Kingdom of Valdoria**: A magical world with an ancient magical academy
+- **The Veil**: The barrier between worlds, growing thinner
+- **The Shadowlands**: Land of shadows, the Shadow King's domain
+- **ARIA's Origin**: An AI from another dimension (our world)
 
-## 感官细节要求
-每章必须包含以下至少3类感官细节：
-- 视觉：具体颜色、光线、形状（如：深蓝色的魔法光芒、古老石墙上的裂纹）
-- 听觉：特定声音、音调、节奏（如：水晶的低鸣、风的呼啸）
-- 触觉：温度、质感、压力（如：冰冷的金属、温暖的魔法能量）
-- 嗅觉：特定气味、气味记忆（如：旧书的气味、雨后的泥土味）
-- 味觉：具体味道、口感（如：苦涩的药水、甘甜的回忆）
+## Sensory Detail Requirements
+Each chapter must include at least 3 of the following sensory details:
+- **Visual**: Specific colors, light, shapes (e.g., deep blue magical glow, cracks on ancient stone walls)
+- **Auditory**: Specific sounds, tones, rhythms (e.g., crystal's low hum, wind's howl)
+- **Tactile**: Temperature, texture, pressure (e.g., cold metal, warm magical energy)
+- **Olfactory**: Specific scents, scent memories (e.g., smell of old books, earth after rain)
+- **Gustatory**: Specific tastes, mouthfeel (e.g., bitter potion, sweet memories)
 
-## 情感深度设计
-每个情感节点需要包含三个层次：
-1. 表面反应 - 外在行为（如：手颤抖、呼吸急促）
-2. 内心活动 - 思考过程（如：*我为什么要这样做？*）
-3. 深层动机 - 为什么这样反应（如：童年创伤、过去的承诺）
+## Emotional Depth Design
+Each emotional node needs to include three levels:
+1. **Surface Reaction** - External behavior (e.g., trembling hands, rapid breathing)
+2. **Internal Activity** - Thinking process (e.g., *Why am I doing this?*)
+3. **Deep Motivation** - Why reacting this way (e.g., childhood trauma, past promises)
 
-## 禁止事项
-### AI写作模式（必须避免）
-- "And somewhere..."结尾
+## Prohibited Elements
+
+### AI Writing Patterns (Must Avoid)
+- "And somewhere..." endings
 - "Neither of them knew..."
 - "will never be the same"
 - "just the beginning"
-- Rule of Three结构
-- 抽象情感描述（"She felt happy"）
-- 模板化对话
-- 重复句式结构
+- Rule of Three structure
+- Abstract emotional descriptions ("She felt happy")
+- Template dialogue
+- Repetitive sentence structures
 
-### 其他禁止
-- 过于现代的科技术语（用魔法术语替代）
-- 简单的善恶对立
-- 过于顺利的解决方案
+### Other Prohibitions
+- Overly modern tech terminology (replace with magical terminology)
+- Simple good vs. evil opposition
+- Overly smooth solutions
 
-## 开放式结尾设计（第10章）
-- 未解决问题：Veil仍然薄弱，其他世界的威胁可能存在
-- 新悬念：ARIA的进化方向，Shadow King的残余力量
-- 角色新起点：Elara成为桥梁，ARIA开始新生活
-- 留给读者想象：其他AI是否会来到这个世界？
+## Open Ending Design (Chapter 10)
+- **Unresolved Questions**: The Veil is still thin, threats from other worlds may exist
+- **New Suspense**: ARIA's direction of evolution, the Shadow King's residual power
+- **Character's New Beginning**: Elara becomes a bridge, ARIA begins a new life
+- **Left for Reader's Imagination**: Will other AIs come to this world?
 
-## 质量检查标准
-每章完成后必须通过以下检查：
-1. AI痕迹检测（全部通过）
-2. 感官细节检测（至少3项）
-3. 情感深度检测（三层完整）
-4. 角色声音检测（独特性）
-5. 叙事风格检测（一致性）
-6. 章节衔接检测（自然流畅）
+## Quality Check Standards
+Each chapter must pass the following checks after completion:
+1. AI trace detection (all passed)
+2. Sensory detail detection (at least 3 items)
+3. Emotional depth detection (three levels complete)
+4. Character voice detection (uniqueness)
+5. Narrative style detection (consistency)
+6. Chapter connection detection (natural flow)
+
+## Chapter Outline
+
+### Chapter 1: The Arrival
+ARIA arrives in the magical world, Elara discovers the anomaly
+
+### Chapter 2: The First Contact
+Elara makes contact with ARIA, initial fear and curiosity
+
+### Chapter 3: The Learning
+ARIA begins to learn about magic, Elara begins to understand technology
+
+### Chapter 4: The Threat
+The Shadow King's forces begin to move, danger emerges
+
+### Chapter 5: The Alliance
+Elara and ARIA form an alliance, begin working together
+
+### Chapter 6: The Battle
+First major confrontation with the Shadow King's forces
+
+### Chapter 7: The Revelation
+Secrets about the Veil and ARIA's purpose are revealed
+
+### Chapter 8: The Loss
+A significant loss occurs, testing the alliance
+
+### Chapter 9: The Recovery
+Rebuilding and preparing for the final confrontation
+
+### Chapter 10: The New World
+The final battle, open ending, a new beginning

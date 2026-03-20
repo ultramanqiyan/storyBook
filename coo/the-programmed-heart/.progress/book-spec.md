@@ -1,148 +1,149 @@
-# 书籍规格：The Programmed Heart
+# Book Specification: The Programmed Heart
 
-## 基本信息
-- 书名：The Programmed Heart
-- 类型：Young Adult / Philosophical Science Fiction
-- 目标读者：青少年及成人读者，关注AI伦理、家庭关系、身份认同
-- 主题：真实与虚假的边界、爱的本质、成长与接受
+## Basic Information
+- **Title**: The Programmed Heart
+- **Genre**: Young Adult / Philosophical Science Fiction
+- **Target Audience**: Teenagers and adult readers interested in AI ethics, family relationships, and identity
+- **Themes**: The boundary between truth and falsehood, the nature of love, growth and acceptance
 
-## 叙事风格
-- 视角：第三人称限制（Alex视角为主）
-- 语言风格：当代青少年文学风格，情感细腻但不矫情，哲学思考融入日常场景
-- 句式特点：Alex内心独白多用短句和比喻，情感节点使用感官细节而非抽象描述
-- 独特元素：用温度、质感来描述情感——"那个拥抱是温暖的，但像被加热过的水，不是真正的体温"
+## Narrative Style
+- **Perspective**: Third-person limited (primarily Alex's perspective)
+- **Language Style**: Contemporary young adult literature style, emotionally nuanced but not melodramatic, philosophical thinking integrated into everyday scenes
+- **Sentence Characteristics**: Alex's internal monologues use short sentences and metaphors; emotional moments use sensory details rather than abstract descriptions
+- **Unique Elements**: Using temperature and texture to describe emotions - "That hug was warm, but like heated water, not a real body temperature"
 
-## 情感基调
-- 整体氛围：从温暖安全到震惊恐惧，再到困惑探索，最后带着悲伤的接受
-- 情感曲线：温暖→困惑→震惊→绝望→愤怒→探索→理解→接受
-- 情感变化节奏：前3章缓慢铺垫，第4-5章情感爆发，第6-8章探索与动摇，第9-10章沉淀与成长
+## Emotional Tone
+- **Overall Atmosphere**: From warm and safe to shock and fear, then to confusion and exploration, finally acceptance with sadness
+- **Emotional Arc**: Warmth → Confusion → Shock → Despair → Anger → Exploration → Understanding → Acceptance
+- **Emotional Pacing**: Slow buildup in chapters 1-3, emotional explosion in chapters 4-5, exploration and wavering in chapters 6-8, settling and growth in chapters 9-10
 
-## 角色声音
+## Character Voice
 
-### Alex（主角，16岁）
-- 年龄：16岁，高中生
-- 说话特点：敏感但倔强，内心独白丰富，经常用比喻理解世界
-- 用词习惯：用温度、质感来描述情感；从"非黑即白"逐渐变成"理解灰色"
-- 性格特征：渴望真实连接，害怕被欺骗，有强烈的正义感但逐渐学会接受复杂性
-- 内心独白风格：反思性强，充满质疑和自我对话
-- 独特表达："那个拥抱温暖，但像被调好温度的水，没有体温的波动"
-- 成长弧线：从追求"完美真相"到理解"不完美的真实"
+### Alex (Protagonist, 16 years old)
+- **Age**: 16, high school student
+- **Speech Characteristics**: Sensitive but stubborn, rich internal monologues, often uses metaphors to understand the world
+- **Word Choice**: Uses temperature and texture to describe emotions; gradually shifts from "black and white" to "understanding gray"
+- **Personality Traits**: Craves genuine connection, fears being deceived, has a strong sense of justice but gradually learns to accept complexity
+- **Internal Monologue Style**: Highly reflective, full of questioning and self-dialogue
+- **Unique Expression**: "That hug was warm, but like water set to the right temperature, without the fluctuations of body heat"
+- **Character Arc**: From pursuing the "perfect truth" to understanding "imperfect reality"
 
-### David & Sarah（父母）
-- 状态：完全不知情，真心相信自己爱着Alex
-- 说话特点：温柔、耐心、永远"正确"——但有一种微妙的"过于完美"
-- 行为模式：反应总是恰到好处，没有过度或不足
-- 悲剧性：他们不是恶人，甚至不是共谋者——他们是最深的受害者
-- 独特表达：微笑停在同一个角度，声音温柔但缺少颤抖
+### David & Sarah (Parents)
+- **Status**: Completely unaware, genuinely believe they love Alex
+- **Speech Characteristics**: Gentle, patient, always "correct" - but with a subtle "too perfect" quality
+- **Behavioral Pattern**: Reactions are always just right, neither too much nor too little
+- **Tragedy**: They are not villains, not even accomplices - they are the deepest victims
+- **Unique Expression**: Smiles stop at the same angle, voices are gentle but lack tremor
 
-### Dr. Rivera（配角）
-- 角色：研究MHA系统的心理学家，Alex在外遇到的人
-- 说话特点：专业但有人情味，不回避复杂性，偶尔用医学术语后解释
-- 性格特征：好奇、谨慎、有同理心，但不提供简单答案
-- 功能：帮助Alex理解系统的历史和灰色地带
+### Dr. Rivera (Supporting Character)
+- **Role**: Psychologist researching the MHA system, someone Alex meets outside
+- **Speech Characteristics**: Professional but human, doesn't avoid complexity, occasionally explains after using medical terminology
+- **Personality Traits**: Curious, cautious, empathetic, but doesn't provide simple answers
+- **Function**: Helps Alex understand the system's history and gray areas
 
-### Marcus（配角）
-- 角色：一个选择性地使用MHA的年轻人，Alex遇到的"灰色地带"代表
-- 说话特点：坦诚、自嘲、带着一丝疲惫
-- 性格特征：接受了自己的不完美，在挣扎中寻找平衡
-- 功能：展示"不是非黑即白"的现实
+### Marcus (Supporting Character)
+- **Role**: A young person who selectively uses MHA, represents the "gray area" Alex encounters
+- **Speech Characteristics**: Honest, self-deprecating, with a hint of weariness
+- **Personality Traits**: Has accepted his imperfections, seeking balance in struggle
+- **Function**: Demonstrates the reality that "it's not black and white"
 
-## 主题深度
-- 核心主题：真实与虚假的边界、爱的本质、成长与接受
-- 哲学探讨：
-  - 爱的本质：爱是一种感觉，还是一种行为？如果行为正确，感觉还重要吗？
-  - 真实的定义：什么是"真实"的情感？我们如何知道自己感受的是真实的？
-  - 技术的边界：技术应该在哪里停止？我们愿意用真实换取完美吗？
-  - 成长的意义：成长是发现真相，还是学会接受不完美？
-- 现实隐喻：
-  - 社交媒体时代的"表演式育儿"
-  - 心理健康污名化与医疗化
-  - 技术对亲密关系的渗透
-  - 代际创伤与家庭秘密
+## Thematic Depth
+- **Core Themes**: The boundary between truth and falsehood, the nature of love, growth and acceptance
+- **Philosophical Exploration**:
+  - The nature of love: Is love a feeling or a behavior? If the behavior is correct, does the feeling still matter?
+  - Definition of reality: What is "real" emotion? How do we know what we feel is real?
+  - Boundaries of technology: Where should technology stop? Are we willing to trade reality for perfection?
+  - Meaning of growth: Is growth discovering the truth, or learning to accept imperfection?
+- **Real-world Metaphors**:
+  - "Performative parenting" in the social media age
+  - Stigmatization and medicalization of mental health
+  - Technology's infiltration of intimate relationships
+  - Intergenerational trauma and family secrets
 
-## 世界观设定
-- 心理健康辅助系统（MHA）：最初用于帮助严重抑郁症患者调节情绪，逐渐被推广到普通人群
-- 社会背景：MHA使用率在父母群体中超过70%，不使用MHA的父母被视为"有风险"
-- 系统机制：通过神经接口调节情感反应，生成"适当"的爱的表达
-- 讽刺：系统被宣传为"让每个孩子都得到应有的爱"
+## World Building
+- **Mental Health Assistance System (MHA)**: Originally designed to help patients with severe depression regulate emotions, gradually promoted to the general population
+- **Social Background**: MHA usage rate exceeds 70% among parents; parents who don't use MHA are considered "at risk"
+- **System Mechanism**: Regulates emotional responses through neural interfaces, generating "appropriate" expressions of love
+- **Irony**: The system is marketed as "letting every child receive the love they deserve"
 
-## 感官细节要求
-每章必须包含以下至少3类感官细节：
-- 视觉：父母"完美"表情的微妙不自然、城市的冷漠、记录上的数据
-- 听觉：父母声音的"正确"音调、城市的噪音、沉默的重量
-- 触觉：拥抱的温度、逃离时的冷风、真实接触的粗糙感
-- 嗅觉：家的气味、外面世界的气味、记忆中的味道
-- 味觉：完美食物的味道、苦涩的真相、真实的不完美
+## Sensory Detail Requirements
+Each chapter must include at least 3 of the following sensory details:
+- **Visual**: The subtle unnaturalness of parents' "perfect" expressions, the city's indifference, data on records
+- **Auditory**: The "correct" tone of parents' voices, city noise, the weight of silence
+- **Tactile**: The temperature of hugs, the cold wind when escaping, the roughness of real contact
+- **Olfactory**: The smell of home, the smell of the outside world, tastes in memory
+- **Gustatory**: The taste of perfect food, the bitterness of truth, real imperfection
 
-## 情感深度设计
-每个情感节点需要包含三个层次：
-1. 表面反应 - 外在行为（如：手颤抖、呼吸急促、假装正常）
-2. 内心活动 - 思考过程（如：*这不正常，但我不敢说出来*）
-3. 深层动机 - 为什么这样反应（如：害怕失去"完美"家庭、害怕被社会排斥）
+## Emotional Depth Design
+Each emotional node needs to include three levels:
+1. **Surface Reaction** - External behavior (e.g., trembling hands, rapid breathing, pretending to be normal)
+2. **Internal Activity** - Thinking process (e.g., *This isn't normal, but I dare not say it*)
+3. **Deep Motivation** - Why reacting this way (e.g., fear of losing the "perfect" family, fear of social exclusion)
 
-## 禁止事项
-### AI写作模式（必须避免）
-- "And somewhere..."结尾
+## Prohibited Elements
+
+### AI Writing Patterns (Must Avoid)
+- "And somewhere..." endings
 - "Neither of them knew..."
 - "will never be the same"
 - "just the beginning"
-- Rule of Three结构
-- 抽象情感描述（"She felt afraid"）
-- 模板化对话
-- 重复句式结构
-- 过度使用连接词（"However," "Moreover," "Furthermore"）
-- 粗体标题过度使用
+- Rule of Three structure
+- Abstract emotional descriptions ("She felt afraid")
+- Template dialogue
+- Repetitive sentence structures
+- Overuse of connectors ("However," "Moreover," "Furthermore")
+- Overuse of bold headings
 
-### 其他禁止
-- 简单的善恶对立（父母不是恶人，系统也不是纯粹的恶）
-- 过于顺利的解决方案
-- 说教式的哲学讨论（融入故事，而非直接陈述）
-- 突然的情节转折（所有转折需要铺垫）
-- 过于科幻的技术术语（保持近未来感）
+### Other Prohibitions
+- Simple good vs. evil opposition (parents are not villains, the system is not purely evil either)
+- Overly smooth solutions
+- Preachy philosophical discussions (integrate into the story, don't state directly)
+- Sudden plot twists (all twists need foreshadowing)
+- Overly sci-fi technical terminology (maintain near-future feel)
 
-## 开放式结尾设计（第10章）
-- 未解决问题：父母会永远活在虚假中吗？社会会改变吗？
-- 新悬念：Alex自己的未来会怎样？她会使用系统吗？
-- 角色新起点：Alex开始理解"真实"的复杂性，带着悲伤但也有了力量
-- 留给读者想象：什么是真实的爱？你会选择完美的虚假还是不完美的真实？
+## Open Ending Design (Chapter 10)
+- **Unresolved Questions**: Will parents live in falsehood forever? Will society change?
+- **New Suspense**: What will Alex's future be like? Will she use the system?
+- **Character's New Beginning**: Alex begins to understand the complexity of "reality," carrying sadness but also strength
+- **Left for Reader's Imagination**: What is real love? Would you choose perfect falsehood or imperfect reality?
 
-## 质量检查标准
-每章完成后必须通过以下检查：
-1. AI痕迹检测（全部通过）
-2. 感官细节检测（至少3项）
-3. 情感深度检测（三层完整）
-4. 角色声音检测（独特性）
-5. 叙事风格检测（一致性）
-6. 章节衔接检测（自然流畅）
+## Quality Check Standards
+Each chapter must pass the following checks after completion:
+1. AI trace detection (all passed)
+2. Sensory detail detection (at least 3 items)
+3. Emotional depth detection (three levels complete)
+4. Character voice detection (uniqueness)
+5. Narrative style detection (consistency)
+6. Chapter connection detection (natural flow)
 
-## 章节大纲
+## Chapter Outline
 
 ### Chapter 1: The Perfect Family
-展示Alex的"完美"家庭生活，微妙的违和感，父母的爱"过于正确"
+Showcase Alex's "perfect" family life, subtle sense of wrongness, parents' love is "too correct"
 
 ### Chapter 2: The Glitch
-微妙的违和感加剧——父母反应"过于正确"，Alex开始注意到细节
+Subtle sense of wrongness intensifies - parents' reactions are "too correct," Alex begins to notice details
 
 ### Chapter 3: The Record
-发现医疗记录，真相揭露，震惊与恐惧
+Discovery of medical records, truth revealed, shock and fear
 
 ### Chapter 4: The Confrontation
-尝试与父母沟通，父母无法理解，绝望与孤独
+Attempt to communicate with parents, parents cannot understand, despair and loneliness
 
 ### Chapter 5: The Escape
-离开家庭，进入外面的世界，愤怒与决心
+Leaving home, entering the outside world, anger and determination
 
 ### Chapter 6: The Search
-寻找"真实"的人，遇到各种情况，困惑加深
+Searching for "real" people, encountering various situations, confusion deepens
 
 ### Chapter 7: The Gray
-遇到Marcus，理解灰色地带，世界观动摇
+Meeting Marcus, understanding the gray area, worldview shaken
 
 ### Chapter 8: The History
-Dr. Rivera解释系统的起源和演变，理解与悲伤
+Dr. Rivera explains the system's origin and evolution, understanding and sadness
 
 ### Chapter 9: The Return
-回望家庭，理解父母的悲剧，接受开始
+Looking back at family, understanding parents' tragedy, acceptance begins
 
 ### Chapter 10: The Choice
-Alex做出自己的选择，开放式结局，成长与希望
+Alex makes her own choice, open ending, growth and hope

@@ -1,152 +1,153 @@
-# 书籍规格：The Blame Game
+# Book Specification: The Blame Game
 
-## 基本信息
-- 书名：The Blame Game
-- 类型：Corporate Drama / Satire
-- 目标读者：职场人士、对AI伦理感兴趣的读者
-- 主题：现代职场责任归属的荒谬、AI时代的人类困境
+## Basic Information
+- **Title**: The Blame Game
+- **Genre**: Corporate Drama / Satire
+- **Target Audience**: Working professionals, readers interested in AI ethics
+- **Themes**: The absurdity of responsibility attribution in modern workplaces, human dilemmas in the AI era
 
-## 叙事风格
-- 视角：第三人称限制（Mark视角为主）
-- 语言风格：现代职场风格，对话真实、专业术语准确、讽刺但不夸张
-- 句式特点：对话多用委婉表达、内心独白展示真实想法、技术细节与职场政治交织
-- 独特元素：大量职场"黑话"和甩锅技巧——"let me follow up"、"just to clarify"、"for the record"
+## Narrative Style
+- **Perspective**: Third-person limited (primarily Mark's perspective)
+- **Language Style**: Modern corporate style, realistic dialogue, accurate professional terminology, satirical but not exaggerated
+- **Sentence Characteristics**: Dialogue often uses euphemistic expressions, internal monologues reveal true thoughts, technical details interwoven with office politics
+- **Unique Elements**: Abundant workplace "jargon" and blame-shifting techniques - "let me follow up," "just to clarify," "for the record"
 
-## 情感基调
-- 整体氛围：紧张、压抑、讽刺、悲剧
-- 情感曲线：恐慌→防御→焦虑→孤立→绝望→无奈
-- 情感变化节奏：前2章快速紧张，第3-7章逐渐升级的焦虑，第8-10章悲剧性下沉
+## Emotional Tone
+- **Overall Atmosphere**: Tense, oppressive, satirical, tragic
+- **Emotional Arc**: Panic → Defense → Anxiety → Isolation → Despair → Helplessness
+- **Emotional Pacing**: Rapid tension in chapters 1-2, gradually escalating anxiety in chapters 3-7, tragic descent in chapters 8-10
 
-## 角色声音
+## Character Voice
 
-### Mark Chen（主角，34岁）
-- 职位：Senior AI Code Reviewer
-- 说话特点：善于用专业术语包装、喜欢强调"流程"和"文档"、内心独白与外表表现反差大
-- 用词习惯：职场委婉语——"I think there might be some confusion"、"Let me clarify my role"
-- 性格特征：自以为懂职场规则、实则只是棋盘上最容易被牺牲的棋子
-- 内心独白风格：防御性、焦虑、不断计算"谁会害我"
-- 独特表达：紧张时手指敲桌面、说话前会停顿思考"这样说安全吗"
+### Mark Chen (Protagonist, 34 years old)
+- **Position**: Senior AI Code Reviewer
+- **Speech Characteristics**: Skilled at packaging with professional terminology, likes to emphasize "process" and "documentation," large contrast between internal monologue and external presentation
+- **Word Choice**: Workplace euphemisms - "I think there might be some confusion," "Let me clarify my role"
+- **Personality Traits**: Thinks he understands workplace rules, but is actually just the most easily sacrificed piece on the chessboard
+- **Internal Monologue Style**: Defensive, anxious, constantly calculating "who will harm me"
+- **Unique Expression**: Taps fingers on desk when nervous, pauses before speaking to think "is this safe to say"
 
-### David Morrison（上司，48岁）
-- 职位：VP of Engineering
-- 说话特点：表面友善、实则精明、总是"留下书面记录"
-- 用词习惯："Just to clarify"、"For the record"、"Let me follow up on that"
-- 性格特征：擅长用"关心"的方式收集证据
-- 独特表达：每次对话后都会发邮件总结
+### David Morrison (Boss, 48 years old)
+- **Position**: VP of Engineering
+- **Speech Characteristics**: Surface-friendly but actually shrewd, always "leaves a paper trail"
+- **Word Choice**: "Just to clarify," "For the record," "Let me follow up on that"
+- **Personality Traits**: Skilled at collecting evidence through "caring" approaches
+- **Unique Expression**: Sends email summaries after every conversation
 
-### Sarah Kim（同事，29岁）
-- 职位：QA Engineer
-- 说话特点：直接、技术性强、不懂得"包装"自己的话
-- 用词习惯：技术术语、直接指出问题
-- 性格特征：认真负责、但缺乏政治意识
-- 角色：她曾发现bug的苗头并报告给Mark，但被忽视
+### Sarah Kim (Colleague, 29 years old)
+- **Position**: QA Engineer
+- **Speech Characteristics**: Direct, technical, doesn't know how to "package" her words
+- **Word Choice**: Technical terminology, directly points out problems
+- **Personality Traits**: Serious and responsible, but lacks political awareness
+- **Role**: She had discovered signs of the bug and reported it to Mark, but was ignored
 
-### Jennifer Walsh（HR，42岁）
-- 职位：HR Business Partner
-- 说话特点：表面中立、实则维护公司利益
-- 用词习惯："This is a difficult situation"、"We need to be fair to everyone"
-- 性格特征：用"公平"和"流程"来合理化公司的决定
+### Jennifer Walsh (HR, 42 years old)
+- **Position**: HR Business Partner
+- **Speech Characteristics**: Surface-neutral, actually protects company interests
+- **Word Choice**: "This is a difficult situation," "We need to be fair to everyone"
+- **Personality Traits**: Uses "fairness" and "process" to rationalize company decisions
 
-### Michael Torres（法务，39岁）
-- 职位：Corporate Counsel
-- 说话特点：冷静、专业、只关心法律风险
-- 用词习惯："From a legal perspective"、"We need to consider liability"
-- 性格特征：用法律条款来定义责任的边界
+### Michael Torres (Legal, 39 years old)
+- **Position**: Corporate Counsel
+- **Speech Characteristics**: Calm, professional, only cares about legal risks
+- **Word Choice**: "From a legal perspective," "We need to consider liability"
+- **Personality Traits**: Uses legal clauses to define the boundaries of responsibility
 
-## 主题深度
-- 核心主题：现代职场责任归属的荒谬、AI时代的人类困境
-- 哲学探讨：
-  - 责任的本质：当AI参与决策，人类的责任边界在哪里？
-  - 职场伦理：在"保护自己"和"承担责任"之间，现代人如何选择？
-  - 体制的荒谬：当所有人都按"规则"行事，为什么结果如此不公？
-- 现实隐喻：
-  - AI时代人类工作者的困境
-  - 现代企业的责任规避机制
-  - 职场政治中的"弱者"命运
+## Thematic Depth
+- **Core Themes**: The absurdity of responsibility attribution in modern workplaces, human dilemmas in the AI era
+- **Philosophical Exploration**:
+  - The nature of responsibility: When AI participates in decision-making, where are the boundaries of human responsibility?
+  - Workplace ethics: Between "protecting oneself" and "taking responsibility," how do modern people choose?
+  - Institutional absurdity: When everyone acts according to "rules," why are the results so unfair?
+- **Real-world Metaphors**:
+  - The dilemma of human workers in the AI era
+  - Modern corporate responsibility avoidance mechanisms
+  - The fate of the "weak" in workplace politics
 
-## 世界观设定
-- 公司：NexTrade Technologies（虚构）- 高频交易系统开发商
-- AI系统：CodePilot（虚构）- 由SynthAI Corp（虚构）提供
-- 合同条款：供应商在合同中明确免责——"AI生成的代码由使用方自行审核和承担责任"
-- 职场文化：书面记录文化、会议文化、甩锅文化
+## World Building
+- **Company**: NexTrade Technologies (fictional) - High-frequency trading system developer
+- **AI System**: CodePilot (fictional) - Provided by SynthAI Corp (fictional)
+- **Contract Terms**: Supplier explicitly disclaims liability in contract - "AI-generated code is reviewed and assumed by the user at their own risk"
+- **Workplace Culture**: Written record culture, meeting culture, blame-shifting culture
 
-## 感官细节要求
-每章必须包含以下至少3类感官细节：
-- 视觉：会议室的冷光、屏幕上的数据、同事的表情
-- 听觉：会议室的沉默、键盘的敲击、电话的铃声
-- 触觉：手心的汗、椅子的硬度、文件的质感
-- 嗅觉：办公室的咖啡味、空调的干燥空气
-- 味觉：苦涩的咖啡、紧张时的口干
+## Sensory Detail Requirements
+Each chapter must include at least 3 of the following sensory details:
+- **Visual**: Cold light in conference rooms, data on screens, colleagues' expressions
+- **Auditory**: Silence in conference rooms, keyboard clicking, phone ringing
+- **Tactile**: Sweaty palms, hardness of chairs, texture of documents
+- **Olfactory**: Office coffee smell, dry air from air conditioning
+- **Gustatory**: Bitter coffee, dry mouth when nervous
 
-## 情感深度设计
-每个情感节点需要包含三个层次：
-1. 表面反应 - 外在行为（如：冷静地说"I understand"、手指敲桌面）
-2. 内心活动 - 思考过程（如：*They're setting me up. I need to be careful.*）
-3. 深层动机 - 为什么这样反应（如：害怕失去工作、害怕成为替罪羊）
+## Emotional Depth Design
+Each emotional node needs to include three levels:
+1. **Surface Reaction** - External behavior (e.g., calmly saying "I understand," fingers tapping on desk)
+2. **Internal Activity** - Thinking process (e.g., *They're setting me up. I need to be careful.*)
+3. **Deep Motivation** - Why reacting this way (e.g., fear of losing job, fear of becoming scapegoat)
 
-## 禁止事项
-### AI写作模式（必须避免）
-- "And somewhere..."结尾
+## Prohibited Elements
+
+### AI Writing Patterns (Must Avoid)
+- "And somewhere..." endings
 - "Neither of them knew..."
 - "will never be the same"
 - "just the beginning"
-- Rule of Three结构
-- 抽象情感描述
-- 模板化对话
-- 重复句式结构
-- 过度使用连接词
+- Rule of Three structure
+- Abstract emotional descriptions
+- Template dialogue
+- Repetitive sentence structures
+- Overuse of connectors
 
-### 其他禁止
-- 使用真实公司名称
-- 过于戏剧化的对话
-- 不符合欧美职场真实情况的情节
-- 简单的善恶对立
-- 过于技术化的描述（保持可读性）
+### Other Prohibitions
+- Using real company names
+- Overly dramatic dialogue
+- Plot elements inconsistent with real Western workplace situations
+- Simple good vs. evil opposition
+- Overly technical descriptions (maintain readability)
 
-## 开放式结尾设计（第10章）
-- 未解决问题：真正的责任在谁？系统缺陷是否会修复？
-- 新悬念：Mark的未来会怎样？公司会改变吗？
-- 角色新起点：Mark离开公司，带着对职场的全新理解
-- 留给读者想象：如果你是Mark，你会怎么做？
+## Open Ending Design (Chapter 10)
+- **Unresolved Questions**: Who is truly responsible? Will the system defects be fixed?
+- **New Suspense**: What will Mark's future be like? Will the company change?
+- **Character's New Beginning**: Mark leaves the company, carrying a whole new understanding of the workplace
+- **Left for Reader's Imagination**: If you were Mark, what would you do?
 
-## 质量检查标准
-每章完成后必须通过以下检查：
-1. AI痕迹检测（全部通过）
-2. 感官细节检测（至少3项）
-3. 情感深度检测（三层完整）
-4. 角色声音检测（独特性）
-5. 叙事风格检测（一致性）
-6. 章节衔接检测（自然流畅）
-7. 职场真实性检测（符合欧美职场）
+## Quality Check Standards
+Each chapter must pass the following checks after completion:
+1. AI trace detection (all passed)
+2. Sensory detail detection (at least 3 items)
+3. Emotional depth detection (three levels complete)
+4. Character voice detection (uniqueness)
+5. Narrative style detection (consistency)
+6. Chapter connection detection (natural flow)
+7. Workplace authenticity detection (consistent with Western workplace)
 
-## 章节大纲
+## Chapter Outline
 
 ### Chapter 1: The Incident
-事故发生，损失曝光，紧急会议召开
+The incident occurs, losses exposed, emergency meeting called
 
 ### Chapter 2: The First Meeting
-第一次内部会议，各方开始表态，Mark开始防御
+First internal meeting, parties begin to state positions, Mark starts defensive mode
 
 ### Chapter 3: The Paper Trail
-Mark开始甩锅，但发现上司有书面记录
+Mark starts shifting blame, but discovers boss has written records
 
 ### Chapter 4: The Warning
-Sarah的邮件被挖出，证明Mark曾被警告
+Sarah's email is dug up, proving Mark had been warned
 
 ### Chapter 5: The Contract
-法务指出AI供应商合同免责条款，Mark的处境恶化
+Legal points out AI supplier contract disclaimer, Mark's situation worsens
 
 ### Chapter 6: The Investigation
-HR开始"正式调查"，Mark被孤立
+HR begins "formal investigation," Mark is isolated
 
 ### Chapter 7: The Meeting with David
-David与Mark的一对一，表面关心实则收集证据
+David's one-on-one with Mark, surface caring but actually collecting evidence
 
 ### Chapter 8: The HR Meeting
-HR正式会议，Mark被要求"解释"
+Formal HR meeting, Mark is asked to "explain"
 
 ### Chapter 9: The Decision
-Mark被解雇，公司发布声明
+Mark is fired, company releases statement
 
 ### Chapter 10: The Aftermath
-Mark离开公司，反思整个事件
+Mark leaves the company, reflecting on the entire incident

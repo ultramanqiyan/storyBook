@@ -1,143 +1,144 @@
-# 书籍规格：The Stimulation Trap
+# Book Specification: The Stimulation Trap
 
-## 基本信息
-- 书名：The Stimulation Trap
-- 类型：Psychological Drama / Dystopian Fiction
-- 目标读者：关注科技与人性、心理健康、现代生活的读者
-- 主题：感官刺激的陷阱、快乐的悖论、清醒的沉沦
+## Basic Information
+- **Title**: The Stimulation Trap
+- **Genre**: Psychological Drama / Dystopian Fiction
+- **Target Readers**: Readers interested in technology and humanity, mental health, modern life
+- **Themes**: The trap of sensory stimulation, the paradox of happiness, conscious descent
 
-## 叙事风格
-- 视角：第三人称限制（Leo视角为主）
-- 双线结构：现实线（外部行动）+ 内心线（内心独白）
-- 语言风格：现实线使用日常语言，内心线更加深刻和痛苦
-- 句式特点：内心独白用斜体，展示"清醒的无奈"
-- 独特元素：主角不是无意识地沉沦，而是清醒地看着自己下沉
+## Narrative Style
+- **Perspective**: Third-person limited (primarily Leo's perspective)
+- **Dual Structure**: Reality line (external actions) + Inner line (inner monologue)
+- **Language Style**: Reality line uses everyday language, inner line is more profound and painful
+- **Sentence Features**: Inner monologue in italics, showing "conscious helplessness"
+- **Unique Element**: The protagonist doesn't sink unconsciously, but watches himself sink while fully aware
 
-## 情感基调
-- 整体氛围：沉浸→麻木→焦虑→绝望→无奈
-- 情感曲线：满足→困惑→追逐→空虚→清醒的沉沦
-- 情感变化节奏：前2章展示"正常"，第3-4章麻木开始，第5-7章追逐加剧，第8-10章绝望下沉
+## Emotional Tone
+- **Overall Atmosphere**: Immersion → Numbness → Anxiety → Despair → Helplessness
+- **Emotional Arc**: Satisfaction → Confusion → Pursuit → Emptiness → Conscious descent
+- **Emotional Pacing**: Chapters 1-2 show "normality", Chapters 3-4 numbness begins, Chapters 5-7 pursuit intensifies, Chapters 8-10 desperate descent
 
-## 角色声音
+## Character Voice
 
-### Leo（主角，28岁）
-- 职业：数据分析师
-- 说话特点：日常语言，普通人的表达方式
-- 用词习惯：现实线用普通语言，内心线更加深刻和痛苦
-- 性格特征：普通、内向、不特别——这正是他的代表性
-- 内心独白风格：反思性、痛苦、自我剖析——*我知道我在做什么。我知道这不对。但我停不下来。*
-- 独特表达：清醒地认识自己的状态，但无法改变
+### Leo (Protagonist, 28 years old)
+- **Occupation**: Data Analyst
+- **Speaking Style**: Everyday language, ordinary person's expression
+- **Word Choice**: Reality line uses ordinary language, inner line is more profound and painful
+- **Personality Traits**: Ordinary, introverted, not special—this is exactly his representativeness
+- **Inner Monologue Style**: Reflective, painful, self-analytical—*I know what I'm doing. I know it's wrong. But I can't stop.*
+- **Unique Expression**: Consciously aware of his condition, but unable to change
 
-## 主题深度
-- 核心主题：感官刺激的陷阱、快乐的悖论、清醒的沉沦
-- 哲学探讨：
-  - 快乐的悖论：追求快乐的过程，是否恰恰是失去快乐的原因？
-  - 刺激与满足：刺激等于快乐吗？当刺激越来越强，满足感为什么越来越弱？
-  - 清醒的沉沦：知道问题在哪里，为什么还是无法改变？
-  - 技术的边界：技术应该满足人类的所有欲望吗？
-- 现实隐喻：
-  - 社交媒体时代的多巴胺陷阱
-  - 现代人的感官过载与情感麻木
-  - "快乐产业"如何创造需求又永远无法满足
-  - 在刺激泛滥的时代，什么是真正的满足？
+## Thematic Depth
+- **Core Themes**: The trap of sensory stimulation, the paradox of happiness, conscious descent
+- **Philosophical Exploration**:
+  - The paradox of happiness: Is the pursuit of happiness precisely the cause of losing happiness?
+  - Stimulation vs. Satisfaction: Does stimulation equal happiness? Why does satisfaction weaken as stimulation grows stronger?
+  - Conscious descent: Knowing where the problem is, why is it still impossible to change?
+  - The boundaries of technology: Should technology satisfy all human desires?
+- **Real-world Metaphors**:
+  - The dopamine trap of the social media era
+  - Modern sensory overload and emotional numbness
+  - How the "happiness industry" creates demand yet never satisfies
+  - In an era of stimulation overflow, what is true satisfaction?
 
-## 世界观设定
-- AI娱乐时代：AI可以生成任何你想要的内容——电影、游戏、音乐、虚拟体验
-- 社会常态：几乎所有人都沉浸在AI娱乐中，这是"正常"的生活方式
-- 刺激等级：娱乐内容有不同的"刺激等级"，等级越高，体验越强烈
-- 代价：高刺激内容需要更多金钱、更多时间、更多设备
+## World Building
+- **AI Entertainment Era**: AI can generate any content you want—movies, games, music, virtual experiences
+- **Social Norm**: Almost everyone is immersed in AI entertainment; this is the "normal" lifestyle
+- **Stimulation Levels**: Entertainment content has different "stimulation levels"; higher levels mean more intense experiences
+- **Cost**: High-stimulation content requires more money, more time, more equipment
 
-## 感官细节要求
-每章必须包含以下至少3类感官细节：
-- 视觉：虚拟世界的绚烂 vs 现实世界的暗淡
-- 听觉：AI生成的完美音乐 vs 现实的寂静
-- 触觉：虚拟体验的刺激 vs 现实的麻木
-- 味觉：虚拟食物的完美味道 vs 现实食物的无味
-- 内在感受：刺激带来的快感 vs 刺激后的空虚
+## Sensory Detail Requirements
+Each chapter must include at least 3 of the following sensory details:
+- **Visual**: The brilliance of the virtual world vs. the dullness of reality
+- **Auditory**: AI-generated perfect music vs. the silence of reality
+- **Tactile**: The stimulation of virtual experiences vs. the numbness of reality
+- **Gustatory**: The perfect taste of virtual food vs. the tastelessness of real food
+- **Internal Sensation**: The pleasure from stimulation vs. the emptiness after stimulation
 
-## 双线结构
+## Dual Structure
 
-### 现实线（外部行动）
-- Leo的日常生活——工作、娱乐、追逐刺激
-- 麻木的开始——刺激效果减弱
-- 追逐更强刺激的过程——越来越极端
-- 开放式结尾——仍在寻找下一个刺激
+### Reality Line (External Actions)
+- Leo's daily life—work, entertainment, pursuit of stimulation
+- The beginning of numbness—stimulation effects weaken
+- The process of pursuing stronger stimulation—increasingly extreme
+- Open ending—still searching for the next stimulation
 
-### 内心线（内心独白）
-- Leo对自己行为的反思
-- 对"为什么停不下来"的追问
-- 对过去"能感受到快乐"的怀念
-- 对未来的恐惧和无奈
+### Inner Line (Inner Monologue)
+- Leo's reflection on his behavior
+- Questioning "why can't I stop"
+- Missing the past when he "could feel happiness"
+- Fear and helplessness about the future
 
-## 情感深度设计
-每个情感节点需要包含三个层次：
-1. 表面反应 - 外在行为（如：继续点击下一个内容、购买更贵的设备）
-2. 内心活动 - 思考过程（如：*我知道这不对。但我需要这个。*）
-3. 深层动机 - 为什么这样反应（如：害怕面对空虚、不知道没有刺激的生活是什么样的）
+## Emotional Depth Design
+Each emotional node needs to include three levels:
+1. **Surface Reaction** - External behavior (e.g., continuing to click next content, buying more expensive equipment)
+2. **Inner Activity** - Thought process (e.g., *I know this is wrong. But I need this.*)
+3. **Deep Motivation** - Why react this way (e.g., fear of facing emptiness, not knowing what life without stimulation looks like)
 
-## 禁止事项
-### AI写作模式（必须避免）
-- "And somewhere..."结尾
+## Prohibited Elements
+
+### AI Writing Patterns (Must Avoid)
+- "And somewhere..." endings
 - "Neither of them knew..."
 - "will never be the same"
 - "just the beginning"
-- Rule of Three结构
-- 抽象情感描述
-- 模板化对话
-- 重复句式结构
-- 过度使用连接词
+- Rule of Three structure
+- Abstract emotional descriptions
+- Template dialogue
+- Repetitive sentence structures
+- Overuse of conjunctions
 
-### 其他禁止
-- 简单的道德说教
-- 过于科幻的技术描述（保持近未来感）
-- 主角突然"觉醒"并解决问题
-- 给读者简单的答案
-- 主角获得救赎
+### Other Prohibitions
+- Simple moral preaching
+- Overly sci-fi technical descriptions (maintain near-future feel)
+- Protagonist suddenly "awakening" and solving problems
+- Giving readers simple answers
+- Protagonist finding redemption
 
-## 开放式结尾设计（第10章）
-- 未解决问题：Leo能停下来吗？他会继续下沉吗？
-- 新悬念：下一个刺激是什么？它会有效吗？
-- 角色状态：仍在追逐中，清醒但无力
-- 留给读者想象：如果我是Leo，我会怎样？我现在是否已经在陷阱中？
+## Open Ending Design (Chapter 10)
+- **Unresolved Issues**: Can Leo stop? Will he continue to sink?
+- **New Suspense**: What is the next stimulation? Will it work?
+- **Character State**: Still in pursuit, conscious but powerless
+- **Left for Reader Imagination**: If I were Leo, what would I do? Am I already in the trap?
 
-## 质量检查标准
-每章完成后必须通过以下检查：
-1. AI痕迹检测（全部通过）
-2. 感官细节检测（至少3项）
-3. 情感深度检测（三层完整）
-4. 角色声音检测（独特性）
-5. 叙事风格检测（一致性）
-6. 章节衔接检测（自然流畅）
-7. 双线结构检测（现实线与内心线交织）
+## Quality Check Standards
+Each chapter must pass the following checks:
+1. AI trace detection (all passed)
+2. Sensory detail detection (at least 3 items)
+3. Emotional depth detection (three levels complete)
+4. Character voice detection (uniqueness)
+5. Narrative style detection (consistency)
+6. Chapter connection detection (natural flow)
+7. Dual structure detection (reality line and inner line interwoven)
 
-## 章节大纲
+## Chapter Outline
 
 ### Chapter 1: The Normal
-展示Leo的"正常"娱乐生活，沉浸在AI娱乐中
+Show Leo's "normal" entertainment life, immersed in AI entertainment
 
 ### Chapter 2: The High
-体验最刺激的内容，感到满足
+Experience the most stimulating content, feel satisfied
 
 ### Chapter 3: The Dim
-刺激效果开始减弱，困惑开始
+Stimulation effects begin to weaken, confusion begins
 
 ### Chapter 4: The Chase
-开始寻找更强刺激
+Begin searching for stronger stimulation
 
 ### Chapter 5: The Cost
-追逐刺激的代价——金钱、时间、关系
+The cost of pursuing stimulation—money, time, relationships
 
 ### Chapter 6: The Edge
-接近"刺激极限"的内容
+Approaching "stimulation limit" content
 
 ### Chapter 7: The Void
-最强刺激也变得麻木
+Even the strongest stimulation becomes numb
 
 ### Chapter 8: The Descent
-继续下沉，无法停止
+Continue sinking, unable to stop
 
 ### Chapter 9: The Awareness
-清醒地认识自己的状态
+Consciously recognize one's condition
 
 ### Chapter 10: The Trap
-开放式结局——仍在寻找
+Open ending—still searching
