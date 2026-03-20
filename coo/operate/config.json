@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "description": "COO书籍上线操作配置",
+  "defaults": {
+    "language": "en",
+    "is_preset": 1,
+    "user_id": "system",
+    "book_id_prefix": "preset-coo-",
+    "chapter_id_prefix": "chapter-coo-",
+    "char_id_prefix": "char-coo-",
+    "card_id_prefix": "card-coo-"
+  },
+  "bookTypes": {
+    "adventure": {
+      "name": "Adventure",
+      "nameZh": "冒险",
+      "icon": "🗺️",
+      "keywords": ["adventure", "journey", "quest", "explore", "discover", "treasure", "map", "travel", "hero", "brave"]
+    },
+    "fantasy": {
+      "name": "Fantasy", 
+      "nameZh": "奇幻",
+      "icon": "🧙",
+      "keywords": ["magic", "wizard", "dragon", "spell", "enchanted", "mystical", "fantasy", "mythical", "supernatural", "power"]
+    },
+    "romance": {
+      "name": "Romance",
+      "nameZh": "言情", 
+      "icon": "💕",
+      "keywords": ["love", "romance", "heart", "relationship", "passion", "kiss", "wedding", "date", "emotion", "feeling"]
+    },
+    "business": {
+      "name": "Business",
+      "nameZh": "职场",
+      "icon": "💼",
+      "keywords": ["business", "work", "office", "career", "company", "corporate", "meeting", "project", "professional", "job"]
+    }
+  },
+  "plotCardTypes": ["weather", "terrain", "adventure", "equipment"],
+  "plotCardsPerType": 2,
+  "totalPlotCards": 8,
+  "paths": {
+    "cooRoot": "../",
+    "sqlOutput": "./sql",
+    "frontendOutput": "./frontend",
+    "logsOutput": "./logs",
+    "migrationsTarget": "../../migrations",
+    "frontendTarget": "../../src/frontend"
+  },
+  "typeIcons": {
+    "adventure": "🗺️",
+    "fantasy": "🧙",
+    "romance": "💕",
+    "business": "💼"
+  },
+  "roleTypeIcons": {
+    "protagonist": "🧑",
+    "Protagonist": "🧑",
+    "Main Character": "🧑",
+    "AI Assistant": "🤖",
+    "AI": "🤖",
+    "Robot": "🤖",
+    "Scientist": "🔬",
+    "Researcher": "🧑‍💼",
+    "Doctor": "👨‍⚕️",
+    "Detective": "🕵️",
+    "Teacher": "👨‍🏫",
+    "Student": "🎓",
+    "Artist": "🎨",
+    "Musician": "🎵",
+    "Writer": "📝",
+    "Journalist": "📰",
+    "Lawyer": "⚖️",
+    "Judge": "⚖️",
+    "Business Owner": "💼",
+    "Entrepreneur": "💼",
+    "Manager": "💼",
+    "CEO": "💼",
+    "Employee": "👥",
+    "Software Developer": "💻",
+    "Programmer": "💻",
+    "Engineer": "💻",
+    "Dog": "🐕",
+    "Pet": "🐕",
+    "Animal": "🐕",
+    "default": "👤"
+  }
+}
