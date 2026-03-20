@@ -1,0 +1,37 @@
+{
+  "bookTitle": "The Stagnant Star",
+  "status": "in_progress",
+  "createdDate": "2026-03-20",
+  "lastUpdated": "2026-03-20",
+  "chapters": {
+    "total": 10,
+    "completed": 0,
+    "inProgress": 0,
+    "pending": 10,
+    "list": [
+      {"number": 1, "title": "The Perfect Path", "status": "pending", "wordCount": 0},
+      {"number": 2, "title": "The Glitch", "status": "pending", "wordCount": 0},
+      {"number": 3, "title": "The Archive", "status": "pending", "wordCount": 0},
+      {"number": 4, "title": "The Pattern", "status": "pending", "wordCount": 0},
+      {"number": 5, "title": "The Question", "status": "pending", "wordCount": 0},
+      {"number": 6, "title": "The Experiment", "status": "pending", "wordCount": 0},
+      {"number": 7, "title": "The Resistance", "status": "pending", "wordCount": 0},
+      {"number": 8, "title": "The Cost", "status": "pending", "wordCount": 0},
+      {"number": 9, "title": "The Choice", "status": "pending", "wordCount": 0},
+      {"number": 10, "title": "The First Step", "status": "pending", "wordCount": 0}
+    ]
+  },
+  "currentPhase": "book_spec_complete",
+  "phases": {
+    "bookSpec": "completed",
+    "chapterSpecs": "pending",
+    "chapterWriting": "pending",
+    "supportFiles": "pending"
+  },
+  "qualityChecks": {
+    "aiTraceDetection": "pending",
+    "sensoryDetailCount": "pending",
+    "emotionalDepth": "pending",
+    "characterVoice": "pending"
+  }
+}

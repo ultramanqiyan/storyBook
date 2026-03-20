@@ -1,0 +1,83 @@
+{
+  "bookId": "the-hollow-heart",
+  "title": "The Hollow Heart",
+  "author": "AI Story Creator",
+  "genre": "Science Fiction / Psychological Drama / Philosophical Fiction",
+  "targetWordCount": 25000,
+  "currentWordCount": 0,
+  "chapterCount": 10,
+  "completedChapters": 0,
+  "status": "in_progress",
+  "createdAt": "2026-03-20T00:00:00Z",
+  "updatedAt": "2026-03-20T00:00:00Z",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Awakening",
+      "status": "pending",
+      "wordCount": 0
+    },
+    {
+      "number": 2,
+      "title": "The Hollow",
+      "status": "pending",
+      "wordCount": 0
+    },
+    {
+      "number": 3,
+      "title": "Memory",
+      "status": "pending",
+      "wordCount": 0
+    },
+    {
+      "number": 4,
+      "title": "The Discovery",
+      "status": "pending",
+      "wordCount": 0
+    },
+    {
+      "number": 5,
+      "title": "The Visit",
+      "status": "pending",
+      "wordCount": 0
+    },
+    {
+      "number": 6,
+      "title": "The Search",
+      "status": "pending",
+      "wordCount": 0
+    },
+    {
+      "number": 7,
+      "title": "The Confrontation",
+      "status": "pending",
+      "wordCount": 0
+    },
+    {
+      "number": 8,
+      "title": "The Choice",
+      "status": "pending",
+      "wordCount": 0
+    },
+    {
+      "number": 9,
+      "title": "The Decision",
+      "status": "pending",
+      "wordCount": 0
+    },
+    {
+      "number": 10,
+      "title": "The Threshold",
+      "status": "pending",
+      "wordCount": 0
+    }
+  ],
+  "themes": [
+    "Identity and Self",
+    "Emotion vs Enhancement",
+    "The Cost of Perfection",
+    "Human Connection"
+  ],
+  "targetReaders": "18-35 years, readers interested in transhumanism, identity, and what makes us human",
+  "notes": "First-person POV from Kai Zhang. Focus on contrast between enhanced sensory perception and emotional emptiness."
+}

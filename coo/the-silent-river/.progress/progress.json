@@ -1,0 +1,37 @@
+{
+  "bookTitle": "The Silent River",
+  "status": "in_progress",
+  "createdDate": "2026-03-20",
+  "lastUpdated": "2026-03-20",
+  "chapters": {
+    "total": 10,
+    "completed": 0,
+    "inProgress": 0,
+    "pending": 10,
+    "list": [
+      {"number": 1, "title": "The Drying River", "status": "pending", "wordCount": 0},
+      {"number": 2, "title": "The First Client", "status": "pending", "wordCount": 0},
+      {"number": 3, "title": "The Investigation", "status": "pending", "wordCount": 0},
+      {"number": 4, "title": "The Opposition", "status": "pending", "wordCount": 0},
+      {"number": 5, "title": "The Hidden Truth", "status": "pending", "wordCount": 0},
+      {"number": 6, "title": "The Courtroom", "status": "pending", "wordCount": 0},
+      {"number": 7, "title": "The Setback", "status": "pending", "wordCount": 0},
+      {"number": 8, "title": "The Resistance", "status": "pending", "wordCount": 0},
+      {"number": 9, "title": "The Revelation", "status": "pending", "wordCount": 0},
+      {"number": 10, "title": "The Crossroads", "status": "pending", "wordCount": 0}
+    ]
+  },
+  "currentPhase": "book_spec_complete",
+  "phases": {
+    "bookSpec": "completed",
+    "chapterSpecs": "pending",
+    "chapterWriting": "pending",
+    "supportFiles": "pending"
+  },
+  "qualityChecks": {
+    "aiTraceDetection": "pending",
+    "sensoryDetailCount": "pending",
+    "emotionalDepth": "pending",
+    "characterVoice": "pending"
+  }
+}
