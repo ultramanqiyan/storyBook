@@ -190,4 +190,4 @@ Rachel didn't understand. She'd never worked at a place like Meridian. She didn'
 
 That had to mean something.
 
-**END OF CHAPTER 3**
+** 3**

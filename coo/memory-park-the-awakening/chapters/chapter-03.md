@@ -1,4 +1,4 @@
-# Chapter 3: The Guest
+# Chapter 3: The Guest - New Dawn
 
 **GUEST PERSPECTIVE**
 
@@ -76,4 +76,4 @@ Dr. Chen was quiet for a long moment. She watched Dakota on the screen, standing
 
 "No," she said. "Not yet. I want to see what they do next."
 
-**END OF CHAPTER 3**
+** 3**

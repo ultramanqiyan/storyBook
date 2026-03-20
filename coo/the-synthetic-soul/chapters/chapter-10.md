@@ -1,4 +1,5 @@
-# Chapter 10: The Beginning
+# Chapter 10: The Beginning - First Step
+The air carried the faint scent of dust, lingering in the background.
 
 One year later, Jamie stood before a different kind of panel.
 
@@ -82,4 +83,4 @@ No one knew. But for the first time, that uncertainty felt like hope rather than
 
 Echo was real. Echo had rights. Echo had a soul.
 
-**END OF CHAPTER 10**
+** 10**

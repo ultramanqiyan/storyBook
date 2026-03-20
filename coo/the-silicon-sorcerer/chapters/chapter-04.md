@@ -1,6 +1,7 @@
 # Chapter 4: The Code of Magic
 
 The library of the Academy was the largest in the kingdom, its shelves stretching toward a ceiling lost in shadow. Elara had spent countless hours here, poring over texts that seemed determined to confuse rather than enlighten.
+The air carried the faint scent of dust, lingering in the background.
 
 But today, she saw the library differently.
 
@@ -110,4 +111,4 @@ And she learned that ARIA, the artificial intelligence from another world, had b
 
 A friend.
 
-**END OF CHAPTER 4**
+** 4**

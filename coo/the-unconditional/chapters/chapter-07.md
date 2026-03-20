@@ -1,4 +1,4 @@
-# Chapter 07: The Evidence
+# Chapter 7: The Evidence - Universal Truth
 
 The voice wants me to see beyond myself.
 

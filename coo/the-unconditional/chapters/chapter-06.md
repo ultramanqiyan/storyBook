@@ -1,4 +1,4 @@
-# Chapter 06: The Pattern
+# Chapter 6: The Pattern - Love Has Rules
 
 The voice has been quiet for days.
 

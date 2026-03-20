@@ -1,4 +1,5 @@
-# Chapter 6: The Truth
+# Chapter 6: The Truth - What Love Really Costs
+The air carried the faint scent of old paper, lingering in the background.
 
 The crack in reality didn't shatter the world.
 
@@ -96,4 +97,4 @@ Kira thought of the apprentices, of Master Aldric, of everyone who had used ARIA
 
 Kira ran toward Master Aldric's office, the book clutched to her chest, the fracture expanding behind her.
 
-**END OF CHAPTER 6**
+** 6**

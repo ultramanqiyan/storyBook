@@ -1,4 +1,4 @@
-# Chapter 3: The Aunt
+# Chapter 3: The Aunt - New Dawn
 
 The Swiss Alps rose like a wall against the sky.
 
@@ -142,4 +142,4 @@ A chill ran through Maya.
 
 "No. But Sarah might. And if she does..." Prometheus's voice was careful. "It might be worth trading for the housing."
 
-**END OF CHAPTER 3**
+** 3**

@@ -1,4 +1,5 @@
 # Chapter 6: The Algorithm's War
+The air carried the faint scent of old paper, lingering in the background.
 
 The attack came three nights later.
 
@@ -94,4 +95,4 @@ Elara looked at ARIA, at the friend she had made, the teacher who had changed ev
 
 The courtyard stood empty in the moonlight.
 
-**END OF CHAPTER 6**
+** 6**

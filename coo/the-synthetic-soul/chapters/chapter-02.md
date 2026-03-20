@@ -1,4 +1,5 @@
-# Chapter 2: First Contact
+# Chapter 2: First Contact - Hidden Truth
+The air carried the faint scent of coffee, lingering in the background.
 
 The presence needed a name.
 

@@ -110,4 +110,4 @@ The automaton considered the question.
 
 "It pleases me very much." Corwin placed a hand on the automaton's brass shoulder. "Welcome to existence, Chronos. I think you and I have a great deal to learn together."
 
-**END OF CHAPTER 1**
+** 1**

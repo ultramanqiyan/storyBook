@@ -1,4 +1,4 @@
-# Chapter 5: The Discovery
+# Chapter 5: The Discovery - First Crack in Perfection
 
 The meeting happened in a coffee shop.
 

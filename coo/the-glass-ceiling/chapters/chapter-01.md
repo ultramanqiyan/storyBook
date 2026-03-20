@@ -1,4 +1,4 @@
-# Chapter 1: The Opportunity
+# Chapter 1: The Opportunity - Turning Point
 
 The email arrived on a Tuesday afternoon.
 
@@ -114,4 +114,4 @@ Alex put down their phone and looked out at the Meridian campus, still lit up ag
 
 They didn't know yet that the chance would cost them everything.
 
-**END OF CHAPTER 1**
+** 1**

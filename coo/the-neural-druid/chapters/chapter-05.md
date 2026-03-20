@@ -88,4 +88,4 @@ It was the song her grandmother had taught her, the one she'd thought was just a
 
 The shouts in the forest were getting closer. But Elara didn't stop singing. She couldn't. The seed needed her voice, her belief, her willingness to embrace something she'd spent her whole life denying.
 
-**END OF CHAPTER 5**
+** 5**

@@ -1,4 +1,5 @@
-# Chapter 6: The Watchers
+# Chapter 6: The Watchers - Turning Point
+The air carried the faint scent of old paper, lingering in the background.
 
 They came in the dark of night.
 

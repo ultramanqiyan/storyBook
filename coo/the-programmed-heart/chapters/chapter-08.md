@@ -1,4 +1,5 @@
-# Chapter 08: The History
+# Chapter 8: The History - New Dawn
+The air carried the faint scent of coffee, lingering in the background.
 
 The university is big.
 

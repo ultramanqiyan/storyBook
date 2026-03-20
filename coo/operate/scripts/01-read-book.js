@@ -239,16 +239,16 @@ function readBook(bookDir) {
   if (fs.existsSync(chaptersDir)) {
     const chapterFiles = fs.readdirSync(chaptersDir)
       .filter(f => f.endsWith('.md'))
-      .sort((a, b) => {
-        const numA = parseInt(a.match(/chapter-(\d+)/)?.[1] || '0');
-        const numB = parseInt(b.match(/chapter-(\d+)/)?.[1] || '0');
-        return numA - numB;
-      });
+      .map((f, index) => {
+        const numMatch = f.match(/chapter-(\d+)/);
+        const chapterNum = numMatch ? parseInt(numMatch[1]) : (index + 1);
+        return { file: f, chapterNum, originalIndex: index };
+      })
+      .sort((a, b) => a.chapterNum - b.chapterNum || a.originalIndex - b.originalIndex);
     
-    for (const file of chapterFiles) {
+    for (const { file, chapterNum } of chapterFiles) {
       const chapterPath = path.join(chaptersDir, file);
       const content = fs.readFileSync(chapterPath, 'utf-8');
-      const chapterNum = parseInt(file.match(/chapter-(\d+)/)?.[1] || '0');
       const title = extractTitleFromChapter(content);
       
       bookData.chapters.push({
@@ -333,7 +333,6 @@ function listAvailableBooks() {
 
 async function main() {
   const args = process.argv.slice(2);
-  const config = loadConfig();
   
   let booksToProcess = [];
   

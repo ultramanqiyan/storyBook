@@ -13,12 +13,17 @@ function loadConfig() {
   return JSON.parse(configContent);
 }
 
+function escapeRegex(str) {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
 function countKeywordMatches(text, keywords) {
   const lowerText = text.toLowerCase();
   let count = 0;
   
   for (const keyword of keywords) {
-    const regex = new RegExp(keyword.toLowerCase(), 'gi');
+    const escapedKeyword = escapeRegex(keyword.toLowerCase());
+    const regex = new RegExp(escapedKeyword, 'gi');
     const matches = lowerText.match(regex);
     if (matches) {
       count += matches.length;
@@ -71,7 +76,7 @@ function selectPlotCards(bookData, bookType, config) {
   
   if (!fs.existsSync(plotOptionsPath)) {
     console.warn('⚠️ plot-options.json not found, using default cards');
-    return generateDefaultPlotCards(bookType);
+    return generateDefaultPlotCards(bookData);
   }
   
   const plotOptions = JSON.parse(fs.readFileSync(plotOptionsPath, 'utf-8'));
@@ -123,7 +128,7 @@ function selectPlotCards(bookData, bookType, config) {
   }));
 }
 
-function generateDefaultPlotCards(bookType) {
+function generateDefaultPlotCards(bookData) {
   const defaultCards = {
     weather: [
       { name: 'Sunny Day', icon: '☀️', description: 'A bright and clear day' },
@@ -149,7 +154,7 @@ function generateDefaultPlotCards(bookType) {
   for (const [type, typeCards] of Object.entries(defaultCards)) {
     for (const card of typeCards) {
       cards.push({
-        cardId: `card-default-${String(index + 1).padStart(2, '0')}`,
+        cardId: `card-coo-${bookData.dirName}-${String(index + 1).padStart(2, '0')}`,
         type: 'plot',
         subType: type,
         name: card.name,

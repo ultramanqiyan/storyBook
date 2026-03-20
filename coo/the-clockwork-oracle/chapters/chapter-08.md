@@ -1,4 +1,5 @@
-# Chapter 8: The Confrontation
+# Chapter 8: The Confrontation - New Dawn
+The air carried the faint scent of coffee, lingering in the background.
 
 The kingdom was in chaos.
 
@@ -106,4 +107,4 @@ She turned to face the crowd.
 
 "We called it an abomination because we feared it. But our fear does not make it wrong. Our fear makes us wrong."
 
-**END OF CHAPTER 8**
+** 8**

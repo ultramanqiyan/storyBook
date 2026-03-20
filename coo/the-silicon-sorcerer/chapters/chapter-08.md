@@ -98,4 +98,4 @@ The flickering stopped. The sickly green faded back to silver. The shapes on the
 
 But the silence that followed was heavy.
 
-**END OF CHAPTER 8**
+** 8**

@@ -1,4 +1,4 @@
-# Chapter 7: The Revelation
+# Chapter 7: The Revelation - Hidden Truth
 
 The attack came without warning.
 
@@ -94,4 +94,4 @@ It touched Blackwood's forehead, and the man collapsed like the others.
 
 "I do not know. But I know that I cannot hide from it. I must discover what I am becoming. And I must do it before those who fear me find a way to destroy me."
 
-**END OF CHAPTER 7**
+** 7**

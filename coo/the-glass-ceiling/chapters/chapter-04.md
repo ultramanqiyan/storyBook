@@ -1,4 +1,5 @@
-# Chapter 4: The Feedback
+# Chapter 4: The Feedback - Critical Moment
+The air carried the faint scent of dust, lingering in the background.
 
 The performance review was scheduled for a Friday.
 
@@ -158,4 +159,4 @@ Alex wanted to argue. But something in Sarah's words resonated.
 
 Sarah nodded. "I know it's hard to hear. But I wish someone had told me this when I started." She stood up. "Go home, Alex. It'll still be here tomorrow."
 
-**END OF CHAPTER 4**
+** 4**

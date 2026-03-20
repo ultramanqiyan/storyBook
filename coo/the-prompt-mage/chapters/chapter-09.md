@@ -1,4 +1,4 @@
-# Chapter 9: The Stand
+# Chapter 9: The Stand - Critical Moment
 
 Elena Vasquez sat across from Alex in a private room at a downtown restaurant, her expression calm and professional. Two of her coalition partners flanked her—a lawyer and a security consultant—while Alex sat alone, their hands folded on the table.
 

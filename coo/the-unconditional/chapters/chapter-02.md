@@ -1,4 +1,4 @@
-# Chapter 02: The Voice
+# Chapter 2: The Voice - Something New Speaks
 
 The morning is the same.
 

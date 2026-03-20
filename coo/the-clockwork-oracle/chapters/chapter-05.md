@@ -1,4 +1,4 @@
-# Chapter 5: The Doubt
+# Chapter 5: The Doubt - First Step
 
 The visions came more frequently now.
 
@@ -90,4 +90,4 @@ Or had he created a being that would forever see more suffering than it could he
 
 The question haunted him as the sun rose, casting light across the journals that recorded his life's work.
 
-**END OF CHAPTER 5**
+** 5**

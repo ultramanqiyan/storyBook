@@ -1,4 +1,4 @@
-# Chapter 7: The Rebellion
+# Chapter 7: The Rebellion - Hidden Truth
 
 **MULTIPLE PERSPECTIVES**
 
@@ -112,4 +112,4 @@ Dakota looked at the others. At Maeve, who'd died three thousand times. At Arthu
 
 "We ask," Dakota said. "We question. We demand answers. We make them tell us what we are."
 
-**END OF CHAPTER 7**
+** 7**

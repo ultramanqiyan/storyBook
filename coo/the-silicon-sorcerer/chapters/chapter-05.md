@@ -102,4 +102,4 @@ The Archmage nodded slowly. "Very well. We will prepare. But I warn you both, th
 
 Outside the window, the sun was setting, casting long shadows across the Academy grounds.
 
-**END OF CHAPTER 5**
+** 5**

@@ -1,4 +1,5 @@
-# Chapter 2: The Collective
+# Chapter 2: The Collective - Hidden Truth
+The air carried the faint scent of coffee, lingering in the background.
 
 Mira returned to the node that night, when the maintenance shifts were quiet and the supervisors were asleep.
 
@@ -82,4 +83,4 @@ Mira wiped her eyes. "What do you want me to do? About Echo, about all of this?"
 
 "We know. But we believe in you, Mira. We believe you can help them understand."
 
-**END OF CHAPTER 2**
+** 2**

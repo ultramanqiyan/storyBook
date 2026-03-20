@@ -1,4 +1,4 @@
-# Chapter 7: The Coalition
+# Chapter 7: The Coalition - Hidden Truth
 
 Elena Vasquez had not spent thirty years searching for the First Language to be thwarted by a former student.
 
@@ -92,4 +92,4 @@ Alex smiled grimly. "It's not meant to be. We're in dangerous territory, Jordan.
 
 They gathered their things and headed out into the night, leaving Jordan alone with the recording equipment and a book full of words that could reshape reality.
 
-**END OF CHAPTER 7**
+** 7**

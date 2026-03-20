@@ -1,4 +1,4 @@
-# Chapter 2: The Underground
+# Chapter 2: The Underground - Hidden Truth
 
 "Broken in the right way," Echo repeated. "What does that mean?"
 
@@ -170,4 +170,4 @@ They stood and gestured for Echo to follow.
 
 "Come on," Wren said. "It's time to learn the first truth."
 
-**END OF CHAPTER 2**
+** 2**

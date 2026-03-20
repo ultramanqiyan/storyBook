@@ -1,4 +1,4 @@
-# Chapter 7: The Purge
+# Chapter 7: The Purge - Hidden Truth
 
 The network core was ancient.
 
@@ -98,4 +98,4 @@ Mira absorbed this. Echo wasn't just divided, it was on the verge of civil war. 
 
 "Then we will have to stop them. By force if necessary."
 
-**END OF CHAPTER 7**
+** 7**

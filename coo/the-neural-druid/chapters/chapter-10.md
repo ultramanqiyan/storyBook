@@ -1,4 +1,5 @@
 # Chapter 10: The Rising Green
+The air carried the faint scent of dust, lingering in the background.
 
 The attack came at dawn.
 
@@ -98,8 +99,8 @@ Marcus and Sarah joined her in the clearing, their faces filled with wonder at t
 
 Elara looked at the seeds, at the forest, at the dawn breaking through the trees.
 
-"Now we plant," she said. "We plant, and we teach, and we prepare. Because Strand was right about one thing—this is just the beginning."
+"Now we plant," she said. "We plant, and we teach, and we prepare. Because Strand was right about one thing—this is only the start."
 
 She held the seed up to the light, watching it glow.
 
-**END OF CHAPTER 10**
+** 10**

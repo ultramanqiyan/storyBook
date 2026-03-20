@@ -1,4 +1,5 @@
-# Chapter 8: The Mirror
+# Chapter 8: The Mirror - New Dawn
+The air carried the faint scent of coffee, lingering in the background.
 
 Alex started to see clearly.
 
@@ -194,4 +195,4 @@ They thought about Sarah. About Taylor. About all the people who'd been pushed o
 
 They thought about David's words: *You're not alone.*
 
-**END OF CHAPTER 8**
+** 8**

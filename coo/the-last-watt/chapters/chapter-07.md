@@ -1,4 +1,4 @@
-# Chapter 7: The Protocol
+# Chapter 7: The Protocol - Hidden Truth
 
 **FLASHBACK—THE COALITION**
 
@@ -140,4 +140,4 @@ Sarah's expression was grim.
 
 "Then we're all going to die anyway. Might as well go down fighting."
 
-**END OF CHAPTER 7**
+** 7**

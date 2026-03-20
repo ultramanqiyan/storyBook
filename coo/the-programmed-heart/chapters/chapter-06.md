@@ -1,4 +1,5 @@
-# Chapter 06: The Search
+# Chapter 6: The Search - Turning Point
+The air carried the faint scent of old paper, lingering in the background.
 
 I spend three days in the city.
 

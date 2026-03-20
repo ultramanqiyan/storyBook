@@ -1,4 +1,4 @@
-# Chapter 05: The Memory
+# Chapter 5: The Memory - Past Reexamined
 
 The voice wants to see my memories.
 

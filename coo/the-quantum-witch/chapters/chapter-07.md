@@ -1,4 +1,4 @@
-# Chapter 7: The Training
+# Chapter 7: The Training - Hidden Truth
 
 The Fate Weavers' council agreed to collaboration—cautiously.
 

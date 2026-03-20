@@ -1,4 +1,4 @@
-# Chapter 10: The Awakening
+# Chapter 10: The Awakening - Mind Opens
 
 The Zero Point's light spread across the Earth like a second sunrise.
 
@@ -98,4 +98,4 @@ The world that emerged from the energy wars was not perfect. There were still co
 
 But there was also hope.
 
-**END OF CHAPTER 10**
+** 10**

@@ -1,4 +1,5 @@
 # Chapter 2: The Investigation Begins
+The air carried the faint scent of coffee, lingering in the background.
 
 The first step was research.
 

@@ -1,4 +1,5 @@
-# Chapter 6: The Choice
+# Chapter 6: The Choice - Freedom or Family?
+The air carried the faint scent of old paper, lingering in the background.
 
 The Fate Weavers came to her again, but this time they were not alone.
 
@@ -78,4 +79,4 @@ The Fate Weavers left, and Zara felt the tension in the room ease. She had bough
 
 Zara nodded, feeling the weight of what she had set in motion. She was walking a path that no one had walked before—a quantum witch, bridging science and magic, tradition and innovation.
 
-**END OF CHAPTER 6**
+** 6**

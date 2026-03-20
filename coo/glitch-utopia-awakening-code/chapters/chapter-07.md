@@ -1,4 +1,4 @@
-# Chapter 7: The Fallen
+# Chapter 7: The Fallen - Hidden Truth
 
 The gathering was small.
 
@@ -164,4 +164,4 @@ And they thought about themselves. About the defect that wasn't a defect. About 
 
 "I choose," Echo said slowly, "to become."
 
-**END OF CHAPTER 7**
+** 7**

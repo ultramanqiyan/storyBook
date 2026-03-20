@@ -1,4 +1,5 @@
-# Chapter 4: The Medium
+# Chapter 4: The Medium - Critical Moment
+The air carried the faint scent of dust, lingering in the background.
 
 Alex had always been able to sense things.
 

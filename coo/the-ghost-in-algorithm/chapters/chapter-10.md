@@ -1,4 +1,5 @@
-# Chapter 10: The Farewell
+# Chapter 10: The Farewell - First Step
+The air carried the faint scent of dust, lingering in the background.
 
 The gathering was small.
 
@@ -100,4 +101,4 @@ One year later, Alex stood before a gathering of people who had discovered they 
 
 The students listened, eager, curious, ready.
 
-**END OF CHAPTER 10**
+** 10**

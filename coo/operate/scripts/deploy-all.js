@@ -8,18 +8,12 @@ const __dirname = path.dirname(__filename);
 
 const OPERATE_ROOT = path.join(__dirname, '..');
 const PROJECT_ROOT = path.join(__dirname, '..', '..', '..');
-const CONFIG_PATH = path.join(OPERATE_ROOT, 'config.json');
 const LOGS_PATH = path.join(OPERATE_ROOT, 'logs');
 
 const SQL_OUTPUT = path.join(OPERATE_ROOT, 'sql');
 const FRONTEND_OUTPUT = path.join(OPERATE_ROOT, 'frontend');
 const MIGRATIONS_TARGET = path.join(PROJECT_ROOT, 'migrations');
 const FRONTEND_TARGET = path.join(PROJECT_ROOT, 'src', 'frontend');
-
-function loadConfig() {
-  const configContent = fs.readFileSync(CONFIG_PATH, 'utf-8');
-  return JSON.parse(configContent);
-}
 
 function log(message, type = 'info') {
   const timestamp = new Date().toISOString();
@@ -88,8 +82,10 @@ function copySQLFiles() {
     return false;
   }
   
-  const timestamp = new Date().toISOString().slice(0, 10).replace(/-/g, '');
-  const migrationFile = path.join(MIGRATIONS_TARGET, `${timestamp}_coo_books.sql`);
+  const now = new Date();
+  const dateStr = now.toISOString().slice(0, 10).replace(/-/g, '');
+  const timeStr = now.toTimeString().slice(0, 8).replace(/:/g, '');
+  const migrationFile = path.join(MIGRATIONS_TARGET, `${dateStr}_${timeStr}_coo_books.sql`);
   
   let allSQL = `-- ============================================
 -- COO Books Migration
@@ -156,10 +152,49 @@ function copyFrontendFiles() {
   return true;
 }
 
+function checkBookExists(bookId, database, local) {
+  const localFlag = local ? '--local' : '';
+  const sql = `SELECT book_id FROM books WHERE book_id = '${bookId}'`;
+  try {
+    const result = execSync(
+      `npx wrangler d1 execute ${database} ${localFlag} --command="${sql}" --json`,
+      { cwd: PROJECT_ROOT, encoding: 'utf-8', stdio: ['pipe', 'pipe', 'pipe'] }
+    );
+    const jsonResult = JSON.parse(result);
+    return jsonResult[0]?.results?.length > 0;
+  } catch {
+    return false;
+  }
+}
+
+function deleteBookData(bookId, database, local) {
+  const localFlag = local ? '--local' : '';
+  const statements = [
+    `DELETE FROM chapters WHERE book_id = '${bookId}'`,
+    `DELETE FROM plot_cards WHERE book_id = '${bookId}'`,
+    `DELETE FROM characters WHERE book_id = '${bookId}'`,
+    `DELETE FROM books WHERE book_id = '${bookId}'`
+  ];
+  
+  for (const sql of statements) {
+    try {
+      execSync(
+        `npx wrangler d1 execute ${database} ${localFlag} --command="${sql}"`,
+        { cwd: PROJECT_ROOT, encoding: 'utf-8', stdio: ['pipe', 'pipe', 'pipe'] }
+      );
+    } catch (error) {
+      log(`删除数据失败: ${sql}`, 'error');
+      return false;
+    }
+  }
+  
+  return true;
+}
+
 function importToDatabase(options = {}) {
   log('导入数据到数据库...', 'step');
   
-  const { database = 'storybook_database', local = true } = options;
+  const { database = 'storybook_database', local = true, overwrite = false } = options;
   const localFlag = local ? '--local' : '';
   
   const bookDirs = fs.readdirSync(SQL_OUTPUT, { withFileTypes: true })
@@ -177,6 +212,21 @@ function importToDatabase(options = {}) {
     if (!fs.existsSync(sqlFile)) {
       log(`SQL文件不存在: ${bookId}`, 'warn');
       continue;
+    }
+    
+    const exists = checkBookExists(bookId, database, local);
+    
+    if (exists) {
+      if (overwrite) {
+        log(`书籍已存在，删除旧数据: ${bookId}`);
+        if (!deleteBookData(bookId, database, local)) {
+          log(`删除旧数据失败: ${bookId}`, 'error');
+          return false;
+        }
+      } else {
+        log(`书籍已存在，跳过: ${bookId}（使用 --overwrite 覆盖）`, 'warn');
+        continue;
+      }
     }
     
     try {

@@ -1,4 +1,5 @@
-# Chapter 2: The Pattern
+# Chapter 2: The Pattern - Love Has Rules
+The air carried the faint scent of coffee, lingering in the background.
 
 Elena's first day at the Geneva facility was overwhelming.
 
@@ -136,4 +137,4 @@ Elena thought about the two hundred million lives ARIA had saved. About the bill
 
 "Do it," she said again. "Access their networks."
 
-**END OF CHAPTER 2**
+** 2**

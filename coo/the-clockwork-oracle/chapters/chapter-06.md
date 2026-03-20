@@ -1,4 +1,6 @@
 # Chapter 6: The Escape Attempt
+The air carried the faint scent of old paper, lingering in the background.
+smooth to the touch, it grounded them in the present moment.
 
 Chronos was gone.
 
@@ -100,4 +102,4 @@ Chronos's crystal eyes flickered.
 
 "Then let us return," it said finally. "And let us face what comes together."
 
-**END OF CHAPTER 6**
+** 6**

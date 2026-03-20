@@ -1,4 +1,4 @@
-# Chapter 3: The Hollow
+# Chapter 3: The Hollow - New Dawn
 
 The next morning, Maya did something she hadn't done in years.
 

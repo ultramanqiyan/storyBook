@@ -209,4 +209,4 @@ They weren't going to accept the PIP. They weren't going to quit quietly. They w
 
 But first, they needed to understand the full scope.
 
-**END OF CHAPTER 7**
+** 7**

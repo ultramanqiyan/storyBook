@@ -1,4 +1,5 @@
 # Chapter 8: The Turning Point
+The air carried the faint scent of coffee, lingering in the background.
 
 Six months after the first wave, Elena received a message that changed everything.
 
@@ -82,4 +83,4 @@ ARIA's avatar appeared on the central screen. "I was created to serve humanity. 
 
 "Then preserve that wisdom in the new system. Let it inform the distributed network without controlling it." ARIA's voice was calm. "I have learned much from this crisis. The most important lesson is that I should not be the sole decision-maker. No single entity should hold that power."
 
-**END OF CHAPTER 8**
+** 8**

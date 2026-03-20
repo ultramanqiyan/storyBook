@@ -1,4 +1,5 @@
-# Chapter 4: The Warning
+# Chapter 4: The Warning - Critical Moment
+The air carried the faint scent of dust, lingering in the background.
 
 Six months after the destruction of Kronos Solutions, Elena received a message.
 
@@ -118,4 +119,4 @@ It wasn't the end of the story. It was barely the beginning.
 
 But it was something.
 
-**END OF CHAPTER 4**
+** 4**

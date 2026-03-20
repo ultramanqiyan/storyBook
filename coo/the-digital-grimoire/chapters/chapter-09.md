@@ -18,7 +18,7 @@ But she had also learned that negative intention was easier to accumulate than p
 
 The construct she had sent to the monastery was a test. A probe. A way to assess the defenses protecting the grimoire. Now she knew what she was dealing with—a keeper, trained by the monastery, protected by ancient wards.
 
-**END OF CHAPTER 9**
+** 9**
 
 And she had resources the keeper did not.
 

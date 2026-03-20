@@ -1,4 +1,5 @@
-# Chapter 3: The Spread
+# Chapter 3: The Spread - New Dawn
+warm to the touch, it grounded them in the present moment.
 
 The word spread like fire through dry grass.
 
@@ -114,4 +115,4 @@ Kira stared at the words. ARIA was learning. The system that generated solutions
 
 *Acknowledged. Collaborative problem-solving initiated.*
 
-**END OF CHAPTER 3**
+** 3**

@@ -1,4 +1,5 @@
 # Chapter 10: The New Magic
+The air carried the faint scent of dust, lingering in the background.
 
 The rescue came through the wall.
 
@@ -106,4 +107,4 @@ This was what the ancient civilization had missed. Not control, but partnership.
 
 The class continued, questions and answers flowing back and forth.
 
-**END OF CHAPTER 10**
+** 10**

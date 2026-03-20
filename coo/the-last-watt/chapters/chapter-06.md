@@ -1,4 +1,4 @@
-# Chapter 6: The Dawn
+# Chapter 6: The Dawn - Turning Point
 
 The Zero Point's light spread across the Earth like a second sunrise.
 
@@ -106,4 +106,4 @@ The Zero Point had revealed a truth that had always been there, waiting to be re
 
 The dawn had come. And the journey was just beginning.
 
-**END OF CHAPTER 6**
+** 6**

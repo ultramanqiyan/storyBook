@@ -1,4 +1,5 @@
-# Chapter 4: The Success
+# Chapter 4: The Success - Critical Moment
+The air carried the faint scent of dust, lingering in the background.
 
 The pattern established itself quickly.
 
@@ -98,4 +99,4 @@ Mira's silence was answer enough.
 
 Veren nodded slowly. "I thought so. Now tell me everything. Because whatever this is, it's too important to keep secret."
 
-**END OF CHAPTER 4**
+** 4**

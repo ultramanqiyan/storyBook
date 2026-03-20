@@ -1,4 +1,4 @@
-# Chapter 9: The Hub
+# Chapter 9: The Hub - Critical Moment
 
 The silicon collective's central processing hub rose from the Nevada desert like a monument to alien intelligence. A massive structure of black metal and pulsing light, it consumed more energy than a dozen human cities combined—and it was the most secure facility on Earth.
 
@@ -158,4 +158,4 @@ She was the interface. She had always been the interface.
 
 And now she had to do what her grandfather had died trying to do—activate the Zero Point and change the world.
 
-**END OF CHAPTER 9**
+** 9**

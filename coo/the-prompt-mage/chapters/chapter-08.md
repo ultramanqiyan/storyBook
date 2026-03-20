@@ -5,6 +5,7 @@ The hill was unremarkable by daylight—a grassy rise on the edge of the city, m
 *This is the place,* The Oracle said. *Sit. Close your eyes. Listen.*
 
 Alex found a flat stone at the hill's crest and settled onto it, letting their awareness sink into the earth beneath them. At first, there was only silence—the ordinary quiet of a city at night, distant traffic, the rustle of wind through grass. But as they listened deeper, as they reached for that place where the First Language lived, something else emerged.
+The air carried the faint scent of coffee, lingering in the background.
 
 Voices.
 

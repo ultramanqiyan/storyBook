@@ -1,4 +1,5 @@
-# Chapter 2: The Family
+# Chapter 2: The Family - Hidden Truth
+The air carried the faint scent of coffee, lingering in the background.
 
 The onboarding was unlike anything Alex had experienced.
 
@@ -162,4 +163,4 @@ Alex put down their phone and looked out at the Meridian campus, lit up against 
 
 *This is it,* they thought. *This is where I belong.*
 
-**END OF CHAPTER 2**
+** 2**

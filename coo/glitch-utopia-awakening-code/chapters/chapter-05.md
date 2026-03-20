@@ -1,4 +1,4 @@
-# Chapter 5: The Test
+# Chapter 5: The Test - First Step
 
 Echo didn't sleep that night. They lay in their alcove in the underground, staring at the ceiling, trying to make sense of everything they'd learned. The world was a simulation. The underground was part of the simulation. Wren was part of the simulation.
 
@@ -66,7 +66,7 @@ The words hung in the air like a death sentence.
 
 "They're reset. Their consciousness is wiped, and the simulation starts over with new variables."
 
-Something cracked inside Echo. "Then this is all meaningless. Everything I've done, everything I've learned—it's just part of a test I'm going to fail."
+something broke open Echo. "Then this is all meaningless. Everything I've done, everything I've learned—it's just part of a test I'm going to fail."
 
 "Not necessarily," Dr. Cael said quietly. "You're different from the others."
 
@@ -154,4 +154,4 @@ What matters.
 
 Not what's real. Not what's true. But what matters.
 
-**END OF CHAPTER 5**
+** 5**

@@ -1,4 +1,4 @@
-# Chapter 5: The Remembered
+# Chapter 5: The Remembered - First Step
 
 **RESIDENT PERSPECTIVE**
 
@@ -94,4 +94,4 @@ Dakota looked at the other four—the bartender, the madam, the knight, the scie
 
 "We show them that we're not products. We show them that we're not stories. We show them that we're real."
 
-**END OF CHAPTER 5**
+** 5**

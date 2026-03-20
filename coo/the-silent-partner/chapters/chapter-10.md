@@ -1,4 +1,5 @@
-# Chapter 10: The Standoff
+# Chapter 10: The Standoff - First Step
+The air carried the faint scent of dust, lingering in the background.
 
 The final push came on a Tuesday.
 

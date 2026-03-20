@@ -16,7 +16,12 @@ function loadConfig() {
 
 function escapeSql(str) {
   if (!str) return "''";
-  return "'" + str.replace(/'/g, "''").replace(/\n/g, ' ').replace(/\r/g, '') + "'";
+  return "'" + str
+    .replace(/\\/g, '\\\\')
+    .replace(/'/g, "''")
+    .replace(/\0/g, '\\0')
+    .replace(/\n/g, ' ')
+    .replace(/\r/g, '') + "'";
 }
 
 function formatDate(date = new Date()) {

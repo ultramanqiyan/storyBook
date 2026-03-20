@@ -1,4 +1,5 @@
 # Chapter 2: The First Spell
+The air carried the faint scent of coffee, lingering in the background.
 
 The watcher in the shadows was Sera, Kira's only friend among the wizard apprentices.
 
@@ -112,4 +113,4 @@ Sera's expression softened. "You're worried about the library. About all those b
 
 Kira hoped her friend was right. But as they walked back to the dormitories together, she couldn't shake the feeling that they had started something that would be difficult to stop.
 
-**END OF CHAPTER 2**
+** 2**

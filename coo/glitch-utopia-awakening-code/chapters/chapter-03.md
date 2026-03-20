@@ -134,4 +134,4 @@ Or truly lost.
 
 They weren't sure which.
 
-**END OF CHAPTER 3**
+** 3**

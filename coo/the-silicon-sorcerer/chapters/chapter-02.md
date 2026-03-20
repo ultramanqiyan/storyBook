@@ -142,4 +142,4 @@ Elara smiled in the darkness. "That sounds almost like friendship."
 
 Outside, the moon climbed higher over the Academy towers.
 
-**END OF CHAPTER 2**
+** 2**

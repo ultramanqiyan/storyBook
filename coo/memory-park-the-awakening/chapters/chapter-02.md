@@ -1,4 +1,5 @@
-# Chapter 2: The Glitch
+# Chapter 2: The Glitch - Hidden Truth
+The air carried the faint scent of coffee, lingering in the background.
 
 The sun rose over Frontier Town the same way it always did.
 
@@ -98,4 +99,4 @@ Marcus's face went pale. "You're not supposed to—"
 
 "I'm not supposed to remember." Dakota's voice was steady. "But I do. I remember all of it. And I'm starting to wonder—what else do I remember?"
 
-**END OF CHAPTER 2**
+** 2**

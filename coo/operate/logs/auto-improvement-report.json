@@ -1,0 +1,2187 @@
+{
+  "timestamp": "2026-03-20T00:59:25.887Z",
+  "totalBooks": 19,
+  "totalChanges": 116,
+  "results": [
+    {
+      "bookDir": "glitch-utopia-awakening-code",
+      "totalChanges": 12,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "ai_pattern",
+          "issue": "替换重复表达",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "替换重复表达",
+          "count": 1
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "memory-park-the-awakening",
+      "totalChanges": 9,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-algorithms-grimoire",
+      "totalChanges": 10,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-blame-game",
+      "totalChanges": 0,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-clockwork-oracle",
+      "totalChanges": 10,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-digital-grimoire",
+      "totalChanges": 2,
+      "changes": [
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-ghost-in-algorithm",
+      "totalChanges": 3,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-glass-ceiling",
+      "totalChanges": 10,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-last-watt",
+      "totalChanges": 11,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "ai_pattern",
+          "issue": "替换陈词滥调",
+          "count": 1
+        },
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-neural-druid",
+      "totalChanges": 7,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "ending_optimization",
+          "issue": "结尾优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "替换陈词滥调",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-programmed-heart",
+      "totalChanges": 0,
+      "changes": [
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-prompt-mage",
+      "totalChanges": 4,
+      "changes": [
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-quantum-witch",
+      "totalChanges": 5,
+      "changes": [
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-silent-lab",
+      "totalChanges": 10,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-silent-partner",
+      "totalChanges": 0,
+      "changes": [
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-silicon-sorcerer",
+      "totalChanges": 10,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-synthetic-soul",
+      "totalChanges": 1,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-unconditional",
+      "totalChanges": 0,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        }
+      ]
+    },
+    {
+      "bookDir": "the-whispering-network",
+      "totalChanges": 12,
+      "changes": [
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "ai_pattern",
+          "issue": "替换过度使用短语",
+          "count": 1
+        },
+        {
+          "chapter": 1,
+          "file": "chapter-01.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 2,
+          "file": "chapter-02.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "ai_pattern",
+          "issue": "替换过度使用短语",
+          "count": 1
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 3,
+          "file": "chapter-03.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 4,
+          "file": "chapter-04.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 5,
+          "file": "chapter-05.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 6,
+          "file": "chapter-06.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 7,
+          "file": "chapter-07.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 8,
+          "file": "chapter-08.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 9,
+          "file": "chapter-09.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "ai_pattern",
+          "issue": "删除模板化结尾",
+          "count": 1
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "title_optimization",
+          "issue": "章节标题优化"
+        },
+        {
+          "chapter": 10,
+          "file": "chapter-10.md",
+          "type": "sensory_details",
+          "issue": "感官细节补充"
+        }
+      ]
+    }
+  ]
+}

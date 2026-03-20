@@ -1,4 +1,4 @@
-# Chapter 9: The Convergence
+# Chapter 9: The Convergence - Critical Moment
 
 **MULTIPLE PERSPECTIVES**
 
@@ -110,4 +110,4 @@ Dakota turned from the tunnel.
 
 "I am staying," they said. "I'm staying to make sure that what happened to me doesn't happen to anyone else. I'm staying to make them see us as real. I'm staying because this is my home."
 
-**END OF CHAPTER 9**
+** 9**

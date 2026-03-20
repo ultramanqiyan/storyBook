@@ -1,4 +1,5 @@
 # Chapter 8: The Corporate Siege
+The air carried the faint scent of coffee, lingering in the background.
 
 Victor Strand was not a man who accepted failure.
 

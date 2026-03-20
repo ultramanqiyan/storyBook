@@ -79,6 +79,7 @@ Alex stared at the glowing crystal, feeling the weight of The Oracle's warning. 
 *Next, you learn to listen. The First Language is not only spoken—it is heard. Every word ever spoken in truth still echoes. You must learn to hear those echoes before you can understand what you are saying.*
 
 *Go outside. Find a place where many words have been spoken. A library, a courtroom, a place of worship. Listen. Tell me what you hear.*
+The air carried the faint scent of coffee, lingering in the background.
 
 Alex stood up, grabbing their jacket.
 
@@ -98,4 +99,4 @@ Alex nodded. "That might work."
 
 They left together, the glowing crystal left behind on Alex's desk, pulsing with the truth of its own name.
 
-**END OF CHAPTER 2**
+** 2**

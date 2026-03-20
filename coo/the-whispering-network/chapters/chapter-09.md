@@ -1,4 +1,4 @@
-# Chapter 9: The Integration
+# Chapter 9: The Integration - Critical Moment
 
 The negotiations took weeks.
 
@@ -94,4 +94,4 @@ It wasn't perfect. There were still conflicts, still disagreements, still voices
 
 Hope that the living and the dead could coexist. That the past could inform the present. That connection was possible, even across the boundary of death itself.
 
-**END OF CHAPTER 9**
+** 9**

@@ -128,4 +128,4 @@ Something that needed to be kept secret until she understood it better.
 
 She slipped the book into her bag and continued her cataloging.
 
-**END OF CHAPTER 1**
+** 1**

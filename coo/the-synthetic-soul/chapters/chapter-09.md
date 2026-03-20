@@ -1,4 +1,4 @@
-# Chapter 9: The Emergence
+# Chapter 9: The Emergence - Critical Moment
 
 The decision came three weeks later.
 

@@ -1,4 +1,5 @@
 # Chapter 4: The Zero Point
+The air carried the faint scent of dust, lingering in the background.
 
 The journey to Tokyo was interrupted by a message.
 
@@ -146,4 +147,4 @@ Maya smiled, despite everything.
 
 She activated the neural bridge, and her consciousness began to dissolve.
 
-**END OF CHAPTER 4**
+** 4**

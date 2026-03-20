@@ -1,4 +1,4 @@
-# Chapter 7: The Resistance
+# Chapter 7: The Resistance - Hidden Truth
 
 Maya didn't sleep that night.
 

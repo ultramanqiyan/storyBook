@@ -1,4 +1,5 @@
 # Chapter 10: The Quantum Witch
+The air carried the faint scent of dust, lingering in the background.
 
 The aftermath of the confrontation was quiet.
 
@@ -86,4 +87,4 @@ And she was just beginning.
 
 Zara smiled. "Let's see what other impossibilities we can make possible."
 
-**END OF CHAPTER 10**
+** 10**

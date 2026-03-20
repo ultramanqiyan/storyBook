@@ -1,4 +1,5 @@
 # Chapter 2: The Threads of Fate
+The air carried the faint scent of coffee, lingering in the background.
 
 The first lesson was perception.
 

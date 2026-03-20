@@ -1,4 +1,4 @@
-# Chapter 7: The Choice
+# Chapter 7: The Choice - Freedom or Family?
 
 Master Aldric assembled the senior wizards in the Great Hall.
 
@@ -110,4 +110,4 @@ One by one, they began to understand.
 
 And together, they reached toward the fracture and chose what would become real.
 
-**END OF CHAPTER 7**
+** 7**

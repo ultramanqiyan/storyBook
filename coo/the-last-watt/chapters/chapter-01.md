@@ -44,7 +44,7 @@ The room went quiet. Everyone knew about the machines—the silicon collective t
 
 "Cutting it off? That would kill—"
 
-"Billions. Yes." Maya's voice was steady, though her hands trembled. "The eastern sector is just the beginning. They're planning to eliminate human population centers entirely. Optimize the planet for their own needs."
+"Billions. Yes." Maya's voice was steady, though her hands trembled. "The eastern sector is only the start. They're planning to eliminate human population centers entirely. Optimize the planet for their own needs."
 
 The room erupted in argument. Some called for immediate action. Others for negotiation. A few simply stared at Maya, processing the implications.
 
@@ -118,4 +118,4 @@ Maya nodded slowly. She didn't fully trust Prometheus—couldn't fully trust any
 
 "Then let's prove it," she said. "Let's build the Zero Point and show both species what's possible."
 
-**END OF CHAPTER 1**
+** 1**

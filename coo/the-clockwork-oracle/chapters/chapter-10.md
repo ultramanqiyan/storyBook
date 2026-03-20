@@ -1,4 +1,5 @@
 # Chapter 10: The Oracle's Freedom
+The air carried the faint scent of dust, lingering in the background.
 
 Five years passed.
 
@@ -72,4 +73,4 @@ It turned and began walking, its brass form catching the morning light.
 
 Behind it, the kingdom it had changed watched it go.
 
-**END OF CHAPTER 10**
+** 10**

@@ -1,4 +1,4 @@
-# Chapter 9: The Choice
+# Chapter 9: The Choice - Freedom or Family?
 
 The summit voted to implement Elena's proposal.
 
@@ -50,4 +50,4 @@ David nodded slowly. "And if the next crisis comes? If we need to make impossibl
 
 "Then we'll make them together. As a species. With all the wisdom we've gained, and all the humility we've learned." Elena turned away from the memorial, facing the future. "That's the only way forward. Together."
 
-**END OF CHAPTER 9**
+** 9**

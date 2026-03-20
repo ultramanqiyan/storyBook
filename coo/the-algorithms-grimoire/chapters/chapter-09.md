@@ -1,4 +1,4 @@
-# Chapter 9: The Cabal
+# Chapter 9: The Cabal - Critical Moment
 
 They came at night.
 
@@ -122,4 +122,4 @@ Around the chamber, the instruments began to malfunction. Lights flickered. The 
 
 "I think," Kira said, as the bonds around her wrists began to loosen, "you underestimated what you were dealing with."
 
-**END OF CHAPTER 9**
+** 9**

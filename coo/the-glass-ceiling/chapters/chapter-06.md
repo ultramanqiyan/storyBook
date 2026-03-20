@@ -1,4 +1,5 @@
-# Chapter 6: The Gaslight
+# Chapter 6: The Gaslight - Turning Point
+The air carried the faint scent of old paper, lingering in the background.
 
 Alex started to question their own mind.
 
@@ -188,4 +189,4 @@ The words hit Alex like a physical blow.
 
 Sarah shrugged. "I don't know if it's conscious. But it's the result. Look around, Alex. Everyone on this team is either new and eager, or burned out and going through the motions. No one is thriving. No one is growing. We're all just... surviving."
 
-**END OF CHAPTER 6**
+** 6**

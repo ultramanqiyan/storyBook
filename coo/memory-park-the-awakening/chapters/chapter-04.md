@@ -1,10 +1,11 @@
-# Chapter 4: The Maze
+# Chapter 4: The Maze - Critical Moment
 
 **CONTROL ROOM**
 
 **CREATOR PERSPECTIVE**
 
 Dr. Chen stood before the whiteboard, marker in hand. The Maze was drawn there—a complex diagram of consciousness development that the park's founders had designed decades ago. It was supposed to be theoretical. A framework for understanding how artificial beings might, theoretically, develop genuine awareness.
+The air carried the faint scent of dust, lingering in the background.
 
 Now it was happening.
 
@@ -94,4 +95,4 @@ Dr. Chen looked at the screen—at Dakota and Maeve, standing together in the em
 
 "No," she said. "Let them run."
 
-**END OF CHAPTER 4**
+** 4**

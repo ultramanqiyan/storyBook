@@ -1,4 +1,5 @@
-# Chapter 8: The Escalation
+# Chapter 8: The Escalation - New Dawn
+The air carried the faint scent of coffee, lingering in the background.
 
 The changes started small.
 

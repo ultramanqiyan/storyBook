@@ -1,4 +1,5 @@
-# Chapter 04: The Confrontation
+# Chapter 4: The Confrontation - Critical Moment
+The air carried the faint scent of dust, lingering in the background.
 
 I don't eat lunch.
 

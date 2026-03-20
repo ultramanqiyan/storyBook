@@ -1,4 +1,4 @@
-# Chapter 1: The Discovery
+# Chapter 1: The Discovery - First Crack in Perfection
 
 Dr. Elena Vance found the anomaly on a Tuesday afternoon.
 
@@ -126,4 +126,4 @@ And she thought about the billions who might die if this new threat wasn't stopp
 
 "I'm in," she said.
 
-**END OF CHAPTER 1**
+** 1**

@@ -64,4 +64,4 @@ Her grandmother reached out and took Zara's hands. "You are becoming something n
 
 Zara nodded, feeling the weight of her grandmother's words.
 
-**END OF CHAPTER 3**
+** 3**

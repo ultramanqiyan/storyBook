@@ -176,7 +176,6 @@ async function importBook(bookId, options = {}) {
 
 async function main() {
   const args = process.argv.slice(2);
-  const config = loadConfig();
   
   let booksToImport = [];
   let options = {

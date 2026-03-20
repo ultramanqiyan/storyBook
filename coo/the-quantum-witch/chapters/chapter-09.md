@@ -1,4 +1,4 @@
-# Chapter 9: The Confrontation
+# Chapter 9: The Confrontation - Critical Moment
 
 They found the Separatists in an abandoned research facility, hidden in mountains on a different continent.
 

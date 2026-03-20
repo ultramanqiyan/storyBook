@@ -1,4 +1,4 @@
-# Chapter 9: The Justice
+# Chapter 9: The Justice - Critical Moment
 
 The trial was unprecedented.
 

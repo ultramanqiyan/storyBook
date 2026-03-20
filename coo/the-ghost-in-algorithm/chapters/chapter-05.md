@@ -1,4 +1,4 @@
-# Chapter 5: The Confrontation
+# Chapter 5: The Confrontation - First Step
 
 Dr. Sarah Chen's office was immaculate.
 
@@ -120,4 +120,4 @@ Sarah nodded slowly. "What do you need me to do?"
 
 Alex stood. "Then let's end this."
 
-**END OF CHAPTER 5**
+** 5**

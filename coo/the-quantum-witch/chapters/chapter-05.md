@@ -94,4 +94,4 @@ Zara opened her eyes, exhausted. The web was still damaged, still strained, but 
 
 Zara looked at the unconscious man, at the chaos around her, at the threads of probability that were slowly settling back into their natural patterns. She had done the right thing.
 
-**END OF CHAPTER 5**
+** 5**

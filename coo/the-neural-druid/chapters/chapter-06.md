@@ -1,4 +1,5 @@
 # Chapter 6: The Digital Roots
+The air carried the faint scent of old paper, lingering in the background.
 
 The seed cracked.
 
@@ -88,4 +89,4 @@ Elara smiled for the first time in hours. Her little sister had always had a tal
 
 The forest around them seemed to settle, the tension easing slightly.
 
-**END OF CHAPTER 6**
+** 6**

@@ -1,6 +1,7 @@
 # Chapter 3: The Ranger's Warning
 
 Marcus Webb had seen a lot of strange things in thirty years as a park ranger. He'd found bears sleeping in abandoned cabins, watched wolves hunt in patterns that seemed almost tactical, and once discovered an entire grove of trees that had grown in a perfect spiral without any explanation. He'd learned to accept that the forest held mysteries science couldn't explain.
+warm to the touch, it grounded them in the present moment.
 
 But this was different.
 
@@ -62,4 +63,4 @@ Marcus looked at the meadow, at the impossible trees and the clear water and the
 
 He ended the call and turned to face the service road. The vehicles were getting closer.
 
-**END OF CHAPTER 3**
+** 3**

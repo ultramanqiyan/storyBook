@@ -1,4 +1,4 @@
-# Chapter 5: The Conflict
+# Chapter 5: The Conflict - First Step
 
 Mira told Veren everything.
 
@@ -134,4 +134,4 @@ Mira's eyes filled with tears.
 
 The connection faded, and Mira was left alone with a dead crystal ball and a kingdom in crisis.
 
-**END OF CHAPTER 5**
+** 5**

@@ -1,4 +1,4 @@
-# Chapter 3: The Detective
+# Chapter 3: The Detective - New Dawn
 
 Detective Marcus Webb had seen a lot of strange things in twenty years on the force.
 

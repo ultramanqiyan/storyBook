@@ -1,4 +1,4 @@
-# Chapter 09: The Return
+# Chapter 9: The Return - Brief Joy
 
 I stand on the sidewalk.
 

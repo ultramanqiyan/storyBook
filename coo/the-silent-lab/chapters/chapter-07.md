@@ -1,4 +1,4 @@
-# Chapter 7: The Trust
+# Chapter 7: The Trust - Hidden Truth
 
 Three months into the pandemic, Elena stopped counting the dead.
 
@@ -86,4 +86,4 @@ Elena turned to Amara. "Will you help? Build a network of regional advisors who 
 
 Amara's expression softened. "I've been waiting for someone to ask me that."
 
-**END OF CHAPTER 7**
+** 7**

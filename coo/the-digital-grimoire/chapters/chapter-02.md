@@ -1,4 +1,5 @@
 # Chapter 2: The First Spell
+The air carried the faint scent of coffee, lingering in the background.
 
 The lesson began with breath.
 

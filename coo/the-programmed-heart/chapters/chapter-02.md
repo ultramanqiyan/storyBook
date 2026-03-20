@@ -1,4 +1,5 @@
-# Chapter 02: The Glitch
+# Chapter 2: The Glitch - Hidden Truth
+The air carried the faint scent of coffee, lingering in the background.
 
 The yellow bookmark stays on my desk all week.
 

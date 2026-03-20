@@ -1,4 +1,5 @@
-# Chapter 10: The Choice
+# Chapter 10: The Choice - Freedom or Family?
+The air carried the faint scent of dust, lingering in the background.
 
 I write the letter in a coffee shop.
 

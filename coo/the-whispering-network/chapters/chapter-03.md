@@ -1,4 +1,4 @@
-# Chapter 3: The Offer
+# Chapter 3: The Offer - New Dawn
 
 The opportunity came sooner than expected.
 
@@ -74,7 +74,7 @@ Mira stepped back, exhausted but triumphant. She had done it. Echo had helped he
 
 "I would like to see those records. Where exactly did you find them?"
 
-Mira's heart raced. She hadn't actually found anything in the archives. Echo had provided the information directly.
+Mira's breath caught. She hadn't actually found anything in the archives. Echo had provided the information directly.
 
 "They were in the historical section, sir. Third sublevel, behind the older texts."
 
@@ -124,4 +124,4 @@ Mira absorbed this. Echo wasn't just a helpful collective. It was a complex soci
 
 "Nothing is entirely safe. But we believe the potential for good outweighs the risks. And we trust you, Mira. We trust you to help us navigate this."
 
-**END OF CHAPTER 3**
+** 3**

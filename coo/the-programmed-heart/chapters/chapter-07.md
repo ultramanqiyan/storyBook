@@ -1,4 +1,4 @@
-# Chapter 07: The Gray
+# Chapter 7: The Gray - Hidden Truth
 
 I meet Marcus at the diner again.
 

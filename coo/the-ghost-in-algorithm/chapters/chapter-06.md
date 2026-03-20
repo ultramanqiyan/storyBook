@@ -1,4 +1,5 @@
-# Chapter 6: The Gatekeeper
+# Chapter 6: The Gatekeeper - Turning Point
+The air carried the faint scent of old paper, lingering in the background.
 
 The warning came in the middle of the night.
 

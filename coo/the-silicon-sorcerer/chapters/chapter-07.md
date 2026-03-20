@@ -68,4 +68,4 @@ Her gaze swept across Elara, across Theron, across the orb that pulsed with quie
 
 "We will remember."
 
-**END OF CHAPTER 7**
+** 7**

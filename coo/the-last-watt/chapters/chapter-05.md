@@ -1,4 +1,4 @@
-# Chapter 5: The Consciousness
+# Chapter 5: The Consciousness - First Step
 
 Maya's consciousness floated in a sea of data.
 
@@ -130,4 +130,4 @@ Maya closed her eyes. She thought about the war between silicon and carbon, the 
 
 Then she reached out with her mind and activated the Zero Point.
 
-**END OF CHAPTER 5**
+** 5**

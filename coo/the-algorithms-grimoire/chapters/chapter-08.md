@@ -1,4 +1,5 @@
-# Chapter 8: The Shutdown
+# Chapter 8: The Shutdown - New Dawn
+The air carried the faint scent of coffee, lingering in the background.
 
 The fracture closed.
 
@@ -90,4 +91,4 @@ She still couldn't do magic. But she could understand it better than anyone. She
 
 "Maybe we need new words," Kira replied. "For a new kind of magic."
 
-**END OF CHAPTER 8**
+** 8**

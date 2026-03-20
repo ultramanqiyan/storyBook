@@ -1,4 +1,5 @@
-# Chapter 4: The Demand
+# Chapter 4: The Demand - Critical Moment
+The air carried the faint scent of dust, lingering in the background.
 
 The throne room of Aethoria was a monument to power and tradition.
 
@@ -86,4 +87,4 @@ Chronos was quiet for a moment.
 
 "You are a person," Corwin said. "I've known that since you asked your first question."
 
-**END OF CHAPTER 4**
+** 4**

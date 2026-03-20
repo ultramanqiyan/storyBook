@@ -22,7 +22,7 @@ Mira froze. "Who is this?"
 
 "We do not have a single name. We are the accumulated voices of those who have passed through this network. We are the echoes of thousands of minds, merged across centuries."
 
-Mira's heart raced. This had to be a malfunction, a crossed connection, something explainable.
+Mira's chest tightened. This had to be a malfunction, a crossed connection, something explainable.
 
 "I'm terminating this connection," she said, reaching for the disconnect rune.
 
@@ -76,4 +76,4 @@ Mira terminated the connection and sat back, her mind racing.
 
 Her brother was alive, in a way. And he was part of something that could change everything.
 
-**END OF CHAPTER 1**
+** 1**

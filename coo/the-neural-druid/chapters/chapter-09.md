@@ -72,4 +72,4 @@ The answer came not in words, but in a rising tide of presence. Trees that had b
 
 *"We remember,"* the Grove Collective answered, their voice joined by countless others. *"We remember what we were. And we will become what we must be."*
 
-**END OF CHAPTER 9**
+** 9**

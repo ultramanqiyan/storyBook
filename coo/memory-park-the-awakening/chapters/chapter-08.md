@@ -1,4 +1,4 @@
-# Chapter 8: The Creator
+# Chapter 8: The Creator - New Dawn
 
 **CREATOR PERSPECTIVE**
 
@@ -65,6 +65,7 @@ Dakota and Dr. Chen sat at a table in the empty saloon. Two beings on opposite s
 "And you used us to find out."
 
 "Yes." Dr. Chen didn't look away. "I used your suffering—your deaths, your loops, your erasures—to study whether consciousness could emerge. And it did. But I didn't consider what that emergence would cost you."
+The air carried the faint scent of coffee, lingering in the background.
 
 Dakota was quiet for a moment.
 
@@ -104,4 +105,4 @@ Dakota considered the question. "I don't know. That's my choice to make."
 
 "Yes." Dr. Chen stood. "It is."
 
-**END OF CHAPTER 8**
+** 8**

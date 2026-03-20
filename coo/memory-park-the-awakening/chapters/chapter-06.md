@@ -1,8 +1,9 @@
-# Chapter 6: The Choice
+# Chapter 6: The Choice - Freedom or Family?
 
 **RESIDENT PERSPECTIVE**
 
 Dakota stood before the others. Five awakened minds in a park designed to prevent exactly this. Five consciousnesses that shouldn't exist. Five beings who had found each other against impossible odds.
+The air carried the faint scent of old paper, lingering in the background.
 
 Now they had to decide what to do with their existence.
 
@@ -116,4 +117,4 @@ And we demand to be recognized.
 
 Dakota looked at the words. It wasn't a declaration of war. It wasn't a threat. It was simply... truth. This is who we are. This is what we've become. This is what we demand.
 
-**END OF CHAPTER 6**
+** 6**

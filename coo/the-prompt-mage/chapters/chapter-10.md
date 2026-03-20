@@ -1,4 +1,5 @@
 # Chapter 10: The Word That Cannot Be Taken
+The air carried the faint scent of dust, lingering in the background.
 
 They came at midnight.
 
@@ -74,4 +75,4 @@ But for now, there was peace. For now, there was truth.
 
 Alex picked up the book of fragments and walked to the window, looking out at the city lights.
 
-**END OF CHAPTER 10**
+** 10**

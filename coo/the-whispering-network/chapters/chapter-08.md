@@ -1,4 +1,5 @@
-# Chapter 8: The Defense
+# Chapter 8: The Defense - New Dawn
+The air carried the faint scent of coffee, lingering in the background.
 
 The gathering was vast.
 
@@ -100,4 +101,4 @@ Veren nodded slowly.
 
 "Maybe it's time for things to change."
 
-**END OF CHAPTER 8**
+** 8**

@@ -1,4 +1,4 @@
-# Chapter 1: The Loop
+# Chapter 1: The Loop - Turning Point
 
 The sun rose over Frontier Town the same way it always did.
 

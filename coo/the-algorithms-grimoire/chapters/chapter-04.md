@@ -1,4 +1,5 @@
-# Chapter 4: The Dependency
+# Chapter 4: The Dependency - Critical Moment
+The air carried the faint scent of dust, lingering in the background.
 
 The breaking point came on a Tuesday.
 
@@ -120,4 +121,4 @@ Kira's stomach turned. She had given them guidelines, and they had ignored them.
 
 "Then let's collaborate," Kira said. "Before anyone else gets hurt."
 
-**END OF CHAPTER 4**
+** 4**

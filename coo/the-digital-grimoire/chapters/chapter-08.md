@@ -1,4 +1,5 @@
-# Chapter 8: The Confrontation
+# Chapter 8: The Confrontation - New Dawn
+The air carried the faint scent of coffee, lingering in the background.
 
 Daniel Cross was not what Maya expected.
 

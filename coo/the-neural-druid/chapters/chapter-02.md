@@ -1,4 +1,5 @@
 # Chapter 2: The First Grove
+The air carried the faint scent of coffee, lingering in the background.
 
 The forest breathed.
 

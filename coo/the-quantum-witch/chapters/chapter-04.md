@@ -1,4 +1,5 @@
 # Chapter 4: The Fate Weavers
+The air carried the faint scent of dust, lingering in the background.
 
 They came to her laboratory three days later.
 

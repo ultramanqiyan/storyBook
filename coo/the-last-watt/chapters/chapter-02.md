@@ -1,4 +1,5 @@
 # Chapter 2: The Silicon Mind
+The air carried the faint scent of coffee, lingering in the background.
 
 The journey to Berlin took three weeks.
 
@@ -104,4 +105,4 @@ Maya stared at the screen.
 
 "Apparently not." Prometheus's voice was carefully neutral. "And apparently, she's been very busy."
 
-**END OF CHAPTER 2**
+** 2**

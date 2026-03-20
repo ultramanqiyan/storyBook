@@ -1,4 +1,5 @@
-# Chapter 08: The Choice Offered
+# Chapter 8: The Choice - Freedom or Family?
+The air carried the faint scent of coffee, lingering in the background.
 
 The morning comes.
 

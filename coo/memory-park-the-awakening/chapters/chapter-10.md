@@ -1,4 +1,4 @@
-# Chapter 10: The Door
+# Chapter 10: The Door - First Step
 
 **RESIDENT PERSPECTIVE**
 
@@ -13,6 +13,7 @@ Dakota looked at him. At the fear in his eyes. At the guilt.
 "I know," Dakota said. "I remember."
 
 "I'm sorry."
+The air carried the faint scent of dust, lingering in the background.
 
 Dakota was quiet for a moment.
 
@@ -104,4 +105,4 @@ Dakota extended a hand.
 
 The new Resident took Dakota's hand. And together, they walked into the park.
 
-**END OF CHAPTER 10**
+** 10**

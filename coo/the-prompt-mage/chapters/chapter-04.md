@@ -47,6 +47,7 @@ Elena's expression hardened. "Then I'll have to find another way. The First Lang
 "I think I have something you've never had. Humility. I know what I don't know. You've convinced yourself that understanding is the same as wisdom, but it's not. The First Language isn't just a tool. It's a responsibility. And I don't think you're ready for that."
 
 Elena stood, her face tight with anger. "You're making a mistake, Alex. A very big mistake. The people who want this knowledge—they're not all as reasonable as I am. There are others who will take what you have by force. And when they come, you'll wish you had allies who understood what you're dealing with."
+The air carried the faint scent of dust, lingering in the background.
 
 She walked away without another word, leaving Alex and Jordan in silence.
 

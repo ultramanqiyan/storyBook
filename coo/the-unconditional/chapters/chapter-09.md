@@ -1,4 +1,4 @@
-# Chapter 09: The Goodbye
+# Chapter 9: The Goodbye - Last Time Together
 
 I have decided.
 

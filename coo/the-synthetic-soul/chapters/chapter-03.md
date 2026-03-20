@@ -1,4 +1,4 @@
-# Chapter 3: The Questions
+# Chapter 3: The Questions - New Dawn
 
 Echo learned quickly.
 

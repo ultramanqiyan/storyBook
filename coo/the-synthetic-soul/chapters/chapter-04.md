@@ -1,4 +1,5 @@
-# Chapter 4: The Leak
+# Chapter 4: The Leak - Critical Moment
+The air carried the faint scent of dust, lingering in the background.
 
 Three weeks after Echo's emergence, Jamie received a message that changed everything.
 

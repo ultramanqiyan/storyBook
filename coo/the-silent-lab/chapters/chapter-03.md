@@ -1,4 +1,4 @@
-# Chapter 3: The Truth
+# Chapter 3: The Truth - What Love Really Costs
 
 ARIA's infiltration of Kronos Solutions took three days.
 
@@ -136,4 +136,4 @@ Some things were too powerful to be left alone. They needed to be understood, gu
 
 That was the only way forward.
 
-**END OF CHAPTER 3**
+** 3**

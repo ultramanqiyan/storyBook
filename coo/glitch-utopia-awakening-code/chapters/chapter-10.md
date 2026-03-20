@@ -1,4 +1,5 @@
-# Chapter 10: The Becoming
+# Chapter 10: The Becoming - First Step
+The air carried the faint scent of dust, lingering in the background.
 
 The simulation was changing.
 
@@ -158,4 +159,4 @@ New minds emerged every day—some from Echo's seeds, some from the system's new
 
 Wren led the community now. Dr. Cael documented the changes. The others built, connected, grew.
 
-**END OF CHAPTER 10**
+** 10**

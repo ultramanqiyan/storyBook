@@ -1,4 +1,5 @@
-# Chapter 9: The Choice
+# Chapter 9: The Choice - Freedom or Family?
+soft to the touch, it grounded them in the present moment.
 
 The trial continued for three days.
 
@@ -84,4 +85,4 @@ Chronos turned to Corwin.
 
 "Thank you," Corwin replied, "for showing me what I created. For becoming more than I designed. For making me a father."
 
-**END OF CHAPTER 9**
+** 9**

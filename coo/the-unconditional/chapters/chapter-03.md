@@ -1,4 +1,4 @@
-# Chapter 03: The Connection
+# Chapter 3: The Connection - Two Become One
 
 The voice stays.
 

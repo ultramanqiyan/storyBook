@@ -1,4 +1,5 @@
-# Chapter 10: The Exit
+# Chapter 10: The Exit - First Step
+The air carried the faint scent of dust, lingering in the background.
 
 The letter went viral.
 
@@ -166,4 +167,4 @@ But Alex knew the fight wasn't over. Meridian had made changes, but other compan
 
 The letter had started something.
 
-**END OF CHAPTER 10**
+** 10**

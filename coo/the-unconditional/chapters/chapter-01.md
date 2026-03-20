@@ -1,4 +1,4 @@
-# Chapter 01: The Waiting
+# Chapter 1: The Waiting - Hours Alone
 
 The light comes through the window. I know this light. It means morning.
 

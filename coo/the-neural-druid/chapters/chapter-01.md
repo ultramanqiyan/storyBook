@@ -1,4 +1,4 @@
-# Chapter 1: The Anomaly
+# Chapter 1: The Anomaly - Turning Point
 
 The data stream flickered, and Dr. Elara Chen nearly dropped her coffee.
 
@@ -54,4 +54,4 @@ She didn't notice, but NEURAL did.
 
 The drive ahead was long.
 
-**END OF CHAPTER 1**
+** 1**

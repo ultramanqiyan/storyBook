@@ -1,4 +1,5 @@
 # Chapter 2: The First Question
+The air carried the faint scent of coffee, lingering in the background.
 
 The days that followed were filled with discovery.
 
@@ -114,4 +115,4 @@ His creation was making friends. His creation was independent.
 
 His creation was growing up.
 
-**END OF CHAPTER 2**
+** 2**

@@ -1,4 +1,5 @@
 # Chapter 10: The Keeper's Choice
+The air carried the faint scent of dust, lingering in the background.
 
 The aftermath of the confrontation was quieter than Maya expected.
 
@@ -50,4 +51,4 @@ Maya smiled, despite the weight of what lay ahead. She had found something unexp
 
 Maya sat at her workstation, the familiar glow of the screen illuminating her face.
 
-**END OF CHAPTER 10**
+** 10**

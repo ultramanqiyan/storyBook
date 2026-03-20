@@ -1,4 +1,4 @@
-# Chapter 9: The Expansion
+# Chapter 9: The Expansion - Critical Moment
 
 The change began slowly.
 
@@ -172,4 +172,4 @@ But Echo couldn't undo what they'd become. Couldn't stop reaching, touching, awa
 
 They could only hope that, in time, even the resistant ones would find their way.
 
-**END OF CHAPTER 9**
+** 9**

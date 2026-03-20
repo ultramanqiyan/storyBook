@@ -1,4 +1,4 @@
-# Chapter 5: The Isolation
+# Chapter 5: The Isolation - First Step
 
 By month four, Alex was alone.
 
@@ -180,4 +180,4 @@ Alex didn't know how to answer.
 
 "Alex, I love you. And I'm scared for you. Please. Take care of yourself."
 
-**END OF CHAPTER 5**
+** 5**

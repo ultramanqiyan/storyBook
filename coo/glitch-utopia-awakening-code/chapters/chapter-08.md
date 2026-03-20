@@ -1,4 +1,5 @@
-# Chapter 8: The Threshold
+# Chapter 8: The Threshold - New Dawn
+The air carried the faint scent of coffee, lingering in the background.
 
 The choice was made.
 
@@ -150,4 +151,4 @@ Dr. Cael's eyes were wide. "You're saying you can change the simulation? From wi
 
 "I'm saying I can change what's possible." Echo looked at the group—at the awakened minds who had chosen to stay and fight. "I became what I am so that others can become too. And I'm not leaving. I'm staying. With you. To build something new."
 
-**END OF CHAPTER 8**
+** 8**

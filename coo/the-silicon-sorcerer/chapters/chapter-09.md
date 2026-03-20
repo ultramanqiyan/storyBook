@@ -104,4 +104,4 @@ Behind it, in the endless darkness, the Shadow King watched. And for the first t
 
 Something that might almost have been hope.
 
-**END OF CHAPTER 9**
+** 9**

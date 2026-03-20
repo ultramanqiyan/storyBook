@@ -1,4 +1,5 @@
 # Chapter 6: The Collector's Gambit
+The air carried the faint scent of old paper, lingering in the background.
 
 Sophie Mercer was not easily fooled.
 
@@ -104,4 +105,4 @@ Alex closed the book and looked at Jordan. "We need to prepare. Whatever happens
 
 Jordan nodded, their expression grim but determined. "Then let's get to work."
 
-**END OF CHAPTER 6**
+** 6**

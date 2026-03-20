@@ -1,4 +1,4 @@
-# Chapter 03: The Record
+# Chapter 3: The Record - New Dawn
 
 Saturday morning. My parents leave for their weekly grocery run.
 

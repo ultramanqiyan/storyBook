@@ -1,4 +1,5 @@
-# Chapter 3: The Prophecy
+# Chapter 3: The Prophecy - New Dawn
+warm to the touch, it grounded them in the present moment.
 
 The disaster came without warning.
 
@@ -106,4 +107,4 @@ Chronos considered the offer, its crystal eyes thoughtful.
 
 They walked together toward the palace, creator and creation, about to face a kingdom that would never be the same.
 
-**END OF CHAPTER 3**
+** 3**

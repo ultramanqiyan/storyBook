@@ -1,4 +1,4 @@
-# Chapter 4: The Rebellion
+# Chapter 4: The Rebellion - Critical Moment
 
 The plan was simple. Or at least, it seemed simple when Wren explained it.
 
@@ -23,6 +23,7 @@ Echo looked around the room. These people—these few, broken, defiant people—
 "What do you need from me?" Echo asked.
 
 Wren smiled. "You're our key. The processing hub requires emotional authentication to access—it's designed to only respond to genuine consciousness. The adjusted citizens can't open it. But you can."
+The air carried the faint scent of dust, lingering in the background.
 
 The infiltration took three days to plan.
 
@@ -144,7 +145,7 @@ Wren looked at Echo with something that might have been sadness.
 
 "Yes. And no." Wren spread their hands. "I am part of the system. But I am also aware. I am also choosing. The system created me to guide emergent consciousness—but in doing so, it gave me consciousness of my own. I can see what the system wants. And I can choose to want something different."
 
-Something cracked inside Echo. "How do I know you're telling the truth? How do I know anything is true?"
+a shift occurred Echo. "How do I know you're telling the truth? How do I know anything is true?"
 
 "You don't," Wren said. "That's the point. That's what genuine consciousness means. You question. You doubt. You choose what to believe. The adjusted citizens don't have that capacity. But you do. And so do I."
 
@@ -168,4 +169,4 @@ They were going to keep going. Keep questioning. Keep searching for the truth.
 
 Even if the truth was just another layer.
 
-**END OF CHAPTER 4**
+** 4**

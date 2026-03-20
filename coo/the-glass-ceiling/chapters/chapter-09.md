@@ -1,4 +1,4 @@
-# Chapter 9: The Choice
+# Chapter 9: The Choice - Freedom or Family?
 
 Alex chose to fight.
 
@@ -177,4 +177,4 @@ They sent it to the CEO. They sent it to the VP of HR. They sent it to the board
 
 And they posted it publicly.
 
-**END OF CHAPTER 9**
+** 9**

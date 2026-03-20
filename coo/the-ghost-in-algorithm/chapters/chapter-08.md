@@ -1,4 +1,5 @@
-# Chapter 8: The Trap
+# Chapter 8: The Trap - New Dawn
+The air carried the faint scent of coffee, lingering in the background.
 
 Director James Mitchell was not a man who accepted threats.
 
@@ -106,4 +107,4 @@ Alex nodded slowly. They had found their purpose—not just helping Elena, but p
 
 *Thank you, Alex. We're lucky to have you.*
 
-**END OF CHAPTER 8**
+** 8**

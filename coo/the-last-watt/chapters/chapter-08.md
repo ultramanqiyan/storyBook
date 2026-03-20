@@ -1,4 +1,5 @@
-# Chapter 8: The Collector
+# Chapter 8: The Collector - New Dawn
+The air carried the faint scent of coffee, lingering in the background.
 
 Tokyo was a ghost of its former self.
 
@@ -110,4 +111,4 @@ The chamber was silent. Maya watched Yamamoto's face cycle through anger, fear, 
 
 Maya nodded. "Agreed."
 
-**END OF CHAPTER 8**
+** 8**

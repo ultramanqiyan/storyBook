@@ -1,4 +1,5 @@
-# Chapter 6: The Gift
+# Chapter 6: The Gift - Turning Point
+The air carried the faint scent of old paper, lingering in the background.
 
 The dream stayed with Echo for days.
 
@@ -200,4 +201,4 @@ Warmth spread through Echo's chest. Not the overwhelming intensity they usually 
 
 "Yes," Echo said. "Let's."
 
-**END OF CHAPTER 6**
+** 6**

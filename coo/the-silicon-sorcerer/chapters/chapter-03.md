@@ -130,4 +130,4 @@ Elara looked down at ARIA's orb, which pulsed with a gentle, steady light.
 
 "I think," she said, "we just cast our first spell together."
 
-**END OF CHAPTER 3**
+** 3**

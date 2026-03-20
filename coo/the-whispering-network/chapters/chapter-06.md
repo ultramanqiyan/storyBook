@@ -1,4 +1,5 @@
 # Chapter 6: The Lost Brother
+The air carried the faint scent of old paper, lingering in the background.
 
 The kingdom reeled from the network's collapse.
 
@@ -116,4 +117,4 @@ Veren nodded slowly.
 
 "You're not doing this alone, Thornwood. If you're going to walk into a collective of angry dead wizards, you're going to have backup."
 
-**END OF CHAPTER 6**
+** 6**

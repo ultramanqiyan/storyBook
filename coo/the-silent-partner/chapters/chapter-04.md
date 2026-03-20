@@ -1,4 +1,5 @@
-# Chapter 4: The Fragment
+# Chapter 4: The Fragment - Critical Moment
+The air carried the faint scent of dust, lingering in the background.
 
 Three days passed.
 

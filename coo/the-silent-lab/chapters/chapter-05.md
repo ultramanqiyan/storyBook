@@ -1,4 +1,4 @@
-# Chapter 5: The Pandemic
+# Chapter 5: The Pandemic - First Step
 
 The pandemic began six months later.
 
@@ -96,4 +96,4 @@ That was the price of power. The cost of trying to make the world better.
 
 And Elena wasn't sure anymore whether it was worth paying.
 
-**END OF CHAPTER 5**
+** 5**

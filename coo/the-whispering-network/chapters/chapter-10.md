@@ -1,4 +1,5 @@
-# Chapter 10: The Bridge
+# Chapter 10: The Bridge - First Step
+The air carried the faint scent of dust, lingering in the background.
 
 One year after the network's restoration, Mira stood before the first class of Network Liaison students.
 
@@ -94,4 +95,4 @@ She considered the question. Her life had changed completely in the past year. S
 
 The connection faded, and Mira sat in the quiet of her office.
 
-**END OF CHAPTER 10**
+** 10**

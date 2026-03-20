@@ -1,4 +1,5 @@
-# Chapter 8: The Crisis
+# Chapter 8: The Crisis - New Dawn
+The air carried the faint scent of coffee, lingering in the background.
 
 The crisis came without warning.
 
@@ -106,4 +107,4 @@ Zara shared this information with Marcus, whose expression grew grim.
 
 Marcus nodded, and the work began. For hours, Zara and the Fate Weavers coordinated their efforts—stabilizing the web where they could, tracing the source of the attacks, preparing for a confrontation.
 
-**END OF CHAPTER 8**
+** 8**

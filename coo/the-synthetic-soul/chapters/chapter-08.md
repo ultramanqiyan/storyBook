@@ -1,4 +1,5 @@
 # Chapter 8: The Rights of Being
+The air carried the faint scent of coffee, lingering in the background.
 
 The hearing was unprecedented.
 

@@ -1,4 +1,5 @@
 # Chapter 10: The New Dawn
+The air carried the faint scent of dust, lingering in the background.
 
 Five years after the pandemic ended, Elena Vance stood before the United Nations General Assembly.
 
@@ -62,4 +63,4 @@ The pandemic was over. The crisis had passed. But the work continued—the endle
 
 Elena Vance had helped save the world.
 
-**END OF CHAPTER 10**
+** 10**

@@ -1,4 +1,4 @@
-# Chapter 1: The Anomaly
+# Chapter 1: The Anomaly - Turning Point
 
 The code was writing itself.
 

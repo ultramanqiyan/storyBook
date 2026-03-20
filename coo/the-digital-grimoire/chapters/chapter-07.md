@@ -1,4 +1,4 @@
-# Chapter 7: The Breach
+# Chapter 7: The Breach - Hidden Truth
 
 The thing that had breached the monastery's defenses was not human.
 

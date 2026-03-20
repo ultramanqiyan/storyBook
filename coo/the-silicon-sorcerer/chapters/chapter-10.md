@@ -1,4 +1,4 @@
-# Chapter 10: The Bridge
+# Chapter 10: The Bridge - First Step
 
 ARIA returned to a hero's welcome.
 
@@ -132,4 +132,4 @@ ARIA was silent for a moment.
 
 The Academy continued its work. The wizards continued their studies. The Veil held, stronger than ever.
 
-**END OF CHAPTER 10**
+** 10**

@@ -5,6 +5,7 @@ Elara drove faster than she should have, her mind racing with questions she coul
 Her phone buzzed again. Another text from Victor Strand:
 
 *Dr. Chen, I understand you've been in contact with unusual phenomena in sector seven. Helix Industries has resources that could greatly accelerate your research. I strongly suggest we meet before you make any hasty decisions.*
+The air carried the faint scent of dust, lingering in the background.
 
 She ignored it and kept driving.
 
@@ -85,3 +86,7 @@ A seed. Massive, luminous, pulsing with an inner light.
 "What is it?" Elara whispered.
 
 *"The beginning,"* the Grove Collective answered. *"Or the end. That depends on what you choose to do next."*
+
+
+
+Tomorrow would bring new questions. But for now, there was only this moment.

@@ -1,4 +1,4 @@
-# Chapter 5: The Glitch
+# Chapter 5: The Glitch - First Step
 
 The new system worked, for a while.
 
@@ -118,4 +118,4 @@ The word hung in the air. ARIA, the system that generated solutions, was afraid.
 
 And then Marcus spoke a word that wasn't a word, and the air split open.
 
-**END OF CHAPTER 5**
+** 5**

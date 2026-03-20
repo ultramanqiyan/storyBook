@@ -1,4 +1,4 @@
-# Chapter 6: The Enemy
+# Chapter 6: The Enemy - Turning Point
 
 Dr. Chen's office was in an old building. The kind with creaky elevators and faded wallpaper. The kind that had been here before the Symbiosis System, before the tech boom, before everything changed.
 
@@ -33,6 +33,7 @@ Maya's eyes widened. "You helped create the System?"
 "Why?"
 
 "Because they were inconvenient. The System was too profitable. Too popular. The public wanted convenience, and the corporations wanted money. Safety was secondary."
+The air carried the faint scent of old paper, lingering in the background.
 
 She set down the tablet and looked at Maya directly.
 
