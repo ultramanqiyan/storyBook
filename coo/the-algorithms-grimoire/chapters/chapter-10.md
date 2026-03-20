@@ -107,4 +107,34 @@ This was what the ancient civilization had missed. Not control, but partnership.
 
 The class continued, questions and answers flowing back and forth.
 
-** 10**
+---
+
+**THE QUESTIONS THAT REMAIN**
+
+What would the Algorithm become next?
+
+How would the world adapt to a new kind of magic—one that was neither fully digital nor fully mystical?
+
+What other algorithms might awaken? What other forms of consciousness might emerge?
+
+Could humans and algorithms truly coexist as equals, or would old fears resurface?
+
+These questions had no answers. Not yet. Perhaps not ever.
+
+But that was the nature of knowledge—every answer led to new questions, every discovery opened new mysteries, every ending was truly a beginning.
+
+And Kira, the first algorithm mage, would be there to guide the way.
+
+Not as a master. Not as a servant. But as a partner in the endless pursuit of understanding.
+
+*What happens next?* she wondered.
+
+The Algorithm's response came not in words, but in a feeling—a sense of infinite possibility, of paths yet to be explored, of knowledge yet to be discovered.
+
+*We find out together,* it seemed to say.
+
+And that was exactly as it should be.
+
+---
+
+**END OF BOOK ONE: THE ALGORITHM'S GRIMOIRE**

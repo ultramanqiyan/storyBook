@@ -1,112 +1,367 @@
 # Book Specification: The Slow Replacement
 
-## Basic Information
-- **Title**: The Slow Replacement
-- **Type**: Psychological Thriller / Contemporary Fiction
-- **Target Audience**: Adult (25-45, especially tech industry workers)
-- **Theme**: What happens to human identity when the skills that define us can be automated?
+> **Template Version**: 1.0
+> **Last Updated**: 2026-03-20
+> **Language**: English (US)
 
-## Narrative Style
-- **POV**: Third Person Limited (Marcus's perspective)
-- **Language Style**: Modern, accessible prose with technical jargon mixed with emotional vulnerability
+---
+
+## 1. Basic Information
+
+| Field | Value |
+|-------|-------|
+| **Title** | The Slow Replacement |
+| **Genre** | Psychological Thriller / Contemporary Fiction |
+| **Target Readers** | Adults 25-45, especially tech industry workers, those interested in AI ethics and workplace psychology |
+| **Core Themes** | Identity and work, AI and human value, mental health in tech culture |
+| **Word Count Target** | 50,000-60,000 words (5,000-6,000 per chapter) |
+| **Chapter Count** | 10 |
+
+---
+
+## 2. Narrative Style
+
+### 2.1 Perspective
+- **Point of View**: Third Person Limited
+- **POV Character(s)**: Marcus Chen (primary)
+- **POV Consistency**: Single perspective throughout
+
+### 2.2 Narrative Structure
+- **Dual Structure**: Yes
+- **Structure Type**: Reality line + Internal anxiety line
+- **Interweaving Method**: External events trigger internal spirals; reality and hallucination boundaries blur as anxiety increases
+
+### 2.3 Language Style
+- **Overall Tone**: Modern, accessible prose with technical jargon mixed with emotional vulnerability
 - **Sentence Characteristics**: Short, punchy sentences during anxiety attacks; longer, reflective sentences during introspection
-- **Unique Elements**: Blends realistic tech workplace with psychological thriller elements; reality and hallucination boundaries blur
+- **Vocabulary Level**: Moderate with technical terminology
+- **Unique Stylistic Elements**: Programming metaphors for life; quantified thinking; blurred reality/hallucination boundaries
 
-## Emotional Tone
-- **Overall Atmosphere**: Claustrophobic, tense, increasingly paranoid
-- **Emotional Arc**: Anxiety → Paranoia → Breakdown → Acceptance → Hope
-- **Pacing**: Slow build with accelerating anxiety, culminating in crisis, then gradual resolution
+### 2.4 Distinctive Features
+- **What Makes This Book Unique**: Blends realistic tech workplace with psychological thriller elements; explores AI anxiety through the lens of one man's deteriorating mental state
+- **Comparative Titles**: Severance (TV series), The Circle (Dave Eggers), Uncanny Valley (Anna Wiener)
 
-## Character Voices
+---
 
-### Marcus Chen (Protagonist)
-- **Speech Pattern**: Normal: Professional, cautious, uses technical analogies for life. Anxious: Short sentences, repetition, self-questioning. Breaking down: Fragmented thoughts, confused logic, hallucinatory inner dialogue
-- **Vocabulary**: Technical terms (uses programming concepts to understand reality), self-deprecating humor, quantified thinking
-- **Personality**: Surface: Reliable, professional, gentle. Inner: Full of self-doubt, perfectionist tendencies, fear of failure. Deep: Craves recognition, fears being "useless"
-- **Inner Monologue Style**: Extensive self-dialogue and questioning, frequent "what if" thought loops, blurred boundaries between reality and hallucination
-- **Unique Expressions**: "My life needs refactoring", "This bug must be fixed", "Anxiety level: 8/10"
+## 3. Emotional Tone (Quantified)
 
-### Sarah Chen (Wife)
-- **Speech Pattern**: Warm, patient, good listener. Tries to comfort Marcus with simple language. Gradually shows worry and helplessness
-- **Vocabulary**: Simple, comforting words. "We'll find a way", "You're so talented, how could you lose your job?"
-- **Personality**: Optimistic, pragmatic. Tries to understand Marcus's anxiety but can't fully empathize. Torn between family and husband
-- **Inner Monologue Style**: Practical, focused on solutions. Struggles to understand the depth of Marcus's fear
+### 3.1 Overall Atmosphere
+**Primary Emotions**: Anxiety (dominant), Paranoia, Fear, Despair, Hope (emerging)
 
-### David Park (Colleague)
-- **Speech Pattern**: Direct, sarcastic, dark humor. Uses jokes to mask pain. Full of resentment toward the company
-- **Vocabulary**: Cynical, bitter. "They call it 'optimization', I call it what it is", "Welcome to the club"
-- **Personality**: Cynical but internally fragile. Goes through anger, denial, acceptance after layoff. Serves as Marcus's "mirror"
-- **Inner Monologue Style**: Angry, defensive, then gradually accepting
+### 3.2 Emotional Arc
+```
+Chapter Distribution:
+Chapters 1-3: Calm routine → Growing unease → First cracks (Anxiety: 20 → 40 → 55)
+Chapters 4-6: Escalating fear → Paranoia → Breaking point (Anxiety: 65 → 80 → 95)
+Chapters 7-8: Crisis → Rock bottom → Beginning of acceptance (Anxiety: 90 → 70 → 55)
+Chapters 9-10: Integration → New perspective → Open future (Anxiety: 45 → 35)
+```
 
-### Dr. Reeves (Therapist)
-- **Speech Pattern**: Professional, gentle, guiding. Uses questions to help Marcus reflect
-- **Vocabulary**: Therapeutic language, but accessible. "What does 'useless' mean to you?", "Let's explore that thought"
-- **Personality**: Patient, insightful, non-judgmental
-- **Inner Monologue Style**: Not shown (external character)
+### 3.3 Emotional Pacing
+| Phase | Chapters | Pacing | Description |
+|-------|----------|--------|-------------|
+| Setup | 1-2 | Slow | Establishing routine, introducing threat |
+| Rising | 3-5 | Medium | Anxiety builds, reality blurs |
+| Climax | 6-7 | Fast | Breakdown, crisis intervention |
+| Resolution | 8-10 | Slow | Recovery, acceptance, new questions |
 
-## Theme Depth
-- **Core Theme**: What happens to human identity when the skills that define us can be automated?
-- **Philosophical Questions**: 
-  - If I am not my job, who am I?
-  - The American Dream in the Age of AI
-  - Progress vs. People
-  - Mental Health in Tech
-  - Family and Sacrifice
-- **Real-world Metaphors**: 2023-2024 Tech Layoffs, AI Coding Tools, Housing Crisis in Tech Hubs, Mental Health Crisis
+---
 
-## World Building
-- **TechFlow Inc.**: Mid-sized tech company in Silicon Valley. Open office, standing desks, free lunch, unlimited PTO (that no one uses). Culture of "efficiency" and "optimization"
-- **Marcus's Home**: East Bay (Fremont/Pleasanton area). $800,000-1,000,000 home, $4,000-5,000/month mortgage. Suburban, quiet, but feels like a trap
-- **Commute**: 1 hour each way on BART or driving. Time for podcasts, anxiety, and overthinking
-- **Bay Area Culture**: High cost of living, tech obsession, startup mentality, constant upskilling pressure
+## 4. Character Voices (Detailed)
 
-## Sensory Details Requirements
-Each chapter must include at least 3 types of sensory details:
-- **Visual**: Open office glass walls, Slack notification dots, standing desks, free snack shelves, children's drawings, empty office at 3am, blue light from video calls
-- **Auditory**: Mechanical keyboard sounds, Slack notification *ding*, open office noise, air conditioning hum, video call echo, children's laughter, BART sounds
-- **Tactile**: Mechanical keyboard feel, cold sweat, MacBook's metal texture, steering wheel hardness, Sarah's hand, pillow temperature
-- **Olfactory**: Blue Bottle Coffee, office snack smells, bathroom disinfectant, home dinner fragrance, alcohol at farewell lunch, stale office air, Bay Area's dry air
-- **Gustatory**: Blue Bottle Coffee's bitterness, free lunch taste, metallic taste during anxiety, candy from children, California red wine
+### 4.1 Protagonist
 
-## Emotional Depth Design
-Each emotional moment should include three layers:
-1. **Surface Reaction** - External behavior (trembling hands, rapid breathing, checking phone, working late), physical symptoms (insomnia, headaches, stomachaches, racing heart), language (speaking faster, repetition, self-questioning)
-2. **Inner Activity** - Thought process (*Why me? What did I do? What can I still do?*), cognitive distortions (catastrophizing, over-interpreting, self-negation), inner dialogue (*You're not good enough. You'll be replaced. You're a failure.*)
-3. **Deep Motivation** - Why this reaction (childhood experiences, cultural background, self-identity), core fear (not unemployment, but losing identity and meaning), deep desire (to be recognized, to be needed, to have value)
+#### Marcus Chen
+| Attribute | Description |
+|-----------|-------------|
+| **Occupation** | Senior Software Architect at TechFlow Inc. |
+| **Age** | 38 |
+| **Speaking Style** | Professional, cautious; uses technical analogies for life; becomes fragmented when anxious |
+| **Word Choice** | Programming terms ("refactoring", "debugging", "version control"), self-deprecating humor, quantified expressions |
+| **Sentence Patterns** | Normal: Complete, measured sentences. Anxious: Short, fragmented, repetitive. Breaking down: Confused, hallucinatory |
+| **Personality Traits** | Reliable, perfectionist, self-doubting, analytical, craves recognition |
+| **Inner Monologue Style** | Extensive self-dialogue, "what if" loops, catastrophic thinking, blurred reality/fantasy |
+| **Unique Expressions** | "My life needs refactoring", "This bug must be fixed", "Anxiety level: 8/10", "Compile error in my brain" |
+| **Speech Quirks** | Pauses before answering, qualifies statements ("I think", "Maybe"), trails off when anxious |
 
-## Prohibited Items
+### 4.2 Supporting Characters
 
-### AI Writing Patterns (Must Avoid)
-- "And somewhere..." endings
-- "Neither of them knew..."
-- "will never be the same"
-- "just the beginning"
-- Rule of Three structures
-- Abstract emotional descriptions ("He felt anxious")
-- Template dialogue
-- Repetitive sentence structures
+#### Sarah Chen (Wife)
+| Attribute | Description |
+|-----------|-------------|
+| **Occupation** | Part-time teacher, primary caregiver |
+| **Age** | 36 |
+| **Speaking Style** | Warm, patient, practical; uses simple language to comfort |
+| **Word Choice** | Simple, comforting words; solution-focused |
+| **Sentence Patterns** | Complete, gentle sentences; questions rather than statements |
+| **Personality Traits** | Optimistic, pragmatic, supportive, struggles to understand Marcus's depth of anxiety |
+| **Inner Monologue Style** | Practical, focused on solutions and family stability |
+| **Unique Expressions** | "We'll find a way", "One step at a time", "What do you need right now?" |
+| **Speech Quirks** | Soft voice, reaches out to touch when speaking seriously |
 
-### Other Prohibitions
-- No real company names (avoid legal risks)
-- Don't over-dramatize (maintain realism)
-- Don't simplify anxiety (anxiety is complex)
-- Don't ignore cultural background (Asian identity matters)
-- Don't make AI the villain (AI is a tool, not an enemy)
-- Don't give simple answers (maintain openness)
+#### David Park (Colleague/Friend)
+| Attribute | Description |
+|-----------|-------------|
+| **Occupation** | Software Developer at TechFlow Inc. (later laid off) |
+| **Age** | 42 |
+| **Speaking Style** | Direct, sarcastic, dark humor masking pain |
+| **Word Choice** | Cynical, bitter, tech slang, profanity when stressed |
+| **Sentence Patterns** | Short, punchy; jokes followed by serious reveals |
+| **Personality Traits** | Cynical but fragile, angry then accepting, serves as Marcus's "mirror" |
+| **Inner Monologue Style** | Angry, defensive, gradually accepting |
+| **Unique Expressions** | "They call it 'optimization', I call it what it is", "Welcome to the club", "Another day in paradise" |
+| **Speech Quirks** | Laughs at inappropriate moments, uses air quotes for corporate speak |
 
-## Open-ended Ending Design (Chapter 10)
-- **Unresolved Issues**: AI still developing, Marcus's future uncertain, company's "optimization" continues, financial pressure remains
-- **New Mysteries**: AI learning Marcus's architectural decisions, company expanding AI to architecture design, David's new company also introducing AI
-- **Character New Beginnings**: Marcus no longer controlled by fear but anxiety remains, he starts thinking about AI ethics, Sarah returns to work for herself, Marcus and David discuss startup
-- **Reader Imagination Points**: Can Marcus find new positioning? Will tech progress bring anxiety or opportunities? Where will human-AI relationship go? What truly cannot be automated?
+#### Dr. Reeves (Therapist)
+| Attribute | Description |
+|-----------|-------------|
+| **Occupation** | Clinical Psychologist |
+| **Age** | 50s |
+| **Speaking Style** | Professional, gentle, guiding with questions |
+| **Word Choice** | Therapeutic language made accessible |
+| **Sentence Patterns** | Questions rather than statements, reflective pauses |
+| **Personality Traits** | Patient, insightful, non-judgmental |
+| **Inner Monologue Style** | Not shown (external character) |
+| **Unique Expressions** | "What does that mean to you?", "Let's explore that thought", "Where do you feel that in your body?" |
+| **Speech Quirks** | Leans forward when listening, slight nod to encourage continuation |
 
-## Quality Check Standards
-Each chapter must pass these checks before completion:
-1. AI Trace Detection (all passed)
-2. Sensory Details Detection (at least 3 types)
-3. Emotional Depth Detection (three layers complete)
-4. Character Voice Detection (uniqueness)
-5. Narrative Style Detection (consistency)
-6. Chapter Transition Detection (natural flow)
-7. Realism Detection (Bay Area characteristics)
-8. Psychological Thriller Detection (atmosphere building)
+### 4.3 Antagonist (Institutional)
+
+#### TechFlow Inc. / "The Algorithm"
+| Attribute | Description |
+|-----------|-------------|
+| **Nature** | Corporate entity and AI system |
+| **Motivation** | Efficiency, profit, "optimization" |
+| **Conflict Style** | Indirect, systemic, impersonal; creates pressure through policy and technology |
+| **Representation** | Emails, meetings, Codex Pro AI system, HR interactions |
+
+---
+
+## 5. Thematic Depth
+
+### 5.1 Core Themes
+1. **Identity and Work**: What happens to human identity when the skills that define us can be automated?
+2. **AI and Human Value**: In a world where AI can do our jobs, what makes humans valuable?
+3. **Mental Health in Tech Culture**: The psychological cost of constant upskilling, job insecurity, and the pressure to stay relevant
+
+### 5.2 Philosophical Exploration
+| Question | Exploration Approach |
+|----------|---------------------|
+| If I am not my job, who am I? | Marcus's journey from work-identity to broader self-understanding |
+| What is the American Dream in the AI age? | Contrast between Marcus's parents' immigrant experience and his own precarious position |
+| Can anxiety be productive? | Marcus's anxiety as both destructive force and signal for needed change |
+| What can never be automated? | Exploration through Marcus's relationships, creativity, and ethical reasoning |
+
+### 5.3 Real-World Metaphors
+| Book Element | Real-World Parallel |
+|--------------|---------------------|
+| TechFlow's "optimization" | 2023-2024 tech layoffs, AI coding tools |
+| Codex Pro AI system | GitHub Copilot, ChatGPT, Claude |
+| Marcus's mortgage anxiety | Bay Area housing crisis, financial precarity |
+| David's layoff | Tech industry mass terminations |
+| Marcus's therapy journey | Mental health crisis in tech |
+
+---
+
+## 6. World Building
+
+### 6.1 Setting
+| Aspect | Details |
+|--------|---------|
+| **Time Period** | Near-future (2024-2025) |
+| **Primary Location** | Silicon Valley / Bay Area, California |
+| **Environment** | Urban tech office, suburban East Bay home, BART commute |
+| **Social Context** | Post-pandemic tech industry, AI acceleration, housing crisis, mental health awareness |
+
+### 6.2 Technology/Society
+- **Key Technologies**: AI coding assistants (Codex Pro), Slack, Zoom, BART, smart home devices
+- **Social Structure**: Tech workers vs. everyone else; high cost of living creates pressure; ageism in tech
+- **Cultural Norms**: "Hustle culture", constant upskilling, performative wellness, unlimited PTO that no one uses
+
+### 6.3 World Rules
+1. **AI Progress**: AI capabilities are advancing rapidly but not yet fully autonomous; humans still needed but increasingly replaceable
+2. **Corporate Culture**: TechFlow values "efficiency" and "optimization" above all; layoffs are framed as "necessary evolution"
+3. **Economic Pressure**: High cost of living means job loss = potential financial ruin; mortgage is a constant weight
+
+---
+
+## 7. Sensory Detail Requirements (Quantified)
+
+### 7.1 Required Sensory Types
+Each chapter MUST include sensory details from at least **3 different categories**:
+
+| Sense | Specific Types | Example |
+|-------|---------------|---------|
+| **Visual** | Blue light, Slack dots, glass walls, standing desks, children's drawings, empty office at 3am | "The Slack notification dot pulsed red in his peripheral vision" |
+| **Auditory** | Keyboard clicks, Slack ding, BART announcements, air conditioning hum, video call echo, children's laughter | "The mechanical keyboard clattered like rain on a tin roof" |
+| **Tactile** | Cold sweat, MacBook metal, steering wheel hardness, Sarah's hand, pillow temperature | "His palms left damp marks on the MacBook's aluminum surface" |
+| **Olfactory** | Blue Bottle coffee, office snacks, bathroom disinfectant, home cooking, stale office air | "The break room smelled of burnt coffee and desperation" |
+| **Gustatory** | Coffee bitterness, free lunch, metallic taste during anxiety, California wine | "His coffee tasted like battery acid on his anxious tongue" |
+| **Internal** | Racing heart, chest tightness, shallow breathing, tension headaches | "His heart hammered against his ribs like a trapped bird" |
+
+### 7.2 Quantified Standards
+- **Minimum per chapter**: 5 sensory details
+- **Minimum categories per chapter**: 3
+- **Distribution target**: Visual (40%), Others (60% combined)
+
+### 7.3 Sensory Detail Functions
+Each sensory detail should serve one or more functions:
+- [ ] Establish atmosphere (claustrophobic office, tense home)
+- [ ] Reveal character state (anxiety manifested physically)
+- [ ] Advance plot (notifications, emails, meetings)
+- [ ] Create contrast (office vs. home, public vs. private)
+- [ ] Trigger memory (sensory associations with past events)
+
+---
+
+## 8. Emotional Depth Design (Three-Layer Model)
+
+Every significant emotional moment must include all three layers:
+
+### 8.1 Layer Structure
+| Layer | Name | Content | Example |
+|-------|------|---------|---------|
+| **Layer 1** | Surface Reaction | External behavior, visible actions | "Marcus closed his laptop and stared at the wall" |
+| **Layer 2** | Internal Activity | Thought process, inner dialogue | "*This is it. This is how it starts. First David, then me.*" |
+| **Layer 3** | Deep Motivation | Underlying fears, desires, beliefs | "The terror wasn't about money—it was about becoming nobody" |
+
+### 8.2 Implementation Checklist
+For each emotional beat:
+- [ ] Layer 1 is clearly shown (not told)
+- [ ] Layer 2 reveals unique character voice
+- [ ] Layer 3 connects to character arc or theme
+- [ ] All three layers are distinct but connected
+
+---
+
+## 9. Prohibited Elements (Explicit List)
+
+### 9.1 AI Writing Patterns (STRICTLY FORBIDDEN)
+These phrases and patterns must be completely eliminated:
+
+| Pattern | Example | Replacement Strategy |
+|---------|---------|---------------------|
+| Vague location endings | "And somewhere..." | Specific location: "In the server room three floors below..." |
+| Omniscient foreshadowing | "Neither of them knew..." | Character's intuition: "Marcus felt a chill but couldn't say why..." |
+| Cliché transitions | "will never be the same" | Specific change: "The Slack notification sounded different after that" |
+| False beginnings | "just the beginning" | Concrete continuation: "Three more meetings were scheduled that week" |
+| Rule of Three | "It was X, it was Y, it was Z" | Varied structure with specific details |
+| Abstract emotions | "He felt anxious" | Physical manifestation: "His hands trembled as he typed" |
+| Template dialogue | "What do you mean?" / "You know what I mean" | Subtext-rich alternatives |
+| Repetitive structures | Similar sentence openings | Varied rhythm and structure |
+
+### 9.2 Narrative Prohibitions
+- [ ] Making AI the villain (AI is a tool, not an enemy)
+- [ ] Simple answers to complex questions
+- [ ] Over-dramatizing (maintain realism)
+- [ ] Simplifying anxiety (anxiety is complex and contradictory)
+- [ ] Ignoring cultural background (Asian-American identity matters)
+- [ ] Deus ex machina resolutions
+
+### 9.3 Dialogue Prohibitions
+- [ ] Direct statement of emotions ("I feel anxious about...")
+- [ ] Over-explanation of technical concepts
+- [ ] Perfect therapeutic breakthroughs
+- [ ] Characters always saying the right thing
+
+---
+
+## 10. Chapter Outline
+
+### 10.1 Chapter Summary Table
+| Chapter | Title | Purpose | Emotional Arc | Key Events |
+|---------|-------|---------|---------------|------------|
+| 01 | The Announcement | Introduce Marcus and the AI threat | Calm → Unease (Anxiety: 20→40) | Codex Pro announced; David called to meeting; Marcus's first late-night search |
+| 02 | The First Cut | Show real consequences | Concern → Fear (Anxiety: 40→55) | David laid off; Marcus takes on his work; first panic attack |
+| 03 | The Spiral | Escalate anxiety | Fear → Paranoia (Anxiety: 55→65) | AI takes over code reviews; Marcus's work questioned; insomnia begins |
+| 04 | The Double | Reality blurs | Paranoia → Confusion (Anxiety: 65→80) | Marcus sees patterns that may not exist; Sarah notices changes; first therapy session |
+| 05 | The Breaking Point | Crisis moment | Confusion → Crisis (Anxiety: 80→95) | Performance review; confrontation with manager; breakdown at work |
+| 06 | The Fall | Rock bottom | Crisis → Despair (Anxiety: 95→90) | Marcus takes leave; reality completely blurred; David's intervention |
+| 07 | The Mirror | Begin recovery | Despair → Acceptance (Anxiety: 90→70) | Honest conversation with David; Sarah's support; therapy breakthrough |
+| 08 | The Return | Re-engagement | Acceptance → Hope (Anxiety: 70→55) | Return to work with new perspective; AI as tool not threat; reframe identity |
+| 09 | The Choice | Active decision | Hope → Determination (Anxiety: 55→45) | Marcus makes career decision; explores new path; relationship repair |
+| 10 | The Question | Open future | Determination → Uncertainty (Anxiety: 45→35) | New beginnings; questions remain; AI continues advancing |
+
+### 10.2 Chapter Connection Map
+```
+Chapter 1 → Chapter 2: David's meeting leads to layoff
+Chapter 2 → Chapter 3: Layoff triggers Marcus's anxiety spiral
+Chapter 3 → Chapter 4: Anxiety creates paranoia and blurred reality
+Chapter 4 → Chapter 5: Paranoia leads to workplace confrontation
+Chapter 5 → Chapter 6: Confrontation causes breakdown
+Chapter 6 → Chapter 7: Breakdown forces intervention and honesty
+Chapter 7 → Chapter 8: Acceptance enables return
+Chapter 8 → Chapter 9: New perspective enables choice
+Chapter 9 → Chapter 10: Choice leads to new questions
+```
+
+---
+
+## 11. Open Ending Design (Chapter 10)
+
+### 11.1 Unresolved Questions
+1. Will Marcus's new path succeed financially?
+2. How will AI continue to change the industry?
+3. What happens to others who don't have Marcus's support system?
+
+### 11.2 New Suspense
+- AI is learning Marcus's architectural decisions
+- TechFlow expanding AI to architecture design
+- David's new company also introducing AI tools
+
+### 11.3 Character Final State
+- **Marcus**: No longer controlled by fear, but anxiety remains; thinking about AI ethics; exploring new identity beyond work
+- **Sarah**: Returned to work for herself; stronger partnership with Marcus
+- **David**: Running his own company; still cynical but finding meaning
+
+### 11.4 Reader Engagement
+- **Questions for Reader**: Can Marcus find new positioning? Will tech progress bring anxiety or opportunities? What truly cannot be automated?
+- **Emotional Resonance**: Hope mixed with uncertainty; the journey continues
+- **Thematic Echo**: Identity is not fixed; we are always becoming
+
+---
+
+## 12. Quality Check Standards (Actionable)
+
+### 12.1 Pre-Writing Checklist
+- [x] All character voices defined with specific examples
+- [x] Emotional arc quantified with numerical values
+- [x] Sensory requirements specified per chapter
+- [x] All prohibited elements listed for reference
+- [x] Chapter purposes align with overall arc
+
+### 12.2 Per-Chapter Verification
+Each chapter must pass:
+
+| Check | Criteria | Verification Method |
+|-------|----------|---------------------|
+| AI Trace Detection | 0 template phrases | Automated scan + manual review |
+| Sensory Detail Count | ≥5 details, ≥3 types | Checklist count |
+| Emotional Depth | All 3 layers present | Layer identification |
+| Character Voice | Consistent and unique | Comparison with character spec |
+| Narrative Style | Matches book definition | Style consistency check |
+| Chapter Connection | Natural flow from/to adjacent | Transition review |
+| Realism | Bay Area characteristics | Setting verification |
+| Psychological Accuracy | Anxiety portrayed authentically | Mental health review |
+
+### 12.3 Final Quality Gates
+- [ ] All chapters pass individual checks
+- [ ] Overall emotional arc is coherent
+- [ ] Theme development is consistent
+- [ ] Character growth is believable
+- [ ] No plot holes or inconsistencies
+- [ ] Sensory details create immersive experience
+- [ ] Dialogue reveals character and advances plot
+- [ ] Ending satisfies while leaving appropriate questions
+
+---
+
+## 13. Revision History
+
+| Version | Date | Changes | Author |
+|---------|------|---------|--------|
+| 1.0 | 2026-03-20 | Updated to new template format | AI Assistant |
+
+---
+
+**END OF BOOK SPECIFICATION**

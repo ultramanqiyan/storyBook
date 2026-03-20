@@ -103,4 +103,28 @@ Elara looked at the seeds, at the forest, at the dawn breaking through the trees
 
 She held the seed up to the light, watching it glow.
 
-** 10**
+---
+
+**THE QUESTIONS THAT REMAIN**
+
+The Green was rising, but what did that mean for humanity?
+
+Strand had spoken of others—others who knew about the Green, who had been waiting for it to return. Who were they? What did they want?
+
+The seeds would need to be planted, but where? And who would tend them?
+
+The darkness had been pushed back, but not destroyed. Where had it gone? Would it return?
+
+These questions had no answers. Not yet. Perhaps not ever.
+
+But that was the point.
+
+The Green wasn't about answers. It was about growth. About connection. About the endless cycle of life, death, and rebirth that sustained the planet.
+
+It was about remembering what humans had forgotten—that they were part of something larger, older, and wiser than themselves.
+
+And Elara Chen, the Neural Druid, would be there to remind them.
+
+---
+
+**END OF BOOK ONE: THE NEURAL DRUID**

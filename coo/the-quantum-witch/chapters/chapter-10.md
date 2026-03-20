@@ -87,4 +87,32 @@ And she was just beginning.
 
 Zara smiled. "Let's see what other impossibilities we can make possible."
 
-** 10**
+---
+
+**THE QUESTIONS THAT REMAIN**
+
+The web was stable, but for how long?
+
+The Separatists had been defeated, but were there others who shared their ideology?
+
+What other gifts existed in the world, waiting to be discovered?
+
+Could science and magic truly be reconciled, or were they destined to remain separate?
+
+These questions had no answers. Not yet. Perhaps not ever.
+
+But that was the nature of probability—uncertainty was its essence. The future was not written, not determined, not fixed. It was a web of possibilities, each thread connected to countless others, each choice creating new paths and closing others.
+
+And Zara, the quantum witch, would be there to navigate those paths.
+
+Not to control them. Not to dictate them. But to understand them, to guide them, to help others see the possibilities that existed in every moment.
+
+*What happens next?* she wondered.
+
+The question hung in the air, unanswered.
+
+And that was exactly as it should be.
+
+---
+
+**END OF BOOK ONE: THE QUANTUM WITCH**
