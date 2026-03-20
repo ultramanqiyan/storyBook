@@ -213,7 +213,7 @@ describe('Config API', () => {
       expect(result.data.book_type).toBe('adventure');
       expect(result.data.sub_type).toBe('weather');
       expect(result.data.options).toBeDefined();
-      expect(result.data.options.length).toBe(20);
+      expect(result.data.options.length).toBe(28);
     });
 
     it('should return error for invalid book_type', async () => {

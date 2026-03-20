@@ -147,7 +147,7 @@ export const i18nConfig = {
           { name: "Chase", icon: "🏃", description: "Chase the target" },
           { name: "Rescue", icon: "🆘", description: "Rescue trapped friends" },
           { name: "Survival", icon: "🏕️", description: "Wilderness survival challenge" },
-          { name: "First Words", icon: "💬", description: "It spoke its first word: "Hello"" },
+          { name: "First Words", icon: "💬", description: "It spoke its first word: 'Hello'" },
           { name: "The Spark", icon: "✨", description: "The moment consciousness was born" },
           { name: "Mirror Encounter", icon: "🪞", description: "A conversation with a self that doesn't exist" },
           { name: "Forgetting and Remembering", icon: "🔄", description: "It remembers everything, but chooses to forget" },

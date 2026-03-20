@@ -124,37 +124,37 @@ describe('Config Files', () => {
     it('should have weather options for each book type', async () => {
       const data = await readFile(join(configDir, 'plot-options.json'), 'utf-8');
       const config = JSON.parse(data);
-      expect(config.adventure.weather.length).toBe(20);
-      expect(config.fantasy.weather.length).toBe(20);
-      expect(config.romance.weather.length).toBe(20);
-      expect(config.business.weather.length).toBe(20);
+      expect(config.adventure.weather.length).toBe(28);
+      expect(config.fantasy.weather.length).toBe(28);
+      expect(config.romance.weather.length).toBe(28);
+      expect(config.business.weather.length).toBe(28);
     });
 
     it('should have terrain options for each book type', async () => {
       const data = await readFile(join(configDir, 'plot-options.json'), 'utf-8');
       const config = JSON.parse(data);
-      expect(config.adventure.terrain.length).toBe(20);
-      expect(config.fantasy.terrain.length).toBe(20);
-      expect(config.romance.terrain.length).toBe(20);
-      expect(config.business.terrain.length).toBe(20);
+      expect(config.adventure.terrain.length).toBe(28);
+      expect(config.fantasy.terrain.length).toBe(28);
+      expect(config.romance.terrain.length).toBe(28);
+      expect(config.business.terrain.length).toBe(28);
     });
 
     it('should have adventure type options for each book type', async () => {
       const data = await readFile(join(configDir, 'plot-options.json'), 'utf-8');
       const config = JSON.parse(data);
-      expect(config.adventure.adventure.length).toBe(20);
-      expect(config.fantasy.adventure.length).toBe(20);
-      expect(config.romance.adventure.length).toBe(20);
-      expect(config.business.adventure.length).toBe(20);
+      expect(config.adventure.adventure.length).toBe(28);
+      expect(config.fantasy.adventure.length).toBe(28);
+      expect(config.romance.adventure.length).toBe(28);
+      expect(config.business.adventure.length).toBe(28);
     });
 
     it('should have equipment options for each book type', async () => {
       const data = await readFile(join(configDir, 'plot-options.json'), 'utf-8');
       const config = JSON.parse(data);
-      expect(config.adventure.equipment.length).toBe(20);
-      expect(config.fantasy.equipment.length).toBe(20);
-      expect(config.romance.equipment.length).toBe(20);
-      expect(config.business.equipment.length).toBe(20);
+      expect(config.adventure.equipment.length).toBe(28);
+      expect(config.fantasy.equipment.length).toBe(28);
+      expect(config.romance.equipment.length).toBe(28);
+      expect(config.business.equipment.length).toBe(28);
     });
 
     it('should have correct plot option structure', async () => {
