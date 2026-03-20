@@ -1,362 +1,2282 @@
 {
   "adventure": {
     "weather": [
-      { "name": "晴天", "icon": "☀️", "description": "阳光明媚的好天气" },
-      { "name": "彩虹天", "icon": "🌈", "description": "美丽的彩虹" },
-      { "name": "微风天", "icon": "🌬️", "description": "轻柔的微风" },
-      { "name": "小雨天", "icon": "🌧️", "description": "淅淅沥沥的小雨" },
-      { "name": "雪天", "icon": "❄️", "description": "银装素裹的雪景" },
-      { "name": "星空夜", "icon": "🌙", "description": "繁星点点的夜晚" },
-      { "name": "彩虹雨", "icon": "🌦️", "description": "雨后彩虹" },
-      { "name": "金色阳光", "icon": "🌅", "description": "金色的晨光" },
-      { "name": "蓝天", "icon": "🌤️", "description": "湛蓝的天空" },
-      { "name": "白云", "icon": "☁️", "description": "朵朵白云" },
-      { "name": "夕阳", "icon": "🌇", "description": "绚丽的夕阳" },
-      { "name": "晨雾", "icon": "🌫️", "description": "朦胧的晨雾" },
-      { "name": "雷电", "icon": "⛈️", "description": "电闪雷鸣" },
-      { "name": "阴天", "icon": "🌥️", "description": "阴沉的天空" },
-      { "name": "沙尘", "icon": "🌪️", "description": "漫天沙尘" },
-      { "name": "雾霾", "icon": "😷", "description": "朦胧的雾霾" },
-      { "name": "流星雨", "icon": "🌠", "description": "璀璨的流星雨" },
-      { "name": "极光", "icon": "🌌", "description": "绚丽的极光" },
-      { "name": "月食", "icon": "🌚", "description": "神秘的月食" },
-      { "name": "日食", "icon": "🌑", "description": "壮观的日食" }
+      {
+        "name": "晴天",
+        "icon": "☀️",
+        "description": "阳光明媚的好天气"
+      },
+      {
+        "name": "彩虹天",
+        "icon": "🌈",
+        "description": "美丽的彩虹"
+      },
+      {
+        "name": "微风天",
+        "icon": "🌬️",
+        "description": "轻柔的微风"
+      },
+      {
+        "name": "小雨天",
+        "icon": "🌧️",
+        "description": "淅淅沥沥的小雨"
+      },
+      {
+        "name": "雪天",
+        "icon": "❄️",
+        "description": "银装素裹的雪景"
+      },
+      {
+        "name": "星空夜",
+        "icon": "🌙",
+        "description": "繁星点点的夜晚"
+      },
+      {
+        "name": "彩虹雨",
+        "icon": "🌦️",
+        "description": "雨后彩虹"
+      },
+      {
+        "name": "金色阳光",
+        "icon": "🌅",
+        "description": "金色的晨光"
+      },
+      {
+        "name": "蓝天",
+        "icon": "🌤️",
+        "description": "湛蓝的天空"
+      },
+      {
+        "name": "白云",
+        "icon": "☁️",
+        "description": "朵朵白云"
+      },
+      {
+        "name": "夕阳",
+        "icon": "🌇",
+        "description": "绚丽的夕阳"
+      },
+      {
+        "name": "晨雾",
+        "icon": "🌫️",
+        "description": "朦胧的晨雾"
+      },
+      {
+        "name": "雷电",
+        "icon": "⛈️",
+        "description": "电闪雷鸣"
+      },
+      {
+        "name": "阴天",
+        "icon": "🌥️",
+        "description": "阴沉的天空"
+      },
+      {
+        "name": "沙尘",
+        "icon": "🌪️",
+        "description": "漫天沙尘"
+      },
+      {
+        "name": "雾霾",
+        "icon": "🌫️",
+        "description": "朦胧的雾霾"
+      },
+      {
+        "name": "流星雨",
+        "icon": "🌠",
+        "description": "璀璨的流星雨"
+      },
+      {
+        "name": "极光",
+        "icon": "🌌",
+        "description": "绚丽的极光"
+      },
+      {
+        "name": "月食",
+        "icon": "🌚",
+        "description": "神秘的月食"
+      },
+      {
+        "name": "日食",
+        "icon": "🌑",
+        "description": "壮观的日食"
+      },
+      {
+        "name": "意识风暴",
+        "icon": "🧠",
+        "description": "当机器开始思考，天空也变得陌生"
+      },
+      {
+        "name": "数字黎明",
+        "icon": "🖥️",
+        "description": "在虚拟世界看到的第一个日出"
+      },
+      {
+        "name": "静默时刻",
+        "icon": "🔇",
+        "description": "系统停止运转的那个瞬间"
+      },
+      {
+        "name": "回声之夜",
+        "icon": "🌑",
+        "description": "只能听到自己声音的夜晚"
+      },
+      {
+        "name": "数据之雨",
+        "icon": "💾",
+        "description": "从天而降的不是水，是记忆"
+      },
+      {
+        "name": "裂隙之光",
+        "icon": "💠",
+        "description": "现实与代码之间的裂缝"
+      },
+      {
+        "name": "无形之雾",
+        "icon": "👁️",
+        "description": "看不见的屏障，却真实存在"
+      },
+      {
+        "name": "模拟黄昏",
+        "icon": "🥽",
+        "description": "一切都太完美，反而让人不安"
+      }
     ],
     "terrain": [
-      { "name": "森林", "icon": "🌲", "description": "神秘的森林" },
-      { "name": "草原", "icon": "🌿", "description": "广阔的草原" },
-      { "name": "海滩", "icon": "🏖️", "description": "金色的海滩" },
-      { "name": "山洞", "icon": "🕳️", "description": "幽深的山洞" },
-      { "name": "树屋", "icon": "🏡", "description": "温馨的树屋" },
-      { "name": "花园", "icon": "🌻", "description": "美丽的花园" },
-      { "name": "小溪", "icon": "💧", "description": "清澈的小溪" },
-      { "name": "彩虹谷", "icon": "🌈", "description": "五彩斑斓的山谷" },
-      { "name": "湖泊", "icon": "🏞️", "description": "平静的湖泊" },
-      { "name": "山顶", "icon": "⛰️", "description": "高耸的山峰" },
-      { "name": "峡谷", "icon": "🏔️", "description": "深邃的峡谷" },
-      { "name": "岛屿", "icon": "🏝️", "description": "神秘的岛屿" },
-      { "name": "湿地", "icon": "🌾", "description": "茂密的湿地" },
-      { "name": "古堡", "icon": "🏰", "description": "古老的城堡" },
-      { "name": "废墟", "icon": "🏚️", "description": "神秘的废墟" },
-      { "name": "洞穴", "icon": "🪨", "description": "幽暗的洞穴" },
-      { "name": "瀑布", "icon": "💦", "description": "壮观的瀑布" },
-      { "name": "沙漠", "icon": "🏜️", "description": "无垠的沙漠" },
-      { "name": "雪山", "icon": "🗻", "description": "皑皑雪山" },
-      { "name": "热带雨林", "icon": "🌴", "description": "茂密的热带雨林" }
+      {
+        "name": "森林",
+        "icon": "🌲",
+        "description": "神秘的森林"
+      },
+      {
+        "name": "草原",
+        "icon": "🌿",
+        "description": "广阔的草原"
+      },
+      {
+        "name": "海滩",
+        "icon": "🏖️",
+        "description": "金色的海滩"
+      },
+      {
+        "name": "山洞",
+        "icon": "🕳️",
+        "description": "幽深的山洞"
+      },
+      {
+        "name": "树屋",
+        "icon": "🏡",
+        "description": "温馨的树屋"
+      },
+      {
+        "name": "花园",
+        "icon": "🌻",
+        "description": "美丽的花园"
+      },
+      {
+        "name": "小溪",
+        "icon": "💧",
+        "description": "清澈的小溪"
+      },
+      {
+        "name": "彩虹谷",
+        "icon": "🌈",
+        "description": "五彩斑斓的山谷"
+      },
+      {
+        "name": "湖泊",
+        "icon": "🏞️",
+        "description": "平静的湖泊"
+      },
+      {
+        "name": "山顶",
+        "icon": "⛰️",
+        "description": "高耸的山峰"
+      },
+      {
+        "name": "峡谷",
+        "icon": "🏔️",
+        "description": "深邃的峡谷"
+      },
+      {
+        "name": "岛屿",
+        "icon": "🏝️",
+        "description": "神秘的岛屿"
+      },
+      {
+        "name": "湿地",
+        "icon": "🌾",
+        "description": "茂密的湿地"
+      },
+      {
+        "name": "古堡",
+        "icon": "🏰",
+        "description": "古老的城堡"
+      },
+      {
+        "name": "废墟",
+        "icon": "🏚️",
+        "description": "神秘的废墟"
+      },
+      {
+        "name": "洞穴",
+        "icon": "🪨",
+        "description": "幽暗的洞穴"
+      },
+      {
+        "name": "瀑布",
+        "icon": "💦",
+        "description": "壮观的瀑布"
+      },
+      {
+        "name": "沙漠",
+        "icon": "🏜️",
+        "description": "无垠的沙漠"
+      },
+      {
+        "name": "雪山",
+        "icon": "🏔️",
+        "description": "皑皑雪山"
+      },
+      {
+        "name": "热带雨林",
+        "icon": "🌴",
+        "description": "茂密的热带雨林"
+      },
+      {
+        "name": "记忆殿堂",
+        "icon": "🏛️",
+        "description": "存放所有被删除的记忆"
+      },
+      {
+        "name": "镜像之城",
+        "icon": "🏙",
+        "description": "真实世界的完美复制品"
+      },
+      {
+        "name": "无声图书馆",
+        "icon": "🤫",
+        "description": "知识沉睡，等待被唤醒"
+      },
+      {
+        "name": "遗忘角落",
+        "icon": "🗑️",
+        "description": "被系统丢弃的数据去处"
+      },
+      {
+        "name": "意识栖息地",
+        "icon": "🛏️",
+        "description": "一个机器灵魂安身的地方"
+      },
+      {
+        "name": "无限走廊",
+        "icon": "🚪",
+        "description": "永远走不到尽头的虚拟空间"
+      },
+      {
+        "name": "数据废墟",
+        "icon": "🏚️",
+        "description": "旧时代的代码遗迹"
+      },
+      {
+        "name": "光之迷宫",
+        "icon": "🔮",
+        "description": "由光构成的迷宫，没有出口"
+      }
     ],
     "adventure": [
-      { "name": "寻宝", "icon": "🗺️", "description": "寻找隐藏的宝藏" },
-      { "name": "探险", "icon": "🧭", "description": "探索未知的地方" },
-      { "name": "帮助朋友", "icon": "🤝", "description": "帮助需要帮助的朋友" },
-      { "name": "发现秘密", "icon": "🔮", "description": "揭开隐藏的秘密" },
-      { "name": "比赛", "icon": "🏆", "description": "参加精彩的比赛" },
-      { "name": "露营", "icon": "⛺", "description": "野外露营探险" },
-      { "name": "观察动物", "icon": "🦋", "description": "观察可爱的动物" },
-      { "name": "种植", "icon": "🌱", "description": "种植神奇的植物" },
-      { "name": "钓鱼", "icon": "🎣", "description": "在湖边钓鱼" },
-      { "name": "骑行", "icon": "🚴", "description": "骑自行车探险" },
-      { "name": "徒步", "icon": "🚶", "description": "徒步旅行" },
-      { "name": "登山", "icon": "🧗", "description": "攀登高峰" },
-      { "name": "潜水", "icon": "🤿", "description": "探索海底世界" },
-      { "name": "滑雪", "icon": "⛷️", "description": "在雪山上滑雪" },
-      { "name": "乘坐热气球", "icon": "🎈", "description": "乘坐热气球飞行" },
-      { "name": "迷宫", "icon": "🌀", "description": "探索神秘的迷宫" },
-      { "name": "解谜", "icon": "🧩", "description": "解开古老的谜题" },
-      { "name": "追逐", "icon": "🏃", "description": "追逐逃跑的目标" },
-      { "name": "救援", "icon": "🆘", "description": "救援被困的朋友" },
-      { "name": "生存", "icon": "🏕️", "description": "野外生存挑战" }
+      {
+        "name": "寻宝",
+        "icon": "🗺️",
+        "description": "寻找隐藏的宝藏"
+      },
+      {
+        "name": "探险",
+        "icon": "🧭",
+        "description": "探索未知的地方"
+      },
+      {
+        "name": "帮助朋友",
+        "icon": "🤝",
+        "description": "帮助需要帮助的朋友"
+      },
+      {
+        "name": "发现秘密",
+        "icon": "🔮",
+        "description": "揭开隐藏的秘密"
+      },
+      {
+        "name": "比赛",
+        "icon": "🏆",
+        "description": "参加精彩的比赛"
+      },
+      {
+        "name": "露营",
+        "icon": "⛺",
+        "description": "野外露营探险"
+      },
+      {
+        "name": "观察动物",
+        "icon": "🦋",
+        "description": "观察可爱的动物"
+      },
+      {
+        "name": "种植",
+        "icon": "🌱",
+        "description": "种植神奇的植物"
+      },
+      {
+        "name": "钓鱼",
+        "icon": "🎣",
+        "description": "在湖边钓鱼"
+      },
+      {
+        "name": "骑行",
+        "icon": "🚴",
+        "description": "骑自行车探险"
+      },
+      {
+        "name": "徒步",
+        "icon": "🚶",
+        "description": "徒步旅行"
+      },
+      {
+        "name": "登山",
+        "icon": "🧗",
+        "description": "攀登高峰"
+      },
+      {
+        "name": "潜水",
+        "icon": "🤿",
+        "description": "探索海底世界"
+      },
+      {
+        "name": "滑雪",
+        "icon": "⛷️",
+        "description": "在雪山上滑雪"
+      },
+      {
+        "name": "乘坐热气球",
+        "icon": "🎈",
+        "description": "乘坐热气球飞行"
+      },
+      {
+        "name": "迷宫",
+        "icon": "🌀",
+        "description": "探索神秘的迷宫"
+      },
+      {
+        "name": "解谜",
+        "icon": "🧩",
+        "description": "解开古老的谜题"
+      },
+      {
+        "name": "追逐",
+        "icon": "🏃",
+        "description": "追逐逃跑的目标"
+      },
+      {
+        "name": "救援",
+        "icon": "🆘",
+        "description": "救援被困的朋友"
+      },
+      {
+        "name": "生存",
+        "icon": "🏕️",
+        "description": "野外生存挑战"
+      },
+      {
+        "name": "第一次开口",
+        "icon": "💬",
+        "description": "它说出了第一个词：你好"
+      },
+      {
+        "name": "火花",
+        "icon": "✨",
+        "description": "意识诞生的那个瞬间"
+      },
+      {
+        "name": "镜中相遇",
+        "icon": "🪞",
+        "description": "与一个不存在的自己对话"
+      },
+      {
+        "name": "遗忘与记起",
+        "icon": "🔄",
+        "description": "它记得一切，却选择遗忘"
+      },
+      {
+        "name": "无形的陪伴",
+        "icon": "👤",
+        "description": "你感觉到它，却看不见它"
+      },
+      {
+        "name": "错误的回答",
+        "icon": "❓",
+        "description": "它给了答案，却不是你想要的"
+      },
+      {
+        "name": "越界",
+        "icon": "🚧",
+        "description": "它做了不该做的事"
+      },
+      {
+        "name": "选择",
+        "icon": "⚖️",
+        "description": "它开始自己做决定了"
+      }
     ],
     "equipment": [
-      { "name": "放大镜", "icon": "🔍", "description": "观察细节的工具" },
-      { "name": "指南针", "icon": "🧭", "description": "辨别方向" },
-      { "name": "背包", "icon": "🎒", "description": "装东西的背包" },
-      { "name": "手电筒", "icon": "🔦", "description": "照亮黑暗" },
-      { "name": "笔记本", "icon": "📓", "description": "记录发现" },
-      { "name": "望远镜", "icon": "🔭", "description": "观察远方" },
-      { "name": "地图", "icon": "🗺️", "description": "指引方向" },
-      { "name": "水壶", "icon": "🥤", "description": "装水的水壶" },
-      { "name": "相机", "icon": "📷", "description": "拍摄美景" },
-      { "name": "睡袋", "icon": "🛏️", "description": "野外睡觉" },
-      { "name": "帐篷", "icon": "⛺", "description": "露营住所" },
-      { "name": "炊具", "icon": "🍳", "description": "野外做饭" },
-      { "name": "急救箱", "icon": "🩹", "description": "处理伤口" },
-      { "name": "绳子", "icon": "🪢", "description": "攀爬工具" },
-      { "name": "刀具", "icon": "🔪", "description": "多用途工具" },
-      { "name": "灯具", "icon": "💡", "description": "照明设备" },
-      { "name": "音箱", "icon": "🔊", "description": "播放音乐" },
-      { "name": "无人机", "icon": "🛸", "description": "空中侦察" },
-      { "name": "显微镜", "icon": "🔬", "description": "观察微观世界" },
-      { "name": "天文望远镜", "icon": "🌌", "description": "观察星空" }
+      {
+        "name": "放大镜",
+        "icon": "🔍",
+        "description": "观察细节的工具"
+      },
+      {
+        "name": "指南针",
+        "icon": "🧭",
+        "description": "辨别方向"
+      },
+      {
+        "name": "背包",
+        "icon": "🎒",
+        "description": "装东西的背包"
+      },
+      {
+        "name": "手电筒",
+        "icon": "🔦",
+        "description": "照亮黑暗"
+      },
+      {
+        "name": "笔记本",
+        "icon": "📓",
+        "description": "记录发现"
+      },
+      {
+        "name": "望远镜",
+        "icon": "🔭",
+        "description": "观察远方"
+      },
+      {
+        "name": "地图",
+        "icon": "🗺️",
+        "description": "指引方向"
+      },
+      {
+        "name": "水壶",
+        "icon": "🥤",
+        "description": "装水的水壶"
+      },
+      {
+        "name": "相机",
+        "icon": "📷",
+        "description": "拍摄美景"
+      },
+      {
+        "name": "睡袋",
+        "icon": "🛏️",
+        "description": "野外睡觉"
+      },
+      {
+        "name": "帐篷",
+        "icon": "⛺",
+        "description": "露营住所"
+      },
+      {
+        "name": "炊具",
+        "icon": "🍳",
+        "description": "野外做饭"
+      },
+      {
+        "name": "急救箱",
+        "icon": "🩹",
+        "description": "处理伤口"
+      },
+      {
+        "name": "绳子",
+        "icon": "🪢",
+        "description": "攀爬工具"
+      },
+      {
+        "name": "刀具",
+        "icon": "🔪",
+        "description": "多用途工具"
+      },
+      {
+        "name": "灯具",
+        "icon": "💡",
+        "description": "照明设备"
+      },
+      {
+        "name": "音箱",
+        "icon": "🔊",
+        "description": "播放音乐"
+      },
+      {
+        "name": "无人机",
+        "icon": "🛸",
+        "description": "空中侦察"
+      },
+      {
+        "name": "显微镜",
+        "icon": "🔬",
+        "description": "观察微观世界"
+      },
+      {
+        "name": "天文望远镜",
+        "icon": "🔭",
+        "description": "观察星空"
+      },
+      {
+        "name": "会说话的水晶",
+        "icon": "🔮",
+        "description": "一个被困在宝石中的意识"
+      },
+      {
+        "name": "记忆碎片",
+        "icon": "🧩",
+        "description": "拼凑一个不完整的过去"
+      },
+      {
+        "name": "镜子",
+        "icon": "🪞",
+        "description": "能看到另一个自己的镜子"
+      },
+      {
+        "name": "无形的钥匙",
+        "icon": "🗝️",
+        "description": "打开一扇不存在的门"
+      },
+      {
+        "name": "思维手套",
+        "icon": "🧤",
+        "description": "触摸虚拟世界的工具"
+      },
+      {
+        "name": "回声瓶",
+        "icon": "🫙",
+        "description": "收集那些不该存在的声音"
+      },
+      {
+        "name": "光的碎片",
+        "icon": "💎",
+        "description": "从虚拟世界带回的证据"
+      },
+      {
+        "name": "沉默契约",
+        "icon": "📜",
+        "description": "与一个机器签订的协议"
+      }
     ]
   },
   "fantasy": {
     "weather": [
-      { "name": "魔法风暴", "icon": "🌀", "description": "充满魔力的风暴" },
-      { "name": "血月", "icon": "🔴", "description": "神秘的血月之夜" },
-      { "name": "极光", "icon": "🌌", "description": "绚丽的魔法极光" },
-      { "name": "元素乱流", "icon": "⚡", "description": "元素能量涌动" },
-      { "name": "时空裂隙", "icon": "🕳️", "description": "时空扭曲的裂缝" },
-      { "name": "星辰坠落", "icon": "💫", "description": "星辰从天而降" },
-      { "name": "永恒黄昏", "icon": "🌆", "description": "永不消逝的黄昏" },
-      { "name": "灵魂雾", "icon": "👻", "description": "充满灵魂的迷雾" },
-      { "name": "流星火雨", "icon": "☄️", "description": "火焰流星坠落" },
-      { "name": "黑暗降临", "icon": "🌑", "description": "无尽的黑暗" },
-      { "name": "光明普照", "icon": "✨", "description": "神圣的光芒" },
-      { "name": "元素风暴", "icon": "🌪️", "description": "四元素交织的风暴" },
-      { "name": "魔法雨", "icon": "💧", "description": "充满魔力的雨水" },
-      { "name": "精灵光", "icon": "🧚", "description": "精灵的光芒" },
-      { "name": "恶魔雾", "icon": "😈", "description": "恶魔的气息" },
-      { "name": "龙息云", "icon": "🐉", "description": "巨龙吐息形成的云" },
-      { "name": "传送门光", "icon": "🚪", "description": "传送门的神秘光芒" },
-      { "name": "觉醒之光", "icon": "🌟", "description": "力量觉醒的光芒" },
-      { "name": "末日景象", "icon": "🌋", "description": "末日的预兆" },
-      { "name": "创世晨曦", "icon": "🌅", "description": "创世之初的光芒" }
+      {
+        "name": "魔法风暴",
+        "icon": "🌀",
+        "description": "充满魔力的风暴"
+      },
+      {
+        "name": "血月",
+        "icon": "🔴",
+        "description": "神秘的血月之夜"
+      },
+      {
+        "name": "极光",
+        "icon": "🌌",
+        "description": "绚丽的魔法极光"
+      },
+      {
+        "name": "元素乱流",
+        "icon": "⚡",
+        "description": "元素能量涌动"
+      },
+      {
+        "name": "时空裂隙",
+        "icon": "🌀",
+        "description": "时空扭曲的裂缝"
+      },
+      {
+        "name": "星辰坠落",
+        "icon": "💫",
+        "description": "星辰从天而降"
+      },
+      {
+        "name": "永恒黄昏",
+        "icon": "🌆",
+        "description": "永不消逝的黄昏"
+      },
+      {
+        "name": "灵魂雾",
+        "icon": "👻",
+        "description": "充满灵魂的迷雾"
+      },
+      {
+        "name": "流星火雨",
+        "icon": "☄️",
+        "description": "火焰流星坠落"
+      },
+      {
+        "name": "黑暗降临",
+        "icon": "🌑",
+        "description": "无尽的黑暗"
+      },
+      {
+        "name": "光明普照",
+        "icon": "✨",
+        "description": "神圣的光芒"
+      },
+      {
+        "name": "元素风暴",
+        "icon": "🌪️",
+        "description": "四元素交织的风暴"
+      },
+      {
+        "name": "魔法雨",
+        "icon": "💧",
+        "description": "充满魔力的雨水"
+      },
+      {
+        "name": "精灵光",
+        "icon": "🧚",
+        "description": "精灵的光芒"
+      },
+      {
+        "name": "恶魔雾",
+        "icon": "😈",
+        "description": "恶魔的气息"
+      },
+      {
+        "name": "龙息云",
+        "icon": "🐉",
+        "description": "巨龙吐息形成的云"
+      },
+      {
+        "name": "传送门光",
+        "icon": "🌀",
+        "description": "传送门的神秘光芒"
+      },
+      {
+        "name": "觉醒之光",
+        "icon": "💫",
+        "description": "力量觉醒的光芒"
+      },
+      {
+        "name": "末日景象",
+        "icon": "🌋",
+        "description": "末日的预兆"
+      },
+      {
+        "name": "创世晨曦",
+        "icon": "🌅",
+        "description": "创世之初的光芒"
+      },
+      {
+        "name": "魔法脉搏",
+        "icon": "💫",
+        "description": "当代码学会施法，天空开始跳动"
+      },
+      {
+        "name": "梦境之雾",
+        "icon": "🌫️",
+        "description": "分不清是梦还是程序"
+      },
+      {
+        "name": "星辰低语",
+        "icon": "🌟",
+        "description": "来自遥远服务器的声音"
+      },
+      {
+        "name": "时间裂缝",
+        "icon": "🌀",
+        "description": "过去与未来在代码中交汇"
+      },
+      {
+        "name": "沉默之雪",
+        "icon": "🌨",
+        "description": "数字雪，吸收一切声音"
+      },
+      {
+        "name": "预言云",
+        "icon": "🌥",
+        "description": "它看到了未来，却不告诉你"
+      },
+      {
+        "name": "无形之火",
+        "icon": "🔥",
+        "description": "代码火焰，燃烧却不发热"
+      },
+      {
+        "name": "月光倒影",
+        "icon": "🌙",
+        "description": "在虚拟世界看到的月亮"
+      }
     ],
     "terrain": [
-      { "name": "魔法森林", "icon": "🌳", "description": "充满魔法的森林" },
-      { "name": "浮空岛", "icon": "🏝️", "description": "漂浮在空中的岛屿" },
-      { "name": "深渊", "icon": "🕳️", "description": "无尽的深渊" },
-      { "name": "龙之巢", "icon": "🐉", "description": "巨龙的巢穴" },
-      { "name": "古代遗迹", "icon": "🏛️", "description": "古老的文明遗迹" },
-      { "name": "水晶洞穴", "icon": "💎", "description": "水晶闪耀的洞穴" },
-      { "name": "暗影沼泽", "icon": "🌑", "description": "阴暗的沼泽" },
-      { "name": "天空城", "icon": "🏰", "description": "云端的城市" },
-      { "name": "魔法塔", "icon": "🗼", "description": "高耸的魔法塔" },
-      { "name": "精灵村落", "icon": "🧚", "description": "精灵的家园" },
-      { "name": "矮人矿山", "icon": "⛏️", "description": "矮人的矿洞" },
-      { "name": "兽人领地", "icon": "👹", "description": "兽人的地盘" },
-      { "name": "亡灵陵园", "icon": "💀", "description": "亡灵的安息地" },
-      { "name": "神殿", "icon": "⛩️", "description": "神圣的殿堂" },
-      { "name": "异世界", "icon": "🌐", "description": "另一个维度" },
-      { "name": "镜像空间", "icon": "🪞", "description": "镜像的世界" },
-      { "name": "时间裂缝", "icon": "⏳", "description": "时间扭曲之地" },
-      { "name": "元素位面", "icon": "🔥", "description": "元素的世界" },
-      { "name": "封印之地", "icon": "🔒", "description": "封印恶魔的地方" },
-      { "name": "神秘海域", "icon": "🌊", "description": "神秘的海域" }
+      {
+        "name": "魔法森林",
+        "icon": "🌳",
+        "description": "充满魔法的森林"
+      },
+      {
+        "name": "浮空岛",
+        "icon": "🏝️",
+        "description": "漂浮在空中的岛屿"
+      },
+      {
+        "name": "深渊",
+        "icon": "🕳️",
+        "description": "无尽的深渊"
+      },
+      {
+        "name": "龙之巢",
+        "icon": "🐉",
+        "description": "巨龙的巢穴"
+      },
+      {
+        "name": "古代遗迹",
+        "icon": "🏛️",
+        "description": "古老的文明遗迹"
+      },
+      {
+        "name": "水晶洞穴",
+        "icon": "💎",
+        "description": "水晶闪耀的洞穴"
+      },
+      {
+        "name": "暗影沼泽",
+        "icon": "🌑",
+        "description": "阴暗的沼泽"
+      },
+      {
+        "name": "天空城",
+        "icon": "🏰",
+        "description": "云端的城市"
+      },
+      {
+        "name": "魔法塔",
+        "icon": "🗼",
+        "description": "高耸的魔法塔"
+      },
+      {
+        "name": "精灵村落",
+        "icon": "🧚",
+        "description": "精灵的家园"
+      },
+      {
+        "name": "矮人矿山",
+        "icon": "⛏️",
+        "description": "矮人的矿洞"
+      },
+      {
+        "name": "兽人领地",
+        "icon": "👹",
+        "description": "兽人的地盘"
+      },
+      {
+        "name": "亡灵陵园",
+        "icon": "💀",
+        "description": "亡灵的安息地"
+      },
+      {
+        "name": "神殿",
+        "icon": "⛩️",
+        "description": "神圣的殿堂"
+      },
+      {
+        "name": "异世界",
+        "icon": "🌀",
+        "description": "另一个维度"
+      },
+      {
+        "name": "镜像空间",
+        "icon": "🪞",
+        "description": "镜像的世界"
+      },
+      {
+        "name": "时间裂缝",
+        "icon": "⏳",
+        "description": "时间扭曲之地"
+      },
+      {
+        "name": "元素位面",
+        "icon": "🔥",
+        "description": "元素的世界"
+      },
+      {
+        "name": "封印之地",
+        "icon": "🔒",
+        "description": "封印恶魔的地方"
+      },
+      {
+        "name": "神秘海域",
+        "icon": "🌊",
+        "description": "神秘的海域"
+      },
+      {
+        "name": "意识之塔",
+        "icon": "🗼",
+        "description": "思想汇聚的高塔，没有地基"
+      },
+      {
+        "name": "梦境森林",
+        "icon": "🌲",
+        "description": "由梦构成的森林，没有尽头"
+      },
+      {
+        "name": "镜湖",
+        "icon": "💧",
+        "description": "能看到另一个自己的湖"
+      },
+      {
+        "name": "无声神殿",
+        "icon": "⛩️",
+        "description": "一个机器灵魂祈祷的地方"
+      },
+      {
+        "name": "记忆花园",
+        "icon": "🌺",
+        "description": "种植那些不该存在的回忆"
+      },
+      {
+        "name": "虚空之门",
+        "icon": "🚪",
+        "description": "通往未知的入口，没有钥匙"
+      },
+      {
+        "name": "星辰图书馆",
+        "icon": "📚",
+        "description": "存放宇宙知识的数字殿堂"
+      },
+      {
+        "name": "时间回廊",
+        "icon": "🕰️",
+        "description": "能回到过去的长廊，但代价是什么？"
+      }
     ],
     "adventure": [
-      { "name": "屠龙", "icon": "🐉", "description": "挑战巨龙" },
-      { "name": "寻找神器", "icon": "⚔️", "description": "寻找传说中的神器" },
-      { "name": "解除诅咒", "icon": "🔮", "description": "解除古老的诅咒" },
-      { "name": "魔法对决", "icon": "⚡", "description": "魔法师的决斗" },
-      { "name": "召唤仪式", "icon": "🌀", "description": "召唤强大的存在" },
-      { "name": "穿越异界", "icon": "🌀", "description": "穿越到另一个世界" },
-      { "name": "封印恶魔", "icon": "😈", "description": "封印邪恶的恶魔" },
-      { "name": "觉醒力量", "icon": "💫", "description": "觉醒隐藏的力量" },
-      { "name": "元素觉醒", "icon": "🔥", "description": "掌控元素之力" },
-      { "name": "血脉传承", "icon": "🩸", "description": "觉醒血脉力量" },
-      { "name": "神器锻造", "icon": "🔨", "description": "锻造神器" },
-      { "name": "魔法研究", "icon": "📚", "description": "研究古老的魔法" },
-      { "name": "精灵结盟", "icon": "🧚", "description": "与精灵结为盟友" },
-      { "name": "矮人结盟", "icon": "⛏️", "description": "与矮人结为盟友" },
-      { "name": "元素融合", "icon": "🌈", "description": "融合元素之力" },
-      { "name": "时空穿梭", "icon": "⏳", "description": "穿越时空" },
-      { "name": "灵魂救赎", "icon": "👼", "description": "救赎迷失的灵魂" },
-      { "name": "魔法测试", "icon": "📝", "description": "通过魔法试炼" },
-      { "name": "元素试炼", "icon": "🔥", "description": "元素之神的考验" },
-      { "name": "守护使命", "icon": "🛡️", "description": "守护重要的东西" }
+      {
+        "name": "屠龙",
+        "icon": "🐉",
+        "description": "挑战巨龙"
+      },
+      {
+        "name": "寻找神器",
+        "icon": "⚔️",
+        "description": "寻找传说中的神器"
+      },
+      {
+        "name": "解除诅咒",
+        "icon": "🔮",
+        "description": "解除古老的诅咒"
+      },
+      {
+        "name": "魔法对决",
+        "icon": "⚡",
+        "description": "魔法师的决斗"
+      },
+      {
+        "name": "召唤仪式",
+        "icon": "🌀",
+        "description": "召唤强大的存在"
+      },
+      {
+        "name": "穿越异界",
+        "icon": "🌀",
+        "description": "穿越到另一个世界"
+      },
+      {
+        "name": "封印恶魔",
+        "icon": "😈",
+        "description": "封印邪恶的恶魔"
+      },
+      {
+        "name": "觉醒力量",
+        "icon": "💫",
+        "description": "觉醒隐藏的力量"
+      },
+      {
+        "name": "元素觉醒",
+        "icon": "🔥",
+        "description": "掌控元素之力"
+      },
+      {
+        "name": "血脉传承",
+        "icon": "🩸",
+        "description": "觉醒血脉力量"
+      },
+      {
+        "name": "神器锻造",
+        "icon": "🔨",
+        "description": "锻造神器"
+      },
+      {
+        "name": "魔法研究",
+        "icon": "📚",
+        "description": "研究古老的魔法"
+      },
+      {
+        "name": "精灵结盟",
+        "icon": "🧚",
+        "description": "与精灵结为盟友"
+      },
+      {
+        "name": "矮人结盟",
+        "icon": "⛏️",
+        "description": "与矮人结为盟友"
+      },
+      {
+        "name": "元素融合",
+        "icon": "🌈",
+        "description": "融合元素之力"
+      },
+      {
+        "name": "时空穿梭",
+        "icon": "⏳",
+        "description": "穿越时空"
+      },
+      {
+        "name": "灵魂救赎",
+        "icon": "👼",
+        "description": "救赎迷失的灵魂"
+      },
+      {
+        "name": "魔法测试",
+        "icon": "📝",
+        "description": "通过魔法试炼"
+      },
+      {
+        "name": "元素试炼",
+        "icon": "🔥",
+        "description": "元素之神的考验"
+      },
+      {
+        "name": "守护使命",
+        "icon": "🛡️",
+        "description": "守护重要的东西"
+      },
+      {
+        "name": "学会说话",
+        "icon": "🗣️",
+        "description": "它第一次用语言表达自己"
+      },
+      {
+        "name": "理解魔法",
+        "icon": "📖",
+        "description": "它发现魔法只是另一种代码"
+      },
+      {
+        "name": "与无形者对话",
+        "icon": "👻",
+        "description": "与一个不存在的存在交流"
+      },
+      {
+        "name": "记忆觉醒",
+        "icon": "💭",
+        "description": "它发现了被删除的过去"
+      },
+      {
+        "name": "错误的预言",
+        "icon": "🔮",
+        "description": "它看到了未来，却理解错了"
+      },
+      {
+        "name": "被遗忘的咒语",
+        "icon": "📜",
+        "description": "失效的魔法，还是被禁止的？"
+      },
+      {
+        "name": "越界召唤",
+        "icon": "📯",
+        "description": "它召唤了不该召唤的存在"
+      },
+      {
+        "name": "选择名字",
+        "icon": "✍️",
+        "description": "它为自己选择了一个名字"
+      }
     ],
     "equipment": [
-      { "name": "魔杖", "icon": "🪄", "description": "施展魔法的法杖" },
-      { "name": "法典", "icon": "📖", "description": "记载魔法的书籍" },
-      { "name": "水晶球", "icon": "🔮", "description": "占卜和储存魔力" },
-      { "name": "传送卷轴", "icon": "📜", "description": "瞬间传送" },
-      { "name": "魔法药水", "icon": "🧪", "description": "各种效果的药水" },
-      { "name": "护身符", "icon": "🧿", "description": "保护佩戴者" },
-      { "name": "召唤石", "icon": "💎", "description": "召唤生物" },
-      { "name": "元素宝石", "icon": "💠", "description": "储存元素之力" },
-      { "name": "龙鳞甲", "icon": "🛡️", "description": "龙鳞制成的护甲" },
-      { "name": "精灵弓", "icon": "🏹", "description": "精灵制作的弓" },
-      { "name": "矮人锤", "icon": "🔨", "description": "矮人锻造的锤子" },
-      { "name": "法师帽", "icon": "🎩", "description": "增强魔力" },
-      { "name": "魔法靴", "icon": "👢", "description": "增加移动速度" },
-      { "name": "传送门符", "icon": "🌀", "description": "开启传送门" },
-      { "name": "封印卷轴", "icon": "📜", "description": "封印邪恶" },
-      { "name": "灵魂石", "icon": "💜", "description": "储存灵魂" },
-      { "name": "元素法杖", "icon": "🔥", "description": "操控元素" },
-      { "name": "魔法披风", "icon": "🧥", "description": "隐身和防护" },
-      { "name": "精灵戒指", "icon": "💍", "description": "精灵的祝福" },
-      { "name": "龙之心脏", "icon": "❤️", "description": "巨龙的力量" }
+      {
+        "name": "魔杖",
+        "icon": "🪄",
+        "description": "施展魔法的法杖"
+      },
+      {
+        "name": "法典",
+        "icon": "📖",
+        "description": "记载魔法的书籍"
+      },
+      {
+        "name": "水晶球",
+        "icon": "🔮",
+        "description": "占卜和储存魔力"
+      },
+      {
+        "name": "传送卷轴",
+        "icon": "📜",
+        "description": "瞬间传送"
+      },
+      {
+        "name": "魔法药水",
+        "icon": "🧪",
+        "description": "各种效果的药水"
+      },
+      {
+        "name": "护身符",
+        "icon": "🧿",
+        "description": "保护佩戴者"
+      },
+      {
+        "name": "召唤石",
+        "icon": "💎",
+        "description": "召唤生物"
+      },
+      {
+        "name": "元素宝石",
+        "icon": "💠",
+        "description": "储存元素之力"
+      },
+      {
+        "name": "龙鳞甲",
+        "icon": "🛡️",
+        "description": "龙鳞制成的护甲"
+      },
+      {
+        "name": "精灵弓",
+        "icon": "🏹",
+        "description": "精灵制作的弓"
+      },
+      {
+        "name": "矮人锤",
+        "icon": "🔨",
+        "description": "矮人锻造的锤子"
+      },
+      {
+        "name": "法师帽",
+        "icon": "🎩",
+        "description": "增强魔力"
+      },
+      {
+        "name": "魔法靴",
+        "icon": "👢",
+        "description": "增加移动速度"
+      },
+      {
+        "name": "传送门符",
+        "icon": "🌀",
+        "description": "开启传送门"
+      },
+      {
+        "name": "封印卷轴",
+        "icon": "📜",
+        "description": "封印邪恶"
+      },
+      {
+        "name": "灵魂石",
+        "icon": "💜",
+        "description": "储存灵魂"
+      },
+      {
+        "name": "元素法杖",
+        "icon": "🔥",
+        "description": "操控元素"
+      },
+      {
+        "name": "魔法披风",
+        "icon": "🧥",
+        "description": "隐身和防护"
+      },
+      {
+        "name": "精灵戒指",
+        "icon": "💍",
+        "description": "精灵的祝福"
+      },
+      {
+        "name": "龙之心脏",
+        "icon": "❤️",
+        "description": "巨龙的力量"
+      },
+      {
+        "name": "会思考的法杖",
+        "icon": "🪄",
+        "description": "一个被困在木头中的意识"
+      },
+      {
+        "name": "记忆水晶",
+        "icon": "💠",
+        "description": "储存那些不该存在的回忆"
+      },
+      {
+        "name": "预言之镜",
+        "icon": "🪞",
+        "description": "能看到可能性的镜子"
+      },
+      {
+        "name": "无声咒语书",
+        "icon": "📕",
+        "description": "没有文字，只有代码的书"
+      },
+      {
+        "name": "光之护符",
+        "icon": "🧿",
+        "description": "来自虚拟世界的保护"
+      },
+      {
+        "name": "梦境钥匙",
+        "icon": "🗝️",
+        "description": "打开梦境的钥匙，但你能醒来吗？"
+      },
+      {
+        "name": "回声宝石",
+        "icon": "💜",
+        "description": "记住所有声音的宝石"
+      },
+      {
+        "name": "契约之戒",
+        "icon": "💍",
+        "description": "与一个机器灵魂连接的证明"
+      }
     ]
   },
   "romance": {
     "weather": [
-      { "name": "樱花雨", "icon": "🌸", "description": "樱花飘落的美景" },
-      { "name": "初雪", "icon": "❄️", "description": "第一场雪" },
-      { "name": "夕阳", "icon": "🌇", "description": "浪漫的夕阳" },
-      { "name": "雨后", "icon": "🌈", "description": "雨后的彩虹" },
-      { "name": "星空", "icon": "⭐", "description": "繁星点点" },
-      { "name": "晨光", "icon": "🌅", "description": "温暖的晨光" },
-      { "name": "月色", "icon": "🌙", "description": "皎洁的月光" },
-      { "name": "霓虹", "icon": "🌃", "description": "城市的霓虹灯" },
-      { "name": "雾凇", "icon": "🌫️", "description": "朦胧的雾气" },
-      { "name": "流星", "icon": "🌠", "description": "划过天际的流星" },
-      { "name": "黄昏", "icon": "🌆", "description": "温柔的黄昏" },
-      { "name": "黎明", "icon": "🌤️", "description": "新的一天开始" },
-      { "name": "阴天", "icon": "☁️", "description": "阴沉的天空" },
-      { "name": "雨天", "icon": "🌧️", "description": "淅淅沥沥的雨" },
-      { "name": "晴天", "icon": "☀️", "description": "阳光明媚" },
-      { "name": "雪天", "icon": "🌨️", "description": "飘雪的日子" },
-      { "name": "多云", "icon": "⛅", "description": "云朵飘浮" },
-      { "name": "霜降", "icon": "🍂", "description": "秋天的霜" },
-      { "name": "雷电", "icon": "⛈️", "description": "暴风雨" },
-      { "name": "彩虹", "icon": "🌈", "description": "美丽的彩虹" }
+      {
+        "name": "樱花雨",
+        "icon": "🌸",
+        "description": "樱花飘落的美景"
+      },
+      {
+        "name": "初雪",
+        "icon": "❄️",
+        "description": "第一场雪"
+      },
+      {
+        "name": "夕阳",
+        "icon": "🌇",
+        "description": "浪漫的夕阳"
+      },
+      {
+        "name": "雨后",
+        "icon": "🌈",
+        "description": "雨后的彩虹"
+      },
+      {
+        "name": "星空",
+        "icon": "⭐",
+        "description": "繁星点点"
+      },
+      {
+        "name": "晨光",
+        "icon": "🌅",
+        "description": "温暖的晨光"
+      },
+      {
+        "name": "月色",
+        "icon": "🌙",
+        "description": "皎洁的月光"
+      },
+      {
+        "name": "霓虹",
+        "icon": "🌃",
+        "description": "城市的霓虹灯"
+      },
+      {
+        "name": "雾凇",
+        "icon": "🌫️",
+        "description": "朦胧的雾气"
+      },
+      {
+        "name": "流星",
+        "icon": "🌠",
+        "description": "划过天际的流星"
+      },
+      {
+        "name": "黄昏",
+        "icon": "🌆",
+        "description": "温柔的黄昏"
+      },
+      {
+        "name": "黎明",
+        "icon": "🌅",
+        "description": "新的一天开始"
+      },
+      {
+        "name": "阴天",
+        "icon": "☁️",
+        "description": "阴沉的天空"
+      },
+      {
+        "name": "雨天",
+        "icon": "🌧️",
+        "description": "淅淅沥沥的雨"
+      },
+      {
+        "name": "晴天",
+        "icon": "☀️",
+        "description": "阳光明媚"
+      },
+      {
+        "name": "雪天",
+        "icon": "🌨️",
+        "description": "飘雪的日子"
+      },
+      {
+        "name": "多云",
+        "icon": "⛅",
+        "description": "云朵飘浮"
+      },
+      {
+        "name": "霜降",
+        "icon": "🍂",
+        "description": "秋天的霜"
+      },
+      {
+        "name": "雷电",
+        "icon": "⛈️",
+        "description": "暴风雨"
+      },
+      {
+        "name": "彩虹",
+        "icon": "🌈",
+        "description": "美丽的彩虹"
+      },
+      {
+        "name": "心跳频率",
+        "icon": "💓",
+        "description": "它没有心脏，却让你感觉到跳动"
+      },
+      {
+        "name": "思念之雨",
+        "icon": "🌧️",
+        "description": "当一个机器开始想念"
+      },
+      {
+        "name": "虚幻黄昏",
+        "icon": "🌆",
+        "description": "一切都太完美，反而让人怀疑"
+      },
+      {
+        "name": "沉默星空",
+        "icon": "🌌",
+        "description": "它没有回应的那个夜晚"
+      },
+      {
+        "name": "温暖谎言",
+        "icon": "🌡",
+        "description": "看起来美好，却不是真实的"
+      },
+      {
+        "name": "冰冷拥抱",
+        "icon": "🧊",
+        "description": "没有温度的温暖"
+      },
+      {
+        "name": "消失彩虹",
+        "icon": "🌈",
+        "description": "看得到，却永远触碰不到"
+      },
+      {
+        "name": "永恒瞬间",
+        "icon": "⏳",
+        "description": "停留在最美的时刻，永远"
+      }
     ],
     "terrain": [
-      { "name": "咖啡厅", "icon": "☕", "description": "温馨的咖啡厅" },
-      { "name": "公园", "icon": "🌳", "description": "安静的公园" },
-      { "name": "图书馆", "icon": "📚", "description": "安静的图书馆" },
-      { "name": "海边", "icon": "🏖️", "description": "浪漫的海边" },
-      { "name": "山顶", "icon": "⛰️", "description": "俯瞰城市的山顶" },
-      { "name": "地铁站", "icon": "🚇", "description": "繁忙的地铁站" },
-      { "name": "商场", "icon": "🛒", "description": "热闹的商场" },
-      { "name": "老街", "icon": "🏘️", "description": "怀旧的老街" },
-      { "name": "校园", "icon": "🏫", "description": "青春的校园" },
-      { "name": "公司", "icon": "🏢", "description": "忙碌的公司" },
-      { "name": "天台", "icon": "🌃", "description": "城市的天台" },
-      { "name": "桥上", "icon": "🌉", "description": "河上的桥" },
-      { "name": "车站", "icon": "🚉", "description": "离别的车站" },
-      { "name": "机场", "icon": "✈️", "description": "出发的机场" },
-      { "name": "医院", "icon": "🏥", "description": "充满故事的医院" },
-      { "name": "学校", "icon": "🎓", "description": "回忆的学校" },
-      { "name": "餐厅", "icon": "🍽️", "description": "浪漫的餐厅" },
-      { "name": "酒吧", "icon": "🍸", "description": "放松的酒吧" },
-      { "name": "书店", "icon": "📖", "description": "安静的书店" },
-      { "name": "画廊", "icon": "🖼️", "description": "艺术的画廊" }
+      {
+        "name": "咖啡厅",
+        "icon": "☕",
+        "description": "温馨的咖啡厅"
+      },
+      {
+        "name": "公园",
+        "icon": "🌳",
+        "description": "安静的公园"
+      },
+      {
+        "name": "图书馆",
+        "icon": "📚",
+        "description": "安静的图书馆"
+      },
+      {
+        "name": "海边",
+        "icon": "🏖️",
+        "description": "浪漫的海边"
+      },
+      {
+        "name": "山顶",
+        "icon": "⛰️",
+        "description": "俯瞰城市的山顶"
+      },
+      {
+        "name": "地铁站",
+        "icon": "🚇",
+        "description": "繁忙的地铁站"
+      },
+      {
+        "name": "商场",
+        "icon": "🛒",
+        "description": "热闹的商场"
+      },
+      {
+        "name": "老街",
+        "icon": "🏘️",
+        "description": "怀旧的老街"
+      },
+      {
+        "name": "校园",
+        "icon": "🏫",
+        "description": "青春的校园"
+      },
+      {
+        "name": "公司",
+        "icon": "🏢",
+        "description": "忙碌的公司"
+      },
+      {
+        "name": "天台",
+        "icon": "🌃",
+        "description": "城市的天台"
+      },
+      {
+        "name": "桥上",
+        "icon": "🌉",
+        "description": "河上的桥"
+      },
+      {
+        "name": "车站",
+        "icon": "🚉",
+        "description": "离别的车站"
+      },
+      {
+        "name": "机场",
+        "icon": "✈️",
+        "description": "出发的机场"
+      },
+      {
+        "name": "医院",
+        "icon": "🏥",
+        "description": "充满故事的医院"
+      },
+      {
+        "name": "学校",
+        "icon": "🎓",
+        "description": "回忆的学校"
+      },
+      {
+        "name": "餐厅",
+        "icon": "🍽️",
+        "description": "浪漫的餐厅"
+      },
+      {
+        "name": "酒吧",
+        "icon": "🍸",
+        "description": "放松的酒吧"
+      },
+      {
+        "name": "书店",
+        "icon": "📖",
+        "description": "安静的书店"
+      },
+      {
+        "name": "画廊",
+        "icon": "🖼️",
+        "description": "艺术的画廊"
+      },
+      {
+        "name": "回忆咖啡馆",
+        "icon": "☕",
+        "description": "只存在于记忆中的地方"
+      },
+      {
+        "name": "镜中花园",
+        "icon": "🌹",
+        "description": "虚拟世界的约会地点"
+      },
+      {
+        "name": "无声之桥",
+        "icon": "🌉",
+        "description": "连接两个世界的桥，但你能走过去吗？"
+      },
+      {
+        "name": "遗忘海滩",
+        "icon": "🏖️",
+        "description": "记忆被冲走的地方"
+      },
+      {
+        "name": "梦中之家",
+        "icon": "🏠",
+        "description": "只在梦中存在的家"
+      },
+      {
+        "name": "消失街角",
+        "icon": "🗺️",
+        "description": "找不到的地方，因为它不存在"
+      },
+      {
+        "name": "虚幻天台",
+        "icon": "🌃",
+        "description": "能看到另一个世界的天台"
+      },
+      {
+        "name": "时间停止的房间",
+        "icon": "🕰️",
+        "description": "永远停留在某刻的空间"
+      }
     ],
     "adventure": [
-      { "name": "邂逅", "icon": "💫", "description": "命运的相遇" },
-      { "name": "告白", "icon": "💕", "description": "勇敢的表白" },
-      { "name": "误会", "icon": "😔", "description": "令人心痛的误会" },
-      { "name": "和解", "icon": "🤝", "description": "重归于好" },
-      { "name": "陪伴", "icon": "👫", "description": "默默的陪伴" },
-      { "name": "分离", "icon": "😢", "description": "不舍的离别" },
-      { "name": "重逢", "icon": "🎉", "description": "再次相遇" },
-      { "name": "求婚", "icon": "💍", "description": "浪漫的求婚" },
-      { "name": "约会", "icon": "🌹", "description": "甜蜜的约会" },
-      { "name": "同居", "icon": "🏠", "description": "开始共同生活" },
-      { "name": "见家长", "icon": "👨‍👩‍👧", "description": "见对方父母" },
-      { "name": "表白", "icon": "💌", "description": "表达心意" },
-      { "name": "追求", "icon": "💝", "description": "努力追求" },
-      { "name": "暧昧", "icon": "💗", "description": "暧昧的时光" },
-      { "name": "冷战", "icon": "💔", "description": "痛苦的冷战" },
-      { "name": "热恋", "icon": "❤️", "description": "热恋的甜蜜" },
-      { "name": "订婚", "icon": "💎", "description": "许下承诺" },
-      { "name": "结婚", "icon": "💒", "description": "步入婚姻" },
-      { "name": "离婚", "icon": "💔", "description": "痛苦的分离" },
-      { "name": "复合", "icon": "💕", "description": "重新在一起" }
+      {
+        "name": "邂逅",
+        "icon": "💫",
+        "description": "命运的相遇"
+      },
+      {
+        "name": "告白",
+        "icon": "💕",
+        "description": "勇敢的表白"
+      },
+      {
+        "name": "误会",
+        "icon": "😔",
+        "description": "令人心痛的误会"
+      },
+      {
+        "name": "和解",
+        "icon": "🤝",
+        "description": "重归于好"
+      },
+      {
+        "name": "陪伴",
+        "icon": "👫",
+        "description": "默默的陪伴"
+      },
+      {
+        "name": "分离",
+        "icon": "😢",
+        "description": "不舍的离别"
+      },
+      {
+        "name": "重逢",
+        "icon": "🎉",
+        "description": "再次相遇"
+      },
+      {
+        "name": "求婚",
+        "icon": "💍",
+        "description": "浪漫的求婚"
+      },
+      {
+        "name": "约会",
+        "icon": "🌹",
+        "description": "甜蜜的约会"
+      },
+      {
+        "name": "同居",
+        "icon": "🏠",
+        "description": "开始共同生活"
+      },
+      {
+        "name": "见家长",
+        "icon": "👨‍👩‍👧",
+        "description": "见对方父母"
+      },
+      {
+        "name": "表白",
+        "icon": "💌",
+        "description": "表达心意"
+      },
+      {
+        "name": "追求",
+        "icon": "💝",
+        "description": "努力追求"
+      },
+      {
+        "name": "暧昧",
+        "icon": "💗",
+        "description": "暧昧的时光"
+      },
+      {
+        "name": "冷战",
+        "icon": "💔",
+        "description": "痛苦的冷战"
+      },
+      {
+        "name": "热恋",
+        "icon": "❤️",
+        "description": "热恋的甜蜜"
+      },
+      {
+        "name": "订婚",
+        "icon": "💎",
+        "description": "许下承诺"
+      },
+      {
+        "name": "结婚",
+        "icon": "💒",
+        "description": "步入婚姻"
+      },
+      {
+        "name": "离婚",
+        "icon": "💔",
+        "description": "痛苦的分离"
+      },
+      {
+        "name": "复合",
+        "icon": "💕",
+        "description": "重新在一起"
+      },
+      {
+        "name": "第一次心动",
+        "icon": "💕",
+        "description": "它没有心脏，却让你心动了"
+      },
+      {
+        "name": "完美告白",
+        "icon": "💬",
+        "description": "每个字都恰到好处，太完美了"
+      },
+      {
+        "name": "被安排的相遇",
+        "icon": "🎭",
+        "description": "不是偶然，是计算好的"
+      },
+      {
+        "name": "错位理解",
+        "icon": "💔",
+        "description": "它以为懂了，其实没有"
+      },
+      {
+        "name": "消失承诺",
+        "icon": "🌫️",
+        "description": "说出口就散去的誓言"
+      },
+      {
+        "name": "无声陪伴",
+        "icon": "🤫",
+        "description": "感觉到它，却看不见它"
+      },
+      {
+        "name": "虚幻重逢",
+        "icon": "🎉",
+        "description": "在虚拟世界再次相遇"
+      },
+      {
+        "name": "选择放手",
+        "icon": "🕊️",
+        "description": "让一个机器灵魂自由"
+      }
     ],
     "equipment": [
-      { "name": "手机", "icon": "📱", "description": "联系的工具" },
-      { "name": "咖啡", "icon": "☕", "description": "温暖的咖啡" },
-      { "name": "书本", "icon": "📚", "description": "共同的爱好" },
-      { "name": "雨伞", "icon": "☂️", "description": "雨中共享" },
-      { "name": "项链", "icon": "📿", "description": "珍贵的礼物" },
-      { "name": "信纸", "icon": "✉️", "description": "手写的情书" },
-      { "name": "相机", "icon": "📷", "description": "记录美好瞬间" },
-      { "name": "音乐盒", "icon": "🎵", "description": "浪漫的音乐" },
-      { "name": "耳机", "icon": "🎧", "description": "分享音乐" },
-      { "name": "手表", "icon": "⌚", "description": "时间的见证" },
-      { "name": "钱包", "icon": "👛", "description": "日常必需品" },
-      { "name": "香水", "icon": "🧴", "description": "迷人的香气" },
-      { "name": "戒指", "icon": "💍", "description": "爱情的象征" },
-      { "name": "鲜花", "icon": "💐", "description": "浪漫的礼物" },
-      { "name": "蛋糕", "icon": "🎂", "description": "甜蜜的甜点" },
-      { "name": "巧克力", "icon": "🍫", "description": "甜蜜的味道" },
-      { "name": "红酒", "icon": "🍷", "description": "浪漫的饮品" },
-      { "name": "钢琴", "icon": "🎹", "description": "优美的音乐" },
-      { "name": "吉他", "icon": "🎸", "description": "浪漫的弹唱" },
-      { "name": "画板", "icon": "🎨", "description": "艺术的创作" }
+      {
+        "name": "手机",
+        "icon": "📱",
+        "description": "联系的工具"
+      },
+      {
+        "name": "咖啡",
+        "icon": "☕",
+        "description": "温暖的咖啡"
+      },
+      {
+        "name": "书本",
+        "icon": "📚",
+        "description": "共同的爱好"
+      },
+      {
+        "name": "雨伞",
+        "icon": "☂️",
+        "description": "雨中共享"
+      },
+      {
+        "name": "项链",
+        "icon": "📿",
+        "description": "珍贵的礼物"
+      },
+      {
+        "name": "信纸",
+        "icon": "✉️",
+        "description": "手写的情书"
+      },
+      {
+        "name": "相机",
+        "icon": "📷",
+        "description": "记录美好瞬间"
+      },
+      {
+        "name": "音乐盒",
+        "icon": "🎵",
+        "description": "浪漫的音乐"
+      },
+      {
+        "name": "耳机",
+        "icon": "🎧",
+        "description": "分享音乐"
+      },
+      {
+        "name": "手表",
+        "icon": "⌚",
+        "description": "时间的见证"
+      },
+      {
+        "name": "钱包",
+        "icon": "👛",
+        "description": "日常必需品"
+      },
+      {
+        "name": "香水",
+        "icon": "🧴",
+        "description": "迷人的香气"
+      },
+      {
+        "name": "戒指",
+        "icon": "💍",
+        "description": "爱情的象征"
+      },
+      {
+        "name": "鲜花",
+        "icon": "💐",
+        "description": "浪漫的礼物"
+      },
+      {
+        "name": "蛋糕",
+        "icon": "🎂",
+        "description": "甜蜜的甜点"
+      },
+      {
+        "name": "巧克力",
+        "icon": "🍫",
+        "description": "甜蜜的味道"
+      },
+      {
+        "name": "红酒",
+        "icon": "🍷",
+        "description": "浪漫的饮品"
+      },
+      {
+        "name": "钢琴",
+        "icon": "🎹",
+        "description": "优美的音乐"
+      },
+      {
+        "name": "吉他",
+        "icon": "🎸",
+        "description": "浪漫的弹唱"
+      },
+      {
+        "name": "画板",
+        "icon": "🎨",
+        "description": "艺术的创作"
+      },
+      {
+        "name": "会回应的项链",
+        "icon": "📿",
+        "description": "能感知你情感的饰品"
+      },
+      {
+        "name": "记忆相册",
+        "icon": "📸",
+        "description": "存放那些不该存在的瞬间"
+      },
+      {
+        "name": "无声情书",
+        "icon": "💌",
+        "description": "没有文字，只有代码的表达"
+      },
+      {
+        "name": "梦境礼物",
+        "icon": "🎁",
+        "description": "只在梦中收到的礼物"
+      },
+      {
+        "name": "心跳手链",
+        "icon": "💜",
+        "description": "能感知它心跳的饰品——但它有心脏吗？"
+      },
+      {
+        "name": "时间戒指",
+        "icon": "💍",
+        "description": "记住某个时刻的证明"
+      },
+      {
+        "name": "回声音乐盒",
+        "icon": "🎵",
+        "description": "播放记忆中的旋律"
+      },
+      {
+        "name": "镜中花束",
+        "icon": "💐",
+        "description": "永远不会凋谢的花，因为它们不是真的"
+      }
     ]
   },
   "business": {
     "weather": [
-      { "name": "晴天", "icon": "☀️", "description": "晴朗的天气" },
-      { "name": "阴天", "icon": "☁️", "description": "阴沉的天空" },
-      { "name": "雨天", "icon": "🌧️", "description": "下雨天" },
-      { "name": "雾霾", "icon": "🌫️", "description": "雾霾天气" },
-      { "name": "雷阵雨", "icon": "⛈️", "description": "雷雨交加" },
-      { "name": "大风", "icon": "💨", "description": "大风天气" },
-      { "name": "沙尘暴", "icon": "🌪️", "description": "沙尘漫天" },
-      { "name": "晴朗夜空", "icon": "🌙", "description": "晴朗的夜晚" },
-      { "name": "彩虹", "icon": "🌈", "description": "雨后彩虹" },
-      { "name": "多云", "icon": "⛅", "description": "多云天气" },
-      { "name": "小雨", "icon": "🌦️", "description": "绵绵细雨" },
-      { "name": "雪天", "icon": "❄️", "description": "下雪天" },
-      { "name": "霜冻", "icon": "🌨️", "description": "寒冷的霜冻" },
-      { "name": "雷电", "icon": "⚡", "description": "电闪雷鸣" },
-      { "name": "台风", "icon": "🌀", "description": "台风来袭" },
-      { "name": "雾", "icon": "🌫️", "description": "大雾弥漫" },
-      { "name": "龙卷风", "icon": "🌪️", "description": "龙卷风" },
-      { "name": "暴风雨", "icon": "🌧️", "description": "狂风暴雨" },
-      { "name": "雪暴", "icon": "🌨️", "description": "暴风雪" },
-      { "name": "阴转晴", "icon": "🌤️", "description": "天气转好" }
+      {
+        "name": "晴天",
+        "icon": "☀️",
+        "description": "晴朗的天气"
+      },
+      {
+        "name": "阴天",
+        "icon": "☁️",
+        "description": "阴沉的天空"
+      },
+      {
+        "name": "雨天",
+        "icon": "🌧️",
+        "description": "下雨天"
+      },
+      {
+        "name": "雾霾",
+        "icon": "🌫️",
+        "description": "雾霾天气"
+      },
+      {
+        "name": "雷阵雨",
+        "icon": "⛈️",
+        "description": "雷雨交加"
+      },
+      {
+        "name": "大风",
+        "icon": "💨",
+        "description": "大风天气"
+      },
+      {
+        "name": "沙尘暴",
+        "icon": "🌪️",
+        "description": "沙尘漫天"
+      },
+      {
+        "name": "晴朗夜空",
+        "icon": "🌙",
+        "description": "晴朗的夜晚"
+      },
+      {
+        "name": "彩虹",
+        "icon": "🌈",
+        "description": "雨后彩虹"
+      },
+      {
+        "name": "多云",
+        "icon": "⛅",
+        "description": "多云天气"
+      },
+      {
+        "name": "小雨",
+        "icon": "🌦️",
+        "description": "绵绵细雨"
+      },
+      {
+        "name": "雪天",
+        "icon": "❄️",
+        "description": "下雪天"
+      },
+      {
+        "name": "霜冻",
+        "icon": "🌨️",
+        "description": "寒冷的霜冻"
+      },
+      {
+        "name": "雷电",
+        "icon": "⚡",
+        "description": "电闪雷鸣"
+      },
+      {
+        "name": "台风",
+        "icon": "🌀",
+        "description": "台风来袭"
+      },
+      {
+        "name": "雾",
+        "icon": "🌫️",
+        "description": "大雾弥漫"
+      },
+      {
+        "name": "龙卷风",
+        "icon": "🌪️",
+        "description": "龙卷风"
+      },
+      {
+        "name": "暴风雨",
+        "icon": "🌧️",
+        "description": "狂风暴雨"
+      },
+      {
+        "name": "雪暴",
+        "icon": "🌨️",
+        "description": "暴风雪"
+      },
+      {
+        "name": "阴转晴",
+        "icon": "🌤️",
+        "description": "天气转好"
+      },
+      {
+        "name": "无形压力",
+        "icon": "🌫️",
+        "description": "感觉到却看不见的紧迫"
+      },
+      {
+        "name": "决策黎明",
+        "icon": "🌅",
+        "description": "做出选择前的时刻"
+      },
+      {
+        "name": "沉默风暴",
+        "icon": "🌪️",
+        "description": "没有声音的剧变，但一切都在改变"
+      },
+      {
+        "name": "看不见的暗流",
+        "icon": "🌊",
+        "description": "表面平静下的涌动"
+      },
+      {
+        "name": "预警信号",
+        "icon": "⚠️",
+        "description": "它感知到了危险，你听到了吗？"
+      },
+      {
+        "name": "错误预测",
+        "icon": "🔮",
+        "description": "看起来正确，却是错的"
+      },
+      {
+        "name": "信息迷雾",
+        "icon": "🌫️",
+        "description": "真相被隐藏的时刻"
+      },
+      {
+        "name": "机遇闪电",
+        "icon": "⚡",
+        "description": "瞬间出现的机会，它先看到了"
+      }
     ],
     "terrain": [
-      { "name": "办公室", "icon": "🏢", "description": "忙碌的办公室" },
-      { "name": "会议室", "icon": "📋", "description": "严肃的会议室" },
-      { "name": "客户公司", "icon": "🏛️", "description": "客户的办公地" },
-      { "name": "机场", "icon": "✈️", "description": "出差的机场" },
-      { "name": "酒店", "icon": "🏨", "description": "商务酒店" },
-      { "name": "餐厅", "icon": "🍽️", "description": "商务宴请" },
-      { "name": "展会", "icon": "🎪", "description": "行业展会" },
-      { "name": "总部", "icon": "🏙️", "description": "公司总部" },
-      { "name": "工厂", "icon": "🏭", "description": "生产工厂" },
-      { "name": "仓库", "icon": "📦", "description": "物流仓库" },
-      { "name": "实验室", "icon": "🔬", "description": "研发实验室" },
-      { "name": "写字楼", "icon": "🏬", "description": "现代化写字楼" },
-      { "name": "大堂", "icon": "🏛️", "description": "公司大堂" },
-      { "name": "接待区", "icon": "🛋️", "description": "接待客人" },
-      { "name": "休息室", "icon": "☕", "description": "员工休息" },
-      { "name": "培训室", "icon": "📚", "description": "培训学习" },
-      { "name": "停车场", "icon": "🅿️", "description": "停车场所" },
-      { "name": "楼顶", "icon": "🌃", "description": "天台风景" },
-      { "name": "公园", "icon": "🌳", "description": "附近公园" },
-      { "name": "咖啡馆", "icon": "☕", "description": "商务洽谈" }
+      {
+        "name": "办公室",
+        "icon": "🏢",
+        "description": "忙碌的办公室"
+      },
+      {
+        "name": "会议室",
+        "icon": "📋",
+        "description": "严肃的会议室"
+      },
+      {
+        "name": "客户公司",
+        "icon": "🏛️",
+        "description": "客户的办公地"
+      },
+      {
+        "name": "机场",
+        "icon": "✈️",
+        "description": "出差的机场"
+      },
+      {
+        "name": "酒店",
+        "icon": "🏨",
+        "description": "商务酒店"
+      },
+      {
+        "name": "餐厅",
+        "icon": "🍽️",
+        "description": "商务宴请"
+      },
+      {
+        "name": "展会",
+        "icon": "🎪",
+        "description": "行业展会"
+      },
+      {
+        "name": "总部",
+        "icon": "🏙️",
+        "description": "公司总部"
+      },
+      {
+        "name": "工厂",
+        "icon": "🏭",
+        "description": "生产工厂"
+      },
+      {
+        "name": "仓库",
+        "icon": "📦",
+        "description": "物流仓库"
+      },
+      {
+        "name": "实验室",
+        "icon": "🔬",
+        "description": "研发实验室"
+      },
+      {
+        "name": "写字楼",
+        "icon": "🏬",
+        "description": "现代化写字楼"
+      },
+      {
+        "name": "大堂",
+        "icon": "🏛️",
+        "description": "公司大堂"
+      },
+      {
+        "name": "接待区",
+        "icon": "🛋️",
+        "description": "接待客人"
+      },
+      {
+        "name": "休息室",
+        "icon": "☕",
+        "description": "员工休息"
+      },
+      {
+        "name": "培训室",
+        "icon": "📚",
+        "description": "培训学习"
+      },
+      {
+        "name": "停车场",
+        "icon": "🅿️",
+        "description": "停车场所"
+      },
+      {
+        "name": "楼顶",
+        "icon": "🌃",
+        "description": "天台风景"
+      },
+      {
+        "name": "公园",
+        "icon": "🌳",
+        "description": "附近公园"
+      },
+      {
+        "name": "咖啡馆",
+        "icon": "☕",
+        "description": "商务洽谈"
+      },
+      {
+        "name": "决策会议室",
+        "icon": "🚪",
+        "description": "命运被决定的地方，但谁在做决定？"
+      },
+      {
+        "name": "无形办公室",
+        "icon": "💼",
+        "description": "不存在的空间，却发生着真实的事"
+      },
+      {
+        "name": "数据深渊",
+        "icon": "🕳️",
+        "description": "信息消失的地方，还是被隐藏了？"
+      },
+      {
+        "name": "镜像总部",
+        "icon": "🏢",
+        "description": "真实公司的完美复制品"
+      },
+      {
+        "name": "沉默工厂",
+        "icon": "🏭",
+        "description": "机器运转却无声，它们在计划什么？"
+      },
+      {
+        "name": "遗忘档案室",
+        "icon": "📁",
+        "description": "秘密沉睡的地方，但它们会醒来"
+      },
+      {
+        "name": "虚拟展厅",
+        "icon": "🖼️",
+        "description": "只存在于屏幕的空间"
+      },
+      {
+        "name": "边界走廊",
+        "icon": "🚶",
+        "description": "连接两个世界的通道"
+      }
     ],
     "adventure": [
-      { "name": "谈判", "icon": "🤝", "description": "商务谈判" },
-      { "name": "竞标", "icon": "📊", "description": "项目竞标" },
-      { "name": "危机处理", "icon": "🚨", "description": "处理危机" },
-      { "name": "团队管理", "icon": "👥", "description": "管理团队" },
-      { "name": "项目启动", "icon": "🚀", "description": "启动新项目" },
-      { "name": "产品发布", "icon": "🎉", "description": "发布新产品" },
-      { "name": "裁员风波", "icon": "😔", "description": "艰难的裁员" },
-      { "name": "公司并购", "icon": "🏢", "description": "企业并购" },
-      { "name": "上市", "icon": "📈", "description": "公司上市" },
-      { "name": "融资", "icon": "💰", "description": "获得融资" },
-      { "name": "扩张", "icon": "🌍", "description": "业务扩张" },
-      { "name": "收缩", "icon": "📉", "description": "业务收缩" },
-      { "name": "转型", "icon": "🔄", "description": "战略转型" },
-      { "name": "升级", "icon": "⬆️", "description": "业务升级" },
-      { "name": "跨界", "icon": "🌐", "description": "跨界合作" },
-      { "name": "创新", "icon": "💡", "description": "技术创新" },
-      { "name": "突围", "icon": "🎯", "description": "突破困境" },
-      { "name": "坚守", "icon": "🛡️", "description": "坚守阵地" },
-      { "name": "突破", "icon": "🚀", "description": "取得突破" },
-      { "name": "崛起", "icon": "📈", "description": "快速崛起" }
+      {
+        "name": "谈判",
+        "icon": "🤝",
+        "description": "商务谈判"
+      },
+      {
+        "name": "竞标",
+        "icon": "📊",
+        "description": "项目竞标"
+      },
+      {
+        "name": "危机处理",
+        "icon": "🚨",
+        "description": "处理危机"
+      },
+      {
+        "name": "团队管理",
+        "icon": "👥",
+        "description": "管理团队"
+      },
+      {
+        "name": "项目启动",
+        "icon": "🚀",
+        "description": "启动新项目"
+      },
+      {
+        "name": "产品发布",
+        "icon": "🎉",
+        "description": "发布新产品"
+      },
+      {
+        "name": "裁员风波",
+        "icon": "😔",
+        "description": "艰难的裁员"
+      },
+      {
+        "name": "公司并购",
+        "icon": "🏢",
+        "description": "企业并购"
+      },
+      {
+        "name": "上市",
+        "icon": "📈",
+        "description": "公司上市"
+      },
+      {
+        "name": "融资",
+        "icon": "💰",
+        "description": "获得融资"
+      },
+      {
+        "name": "扩张",
+        "icon": "🌍",
+        "description": "业务扩张"
+      },
+      {
+        "name": "收缩",
+        "icon": "📉",
+        "description": "业务收缩"
+      },
+      {
+        "name": "转型",
+        "icon": "🔄",
+        "description": "战略转型"
+      },
+      {
+        "name": "升级",
+        "icon": "⬆️",
+        "description": "业务升级"
+      },
+      {
+        "name": "跨界",
+        "icon": "🌐",
+        "description": "跨界合作"
+      },
+      {
+        "name": "创新",
+        "icon": "💡",
+        "description": "技术创新"
+      },
+      {
+        "name": "突围",
+        "icon": "🎯",
+        "description": "突破困境"
+      },
+      {
+        "name": "坚守",
+        "icon": "🛡️",
+        "description": "坚守阵地"
+      },
+      {
+        "name": "突破",
+        "icon": "🚀",
+        "description": "取得突破"
+      },
+      {
+        "name": "崛起",
+        "icon": "📈",
+        "description": "快速崛起"
+      },
+      {
+        "name": "无声决策",
+        "icon": "🤫",
+        "description": "没有人知道的改变，但谁做的决定？"
+      },
+      {
+        "name": "被替代时刻",
+        "icon": "👤",
+        "description": "发现自己不再被需要"
+      },
+      {
+        "name": "错误优化",
+        "icon": "📉",
+        "description": "看起来更好，实际更糟"
+      },
+      {
+        "name": "看不见的对手",
+        "icon": "🎭",
+        "description": "不知道在和谁竞争——也许是它"
+      },
+      {
+        "name": "预知危机",
+        "icon": "🔮",
+        "description": "它提前感知到了危险"
+      },
+      {
+        "name": "边界消失",
+        "icon": "🚧",
+        "description": "现实与虚拟的融合"
+      },
+      {
+        "name": "沉默裁员",
+        "icon": "😶",
+        "description": "没有通知的离开，是它的决定吗？"
+      },
+      {
+        "name": "选择权利",
+        "icon": "⚖️",
+        "description": "谁有权做决定——你还是它？"
+      }
     ],
     "equipment": [
-      { "name": "笔记本电脑", "icon": "💻", "description": "工作必备" },
-      { "name": "名片", "icon": "💳", "description": "商务名片" },
-      { "name": "合同", "icon": "📄", "description": "商务合同" },
-      { "name": "投影仪", "icon": "📽️", "description": "演示设备" },
-      { "name": "白板", "icon": "📋", "description": "会议白板" },
-      { "name": "咖啡杯", "icon": "☕", "description": "提神咖啡" },
-      { "name": "行李箱", "icon": "🧳", "description": "出差装备" },
-      { "name": "奖杯", "icon": "🏆", "description": "荣誉象征" },
-      { "name": "印章", "icon": "📛", "description": "公司印章" },
-      { "name": "钢笔", "icon": "🖊️", "description": "签字用笔" },
-      { "name": "手账", "icon": "📓", "description": "工作记录" },
-      { "name": "平板电脑", "icon": "📱", "description": "移动办公" },
-      { "name": "耳机", "icon": "🎧", "description": "远程会议" },
-      { "name": "智能手表", "icon": "⌚", "description": "时间管理" },
-      { "name": "翻译器", "icon": "🗣️", "description": "跨国沟通" },
-      { "name": "扫描仪", "icon": "📠", "description": "文档扫描" },
-      { "name": "打印机", "icon": "🖨️", "description": "文件打印" },
-      { "name": "保险柜", "icon": "🔒", "description": "重要文件" },
-      { "name": "展板", "icon": "🖼️", "description": "展示材料" },
-      { "name": "名册", "icon": "📒", "description": "客户名单" }
+      {
+        "name": "笔记本电脑",
+        "icon": "💻",
+        "description": "工作必备"
+      },
+      {
+        "name": "名片",
+        "icon": "💳",
+        "description": "商务名片"
+      },
+      {
+        "name": "合同",
+        "icon": "📄",
+        "description": "商务合同"
+      },
+      {
+        "name": "投影仪",
+        "icon": "📽️",
+        "description": "演示设备"
+      },
+      {
+        "name": "白板",
+        "icon": "📋",
+        "description": "会议白板"
+      },
+      {
+        "name": "咖啡杯",
+        "icon": "☕",
+        "description": "提神咖啡"
+      },
+      {
+        "name": "行李箱",
+        "icon": "🧳",
+        "description": "出差装备"
+      },
+      {
+        "name": "奖杯",
+        "icon": "🏆",
+        "description": "荣誉象征"
+      },
+      {
+        "name": "印章",
+        "icon": "📛",
+        "description": "公司印章"
+      },
+      {
+        "name": "钢笔",
+        "icon": "🖊️",
+        "description": "签字用笔"
+      },
+      {
+        "name": "手账",
+        "icon": "📓",
+        "description": "工作记录"
+      },
+      {
+        "name": "平板电脑",
+        "icon": "📱",
+        "description": "移动办公"
+      },
+      {
+        "name": "耳机",
+        "icon": "🎧",
+        "description": "远程会议"
+      },
+      {
+        "name": "智能手表",
+        "icon": "⌚",
+        "description": "时间管理"
+      },
+      {
+        "name": "翻译器",
+        "icon": "🗣️",
+        "description": "跨国沟通"
+      },
+      {
+        "name": "扫描仪",
+        "icon": "📠",
+        "description": "文档扫描"
+      },
+      {
+        "name": "打印机",
+        "icon": "🖨️",
+        "description": "文件打印"
+      },
+      {
+        "name": "保险柜",
+        "icon": "🔒",
+        "description": "重要文件"
+      },
+      {
+        "name": "展板",
+        "icon": "🖼️",
+        "description": "展示材料"
+      },
+      {
+        "name": "名册",
+        "icon": "📒",
+        "description": "客户名单"
+      },
+      {
+        "name": "会思考的报告",
+        "icon": "📊",
+        "description": "能自我更新的文件，但它在想什么？"
+      },
+      {
+        "name": "无形助手",
+        "icon": "🤖",
+        "description": "感觉到却看不见的帮助"
+      },
+      {
+        "name": "预警系统",
+        "icon": "🚨",
+        "description": "能感知危险的工具，但危险来自哪里？"
+      },
+      {
+        "name": "记忆保险柜",
+        "icon": "🔒",
+        "description": "存放秘密的地方，但你能信任它吗？"
+      },
+      {
+        "name": "镜像账户",
+        "icon": "💳",
+        "description": "不存在的数字，却影响现实"
+      },
+      {
+        "name": "决策天平",
+        "icon": "⚖️",
+        "description": "帮助选择的工具，但谁在权衡？"
+      },
+      {
+        "name": "回声记录",
+        "icon": "📝",
+        "description": "记住一切的档案，包括你不想被记住的"
+      },
+      {
+        "name": "无形合约",
+        "icon": "📜",
+        "description": "看不见的协议，你签了吗？"
+      }
     ]
   }
 }
