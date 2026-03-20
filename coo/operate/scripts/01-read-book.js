@@ -16,7 +16,25 @@ function loadConfig() {
 function extractTitleFromChapter(content) {
   const firstLine = content.split('\n')[0];
   const match = firstLine.match(/^#\s+(.+)$/);
-  return match ? match[1].trim() : 'Untitled Chapter';
+  if (!match) return 'Untitled Chapter';
+  
+  // 移除 "Chapter XX:" 前缀，只保留真正的标题
+  let title = match[1].trim();
+  title = title.replace(/^Chapter\s+\d+:\s*/i, '').trim();
+  
+  return title;
+}
+
+function extractChapterContent(content) {
+  // 移除 markdown 标题行 (# Chapter XX: ...)
+  const lines = content.split('\n');
+  const contentLines = lines.filter((line, index) => {
+    if (index === 0 && line.startsWith('#')) {
+      return false;
+    }
+    return true;
+  });
+  return contentLines.join('\n').trim();
 }
 
 function extractKeywordsFromSEO(seoContent) {
@@ -183,29 +201,84 @@ function extractBookSpecInfo(bookSpecContent) {
 function extractCharactersFromBookSpec(bookSpecContent) {
   const characters = [];
   
-  const charSection = bookSpecContent.match(/###\s+(.+?)（(.+?)）[\s\S]*?(?=###|$)/g);
-  if (charSection) {
-    for (const section of charSection) {
-      const nameMatch = section.match(/###\s+(.+?)（(.+?)）/);
-      if (nameMatch) {
-        const name = nameMatch[1].trim();
-        const roleType = nameMatch[2].trim();
+  // 匹配角色定义：### Buddy（主角 - 金毛犬）或### The Voice（AI）
+  const charRegex = /###\s+([A-Za-z][A-Za-z\s\-\']*)\s*[\(（]([^)）]+)[\)）]/g;
+  let match;
+  
+  while ((match = charRegex.exec(bookSpecContent)) !== null) {
+    const name = match[1].trim();
+    const roleTypeZh = match[2].trim();
+    
+    // 只提取真正的角色（Buddy, The Voice, Sarah），跳过其他章节
+    if (['Buddy', 'The Voice', 'Sarah'].includes(name)) {
+      // 将中文角色类型转换为英文
+      const roleTypeEn = convertRoleTypeToEnglish(roleTypeZh);
+      
+      let personality = '';
+      let speechStyle = '';
+      
+      // 找到这个角色的完整章节内容
+      const charSectionRegex = new RegExp(`###\\s+${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*[\\(（][^)）]+[\\)）][\\s\\S]*?(?=###|$)`, 'i');
+      const charSectionMatch = bookSpecContent.match(charSectionRegex);
+      
+      if (charSectionMatch) {
+        const section = charSectionMatch[0];
         
-        let personality = '';
-        let speechStyle = '';
+        // 尝试匹配英文或中文的性格特征
+        const personalityMatch = section.match(/\*\*性格特征\*\*[：:]?\s*([\s\S]*?)(?=\*\*|$)|\*\*Personality\*\*[：:]?\s*([\s\S]*?)(?=\*\*|$)/i);
+        if (personalityMatch) {
+          personality = (personalityMatch[1] || personalityMatch[2] || '').trim().replace(/\n/g, ' ');
+        }
         
-        const personalityMatch = section.match(/\*\*性格特征\*\*[：:]?\s*([\s\S]*?)(?=\*\*|$)/);
-        if (personalityMatch) personality = personalityMatch[1].trim().replace(/\n/g, ' ');
-        
-        const speechMatch = section.match(/\*\*说话特点\*\*[：:]?\s*([\s\S]*?)(?=\*\*|$)/);
-        if (speechMatch) speechStyle = speechMatch[1].trim().replace(/\n/g, ' ');
-        
-        characters.push({ name, roleType, personality, speechStyle });
+        // 尝试匹配英文或中文的说话特点
+        const speechMatch = section.match(/\*\*说话特点\*\*[：:]?\s*([\s\S]*?)(?=\*\*|$)|\*\*Speech Style\*\*[：:]?\s*([\s\S]*?)(?=\*\*|$)/i);
+        if (speechMatch) {
+          speechStyle = (speechMatch[1] || speechMatch[2] || '').trim().replace(/\n/g, ' ');
+        }
       }
+      
+      characters.push({ name, roleType: roleTypeEn, personality, speechStyle });
     }
   }
   
   return characters;
+}
+
+function convertRoleTypeToEnglish(roleTypeZh) {
+  // 中文到英文的角色类型映射
+  const roleTypeMap = {
+    '主角': 'Protagonist',
+    '金毛犬': 'Golden Retriever',
+    '人类': 'Human',
+    '主人': 'Owner',
+    'AI': 'AI',
+    '科学家': 'Scientist',
+    '医生': 'Doctor',
+    '老师': 'Teacher',
+    '学生': 'Student'
+  };
+  
+  // 如果包含连字符，分别翻译
+  if (roleTypeZh.includes('-')) {
+    const parts = roleTypeZh.split('-').map(part => part.trim());
+    return parts.map(part => {
+      for (const [zh, en] of Object.entries(roleTypeMap)) {
+        if (part.includes(zh)) {
+          return en;
+        }
+      }
+      return part;
+    }).join(' - ');
+  }
+  
+  // 直接匹配
+  for (const [zh, en] of Object.entries(roleTypeMap)) {
+    if (roleTypeZh.includes(zh)) {
+      return en;
+    }
+  }
+  
+  return roleTypeZh;
 }
 
 function readBook(bookDir) {
@@ -250,12 +323,13 @@ function readBook(bookDir) {
       const chapterPath = path.join(chaptersDir, file);
       const content = fs.readFileSync(chapterPath, 'utf-8');
       const title = extractTitleFromChapter(content);
+      const chapterContent = extractChapterContent(content);
       
       bookData.chapters.push({
         chapterId: `chapter-coo-${bookDir}-${String(chapterNum).padStart(2, '0')}`,
         orderNum: chapterNum,
         title,
-        content
+        content: chapterContent
       });
       
       if (!bookData.title && chapterNum === 1) {

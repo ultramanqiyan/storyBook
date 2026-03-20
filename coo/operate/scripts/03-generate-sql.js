@@ -49,6 +49,53 @@ function getRoleIcon(roleType, config) {
   if (config.roleTypeIcons[roleType]) return config.roleTypeIcons[roleType];
   
   const lowerRole = roleType.toLowerCase();
+  
+  // 优先匹配英文关键词
+  const roleKeywords = {
+    'protagonist': '🧑',
+    'main character': '🧑',
+    'ai': '🤖',
+    'robot': '🤖',
+    'dog': '🐕',
+    'pet': '🐕',
+    'animal': '🐕',
+    'human': '🧑',
+    'owner': '🧑',
+    'master': '🧑',
+    'scientist': '🔬',
+    'researcher': '🧑‍💼',
+    'doctor': '👨‍⚕️',
+    'detective': '🕵️',
+    'teacher': '👨‍🏫',
+    'student': '🎓'
+  };
+  
+  // 检查是否包含英文关键词
+  for (const [keyword, icon] of Object.entries(roleKeywords)) {
+    if (lowerRole.includes(keyword)) {
+      return icon;
+    }
+  }
+  
+  // 尝试匹配中文关键词
+  const zhKeywords = {
+    '主角': '🧑',
+    '人类': '🧑',
+    '狗': '🐕',
+    '宠物': '🐕',
+    '动物': '🐕',
+    'ai': '🤖',
+    '机器人': '🤖',
+    '科学家': '🔬'
+  };
+  
+  for (const [keyword, icon] of Object.entries(zhKeywords)) {
+    if (roleType.includes(keyword)) {
+      return icon;
+    }
+  }
+  
+  // 最后尝试 config 中的模糊匹配
   for (const [key, icon] of Object.entries(config.roleTypeIcons)) {
     if (key.toLowerCase().includes(lowerRole) || lowerRole.includes(key.toLowerCase())) {
       return icon;

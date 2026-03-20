@@ -72,10 +72,11 @@ function selectPlotCards(bookData, bookType, config) {
   const allContent = bookData.chapters.map(ch => ch.content).join(' ').toLowerCase();
   const keywords = bookData.keywords.map(k => k.toLowerCase());
   
-  const plotOptionsPath = path.join(__dirname, '..', '..', '..', 'config', 'plot-options.json');
+  // 使用英文版的情节卡牌配置
+  const plotOptionsPath = path.join(__dirname, '..', '..', '..', 'config', 'en', 'plot-options.json');
   
   if (!fs.existsSync(plotOptionsPath)) {
-    console.warn('⚠️ plot-options.json not found, using default cards');
+    console.warn('⚠️ en/plot-options.json not found, using default cards');
     return generateDefaultPlotCards(bookData);
   }
   
@@ -113,7 +114,8 @@ function selectPlotCards(bookData, bookType, config) {
     
     scoredCards.sort((a, b) => b.score - a.score);
     
-    const topCards = scoredCards.slice(0, 2);
+    // 每种类型选择 4 张卡牌
+    const topCards = scoredCards.slice(0, 4);
     selectedCards.push(...topCards);
   }
   
@@ -131,20 +133,28 @@ function selectPlotCards(bookData, bookType, config) {
 function generateDefaultPlotCards(bookData) {
   const defaultCards = {
     weather: [
-      { name: 'Sunny Day', icon: '☀️', description: 'A bright and clear day' },
-      { name: 'Rainy Night', icon: '🌧️', description: 'A dark and stormy night' }
+      { name: 'Morning Light', icon: '🌅', description: 'Warm morning sunshine' },
+      { name: 'Moonlight', icon: '🌙', description: 'Soft moonlight' },
+      { name: 'Sunset', icon: '🌇', description: 'Beautiful sunset' },
+      { name: 'Starry Sky', icon: '⭐', description: 'Stars filling the sky' }
     ],
     terrain: [
-      { name: 'City Street', icon: '🏙️', description: 'A busy urban environment' },
-      { name: 'Quiet Room', icon: '🏠', description: 'A peaceful indoor space' }
+      { name: 'Garden', icon: '🌻', description: 'Beautiful garden' },
+      { name: 'Park', icon: '🌳', description: 'Quiet park' },
+      { name: 'Bridge', icon: '🌉', description: 'Bridge over river' },
+      { name: 'Street', icon: '🛣️', description: 'City street' }
     ],
     adventure: [
       { name: 'Discovery', icon: '🔍', description: 'Finding something new' },
-      { name: 'Challenge', icon: '🎯', description: 'Facing a difficult task' }
+      { name: 'Exploration', icon: '🧭', description: 'Explore unknown places' },
+      { name: 'Separation', icon: '😢', description: 'Reluctant goodbye' },
+      { name: 'Getting Back Together', icon: '💕', description: 'Reunion moment' }
     ],
     equipment: [
-      { name: 'Key Item', icon: '🔑', description: 'An important object' },
-      { name: 'Tool', icon: '🔧', description: 'A useful implement' }
+      { name: 'Coffee', icon: '☕', description: 'Warm coffee' },
+      { name: 'Phone', icon: '📱', description: 'Communication tool' },
+      { name: 'Book', icon: '📚', description: 'Interesting book' },
+      { name: 'Music Player', icon: '🎵', description: 'Play music' }
     ]
   };
   

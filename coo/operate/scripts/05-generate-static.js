@@ -32,6 +32,53 @@ function getRoleIcon(roleType, config) {
   if (config.roleTypeIcons[roleType]) return config.roleTypeIcons[roleType];
   
   const lowerRole = roleType.toLowerCase();
+  
+  // 优先匹配英文关键词
+  const roleKeywords = {
+    'protagonist': '🧑',
+    'main character': '🧑',
+    'ai': '🤖',
+    'robot': '🤖',
+    'dog': '🐕',
+    'pet': '🐕',
+    'animal': '🐕',
+    'human': '🧑',
+    'owner': '🧑',
+    'master': '🧑',
+    'scientist': '🔬',
+    'researcher': '🧑‍💼',
+    'doctor': '👨‍⚕️',
+    'detective': '🕵️',
+    'teacher': '👨‍🏫',
+    'student': '🎓'
+  };
+  
+  // 检查是否包含英文关键词
+  for (const [keyword, icon] of Object.entries(roleKeywords)) {
+    if (lowerRole.includes(keyword)) {
+      return icon;
+    }
+  }
+  
+  // 尝试匹配中文关键词
+  const zhKeywords = {
+    '主角': '🧑',
+    '人类': '🧑',
+    '狗': '🐕',
+    '宠物': '🐕',
+    '动物': '🐕',
+    'ai': '🤖',
+    '机器人': '🤖',
+    '科学家': '🔬'
+  };
+  
+  for (const [keyword, icon] of Object.entries(zhKeywords)) {
+    if (roleType.includes(keyword)) {
+      return icon;
+    }
+  }
+  
+  // 最后尝试 config 中的模糊匹配
   for (const [key, icon] of Object.entries(config.roleTypeIcons)) {
     if (key.toLowerCase().includes(lowerRole) || lowerRole.includes(key.toLowerCase())) {
       return icon;
@@ -272,9 +319,13 @@ function formatSingleChapterContent(chapter, isZh, romanNumerals) {
   const content = chapter.content || '';
   const paragraphs = content.split(/\n\n|\n/).filter(p => p.trim());
   
+  // 从章节标题中移除 "Chapter XX:" 前缀
+  let chapterName = chapter.title || '';
+  chapterName = chapterName.replace(/^Chapter\s+\d+:\s*/i, '').trim();
+  
   let html = `<div class="manuscript-title">
     <div class="chapter-num">${isZh ? '第' : 'CHAPTER '}${romanNumerals[chapter.orderNum - 1] || chapter.orderNum}</div>
-    <div class="chapter-name">${chapter.title}</div>
+    <div class="chapter-name">${chapterName}</div>
   </div>
   <div class="manuscript-text">`;
   
@@ -668,6 +719,8 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       transition: all 0.3s ease;
       text-decoration: none;
       color: #2a1810;
+      margin-bottom: 8px;
+      width: 100%;
     }
     
     .chapter-toc-item:hover {
@@ -680,17 +733,20 @@ function generateBookHTML(book, characters, chapters, plotCards) {
       font-size: 12px;
       color: #8B4513;
       min-width: 60px;
+      flex-shrink: 0;
     }
     
     .chapter-toc-item .chapter-dots {
-      flex: 1;
-      border-bottom: 1px dotted rgba(139, 90, 43, 0.3);
-      margin: 0 10px;
+      display: none !important;
     }
     
     .chapter-toc-item .chapter-title {
       font-family: 'Cinzel', serif;
       font-size: 14px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      flex-grow: 0;
+      max-width: none;
     }
     
     .character-grid-view {
