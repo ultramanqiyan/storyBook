@@ -1,0 +1,60 @@
+{
+  "book": "the-stimulation-trap",
+  "status": "completed",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-03-20",
+  "completed_at": "2026-03-20",
+  "chapters": {
+    "chapter-01": {
+      "status": "completed",
+      "title": "The Normal",
+      "completed_at": "2026-03-20"
+    },
+    "chapter-02": {
+      "status": "completed",
+      "title": "The High",
+      "completed_at": "2026-03-20"
+    },
+    "chapter-03": {
+      "status": "completed",
+      "title": "The Dim",
+      "completed_at": "2026-03-20"
+    },
+    "chapter-04": {
+      "status": "completed",
+      "title": "The Chase",
+      "completed_at": "2026-03-20"
+    },
+    "chapter-05": {
+      "status": "completed",
+      "title": "The Cost",
+      "completed_at": "2026-03-20"
+    },
+    "chapter-06": {
+      "status": "completed",
+      "title": "The Edge",
+      "completed_at": "2026-03-20"
+    },
+    "chapter-07": {
+      "status": "completed",
+      "title": "The Void",
+      "completed_at": "2026-03-20"
+    },
+    "chapter-08": {
+      "status": "completed",
+      "title": "The Descent",
+      "completed_at": "2026-03-20"
+    },
+    "chapter-09": {
+      "status": "completed",
+      "title": "The Awareness",
+      "completed_at": "2026-03-20"
+    },
+    "chapter-10": {
+      "status": "completed",
+      "title": "The Trap",
+      "completed_at": "2026-03-20"
+    }
+  }
+}
