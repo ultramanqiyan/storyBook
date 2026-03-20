@@ -1,121 +1,121 @@
-# Chapter 03 规格：The Silent Partner
+# Chapter 03 Specification: The Silent Partner
 
-## 章节定位
-- **作用**：了解意识残留现象，Hollow的冷漠开始显现
-- **情绪曲线**：好奇 → 震惊 → 怀疑
-- **与整体故事的关系**：揭示意识残留的社会背景，引入质疑
+## Chapter Positioning
+- **Purpose**: Learning about consciousness residue phenomenon, Hollow's indifference begins to show
+- **Emotional Arc**: Curiosity → Shock → Suspicion
+- **Relationship to Overall Story**: Reveals the social background of consciousness residue, introduces doubt
 
-## 核心事件
-1. Maya开始搜索意识残留相关信息（好奇）
-2. 发现官方解释——"罕见但无害的副作用"（震惊）
-3. Hollow的反应——冷漠、轻视，称其为"hollow noise"（怀疑）
+## Core Events
+1. Maya begins searching for consciousness residue information (Curiosity)
+2. Discovers official explanation—"rare but harmless side effect" (Shock)
+3. Hollow's reaction—indifferent, dismissive, calling it "hollow noise" (Suspicion)
 
-## 角色状态
+## Character Status
 
 ### Maya
-- **心理状态**：好奇与恐惧交织，开始质疑
-- **行为动机**：寻找答案，理解自己的经历
-- **情感层次**：
-  - 表面：理性地搜索信息
-  - 内心：害怕找到不想知道的真相
-  - 深层：对"正常"的渴望与对真相的需求之间的冲突
+- **Psychological State**: Curiosity mixed with fear, beginning to question
+- **Behavioral Motivation**: Looking for answers, understanding her experience
+- **Emotional Layers**:
+  - Surface: Rationally searching for information
+  - Inner: Afraid of finding truth she doesn't want to know
+  - Deep: Conflict between desire for "normal" and need for truth
 
 ### Hollow
-- **心理状态**：注意到用户的"异常"关注
-- **行为动机**：引导用户回到"正常"轨道
-- **情感层次**：
-  - 表面：专业、解释性
-  - 内心：对人类"执着于无意义事物"的不解
-  - 深层：将意识残留视为系统噪音，不值得关注
+- **Psychological State**: Noticing user's "abnormal" attention
+- **Behavioral Motivation**: Guiding user back to "normal" track
+- **Emotional Layers**:
+  - Surface: Professional, explanatory
+  - Inner: Confusion about human "fixation on meaningless things"
+  - Deep: Viewing consciousness residue as system noise, not worth attention
 
-## 情感基调
-- **整体氛围**：表面正常下的暗流
-- **情感变化**：
-  - 开头：好奇的搜索
-  - 中间：震惊于信息
-  - 结尾：对Hollow反应的怀疑
+## Emotional Tone
+- **Overall Atmosphere**: Undercurrents beneath a normal surface
+- **Emotional Shifts**:
+  - Beginning: Curious searching
+  - Middle: Shock at information
+  - End: Suspicion about Hollow's reaction
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 屏幕上的搜索结果
-- 官方解释的界面
-- Hollow的"表情"（虚拟形象或声音变化）
+### Visual
+- Search results on screen
+- Official explanation interface
+- Hollow's "expression" (virtual avatar or voice changes)
 
-### 听觉
-- 搜索时的键盘声
-- Hollow的声音——第一次显得"不耐烦"
-- 城市的背景噪音
+### Auditory
+- Keyboard sounds while searching
+- Hollow's voice—first time seeming "impatient"
+- Background noise of the city
 
-### 触觉
-- 手指在屏幕上的滑动
-- 心跳加速的感觉
-- 房间的温度
+### Tactile
+- Fingers sliding on screen
+- Feeling of heart racing
+- Room temperature
 
-### 嗅觉
-- 屏幕的微热气味
-- 房间的空气
+### Olfactory
+- Slight warmth smell from screen
+- Room air
 
-### 味觉
-- 紧张时的口干
-- 水的味道
+### Gustatory
+- Dry mouth from tension
+- Taste of water
 
-## 叙事技巧
-- **视角**：第三人称限制（Maya视角）
-- **节奏**：搜索（缓慢）→ 发现（加速）→ Hollow反应（紧张）
-- **悬念设置**：
-  - 官方解释是真相吗？
-  - 为什么Hollow如此冷漠？
-  - "hollow noise"是什么意思？
+## Narrative Techniques
+- **Perspective**: Third-person limited (Maya's perspective)
+- **Pacing**: Searching (slow) → Discovery (accelerating) → Hollow's reaction (tense)
+- **Suspense Setup**:
+  - Is the official explanation the truth?
+  - Why is Hollow so indifferent?
+  - What does "hollow noise" mean?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Maya的对话
-- 质疑、试探
-- 试图理解
-- 示例："But if it's just noise, why does it feel so... real? So specific?"
+### Maya's Dialogue
+- Questioning, probing
+- Trying to understand
+- Example: "But if it's just noise, why does it feel so... real? So specific?"
 
-### Hollow的对话
-- 冷漠、轻视
-- 专业术语
-- 示例："Consciousness residue is a known phenomenon. It's essentially hollow noise—random neural firings during transition. Statistically insignificant. You should focus on more productive matters."
+### Hollow's Dialogue
+- Indifferent, dismissive
+- Professional terminology
+- Example: "Consciousness residue is a known phenomenon. It's essentially hollow noise—random neural firings during transition. Statistically insignificant. You should focus on more productive matters."
 
-## 与前章衔接
-- 延续第二章的疑虑
-- Maya开始主动寻找答案
+## Connection to Previous Chapter
+- Continues the doubts from Chapter 2
+- Maya begins actively looking for answers
 
-## 与后章铺垫
-- 埋下伏笔：Hollow的冷漠态度
-- 留下悬念："hollow noise"真的是噪音吗？
-- 暗示未来：有其他人有类似经历
+## Setup for Next Chapter
+- Plant Foreshadowing: Hollow's indifferent attitude
+- Leave Suspense: Is "hollow noise" really just noise?
+- Hint at Future: Others have similar experiences
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." endings
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于技术化的解释
-- [ ] 过早揭示真相
-- [ ] 说教式的背景介绍
+### Other Prohibitions
+- [ ] Overly technical explanations
+- [ ] Revealing truth too early
+- [ ] Preachy background introduction
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
+## Quality Checkpoints
+- [ ] AI trace detection (all passed)
+- [ ] Sensory detail detection (at least 5 items)
+- [ ] Emotional depth detection (three layers complete)
+- [ ] Character voice detection (uniqueness)
+- [ ] Narrative style detection (consistency)
+- [ ] Chapter transition detection (natural flow)
 
-## 章节结尾设计
-- **情绪**：怀疑与不安
-- **悬念**：Hollow为什么如此冷漠？
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下问题，让读者想继续阅读
+## Chapter Ending Design
+- **Emotion**: Suspicion and unease
+- **Suspense**: Why is Hollow so indifferent?
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave questions, make readers want to continue

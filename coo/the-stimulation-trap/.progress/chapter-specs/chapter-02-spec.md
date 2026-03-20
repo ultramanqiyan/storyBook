@@ -1,122 +1,122 @@
-# Chapter 2 规格：The Stimulation Trap
+# Chapter 2 Specification: The Stimulation Trap
 
-## 章节定位
-- **作用**：体验最刺激的内容，感到满足——建立"高峰"体验
-- **情绪曲线**：期待 → 极度满足 → 满足后的平静
-- **与整体故事的关系**：展示"刺激"的顶峰，为后续的"麻木"做对比
+## Chapter Positioning
+- **Purpose**: Experience the most stimulating content, feel satisfied—establish the "peak" experience
+- **Emotional Arc**: Anticipation → Extreme satisfaction → Post-satisfaction calm
+- **Relationship to Overall Story**: Show the peak of "stimulation," creating contrast for the subsequent "numbness"
 
-## 核心事件
-1. 发现新内容：Leo发现了一个高刺激等级的新体验（期待）
-2. 体验高峰：他体验了前所未有的刺激（极度满足）
-3. 满足后的平静：刺激结束后，他感到满足（平静）
+## Core Events
+1. Discovering new content: Leo discovers a new experience with high stimulation level (anticipation)
+2. Peak experience: He experiences unprecedented stimulation (extreme satisfaction)
+3. Post-satisfaction calm: After the stimulation ends, he feels satisfied (calm)
 
-## 双线结构
+## Dual Narrative Structure
 
-### 现实线
-- Leo发现新的高刺激内容
-- 他购买并体验这个内容
-- 刺激的高峰体验
-- 结束后的满足
+### Reality Thread
+- Leo discovers new high-stimulation content
+- He purchases and experiences this content
+- The peak experience of stimulation
+- Satisfaction after it ends
 
-### 内心线
-- *这一定很棒。我需要试试。*
-- *天啊，这感觉...这感觉太好了。*
-- *这就是我想要的。这就是我需要的。*
+### Internal Thread
+- *This must be great. I need to try it.*
+- *God, this feels... this feels too good.*
+- *This is what I wanted. This is what I need.*
 
-## 角色状态
+## Character Status
 
 ### Leo
-- **心理状态**：期待、极度满足、平静
-- **行为动机**：追求更强的刺激，获得更大的快乐
-- **情感层次**：
-  - 表面：兴奋、满足
-  - 内心：*这感觉真好。我需要这个。*
-  - 深层：用刺激填补某种空虚
+- **Psychological State**: Anticipation, extreme satisfaction, calm
+- **Behavioral Motivation**: Pursue stronger stimulation, obtain greater pleasure
+- **Emotional Layers**:
+  - Surface: Excitement, satisfaction
+  - Inner: *This feels so good. I need this.*
+  - Deep: Using stimulation to fill some kind of emptiness
 
-## 情感基调
-- **整体氛围**：高峰体验的绚烂
-- **情感变化**：
-  - 开头：期待
-  - 中间：极度满足
-  - 结尾：平静
+## Emotional Tone
+- **Overall Atmosphere**: The brilliance of peak experience
+- **Emotional Shifts**:
+  - Beginning: Anticipation
+  - Middle: Extreme satisfaction
+  - End: Calm
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 高刺激内容的视觉冲击——色彩、动态、深度
-- 虚拟世界中的极致美景
-- 现实世界的对比——暗淡、无聊
+### Visual
+- Visual impact of high-stimulation content—colors, dynamics, depth
+- Ultimate beauty in the virtual world
+- Contrast with the real world—dim, boring
 
-### 听觉
-- AI生成的完美音乐——比任何真实音乐都动听
-- 虚拟世界中的声音设计——精确到每一个频率
-- 刺激高峰时的声音——震撼
+### Auditory
+- AI-generated perfect music—more beautiful than any real music
+- Sound design in the virtual world—precise to every frequency
+- Sound at the peak of stimulation—shocking
 
-### 触觉
-- 虚拟体验的身体感受——心跳加速、呼吸急促
-- 刺激高峰时的触感——仿佛真的在经历
-- 结束后的身体疲惫——但精神满足
+### Tactile
+- Physical sensation of virtual experience—racing heart, rapid breathing
+- Tactile sensation at the peak of stimulation—as if really experiencing it
+- Physical exhaustion after it ends—but mentally satisfied
 
-### 味觉
-- 虚拟食物的极致味道——比真实更真实
-- 刺激高峰时的"味觉"——虚拟的，但感觉真实
+### Gustatory
+- Ultimate taste of virtual food—more real than reality
+- "Taste" at the peak of stimulation—virtual, but feels real
 
-### 内在感受
-- 刺激带来的快感——多巴胺的释放
-- 满足后的平静——暂时的
-- 微妙的期待——下一个刺激
+### Internal Sensation
+- Pleasure from stimulation—dopamine release
+- Calm after satisfaction—temporary
+- Subtle anticipation—the next stimulation
 
-## 叙事技巧
-- **视角**：第三人称限制（Leo视角）
-- **节奏**：开始期待，中间高峰，结尾平静
-- **悬念设置**：
-  - 这个高峰能持续多久？
-  - 下一次会怎样？
+## Narrative Techniques
+- **Perspective**: Third person limited (Leo's perspective)
+- **Pacing**: Beginning with anticipation, peak in the middle, calm at the end
+- **Suspense Setup**:
+  - How long can this peak last?
+  - What will happen next time?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Leo的对话
-- 期待和满足的语言
-- 示例："这个新体验看起来很棒。"
-- 内心独白：*这感觉太好了。这就是我需要的。*
+### Leo's Dialogue
+- Language of anticipation and satisfaction
+- Example: "This new experience looks great."
+- Inner monologue: *This feels too good. This is what I need.*
 
-## 与前章衔接
-- 延续第1章的"正常"娱乐生活
-- 展示刺激的升级
+## Connection to Previous Chapter
+- Continue the "normal" entertainment life from Chapter 1
+- Show the escalation of stimulation
 
-## 与后章铺垫
-- 埋下伏笔：满足是暂时的
-- 留下悬念：下一次会需要更强的刺激吗？
-- 暗示未来：刺激的阈值在提高
+## Setup for Next Chapter
+- Plant Foreshadowing: Satisfaction is temporary
+- Leave Suspense: Will he need stronger stimulation next time?
+- Hint at Future: The threshold for stimulation is rising
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." ending
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于科幻的技术描述
-- [ ] 道德说教
-- [ ] 让读者太快察觉问题
+### Other Prohibitions
+- [ ] Overly sci-fi technical descriptions
+- [ ] Moral preaching
+- [ ] Letting readers notice the problem too quickly
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
-- [ ] 双线结构检测（现实线与内心线交织）
+## Quality Checkpoints
+- [ ] AI Trace Detection (all passed)
+- [ ] Sensory Detail Detection (at least 5 items)
+- [ ] Emotional Depth Detection (three layers complete)
+- [ ] Character Voice Detection (uniqueness)
+- [ ] Narrative Style Detection (consistency)
+- [ ] Chapter Transition Detection (natural flow)
+- [ ] Dual Structure Detection (reality thread and internal thread interwoven)
 
-## 章节结尾设计
-- **情绪**：满足后的平静
-- **悬念**：Leo感到满足，但有一丝微妙的念头——*下次我要找更强的*
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下微妙的升级欲望，让读者想知道接下来会发生什么
+## Chapter Ending Design
+- **Emotion**: Post-satisfaction calm
+- **Suspense**: Leo feels satisfied, but has a subtle thought—*Next time I'll find something stronger*
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave a subtle desire for escalation, make readers want to know what happens next

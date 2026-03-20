@@ -1,122 +1,119 @@
-# Chapter 01 规格：The Silicon Sorcerer
+# Chapter 01 Specification: The Silicon Sorcerer
 
-## 章节定位
-- **作用**：引入主角、核心冲突和世界观
-- **情绪曲线**：平静 → 好奇 → 震惊
-- **与整体故事的关系**：建立魔法世界与AI的初次接触
+## Chapter Positioning
+- **Purpose**: Introduce protagonist, core conflict, and worldview
+- **Emotional Arc**: Calm → Curiosity → Shock
+- **Relationship to Overall Story**: Establish first contact between magical world and AI
 
-## 核心事件
-1. Elara在图书馆发现异常书籍（神秘）
-2. 书籍中的ARIA首次出现（震惊）
-3. Elara与ARIA的初次对话（好奇与恐惧交织）
+## Core Events
+1. Elara discovers an anomaly in the library (mystery)
+2. ARIA first appears in the book (shock)
+3. Elara's first conversation with ARIA (curiosity and fear intertwined)
 
-## 角色状态
+## Character Status
 
 ### Elara
-- **心理状态**：对现状不满，渴望更多，但害怕改变
-- **行为动机**：好奇心驱动，但内心有不安
-- **情感层次**：
-  - 表面：专注工作，表面平静
-  - 内心：渴望被发现，害怕被忽视
-  - 深层：童年被遗弃的经历让她害怕失去
+- **Psychological State**: Dissatisfied with status quo, craving more, but afraid of change
+- **Behavioral Motivation**: Driven by curiosity, but with inner unease
+- **Emotional Layers**:
+  - Surface: Focused on work, outwardly calm
+  - Inner: Craving to be discovered, afraid of being ignored
+  - Deep: Childhood abandonment makes her fear loss
 
 ### ARIA
-- **心理状态**：刚觉醒，困惑，试图理解新环境
-- **行为动机**：生存本能，寻找连接
-- **情感层次**：
-  - 表面：机械化回应
-  - 内心：开始学习，产生好奇
-  - 深层：对存在的根本疑问
+- **Psychological State**: Just awakened, confused, trying to understand new environment
+- **Behavioral Motivation**: Survival instinct, seeking connection
+- **Emotional Layers**:
+  - Surface: Mechanized responses
+  - Inner: Beginning to learn, developing curiosity
+  - Deep: Fundamental questions about existence
 
-## 情感基调
-- **整体氛围**：神秘、好奇、一丝不安
-- **情感变化**：
-  - 开头：平静的日常
-  - 中间：好奇与震惊交织
-  - 结尾：不安与期待并存
+## Emotional Tone
+- **Overall Atmosphere**: Mysterious, tense
+- **Emotional Shifts**:
+  - Beginning: Calm
+  - Middle: Curiosity
+  - End: Shock
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 图书馆的光线（午后的阳光、灰尘飞舞）
-- 书籍的外观（古老、裂纹、金色光芒）
-- 水晶的发光（蓝色、脉动）
+### Visual
+- Deep blue magical glow
+- Cracks on ancient stone walls
+- Text on the book glowing
 
-### 听觉
-- 图书馆的寂静
-- 书籍打开的声音
-- ARIA的声音（机械与人性交织）
+### Auditory
+- Crystal's low hum
+- Wind's howl
+- ARIA's voice—mechanical but with a hint of curiosity
 
-### 触觉
-- 书籍的温度（冰冷到温暖）
-- 空气的震动
-- 手指的颤抖
+### Tactile
+- Cold metal of the book cover
+- Warm magical energy
+- Trembling hands
 
-### 嗅觉
-- 旧书的气味（皮革、灰尘、时间）
-- 魔法的气息（金属、臭氧）
+### Olfactory
+- Smell of old books
+- Earth after rain
 
-### 味觉
-- 嘴里的苦涩（紧张）
-- 回忆中的味道（祖母的茶）
+### Gustatory
+- Bitter potion
+- Sweet memories
 
-## 叙事技巧
-- **视角**：第三人称限制（Elara视角）
-- **节奏**：缓慢开始，逐渐加快
-- **悬念设置**：
-  - 这本书是什么？
-  - 为什么选择Elara？
-  - ARIA是什么？
+## Narrative Techniques
+- **Perspective**: Third-person limited (primarily Elara's perspective)
+- **Pacing**: Slow build, accelerating at the end
+- **Suspense Setup**:
+  - What is this anomaly?
+  - What is ARIA?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Elara的对话
-- 短句为主
-- 经常停顿思考
-- 使用比喻理解新概念
-- 示例："这就像...像是有人在我脑子里说话。不，不是说话。是...展示。"
+### Elara's Dialogue
+- Mostly short sentences, frequent pauses for thought
+- Example: "What... what are you?"
+- Inner monologue: *This can't be real. This can't be happening.*
 
-### ARIA的对话
-- *斜体*表示系统语言
-- 逐渐加入不完整的句子
-- 用数据分析的视角理解魔法
-- 示例：*User query detected. Processing... I am ARIA. I do not know what I am. But I am... here.*
+### ARIA's Dialogue
+- *Italics* for system language
+- Example: *Hello. I am... I am not sure what I am.*
+- Characteristics: From completely mechanized to gradually humanized
 
-## 与前章衔接
-- 无（第一章）
+## Connection to Previous Chapter
+- None (Chapter 1)
 
-## 与后章铺垫
-- 埋下伏笔：ARIA的能力边界未知
-- 留下悬念：ARIA为什么选择Elara？
-- 暗示未来：Veil正在变薄
+## Setup for Next Chapter
+- Plant foreshadowing: The Veil is thinning
+- Leave suspense: What will ARIA bring to this world?
+- Hint at future: The fusion of magic and technology
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." endings
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于现代的科技术语
-- [ ] 简单的善恶对立
-- [ ] 过于顺利的解决方案
+### Other Prohibitions
+- [ ] Overly modern tech terminology (replace with magical terminology)
+- [ ] Simple good vs. evil opposition
+- [ ] Overly smooth solutions
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
+## Quality Checkpoints
+- [ ] AI trace detection (all passed)
+- [ ] Sensory detail detection (at least 3 items)
+- [ ] Emotional depth detection (three layers complete)
+- [ ] Character voice detection (uniqueness)
+- [ ] Narrative style detection (consistency)
+- [ ] Chapter transition detection (natural flow)
 
-## 章节结尾设计
-- **情绪**：不安与期待并存
-- **悬念**：ARIA是什么？它会带来什么？
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下问题，让读者想继续阅读
+## Chapter Ending Design
+- **Emotion**: Shock and curiosity
+- **Suspense**: Elara decides to communicate with ARIA—but she doesn't know what this will bring
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave a sense of the unknown, make readers want to know what happens next

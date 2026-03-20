@@ -1,123 +1,123 @@
-# Chapter 8 规格：The Stimulation Trap
+# Chapter 8 Specification: The Stimulation Trap
 
-## 章节定位
-- **作用**：继续下沉，无法停止——清醒的沉沦
-- **情绪曲线**：虚无 → 清醒 → 无奈
-- **与整体故事的关系**：展示"清醒的沉沦"
+## Chapter Positioning
+- **Purpose**: Continue descending, unable to stop—conscious descent
+- **Emotional Arc**: Void → Clarity → Helplessness
+- **Relationship to Overall Story**: Show "conscious descent"
 
-## 核心事件
-1. 继续追逐：即使虚无，Leo仍然继续追逐刺激（虚无）
-2. 清醒认识：他开始清醒地认识自己的状态（清醒）
-3. 无法停止：他发现自己无法停止（无奈）
+## Core Events
+1. Continue Chasing: Even in the void, Leo continues chasing stimulation (Void)
+2. Clear Recognition: He begins to clearly recognize his state (Clarity)
+3. Unable to Stop: He discovers he cannot stop (Helplessness)
 
-## 双线结构
+## Dual Narrative Structure
 
-### 现实线
-- Leo继续尝试各种刺激内容
-- 他知道这些内容不会有效，但他仍然尝试
-- 他的生活继续恶化——工作、关系、健康
-- 他无法停止
+### Reality Thread
+- Leo continues trying various stimulation content
+- He knows this content won't work, but he still tries
+- His life continues to deteriorate—work, relationships, health
+- He cannot stop
 
-### 内心线
-- *我知道这不会有效。但我还是要试。*
-- *我知道我有问题。但我停不下来。*
-- *我清醒地看着自己下沉。*
+### Internal Thread
+- *I know this won't work. But I still have to try.*
+- *I know I have a problem. But I can't stop.*
+- *I watch myself sinking, fully conscious.*
 
-## 角色状态
+## Character Status
 
 ### Leo
-- **心理状态**：虚无、清醒、无奈
-- **行为动机**：继续追逐，即使知道无效
-- **情感层次**：
-  - 表面：继续追逐
-  - 内心：*我知道我有问题。但我停不下来。*
-  - 深层：清醒地认识自己的状态，但无力改变
+- **Psychological State**: Void, clarity, helplessness
+- **Behavioral Motivation**: Continue chasing, even knowing it's futile
+- **Emotional Layers**:
+  - Surface: Continue chasing
+  - Inner: *I know I have a problem. But I can't stop.*
+  - Deep: Clearly recognizing his state, but powerless to change
 
-## 情感基调
-- **整体氛围**：清醒的沉沦
-- **情感变化**：
-  - 开头：虚无
-  - 中间：清醒
-  - 结尾：无奈
+## Emotional Tone
+- **Overall Atmosphere**: Conscious descent
+- **Emotional Shifts**:
+  - Beginning: Void
+  - Middle: Clarity
+  - End: Helplessness
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 刺激内容——但知道不会有效
-- 现实生活的问题——工作、关系、健康
-- 自己的状态——疲惫、空洞
+### Visual
+- Stimulation content—but knowing it won't work
+- Problems in real life—work, relationships, health
+- Own state—exhausted, hollow
 
-### 听觉
-- 刺激内容的声音——但知道不会有效
-- 现实生活的声音——问题、抱怨
-- 自己的内心——清醒的声音
+### Auditory
+- Sound of stimulation content—but knowing it won't work
+- Sounds of real life—problems, complaints
+- Own inner voice—voice of clarity
 
-### 触觉
-- 刺激内容的体验——但知道不会有效
-- 身体的状态——疲惫、麻木
-- 现实的触感——问题、压力
+### Tactile
+- Experience of stimulation content—but knowing it won't work
+- Body's state—exhausted, numb
+- Touch of reality—problems, pressure
 
-### 味觉
-- 刺激内容中的虚拟食物——但知道不会有效
-- 现实中的食物——无味
-- 无奈的味道——苦涩
+### Gustatory
+- Virtual food in stimulation content—but knowing it won't work
+- Real food—tasteless
+- Taste of helplessness—bitter
 
-### 内在感受
-- 刺激带来的快感——没有
-- 清醒的认识——知道自己在下沉
-- 无奈——无法停止
+### Internal Sensation
+- Pleasure from stimulation—none
+- Clear recognition—knowing he's sinking
+- Helplessness—unable to stop
 
-## 叙事技巧
-- **视角**：第三人称限制（Leo视角）
-- **节奏**：缓慢、下沉
-- **悬念设置**：
-  - Leo能停下来吗？
-  - 他会继续下沉吗？
+## Narrative Techniques
+- **Perspective**: Third person limited (Leo's perspective)
+- **Pacing**: Slow, sinking
+- **Suspense Setup**:
+  - Can Leo stop?
+  - Will he continue to sink?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Leo的对话
-- 清醒和无奈的语言
-- 示例："我知道。我知道我有问题。但我停不下来。"
-- 内心独白：*我清醒地看着自己下沉。*
+### Leo's Dialogue
+- Language of clarity and helplessness
+- Example: "I know. I know I have a problem. But I can't stop."
+- Inner monologue: *I watch myself sinking, fully conscious.*
 
-## 与前章衔接
-- 延续第7章的虚无
-- 展示Leo对虚无的反应——继续追逐
+## Connection to Previous Chapter
+- Continues the void from Chapter 7
+- Shows Leo's response to the void—continue chasing
 
-## 与后章铺垫
-- 埋下伏笔：清醒会加深
-- 留下悬念：Leo会怎么做？
-- 暗示未来：接受或继续
+## Setup for Next Chapter
+- Plant Foreshadowing: Clarity will deepen
+- Leave Suspense: What will Leo do?
+- Hint at Future: Acceptance or continuation
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." ending
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于科幻的技术描述
-- [ ] 道德说教
-- [ ] 让Leo突然"觉醒"并改变
+### Other Prohibitions
+- [ ] Overly sci-fi technical descriptions
+- [ ] Moral preaching
+- [ ] Letting Leo suddenly "awaken" and change
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
-- [ ] 双线结构检测（现实线与内心线交织）
+## Quality Checkpoints
+- [ ] AI Trace Detection (all pass)
+- [ ] Sensory Detail Detection (at least 5 items)
+- [ ] Emotional Depth Detection (three layers complete)
+- [ ] Character Voice Detection (uniqueness)
+- [ ] Narrative Style Detection (consistency)
+- [ ] Chapter Transition Detection (natural and smooth)
+- [ ] Dual Structure Detection (reality and internal threads interwoven)
 
-## 章节结尾设计
-- **情绪**：无奈
-- **悬念**：Leo清醒地认识自己的状态——*我知道我在下沉。但我不知道怎么停下来。*
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下清醒的无奈，让读者想知道接下来会发生什么
+## Chapter Ending Design
+- **Emotion**: Helplessness
+- **Suspense**: Leo clearly recognizes his state—*I know I'm sinking. But I don't know how to stop.*
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave the clarity of helplessness, make readers want to know what happens next

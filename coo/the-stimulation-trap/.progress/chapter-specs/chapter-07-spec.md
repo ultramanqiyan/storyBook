@@ -1,123 +1,123 @@
-# Chapter 7 规格：The Stimulation Trap
+# Chapter 7 Specification: The Stimulation Trap
 
-## 章节定位
-- **作用**：最强刺激也变得麻木——虚无的到来
-- **情绪曲线**：恐惧 → 绝望 → 虚无
-- **与整体故事的关系**：第二个转折点，虚无的到来
+## Chapter Positioning
+- **Purpose**: Even the strongest stimulation becomes numb—the arrival of the void
+- **Emotional Arc**: Fear → Despair → Void
+- **Relationship to Overall Story**: Second turning point, the arrival of the void
 
-## 核心事件
-1. 重复极限：Leo再次体验极限刺激（恐惧）
-2. 效果减弱：极限刺激也开始失效（绝望）
-3. 虚无到来：他发现没有任何刺激能让他感到快乐（虚无）
+## Core Events
+1. Repeating the Limit: Leo experiences limit stimulation again (Fear)
+2. Effect Diminishes: Limit stimulation also starts to fail (Despair)
+3. Void Arrives: He discovers no stimulation can make him feel happy (Void)
 
-## 双线结构
+## Dual Narrative Structure
 
-### 现实线
-- Leo再次体验极限刺激
-- 他发现效果在减弱
-- 他尝试其他极限内容，发现同样的问题
-- 他陷入虚无——没有任何刺激能让他感到快乐
+### Reality Thread
+- Leo experiences limit stimulation again
+- He discovers the effect is diminishing
+- He tries other limit content, finds the same problem
+- He falls into the void—no stimulation can make him feel happy
 
-### 内心线
-- *不...不...这不应该发生。*
-- *为什么？为什么什么都不管用了？*
-- *我...我感觉不到任何东西了。*
+### Internal Thread
+- *No... no... this shouldn't be happening.*
+- *Why? Why doesn't anything work anymore?*
+- *I... I can't feel anything anymore.*
 
-## 角色状态
+## Character Status
 
 ### Leo
-- **心理状态**：恐惧、绝望、虚无
-- **行为动机**：重新获得刺激的快感，但发现不可能
-- **情感层次**：
-  - 表面：恐惧、尝试各种内容
-  - 内心：*为什么？为什么什么都不管用了？*
-  - 深层：面对虚无的恐惧
+- **Psychological State**: Fear, despair, void
+- **Behavioral Motivation**: Regain the pleasure of stimulation, but finds it impossible
+- **Emotional Layers**:
+  - Surface: Fear, trying various content
+  - Inner: *Why? Why doesn't anything work anymore?*
+  - Deep: Fear of facing the void
 
-## 情感基调
-- **整体氛围**：恐惧、绝望、虚无
-- **情感变化**：
-  - 开头：恐惧
-  - 中间：绝望
-  - 结尾：虚无
+## Emotional Tone
+- **Overall Atmosphere**: Fear, despair, void
+- **Emotional Shifts**:
+  - Beginning: Fear
+  - Middle: Despair
+  - End: Void
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 极限刺激的内容——但感觉不那么震撼了
-- 虚拟世界的色彩——似乎没那么鲜艳了
-- 现实世界——更加暗淡，几乎看不到色彩
+### Visual
+- Limit stimulation content—but feels less shocking
+- Colors in virtual world—seem less vivid
+- Real world—even dimmer, almost no color
 
-### 听觉
-- 极限刺激的声音——但感觉不那么震撼了
-- 自己的心跳——恐惧的节奏
-- 寂静——虚无的声音
+### Auditory
+- Sound of limit stimulation—but feels less shocking
+- Own heartbeat—rhythm of fear
+- Silence—sound of the void
 
-### 触觉
-- 极限刺激的体验——但刺激感减弱
-- 身体的麻木——什么都感觉不到
-- 虚无的触感——空洞
+### Tactile
+- Experience of limit stimulation—but stimulation diminishes
+- Body's numbness—can't feel anything
+- Tactile sensation of void—hollow
 
-### 味觉
-- 极限刺激中的虚拟食物——但味道淡了
-- 现实中的食物——完全无味
-- 虚无的味道——空洞
+### Gustatory
+- Virtual food in limit stimulation—but taste fades
+- Real food—completely tasteless
+- Taste of void—hollow
 
-### 内在感受
-- 刺激带来的快感——消失了
-- 恐惧——害怕失去快乐的来源
-- 虚无——什么都感觉不到
+### Internal Sensation
+- Pleasure from stimulation—disappeared
+- Fear—afraid of losing the source of happiness
+- Void—can't feel anything
 
-## 叙事技巧
-- **视角**：第三人称限制（Leo视角）
-- **节奏**：逐渐下沉，像坠入虚无
-- **悬念设置**：
-  - Leo能从虚无中恢复吗？
-  - 他会怎么做？
+## Narrative Techniques
+- **Perspective**: Third person limited (Leo's perspective)
+- **Pacing**: Gradually sinking, like falling into the void
+- **Suspense Setup**:
+  - Can Leo recover from the void?
+  - What will he do?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Leo的对话
-- 恐惧和绝望的语言
-- 示例："为什么？为什么什么都不管用了？"
-- 内心独白：*我感觉不到任何东西了。*
+### Leo's Dialogue
+- Language of fear and despair
+- Example: "Why? Why doesn't anything work anymore?"
+- Inner monologue: *I can't feel anything anymore.*
 
-## 与前章衔接
-- 延续第6章的极限刺激
-- 展示极限刺激的失效
+## Connection to Previous Chapter
+- Continues the limit stimulation from Chapter 6
+- Shows the failure of limit stimulation
 
-## 与后章铺垫
-- 埋下伏笔：虚无会持续
-- 留下悬念：Leo会怎么做？
-- 暗示未来：下沉的开始
+## Setup for Next Chapter
+- Plant Foreshadowing: The void will continue
+- Leave Suspense: What will Leo do?
+- Hint at Future: The beginning of the descent
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." ending
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于科幻的技术描述
-- [ ] 道德说教
-- [ ] 让Leo突然"觉醒"
+### Other Prohibitions
+- [ ] Overly sci-fi technical descriptions
+- [ ] Moral preaching
+- [ ] Letting Leo suddenly "awaken"
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
-- [ ] 双线结构检测（现实线与内心线交织）
+## Quality Checkpoints
+- [ ] AI Trace Detection (all pass)
+- [ ] Sensory Detail Detection (at least 5 items)
+- [ ] Emotional Depth Detection (three layers complete)
+- [ ] Character Voice Detection (uniqueness)
+- [ ] Narrative Style Detection (consistency)
+- [ ] Chapter Transition Detection (natural and smooth)
+- [ ] Dual Structure Detection (reality and internal threads interwoven)
 
-## 章节结尾设计
-- **情绪**：虚无
-- **悬念**：Leo陷入虚无——*我感觉不到任何东西了。但我不能停下来。*
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下虚无，让读者想知道他会怎么做
+## Chapter Ending Design
+- **Emotion**: Void
+- **Suspense**: Leo falls into the void—*I can't feel anything anymore. But I can't stop.*
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave the void, make readers want to know what he will do

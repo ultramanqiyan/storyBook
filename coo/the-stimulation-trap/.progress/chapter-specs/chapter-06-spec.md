@@ -1,122 +1,122 @@
-# Chapter 6 规格：The Stimulation Trap
+# Chapter 6 Specification: The Stimulation Trap
 
-## 章节定位
-- **作用**：接近"刺激极限"的内容——追逐的极端化
-- **情绪曲线**：压力 → 决心 → 极度刺激
-- **与整体故事的关系**：追逐的高峰
+## Chapter Positioning
+- **Purpose**: Approaching "stimulation limit" content—the extreme of the chase
+- **Emotional Arc**: Pressure → Determination → Extreme stimulation
+- **Relationship to Overall Story**: The peak of the chase
 
-## 核心事件
-1. 寻找极限：Leo寻找刺激的极限内容（压力）
-2. 发现极限内容：他发现了"刺激极限"等级的内容（决心）
-3. 体验极限：他体验了前所未有的刺激（极度刺激）
+## Core Events
+1. Searching for the Limit: Leo searches for stimulation limit content (Pressure)
+2. Discovery of Limit Content: He discovers "stimulation limit" level content (Determination)
+3. Experiencing the Limit: He experiences unprecedented stimulation (Extreme stimulation)
 
-## 双线结构
+## Dual Narrative Structure
 
-### 现实线
-- Leo研究刺激的极限
-- 他发现"刺激极限"等级的内容
-- 他付出巨大代价获取这些内容
-- 他体验极限刺激
+### Reality Thread
+- Leo researches the limits of stimulation
+- He discovers "stimulation limit" level content
+- He pays a huge price to obtain this content
+- He experiences the limit stimulation
 
-### 内心线
-- *我需要更强的。之前的都不够。*
-- *这是极限。这一定足够。*
-- *天啊...这感觉...*
+### Internal Thread
+- *I need something stronger. The previous ones aren't enough.*
+- *This is the limit. This must be enough.*
+- *God... this feels...*
 
-## 角色状态
+## Character Status
 
 ### Leo
-- **心理状态**：决心、极度刺激、暂时的满足
-- **行为动机**：找到刺激的极限，获得最大的快感
-- **情感层次**：
-  - 表面：决心、行动
-  - 内心：*我需要这个。我愿意付出任何代价。*
-  - 深层：害怕刺激永远不够
+- **Psychological State**: Determination, extreme stimulation, temporary satisfaction
+- **Behavioral Motivation**: Find the limit of stimulation, obtain maximum pleasure
+- **Emotional Layers**:
+  - Surface: Determination, action
+  - Inner: *I need this. I'm willing to pay any price.*
+  - Deep: Fear that stimulation will never be enough
 
-## 情感基调
-- **整体氛围**：追逐的极端化
-- **情感变化**：
-  - 开头：压力
-  - 中间：决心
-  - 结尾：极度刺激
+## Emotional Tone
+- **Overall Atmosphere**: The extreme of the chase
+- **Emotional Shifts**:
+  - Beginning: Pressure
+  - Middle: Determination
+  - End: Extreme stimulation
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 极限内容的视觉冲击——前所未有的绚烂
-- 虚拟世界中的极致体验——超越想象
-- 现实世界的对比——更加暗淡
+### Visual
+- Visual impact of limit content—unprecedented brilliance
+- Ultimate experience in virtual world—beyond imagination
+- Contrast with real world—even dimmer
 
-### 听觉
-- 极限刺激的声音——震撼到无法形容
-- 身体的反应——心跳、呼吸
-- 刺激高峰时的声音——超越语言
+### Auditory
+- Sound of limit stimulation—indescribably shocking
+- Body's reaction—heartbeat, breathing
+- Sound at stimulation peak—beyond language
 
-### 触觉
-- 极限刺激的身体感受——全身都在反应
-- 刺激高峰时的触感——仿佛灵魂都在震动
-- 结束后的身体疲惫——极度的
+### Tactile
+- Physical sensation of limit stimulation—whole body responding
+- Tactile sensation at stimulation peak—as if soul is vibrating
+- Physical exhaustion after ending—extreme
 
-### 味觉
-- 极限刺激中的虚拟体验——超越任何真实体验
-- 现实中的对比——更加无味
+### Gustatory
+- Virtual experience in limit stimulation—beyond any real experience
+- Contrast with reality—even more tasteless
 
-### 内在感受
-- 极限刺激带来的快感——前所未有的
-- 暂时的满足——终于够了
-- 微妙的恐惧——如果这也不够怎么办？
+### Internal Sensation
+- Pleasure from limit stimulation—unprecedented
+- Temporary satisfaction—finally enough
+- Subtle fear—what if this isn't enough either?
 
-## 叙事技巧
-- **视角**：第三人称限制（Leo视角）
-- **节奏**：逐渐加速到高峰
-- **悬念设置**：
-  - 极限刺激会有效吗？
-  - 这能持续多久？
+## Narrative Techniques
+- **Perspective**: Third person limited (Leo's perspective)
+- **Pacing**: Gradually accelerating to peak
+- **Suspense Setup**:
+  - Will limit stimulation work?
+  - How long can this last?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Leo的对话
-- 极端决心的语言
-- 示例："我需要这个。不管代价是什么。"
-- 内心独白：*这是极限。这一定足够。*
+### Leo's Dialogue
+- Language of extreme determination
+- Example: "I need this. Whatever the cost."
+- Inner monologue: *This is the limit. This must be enough.*
 
-## 与前章衔接
-- 延续第5章的压力
-- 展示Leo对压力的反应——更加极端的追逐
+## Connection to Previous Chapter
+- Continues the pressure from Chapter 5
+- Shows Leo's response to pressure—even more extreme chase
 
-## 与后章铺垫
-- 埋下伏笔：极限刺激也会失效
-- 留下悬念：如果极限也不够，怎么办？
-- 暗示未来：虚无的开始
+## Setup for Next Chapter
+- Plant Foreshadowing: Limit stimulation will also fail
+- Leave Suspense: If limit isn't enough, then what?
+- Hint at Future: The beginning of the void
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." ending
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于科幻的技术描述
-- [ ] 道德说教
-- [ ] 让Leo太快"觉醒"
+### Other Prohibitions
+- [ ] Overly sci-fi technical descriptions
+- [ ] Moral preaching
+- [ ] Letting Leo "awaken" too quickly
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
-- [ ] 双线结构检测（现实线与内心线交织）
+## Quality Checkpoints
+- [ ] AI Trace Detection (all pass)
+- [ ] Sensory Detail Detection (at least 5 items)
+- [ ] Emotional Depth Detection (three layers complete)
+- [ ] Character Voice Detection (uniqueness)
+- [ ] Narrative Style Detection (consistency)
+- [ ] Chapter Transition Detection (natural and smooth)
+- [ ] Dual Structure Detection (reality and internal threads interwoven)
 
-## 章节结尾设计
-- **情绪**：极度刺激后的暂时满足
-- **悬念**：Leo感到满足，但有一丝恐惧——*如果这也不够怎么办？*
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下微妙的恐惧，让读者想知道接下来会发生什么
+## Chapter Ending Design
+- **Emotion**: Temporary satisfaction after extreme stimulation
+- **Suspense**: Leo feels satisfied, but with a trace of fear—*What if this isn't enough either?*
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave a subtle fear, make readers want to know what happens next

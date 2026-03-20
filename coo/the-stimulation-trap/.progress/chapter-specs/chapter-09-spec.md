@@ -1,123 +1,123 @@
-# Chapter 9 规格：The Stimulation Trap
+# Chapter 9 Specification: The Stimulation Trap
 
-## 章节定位
-- **作用**：清醒地认识自己的状态——清醒的深化
-- **情绪曲线**：无奈 → 清醒 → 接受
-- **与整体故事的关系**：清醒的高峰
+## Chapter Positioning
+- **Purpose**: Clearly recognizing one's state—deepening of clarity
+- **Emotional Arc**: Helplessness → Clarity → Acceptance
+- **Relationship to Overall Story**: The peak of clarity
 
-## 核心事件
-1. 深化清醒：Leo更深入地认识自己的状态（无奈）
-2. 反思过去：他回忆过去"能感受到快乐"的时光（清醒）
-3. 接受现状：他接受自己无法改变的事实（接受）
+## Core Events
+1. Deepening Clarity: Leo more deeply recognizes his state (Helplessness)
+2. Reflecting on the Past: He recalls times when he "could feel happiness" (Clarity)
+3. Accepting Reality: He accepts the fact that he cannot change (Acceptance)
 
-## 双线结构
+## Dual Narrative Structure
 
-### 现实线
-- Leo继续他的生活——工作、追逐刺激
-- 他开始反思自己的过去
-- 他尝试理解自己为什么会变成这样
-- 他接受自己无法改变
+### Reality Thread
+- Leo continues his life—work, chasing stimulation
+- He begins to reflect on his past
+- He tries to understand why he became this way
+- He accepts that he cannot change
 
-### 内心线
-- *我记得以前...以前我能感受到快乐。*
-- *是什么让我变成这样？*
-- *我知道我应该停下来。但我不能。*
+### Internal Thread
+- *I remember before... before I could feel happiness.*
+- *What made me this way?*
+- *I know I should stop. But I can't.*
 
-## 角色状态
+## Character Status
 
 ### Leo
-- **心理状态**：清醒、反思、接受
-- **行为动机**：理解自己的状态
-- **情感层次**：
-  - 表面：继续生活
-  - 内心：*我知道我应该停下来。但我不能。*
-  - 深层：接受自己无法改变
+- **Psychological State**: Clarity, reflection, acceptance
+- **Behavioral Motivation**: Understand his state
+- **Emotional Layers**:
+  - Surface: Continue living
+  - Inner: *I know I should stop. But I can't.*
+  - Deep: Accept that he cannot change
 
-## 情感基调
-- **整体氛围**：清醒的反思
-- **情感变化**：
-  - 开头：无奈
-  - 中间：清醒
-  - 结尾：接受
+## Emotional Tone
+- **Overall Atmosphere**: Clear reflection
+- **Emotional Shifts**:
+  - Beginning: Helplessness
+  - Middle: Clarity
+  - End: Acceptance
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 过去的记忆——曾经能感受到快乐的时光
-- 现在的状态——空洞、疲惫
-- 未来的想象——继续下沉
+### Visual
+- Memories of the past—times when he could feel happiness
+- Current state—hollow, exhausted
+- Imagination of the future—continue sinking
 
-### 听觉
-- 过去的声音——曾经能感受到的快乐
-- 现在的声音——虚无
-- 内心的声音——清醒的反思
+### Auditory
+- Sounds of the past—happiness he could feel before
+- Sounds of now—void
+- Inner voice—clear reflection
 
-### 触觉
-- 过去的感受——曾经能感受到的快乐
-- 现在的感受——麻木
-- 接受的感觉——无奈
+### Tactile
+- Feelings of the past—happiness he could feel before
+- Feelings of now—numbness
+- Feeling of acceptance—helplessness
 
-### 味觉
-- 过去的味道——曾经能感受到的快乐
-- 现在的味道——无味
-- 接受的味道——苦涩
+### Gustatory
+- Taste of the past—happiness he could feel before
+- Taste of now—tasteless
+- Taste of acceptance—bitter
 
-### 内在感受
-- 过去的快乐——记忆中的
-- 现在的虚无——真实的
-- 接受的无奈——清醒的
+### Internal Sensation
+- Happiness of the past—in memory
+- Void of now—real
+- Helplessness of acceptance—clear
 
-## 叙事技巧
-- **视角**：第三人称限制（Leo视角）
-- **节奏**：缓慢、反思
-- **悬念设置**：
-  - Leo会怎么做？
-  - 他能接受这个状态吗？
+## Narrative Techniques
+- **Perspective**: Third person limited (Leo's perspective)
+- **Pacing**: Slow, reflective
+- **Suspense Setup**:
+  - What will Leo do?
+  - Can he accept this state?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Leo的对话
-- 反思和接受的语言
-- 示例："我记得以前...以前我能感受到快乐。"
-- 内心独白：*我知道我应该停下来。但我不能。*
+### Leo's Dialogue
+- Language of reflection and acceptance
+- Example: "I remember before... before I could feel happiness."
+- Inner monologue: *I know I should stop. But I can't.*
 
-## 与前章衔接
-- 延续第8章的清醒
-- 展示清醒的深化
+## Connection to Previous Chapter
+- Continues the clarity from Chapter 8
+- Shows the deepening of clarity
 
-## 与后章铺垫
-- 埋下伏笔：接受后的状态
-- 留下悬念：Leo会继续吗？
-- 暗示未来：开放式结局
+## Setup for Next Chapter
+- Plant Foreshadowing: State after acceptance
+- Leave Suspense: Will Leo continue?
+- Hint at Future: Open ending
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." ending
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于科幻的技术描述
-- [ ] 道德说教
-- [ ] 让Leo突然"觉醒"并改变
+### Other Prohibitions
+- [ ] Overly sci-fi technical descriptions
+- [ ] Moral preaching
+- [ ] Letting Leo suddenly "awaken" and change
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
-- [ ] 双线结构检测（现实线与内心线交织）
+## Quality Checkpoints
+- [ ] AI Trace Detection (all pass)
+- [ ] Sensory Detail Detection (at least 5 items)
+- [ ] Emotional Depth Detection (three layers complete)
+- [ ] Character Voice Detection (uniqueness)
+- [ ] Narrative Style Detection (consistency)
+- [ ] Chapter Transition Detection (natural and smooth)
+- [ ] Dual Structure Detection (reality and internal threads interwoven)
 
-## 章节结尾设计
-- **情绪**：接受
-- **悬念**：Leo接受了自己的状态——*我知道我在下沉。我知道我应该停下来。但我不能。*
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下接受的无奈，让读者想知道结局
+## Chapter Ending Design
+- **Emotion**: Acceptance
+- **Suspense**: Leo accepts his state—*I know I'm sinking. I know I should stop. But I can't.*
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave the helplessness of acceptance, make readers want to know the ending

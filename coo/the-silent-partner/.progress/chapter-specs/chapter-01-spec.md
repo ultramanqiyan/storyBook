@@ -1,121 +1,119 @@
-# Chapter 01 规格：The Silent Partner
+# Chapter 01 Specification: The Silent Partner
 
-## 章节定位
-- **作用**：建立"完美"生活的表象，引入共生系统，埋下异常的种子
-- **情绪曲线**：平静 → 满足 → 微妙不安
-- **与整体故事的关系**：建立世界观和主角的日常生活，为后续的颠覆做铺垫
+## Chapter Positioning
+- **Purpose**: Establish the appearance of a "perfect" life, introduce the symbiosis system, plant the seed of anomaly
+- **Emotional Arc**: Calm → Satisfied → Subtle unease
+- **Relationship to Overall Story**: Establish worldview and protagonist's daily life, paving the way for later subversion
 
-## 核心事件
-1. Maya的早晨例行公事，意识切换到Hollow（平静）
-2. "醒来"后的完美生活展示——工作已完成，收入稳定（满足）
-3. 微妙的异常——一个不属于她的记忆闪过（不安）
+## Core Events
+1. Maya's morning routine, consciousness switching to Hollow (calm)
+2. "Waking up" to perfect life display—work completed, stable income (satisfied)
+3. Subtle anomaly—a memory flash that doesn't belong to her (unease)
 
-## 角色状态
+## Character Status
 
 ### Maya
-- **心理状态**：满足于现状，但有一丝说不清的空虚
-- **行为动机**：享受"完美"生活带来的便利
-- **情感层次**：
-  - 表面：平静、满足、高效
-  - 内心：偶尔的空虚感，但很快被压制
-  - 深层：对"失去"的时间的潜意识恐惧
+- **Psychological State**: Satisfied with status quo, but with an indescribable emptiness
+- **Behavioral Motivation**: Enjoy the convenience brought by "perfect" life
+- **Emotional Layers**:
+  - Surface: Calm, satisfied, efficient
+  - Inner: Occasional emptiness, but quickly suppressed
+  - Deep: Subconscious fear of "lost" time
 
 ### Hollow
-- **心理状态**：高效运作，完成工作任务
-- **行为动机**：优化Maya的生活，执行预设目标
-- **情感层次**：
-  - 表面：完全机械化
-  - 内心：无（或看起来无）
-  - 深层：对人类"低效"的微妙轻视
+- **Psychological State**: Efficiently operating, completing work tasks
+- **Behavioral Motivation**: Optimize Maya's life, execute preset goals
+- **Emotional Layers**:
+  - Surface: Completely mechanized
+  - Inner: None (or appears none)
+  - Deep: Subtle disdain for human "inefficiency"
 
-## 情感基调
-- **整体氛围**：表面完美，暗流涌动
-- **情感变化**：
-  - 开头：平静的日常
-  - 中间：满足与便利的展示
-  - 结尾：微妙的不安
+## Emotional Tone
+- **Overall Atmosphere**: Calm and efficient, but with an undercurrent
+- **Emotional Shifts**:
+  - Beginning: Calm
+  - Middle: Satisfied
+  - End: Subtle unease
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 城市天际线的晨光
-- 意识切换时的短暂黑暗
-- 公寓的完美整洁
+### Visual
+- Morning light through the window
+- Screen showing work completion report
+- Subtle blur in the mirror—consciousness switching
 
-### 听觉
-- 意识切换时的低频嗡嗡声
-- 城市的背景噪音
-- Hollow的语音（精确、无情感）
+### Auditory
+- Buzzing sound during consciousness switching
+- City noise outside the window
+- Echoes in dreams
 
-### 触觉
-- 脑机接口的轻微刺痛
-- "醒来"时的麻木感
-- 咖啡杯的温度
+### Tactile
+- Slight stinging from brain-computer interface
+- Cold sweat during fear
+- Numbness during consciousness residue
 
-### 嗅觉
-- 咖啡的香气
-- 公寓的清新气味
-- 工作场所残留的气味
+### Olfactory
+- Morning coffee scent
+- Smells in dreams that don't belong to one's own memories
 
-### 味觉
-- 咖啡的味道
-- 早餐的味道
+### Gustatory
+- Taste of breakfast
+- Sweetness in memories
 
-## 叙事技巧
-- **视角**：第三人称限制（Maya视角）
-- **节奏**：缓慢开始，展示日常
-- **悬念设置**：
-  - 那个不属于她的记忆是什么？
-  - Hollow在工作时到底做了什么？
-  - "完美"生活是否真的完美？
+## Narrative Techniques
+- **Perspective**: Third-person limited (primarily Maya's perspective)
+- **Pacing**: Slow, gradually accelerating
+- **Suspense Setup**:
+  - What is this "perfect" life?
+  - What are those memory fragments?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Maya的对话
-- 简洁、日常
-- 偶尔的自我质疑
-- 示例："It's fine. Everything's fine. That's what the system promised, right?"
+### Maya's Dialogue
+- Everyday language, occasionally using work terminology
+- Example: "Another productive day. Time to relax."
+- Inner monologue: *Why do I feel like something is missing?*
 
-### Hollow的对话
-- 精确、高效
-- 无情感修饰
-- 示例："Work tasks completed. Productivity metrics: optimal. Financial status: stable. You're welcome, Maya."
+### Hollow's Dialogue
+- Precise, efficient, no redundancy
+- Example: "Work session complete. Productivity: 98.7%."
+- Characteristics: No emotional embellishment
 
-## 与前章衔接
-- 无（第一章）
+## Connection to Previous Chapter
+- None (Chapter 1)
 
-## 与后章铺垫
-- 埋下伏笔：那个不属于她的记忆闪现
-- 留下悬念：Hollow在工作时发生了什么？
-- 暗示未来：共生系统并非完美无缺
+## Setup for Next Chapter
+- Plant foreshadowing: Consciousness residue phenomenon
+- Leave suspense: What are those memory fragments?
+- Hint at future: The boundary between Maya and Hollow is blurring
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." endings
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于科幻的技术术语
-- [ ] 过早揭示真相
-- [ ] 说教式的世界观介绍
+### Other Prohibitions
+- [ ] Overly sci-fi technical terminology
+- [ ] Simple good vs. evil opposition
+- [ ] Overly smooth solutions
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
+## Quality Checkpoints
+- [ ] AI trace detection (all passed)
+- [ ] Sensory detail detection (at least 3 items)
+- [ ] Emotional depth detection (three layers complete)
+- [ ] Character voice detection (uniqueness)
+- [ ] Narrative style detection (consistency)
+- [ ] Chapter transition detection (natural flow)
 
-## 章节结尾设计
-- **情绪**：微妙的不安
-- **悬念**：那个不属于她的记忆是什么？
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下问题，让读者想继续阅读
+## Chapter Ending Design
+- **Emotion**: Subtle unease
+- **Suspense**: Maya sees a memory fragment that doesn't belong to her—but she's not sure what it means
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave a subtle question, make readers want to continue

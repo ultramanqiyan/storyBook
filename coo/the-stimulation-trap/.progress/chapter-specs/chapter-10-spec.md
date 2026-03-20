@@ -1,127 +1,127 @@
-# Chapter 10 规格：The Stimulation Trap
+# Chapter 10 Specification: The Stimulation Trap
 
-## 章节定位
-- **作用**：开放式结局——仍在寻找
-- **情绪曲线**：接受 → 继续 → 无尽的追逐
-- **与整体故事的关系**：开放式结局，没有救赎
+## Chapter Positioning
+- **Purpose**: Open ending—still searching
+- **Emotional Arc**: Acceptance → Continuation → Endless chase
+- **Relationship to Overall Story**: Open ending, no redemption
 
-## 核心事件
-1. 接受现状：Leo接受自己无法改变（接受）
-2. 继续追逐：他仍然在寻找下一个刺激（继续）
-3. 无尽循环：故事暗示这个循环永远不会结束（无尽的追逐）
+## Core Events
+1. Accepting Reality: Leo accepts that he cannot change (Acceptance)
+2. Continue Chasing: He is still looking for the next stimulation (Continuation)
+3. Endless Loop: The story implies this cycle will never end (Endless chase)
 
-## 双线结构
+## Dual Narrative Structure
 
-### 现实线
-- Leo继续他的生活
-- 他仍然在寻找下一个刺激
-- 他知道这不会有效，但他仍然尝试
-- 故事结束，他仍在寻找
+### Reality Thread
+- Leo continues his life
+- He is still looking for the next stimulation
+- He knows it won't work, but he still tries
+- The story ends, he is still searching
 
-### 内心线
-- *下一个刺激。一定有下一个。*
-- *我知道这不会有效。但我还是要试。*
-- *我不能停下来。我不知道怎么停下来。*
+### Internal Thread
+- *The next stimulation. There must be a next one.*
+- *I know this won't work. But I still have to try.*
+- *I can't stop. I don't know how to stop.*
 
-## 角色状态
+## Character Status
 
 ### Leo
-- **心理状态**：接受、继续、无尽的追逐
-- **行为动机**：继续寻找刺激，即使知道无效
-- **情感层次**：
-  - 表面：继续追逐
-  - 内心：*下一个刺激。一定有下一个。*
-  - 深层：接受自己无法改变
+- **Psychological State**: Acceptance, continuation, endless chase
+- **Behavioral Motivation**: Continue looking for stimulation, even knowing it's futile
+- **Emotional Layers**:
+  - Surface: Continue chasing
+  - Inner: *The next stimulation. There must be a next one.*
+  - Deep: Accept that he cannot change
 
-## 情感基调
-- **整体氛围**：无尽的追逐
-- **情感变化**：
-  - 开头：接受
-  - 中间：继续
-  - 结尾：无尽的追逐
+## Emotional Tone
+- **Overall Atmosphere**: Endless chase
+- **Emotional Shifts**:
+  - Beginning: Acceptance
+  - Middle: Continuation
+  - End: Endless chase
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 新的刺激内容——Leo仍在寻找
-- 现实生活——继续恶化
-- 未来的暗示——无尽的追逐
+### Visual
+- New stimulation content—Leo is still searching
+- Real life—continues to deteriorate
+- Hint of the future—endless chase
 
-### 听觉
-- 新的刺激内容的声音——Leo仍在尝试
-- 现实生活的声音——问题继续
-- 内心的声音——无尽的追逐
+### Auditory
+- Sound of new stimulation content—Leo is still trying
+- Sound of real life—problems continue
+- Inner voice—endless chase
 
-### 触觉
-- 新的刺激内容的体验——但知道不会有效
-- 身体的状态——继续恶化
-- 追逐的感觉——无尽的
+### Tactile
+- Experience of new stimulation content—but knowing it won't work
+- Body's state—continues to deteriorate
+- Feeling of chase—endless
 
-### 味觉
-- 新的刺激内容中的虚拟食物——但知道不会有效
-- 现实中的食物——无味
-- 追逐的味道——无尽的苦涩
+### Gustatory
+- Virtual food in new stimulation content—but knowing it won't work
+- Real food—tasteless
+- Taste of chase—endless bitterness
 
-### 内在感受
-- 刺激带来的快感——没有
-- 接受的感觉——无奈
-- 追逐的感觉——无尽的
+### Internal Sensation
+- Pleasure from stimulation—none
+- Feeling of acceptance—helplessness
+- Feeling of chase—endless
 
-## 叙事技巧
-- **视角**：第三人称限制（Leo视角）
-- **节奏**：缓慢、无尽
-- **悬念设置**：
-  - Leo会永远这样下去吗？
-  - 这个循环会结束吗？
+## Narrative Techniques
+- **Perspective**: Third person limited (Leo's perspective)
+- **Pacing**: Slow, endless
+- **Suspense Setup**:
+  - Will Leo go on like this forever?
+  - Will this cycle end?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Leo的对话
-- 接受和继续的语言
-- 示例："下一个。一定有下一个。"
-- 内心独白：*我不能停下来。我不知道怎么停下来。*
+### Leo's Dialogue
+- Language of acceptance and continuation
+- Example: "The next one. There must be a next one."
+- Inner monologue: *I can't stop. I don't know how to stop.*
 
-## 与前章衔接
-- 延续第9章的接受
-- 展示接受后的状态——继续
+## Connection to Previous Chapter
+- Continues the acceptance from Chapter 9
+- Shows the state after acceptance—continuation
 
-## 开放式结尾设计
-- **未解决问题**：Leo能停下来吗？他会永远这样下去吗？
-- **新悬念**：下一个刺激是什么？它会有效吗？
-- **角色状态**：仍在追逐中，清醒但无力
-- **留给读者想象**：如果我是Leo，我会怎样？我现在是否已经在陷阱中？
+## Open Ending Design
+- **Unresolved Questions**: Can Leo stop? Will he go on like this forever?
+- **New Suspense**: What is the next stimulation? Will it work?
+- **Character Status**: Still chasing, conscious but powerless
+- **Leave for Reader's Imagination**: If I were Leo, what would I do? Am I already in the trap?
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." ending
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于科幻的技术描述
-- [ ] 道德说教
-- [ ] 让Leo突然"觉醒"并改变
-- [ ] 简单的"大团圆"结局
-- [ ] 所有问题都解决
-- [ ] 过于说教的结尾
+### Other Prohibitions
+- [ ] Overly sci-fi technical descriptions
+- [ ] Moral preaching
+- [ ] Letting Leo suddenly "awaken" and change
+- [ ] Simple "happy ending"
+- [ ] All problems resolved
+- [ ] Overly preachy ending
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
-- [ ] 双线结构检测（现实线与内心线交织）
+## Quality Checkpoints
+- [ ] AI Trace Detection (all pass)
+- [ ] Sensory Detail Detection (at least 5 items)
+- [ ] Emotional Depth Detection (three layers complete)
+- [ ] Character Voice Detection (uniqueness)
+- [ ] Narrative Style Detection (consistency)
+- [ ] Chapter Transition Detection (natural and smooth)
+- [ ] Dual Structure Detection (reality and internal threads interwoven)
 
-## 章节结尾设计
-- **情绪**：无尽的追逐
-- **悬念**：开放式——Leo仍在寻找，读者不知道接下来会发生什么
-- **不要**：预示性结尾、戏剧化总结、所有问题都解决
-- **要**：留下问题，让读者思考"如果我是Leo，我会怎样？"
+## Chapter Ending Design
+- **Emotion**: Endless chase
+- **Suspense**: Open—Leo is still searching, readers don't know what will happen next
+- **Don't**: Predictive ending, dramatic summary, all problems resolved
+- **Do**: Leave questions, make readers think "If I were Leo, what would I do?"

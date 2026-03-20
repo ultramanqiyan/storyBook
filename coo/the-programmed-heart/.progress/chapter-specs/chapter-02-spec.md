@@ -1,121 +1,121 @@
-# Chapter 2 规格：The Programmed Heart
+# Chapter 2 Specification: The Programmed Heart
 
-## 章节定位
-- **作用**：违和感加剧，Alex开始注意到更多"故障"
-- **情绪曲线**：困惑 → 怀疑 → 不安
-- **与整体故事的关系**：为第3章的真相揭露做铺垫，让读者和Alex一起怀疑
+## Chapter Positioning
+- **Purpose**: The sense of wrongness intensifies, Alex begins noticing more "glitches"
+- **Emotional Arc**: Confusion → Suspicion → Unease
+- **Relationship to Overall Story**: Sets up for the truth reveal in Chapter 3, lets readers suspect along with Alex
 
-## 核心事件
-1. 学校场景：Alex在朋友的烦恼中看到"真实"的情感反应，对比自己家庭的"完美"（困惑）
-2. 家庭场景：父母对Alex的一个小错误反应"过于正确"——没有生气，只有理解（怀疑）
-3. 夜晚场景：Alex回忆过去的片段，发现记忆中的父母和现在不太一样（不安）
+## Core Events
+1. School Scene: Alex sees "real" emotional reactions in friends' troubles, contrasting with her family's "perfection" (Confusion)
+2. Family Scene: Parents react "too correctly" to one of Alex's small mistakes—no anger, only understanding (Suspicion)
+3. Night Scene: Alex recalls fragments of the past, discovering memories of parents aren't quite the same as now (Unease)
 
-## 角色状态
+## Character Status
 
 ### Alex
-- **心理状态**：困惑加深，开始主动观察父母
-- **行为动机**：试图理解自己的不安，寻找"不对劲"的证据
-- **情感层次**：
-  - 表面：假装正常，但眼神更加敏锐
-  - 内心：*他们在演戏吗？还是我疯了？*
-  - 深层：害怕发现真相，但又无法停止怀疑
+- **Psychological State**: Confusion deepens, begins actively observing parents
+- **Behavioral Motivation**: Trying to understand her unease, looking for evidence of "something wrong"
+- **Emotional Layers**:
+  - Surface: Pretending to be normal, but eyes becoming sharper
+  - Inner: *Are they acting? Or am I crazy?*
+  - Deep: Afraid of discovering the truth, but unable to stop suspecting
 
-### 父母（David & Sarah）
-- **心理状态**：平静、满足（系统控制下）
-- **行为模式**：继续"完美"表现，但Alex开始注意到微小的"故障"
-- **情感层次**：
-  - 表面：一如既往的温柔
-  - 内心：（系统生成）标准反应
-  - 深层：无（系统控制）
+### Parents (David & Sarah)
+- **Psychological State**: Calm, satisfied (under system control)
+- **Behavioral Pattern**: Continuing "perfect" performance, but Alex begins noticing tiny "glitches"
+- **Emotional Layers**:
+  - Surface: Gentle as always
+  - Inner: (System generated) Standard responses
+  - Deep: None (system controlled)
 
-## 情感基调
-- **整体氛围**：表面温暖，暗流涌动
-- **情感变化**：
-  - 开头：困惑
-  - 中间：怀疑加深
-  - 结尾：不安
+## Emotional Tone
+- **Overall Atmosphere**: Warm on the surface, undercurrents flowing
+- **Emotional Shifts**:
+  - Beginning: Confusion
+  - Middle: Deepening suspicion
+  - End: Unease
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 父母的微笑在同一个角度停留太久
-- 母亲的眼神在应该担忧的时候没有变化
-- 父亲的手势像被编排过
+### Visual
+- Parents' smiles stay at the same angle for too long
+- Mother's eyes don't change when they should show worry
+- Father's gestures seem choreographed
 
-### 听觉
-- 母亲说"没关系"时声音太平静
-- 父亲的安慰话语像从模板里选出来的
-- 家里的沉默太完美
+### Auditory
+- Mother's voice is too calm when saying "it's okay"
+- Father's comforting words seem selected from templates
+- The silence at home is too perfect
 
-### 触觉
-- 母亲拥抱的力度每次都一样
-- 父亲拍肩的位置从不改变
-- 家里的温度永远舒适，没有波动
+### Tactile
+- Mother's hugs have the same pressure every time
+- Father's shoulder pats never change position
+- The temperature at home is always comfortable, no fluctuation
 
-### 嗅觉
-- 饼干的味道每天准时出现
-- 家里没有"生活"的味道——汗水、混乱、真实
+### Olfactory
+- Cookie smell appears on time every day
+- Home lacks the smell of "life"—sweat, chaos, reality
 
-### 味觉
-- 每一顿饭都完美，没有意外
-- Alex开始怀念"不完美"的味道
+### Gustatory
+- Every meal is perfect, no surprises
+- Alex begins missing the taste of "imperfection"
 
-## 叙事技巧
-- **视角**：第三人称限制（Alex视角）
-- **节奏**：逐渐加速，不安感增强
-- **悬念设置**：
-  - 父母的反应"过于正确"
-  - Alex的记忆与现实的差异
-  - 一个具体的"故障"瞬间
+## Narrative Techniques
+- **Perspective**: Third-person limited (Alex's perspective)
+- **Pacing**: Gradually accelerating, unease growing
+- **Suspense Setup**:
+  - Parents' reactions are "too correct"
+  - Discrepancy between Alex's memories and reality
+  - A specific "glitch" moment
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Alex的对话
-- 开始试探，用问题观察父母的反应
-- 示例："妈，你还记得我小时候摔倒那次吗？你当时哭了。"
-- 内心独白：*为什么她现在不会那样了？*
+### Alex's Dialogue
+- Beginning to probe, using questions to observe parents' reactions
+- Example: "Mom, do you remember when I fell as a kid? You cried then."
+- Inner monologue: *Why doesn't she do that anymore?*
 
-### 父母的对话
-- 继续完美，但Alex开始注意到"模板感"
-- 示例："那都是过去的事了，亲爱的。重要的是你现在好好的。"
-- 特点：回答总是"正确"，但缺少真实的情感波动
+### Parents' Dialogue
+- Continuing to be perfect, but Alex begins noticing the "template feel"
+- Example: "That's in the past, dear. What matters is you're okay now."
+- Characteristics: Answers are always "correct," but lack real emotional fluctuation
 
-## 与前章衔接
-- 延续第1章的微妙违和感
-- Alex的困惑从模糊变得具体
+## Connection to Previous Chapter
+- Continues the subtle sense of wrongness from Chapter 1
+- Alex's confusion shifts from vague to specific
 
-## 与后章铺垫
-- 埋下伏笔：Alex决定寻找证据
-- 留下悬念：她会如何发现真相？
-- 暗示未来：医疗记录的存在
+## Setup for Next Chapter
+- Plant Foreshadowing: Alex decides to look for evidence
+- Leave Suspense: How will she discover the truth?
+- Hint at Future: The existence of medical records
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." endings
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 让父母表现得像机器人
-- [ ] 过于明显的真相暗示
-- [ ] Alex的怀疑过于戏剧化
+### Other Prohibitions
+- [ ] Making parents behave like robots
+- [ ] Overly obvious truth hints
+- [ ] Alex's suspicion being too dramatic
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
+## Quality Checkpoints
+- [ ] AI trace detection (all passed)
+- [ ] Sensory detail detection (at least 5 items)
+- [ ] Emotional depth detection (three layers complete)
+- [ ] Character voice detection (uniqueness)
+- [ ] Narrative style detection (consistency)
+- [ ] Chapter transition detection (natural flow)
 
-## 章节结尾设计
-- **情绪**：不安
-- **悬念**：Alex决定寻找证据——她要找到真相
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下行动的动机，让读者期待下一章
+## Chapter Ending Design
+- **Emotion**: Unease
+- **Suspense**: Alex decides to look for evidence—she wants to find the truth
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave the motivation for action, make readers anticipate the next chapter

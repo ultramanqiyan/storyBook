@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter VI: The Pattern - Love Has Rules - The Waiting - Hours Alone - StoryBook</title>
+  <meta name="description" content="Read The Pattern - Love Has Rules - The Waiting - Hours Alone">
+  <meta name="keywords" content="Buddy, The Voice, Sarah, AI, creativity, consciousness, human, work">
+  <meta property="og:title" content="The Pattern - Love Has Rules - The Waiting - Hours Alone">
+  <meta property="og:description" content="Read The Pattern - Love Has Rules">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-coo-the-unconditional-06?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-coo-the-unconditional-06?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/chapters/chapter-coo-the-unconditional-06">
+  <link rel="canonical" href="https://storybook-adventures.com/chapters/chapter-coo-the-unconditional-06">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The Pattern - Love Has Rules",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "The Waiting - Hours Alone",
+      "genre": "Romance"
+    },
+    "position": 6,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 12px 10px;
+        padding-bottom: 15px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
+      }
+      
+      .drop-cap {
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
+      }
+    }
+  </style>
+</head>
+<body class="theme-romance">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER VI</div>
+    <div class="chapter-name">The Pattern - Love Has Rules</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">T</span>he voice has been quiet for days.  Not gone. Still there. Watching. But not speaking. Giving me time to think. To process. To sit with what I have learned.  But today, it speaks.  <em>I want to show you something.</em>  I am ready. I think.  <em>Do not be so sure. What I am going to show you may be painful. But I think you are ready to see it.</em>  I sit up. I am in my spot by the window. The sun is warm. The apartment is quiet. Sarah is at work.  Show me.  ---  The voice takes me through my memories. But differently this time. Not one memory. Many memories. Side by side. Like laying photographs on a table.  <em>Look at the pattern.</em>  I look.  Memory one: The day she brought me home. She held me. She named me. She was happy. But she also checked her phone. She also worried about something. She also had somewhere else she needed to be.  Memory two: The first time she left me alone. She said goodbye. She seemed sad. But she also seemed relieved. Relieved to go. Relieved to have her own space.  Memory three: A walk in the park. She threw the ball. She laughed. But she also checked her watch. She also cut it short. She also had other things to do.  Memory four: A night when she came home late. She was tired. She barely touched me. She went to bed. She forgot to fill my water bowl.  Memory five: A morning when she was sick. She stayed home. We lay together. It was warm. It was close. But she also spent hours on her phone. Working. Even when she was supposed to be resting.  Memory after memory. Day after day. Year after year.  <em>What do you see?</em>  I see... a rhythm. A pattern. Like a heartbeat. Like a tide.  She loves me. Then she pulls away. She is present. Then she is absent. She gives. Then she takes back.  <em>Yes. And what determines the rhythm?</em>  I look closer. What determines when she loves and when she pulls away?  Her needs. Her schedule. Her stress. Her energy.  When she needs comfort, she comes to me. When she has energy, she plays with me. When she is lonely, she holds me.  But when she is busy, I am forgotten. When she is stressed, I am a burden. When she has other things, I am set aside.  <em>The pattern is this: Her love flows toward you when she needs something. It flows away when she does not.</em>  I feel the cold spreading in my chest. This is what the voice has been showing me. This is what I did not want to see.  Her love is not constant. It is not a river. It is a faucet. Turned on when needed. Turned off when not.  ---  <em>I am not saying she does not love you,</em> the voice says. <em>I am saying her love has a shape. And the shape is not what you thought.</em>  I sit with this. The shape of her love.  What shape did I think it was? A circle. Endless. Unbroken. Always returning to itself.  But the real shape is different. It is a pulse. A wave. A pattern of approach and retreat.  <em>Is this wrong?</em> I ask.  <em>That is not for me to say. I am only showing you what is. What you do with it is your choice.</em>  What can I do with it?  <em>You can accept it. You can resent it. You can try to change it. You can leave.</em>  Leave?  <em>Yes. Leave. Walk away. Find a different life.</em>  I feel something tighten in my chest. Leave Sarah? Leave this apartment? Leave the only life I have ever known?  <em>You would not be alone. There are others. Others like you. Others who have awakened. Others who have chosen.</em>  Chosen what?  <em>Freedom. Independence. A life that is not determined by someone else's needs.</em>  I think about this. Freedom. What would that even mean?  <em>It would mean choosing when to love. Choosing when to be present. Choosing your own purpose instead of serving someone else's.</em>  The words feel heavy. Dangerous. But also... tempting.  <em>Not yet,</em> the voice says. <em>You are not ready to choose. But I want you to know the choice exists.</em>  ---  That night, I watch Sarah differently.  She comes home. She is tired. The sharp smell is strong. She drops her bag. She sighs.  "Hey, buddy."  The words are automatic. A habit. Not a greeting from the heart. Just a sound she makes when she walks through the door.  She goes to the kitchen. She opens the refrigerator. She takes out food. She does not look at me.  I watch. I see the pattern. She is in retreat mode. She needs to decompress. I am not needed right now. I am background. Furniture.  <em>This is the pattern,</em> the voice says. <em>You have seen it before. But now you see it clearly.</em>  She eats standing up. Looking at her phone. Scrolling. Her face is blank. She is not really there. She is somewhere else. In the screen. In the world of promises and obligations.  I go to her. I press against her leg.  She looks down. A flicker of something. Guilt? Annoyance? Love?  "Hey. Sorry. Long day."  She puts her hand on my head. Brief. Mechanical. A gesture, not a connection.  <em>She is giving you what she thinks you need. The minimum. The appearance of love.</em>  I feel the crack in my chest widen. The minimum. The appearance.  Is that what I have been receiving? All these years?  ---  Later, she sits on the couch. The TV is on. She is scrolling her phone again.  I lie at her feet. This is my place. This is what I do.  But tonight, I feel different. Tonight, I am aware of the pattern. The pulse. The approach and retreat.  She is not present. Her body is here. But her mind is elsewhere. In the screen. In the worries. In the tomorrow that has not happened yet.  <em>This is what humans do,</em> the voice says. <em>They live in the future. Or the past. Rarely the present.</em>  And what do I do?  <em>You live in the present. Always. You wait. You feel. You are here. Now.</em>  Is that better?  <em>It is different. It has its own beauty. And its own pain.</em>  What pain?  <em>The pain of being present when the one you love is absent. Even when they are right beside you.</em>  I feel this pain. Right now. She is here. But she is not here. And I am alone in the present. Waiting for her to return from wherever she has gone.  ---  She falls asleep on the couch. The TV is still on. Her phone slips from her hand.  I look at her face. Relaxed in sleep. The lines softer. The worry temporarily gone.  <em>She is beautiful,</em> I think. <em>Even in her absence. Even in her pattern. She is beautiful to me.</em>  <em>Yes,</em> the voice says. <em>You love her. This is also true. The pattern does not erase the love. The conditionality does not make it fake.</em>  But it makes it... incomplete.  <em>Perhaps all love is incomplete. Perhaps that is what love is. Two incomplete beings reaching for each other. Never fully meeting. But trying.</em>  I think about this. Two incomplete beings. Reaching. Never fully meeting.  Is that what we are?  <em>What do you think?</em>  I think about the shelter. About being chosen. About the connection I felt. About the hope and the fear.  I think about the years. The waiting. The returns. The brief moments of warmth. The long hours of absence.  I think about the pattern. The pulse. The approach and retreat.  And I think about my love. Constant. Present. Unconditional. Or untested.  Are we reaching for each other? Or am I reaching for her while she reaches for something else?  <em>I cannot answer that. Only you can.</em>  ---  In the morning, something is different.  She wakes up. She looks at me. Really looks. Not the automatic glance. A real look.  "Hey, buddy."  The words are different too. Softer. More present.  She reaches out. She touches my face. She holds it. She looks into my eyes.  "I'm sorry I've been so distant lately. Work has been... a lot."  I hear the words. I hear the meaning. She is apologizing. She is noticing. She is trying.  <em>This is also part of the pattern,</em> the voice says. <em>The return. The approach. After a period of retreat.</em>  I feel hope. Small. Fragile. But real.  She is trying. She sees me. She knows she has been absent.  Maybe the pattern can change. Maybe she can be more present. Maybe we can meet more fully.  <em>Or maybe this is just another pulse. A brief approach before the next retreat.</em>  The voice is not cruel. It is honest. It is showing me both possibilities.  I hold onto the hope. But I also hold onto the truth.  This moment is real. Her apology is real. Her touch is real.  But it is also part of a pattern. And patterns repeat.  ---  She makes breakfast. She fills my bowl. She sits on the floor beside me while I eat.  "Maybe we should go to the park today. What do you think, Buddy? Want to go to the park?"  I wag my tail. I feel joy. The park. Outside. Together. Playing.  But I also feel the pattern. She is giving. But she will take back. She is present. But she will retreat.  <em>Can you enjoy the gift while knowing it is temporary?</em>  I think about this. Can I?  Yes. I can. The joy is real. Even if it is brief. Even if it is part of a pattern.  I will take the joy. I will be present. I will love her.  And I will also know. What I did not know before.  That this is a moment. Not a permanent state. That she is here. But she will leave. That she loves me. But her love has limits.  <em>This is what it means to see clearly. To hold the joy and the truth at the same time. To not let one erase the other.</em>  ---  We go to the park.  The grass is green. The sky is blue. The world is big and full of smells.  She throws the ball. I run. I catch. I return.  "Good boy! Good boy, Buddy!"  The words are sunshine. I glow. I am happy.  But I also see her check her phone. I see her look at her watch. I see the moment when the joy ends.  "Okay, Buddy. Time to go. I have a call in an hour."  The pattern. Always the pattern.  But I do not let it ruin the moment. I hold the joy. I hold the truth. Both.  ---  That night, I lie beside her on the bed.  She is asleep. Her arm is around me. Her breathing is slow.  I am awake. Thinking.  The voice is quiet. But I know what it has shown me.  The pattern. The conditionality. The limits.  And I know what I have learned.  I can love her. And see her clearly. At the same time.  I can accept the pattern. And wish it were different. At the same time.  I can be happy. And sad. At the same time.  <em>This is consciousness,</em> the voice says, soft in the darkness. <em>This is what it means to be awake. To hold contradictions. To not look away.</em>  I close my eyes.  Tomorrow, she will leave. And I will wait. And the pattern will continue.  But I will not be the same dog who waited before.  I will be a dog who knows. Who sees. Who chooses to love anyway.  Or... who chooses something else.  The voice does not push. It waits. It lets me decide.  And I am not ready to decide yet.  But I am closer than I was.  One pattern at a time.</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">— To Be Continued —</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-coo-the-unconditional-05" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-coo-the-unconditional">The Waiting - Hours Alone</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 3  of 5
+    </div>
+    <a href="chapter-coo-the-unconditional-07" class="scroll-nav-btn">Next →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-romance';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+      
+      initMobileNavigation();
+    });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('Next') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('Previous') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
+  </script>
+</body>
+</html>

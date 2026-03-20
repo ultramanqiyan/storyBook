@@ -1,122 +1,122 @@
-# Chapter 3 规格：The Stimulation Trap
+# Chapter 3 Specification: The Stimulation Trap
 
-## 章节定位
-- **作用**：刺激效果开始减弱，困惑开始——问题的萌芽
-- **情绪曲线**：期待 → 困惑 → 焦虑
-- **与整体故事的关系**：第一个转折点，问题开始显现
+## Chapter Positioning
+- **Purpose**: Stimulation effects begin to weaken, confusion begins—the seed of the problem
+- **Emotional Arc**: Anticipation → Confusion → Anxiety
+- **Relationship to Overall Story**: First turning point, problem begins to emerge
 
-## 核心事件
-1. 重复体验：Leo再次体验之前让他满足的内容（期待）
-2. 效果减弱：他发现刺激效果不如之前（困惑）
-3. 开始质疑：他开始思考为什么（焦虑）
+## Core Events
+1. Repeated experience: Leo experiences the content that previously satisfied him again (anticipation)
+2. Diminished effect: He discovers the stimulation effect is not as strong as before (confusion)
+3. Beginning to question: He starts thinking about why (anxiety)
 
-## 双线结构
+## Dual Narrative Structure
 
-### 现实线
-- Leo再次体验之前的高刺激内容
-- 他发现效果减弱
-- 他尝试其他内容，发现同样的问题
-- 他开始寻找答案
+### Reality Thread
+- Leo experiences the previous high-stimulation content again
+- He discovers the effect has diminished
+- He tries other content, finds the same problem
+- He starts looking for answers
 
-### 内心线
-- *这应该很棒。为什么感觉不一样了？*
-- *是我累了？还是设备有问题？*
-- *为什么刺激效果减弱了？*
+### Internal Thread
+- *This should be great. Why does it feel different?*
+- *Am I tired? Is there something wrong with the device?*
+- *Why is the stimulation effect diminishing?*
 
-## 角色状态
+## Character Status
 
 ### Leo
-- **心理状态**：困惑、焦虑、开始质疑
-- **行为动机**：理解为什么刺激不再有效
-- **情感层次**：
-  - 表面：困惑、尝试各种内容
-  - 内心：*为什么？为什么感觉不一样了？*
-  - 深层：害怕失去快乐的来源
+- **Psychological State**: Confusion, anxiety, beginning to question
+- **Behavioral Motivation**: Understand why stimulation no longer works
+- **Emotional Layers**:
+  - Surface: Confusion, trying various content
+  - Inner: *Why? Why does it feel different?*
+  - Deep: Fear of losing the source of happiness
 
-## 情感基调
-- **整体氛围**：困惑、不安
-- **情感变化**：
-  - 开头：期待
-  - 中间：困惑
-  - 结尾：焦虑
+## Emotional Tone
+- **Overall Atmosphere**: Confusion, unease
+- **Emotional Shifts**:
+  - Beginning: Anticipation
+  - Middle: Confusion
+  - End: Anxiety
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 同样的内容，但感觉不那么震撼了
-- 虚拟世界的色彩似乎没那么鲜艳了
-- 现实世界的对比——更加暗淡
+### Visual
+- Same content, but feels less shocking
+- Colors in virtual world seem less vivid
+- Contrast with real world—even dimmer
 
-### 听觉
-- 同样的音乐，但感觉不那么动听了
-- 虚拟世界的声音似乎没那么震撼了
-- 自己的心跳——焦虑的开始
+### Auditory
+- Same music, but feels less moving
+- Sounds in virtual world seem less shocking
+- Own heartbeat—beginning of anxiety
 
-### 触觉
-- 同样的体验，但刺激感减弱
-- 设备的感觉——开始怀疑设备有问题
-- 身体的反应——不如之前强烈
+### Tactile
+- Same experience, but stimulation feels weaker
+- Feeling of device—beginning to suspect device problems
+- Body's response—not as intense as before
 
-### 味觉
-- 同样的虚拟食物，但味道似乎淡了
-- 现实中的食物——更加无味
+### Gustatory
+- Same virtual food, but taste seems bland
+- Real food—even more tasteless
 
-### 内在感受
-- 刺激带来的快感——减弱了
-- 困惑和焦虑——新的感受
-- 恐惧——害怕失去快乐的来源
+### Internal Sensation
+- Pleasure from stimulation—diminished
+- Confusion and anxiety—new feelings
+- Fear—afraid of losing the source of happiness
 
-## 叙事技巧
-- **视角**：第三人称限制（Leo视角）
-- **节奏**：开始正常，逐渐变得焦虑
-- **悬念设置**：
-  - 为什么刺激效果减弱了？
-  - Leo会怎么做？
+## Narrative Techniques
+- **Perspective**: Third person limited (Leo's perspective)
+- **Pacing**: Beginning normal, gradually becoming anxious
+- **Suspense Setup**:
+  - Why is the stimulation effect diminishing?
+  - What will Leo do?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Leo的对话
-- 困惑和质疑的语言
-- 示例："奇怪，这个之前感觉很棒的。"
-- 内心独白：*为什么？为什么感觉不一样了？*
+### Leo's Dialogue
+- Language of confusion and questioning
+- Example: "Strange, this felt great before."
+- Inner monologue: *Why? Why does it feel different?*
 
-## 与前章衔接
-- 延续第2章的满足
-- 展示满足后的变化
+## Connection to Previous Chapter
+- Continue the satisfaction from Chapter 2
+- Show the change after satisfaction
 
-## 与后章铺垫
-- 埋下伏笔：刺激阈值在提高
-- 留下悬念：Leo会寻找更强的刺激吗？
-- 暗示未来：追逐的开始
+## Setup for Next Chapter
+- Plant Foreshadowing: Stimulation threshold is rising
+- Leave Suspense: Will Leo look for stronger stimulation?
+- Hint at Future: The beginning of the chase
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." ending
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于科幻的技术描述
-- [ ] 道德说教
-- [ ] 让Leo太快"觉醒"
+### Other Prohibitions
+- [ ] Overly sci-fi technical descriptions
+- [ ] Moral preaching
+- [ ] Letting Leo "awaken" too quickly
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
-- [ ] 双线结构检测（现实线与内心线交织）
+## Quality Checkpoints
+- [ ] AI Trace Detection (all passed)
+- [ ] Sensory Detail Detection (at least 5 items)
+- [ ] Emotional Depth Detection (three layers complete)
+- [ ] Character Voice Detection (uniqueness)
+- [ ] Narrative Style Detection (consistency)
+- [ ] Chapter Transition Detection (natural flow)
+- [ ] Dual Structure Detection (reality thread and internal thread interwoven)
 
-## 章节结尾设计
-- **情绪**：焦虑
-- **悬念**：Leo决定寻找更强的刺激——*一定有更强的。我需要找到它。*
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下追逐的动机，让读者想知道他会怎么做
+## Chapter Ending Design
+- **Emotion**: Anxiety
+- **Suspense**: Leo decides to look for stronger stimulation—*There must be something stronger. I need to find it.*
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave the motivation for the chase, make readers want to know what he will do

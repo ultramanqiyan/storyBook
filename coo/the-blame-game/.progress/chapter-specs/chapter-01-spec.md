@@ -1,120 +1,119 @@
-# Chapter 1 规格：The Blame Game
+# Chapter 1 Specification: The Blame Game
 
-## 章节定位
-- **作用**：事故发生，损失曝光，紧急会议召开
-- **情绪曲线**：平静 → 震惊 → 恐慌
-- **与整体故事的关系**：建立危机背景，展示Mark的日常工作
+## Chapter Positioning
+- **Purpose**: The incident occurs, losses exposed, emergency meeting called
+- **Emotional Arc**: Calm → Shock → Panic
+- **Relationship to Overall Story**: Establish crisis background, show Mark's daily work
 
-## 核心事件
-1. 日常工作：Mark在审核AI代码，展示他的工作流程（平静）
-2. 事故发生：交易系统出现异常，损失开始累积（震惊）
-3. 紧急会议：被叫进会议室，所有人都在（恐慌）
+## Core Events
+1. Daily work: Mark is reviewing AI code, showing his workflow (calm)
+2. Incident occurs: Trading system shows anomaly, losses start accumulating (shock)
+3. Emergency meeting: Called into conference room, everyone is there (panic)
 
-## 角色状态
+## Character Status
 
 ### Mark
-- **心理状态**：从平静到震惊到恐慌
-- **行为动机**：理解发生了什么，保护自己
-- **情感层次**：
-  - 表面：保持冷静，问"what happened?"
-  - 内心：*Is this my fault? Did I miss something?*
-  - 深层：害怕成为替罪羊
+- **Psychological State**: From calm to shock to panic
+- **Behavioral Motivation**: Understand what happened, protect himself
+- **Emotional Layers**:
+  - Surface: Maintaining calm, asking "what happened?"
+  - Inner: *Is this my fault? Did I miss something?*
+  - Deep: Fear of becoming the scapegoat
 
 ### David Morrison
-- **心理状态**：表面冷静，实则已经在计算
-- **行为模式**：主持会议，记录每个人的反应
-- **情感层次**：
-  - 表面：专业、冷静、"Let's understand what happened"
-  - 内心：*I need to document everything*
+- **Psychological State**: Surface calm, actually calculating
+- **Behavioral Pattern**: Chairing the meeting, recording everyone's reactions
+- **Emotional Layers**:
+  - Surface: Professional, calm, "Let's understand what happened"
+  - Inner: *I need to document everything*
 
-## 情感基调
-- **整体氛围**：从日常平静到突如其来的危机
-- **情感变化**：
-  - 开头：平静、日常
-  - 中间：震惊、混乱
-  - 结尾：恐慌、防御
+## Emotional Tone
+- **Overall Atmosphere**: Tense, oppressive
+- **Emotional Shifts**:
+  - Beginning: Calm
+  - Middle: Shock
+  - End: Panic
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 屏幕上红色的数字——损失金额不断跳动
-- 会议室里同事们的表情——震惊、恐惧、计算
-- David的笔记本——他在记录什么
+### Visual
+- Cold light in the conference room
+- Numbers on screens—losses climbing
+- Colleagues' expressions—some pale, some avoiding eye contact
 
-### 听觉
-- 交易系统的警报声
-- 会议室的沉默——没人敢先说话
-- David的笔在纸上划过的声音
+### Auditory
+- Silence in the conference room
+- Keyboard clicking—someone still working
+- Phone ringing—legal department calling
 
-### 触觉
-- Mark手心的汗
-- 椅子的硬度——他坐立不安
-- 手机在口袋里震动——消息不断进来
+### Tactile
+- Sweaty palms
+- Hardness of the chair
+- Texture of documents in hand
 
-### 嗅觉
-- 会议室的空调味——干燥、冷
-- 咖啡的苦味——有人打翻了咖啡
+### Olfactory
+- Office coffee smell
+- Dry air from air conditioning
 
-### 味觉
-- 口干——紧张
-- 苦涩——嘴里的味道
+### Gustatory
+- Bitter coffee
+- Dry mouth when nervous
 
-## 叙事技巧
-- **视角**：第三人称限制（Mark视角）
-- **节奏**：开始缓慢，事故后加速
-- **悬念设置**：
-  - 到底发生了什么？
-  - 谁的责任？
-  - Mark会怎样？
+## Narrative Techniques
+- **Perspective**: Third-person limited (Mark's perspective)
+- **Pacing**: Fast, tense
+- **Suspense Setup**:
+  - Who is responsible?
+  - What will happen to Mark?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Mark的对话
-- 开始平静，逐渐紧张
-- 示例："Can someone explain what's happening?"
-- 内心独白：*Stay calm. Don't say anything that could be used against you.*
+### Mark's Dialogue
+- Professional language, but with internal panic
+- Example: "Can someone explain what happened?"
+- Inner monologue: *This can't be my fault. I followed all the procedures.*
 
-### David的对话
-- 冷静、专业、记录性
-- 示例："Let's go around the room. I want everyone to state what they know."
-- 特点：每个问题都在收集信息
+### David's Dialogue
+- Professional, calm, but with underlying calculation
+- Example: "Let's get all the facts before we draw conclusions."
+- Characteristics: Every sentence is "on the record"
 
-## 与前章衔接
-- 无（第一章）
+## Connection to Previous Chapter
+- None (Chapter 1)
 
-## 与后章铺垫
-- 埋下伏笔：David在记录每个人的话
-- 留下悬念：Mark在会议上说了什么？
-- 暗示未来：书面记录的重要性
+## Setup for Next Chapter
+- Plant foreshadowing: David is already collecting evidence
+- Leave suspense: Will Mark become the scapegoat?
+- Hint at future: The blame game is about to begin
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." endings
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 使用真实公司名称
-- [ ] 过于技术化的描述
-- [ ] 不符合欧美职场的对话
+### Other Prohibitions
+- [ ] Using real company names
+- [ ] Overly dramatic dialogue
+- [ ] Plot elements inconsistent with real Western workplace situations
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
-- [ ] 职场真实性检测
+## Quality Checkpoints
+- [ ] AI trace detection (all passed)
+- [ ] Sensory detail detection (at least 3 items)
+- [ ] Emotional depth detection (three layers complete)
+- [ ] Character voice detection (uniqueness)
+- [ ] Narrative style detection (consistency)
+- [ ] Chapter transition detection (natural flow)
+- [ ] Workplace authenticity detection (consistent with Western workplace)
 
-## 章节结尾设计
-- **情绪**：恐慌
-- **悬念**：会议结束，David说"We'll need to investigate"
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下不安，让读者想知道接下来会发生什么
+## Chapter Ending Design
+- **Emotion**: Panic
+- **Suspense**: Mark realizes he might be blamed—but he's not sure yet
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave the fear of the unknown, make readers want to know what happens next

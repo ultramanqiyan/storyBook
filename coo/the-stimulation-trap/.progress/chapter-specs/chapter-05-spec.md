@@ -1,127 +1,127 @@
-# Chapter 5 规格：The Stimulation Trap
+# Chapter 5 Specification: The Stimulation Trap
 
-## 章节定位
-- **作用**：追逐刺激的代价——金钱、时间、关系
-- **情绪曲线**：满足 → 焦虑 → 压力
-- **与整体故事的关系**：展示追逐的代价
+## Chapter Positioning
+- **Purpose**: The cost of pursuing stimulation—money, time, relationships
+- **Emotional Arc**: Satisfaction → Anxiety → Pressure
+- **Relationship to Overall Story**: Show the cost of the chase
 
-## 核心事件
-1. 体验新刺激：Leo体验了更强的刺激，感到满足（满足）
-2. 代价显现：金钱减少、工作受影响、关系疏远（焦虑）
-3. 压力增加：他开始感受到追逐的压力（压力）
+## Core Events
+1. Experience New Stimulation: Leo experiences stronger stimulation, feels satisfied (Satisfaction)
+2. Cost Appears: Money decreases, work affected, relationships strained (Anxiety)
+3. Pressure Increases: He begins to feel the pressure of the chase (Pressure)
 
-## 双线结构
+## Dual Narrative Structure
 
-### 现实线
-- Leo体验新的高刺激内容
-- 他的银行账户在减少
-- 他的工作开始受影响——迟到、效率下降
-- 他的家人/朋友开始抱怨他的疏远
+### Reality Thread
+- Leo experiences new high-stimulation content
+- His bank account is decreasing
+- His work starts to be affected—late, efficiency dropping
+- His family/friends start complaining about his distance
 
-### 内心线
-- *这感觉真好。我需要这个。*
-- *我知道代价。但我不在乎。*
-- *他们不理解。他们不知道这种感觉有多好。*
+### Internal Thread
+- *This feels so good. I need this.*
+- *I know the cost. But I don't care.*
+- *They don't understand. They don't know how good this feels.*
 
-## 角色状态
+## Character Status
 
 ### Leo
-- **心理状态**：满足、焦虑、压力
-- **行为动机**：继续追逐刺激，忽视代价
-- **情感层次**：
-  - 表面：继续追逐，忽视问题
-  - 内心：*我知道代价。但我不在乎。*
-  - 深层：害怕失去刺激，害怕面对现实
+- **Psychological State**: Satisfaction, anxiety, pressure
+- **Behavioral Motivation**: Continue chasing stimulation, ignore the cost
+- **Emotional Layers**:
+  - Surface: Continue chasing, ignore problems
+  - Inner: *I know the cost. But I don't care.*
+  - Deep: Fear of losing stimulation, fear of facing reality
 
-## 情感基调
-- **整体氛围**：满足与代价并存
-- **情感变化**：
-  - 开头：满足
-  - 中间：焦虑
-  - 结尾：压力
+## Emotional Tone
+- **Overall Atmosphere**: Satisfaction and cost coexist
+- **Emotional Shifts**:
+  - Beginning: Satisfaction
+  - Middle: Anxiety
+  - End: Pressure
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 新刺激的绚烂——满足
-- 银行账户的数字——焦虑
-- 工作/生活中的问题——压力
+### Visual
+- The brilliance of new stimulation—satisfaction
+- Numbers in bank account—anxiety
+- Problems in work/life—pressure
 
-### 听觉
-- 新刺激的声音——震撼
-- 家人/朋友的抱怨——压力
-- 自己的心跳——焦虑
+### Auditory
+- Sounds of new stimulation—shocking
+- Complaints from family/friends—pressure
+- Own heartbeat—anxiety
 
-### 触觉
-- 新刺激的体验——满足
-- 压力的身体感受——紧张、疲惫
-- 设备的重量——依赖
+### Tactile
+- Experience of new stimulation—satisfaction
+- Physical sensation of pressure—tension, exhaustion
+- Weight of device—dependency
 
-### 味觉
-- 新刺激中的虚拟食物——完美
-- 现实中的食物——无味，因为没时间/钱
-- 压力的味道——苦涩
+### Gustatory
+- Virtual food in new stimulation—perfect
+- Real food—tasteless, because no time/money
+- Taste of pressure—bitter
 
-### 内在感受
-- 刺激带来的快感——满足
-- 代价的压力——焦虑
-- 对刺激的渴望——压倒一切
+### Internal Sensation
+- Pleasure from stimulation—satisfaction
+- Pressure of cost—anxiety
+- Craving for stimulation—overwhelming
 
-## 叙事技巧
-- **视角**：第三人称限制（Leo视角）
-- **节奏**：满足与代价交织
-- **悬念设置**：
-  - Leo能继续这样下去吗？
-  - 代价会变得多大？
+## Narrative Techniques
+- **Perspective**: Third person limited (Leo's perspective)
+- **Pacing**: Satisfaction and cost interwoven
+- **Suspense Setup**:
+  - Can Leo continue like this?
+  - How big will the cost become?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Leo的对话
-- 忽视代价的语言
-- 示例："我没事。只是最近有点忙。"
-- 内心独白：*我知道代价。但我不在乎。*
+### Leo's Dialogue
+- Language of ignoring cost
+- Example: "I'm fine. Just been busy lately."
+- Inner monologue: *I know the cost. But I don't care.*
 
-### 家人/朋友的对话
-- 关心和抱怨的语言
-- 示例："你最近怎么都不联系我们了？"
+### Family/Friends Dialogue
+- Language of concern and complaint
+- Example: "Why haven't you been in touch lately?"
 
-## 与前章衔接
-- 延续第4章的追逐
-- 展示追逐的代价
+## Connection to Previous Chapter
+- Continues the chase from Chapter 4
+- Shows the cost of the chase
 
-## 与后章铺垫
-- 埋下伏笔：代价会继续增加
-- 留下悬念：Leo能承受多大的代价？
-- 暗示未来：追逐会变得更加极端
+## Setup for Next Chapter
+- Plant Foreshadowing: The cost will continue to increase
+- Leave Suspense: How much cost can Leo bear?
+- Hint at Future: The chase will become more extreme
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." ending
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于科幻的技术描述
-- [ ] 道德说教
-- [ ] 让Leo太快"觉醒"
+### Other Prohibitions
+- [ ] Overly sci-fi technical descriptions
+- [ ] Moral preaching
+- [ ] Letting Leo "awaken" too quickly
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
-- [ ] 双线结构检测（现实线与内心线交织）
+## Quality Checkpoints
+- [ ] AI Trace Detection (all pass)
+- [ ] Sensory Detail Detection (at least 5 items)
+- [ ] Emotional Depth Detection (three layers complete)
+- [ ] Character Voice Detection (uniqueness)
+- [ ] Narrative Style Detection (consistency)
+- [ ] Chapter Transition Detection (natural and smooth)
+- [ ] Dual Structure Detection (reality and internal threads interwoven)
 
-## 章节结尾设计
-- **情绪**：压力
-- **悬念**：Leo感受到压力，但他决定继续——*我需要更多。*
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下追逐的决心，让读者想知道他会走到哪一步
+## Chapter Ending Design
+- **Emotion**: Pressure
+- **Suspense**: Leo feels the pressure, but decides to continue—*I need more.*
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave the determination to chase, make readers want to know how far he will go

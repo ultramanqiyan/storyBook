@@ -66,98 +66,345 @@ coo/[book-name]/
 
 ### 阶段二：书籍规格设计
 
+> ⚠️ **强制要求**：书籍规格文档必须使用**全英文**。请使用下面的英文模板创建规格文档。
+
 #### 步骤 2.1：创建书籍规格文档
 
 **文件：** `.progress/book-spec.md`
 
-**必须包含的章节：**
+> 📌 **完整模板文件位置**：`coo/.templates/book-spec-template.md`
+
+**必须包含的章节（英文模板）：**
 
 ```markdown
-# 书籍规格：[Book Name]
+# Book Specification: [Book Title]
 
-## 基本信息
-- 书名：[Book Name]
-- 类型：[Genre]
-- 目标读者：[Target Audience]
-- 主题：[Core Theme]
+> **Template Version**: 1.0
+> **Last Updated**: 2026-03-20
+> **Language**: English (US)
 
-## 叙事风格
-- 视角：[POV Type]
-- 语言风格：[Language Style]
-- 句式特点：[Sentence Characteristics]
-- 独特元素：[Unique Elements]
+---
 
-## 情感基调
-- 整体氛围：[Overall Atmosphere]
-- 情感曲线：[Emotional Arc]
-- 情感变化节奏：[Pacing]
+## 1. Basic Information
 
-## 角色声音
-### [Character 1]（主角）
-- 说话特点：[Speech Pattern]
-- 用词习惯：[Vocabulary]
-- 性格特征：[Personality]
-- 内心独白风格：[Inner Monologue Style]
-- 独特表达：[Unique Expressions]
+| Field | Value |
+|-------|-------|
+| **Title** | [Full book title] |
+| **Genre** | [Primary genre / Secondary genre] |
+| **Target Readers** | [Demographics: age, interests, reading level] |
+| **Core Themes** | [2-3 main themes, comma-separated] |
+| **Word Count Target** | [Approximate total word count] |
+| **Chapter Count** | [Number of chapters] |
 
-### [Character 2]（重要角色）
-[同上格式]
+---
 
-## 主题深度
-- 核心主题：[Core Theme]
-- 哲学探讨：[Philosophical Questions]
-- 现实隐喻：[Real-world Metaphors]
+## 2. Narrative Style
 
-## 世界观设定
-- [Setting 1]：[Description]
-- [Setting 2]：[Description]
+### 2.1 Perspective
+- **Point of View**: [First-person / Third-person limited / Third-person omniscient]
+- **POV Character(s)**: [Main perspective character(s)]
+- **POV Consistency**: [Single / Multiple / Shifting]
 
-## 感官细节要求
-每章必须包含以下至少3类感官细节：
-- 视觉：[Requirements]
-- 听觉：[Requirements]
-- 触觉：[Requirements]
-- 嗅觉：[Requirements]
-- 味觉：[Requirements]
+### 2.2 Narrative Structure
+- **Dual Structure**: [Yes / No]
+- **If Yes - Structure Type**: [Reality line + Inner line / Past + Present / Other]
+- **Interweaving Method**: [How the two lines connect and transition]
 
-## 情感深度设计
-每个情感节点需要包含三个层次：
-1. 表面反应 - 外在行为
-2. 内心活动 - 思考过程
-3. 深层动机 - 为什么这样反应
+### 2.3 Language Style
+- **Overall Tone**: [Descriptive adjectives: e.g., "contemporary, accessible prose with philosophical elements"]
+- **Sentence Characteristics**: [Length, complexity, rhythm patterns]
+- **Vocabulary Level**: [Simple / Moderate / Complex / Mixed]
+- **Unique Stylistic Elements**: [Specific techniques that define this book's voice]
 
-## 禁止事项
-### AI写作模式（必须避免）
-- "And somewhere..."结尾
-- "Neither of them knew..."
-- "will never be the same"
-- "just the beginning"
-- Rule of Three结构
-- 抽象情感描述
-- 模板化对话
-- 重复句式结构
+### 2.4 Distinctive Features
+- **What Makes This Book Unique**: [1-2 sentences on unique selling point]
+- **Comparative Titles**: [Similar books in style or theme]
 
-### 其他禁止
-- [Other Prohibitions]
+---
 
-## 开放式结尾设计（第10章）
-- 未解决问题：[Unresolved Issues]
-- 新悬念：[New Mysteries]
-- 角色新起点：[Character New Beginnings]
-- 留给读者想象：[Reader Imagination Points]
+## 3. Emotional Tone (Quantified)
 
-## 质量检查标准
-每章完成后必须通过以下检查：
-1. AI痕迹检测（全部通过）
-2. 感官细节检测（至少3项）
-3. 情感深度检测（三层完整）
-4. 角色声音检测（独特性）
-5. 叙事风格检测（一致性）
-6. 章节衔接检测（自然流畅）
+### 3.1 Overall Atmosphere
+**Primary Emotions**: [List 3-5 dominant emotions throughout the book]
+
+### 3.2 Emotional Arc
+```
+Chapter Distribution:
+Chapters 1-3: [Initial emotional state]
+Chapters 4-6: [Developing emotional state]
+Chapters 7-8: [Intensifying emotional state]
+Chapters 9-10: [Climax and resolution emotional state]
+```
+
+### 3.3 Emotional Pacing
+| Phase | Chapters | Pacing | Description |
+|-------|----------|--------|-------------|
+| Setup | 1-2 | [Slow/Medium/Fast] | [Description] |
+| Rising | 3-5 | [Slow/Medium/Fast] | [Description] |
+| Climax | 6-8 | [Slow/Medium/Fast] | [Description] |
+| Resolution | 9-10 | [Slow/Medium/Fast] | [Description] |
+
+---
+
+## 4. Character Voices (Detailed)
+
+### 4.1 Protagonist
+
+#### [Character Name]
+| Attribute | Description |
+|-----------|-------------|
+| **Occupation** | [Job/Role] |
+| **Age** | [Age range] |
+| **Speaking Style** | [Formal/Informal, vocabulary level, speech patterns] |
+| **Word Choice** | [High-frequency words, signature phrases] |
+| **Sentence Patterns** | [Short/Long, fragmented/complete, questions/statements ratio] |
+| **Personality Traits** | [3-5 core traits] |
+| **Inner Monologue Style** | [How they think: analytical, emotional, fragmented, etc.] |
+| **Unique Expressions** | [Specific phrases or speech habits unique to this character] |
+| **Speech Quirks** | [Stutters, pauses, fillers, accent markers] |
+
+### 4.2 Supporting Characters
+
+#### [Character Name]
+[Same structure as protagonist]
+
+#### [Character Name]
+[Same structure as protagonist]
+
+### 4.3 Antagonist (if applicable)
+
+#### [Character Name]
+[Same structure, plus:]
+- **Motivation**: [What drives their opposition]
+- **Conflict Style**: [How they create conflict]
+
+---
+
+## 5. Thematic Depth
+
+### 5.1 Core Themes
+1. **[Theme 1]**: [Brief description]
+2. **[Theme 2]**: [Brief description]
+3. **[Theme 3]**: [Brief description, if applicable]
+
+### 5.2 Philosophical Exploration
+| Question | Exploration Approach |
+|----------|---------------------|
+| [Question 1] | [How the book explores this] |
+| [Question 2] | [How the book explores this] |
+| [Question 3] | [How the book explores this] |
+
+### 5.3 Real-World Metaphors
+| Book Element | Real-World Parallel |
+|--------------|---------------------|
+| [Element 1] | [What it represents] |
+| [Element 2] | [What it represents] |
+| [Element 3] | [What it represents] |
+
+---
+
+## 6. World Building
+
+### 6.1 Setting
+| Aspect | Details |
+|--------|---------|
+| **Time Period** | [Era/Year/General timeframe] |
+| **Primary Location** | [City/Region/World] |
+| **Environment** | [Urban/Rural/Space/Virtual/etc.] |
+| **Social Context** | [Relevant social/political climate] |
+
+### 6.2 Technology/Society (if applicable)
+- **Key Technologies**: [List relevant technologies]
+- **Social Structure**: [Class system, organizations, power dynamics]
+- **Cultural Norms**: [What is considered normal in this world]
+
+### 6.3 World Rules
+1. **[Rule 1]**: [Description and implications]
+2. **[Rule 2]**: [Description and implications]
+3. **[Rule 3]**: [Description and implications]
+
+---
+
+## 7. Sensory Detail Requirements (Quantified)
+
+### 7.1 Required Sensory Types
+Each chapter MUST include sensory details from at least **3 different categories**:
+
+| Sense | Specific Types | Example |
+|-------|---------------|---------|
+| **Visual** | [Colors, light, shadows, shapes, movements] | "The screen glowed blue-white in the dark room" |
+| **Auditory** | [Volume, pitch, rhythm, source, quality] | "The fan whirred in irregular bursts" |
+| **Tactile** | [Temperature, texture, pressure, pain, pleasure] | "The keyboard keys felt sticky with use" |
+| **Olfactory** | [Scents, smells, memory associations] | "The air carried stale coffee and ozone" |
+| **Gustatory** | [Tastes, textures, aftertastes] | "The coffee tasted burnt, like old regrets" |
+| **Internal** | [Physical sensations: heartbeat, breathing, tension] | "His chest tightened with each notification" |
+
+### 7.2 Quantified Standards
+- **Minimum per chapter**: 5 sensory details
+- **Minimum categories per chapter**: 3
+- **Distribution target**: Visual (40%), Others (60% combined)
+
+### 7.3 Sensory Detail Functions
+Each sensory detail should serve one or more functions:
+- [ ] Establish atmosphere
+- [ ] Reveal character state
+- [ ] Advance plot
+- [ ] Create contrast (virtual vs. real, past vs. present)
+- [ ] Trigger memory
+
+---
+
+## 8. Emotional Depth Design (Three-Layer Model)
+
+Every significant emotional moment must include all three layers:
+
+### 8.1 Layer Structure
+| Layer | Name | Content | Example |
+|-------|------|---------|---------|
+| **Layer 1** | Surface Reaction | External behavior, visible actions | "He closed the laptop" |
+| **Layer 2** | Internal Activity | Thought process, inner dialogue | "*Another day wasted. But what else is there?*" |
+| **Layer 3** | Deep Motivation | Underlying fears, desires, beliefs | "Fear of the silence that comes when the noise stops" |
+
+### 8.2 Implementation Checklist
+For each emotional beat:
+- [ ] Layer 1 is clearly shown (not told)
+- [ ] Layer 2 reveals unique character voice
+- [ ] Layer 3 connects to character arc or theme
+- [ ] All three layers are distinct but connected
+
+---
+
+## 9. Prohibited Elements (Explicit List)
+
+### 9.1 AI Writing Patterns (STRICTLY FORBIDDEN)
+These phrases and patterns must be completely eliminated:
+
+| Pattern | Example | Replacement Strategy |
+|---------|---------|---------------------|
+| Vague location endings | "And somewhere..." | Specific location: "In the server room three floors below..." |
+| Omniscient foreshadowing | "Neither of them knew..." | Character's intuition: "She felt a chill but couldn't say why..." |
+| Cliché transitions | "will never be the same" | Specific change: "The notification tone sounded different after that" |
+| False beginnings | "just the beginning" | Concrete continuation: "Three more messages arrived before noon" |
+| Rule of Three | "It was X, it was Y, it was Z" | Varied structure with specific details |
+| Abstract emotions | "He felt sad" | Physical manifestation: "His shoulders dropped. He didn't reach for his coffee." |
+| Template dialogue | "What do you mean?" / "You know what I mean" | Subtext-rich alternatives |
+| Repetitive structures | Similar sentence openings | Varied rhythm and structure |
+| Overused conjunctions | "Moreover", "Furthermore", "In addition" | Direct connection or implication |
+| Generic descriptions | "The room was nice" | Specific, character-relevant details |
+
+### 9.2 Narrative Prohibitions
+- [ ] Simple moral preaching (show complexity instead)
+- [ ] Excessive technical descriptions (maintain accessibility)
+- [ ] Protagonist suddenly "awakening" to solve problems (gradual growth only)
+- [ ] Giving readers simple answers (leave room for interpretation)
+- [ ] Deus ex machina resolutions
+- [ ] Perfect character consistency (allow realistic contradictions)
+
+### 9.3 Dialogue Prohibitions
+- [ ] Direct statement of emotions ("I feel sad about...")
+- [ ] Over-explanation ("The reason I'm doing this is...")
+- [ ] Perfect responses (characters always say the right thing)
+- [ ] Uninterrupted speeches (use action beats, interruptions)
+- [ ] Immediate understanding (characters should misunderstand each other)
+
+---
+
+## 10. Chapter Outline
+
+### 10.1 Chapter Summary Table
+| Chapter | Title | Purpose | Emotional Arc | Key Events |
+|---------|-------|---------|---------------|------------|
+| 01 | [Title] | [Purpose] | [Arc] | [Events] |
+| 02 | [Title] | [Purpose] | [Arc] | [Events] |
+| 03 | [Title] | [Purpose] | [Arc] | [Events] |
+| 04 | [Title] | [Purpose] | [Arc] | [Events] |
+| 05 | [Title] | [Purpose] | [Arc] | [Events] |
+| 06 | [Title] | [Purpose] | [Arc] | [Events] |
+| 07 | [Title] | [Purpose] | [Arc] | [Events] |
+| 08 | [Title] | [Purpose] | [Arc] | [Events] |
+| 09 | [Title] | [Purpose] | [Arc] | [Events] |
+| 10 | [Title] | [Purpose] | [Arc] | [Events] |
+
+### 10.2 Chapter Connection Map
+```
+[Visual representation of how chapters connect]
+Chapter 1 → Chapter 2: [Connection type]
+Chapter 2 → Chapter 3: [Connection type]
+...
+```
+
+---
+
+## 11. Open Ending Design (Chapter 10)
+
+### 11.1 Unresolved Questions
+1. [Question that remains unanswered]
+2. [Question that remains unanswered]
+3. [Question that remains unanswered]
+
+### 11.2 New Suspense
+- [New conflict or tension introduced]
+- [Implication for future]
+
+### 11.3 Character Final State
+- **Protagonist**: [Final emotional/psychological state]
+- **Key Relationship**: [Final state of important relationship]
+
+### 11.4 Reader Engagement
+- **Questions for Reader**: [What should readers ponder?]
+- **Emotional Resonance**: [What feeling should linger?]
+- **Thematic Echo**: [How does the ending reflect themes?]
+
+---
+
+## 12. Quality Check Standards (Actionable)
+
+### 12.1 Pre-Writing Checklist
+- [ ] All character voices defined with specific examples
+- [ ] Emotional arc quantified with numerical values
+- [ ] Sensory requirements specified per chapter
+- [ ] All prohibited elements listed for reference
+- [ ] Chapter purposes align with overall arc
+
+### 12.2 Per-Chapter Verification
+Each chapter must pass:
+
+| Check | Criteria | Verification Method |
+|-------|----------|---------------------|
+| AI Trace Detection | 0 template phrases | Automated scan + manual review |
+| Sensory Detail Count | ≥5 details, ≥3 types | Checklist count |
+| Emotional Depth | All 3 layers present | Layer identification |
+| Character Voice | Consistent and unique | Comparison with character spec |
+| Narrative Style | Matches book definition | Style consistency check |
+| Chapter Connection | Natural flow from/to adjacent | Transition review |
+| Dual Structure | Both lines present (if applicable) | Line identification |
+| Ending Quality | Matches ending type spec | Ending evaluation |
+
+### 12.3 Final Quality Gates
+- [ ] All chapters pass individual checks
+- [ ] Overall emotional arc is coherent
+- [ ] Theme development is consistent
+- [ ] Character growth is believable
+- [ ] No plot holes or inconsistencies
+- [ ] Sensory details create immersive experience
+- [ ] Dialogue reveals character and advances plot
+- [ ] Ending satisfies while leaving appropriate questions
+
+---
+
+## 13. Revision History
+
+| Version | Date | Changes | Author |
+|---------|------|---------|--------|
+| 1.0 | 2026-03-20 | Initial template creation | AI Assistant |
+
+---
+
+**END OF BOOK SPECIFICATION TEMPLATE**
 ```
 
 **产出要求：**
-- 完整的书籍规格文档
+- 完整的书籍规格文档（**全英文**）
 - 所有章节填写完整
 - 角色声音独特且可区分
 
@@ -165,115 +412,472 @@ coo/[book-name]/
 
 #### 步骤 2.2：创建章节规格文档
 
+> ⚠️ **强制要求**：章节规格文档必须使用**全英文**。请使用下面的英文模板创建规格文档。
+
 **文件：** `.progress/chapter-specs/chapter-XX-spec.md`
 
-**必须包含的章节：**
+> 📌 **完整模板文件位置**：`coo/.templates/chapter-spec-template.md`
+
+**必须包含的章节（英文模板）：**
 
 ```markdown
-# Chapter XX 规格：[Book Name]
+# Chapter [XX] Specification: [Chapter Title]
 
-## 章节定位
-- **作用**：[Chapter Purpose]
-- **情绪曲线**：[Start Emotion] → [Middle Emotion] → [End Emotion]
-- **与整体故事的关系**：[Relation to Overall Story]
+> **Template Version**: 1.0
+> **Book**: [Book Title]
+> **Chapter Number**: [XX of 10]
+> **Target Word Count**: [XXXX words]
 
-## 核心事件
-1. [Event 1]（[Emotion]）
-2. [Event 2]（[Emotion]）
-3. [Event 3]（[Emotion]）
+---
 
-## 角色状态
+## 1. Chapter Positioning
 
-### [Character 1]
-- **心理状态**：[Mental State]
-- **行为动机**：[Motivation]
-- **情感层次**：
-  - 表面：[Surface Reaction]
-  - 内心：[Inner Activity]
-  - 深层：[Deep Motivation]
+### 1.1 Position in Book
+- **Overall Location**: [Opening/Setup/Rising Action/Climax/Falling Action/Resolution]
+- **Narrative Function**: [What this chapter accomplishes for the story]
+- **Relationship to Previous Chapter**: [How it continues from Chapter XX-1]
+- **Relationship to Next Chapter**: [How it sets up Chapter XX+1]
 
-## 情感基调
-- **整体氛围**：[Overall Atmosphere]
-- **情感变化**：
-  - 开头：[Opening Emotion]
-  - 中间：[Middle Emotion]
-  - 结尾：[Closing Emotion]
+### 1.2 Chapter Purpose
+**Primary Objective**: [Main goal of this chapter]
 
-## 感官细节要求（每类至少1项）
+**Secondary Objectives**:
+- [Objective 1]
+- [Objective 2]
+- [Objective 3]
 
-### 视觉
-- [Visual Detail 1]
-- [Visual Detail 2]
+### 1.3 Key Questions Answered/Raised
+- **Answered**: [What questions from previous chapters are resolved]
+- **Raised**: [What new questions does this chapter pose]
 
-### 听觉
-- [Auditory Detail 1]
-- [Auditory Detail 2]
+---
 
-### 触觉
-- [Tactile Detail 1]
-- [Tactile Detail 2]
+## 2. Emotional Arc (Quantified)
 
-### 嗅觉
-- [Olfactory Detail 1]
+### 2.1 Emotional Curve Data
 
-### 味觉
-- [Gustatory Detail 1]
+| Position | Intensity (0-100) | Emotion Type | Trigger Event | Narrative Purpose |
+|----------|-------------------|--------------|---------------|-------------------|
+| 0% (Opening) | [20] | [Calm/Tense/Excited] | [Opening scene] | [Hook reader] |
+| 10% | [XX] | [Emotion] | [Event] | [Purpose] |
+| 25% | [40] | [Emotion] | [Event] | [Purpose] |
+| 50% | [70] | [Emotion] | [Turning point] | [Purpose] |
+| 75% | [50] | [Emotion] | [Event] | [Purpose] |
+| 90% | [85] | [Emotion] | [Event] | [Purpose] |
+| 100% (Ending) | [XX] | [Emotion] | [Cliffhanger] | [Purpose] |
 
-## 叙事技巧
-- **视角**：[POV]
-- **节奏**：[Pacing]
-- **悬念设置**：
-  - [Suspense 1]
-  - [Suspense 2]
-  - [Suspense 3]
+### 2.2 Emotional Curve Visualization
+```
+Intensity
+100 |                                      Peak
+ 90 |                                   /
+ 80 |                                /
+ 70 |                    Turning Point
+ 60 |                  /
+ 50 |               /              \
+ 40 |            /                    \
+ 30 |         /                        \
+ 20 |    Opening                        \
+ 10 |                                    \
+  0 |_____________________________________\____
+     0%   25%   50%   75%   100%
+```
 
-## 对话风格指南
+### 2.3 Emotional Beats Breakdown
 
-### [Character 1]的对话
-- [Dialogue Characteristics]
-- 示例："[Example Dialogue]"
+#### Beat 1: [Name] (Position: 0-15%)
+- **Trigger**: [What causes this emotion]
+- **Surface Reaction**: [Observable behavior]
+- **Internal Process**: [Character's thoughts]
+- **Deep Motivation**: [Why they feel this way]
+- **Sensory Anchor**: [Physical sensation associated]
 
-## 与前章衔接
-- [Connection to Previous Chapter]
+#### Beat 2: [Name] (Position: 15-35%)
+[Same structure]
 
-## 与后章铺垫
-- 埋下伏笔：[Foreshadowing]
-- 留下悬念：[Suspense]
-- 暗示未来：[Future Hint]
+#### Beat 3: [Name] (Position: 35-55%)
+[Same structure]
 
-## 禁止事项
+#### Beat 4: [Name] (Position: 55-75%)
+[Same structure]
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+#### Beat 5: [Name] (Position: 75-100%)
+[Same structure]
+
+---
+
+## 3. Core Events (Specific List)
+
+### 3.1 Event Summary
+| # | Event | Location | Characters | Emotional Impact | Plot Function |
+|---|-------|----------|------------|------------------|---------------|
+| 1 | [Event 1] | [Where] | [Who] | [Emotion] | [Function] |
+| 2 | [Event 2] | [Where] | [Who] | [Emotion] | [Function] |
+| 3 | [Event 3] | [Where] | [Who] | [Emotion] | [Function] |
+
+### 3.2 Event Descriptions
+
+#### Event 1: [Event Name]
+- **Description**: [Detailed description of what happens]
+- **Setup**: [What leads to this event]
+- **Execution**: [How it unfolds]
+- **Consequence**: [Immediate result]
+- **Connection to Theme**: [How this reflects book themes]
+
+#### Event 2: [Event Name]
+[Same structure]
+
+#### Event 3: [Event Name]
+[Same structure]
+
+---
+
+## 4. Scene Breakdown
+
+### 4.1 Scene List
+| Scene | Location | Characters | Word Count | Purpose | Emotional Tone |
+|-------|----------|------------|------------|---------|----------------|
+| 1 | [Where] | [Who] | [XXX] | [Purpose] | [Tone] |
+| 2 | [Where] | [Who] | [XXX] | [Purpose] | [Tone] |
+| 3 | [Where] | [Who] | [XXX] | [Purpose] | [Tone] |
+
+### 4.2 Scene Specifications
+
+#### Scene 1: [Scene Name]
+
+**Basic Information**
+- **Location**: [Specific place]
+- **Time**: [When this occurs]
+- **Characters Present**: [List all characters]
+- **Atmosphere**: [Mood and tone]
+
+**Narrative Function**
+- **Purpose**: [What this scene accomplishes]
+- **Information Revealed**: [What reader learns]
+- **Character Development**: [How characters grow/change]
+- **Plot Advancement**: [How story moves forward]
+
+**Sensory Details Required**
+| Sense | Specific Detail | Location in Scene | Emotional Function |
+|-------|----------------|-------------------|-------------------|
+| Visual | [Specific] | [Paragraph] | [Function] |
+| Auditory | [Specific] | [Paragraph] | [Function] |
+| Tactile | [Specific] | [Paragraph] | [Function] |
+| Olfactory | [Specific] | [Paragraph] | [Function] |
+| Gustatory | [Specific] | [Paragraph] | [Function] |
+
+**Emotional Beat**
+- **Position on Curve**: [X%]
+- **Primary Emotion**: [Emotion]
+- **Intensity**: [Level]
+- **Three Layers**:
+  - Surface: [Observable behavior]
+  - Internal: [Thoughts/feelings]
+  - Deep: [Underlying motivation]
+
+**Opening Hook (First 3 sentences)**
+[Write the exact opening or detailed description of what it must accomplish]
+
+**Ending Transition (Last 3 sentences)**
+[Write the exact ending or detailed description of what it must accomplish]
+
+#### Scene 2: [Scene Name]
+[Same structure]
+
+#### Scene 3: [Scene Name]
+[Same structure]
+
+---
+
+## 5. Character Development
+
+### 5.1 Protagonist: [Character Name]
+
+**External Actions**
+- **Primary Action**: [Main thing they do]
+- **Secondary Actions**: [Other significant actions]
+- **Decision Points**: [Key choices made]
+
+**Internal Journey**
+- **Internal Conflict**: [What they struggle with internally]
+- **Realization/Moment of Clarity**: [Any insights gained]
+- **Emotional Change**: [How emotions shift]
+- **Psychological Shift**: [How thinking changes]
+
+**Character Growth**
+- **Starting State**: [Who they are at chapter beginning]
+- **Ending State**: [Who they are at chapter end]
+- **Growth Metric**: [Measurable change]
+
+**Key Decision**
+- **Decision**: [What they decide]
+- **Options Considered**: [Alternatives weighed]
+- **Decision Process**: [How they reach conclusion]
+- **Consequences Accepted**: [What they accept will happen]
+
+### 5.2 Supporting Character: [Character Name]
+[Same structure, adjusted for role]
+
+### 5.3 Antagonist/Opposition: [Character Name]
+[Same structure, focused on conflict creation]
+
+---
+
+## 6. Dialogue Design
+
+### 6.1 Dialogue Segments
+
+| Segment | Speakers | Subtext | Emotional State | Power Dynamic | Forbidden Phrases |
+|---------|----------|---------|-----------------|---------------|-------------------|
+| 1 | A, B | [What's really being said] | [Emotions] | [Who has power] | [List] |
+| 2 | A, C | [Subtext] | [Emotions] | [Power] | [List] |
+| 3 | B, C | [Subtext] | [Emotions] | [Power] | [List] |
+
+### 6.2 Dialogue Segment Specifications
+
+#### Segment 1: [Context/Topic]
+
+**Participants**: [Character A], [Character B]
+
+**Surface Content**: [What they appear to be discussing]
+
+**Subtext**: [What they're really talking about]
+
+**Emotional Undercurrent**:
+- Character A: [Emotion, why]
+- Character B: [Emotion, why]
+
+**Power Dynamics**: [Who has upper hand and how it shifts]
+
+**Dialogue Beats**:
+1. [Opening line and purpose]
+2. [Response and shift]
+3. [Turning point]
+4. [Climax of exchange]
+5. [Resolution or cliffhanger]
+
+**Action Beats Required**: [Physical actions interspersed]
+
+**What Must Be Revealed**: [Information conveyed]
+
+**What Must Be Concealed**: [Information hidden or avoided]
+
+**Forbidden Expressions**:
+- [ ] "What do you mean?"
+- [ ] "You know what I mean"
+- [ ] Direct emotion statements ("I feel...")
+- [ ] Over-explanation
+- [ ] Perfect responses
+
+#### Segment 2: [Context/Topic]
+[Same structure]
+
+### 6.3 Dialogue Quality Checklist
+- [ ] Each speaker has distinct voice
+- [ ] Subtext is present in every exchange
+- [ ] Action beats break up dialogue
+- [ ] Misunderstandings occur naturally
+- [ ] Interruptions and pauses feel real
+- [ ] No AI template phrases
+- [ ] Reveals character and advances plot
+
+---
+
+## 7. Sensory Details Checklist (Required)
+
+### 7.1 Mandatory Sensory Details
+
+| Type | Specific Description | Scene | Paragraph | Emotional Function | Status |
+|------|---------------------|-------|-----------|-------------------|--------|
+| Visual | [Specific detail] | [Scene #] | [Approx] | [Function] | [ ] |
+| Visual | [Specific detail] | [Scene #] | [Approx] | [Function] | [ ] |
+| Auditory | [Specific detail] | [Scene #] | [Approx] | [Function] | [ ] |
+| Tactile | [Specific detail] | [Scene #] | [Approx] | [Function] | [ ] |
+| Olfactory | [Specific detail] | [Scene #] | [Approx] | [Function] | [ ] |
+| Gustatory | [Specific detail] | [Scene #] | [Approx] | [Function] | [ ] |
+
+**Requirement**: Minimum 5 sensory details, covering at least 3 types
+
+### 7.2 Sensory Detail Functions
+Each detail must serve at least one function:
+- [ ] Establish atmosphere/mood
+- [ ] Reveal character's internal state
+- [ ] Advance plot or foreshadow
+- [ ] Create contrast (virtual/real, past/present)
+- [ ] Trigger memory or association
+- [ ] Ground reader in physical reality
+
+### 7.3 Sensory Distribution
+- **Visual**: [X] details (target: 40%)
+- **Auditory**: [X] details
+- **Tactile**: [X] details
+- **Olfactory**: [X] details
+- **Gustatory**: [X] details
+- **Internal**: [X] details
+
+---
+
+## 8. Key Paragraph Specifications
+
+### 8.1 Opening (First 200 Words)
+
+**Opening Type**: [Hook type: Action/Dialogue/Description/Internal/Question]
+
+**Required Elements**:
+- [ ] Immediate hook (first sentence grabs attention)
+- [ ] Scene establishment (where/when)
+- [ ] Character state (emotional/psychological)
+- [ ] Forward momentum (sense of movement)
+
+**Forbidden in Opening**:
+- [ ] Exposition dumps
+- [ ] Abstract descriptions
+- [ ] "It was a [adjective] day..."
+- [ ] "Once upon a time..." variants
+- [ ] Waking up (unless exceptional)
+- [ ] Looking in mirror (unless exceptional)
+
+**Opening Paragraph Draft**:
+```
+[Write the opening paragraph or detailed specification]
+```
+
+### 8.2 Ending (Last 200 Words)
+
+**Ending Type**: [Suspense/Emotional/Discovery/Decision/Imagery/Question]
+
+**Ending Function**:
+- [ ] Creates forward momentum
+- [ ] Raises new questions or deepens existing ones
+- [ ] Emotional resonance
+- [ ] Connects to theme
+
+**Ending Structure**:
+1. [Final event/image/realization]
+2. [Character reaction/state]
+3. [Closing hook/cliffhanger]
+
+**Forbidden in Ending**:
+- [ ] "And somewhere..."
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Perfect resolution (unless final chapter)
+- [ ] Moral summary
 
-### 其他禁止
-- [ ] [Other Prohibition 1]
-- [ ] [Other Prohibition 2]
+**Ending Paragraph Draft**:
+```
+[Write the ending paragraph or detailed specification]
+```
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
+---
 
-## 章节结尾设计
-- **情绪**：[Closing Emotion]
-- **悬念**：[Suspense]
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下问题，让读者想继续阅读
+## 9. Thematic Integration
+
+### 9.1 Theme Presence
+| Theme | How Expressed | Scene | Evidence Required |
+|-------|--------------|-------|-------------------|
+| [Theme 1] | [Method] | [Scene] | [Specific element] |
+| [Theme 2] | [Method] | [Scene] | [Specific element] |
+
+### 9.2 Symbolic Elements
+| Symbol | Appearance | Meaning | Scene |
+|--------|-----------|---------|-------|
+| [Symbol 1] | [How it appears] | [What it represents] | [Where] |
+| [Symbol 2] | [How it appears] | [What it represents] | [Where] |
+
+### 9.3 Motif Recurrence
+| Motif | This Chapter | Pattern | Significance |
+|-------|-------------|---------|--------------|
+| [Motif 1] | [Appearance] | [Pattern] | [Meaning] |
+
+---
+
+## 10. Technical Requirements
+
+### 10.1 Style Consistency
+- [ ] Matches book's narrative perspective
+- [ ] Maintains consistent tense
+- [ ] Character voices are distinct
+- [ ] Sentence rhythm varies appropriately
+- [ ] No AI writing patterns
+
+### 10.2 Structural Requirements
+- [ ] Scene transitions are smooth
+- [ ] Time jumps are clear
+- [ ] POV shifts (if any) are signaled
+- [ ] Chapter has clear beginning, middle, end
+
+### 10.3 Length Requirements
+- **Target Word Count**: [XXXX words]
+- **Minimum**: [XXXX - 10%]
+- **Maximum**: [XXXX + 10%]
+- **Scene Distribution**: [Scene 1: XX%, Scene 2: XX%, etc.]
+
+---
+
+## 11. Quality Verification Checklist
+
+### 11.1 Pre-Writing Verification
+- [ ] Emotional arc is quantified and achievable
+- [ ] All scenes have clear purposes
+- [ ] Sensory details are specified
+- [ ] Character development is mapped
+- [ ] Dialogue has subtext planned
+- [ ] Opening and ending are specified
+
+### 11.2 Post-Writing Verification
+- [ ] Emotional curve matches specification
+- [ ] All required scenes are present
+- [ ] Sensory detail count ≥5, types ≥3
+- [ ] Zero AI template phrases detected
+- [ ] Dialogue has subtext in every exchange
+- [ ] Character has clear internal conflict
+- [ ] Ending matches specified type
+- [ ] Word count within target range
+- [ ] Three-layer emotional depth present
+- [ ] Theme integration is clear
+- [ ] Opening hooks effectively
+- [ ] Ending creates forward momentum
+- [ ] Transitions to adjacent chapters are smooth
+- [ ] No prohibited elements present
+
+### 11.3 Final Review Questions
+1. Does this chapter earn its place in the book?
+2. Does the protagonist change or reveal something new?
+3. Are the sensory details specific and evocative?
+4. Is the emotional journey clear and earned?
+5. Does the ending make the reader want to continue?
+6. Are there any AI writing pattern traces?
+7. Is the dialogue natural and revealing?
+8. Does this advance the plot and/or deepen character?
+
+---
+
+## 12. Notes and References
+
+### 12.1 Connections to Other Chapters
+- **Callback to**: [Chapter XX - specific element]
+- **Setup for**: [Chapter XX - what this prepares]
+- **Parallel with**: [Chapter XX - thematic or structural parallel]
+
+### 12.2 Research Notes
+- [Any research needed for this chapter]
+- [Technical details to verify]
+- [Cultural references to check]
+
+### 12.3 Revision Notes
+| Version | Date | Changes | Author |
+|---------|------|---------|--------|
+| 1.0 | 2026-03-20 | Initial specification | AI Assistant |
+
+---
+
+**END OF CHAPTER SPECIFICATION TEMPLATE**
 ```
 
 **产出要求：**
-- 每章都有独立的规格文档
+- 每章都有独立的规格文档（**全英文**）
 - 规格文档与书籍规格一致
 - 章节之间的衔接清晰
 
@@ -281,39 +885,41 @@ coo/[book-name]/
 
 ### 阶段三：章节内容创作
 
+> ⚠️ **强制要求**：章节内容必须使用**全英文**创作。这是最终产品，面向读者。
+
 #### 步骤 3.1：创作章节内容
 
 **文件：** `chapters/chapter-XX.md`
 
 **创作要求：**
 
-1. **遵循章节规格**
+1. **遵循章节规格**（英文）
    - 核心事件必须覆盖
    - 情绪曲线必须匹配
    - 角色状态必须一致
 
-2. **感官细节**
-   - 每章至少包含3类感官细节
-   - 每类至少1个具体描写
+2. **感官细节**（英文描写）
+   - 每章至少包含 3 类感官细节
+   - 每类至少 1 个具体描写
    - 避免抽象描述
 
-3. **情感深度**
+3. **情感深度**（英文表达）
    - 每个情感节点包含三层
    - 表面反应 → 内心活动 → 深层动机
    - 情感变化自然流畅
 
-4. **角色声音**
+4. **角色声音**（英文对话）
    - 每个角色有独特的说话方式
    - 对话符合角色性格
    - 内心独白风格一致
 
-5. **叙事风格**
+5. **叙事风格**（英文写作）
    - 视角一致
    - 语言风格统一
    - 句式变化丰富
 
 **产出要求：**
-- 完整的章节内容（建议2000-4000字）
+- 完整的章节内容（**全英文**，建议 2000-4000 字）
 - 符合所有质量要求
 - 通过所有检查点
 
@@ -906,6 +1512,50 @@ twitter:card: summary_large_image
 twitter:title: [Title]
 twitter:description: [Description]
 ```
+
+---
+
+## 语言规范
+
+### 文档语言使用说明（强制要求）
+
+**所有规格文档必须使用全英文**。这是强制要求，无例外。
+
+| 文档类型 | 使用语言 | 说明 |
+|---------|---------|------|
+| **书籍规格文档** (`book-spec.md`) | **英文（强制）** | 确保与最终输出一致，减少翻译错误 |
+| **章节规格文档** (`chapter-XX-spec.md`) | **英文（强制）** | 直接指导英文章节创作 |
+| **SEO 元数据文档** (`seo-meta.md`) | **英文（强制）** | 面向搜索引擎和读者 |
+| **章节内容** (`chapter-XX.md`) | **英文（强制）** | 最终产品，面向读者 |
+| **角色卡牌** (自动生成) | **英文** | 从英文规格文档直接生成 |
+
+### 为什么必须使用英文？
+
+1. **一致性**：规格文档 → 章节内容 → 角色卡牌，全链路保持英文，避免翻译错误
+2. **质量保证**：直接用英文思考创作，确保角色对话、叙事风格的一致性
+3. **简化流程**：不需要复杂的翻译逻辑，减少脚本复杂度
+4. **国际化**：英文是内容创作的标准语言，便于未来扩展
+
+### 示例
+
+**正确示例（全英文）：**
+
+```markdown
+### Elara (Protagonist)
+- **Speech Pattern**: Short sentences with frequent pauses
+- **Vocabulary**: Uses archaic words, occasionally mixed with academic terminology
+- **Personality**: Cautious, curious, brave, responsible
+```
+
+**错误示例（包含中文）：**
+
+```markdown
+### Elara（主角）  ❌ 错误：包含中文
+- 说话特点：短句为主，经常停顿思考  ❌ 错误：使用中文
+- 性格特征：谨慎、好奇、勇敢  ❌ 错误：使用中文
+```
+
+**注意**：完整的英文模板请参考"阶段二：书籍规格设计"和"阶段二：章节规格设计"部分。
 
 ---
 

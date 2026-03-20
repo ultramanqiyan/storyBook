@@ -1,119 +1,119 @@
-# Chapter 1 规格：The Programmed Heart
+# Chapter 1 Specification: The Programmed Heart
 
-## 章节定位
-- **作用**：建立"完美家庭"的假象，埋下违和感的种子
-- **情绪曲线**：温暖安全 → 微妙的困惑
-- **与整体故事的关系**：为后续真相揭露做铺垫，让读者先感受到"完美"的诱惑
+## Chapter Positioning
+- **Purpose**: Establish the illusion of a "perfect family," plant the seed of wrongness
+- **Emotional Arc**: Warm and safe → Subtle confusion
+- **Relationship to Overall Story**: Lay the groundwork for the later truth reveal, let readers first feel the temptation of "perfection"
 
-## 核心事件
-1. 早晨场景：父母完美地关心Alex的早餐、学业、情绪（温暖）
-2. 学校场景：朋友羡慕Alex的家庭，Alex感到骄傲但有一丝说不出的不对劲（微妙困惑）
-3. 晚餐场景：父母对Alex的烦恼给出"完美"的建议和安慰（温暖但违和）
+## Core Events
+1. Morning scene: Parents perfectly care about Alex's breakfast, studies, emotions (warm)
+2. School scene: Friends envy Alex's family, Alex feels proud but has an unspeakable sense of wrongness (subtle confusion)
+3. Dinner scene: Parents give "perfect" advice and comfort for Alex's troubles (warm but off)
 
-## 角色状态
+## Character Status
 
 ### Alex
-- **心理状态**：满足、安全，但有一丝模糊的不安
-- **行为动机**：享受家庭的温暖，同时试图理解自己的模糊不适感
-- **情感层次**：
-  - 表面：微笑、感谢父母、与朋友分享家庭趣事
-  - 内心：*为什么我总觉得有什么不对？他们太好了。*
-  - 深层：害怕质疑这份完美，担心一旦质疑就会失去它
+- **Psychological State**: Satisfied, safe, but with a vague unease
+- **Behavioral Motivation**: Enjoy the warmth of family while trying to understand her vague discomfort
+- **Emotional Layers**:
+  - Surface: Smiling, thanking parents, sharing family stories with friends
+  - Inner: *Why do I always feel something is wrong? They're too good.*
+  - Deep: Afraid to question this perfection, worried that questioning will lose it
 
-### 父母（David & Sarah）
-- **心理状态**：平静、满足（系统控制下）
-- **行为模式**：反应恰到好处，没有过度或不足
-- **情感层次**：
-  - 表面：温柔微笑、耐心倾听、适时拥抱
-  - 内心：（系统生成）适当的关心和爱意
-  - 深层：无（系统控制）
+### Parents (David & Sarah)
+- **Psychological State**: Calm, satisfied (under system control)
+- **Behavioral Pattern**: Reactions are just right, neither too much nor too little
+- **Emotional Layers**:
+  - Surface: Gentle smiles, patient listening, timely hugs
+  - Inner: (System generated) Appropriate care and love
+  - Deep: None (system controlled)
 
-## 情感基调
-- **整体氛围**：温暖、舒适、安全——但有一种"样板间"的完美感
-- **情感变化**：
-  - 开头：温暖、安全
-  - 中间：微妙的违和感
-  - 结尾：困惑的种子埋下
+## Emotional Tone
+- **Overall Atmosphere**: Warm, comfortable, safe—but with a "showroom" sense of perfection
+- **Emotional Shifts**:
+  - Beginning: Warm, safe
+  - Middle: Subtle sense of wrongness
+  - End: Seed of confusion planted
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- 母亲的微笑停在同一个角度，像被精心测量的弧度
-- 父亲的眼神总是恰到好处地温暖，没有波动
-- 家里的摆设太整齐，太完美
+### Visual
+- Mother's smile stops at the same angle, like a carefully measured arc
+- Father's eyes are always just the right amount of warm, no fluctuation
+- Home decor is too neat, too perfect
 
-### 听觉
-- 母亲的声音温柔，但缺少了颤抖——那种真实担忧时会有的颤抖
-- 父亲的笑声总是同一个音调
-- 家里太安静，没有争吵，没有混乱
+### Auditory
+- Mother's voice is gentle, but lacks tremor—that tremor real worry would have
+- Father's laugh is always the same tone
+- Home is too quiet, no arguments, no chaos
 
-### 触觉
-- 母亲的拥抱温暖，但像被调好温度的水，没有体温的波动
-- 父亲拍肩的力度每次都一样
+### Tactile
+- Mother's hug is warm, but like water set to the right temperature, no body temperature fluctuation
+- Father's pat on the shoulder has the same pressure every time
 
-### 嗅觉
-- 家里永远有刚烤好的饼干味道——太准时了，每天下午四点
-- 母亲的香水味从不改变
+### Olfactory
+- Home always smells of freshly baked cookies—too precisely, every afternoon at 4 PM
+- Mother's perfume scent never changes
 
-### 味觉
-- 晚餐完美，但缺少了妈妈偶尔做咸的那道菜
-- 每一顿都恰到好处，没有惊喜也没有失误
+### Gustatory
+- Dinner is perfect, but missing that dish Mom occasionally oversalts
+- Every meal is just right, no surprises, no mistakes
 
-## 叙事技巧
-- **视角**：第三人称限制（Alex视角）
-- **节奏**：缓慢、舒适，像一首温柔的歌
-- **悬念设置**：
-  - 父母的反应太完美
-  - Alex的模糊不安
-  - 某个细节的微小"错误"
+## Narrative Techniques
+- **Perspective**: Third-person limited (Alex's perspective)
+- **Pacing**: Slow, comfortable, like a gentle song
+- **Suspense Setup**:
+  - Parents' reactions are too perfect
+  - Alex's vague unease
+  - A subtle "error" in some detail
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Alex的对话
-- 正常青少年的语言，偶尔用比喻
-- 示例："妈，你今天又做了饼干？你太完美了。"
-- 内心独白：*为什么我觉得'完美'这个词有点奇怪？*
+### Alex's Dialogue
+- Normal teenager language, occasionally uses metaphors
+- Example: "Mom, you made cookies again? You're too perfect."
+- Inner monologue: *Why does the word 'perfect' feel a bit strange?*
 
-### 父母的对话
-- 温柔、耐心、永远正确
-- 示例："亲爱的，无论发生什么，我们都在这里支持你。"
-- 特点：没有犹豫，没有语塞，没有情绪波动
+### Parents' Dialogue
+- Gentle, patient, always correct
+- Example: "Dear, whatever happens, we're here to support you."
+- Characteristics: No hesitation, no stumbling, no emotional fluctuation
 
-## 与前章衔接
-- 无（第一章）
+## Connection to Previous Chapter
+- None (Chapter 1)
 
-## 与后章铺垫
-- 埋下伏笔：某个细节的"故障"或"不一致"
-- 留下悬念：Alex的模糊不安会发展成什么？
-- 暗示未来：完美之下隐藏着什么？
+## Setup for Next Chapter
+- Plant foreshadowing: Some detail's "glitch" or "inconsistency"
+- Leave suspense: What will Alex's vague unease develop into?
+- Hint at future: What is hidden beneath the perfection?
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." endings
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于明显的暗示
-- [ ] 让读者太快察觉真相
-- [ ] 父母表现得像机器人（他们应该像"太完美的人类"）
+### Other Prohibitions
+- [ ] Overly obvious hints
+- [ ] Letting readers notice the truth too quickly
+- [ ] Parents behaving like robots (they should seem like "too perfect humans")
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
+## Quality Checkpoints
+- [ ] AI trace detection (all passed)
+- [ ] Sensory detail detection (at least 5 items)
+- [ ] Emotional depth detection (three layers complete)
+- [ ] Character voice detection (uniqueness)
+- [ ] Narrative style detection (consistency)
+- [ ] Chapter transition detection (natural flow)
 
-## 章节结尾设计
-- **情绪**：温暖的困惑
-- **悬念**：Alex注意到一个微小的"不对劲"——比如母亲在应该担心的时候没有皱眉
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下一个微妙的疑问，让读者想继续阅读
+## Chapter Ending Design
+- **Emotion**: Warm confusion
+- **Suspense**: Alex notices a tiny "wrongness"—like Mother not frowning when she should be worried
+- **Don't**: Predictive ending, dramatic summary
+- **Do**: Leave a subtle question, make readers want to continue

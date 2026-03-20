@@ -1,124 +1,124 @@
-# Chapter 1 规格：The Stimulation Trap
+# Chapter 1 Specification: The Stimulation Trap
 
-## 章节定位
-- **作用**：展示Leo的"正常"娱乐生活，沉浸在AI娱乐中
-- **情绪曲线**：平静 → 满足 → 微妙的空虚
-- **与整体故事的关系**：建立"正常"的基准，为后续麻木做对比
+## Chapter Positioning
+- **Purpose**: Showcase Leo's "normal" entertainment life, immersed in AI entertainment
+- **Emotional Arc**: Calm → Satisfied → Subtle emptiness
+- **Relationship to Overall Story**: Establish the "normal" baseline, creating contrast for later numbness
 
-## 核心事件
-1. 日常展示：Leo下班后沉浸在AI娱乐中（平静）
-2. 体验内容：描述他消费的娱乐内容——电影、游戏、虚拟体验（满足）
-3. 微妙的空虚：刺激结束后，有一丝说不出的空虚（伏笔）
+## Core Events
+1. Daily showcase: Leo immerses in AI entertainment after work (calm)
+2. Content experience: Describe the entertainment content he consumes—movies, games, virtual experiences (satisfied)
+3. Subtle emptiness: After stimulation ends, there's an indescribable emptiness (foreshadowing)
 
-## 双线结构
+## Dual Narrative Structure
 
-### 现实线
-- Leo下班，回到公寓
-- 连接设备，进入AI娱乐系统
-- 体验各种内容——电影、游戏、虚拟旅行
-- 时间流逝，深夜才结束
+### Reality Thread
+- Leo gets off work, returns to apartment
+- Connects device, enters AI entertainment system
+- Experiences various content—movies, games, virtual travel
+- Time passes, ends late at night
 
-### 内心线
-- *这就是生活。每个人都这样。*
-- *工作结束了，现在是我的时间。*
-- *这种感觉真好。我需要这个。*
+### Internal Thread
+- *This is life. Everyone does this.*
+- *Work is over, now it's my time.*
+- *This feeling is good. I need this.*
 
-## 角色状态
+## Character Status
 
 ### Leo
-- **心理状态**：满足、平静、认为这是正常生活
-- **行为动机**：工作后的放松，追求快乐
-- **情感层次**：
-  - 表面：放松、享受
-  - 内心：*这是我应得的。我工作了一整天。*
-  - 深层：害怕面对没有刺激的空虚
+- **Psychological State**: Satisfied, calm, believes this is normal life
+- **Behavioral Motivation**: Relaxation after work, pursuing pleasure
+- **Emotional Layers**:
+  - Surface: Relaxed, enjoying
+  - Inner: *I deserve this. I worked all day.*
+  - Deep: Fear of facing emptiness without stimulation
 
-## 情感基调
-- **整体氛围**：舒适的沉浸，表面满足
-- **情感变化**：
-  - 开头：平静
-  - 中间：满足
-  - 结尾：微妙的空虚（伏笔）
+## Emotional Tone
+- **Overall Atmosphere**: Comfortable immersion, surface satisfaction
+- **Emotional Shifts**:
+  - Beginning: Calm
+  - Middle: Satisfied
+  - End: Subtle emptiness (foreshadowing)
 
-## 感官细节要求（每类至少1项）
+## Sensory Detail Requirements (at least 1 per category)
 
-### 视觉
-- AI生成的电影画面——比真实更绚烂
-- 虚拟世界中的色彩——饱和度极高
-- 现实公寓的暗淡——对比虚拟世界的绚烂
+### Visual
+- AI-generated movie scenes—more brilliant than reality
+- Colors in virtual world—extremely high saturation
+- Dullness of real apartment—contrast with virtual brilliance
 
-### 听觉
-- AI生成的完美音乐
-- 虚拟世界中的音效——精确设计
-- 现实的寂静——摘下耳机后的对比
+### Auditory
+- AI-generated perfect music
+- Sound effects in virtual world—precisely designed
+- Silence of reality—contrast after removing headphones
 
-### 触觉
-- 虚拟体验的刺激——风、温度、触感
-- 设备的重量——连接时的感觉
-- 现实的麻木——结束后的空虚
+### Tactile
+- Stimulation from virtual experiences—wind, temperature, touch
+- Weight of device—feeling when connecting
+- Numbness of reality—emptiness after ending
 
-### 味觉
-- 虚拟食物的完美味道
-- 现实中的外卖——对比虚拟的完美
+### Gustatory
+- Perfect taste of virtual food
+- Real takeout food—contrast with virtual perfection
 
-### 内在感受
-- 刺激带来的快感
-- 结束后的空虚——微妙的，不明显的
+### Internal Sensation
+- Pleasure from stimulation
+- Emptiness after ending—subtle, not obvious
 
-## 叙事技巧
-- **视角**：第三人称限制（Leo视角）
-- **节奏**：缓慢、舒适，像一首温柔的歌
-- **悬念设置**：
-  - 微妙的空虚是什么？
-  - 这种"正常"真的正常吗？
+## Narrative Techniques
+- **Perspective**: Third-person limited (Leo's perspective)
+- **Pacing**: Slow, comfortable, like a gentle song
+- **Suspense Setup**:
+  - What is this subtle emptiness?
+  - Is this "normal" really normal?
 
-## 对话风格指南
+## Dialogue Style Guide
 
-### Leo的对话
-- 日常语言，普通人的表达
-- 示例："今天工作还行。现在是我的时间。"
-- 内心独白：*这就是生活。每个人都这样。*
+### Leo's Dialogue
+- Everyday language, ordinary person's expression
+- Example: "Work was okay today. Now it's my time."
+- Internal monologue: *This is life. Everyone does this.*
 
-### 配角的对话（如果有）
-- 同样沉浸的人，日常交流
-- 示例："你看那个新出的体验了吗？太刺激了。"
+### Supporting Character Dialogue (if any)
+- Similarly immersed people, daily conversation
+- Example: "Did you see that new experience? So stimulating."
 
-## 与前章衔接
-- 无（第一章）
+## Connection to Previous Chapter
+- None (Chapter 1)
 
-## 与后章铺垫
-- 埋下伏笔：微妙的空虚感
-- 留下悬念：这种感觉会发展成什么？
-- 暗示未来：刺激需要升级
+## Setup for Next Chapter
+- Plant foreshadowing: Subtle sense of emptiness
+- Leave suspense: What will this feeling develop into?
+- Hint at future: Stimulation needs upgrading
 
-## 禁止事项
+## Prohibited Elements
 
-### AI写作模式（必须避免）
-- [ ] "And somewhere..."结尾
+### AI Writing Patterns (Must Avoid)
+- [ ] "And somewhere..." endings
 - [ ] "Neither of them knew..."
 - [ ] "will never be the same"
 - [ ] "just the beginning"
-- [ ] Rule of Three结构
-- [ ] 抽象情感描述
-- [ ] 模板化对话
-- [ ] 重复句式结构
+- [ ] Rule of Three structure
+- [ ] Abstract emotional descriptions
+- [ ] Template dialogue
+- [ ] Repetitive sentence structures
 
-### 其他禁止
-- [ ] 过于科幻的技术描述
-- [ ] 道德说教
-- [ ] 让读者太快察觉问题
+### Other Prohibitions
+- [ ] Overly sci-fi technical descriptions
+- [ ] Moral preaching
+- [ ] Letting readers notice problems too quickly
 
-## 质量检查点
-- [ ] AI痕迹检测（全部通过）
-- [ ] 感官细节检测（至少5项）
-- [ ] 情感深度检测（三层完整）
-- [ ] 角色声音检测（独特性）
-- [ ] 叙事风格检测（一致性）
-- [ ] 章节衔接检测（自然流畅）
-- [ ] 双线结构检测（现实线与内心线交织）
+## Quality Checkpoints
+- [ ] AI trace detection (all pass)
+- [ ] Sensory detail detection (at least 5 items)
+- [ ] Emotional depth detection (three layers complete)
+- [ ] Character voice detection (uniqueness)
+- [ ] Narrative style detection (consistency)
+- [ ] Chapter transition detection (natural flow)
+- [ ] Dual structure detection (reality and internal threads interwoven)
 
-## 章节结尾设计
-- **情绪**：微妙的空虚
-- **悬念**：刺激结束后，Leo有一丝说不出的感觉——但他说服自己这很正常
-- **不要**：预示性结尾、戏剧化总结
-- **要**：留下微妙的疑问，让读者想继续阅读
+## Chapter Ending Design
+- **Emotion**: Subtle emptiness
+- **Suspense**: After stimulation ends, Leo has an indescribable feeling—but he convinces himself this is normal
+- **Don't**: Predictive endings, dramatic summaries
+- **Do**: Leave subtle questions, make readers want to continue
