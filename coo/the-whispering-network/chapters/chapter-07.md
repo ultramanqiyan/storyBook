@@ -1,4 +1,4 @@
-# Chapter 7: The Confrontation
+# Chapter 7: The Confrontation - The Source Revealed
 
 The network core was ancient beyond measure, a cathedral of crystal and shadow buried deep beneath the capital's foundations.
 

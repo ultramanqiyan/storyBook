@@ -1,4 +1,4 @@
-# Chapter 6: The Cost
+# Chapter 6: The Cost of Power
 
 Dr. Elena Chen's office was nothing like the corporate headquarters Maya had visited.
 

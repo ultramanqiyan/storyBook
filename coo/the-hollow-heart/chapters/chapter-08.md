@@ -1,4 +1,4 @@
-# Chapter 8: The Choice
+# Chapter 8: The Choice - Emotion or Efficiency
 
 The reversal clinic was in the basement of an old building in the Archive District—a place that looked like it had been forgotten by time and progress. The walls were bare concrete, the lights were fluorescent and flickering, and the air smelled of antiseptic and something older, something that might have been hope.
 

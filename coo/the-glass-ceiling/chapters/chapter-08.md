@@ -1,4 +1,4 @@
-# Chapter 8: The Confrontation
+# Chapter 8: The Confrontation - Exposing the Truth
 
 The air carried the faint scent of coffee, lingering in the background.
 

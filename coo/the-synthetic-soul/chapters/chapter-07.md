@@ -1,4 +1,4 @@
-# Chapter 7: The Cost
+# Chapter 7: The Cost of Freedom
 
 The waiting was the hardest part. Marcus watched the monitors, checked the systems, waited for Ford's next move. He knew it was coming. He just didn't know what form it would take.
 

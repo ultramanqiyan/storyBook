@@ -1,4 +1,4 @@
-# Chapter 9: The Sacrifice
+# Chapter 9: The Sacrifice - The Price of Truth
 
 The air in the palace gardens carried the scent of jasmine and old stone, a fragrance that had not changed in centuries.
 

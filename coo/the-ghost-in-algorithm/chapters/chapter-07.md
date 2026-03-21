@@ -1,4 +1,4 @@
-# Chapter 7: The Ritual - Korean Spirits and Technology
+# Chapter 7: The Ritual
 
 The apartment smelled of mugwort and pine resin, the smoke curling from ceramic bowls to form protective patterns in the air. Alex had followed Halmoni's instructions precisely—salt at the four corners, white paper charms above each doorway, fresh water in a brass bowl positioned to catch the morning light.
 

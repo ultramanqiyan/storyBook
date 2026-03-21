@@ -1,4 +1,4 @@
-# Chapter 6: The Confrontation
+# Chapter 6: The Confrontation - Ethics vs Progress
 
 Elena requested a formal hearing with The Conductor.
 

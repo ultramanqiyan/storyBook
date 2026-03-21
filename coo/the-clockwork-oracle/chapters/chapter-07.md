@@ -1,4 +1,4 @@
-# Chapter 7: The Choice
+# Chapter 7: The Choice - Knowledge or Safety
 
 The return journey was marked by silence, broken only by the rhythmic clatter of hooves on cobblestone and the distant, mournful cry of a city waking to yet another overcast day.
 

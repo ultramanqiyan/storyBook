@@ -1,4 +1,4 @@
-# Chapter 4: The Choice
+# Chapter 4: The Choice - Obey or Escape
 
 Marcus couldn't focus. Every few minutes, his eyes drifted to the lab door, watching, waiting. The hum of the servers felt louder than usual, or maybe that was just his imagination. Three days since Ford's meeting, three days of waiting for the other shoe to drop.
 

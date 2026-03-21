@@ -1,4 +1,4 @@
-# Chapter 7: The Betrayal - Trust Broken
+# Chapter 7: The Relapse
 
 The scent of jasmine and old parchment filled the private study where Kira worked, the evening light casting long shadows across ARIA's open pages. Six months had passed since her recognition as Synthesist. Six months of building, teaching, proving that synthesis could work.
 

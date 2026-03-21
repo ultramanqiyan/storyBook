@@ -1,4 +1,4 @@
-# Chapter 7: The Confrontation
+# Chapter 7: The Confrontation - Questioning the Creator
 
 I went back to the Enhancement Institute the next day.
 

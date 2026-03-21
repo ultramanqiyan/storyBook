@@ -1,4 +1,4 @@
-# Chapter 9: The Choice
+# Chapter 9: The Choice - Career or Conscience
 
 Alex chose to fight.
 

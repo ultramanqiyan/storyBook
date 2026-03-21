@@ -1,4 +1,4 @@
-# Chapter 4: The Power - First Spells Cast
+# Chapter 4: The Demonstration
 
 The practice chamber smelled of ozone and singed hair, the aftermath of magical experimentation that had pushed boundaries too far. Kira stood in the doorway, surveying the damage: scorch marks on the walls, shattered glass vials, and in the center of the room, Marcus—pale, trembling, but alive.
 

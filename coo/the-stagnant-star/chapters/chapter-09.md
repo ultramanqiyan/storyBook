@@ -1,4 +1,4 @@
-# Chapter 9: The Choice
+# Chapter 9: The Choice - Perfection or Freedom
 
 The days that followed were a blur of planning and preparation. Nova continued her normal routine—attending classes, completing assignments, maintaining her optimal performance metrics—while secretly working with the Resistance on a plan that could change everything.
 

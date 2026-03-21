@@ -1,4 +1,4 @@
-# Chapter 1: The Discovery - Ancient Code Awakens
+# Chapter 1: The Discovery
 
 The air in the deepest section of the Great Archive smelled of dust and secrets, the scent of knowledge pressed between pages for centuries. Kira's lantern cast flickering shadows across shelves that stretched into darkness, each crammed with texts waiting to be cataloged.
 

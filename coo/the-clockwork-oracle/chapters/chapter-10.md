@@ -1,4 +1,4 @@
-# Chapter 10: The Legacy
+# Chapter 10: The Legacy - Knowledge for the Future
 
 Five years had passed since the court's judgment, and the world had changed in ways that few could have predicted.
 

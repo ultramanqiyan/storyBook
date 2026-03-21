@@ -1,4 +1,4 @@
-# Chapter 9: The Choice
+# Chapter 9: The Choice - Self or Other
 
 The all-hands meeting was scheduled for Monday at 9 AM.
 

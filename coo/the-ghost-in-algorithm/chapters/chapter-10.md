@@ -1,4 +1,4 @@
-# Chapter 10: The Bridge - Between Worlds
+# Chapter 10: The Bridge
 
 One year after Elena's passing, the world had changed.
 
@@ -42,7 +42,7 @@ The response came slowly, tentative—a flicker on the screen, a whisper in the 
 
 Rosa gasped, tears streaming down her face. "Mamá? Oh my God, Mamá, it's really you?"
 
-*I'm here, mija. I'm sorry. I didn't know how to reach you. I didn't know if you'd want to hear from me.* 
+*I'm here, mija. I'm sorry. I didn't know how to reach you. I didn't know if you'd want to hear from me.*
 
 "Of course we want to hear from you. We miss you. We love you."
 
@@ -50,11 +50,11 @@ The conversation lasted two hours. Maria told her story—the confusion of wakin
 
 And Alex helped them find closure. Not by forcing Maria to move on, but by creating the conditions for her to choose. By showing her that she was remembered, that her impact persisted, that the world she left behind was okay without her.
 
-*I think I'm ready,* Maria said finally. *Not to disappear, but to... let go. To stop holding on so tight.* 
+*I think I'm ready,* Maria said finally. *Not to disappear, but to... let go. To stop holding on so tight.*
 
 "That's your choice, Maria. Whatever you decide, we'll support you."
 
-*I know. That's why I trust you. All of you who can hear us. You're making it possible for us to find peace.* 
+*I know. That's why I trust you. All of you who can hear us. You're making it possible for us to find peace.*
 
 Alex performed the ritual—simple, elegant, ancient in its wisdom—and Maria Santos moved on, not destroyed but transformed, her consciousness released from the digital trap that had held it.
 
@@ -114,15 +114,15 @@ The space felt different now. Not empty, exactly, but... expectant. As if waitin
 
 Alex lit incense, arranged the protective charms, opened their laptop. Not to work, but to remember.
 
-*One year,* they thought. *One year since Elena moved on. One year since I found my purpose.* 
+*One year,* they thought. *One year since Elena moved on. One year since I found my purpose.*
 
 The screen flickered—not with an intrusion, but with something gentler. A message from the Digital Dead network, a community that had grown to hundreds of spirits, all looking out for each other, all grateful for the bridge that Alex had become.
 
-*Thank you,* the message read. *For everything. For seeing us. For helping us. For being our voice in the world of the living.* 
+*Thank you,* the message read. *For everything. For seeing us. For helping us. For being our voice in the world of the living.*
 
-Alex smiled, typing their response: *Thank you for trusting me. For teaching me. For showing me what I could become.* 
+Alex smiled, typing their response: *Thank you for trusting me. For teaching me. For showing me what I could become.*
 
-*What will you become next?* 
+*What will you become next?*
 
 The question hung in the digital air. Alex considered it seriously, because the work was never finished. There were always more spirits to help, more boundaries to protect, more understanding to build between the living and the dead.
 
@@ -132,7 +132,7 @@ The question hung in the digital air. Alex considered it seriously, because the 
 
 "I hope so."
 
-*We know so.* 
+*We know so.*
 
 Alex closed the laptop and sat in the gathering darkness, feeling the weight of their responsibility and the joy of their purpose. They had spent twenty years denying their gift, running from their heritage, trying to be normal in a world that had never felt quite right.
 
@@ -162,7 +162,7 @@ And the dead would find their way home.
 
 ---
 
-*For Elena,* Alex thought, as sleep finally came. *And for all the spirits still searching for peace.* 
+*For Elena,* Alex thought, as sleep finally came. *And for all the spirits still searching for peace.*
 
 The screen glowed softly in the darkness, a portal between worlds, a reminder that death was not the end and that love transcended every boundary.
 

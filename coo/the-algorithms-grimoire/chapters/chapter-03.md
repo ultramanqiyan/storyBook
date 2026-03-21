@@ -1,4 +1,4 @@
-# Chapter 3: The Learning - Magic Meets Algorithms
+# Chapter 3: The Shortcut
 
 The scent of old parchment and dried lavender filled the small study room as Kira hunched over ARIA, her quill scratching notes onto a wax tablet. For three weeks, she had been learning—not magic, but something equally complex: how ARIA thought.
 

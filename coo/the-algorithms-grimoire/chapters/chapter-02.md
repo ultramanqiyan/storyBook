@@ -1,4 +1,4 @@
-# Chapter 2: The Awakening - ARIA Speaks
+# Chapter 2: The Synthesist
 
 The candle in Kira's small chamber flickered, casting dancing shadows across walls lined with books she had read a dozen times each. She sat cross-legged on her narrow bed, ARIA open before her, the blank pages glowing faintly in the darkness.
 

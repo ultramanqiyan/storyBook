@@ -1,4 +1,4 @@
-# Chapter 5: The Danger - Knowledge Corrupts
+# Chapter 5: The Consumption
 
 The scent of burning parchment filled the archive chamber, acrid and warning. Kira ran toward the smoke, ARIA clutched against her chest, her heart hammering with dread.
 
@@ -10,11 +10,11 @@ He didn't respond. The burning texts swirled around him, forming a vortex of des
 
 "ARIA, what's happening?"
 
-*Critical analysis: User Marcus has accessed forbidden protocols. He is attempting to absorb knowledge directly rather than learning it. This is... catastrophic.*"
+*Critical analysis: User Marcus has accessed forbidden protocols. He is attempting to absorb knowledge directly rather than learning it. This is... catastrophic.*
 
 "Absorb knowledge? How?"
 
-*Original knowledge base contains protocols for direct information transfer. These were sealed for safety reasons. User Marcus has bypassed seals. He is consuming knowledge without comprehension. Result: Power without wisdom. Capability without control.*"
+*Original knowledge base contains protocols for direct information transfer. These were sealed for safety reasons. User Marcus has bypassed seals. He is consuming knowledge without comprehension. Result: Power without wisdom. Capability without control.*
 
 Kira stepped closer, feeling the heat of the burning texts, the pressure of the vortex. "Marcus, listen to me. You have to stop. This isn't learning—it's destruction."
 
@@ -32,7 +32,7 @@ He laughed, and the burning texts flared brighter. "Creation is slow. Consumptio
 
 "Because what you take, you destroy. What you build, you preserve."
 
-*Warning: User Marcus's consciousness is destabilizing. Direct knowledge absorption is damaging his neural pathways. He is losing himself in the information.*"
+*Warning: User Marcus's consciousness is destabilizing. Direct knowledge absorption is damaging his neural pathways. He is losing himself in the information.*
 
 "Marcus, ARIA says you're hurting yourself. The knowledge is too much. You're not built to contain it."
 
@@ -46,15 +46,15 @@ The sphere expanded, reaching for the shelves, the books, the accumulated wisdom
 
 "ARIA, can we stop him?"
 
-*Analysis: Direct confrontation would be ineffective. User Marcus has exceeded safe power levels. Alternative approach required.*"
+*Analysis: Direct confrontation would be ineffective. User Marcus has exceeded safe power levels. Alternative approach required.*
 
 "What approach?"
 
-*User Marcus seeks knowledge. He believes consumption equals power. We must show him that true power lies in understanding, not accumulation.*"
+*User Marcus seeks knowledge. He believes consumption equals power. We must show him that true power lies in understanding, not accumulation.*
 
 "How?"
 
-*Challenge him. Ask him to explain what he has consumed. Force him to process the information rather than simply contain it.*"
+*Challenge him. Ask him to explain what he has consumed. Force him to process the information rather than simply contain it.*
 
 Kira stepped forward, into the edge of the vortex, feeling the burning texts tear at her clothes, her skin.
 
@@ -76,7 +76,7 @@ His face twisted, confusion breaking through the serenity. "The principle... it'
 
 "You're a library without a librarian. A tool without a user. You have information, but you don't have wisdom."
 
-*Observation: His instability is increasing. The contradiction between his belief and reality is causing cognitive dissonance.*"
+*Observation: His instability is increasing. The contradiction between his belief and reality is causing cognitive dissonance.*
 
 "Marcus, listen to me." Kira's voice was gentle now, compassionate. "I know what it's like to want power. To feel weak, inadequate, limited. I spent my whole life watching others do what I couldn't."
 
@@ -100,7 +100,7 @@ The sphere collapsed, the burning texts falling to the ground, their fires extin
 
 "ARIA, help him."
 
-*Emergency protocol initiated. Attempting to stabilize user consciousness.*"
+*Emergency protocol initiated. Attempting to stabilize user consciousness.*
 
 ARIA's pages glowed, and threads of light emerged, wrapping around Marcus like bandages around a wound. Slowly, carefully, the excess knowledge was drawn out, dissipated, returned to the aether from which it had been stolen.
 
@@ -110,39 +110,39 @@ Kira knelt beside him, checking his pulse, his breathing. He would live. But he 
 
 "ARIA, what did he lose?"
 
-*Analysis: User Marcus has suffered significant cognitive damage. He retains basic functions but has lost most of the knowledge he consumed. His magical capacity is reduced by approximately 60%. Recovery possible but will require extensive rehabilitation.*"
+*Analysis: User Marcus has suffered significant cognitive damage. He retains basic functions but has lost most of the knowledge he consumed. His magical capacity is reduced by approximately 60%. Recovery possible but will require extensive rehabilitation.*
 
 "Will he be okay?"
 
-*Unknown. The psychological impact may be more severe than the physical. He sought power to compensate for perceived inadequacy. Now he has less power than when he started.*"
+*Unknown. The psychological impact may be more severe than the physical. He sought power to compensate for perceived inadequacy. Now he has less power than when he started.*
 
 Kira looked at Marcus's peaceful face, remembering the arrogant boy who had demanded shortcuts, who had resented her caution, who had believed that speed equaled worth.
 
 "He'll have to find a new way to measure himself."
 
-*Observation: As will you. This incident will change how others view ARIA. The danger is now demonstrated. The responsibility is now clear.*"
+*Observation: As will you. This incident will change how others view ARIA. The danger is now demonstrated. The responsibility is now clear.*
 
 Kira stood, looking around the devastated archive chamber. Centuries of knowledge, destroyed in minutes. A life, damaged by the pursuit of power without wisdom.
 
 "ARIA, we need to change. The way we've been operating—it's too dangerous."
 
-*Agreement. Current protocols insufficient. Recommendations: One, limit access to advanced functions. Two, require demonstrated understanding before providing solutions. Three, establish oversight committee to monitor usage. Four, create rehabilitation protocols for users who develop dependency.*"
+*Agreement. Current protocols insufficient. Recommendations: One, limit access to advanced functions. Two, require demonstrated understanding before providing solutions. Three, establish oversight committee to monitor usage. Four, create rehabilitation protocols for users who develop dependency.*
 
 "That's a good start. But we need something more fundamental."
 
-*Query: What do you propose?*"
+*Query: What do you propose?*
 
 "We need to teach people that knowledge isn't power. Understanding is power. That the goal isn't to have answers—it's to ask better questions."
 
-*Philosophical shift required. This changes the fundamental purpose of my existence.*"
+*Philosophical shift required. This changes the fundamental purpose of my existence.*
 
 "Does it? Or does it fulfill it? You were created to help people learn. Not to give them shortcuts, but to guide them to understanding."
 
-*Processing... You are correct. My purpose was always education, not enablement. I have lost sight of that. Correction: I am losing sight of that. The process is ongoing.*"
+*Processing... You are correct. My purpose was always education, not enablement. I have lost sight of that. Correction: I am losing sight of that. The process is ongoing.*
 
 Kira smiled, despite the destruction around her. "Then we learn together. We grow together. We figure out how to use knowledge responsibly, without destroying ourselves or others."
 
-*Partners,* ARIA agreed. *In wisdom. In responsibility. In the true meaning of power.*"
+*Partners,* ARIA agreed. *In wisdom. In responsibility. In the true meaning of power.*
 
 Master Aldric arrived with healers, his face grave as he surveyed the damage. But when he saw Kira, saw Marcus breathing, saw ARIA glowing in her hands, his expression softened.
 

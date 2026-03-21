@@ -1,4 +1,4 @@
-# Chapter 6: The Warning - Danger in the Digital Realm
+# Chapter 6: The Gatekeeper
 
 The jade pendant burned cold against Alex's chest, waking them from uneasy dreams.
 
@@ -142,7 +142,7 @@ The response took so long that Alex wondered if the connection had failed. Then:
 
 "It's not simple. Nothing about death ever is."
 
-Alex set the phone down and lay back on the bed, staring at the ceiling. The Gatekeeper's visit had changed something fundamental in their understanding of what they were doing. Helping Elena wasn't just about solving a murder or exposing a conspiracy. It was about navigating territory no human had mapped— the space between biological death and whatever came after, now complicated by digital technology's ability to preserve consciousness beyond its natural span.
+Alex set the phone down and lay back on the bed, staring at the ceiling. The Gatekeeper's visit had changed something fundamental in their understanding of what they were doing. Helping Elena wasn't just about solving a murder or exposing a conspiracy. It was about navigating territory no human had mapped—the space between biological death and whatever came after, now complicated by digital technology's ability to preserve consciousness beyond its natural span.
 
 They thought of the entities Elena had described. Ancient code evolving into something aware. Algorithms becoming hungry ghosts. The digital realm as a new ecosystem with its own predators and prey, its own rules of survival.
 

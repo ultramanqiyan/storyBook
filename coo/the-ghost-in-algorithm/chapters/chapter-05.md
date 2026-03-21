@@ -1,4 +1,4 @@
-# Chapter 5: The Truth - What Really Happened
+# Chapter 5: The Confession
 
 Dr. Sarah Chen's office smelled of antiseptic and stale coffee, the fluorescent lights humming overhead like trapped insects. Alex had chosen their seat carefully—facing the door, back to the window, positioning that allowed them to watch Sarah's face while maintaining their own composure.
 

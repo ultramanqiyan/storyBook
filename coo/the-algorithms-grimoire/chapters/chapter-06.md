@@ -1,4 +1,4 @@
-# Chapter 6: The Test - Proving Worthiness
+# Chapter 6: The Recognition
 
 The examination chamber smelled of chalk dust and nervous sweat, the air thick with the pressure of evaluation. Kira stood before the Council of Masters, ARIA clutched in her hands, her heart steady despite the stakes.
 

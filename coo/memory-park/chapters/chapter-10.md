@@ -1,4 +1,4 @@
-# Chapter 10: The Legacy
+# Chapter 10: The Legacy - A New Beginning
 
 Six months later
 

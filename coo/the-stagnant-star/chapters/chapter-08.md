@@ -1,4 +1,4 @@
-# Chapter 8: The Cost
+# Chapter 8: The Cost of Perfection
 
 The deep archive was hidden beneath the public Archive, accessible only through passages that weren't on any map. Elena's key opened a door that Nova hadn't noticed before—a section of wall that slid aside to reveal another staircase, descending even deeper into the earth.
 

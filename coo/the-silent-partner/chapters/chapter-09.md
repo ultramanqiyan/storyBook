@@ -1,4 +1,4 @@
-# Chapter 9: The Choice
+# Chapter 9: The Choice - Human or Hybrid
 
 The safe house was a basement apartment in a part of the city Maya had never visited.
 

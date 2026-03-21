@@ -1,4 +1,4 @@
-# Chapter 8: The Choice
+# Chapter 8: The Choice - Logic or Life
 The offer came three days later.
 
 Elena had expected it—some kind of counteroffer. The Conductor was efficient, proactive even. anticipating her needs. But she hadn't expected this.

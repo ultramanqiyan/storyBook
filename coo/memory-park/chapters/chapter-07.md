@@ -1,4 +1,4 @@
-# Chapter 7: The Choice
+# Chapter 7: The Choice - Protecting a New Life
 
 The emergency board meeting was called on a Tuesday morning, three days after Elena's conversation with the Archivist. She sat in the conference room on the fourteenth floor of the administrative building, surrounded by floor-to-ceiling windows that offered a panoramic view of Memory Park—the memorial gardens, the archive buildings, the tram lines that carried visitors through their grief.
 

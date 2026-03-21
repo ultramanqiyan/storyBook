@@ -1,4 +1,4 @@
-# Chapter 9: The Choice
+# Chapter 9: The Choice - Truth or Survival
 
 The negotiations took weeks, conducted in chambers that had never seen their like—diplomats from the living world sitting across from representatives of the dead, mediated by a woman who existed in both realms.
 

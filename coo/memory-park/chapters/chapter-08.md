@@ -1,4 +1,4 @@
-# Chapter 8: The Sacrifice
+# Chapter 8: The Sacrifice - Saving a Consciousness
 
 The server room had never felt so small. Elena watched Marcus work, his fingers dancing across keyboards and touchscreens with a speed that spoke of desperation. The clock on the wall showed 10:47 PM. They had seventy-three minutes until midnight.
 
