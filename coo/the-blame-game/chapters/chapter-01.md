@@ -106,21 +106,19 @@ David's eyes stayed on Mark's face for a moment longer than necessary. "I apprec
 
 Mark stood up. His legs felt unsteady.
 
-"One more thing, Mark." David's voice was casual, but something in his tone made Mark pause. "For your own records, you might want to gather any documentation you have about your review process. Emails, notes, anything that might be relevant."
+David leaned forward. "One more thing, Mark. For your own records, you might want to gather any documentation you have about your review process. Emails, notes, anything that might be relevant."
 
 Mark's stomach dropped. *For your own records.* That meant for the company's records. For evidence.
 
 "I'll put something together," Mark said. "I have all my review notes in my files."
 
-"Good." David smiled, but the smile didn't reach his eyes. "I'll see you at the meeting."
+"Good." David's smile didn't reach his eyes. "I'll see you at the meeting."
 
 ---
 
-Mark walked out of David's office. The hallway felt longer than usual. His colleagues glanced at him as he passed, their expressions carefully neutral.
+Mark walked out of David's office. The hallway felt longer than usual. His colleague Lisa from accounting passed him, her expression carefully neutral as she nodded.
 
-He reached his desk and sat down. His hands were shaking.
-
-He opened his email and started typing.
+At his desk, Mark sat down. His hands were shaking. He opened his email and started typing.
 
 *To: David Morrison*
 *Subject: Review Documentation*
@@ -131,118 +129,16 @@ He opened his email and started typing.
 *Best,*
 *Mark*
 
-He attached his files and hit send. Then he sat back, staring at the screen.
+He attached his files and hit send.
 
-*For the record,* he thought. *He's building a case.*
+His phone buzzed immediately. A text from his wife.
 
-His phone buzzed again. Another message from David.
+*How was work today?*
 
-*Thanks, Mark. I'll forward this to the team. See you in 30 minutes.*
+Mark stared at the message. How could he possibly explain? He typed back: *Long day. Tell you at home.*
 
-Mark stared at the message. *Forward to the team.*
+As he gathered his things, he passed Sarah's desk. She was staring at her screen, her expression unreadable. Their eyes met for a moment. She looked away first.
 
-He was being set up.
+*She's protecting herself,* Mark thought. *We're all protecting ourselves.*
 
----
-
-At 10:15 AM, Mark walked into Conference Room B.
-
-The entire team was already there. Sarah Kim sat in the corner, her eyes on her laptop. Michael Torres from Legal sat near the front. Jennifer Walsh from HR was by the door. David stood at the head of the table.
-
-"Thank you all for coming," David said. "I know this is a difficult situation, but I appreciate everyone's cooperation."
-
-Mark took a seat. The room was cold. The air conditioning hummed in the background.
-
-David's pen moved across his page. "Let's start by going around the room. I'd like each person to state their role in the trading system project."
-
-One by one, the team members spoke. Each person's statement was careful, professional, designed to inform but also protect.
-
-When it was Mark's turn, his mouth was dry.
-
-"My role is Senior AI Code Reviewer," he said. "I'm responsible for reviewing and approving all AI-generated code before it goes into production."
-
-David nodded. "And how long have you held this role?"
-
-"Two years," Mark said. "Since the CodePilot system was implemented."
-
-"And in that time, have you ever identified any issues with the AI-generated code?"
-
-Mark hesitated. This was a trap. If he said no, he looked incompetent. If he said yes, he looked negligent.
-
-"I've identified potential issues during review," Mark said carefully. "I've flagged them for further testing. Most were resolved before deployment."
-
-"Can you give examples?" David's pen was ready.
-
-Mark provided a few examples from memory. Each one was carefully chosen—issues that were caught and fixed, showing diligence and competence.
-
-David wrote them down. "Good. And what about this particular code? Did you identify any issues?"
-
-*No,* Mark thought again. *I didn't see anything wrong.*
-
-"The code passed all standard tests," Mark said. "There were no obvious issues at the time of review."
-
-David nodded slowly. "Did you run any additional tests beyond the standard suite?"
-
-*No. Should I have?* "I relied on the standard test suite. It's been reliable for two years."
-
-"I see." David's voice was neutral. "Sarah, can you tell us about the QA process?"
-
-Sarah looked up from her laptop. Her expression was carefully neutral. "We run the standard test suite on all AI-generated code. We also do spot testing for known edge cases."
-
-"And did you identify any issues with this particular code?"
-
-Sarah glanced at Mark, then back at David. "The code passed all standard tests. We didn't identify any issues during our regular testing process."
-
-"Did you do any additional testing beyond the standard suite?" David asked.
-
-"No," Sarah said. "We followed the standard protocol."
-
-David nodded. His pen moved across the page again. "Michael, from a legal perspective, what are the implications?"
-
-Michael Torres leaned forward. "At this stage, we're still assessing liability. The initial focus is on understanding what happened and why. Once we have a clear picture, we can determine next steps."
-
-David nodded. "Jennifer, from an HR perspective, what's the process here?"
-
-Jennifer Walsh's voice was calm, measured. "We'll be conducting a thorough review of the situation. We want to make sure we understand all the facts before making any decisions. This is standard procedure for incidents of this magnitude."
-
-*Standard procedure.* Mark had heard that phrase before. It meant *we're going to find someone to blame.*
-
-"Thank you all," David said. "I think we have a good starting point. I'll be scheduling follow-up meetings with each of you individually. In the meantime, please preserve all documentation related to this project."
-
-Mark's stomach tightened. *Preserve all documentation.* That meant *don't delete anything that could be evidence.*
-
-The meeting ended. As people filed out, Mark caught Sarah's eye. She looked away quickly.
-
-He walked back to his desk. His phone buzzed with another email from David.
-
-*Subject: Follow-up*
-*Mark,*
-*Thanks for your participation in the meeting. Just to clarify for the record, you mentioned you've identified potential issues during your review process. Can you send me examples with dates and how they were resolved?*
-*Best,*
-*David*
-
-Mark stared at the email. *Just to clarify for the record.*
-
-He was being asked to document his past successes. Which meant his past failures would be examined next.
-
-He started typing a response. Each word felt like a step on a tightrope.
-
----
-
-By the end of the day, Mark had sent David a detailed list of issues he had identified and resolved over the past two years. He had attached emails, code snippets, and test results.
-
-He sat back, exhausted. His inbox was full of messages from colleagues—careful, professional messages that said nothing and meant everything.
-
-*Thinking of you during this difficult time.*
-*Let me know if there's anything I can do to help.*
-*We're all in this together.*
-
-Mark knew what those messages meant: *I'm protecting myself. Don't drag me down with you.*
-
-He closed his laptop and stared at the dark screen.
-
-Tomorrow would be another day of meetings. Another day of questions. Another day of documenting his own defense.
-
-He had been in this industry long enough to know how this worked. Someone had to pay. The only question was who.
-
-And the more he thought about it, the more he realized: the answer might be him.
+He was being set up. And he was walking right into it.

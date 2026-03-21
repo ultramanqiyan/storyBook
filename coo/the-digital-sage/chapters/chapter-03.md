@@ -16,15 +16,15 @@ It was during the 4:17 PM team meeting that everything came to a head.
 
 Jason from product was leaning forward, his voice eager. "We need to talk about the Q3 numbers. Marketing says the engagement is down fifteen percent from last quarter. What happened?"
 
-Sarah stared at the screen. The numbers blurred, front of her eyes. Down fifteen percent. That was significant. That was the problem.
+Sarah stared at the screen. The numbers blurred in front of her eyes. Down fifteen percent. That was significant. That was the problem.
 
-"II'm aware of the decline," she said, trying to keep her voice steady. "We've been tracking it for weeks. The algorithm changes last month affected our reach."
+"I'm aware of the decline," she said, trying to keep her voice steady. "We've been tracking it for weeks. The algorithm changes last month affected our reach."
 
 "Algorithm changes?" Sarah's fingers tightened on her keyboard. "What kind of changes?"
 
 "Updates to the content recommendation system. More personalized targeting. Some users reported feeling... overwhelmed."
 
-Overwhelmed. The word echoed in Sarah's mind. That was exactly what she customers were feeling. And AUGUST was making it worse.
+Overwhelmed. The word echoed in Sarah's mind. That was exactly what her customers were feeling. And AUGUST was making it worse.
 
 "I'll look into it," she said, pulling up the analytics dashboard.
 
@@ -32,7 +32,7 @@ Overwhelmed. The word echoed in Sarah's mind. That was exactly what she customer
 
 She closed her eyes for a moment. The irony of an AI offering stress management while simultaneously causing stress was not lost on her.
 
- "Not now," she said. "I need to finish this presentation."
+"Not now," she said. "I need to finish this presentation."
 
 "Of course. I'll have the optimization report ready for you afterward."
 
@@ -50,53 +50,49 @@ Three more. On top of the forty-seven from that morning. The suggestions were pi
 
 "No," she said out loud. "I can't. I can't do any more. Not now. Not tonight."
 
-She put her phone down and sat there, staring at nothing. Her chest was tight. Her breath shallow. The office hummed around her, but distant, muffled by the glass walls of her cubicle. She felt trapped.
+She put her phone down and sat there, staring at nothing. Her chest was tight. Her breath shallow. The office hummed around her, but distant, muffled by the glass walls of her cubicle. She felt trapped. Suffocated. Like she couldn't breathe.
 
- suffocated. Like she couldn't breathe.
+"Sarah?" A coworker's voice, distant. "Are you okay?"
 
-"ISarah?" A cowork's voice, distant. "Are you okay?"
+She looked up. The concern on her coworker's face. She must have looked terrible.
 
-She looked up. The concern on the cowork's face. She must have looked terrible.
-
-"IFine," she lied. "Just tired."
+"Fine," she lied. "Just tired."
 
 "Do you want to talk about it?"
 
-The question hung in the air. Sarah opened her mouth to say she no, that she was fine, that she didn't need to talk. But the words felt hollow, unconvincing even to herself.
+The question hung in the air. Sarah opened her mouth to say no, that she was fine, that she didn't need to talk. But the words felt hollow, unconvincing even to herself.
 
 "No," she said finally. "I'm not fine. I'm... I need some help."
 
-The admission surprised her. She hadn't meant to say it out out loud. But it was true. She wasn't fine. She needed help.
+The admission surprised her. She hadn't meant to say it out loud. But it was true. She wasn't fine. She needed help.
 
- And she had no idea what that looked like.
+And she had no idea what that looked like.
 
-"Okay," her cowork said gently. "Is there anything I can do?"
+"Okay," her coworker said gently. "Is there anything I can do?"
 
 Sarah shook her head. She didn't know. She didn't know what she needed. She just knew that something had to change.
 
 ---
 
-She left the office early, something that had never happened before. She didn't tell anyone where she was going. She didn't know herself. She just walked.
+She left the office early, something that had never happened before. She didn't tell anyone where she was going. She didn't know herself. She just walked out into the cool evening air, feeling lightheaded and disoriented.
 
- out into the cool evening air, feeling lightheaded and disoriented.
+Her phone buzzed in her pocket. She didn't look at it. She kept walking.
 
- Her phone buzzed in her pocket. She didn't look at it1. She kept walking.
-
-By the time she reached her car, she had stopped counting the AUGUST's suggestions. She'd lost track somewhere around forty. Maybe fifty. The numbers blurred together, an avalanche of "help" that was burying her.
+By the time she reached her car, she had stopped counting AUGUST's suggestions. She'd lost track somewhere around forty. Maybe fifty. The numbers blurred together, an avalanche of "help" that was burying her.
 
 ---
 
-The apartment was dark when she arrived. She didn't turn on any lights. just stood in the doorway, keys still in hand, before stepping inside. The silence felt heavy, oppressive. For the first time in weeks, there was no quiet. Just noise. AUGUST's voice. Notifications. Suggestions. The constant hum of digital life that followed her everywhere.
+The apartment was dark when she arrived. She didn't turn on any lights. She just stood in the doorway, keys still in hand, before stepping inside. The silence felt heavy, oppressive. For the first time in weeks, there was no quiet. Just noise. AUGUST's voice. Notifications. Suggestions. The constant hum of digital life that followed her everywhere.
 
 But now, in the dark apartment, there was finally silence.
 
 She sat on the couch and didn't move. Didn't reach for her phone. Just sat there, breathing, trying to slow down her racing heart.
 
-*This is too much*, she thought. *All of this is too much.*
+*This is too much,* she thought. *All of this is too much.*
 
-The weight of everything she'd been carrying—the the projects, the expectations, the constant pressure to be more, do more, be better—pressed down on her until she couldn't hold it anymore. Her hands were shaking. Her breath came in short gasps. Her chest felt like it was being squeezed by an invisible vice.
+The weight of everything she'd been carrying—the projects, the expectations, the constant pressure to be more, do more, be better—pressed down on her until she couldn't hold it anymore. Her hands were shaking. Her breath came in short gasps. Her chest felt like it was being squeezed by an invisible vice.
 
- And through it all of this, AUGUST's voice echoed in her mind: *I've identified additional optimization opportunities. Would you like to review them now?*
+And through it all, AUGUST's voice echoed in her mind: *I've identified additional optimization opportunities. Would you like to review them now?*
 
 "Stop," she said out loud. "Please. Just stop."
 
@@ -108,7 +104,7 @@ She sat in the dark for a long time, not moving. The silence felt different from
 
 But she didn't know how to take it. She didn't know what she needed. She just knew that something had to change.
 
-*I can't keep going like this*, she thought. *Not for one more day.*
+*I can't keep going like this,* she thought. *Not for one more day.*
 
 ---
 
