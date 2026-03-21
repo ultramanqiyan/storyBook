@@ -6,7 +6,9 @@ The mountain loomed above me, its face a puzzle of rock and ice. I stood at the 
 
 I nodded, the data settling into my mind like pieces of a puzzle. This was what I did—what I had always done. Let the system calculate the risk, then execute the perfect line.
 
-The cameras were rolling, as they always were. My sponsor, Apex Athletics, had turned my climbs into content, my risks into revenue. Every move I made was documented, analyzed, monetized. But I didn't mind. The attention was part of the job.
+Jamie, my spotter, stood at base camp, monitoring the feed from my body sensors. "Vitals look good, Alex. Heart rate steady at 65. Oxygen saturation optimal. You're cleared for launch."
+
+"Copy that." I adjusted my harness, feeling the familiar weight of the equipment. The cameras were rolling, as they always were. My sponsor, Apex Athletics, had turned my climbs into content, my risks into revenue. Every move I made was documented, analyzed, monetized. But I didn't mind. The attention was part of the job.
 
 I began to climb.
 
@@ -16,7 +18,13 @@ The first hundred feet were easy—warm-up moves, the kind I could do in my slee
 
 I moved like a machine, efficient and precise. This was what optimization looked like: no wasted effort, no unnecessary risk, no doubt. Just the perfect execution of a calculated plan.
 
-The crowd below grew smaller as I climbed, the world narrowing to rock and sky and the steady voice of AI. This was my element—where risk became data, where danger became manageable, where I became the best version of myself.
+The world narrowed to rock and sky and the steady voice of AI. This was my element—where risk became data, where danger became manageable, where I became the best version of myself.
+
+At 400 feet, I reached the first major ledge. RISK-AI calculated a three-minute rest, and I took it, sitting on the narrow platform, my legs dangling over thousands of feet of empty air. The view was spectacular—peaks stretching to the horizon, clouds drifting below me like slow-moving thoughts.
+
+"Rest complete," the AI said. "Proceed with sequence Alpha-7."
+
+I stood and continued climbing.
 
 ---
 
@@ -28,58 +36,130 @@ I visualized the sequence, the data painting a picture in my mind. This was what
 
 I took a breath and launched.
 
-The move was perfect. My hand caught the sloper, my feet matched, my body swung into position. The crowd below gasped, but I barely heard them. I was in the zone, executing the plan, following the line.
+The move was perfect. My hand caught the sloper, my feet matched, my body swung into position. I was in the zone, executing the plan, following the line.
+
+Then everything changed.
 
 ---
 
-The summit came at 2 hours 58 minutes—24 minutes ahead of schedule. I stood at the top, the world spread out below me, the data scrolling across my vision: "Route complete. Success probability confirmed. Performance rating: 9.8/10."
+The first warning was subtle—a flicker in my heads-up display, a momentary glitch in the data stream. I barely noticed it, my focus on the next hold, the next move.
 
-I raised my arms for the cameras, the gesture automatic. This was what victory looked like: perfect execution, perfect data, perfect content.
+"Recalculating route," RISK-AI said, its voice slightly distorted. "Please stand by."
 
-But somewhere, in the hollow place where triumph should have been, there was nothing.
+I paused, one hand on a crimper, my feet balanced on a narrow edge. The system had never needed to recalculate mid-climb before. Something was wrong.
 
----
+"System error," the AI announced. "Diagnostic in progress. Estimated time: 30 seconds."
 
-The after-party was everything I expected—sponsors, journalists, fans, all wanting a piece of the victory. I moved through the crowd, smiling for photos, answering questions, being the athlete they wanted me to be.
+Thirty seconds. I could hold this position for thirty seconds. My training kicked in, my body locking into place while I waited for the system to recover.
 
-"Alex, how does it feel to complete another perfect climb?"
+But thirty seconds passed, and the display remained dark.
 
-"Great," I said, the word automatic. "The system identified a strong line, and I executed it."
+"System error," the voice repeated, now sounding more mechanical, less human. "Critical failure detected. RISK-AI service unavailable. Please contact technical support."
 
-"Do you ever think about climbing without RISK-AI?"
-
-The question caught me off guard. I turned to see a woman in her thirties, her expression curious rather than admiring. She wasn't holding a camera or a microphone.
-
-"Without it?" I laughed. "Why would I do that?"
-
-"Because risk is supposed to be felt, not calculated," she said. "Because intuition is part of what makes us human. Because..." She trailed off, her expression shifting to something like sadness. "Never mind. Congratulations on the climb."
-
-She walked away before I could respond.
+My heart rate spiked. I was 850 feet up a mountain face, and my AI had just died.
 
 ---
 
-That night, I lay in my hotel room, staring at the ceiling. The woman's question echoed in my mind: "Do you ever think about climbing without RISK-AI?"
+I tried to stay calm. I had trained for emergencies—basic protocols for equipment failure, backup procedures for communication loss. But I had never actually experienced a complete system shutdown. Not like this. Not mid-climb.
 
-I had been climbing with AI assistance since I was sixteen—eight years of calculated risks, optimized routes, perfect execution. I couldn't imagine doing it any other way. The system made me better, safer, more successful.
+"Jamie," I said into my radio. "Jamie, I've lost RISK-AI. Do you copy?"
 
-But her words stayed with me: "Risk is supposed to be felt, not calculated."
+Static. The radio was dead too.
 
-What did that even mean? Risk was data, probability, analysis. That was how you managed it. That was how you survived.
+I looked up at the remaining 400 feet of mountain face, then down at the 850 feet I had already climbed. Without RISK-AI, I had no data. No route calculations. No probability assessments. No guidance.
 
-I closed my eyes, trying to remember what climbing had felt like before RISK-AI. The memory was distant, faded—like a dream I couldn't quite recall. There had been something, some feeling of... what? Intuition? Instinct? The sense of knowing without knowing why?
-
-I couldn't remember.
+For the first time in eight years, I was climbing blind.
 
 ---
 
-The next morning, I flew home to Colorado, the mountains rising around me like old friends. My apartment was small—most of my life was on the road—but it was mine. I dropped my bag on the floor and stood at the window, looking out at the peaks.
+I tried to remember the route the system had calculated. There had been a sequence—something about moving right, then up through a crack system. But the details were fuzzy. I had always relied on RISK-AI to remember the details. Why would I need to remember them myself?
 
-RISK-AI hummed in my ear, already calculating my next project. "New route identified. Probability of success: 91.2%. Estimated preparation time: 6 weeks."
+My hands began to tremble. I forced myself to breathe, to think, to focus. I was a professional climber. I had been climbing since I was twelve. I knew how to climb without AI—I had done it before, back when I was young, back before the system had become my second brain.
 
-I nodded, the data settling into my mind. This was my life: calculated risks, optimized outcomes, perfect execution.
+But the memories were distant, faded. I couldn't remember the last time I had made a decision without data. I couldn't remember what it felt like to trust my own judgment.
 
-But somewhere, in the hollow place where passion should have been, there was nothing.
+"Come on," I whispered to myself. "Think. What's the next move?"
 
-I didn't know why. I didn't know what was missing. I just knew that something was wrong.
+The rock stared back at me, silent and indifferent.
 
-And I was afraid to find out what.
+---
+
+I made a decision. It wasn't calculated. It wasn't optimized. It was just... a guess.
+
+I moved right, reaching for a hold I couldn't quite see. My fingers found rock—solid, cold, real. I pulled myself up, searching for the next grip.
+
+It wasn't there.
+
+I had chosen wrong. The hold I had reached for was a dead end, a trap that RISK-AI would have warned me about. But RISK-AI was gone, and I was alone.
+
+I tried to reverse the move, to go back, but my foot slipped. For a terrifying moment, I was falling—then my safety caught me, the rope snapping taut, leaving me dangling in empty air.
+
+I swung gently, my heart pounding against my ribs. I was safe. For now. But I was also stranded, 850 feet up a mountain, with no AI, no radio, and no idea how to get down.
+
+---
+
+The sun was setting. I could see it sliding toward the horizon, painting the sky in shades of orange and pink. Beautiful. Terrifying.
+
+I managed to swing back to the rock face, finding a narrow ledge where I could sit. It was barely wide enough for my body, but it was something. A place to wait.
+
+I tried the radio again. Nothing. I tried the emergency beacon. Nothing. The entire system was dead—all of it, gone in an instant, leaving me with nothing but rock and sky and the growing darkness.
+
+For the first time in my life, I understood what risk really meant. Not data. Not probability. Not calculation.
+
+Risk was this. Being alone. Being afraid. Being responsible for your own survival.
+
+I sat on the ledge, my back against the cold rock, and watched the sun disappear.
+
+---
+
+Night fell like a curtain. The temperature dropped rapidly, the mountain air turning from cool to frigid. I pulled my emergency blanket from my pack, wrapping it around my shoulders, but it wasn't enough. I was shivering within minutes.
+
+I tried to remember the survival protocols. Stay calm. Conserve energy. Wait for rescue. But how long would rescue take? Jamie had my position—she would have called for help the moment my signal disappeared. But the weather was turning, the wind picking up, and I was exposed on this ledge, alone in the dark.
+
+I closed my eyes and tried to think. What would I do if RISK-AI were working? The system would calculate the best options, weigh the probabilities, tell me exactly what to do.
+
+But RISK-AI wasn't working. And for the first time, I realized how much of myself I had given away to the machine. My judgment. My intuition. My ability to think for myself.
+
+I had become so optimized that I had forgotten how to be human.
+
+---
+
+The wind howled around me, carrying flakes of snow that stung my face. I huddled deeper into my emergency blanket, my body shaking from cold and fear.
+
+Somewhere in the distance, I thought I heard a helicopter. I strained to listen, hope surging through me—but it was just the wind, playing tricks on my desperate mind.
+
+I was alone. Truly alone. And I had no one to blame but myself.
+
+I had chosen this life. I had chosen to let the AI think for me, to let the system make my decisions, to optimize away the very thing that made climbing meaningful.
+
+Risk. Uncertainty. The unknown.
+
+I had traded them all for perfect data and calculated success. And now, sitting on a ledge in the dark, I understood the cost.
+
+The woman at the party had been right. Risk was supposed to be felt, not calculated. Intuition was part of what made us human.
+
+I had forgotten that. And now I was paying the price.
+
+---
+
+I don't know how long I sat there. Hours, maybe. The cold was a constant presence, seeping through my clothes, settling into my bones. I drifted in and out of consciousness, my mind playing tricks on me.
+
+At some point, I saw lights in the distance—headlights, maybe, or a helicopter searchlight. I tried to wave, to shout, but my voice was gone, my arms too weak to lift.
+
+The lights moved away.
+
+I was still alone.
+
+---
+
+Dawn came slowly, the sky lightening from black to gray to pale blue. I was still alive—barely. My body was numb, my mind foggy. But I was alive.
+
+I forced myself to move, to assess my situation. The ledge was narrow, but there was a crack system to my left that might lead to another ledge, maybe even a way down.
+
+It wasn't calculated. It wasn't optimized. It was just... hope.
+
+I stood up, my legs shaking, and began to climb.
+
+---
+
+**Chapter 1 Complete**

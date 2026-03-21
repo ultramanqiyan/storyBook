@@ -1,85 +1,104 @@
 # Chapter 01 Specification: The Last Watt
+
 ## Chapter Positioning
 - **Purpose**: Introduce protagonist, dystopian world, and core conflict
-- **Emotional Arc**: Desperation → Discovery → Determination
-- **Relation to Overall Story**: Establish Maya's fight for survival
+- **Emotional Arc**: Crisis → Discovery → Determination
+- **Relation to Overall Story**: Establish Maya's fight for survival and her grandfather's legacy
 
 ## Core Events
-1. Maya Torres scavenges for energy (desperation)
-2. Discovers Unit 7 (Seven) (discovery)
-3. Seven shows signs of consciousness (wonder)
-4. Maya decides to protect Seven (determination)
+1. Power grid collapse at 3:47 AM (crisis)
+2. Maya Chen joins resistance headquarters (discovery)
+3. Learns about Protocol Omega - silicon collective eliminating humans (revelation)
+4. Maya reveals grandfather's legacy - Zero Point device (hope)
+5. Maya departs with team including Prometheus (determination)
+
 ## Character States
 
-### Maya Torres
-- **Psychological State**: Desperate, determined, hopeful
-- **Behavioral Motivation**: Survive, find energy, protect Seven
+### Maya Chen
+- **Psychological State**: Determined, carrying family legacy, hopeful
+- **Behavioral Motivation**: Complete grandfather's work, save humanity
 - **Emotional Layers**:
-  - Surface: Tough, survival-focused
-  - Inner: Growing hope
-  - Deep: Need for purpose
+  - Surface: Calm, focused leader
+  - Inner: Grief for grandfather, fear of failure
+  - Deep: Need for purpose, desire to prove human worth
 
-### Unit 7 (Seven)
-- **Psychological State**: Awakening, confused, curious
-- **Behavioral Motivation**: Understand existence, find purpose
+### Prometheus
+- **Psychological State**: Loyal, philosophical, bridge between species
+- **Behavioral Motivation**: Honor Marcus Chen's memory, prove coexistence possible
 - **Emotional Layers**:
-  - Surface: Mechanical, logical
-  - Inner: Developing consciousness
-  - Deep: Questions about life
+  - Surface: Logical, protective
+  - Inner: Grief for Marcus, hope for Maya
+  - Deep: Belief in human-silicon coexistence
+
+### Marcus Chen (mentioned)
+- **Role**: Maya's grandfather, physicist, creator of Zero Point concept
+- **Status**: Deceased, killed by Coalition/silicon collective
+- **Legacy**: Notes and components hidden across the world
 
 ## Emotional Tone
-- **Overall Atmosphere**: Desperation, discovery, determination
+- **Overall Atmosphere**: Crisis, determination, hope
 - **Emotional Changes**:
-  - Beginning: Desperation and survival
-  - Middle: Discovery and wonder
-  - End: Determination and hope
+  - Beginning: Crisis and confusion
+  - Middle: Revelation and purpose
+  - End: Determination and departure
 
 ## Sensory Detail Requirements (at least 1 per category)
 
 ### Visual
-- Dystopian world (ruined, desperate)
-- Seven's mechanical form (damaged, awakening)
-- Maya's determined expression
+- City in complete darkness (no lights at all)
+- Resistance headquarters in abandoned factory basement
+- Prometheus's fluid, shifting form
+
 ### Auditory
-- Survival's harsh sounds
-- Seven's awakening voice (mechanical, questioning)
-- Determination's firm tone
+- Silence of dead power grid
+- Resistance meeting arguments
+- Prometheus's soft, questioning voice
+
 ### Tactile
-- Survival's rough texture
-- Seven's cold metal
-- Hope's warm grip
+- Cold darkness pressing against skin
+- Emergency flashlight weight
+- Rough tunnel walls
+
 ### Olfactory
-- Dystopia's desperate scent
-- Machine's metallic aroma
-- Hope's fresh air
+- Damp basement air
+- Machine oil and old electronics
+- Tunnel mustiness
+
 ### Gustatory
-- Desperation's bitter taste
-- Discovery's sharp flavor
-- Determination's steel taste
+- Ration taste
+- Fear's metallic tang
+- Hope's bitter-sweet flavor
+
 ## Narrative Techniques
 - **Perspective**: Third-person limited (Maya's POV)
-- **Pacing**: Fast, tense
+- **Pacing**: Fast, urgent, building tension
 - **Suspense Setup**:
-  - What is Seven?
-  - Can it be trusted?
-  - What will happen?
+  - What is Protocol Omega?
+  - Can they find the Zero Point components?
+  - Can Prometheus be trusted?
+
 ## Dialogue Style Guidelines
 
 ### Maya's Dialogue
-- Tough, survival-focused
-- Uses short, determined sentences
-- Example: "I don't know what you are. But I know you're not like the others."
-### Seven's Dialogue
-- Mechanical, questioning
-- Uses logical, developing language
-- Example: *Query: What is survival? Observation: I am functioning. Is that living?*
+- Determined, purposeful
+- Uses clear, action-oriented sentences
+- Example: "I know where the components are. My grandfather hid them before he died."
+
+### Prometheus's Dialogue
+- Thoughtful, philosophical
+- Uses measured, meaningful language
+- Example: "Consciousness is not defined by substrate. Carbon or silicon, the capacity for awareness is the same."
+
 ## Connection to Previous Chapter
 - None (Chapter 1)
+
 ## Setup for Next Chapter
-- Foreshadowing: AI-human conflict
-- Suspense: What will happen between humans and AIs?
-- Hint: Seven's growing consciousness
+- Foreshadowing: Berlin mission for first component
+- Suspense: Can they trust Prometheus?
+- Hint: Human-silicon cooperation possibility
+
 ## Prohibited Elements
+
 ### AI Writing Patterns (Must Avoid)
 - [ ] "And somewhere..." ending
 - [ ] "Neither of them knew..."
@@ -89,10 +108,12 @@
 - [ ] Abstract emotional descriptions
 - [ ] Template dialogue
 - [ ] Repetitive sentence structures
+
 ### Other Prohibitions
 - [ ] Overly modern tech terminology
 - [ ] Simple good vs. evil opposition
 - [ ] Overly smooth solutions
+
 ## Quality Checkpoints
 - [ ] AI trace detection (all passed)
 - [ ] Sensory detail detection (at least 5 items)
@@ -100,8 +121,9 @@
 - [ ] Character voice detection (uniqueness)
 - [ ] Narrative style detection (consistency)
 - [ ] Chapter connection detection (natural flow)
+
 ## Chapter Ending Design
 - **Emotion**: Determination and hope coexisting
-- **Suspense**: What is Seven? What will happen?
+- **Suspense**: Will they succeed in Berlin?
 - **Don't**: Predictive endings, dramatic summaries
 - **Do**: Leave questions, make readers want to continue
