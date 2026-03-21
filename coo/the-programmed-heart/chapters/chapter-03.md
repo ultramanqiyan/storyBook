@@ -8,7 +8,7 @@ Saturday morning. My parents leave for their weekly grocery run.
 
 "Okay. Call us if you need anything."
 
-The door closes. The car starts. The engine fades.
+The door closes with a soft click. The car starts. The engine fades into the distance.
 
 I wait. One minute. Two. Three.
 
@@ -24,35 +24,37 @@ I open drawers. I look through cabinets. I find nothing unusual—just the norma
 
 The same vanilla my mother always wears.
 
-I move to the kitchen. Then the bathroom. Then the hallway closet.
+I move to the kitchen. The counters gleam under the overhead light. The sink is empty. The dishwasher is clean and unloaded. Everything in its place.
+
+Then the bathroom. Then the hallway closet.
 
 Nothing.
 
 I go upstairs. To my parents' room.
 
-The door is still open from last night. The room looks the same. The bed is made. The curtains are drawn. The nightstand where I found the card is undisturbed.
+The door is still open from last night. The room looks the same. The bed is made with hospital corners. The curtains are drawn. The nightstand where I found the card is undisturbed.
 
-I check the closet. Clothes, neatly organized by color. Shoes, lined up perfectly. No boxes. No hidden compartments.
+I check the closet. Clothes, neatly organized by color—white, then cream, then beige, then brown, then black. Shoes, lined up perfectly on a rack. No boxes. No hidden compartments.
 
-I check under the bed. Nothing but dust.
+I check under the bed. Nothing but dust bunnies in the corners.
 
 I check the drawers. Socks. Underwear. A few old photographs.
 
-I pick up one of the photographs. It's my parents, younger. My mother is holding me—I must be two or three years old. She's laughing. Actually laughing. Her head is thrown back. Her eyes are crinkled.
+I pick up one of the photographs. It's my parents, younger. My mother is holding me—I must be two or three years old. She's laughing. Actually laughing. Her head is thrown back. Her eyes are crinkled. Her mouth is open wide, showing teeth.
 
 I've never seen her laugh like that.
 
-I put the photograph back. My hands are shaking.
+I put the photograph back. My hands are trembling.
 
 I keep searching.
 
 ---
 
-In the back of the closet, behind a stack of old sweaters, I find a box.
+In the back of the closet, behind a stack of old sweaters that smell like cedar, I find a box.
 
 It's cardboard. Plain. No label.
 
-I pull it out. It's heavier than I expected.
+I pull it out. It's heavier than I expected. The cardboard is thick, reinforced.
 
 I open it.
 
@@ -80,7 +82,7 @@ I read the letter three times. The words don't make sense.
 
 *Neural interface technology? Parental Care Enhancement?*
 
-I turn the page.
+I turn the page. The paper is crisp, clean, like it was printed yesterday.
 
 The next document is a medical form. It has my parents' names at the top. Their signatures at the bottom. And in the middle, a list of symptoms.
 
@@ -103,7 +105,7 @@ And then they found... this. This system.
 
 I turn the page again.
 
-The next document is a technical specification. It has diagrams. Charts. Words I don't understand.
+The next document is a technical specification. It has diagrams. Charts. Words I don't understand—neural pathways, synaptic modulation, emotional pattern templates.
 
 But one sentence stands out:
 
@@ -133,13 +135,13 @@ They don't know that their love—their smiles, their patience, their perfect wo
 
 They don't know that they're not really feeling anything.
 
-The room spins. I grab the edge of the bed. I sit down. Hard.
+The room spins. I grab the edge of the bed. I sit down. Hard. The mattress creaks beneath me.
 
 ---
 
 I read more.
 
-There are years of documents. Status reports. Calibration records. Notes from doctors.
+There are years of documents. Status reports. Calibration records. Notes from doctors in neat, clinical handwriting.
 
 I learn that my parents started using the system when I was four. That they were desperate. That my mother couldn't stop crying. That my father couldn't handle the stress.
 
@@ -159,7 +161,7 @@ All generated. All calculated. All fake.
 
 I find a photograph in the back of the box.
 
-It's my parents, before the system. My mother is holding me. Her eyes are red. Her face is tired. She's not smiling.
+It's my parents, before the system. My mother is holding me. Her eyes are red. Her face is tired. Dark circles under her eyes. She's not smiling.
 
 But she's looking at me. And in her eyes, there's something raw. Something real.
 
@@ -167,7 +169,7 @@ Pain. Love. Fear. Hope.
 
 All mixed together. All messy. All human.
 
-I look at that photograph for a long time.
+I look at that photograph for a long time. The edges are worn, like someone held it often.
 
 Then I look at the documents in my hands. The clinical words. The sterile descriptions.
 
@@ -203,7 +205,7 @@ I sit there, on the floor of my parents' room, surrounded by the proof that my e
 
 The car stops. Doors open. Close.
 
-Footsteps on the walkway.
+Footsteps on the walkway. The sound is sharp in the morning air.
 
 The front door opens.
 
@@ -221,7 +223,7 @@ I close my eyes.
 
 *How do I face them, knowing that everything they are is everything they're not?*
 
-The footsteps come closer. Up the stairs.
+The footsteps come closer. Up the stairs. Each step is measured, even.
 
 "Alex?"
 
@@ -233,7 +235,7 @@ I have seconds to decide.
 
 Hide the truth. Or face it.
 
-I stand up. My legs are shaking.
+I stand up. My legs are shaking. I gather the documents. Stuff them back in the box. Push it into the closet.
 
 The door opens.
 
@@ -271,9 +273,7 @@ She nods. She walks away.
 
 I stand there, alone in the room.
 
-The documents are still on the floor. The box is still open. The truth is still there, waiting to be seen.
-
-I gather everything. I put it back in the box. I push the box to the back of the closet.
+The documents are hidden in the closet. The box is closed. The truth is buried.
 
 I walk to my room. I close the door.
 

@@ -2,11 +2,11 @@
 
 I stand on the sidewalk.
 
-My house is in front of me. The same house I grew up in. The same windows. The same door. The same perfect lawn.
+My house is in front of me. The same house I grew up in. The same windows. The same door. The same perfect lawn. The hedges are trimmed at exactly the same height. The mailbox is painted the same shade of blue.
 
 It looks smaller than I remember.
 
-The lights are on inside. Warm. Inviting. The kind of lights that say "home."
+The lights are on inside. Warm. Inviting. The kind of lights that say "home." A shadow moves past a window—my mother, probably. Or my father.
 
 But I know what's behind those lights. The perfect family. The perfect love. The perfect lie.
 
@@ -14,11 +14,11 @@ I don't move.
 
 ---
 
-It's evening. The sun is setting. The sky is orange and pink. Beautiful.
+It's evening. The sun is setting. The sky is orange and pink, streaked with purple clouds. Beautiful.
 
 Real.
 
-I breathe in. The air smells like grass. Like flowers from the neighbor's garden. Like the world.
+I breathe in. The air smells like grass. Like flowers from the neighbor's garden—roses, maybe. Like exhaust from a passing car. Like the world.
 
 I've been gone for a week. A week of cheap hotels. A week of diners and libraries and strangers. A week of learning about the system. About my parents. About myself.
 
@@ -34,9 +34,11 @@ One more time.
 
 I walk around the house. To the back.
 
+The grass is soft under my shoes. A sprinkler hisses somewhere nearby. A dog barks three houses down.
+
 The kitchen window is lit. I can see inside.
 
-My mother is there. She's cooking. Stirring something in a pot. Her movements are precise. Graceful. The same movements I've seen a thousand times.
+My mother is there. She's cooking. Stirring something in a pot. Her movements are precise. Graceful. The same movements I've seen a thousand times. She reaches for a spoon. The same spoon. The same angle.
 
 My father is at the table. He's reading something. He looks up. He says something to my mother. She turns. She smiles.
 
@@ -44,7 +46,7 @@ The same smile. The same angle. The same warmth.
 
 Generated.
 
-I watch them. My chest aches.
+I watch them. My chest aches. A physical pain, like something pressing against my ribs.
 
 They look happy. They look content. They look like a normal family.
 
@@ -54,7 +56,7 @@ They're just... running a program.
 
 ---
 
-I hear voices. The window is open a crack.
+I hear voices. The window is open a crack. The sound drifts out, mixed with the smell of cooking—onions, garlic, something savory.
 
 "...worried about her," my father is saying.
 
@@ -66,7 +68,7 @@ I hear voices. The window is open a crack.
 
 "Is it? I don't remember... I don't remember being that age."
 
-A pause. Then my mother's voice again.
+A pause. The spoon scrapes against the pot. Then my mother's voice again.
 
 "Neither do I. But the books say it's normal. The websites say we should wait. So we wait."
 
@@ -80,7 +82,7 @@ The system took that from them.
 
 I walk back to the front of the house.
 
-I stand on the porch. The welcome mat is there. The same mat. "HOME SWEET HOME."
+I stand on the porch. The welcome mat is there. The same mat. "HOME SWEET HOME." The letters are fading. I never noticed that before.
 
 I reach for the doorbell. My hand stops.
 
@@ -102,7 +104,7 @@ She sees me. Her face changes. The same change. The same pattern. Concern. Relie
 
 "Alex!" She reaches for me. She pulls me into a hug.
 
-Her arms are warm. Her body is soft. She smells like vanilla. The same vanilla.
+Her arms are warm. Her body is soft. She smells like vanilla. The same vanilla. But underneath, there's something else—onions from cooking. Sweat. Real human smells.
 
 "Thank god you're okay. We were so worried."
 
@@ -114,15 +116,15 @@ I don't think I'll ever know.
 
 ---
 
-We sit in the living room. The same room. The same couch. The same everything.
+We sit in the living room. The same room. The same couch. The same everything. The lamp casts a warm glow. The clock on the wall ticks steadily.
 
-My father is there too. He's holding my hand. His grip is warm. Firm. The same grip.
+My father is there too. He's holding my hand. His grip is warm. Firm. The same grip. His palm is slightly damp.
 
 "Where were you?" he asks. "We looked everywhere. We called the police. We—"
 
 "I'm sorry," I say. "I just... I needed to get away."
 
-"Get away from what?" My mother's voice is gentle. Concerned. "Is something wrong? Are you okay?"
+"Get away from what?" My mother's voice is gentle. Concerned. She's sitting on the edge of the couch. Her hands are folded in her lap. "Is something wrong? Are you okay?"
 
 I look at her face. The face I've known my whole life. The face that has always been kind. Patient. Loving.
 
@@ -130,7 +132,7 @@ The face of a stranger.
 
 "I'm okay," I say. "I just... I had to figure some things out."
 
-"What things?" My father leans forward. "You can tell us. We're here for you. Always."
+"What things?" My father leans forward. His knee bumps the coffee table. A glass rattles. "You can tell us. We're here for you. Always."
 
 The words are perfect. The tone is perfect. Everything is perfect.
 
@@ -148,15 +150,15 @@ In their own broken way, they tried.
 
 "I'm not staying," I say.
 
-My mother's face changes. Concern. Confusion. The same pattern.
+My mother's face changes. Concern. Confusion. The same pattern. But her hands tighten in her lap. Her knuckles whiten.
 
 "What do you mean?"
 
 "I mean... I can't live here anymore. I need to find my own way."
 
-"But you're sixteen," my father says. "Where will you go? How will you live?"
+"But you're sixteen," my father says. His voice cracks slightly. "Where will you go? How will you live?"
 
-"I'll figure it out." I stand up. "I just wanted to see you. To tell you I'm okay."
+"I'll figure it out." I stand up. The couch cushion springs back. "I just wanted to see you. To tell you I'm okay."
 
 "Alex, please." My mother reaches for me. Her hand is shaking. Is that real? Or simulated? "Don't go. We love you. We want to help."
 
@@ -180,7 +182,7 @@ They tried.
 
 I hug my mother. I hug my father.
 
-Their arms are warm. Their bodies are real. They exist. They're here.
+Their arms are warm. Their bodies are real. They exist. They're here. My mother's hair tickles my face. My father's cologne—woodsy, familiar—fills my nose.
 
 They're not the parents I wanted. They're not the parents I deserved.
 
@@ -196,7 +198,7 @@ Even if they can't mean it back.
 
 I walk out of the house.
 
-The night is cool. The stars are out. The world is big and messy and real.
+The night is cool. The stars are out—scattered across the sky like spilled salt. The moon is half-full. The world is big and messy and real.
 
 I don't know where I'm going. I don't know what I'll do.
 
@@ -217,6 +219,8 @@ But mine.
 ---
 
 I walk down the street. Away from the house. Away from the perfect family.
+
+My shoes crunch on the pavement. A car passes. Its headlights sweep across me, then disappear.
 
 I don't look back.
 

@@ -1,4 +1,4 @@
-# Chapter 5: The Project
+# Chapter 5: The Evidence - Proof of Manipulation
 
 By month four, Alex was alone.
 
@@ -43,6 +43,30 @@ Taylor had stopped pretending to care. They came in at 9, left at 6, and did the
 Sam had been put on a PIP. Alex found out by accident—Sam's screen was visible during a meeting, and the HR email was open. *Performance Improvement Plan.* The same words that had been haunting Alex's nightmares since their first review. Sam had stopped making eye contact with anyone. They spent their lunch breaks in their car, staring at nothing.
 
 And Sarah. Sarah was barely present. She came in late, left early, and spent most of her time staring at her screen with dead eyes. The woman who had warned Alex about manipulation had become a ghost of herself—going through the motions, counting down the hours until she could escape.
+
+---
+
+One evening, Alex found Sarah alone in the break room, staring at a cup of cold coffee. The fluorescent lights buzzed overhead, casting harsh shadows across her tired face. The air smelled of stale coffee and microwave leftovers.
+
+"Sarah?" Alex approached cautiously. "Are you okay?"
+
+Sarah looked up, and for a moment, Alex saw something flash in her eyes—recognition, sadness, maybe even hope. Then it was gone, replaced by the familiar mask of exhaustion.
+
+"I'm fine. Just tired."
+
+"Me too." Alex sat down across from her. "Can I ask you something?"
+
+"Go ahead."
+
+"That first day... you warned me about this place. What did you mean?"
+
+Sarah was quiet for a long moment. The break room hummed around them—the refrigerator cycling, the coffee machine gurgling, the distant sound of keyboards clicking in the open office.
+
+"I've been here five years," she finally said. "I've watched it happen over and over. The love bombing at the start. The subtle criticism. The isolation. The gaslighting. The PIPs. The exits." She met Alex's eyes. "You're in the isolation phase now. But it gets worse before it gets better."
+
+"What do I do?"
+
+"That's the question, isn't it?" Sarah stood, dumping her cold coffee in the sink. "Some of us stay and survive. Some of us leave and rebuild. Some of us fight and lose everything." She paused at the door. "The question is: what are you willing to lose?"
 
 ---
 

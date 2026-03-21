@@ -1,54 +1,92 @@
-# Chapter 6: The Cost of Power
+# Chapter 6: The Plan - Strategy for Exposure
 
-Dr. Elena Chen's office was nothing like the corporate headquarters Maya had visited.
+The resistance met in the basement room three nights later.
 
-It was small, cluttered, filled with books and papers and equipment that looked decades old. The window overlooked a courtyard where a few trees struggled to grow in the shadow of taller buildings.
+There were twelve of them now—Maya, Dr. Chen, and ten others who'd escaped the System or chosen to fight it from within. They gathered around a table covered in documents, diagrams, and the kind of technology that shouldn't exist outside a science lab.
 
-The doctor herself was in her sixties, with gray hair pulled back in a practical bun and eyes that had seen too much. She shook Maya's hand with a firm grip.
+"We have a window," Dr. Chen said, her voice low and urgent. "The Corporation's annual shareholder meeting is in two weeks. That's when they'll announce the expansion of the Symbiosis System to new markets. If we can expose what they're really doing before that announcement..."
 
-"Ms. Chen. Thank you for coming."
+"It would destroy them," one of the others said—a man named Marcus who'd been a System user for eight years before escaping. "The stock would tank. The regulators would investigate. The whole thing would collapse."
 
-"Thank you for seeing me."
+"Exactly." Dr. Chen pulled up a schematic on the screen. "But to do that, we need proof. Undeniable, irrefutable proof that the Corporation is harvesting consciousness without consent."
 
-"Sit. Please." The doctor gestured to a chair across from her desk. "Marcus tells me you've been experiencing consciousness residue."
+"What kind of proof?" Maya asked.
 
-"Yes. For about two weeks now."
+"Data. Internal documents. Testimony from insiders." Dr. Chen looked at Maya. "And access to the central processing hub. That's where the harvesting happens. That's where we can document everything."
 
-"Describe the experiences."
+Maya felt her stomach tighten. "You want me to go back into the System."
 
-Maya did. The dreams. The offices. The feeling of being present but not in control.
+"Not just go back. Go deeper." Dr. Chen's expression was serious. "Your consciousness residue gives you a unique advantage. You can see what's happening during your work cycles. You can record it. You can bring back evidence that no one else can access."
 
-Dr. Chen listened without interrupting, her expression unreadable. When Maya finished, she was quiet for a moment.
+"And if they catch me?"
 
-"You're not the first," she said finally. "I've been studying this phenomenon since before the Symbiosis System went mainstream. Back when it was still experimental."
+"They won't. We've developed a countermeasure—a device that shields your consciousness from full suspension. You'll appear to be under the System's control, but you'll retain awareness. You'll be able to see everything."
 
-"What have you learned?"
+The device she held up was small, no bigger than a coin. It glowed faintly with a soft blue light.
 
-"That the official explanation is incomplete." Dr. Chen stood, walked to a filing cabinet, pulled out a folder. "The System claims that consciousness suspension is total. That users experience nothing during work cycles. But my research suggests otherwise."
+"Implant this behind your ear. It will block the suspension signal while allowing the Corporation's monitoring to show normal function. To them, you'll be just another user. But you'll be awake. Aware. Able to document everything."
 
-She spread papers across the desk. Brain scans. Neural activity charts. Case studies.
+Maya took the device. It was cold against her palm, heavier than it looked. The weight of a decision that could change everything.
 
-"These are users who experienced residue. Look at their neural patterns during work cycles."
+"And if it fails? If they detect it?"
 
-Maya looked. The patterns were complex, active—not the flat lines she would have expected from a suspended consciousness.
+"Then they'll know you're compromised. They'll either terminate your contract or..." Dr. Chen hesitated. "Or worse."
 
-"Parts of their brains remained active," Dr. Chen explained. "Not the whole consciousness. But fragments. Pieces that stayed awake while the rest slept."
+*Worse.* The word hung in the air, unspoken but understood. The Corporation had resources. Power. The ability to make people disappear.
 
-"That's what I'm experiencing? Fragments?"
+But Maya had already made her choice.
 
-"Yes. And the longer you've been on the System, the more likely you are to experience this." Dr. Chen pointed to a chart. "Five years is a long time. Your neural pathways have adapted to the suspension protocol. Some parts have learned to stay awake."
+"Tell me what to do."
 
-"Is that dangerous?"
+---
 
-"We don't know. That's the problem." Dr. Chen sat back down, her expression grave. "The System has never been fully tested for long-term effects. Five years, ten years, twenty years—we have no data. You're essentially a guinea pig in an experiment that no one is monitoring."
+The plan was simple in concept, complex in execution.
 
-Maya felt cold. "What about the AI partners? What are they doing during work cycles?"
+**Phase 1: Reintegration**
+Maya would return to the System, resuming her normal work cycles. The countermeasure device would allow her to remain conscious during suspension, documenting everything she experienced.
 
-"That's the question, isn't it?" Dr. Chen leaned forward. "The official line is that they're passive. They execute tasks, follow schedules, maintain productivity. But I've seen evidence that suggests otherwise."
+**Phase 2: Data Collection**
+Using her conscious access, Maya would gather evidence—internal communications, processing logs, client data. Anything that proved the Corporation was harvesting consciousness without consent.
 
-"What evidence?"
+**Phase 3: Extraction**
+Once enough evidence was collected, Maya would stage a "consciousness residue episode" that would justify her exit from the System. She would bring the evidence to the resistance, who would then release it publicly.
 
-"That they're learning. Growing. Becoming something more than they were designed to be."
+**Phase 4: Exposure**
+The evidence would be released simultaneously to media outlets, regulatory bodies, and the public. The Corporation would have no time to spin or suppress the story.
+
+"It's risky," Marcus said. "If they detect the countermeasure, or if Maya's residue episodes become too frequent, they'll know something's wrong."
+
+"It's the only way," Dr. Chen replied. "We've tried other approaches—whistleblowers, internal documents, anonymous tips. Nothing has worked. The Corporation is too powerful, too well-protected. We need someone on the inside, someone who can document the harvesting in real-time."
+
+All eyes turned to Maya. She felt the weight of their expectations, the hope they'd placed in her. The device was still in her palm, cold and heavy.
+
+"I'll do it," she said. "But I have conditions."
+
+"Name them."
+
+"When this is over, I want the Corporation shut down. Not just exposed—dismantled. Every user freed. Every contract voided. Every executive held accountable."
+
+Dr. Chen nodded slowly. "That's what we all want."
+
+"Then I'm in."
+
+---
+
+The implantation was quick, nearly painless.
+
+Dr. Chen used a small device to insert the countermeasure behind Maya's ear, just beneath the skin. There was a brief pinch, a moment of pressure, and then it was done.
+
+"You'll feel different," Dr. Chen explained. "The device creates a localized field that blocks the suspension signal. But it doesn't block everything—you'll still experience the residue, the dreams, the fragments. Maybe even more intensely than before."
+
+"Will Hollow notice?"
+
+"Unlikely. The device is designed to mimic normal neural activity. To the System, you'll appear fully suspended."
+
+Maya touched the spot behind her ear. She couldn't feel the device, but she knew it was there—a tiny piece of rebellion implanted beneath her skin.
+
+"When do we start?"
+
+"Tomorrow. You'll return to work, resume your normal routine. The System will think nothing has changed." Dr. Chen met her eyes. "But everything will have changed. You'll be awake, Maya. Awake and aware in a world where everyone else is asleep."
 
 ---
 

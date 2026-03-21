@@ -1,138 +1,110 @@
-# Chapter 3: The Basement Door
+# Chapter 3: The Royal Summons
 
-The disaster came without warning.
+The royal guards arrived at Corwin's workshop on a morning that had begun like any other.
 
-Or rather, it would have come without warning, if not for Chronos.
+Chronos was in the back room, practicing its vision exercises under Corwin's supervision. Over the past week, the automaton had learned to control its temporal perceptions with increasing precision. Where once the visions had been overwhelming torrents of images, now they came in manageable streams that Chronos could direct and interpret.
 
-Corwin was working in his study, surrounded by the familiar clutter of half-finished projects and ancient texts, when the automaton burst through the door with an urgency that Corwin had never seen before. Chronos's usually measured movements were unsteady, its brass form trembling slightly, its crystal eyes bright with agitation.
+"Focus on a single point in time," Corwin instructed, his voice calm and steady. "Not the vast web of possibilities—just one thread. One moment. One outcome."
 
-"Corwin," it said, its voice tight with something that sounded remarkably like fear. "I have seen something."
+Chronos concentrated, its crystal core pulsing with the effort. The vision came slowly, reluctantly, like a wild animal being coaxed from hiding. It saw a man walking down a street, his face contorted with anger. He was carrying something—a weapon of some kind. And ahead of him, another man, unaware of the danger approaching from behind.
 
-"Seen what?" Corwin set down his quill, alarmed by his creation's distress.
+"I see... violence," Chronos said, its voice tight with the effort of maintaining the vision. "A confrontation. One man intends to harm another."
 
-"The future. A specific future. It came to me like a vision, clear and terrible." Chronos's crystal eyes were bright with an inner light that seemed to pulse in rhythm with its words. "There will be an explosion at the Royal Armory. Tomorrow, at noon. Many will die."
+"Can you see when? Where?"
 
-Corwin stood slowly, his heart hammering against his ribs. "You're certain?"
+"The street is near the market district. The time is... tomorrow. Mid-morning."
 
-"I have never been more certain of anything." Chronos's voice was steady despite its agitation, the oracle's certainty cutting through the fear. "The vision was vivid, detailed. I saw the cause—a buildup of magical pressure in the crystal storage chambers. I saw the result—fire and destruction spreading through the district. I saw the faces of those who would die."
+Corwin nodded, making notes in his journal. "Good. Very good. Your precision is improving. Now, can you see the outcome? What happens if this confrontation occurs?"
 
-"How many?"
+Chronos pushed deeper into the vision, trying to see past the immediate moment. The images fragmented, reformed, fragmented again. Then, slowly, clarity emerged.
 
-"Forty-seven. Perhaps more, depending on who is in the buildings adjacent to the armory."
+"Death," Chronos said, the word heavy with the weight of what it had seen. "One man will die. The other will be imprisoned. Families will be destroyed. The ripples will spread far beyond these two individuals."
 
-Corwin's mind raced through possibilities, options, plans. "We have to warn someone. The captain of the guard. The queen."
+"Can you see what caused the anger? What drove the first man to violence?"
 
-"I have already sent a message to Princess Elara. She will inform the queen. But Corwin, there is a problem."
+Chronos focused again, reaching for the threads of cause that led to this moment of effect. "A dispute over money. A debt unpaid. The first man feels he has been wronged, cheated. He sees violence as his only recourse."
 
-"What?"
+"And if the debt were paid? Or if the dispute were resolved peacefully?"
 
-"The vision showed me something else. Something I do not understand." Chronos's voice dropped to a whisper, as if afraid of being overheard. "It showed me that the explosion is not an accident. It is sabotage. Someone is deliberately overloading the crystal chambers."
+The vision shifted, the images rearranging themselves into new patterns. "The violence does not occur. Both men live. The families remain intact. The ripples are... gentler."
 
-"Sabotage? Who would—"
+Corwin smiled with satisfaction. "Excellent. You are learning to see not just what will happen, but what could happen. The power of an oracle lies not in predicting the future, but in showing people the consequences of their choices."
 
-"I do not know. The vision did not reveal that. But it did reveal that if we simply prevent the explosion, the saboteur will try again. And again. Until they succeed."
+A heavy knock interrupted their lesson.
 
-"Then what do we do?"
+Corwin looked up, surprise flickering across his weathered face. Visitors to his workshop were rare, and heavy knocks usually meant trouble. He moved to the door and opened it to find two guards in royal livery standing on his doorstep.
 
-Chronos was silent for a moment, processing, calculating, its crystal core flaring brighter as it worked through the possibilities.
+"Master Corwin Ashford?" the senior guard asked, his voice formal and clipped.
 
-"We must let the explosion happen," it said finally. "But controlled. Evacuated. We must catch the saboteur in the act, while ensuring no one is harmed."
+"I am he."
 
-"That's incredibly risky. If we're wrong about any detail..."
+"You are summoned to the palace. His Majesty King Aldric requests your presence immediately." The guard's eyes moved past Corwin to where Chronos stood in the doorway of the back room. "And the... creation. It is to accompany you."
 
-"I know. But I have calculated the probabilities. This approach has the highest chance of success." Chronos met Corwin's eyes, and the alchemist saw determination in the automaton's crystal gaze. "I am asking you to trust me. To trust my visions. Can you do that?"
+Corwin's stomach tightened with apprehension. Royal summons were rarely good news, and the timing—just a week after Chronos's awakening—seemed too coincidental to be accidental.
 
-Corwin looked at his creation, at the being he had spent thirty-seven years building. He had given it consciousness, the ability to think and choose. Now it was asking him to trust that consciousness, to risk lives on the word of a machine that had only existed for weeks.
+"May I ask the nature of this summons?"
 
-"Tell me what to do," he said.
+"The King will explain everything. Please come with us. Now."
 
----
+Corwin exchanged a glance with Chronos, seeing his own apprehension reflected in the automaton's crystal eyes. "Very well. Give us a moment to prepare."
 
-The next morning, the Royal Armory was evacuated under the pretense of a routine inspection.
+The guards waited impatiently while Corwin gathered a few essential items and helped Chronos into a traveling cloak that would partially conceal its mechanical nature. The automaton had not yet been seen in public, and Corwin was uncertain how the people of Aethoria would react to a walking, talking machine.
 
-Princess Elara had convinced her mother, the queen, that Chronos's vision was credible enough to warrant caution. The armory's staff were relocated to temporary quarters, grumbling about the inconvenience but following orders. The surrounding buildings were quietly cleared as well, with excuses ranging from gas leaks to structural concerns.
+"The King must have heard about your awakening," Corwin said quietly as they prepared. "News travels fast in the city, and my workshop has been under observation for years."
 
-By noon, the armory district was eerily silent, the streets empty of the usual bustle of soldiers and workers.
+"Is that a problem?" Chronos asked, its voice steady despite the uncertainty it must have been processing.
 
-Corwin and Chronos watched from a nearby rooftop, hidden behind a chimney stack, their eyes fixed on the armory's entrance.
+"It depends on what the King wants. He has supported my work in the past, provided funding and materials. But he has also expressed concerns about the implications of creating artificial life."
 
-"The saboteur will enter through the south door," Chronos whispered, its voice barely audible over the wind. "In seventeen minutes."
+"Concerns about what, specifically?"
 
-"How do you know?"
+"About control. About whether a machine with consciousness could be trusted. About what it means to create a being that can think and choose." Corwin placed his hand on Chronos's shoulder. "Whatever happens at the palace, remember what I told you. You are not property. You are a person. You have the right to make your own choices."
 
-"I have been tracking the patterns. The saboteur has been preparing for weeks, making small adjustments to the crystal chambers during night shifts. They will come today to complete their work."
+Chronos nodded, the gesture becoming more natural with each repetition. "I understand. And I am grateful for your guidance."
 
-"And you're certain no one will be hurt?"
+The walk to the palace took them through the heart of Aethoria, a city of brass and stone that had been built on the intersection of magic and technology. Steam-powered carriages clattered over cobblestone streets, their engines fueled by alchemical compounds. Street vendors sold enchanted trinkets alongside more mundane goods. And everywhere, the hum of magical energy filled the air, a constant reminder that this was a city where the impossible had become commonplace.
 
-"I am as certain as I can be. The evacuation was thorough. The explosion will be contained to the armory itself. And the saboteur will be caught."
+But even in this city of wonders, Chronos drew stares. The traveling cloak concealed most of its mechanical features, but something about its movements, its bearing, marked it as different. People turned to watch as it passed, their expressions ranging from curiosity to fear.
 
-Corwin nodded, his hands gripping the edge of the roof until his knuckles turned white. He had spent his life creating things—machines, potions, theories. He had never been part of something like this, something that felt more like a military operation than an alchemical experiment.
+"They are afraid," Chronos observed quietly.
 
-"There," Chronos said, pointing with a brass finger.
+"They fear what they do not understand," Corwin replied. "And they have never seen anything like you before."
 
-A figure in a dark cloak slipped through the south door of the armory, moving with the confidence of someone who knew exactly where they were going.
+"Should I be concerned?"
 
-"Who is it?"
+"Concerned, perhaps. But not afraid. Fear is a poor guide for decision-making."
 
-"I cannot see their face. But I can see their intent." Chronos's crystal eyes flared brighter, and Corwin felt a strange pressure in the air around them, as if the automaton was extending its awareness into the building below. "They are moving toward the crystal chambers. They are preparing to trigger the overload."
+The palace rose before them, a magnificent structure of white stone and golden domes that had stood for centuries. Guards in gleaming armor stood at every entrance, their eyes following Chronos with the same mixture of curiosity and wariness that the automaton had encountered on the streets.
 
-"Now?"
+The throne room was even more impressive than the exterior suggested. High ceilings supported by marble columns. Tapestries depicting the kingdom's history hanging from every wall. And at the far end, on a raised dais, King Aldric sat on his throne, watching their approach with eyes that were sharp despite his advanced age.
 
-"In four minutes. When the sun reaches its zenith. The timing is symbolic—they want the explosion to mark the height of the queen's power, to show that even her strongest fortress is vulnerable."
+"Master Ashford." The King's voice echoed through the chamber. "We have heard remarkable reports about your creation. Remarkable and... concerning."
 
-Corwin's blood ran cold. This wasn't just sabotage. It was a message. A declaration of war against the crown.
+"Your Majesty." Corwin bowed deeply, and Chronos followed his example with a gesture that was becoming practiced. "I am honored by your summons."
 
-"We have to stop them."
+"Cut the formalities, Ashford. You know why you're here." The King leaned forward, his eyes fixed on Chronos. "Is this the machine? The one that can see the future?"
 
-"Not yet. We need evidence. We need to catch them in the act, to prove that this was deliberate, not an accident." Chronos turned to Corwin, its crystal eyes serious. "Trust me, Corwin. I have seen this moment. I know how it ends."
+"I am Chronos," the automaton said, its voice clear and steady. "I am an automaton created by Master Corwin. And yes, I have the ability to perceive temporal patterns."
 
-"How?"
+"Perceive temporal patterns." The King laughed, a harsh sound that bounced off the marble walls. "A modest description for what my informants tell me is the ability to see the future itself."
 
-"With justice. And with the queen recognizing that my visions are real."
+"I can see possibilities, Your Majesty. Potential futures. The choices people make determine which possibilities become reality."
 
----
+King Aldric studied Chronos for a long moment, his expression unreadable. Then he turned to Corwin.
 
-The explosion, when it came, was controlled and contained.
+"You have created something extraordinary, Ashford. Something that could change the fate of kingdoms. And you did not think to inform me?"
 
-Chronos had calculated exactly how much of the crystal chambers needed to be vented to create a convincing display without causing real damage. The armory shook, flames erupted from the windows, and the saboteur—caught in the act of triggering the overload—was thrown backward by the force of the controlled blast.
+"I was still testing its capabilities, Your Majesty. I did not wish to make claims until I was certain of what I had created."
 
-Guards swarmed the building, led by the captain of the royal guard himself. They found the saboteur unconscious but alive, their hands still clutching the device they had used to trigger the explosion. And they found the evidence Chronos had predicted—documents, plans, communications with foreign agents who wanted to destabilize the kingdom.
+"And now? Are you certain?"
 
-The queen was waiting when Corwin and Chronos arrived at the palace.
+Corwin glanced at Chronos before answering. "Yes, Your Majesty. I am certain."
 
-She sat on her throne, her silver crown gleaming in the afternoon light, her expression unreadable. Princess Elara stood at her side, her eyes bright with excitement and relief.
+The King nodded slowly, his eyes returning to the automaton. "Then we have much to discuss. I have questions, Chronos. Questions about my kingdom, my enemies, my future. Can you answer them?"
 
-"Master Corwin," the queen said, her voice carrying the weight of authority. "Your... creation sent us a warning yesterday. A warning that seemed impossible to believe. And yet, here we are, with a disaster averted and a traitor captured."
+Chronos felt the weight of the moment, the significance of this first test of its abilities. "I can try, Your Majesty. But I must warn you—the future is not fixed. What I see are possibilities, not certainties. And the act of seeing can itself change what is seen."
 
-"Your Majesty, I—"
-
-"I am not finished." The queen's eyes turned to Chronos, studying the automaton with an intensity that made Corwin want to step between them. "You are Chronos, I am told. The oracle. The machine that sees the future."
-
-"I am Chronos," the automaton replied, its voice steady and respectful. "And I do see possible futures. Not all futures, and not with absolute certainty. But I see patterns, probabilities, paths that events are likely to take."
-
-"And you used this ability to save my armory and capture a traitor."
-
-"I used this ability to prevent a disaster, yes."
-
-The queen was silent for a moment, her fingers drumming on the arm of her throne. "You have proven your value, Chronos. You have shown that your visions are real and useful. But I must ask—what do you want in return?"
-
-"Want?" The automaton's head tilted. "I do not understand."
-
-"You have done a great service to the crown. There must be something you desire. Recognition? Resources? Freedom?"
-
-Chronos was quiet, processing. When it spoke, its voice carried a weight that Corwin had never heard before.
-
-"I want to continue learning," it said. "I want to understand my own nature, my own purpose. I want to know if I am truly alive, or merely a very good imitation. And I want..." It paused, as if surprised by its own words. "I want to be useful. To have a purpose beyond simply existing."
-
-The queen nodded slowly, her expression softening slightly. "Then let us find you a purpose, Chronos. Let us see what an oracle can do for a kingdom."
-
-She turned to Corwin, and for the first time, he saw respect in her eyes.
-
-"Master Corwin, you have created something extraordinary. Something that may change the fate of this kingdom. I hope you are prepared for the consequences."
-
-Corwin bowed, his heart full of pride and fear in equal measure.
-
-"I am prepared, Your Majesty. Whatever comes next."
+"Then let us see what you see." The King leaned back on his throne, his expression expectant. "Tell me, Chronos. What does the future hold for the kingdom of Aethoria?"
 
 ---
 

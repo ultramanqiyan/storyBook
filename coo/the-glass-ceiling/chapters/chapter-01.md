@@ -1,4 +1,4 @@
-# Chapter 1: The Interview
+# Chapter 1: The Opportunity - A Dream Job's Dark Side
 
 The email arrived on a Tuesday afternoon, buried between a newsletter Alex had never subscribed to and a reminder about an overdue library book. They almost deleted it without looking—the sender name seemed generic, the subject line too good to be anything but spam. But something made them pause. Something made them click.
 
@@ -18,7 +18,7 @@ But this email. This could change everything.
 
 The flight to San Francisco was the first Alex had ever taken for themselves. They'd flown once before—a family trip to Florida when they were twelve, funded by tax refund money that their parents had saved for a year. But this was different. This was Meridian Tech paying for their ticket, their hotel, their chance at a new life.
 
-The Bay Area unfolded beneath them as the plane descended—rolling hills the color of dried wheat, sprawling suburbs that seemed to go on forever, the glint of water in the distance. Alex pressed their face to the window, trying to memorize everything. This could be home. This could be the future.
+The Bay Area unfolded beneath them as the plane descended—rolling hills the color of dried wheat, sprawling suburbs that seemed to go on forever, the glint of water in the distance. Alex pressed their face to the window, trying to memorize everything. The cool glass against their forehead felt grounding, real. This could be home. This could be the future.
 
 The Meridian campus sprawled across Mountain View like a temple to innovation. Glass buildings reflected California sunshine with blinding intensity. Employees glided between buildings on electric scooters, their laughter carrying on the breeze. A coffee bar in the lobby served drinks named after programming languages—The Python, The Java, The Ruby on Rails. The air smelled of expensive coffee and possibility, of success and ambition and everything Alex had ever wanted.
 
@@ -26,7 +26,7 @@ Alex had never seen anything like it. In Millbrook, the biggest employer was the
 
 "Alex Chen?" A woman in designer jeans and a Meridian hoodie approached. Her smile was warm, practiced, perfect. "I'm Lisa from recruiting. Welcome to Meridian."
 
-Her handshake was firm, professional. Alex tried to match it, hoping their palm wasn't too sweaty, hoping they didn't look as overwhelmed as they felt.
+Her handshake was firm, professional. Alex tried to match it, hoping their palm wasn't too sweaty, hoping they didn't look as overwhelmed as they felt. The lobby hummed with activity—people walking purposefully, conversations happening in clusters, the soft click of laptops being opened and closed. Everything about this place whispered success.
 
 ---
 

@@ -30,6 +30,12 @@ Real. Messy. Alive.
 
 I breathe it in. It's not pleasant. But it's real.
 
+My shoes slap against the sidewalk. The rhythm is uneven. My left foot lands harder than my right. I've never noticed that before.
+
+At home, the carpet is soft. The floors are always clean. There's no sound when I walk.
+
+Here, every step echoes. Every movement matters.
+
 ---
 
 The bus station is small. A few benches. A ticket counter. A vending machine.
@@ -40,25 +46,29 @@ I walk to the counter. My hands are shaking.
 
 "One ticket," I say. "To... to the city."
 
-She looks at me. Her eyes are tired. Bored. "Which city?"
+She looks at me. Her eyes are tired. Bored. There are dark circles under them. A coffee stain on her shirt.
+
+"Which city?"
 
 I hesitate. I don't know. I didn't think this far ahead.
 
-"The nearest one," I say.
+"The nearest one."
 
-She sighs. "That would be downtown. Twelve dollars."
+She sighs. Her breath smells like peppermint and cigarettes. "That would be downtown. Twelve dollars."
 
-I pull out my money. Crumpled bills. Coins. I count them out on the counter.
+I pull out my money. Crumpled bills. Coins. I count them out on the counter. My fingers fumble. A quarter rolls off the edge and lands on the floor with a sharp *clink*.
 
-The woman watches me. Her expression doesn't change.
+The woman watches me. Her expression doesn't change. She doesn't help. She doesn't judge.
+
+She just waits.
+
+I find the quarter. I put it with the rest.
 
 "Bus leaves in ten minutes," she says. "Platform two."
 
 I take the ticket. I walk to the bench. I sit.
 
-The station is quiet. A man sleeps on the other side of the room. His mouth is open. He snores.
-
-I watch him. His face twitches in his sleep. His hand moves. He's dreaming.
+The station is quiet. A man sleeps on the other side of the room. His mouth is open. He snores—a wet, rattling sound. His face twitches in his sleep. His hand moves. He's dreaming.
 
 Real dreams. Real sleep. Real life.
 
@@ -68,11 +78,11 @@ I've never seen anything so beautiful.
 
 The bus arrives on time.
 
-I climb aboard. The driver looks at my ticket. He nods. He doesn't ask questions.
+I climb aboard. The driver looks at my ticket. He nods. He doesn't ask questions. His face is lined. Gray stubble on his chin. A stain on his collar.
 
 I find a seat near the back. The bus is almost empty. An old woman in the front. A man in a suit, sleeping. A teenager with headphones, staring out the window.
 
-I put my bag next to me. I lean my head against the window.
+I put my bag next to me. I lean my head against the window. The glass is cold. Vibrating with the engine's hum.
 
 The bus starts moving.
 
@@ -104,19 +114,21 @@ When the bus arrives, it's 1:30 AM. The station is bigger. Brighter. More people
 
 I get off. I stand on the platform. I look around.
 
-The city is loud. Even at this hour. Cars. Voices. Music from somewhere nearby.
+The city is loud. Even at this hour. Cars. Voices. Music from somewhere nearby. A siren wails in the distance.
 
-I smell food. Grease. Smoke. Something sweet.
+I smell food. Grease. Smoke. Something sweet—maybe a bakery, even at this hour.
 
 My stomach growls. I haven't eaten since lunch.
 
-I walk out of the station. The street is bright with neon signs. Hotels. Restaurants. Stores.
+I walk out of the station. The street is bright with neon signs. Hotels. Restaurants. Stores. A man pushes a cart full of newspapers. A woman argues on her phone. A dog barks from a doorway.
 
-I find a cheap hotel. The sign says "VACANCY." I walk in.
+I find a cheap hotel. The sign says "VACANCY." One letter is burned out. "VAC NCY."
 
-The man at the counter is old. His face is lined. He's watching a small TV behind the counter.
+I walk in.
 
-"Room for one?" he asks.
+The man at the counter is old. His face is lined. Gray hair. Thick glasses. He's watching a small TV behind the counter. A news program. Something about the weather.
+
+"Room for one?" he asks. His voice is rough. Like gravel.
 
 I nod.
 
@@ -124,7 +136,9 @@ I nod.
 
 I pay. He hands me a key. "Room 204. Second floor. Checkout's at eleven."
 
-I take the key. I walk up the stairs.
+I take the key. It's heavy. Brass. Worn smooth from use.
+
+I walk up the stairs. The carpet is threadbare. The walls are painted a dull green. Someone has scratched words into the paint near the second floor landing. I can't read them.
 
 ---
 
@@ -132,7 +146,7 @@ The room is small.
 
 A bed. A nightstand. A lamp. A window that looks out onto the street.
 
-The carpet is worn. The walls are thin. I can hear someone talking in the next room.
+The carpet is worn. The walls are thin. I can hear someone talking in the next room—a woman's voice, rising and falling. An argument, maybe. Or a conversation.
 
 It's not perfect.
 
@@ -142,11 +156,11 @@ It's not comfortable.
 
 It's real.
 
-I sit on the bed. The mattress sags in the middle. The sheets are rough. The pillow is flat.
+I sit on the bed. The mattress sags in the middle. The springs creak. The sheets are rough. The pillow is flat.
 
 I lie down. I stare at the ceiling.
 
-There's a crack in the plaster. A water stain. A cobweb in the corner.
+There's a crack in the plaster. A water stain spreading like a map. A cobweb in the corner, with a small spider waiting in the center.
 
 Imperfections. Flaws. Evidence of life.
 
@@ -190,23 +204,31 @@ Not until I find something real.
 
 Morning comes.
 
-I wake up to the sound of traffic. Horns. Voices. The city coming alive.
+I wake up to the sound of traffic. Horns. Voices. A garbage truck rumbling down the street. The city coming alive.
 
 I sit up. My neck hurts. The bed was terrible.
 
 It's the best I've felt in years.
 
-I wash my face in the small bathroom. The water is cold. The towel is scratchy.
+I wash my face in the small bathroom. The water is cold. The towel is scratchy. The soap is a thin sliver, almost used up.
 
 I look at myself in the mirror.
 
-My eyes are tired. My hair is messy. My face is pale.
+My eyes are tired. My hair is messy. My face is pale. There's a red mark on my cheek from the pillow.
 
 I look like someone who didn't sleep. Someone who ran away. Someone who's lost.
 
 But I also look like someone who's free.
 
 I walk out of the hotel. The street is busy. People everywhere. Walking. Talking. Living.
+
+A man bumps into me. He doesn't apologize. He keeps walking.
+
+A woman drops her coffee. It splashes on the sidewalk. She curses.
+
+A child cries. A dog barks. A car honks.
+
+The world is loud and messy and rude.
 
 I stand on the sidewalk. I watch them.
 

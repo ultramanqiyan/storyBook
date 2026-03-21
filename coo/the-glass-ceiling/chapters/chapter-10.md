@@ -1,6 +1,4 @@
-# Chapter 10: The Breakthrough
-
-The air carried the faint scent of dust, lingering in the background.
+# Chapter 10: The New Beginning - Beyond the Ceiling
 
 The letter went viral.
 
@@ -10,7 +8,7 @@ The letter went viral.
 
 Within hours, Alex's phone was exploding.
 
-Messages from journalists. Messages from other tech workers. Messages from people who'd experienced similar things at other companies.
+Messages from journalists. Messages from other tech workers. Messages from people who'd experienced similar things at other companies. The notification sounds became a constant stream, a digital chorus of validation and support.
 
 *This is bigger than I thought.*
 
@@ -32,7 +30,7 @@ Meridian's response was swift.
 
 The firing came the next day.
 
-Alex was called into a meeting with Jennifer and a lawyer.
+Alex was called into a meeting with Jennifer from HR and a lawyer. The conference room was cold, the air conditioning humming overhead. The fluorescent lights cast harsh shadows across the table.
 
 "Alex, we've reviewed your performance and your recent actions. We've decided to terminate your employment, effective immediately."
 
@@ -46,7 +44,7 @@ Alex was called into a meeting with Jennifer and a lawyer.
 
 Alex nodded. "I expected this."
 
-They gathered their things. Said goodbye to Sarah. Walked out of the building.
+They gathered their things. Said goodbye to Sarah, who hugged them with tears in her eyes. Walked out of the building into the California sunshine.
 
 For the first time in seven months, they felt... free.
 
@@ -62,7 +60,7 @@ The media picked up the story.
 
 **New York Times:** "The Glass Ceiling in Silicon Valley: One Worker's Story"
 
-The story spread. Other employees came forward. Other companies faced similar scrutiny.
+The story spread. Other employees came forward. Other companies faced similar scrutiny. The hashtag #MeTooInTech trended for days.
 
 Alex became the face of a movement.
 
@@ -72,7 +70,7 @@ Alex became the face of a movement.
 
 Six months later, the world had changed.
 
-Meridian faced a class-action lawsuit. Marcus was put on administrative leave. The company's diversity numbers were exposed, and the data was damning.
+Meridian faced a class-action lawsuit. Marcus was put on administrative leave. The company's diversity numbers were exposed, and the data was damning—only 15% of leadership positions held by women, only 8% by people of color.
 
 Other tech companies scrambled to audit their own practices. Some made real changes. Others made cosmetic ones. But the conversation had shifted.
 
@@ -88,9 +86,7 @@ They still had bad days. Still struggled with the trauma of their experience at 
 
 But they were healing. Growing. Becoming stronger.
 
-They started a support group for people who'd experienced workplace discrimination. They spoke at conferences. They wrote articles.
-
-They turned their pain into purpose.
+They started a support group for people who'd experienced workplace discrimination. They spoke at conferences. They wrote articles. They turned their pain into purpose.
 
 ---
 
@@ -98,7 +94,7 @@ They turned their pain into purpose.
 
 The fight wasn't over. The glass ceiling still existed, in tech and everywhere else. But it was cracked now. And every crack let in a little more light.
 
-Alex looked out at the city from their new apartment—a small place, nothing like the luxury of their Meridian days, but it was theirs. It was real.
+Alex looked out at the city from their new apartment—a small place, nothing like the luxury of their Meridian days, but it was theirs. It was real. The evening light painted the sky in shades of orange and pink, the colors of possibility and hope.
 
 They picked up their phone and called their mom.
 

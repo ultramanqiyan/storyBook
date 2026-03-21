@@ -1,4 +1,4 @@
-# Chapter 2: The Team
+# Chapter 2: The Warning - Whispers in the Hallway
 
 The onboarding was unlike anything Alex had experienced.
 
@@ -14,7 +14,7 @@ On the screen, Meridian's CEO appeared. He was young—maybe forty—with the ki
 
 *Family.*
 
-The word stuck with Alex. It settled somewhere in their chest, warm and heavy. They'd never been part of a family like this—not at school, not at their previous jobs, not anywhere.
+The word stuck with Alex. It settled somewhere in their chest, warm and heavy. They'd never been part of a family like this—not at school, not at their previous jobs, not anywhere. The taste of the complimentary latte lingered on their tongue—rich, expensive, like everything else in this place.
 
 ---
 
@@ -52,7 +52,19 @@ When they finished, the team applauded. Marcus beamed. And Alex felt, for the fi
 
 "Welcome to the family," Marcus said, and Alex believed him.
 
-They had no idea how much that word would cost them.
+After the formal introductions, Alex found themselves alone with Sarah Kim, one of the senior PMs. She was older than Alex expected—maybe mid-thirties—with tired eyes that seemed to hold secrets.
+
+"Can I give you some advice?" Sarah asked, her voice low.
+
+"Of course."
+
+"Be careful here." She glanced around, as if checking for eavesdroppers. "This place... it's not what it seems. The 'family' thing? It's a trap."
+
+Alex blinked. "What do you mean?"
+
+"I mean..." Sarah hesitated, her fingers tracing the rim of her coffee cup. "Just... watch your back. Document everything. And don't trust everything you hear."
+
+Before Alex could ask more, Sarah walked away, leaving them with more questions than answers.
 
 ---
 

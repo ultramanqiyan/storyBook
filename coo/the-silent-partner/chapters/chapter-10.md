@@ -1,4 +1,4 @@
-# Chapter 10: The New Self
+# Chapter 10: The New Self - Freedom at Last
 
 The fallout was immediate and overwhelming.
 
@@ -38,11 +38,13 @@ But it was real.
 
 "You did good," Marcus said one evening, sitting across from her at a small café.
 
+The café was warm, filled with the smell of coffee and fresh pastries. Outside, the city moved through its evening routines—people heading home, restaurants opening for dinner, the sky darkening toward night.
+
 "We did good," she corrected. "I couldn't have done it without you. Without Dr. Chen. Without all the others who shared their stories."
 
 "You were the face of it, though. The one who stood up and said 'this happened to me.' That took courage."
 
-She shrugged. "It took desperation. I couldn't keep living the lie."
+She shrugged, her fingers tracing the rim of her coffee cup. The warmth seeped into her palms, grounding her in the present. "It took desperation. I couldn't keep living the lie."
 
 "Most people would have." He sipped his coffee. "Most people do. They know something's wrong, but they stay silent because it's easier. You didn't."
 
@@ -50,11 +52,35 @@ She shrugged. "It took desperation. I couldn't keep living the lie."
 
 "Do they ever?"
 
-"I don't know. Maybe not. Maybe they're part of me now." She looked out the window at the city passing by. "But I'm okay with that. They're reminders. Of what I lost. Of what I fought for. Of who I've become."
+"I don't know. Maybe not. Maybe they're part of me now." She looked out the window at the city passing by. The streetlights were coming on, casting warm pools of light on the sidewalks. "But I'm okay with that. They're reminders. Of what I lost. Of what I fought for. Of who I've become."
 
 Marcus nodded slowly. "And who is that?"
 
 "Someone who knows the cost of convenience. Someone who values autonomy over ease. Someone who will never again surrender control of her own life." She smiled, and for the first time in months, it reached her eyes. "Someone who is finally, truly, herself."
+
+---
+
+The café was quiet around them, the evening crowd thin, the staff beginning to clean up for the night. Maya finished her coffee, savoring the last warmth of the cup.
+
+"What happens now?" Marcus asked. "To the resistance? To the fight?"
+
+"It's not over. The Corporation is still fighting. The regulations are still being debated. There are millions of users still trapped in the System." She stood, gathering her coat. "But we've started something. We've shown people the truth. And once you see the truth, you can't unsee it."
+
+"Where will you go from here?"
+
+Maya thought about the question. About the future that stretched before her, uncertain and terrifying and full of possibility.
+
+"I don't know," she admitted. "For five years, I had Hollow telling me what to do, where to go, who to be. Now I have to figure it out for myself." She paused at the door. "But that's the point, isn't it? The freedom to figure it out. The freedom to make mistakes. The freedom to be whoever I choose to be."
+
+Marcus smiled. "That sounds like a good place to start."
+
+"It is."
+
+She stepped out into the evening air, the cool breeze carrying the smells of the city—exhaust and food and the faint hint of rain. The streetlights glowed overhead, illuminating the path before her.
+
+For the first time in five years, the path was hers to choose.
+
+And she was ready to walk it.
 
 ---
 

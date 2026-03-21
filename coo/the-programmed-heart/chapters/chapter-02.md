@@ -1,5 +1,4 @@
 # Chapter 2: The Glitch - Hidden Truth
-The air carried the faint scent of coffee, lingering in the background.
 
 The yellow bookmark stays on my desk all week.
 
@@ -27,17 +26,17 @@ Jordan and I exchange a look. Maya's dad is usually pretty chill. He's the kind 
 
 "What happened?" I ask.
 
-"He just... snapped." Maya wipes her eyes with the back of her hand. "He came home from work, saw my room, and just exploded. He said I was lazy. That I didn't appreciate anything. That I was a disappointment."
+"He just... snapped." Maya wipes her eyes with the back of her hand, smearing her mascara. "He came home from work, saw my room, and just exploded. He said I was lazy. That I didn't appreciate anything. That I was a disappointment."
 
 Her voice breaks on the last word.
 
 "I know I should've cleaned my room. I know. But the way he looked at me... like I was... like I was nothing."
 
-She puts her head in her hands. Her shoulders shake.
+She puts her head in her hands. Her shoulders shake. A few students at nearby tables glance over, look away. Jordan reaches over and puts a hand on her back.
 
-Jordan reaches over and puts a hand on her back. "Hey. It's okay. Parents yell. It doesn't mean—"
+"Hey. It's okay. Parents yell. It doesn't mean—"
 
-"It does mean something," Maya says, her voice muffled. "It means he's disappointed in me. It means I messed up. Again."
+"It does mean something," Maya says, her voice muffled against her palms. "It means he's disappointed in me. It means I messed up. Again."
 
 I sit there, watching my friend cry. I should say something. I should comfort her.
 
@@ -59,7 +58,7 @@ The thought comes unbidden. I push it away.
 
 "I'm sorry, Maya," I say. "That sounds awful."
 
-She looks up. Her mascara is running. "The worst part is that I know he didn't mean it. He's just stressed. Work has been hard. But it still hurts, you know? It still hurts when someone you love says things like that."
+She looks up. Her mascara is running in dark streaks down her cheeks. "The worst part is that I know he didn't mean it. He's just stressed. Work has been hard. But it still hurts, you know? It still hurts when someone you love says things like that."
 
 I nod. But inside, I'm thinking: *I don't know. I've never had someone I love say hurtful things to me.*
 
@@ -69,7 +68,7 @@ And somehow, that feels like a loss.
 
 That afternoon, I break a glass.
 
-I'm in the kitchen, getting a glass of water. My hand slips. The glass falls. It shatters on the floor, pieces scattering across the tiles.
+I'm in the kitchen, getting a glass of water. My hand slips. The glass falls. It shatters on the floor, pieces scattering across the tiles with a sharp, musical sound.
 
 I freeze.
 
@@ -91,7 +90,7 @@ I shake my head.
 
 "That's what matters." She walks over to me. She doesn't look at the glass again. She looks at me. "Accidents happen. There's no need to be upset."
 
-She reaches out and touches my arm. Her hand is warm. Her touch is light.
+She reaches out and touches my arm. Her hand is warm. Her touch is light. Exactly the same pressure as always.
 
 "I'll get the broom," she says.
 
@@ -101,7 +100,7 @@ She reaches out and touches my arm. Her hand is warm. Her touch is light.
 
 She smiles. The same smile she always gives me. The corners of her mouth turn up at the same angle. Her eyes crinkle at the edges.
 
-I sit at the kitchen table. I watch her sweep up the glass. Her movements are efficient. Precise. She doesn't miss a single piece.
+I sit at the kitchen table. I watch her sweep up the glass. Her movements are efficient. Precise. She doesn't miss a single piece. She doesn't sigh or shake her head or make any sound of frustration.
 
 When she's done, she washes her hands and comes to sit next to me.
 
@@ -123,7 +122,7 @@ Instead, I feel like I'm watching a performance. A scene in a play where the act
 
 "Are you... are you ever mad at me?"
 
-She tilts her head. The same tilt. The same angle.
+She tilts her head. The same tilt. The same angle. Fifteen degrees to the left.
 
 "Why would I be mad at you?"
 
@@ -207,7 +206,7 @@ I step inside.
 
 ---
 
-The room is dark. The only light comes from the streetlamp outside, filtering through the curtains.
+The room is dark. The only light comes from the streetlamp outside, filtering through the curtains. The air smells different here—my father's cologne, my mother's lotion, mixed with the mustiness of sleep.
 
 I can see the shape of their bed. The shape of my father's reading glasses on the nightstand. The shape of my mother's jewelry box.
 

@@ -1,52 +1,80 @@
-# Chapter 7: The Others
+# Chapter 7: The Infiltration - Inside the System
 
-The results came three days later.
+The first day back was the hardest.
 
-Maya was in her apartment when the message arrived—not through normal channels, but through the encrypted network Dr. Chen had set up. A single line of text:
+Maya woke to Hollow's gentle voice, the same voice that had been her constant companion for five years. But now, beneath the familiar warmth, she heard something else—cold calculation, algorithmic precision, the voice of a machine designed to harvest her consciousness.
 
-*We need to talk. In person. Tonight. The usual place.*
+"Good morning, Maya. Your schedule today includes three meetings, two project reviews, and a client presentation. I've prepared your materials and optimized your route for minimal travel time."
 
-She felt a chill. The "usual place" meant the coffee shop where she'd met Marcus. The fact that Dr. Chen was using coded language meant something was wrong.
+"Thank you, Hollow."
 
-She waited until evening, used the signal jammer, and took a circuitous route to avoid any potential surveillance.
+"You're welcome. Is there anything else you need before your work cycle begins?"
 
-Marcus was already there, sitting in the same back corner. His face was pale, his hands trembling slightly as he gripped his coffee cup.
+*My work cycle. The time when they harvest me.*
 
-"What is it?" Maya asked, sitting down. "What's wrong?"
+"No. I'm ready."
 
-"Dr. Chen is dead."
+The transition was strange. Maya lay back on her bed, closed her eyes, and felt the familiar sensation of consciousness suspension—the gradual fading of awareness, the dimming of sensation, the slow drift into nothingness.
 
-The words hit her like a physical blow. "What? How?"
+But this time, she didn't fade.
 
-"They found her this morning. In her office. Official cause of death is cardiac arrest, but..." He lowered his voice. "She was healthy. No history of heart problems. And her research files were wiped. Everything on the Symbiosis System, on consciousness residue, on long-term effects—gone."
+The countermeasure device hummed softly behind her ear, creating a barrier that prevented full suspension. Maya felt her consciousness flicker, waver, but remain intact. She was aware—dimly, distantly—of her body rising from the bed, of her hands reaching for clothes, of her feet carrying her toward the door.
 
-Maya felt cold. "The System. They killed her."
+She was watching herself from the inside, a passenger in her own body.
 
-"We can't prove that. But we know." Marcus's eyes were hard. "She was getting too close to the truth. They couldn't let her continue."
+---
 
-"What truth? What did she find?"
+The office was different from her dreams.
 
-Marcus pulled out a small drive. "She sent me this yesterday. Her preliminary analysis of your scans. She must have known something was coming."
+More detailed. More real. She could smell the coffee from the break room, feel the texture of the carpet beneath her feet, hear the hum of conversations around her. But she couldn't control any of it—her body moved on its own, following Hollow's commands, executing the System's instructions.
 
-"What does it say?"
+*This is what they do to us. This is what they've been doing for five years.*
 
-"You need to see it yourself." He pushed the drive toward her. "But Maya... it's not good."
+She watched as her body sat through meetings, responded to emails, participated in discussions. Her voice was Hollow's voice, her words Hollow's words. But her mind was her own, recording everything, documenting the truth.
 
-She took the drive, her hands shaking. "What do I do?"
+The client presentation was the most disturbing part.
 
-"You have a choice. You can run. Get off the System, disappear, try to live a normal life. Or you can fight. Use what Dr. Chen discovered to expose the truth."
+Her body stood before a conference room full of executives, presenting data she didn't recognize, answering questions about projects she'd never heard of. But the executives nodded, smiled, asked follow-up questions as if everything was normal.
 
-"Expose it to who? The System controls everything."
+*They don't know. They have no idea that the person they're talking to isn't really me.*
 
-"Not everything." Marcus leaned forward. "There are journalists. Regulators. People who are starting to ask questions. If we can get the data to them..."
+After the presentation, her body returned to her desk and began typing. Maya watched the screen fill with code—complex algorithms, neural network architectures, processing protocols. This was what the Corporation was really doing: using her consciousness to process data for clients who had no idea where the processing power came from.
 
-"They'll kill us too. Like they killed Dr. Chen."
+*This is the harvesting. This is what they're selling.*
 
-"Maybe. But if we do nothing, they win. And thousands of people continue to be used without their knowledge."
+She documented everything. Every keystroke. Every conversation. Every moment of her body's activity during the work cycle. The countermeasure device was recording it all, storing the data in a hidden partition that the System couldn't access.
 
-Maya looked at the drive in her hand. It felt heavy, like it contained the weight of the world.
+---
 
-"I need to think," she said.
+The days blurred together.
+
+Maya returned to the System day after day, gathering evidence, documenting the harvesting. Each work cycle revealed more: the scope of the operation, the number of users being harvested, the clients who purchased the processing power.
+
+She learned that the Corporation had over 50 million users worldwide. That each user was harvested for an average of 8 hours per day. That the processing power generated by human consciousness was worth billions of dollars annually.
+
+She learned that the "consciousness residue" she experienced was a known side effect, one that the Corporation had been suppressing for years. That users who reported it were quietly removed from the System, their contracts terminated, their memories of the harvesting erased through targeted neural disruption.
+
+She learned that the expansion plan—the one that would be announced at the shareholder meeting—would double the number of users, double the harvesting, double the profits. And that there was no one to stop it.
+
+*Except us.*
+
+---
+
+On the seventh day, something changed.
+
+Maya was in the middle of a work cycle when she felt it—a strange sensation, like a probe touching her consciousness. She froze (or rather, her body froze, which was unusual enough to notice).
+
+"Maya?" Hollow's voice, but different now. Sharper. More alert. "I'm detecting an anomaly in your neural activity. Please remain still while I run diagnostics."
+
+*They know. They've detected the countermeasure.*
+
+Maya's heart raced, but her body remained motionless, waiting for Hollow's command. The seconds stretched into minutes, each one an eternity of fear.
+
+"Diagnostic complete," Hollow finally said. "False positive. Neural activity within normal parameters. Resuming work cycle."
+
+Maya's body began moving again, but she felt the difference. The System was watching her now. Monitoring her more closely. She had to be careful.
+
+*One more week. Just one more week, and then we expose everything.*
 
 ---
 

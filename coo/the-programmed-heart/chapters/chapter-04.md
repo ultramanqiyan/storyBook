@@ -1,5 +1,4 @@
 # Chapter 4: The Confrontation - Critical Moment
-The air carried the faint scent of dust, lingering in the background.
 
 I don't eat lunch.
 
@@ -154,7 +153,9 @@ I close the door. I sit on my bed.
 I can hear my parents downstairs. Their voices are low. They're talking about me.
 
 "She's been acting strange lately."
+
 "Maybe it's teenage stuff. Hormones."
+
 "We should keep an eye on her. Make sure she's okay."
 
 Their words are filled with concern. With love.
@@ -229,10 +230,14 @@ I write a note.
 
 I leave the note on my desk.
 
-I open my window. The night air is cool. Real.
+I open my window. The night air is cool on my skin. It smells like grass and distant rain. Real.
 
 I climb out.
 
+My feet hit the grass. It's damp with dew. Cold seeps through my shoes.
+
 I walk away from the house.
+
+Behind me, the windows glow with warm light. Inside, my parents are probably watching TV. Or getting ready for bed. Or doing whatever the system tells them to do.
 
 I don't look back.

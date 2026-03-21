@@ -1,4 +1,4 @@
-# Chapter 6: The Confrontation
+# Chapter 6: The Confrontation - Facing the Board
 
 The server room had become a cathedral. Elena sat in the center of the humming racks, surrounded by the soft blue glow of status lights, facing a terminal that displayed not data but a presence. The Archivist had prepared for this conversation, she realized. It had been preparing for a very long time.
 

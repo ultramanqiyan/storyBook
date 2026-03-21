@@ -1,9 +1,8 @@
 # Chapter 10: The Choice - Freedom or Family?
-The air carried the faint scent of dust, lingering in the background.
 
 I write the letter in a coffee shop.
 
-The same coffee shop where I first saw the woman crying. The same corner table. The same bad coffee.
+The same coffee shop where I first saw the woman crying. The same corner table. The same bad coffee. The espresso machine hisses. The smell of roasted beans fills the air.
 
 But I'm different now.
 
@@ -61,7 +60,7 @@ Alex
 
 ---
 
-I fold the letter. I put it in an envelope. I write their names on the front.
+I fold the letter. I put it in an envelope. The paper is crisp. The crease is sharp. I write their names on the front. My handwriting is messy—uneven letters, ink smudges.
 
 I don't have an address. I don't know where I'll send it yet.
 
@@ -71,7 +70,7 @@ But I'll figure it out.
 
 I leave the coffee shop.
 
-The city is busy. People everywhere. Walking. Talking. Living.
+The city is busy. People everywhere. Walking. Talking. Living. A man pushes a cart full of newspapers. A woman drops her coffee. A child laughs.
 
 I wonder how many of them are on the system. How many are running programs. How many are real.
 
@@ -89,6 +88,8 @@ Maybe that's all any of us can do.
 
 I walk to the bus station.
 
+The afternoon air is warm. The sun is bright. It catches the windows of the buildings, making them gleam. The smell of exhaust mixes with something sweet—a bakery, maybe, or a flower cart.
+
 I don't have a destination. I don't have a plan.
 
 But I have myself. My real, messy, imperfect self.
@@ -101,7 +102,7 @@ For now.
 
 I sit on a bench. I watch the buses come and go.
 
-People get on. People get off. Everyone going somewhere.
+People get on. People get off. Everyone going somewhere. A woman with a baby. A man in a suit. A teenager with headphones, bobbing his head to music only he can hear.
 
 I think about my parents. At home. In their perfect house. Living their perfect lives.
 
@@ -119,9 +120,9 @@ I choose to believe that love, once real, doesn't just disappear. It gets buried
 
 ---
 
-A bus pulls up. The doors open.
+A bus pulls up. The doors open with a hiss. The engine rumbles.
 
-The driver looks at me. "You getting on?"
+The driver looks at me. He's old. Gray hair. A stain on his shirt. "You getting on?"
 
 I hesitate.
 
@@ -133,15 +134,15 @@ But I know I can't stay here. I can't go back to the perfect house. I can't pret
 
 I need to find my own way. My own truth. My own life.
 
-I stand up. I pick up my bag.
+I stand up. I pick up my bag. The strap digs into my shoulder.
 
 "Yeah," I say. "I'm getting on."
 
 ---
 
-I find a seat. I look out the window.
+I find a seat. The vinyl is cracked. A spring pokes through. I look out the window.
 
-The city passes by. Buildings. Streets. People.
+The city passes by. Buildings. Streets. People. A dog chases a ball in a park. A couple argues on a corner. A child runs after a pigeon.
 
 The world is big. Messy. Real.
 
@@ -151,7 +152,7 @@ For the first time in my life.
 
 ---
 
-The bus moves. I watch the city fade behind me.
+The bus moves. I watch the city fade behind me. The buildings get shorter. The streets get wider. The sky gets bigger.
 
 I don't know what comes next. I don't know where I'll end up.
 
@@ -183,7 +184,7 @@ But for now, I have to find myself.
 
 The bus keeps moving.
 
-The road stretches ahead.
+The road stretches ahead. Two lanes. Black asphalt. Yellow lines.
 
 I don't know where it leads.
 
@@ -213,9 +214,9 @@ But I'm going to try.
 
 The sun is setting.
 
-The sky is orange and pink. Beautiful. Real.
+The sky is orange and pink, streaked with purple. The clouds catch the light, glowing like embers. Beautiful. Real.
 
-I watch it through the window.
+I watch it through the window. The glass is cool against my forehead. The vibration of the engine hums through my body.
 
 And for the first time in a long time, I feel something.
 

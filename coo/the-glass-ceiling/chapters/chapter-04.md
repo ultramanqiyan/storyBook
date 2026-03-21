@@ -1,4 +1,4 @@
-# Chapter 4: The Mentor
+# Chapter 4: The Isolation - Cut Off and Alone
 
 The performance review was scheduled for a Friday.
 
@@ -12,13 +12,15 @@ Alex spent the entire week preparing.
 
 They gathered data on their projects—metrics, timelines, stakeholder feedback. They documented every accomplishment, every challenge overcome, every lesson learned. They wrote a self-assessment that highlighted their growth areas and their plans for improvement. They wanted to show Marcus they were taking his feedback seriously. They wanted to prove they were learning, growing, becoming the person Marcus wanted them to be.
 
-They stayed late every night that week, refining their presentation, rehearsing what they would say. They'd never worked harder for anything in their life.
+They stayed late every night that week, refining their presentation, rehearsing what they would say. The office grew quiet around them—the cleaning crew pushing vacuums through empty hallways, the security guards making their rounds, the distant hum of servers working through the night. They'd never worked harder for anything in their life.
+
+The coffee they drank tasted bitter on their tongue, the fifth cup of the day. Their eyes burned from staring at screens. Their shoulders ached from hunching over their laptop. But none of that mattered. What mattered was proving they belonged.
 
 ---
 
 Marcus's office. 2 PM. Friday.
 
-Alex sat across from Marcus, heart pounding. The afternoon light streamed through the floor-to-ceiling windows, casting long shadows across the glass desk. Marcus was looking at his screen, scrolling through Alex's self-assessment.
+Alex sat across from Marcus, heart pounding. The afternoon light streamed through the floor-to-ceiling windows, casting long shadows across the glass desk. Marcus was looking at his screen, scrolling through Alex's self-assessment. The leather chair creaked softly as Alex shifted their weight, trying to find a comfortable position.
 
 "So," Marcus said, his voice measured. "I've reviewed your self-assessment and my notes from the past three months. Overall, I'd say you're meeting expectations."
 

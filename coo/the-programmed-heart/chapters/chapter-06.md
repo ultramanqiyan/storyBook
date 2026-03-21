@@ -1,5 +1,4 @@
 # Chapter 6: The Search - Turning Point
-The air carried the faint scent of old paper, lingering in the background.
 
 I spend three days in the city.
 
@@ -13,15 +12,17 @@ But the more I look, the more confused I become.
 
 On the first day, I go to a coffee shop.
 
-It's small. Crowded. The kind of place where people sit with laptops and work, or stare at their phones, or talk in low voices.
+It's small. Crowded. The kind of place where people sit with laptops and work, or stare at their phones, or talk in low voices. The smell of roasted beans hangs heavy in the air. The espresso machine hisses and groans.
 
-I order a coffee. The cheapest one. I sit in a corner.
+I order a coffee. The cheapest one. The barista is young. Acne on her chin. A tattoo on her wrist—a bird, half-finished.
+
+I sit in a corner. The chair wobbles. One leg is shorter than the others.
 
 I watch the people around me.
 
-A woman at the next table is crying. Silent tears running down her face. She's looking at her phone. Maybe a text. Maybe a photo.
+A woman at the next table is crying. Silent tears running down her face. She's looking at her phone. Maybe a text. Maybe a photo. Her coffee sits untouched, growing cold.
 
-Her pain is real. I can see it in the way her shoulders shake. In the way she wipes her eyes and then cries again.
+Her pain is real. I can see it in the way her shoulders shake. In the way she wipes her eyes with a crumpled napkin, then cries again. Her mascara runs in dark streaks down her cheeks.
 
 I want to go to her. I want to ask if she's okay.
 
@@ -45,35 +46,37 @@ I can't tell.
 
 On the second day, I go to a park.
 
-It's a nice park. Green grass. Trees. A playground where children run and scream.
+It's a nice park. Green grass. Trees. A playground where children run and scream. The sun is warm on my face. The air smells like cut grass and dog waste and someone's nearby cigarette.
 
-I sit on a bench. I watch a mother with her child.
+I sit on a bench. The wood is rough. Splinters catch on my jeans.
 
-The child falls. Scrapes his knee. He starts to cry.
+I watch a mother with her child.
 
-The mother runs to him. She picks him up. She holds him.
+The child falls. Scrapes his knee. He starts to cry—a high, sharp wail that cuts through the afternoon.
+
+The mother runs to him. She's not graceful. She stumbles. Her sandal almost falls off. She picks him up. She holds him.
 
 "Oh, baby, are you okay? Let me see. Let me see."
 
-Her voice is panicked. Worried. Her face is twisted with concern.
+Her voice is panicked. Worried. Her face is twisted with concern. Sweat beads on her forehead. Her hair is messy. A stain on her shirt—ketchup, maybe, or juice.
 
 She's not using the system. She can't be. Her reaction is too messy. Too real.
 
 I feel a pang of something. Hope? Envy?
 
-I watch her hold her child. Rock him. Kiss his knee.
+I watch her hold her child. Rock him. Kiss his knee. Her hands are shaking.
 
 "It's okay. It's okay. Mommy's here."
 
-The boy stops crying. He sniffles. He looks up at her.
+The boy stops crying. He sniffles. He looks up at her. Snot runs from his nose.
 
 "I want ice cream," he says.
 
-The mother laughs. A real laugh. Messy. Tired.
+The mother laughs. A real laugh. Messy. Tired. She wipes his nose with her sleeve.
 
 "Okay. Ice cream. But just one scoop."
 
-They walk away. Hand in hand.
+They walk away. Hand in hand. The mother limps slightly—she must have twisted her ankle when she ran.
 
 I sit on the bench. I feel hollow.
 
@@ -85,15 +88,15 @@ Before the system.
 
 On the third day, I meet someone.
 
-I'm at a library. Using the computers to search for information about MHA. The public computers are slow. The connection is bad.
+I'm at a library. Using the computers to search for information about MHA. The public computers are slow. The connection is bad. The keyboard is sticky—someone spilled something on it. The keys leave a residue on my fingertips.
 
-A man sits next to me. He's young. Maybe twenty. His hair is messy. His clothes are wrinkled.
+A man sits next to me. He's young. Maybe twenty. His hair is messy. His clothes are wrinkled. He smells like cigarettes and coffee.
 
 He glances at my screen.
 
 "MHA?" he says. "You looking into that too?"
 
-I look at him. His eyes are tired. But alert. Curious.
+I look at him. His eyes are tired. Red-rimmed. But alert. Curious.
 
 "You know about it?"
 
@@ -109,25 +112,27 @@ I stare at him. "You use it?"
 
 "But..." I struggle to find the words. "It's not real. The feelings. They're generated."
 
-He shrugs. "Maybe. But I'd rather have fake feelings than no feelings at all. I'd rather be able to function than be paralyzed by sadness."
+He shrugs. His shoulders rise and fall heavily. "Maybe. But I'd rather have fake feelings than no feelings at all. I'd rather be able to function than be paralyzed by sadness."
 
 I don't know what to say.
 
 He looks at me. His eyes are kind. "You're young. You've probably got some idea about what's real and what's not. But let me tell you something. When you've been in the dark for years, you don't care if the light is artificial. You just want to see."
 
-He stands up. He gathers his things.
+He stands up. He gathers his things—a backpack, a jacket, a worn paperback book.
 
 "Good luck," he says. "Whatever you're looking for."
 
-He walks away.
+He walks away. His footsteps echo on the linoleum floor.
 
-I sit there. Staring at the screen.
+I sit there. Staring at the screen. The cursor blinks. Waiting.
 
 ---
 
 That night, I go back to my hotel room.
 
-I lie on the bed. I stare at the ceiling.
+I lie on the bed. The sheets smell like cheap detergent. The mattress creaks every time I move.
+
+I stare at the ceiling. A water stain spreads across the plaster like a map of somewhere I've never been.
 
 I think about the mother in the park. Her messy, real love.
 
@@ -153,19 +158,19 @@ Is that better? Just because it's natural?
 
 I don't know.
 
-I close my eyes.
+I close my eyes. The sounds of the city filter through the thin walls. A car alarm. A baby crying. Someone's TV.
 
 ---
 
 On the fourth day, I meet Marcus.
 
-I'm at a diner. Eating breakfast. The cheapest thing on the menu—pancakes. They're not as good as my mother's. They're lumpy. The syrup is cold.
+I'm at a diner. Eating breakfast. The cheapest thing on the menu—pancakes. They're not as good as my mother's. They're lumpy. The syrup is cold. The butter hasn't melted properly.
 
 They're perfect.
 
 A man sits at the counter. He's talking to the waitress. Laughing. Joking.
 
-His laugh is loud. Real. It fills the room.
+His laugh is loud. Real. It fills the room. He slaps the counter. His shoulders shake.
 
 I watch him. There's something about him. Something that draws my eye.
 
@@ -173,7 +178,7 @@ He finishes his coffee. He stands up. He turns.
 
 Our eyes meet.
 
-He smiles. A real smile. Crooked. Warm.
+He smiles. A real smile. Crooked. Warm. One of his teeth is chipped.
 
 "Hey," he says. "You look like you're thinking too hard."
 
@@ -183,7 +188,7 @@ I blink. "What?"
 
 I touch my forehead. I didn't realize I was frowning.
 
-He sits down across from me. He doesn't ask permission. He just does it.
+He sits down across from me. He doesn't ask permission. He just does it. The vinyl seat squeaks under him.
 
 "I'm Marcus," he says.
 
@@ -215,7 +220,7 @@ He laughs. That loud, real laugh.
 
 I don't understand.
 
-He leans forward. His eyes are serious now.
+He leans forward. His eyes are serious now. Brown. A scar through one eyebrow.
 
 "Let me tell you something, Alex. The system isn't good or bad. It's a tool. Like a wheelchair. Like glasses. Some people need it all the time. Some people need it sometimes. Some people don't need it at all."
 
@@ -225,7 +230,7 @@ He leans forward. His eyes are serious now.
 
 I don't have an answer.
 
-He reaches across the table. He takes my hand. His grip is warm. Firm. Real.
+He reaches across the table. He takes my hand. His grip is warm. Firm. Calloused. Real.
 
 "I used to think like you," he says. "That real was better. That anything artificial was wrong. But then I realized something."
 
@@ -237,7 +242,7 @@ He lets go of my hand. He stands up.
 
 "I gotta go. But if you want to talk more, I'm usually here. Same time. Same place."
 
-He walks out.
+He walks out. The door swings shut behind him. A bell jingles.
 
 I sit there. My pancakes are cold now.
 
@@ -281,7 +286,9 @@ Maybe what matters is something else.
 
 Something I haven't figured out yet.
 
-I walk back to my hotel. I lie on the bed.
+I walk back to my hotel. The night air is cool. A dog barks somewhere. A car alarm wails.
+
+I lie on the bed.
 
 Tomorrow, I'll talk to Marcus again.
 

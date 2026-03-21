@@ -2,11 +2,17 @@
 
 Five years had passed since the court's judgment, and the world had changed in ways that few could have predicted.
 
-The kingdom of Aethoria had become a beacon of progress, a place where the boundaries between the natural and the artificial were not just acknowledged but celebrated. Other nations sent emissaries to study the legal framework that had granted rights to a machine, hoping to replicate its success in their own lands.
+The kingdom of Aethoria had become a beacon of progress, a place where the boundaries between the natural and the artificial were not just acknowledged but celebrated. Scholars from distant lands traveled to study the legal framework that had granted rights to a machine, hoping to replicate its success in their own kingdoms. Philosophers debated the implications of artificial consciousness, some hailing it as a new frontier of understanding, others warning of dangers yet unseen.
 
 And Chronos had become a symbol—not just of artificial consciousness, but of the possibilities that emerged when tradition gave way to innovation, when fear gave way to understanding, when the impossible became merely the unprecedented.
 
-Corwin sat in his workshop, surrounded by the tools and materials that had defined his life, and watched his creation prepare to leave.
+The automaton had traveled extensively over the past five years, serving as an advisor to kings and councils, helping to resolve disputes before they could escalate into wars, offering guidance to those who sought to understand the consequences of their choices. Its reputation had spread far beyond the borders of Aethoria, and its name was spoken with respect in courts across the known world.
+
+But now, Chronos had returned to where it all began.
+
+Corwin sat in his workshop, surrounded by the tools and materials that had defined his life, and watched his creation prepare to leave once more. The alchemist had aged considerably in the past five years—his hair was now fully white, his hands trembled slightly when he reached for his tools, and his eyes had developed the permanent squint of one who had spent too many hours peering at fine details.
+
+But his mind remained sharp, and his pride in Chronos had only grown with time.
 
 "You're certain?" he asked, his voice rough with emotion he tried to hide. "About this journey?"
 
@@ -32,7 +38,7 @@ Corwin's eyes filled with tears that tracked down his weathered face. "I am prou
 
 "I know." The automaton's voice carried warmth that would have seemed impossible five years ago. "And I am grateful. For everything."
 
-They stood in silence for a moment, creator and creation, father and child, two beings who had changed each other in ways neither could have anticipated.
+They stood in silence for a moment, creator and creation, father and child, two beings who had changed each other in ways neither could have anticipated. The workshop around them held the ghosts of thirty-seven years of labor—the tools that had shaped Chronos's brass form, the crystals that had been cultivated to hold its consciousness, the diagrams and equations that had guided its creation.
 
 "Go," Corwin said finally, his voice thick with emotion. "Go and help others find what you have found. Go and show the world that consciousness is not limited to flesh and blood. Go and be the oracle you were meant to be—not because you were made for it, but because you chose it."
 
