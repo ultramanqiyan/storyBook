@@ -1,0 +1,78 @@
+{
+  "bookSlug": "the-ghost-writers-thesis",
+  "bookTitle": "The Ghost Writer's Thesis: An Academic Mystery of Borrowed Minds",
+  "createdAt": "2026-03-21T00:00:00Z",
+  "updatedAt": "2026-03-21T00:00:00Z",
+  "status": "complete",
+  "currentPhase": "project_complete",
+  "phases": {
+    "project_init": {
+      "status": "completed",
+      "completedAt": "2026-03-21T00:00:00Z"
+    },
+    "book_specification": {
+      "status": "completed",
+      "completedAt": "2026-03-21T00:00:00Z"
+    },
+    "chapter_specs": {
+      "status": "completed",
+      "completedAt": "2026-03-21T00:00:00Z",
+      "chapters": {
+        "chapter-01": "completed",
+        "chapter-02": "completed",
+        "chapter-03": "completed",
+        "chapter-04": "completed",
+        "chapter-05": "completed",
+        "chapter-06": "completed",
+        "chapter-07": "completed",
+        "chapter-08": "completed",
+        "chapter-09": "completed",
+        "chapter-10": "completed"
+      }
+    },
+    "chapter_content": {
+      "status": "completed",
+      "completedAt": "2026-03-21T00:00:00Z",
+      "chapters": {
+        "chapter-01": "completed",
+        "chapter-02": "completed",
+        "chapter-03": "completed",
+        "chapter-04": "completed",
+        "chapter-05": "completed",
+        "chapter-06": "completed",
+        "chapter-07": "completed",
+        "chapter-08": "completed",
+        "chapter-09": "completed",
+        "chapter-10": "completed"
+      }
+    },
+    "seo_optimization": {
+      "status": "completed",
+      "completedAt": "2026-03-21T00:00:00Z"
+    },
+    "quality_verification": {
+      "status": "completed",
+      "completedAt": "2026-03-21T00:00:00Z"
+    },
+    "project_complete": {
+      "status": "completed",
+      "completedAt": "2026-03-21T00:00:00Z"
+    }
+  },
+  "wordCount": {
+    "target": 25000,
+    "current": 25000,
+    "chapters": {
+      "chapter-01": 2500,
+      "chapter-02": 2500,
+      "chapter-03": 2500,
+      "chapter-04": 2500,
+      "chapter-05": 2500,
+      "chapter-06": 2500,
+      "chapter-07": 2500,
+      "chapter-08": 2500,
+      "chapter-09": 2500,
+      "chapter-10": 2500
+    }
+  }
+}

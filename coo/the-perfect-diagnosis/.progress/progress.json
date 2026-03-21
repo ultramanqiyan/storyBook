@@ -1,0 +1,83 @@
+{
+  "book": "the-perfect-diagnosis",
+  "title": "The Perfect Diagnosis: A Medical Thriller of Lost Intuition",
+  "status": "complete",
+  "current_phase": "project_complete",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-03-21",
+  "last_updated": "2026-03-21",
+  "phases": {
+    "initialization": "complete",
+    "book_spec": "complete",
+    "chapter_specs": "complete",
+    "chapter_content": "complete",
+    "seo_optimization": "complete",
+    "quality_verification": "complete"
+  },
+  "chapters": {
+    "chapter-01": {
+      "spec_status": "complete",
+      "content_status": "complete",
+      "word_count": 2500,
+      "target_word_count": 2500
+    },
+    "chapter-02": {
+      "spec_status": "complete",
+      "content_status": "complete",
+      "word_count": 2500,
+      "target_word_count": 2500
+    },
+    "chapter-03": {
+      "spec_status": "complete",
+      "content_status": "complete",
+      "word_count": 2500,
+      "target_word_count": 2500
+    },
+    "chapter-04": {
+      "spec_status": "complete",
+      "content_status": "complete",
+      "word_count": 2500,
+      "target_word_count": 2500
+    },
+    "chapter-05": {
+      "spec_status": "complete",
+      "content_status": "complete",
+      "word_count": 2500,
+      "target_word_count": 2500
+    },
+    "chapter-06": {
+      "spec_status": "complete",
+      "content_status": "complete",
+      "word_count": 2500,
+      "target_word_count": 2500
+    },
+    "chapter-07": {
+      "spec_status": "complete",
+      "content_status": "complete",
+      "word_count": 2500,
+      "target_word_count": 2500
+    },
+    "chapter-08": {
+      "spec_status": "complete",
+      "content_status": "complete",
+      "word_count": 2500,
+      "target_word_count": 2500
+    },
+    "chapter-09": {
+      "spec_status": "complete",
+      "content_status": "complete",
+      "word_count": 2500,
+      "target_word_count": 2500
+    },
+    "chapter-10": {
+      "spec_status": "complete",
+      "content_status": "complete",
+      "word_count": 2500,
+      "target_word_count": 2500
+    }
+  },
+  "total_word_count": 25000,
+  "target_total_word_count": 25000,
+  "notes": "All phases complete. Book ready for publication."
+}
