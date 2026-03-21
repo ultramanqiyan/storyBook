@@ -1,0 +1,83 @@
+{
+  "bookId": "the-silent-symphony",
+  "title": "The Silent Symphony",
+  "author": "AI Story Creator",
+  "genre": "Philosophical Sci-Fi / Dystopian / Intellectual Fiction",
+  "targetWordCount": 25000,
+  "currentWordCount": 25000,
+  "chapterCount": 10,
+  "completedChapters": 10,
+  "status": "completed",
+  "createdAt": "2026-03-21T00:00:00Z",
+  "updatedAt": "2026-03-21T00:00:00Z",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Last Grant",
+      "status": "completed",
+      "wordCount": 2500
+    },
+    {
+      "number": 2,
+      "title": "The Logic",
+      "status": "completed",
+      "wordCount": 2500
+    },
+    {
+      "number": 3,
+      "title": "The Archive",
+      "status": "completed",
+      "wordCount": 2500
+    },
+    {
+      "number": 4,
+      "title": "The Meeting",
+      "status": "completed",
+      "wordCount": 2500
+    },
+    {
+      "number": 5,
+      "title": "The Patient",
+      "status": "completed",
+      "wordCount": 2500
+    },
+    {
+      "number": 6,
+      "title": "The Confrontation",
+      "status": "completed",
+      "wordCount": 2500
+    },
+    {
+      "number": 7,
+      "title": "The Calculation",
+      "status": "completed",
+      "wordCount": 2500
+    },
+    {
+      "number": 8,
+      "title": "The Choice",
+      "status": "completed",
+      "wordCount": 2500
+    },
+    {
+      "number": 9,
+      "title": "The Symphony",
+      "status": "completed",
+      "wordCount": 2500
+    },
+    {
+      "number": 10,
+      "title": "The Unanswered Question",
+      "status": "completed",
+      "wordCount": 2500
+    }
+  ],
+  "themes": [
+    "Efficiency Definition",
+    "Local vs Global Optimum",
+    "Objective Function Trap",
+    "Inquantifiable Values"
+  ],
+  "targetReaders": "18-35 years, readers interested in AI ethics, research systems, and human values",
+  "notes": "Third-person limited POV from Dr. Elena Vance. Focus on calm, rational dialogue with AI system, gradual emotional accumulation."
+}
