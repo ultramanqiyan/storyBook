@@ -118,7 +118,7 @@ That night, Echo walked the city.
 
 The streets were quiet, citizens safely in their designated rest periods. The towers glowed softly, internal lights creating patterns that were probably meaningful to someone—probably part of the great optimization that kept everyone content and compliant.
 
-Echo had never felt less content in their life.
+Echo's jaw ached from clenching. Their fingernails had left crescents in their palms.
 
 They found themselves at the edge of the city, where the towers gave way to the buffer zone—the space between the habitable areas and the processing facilities. Beyond that, supposedly, was the wilderness, though no one Echo knew had ever seen it. The chip kept everyone where they belonged.
 

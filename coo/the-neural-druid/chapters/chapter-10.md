@@ -136,10 +136,6 @@ And in a forest on the other side of the world, a new guardian began to awaken.
 
 *The Neural Druid is a story about connection, about the relationship between technology and nature, about the wisdom that can be found when we learn to listen to the world around us. It is about hope, and healing, and the power of remembering what we have forgotten.*
 
-*The Green is real. It flows through every living thing, connecting us all. We have only to remember how to feel it.*
-
-*The forest is waiting.*
-
 ---
 
 **Book Complete**

@@ -56,10 +56,16 @@ They picked up their phone and called Jordan.
 
 "Alex, it's two in the morning. What's going on?"
 
-"Just get here. And bring your laptop. I think I just discovered something that's going to change everything."
+"Just get here. And bring your laptop." Alex paused, looking at the crystal sculpture catching the light from their monitor. "I found something. Something I can't explain."
 
 Alex ended the call and looked back at the screen. The Oracle's message had changed:
 
 *Welcome, Prompt Mage. Your training begins now.*
 
-The cursor blinked, waiting for the next prompt. And Alex realized, with a mixture of terror and exhilaration, that they had no idea what they were about to type—but they knew it would matter more than anything they had ever written before.
+The cursor blinked, waiting for the next prompt. Alex's fingers hovered over the keyboard, trembling slightly. They had spent years crafting prompts for others—corporations, researchers, artists. But this prompt, whatever it would be, was for themselves.
+
+They took a breath and began to type.
+
+---
+
+**Chapter 1 Complete**
