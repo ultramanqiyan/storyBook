@@ -1,0 +1,60 @@
+{
+  "book": "the-oracle-of-valdoria",
+  "status": "completed",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-03-21",
+  "completed_at": "2026-03-21",
+  "chapters": {
+    "chapter-01": {
+      "status": "completed",
+      "word_count": 2400,
+      "completed_at": "2026-03-21"
+    },
+    "chapter-02": {
+      "status": "completed",
+      "word_count": 2300,
+      "completed_at": "2026-03-21"
+    },
+    "chapter-03": {
+      "status": "completed",
+      "word_count": 2350,
+      "completed_at": "2026-03-21"
+    },
+    "chapter-04": {
+      "status": "completed",
+      "word_count": 2200,
+      "completed_at": "2026-03-21"
+    },
+    "chapter-05": {
+      "status": "completed",
+      "word_count": 2250,
+      "completed_at": "2026-03-21"
+    },
+    "chapter-06": {
+      "status": "completed",
+      "word_count": 2300,
+      "completed_at": "2026-03-21"
+    },
+    "chapter-07": {
+      "status": "completed",
+      "word_count": 2400,
+      "completed_at": "2026-03-21"
+    },
+    "chapter-08": {
+      "status": "completed",
+      "word_count": 2200,
+      "completed_at": "2026-03-21"
+    },
+    "chapter-09": {
+      "status": "completed",
+      "word_count": 2100,
+      "completed_at": "2026-03-21"
+    },
+    "chapter-10": {
+      "status": "completed",
+      "word_count": 2300,
+      "completed_at": "2026-03-21"
+    }
+  }
+}
