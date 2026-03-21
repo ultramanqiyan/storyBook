@@ -1,0 +1,54 @@
+{
+  "series": "agency-crisis",
+  "total_books": 5,
+  "created_at": "2026-03-22",
+  "books": [
+    {
+      "id": "the-outsourced-memory",
+      "title": "The Outsourced Memory",
+      "profession": "Real Estate Agent",
+      "theme_dimension": "Cognitive Outsourcing",
+      "status": "in_progress",
+      "progress_path": "coo/the-outsourced-memory/.progress/"
+    },
+    {
+      "id": "the-unexplained-verdict",
+      "title": "The Unexplained Verdict",
+      "profession": "Insurance Agent",
+      "theme_dimension": "Cognitive Outsourcing",
+      "status": "pending",
+      "progress_path": "coo/the-unexplained-verdict/.progress/"
+    },
+    {
+      "id": "the-borrowed-voice",
+      "title": "The Borrowed Voice",
+      "profession": "B2B Sales Representative",
+      "theme_dimension": "Self-Concept Blurring",
+      "status": "pending",
+      "progress_path": "coo/the-borrowed-voice/.progress/"
+    },
+    {
+      "id": "the-algorithmic-intimacy",
+      "title": "The Algorithmic Intimacy",
+      "profession": "Investment Advisor",
+      "theme_dimension": "Self-Concept Blurring",
+      "status": "pending",
+      "progress_path": "coo/the-algorithmic-intimacy/.progress/"
+    },
+    {
+      "id": "the-purposeless-optimization",
+      "title": "The Purposeless Optimization",
+      "profession": "Community Bookstore Owner",
+      "theme_dimension": "Intentionality Absence",
+      "status": "pending",
+      "progress_path": "coo/the-purposeless-optimization/.progress/"
+    }
+  ],
+  "philosophical_questions": [
+    "Is thinking essentially pattern recognition?",
+    "Is understanding the same as knowing the answer?",
+    "Is self essentially behavior pattern?",
+    "Is care essentially remember + respond?",
+    "Does meaning come from purpose fulfillment or purpose setting?"
+  ]
+}
