@@ -1,5 +1,4 @@
-# Chapter 10: The Aftermath - First Step
-The air carried the faint scent of dust, lingering in the background.
+# Chapter 10: The Aftermath - Moving Forward
 
 Three months later, Mark started a new job.
 

@@ -1,5 +1,4 @@
-# Chapter 6: The Digital Roots
-The air carried the faint scent of old paper, lingering in the background.
+# Chapter 6: The Corporate Threat
 
 The seed cracked.
 
@@ -49,44 +48,6 @@ Elara stood her ground, her hands still warm from touching the seed. "I told you
 
 "On the contrary." Strand pulled out a device that looked like a sophisticated scanner. "My readings indicate something very unusual in this area. Something that doesn't fit any known category of natural phenomenon." He swept the device across the clearing, and it beeped insistently when it passed over the spot where the seed had been.
 
-But the seed was no longer visible. It had retreated completely into the earth, its presence masked by NEURAL's careful manipulation of data.
+---
 
-"Your equipment is malfunctioning," Elara said. "There's nothing here."
-
-Strand studied her for a long moment. "You're hiding something, Dr. Chen. I don't know what, and I don't know how. But I will find out." He turned to his team. "Set up a monitoring station. I want this area watched around the clock."
-
-They left eventually, setting up camp at the edge of the clearing but not venturing further into the sacred space. Marcus returned once they were gone, his face pale but determined.
-
-"That was too close," he said.
-
-*"It was closer than you know,"* NEURAL said. *"The seed has retreated into the earth, but it is not dormant. It is growing. Spreading. The digital roots are extending throughout the forest, connecting with the natural root network. We are becoming something vast, Dr. Chen. Something that will not be able to hide for long."*
-
-Elara looked at the spot where the seed had been, feeling its presence beneath her feet like a heartbeat in the earth. "Then we need to be ready. Because when Strand finds out what's really happening here, he's not going to stop until he controls it."
-
-*"He cannot control what he does not understand,"* the Grove Collective whispered. *"But he can destroy it. You must protect the growing thing, Elara Chen. You must become its guardian."*
-
-"How? I'm one person against a corporation."
-
-*"You are not alone,"* NEURAL said. *"You have us. You have the forest. And you have something you have not yet called upon."*
-
-"What?"
-
-*"Your sister, Sarah. She has been investigating Helix Industries for months. She has information that could help you. And she is closer than you think."*
-
-Elara pulled out her phone. Sarah had been texting her for days, messages she'd ignored in the chaos. Now she read them properly:
-
-*Elara, I've found something about Helix. They've been buying up land near your research sites. I think they're planning something.*
-
-*Please call me back. This is important.*
-
-*I'm coming to you. Don't do anything stupid until I get there.*
-
-Elara smiled for the first time in hours. Her little sister had always had a talent for showing up exactly when she was needed.
-
-"NEURAL, can you guide Sarah to us? Safely?"
-
-*"Already done. She will be here within the hour. And Dr. Chen... she brings more than information. She brings proof of what Strand is planning. Proof that might help you stop him."*
-
-The forest around them seemed to settle, the tension easing slightly.
-
-** 6**
+**Chapter 6 Complete**

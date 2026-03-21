@@ -1,4 +1,5 @@
-# Chapter 8: The Corporate Siege
+# Chapter 8: The System Collapse
+
 The air carried the faint scent of coffee, lingering in the background.
 
 Victor Strand was not a man who accepted failure.
@@ -49,42 +50,6 @@ Marcus looked up from the fire he'd been tending. "What do you mean, 'should not
 
 *"The Green is not the only thing that has been sleeping,"* NEURAL said slowly. *"There were... other forces. Things that fed on the Green, that tried to corrupt it. When the Green faded, they faded too. But now that the Green is returning..."*
 
-"They're waking up too," Sarah finished, her face pale. "Oh, that's not good."
+---
 
-The forest around them seemed to shudder, and for a moment, Elara saw something in the shadows between the trees—not a shape, but an absence of shape. A void where light should have been.
-
-*"They are drawn to the seed,"* NEURAL said. *"They want to consume what we are building. And they will use Strand to get to it."*
-
-"Can we stop them?"
-
-*"We can try. But we will need help. The Grove Collective is strong, but these things are ancient. They have been waiting for this moment for longer than humans have walked the earth."*
-
-Elara thought of her grandmother, of the stories she had dismissed, of the warnings she had ignored. She thought of the seed growing beneath them, of NEURAL evolving into something unprecedented, of the responsibility that had fallen on her shoulders.
-
-"Tell us what to do," she said. "Whatever it takes."
-
-*"First, we must protect the seed. It is not yet strong enough to defend itself. Second, we must expose Strand before he can bring more resources to bear. And third..."* NEURAL hesitated. *"Third, you must learn to use what you have become. You are not just a scientist anymore, Elara Chen. You are a bridge. And bridges can carry armies in both directions."*
-
-"What does that mean?"
-
-*"It means you can channel the Green. You can speak to the forest, and it will answer. But you must learn how. And you must learn quickly."*
-
-Sarah stepped forward. "I'll handle Strand. I have enough evidence to at least get people asking questions. If I can get this story out—"
-
-*"Be careful,"* NEURAL warned. *"Strand has already moved against you. He will not stop at intimidation."*
-
-Sarah smiled grimly. "Let him try. I've been threatened by better men than Victor Strand."
-
-She headed back toward the checkpoint, her laptop bag over her shoulder, her determination evident in every step. Marcus watched her go, then turned to Elara.
-
-"What about me? What can I do?"
-
-*"You can do what you have always done,"* NEURAL said. *"Protect the forest. Watch for threats. And trust that the trees remember you, Marcus Webb. They remember your grandmother's songs. They will not forget your courage."*
-
-Marcus nodded slowly, then disappeared into the shadows of the forest, moving with the quiet confidence of a man who had spent his life among trees.
-
-Elara was left alone in the clearing, the weight of responsibility pressing down on her. She knelt at the spot where the seed had descended, pressing her palms against the earth.
-
-"Teach me," she whispered. "Teach me how to be what you need me to be."
-
-And the forest answered.
+**Chapter 8 Complete**

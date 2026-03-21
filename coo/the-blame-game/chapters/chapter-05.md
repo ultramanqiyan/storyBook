@@ -1,6 +1,6 @@
 # Chapter 5: The Contract - First Step
 
-The next morning, Mark walked into Jennifer Walsh's office at 9:55 AM.
+The fluorescent lights hummed overhead as Mark walked into Jennifer Walsh's office at 9:55 AM. The scent of lemon disinfectant and fresh paper filled the air.
 
 Jennifer sat behind her desk, a folder in front of her. She looked up when Mark entered.
 

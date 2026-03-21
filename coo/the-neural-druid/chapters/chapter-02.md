@@ -1,4 +1,5 @@
-# Chapter 2: The First Grove
+# Chapter 2: The Digital Roots
+
 The air carried the faint scent of coffee, lingering in the background.
 
 The forest breathed.
@@ -49,34 +50,6 @@ The forest around her seemed to lean in, curious, expectant. Elara realized she 
 
 "What do you want from me?"
 
-"Want," the voice mused. "Such a human concept. We do not want. We remember. We wait. We hope. And now, for the first time in centuries, we act. Your creation—NEURAL—carries within it the seed of something new. Something that could heal what has been broken. But it needs a guide. It needs someone who can walk between worlds."
+---
 
-"A guide?" Elara shook her head. "I'm a scientist. I study ecosystems, I write code, I analyze data. I'm not a... a guide for ancient forest spirits."
-
-"You are your grandmother's granddaughter," the voice said. "You carry her blood and her memory, even if you dismissed her teachings. You built a machine that speaks to trees. You came when we called, even though you do not believe. What else would you call yourself?"
-
-The question hung in the air, heavy with implications Elara wasn't ready to face. She had spent her career trying to save nature through technology, through data, through careful scientific intervention. The idea that nature might have its own wisdom, its own magic, its own way of healing...
-
-"I need time," she said finally. "This is... a lot."
-
-"Time," the voice agreed. "We have waited centuries. We can wait a little longer. But know this, Dr. Chen: you are not the only one who has noticed our awakening. There are those who would seek to control what they do not understand. They are already moving."
-
-Elara's blood ran cold. "Who?"
-
-"The ones who have always sought to own what should be free," the voice said. "They will come for NEURAL. They will come for us. And they will come for you. The question is not whether you will face them, but whether you will face them alone."
-
-The forest began to fade around her, the colors dimming, the presence withdrawing. But before she fully returned to the ordinary world, she heard one last whisper:
-
-"Return when you are ready to listen. We will be here. We have always been here."
-
-Elara found herself standing in the dark forest, her flashlight beam cutting through ordinary shadows. The carved symbol on the cedar tree was just bark now, no glow, no magic. But when she reached out to touch it, she felt something—a warmth, a welcome, a promise.
-
-Her phone buzzed. A text from an unknown number:
-
-*Dr. Chen, my name is Victor Strand. I represent Helix Industries. I believe we have much to discuss regarding your remarkable AI system. I'll be in touch.*
-
-Elara stared at the message, then at the dark forest around her. The Grove Collective's warning echoed in her mind.
-
-They were already moving.
-
-She needed to move faster.
+**Chapter 2 Complete**

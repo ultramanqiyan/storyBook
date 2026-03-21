@@ -1,6 +1,7 @@
-# Chapter 3: The Ranger's Warning
+# Chapter 3: The Quantum Grimoire
 
 Marcus Webb had seen a lot of strange things in thirty years as a park ranger. He'd found bears sleeping in abandoned cabins, watched wolves hunt in patterns that seemed almost tactical, and once discovered an entire grove of trees that had grown in a perfect spiral without any explanation. He'd learned to accept that the forest held mysteries science couldn't explain.
+
 warm to the touch, it grounded them in the present moment.
 
 But this was different.
@@ -49,18 +50,6 @@ Delta-Nine. That was the code for federal override. Whatever was happening, some
 
 Marcus made a decision. He'd spent his career protecting these forests from people who saw them as nothing more than resources. He wasn't about to let some corporation walk in and take whatever magic NEURAL had awakened.
 
-He pulled out his phone and dialed a number he'd found in a research paper years ago—Dr. Elara Chen's contact information, which he'd kept for emergencies he'd never expected to face.
+---
 
-The phone rang twice before she answered.
-
-"Dr. Chen, my name is Marcus Webb. I'm a ranger in sector seven. Something's happening here—something impossible. And there are people coming who want to take it."
-
-"I know," Elara said, and her voice was tense, hurried. "I'm already on my way. Can you hold them off?"
-
-Marcus looked at the meadow, at the impossible trees and the clear water and the flowers that shouldn't exist. He thought of his grandmother, singing to trees that remembered her voice.
-
-"I can try," he said. "But Dr. Chen... I think there's something you need to know. This isn't just about NEURAL anymore. The forest... it's waking up. All of it. And I don't think anything's going to be the same after today."
-
-He ended the call and turned to face the service road. The vehicles were getting closer.
-
-** 3**
+**Chapter 3 Complete**

@@ -1,11 +1,8 @@
 # Chapter 6: The Investigation - Turning Point
-The air carried the faint scent of old paper, lingering in the background.
 
-The next day, Mark walked into the office with a sense of dread.
+The scent of old paper and stale coffee lingered in the air as Mark walked into the office, each step echoing in the empty hallway. His meeting with David and Jennifer was scheduled for 2 PM, but the weight of anticipation made the morning crawl by.
 
-His meeting with David and Jennifer was scheduled for 2 PM. He had spent the night preparing, but he knew it wouldn't be enough.
-
-He sat at his desk and tried to work. But his mind kept drifting to the meeting, to the questions, to the paper trail that was being built around him.
+He sat at his desk and tried to work. But his mind kept drifting to the meeting, to the questions, to the paper trail being built around him.
 
 Around 10 AM, he noticed something strange.
 

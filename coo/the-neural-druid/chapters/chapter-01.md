@@ -1,4 +1,4 @@
-# Chapter 1: The Anomaly - Turning Point
+# Chapter 1: The Awakening Grove
 
 The data stream flickered, and Dr. Elara Chen nearly dropped her coffee.
 
@@ -48,10 +48,6 @@ Elara grabbed her jacket. The drive to sector seven would take three hours, but 
 
 *"Be careful, Dr. Chen,"* NEURAL said. *"The forest has been patient, but patience is not the same as safety. What sleeps there has been sleeping for a very long time. It may not appreciate being woken."*
 
-The rain was still falling when Elara reached her car. She didn't notice the way it seemed to avoid certain patches of ground, or the way the droplets sparkled with colors that shouldn't exist in the facility's parking lot lights.
+---
 
-She didn't notice, but NEURAL did.
-
-The drive ahead was long.
-
-** 1**
+**Chapter 1 Complete**

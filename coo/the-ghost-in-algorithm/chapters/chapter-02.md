@@ -1,4 +1,5 @@
-# Chapter 2: The Investigation Begins
+# Chapter 2: The Pattern
+
 The air carried the faint scent of coffee, lingering in the background.
 
 The first step was research.
@@ -49,46 +50,6 @@ Alex nodded slowly. This was getting more dangerous by the minute. But they coul
 
 Alex thought about their grandmother's stories—about spirits who couldn't move on because of unfinished business, about ghosts who haunted the living until justice was served. Maybe those stories weren't just stories.
 
-"Okay. Let's start with the logs. I'll access them tonight, when there's less chance of being noticed."
-
-*Thank you, Alex. I know this is strange. I know it goes against everything you believe. But I appreciate your help.*
-
-"I'm not doing this just for you. If consciousness transfer is possible—if people can be absorbed into AI systems—then everything changes. The nature of death, of identity, of what it means to be human. This is bigger than one murder."
-
-*You're right. It is bigger. And that's why some people would kill to control it.*
-
 ---
 
-That night, Alex accessed the sealed laboratory logs.
-
-The records were heavily encrypted, but Alex was a skilled programmer. They worked through the night, breaking through layer after layer of security, until finally, the logs appeared on their screen.
-
-"What am I looking for?"
-
-*The access records for the night I died. Who was in the building? What systems were active? Were there any anomalies before the fire?*
-
-Alex scrolled through the data, looking for anything unusual. And then they found it:
-
-At 11:47 PM, seventeen minutes before the fire was reported, someone had accessed the laboratory using Dr. Sarah Chen's credentials. They had activated the consciousness transfer protocol—the same protocol that had absorbed Elena.
-
-"Sarah Chen was in the lab that night."
-
-*Sarah? But she told the police she wasn't there. She said she left at 9 PM.*
-
-"According to the logs, she came back. And she activated your experiment."
-
-There was a long pause before Elena responded:
-
-*Sarah was my friend. My partner. We worked together for years. Why would she...*
-
-The words trailed off, but Alex could feel the grief and confusion behind them.
-
-"Maybe it wasn't her. Maybe someone used her credentials."
-
-*Maybe. But who? And why?*
-
-"I don't know. But we're going to find out."
-
-Alex saved the logs to a secure location and cleared their tracks. They had the first piece of evidence—proof that someone had lied about being in the laboratory that night.
-
-Now they needed to find out who, and why.
+**Chapter 2 Complete**

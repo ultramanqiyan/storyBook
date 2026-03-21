@@ -1,32 +1,8 @@
-# Chapter 07: The Meeting with David
+# Chapter 7: The Meeting with David - Truth Revealed
 
-The next morning, Mark received a calendar invite.
+The fluorescent lights hummed overhead as Mark walked to David's office, each step echoing in the empty hallway. The scent of stale coffee lingered in the air.
 
-*Subject: One-on-One*
-*Time: 11:00 AM - 11:30 AM*
-*Location: David's Office*
-*Attendees: David Morrison, Mark Chen*
-
-Mark stared at the invite. It was titled "One-on-One," as if it were a regular check-in. But he knew better.
-
-He typed a response.
-
-*David,*
-*I'll be there at 11.*
-*Best,*
-*Mark*
-
-He hit send and sat back in his chair.
-
-Around him, the office continued. His colleagues avoided his eyes. His phone didn't ring. His inbox was empty of anything that mattered.
-
-He was already a ghost.
-
----
-
-At 10:55 AM, Mark walked to David's office.
-
-The door was open. David was at his desk, looking at his computer. He looked up when Mark approached.
+At 10:55 AM, he arrived. The door was open. David was at his desk, looking at his computer. He looked up when Mark approached.
 
 "Come in. Close the door."
 

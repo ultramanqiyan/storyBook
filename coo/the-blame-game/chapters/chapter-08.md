@@ -1,30 +1,6 @@
-# Chapter 08: The HR Meeting
-The air carried the faint scent of coffee, lingering in the background.
+# Chapter 8: The HR Meeting - The End
 
-The next morning, Mark received a calendar invite.
-
-*Subject: HR Meeting*
-*Time: 10:00 AM - 11:00 AM*
-*Location: Conference Room A*
-*Attendees: Jennifer Walsh, Michael Torres, David Morrison, Mark Chen*
-
-Mark stared at the invite. It was titled "HR Meeting," but he knew what it really was.
-
-This was the end.
-
-He typed a response.
-
-*I'll be there.*
-
-He hit send and sat back in his chair.
-
-Around him, the office continued. His colleagues avoided his eyes. His phone didn't ring. His inbox was empty of anything that mattered.
-
-He was already a ghost.
-
----
-
-At 9:55 AM, Mark walked to Conference Room A.
+The fluorescent lights hummed overhead as Mark walked into Conference Room A, the scent of stale coffee and lemon disinfectant filling the air. His heart hammered against his ribs.
 
 Jennifer Walsh sat at the head of the table. Michael Torres from Legal sat to her left. David Morrison sat to her right.
 

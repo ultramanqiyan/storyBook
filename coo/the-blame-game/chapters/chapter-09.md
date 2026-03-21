@@ -1,8 +1,6 @@
-# Chapter 9: The Decision - Critical Moment
+# Chapter 9: The Decision - Consequences
 
-Mark spent the rest of the day at home.
-
-He sat on his couch, staring at the box of personal items. His daughter's drawing was on top—a picture of him at his desk, with the words "My Daddy works with computers" written in crayon.
+The scent of dust and stale air filled Mark's living room as he sat on the couch, staring at the box of personal items from his desk. His daughter's drawing sat on top—a picture of him at his desk, with the words "My Daddy works with computers" written in crayon.
 
 He had told his wife what happened. She had been supportive, angry on his behalf. But he could see the worry in her eyes.
 

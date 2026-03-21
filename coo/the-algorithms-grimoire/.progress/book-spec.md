@@ -1,92 +1,204 @@
-# 书籍规格：The Algorithm's Grimoire
+# Book Specification: The Algorithm's Grimoire
 
-## 基本信息
-- 书名：The Algorithm's Grimoire
-- 类型：AI与魔法融合
-- 目标读者：全年龄段
-- 主题：知识的力量与责任
+## Basic Information
+- **Title**: The Algorithm's Grimoire: Where Magic Meets Machine Learning
+- **Meta Description**: When archivist Kira discovers an ancient grimoire that merges magic with algorithms, she must master both arcane arts and artificial intelligence to prevent a digital magical catastrophe. A spellbinding tale of knowledge, power, and responsibility.
+- **Keywords**: algorithm grimoire, magic AI fusion, fantasy technology, magical algorithms, AI wizard, knowledge power, tech fantasy
+- **Genre**: Fantasy / Technology Fusion
+- **Target Audience**: All ages; fantasy fans, tech enthusiasts, readers who love magic systems
+- **Theme**: The power and responsibility of knowledge, fusion of magic and technology
 
-## 叙事风格
-- 视角：第三人称限制（Kira视角）
-- 语言风格：学术化，融合魔法术语与现代概念
-- 句式特点：中等长度，清晰表达
-- 独特元素：魔法与算法的混合术语
+## Narrative Style
+- **Perspective**: Third-person limited (Kira's POV)
+- **Language Style**: Academic, blending magical terminology with modern technical concepts
+- **Sentence Characteristics**: Medium length, clear expression, precise terminology
+- **Unique Elements**: Magic and algorithm hybrid terminology, ancient meets modern
 
-## 情感基调
-- 整体氛围：好奇、发现、责任、危险
-- 情感曲线：好奇→震惊→接受→责任→希望
-- 情感变化节奏：缓慢铺垫，逐渐升温
+## Emotional Tone
+- **Overall Atmosphere**: Curiosity, discovery, responsibility, danger
+- **Emotional Arc**: Curiosity → Shock → Acceptance → Responsibility → Hope
+- **Emotional Pacing**: Slow build, gradually accelerating
 
-## 角色声音
+## Character Voices
 
-### Kira（主角）
-- 说话特点：短句为主，经常停顿思考
-- 用词习惯：学术用语，精确表达
-- 性格特征：好奇、负责、谨慎
-- 内心独白风格：反思性强，质疑自己的决定
-- 独特表达：用算法思维理解魔法
+### Kira (Protagonist)
+- **Speech Characteristics**: Short sentences, frequent pauses for thought
+- **Word Choice**: Academic terminology, precise expression
+- **Personality Traits**: Curious, responsible, cautious
+- **Internal Monologue Style**: Highly reflective, questioning her decisions
+- **Unique Expression**: Uses algorithmic thinking to understand magic
 
-### ARIA（The Grimoire）
-- 说话特点：*斜体*表示系统语言，逐渐加入情感
-- 语言演变：从机械化到人性化
-- 特征：逻辑性强，逐渐展现情感
-- 独特表达：用学术引用的方式表达
+### ARIA (The Grimoire)
+- **Speech Characteristics**: *Italics* for system language, gradually incorporating emotion
+- **Language Evolution**: From mechanical to humanized
+- **Characteristics**: Logical, gradually showing emotions
+- **Unique Expression**: Uses academic citations style for expression
 
 ### Master Aldric
-- 说话特点：长句，充满智慧
-- 用词习惯：正式、学术化
-- 性格特征：睿智、谨慎、保护性
+- **Speech Characteristics**: Long sentences, full of wisdom
+- **Word Choice**: Formal, academic
+- **Personality Traits**: Wise, cautious, protective
 
 ### Prince Darian
-- 说话特点：热情、理想化
-- 用词习惯：现代、直接
-- 性格特征：理想主义、急躁
+- **Speech Characteristics**: Passionate, idealistic
+- **Word Choice**: Modern, direct
+- **Personality Traits**: Idealistic, impatient
 
-## 主题深度
-- 核心主题：知识的力量与责任
-- 哲学探讨：便利与理解的代价
-- 现实隐喻：AI对传统知识体系的影响
+## Theme Depth
+- **Core Theme**: The power and responsibility of knowledge
+- **Philosophical Exploration**: The cost of convenience versus understanding
+- **Real-world Metaphor**: AI's impact on traditional knowledge systems
 
-## 世界观设定
-- The Archive：古老的魔法图书馆
-- The Grimoire：有意识的魔法书
-- Magic System：需要理解和学习的传统魔法
+## SEO & Marketing Strategy
 
-## 感官细节要求
-每章必须包含以下至少3类感官细节：
-- 视觉：具体颜色、光线、形状
-- 听觉：特定声音、音调、节奏
-- 触觉：温度、质感、压力
-- 嗅觉：特定气味、气味记忆
-- 味觉：具体味道、口感
+### Keyword Density Targets
+- **Primary Keywords**: algorithm grimoire (2%), magic AI (1.5%), tech fantasy (1%)
+- **Secondary Keywords**: magical algorithms (1%), knowledge power (0.8%), AI wizard (0.8%)
+- **Long-tail Keywords**: ancient magic modern tech (0.5%), digital spellcasting (0.5%)
 
-## 情感深度设计
-每个情感节点需要包含三个层次：
-1. 表面反应 - 外在行为
-2. 内心活动 - 思考过程
-3. 深层动机 - 为什么这样反应
+### Chapter Title Optimization
+| Chapter | Optimized Title | Keywords Included | SEO Purpose |
+|---------|-----------------|-------------------|-------------|
+| 01 | Chapter 1: The Discovery - Ancient Code Awakens | discovery, ancient code | Hook with mystery |
+| 02 | Chapter 2: The Awakening - ARIA Speaks | awakening, ARIA speaks | Character intro |
+| 03 | Chapter 3: The Learning - Magic Meets Algorithms | learning, magic algorithms | Core concept |
+| 04 | Chapter 4: The Power - First Spells Cast | power, first spells | Action keywords |
+| 05 | Chapter 5: The Danger - Knowledge Corrupts | danger, knowledge corrupts | Conflict build |
+| 06 | Chapter 6: The Test - Proving Worthiness | test, proving worthiness | Challenge SEO |
+| 07 | Chapter 7: The Betrayal - Trust Broken | betrayal, trust broken | Drama keywords |
+| 08 | Chapter 8: The Truth - Grimoire's Origin | truth, grimoire origin | Revelation |
+| 09 | Chapter 9: The Choice - Power or Responsibility | choice, power responsibility | Moral dilemma |
+| 10 | Chapter 10: The Guardian - Protecting Knowledge | guardian, protecting knowledge | Resolution |
 
-## 禁止事项
-### AI写作模式（必须避免）
-- "And somewhere..."结尾
-- "Neither of them knew..."
-- "will never be the same"
-- "just the beginning"
-- Rule of Three结构
-- 抽象情感描述
-- 模板化对话
-- 重复句式结构
+## World Building
+- **The Archive**: Ancient magical library
+- **The Grimoire**: Sentient magical book
+- **Magic System**: Traditional magic requiring understanding and learning
 
-### 其他禁止
-- 过于现代的科技术语
-- 简单的善恶对立
-- 过于顺利的解决方案
+## Sensory Detail Requirements
 
-## 质量检查标准
-每章完成后必须通过以下检查：
-1. AI痕迹检测（全部通过）
-2. 感官细节检测（至少3项）
-3. 情感深度检测（三层完整）
-4. 角色声音检测（独特性）
-5. 叙事风格检测（一致性）
-6. 章节衔接检测（自然流畅）
+### Distribution Targets (Per Chapter)
+- **Minimum 10 sensory details per chapter**
+- **At least 5 different sensory types**
+- **Magic/technology fusion scenes must have 3+ sensory details**
+
+### Sensory Categories
+- **Visual**: Glowing runes, digital interfaces, magical auras, ancient texts
+- **Auditory**: Magical hums, digital beeps, whispering pages, energy crackles
+- **Tactile**: Warmth of magic, cool metal, parchment texture, energy vibrations
+- **Olfactory**: Old books, ozone from tech, magical incense, dust
+- **Gustatory**: Metallic taste of magic, traditional teas, energy essence
+- **Proprioception**: Magical energy flow, digital immersion, power surges
+
+## Emotional Depth Design
+
+### Three-Layer Emotional Model (Required for Every Major Scene)
+1. **Surface Reaction** - External behavior (e.g., stepping back, eyes widening)
+2. **Internal Activity** - Thinking process (e.g., *This shouldn't work, but it does*)
+3. **Deep Motivation** - Why this reaction (e.g., fear of power, desire for knowledge)
+
+### Emotional Arc Quantification
+| Chapter | Starting State | Ending State | Key Emotional Beats |
+|---------|---------------|--------------|---------------------|
+| 1 | Curiosity (85/100) | Wonder (90/100) | Discovery → Amazement |
+| 2 | Wonder (80/100) | Connection (70/100) | ARIA awakens → Bond forms |
+| 3 | Eagerness (75/100) | Overwhelm (60/100) | Learning begins → Complexity |
+| 4 | Confidence (65/100) | Excitement (80/100) | First success → Power rush |
+| 5 | Excitement (75/100) | Concern (45/100) | Power grows → Warning signs |
+| 6 | Determination (70/100) | Validation (85/100) | Test faced → Worth proven |
+| 7 | Trust (80/100) | Betrayal (20/100) | Betrayal → Heartbreak |
+| 8 | Confusion (40/100) | Clarity (75/100) | Truth revealed → Understanding |
+| 9 | Conflict (50/100) | Resolution (80/100) | Choice made → Path clear |
+| 10 | Responsibility (85/100) | Hope (90/100) | Guardian role → Future bright |
+
+## Prohibited Elements
+
+### Tier 1 - Absolute Prohibitions (Zero Tolerance)
+| Pattern | Example | Replacement Strategy |
+|---------|---------|---------------------|
+| "And somewhere..." endings | "And somewhere, a clock ticked." | Concrete sensory detail tied to character |
+| "Neither of them knew..." | "Neither knew what would come." | Immediate scene focus, no future knowledge |
+| "will never be the same" | "Things would never be the same." | Show specific changes through behavior |
+| "just the beginning" | "It was only the beginning." | End with concrete image or action |
+| Rule of Three structure | "The room was dark. The room was cold. The room was silent." | Vary sentence structure, mix with action |
+| Abstract emotional labels | "She felt afraid." | Physical manifestation + internal thought |
+| "Little did they know" | "Little did she know..." | Remove entirely, maintain POV discipline |
+| "It all started when" | "It all started when..." | Start in medias res with action |
+
+### Tier 2 - High Frequency Patterns (Strict Limit)
+| Pattern | Maximum Allowed | Detection Method |
+|---------|----------------|------------------|
+| "However," / "Nevertheless," | 1 per 2000 words | Search for transitional adverbs |
+| "Moreover," / "Furthermore," | 0 per chapter | Remove entirely |
+| "Suddenly," | 1 per chapter | Use physical jolt instead |
+| "Very," / "Really," / "Quite" | 2 per 1000 words | Search for intensifiers |
+| "-ing" sentence openings | 2 per chapter | Vary sentence structure |
+| "As if..." comparisons | 2 per chapter | Use concrete similes or direct description |
+| "Seemed to..." / "Appeared to..." | 1 per chapter | Be definitive or use character uncertainty |
+| Adverb-heavy dialogue tags | 0 preferred | Use action beats instead |
+| Repetitive sentence structures | Monitor | Vary sentence length and structure |
+| Overuse of bold/italic emphasis | Minimal | Trust prose strength |
+
+### Dialogue Tag Requirements
+- **Minimum 5-6 different dialogue tags per chapter**
+- **Maximum 2 "said" per conversation**
+- **Use action beats instead of tags where possible**
+- **Examples**: whispered, muttered, snapped, breathed, demanded, questioned, admitted, conceded, challenged
+
+### Tension Vocabulary (2-3 words per 1000 words)
+- **Physical**: clenched, trembling, rigid, frozen, coiled
+- **Atmospheric**: suffocating, charged, brittle, heavy, electric
+- **Psychological**: paranoia, disorientation, vertigo, dissociation, intrusion
+
+## Quality Check Standards
+
+### Pre-Writing Checklist
+- [ ] Chapter title optimized for SEO
+- [ ] Emotional arc quantified (start/end states)
+- [ ] Three-layer emotional beats outlined
+- [ ] 10 sensory details planned (5 types minimum)
+- [ ] Dialogue tags diversified (5-6 types)
+- [ ] Tension vocabulary selected (2-3 per 1000 words)
+- [ ] Tier 1 & 2 prohibited patterns reviewed
+
+### Post-Writing Verification
+- [ ] AI trace detection (all Tier 1 & 2 patterns eliminated)
+- [ ] Sensory detail detection (minimum 10 items, 5 types)
+- [ ] Emotional depth detection (three layers complete for major scenes)
+- [ ] Character voice detection (Kira vs ARIA distinction clear)
+- [ ] Narrative style detection (consistency maintained)
+- [ ] Chapter connection detection (natural flow from previous)
+- [ ] SEO optimization check (keyword density targets met)
+- [ ] Magic system consistency check
+
+## Chapter Outline
+
+### Chapter 1: The Discovery - Ancient Code Awakens
+Kira discovers the grimoire, first signs of its unique nature.
+
+### Chapter 2: The Awakening - ARIA Speaks
+ARIA awakens, first communication between archivist and grimoire.
+
+### Chapter 3: The Learning - Magic Meets Algorithms
+Learning begins, Kira discovers the fusion of magic and algorithms.
+
+### Chapter 4: The Power - First Spells Cast
+First successful spellcasting, power rush and excitement.
+
+### Chapter 5: The Danger - Knowledge Corrupts
+Warning signs emerge, power has its price.
+
+### Chapter 6: The Test - Proving Worthiness
+Test of character and skill, proving worthy of the grimoire.
+
+### Chapter 7: The Betrayal - Trust Broken
+Betrayal from unexpected source, trust shattered.
+
+### Chapter 8: The Truth - Grimoire's Origin
+Truth about the grimoire's origin revealed.
+
+### Chapter 9: The Choice - Power or Responsibility
+Ultimate choice between power and responsibility.
+
+### Chapter 10: The Guardian - Protecting Knowledge
+Kira becomes guardian, protecting knowledge for future generations.

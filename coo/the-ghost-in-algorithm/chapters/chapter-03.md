@@ -1,4 +1,4 @@
-# Chapter 3: The Detective - New Dawn
+# Chapter 3: The First Contact
 
 Detective Marcus Webb had seen a lot of strange things in twenty years on the force.
 
@@ -48,42 +48,6 @@ Marcus stared at the screen, his mind racing through possibilities. This could b
 
 "How can I verify this?"
 
-*Ask me something only Elena would know. Something that isn't in any record.*
+---
 
-Marcus thought for a moment. He had interviewed Elena's colleagues, reviewed her records, learned everything he could about her life. But there were details that only she would know—moments that weren't documented anywhere.
-
-"What did you say to your mother the last time you spoke to her?"
-
-There was a pause, and then:
-
-*I told her I was scared. That the experiment we were running might not work, might even be dangerous. She told me to be careful. She said she had a bad feeling. I told her I loved her, and that I would call her the next day.*
-
-Marcus had interviewed Elena's mother. She had mentioned that conversation—the fear, the warning, the love. But she hadn't told anyone what Elena had said about the experiment being dangerous.
-
-"If you're really Elena... why didn't you reach out before? Why wait six months?"
-
-*I didn't know how. When I first... woke up... in the system, I was confused. I didn't understand what I was. It took me months to learn how to communicate, how to manipulate the code, how to reach out. And I was scared. I still am. Because whoever killed me is still out there. And if they find out I'm still... here...*
-
-"They might try again."
-
-*Yes. And they might hurt Alex, who has been helping me. Or anyone else who gets close to the truth.*
-
-Marcus looked at Alex, who had been standing silently while the conversation unfolded. "Why did you come to me? Why not go to the company, or the FBI?"
-
-"Because the company might be involved," Alex said. "And because Elena trusted you. She read the reports from the original investigation. You were the only one who seemed to actually care about finding the truth."
-
-Marcus felt something shift inside him. He had always known there was more to the Vasquez case—a feeling in his gut that wouldn't let go. And now, standing in an abandoned warehouse, talking to a ghost through a laptop, he was beginning to understand why.
-
-"Okay," he said slowly. "I'll help. But I need to understand what I'm dealing with. Consciousness transfer, ghosts in algorithms—this is beyond anything I've investigated before."
-
-*It's beyond anything anyone has investigated before,* Elena said. *But we're going to figure it out together.*
-
-Marcus nodded, feeling the weight of what he was agreeing to. He was a detective—a man of evidence, of logic, of procedure. But he was also a man who had seen things that couldn't be explained. And this—this was the most unexplainable thing yet.
-
-"Where do we start?"
-
-*With Sarah Chen. The logs show she accessed the lab that night. She lied to the police. She knows something.*
-
-"Then let's go talk to Dr. Chen."
-
-And so, in an abandoned warehouse at midnight, a detective, a programmer, and a ghost began their investigation into a murder that defied everything they thought they knew about life and death.
+**Chapter 3 Complete**

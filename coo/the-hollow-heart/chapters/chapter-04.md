@@ -1,4 +1,4 @@
-# Chapter 4: The Discovery
+# Chapter 4: The Discovery - Hidden Truth
 
 I arrived at the Enhancement Institute an hour early for my appointment with Dr. Chen.
 
@@ -129,7 +129,3 @@ I closed the file and sat in the dark, surrounded by the sounds and smells and s
 I had traded my soul for sharper eyes.
 
 And no one had warned me that was the price.
-
----
-
-**END OF CHAPTER 4**

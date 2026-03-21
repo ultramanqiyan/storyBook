@@ -1,4 +1,4 @@
-# Chapter 2: The Hollow
+# Chapter 2: The Hollow - Lost Emotions
 
 I gave it a week.
 
@@ -119,7 +119,3 @@ But something in her voice—a slight elevation in pitch, a microsecond of hesit
 I hung up and sat in silence, surrounded by the sounds and smells and sights of a world I could now perceive in perfect detail.
 
 A world that had never felt more distant.
-
----
-
-**END OF CHAPTER 2**

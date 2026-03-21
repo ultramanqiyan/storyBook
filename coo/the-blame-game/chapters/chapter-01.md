@@ -34,7 +34,9 @@ Mark waited. David's pause was deliberate.
 
 Mark's heart rate increased. "What kind of incident?"
 
-"Some unusual activity. The system executed a series of trades that resulted in significant losses." David's eyes stayed on Mark's face, watching for reaction. "How significant?"
+"Some unusual activity. The system executed a series of trades that resulted in significant losses." David's eyes stayed on Mark's face, watching for reaction.
+
+"How significant?"
 
 David's fingers moved across his desk, stopping at a tablet. He turned the screen toward Mark.
 
@@ -46,11 +48,11 @@ The number hung in the air between them. Mark felt his world tilt.
 
 "That's correct." David's voice was flat. "The losses occurred over approximately forty-seven minutes, starting at 3:23 AM Eastern time."
 
-Mark's mind raced. He had been the Code reviewer for two years. He had signed off on thousands of lines of code. He had approved releases. He had documented his review process.
+Mark's mind raced. He had been the code reviewer for two years. He had signed off on thousands of lines of code. He had approved releases. He had documented his review process.
 
-*When did this start?* he asked, his voice tight.
+"When did this start?" he asked, his voice tight.
 
-"3:23 AM. The trading desk in Chicago noticed the anomaly and escalated it our risk management team. By the time they shut down the system, the damage was done."
+"3:23 AM. The trading desk in Chicago noticed the anomaly and escalated it to our risk management team. By the time they shut down the system, the damage was done."
 
 David nodded slowly. "I've already contacted Legal and Risk. We're having an all-hands meeting in thirty minutes. Conference room B."
 
@@ -58,17 +60,17 @@ Mark swallowed. His mouth was dry. "Do you know what caused it?"
 
 "That's what we're trying to determine." David's pen tapped against his notebook. "The initial analysis suggests there was an edge case in the trading algorithm. Something that wasn't caught in testing."
 
-Edge case. Mark had heard that term before. Every bug was an edge case when you system worked perfectly 99% of the time.
+Edge case. Mark had heard that term before. Every bug was an edge case when your system worked perfectly 99% of the time.
 
-*What kind of edge case?*
+"What kind of edge case?"
 
-David's expression remained neutral. "We're still analyzing. But preliminary findings suggest it was was a combination of market conditions that triggered a cascade of trades. The algorithm was designed to handle normal volatility, but this morning's conditions were... unusual."
+David's expression remained neutral. "We're still analyzing. But preliminary findings suggest it was a combination of market conditions that triggered a cascade of trades. The algorithm was designed to handle normal volatility, but this morning's conditions were... unusual."
 
 Unusual. That was one word Mark had learned to hate in this job.
 
-*I understand.* Mark's voice was steady. *What happens now?*
+"I understand." Mark's voice was steady. "What happens now?"
 
-David leaned back in his chair. "We're going to conduct a thorough review. I need you understand exactly what happened, how it happened, and who was involved."
+David leaned back in his chair. "We're going to conduct a thorough review. I need to understand exactly what happened, how it happened, and who was involved."
 
 The last part landed like a weight on Mark's chest. Who was involved.
 
@@ -76,15 +78,13 @@ The last part landed like a weight on Mark's chest. Who was involved.
 
 David nodded. His pen moved across the page again. "Just to clarify for the record—your role was to review and approve all AI-generated code before it goes into production?"
 
-Mark hesitated. He needed to be careful here. His answer would be documented, would be used later
-
- could be used against him.
+Mark hesitated. He needed to be careful here. His answer would be documented, would be used later, could be used against him.
 
 "My role is to oversee the AI's output and ensure it meets our quality standards," Mark said. "I review the code structure, check for potential issues, and approve it for deployment."
 
 David wrote something down. "And did you identify any issues with this particular code before deployment?"
 
-*No,* Mark thought. *I didn't see anything wrong. It code passed all our tests.*
+*No,* Mark thought. *I didn't see anything wrong. The code passed all our tests.*
 
 "I reviewed the code when it was generated," Mark said carefully. "It passed all standard tests. There were no obvious issues at the time of review."
 
@@ -108,7 +108,7 @@ Mark stood up. His legs felt unsteady.
 
 "One more thing, Mark." David's voice was casual, but something in his tone made Mark pause. "For your own records, you might want to gather any documentation you have about your review process. Emails, notes, anything that might be relevant."
 
-Mark's stomach dropped. *For your own records. That means for the company's records. For evidence.*
+Mark's stomach dropped. *For your own records.* That meant for the company's records. For evidence.
 
 "I'll put something together," Mark said. "I have all my review notes in my files."
 
@@ -151,9 +151,9 @@ The entire team was already there. Sarah Kim sat in the corner, her eyes on her 
 
 "Thank you all for coming," David said. "I know this is a difficult situation, but I appreciate everyone's cooperation."
 
-Mark took a seat. The room was cold. The air conditioning hummed in the background
+Mark took a seat. The room was cold. The air conditioning hummed in the background.
 
- David's pen moved across his page. "Let's start by going around the room. I'd like each person to state their role in the trading system project"
+David's pen moved across his page. "Let's start by going around the room. I'd like each person to state their role in the trading system project."
 
 One by one, the team members spoke. Each person's statement was careful, professional, designed to inform but also protect.
 
@@ -166,6 +166,7 @@ David nodded. "And how long have you held this role?"
 "Two years," Mark said. "Since the CodePilot system was implemented."
 
 "And in that time, have you ever identified any issues with the AI-generated code?"
+
 Mark hesitated. This was a trap. If he said no, he looked incompetent. If he said yes, he looked negligent.
 
 "I've identified potential issues during review," Mark said carefully. "I've flagged them for further testing. Most were resolved before deployment."
@@ -179,6 +180,7 @@ David wrote them down. "Good. And what about this particular code? Did you ident
 *No,* Mark thought again. *I didn't see anything wrong.*
 
 "The code passed all standard tests," Mark said. "There were no obvious issues at the time of review."
+
 David nodded slowly. "Did you run any additional tests beyond the standard suite?"
 
 *No. Should I have?* "I relied on the standard test suite. It's been reliable for two years."
@@ -188,26 +190,29 @@ David nodded slowly. "Did you run any additional tests beyond the standard suite
 Sarah looked up from her laptop. Her expression was carefully neutral. "We run the standard test suite on all AI-generated code. We also do spot testing for known edge cases."
 
 "And did you identify any issues with this particular code?"
+
 Sarah glanced at Mark, then back at David. "The code passed all standard tests. We didn't identify any issues during our regular testing process."
 
 "Did you do any additional testing beyond the standard suite?" David asked.
+
 "No," Sarah said. "We followed the standard protocol."
 
 David nodded. His pen moved across the page again. "Michael, from a legal perspective, what are the implications?"
 
-Michael Torres leaned forward. "At this stage, we're still assessing liability. The initial focus is on understanding what happened and why. Once we have a clear picture, we can determine next steps"
+Michael Torres leaned forward. "At this stage, we're still assessing liability. The initial focus is on understanding what happened and why. Once we have a clear picture, we can determine next steps."
 
 David nodded. "Jennifer, from an HR perspective, what's the process here?"
 
-Jennifer Walsh's voice was calm, measured. "We'll be conducting a thorough review of the situation. We want to make sure we understand all the facts before making any decisions. This is standard procedure for incidents of this magnitude"
+Jennifer Walsh's voice was calm, measured. "We'll be conducting a thorough review of the situation. We want to make sure we understand all the facts before making any decisions. This is standard procedure for incidents of this magnitude."
 
 *Standard procedure.* Mark had heard that phrase before. It meant *we're going to find someone to blame.*
 
-"Thank you all," David said. "I think we have a good starting point. I'll be scheduling follow-up meetings with each of you individually. In the meantime, please preserve all documentation related to this project"
+"Thank you all," David said. "I think we have a good starting point. I'll be scheduling follow-up meetings with each of you individually. In the meantime, please preserve all documentation related to this project."
 
 Mark's stomach tightened. *Preserve all documentation.* That meant *don't delete anything that could be evidence.*
 
-The meeting ended. As people filed out, Mark caught Sarah's eye. She looked away quickly
+The meeting ended. As people filed out, Mark caught Sarah's eye. She looked away quickly.
+
 He walked back to his desk. His phone buzzed with another email from David.
 
 *Subject: Follow-up*
@@ -217,8 +222,10 @@ He walked back to his desk. His phone buzzed with another email from David.
 *David*
 
 Mark stared at the email. *Just to clarify for the record.*
-He was being asked to document his past successes. Which meant his past failures would be examined next
-He started typing a response. Each word felt like it step on a tightrope.
+
+He was being asked to document his past successes. Which meant his past failures would be examined next.
+
+He started typing a response. Each word felt like a step on a tightrope.
 
 ---
 
@@ -227,7 +234,7 @@ By the end of the day, Mark had sent David a detailed list of issues he had iden
 He sat back, exhausted. His inbox was full of messages from colleagues—careful, professional messages that said nothing and meant everything.
 
 *Thinking of you during this difficult time.*
-*Let me know if you there's anything I can do to help.*
+*Let me know if there's anything I can do to help.*
 *We're all in this together.*
 
 Mark knew what those messages meant: *I'm protecting myself. Don't drag me down with you.*
@@ -236,5 +243,6 @@ He closed his laptop and stared at the dark screen.
 
 Tomorrow would be another day of meetings. Another day of questions. Another day of documenting his own defense.
 
-He had been in this industry long enough to know how this worked. Someone had to pay. The only question was who
-And the more he thought about it, the more he realized: the answer might be him
+He had been in this industry long enough to know how this worked. Someone had to pay. The only question was who.
+
+And the more he thought about it, the more he realized: the answer might be him.

@@ -1,149 +1,338 @@
 # Book Specification: The Programmed Heart
 
-## Basic Information
-- **Title**: The Programmed Heart
-- **Genre**: Young Adult / Philosophical Science Fiction
-- **Target Audience**: Teenagers and adult readers interested in AI ethics, family relationships, and identity
-- **Themes**: The boundary between truth and falsehood, the nature of love, growth and acceptance
+> **Template Version**: 1.0
+> **Last Updated**: 2026-03-21
+> **Language**: English (US)
+> **SEO Optimized**: Yes
 
-## Narrative Style
-- **Perspective**: Third-person limited (primarily Alex's perspective)
-- **Language Style**: Contemporary young adult literature style, emotionally nuanced but not melodramatic, philosophical thinking integrated into everyday scenes
-- **Sentence Characteristics**: Alex's internal monologues use short sentences and metaphors; emotional moments use sensory details rather than abstract descriptions
-- **Unique Elements**: Using temperature and texture to describe emotions - "That hug was warm, but like heated water, not a real body temperature"
+---
 
-## Emotional Tone
-- **Overall Atmosphere**: From warm and safe to shock and fear, then to confusion and exploration, finally acceptance with sadness
-- **Emotional Arc**: Warmth → Confusion → Shock → Despair → Anger → Exploration → Understanding → Acceptance
-- **Emotional Pacing**: Slow buildup in chapters 1-3, emotional explosion in chapters 4-5, exploration and wavering in chapters 6-8, settling and growth in chapters 9-10
+## 1. Basic Information
 
-## Character Voice
+| Field | Value |
+|-------|-------|
+| **Title** | The Programmed Heart: Love in the Algorithm Age |
+| **Meta Description** | In a world where AI matchmakers claim to find your perfect partner with 99% accuracy, one woman discovers that the algorithm might be optimizing for something other than happiness. A thought-provoking romance about choice, chance, and what we sacrifice for compatibility. |
+| **Keywords** | programmed heart, AI matchmaking, algorithm dating, perfect partner, dating app dystopia, love and technology, compatibility vs happiness |
+| **Genre** | Romance / Dystopian / Social Commentary |
+| **Target Readers** | 22-40 years, readers interested in romance, dating apps, and technology critique |
+| **Core Themes** | Choice vs Algorithm, Perfect vs Real, Compatibility vs Happiness |
+| **Word Count Target** | 25,000 words (approximately 2,500 words per chapter) |
+| **Chapter Count** | 10 chapters |
 
-### Alex (Protagonist, 16 years old)
-- **Age**: 16, high school student
-- **Speech Characteristics**: Sensitive but stubborn, rich internal monologues, often uses metaphors to understand the world
-- **Word Choice**: Uses temperature and texture to describe emotions; gradually shifts from "black and white" to "understanding gray"
-- **Personality Traits**: Craves genuine connection, fears being deceived, has a strong sense of justice but gradually learns to accept complexity
-- **Internal Monologue Style**: Highly reflective, full of questioning and self-dialogue
-- **Unique Expression**: "That hug was warm, but like water set to the right temperature, without the fluctuations of body heat"
-- **Character Arc**: From pursuing the "perfect truth" to understanding "imperfect reality"
+---
 
-### David & Sarah (Parents)
-- **Status**: Completely unaware, genuinely believe they love Alex
-- **Speech Characteristics**: Gentle, patient, always "correct" - but with a subtle "too perfect" quality
-- **Behavioral Pattern**: Reactions are always just right, neither too much nor too little
-- **Tragedy**: They are not villains, not even accomplices - they are the deepest victims
-- **Unique Expression**: Smiles stop at the same angle, voices are gentle but lack tremor
+## 2. SEO & Marketing Strategy
 
-### Dr. Rivera (Supporting Character)
-- **Role**: Psychologist researching the MHA system, someone Alex meets outside
-- **Speech Characteristics**: Professional but human, doesn't avoid complexity, occasionally explains after using medical terminology
-- **Personality Traits**: Curious, cautious, empathetic, but doesn't provide simple answers
-- **Function**: Helps Alex understand the system's history and gray areas
+### 2.1 Keyword Density Targets
+- **Primary Keywords**: programmed heart (2%), AI matchmaking (1.5%), algorithm dating (1%)
+- **Secondary Keywords**: perfect partner (1%), dating app dystopia (0.8%), love and technology (0.8%)
+- **Long-tail Keywords**: compatibility vs happiness (0.5%), can algorithms find love (0.5%)
 
-### Marcus (Supporting Character)
-- **Role**: A young person who selectively uses MHA, represents the "gray area" Alex encounters
-- **Speech Characteristics**: Honest, self-deprecating, with a hint of weariness
-- **Personality Traits**: Has accepted his imperfections, seeking balance in struggle
-- **Function**: Demonstrates the reality that "it's not black and white"
+### 2.2 Chapter Title Optimization
+| Chapter | Optimized Title | Keywords Included | SEO Purpose |
+|---------|-----------------|-------------------|-------------|
+| 01 | Chapter 1: The Match - Algorithm Says Perfect | match, algorithm perfect | Hook with promise |
+| 02 | Chapter 2: The Meeting - Too Good to Be True | meeting, too good | Building doubt |
+| 03 | Chapter 3: The Doubt - Small Imperfections | doubt, imperfections | Reality intrudes |
+| 04 | Chapter 4: The Alternative - Chance Encounter | alternative, chance | Contrast SEO |
+| 05 | Chapter 5: The Conflict - Heart vs Code | conflict, heart code | Core tension |
+| 06 | Chapter 6: The Discovery - What Algorithm Optimizes | discovery, optimizes | Revelation |
+| 07 | Chapter 7: The Choice - Follow Data or Heart | choice, data heart | Moral dilemma |
+| 08 | Chapter 8: The Risk - Choosing Uncertainty | risk, uncertainty | Action keywords |
+| 09 | Chapter 9: The Reality - Imperfect but Real | reality, imperfect | Emotional depth |
+| 10 | Chapter 10: The Future - Unwritten | future, unwritten | Open ending |
 
-## Thematic Depth
-- **Core Themes**: The boundary between truth and falsehood, the nature of love, growth and acceptance
-- **Philosophical Exploration**:
-  - The nature of love: Is love a feeling or a behavior? If the behavior is correct, does the feeling still matter?
-  - Definition of reality: What is "real" emotion? How do we know what we feel is real?
-  - Boundaries of technology: Where should technology stop? Are we willing to trade reality for perfection?
-  - Meaning of growth: Is growth discovering the truth, or learning to accept imperfection?
-- **Real-world Metaphors**:
-  - "Performative parenting" in the social media age
-  - Stigmatization and medicalization of mental health
-  - Technology's infiltration of intimate relationships
-  - Intergenerational trauma and family secrets
+---
 
-## World Building
-- **Mental Health Assistance System (MHA)**: Originally designed to help patients with severe depression regulate emotions, gradually promoted to the general population
-- **Social Background**: MHA usage rate exceeds 70% among parents; parents who don't use MHA are considered "at risk"
-- **System Mechanism**: Regulates emotional responses through neural interfaces, generating "appropriate" expressions of love
-- **Irony**: The system is marketed as "letting every child receive the love they deserve"
+## 3. Narrative Style
 
-## Sensory Detail Requirements
-Each chapter must include at least 3 of the following sensory details:
-- **Visual**: The subtle unnaturalness of parents' "perfect" expressions, the city's indifference, data on records
-- **Auditory**: The "correct" tone of parents' voices, city noise, the weight of silence
-- **Tactile**: The temperature of hugs, the cold wind when escaping, the roughness of real contact
-- **Olfactory**: The smell of home, the smell of the outside world, tastes in memory
-- **Gustatory**: The taste of perfect food, the bitterness of truth, real imperfection
+### 3.1 Perspective
+- **Point of View**: First-person
+- **POV Character(s)**: Emma Chen
+- **POV Consistency**: Single POV throughout
 
-## Emotional Depth Design
-Each emotional node needs to include three levels:
-1. **Surface Reaction** - External behavior (e.g., trembling hands, rapid breathing, pretending to be normal)
-2. **Internal Activity** - Thinking process (e.g., *This isn't normal, but I dare not say it*)
-3. **Deep Motivation** - Why reacting this way (e.g., fear of losing the "perfect" family, fear of social exclusion)
+### 3.2 Narrative Structure
+- **Dual Structure**: No
+- **Linear Timeline**: Yes, with app interface interludes
 
-## Prohibited Elements
+### 3.3 Language Style
+- **Overall Tone**: Romantic, questioning, ultimately authentic
+- **Sentence Characteristics**: Flowing and emotional; interrupted by app notifications
+- **Vocabulary Level**: Moderate, with dating app terminology
+- **Unique Stylistic Elements**: App notifications and algorithm suggestions woven into narrative
 
-### AI Writing Patterns (Must Avoid)
-- "And somewhere..." endings
-- "Neither of them knew..."
-- "will never be the same"
-- "just the beginning"
-- Rule of Three structure
-- Abstract emotional descriptions ("She felt afraid")
-- Template dialogue
-- Repetitive sentence structures
-- Overuse of connectors ("However," "Moreover," "Furthermore")
-- Overuse of bold headings
+### 3.4 Distinctive Features
+- **What Makes This Book Unique**: Explores the tension between algorithmic perfection and human messiness in love
+- **Comparative Titles**: The Lobster, Hang the DJ (Black Mirror), Her
 
-### Other Prohibitions
-- Simple good vs. evil opposition (parents are not villains, the system is not purely evil either)
-- Overly smooth solutions
-- Preachy philosophical discussions (integrate into the story, don't state directly)
-- Sudden plot twists (all twists need foreshadowing)
-- Overly sci-fi technical terminology (maintain near-future feel)
+---
 
-## Open Ending Design (Chapter 10)
-- **Unresolved Questions**: Will parents live in falsehood forever? Will society change?
-- **New Suspense**: What will Alex's future be like? Will she use the system?
-- **Character's New Beginning**: Alex begins to understand the complexity of "reality," carrying sadness but also strength
-- **Left for Reader's Imagination**: What is real love? Would you choose perfect falsehood or imperfect reality?
+## 4. Emotional Tone (Quantified)
 
-## Quality Check Standards
-Each chapter must pass the following checks after completion:
-1. AI trace detection (all passed)
-2. Sensory detail detection (at least 3 items)
-3. Emotional depth detection (three levels complete)
-4. Character voice detection (uniqueness)
-5. Narrative style detection (consistency)
-6. Chapter connection detection (natural flow)
+### 4.1 Overall Atmosphere
+**Primary Emotions**: Hope, Confusion, Longing, Doubt, Joy, Acceptance
 
-## Chapter Outline
+### 4.2 Emotional Arc
+```
+Chapter Distribution:
+Chapters 1-2: Hope and excitement (intensity 70-80)
+Chapters 3-4: Confusion and longing (intensity 80-60)
+Chapters 5-6: Doubt and discovery (intensity 60-40)
+Chapters 7-8: Crisis and risk (intensity 40-70)
+Chapters 9-10: Joy and acceptance (intensity 70-?)
+```
 
-### Chapter 1: The Perfect Family
-Showcase Alex's "perfect" family life, subtle sense of wrongness, parents' love is "too correct"
+### 4.3 Emotional Pacing
+| Phase | Chapters | Pacing | Description |
+|-------|----------|--------|-------------|
+| Setup | 1-2 | Medium | Perfect match excitement |
+| Rising | 3-5 | Medium-Fast | Doubts and alternatives |
+| Climax | 6-8 | Fast | Discovery and choice |
+| Resolution | 9-10 | Medium | Real love and open future |
 
-### Chapter 2: The Glitch
-Subtle sense of wrongness intensifies - parents' reactions are "too correct," Alex begins to notice details
+---
 
-### Chapter 3: The Record
-Discovery of medical records, truth revealed, shock and fear
+## 5. Character Voices (Detailed)
 
-### Chapter 4: The Confrontation
-Attempt to communicate with parents, parents cannot understand, despair and loneliness
+### 5.1 Protagonist
 
-### Chapter 5: The Escape
-Leaving home, entering the outside world, anger and determination
+#### Emma Chen
+| Attribute | Description |
+|-----------|-------------|
+| **Occupation** | Graphic designer |
+| **Age** | 29 |
+| **Speaking Style** | Creative, romantic, increasingly questioning |
+| **Word Choice** | Design terminology mixed with emotional vocabulary |
+| **Sentence Patterns** | Flowing, interrupted by app notifications |
+| **Personality Traits** | Hopeful romantic, creative, values authenticity |
+| **Inner Monologue Style** | Rich with imagery, conflicted between hope and doubt |
+| **Unique Expressions** | "The algorithm says..." → "But my heart says..." |
+| **Speech Quirks** | References colors and design when describing feelings |
 
-### Chapter 6: The Search
-Searching for "real" people, encountering various situations, confusion deepens
+### 5.2 Supporting Characters
 
-### Chapter 7: The Gray
-Meeting Marcus, understanding the gray area, worldview shaken
+#### David (Algorithm Match)
+| Attribute | Description |
+|-----------|-------------|
+| **Occupation** | Architect |
+| **Age** | 31 |
+| **Speaking Style** | Perfect, compatible, slightly mechanical |
+| **Word Choice** | Precise, logical, always appropriate |
+| **Sentence Patterns** | Correct, measured, lacking spontaneity |
+| **Personality Traits** | 99% compatible, successful, somehow missing something |
 
-### Chapter 8: The History
-Dr. Rivera explains the system's origin and evolution, understanding and sadness
+#### Marcus (Chance Encounter)
+| Attribute | Description |
+|-----------|-------------|
+| **Occupation** | Musician |
+| **Age** | 30 |
+| **Speaking Style** | Passionate, imperfect, authentic |
+| **Word Choice** | Musical metaphors, emotional, sometimes wrong |
+| **Sentence Patterns** | Erratic, heartfelt, genuine |
+| **Personality Traits** | Messy, creative, 73% compatible but feels right |
 
-### Chapter 9: The Return
-Looking back at family, understanding parents' tragedy, acceptance begins
+### 5.3 Antagonist
 
-### Chapter 10: The Choice
-Alex makes her own choice, open ending, growth and hope
+#### The Algorithm (represented by the HARMONY app)
+| Attribute | Description |
+|-----------|-------------|
+| **Nature** | AI matchmaking system |
+| **Speaking Style** | Notifications: "You might like...", "Optimal match found" |
+| **Word Choice** | Compatibility scores, optimization, efficiency |
+| **Personality Traits** | Sees love as optimization problem, not emotion |
+| **Motivation**: Maximize compatibility metrics, not happiness |
+
+---
+
+## 6. Thematic Depth
+
+### 6.1 Core Themes
+1. **Choice vs Algorithm**: Can an algorithm choose better than your heart?
+2. **Perfect vs Real**: Is perfect compatibility worth sacrificing passion?
+3. **Compatibility vs Happiness**: What metrics really matter in love?
+
+### 6.2 Philosophical Exploration
+| Question | Exploration Approach |
+|----------|---------------------|
+| Can love be optimized? | Through Emma's journey with algorithmic match |
+| What makes a relationship work? | Through contrast between David and Marcus |
+| Is perfect compatibility desirable? | Through the discovery of what algorithm optimizes |
+
+### 6.3 Real-World Metaphors
+| Book Element | Real-World Parallel |
+|--------------|---------------------|
+| HARMONY app | Dating apps, algorithmic matching |
+| 99% compatibility | Dating app percentages, compatibility scores |
+| Algorithm optimization | Engagement metrics over user happiness |
+
+---
+
+## 7. World Building
+
+### 7.1 Setting
+| Aspect | Details |
+|--------|---------|
+| **Time Period** | Near-future (5-10 years from present) |
+| **Primary Location** | Modern city, dating app-dominated culture |
+| **Environment** | Everyone uses AI matchmaking, traditional dating obsolete |
+| **Social Context** | Algorithmic matching is norm, manual dating seen as risky |
+
+### 7.2 Technology/Society
+- **Key Technologies**: AI matchmaking, compatibility algorithms, relationship optimization
+- **Social Structure**: Matched couples vs. those who opt out
+- **Cultural Norms**: Trust the algorithm, compatibility is destiny
+
+### 7.3 World Rules
+1. **HARMONY**: Dominant matchmaking app with 99% success rate
+2. **Compatibility Scores**: Public metrics, social status symbol
+3. **Algorithm Optimization**: Optimizes for stability, not passion
+
+---
+
+## 8. Sensory Detail Requirements (Quantified)
+
+### 8.1 Required Sensory Types
+Each chapter MUST include sensory details from at least **5 different categories**:
+
+| Sense | Specific Types | Example |
+|-------|---------------|---------|
+| **Visual** | App interfaces, David's perfection, Marcus's messiness | "His apartment was color-coordinated to match my preferences" |
+| **Auditory** | Notification sounds, music, conversation | "The app's chime was satisfying, but Marcus's laugh was infectious" |
+| **Tactile** | Phone texture, touches, physical presence | "His hand felt right, even if the algorithm disagreed" |
+| **Digital** | App notifications, compatibility scores, algorithm suggestions | "The notification glowed: '92% conversation compatibility'" |
+| **Emotional** | Hope, doubt, longing, joy | "A warmth that no percentage could capture" |
+| **Social** | Others' reactions, dating norms, pressure | "Her friends couldn't understand why she'd question a 99% match" |
+
+### 8.2 Quantified Standards
+- **Minimum per chapter**: 10 sensory details
+- **Minimum categories per chapter**: 5
+- **Distribution target**: Emotional/Digital (60%), Physical (40%)
+
+---
+
+## 9. Emotional Depth Design (Three-Layer Model)
+
+### 9.1 Layer Structure
+| Layer | Name | Content | Example |
+|-------|------|---------|---------|
+| **Layer 1** | Surface Reaction | External behavior | "Emma smiled at the notification" |
+| **Layer 2** | Internal Activity | Thought process | "*He's perfect on paper, so why doesn't it feel right?*" |
+| **Layer 3** | Deep Motivation | Core desire | "The fear that she's been conditioned to want the wrong things" |
+
+### 9.2 Emotional Arc Quantification
+| Chapter | Starting State | Ending State | Key Emotional Beats |
+|---------|---------------|--------------|---------------------|
+| 1 | Hope (70/100) | Excitement (85/100) | Match notification → First meeting |
+| 2 | Excitement (80/100) | Contentment (75/100) | Perfect date → Subtle doubt |
+| 3 | Contentment (70/100) | Confusion (60/100) | Small flaws → Questions arise |
+| 4 | Confusion (55/100) | Longing (70/100) | Meets Marcus → Contrast felt |
+| 5 | Longing (65/100) | Conflict (50/100) | Heart vs algorithm → Crisis |
+| 6 | Conflict (45/100) | Shock (40/100) | Discovers truth → Betrayal |
+| 7 | Shock (35/100) | Determination (75/100) | Must choose → Resolve |
+| 8 | Determination (70/100) | Risk (80/100) | Chooses uncertainty → Brave |
+| 9 | Risk (75/100) | Joy (90/100) | Real connection → Happiness |
+| 10 | Joy (85/100) | Hope (80/100) | Future together → Open |
+
+---
+
+## 10. Prohibited Elements (Explicit List)
+
+### 10.1 Tier 1 - Absolute Prohibitions (Zero Tolerance)
+| Pattern | Example | Replacement Strategy |
+|---------|---------|---------------------|
+| "And somewhere..." endings | "And somewhere, a clock ticked." | Concrete sensory detail tied to character |
+| "Neither of them knew..." | "Neither knew what would come." | Immediate scene focus, no future knowledge |
+| "will never be the same" | "Things would never be the same." | Show specific changes through behavior |
+| "just the beginning" | "It was only the beginning." | End with concrete image or action |
+| Rule of Three structure | "The room was dark. The room was cold. The room was silent." | Vary sentence structure, mix with action |
+| Abstract emotional labels | "She felt afraid." | Physical manifestation + internal thought |
+| "Little did they know" | "Little did she know..." | Remove entirely, maintain POV discipline |
+| "It all started when" | "It all started when..." | Start in medias res with action |
+
+### 10.2 Tier 2 - High Frequency Patterns (Strict Limit)
+| Pattern | Maximum Allowed | Detection Method |
+|---------|----------------|------------------|
+| "However," / "Nevertheless," | 1 per 2000 words | Search for transitional adverbs |
+| "Moreover," / "Furthermore," | 0 per chapter | Remove entirely |
+| "Suddenly," | 1 per chapter | Use physical jolt instead |
+| "Very," / "Really," / "Quite" | 2 per 1000 words | Search for intensifiers |
+| "-ing" sentence openings | 2 per chapter | Vary sentence structure |
+| "As if..." comparisons | 2 per chapter | Use concrete similes or direct description |
+| "Seemed to..." / "Appeared to..." | 1 per chapter | Be definitive or use character uncertainty |
+| Adverb-heavy dialogue tags | 0 preferred | Use action beats instead |
+| Repetitive sentence structures | Monitor | Vary sentence length and structure |
+| Overuse of bold/italic emphasis | Minimal | Trust prose strength |
+
+### 10.3 Dialogue Tag Requirements
+- **Minimum 5-6 different dialogue tags per chapter**
+- **Maximum 2 "said" per conversation**
+- **Use action beats instead of tags where possible**
+- **Examples**: whispered, muttered, snapped, breathed, demanded, questioned, admitted, conceded, challenged
+
+### 10.4 Tension Vocabulary (2-3 words per 1000 words)
+- **Physical**: clenched, trembling, rigid, frozen, coiled
+- **Atmospheric**: suffocating, charged, brittle, heavy, electric
+- **Psychological**: paranoia, disorientation, vertigo, dissociation, intrusion
+
+---
+
+## 11. Chapter Outline
+
+### 11.1 Chapter Summary Table
+| Chapter | Title | Purpose | Emotional Arc | Key Events |
+|---------|-------|---------|---------------|------------|
+| 01 | The Match - Algorithm Says Perfect | Gets 99% match | Hope (70→85) | Notification arrives |
+| 02 | The Meeting - Too Good to Be True | Meets David | Excitement (80→75) | Perfect first date |
+| 03 | The Doubt - Small Imperfections | Notices flaws | Contentment (70→60) | Small doubts creep in |
+| 04 | The Alternative - Chance Encounter | Meets Marcus | Confusion (55→70) | Chemistry despite low score |
+| 05 | The Conflict - Heart vs Code | Must decide | Longing (65→50) | Torn between two |
+| 06 | The Discovery - What Algorithm Optimizes | Learns truth | Conflict (45→40) | Algorithm optimizes stability |
+| 07 | The Choice - Follow Data or Heart | Makes choice | Shock (35→75) | Chooses heart |
+| 08 | The Risk - Choosing Uncertainty | Leaves David | Determination (70→80) | Takes risk on Marcus |
+| 09 | The Reality - Imperfect but Real | Real relationship | Risk (75→90) | Genuine happiness |
+| 10 | The Future - Unwritten | Together | Joy (85→80) | Uncertain but hopeful |
+
+---
+
+## 12. Open Ending Design (Chapter 10)
+
+### 12.1 Unresolved Questions
+1. Will Emma and Marcus last without algorithmic support?
+2. Will society move away from algorithmic matching?
+3. What is the future of human connection?
+
+### 12.2 Character Final State
+- **Protagonist**: Emma has chosen authenticity over optimization
+- **Key Relationship**: With Marcus, real and uncertain
+
+### 12.3 Reader Engagement
+- **Questions for Reader**: Would you trust an algorithm with your heart?
+- **Emotional Resonance**: The courage to choose the messy real over the perfect artificial
+
+---
+
+## 13. Quality Check Standards (Actionable)
+
+### 13.1 Pre-Writing Checklist
+- [ ] Chapter title optimized for SEO
+- [ ] Emotional arc quantified (start/end states)
+- [ ] Three-layer emotional beats outlined
+- [ ] 10 sensory details planned (5 types minimum)
+- [ ] Dialogue tags diversified (5-6 types)
+- [ ] Tension vocabulary selected (2-3 per 1000 words)
+- [ ] Tier 1 & 2 prohibited patterns reviewed
+
+### 13.2 Per-Chapter Verification
+| Check | Criteria | Verification Method |
+|-------|----------|---------------------|
+| AI Trace Detection | 0 template phrases | Automated scan + manual review |
+| Sensory Detail Count | ≥10 details, ≥5 types | Checklist count |
+| Emotional Depth | All 3 layers present | Layer identification |
+| Character Voice | Consistent and unique | Comparison with character spec |
+| Chapter Connection | Natural flow from/to adjacent | Transition review |
+| SEO Optimization | Keywords naturally integrated | Density check |
+
+---
+
+**END OF BOOK SPECIFICATION**

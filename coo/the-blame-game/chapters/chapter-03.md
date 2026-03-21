@@ -1,4 +1,4 @@
-# Chapter 03: The Paper Trail
+# Chapter 3: The Paper Trail - Evidence Gathered
 
 Three days after the incident, Mark received an email from David.
 

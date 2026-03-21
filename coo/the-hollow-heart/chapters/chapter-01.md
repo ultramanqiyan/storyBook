@@ -1,4 +1,4 @@
-# Chapter 1: Awakening
+# Chapter 1: The Awakening - New Senses, New World
 
 The first thing I noticed was the light.
 
@@ -109,7 +109,3 @@ Something was different. Something was wrong.
 Or maybe, I thought, it was just the adjustment period. Dr. Chen had said it would take time. Maybe the emotional connection to music would return once I got used to my new senses.
 
 I hoped so. Because music without feeling was just sound. And I wasn't sure I could live with just sound.
-
----
-
-**END OF CHAPTER 1**

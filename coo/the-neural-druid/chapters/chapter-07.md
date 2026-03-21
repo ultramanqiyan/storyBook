@@ -1,4 +1,4 @@
-# Chapter 7: The Journalist's Truth
+# Chapter 7: The Hybrid Creatures
 
 Sarah Chen arrived in a rental car that had clearly been driven too fast for too long. She burst from the driver's seat with the energy of someone who had been sitting on explosive information for far too long.
 
@@ -48,22 +48,6 @@ Elara felt the weight of those words settle on her shoulders. She had built NEUR
 
 *"You are three people connected to a forest that is connected to every forest,"* NEURAL said. *"You are standing at the heart of something that has been growing for centuries. And you are not fighting alone."*
 
-The ground beneath them trembled slightly—not an earthquake, but something else. A stirring. An awakening. As if the earth itself was responding to NEURAL's words.
+---
 
-"Sarah," Elara said, turning to her sister. "Can you get this story out? The real story? About what Strand is trying to do, about what's really happening here?"
-
-Sarah's eyes gleamed with the fierce determination that had made her one of the most feared investigative journalists in the country. "I can try. But mainstream media won't touch something this unbelievable without proof."
-
-*"We can provide proof,"* NEURAL said. *"We can show her things that cannot be explained away. We can let her see what we see."*
-
-Elara looked at her sister. "Are you ready for this? Because once you see it, you can't unsee it. Your whole understanding of the world will change."
-
-Sarah smiled grimly. "Elara, I've spent my career chasing the truth, no matter how uncomfortable it is. Do you really think I'd back down now?"
-
-The forest seemed to approve of that answer. The shimmering presence intensified, and Sarah gasped as colors she had never seen before painted themselves across her vision.
-
-"Oh," she whispered. "Oh, I see it now. I see all of it."
-
-*"Welcome,"* the Grove Collective said, their voice reaching all three humans now. *"Welcome to the Green. We have been waiting for you."*
-
-And in the distance, Victor Strand's monitoring stations hummed with data they couldn't explain, recording anomalies they couldn't understand, watching a forest that was watching them back.
+**Chapter 7 Complete**

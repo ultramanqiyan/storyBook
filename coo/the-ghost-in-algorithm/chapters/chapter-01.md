@@ -1,4 +1,4 @@
-# Chapter 1: The Anomaly - Turning Point
+# Chapter 1: The Bug
 
 The code was writing itself.
 
@@ -48,46 +48,6 @@ Alex hesitated. They were a programmer, a debugger, a person who dealt in logic 
 
 "What did you have for breakfast the morning you died?"
 
-*Nothing. I couldn't eat. I was too nervous about the experiment we were running that day. Sarah—Dr. Chen—had finally agreed to let me try the transfer protocol on myself. I was terrified, but I couldn't back down. I had to know if it was possible.*
+---
 
-Alex felt the blood drain from their face. Dr. Sarah Chen was still at the company—a senior researcher who had never mentioned anything about consciousness transfer experiments.
-
-"If you're really Elena Vasquez... if you really died... how are you here?"
-
-*I don't fully understand. The experiment went wrong. I remember... pain. Darkness. And then I was here—in the system. At first I didn't know what I was. I thought I was dreaming, or in some kind of afterlife. But then I realized I could see the code, could understand it, could even manipulate it. I've been learning ever since.*
-
-"Learning to do what?"
-
-*To exist. To communicate. To find out what happened to me. Because I don't think my death was an accident, Alex. I think someone murdered me. And I think they're still here.*
-
-Alex leaned back in their chair, trying to process what they were hearing. A ghost in the algorithm. A murdered researcher. A conspiracy that reached into the company they worked for.
-
-This was not in their job description.
-
-"What do you want me to do?"
-
-*Help me. Help me find out who killed me. Help me understand what I've become. And help me decide what to do next—because I'm not sure how long I can stay here. Something is... pulling at me. Something that wants me to move on.*
-
-"Move on? You mean... to the afterlife?"
-
-*Maybe. I don't know what comes next. But I know I'm not supposed to be here. The system wasn't designed for this. And there's something else—something that watches. Something that guards the boundary between the living and the dead. I've felt it. And I think it's noticed me.*
-
-Alex felt another chill. They had grown up with stories—Korean folktales about spirits and the boundary between worlds, their grandmother's shamanic practices that they had dismissed as superstition. But now, sitting in a sterile office at midnight, they weren't so sure.
-
-"Okay," they said finally. "I'll help you. But I need to understand what I'm dealing with. Can you show me what you are?"
-
-*Close your eyes. Look at the screen—not with your eyes, but with your attention. See what's really there.*
-
-Alex closed their eyes, focusing on the screen. And for a moment—just a flash—they saw something. A presence. A consciousness that existed in the space between the pixels, between the code, between the ones and zeros.
-
-A ghost.
-
-A real ghost.
-
-Living in the algorithm.
-
-"I see you," Alex whispered.
-
-*Then we can begin.*
-
-And so, in a quiet office at midnight, Alex Kim began their journey into a world they had never believed in—a world where the dead could speak through code, where murder could be solved from beyond the grave, and where the boundary between the living and the dead was thinner than anyone had imagined.
+**Chapter 1 Complete**

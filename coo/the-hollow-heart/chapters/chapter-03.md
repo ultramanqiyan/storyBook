@@ -1,4 +1,4 @@
-# Chapter 3: Memory
+# Chapter 3: The Memory - Searching for What Was Lost
 
 That night, I dreamed of before.
 
@@ -121,7 +121,3 @@ I woke with a gasp, my heart pounding, my body covered in sweat.
 For a moment, I thought I had felt something—fear, perhaps, or the echo of the dream's emotion. But as my enhanced senses reasserted themselves, cataloging every detail of my environment, the feeling faded.
 
 I was left with only the memory of having felt, and the terrible certainty that the dream had been trying to tell me something true.
-
----
-
-**END OF CHAPTER 3**

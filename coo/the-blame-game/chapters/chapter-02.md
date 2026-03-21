@@ -1,4 +1,5 @@
-# Chapter 02: The First Meeting
+# Chapter 2: The First Meeting - Questions Begin
+
 The air carried the faint scent of coffee, lingering in the background.
 
 The next morning, Mark arrived at the office early.
@@ -136,7 +137,7 @@ His phone buzzed with an email from David.
 
 *Subject: Follow-up*
 *Mark,*
-*Thanks for your participation in the meeting. Just to clarify for the record, you mentioned that your review process focuses on "key sections" and "critical paths." Can you send me a written description of your review methodology? I'd like to understand the process better.*
+*Thanks for your participation in the meeting. Just to clarify for the record, you mentioned that your review process focuses on 'key sections' and 'critical paths.' Can you send me a written description of your review methodology? I'd like to understand the process better.*
 *Best,*
 *David*
 

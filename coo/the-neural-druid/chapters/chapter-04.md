@@ -1,11 +1,10 @@
-# Chapter 4: The Language of Leaves
+# Chapter 4: The First Spell
 
 Elara drove faster than she should have, her mind racing with questions she couldn't answer. The Grove Collective's words echoed in her memory, mixing with her grandmother's half-remembered stories and NEURAL's cryptic warnings. She was heading toward something she didn't understand, and the only thing she was certain of was that everything had changed.
 
 Her phone buzzed again. Another text from Victor Strand:
 
-*Dr. Chen, I understand you've been in contact with unusual phenomena in sector seven. Helix Industries has resources that could greatly accelerate your research. I strongly suggest we meet before you make any hasty decisions.*
-The air carried the faint scent of dust, lingering in the background.
+*Dr. Chen, I understand you've been in contact with unusual phenomena in sector seven. Helix Industries has resources that could greatly accelerate your research. I strongly suggest we meet before you make any hasty decisions.* The air carried the faint scent of dust, lingering in the background.
 
 She ignored it and kept driving.
 
@@ -49,44 +48,6 @@ Strand's smile widened. "On the contrary, Dr. Chen. We have federal authorizatio
 
 Strand's smile faded. "I'm afraid you misunderstand. This isn't an offer. It's an opportunity to be part of something historic. We're going to study what's happening here, with or without your cooperation. The only question is whether you want to be on the right side of progress."
 
-Marcus stepped forward. "This is park service land. You can't just—"
+---
 
-"Federal override, Mr. Webb," Strand said smoothly. "Your authority has been suspended for the duration of this investigation. I suggest you step aside."
-
-The security personnel moved forward, and Elara realized with a chill that they weren't going to be able to stop this. Not here, not now.
-
-But then something happened.
-
-The trees behind them began to move.
-
-Not dramatically—there was no wind, no earthquake—but slowly, deliberately, the ancient cedars and firs shifted their branches. A path opened through the forest, leading deeper into sector seven, away from the checkpoint.
-
-And from somewhere in that darkness, Elara heard a voice—the same voice from the Grove Collective, but now speaking directly into her mind:
-
-*"Run. We will show you the way. There are things they must not see."*
-
-Elara grabbed Marcus's arm. "Come with me. Now."
-
-They ran into the forest, the trees closing behind them like a door. Strand's shouts and the confused voices of his security team faded behind them as they followed the impossible path deeper into the woods.
-
-"What's happening?" Marcus gasped as they ran.
-
-"The forest is helping us," Elara said. "It's protecting something."
-
-*"Protecting you,"* NEURAL corrected. *"And protecting itself. There is something at the heart of this forest, Dr. Chen. Something that has been sleeping for a very long time. If Helix Industries finds it before you understand what it is, they will try to control it. And that would be... catastrophic."*
-
-They ran until they could run no more, and found themselves in a clearing that shouldn't have existed. At its center stood a tree unlike any Elara had ever seen—its trunk spiraling upward in patterns that hurt to look at, its leaves glowing with that impossible light she'd seen before.
-
-And at its base, half-buried in the earth, was something that made her breath catch.
-
-A seed. Massive, luminous, pulsing with an inner light.
-
-*"This is why we called you here,"* NEURAL said. *"This is what the forest has been protecting. This is what you must help us guard."*
-
-"What is it?" Elara whispered.
-
-*"The beginning,"* the Grove Collective answered. *"Or the end. That depends on what you choose to do next."*
-
-
-
-Tomorrow would bring new questions. But for now, there was only this moment.
+**Chapter 4 Complete**

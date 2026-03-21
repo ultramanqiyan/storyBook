@@ -1,9 +1,6 @@
 # Chapter 4: The Warning - Critical Moment
-The air carried the faint scent of dust, lingering in the background.
 
-The next morning, Mark walked into the office with a sense of dread.
-
-His meeting with David was scheduled for 10 AM. He had spent the night preparing, reviewing his emails, his notes, his documentation. But he knew it wouldn't be enough.
+The scent of stale coffee hung in the air as Mark walked into the office, each step heavy with dread. His meeting with David was scheduled for 10 AM, but the weight of anticipation made every minute feel like an hour.
 
 At 9:45 AM, his phone buzzed.
 
@@ -13,9 +10,7 @@ At 9:45 AM, his phone buzzed.
 *Best,*
 *David*
 
-Mark stared at the email. He felt a moment of relief, followed by a deeper sense of unease.
-
-*Why the delay? What's happening behind the scenes?*
+Mark stared at the email. Relief washed over him, immediately followed by a deeper unease. *Why the delay? What's happening behind the scenes?*
 
 He typed a response.
 
@@ -24,7 +19,7 @@ He typed a response.
 *Best,*
 *Mark*
 
-He spent the morning at his desk, trying to work. But his mind kept drifting to the meeting, to the questions, to the paper trail that was being built around him.
+He spent the morning at his desk, trying to work. But his mind kept drifting to the meeting, to the questions, to the paper trail being built around him.
 
 At 2:30 PM, he received another email. This one was from Jennifer Walsh in HR.
 

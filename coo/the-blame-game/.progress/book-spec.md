@@ -1,9 +1,11 @@
 # Book Specification: The Blame Game
 
 ## Basic Information
-- **Title**: The Blame Game
-- **Genre**: Corporate Drama / Satire
-- **Target Audience**: Working professionals, readers interested in AI ethics
+- **Title**: The Blame Game: A Corporate Accountability Thriller
+- **Meta Description**: When a catastrophic AI trading error costs millions, senior code reviewer Mark Chen becomes the scapegoat in a corporate blame game that exposes the dark underbelly of workplace accountability. A chilling corporate thriller about responsibility, betrayal, and survival.
+- **Keywords**: blame game, corporate scapegoat, workplace accountability, AI responsibility, corporate thriller, office politics, tech industry ethics
+- **Genre**: Corporate Drama / Satire / Thriller
+- **Target Audience**: Working professionals, readers interested in AI ethics, corporate thriller fans
 - **Themes**: The absurdity of responsibility attribution in modern workplaces, human dilemmas in the AI era
 
 ## Narrative Style
@@ -64,6 +66,27 @@
   - Modern corporate responsibility avoidance mechanisms
   - The fate of the "weak" in workplace politics
 
+## SEO & Marketing Strategy
+
+### Keyword Density Targets
+- **Primary Keywords**: blame game (2%), corporate scapegoat (1.5%), workplace accountability (1%)
+- **Secondary Keywords**: AI responsibility (1%), corporate thriller (0.8%), office politics (0.8%)
+- **Long-tail Keywords**: tech industry ethics (0.5%), workplace survival (0.5%)
+
+### Chapter Title Optimization
+| Chapter | Optimized Title | Keywords Included | SEO Purpose |
+|---------|-----------------|-------------------|-------------|
+| 01 | Chapter 1: The Incident - When AI Goes Wrong | incident, AI goes wrong | Hook with crisis |
+| 02 | Chapter 2: The Meeting - First Signs of Trouble | meeting, first signs | Tension build |
+| 03 | Chapter 3: The Paper Trail - Evidence Mounts | paper trail, evidence mounts | Investigation |
+| 04 | Chapter 4: The Warning - Signs Ignored | warning, signs ignored | Dramatic irony |
+| 05 | Chapter 5: The Contract - Legal Escape Routes | contract, legal escape | Corporate reality |
+| 06 | Chapter 6: The Investigation - Formal Inquiry | investigation, formal inquiry | Procedure thriller |
+| 07 | Chapter 7: The Setup - Trap Springs Shut | setup, trap springs | Suspense peak |
+| 08 | Chapter 8: The HR Meeting - Corporate Judgment | HR meeting, corporate judgment | Confrontation |
+| 09 | Chapter 9: The Decision - Scapegoat Selected | decision, scapegoat selected | Climax |
+| 10 | Chapter 10: The Aftermath - Life After Blame | aftermath, life after blame | Resolution |
+
 ## World Building
 - **Company**: NexTrade Technologies (fictional) - High-frequency trading system developer
 - **AI System**: CodePilot (fictional) - Provided by SynthAI Corp (fictional)
@@ -71,38 +94,79 @@
 - **Workplace Culture**: Written record culture, meeting culture, blame-shifting culture
 
 ## Sensory Detail Requirements
-Each chapter must include at least 3 of the following sensory details:
-- **Visual**: Cold light in conference rooms, data on screens, colleagues' expressions
-- **Auditory**: Silence in conference rooms, keyboard clicking, phone ringing
-- **Tactile**: Sweaty palms, hardness of chairs, texture of documents
-- **Olfactory**: Office coffee smell, dry air from air conditioning
-- **Gustatory**: Bitter coffee, dry mouth when nervous
+
+### Distribution Targets (Per Chapter)
+- **Minimum 10 sensory details per chapter**
+- **At least 5 different sensory types**
+- **Meeting/confrontation scenes must have 3+ sensory details**
+
+### Sensory Categories
+- **Visual**: Cold light in conference rooms, data on screens, colleagues' expressions, email notifications
+- **Auditory**: Silence in conference rooms, keyboard clicking, phone ringing, notification pings
+- **Tactile**: Sweaty palms, hardness of chairs, texture of documents, trembling hands
+- **Olfactory**: Office coffee smell, dry air from air conditioning, paper smell
+- **Gustatory**: Bitter coffee, dry mouth when nervous, metallic taste of fear
+- **Proprioception**: Physical tension, sinking feeling in stomach, weight of pressure
 
 ## Emotional Depth Design
-Each emotional node needs to include three levels:
+
+### Three-Layer Emotional Model (Required for Every Major Scene)
 1. **Surface Reaction** - External behavior (e.g., calmly saying "I understand," fingers tapping on desk)
 2. **Internal Activity** - Thinking process (e.g., *They're setting me up. I need to be careful.*)
 3. **Deep Motivation** - Why reacting this way (e.g., fear of losing job, fear of becoming scapegoat)
 
+### Emotional Arc Quantification
+| Chapter | Starting State | Ending State | Key Emotional Beats |
+|---------|---------------|--------------|---------------------|
+| 1 | Normalcy (80/100) | Shock (30/100) | Routine day → Crisis hits |
+| 2 | Panic (25/100) | Defensive (40/100) | Emergency meeting → Defenses up |
+| 3 | Suspicion (45/100) | Paranoia (35/100) | Paper trail → Realization |
+| 4 | Regret (40/100) | Dread (30/100) | Warning signs → Too late |
+| 5 | Anger (50/100) | Resignation (40/100) | Contract terms → Trapped |
+| 6 | Anxiety (35/100) | Isolation (25/100) | Investigation → Alone |
+| 7 | Desperation (20/100) | Betrayal (15/100) | Setup complete → Betrayed |
+| 8 | Fear (30/100) | Defeat (20/100) | HR meeting → Judgment |
+| 9 | Despair (15/100) | Acceptance (30/100) | Decision made → Fate sealed |
+| 10 | Loss (25/100) | Bitter Wisdom (50/100) | Aftermath → Understanding |
+
 ## Prohibited Elements
 
-### AI Writing Patterns (Must Avoid)
-- "And somewhere..." endings
-- "Neither of them knew..."
-- "will never be the same"
-- "just the beginning"
-- Rule of Three structure
-- Abstract emotional descriptions
-- Template dialogue
-- Repetitive sentence structures
-- Overuse of connectors
+### Tier 1 - Absolute Prohibitions (Zero Tolerance)
+| Pattern | Example | Replacement Strategy |
+|---------|---------|---------------------|
+| "And somewhere..." endings | "And somewhere, a clock ticked." | Concrete sensory detail tied to character |
+| "Neither of them knew..." | "Neither knew what would come." | Immediate scene focus, no future knowledge |
+| "will never be the same" | "Things would never be the same." | Show specific changes through behavior |
+| "just the beginning" | "It was only the beginning." | End with concrete image or action |
+| Rule of Three structure | "The room was dark. The room was cold. The room was silent." | Vary sentence structure, mix with action |
+| Abstract emotional labels | "She felt afraid." | Physical manifestation + internal thought |
+| "Little did they know" | "Little did she know..." | Remove entirely, maintain POV discipline |
+| "It all started when" | "It all started when..." | Start in medias res with action |
 
-### Other Prohibitions
-- Using real company names
-- Overly dramatic dialogue
-- Plot elements inconsistent with real Western workplace situations
-- Simple good vs. evil opposition
-- Overly technical descriptions (maintain readability)
+### Tier 2 - High Frequency Patterns (Strict Limit)
+| Pattern | Maximum Allowed | Detection Method |
+|---------|----------------|------------------|
+| "However," / "Nevertheless," | 1 per 2000 words | Search for transitional adverbs |
+| "Moreover," / "Furthermore," | 0 per chapter | Remove entirely |
+| "Suddenly," | 1 per chapter | Use physical jolt instead |
+| "Very," / "Really," / "Quite" | 2 per 1000 words | Search for intensifiers |
+| "-ing" sentence openings | 2 per chapter | Vary sentence structure |
+| "As if..." comparisons | 2 per chapter | Use concrete similes or direct description |
+| "Seemed to..." / "Appeared to..." | 1 per chapter | Be definitive or use character uncertainty |
+| Adverb-heavy dialogue tags | 0 preferred | Use action beats instead |
+| Repetitive sentence structures | Monitor | Vary sentence length and structure |
+| Overuse of bold/italic emphasis | Minimal | Trust prose strength |
+
+### Dialogue Tag Requirements
+- **Minimum 5-6 different dialogue tags per chapter**
+- **Maximum 2 "said" per conversation**
+- **Use action beats instead of tags where possible**
+- **Examples**: whispered, muttered, snapped, breathed, demanded, questioned, admitted, conceded, challenged
+
+### Tension Vocabulary (2-3 words per 1000 words)
+- **Physical**: clenched, trembling, rigid, frozen, coiled
+- **Atmospheric**: suffocating, charged, brittle, heavy, electric
+- **Psychological**: paranoia, disorientation, vertigo, dissociation, intrusion
 
 ## Open Ending Design (Chapter 10)
 - **Unresolved Questions**: Who is truly responsible? Will the system defects be fixed?
@@ -111,43 +175,54 @@ Each emotional node needs to include three levels:
 - **Left for Reader's Imagination**: If you were Mark, what would you do?
 
 ## Quality Check Standards
-Each chapter must pass the following checks after completion:
-1. AI trace detection (all passed)
-2. Sensory detail detection (at least 3 items)
-3. Emotional depth detection (three levels complete)
-4. Character voice detection (uniqueness)
-5. Narrative style detection (consistency)
-6. Chapter connection detection (natural flow)
-7. Workplace authenticity detection (consistent with Western workplace)
+
+### Pre-Writing Checklist
+- [ ] Chapter title optimized for SEO
+- [ ] Emotional arc quantified (start/end states)
+- [ ] Three-layer emotional beats outlined
+- [ ] 10 sensory details planned (5 types minimum)
+- [ ] Dialogue tags diversified (5-6 types)
+- [ ] Tension vocabulary selected (2-3 per 1000 words)
+- [ ] Tier 1 & 2 prohibited patterns reviewed
+
+### Post-Writing Verification
+- [ ] AI trace detection (all Tier 1 & 2 patterns eliminated)
+- [ ] Sensory detail detection (minimum 10 items, 5 types)
+- [ ] Emotional depth detection (three layers complete for major scenes)
+- [ ] Character voice detection (Mark vs David distinction clear)
+- [ ] Narrative style detection (consistency maintained)
+- [ ] Chapter connection detection (natural flow from previous)
+- [ ] SEO optimization check (keyword density targets met)
+- [ ] Workplace authenticity detection (consistent with Western workplace)
 
 ## Chapter Outline
 
-### Chapter 1: The Incident
-The incident occurs, losses exposed, emergency meeting called
+### Chapter 1: The Incident - When AI Goes Wrong
+The incident occurs, losses exposed, emergency meeting called.
 
-### Chapter 2: The First Meeting
-First internal meeting, parties begin to state positions, Mark starts defensive mode
+### Chapter 2: The Meeting - First Signs of Trouble
+First internal meeting, parties begin to state positions, Mark starts defensive mode.
 
-### Chapter 3: The Paper Trail
-Mark starts shifting blame, but discovers boss has written records
+### Chapter 3: The Paper Trail - Evidence Mounts
+Mark starts shifting blame, but discovers boss has written records.
 
-### Chapter 4: The Warning
-Sarah's email is dug up, proving Mark had been warned
+### Chapter 4: The Warning - Signs Ignored
+Sarah's email is dug up, proving Mark had been warned.
 
-### Chapter 5: The Contract
-Legal points out AI supplier contract disclaimer, Mark's situation worsens
+### Chapter 5: The Contract - Legal Escape Routes
+Legal points out AI supplier contract disclaimer, Mark's situation worsens.
 
-### Chapter 6: The Investigation
-HR begins "formal investigation," Mark is isolated
+### Chapter 6: The Investigation - Formal Inquiry
+HR begins "formal investigation," Mark is isolated.
 
-### Chapter 7: The Meeting with David
-David's one-on-one with Mark, surface caring but actually collecting evidence
+### Chapter 7: The Setup - Trap Springs Shut
+David's one-on-one with Mark, surface caring but actually collecting evidence.
 
-### Chapter 8: The HR Meeting
-Formal HR meeting, Mark is asked to "explain"
+### Chapter 8: The HR Meeting - Corporate Judgment
+Formal HR meeting, Mark is asked to "explain."
 
-### Chapter 9: The Decision
-Mark is fired, company releases statement
+### Chapter 9: The Decision - Scapegoat Selected
+Mark is fired, company releases statement.
 
-### Chapter 10: The Aftermath
-Mark leaves the company, reflecting on the entire incident
+### Chapter 10: The Aftermath - Life After Blame
+Mark leaves the company, reflecting on the entire incident.
