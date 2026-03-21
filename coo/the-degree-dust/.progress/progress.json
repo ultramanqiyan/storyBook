@@ -1,8 +1,60 @@
 {
   "book": "the-degree-dust",
-  "status": "pending",
-  "current_chapter": 0,
+  "status": "completed",
+  "current_chapter": 10,
   "total_chapters": 10,
   "started_at": "2026-03-21",
-  "chapters": {}
+  "completed_at": "2026-03-21",
+  "chapters": {
+    "chapter-01": {
+      "title": "The Numbers - Applications Down",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-02": {
+      "title": "The Question - Why Should I Learn",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-03": {
+      "title": "The Campus - Emptying Halls",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-04": {
+      "title": "The Students - Those Who Left",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-05": {
+      "title": "The Search - Where Did They Go",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-06": {
+      "title": "The Alternative - A Different Path",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-07": {
+      "title": "The Debate - What Is Education For",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-08": {
+      "title": "The Past - When Knowledge Was Power",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-09": {
+      "title": "The Answer - What AI Cannot Know",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-10": {
+      "title": "The Future - Learning to Be Human",
+      "status": "completed",
+      "word_count": 2500
+    }
+  }
 }

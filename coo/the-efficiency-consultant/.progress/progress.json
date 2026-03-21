@@ -1,8 +1,60 @@
 {
   "book": "the-efficiency-consultant",
-  "status": "pending",
-  "current_chapter": 0,
+  "status": "completed",
+  "current_chapter": 10,
   "total_chapters": 10,
   "started_at": "2026-03-21",
-  "chapters": {}
+  "completed_at": "2026-03-21",
+  "chapters": {
+    "chapter-01": {
+      "title": "The Presentation - Selling Efficiency",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-02": {
+      "title": "The Client - Another Department Gone",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-03": {
+      "title": "The Introduction - Meet the New System",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-04": {
+      "title": "The Demo - It Does Everything Better",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-05": {
+      "title": "The Denial - They Wouldn't Replace Me",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-06": {
+      "title": "The Discovery - I Trained My Replacement",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-07": {
+      "title": "The Fight - Pushing Back",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-08": {
+      "title": "The Truth - Efficiency Has No Loyalty",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-09": {
+      "title": "The Choice - Become the System or Fight It",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-10": {
+      "title": "The End - What Efficiency Leaves Behind",
+      "status": "completed",
+      "word_count": 2500
+    }
+  }
 }

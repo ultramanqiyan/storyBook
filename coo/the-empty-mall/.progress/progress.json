@@ -1,8 +1,60 @@
 {
   "book": "the-empty-mall",
-  "status": "pending",
-  "current_chapter": 0,
+  "status": "completed",
+  "current_chapter": 10,
   "total_chapters": 10,
   "started_at": "2026-03-21",
-  "chapters": {}
+  "completed_at": "2026-03-21",
+  "chapters": {
+    "chapter-01": {
+      "title": "The Observation - Fewer Footsteps",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-02": {
+      "title": "The Products - Better Than Ever",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-03": {
+      "title": "The Customers - Those Who Stopped Coming",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-04": {
+      "title": "The Interview - Why Don't You Buy",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-05": {
+      "title": "The Discovery - The Demand Black Hole",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-06": {
+      "title": "The Town - Where Did Everyone Go",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-07": {
+      "title": "The Answer - Nothing to Want",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-08": {
+      "title": "The Attempt - Creating Desire",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-09": {
+      "title": "The Realization - What Was Lost",
+      "status": "completed",
+      "word_count": 2500
+    },
+    "chapter-10": {
+      "title": "The Silence - A New Kind of Empty",
+      "status": "completed",
+      "word_count": 2500
+    }
+  }
 }
