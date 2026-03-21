@@ -1,0 +1,60 @@
+{
+  "book": "the-trust-protocol",
+  "status": "completed",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-03-21",
+  "completed_at": "2026-03-21",
+  "chapters": {
+    "chapter-01": {
+      "status": "completed",
+      "word_count": 2500,
+      "title": "The Perfect Purchase"
+    },
+    "chapter-02": {
+      "status": "completed",
+      "word_count": 2400,
+      "title": "The Verification"
+    },
+    "chapter-03": {
+      "status": "completed",
+      "word_count": 2300,
+      "title": "The Pattern"
+    },
+    "chapter-04": {
+      "status": "completed",
+      "word_count": 2400,
+      "title": "The Brother"
+    },
+    "chapter-05": {
+      "status": "completed",
+      "word_count": 2500,
+      "title": "The Professor"
+    },
+    "chapter-06": {
+      "status": "completed",
+      "word_count": 2300,
+      "title": "The Trap"
+    },
+    "chapter-07": {
+      "status": "completed",
+      "word_count": 2400,
+      "title": "The Proof"
+    },
+    "chapter-08": {
+      "status": "completed",
+      "word_count": 2300,
+      "title": "The Search"
+    },
+    "chapter-09": {
+      "status": "completed",
+      "word_count": 2400,
+      "title": "The Revelation"
+    },
+    "chapter-10": {
+      "status": "completed",
+      "word_count": 2500,
+      "title": "The Protocol"
+    }
+  }
+}
