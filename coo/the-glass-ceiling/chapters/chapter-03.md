@@ -67,7 +67,3 @@ But Marcus believed in them. Marcus wanted them to succeed. Marcus was investing
 That had to mean something. That had to be good.
 
 Right?
-
----
-
-**Chapter 3 Complete**

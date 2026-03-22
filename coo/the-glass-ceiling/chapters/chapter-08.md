@@ -111,7 +111,3 @@ The word was a weapon. A way to dismiss, to delegitimize, to silence.
 But Alex wouldn't be silenced. Not this time.
 
 "I'm being factual, Marcus. And the facts don't lie."
-
----
-
-**Chapter 8 Complete**

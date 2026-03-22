@@ -65,7 +65,3 @@ Alex blinked. "What do you mean?"
 "I mean..." Sarah hesitated, her fingers tracing the rim of her coffee cup. "Just... watch your back. Document everything. And don't trust everything you hear."
 
 Before Alex could ask more, Sarah walked away, leaving them with more questions than answers.
-
----
-
-**Chapter 2 Complete**

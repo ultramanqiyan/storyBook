@@ -67,7 +67,3 @@ Sarah was quiet for a long moment. The break room hummed around them—the refri
 "What do I do?"
 
 "That's the question, isn't it?" Sarah stood, dumping her cold coffee in the sink. "Some of us stay and survive. Some of us leave and rebuild. Some of us fight and lose everything." She paused at the door. "The question is: what are you willing to lose?"
-
----
-
-**Chapter 5 Complete**

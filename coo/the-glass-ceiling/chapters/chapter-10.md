@@ -117,9 +117,3 @@ And they were never going back.
 ---
 
 **The End**
-
----
-
-**Chapter 10 Complete**
-
-**Book Complete: The Glass Ceiling**

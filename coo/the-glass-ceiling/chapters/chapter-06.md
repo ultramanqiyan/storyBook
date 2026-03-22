@@ -89,7 +89,3 @@ And through it all, Marcus smiled. He was supportive. He was concerned. He was e
 The suggestion felt like a trap. If they admitted to struggling, it would confirm everything Marcus was implying—that they weren't cut out for this job, that they couldn't handle the pressure, that the problem was them.
 
 But what if he was right? What if the problem really was them?
-
----
-
-**Chapter 6 Complete**

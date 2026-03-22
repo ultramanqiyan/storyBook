@@ -93,7 +93,3 @@ Alex thought about Sarah's warning. They thought about Sam's PIP. They thought a
 The thought was both terrifying and liberating. Terrifying because it meant the problem was bigger than anything they could fix. Liberating because it meant they weren't crazy.
 
 They weren't crazy.
-
----
-
-**Chapter 7 Complete**

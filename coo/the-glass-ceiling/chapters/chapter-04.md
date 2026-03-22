@@ -59,7 +59,3 @@ He pulled up a document on his screen.
 Alex shook his hand, trying to feel grateful instead of inadequate. A mentor was a good thing. Guidance was what they needed. This was an opportunity, not a criticism.
 
 But as they left Marcus's office, they couldn't shake the feeling that they were falling behind. That no matter how hard they worked, it would never be enough.
-
----
-
-**Chapter 4 Complete**

@@ -82,7 +82,3 @@ The days that followed were the longest of Alex's life. Every notification on th
 But they'd made their choice. They'd taken their stand.
 
 Now they would see what happened next.
-
----
-
-**Chapter 9 Complete**
