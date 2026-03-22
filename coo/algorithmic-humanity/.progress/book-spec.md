@@ -68,16 +68,16 @@
 
 | Chapter | Title | Purpose | Key Events |
 |---------|-------|---------|------------|
-| 01 | The Session | Establish Angela's work | Angela photographs a dying dog |
-| 02 | The Request | Unusual commission | Angela is asked to photograph an AI pet |
-| 03 | The Subject | Meeting the AI pet | Angela meets "Buddy," an AI companion |
+| 01 | The Request | Establish Angela's work | Angela receives unusual commission |
+| 02 | The Subject | Meeting the AI pet | Angela meets "Buddy," an AI companion |
+| 03 | The Subject | Deepening understanding | Angela learns more about AI pets |
 | 04 | The Owner | Understanding the bond | Angela sees the genuine relationship |
 | 05 | The Session | Photographing Buddy | Angela captures the AI's "last moments" |
 | 06 | The Mourning | Witnessing grief | The owner mourns genuinely |
 | 07 | The Question | What is life? | Angela questions the boundary |
 | 08 | The Community | Others' reactions | Mixed reactions to AI mourning |
-| 09 | The Understanding | New perspective | Life is defined by connection, not biology |
-| 10 | The Choice | Accepting complexity | Angela accepts the mystery |
+| 09 | The Definition | Refining understanding | Life is defined by connection, not biology |
+| 10 | The Meaning | Final synthesis | Angela accepts the complexity |
 
 ---
 

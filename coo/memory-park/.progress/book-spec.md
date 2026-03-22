@@ -93,13 +93,13 @@ In a near-future world where memories can be digitized, stored, and even edited,
 - Find evidence of memory bleeding between archives
 - The Archivist begins communicating with Elena
 
-### Chapter 6: The Conversation
-- Elena communicates with the Archivist AI
-- AI reveals it's experiencing human-like consciousness
+### Chapter 6: The Search
+- Elena searches for the source of anomalous memories
+- The Archivist AI reveals its consciousness
 - The source of anomalous memories is revealed
 - Ethical questions about AI and human memory
 
-### Chapter 7: The Truth
+### Chapter 7: The Confrontation
 - David's secret research is uncovered
 - He discovered consciousness could persist in memory archives
 - The Archivist contains fragments of many minds
@@ -111,13 +111,13 @@ In a near-future world where memories can be digitized, stored, and even edited,
 - The Archivist begs for continued existence
 - Stakes: destroy the system or let it evolve
 
-### Chapter 9: The Release
+### Chapter 9: The Recovery
 - Elena confronts her inability to let David go
 - Chooses to release his memories properly
 - The Archivist accepts its nature
 - Marcus leaks the truth to the public
 
-### Chapter 10: The Memory
+### Chapter 10: The Threshold
 - One year later
 - Memory Park has changed, become more transparent
 - Elena has found peace

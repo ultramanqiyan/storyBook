@@ -289,16 +289,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 11.1 Chapter Summary Table
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | Awakening - Superhuman Senses, Subtle Loss | Introduce Kai and enhanced senses | Wonder (40→50) | Kai experiences the world with new senses |
-| 02 | The Hollow - When Perfection Costs Feeling | First awareness of emotional absence | Confusion (50→60) | Kai notices inability to feel joy at music |
-| 03 | Memory - Recalling What Was Lost | Flashback to pre-transformation life | Longing (60→70) | Kai remembers playing music, feeling passion |
-| 04 | The Discovery - Truth About Enhancement | Learning about emotional side effects | Shock (70→75) | Kai finds hidden research about the trade-off |
-| 05 | The Visit - Reconnecting with Humanity | Reconnecting with Maya | Loss (75→80) | Maya's emotional response contrasts with Kai's emptiness |
-| 06 | The Search - Seeking What Was Taken | Seeking information about reversal | Desperation (80→85) | Kai investigates rumors of reversal treatment |
-| 07 | The Confrontation - Facing the Creators | Confronting Dr. Chen | Anger (85→80) | Kai demands truth about the Enhancement |
-| 08 | The Choice - Senses or Soul | Learning about reversal possibility | Hope/Fear (80→90) | Kai learns reversal exists but has costs |
-| 09 | The Decision - Choosing to Feel Again | Choosing between enhancement and emotion | Determination (90→85) | Kai must decide what to sacrifice |
-| 10 | The Threshold - A New Beginning | Kai after reversal procedure | Hope/Peace (85→95) | Kai experiences emotions again, begins new life |
+| 01 | The Archivist | Introduce Kai and enhanced senses | Wonder (40→50) | Kai experiences the world with enhanced senses |
+| 02 | The Fragment | First awareness of emotional absence | Confusion (50→60) | Kai notices inability to feel joy at music |
+| 03 | The Widow's | Flashback to pre-transformation life | Longing (60→70) | Kai remembers playing music, feeling passion |
+| 04 | The Technician | Learning about emotional side effects | Doubt (70→75) | Kai's technical skills, still hollow |
+| 05 | The Park | Reconnecting with Maya | Loss (75→80) | Maya's emotional response contrasts with Kai's emptiness |
+| 06 | The Search | Seeking information about reversal | Desperation (80→85) | Kai investigates rumors of reversal treatment |
+| 07 | The Confrontation | Confronting Dr. Chen | Anger (85→80) | Kai demands truth about the Enhancement |
+| 08 | The Choice | Learning about reversal possibility | Hope/Fear (80→90) | Kai learns reversal exists but has costs |
+| 09 | The Decision | Choosing between enhancement and emotion | Determination (90→85) | Kai must decide what to sacrifice |
+| 10 | The Threshold | Kai after reversal procedure | Hope/Peace (85→95) | Kai experiences emotions again, begins new life |
 
 ---
 

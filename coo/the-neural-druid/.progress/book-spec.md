@@ -197,30 +197,21 @@
 
 ### Chapter 1: The Discovery - Ancient Wisdom in Digital Form
 Elara discovers the neural network, first contact with the forest consciousness.
-
 ### Chapter 2: The Connection - Bridging Two Worlds
 Building connection between human and network, learning to communicate.
-
 ### Chapter 3: The Threat - Corporate Greed vs. Nature
 Corporate threat emerges, Marcus Webb's exploitation plans revealed.
-
 ### Chapter 4: The Awakening - NEURAL Comes Alive
 The network awakens fully, revelation of its true nature and capabilities.
-
 ### Chapter 5: The Battle - Defending the Forest
 Conflict escalates, defending the forest from corporate takeover.
-
 ### Chapter 6: The Sacrifice - What Must Be Lost
 Sacrifices made, losses endured, strengthening resolve.
-
 ### Chapter 7: The Transformation - Becoming the Druid
 Elara's transformation, becoming the Neural Druid, new abilities emerge.
-
 ### Chapter 8: The Alliance - Humans and Nature United
 Alliance formed between humans and nature, united front against threat.
-
 ### Chapter 9: The Convergence - Two Minds Become One
 Convergence of human and network minds, harmony achieved.
-
 ### Chapter 10: The Guardian - Protecting the Future
 Elara as guardian, protecting the future, open-ended hope.
