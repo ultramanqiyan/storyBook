@@ -54,11 +54,15 @@ The Director hesitated. "Option three is... unconventional. We've been developin
 
 The room was silent for a long moment. The Leader's face was unreadable.
 
-"This is not a decision we make lightly," he finally said. "But we are responsible for the survival of humanity. If that requires... difficult choices, we will make them."
+"This is not a decision any one of us can make alone," he finally said. "Under the Coalition Charter, any action affecting more than one hundred million lives requires a two-thirds vote of the full council and review by the Ethics Committee."
+
+"Sir, the Ethics Committee has been suspended since the energy crisis began."
+
+"Then we reinstate it. We follow procedure." The Leader looked around the room. "I will not be remembered as the man who bypassed our founding principles to commit genocide. If this protocol proceeds, it will be with full deliberation, full documentation, and full accountability."
 
 "Understood, sir."
 
-"Continue developing the protocol. And begin identifying the populations to be preserved."
+"Prepare a formal proposal. Present it to the full council next week. And summon the Ethics Committee members—all surviving ones."
 
 **FLASHBACK—THE COLLECTIVE**
 

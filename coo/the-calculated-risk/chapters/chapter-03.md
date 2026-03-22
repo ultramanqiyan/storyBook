@@ -36,15 +36,25 @@ I didn't know anything.
 
 ---
 
-The visitor came on Friday. I opened my door to find the woman from the after-party—the one who had asked if I ever thought about climbing without RISK-AI.
+The visitor came on Friday. I was doing my physical therapy exercises when my phone buzzed with an unknown number. I almost didn't answer it—my shoulder ached, my ribs throbbed, and I didn't have energy for strangers.
 
-"Maya Chen," she said, offering her hand. "I heard about your fall. I wanted to check on you."
+"Hello?"
 
-I stared at her, confused. "How did you know where I live?"
+"Alex? It's Maya Chen. We met at the after-party last week. The sports psychologist."
 
-"Your address is public information," she said. "You're a public figure. But that's not why I'm here." She hesitated, as if choosing her words carefully. "I wanted to talk to you about something. About the system. About what it's doing to athletes like you."
+I remembered her—the woman who had asked if I ever thought about climbing without RISK-AI.
 
-I stepped aside, letting her in. I didn't know why—maybe I was just lonely, or maybe something in her words resonated with the questions I had been asking myself.
+"I heard about your fall," she continued. "I wanted to check on you. And... I wanted to talk to you about something. About the system. About what it's doing to athletes like you."
+
+"I'm not really up for visitors," I said.
+
+"I understand. But I think this is important. Could we meet somewhere public? A coffee shop? Just for thirty minutes."
+
+I hesitated. I was lonely, it was true. And something in her words resonated with the questions I had been asking myself.
+
+"Fine," I said. "There's a coffee shop on Mountain Street. Tomorrow morning. Ten o'clock."
+
+"I'll be there."
 
 ---
 

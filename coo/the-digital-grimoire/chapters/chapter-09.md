@@ -66,7 +66,7 @@ The door opened, and Sarah Chen walked in. She looked ordinary—middle-aged, pr
 
 Sarah's expression didn't change. "Ms. Torres has an active imagination."
 
-"She also tells me you sent a construct to St. Catherine's monastery. A shadow entity designed to absorb knowledge."
+"She also tells me you sent a construct to St. Clare's monastery. A shadow entity designed to absorb knowledge."
 
 "Prove it."
 

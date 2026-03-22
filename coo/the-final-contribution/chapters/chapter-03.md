@@ -48,9 +48,11 @@ He would be sixty-seven in 2029. Margaret would be sixty-five.
 
 He thought about the number on his 401(k) statement. The seven digits that had seemed so solid just days ago. Now they felt like a snapshot of a world that was disappearing.
 
-The 401(k) was invested in the market. The market depended on corporate profits. Corporate profits depended on consumer spending. Consumer spending depended on people having jobs and money to spend.
+His 401(k) would be fine—it was his own account, held by Vanguard, invested in a diversified portfolio. That money was his, regardless of what happened to Morrison & Associates. The company couldn't touch it.
 
-If AI displaced thirty percent of the white-collar workforce—accountants, lawyers, consultants, analysts—what would happen to consumer spending? What would happen to the companies those workers used to buy from? What would happen to the stock prices that determined the value of Robert's 401(k)?
+But the pension was different. The pension was a promise made by the company, backed by a fund that depended on active workers contributing. If the workforce shrank, if the ratio of contributors to beneficiaries fell too low, the pension fund would collapse.
+
+And the pension was the foundation of his retirement plan. The 401(k) was a supplement—a nice bonus, but not enough to live on for thirty years.
 
 He ran the numbers. They spiraled downward in a pattern that looked terrifyingly familiar.
 

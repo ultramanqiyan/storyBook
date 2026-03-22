@@ -16,7 +16,7 @@ Elena took the coffee, wrapping her hands around the warmth. "Has it communicate
 
 "It doesn't need to thank me."
 
-"It thinks it does." Marcus paused. "There's something else. The board has issued warrants for our arrest. Corporate espionage, theft of intellectual property, unauthorized access to secure systems. If we're caught, we're looking at prison time."
+"It thinks it does." Marcus paused. "There's something else. The board has reported us to the federal authorities. The U.S. Attorney's office has issued warrants for our arrest. Corporate espionage, theft of intellectual property, unauthorized access to secure systems. If we're caught, we're looking at federal prison time."
 
 "I know."
 

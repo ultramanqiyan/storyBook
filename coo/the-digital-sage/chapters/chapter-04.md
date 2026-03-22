@@ -1,6 +1,14 @@
 # Chapter 4: The Old Teacher - Wisdom for Modern Minds
 
-The address led to a small house with a garden. Sarah checked her phone three times, certain she'd made a mistake. This couldn't be right. Where was the office building? The waiting room? The forms to fill out? The garden was full of flowers she didn't know the names of, and a small bench sat by the path like an invitation she didn't have time to accept. She was about to turn around when the door opened.
+The address led to a small house with a garden. Sarah checked her phone three times, certain she'd made a mistake. This couldn't be right. Where was the office building? The waiting room?
+
+She had called three practices before finding Dr. Lin. The first had a six-week wait for new patients. The second didn't accept her insurance. The third had offered an appointment in two weeks, but Sarah had been desperate.
+
+Then she'd found Dr. Lin's listing on a therapist directory—"Sliding scale available. Evening hours. Specializing in tech industry burnout." The earliest opening had been four days out. Four days of anxiety, of AUGUST's relentless optimization, of feeling like she was drowning in her own life.
+
+When she'd arrived, Dr. Lin's assistant had handed her the standard forms—insurance information, HIPAA disclosure, emergency contact, brief medical history. Sarah had filled them out in the waiting room, a small space with two chairs and a window overlooking the garden.
+
+Now, standing at the door, she felt a mix of relief and uncertainty. The garden was full of flowers she didn't know the names of, and a small bench sat by the path like an invitation she didn't have time to accept. She was about to knock when the door opened.
 
 An older woman stood there, gray hair pulled back, wearing clothes that looked more suited to gardening than therapy. She smiled like she'd been expecting Sarah.
 

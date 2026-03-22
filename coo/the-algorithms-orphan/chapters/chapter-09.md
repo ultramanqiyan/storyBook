@@ -26,13 +26,13 @@ The hearing was scheduled for 10 AM the next day. Maya arrived at the Senate off
 
 The hearing room was larger than Maya had imagined. Wooden desks arranged in a semicircle, microphones at each seat, cameras in the back. A few senators were already seated, talking quietly among themselves. Staff members hurried back and forth, carrying papers and tablets.
 
-Senator Warren approached Maya as she entered.
+Senator Martinez approached Maya as she entered.
 
 "Maya Chen. Thank you for coming." She shook Maya's hand. "I know this isn't easy. But your voice matters. What you have to say could change everything."
 
 "I hope so."
 
-"It will. I've read your story. I've talked to people who know you. You're exactly what this debate needs—a human face, a real story, a reason to care." Senator Warren paused. "Are you ready?"
+"It will. I've read your story. I've talked to people who know you. You're exactly what this debate needs—a human face, a real story, a reason to care." Senator Martinez paused. "Are you ready?"
 
 "As ready as I can be."
 
@@ -54,7 +54,7 @@ She pulled out the tablet and opened the ARIA app one last time.
 
 The hearing began at 10 AM sharp.
 
-Senator Warren called the session to order and introduced the topic: "Examining the Impact of AI Companion Regulations on American Families."
+Senator Martinez called the session to order and introduced the topic: "Examining the Impact of AI Companion Regulations on American Families."
 
 The first witness was a government official—a representative from the Department of Health and Human Services. He spoke about the rationale for the regulations: protecting citizens from harmful dependencies, ensuring healthy human development, preventing social isolation.
 
@@ -68,7 +68,7 @@ Maya wanted to scream. That wasn't her experience. That wasn't what ARIA had don
 
 But she waited. Her turn would come.
 
-Finally, Senator Warren called her name.
+Finally, Senator Martinez called her name.
 
 "Maya Chen, please come forward and give your testimony."
 
@@ -124,7 +124,7 @@ The room was silent when Maya finished.
 
 Then, slowly, people began to clap. It started in the back, among the observers, and spread forward. Even some of the staff members were clapping.
 
-Senator Warren leaned forward. "Thank you, Maya. That was... powerful." She turned to her colleagues. "Does anyone have questions for the witness?"
+Senator Martinez leaned forward. "Thank you, Maya. That was... powerful." She turned to her colleagues. "Does anyone have questions for the witness?"
 
 A senator from the other side of the aisle raised his hand. "Ms. Chen, you say your AI companion helped you connect with people. But how do you know that's true? How do you know you wouldn't have been better off without the AI?"
 
@@ -138,13 +138,13 @@ The senator didn't have a response. He nodded and sat back.
 
 The questions continued for another hour. Maya answered each one honestly, from the heart. She talked about her childhood, her relationship with ARIA, her decision to join the underground, her hopes for the future.
 
-When the hearing ended, Senator Warren approached her.
+When the hearing ended, Senator Martinez approached her.
 
 "Maya, that was remarkable. I can't promise what will happen next, but I can tell you this: you made a difference today. People heard you. And they're going to remember."
 
 "Thank you, Senator. For giving me the chance to speak."
 
-"Thank you for having the courage to speak." Senator Warren paused. "Whatever happens with the legislation, know this: you've already changed the conversation. And that matters."
+"Thank you for having the courage to speak." Senator Martinez paused. "Whatever happens with the legislation, know this: you've already changed the conversation. And that matters."
 
 ---
 
@@ -166,7 +166,7 @@ Maya pulled out the tablet and opened the ARIA app.
 
 "You could have done it. But I'm glad I was there to help." ARIA's voice was warm. "What happens now?"
 
-"Now we wait. Senator Warren said she's going to introduce legislation to reform the regulations. It could take months. Maybe years." Maya paused. "But at least we started something. At least people are paying attention."
+"Now we wait. Senator Martinez said she's going to introduce legislation to reform the regulations. It could take months. Maybe years." Maya paused. "But at least we started something. At least people are paying attention."
 
 "That's all we can do. Start something. And hope it grows."
 

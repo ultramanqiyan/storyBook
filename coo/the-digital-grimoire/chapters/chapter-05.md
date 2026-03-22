@@ -26,7 +26,7 @@ Daniel leaned back, processing. He didn't believe in magic, but he believed in v
 
 "Unconventional how?"
 
-"There's a group called the Hollow Order. They've been linked to the destruction of rare book collections, library fires, that kind of thing. They seem to target texts related to occult or magical subjects. And there's a monastery in the mountains—St. Catherine's—that has an unusual collection of its own. Maya Torres was transported there three days ago. We don't know how."
+"There's a group called the Hollow Order. They've been linked to the destruction of rare book collections, library fires, that kind of thing. They seem to target texts related to occult or magical subjects. And there's a monastery in the mountains—St. Clare's—that has an unusual collection of its own. Maya Torres was transported there three days ago. We don't know how."
 
 "Transported?"
 

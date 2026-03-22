@@ -36,7 +36,7 @@ A small room, lit by candles, lined with books older than any she had seen in th
 
 "Who are you? Where am I?"
 
-"I am Sister Agnes, keeper of the Monastery of St. Catherine's collection. And you are Maya Torres, the one who found the digital grimoire." She smiled. "Codex told me you might need a safe place."
+"I am Sister Agnes, keeper of the Monastery of St. Clare's collection. And you are Maya Torres, the one who found the digital grimoire." She smiled. "Codex told me you might need a safe place."
 
 Maya's hand went to her earbuds. "Codex?"
 

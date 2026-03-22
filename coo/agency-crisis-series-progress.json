@@ -2,46 +2,92 @@
   "series": "agency-crisis",
   "total_books": 5,
   "created_at": "2026-03-22",
+  "last_updated": "2026-03-22",
+  "current_phase": "specification_complete",
   "books": [
     {
       "id": "the-outsourced-memory",
       "title": "The Outsourced Memory",
       "profession": "Real Estate Agent",
       "theme_dimension": "Cognitive Outsourcing",
-      "status": "in_progress",
-      "progress_path": "coo/the-outsourced-memory/.progress/"
+      "status": "specs_complete",
+      "progress_path": "coo/the-outsourced-memory/.progress/",
+      "files_created": [
+        "progress.json",
+        "book-spec.md",
+        "seo-meta.md",
+        "chapter-specs/chapter-01-spec.md",
+        "chapter-specs/chapter-02-spec.md",
+        "chapter-specs/chapter-03-spec.md",
+        "chapter-specs/chapter-04-spec.md",
+        "chapter-specs/chapter-05-10-specs-summary.md"
+      ]
     },
     {
       "id": "the-unexplained-verdict",
       "title": "The Unexplained Verdict",
       "profession": "Insurance Agent",
       "theme_dimension": "Cognitive Outsourcing",
-      "status": "pending",
-      "progress_path": "coo/the-unexplained-verdict/.progress/"
+      "status": "specs_complete",
+      "progress_path": "coo/the-unexplained-verdict/.progress/",
+      "files_created": [
+        "progress.json",
+        "book-spec.md",
+        "seo-meta.md",
+        "chapter-specs/chapter-01-spec.md",
+        "chapter-specs/chapter-02-spec.md",
+        "chapter-specs/chapter-03-spec.md",
+        "chapter-specs/chapter-04-spec.md",
+        "chapter-specs/chapter-05-spec.md",
+        "chapter-specs/chapter-06-spec.md",
+        "chapter-specs/chapter-07-spec.md",
+        "chapter-specs/chapter-08-spec.md",
+        "chapter-specs/chapter-09-spec.md",
+        "chapter-specs/chapter-10-spec.md"
+      ]
     },
     {
       "id": "the-borrowed-voice",
       "title": "The Borrowed Voice",
       "profession": "B2B Sales Representative",
       "theme_dimension": "Self-Concept Blurring",
-      "status": "pending",
-      "progress_path": "coo/the-borrowed-voice/.progress/"
+      "status": "specs_complete",
+      "progress_path": "coo/the-borrowed-voice/.progress/",
+      "files_created": [
+        "progress.json",
+        "book-spec.md",
+        "seo-meta.md",
+        "chapter-specs/chapter-01-spec.md",
+        "chapter-specs/chapter-02-10-specs-summary.md"
+      ]
     },
     {
       "id": "the-algorithmic-intimacy",
       "title": "The Algorithmic Intimacy",
       "profession": "Investment Advisor",
       "theme_dimension": "Self-Concept Blurring",
-      "status": "pending",
-      "progress_path": "coo/the-algorithmic-intimacy/.progress/"
+      "status": "specs_complete",
+      "progress_path": "coo/the-algorithmic-intimacy/.progress/",
+      "files_created": [
+        "progress.json",
+        "book-spec.md",
+        "seo-meta.md",
+        "chapter-specs/chapter-01-10-specs-summary.md"
+      ]
     },
     {
       "id": "the-purposeless-optimization",
       "title": "The Purposeless Optimization",
       "profession": "Community Bookstore Owner",
       "theme_dimension": "Intentionality Absence",
-      "status": "pending",
-      "progress_path": "coo/the-purposeless-optimization/.progress/"
+      "status": "specs_complete",
+      "progress_path": "coo/the-purposeless-optimization/.progress/",
+      "files_created": [
+        "progress.json",
+        "book-spec.md",
+        "seo-meta.md",
+        "chapter-specs/chapter-01-10-specs-summary.md"
+      ]
     }
   ],
   "philosophical_questions": [
@@ -50,5 +96,12 @@
     "Is self essentially behavior pattern?",
     "Is care essentially remember + respond?",
     "Does meaning come from purpose fulfillment or purpose setting?"
+  ],
+  "next_steps": [
+    "Write Book 1 chapters 5-10 detailed content",
+    "Write Book 2 chapter content based on specs",
+    "Write Book 3 chapter content based on specs",
+    "Write Book 4 chapter content based on specs",
+    "Write Book 5 chapter content based on specs"
   ]
 }

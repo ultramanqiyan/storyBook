@@ -7,7 +7,7 @@ She had imagined a corporate villain—ruthless, calculating, interested only in
 
 "Ms. Torres," he said, gesturing to a chair. "Thank you for agreeing to meet. I understand you've been... away."
 
-"I was at a monastery, if you're wondering. St. Catherine's. Your people found me there."
+"I was at a monastery, if you're wondering. St. Clare's. Your people found me there."
 
 "My people?" Daniel's expression shifted slightly. "I'm not sure what you mean."
 

@@ -108,9 +108,15 @@ Another pause. "Kai, emotional processing can take longer to adjust than sensory
 
 "Typically a few weeks to a few months. The emotional centers need time to recalibrate to the enhanced sensory input. Once they do, many patients report even greater emotional capacity than before."
 
-I wanted to believe her. I wanted to believe that this was temporary, that the feelings would return, that I would eventually feel music the way I used to.
+I thought about the consent forms I had signed. They had been thorough—dozens of pages covering potential complications, side effects, and risks. I remembered the section on emotional effects: "Temporary emotional adjustment period may occur during neural integration. Most patients report resolution within 3-6 months."
 
-But something in her voice—a slight elevation in pitch, a microsecond of hesitation—told me she wasn't telling me everything.
+Temporary. Resolution. Those words had seemed reassuring at the time.
+
+But there had been another section, buried in the fine print of the risk disclosure: "In rare cases, permanent alterations to emotional processing capacity have been observed. Patients should discuss this risk with their physician before proceeding."
+
+I had read it. I had signed the forms. But I hadn't really understood what it meant. The doctors had emphasized the temporary nature of most side effects, the high success rates, the transformative benefits. The permanent risks had been presented as statistical outliers—unlikely, rare, almost theoretical.
+
+I had wanted to believe them.
 
 "I'd like to come in anyway," I said. "For a check-up."
 

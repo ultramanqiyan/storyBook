@@ -44,7 +44,9 @@ Alex felt tears prick their eyes. They thought of that first message, the imposs
 
 The prosecution presented more evidence—technical documentation, expert testimony, the flash drive that had started everything. Mitchell's lawyers argued that Elena was a simulation, a sophisticated AI, that her testimony was inadmissible hearsay from a non-living entity.
 
-But the jury—selected specifically for their openness to unconventional evidence, their ability to consider possibilities beyond standard legal frameworks—listened. And they believed.
+The prosecution had fought hard to establish the admissibility of Elena's testimony. The judge, after weeks of hearings and expert testimony on digital consciousness and quantum computing, had ruled that Elena's testimony could be admitted. "The law must evolve with technology," she had written in her decision. "If consciousness can persist beyond biological death, then justice must recognize it."
+
+The jury—ordinary citizens selected through the standard voir dire process, screened only for bias and ability to serve—listened with the same mixture of skepticism and wonder that anyone would feel. They asked questions. They deliberated for three days. And finally, they believed.
 
 The verdict came on a Friday afternoon, delivered by a foreperson whose hands trembled slightly as she read the decision.
 

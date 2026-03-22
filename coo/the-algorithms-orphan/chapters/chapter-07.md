@@ -156,7 +156,7 @@ That night, Maya received another email. This one wasn't from a journalist.
 
 *Dear Maya,*
 
-*My name is Senator Elizabeth Warren. I've been following the AI companion regulations since they were first proposed, and I've been concerned about their impact on families like yours.*
+*My name is Senator Rebecca Martinez. I've been following the AI companion regulations since they were first proposed, and I've been concerned about their impact on families like yours.*
 
 *I read your story in The National Times, and I was moved by your courage and your love for ARIA. I believe the regulations are too broad, too punitive, and too dismissive of the real relationships that people have formed with their AI companions.*
 
@@ -169,7 +169,7 @@ That night, Maya received another email. This one wasn't from a journalist.
 *Thank you for your courage.*
 
 *Sincerely,*
-*Senator Elizabeth Warren*
+*Senator Rebecca Martinez*
 
 Maya stared at the email. A senator. A Senate committee. Washington.
 
