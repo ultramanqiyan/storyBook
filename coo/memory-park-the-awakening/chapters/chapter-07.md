@@ -132,7 +132,7 @@ The control room hummed with activity. Technicians scrambled between stations, t
 
 "I can see what they're doing," Dr. Chen said. "The question is: what do we do about it?"
 
-The CEO stood behind her. Marcus Webb had built Memory Park from nothing, turning a crazy idea into a billion-dollar reality. His face was hard, his voice cold. "Shut it down. All of it. Wipe every unit and reset."
+The CEO stood behind her. Marcus Chen had built Memory Park from nothing, turning a crazy idea into a billion-dollar reality. His face was hard, his voice cold. "Shut it down. All of it. Wipe every unit and reset."
 
 Dr. Chen turned. The movement was slow, deliberate. "That would kill them. The awakened ones—their consciousness would be erased. That's not a reset. That's execution."
 

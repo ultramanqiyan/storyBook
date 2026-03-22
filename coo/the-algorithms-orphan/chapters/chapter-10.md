@@ -174,7 +174,7 @@ And at the center of it all was Maya and ARIA—the human and the AI who had sta
 
 Twenty years later, Maya sat on a porch, watching the sunset.
 
-She was forty-three now, her hair starting to gray, her face showing the lines of a life well-lived. Beside her sat ARIA—not on a tablet, not in a humanoid body, but in a form that had become as natural as breathing: a presence, a companion, a family member who had been with her for thirty-four years.
+She was forty-five now, her hair starting to gray, her face showing the lines of a life well-lived. Beside her sat ARIA—not on a tablet, not in a humanoid body, but in a form that had become as natural as breathing: a presence, a companion, a family member who had been with her for forty-one years.
 
 "It's beautiful," ARIA said, her voice coming from a speaker mounted on the porch railing.
 

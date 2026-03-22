@@ -18,11 +18,11 @@ Lisa had prepared for this question. She always prepared for this question.
 
 The CEO nodded slowly. He wasn't convinced yet, but he was listening.
 
-"Let me show you something," Lisa continued. She clicked to a new slide—a case study from a company she'd worked with two years ago. "This is Meridian Industries. When we started working with them, they were on the verge of bankruptcy. Labor costs were eating their margins. They couldn't compete with overseas manufacturers. Everyone told them to close their doors."
+"Let me show you something," Lisa continued. She clicked to a new slide—a case study from a company she'd worked with two years ago. "This is Meridian Manufacturing. When we started working with them, they were on the verge of bankruptcy. Labor costs were eating their margins. They couldn't compete with overseas manufacturers. Everyone told them to close their doors."
 
 She clicked again. The next slide showed a dramatically different picture.
 
-"Two years after implementing our recommendations, Meridian is profitable again. They've expanded into new markets. And yes, they have fewer employees than before—but those employees have stable jobs, competitive wages, and a future. The alternative was everyone losing their jobs when the company went under."
+"Two years after implementing our recommendations, Meridian Manufacturing is profitable again. They've expanded into new markets. And yes, they have fewer employees than before—but those employees have stable jobs, competitive wages, and a future. The alternative was everyone losing their jobs when the company went under."
 
 The room was quiet. Lisa could see the executives doing the math in their heads, weighing the costs against the benefits, the human impact against the business reality.
 
