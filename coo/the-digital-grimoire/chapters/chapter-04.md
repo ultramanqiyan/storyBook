@@ -1,5 +1,5 @@
 # Chapter 4: The Keeper's Path
-The air carried the faint scent of dust, lingering in the background.
+Dust motes drifted through the afternoon light filtering through the library's tall windows.
 
 The monastery's library was unlike anything Maya had ever seen.
 

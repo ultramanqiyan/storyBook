@@ -1,5 +1,5 @@
 # Chapter 2: The First Spell
-The air carried the faint scent of coffee, lingering in the background.
+The archive's reading room was quiet, save for the soft hum of climate control systems protecting centuries of knowledge.
 
 The lesson began with breath.
 

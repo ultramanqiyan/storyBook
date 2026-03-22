@@ -1,5 +1,5 @@
 # Chapter 10: The Keeper's Choice
-The air carried the faint scent of dust, lingering in the background.
+A fine layer of dust had settled over the archive in the days since the battle.
 
 The aftermath of the confrontation was quieter than Maya expected.
 
@@ -50,5 +50,3 @@ Maya smiled, despite the weight of what lay ahead. She had found something unexp
 "Yes. Let's start there."
 
 Maya sat at her workstation, the familiar glow of the screen illuminating her face.
-
-** 10**

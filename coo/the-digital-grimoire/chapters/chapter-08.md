@@ -1,5 +1,5 @@
 # Chapter 8: The Confrontation - New Dawn
-The air carried the faint scent of coffee, lingering in the background.
+Steam rose from Maya's cup as she waited in the small café across from Cross Industries headquarters.
 
 Daniel Cross was not what Maya expected.
 

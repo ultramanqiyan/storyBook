@@ -18,8 +18,6 @@ But she had also learned that negative intention was easier to accumulate than p
 
 The construct she had sent to the monastery was a test. A probe. A way to assess the defenses protecting the grimoire. Now she knew what she was dealing with—a keeper, trained by the monastery, protected by ancient wards.
 
-** 9**
-
 And she had resources the keeper did not.
 
 "Dr. Chen." Daniel Cross's voice came through her phone, his tone carefully neutral. "I need to see you in my office. Now."

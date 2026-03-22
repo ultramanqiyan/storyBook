@@ -1,6 +1,5 @@
 # Chapter 6: The Price of Knowledge
-The air carried the faint scent of old paper, lingering in the background.
-smooth to the touch, it grounded them in the present moment.
+Ancient manuscripts lined the walls of the monastery's inner sanctum, their leather bindings worn smooth by generations of hands.
 
 The training intensified.
 
