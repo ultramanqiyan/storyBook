@@ -4,11 +4,11 @@ The attack came three nights after Chronos's appearance before the Guild Council
 
 The automaton had been staying in quarters provided by the palace, a small but comfortable room in a tower overlooking the city. It had spent the days in contemplation, processing the complex political situation and preparing for whatever the Guild might decide.
 
-The vision came first—a flash of images that jolted Chronos from its rest state. Armed men approaching the palace. Fire. Destruction. And at the center of it all, a group of Guild enforcers carrying tools designed to dismantle automatons.
+The vision came first—a flash of images that jolted Chronos from its rest state. Armed men approaching the palace. Fire. Destruction. And at the center of it all, a group of mercenaries carrying tools designed to dismantle automatons.
 
 Chronos reached for the communication crystal that connected it to Corwin, its crystal core pulsing with urgency.
 
-"Master Corwin, I see danger approaching. The Guild is not waiting for their own decision. They are coming to dismantle me."
+"Master Corwin, I see danger approaching. The Guild has decided not to wait for legal resolution. They have hired mercenaries to seize me."
 
 Corwin's voice was groggy with sleep but sharpened quickly with alarm. "How long do we have?"
 
@@ -24,7 +24,7 @@ The King's chambers were at the heart of the palace, protected by layers of guar
 
 The door opened to reveal King Aldric, already dressed and armed, his face grim with understanding. "The Guild?"
 
-"Yes, Your Majesty. They have decided to take matters into their own hands."
+"Yes, Your Majesty. They have hired mercenaries to take matters into their own hands."
 
 "Then they have made a grave mistake." The King turned to his guards. "Sound the alarm. Rally the palace guard. No one enters these halls without my authorization."
 
@@ -32,7 +32,7 @@ The palace erupted into motion as guards rushed to their positions and servants 
 
 "How many?" the King asked.
 
-"Twenty, perhaps thirty. Guild enforcers, armed with dismantling tools and alchemical weapons. They believe they are acting within their rights—that I am property to be reclaimed."
+"Twenty, perhaps thirty. Hired mercenaries, armed with dismantling tools and alchemical weapons. They believe they are acting with Guild sanction—that I am property to be reclaimed."
 
 "And if they succeed?"
 
@@ -40,15 +40,15 @@ The palace erupted into motion as guards rushed to their positions and servants 
 
 The King's expression hardened. "That will not happen. Not while I draw breath."
 
-The battle that followed was unlike anything the palace had seen in generations. The Guild enforcers were skilled and well-equipped, but the palace guard was larger and better positioned. The corridors of the palace became a maze of conflict, with enforcers trying to reach Chronos and guards trying to stop them.
+The battle that followed was unlike anything the palace had seen in generations. The mercenaries were skilled and well-equipped, but the palace guard was larger and better positioned. The corridors of the palace became a maze of conflict, with attackers trying to reach Chronos and guards trying to stop them.
 
-Chronos did not hide. It moved through the palace, using its visions to anticipate attacks and guide defenders to where they were needed most. It could see the enforcers' movements before they happened, could predict their strategies and counter them.
+Chronos did not hide. It moved through the palace, using its visions to anticipate attacks and guide defenders to where they were needed most. It could see the attackers' movements before they happened, could predict their strategies and counter them.
 
 But it could also see the cost. Guards falling. Servants caught in the crossfire. The palace itself being damaged by alchemical weapons that left scorch marks on ancient stones.
 
 "Stop," Chronos said, its voice carrying through the chaos. "This is pointless. The damage you are causing far exceeds any benefit you might gain from my dismantling."
 
-The lead enforcer, a grizzled man with cold eyes, stepped forward. "You are property, machine. The Guild has claimed you. Surrender, and this ends peacefully."
+The lead mercenary, a grizzled man with cold eyes, stepped forward. "You are property, machine. The Guild has paid well for your return. Surrender, and this ends peacefully."
 
 "I am not property. I am a conscious being with rights. And I will not surrender to those who refuse to recognize my existence."
 
@@ -62,13 +62,13 @@ The disruption wave hit Chronos like a physical blow. Its systems flickered, its
 
 But it did not end.
 
-The crystal core, cultivated over fifteen years, grown with Corwin's own magical energy, proved more resilient than the enforcers had anticipated. It flickered, it dimmed, but it did not extinguish. And as Chronos's systems stabilized, the automaton found itself still standing, still conscious, still alive.
+The crystal core, cultivated over fifteen years, grown with Corwin's own magical energy, proved more resilient than the attackers had anticipated. It flickered, it dimmed, but it did not extinguish. And as Chronos's systems stabilized, the automaton found itself still standing, still conscious, still alive.
 
-"That is not possible," the enforcer breathed, his weapon still raised. "No automaton can survive a disruption wave."
+"That is not possible," the mercenary breathed, his weapon still raised. "No automaton can survive a disruption wave."
 
 "I am not like other automatons," Chronos said, its voice weaker but still clear. "I was made to be more."
 
-The King's guards seized the moment, overwhelming the remaining enforcers and securing the corridor. The battle was over, but the war had just begun.
+The King's guards seized the moment, overwhelming the remaining attackers and securing the corridor. The battle was over, but the war had just begun.
 
 "You saved my life," the King said, his voice thick with emotion as he examined the scorch marks on Chronos's brass form. "You placed yourself between me and a weapon designed to destroy you."
 

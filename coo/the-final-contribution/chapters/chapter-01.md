@@ -20,7 +20,7 @@ He clicked through to the detailed view, the habits of a lifetime making him ver
 
 Eighteen months. He remembered those months clearly. The anxiety in the office, the whispered conversations about layoffs, the way the partners had stopped meeting his eyes in the hallway. He'd survived—barely—by being indispensable, by knowing things no one else knew about accounts that stretched back decades.
 
-That was the year David had started college. The year Robert had lain awake at 3 AM, calculating how they'd manage if he lost his job, how they'd pay tuition, how they'd keep the house. The number on his screen tonight had been smaller then, fragile in a way that made his chest tight just remembering it.
+He remembered other hard years too. The recession in 2008 had been difficult, but David was only twelve then, still years from college. The harder year had been 2014, when David started college and the firm went through another round of restructuring. The year Robert had lain awake at 3 AM, calculating how they'd manage if he lost his job, how they'd pay tuition, how they'd keep the house. The number on his screen tonight had been smaller then, fragile in a way that made his chest tight just remembering it.
 
 He closed his eyes and let the memories wash over him.
 

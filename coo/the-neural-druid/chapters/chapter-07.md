@@ -10,7 +10,7 @@ She deleted the message without responding.
 
 "NEURAL, is Strand still monitoring my communications?"
 
-*"Yes. He has also placed surveillance on your vehicle, your apartment, and your office. He is thorough, if not subtle."*
+*"Yes. His legal team has filed multiple Freedom of Information requests for your research data. He has also hired a private investigation firm to follow your public movements and monitor your published work. Everything he is doing is technically legal, though ethically questionable."*
 
 "Can we use that?"
 

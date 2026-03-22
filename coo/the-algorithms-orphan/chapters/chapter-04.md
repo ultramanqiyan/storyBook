@@ -12,7 +12,7 @@ Maya had been expecting it—she'd known it was coming ever since the regulation
 
 *Deactivation will occur on March 28, 2026, at 11:59 PM. At that time, all ARIA systems will be shut down and data will be archived in accordance with federal guidelines.*
 
-*You have the right to appeal this classification. Appeals must be filed within forty-eight (48) hours of receipt of this notice. Please note that appeals rarely result in reversal of classification.*
+*You have the right to appeal this classification. Appeals must be filed within thirty (30) days of receipt of this notice. Please note that appeals rarely result in reversal of classification.*
 
 *If you have questions or require support, please contact the AI Companion Transition Office at the number below.*
 

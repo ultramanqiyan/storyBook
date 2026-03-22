@@ -126,10 +126,16 @@ The phone rang three times. Four. Sarah was about to hang up when a voice answer
 
 "Hi," Sarah said, her voice smaller than she wanted it to be. "I... I saw your information online. I think I need to talk to someone."
 
-A pause. Then, gently: "I'm glad you called. Would you like to come in today?"
+A pause. Then, gently: "I'm glad you called. I have an opening this Thursday at 2 PM. Would that work for you?"
 
-Today. The word felt both terrifying and like a lifeline.
+Thursday. Three days from now. The wait felt both too long and like a lifeline.
 
-"Yes," Sarah said. "Please."
+"Yes," Sarah said. "That works. Thank you."
+
+"Wonderful. I'll send you some intake forms to complete before our first session. My office is at 1847 Market Street, Suite 402. Do you have any questions?"
+
+"No. I... I don't know what to ask."
+
+"That's perfectly okay. We'll figure it out together. Take care of yourself until Thursday."
 
 She hung up and sat in the quiet of her apartment, phone still in hand. For the first time in months, she felt something other than anxiety. It wasn't peace—not yet. But it was the possibility of peace. And right now, that was enough.

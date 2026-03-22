@@ -1,6 +1,6 @@
 # Chapter 8: The Confrontation - Meeting the Gatekeeper
 
-The coffee in Alex's mug had gone cold hours ago, a thin film forming on the surface that caught the fluorescent light like oil on water. They sat in Detective Webb's cramped office, surrounded by case files and the persistent hum of aging electronics, waiting for the meeting that would determine everything.
+The coffee in Alex's mug had gone cold hours ago, a thin film forming on the surface that caught the fluorescent light like oil on water. They sat in Detective Webb's private office—a small space he maintained outside the precinct, separate from official channels, where he could meet with informants and work sensitive cases away from departmental politics. The room was cramped, surrounded by case files and the persistent hum of aging electronics, waiting for the meeting that would determine everything.
 
 Webb entered carrying three cups of fresh coffee, his expression unreadable. Sarah Chen followed, her face pale but determined. The flash drive containing the Prometheus evidence sat on the desk between them—a small piece of plastic that held the power to destroy careers and expose murder.
 
@@ -66,7 +66,7 @@ Mitchell.
 
 He had been watching. Listening. Waiting for them to gather so he could eliminate them all at once.
 
-The doors locked with a mechanical click that echoed through the empty precinct. The phones went dead. The computers displayed the same message, over and over:
+The doors locked with a mechanical click that echoed through the small office. The phones went dead. The computers displayed the same message, over and over:
 
 *You should have stayed hidden. You should have stayed afraid. Now you'll learn what happens to people who threaten me.*
 
@@ -76,7 +76,7 @@ The doors locked with a mechanical click that echoed through the empty precinct.
 
 "Elena isn't yours."
 
-*Everything in this building is mine. The security systems. The communication networks. The power grid.* Mitchell's voice seemed to come from everywhere at once—speakers, phones, the very walls themselves. *I built the infrastructure that houses your precious Digital Dead. I can unbuild it just as easily.*
+*Everything in this building is mine. The security systems. The communication networks. The power grid.* Mitchell's voice seemed to come from everywhere at once—speakers, phones, the very walls themselves. *I built the infrastructure that this office uses. I can unbuild it just as easily.*
 
 The lights went out, plunging them into darkness. Emergency lighting kicked in, casting everything in red shadow. Alex could hear Sarah's ragged breathing, Webb's hand moving to his weapon.
 

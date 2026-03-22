@@ -42,19 +42,21 @@ The words landed like a blow. Alex felt their stomach tighten, a cold weight set
 
 Alex started tracking.
 
-They looked at the team composition over the past three years. They looked at who had been promoted, who had been pushed out, who had stayed stagnant. They created spreadsheets, analyzed patterns, documented everything.
+They couldn't access HR records—that would be impossible. But they could do something else. They scoured LinkedIn profiles, noting when former colleagues had left and where they'd gone. They had coffee with ex-coworkers, asking carefully casual questions about their departures. They paid attention to the company's public team pages, archived through the Wayback Machine, tracking changes over time.
 
-The pattern was clear:
+Taylor helped too, sharing what they'd observed over three years. Sarah, the senior PM who'd been there five years, provided more context—quietly, over drinks after work, away from the office.
 
-- **White men:** 3 promoted, 0 pushed out, 2 stagnant
-- **Women:** 0 promoted, 4 pushed out, 1 stagnant
-- **People of color:** 0 promoted, 3 pushed out, 2 stagnant
+They compiled what they could verify:
 
-*Every person pushed out in three years was a woman or person of color.*
+- **White men:** 3 promoted, 0 left under unclear circumstances, 2 stagnant
+- **Women:** 0 promoted, 4 left within 6 months of negative performance reviews, 1 stagnant  
+- **People of color:** 0 promoted, 3 left within 6 months of negative performance reviews, 2 stagnant
+
+*Every person who left under pressure in three years was a woman or person of color.*
 
 *Every person promoted was a white man.*
 
-The data glowed on Alex's screen, undeniable and damning. They felt a mix of emotions—validation, anger, fear, determination. They weren't crazy. They weren't inadequate. They were part of a pattern.
+The pattern wasn't complete data—it couldn't be, not without HR access. But it was enough to see the shape of something wrong. They felt a mix of emotions—validation, anger, fear, determination. They weren't crazy. They weren't inadequate. They were part of a pattern.
 
 ---
 

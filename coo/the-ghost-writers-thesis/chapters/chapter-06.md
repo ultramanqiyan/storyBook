@@ -10,7 +10,7 @@ But she had made a decision. She would defend the dissertation, and then she wou
 
 ---
 
-The conference room was bright with morning light, the long table already set with copies of her dissertation. The committee members arrived one by one—Dr. Webb, her advisor; Dr. Chen, the department chair; Dr. Okonkwo, a senior professor from the psychology department; and Dean Cross, representing the graduate school.
+The conference room was bright with morning light, the long table already set with copies of her dissertation. The committee members arrived one by one—Dr. Webb, her advisor; Dr. Chen, the department chair; Dr. Okonkwo, a senior professor from the psychology department; Dr. Morrison from Stanford University, the external examiner; and Dr. Martinez from the graduate school, serving as the graduate school representative.
 
 Elena stood at the front of the room, her notes arranged before her, her slides ready on the screen behind her. She had done this before, in practice defenses and seminar presentations. But this was different. This was the real thing.
 
@@ -90,17 +90,15 @@ The committee sat around the table, their expressions unreadable. Elena took her
 
 Elena waited, barely breathing.
 
-"Your research is methodologically sound, your data is well-analyzed, and your conclusions are valid. The committee agrees that you have made a contribution to the field. However, we also acknowledge the... unusual circumstances of your research questions."
+"Your research is methodologically sound, your data is well-analyzed, and your conclusions are valid. The committee agrees that you have made a contribution to the field. We will accept your dissertation and recommend you for the PhD degree."
 
-Dr. Chen glanced at Dean Cross, who nodded slightly.
+Elena felt a wave of relief, but Dr. Chen continued.
 
-"We will accept your dissertation and recommend you for the PhD degree. However, we will also note in our evaluation that your research questions were AI-generated, and that you have expressed concerns about the implications of AI dependency in academic research."
+"However, I want to be honest with you about what this means. Your disclosure today—that your research questions were AI-generated—will become known. Not through any official notation, but through the academic grapevine. Committee members talk. Colleagues share stories. The academic community is small, Elena, and people remember."
 
-Elena felt the words sink in. They were accepting her dissertation. She would get her degree. But there was a catch.
+"What does that mean for my career?" Elena asked. "Will I be able to find a position?"
 
-"What does that mean for my career?" she asked. "The note in my evaluation?"
-
-Dean Cross leaned forward. "It means that anyone who reads your file will know that your questions weren't your own. Some will consider that a mark against you. Others may not care. The academic job market is competitive, Elena. This will make it harder."
+Dean Cross leaned forward. "It means that some will question the originality of your intellectual contribution. Some hiring committees may see you as a cautionary tale about AI dependency. Others may respect your honesty and the quality of your methodological work. The academic job market is competitive, Elena. This will make it harder. But not impossible."
 
 "I understand," Elena said. And she did. She had chosen the truth, and the truth had consequences. She was willing to live with them.
 
