@@ -107,5 +107,3 @@ But she remembered one thing: a name. Lyra. Someone she loved. Someone who was w
 She stepped into the Rift.
 
 The darkness swallowed her whole.
-
-** 7**

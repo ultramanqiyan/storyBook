@@ -67,5 +67,3 @@ Her sister's eyes opened.
 Elara floated closer. "I don't remember you. I don't remember anything. But I know I came to save you."
 
 "I know." Lyra smiled, and it was the saddest thing Elara had ever seen. "I know the cost. I paid it too." She reached out, and their hands met—consciousness touching consciousness in a place where bodies didn't exist. "But you're here. That's what matters."
-
-** 8**

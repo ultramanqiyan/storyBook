@@ -44,7 +44,7 @@ He stood up from his desk and walked to the window, staring out at the Austin sk
 
 *Twenty-five years*, he thought. *Twenty-five years of walking through houses, and I can't remember a single one.*
 
-The realization hit him like a physical blow.
+The realization struck him with unexpected force, leaving him momentarily breathless.
 
 He could remember data—square footage, lot sizes, price points. He could remember verdicts—approved, denied, pending. He could remember match scores and confidence levels and algorithmic outputs.
 

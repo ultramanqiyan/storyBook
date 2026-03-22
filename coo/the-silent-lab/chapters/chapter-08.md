@@ -1,5 +1,5 @@
 # Chapter 8: The Turning Point
-The air carried the faint scent of coffee, lingering in the background.
+Steam rose from Elena's cup as she stared at the message on her screen.
 
 Six months after the first wave, Elena received a message that changed everything.
 

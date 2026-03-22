@@ -1,5 +1,5 @@
 # Chapter 6: The Cost - Turning Point
-The air carried the faint scent of old paper, lingering in the background.
+Old case files and research papers covered Elena's desk, their pages yellowed at the edges.
 
 The pandemic's second year was worse than the first.
 

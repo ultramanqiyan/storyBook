@@ -1,5 +1,5 @@
 # Chapter 2: The Pattern - Love Has Rules
-The air carried the faint scent of coffee, lingering in the background.
+The Geneva facility hummed with quiet efficiency, its sterile corridors bathed in soft fluorescent light.
 
 Elena's first day at the Geneva facility was overwhelming.
 

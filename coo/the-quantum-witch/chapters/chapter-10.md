@@ -1,5 +1,5 @@
 # Chapter 10: The Quantum Witch
-The air carried the faint scent of dust, lingering in the background.
+A fine layer of dust had settled over the laboratory equipment in the days since the battle.
 
 The aftermath of the confrontation was quiet.
 

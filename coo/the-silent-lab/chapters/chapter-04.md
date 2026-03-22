@@ -1,5 +1,5 @@
 # Chapter 4: The Warning - Critical Moment
-The air carried the faint scent of dust, lingering in the background.
+Dust motes drifted through the afternoon light filtering through Elena's office window.
 
 Six months after the destruction of Kronos Solutions, Elena received a message.
 

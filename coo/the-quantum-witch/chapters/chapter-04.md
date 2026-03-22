@@ -1,5 +1,5 @@
 # Chapter 4: The Fate Weavers
-The air carried the faint scent of dust, lingering in the background.
+Dust particles danced in the light from Maya's laboratory window.
 
 They came to her laboratory three days later.
 

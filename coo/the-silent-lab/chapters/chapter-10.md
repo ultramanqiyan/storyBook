@@ -1,5 +1,5 @@
 # Chapter 10: The New Dawn
-The air carried the faint scent of dust, lingering in the background.
+Sunlight streamed through the tall windows of the United Nations General Assembly hall.
 
 Five years after the pandemic ended, Elena Vance stood before the United Nations General Assembly.
 

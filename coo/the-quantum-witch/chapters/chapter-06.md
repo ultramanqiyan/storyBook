@@ -1,5 +1,5 @@
 # Chapter 6: The Choice - Freedom or Family?
-The air carried the faint scent of old paper, lingering in the background.
+Ancient texts and handwritten notes covered Maya's desk, their pages worn from years of study.
 
 The Fate Weavers came to her again, but this time they were not alone.
 
