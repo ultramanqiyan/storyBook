@@ -1,195 +1,228 @@
-# Chapter 5-10 Specifications Summary
+# Chapter 05-10 Specifications Summary: The Outsourced Memory
 
 > **Template Version**: 1.0
 > **Book**: The Outsourced Memory
 > **Chapters**: 5-10
-> **Created**: 2026-03-22
+> **Last Updated**: 2026-03-22
 
 ---
 
-## Chapter 5: The Perfect System
+## Chapter 05: The Distance
 
-### Position in Book
-- **Location**: Rising Action (Peak Dependency)
-- **Purpose**: Show peak dependency; Mike fully trusts AI over his own judgment
-- **Key Event**: Mike defers to AI on all decisions; Susan notices he's different
+### Position
+- **Location**: Rising Action (Peak dependency)
+- **Purpose**: Peak dependency; Marcus feels distance from his own expertise
 
 ### Emotional Arc
 | Position | Intensity | Emotion | Trigger |
 |----------|-----------|---------|---------|
-| 0% | 50 | Confidence | Peak efficiency |
-| 50% | 60 | Dependence | AI makes all decisions |
-| 100% | 55 | Hollow success | Susan's observation |
+| 0% | 40 | Hollow efficiency | Morning routine |
+| 20% | 50 | Brief awareness | Realizing she's not reading claims |
+| 40% | 60 | Growing panic | Can't explain AI verdict |
+| 60% | 70 | Shame | Client asks "why" |
+| 80% | 65 | Defensive retreat | End of meeting |
+| 100% | 55 | Lingering shame | Alone with thoughts |
 
-### Core Events
-1. Mike's morning is entirely AI-driven
-2. He defers to AI on a complex negotiation
-3. Susan confronts him about his change
-4. Mike dismisses her concern, but feels hollow
+### Key Events
+1. Morning routine - Marcus processes claims mechanically
+2. Realizes he's not reading them of them
+3. Client asks "why" - Marcus can't explain
+4. Shame at inability to explain
+5. End of day reflection
 
-### Key Sensory Details
-- Visual: AI dashboard as first and last thing he sees
-- Internal: Absence of his own judgment
-- Auditory: Susan's worried voice
+### Sensory Focus
+- Visual: Claims flowing through queue
+- Tactile: Pen moving automatically
+- Internal: Absence of thought
+- Visual: Her signature appearing on each claim
 
 ---
 
-## Chapter 6: The Wrong Number
+## Chapter 06: The Error
 
-### Position in Book
-- **Location**: Climax
-- **Purpose**: AI error; Mike can't catch it because he's lost his own judgment
-- **Key Event**: HomeMatch misvalues a house; Mike doesn't notice until too late
+### Position
+- **Location**: Climax (first half)
+- **Purpose**: AI makes error Marcus would have caught
 
 ### Emotional Arc
 | Position | Intensity | Emotion | Trigger |
 |----------|-----------|---------|---------|
-| 0% | 50 | Confidence | Normal day |
-| 50% | 80 | Shock | AI error discovered |
-| 100% | 75 | Panic | Realizes he can't catch errors |
+| 0% | 30 | Hollow routine | Morning processing |
+| 20% | 50 | Vague unease | Something feels wrong |
+| 40% | 75 | Alarm | Realizes the error |
+| 60% | 85 | Panic | Can't explain why it's wrong |
+| 80% | 70 | Desperation | Trying to articulate |
+| 100% | 60 | Lingering fear | Alone with the question |
 
-### Core Events
-1. Mike accepts AI valuation without question
-2. Client discovers major issue AI missed
-3. Mike realizes he can't verify AI's accuracy
-4. First moment of true fear
+### Key Events
+1. Morning processing - Marcus processes claims mechanically
+2. Pauses on claim - something feels wrong
+3. Realizes the AI approved a fraudulent claim
+4. Tries to explain why it's wrong - can't
+5. Sits with the question of what to do
 
-### Key Sensory Details
-- Visual: Error on screen
-- Internal: Panic rising
-- Tactile: Hands shaking
+### Sensory Focus
+- Visual: Claims flowing through queue
+- Internal: Stomach tightening returning
+- Visual: AI verdict: Approved
+- Tactile: Trembling hands
 
 ---
 
-## Chapter 7: The Empty Walk
+## Chapter 07: The Empty Memory
+### Position
+- **Location**: Climax (second half)
+- **Purpose**: Marcus tries to remember client details - discovers emptiness
 
-### Position in Book
+### Emotional Arc
+| Position | Intensity | Emotion | Trigger |
+|----------|-----------|---------|---------|
+| 0% | 50 | Determination | Decides to remember properly |
+| 20% | 60 | Effort | Trying to articulate reasoning |
+| 40% | 75 | Growing panic | Words won't come |
+| 60% | 85 | Horror | Realizes she has nothing |
+| 80% | 80 | Grief | Mourning what she's lost |
+| 100% | 70 | Desolate awareness | Alone with the truth |
+
+### Key Events
+1. Marcus tries to remember a client's story
+2. Discovers she can't access the memory
+3. Horror at the depth of her loss
+4. Grief for what she's lost
+
+### Sensory Focus
+- Internal: The empty space where memory should be
+- Visual: Client file on screen, meaningless data
+- Tactile: The absence of embodied judgment
+
+---
+
+## Chapter 08: The Outsourced Self
+### Position
 - **Location**: Falling Action
-- **Purpose**: Mike tries to re-engage his senses; discovers they're dull
-- **Key Event**: Mike walks a neighborhood; realizes he can't "read" houses anymore
+- **Purpose**: Marcus confronts his own complicity in cognitive outsourcing
 
 ### Emotional Arc
 | Position | Intensity | Emotion | Trigger |
 |----------|-----------|---------|---------|
-| 0% | 60 | Determination | Decides to walk |
-| 50% | 70 | Grief | Senses are dull |
-| 100% | 65 | Loss | Can't recover what's lost |
+| 0% | 60 | Raw awareness | After the discovery |
+| 20% | 70 | Self-examination | Looking back at choices |
+| 40% | 85 | Shame | Recognizing complicity |
+| 60% | 80 | Horror | Seeing the pattern |
+| 80% | 75 | Questioning | What does responsibility mean? |
+| 100% | 65 | Uncertain resolve | Beginning to accept responsibility |
 
-### Core Events
-1. Mike decides to walk a neighborhood without AI
-2. He tries to "read" a house with his senses
-3. Discovers his embodied knowledge is gone
-4. Grief for what's been lost
+### Key Events
+1. Marcus reviews his client history
+2. Realizes she chose this outsourcing
+3. Recognizes his own role in the loss
+4. Begins to accept responsibility
 
-### Key Sensory Details
-- Tactile: Floor that should feel familiar but doesn't
-- Olfactory: Smells he can't interpret
-- Internal: Empty where knowledge used to be
+### Sensory Focus
+- Visual: Client files, each one an outsourced memory)
+- Internal: Shame, recognition
+- Tactile: The weight of his choices
 
 ---
 
-## Chapter 8: The Imitation
-
-### Position in Book
+## Chapter 09: The Choice
+### Position
 - **Location**: Falling Action
-- **Purpose**: Mike discovers AI can mimic his style; existential crisis
-- **Key Event**: Client can't tell difference between Mike's real email and AI-generated one
+- **Purpose**: Marcus talks to supervisor about what memory means
 
 ### Emotional Arc
 | Position | Intensity | Emotion | Trigger |
 |----------|-----------|---------|---------|
-| 0% | 55 | Curiosity | AI offers to write emails |
-| 50% | 75 | Horror | Client can't tell difference |
-| 100% | 70 | Questioning | Who am I? |
+| 0% | 55 | Uncertain resolve | Going to supervisor |
+| 20% | 60 | Vulnerability | Admitting his problem |
+| 40% | 50 | Disappointment | Supervisor's pragmatic response |
+| 60% | 70 | Conflict | Two worldviews collide |
+| 80% | 65 | Clarification | Understanding his position |
+| 100% | 60 | Determination | Deciding what to do |
 
-### Core Events
-1. Mike lets AI write client communications
-2. Client praises "his" insight
-3. Mike reveals it was AI; client doesn't care
-4. Existential crisis: if AI is more "him" than him, who is he?
+### Key Events
+1. Marcus talks to supervisor about her concerns
+2. Supervisor doesn't understand - "Your numbers are great"
+3. Marcus realizes he must choose for himself
+4. Decides to try remembering without AI
 
-### Key Sensory Details
-- Visual: Email on screen that sounds like him but isn't
-- Auditory: Client's voice praising "his" words
-- Internal: Horror of being replaceable
+### Sensory Focus
+- Auditory: Supervisor's pragmatic voice
+- Internal: The gap between his concern and their understanding
+- Visual: The path forward
 
 ---
 
-## Chapter 9: The Question
-
-### Position in Book
+## Chapter 10: The Remembering
+### Position
 - **Location**: Resolution
-- **Purpose**: Mike confronts the philosophical question; no easy answer
-- **Key Event**: Mike talks to Susan; realizes the problem isn't AI but his own choices
+- **Purpose**: Marcus remembers one client without AI; ending leaves question unresolved
 
 ### Emotional Arc
 | Position | Intensity | Emotion | Trigger |
 |----------|-----------|---------|---------|
-| 0% | 60 | Turmoil | Existential crisis continues |
-| 50% | 55 | Reflection | Susan's wisdom |
-| 100% | 50 | Uncertainty | No easy answers |
+| 0% | 50 | Determination | Beginning to remember |
+| 15% | 60 | Anxiety | Facing client without AI |
+| 30% | 70 | Effort | Trying to recall |
+| 50% | 80 | Uncertainty | Not sure if she's right |
+| 70% | 75 | Decision | Making the recommendation |
+| 85% | 65 | Relief mixed with fear | Acting on his own memory |
+| 100% | 55 | Tentative hope | Open future |
 
-### Core Events
-1. Mike opens up to Susan about his crisis
-2. Susan asks what he wants, not what's efficient
-3. Mike realizes he chose this path
-4. No easy resolution, but deeper understanding
+### Key Events
+1. Marcus meets client without AI assistance
+2. Struggles to remember the client's story
+3. Makes recommendation based on genuine memory
+4. Client responds - not perfectly, but genuinely
+5. Open ending: Will this work? Is authentic connection worth the cost?
 
-### Key Sensory Details
-- Visual: Susan's patient face
-- Auditory: Her gentle questions
-- Internal: First honest self-reflection
+### Sensory Focus
+- Tactile: Hands trembling, pen in hand
+- Internal: The sensation of genuine memory returning
+- Visual: Client's face, real and present
 
----
+### Open Ending Questions
+1. Will his authentic connection be effective?
+2. Is authenticity worth the cost?
+3. Can Marcus reclaim his ability to remember?
 
-## Chapter 10: The First Step
-
-### Position in Book
-- **Location**: Resolution (Open Ending)
-- **Purpose**: Mike takes a small step toward reclaiming his senses; open ending
-- **Key Event**: Mike walks a house without checking HomeMatch first
-
-### Emotional Arc
-| Position | Intensity | Emotion | Trigger |
-|----------|-----------|---------|---------|
-| 0% | 50 | Uncertainty | Morning decision |
-| 50% | 55 | Tentative hope | Walking without AI |
-| 100% | 45 | Open | Ending leaves question unresolved |
-
-### Core Events
-1. Mike decides to walk a house without AI
-2. His senses are dull but present
-3. He feels something - not expertise, but presence
-4. Ending: will this lead to recovery, or is it too late?
-
-### Key Sensory Details
-- Tactile: Floor under feet
-- Olfactory: House smells
-- Internal: Tentative connection
-
-### Open Ending Design
-**Unresolved Questions**:
-1. Can Mike truly recover his embodied knowledge?
-2. Is his "professional intuition" fundamentally different from AI pattern recognition?
-3. What does it mean to "choose" when AI is always better?
-
-**New Suspense**:
-- Mike's small step may or may not lead to recovery
-- The broader question: is this choice even meaningful?
-- What will happen to his business if he rejects AI?
-
-**Reader Engagement**:
-- Questions for Reader: What would you do? Is the convenience worth the loss?
-- Emotional Resonance: The quiet tragedy of losing something you didn't know you were losing
-- Thematic Echo: Ending returns to opening's sensory focus, but with loss and uncertainty
+4. What does his future hold?
 
 ---
 
-## Revision History
+## Thematic Summary
 
-| Version | Date | Changes | Author |
-|---------|------|---------|--------|
-| 1.0 | 2026-03-22 | Initial specifications | AI Assistant |
+| Chapter | Theme Focus | Key Question |
+|---------|-------------|--------------|
+| 05 | Distance | Can I still trust AI? |
+| 06 | Error | Can AI be wrong? |
+| 07 | Empty Memory | Can I remember without AI? |
+| 08 | Outsourced Self | Am I responsible for this? |
+| 09 | Choice | What does memory mean? |
+| 10 | Remembering | Can I remember authentically? |
+
+---
+
+## Character Voice Consistency
+
+Marcus Chen's voice should:
+- Start confident: warm, knowledgeable, genuinely caring
+- Become hollow: efficient, data-dependent
+- End authentic: struggling, imperfect, genuine
+
+Key phrases to track:
+- "Let me tell you a story" (authentic)
+- "I remember when..." (authentic)
+- AI-generated phrases (smooth but soulless)
+
+---
+
+## Sensory Detail Requirements (All Chapters)
+Each chapter must include:
+- Minimum 5 sensory details
+- Minimum 3 sensory types
+- Focus on: Visual (40%), Internal/Tactile (60% combined)
+- Recurring motifs: Real estate documents, client faces, HomeMatch interface
 
 ---
 
