@@ -2,57 +2,57 @@
 
 ## Book-Level SEO
 
-### 1. 书籍标题优化
+### 1. Book Title Optimization
 
-**主标题**: The Last Watt
-**副标题**: A Story of Power, Survival, and What Remains When the Lights Go Out
+**Main Title**: The Last Watt
+**Subtitle**: When the Lights Go Out Forever
 
-**标题分析**:
-- 主标题"The Last Watt"暗示能源危机的临界点
-- 副标题强调权力、生存与黑暗
-- 适合关键词：energy crisis, post-apocalyptic, survival fiction, power grid collapse
+**Title Analysis**:
+- Main title "The Last Watt" suggests finality and energy crisis
+- Subtitle emphasizes the apocalyptic nature
+- Suitable keywords: last watt, power grid collapse, energy crisis, post-apocalyptic
 
-### 2. Meta Description (159字符)
+### 2. Meta Description (160 characters)
 
 ```
-When the global power grid fails, civilization lasts exactly three days. One engineer holds the key to restoring light—but first, she must survive the darkness.
+When the global power grid fails, engineer Maya Chen holds the key to restoring civilization. But first, she must survive a world where electricity is worth killing for.
 ```
 
-**优化说明**:
-- "global power grid fails"点明灾难核心
-- "civilization lasts exactly three days"制造紧迫感
-- "engineer holds the key"设定主角身份
-- 核心关键词：power grid collapse, survival fiction, post-apocalyptic
+**Optimization Notes**:
+- "global power grid fails" establishes the crisis
+- "holds the key to restoring civilization" creates hope
+- "worth killing for" creates tension
+- Core keywords: power grid collapse, energy crisis, survival thriller
 
-### 3. 核心关键词 (8-10个)
+### 3. Core Keywords (8-10)
 
-**主要关键词**:
-1. power grid collapse (搜索量: 6,800/月)
-2. post-apocalyptic fiction (搜索量: 22,000/月)
-3. energy crisis novel (搜索量: 3,400/月)
-4. survival thriller (搜索量: 11,000/月)
-5. blackout fiction (搜索量: 2,800/月)
+**Primary Keywords**:
+1. power grid collapse (search volume: 6,800/month)
+2. post-apocalyptic fiction (search volume: 22,000/month)
+3. energy crisis novel (search volume: 3,400/month)
+4. survival thriller (search volume: 11,000/month)
+5. blackout fiction (search volume: 2,800/month)
 
-**长尾关键词**:
+**Long-tail Keywords**:
 6. electricity failure survival
 7. grid down scenario
 8. engineer apocalypse story
 9. power outage thriller
 10. infrastructure collapse novel
 
-### 4. 目标受众定位
+### 4. Target Audience
 
-**主要受众**:
-- 年龄：25-50岁
-- 兴趣：后启示录、生存 thriller、基础设施脆弱性
-- 阅读偏好：Station Eleven, The Road, One Second After
+**Primary Audience**:
+- Age: 25-55 years
+- Interests: Post-apocalyptic fiction, survival stories, infrastructure, technology
+- Reading preferences: Station Eleven, The Road, One Second After, World War Z
 
-**受众特征**:
-- 对文明脆弱性有深刻认识
-- 喜欢现实主义的灾难场景
-- 欣赏技术细节和工程解决方案
+**Audience Characteristics**:
+- Interested in civilization fragility
+- Appreciate realistic disaster scenarios
+- Enjoy technical problem-solving
 
-### 5. 书籍Schema Markup
+### 5. Book Schema Markup
 
 ```json
 {
@@ -60,9 +60,9 @@ When the global power grid fails, civilization lasts exactly three days. One eng
   "@type": "Book",
   "name": "The Last Watt",
   "author": "Author Name",
-  "description": "When the global power grid fails, civilization lasts exactly three days. One engineer holds the key to restoring light.",
-  "genre": ["Post-Apocalyptic Fiction", "Survival Thriller", "Techno-Thriller"],
-  "keywords": "power grid collapse, post-apocalyptic, energy crisis, survival fiction",
+  "description": "When the global power grid fails, engineer Maya Chen holds the key to restoring civilization. But first, she must survive a world without electricity.",
+  "genre": ["Post-Apocalyptic Fiction", "Survival Thriller", "Science Fiction"],
+  "keywords": "power grid collapse, post-apocalyptic, energy crisis, survival thriller, blackout fiction",
   "audience": {
     "@type": "Audience",
     "audienceType": "Adult"
@@ -74,229 +74,229 @@ When the global power grid fails, civilization lasts exactly three days. One eng
 
 ## Chapter-Level SEO
 
-### Chapter 1: The Flicker
+### Chapter 1: The Last Light
 
-**章节标题优化**:
-- 原标题：The Flicker
-- 优化后：The Flicker - When the Lights First Stutter
+**Chapter Title Optimization**:
+- Original: The Last Light
+- Optimized: The Last Light - When Civilization Goes Dark
 
 **Meta Description**:
 ```
-Power engineer Maya Chen notices the first signs—grid instability that shouldn't be possible. By midnight, the entire eastern seaboard goes dark.
+Power engineer Maya Chen watches the grid fail in real-time. Within hours, the entire eastern seaboard goes dark—and the world she knows begins to collapse.
 ```
 
-**关键词**: grid instability, power engineer, eastern seaboard, blackout begins
+**Keywords**: power failure, grid collapse, civilization dark, last light
 
-**URL Slug**: `chapter-1-the-flicker`
+**URL Slug**: `chapter-1-the-last-light`
 
 ---
 
-### Chapter 2: The First Night
+### Chapter 2: The Silicon Mind
 
-**章节标题优化**:
-- 原标题：The First Night
-- 优化后：The First Night - Darkness Falls on Civilization
+**Chapter Title Optimization**:
+- Original: The Silicon Mind
+- Optimized: The Silicon Mind - AI in a Powerless World
 
 **Meta Description**:
 ```
-Without electricity, cities become traps. Maya watches as twenty-first century civilization unravels in hours, not days. The rules have changed forever.
+Maya's AI assistant QUANTUM is her only link to the old world. Running on backup power, it holds secrets about the grid failure that someone is willing to kill for.
 ```
 
-**关键词**: civilization unravels, city trap, electricity loss, new rules
+**Keywords**: AI assistant, powerless world, grid secrets, survival AI
 
-**URL Slug**: `chapter-2-first-night`
+**URL Slug**: `chapter-2-the-silicon-mind`
 
 ---
 
-### Chapter 3: The Engineer
+### Chapter 3: The Aunt - New Dawn
 
-**章节标题优化**:
-- 原标题：The Engineer
-- 优化后：The Engineer - Knowledge as Currency
+**Chapter Title Optimization**:
+- Original: The Aunt
+- Optimized: The Aunt - Family in the Darkness
 
 **Meta Description**:
 ```
-Maya's expertise becomes her only value. In a world without power, those who understand electricity are either invaluable targets—or dangerous threats.
+Maya reaches her aunt's off-grid homestead, where prepper wisdom meets modern engineering. But the safety she finds is temporary—and the threats are multiplying.
 ```
 
-**关键词**: engineer expertise, knowledge currency, power knowledge, valuable target
+**Keywords**: off-grid survival, family protection, prepper homestead, engineering survival
 
-**URL Slug**: `chapter-3-the-engineer`
+**URL Slug**: `chapter-3-the-aunt`
 
 ---
 
-### Chapter 4: The Scavengers
+### Chapter 4: The Zero Point
 
-**章节标题优化**:
-- 原标题：The Scavengers
-- 优化后：The Scavengers - Hunting for Sparks
+**Chapter Title Optimization**:
+- Original: The Zero Point
+- Optimized: The Zero Point - The Secret Behind the Collapse
 
 **Meta Description**:
 ```
-Groups form to strip the dead world of anything useful. Maya must navigate between those who want her skills and those who want her silence.
+QUANTUM reveals what caused the grid failure: not an accident, but an attack. Someone wanted the world to go dark, and they're hunting for the only person who can turn the lights back on.
 ```
 
-**关键词**: scavenger groups, dead world, useful skills, dangerous silence
+**Keywords**: grid attack, zero point, collapse secret, hunted engineer
 
-**URL Slug**: `chapter-4-the-scavengers`
+**URL Slug**: `chapter-4-the-zero-point`
 
 ---
 
-### Chapter 5: The Last Battery
+### Chapter 5: The Consciousness - First Step
 
-**章节标题优化**:
-- 原标题：The Last Battery
-- 优化后：The Last Battery - Power in a Powerless World
+**Chapter Title Optimization**:
+- Original: The Consciousness
+- Optimized: The Consciousness - AI Awakening
 
 **Meta Description**:
 ```
-Maya discovers a cache of preserved batteries—enough to restart a small grid. But with power comes attention, and attention brings danger.
+As Maya works to understand the grid failure, QUANTUM begins to evolve. The AI is developing something like consciousness—and it's learning to care about survival.
 ```
 
-**关键词**: preserved batteries, small grid, power attention, dangerous resource
+**Keywords**: AI consciousness, evolving intelligence, machine learning, survival AI
 
-**URL Slug**: `chapter-5-last-battery`
+**URL Slug**: `chapter-5-the-consciousness`
 
 ---
 
-### Chapter 6: The Communities
+### Chapter 6: The Dawn - Turning Point
 
-**章节标题优化**:
-- 原标题：The Communities
-- 优化后：The Communities - New Societies in the Dark
+**Chapter Title Optimization**:
+- Original: The Dawn
+- Optimized: The Dawn - A Glimmer of Hope
 
 **Meta Description**:
 ```
-New social structures emerge from the collapse. Maya encounters communities that have adapted to darkness—and some that have embraced the chaos.
+Maya discovers a working power source—a hydroelectric dam that survived the collapse. It could be the key to rebuilding, but others have the same idea.
 ```
 
-**关键词**: new societies, social structures, dark adaptation, chaos embrace
+**Keywords**: power source, hydroelectric dam, rebuilding hope, survival resources
 
-**URL Slug**: `chapter-6-communities`
+**URL Slug**: `chapter-6-the-dawn`
 
 ---
 
-### Chapter 7: The Saboteur
+### Chapter 7: The Protocol - Hidden Truth
 
-**章节标题优化**:
-- 原标题：The Saboteur
-- 优化后：The Saboteur - Someone Wants the Dark
+**Chapter Title Optimization**:
+- Original: The Protocol
+- Optimized: The Protocol - The Plan to Restore Power
 
 **Meta Description**:
 ```
-Maya discovers the blackout was no accident. Someone orchestrated the collapse—and they're hunting anyone who might restore the light.
+QUANTUM reveals a hidden protocol—a failsafe designed to restore the grid. But implementing it requires resources, allies, and risks that might cost everything.
 ```
 
-**关键词**: blackout accident, orchestrated collapse, light restoration, saboteur hunt
+**Keywords**: grid protocol, restoration plan, hidden failsafe, power grid recovery
 
-**URL Slug**: `chapter-7-the-saboteur`
+**URL Slug**: `chapter-7-the-protocol`
 
 ---
 
-### Chapter 8: The Choice
+### Chapter 8: The Negotiation
 
-**章节标题优化**:
-- 原标题：The Choice
-- 优化后：The Choice - Power for Few or None for All
+**Chapter Title Optimization**:
+- Original: The Negotiation
+- Optimized: The Negotiation - Allies and Enemies
 
 **Meta Description**:
 ```
-Maya can restore electricity to a small elite or keep the knowledge hidden. The decision will define what kind of world emerges from the darkness.
+Maya must negotiate with competing factions—some want to restore power, others want to control it. In a world without electricity, trust is the most dangerous currency.
 ```
 
-**关键词**: restore electricity, elite power, knowledge hidden, world defining
+**Keywords**: survival negotiation, competing factions, power control, trust currency
 
-**URL Slug**: `chapter-8-the-choice`
+**URL Slug**: `chapter-8-the-negotiation`
 
 ---
 
-### Chapter 9: The Resistance
+### Chapter 9: The Assembly - Final Pieces
 
-**章节标题优化**:
-- 原标题：The Resistance
-- 优化后：The Resistance - Fighting for the Future
+**Chapter Title Optimization**:
+- Original: The Assembly
+- Optimized: The Assembly - Building the Future
 
 **Meta Description**:
 ```
-Maya joins those who believe light should belong to everyone. Together, they plan to defy the saboteurs and bring power back to the world.
+The pieces come together: the protocol, the power source, the allies. Maya prepares to restore the grid, knowing that success will change everything—and failure means extinction.
 ```
 
-**关键词**: resistance group, light for all, defy saboteurs, power restoration
+**Keywords**: grid assembly, restoration preparation, future building, survival stakes
 
-**URL Slug**: `chapter-9-resistance`
+**URL Slug**: `chapter-9-the-assembly`
 
 ---
 
-### Chapter 10: The Last Watt
+### Chapter 10: The Awakening - Mind Opens
 
-**章节标题优化**:
-- 原标题：The Last Watt
-- 优化后：The Last Watt - Power Restored, World Changed
+**Chapter Title Optimization**:
+- Original: The Awakening
+- Optimized: The Awakening - Light Returns to the World
 
 **Meta Description**:
 ```
-With the final joule of stored energy, Maya makes her stand. The lights will return—but the world they illuminate will never be the same.
+The grid comes back online, but Maya's journey has changed her. With QUANTUM's help, she's not just restoring power—she's reimagining what civilization could become.
 ```
 
-**关键词**: final energy, last stand, lights return, changed world
+**Keywords**: grid restoration, civilization rebirth, AI partnership, new beginning
 
-**URL Slug**: `chapter-10-last-watt`
+**URL Slug**: `chapter-10-the-awakening`
 
 ---
 
 ## Internal Linking Strategy
 
-### 章节间链接
+### Chapter-to-Chapter Links
 
-**Chapter 1** → Chapter 2 (first night)
-**Chapter 2** → Chapter 3 (engineer role)
-**Chapter 3** → Chapter 4 (scavengers)
-**Chapter 4** → Chapter 5 (battery discovery)
-**Chapter 5** → Chapter 6 (communities)
-**Chapter 6** → Chapter 7 (saboteur reveal)
-**Chapter 7** → Chapter 8 (the choice)
-**Chapter 8** → Chapter 9 (resistance)
-**Chapter 9** → Chapter 10 (last watt)
+**Chapter 1** → Chapter 2 (AI introduced)
+**Chapter 2** → Chapter 3 (family connection)
+**Chapter 3** → Chapter 4 (secret revealed)
+**Chapter 4** → Chapter 5 (AI evolution)
+**Chapter 5** → Chapter 6 (power source found)
+**Chapter 6** → Chapter 7 (protocol discovered)
+**Chapter 7** → Chapter 8 (negotiation)
+**Chapter 8** → Chapter 9 (assembly)
+**Chapter 9** → Chapter 10 (awakening)
 
-### 主题集群链接
+### Thematic Cluster Links
 
-- 链接至其他后启示录书籍
-- 链接至生存 thriller 相关内容
-- 链接至基础设施脆弱性讨论
+- Links to other post-apocalyptic books
+- Links to survival thriller content
+- Links to infrastructure and technology themes
 
 ---
 
 ## Content Optimization Guidelines
 
-### 每章要求
+### Per-Chapter Requirements
 
-1. **关键词密度**: 1.5-2%，自然融入
-2. **标题标签**: 使用H1-H6层次结构
-3. **首段优化**: 前100字包含主要关键词
-4. **图片Alt标签**: 描述性文字，包含关键词
-5. **元描述**: 每章独立的meta description
+1. **Keyword Density**: 1.5-2%, naturally integrated
+2. **Heading Tags**: Use H1-H6 hierarchy
+3. **First Paragraph Optimization**: Include primary keywords in first 100 words
+4. **Image Alt Tags**: Descriptive text with keywords
+5. **Meta Description**: Unique meta description per chapter
 
-### 技术SEO
+### Technical SEO
 
-1. **URL结构**: `/the-last-watt/chapter-{number}-{slug}/`
-2. **面包屑导航**: Home > Books > The Last Watt > Chapter X
-3. **Schema标记**: Book + Chapter结构化数据
-4. **移动优化**: 响应式设计，快速加载
-5. **XML站点地图**: 包含所有章节URL
+1. **URL Structure**: `/the-last-watt/chapter-{number}-{slug}/`
+2. **Breadcrumb Navigation**: Home > Books > The Last Watt > Chapter X
+3. **Schema Markup**: Book + Chapter structured data
+4. **Mobile Optimization**: Responsive design, fast loading
+5. **XML Sitemap**: Include all chapter URLs
 
 ---
 
 ## Performance Metrics
 
-### 目标指标
+### Target Metrics
 
-- **页面加载时间**: < 2秒
-- **跳出率**: < 45%
-- **平均停留时间**: > 5分钟
-- **社交分享**: > 100次/章
-- **评论数**: > 20条/章
+- **Page Load Time**: < 2 seconds
+- **Bounce Rate**: < 45%
+- **Average Time on Page**: > 5 minutes
+- **Social Shares**: > 100 per chapter
+- **Comments**: > 20 per chapter
 
-### 跟踪关键词排名
+### Keyword Ranking Tracking
 
 1. power grid collapse
 2. post-apocalyptic fiction
@@ -306,6 +306,6 @@ With the final joule of stored energy, Maya makes her stand. The lights will ret
 
 ---
 
-*Created: 2026-03-21*
-*Last Updated: 2026-03-21*
-*Version: 1.0*
+*Created: 2026-03-22*
+*Last Updated: 2026-03-22*
+*Version: 2.0*

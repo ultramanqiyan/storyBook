@@ -23,7 +23,7 @@
 
 ### 2.1 Perspective
 - **Point of View**: Third-person limited
-- **POV Character(s)**: Angela Washington
+- **POV Character(s)**: Angela Morris
 - **POV Consistency**: Single POV throughout
 
 ### 2.2 Language Style
@@ -37,7 +37,7 @@
 
 ### 3.1 Protagonist
 
-#### Angela Washington
+#### Angela Morris
 | Attribute | Description |
 |-----------|-------------|
 | **Occupation** | Pet memorial photographer |

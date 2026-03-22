@@ -1,6 +1,6 @@
 # Chapter 10: The Choice
 
-Sofia Reyes ran her hand along the arm of the Victorian chair, feeling the grain of the wood beneath her fingertips. Beside her, the AI tablet displayed its analysis—the original finish, the original proportions, the historical context. Sofia used both now: the data from the AI, the intuition from forty years of craft. They weren't in opposition. They were tools, each with its own purpose.
+Sofia Reyes ran her hand along the arm of the Victorian chair, feeling the grain of the wood beneath her fingertips. Beside her, the AI tablet displayed its analysis—the original finish, the original proportions, the historical context. Sofia used both now: the data from the AI, the intuition from twenty years of craft. They weren't in opposition. They were tools, each with its own purpose.
 
 Six months had passed since the Margaret Chen restoration. Word had spread through Brooklyn's antique community, and Sofia found herself with a new kind of client—people who wanted more than just technical restoration, who came to her specifically because they had heard about her approach. They wanted their objects' stories preserved, not erased. They wanted damage honored, not hidden.
 

@@ -2,7 +2,7 @@
 
 ## Basic Information
 - **Title**: The Glass Ceiling: A Workplace Psychological Thriller
-- **Meta Description**: When Alex Chen lands her dream job at a prestigious tech company, she discovers the "glass ceiling" is more than a metaphor—it's a carefully constructed trap of psychological manipulation. A chilling corporate thriller about gaslighting and control.
+- **Meta Description**: When Alex Chen lands **their** dream job at a prestigious tech company, they discovers the "glass ceiling" is more than a metaphor—it's a carefully constructed trap of psychological manipulation. A chilling corporate thriller about gaslighting and control.
 - **Keywords**: glass ceiling, workplace discrimination, gaslighting, psychological thriller, corporate manipulation, tech industry, gender bias, office politics
 - **Genre**: Corporate Drama / Psychological Thriller
 - **Target Audience**: 18-25 years; professional women, workplace psychology readers, thriller fans
@@ -192,7 +192,7 @@
 ## Chapter Outline
 
 ### Chapter 1: The Opportunity - A Dream Job's Dark Side
-Alex lands her dream job, initial excitement, subtle red flags dismissed as "normal."
+Alex lands their dream job, initial excitement, subtle red flags dismissed as "normal."
 
 ### Chapter 2: The Warning - Whispers in the Hallway
 Sarah's cryptic warnings, first signs of something wrong, Marcus's charm offensive.

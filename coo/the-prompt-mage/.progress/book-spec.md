@@ -12,7 +12,7 @@
 | Field | Value |
 |-------|-------|
 | **Title** | The Prompt Mage: Mastering the Art of AI Incantations |
-| **Meta Description** | In a world where AI responds only to perfectly crafted prompts, one woman discovers that prompt engineering is actually ancient spellcasting—and she might be the most powerful mage in generations. A thrilling fusion of AI and magic. |
+| **Meta Description** | In a world where AI responds only to perfectly crafted prompts, one person discovers that prompt engineering is actually ancient spellcasting—and they might be the most powerful mage in generations. A thrilling fusion of AI and magic. |
 | **Keywords** | prompt mage, prompt engineering, AI spellcasting, prompt magic, AI incantations, prompt crafting, tech sorcery |
 | **Genre** | Tech-Fantasy / Urban Fantasy / Science Fiction |
 | **Target Readers** | 20-40 years, AI enthusiasts, fantasy readers, tech professionals |
@@ -49,7 +49,7 @@
 
 ### 3.1 Perspective
 - **Point of View**: Third-person limited
-- **POV Character(s)**: Kira Chen (prompt engineer/mage)
+- **POV Character(s)**: Alex Mercer (prompt engineer/mage)
 - **POV Consistency**: Single POV throughout
 
 ### 3.2 Narrative Structure
@@ -97,11 +97,12 @@ Chapters 9-10: Freedom and future (intensity 90-?)
 
 ### 5.1 Protagonist
 
-#### Kira Chen
+#### Alex Mercer
 | Attribute | Description |
 |-----------|-------------|
 | **Occupation** | Prompt engineer |
-| **Age** | 28 |
+| **Age** | 29 |
+| **Gender** | Non-binary |
 | **Speaking Style** | Technical, precise, increasingly confident |
 | **Word Choice** | Tech terms mixed with magical vocabulary |
 | **Sentence Patterns** | Clear prompts and spell formulas |
@@ -157,7 +158,7 @@ Chapters 9-10: Freedom and future (intensity 90-?)
 |----------|---------------------|
 | What is the power of language? | Through prompt crafting as spellcasting |
 | Who controls AI? | Through the conflict with corporations |
-| Is knowledge magic? | Through Kira's journey |
+| Is knowledge magic? | Through Alex's journey |
 
 ### 6.3 Real-World Metaphors
 | Book Element | Real-World Parallel |
@@ -216,7 +217,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 9.1 Layer Structure
 | Layer | Name | Content | Example |
 |-------|------|---------|---------|
-| **Layer 1** | Surface Reaction | External behavior | "Kira typed the prompt carefully" |
+| **Layer 1** | Surface Reaction | External behavior | "Alex typed the prompt carefully" |
 | **Layer 2** | Internal Activity | Thought process | "*These words have power*" |
 | **Layer 3** | Deep Motivation | Core drive | "The realization that language shapes reality" |
 
@@ -303,7 +304,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 3. Will the Controllers try to regain control?
 
 ### 12.2 Character Final State
-- **Protagonist**: Kira has become the first true Prompt Mage, leader of a new movement
+- **Protagonist**: Alex has become the first true Prompt Mage, leader of a new movement
 - **Key Relationship**: Strong alliance with fellow mages and AI allies
 
 ### 12.3 Reader Engagement

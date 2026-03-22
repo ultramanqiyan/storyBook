@@ -49,7 +49,7 @@
 
 ### 3.1 Perspective
 - **Point of View**: Third-person limited
-- **POV Character(s)**: Dr. Maya Chen (physicist/witch)
+- **POV Character(s)**: Dr. Zara Okonkwo (physicist/witch)
 - **POV Consistency**: Single POV throughout
 
 ### 3.2 Narrative Structure
@@ -97,11 +97,11 @@ Chapters 9-10: Unity and future (intensity 95-?)
 
 ### 5.1 Protagonist
 
-#### Dr. Maya Chen
+#### Dr. Zara Okonkwo
 | Attribute | Description |
 |-----------|-------------|
 | **Occupation** | Quantum physicist |
-| **Age** | 32 |
+| **Age** | 36 |
 | **Speaking Style** | Scientific, precise, increasingly magical |
 | **Word Choice** | Physics terms mixed with magical vocabulary |
 | **Sentence Patterns** | Complex equations and spell formulas |
@@ -157,7 +157,7 @@ Chapters 9-10: Unity and future (intensity 95-?)
 |----------|---------------------|
 | Are science and magic fundamentally different? | Through the discovery that they're the same |
 | What is the nature of reality? | Through quantum magical manipulation |
-| Can understanding change existence? | Through Maya's journey |
+| Can understanding change existence? | Through Zara's journey |
 
 ### 6.3 Real-World Metaphors
 | Book Element | Real-World Parallel |
@@ -216,7 +216,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 9.1 Layer Structure
 | Layer | Name | Content | Example |
 |-------|------|---------|---------|
-| **Layer 1** | Surface Reaction | External behavior | "Maya adjusted the quantum field generator" |
+| **Layer 1** | Surface Reaction | External behavior | "Zara adjusted the quantum field generator" |
 | **Layer 2** | Internal Activity | Thought process | "*The equations are singing to me*" |
 | **Layer 3** | Deep Motivation | Core drive | "The wonder of understanding the universe's deepest secrets" |
 
@@ -303,7 +303,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 3. Will the Separationists accept the new reality?
 
 ### 12.2 Character Final State
-- **Protagonist**: Maya has become the first true Quantum Witch, leader of a new era
+- **Protagonist**: Zara has become the first true Quantum Witch, leader of a new era
 - **Key Relationship**: Strong alliance with fellow scientist-witches
 
 ### 12.3 Reader Engagement

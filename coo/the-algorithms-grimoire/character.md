@@ -5,8 +5,8 @@
 ### Kira
 
 **Basic Information**
-- **Age**: 19
-- **Role**: Apprentice Librarian at the Great Archive
+- **Age**: 22
+- **Role**: Apprentice Archivist at the Royal Archives
 - **Status**: Third-year apprentice, no magical ability
 - **Specialty**: Organization, research, pattern recognition
 

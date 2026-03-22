@@ -34,12 +34,19 @@
 - **Language Evolution**: From alien presence to wise teacher
 - **Unique Expression**: Speaks in patterns and connections
 
-### Marcus Webb (Antagonist)
+### Marcus Webb (Ally)
+- **Speech Characteristics**: Gruff but kind, practical, knowledgeable
+- **Word Choice**: Forest terms, old wisdom, practical advice
+- **Personality Traits**: Former park ranger, skeptical of technology, deeply knowledgeable about old growth forests
+- **Unique Expression**: Has seen the land change over 30 years
+- **Development Focus**: From technology skeptic to believing in the Neural Druid mission
+
+### Dr. Victor Strand (Antagonist)
 - **Speech Characteristics**: Corporate, dismissive, calculating
 - **Word Choice**: Profit, efficiency, resources
-- **Personality Traits**: Corporate, dismissive, calculating
-- **Unique Expression**: Views nature as resource to exploit
-- **Development Focus**: Add complexity beyond pure greed
+- **Personality Traits**: CEO of Helix Industries, fears what he cannot control
+- **Unique Expression**: "Nature is just technology we haven't figured out yet"
+- **Development Focus**: His attempts to capture NEURAL's magic accelerate the very awakening he fears
 
 ### Grandmother (Supporting Character)
 - **Speech Characteristics**: Wise, patient, knowing
