@@ -116,7 +116,7 @@ Mark's stomach dropped. *For your own records.* That meant for the company's rec
 
 ---
 
-Mark walked out of David's office. The hallway felt longer than usual. His colleague Lisa from accounting passed him, her expression carefully neutral as she nodded.
+Mark walked out of David's office. Each step down the corridor seemed to stretch endlessly. His colleague Lisa from accounting passed him, her expression carefully neutral as she nodded.
 
 At his desk, Mark sat down. His hands were shaking. He opened his email and started typing.
 

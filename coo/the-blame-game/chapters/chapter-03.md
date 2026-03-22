@@ -169,7 +169,7 @@ David nodded. "I'll have Sarah forward them to me. I just want to make sure I ha
 
 "Good." David smiled, but the smile didn't reach his eyes. "I appreciate your cooperation, Mark. This is a difficult situation for everyone."
 
-Mark walked out of the office. The hallway felt longer than usual.
+Mark walked out of the office. The fluorescent lights seemed harsher today, casting long shadows.
 
 He reached his desk and sat down. His hands were shaking.
 

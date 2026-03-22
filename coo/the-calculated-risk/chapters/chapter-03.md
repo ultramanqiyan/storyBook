@@ -84,7 +84,7 @@ We talked for hours. Maya told me about other athletes who had become dependent 
 
 "You've executed hundreds of routes," Maya corrected. "There's a difference. Execution is following a plan. Practice is developing judgment. The system has been doing your thinking for you, and in the process, it's atrophied the very skills you need to survive."
 
-The words hit me like a physical blow. I had thought I was becoming a better climber. But maybe I was just becoming a better executor of AI-generated plans.
+The words landed with unexpected weight. I had thought I was becoming a better climber. But maybe I was just becoming a better executor of AI-generated plans.
 
 ---
 

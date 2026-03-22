@@ -111,7 +111,7 @@ Mark stood up. His legs felt unsteady.
 
 "Thank you for your time," he said.
 
-He walked out of the conference room. The hallway felt longer than usual.
+He walked out of the conference room. The corridor stretched before him, each step heavier than the last.
 
 ---
 

@@ -40,7 +40,7 @@ The room she led me to was hidden in the back of the facility, accessible only t
 
 "What you might not know is that the system is designed to create dependency." The technician's voice was quiet, almost apologetic. "The more you use it, the more you need it. The optimization algorithms actually atrophy the neural pathways associated with independent judgment."
 
-I stared at her, the words hitting like a physical blow. "You're saying the system is designed to make me dependent?"
+I stared at her, the words striking with unexpected force. "You're saying the system is designed to make me dependent?"
 
 "Not designed—optimized. The system optimizes for performance, and dependency is a side effect. But the company knows about it. They've known for years."
 

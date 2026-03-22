@@ -68,7 +68,7 @@ The doctor came later, her expression serious. "You're lucky," she said. "The fa
 
 "At least six," the doctor said. "Possibly longer. And there's something else." She hesitated, as if unsure how to proceed. "The impact damaged your neural interface. RISK-AI may not function properly until it's repaired."
 
-The words hit me like a physical blow. RISK-AI was damaged? Without it, I couldn't climb. Without it, I couldn't calculate risk. Without it, I was nothing.
+The words struck with devastating force. RISK-AI was damaged? Without it, I couldn't climb. Without it, I couldn't calculate risk. Without it, I was nothing.
 
 ---
 
