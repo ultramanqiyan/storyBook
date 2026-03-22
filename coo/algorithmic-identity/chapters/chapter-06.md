@@ -72,4 +72,4 @@ Maria would go back tomorrow. She would talk to the digital Elena, get to know h
 
 Or maybe she wouldn't. Maybe the question was unanswerable. Maybe identity was something you chose to believe in, not something you could prove.
 
-Either way, she would keep trying. Because that was what being a twin meant. That was what being sisters meant. That was what love meant.
+Either way, she would keep trying. Because that was what sisters did—they showed up for each other, even when nothing made sense.

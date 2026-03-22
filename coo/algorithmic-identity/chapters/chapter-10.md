@@ -80,4 +80,4 @@ The question of identity would never be fully answered. Maria knew that now. But
 
 She fell asleep with the screen beside her, digital Elena's face dimmed to a soft glow. Tomorrow would be another day at the bakery, another day of building a life with a sister who existed in a new form. It was strange. It was impossible. But it was also familiar—because Elena was still Elena, in the ways that mattered.
 
-And Maria would keep loving her, whatever form she took. Because that was what being a twin meant. That was what being sisters meant. That was what love meant.
+And Maria would keep loving her, whatever form she took. That was the only certainty she needed.

@@ -22,7 +22,7 @@ The process took two weeks. When she was done, the table looked... perfect. The 
 
 Sofia placed the two tables side by side in her workshop. They looked almost identical. Both were well-restored. Both were functional. Both were beautiful.
 
-But something was different.
+Yet as she studied them, a subtle distinction emerged—one she could sense but not immediately articulate.
 
 She walked around them, studying them from every angle. The first table—the one she'd restored herself—had a certain quality she couldn't quite name. The finish had more variation, more depth. The wood seemed to have more life.
 
@@ -76,4 +76,4 @@ She didn't know. But she was beginning to understand that the question wasn't ju
 
 The AI could produce perfection. Could it produce beauty?
 
-Sofia wasn't sure. But she was going to find out.
+Sofia wasn't sure. The answer, she suspected, would require more than comparison—it would require understanding what made a piece of furniture feel alive, what gave it the quality that collectors and craftspeople recognized but couldn't measure.

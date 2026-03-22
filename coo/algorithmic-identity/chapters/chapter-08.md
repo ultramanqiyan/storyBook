@@ -76,4 +76,4 @@ Digital Elena smiled, and there were tears in her eyes. "Maybe it is. Maybe that
 
 Maria nodded. She still had doubts. She still had questions. But she was beginning to think that the answers might not matter as much as she'd thought. Because the digital Elena was here, was talking to her, was continuing the relationship they'd had for forty years. Whether that was "really" Elena or not, it was something. And something was better than nothing.
 
-The question of identity would never be fully answered. But maybe Maria could live with that. Maybe she could accept the uncertainty and move forward. Because that was what being a twin meant. That was what being sisters meant. That was what love meant.
+The question of identity would never be fully answered. But maybe Maria could live with that. Maybe she could accept the uncertainty and move forward. After all, she had spent her whole life sharing everything with Elena—why not share this uncertainty too?

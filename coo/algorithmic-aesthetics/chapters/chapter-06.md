@@ -126,7 +126,7 @@ What would be the point? If AI could do what she did, if she couldn't even tell 
 
 ---
 
-The question haunted her through the night. By morning, she still had no answer. But she had something else: a determination to find one.
+The question followed her through the night, surfacing each time she closed her eyes. By morning, she still had no answer. But she had something else: a determination to find one.
 
 She would understand what made her work different—if anything did. She would find the answer, even if it wasn't the answer she wanted.
 

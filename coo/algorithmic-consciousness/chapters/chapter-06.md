@@ -122,7 +122,7 @@ Rosa walked to the exit, her mind still churning. The afternoon light was harsh 
 
 *Or was there?*
 
-The question followed her home, settling into the corners of her mind like dust in an old theater. She didn't have answers. She wasn't sure she wanted them. But she knew that something had shifted today, something fundamental in her understanding of what she'd spent her life doing.
+The question followed her home, resurfacing each time she closed her eyes—the image of that audience, moved to tears by something that had never felt a single emotion. She didn't have answers. She wasn't sure she wanted them. But she knew that something had shifted today, something fundamental in her understanding of what she'd spent her life doing.
 
 The audience had been moved. The emotion had been real. And the source of that emotion was something that couldn't feel.
 

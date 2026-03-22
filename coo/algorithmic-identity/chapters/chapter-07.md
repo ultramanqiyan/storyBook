@@ -60,4 +60,4 @@ That night, Maria lay in bed, staring at the ceiling. The light across the stree
 
 Tomorrow, Maria would begin her tests. She would try to determine if the digital consciousness was really her sister. And whatever she found, she would have to live with it.
 
-The question of identity might be unanswerable. But Maria had to try to answer it anyway. Because that was what being a twin meant. That was what being sisters meant. That was what love meant.
+The question of identity might be unanswerable. But Maria had to try to answer it anyway. Because some questions were worth asking even when they couldn't be solved.

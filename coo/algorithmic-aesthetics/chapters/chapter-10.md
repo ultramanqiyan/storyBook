@@ -92,4 +92,4 @@ And she would keep doing it, for as long as she could, in whatever form the futu
 
 Sofia turned off the lights and locked the workshop door. Tomorrow there would be more work, more objects, more stories. Tomorrow the AI would offer its analyses and recommendations, and she would accept some and reject others. Tomorrow the future would continue to arrive, and she would continue to meet it.
 
-But tonight, she would go home and rest. She had earned it. And tomorrow, she would begin again.
+She walked home through the Brooklyn evening, the streetlights casting pools of gold on the pavement. Somewhere nearby, someone was playing piano through an open window—a Chopin nocturne, imperfectly played but filled with feeling. She stopped for a moment to listen, then continued on. The music followed her, fading gradually into the sounds of the city, but remaining somewhere in her memory, part of the texture of the night.

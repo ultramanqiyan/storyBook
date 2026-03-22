@@ -42,7 +42,7 @@ But did the wood have a memory? Or was that just poetry? Was she just projecting
 
 ---
 
-Sofia checked out a stack of books and drove home, her mind still churning. She spent the evening reading, taking notes, trying to find an answer to the question that haunted her.
+Sofia checked out a stack of books and drove home, her mind still churning. She spent the evening reading, taking notes, trying to find an answer to the question that lingered at the edge of every thought.
 
 What made something authentic? What gave something soul? What was the difference between craft and production?
 

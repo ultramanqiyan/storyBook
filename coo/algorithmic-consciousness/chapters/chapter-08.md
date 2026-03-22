@@ -124,7 +124,7 @@ Rosa left Nexus AI with something she hadn't expected: not an answer, but an acc
 
 The question of whether ARIA-7 felt was unanswerable—not because the technology wasn't advanced enough, but because the question itself was unanswerable for humans too. She couldn't prove her own feelings were real any more than ARIA-7 could. She couldn't verify that her emotional experiences were anything more than patterns firing in her brain, producing outputs that looked and felt like feeling.
 
-The mystery wasn't a bug. It was the point.
+The mystery wasn't something to be solved. It was something to be lived with.
 
 And somehow, that was okay.
 
