@@ -99,7 +99,3 @@ Marcus smiled. The forest had answered.
 "Then let's prepare," Marcus said. "Show me what else the forest can do."
 
 The mist swirled around him, and Marcus Webb began to learn the secrets of the trees.
-
----
-
-**Chapter 3 Complete**

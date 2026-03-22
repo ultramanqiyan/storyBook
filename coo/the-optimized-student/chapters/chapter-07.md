@@ -58,7 +58,7 @@ Mr. Chen sighed, his expression heavy. "It started with good intentions. The sys
 
 "But we lost something along the way. We optimized for outcomes, not for understanding. We taught students to absorb information, not to think critically. We created a generation of perfect test-takers who couldn't actually learn."
 
-The words hit me like a physical blow. I was that generation. I was the perfect test-taker who couldn't actually learn.
+The words landed with devastating clarity. I was that generation. I was the perfect test-taker who couldn't actually learn.
 
 ---
 

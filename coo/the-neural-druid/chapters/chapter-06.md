@@ -91,7 +91,3 @@ Elara looked at the forest, at the ancient trees that had been waiting for someo
 She turned and walked toward the road, feeling the forest's attention on her back. The trees seemed to lean toward her as she passed, their branches brushing against her shoulders like hands reaching out in farewell.
 
 She had a long drive ahead of her, and a dangerous game to play.
-
----
-
-**Chapter 6 Complete**

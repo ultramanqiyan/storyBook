@@ -107,7 +107,3 @@ Elara looked at the six people standing around her, their faces lit by the soft 
 *"Then close your eyes,"* NEURAL said. *"And let the Green in."*
 
 She closed her eyes, and the forest embraced her.
-
----
-
-**Chapter 8 Complete**

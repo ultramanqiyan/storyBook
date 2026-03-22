@@ -97,7 +97,3 @@ Elara thought of the seed, of the presence she had touched, of the promise she h
 Elara looked at the forest, at the ancient trees that had been waiting for someone to remember them. She thought of her grandmother, of the heritage she had finally accepted.
 
 "Then let's begin," she said. "I have a lot to learn."
-
----
-
-**Chapter 5 Complete**

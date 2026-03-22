@@ -64,7 +64,7 @@ Zoe was quiet for a moment. "That's not true," she said finally. "You know chemi
 
 "That's the difference," Zoe said gently. "Between learning and absorbing. The system made you think you knew things. But you didn't. You just had access to them."
 
-The words hit me like a physical blow. I had spent years believing I was educated, that I was learning, that I was becoming smarter. But I wasn't. I was just a vessel for AI-generated information, a processor of optimized inputs.
+The words struck with unexpected force. I had spent years believing I was educated, that I was learning, that I was becoming smarter. But I wasn't. I was just a vessel for AI-generated information, a processor of optimized inputs.
 
 "I don't know how to fix it," I admitted, my voice small. "I don't know how to actually learn."
 

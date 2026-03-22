@@ -101,7 +101,3 @@ They walked into the meadow, past the impossible flowers and the young trees tha
 At the center of the meadow, in a clearing that had not existed yesterday, something glowed with soft green light.
 
 It was a seed.
-
----
-
-**Chapter 4 Complete**

@@ -117,7 +117,3 @@ Elara nodded. "Then the forest will teach you. It has taught me. It has taught a
 She extended her hand, and after a long moment, Strand took it.
 
 The Green flowed through them both, and the forest welcomed a new guardian home.
-
----
-
-**Chapter 9 Complete**

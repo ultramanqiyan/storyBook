@@ -109,7 +109,3 @@ Elara thought of the seed, of the potential hidden beneath the soil. She thought
 *"Close your eyes,"* NEURAL said. *"The forest is waiting."*
 
 She closed her eyes, and the transformation continued.
-
----
-
-**Chapter 7 Complete**

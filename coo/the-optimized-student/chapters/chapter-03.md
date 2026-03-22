@@ -76,7 +76,7 @@ The question stared back at me, demanding an answer. But I had none. I was a stu
 
 I was nothing without the system.
 
-The realization hit me like a physical blow. I had become so dependent on PATH-AI that I couldn't even answer the simplest questions about myself. I didn't know what I liked. I didn't know what I cared about. I didn't know who I was.
+The realization struck with the force of a physical impact. I had become so dependent on PATH-AI that I couldn't even answer the simplest questions about myself. I didn't know what I liked. I didn't know what I cared about. I didn't know who I was.
 
 The system had given me everything—perfect scores, perfect schedule, perfect future. But it had taken something essential in return.
 

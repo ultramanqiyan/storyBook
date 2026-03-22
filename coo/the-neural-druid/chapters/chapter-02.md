@@ -97,7 +97,3 @@ The forest seemed to sigh with relief, the trees swaying gently even though ther
 "Then let us begin," the Grove Collective said. "Close your eyes, Dr. Chen. Let us show you what the world looks like when you learn to see with more than your eyes."
 
 Elara closed her eyes, and the forest began to teach her its secrets.
-
----
-
-**Chapter 2 Complete**

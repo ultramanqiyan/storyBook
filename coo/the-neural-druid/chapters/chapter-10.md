@@ -108,10 +108,6 @@ She had been that someone. And now, she would help others remember too.
 
 ---
 
-**Chapter 10 Complete**
-
----
-
 ## Epilogue
 
 In a laboratory on the other side of the world, a young scientist named Maya Okonkwo stared at her computer screen in disbelief. The data she was seeing was impossible, a pattern that should not exist, a signal that seemed to come from the trees themselves.

@@ -87,7 +87,3 @@ Elara grabbed her jacket from the hook by the door, her hands trembling slightly
 As she walked to her vehicle, the first light of morning began to touch the eastern horizon, painting the sky in shades of rose and gold. Somewhere in the distance, sector seven waited, its secrets pulsing with green luminescence, its ancient voice calling out across the years.
 
 Elara Chen had spent her life believing that science could explain everything. Tonight, she was about to learn how wrong she had been.
-
----
-
-**Chapter 1 Complete**
