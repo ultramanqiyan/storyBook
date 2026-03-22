@@ -4,6 +4,10 @@ The alarm bells shattered the morning calm, their urgent tones echoing through t
 
 *Emergency: Marcus has breached the Restricted Archive. He is attempting to access the core generation functions.*
 
+Three days earlier, the guards at the secure healing facility had reported a disturbance—Marcus had seemed to recover suddenly, his magical capacity surging beyond what should have been possible. He had walked out through walls that should have contained him, bypassing every ward and barrier as if they were made of paper. The healers had no explanation. But Kira suspected the forbidden knowledge he had absorbed was not entirely gone—it had simply gone dormant, waiting for the right moment to reassert itself.
+
+Now, whatever darkness he carried had awakened.
+
 She found him in the deepest chamber, surrounded by texts that glowed with forbidden light. But he had changed—his body gaunt, his eyes burning with unnatural intensity, his skin marked with symbols that pulsed in rhythm with his heartbeat.
 
 "Kira." His voice resonated strangely, as if multiple versions of him were speaking simultaneously. "I knew you'd come."

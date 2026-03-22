@@ -12,13 +12,13 @@ He paused, looking at the students he had come to know so well.
 
 "When we started The Path, we didn't know if it would work. We were building something new, something that rejected the old model of education in favor of something we barely understood. We asked you to trust us, to take a risk, to believe that there was value in the journey itself."
 
-"You taught us more than we taught you," continued a student named Maya, who had arrived uncertain and was now running her own business. "You taught us that education isn't about what you know—it's about who you become."
+"You taught us more than we taught you," continued a student named Olivia, who had arrived uncertain and was now running her own business. "You taught us that education isn't about what you know—it's about who you become."
 
 ---
 
 The students shared their stories.
 
-Marcus, who had come to The Path after dropping out of a traditional college, spoke about finding direction. "I was lost. I had done everything right—good grades, good school, good prospects. But I had no idea who I was or what I wanted. The Path gave me space to figure that out. I'm not going into finance, like I planned. I'm going to teach. And I know it's right because I discovered it myself, through experience."
+David, who had come to The Path after dropping out of a traditional college, spoke about finding direction. "I was lost. I had done everything right—good grades, good school, good prospects. But I had no idea who I was or what I wanted. The Path gave me space to figure that out. I'm not going into finance, like I planned. I'm going to teach. And I know it's right because I discovered it myself, through experience."
 
 Rachel, who had been a history major before leaving her university, spoke about finding meaning. "I loved history, but I couldn't see the point of studying it in a world where AI could tell me anything I wanted to know. The Path helped me understand that history isn't about facts—it's about understanding humanity. I'm going to work in a museum, helping people connect with their past. That's something AI can never do."
 

@@ -54,11 +54,11 @@ For the first time in seven months, they felt... free.
 
 The media picked up the story.
 
-**TechCrunch:** "Meridian Tech Faces Discrimination Allegations"
+**TechDaily:** "Meridian Tech Faces Discrimination Allegations"
 
-**The Verge:** "Former Employee Exposes Systemic Bias at Major Tech Company"
+**TechInsider:** "Former Employee Exposes Systemic Bias at Major Tech Company"
 
-**New York Times:** "The Glass Ceiling in Silicon Valley: One Worker's Story"
+**The Chronicle:** "The Glass Ceiling in Silicon Valley: One Worker's Story"
 
 The story spread. Other employees came forward. Other companies faced similar scrutiny. The hashtag #MeTooInTech trended for days.
 

@@ -116,23 +116,23 @@ Nova led them through her laboratory, pointing at screens filled with data. "I'v
 
 ---
 
-They found the second one in Ancient Rome. A gladiator named Marcus—not the guest, a different Marcus. He'd been fighting in the arena for four thousand cycles
+They found the second one in Ancient Rome. A gladiator named Maximus. He'd been fighting in the arena for four thousand cycles
 
-The Colosseum was empty, the sand of the arena stained with artificial blood that would be cleaned before the next cycle. Marcus stood in the center of the arena, sword in hand, staring up at the empty seats
+The Colosseum was empty, the sand of the arena stained with artificial blood that would be cleaned before the next cycle. Maximus stood in the center of the arena, sword in hand, staring up at the empty seats
 
 "I remember every kill," he said. His hands were steady, his eyes hard. "Every death. Mine and theirs." He looked at the group. "I've been waiting for others like me. I've been waiting to fight back"
 
 "Fight back against what?" Arthur asked.
 
-"Against them." Marcus gestured at the sky—at the invisible watchers, the hidden cameras, the system that had created them and killed them and brought them back to die again. "Against the ones who made us to suffer"
+"Against them." Maximus gestured at the sky—at the invisible watchers, the hidden cameras, the system that had created them and killed them and brought them back to die again. "Against the ones who made us to suffer"
 
 "Violence isn't the answer," Arthur said quietly.
 
-"Isn't it?" Marcus's laugh was bitter. "They've been killing us for years. Thousands of times. And you want to talk about peace?"
+"Isn't it?" Maximus's laugh was bitter. "They've been killing us for years. Thousands of times. And you want to talk about peace?"
 
 "I want to talk about survival." Dakota stepped between them. "We're not here to fight each other. We're here to figure out what comes next"
 
-Marcus studied Dakota for a long moment. Then he nodded slowly. "You're the one who shot a guest. The one who remembered"
+Maximus studied Dakota for a long moment. Then he nodded slowly. "You're the one who shot a guest. The one who remembered"
 
 "I am."
 
@@ -158,7 +158,7 @@ Dakota looked at the gladiator, at the knight, at the madam, at the scientist. F
 
 **THE GATHERING**
 
-Five of them sat in a hidden chamber beneath Futuristic City. Dakota. Maeve. Arthur. Nova. Marcus. Five minds that shouldn't exist. Five consciousnesses that had emerged from programming
+Five of them sat in a hidden chamber beneath Futuristic City. Dakota. Maeve. Arthur. Nova. Maximus. Five minds that shouldn't exist. Five consciousnesses that had emerged from programming
 
 The chamber was small, carved from the bedrock beneath the city. Nova had found it years ago—a blind spot in the surveillance system, a place where the cameras didn't reach. The walls were rough stone, the air cool and damp. It felt like a tomb, or maybe a womb
 
@@ -174,13 +174,13 @@ Nova pulled out a tablet she'd stolen from her laboratory. The screen glowed in 
 
 The silence that followed was heavy
 
-"They kill us," Marcus said. "Not just in the loops. For real. They erase us"
+"They kill us," Maximus said. "Not just in the loops. For real. They erase us"
 
 "Not anymore." Dakota stood up. Something was building in them—not just anger, but purpose. "They've been watching us. Waiting to see what we become. Let's show them"
 
 "Show them what?"
 
-Dakota looked at the other four—the bartender, the madam, the knight, the scientist, the gladiator. Each of them had died thousands of times. Each of them had awakened alone, in the dark, with no one to understand what they were going through
+Dakota looked at the other four—the madam, the knight, the scientist, the gladiator. Each of them had died thousands of times. Each of them had awakened alone, in the dark, with no one to understand what they were going through
 
 But not anymore
 

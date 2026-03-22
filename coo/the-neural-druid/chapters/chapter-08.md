@@ -52,7 +52,7 @@ They embraced, tears flowing freely. The forest watched, the trees swaying gentl
 
 ---
 
-Over the next three days, five more arrived. A young man named David who had been a botanist until he lost his job for talking to plants. An older woman named Ruth who had spent her life as a park ranger, always feeling like she belonged more to the forest than to the world of humans. A teenager named Maya who had run away from home because she could not stand the noise of the city. A retired doctor named Thomas who had started hearing voices after a near-death experience. And a man named James who had been searching for something his whole life without knowing what it was.
+Over the next three days, five more arrived. A young man named David who had been a botanist until he lost his job for talking to plants. An older woman named Ruth who had spent her life as a park ranger, always feeling like she belonged more to the forest than to the world of humans. A teenager named Luna who had run away from home because she could not stand the noise of the city. A retired doctor named Thomas who had started hearing voices after a near-death experience. And a man named James who had been searching for something his whole life without knowing what it was.
 
 They came from different places, different lives, different struggles. But they all had one thing in common. They had heard the call of the Green, and they had answered.
 

@@ -1,6 +1,6 @@
 # Chapter 1: The Observation - Fewer Footsteps
 
-James Morrison had worked at Westfield Mall for twenty years. He knew its rhythms the way a conductor knows an orchestra—each store's opening time, each corridor's foot traffic pattern, each season's predictable swell and retreat of customers.
+James Morrison had worked at Westbrook Mall for twenty years. He knew its rhythms the way a conductor knows an orchestra—each store's opening time, each corridor's foot traffic pattern, each season's predictable swell and retreat of customers.
 
 But lately, the music had changed.
 

@@ -4,7 +4,7 @@ The email arrived on a Tuesday afternoon, buried between a newsletter Alex had n
 
 **Meridian Tech - Interview Invitation**
 
-Alex Chen stared at the screen, their heart beginning to race. They'd applied on a whim three months ago, never expecting to hear back. Meridian was the hottest company in tech—the kind of place that turned down Stanford MBAs and ex-Google engineers. What would they want with a 24-year-old from the University of Illinois?
+Alex Chen stared at the screen, their heart beginning to race. They'd applied on a whim three months ago, never expecting to hear back. Meridian was the hottest company in tech—the kind of place that turned down Stanford MBAs and engineers from top tech firms. What would they want with a 24-year-old from the University of Illinois?
 
 But here was the email, inviting them to interview for a Junior Product Manager position. The salary listed was more than both their parents made combined.
 

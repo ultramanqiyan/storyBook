@@ -6,7 +6,7 @@ I had spent the night thinking about Mrs. Patterson's question. What was I passi
 
 I found the yearbook section in the back corner of the library, dusty and forgotten. Most students didn't bother with physical books anymore—everything was digital, optimized, searchable. But I wanted to see the actual pages, the actual evidence of who I had been.
 
-I pulled a yearbook from 2030—my first year of high school, the year before PATH-AI became standard. The cover was worn, the pages yellowed with age. I opened it to a random page and began to read.
+I pulled a yearbook from 2027—my first year of high school, the year before PATH-AI became standard. The cover was worn, the pages yellowed with age. I opened it to a random page and began to read.
 
 ---
 

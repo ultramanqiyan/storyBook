@@ -128,32 +128,4 @@ Lyra stirred beside her.
 
 And for the first time in longer than she could remember, she felt something like peace.
 
----
-
-But even as she rested, she could feel it—the weight of the seal, pressing against the back of her mind. The Hollow King was still there, still waiting, still dreaming of freedom.
-
-*This is not over*, he whispered from the darkness. *I have waited a thousand years. I can wait a thousand more.*
-
-Elara closed her eyes.
-
-*Then wait*, she thought. *We'll be here. Holding the door. For as long as it takes.*
-
-And somewhere in the darkness, the Hollow King laughed softly, waiting for the day when one of them would forget.
-
-But that day was not today.
-
-Today, they had won.
-
----
-
-The world came back in pieces.
-
-First the cold stone floor beneath her knees, then the sound of ORACLE's steady hum, then the weight of a hand in hers. Lyra's hand. Elara looked at her sister—at the face she couldn't quite remember but knew she loved—and felt both joy and grief twist together in her chest.
-
-"Are you okay?" Lyra asked.
-
-Elara considered the question. She had lost so much—her memories, her certainty, her sense of who she was. But she had gained something too: a purpose, a sister, and a strange new understanding of time and love.
-
-"No," she said honestly. "But I will be."
-
-And somehow, that was enough.
+** 9**

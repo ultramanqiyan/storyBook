@@ -1,6 +1,6 @@
 # Chapter 1: The Inheritance - When AI Becomes Your Burden
 
-The alarm hadn't finished its first chime before Sarah's hand found her phone. By the time her eyes adjusted to the blue-white glow, she'd already scanned seventeen notifications, three urgent emails, and a Slack message that made her stomach tighten. Another day, already behind. The screen was the first light she saw each morning, and the last each night. In between, there was just... more.
+The alarm hadn't finished its first chime before Sarah's hand found her phone. By the time her eyes adjusted to the blue-white glow, she'd already scanned seventeen notifications, three urgent emails, and a WorkChat message that made her stomach tighten. Another day, already behind. The screen was the first light she saw each morning, and the last each night. In between, there was just... more.
 
 She lay there for a moment, thumb hovering over the notification stack, her chest already tight with the familiar weight of everything she needed to do. The list existed somewhere—in her notes app, in her calendar, in the endless stream of messages—but she didn't need to see it to feel it. It lived in her body now. In the tension between her shoulders. In the shallow way she breathed before she even got out of bed.
 
@@ -44,7 +44,7 @@ She downloaded the attachment, glanced at the clock, and realized it was already
 
 The apartment was dark when she arrived, just as she'd left it that morning. She stood in the doorway for a moment, keys still in hand, taking in the silence. This was the hardest part of the day—the transition from the noise of work to the quiet of home, the moment when all the things she'd been running from caught up with her.
 
-She dropped her keys on the counter, dropped her bag on the floor, and stood there, not moving, not thinking, just existing in the space between one thing and the next. Her phone buzzed in her pocket. She ignored it. It buzzed again. She pulled it out, glanced at the notification—a Slack message she didn't need to see—and put it face-down on the counter.
+She dropped her keys on the counter, dropped her bag on the floor, and stood there, not moving, not thinking, just existing in the space between one thing and the next. Her phone buzzed in her pocket. She ignored it. It buzzed again. She pulled it out, glanced at the notification—a WorkChat message she didn't need to see—and put it face-down on the counter.
 
 The email. She should deal with the email.
 

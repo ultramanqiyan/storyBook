@@ -118,7 +118,7 @@ He walked to the exit, the automatic doors sliding open to the night air.
 
 The parking lot had cars in it now. Not thousands, like before. But dozens. Enough to show that people had come. Enough to prove that the space mattered.
 
-He looked up at the building, its lights glowing against the dark sky. The sign still said "Westfield Mall," but that name didn't fit anymore. This wasn't a mall. It was something else. A place where people came not to buy, but to be.
+He looked up at the building, its lights glowing against the dark sky. The sign still said "Westbrook Mall," but that name didn't fit anymore. This wasn't a mall. It was something else. A place where people came not to buy, but to be.
 
 He pulled out his phone and typed one final note:
 

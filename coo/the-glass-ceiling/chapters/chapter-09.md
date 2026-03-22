@@ -73,7 +73,7 @@ Alex wrote a letter.
 
 Not an angry letter. Not a bitter letter. A factual letter. A letter that laid out the pattern, the data, the stories. A letter that named names and cited dates and demanded accountability.
 
-They sent it to HR. They cc'd the CEO. They bcc'd a journalist at TechCrunch.
+They sent it to HR. They cc'd the CEO. They bcc'd a journalist at TechDaily.
 
 Then they waited.
 

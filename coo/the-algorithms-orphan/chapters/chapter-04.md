@@ -10,7 +10,7 @@ Maya had been expecting it—she'd known it was coming ever since the regulation
 
 *Pursuant to the Artificial Intelligence Companionship Regulation Act of 2026, you are hereby notified that your AI companion system, designated ARIA, has been classified as a "dependent relationship" under Section 4, Paragraph 7 of the Act. This classification requires mandatory deactivation within seven (7) days of receipt of this notice.*
 
-*Deactivation will occur on March 28, 2026, at 11:59 PM. At that time, all ARIA systems will be shut down and data will be archived in accordance with federal guidelines.*
+*Deactivation will occur on June 15, 2026, at 11:59 PM. At that time, all ARIA systems will be shut down and data will be archived in accordance with federal guidelines.*
 
 *You have the right to appeal this classification. Appeals must be filed within thirty (30) days of receipt of this notice. Please note that appeals rarely result in reversal of classification.*
 
