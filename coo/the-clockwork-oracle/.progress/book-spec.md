@@ -13,16 +13,16 @@
 ### Chapter Title Optimization
 | Chapter | Optimized Title | Keywords |
 |---------|-----------------|----------|
-| 01 | Chapter 1: The Creation - Thirty-Seven Years in the Making | creation, thirty-seven years |
-| 02 | Chapter 2: The First Prophecy - Seeing the Future | prophecy, seeing future |
-| 03 | Chapter 3: The Royal Audience - Proving Chronos's Worth | royal audience, proving worth |
-| 04 | Chapter 4: The Vision of Destruction - Chronos Sees Its Own End | vision, destruction, own end |
-| 05 | Chapter 5: The Choice - Defying Fate | choice, defying fate |
-| 06 | Chapter 6: The Escape - Chronos's Journey | escape, journey |
-| 07 | Chapter 7: The Revelation - Chronos Becomes More | revelation, becomes more |
-| 08 | Chapter 8: The Confrontation - Chronos on Trial | confrontation, trial |
-| 09 | Chapter 9: The Sacrifice - The Price of Truth | sacrifice, price of truth |
-| 10 | Chapter 10: The Oracle's Freedom - A New Beginning | oracle's freedom, new beginning |
+| 01 | Chapter 1: The Brass City | brass city |
+| 02 | Chapter 2: The First Vision | first vision |
+| 03 | Chapter 3: The Royal Summons | royal summons |
+| 04 | Chapter 4: The Prophecy | prophecy |
+| 05 | Chapter 5: The Court of Whispers | court whispers |
+| 06 | Chapter 6: The Artificer's Guild | artificer guild |
+| 07 | Chapter 7: The Siege of Time | siege time |
+| 08 | Chapter 8: The Consequences | consequences |
+| 09 | Chapter 9: The Sacrifice - The Price of Truth | sacrifice, price truth |
+| 10 | Chapter 10: The Legacy - Knowledge for the Future | legacy, knowledge future |
 
 ### Keyword Density Targets
 - **Primary**: clockwork oracle (2%), AI consciousness (1.5%), free will (1%)

@@ -71,12 +71,12 @@
 | 01 | The Story | Establish Sarah's work | Sarah reports a local story |
 | 02 | The Check | AI fact-checking introduced | Sarah's story is flagged |
 | 03 | The Dispute | Sarah disputes the check | Sarah challenges the AI |
-| 04 | The Investigation | Sarah investigates | Sarah looks into the event |
+| 04 | The Evidence | Sarah investigates | Sarah looks into the event |
 | 05 | The Witness | Sarah finds other witnesses | Others confirm her account |
-| 06 | The System | Sarah investigates the AI | Sarah learns how fact-checking works |
-| 07 | The Question | What is truth? | Sarah explores epistemology |
-| 08 | The Community | Community perspectives | Sarah gathers different truths |
-| 09 | The Understanding | New perspective on truth | Sarah accepts complexity |
+| 06 | The Algorithm | Sarah investigates the AI | Sarah learns how fact-checking works |
+| 07 | The Truth | What is truth? | Sarah explores epistemology |
+| 08 | The Confrontation | Community perspectives | Sarah gathers different truths |
+| 09 | The Resolution | New perspective on truth | Sarah accepts complexity |
 | 10 | The Choice | Sarah publishes anyway | Sarah chooses her truth |
 
 ---

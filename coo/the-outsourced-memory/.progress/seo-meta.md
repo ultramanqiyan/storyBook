@@ -135,7 +135,7 @@ Mike encounters his first memory gap when a client asks about a neighborhood he 
 
 ---
 
-### Chapter 5: The Perfect System
+### Chapter 5: The Distance
 
 **Keywords:**
 - peak AI dependency
@@ -145,7 +145,7 @@ Mike encounters his first memory gap when a client asks about a neighborhood he 
 - professional identity crisis
 
 **Meta Title:**
-Chapter 5: The Perfect System - Total Dependence
+Chapter 5: The Distance - Total Dependence
 
 **Meta Description:**
 Mike defers to AI on every decision. His wife notices he's different. The system works perfectly, until it doesn't.
@@ -155,7 +155,7 @@ Mike reaches peak dependency on HomeMatch AI, deferring all decisions to the alg
 
 ---
 
-### Chapter 6: The Wrong Number
+### Chapter 6: The Error
 
 **Keywords:**
 - AI error
@@ -165,7 +165,7 @@ Mike reaches peak dependency on HomeMatch AI, deferring all decisions to the alg
 - professional failure
 
 **Meta Title:**
-Chapter 6: The Wrong Number - When AI Gets It Wrong
+Chapter 6: The Error - When AI Gets It Wrong
 
 **Meta Description:**
 HomeMatch misvalues a house, and Mike doesn't notice. He's lost the ability to catch AI mistakes because he's lost his own judgment.
@@ -175,7 +175,7 @@ A critical AI error reveals Mike's cognitive atrophy. HomeMatch misvalues a prop
 
 ---
 
-### Chapter 7: The Empty Walk
+### Chapter 7: The Empty Memory
 
 **Keywords:**
 - sensory recovery
@@ -185,7 +185,7 @@ A critical AI error reveals Mike's cognitive atrophy. HomeMatch misvalues a prop
 - body memory
 
 **Meta Title:**
-Chapter 7: The Empty Walk - Trying to Remember
+Chapter 7: The Empty Memory - Trying to Remember
 
 **Meta Description:**
 Mike walks a neighborhood for the first time in months, trying to reawaken his senses. What he finds is silence where knowledge used to be.
@@ -195,7 +195,7 @@ Mike attempts to re-engage his embodied knowledge by walking a neighborhood with
 
 ---
 
-### Chapter 8: The Imitation
+### Chapter 8: The Outsourced Self
 
 **Keywords:**
 - AI mimicry
@@ -205,7 +205,7 @@ Mike attempts to re-engage his embodied knowledge by walking a neighborhood with
 - existential questioning
 
 **Meta Title:**
-Chapter 8: The Imitation - When AI Becomes You
+Chapter 8: The Outsourced Self - When AI Becomes You
 
 **Meta Description:**
 A client can't tell the difference between Mike's real email and an AI-generated one. If AI can be more Mike than Mike, who is Mike?
@@ -215,7 +215,7 @@ Mike discovers AI can perfectly mimic his professional style. When clients can't
 
 ---
 
-### Chapter 9: The Question
+### Chapter 9: The Choice
 
 **Keywords:**
 - philosophical reflection
@@ -225,7 +225,7 @@ Mike discovers AI can perfectly mimic his professional style. When clients can't
 - personal choice
 
 **Meta Title:**
-Chapter 9: The Question - Who Chose This?
+Chapter 9: The Choice - Who Chose This?
 
 **Meta Description:**
 Mike confronts the real question: the problem isn't AI, it's his own choices. But what does it mean to choose when AI is always better?
@@ -235,7 +235,7 @@ Mike has a deep conversation with Susan, realizing the problem isn't AI itself b
 
 ---
 
-### Chapter 10: The First Step
+### Chapter 10: The Remembering
 
 **Keywords:**
 - reclaiming agency
@@ -245,7 +245,7 @@ Mike has a deep conversation with Susan, realizing the problem isn't AI itself b
 - philosophical conclusion
 
 **Meta Title:**
-Chapter 10: The First Step - Choosing to Choose
+Chapter 10: The Remembering - Choosing to Choose
 
 **Meta Description:**
 Mike walks into a house without checking HomeMatch first. A small step toward reclaiming his senses, or a step toward irrelevance? The question remains open.

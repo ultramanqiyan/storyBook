@@ -32,16 +32,16 @@
 ### 2.2 Chapter Title Optimization
 | Chapter | Optimized Title | Keywords Included | SEO Purpose |
 |---------|-----------------|-------------------|-------------|
-| 01 | Chapter 1: The Equation - Magic in the Math | equation, magic math | Hook with paradox |
-| 02 | Chapter 2: The Discovery - Physics Meets Sorcery | discovery, physics sorcery | Core concept |
-| 03 | Chapter 3: The Coven - Scientists Who Spell | coven, scientists spell | Community angle |
-| 04 | Chapter 4: The Training - Learning Quantum Sorcery | training, quantum sorcery | Action keywords |
-| 05 | Chapter 5: The Threat - Reality Unraveling | threat, reality unraveling | Suspense build |
-| 06 | Chapter 6: The Experiment - Magic in the Lab | experiment, magic lab | Science SEO |
-| 07 | Chapter 7: The Breakthrough - Entanglement as Enchantment | breakthrough, entanglement | Technical depth |
-| 08 | Chapter 8: The Battle - Science vs Magic Foes | battle, science magic | Action climax |
-| 09 | Chapter 9: The Unity - Both Worlds Saved | unity, both worlds | Resolution hope |
-| 10 | Chapter 10: The Future - Quantum Witch Rises | future, quantum witch | New beginning |
+| 01 | Chapter 1: The Impossible Outcome | impossible, outcome | Hook with paradox |
+| 02 | Chapter 2: The Threads of Fate | threads, fate | Core concept |
+| 03 | Chapter 3: The Grandmother's Secret | grandmother, secret | Mystery angle |
+| 04 | Chapter 4: The Fate Weavers | fate, weavers | Action keywords |
+| 05 | Chapter 5: The Probability Storm | probability, storm | Suspense build |
+| 06 | Chapter 6: The Choice - Freedom or Family? | choice, freedom, family | Emotional SEO |
+| 07 | Chapter 7: The Training - Hidden Truth | training, hidden truth | Development depth |
+| 08 | Chapter 8: The Crisis - New Dawn | crisis, new dawn | Turning point |
+| 09 | Chapter 9: The Confrontation - Critical Moment | confrontation, critical | Climax build |
+| 10 | Chapter 10: The Quantum Witch | quantum witch | Title resonance |
 
 ---
 

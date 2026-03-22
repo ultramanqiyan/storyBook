@@ -69,8 +69,8 @@
 | Chapter | Title | Purpose | Key Events |
 |---------|-------|---------|------------|
 | 01 | The Dispute | Establish Dot's expertise | Dot mediates a neighborhood dispute |
-| 02 | The System | Introduce AI mediation tool | Town adopts IntentPredict AI |
-| 03 | The Test | Dot tries the AI | Dot tests the AI on a case |
+| 02 | The Introduction | Introduce AI mediation tool | Town adopts IntentPredict AI |
+| 03 | The Prediction | Dot tries the AI | Dot tests the AI on a case |
 | 04 | The Accuracy | AI proves accurate | AI predicts outcomes correctly |
 | 05 | The Question | AI reveals hidden intent | AI shows what people really want |
 | 06 | The Conflict | Dot questions the tool | Can AI know intent better than people? |

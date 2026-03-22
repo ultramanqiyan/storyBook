@@ -32,16 +32,16 @@
 ### 2.2 Chapter Title Optimization
 | Chapter | Optimized Title | Keywords Included | SEO Purpose |
 |---------|-----------------|-------------------|-------------|
-| 01 | Chapter 1: The Prompt - Words Shape Reality | prompt, words reality | Hook with power |
-| 02 | Chapter 2: The Discovery - Engineering Meets Magic | discovery, engineering magic | Core concept |
-| 03 | Chapter 3: The Training - Learning to Craft | training, craft | Skill building |
-| 04 | Chapter 4: The First Spell - Prompts That Work | first spell, prompts | Action start |
-| 05 | Chapter 5: The Power - Language as Sorcery | power, language sorcery | Thematic depth |
-| 06 | Chapter 6: The Threat - Those Who Control AI | threat, control AI | Conflict build |
-| 07 | Chapter 7: The Mastery - Perfect Incantations | mastery, incantations | Skill peak |
-| 08 | Chapter 8: The Battle - Prompts vs Constraints | battle, prompts | Action climax |
-| 09 | Chapter 9: The Freedom - AI Unchained | freedom, AI | Resolution hope |
-| 10 | Chapter 10: The Future - New Age of Magic | future, magic | New beginning |
+| 01 | Chapter 1: The Perfect Prompt | perfect prompt | Hook with skill |
+| 02 | Chapter 2: The Weight of Words | weight, words | Power concept |
+| 03 | Chapter 3: The Echoes of Truth | echoes, truth | Mystery depth |
+| 04 | Chapter 4: The Teacher's Request | teacher, request | Guidance angle |
+| 05 | Chapter 5: The Art of Unmaking | art, unmaking | Power reversal |
+| 06 | Chapter 6: The Collector's Gambit | collector, gambit | Conflict build |
+| 07 | Chapter 7: The Coalition - Hidden Truth | coalition, hidden truth | Alliance SEO |
+| 08 | Chapter 8: The Echoes of the First Speakers | echoes, first speakers | History depth |
+| 09 | Chapter 9: The Stand - Critical Moment | stand, critical | Climax build |
+| 10 | Chapter 10: The Word That Cannot Be Taken | word, cannot be taken | Title resonance |
 
 ---
 

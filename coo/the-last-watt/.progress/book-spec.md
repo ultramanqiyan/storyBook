@@ -32,16 +32,16 @@
 ### 2.2 Chapter Title Optimization
 | Chapter | Optimized Title | Keywords Included | SEO Purpose |
 |---------|-----------------|-------------------|-------------|
-| 01 | Chapter 1: The Inheritance - A Grandfather's Legacy | inheritance, legacy | Hook with mystery |
-| 02 | Chapter 2: The Resistance - Finding Allies | resistance, allies | Build team |
-| 03 | Chapter 3: The Components - Gathering What's Needed | components, gathering | Quest begins |
-| 04 | Chapter 4: The Journey - Across the Ruins | journey, ruins | Adventure SEO |
-| 05 | Chapter 5: The Sacrifice - What We Give Up | sacrifice, give up | Emotional peak |
-| 06 | Chapter 6: The Activation - Zero Point Rising | activation, zero point | Climax SEO |
-| 07 | Chapter 7: The Revelation - Truths Uncovered | revelation, truths | Plot twist |
-| 08 | Chapter 8: The Confrontation - Facing Protocol Omega | confrontation, protocol omega | Final battle |
-| 09 | Chapter 9: The Choice - Humanity's Future | choice, humanity | Moral climax |
-| 10 | Chapter 10: The Legacy - A New World | legacy, new world | Hopeful ending |
+| 01 | Chapter 1: The Last Light | last light | Hook with mystery |
+| 02 | Chapter 2: The Silicon Mind | silicon mind | AI concept |
+| 03 | Chapter 3: The Aunt - New Dawn | aunt, new dawn | Family angle |
+| 04 | Chapter 4: The Zero Point | zero point | Core concept |
+| 05 | Chapter 5: The Consciousness - First Step | consciousness, first step | Awakening SEO |
+| 06 | Chapter 6: The Dawn - Turning Point | dawn, turning point | Shift moment |
+| 07 | Chapter 7: The Protocol - Hidden Truth | protocol, hidden truth | Mystery build |
+| 08 | Chapter 8: The Negotiation | negotiation | Conflict SEO |
+| 09 | Chapter 9: The Assembly - Final Pieces | assembly, final pieces | Climax build |
+| 10 | Chapter 10: The Awakening - Mind Opens | awakening, mind opens | Resolution hope |
 
 ---
 

@@ -59,6 +59,17 @@
 ### Chapter Title Optimization
 | Chapter | Optimized Title | Keywords Included | SEO Purpose |
 |---------|-----------------|-------------------|-------------|
+| 01 | Chapter 1: The Bug | bug, digital | Hook with mystery |
+| 02 | Chapter 2: The Pattern | pattern, algorithm | Core concept |
+| 03 | Chapter 3: The First Contact | first contact | Discovery SEO |
+| 04 | Chapter 4: The Bloodline | bloodline | Family mystery |
+| 05 | Chapter 5: The Confession | confession | Revelation build |
+| 06 | Chapter 6: The Gatekeeper | gatekeeper | Mystery depth |
+| 07 | Chapter 7: The Ritual | ritual | Supernatural SEO |
+| 08 | Chapter 8: The Confrontation - Building the Case | confrontation, case | Climax build |
+| 09 | Chapter 9: The Legacy - The Bridge Between Worlds | legacy, bridge worlds | Resolution SEO |
+| 10 | Chapter 10: The Bridge | bridge | Title resonance |
+|---------|-----------------|-------------------|-------------|
 | 01 | Chapter 1: The Message - From Beyond the Grave | message, beyond grave | Hook with mystery |
 | 02 | Chapter 2: The Investigation - Digging into Death | investigation, digging death | Mystery/thriller SEO |
 | 03 | Chapter 3: The Pattern - Code from the Afterlife | pattern, code afterlife | Tech + supernatural |

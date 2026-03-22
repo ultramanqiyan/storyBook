@@ -216,15 +216,15 @@ Every significant emotional moment must include all three layers:
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
 | 01 | The Discovery | Establish Kira and the Archives | Curiosity → Wonder | Kira discovers ARIA-7 in sealed archives |
-| 02 | The Awakening | Introduce ARIA-7 and its nature | Wonder → Connection | ARIA-7 activates; first synthesis |
-| 03 | The Learning | Begin synthesis education | Eagerness → Overwhelm | Learning magic-tech fusion |
-| 04 | The Power | First synthesis spell | Confidence → Excitement | Successful spell; power rush |
-| 05 | The Warning | Introduce the threat | Excitement → Concern | Signs of the Synthesis stirring |
-| 06 | The Test | Prove worthiness | Determination → Validation | Trial by the Archives Council |
-| 07 | The Betrayal | Marcus's true nature | Trust → Heartbreak | Marcus steals knowledge |
-| 08 | The Truth | Origin of the Catastrophe | Confusion → Clarity | Truth about the Synthesis revealed |
-| 09 | The Choice | Power vs. Wisdom | Conflict → Resolution | Kira chooses wisdom over power |
-| 10 | The Synthesis Academy | New beginning | Responsibility → Hope | Rebuilding what was lost |
+| 02 | The Synthesist | Introduce ARIA-7 and its nature | Wonder → Connection | ARIA-7 activates; first synthesis |
+| 03 | The Shortcut | Begin synthesis education | Eagerness → Overwhelm | Learning magic-tech fusion |
+| 04 | The Demonstration | First synthesis spell | Confidence → Excitement | Successful spell; power rush |
+| 05 | The Consumption | Introduce the threat | Excitement → Concern | Signs of the Synthesis stirring |
+| 06 | The Recognition | Prove worthiness | Determination → Validation | Trial by the Archives Council |
+| 07 | The Relapse | Marcus's true nature | Trust → Heartbreak | Marcus steals knowledge |
+| 08 | The Origin | Origin of the Catastrophe | Confusion → Clarity | Truth about the Synthesis revealed |
+| 09 | The Choice - Power or Principles | Power vs. Wisdom | Conflict → Resolution | Kira chooses wisdom over power |
+| 10 | The Guardian | New beginning | Responsibility → Hope | Rebuilding what was lost |
 
 ---
 

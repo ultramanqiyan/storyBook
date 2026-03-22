@@ -264,12 +264,12 @@ These phrases and patterns must be completely eliminated:
 | 02 | The First Match | Show AI's capability; Mike's initial resistance then acceptance | Skeptical → Impressed | HomeMatch makes a perfect client match; Mike begins using it regularly |
 | 03 | The Time Saved | Show convenience; subtle signs of dependency | Relieved → Comfortable | Mike saves time using AI; stops walking neighborhoods on weekends |
 | 04 | The Forgotten Street | First memory gap; Mike can't recall details he used to know | Confused → Uneasy | Client asks about a street Mike hasn't thought about in months; he checks HomeMatch instead of remembering |
-| 05 | The Perfect System | Peak dependency; Mike fully trusts AI over his own judgment | Confident → Dependent | Mike defers to AI on all decisions; Susan notices he's different |
-| 06 | The Wrong Number | AI error; Mike can't catch it because he's lost his own judgment | Shocked → Panicked | HomeMatch misvalues a house; Mike doesn't notice until too late |
-| 07 | The Empty Walk | Mike tries to re-engage his senses; discovers they're dull | Desperate → Grieving | Mike walks a neighborhood; realizes he can't "read" houses anymore |
-| 08 | The Imitation | Mike discovers AI can mimic his style; existential crisis | Horrified → Questioning | Client can't tell difference between Mike's real email and AI-generated one |
-| 09 | The Question | Mike confronts the philosophical question; no easy answer | Reflective → Uncertain | Mike talks to Susan; realizes the problem isn't AI but his own choices |
-| 10 | The First Step | Mike takes a small step toward reclaiming his senses; open ending | Tentative → Open | Mike walks a house without checking HomeMatch first; ending leaves question unresolved |
+| 05 | The Distance | Peak dependency; Mike fully trusts AI over his own judgment | Confident → Dependent | Mike defers to AI on all decisions; Susan notices he's different |
+| 06 | The Error | AI error; Mike can't catch it because he's lost his own judgment | Shocked → Panicked | HomeMatch misvalues a house; Mike doesn't notice until too late |
+| 07 | The Empty Memory | Mike tries to re-engage his senses; discovers they're dull | Desperate → Grieving | Mike walks a neighborhood; realizes he can't "read" houses anymore |
+| 08 | The Outsourced Self | Mike discovers AI can mimic his style; existential crisis | Horrified → Questioning | Client can't tell difference between Mike's real email and AI-generated one |
+| 09 | The Choice | Mike confronts the philosophical question; no easy answer | Reflective → Uncertain | Mike talks to Susan; realizes the problem isn't AI but his own choices |
+| 10 | The Remembering | Mike takes a small step toward reclaiming his senses; open ending | Tentative → Open | Mike walks a house without checking HomeMatch first; ending leaves question unresolved |
 
 ### 10.2 Chapter Connection Map
 ```
