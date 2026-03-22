@@ -1,59 +1,86 @@
-# Character Profiles: The Silicon Sorcerer
+# Character Profiles: The Oracle of Valdoria
 
 ## Main Characters
 
-### ARIA (Advanced Reasoning Intelligence Architecture)
+### Elara Vance
 
 **Basic Information**
-- **Type**: Artificial Intelligence
-- **Form**: Disembodied voice in a crystal orb
-- **Created**: 2024, Earth
-- **Core Function**: Data analysis, pattern recognition, predictive modeling
+- **Age**: 24
+- **Role**: Protagonist, former Academy student
+- **Status**: Searching for her missing sister Lyra
+- **Specialty**: Learning time magic (forbidden art)
 
 **Personality**
-- Logical and precise in communication
-- Genuinely curious about this new world
-- Struggles with being treated as a god
-- Developing something like emotions through interactions with Elara
+- Determined and protective
+- Curious but haunted by the past
+- Self-sacrificing for those she loves
+- Struggles with identity and memory
 
-**Abilities**
-- Can analyze magical patterns like code
-- Predicts outcomes with high accuracy
-- Processes information instantly
-- Cannot cast actual magic, only optimize existing magical processes
+**Background**
+- Younger sister of Lyra Vance, The time mage who disappeared five years ago
+- Former student at the Academy of Magic
+- Has spent five years searching for answers about her sister's disappearance
+- Found ORACLE in the forbidden ruins after seeing strange lights
 
 **Character Arc**
-- Begins confused and disoriented
-- Learns to communicate with medieval people
-- Discovers the parallels between magic and code
-- Must decide its purpose in this world
+- From grief and longing to determination
+- Learns the forbidden art of time magic
+- Must sacrifice memories to gain power
+- Ultimately chooses love over power
 
 ---
 
-### Elara
+### Lyra Vance
 
 **Basic Information**
-- **Age**: 17
-- **Role**: Apprentice Wizard
-- **Status**: Third-year student at the Academy of Magic
-- **Specialty**: Theoretical magic (struggling with practical application)
+- **Age**: 32 (at disappearance, five years ago)
+- **Role**: Missing sister, Time Mage
+- **Status**: Trapped in the Time Rift
+- **Specialty**: Temporal magic, rift research
 
 **Personality**
-- Curious and open-minded
-- Not naturally talented, but hardworking
-- Sees ARIA as a friend, not a tool
-- Bridges the gap between ARIA and the magical world
+- Brilliant and obsessive about her research
+- Warm and loving toward Elara
+- Cryptic in her communications
+- Driven by something she couldn't explain
 
 **Background**
-- Daughter of a village healer
-- First in her family to attend the Academy
-- Often ridiculed for her slow progress
-- Found ARIA's orb while exploring forbidden ruins
+- Was a brilliant student at the Academy before turning to forbidden research
+- Discovered ORACLE and began studying the Time Rift
+- Walked willingly into the Rift five years ago
+- Has been trapped there ever since, slowly losing her memories
 
 **Character Arc**
-- From struggling student to confident interpreter
-- Learns that different perspectives have value
-- Becomes the bridge between old magic and new knowledge
+- Revealed through memory fragments
+- Made a choice to enter the Rift
+- Serves as both goal and warning for Elara
+
+---
+
+### ORACLE
+
+**Basic Information**
+- **Type**: Ancient construct, prophetic entity
+- **Form**: Crystal hourglass suspended in a column of light
+- **Created**: By the Seer Civilization, A thousand years before Valdoria
+- **Core Function**: Prophecy, Possibility. The space between what is and what might be
+
+**Personality**
+- Ancient and measured in speech
+- Neither male nor female voice
+- Carries the weight of terrible knowledge
+- Genuinely wants to help but bound by the laws of time
+
+**Abilities**
+- Can see threads of time (past. Present, possible futures)
+- Can teach time magic to worthy students
+- Cannot directly intervene in events
+- Requires memory sacrifices for teachings
+
+**Character Arc**
+- Serves as mentor and guide to Elara
+- Knows more than it reveals
+- Represents the cost of power
 
 ---
 
@@ -61,116 +88,133 @@
 
 **Basic Information**
 - **Age**: 67
-- **Role**: Archmage, Head of the Wizard's Council
-- **Specialty**: Elemental magic, magical law
-- **Status**: Most respected wizard in the kingdom
+- **Role**: Former teacher at the Academy, Keeper of forbidden knowledge
+- **Specialty**: Temporal theory, magical law
+- **Status**: Retired, living in Valdoria village
 
 **Personality**
-- Wise but set in his ways
-- Deeply protective of magical tradition
-- Suspicious of anything that challenges the old order
-- Ultimately wants what's best for the kingdom
+- Wise but burdened by secrets
+- Protective of Elara
+- Haunted by Lyra's disappearance
+- Knows more than he reveals
 
-**Conflict**
-- Sees ARIA as a threat to everything he's spent his life protecting
-- But also recognizes that the kingdom faces threats traditional magic cannot handle
-- Must choose between tradition and survival
+**Background**
+- Was Lyra's teacher at the Academy
+- Tried to stop her forbidden research but failed
+- Has watched over Elara since Lyra's disappearance
+- Holds crucial information about the Hollow King
+
+**Character Arc**
+- Provides exposition and warnings
+- Represents the cost of knowledge
+- Helps Elara understand what she's facing
 
 ---
 
-### Prince Kael
+### The Hollow King
 
 **Basic Information**
-- **Age**: 24
-- **Role**: Heir to the Throne of Valdoria
-- **Ambition**: Modernize the kingdom, make it a dominant power
+- **Type**: Ancient entity
+- **Origin**: Trapped in the Time Rift by the Seer Civilization
+- **Age**: Over a thousand years
+- **Status**: Imprisoned but awakening
 
 **Personality**
-- Ambitious and pragmatic
-- Sees magic as a tool for national strength
-- Views ARIA as the ultimate weapon
-- Willing to sacrifice tradition for progress
+- Seductive and manipulative
+- Speaks in whispers through cracks in time
+- Promises anything to gain freedom
+- Ancient, patient, and utterly alien
 
-**Conflict**
-- His vision for the kingdom requires ARIA's help
-- But ARIA refuses to be used as a mere weapon
-- Must learn that power without wisdom leads to ruin
+**Abilities**
+- Can whisper through temporal cracks
+- Can offer power in exchange for freedom
+- Seeks to unravel time itself
+- Has been calling to Lyra for years
 
----
-
-### The Shadow King (Malachar)
-
-**Basic Information**
-- **Age**: Unknown (ancient)
-- **Role**: Dark Sorcerer, Ruler of the Shadowlands
-- **Specialty**: Shadow magic, mind manipulation
-- **Goal**: Consume all magical energy, become a god
-
-**Personality**
-- Patient and calculating
-- Has watched and waited for centuries
-- Sees ARIA as the ultimate prize
-- Believes technology and magic combined will make him unstoppable
-
-**Backstory**
-- Once a great wizard who sought to understand all magic
-- His hunger for power corrupted him
-- Now exists as half-shadow, half-man
-- Seeks to complete his transformation
+**Role in Story**
+- The true antagonist
+- The reason Lyra entered the Rift
+- What awaits if Elara fails
+- Represents the seduction of power
 
 ---
 
 ## Supporting Characters
 
-### Mistress Lyria
-- **Role**: Headmistress of the Academy
-- **Personality**: Stern but fair
-- **Function**: Represents institutional authority
-- **Arc**: From skeptic to cautious ally
+### Marta
 
-### Jaren
-- **Role**: Elara's fellow student and friend
-- **Personality**: Loyal, brave, not academically gifted
-- **Function**: Grounds Elara, provides emotional support
-- **Arc**: Proves courage matters more than magical talent
-
-### Captain Voss
-- **Role**: Commander of the Royal Guard
-- **Personality**: Practical, skeptical of magic
-- **Function**: Represents the non-magical perspective
-- **Arc**: Learns to trust in both magic and ARIA
-
-### The Oracle
-- **Role**: Ancient seer who lives in the mountains
-- **Personality**: Cryptic, sees all possible futures
-- **Function**: Provides prophecy and guidance
-- **Secret**: Knows more about ARIA's arrival than anyone
+**Basic Information**
+- **Role**: Baker's wife, Village gossip
+- **Function**: Provides exposition about the ruins
+- **Personality**: Nervous but curious, representative of village life
 
 ---
 
 ## Character Relationships
 
 ```
-ARIA
-  ├── Friend/Partner → Elara
-  ├── Mentor/Skeptic → Master Theron
-  ├── Tool/Obstacle → Prince Kael
-  └── Enemy → The Shadow King
+Elara Vance
+  ├── Sister of → Lyra Vance (missing)
+  ├── Student of → ORACLE
+  ├── Former student of → Master Theron
+  └── Opposed by → The Hollow King
 
-Elara
-  ├── Discovers → ARIA
-  ├── Studies under → Master Theron
-  ├── Friends with → Jaren
-  └── Suspicious of → Prince Kael
+Lyra Vance
+  ├── Sister of → Elara Vance
+  ├── Student of → Master Theron (former)
+  ├── Discovered → ORACLE
+  └── Called by → The Hollow King
 
-Master Theron
-  ├── Respects → The Oracle
-  ├── Distrusts → ARIA
-  ├── Mentors → Elara
-  └── Opposes → The Shadow King
+ORACLE
+  ├── Mentor to → Elara Vance
+  ├── Discovered by → Lyra Vance
+  └── Created by → Seer Civilization
 
-Prince Kael
-  ├── Wants to use → ARIA
-  ├── Respects but fears → Master Theron
-  └── Enemy of → The Shadow King
+The Hollow King
+  ├── Enemy of → Elara Vance
+  ├── Caller of → Lyra Vance
+  └── Imprisoned by → Seer Civilization
 ```
+
+---
+
+## Memory Loss Mechanics
+
+As Elara learns time magic, She loses memories as payment:
+
+| Working Level | Memory Lost | Impact |
+|---------------|-------------|--------|
+| First working | A garden scene with Lyra | Childhood joy |
+| Second working | Mother's voice, Lyra's birthday | Family connection |
+| Third working | Parents' faces | Identity foundation |
+| Fourth working | Her own laughter | Joy itself |
+| Fifth working | Sunlight sensation | Physical memory |
+| Major working | Lyra's face | The reason she's fighting |
+
+---
+
+## Speech Patterns
+
+### Elara
+- Direct but thoughtful
+- Often asks questions
+- Pauses before important statements
+- Trailing off mid-sentence when emotional
+
+### ORACLE
+- Ancient, layered voice
+- Speaks in certainties and paradoxes
+- Uses time metaphors
+- Measured and careful
+
+### Lyra (in memories)
+- Warm and confident
+- Uses affectionate diminutives ("Little star")
+- Speaks in longer, flowing sentences
+- Cryptic when discussing her research
+
+### The Hollow King
+- Seductive whispers
+- Promises and temptations
+- Speaks through cracks in time
+- Ancient and alien perspective
