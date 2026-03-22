@@ -102,9 +102,9 @@ She nodded, and they walked out into the night together.
 
 The night air was cool against her face. Sarah stood with Dr. Webb outside the building, the meeting still fresh in her mind. The stars were visible above the city lights, a rare sight in the urban glow.
 
-"Can I recover?" she asked again, needing to hear it one more time.
+"Thank you," she said, needing to express her gratitude one more time. "For everything. For being here. For showing me the way back."
 
-"Yes." Dr. Webb's voice was certain. "But it won't be easy. You'll have to relearn everything you let the AI do for you. The clinical intuition, the pattern recognition, the ability to sit with uncertainty and think your way through it. It's all still there, buried under layers of dependency. But digging it out will be the hardest thing you've ever done."
+Dr. Webb's voice was warm. "We all needed someone to show us the way, once. This is how we keep the practice alive—by passing it on."
 
 Sarah nodded, the weight of the commitment settling over her. "I know. But I have to try. I can't go back to being a machine that processes data."
 

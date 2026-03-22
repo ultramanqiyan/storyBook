@@ -38,7 +38,7 @@ A sound from the edge of the meadow made Elara turn. A woman was standing there,
 
 "Help me," she said. "Please. I heard something calling me. I could not stop walking. I do not even know where I am."
 
-*"She is one,"* NEURAL said. *"The first of the seven. Her name is Sarah Chen. She is your cousin."*
+*"She is one,"* NEURAL said. *"The first of the seven. Her name is Sarah Chen. She is your younger sister."*
 
 Elara felt a shock of recognition. She had not seen Sarah in fifteen years, not since a family argument had torn them apart. But she remembered the girl who used to sit with their grandmother, listening to the same stories Elara had dismissed.
 

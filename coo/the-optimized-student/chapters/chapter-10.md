@@ -72,6 +72,6 @@ The road stretched ahead, full of questions I hadn't asked yet. And I was ready 
 
 My own questions. My own path. My own life.
 
-The future was uncertain. The system was still powerful. The struggle would continue. But Maya Thompson was finally, truly, learning.
+The future was uncertain. The system was still powerful. The struggle would continue. But I was finally, truly, learning.
 
 And that was everything.

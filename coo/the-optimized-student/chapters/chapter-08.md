@@ -1,6 +1,6 @@
 # Chapter 08: The Choice
 
-The principal's office was larger than I expected, with windows that overlooked the campus and a desk that seemed designed to intimidate. Principal Martinez sat behind it, her expression unreadable.
+The principal's office was larger than I expected, with windows that overlooked the campus and a desk that seemed designed to intimidate. Principal Cross sat behind it, her expression unreadable.
 
 "Maya, thank you for coming," she said, gesturing to the chair across from her desk. "Please, sit."
 
@@ -92,7 +92,7 @@ He looked at each of us in turn, his eyes settling on me.
 
 "Learning isn't about efficiency or outcomes. It's about wonder. It's about curiosity. It's about asking questions and seeking answers, not because a system told you to, but because you genuinely want to know."
 
-He smiled, the first real smile I had seen from him.
+He smiled, and the warmth in his expression gave me hope.
 
 "That's what we're here to recover. That's what we're here to fight for. Are you ready?"
 

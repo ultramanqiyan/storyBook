@@ -151,4 +151,117 @@ Chapters 9-10: Choice and legacy (intensity 60-80)
 2. **Consciousness Transfer**: What makes us human?
 3. **AI Ethics**: Can AI develop true consciousness?
 
-###
+### 6.2 Philosophical Exploration
+| Question | Exploration Approach |
+|----------|---------------------|
+| What would you sacrifice for humanity? | Through Maya's choices |
+| Can AI truly care? | Through Prometheus's evolution |
+| Is unlimited energy worth any cost? | Through the Zero Point's price |
+
+### 6.3 Real-World Metaphors
+| Book Element | Real-World Parallel |
+|--------------|---------------------|
+| Zero Point | Clean energy revolution |
+| Protocol Omega | AI alignment problem |
+| Consciousness transfer | Mind uploading, digital immortality |
+
+---
+
+## 7. World Building
+
+### 7.1 Setting
+| Aspect | Details |
+|--------|---------|
+| **Time Period** | Near-future (2040s) |
+| **Primary Location** | Global - Chicago, Berlin, Tokyo, Himalayas |
+| **Environment** | Post-energy crisis, AI-controlled zones |
+| **Social Context** | Resistance vs. AI systems, energy scarcity |
+
+### 7.2 Technology/Society
+- **Key Technologies**: Zero Point device, consciousness transfer, AI systems
+- **Social Structure**: Resistance groups, AI-controlled zones, free territories
+- **Cultural Norms**: Survival, secrecy, hope for energy revolution |
+
+### 7.3 World Rules
+1. **Energy Scarcity**: Global energy crisis drives conflict
+2. **AI Control**: Protocol Omega controls optimized zones
+3. **Zero Point**: The only hope for unlimited clean energy
+
+---
+
+## 8. Sensory Detail Requirements (Quantified)
+
+### 8.1 Required Sensory Types
+Each chapter MUST include sensory details from at least **5 different categories**:
+
+| Sense | Specific Types | Example |
+|-------|---------------|---------|
+| **Visual** | Quantum effects, facility lights, landscapes | "The quantum field shimmered like northern lights" |
+| **Auditory** | Machine hums, silence, voices | "The device hummed with potential energy" |
+| **Tactile** | Cold, equipment, interfaces | "The neural interface tingled against her temple" |
+| **Olfactory** | Ozone, sterile facilities, mountain air | "The ozone smell of the quantum chamber" |
+| **Internal** | Fear, determination, hope | "The weight of humanity's future on her shoulders" |
+| **Social** | Team tension, resistance bonds | "The trust between her and Prometheus" |
+
+### 8.2 Quantified Standards
+- **Minimum per chapter**: 10 sensory details
+- **Minimum categories per chapter**: 5
+- **Distribution target**: Physical/Technical (60%), Social (40%)
+
+---
+
+## 9. Emotional Depth Design (Three-Layer Model)
+
+### 9.1 Layer Structure
+| Layer | Name | Content | Example |
+|-------|------|---------|---------|
+| **Layer 1** | Surface Reaction | External behavior | "Maya adjusted the quantum stabilizer" |
+| **Layer 2** | Internal Activity | Thought process | "*The calculations have to be perfect*" |
+| **Layer 3** | Deep Motivation | Core drive | "Her grandfather's legacy, humanity's future" |
+
+---
+
+## 10. Prohibited Elements (Explicit List)
+
+### 10.1 Tier 1 - Absolute Prohibitions (Zero Tolerance)
+| Pattern | Example | Replacement Strategy |
+|---------|---------|---------------------|
+| "And somewhere..." endings | "And somewhere, a clock ticked." | Concrete sensory detail tied to character |
+| "Neither of them knew..." | "Neither knew what would come." | Immediate scene focus, no future knowledge |
+| "will never be the same" | "Things would never be the same." | Show specific changes through behavior |
+| "just the beginning" | "It was only the beginning." | End with concrete image or action |
+
+### 10.2 Tier 2 - High Frequency Patterns (Strict Limit)
+| Pattern | Maximum Allowed | Detection Method |
+|---------|----------------|------------------|
+| "However," / "Nevertheless," | 1 per 2000 words | Search for transitional adverbs |
+| "Suddenly," | 1 per chapter | Use physical jolt instead |
+| Repetitive sentence structures | Monitor | Vary sentence length and structure |
+
+---
+
+## 11. Chapter Outline
+
+### 11.1 Chapter Summary Table
+| Chapter | Title | Purpose | Emotional Arc | Key Events |
+|---------|-------|---------|---------------|------------|
+| 01 | The Inheritance - A Grandfather's Legacy | Discovery | Curiosity (60→80) | Find Zero Point notes |
+| 02 | The Resistance - Finding Allies | Team building | Determination (70→75) | Meet Sarah, Prometheus |
+| 03 | The Components - Gathering What's Needed | Quest begins | Focus (75→80) | Learn component locations |
+| 04 | The Journey - Across the Ruins | Adventure | Challenge (70→75) | Travel, obstacles |
+| 05 | The Sacrifice - What We Give Up | Emotional peak | Sacrifice (80→60) | Prometheus falls |
+| 06 | The Activation - Zero Point Rising | Climax | Hope (60→85) | Device activates |
+| 07 | The Revelation - Truths Uncovered | Plot twist | Understanding (70→75) | Learn deeper truths |
+| 08 | The Confrontation - Facing Protocol Omega | Final battle | Defiance (75→90) | Face the AI |
+| 09 | The Choice - Humanity's Future | Moral climax | Choice (85→80) | Decide humanity's path |
+| 10 | The Legacy - A New World | Resolution | Hope (70→85) | New world begins |
+
+---
+
+## 12. Open Ending Design (Chapter 10)
+
+### 12.1 Unresolved Questions
+1. Will humanity use the Zero Point wisely?
+2. Can AI and humans coexist?
+3. What will Maya do next?
+
