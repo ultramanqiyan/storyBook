@@ -143,5 +143,3 @@ The group was silent for a moment.
 Sarah's expression was grim.
 
 "Then we're all going to die anyway. Might as well go down fighting."
-
-** 7**

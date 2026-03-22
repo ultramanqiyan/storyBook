@@ -131,7 +131,3 @@ Was it worth it? To give up everything I had gained—the superhuman senses, the
 I didn't know. I couldn't feel the answer.
 
 But I knew I had to try.
-
----
-
-**END OF CHAPTER 6**

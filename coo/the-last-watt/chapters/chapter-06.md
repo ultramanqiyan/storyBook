@@ -131,5 +131,3 @@ And that, Maya realized, was the true legacy of Marcus Chen. Not a device, but a
 The light of the Zero Point continued to spread, touching every mind on Earth, weaving a web of awareness that would never be broken.
 
 The awakening had only just begun.
-
-** 6**

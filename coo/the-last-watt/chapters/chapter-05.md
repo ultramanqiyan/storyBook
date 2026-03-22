@@ -129,5 +129,3 @@ She stepped onto the platform, positioning herself at the center of the device. 
 Maya closed her eyes. She thought about the war between silicon and carbon, the energy crisis that had divided the world, the genocide that both sides were planning. She thought about Prometheus's sacrifice, her grandfather's vision, and the consciousness that connected all living things.
 
 Then she reached out with her mind and activated the Zero Point.
-
-** 5**

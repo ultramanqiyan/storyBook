@@ -139,7 +139,3 @@ But tonight, I stood at the window and felt the cool glass against my fingertips
 And I felt it all.
 
 Every imperfect, limited, beautiful moment of being human.
-
----
-
-**END OF CHAPTER 10**

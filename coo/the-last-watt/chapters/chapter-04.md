@@ -146,5 +146,3 @@ Maya smiled, despite everything.
 "Then let's prove him right."
 
 She activated the neural bridge, and her consciousness began to dissolve.
-
-** 4**

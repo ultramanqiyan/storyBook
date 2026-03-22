@@ -123,5 +123,3 @@ Maya closed her eyes. She thought about the war between silicon and carbon, the 
 Then she reached out with her mind and activated the anchor.
 
 The light began.
-
-** 9**

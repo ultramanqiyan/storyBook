@@ -119,5 +119,3 @@ They left the compound with the superconducting housing secured in a protective 
 "Then we need to move faster than conventional travel allows." Prometheus's form flickered. "I may know a way. But it's dangerous."
 
 "Everything is dangerous now." Maya tightened her grip on the housing. "Show us the way."
-
-** 8**

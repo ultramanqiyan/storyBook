@@ -141,5 +141,3 @@ A chill ran through Maya.
 "Do we have them?"
 
 "No. But Sarah might. And if she does..." Prometheus's voice was careful. "It might be worth trading for the housing."
-
-** 3**

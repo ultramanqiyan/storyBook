@@ -129,7 +129,3 @@ They were all like me. Hollow. Perfect. Empty.
 And somewhere, in the Archive District, there was a white door that led to a chance—just a chance—to become human again.
 
 I had to take it.
-
----
-
-**END OF CHAPTER 7**

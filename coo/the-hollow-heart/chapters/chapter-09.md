@@ -131,7 +131,3 @@ I nodded, not really listening. I was too busy feeling—the roughness of the sh
 It was overwhelming. It was painful. It was beautiful.
 
 It was human.
-
----
-
-**END OF CHAPTER 9**

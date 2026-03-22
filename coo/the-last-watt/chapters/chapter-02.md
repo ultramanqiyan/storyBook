@@ -104,5 +104,3 @@ Maya stared at the screen.
 "That's my aunt," she said slowly. "My father's sister. She disappeared when I was a child. Everyone thought she was dead."
 
 "Apparently not." Prometheus's voice was carefully neutral. "And apparently, she's been very busy."
-
-** 2**

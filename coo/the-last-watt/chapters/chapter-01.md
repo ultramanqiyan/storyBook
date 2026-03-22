@@ -117,5 +117,3 @@ Prometheus was silent for a moment.
 Maya nodded slowly. She didn't fully trust Prometheus—couldn't fully trust any machine—but she trusted her grandfather's judgment.
 
 "Then let's prove it," she said. "Let's build the Zero Point and show both species what's possible."
-
-** 1**

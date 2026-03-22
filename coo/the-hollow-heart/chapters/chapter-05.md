@@ -141,7 +141,3 @@ And I walked home through the darkening city, surrounded by beauty I could perce
 I had to find a way to break those walls.
 
 Or I had to learn to live with the hollow.
-
----
-
-**END OF CHAPTER 5**

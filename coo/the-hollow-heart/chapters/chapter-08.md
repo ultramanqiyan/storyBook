@@ -133,7 +133,3 @@ I looked at her—at the tears on her face, the fear in her eyes, the love that 
 If I survived, I would feel that love. I would feel everything I had lost. I would become human again.
 
 Or I would die trying.
-
----
-
-**END OF CHAPTER 8**
