@@ -1,0 +1,21 @@
+{
+  "book": "algorithmic-consciousness",
+  "status": "in_progress",
+  "current_chapter": 3,
+  "total_chapters": 10,
+  "started_at": "2026-03-22",
+  "chapters": {
+    "1": {
+      "title": "The Last Entrance",
+      "status": "completed",
+      "word_count": 4521,
+      "completed_at": "2026-03-22"
+    },
+    "2": {
+      "title": "The Training Room",
+      "status": "completed",
+      "word_count": 4567,
+      "completed_at": "2026-03-22"
+    }
+  }
+}
