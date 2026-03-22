@@ -1,5 +1,7 @@
 # Chapter 02: The Fall
 
+*Eight weeks earlier.*
+
 The climb was supposed to be routine. RISK-AI had calculated a 96.2% probability of success, the route was well within my capabilities, and the conditions were optimal. There was no reason for anything to go wrong.
 
 But it did.

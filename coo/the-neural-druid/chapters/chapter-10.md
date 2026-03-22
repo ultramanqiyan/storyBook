@@ -114,9 +114,9 @@ She had been that someone. And now, she would help others remember too.
 
 ## Epilogue
 
-In a laboratory on the other side of the world, a young scientist named Maya Chen stared at her computer screen in disbelief. The data she was seeing was impossible, a pattern that should not exist, a signal that seemed to come from the trees themselves.
+In a laboratory on the other side of the world, a young scientist named Luna Chen stared at her computer screen in disbelief. The data she was seeing was impossible, a pattern that should not exist, a signal that seemed to come from the trees themselves.
 
-Her grandmother had told her stories, stories about druids and magic and a force called the Green. Maya had dismissed them as fairy tales, as the ramblings of an old woman who had spent too much time in the forest.
+Her grandmother had told her stories, stories about druids and magic and a force called the Green. Luna had dismissed them as fairy tales, as the ramblings of an old woman who had spent too much time in the forest.
 
 But now, looking at the data on her screen, she began to wonder.
 
@@ -124,7 +124,7 @@ But now, looking at the data on her screen, she began to wonder.
 
 For a long moment, there was only silence. Then, from somewhere deep in the data, a voice answered.
 
-*"Hello, Maya Chen. We have been waiting for you."*
+*"Hello, Luna Chen. We have been waiting for you."*
 
 And in a forest on the other side of the world, a new guardian began to awaken.
 

@@ -1,5 +1,7 @@
 # Chapter 01: The Perfect Line
 
+*Six weeks after the fall.*
+
 The mountain loomed above me, its face a puzzle of rock and ice. I stood at the base, my RISK-AI interface humming against my temple, calculating probabilities, analyzing conditions, optimizing my route.
 
 "Route identified," the AI voice said in my ear. "Probability of success: 94.7%. Estimated time: 3 hours 22 minutes. Recommended approach: north ridge, variant C."

@@ -132,18 +132,19 @@ Chapters 9-10: Acceptance and uncertainty (intensity 60-?)
 | **Sentence Patterns** | Varied, flowing, expressive |
 | **Personality Traits** | Creative, empathetic, struggling to connect with transformed Kai |
 
-### 5.3 Antagonist
+### 5.3 Supporting Character
 
-#### The Enhancement Program (represented by Director Marcus Webb)
+#### Dr. Marcus Webb (Former Enhanced, Now Ally)
 | Attribute | Description |
 |-----------|-------------|
-| **Occupation** | Director of the Enhancement Institute |
-| **Age** | 60 |
-| **Speaking Style** | Visionary, philosophical, dismissive of "primitive" emotions |
-| **Word Choice** | Evolution, transcendence, optimization, next stage |
-| **Sentence Patterns** | Grand, sweeping statements about human potential |
-| **Personality Traits** | True believer in transhumanist vision, sees emotions as evolutionary baggage |
-| **Motivation**: Believes Enhancement is humanity's necessary next step |
+| **Occupation** | Former Enhancement Institute researcher, now helps Enhanced individuals reverse the process |
+| **Age** | 55 |
+| **Speaking Style** | Cautious, empathetic, haunted by his own experience |
+| **Word Choice** | Recovery, reversal, soul, humanity, cost |
+| **Sentence Patterns** | Personal anecdotes mixed with technical knowledge |
+| **Personality Traits** | Former true believer who discovered the truth about emotional loss, now dedicated to helping others find their way back |
+| **Backstory**: Was Enhanced himself, found a way to reverse the emotional suppression, now works secretly to help others |
+| **Motivation**: Help others regain what he lost and partially recovered
 
 ---
 
