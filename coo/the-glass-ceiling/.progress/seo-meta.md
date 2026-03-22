@@ -15,7 +15,7 @@
 ### 2. Meta Description (157字符)
 
 ```
-In the cutthroat world of tech, Maya Chen discovers that talent isn't enough—the invisible barriers are real, and breaking them requires more than skill.
+In the cutthroat world of tech, Alex Chen discovers that talent isn't enough—the invisible barriers are real, and breaking them requires more than skill.
 ```
 
 **优化说明**:
@@ -60,7 +60,7 @@ In the cutthroat world of tech, Maya Chen discovers that talent isn't enough—t
   "@type": "Book",
   "name": "The Glass Ceiling",
   "author": "Author Name",
-  "description": "In the cutthroat world of tech, Maya Chen discovers that talent isn't enough—the invisible barriers are real, and breaking them requires more than skill.",
+  "description": "In the cutthroat world of tech, Alex Chen discovers that talent isn't enough—the invisible barriers are real, and breaking them requires more than skill.",
   "genre": ["Workplace Fiction", "Feminist Fiction", "Contemporary Fiction"],
   "keywords": "workplace fiction, gender equality, tech industry, career barriers",
   "audience": {
@@ -82,7 +82,7 @@ In the cutthroat world of tech, Maya Chen discovers that talent isn't enough—t
 
 **Meta Description**:
 ```
-Maya Chen nails her interview at Silicon Valley's hottest startup. But the questions they ask—and don't ask—hint at challenges she hasn't anticipated.
+Alex Chen nails their interview at Silicon Valley's hottest startup. But the questions they ask—and don't ask—hint at challenges they haven't anticipated.
 ```
 
 **关键词**: tech interview, startup job, hidden challenges, first impression
@@ -99,10 +99,10 @@ Maya Chen nails her interview at Silicon Valley's hottest startup. But the quest
 
 **Meta Description**:
 ```
-Maya joins an all-male engineering team where her expertise is questioned and her ideas are ignored. She must prove herself in ways her male colleagues never did.
+Alex joins an all-male engineering team where their expertise is questioned and their ideas are ignored. They must prove themselves in ways their male colleagues never did.
 ```
 
-**关键词**: all male team, expertise questioned, proving herself, gender dynamics
+**关键词**: all male team, expertise questioned, proving themselves, gender dynamics
 
 **URL Slug**: `chapter-2-the-team`
 
@@ -116,7 +116,7 @@ Maya joins an all-male engineering team where her expertise is questioned and he
 
 **Meta Description**:
 ```
-Despite outperforming her peers, Maya watches less qualified men get promoted first. The pattern becomes clear: excellence isn't enough when bias is invisible.
+Despite outperforming their peers, Alex watches less qualified men get promoted first. The pattern becomes clear: excellence isn't enough when bias is invisible.
 ```
 
 **关键词**: promotion denied, qualified overlooked, invisible bias, pattern recognition
@@ -133,7 +133,7 @@ Despite outperforming her peers, Maya watches less qualified men get promoted fi
 
 **Meta Description**:
 ```
-Maya finds a female executive who survived the same battles. Her mentor's guidance reveals strategies for navigating a system that wasn't built for women.
+Alex finds a female executive who survived the same battles. Her mentor's guidance reveals strategies for navigating a system that wasn't built for everyone.
 ```
 
 **关键词**: female mentor, executive guidance, survival strategies, system navigation
@@ -150,7 +150,7 @@ Maya finds a female executive who survived the same battles. Her mentor's guidan
 
 **Meta Description**:
 ```
-Maya leads a high-stakes project that could make or break her career. Success means breaking through; failure means confirming every bias against her.
+Alex leads a high-stakes project that could make or break their career. Success means breaking through; failure means confirming every bias against them.
 ```
 
 **关键词**: high stakes project, career defining, breaking through, bias confirmation
@@ -167,7 +167,7 @@ Maya leads a high-stakes project that could make or break her career. Success me
 
 **Meta Description**:
 ```
-As Maya's project succeeds, colleagues undermine her at every turn. The glass ceiling isn't just a barrier—it's actively defended by those who benefit from it.
+As Alex's project succeeds, colleagues undermine them at every turn. The glass ceiling isn't just a barrier—it's actively defended by those who benefit from it.
 ```
 
 **关键词**: project success, colleague sabotage, active defense, ceiling guardians
@@ -184,7 +184,7 @@ As Maya's project succeeds, colleagues undermine her at every turn. The glass ce
 
 **Meta Description**:
 ```
-Maya discovers a network of women who've been quietly supporting each other for years. Their collective power might be strong enough to crack the ceiling.
+Alex discovers a network of women who've been quietly supporting each other for years. Their collective power might be strong enough to crack the ceiling.
 ```
 
 **关键词**: women network, quiet support, collective power, ceiling cracking
@@ -201,7 +201,7 @@ Maya discovers a network of women who've been quietly supporting each other for 
 
 **Meta Description**:
 ```
-Maya publicly calls out the biases she's experienced. The backlash is immediate and severe, but her courage inspires others to share their stories too.
+Alex publicly calls out the biases they've experienced. The backlash is immediate and severe, but their courage inspires others to share their stories too.
 ```
 
 **关键词**: bias calling, public confrontation, immediate backlash, courage inspiration
@@ -218,7 +218,7 @@ Maya publicly calls out the biases she's experienced. The backlash is immediate 
 
 **Meta Description**:
 ```
-Maya must decide whether to keep fighting from within or leave to build something better. Both paths have costs, and neither guarantees success.
+Alex must decide whether to keep fighting from within or leave to build something better. Both paths have costs, and neither guarantees success.
 ```
 
 **关键词**: fighting within, leaving building, path costs, uncertain success
@@ -235,7 +235,7 @@ Maya must decide whether to keep fighting from within or leave to build somethin
 
 **Meta Description**:
 ```
-Maya's efforts create lasting change, not just for herself but for those who follow. The glass ceiling cracks, and light streams through for the first time.
+Alex's efforts create lasting change, not just for themselves but for those who follow. The glass ceiling cracks, and light streams through for the first time.
 ```
 
 **关键词**: lasting change, ceiling cracking, light streaming, breakthrough moment
@@ -307,5 +307,5 @@ Maya's efforts create lasting change, not just for herself but for those who fol
 ---
 
 *Created: 2026-03-21*
-*Last Updated: 2026-03-21*
-*Version: 1.0*
+*Last Updated: 2026-03-22*
+*Version: 1.1*

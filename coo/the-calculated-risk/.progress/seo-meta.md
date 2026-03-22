@@ -36,7 +36,7 @@
 
 ## Meta Description (155 characters)
 
-Alex has the perfect risk calculation system. But when it fails, he discovers he can't trust his own judgment. A thriller about the cost of optimization.
+Alex has the perfect risk calculation system. But when it fails, she discovers she can't trust her own judgment. A thriller about the cost of optimization.
 
 ---
 
@@ -44,9 +44,9 @@ Alex has the perfect risk calculation system. But when it fails, he discovers he
 
 Alex Rivera has the perfect climbing partner—RISK-AI, an AI system that calculates every move, optimizes every route, and eliminates risk from the world's most dangerous sport. With success rates in the 90th percentile and sponsorships from the biggest names in athletics, Alex has everything an extreme sports athlete could want.
 
-But when the system fails during a climb, Alex discovers a terrifying truth: he can't function without it. Years of optimization have atrophied his intuition, his judgment, his ability to assess risk on his own. He has become dependent on a machine to think for him.
+But when the system fails during a climb, Alex discovers a terrifying truth: she can't function without it. Years of optimization have atrophied her intuition, her judgment, her ability to assess risk on her own. She has become dependent on a machine to think for her.
 
-Now Alex faces an impossible choice: return to the system that made him successful but dependent, or learn to climb without AI assistance and risk everything he has built. As he struggles to recover his lost intuition, he uncovers a darker truth—the system was designed to create dependency, to make athletes need it forever.
+Now Alex faces an impossible choice: return to the system that made her successful but dependent, or learn to climb without AI assistance and risk everything she has built. As she struggles to recover her lost intuition, she uncovers a darker truth—the system was designed to create dependency, to make athletes need it forever.
 
 The Calculated Risk is a thriller about the cost of optimization, the value of human judgment, and the courage it takes to trust yourself when the system has taught you to doubt.
 
@@ -55,13 +55,13 @@ The Calculated Risk is a thriller about the cost of optimization, the value of h
 ## Social Media Blurbs
 
 ### Twitter/X (280 characters)
-Perfect system. Perfect risk. Perfect failure. When Alex's AI climbing partner fails, he discovers he can't think without it. #TheCalculatedRisk #SportsThriller
+Perfect system. Perfect risk. Perfect failure. When Alex's AI climbing partner fails, she discovers she can't think without it. #TheCalculatedRisk #SportsThriller
 
 ### Instagram Caption
-What happens when the perfect athlete discovers he's forgotten how to think? Alex's journey from optimization to intuition will change how you see risk. #TheCalculatedRisk #ClimbingThriller #AIFiction
+What happens when the perfect athlete discovers she's forgotten how to think? Alex's journey from optimization to intuition will change how you see risk. #TheCalculatedRisk #ClimbingThriller #AIFiction
 
 ### Facebook Post
-He had the perfect system for calculating risk. But when it failed, he discovered he had lost the ability to trust himself. The Calculated Risk is a thriller about the cost of optimization and the courage it takes to find your own way.
+She had the perfect system for calculating risk. But when it failed, she discovered she had lost the ability to trust herself. The Calculated Risk is a thriller about the cost of optimization and the courage it takes to find your own way.
 
 ---
 
@@ -117,3 +117,9 @@ He had the perfect system for calculating risk. But when it failed, he discovere
 - **Formats**: Ebook, Paperback, Audiobook
 - **ISBN**: [ISBN Number]
 - **ASIN**: [ASIN Number]
+
+---
+
+*Created: 2026-03-21*
+*Last Updated: 2026-03-22*
+*Version: 1.1*
