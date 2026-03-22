@@ -76,7 +76,7 @@ Alex thought of Elena's messages, her determination to find justice, her fear of
 
 "And then? What happens when she has her answers?"
 
-The question hung in the air. Alex hadn't considered it. Elena was so focused on the investigation, on uncovering the truth, that neither of them had discussed what came after.
+The question lingered, unanswered. Alex hadn't considered it. Elena was so focused on the investigation, on uncovering the truth, that neither of them had discussed what came after.
 
 "I don't know," Alex admitted. "I haven't asked."
 

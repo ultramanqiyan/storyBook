@@ -148,7 +148,7 @@ But he knew one thing: he had done what was right.
 
 And for the first time in weeks, he felt something that wasn't fear or calculation or dread.
 
-He felt peace.
+A quiet acceptance filled him.
 
 The decision was made. Now he had to live with it.
 

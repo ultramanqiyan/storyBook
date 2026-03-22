@@ -169,6 +169,6 @@ It wasn't a good decision. It wasn't a smart decision. But it was his decision.
 
 And for the first time in three days, he felt something that wasn't fear or calculation or dread.
 
-He felt peace.
+A sense of calm settled over him, quiet and unexpected.
 
 The decision was made. Now he had to live with it.

@@ -132,7 +132,7 @@ He talked to David every week. His son was still struggling, still searching, bu
 
 And Robert sat on his balcony, watching the sunset over the lake, and felt something he hadn't felt in a long time.
 
-He felt peace.
+A deep, quiet contentment.
 
 ---
 
