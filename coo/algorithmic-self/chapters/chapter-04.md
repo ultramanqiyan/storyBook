@@ -1,4 +1,4 @@
-# Chapter 4: The Denial
+# Chapter 4: The Prediction
 
 The number appeared on the screen like a verdict. 78%. Probability of divorce within five years. Maggie stared at it, her mind refusing to process what she was seeing.
 

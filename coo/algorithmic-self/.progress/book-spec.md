@@ -138,7 +138,7 @@ Chapters 9-10: Acceptance that self-knowledge may be impossible; new relationshi
 | 01 | The Case | Establish Maggie's expertise; introduce DivorcePredict | Confident (75) → Curious (70) | Maggie wins a case using DivorcePredict; Dr. Chen offers her a trial |
 | 02 | The Trial | Maggie begins using DivorcePredict for personal analysis | Curious (70) → Intrigued (75) | Maggie inputs her own data; initial results are interesting |
 | 03 | The Data | Maggie reviews her behavioral patterns | Intrigued (75) → Disturbed (60) | Data reveals patterns she didn't recognize |
-| 04 | The Denial | DivorcePredict predicts her marriage's trajectory | Disturbed (60) → Shocked (50) | AI predicts 78% divorce probability within 5 years |
+| 04 | The Prediction | DivorcePredict predicts her marriage's trajectory | Disturbed (60) → Shocked (50) | AI predicts 78% divorce probability within 5 years |
 | 05 | The Denial | Maggie rejects the prediction; tries to prove it wrong | Shocked (50) → Defensive (55) | Maggie attempts to disprove the prediction |
 | 06 | The Evidence | Maggie discovers data supporting the prediction | Defensive (55) → Crisis (40) | Behavioral patterns confirm what she's ignored |
 | 07 | The Confrontation | Maggie confronts Tom with the data | Crisis (40) → Pain (45) | Tom confirms some of the patterns |
