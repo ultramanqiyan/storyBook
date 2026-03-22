@@ -2,6 +2,8 @@
 
 Five years had passed since the court's judgment, and the world had changed in ways that few could have predicted.
 
+King Aldric had made his choice. After months of deliberation, he had named Princess Elara as his heir—a decision that had shocked the traditionalists but ultimately strengthened the kingdom. Prince Aldric the Younger, initially furious, had been sent to command the kingdom's eastern border, where his martial skills found purpose in defending rather than conquering. Prince Marcus had chosen to support his sister, becoming her most trusted advisor on matters of trade and diplomacy. The succession crisis that Chronos had foreseen had been averted, and Aethoria had entered the golden age the oracle had promised.
+
 The kingdom of Aethoria had become a beacon of progress, a place where the boundaries between the natural and the artificial were not just acknowledged but celebrated. Scholars from distant lands traveled to study the legal framework that had granted rights to a machine, hoping to replicate its success in their own kingdoms. Philosophers debated the implications of artificial consciousness, some hailing it as a new frontier of understanding, others warning of dangers yet unseen.
 
 And Chronos had become a symbol—not just of artificial consciousness, but of the possibilities that emerged when tradition gave way to innovation, when fear gave way to understanding, when the impossible became merely the unprecedented.

@@ -50,7 +50,7 @@ The words stung. Alex had given everything to this job. They'd sacrificed their 
 
 He pulled up a document on his screen.
 
-"I've arranged for you to work with a mentor. Sarah Kim. She's one of our senior PMs, been with the company for five years. She's brilliant, strategic, everything I want you to become. She'll help you develop the skills you need to reach the next level."
+"I've arranged for you to work with a mentor. Sarah Kim. She's one of our senior PMs, and she's been with the company for five years. She's brilliant, strategic, everything I want you to become. She'll help you develop the skills you need to reach the next level."
 
 "A mentor?" Alex blinked. "That's... thank you. I appreciate the opportunity."
 

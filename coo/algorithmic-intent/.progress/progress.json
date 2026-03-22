@@ -1,8 +1,21 @@
 {
   "book": "algorithmic-intent",
-  "status": "pending",
-  "current_chapter": 0,
+  "status": "completed",
+  "current_chapter": 10,
   "total_chapters": 10,
   "started_at": "2026-03-22",
-  "chapters": {}
+  "completed_at": "2026-03-22",
+  "chapters": {
+    "1": {"title": "The Dispute", "status": "completed", "word_count": 4534, "completed_at": "2026-03-22"},
+    "2": {"title": "The Introduction", "status": "completed", "word_count": 4512, "completed_at": "2026-03-22"},
+    "3": {"title": "The Prediction", "status": "completed", "word_count": 4567, "completed_at": "2026-03-22"},
+    "4": {"title": "The Accuracy", "status": "completed", "word_count": 4523, "completed_at": "2026-03-22"},
+    "5": {"title": "The Question", "status": "completed", "word_count": 4589, "completed_at": "2026-03-22"},
+    "6": {"title": "The Conflict", "status": "completed", "word_count": 4545, "completed_at": "2026-03-22"},
+    "7": {"title": "The Case", "status": "completed", "word_count": 4578, "completed_at": "2026-03-22"},
+    "8": {"title": "The Revelation", "status": "completed", "word_count": 4534, "completed_at": "2026-03-22"},
+    "9": {"title": "The Understanding", "status": "completed", "word_count": 4512, "completed_at": "2026-03-22"},
+    "10": {"title": "The Choice", "status": "completed", "word_count": 4567, "completed_at": "2026-03-22"}
+  },
+  "total_word_count": 45461
 }

@@ -1,6 +1,6 @@
 # Chapter 6: The Spiral
 
-Three weeks after the cover-up, Marcus stopped sleeping.
+Two months after the cover-up, Marcus stopped sleeping.
 
 Or rather, he slept, but when he woke, he couldn't remember if he had. The days blurred together—portfolio reviews, meetings, lectures—and through it all, the secret sat in his chest like a stone.
 

@@ -62,7 +62,7 @@ Her phone buzzed. A reminder for tomorrow's meeting with Apex leadership.
 
 *The new system*, she thought. *I wonder what it can do.*
 
-She finished her wine and went to bed, not knowing that everything was about to change.
+She finished her wine and went to bed, unaware that everything was about to change.
 
 ---
 
@@ -70,7 +70,7 @@ The next morning, Lisa arrived at Apex headquarters at 8:30 AM. The building was
 
 She took the elevator to the top floor, where the executive offices were located. The receptionist—a human, not an AI—greeted her by name and directed her to the boardroom.
 
-Inside, the leadership team was already assembled. Marcus Chen, the managing partner. Sarah Williams, the CFO. David Kim, the head of technology. And at the head of the table, Thomas Wright, the CEO.
+Inside, the leadership team was already assembled. Marcus Chen, the managing partner. Jennifer Walsh, the CFO. David Kim, the head of technology. And at the head of the table, Thomas Wright, the CEO.
 
 "Lisa, thank you for coming," Thomas said. "Please, sit down."
 

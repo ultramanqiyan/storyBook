@@ -90,7 +90,7 @@ That evening, she received an email from the client.
 
 *Best regards,*
 *James Wilson*
-*CEO, Meridian Manufacturing*
+*CEO, Westfield Manufacturing*
 
 Lisa read the email twice. They'd accepted her efficiency recommendations but rejected her transition support. They would handle the transition "internally."
 
@@ -126,7 +126,7 @@ By the time she got home that evening, she knew what she needed to do.
 
 She pulled out her laptop and began to write—not a presentation, not an analysis, but something different.
 
-A letter. To the workers at Meridian Manufacturing.
+A letter. To the workers at Westfield Manufacturing.
 
 She told them what was coming. She told them what the company's plans were. She told them how many positions would be eliminated and when. She told them what she knew about transition support—and what the company had rejected.
 
@@ -134,7 +134,7 @@ She told them she was sorry.
 
 She didn't sign her name. She couldn't—she would be sued, fired, destroyed professionally. But she printed the letter on generic paper, put it in a plain envelope, and addressed it to "Customer Service Department Workers."
 
-The next day, she drove back to Meridian Manufacturing. She had a follow-up meeting scheduled—a thin pretext for returning to the site.
+The next day, she drove back to Westfield Manufacturing. She had a follow-up meeting scheduled—a thin pretext for returning to the site.
 
 Before the meeting, she walked through the customer service department. The envelope was in her bag. She found a break room, made sure no one was watching, and left the envelope on the table where workers would find it.
 

@@ -1,4 +1,4 @@
-# Chapter 8: The Confrontation - Meeting the Gatekeeper
+# Chapter 8: The Confrontation - Building the Case
 
 The coffee in Alex's mug had gone cold hours ago, a thin film forming on the surface that caught the fluorescent light like oil on water. They sat in Detective Webb's private office—a small space he maintained outside the precinct, separate from official channels, where he could meet with informants and work sensitive cases away from departmental politics. The room was cramped, surrounded by case files and the persistent hum of aging electronics, waiting for the meeting that would determine everything.
 

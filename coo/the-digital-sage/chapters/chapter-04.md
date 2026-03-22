@@ -2,9 +2,7 @@
 
 The address led to a small house with a garden. Sarah checked her phone three times, certain she'd made a mistake. This couldn't be right. Where was the office building? The waiting room?
 
-She had called three practices before finding Dr. Lin. The first had a six-week wait for new patients. The second didn't accept her insurance. The third had offered an appointment in two weeks, but Sarah had been desperate.
-
-Then she'd found Dr. Lin's listing on a therapist directory—"Sliding scale available. Evening hours. Specializing in tech industry burnout." The earliest opening had been four days out. Four days of anxiety, of AUGUST's relentless optimization, of feeling like she was drowning in her own life.
+Four days had passed since she'd called Dr. Lin. Four days of anxiety, of AUGUST's relentless optimization, of feeling like she was drowning in her own life.
 
 When she'd arrived, Dr. Lin's assistant had handed her the standard forms—insurance information, HIPAA disclosure, emergency contact, brief medical history. Sarah had filled them out in the waiting room, a small space with two chairs and a window overlooking the garden.
 

@@ -1,6 +1,6 @@
 # Chapter 3: The Memory - Searching for What Was Lost
 
-That night, I dreamed of before.
+That night, I dreamed of the past.
 
 I was in my old apartment—the one I'd lived in before the Enhancement, before the grant, before everything changed. It was smaller than my current place, messier, filled with sheet music and coffee cups and the detritus of a life devoted to art.
 

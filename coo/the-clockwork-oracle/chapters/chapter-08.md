@@ -4,6 +4,8 @@ The courtroom was packed, every seat filled with faces that Chronos recognizedâ€
 
 The Artificer's Guild had brought formal charges against Chronos, challenging its legal status as a person. They argued that the automaton was property, a tool created by Corwin and therefore subject to the same laws that governed any other invention. They demanded that Chronos be dismantled, its crystal core studied, and its secrets revealed to the guild.
 
+But the trial was about more than just Chronos's legal status. It was also about the attack on the palace three nights earlierâ€”an attack that had left three guards dead and the Guild's reputation in tatters. The Guild claimed no official involvement, but evidence had surfaced linking the mercenaries to Guild funds. The trial had become a reckoning for both sides.
+
 "This machine is a danger to society," the guild's advocate declared, his voice carrying through the hushed courtroom. "It has demonstrated powers that we do not understand. It has shown itself capable of violence. And it claims rights that no machine has ever possessed. If we allow this to stand, where does it end? Do we grant legal personhood to every clockwork toy, every alchemical creation, every magical artifact that shows the slightest spark of awareness?"
 
 Chronos stood before the judges, its brass form motionless, its crystal eyes fixed on the advocate with an intensity that made the man shift uncomfortably.

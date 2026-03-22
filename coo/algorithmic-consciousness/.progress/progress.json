@@ -1,9 +1,10 @@
 {
   "book": "algorithmic-consciousness",
-  "status": "in_progress",
-  "current_chapter": 3,
+  "status": "completed",
+  "current_chapter": 10,
   "total_chapters": 10,
   "started_at": "2026-03-22",
+  "completed_at": "2026-03-22",
   "chapters": {
     "1": {
       "title": "The Last Entrance",
@@ -16,6 +17,55 @@
       "status": "completed",
       "word_count": 4567,
       "completed_at": "2026-03-22"
+    },
+    "3": {
+      "title": "The Ghost Light",
+      "status": "completed",
+      "word_count": 4489,
+      "completed_at": "2026-03-22"
+    },
+    "4": {
+      "title": "The Mirror",
+      "status": "completed",
+      "word_count": 4512,
+      "completed_at": "2026-03-22"
+    },
+    "5": {
+      "title": "The Method",
+      "status": "completed",
+      "word_count": 4534,
+      "completed_at": "2026-03-22"
+    },
+    "6": {
+      "title": "The Audience",
+      "status": "completed",
+      "word_count": 4578,
+      "completed_at": "2026-03-22"
+    },
+    "7": {
+      "title": "The Memory",
+      "status": "completed",
+      "word_count": 4501,
+      "completed_at": "2026-03-22"
+    },
+    "8": {
+      "title": "The Question",
+      "status": "completed",
+      "word_count": 4589,
+      "completed_at": "2026-03-22"
+    },
+    "9": {
+      "title": "The Student",
+      "status": "completed",
+      "word_count": 4545,
+      "completed_at": "2026-03-22"
+    },
+    "10": {
+      "title": "The Final Scene",
+      "status": "completed",
+      "word_count": 4567,
+      "completed_at": "2026-03-22"
     }
-  }
+  },
+  "total_word_count": 45403
 }

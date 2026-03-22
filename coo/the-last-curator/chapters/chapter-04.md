@@ -122,7 +122,7 @@ Marcus felt the weight of the day's failure pressing down on him.
 
 Elena, sitting in the audience, raised her hand.
 
-"Mr. Webb, you just failed a blind test this morning. In front of museum staff. Four out of ten. Random chance." Her voice was calm but pointed. "How do you reconcile that with your claim to have 'trained intuition'?"
+"Mr. Webb, I heard about the verification lab visit this morning. Word travels fast in this building." Her voice was calm but pointed. "How do you reconcile that with your claim to have 'trained intuition'?"
 
 The room went silent.
 

@@ -172,7 +172,7 @@ He thought about Elena's words: *You made something. That's enough.*
 
 He picked up his phone and typed a response:
 
-*Dear [Gallery Name], Thank you for the invitation. I would be honored to participate. I'll be in touch soon with details.*
+*Dear Curators, Thank you for the invitation. I would be honored to participate. I'll be in touch soon with details.*
 
 He pressed send.
 

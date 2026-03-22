@@ -20,7 +20,7 @@ Sarah stared at the screen. The numbers blurred in front of her eyes. Down fifte
 
 "I'm aware of the decline," she said, trying to keep her voice steady. "We've been tracking it for weeks. The algorithm changes last month affected our reach."
 
-"Algorithm changes?" Sarah's fingers tightened on her keyboard. "What kind of changes?"
+"Algorithm changes?" Jason leaned forward. "What kind of changes?"
 
 "Updates to the content recommendation system. More personalized targeting. Some users reported feeling... overwhelmed."
 
@@ -132,7 +132,7 @@ Thursday. Three days from now. The wait felt both too long and like a lifeline.
 
 "Yes," Sarah said. "That works. Thank you."
 
-"Wonderful. I'll send you some intake forms to complete before our first session. My office is at 1847 Market Street, Suite 402. Do you have any questions?"
+"Wonderful. I'll send you some intake forms to complete before our first session. My office is at 1847 Garden Lane—it's a small house with a garden, just off Market Street. Do you have any questions?"
 
 "No. I... I don't know what to ask."
 

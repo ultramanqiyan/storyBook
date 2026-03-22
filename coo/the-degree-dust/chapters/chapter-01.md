@@ -12,7 +12,7 @@ He checked the data again. Maybe there was an error. Maybe the reporting system 
 
 But the numbers were consistent across every metric: domestic applications, international applications, transfer applications, graduate applications. All down. All dramatically.
 
-He pulled up historical data, looking for context. The university had weathered crises before—economic recessions, demographic shifts, changing federal policies. But nothing like this. The closest parallel was the enrollment crash after World War II, when returning veterans flooded into universities. But that had been a surge, not a collapse.
+He pulled up historical data, looking for context. The university had weathered crises before—economic recessions, demographic shifts, changing federal policies. But nothing like this. The closest parallel was the enrollment surge after World War II, when returning veterans flooded into universities. But that had been a surge, not a collapse.
 
 This was something new.
 

@@ -46,7 +46,7 @@ He stood, gathered his things, and walked out of the conference room. He didn't 
 
 The weeks that followed were strange.
 
-He was unemployed for the first time in forty years. He had no pension, no 401(k) that was worth anything, no security to speak of. He and Margaret would have to sell the house, downsize, figure out how to live on whatever they could scrape together.
+He was unemployed for the first time in forty years. He had no pension, no job, no steady income to speak of. His 401(k) was technically intact, but with the market in turmoil and his forced early withdrawal penalties, it wouldn't last as long as he'd planned. He and Margaret would have to sell the house, downsize, figure out how to live on far less than they'd expected.
 
 But he also had something he'd never had before.
 
@@ -174,7 +174,7 @@ And that choice, he realized, was the only thing that had ever really mattered.
 
 *He had peace.*
 
-*And somewhere, in a world that was still changing, still uncertain, still full of fear and hope and possibility, other people were reading his letter and finding their own voices.*
+*In cities and towns across the country, other people were reading his letter and finding their own voices.*
 
 *The system was broken. But the people were still here.*
 

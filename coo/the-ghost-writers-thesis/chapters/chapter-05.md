@@ -1,22 +1,22 @@
 # Chapter 05: The Experiment
 
-The blank page stared back at her. Elena had faced blank pages before—every dissertation began with one—but this was different. This time, she wasn't supposed to fill it with AI-assisted research. She was supposed to fill it with questions that were hers.
+The notebook from yesterday lay open on her desk, three pages filled with questions she had generated herself. Elena stared at them, feeling a mixture of pride and uncertainty. Yesterday in the archive, the questions had felt genuine. But now, in the cold light of morning, doubt crept in.
 
-The cursor blinked, waiting. Elena took a breath and began to type.
+The cursor blinked on her screen, waiting. She had promised herself she would continue practicing—generating new questions every day, rebuilding her atrophied capacity for wonder. But looking at yesterday's questions, she wasn't sure they were any good.
 
 "What makes a question feel like your own?"
 
-She stopped. The question had come to her in the night, and she had thought it was genuine. But now, looking at it on the screen, she wasn't sure. Was this really her question? Or was it something she had formulated because she wanted so desperately to wonder?
+She had written that one first. It seemed almost too on-the-nose now, too self-conscious. Was it really her question? Or was it something she had formulated because she wanted so desperately to wonder?
 
-She deleted it and tried again.
+She crossed it out and tried to generate a new one.
 
 "How do people decide what to be curious about?"
 
 Again, the doubt crept in. Was this a real question, or was she just mimicking the form of curiosity without the substance? How could she tell the difference?
 
-The morning passed in frustration. Elena sat at her desk, typing and deleting, trying to generate questions that felt authentic. Every attempt was met with the same doubt: Is this really mine? Or am I just pretending to wonder?
+The morning passed in frustration. Elena sat at her desk, trying to add to yesterday's questions, but every new attempt was met with the same doubt: Is this really mine? Or am I just pretending to wonder?
 
-By noon, she had filled three pages with questions, and deleted every one of them. The blank page remained blank, the cursor still blinking, mocking her with its patience.
+By noon, she had added only two questions to her notebook—and crossed out both of them.
 
 ---
 

@@ -1,6 +1,6 @@
 # Chapter 2: The News - When Efficiency Became a Layoff
 
-The email arrived at 8:47 AM: "All staff meeting, 9:00 AM, main auditorium. Attendance mandatory."
+The email from the night before still glowed in Robert's mind: "All staff meeting, 9:00 AM, main auditorium. Attendance mandatory."
 
 Robert read it twice. In forty years at Morrison & Associates, he'd received perhaps a dozen emails like this. Each one had marked something significant—a merger, a death, a crisis. The tone was always the same: neutral, corporate, betraying nothing.
 

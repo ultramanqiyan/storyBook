@@ -88,7 +88,7 @@ Robert nodded. He didn't trust himself to speak.
 
 "You have us," Robert said. "You have me. Whatever happens, you have friends."
 
-Janet smiled, but it was sad. "Friends can't pay the mortgage, Robert. Friends can't fund my daughter's education. Friends can't give me back the thirty years I gave to this company."
+Janet smiled, but it was sad. "Friends can't pay the mortgage, Robert. Friends can't fund my daughter's education. Friends can't give me back the forty years I gave to this company."
 
 She stood. "I'm not telling you this to make you feel guilty. I'm telling you because you're one of the few people left who understands. Who remembers. Who knows what we lost."
 

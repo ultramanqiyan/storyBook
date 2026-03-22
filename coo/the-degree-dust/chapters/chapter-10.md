@@ -100,7 +100,7 @@ The campus was still quiet, compared to years past. But it was no longer empty. 
 
 ---
 
-At home, he found Sarah waiting for him.
+At home, he found Emily waiting for him.
 
 "How was the ceremony?"
 
@@ -114,7 +114,7 @@ At home, he found Sarah waiting for him.
 
 "It feels right. Like we're finally doing what we were supposed to do all along."
 
-Sarah took his hand. "You've changed this year. You seem... lighter. More hopeful."
+Emily took his hand. "You've changed this year. You seem... lighter. More hopeful."
 
 "I am hopeful. For the first time in years, I feel like I understand what I'm doing. Why it matters."
 

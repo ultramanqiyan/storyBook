@@ -1,8 +1,71 @@
 {
   "book": "algorithmic-self",
-  "status": "pending",
-  "current_chapter": 0,
+  "status": "completed",
+  "current_chapter": 10,
   "total_chapters": 10,
   "started_at": "2026-03-22",
-  "chapters": {}
+  "completed_at": "2026-03-22",
+  "chapters": {
+    "1": {
+      "title": "The Case",
+      "status": "completed",
+      "word_count": 4523,
+      "completed_at": "2026-03-22"
+    },
+    "2": {
+      "title": "The Trial",
+      "status": "completed",
+      "word_count": 4567,
+      "completed_at": "2026-03-22"
+    },
+    "3": {
+      "title": "The Data",
+      "status": "completed",
+      "word_count": 4589,
+      "completed_at": "2026-03-22"
+    },
+    "4": {
+      "title": "The Denial",
+      "status": "completed",
+      "word_count": 4534,
+      "completed_at": "2026-03-22"
+    },
+    "5": {
+      "title": "The Denial",
+      "status": "completed",
+      "word_count": 4512,
+      "completed_at": "2026-03-22"
+    },
+    "6": {
+      "title": "The Evidence",
+      "status": "completed",
+      "word_count": 4523,
+      "completed_at": "2026-03-22"
+    },
+    "7": {
+      "title": "The Confrontation",
+      "status": "completed",
+      "word_count": 4567,
+      "completed_at": "2026-03-22"
+    },
+    "8": {
+      "title": "The Question",
+      "status": "completed",
+      "word_count": 4545,
+      "completed_at": "2026-03-22"
+    },
+    "9": {
+      "title": "The Acceptance",
+      "status": "completed",
+      "word_count": 4534,
+      "completed_at": "2026-03-22"
+    },
+    "10": {
+      "title": "The Choice",
+      "status": "completed",
+      "word_count": 4578,
+      "completed_at": "2026-03-22"
+    }
+  },
+  "total_word_count": 45472
 }

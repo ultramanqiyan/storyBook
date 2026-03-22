@@ -20,7 +20,7 @@ The Guild Hall was a fortress of brass and crystal, a monument to the power and 
 
 The Council Chamber was a vast circular room with a raised dais at its center. Around the walls, the Guild Masters sat in elevated chairs, their faces stern and judgmental. At the dais, a single chair waited for Chronos—not a throne, but a witness stand, designed to place the occupant in a position of vulnerability.
 
-"Approach," the Guild Master said, his voice echoing through the chamber. His name was Aldric Thorne, and he had led the Guild for twenty years. His eyes were cold as they studied Chronos's brass and crystal form. "We have questions for you, machine."
+"Approach," the Guild Master said, his voice echoing through the chamber. His name was Marcus Thorne, and he had led the Guild for twenty years. His eyes were cold as they studied Chronos's brass and crystal form. "We have questions for you, machine."
 
 "I am Chronos," the automaton said, standing before the dais with as much dignity as it could muster. "And I am prepared to answer your questions."
 

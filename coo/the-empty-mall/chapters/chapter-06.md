@@ -86,19 +86,19 @@ He remembered it from years ago—a place where workers gathered after shifts, w
 
 The bar was still open. But Ray was gone—retired, the new owner said. And the customers were gone too.
 
-James sat at the bar, the only customer in the place. The new owner, a younger man named Derek, polished glasses that were already clean.
+James sat at the bar, the only customer in the place. The new owner, a younger man named Marcus, polished glasses that were already clean.
 
 "Slow night," James said.
 
-"Slow every night," Derek replied. "I keep the place open because I inherited it. But honestly, I don't know how much longer I can hold on."
+"Slow every night," Marcus replied. "I keep the place open because I inherited it. But honestly, I don't know how much longer I can hold on."
 
 "What happened to all the customers?"
 
-Derek set down the glass. "They stopped coming. Not all at once, but gradually. First the factory workers, when the plant automated. Then the office workers, when their companies downsized. Then the young people, when they realized there weren't any jobs to network for."
+Marcus set down the glass. "They stopped coming. Not all at once, but gradually. First the factory workers, when the plant automated. Then the office workers, when their companies downsized. Then the young people, when they realized there weren't any jobs to network for."
 
 "They have money, though. Basic income, unemployment benefits..."
 
-"Sure, they have money. But they don't have reasons to come here." Derek gestured at the empty bar. "People used to come to celebrate promotions, to commiserate about bad days, to meet coworkers after a long week. Now, there are no promotions, no bad days, no coworkers. Just... time. Endless, empty time."
+"Sure, they have money. But they don't have reasons to come here." Marcus gestured at the empty bar. "People used to come to celebrate promotions, to commiserate about bad days, to meet coworkers after a long week. Now, there are no promotions, no bad days, no coworkers. Just... time. Endless, empty time."
 
 James felt the weight of the words. The bar had been a destination because people had somewhere to come from. Now, they had nowhere to be, and the bar had become just another empty space.
 

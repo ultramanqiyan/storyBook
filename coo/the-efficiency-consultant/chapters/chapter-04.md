@@ -60,7 +60,7 @@ The screen filled with slides. They were beautiful—clean design, compelling vi
 
 The room erupted in applause. Lisa joined in automatically, her hands moving while her mind raced.
 
-Two hours. The engagement she'd spent three weeks on at Meridian Manufacturing could be done in two hours.
+Two hours. The engagement she'd spent three weeks on at Westfield Manufacturing could be done in two hours.
 
 And the results were better.
 
@@ -88,7 +88,7 @@ Priya's expression flickered—just for a moment—before returning to professio
 
 Priya didn't answer immediately. When she spoke, her voice was quieter. "I think about that too. But I also think about all the clients who can't afford traditional consulting. APEX-7 could bring optimization expertise to small businesses, nonprofits, developing economies. That's worth something, isn't it?"
 
-Lisa considered this. Priya was right—there was potential for good here. But she'd also seen what happened when efficiency became the only goal. The workers at Meridian Manufacturing. The customer service department she'd helped eliminate. The thirty lives disrupted, the families affected, the community impacted.
+Lisa considered this. Priya was right—there was potential for good here. But she'd also seen what happened when efficiency became the only goal. The workers at Westfield Manufacturing. The customer service department she'd helped eliminate. The thirty lives disrupted, the families affected, the community impacted.
 
 And now the system that had learned from her work was optimizing that disruption.
 
@@ -110,9 +110,9 @@ She'd built her career on efficiency. She'd preached its virtues, demonstrated i
 
 But now she was seeing efficiency from the other side. Now she was the one being optimized.
 
-She got up and walked to her window. The city was quiet, the streets mostly empty. Somewhere out there, servers were running. Algorithms were processing. APEX-7 was learning.
+She got up and walked to her window. The city was quiet, the streets mostly empty. In data centers around the world, servers processed the data that fed APEX-7's learning algorithms.
 
-She thought about the workers at Meridian Manufacturing. She thought about her anonymous letter, her small attempt to warn them. She wondered if it had made any difference.
+She thought about the workers at Westfield Manufacturing. She thought about her anonymous letter, her small attempt to warn them. She wondered if it had made any difference.
 
 She thought about her eight hundred and forty-seven documents, feeding the system that would eventually replace her. She thought about all the efficiency she'd created over fifteen years, all the jobs she'd eliminated, all the lives she'd changed.
 

@@ -157,7 +157,7 @@ Then he made a decision.
 
 He would stay.
 
-Not because the numbers said so— they didn't. Not because it was the smart choice—it probably wasn't. But because somewhere, in the space between the lists, he'd found something that mattered more than security.
+Not because the numbers said so—they didn't. Not because it was the smart choice—it probably wasn't. But because somewhere, in the space between the lists, he'd found something that mattered more than security.
 
 He would stay, and he would watch, and he would try to understand what was happening. And maybe—maybe—he could do something about it. Not for himself, but for the people who came after.
 

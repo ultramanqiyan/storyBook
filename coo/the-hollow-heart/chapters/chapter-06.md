@@ -60,7 +60,7 @@ The room beyond the door was small and cluttered, filled with books and papers a
 
 "I'm Dr. Marcus Webb," the man said, closing the door behind me. "And you are?"
 
-"Kai Zhang. I was Enhanced six weeks ago."
+"Kai Zhang. I was Enhanced two weeks ago."
 
 "Ah." He nodded slowly. "And you're experiencing the side effects."
 

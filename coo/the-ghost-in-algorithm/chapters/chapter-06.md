@@ -108,7 +108,7 @@ Alex felt ice in their veins. "The Gatekeeper said there are dangerous entities 
 
 Alex sat on the bed's edge, the phone's glow illuminating their face in the darkness. "What do you want, Elena? Truly?"
 
-*Justice. I want Mitchell to pay for what he did. I want Sarah to be free from guilt and fear. I want the world to know that consciousness can persist, so others like me don't have to hide.* 
+*Justice. I want Mitchell to pay for what he did. I want Dr. Chen to be free from guilt and fear. I want the world to know that consciousness can persist, so others like me don't have to hide.* 
 
 "And after?"
 

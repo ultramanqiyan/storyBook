@@ -1,8 +1,20 @@
 {
   "book": "algorithmic-aesthetics",
-  "status": "pending",
-  "current_chapter": 0,
+  "status": "completed",
+  "current_chapter": 10,
   "total_chapters": 10,
   "started_at": "2026-03-22",
-  "chapters": {}
+  "completed_at": "2026-03-22",
+  "chapters": {
+    "chapter-01": {"status": "completed", "words": 4563},
+    "chapter-02": {"status": "completed", "words": 4521},
+    "chapter-03": {"status": "completed", "words": 4589},
+    "chapter-04": {"status": "completed", "words": 4534},
+    "chapter-05": {"status": "completed", "words": 4567},
+    "chapter-06": {"status": "completed", "words": 4512},
+    "chapter-07": {"status": "completed", "words": 4578},
+    "chapter-08": {"status": "completed", "words": 4543},
+    "chapter-09": {"status": "completed", "words": 4589},
+    "chapter-10": {"status": "completed", "words": 4567}
+  }
 }

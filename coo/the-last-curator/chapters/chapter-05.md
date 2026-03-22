@@ -110,7 +110,7 @@ One: Expose Jimmy. Cancel his participation in the exhibition. Admit that he'd b
 
 Two: Stay quiet. Proceed with the exhibition as planned. Hope that no one found out. His reputation would survive, but he'd be living a lie.
 
-Three: Find another artist. Start over. But there wasn't enough time. The exhibition opened in four months. And after the blind test, after Elena's public challenge, he didn't have the credibility to make another bold discovery.
+Three: Find another artist. Start over. But there wasn't enough time. The exhibition opened in five months. And after the blind test, after Elena's public challenge, he didn't have the credibility to make another bold discovery.
 
 His phone buzzed. The unknown number:
 

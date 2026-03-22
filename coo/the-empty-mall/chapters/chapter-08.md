@@ -74,7 +74,7 @@ But slowly, the mall was filling with something other than products.
 
 ---
 
-Three months in, James compiled the data.
+Three months after the experiments began, James compiled the data.
 
 Foot traffic was up 40% from the low point. Not to previous levels—not even close—but up. People were coming. They weren't buying much, but they were being there.
 

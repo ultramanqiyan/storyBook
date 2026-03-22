@@ -1,4 +1,4 @@
-# Chapter 6: The Confrontation - Facing the Gaslighters
+# Chapter 6: The Gaslighting - When Reality Distorts
 
 Alex started to question their own mind.
 

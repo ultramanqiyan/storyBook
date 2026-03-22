@@ -138,7 +138,7 @@ Chapters 9-10: Acceptance and uncertainty (intensity 60-?)
 | Attribute | Description |
 |-----------|-------------|
 | **Occupation** | Former Enhancement Institute researcher, now helps Enhanced individuals reverse the process |
-| **Age** | 55 |
+| **Age** | 60s |
 | **Speaking Style** | Cautious, empathetic, haunted by his own experience |
 | **Word Choice** | Recovery, reversal, soul, humanity, cost |
 | **Sentence Patterns** | Personal anecdotes mixed with technical knowledge |

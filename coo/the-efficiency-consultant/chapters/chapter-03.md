@@ -1,6 +1,6 @@
 # Chapter 3: The Introduction - Meet the New System
 
-Two weeks after her anonymous letter to the Meridian workers, Lisa walked into the office to find an unusual energy in the air. People were gathering in the main conference room. Someone had ordered catering—platters of pastries and carafes of coffee that suggested this wasn't a normal meeting.
+Two weeks after her anonymous letter to the Westfield workers, Lisa walked into the office to find an unusual energy in the air. People were gathering in the main conference room. Someone had ordered catering—platters of pastries and carafes of coffee that suggested this wasn't a normal meeting.
 
 "What's going on?" she asked Derek, a junior consultant who worked on her team.
 
@@ -18,7 +18,7 @@ He clicked a remote, and a slide appeared behind him: a sleek logo with the word
 
 "I'm pleased to introduce APEX-7, our new AI-powered optimization platform. This system has been in development for two years, and we're now ready to begin integration into our consulting practice."
 
-Lisa felt the coffee turn sour in her stomach.
+Lisa felt the coffee turn sour in her stomach. She'd known this was coming—Thomas had told her privately two weeks ago. But hearing it announced publicly, to the entire firm, made it real in a way that private conversation hadn't.
 
 "APEX-7 represents a fundamental shift in how we deliver value to our clients," Marcus continued. "It can analyze organizational structures, identify inefficiencies, and generate recommendations in a fraction of the time our consultants currently spend. It can process more data, identify more patterns, and deliver more precise insights than any human team."
 
@@ -60,7 +60,7 @@ Within seconds, APEX-7 generated a complete analysis. It identified the same ine
 
 It was good. It was very good.
 
-She tried another tool: Workforce Planning. She entered data from the Meridian Manufacturing engagement—the customer service department, the forty-seven workers, the response times and resolution rates.
+She tried another tool: Workforce Planning. She entered data from the Westfield Manufacturing engagement—the customer service department, the forty-seven workers, the response times and resolution rates.
 
 APEX-7 generated the same recommendations she'd developed over three weeks of work. In twelve seconds.
 
@@ -122,11 +122,11 @@ She searched for her name in the system's references. There it was: "Lisa Park, 
 
 Eight hundred and forty-seven documents. Fifteen years of work. All fed into the system, teaching it how to do what she did.
 
-She thought about the workers at Meridian Manufacturing. She thought about all the workers at all the companies she'd helped "optimize." She thought about the efficiency she'd created, the jobs she'd eliminated, the lives she'd changed.
+She thought about the workers at Westfield Manufacturing. She thought about all the workers at all the companies she'd helped "optimize." She thought about the efficiency she'd created, the jobs she'd eliminated, the lives she'd changed.
 
 And now that efficiency was coming for her.
 
-She closed the system and sat in the dark office. The city lights glowed outside her window. Somewhere, servers were processing data. Somewhere, algorithms were learning. Somewhere, the future was being built—one optimization at a time.
+She closed the system and sat in the dark office. The city lights glowed outside her window. In data centers across the world, servers hummed with the collective knowledge of her profession. Algorithms processed patterns she'd spent fifteen years learning. The future was being built—one optimization at a time.
 
 She'd helped build that future. She'd contributed her eight hundred and forty-seven documents. She'd trained the system that would eventually replace her.
 
@@ -138,6 +138,6 @@ Because that was what efficient people did.
 
 But tonight, she allowed herself to feel the weight of what was coming. The system she'd helped create. The future she'd helped build. The efficiency that would eventually consume her too.
 
-She drove home through the dark streets, the city lights blurring past, and wondered if the workers at Meridian Manufacturing had received her letter. She wondered if it had helped. She wondered if anything could help, now that the machine was learning to optimize itself.
+She drove home through the dark streets, the city lights blurring past, and wondered if the workers at Westfield Manufacturing had received her letter. She wondered if it had helped. She wondered if anything could help, now that the machine was learning to optimize itself.
 
 The efficiency spiral was turning. And she was caught in its gears.

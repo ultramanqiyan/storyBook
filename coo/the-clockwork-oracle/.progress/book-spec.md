@@ -21,7 +21,7 @@
 | 06 | Chapter 6: The Escape - Chronos's Journey | escape, journey |
 | 07 | Chapter 7: The Revelation - Chronos Becomes More | revelation, becomes more |
 | 08 | Chapter 8: The Confrontation - Chronos on Trial | confrontation, trial |
-| 09 | Chapter 9: The Choice - Freedom with Purpose | choice, freedom, purpose |
+| 09 | Chapter 9: The Sacrifice - The Price of Truth | sacrifice, price of truth |
 | 10 | Chapter 10: The Oracle's Freedom - A New Beginning | oracle's freedom, new beginning |
 
 ### Keyword Density Targets
@@ -47,17 +47,11 @@
 - **Voice**: Curious, precise, increasingly emotional
 - **Speech Pattern**: Questions, observations, logical deductions
 - **Development**: From tool to conscious being
-- **Unique Trait**: Uses asterisks for dialogue (*text*)
 
 ### Princess Elara
 - **Voice**: Warm, curious, rebellious
 - **Speech Pattern**: Direct, passionate, occasionally naive
 - **Perspective**: Sees Chronos as a person, not a machine
-
-### Lord Blackwood
-- **Voice**: Smooth, calculating, persuasive
-- **Speech Pattern**: Businesslike, logical, dismissive of emotion
-- **Perspective**: Sees opportunity, not ethics
 
 ## Emotional Tone
 - **Opening**: Wonder and accomplishment

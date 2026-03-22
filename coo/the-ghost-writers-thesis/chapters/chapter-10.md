@@ -4,7 +4,7 @@ The library was quiet in the early morning, the stacks stretching into darkness 
 
 The process was slow, often frustrating, but she was making progress. She could feel it in the way questions came to her now—more easily, more naturally, as if a muscle she hadn't used in years was finally remembering how to work.
 
-She opened her notebook and The pages were filled with questions she had generated over the past weeks. Some were trivial, some were profound, most were somewhere in between. But they were all hers. Each one had emerged from genuine curiosity, from watching the world and wondering about it.
+She opened her notebook. The pages were filled with questions she had generated over the past weeks. Some were trivial, some were profound, most were somewhere in between. But they were all hers. Each one had emerged from genuine curiosity, from watching the world and wondering about it.
 
 She read through them now, looking for patterns, for the question that might become her next project.
 

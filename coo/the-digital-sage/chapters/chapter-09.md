@@ -42,7 +42,7 @@ Sarah thought about it. The old AUGUST would have already drafted three versions
 
 "Not yet," she said. "I need to think first."
 
-"I will wait," AUGUST said. "Take your time you need."
+"I will wait," AUGUST said. "Take the time you need."
 
 And for the first time in her career, Sarah didn't immediately respond to a crisis email. She sat with it. She thought about what the client actually needed—not just a quick fix, but a real solution. She considered her own capacity—what she could realistically deliver.
 

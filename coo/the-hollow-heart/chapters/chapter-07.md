@@ -76,7 +76,7 @@ Dr. Chen sighed. "Kai, I know this is difficult. But I want you to consider some
 
 "Does it?" She stood to face me. "You can still appreciate beauty. You can still form connections. You can still find meaning. You just do it differently now. Better."
 
-"Better." I shook my head. "You keep using that word. I don't think it means what you think it means."
+"Better." I shook my head. "You call this better? You've taken everything that makes us human and called it an improvement."
 
 ---
 

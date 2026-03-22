@@ -12,7 +12,7 @@ That question cut to the heart of everything Michael believed. He'd spent his li
 
 But what if that wasn't true anymore? What if knowledge itself had become a commodity—free, instant, infinite?
 
-He lay in bed, staring at the ceiling, while his wife Sarah slept beside him. The house was quiet, the neighborhood still. Somewhere in his son's room, Alex was probably awake too, asking himself the same questions.
+He lay in bed, staring at the ceiling, while his wife Emily slept beside him. The house was quiet, the neighborhood still. Somewhere in his son's room, Alex was probably awake too, asking himself the same questions.
 
 What was the point of learning when everything was already known?
 

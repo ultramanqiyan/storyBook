@@ -42,51 +42,33 @@ Marcus felt a familiar unease growing. "So your verification is..."
 
 The final room was smaller, more intimate. A single desk with two chairs, a large monitor, and a stack of images.
 
-"This is where we do our blind assessments," Dr. Chen said. "Would you like to try?"
+"This is where we show our analysts the verification methodology," Dr. Chen said. "We train them to look for patterns that machines might miss."
 
-Marcus hesitated. The memory of his lecture demonstration—the anonymous painting, the moment of doubt—still lingered.
+"Like what?"
 
-"I'm here to observe your process, not participate in it."
+"Emotional inconsistency. Human artists often make small errors—proportions slightly off, colors that don't quite match. AI systems tend to be too perfect, too consistent. Our analysts learn to spot the difference."
 
-"Humor me." She gestured to the chair. "Ten images. Human or AI. No pressure—this is just to show you how our analysts work."
+Marcus studied the setup. "And how effective is this training?"
 
-He sat. She placed the first image on the desk.
+"About seventy-three percent. When combined with other techniques, we can reach ninety-one percent confidence."
 
-It was a landscape—rolling hills under a dramatic sky, painted in a style that evoked the Romantic tradition. The brushstrokes were visible, the colors rich and varied.
+Marcus nodded slowly. "And the remaining nine percent?"
 
-Marcus studied it. The composition was balanced, almost too balanced. The color transitions were smooth, seamless. But there was a quality to the light—a warmth that felt...
-
-"Human," he said.
-
-Dr. Chen turned the image over. A red stamp marked *AI-GENERATED.*
-
-Marcus felt a tightness in his chest.
-
-The second image was an abstract piece, all sharp angles and clashing colors. The chaos felt deliberate, intentional.
-
-"AI," he guessed.
-
-She turned it over. *HUMAN.*
-
-The third. The fourth. The fifth.
-
-By the tenth image, Marcus had gotten four correct.
-
-Four out of ten. Worse than random chance.
+Dr. Chen's smile flickered. "Uncertain. Every system has limitations."
 
 ---
 
-"Your method relies on intuition," Dr. Chen said afterward. "And intuition is valuable. But it's also subject to bias. You see what you expect to see."
+They moved to the next room, where larger machines analyzed physical canvases.
 
-"I've spent thirty years developing my eye."
+"Here we examine the material properties. Paint composition, canvas age, tool marks. AI-generated art that's printed on canvas can often be detected through microscopic analysis of the surface texture."
 
-"And your eye is remarkable. But the question isn't whether you can identify human art. The question is whether you can identify it reliably, consistently, under controlled conditions." She leaned back in her chair. "The answer, based on today, is no."
+"But if someone paints over an AI-generated image?"
 
-Marcus felt the words like a physical blow.
+"Then it becomes more difficult. We look for inconsistencies between the underlayer and the visible surface, but a skilled artist could potentially hide the evidence."
 
-"Then what's the point of verification?" he asked. "If even your machines can only reach ninety-one percent confidence, how can anyone claim to know the difference?"
+Marcus felt a familiar unease growing. "So your verification is..."
 
-"That's the question, isn't it?" Dr. Chen's expression was unreadable. "Maybe the difference isn't as clear as we'd like to believe. Maybe it never was."
+"Probabilistic. Not definitive." Dr. Chen met his eyes. "We provide evidence, Mr. Webb. Not certainty. The question is whether that's enough for your purposes."
 
 ---
 

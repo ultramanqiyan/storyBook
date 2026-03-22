@@ -10,7 +10,7 @@ The morning after her decision, Elena woke with a sense of purpose that quickly 
 
 She sat at her desk, a blank page open on her screen. The cursor blinked, waiting. She had spent weeks learning to generate questions, and she had made progress. But the progress felt fragile, easily lost if she didn't keep practicing.
 
- She needed a make curiosity a daily habit, not just a skill she used occasionally.
+She needed to make curiosity a daily habit, not just a skill she used occasionally.
 
 She closed her laptop and walked to the library. The archive was waiting, her usual table in the hidden room, the dissertations of pre-AI researchers surrounding her like evidence of what she was trying to become.
 
@@ -28,7 +28,7 @@ The days that followed were hard. Elena woke each morning determined to practice
 
 She tried different approaches. She read books without AI guidance, hoping to spark curiosity. She walked through the city, looking for things that interested her. She talked to people, listened to their stories, searched for questions in their lives.
 
-Some days were she generated questions that felt genuine. Other days, everything felt hollow, derivative, borrowed. She couldn't tell the difference, couldn't trust her own mind.
+Some days she generated questions that felt genuine. Other days, everything felt hollow, derivative, borrowed. She couldn't tell the difference, couldn't trust her own mind.
 
 The doubt was the worst part. Every time she asked a question, she wondered: Is this really mine? Or am I just mimicking the form of curiosity without the substance? How could she know? How could anyone know, in a world where AI could generate questions that felt just authentic?
 
@@ -44,7 +44,7 @@ But trusting herself was exactly what she couldn't do. How could she trust a min
 
 ---
 
-The breakthrough came slowly, over weeks of practice. Elena noticed that the questions that felt most authentic came not observation, not introspection. When she watched the world, paid attention to what was happening around her, questions emerged naturally. When she sat at her desk trying to think of questions, nothing came.
+The breakthrough came slowly, over weeks of practice. Elena noticed that the questions that felt most authentic came from observation, not introspection. When she watched the world, paid attention to what was happening around her, questions emerged naturally. When she sat at her desk trying to think of questions, nothing came.
 
 She started spending more time in the world and less time at her desk. She walked through the city, sat in cafes, wandered through parks. She watched people, listened to conversations, noticed patterns. And questions emerged—not because she forced them, but because she was paying attention.
 
@@ -70,7 +70,7 @@ Elena found comfort in the shared struggle. She wasn't alone. Others had walked 
 
 ---
 
-Two months into her recovery, Elena sat in the library, watching students study. She noticed something: they were all using AI. Every tablet, every laptop, every screen showed the familiar interface of SCHOLAR-AI or or similar systems. The students weren't thinking—they were processing.
+Two months into her recovery, Elena sat in the library, watching students study. She noticed something: they were all using AI. Every tablet, every laptop, every screen showed the familiar interface of SCHOLAR-AI or similar systems. The students weren't thinking—they were processing.
 
 The observation sparked a question: "What happens to a generation that never learns to wonder?"
 

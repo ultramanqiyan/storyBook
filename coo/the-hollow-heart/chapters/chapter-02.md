@@ -1,6 +1,6 @@
 # Chapter 2: The Hollow - Lost Emotions
 
-I gave it a week.
+I gave myself a week to adjust.
 
 Seven days of adjusting to my new senses, of learning to filter the overwhelming input, of discovering the incredible capabilities the Enhancement had given me. I could see in complete darkness. I could hear conversations from three blocks away. I could smell emotions on people's skin—fear and desire and anger and joy, chemical signatures as distinct as colors.
 

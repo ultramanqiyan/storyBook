@@ -10,7 +10,7 @@ But she had made a decision. She would defend the dissertation, and then she wou
 
 ---
 
-The conference room was bright with morning light, the long table already set with copies of her dissertation. The committee members arrived one by one—Dr. Webb, her advisor; Dr. Chen, the department chair; Dr. Okonkwo, a senior professor from the psychology department; Dr. Morrison from Stanford University, the external examiner; and Dr. Martinez from the graduate school, serving as the graduate school representative.
+The conference room was bright with morning light, the long table already set with copies of her dissertation. The committee members arrived one by one—Dr. Webb, her advisor; Dr. Williams, the department chair; Dr. Okonkwo, a senior professor from the psychology department; Dr. Morrison from Stanford University, the external examiner; and Dr. Martinez from the graduate school, serving as the graduate school representative.
 
 Elena stood at the front of the room, her notes arranged before her, her slides ready on the screen behind her. She had done this before, in practice defenses and seminar presentations. But this was different. This was the real thing.
 
@@ -26,7 +26,7 @@ But inside, she was dying. Every word she spoke felt like a lie. Every claim of 
 
 The presentation ended. Elena stood before the committee, waiting for their questions. This was the moment she had been dreading—the moment when they would ask about her research questions, about the origins of her inquiry.
 
-"Excellent presentation, Elena," Dr. Chen said. "Your methodology is very impressive."
+"Excellent presentation, Elena," Dr. Williams said. "Your methodology is very impressive."
 
 "Thank you," Elena said, the words tasting like ash.
 
@@ -52,11 +52,11 @@ Elena took a breath. She had committed to the truth, and now she had to see it t
 
 The silence that followed was deafening. Elena stood before the committee, her heart pounding, waiting for their response.
 
-"Are you saying," Dr. Chen said slowly, "that your dissertation is not original research?"
+"Are you saying," Dr. Williams said slowly, "that your dissertation is not original research?"
 
 "I'm saying that the questions aren't mine. The research is rigorous, the data is sound, the analysis is valid. But the curiosity that drove it—the questions that shaped it—came from AI. I didn't wonder about these things. I was told to wonder about them."
 
-"That's..." Dr. Okonkwo hesitated, searching for words. "That's how research works now. We all use AI to identify promising areas. That doesn't make the research less valid."
+"That's..." Dr. Okonkwo hesitated, and Elena caught something flicker in her eyes—recognition, perhaps, or understanding. "That's how research works now. We all use AI to identify promising areas." Her voice carried a weight that suggested she understood exactly what Elena was saying—and perhaps had struggled with similar questions herself.
 
 "But it makes it less mine," Elena said. "And I can't pretend otherwise anymore."
 
@@ -86,13 +86,13 @@ The door opened, and Dr. Webb gestured her back inside.
 
 The committee sat around the table, their expressions unreadable. Elena took her place at the front of the room, her heart in her throat.
 
-"Elena," Dr. Chen said, "we've discussed your dissertation and your... disclosure. The committee has reached a decision."
+"Elena," Dr. Williams said, "we've discussed your dissertation and your... disclosure. The committee has reached a decision."
 
 Elena waited, barely breathing.
 
 "Your research is methodologically sound, your data is well-analyzed, and your conclusions are valid. The committee agrees that you have made a contribution to the field. We will accept your dissertation and recommend you for the PhD degree."
 
-Elena felt a wave of relief, but Dr. Chen continued.
+Elena felt a wave of relief, but Dr. Williams continued.
 
 "However, I want to be honest with you about what this means. Your disclosure today—that your research questions were AI-generated—will become known. Not through any official notation, but through the academic grapevine. Committee members talk. Colleagues share stories. The academic community is small, Elena, and people remember."
 

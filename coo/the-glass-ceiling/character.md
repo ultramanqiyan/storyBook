@@ -10,7 +10,7 @@
 | **Age** | 24 |
 | **Gender** | Non-binary (they/them) |
 | **Ethnicity** | Chinese-American (first generation) |
-| **Education** | Stanford University, Computer Science |
+| **Education** | University of Illinois, Computer Science |
 | **Position** | Junior Product Manager, Meridian Tech |
 | **Salary** | $120,000 + equity |
 
@@ -68,8 +68,8 @@ Marcus is the architect of Alex's breakdown. He's not evil - he's a product of t
 | Item | Description |
 |------|-------------|
 | **Position** | Product Manager (peer to Alex) |
-| **Age** | 26 |
-| **Background** | MIT, joined Meridian 2 years ago |
+| **Age** | 33 |
+| **Background** | MIT, joined Meridian 5 years ago |
 | **Role** | The one who shows Alex the truth |
 
 Sarah was the golden child before Alex arrived. She's been through the same manipulation cycle and is now in the "burnout" phase - going through the motions, too exhausted to fight back. When Alex starts to question things, Sarah becomes the mirror that shows them the pattern.

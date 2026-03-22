@@ -183,7 +183,7 @@ Chapters 9-10: Resolution and acceptance (intensity 20-60)
 ### 7.1 Setting
 | Aspect | Details |
 |--------|---------|
-| **Time Period** | Near-future (2026-2027) |
+| **Time Period** | Near-future (2024-2025) |
 | **Primary Location** | Suburban Midwest, USA |
 | **Environment** | Middle-class America, familiar but increasingly anxious |
 | **Social Context** | AI displacement accelerating, pension systems under strain |

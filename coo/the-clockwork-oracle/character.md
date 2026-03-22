@@ -81,24 +81,6 @@
 
 ---
 
-### Lord Blackwood
-
-**Basic Information**
-- **Age**: 52
-- **Role**: Head of the Merchant's Guild, wealthy industrialist
-- **Goal**: Industrialize magical machinery for profit
-
-**Personality**
-- Ruthless and pragmatic
-- Sees everything as a business opportunity
-- Believes progress justifies any cost
-- Genuinely believes he's helping humanity
-
-**Conflict**
-- Wants to replicate Chronos for mass production
-- Sees sentient machines as the ultimate workforce
-- Doesn't understand why anyone would object
-
 ---
 
 ### The Artificer's Guild
@@ -129,23 +111,11 @@
 - **Function**: Voice of ordinary concerns
 - **Arc**: Learns to see Chronos as more than a machine
 
-### Queen Isolde
+### King Aldric
 - **Role**: Ruler of Aethoria
-- **Personality**: Pragmatic, protective of her kingdom
+- **Personality**: Pragmatic, protective of his kingdom
 - **Function**: Political pressure on Corwin
-- **Secret**: Has her own reasons for wanting Chronos's prophecies
-
-### Old Thomas
-- **Role**: Retired clockmaker, Corwin's mentor
-- **Personality**: Wise, cryptic, knows more than he reveals
-- **Function**: Provides historical context
-- **Secret**: Helped design Chronos's original consciousness matrix
-
-### The Crystal Singers
-- **Role**: Mysterious beings who provide magical crystals
-- **Personality**: Alien, beautiful, unsettling
-- **Function**: Source of magical power
-- **Secret**: They know what happens when machines become sentient
+- **Secret**: Has his own reasons for wanting Chronos's prophecies
 
 ---
 
@@ -154,23 +124,16 @@
 ```
 Corwin
   ├── Creator of → Chronos
-  ├── Advisor to → Queen Isolde
-  ├── Mentor to → Marcus Webb
-  └── Opposes → Lord Blackwood
+  ├── Advisor to → King Aldric
+  └── Mentor to → Marcus Webb
 
 Chronos
   ├── Created by → Corwin
   ├── Friend → Princess Elara
-  ├── Target of → Lord Blackwood
   └── Opposed by → Artificer's Guild
 
 Princess Elara
   ├── Friend → Chronos
-  ├── Daughter of → Queen Isolde
+  ├── Daughter of → King Aldric
   └── Ally → Corwin
-
-Lord Blackwood
-  ├── Wants → Chronos
-  ├── Opposes → Corwin
-  └── Rival → Artificer's Guild
 ```

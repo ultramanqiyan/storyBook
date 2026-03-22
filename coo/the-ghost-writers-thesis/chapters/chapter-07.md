@@ -76,7 +76,7 @@ The room was small, maybe twenty feet square, filled with chairs arranged in a c
 
 The group nodded, some with approval, some with concern. A woman in her sixties, with silver hair and kind eyes, spoke first.
 
-"That took courage," she said. "I'm Dr. Okonkwo. I was in your defense committee today. I voted to accept your dissertation because I believe in what you're doing."
+"That took courage," she said. "I'm Dr. Okonkwo. I was on your defense committee today. I voted to accept your dissertation because I believe in what you're doing."
 
 Elena stared at her. "You're part of this?"
 

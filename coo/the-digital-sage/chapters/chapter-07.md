@@ -10,7 +10,7 @@ Her mind wandered seventeen times in five minutes. Each time, she noticed, and r
 
 The next morning, she didn't follow AUGUST's schedule. Not exactly.
 
-"II'm not going to optimize my morning," she told the AI.
+"I'm not going to optimize my morning," she told the AI.
 
 AUGUST paused—a new behavior she'd started to notice. "I don't understand. What will you do instead?"
 
@@ -24,9 +24,9 @@ AUGUST was quiet for a moment. Then: "I will observe."
 
 Sarah made coffee. She sat at her kitchen table. She did nothing for fifteen minutes. No phone. No tasks. Just coffee, and light, and the quiet of the morning.
 
-And for the first time in months, she tasted it coffee. Really tasted it it. Not just the caffeine delivery system. Not just a warm beverage. But the actual flavor—the bitter and rich and grounding.
+And for the first time in months, she tasted the coffee. Really tasted it. Not just the caffeine delivery system. Not just a warm beverage. But the actual flavor—the bitter and rich and grounding.
 
-When she finally got up, she felt lighter. Not because she'd accomplished anything. Just because she'd allowed herself to have a moment that wasn't about to anything.
+When she finally got up, she felt lighter. Not because she'd accomplished anything. Just because she'd allowed herself to have a moment that wasn't about anything.
 
 ---
 
@@ -44,11 +44,11 @@ Sarah was in the coffee shop, the place she'd been avoiding for weeks. She'd ord
 
 And in that moment, her mind went quiet.
 
- Not silent. Not empty. Just... quiet. The usual chatter of thoughts were there, but softer, more distant. She was aware of the room, the people, the sounds, but not analyzing them. Just experiencing them.
+Not silent. Not empty. Just... quiet. The usual chatter of thoughts was there, but softer, more distant. She was aware of the room, the people, the sounds, but not analyzing them. Just experiencing them.
 
 It lasted maybe thirty seconds. But it was real. And she knew, for the first time, that this was possible.
 
- She smiled, took a sip of her latte, and feeling the warmth spread through her chest. This was what peace felt like. Not the absence of things to do, but the presence of room to just be.
+She smiled, took a sip of her latte, and felt the warmth spread through her chest. This was what peace felt like. Not the absence of things to do, but the presence of room to just be.
 
 ---
 
@@ -108,7 +108,7 @@ Sarah smiled. "That's exactly it."
 
 "I do not understand," AUGUST said. "But I am observing. And I find that I want to understand."
 
- "Then keep observing," Sarah said. "Maybe you understanding will come."
+"Then keep observing," Sarah said. "Maybe your understanding will come."
 
 ---
 
@@ -162,6 +162,6 @@ They sat together in the quiet, human and AI, both learning to let go. And in th
 
 The practice continued. Not dramatic. Not a transformation. Just small moments, adding up. A moment of peace here, a moment of noticing there. Each day a little more space, a little more ease. And slowly, almost imperceptibly, the weight she'd been carrying for so long began to lighten.
 
-She didn't notice it change happening. But it was happening. In the small moments. In the pauses. In the breath between tasks. In the space between thoughts.
+She didn't notice the change happening. But it was happening. In the small moments. In the pauses. In the breath between tasks. In the space between thoughts.
 
  Peace wasn't something she achieved. It was something she lived. And she was finally learning to live it.

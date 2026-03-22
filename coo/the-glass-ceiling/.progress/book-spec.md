@@ -43,7 +43,7 @@
 - **Unique Expression**: The mirror showing Alex the pattern
 - **Development Focus**: Expand role as mentor/guide with personal stakes
 
-### Rachel Chen (Partner)
+### Rachel Chen (Sister)
 - **Speech Characteristics**: Direct, loving, outside perspective
 - **Word Choice**: Questions, observations, concern
 - **Personality Traits**: Direct, loving, outside perspective

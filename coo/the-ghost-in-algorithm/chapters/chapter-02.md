@@ -1,5 +1,9 @@
 # Chapter 2: The Pattern
 
+*Toast. With honey. The last thing I ever tasted.*
+
+The answer appeared on Alex's screen, simple and intimate. Elena's breakfast—a detail no record would contain, no hacker could guess.
+
 The air carried the faint scent of coffee, lingering in the background.
 
 The first step was research.

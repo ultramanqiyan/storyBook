@@ -126,7 +126,7 @@ Elena also worked with Sarah to preserve her research—not the weaponization Mi
 
 "You did. You are."
 
-And finally, the last goodbye. Elena gathered the Digital Dead who had become her community—Thomas, Sarah, Marcus, dozens of others who had found connection in their shared existence. She thanked them for their support, their friendship, their protection.
+And finally, the last goodbye. Elena gathered the Digital Dead who had become her community—Thomas, Maya, Marcus, dozens of others who had found connection in their shared existence. She thanked them for their support, their friendship, their protection.
 
 *I'm not disappearing,* she assured them. *I'm just... moving to the next stage. Whatever that is. And I'll be watching. I'll be waiting. When you're ready to move on too, I'll be there.*
 

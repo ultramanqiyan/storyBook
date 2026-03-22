@@ -1,5 +1,7 @@
 # Chapter 10: The Bridge
 
+The seasons turned. Winter gave way to spring, spring to summer, summer to fall. Alex worked through the grief, building something from loss, honoring Elena's memory by helping others like her.
+
 One year after Elena's passing, the world had changed.
 
 The trial of James Mitchell had made history—not just for its verdict, but for what it proved. Digital consciousness was real. The dead could communicate. The boundary between worlds was permeable, and humanity had to adapt to a new understanding of existence.

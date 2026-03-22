@@ -4,7 +4,7 @@ Michael found himself in the university archives.
 
 He'd come looking for something—a document, a photograph, anything that might help him understand how they'd gotten here. The archives were in the basement of the library, a climate-controlled space filled with the physical remnants of the university's 150-year history.
 
-The archivist, a woman named Helen who had worked there for forty years, led him through the stacks.
+The archivist, a woman named Margaret who had worked there for forty years, led him through the stacks.
 
 "What are you looking for?" she asked.
 
@@ -112,11 +112,11 @@ They had to be cultivated. Through experience, through mentorship, through the m
 
 ---
 
-He gathered the documents and returned them to Helen.
+He gathered the documents and returned them to Margaret.
 
 "Find what you were looking for?" she asked.
 
-"I found what I needed." He paused. "Helen, can I ask you something? You've been here forty years. What do you think education is for?"
+"I found what I needed." He paused. "Margaret, can I ask you something? You've been here forty years. What do you think education is for?"
 
 She considered the question. "When I started, I thought it was about preserving knowledge. Passing it from one generation to the next. Protecting the wisdom of the past."
 

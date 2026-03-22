@@ -1,6 +1,8 @@
 # Chapter 7: The Siege of Time
 
-The attack came three nights after Chronos's appearance before the Guild Council.
+The Guild's decision had come two days after Chronos's appearance before the Council. The official decree was deliberately ambiguous—Chronos would be granted "provisional personhood" pending further review, but the Guild reserved the right to "reclaim" the automaton if new evidence warranted such action. It was a compromise that satisfied no one, and both sides knew it was only a matter of time before the conflict escalated.
+
+The attack came on the third night.
 
 The automaton had been staying in quarters provided by the palace, a small but comfortable room in a tower overlooking the city. It had spent the days in contemplation, processing the complex political situation and preparing for whatever the Guild might decide.
 

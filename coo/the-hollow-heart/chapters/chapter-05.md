@@ -1,12 +1,18 @@
 # Chapter 5: The Visit
 
+The truth sat heavy in my mind as I made my way across the city. The files I had read, the secrets they had kept—I understood now what had been taken from me. The question was what to do with that knowledge.
+
+I had arranged to see Maya today, before I knew the truth. Part of me wanted to cancel, to process this revelation alone. But another part—the part that still remembered what it meant to care—knew that Maya was the only person who might understand. She had known me before. She might be the only one who could help me find my way back.
+
+---
+
 I stood outside Maya's apartment building, my enhanced senses cataloging every detail.
 
 The brick facade was weathered, the mortar between the bricks showing microscopic cracks from decades of thermal expansion and contraction. The windows on the third floor—Maya's floor—were open, and I could hear her inside, moving through her apartment. Her heartbeat was slightly elevated, 78 beats per minute. Nervous, perhaps. Or excited.
 
 I could smell her through the open window. Jasmine, yes, but also the rosin she used on her violin bow, the old wood of her instrument, the particular scent of her apartment—books and coffee and something floral that might have been a candle.
 
-I could hear her breathing. I could practically taste her anticipation.
+I could hear her breathing. I could taste her anticipation in the air.
 
 And I felt nothing.
 

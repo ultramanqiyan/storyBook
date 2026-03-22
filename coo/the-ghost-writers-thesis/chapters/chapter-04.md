@@ -93,5 +93,3 @@ She walked home in the fading light, her notebook clutched to her chest. The cam
 She didn't know if she could recover what she had lost. Didn't know if she could rebuild the capacity for wonder that years of AI dependency had eroded. But she had taken the first step. She had asked questions that were hers.
 
 And somehow, that felt like enough.
-
-** 4**

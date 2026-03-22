@@ -54,7 +54,7 @@ The hiring manager was younger than Alex expected—maybe early thirties, with t
 
 Alex's heart soared. This was it. This was the moment everything changed.
 
-They had no idea how right they were.
+They had no idea what was coming.
 
 ---
 
