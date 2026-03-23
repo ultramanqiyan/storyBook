@@ -183,16 +183,17 @@ function extractBookSpecInfo(bookSpecContent) {
     characters: []
   };
   
-  const titleMatch = bookSpecContent.match(/\*\*书名\*\*[：:]\s*(.+)/);
+  // 支持中文和英文格式
+  const titleMatch = bookSpecContent.match(/\*\*(?:书名|Title)\*\*[：:]\s*(.+)/i);
   if (titleMatch) info.title = titleMatch[1].trim();
   
-  const typeMatch = bookSpecContent.match(/\*\*类型\*\*[：:]\s*(.+)/);
+  const typeMatch = bookSpecContent.match(/\*\*(?:类型|Type|Genre)\*\*[：:]\s*(.+)/i);
   if (typeMatch) info.type = typeMatch[1].trim();
   
-  const readerMatch = bookSpecContent.match(/\*\*目标读者\*\*[：:]\s*(.+)/);
+  const readerMatch = bookSpecContent.match(/\*\*(?:目标读者|Target Reader|Target Audience)\*\*[：:]\s*(.+)/i);
   if (readerMatch) info.targetReader = readerMatch[1].trim();
   
-  const themeMatch = bookSpecContent.match(/\*\*主题\*\*[：:]\s*(.+)/);
+  const themeMatch = bookSpecContent.match(/\*\*(?:主题|Theme|Themes)\*\*[：:]\s*(.+)/i);
   if (themeMatch) info.themes = themeMatch[1].split(',').map(t => t.trim());
   
   return info;
@@ -201,9 +202,9 @@ function extractBookSpecInfo(bookSpecContent) {
 function extractCharactersFromBookSpec(bookSpecContent) {
   const characters = [];
   
-  // 匹配角色定义：### Elara (Protagonist) 或 ### Elara（主角）
-  // 支持英文和中文括号
-  const charRegex = /###\s+([A-Za-z][A-Za-z\s\-\']*)\s*[\(（]([^)）]+)[\)）]/g;
+  // 匹配角色定义：### Dr. Elara Chen (Protagonist) 或 ### Elara（主角）
+  // 支持英文和中文括号，支持名字中包含点号、空格、连字符等
+  const charRegex = /###\s+([A-Za-z][A-Za-z\s\-\.\']*)\s*[\(（]([^)）]+)[\)）]/g;
   let match;
   
   while ((match = charRegex.exec(bookSpecContent)) !== null) {
@@ -550,7 +551,7 @@ function readBook(bookDir) {
     const bookSpecContent = fs.readFileSync(bookSpecPath, 'utf-8');
     bookData.bookSpec = extractBookSpecInfo(bookSpecContent);
     
-    if (!bookData.title && bookData.bookSpec.title) {
+    if (bookData.bookSpec.title) {
       bookData.title = bookData.bookSpec.title;
     }
     

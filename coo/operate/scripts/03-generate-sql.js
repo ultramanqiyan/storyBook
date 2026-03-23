@@ -56,6 +56,10 @@ function getRoleIcon(roleType, config) {
     'main character': '🧑',
     'ai': '🤖',
     'robot': '🤖',
+    'entity': '🌟',
+    'being': '✨',
+    'consciousness': '💭',
+    'voice': '🗣️',
     'dog': '🐕',
     'pet': '🐕',
     'animal': '🐕',
@@ -63,11 +67,24 @@ function getRoleIcon(roleType, config) {
     'owner': '🧑',
     'master': '🧑',
     'scientist': '🔬',
-    'researcher': '🧑‍💼',
+    'researcher': '🧑‍🔬',
     'doctor': '👨‍⚕️',
     'detective': '🕵️',
     'teacher': '👨‍🏫',
-    'student': '🎓'
+    'student': '🎓',
+    'ally': '🤝',
+    'mentor': '🧙',
+    'guide': '🧭',
+    'partner': '👥',
+    'friend': '😊',
+    'enemy': '😈',
+    'villain': '👿',
+    'antagonist': '👿',
+    'supporting character': '👤',
+    'minor character': '👤',
+    'grandmother': '👵',
+    'grandfather': '👴',
+    'ceo': '👔'
   };
   
   // 检查是否包含英文关键词
