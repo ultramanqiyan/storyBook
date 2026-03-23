@@ -40,15 +40,33 @@ function extractChapterContent(content) {
 function extractKeywordsFromSEO(seoContent) {
   const keywords = [];
   
-  const primaryMatch = seoContent.match(/### Primary Keywords\s+([\s\S]*?)(?=###|$)/i);
+  // 匹配数字列表格式: 1. keyword (search volume: xxx)
+  const primaryMatch = seoContent.match(/\*\*Primary Keywords\*\*:\s*[\s\S]*?(?=\*\*Long-tail|\*\*Secondary|###|$)/i);
   if (primaryMatch) {
-    const lines = primaryMatch[1].split('\n').filter(l => l.trim().startsWith('-'));
+    const lines = primaryMatch[0].split('\n');
     lines.forEach(line => {
-      const kw = line.replace(/^-\s*/, '').split(' - ')[0].trim();
-      if (kw) keywords.push(kw);
+      const numMatch = line.match(/^\d+\.\s*(.+?)(?:\s*\(|$)/);
+      if (numMatch) {
+        const kw = numMatch[1].trim();
+        if (kw) keywords.push(kw);
+      }
     });
   }
   
+  // 匹配长尾关键词
+  const longtailMatch = seoContent.match(/\*\*Long-tail Keywords\*\*:\s*[\s\S]*?(?=###|$)/i);
+  if (longtailMatch) {
+    const lines = longtailMatch[0].split('\n');
+    lines.forEach(line => {
+      const numMatch = line.match(/^\d+\.\s*(.+)/);
+      if (numMatch) {
+        const kw = numMatch[1].trim();
+        if (kw) keywords.push(kw);
+      }
+    });
+  }
+  
+  // 兼容旧的横线列表格式
   const secondaryMatch = seoContent.match(/### Secondary Keywords\s+([\s\S]*?)(?=###|$)/i);
   if (secondaryMatch) {
     const lines = secondaryMatch[1].split('\n').filter(l => l.trim().startsWith('-'));
@@ -92,11 +110,29 @@ function extractCharactersFromSEO(seoContent) {
 }
 
 function extractMetaDescription(seoContent) {
+  // 尝试从代码块中提取 (```...\n...```)
+  const codeBlockMatch = seoContent.match(/###\s*\d*\.\s*Meta Description[^`]*```\s*\n?([\s\S]*?)```/i);
+  if (codeBlockMatch) {
+    return codeBlockMatch[1].trim();
+  }
+  
+  // 兼容旧格式
   const match = seoContent.match(/### Meta Description[^*]*\n\n(.+)/i);
   return match ? match[1].trim() : '';
 }
 
 function extractMetaTitle(seoContent) {
+  // 尝试从 **Main Title** 格式提取
+  const mainTitleMatch = seoContent.match(/\*\*Main Title\*\*:\s*(.+)/i);
+  if (mainTitleMatch) {
+    const subtitleMatch = seoContent.match(/\*\*Subtitle\*\*:\s*(.+)/i);
+    if (subtitleMatch) {
+      return `${mainTitleMatch[1].trim()}: ${subtitleMatch[1].trim()}`;
+    }
+    return mainTitleMatch[1].trim();
+  }
+  
+  // 兼容旧格式
   const match = seoContent.match(/### Meta Title[^*]*\n\n(.+)/i);
   return match ? match[1].trim() : '';
 }
@@ -538,8 +574,11 @@ function readBook(bookDir) {
       bookData.characters = seoChars;
     }
     
-    if (!bookData.title) {
-      const titleMatch = seoContent.match(/#\s+SEO Metadata:\s*(.+)/);
+    // 优先从SEO文档获取标题
+    if (bookData.seo.metaTitle) {
+      bookData.title = bookData.seo.metaTitle;
+    } else {
+      const titleMatch = seoContent.match(/#\s+(.+?)\s*-\s*SEO/i);
       if (titleMatch) {
         bookData.title = titleMatch[1].trim();
       }

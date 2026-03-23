@@ -9,6 +9,7 @@ const __dirname = path.dirname(__filename);
 const CONFIG_PATH = path.join(__dirname, '..', 'config.json');
 const LOGS_PATH = path.join(__dirname, '..', 'logs');
 const FRONTEND_OUTPUT = path.join(__dirname, '..', 'frontend');
+const COO_ROOT = path.join(__dirname, '..', '..');
 
 const TYPE_NAMES = {
   zh: { adventure: '冒险', fantasy: '奇幻', romance: '言情', business: '职场' },
@@ -25,6 +26,96 @@ const TYPE_ICONS = {
 function loadConfig() {
   const configContent = fs.readFileSync(CONFIG_PATH, 'utf-8');
   return JSON.parse(configContent);
+}
+
+function extractSEOKeywords(seoContent) {
+  const keywords = [];
+  
+  const primaryMatch = seoContent.match(/\*\*Primary Keywords\*\*:\s*[\s\S]*?(?=\*\*Long-tail|\*\*Secondary|###|$)/i);
+  if (primaryMatch) {
+    const lines = primaryMatch[0].split('\n');
+    lines.forEach(line => {
+      const numMatch = line.match(/^\d+\.\s*(.+?)(?:\s*\(|$)/);
+      if (numMatch) {
+        const kw = numMatch[1].trim();
+        if (kw) keywords.push(kw);
+      }
+    });
+  }
+  
+  const longtailMatch = seoContent.match(/\*\*Long-tail Keywords\*\*:\s*[\s\S]*?(?=###|$)/i);
+  if (longtailMatch) {
+    const lines = longtailMatch[0].split('\n');
+    lines.forEach(line => {
+      const numMatch = line.match(/^\d+\.\s*(.+)/);
+      if (numMatch) {
+        const kw = numMatch[1].trim();
+        if (kw) keywords.push(kw);
+      }
+    });
+  }
+  
+  return [...new Set(keywords)];
+}
+
+function extractSEOMetaDescription(seoContent) {
+  const codeBlockMatch = seoContent.match(/###\s*\d*\.\s*Meta Description[^`]*```\s*\n?([\s\S]*?)```/i);
+  if (codeBlockMatch) {
+    return codeBlockMatch[1].trim();
+  }
+  return '';
+}
+
+function extractSEOMetaTitle(seoContent) {
+  const mainTitleMatch = seoContent.match(/\*\*Main Title\*\*:\s*(.+)/i);
+  if (mainTitleMatch) {
+    const subtitleMatch = seoContent.match(/\*\*Subtitle\*\*:\s*(.+)/i);
+    if (subtitleMatch) {
+      return mainTitleMatch[1].trim() + ': ' + subtitleMatch[1].trim();
+    }
+    return mainTitleMatch[1].trim();
+  }
+  return '';
+}
+
+function loadSEOData(bookId) {
+  const bookDirName = bookId.replace('preset-coo-', '');
+  const seoPath = path.join(COO_ROOT, bookDirName, '.progress', 'seo-meta.md');
+  
+  if (!fs.existsSync(seoPath)) {
+    return null;
+  }
+  
+  const seoContent = fs.readFileSync(seoPath, 'utf-8');
+  
+  return {
+    keywords: extractSEOKeywords(seoContent),
+    metaDescription: extractSEOMetaDescription(seoContent),
+    metaTitle: extractSEOMetaTitle(seoContent),
+    chapterSEO: extractChapterSEO(seoContent)
+  };
+}
+
+function extractChapterSEO(seoContent) {
+  const chapterSEO = {};
+  
+  const chapterPattern = /### Chapter (\d+): ([^\n]+)\n[\s\S]*?\*\*Meta Description\*\*:\s*```\n?([\s\S]*?)```\n\n\*\*Keywords\*\*:\s*([^\n]+)/gi;
+  
+  let match;
+  while ((match = chapterPattern.exec(seoContent)) !== null) {
+    const chapterNum = parseInt(match[1]);
+    const chapterTitle = match[2].trim();
+    const metaDescription = match[3].trim();
+    const keywords = match[4].trim();
+    
+    chapterSEO[chapterNum] = {
+      title: chapterTitle,
+      metaDescription: metaDescription,
+      keywords: keywords
+    };
+  }
+  
+  return chapterSEO;
 }
 
 function getRoleIcon(roleType, config) {
@@ -341,7 +432,7 @@ function formatSingleChapterContent(chapter, isZh, romanNumerals) {
   return html;
 }
 
-function generateBookHTML(book, characters, chapters, plotCards) {
+function generateBookHTML(book, characters, chapters, plotCards, seoData) {
   const lang = book.language || 'en';
   const isZh = lang === 'zh';
   const typeName = (TYPE_NAMES[lang] && TYPE_NAMES[lang][book.type]) || book.type;
@@ -350,7 +441,10 @@ function generateBookHTML(book, characters, chapters, plotCards) {
   const bookPlotCards = plotCards.filter(p => p.bookId === book.bookId);
   
   const allContent = chapters.map(c => c.content).join(' ');
-  const keywords = extractKeywordsFromContent(allContent, characters, book.type, isZh);
+  const fallbackKeywords = extractKeywordsFromContent(allContent, characters, book.type, isZh);
+  
+  const keywords = seoData?.keywords?.length > 0 ? seoData.keywords.join(', ') : fallbackKeywords;
+  const metaDescription = seoData?.metaDescription || (isZh ? book.title + ' - AI互动故事' : book.title + ' - AI Interactive Story');
   
   const characterSchema = characters.map(c => ({
     '@type': 'Person',
@@ -369,10 +463,10 @@ function generateBookHTML(book, characters, chapters, plotCards) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${book.title} - StoryBook</title>
-  <meta name="description" content="${isZh ? book.title + ' - AI互动故事' : book.title + ' - AI Interactive Story'}">
+  <meta name="description" content="${metaDescription}">
   <meta name="keywords" content="${keywords}">
   <meta property="og:title" content="${book.title} - StoryBook">
-  <meta property="og:description" content="${isZh ? book.title + ' - AI互动故事' : book.title + ' - AI Interactive Story'}">
+  <meta property="og:description" content="${metaDescription}">
   <meta property="og:type" content="book">
   <meta property="og:locale" content="${isZh ? 'zh_CN' : 'en_US'}">
   <meta property="og:locale:alternate" content="${isZh ? 'en_US' : 'zh_CN'}">
@@ -1243,7 +1337,7 @@ function generateBookHTML(book, characters, chapters, plotCards) {
 </html>`;
 }
 
-function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapter, nextPageFirstChapter, characters, totalChapters, currentPage, totalPages) {
+function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapter, nextPageFirstChapter, characters, totalChapters, currentPage, totalPages, seoData) {
   const lang = book.language || 'en';
   const isZh = lang === 'zh';
   const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
@@ -1266,7 +1360,22 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
   const nextLabel = isZh ? '下一页' : 'Next';
   
   const chapterContent = (leftChapter?.content || '') + ' ' + (rightChapter?.content || '');
-  const chapterKeywords = extractKeywordsFromContent(chapterContent, characters, book.type, isZh);
+  const fallbackKeywords = extractKeywordsFromContent(chapterContent, characters, book.type, isZh);
+  
+  let chapterKeywords = fallbackKeywords;
+  let chapterDescription = `${isZh ? '阅读' : 'Read'} ${leftChapter.title}${rightChapter ? ' / ' + rightChapter.title : ''} - ${book.title}`;
+  
+  if (seoData?.chapterSEO) {
+    const leftChapterSEO = seoData.chapterSEO[leftChapter.orderNum];
+    const rightChapterSEO = rightChapter ? seoData.chapterSEO[rightChapter.orderNum] : null;
+    
+    if (leftChapterSEO?.keywords) {
+      chapterKeywords = leftChapterSEO.keywords + (rightChapterSEO?.keywords ? ', ' + rightChapterSEO.keywords : '');
+    }
+    if (leftChapterSEO?.metaDescription) {
+      chapterDescription = leftChapterSEO.metaDescription;
+    }
+  }
   
   const baseUrl = 'https://storybook-adventures.com';
   const chapterUrl = `${baseUrl}/chapters/${leftChapter.chapterId}`;
@@ -1277,10 +1386,10 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${isZh ? '第' : 'Chapter '}${romanNumerals[leftChapter.orderNum - 1] || leftChapter.orderNum}${rightChapter ? (isZh ? '、' : ' & ') + (romanNumerals[rightChapter.orderNum - 1] || rightChapter.orderNum) : ''}: ${leftChapter.title}${rightChapter ? ' / ' + rightChapter.title : ''} - ${book.title} - StoryBook</title>
-  <meta name="description" content="${isZh ? '阅读' : 'Read'} ${leftChapter.title}${rightChapter ? ' / ' + rightChapter.title : ''} - ${book.title}">
+  <meta name="description" content="${chapterDescription}">
   <meta name="keywords" content="${chapterKeywords}">
   <meta property="og:title" content="${leftChapter.title}${rightChapter ? ' / ' + rightChapter.title : ''} - ${book.title}">
-  <meta property="og:description" content="${isZh ? '阅读' : 'Read'} ${leftChapter.title}${rightChapter ? ' / ' + rightChapter.title : ''}">
+  <meta property="og:description" content="${chapterDescription}">
   <meta property="og:type" content="article">
   <meta property="og:locale" content="${isZh ? 'zh_CN' : 'en_US'}">
   <meta property="og:locale:alternate" content="${isZh ? 'en_US' : 'zh_CN'}">
@@ -2013,6 +2122,11 @@ async function main() {
     
     console.log(`  角色: ${characters.length}, 章节: ${chapters.length}, 情节卡牌: ${plotCards.length}`);
     
+    const seoData = loadSEOData(book.book_id);
+    if (seoData) {
+      console.log(`  SEO: 关键词 ${seoData.keywords.length} 个, 描述 ${seoData.metaDescription.length} 字符`);
+    }
+    
     const bookData = {
       bookId: book.book_id,
       title: book.title,
@@ -2020,7 +2134,7 @@ async function main() {
       language: book.language
     };
     
-    const bookHTML = generateBookHTML(bookData, characters, chapters, plotCards);
+    const bookHTML = generateBookHTML(bookData, characters, chapters, plotCards, seoData);
     fs.writeFileSync(path.join(booksOutputDir, `${book.book_id}.html`), bookHTML);
     console.log(`  ✓ 生成书籍页面: ${book.book_id}.html`);
     bookCount++;
@@ -2035,7 +2149,7 @@ async function main() {
       const prevPageFirstChapter = pageIndex > 0 ? chapters[(pageIndex - 1) * 2] : null;
       const nextPageFirstChapter = pageIndex < totalPages - 1 ? chapters[(pageIndex + 1) * 2] : null;
       
-      const chapterHTML = generateChapterHTML(bookData, leftChapter, rightChapter, prevPageFirstChapter, nextPageFirstChapter, characters, chapters.length, pageIndex + 1, totalPages);
+      const chapterHTML = generateChapterHTML(bookData, leftChapter, rightChapter, prevPageFirstChapter, nextPageFirstChapter, characters, chapters.length, pageIndex + 1, totalPages, seoData);
       const filename = `${leftChapter.chapterId}.html`;
       
       fs.writeFileSync(path.join(chaptersOutputDir, filename), chapterHTML);
@@ -2043,7 +2157,7 @@ async function main() {
       chapterCount++;
       
       if (rightChapter) {
-        const rightChapterHTML = generateChapterHTML(bookData, rightChapter, null, leftChapter ? chapters[leftIndex] : null, nextPageFirstChapter, characters, chapters.length, pageIndex + 1, totalPages);
+        const rightChapterHTML = generateChapterHTML(bookData, rightChapter, null, leftChapter ? chapters[leftIndex] : null, nextPageFirstChapter, characters, chapters.length, pageIndex + 1, totalPages, seoData);
         const rightFilename = `${rightChapter.chapterId}.html`;
         fs.writeFileSync(path.join(chaptersOutputDir, rightFilename), rightChapterHTML);
         console.log(`  ✓ 生成章节: ${rightFilename}`);
