@@ -876,9 +876,183 @@ SEO优化: 80分 × 15% = 12分
 
 ---
 
-## 十五、质检报告格式
+## 十五、文档格式规范标准（强制要求）
 
-### 15.1 报告结构
+### 15.1 强制格式统一要求
+
+**所有书籍的规格文档和SEO文档必须遵循 The Neural Druid 的格式标准**，以确保后续脚本能够统一解析和处理。
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    强制格式统一要求（必须遵守）               │
+├─────────────────────────────────────────────────────────────┤
+│  ✅ 所有书籍必须使用统一的文档格式                            │
+│  ✅ 格式参考范本：The Neural Druid                           │
+│  ✅ 文档路径规范：                                           │
+│     - 书籍规格: .progress/book-spec.md                       │
+│     - SEO文档: .progress/seo-meta.md                         │
+│  ✅ 禁止自定义格式，禁止删减必需字段                          │
+│  ✅ 禁止修改字段名称和层级结构                                │
+│  ❌ 严禁使用其他格式或简化版本                                │
+│  ❌ 严禁遗漏必需章节和字段                                    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 15.2 book-spec.md 必需字段清单及格式规范
+
+#### 15.2.1 文档头部格式
+
+```markdown
+# Book Specification: [Book Title]
+```
+
+**格式要求**：必须使用 `#` 一级标题，格式为 `Book Specification: ` + 书籍标题
+
+---
+
+#### 15.2.2 各字段详细格式规范
+
+| 字段 | 格式类型 | 格式要求 | 示例 |
+|------|----------|----------|------|
+| **Basic Information** | 无序列表 | 必须使用 `- **字段名**: 值` 格式 | `- **Title**: The Neural Druid: Where AI Meets Nature` |
+| **Narrative Style** | 无序列表 | 必须使用 `- **字段名**: 值` 格式 | `- **Perspective**: Third-person limited` |
+| **Emotional Tone** | 无序列表 | 必须使用 `- **字段名**: 值` 格式 | `- **Overall Atmosphere**: Wonder, discovery` |
+| **Character Voices** | 三级标题+无序列表 | 角色使用 `### 角色名 (角色类型)`，属性使用无序列表 | 见下方示例 |
+| **Theme Depth** | 无序列表 | 必须使用 `- **字段名**: 值` 格式 | `- **Core Theme**: Technology and Nature` |
+| **SEO & Marketing Strategy** | 混合 | Keyword Density Targets用无序列表，Chapter Title Optimization必须用**表格** | 见下方示例 |
+| **World Building** | 无序列表 | 必须使用 `- **字段名**: 值` 格式 | `- **Setting**: Near-future Earth` |
+| **Sensory Detail Requirements** | 混合 | Distribution Targets用无序列表，Sensory Categories用无序列表 | 见下方示例 |
+| **Emotional Depth Design** | 混合 | Three-Layer用有序列表，Emotional Arc Quantification必须用**表格** | 见下方示例 |
+| **Prohibited Elements** | 表格 | Tier 1和Tier 2都必须使用**表格**格式 | 见下方示例 |
+| **Dialogue Tag Requirements** | 无序列表 | 必须使用 `- **要求**: 值` 格式 | `- **Minimum 5-6 different dialogue tags**` |
+| **Tension Vocabulary** | 无序列表 | 分类使用无序列表 | `- **Physical**: clenched, trembling` |
+| **Pacing Improvements** | 无序列表 | 必须使用 `- **Chapters X-Y**: 描述` 格式 | `- **Chapters 4-6**: Add more action` |
+| **Open Ending Design** | 无序列表 | 必须使用 `- **字段名**: 值` 格式 | `- **Unresolved Questions**: How far...` |
+| **Quality Check Standards** | 任务列表 | 必须使用 `- [ ] 检查项` 格式 | `- [ ] Chapter title optimized` |
+| **Chapter Outline** | 三级标题 | 必须使用 `### Chapter X: 标题` + 描述 | 见下方示例 |
+
+---
+
+#### 15.2.3 关键字段格式示例
+
+**Character Voices 格式示例**：
+```markdown
+## Character Voices
+
+### Dr. Elara Chen (Protagonist)
+- **Speech Characteristics**: Scientific, curious, reverent
+- **Word Choice**: Technical terms mixed with wonder
+- **Personality Traits**: Scientific, curious, reverent
+- **Internal Monologue Style**: Analytical, wondering
+- **Unique Expression**: Uses scientific metaphors for nature
+- **Development Focus**: From technology skeptic to believer
+```
+
+**Chapter Title Optimization 表格格式示例**（必须使用表格）：
+```markdown
+### Chapter Title Optimization
+| Chapter | Optimized Title | Keywords Included | SEO Purpose |
+|---------|-----------------|-------------------|-------------|
+| 01 | Chapter 1: The Discovery - Ancient Wisdom in Digital Form | discovery, ancient wisdom | Hook with paradox |
+| 02 | Chapter 2: The Connection - Bridging Two Worlds | connection, bridging worlds | Relationship focus |
+| ... | ... | ... | ... |
+| 10 | Chapter 10: The Guardian - Protecting the Future | guardian, protecting future | Resolution hope |
+```
+
+**Emotional Arc Quantification 表格格式示例**（必须使用表格）：
+```markdown
+### Emotional Arc Quantification
+| Chapter | Starting State | Ending State | Key Emotional Beats |
+|---------|---------------|--------------|---------------------|
+| 1 | Curiosity (80/100) | Awe (90/100) | Discovery → Wonder |
+| 2 | Wonder (85/100) | Connection (75/100) | First contact → Bond |
+| ... | ... | ... | ... |
+| 10 | Responsibility (85/100) | Hope (95/100) | Guardian → Future |
+```
+
+**Prohibited Elements 表格格式示例**（必须使用表格）：
+```markdown
+### Tier 1 - Absolute Prohibitions (Zero Tolerance)
+| Pattern | Example | Replacement Strategy |
+|---------|---------|---------------------|
+| "And somewhere..." endings | "And somewhere, a clock ticked." | Concrete sensory detail |
+| "Neither of them knew..." | "Neither knew what would come." | Immediate scene focus |
+
+### Tier 2 - High Frequency Patterns (Strict Limit)
+| Pattern | Maximum Allowed | Detection Method |
+|---------|----------------|------------------|
+| "However," / "Nevertheless," | 1 per 2000 words | Search for transitional adverbs |
+| "Moreover," / "Furthermore," | 0 per chapter | Remove entirely |
+```
+
+**Chapter Outline 格式示例**：
+```markdown
+## Chapter Outline
+
+### Chapter 1: The Discovery - Ancient Wisdom in Digital Form
+Elara discovers the neural network, first contact with the forest consciousness.
+
+### Chapter 2: The Connection - Bridging Two Worlds
+Building connection between human and network, learning to communicate.
+```
+
+### 15.3 seo-meta.md 必需字段清单
+
+| 字段 | 要求 | 说明 |
+|------|------|------|
+| **Book-Level SEO** | 必须 | 书籍级SEO信息 |
+| ├─ Book Title Optimization | 必须 | Main Title, Subtitle, Title Analysis |
+| ├─ Meta Description | 必须 | 160字符以内的元描述 |
+| ├─ Core Keywords | 必须 | Primary Keywords (5个), Long-tail Keywords (5个) |
+| ├─ Target Audience | 必须 | Primary Audience, Audience Characteristics |
+| └─ Book Schema Markup | 必须 | JSON-LD格式的Schema标记 |
+| **Chapter-Level SEO** | 必须 | 每章独立的SEO信息 |
+| ├─ Chapter Title Optimization | 必须 | Original和Optimized标题 |
+| ├─ Meta Description | 必须 | 每章独立的元描述 |
+| ├─ Keywords | 必须 | 每章关键词 |
+| └─ URL Slug | 必须 | 每章URL slug |
+| **Internal Linking Strategy** | 必须 | Chapter-to-Chapter Links, Thematic Cluster Links |
+| **Content Optimization Guidelines** | 必须 | Per-Chapter Requirements, Technical SEO |
+| **Performance Metrics** | 必须 | Target Metrics, Keyword Ranking Tracking |
+
+### 15.4 格式一致性检测规则
+
+| 检查项 | 严重 | 中等 | 轻微 |
+|--------|------|------|------|
+| 文档结构一致性 | 缺少必需字段 | 字段顺序错误 | 字段命名略有偏差 |
+| 表格格式一致性 | 表格结构错误 | 表格内容缺失 | 表格格式不统一 |
+| 层级结构一致性 | 标题层级错误 | 层级深度不一致 | 缩进不统一 |
+| 必填字段完整性 | 关键字段缺失 | 次要字段缺失 | 可选字段缺失 |
+| 数据格式一致性 | 数据类型错误 | 数据格式不统一 | 单位不统一 |
+
+### 15.5 格式偏差评分规则
+
+| 情况 | 得分 | 处理方式 |
+|------|------|----------|
+| 完全符合The Neural Druid格式 | 100分 | 通过 |
+| 缺少1个次要字段 | 85分 | 要求补充 |
+| 缺少多个次要字段 | 70分 | 必须补充 |
+| 缺少1个必需字段 | 50分 | 拒绝通过，必须修复 |
+| 缺少多个必需字段 | 0分 | 拒绝通过，必须重写 |
+| 文档结构严重错误 | 0分 | 拒绝通过，参考范本重写 |
+
+### 15.6 参考范本路径
+
+```
+coo/
+└── the-neural-druid/
+    └── .progress/
+        ├── book-spec.md    ← 书籍规格文档范本
+        └── seo-meta.md     ← SEO文档范本
+```
+
+**所有新创建或修改的书籍规格文档和SEO文档，必须以The Neural Druid的文档为模板，确保字段完整、结构一致、格式统一。**
+
+---
+
+## 十六、质检报告格式
+
+### 16.1 报告结构
 
 ```markdown
 # 书籍质量检测报告：[书籍名称]
@@ -972,7 +1146,7 @@ SEO优化: 80分 × 15% = 12分
 [根据检测结果给出具体发布建议]
 ```
 
-### 15.2 汇总报告格式
+### 16.2 汇总报告格式
 
 ```markdown
 # 书籍质量检测汇总报告
@@ -1223,7 +1397,232 @@ SEO优化: 80分 × 15% = 12分
 
 ## 十七、附录
 
-### 17.1 检测项总数统计
+### 17.1 文档格式规范参考范本
+
+#### 17.1.1 book-spec.md 参考结构
+
+```markdown
+# Book Specification: [Book Title]
+
+## Basic Information
+- **Title**: [Main Title]: [Subtitle]
+- **Meta Description**: [160字符以内的描述]
+- **Keywords**: [关键词列表]
+- **Genre**: [类型]
+- **Target Audience**: [目标读者]
+- **Theme**: [主题]
+
+## Narrative Style
+- **Perspective**: [视角]
+- **Language Style**: [语言风格]
+- **Sentence Characteristics**: [句子特点]
+- **Unique Elements**: [独特元素]
+
+## Emotional Tone
+- **Overall Atmosphere**: [整体氛围]
+- **Emotional Arc**: [情感弧线]
+- **Emotional Pacing**: [情感节奏]
+
+## Character Voices
+### [角色名] (角色类型)
+- **Speech Characteristics**: [语言特点]
+- **Word Choice**: [用词特点]
+- **Personality Traits**: [性格特征]
+- **Internal Monologue Style**: [内心独白风格]
+- **Unique Expression**: [独特表达]
+- **Development Focus**: [发展重点]
+
+## Theme Depth
+- **Core Theme**: [核心主题]
+- **Philosophical Exploration**: [哲学探索]
+- **Real-world Metaphor**: [现实隐喻]
+
+## SEO & Marketing Strategy
+### Keyword Density Targets
+- **Primary Keywords**: [主关键词及密度]
+- **Secondary Keywords**: [次关键词及密度]
+- **Long-tail Keywords**: [长尾关键词及密度]
+
+### Chapter Title Optimization
+| Chapter | Optimized Title | Keywords Included | SEO Purpose |
+|---------|-----------------|-------------------|-------------|
+| 01 | Chapter 1: [标题] | [关键词] | [SEO目的] |
+| ... | ... | ... | ... |
+
+## World Building
+- **Setting**: [设定]
+- **Technology**: [技术]
+- **Social Structure**: [社会结构]
+
+## Sensory Detail Requirements
+### Distribution Targets (Per Chapter)
+- **Minimum 10 sensory details per chapter**
+- **At least 5 different sensory types**
+
+### Sensory Categories
+- **Visual**: [视觉描写要求]
+- **Auditory**: [听觉描写要求]
+- **Tactile**: [触觉描写要求]
+- **Olfactory**: [嗅觉描写要求]
+- **Gustatory**: [味觉描写要求]
+- **Proprioception**: [本体感觉描写要求]
+
+## Emotional Depth Design
+### Three-Layer Emotional Model (Required for Every Major Scene)
+1. **Surface Reaction** - [表层反应]
+2. **Internal Activity** - [内心活动]
+3. **Deep Motivation** - [深层动机]
+
+### Emotional Arc Quantification
+| Chapter | Starting State | Ending State | Key Emotional Beats |
+|---------|---------------|--------------|---------------------|
+| 1 | [起始状态] | [结束状态] | [关键情节点] |
+| ... | ... | ... | ... |
+
+## Prohibited Elements
+### Tier 1 - Absolute Prohibitions (Zero Tolerance)
+| Pattern | Example | Replacement Strategy |
+|---------|---------|---------------------|
+| [禁止模式] | [示例] | [替换策略] |
+
+### Tier 2 - High Frequency Patterns (Strict Limit)
+| Pattern | Maximum Allowed | Detection Method |
+|---------|----------------|------------------|
+| [限制模式] | [最大次数] | [检测方法] |
+
+### Dialogue Tag Requirements
+- **Minimum 5-6 different dialogue tags per chapter**
+- **Maximum 2 "said" per conversation**
+
+### Tension Vocabulary (2-3 words per 1000 words)
+- **Physical**: [物理张力词汇]
+- **Atmospheric**: [氛围张力词汇]
+- **Psychological**: [心理张力词汇]
+
+## Pacing Improvements by Chapter Range
+- **Chapters X-Y**: [节奏改进建议]
+
+## Open Ending Design (Chapter 10)
+- **Unresolved Questions**: [未解问题]
+- **New Suspense**: [新悬念]
+- **Character New Beginning**: [角色新开始]
+- **Reader Imagination**: [读者想象空间]
+
+## Quality Check Standards
+### Pre-Writing Checklist
+- [ ] [检查项1]
+- [ ] [检查项2]
+
+### Post-Writing Verification
+- [ ] [验证项1]
+- [ ] [验证项2]
+
+## Chapter Outline
+### Chapter 1: [章节标题]
+[章节简要描述]
+### Chapter 2: [章节标题]
+[章节简要描述]
+...
+```
+
+#### 17.1.2 seo-meta.md 参考结构
+
+```markdown
+# [Book Title] - SEO Meta Data
+
+## Book-Level SEO
+
+### 1. Book Title Optimization
+**Main Title**: [主标题]
+**Subtitle**: [副标题]
+**Title Analysis**: [标题分析]
+
+### 2. Meta Description (160 characters)
+```
+[160字符以内的元描述]
+```
+
+### 3. Core Keywords (8-10)
+**Primary Keywords**:
+1. [关键词1] (search volume: [搜索量]/month)
+2. ...
+
+**Long-tail Keywords**:
+6. [长尾关键词1]
+7. ...
+
+### 4. Target Audience
+**Primary Audience**:
+- Age: [年龄范围]
+- Interests: [兴趣]
+- Reading preferences: [阅读偏好]
+
+### 5. Book Schema Markup
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "[书名]",
+  "author": "[作者]",
+  "description": "[描述]",
+  "genre": ["[类型1]", "[类型2]"],
+  "keywords": "[关键词]"
+}
+```
+
+## Chapter-Level SEO
+
+### Chapter 1: [章节标题]
+**Chapter Title Optimization**:
+- Original: [原标题]
+- Optimized: [优化后标题]
+
+**Meta Description**:
+```
+[章节元描述]
+```
+
+**Keywords**: [关键词]
+
+**URL Slug**: `chapter-1-[slug]`
+
+...
+
+## Internal Linking Strategy
+### Chapter-to-Chapter Links
+**Chapter 1** → Chapter 2 ([链接主题])
+...
+
+### Thematic Cluster Links
+- [主题链接]
+
+## Content Optimization Guidelines
+### Per-Chapter Requirements
+1. **Keyword Density**: [密度要求]
+2. **Heading Tags**: [标题层级要求]
+3. ...
+
+### Technical SEO
+1. **URL Structure**: `/[book-slug]/chapter-{number}-{slug}/`
+2. ...
+
+## Performance Metrics
+### Target Metrics
+- **Page Load Time**: < [秒数] seconds
+- ...
+
+### Keyword Ranking Tracking
+1. [关键词1]
+2. ...
+
+---
+
+*Created: [日期]*
+*Last Updated: [日期]*
+*Version: [版本]*
+```
+
+### 17.2 检测项总数统计
 
 | 维度 | 检测项数量 |
 |------|------------|
@@ -1237,9 +1636,10 @@ SEO优化: 80分 × 15% = 12分
 | 法律风险 | 5项 |
 | 读者体验 | 5项 |
 | 跨文档一致性 | 5项 |
-| **总计** | **193项** |
+| 文档格式规范 | 5项 |
+| **总计** | **198项** |
 
-### 17.2 参考文档
+### 17.3 参考文档
 
 | 文档 | 路径 |
 |------|------|
@@ -1250,11 +1650,12 @@ SEO优化: 80分 × 15% = 12分
 | 情节一致性检查报告 | coo/docs/plot-consistency-report.md |
 | 一致性检查报告v3 | coo/docs/consistency-check-report-v3.md |
 
-### 17.3 版本历史
+### 17.4 版本历史
 
 | 版本 | 日期 | 变更内容 | 作者 |
 |------|------|----------|------|
 | 1.0 | 2026-03-22 | 初始版本创建 | AI Assistant |
+| 1.1 | 2026-03-23 | 新增文档格式规范标准章节（十五），强制要求所有书籍规格文档和SEO文档遵循The Neural Druid格式 | AI Assistant |
 
 ---
 

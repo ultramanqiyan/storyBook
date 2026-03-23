@@ -2,16 +2,18 @@
 
 ## Basic Information
 - **Title**: The Glass Ceiling: A Workplace Psychological Thriller
-- **Meta Description**: When Alex Chen lands **their** dream job at a prestigious tech company, they discover the "glass ceiling" is more than a metaphor—it's a carefully constructed trap of psychological manipulation. A chilling corporate thriller about gaslighting and control.
+- **Meta Description**: When Alex Chen lands their dream job at a prestigious tech company, they discover the "glass ceiling" is more than a metaphor—it's a carefully constructed trap of psychological manipulation. A chilling corporate thriller about gaslighting and control.
 - **Keywords**: glass ceiling, workplace discrimination, gaslighting, psychological thriller, corporate manipulation, tech industry, gender bias, office politics
 - **Genre**: Corporate Drama / Psychological Thriller
 - **Target Audience**: 18-25 years; professional women, workplace psychology readers, thriller fans
-- **Theme**: Corporate psychological manipulation, identity and worth
+- **Theme**: Corporate psychological manipulation, identity and worth, workplace gaslighting
 
 ## Narrative Style
 - **Perspective**: Third-person limited (Alex's POV)
+- **POV Character(s)**: Alex Chen (protagonist)
 - **Language Style**: Modern, accessible prose with corporate terminology
 - **Sentence Characteristics**: Medium length, clear expression
+- **Vocabulary Level**: Moderate
 - **Unique Elements**: Psychological manipulation patterns, corporate culture critique
 
 ## Emotional Tone
@@ -22,33 +24,36 @@
 ## Character Voices
 
 ### Alex Chen (Protagonist)
+- **Occupation**: Tech professional
+- **Age**: Early-mid 20s
 - **Speech Characteristics**: Driven, insecure, observant
 - **Word Choice**: Questions, self-justification, growing awareness
+- **Sentence Patterns**: Self-doubt, impostor syndrome, awakening
 - **Personality Traits**: Driven, insecure, observant
 - **Internal Monologue Style**: Self-doubt, impostor syndrome, awakening
 - **Unique Expression**: Uses questions to understand new concepts
-- **Development Focus**: Deepen internal conflict with 3-layer emotional model
 
-### Marcus Webb (Manager)
+### Marcus Webb (Antagonist)
+- **Occupation**: Manager
 - **Speech Characteristics**: Charming, reasonable, manipulative
 - **Word Choice**: Praise mixed with criticism, corporate speak
+- **Sentence Patterns**: "We're a family" rhetoric
 - **Personality Traits**: Charming, calculating, manipulative
 - **Unique Expression**: Uses "we're a family" rhetoric
-- **Development Focus**: Add complexity (not pure villain, shows vulnerability)
 
-### Sarah Kim (Colleague)
+### Sarah Kim (Supporting Character)
+- **Occupation**: Colleague
 - **Speech Characteristics**: Exhausted, knowing, resigned
 - **Word Choice**: Hints, warnings, eventually direct truth
 - **Personality Traits**: Exhausted, knowing, resigned
 - **Unique Expression**: The mirror showing Alex the pattern
-- **Development Focus**: Expand role as mentor/guide with personal stakes
 
-### Rachel Chen (Sister)
+### Rachel Chen (Supporting Character)
+- **Occupation**: Alex's sister
 - **Speech Characteristics**: Direct, loving, outside perspective
 - **Word Choice**: Questions, observations, concern
 - **Personality Traits**: Direct, loving, outside perspective
 - **Unique Expression**: The anchor to reality outside corporate bubble
-- **Development Focus**: Strengthen as anchor to reality outside corporate bubble
 
 ## Theme Depth
 - **Core Theme**: Psychological Manipulation in Corporate Culture
@@ -78,8 +83,9 @@
 
 ## World Building
 - **Setting**: Silicon Valley tech company
-- **Culture**: "Family" rhetoric, burnout disguised as passion
+- **Technology**: Standard corporate tech, surveillance systems
 - **Social Structure**: Hierarchical, competitive, isolating
+- **Culture**: "Family" rhetoric, burnout disguised as passion
 - **The Pattern**: Love bombing → Negging → Gaslighting → Isolation
 
 ## Sensory Detail Requirements
@@ -116,7 +122,7 @@
 | 7 | Crisis (30/100) | Breaking Point (15/100) | Sanity tested → Rock bottom |
 | 8 | Recovery (35/100) | Fighting Spirit (70/100) | Support → Taking action |
 | 9 | Revelation (75/100) | Liberation (80/100) | Truth exposed → Freedom |
-| 10 | Uncertainty (60/100) | Hope (85/100) | New path → Fresh start |
+| 10 | uncertainty (60/100) | Hope (85/100) | New path → Fresh start |
 
 ## Prohibited Elements
 
@@ -157,16 +163,28 @@
 - **Atmospheric**: suffocating, charged, brittle, heavy, electric
 - **Psychological**: paranoia, disorientation, vertigo, dissociation, intrusion
 
-## Open Ending Design (Chapter 10)
-- **Unresolved Questions**: Will Alex fully recover? What about others still trapped?
-- **New Suspense**: Alex's new path, the company's future
-- **Character New Beginning**: Alex choosing herself over corporate success
-- **Reader Imagination**: What happens to other employees?
-- **Special Elements**:
-  - Add anonymous threat: "You think you've won. This isn't over."
-  - Add new junior colleague with similar complaints (cycle continues)
-  - Add ambiguous ending: promotion with transfer (fresh start or exile?)
-  - Maintain bittersweet tone: victory but systemic issues remain
+## Chapter Outline
+
+### Chapter 1: The Opportunity - A Dream Job's Dark Side
+Alex lands their dream job, initial excitement, subtle red flags dismissed as "normal."
+### Chapter 2: The Warning - Whispers in the Hallway
+Sarah's cryptic warnings, first signs of something wrong, Marcus's charm offensive.
+### Chapter 3: The Doubt - When Reality Shifts
+Reality begins to shift, gaslighting begins, Alex questions their own perception.
+### Chapter 4: The Isolation - Cut Off and Alone
+Systematic isolation, cut off from support, deepening dependence on toxic environment.
+### Chapter 5: The Evidence - Proof of Manipulation
+Finding proof of manipulation, connecting the dots, validation of suspicions.
+### Chapter 6: The Confrontation - Facing the Gaslighters
+Direct confrontation, Marcus's tactics exposed, escalation of conflict.
+### Chapter 7: The Breaking Point - Sanity at Risk
+Breaking point, sanity tested, hitting rock bottom before recovery.
+### Chapter 8: The Fight - Taking Back Control
+Taking back control, fighting back, finding allies and support.
+### Chapter 9: The Truth - Exposing the System
+Exposing the system, truth revealed, liberation from manipulation.
+### Chapter 10: The New Beginning - Beyond the Ceiling
+New beginning, beyond the ceiling, uncertain but hopeful future.
 
 ## Quality Check Standards
 
@@ -188,35 +206,3 @@
 - [ ] Chapter connection detection (natural flow from previous)
 - [ ] SEO optimization check (keyword density targets met)
 - [ ] Workplace authenticity check (consistent with tech industry)
-
-## Chapter Outline
-
-### Chapter 1: The Opportunity - A Dream Job's Dark Side
-Alex lands their dream job, initial excitement, subtle red flags dismissed as "normal."
-
-### Chapter 2: The Warning - Whispers in the Hallway
-Sarah's cryptic warnings, first signs of something wrong, Marcus's charm offensive.
-
-### Chapter 3: The Doubt - When Reality Shifts
-Reality begins to shift, gaslighting begins, Alex questions their own perception.
-
-### Chapter 4: The Isolation - Cut Off and Alone
-Systematic isolation, cut off from support, deepening dependence on toxic environment.
-
-### Chapter 5: The Evidence - Proof of Manipulation
-Finding proof of manipulation, connecting the dots, validation of suspicions.
-
-### Chapter 6: The Confrontation - Facing the Gaslighters
-Direct confrontation, Marcus's tactics exposed, escalation of conflict.
-
-### Chapter 7: The Breaking Point - Sanity at Risk
-Breaking point, sanity tested, hitting rock bottom before recovery.
-
-### Chapter 8: The Fight - Taking Back Control
-Taking back control, fighting back, finding allies and support.
-
-### Chapter 9: The Truth - Exposing the System
-Exposing the system, truth revealed, liberation from manipulation.
-
-### Chapter 10: The New Beginning - Beyond the Ceiling
-New beginning, beyond the ceiling, uncertain but hopeful future.

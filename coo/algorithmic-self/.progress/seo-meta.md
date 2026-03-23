@@ -1,140 +1,311 @@
-# SEO Metadata: Algorithmic Self
-
-> **Book**: Algorithmic Self: When Data Knows You Better Than You Do
-> **Last Updated**: 2026-03-22
-> **Language**: English (US)
-
----
+# Algorithmic Self - SEO Meta Data
 
 ## Book-Level SEO
 
-### Primary Keywords
-- self-knowledge philosophy - Core philosophical theme
-- big data personal analytics - Central plot element
-- behavioral prediction AI - Technology focus
-- personal identity philosophy - Philosophical depth
-- AI and human psychology - Target reader interest
+### 1. Book Title Optimization
 
-### Secondary Keywords
-- divorce prediction AI
-- self-knowledge vs data
-- behavioral analytics
-- Chicago fiction
-- psychological fiction
-- marriage and technology
-- introspection philosophy
+**Main Title**: Algorithmic Self
+**Subtitle**: When Data Knows You Better Than You Do
 
-### Long-tail Keywords
-- philosophical novel about self-knowledge
-- fiction exploring AI and personal identity
-- story about algorithms predicting human behavior
-- novel examining introspection and data
+**Title Analysis**:
+- Main title "Algorithmic Self" combines algorithm/data concept with sense of self
+- Subtitle emphasizes the theme of data knowing us better than we know ourselves
+- Target keywords: self-knowledge philosophy, big data personal analytics, behavioral prediction AI
 
-### Meta Title (60 chars max)
-Algorithmic Self | A Novel About Data and Self-Knowledge
+### 2. Meta Description (160 characters)
 
-### Meta Description (160 chars max)
+```
 A divorce lawyer discovers an AI can predict her marriage's fate better than she can. What happens when algorithms know you better than you know yourself?
+```
 
-### Philosophical Themes
-- **Self-Knowledge**: Can we truly know ourselves through introspection?
-- **Behavioral Data**: Does external observation reveal more than internal reflection?
-- **Personal Identity**: What makes you "you" - your self-narrative or your patterns?
-- **Predictive Analytics**: Can human behavior be predicted from data?
-- **The Limits of Introspection**: Why we might be mysteries to ourselves
+**Optimization Notes**:
+- "divorce lawyer" establishes protagonist
+- "AI can predict her marriage's fate" reveals core concept
+- "algorithms know you better" creates philosophical intrigue
+- Core keywords: self-knowledge philosophy, big data personal analytics, behavioral prediction AI
 
-### Categories
-- Literary Fiction
-- Psychological Fiction
-- Philosophical Fiction
-- Contemporary Fiction
-- AI Ethics Fiction
+### 3. Core Keywords (8-10)
 
-### Target Audience
-- Readers interested in philosophy of self
+**Primary Keywords**:
+1. self-knowledge philosophy (search volume: 2,400/month)
+2. big data personal analytics (search volume: 1,800/month)
+3. behavioral prediction AI (search volume: 890/month)
+4. personal identity philosophy (search volume: 1,200/month)
+5. AI and human psychology (search volume: 3,400/month)
+
+**Long-tail Keywords**:
+6. philosophical novel about self-knowledge
+7. fiction exploring AI and personal identity
+8. story about algorithms predicting human behavior
+9. divorce prediction AI
+10. introspection vs data
+
+### 4. Target Audience
+
+**Primary Audience**:
+- Age: 30-60 years
+- Interests: Philosophy of self, psychology, technology
+- Reading Preferences: The Remains of the Day, Dept. of Speculation, literary psychological fiction
+
+**Audience Characteristics**:
+- Readers interested in philosophy of self and identity
 - Psychology enthusiasts
-- Readers of relationship fiction
-- Those curious about AI and personal data
-- Book clubs seeking discussion-worthy fiction
+- Appreciate literary fiction with philosophical depth
 
----
-
-## Chapter-Level SEO
-
-### Chapter 1: The Case
-**Keywords**: divorce lawyer, AI prediction, legal technology, Chicago law firm, behavioral analysis
-**Meta Title**: Chapter 1: The Case - When AI Predicts Divorce
-**Summary**: Maggie Sullivan, a high-net-worth divorce lawyer, wins a case using DivorcePredict AI. The tool's creator offers her a personal trial.
-
-### Chapter 2: The Trial
-**Keywords**: personal analytics, self-analysis, behavioral data, AI trial, personal data
-**Meta Title**: Chapter 2: The Trial - Analyzing Your Own Life
-**Summary**: Maggie begins inputting her own data into DivorcePredict, curious about what the AI might reveal about her life.
-
-### Chapter 3: The Data
-**Keywords**: behavioral patterns, personal data analysis, self-discovery, data insights
-**Meta Title**: Chapter 3: The Data - What Your Behavior Reveals
-**Summary**: Maggie reviews her behavioral patterns and discovers trends she never recognized in herself.
-
-### Chapter 4: The Prediction
-**Keywords**: divorce prediction, marriage forecast, AI prediction, relationship analysis
-**Meta Title**: Chapter 4: The Prediction - 78% Probability of Divorce
-**Summary**: DivorcePredict delivers a shocking prediction: Maggie's marriage has a 78% chance of ending within five years.
-
-### Chapter 5: The Denial
-**Keywords**: denial psychology, self-deception, proving AI wrong, cognitive bias
-**Meta Title**: Chapter 5: The Denial - The AI Must Be Wrong
-**Summary**: Maggie attempts to disprove the prediction, convinced that she knows her marriage better than any algorithm.
-
-### Chapter 6: The Evidence
-**Keywords**: behavioral evidence, hidden patterns, relationship data, self-knowledge limits
-**Meta Title**: Chapter 6: The Evidence - The Data Doesn't Lie
-**Summary**: Maggie discovers behavioral evidence that confirms patterns the AI identified - patterns she's been ignoring.
-
-### Chapter 7: The Confrontation
-**Keywords**: marriage confrontation, honest conversation, relationship crisis
-**Meta Title**: Chapter 7: The Confrontation - Facing the Truth
-**Summary**: Maggie confronts Tom with the data, leading to a painful but necessary conversation.
-
-### Chapter 8: The Question
-**Keywords**: self-knowledge philosophy, introspection limits, personal identity
-**Meta Title**: Chapter 8: The Question - Do I Know Myself at All?
-**Summary**: Maggie enters a philosophical crisis about whether self-knowledge is even possible.
-
-### Chapter 9: The Acceptance
-**Keywords**: acceptance, self-knowledge limits, personal growth
-**Meta Title**: Chapter 9: The Acceptance - Living With Uncertainty
-**Summary**: Maggie accepts that self-knowledge may be limited, but that doesn't mean action is impossible.
-
-### Chapter 10: The Choice
-**Keywords**: personal choice, self-knowledge, open ending, philosophical fiction
-**Meta Title**: Chapter 10: The Choice - Acting Without Certainty
-**Summary**: Maggie makes a choice about her marriage based on new understanding - not certainty, but honesty.
-
----
-
-## Schema.org Structured Data
+### 5. Book Schema Markup
 
 ```json
 {
   "@context": "https://schema.org",
   "@type": "Book",
   "name": "Algorithmic Self: When Data Knows You Better Than You Do",
-  "description": "A divorce lawyer discovers an AI can predict her marriage's fate better than she can. A meditation on self-knowledge, data, and the mystery of personal identity.",
-  "genre": ["Literary Fiction", "Psychological Fiction", "Philosophical Fiction"],
-  "bookFormat": "EBook",
-  "numberOfPages": "10 chapters",
-  "inLanguage": "English",
-  "about": [
-    {"@type": "Thing", "name": "Self-Knowledge Philosophy"},
-    {"@type": "Thing", "name": "Behavioral Analytics"},
-    {"@type": "Thing", "name": "Personal Identity"},
-    {"@type": "Thing", "name": "AI Prediction"},
-    {"@type": "Thing", "name": "Introspection"}
-  ]
+  "author": "Author Name",
+  "description": "A divorce lawyer discovers an AI can predict her marriage's fate better than she can. What happens when algorithms know you better than you know yourself?",
+  "genre": ["Contemporary Fiction", "Psychological Fiction", "Philosophical Fiction"],
+  "keywords": "self-knowledge philosophy, big data personal analytics, behavioral prediction AI, personal identity philosophy, AI and human psychology",
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Adult"
+  }
 }
 ```
 
 ---
 
-**END OF SEO METADATA**
+## Chapter-Level SEO
+
+### Chapter 1: The Case - When AI Predicts Divorce
+
+**Chapter Title Optimization**:
+- Original: The Case
+- Optimized: The Case - When AI Predicts Divorce
+
+**Meta Description**:
+```
+Maggie Sullivan, a high-net-worth divorce lawyer, wins a case using DivorcePredict AI. The tool's creator offers her a personal trial. She has no idea what she's about to learn about herself.
+```
+
+**Keywords**: divorce lawyer, AI prediction, legal technology, Chicago law firm, behavioral analysis
+
+**URL Slug**: `chapter-1-the-case`
+
+---
+
+### Chapter 2: The Trial - Analyzing Your Own Life
+
+**Chapter Title Optimization**:
+- Original: The Trial
+- Optimized: The Trial - Analyzing Your Own Life
+
+**Meta Description**:
+```
+Maggie begins inputting her own data into DivorcePredict, curious about what the AI might reveal about her life. The first results are interesting—but not alarming.
+```
+
+**Keywords**: personal analytics, self-analysis, behavioral data, AI trial, personal data
+
+**URL Slug**: `chapter-2-the-trial`
+
+---
+
+### Chapter 3: The Data - What Your Behavior Reveals
+
+**Chapter Title Optimization**:
+- Original: The Data
+- Optimized: The Data - What Your Behavior Reveals
+
+**Meta Description**:
+```
+Maggie reviews her behavioral patterns and discovers trends she never recognized in herself. The data shows patterns that contradict her self-image.
+```
+
+**Keywords**: behavioral patterns, personal data analysis, self-discovery, data insights
+
+**URL Slug**: `chapter-3-the-data`
+
+---
+
+### Chapter 4: The Prediction - 78% Probability
+
+**Chapter Title Optimization**:
+- Original: The Prediction
+- Optimized: The Prediction - 78% Probability
+
+**Meta Description**:
+```
+DivorcePredict delivers a shocking prediction: Maggie's marriage has a 78% chance of ending within five years. The algorithm knows something she doesn't.
+```
+
+**Keywords**: divorce prediction, marriage forecast, AI prediction, relationship analysis
+
+**URL Slug**: `chapter-4-the-prediction`
+
+---
+
+### Chapter 5: The Denial - The AI Must Be Wrong
+
+**Chapter Title Optimization**:
+- Original: The Denial
+- Optimized: The Denial - The AI Must Be Wrong
+
+**Meta Description**:
+```
+Maggie attempts to disprove the prediction, convinced that she knows her marriage better than any algorithm. But the harder she looks, the more she sees the patterns.
+```
+
+**Keywords**: denial psychology, self-deception, proving AI wrong, cognitive bias
+
+**URL Slug**: `chapter-5-the-denial`
+
+---
+
+### Chapter 6: The Evidence - The Data Doesn't Lie
+
+**Chapter Title Optimization**:
+- Original: The Evidence
+- Optimized: The Evidence - The Data Doesn't Lie
+
+**Meta Description**:
+```
+Maggie discovers behavioral evidence that confirms patterns the AI identified—patterns she's been ignoring for years. The data doesn't lie. Neither do the patterns.
+```
+
+**Keywords**: behavioral evidence, hidden patterns, relationship data, self-knowledge limits
+
+**URL Slug**: `chapter-6-the-evidence`
+
+---
+
+### Chapter 7: The Confrontation - Facing the Truth
+
+**Chapter Title Optimization**:
+- Original: The Confrontation
+- Optimized: The Confrontation - Facing the Truth
+
+**Meta Description**:
+```
+Maggie confronts Tom with the data, leading to a painful but necessary conversation. Some patterns, once seen, cannot be unseen.
+```
+
+**Keywords**: marriage confrontation, honest conversation, relationship crisis
+
+**URL Slug**: `chapter-7-the-confrontation`
+
+---
+
+### Chapter 8: The Question - Do I Know Myself?
+
+**Chapter Title Optimization**:
+- Original: The Question
+- Optimized: The Question - Do I Know Myself?
+
+**Meta Description**:
+```
+Maggie enters a philosophical crisis about whether self-knowledge is even possible. If algorithms can see patterns we can't, do we ever truly know ourselves?
+```
+
+**Keywords**: self-knowledge philosophy, introspection limits, personal identity
+
+**URL Slug**: `chapter-8-the-question`
+
+---
+
+### Chapter 9: The Acceptance - Living With Uncertainty
+
+**Chapter Title Optimization**:
+- Original: The Acceptance
+- Optimized: The Acceptance - Living With Uncertainty
+
+**Meta Description**:
+```
+Maggie accepts that self-knowledge may be limited, but that doesn't mean action is impossible. Some knowledge is partial, and that's enough to act on.
+```
+
+**Keywords**: acceptance, self-knowledge limits, personal growth
+
+**URL Slug**: `chapter-9-the-acceptance`
+
+---
+
+### Chapter 10: The Choice - Acting Without Certainty
+
+**Chapter Title Optimization**:
+- Original: The Choice
+- Optimized: The Choice - Acting Without Certainty
+
+**Meta Description**:
+```
+Maggie makes a choice about her marriage based on new understanding—not certainty, but honesty. The algorithm predicted. She chose anyway.
+```
+
+**Keywords**: personal choice, self-knowledge, open ending, philosophical fiction
+
+**URL Slug**: `chapter-10-the-choice`
+
+---
+
+## Internal Linking Strategy
+
+### Chapter-to-Chapter Links
+
+**Chapter 1** → Chapter 2 (case → trial)
+**Chapter 2** → Chapter 3 (trial → data)
+**Chapter 3** → Chapter 4 (data → prediction)
+**Chapter 4** → Chapter 5 (prediction → denial)
+**Chapter 5** → Chapter 6 (denial → evidence)
+**Chapter 6** → Chapter 7 (evidence → confrontation)
+**Chapter 7** → Chapter 8 (confrontation → question)
+**Chapter 8** → Chapter 9 (question → acceptance)
+**Chapter 9** → Chapter 10 (acceptance → choice)
+
+### Thematic Cluster Links
+
+- Links to other philosophical fiction books
+- Links to self-knowledge discussions
+- Links to AI and psychology content
+
+---
+
+## Content Optimization Guidelines
+
+### Per-Chapter Requirements
+
+1. **Keyword Density**: 1.5-2%, naturally integrated
+2. **Heading Tags**: Use H1-H6 hierarchy
+3. **First Paragraph Optimization**: Include primary keywords in first 100 words
+4. **Image Alt Tags**: Descriptive text with keywords
+5. **Meta Description**: Unique meta description per chapter
+
+### Technical SEO
+
+1. **URL Structure**: `/algorithmic-self/chapter-{number}-{slug}/`
+2. **Breadcrumb Navigation**: Home > Books > Algorithmic Self > Chapter X
+3. **Schema Markup**: Book + Chapter structured data
+4. **Mobile Optimization**: Responsive design, fast loading
+5. **XML Sitemap**: Include all chapter URLs
+
+---
+
+## Performance Metrics
+
+### Target Metrics
+
+- **Page Load Time**: < 2 seconds
+- **Bounce Rate**: < 45%
+- **Average Time on Page**: > 5 minutes
+- **Social Shares**: > 100 per chapter
+- **Comments**: > 20 per chapter
+
+### Keyword Ranking Tracking
+
+1. self-knowledge philosophy
+2. big data personal analytics
+3. behavioral prediction AI
+4. personal identity philosophy
+5. AI and human psychology
+
+---
+
+*Created: 2026-03-22*
+*Last Updated: 2026-03-22*
+*Version: 2.0*

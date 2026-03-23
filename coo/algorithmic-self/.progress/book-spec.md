@@ -1,183 +1,202 @@
 # Book Specification: Algorithmic Self
 
-> **Template Version**: 1.0
-> **Last Updated**: 2026-03-22
-> **Language**: English (US)
+## Basic Information
+- **Title**: Algorithmic Self: When Data Knows You Better Than You Do
+- **Meta Description**: A divorce lawyer discovers an AI can predict her marriage's fate better than she can. What happens when algorithms know you better than you know yourself? A meditation on self-knowledge, data, and the mystery of personal identity.
+- **Keywords**: self-knowledge philosophy, big data personal analytics, behavioral prediction AI, personal identity philosophy, AI and human psychology, divorce prediction AI, introspection vs data
+- **Genre**: Contemporary Fiction / Psychological Fiction / Philosophical Fiction
+- **Target Audience**: Adults 30-60, readers interested in philosophy of self, psychology, and technology
+- **Theme**: Self-Knowledge vs. External Analysis, Introspection vs. Behavioral Data, The Nature of Personal Identity
 
----
-
-## 1. Basic Information
-
-| Field | Value |
-|-------|-------|
-| **Title** | Algorithmic Self: When Data Knows You Better Than You Do |
-| **Genre** | Contemporary Fiction / Psychological Fiction |
-| **Target Readers** | Adults 30-60, readers interested in philosophy of self, psychology, and technology |
-| **Core Themes** | Self-knowledge vs. big data analytics, introspection vs. behavioral prediction, the nature of personal identity |
-| **Word Count Target** | 45,000-55,000 words |
-| **Chapter Count** | 10 chapters |
-
----
-
-## 2. Narrative Style
-
-### 2.1 Perspective
-- **Point of View**: Third-person limited
+## Narrative Style
+- **Perspective**: Third-person limited
 - **POV Character(s)**: Margaret "Maggie" Sullivan
-- **POV Consistency**: Single POV throughout
-
-### 2.2 Narrative Structure
-- **Dual Structure**: Yes
-- **Structure Type**: Reality line (present) + Internal line (Maggie's self-reflection and doubts)
-- **Interweaving Method**: AI predictions trigger Maggie's internal questioning; contrast between external data and internal experience
-
-### 2.3 Language Style
-- **Overall Tone**: Sharp, professional prose with underlying vulnerability; increasingly introspective
+- **Language Style**: Sharp, professional prose with underlying vulnerability; increasingly introspective
 - **Sentence Characteristics**: Medium-length sentences with lawyer's precision; becomes more fragmented as certainty erodes
 - **Vocabulary Level**: Moderate to advanced - legal terminology mixed with psychological vocabulary
-- **Unique Stylistic Elements**: 
-  - Legal metaphors applied to personal life
-  - Chicago urban atmosphere
-  - Contrast between Maggie's professional confidence and personal uncertainty
+- **Unique Elements**: Legal metaphors applied to personal life; Chicago urban atmosphere; contrast between professional confidence and personal uncertainty
 
-### 2.4 Distinctive Features
-- **What Makes This Book Unique**: Explores self-knowledge through the lens of a divorce lawyer who solves others' problems but can't solve her own
-- **Comparative Titles**: The Remains of the Day (Ishiguro) for professional self-deception; Dept. of Speculation (Offill) for marriage introspection
+## Emotional Tone
+- **Overall Atmosphere**: Professional confidence, Growing doubt, Vulnerability, Fear, Acceptance
+- **Emotional Arc**: Professional confidence (ch 1-3) → Growing recognition of AI accuracy (ch 4-6) → Crisis point (ch 7-8) → Acceptance (ch 9-10)
+- **Emotional Pacing**: Measured beginning, escalating doubt, philosophical deepening, contemplative resolution
 
----
+## Character Voices
 
-## 3. Emotional Tone (Quantified)
+### Margaret "Maggie" Sullivan (Protagonist)
+- **Occupation**: High-net-worth divorce lawyer, partner at Sullivan & Associates
+- **Age**: 45
+- **Speech Characteristics**: Precise, confident professionally; more uncertain personally
+- **Word Choice**: Legal terminology, precise vocabulary, Chicago colloquialisms
+- **Sentence Patterns**: Structured, logical; becomes more fragmented in personal reflection
+- **Personality Traits**: Brilliant professionally, emotionally guarded, secretly lonely, controlling
+- **Internal Monologue Style**: Analytical, self-critical, increasingly questioning
+- **Unique Expression**: "Let's look at the evidence," "What does the data say?"
+- **Speech Quirks**: Uses legal framing for personal problems; pauses before emotional topics
+- **Growth Arc**: From believing in self-knowledge to accepting that data might reveal truths we miss about ourselves
 
-### 3.1 Overall Atmosphere
-**Primary Emotions**: Professional confidence, Growing doubt, Vulnerability, Fear, Acceptance
+### Tom Sullivan (Supporting Character)
+- **Occupation**: Architect, runs his own small firm
+- **Age**: 48
+- **Speech Characteristics**: Warm, patient, increasingly distant
+- **Word Choice**: Creative vocabulary, emotional expressions
+- **Sentence Patterns**: Natural, flowing, increasingly questioning
+- **Personality Traits**: Creative, emotionally intelligent, tired of Maggie's control
 
-### 3.2 Emotional Arc
-```
-Chapters 1-3: Professional confidence with subtle cracks; curiosity about AI tool
-Chapters 4-6: Growing recognition of AI's accuracy; first doubts about self-knowledge
-Chapters 7-8: Crisis point - AI predicts her marriage's failure; deep questioning
-Chapters 9-10: Acceptance that self-knowledge may be impossible; new relationship with uncertainty
-```
+### Dr. James Chen (Supporting Character)
+- **Occupation**: AI researcher, creator of DivorcePredict AI
+- **Age**: 40
+- **Speech Characteristics**: Academic, enthusiastic about his creation
+- **Word Choice**: Technical AI terms, research language
+- **Sentence Patterns**: Clear, explanatory, precise
+- **Personality Traits**: Believes in his tool's accuracy, genuinely curious about human psychology
 
----
+## Theme Depth
+- **Core Theme**: Self-Knowledge vs. External Analysis
+- **Philosophical Exploration**: Can algorithms know us better than we know ourselves?
+- **Real-world Metaphor**: Modern debates about personal data, behavioral analytics, and self-awareness
 
-## 4. Character Voices (Detailed)
+## SEO & Marketing Strategy
 
-### 4.1 Protagonist
+### Keyword Density Targets
+- **Primary Keywords**: self-knowledge philosophy (2%), big data personal analytics (1.5%), behavioral prediction AI (1%)
+- **Secondary Keywords**: personal identity philosophy (1%), AI and human psychology (0.8%), divorce prediction AI (0.8%)
+- **Long-tail Keywords**: philosophical novel about self-knowledge (0.5%), fiction exploring AI and personal identity (0.5%)
 
-#### Margaret "Maggie" Sullivan
-| Attribute | Description |
-|-----------|-------------|
-| **Occupation** | High-net-worth divorce lawyer, partner at Sullivan & Associates |
-| **Age** | 45 |
-| **Speaking Style** | Precise, confident professionally; more uncertain personally |
-| **Word Choice** | Legal terminology, precise vocabulary, Chicago colloquialisms |
-| **Sentence Patterns** | Structured, logical; becomes more fragmented in personal reflection |
-| **Personality Traits** | Brilliant professionally, emotionally guarded, secretly lonely, controlling |
-| **Inner Monologue Style** | Analytical, self-critical, increasingly questioning |
-| **Unique Expressions** | "Let's look at the evidence," "What does the data say?" |
-| **Speech Quirks** | Uses legal framing for personal problems; pauses before emotional topics |
+### Chapter Title Optimization
+| Chapter | Optimized Title | Keywords Included | SEO Purpose |
+|---------|-----------------|-------------------|-------------|
+| 01 | Chapter 1: The Case - When AI Predicts Divorce | case, AI predicts divorce | Hook with profession |
+| 02 | Chapter 2: The Trial - Analyzing Your Own Life | trial, analyzing life | Personal start |
+| 03 | Chapter 3: The Data - What Your Behavior Reveals | data, behavior reveals | Discovery keywords |
+| 04 | Chapter 4: The Prediction - 78% Probability | prediction, 78 percent | Shock keywords |
+| 05 | Chapter 5: The Denial - The AI Must Be Wrong | denial, proving wrong | Conflict keywords |
+| 06 | Chapter 6: The Evidence - The Data Doesn't Lie | evidence, data truth | Crisis keywords |
+| 07 | Chapter 7: The Confrontation - Facing the Truth | confrontation, facing truth | Pain keywords |
+| 08 | Chapter 8: The Question - Do I Know Myself? | question, self-knowledge | Philosophical peak |
+| 09 | Chapter 9: The Acceptance - Living With Uncertainty | acceptance, uncertainty | Peace keywords |
+| 10 | Chapter 10: The Choice - Acting Without Certainty | choice, acting anyway | Open resolution |
 
-### 4.2 Supporting Characters
+## World Building
+- **Setting**: 2040 (near future), Chicago, IL
+- **Technology**: DivorcePredict AI, personal analytics systems, smart home data
+- **Social Structure**: Urban, professional, upper-middle-class; AI tools common in professional settings
 
-#### Tom Sullivan (Husband)
-| Attribute | Description |
-|-----------|-------------|
-| **Occupation** | Architect, runs his own small firm |
-| **Age** | 48 |
-| **Speaking Style** | Warm, patient, increasingly distant |
-| **Personality Traits** | Creative, emotionally intelligent, tired of Maggie's control |
+## Sensory Detail Requirements
 
-#### Dr. James Chen
-| Attribute | Description |
-|-----------|-------------|
-| **Occupation** | AI researcher, creator of DivorcePredict AI |
-| **Age** | 40 |
-| **Speaking Style** | Academic, enthusiastic about his creation |
-| **Personality Traits** | Believes in his tool's accuracy, genuinely curious about human psychology |
+### Distribution Targets (Per Chapter)
+- **Minimum 10 sensory details per chapter**
+- **At least 5 different sensory types**
+- **Professional/domestic scenes must have 3+ sensory details**
 
----
+### Sensory Categories
+- **Visual**: Chicago skyline, law office, home environments, data screens
+- **Auditory**: City sounds, office conversations, home silence, arguments
+- **Tactile**: Legal documents, home surfaces, coffee cups, fabric
+- **Olfactory**: Coffee, urban air, home scents, professional environments
+- **Internal**: Professional confidence, growing doubt, vulnerability, fear
+- **Intellectual**: Legal analysis, self-questioning, data interpretation
 
-## 5. Thematic Depth
+## Emotional Depth Design
 
-### 5.1 Core Themes
-1. **Self-Knowledge vs. External Analysis**: Can algorithms know us better than we know ourselves?
-2. **Introspection vs. Behavioral Data**: Is self-knowledge based on internal reflection or external behavior?
-3. **The Nature of Personal Identity**: What makes you "you" - your self-narrative or your behavioral patterns?
+### Three-Layer Emotional Model (Required for Every Major Scene)
+1. **Surface Reaction** - External behavior (e.g., Maggie reviewed the case files with practiced efficiency)
+2. **Internal Activity** - Thinking process (e.g., *The data says one thing, but my marriage feels different*)
+3. **Deep Motivation** - Why this reaction (e.g., Fear of what the data might reveal, desire to maintain control)
 
-### 5.2 Philosophical Exploration
-| Question | Exploration Approach |
-|----------|---------------------|
-| Is introspection reliable? | Maggie discovers her self-perception contradicts her behavioral data |
-| Can we know ourselves through data? | The AI's predictions force Maggie to confront patterns she's ignored |
-| What is the relationship between self-narrative and behavior? | Maggie's story about her marriage differs from the AI's analysis |
+### Emotional Arc Quantification
+| Chapter | Starting State | Ending State | Key Emotional Beats |
+|---------|---------------|--------------|---------------------|
+| 1 | Confidence (75/100) | Curiosity (70/100) | Winning case → Curious about AI |
+| 2 | Curiosity (70/100) | Intrigue (75/100) | Trial begins → Intrigued |
+| 3 | Intrigue (75/100) | Disturbed (60/100) | Data reviewed → Patterns disturbing |
+| 4 | Disturbed (60/100) | Shocked (50/100) | Prediction revealed → 78% divorce chance |
+| 5 | Shocked (50/100) | Defensive (55/100) | Denial → Trying to prove wrong |
+| 6 | Defensive (55/100) | Crisis (40/100) | Evidence found → Crisis point |
+| 7 | Crisis (40/100) | Pain (45/100) | Confrontation → Tom confirms patterns |
+| 8 | Pain (45/100) | Searching (50/100) | Questioning self → Philosophical crisis |
+| 9 | Searching (50/100) | Peace (65/100) | Acceptance → New understanding |
+| 10 | Peace (65/100) | Open (70/100) | Choice made → Open ending |
 
----
+## Prohibited Elements
 
-## 6. World Building
+### Tier 1 - Absolute Prohibitions (Zero Tolerance)
+| Pattern | Example | Replacement Strategy |
+|---------|---------|---------------------|
+| "And somewhere..." endings | "And somewhere, a clock ticked." | Concrete sensory detail tied to character |
+| "Neither of them knew..." | "Neither knew what would come." | Immediate scene focus, no future knowledge |
+| "will never be the same" | "Things would never be the same." | Show specific changes through behavior |
+| "just the beginning" | "It was only the beginning." | End with concrete image or action |
+| Rule of Three structure | "The room was dark. The room was cold. The room was silent." | Vary sentence structure, mix with action |
+| Abstract emotional labels | "She felt afraid." | Physical manifestation + internal thought |
+| "Little did they know" | "Little did she know..." | Remove entirely, maintain POV discipline |
+| "It all started when" | "It all started when..." | Start in medias res with action |
 
-### 6.1 Setting
-| Aspect | Details |
-|--------|---------|
-| **Time Period** | 2040 (near future) |
-| **Primary Location** | Chicago, IL |
-| **Environment** | Urban, professional, upper-middle-class |
-| **Social Context** | AI tools are common in professional settings; personal analytics are emerging |
+### Tier 2 - High Frequency Patterns (Strict Limit)
+| Pattern | Maximum Allowed | Detection Method |
+|---------|----------------|------------------|
+| "However," / "Nevertheless," | 1 per 2000 words | Search for transitional adverbs |
+| "Moreover," / "Furthermore," | 0 per chapter | Remove entirely |
+| "Suddenly," | 1 per chapter | Use physical jolt instead |
+| "Very," / "Really," / "Quite" | 2 per 1000 words | Search for intensifiers |
+| "-ing" sentence openings | 2 per chapter | Vary sentence structure |
+| "As if..." comparisons | 2 per chapter | Use concrete similes or direct description |
+| "Seemed to..." / "Appeared to..." | 1 per chapter | Be definitive or use character uncertainty |
+| Adverb-heavy dialogue tags | 0 preferred | Use action beats instead |
+| Repetitive sentence structures | Monitor | Vary sentence length and structure |
+| Overuse of bold/italic emphasis | Minimal | Trust prose strength |
 
-### 6.2 Technology
-- **DivorcePredict AI**: An algorithm that predicts divorce probability based on behavioral data
-- **Personal Analytics**: Systems that track and analyze personal behavior patterns
-- **Smart Home Data**: Household data that feeds into personal analytics
+### Dialogue Tag Requirements
+- **Minimum 5-6 different dialogue tags per chapter**
+- **Maximum 2 "said" per conversation**
+- **Use action beats instead of tags where possible**
+- **Examples**: whispered, muttered, snapped, breathed, demanded, questioned, admitted, conceded, challenged
 
----
+### Tension Vocabulary (2-3 words per 1000 words)
+- **Physical**: clenched, trembling, rigid, frozen, coiled
+- **Atmospheric**: suffocating, charged, brittle, heavy, electric
+- **Psychological**: paranoia, disorientation, vertigo, dissociation, intrusion
 
-## 7. Chapter Outline
+## Chapter Outline
 
-| Chapter | Title | Purpose | Emotional Arc | Key Events |
-|---------|-------|---------|---------------|------------|
-| 01 | The Case | Establish Maggie's expertise; introduce DivorcePredict | Confident (75) → Curious (70) | Maggie wins a case using DivorcePredict; Dr. Chen offers her a trial |
-| 02 | The Trial | Maggie begins using DivorcePredict for personal analysis | Curious (70) → Intrigued (75) | Maggie inputs her own data; initial results are interesting |
-| 03 | The Data | Maggie reviews her behavioral patterns | Intrigued (75) → Disturbed (60) | Data reveals patterns she didn't recognize |
-| 04 | The Prediction | DivorcePredict predicts her marriage's trajectory | Disturbed (60) → Shocked (50) | AI predicts 78% divorce probability within 5 years |
-| 05 | The Denial | Maggie rejects the prediction; tries to prove it wrong | Shocked (50) → Defensive (55) | Maggie attempts to disprove the prediction |
-| 06 | The Evidence | Maggie discovers data supporting the prediction | Defensive (55) → Crisis (40) | Behavioral patterns confirm what she's ignored |
-| 07 | The Confrontation | Maggie confronts Tom with the data | Crisis (40) → Pain (45) | Tom confirms some of the patterns |
-| 08 | The Question | Maggie questions whether she knows herself at all | Pain (45) → Searching (50) | Philosophical crisis about self-knowledge |
-| 09 | The Acceptance | Maggie accepts that self-knowledge may be limited | Searching (50) → Peace (65) | New understanding of herself and her marriage |
-| 10 | The Choice | Maggie makes a choice about her marriage based on new understanding | Peace (65) → Open (70) | Open ending - not about divorce but about self-knowledge |
+### Chapter 1: The Case - When AI Predicts Divorce
+Maggie wins a case using DivorcePredict AI; Dr. Chen offers her a personal trial.
+### Chapter 2: The Trial - Analyzing Your Own Life
+Maggie begins using DivorcePredict for personal analysis; initial results are interesting.
+### Chapter 3: The Data - What Your Behavior Reveals
+Maggie reviews behavioral patterns; data reveals patterns she didn't recognize.
+### Chapter 4: The Prediction - 78% Probability
+AI predicts 78% divorce probability within 5 years; Maggie is shocked.
+### Chapter 5: The Denial - The AI Must Be Wrong
+Maggie tries to prove the prediction wrong; defensive behavior.
+### Chapter 6: The Evidence - The Data Doesn't Lie
+Maggie discovers data supporting the prediction; behavioral patterns confirm what she's ignored.
+### Chapter 7: The Confrontation - Facing the Truth
+Maggie confronts Tom with the data; Tom confirms some patterns.
+### Chapter 8: The Question - Do I Know Myself?
+Maggie questions whether she knows herself at all; philosophical crisis.
+### Chapter 9: The Acceptance - Living With Uncertainty
+Maggie accepts that self-knowledge may be limited; new understanding.
+### Chapter 10: The Choice - Acting Without Certainty
+Maggie makes a choice about her marriage; open ending.
 
----
+## Quality Check Standards
 
-## 8. Open Ending Design
+### Pre-Writing Checklist
+- [ ] Chapter title optimized for SEO
+- [ ] Emotional arc quantified (start/end states)
+- [ ] Three-layer emotional beats outlined
+- [ ] 10 sensory details planned (5 types minimum)
+- [ ] Dialogue tags diversified (5-6 types)
+- [ ] Tension vocabulary selected (2-3 per 1000 words)
+- [ ] Tier 1 & 2 prohibited patterns reviewed
 
-### 8.1 Unresolved Questions
-1. Is the AI's prediction accurate, or is it a self-fulfilling prophecy?
-2. Can Maggie ever truly "know" herself?
-3. Is self-knowledge even possible, or are we all mysteries to ourselves?
-
-### 8.2 Character Final State
-- **Protagonist**: Maggie has accepted that self-knowledge is limited, but that doesn't mean action is impossible
-- **Key Relationship**: Her marriage is in a new, more honest place - not fixed, but real
-
----
-
-## 9. Quality Check Standards
-
-### 9.1 Pre-Writing Checklist
-- [ ] All character voices defined
-- [ ] Emotional arc quantified
-- [ ] Sensory requirements specified
-- [ ] Prohibited elements listed
-- [ ] Chapter purposes aligned
-
----
-
-## 10. Revision History
-
-| Version | Date | Changes | Author |
-|---------|------|---------|--------|
-| 1.0 | 2026-03-22 | Initial book specification | AI Assistant |
-
----
-
-**END OF BOOK SPECIFICATION**
+### Post-Writing Verification
+- [ ] AI trace detection (all Tier 1 & 2 patterns eliminated)
+- [ ] Sensory detail detection (minimum 10 items, 5 types)
+- [ ] Emotional depth detection (three layers complete for major scenes)
+- [ ] Character voice detection (Maggie's professional vs personal voice clear)
+- [ ] Narrative style detection (consistency maintained)
+- [ ] Chapter connection detection (natural flow from previous)
+- [ ] SEO optimization check (keyword density targets met)
+- [ ] Philosophical depth check (genuine exploration of self-knowledge)

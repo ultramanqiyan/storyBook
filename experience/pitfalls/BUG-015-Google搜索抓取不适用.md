@@ -126,4 +126,27 @@ Google 可能认为这些页面的内容质量低或重复。
 ### 3. 监控机制
 - 定期检查 Google Search Console
 - 监控页面索引状态
-- 及时响应搜索引擎的
+- 及时响应搜索引擎的反馈
+
+## 相关文件
+- `src/frontend/how-to-play.html`
+- `src/frontend/books/preset-ai-*.html` (所有 AI 系列书籍)
+- `src/frontend/sitemap.xml`
+- `src/frontend/robots.txt`
+
+## 发现时间
+2026-03-23
+
+## 修复时间
+2026-03-23 (部分修复)
+
+## 影响范围
+- how-to-play 页面
+- 所有 preset-ai 系列书籍页面 (001-023)
+- 不影响用户直接访问
+
+## 后续行动
+1. 为所有 preset-ai 书籍页面编写独特的 meta description
+2. 添加 og:url 和 og:image 标签
+3. 重新提交 Sitemap 到 Google Search Console
+4. 手动请求索引更新

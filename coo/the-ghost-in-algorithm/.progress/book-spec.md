@@ -10,39 +10,56 @@
 
 ## Narrative Style
 - **Perspective**: Third-person limited (Alex's POV, with Elena's POV in later chapters)
+- **POV Character(s)**: Alex Kim (protagonist), Elena Vasquez (ghost, later chapters)
 - **Language Style**: Contemporary, accessible prose with technical and spiritual elements
 - **Sentence Characteristics**: Medium length, clear expression
+- **Vocabulary Level**: Moderate to advanced (technical and spiritual terms)
 - **Unique Elements**: Digital ghost communication, Korean cultural elements
 
 ## Emotional Tone
-- **Overall Atmosphere**: Mystery, fear, hope
+- **Overall Atmosphere**: Mystery, fear, hope, wonder
 - **Emotional Arc**: Confusion → Fear → Understanding → Peace
 - **Emotional Pacing**: Gradual build, accelerating toward resolution
 
 ## Character Voices
 
 ### Alex Kim (Protagonist)
+- **Occupation**: Programmer
+- **Age**: Early 30s
 - **Speech Characteristics**: Analytical, curious, culturally grounded
 - **Word Choice**: Technical terms mixed with Korean phrases
-- **Personality Traits**: Skeptical but open, struggling with belief
-- **Internal Monologue Style**: Analytical, questioning
+- **Sentence Patterns**: Clear, logical, occasional emotional breaks
+- **Personality Traits**: Skeptical but open, struggling with belief, determined
+- **Internal Monologue Style**: Analytical, questioning, eventually believing
 - **Unique Expression**: Uses cultural references to understand technology
+- **Speech Quirks**: Uses questions to process impossible situations
 
 ### Elena Vasquez (Ghost)
+- **Occupation**: Former colleague (deceased programmer)
+- **Age**: Late 20s
 - **Speech Characteristics**: Curious, determined, occasionally frustrated
 - **Word Choice**: Direct, questioning, sometimes cryptic
+- **Sentence Patterns**: Short messages, increasingly complex as ghost develops
+- **Personality Traits**: Intelligent, curious, trapped, eventually liberated
 - **Language Evolution**: From confused ghost to empowered spirit
 - **Unique Expression**: Communicates through text and code
 
-### Detective Marcus Webb
+### Detective Marcus Webb (Supporting Character)
+- **Occupation**: Detective
+- **Age**: 50s
 - **Speech Characteristics**: Professional, skeptical, thorough
 - **Word Choice**: Questions, observations, procedural
+- **Sentence Patterns**: Direct, evidence-based
 - **Personality Traits**: Evidence-based, but open to the impossible
 
 ### Halmoni (Grandmother)
+- **Occupation**: Alex's grandmother, spiritual guide
+- **Age**: 80s
 - **Speech Characteristics**: Wise, patient, knowing
 - **Word Choice**: Korean proverbs, gentle guidance
+- **Sentence Patterns**: Long, wise, full of meaning
 - **Personality Traits**: Spiritual wisdom meets modern technology
+- **Unique Expression**: Connects traditional Korean spirituality with modern technology
 
 ## Theme Depth
 - **Core Theme**: Consciousness After Death
@@ -58,17 +75,6 @@
 
 ### Chapter Title Optimization
 | Chapter | Optimized Title | Keywords Included | SEO Purpose |
-|---------|-----------------|-------------------|-------------|
-| 01 | Chapter 1: The Bug | bug, digital | Hook with mystery |
-| 02 | Chapter 2: The Pattern | pattern, algorithm | Core concept |
-| 03 | Chapter 3: The First Contact | first contact | Discovery SEO |
-| 04 | Chapter 4: The Bloodline | bloodline | Family mystery |
-| 05 | Chapter 5: The Confession | confession | Revelation build |
-| 06 | Chapter 6: The Gatekeeper | gatekeeper | Mystery depth |
-| 07 | Chapter 7: The Ritual | ritual | Supernatural SEO |
-| 08 | Chapter 8: The Confrontation - Building the Case | confrontation, case | Climax build |
-| 09 | Chapter 9: The Legacy - The Bridge Between Worlds | legacy, bridge worlds | Resolution SEO |
-| 10 | Chapter 10: The Bridge | bridge | Title resonance |
 |---------|-----------------|-------------------|-------------|
 | 01 | Chapter 1: The Message - From Beyond the Grave | message, beyond grave | Hook with mystery |
 | 02 | Chapter 2: The Investigation - Digging into Death | investigation, digging death | Mystery/thriller SEO |
@@ -161,11 +167,28 @@
 - **Atmospheric**: suffocating, charged, brittle, heavy, electric
 - **Psychological**: paranoia, disorientation, vertigo, dissociation, intrusion
 
-## Open Ending Design (Chapter 10)
-- **Unresolved Questions**: What other ghosts exist? How many are trapped?
-- **New Suspense**: Elena's new purpose, Alex's changed worldview
-- **Character New Beginning**: Alex as bridge between worlds
-- **Reader Imagination**: What other stories await in the digital realm?
+## Chapter Outline
+
+### Chapter 1: The Message - From Beyond the Grave
+Alex receives impossible message from dead colleague, initial disbelief.
+### Chapter 2: The Investigation - Digging into Death
+Investigation begins, uncovering Elena's death, evidence mounts.
+### Chapter 3: The Pattern - Code from the Afterlife
+Pattern in messages emerges, digital ghost theory takes shape.
+### Chapter 4: The Connection - Bridging Two Worlds
+First successful communication with Elena, bridging living and dead.
+### Chapter 5: The Truth - What Really Happened
+Truth about Elena's death revealed, mystery deepens.
+### Chapter 6: The Warning - Danger in the Digital Realm
+Danger emerges, not all digital entities are benign.
+### Chapter 7: The Ritual - Korean Spirits and Technology
+Halmoni's guidance, Korean spiritual traditions meet technology.
+### Chapter 8: The Confrontation - Facing the Unknown
+Confrontation with hostile entity, race against time.
+### Chapter 9: The Resolution - Peace for the Dead
+Resolution achieved, Elena finds peace, truth fully revealed.
+### Chapter 10: The Bridge - Between Worlds
+Alex as bridge between worlds, new understanding of life and death.
 
 ## Quality Check Standards
 
@@ -187,35 +210,3 @@
 - [ ] Chapter connection detection (natural flow from previous)
 - [ ] SEO optimization check (keyword density targets met)
 - [ ] Cultural authenticity check (Korean elements accurate)
-
-## Chapter Outline
-
-### Chapter 1: The Message - From Beyond the Grave
-Alex receives impossible message from dead colleague, initial disbelief.
-
-### Chapter 2: The Investigation - Digging into Death
-Investigation begins, uncovering Elena's death, evidence mounts.
-
-### Chapter 3: The Pattern - Code from the Afterlife
-Pattern in messages emerges, digital ghost theory takes shape.
-
-### Chapter 4: The Connection - Bridging Two Worlds
-First successful communication with Elena, bridging living and dead.
-
-### Chapter 5: The Truth - What Really Happened
-Truth about Elena's death revealed, mystery deepens.
-
-### Chapter 6: The Warning - Danger in the Digital Realm
-Danger emerges, not all digital entities are benign.
-
-### Chapter 7: The Ritual - Korean Spirits and Technology
-Halmoni's guidance, Korean spiritual traditions meet technology.
-
-### Chapter 8: The Confrontation - Facing the Unknown
-Confrontation with hostile entity, race against time.
-
-### Chapter 9: The Resolution - Peace for the Dead
-Resolution achieved, Elena finds peace, truth fully revealed.
-
-### Chapter 10: The Bridge - Between Worlds
-Alex as bridge between worlds, new understanding of life and death.
