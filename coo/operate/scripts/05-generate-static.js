@@ -59,10 +59,19 @@ function extractSEOKeywords(seoContent) {
 }
 
 function extractSEOMetaDescription(seoContent) {
+  // 格式1: 代码块格式（有 ```）
   const codeBlockMatch = seoContent.match(/###\s*\d*\.\s*Meta Description[^`]*```\s*\n?([\s\S]*?)```/i);
   if (codeBlockMatch) {
     return codeBlockMatch[1].trim();
   }
+  
+  // 格式2: 列表格式（如 the-unconditional）
+  // - **Meta Description**: xxx
+  const listMatch = seoContent.match(/-\s*\*\*Meta Description\*\*:\s*([^\n]+)/i);
+  if (listMatch) {
+    return listMatch[1].trim();
+  }
+  
   return '';
 }
 
@@ -99,10 +108,11 @@ function loadSEOData(bookId) {
 function extractChapterSEO(seoContent) {
   const chapterSEO = {};
   
-  const chapterPattern = /### Chapter (\d+): ([^\n]+)\n[\s\S]*?\*\*Meta Description\*\*:\s*```\n?([\s\S]*?)```\n\n\*\*Keywords\*\*:\s*([^\n]+)/gi;
+  // 格式1: 代码块格式（有 ```）
+  const chapterPatternWithCode = /### Chapter (\d+): ([^\n]+)\n[\s\S]*?\*\*Meta Description\*\*:\s*```\n?([\s\S]*?)```\n\n\*\*Keywords\*\*:\s*([^\n]+)/gi;
   
   let match;
-  while ((match = chapterPattern.exec(seoContent)) !== null) {
+  while ((match = chapterPatternWithCode.exec(seoContent)) !== null) {
     const chapterNum = parseInt(match[1]);
     const chapterTitle = match[2].trim();
     const metaDescription = match[3].trim();
@@ -113,6 +123,28 @@ function extractChapterSEO(seoContent) {
       metaDescription: metaDescription,
       keywords: keywords
     };
+  }
+  
+  // 格式2: 列表格式（无代码块，如 the-unconditional）
+  // ### Chapter 1: Title
+  // - **Meta Description**: xxx
+  // - **Keywords**: xxx
+  const chapterPatternList = /### Chapter (\d+): ([^\n]+)\n[\s\S]*?-\s*\*\*Meta Description\*\*:\s*([^\n]+)\n[\s\S]*?-\s*\*\*Keywords\*\*:\s*([^\n]+)/gi;
+  
+  while ((match = chapterPatternList.exec(seoContent)) !== null) {
+    const chapterNum = parseInt(match[1]);
+    const chapterTitle = match[2].trim();
+    const metaDescription = match[3].trim();
+    const keywords = match[4].trim();
+    
+    // 如果该章节已存在（格式1已匹配），则跳过
+    if (!chapterSEO[chapterNum]) {
+      chapterSEO[chapterNum] = {
+        title: chapterTitle,
+        metaDescription: metaDescription,
+        keywords: keywords
+      };
+    }
   }
   
   return chapterSEO;

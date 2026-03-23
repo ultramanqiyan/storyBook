@@ -219,17 +219,38 @@ function extractBookSpecInfo(bookSpecContent) {
     characters: []
   };
   
-  // 支持中文和英文格式
-  const titleMatch = bookSpecContent.match(/\*\*(?:书名|Title)\*\*[：:]\s*(.+)/i);
+  // 支持多种格式：
+  // 1. 列表格式: - **Title**: xxx 或 - **Book Title**: xxx
+  // 2. 表格格式: | **Title** | xxx |
+  // 3. 支持中英文
+  
+  // 标题提取 - 尝试多种格式
+  let titleMatch = bookSpecContent.match(/\*\*(?:书名|Book Title|Title)\*\*[：:]\s*(.+)/i);
+  if (!titleMatch) {
+    // 尝试表格格式
+    titleMatch = bookSpecContent.match(/\|\s*\*\*(?:书名|Book Title|Title)\*\*\s*\|\s*(.+?)\s*\|/i);
+  }
   if (titleMatch) info.title = titleMatch[1].trim();
   
-  const typeMatch = bookSpecContent.match(/\*\*(?:类型|Type|Genre)\*\*[：:]\s*(.+)/i);
+  // 类型/Genre提取 - 尝试多种格式
+  let typeMatch = bookSpecContent.match(/\*\*(?:类型|Genre)\*\*[：:]\s*(.+)/i);
+  if (!typeMatch) {
+    typeMatch = bookSpecContent.match(/\|\s*\*\*(?:类型|Genre)\*\*\s*\|\s*(.+?)\s*\|/i);
+  }
   if (typeMatch) info.type = typeMatch[1].trim();
   
-  const readerMatch = bookSpecContent.match(/\*\*(?:目标读者|Target Reader|Target Audience)\*\*[：:]\s*(.+)/i);
+  // 目标读者提取 - 尝试多种格式
+  let readerMatch = bookSpecContent.match(/\*\*(?:目标读者|Target Readers?|Target Audience)\*\*[：:]\s*(.+)/i);
+  if (!readerMatch) {
+    readerMatch = bookSpecContent.match(/\|\s*\*\*(?:目标读者|Target Readers?|Target Audience)\*\*\s*\|\s*(.+?)\s*\|/i);
+  }
   if (readerMatch) info.targetReader = readerMatch[1].trim();
   
-  const themeMatch = bookSpecContent.match(/\*\*(?:主题|Theme|Themes)\*\*[：:]\s*(.+)/i);
+  // 主题提取 - 尝试多种格式
+  let themeMatch = bookSpecContent.match(/\*\*(?:主题|Theme|Themes|Core Themes?)\*\*[：:]\s*(.+)/i);
+  if (!themeMatch) {
+    themeMatch = bookSpecContent.match(/\|\s*\*\*(?:主题|Theme|Themes|Core Themes?)\*\*\s*\|\s*(.+?)\s*\|/i);
+  }
   if (themeMatch) info.themes = themeMatch[1].split(',').map(t => t.trim());
   
   return info;
@@ -238,7 +259,7 @@ function extractBookSpecInfo(bookSpecContent) {
 function extractCharactersFromBookSpec(bookSpecContent) {
   const characters = [];
   
-  // 匹配角色定义：### Dr. Elara Chen (Protagonist) 或 ### Elara（主角）
+  // 格式1: 匹配角色定义：### Dr. Elara Chen (Protagonist) 或 ### Elara（主角）
   // 支持英文和中文括号，支持名字中包含点号、空格、连字符等
   const charRegex = /###\s+([A-Za-z][A-Za-z\s\-\.\']*)\s*[\(（]([^)）]+)[\)）]/g;
   let match;
@@ -329,6 +350,55 @@ function extractCharactersFromBookSpec(bookSpecContent) {
     }
     
     characters.push({ name, roleType, personality, speechStyle });
+  }
+  
+  // 格式2: 表格格式角色定义（如 the-unconditional）
+  // 匹配类似 "#### ARIA (Artificial Relationship Intelligence Assistant)" 后接表格
+  const tableCharRegex = /####\s+([A-Za-z][A-Za-z\s\-\.\']*)\s*\(([^)]+)\)[\s\S]*?\| Attribute \| Description \|[\s\S]*?(?=####|###|$)/gi;
+  let tableMatch;
+  
+  while ((tableMatch = tableCharRegex.exec(bookSpecContent)) !== null) {
+    const name = tableMatch[1].trim();
+    const roleDesc = tableMatch[2].trim();
+    
+    // 从表格中提取信息
+    const tableContent = tableMatch[0];
+    let roleType = 'Supporting Character';
+    let personality = '';
+    let speechStyle = '';
+    
+    // 提取 Function/Role/Occupation
+    const functionMatch = tableContent.match(/\|\s*\*\*Function\*\*\s*\|\s*(.+?)\s*\|/i);
+    const roleMatch = tableContent.match(/\|\s*\*\*Role\*\*\s*\|\s*(.+?)\s*\|/i);
+    const occupationMatch = tableContent.match(/\|\s*\*\*Occupation\*\*\s*\|\s*(.+?)\s*\|/i);
+    if (functionMatch) {
+      roleType = functionMatch[1].trim();
+    } else if (roleMatch) {
+      roleType = roleMatch[1].trim();
+    } else if (occupationMatch) {
+      roleType = occupationMatch[1].trim();
+    }
+    
+    // 提取 Personality Traits
+    const personalityMatch = tableContent.match(/\|\s*\*\*Personality Traits\*\*\s*\|\s*(.+?)\s*\|/i);
+    if (personalityMatch) {
+      personality = personalityMatch[1].trim();
+    }
+    
+    // 提取 Speaking Style
+    const speakingMatch = tableContent.match(/\|\s*\*\*Speaking Style\*\*\s*\|\s*(.+?)\s*\|/i);
+    const speechMatch = tableContent.match(/\|\s*\*\*Speech Style\*\*\s*\|\s*(.+?)\s*\|/i);
+    if (speakingMatch) {
+      speechStyle = speakingMatch[1].trim();
+    } else if (speechMatch) {
+      speechStyle = speechMatch[1].trim();
+    }
+    
+    // 检查是否已存在（避免重复）
+    const exists = characters.some(c => c.name === name);
+    if (!exists) {
+      characters.push({ name, roleType, personality, speechStyle });
+    }
   }
   
   return characters;

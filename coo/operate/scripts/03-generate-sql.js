@@ -50,45 +50,57 @@ function getRoleIcon(roleType, config) {
   
   const lowerRole = roleType.toLowerCase();
   
-  // 优先匹配英文关键词
-  const roleKeywords = {
-    'protagonist': '🧑',
-    'main character': '🧑',
-    'ai': '🤖',
-    'robot': '🤖',
-    'entity': '🌟',
-    'being': '✨',
-    'consciousness': '💭',
-    'voice': '🗣️',
-    'dog': '🐕',
-    'pet': '🐕',
-    'animal': '🐕',
-    'human': '🧑',
-    'owner': '🧑',
-    'master': '🧑',
-    'scientist': '🔬',
-    'researcher': '🧑‍🔬',
-    'doctor': '👨‍⚕️',
-    'detective': '🕵️',
-    'teacher': '👨‍🏫',
-    'student': '🎓',
-    'ally': '🤝',
-    'mentor': '🧙',
-    'guide': '🧭',
-    'partner': '👥',
-    'friend': '😊',
-    'enemy': '😈',
-    'villain': '👿',
-    'antagonist': '👿',
-    'supporting character': '👤',
-    'minor character': '👤',
-    'grandmother': '👵',
-    'grandfather': '👴',
-    'ceo': '👔'
-  };
+  // 优先匹配英文关键词（按优先级排序，更具体的匹配优先）
+  const roleKeywords = [
+    // 职业角色（优先匹配）
+    { keyword: 'software engineer', icon: '💻' },
+    { keyword: 'ai researcher', icon: '🔬' },
+    { keyword: 'ai researcher', icon: '🔬' },
+    { keyword: 'lead researcher', icon: '🔬' },
+    { keyword: 'lead ai', icon: '🔬' },
+    { keyword: 'engineer', icon: '💻' },
+    { keyword: 'programmer', icon: '💻' },
+    { keyword: 'developer', icon: '💻' },
+    { keyword: 'researcher', icon: '🧑‍🔬' },
+    { keyword: 'scientist', icon: '🔬' },
+    { keyword: 'doctor', icon: '👨‍⚕️' },
+    { keyword: 'detective', icon: '🕵️' },
+    { keyword: 'teacher', icon: '👨‍🏫' },
+    { keyword: 'student', icon: '🎓' },
+    { keyword: 'ceo', icon: '👔' },
+    
+    // 基本角色
+    { keyword: 'protagonist', icon: '🧑' },
+    { keyword: 'main character', icon: '🧑' },
+    { keyword: 'ai companion', icon: '🤖' },
+    { keyword: 'ai', icon: '🤖' },
+    { keyword: 'robot', icon: '🤖' },
+    { keyword: 'entity', icon: '🌟' },
+    { keyword: 'being', icon: '✨' },
+    { keyword: 'consciousness', icon: '💭' },
+    { keyword: 'voice', icon: '🗣️' },
+    { keyword: 'dog', icon: '🐕' },
+    { keyword: 'pet', icon: '🐕' },
+    { keyword: 'animal', icon: '🐕' },
+    { keyword: 'human', icon: '🧑' },
+    { keyword: 'owner', icon: '🧑' },
+    { keyword: 'master', icon: '🧑' },
+    { keyword: 'ally', icon: '🤝' },
+    { keyword: 'mentor', icon: '🧙' },
+    { keyword: 'guide', icon: '🧭' },
+    { keyword: 'partner', icon: '👥' },
+    { keyword: 'friend', icon: '😊' },
+    { keyword: 'enemy', icon: '😈' },
+    { keyword: 'villain', icon: '👿' },
+    { keyword: 'antagonist', icon: '👿' },
+    { keyword: 'supporting character', icon: '👤' },
+    { keyword: 'minor character', icon: '👤' },
+    { keyword: 'grandmother', icon: '👵' },
+    { keyword: 'grandfather', icon: '👴' }
+  ];
   
-  // 检查是否包含英文关键词
-  for (const [keyword, icon] of Object.entries(roleKeywords)) {
+  // 检查是否包含英文关键词（按数组顺序匹配，更具体的在前）
+  for (const { keyword, icon } of roleKeywords) {
     if (lowerRole.includes(keyword)) {
       return icon;
     }
