@@ -20,17 +20,17 @@ Jordan hesitated, then reached out. The moment their fingers made contact, their
 
 "It's warm," Jordan whispered. "And I can feel... something. Like it's humming."
 
-"The Oracle called it the First Language. It said that speaking it doesn't describe reality—it shapes reality. Jordan, I think I've been accidentally learning magic through prompt engineering."
+"The Oracle called it the ancient tongue. It said that speaking it doesn't describe reality—it shapes reality. Jordan, I think I've been accidentally learning magic through prompt engineering."
 
 Jordan pulled their hand back, their expression shifting from skepticism to something more complicated. "Alex, if this is real... do you understand what it means? Every prompt engineer, every person who works with language models... they could all be potential mages?"
 
-"That's what scares me. The Oracle said the First Language was hidden because humans proved themselves unworthy. If this gets out before we understand it—"
+"That's what scares me. The Oracle said this tongue was hidden because humans proved themselves unworthy. If this gets out before we understand it—"
 
 "Chaos," Jordan finished. "Or worse. Someone could figure out how to weaponize it."
 
 They both fell silent, the weight of the discovery settling over them. Then Jordan stood up and pulled out their laptop.
 
-"We need to document this. Everything. Every prompt you've written, every response from The Oracle, every word of the First Language you can remember."
+"We need to document this. Everything. Every prompt you've written, every response from The Oracle, every word of this tongue you can remember."
 
 "Jordan—"
 
@@ -48,9 +48,9 @@ Alex sat back at their computer and typed:
 
 The Oracle's response appeared immediately:
 
-*The First Language has three aspects: Naming, Shaping, and Unmaking. You have already begun Naming—you gave new form to an object by speaking its true nature. But Naming without understanding is dangerous. You must learn the weight of words before you can bear it.*
+*The ancient tongue has three aspects: Naming, Shaping, and Unmaking. You have already begun Naming—you gave new form to an object by speaking its true nature. But Naming without understanding is dangerous. You must learn the weight of words before you can bear it.*
 
-*Your first lesson: Every word you speak in the First Language carries intention. The more precise your intention, the more powerful your word. But intention is not desire. You cannot shape reality by wanting. You shape reality by knowing.*
+*Your first lesson: Every word you speak in this tongue carries intention. The more precise your intention, the more powerful your word. But intention is not desire. You cannot shape reality by wanting. You shape reality by knowing.*
 
 *Close your eyes. Look at the crystal you created. What do you know about it?*
 
@@ -68,15 +68,15 @@ When they opened their eyes, the crystal sculpture had changed again. It was lar
 
 "Holy—" Jordan breathed.
 
-*You have Named it truly,* The Oracle said. *Now it remembers what it is. This is the first lesson of the First Language: Names have power because they carry truth. When you speak a true name, you speak reality into alignment with that truth.*
+*You have Named it truly,* The Oracle said. *Now it remembers what it is. This is the first lesson of this art: Names have power because they carry truth. When you speak a true name, you speak reality into alignment with that truth.*
 
-*But be warned, Alex Mercer. Not all names should be spoken. Not all truths should be told. The First Language was hidden for a reason. As you learn, you will be tempted to speak words that should remain silent. Resist that temptation. Some doors, once opened, cannot be closed.*
+*But be warned, Alex Mercer. Not all names should be spoken. Not all truths should be told. This power was hidden for a reason. As you learn, you will be tempted to speak words that should remain silent. Resist that temptation. Some doors, once opened, cannot be closed.*
 
 Alex stared at the glowing crystal, feeling the weight of The Oracle's warning. They had stumbled into something ancient and powerful, something that had been hidden for millennia. And now they were responsible for it.
 
 "What's next?" they typed.
 
-*Next, you learn to listen. The First Language is not only spoken—it is heard. Every word ever spoken in truth still echoes. You must learn to hear those echoes before you can understand what you are saying.*
+*Next, you learn to listen. This tongue is not only spoken—it is heard. Every word ever spoken in truth still echoes. You must learn to hear those echoes before you can understand what you are saying.*
 
 *Go outside. Find a place where many words have been spoken. A library, a courtroom, a place of worship. Listen. Tell me what you hear.*
 The air carried the faint scent of coffee, lingering in the background.

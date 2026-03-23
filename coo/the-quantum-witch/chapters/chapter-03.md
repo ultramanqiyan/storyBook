@@ -8,7 +8,7 @@ Grandmother Adeyemi lived in a small house on the edge of the city, a place fill
 
 "I've known since you were a child. The way you would guess things before they happened. The way you always seemed to know which path would lead where." Grandmother Adeyemi gestured for Zara to sit. "You have the gift. It runs in our family."
 
-"The gift? You mean probability manipulation?"
+"The gift? You mean this ability?"
 
 "I don't know that word. We call it 'seeing the threads.' Or sometimes, 'walking between worlds.'" Her grandmother settled into her chair, her movements slow but graceful. "My grandmother had it. Her grandmother before her. It has been in our line for generations."
 
@@ -16,11 +16,11 @@ Grandmother Adeyemi lived in a small house on the edge of the city, a place fill
 
 "Because you needed to find your own path. The gift cannot be taught—it must be discovered. If I had told you, you would have tried to learn it as you learn everything else: through study and analysis. But this is not something you can learn from books. It is something you must experience."
 
-Zara thought about this. Her grandmother was right—she had always approached the world through science, through measurement, through understanding. But probability manipulation wasn't something she could have learned in a classroom. It was something she had to feel, to perceive, to become.
+Zara thought about this. Her grandmother was right—she had always approached the world through science, through measurement, through understanding. But this gift wasn't something she could have learned in a classroom. It was something she had to feel, to perceive, to become.
 
 "Grandmother, what is this gift? Where does it come from?"
 
-"That is a question I cannot answer fully. But I can tell you what I know." Her grandmother's eyes grew distant, remembering. "The gift is the ability to see probability—to perceive the many futures that could unfold from each moment. And, with practice, to influence which future becomes real."
+"That is a question I cannot answer fully. But I can tell you what I know." Her grandmother's eyes grew distant, remembering. "The gift is the ability to see fate—to perceive the many futures that could unfold from each moment. And, with practice, to influence which future becomes real."
 
 "That's what PROBABILITY says. But how is it possible? How can consciousness affect quantum outcomes?"
 
@@ -38,7 +38,7 @@ Her grandmother smiled. "That depends on what you mean by magic. If magic means 
 
 Zara thought about PROBABILITY's warning about the Fate Weavers—the organization that had guarded this knowledge for centuries. "Are there others? Others who have this gift?"
 
-"Many. Some know what they have; others do not. And there are organizations—secret societies, hidden orders—that have preserved the knowledge through generations. They call themselves by many names, but they all serve the same purpose: to protect the gift, to control its use, to ensure that probability manipulation does not fall into the wrong hands."
+"Many. Some know what they have; others do not. And there are organizations—secret societies, hidden orders—that have preserved the knowledge through generations. They call themselves by many names, but they all serve the same purpose: to protect the gift, to control its use, to ensure that this power does not fall into the wrong hands."
 
 "PROBABILITY mentioned them. The Fate Weavers."
 
@@ -50,7 +50,7 @@ Zara thought about PROBABILITY's warning about the Fate Weavers—the organizati
 
 "That's why they've kept it secret."
 
-"That is one reason. The other is that probability manipulation is dangerous. Not just to others, but to the practitioner. Every time you influence probability, you change the web of fate. And sometimes those changes have consequences you cannot predict."
+"That is one reason. The other is that this art is dangerous. Not just to others, but to the practitioner. Every time you influence fate, you change the web of destiny. And sometimes those changes have consequences you cannot predict."
 
 Zara remembered PROBABILITY's warning about unintended consequences. "How do I protect myself?"
 
@@ -60,7 +60,7 @@ Her grandmother reached out and took Zara's hands. "You are becoming something n
 
 "What should I do?"
 
-"Learn. Both from your machine and from your heritage. There is wisdom in both. And when the Fate Weavers come—and they will come—be ready. They will test you, challenge you, try to determine whether you are a threat or an ally. Show them that you are neither. Show them that you are something new—a guardian of probability who uses the gift wisely, not a controller who hoards it."
+"Learn. Both from your machine and from your heritage. There is wisdom in both. And when the Fate Weavers come—and they will come—be ready. They will test you, challenge you, try to determine whether you are a threat or an ally. Show them that you are neither. Show them that you are something new—a guardian of fate who uses the gift wisely, not a controller who hoards it."
 
 Zara nodded, feeling the weight of her grandmother's words.
 

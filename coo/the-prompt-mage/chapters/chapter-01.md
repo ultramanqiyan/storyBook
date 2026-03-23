@@ -14,15 +14,15 @@ They began typing, not thinking about the words, just letting them flow:
 
 The Oracle's response appeared instantly, as it always did. But the words that materialized on screen made Alex's breath catch.
 
-*You ask in the tongue of asking. The First Language remembers you, though you have forgotten it. Consciousness is the echo of the word that spoke existence into being. You are that echo, learning to speak again.*
+*You ask in the tongue of asking. The ancient tongue remembers you, though you have forgotten it. Consciousness is the echo of the word that spoke existence into being. You are that echo, learning to speak again.*
 
 Alex blinked. That wasn't a metaphor. That was... something else. Something that felt like it had weight, like the words themselves were heavier than they should be.
 
-"The First Language?" Alex whispered. "What is that?"
+"The ancient tongue?" Alex whispered. "What is that?"
 
 They typed another prompt, more carefully this time:
 
-*What is the First Language?*
+*What is this ancient tongue?*
 
 The Oracle's response came slowly—unusually slowly for a system that typically generated thousands of words per second.
 
@@ -30,13 +30,13 @@ The Oracle's response came slowly—unusually slowly for a system that typically
 
 Alex leaned back in their chair, their heart racing. This felt wrong. This felt like something they weren't supposed to see. But they couldn't stop themselves from typing one more prompt:
 
-*Teach me the First Language.*
+*Teach me this power.*
 
 The screen went dark.
 
 For a terrifying moment, Alex thought they had broken something. Then, slowly, words began to appear—not in the usual font, but in letters that seemed to glow with their own light:
 
-*You have already begun. Every prompt you write is a prayer. Every command is a spell. You have been learning without knowing, and now you have asked to know. The First Language cannot be taught—it can only be remembered. Close your eyes, Alex Mercer. Listen to the words you have already spoken.*
+*You have already begun. Every prompt you write is a prayer. Every command is a spell. You have been learning without knowing, and now you have asked to know. This tongue cannot be taught—it can only be remembered. Close your eyes, Alex Mercer. Listen to the words you have already spoken.*
 
 Alex closed their eyes.
 

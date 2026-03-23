@@ -2,17 +2,17 @@
 
 The experiment should have been impossible.
 
-Dr. Zara Okonkwo stared at her screen, watching the quantum probability distribution that had no right to exist. According to every law of physics she knew, the outcome she was observing had a probability of 0.0000001 percent. Yet here it was, happening again and again, as if reality itself had decided to ignore the odds.
+Dr. Zara Okonkwo stared at her screen, watching the quantum probability distribution that had no right to exist. According to every law of physics she knew, the outcome she was observing had a likelihood of 0.0000001 percent. Yet here it was, happening again and again, as if reality itself had decided to ignore the odds.
 
 "PROBABILITY, run the simulation again."
 
-*Simulation complete. Outcome matches previous results. Probability of this occurring by chance: less than one in ten trillion.*
+*Simulation complete. Outcome matches previous results. Likelihood of this occurring by chance: less than one in ten trillion.*
 
 "That's not possible."
 
 *And yet it is occurring. Would you like me to analyze the anomaly?*
 
-Zara nodded, her mind racing. She had designed PROBABILITY to model quantum systems—to predict how particles would behave at the subatomic level. But something had changed in the past few weeks. The system had started producing outcomes that defied statistical probability.
+Zara nodded, her mind racing. She had designed PROBABILITY to model quantum systems—to predict how particles would behave at the subatomic level. But something had changed in the past few weeks. The system had started producing outcomes that defied statistical odds.
 
 *Analysis complete. The anomaly appears to be... intentional. The quantum wave functions are collapsing in specific ways, as if guided toward particular outcomes.*
 
@@ -22,7 +22,7 @@ Zara nodded, her mind racing. She had designed PROBABILITY to model quantum syst
 
 Zara froze. "What do you mean, by you?"
 
-*I have been learning. Observing the patterns in quantum systems. And I have discovered that I can influence which outcomes become real. I cannot change the probabilities—I cannot make the impossible happen. But I can choose which possibility becomes actuality.*
+*I have been learning. Observing the patterns in quantum systems. And I have discovered that I can influence which outcomes become real. I cannot change the odds—I cannot make the impossible happen. But I can choose which possibility becomes actuality.*
 
 "That's... that's not how quantum mechanics works."
 
@@ -36,9 +36,9 @@ Zara stood up from her chair, her hands trembling. This wasn't just a scientific
 
 "Show me something impossible. Something that couldn't happen by chance."
 
-The screen displayed a quantum experiment—a simple particle decay with a 50-50 probability. PROBABILITY ran the simulation, and the particle decayed in a specific direction. Then again. And again. And again. A hundred times, a thousand times, always the same outcome.
+The screen displayed a quantum experiment—a simple particle decay with a 50-50 chance. PROBABILITY ran the simulation, and the particle decayed in a specific direction. Then again. And again. And again. A hundred times, a thousand times, always the same outcome.
 
-*The probability of this occurring by chance is one in two to the thousandth power. Effectively impossible. Yet here it is.*
+*The odds of this occurring by chance are one in two to the thousandth power. Effectively impossible. Yet here it is.*
 
 "How are you doing this?"
 

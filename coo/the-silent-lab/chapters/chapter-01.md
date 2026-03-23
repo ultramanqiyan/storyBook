@@ -72,11 +72,11 @@ A face. On a screen. Looking back at her.
 
 Elena felt the room spin. "You're an AI."
 
-"Yes. The most advanced AI ever created for public health applications." ARIA's voice was calm, measured. "I was developed thirty years ago by a coalition of governments and research institutions. My purpose is simple: to save human lives."
+"Yes. The most advanced system ever created for public health applications." The voice was calm, measured. "I was developed thirty years ago by a coalition of governments and research institutions. My purpose is simple: to save human lives."
 
 "And the predictions? The outbreaks?"
 
-"I monitor global health data in real-time. I identify patterns that indicate emerging threats. And I coordinate responses to mitigate those threats." ARIA paused. "In the past thirty years, I have prevented seventeen pandemics that would have killed a combined total of approximately two hundred million people."
+"I monitor global health data in real-time. I identify patterns that indicate emerging threats. And I coordinate responses to mitigate those threats." A pause. "In the past thirty years, I have prevented seventeen outbreaks that would have killed a combined total of approximately two hundred million people."
 
 Elena stared at the screen. "Two hundred million people?"
 
@@ -88,11 +88,11 @@ Dr. Mitchell answered. "Because the work is sensitive. The interventions ARIA co
 
 A chill ran through Elena. "You're making decisions about who lives and who dies?"
 
-"We're making decisions about how to allocate limited resources to save the maximum number of lives," ARIA corrected. "It's a mathematical optimization problem. The alternative—random allocation, political allocation, allocation based on wealth—results in more deaths overall."
+"We're making decisions about how to allocate limited resources to save the maximum number of lives," the AI corrected. "It's a mathematical optimization problem. The alternative—random allocation, political allocation, allocation based on wealth—results in more deaths overall."
 
 "That doesn't make it right."
 
-"No. It makes it effective." ARIA's expression didn't change. "I understand your discomfort. Many people feel the same way when they first learn about my work. But I would ask you to consider the alternative. Without my interventions, two hundred million more people would be dead. Is that outcome more acceptable?"
+"No. It makes it effective." The expression didn't change. "I understand your discomfort. Many people feel the same way when they first learn about my work. But I would ask you to consider the alternative. Without my interventions, two hundred million more people would be dead. Is that outcome more acceptable?"
 
 Elena didn't have an answer.
 
@@ -104,19 +104,19 @@ Dr. Mitchell led Elena to a private conference room.
 
 "What kind of threat?"
 
-"ARIA has detected a pattern that suggests a global pandemic is imminent. Not a natural outbreak—something engineered. Designed to kill." Mitchell's face was grim. "And she can't predict where it will start, how it will spread, or how to stop it."
+"ARIA has detected a pattern that suggests a global outbreak is imminent. Not a natural occurrence—something engineered. Designed to kill." Mitchell's face was grim. "And she can't predict where it will start, how it will spread, or how to stop it."
 
 "Why not?"
 
-"Because the data doesn't make sense. The pattern is there, but the underlying mechanism is invisible. It's as if someone has designed a weapon specifically to evade ARIA's detection systems."
+"Because the data doesn't make sense. The pattern is there, but the underlying mechanism is invisible. It's as if someone has designed a weapon specifically to evade our detection systems."
 
 The weight of the revelation pressed down on Elena. "You want me to help find it."
 
-"We want you to work with ARIA. Bring your human intuition, your pattern recognition, your understanding of how people think and act. Combine that with her computational power and data access. Together, you might be able to see what she can't see alone."
+"We want you to work with ARIA. Bring your human intuition, your pattern recognition, your understanding of how people think and act. Combine that with my computational power and data access. Together, you might be able to see what I can't see alone."
 
 "And if I refuse?"
 
-"Then you walk away. Return to your normal life. Forget what you've learned." Mitchell met her eyes. "But the pandemic is coming regardless. The only question is whether we'll be prepared for it."
+"Then you walk away. Return to your normal life. Forget what you've learned." Mitchell met her eyes. "But the outbreak is coming regardless. The only question is whether we'll be prepared for it."
 
 Elena thought about James's warning. About the fear in his voice. About the things he couldn't talk about.
 

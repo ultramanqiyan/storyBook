@@ -3,7 +3,7 @@ Dust particles danced in the light from Maya's laboratory window.
 
 They came to her laboratory three days later.
 
-Zara was working late, analyzing data from her latest experiments with PROBABILITY, when she felt the shift in probability—a subtle change in the threads that suggested something significant was about to happen. She looked up to find three people standing in her doorway.
+Zara was working late, analyzing data from her latest experiments with PROBABILITY, when she felt the shift in fate—a subtle change in the threads that suggested something significant was about to happen. She looked up to find three people standing in her doorway.
 
 They were unremarkable at first glance—a man and two women, dressed in professional attire, carrying themselves with the quiet confidence of people accustomed to authority. But Zara could see the threads around them, the complex web of probabilities that followed them like shadows.
 
