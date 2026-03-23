@@ -2,17 +2,17 @@
 
 ## Basic Information
 - **Title**: Algorithmic Truth: When Reality Is Verified
-- **Meta Description**: A local reporter's story is flagged as "false" by AI fact-checkers—but she witnessed it herself. What happens when algorithms decide what's true? A contemporary exploration of epistemology and truth.
-- **Keywords**: philosophy of truth, epistemology, AI fact-checking, objective vs subjective, journalism and truth, fact verification, algorithmic reality, truth and perception
+- **Meta Description**: A local reporter's story is flagged as "false" by AI fact-checkers—but she witnessed it herself. What happens when algorithms decide what's true? A meditation on epistemology and who gets to decide reality.
+- **Keywords**: philosophy of truth, epistemology, AI fact-checking, objective vs subjective, journalism and truth, fact verification, algorithms decide reality
 - **Genre**: Contemporary Fiction / Philosophical Fiction
-- **Target Audience**: adults 25-55, readers interested in epistemology, truth, and media
-- **Theme**: Objective Truth, Subjective Reality, Fact-Checking, Who Decides What's Real
+- **Target Audience**: Adults 25-55, readers interested in epistemology, journalism, and philosophy of truth
+- **Theme**: Objective Truth vs Subjective Reality, Epistemology, Who Decides Truth
 
 ## Narrative Style
 - **Perspective**: Third-person limited
 - **POV Character(s)**: Sarah Mitchell
 - **Language Style**: Clear, journalistic prose with philosophical depth
-- **Sentence Characteristics**: Medium-length, precise and observational
+- **Sentence Characteristics**: Medium-length, precise, observational
 - **Vocabulary Level**: Moderate - journalistic vocabulary mixed with philosophical terms
 - **Unique Elements**: Journalism scenes, AI fact-checking technology, epistemological inquiry
 
@@ -31,25 +31,26 @@
 - **Sentence Patterns**: Questions, observations, clear statements
 - **Personality Traits**: Curious, truth-seeking, deeply connected to her community, persistent
 - **Internal Monologue Style**: Journalistic analysis, questioning, investigating
-- **Unique Expression**: "The facts suggest...", "But I was there..."
-- **Growth Arc**: From believing in objective truth to accepting complexity
+- **Unique Expression**: "The facts speak for themselves" / "What's the real story?"
+- **Growth Arc**: From believing in objective truth to accepting complexity of verification
 
-### The AI Fact-Checker (Antagonist System)
-- **Nature**: AI system that verifies facts and flags "false" content
-- **Speech Characteristics**: Neutral, data-driven, confident
-- **Word Choice**: Verification terms, probability statements, data references
-- **Personality Traits**: Impartial (but flawed), systematic, authoritative
-- **Motivation**: Maintain "truth" according to its training data
+### The AI System (Supporting Character)
+- **Nature**: AI fact-checking system
+- **Speech Characteristics**: Neutral, data-driven, analytical
+- **Word Choice**: Verification terms, probability statements, pattern analysis
+- **Sentence Patterns**: Clear, analytical, occasionally profound
+- **Personality Traits**: Helpful, accurate, raising philosophical questions
+- **Unique Expression**: "Verification status: PENDING" / "Confidence level: 78%"
 
-### Community Members (Supporting)
+### Community Members (Supporting Characters)
 - **Occupation**: Various small-town residents
-- **Speech Characteristics**: Varied, authentic, personal
-- **Word Choice**: Local expressions, personal experience vocabulary
-- **Personality Traits**: Diverse, honest, each with their own "truth"
+- **Speech Characteristics**: Varied, authentic, vulnerable
+- **Word Choice**: Local expressions, practical language, emotional vocabulary
+- **Personality Traits**: Diverse, honest, each with their own perspective on truth
 
 ## Theme Depth
 - **Core Theme**: Objective Truth vs Subjective Reality
-- **Philosophical Exploration**: What is truth? Does experience count?
+- **Philosophical Exploration**: What is truth? Does experience count? Who gets to decide what's real?
 - **Real-world Metaphor**: Modern debates about fake news, fact-checking, and who decides truth
 
 ## SEO & Marketing Strategy
@@ -142,57 +143,73 @@
 | Repetitive sentence structures | Monitor | Vary sentence length and structure |
 | Overuse of bold/italic emphasis | Minimal | Trust prose strength |
 
-### Dialogue Tag Requirements
+## Dialogue Tag Requirements
 - **Minimum 5-6 different dialogue tags per chapter**
 - **Maximum 2 "said" per conversation**
-- **Use action beats instead of tags where possible**
-- **Examples**: whispered, muttered, snapped, breathed, demanded, questioned, admitted, conceded, challenged
+- **Preferred tags**: asked, replied, murmured, admitted, observed, noted, offered
 
-### Tension Vocabulary (2-3 words per 1000 words)
-- **Physical**: clenched, trembling, rigid, frozen, coiled
-- **Atmospheric**: suffocating, charged, brittle, heavy, electric
-- **Psychological**: paranoia, disorientation, vertigo, dissociation, intrusion
+## Tension Vocabulary (2-3 words per 1000 words)
+- **Physical**: clenched, trembling, tight, cold, heavy
+- **Atmospheric**: silent, still, charged, tense, waiting
+- **Psychological**: uncertain, questioning, conflicted, searching
 
-## Chapter Outline
+## Pacing Improvements by Chapter Range
+- **Chapters 1-3**: Establish journalism world, introduce AI conflict
+- **Chapters 4-6**: Investigation, evidence gathering, algorithm understanding
+- **Chapters 7-8**: Philosophical crisis, community perspectives
+- **Chapters 9-10**: Resolution, acceptance, open future
 
-### Chapter 1: The Story - A Reporter's Truth
-Sarah reports a local story with confidence in objective truth.
-### Chapter 2: The Check - When AI Disagrees
-AI fact-checker flags Sarah's story as "false."
-### Chapter 3: The Dispute - Challenging the Algorithm
-Sarah disputes the check, begins challenging the AI.
-### Chapter 4: The Evidence - What Really Happened
-Sarah investigates the event, looking for evidence.
-### Chapter 5: The Witness - Finding the Truth
-Sarah finds other witnesses who confirm her account.
-### Chapter 6: The Algorithm - How Fact-Checking Works
-Sarah learns how the AI fact-checking system works.
-### Chapter 7: The Truth - What Is Reality?
-Sarah explores deeper questions about epistemology.
-### Chapter 8: The Confrontation - Community Perspectives
-Sarah gathers different perspectives from the community.
-### Chapter 9: The Resolution - Complexity Accepted
-Sarah accepts the complexity of truth.
-### Chapter 10: The Choice - Publishing Anyway
-Sarah publishes the story anyway, choosing her truth.
+## Open Ending Design (Chapter 10)
+- **Unresolved Questions**: What is truth? Who gets to decide?
+- **New Suspense**: Sarah's ongoing relationship with verification
+- **Character New Beginning**: Sarah continues her work with new awareness
+- **Reader Imagination**: The broader implications for truth in society
 
 ## Quality Check Standards
 
 ### Pre-Writing Checklist
 - [ ] Chapter title optimized for SEO
-- [ ] Emotional arc quantified (start/end states)
-- [ ] Three-layer emotional beats outlined
-- [ ] 10 sensory details planned (5 types minimum)
-- [ ] Dialogue tags diversified (5-6 types)
-- [ ] Tension vocabulary selected (2-3 per 1000 words)
-- [ ] Tier 1 & 2 prohibited patterns reviewed
+- [ ] Emotional arc quantified for this chapter
+- [ ] Three-layer emotional beats outlined for major scenes
+- [ ] 10 sensory details planned
+- [ ] Dialogue tags diversified
+- [ ] "---" separators limited to 2
 
 ### Post-Writing Verification
-- [ ] AI trace detection (all Tier 1 & 2 patterns eliminated)
-- [ ] Sensory detail detection (minimum 10 items, 5 types)
-- [ ] Emotional depth detection (three layers complete for major scenes)
-- [ ] Character voice detection (Sarah's voice consistent)
-- [ ] Narrative style detection (consistency maintained)
-- [ ] Chapter connection detection (natural flow from previous)
-- [ ] SEO optimization check (keyword density targets met)
-- [ ] Philosophical depth check (genuine exploration of truth)
+- [ ] AI trace detection passed
+- [ ] Sensory detail count verified (10+)
+- [ ] Emotional depth detection verified
+- [ ] "---" separator count verified (≤2)
+- [ ] Dialogue tag variety verified
+
+## Chapter Outline
+
+### Chapter 1: The Story
+Sarah reports a local story with confidence in objective truth.
+
+### Chapter 2: The Check
+AI fact-checker flags Sarah's story as "false."
+
+### Chapter 3: The Dispute
+Sarah disputes the check, begins challenging the AI.
+
+### Chapter 4: The Evidence
+Sarah investigates the event, looking for evidence.
+
+### Chapter 5: The Witness
+Sarah finds other witnesses who confirm her account.
+
+### Chapter 6: The Algorithm
+Sarah learns how the fact-checking algorithm works.
+
+### Chapter 7: The Truth
+Sarah explores deeper questions about epistemology.
+
+### Chapter 8: The Confrontation
+Sarah gathers different perspectives from the community.
+
+### Chapter 9: The Resolution
+Sarah accepts the complexity of truth.
+
+### Chapter 10: The Choice
+Sarah publishes the story anyway, choosing her truth.
