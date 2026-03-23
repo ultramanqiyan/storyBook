@@ -996,24 +996,119 @@ Elara discovers the neural network, first contact with the forest consciousness.
 Building connection between human and network, learning to communicate.
 ```
 
-### 15.3 seo-meta.md 必需字段清单
+### 15.3 seo-meta.md 必需字段清单及格式规范
 
-| 字段 | 要求 | 说明 |
-|------|------|------|
-| **Book-Level SEO** | 必须 | 书籍级SEO信息 |
-| ├─ Book Title Optimization | 必须 | Main Title, Subtitle, Title Analysis |
-| ├─ Meta Description | 必须 | 160字符以内的元描述 |
-| ├─ Core Keywords | 必须 | Primary Keywords (5个), Long-tail Keywords (5个) |
-| ├─ Target Audience | 必须 | Primary Audience, Audience Characteristics |
-| └─ Book Schema Markup | 必须 | JSON-LD格式的Schema标记 |
-| **Chapter-Level SEO** | 必须 | 每章独立的SEO信息 |
-| ├─ Chapter Title Optimization | 必须 | Original和Optimized标题 |
-| ├─ Meta Description | 必须 | 每章独立的元描述 |
-| ├─ Keywords | 必须 | 每章关键词 |
-| └─ URL Slug | 必须 | 每章URL slug |
-| **Internal Linking Strategy** | 必须 | Chapter-to-Chapter Links, Thematic Cluster Links |
-| **Content Optimization Guidelines** | 必须 | Per-Chapter Requirements, Technical SEO |
-| **Performance Metrics** | 必须 | Target Metrics, Keyword Ranking Tracking |
+#### 15.3.1 文档头部格式
+
+```markdown
+# [Book Title] - SEO Meta Data
+```
+
+**格式要求**：必须使用 `#` 一级标题，格式为 `书籍标题 +  - SEO Meta Data`
+
+---
+
+#### 15.3.2 各字段详细格式规范
+
+| 字段 | 格式类型 | 格式要求 | 示例 |
+|------|----------|----------|------|
+| **Book-Level SEO** | 二级标题 | 使用 `## Book-Level SEO` | `## Book-Level SEO` |
+| ├─ Book Title Optimization | 三级标题+粗体 | 使用 `### 1. Book Title Optimization`，内容用 `**字段**: 值` | `**Main Title**: The Neural Druid` |
+| ├─ Meta Description | 三级标题+代码块 | 使用 `### 2. Meta Description`，内容用代码块包裹 | 见下方示例 |
+| ├─ Core Keywords | 三级标题+有序列表 | 使用 `### 3. Core Keywords`，关键词用有序列表 | `1. neural druid (search volume: 890/month)` |
+| ├─ Target Audience | 三级标题+无序列表 | 使用 `### 4. Target Audience`，用 `- **字段**: 值` | `- **Age**: 20-50 years` |
+| └─ Book Schema Markup | 三级标题+JSON代码块 | 使用 `### 5. Book Schema Markup`，JSON格式 | 见下方示例 |
+| **Chapter-Level SEO** | 二级标题+三级标题 | 每章使用 `### Chapter X: 标题` | `### Chapter 1: The Awakening Grove` |
+| ├─ Chapter Title Optimization | 四级标题+无序列表 | 使用 `**Chapter Title Optimization**`，Original和Optimized用无序列表 | `- Original: [原标题]` |
+| ├─ Meta Description | 四级标题+代码块 | 使用 `**Meta Description**: `，内容用代码块 | 见下方示例 |
+| ├─ Keywords | 四级标题+无序列表 | 使用 `**Keywords**: ` + 关键词列表 | `**Keywords**: forest anomaly, neural activity` |
+| └─ URL Slug | 四级标题+行内代码 | 使用 `**URL Slug**: ` + 行内代码 | `**URL Slug**: `chapter-1-awakening-grove`` |
+| **Internal Linking Strategy** | 二级标题+混合 | Chapter-to-Chapter用无序列表，Thematic用无序列表 | 见下方示例 |
+| **Content Optimization Guidelines** | 二级标题+有序列表 | Per-Chapter和Technical SEO都用有序列表 | `1. **Keyword Density**: 1.5-2%` |
+| **Performance Metrics** | 二级标题+无序列表 | Target Metrics用无序列表，Keyword Ranking用有序列表 | 见下方示例 |
+
+---
+
+#### 15.3.3 关键字段格式示例
+
+**Meta Description 格式示例**（必须使用代码块）：
+```markdown
+### 2. Meta Description (160 characters)
+
+```
+When Dr. Elara Chen discovers a neural network that has merged with an ancient forest, she must protect it from corporate exploitation.
+```
+```
+
+**Book Schema Markup 格式示例**（必须使用JSON代码块）：
+```markdown
+### 5. Book Schema Markup
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "The Neural Druid",
+  "author": "Author Name",
+  "description": "When Dr. Elara Chen discovers...",
+  "genre": ["Ecological Fantasy", "Science Fiction"],
+  "keywords": "neural druid, AI nature, ecological fantasy"
+}
+```
+```
+
+**Chapter-Level SEO 格式示例**：
+```markdown
+## Chapter-Level SEO
+
+### Chapter 1: The Awakening Grove
+
+**Chapter Title Optimization**:
+- Original: The Awakening Grove
+- Optimized: The Awakening Grove - Where Trees Think
+
+**Meta Description**:
+```
+Dr. Elara Chen's overnight monitoring detects an anomaly in sector seven—a remote forest producing energy patterns that look almost like neural activity.
+```
+
+**Keywords**: forest anomaly, neural activity, awakening grove, AI nature
+
+**URL Slug**: `chapter-1-awakening-grove`
+```
+
+**Internal Linking Strategy 格式示例**：
+```markdown
+## Internal Linking Strategy
+
+### Chapter-to-Chapter Links
+
+**Chapter 1** → Chapter 2 (forest discovery)
+**Chapter 2** → Chapter 3 (consciousness revealed)
+...
+
+### Thematic Cluster Links
+
+- Links to other ecological fantasy books
+- Links to AI and nature content
+```
+
+**Performance Metrics 格式示例**：
+```markdown
+## Performance Metrics
+
+### Target Metrics
+
+- **Page Load Time**: < 2 seconds
+- **Bounce Rate**: < 45%
+- **Average Time on Page**: > 5 minutes
+
+### Keyword Ranking Tracking
+
+1. neural druid
+2. AI nature
+3. ecological fantasy
+```
 
 ### 15.4 格式一致性检测规则
 
