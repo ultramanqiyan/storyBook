@@ -4,6 +4,8 @@ The morning light filtered through the windows of Casey Morrison's Portland apar
 
 Casey sat at the small desk with a cup of coffee, looking at the collection of journals that represented the past five years. Five different careers. Five different cities. Five different versions of who Casey was supposed to be.
 
+The coffee had gone cold. Casey kept forgetting to drink it.
+
 The freelance life had seemed like freedom when it started. The ability to choose projects, to work from anywhere, to build a career on your own terms. And it had been those things, sometimes. But it had also been a series of transitions that never quite settled into coherence.
 
 The first journal was from the marketing agency years. Casey had learned about positioning, messaging, the art of shaping perception. The lessons were valuable. They sat in the notebook, unused in the current work.
@@ -34,9 +36,9 @@ Casey looked at the message, then back at the journals. The skills were there. T
 
 The morning continued with the usual routine. Responding to messages. Planning the day's work. Beginning the tasks that clients expected. But the question lingered beneath the surface. What would it take to make the lessons work together? To build something coherent from the scattered pieces?
 
-The afternoon brought a walk through the city, the kind of walk that Casey took when thinking was needed. The streets of Portland were familiar now, the fifth city in five years. Each city had taught something. Each lesson sat in its notebook.
+The afternoon brought a walk through the city, the kind of walk that Casey took when thinking was needed. The streets of Portland were familiar now, the fifth city in five years. The air smelled like rain and coffee and the faint sweetness of a bakery on the corner. Each city had taught something. Each lesson sat in its notebook.
 
-The question evolved as the walk continued. Not just what the lessons added up to, but whether they could be integrated. Whether the scattered growth could become coherent development. Whether the collection could become a foundation.
+The question evolved as the walk continued. What did the lessons add up to, and could they be integrated? Could the scattered growth become coherent development? Could the collection become a foundation?
 
 Casey sat on a bench in a small park, watching people pass. A woman with a stroller. A man with a dog. A couple holding hands. People whose lives might have coherence, whose lessons might build on each other, whose growth might compound over time.
 
@@ -44,12 +46,12 @@ The jealousy was quiet but present. Not jealousy of their specific lives, but of
 
 But another thought emerged. Maybe the problem wasn't the transitions. Maybe the problem was the lack of integration. The lessons were valuable. The growth was real. What was missing was the connection between them.
 
-The walk home was contemplative. The question had evolved into something more specific. Not just what the lessons added up to, but how to make them add up to something. How to build coherence from fragmentation. How to create a foundation from the scattered pieces.
+The walk home was contemplative. The question had evolved into something more specific. How to build coherence from fragmentation? How to create a foundation from the scattered pieces?
 
 The evening was spent in the apartment, looking at the journals spread across the desk. The collection was there. The lessons were there. The question was clear.
 
 What would it take to build a foundation from this collection? To integrate the scattered lessons into a coherent whole? To make the growth compound instead of just accumulate?
 
-The question had no immediate answer. But it was the right question. And asking it was the beginning of something. Not a new transition, not a new career, not a new city. But something different. Something that might make all the transitions mean something together.
+The question had no immediate answer. But it was the right question. And asking it was the beginning of something. A new kind of transition, not to a new city or career, but to a new way of seeing what had come before.
 
-The morning would come, and with it, the search for an answer. The collection was complete. The question was clear. The journey toward integration was about to begin.
+The morning would come, and with it, the search for an answer.

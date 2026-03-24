@@ -22,7 +22,7 @@ The appointment was scheduled for the following Wednesday.
 
 The days leading up to the meeting were filled with anticipation and doubt. The anticipation came from the possibility of finding an answer. The doubt came from the uncertainty of whether integration was even possible.
 
-Sarah Chen's office was in a converted house in Southeast Portland. The space was warm and organized, with books arranged by theme rather than alphabetically. The arrangement itself suggested integration, connections between ideas that might not be obvious at first glance.
+Sarah Chen's office was in a converted house in Southeast Portland. The space was warm and organized, with books arranged by theme rather than alphabetically. The arrangement itself suggested integration, connections between ideas that might not be obvious at first glance. The smell of old paper and fresh coffee mingled in the air.
 
 "Casey Morrison?" Sarah appeared from a back room. She was perhaps fifteen years older than Casey, with the kind of calm presence that came from years of helping people navigate complexity. "Come in. Let's talk about what you're looking for."
 
@@ -36,7 +36,7 @@ Sarah listened without interruption. When Casey finished, she nodded slowly.
 
 "You've described something I see often. People who grow through transitions, who learn valuable lessons in each phase, but who never integrate those lessons into a coherent whole. The growth is real. But it's also fragmented."
 
-"Is that something that can be fixed?"
+"Can that be fixed?"
 
 "Fixed isn't the right word. Integration isn't about fixing something that's broken. It's about building something that's missing." Sarah leaned forward. "You have all the pieces. The marketing skills, the startup resilience, the consulting analysis, the remote collaboration knowledge. What you lack is the framework that connects them."
 
@@ -64,8 +64,8 @@ The consultation continued for another hour. By the end, Casey had a different p
 
 Walking through Portland that afternoon, the city looked different. Not because it had changed, but because Casey's understanding had changed. The scattered lessons weren't a problem to be solved. They were resources to be integrated.
 
-The synthesis wasn't complete. It hadn't even really begun. But the possibility was visible now. The connections were there, waiting to be discovered.
+The synthesis hadn't really begun. But the possibility was visible now. The connections were there, waiting to be discovered.
 
 The morning would come, and with it, the work of integration. The journals would be opened. The patterns would be mapped. The framework would be built.
 
-The collection was ready to become a foundation. The synthesis was about to begin.
+The collection was ready to become a foundation.

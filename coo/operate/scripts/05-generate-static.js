@@ -31,6 +31,8 @@ function loadConfig() {
 function extractSEOKeywords(seoContent) {
   const keywords = [];
   
+  // 格式1: 数字编号格式（如 the-neural-druid, the-silent-partner）
+  // 1. keyword (search volume: xxx)
   const primaryMatch = seoContent.match(/\*\*Primary Keywords\*\*:\s*[\s\S]*?(?=\*\*Long-tail|\*\*Secondary|###|$)/i);
   if (primaryMatch) {
     const lines = primaryMatch[0].split('\n');
@@ -55,6 +57,28 @@ function extractSEOKeywords(seoContent) {
     });
   }
   
+  // 格式2: 列表格式（如 the-blame-game）
+  // - keyword
+  const listMatch = seoContent.match(/###\s*Primary Keywords[\s\S]*?(?=###|##|$)/i);
+  if (listMatch) {
+    const lines = listMatch[0].split('\n');
+    lines.forEach(line => {
+      const listKeywordMatch = line.match(/^-\s*(.+)/);
+      if (listKeywordMatch) {
+        const kw = listKeywordMatch[1].trim();
+        if (kw && !kw.includes(':')) keywords.push(kw);
+      }
+    });
+  }
+  
+  // 格式3: 直接 keywords 列表（如 the-unconditional）
+  // - **Keywords**: keyword1, keyword2...
+  const directKeywordsMatch = seoContent.match(/-\s*\*\*Keywords\*\*:\s*(.+)/i);
+  if (directKeywordsMatch) {
+    const kwList = directKeywordsMatch[1].split(',').map(k => k.trim()).filter(k => k);
+    keywords.push(...kwList);
+  }
+  
   return [...new Set(keywords)];
 }
 
@@ -70,6 +94,14 @@ function extractSEOMetaDescription(seoContent) {
   const listMatch = seoContent.match(/-\s*\*\*Meta Description\*\*:\s*([^\n]+)/i);
   if (listMatch) {
     return listMatch[1].trim();
+  }
+  
+  // 格式3: 标题+内容格式（如 the-blame-game）
+  // ### Meta Description (160 chars max)
+  // When an AI trading error...
+  const headerMatch = seoContent.match(/###\s*Meta Description[^\n]*\n+([^#\n][^\n]+)/i);
+  if (headerMatch) {
+    return headerMatch[1].trim();
   }
   
   return '';

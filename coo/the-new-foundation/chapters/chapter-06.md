@@ -8,11 +8,11 @@ The practice was simple but transformative. Each morning, Casey would look at th
 
 The first week was challenging. The old patterns were strong. The habit of fragmenting work into separate skills was ingrained. But the framework provided a different path, and Casey followed it.
 
-The healthcare project continued. Each task was approached with the integrated mindset. Not just marketing strategy, but marketing strategy informed by operational realities. Not just operational planning, but operational planning informed by team dynamics. Not just team coordination, but team coordination informed by remote collaboration needs.
+The healthcare project continued. Each task was approached with the integrated mindset. Marketing strategy informed by operational realities. Operational planning informed by team dynamics. Team coordination informed by remote collaboration needs.
 
 The client noticed the difference.
 
-"You're working differently," the founder observed during a weekly check-in. "More... connected. Like you're seeing the whole system instead of just the parts."
+"You're working differently," the founder observed during a weekly check-in. The video call flickered slightly, a reminder of the distance between Portland and the client's office in Boston. "More... connected. Like you're seeing the whole system instead of just the parts."
 
 "That's what I'm trying to do. Use everything I've learned together instead of separately."
 
@@ -38,9 +38,9 @@ Casey described a challenge from the week. A decision about whether to expand th
 
 "And what did that enable?"
 
-"A decision that accounted for everything. Not just the obvious factors, but the connections between them. The scope expansion happened, but with safeguards that I wouldn't have thought of without the integrated approach."
+"A decision that accounted for everything. The obvious factors and the connections between them. The scope expansion happened, but with safeguards that I wouldn't have thought of without the integrated approach."
 
-Sarah nodded. "That's the power of synthesis. Not abandoning analysis, but connecting it to other perspectives. Not ignoring risks, but seeing them in context."
+Sarah nodded. "That's the power of synthesis. Connecting analysis to other perspectives. Seeing risks in context rather than isolation."
 
 The conversation continued, exploring the practice, its development, its potential. By the end, Casey had a clearer sense of what was being built.
 
@@ -50,7 +50,7 @@ The third week brought the first real test. A personal challenge that had nothin
 
 Casey sat with the decision, applying the integrated approach. Positioning lens. Resilience lens. Analysis lens. Connection lens. Integration lens. Each revealed something different. Each connected to the others.
 
-The decision that emerged was different from what the old patterns would have produced. Not a move, but a deepening. Not a fresh start, but a foundation building. The integration that had been developed for work was now informing life.
+The decision that emerged was different from what the old patterns would have produced. A deepening rather than a move. Foundation building rather than fresh starting. The integration that had been developed for work was now informing life.
 
 The evening was spent in reflection. The practice was developing. The framework was working. The integration was becoming real.
 

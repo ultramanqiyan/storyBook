@@ -26,7 +26,7 @@ The frustration built. The capability was there. The lessons were there. The ski
 
 The client meeting on Friday was difficult.
 
-"We like the individual pieces," the founder said. "But we need someone who can see the whole picture. Someone who understands how marketing affects operations affects teams affects systems. Can you do that?"
+"We like the individual pieces," the founder said, leaning back in his chair. The conference room smelled like stale coffee and the faint chemical scent of the whiteboard markers. "But we need someone who can see the whole picture. Someone who understands how marketing affects operations affects teams affects systems. Can you do that?"
 
 Casey wanted to say yes. The skills were there. But the honest answer was unclear.
 
@@ -46,7 +46,7 @@ Casey sat back in the chair, looking at the scattered journals. The collection w
 
 The client needed someone who could see the whole picture. Casey had all the pieces but couldn't assemble them. The capability was there, but it wasn't integrated.
 
-The walk that evening was longer than usual. Through Portland's streets, past the familiar landmarks, into neighborhoods that Casey had never explored. The physical movement helped the mental processing.
+The walk that evening was longer than usual. Through Portland's streets, past the familiar landmarks, into neighborhoods that Casey had never explored. The physical movement helped the mental processing. The rain started halfway through, a light drizzle that turned the pavement dark and made the streetlights glow.
 
 The question from the first chapter returned. What did all these lessons add up to? But now there was a more urgent question. What was the cost of them not adding up?
 
@@ -54,16 +54,16 @@ The answer was visible in the client's question. The cost was missed opportuniti
 
 The cost was also internal. The sense that growth wasn't building on itself. That each transition was starting over instead of building up. That the collection of lessons was just that, a collection, not a foundation.
 
-Casey stopped at a small park, the same one from the previous week's contemplation. The evening was quiet. The question was clear.
+Casey stopped at a small park, the same one from the previous week's contemplation. The evening was quiet. The rain had stopped. The question was clear.
 
 The fragmentation had a cost. The lessons weren't working together. The growth wasn't compounding. Something needed to change.
 
 But what? How did you integrate lessons that had been learned separately? How did you build coherence from scattered pieces? How did you create a foundation from a collection?
 
-The questions had no immediate answers. But they were the right questions. And asking them was the beginning of something.
+The questions had no immediate answers. But they were the right questions.
 
 The walk home was contemplative. The fragmentation was visible now. The cost was clear. The need for integration was urgent.
 
-The morning would come, and with it, the search for a different approach. Not just accumulating lessons, but integrating them. Not just collecting growth, but building a foundation.
+The morning would come, and with it, the search for a different approach. Accumulating lessons wasn't enough. They needed to be integrated. Collecting growth wasn't enough. A foundation needed to be built.
 
 The fragmentation had been recognized. The journey toward synthesis was about to begin.

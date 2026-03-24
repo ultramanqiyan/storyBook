@@ -52,7 +52,7 @@ The metaphor landed. The resistance had come from seeing framework as limitation
 
 "How do I get past the resistance?"
 
-"You acknowledge it. You recognize that it's protecting something valuable, your organic growth. But you also recognize that it's preventing something more valuable, integrated growth. Then you make a choice. Not to abandon organic growth, but to give it a foundation."
+"You acknowledge it. You recognize that it's protecting something valuable, your organic growth. But you also recognize that it's preventing something more valuable, integrated growth. Then you make a choice. To give organic growth a foundation."
 
 The conversation continued, exploring the resistance, the fears beneath it, the possibilities beyond it. By the end, Casey had a different perspective.
 
@@ -68,7 +68,7 @@ The consulting lessons about analysis connected to the remote work lessons about
 
 The freelance lessons about independence connected to all the others. The integration that had been missing was becoming visible.
 
-By Sunday evening, the first framework draft was complete. Not perfect. Not comprehensive. But real. A structure that connected the scattered lessons into a coherent whole.
+By Sunday evening, the first framework draft was complete. Rough. Incomplete. But real. A structure that connected the scattered lessons into a coherent whole.
 
 The resistance hadn't disappeared. But it had been joined by something else. The recognition that foundation wasn't limitation. It was enablement.
 

@@ -26,11 +26,11 @@ Connection informed integration. When you could collaborate effectively, you cou
 
 Integration informed positioning. When you could see the whole picture, you could understand needs more deeply.
 
-The cycle was visible now. Not five separate lessons, but one integrated approach. Each skill reinforcing the others. Each transition building on what came before.
+The cycle was visible now. Five skills, one integrated approach. Each skill reinforcing the others. Each transition building on what came before.
 
 Casey stepped back from the whiteboard. The framework was rough. It would need refinement. But the core insight was there. The lessons weren't separate. They were connected.
 
-The afternoon brought the first test. The healthcare client had a new request. They needed a comprehensive strategy for the product launch. Not individual pieces, but an integrated approach.
+The afternoon brought the first test. The healthcare client had a new request. They needed a comprehensive strategy for the product launch. Individual pieces weren't enough. They needed an integrated approach.
 
 In the past, Casey would have started with whatever skill felt most relevant. Marketing strategy, perhaps. Or operational planning. The choice would have been arbitrary, driven by habit rather than integration.
 
@@ -46,11 +46,11 @@ The analysis question led to the connection question. How would the team collabo
 
 The connection question led to the integration question. How would all these pieces work together? The freelance skills engaged.
 
-The strategy that emerged was different from anything Casey had produced before. Not because it used different skills, but because it used them together. Each aspect informed the others. The approach was coherent.
+The strategy that emerged was different from anything Casey had produced before. The skills were the same, but they were used together. Each aspect informed the others. The approach was coherent.
 
 The client meeting happened on Wednesday.
 
-"This is different," the founder said, looking at the strategy document. "I can see how the marketing connects to the operations. How the team structure supports the launch plan. How everything fits together."
+"This is different," the founder said, looking at the strategy document. The conference room was cold, the air conditioning humming overhead. "I can see how the marketing connects to the operations. How the team structure supports the launch plan. How everything fits together."
 
 "That's what I was trying to do. See the whole picture."
 
@@ -66,11 +66,11 @@ The session with Sarah happened on Friday.
 
 Casey considered. "Different. In the past, I would have started with whatever skill felt most natural. This time, I started with the challenge. The framework helped me see which skills were relevant and how they connected."
 
-"That's the beginning of integration. Not abandoning your skills, but using them together. Not forcing connections, but discovering them."
+"That's the beginning of integration. Using your skills together instead of separately. Discovering connections instead of forcing them."
 
 The conversation continued, exploring the framework, its strengths, its gaps, its potential for refinement. By the end, Casey had a clearer sense of what had been built and what still needed development.
 
-Walking home that evening, the city felt different. Not because it had changed, but because Casey's approach had changed. The scattered lessons were becoming a coherent whole. The collection was becoming a foundation.
+Walking home that evening, the city felt different. The scattered lessons were becoming a coherent whole. The collection was becoming a foundation.
 
 The framework wasn't complete. It would need testing, refinement, adjustment. But it was real. It was usable. It was making a difference.
 

@@ -277,10 +277,15 @@ function extractCharactersFromBookSpec(bookSpecContent) {
       'Master', 'Pet', 'Wizard', 'Mage', 'Warrior', 'Knight', 'Princess', 'Prince', 
       'King', 'Queen', 'Voice', 'Consciousness', 'Entity', 'Being', 'Robot', 'Animal',
       'Supporting Character', 'Minor Character', 'Villain',
+      // 职场/商业角色
+      'Boss', 'Manager', 'CEO', 'VP', 'Director', 'Colleague', 'Coworker',
+      'HR', 'Legal', 'Counsel', 'Engineer', 'Reviewer', 'Analyst',
       // 中文
       '主角', '配角', '反派', 'AI', '系统', '人类', '狗', '猫', '科学家', '医生', 
       '老师', '学生', '导师', '伙伴', '朋友', '敌人', '主人', '宠物', '巫师', '法师', 
-      '战士', '骑士', '公主', '王子', '国王', '女王', '声音', '意识', '实体'
+      '战士', '骑士', '公主', '王子', '国王', '女王', '声音', '意识', '实体',
+      // 中文职场角色
+      '老板', '经理', '同事', '工程师', '律师', '顾问'
     ];
     
     const isRole = roleKeywords.some(keyword => roleType.includes(keyword));
