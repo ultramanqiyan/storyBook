@@ -2,15 +2,15 @@
 
 Six months had passed since David's transformation began.
 
-He stood at his office window, watching the Chicago skyline emerge from the early morning fog. The city was waking up—lights flickering on in distant buildings, the first commuters appearing on the streets below, the familiar rhythm of a new day beginning.
+He stood at his office window, watching the Chicago skyline emerge from the early morning fog. The city was waking up. Lights flickering on in distant buildings. The first commuters appearing on the streets below. The familiar rhythm of a new day beginning.
 
 His morning routine had changed. He no longer arrived early to prepare for potential criticism, no longer spent the first hour checking and rechecking his work. He arrived when he meant to arrive, prepared what needed preparing, and trusted himself to handle whatever came.
 
-The anxiety that had once been his constant companion had faded to a whisper. Not silence—the fear never completely disappeared—but quiet. Manageable. A background noise he could acknowledge and move past.
+The anxiety that had once been his constant companion had faded to a whisper. Not silence. The fear never completely disappeared. But quiet. Manageable. A background noise he could acknowledge and move past.
 
 His phone buzzed. A text from Amanda: "Meeting at 9. Ready to present my first solo recommendation."
 
-David smiled. Amanda had come a long way since their first coffee shop conversation. She still struggled sometimes—everyone did—but she was building her own foundation. Her own standing ground.
+David smiled. Amanda had come a long way since their first coffee shop conversation. She still struggled sometimes. Everyone did. But she was building her own foundation. Her own standing ground.
 
 He typed back: "You've got this. Trust yourself."
 
@@ -26,7 +26,7 @@ The new David simply walked.
 
 "David, come in." The partner gestured to a chair. "I'll get straight to the point. We're launching a new practice area focused on organizational transformation. I want you to lead it."
 
-David felt the words land. A practice area. Leadership. The kind of opportunity he'd always wanted—and always feared he wasn't ready for.
+David felt the words land. A practice area. Leadership. The kind of opportunity he'd always wanted. And always feared he wasn't ready for.
 
 "What's the scope?" he asked, his voice steady.
 
@@ -38,7 +38,7 @@ Full autonomy. The words would have terrified him a year ago. Now they felt like
 
 "Immediate. We have three clients already interested in the approach you developed on the Atlas engagement. They want you specifically."
 
-David nodded slowly. The organizational transformation methodology he'd refined over the past months—the balance of structure and flexibility, the emphasis on distributed leadership, the integration of self-reliance principles into team dynamics—had been attracting attention. He'd known it was good work. He'd trusted his own judgment on it.
+David nodded slowly. The organizational transformation methodology he'd refined over the past months had been attracting attention. The balance of structure and flexibility. The emphasis on distributed leadership. The integration of self-reliance principles into team dynamics. He'd known it was good work. He'd trusted his own judgment on it.
 
 Now others were trusting it too.
 
@@ -60,9 +60,9 @@ David smiled. "How did it feel?"
 
 "That's how it starts," David said. "One decision at a time. You're building the muscle."
 
-"I've been thinking about what you said. About self-reliance not being about being right all the time, but about being willing to stand behind your own judgment." She met his eyes. "It's changing how I see everything. Not just work. My whole life."
+"I've been thinking about what you said. About self-reliance being about being willing to stand behind your own judgment, not about being right all the time." She met his eyes. "It's changing how I see everything. Work. My whole life."
 
-David nodded. He understood. The transformation that had started in his professional life had rippled outward—into his relationships, his decisions, his sense of who he was. Self-reliance wasn't just a work skill. It was a way of being.
+David nodded. He understood. The transformation that had started in his professional life had rippled outward. Into his relationships, his decisions, his sense of who he was. Self-reliance was a work skill. And a way of being.
 
 "What's next for you?" Amanda asked.
 
@@ -84,13 +84,13 @@ A year ago, he'd been drowning in validation-seeking, paralyzed by Jennifer's ab
 
 Now he was leading a practice area. Mentoring others on the same path. Building something that was uniquely his.
 
-The transformation hadn't been dramatic. There was no single moment of breakthrough, no lightning-strike realization that changed everything. It had been gradual—a series of small decisions, small risks, small failures, and small successes. One step after another, building a foundation that could hold.
+The transformation hadn't been dramatic. There was no single moment of breakthrough, no lightning-strike realization that changed everything. It had been gradual. A series of small decisions, small risks, small failures, and small successes. One step after another, building a foundation that could hold.
 
 He thought about Rachel, who had first shown him what self-reliance looked like. Dr. Webb, who had helped him understand his patterns. Jennifer, who had given him the space to grow. Amanda, who was now walking the same path.
 
 The journey wasn't over. It would never be over. There would always be new challenges, new fears, new opportunities to practice self-trust. But the foundation was there now. Solid. Reliable. His.
 
-He stopped at a crosswalk, waiting for the light to change. The city bustled around him—people rushing to dinners, meetings, lives that seemed to know their direction. The old David would have felt lost in the chaos, desperate for someone to tell him where to go.
+He stopped at a crosswalk, waiting for the light to change. The city bustled around him. People rushing to dinners, meetings, lives that seemed to know their direction. The old David would have felt lost in the chaos, desperate for someone to tell him where to go.
 
 The new David just watched, and waited, and trusted himself to know when to move.
 
@@ -106,7 +106,7 @@ And that was enough.
 
 The next morning, David walked into his office to find a package on his desk.
 
-Inside was a notebook—simple, black, with a note attached: "For the next chapter. Keep trusting yourself. - R"
+Inside was a notebook. Simple, black, with a note attached: "For the next chapter. Keep trusting yourself. - R"
 
 Rachel. He smiled, running his fingers over the cover.
 

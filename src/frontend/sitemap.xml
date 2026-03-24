@@ -410,4 +410,22 @@
     <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-unconditional?lang=zh"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-unconditional"/>
   </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-blame-game</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-blame-game?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-blame-game?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-blame-game"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-silent-partner</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-silent-partner?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-silent-partner?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-silent-partner"/>
+  </url>
 </urlset>
