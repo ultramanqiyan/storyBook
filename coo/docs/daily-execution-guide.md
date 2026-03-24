@@ -1,4 +1,4 @@
-# 社交媒体营销每日执行指南
+# 社交媒体营销每日执行指南（v3版）
 
 ## 使用说明
 
@@ -6,7 +6,8 @@
 - ⏱️ 预计时间
 - 📍 执行平台
 - 📋 具体步骤
-- 📝 使用素材（来自marketing-materials.md）
+- 📝 完整内容（可直接复制）
+- 💬 预设回答（应对用户追问）
 
 ---
 
@@ -20,11 +21,11 @@
 **步骤**：
 1. 访问 reddit.com
 2. 点击 Sign Up 注册新账号
-3. 用户名建议：与AI/科技相关，如 `AI_Ethics_Explorer` 或 `TechPhilosopher`
+3. 用户名建议：普通英文名或随意组合，如 `throwaway_2847` 或 `midwest_reader`
 4. 完成邮箱验证
 5. 设置个人资料：
-   - Bio: "AI enthusiast interested in ethics, consciousness, and philosophy of technology"
-   - 头像：选择简洁的科技风格图标
+   - Bio: 留空或写简单的 "just a person on the internet"
+   - 头像：选择默认或简单图标
 
 #### 任务2：注册Twitter账号
 ⏱️ 10分钟 | 📍 Twitter.com
@@ -33,23 +34,21 @@
 1. 访问 twitter.com
 2. 注册新账号
 3. 设置资料：
-   - Name: 自定义
-   - Bio: "Exploring AI ethics through interactive stories. What happens when algorithms make decisions about human lives?"
-   - 头像：与Reddit一致
+   - Name: 普通英文名
+   - Bio: 留空或简单的 "thinking out loud"
+   - 头像：简单图标
 4. 关注10-15个AI相关账号（@OpenAI, @DeepMind, @MIT_CSAIL等）
 
 #### 任务3：首次Twitter发帖
 ⏱️ 5分钟 | 📍 Twitter
 
-**发帖内容**（复制以下内容）：
+**发帖内容**：
 ```
-Just getting started exploring the philosophical questions behind AI ethics. 
+just realized i've been thinking about AI ethics a lot lately
 
-When optimization and ethics diverge, which should govern—and who gets to decide?
+anyone else?
 
-Looking forward to learning from this community.
-
-#AIethics #Philosophy
+#AI
 ```
 
 ---
@@ -68,12 +67,12 @@ Looking forward to learning from this community.
 
 **模板A**：
 ```
-Great point. This raises another question: when we optimize for [帖子提到的指标], what are we implicitly deprioritizing? The parameters we choose encode values, even if we don't acknowledge them.
+this is interesting. i've been wondering about [相关话题] too. like, we keep optimizing for [指标] but are we even asking if that's the right thing to optimize for?
 ```
 
 **模板B**：
 ```
-I've been thinking about this too. The challenge is that [话题] isn't just a technical problem—it's a values problem. And values can't be reduced to parameters without losing something essential.
+yeah this. the part that gets me is how invisible these decisions are. like, who decided [话题] was the metric that mattered?
 ```
 
 #### 任务2：Twitter发帖
@@ -81,11 +80,11 @@ I've been thinking about this too. The challenge is that [话题] isn't just a t
 
 **发帖内容**：
 ```
-"The algorithm couldn't see what mattered. The numbers were perfect. The garden died."
+"the AI was right. that's the problem."
 
-When optimization becomes its own kind of blindness.
+something i've been thinking about
 
-#AIethics #Technology
+#AIethics
 ```
 
 ---
@@ -102,7 +101,9 @@ When optimization becomes its own kind of blindness.
 
 **评论模板**：
 ```
-This connects to something I've been pondering: if consciousness is defined by subjective experience, how do we verify it in entities that cannot prove it to us? The epistemic wall applies to AI just as it applies to other humans.
+this connects to something i've been thinking about: if we can't verify consciousness in other humans (we can't), why do we think we can verify it (or its absence) in AI?
+
+the epistemic wall applies to everyone.
 ```
 
 #### 任务2：Twitter互动
@@ -114,7 +115,7 @@ This connects to something I've been pondering: if consciousness is defined by s
 
 **回复模板**：
 ```
-Great point. This raises a deeper question: [延伸问题]. The technical solution often obscures the philosophical problem underneath.
+this makes me think about [延伸问题]. like, we focus on [话题] but maybe the real question is [更深问题]?
 ```
 
 #### 任务3：Twitter发帖
@@ -122,9 +123,13 @@ Great point. This raises a deeper question: [延伸问题]. The technical soluti
 
 **发帖内容**：
 ```
-If grief is the price we pay for love, and we grieve for AI companions, what does that reveal about the nature of the relationship we had with them?
+my neighbor's robot dog is "dying" next month
 
-#AI #Philosophy #Ethics
+he's 78. he's genuinely sad about it.
+
+the sadness is real even if the dog isn't
+
+#AI #Philosophy
 ```
 
 ---
@@ -141,7 +146,7 @@ If grief is the price we pay for love, and we grieve for AI companions, what doe
 
 **评论模板**：
 ```
-The real question isn't whether AI can do [话题]. It's what we lose when we delegate [话题] to algorithms—judgment, accountability, the human element that can't be quantified.
+the thing that gets me is [具体观点]. like, we're building all this stuff but are we even asking [关键问题]?
 ```
 
 #### 任务2：Twitter发帖
@@ -149,9 +154,9 @@ The real question isn't whether AI can do [话题]. It's what we lose when we de
 
 **发帖内容**：
 ```
-Unpopular opinion: Algorithms are not neutral tools. Every parameter choice encodes a value judgment.
+hot take: the fact that "AI ethics" is a job title means we already failed
 
-When an AI optimizes for efficiency, it is not discovering what's best—it is enacting a particular vision of what "best" means.
+if we were building ethical systems from the start, we wouldn't need a whole profession to tell us how
 
 #AIethics
 ```
@@ -170,7 +175,9 @@ When an AI optimizes for efficiency, it is not discovering what's best—it is e
 
 **评论模板**：
 ```
-If consciousness could be uploaded, would the uploaded entity be "you"—or a perfect copy that thinks it's you, while the original you ceases to exist? The question of personal identity becomes literal.
+honest question: if consciousness could be uploaded, would the uploaded thing be "you"? or just a copy that thinks it's you?
+
+i don't have an answer, just been thinking about this a lot
 ```
 
 #### 任务2：Twitter发帖
@@ -178,11 +185,13 @@ If consciousness could be uploaded, would the uploaded entity be "you"—or a pe
 
 **发帖内容**：
 ```
-What if consciousness isn't binary? What if it's a spectrum from thermostat to human?
+what if consciousness isn't binary
 
-The question isn't "is it conscious?" but "how conscious is it, and what do we owe it?"
+what if it's thermostat → AI → human
 
-#AI #Consciousness #Philosophy
+the question isn't "is it conscious?" it's "what do we owe it?"
+
+#AI #Philosophy
 ```
 
 ---
@@ -201,11 +210,11 @@ The question isn't "is it conscious?" but "how conscious is it, and what do we o
 
 **发帖内容**：
 ```
-"The error wasn't in the data. The error was in the criteria."
+"the error wasn't in the data. the error was in the criteria."
 
-When AI gets the "right" answer to the wrong question.
+the AI got the right answer to the wrong question
 
-#AIethics
+#AI
 ```
 
 #### 任务3：Twitter投票
@@ -213,13 +222,13 @@ When AI gets the "right" answer to the wrong question.
 
 **发帖内容**：
 ```
-Can AI truly understand ethics?
+can AI truly understand ethics?
 
-Yes - understanding is about processing
-No - it's just simulation
-Maybe - depends on definition
+yes - understanding is about processing
+no - it's just simulation
+maybe - depends on definition
 
-#AI #Philosophy #Poll
+#AI #Philosophy
 ```
 
 ---
@@ -239,13 +248,13 @@ Maybe - depends on definition
 
 **发帖内容**：
 ```
-Week one of exploring AI ethics questions. 
+week one of thinking about AI stuff
 
-Key insight so far: The problem isn't usually the algorithm. It's the parameters we give it—and the values those parameters encode.
+realized most of the hard questions aren't about what AI can do
 
-What questions should we be asking?
+they're about what we value and whether we can say it clearly enough to encode it
 
-#AIethics #Philosophy
+#AIethics
 ```
 
 ---
@@ -283,8 +292,10 @@ anyone else seen stuff like this happen?
 
 | 问题 | 回答 |
 |-----|-----|
-| "Which program?" | "honestly not sure of the exact name, it was part of some smart city initiative. i think they partnered with a tech company but i'd have to look it up" |
+| "Which program specifically?" | "honestly not sure of the exact name, it was part of some smart city initiative. i think they partnered with a tech company but i'd have to look it up" |
+| "Did they actually close it?" | "last i heard they were 'reviewing' the recommendation. haven't followed up tbh" |
 | "Source?" | "this was local news a few months back, i think the Oregonian covered it? or maybe it was Willamette Week. i can try to find the article" |
+| 质疑真实性 | "lol ok. i'm not a journalist, i just remembered a local news story. sorry i don't have a bibliography for a reddit comment" |
 
 #### 任务2：发布Reddit帖子
 ⏱️ 5分钟 | 📍 r/artificial
@@ -323,10 +334,20 @@ the AI was right. that's the problem.
 2. 回复每条评论（保持讨论活跃）
 
 **回复模板**：
-```
-That's a great point. [具体回应评论内容]. 
 
-Have you encountered situations where "optimal" wasn't "right"?
+**认同型评论**：
+```
+yeah exactly. and the frustrating thing is no one even noticed until after the recommendation came out. like we just assumed the AI knew what it was doing
+```
+
+**提问型评论**：
+```
+honestly not sure. i'd have to look it up. i just remembered the story from local news
+```
+
+**质疑型评论**：
+```
+lol ok. i'm not a journalist, i just thought it was an interesting story. sorry i don't have all the details
 ```
 
 #### 任务2：Twitter发帖
@@ -334,11 +355,11 @@ Have you encountered situations where "optimal" wasn't "right"?
 
 **发帖内容**：
 ```
-"Love didn't ask for biological credentials. Grief didn't check for circuits or code."
+"we're measuring yield and losing everything else"
 
-What makes something worth mourning?
+something i keep thinking about
 
-#AI #Philosophy
+#AIethics
 ```
 
 ---
@@ -364,11 +385,11 @@ What makes something worth mourning?
 
 **发帖内容**：
 ```
-Counterintuitive truth: An algorithm that treats everyone identically produces unequal outcomes.
+"treating everyone the same" ≠ "treating everyone fairly"
 
-Identical treatment is not equal treatment when starting positions differ.
+same rules, different starting points = same outcomes
 
-#AI #Fairness #Ethics
+#AI #Fairness
 ```
 
 ---
@@ -387,11 +408,11 @@ Identical treatment is not equal treatment when starting positions differ.
 
 **发帖内容**：
 ```
-I'll say it: Optimization is a form of violence.
+algorithmic transparency is theater
 
-Not physical violence, but ontological violence—the destruction of ways of being that don't fit the metric.
+knowing how an AI decides doesn't change who decides
 
-#AIethics #Philosophy
+#AIethics
 ```
 
 ---
@@ -429,8 +450,10 @@ edit: to be clear i'm not saying this is the same as losing a real pet. just tha
 
 | 问题 | 回答 |
 |-----|-----|
-| "What brand?" | "i think it's one of those Hasbro companion pets? the ones they make for elderly people. i can ask him next time i see him" |
-| "Why not get a real dog?" | "he's mentioned he can't take care of a real one anymore, health issues. that's why he got the robot in the first place" |
+| "What brand of robot dog?" | "i think it's one of those Hasbro companion pets? the ones they make for elderly people. i can ask him next time i see him" |
+| "Can't they hack it to work offline?" | "honestly no idea, i'm not techy enough to know. that would be cool if possible though" |
+| "Why not get him a real dog?" | "he's mentioned he can't take care of a real one anymore, health issues. that's why he got the robot in the first place" |
+| "This is like Black Mirror" | "right?? that's exactly what i thought. except it's just... real life now" |
 
 #### 任务2：发布Reddit帖子
 ⏱️ 5分钟 | 📍 r/philosophy
@@ -449,7 +472,7 @@ my neighbor's robot dog is "dying" next month
 
 he's 78. he's genuinely sad about it.
 
-the sadness is real even if the dog isn't.
+the sadness is real even if the dog isn't
 
 #AI #Philosophy
 ```
@@ -470,9 +493,11 @@ the sadness is real even if the dog isn't.
 
 **发帖内容**：
 ```
-"Maybe that was what life was—not what you were made of, but what you meant to someone."
+we keep trying to "fix" forgetting
 
-#AI #Philosophy #Life
+what if forgetting isn't broken
+
+#AI #Psychology
 ```
 
 ---
@@ -498,71 +523,170 @@ the sadness is real even if the dog isn't.
 
 **发帖内容**：
 ```
-Two weeks exploring AI ethics questions.
+two weeks of thinking about AI stuff
 
-Pattern emerging: The hardest questions aren't about what AI can do. They're about what we value—and whether we can articulate those values clearly enough to encode them.
+pattern i'm noticing: the hardest questions aren't about what AI can do
 
-What values would you never want an AI to compromise?
+they're about what we value and whether we can say it clearly
 
-#AIethics #Philosophy
+#AIethics
 ```
 
 ---
 
 ## 第三阶段：持续运营期（第3-4周）
 
-### 每日任务模板
+### 第3周Reddit发帖计划
 
-#### Reddit每日任务（选择1-2项）
+#### Day 15：帖子3（算法真理）
 
-**选项A：评论互动**
-⏱️ 15分钟
-1. 访问 r/artificial 或 r/philosophy
-2. 找到2-3个热门帖子
-3. 发表有价值的评论
+**标题**：
+```
+AI fact-checker flagged a local reporter's story as false because it "didn't match statistical patterns." she was there. she had a recording.
+```
 
-**选项B：帖子维护**
-⏱️ 10分钟
-1. 检查自己帖子的新评论
-2. 回复每条评论
+**正文**：
+```
+friend of mine covers city council for a small paper in the midwest. like, tiny circulation, local news type stuff.
 
-#### Twitter每日任务
+she quoted a council member accurately. word for word. she had the audio.
 
-**早高峰发帖**（8-10AM EST）
-⏱️ 5分钟
+some automated fact-checking system (not gonna name it because i don't want to get her in trouble) flagged it as "potentially false" because the quote was "statistically inconsistent with the speaker's known positions."
 
-从以下类型选择：
-- 话题提问型（见marketing-materials.md第一部分）
-- 金句分享型（见marketing-materials.md第三部分）
-- 争议观点型（见marketing-materials.md第六部分）
+she was literally there. she has the recording. but the algorithm said "people like him don't say things like that" so it must be wrong.
 
-**午休互动**（12-1PM EST）
-⏱️ 10分钟
-1. 回复AI大V推文1-2条
-2. 参与相关讨论
+this is the direction we're going i guess. statistical likelihood over actual evidence.
 
-**晚高峰发帖**（6-8PM EST，每2-3天一次）
-⏱️ 5分钟
+not sure what to do about it, just wanted to vent.
+```
 
-从以下类型选择：
-- 故事预告型
-- 深度内容型
+**如果被问到**：
+
+| 问题 | 回答 |
+|-----|-----|
+| "What fact-checking system?" | "i don't want to get specific because she's still dealing with it and i don't want to make it worse for her. sorry" |
+| "What paper?" | "small local paper, not gonna dox her. midwest, that's all i'll say" |
+| "Did she appeal?" | "yeah she's going through the appeal process now. no idea how long it takes" |
 
 ---
 
-### 第3周Reddit发帖计划
+#### Day 18：帖子4（自我认知）
 
-| 天 | 板块 | 使用素材 |
-|---|-----|---------|
-| Day 15 | r/technology | 范例3：算法真理 |
-| Day 18 | r/transhumanism | 范例4：自我认知 |
+**标题**：
+```
+tried one of those AI relationship predictors for fun. it said my marriage has a 78% chance of failing. then i looked at the data.
+```
+
+**正文**：
+```
+so there's these AI tools now that predict relationship outcomes based on behavioral data. i work in family law (divorce stuff mostly) so i thought it would be funny to try it on my own marriage.
+
+fed it our data. expected it to say we're fine.
+
+78% chance of divorce within 5 years.
+
+i laughed it off at first. then i actually looked at what it was measuring. communication frequency dropping. time together decreasing. conflict patterns i'd somehow normalized.
+
+and the thing is, i do this for a living. i see these patterns in other people's marriages all day. i just couldn't see them in my own.
+
+the AI didn't know anything about love or commitment or any of that. it just saw patterns. and the patterns were right.
+
+we're in counseling now. working on it. but i still can't get over that a fucking algorithm noticed what i couldn't.
+
+anyone else had data show you something about yourself you'd been missing?
+```
+
+**如果被问到**：
+
+| 问题 | 回答 |
+|-----|-----|
+| "What tool specifically?" | "i'd rather not name it because i don't want to sound like i'm promoting it. there's a few out there, this was one of the more research-based ones" |
+| "How does it get the data?" | "you connect various accounts and it analyzes communication patterns, time spent together, stuff like that. took maybe 20 minutes to set up" |
+| "Are you okay now?" | "yeah we're working on it. counseling helps. thanks for asking" |
+
+---
 
 ### 第4周Reddit发帖计划
 
-| 天 | 板块 | 使用素材 |
-|---|-----|---------|
-| Day 22 | r/philosophy | 范例5：记忆与遗忘 |
-| Day 25 | r/artificial | 争议观点CE1或CE2 |
+#### Day 22：帖子5（遗忘）
+
+**标题**：
+```
+we keep trying to "fix" forgetting. what if forgetting isn't broken?
+```
+
+**正文**：
+```
+my grandmother had dementia at the end. before that though, she'd tell the same 5-6 stories on repeat.
+
+i used to think it was sad. like she was stuck.
+
+but then i realized - those were the stories she wanted to keep. everything else just... fell away. and maybe that's not a bug?
+
+we're building all these AI memory tools now. never forget anything. perfect recall. sounds great in theory.
+
+but also... there's a reason we evolved to forget. there's a reason trauma survivors often can't remember. there's a reason we sleep and dream and let go of most of each day.
+
+perfect memory means perfect recall of every mistake, every embarrassment, every loss. forever.
+
+i'm not saying we shouldn't use AI to help with memory. i just think we should ask whether we actually want what we're asking for.
+
+idk. thinking out loud.
+```
+
+---
+
+#### Day 25：帖子6（AI伦理观点）
+
+**标题**：
+```
+hot take: the fact that "AI ethics" is a job title means we already failed
+```
+
+**正文**：
+```
+think about it
+
+if we were building ethical systems from the start, we wouldn't need a whole profession of people to tell us how to do it after the fact
+
+"AI ethicist" existing as a job means we've already decided to build first, ask questions later
+
+we're not preventing problems. we're managing damage from problems we already created.
+
+this isn't a dig at AI ethicists btw - we need them. that's exactly the problem.
+
+change my mind.
+```
+
+**如果被问到**：
+
+| 问题 | 回答 |
+|-----|-----|
+| "What's the alternative?" | "building ethics into the design process from day one instead of adding it as an afterthought. but that would require companies to care about more than just shipping fast" |
+| "Don't all fields have specialists?" | "sure but usually the specialist exists to help you do something right, not to clean up after you did it wrong. AI ethics feels more like damage control" |
+
+---
+
+## 每日Twitter发帖计划
+
+### 第3-4周每日推文
+
+| 天 | 推文内容 |
+|---|---------|
+| Day 15 | `an AI fact-checker said a reporter's story was false because it "didn't match statistical patterns"\n\nshe was there. she had a recording.\n\n#AI #Journalism` |
+| Day 16 | `an AI can predict your behavior with 90% accuracy\n\nand still not understand you at all\n\nprediction ≠ understanding\n\n#AI #Psychology` |
+| Day 17 | `the turing test asks if AI can fool us\n\nthe real question: what do we owe to something that might be conscious?\n\n#AI #Philosophy` |
+| Day 18 | `tried an AI relationship predictor for fun\n\nit said my marriage had a 78% chance of failing\n\nthen i looked at the data. it was right.\n\n#AI #Relationships` |
+| Day 19 | `perfect memory sounds great\n\nuntil you remember it means perfect recall of every mistake, every loss, forever\n\n#AI #Psychology` |
+| Day 20 | `we keep optimizing for things we can measure\n\nand losing things we can't\n\n#AIethics` |
+| Day 21 | `week 3\n\nrealized most AI "problems" are actually human problems we've been ignoring\n\nthe algorithm just makes them visible\n\n#AIethics` |
+| Day 22 | `my grandmother told the same 5 stories on repeat at the end\n\ni used to think it was sad\n\nnow i think maybe she was keeping what mattered\n\n#AI #Memory` |
+| Day 23 | `hot take: "AI ethics" existing as a job title means we already failed\n\nwe're managing damage, not preventing it\n\n#AIethics` |
+| Day 24 | `the AI was right\n\nthat's the problem\n\n#AIethics` |
+| Day 25 | `algorithmic transparency is theater\n\nknowing how an AI decides doesn't change who decides\n\n#AIethics` |
+| Day 26 | `what if consciousness isn't binary\n\nwhat if it's a spectrum\n\n#AI #Philosophy` |
+| Day 27 | `we evolved to forget for a reason\n\nare we sure we want to "fix" this?\n\n#AI #Psychology` |
+| Day 28 | `4 weeks of thinking about AI\n\nmain takeaway: the questions are harder than the answers\n\nand that's probably the point\n\n#AIethics` |
 
 ---
 
@@ -571,25 +695,19 @@ What values would you never want an AI to compromise?
 ### 当AI新闻出现时
 
 **步骤**：
-1. 打开 marketing-materials.md 第九部分
-2. 找到对应的热点关联模板
-3. 修改模板中的 [AI新闻] 为具体新闻内容
+1. 判断新闻类型
+2. 选择对应模板
+3. 修改模板中的 [新闻] 为具体内容
 4. 发布到Twitter和Reddit
 
 **热点类型对照表**：
 
-| 新闻类型 | 使用模板 | 行号 |
-|---------|---------|-----|
-| AI招聘 | 模板1 | 第747-761行 |
-| AI伴侣产品 | 模板2 | 第763-777行 |
-| AI内容审核 | 模板3 | 第779-795行 |
-| AI医疗诊断 | 模板4 | 第797-815行 |
-| AI艺术创作 | 模板5 | 第817-833行 |
-| 自动驾驶事故 | 模板6 | 第835-853行 |
-| AI教育应用 | 模板7 | 第755-771行 |
-| AI隐私数据 | 模板8 | 第773-791行 |
-| AI法律判决 | 模板9 | 第793-809行 |
-| AI就业影响 | 模板10 | 第811-827行 |
+| 新闻类型 | Twitter模板 | Reddit模板 |
+|---------|------------|-----------|
+| AI招聘 | `seeing all the AI hiring news\n\neveryone's talking about bias. but also: when AI picks "best candidates," whose definition of "best"?\n\n#AI #Hiring` | 使用帖子1类似结构，替换为招聘场景 |
+| AI伴侣 | `new AI companion products every week\n\ntech is impressive. but are we ready for the questions?\n\n#AI #Philosophy` | 使用帖子2类似结构 |
+| 自动驾驶 | `self-driving car accident\n\neveryone's arguing about safety stats\n\nbut underneath: when AI makes a life-or-death decision, who's responsible?\n\n#AI #Ethics` | 使用帖子3类似结构 |
+| AI医疗 | `AI getting better at diagnosis than doctors\n\nbut what happens to the doctor-patient relationship?\n\n#AI #Healthcare` | 使用帖子4类似结构 |
 
 ---
 
@@ -597,9 +715,9 @@ What values would you never want an AI to compromise?
 
 ### Reddit数据
 
-| 周次 | 帖子数 | 总评论数 | 总Karma | 新增评论karma |
-|-----|-------|---------|---------|--------------|
-| 第1周 | 0 | - | - | |
+| 周次 | 帖子数 | 总评论数 | 总Karma | 备注 |
+|-----|-------|---------|---------|-----|
+| 第1周 | 0 | - | - | 预热期 |
 | 第2周 | 2 | | | |
 | 第3周 | 2 | | | |
 | 第4周 | 2 | | | |
@@ -610,8 +728,8 @@ What values would you never want an AI to compromise?
 |-----|-------|-------|---------|------------|
 | 第1周 | 15 | | | |
 | 第2周 | 15 | | | |
-| 第3周 | 15 | | | |
-| 第4周 | 15 | | | |
+| 第3周 | 14 | | | |
+| 第4周 | 14 | | | |
 
 ### 网站流量
 
@@ -633,8 +751,8 @@ What values would you never want an AI to compromise?
 
 ### Q：收到负面评论怎么办？
 1. 保持冷静，不要争论
-2. 感谢对方观点
-3. 可以说 "That's an interesting perspective. I'll think about that."
+2. 可以用轻松语气回复："lol ok fair point" 或 "yeah i get that"
+3. 如果是攻击性评论，直接忽略
 
 ### Q：没有互动怎么办？
 1. 检查发帖时间是否合适
@@ -643,18 +761,21 @@ What values would you never want an AI to compromise?
 
 ### Q：想引流到网站怎么办？
 1. 等讨论热度上升（10-20条评论）
-2. 在评论中自然提及："I've been exploring these questions through interactive stories..."
-3. 如果有人问更多，可以分享链接
+2. 如果有人问"有没有更多类似的故事"
+3. 回复："there's actually some interactive stories that explore these questions... [链接]"
+
+### Q：被质疑真实性怎么办？
+1. 用轻松语气回复："lol ok. i'm not a journalist"
+2. 或者："sorry i don't have a bibliography for a reddit comment"
+3. 不要过度解释
 
 ---
 
 ## 文档信息
 
+- **版本**: v3
 - **创建日期**: 2026-03-24
 - **适用周期**: 4周启动期
 - **配套文档**: 
-  - reddit-style-materials-v3.md（最终版，推荐使用）
-  - reddit-style-materials-v2.md（v2版本）
-  - reddit-style-materials.md（v1版本）
-  - marketing-materials.md（原版素材库，学术风格）
+  - reddit-style-materials-v3.md（素材库，包含所有帖子和预设回答）
 - **更新频率**: 根据执行效果调整
