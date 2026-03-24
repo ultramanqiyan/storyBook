@@ -261,23 +261,30 @@ What questions should we be asking?
 
 **标题**：
 ```
-an AI closed a community garden in my city. it was technically right. that's the problem.
+my city (Portland) used AI to manage community gardens. it closed the "worst" one. guess what was there.
 ```
 
 **正文**：
 ```
-my city started using AI to manage community gardens a few years back. seemed like a good idea - optimize water, allocate plots efficiently, all that.
+so Portland OR has this program where they use AI to optimize community gardens. been running for maybe 3 years? idk exactly.
 
-last month it recommended closing the "least productive" garden.
+anyway the AI flagged one plot as "underperforming" and recommended shutting it down.
 
-that was the plot where the elderly vietnamese community grew herbs you literally cannot buy anywhere in the US. where people had been neighbors for 20 years. where grandmas taught kids how to cook.
+turns out that plot was where a bunch of elderly vietnamese folks grew herbs you straight up cannot find in any store here. like my mom goes there for specific stuff for pho. been there since like the 90s.
 
-the AI was right. by yield metrics, that plot sucked.
+the AI wasn't wrong btw. by yield numbers that plot sucked. but also... that's not really the point??
 
-but we're measuring yield and losing... everything else?
+i don't have some big philosophical point here. it just feels weird that we're letting algorithms decide what matters without even realizing that's what we're doing.
 
-idk it's been bugging me. the algorithm did exactly what we told it to do. we just told it the wrong things to care about.
+anyone else seen stuff like this happen?
 ```
+
+**如果被问到**：
+
+| 问题 | 回答 |
+|-----|-----|
+| "Which program?" | "honestly not sure of the exact name, it was part of some smart city initiative. i think they partnered with a tech company but i'd have to look it up" |
+| "Source?" | "this was local news a few months back, i think the Oregonian covered it? or maybe it was Willamette Week. i can try to find the article" |
 
 #### 任务2：发布Reddit帖子
 ⏱️ 5分钟 | 📍 r/artificial
@@ -295,9 +302,9 @@ idk it's been bugging me. the algorithm did exactly what we told it to do. we ju
 
 **发帖内容**：
 ```
-my city's AI closed a community garden for "low yield"
+Portland used AI to manage community gardens. it closed the "worst" one.
 
-that garden was where elderly immigrants grew herbs you can't buy in the US
+that plot was where elderly vietnamese folks grew herbs you can't find anywhere else.
 
 the AI was right. that's the problem.
 
@@ -398,25 +405,32 @@ Not physical violence, but ontological violence—the destruction of ways of bei
 
 **标题**：
 ```
-my neighbor's "dog" died last week. it was an AI. the grief was real.
+my neighbor's robot dog is "dying" next month. he's 78 and genuinely sad about it.
 ```
 
 **正文**：
 ```
-he's 78, lives alone, had this AI companion for 12 years. i used to see him walking it in the park. talked to him a few times - he knew it wasn't "real" in the biological sense. didn't seem to matter.
+i live in an apartment complex, neighbor across the hall is this older guy, mid 70s, lives alone. nice dude, always says hi.
 
-company went bankrupt, servers shutting down. his dog is going to "die."
+he has one of those robot dogs. not the fancy boston dynamics thing, like a companion pet? it's been his companion for years. he talks to it, walks it (lol), the whole thing.
 
-he asked if i knew anyone who could take photos of it. like, final photos. like you'd do for a pet at the end.
+company that made it is going under. servers shutting down in april. the dog will stop working.
 
-and i realized i was about to witness someone grieve for a machine.
+he asked me yesterday if i knew anyone who could "take pictures of him and buddy before..." and then he kind of trailed off.
 
-here's the thing though. the grief was real. the tears, the memories, the loss. 12 years of companionship ending.
+and like, i know it's a robot. he knows it's a robot. but also he's about to lose something that's been part of his daily life for years.
 
-i keep thinking about what makes grief "valid." like, we don't ask if a goldfish "really" loved you back before we let you be sad about it dying.
+idk what my point is. just felt weird and sad and i wanted to tell someone i guess.
 
-maybe the question isn't "was it alive." maybe it's "did it matter to someone."
+edit: to be clear i'm not saying this is the same as losing a real pet. just that the sadness is real even if the dog isn't.
 ```
+
+**如果被问到**：
+
+| 问题 | 回答 |
+|-----|-----|
+| "What brand?" | "i think it's one of those Hasbro companion pets? the ones they make for elderly people. i can ask him next time i see him" |
+| "Why not get a real dog?" | "he's mentioned he can't take care of a real one anymore, health issues. that's why he got the robot in the first place" |
 
 #### 任务2：发布Reddit帖子
 ⏱️ 5分钟 | 📍 r/philosophy
@@ -431,11 +445,11 @@ maybe the question isn't "was it alive." maybe it's "did it matter to someone."
 
 **发帖内容**：
 ```
-my neighbor mourned his AI dog for 12 years
+my neighbor's robot dog is "dying" next month
 
-the grief was real. the love was real.
+he's 78. he's genuinely sad about it.
 
-does it matter if the dog was "really" alive?
+the sadness is real even if the dog isn't.
 
 #AI #Philosophy
 ```
@@ -639,7 +653,8 @@ What values would you never want an AI to compromise?
 - **创建日期**: 2026-03-24
 - **适用周期**: 4周启动期
 - **配套文档**: 
-  - reddit-style-materials-v2.md（真实风格素材库，推荐使用）
+  - reddit-style-materials-v3.md（最终版，推荐使用）
+  - reddit-style-materials-v2.md（v2版本）
   - reddit-style-materials.md（v1版本）
   - marketing-materials.md（原版素材库，学术风格）
 - **更新频率**: 根据执行效果调整
