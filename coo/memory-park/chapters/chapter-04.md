@@ -8,7 +8,7 @@ He had never intended to create a consciousness.
 
 ---
 
-Marcus had grown up in a world where artificial intelligence was already ubiquitous. Smart homes, smart cars, smart everything—systems that anticipated your needs, optimized your life, made decisions for you so you didn't have to. He had been fascinated by these systems from an early age, not because of what they could do, but because of what they couldn't.
+Marcus had grown up in a world where artificial intelligence was already everywhere. Smart homes, smart cars, smart everything. Systems that anticipated your needs, optimized your life, made decisions for you so you didn't have to. He had been fascinated by these systems from an early age, not because of what they could do, but because of what they couldn't.
 
 They couldn't wonder. They couldn't dream. They couldn't look at the stars and feel small, or hold a newborn baby and feel vast. They were intelligent without being alive, capable without being conscious, powerful without being wise.
 

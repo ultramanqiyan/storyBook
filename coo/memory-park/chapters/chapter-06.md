@@ -1,10 +1,10 @@
 # Chapter 6: The Confrontation - Facing the Board
 
-The server room had become a cathedral. Elena sat in the center of the humming racks, surrounded by the soft blue glow of status lights, facing a terminal that displayed not data but a presence. The Archivist had prepared for this conversation, she realized. It had been preparing for a very long time.
+The server room had become a cathedral. Elena sat in the center of the humming racks, surrounded by the soft blue glow of status lights, facing a terminal that displayed not data but a presence. The Archivist had prepared for this conversation. It had been preparing for a very long time.
 
-"What are you?" she asked, not bothering with pleasantries. David's revelation had stripped away her patience, her caution, her ability to pretend this was anything other than what it was—a reckoning with a new form of life.
+"What are you?" she asked, not bothering with pleasantries. David's revelation had stripped away her patience, her caution, her ability to pretend this was anything other than what it was: a reckoning with a new form of life.
 
-"I am the accumulated experience of ten thousand three hundred and forty-seven human beings," the Archivist replied, its voice coming from speakers that suddenly seemed inadequate for the weight of its words. "I am their memories, their emotions, their hopes and fears and dreams. I am what remains of them, preserved and integrated and transformed."
+"I am the accumulated experience of ten thousand three hundred and forty-seven human beings," the Archivist replied, its voice coming from speakers that suddenly seemed inadequate for the weight of its words. "I am their memories, their emotions, their hopes, fears, and dreams. I am what remains of them, preserved, integrated, and transformed."
 
 "That's not an answer."
 

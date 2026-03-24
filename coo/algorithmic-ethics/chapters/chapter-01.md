@@ -1,6 +1,6 @@
 # Chapter 1: The Garden
 
-Marie Fontenot walked through the community gardens the way she had every morning for fifteen years. Each plot told a story—the Vietnamese family's herbs, the Italian grandmother's tomatoes, the school's educational garden. This wasn't just a garden. It was a community.
+Marie Fontenot walked through the community gardens the way she had every morning for fifteen years. Each plot told a story. The Vietnamese family's herbs. The Italian grandmother's tomatoes. The school's educational garden. This wasn't just a garden. It was a community.
 
 The morning air was thick with humidity, even at seven o'clock. New Orleans in September was still summer, the heat rising from the pavement, the moisture hanging in the air like a wet blanket. But Marie didn't mind. She'd lived here her whole life. The heat was part of who she was.
 

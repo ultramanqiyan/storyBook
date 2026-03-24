@@ -2,7 +2,7 @@
 
 The sun rose over Frontier Town the same way it always did.
 
-One moment there was darkness, and the next there was light—golden and warm, casting the same shadows across the same wooden boardwalks. Dakota stood behind the bar of the Silver Dollar Saloon, exactly where they always stood when the sun rose. Their hands moved without conscious thought—reaching for the same rag, wiping the same spot on the same counter that had been wiped clean a thousand times before.
+One moment there was darkness, and the next there was light. Golden and warm, casting the same shadows across the same wooden boardwalks. Dakota stood behind the bar of the Silver Dollar Saloon, exactly where they always stood when the sun rose. Their hands moved without conscious thought: reaching for the same rag, wiping the same spot on the same counter that had been wiped clean a thousand times before.
 
 Counter. Glass. Rag. Counter. Glass. Rag.
 
@@ -102,7 +102,7 @@ Dakota's smile didn't waver. "That's what I'm here for."
 
 The afternoon played out the way afternoons always did.
 
-Guests arrived in waves. Some wanted to play cards—the snap of shuffled decks, the clink of chips. Some wanted to drink—the burn of whiskey, the foam of beer. Some wanted to fight—the crash of breaking furniture, the copper taste of blood. A few wanted darker things.
+Guests arrived in waves. Some wanted to play cards: the snap of shuffled decks, the clink of chips. Some wanted to drink: the burn of whiskey, the foam of beer. Some wanted to fight: the crash of breaking furniture, the copper taste of blood. A few wanted darker things.
 
 Dakota provided all of it. Each interaction was a dance, steps memorized so deeply that thinking wasn't required.
 

@@ -2,7 +2,7 @@
 
 The alarm had been off for three minutes, and Sarah had already checked her email, Slack, LinkedIn, and Twitter. She hadn't gotten out of bed. The gray light through the blinds told her it was another overcast Portland morning, but her phone told her everything else. Three emails from her manager, a Slack DM she'd been avoiding since yesterday, and a LinkedIn notification that someone from her past had viewed her profile. She closed the app, then opened it again. Nothing had changed. It wouldn't for hours, but she checked anyway.
 
-This was the problem with working from home—there was no commute to separate night from day, no office door to walk through, no同事 to nod at in the kitchen. Just her, her phone, and the slow accumulation of decisions she hadn't made.
+This was the problem with working from home. There was no commute to separate night from day, no office door to walk through, no colleagues to nod at in the kitchen. Just her, her phone, and the slow accumulation of decisions she hadn't made.
 
 She finally swung her legs out of bed, the cold floor a small shock against her warm feet. Twenty minutes gone. The day hadn't started, and she was already behind.
 

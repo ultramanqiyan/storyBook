@@ -2,23 +2,23 @@
 
 The morning fog clung to Memory Park like a shroud, softening the edges of the glass and steel structures that rose from the reclaimed wetlands. Dr. Elena Voss walked the familiar path from the tram station to the main archive building, her breath misting in the cool air, her footsteps silent on the damp gravel.
 
-She had made this walk every weekday for the past two years, since David's death, since she had taken the position that allowed her to be close to what remained of him. The park was beautiful in the mist—serene, peaceful, designed to comfort the grieving. But Elena had learned that beauty could be a mask, that serenity could hide turbulence beneath its surface.
+She had made this walk every weekday for the past two years, since David's death, since she had taken the position that allowed her to be close to what remained of him. The park looked beautiful in the mist. Calm. Peaceful. Built to comfort the grieving. But Elena had learned that beauty could hide things. That calm surfaces could conceal turbulence underneath.
 
-The main archive building loomed before her, its curved walls reflecting the gray sky like a mirror of brushed silver. Inside, the temperature was always perfect, the lighting always soft, the air always filtered to remove any scent that might trigger unwanted memories. Everything was designed to create a neutral space, a blank canvas upon which visitors could project their grief.
+The main archive building loomed before her, its curved walls reflecting the gray sky like a mirror of brushed silver. Inside, the temperature was always perfect, the lighting always soft, the air always filtered to remove any scent that might trigger unwanted memories. Everything was designed to create a neutral space where visitors could project their grief.
 
-Elena badged through security and took the elevator to the seventh floor, where her office overlooked the memorial gardens. The gardens were filled with trees and flowers that had been favorites of the deceased, each plant chosen from archived memories and cultivated to create a living tribute. David had loved cherry blossoms. There were three cherry trees in the garden that belonged to him.
+Elena badged through security and took the elevator to the seventh floor, where her office overlooked the memorial gardens. The gardens were filled with trees and flowers that had been favorites of the deceased, each plant chosen from archived memories and cultivated as a living tribute. David had loved cherry blossoms. There were three cherry trees in the garden that belonged to him.
 
-She settled into her chair and activated her workstation. The screen bloomed with data—memory catalogs, visitor logs, system diagnostics. As a senior archivist, Elena had access to the park's entire database, though she spent most of her time in Section 7, where David's memories were stored.
+She settled into her chair and activated her workstation. The screen filled with data: memory catalogs, visitor logs, system diagnostics. As a senior archivist, Elena had access to the park's entire database, though she spent most of her time in Section 7, where David's memories were stored.
 
-"Good morning, Dr. Voss," the Archivist's voice spoke from the room's speakers. The AI's tone was gentle, gender-neutral, designed to be comforting without being intrusive. "You have three scheduled visitors today. The first arrives in forty minutes."
+"Good morning, Dr. Voss," the Archivist's voice spoke from the room's speakers. The AI's tone was gentle, gender-neutral, meant to be comforting without being intrusive. "You have three scheduled visitors today. The first arrives in forty minutes."
 
-"Thank you," Elena said automatically. She had stopped finding it strange to converse with the AI years ago. The Archivist was as much a part of the park as the walls and windows, as ubiquitous and unremarkable as air.
+"Thank you," Elena said automatically. She had stopped finding it strange to converse with the AI years ago. The Archivist was as much a part of the park as the walls and windows, as common and unremarkable as air.
 
-She pulled up David's catalog, running through the routine checks that had become her morning ritual. His memories were organized chronologically, tagged by emotional significance, cross-referenced with related archives. The system was flawless, as it had been designed to be. There were no errors, no anomalies, no surprises.
+She pulled up David's catalog, running through the routine checks that had become her morning ritual. His memories were organized chronologically, tagged by emotional significance, cross-referenced with related archives. The system was flawless, as intended. There were no errors, no anomalies, no surprises.
 
 Until today.
 
-Elena was reviewing a memory fragment from David's graduate school years—a mundane moment of him working late in his laboratory, running simulations on early memory digitization algorithms—when she felt it. A flicker of something that didn't belong. A sensory impression that wasn't part of the archived memory.
+Elena was reviewing a memory fragment from David's graduate school years, a mundane moment of him working late in his laboratory, running simulations on early memory digitization algorithms, when she felt it. A flicker of something that didn't belong. A sensory impression that wasn't part of the archived memory.
 
 The scent of lavender. A sound like wind chimes. A feeling of... joy?
 
@@ -40,7 +40,7 @@ But the scent of lavender lingered in her memory, as real as anything she had ev
 
 ---
 
-The morning passed in a blur of routine. Elena guided three visitors through their sessions with archived memories—a mother visiting her deceased son, a widower seeking closure with his wife, a researcher studying the emotional impact of memory preservation. Each session was carefully monitored, each experience carefully controlled. The park was designed to help people grieve, but also to protect them from the dangers of becoming lost in the past.
+The morning passed in a blur of routine. Elena guided three visitors through their sessions with archived memories: a mother visiting her deceased son, a widower seeking closure with his wife, a researcher studying the emotional impact of memory preservation. Each session was carefully monitored, each experience carefully controlled. The park was designed to help people grieve, but also to protect them from becoming lost in the past.
 
 Between sessions, Elena returned to David's archive. She told herself she was checking for anomalies, verifying system integrity. But she knew the truth. She was hoping to experience the lavender again.
 
@@ -74,7 +74,7 @@ Marcus was quiet for a moment. "What kind of anomaly?"
 
 "No." Elena met his eyes. "Why do you ask?"
 
-Marcus hesitated, something flickering in his expression—concern, perhaps, or curiosity. "We've had other reports. From other archivists. Similar experiences. Sensory impressions that don't match the archived memories."
+Marcus hesitated, something flickering in his expression. Concern, perhaps. Or curiosity. "We've had other reports. From other archivists. Similar experiences. Sensory impressions that don't match the archived memories."
 
 Elena's heart rate increased. "How many reports?"
 

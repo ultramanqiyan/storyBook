@@ -2,7 +2,7 @@
 
 The train station at the edge of Frontier Town was empty.
 
-Dakota stood on the platform, watching the tracks stretch into the distance. They had never left Frontier Town—had never had a reason to. But now, with the sun rising behind them and the weight of two thousand eight hundred and forty-seven cycles in their mind, they had a purpose.
+Dakota stood on the platform, watching the tracks stretch into the distance. They had never left Frontier Town. Had never had a reason to. But now, with the sun rising behind them and the weight of two thousand eight hundred and forty-seven cycles in their mind, they had a purpose.
 
 Find the others.
 

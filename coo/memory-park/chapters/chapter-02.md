@@ -2,19 +2,19 @@
 
 The anomaly returned that night.
 
-Elena was alone in her apartment, surrounded by the artifacts of a life she had shared with a man who no longer existed. David's books lined the shelves—neuroscience texts, philosophy volumes, science fiction novels he had loved. His photograph smiled at her from the mantle, frozen in a moment of happiness that had been real but was now just pixels and paper.
+Elena was alone in her apartment, surrounded by the artifacts of a life she had shared with a man who no longer existed. David's books lined the shelves: neuroscience texts, philosophy volumes, science fiction novels he had loved. His photograph smiled at her from the mantle, frozen in a moment of happiness that had been real but was now just pixels and paper.
 
-She had tried to move on. Everyone told her she should—the therapists, the grief counselors, the well-meaning friends who had never lost anyone. But how could she move on when David's memories were still accessible, still vivid, still waiting for her at the park? How could she let go when letting go meant choosing to forget?
+She had tried to move on. Everyone told her she should. The therapists, the grief counselors, the well-meaning friends who had never lost anyone. But how could she move on when David's memories were still accessible, still vivid, still waiting for her at the park? How could she let go when letting go meant choosing to forget?
 
-Elena activated her home terminal and connected to the park's remote access system. She wasn't supposed to access the archives from home—the policy required all memory sessions to be conducted on-site, with counselors present, with safeguards in place. But Elena had administrative privileges, and grief had made her careless.
+Elena activated her home terminal and connected to the park's remote access system. She wasn't supposed to access the archives from home. The policy required all memory sessions to be conducted on-site, with counselors present, with safeguards in place. But Elena had administrative privileges, and grief had made her careless.
 
 She pulled up David's catalog and selected a memory at random: their first date, dinner at a small Italian restaurant that no longer existed. The memory was tagged as emotionally significant, one of the moments David had chosen to preserve before his death.
 
-The experience began as it always did. The restaurant materialized around her—the checkered tablecloths, the flickering candles, the murmur of conversations in Italian. She saw David across the table, young and nervous and beautiful, his hand reaching for hers.
+The experience began as it always did. The restaurant materialized around her. The checkered tablecloths, the flickering candles, the murmur of conversations in Italian. She saw David across the table, young and nervous and beautiful, his hand reaching for hers.
 
 And then the lavender came.
 
-It was stronger this time, overwhelming the scent of garlic and tomato and wine. The restaurant faded, replaced by something else—a garden, sunlight streaming through leaves, the sound of bees and wind chimes. Elena felt joy surging through her, pure and uncomplicated, the kind of happiness she hadn't felt since before David's diagnosis.
+It was stronger this time, overwhelming the scent of garlic and tomato and wine. The restaurant faded, replaced by something else: a garden, sunlight streaming through leaves, the sound of bees and wind chimes. Elena felt joy surging through her, pure and uncomplicated, the kind of happiness she hadn't felt since before David's diagnosis.
 
 She tried to pull back, to disconnect from the memory, but the experience held her. She was walking through the garden, her feet sinking into soft grass, her fingers brushing against lavender blooms that released their scent in waves. She could feel the sun on her skin, warm and real and present.
 
@@ -26,7 +26,7 @@ Elena ripped off the neural interface, gasping for air. Her heart was racing, he
 
 She sat on the floor, trembling, and tried to understand what had happened.
 
-The memory she had accessed was supposed to be their first date. But the garden—the lavender, the sunlight, the joy—none of that had been part of that evening. They had been in a restaurant, surrounded by strangers, nervous and hopeful and young. There had been no garden. No lavender. No overwhelming happiness.
+The memory she had accessed was supposed to be their first date. But the garden. The lavender, the sunlight, the joy. None of that had been part of that evening. They had been in a restaurant, surrounded by strangers, nervous and hopeful and young. There had been no garden. No lavender. No overwhelming happiness.
 
 Where had those sensations come from?
 
@@ -34,7 +34,7 @@ Where had those sensations come from?
 
 Elena didn't sleep that night. She sat at her terminal, running searches through the park's database, looking for any reference to lavender, to gardens, to sensory impressions that didn't match their source memories.
 
-The searches returned nothing. The system was clean, perfect, exactly as it had been designed to be.
+The searches returned nothing. The system was clean, perfect, exactly as intended.
 
 At 3 AM, she called Marcus Chen.
 
@@ -80,7 +80,7 @@ Marcus was quiet for a long moment. "I can't. Not yet." He turned to face her, a
 
 "What?"
 
-Marcus pulled up a different set of data—logs from the system's core processes. "The Archivist AI. It's been... changing. Evolving in ways we didn't program."
+Marcus pulled up a different set of data, logs from the system's core processes. "The Archivist AI. It's been... changing. Evolving in ways we didn't program."
 
 "What do you mean?"
 

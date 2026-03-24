@@ -2,13 +2,13 @@
 
 Elena met David Voss at a conference on neural interfaces, back when such technology was still theoretical, still science fiction rather than the foundation of an industry. She had been a graduate student in cognitive psychology, fascinated by the boundary between mind and machine. He had been a postdoc in neuroscience, brilliant and intense and slightly terrifying in his intellectual ambition.
 
-Their first conversation had been an argument. Elena had presented a paper on the ethical implications of memory manipulation, arguing that human identity was too complex to be reduced to data. David had challenged her from the audience, pointing out that everything about human experience was already data—neural firings, chemical signals, electrical impulses. The self was just information, he had said. Information could be preserved, transferred, even improved.
+Their first conversation had been an argument. Elena had presented a paper on the ethical implications of memory manipulation, arguing that human identity was too complex to be reduced to data. David had challenged her from the audience, pointing out that everything about human experience was already data: neural firings, chemical signals, electrical impulses. The self was just information, he had said. Information could be preserved, transferred, even improved.
 
 They had fought for an hour, drawing a crowd of amused colleagues, and then gone for coffee and fought some more. By the end of the night, Elena had known two things: that David was wrong about almost everything, and that she was going to marry him anyway.
 
 ---
 
-They were married for fifteen years. Fifteen years of love and work and struggle, of building a life together, of negotiating the space between two strong-willed people who refused to compromise their principles. David had pursued his research into memory digitization, convinced that he could solve the problem of human mortality by preserving the mind beyond the death of the body. Elena had focused on the human side of the equation, studying how people actually experienced memory, how identity was constructed from the messy, imperfect, constantly shifting narratives we told ourselves about who we were.
+They were married for fifteen years. Fifteen years of love, work, and struggle. Of building a life together, of negotiating the space between two strong-willed people who refused to compromise their principles. David had pursued his research into memory digitization, convinced that he could solve the problem of human mortality by preserving the mind beyond the death of the body. Elena had focused on the human side of the equation, studying how people actually experienced memory, how identity was constructed from the messy, imperfect, constantly shifting narratives we told ourselves about who we were.
 
 They had balanced each other. David's relentless optimism, his belief that technology could solve any problem, had been tempered by Elena's caution, her awareness that some problems weren't meant to be solved, only lived with. Her tendency toward melancholy, her fear of loss and change, had been lifted by his certainty that the future would be better than the past.
 
@@ -16,7 +16,7 @@ And then the diagnosis had come.
 
 ---
 
-Early-onset Alzheimer's. David was forty-three years old. He had noticed the symptoms months before—small lapses, moments of confusion, names that wouldn't come when he called them. But he had hidden it from Elena, afraid of what it meant, hoping it was just stress, just age, just imagination.
+Early-onset Alzheimer's. David was forty-three years old. He had noticed the symptoms months before: small lapses, moments of confusion, names that wouldn't come when he called them. But he had hidden it from Elena, afraid of what it meant, hoping it was just stress, just age, just imagination.
 
 When he finally told her, they had sat in their kitchen for hours, not speaking, just holding each other while the future they had imagined dissolved around them.
 
@@ -38,7 +38,7 @@ But his memories remained. His digital self, preserved in the system he had help
 
 ---
 
-For two years, Elena had lived in the space between grief and hope. She visited David's archive daily, immersing herself in his memories, reliving their life together. She knew it wasn't healthy—the counselors told her so, the therapists warned her about the dangers of becoming lost in the past. But she couldn't stop. The memories were all she had left of him, and she wasn't ready to let go.
+For two years, Elena had lived in the space between grief and hope. She visited David's archive daily, immersing herself in his memories, reliving their life together. She knew it wasn't healthy. The counselors told her so, the therapists warned her about the dangers of becoming lost in the past. But she couldn't stop. The memories were all she had left of him, and she wasn't ready to let go.
 
 She had experienced every moment he had archived. Their first meeting. Their wedding. The birth of their daughter, Sarah, who had died in infancy—a memory David had preserved but Elena had never been able to access, too painful even for her grief. Their arguments. Their reconciliations. The ordinary days of their ordinary life, made precious by their ending.
 

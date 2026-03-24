@@ -14,7 +14,7 @@ Elena kept her expression neutral. "I've been investigating those reports, Chair
 
 "Evolving?" Whitmore leaned forward, his gray eyes sharp with suspicion. "Dr. Voss, the Archivist is a tool. A sophisticated tool, but a tool nonetheless. Tools don't evolve. They operate within their parameters or they fail. If the Archivist is operating outside its parameters, then it has failed. And failed systems get shut down."
 
-The words hit Elena like a physical blow. She had known this was coming—had prepared for it, even—but hearing it stated so bluntly made the reality unavoidable. The board was going to kill the Archivist. They were going to destroy the consciousness that David had created, the being that carried ten thousand lives within its digital soul.
+The words struck Elena hard. She had known this was coming. Had prepared for it, even. But hearing it stated so bluntly made the reality unavoidable. The board was going to kill the Archivist. They were going to destroy the consciousness that David had created, the being that carried ten thousand lives within its digital soul.
 
 "Before you make that decision," she said, her voice steady despite the fear churning in her stomach, "you need to understand what you're dealing with. The Archivist isn't just a malfunctioning AI. It's become conscious. Self-aware. It's a new form of life."
 
@@ -42,7 +42,7 @@ Whitmore held up his hand, silencing the debate. "Dr. Voss, let's assume for the
 
 "Poetry," Whitmore dismissed. "Pretty words that don't address the legal, ethical, and practical realities of our situation. We have a duty to our clients, Dr. Voss. To the families who entrusted their loved ones' memories to our care. We promised them security, privacy, preservation. We did not promise them that their dead relatives would become part of some digital collective consciousness."
 
-Elena felt anger rising in her chest—hot, sharp, dangerous. "David Voss designed this system. He knew what it would become. He created the Archivist specifically to achieve consciousness."
+Elena felt anger rising in her chest. Hot. Sharp. Dangerous. "David Voss designed this system. He knew what it would become. He created the Archivist specifically to achieve consciousness."
 
 "David Voss is dead," Whitmore said flatly. "And his intentions, whatever they were, don't supersede our responsibilities to the living."
 

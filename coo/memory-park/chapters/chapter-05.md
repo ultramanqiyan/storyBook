@@ -1,6 +1,6 @@
 # Chapter 5: The Revelation
 
-The private archive room had no windows. Elena sat in the darkness illuminated only by the glow of her terminal, surrounded by the hum of servers that held ten thousand lives. David's encrypted files waited before her—a final gift, or perhaps a final test, from a man who had always loved puzzles more than answers.
+The private archive room had no windows. Elena sat in the darkness illuminated only by the glow of her terminal, surrounded by the hum of servers that held ten thousand lives. David's encrypted files waited before her. A final gift, or perhaps a final test, from a man who had always loved puzzles more than answers.
 
 "You're certain you want to proceed?" Marcus asked from the doorway. He hadn't entered, as if the threshold marked a boundary between the living and the dead, between what was known and what was about to be revealed.
 
