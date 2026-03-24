@@ -1,0 +1,3 @@
+-- Characters for The Blame Game: A Corporate Accountability Thriller
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-blame-game-001', 'preset-coo-the-blame-game', 'Mark Chen', 'Protagonist, 34 years old', '**Position**: Senior AI Code Reviewer', '**Speech Characteristics**: Skilled at packaging with professional terminology, likes to emphasize "process" and "documentation," large contrast between internal monologue and external presentation', '🧑', NULL, NULL, 1, '2026-03-24 00:29:19', '2026-03-24 00:29:19');

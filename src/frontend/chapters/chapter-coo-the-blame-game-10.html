@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter X: The Aftermath - Moving Forward - The Blame Game: A Corporate Accountability Thriller - StoryBook</title>
+  <meta name="description" content="Read The Aftermath - Moving Forward - The Blame Game: A Corporate Accountability Thriller">
+  <meta name="keywords" content="Mark Chen, AI, creativity, consciousness, human, work, future, justice">
+  <meta property="og:title" content="The Aftermath - Moving Forward - The Blame Game: A Corporate Accountability Thriller">
+  <meta property="og:description" content="Read The Aftermath - Moving Forward - The Blame Game: A Corporate Accountability Thriller">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-coo-the-blame-game-10?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-coo-the-blame-game-10?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/chapters/chapter-coo-the-blame-game-10">
+  <link rel="canonical" href="https://storybook-adventures.com/chapters/chapter-coo-the-blame-game-10">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The Aftermath - Moving Forward",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "The Blame Game: A Corporate Accountability Thriller",
+      "genre": "Business"
+    },
+    "position": 10,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 12px 10px;
+        padding-bottom: 15px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
+      }
+      
+      .drop-cap {
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
+      }
+    }
+  </style>
+</head>
+<body class="theme-business">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER X</div>
+    <div class="chapter-name">The Aftermath - Moving Forward</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">T</span>hree months later, Mark started a new job.  It wasn't as prestigious as NexTrade. The pay was lower. The benefits were worse. But it was a job.  He had been through seven interviews before he got an offer. Each time, the question came up.  <em>Can you tell me about your departure from NexTrade?</em>  Each time, he gave the same answer.  <em>There was an incident with the trading system. I was the code reviewer. I take responsibility for my role.</em>  Each time, he saw the same reaction—a pause, a nod, a careful "I see."  He knew what they were thinking. <em>This guy caused an $87 million loss. Do we really want to hire him?</em>  But eventually, someone gave him a chance. A small company that needed his skills. A manager who had been through something similar himself.  "I know how these things work," the manager had said during the interview. "Sometimes you're just the person in the wrong place at the wrong time."  Mark had almost cried.  ---  One afternoon, Mark received an email from a former colleague at NexTrade.  <em>Subject: Update</em> <em>Mark,</em> <em>I thought you'd want to know. David left the company last month. He got a VP position at a bigger firm.</em> <em>Best,</em> <em>Tom</em>  Mark stared at the email. David had left. David had gotten a promotion.  He thought about David's notebook. The careful documentation. The "for the record" questions. The friendly conversations that were actually evidence collection.  David had played the game well. And he had been rewarded.  Mark typed a response.  <em>Tom,</em> <em>Thanks for the update. I'm not surprised. David always knew how to protect himself.</em> <em>Best,</em> <em>Mark</em>  He hit send and closed his laptop.  ---  A few days later, he saw a news article about NexTrade.  <em>Trading System Company Implements New AI Oversight Protocols</em>  He clicked on it.  <em>NexTrade Technologies has announced new protocols for AI-generated code review. The changes come three months after an $87 million trading loss that resulted in the termination of a senior employee.</em>  <em>The new protocols include:</em> <em>- Mandatory line-by-line code review for all AI-generated code</em> <em>- Additional testing requirements for edge cases</em> <em>- Independent oversight of the review process</em>  <em>"We've learned from this incident," said CEO Robert Martinez. "We're committed to ensuring it never happens again."</em>  Mark stared at the article.  <em>Mandatory line-by-line code review.</em> That was what he had asked for. That was what he had been told wasn't necessary.  <em>Additional testing requirements for edge cases.</em> That was what Sarah had warned about. That was what he had failed to follow up on.  <em>Independent oversight of the review process.</em> That was what the process had lacked. That was what had allowed him to become the answer.  They had learned. They had changed. But it was too late for him.  ---  That night, Mark sat with his wife on the couch.  Their daughter was doing homework at the kitchen table. The house was warm and full of life.  "I saw an article about NexTrade today," Mark said. "They've changed their review process."  His wife looked at him. "How do you feel about that?"  Mark thought about the question. How did he feel?  "Vindicated, I guess," he said. "They're doing what I suggested. What I was told wasn't necessary."  "That must be frustrating."  "It is." Mark paused. "But it also proves something."  "What?"  "That I was right. The process was flawed. I tried to warn them. But I was the one who paid for it."  His wife nodded. "Do you regret anything?"  Mark thought about the question. Did he regret anything?  He regretted not following up on Sarah's warning. He regretted not documenting his concerns more thoroughly. He regretted trusting that the process would protect him.  But he also knew that he had done his best. He had raised concerns. He had followed the process that was approved. He had never intended for the incident to happen.  "I regret that I was the answer," he said. "But I don't regret trying to do my job."  ---  A few weeks later, Mark received a message on LinkedIn.  It was from Sarah Kim.  <em>Mark,</em> <em>I hope you're doing well. I wanted to reach out because I've been thinking about what happened.</em> <em>I've been offered a promotion at NexTrade. They want me to lead the new code review team.</em> <em>I wanted to ask your advice. Should I take it?</em> <em>Best,</em> <em>Sarah</em>  Mark stared at the message. Sarah was being offered his job. Or rather, an expanded version of his job.  He thought about what to say. He could be bitter. He could warn her. He could tell her to run.  But he also knew that Sarah was talented. That she had tried to help. That she had been caught in the same system that had caught him.  He typed a response.  <em>Sarah,</em> <em>Congratulations on the offer. You deserve it.</em> <em>My advice: document everything. Every concern. Every warning. Every conversation. Protect yourself.</em> <em>The system will use you until it doesn't need you anymore. Make sure you have a paper trail.</em> <em>Best,</em> <em>Mark</em>  He hit send before he could second-guess himself.  A few minutes later, Sarah responded.  <em>Mark,</em> <em>Thank you. I'll take your advice to heart.</em> <em>I'm sorry about what happened to you. It wasn't fair.</em> <em>Best,</em> <em>Sarah</em>  Mark closed LinkedIn and sat back in his chair.  <em>It wasn't fair.</em>  No, it wasn't. But it was how the system worked.  ---  A year later, Mark was still at his new job.  It wasn't glamorous. It wasn't prestigious. But it was honest work.  He had stopped following news about NexTrade. He had stopped thinking about David, about Jennifer, about the process that had consumed him.  But sometimes, late at night, he would think about the question that had haunted him since the beginning.  <em>Who was responsible?</em>  The answer, he knew, was complicated.  He was responsible—for not following up on warnings, for not documenting concerns, for not being more thorough.  But so was David—for dismissing concerns, for documenting every conversation, for protecting himself at Mark's expense.  So was the company—for approving a flawed process, for relying too heavily on AI, for finding a scapegoat instead of fixing the system.  So was the system itself—for being designed to protect the organization at the expense of the individual.  <em>Someone has to pay. That's how it works.</em>  Mark had been the answer. But he wasn't the only one responsible.  He was just the one who paid.  ---  One evening, Mark sat with his daughter as she drew a picture.  "What are you drawing?" he asked.  "A picture of you at your new job," she said.  She held up the paper. There was a stick figure at a desk, with a computer and a coffee cup.  Above it, she had written: "My Daddy helps computers work."  Mark felt a lump in his throat.  "That's beautiful," he said. "Thank you."  His daughter smiled and went back to drawing.  Mark looked at the picture. It was simple. It was honest. It was real.  He had lost his job. He had been the answer. He had paid the price.  But he was still here. Still working. Still a father.  The system had taken his job. But it hadn't taken his life.  And maybe that was enough.  ---  <em>The Blame Game continues.</em>  <em>At companies across the world, people are being held responsible for failures that are not entirely their own. They are being documented, investigated, and terminated.</em>  <em>The system protects itself. The individual pays the price.</em>  <em>And the game goes on.</em>  <em>Who will be the next answer?</em></p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">— To Be Continued —</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-coo-the-blame-game-09" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-coo-the-blame-game">The Blame Game: A Corporate Accountability Thriller</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 5  of 5
+    </div>
+    <span class="scroll-nav-btn" style="opacity: 0.5; cursor: default;">The End</span>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-business';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+      
+      initMobileNavigation();
+    });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('Next') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('Previous') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
+  </script>
+</body>
+</html>
