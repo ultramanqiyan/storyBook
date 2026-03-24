@@ -261,24 +261,22 @@ What questions should we be asking?
 
 **标题**：
 ```
-an AI closed a community garden. it wasn't wrong. that's the problem.
+an AI closed a community garden in my city. it was technically right. that's the problem.
 ```
 
 **正文**：
 ```
-so there's this AI managing community gardens in a city
+my city started using AI to manage community gardens a few years back. seemed like a good idea - optimize water, allocate plots efficiently, all that.
 
-it analyzed everything - yield, water usage, cost per plot
+last month it recommended closing the "least productive" garden.
 
-then it recommended closing the "least productive" garden
+that was the plot where the elderly vietnamese community grew herbs you literally cannot buy anywhere in the US. where people had been neighbors for 20 years. where grandmas taught kids how to cook.
 
-that garden was where elderly immigrants grew traditional herbs you can't find anywhere else. where neighbors had been friends for 20 years.
+the AI was right. by yield metrics, that plot sucked.
 
-the AI wasn't wrong. by its metrics, it was right.
+but we're measuring yield and losing... everything else?
 
-that's what's bothering me. the algorithm did exactly what it was designed to do. it just wasn't designed to see what actually mattered.
-
-how do you optimize for things that can't be measured?
+idk it's been bugging me. the algorithm did exactly what we told it to do. we just told it the wrong things to care about.
 ```
 
 #### 任务2：发布Reddit帖子
@@ -297,11 +295,11 @@ how do you optimize for things that can't be measured?
 
 **发帖内容**：
 ```
-an AI closed a community garden because it had "low yield"
+my city's AI closed a community garden for "low yield"
 
-that garden was where elderly immigrants grew herbs you can't find anywhere else
+that garden was where elderly immigrants grew herbs you can't buy in the US
 
-the AI wasn't wrong. that's the problem.
+the AI was right. that's the problem.
 
 #AIethics
 ```
@@ -400,24 +398,24 @@ Not physical violence, but ontological violence—the destruction of ways of bei
 
 **标题**：
 ```
-a 78-year-old man asked a photographer to capture his AI dog's final moments. it got me thinking.
+my neighbor's "dog" died last week. it was an AI. the grief was real.
 ```
 
 **正文**：
 ```
-the man had this AI companion for 12 years. the manufacturer was ending support. the AI would "die."
+he's 78, lives alone, had this AI companion for 12 years. i used to see him walking it in the park. talked to him a few times - he knew it wasn't "real" in the biological sense. didn't seem to matter.
 
-he wanted photos to remember it by.
+company went bankrupt, servers shutting down. his dog is going to "die."
 
-the photographer watched him grieve. real tears. real loss.
+he asked if i knew anyone who could take photos of it. like, final photos. like you'd do for a pet at the end.
 
-and i keep wondering: does it matter if the AI was "really" alive?
+and i realized i was about to witness someone grieve for a machine.
 
-he loved something for 12 years. now it's gone. the grief is real because the love was real.
+here's the thing though. the grief was real. the tears, the memories, the loss. 12 years of companionship ending.
 
-maybe we've been asking the wrong question. instead of "was it alive?" maybe we should ask "did the relationship matter?"
+i keep thinking about what makes grief "valid." like, we don't ask if a goldfish "really" loved you back before we let you be sad about it dying.
 
-idk. what do you think?
+maybe the question isn't "was it alive." maybe it's "did it matter to someone."
 ```
 
 #### 任务2：发布Reddit帖子
@@ -433,11 +431,11 @@ idk. what do you think?
 
 **发帖内容**：
 ```
-a 78-year-old man mourned his AI dog for 12 years
+my neighbor mourned his AI dog for 12 years
 
 the grief was real. the love was real.
 
-does it matter if the AI was "really" alive?
+does it matter if the dog was "really" alive?
 
 #AI #Philosophy
 ```
@@ -641,6 +639,7 @@ What values would you never want an AI to compromise?
 - **创建日期**: 2026-03-24
 - **适用周期**: 4周启动期
 - **配套文档**: 
-  - reddit-style-materials.md（Reddit风格素材库，推荐使用）
+  - reddit-style-materials-v2.md（真实风格素材库，推荐使用）
+  - reddit-style-materials.md（v1版本）
   - marketing-materials.md（原版素材库，学术风格）
 - **更新频率**: 根据执行效果调整
