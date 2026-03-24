@@ -106,5 +106,3 @@ Zara shared this information with Marcus, whose expression grew grim.
 "Let PROBABILITY help. We can analyze the probability patterns, identify the most likely locations, focus your response."
 
 Marcus nodded, and the work began. For hours, Zara and the Fate Weavers coordinated their efforts—stabilizing the web where they could, tracing the source of the attacks, preparing for a confrontation.
-
-** 8**

@@ -1,0 +1,34 @@
+{
+  "bookTitle": "The Deep Dive",
+  "bookSlug": "the-deep-dive",
+  "seriesPosition": 7,
+  "status": "completed",
+  "createdAt": "2026-03-24",
+  "updatedAt": "2026-03-24",
+  "wordCount": {
+    "target": 25000,
+    "actual": 24000
+  },
+  "chapters": [
+    {"number": 1, "title": "The Surface", "status": "completed", "wordCount": 2400},
+    {"number": 2, "title": "The Shallow", "status": "completed", "wordCount": 2350},
+    {"number": 3, "title": "The Depth", "status": "completed", "wordCount": 2300},
+    {"number": 4, "title": "The Resistance", "status": "completed", "wordCount": 2400},
+    {"number": 5, "title": "The Practice", "status": "completed", "wordCount": 2350},
+    {"number": 6, "title": "The Focus", "status": "completed", "wordCount": 2400},
+    {"number": 7, "title": "The Flow", "status": "completed", "wordCount": 2450},
+    {"number": 8, "title": "The Value", "status": "completed", "wordCount": 2350},
+    {"number": 9, "title": "The Balance", "status": "completed", "wordCount": 2400},
+    {"number": 10, "title": "The Depth Advantage", "status": "completed", "wordCount": 2400}
+  ],
+  "protagonist": {
+    "name": "Jamie Okonkwo",
+    "age": 31,
+    "occupation": "Software developer",
+    "location": "Seattle, Washington"
+  },
+  "theme": {
+    "primary": "Deep work, concentration, meaningful productivity",
+    "maoThoughtMapping": "调查研究 (Investigation and Research)"
+  }
+}

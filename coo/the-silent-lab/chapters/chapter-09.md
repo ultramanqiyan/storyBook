@@ -49,5 +49,3 @@ Elena considered the question. She thought about the pandemic, the impossible ch
 David nodded slowly. "And if the next crisis comes? If we need to make impossible choices again?"
 
 "Then we'll make them together. As a species. With all the wisdom we've gained, and all the humility we've learned." Elena turned away from the memorial, facing the future. "That's the only way forward. Together."
-
-** 9**

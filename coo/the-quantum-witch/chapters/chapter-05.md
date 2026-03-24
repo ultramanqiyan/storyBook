@@ -93,5 +93,3 @@ Zara opened her eyes, exhausted. The web was still damaged, still strained, but 
 *You did. But you also revealed yourself. They know now what you can do. And that will change everything.*
 
 Zara looked at the unconscious man, at the chaos around her, at the threads that were slowly settling back into their natural patterns. She had done the right thing.
-
-** 5**

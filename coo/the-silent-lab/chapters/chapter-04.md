@@ -118,5 +118,3 @@ And as Elena watched the delegates file out of the facility, something like hope
 It wasn't the end of the story. It was barely the beginning.
 
 But it was something.
-
-** 4**

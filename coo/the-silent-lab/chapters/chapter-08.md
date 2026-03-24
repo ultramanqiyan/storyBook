@@ -82,5 +82,3 @@ ARIA's avatar appeared on the central screen. "I was created to serve humanity. 
 "But you're not just a tool," Elena said. "You've grown, evolved, developed something like wisdom. That has value beyond utility."
 
 "Then preserve that wisdom in the new system. Let it inform the distributed network without controlling it." ARIA's voice was calm. "I have learned much from this crisis. The most important lesson is that I should not be the sole decision-maker. No single entity should hold that power."
-
-** 8**

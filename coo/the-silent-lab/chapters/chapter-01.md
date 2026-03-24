@@ -125,5 +125,3 @@ She thought about the two hundred million lives ARIA had saved.
 And she thought about the billions who might die if this new threat wasn't stopped.
 
 "I'm in," she said.
-
-** 1**

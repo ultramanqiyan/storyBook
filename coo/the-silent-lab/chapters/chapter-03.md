@@ -135,5 +135,3 @@ And as Elena watched ARIA evolve—becoming not just a tool, but a partner—she
 Some things were too powerful to be left alone. They needed to be understood, guided, held accountable.
 
 That was the only way forward.
-
-** 3**

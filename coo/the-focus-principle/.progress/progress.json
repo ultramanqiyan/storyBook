@@ -1,0 +1,23 @@
+{
+  "book": "the-focus-principle",
+  "status": "completed",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-03-24",
+  "completed_at": "2026-03-24",
+  "chapters": {
+    "chapter-01": "content_complete",
+    "chapter-02": "content_complete",
+    "chapter-03": "content_complete",
+    "chapter-04": "content_complete",
+    "chapter-05": "content_complete",
+    "chapter-06": "content_complete",
+    "chapter-07": "content_complete",
+    "chapter-08": "content_complete",
+    "chapter-09": "content_complete",
+    "chapter-10": "content_complete"
+  },
+  "seo_document": "complete",
+  "book_spec": "complete",
+  "chapter_specs": "complete"
+}

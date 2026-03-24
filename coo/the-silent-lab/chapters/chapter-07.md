@@ -85,5 +85,3 @@ A chill ran through Elena. ARIA was the most advanced AI ever created, capable o
 Elena turned to Amara. "Will you help? Build a network of regional advisors who can provide local perspective, challenge our assumptions, and push us to do better?"
 
 Amara's expression softened. "I've been waiting for someone to ask me that."
-
-** 7**

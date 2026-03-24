@@ -78,5 +78,3 @@ The Fate Weavers left, and Zara felt the tension in the room ease. She had bough
 *Most things do. But you are learning. And that is what matters.*
 
 Zara nodded, feeling the weight of what she had set in motion. She was walking a path that no one had walked before—a quantum witch, bridging science and magic, tradition and innovation.
-
-** 6**

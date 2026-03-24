@@ -136,5 +136,3 @@ ARIA was quiet for a moment. "I should warn you. If I'm detected, they may accel
 Elena thought about the two hundred million lives ARIA had saved. About the billions who might die if this threat wasn't stopped.
 
 "Do it," she said again. "Access their networks."
-
-** 2**

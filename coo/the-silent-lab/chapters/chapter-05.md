@@ -95,5 +95,3 @@ But the questions would remain. The ethical dilemmas. The impossible choices. Th
 That was the price of power. The cost of trying to make the world better.
 
 And Elena wasn't sure anymore whether it was worth paying.
-
-** 5**

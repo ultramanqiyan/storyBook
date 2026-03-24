@@ -1,0 +1,23 @@
+{
+  "book": "the-action-antidote",
+  "status": "completed",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-03-23",
+  "specs_completed_at": "2026-03-23",
+  "content_completed_at": "2026-03-23",
+  "chapters": {
+    "chapter-01": "content_complete",
+    "chapter-02": "content_complete",
+    "chapter-03": "content_complete",
+    "chapter-04": "content_complete",
+    "chapter-05": "content_complete",
+    "chapter-06": "content_complete",
+    "chapter-07": "content_complete",
+    "chapter-08": "content_complete",
+    "chapter-09": "content_complete",
+    "chapter-10": "content_complete"
+  },
+  "seo_document": "complete",
+  "quality_verification": "pending"
+}

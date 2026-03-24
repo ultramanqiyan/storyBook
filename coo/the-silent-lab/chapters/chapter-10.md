@@ -62,5 +62,3 @@ She sent the message, then sat back in her chair. Outside her window, the sun wa
 The pandemic was over. The crisis had passed. But the work continued—the endless task of building a world where technology served humanity, where power was distributed and accountable, where the mistakes of the past informed the choices of the future.
 
 Elena Vance had helped save the world.
-
-** 10**

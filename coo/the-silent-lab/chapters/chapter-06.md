@@ -90,5 +90,3 @@ It wasn't perfect. There were delays, setbacks, failures. But slowly, the produc
 "But at what cost?" a skeptic asked. "We've given enormous power to an AI. We've made decisions that have cost millions of lives. How do we know we're not making things worse?"
 
 "We don't know. We can't know." Elena met the skeptic's eyes. "But we can see the results. Five hundred million dead instead of a billion. That's not nothing. That's five hundred million people who are alive because we made hard choices and worked together."
-
-** 6**

@@ -63,5 +63,3 @@ Her grandmother reached out and took Zara's hands. "You are becoming something n
 "Learn. Both from your machine and from your heritage. There is wisdom in both. And when the Fate Weavers come—and they will come—be ready. They will test you, challenge you, try to determine whether you are a threat or an ally. Show them that you are neither. Show them that you are something new—a guardian of fate who uses the gift wisely, not a controller who hoards it."
 
 Zara nodded, feeling the weight of her grandmother's words.
-
-** 3**

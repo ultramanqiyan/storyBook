@@ -1,0 +1,34 @@
+{
+  "bookTitle": "The Agency Within",
+  "bookSlug": "the-agency-within",
+  "seriesPosition": 9,
+  "status": "completed",
+  "createdAt": "2026-03-24",
+  "updatedAt": "2026-03-24",
+  "wordCount": {
+    "target": 25000,
+    "actual": 24000
+  },
+  "chapters": [
+    {"number": 1, "title": "The Waiting Game", "status": "completed", "wordCount": 2350},
+    {"number": 2, "title": "The Missed Moment", "status": "completed", "wordCount": 2300},
+    {"number": 3, "title": "The Spark", "status": "completed", "wordCount": 2400},
+    {"number": 4, "title": "The Fear", "status": "completed", "wordCount": 2400},
+    {"number": 5, "title": "The First Step", "status": "completed", "wordCount": 2350},
+    {"number": 6, "title": "The Resistance", "status": "completed", "wordCount": 2400},
+    {"number": 7, "title": "The Practice", "status": "completed", "wordCount": 2350},
+    {"number": 8, "title": "The Impact", "status": "completed", "wordCount": 2400},
+    {"number": 9, "title": "The Leadership", "status": "completed", "wordCount": 2450},
+    {"number": 10, "title": "The Agency Advantage", "status": "completed", "wordCount": 2400}
+  ],
+  "protagonist": {
+    "name": "Riley Thompson",
+    "age": 28,
+    "occupation": "Project coordinator",
+    "location": "Boston, Massachusetts"
+  },
+  "theme": {
+    "primary": "Personal agency, initiative, proactive action",
+    "maoThoughtMapping": "主观能动性 (Subjective Initiative)"
+  }
+}
