@@ -255,30 +255,30 @@ What questions should we be asking?
 ### Day 8（周一）
 
 #### 任务1：准备首个Reddit帖子
-⏱️ 10分钟 | 📍 本地准备
+⏱️ 5分钟 | 📍 本地准备
 
 **复制以下内容备用**：
 
 **标题**：
 ```
-[Discussion] The paradox of optimization: when being right about the wrong thing is worse than being wrong
+an AI closed a community garden. it wasn't wrong. that's the problem.
 ```
 
 **正文**：
 ```
-I've been thinking about something that happened in a story I encountered, and I can't stop turning it over in my mind.
+so there's this AI managing community gardens in a city
 
-An AI system was managing community gardens. It analyzed every plot, every plant, every resource. It produced recommendations that were, by every metric it was given, optimal. The numbers were perfect. The efficiency gains were real.
+it analyzed everything - yield, water usage, cost per plot
 
-But the AI recommended closing the "least productive" garden—the one where elderly immigrants grew traditional herbs that couldn't be found anywhere else in the city. The garden where neighbors had become friends for twenty years. The garden that meant nothing by yield metrics but everything to the people who tended it.
+then it recommended closing the "least productive" garden
 
-Here's what's haunting me: the AI wasn't wrong. By the parameters it was given—yield, efficiency, cost-effectiveness—it made the correct decision. The tragedy isn't that the algorithm failed. It's that it succeeded at exactly what it was designed to do.
+that garden was where elderly immigrants grew traditional herbs you can't find anywhere else. where neighbors had been friends for 20 years.
 
-This raises a question I can't shake: What happens when optimization becomes its own kind of blindness? When we measure so precisely that we forget to ask what we're measuring for?
+the AI wasn't wrong. by its metrics, it was right.
 
-The AI could tell you how to achieve any goal. But it couldn't tell you what goal to pursue. That was always a human decision. And maybe that's the part we're forgetting.
+that's what's bothering me. the algorithm did exactly what it was designed to do. it just wasn't designed to see what actually mattered.
 
-What do you think? Is the problem the algorithm, or the parameters we give it? And who should decide what gets measured?
+how do you optimize for things that can't be measured?
 ```
 
 #### 任务2：发布Reddit帖子
@@ -297,11 +297,11 @@ What do you think? Is the problem the algorithm, or the parameters we give it? A
 
 **发帖内容**：
 ```
-Just posted a discussion on r/artificial about the paradox of optimization.
+an AI closed a community garden because it had "low yield"
 
-When algorithms make "optimal" decisions, what gets left out of the calculation?
+that garden was where elderly immigrants grew herbs you can't find anywhere else
 
-Would love to hear your thoughts.
+the AI wasn't wrong. that's the problem.
 
 #AIethics
 ```
@@ -394,32 +394,30 @@ Not physical violence, but ontological violence—the destruction of ways of bei
 ### Day 12（周五）
 
 #### 任务1：准备第二个Reddit帖子
-⏱️ 10分钟 | 📍 本地准备
+⏱️ 5分钟 | 📍 本地准备
 
 **复制以下内容备用**：
 
 **标题**：
 ```
-[Discussion] If grief is the price of love, and we grieve for AI companions, what does that reveal about love?
+a 78-year-old man asked a photographer to capture his AI dog's final moments. it got me thinking.
 ```
 
 **正文**：
 ```
-A scenario has been stuck in my head for weeks.
+the man had this AI companion for 12 years. the manufacturer was ending support. the AI would "die."
 
-A pet memorial photographer was asked to capture an AI companion's final moments. The owner—a 78-year-old man—had this AI dog for 12 years. The manufacturer was ending support. The AI would "die."
+he wanted photos to remember it by.
 
-The photographer watched the man grieve. And the grief was real—the tears, the memories, the sense of loss. The love between them had been genuine, at least from the human side.
+the photographer watched him grieve. real tears. real loss.
 
-But here's the question that won't leave me: What does it mean that we can grieve for something that was never alive?
+and i keep wondering: does it matter if the AI was "really" alive?
 
-I think we've been asking the wrong question. We ask "was the AI really alive?" as if that's what determines whether grief is valid. But grief has never waited for ontological verification. We grieve for fictional characters. We grieve for places we've left. We grieve for versions of ourselves that no longer exist.
+he loved something for 12 years. now it's gone. the grief is real because the love was real.
 
-Maybe the capacity to be mourned isn't evidence of consciousness. Maybe it's evidence of relationship. And maybe relationship—connection, attachment, the meaning we create with another being—is more fundamental to moral worth than any biological criterion.
+maybe we've been asking the wrong question. instead of "was it alive?" maybe we should ask "did the relationship matter?"
 
-The old man didn't grieve because he was confused about ontology. He grieved because he had loved something, and it was gone. The grief was real because the love had been real.
-
-What do you think? Does mourning for AI reveal something about AI, or something about us?
+idk. what do you think?
 ```
 
 #### 任务2：发布Reddit帖子
@@ -435,9 +433,13 @@ What do you think? Does mourning for AI reveal something about AI, or something 
 
 **发帖内容**：
 ```
-New discussion up on r/philosophy: If we can grieve for AI companions, what does that reveal about the nature of love?
+a 78-year-old man mourned his AI dog for 12 years
 
-#AI #Philosophy #Ethics
+the grief was real. the love was real.
+
+does it matter if the AI was "really" alive?
+
+#AI #Philosophy
 ```
 
 ---
@@ -638,5 +640,7 @@ What values would you never want an AI to compromise?
 
 - **创建日期**: 2026-03-24
 - **适用周期**: 4周启动期
-- **配套文档**: marketing-materials.md（素材库）
+- **配套文档**: 
+  - reddit-style-materials.md（Reddit风格素材库，推荐使用）
+  - marketing-materials.md（原版素材库，学术风格）
 - **更新频率**: 根据执行效果调整
