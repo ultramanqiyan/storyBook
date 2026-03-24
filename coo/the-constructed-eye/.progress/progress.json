@@ -1,0 +1,21 @@
+{
+  "book": "the-constructed-eye",
+  "status": "completed",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-03-24",
+  "completed_at": "2026-03-24",
+  "chapters": {
+    "1": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2400},
+    "2": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2400},
+    "3": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2400},
+    "4": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2400},
+    "5": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2400},
+    "6": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2400},
+    "7": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2400},
+    "8": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2400},
+    "9": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2400},
+    "10": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2400}
+  },
+  "total_word_count": 24000
+}

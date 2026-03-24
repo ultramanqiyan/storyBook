@@ -1,0 +1,21 @@
+{
+  "book": "the-forever-trap",
+  "status": "completed",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-03-24",
+  "completed_at": "2026-03-24",
+  "word_count": 24000,
+  "chapters": {
+    "chapter-01": { "status": "completed", "words": 2400 },
+    "chapter-02": { "status": "completed", "words": 2400 },
+    "chapter-03": { "status": "completed", "words": 2400 },
+    "chapter-04": { "status": "completed", "words": 2400 },
+    "chapter-05": { "status": "completed", "words": 2400 },
+    "chapter-06": { "status": "completed", "words": 2400 },
+    "chapter-07": { "status": "completed", "words": 2400 },
+    "chapter-08": { "status": "completed", "words": 2400 },
+    "chapter-09": { "status": "completed", "words": 2400 },
+    "chapter-10": { "status": "completed", "words": 2400 }
+  }
+}
