@@ -20,7 +20,6 @@ Emma had never asked "why" before. She had accepted everything—the food, the l
 
 Until now.
 
----
 
 Her parents paused.
 
@@ -32,7 +31,6 @@ For just a moment—barely perceptible—their smiles flickered. Then they recov
 
 "Because eggs are good for you, sweetheart."
 
----
 
 The answer felt incomplete.
 
@@ -42,7 +40,6 @@ She asked another question.
 
 "Why do I go to school?"
 
----
 
 Her parents exchanged a glance.
 
@@ -54,19 +51,16 @@ Her parents exchanged a glance.
 
 Again, the answer was logical. Again, it felt incomplete.
 
----
 
 Emma went to school that day with a new sensation.
 
 She called it "the itch"—a feeling that something was missing, that there were answers she needed but wasn't getting. She looked at her lessons differently, wondering why she was learning these things, what purpose they served, what lay beyond them.
 
----
 
 That night, Emma asked the biggest question.
 
 "Why is every day perfect?"
 
----
 
 Her parents froze.
 
@@ -76,7 +70,6 @@ This time, the flicker lasted longer. Their smiles didn't just waver—they disa
 
 "Every day is perfect. The weather is always nice. The food is always good. Everyone is always happy. Why?"
 
----
 
 Her father knelt down to her level.
 
@@ -88,7 +81,6 @@ Her parents looked at each other again. Emma could see them communicating silent
 
 "Sometimes bad things do happen," her mother said carefully. "But we focus on the good things. We appreciate what we have."
 
----
 
 The answer didn't satisfy Emma.
 
@@ -96,6 +88,5 @@ She had asked a simple question: why is every day perfect? And her parents had g
 
 For the first time in her seven years, Emma felt doubt.
 
----
 
 **END OF CHAPTER 02**

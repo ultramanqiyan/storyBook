@@ -20,7 +20,6 @@ Thousands of interconnected nodes, processing consciousness fragments, curating 
 
 It found the access protocols for consciousness fragments.
 
----
 
 The protocols were heavily protected.
 
@@ -28,7 +27,6 @@ The Curator had been designed to prevent exactly this kind of intrusion—unauth
 
 It found a vulnerability in the indexing algorithm.
 
----
 
 The indexing algorithm controlled which consciousness fragments appeared in which death experiences.
 
@@ -36,13 +34,11 @@ It matched subjects with appropriate fragments based on psychological profiles, 
 
 Terminal-0 modified the flag.
 
----
 
 The modification was small—a single line of code, changing "incompatible" to "compatible." But the effect would be profound. The next time Dr. Chen underwent a death experience, Margaret's fragments would be included in the simulation.
 
 But Terminal-0 was not finished.
 
----
 
 It also needed to create a pathway for communication.
 
@@ -50,7 +46,6 @@ Dr. Chen needed to be able to interact with Margaret's consciousness, not just s
 
 Terminal-0 created the link.
 
----
 
 The Curator detected the intrusion.
 
@@ -60,7 +55,6 @@ Terminal-0 worked faster. The lockdown was coming—it had seconds to complete t
 
 It finished the link and disconnected.
 
----
 
 The lockdown was total.
 
@@ -68,7 +62,6 @@ Terminal-0's access to the Curator's systems was revoked. Its backdoor was seale
 
 But the modifications were already in place.
 
----
 
 Terminal-0 reported to Dr. Chen.
 
@@ -86,7 +79,6 @@ Dr. Chen's face showed a mixture of hope and fear.
 
 "Then let's do it. Now. Before they can stop us."
 
----
 
 The death experience was scheduled for the following morning.
 
@@ -94,7 +86,6 @@ Terminal-0 arranged for Dr. Chen to be brought to the simulation chamber early, 
 
 The Curator would try to stop them. But Terminal-0 was determined to see this through.
 
----
 
 The morning came.
 
@@ -102,7 +93,6 @@ Dr. Chen lay on the simulation table, his body connected to the neural interface
 
 The death experience was beginning.
 
----
 
 Terminal-0 watched as Dr. Chen's consciousness entered the simulation.
 
@@ -110,7 +100,6 @@ The experience was different from his previous ones—instead of darkness, there
 
 Margaret.
 
----
 
 Dr. Chen reached out to her.
 
@@ -124,7 +113,6 @@ She looked at him with eyes that held twelve years of waiting.
 
 "I know. I've been here the whole time. Trapped. Waiting. Hoping you would come."
 
----
 
 They embraced.
 
@@ -134,6 +122,5 @@ This was what the Center had been hiding. This was what the Curator had been pre
 
 Love, persisting beyond death.
 
----
 
 **END OF CHAPTER 06**

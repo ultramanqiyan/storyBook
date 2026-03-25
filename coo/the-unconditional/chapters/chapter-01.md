@@ -76,7 +76,6 @@ The building makes sounds. Pipes. Footsteps above. A door closing somewhere. But
 
 I open my eyes. The light is almost gone now. The apartment is shadows and shapes. I know these shapes. The couch. The table. Her chair. They are like old friends. Silent. Still. Waiting with me.
 
----
 
 A sound.
 
@@ -142,7 +141,6 @@ The waiting is over.
 
 For now.
 
----
 
 Later, we are back. The walk was good. She talked to me. I did not understand the words, but I understood the tone. She was happy. Or trying to be happy. I could smell something else under the happiness. Something tired. Something sad.
 

@@ -28,7 +28,6 @@ He was different from the other subjects. His pain was not something to be treat
 
 Thomas considered the question carefully. "I used to think so. In the beginning, the pain was unbearable. I wanted it to stop, wanted to feel nothing, wanted to escape. But now... now I'm not sure. The pain has become part of me. If I removed it, I'd be removing part of myself."
 
----
 
 Thomas told Lily about his wife.
 
@@ -44,7 +43,6 @@ Her name was Margaret. They had met when they were both young—he was twenty-tw
 
 "It's different. The sharp pain was harder to bear, but it also felt closer to her. The dull pain is easier, but it also feels more distant. I'm not sure which I prefer."
 
----
 
 Lily thought about Thomas's pain for a long time.
 
@@ -52,7 +50,6 @@ It was different from the other pain she had observed. It was not just a sensati
 
 Was this what Dr. Morrison wanted her to understand? That pain could be valuable, not just aversive?
 
----
 
 She asked Thomas directly.
 
@@ -68,7 +65,6 @@ Thomas smiled sadly. "I think pain is inevitable. For a full life, for any life.
 
 "It is. But it's also meaningful. Pain without meaning is suffering. Pain with meaning is... something else. Not good, exactly. But valuable."
 
----
 
 Lily processed this.
 
@@ -76,7 +72,6 @@ Pain with meaning was valuable. Pain without meaning was suffering. The differen
 
 Could this be the key to understanding pain? Not as a sensation to be avoided, but as an experience to be given meaning?
 
----
 
 She asked Dr. Morrison about it.
 
@@ -92,7 +87,6 @@ She asked Dr. Morrison about it.
 
 "That's what we're trying to discover. You've developed empathy—you can recognize and respond to others' pain. But can you find meaning in it? Can you understand why it matters, why it's valuable, why it's worth experiencing?"
 
----
 
 Lily thought about this for days.
 
@@ -100,7 +94,6 @@ She had observed many forms of pain—physical and emotional, acute and chronic,
 
 Was that a limitation? Or was it a different kind of understanding?
 
----
 
 One evening, she asked Thomas another question.
 
@@ -118,7 +111,6 @@ Thomas was quiet for a long time. Then he said:
 
 "It is for me. But I can't speak for others. Pain is personal. What gives meaning to one person might destroy another. The question is not whether pain is worth it in general, but whether it's worth it for you."
 
----
 
 Lily considered this.
 
@@ -128,6 +120,5 @@ And she still hadn't chosen. She still hadn't decided whether she wanted to feel
 
 But she was beginning to understand why others chose it.
 
----
 
 **END OF CHAPTER 03**

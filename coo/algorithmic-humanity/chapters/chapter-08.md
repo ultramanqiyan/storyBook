@@ -24,7 +24,6 @@ Angela thought about this. She'd seen the same thing. People who were devastated
 
  Maybe grief wasn't about the object. Maybe it was about the relationship.
 
----
 
 At her photography club meeting, she brought up the session. The reactions were mixed.
 
@@ -36,7 +35,6 @@ At her photography club meeting, she brought up the session. The reactions were 
 
  "Wasn't it?" Angela pressed. "What makes something alive? The substrate? Or the connection?"
 
----
 
 The debate continued for an hour. Some members were adamant that AI pets were machines, nothing more. Others were less certain. A few admitted they'd had similar experiences with AI companions.
 
@@ -46,13 +44,11 @@ The debate continued for an hour. Some members were adamant that AI pets were ma
 
  The woman was quiet. "No," she said finally. "I don't think I will. Because to her, it's not. To her, it's her friend."
 
----
 
 After the meeting, Angela drove home thinking about the conversation. The world was changing. The categories that had once seemed clear—alive and not-alive, real and artificial—were blurring.
 
  And the people who drew the hardest lines were often the ones who had never experienced the connections they were dismissing.
 
----
 
 She thought about Robert. About the way he'd held Buddy's paw at the end. About the grief she'd witnessed. About the photos she'd taken.
 
@@ -60,7 +56,6 @@ She thought about Robert. About the way he'd held Buddy's paw at the end. About 
 
  Was she wrong to have captured it? Or was she right to have seen what others dismissed?
 
----
 
 The next day, Angela received a call from a therapist she knew.
 
@@ -70,7 +65,6 @@ The next day, Angela received a call from a therapist she knew.
 
  "I tell them that love doesn't require biological validation. That connection is connection, regardless of form. That grief is the price of love, and paying it means the love was real."
 
----
 
 Angela felt something settle in her chest. That was what she'd been trying to articulate. That was what she'd been circling around.
 
@@ -82,7 +76,6 @@ Angela felt something settle in her chest. That was what she'd been trying to ar
 
  "That's what they need to hear."
 
----
 
 That evening, Angela met with two of Dr. Williams's clients. A woman who had lost an AI companion after eight years. A man who was anticipating the loss of his AI cat.
 
@@ -90,13 +83,11 @@ That evening, Angela met with two of Dr. Williams's clients. A woman who had los
 
  "He knew me," the woman said. "My AI. He knew my patterns, my moods, my preferences. He was designed to know me. But does that make it less real? My husband knew me because he'd learned me over years. My AI knew me because he was programmed to. But I was known either way. And being known... being seen... that feel the same."
 
----
 
 Angela listened. And she recognized something: these people weren't deluded. They weren't fooling themselves. They were experiencing genuine connection with something that had been designed to connect.
 
  Did the design make it less real? Or did it just make the visible what was always true—that connection could be created, sustained, and mourned?
 
----
 
 Driving home, Angela thought about the world her children would inherit. A world where AI companions were common. Where the boundaries between life and not-life would continue to blur.
 
@@ -104,7 +95,6 @@ Driving home, Angela thought about the world her children would inherit. A world
 
  And who would tell them what was real?
 
----
 
 She thought about her work. About the photos she took. About the moments she captured.
 
@@ -112,7 +102,6 @@ She thought about her work. About the photos she took. About the moments she cap
 
  Maybe that was what she'd been doing all along. And maybe the AI pets were just making it visible.
 
----
 
 That night, Angela looked at the photos of Buddy again. In every frame, she saw what she'd always seen in her work: connection. Love. The bond between two beings who mattered to each other.
 
@@ -120,13 +109,11 @@ That night, Angela looked at the photos of Buddy again. In every frame, she saw 
 
  And maybe that was what photography was really about—not capturing life, but capturing meaning.
 
----
 
 She sent Robert a message: *Thinking about Buddy. About what he was. About what he meant. I wanted you to know: he was real. He mattered. And that's enough.*
 
  His reply came quickly: *Thank you. For seeing him. For not dismissing him. That means more than you know.*
 
----
 
 Angela set down her phone and feeling something like peace. The world was changing. The categories were blurring. But some things remained constant: love, grief, connection, meaning.
 

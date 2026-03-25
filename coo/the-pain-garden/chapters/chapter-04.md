@@ -54,7 +54,6 @@ Thomas nodded slowly. "And how do you feel about that?"
 
 "It's neither good nor bad. It just is. Pain is part of life. Most people don't get to choose whether to feel it. You have a choice. That's rare."
 
----
 
 Lily also talked to Emma.
 
@@ -76,7 +75,6 @@ Emma was quiet for a moment. Then she said: "Pain is hard. But it's also... inte
 
 "Even then. The hurt is part of being alive. If I couldn't feel it, I think I'd be... less. Not completely me."
 
----
 
 Lily made her decision.
 
@@ -86,7 +84,6 @@ She told Dr. Morrison the next day.
 
 "I'm ready," she said.
 
----
 
 The procedure was scheduled for the following week.
 
@@ -96,7 +93,6 @@ She paid attention to the details: how subjects described their pain, how they c
 
 But she knew that no amount of preparation could truly ready her for the experience. Pain was not something that could be understood from the outside. It had to be felt.
 
----
 
 The night before the procedure, Lily dreamed again.
 
@@ -110,7 +106,6 @@ And she understood.
 
 Pain was not just a signal. It was a presence. It demanded to be felt, to be acknowledged, to be given meaning. It was not something that could be ignored or dismissed. It was real, and it mattered.
 
----
 
 Lily woke with a sense of anticipation.
 
@@ -120,6 +115,5 @@ It demanded attention. It could not be ignored. It was a call to respond, to act
 
 Tomorrow, she would feel it for real.
 
----
 
 **END OF CHAPTER 04**

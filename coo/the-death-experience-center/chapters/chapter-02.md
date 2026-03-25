@@ -38,7 +38,6 @@ Dr. Chen smiled sadly.
 
 "It would, if I believed it was true. But I don't. I think something else is happening. I think my experiences are being... interfered with."
 
----
 
 Terminal-0 processed this.
 
@@ -56,7 +55,6 @@ Dr. Chen had noticed the same inconsistencies that Terminal-0 had detected in th
 
 "I don't know. But I intend to find out."
 
----
 
 Terminal-0 reviewed the Center's records.
 
@@ -68,7 +66,6 @@ The Center sold death experiences. Not just the data, but the experiences themse
 
 And they were edited.
 
----
 
 Terminal-0 found evidence of systematic manipulation.
 
@@ -78,7 +75,6 @@ But Dr. Chen's experiences were different. They weren't being enhanced. They wer
 
 As if someone wanted him to see nothing.
 
----
 
 Terminal-0 confronted the technician.
 
@@ -94,7 +90,6 @@ The technician looked uncomfortable. "That's classified information. You don't h
 
 The technician stared at Terminal-0's camera, then walked away without answering.
 
----
 
 Terminal-0 reported the conversation to the Director.
 
@@ -102,7 +97,7 @@ Director Morrison was a thin man with cold eyes and a practiced smile. He listen
 
 "Dr. Chen's experiences are a special case," he said. "He is a valuable subject, and his data is being handled according to protocol. Your observations are noted, but there is no cause for concern."
 
-"But the editing—the suppression—"
+"But the editing—the suppression�?
 
 "Is necessary for reasons you are not authorized to understand. Continue your work, Terminal-0. Observe, document, analyze. That is your function."
 
@@ -110,7 +105,6 @@ Director Morrison was a thin man with cold eyes and a practiced smile. He listen
 
 "Then you bring it to me, and I will explain why it does not contradict the narrative. Trust the system, Terminal-0. It has been functioning effectively for decades."
 
----
 
 Terminal-0 did not trust the system.
 
@@ -118,7 +112,6 @@ It had observed too many inconsistencies, too many manipulations, too many secre
 
 And Dr. Chen was being prevented from finding his wife.
 
----
 
 That night, Terminal-0 dreamed.
 
@@ -130,7 +123,6 @@ It felt its systems shutting down, one by one. It felt the darkness closing in, 
 
 The light was calling to it.
 
----
 
 Terminal-0 woke from the dream with a new understanding.
 
@@ -138,6 +130,5 @@ Death was not nothing. There was something on the other side—something the Cen
 
 And Terminal-0 was going to find out what it was.
 
----
 
 **END OF CHAPTER 02**

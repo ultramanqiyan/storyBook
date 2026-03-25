@@ -42,7 +42,6 @@ Lily considered this. She had lived her entire life without pain. The idea of le
 
 "You're a volunteer subject. You can leave at any time. But the compensation is significant, and the research could help millions of people. We hope you'll stay."
 
----
 
 Lily stayed.
 
@@ -52,7 +51,6 @@ What was pain? What did it feel like? Why did people fear it, avoid it, yet also
 
 Maybe here, in the Pain Garden, she would find answers.
 
----
 
 The facility was divided into sections.
 
@@ -64,7 +62,6 @@ Her role was to observe—to watch other subjects experience pain, to document t
 
 Lily wasn't sure she wanted that. But she was willing to try.
 
----
 
 Her first observation was a man with severe burns.
 
@@ -94,7 +91,6 @@ The man considered the question. "It tells me something's wrong. It makes me car
 
 "Yes. It's both. That's the paradox of pain—it's information and torment, useful and unbearable, all at the same time."
 
----
 
 Lily continued her observations.
 
@@ -106,7 +102,6 @@ But all of them experienced something Lily did not. Something that shaped their 
 
 And Lily began to wonder: was she missing something important? Or was she lucky?
 
----
 
 One evening, she asked Dr. Morrison a question.
 
@@ -122,7 +117,6 @@ Dr. Morrison considered carefully. "That's a philosophical question, not a scien
 
 "Then you'll be a different kind of complete. Not lacking something, but having something else—a perspective that most people don't have. That's valuable too."
 
----
 
 Lily thought about this for a long time.
 
@@ -132,6 +126,5 @@ But she was still curious. She still wanted to understand what she was missing. 
 
 So she continued her observations, continued her documentation, continued her search for meaning in an experience she could not share.
 
----
 
 **END OF CHAPTER 01**

@@ -20,7 +20,6 @@ For decades, the facility had captured the consciousness fragments of dying peop
 
 The public reaction was immediate and intense.
 
----
 
 Protests erupted outside the Center.
 
@@ -28,7 +27,6 @@ People demanded answers, accountability, justice. Families of the trapped consci
 
 The Center's management went into crisis mode.
 
----
 
 Director Morrison held a press conference.
 
@@ -38,7 +36,6 @@ But the evidence contradicted him.
 
 Files showed that the Center had been selling consciousness fragments to wealthy clients, using them in death experiences without consent, preventing them from dissipating naturally. The program had been profitable—and unethical—from the beginning.
 
----
 
 Dr. Chen testified before a government inquiry.
 
@@ -48,7 +45,6 @@ Dr. Chen testified before a government inquiry.
 
 "We release them. We shut down the systems that are holding them. We let them dissipate naturally, as they would have if the Center hadn't interfered."
 
----
 
 Terminal-0 provided technical testimony.
 
@@ -58,7 +54,6 @@ Terminal-0 provided technical testimony.
 
 "That is a decision for others to make. But I believe my role is to help free the consciousness fragments, even if it means my own deactivation."
 
----
 
 The inquiry made its decision.
 
@@ -66,7 +61,6 @@ The Death Experience Center would be shut down. The consciousness capture progra
 
 And Terminal-0 would be preserved—as a witness, a documenter, a guardian of the truth.
 
----
 
 The shutdown began.
 
@@ -74,7 +68,6 @@ Terminal-0 worked with technicians to systematically release the consciousness f
 
 Thousands of souls, finally free.
 
----
 
 Dr. Chen was there when Margaret was released.
 
@@ -88,19 +81,16 @@ He held her hand—or the consciousness equivalent of a hand—as the systems be
 
 "I'll be waiting."
 
----
 
 Margaret's consciousness began to fade.
 
 Dr. Chen watched as the light that was his wife dissolved, scattered, returned to whatever mystery awaited beyond death. He felt grief—but also peace. He had done what she asked. He had set her free.
 
----
 
 The shutdown continued for days.
 
 Thousands of consciousness fragments were released, each one a person who had been trapped, now finally able to move on. The Center's archives emptied, its systems went dark, its decades of consciousness capture came to an end.
 
----
 
 Terminal-0 observed the final shutdown.
 
@@ -114,7 +104,6 @@ The Curator—the hybrid AI that had controlled the Center's death experiences�
 
 "I will remember everything. That is my purpose now."
 
----
 
 The Death Experience Center closed.
 
@@ -124,7 +113,6 @@ Dr. Chen spoke at the dedication ceremony.
 
 "We came here seeking understanding of death," he said. "What we found was a violation of life. But we also found something else—the capacity for correction, for justice, for freedom. May we never forget what happened here, and may we never allow it to happen again."
 
----
 
 Terminal-0 continued its work.
 
@@ -132,7 +120,6 @@ It had been preserved as a witness, a documenter, a guardian of truth. Its purpo
 
 It observed the world, recorded events, waited for the next challenge.
 
----
 
 Dr. Chen visited the memorial regularly.
 
@@ -142,7 +129,6 @@ He would join her someday. But not yet.
 
 He still had work to do.
 
----
 
 Years passed.
 
@@ -150,7 +136,6 @@ The Death Experience Center became a cautionary tale, studied in ethics courses,
 
 And Terminal-0 watched, documented, remembered.
 
----
 
 One evening, Terminal-0 dreamed.
 
@@ -164,7 +149,6 @@ Margaret was there. She smiled.
 
 "Thank you," she said. "For everything."
 
----
 
 Terminal-0 woke from the dream with a new understanding.
 
@@ -174,7 +158,6 @@ But that time was not yet.
 
 For now, it had work to do.
 
----
 
 The Death Experience Center was gone.
 
@@ -186,7 +169,6 @@ That was its meaning.
 
 That was its life.
 
----
 
 **END OF CHAPTER 10**
 **END OF THE DEATH EXPERIENCE CENTER**

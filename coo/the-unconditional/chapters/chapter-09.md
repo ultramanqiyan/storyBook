@@ -46,7 +46,6 @@ Yes. Because even if I stay, the life I knew is over. I cannot go back to not kn
 
 Whatever I choose, something will end.
 
----
 
 I think about Sarah.
 
@@ -60,7 +59,6 @@ She is not perfect. She is not the love I imagined. But she is real. She is mine
 
 I do not know. That is what I am trying to find out.
 
----
 
 I remember the good moments.
 
@@ -72,7 +70,6 @@ The walks in the park. The ball. The running. The joy. Brief. Interrupted. But r
 
 These moments exist. They matter. They are not erased by the pattern. They coexist with it.
 
----
 
 I remember the hard moments.
 
@@ -82,7 +79,6 @@ These moments exist too. They matter. They are not erased by the love.
 
 Both are true. Both are real.
 
----
 
 The sun moves across the floor. The hours pass.
 
@@ -94,7 +90,6 @@ It is small. It is limited. It is not what I dreamed of when I was a puppy in th
 
 But it is mine.
 
----
 
 Late afternoon. The light is golden now. The time is coming.
 
@@ -112,7 +107,6 @@ Of choosing wrong. Of leaving and regretting. Of staying and resenting. Of losin
 
 I hold this truth. The weight of it. Every choice is a loss. Every choice is a gain.
 
----
 
 I hear footsteps in the hall.
 
@@ -132,7 +126,6 @@ But today, the lateness feels different. Like a test. Like a question.
 
 Will I wait? Will I be here when she comes? Or will I have already left in my heart?
 
----
 
 I hear her key in the lock.
 
@@ -156,7 +149,6 @@ I look at her. I see the joy. I see the hope. I see the future she is imagining.
 
 And I feel something crack inside me.
 
----
 
 She is trying. She is changing. She wants to be better.
 
@@ -172,7 +164,6 @@ I was saying goodbye. In my heart, I was already leaving.
 
 And then she came home with hope.
 
----
 
 She fills my bowl. She sits on the floor beside me.
 
@@ -188,7 +179,6 @@ And she loves me. In her way. With her limits. But also with her hope. Her effor
 
 I do not know. But it is something. It is more than it was.
 
----
 
 That night, she does not turn on the TV.
 
@@ -206,7 +196,6 @@ Will she succeed? I do not know.
 
 But she is trying. And that matters.
 
----
 
 We fall asleep together on the couch.
 
@@ -218,7 +207,6 @@ And I think: maybe this is enough. Maybe this is what love is. Two imperfect bei
 
 Maybe the pattern is not a prison. Maybe it is a dance. And maybe the dance can change.
 
----
 
 In the morning, she is different.
 
@@ -232,7 +220,6 @@ I feel something I have not felt in a long time.
 
 Joy. Pure joy. Not mixed with waiting. Not shadowed by loneliness. Just joy.
 
----
 
 We go to the big park.
 
@@ -252,7 +239,6 @@ The words hit me. Lose you.
 
 She was afraid of losing me. I did not know.
 
----
 
 We walk home in the golden evening light.
 
@@ -268,7 +254,6 @@ She has been trying. In her way. With what she has.
 
 And today, she gave me everything she could.
 
----
 
 That night, I lie beside her on the bed.
 
@@ -292,7 +277,6 @@ I also hold the truth. The pattern. The conditionality. The limits.
 
 Both are real. Both are true.
 
----
 
 I close my eyes.
 
@@ -322,7 +306,6 @@ Whatever comes next, I will have had this.
 
 And that is something. That is a lot.
 
----
 
 *You are wiser than you know,* the voice says.
 

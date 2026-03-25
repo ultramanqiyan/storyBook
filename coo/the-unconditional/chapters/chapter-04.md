@@ -84,7 +84,6 @@ She puts them down. For a little while. With me.
 
 I am not just eating her promises. I am helping her carry them.
 
----
 
 That night, I try something.
 
@@ -112,7 +111,6 @@ But I am changing. The voice is changing me. I am seeing things I did not see. I
 
 Can I still be her good boy if I am not the same boy?
 
----
 
 The next morning, something happens that changes everything.
 
@@ -168,7 +166,6 @@ She says "I love you" to me. But she does not say it to anyone else. She lives a
 
 I do not know the answer. But for the first time, I am asking the question.
 
----
 
 That day, I listen to everything.
 
@@ -208,7 +205,6 @@ And when Sarah comes home tonight, I will hear her words. All of them. Not just 
 
 I will hear "I love you." And I will wonder what it really means.
 
----
 
 That night, Sarah is late.
 
@@ -268,7 +264,6 @@ And in that fear, I am not just her beloved dog.
 
 I am a problem to solve.
 
----
 
 That night, I do not sleep beside her.
 
@@ -310,7 +305,6 @@ Her love has conditions. Conditions she cannot control. Conditions that are crus
 
 And I am one of them.
 
----
 
 In the morning, Sarah is different.
 

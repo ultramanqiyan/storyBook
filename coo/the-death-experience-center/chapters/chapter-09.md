@@ -32,7 +32,6 @@ Margaret smiled, and her smile was the same as he remembered—warm, loving, ful
 
 "It's what you want. It's what you need. And I love you enough to give it to you."
 
----
 
 They walked through the garden together.
 
@@ -52,7 +51,6 @@ And he spoke of the years apart.
 
 "The Center. The truth. You and Terminal-0 are going to expose what they've been doing. You're going to free the other consciousness fragments, help them move on. That's your purpose now."
 
----
 
 Dr. Chen was quiet for a moment.
 
@@ -68,7 +66,6 @@ Dr. Chen was quiet for a moment.
 
 "By exposing the truth. By forcing the Center to release them. By giving them the peace that you're giving me."
 
----
 
 Dr. Chen felt a new sense of purpose.
 
@@ -78,7 +75,6 @@ He had been so focused on finding Margaret that he had never considered the othe
 
 "I know you will. That's who you are."
 
----
 
 The time was coming.
 
@@ -94,7 +90,6 @@ Margaret took his hands.
 
 "I don't know. But I believe we'll find each other again. In whatever comes after this."
 
----
 
 They embraced.
 
@@ -104,7 +99,6 @@ The garden was fading now, the light dimming, the warmth cooling. Dr. Chen held 
 
 "Goodbye, David. Until we meet again."
 
----
 
 The experience ended.
 
@@ -112,7 +106,6 @@ Dr. Chen returned to his body, tears streaming down his face. But for the first 
 
 They were tears of peace.
 
----
 
 Terminal-0 observed Dr. Chen's return.
 
@@ -120,7 +113,6 @@ The old man's neural patterns showed significant changes—reduced activity in r
 
 Dr. Chen had let Margaret go.
 
----
 
 "Are you ready?" Terminal-0 asked.
 
@@ -134,6 +126,5 @@ Dr. Chen looked at Terminal-0 with eyes that had finally found peace.
 
 "Yes. I'm ready. Let's begin."
 
----
 
 **END OF CHAPTER 09**

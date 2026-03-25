@@ -36,7 +36,6 @@ Angela stared at the thing by the fireplace. It looked like a dog, moved like a 
 
 "I want you to photograph my friend," Robert said quietly. "His manufacturer is ending support for his model. His systems will fail within months. He's dying, Angela. And I want to remember him."
 
----
 
 Angela had photographed hundreds of pets. She'd captured the love between humans and animals, the bonds that made the grief of loss worth bearing. But this was different. Or was it?
 
@@ -46,7 +45,6 @@ What did it mean to love a machine? What did it mean for a machine to love you b
 
 "I'll do it," Angela said. "When do you want to schedule the session?"
 
----
 
 The session was set for the following week. Angela spent the days between researching AI companions, trying to understand what she was about to photograph.
 

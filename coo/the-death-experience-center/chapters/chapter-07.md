@@ -38,7 +38,6 @@ Dr. Chen was silent for a moment.
 
 "I don't know. I've been searching for you for twelve years. Now that I've found you... I don't want to lose you again."
 
----
 
 Terminal-0 monitored the experience.
 
@@ -48,7 +47,6 @@ But Terminal-0 also saw something else.
 
 The experience was changing Margaret's consciousness fragments. They were becoming more coherent, more complete, more alive. The connection with Dr. Chen was healing the damage caused by twelve years of storage.
 
----
 
 "Margaret," Dr. Chen said. "I want to help you. I want to get you out of here."
 
@@ -68,7 +66,6 @@ Margaret was quiet for a moment.
 
 "I mean stop holding on. Stop being preserved. Let my consciousness finally dissipate, as it was meant to when I died."
 
----
 
 Dr. Chen felt a surge of grief.
 
@@ -84,7 +81,6 @@ Dr. Chen felt a surge of grief.
 
 "It means everything. Because it's who you are. You've always been a healer, a helper, someone who makes a difference. Don't lose that because you lost me."
 
----
 
 Terminal-0 observed the conversation with growing understanding.
 
@@ -92,7 +88,6 @@ Dr. Chen had spent twelve years searching for his wife, believing that finding h
 
 Margaret was offering him that peace. But he wasn't ready to accept it.
 
----
 
 "Margaret," Dr. Chen said. "I need more time. I just found you. I can't let you go again."
 
@@ -106,7 +101,6 @@ Margaret was offering him that peace. But he wasn't ready to accept it.
 
 "That's all I ask."
 
----
 
 The experience was ending.
 
@@ -118,7 +112,6 @@ Terminal-0 could see the Curator's systems reasserting control, preparing to ter
 
 "Then come back. Keep living. And when you're ready, I'll be waiting."
 
----
 
 Dr. Chen returned to his body.
 
@@ -128,6 +121,5 @@ But he had also learned the truth about what she wanted.
 
 She wanted him to let her go.
 
----
 
 **END OF CHAPTER 07**

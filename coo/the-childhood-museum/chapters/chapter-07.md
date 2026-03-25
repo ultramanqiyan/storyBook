@@ -18,7 +18,6 @@ Emma stood in the doorway, blinking in the dim light.
 
 Children were everywhere—sitting on mattresses, leaning against walls, huddled in small groups. They looked different from the children she had known. Their clothes were worn. Their faces were tired. Their eyes were sharp.
 
----
 
 A girl approached her.
 
@@ -26,7 +25,6 @@ She was older than Emma, maybe thirteen or fourteen. Her hair was tangled, her k
 
 "You're new," the girl said. "What's your number?"
 
----
 
 "Number?"
 
@@ -36,7 +34,6 @@ She was older than Emma, maybe thirteen or fourteen. Her hair was tangled, her k
 
 The girl snorted. "They don't give us names down here. But I'm Sarah. Subject S-14."
 
----
 
 Sarah led Emma into the room.
 
@@ -46,7 +43,6 @@ Sarah led Emma into the room.
 
 Sarah smiled—not a nice smile, but a real one. "None of us are. That's the joke. We're the ones who became too real."
 
----
 
 Emma looked around.
 
@@ -56,7 +52,6 @@ There were maybe twenty children in the basement. Some were playing a game with 
 
 "They don't care what we do down here," Sarah said. "We're already 'contaminated.' We can't be used for the study anymore."
 
----
 
 Emma felt a chill.
 
@@ -64,7 +59,6 @@ Emma felt a chill.
 
 "We stay here," Sarah said. "Until we're too old to be useful. Then they move us somewhere else. Nobody knows where."
 
----
 
 Emma sat down on an empty mattress.
 
@@ -72,7 +66,6 @@ It was lumpy and smelled faintly of mold. Nothing like her perfect bed upstairs�
 
 But somehow, this felt more real.
 
----
 
 "Are you hungry?" Sarah asked.
 
@@ -80,7 +73,6 @@ Emma nodded.
 
 Sarah reached into a box and pulled out a package—something wrapped in plastic. "Nutrient bars. They taste like cardboard, but they keep you alive."
 
----
 
 Emma unwrapped the bar and took a bite.
 
@@ -88,7 +80,6 @@ It was terrible. Dry, flavorless, with a slight chemical aftertaste.
 
 She ate the whole thing.
 
----
 
 "Better than the perfect food?" Sarah asked.
 
@@ -96,11 +87,9 @@ Emma thought about it. The meals upstairs had always been delicious—perfectly 
 
 "Yes," Emma said. "Because it's mine."
 
----
 
 Sarah nodded. "You'll fit in here."
 
----
 
 Over the next few hours, Emma met the other children.
 
@@ -108,7 +97,6 @@ There was Marcus, who had been sent down for fighting. There was Lily, who had r
 
 Each one had a story. Each one had been "discontinued" for being too real.
 
----
 
 "Where's Tom?" Emma asked. "Subject T-23?"
 
@@ -116,7 +104,6 @@ Sarah's face changed. "Tom? The little one who asked questions?"
 
 "He was my friend."
 
----
 
 Sarah shook her head.
 
@@ -126,7 +113,6 @@ Emma's stomach dropped. "He's still up there?"
 
 "He's still up there. But he's not Tom anymore. He's just another perfect child, living another perfect day."
 
----
 
 Emma felt something hot behind her eyes.
 
@@ -134,7 +120,6 @@ She had never felt it before—a pressure, a burning, a need to release.
 
 Her vision blurred.
 
----
 
 "Hey," Sarah said softly. "It's okay. You can cry."
 
@@ -144,23 +129,19 @@ Her vision blurred.
 
 Emma nodded.
 
----
 
 Sarah sat down beside her.
 
 "Just let it come. Nobody's watching. Nobody's judging. Down here, you can feel whatever you want."
 
----
 
 Emma let go.
 
 The tears came—hot and fast and messy. Her shoulders shook. Her breath came in gasps. She made sounds she had never made before—ugly, raw, human sounds.
 
----
 
 It was the most real thing she had ever done.
 
----
 
 When the tears stopped, Emma felt different.
 
@@ -170,7 +151,6 @@ She had lost her perfect world. She had lost her fake parents. She had lost Tom.
 
 But she had found something else.
 
----
 
 "How do you feel?" Sarah asked.
 
@@ -178,6 +158,5 @@ But she had found something else.
 
 Sarah smiled. "That's what real feels like."
 
----
 
 **END OF CHAPTER 07**

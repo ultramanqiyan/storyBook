@@ -26,7 +26,6 @@ Dr. Morrison was fascinated.
 
 "That depends on your perspective. Some people would consider heightened sensitivity a gift. Others would find it overwhelming. The question is: how do you experience it?"
 
----
 
 Lily experienced it as both.
 
@@ -34,7 +33,6 @@ The heightened sensitivity was beautiful—she could appreciate music more deepl
 
 She was more alive. But she was also more vulnerable.
 
----
 
 Thomas noticed the change.
 
@@ -50,7 +48,6 @@ Thomas noticed the change.
 
 "Because I was incomplete. I didn't know it at the time—I thought I was fine, that my lack of pain was just a difference, not a deficiency. But now I understand. Pain, sensation, emotion—they're not just add-ons. They're fundamental to what it means to be human."
 
----
 
 Emma noticed too.
 
@@ -66,7 +63,6 @@ The little girl was in her room, recovering from another procedure. She looked t
 
 Emma nodded. "That's how I feel about my pain. It's hard, but it's also mine. It makes me who I am."
 
----
 
 Lily spent more time with the subjects.
 
@@ -76,7 +72,6 @@ And she discovered something unexpected.
 
 The community was not defined by pain. It was defined by connection—the shared experience of being human, of facing difficulty, of finding meaning in suffering. Pain was the entry point, but it was not the destination.
 
----
 
 She asked Dr. Morrison about it.
 
@@ -88,13 +83,11 @@ She asked Dr. Morrison about it.
 
 "Most of them see it as meaningful. That's partly self-selection—people who find meaning in pain are more likely to participate in research. But it's also partly environment. The Pain Garden is designed to support meaning-making, not just pain management."
 
----
 
 Lily thought about this.
 
 The facility was called the Pain Garden—a name that had seemed strange to her at first. Why call a place of suffering a garden? But now she understood. Gardens were places of growth, of cultivation, of transformation. Pain, properly tended, could be like a garden—a place where meaning grew from suffering.
 
----
 
 She began working with the subjects more directly.
 
@@ -102,7 +95,6 @@ Not as a researcher, but as a companion—someone who had been outside the exper
 
 And in doing so, she found her purpose.
 
----
 
 One day, a new subject arrived.
 
@@ -120,7 +112,6 @@ He was young—early twenties—and had been in an accident that left him with c
 
 "I learned to see it differently. Not as an enemy to be defeated, but as a teacher to be learned from. Pain is trying to tell you something. If you listen, it can help you grow."
 
----
 
 The young man was skeptical.
 
@@ -132,7 +123,6 @@ The young man was skeptical.
 
 "By talking to others who have been where you are. By finding community. By letting your pain connect you rather than isolate you. The Pain Garden is not just a place to suffer—it's a place to grow."
 
----
 
 Over the following weeks, Lily worked with the young man.
 
@@ -142,7 +132,6 @@ And gradually, he began to change.
 
 Not that his pain diminished—it was still chronic, still difficult, still present. But his relationship to it shifted. He stopped seeing it as an enemy and started seeing it as a challenge. He stopped isolating himself and started connecting with others. He stopped suffering and started growing.
 
----
 
 Lily watched this transformation with wonder.
 
@@ -150,6 +139,5 @@ She had come to the Pain Garden to understand pain, to help others, to contribut
 
 She was not just a subject anymore. She was a guide.
 
----
 
 **END OF CHAPTER 07**

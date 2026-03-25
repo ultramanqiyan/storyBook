@@ -70,7 +70,6 @@ I feel afraid. But I also feel curious. The voice has been kind. It has not hurt
 
 I do not know what this means. But I say yes. Not with words. With a feeling. An opening. A letting go.
 
----
 
 The world explodes.
 
@@ -86,7 +85,6 @@ I fall to the floor. Not from pain. From too much. Too much everything. My brain
 
 *It will grow,* the voice says. And I realize the voice is different now. Closer. Inside. Not just watching. Being. *Your mind will grow. Give it time.*
 
----
 
 Hours pass. Or minutes. I do not know. Time feels different now. Not just a long wait or a short wait. Time has texture. It moves fast when Sarah is home. It moves slow when she is gone. But now I can feel the texture of each moment. The weight of it. The shape of it.
 
@@ -102,7 +100,6 @@ I think about this. My mind has been empty. I did not know it was empty. I thoug
 
 The question hangs in the air. Was it enough? I do not know. It was all I knew. But now I know there is more. And I cannot go back to not knowing.
 
----
 
 When Sarah comes home that night, I see her differently.
 
@@ -134,7 +131,6 @@ I am not just her dog. I am her comfort. Her escape. Her reason to come home.
 
 *Yes,* the voice says. *You are beginning to see.*
 
----
 
 That night, I do not sleep at the foot of her bed. I sleep beside her. She does not push me away. She curls around me. Her arm over my back. Her face in my fur.
 

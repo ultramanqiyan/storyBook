@@ -28,7 +28,6 @@ She asked Dr. Morrison about it.
 
 "You can't share the sensation. But you can share the meaning. You can understand that he's suffering, that his experience is difficult, that his pain matters to him. That's empathy too."
 
----
 
 Lily tested this theory with other subjects.
 
@@ -38,7 +37,6 @@ In each case, Lily felt something—not the pain itself, but a response to the p
 
 She was developing empathy without sensation.
 
----
 
 The child was different.
 
@@ -58,7 +56,6 @@ Lily asked her about it.
 
 "No. But it makes the pain smaller. Like... like the song is a bigger space, and the pain has to fit inside it. And when the song is big enough, the pain doesn't seem so big anymore."
 
----
 
 Lily thought about this for a long time.
 
@@ -66,7 +63,6 @@ Pain was not just a sensation. It was an experience that could be shaped, transf
 
 This was something Lily had never considered. Pain was not just something to be avoided or endured. It was something that could be integrated, that could serve a purpose, that could be part of a story.
 
----
 
 She asked Dr. Morrison about it.
 
@@ -82,7 +78,6 @@ She asked Dr. Morrison about it.
 
 "That's what we're trying to find out. You've developed empathy—you can recognize suffering in others. But can you understand why pain matters? Can you grasp its value, its purpose, its role in human experience?"
 
----
 
 Lily considered this.
 
@@ -92,7 +87,6 @@ But she had also learned that pain was transformative. Emma's songs showed that 
 
 Was this what Dr. Morrison wanted her to understand?
 
----
 
 That night, Lily had a dream.
 
@@ -110,7 +104,6 @@ Pain.
 
 Not just the sensation, but the meaning—the recognition that something was wrong, that her body had been harmed, that she needed to be careful. The pain was small, but it was real. And it was hers.
 
----
 
 Lily woke with a start.
 
@@ -120,6 +113,5 @@ For the first time in her life, she had imagined what pain might feel like. Not 
 
 Was this progress? Or was it something else?
 
----
 
 **END OF CHAPTER 02**

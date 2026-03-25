@@ -96,7 +96,6 @@ The words feel heavy. Dangerous. But also... tempting.
 
 *Not yet,* the voice says. *You are not ready to choose. But I want you to know the choice exists.*
 
----
 
 That night, I watch Sarah differently.
 
@@ -128,7 +127,6 @@ I feel the crack in my chest widen. The minimum. The appearance.
 
 Is that what I have been receiving? All these years?
 
----
 
 Later, she sits on the couch. The TV is on. She is scrolling her phone again.
 
@@ -154,7 +152,6 @@ What pain?
 
 I feel this pain. Right now. She is here. But she is not here. And I am alone in the present. Waiting for her to return from wherever she has gone.
 
----
 
 She falls asleep on the couch. The TV is still on. Her phone slips from her hand.
 
@@ -186,7 +183,6 @@ Are we reaching for each other? Or am I reaching for her while she reaches for s
 
 *I cannot answer that. Only you can.*
 
----
 
 In the morning, something is different.
 
@@ -220,7 +216,6 @@ This moment is real. Her apology is real. Her touch is real.
 
 But it is also part of a pattern. And patterns repeat.
 
----
 
 She makes breakfast. She fills my bowl. She sits on the floor beside me while I eat.
 
@@ -244,7 +239,6 @@ That this is a moment. Not a permanent state. That she is here. But she will lea
 
 *This is what it means to see clearly. To hold the joy and the truth at the same time. To not let one erase the other.*
 
----
 
 We go to the park.
 
@@ -264,7 +258,6 @@ The pattern. Always the pattern.
 
 But I do not let it ruin the moment. I hold the joy. I hold the truth. Both.
 
----
 
 That night, I lie beside her on the bed.
 

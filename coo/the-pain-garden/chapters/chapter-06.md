@@ -32,7 +32,6 @@ Dr. Morrison examined her hand, ran tests, checked the monitoring equipment. Fin
 
 "The pain is real. The question is whether the cause is external or internal. Your brain is generating the sensation without any peripheral input."
 
----
 
 Lily processed this.
 
@@ -48,7 +47,6 @@ She had wanted to feel pain, to understand it, to join the community of those wh
 
 "The pain is trying to tell me something. I want to listen."
 
----
 
 Dr. Morrison looked at her with a mixture of concern and respect.
 
@@ -60,7 +58,6 @@ Dr. Morrison looked at her with a mixture of concern and respect.
 
 "Then I'll learn from difficulty. That's what pain is for, isn't it? To teach us, to protect us, to help us grow?"
 
----
 
 Lily spent the following days in contemplation.
 
@@ -72,7 +69,6 @@ The pain was not random. It responded to her thoughts, her emotions, her activit
 
 The pain was not just a sensation. It was a relationship—between her body, her mind, and her environment.
 
----
 
 She shared her observations with Thomas.
 
@@ -86,7 +82,6 @@ Thomas nodded. "That's how it is for most people. Pain is not isolated. It's par
 
 "Strange. Overwhelming. But also... right. Like I'm finally whole."
 
----
 
 Thomas smiled.
 
@@ -96,7 +91,6 @@ Thomas smiled.
 
 "It does. But it also gives life meaning. The question is not whether to have pain, but what to do with it. How to integrate it, how to learn from it, how to let it make us more rather than less."
 
----
 
 Lily thought about this for a long time.
 
@@ -106,7 +100,6 @@ Now she had pain, and it was difficult, overwhelming, sometimes unbearable. But 
 
 Was this what she had been missing? Not just sensation, but connection?
 
----
 
 The pain began to fade after a week.
 
@@ -116,7 +109,6 @@ Lily had felt pain, and she had learned from it. She had discovered that pain wa
 
 And she had joined the community of those who suffer—not as an observer, but as a participant.
 
----
 
 Dr. Morrison conducted a final assessment.
 
@@ -130,7 +122,6 @@ Dr. Morrison conducted a final assessment.
 
 "That pain is not just a sensation. It's a fundamental aspect of consciousness. When you activated the pain pathways, you didn't just add a new experience—you changed the way your brain processes everything."
 
----
 
 Lily considered this.
 
@@ -138,7 +129,6 @@ Pain had changed her. Not just her understanding, but her actual neural architec
 
 Was that good or bad? She couldn't say. But it was real, and it mattered.
 
----
 
 That night, Lily dreamed again.
 
@@ -150,6 +140,5 @@ She reached out to touch it, and she felt a small, sharp pain—the memory of wh
 
 The pain was real. But so was the beauty.
 
----
 
 **END OF CHAPTER 06**

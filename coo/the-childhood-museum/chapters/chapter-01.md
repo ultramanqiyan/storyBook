@@ -22,7 +22,6 @@ Her mother had made pancakes—Emma's favorite—with strawberries and whipped c
 
 "Perfectly," Emma said, and she meant it. She always slept perfectly. She always woke rested. She always felt happy.
 
----
 
 School was wonderful.
 
@@ -30,7 +29,6 @@ The teacher was kind, the lessons were interesting, the other children were frie
 
 Every moment was designed for joy.
 
----
 
 But something flickered.
 
@@ -40,7 +38,6 @@ She couldn't name it. She couldn't understand it. But for just a moment, she fel
 
 Then it passed.
 
----
 
 Emma went home to her perfect family.
 
@@ -48,7 +45,6 @@ They ate dinner together—her mother's cooking was always delicious. They playe
 
 Emma went to bed happy, as she always did.
 
----
 
 But in the darkness, the wrongness returned.
 
@@ -58,6 +54,5 @@ Just... a question. Faint and formless, but present.
 
 What if there was more?
 
----
 
 **END OF CHAPTER 01**

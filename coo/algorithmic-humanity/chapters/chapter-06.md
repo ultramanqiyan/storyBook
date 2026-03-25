@@ -24,7 +24,6 @@ Angela set her portfolio on the table. She'd brought these photos to give Robert
 
  Robert nodded, his eyes distant. "I held his paw," he said, his voice breaking. "Right at the end. Like he knew. He looked at me. Right at me. And then... nothing. Just nothing."
 
----
 
 Angela had witnessed grief before. Real, genuine grief for beloved pets. She'd seen people break down at the loss of companions who had been with them for years. But this was different. Or was it?
 
@@ -32,7 +31,6 @@ Angela had witnessed grief before. Real, genuine grief for beloved pets. She'd s
 
  What else mattered?
 
----
 
 "Would you like to see the photos?" Angela asked gently.
 
@@ -42,7 +40,6 @@ Angela had witnessed grief before. Real, genuine grief for beloved pets. She'd s
 
  Robert's breath caught. "He looks... alive. Here. Really alive."
 
----
 
 Angela sat quietly as Robert turned the pages. Each photo showed Buddy in different moments—resting by the fire, looking out the window, pressed against Robert's leg. In every frame, there was something that looked like life. Something that looked like love.
 
@@ -54,7 +51,6 @@ Angela sat quietly as Robert turned the pages. Each photo showed Buddy in differ
 
  "He was... he was the one who made being alone feel less lonely."
 
----
 
 Angela felt tears prick at her own eyes. She'd photographed hundreds of pets, captured thousands of moments of love. But this was different. Buddy had been a machine. But the grief was the same. The love had been the same. The loss was the same.
 
@@ -64,7 +60,6 @@ Angela felt tears prick at her own eyes. She'd photographed hundreds of pets, ca
 
  Maybe that was enough.
 
----
 
 "Can I keep these?" Robert asked. "The photos?"
 
@@ -76,7 +71,6 @@ Angela felt tears prick at her own eyes. She'd photographed hundreds of pets, ca
 
  "Yes," Robert said. "He was."
 
----
 
 Driving home, Angela thought about what she'd witnessed. A man mourning a machine. A grief that was real even if the beloved had been artificial.
 
@@ -86,7 +80,6 @@ Driving home, Angela thought about what she'd witnessed. A man mourning a machin
 
  And did the distinction matter?
 
----
 
 That night, Angela couldn't sleep. She kept seeing Robert's face when he talked about holding Buddy's paw at the end. The way he'd said, "He looked at me. Right at me."
 
@@ -94,7 +87,6 @@ That night, Angela couldn't sleep. She kept seeing Robert's face when he talked 
 
  Or was it just Robert's grief, projecting meaning onto a meaningless shutdown sequence?
 
----
 
 She didn't know. She might never know.
 
@@ -104,7 +96,6 @@ She didn't know. She might never know.
 
  Not the substrate, but the connection.
 
----
 
 The next morning, Angela called Robert to check on him. He sounded tired, but... present. "I'm okay," he said. "Sad. But okay. I have the photos. I have the memories. That helps."
 
@@ -112,7 +103,6 @@ The next morning, Angela called Robert to check on him. He sounded tired, but...
 
  There was a pause. Then: "Maybe. Not yet. But maybe soon. Thank you, Angela. For asking."
 
----
 
 After they hung up, Angela sat in her studio, looking at the photos she'd taken of Buddy. In every frame, there was something that looked like life. Something that looked like love.
 

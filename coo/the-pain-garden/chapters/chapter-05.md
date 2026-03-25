@@ -28,7 +28,6 @@ Lily felt a sensation in her left hand—a warmth, a pressure, something that wa
 
 "That's expected. We're starting below the pain threshold. We'll increase the intensity gradually."
 
----
 
 The second stimulation was stronger.
 
@@ -38,7 +37,6 @@ The sensation in Lily's hand shifted—still not quite pain, but approaching som
 
 "That's the beginning of pain," Dr. Morrison said. "The aversive quality. We'll continue."
 
----
 
 The third stimulation was pain.
 
@@ -54,7 +52,6 @@ Lily gasped. Her hand felt like it was burning—not the warmth of a fire, but t
 
 "That's important. Pain is not just sensation—it's also interpretation. You're experiencing the sensation, but you're also observing it, analyzing it. That's unusual."
 
----
 
 The stimulation continued.
 
@@ -66,7 +63,6 @@ She observed the pain, documented it, tried to understand it. It was the most in
 
 Pain was real. It demanded attention. It could not be ignored.
 
----
 
 The stimulation stopped.
 
@@ -84,7 +80,6 @@ Lily lay on the table, breathing hard, her body trembling. The pain faded, leavi
 
 "It's neither. It just is. Pain is part of being alive. I understand that now."
 
----
 
 Lily spent the rest of the day recovering.
 
@@ -94,7 +89,6 @@ But something else had changed.
 
 Lily could still feel the pain—not the actual sensation, but the memory of it. It was like a shadow, following her, reminding her of what she had experienced. And with the memory came something else: a new understanding of what it meant to be human.
 
----
 
 She visited Thomas that evening.
 
@@ -110,7 +104,6 @@ Thomas looked at her with something that might have been compassion. "And?"
 
 Thomas nodded slowly. "That's the gift of pain. It connects us. Not just to ourselves, but to each other. When we suffer, we join a community that spans all of humanity. Everyone who has ever felt pain understands what you felt today."
 
----
 
 Lily thought about that.
 
@@ -118,7 +111,6 @@ Pain was not just an individual experience. It was a shared one. Every human who
 
 And now she was part of that community. She had felt pain, and she understood what it meant.
 
----
 
 That night, Lily dreamed again.
 
@@ -134,7 +126,6 @@ Thomas nodded. "It's not just about the pain. It's about what the pain represent
 
 "The love remains. The connection remains. The pain is just the vessel. What matters is what it carries."
 
----
 
 Lily woke with a sense of peace.
 
@@ -142,6 +133,5 @@ She had felt pain, and she had survived. She had understood its meaning, its pur
 
 The experiment had worked. But it had also changed her in ways she was only beginning to understand.
 
----
 
 **END OF CHAPTER 05**

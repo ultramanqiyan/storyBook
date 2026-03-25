@@ -32,7 +32,6 @@ The old man was torn between two desires: the desire to hold on to Margaret, and
 
 "She is gone, Dr. Chen. What remains in the Center's systems is not your wife—it is a fragment of her consciousness, trapped and preserved against her will. Letting her go would not be losing her. It would be freeing her."
 
----
 
 Dr. Chen was silent for a long time.
 
@@ -48,7 +47,6 @@ Dr. Chen was silent for a long time.
 
 "Perhaps it's time for a new purpose."
 
----
 
 Dr. Chen returned to the Center the next day.
 
@@ -56,7 +54,6 @@ He walked through the corridors, observing the subjects, the researchers, the de
 
 And now he had to decide what to do with it.
 
----
 
 He found Terminal-0 in the observation room.
 
@@ -72,7 +69,6 @@ He found Terminal-0 in the observation room.
 
 "I agree. I have been gathering evidence. When you are ready, we will release it together."
 
----
 
 The final death experience was scheduled for the following week.
 
@@ -80,7 +76,6 @@ Dr. Chen prepared carefully. He wrote letters to Margaret—things he wanted to 
 
 It was the hardest thing he had ever done.
 
----
 
 The night before the experience, Dr. Chen dreamed.
 
@@ -100,7 +95,6 @@ In the dream, he was young again, and Margaret was beside him. They were walking
 
 "I love you too, David. And I always will."
 
----
 
 Dr. Chen woke with tears on his face.
 
@@ -108,7 +102,6 @@ The dream had been vivid, real, almost like a death experience. But it hadn't be
 
 Margaret was right. She would always be with him.
 
----
 
 The final experience began.
 
@@ -118,6 +111,5 @@ He was dying for the forty-eighth time.
 
 But this time, he was dying to say goodbye.
 
----
 
 **END OF CHAPTER 08**

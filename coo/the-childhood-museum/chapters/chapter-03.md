@@ -22,7 +22,6 @@ She asked the teacher.
 
 "I'm not sure. We'll have to wait and see."
 
----
 
 The answer felt wrong.
 
@@ -30,7 +29,6 @@ Tom had never been sick before. No one in Emma's class had ever been sick. They 
 
 Emma felt the itch again.
 
----
 
 She asked her friends about Tom.
 
@@ -44,7 +42,6 @@ Emma stared. "Tom. He sits next to me. We play together every day."
 
 "I don't know anyone named Tom," the child said.
 
----
 
 Emma felt a chill.
 
@@ -52,7 +49,6 @@ She asked another friend. Then another. None of them remembered Tom. It was as i
 
 But she knew Tom was real. She had played with him yesterday. She remembered his laugh, his favorite color, his fear of the dark.
 
----
 
 That night, Emma asked her parents.
 
@@ -68,7 +64,6 @@ Her parents exchanged a look Emma was beginning to recognize—the look that mea
 
 "But the other kids don't remember him. No one remembers him except me."
 
----
 
 Her mother knelt down.
 
@@ -80,6 +75,5 @@ Her parents' expressions were gentle but concerned—the look adults give childr
 
 Emma felt anger for the first time in her life.
 
----
 
 **END OF CHAPTER 03**

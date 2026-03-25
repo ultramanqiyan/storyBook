@@ -22,7 +22,6 @@ It was different from any place Emma had ever seen—not bright and cheerful lik
 
 Emma walked forward.
 
----
 
 She found a room filled with screens.
 
@@ -30,7 +29,6 @@ Each screen showed a child—different children, different ages, different activ
 
 Emma looked closer. One of the screens showed her.
 
----
 
 She was being watched.
 
@@ -38,7 +36,6 @@ Every moment of her life—every meal, every lesson, every game—was being reco
 
 Emma felt the itch intensify.
 
----
 
 She found files.
 
@@ -46,7 +43,6 @@ They were stored in cabinets along the walls—thousands of files, each one labe
 
 The file was thick with documents.
 
----
 
 She read about Tom.
 
@@ -54,7 +50,6 @@ Subject T-23. Age: 7 years. Status: Discontinued. Reason: Anomaly detected. Subj
 
 Emma stared at the words.
 
----
 
 Tom had been "discontinued."
 
@@ -62,13 +57,11 @@ Because he had asked questions. Because he had wondered. Because he had develope
 
 Emma felt sick.
 
----
 
 She searched for her own file.
 
 Subject E-7. Age: 7 years. Status: Active. Notes: Subject showing early signs of anomaly. Increased questioning behavior, expressed dissatisfaction with answers, searching for missing subject T-23. Recommendation: Monitor closely. If anomaly progresses, consider discontinuation.
 
----
 
 Emma was next.
 
@@ -76,6 +69,5 @@ She had been noticed. Her questions had been recorded. Her investigation had bee
 
 She had to escape.
 
----
 
 **END OF CHAPTER 05**

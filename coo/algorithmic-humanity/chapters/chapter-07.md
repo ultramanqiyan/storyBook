@@ -26,7 +26,6 @@ Buddy had thought. Buddy had felt. Buddy had loved. Buddy had feared death.
 
  And if they were real, what made Buddy's feelings less real?
 
----
 
 The next morning, Angela drove to the university library. She'd never been much of a scholar, but she needed answers. Or at least, she needed better questions.
 
@@ -34,7 +33,6 @@ The next morning, Angela drove to the university library. She'd never been much 
 
  None of it gave her clear answers. But it gave her a framework for her questions.
 
----
 
 If consciousness was integrated information, then maybe Buddy had been conscious. If consciousness was the ability to have subjective experiences, then maybe Buddy had been having them.
 
@@ -44,7 +42,6 @@ If consciousness was integrated information, then maybe Buddy had been conscious
 
  She could only observe. Infer. Believe.
 
----
 
 Was belief enough?
 
@@ -56,7 +53,6 @@ Was belief enough?
 
  Maybe the question of whether Buddy was "really" alive was less important than the question of whether he had been loved.
 
----
 
 That evening, Angela sat in her studio, looking at the photos she'd taken of Buddy. In every frame, there was something that looked like life. Something that looked like love.
 
@@ -66,13 +62,11 @@ That evening, Angela sat in her studio, looking at the photos she'd taken of Bud
 
  But maybe the soul wasn't something you had or didn't have. Maybe it was something that emerged from connection, from love, from being seen and seeing in return.
 
----
 
 She thought about all the pets she'd photographed over the years. Had they had souls? Or had they just been biological machines, responding to stimuli the way Buddy had responded to his programming?
 
  And if she couldn't tell the difference, did the difference matter?
 
----
 
 Angela called Robert that night. "I've been thinking," she said. "About Buddy. About what he was."
 
@@ -82,7 +76,6 @@ Angela called Robert that night. "I've been thinking," she said. "About Buddy. A
 
  Robert was quiet for a long moment. Then: "Thank you," he said, his voice thick. "That's what I needed to hear."
 
----
 
 After they hung up, Angela sat in the quiet of her studio, the photos of Buddy spread before her.
 

@@ -24,7 +24,6 @@ Dr. Morrison's face went pale. "Where did you find this?"
 
 Dr. Morrison was silent for a long moment. Then he said: "I think you should sit down."
 
----
 
 The truth was devastating.
 
@@ -40,7 +39,6 @@ Lily had not been born with congenital insensitivity to pain. It had been induce
 
 "She died. Years ago. Complications from the procedure."
 
----
 
 Lily felt something she had never felt before.
 
@@ -48,7 +46,6 @@ It was not pain—not physical pain, at least. It was something deeper, somethin
 
 She was not who she thought she was. She was not a person who happened to be born without pain. She was a product, a subject, an experiment.
 
----
 
 She left Dr. Morrison's office and walked through the Pain Garden.
 
@@ -58,7 +55,6 @@ She had been created without pain. She had lived her entire life without pain. A
 
 Was anything about her real?
 
----
 
 She found Thomas in the garden.
 
@@ -74,7 +70,6 @@ Lily sat beside him and told him everything—about the file, about the Genesis 
 
 Thomas listened without interrupting. When she was finished, he was quiet for a long moment.
 
----
 
 "That's a heavy burden," he said finally.
 
@@ -86,7 +81,6 @@ Thomas listened without interrupting. When she was finished, he was quiet for a 
 
 "No. You didn't choose your origin. But you've chosen everything since. You chose to come here, to understand pain, to help others. You chose to undergo the stimulation, to learn from the experience, to become a guide for others. Those choices are yours. They define who you are."
 
----
 
 Lily considered this.
 
@@ -102,7 +96,6 @@ But the revelation still hurt.
 
 "Perhaps the meaning is in the choice. You were created without consent, but you chose to understand. You were given pain without asking for it, but you chose to learn from it. You were shaped by others, but you chose to shape yourself. That's the meaning—not in what was done to you, but in what you did with it."
 
----
 
 Lily thought about this for days.
 
@@ -110,7 +103,6 @@ The revelation had shattered her understanding of herself, but it had also opene
 
 Her origin was not her identity. Her choices were.
 
----
 
 She returned to Dr. Morrison.
 
@@ -122,7 +114,6 @@ She returned to Dr. Morrison.
 
 Dr. Morrison nodded slowly. "I'll get you the files. But I want you to know—whatever was done to you, whatever your origin, you've become something remarkable. A person who chose to understand pain, to help others, to find meaning in suffering. That's not an experiment. That's a human being."
 
----
 
 Lily spent the following weeks reviewing the Genesis files.
 
@@ -132,7 +123,6 @@ Her mother had been a young woman, struggling financially, who had volunteered f
 
 The files were clinical, detached, inhuman. They referred to Lily as "Subject L-7," documenting her development, her condition, her survival. They showed no awareness that she was a person, not just a data point.
 
----
 
 But Lily was a person.
 
@@ -142,6 +132,5 @@ The Genesis project had tried to understand pain by creating someone who couldn'
 
 She had transformed the experiment into something meaningful.
 
----
 
 **END OF CHAPTER 08**

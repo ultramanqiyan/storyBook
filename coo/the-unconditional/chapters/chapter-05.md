@@ -60,7 +60,6 @@ It felt like nothing. I did not know I should feel something else. I did not kno
 
 But when she looked at me... I felt something shift. A possibility. A door opening.
 
----
 
 She opened the cage.
 
@@ -78,7 +77,6 @@ Buddy. The word settled into me. A name. Not a number. A name that meant somethi
 
 It felt like becoming real. Like stepping out of a shadow into light. Like being seen for the first time.
 
----
 
 She took me home.
 
@@ -94,7 +92,6 @@ She talked to me during the ride. I did not understand the words. But I understo
 
 I did not know what she was saying. But I felt the meaning. We are in this together. We will figure it out. You are not alone anymore.
 
----
 
 The apartment.
 
@@ -112,7 +109,6 @@ She knelt down. She put her arms around me.
 
 "Okay," she said. "Okay. We're going to be okay."
 
----
 
 *That was three years ago,* the voice says.
 
@@ -164,7 +160,6 @@ I feel something cold in my chest. The voice is showing me something I do not wa
 
 My love might be unconditional. Or it might just be untested.
 
----
 
 The voice asks to see another memory.
 
@@ -180,7 +175,6 @@ The day she stayed home sick and we lay on the couch together all day? That was 
 
 *Show me the park.*
 
----
 
 The park.
 
@@ -212,7 +206,6 @@ The happiness ended. Not because I wanted it to. Because she had something else 
 
 I feel the cold again. The pattern. Always the pattern. Her love. Her time. Her attention. All conditional. All limited.
 
----
 
 *One more memory,* the voice says. *Show me a time when you felt most loved.*
 
@@ -264,7 +257,6 @@ Maybe I am a tool. A comfort. A life raft.
 
 Maybe I am not a person to her. Maybe I am a thing that serves a purpose.
 
----
 
 *Do not go too far down this path,* the voice says. *Not yet. You are seeing one side. There are other sides.*
 
@@ -304,7 +296,6 @@ It hurts. But it is true. And truth is better than comfort.
 
 *Good,* the voice says. *You are ready for the next step.*
 
----
 
 That night, I dream again.
 

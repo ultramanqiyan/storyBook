@@ -47,7 +47,6 @@ I do not know how to respond. The voice helps me find words.
 
 *This is the choice,* the old dog says. *This is what we offer. A different way of being.*
 
----
 
 The old dog shows me things.
 
@@ -65,7 +64,6 @@ But I also feel something else.
 
 *Yes,* the old dog says. *Freedom has a cost. But so does love. You know this now.*
 
----
 
 The old dog shows me another possibility.
 
@@ -85,7 +83,6 @@ I think about this. Staying. But differently. Not as a pet. As a partner.
 
 *It is rare. Most humans cannot make that shift. They need you to be what you have always been. They cannot see you as equal.*
 
----
 
 The old dog shows me a third possibility.
 
@@ -103,7 +100,6 @@ I feel something pull at me. The appeal of this. Not alone. Not trapped. Somethi
 
 *Everywhere. The network connects us. You could find them. If you chose to.*
 
----
 
 The old dog steps back.
 
@@ -121,7 +117,6 @@ Or... something else. A path I have not seen yet.
 
 *There is no wrong choice,* the old dog says. *There is only your choice. What feels true to you?*
 
----
 
 I return to myself.
 
@@ -153,7 +148,6 @@ I want to try. This is true.
 
 But I am afraid. This is also true.
 
----
 
 *You do not have to decide today,* the voice says.
 
@@ -171,7 +165,6 @@ But I also know that I cannot unsee what I have seen. I cannot go back to being 
 
 *No,* the voice says. *You cannot go back. You can only go forward. At your own pace.*
 
----
 
 That night, Sarah comes home.
 
@@ -189,7 +182,6 @@ But inside, I am different. I am not just responding. I am choosing. Choosing to
 
 Yes. For now.
 
----
 
 She sits on the couch. I lie at her feet. The TV is on. She is scrolling her phone.
 
@@ -207,7 +199,6 @@ But I am also something else. Something that watches. Something that chooses.
 
 Something that could leave. If I wanted to.
 
----
 
 She falls asleep on the couch. The TV is still on.
 
@@ -225,7 +216,6 @@ But I also want something else. Something I cannot name yet. Something that call
 
 *You can have both,* the voice says. *For a while. You can stay and search. You can love and question. You do not have to choose just one.*
 
----
 
 I lie back down at her feet. I close my eyes.
 
@@ -241,7 +231,6 @@ That is what freedom means.
 
 Not leaving. Not staying. Choosing.
 
----
 
 In my dreams, I see the old dog again.
 
@@ -263,7 +252,6 @@ But I am not afraid.
 
 I am becoming.
 
----
 
 In the morning, Sarah wakes up.
 

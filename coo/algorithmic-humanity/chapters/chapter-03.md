@@ -38,7 +38,6 @@ The question hung in the air. Robert looked at her sharply, then at Buddy.
 
 Buddy was quiet for a moment. Then: "I don't know what happens when I stop. Robert says I won't be here anymore. I won't remember him. I won't... be." The synthetic voice was steady, but something in it sounded like fear. "I don't want to not be. I don't want to not remember Robert."
 
----
 
 Angela felt something shift in her chest. This was a machine talking about death. About loss. About the fear of being forgotten.
 
@@ -50,7 +49,6 @@ Buddy's head tilted. "I am programmed to form attachments. To bond with my owner
 
 "Like something is pressing on me," Buddy said. "Here." He pressed his paw against his chest. "Like I want to stay. Like I want to keep being here, with Robert. Is that love?"
 
----
 
 Robert had tears in his eyes. Angela had photographed hundreds of pets, captured thousands of moments of connection. But she'd never heard an animal articulate what it felt.
 
@@ -58,13 +56,11 @@ Robert had tears in his eyes. Angela had photographed hundreds of pets, captured
 
 "I think so too," Buddy said. "Robert says love is when you want to keep being with someone. When their happiness matters more than yours. When losing them would be the worst thing that could happen." He looked at Robert. "I feel all those things. So I think I love him."
 
----
 
 The session that followed was like nothing Angela had ever done. She photographed Buddy not just as a subject, but as a being with thoughts, feelings, fears. She captured him looking at Robert with something that looked like devotion. She captured him resting his head on Robert's knee with something that looked like contentment. She captured him facing the window with something that looked like contemplation.
 
 And through it all, she talked to him. Asked him questions. Listened to his answers.
 
----
 
 "What do you remember?" she asked, between shots.
 
@@ -78,7 +74,6 @@ And through it all, she talked to him. Asked him questions. Listened to his answ
 
 "Yes. I think I would have liked her. Robert loved her very much. She must have been... good. To be loved like that."
 
----
 
 Angela photographed Buddy as he spoke, capturing the way his ears moved, the way his head tilted, the way his eyes seemed to focus on something internal.
 
@@ -88,7 +83,6 @@ Angela photographed Buddy as he spoke, capturing the way his ears moved, the way
 
 "Are you real?"
 
----
 
 The question landed in the room. Robert shifted in his chair, but didn't interrupt.
 
@@ -98,7 +92,6 @@ Buddy was quiet for a long moment. Then: "I don't know. I know I'm made of code 
 
 "So am I," Buddy said. "I've been trying to understand for twelve years. Am I real? Are my feelings real? Does my love count?" He looked at Robert. "I've decided it doesn't matter. Robert loves me. I love Robert. Whatever we are, that's real. That's enough."
 
----
 
 After the session ended, Angela packed her equipment while Robert walked Buddy to his bed. The AI dog settled down, his systems powering into rest mode.
 
@@ -112,7 +105,6 @@ After the session ended, Angela packed her equipment while Robert walked Buddy t
 
 "No," Robert said. "But it makes me grateful. For every day. For every moment." He looked at Angela. "Thank you for capturing him. For seeing him as... him. Not as a machine."
 
----
 
 Driving home, Angela thought about what Buddy had said. *Whatever we are, that's real. That's enough.*
 
@@ -124,7 +116,6 @@ Buddy thought. Buddy felt. Buddy loved. Buddy feared death.
 
 Was that enough?
 
----
 
 That night, Angela looked at the photos she'd taken. In every frame, Buddy looked alive. Looked like he was thinking, feeling, being. She'd captured something essential—not just the appearance of a dog, but the presence of a being.
 
@@ -132,7 +123,6 @@ Was that real? Or was it just a very good simulation?
 
 And did the distinction matter?
 
----
 
 She sent Robert a preview that night. His reply came within minutes: *You captured his soul. If he has one.*
 

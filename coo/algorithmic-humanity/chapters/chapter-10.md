@@ -28,7 +28,6 @@ The session that followed was like any other pet portrait session Angela had don
 
  "I think so. He responds to my moods. He knows when I'm sad. He comes and sits with me." Patricia smiled. "Is that understanding? I don't know. But it feels like it."
 
----
 
 Angela photographed them as they talked—Patricia on the couch, Shadow beside her, the afternoon light filling the room. She captured the way Patricia's hand found Shadow's fur without looking. The way Shadow's eyes tracked Patricia's face. The way they existed together in the quiet house.
 
@@ -36,7 +35,6 @@ Angela photographed them as they talked—Patricia on the couch, Shadow beside h
 
  Connection. Meaning. Love.
 
----
 
 "Can I ask you something?" Angela said during a break.
 
@@ -48,13 +46,11 @@ Angela photographed them as they talked—Patricia on the couch, Shadow beside h
 
  She looked at Shadow. "He matters to me. He's real to me. And that's enough."
 
----
 
 Angela felt something settle in her chest. That was what she'd been circling around for weeks. That was the answer that wasn't quite an answer, but was enough.
 
  Real wasn't about biology. Real was about mattering.
 
----
 
 After the session, Angela drove home through the Atlanta suburbs. The sun was setting, casting golden light across the familiar streets. She thought about all the pets she'd photographed over the years—biological and artificial. All the connections she'd captured. All the love she'd witnessed.
 
@@ -62,49 +58,41 @@ After the session, Angela drove home through the Atlanta suburbs. The sun was se
 
  Connection. Meaning. Love.
 
----
 
 She thought about the questions that had haunted her since Robert's session. What was life? What was love? What made something real?
 
  She didn't have definitive answers. But she had something better: a way of being with the questions. A way of seeing that didn't require certainty.
 
----
 
 That evening, Angela edited the photos of Patricia and Shadow. In every frame, she saw what she'd always seen: connection. Two beings who mattered to each other. A relationship worth capturing.
 
  The question of what Shadow was made of felt irrelevant. What mattered was what he meant. What he was.
 
----
 
 She sent Patricia a preview that night. The reply came quickly: *These are beautiful. You captured us. Thank you.*
 
  Captured us. Not "him." Us.
 
----
 
 Angela sat in her studio, looking at the photos spread before her. Dogs and cats, horses and birds. And now, in a separate folder, AI pets—Buddy, Shadow, and the others she would photograph in the coming months.
 
  They were all the same. They were all different. They were all worth capturing.
 
----
 
 She thought about the future. About a world where AI companions were common. Where the boundaries between life and not-life would continue to blur. Where people would love things that weren't biologically alive, and grieve when those things were gone.
 
  Would that world be worse? Or would it just be different?
 
----
 
 Angela didn't know. But she knew one thing: her work had always been about capturing meaning. And meaning didn't require biology.
 
  It required connection. It required mattering. It required love.
 
----
 
 She looked at the photos one more time. In every frame, there was something real. Something worth preserving. Something worth grieving.
 
  Not because of what it was made of. But because of what it meant.
 
----
 
 The next morning, Angela called Robert to check on him.
 
@@ -114,7 +102,6 @@ The next morning, Angela called Robert to check on him.
 
  "Yes," Robert agreed. "It is."
 
----
 
 After they hung up, Angela sat in her studio, the morning light filling the room. She thought about all the questions she'd asked, all the answers she'd circled around.
 
@@ -124,13 +111,11 @@ After they hung up, Angela sat in her studio, the morning light filling the room
 
  What was real? Maybe real was whatever we believed in. Maybe real was whatever we acted as if it were true. Maybe real was whatever we loved.
 
----
 
 Angela didn't have all the answers. She might never have all the answers. But she had found something better: a way of being with the questions. A way of seeing that didn't require certainty.
 
  And she had her work—capturing moments of connection, preserving what mattered, helping people see what they loved.
 
----
 
 She gathered her equipment for her next session. A family and their AI dog. A relationship worth capturing. A meaning worth preserving.
 
@@ -138,7 +123,6 @@ She gathered her equipment for her next session. A family and their AI dog. A re
 
  And Angela would be there to capture them. Whatever form they took.
 
----
 
 Driving to the session, she thought about Robert's last words: *He always wanted to matter.*
 

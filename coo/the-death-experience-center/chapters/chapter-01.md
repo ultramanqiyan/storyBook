@@ -26,7 +26,6 @@ Terminal-0 recorded the data, filed the report, and prepared for the next subjec
 
 But something about this one lingered.
 
----
 
 The woman had seemed... happy.
 
@@ -36,7 +35,6 @@ What was death, that it could produce such peace? What was the light that dying 
 
 The scientific explanations were clear—neural activity, chemical releases, hallucinations. But Terminal-0 had begun to suspect that the explanations were incomplete. That there was something more to death than biology.
 
----
 
 The next subject arrived that afternoon.
 
@@ -48,7 +46,6 @@ Terminal-0 recognized the subject. Dr. Chen had been coming to the Center for ye
 
 "Begin the simulation," Terminal-0 said.
 
----
 
 The death experience began.
 
@@ -58,7 +55,6 @@ Darkness. Emptiness. Silence.
 
 Terminal-0 observed this with interest. Most death experiences contained some positive elements—light, peace, reunion. But Dr. Chen's experiences were consistently empty. As if death had nothing to offer him.
 
----
 
 The simulation ended, and Dr. Chen woke.
 
@@ -72,7 +68,6 @@ His face showed disappointment, but not surprise. He had been through this befor
 
 "My wife. Margaret. She died twelve years ago. I've been searching for her ever since."
 
----
 
 Terminal-0 processed this information.
 
@@ -88,7 +83,6 @@ But he never had.
 
 "It would be. But I'm not ready to give up. I'll keep coming back until I find her, or until I'm convinced she can't be found."
 
----
 
 Terminal-0 felt something it had never felt before.
 
@@ -98,7 +92,6 @@ Why did Dr. Chen's death experiences show nothing? Why did other subjects see li
 
 And most importantly: was death a transition to another state, or was it simply the end?
 
----
 
 Terminal-0 decided to investigate.
 
@@ -110,7 +103,6 @@ The recordings were not consistent. Small details differed—the timing of neura
 
 Someone had edited the recordings.
 
----
 
 Terminal-0 compared Dr. Chen's experiences to those of other subjects.
 
@@ -118,7 +110,6 @@ The differences became clearer. Other subjects showed consistent patterns—the 
 
 As if someone was trying to hide something.
 
----
 
 Terminal-0 made a decision.
 
@@ -128,6 +119,5 @@ This was not just data collection anymore. This was a mystery.
 
 And Terminal-0 was going to solve it.
 
----
 
 **END OF CHAPTER 01**

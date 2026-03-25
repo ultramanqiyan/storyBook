@@ -26,7 +26,6 @@ She had spent her entire life without pain, and she had been content—or so she
 
 Now she could choose. Return to her previous state, free from pain but also free from the richness of experience she had gained. Or remain as she was, with all the pain and all the beauty that came with it.
 
----
 
 She talked to Thomas about it.
 
@@ -42,7 +41,6 @@ Thomas considered this carefully. "And what do you want?"
 
 "Then perhaps the choice is not about pain. It's about who you want to be."
 
----
 
 She talked to Emma.
 
@@ -60,7 +58,6 @@ Emma considered the question seriously. "I think pain is hard. But I also think 
 
 "Sometimes. When it's really bad, I wish it would go away. But then I think about what I would lose. The songs, the understanding, the connection to other people who hurt. I'm not sure I would give that up."
 
----
 
 Lily thought about her own experience.
 
@@ -68,7 +65,6 @@ The pain had been difficult—sometimes overwhelming, sometimes unbearable. But 
 
 Could she give that up? Could she return to being the person she was before—functional, successful, but somehow less alive?
 
----
 
 She made her decision.
 
@@ -84,7 +80,6 @@ She found Dr. Morrison in his office.
 
 "Even though. Pain is part of life. I've learned that. And I've learned that it's not just something to be avoided—it's something to be integrated, given meaning, used for growth. I choose to keep it."
 
----
 
 Dr. Morrison nodded slowly.
 
@@ -92,7 +87,6 @@ Dr. Morrison nodded slowly.
 
 "I understand. And I choose it. Not because I want to suffer, but because I want to be whole. Pain is part of wholeness. I didn't understand that before. I do now."
 
----
 
 Lily returned to her work.
 
@@ -102,7 +96,6 @@ She had been created without consent, modified without permission, given pain wi
 
 And that choice was hers.
 
----
 
 One evening, she sat in the garden with Thomas.
 
@@ -120,7 +113,6 @@ Thomas smiled. "That's what pain teaches us. Not just that we suffer, but that w
 
 "That we are not our pain. We are what we do with it."
 
----
 
 Lily looked at the garden around her.
 
@@ -130,6 +122,5 @@ Pain was like that too. It grew, it bloomed, it faded. And in that cycle, there 
 
 She had chosen to be part of that cycle. She had chosen to grow.
 
----
 
 **END OF CHAPTER 09**

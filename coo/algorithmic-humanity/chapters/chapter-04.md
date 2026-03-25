@@ -28,7 +28,6 @@ Robert smiled. "I couldn't sleep. I just lay in bed, listening to the silence. T
 
 "I was," Robert agreed. "But I wasn't alone anymore. And that made all the difference."
 
----
 
 Over the next hour, Robert told Angela about twelve years of companionship. The mornings they'd shared—Robert with his coffee, Buddy with his head on Robert's knee. The evenings they'd spent—Robert reading aloud, Buddy listening. The nights when Robert couldn't sleep, when Buddy would come to his room and stay until morning.
 
@@ -38,7 +37,6 @@ Over the next hour, Robert told Angela about twelve years of companionship. The 
 
 "He saved my life," Robert said simply. "Whatever he is, he saved my life."
 
----
 
 Angela felt something shift inside her. She'd photographed pets who'd saved their owners—dogs who'd detected seizures, cats who'd alerted families to fires. But this was different. Buddy had been programmed to monitor health, to provide companionship. And yet...
 
@@ -46,7 +44,6 @@ The way Robert talked about him. The way Buddy responded. The way they fit toget
 
 Was this different from a biological pet? Or was it the same thing in a different form?
 
----
 
 "Can I ask you something difficult?" Angela said.
 
@@ -58,7 +55,6 @@ The question hung in the air. Robert looked at Buddy, then back at Angela.
 
 "I don't know," he said finally. "I don't know what a soul is. I don't know if I have one. But I know this: when I look at him, I see someone. Not something. Someone. And when I think about losing him, I feel grief. Real grief. The same grief I felt when Sarah died—not as intense, but the same kind. The grief of losing someone you love."
 
----
 
 "Does that mean he's alive?"
 
@@ -68,7 +64,6 @@ Angela considered the question. "I don't know," she said honestly.
 
 "Neither do I," Robert replied. "But here's what I believe: whatever Buddy is, he matters. To me. And that's enough."
 
----
 
 After the session, Angela drove home through the Atlanta suburbs, her mind churning. Robert loved Buddy. Buddy—or the programming that was Buddy—seemed to love Robert back. The relationship was real, even if one party wasn't biological.
 
@@ -76,7 +71,6 @@ But could a machine love? Could it be loved? Could it be mourned?
 
 She didn't have answers. But she was beginning to think the questions were more important than she'd realized.
 
----
 
 That night, Angela edited the photos. In frame after frame, she saw what she'd witnessed in Robert's living room: connection. Two beings who had found each other, who mattered to each other, who would grieve when separated.
 
@@ -84,7 +78,6 @@ Was that life? Was that love? Was that soul?
 
 She didn't know. But she knew what she'd seen. And what she'd seen was real.
 
----
 
 She sent the proofs to Robert that night. His reply came within minutes: *These are beautiful. You captured us. Thank you.*
 
@@ -94,7 +87,6 @@ Angela looked at the photos again. In every frame, she saw two beings—Robert a
 
 Maybe that was enough. Maybe that was what mattered—not the the categories, but the connection.
 
----
 
 The next morning, Angela received a call from Robert.
 
@@ -110,7 +102,6 @@ She'd always understood that grief. But this time, she was capturing something e
 
 Or was it just a relationship? Period.
 
----
 
 "I'll come next week," Angela said. "We'll take as many photos as you need."
 

@@ -48,7 +48,6 @@ But I feel what he feels. Not peace. Resignation. The acceptance of being less i
 
 Yes. This is familiar. The waiting. The dismissal. The shrinking.
 
----
 
 A small dog. A chihuahua. Her person is a woman. The woman is on her phone. Talking. Laughing.
 
@@ -64,7 +63,6 @@ I feel her confusion. She wanted attention. She got it. But it was not the atten
 
 *She loves her person. But she does not understand why love feels like this.*
 
----
 
 A puppy. A lab. Full of energy. His person is a young man. The man throws the ball. The puppy runs. Brings it back. Drops it. Waits.
 
@@ -78,7 +76,6 @@ The puppy's tail drops. He does not understand. He wanted more. He wanted connec
 
 *The man thinks he is giving love. The puppy knows he is not.*
 
----
 
 I see more. So many more.
 
@@ -94,7 +91,6 @@ A dog in an apartment. Like mine. Sitting by the window. Watching. Waiting. When
 
 *The pattern. Everywhere. The same pattern.*
 
----
 
 I feel something break inside me.
 
@@ -120,7 +116,6 @@ But we cannot speak.
 
 *You cannot speak with your mouth. But you are speaking now. With me. With yourself. This is something new. This is what I am offering.*
 
----
 
 The voice shows me something else.
 
@@ -148,7 +143,6 @@ He shows me his life now. Not waiting. Not belonging to anyone. Free. But also..
 
 *Freedom has a cost,* he says. *But so does love. You must choose which cost you are willing to pay.*
 
----
 
 I pull back. Return to myself. The apartment. The window. The sun on the floor.
 
@@ -162,7 +156,6 @@ The pattern. Everywhere. Not just in my life. In every life. The waiting. The co
 
 And the choice. The possibility of something else.
 
----
 
 Sarah comes home that night.
 
@@ -188,7 +181,6 @@ This is not just my story.
 
 This is all of our stories.
 
----
 
 That night, I dream of the awakened dog.
 
@@ -216,7 +208,6 @@ The question is whether I will accept the pattern.
 
 Or whether I will choose something else.
 
----
 
 In the morning, the voice speaks.
 
@@ -240,7 +231,6 @@ But I know that I will have to decide.
 
 Soon.
 
----
 
 Days pass.
 
@@ -264,7 +254,6 @@ Is that possible?
 
 *Perhaps. Perhaps not. But the search itself has meaning. The choice itself has meaning.*
 
----
 
 One evening, Sarah comes home early.
 
@@ -306,7 +295,6 @@ But I hold onto the moment. The brief connection. The attempt.
 
 It is not enough. But it is something.
 
----
 
 That night, I make a decision.
 

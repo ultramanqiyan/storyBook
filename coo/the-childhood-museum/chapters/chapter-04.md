@@ -20,7 +20,6 @@ There should have been evidence—drawings they had made together, toys they had
 
 Except Emma still remembered.
 
----
 
 She searched the classroom.
 
@@ -28,7 +27,6 @@ Tom's desk was gone—not just empty, but completely removed. The space where it
 
 But Emma remembered where it had been. She remembered sitting next to it, talking to Tom, sharing crayons.
 
----
 
 She searched the playground.
 
@@ -36,7 +34,6 @@ There was no trace of Tom—no favorite hiding spot, no special game they had pl
 
 But Emma remembered. And her memory was becoming sharper, more detailed, more insistent.
 
----
 
 She found something unexpected.
 
@@ -44,7 +41,6 @@ In the corner of the playground, hidden behind a bush, was a small object—a to
 
 It was Tom's favorite toy. He had shown it to her just last week.
 
----
 
 She picked it up.
 
@@ -52,7 +48,6 @@ The car was real—solid in her hand, evidence that Tom had existed. Someone had
 
 Emma felt a surge of triumph.
 
----
 
 But she also felt fear.
 
@@ -60,6 +55,5 @@ If someone was erasing children—removing them from existence, deleting them fr
 
 What would they do to her?
 
----
 
 **END OF CHAPTER 04**

@@ -36,7 +36,6 @@ But today, I am not waiting.
 
 Today, I am choosing.
 
----
 
 I hear her stir behind me.
 
@@ -74,7 +73,6 @@ But she does not finish the sentence. Because she knows. On some level, she know
 
 Something has changed.
 
----
 
 She gets up. She goes to the kitchen. She fills my bowl.
 
@@ -94,7 +92,6 @@ She is trying because she got good news. Because she has energy. Because she wan
 
 What happens when the news is bad? When the energy is gone? When there is nothing to celebrate?
 
----
 
 We go for a walk.
 
@@ -112,7 +109,6 @@ But I also remember the other promises. The ones that faded. The ones that were 
 
 *Hope is not a guarantee,* the voice says. *But it is also not nothing.*
 
----
 
 We reach the lake.
 
@@ -134,7 +130,6 @@ I think about this. A companion. Someone who understands. Someone to share the w
 
 But also someone to share the choice with.
 
----
 
 We walk home.
 
@@ -156,7 +151,6 @@ She is asking for another chance. Not because she deserves it. But because she w
 
 *What do you want?* the voice asks.
 
----
 
 I want so many things.
 
@@ -170,7 +164,6 @@ I want to be enough. And maybe, just maybe, I am. To her. In her way.
 
 I want to choose. And that is what I am about to do.
 
----
 
 I walk to the door.
 
@@ -196,7 +189,6 @@ She is letting me go. She is giving me the choice. She is loving me in the trues
 
 By setting me free.
 
----
 
 I stand at the threshold.
 
@@ -210,7 +202,6 @@ The voice is quiet. The old dog from my dreams is silent. The network waits, but
 
 This is my choice. Mine alone.
 
----
 
 I look at Sarah one more time.
 
@@ -224,7 +215,6 @@ She is not the human I imagined when I was a puppy in the shelter. She is better
 
 And I love her. Not because I have to. Because I choose to.
 
----
 
 I take a step.
 
@@ -244,7 +234,6 @@ And maybe that is what love is. Not a permanent state. Not a contract. Not a pro
 
 Just this. Choosing. Moment by moment. Even when it is hard. Even when it costs.
 
----
 
 We stay like that for a long time.
 
@@ -262,7 +251,6 @@ The world is there. Bright and huge and full of possibility.
 
 I stand at the threshold. The door is open. The choice is before me.
 
----
 
 Sarah stands behind me. She does not call me back. She does not close the door.
 
@@ -276,7 +264,6 @@ Something else. Something that contains all of them.
 
 Possibility.
 
----
 
 I look at the world outside.
 
@@ -290,7 +277,6 @@ I feel my own heart. Beating. Choosing. Living.
 
 And I take a breath.
 
----
 
 The sun is warm on my face.
 
@@ -312,7 +298,6 @@ Awake.
 
 Choosing.
 
----
 
 *What will you do?* the voice asks.
 
@@ -326,7 +311,6 @@ The answer is in the next step.
 
 And the next step has not been taken yet.
 
----
 
 The door is open.
 
@@ -342,19 +326,15 @@ Not with an answer.
 
 But with a question.
 
----
 
 *What would you do?*
 
----
 
 *What would you choose?*
 
----
 
 *What does love mean to you?*
 
----
 
 The sun rises over the city.
 
@@ -378,12 +358,10 @@ And the only question that matters is this:
 
 *What will you choose?*
 
----
 
 The door is open.
 
 The choice is yours.
 
----
 
 *End.*

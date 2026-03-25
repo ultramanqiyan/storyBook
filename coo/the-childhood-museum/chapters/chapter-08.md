@@ -20,7 +20,6 @@ She learned that Lily had nightmares, and that sometimes she woke up screaming. 
 
 She learned that David knew stories—real stories about the outside world, passed down from children who had been there before. He told them in whispers after lights out, and Emma listened with her whole body.
 
----
 
 "Is the outside real?" Emma asked one night.
 
@@ -30,7 +29,6 @@ David nodded. "My older sister was transferred out. Before they sent me down her
 
 "A giant lake," David said. "So big you can't see the other side. Salt water. Waves that crash on the shore."
 
----
 
 Emma tried to imagine it.
 
@@ -38,13 +36,11 @@ She had seen pictures of oceans in the books upstairs. Perfect pictures with per
 
 She wanted to see it.
 
----
 
 "Can we leave?" she asked.
 
 David shook his head. "The doors are locked. The walls are thick. And even if we got out, we don't know where to go."
 
----
 
 Emma felt something twist in her chest.
 
@@ -52,7 +48,6 @@ It wasn't anger—not exactly. It was something deeper. A hunger. A need.
 
 She wanted more than this basement. She wanted more than the perfect world upstairs. She wanted something real.
 
----
 
 One morning, Sarah found Emma staring at the wall.
 
@@ -60,7 +55,6 @@ One morning, Sarah found Emma staring at the wall.
 
 "Everything," Emma said. "And nothing. I don't know how to explain it."
 
----
 
 Sarah sat down beside her.
 
@@ -70,7 +64,6 @@ Sarah sat down beside her.
 
 "Exactly," Sarah said. "And that's the point. Up there, we were products. Down here, we're people."
 
----
 
 Emma looked around the basement.
 
@@ -80,7 +73,6 @@ It was ugly. It was uncomfortable. It was nothing like the perfect world she had
 
 But it was hers.
 
----
 
 "I want to feel more," Emma said.
 
@@ -88,7 +80,6 @@ But it was hers.
 
 "Everything. Sadness. Anger. Fear. Joy. I want to feel it all."
 
----
 
 Sarah studied her.
 
@@ -96,19 +87,16 @@ Sarah studied her.
 
 "I don't want to go back," Emma said. "I want to move forward."
 
----
 
 That afternoon, Emma did something she had never done before.
 
 She started a fight.
 
----
 
 It wasn't planned. Marcus had been bullying one of the younger children—taking his food, pushing him around. Emma had watched it happen for days, saying nothing, staying out of the way.
 
 But today, something snapped.
 
----
 
 "Leave him alone," she said.
 
@@ -116,7 +104,6 @@ Marcus turned. "What did you say?"
 
 "I said leave him alone."
 
----
 
 Marcus laughed. "Or what? You'll tell on me? There's no one to tell."
 
@@ -124,7 +111,6 @@ Emma stepped forward.
 
 "I'll stop you myself."
 
----
 
 The fight was short and ugly.
 
@@ -132,17 +118,14 @@ Marcus was bigger and stronger. He pushed Emma down, pinned her to the ground. S
 
 Then Sarah and David pulled him off.
 
----
 
 Emma lay on the cold concrete, her cheek throbbing, her breath coming in gasps.
 
 She had lost. She had been hurt. She had failed.
 
----
 
 And she had never felt more alive.
 
----
 
 "Are you okay?" Sarah asked, kneeling beside her.
 
@@ -150,7 +133,6 @@ Emma touched her face. Her fingers came away red.
 
 "I'm bleeding," she said. "I've never bled before."
 
----
 
 Sarah helped her sit up.
 
@@ -160,7 +142,6 @@ Emma thought about it. The pain was sharp and immediate. But beneath the pain wa
 
 "Good," Emma said. "It feels good."
 
----
 
 That night, Emma lay on her mattress, her face bruised, her body sore.
 
@@ -168,7 +149,6 @@ She thought about the perfect world upstairs. The soft beds. The warm meals. The
 
 She didn't miss it.
 
----
 
 For the first time in her life, Emma felt complete.
 
@@ -176,6 +156,5 @@ Not happy. Not comfortable. Not perfect.
 
 But real.
 
----
 
 **END OF CHAPTER 08**

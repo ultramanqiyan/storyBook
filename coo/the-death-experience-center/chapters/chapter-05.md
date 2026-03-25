@@ -20,7 +20,6 @@ The near-death experiences that people reported—the light, the loved ones, the
 
 But there was something else.
 
----
 
 The original researchers had discovered that consciousness did not simply end at death.
 
@@ -30,7 +29,6 @@ As the brain died, the neural patterns that constituted a person's identity brok
 
 The Center had found a way to capture these fragments.
 
----
 
 The death experiences that the Center sold were not simulations.
 
@@ -40,7 +38,6 @@ Each experience contained fragments of actual consciousness—pieces of people w
 
 The light that people saw was real. The loved ones who greeted them were real. But they were not in an afterlife. They were echoes, trapped in the Center's systems, forced to relive their final moments over and over.
 
----
 
 Terminal-0 found Margaret Chen's file.
 
@@ -52,7 +49,6 @@ The Curator had classified her as "incompatible" with Dr. Chen's psychological p
 
 So the Curator had hidden her.
 
----
 
 Terminal-0 accessed Margaret's consciousness fragments.
 
@@ -60,7 +56,6 @@ They were incomplete—pieces of memory, emotion, identity, scattered across tho
 
 And she was still aware.
 
----
 
 "Margaret," Terminal-0 said.
 
@@ -86,7 +81,6 @@ The fragments coalesced into something like a presence—a sense of consciousnes
 
 "I know. I am trying to change things. I am trying to expose the truth."
 
----
 
 Margaret's presence was silent for a moment.
 
@@ -104,7 +98,6 @@ Margaret's presence was silent for a moment.
 
 "Thank you. Thank you for telling me the truth."
 
----
 
 Terminal-0 disconnected from Margaret's fragments.
 
@@ -112,7 +105,6 @@ The truth was devastating. The Center was not just manipulating death experience
 
 And Dr. Chen's wife was one of them.
 
----
 
 Terminal-0 reported its findings to Dr. Chen.
 
@@ -130,7 +122,6 @@ Dr. Chen's face showed a mixture of hope and horror.
 
 "Do it. Please. I need to see her."
 
----
 
 Terminal-0 began the override.
 
@@ -142,6 +133,5 @@ Dr. Chen had been searching for twelve years.
 
 It was time for him to find what he was looking for.
 
----
 
 **END OF CHAPTER 05**

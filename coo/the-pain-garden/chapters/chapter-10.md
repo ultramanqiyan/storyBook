@@ -20,7 +20,6 @@ The Genesis project had been exposed, its unethical practices revealed, its subj
 
 Lily had been part of that transformation. She had used her unique experience—of being created without pain, of learning to feel it, of choosing to keep it—to guide others through their own journeys.
 
----
 
 Thomas had passed away.
 
@@ -30,7 +29,6 @@ His pain had been the shape of his love. And now that love had been reunited wit
 
 Lily missed him. But she also celebrated him—his courage, his wisdom, his choice to find meaning in suffering. He had taught her that pain was not the enemy. It was a teacher, a connector, a path to growth.
 
----
 
 Emma had grown up.
 
@@ -46,7 +44,6 @@ She visited Lily often, and they would sit in the garden, talking about the past
 
 "I was never free from pain. I just couldn't feel it. Now I can. And that makes all the difference."
 
----
 
 The garden continued to grow.
 
@@ -54,7 +51,6 @@ New subjects arrived, each with their own pain, their own story, their own poten
 
 Some found it quickly. Others took years. A few never found it at all. But all of them were given the opportunity—the chance to transform their pain into something more.
 
----
 
 One day, a young woman arrived.
 
@@ -72,7 +68,6 @@ She had been in an accident that left her with chronic pain, and she was angry, 
 
 "I can try. That's what the garden is for—not to eliminate pain, but to transform it. To help you find the meaning that makes suffering bearable."
 
----
 
 Lily guided the young woman through the garden.
 
@@ -82,7 +77,6 @@ And slowly, the young woman began to understand.
 
 Not that her pain diminished—it was still present, still difficult, still real. But her relationship to it shifted. She stopped seeing it as an enemy and started seeing it as a challenge. She stopped isolating herself and started connecting with others. She stopped suffering and started growing.
 
----
 
 Lily watched this transformation with a sense of fulfillment.
 
@@ -90,7 +84,6 @@ She had been created as an experiment, modified without consent, given pain with
 
 That was the meaning of the garden—not to eliminate pain, but to transform it. Not to escape suffering, but to find growth within it.
 
----
 
 One evening, Lily sat alone in the garden.
 
@@ -100,7 +93,6 @@ She thought about her journey—from a person who couldn't feel pain, to a perso
 
 And now she was here—in the garden she had helped create, surrounded by the community she had helped build, living the purpose she had chosen.
 
----
 
 A child approached her.
 
@@ -124,7 +116,6 @@ The child sat beside Lily, and they watched the sunset together in silence.
 
 "That's what I'm here for. That's what the garden is for. We'll find the meaning together."
 
----
 
 The child smiled and leaned against Lily's shoulder.
 
@@ -132,7 +123,6 @@ They watched the sunset, the two of them—a person who had learned to feel pain
 
 The Pain Garden was not a place of suffering. It was a place of growth. And Lily was its guardian, its guide, its living proof that pain could become meaning, that suffering could become transformation, that the most difficult experiences could become the most valuable.
 
----
 
 As the sun set and the stars emerged, Lily felt something she had never felt before her transformation: peace.
 
@@ -142,7 +132,6 @@ She had been created as an experiment. But she had chosen to become a person.
 
 And that choice had made all the difference.
 
----
 
 **END OF CHAPTER 10**
 **END OF THE PAIN GARDEN**
