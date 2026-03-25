@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter VIII: The Choice - Emotion or Efficiency - The Hollow Heart: A Transhumanist Psychological Drama - StoryBook</title>
+  <meta name="description" content="Kai must make an impossible choice: keep his enhanced senses or risk everything to feel again. The ultimate trade-off comes due.">
+  <meta name="keywords" content="choice, senses or soul, impossible decision, trade-off">
+  <meta property="og:title" content="The Choice - Emotion or Efficiency - The Hollow Heart: A Transhumanist Psychological Drama">
+  <meta property="og:description" content="Kai must make an impossible choice: keep his enhanced senses or risk everything to feel again. The ultimate trade-off comes due.">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-coo-the-hollow-heart-08?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-coo-the-hollow-heart-08?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/chapters/chapter-coo-the-hollow-heart-08">
+  <link rel="canonical" href="https://storybook-adventures.com/chapters/chapter-coo-the-hollow-heart-08">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The Choice - Emotion or Efficiency",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "The Hollow Heart: A Transhumanist Psychological Drama",
+      "genre": "Romance"
+    },
+    "position": 8,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 12px 10px;
+        padding-bottom: 15px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
+      }
+      
+      .drop-cap {
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
+      }
+    }
+  </style>
+</head>
+<body class="theme-romance">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER VIII</div>
+    <div class="chapter-name">The Choice - Emotion or Efficiency</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">T</span>he reversal clinic was in the basement of an old building in the Archive District—a place that looked like it had been forgotten by time and progress. The walls were bare concrete, the lights were fluorescent and flickering, and the air smelled of antiseptic and something older, something that might have been hope.  Dr. Webb had arranged the meeting. The specialist who performed the reversal procedures was a woman named Dr. Elena Vasquez, a former Enhancement Institute surgeon who had left the organization decades ago.  "You must be Kai," she said, extending her hand. Her grip was firm, her eyes direct. She was older than Dr. Webb, her face lined with years of work that most people didn't know existed. "Marcus told me about your situation."  "Can you help me?"  "That depends." She gestured for me to sit. "Let me explain what the reversal procedure involves, and then you can decide if you want to proceed."  ---  I sat in a chair that had seen better decades, my enhanced senses cataloging every detail of the room. The medical equipment was old but well-maintained. The surgical lights were positioned precisely. The monitoring systems were analog, not digital—a deliberate choice, I realized, to avoid any connection to the networks that tracked Enhanced individuals.  "The Enhancement procedure," Dr. Vasquez began, "makes three fundamental changes to the human body. First, it modifies the genetic structure to enhance sensory organs—eyes that can see ultraviolet and infrared, ears that can hear frequencies beyond normal human range, skin that can detect temperature gradients of less than a degree. Second, it implants a neural-silicon interface that allows direct connection to computational systems. Third, and most significantly, it rewires the brain's emotional processing centers."  "I know all this."  "What you may not know is that the third change—the rewiring of emotional centers—is the most difficult to reverse." She pulled up an image on a screen—a brain scan, showing neural pathways in different colors. "This is your brain, Kai. The blue pathways are the original emotional circuits. The red pathways are the enhanced sensory processing circuits. As you can see, the red has largely replaced the blue."  I stared at the image. The red pathways were thick and numerous, spreading through the brain like roots. The blue pathways were thin, fragmented, barely visible.  "The reversal procedure attempts to restore the blue pathways," Dr. Vasquez continued. "We use a combination of gene therapy, neural stimulation, and surgical intervention to undo the Enhancement's changes. But the brain is not like a computer. We can't simply restore a backup."  "What are the risks?"  She listed them methodically. Sensory loss—partial or complete blindness, deafness, or tactile impairment. Cognitive impairment—memory loss, reduced processing speed, difficulty with complex tasks. Emotional instability—mood swings, depression, anxiety. And death—the procedure had a 15% mortality rate.  "15%," I repeated. "One in seven people die."  "Yes. And of those who survive, approximately 30% experience some form of permanent impairment. Only about 55% recover fully—or as fully as possible."  "And the 55%? They regain their emotions?"  "Most of them. But not always completely. Some report partial emotional recovery—they can feel, but not as intensely as before. Others report that their emotions are... different. Changed by the experience."  I processed the numbers, my enhanced mind calculating probabilities and outcomes. The odds were not good. More likely than not, I would end up worse off than I was now—either dead, or damaged, or still hollow but without the enhanced senses that were my only compensation.  But there was a chance. A real chance to feel again.  ---  "Can I have some time to think?"  Dr. Vasquez nodded. "Of course. This isn't a decision to make lightly. Take as much time as you need—but not too much. The longer you've been Enhanced, the more difficult the reversal becomes."  "How much time do I have?"  "Months, probably. Maybe a year. After that, the neural pathways become too entrenched to reverse safely."  I stood, my enhanced body moving with mechanical precision. "Thank you, Dr. Vasquez. I'll let you know my decision."  "Kai." She stopped me at the door. "Whatever you decide, know this: there's no wrong choice. Living with the Enhancement is a valid life. Many people find meaning and purpose in that existence. And choosing reversal is also valid—the chance to become human again, even with the risks. Both paths have value."  I nodded, though I couldn't feel the gratitude her words were meant to inspire. "I'll be in touch."   I walked out of the clinic into the evening air, my enhanced senses immediately cataloging the world around me. The sunset was painting the sky in colors that no unenhanced human could see—ultraviolet and infrared adding depth to the oranges and pinks. The sounds of the city were a symphony of frequencies, from the low rumble of underground trains to the high-pitched whine of electrical systems.  This was what I would lose. The beauty that only I could perceive. The abilities that made me more than human.  But I would also lose the hollow. The emptiness that had replaced my soul. The knowledge that I could see everything but feel nothing.  Was it worth the risk?   I spent the night walking through the city, trying to decide.  I visited the places that had meant something to me before the Enhancement. The concert hall where I had performed. The park where I had walked with Maya. The apartment where I had lived with my parents before they died.  I could remember every moment of those experiences. I could describe them in perfect detail. But I couldn't feel them.  And that, I realized, was the core of my decision. Not the risks, not the odds, not the potential for loss. The core was this: I would rather die trying to feel again than live forever in a world I could only observe.   At dawn, I found myself outside Maya's building.  I didn't know why I had come. Maybe I needed to see her one more time, to remind myself what I was fighting for. Maybe I needed to say goodbye, in case the reversal didn't work.  I knocked on her door.  She answered almost immediately, as if she had been waiting. Her eyes were red-rimmed, her hair disheveled, her heart rate elevated�?2 bpm. She had been crying.  "Kai." Her voice was rough. "I was hoping you'd come."  "Can I come in?"  She stepped aside, and I entered her apartment for the second time in two days. It looked the same—cluttered, warm, filled with the artifacts of a creative life. But something felt different. Maybe it was just my enhanced perception, picking up on subtle cues I had missed before.  "I've been thinking about you," Maya said. "About what you're going through. About whether there's anything I can do to help."  "There is something," I said. "But you're not going to like it."   I told her about Dr. Webb. About the reversal procedure. About the risks—the 15% mortality rate, the potential for permanent impairment, the possibility that even if I survived, I might never fully recover my emotions.  She listened without interrupting, her heart rate climbing steadily as I spoke. By the time I finished, it was at 108 bpm—stress, fear, something I could identify but not share.  "You're going to do it," she said. It wasn't a question.  "I'm going to try. I have to."  "Kai, the risks�?  "I know the risks." I met her eyes. "But Maya, I can't live like this. I can't see the world in perfect detail and feel nothing about it. I can't remember our friendship and not feel the love that was there. I can't play music and hear only sound."  She was crying again. I could see the tears, could smell the salt, could hear her elevated heart rate. But I couldn't feel her pain, and that was the worst part.  "If you die," she said, her voice breaking, "I'll never forgive you."  "If I don't try," I replied, "I'll never forgive myself."   We sat together in silence as the sun rose, filling her apartment with light I could perceive in wavelengths she couldn't imagine. She held my hand, and I could feel the warmth, the pressure, the texture of her skin. But I couldn't feel the connection.  "I'm going to do it tomorrow," I said finally. "The reversal. Dr. Vasquez has agreed to perform the procedure."  Maya nodded slowly. "Will you... will you let me be there? When you wake up?"  "If I wake up."  "When you wake up," she corrected firmly. "I'll be there. Waiting for you to feel again."  I looked at her—at the tears on her face, the fear in her eyes, the love that I could observe but not experience. And I made myself a promise.  If I survived, I would feel that love. I would feel everything I had lost. I would become human again.  Or I would die trying.</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">— To Be Continued —</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-coo-the-hollow-heart-07" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-coo-the-hollow-heart">The Hollow Heart: A Transhumanist Psychological Drama</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 4  of 5
+    </div>
+    <a href="chapter-coo-the-hollow-heart-09" class="scroll-nav-btn">Next →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-romance';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+      
+      initMobileNavigation();
+    });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('Next') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('Previous') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
+  </script>
+</body>
+</html>

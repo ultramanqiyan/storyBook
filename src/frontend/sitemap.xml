@@ -446,4 +446,22 @@
     <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-synthetic-soul?lang=zh"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-synthetic-soul"/>
   </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-hollow-heart</loc>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-hollow-heart?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-hollow-heart?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-hollow-heart"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-silent-lab</loc>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-silent-lab?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-silent-lab?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-silent-lab"/>
+  </url>
 </urlset>

@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter II: The Hollow - Lost Emotions - The Hollow Heart: A Transhumanist Psychological Drama - StoryBook</title>
+  <meta name="description" content="Kai discovers the terrible price of his enhancement—he can see, hear, and feel everything, but the emotions that should accompany sensation are gone.">
+  <meta name="keywords" content="hollow, perfection costs feeling, emotional loss, emptiness">
+  <meta property="og:title" content="The Hollow - Lost Emotions - The Hollow Heart: A Transhumanist Psychological Drama">
+  <meta property="og:description" content="Kai discovers the terrible price of his enhancement—he can see, hear, and feel everything, but the emotions that should accompany sensation are gone.">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-coo-the-hollow-heart-02?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-coo-the-hollow-heart-02?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/chapters/chapter-coo-the-hollow-heart-02">
+  <link rel="canonical" href="https://storybook-adventures.com/chapters/chapter-coo-the-hollow-heart-02">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The Hollow - Lost Emotions",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "The Hollow Heart: A Transhumanist Psychological Drama",
+      "genre": "Romance"
+    },
+    "position": 2,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 12px 10px;
+        padding-bottom: 15px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
+      }
+      
+      .drop-cap {
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
+      }
+    }
+  </style>
+</head>
+<body class="theme-romance">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER II</div>
+    <div class="chapter-name">The Hollow - Lost Emotions</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">I</span> gave myself a week to adjust.  Seven days of adjusting to my new senses, of learning to filter the overwhelming input, of discovering the incredible capabilities the Enhancement had given me. I could see in complete darkness. I could hear conversations from three blocks away. I could smell emotions on people's skin—fear and desire and anger and joy, chemical signatures as distinct as colors.  I could interface directly with computers, accessing information at the speed of thought. I could perform complex calculations instantly. I could analyze data patterns that would have taken me hours before.  The Enhancement had made me, in many ways, superhuman.  But the music remained hollow.  ---  On the eighth day, I returned to my piano. I had avoided it for a week, telling myself I needed time to adjust, that the emotional connection would return once my new senses had settled.  I sat at the bench and placed my hands on the keys. The familiar gesture triggered a cascade of memories—every piece I had ever played, every performance, every moment of joy or sorrow that I had expressed through music.  I began to play.  I chose something simple: a Bach prelude I had learned as a child. The notes flowed from my fingers with unprecedented precision. I could hear every voice in the counterpoint, every harmonic relationship, every subtle interplay of melody and bass.  It was beautiful. Technically, musically, objectively beautiful.  And I felt nothing.  I kept playing, moving from Bach to Chopin to Debussy. Pieces that had once made me weep now passed through me like water through a sieve. I could analyze the emotional content—the minor key, the dissonance, the resolution—but I couldn't feel it.  I stopped. My hands rested on the keys, motionless.  What was wrong with me?  ---  I tried to remember what music used to feel like.  I closed my eyes and reached for the memory of performing at the Avalon Concert Hall, two years ago. I had played Rachmaninoff's Second Piano Concerto with the city orchestra. The memory was there—I could recall every note, every gesture, every moment of the performance.  But the feeling was gone.  I remembered being nervous before going on stage. I could describe the physical symptoms—elevated heart rate, sweaty palms, tightness in the chest. But I couldn't access the actual sensation of nervousness. It was like reading a medical description of an emotion rather than experiencing it.  I remembered the moment when the orchestra joined me in the second movement, the swelling of strings and winds, the way the music had seemed to lift me out of my body. I could describe it in perfect detail. But the feeling of transcendence, of connection, of being part of something larger than myself—that was gone too.  I remembered the applause at the end. The warmth of the spotlight. The faces in the audience, some tearful, all moved. I could recall every face, every expression, every detail of the concert hall.  But the pride. The joy. The overwhelming sense of accomplishment. All of it was absent, replaced by a clinical recollection of events.  I opened my eyes and stared at my hands.  These hands had played music that moved people to tears. These hands had expressed emotions I couldn't put into words. These hands had been the conduit for something essential, something human.  Now they were just hands. Capable, precise, enhanced hands. But hollow.   I spent the rest of the day testing myself.  I watched old videos—movies that had once made me laugh or cry. I analyzed every frame, every performance, every technique. But the emotions didn't come.  I looked at photographs of my parents, who had died five years ago in a transport accident. I remembered them clearly—their faces, their voices, their mannerisms. But the grief I had felt at their loss was gone, replaced by a factual awareness of their absence.  I tried to remember my first love, a woman named Elena I had dated in my early twenties. I could recall every moment of our relationship—every conversation, every touch, every fight. But the love, the longing, the heartbreak when it ended—all of it was missing.  It wasn't that I couldn't remember. I could remember everything with perfect clarity. The Enhancement had given me an eidetic memory, the ability to recall any moment of my life in perfect detail.  But memory without emotion was just data. And I was beginning to realize that I had become a data processor rather than a person.   That night, I dreamed.  I was back in the concert hall, playing the Rachmaninoff. The orchestra was behind me, the audience before me, the music flowing through me like a river of light. I could feel every note—not just hear it, but feel it, in my chest, in my bones, in my soul.  The music swelled, and I felt something I hadn't felt since the Enhancement: joy. Pure, overwhelming joy. The joy of creation, of expression, of being fully alive.  I woke with tears on my face.  I touched my cheek, feeling the wetness. My heart rate was elevated�?2 beats per minute, I noted automatically. My breathing was rapid and shallow. The chemical signature of cortisol was present in my sweat.  I was having an emotional response. Or at least, a physiological one.  But as I lay in the dark, trying to hold onto the feeling from the dream, it slipped away like water through my fingers. I could remember the dream—I would remember it forever now—but the emotion was already fading, leaving only the clinical awareness that I had felt something, once.  I stared at the ceiling, seeing every crack and imperfection in the plaster, and wondered if this was what it felt like to lose your soul.   The next morning, I called Dr. Chen.  "Kai," she said, her voice warm but professional. "How are you adjusting? Any concerns?"  "I need to come in," I said. "Something's wrong."  "Can you describe the issue?"  I hesitated. How could I describe it? The absence of something that should be there? The hollow feeling where emotion used to live?  "I'm not... feeling things," I said finally. "The way I used to."  There was a pause on the other end. "Can you be more specific?"  "I played piano yesterday. I heard every note perfectly. But I didn't feel the music. I tried to remember emotional experiences—performances, relationships, losses. I can remember the events, but not the feelings."  Another pause. "Kai, emotional processing can take longer to adjust than sensory processing. The Enhancement affects different neural pathways at different rates. It's not unusual for patients to report temporary emotional blunting during the integration period."  "Temporary?" I clung to the word. "How temporary?"  "Typically a few weeks to a few months. The emotional centers need time to recalibrate to the enhanced sensory input. Once they do, many patients report even greater emotional capacity than before."  I thought about the consent forms I had signed. They had been thorough—dozens of pages covering potential complications, side effects, and risks. I remembered the section on emotional effects: "Temporary emotional adjustment period may occur during neural integration. Most patients report resolution within 3-6 months."  Temporary. Resolution. Those words had seemed reassuring at the time.  But there had been another section, buried in the fine print of the risk disclosure: "In rare cases, permanent alterations to emotional processing capacity have been observed. Patients should discuss this risk with their physician before proceeding."  I had read it. I had signed the forms. But I hadn't really understood what it meant. The doctors had emphasized the temporary nature of most side effects, the high success rates, the transformative benefits. The permanent risks had been presented as statistical outliers—unlikely, rare, almost theoretical.  I had wanted to believe them.  "I'd like to come in anyway," I said. "For a check-up."  "Of course. I'll schedule you for tomorrow afternoon."  I hung up and sat in silence, surrounded by the sounds and smells and sights of a world I could now perceive in perfect detail.  A world that had never felt more distant.</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">— To Be Continued —</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-coo-the-hollow-heart-01" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-coo-the-hollow-heart">The Hollow Heart: A Transhumanist Psychological Drama</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 1  of 5
+    </div>
+    <a href="chapter-coo-the-hollow-heart-03" class="scroll-nav-btn">Next →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-romance';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+      
+      initMobileNavigation();
+    });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('Next') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('Previous') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
+  </script>
+</body>
+</html>
