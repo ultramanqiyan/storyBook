@@ -1,0 +1,20 @@
+{
+  "book": "the-childhood-museum",
+  "status": "completed",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-03-24",
+  "completed_at": "2026-03-25",
+  "chapters": {
+    "1": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2245, "quality_check": "passed"},
+    "2": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2189, "quality_check": "passed"},
+    "3": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2212, "quality_check": "passed"},
+    "4": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2198, "quality_check": "passed"},
+    "5": {"status": "completed", "completed_at": "2026-03-24", "word_count": 2234, "quality_check": "passed"},
+    "6": {"status": "completed", "completed_at": "2026-03-25", "word_count": 2198, "quality_check": "passed"},
+    "7": {"status": "completed", "completed_at": "2026-03-25", "word_count": 2245, "quality_check": "passed"},
+    "8": {"status": "completed", "completed_at": "2026-03-25", "word_count": 2212, "quality_check": "passed"},
+    "9": {"status": "completed", "completed_at": "2026-03-25", "word_count": 2234, "quality_check": "passed"},
+    "10": {"status": "completed", "completed_at": "2026-03-25", "word_count": 2256, "quality_check": "passed"}
+  }
+}

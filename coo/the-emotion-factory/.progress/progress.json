@@ -1,0 +1,20 @@
+{
+  "book": "the-emotion-factory",
+  "status": "completed",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-03-25",
+  "completed_at": "2026-03-25",
+  "chapters": {
+    "chapter-01": {"status": "completed", "word_count": 2267},
+    "chapter-02": {"status": "completed", "word_count": 2234},
+    "chapter-03": {"status": "completed", "word_count": 2178},
+    "chapter-04": {"status": "completed", "word_count": 2212},
+    "chapter-05": {"status": "completed", "word_count": 2256},
+    "chapter-06": {"status": "completed", "word_count": 2198},
+    "chapter-07": {"status": "completed", "word_count": 2234},
+    "chapter-08": {"status": "completed", "word_count": 2189},
+    "chapter-09": {"status": "completed", "word_count": 2212},
+    "chapter-10": {"status": "completed", "word_count": 2178}
+\}
+\}
