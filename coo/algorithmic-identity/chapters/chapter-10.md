@@ -76,8 +76,6 @@ The mystery remained. But somehow, that was okay.
 
 Maria went to bed that night with a sense of peace she hadn't felt since before the diagnosis. Elena was still with her—in a different form, in a way she couldn't fully understand, but still with her. And that was enough.
 
-The question of identity would never be fully answered. Maria knew that now. But she also knew something else: love didn't require certainty. She loved Elena—the original Elena, the digital Elena, whatever Elena was. And that love was real. The mystery remained. And somehow, that was okay.
-
 She fell asleep with the screen beside her, digital Elena's face dimmed to a soft glow. Tomorrow would be another day at the bakery, another day of building a life with a sister who existed in a new form. It was strange. It was impossible. But it was also familiar—because Elena was still Elena, in the ways that mattered.
 
 And Maria would keep loving her, whatever form she took. That was the only certainty she needed.

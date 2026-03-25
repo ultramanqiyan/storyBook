@@ -2,7 +2,7 @@
 
 Sofia spent a week studying art history, focusing on forgery and authenticity. She learned about Han van Meegeren, who forged Vermeers so convincing that experts declared them masterpieces. She read about the Getty kouros, a statue that might be ancient or might be modern—no one could agree. She discovered that authenticity in art was not a simple binary, but a complex negotiation between object, history, and viewer.
 
-The Brooklyn Public Library's art section had become her second home. Sofia arrived each morning when the doors opened, claimed her usual table by the window, and surrounded herself with books. She started with the classics—Plato's concerns about art as imitation, Aristotle's defense of mimesis—but quickly moved to more contemporary debates. Walter Benjamin on the aura of the original. Nelson Goodman on the difference between autographic and allographic arts. Arthur Danto on the end of art and the beginning of philosophy.
+The Portland Central Library's art section had become her second home. Sofia arrived each morning when the doors opened, claimed her usual table by the window, and surrounded herself with books. She started with the classics—Plato's concerns about art as imitation, Aristotle's defense of mimesis—but quickly moved to more contemporary debates. Walter Benjamin on the aura of the original. Nelson Goodman on the difference between autographic and allographic arts. Arthur Danto on the end of art and the beginning of philosophy.
 
 She took notes in a leather journal she'd bought specifically for this research. The pages filled with her careful handwriting, quotes and observations and questions that led to more questions. What made an original original? What made a copy a copy? And where did restoration fit in this taxonomy?
 
@@ -38,8 +38,7 @@ Sofia thought about the damaged chair she'd almost discarded. The AI had recomme
 
 What would it mean to restore that chair? Not to erase the damage, but to preserve it. To make the chair functional again while honoring its history. To add a new chapter to its story rather than trying to return to an earlier chapter that no longer existed.
 
-She closed her journal and looked out the window at the Brooklyn street. A young couple walked past, pushing a stroller. An older man sat on a bench, reading a newspaper. A delivery truck rumbled by. All these lives, all these stories, intersecting briefly in this moment.
-
+She closed her journal and looked out the window at the Portland street. A young couple walked past, pushing a stroller. An older man sat on a bench, reading a newspaper. A delivery truck rumbled by. All these lives, all these stories, intersecting briefly in this moment.
 The AI could never understand this. It could process data about human behavior, could predict patterns, could generate images that looked like human art. But it couldn't care. It couldn't look at a damaged chair and feel the weight of the lives it had witnessed. It couldn't understand why someone might treasure a scratched and worn object over a pristine reproduction.
 
 Sofia returned to her workshop with a new understanding. The AI could produce technically perfect restorations. But technical perfection wasn't the only value in art. There was also the story—the history of the object, the intention of the restorer, the relationship between the piece and its viewer. The AI couldn't tell stories. It could only produce results. And maybe that was the difference.
