@@ -42,8 +42,6 @@ It came without warning—a sudden cold in her chest, a fading like morning mist
 
 Elara pushed forward, and the crack widened.
 
----
-
 The second working took her childhood.
 
 She felt it go in pieces—the first time Lyra had shown her a spell, the sound of their mother's voice, the feeling of being small and safe and loved. Each memory was a thread, and the Rift pulled them free one by one.
@@ -57,8 +55,6 @@ But something remained—a feeling in her chest, a hollow ache where something u
 *Lyra. Lyra. Lyra.*
 
 "Almost there," ORACLE said. "One more working. One more sacrifice."
-
----
 
 The third working was the hardest.
 
@@ -95,8 +91,6 @@ All of it. Every specific moment, every concrete memory. The feeling remained—
 She fell to her knees, gasping. The Rift pulsed before her, an open wound in reality.
 
 "Go," ORACLE said. "She is waiting."
-
----
 
 Elara stood, her legs unsteady.
 

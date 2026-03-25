@@ -6,8 +6,6 @@ Elara stepped through, and everything she knew fell away—up, down, past, futur
 
 Somewhere in this chaos, her sister was waiting.
 
----
-
 The first thing she noticed was the silence.
 
 Not the absence of sound—there was plenty of that, echoes of voices that had never spoken, whispers of conversations that might yet occur. But underneath it all was a deeper silence, a stillness that seemed to breathe.
@@ -27,8 +25,6 @@ She saw her parents—young, alive, holding hands in a garden she couldn't remem
 *These are echoes*, she realized. *Remnants of what was, floating in what might be.*
 
 She reached for them, but they slipped away like smoke.
-
----
 
 She floated through layers of time, searching for the one thing that mattered.
 

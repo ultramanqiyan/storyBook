@@ -26,8 +26,6 @@ Elara nodded. She had known this was coming. She had accepted it the moment she'
 
 "Show me."
 
----
-
 The threads of time were easier to see now. Elara had learned to quiet her mind, to let the patterns emerge from the chaos. Gold threads for joy, silver for sorrow, black for endings, white for beginnings. They wove through each other in an endless dance, creating the tapestry of reality.
 
 "Find a thread that leads forward," ORACLE instructed. "Not backward—that is the past, fixed and unchangeable. Forward. Into possibility."
@@ -70,8 +68,6 @@ Elara's mind raced. Lyra wasn't just trapped—she was holding the door closed. 
 
 "That is what you must learn. The path is not simple. It will require power beyond what you currently possess—and sacrifices beyond what you have yet given."
 
----
-
 The memory came without warning.
 
 Elara was sitting in the corner of the chamber, eating the last of her bread, when suddenly she was somewhere else. A kitchen, warm with the smell of baking. A woman's voice, singing softly. And a cake—small, lopsided, covered in too many candles.
@@ -80,7 +76,7 @@ Elara was sitting in the corner of the chamber, eating the last of her bread, wh
 
 Elara blinked, and the memory was gone. But something was wrong. She could still see the kitchen—could describe every detail—but the warmth was fading, the smell already forgotten. The sound of the voice was becoming just sound, empty of meaning.
 
-"What�? she began.
+"What�? she began.
 
 "The price," ORACLE said quietly. "You performed a working of time magic. You saw a possible future. The cost was a memory of the past."
 
@@ -99,8 +95,6 @@ Elara sat in the growing darkness, trying to hold onto what was already gone. Th
 She thought of Lyra, trapped in the dark, holding the door closed against an ancient evil. Five years of that. Five years of losing herself, piece by piece, until she couldn't even remember she had a sister.
 
 *Is this what happened to you, Lyra? Is this what you gave up?*
-
----
 
 "Again," Elara said, standing.
 
@@ -122,8 +116,6 @@ Elara thought of all the moments that had made her—the day her parents died, t
 
 "Show me," she said.
 
----
-
 The thread she pulled this time was heavier, thicker, woven with the weight of years. It resisted at first, then came free with a sound like tearing cloth.
 
 And suddenly she was walking through a world that hadn't happened yet.
@@ -132,7 +124,7 @@ She saw herself—older, harder, her eyes haunted by things she hadn't yet exper
 
 *Elara. Come home. Your sister is waiting.*
 
-She watched her future self hesitate. Watched her reach toward the crack. Watched her fingers brush the edge of the darkness�?
+She watched her future self hesitate. Watched her reach toward the crack. Watched her fingers brush the edge of the darkness�?
 And then she saw Lyra.
 
 Her sister stood in the Rift, unchanged by five years of imprisonment. Her face was calm, almost peaceful. And her eyes—her eyes were full of something that looked like relief.
@@ -149,7 +141,7 @@ The vision shattered, and Elara was back in the chamber, her heart pounding.
 
 "Yes."
 
-"Then how�?
+"Then how�?
 
 "There is a third path. A way to save your sister without releasing the Hollow King. But it requires..." ORACLE hesitated. "It requires you to become the seal yourself."
 

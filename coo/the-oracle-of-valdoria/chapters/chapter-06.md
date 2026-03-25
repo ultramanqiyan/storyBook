@@ -66,8 +66,6 @@ And she saw Lyra watching her, eyes full of grief, knowing that her sister had g
 
 *Is this what you want?* the vision asked. *Is this worth it?*
 
----
-
 Elara sat in the darkness of ORACLE's chamber, her mind racing.
 
 Failure meant the end of everything. Success meant losing herself, becoming a shadow of who she was. Both paths led to loss.
@@ -98,8 +96,6 @@ And she thought of Lyra, alone in the dark, holding the door closed against an a
 
 "Show me the way," Elara said. "Whatever it costs."
 
----
-
 The lessons that followed were the hardest of all.
 
 Elara learned to see the Rift—not as a place, but as a wound in reality. She learned to navigate the chaos of fragmented time, to find her way through moments that hadn't happened yet and memories that had already faded.
@@ -115,8 +111,6 @@ But she held onto one thing: the knowledge that she had a sister. That somewhere
 And somewhere in the darkness, the Hollow King whispered:
 
 *I'm waiting, Elara Vance. Come home.*
-
----
 
 The night before she was to enter the Rift, Elara sat alone in ORACLE's chamber, trying to hold onto the fragments of herself that remained.
 

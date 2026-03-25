@@ -4,8 +4,6 @@
 
 Elara looked at Lyra, at the sister she barely remembered but somehow still loved. There had to be another way. There had to be.
 
----
-
 The darkness pressed closer, and Elara felt the weight of the choice before her.
 
 Five years ago, Lyra had stood in this same place. She had heard the same voice, faced the same options. And she had chosen to stay—to become the seal, to hold the door closed, to sacrifice her freedom for the world.
@@ -22,15 +20,13 @@ The Hollow King's form shifted, darkness swirling. *There is no other way. The s
 
 "One consciousness," Elara repeated. "But what if there were two?"
 
-Lyra's hand tightened in hers. "Elara, what are you�?
+Lyra's hand tightened in hers. "Elara, what are you�?
 
 "Two anchors," Elara said, her voice growing stronger. "Two seals. We share the burden. Both of us hold the door closed. And because there are two of us, we can both leave—sometimes. Briefly. But we always come back."
 
 *You would condemn yourself to this?* The Hollow King's voice was incredulous. *You would choose an eternity of imprisonment?*
 
 "I would choose to save my sister."
-
----
 
 The Hollow King laughed, a sound that echoed through the chaos.
 
@@ -41,8 +37,6 @@ The Hollow King laughed, a sound that echoed through the chaos.
 *Your sister didn't remember you. What makes you different?*
 
 "Nothing," Elara admitted. "Except that I'm making this choice knowing the cost. Lyra didn't choose to become the seal—she stumbled into it. I'm choosing it. And that makes all the difference."
-
----
 
 She turned to Lyra.
 
@@ -57,8 +51,6 @@ Lyra's eyes filled with tears that weren't really tears—in this place, emotion
 "Enough for what?"
 
 "Enough to know this is the right choice."
-
----
 
 The Hollow King's darkness pressed closer.
 
@@ -76,8 +68,6 @@ Elara added her strength to Lyra's.
 
 The door held.
 
----
-
 The sensation was unlike anything she had ever experienced.
 
 She could feel the Hollow King on the other side—his rage, his patience, his ancient hunger. She could feel the weight of eternity pressing against her. And she could feel Lyra beside her, their consciousnesses intertwined, sharing the burden.
@@ -86,8 +76,6 @@ She could feel the Hollow King on the other side—his rage, his patience, his a
 
 But she wasn't alone anymore. And neither was Lyra.
 
----
-
 "Can we leave?" Elara asked. "Now that there are two of us?"
 
 Lyra's presence shifted beside her. "Sometimes. Briefly. But we always have to come back. The seal needs us."
@@ -95,8 +83,6 @@ Lyra's presence shifted beside her. "Sometimes. Briefly. But we always have to c
 "Then let's go home. Just for a little while."
 
 Together, they turned away from the darkness.
-
-The Hollow King screamed behind them—a sound that wasn't sound, a fury that transcended physical expression. But the door held. The seal remained.
 
 And Elara and Lyra walked through the chaos, toward a light that flickered in the distance.
 
@@ -113,8 +99,6 @@ ORACLE's light pulsed above them.
 "For now," Elara said. "He said he would wait. That one of us would forget."
 
 "That is a concern for another time." ORACLE's glow was warm. "For now, rest. You have both earned it."
-
----
 
 Elara lay on the stone floor, staring at the ceiling.
 

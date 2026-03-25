@@ -46,11 +46,9 @@ The memory shattered, and Elara was back in ORACLE's chamber, her chest tight wi
 
 "She forgot many things," ORACLE said gently. "The cost of her research. But she never forgot that she was searching for something. Someone. She simply couldn't remember who."
 
----
-
 "Show me more," Elara demanded.
 
-ORACLE's light flickered. "Each fragment costsâ€?
+ORACLE's light flickered. "Each fragment costsï¿½?
 
 "I don't care. Show me."
 
@@ -103,8 +101,6 @@ Elara sat on the cold stone floor, her mind racing. Lyra had walked into the Rif
 "You must learn faster than she did. You must reach the Rift before you lose too much." ORACLE's voice was measured. "And you must find a way to share her burden without releasing what she holds at bay."
 
 "Teach me," Elara said. "Whatever it costs."
-
----
 
 The days that followed were a blur of learning and loss.
 

@@ -20,8 +20,6 @@ ORACLE's light had dimmed, as if the ancient construct was conserving energy. Th
 
 "It is... uncertain. The Hollow King will adapt. He will find new ways to test the seal. But for now, you have bought time." ORACLE's voice was warm. "You have saved your sister."
 
----
-
 Elara looked at Lyra.
 
 Her sister was sitting on the stone floor, her face pale, her eyes distant. Five years in the Rift had changed her—not physically, but somewhere deeper. Her consciousness had been stretched thin by years of holding the door closed, and even now that the burden was shared, the scars remained.
@@ -31,8 +29,6 @@ Her sister was sitting on the stone floor, her face pale, her eyes distant. Five
 Lyra's eyes focused slowly. "I don't know," she said. "I've been holding the door for so long. I've forgotten... so much." She looked at Elara. "I don't remember your face. I don't remember our childhood. But I know you're my sister. I know you saved me."
 
 "That's enough," Elara said. "That's always been enough."
-
----
 
 They sat in silence for a long time.
 
@@ -47,8 +43,6 @@ But even without the memories, she could feel something. A hollow ache where lov
 "I don't remember you," Elara said. "But I know I love you."
 
 Lyra smiled, and it was the saddest, most beautiful thing Elara had ever seen. "I know. I feel the same way."
-
----
 
 "What happens now?" Elara asked ORACLE.
 
@@ -67,8 +61,6 @@ Elara nodded slowly. She had known this was coming. Had chosen it willingly. But
 "Will we remember them?"
 
 ORACLE was silent for a moment. "You may recognize faces. Names may come back when triggered. But the connections—the feelings, the relationships—those are gone."
-
----
 
 They emerged from the ruins at dawn.
 

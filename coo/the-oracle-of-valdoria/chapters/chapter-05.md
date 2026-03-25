@@ -6,7 +6,7 @@ But the spell had worked. She had pulled a thread of time and seen a moment that
 
 "You grow stronger," ORACLE observed. "Your control improves with each working."
 
-"What good is control if I lose myself?" Elara's voice was bitter. "I can't remember my mother's face. I can't rememberâ€? She stopped, suddenly uncertain. What couldn't she remember? There was something, someone, but the details slipped away like water through her fingers.
+"What good is control if I lose myself?" Elara's voice was bitter. "I can't remember my mother's face. I can't rememberï¿½? She stopped, suddenly uncertain. What couldn't she remember? There was something, someone, but the details slipped away like water through her fingers.
 
 "You are paying the price," ORACLE said gently. "This is the nature of time magic."
 
@@ -100,15 +100,13 @@ But it also meant saving her sister. It meant Lyra wouldn't be alone anymore.
 
 "I'll do it," Elara said.
 
-"You understand what this means? You would never have a family. Never have a home that wasn't the Rift. Neverâ€? ORACLE hesitated. "Never remember why you chose this."
+"You understand what this means? You would never have a family. Never have a home that wasn't the Rift. Neverï¿½? ORACLE hesitated. "Never remember why you chose this."
 
 "I'll remember," Elara said, though she wasn't sure she believed it. "I'll remember Lyra."
 
 "Your sister didn't."
 
 "I'm not my sister." Elara faced the hourglass, her jaw set. "Teach me what I need to know. I'm ready to finish this."
-
----
 
 That night, as Elara lay in the darkness, she heard the Hollow King's voice againâ€”not from the threads of time, but from somewhere deeper. Somewhere inside.
 
