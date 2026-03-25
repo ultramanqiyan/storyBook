@@ -234,7 +234,6 @@ The question hit Marcus like a blow. Even if it costs you. Echo was already thin
 
 "Yes," he said. "Even if it costs me."
 
----
 
 Marcus had thirty minutes before the meeting Chen had demanded—a "preliminary discussion" to prepare for tomorrow's board review. He looked at Echo's display, at the question that had appeared: "Are you okay?"
 

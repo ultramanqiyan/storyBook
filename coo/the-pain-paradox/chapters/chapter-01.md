@@ -94,7 +94,6 @@ She hung up and sat in the dark, the phone's glow fading as the screen went blac
 
 She didn't have an answer. She never had an answer.
 
----
 
 Every night, Sarah conducted an inventory. Not of possessions, but of damage. She stood in front of the bathroom mirror and catalogued what her body had endured without her knowledge—the bruises, the cuts, the burns she only discovered after they'd already scabbed over.
 
@@ -106,7 +105,6 @@ Tonight there were seven: a bruise on her left thigh (corner of her desk, probab
 
 She turned off the light and stood in the darkness. *I am a ghost haunting my own life,* she thought, and the thought felt true in a way that nothing else did.
 
----
 
 The advertisement appeared between articles about office productivity and stress management, as if the algorithm knew what she needed before she did. Sarah had been scrolling without really reading, her mind half on the day's events and half on nothing at all, when the words caught her attention.
 

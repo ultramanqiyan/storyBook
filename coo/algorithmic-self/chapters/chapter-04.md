@@ -80,7 +80,6 @@ But even as she gathered this evidence, she noticed something else. The moments 
 
 And she was still checking her email during dinner.
 
----
 
 On Friday, she returned to the lab.
 
@@ -116,7 +115,6 @@ Maggie stared at the number. Seventy-one percent. She tried to remember the last
 
 Maggie felt a chill. She thought about Tom, about his patience, his warmth, his consistent presence. She'd always appreciated those qualities. But what if his patience was actually resignation? What if his warmth was a gift she'd stopped reciprocating?
 
----
 
 She left the lab with a new determination. The AI was wrong. It had to be. She'd prove it by changing the patterns, by reconnecting with Tom, by showing that self-knowledge was still possible.
 

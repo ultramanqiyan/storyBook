@@ -42,7 +42,6 @@ Sarah almost laughed. "No, AUGUST. That's not... that's not the point."
 
 The question hung in the air. Sarah didn't have an answer. She'd been trying to practice letting go, but the more she tried, the more impossible it seemed.
 
----
 
 The next few days followed the same pattern. Sarah would schedule her "letting go practice," sit down to do it, and spend the entire time trying to figure out if she was doing it right. Each session ended with more frustration than the last.
 
@@ -50,7 +49,6 @@ It hit her in the middle of a meeting on Thursday. She was trying to let go of a
 
 The paradox made her head spin. You couldn't try to let go. Trying was holding on. But if you didn't try, how did you let go? It was like being told to relax—the moment someone said it, you became more tense.
 
----
 
 That evening, she sat in her dark apartment, phone glowing on the table, and felt the weight of failure. She'd been practicing for days, and she was no closer to understanding. If anything, she was more confused than when she'd started.
 
@@ -60,7 +58,6 @@ AUGUST responded, as always. "I can help you find resources on the topic."
 
 "Thank you," Sarah said, not meaning it. "I think I need to talk to Dr. Lin again."
 
----
 
 The garden looked the same as it had that first day. But Sarah was different. She walked up the path, not anxious, not desperate. Just... lost.
 
@@ -124,7 +121,6 @@ Dr. Lin smiled. "Now you're getting it."
 
 "That's the practice," Dr. Lin said. "Not trying to let go. Just noticing when you're holding on. And then, sometimes, you might notice that you're not."
 
----
 
 Sarah left Dr. Lin's office without a plan. No schedule. No timer. No optimization. Just something to notice.
 

@@ -44,7 +44,6 @@ Option 2: Reveal his findings. Expose the flaw in verification. Destroy his prof
 
 Option 3: Change how he worked. Acknowledge the responsibility. Use verification consciously as a tool for shaping reality, not discovering truth.
 
----
 
 He went back to his ANOMALIES.docx file.
 
@@ -65,7 +64,6 @@ He realized the answer was both—and neither.
 
 His job was to participate in the creation of reality. To be one of the observers whose collective attention shaped what became true. To accept that truth was not something he found, but something he helped make.
 
----
 
 He created a new file: **MANIFESTO.docx**.
 
@@ -94,7 +92,6 @@ He wrote:
 *The question is not: "Is this true?"*
 *The question is: "What do we want to become true?"*
 
----
 
 He saved the file.
 

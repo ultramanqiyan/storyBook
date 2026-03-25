@@ -40,7 +40,6 @@ He put the phone down and turned back to his screen. The architecture document h
 
 *That's what I bring,* he thought. *That's what the AI can't do.*
 
----
 
 That afternoon, Rachel stopped by his desk.
 
@@ -66,7 +65,6 @@ Rachel's expression was cautious. "The usual—performance reviews, goal setting
 
  "I accept," he said, his voice steady. "Thank you, Rachel. I won't let you company down."
 
----
 
 That night, Marcus came home to a house filled with the smell of Sarah's cooking.
 
@@ -96,7 +94,6 @@ She ran over and hugged him, the children squished between them. "I'm so proud o
 
  Deserved.
 
----
 
 That weekend, Marcus met David for coffee.
 
@@ -130,7 +127,6 @@ Marcus nodded. "That's what I think about too. The AI is still developing. My jo
 
 David leaned forward. "We accept it. We stop pretending that we have control. And we focus on what we can control—our relationships, our values, our ability to adapt." He paused. "And we fight for the people who are being left behind. Because if we don't, who will?"
 
----
 
 That night, Marcus came home to a quiet house.
 
@@ -154,7 +150,6 @@ Sarah's eyes filled with tears. "That sounds like the Marcus I fell in love with
 
  "It's the Marcus I am now," he said. "Not the one who writes the fastest code. But the one who... thinks about the bigger picture."
 
----
 
 The next morning, Marcus woke up early.
 
@@ -188,7 +183,6 @@ Marcus smiled slightly. "Not yet. But I'm not afraid to find out."
 
  "I remember," Marcus said. "And I'm grateful. Every day."
 
----
 
 At 8:30 AM, Marcus left for work.
 
@@ -198,7 +192,6 @@ The commute was same—BART to Fremont, drive to the office. But the routine fel
 
 *One step at a time,* he thought. *That's all I can do.*
 
----
 
 At 6 PM, Marcus walked to the company's rooftop.
 
@@ -216,6 +209,5 @@ He pulled out his phone and texted Sarah: *Coming home. Love you.*
 
 Then he took one more look at the skyline—the future, uncertain but no longer terrifying. He walked back inside, ready for whatever came next.
 
----
 
 **END OF BOOK ONE: THE SLOW REPLACEMENT**

@@ -48,7 +48,6 @@ He tested it once. It worked. He didn't test it again.
 
 *Ship it,* he thought. *Fix it later.*
 
----
 
 Thursday morning. The client conference room was cold.
 
@@ -100,7 +99,6 @@ The investors were talking among themselves now, their voices low. David stood u
 
 The video call ended. The investors' faces disappeared. The room was silent.
 
----
 
 The apartment was quiet again. Michael sat at his desk, the failed demo playing on repeat in his mind.
 

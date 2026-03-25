@@ -64,7 +64,6 @@ His desk lamp was still on, casting a warm glow over his workspace. His whiteboa
 
 I watched them disappear into Jennifer's office. The door closed with a soft click that seemed to echo through the silent room. The office held its breath.
 
----
 
 The wait was interminable.
 
@@ -84,7 +83,6 @@ The guilt was sudden and sharp, a blade between my ribs. I'd never wanted this. 
 
 At 3:15 PM, Jennifer's door opened again.
 
----
 
 David emerged with a cardboard box in his arms.
 
@@ -102,7 +100,6 @@ I wanted to say something. *Sorry*. *Goodbye*. *You were right*. *I should have 
 
 David looked away and kept walking. The moment passed. He disappeared through the glass doors at the front of the office, the box in his arms, and then he was gone.
 
----
 
 After David left, the office slowly returned to its normal rhythm.
 
@@ -120,7 +117,6 @@ The thought should have motivated me to work harder, to prove my value, to stay 
 
 I typed the next prompt, watched the code appear, and wondered if this was what freedom looked like.
 
----
 
 That evening, I stayed late again. Not because I had work to do—I'd cleared my queue by 4 PM—but because I couldn't face the train ride home, the empty apartment, the silence where my thoughts should be.
 
@@ -134,13 +130,11 @@ I opened my laptop and stared at the CodeForge interface. The cursor blinked, pa
 
 The question surfaced again, the one I'd been burying for days. But this time it felt different. This time it was mixed with something else—guilt, maybe. Or shame. The knowledge that my success was built on David's failure. That my productivity had helped create the standard that destroyed him.
 
-I could still stop. I could still learn to think again. I could still—
-
+I could still stop. I could still learn to think again. I could still�?
 But even as I thought it, I knew it was a lie. I couldn't stop. I didn't know how anymore. The blankness I'd felt two days ago, the terrifying void where my thoughts should have been—that wasn't a temporary glitch. That was what I'd become. That was the price of efficiency.
 
 I typed a prompt, watched the code appear, and tried not to think about what I'd lost.
 
----
 
 *End of Chapter 6*
 

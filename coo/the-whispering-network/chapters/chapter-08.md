@@ -100,6 +100,5 @@ Veren nodded slowly, his silver eyes distant with thought. "I'll speak to the qu
 
 "Maybe it's time for things to change."
 
----
 
 **Chapter 8 Complete**

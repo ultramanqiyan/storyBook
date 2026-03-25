@@ -82,7 +82,6 @@ The system had given me everything—perfect scores, perfect schedule, perfect f
 
 It had taken my curiosity.
 
----
 
 I didn't sleep that night. Instead, I lay in bed, staring at the ceiling, trying to remember who I used to be. There had been a Maya before the optimization, a Maya who asked questions and wondered about things. A Maya who had interests and passions and curiosity.
 

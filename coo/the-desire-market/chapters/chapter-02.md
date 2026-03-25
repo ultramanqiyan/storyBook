@@ -18,7 +18,6 @@ Thirty-two years of data: every purchase, every search, every click, every engag
 
 Alex began analyzing the patterns.
 
----
 
 His desire history was remarkably consistent.
 
@@ -26,7 +25,6 @@ From childhood, he had shown clear preferences: for logic over emotion, for anal
 
 And they had led him directly to the Desire Market.
 
----
 
 Alex examined his career choice.
 
@@ -34,7 +32,6 @@ He had decided to become a decoder at age twenty-two, after completing his degre
 
 But the data showed something else.
 
----
 
 His desire patterns had shifted at age twenty.
 
@@ -42,13 +39,11 @@ Before then, his preferences had been different: more creative, more spontaneous
 
 Then, suddenly, the patterns changed.
 
----
 
 Within a six-month period, Alex's desires had transformed completely. His creative interests faded. His analytical interests intensified. His entire personality seemed to shift, as if someone had rewritten his fundamental drives.
 
 And the shift had occurred immediately after he had participated in a Desire Market research study.
 
----
 
 Alex felt a chill.
 
@@ -56,7 +51,6 @@ He remembered the study—it had been a standard recruitment process, designed t
 
 But the data suggested something else had happened during that study.
 
----
 
 He searched for details about the research study.
 
@@ -66,7 +60,6 @@ But Alex noticed gaps in the data—missing files, redacted sections, incomplete
 
 Something had been removed.
 
----
 
 Alex made a decision.
 
@@ -74,6 +67,5 @@ He would investigate further. He would find out what had happened during that re
 
 He was a decoder. He would decode himself.
 
----
 
 **END OF CHAPTER 02**

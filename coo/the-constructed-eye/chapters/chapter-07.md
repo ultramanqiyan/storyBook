@@ -44,7 +44,6 @@ Some chose raw. They wanted to see themselves as they were—to confront their a
 
 And some, like Marcus, chose both. They wanted to see the tension between what was and what could be. They wanted to hold both truths at once.
 
----
 
 Maya noticed the change in him. "You seem more settled," she said over coffee one afternoon. "Less troubled by the choice."
 
@@ -60,7 +59,6 @@ Maya smiled, and Marcus watched the expression move across her face—raw mode s
 
 *See well.* Marcus turned the phrase over in his mind. That was it, wasn't it? Not just seeing, but seeing well. Not just perceiving, but perceiving with intention, with wisdom, with care.
 
----
 
 The breakthrough came during a portrait session with an elderly man. The man had come to Marcus because he wanted a photograph for his wife—something to leave behind, he said, something for her to remember him by.
 
@@ -82,7 +80,6 @@ The man was quiet again. Then: "Both. I want her to see both. I want her to know
 
 Marcus felt something shift in his chest—recognition, maybe, or connection. That was it. That was what he had been trying to understand. Both were true. Both were worth seeing. And the choice wasn't about which one was better—it was about which one was needed in each moment.
 
----
 
 That night, Marcus looked at his own face in the mirror. He could choose raw mode—see the confusion, the exhaustion, the weight of learning. He could choose optimized mode—see the strength, the growth, the grace of becoming.
 
@@ -98,7 +95,6 @@ He chose both. He looked at himself as he was, and as he hoped to be. Both were 
 
 Marcus looked at his face—at the raw truth and the optimized grace. He didn't know if conscious choosing was better. But it felt more honest. It felt more like seeing.
 
----
 
 The exhibition was scheduled for the following month. Marcus had been working on it for weeks—a series of dual portraits, each subject shown in raw and optimized modes. He called it "Both/And," a meditation on the multiple truths that existed in every face.
 
@@ -112,7 +108,6 @@ The work was exhausting. But it was also meaningful. For the first time since ge
 
 He had always known that, in a way. But now he understood it differently. Now he saw that the camera was just another kind of IRIS—another way of choosing what to see, what to show, what to remember.
 
----
 
 On the last night before the exhibition, Maya came to the studio. She walked through the space, looking at the portraits he had created.
 

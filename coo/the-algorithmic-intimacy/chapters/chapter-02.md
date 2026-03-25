@@ -49,7 +49,6 @@ She was still in control. She was still the one making the decisions, having the
 
 WealthGuide was just helping her do it better.
 
----
 
 Over the next few weeks, Sarah used WealthGuide more and more.
 
@@ -69,7 +68,6 @@ But the clients didn't know that. They thought it was her.
 
 And wasn't that the point? Didn't the result matter more than the process?
 
----
 
 The question haunted her.
 
@@ -79,7 +77,6 @@ Would Margaret notice? Would she care?
 
 Sarah wasn't sure. And that uncertainty bothered her more than she wanted to admit.
 
----
 
 One evening, she stayed late at the office.
 
@@ -103,7 +100,6 @@ And the clients were happier. The metrics were better. Everything was improving.
 
 So why did she feel like she was losing something?
 
----
 
 That night, she dreamed about memories.
 
@@ -117,7 +113,6 @@ Sarah tried to speak, to say that she hadn't remembered, that the AI had provide
 
 She woke up with her heart pounding, the dream still vivid in her mind.
 
----
 
 The next morning, she arrived at the office early.
 

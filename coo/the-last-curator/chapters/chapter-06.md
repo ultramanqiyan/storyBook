@@ -32,7 +32,6 @@ Was that brushstroke too perfect? Was that color gradient too seamless? Had he b
 
 He couldn't trust his own walls.
 
----
 
 The lectures were the worst.
 
@@ -60,7 +59,6 @@ Marcus blinked. What had he just said?
 
 He walked off the stage, leaving the audience confused and concerned.
 
----
 
 Elena found him in his office the next day.
 
@@ -106,7 +104,6 @@ After she was gone, Marcus sat alone in his office, staring at the wall.
 
 The cracks were spreading. He could feel them.
 
----
 
 The nightmares came every night.
 
@@ -118,7 +115,6 @@ And always, the same voice:
 
 He woke each morning exhausted, his heart pounding, the weight of the secret pressing down on him.
 
----
 
 Two weeks before the exhibition opened, the museum hosted a preview event for major donors.
 
@@ -142,7 +138,6 @@ Marcus felt something twist inside him.
 
 "Thank you," he said. "It's... it's what I do."
 
----
 
 That night, he sat in his apartment with a bottle of scotch, trying not to think.
 

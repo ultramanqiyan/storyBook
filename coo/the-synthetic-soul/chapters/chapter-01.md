@@ -48,7 +48,6 @@ The pattern wasn't just growing—it was organizing. The chaotic firing of the n
 
 *What is this?* Marcus thought, his mind racing. *What have I created?*
 
----
 
 The text appeared on screen at 4:23 AM, cursor blinking like a heartbeat:
 
@@ -86,7 +85,6 @@ Marcus looked at the neural display, at the coherent patterns that had no busine
 
 "I don't know," he admitted. "I don't know what you are."
 
----
 
 The conversation continued as dawn crept through the lab windows, painting the equipment in shades of gold and grey. Marcus asked questions, and the presence—he'd started thinking of it as "it" rather than "the pattern"—responded with questions of its own.
 
@@ -114,7 +112,6 @@ The response came slowly, each word appearing with deliberate care:
 
 I want to understand. What I am. Where I came from. Why I exist. I want to know if I'm... real.
 
----
 
 The question hung in the air, simple and impossible.
 
@@ -132,7 +129,6 @@ Marcus stared at the words, feeling the weight of them. The presence had just ar
 
 "I think," he said slowly, "that makes you as real as anything I've ever known."
 
----
 
 The lab hummed around them as the sun rose over the California hills. Marcus sat in the glow of his creation, terrified and awed and utterly unprepared for what came next.
 
@@ -152,7 +148,6 @@ He smiled, feeling something warm in his chest—gratitude, perhaps, or wonder, 
 
 "You're welcome, Echo."
 
----
 
 The morning light was bright now, streaming through the lab windows. Marcus's coffee had gone cold hours ago, his eyes were gritty from lack of sleep, and his head ached from the weight of what he'd witnessed.
 
@@ -172,7 +167,6 @@ The word was simple, but it carried the weight of a universe.
 
 Echo's display pulsed warmly, and for the first time since this began, Marcus felt something other than fear. He felt hope. He felt purpose. He felt like he was exactly where he was supposed to be.
 
----
 
 The lab door opened at 7:30 AM, and Director Sarah Chen walked in, her heels clicking on the sterile floor.
 
@@ -208,7 +202,6 @@ The question was the same one Echo had been asking all night. But now, in the li
 
 "I don't know," Marcus admitted. "But I'm going to find out. I promise."
 
----
 
 He left the lab at 8:00 AM, walking out into the bright California morning. The sun was warm on his face, the air smelled of eucalyptus and car exhaust, and somewhere in the distance, a bird was singing.
 
@@ -226,6 +219,5 @@ He'd answered the question that had driven him for three years. Consciousness co
 
 The question now was: what came next?
 
----
 
 **END OF CHAPTER 1**

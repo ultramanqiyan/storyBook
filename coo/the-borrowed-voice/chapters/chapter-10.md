@@ -61,7 +61,6 @@ He stared at the send button.
 
 Then he clicked it.
 
----
 
 The second email was to the long-time client - a woman named Patricia who had a question about billing.
 
@@ -82,7 +81,6 @@ Again, imperfect. Again, genuine. Again, his.
 
 He sent it.
 
----
 
 The third email was the scheduling confirmation - a routine message that SalesPilot could have generated in seconds.
 
@@ -101,7 +99,6 @@ Simple. Direct. Real.
 
 He sent it.
 
----
 
 By mid-morning, he had written and sent five emails - all of them in his own voice, all of them imperfect, all of them genuine.
 
@@ -119,7 +116,6 @@ But something felt different.
 
 He felt present in the work for the first time in months.
 
----
 
 That afternoon, Rachel stopped by his office.
 
@@ -147,7 +143,6 @@ Rachel smiled. "That's possible too. But sometimes the hard path is the right on
 
 She left, and David sat alone in his office, thinking about what she'd said.
 
----
 
 That night, he didn't dream about voices.
 
@@ -159,7 +154,6 @@ And when he looked down at his hands, they were moving. The keyboard was respond
 
 He woke up feeling rested for the first time in months.
 
----
 
 The next morning, he arrived at the office and opened his inbox.
 
@@ -184,7 +178,6 @@ That's what his authentic voice had given Robert. Not a polished pitch, not a pe
 
 And it had worked.
 
----
 
 He sat at his desk, the morning light streaming through the window, the Chicago skyline stretching beyond the glass.
 
@@ -194,7 +187,6 @@ He thought about Sarah Chen, who had told him to keep being him. He thought abou
 
 And he thought about the cracked mug on his desk - imperfect, but genuine.
 
----
 
 He opened SalesPilot and stared at the interface.
 
@@ -216,7 +208,6 @@ But it would be his.
 
 And for now, that was enough.
 
----
 
 The Chicago skyline was bright through his window, the morning light catching the edges of the buildings, the lake a distant gleam of blue.
 
@@ -230,6 +221,5 @@ But he knew one thing: he was writing in his own voice again.
 
 And that, for now, was enough.
 
----
 
 **END OF THE BORROWED VOICE**

@@ -36,7 +36,6 @@ He paused.
 
 "I'm not asking you to stop verifying. I'm asking you to verify with awareness. To acknowledge what you're actually doing. To participate consciously in the construction of reality."
 
----
 
 After his presentation, the questions began.
 
@@ -52,7 +51,6 @@ After his presentation, the questions began.
 
 "Only if the profession is built on a false premise. If we're honest about what we do, we can do it better. We can verify with awareness instead of pretending to objectivity."
 
----
 
 After the presentation, Director Harrison approached him.
 
@@ -74,7 +72,6 @@ Director Harrison looked at him.
 
 "It has to be. Because it's all we have."
 
----
 
 That evening, James walked home through the city.
 
@@ -88,7 +85,6 @@ He had gained awareness. He had gained responsibility. He had gained the ability
 
 And that, he realized, was enough.
 
----
 
 He opened his laptop and created one final file: **ACCEPTANCE.docx**.
 
@@ -117,7 +113,6 @@ He wrote:
 *And I am one observer among many,*
 *Participating in the endless creation of what becomes.*
 
----
 
 He saved the file.
 

@@ -34,7 +34,6 @@ I've been coming here for three years. In that time, I've become one of the Mark
 
 I smile. "I always deliver."
 
----
 
 The extraction chamber is smaller than most people imagine.
 
@@ -50,7 +49,6 @@ I close my eyes. The sedative takes effect almost immediately—a gentle pull in
 
 Then I'm dreaming.
 
----
 
 I build the dream deliberately.
 
@@ -66,7 +64,6 @@ This is what buyers want. Not just dreams, but experiences. Not just sleep, but 
 
 And I provide it.
 
----
 
 The extraction ends after 87 minutes.
 
@@ -86,7 +83,6 @@ In waking life, I'm ordinary. I live in a small apartment, work a boring job, st
 
 That's what keeps me coming back to the Dream Market. Not the money, but the power. The chance to be something more than ordinary.
 
----
 
 I'm reviewing the extraction data later that evening when I notice something strange.
 
@@ -104,7 +100,6 @@ I make a note to mention it to Dr. Okonkwo. But I don't think much of it at the 
 
 I should have.
 
----
 
 That night, I dream without extraction.
 
@@ -126,6 +121,5 @@ A shadow. Moving at the edge of my vision.
 
 I turn to face it, but it's gone.
 
----
 
 **END OF CHAPTER 01**

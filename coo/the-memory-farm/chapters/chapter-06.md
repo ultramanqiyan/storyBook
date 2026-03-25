@@ -64,7 +64,6 @@ Hearing it confirmed was different from suspecting it. The words hit me like a p
 
 "At first, maybe. But over the years..." My mother's eyes glistened. "You became our daughter. In every way that matters. We raised you, we cared for you, we watched you grow. The money stopped mattering a long time ago."
 
----
 
 They told me the story.
 
@@ -88,7 +87,6 @@ I listened to their story, feeling nothing. Or rather, feeling too much—anger,
 
 "We protected you by loving you." My father's voice was firm. "Whatever else might be true, that part is real. We love you, Elena. We've loved you since you were five years old. And nothing—not the money, not the Memory Farm, not the truth—can change that."
 
----
 
 I left the apartment without eating the lasagna.
 
@@ -106,7 +104,6 @@ I had been a victim of the system. And then I had become a participant in it.
 
 What did that make me?
 
----
 
 That night, I dreamed of the white room.
 
@@ -120,6 +117,5 @@ But I knew they were strangers. I knew this was a performance. And yet I couldn'
 
 When I woke up, I was crying.
 
----
 
 **END OF CHAPTER 06**

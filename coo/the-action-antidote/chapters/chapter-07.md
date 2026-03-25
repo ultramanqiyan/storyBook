@@ -46,7 +46,6 @@ By Friday afternoon, she was paralyzed. She couldn't say yes. She couldn't say n
 
 She picked up her phone. David would be home by now.
 
----
 
 "Hey, sis. What's up?"
 
@@ -102,7 +101,6 @@ They talked for another twenty minutes. David shared his own story—taking the 
 
 "Anytime, sis. That's what brothers are for."
 
----
 
 Sunday night. The email was drafted, the cursor blinking. All she had to do was hit send.
 

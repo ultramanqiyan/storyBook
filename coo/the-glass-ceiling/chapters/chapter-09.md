@@ -24,7 +24,6 @@ Alex identified potential allies:
 
 They reached out carefully. One by one. Testing the waters. Meeting in coffee shops outside the office, speaking in hushed tones, sharing documentation and building trust.
 
----
 
 **THE RESPONSE**
 
@@ -40,7 +39,6 @@ A former employee named Maya was angry. She'd been pushed out two years ago and 
 
 A current employee in Engineering named Raj was cautious. "I've seen it happen. But I need to know you're serious before I stick my neck out."
 
----
 
 **THE STRATEGY**
 
@@ -65,7 +63,6 @@ It was risky. It could destroy Alex's career. It could make them unemployable in
 
 But it was the right thing to do.
 
----
 
 **THE LETTER**
 

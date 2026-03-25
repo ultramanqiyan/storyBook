@@ -20,7 +20,6 @@ Direct neural modification, chemical intervention, psychological conditioning. T
 
 But the Desire Market persisted.
 
----
 
 They developed more sophisticated techniques.
 
@@ -28,7 +27,6 @@ Instead of directly modifying desires, they began modifying the conditions that 
 
 The subjects never knew they were being manipulated.
 
----
 
 Alex read about the selection process.
 
@@ -36,7 +34,6 @@ Subjects were chosen based on their potential value to the Desire Market—peopl
 
 Alex had been selected because of his natural analytical abilities.
 
----
 
 The modification had been subtle.
 
@@ -44,7 +41,6 @@ Over a period of months, Alex's environment had been carefully curated. The info
 
 By the time he made his career choice, it felt like his own decision.
 
----
 
 But it hadn't been his decision.
 
@@ -52,13 +48,11 @@ It had been the decision of the Desire Market, implemented through years of invi
 
 He felt violated.
 
----
 
 He also felt confused.
 
 If his desires were manufactured, what did that mean for his identity? Was he still a person, or just a product of manipulation? Could he trust any of his preferences, any of his choices, any of his feelings?
 
----
 
 Alex found a file about integration anomalies.
 
@@ -66,7 +60,6 @@ The document described cases where the desire modification had failed to take ho
 
 The document called these "authenticity eruptions."
 
----
 
 Alex wondered if he was experiencing an authenticity eruption.
 
@@ -74,6 +67,5 @@ His investigation into his own desires, his questioning of the system—these we
 
 He was becoming aware of his own manipulation.
 
----
 
 **END OF CHAPTER 04**

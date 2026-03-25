@@ -46,7 +46,6 @@ That was still her job.
 
 Or at least, that was how it was supposed to work.
 
----
 
 The fraud flag pulsed red in the corner of her screen at 10:15.
 
@@ -64,7 +63,6 @@ She dug deeper, looking for the details that would tell her whether this was fra
 
 *The data says fraud*, Jennifer thought. *But the story says... maybe not.*
 
----
 
 She spent an hour on the claim, longer than she usually spent on any single file.
 
@@ -80,7 +78,6 @@ In the end, she made her own judgment. The claim was suspicious, but not definit
 
 *Better to be right than fast*, she told herself. *Better to understand than to assume.*
 
----
 
 The rest of the morning passed in a blur of claims.
 
@@ -98,7 +95,6 @@ But she knew, somewhere deep down, that it was something else. Something about t
 
 She pushed the thought away and reached for her cold coffee.
 
----
 
 The afternoon brought a phone call.
 
@@ -126,7 +122,6 @@ The silence on the line was heavy. Then: "Approved? Really?"
 
 "You're very welcome," she said. "Take care of yourself, Mrs. Patterson. And don't hesitate to call if you need anything."
 
----
 
 She hung up the phone, feeling the familiar satisfaction of a job well done.
 
@@ -144,7 +139,6 @@ She pulled up the claim again, studying the factor analysis. The variables were 
 
 She stared at the screen for a long moment, trying to understand. But the numbers stayed numbers, the pattern stayed hidden, and the reasoning stayed just out of reach.
 
----
 
 The afternoon light had turned golden through her window when she noticed it.
 
@@ -162,7 +156,6 @@ She clicked on the variables, hoping for more information. But the interface off
 
 But she didn't. Not entirely. The algorithm was making connections she couldn't see, drawing conclusions she couldn't verify. And she was signing her name to verdicts she couldn't fully explain.
 
----
 
 She closed the file, pushing away the unease that had settled in her chest.
 
@@ -182,6 +175,5 @@ She'd look into it later.
 
 She always did.
 
----
 
 **END OF CHAPTER 1**

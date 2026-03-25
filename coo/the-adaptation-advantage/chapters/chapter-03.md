@@ -80,7 +80,6 @@ Alex felt something shift inside him. Not a complete transformation—nothing so
 
 *The skill of learning. Not the knowledge itself. The ability to acquire it.*
 
----
 
 On the last day of the workshop, Jordan pulled Alex aside.
 
@@ -98,7 +97,6 @@ Alex felt something he hadn't felt in months.
 
 Hope.
 
----
 
 Walking back to his car after the workshop, Alex called Dr. Wong.
 
@@ -120,7 +118,6 @@ Alex thought about Jordan's words. About Dr. Wong's questions. About the fifteen
 
 "That sounds like a good place to start."
 
----
 
 That night, Alex sat at his kitchen table with a notebook.
 

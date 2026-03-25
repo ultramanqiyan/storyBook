@@ -49,7 +49,6 @@ By the end of the call, they had a new plan. Not a perfect plan, but a path forw
 
 And David walked away with something more valuable than a perfect track record: the knowledge that he could handle being wrong. That a mistake wasn't a catastrophe. That self-reliance meant owning your failures as well as your successes.
 
----
 
 The junior consultant found him in the coffee room the next day.
 
@@ -91,7 +90,6 @@ Amanda nodded slowly. "One decision?"
 
 She left looking slightly less anxious. David watched her go, feeling a strange sense of recognition. He'd been her. And now, somehow, he was the one giving advice.
 
----
 
 That evening, David met Rachel at their usual coffee shop.
 
@@ -111,7 +109,6 @@ David nodded slowly. "I didn't expect it to feel this way. Like I'm part of some
 
 The observation resonated with David. He'd spent so long focused on his own struggle that he hadn't seen the bigger picture. Self-reliance wasn't isolation. It was the foundation for connection.
 
----
 
 Walking home that night, David thought about how far he'd come.
 

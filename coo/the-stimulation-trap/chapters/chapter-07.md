@@ -86,7 +86,6 @@ Kane sighs. He picks up the headset.
 
 Kane places the headset on Leo's head.
 
----
 
 The world disappears.
 
@@ -120,7 +119,6 @@ Kane nods. "I warned you. Your neural pathways are adapting. The tolerance is bu
 
 "Then you'll burn out. Faster than you think."
 
----
 
 Leo goes home.
 
@@ -150,7 +148,6 @@ He can wait.
 
 He has to.
 
----
 
 He waits 60 hours.
 
@@ -158,7 +155,6 @@ He can't wait any longer.
 
 He goes back to Kane's office.
 
----
 
 Kane refuses to let him use the headset.
 
@@ -226,7 +222,6 @@ Leo doesn't hesitate.
 
 "I want to try it."
 
----
 
 The Abyss is a chair.
 
@@ -248,7 +243,6 @@ Kane places the helmet on Leo's head. It's heavy. Tight. The wires press against
 
 Kane flips a switch.
 
----
 
 The pain is immediate.
 
@@ -275,7 +269,6 @@ The pain continues. And continues. And continues.
 And thenâ€?
 It stops.
 
----
 
 Leo opens his eyes.
 
@@ -331,7 +324,6 @@ Leo nods. "Okay."
 
 He walks out the door.
 
----
 
 He doesn't go home.
 
@@ -341,7 +333,6 @@ He puts it on.
 
 He starts the cliff experience.
 
----
 
 The world shifts.
 
@@ -371,7 +362,6 @@ He's been in the experience for 30 seconds.
 
 He puts the headset back on.
 
----
 
 Three hours later, he takes it off again.
 
@@ -407,7 +397,6 @@ He picks up the headset.
 
 He puts it on.
 
----
 
 The next morning, he wakes up on the couch.
 
@@ -439,7 +428,6 @@ He picks up his phone. He opens his contacts.
 
 He calls the one labeled *Sarah (sister).*
 
----
 
 "Leo? Oh my god, are you okay? I've been calling you for days. I was about to come over there."
 
@@ -463,7 +451,6 @@ He sits on the couch.
 
 He waits.
 
----
 
 Sarah arrives 18 minutes later.
 
@@ -535,7 +522,6 @@ He closes the door.
 
 He puts it on.
 
----
 
 The world shifts.
 

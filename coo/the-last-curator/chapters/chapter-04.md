@@ -56,7 +56,6 @@ The tenth image appeared. Another abstract piece, this one chaotic and raw. Marc
 
 "AI," he said. "The chaos is too deliberate. It's mimicking human randomness without actually being random."
 
----
 
 After the test, the observers conferred quietly. Then one of them turned to Marcus.
 
@@ -88,7 +87,6 @@ Small mercies. But the damage was done. He knew the truth now, even if no one el
 
 His method was no better than guessing.
 
----
 
 He walked back to his office in a daze.
 
@@ -100,7 +98,6 @@ His phone buzzed. A message from Elena:
 
 He didn't respond.
 
----
 
 That evening, there was a panel discussion at the museum: "Art in the AI Age: Authenticity, Authorship, and the Future of Creativity."
 
@@ -144,7 +141,6 @@ The moderator stepped in, steering the conversation to another panelist. But the
 
 He'd been exposed. Not fully—not yet—but enough. The first crack had appeared.
 
----
 
 After the panel, he found Elena in the lobby.
 
@@ -162,7 +158,6 @@ She looked at him without expression. "Because someone needed to. You're buildin
 
 She walked away, leaving him alone in the crowded lobby.
 
----
 
 That night, he sat in his apartment with Jimmy Okonkwo's portfolio open on his laptop.
 

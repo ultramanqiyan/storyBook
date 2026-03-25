@@ -76,7 +76,6 @@ He read it over. It wasn't perfect. It wasn't even particularly good. But it was
 
 He hit send.
 
----
 
 The response came the next morning.
 
@@ -97,7 +96,6 @@ The responses were inconsistent. Some clients preferred the polished AI version.
 
 What did that mean?
 
----
 
 He started experimenting more deliberately.
 
@@ -115,7 +113,6 @@ The pattern suggested something troubling: the AI had trained some clients to pr
 
 He was trapped by his own success.
 
----
 
 He brought the findings to Rachel.
 
@@ -151,7 +148,6 @@ Rachel looked at him for a long moment. "David, I think you're overthinking this
 
 She stood up, signaling the end of the conversation. "Your numbers are great. Your clients are happy. You're doing a good job. Maybe that's enough."
 
----
 
 David walked back to his office, his mind churning.
 

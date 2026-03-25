@@ -82,7 +82,6 @@ She lay in bed beside Michael, listening to his breathing slow into sleep. He ha
 
 *I love you,* she thought, looking at his sleeping face. *I think I love you. I hope I love you.* And maybe tomorrow, when she could finally feel, she would know for sure.
 
----
 
 The procedure was scheduled for the following morning. Sarah arrived at the clinic at 7 AM, having slept perhaps two hours. Dr. Vasquez met her in the lobby, her expression carefully neutral.
 

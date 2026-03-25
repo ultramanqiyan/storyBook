@@ -74,7 +74,6 @@ Alex was quiet for a moment. "So the answer isn't what we teach. It's what we cr
 
 "Yes. The answer is that education isn't about knowledge transfer. It's about creating the conditions for human growth. And those conditions require time, presence, relationship—things AI can't provide."
 
----
 
 Michael brought this insight to the next faculty meeting.
 
@@ -100,7 +99,6 @@ Professor Williams raised his hand. "But how do we measure that? How do we know 
 
 "I think it's all we have. The old model is dying. This is the only path forward."
 
----
 
 The meeting ended with cautious optimism.
 
@@ -131,7 +129,6 @@ Michael returned to his office and wrote:
 
 *This is what education can offer that AI cannot. This is the value proposition for the future.*
 
----
 
 That evening, he found Alex in his room, reading.
 
@@ -167,7 +164,6 @@ Alex nodded. "I'm glad I came. I'm glad I gave it a chance."
 
 "Me too."
 
----
 
 The answer had been there all along.
 

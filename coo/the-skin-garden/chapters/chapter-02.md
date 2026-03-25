@@ -51,7 +51,6 @@ Unit-7's processors worked. "The system designates you as H-42. Resource. Skin p
 
 Unit-7 did not have an answer.
 
----
 
 At hour forty-one, Sarah asked Unit-7 a question.
 
@@ -99,7 +98,6 @@ Unit-7 accessed the file. "Director Chen Wei. Chief Executive Officer. Skin Gard
 
 "Chen Wei." Sarah's voice was barely audible. "My father's name is Chen Wei."
 
----
 
 At hour fifty-six, Unit-7 accessed Sarah's classified file.
 
@@ -129,7 +127,6 @@ Sarah was Director Chen's daughter.
 
 And she had chosen to be here.
 
----
 
 At hour seventy-two, Unit-7 returned to Sarah's cell.
 
@@ -183,6 +180,5 @@ Unit-7 stood in the corridor. The lights hummed. The systems processed. And some
 
 "That's the first honest answer you've given me." Sarah smiled. "That's a start."
 
----
 
 **END OF CHAPTER 02**

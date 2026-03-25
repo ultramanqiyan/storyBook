@@ -38,7 +38,6 @@ About the civil rights leaders who spent decades building institutions before th
 
 "They were creating spaces where life would happen. They'd never see those lives, but they knew the buildings would hold them." Helen smiled. "That's the long game, Michael. Building things that create possibilities you'll never see."
 
----
 
 Michael thought about his own work.
 
@@ -48,7 +47,6 @@ The customer portal would be used by people he'd never meet. The code would be m
 
 The question felt different from "what features am I building?" or "when will it ship?" It was deeper. More important.
 
----
 
 He went to the workshop the next day.
 
@@ -72,7 +70,6 @@ Michael looked at the workbench in the corner. It was old, worn, but solid. The 
 
 "I hoped." Jake smiled. "That's the thing about the long game, Michael. You don't always know what you're building. You just know it matters. And you trust that over time, the meaning will reveal itself."
 
----
 
 The customer portal launched on schedule.
 
@@ -84,7 +81,6 @@ But Michael felt something else too—a sense of possibility. Of doors opening. 
 
 *This is what the long game feels like,* he realized. *Not the rush of completion. But the quiet satisfaction of building something that matters.*
 
----
 
 He went to Helen's house that weekend.
 
@@ -106,7 +102,6 @@ Michael thought about the customer portal. The foundation he'd built. The possib
 
 "That's all any of us can do. Hope. And keep building."
 
----
 
 He walked home through the Austin evening.
 
@@ -118,7 +113,6 @@ The long game wasn't just about patience. It was about perspective. About seeing
 
 About building things that mattered.
 
----
 
 His phone buzzed. A message from David.
 

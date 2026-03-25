@@ -156,7 +156,6 @@ Sarah sat in the dark, the silence pressing in on her. She had two choices: stay
 
 She didn't know. But she knew she had to find out.
 
----
 
 She called Dr. Vasquez the next morning.
 

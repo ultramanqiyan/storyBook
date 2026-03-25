@@ -141,7 +141,6 @@ She reaches over and squeezes my hand. The same pressure. The same warmth. The s
 
 "You're welcome, sweetheart. Now, how about some cookies? I made oatmeal raisin."
 
----
 
 That night, I lie in bed and think.
 
@@ -203,7 +202,6 @@ I reach their door. I turn the handle. It's unlocked.
 
 I step inside.
 
----
 
 The room is dark. The only light comes from the streetlamp outside, filtering through the curtains. The air smells different here—my father's cologne, my mother's lotion, mixed with the mustiness of sleep.
 
@@ -258,7 +256,6 @@ Something that says all the right things. Something that does all the right thin
 
 And I need to find out what it is.
 
----
 
 I go back to my room. I close the door. I sit on my bed.
 

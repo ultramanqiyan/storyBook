@@ -46,7 +46,6 @@ David hesitated. "That's not the goal. The goal is to augment human capability, 
 
 "Then we'd have a different conversation. But we're not there yet. And I'm not sure we ever will be."
 
----
 
 After David left, Dot sat in her office, thinking about the conversation. The AI was getting better. Every case it processed added to its database, refined its algorithms, improved its accuracy. The system she was using today was already more sophisticated than the one she'd started with a month ago.
 
@@ -56,7 +55,6 @@ She thought about the mediators who would come after her—people entering a pro
 
 And what would be lost if they did?
 
----
 
 That evening, Dot sat at her kitchen table, reviewing the month's statistics. 94% accuracy. Faster resolutions. Higher satisfaction rates. The data said the AI was making her better at her job.
 
@@ -70,7 +68,6 @@ Or could it?
 
 She wasn't sure anymore. And that uncertainty was the most unsettling thing of all.
 
----
 
 The next day, Dot arrived at the community center to find a message waiting. The county wanted to expand the pilot program. They were impressed with the results from Millfield and wanted to implement IntentPredict in three additional communities.
 
@@ -86,7 +83,6 @@ That was the work now. Not just resolving disputes, but understanding what it me
 
 She wasn't sure she was ready for that work. But she was going to do it anyway.
 
----
 
 That afternoon, she had a new case. A dispute between two farmers over water rights—a conflict that had been simmering for years and had finally boiled over into something that needed mediation.
 

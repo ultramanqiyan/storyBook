@@ -50,7 +50,6 @@ Innovation had peaked just before the Great Optimization. In the decades since, 
 
 None. For forty years, nothing truly new.
 
----
 
 She found Dr. Webb in his office, grading papers with the mechanical efficiency of someone who had done this thousands of times before.
 
@@ -94,7 +93,6 @@ Nova tucked the card into her pocket. "I won't make that choice."
 
 "I know." Dr. Webb's voice was soft. "That's why I'm helping you. And that's why you need to be more careful than you can possibly imagine."
 
----
 
 That night, Nova lay in bed, staring at the ceiling. The address burned in her pocket, a physical weight against her thigh.
 
@@ -114,6 +112,5 @@ Nova closed her eyes. Tomorrow, she would find the Archive. She would learn what
 
 And then she would have to decide what to do about it.
 
----
 
 **END OF CHAPTER 4**

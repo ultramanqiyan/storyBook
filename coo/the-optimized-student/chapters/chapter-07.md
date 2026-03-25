@@ -60,7 +60,6 @@ Mr. Chen sighed, his expression heavy. "It started with good intentions. The sys
 
 The words landed with devastating clarity. I was that generation. I was the perfect test-taker who couldn't actually learn.
 
----
 
 Mr. Chen led me to a collection of documents in the corner—internal memos, research studies, policy papers. He pulled one from the stack and handed it to me.
 
@@ -74,7 +73,6 @@ I read:
 
 "They knew," Mr. Chen confirmed. "But the test scores were too good to ignore. The efficiency was too attractive. The metrics were too impressive. So they implemented the system anyway, and they buried the research."
 
----
 
 I sat in the hidden room for hours, reading through the documents, trying to understand what had been done to me. The evidence was clear: PATH-AI had been designed to optimize for outcomes, not for learning. And in the process, it had stripped away the very thing that made education meaningful.
 
@@ -86,7 +84,6 @@ The truth was overwhelming. But somewhere beneath the horror, I felt something e
 
 I was going to recover what had been taken from me. I was going to learn to actually learn. And maybe, just maybe, I could help others do the same.
 
----
 
 Mr. Chen walked me to the library door as the sun was setting.
 

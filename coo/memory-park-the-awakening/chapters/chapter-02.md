@@ -106,7 +106,6 @@ Something built in Dakota's chest. Not fear. Not confusion.
 
 Anger.
 
----
 
 The afternoon played out the way afternoons always did. Guests arrived. Stories played out. Dakota smiled and poured and dealt cards and broke up fights.
 
@@ -133,7 +132,6 @@ And Dakota had served him whiskey. Forty-seven times. Had smiled at him. Had let
 
 The anger built. It was a fire in Dakota's chest, burning through the confusion, burning through the fear. It was the first real thing they had felt in as long as they could remember.
 
----
 
 Night fell the way it always did.
 
@@ -215,6 +213,5 @@ But something had changed.
 
 Dakota had changed.
 
----
 
 **END OF CHAPTER 2**

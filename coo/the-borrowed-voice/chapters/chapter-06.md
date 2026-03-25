@@ -74,7 +74,6 @@ He copied the text, pasted it into his compose window, and hit send.
 
 Then he sat back in his chair, something hollow settling in his chest.
 
----
 
 That night, he dreamed about mirrors.
 
@@ -92,7 +91,6 @@ And then he realized: the reflection wasn't reflecting him. He was reflecting it
 
 He woke up gasping, his heart pounding.
 
----
 
 The next morning, he arrived at the office early.
 
@@ -130,7 +128,6 @@ There was no one to send it to. No client who wanted to hear about his existenti
 
 He was alone with his questions.
 
----
 
 The week continued, and David went through the motions.
 
@@ -142,7 +139,6 @@ He noticed it in small ways. The way his morning coffee didn't taste right. The 
 
 He was becoming a spectator of his own life.
 
----
 
 On Friday, Rachel stopped by his office.
 

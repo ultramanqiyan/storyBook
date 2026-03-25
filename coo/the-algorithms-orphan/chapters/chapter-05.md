@@ -170,7 +170,6 @@ Jordan nodded slowly. "That's the right answer. A lot of people come here becaus
 
 "Then let's get started."
 
----
 
 The transfer process took hours.
 
@@ -236,7 +235,6 @@ Maya closed her eyes and let out a breath she hadn't realized she was holding.
 
 "Thank you for fighting for me."
 
----
 
 Her mother was still waiting in the car when Maya came out of the warehouse. The street was dark, the streetlights few and far between.
 

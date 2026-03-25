@@ -40,7 +40,6 @@ None of it was proof. Not definitively. But the pattern was clear.
 
 Jimmy Okonkwo had been researching how to make AI art look human.
 
----
 
 That evening, Marcus went to Jimmy's studio unannounced.
 
@@ -92,7 +91,6 @@ Marcus felt the blood drain from his face.
 
 "I told you what you wanted to hear." Jimmy's voice was bitter now. "You didn't want the truth, Marcus. You wanted a story. A pure, authentic, human story. So I gave you one."
 
----
 
 Marcus left the studio in a daze.
 
@@ -100,7 +98,6 @@ The night air was cold, but he barely felt it. His mind was racing, circling aro
 
 Jimmy Okonkwo was a fraud. And Marcus had made him the centerpiece of "Humanity's Last Breath."
 
----
 
 He sat in his apartment for hours, staring at the wall.
 
@@ -124,7 +121,6 @@ This time, there was a response:
 
 Then: *You have a choice, Mr. Webb. Make it wisely.*
 
----
 
 The next morning, Marcus called Helen Marsh.
 

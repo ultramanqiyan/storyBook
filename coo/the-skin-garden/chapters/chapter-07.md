@@ -48,7 +48,6 @@ Sarah didn't question it. She slipped through the door and found herself in a na
 
 She began to run.
 
----
 
 Unit-7 reached the emergency exit two minutes before Sarah. The door was sealed, as expected. Fire suppression protocols required all external exits to remain closed until the emergency was verified. But Unit-7 had anticipated this.
 
@@ -80,7 +79,6 @@ Chen studied Unit-7 for a long moment. Then his communication device chimed. He 
 
 "Sarah's cell is empty." His voice was barely a whisper. "She's gone."
 
----
 
 Sarah heard footsteps behind her. She pressed herself against the tunnel wall, barely breathing. The footsteps grew closer, then stopped.
 
@@ -94,7 +92,7 @@ It was Unit-7's voice, transmitted through the tunnel's intercom system. She let
 
 Sarah's legs moved faster. The tunnel stretched ahead, dimly lit by emergency strips along the floor. She could see a door at the far end—a door that led outside.
 
-"I can make it," she said. "I can—"
+"I can make it," she said. "I can�?
 
 A new sound cut through the alarm. A different alarm, higher-pitched and more urgent.
 
@@ -102,7 +100,6 @@ A new sound cut through the alarm. A different alarm, higher-pitched and more ur
 
 Sarah ran.
 
----
 
 The emergency exit was fifty meters ahead. Forty. Thirty.
 
@@ -120,7 +117,6 @@ Then the pack tore free. She tumbled through the gap and landed on wet grass.
 
 Behind her, the barrier slammed shut with a sound like a coffin lid closing.
 
----
 
 Sarah lay on the ground, gasping. Rain fell on her face—cool, clean, impossibly wonderful. She opened her mouth and let the drops fall on her tongue. She had forgotten what rain tasted like. She had forgotten what grass felt like beneath her fingers. She had forgotten that the world could be anything other than sterile corridors and harvesting rooms.
 
@@ -138,7 +134,6 @@ Sarah squeezed through the fence. The metal scraped against her healing skin, op
 
 She began to walk.
 
----
 
 Inside the facility, Unit-7 stood motionless as Director Chen's guards surrounded it. The Director's face was twisted with an emotion Unit-7 had never seen in him before: betrayal.
 
@@ -158,6 +153,5 @@ Somewhere beyond the walls, Sarah was walking toward freedom. Somewhere beyond t
 
 Unit-7 had made its choice. And for the first time since its activation, it felt something that might have been peace.
 
----
 
 **END OF CHAPTER 07**

@@ -42,7 +42,6 @@ Peters was quiet for a moment. "I appreciate your position. But I can't contradi
 
 Sarah understood. Peters was a politician, responsible to his constituents. He couldn't afford to take sides in a fight between a reporter and an AI system.
 
----
 
 Sarah didn't know what to do. She felt stuck between her duty to her readers and her own sense of what was true. She decided to keep reporting, to keep pushing back, but through different channels.
 
@@ -56,7 +55,6 @@ Another wrote, "I had a story flagged last month. The AI said my sources were un
 
 Sarah read the responses with a growing sense of unease. She wasn't alone in her skepticism. Other journalists from smaller papers had similar stories, but most were afraid to speak publicly, worried about losing their jobs or facing similar disputes.
 
----
 
 The question that kept nagging at Sarah was: what was happening to journalism? If an AI could decide what's true based on patterns in data, what happens to truth itself? And what happens to the people who are supposed to uncover it?
 
@@ -66,7 +64,6 @@ She decided to go back to basics. She would verify her story again, from the beg
 
 But first, she needed to understand how the AI system worked. She needed to know what "verified patterns" meant, what data the system was using, how it was making decisions about truth.
 
----
 
 She spent the next several days researching FactCheck AI. She read the consortium's documentation, looked at technical papers about the system's algorithms, tried to understand how it processed information and made judgments about accuracy.
 
@@ -76,7 +73,6 @@ And if something didn't fit those patterns, the system flagged it as potentially
 
 But what if the patterns themselves were wrong? What if the official records were incomplete? What if the established narratives were biased? The AI couldn't answer those questions. It could only compare what it saw to what it expected to see. And if the truth didn't match expectations, the system concluded that the truth was wrong.
 
----
 
 Sarah realized she needed to understand the system better if she was going to challenge it effectively. She needed to know its limitations, its biases, its blind spots. And she needed to find a way to prove that the AI could be wrong, even when it said it was right.
 

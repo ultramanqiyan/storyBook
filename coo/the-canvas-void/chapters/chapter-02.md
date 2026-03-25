@@ -36,7 +36,6 @@ Maya reached out and took her hand. "You've been alone in this for so long."
 
 "Yes. But not anymore."
 
----
 
 The translations spread quickly. Dr. Okonkwo published a paper about Lena's case, and the images went viral. People were fascinated by the direct visualization of synesthetic perception—by the idea that someone could see sounds as colors.
 
@@ -46,7 +45,6 @@ Lena was invited to speak at conferences, to exhibit the translations at galleri
 
 Lena wasn't sure she agreed with that. The translations were direct, yes, but they were still mediated by technology. CANVAS was translating her neural signals, not accessing her soul. Still, the response was overwhelming. For the first time, she felt understood.
 
----
 
 "I want to do more with this," Lena told Dr. Okonkwo during their next session. "I want to create art with CANVAS—not just translations of sounds, but intentional compositions."
 
@@ -56,7 +54,6 @@ Lena's mind raced with possibilities. She had spent her life trying to paint wha
 
 "I want to try," she said.
 
----
 
 The first intentional composition was called "Morning in C-Sharp." Lena worked with a composer to create a piece of music that would generate the exact colors she experienced at dawn—the soft blue of early light, the pale yellow of birdsong, the deep purple of distant traffic.
 
@@ -66,7 +63,6 @@ The result was stunning. When CANVAS translated the piece, the screen filled wit
 
 The piece became an overnight sensation. Galleries requested exhibitions. Collectors wanted to purchase the translations. Lena was suddenly, unexpectedly, famous.
 
----
 
 But even as she celebrated, a question nagged at her. The translations were beautiful, yes. They were direct, unmediated by interpretation. But were they art? Or were they just... records? Data visualizations of her neural activity?
 
@@ -82,7 +78,6 @@ Maya considered the question. "I think art is anything that creates meaning. You
 
 Lena wasn't sure she agreed. But she was grateful for the possibility.
 
----
 
 The question stayed with her as her fame grew. Critics praised her work, collectors paid high prices, galleries fought for exhibitions. But beneath the success, the doubt remained: *How much of this is me? How much is CANVAS?*
 

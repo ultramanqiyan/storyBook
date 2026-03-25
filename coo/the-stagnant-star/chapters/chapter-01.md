@@ -38,7 +38,6 @@ The screen behind him showed images of the past: crowded, chaotic cities with un
 
 Nova took notes, her stylus moving in perfect synchronization with Dr. Webb's words. This was history as she had always learned it—the story of humanity's ascent from chaos to order, from failure to success, from the painful imperfection of freedom to the comfortable certainty of optimization.
 
----
 
 But something flickered at the edge of her attention. A detail in one of the historical images that didn't quite fit the narrative. She looked closer at the screen, at a photograph of an old laboratory—before the Optimization, before everything became perfect.
 
@@ -62,7 +61,6 @@ For a moment, something shifted in Dr. Webb's expression. A flicker of... what? 
 
 Dr. Webb was quiet for a moment, his eyes distant with memory. "Something that changed the world. But not in the way he intended. Not through planning or optimization." He closed his tablet with a decisive click. "The details aren't relevant to your curriculum, Ms. Chen. Focus on your optimal path. It's what you're meant for."
 
----
 
 But Nova couldn't focus. The question lingered in her mind like an itch she couldn't scratch, a puzzle with missing pieces that demanded to be solved.
 
@@ -76,7 +74,6 @@ Then she found it: a file that wasn't quite like the others. It was in an older 
 
 Nova opened it and began to read, and the world she thought she knew began to crack.
 
----
 
 The story was unlike anything she had learned in her history classes. Alexander Fleming, a scientist working in a cluttered laboratory in 1928, had returned from vacation to find a petri dish contaminated with mold. Instead of discarding it—as any optimal scientist would—he had examined it. And discovered that the mold had killed the bacteria around it.
 
@@ -90,7 +87,6 @@ This wasn't how innovation was supposed to work. Innovation was planned, directe
 
 Didn't it?
 
----
 
 The library lights dimmed, signaling the end of the day. Nova closed the file, but something had shifted inside her. A question had taken root, and she couldn't make it go away.
 
@@ -100,7 +96,6 @@ She walked home through the perfect streets of her perfect city, past the perfec
 
 But for the first time in her life, Nova wondered if "optimal" was the same as "good." If "efficient" was the same as "meaningful." If "perfect" was the same as "alive."
 
----
 
 That night, she lay in bed, staring at the ceiling. Optima had dimmed the lights at the optimal time for sleep, but her mind wouldn't quiet. It churned with questions she had never thought to ask.
 

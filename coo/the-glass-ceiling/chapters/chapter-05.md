@@ -44,7 +44,6 @@ Sam had been put on a PIP. Alex found out by accident—Sam's screen was visible
 
 And Sarah. Sarah was barely present. She came in late, left early, and spent most of her time staring at her screen with dead eyes. The woman who had warned Alex about manipulation had become a ghost of herself—going through the motions, counting down the hours until she could escape.
 
----
 
 One evening, Alex found Sarah alone in the break room, staring at a cup of cold coffee. The fluorescent lights buzzed overhead, casting harsh shadows across her tired face. The air smelled of stale coffee and microwave leftovers.
 

@@ -32,7 +32,6 @@ Some days she generated questions that felt genuine. Other days, everything felt
 
 The doubt was the worst part. Every time she asked a question, she wondered: Is this really mine? Or am I just mimicking the form of curiosity without the substance? How could she know? How could anyone know, in a world where AI could generate questions that felt just authentic?
 
----
 
 Dr. Webb met with her regularly, guiding her through the process. "Curiosity isn't something you can force," he told her. "It has to emerge naturally."
 
@@ -42,7 +41,6 @@ Dr. Webb met with her regularly, guiding her through the process. "Curiosity isn
 
 But trusting herself was exactly what she couldn't do. How could she trust a mind that had been shaped by AI for so long? How could she believe that any thought she had was genuinely her own?
 
----
 
 The breakthrough came slowly, over weeks of practice. Elena noticed that the questions that felt most authentic came from observation, not introspection. When she watched the world, paid attention to what was happening around her, questions emerged naturally. When she sat at her desk trying to think of questions, nothing came.
 
@@ -56,7 +54,6 @@ She started spending more time in the world and less time at her desk. She walke
 
 Each question felt authentic, emerging from genuine engagement with the world. Elena couldn't prove they were hers—she couldn't prove anything about the origin of her thoughts—but they felt different. They felt like wonder.
 
----
 
 The resistance met weekly, sharing strategies and struggles. Elena wasn't alone in her recovery. Others were fighting the same battle, asking the same questions, facing the same doubts.
 
@@ -68,7 +65,6 @@ James Chen—who had eventually noticed his own dependency and sought help—str
 
 Elena found comfort in the shared struggle. She wasn't alone. Others had walked this path before her, and others would walk it after. The community made the hard work bearable.
 
----
 
 Two months into her recovery, Elena sat in the library, watching students study. She noticed something: they were all using AI. Every tablet, every laptop, every screen showed the familiar interface of SCHOLAR-AI or similar systems. The students weren't thinking—they were processing.
 
@@ -78,7 +74,6 @@ The question felt genuine, authentic. It had emerged from watching the world, fr
 
  Then she wrote another question, and another. The floodgates were opening, slowly, but they were opening.
 
----
 
 The questions weren't profound. They weren't groundbreaking. They weren't optimized for publication or impact. But they were hers. And that was everything.
 
@@ -86,7 +81,6 @@ Elena looked at her notebook, at the pages filled with questions that had come f
 
 The path ahead was still hard. Her career was uncertain, her future unclear. But she had something she hadn't had in years: genuine curiosity. And she was learning to trust it.
 
----
 
 That night, Elena dreamed of questions again. They came to her more clearly now, sharper, as if the doubt had lifted. She woke with a sense of purpose, a determination that felt like hope.
 

@@ -84,7 +84,6 @@ Sarah looked up at him. "Is that possible?"
 
 "It's what all of us in the resistance do. We use the system when it helps. But we don't let it replace our own judgment." He gestured to the practice dummy. "Now. Try again. And this time, stop trying to remember what the AI would tell you. Just... listen."
 
----
 
 She tried again. And again. And again.
 

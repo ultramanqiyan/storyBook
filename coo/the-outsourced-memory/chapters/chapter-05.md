@@ -94,7 +94,6 @@ Now he was just a signature. A name on a document. A warm body walking through h
 
 The question sat in his chest like a stone, heavy and cold. He didn't have an answer. He wasn't sure he wanted one.
 
----
 
 Susan was in the kitchen when he got home, grading papers at the table. She looked up as he walked in, her face brightening and then settling into something more careful.
 
@@ -132,7 +131,6 @@ He wanted to believe her. He wanted to believe that the knowledge was still ther
 
 But even as he said it, his phone buzzed again—another notification, another match, another decision that needed his signature—and he felt his hand move toward it, automatic, helpless, like a man reaching for a drug he no longer had the will to refuse.
 
----
 
 That night, after Susan had gone to bed, Mike sat at the kitchen table with his phone dark before him. The house was quiet. The neighborhood was quiet. His mind was quiet in a way that felt wrong, empty, like a room that had been cleared of all its furniture.
 
@@ -160,6 +158,5 @@ He clicked the notification.
 
 The signature appeared on the screen, his name in his own handwriting, attached to a decision he would never remember making.
 
----
 
 **END OF CHAPTER 5**

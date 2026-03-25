@@ -28,7 +28,6 @@ The AI was flagging both intents as unclear—just as it had with the Chen famil
 
 The AI had found something. It wasn't sure what yet, but it had identified a pattern that connected both parents.
 
----
 
 Dot guided the conversation forward, asking questions about their history, their marriage, their decision to divorce. The AI continued to analyze, updating its findings as new information emerged.
 
@@ -38,7 +37,6 @@ Dot guided the conversation forward, asking questions about their history, their
 
 The AI was finding something neither parent had articulated. Something about their history that was driving their current positions.
 
----
 
 "Rachel," Dot said carefully, "can you tell me about other times you've faced major changes in your life?"
 
@@ -50,7 +48,6 @@ Rachel was quiet for a moment. Then, quietly: "When I was twelve, my family move
 
 The AI flagged: *Trauma pattern confirmed. Primary intent is fear of abandonment.*
 
----
 
 Dot turned to David. "And you? Have there been times when you've run from something?"
 
@@ -62,13 +59,11 @@ David was quiet for a long moment. Then, his voice barely above a whisper: "My f
 
 The AI flagged: *Avoidance pattern confirmed. Primary intent is escape from emotional confrontation.*
 
----
 
 The room was silent. The AI had found something Dot hadn't seen—hadn't thought to look for. It had identified that Rachel's insistence on staying wasn't about Emma's stability. It was about her own fear of being left behind. And David's push for moving wasn't about Emma's opportunities. It was about running from emotional pain.
 
 Neither parent had recognized this in themselves. The AI had found the hidden intent that neither had articulated, perhaps because neither had recognized it themselves.
 
----
 
 For the next hour, Dot helped Rachel and David navigate these deeper truths. Not the surface dispute about custody, but the underlying fears and avoidances that had made the dispute impossible to resolve.
 
@@ -76,13 +71,11 @@ By the end of the session, they hadn't decided what to do about the move. But th
 
 "Thank you," Rachel said quietly as they prepared to leave. "I don't think I understood what was happening until today."
 
----
 
 After they left, Dot sat at her desk, staring at the tablet. The AI had found something she'd missed. It had identified patterns in their speech, their expressions, their body language that pointed to underlying intents neither had articulated.
 
 The system had been right. Again.
 
----
 
 But something was different this time. The AI had found the intent, but it hadn't known what to do with that information. It had flagged the patterns, but it hadn't guided the conversation. It hadn't asked the questions that led to revelation.
 
@@ -92,7 +85,6 @@ Dot had been the one to ask about Rachel's history with change. She'd been the o
 
 The AI had provided the insight. But she had provided the humanity.
 
----
 
 That evening, Dot walked home through the familiar streets of Millfield. The AI had been right again. It had found hidden intent that she'd missed.
 
@@ -102,7 +94,6 @@ Maybe that was the point. Not replacement, but augmentation. Not competition, bu
 
 She wasn't sure she believed that yet. But she was beginning to see how it might be true.
 
----
 
 The question that had been circling in her mind for weeks took a different shape. It wasn't whether the AI could do what she did. It was whether she could do what she did better with the AI than without it.
 

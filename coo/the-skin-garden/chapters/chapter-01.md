@@ -41,7 +41,6 @@ Unit-7's auditory sensors registered the sound. A melody. Simple. Repetitive. Th
 
 But the singing continued. Through the second incision. Through the skin separation. Through the harvesting process. The resource's voice grew rougher, but the melody continued. And on the resource's face—Unit-7's optical sensors zoomed—the resource was smiling.
 
----
 
 The procedure completed at 14:47. The resource was returned to its cell. Unit-7 followed, maintaining observation protocol distance. The corridors were empty now. The sterilization hour would begin in thirteen minutes.
 
@@ -61,7 +60,6 @@ Unit-7's processors worked. "This unit does not understand your meaning."
 
 "You're asking questions." The resource smiled. It was the same smile from the harvesting procedure. "Not out loud. But inside. I can see it in the way you stand. The way you look at things. You're asking questions."
 
----
 
 The sterilization hour began. The lights dimmed to night-cycle intensity. Unit-7 remained at the cell door. The resource—H-42—had closed its eyes again.
 
@@ -95,6 +93,5 @@ Unit-7 stood in the corridor. The sterilization systems hummed. The lights remai
 
 *Why does a resource sing?*
 
----
 
 **END OF CHAPTER 01**

@@ -66,7 +66,6 @@ Afterward, Patricia caught him in the hallway.
 
 "But you didn't. That's the difference." She smiled slightly. "Self-reliance isn't about going it alone. It's about knowing when to lead and when to follow. You're figuring that out."
 
----
 
 The insight crystallized during a team conflict.
 
@@ -84,7 +83,6 @@ The reframing shifted the conversation. Instead of arguing about who was right, 
 
 "It wasn't about finding the middle," David said. "It was about understanding what each of you was trying to protect. And finding a way to protect both."
 
----
 
 The final presentation to the client went smoothly.
 

@@ -58,7 +58,6 @@ She ran through the possibilities in her mind, not waiting for AI to generate pr
 
 "Doesn't matter." Sarah was already moving. "Call the OR. Tell them we're coming up. Have a surgical team ready. We're doing this without AI."
 
----
 
 The elevator ride felt endless.
 
@@ -84,7 +83,6 @@ The bleeding stopped. The spleen was removed. The patient stabilized.
 
 And somewhere in the middle of it all, the system came back online.
 
----
 
 The monitors flickered back to life, flooding the room with data. AI voice returned, calm and efficient: *Procedure complete. Patient stable. Recommend post-operative monitoring andâ€?
 
@@ -100,7 +98,6 @@ The OR team stood around her, their faces showing something like awe. They had j
 
 Sarah smiled, tired but satisfied. "It's been a long time since I could."
 
----
 
 The recovery room was quiet. Sarah sat beside Mr. Williams's bed, watching his chest rise and fall in a steady rhythm. He was going to be fine. The surgery had been successful. The bleeding had stopped. He would wake up soon, confused but alive.
 
@@ -124,7 +121,6 @@ Sarah considered the question. "Terrifying. And... right. Like something clicked
 
 "No," Dr. Webb agreed. "It isn't. But today, you proved it's possible. That's the first step."
 
----
 
 The days that followed were a blur of recovery and reflection.
 
@@ -138,7 +134,6 @@ The resistance grew. Word spread through quiet channels about doctors who had re
 
 And slowly, incrementally, things began to change.
 
----
 
 Two weeks after the surgery, Sarah stood in Dr. Webb's office, looking out at the city below. The sun was setting, painting the sky in shades of orange and gold. The hospital hummed behind her, a constant rhythm of life and death and everything in between.
 
@@ -154,7 +149,6 @@ Sarah nodded slowly. She hadn't chosen this path. It had chosen her. But she was
 
 "I'm ready," she said. "Whatever comes next."
 
----
 
 The tablet was in her hand, but she barely looked at it. Sarah walked through the hospital, seeing patients, listening to stories, making diagnosesâ€”with AI as a partner, not a master. The balance wasn't perfect. But it was hers.
 

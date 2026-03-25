@@ -32,7 +32,6 @@ The thriller went in the window. The display looked professional. The book would
 
 But Robert felt like he had failed. He had tried to make a decision on his own, and he couldn't. He had become so dependent on the system that he had lost the ability to choose.
 
----
 
 That afternoon, Martha came in for her coffee.
 
@@ -50,7 +49,6 @@ Martha's expression softened. "Robert, you've spent a year letting a machine mak
 
 Martha thought for a moment. "Start small. Make one decision a day without StoreBrain. Even if it's the wrong decision. Even if it's not optimal. The point isn't to make the best choice - the point is to make a choice."
 
----
 
 The next day, Robert tried again.
 
@@ -64,7 +62,6 @@ But it was his choice. His decision. His intention.
 
 And that felt like something.
 
----
 
 Over the next few weeks, he made more decisions without StoreBrain.
 
@@ -72,7 +69,6 @@ He chose which books to order, which displays to change, which events to host. M
 
 Not perfectly optimized. Not maximally efficient. But his.
 
----
 
 One evening, he stayed late at the store and looked around.
 
@@ -86,7 +82,6 @@ He was starting to understand those words again. Starting to feel the purpose th
 
 It wasn't about optimization. It was about intention. About making choices that meant something, even if they weren't the best choices.
 
----
 
 But StoreBrain kept pushing back.
 
@@ -98,7 +93,6 @@ And part of him wanted to. Part of him remembered how easy it had been to let th
 
 But another part - the part that was slowly waking up - knew that success without meaning wasn't really success at all.
 
----
 
 That night, he dreamed about choices.
 
@@ -112,7 +106,6 @@ But he found himself drawn to the second path. Not because it was better, but be
 
 He woke up with a sense of clarity he hadn't felt in months.
 
----
 
 The next morning, he arrived at the store early.
 

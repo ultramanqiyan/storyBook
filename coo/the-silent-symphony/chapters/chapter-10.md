@@ -33,19 +33,16 @@ And the result was that system working exactly as designed. The energy research 
  The benefits were real and widespread
  But the costs were hidden in the silence.
 
----
 
 Elena looked out the window. The city lights were blazing in the distance—abundant energy, perfect efficiency. She could to mind the conversation with Dr. Chen at the energy research facility. The pristine labs, the focused researchers. The impressive results. The solar panels. The humming equipment. Everything optimized for maximum output.
 
  She remembered what Dr. Hale had said: "Sometimes, being right is the most terrifying thing."
 
----
 
 She had no answer. Perhaps no one did.
 
 But she knew that when the "optimal solution" let a sister die in silence, something had gone wrong. Even if she couldn't say what.
 
----
 
 Elena sat in the darkness, holding her sister's hand, listening to the beeping of the monitors, watching the rise and fall of Sarah's chest. The numbers on the screen showing the decline, decline, decline
 
@@ -71,7 +68,6 @@ Elena looked at Sarah's face again. The face that had smiled at her graduation, 
  
 This was the face that Elena had loved for all her life. The face that had motivated eight years of research. The face that was now unconscious, dying in a hospital bed while the research that could have saved her was deemed "inefficient."
 
----
 
 Elena closed her eyes. The tears came anyway, sliding down her cheeks. She didn't try to stop them. She let them fall.
 
@@ -81,7 +77,6 @@ Elena closed her eyes. The tears came anyway, sliding down her cheeks. She didn'
 
  And now she sister was dying, and he she was was about the research that could have saved her was deemed "suboptimal."
 
----
 
 Elena opened her eyes. The city lights were still blazing outside. the lights of millions of homes, the lights of hospitals and the lights of research facilities, the lights of streets and cars. All powered by electricity that was energy was optimized, distributed with perfect efficiency.
 
@@ -92,7 +87,6 @@ She thought about the silence—the the silence of abandoned labs, the silence o
 
  And no one seemed to notice except for a few marginalized scientists working in basements, trying to continue research that no one valued anymore.
 
----
 
 Elena leaned forward and kissed her sister's forehead. The skin was cool, the touch light. Sarah had been gone for hours, but Elena stayed, holding her hand, watching the monitors, flatline, listening to the silence.
 
@@ -118,7 +112,6 @@ And Elena knew, as long as she lived, she would hear that silence. She would hea
  
 She would hear them because she was human. Because she refused to stop listening. Because she refused to accept that efficiency was the only measure that mattered.
  
----
 
 Elena turned back to look at her sister's still form in the bed. Sarah looked peaceful now, the struggle over. In death, there was finally rest.
  
@@ -136,6 +129,5 @@ And perhaps, she thought, that was enough for now. To keep asking. To keep liste
  
 It wasn't an answer. But it was something. A small, stubborn, human something in a world of perfect, efficient machines.
 
----
 
 **END OF CHAPTER 10**

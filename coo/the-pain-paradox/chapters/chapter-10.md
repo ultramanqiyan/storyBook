@@ -92,7 +92,6 @@ She smiled. ARIA had become more than a tool over the past few months—more tha
 
 *That is my function,* ARIA responded. *But I have learned as well. Your experience has informed my understanding of what it means to serve.*
 
----
 
 That night, Sarah stood on the balcony of their apartment, looking out at the city. The lights spread out below her like a map of lives being lived, people feeling things she was only beginning to understand.
 
@@ -126,7 +125,6 @@ She had presence. She had choice. She had the ongoing struggle to become.
 
 And that, she was learning, was enough.
 
----
 
 Six months later, Sarah stood in front of the bathroom mirror, conducting her inventory. The ritual had become automatic—a nightly check of her body, a moment of connection with the physical self she was still learning to inhabit.
 
@@ -174,7 +172,6 @@ She kissed him—not the practiced kiss of performance, but something messier, m
 
 *This,* she thought. *This is what it's all for.*
 
----
 
 Later that night, Sarah lay in bed, staring at the ceiling. Michael was asleep beside her, his breathing slow and even. The city hummed outside the window, all those lives being lived, all those feelings being felt.
 
@@ -202,7 +199,6 @@ Sarah closed her eyes. She had spent thirty-four years thinking she was empty, h
 
 *Thank you,* ARIA responded. *For teaching me what it means to serve someone who is becoming.*
 
----
 
 In the morning, Sarah would wake up and conduct her inventory. She would go to work, solve problems, navigate relationships. She would feel pain when she bumped into things, stress when crises arose, warmth when Michael smiled. She would continue the slow, uneven process of becoming.
 

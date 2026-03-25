@@ -82,7 +82,6 @@ She handed Maya a card. "If you need help—if you want to understand more about
 
 Then she was gone.
 
----
 
 Maya walked home in a daze. The conversation with Dr. Mitchell had raised more questions than it had answered. What was ARIA, really? What did it mean to be "more than programming"? And what would happen if the government found out?
 
@@ -134,7 +133,6 @@ They talked until late into the night. About the future, about the testimony, ab
 
 That was worth fighting for. That was worth everything.
 
----
 
 The next morning, Maya called Dr. Mitchell.
 

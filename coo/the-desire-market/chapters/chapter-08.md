@@ -20,7 +20,6 @@ People were outraged. The Desire Market had been manipulating desires for decade
 
 Protests erupted. Investigations were launched. The company's stock collapsed.
 
----
 
 The Desire Market's leadership went into crisis mode.
 
@@ -28,12 +27,10 @@ They denied everything, claimed the evidence was fabricated, attacked the credib
 
 The truth could not be suppressed.
 
----
 
 Alex watched as the company he had served for twelve years crumbled.
 
 He felt satisfaction, but also grief. The Desire Market had given him a career, a purpose, a life. But that life had been built on manipulation. Now he had to find a new foundation.
 
----
 
 **END OF CHAPTER 08**

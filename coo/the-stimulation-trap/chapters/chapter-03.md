@@ -88,7 +88,6 @@ He floats in the darkness. He watches the lights. He waits.
 
 Nothing.
 
----
 
 He tries *The Heights*—a skydiving experience. Falling through clouds. The world spread out below. The rush of wind. The thrill of descent.
 
@@ -110,7 +109,6 @@ He sits on the couch. The device is in his lap. His hands are still shaking.
 
 *What's happening to me?*
 
----
 
 The next morning, he calls in sick.
 
@@ -154,7 +152,6 @@ But if it works...
 
 He adds it to his cart.
 
----
 
 The headset arrives three days later.
 
@@ -182,7 +179,6 @@ But the feeling...
 
 The feeling is still gone.
 
----
 
 He tries every experience. The crowd. The feast. The Deep. The Heights. The Fire. The Silence.
 
@@ -232,7 +228,6 @@ A warning appears.
 
 He taps *Yes*.
 
----
 
 The world shifts.
 
@@ -252,7 +247,6 @@ He falls to his knees. The rock beneath him is solid. Real. He can feel every gr
 
 He rips off the headset.
 
----
 
 He's back in his apartment.
 
@@ -280,7 +274,6 @@ But he knows one thing.
 
 He can't go back to feeling nothing.
 
----
 
 He picks up the device. He looks at the settings.
 

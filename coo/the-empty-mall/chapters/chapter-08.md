@@ -56,7 +56,6 @@ One evening, James watched an elderly woman show a younger man how to prune toma
 
 "First time for everything," she replied. "That's what keeps us alive."
 
----
 
 The experiments continued.
 
@@ -72,7 +71,6 @@ Each experiment was small. Each addressed a different need. None of them generat
 
 But slowly, the mall was filling with something other than products.
 
----
 
 Three months after the experiments began, James compiled the data.
 
@@ -90,7 +88,6 @@ James noticed a pattern in the responses. People weren't finding what they'd los
 
 They were finding reasons to be.
 
----
 
 But the experiments also revealed the limits of what he could do.
 
@@ -120,7 +117,6 @@ James felt the weight of the words. The mall wasn't just struggling. It was dyin
 
 "Six months. Maybe less. Show me results, or we shut it down."
 
----
 
 That night, James walked through the mall, thinking about what to do.
 

@@ -50,7 +50,6 @@ Marcus stood up, his restless energy finding expression in movement. "So you're 
 
 "No," Rosa said firmly. "I'm saying you should keep trying to feel something. Keep reaching for authenticity. But don't let the doubt stop you. Don't let the question of whether it's 'real' prevent you from doing the work. The search is the point. The attempt is what makes you an artist."
 
----
 
 The class continued, Rosa guiding her students through the exercises she'd used for years. But something was different now—both in her teaching and in their responses.
 
@@ -78,7 +77,6 @@ David closed his eyes, his face settling into an expression of quiet intensity. 
 
 "That's it," Rosa said softly. "You're not performing for yourself. You're performing for them. That's where the truth lives."
 
----
 
 The class ended, and Rosa's students gathered their things, their expressions thoughtful, their movements slower than usual. They were processing something, she could tell—something that had shifted in their understanding of what they were doing.
 
@@ -100,7 +98,6 @@ None of it had resolved. The questions remained. But somehow, that felt right no
 
 Rosa turned off the ghost light and walked to the exit, the darkness settling behind her. The question remained. And that was exactly as it should be.
 
----
 
 She stepped out of the theater into the Brooklyn afternoon. The light was golden, the air crisp, the streets full of people going about their ordinary lives. Rosa walked slowly, savoring the sensation of being in her body, in her neighborhood, in the world she'd built for herself.
 

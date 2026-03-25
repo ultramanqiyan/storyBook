@@ -74,7 +74,6 @@ But his fingers type the words before he can stop them.
 
 The results load.
 
----
 
 He scrolls past the articles about mainstream content. Past the advertisements for Helix and their competitors. Past the warnings about addiction and burnout.
 
@@ -90,7 +89,6 @@ He knows he should close the browser. He knows he should walk away. He knows thi
 
 But he clicks anyway.
 
----
 
 The post is from someone called *Horizon*.
 
@@ -116,7 +114,6 @@ He creates a new account. He sends a message.
 
 *Tell me more.*
 
----
 
 The reply comes within minutes.
 
@@ -156,7 +153,6 @@ It's not enough. It's never been enough.
 
 *Send me the address.*
 
----
 
 The next morning, he wakes up early.
 
@@ -178,7 +174,6 @@ He doesn't.
 
 But he pretends.
 
----
 
 He takes the bus to the edge of the city.
 
@@ -196,7 +191,6 @@ A man opens it. Young. Professional. Like a doctor.
 
 "Come in. We've been expecting you."
 
----
 
 The room is white. Clean. Medical.
 
@@ -256,7 +250,6 @@ He thinks about the feeling. The intensity. The thing he's been chasing for almo
 
 "When can we start?"
 
----
 
 Dr. Webb smiles.
 
@@ -277,7 +270,6 @@ Instead, there's a hum. A vibration. A resonance.
 And thenâ€?
 Something unlocks.
 
----
 
 It's not the feeling. Not yet.
 
@@ -301,7 +293,6 @@ Leo thinks about the question. Really thinks about it.
 
 "That's good. That's the first step. Come back in a week. We'll see how you're progressing."
 
----
 
 Leo walks out of the clinic.
 
@@ -343,7 +334,6 @@ But another voice whispers back:
 
 *At least I'll feel it when it happens.*
 
----
 
 The bus moves through the city.
 
@@ -369,7 +359,6 @@ He'd rather chase. He'd rather try. He'd rather burn out again and again and aga
 
 At least then, he feels something.
 
----
 
 The bus reaches his stop.
 
@@ -393,7 +382,6 @@ But he's already thinking about next week. About the clinic. About the helmet.
 
 About the chance to feel again.
 
----
 
 That night, he lies in bed.
 
@@ -427,7 +415,6 @@ Because the trap isn't the chase.
 
 The trap is thinking there's something else.
 
----
 
 He closes his eyes.
 

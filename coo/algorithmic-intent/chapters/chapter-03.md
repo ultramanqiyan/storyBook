@@ -76,7 +76,6 @@ Maria stared at him. "You were planning to leave?"
 
 "I was going to tell you. After the interview. But then..." He gestured vaguely. "This happened."
 
----
 
 The AI had been right. Jake wasn't hiding theft—he was hiding his plans to leave. And Maria's response wasn't just about the missing inventory—it was about feeling betrayed by an employee she'd trusted.
 
@@ -90,7 +89,6 @@ The conversation shifted. For the next hour, Dot helped them navigate the real i
 
 "I'm sorry too," Maria replied. "I should have asked before I accused."
 
----
 
 After they left, Dot sat at her desk, reviewing the AI's analysis. The system had identified the hidden intent before she had. It had flagged Jake's deception and Maria's emotional intensity, pointing her toward questions she might not have thought to ask.
 
@@ -104,7 +102,6 @@ She didn't have answers. But she was beginning to understand that the questions 
 
 The AI wasn't just a tool. It was a mirror, reflecting back her own limitations. And she wasn't sure she liked what she saw.
 
----
 
 That evening, Dot walked home through the darkening streets. The town was quiet, the shops closed, the streetlights casting pools of yellow on the sidewalk. She thought about Jake and Maria, about the AI's analysis, about the future of her profession.
 

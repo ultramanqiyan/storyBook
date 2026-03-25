@@ -36,7 +36,6 @@ Elena closed her eyes. The settlement would help her clients—would give them s
 
 "I'll discuss it with my clients," she said. "But I'm not optimistic."
 
----
 
 The town meeting that night was the largest yet. People stood in the aisles, crowded around the doors, spilled out into the parking lot. Everyone wanted to hear about the settlement offer.
 
@@ -64,7 +63,6 @@ She turned to Elena. "What happens if we say no?"
 
 "Then we lose. But at least we'll have fought."
 
----
 
 The vote was not even close. River's Bend rejected the settlement.
 
@@ -86,7 +84,6 @@ Elena looked at him. "Your grandfather was a wise man."
 
 "He was a farmer. He knew that you can't control the water. You can only work with it." Marcus smiled. "Or against it."
 
----
 
 The federal trial began six months later. Elena sat in the gallery, watching the prosecutors present the case she had built. David Park testified, his voice steady as he described what he'd seen at NeuralCore. Other witnesses followed—engineers, officials, residents. The evidence mounted.
 
@@ -96,7 +93,6 @@ After three weeks of testimony, the jury deliberated for two days.
 
 They found NeuralCore guilty on multiple counts of environmental fraud and conspiracy.
 
----
 
 The sentencing came a month later. NeuralCore was ordered to pay billions in fines and restitution. Executives faced prison time. The data center was shut down pending environmental review.
 
@@ -106,7 +102,6 @@ Elena stood at the edge of the riverbed, looking at the cracked earth and the de
 
 But the water was still gone.
 
----
 
 Sarah Miller found her there.
 
@@ -130,7 +125,6 @@ Elena looked. At first, she didn't see it. Then she did—a tiny pool of water, 
 
 Elena stared at the water, feeling something she hadn't felt in months. Hope. Not the desperate kind, but the quiet kind. The kind that comes from knowing that some things are worth fighting for, even when the odds are against you.
 
----
 
 She walked back to her car, the files tucked under her arm, the weight of everything she'd learned pressing against her chest. Behind her, the lights of River's Bend flickered in the early evening—homes and businesses and lives that were still here, still standing. Ahead of her, the NeuralCore facility sat dark and silent, a monument to greed that had finally been stopped.
 
@@ -140,10 +134,8 @@ But she knew one thing: the law was a river, and rivers found a way.
 
 She took a breath, turned away from the dry bed, and walked back toward the town that was still standing. The fight wasn't over. It was just beginning.
 
----
 
 **END OF CHAPTER 10**
 
----
 
 **END OF THE SILENT RIVER**

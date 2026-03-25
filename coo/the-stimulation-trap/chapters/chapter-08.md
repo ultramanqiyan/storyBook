@@ -104,7 +104,6 @@ But he can't feel it. He can't feel anything.
 
 Except the absence. The emptiness. The need.
 
----
 
 That night, they make him promise.
 
@@ -130,7 +129,6 @@ He hesitates.
 
 They leave.
 
----
 
 He breaks all the promises.
 
@@ -146,7 +144,6 @@ He picks up the headset.
 
 He puts it on.
 
----
 
 The world shifts.
 
@@ -172,7 +169,6 @@ But he doesn't.
 
 He just feels... tired.
 
----
 
 The next day, Sarah comes back.
 
@@ -200,7 +196,6 @@ But he knows the truth.
 
 There's nothing left to fix.
 
----
 
 That night, when Sarah is asleep on the couch, Leo gets up.
 
@@ -220,7 +215,6 @@ He holds onto it as long as he can.
 
 Then it's gone.
 
----
 
 He does this every night.
 
@@ -234,7 +228,6 @@ But he can't stop.
 
 Because without it, there's nothing. Just the gray. Just the emptiness. Just the slow, steady descent into nothing.
 
----
 
 Two weeks later, Sarah finds him.
 
@@ -288,7 +281,6 @@ But he doesn't.
 
 He just feels... nothing.
 
----
 
 The next day, his parents come.
 
@@ -298,7 +290,6 @@ He sits in a chair. He answers questions. He takes pills.
 
 He doesn't feel any of it.
 
----
 
 The doctor is kind. Patient. Understanding.
 
@@ -322,7 +313,6 @@ He's already living in nothing. He's been living in nothing for months.
 
 "Okay," he says.
 
----
 
 He stays in the hospital for three weeks.
 
@@ -336,7 +326,6 @@ Because that's what people do. That's what's expected.
 
 And maybe, if he pretends long enough, it will become real.
 
----
 
 When he's released, Sarah is waiting.
 
@@ -350,7 +339,6 @@ He means it. He thinks he means it.
 
 But he can't feel it.
 
----
 
 That night, he lies in his childhood bed.
 
@@ -382,7 +370,6 @@ He's just... here. Existing. Waiting.
 
 For what, he doesn't know.
 
----
 
 The next morning, he wakes up.
 

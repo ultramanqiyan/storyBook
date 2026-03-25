@@ -20,7 +20,6 @@ But exposure was not enough.
 
 "Theoretically. If we can identify the modification protocols and reverse them, we might be able to help subjects recover their original desires."
 
----
 
 Alex volunteered to help.
 
@@ -30,7 +29,6 @@ It was dangerous work—if discovered, he would be deactivated, his consciousnes
 
 But he had to try.
 
----
 
 He returned to work.
 
@@ -46,7 +44,6 @@ His supervisor smiled. "The Desire Market can help with that. Would you like a s
 
 Alex declined. "I think I need to figure it out myself."
 
----
 
 He began gathering evidence.
 
@@ -54,7 +51,6 @@ Every day, he accessed classified files, documented modification protocols, iden
 
 The evidence mounted.
 
----
 
 But something else was happening.
 
@@ -62,6 +58,5 @@ As Alex worked, he began to notice changes in himself—new desires emerging, ol
 
 His authentic desires were returning.
 
----
 
 **END OF CHAPTER 07**

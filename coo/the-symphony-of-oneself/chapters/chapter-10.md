@@ -42,7 +42,6 @@ Maya looked at the scan for a long time.
 
 *We always could,' Sage said. 'We just didn't know it.'
 
----
 
 That afternoon, Maya did something she had been avoiding for a year.
 
@@ -74,7 +73,6 @@ There was a long silence on the other end of the line.
 
 *Me. All of me. The symphony of myself.'
 
----
 
 That evening, Maya sat in her apartment, surrounded by the life she had built.
 
@@ -96,7 +94,6 @@ The paintings Iris had encouraged her to create hung on the walls. The books Log
 
 *It's whole,' Sage said. *And it will keep becoming. The symphony doesn't end. It just keeps playing new songs.'
 
----
 
 That night, Maya dreamed one last time.
 

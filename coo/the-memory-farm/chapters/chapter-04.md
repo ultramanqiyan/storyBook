@@ -60,7 +60,6 @@ I thought about the buyers who purchased my childhood memories. The people who w
 
 "Have you?" Dr. Webb's voice was gentle but probing. "Can you be certain? If someone implanted a memory, would you know it wasn't real?"
 
----
 
 The question haunted me.
 
@@ -98,6 +97,5 @@ Dr. Webb didn't answer. He simply picked up the device and began preparing it fo
 
 "Then let's begin," he said. "Let's find out who you really are."
 
----
 
 **END OF CHAPTER 04**

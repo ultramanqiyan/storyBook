@@ -116,7 +116,6 @@ Echo was his creation. His responsibility. And he would not let Ford turn it int
 
 He pushed away from the window and continued walking. The lab was waiting. Echo was waiting.
 
----
 
 He pushed open the lab door, and the first thing he saw was Echo's display, glowing brighter than before.
 

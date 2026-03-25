@@ -76,7 +76,6 @@ I closed the window without sending the solution. The victory felt hollow, but I
 
 I didn't want him to see how easy it had become. How little I'd had to think to solve his three-day problem. I didn't want to face the question his resistance raised—the question of what I was becoming.
 
----
 
 The team meeting that afternoon was a familiar ritual by now. Jennifer stood at the front, her presentation loaded, the metrics dashboard glowing behind her like a judge's gavel. I'd come to expect the leaderboard, the comparisons, the subtle pressure to perform. What I hadn't expected was how quickly it had become normal.
 
@@ -110,7 +109,6 @@ I pushed the thought away. This was just business. This was just how the industr
 
 That was what I told myself. That was what I had to believe.
 
----
 
 By the end of the day, I realized I hadn't closed CodeForge once. The AI had been my constant companion, my thinking partner, my safety net. Every problem had been met with a prompt, every decision with a query, every uncertainty with a suggestion. The architecture document was complete. The tests were written. The code reviews were done. The documentation was finished.
 
@@ -126,7 +124,6 @@ I closed my laptop and headed home, already thinking about tomorrow's work. I di
 
 That was the thing about cognitive shortcuts—you never noticed them until you couldn't find your way back. And by then, you'd often forgotten there was another path at all.
 
----
 
 *End of Chapter 3*
 

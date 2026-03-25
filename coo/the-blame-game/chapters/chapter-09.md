@@ -59,7 +59,6 @@ But he knew it wouldn't matter. The company had made its decision. The narrative
 
 He was the individual responsible.
 
----
 
 That night, Mark couldn't sleep.
 
@@ -85,7 +84,6 @@ He closed his eyes.
 
 *Someone has to pay. That's how it works.*
 
----
 
 The next morning, Mark woke up early.
 
@@ -101,7 +99,6 @@ It didn't mention him by name. But in the industry, people would know. People wo
 
 He closed the article and put down his phone.
 
----
 
 Around 10 AM, he received a text from Sarah Kim.
 
@@ -127,7 +124,6 @@ Mark stared at the words. They felt true. The process—the system of documentat
 
 *You too,* Sarah responded.
 
----
 
 That afternoon, Mark received a call from a recruiter.
 
@@ -161,7 +157,6 @@ But he knew that wouldn't help.
 
 He knew what that meant. The termination would follow him. The question would come up in every interview. The stigma would never fully disappear.
 
----
 
 That night, Mark sat with his wife on the couch.
 

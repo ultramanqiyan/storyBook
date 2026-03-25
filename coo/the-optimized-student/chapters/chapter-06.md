@@ -34,7 +34,6 @@ I had absorbed the same information. But I hadn't learned it. I had just... proc
 
 The test booklet stared back at me, the questions unanswered. I had never felt so helpless.
 
----
 
 The third section was science. Chemistry, physics, biology—the subjects I had been studying on my own in the library. I read the questions, my heart lifting slightly. This, at least, I might be able to answer.
 
@@ -48,7 +47,6 @@ It wasn't enough. The test was too comprehensive, the subjects too varied. By th
 
 I handed in my test booklet, my hand trembling. I had failed. For the first time in my life, I had actually failed.
 
----
 
 The hallway was quiet after the test. Students walked in silence, their expressions shell-shocked. We had all been trained to succeed, to optimize, to achieve. But without the system, we were lost.
 
@@ -70,7 +68,6 @@ The words struck with unexpected force. I had spent years believing I was educat
 
 Zoe smiled, but it was sad. "You already started. In the library, with the chemistry textbook. That's what learning looks like. It's hard, and slow, and frustrating. But it's real."
 
----
 
 That night, I sat in my room, staring at my test results. The score glowed on my phone: 47%. The lowest score I had ever received. The system had recalculated my learning path, adjusted my milestones, optimized my recovery.
 

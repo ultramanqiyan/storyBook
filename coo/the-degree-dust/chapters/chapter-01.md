@@ -58,7 +58,6 @@ The emptiness had been gradual, so gradual that he'd barely noticed it. But now,
 
 The university was contracting. And the numbers on his spreadsheet were just the latest symptom.
 
----
 
 President Elizabeth Warren had led Midwest State for eight years. A former economist, she approached university administration with data-driven precision. She'd stabilized the budget, improved graduation rates, and positioned the university for growth.
 
@@ -100,7 +99,6 @@ Michael had spent thirty years at this institution. He'd believed it would endur
 
 Now, he wasn't sure.
 
----
 
 He walked home that evening through the quiet campus.
 
@@ -120,7 +118,6 @@ Michael had always assumed Alex would go to college. It was what their family di
 
 But now, for the first time, he wondered if that was still true.
 
----
 
 He arrived home to find Alex in the living room, working on his laptop.
 

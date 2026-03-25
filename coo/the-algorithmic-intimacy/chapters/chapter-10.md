@@ -32,7 +32,6 @@ Patricia answered after a moment, her expression shifting from curiosity to surp
 
 Patricia's surprise shifted to something warmer. "Of course. Come in."
 
----
 
 They sat in Patricia's living room, cups of tea on the coffee table.
 
@@ -62,7 +61,6 @@ They talked about the financial implications, but not in the abstract way Sarah 
 
 The conversation meandered. It wasn't efficient. It wasn't polished. But it was real.
 
----
 
 After an hour, Sarah stood to leave.
 
@@ -84,7 +82,6 @@ She paused. "I missed her."
 
 Sarah felt tears prick at her eyes. "I missed her too."
 
----
 
 She drove back to the office, the Boston skyline growing larger in the windshield.
 
@@ -96,7 +93,6 @@ Maybe that was the trade-off. Efficiency for authenticity. Polish for presence.
 
 Maybe it was worth it.
 
----
 
 Back at the office, she sat at her desk and stared at the WealthGuide interface.
 
@@ -110,7 +106,6 @@ She would try to remember. To be present. To care.
 
 Not perfectly. Not efficiently. But genuinely.
 
----
 
 That evening, she stayed late at the office.
 
@@ -122,7 +117,6 @@ She didn't have answers. She didn't know if her approach would work, if she coul
 
 But she knew one thing: she was going to try.
 
----
 
 She opened a blank document and started typing.
 
@@ -140,7 +134,6 @@ She opened a blank document and started typing.
 
 She saved the document and closed her laptop.
 
----
 
 The Boston skyline was dark now, the lights of the city twinkling like stars. The harbor was invisible in the night, but she could feel its presence, a constant beyond the changing city.
 
@@ -158,6 +151,5 @@ One client at a time. One conversation at a time. One genuine moment at a time.
 
 It wasn't much. But it was a start.
 
----
 
 **END OF THE ALGORITHMIC INTIMACY**

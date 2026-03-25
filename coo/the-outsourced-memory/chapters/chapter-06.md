@@ -95,7 +95,6 @@ He closed his eyes and tried to remember. The way a floor tilted just slightly u
 
 But he couldn't remember how he'd known them. The knowledge had been embodied, tacit, the kind of expertise that lived in muscle memory and physical sensation rather than conscious thought. And now it was gone, replaced by a probability score that said *94% confidence* while his stomach screamed *wrong, wrong, wrong*.
 
----
 
 The next morning, he called David Chen.
 
@@ -133,7 +132,6 @@ He stared at the screen, at the David Chen file, at the *94% confidence* that gl
 
 The question sat in his chest, unanswered.
 
----
 
 Two weeks later, David Chen called back.
 
@@ -159,7 +157,6 @@ Because he'd stopped trusting himself.
 
 Because he'd become a rubber stamp for decisions he could no longer explain or defend.
 
----
 
 He didn't go home that night.
 
@@ -185,6 +182,5 @@ He closed the app and stood in the gathering dark, a man who had once known hous
 
 The question echoed in the empty space where his expertise used to live.
 
----
 
 **END OF CHAPTER 6**

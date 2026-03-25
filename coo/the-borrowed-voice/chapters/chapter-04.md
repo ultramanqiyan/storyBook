@@ -123,7 +123,6 @@ Both emails had been signed with his name. Both emails had represented him to hi
 
 But only one of them was really his.
 
----
 
 The question haunted him for the rest of the week.
 
@@ -139,7 +138,6 @@ What did that mean about authenticity? What did that mean about his voice?
 
 He didn't have answers. But the questions were becoming impossible to ignore.
 
----
 
 On Friday, Rachel stopped by his office.
 
@@ -171,7 +169,6 @@ But what were the numbers measuring? His success? Or the AI's?
 
 He didn't know anymore.
 
----
 
 That night, he dreamed about the mug.
 

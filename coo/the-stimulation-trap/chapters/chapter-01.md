@@ -60,7 +60,6 @@ The sound is perfect. Every note is clear, pure, designed to resonate with somet
 
 He stays there for what feels like hours. The sun never fully sets. The bird sings. The water flows. The flowers bloom. Everything is beautiful. Everything is peaceful. Everything is exactly as it should be.
 
----
 
 When he removes the headset, his apartment is dark.
 
@@ -86,7 +85,6 @@ He looks at the sink. The dishes from last night are still there. He should wash
 
 Instead, he goes to bed.
 
----
 
 The next morning, his alarm goes off at 7:00 AM.
 
@@ -104,7 +102,6 @@ He opens the door. The hallway is gray. The carpet is worn. The fluorescent ligh
 
 He walks to work.
 
----
 
 At the office, his cubicle is the same as every other cubicle.
 
@@ -138,7 +135,6 @@ But his mind keeps drifting back to the Garden of Echoes. To the grass that shim
 
 *Tonight,* he thinks. *Tonight I'll go back.*
 
----
 
 Lunch comes and goes. Leo eats at his desk—a sandwich he doesn't taste. Marcus doesn't come by again.
 
@@ -152,7 +148,6 @@ He walks to his apartment. The same route he always takes. Past the same buildin
 
 *Almost there.*
 
----
 
 At 6:47 PM, the notification chimes.
 
@@ -176,7 +171,6 @@ He presses play.
 
 The world shifts again.
 
----
 
 Later—much later—he removes the headset.
 

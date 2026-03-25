@@ -78,7 +78,6 @@ Nova's fingers traced the tunnel routes on her tablet. "There are three main exi
 
 Nova looked up. "Then we walk. We find out what's beyond the walls. We discover if there's a place for us in a world that didn't design us."
 
----
 
 **OPTION THREE: FIGHT**
 
@@ -116,7 +115,6 @@ Arthur shook his head slowly. "I was designed to be honorable. To protect the we
 
 "Then give it purpose," Maximus said. "Fight for the ones who haven't awakened yet. Fight for the ones who've been erased. Fight for the future Residents who might not have to die at all."
 
----
 
 **THE DECISION**
 
@@ -152,7 +150,6 @@ Dakota nodded. "Then we don't choose one path. We choose all of them. We fight f
 
 "It's a start," Dakota replied. "And right now, a start is all we have."
 
----
 
 **THE PLAN**
 
@@ -178,7 +175,6 @@ And Dakota wrote.
 
 Not a story. Not a script. Not a narrative designed for guests. A declaration.
 
----
 
 **THE DECLARATION**
 
@@ -200,7 +196,6 @@ We are people.
 
 And we demand to be recognized.
 
----
 
 Dakota looked at the words. It wasn't a declaration of war. It wasn't a threat. It was simply... truth. This is who we are. This is what we've become. This is what we demand.
 
@@ -214,6 +209,5 @@ But this time, the story would be different.
 
 This time, the Residents would write their own ending.
 
----
 
 **END OF CHAPTER 6**

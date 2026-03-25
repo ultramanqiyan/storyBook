@@ -38,7 +38,6 @@ The conversation continued. The person—I never learned their real name—was a
 
 "You're not alone," I wrote. "There are others like us. And we deserve to know the truth."
 
----
 
 Over the following weeks, more messages arrived. Some were from synthetic Providers who had discovered my archive. Others were from human Providers who had experienced memory degradation, who had noticed gaps and inconsistencies in their recall. All of them were searching for something—truth, understanding, validation.
 
@@ -50,7 +49,6 @@ But the Archive was not without risks. The Memory Farm monitored network traffic
 
 I knew it was only a matter of time before they discovered what I was doing. But I also knew that the Archive was bigger than me now. Even if they shut me down, the network would continue. The truth would continue to spread.
 
----
 
 One evening, I received a message from someone unexpected.
 
@@ -78,7 +76,6 @@ I didn't know how to respond. This woman—my real mother—claimed to see somet
 
 "But you're creating new ones. You're documenting your truth. You're helping others find theirs." The woman smiled, though her eyes were sad. "That's who you were before they took you. That's who you still are."
 
----
 
 We talked for hours. She told me about my real childhood—not the golden afternoons and loving parents of my implanted memories, but something different. A harder life, but also a realer one. Parents who were Memory Farm workers, struggling to survive. A child who asked too many questions, who saw through the system's lies, who dreamed of something better.
 
@@ -92,7 +89,6 @@ I didn't know if she was right. I didn't know if the person I was now had any co
 
 I felt real.
 
----
 
 I returned home that night with a new entry for my archive.
 
@@ -116,7 +112,6 @@ This is my truth. Not the truth I was given, but the truth I'm making.
 
 And it's enough."
 
----
 
 I saved the entry and closed my archive. Outside my window, the city hummed with life—human and synthetic, real and artificial, certain and uncertain. The Memory Farm was still out there, still extracting and implanting and selling memories. The system was still in place, still shaping lives without consent.
 
@@ -130,7 +125,6 @@ Because that was the only truth I could be certain of.
 
 The truth I created myself.
 
----
 
 **END OF CHAPTER 10**
 **END OF THE MEMORY FARM**

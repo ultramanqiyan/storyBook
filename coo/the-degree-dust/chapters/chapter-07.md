@@ -84,7 +84,6 @@ No, the program wasn't accredited. But accreditation was a system designed for a
 
 No, the model wasn't scalable in the traditional sense. But maybe scaling wasn't the goal—maybe the goal was quality, not quantity.
 
----
 
 At the end of the meeting, President Warren called for a vote.
 
@@ -94,7 +93,6 @@ Hands went up—slowly at first, then with growing confidence. The vote wasn't u
 
 The program would continue.
 
----
 
 After the meeting, Michael found Alex waiting outside.
 
@@ -134,7 +132,6 @@ Michael looked at his son—at the uncertainty in his eyes, the searching, the h
 
 "I think so. But the real answer will come from the students themselves. From who they become."
 
----
 
 That night, Michael sat in his office, reading through the applications for the next cohort of The Path.
 

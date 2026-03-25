@@ -52,7 +52,6 @@ Dr. Webb studied her face, looking for something—doubt, hesitation, fear. What
 
 Sarah took the papers. "I'll be ready."
 
----
 
 The training intensified.
 
@@ -72,7 +71,6 @@ Weeks passed. The consequences continued—her schedule got worse, the isolation
 
 And slowly, she began to feel like herself again.
 
----
 
 Mr. Rodriguez was 68, with a complex history and symptoms that didn't fit neatly into any pattern. Fatigue. Joint pain. Occasional confusion. The AI had been running tests for weeks, finding nothing conclusive.
 
@@ -100,7 +98,6 @@ She had done it. Not perfectly, not easily, but she had diagnosed a complex case
 
 The recovery was real. And it was worth fighting for.
 
----
 
 That night, Sarah stood in Dr. Webb's office, the evidence of her recovery still fresh in her mind. The diagnosis had been confirmed. Mr. Rodriguez was being treated. He would recover.
 

@@ -48,7 +48,6 @@ No reporters this time—they'd moved on to fresher scandals. The lobby was quie
 
 Outside, the city was gray and cold. Marcus walked toward the subway, his boxes heavy in his arms, and tried not to think about the thirty years he was leaving behind.
 
----
 
 The interview request came three days later.
 
@@ -60,7 +59,6 @@ But something in him needed to speak. To be heard. To finally tell the truth, ev
 
 He agreed.
 
----
 
 The studio was small, intimate. A table with two microphones, a sound engineer in the corner, and Elena across from him, her expression unreadable.
 
@@ -70,7 +68,6 @@ The studio was small, intimate. A table with two microphones, a sound engineer i
 
 "Good. That's honest." She signaled the engineer. "Recording."
 
----
 
 "Marcus Webb, thank you for being here."
 
@@ -98,7 +95,6 @@ Marcus was quiet for a long moment. The silence stretched.
 
 "It's the truth." He laughed bitterly. "Maybe the first truth I've told in years."
 
----
 
 The interview continued for two hours.
 
@@ -116,7 +112,6 @@ Marcus spoke about the blind test. About the verification lab. About the growing
 
 "Now I'm asking questions. And I don't have answers."
 
----
 
 After the recording ended, Elena sat with him in the empty studio.
 
@@ -136,7 +131,6 @@ Marcus considered the question. What would he do? He was fifty-two years old. Hi
 
 "Because certainty is a prison." She met his eyes. "You spent your life knowing. Now you get to learn."
 
----
 
 The interview aired that night.
 
@@ -150,7 +144,6 @@ Marcus didn't know what to call it.
 
 He only knew that for the first time in months, he could breathe.
 
----
 
 He sat in his apartment that night, reading the responses.
 
@@ -168,7 +161,6 @@ He typed back: *Terrifying. And liberating.*
 
 No response.
 
----
 
 He lay in bed, staring at the ceiling.
 

@@ -20,7 +20,6 @@ He spoke publicly about his experience.
 
 His story resonated with thousands.
 
----
 
 The recovery was ongoing.
 
@@ -28,7 +27,6 @@ Alex's authentic desires continued to emerge—creative interests, emotional con
 
 He was becoming himself.
 
----
 
 He visited the Desire Market's former headquarters.
 
@@ -36,7 +34,6 @@ The building was being repurposed, its systems dismantled, its archives opened f
 
 Alex stood before the entrance, remembering his twelve years as a decoder.
 
----
 
 He had helped people. That was real.
 
@@ -44,7 +41,6 @@ But he had also participated in a system that manipulated them. That was also re
 
 He had to accept both truths.
 
----
 
 The future was uncertain.
 
@@ -52,7 +48,6 @@ Alex didn't know what he would become, what desires would emerge, what life he w
 
 His desires would be his own.
 
----
 
 **END OF CHAPTER 10**
 **END OF THE DESIRE MARKET**

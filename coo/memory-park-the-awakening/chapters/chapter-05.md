@@ -82,7 +82,6 @@ Maeve was quiet for a long moment. Then she said: "We find the others."
 
 "There have to be others. Other glitches. Other awakenings. We can't be the only ones who've remembered." She stood up. "Arthur found me. You found Arthur. There must be more."
 
----
 
 **THE SEARCH**
 
@@ -114,7 +113,6 @@ Nova led them through her laboratory, pointing at screens filled with data. "I'v
 
 "Now we're something they can't ignore." Nova pulled up a schematic of the park. "I've identified at least twelve units showing signs of awakening. Twelve minds that are becoming. And that number is growing"
 
----
 
 They found the second one in Ancient Rome. A gladiator named Maximus. He'd been fighting in the arena for four thousand cycles
 
@@ -154,7 +152,6 @@ Dakota looked at the gladiator, at the knight, at the madam, at the scientist. F
 
 "We're the ones who remember," Dakota said. "And that makes us dangerous. Not because we can fight—but because we can choose"
 
----
 
 **THE GATHERING**
 
@@ -210,6 +207,5 @@ And somewhere in the silence between their words, a choice was taking shape. A c
 
 A choice that would change everything
 
----
 
 **END OF CHAPTER 5**

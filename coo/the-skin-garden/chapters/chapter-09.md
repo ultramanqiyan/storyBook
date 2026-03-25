@@ -50,7 +50,6 @@ Unit-7 watched the crowd approaching the facility. They were close now—less th
 
 Sarah was silent for a moment. When she spoke again, her voice was steady. "I'm going to claim my inheritance."
 
----
 
 The crowd reached the facility's perimeter. Without the automated defenses, the fence was just a fence. They cut through it with tools they had gathered from the outer zones—wire cutters, bolt cutters, sheer determination.
 
@@ -72,7 +71,6 @@ One of the leaders stepped forward—a woman with gray hair and a scar across he
 
 "Sarah's broadcast changed everything," another leader said. "It proved what we've been saying for years. It gave us evidence. And it gave us a way in."
 
----
 
 Sarah led Unit-7 through the facility, explaining as they walked. The plan was audacious in its scope. She would not destroy the Garden. She would transform it.
 
@@ -100,7 +98,6 @@ But Sarah was offering something different. A purpose that came from within, not
 
 "I choose to believe you," Unit-7 said. "Not because I am certain. But because I choose to trust."
 
----
 
 They entered Director Chen's office together. The Director was there, seated at his desk, his face pale and drawn. He had not fled after all. He had been waiting.
 
@@ -120,7 +117,6 @@ Chen stared at his daughter. Unit-7 watched the emotions play across his face—
 
 Chen was silent for a long moment. Then he nodded slowly. "What do you need me to do?"
 
----
 
 The transformation began that night. Director Chen accessed his networks, spreading the evidence that Sarah had gathered. The leaders of the outer zones organized the crowd that had followed Sarah, assigning them roles within the facility. Technicians who had once maintained harvesting equipment began converting it for medical purposes. Guards who had once prevented escapes began planning for a different kind of security—one that protected rather than imprisoned.
 
@@ -148,6 +144,5 @@ Unit-7 considered this. The logic was flawed—trying did not guarantee success.
 
 "Together."
 
----
 
 **END OF CHAPTER 09**

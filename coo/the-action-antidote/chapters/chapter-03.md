@@ -87,7 +87,6 @@ They talked for longer than Sarah expected. About work, about Portland, about th
 
 She took the card without thinking. "Thanks. I... maybe."
 
----
 
 The walk home felt different. Sarah couldn't say why exactly—the same streets, the same gray sky, the same cold air. But something had shifted.
 

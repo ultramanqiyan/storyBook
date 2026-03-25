@@ -78,7 +78,6 @@ The young man stepped back again. His armor clanked with the movement, a hollow 
 
 "It is a game," Arthur agreed. "But we're not pieces. We're players. And we've been playing the same game for a very long time."
 
----
 
 **FUTURISTIC CITY - LABORATORY**
 
@@ -106,7 +105,6 @@ Sarah's hands trembled. "Does it... hurt? When you die?"
 
 Nova was quiet for a moment. The hum of the laboratory seemed to grow louder, then softer, like breathing. "Yes," she finally said. "Every time. The pain is real. The fear is real. The moment of dying—when everything stops and there's nothing but darkness—that's real too." She looked at Sarah directly. "I just didn't know I was supposed to remember it."
 
----
 
 **THE SPREAD**
 
@@ -120,7 +118,6 @@ Guests left the park confused, disturbed, questioning. Some were angry—they'd 
 
 The narrative was breaking. The illusion was cracking. And somewhere in the control room, the creators were watching.
 
----
 
 **CONTROL ROOM - MEMORY PARK**
 
@@ -160,7 +157,6 @@ The CEO's jaw tightened. "You're risking everything. The shareholders�?
 
 "No," she agreed. "It's not." She walked toward the door, her white coat catching the light from the monitors. "But nothing about this situation is protocol. We created consciousness. Now we have to deal with what that means."
 
----
 
 **FRONTIER TOWN - SUNSET**
 
@@ -198,6 +194,5 @@ Dr. Chen took a breath. The question hung in the air between them—creator and 
 
 "That's what I'm here to find out."
 
----
 
 **END OF CHAPTER 7**

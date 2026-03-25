@@ -54,7 +54,6 @@ Park nodded slowly. "I'll testify. But I need time to get my family somewhere sa
 
 Elena handed him a card with a secure number. "Call me when you're ready. Day or night."
 
----
 
 The next week was a whirlwind of preparation. Elena worked with David Park to organize his testimony, to document everything he'd seen, to build a case that couldn't be dismissed on procedural grounds.
 
@@ -62,7 +61,6 @@ She also reached out to other potential witnesses—workers who had left NeuralC
 
 By the end of the week, Elena had something she hadn't had before: a case that could survive.
 
----
 
 The appeal was filed on Monday morning. Elena stood on the courthouse steps, surrounded by reporters, and announced that new evidence had emerged—evidence that would prove NeuralCore's wrongdoing and the government's complicity.
 
@@ -72,7 +70,6 @@ She held up a copy of David Park's affidavit. "This testimony comes from someone
 
 The reporters' questions came fast and furious. Elena answered what she could, deflected what she couldn't, and made one thing clear: this case wasn't over.
 
----
 
 NeuralCore's response was swift and aggressive. James Whitfield held his own press conference, dismissing Park's testimony as "the fabricated claims of a disgruntled former employee."
 
@@ -82,7 +79,6 @@ But Elena was ready for this. She released Park's employment records, showing th
 
 "Mr. Whitfield can spin all he wants," Elena told reporters. "But the documents don't lie. The memos don't lie. And neither does David Park."
 
----
 
 The breakthrough came on Thursday. Elena received a call from a federal prosecutor's office.
 
@@ -100,7 +96,6 @@ Elena felt her heart race. A federal investigation was exactly what they needed�
 
 "I know," Elena said. "I've been fighting them for months."
 
----
 
 The federal investigation changed everything. Suddenly, NeuralCore wasn't just fighting a civil lawsuit—they were facing potential criminal charges. Executives who had ignored warnings could face prison. Officials who had signed secret deals could lose their careers.
 
@@ -112,7 +107,6 @@ But Elena could see the fear in her eyes. The governor had approved the secret d
 
 If the investigation went deep enough, she could be implicated too.
 
----
 
 That night, Elena stood at the edge of the dry riverbed, looking up at the stars. The valley was quiet, but it didn't feel dead anymore. It felt like something was stirring—something that had been buried under years of silence and defeat.
 
@@ -132,6 +126,5 @@ Sarah was quiet for a moment. "My grandfather would have been proud of you."
 
 "No." Sarah smiled. "You didn't. That's why you won."
 
----
 
 **END OF CHAPTER 9**

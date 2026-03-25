@@ -169,6 +169,5 @@ Mira stared into the crystal's glow, seeing not just light but the vast consciou
 
 The crystal pulsed warm against her hands, and for a moment, she could have sworn she felt Jasper's arms around her, holding her close across the impossible distance between life and death.
 
----
 
 **Chapter 3 Complete**

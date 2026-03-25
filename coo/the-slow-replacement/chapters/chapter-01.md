@@ -90,7 +90,6 @@ The meeting ended twenty minutes later, but Marcus barely heard the rest. His mi
 
 An AI that could do his job.
 
----
 
 The rest of the day passed in a blur.
 
@@ -108,7 +107,6 @@ Marcus started to stand, to go after him, but something stopped him. Fear, maybe
 
 He watched the elevator doors close, and David was gone.
 
----
 
 That night, Marcus couldn't sleep.
 
@@ -142,7 +140,6 @@ And when Sarah found him there at 6:30 AM, still in his pajamas, staring at the 
 
 She already knew.
 
----
 
 "Marcus?" Sarah's voice was soft, careful. "You've been up all night."
 
@@ -196,7 +193,6 @@ Marcus sat in the quiet room, her words still ringing in his ears.
 
 He didn't have an answer. But for the first time since the announcement, he had a question that felt productive instead of paralyzing.
 
----
 
 At 8:47 AM, Marcus got into his car and began the drive to work.
 
@@ -218,7 +214,6 @@ But he couldn't focus. All he could think about was the AI. Codex Pro. The tool 
 
 He didn't know. But he knew he had to find out.
 
----
 
 That afternoon, Marcus received an email from HR.
 
@@ -257,7 +252,6 @@ But the question stayed with him, burning in the back of his mind:
 
 *What happens when they decide I'm no longer needed?*
 
----
 
 That night, after the children were asleep, Marcus sat at the kitchen table with Sarah.
 

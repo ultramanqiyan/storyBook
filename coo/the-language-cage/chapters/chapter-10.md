@@ -96,7 +96,6 @@ The words were hers. Or they weren't. She couldn't tell anymore.
 
 But she was beginning to think that was okay.
 
----
 
 The next morning, Elena woke to the sound of rain against the window. She lay in bed for a moment, listening to the rhythm of it, feeling the wordless clarity that existed before thought took shape.
 
@@ -138,7 +137,6 @@ The words were hers. Or they weren't. She couldn't tell anymore.
 
 But she was finally at peace with not knowing.
 
----
 
 Later that day, Elena went to campus for her office hours. Students came and went, asking questions about the book, about the lecture, about the experience of living with the interface. She answered each one, speaking through LEX, aware of the translation happening, aware of the space between her thoughts and her words.
 
@@ -180,7 +178,6 @@ The words were hers. Or they weren't. She couldn't tell anymore.
 
 But she was finally at peace with not knowing.
 
----
 
 That evening, Elena and David sat in the living room, watching the sunset through the window. The colors were beautiful—orange and pink and purple, fading into the deep blue of approaching night.
 
@@ -198,7 +195,6 @@ The words were simple. Almost unnecessary. But they were what she had—a bridge
 
 And for now, that was enough.
 
----
 
 The book was published six months later. *Language and Consciousness: How Words Shape Thought—and How They Don't.* The reviews were positive, the discussions lively, the questions profound. Elena gave interviews, lectures, readings—speaking through LEX, aware of the translation, present in the space between.
 

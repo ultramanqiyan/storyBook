@@ -46,7 +46,6 @@ James flipped through the brochure. Art classes. Exercise groups. Book clubs. Su
 
 "Depends. Some classes have five or six people. Some have one or two. Some get cancelled for lack of interest." She looked at him with tired eyes. "It's not about the programs. It's about the people. They've stopped showing up for their own lives."
 
----
 
 He drove to the unemployment office, which had been renamed the "Transition Center" a few years ago.
 
@@ -78,7 +77,6 @@ James thought about the customers he'd interviewed. They'd all said variations o
 
 "I don't know. Community, maybe. Connection. A sense that they're part of something larger than themselves." She turned from the window. "But you can't manufacture those things. They have to emerge from people's lives."
 
----
 
 His last stop was a neighborhood bar that had been a local institution for decades.
 
@@ -102,7 +100,6 @@ Marcus set down the glass. "They stopped coming. Not all at once, but gradually.
 
 James felt the weight of the words. The bar had been a destination because people had somewhere to come from. Now, they had nowhere to be, and the bar had become just another empty space.
 
----
 
 He drove back to the mall as the sun set.
 

@@ -36,7 +36,6 @@ Marcus read the article with growing horror:
 
 *The revelation raises serious questions about the exhibition's curator, Marcus Webb, whose "Webb Method" claims to detect human authenticity in art. Webb personally selected Okonkwo's work and vouched for its authenticity. When asked whether Webb knew about the AI use, Okonkwo declined to comment directly, saying only: "He saw what he wanted to see."*
 
----
 
 Marcus set the phone down.
 
@@ -52,7 +51,6 @@ Had Marcus known? Had he been fooled? Or had he been complicit?
 
 The answer didn't matter. Either way, he was ruined.
 
----
 
 His phone exploded with messages.
 
@@ -60,7 +58,6 @@ Reporters. Colleagues. Friends. Everyone wanted a comment. Everyone wanted to kn
 
 He turned off the phone.
 
----
 
 The museum lobby was a circus.
 
@@ -74,7 +71,6 @@ Reporters crowded the entrance, cameras flashing, microphones thrust forward. Ma
 
 He made it inside and collapsed against a wall.
 
----
 
 Helen Marsh's office was cold.
 
@@ -110,7 +106,6 @@ Marcus felt the words like a physical blow.
 
 He had no response.
 
----
 
 He gave a press conference that afternoon.
 
@@ -130,7 +125,6 @@ The questions came fast:
 
 He walked away, the cameras flashing behind him.
 
----
 
 That night, Marcus sat in his apartment in the dark.
 
@@ -148,7 +142,6 @@ The response came immediately:
 
 Then: *Sweet dreams, Mr. Webb. Tomorrow will be worse.*
 
----
 
 He didn't sleep.
 

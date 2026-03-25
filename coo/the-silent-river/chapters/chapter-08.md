@@ -36,7 +36,6 @@ A murmur ran through the crowd. Elena saw heads nodding, saw the tight set of sh
 
 "NeuralCore thinks this is over," Marcus continued. "They think they can just drain our valley and walk away. But they're wrong. This isn't over. This is just beginning."
 
----
 
 Sarah Miller stood up from the front row. "I've lived in this valley my whole life. My parents lived here. My grandparents. My great-grandparents. Four generations of Millers have worked this land."
 
@@ -54,7 +53,6 @@ One by one, people stood up and spoke.
 
 Elena felt something shift inside her. She'd been so focused on the legal battle that she'd forgotten the most important thing: these people weren't fighting because they thought they would win. They were fighting because it was the right thing to do.
 
----
 
 After the meeting, Marcus pulled Elena aside.
 
@@ -68,7 +66,6 @@ Elena thought about it. The court had dismissed the case on procedural grounds�
 
 "Let them." Elena felt a spark of the determination she'd lost. "Everything I say is true. Truth is an absolute defense."
 
----
 
 The media strategy took shape over the next week. Elena worked with a journalist she trusted—Jennifer Walsh from the Nordland Tribune—to tell the full story. Not just the legal case, but the human impact. The families who had lost their farms. The children who had moved away. The community that was dying.
 
@@ -78,7 +75,6 @@ The story included the documents—the secret agreement, the internal memos, the
 
 And it included Elena's legal analysis: "This wasn't just corporate negligence. This was a deliberate decision to sacrifice a community for profit."
 
----
 
 The response was immediate and overwhelming.
 
@@ -90,7 +86,6 @@ Elena's phone rang constantly. Messages poured in from other towns with similar 
 
 "Then we fight everywhere." Elena felt the energy returning. "One case at a time."
 
----
 
 NeuralCore's response came through James Whitfield, who held a press conference on Tuesday. Elena watched from her office, her jaw tight.
 
@@ -106,7 +101,6 @@ NeuralCore's response came through James Whitfield, who held a press conference 
 
 But Elena could see the cracks in his facade. The reporters weren't letting him off easy. They were asking hard questions, demanding real answers.
 
----
 
 By the end of the week, the story had gone national. Major news outlets picked it up. Environmental organizations issued statements. Politicians were forced to respond.
 
@@ -126,7 +120,6 @@ The governor's expression flickered. "My office has always been transparent abou
 
 Elena watched the governor stumble, watched her composure crack. The truth was coming out. And no amount of spin could stop it.
 
----
 
 That night, Elena stood outside the community center in River's Bend, watching the last of the residents drive away. The meeting had been different this time—not despair, but determination. Not defeat, but defiance.
 
@@ -148,6 +141,5 @@ Elena looked at the lights of NeuralCore's facility in the distance, still glowi
 
 Elena thought about the appeal, the media strategy, the growing movement. "Now we keep fighting. Until we win. Or until there's nothing left to fight for."
 
----
 
 **END OF CHAPTER 8**

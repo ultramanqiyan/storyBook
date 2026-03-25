@@ -80,7 +80,6 @@ Tom nodded slowly. "I think I did too. After a while, I stopped expecting anythi
 
 The AI had captured the patterns. But it hadn't captured the pain of two people who had loved each other, lost each other, and hadn't even noticed.
 
----
 
 Around ten o'clock, Tom went to the kitchen and came back with two glasses of wine. They sat in the living room, the familiar space feeling different now—charged with honesty, with vulnerability, with the weight of everything they'd been avoiding.
 
@@ -106,7 +105,6 @@ Maggie considered the question. Why had she? She could have kept it to herself, 
 
 Tom nodded slowly. "Okay. So now we're not pretending. What do we do?"
 
----
 
 They didn't decide anything that night. They didn't make promises or commitments or plans. They just talked—honestly, painfully, for the first time in years.
 
@@ -128,7 +126,6 @@ Maggie looked at him—really looked, the way she hadn't in years. She saw the m
 
 "I'd like to try," she said.
 
----
 
 They went to bed that night without deciding anything concrete. No schedules, no protocols, no intervention plans. Just an agreement to keep talking. To keep trying. To see if the patterns could change.
 

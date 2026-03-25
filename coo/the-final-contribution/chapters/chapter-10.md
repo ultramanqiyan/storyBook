@@ -60,7 +60,6 @@ He didn't have answers. He still didn't have a plan. But he had something to con
 
 And that, he realized, was what he'd been missing all along.
 
----
 
 David came to visit on a Saturday. They sat on the porch, watching the sunset, drinking coffee that Margaret had made.
 
@@ -96,7 +95,6 @@ Robert looked at his son. At the young man he'd raised, the man he was becoming,
 
 "It was about hope," Robert said. "It was about believing that something better is possible. Even when the numbers say it isn't."
 
----
 
 That night, after David left, Robert sat at his kitchen table with Margaret. The house was quiet. The future was uncertain. But they were together, and that was something.
 
@@ -118,7 +116,6 @@ Margaret smiled. It was the same smile he'd fallen in love with thirty-five year
 
 He laughed. It felt strange and familiar at the same time. "I'm saying I've learned that some things can't be planned. Some things just have to be lived."
 
----
 
 The weeks turned into months.
 
@@ -134,7 +131,6 @@ And Robert sat on his balcony, watching the sunset over the lake, and felt somet
 
 A deep, quiet contentment.
 
----
 
 One evening, months after everything had changed, Robert received an email from a journalist who wanted to write a follow-up story about his letter. She asked him the same question everyone asked: *Do you regret what you did?*
 
@@ -162,7 +158,6 @@ The legacy was the choice. The choice to stand up, to speak out, to do what was 
 
 And that choice, he realized, was the only thing that had ever really mattered.
 
----
 
 *The sun sank below the horizon. The colors faded. The stars came out, one by one, in the darkening sky.*
 
@@ -180,6 +175,5 @@ And that choice, he realized, was the only thing that had ever really mattered.
 
 *And maybe—just maybe—that was enough.*
 
----
 
 **THE END**

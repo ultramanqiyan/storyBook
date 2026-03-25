@@ -42,7 +42,6 @@ Whitfield's smile didn't falter. "We draw from the aquifer, under strict permit 
 
 "The aquifer levels fluctuate naturally," Whitfield said. "We monitor them carefully. Our extraction is sustainable." He paused. "I understand the town's concerns, Ms. Vasquez. But correlation is not causation. The drought affecting this region is a climate phenomenon, not something NeuralCore created."
 
----
 
 After the tour, Whitfield walked Elena to her car. The afternoon sun was hot, the air dry and still. In the distance, Elena could see the brown hills that had once been green, the skeletal remains of orchards that had died for lack of water.
 
@@ -64,7 +63,6 @@ Elena felt a chill despite the heat. "Are you threatening me?"
 
 "Or you can find a more productive use of your considerable talents." He stepped back. "Think about it. That offer we discussed—it's still on the table."
 
----
 
 Elena drove away from the NeuralCore facility with her hands tight on the steering wheel. The tour had been useless—she'd learned nothing she didn't already know, seen nothing that would help her case. Whitfield had used the opportunity to intimidate her, to remind her of the power she was up against.
 
@@ -76,7 +74,6 @@ Elena opened her eyes. The pipes. They'd been labeled with color-coded bands—b
 
 Where were those pipes going?
 
----
 
 The River's Bend Diner was a relic from another era—vinyl booths, checkered floors, a counter where you could watch the cook work the grill. It had been serving the community for sixty years, and the walls were covered with photographs of the town as it used to be: the river full and flowing, the fields green and productive, the main street bustling with activity.
 
@@ -98,7 +95,6 @@ He glanced around again. "I can't stay long. They watch everyone who leaves."
 
 Elena leaned forward. "Tell me what you saw."
 
----
 
 Park spoke quickly, in low tones, his eyes constantly moving. "I worked in facilities management. Maintenance, repairs, that kind of thing. I wasn't supposed to see the big picture—just fix what was broken. But you can't work somewhere for two years without noticing things."
 
@@ -122,7 +118,6 @@ Park nodded slowly. "I'll send you what I have. Encrypted files, through a secur
 
 Park took the card and slipped away without another word, disappearing into the afternoon crowd.
 
----
 
 The files arrived that night, encrypted and anonymized, routed through a series of servers that made them impossible to trace. Elena stayed up until dawn, poring over schematics and logs and internal communications.
 
@@ -142,6 +137,5 @@ She saved the files to an encrypted drive and made three backup copies. Then she
 
 "I need to meet with the community," she said. "I have something to show them."
 
----
 
 **END OF CHAPTER 3**

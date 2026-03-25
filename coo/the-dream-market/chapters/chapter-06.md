@@ -34,7 +34,6 @@ The message itself was simple: "You are being controlled. Wake up."
 
 But the delivery was complex. The message had to be encoded in a way that would survive the AI's processing, that would be carried through the Dream Market's distribution systems, that would reach every buyer who experienced any infected dream.
 
----
 
 I tested the virus on myself first.
 
@@ -48,7 +47,6 @@ I woke and recorded the results. The emotional response was exactly what I had d
 
 Now I needed to test it against the AI.
 
----
 
 I scheduled an extraction at the Dream Market.
 
@@ -72,7 +70,6 @@ When I woke, Dr. Okonkwo was reviewing the data.
 
 The AI had processed the dream without detecting the virus. The message had survived.
 
----
 
 The dream sold quickly.
 
@@ -84,7 +81,6 @@ The message was working.
 
 But I knew it wasn't enough. A single dream, even a popular one, would only reach a fraction of the Dream Market's customers. To truly disrupt the system, I needed to infect the processing itself—the AI that edited every dream.
 
----
 
 I met with Mira to discuss the next phase.
 
@@ -104,7 +100,6 @@ I thought about Elena—the technician who had helped me discover the editing in
 
 "I know."
 
----
 
 I contacted Elena through a secure channel.
 
@@ -132,6 +127,5 @@ Elena nodded slowly. "It could work. But it would require a lot of infected drea
 
 "They won't catch me."
 
----
 
 **END OF CHAPTER 06**

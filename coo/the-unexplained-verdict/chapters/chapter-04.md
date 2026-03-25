@@ -68,7 +68,6 @@ Jennifer answered as best she could, pointing to the data, referencing the algor
 
 But she couldn't. Not really. The algorithm had made the connections, drawn the conclusions, calculated the probability. She'd just signed her name to the verdict.
 
----
 
 When the meeting ended, David stood slowly, gathering his folder.
 
@@ -82,7 +81,6 @@ David nodded, but his expression was skeptical. "Thank you. But I have to ask—
 
 The question hung in the air, unanswered.
 
----
 
 After David left, Jennifer sat alone in her office, staring at the ClaimSmart interface.
 
@@ -96,7 +94,6 @@ She thought about David Chen, about his brother-in-law who didn't speak English 
 
 The shame was a physical weight now, pressing down on her chest, making it hard to breathe.
 
----
 
 She didn't go home that night.
 
@@ -110,7 +107,6 @@ On those claims, she found the same pattern. The factor analysis was there, the 
 
 The weight of it pressed down on her, heavier with each file.
 
----
 
 Around midnight, she called David Chen.
 
@@ -134,7 +130,6 @@ The question was simple, but it cut to the heart of everything.
 
 "Because you asked me a question I couldn't answer," Jennifer said. "And that question is going to haunt me until I can."
 
----
 
 She hung up the phone and sat in the dark, her office quiet around her.
 
@@ -148,6 +143,5 @@ She didn't have an answer. But for the first time in months, she was asking the 
 
 And that, she thought, was a start.
 
----
 
 **END OF CHAPTER 4**

@@ -60,7 +60,6 @@ Their social media was generic—pretty pictures of coffee, promotional posts ab
 
 *They're doing digital,* Alex realized. *But they're not doing it in a way that's true to who they are.*
 
----
 
 He presented his analysis to Maria the following week.
 
@@ -76,7 +75,6 @@ He walked her through the plan: a content calendar that told stories instead of 
 
 "That's the point." Alex smiled. "Digital isn't about using the latest tools. It's about connecting with people in a way that's authentic. The tools just make it possible."
 
----
 
 The next month was a blur of creation and learning.
 
@@ -96,7 +94,6 @@ Morning Ritual's Instagram following grew—not dramatically, but steadily. Thei
 
 Maria called Alex after the first month. "We're getting more engagement than we've ever had. And people are actually talking about our content. This is working."
 
----
 
 The validation felt like oxygen.
 
@@ -118,7 +115,6 @@ Alex considered the question. "I learned that I'm not starting from zero. My exp
 
 "That's the adaptation advantage," Dr. Wong said. "Not abandoning what you know. Building on it."
 
----
 
 The Morning Ritual project led to another project.
 
@@ -132,7 +128,6 @@ He wasn't an expert yet. He still made mistakes, still had gaps in his knowledge
 
 He was learning to learn. And that was enough.
 
----
 
 One evening, about two months into his transition, Alex sat at his kitchen table with Elena.
 

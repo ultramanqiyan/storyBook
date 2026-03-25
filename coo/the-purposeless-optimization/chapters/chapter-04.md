@@ -32,7 +32,6 @@ Robert rejected it again.
 
 The system accepted his decision, but he could feel its disapproval. The dashboard showed a small red flag next to the poetry section - a reminder that it was underperforming, that it was costing him money, that it wasn't optimized.
 
----
 
 That afternoon, Martha came in for her usual coffee.
 
@@ -48,7 +47,6 @@ Martha's face softened. "Robert, the poetry section is one of the reasons I come
 
 Martha smiled. "Good. Don't let the machine tell you what matters."
 
----
 
 But the recommendation kept coming.
 
@@ -62,7 +60,6 @@ Every day, StoreBrain flagged the poetry section. Every day, Robert rejected it.
 
 The data was clear. The poetry section was a drag on the store's performance. Getting rid of it would make the store more efficient, more profitable, more successful.
 
----
 
 After two weeks of daily recommendations, Robert began to waver.
 
@@ -72,7 +69,6 @@ And the store would be better. More efficient. More profitable.
 
 Wasn't that the point of using StoreBrain in the first place? To make the store better?
 
----
 
 He made the decision on a Thursday evening.
 
@@ -82,7 +78,6 @@ The poetry section would be discontinued. The space would be reallocated to comm
 
 He felt a hollow ache in his chest as he clicked "Approve." But he pushed it away. This was what optimization looked like. Making hard choices for the good of the whole.
 
----
 
 The next day, he started moving the books.
 
@@ -106,7 +101,6 @@ Martha looked at him for a long moment. Then she nodded slowly.
 
 She bought her coffee and left without another word.
 
----
 
 That night, Robert couldn't sleep.
 
@@ -116,7 +110,6 @@ He told himself it was the right decision. The data was clear. The store would b
 
 But something felt wrong. Something he couldn't name.
 
----
 
 The next morning, StoreBrain had a new notification for him.
 

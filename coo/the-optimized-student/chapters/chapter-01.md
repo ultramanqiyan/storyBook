@@ -44,7 +44,6 @@ I nodded and closed my eyes, letting the next set of concepts flow into my mind.
 
 But somewhere, in the hollow place where excitement should have been, there was nothing.
 
----
 
 The test results came at 3:15 PM, right on schedule. I had scored 100% on the Calculus module, 99% on AP History, 100% on Chemistry. Perfect scores across the board, just like always.
 
@@ -54,7 +53,6 @@ I stared at the screen, waiting for the feeling of accomplishment to wash over m
 
 So why did I feel like I was disappearing?
 
----
 
 I walked home that afternoon, taking the optimized route through the neighborhood. The sun was warm on my face, the trees casting dappled shadows on the sidewalk. It was a beautiful day, the kind of day that should have made me feel something.
 
@@ -62,7 +60,6 @@ But I didn't feel anything. I just walked, following the path, hitting the miles
 
 So why did it feel like nothing?
 
----
 
 That night, I lay in bed staring at the ceiling, my phone dark on the nightstand. PATH-AI had calculated my optimal sleep time as 10:30 PM, and it was already 10:15. I should have been winding down, following the relaxation protocol the system recommended.
 
@@ -76,7 +73,6 @@ I closed my eyes and tried to sleep, but the question kept echoing in my mind, g
 
 What if the path was leading me somewhere I didn't want to go?
 
----
 
 The next morning, I woke up at 7:00 AM, right on schedule. I ate my optimal breakfast, followed my optimal routine, walked my optimal route to school. I sat through my optimized classes, absorbed my optimized lessons, scored my optimized scores.
 

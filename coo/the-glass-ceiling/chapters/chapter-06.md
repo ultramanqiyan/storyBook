@@ -62,7 +62,6 @@ The doubt crept in slowly, like fog rolling over a city. Alex started second-gue
 
 The gaslighting was subtle, insidious, almost impossible to prove. But Alex felt it in their bones—the slow erosion of their confidence, the growing certainty that they couldn't trust their own mind.
 
----
 
 **THE BREAKING POINT**
 

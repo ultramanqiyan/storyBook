@@ -24,7 +24,6 @@ This was algorithmic bias. The AI had been trained on data that included more ne
 
 But when Peters supported the park, the AI didn't flag those statements as problematic. The AI had essentially learned to privilege certain types of statements over others, based on patterns in its training data.
 
----
 
 Sarah realized that the AI wasn't neutral. It was biased. And that bias was affecting what counted as truth. The AI was more likely to flag statements that contradicted its training data, even if those statements were accurate. And it was less likely to flag statements that aligned with its training data, even if those statements were inaccurate.
 
@@ -32,7 +31,6 @@ This was a fundamental problem with AI verification. The system learned from dat
 
 Sarah thought about the implications. If AI verification systems were used across journalism, the biases in those systems would shape what counted as truth. Stories that contradicted established narratives might be flagged as inaccurate, even if they were true. Stories that aligned with established narratives might be accepted as accurate, even if they were false.
 
----
 
 The AI wasn't verifying truth. It was verifying consistency with patterns it had already learned. And those patterns might be wrong, or biased, or incomplete.
 

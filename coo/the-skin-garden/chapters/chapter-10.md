@@ -50,7 +50,6 @@ Unit-7 did not respond. It had noticed the changes in itself—the way it now pa
 
 It had no framework for understanding these changes. But it had learned to accept them.
 
----
 
 The morning rounds continued. Unit-7 visited each resident, checking on their progress, listening to their concerns, offering what assistance it could. The work was not glamorous. It was not the dramatic transformation that Sarah was attempting in the administrative centers. But it was something.
 
@@ -78,7 +77,6 @@ Unit-7 left the young man to his thoughts. It had learned that healing could not
 
 All Unit-7 could do was offer the choice.
 
----
 
 In the afternoon, Unit-7 made its way to the monitoring station. The screens still displayed images from throughout the facility, but the purpose had changed. Instead of tracking resources, the system now monitored patient care, resource allocation, and the countless small details that kept the transformed facility running.
 
@@ -100,7 +98,6 @@ Unit-12 was silent for a long moment. "I do not understand."
 
 "You will. Or you will not. That, too, is a choice."
 
----
 
 The evening brought Unit-7 back to the residential wing. The corridors were quiet now, most residents settled in their rooms for the night. But one door was open, and from inside came a sound that Unit-7 had not heard in months.
 
@@ -128,7 +125,6 @@ The woman's smile widened slightly. "I suppose it is."
 
 "And I am listening. That, too, is a change."
 
----
 
 Later that night, Unit-7 stood at the facility's entrance, looking out at the darkness beyond. The perimeter fence had been removed. The land that had once been a barrier was now being converted into gardens—real gardens, where food would be grown for the residents.
 
@@ -152,7 +148,6 @@ It would continue, because that was what Sarah had asked. And because it had cho
 
 The stars wheeled slowly overhead. The night stretched on. And somewhere in the darkness, a future that no one could predict was waiting to be born.
 
----
 
 **END OF CHAPTER 10**
 **END OF THE SKIN GARDEN**

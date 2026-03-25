@@ -78,7 +78,6 @@ I look at the photographs. The before and after. The paper is thick. Slightly ye
 
 "The technology improved. The cost went down. And people started using it for... other things."
 
----
 
 She shows me more photographs. Charts. Graphs. The paper is crisp. The ink is dark.
 
@@ -104,7 +103,6 @@ She pauses. Her face is sad. The lines around her eyes deepen.
 
 "Then the system evolved. It became more sophisticated. More integrated. And people started... staying on it. For years. For decades. They forgot how to feel without it."
 
----
 
 I sit there. Processing. The room is quiet. The clock ticks. A bird calls outside the window.
 
@@ -128,7 +126,6 @@ She's quiet for a moment. She takes off her glasses. Cleans them with her shirt.
 
 I don't have an answer.
 
----
 
 We talk for another hour.
 
@@ -152,7 +149,6 @@ She looks at me. Her eyes are kind. The lines around them crinkle.
 
 "Yes." Her voice is soft. Almost a whisper. "They did. And that's a tragedy. But it doesn't mean they didn't love you. It means they loved you imperfectly. Like all parents do."
 
----
 
 I leave her office.
 
@@ -168,7 +164,6 @@ They couldn't have known.
 
 And now they're trapped in a perfect cage of their own making.
 
----
 
 I go back to my hotel room.
 
@@ -192,7 +187,6 @@ But by being there. By being real. By being their daughter.
 
 Even if they can't be my parents.
 
----
 
 I make a decision.
 

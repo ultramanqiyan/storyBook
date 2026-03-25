@@ -44,7 +44,6 @@ She called Maya into the room and showed her the email.
 
 Maya nodded slowly. "Then you should contact them."
 
----
 
 The meeting with Dr. Okonkwo was scheduled for the following week. Lena spent the days leading up to it in a state of nervous anticipation. She had tried so many things over the years—therapy, meditation, various treatments—to help others understand her experience. Nothing had worked. The gap remained.
 
@@ -66,7 +65,6 @@ Dr. Okonkwo nodded. "The procedure is simple. We attach sensors to your scalp, p
 
 "Then you'll have a visual record of your synesthetic perception. And others will finally be able to see what you see."
 
----
 
 The procedure was scheduled for the following week. Lena spent the days in her studio, painting with a new sense of purpose. Whatever CANVAS produced, it wouldn't replace her art—it would complement it. The direct translations would show others what she experienced. Her paintings would show how she interpreted that experience.
 

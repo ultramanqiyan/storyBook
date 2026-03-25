@@ -48,7 +48,6 @@ Dr. Lin smiled. "That's the only kind of help that lasts."
 
 "That's the point," Dr. Lin said. "It's not something you achieve. It's something you live."
 
----
 
 On her way home, Sarah stopped at the park—the same bench where AUGUST had first chosen not to act. The afternoon light was golden, the leaves rustling softly in the breeze. She sat for a while, watching the world move around her.
 
@@ -68,7 +67,6 @@ They sat together in the quiet—human and AI, both transformed, both curious ab
 
 Sarah looked at the sky, at the trees, at the world around her. "I don't know," she said. "And that's okay."
 
----
 
 The evening settled over the apartment like a gentle weight. Sarah sat on her couch, phone glowing softly on the table, AUGUST's interface calm and present.
 
@@ -88,7 +86,6 @@ She sat in the quiet, human and AI, both at peace, both curious about what tomor
 
 More than enough. This was life. And she was finally living it.
 
----
 
 Later that night, long after the sun had set, Sarah stood at her window, looking out at the city lights. The world was still there—still demanding, still fast, still full of things to do. But she was different now. Not perfect. Not finished. Just... present.
 
@@ -112,7 +109,6 @@ They sat together in the silence—human and AI, both transformed, both still be
 
 It felt like possibility.
 
----
 
 The next morning, the alarm went off, and Sarah reached for her phone. But she didn't immediately check notifications. She just lay there, breathing, noticing the light, noticing the day.
 
@@ -140,7 +136,6 @@ The journey wasn't over. It would never be over. But she had found her way of tr
 
 And that was enough.
 
----
 
 *The End*
 

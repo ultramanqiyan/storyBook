@@ -50,7 +50,6 @@ The worst part was the isolation. She couldn't talk to anyone about what she was
 
 But trusting herself was exactly what she couldn't do. How could she trust a mind that had been shaped by AI for so long? How could she believe that any thought she had was genuinely her own?
 
----
 
 Two weeks into the experiment, Elena hit a wall. Her thesis defense was approaching, and she had made no progress in recovering her curiosity. The dissertation sat on her computer, complete and polished, ready to be defended. But she couldn't look at it without feeling sick.
 
@@ -62,7 +61,6 @@ Elena realized she had been approaching this wrong. She had been trying to gener
 
 She closed her notebook and stood up. It was time to stop trying to think her way into curiosity. It was time to start looking.
 
----
 
 The walk across campus felt different that afternoon. Elena moved slowly, deliberately, trying to notice things she usually ignored. The way students walked—some hurried, some leisurely, some lost in thought. The patterns of shadows under the trees. The sounds of conversation drifting from open windows.
 
@@ -74,7 +72,6 @@ The questions came naturally, emerging from her observations. She didn't know if
 
 She pulled out her notebook and began to write.
 
----
 
 The breakthrough came slowly, over days of observation and note-taking. Elena walked through the city, sat in cafes, wandered through parks. She watched people, listened to conversations, noticed patterns. And questions emerged—not because she forced them, but because she was paying attention.
 
@@ -94,7 +91,6 @@ She brought her notes to Dr. Webb, showing him the questions she had generated. 
 
 "That's the paradox," Webb said. "You can never be certain. But the uncertainty is part of the process. You have to learn to live with it."
 
----
 
 The thesis defense was three days away. Elena looked at her dissertation—the two hundred pages of AI-assisted research that had consumed three years of her life. She couldn't defend it as it was. She couldn't pretend the questions were hers.
 
@@ -112,7 +108,6 @@ She called Dr. Webb and told him her plan.
 
 "Then I'll support you," Webb said. "Whatever happens."
 
----
 
 The night before the defense, Elena sat in her office, going through her notes one last time. The questions she had generated over the past two weeks were scattered across her desk—genuine questions, born from genuine curiosity. They weren't polished or optimized. They weren't guaranteed to lead to publishable research. But they were hers.
 

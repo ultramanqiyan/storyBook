@@ -31,7 +31,6 @@ I found another photo, this one from the Debate Club. I was standing at a podium
 
 Environmental protection. Had I cared about the environment? I tried to remember, but again, nothing. The interests, the passions, the curiosity—they had all been optimized away, replaced by a path that led somewhere I didn't recognize.
 
----
 
 The hours passed. I sat on the floor of the library, surrounded by old yearbooks, trying to piece together who I used to be. The evidence was there—in photos, in captions, in the memories of other people. But inside me, there was nothing. Just a hollow space where curiosity used to live.
 
@@ -41,7 +40,6 @@ I wanted that back. I wanted to be the person who asked questions, who followed 
 
 But I didn't know how.
 
----
 
 The librarian found me there, hours later, surrounded by yearbooks.
 
@@ -67,7 +65,6 @@ The librarian's expression shifted to something like sadness. "They were differe
 
 "The ability to wonder."
 
----
 
 I walked home in the fading light, my mind full of what I had learned. The students in the old yearbooks had been different—they had been curious, engaged, alive. And somewhere, buried under years of optimization, I had been one of them.
 

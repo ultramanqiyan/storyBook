@@ -142,6 +142,5 @@ She looked around the maintenance hall, at the panicked technicians and dark dis
 
 And she had destroyed everything.
 
----
 
 **Chapter 5 Complete**

@@ -88,7 +88,6 @@ His authentic voice was the same way. Imperfect, but genuine. Flawed, but real.
 
 The AI version was better. But it wasn't his.
 
----
 
 He tried to write an email in his authentic voice.
 
@@ -115,7 +114,6 @@ He stared at the send button. He couldn't send this to a client. It was too pers
 
 But it was the first thing he'd written in months that actually felt like his.
 
----
 
 He saved the email as a draft and closed his laptop.
 
@@ -133,7 +131,6 @@ The mug was imperfect. The coffee was bitter. The afternoon was fading.
 
 But at least it was real.
 
----
 
 That night, he dreamed about writing.
 
@@ -145,7 +142,6 @@ He tried to stop it, to take control, to make the words his own. But he couldn't
 
 He woke up with tears in his eyes, not sure why.
 
----
 
 The next morning, he went back to the office.
 

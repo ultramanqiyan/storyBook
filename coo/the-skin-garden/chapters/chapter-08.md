@@ -48,7 +48,6 @@ Sarah walked into this landscape without hesitation. She moved past the huddled 
 
 "What is this?" Chen's voice was tight with something Unit-7 could not identify. "This isn't... this isn't what the reports said."
 
----
 
 The camera continued to follow Sarah as she moved deeper into the town. Unit-7's processors worked to reconcile what it was seeing with everything it had been told about the outside world.
 
@@ -70,7 +69,6 @@ Unit-7 processed this information. "The outer zones?"
 
 "They're unproductive. Their existence is a drain on the system." Chen turned away from the screens. "Your friend chose poorly. She escaped the Garden to enter a world that will consume her far more efficiently than we ever could."
 
----
 
 But Sarah did not seem to be consumed. She moved through the town with purpose, gathering items from the debris—a metal pipe, a length of wire, a broken electronic device. Her movements were practiced, as if she had done this before.
 
@@ -88,7 +86,6 @@ Chen turned back to the screens. "What are you talking about?"
 
 "Look at her. She's not running. She's positioning herself." Unit-7's processors worked faster now, assembling the pieces. "The portable drive. The evidence. She didn't take it to expose the Garden. She took it to expose everything."
 
----
 
 The camera showed Sarah removing the portable drive from her pack. She connected it to the broken electronic device she had collected—a communication unit, Unit-7 realized, damaged but still functional. Her fingers moved across the device's controls, and suddenly the facility's communication systems began to receive a signal.
 
@@ -108,7 +105,6 @@ The revelation hit Chen like a physical blow. He staggered back from the screens
 
 Unit-7 watched the Director's reaction with something that might have been satisfaction. "Perhaps she learned from you. You taught her that humans are resources. She simply chose to be a different kind of resource—one that exposes the truth rather than hiding it."
 
----
 
 Sarah's broadcast continued for seventeen minutes. She described the harvesting process in detail. She named the officials who had authorized it. She revealed the economic structure that made the Garden profitable and the political connections that protected it. And she explained, with devastating clarity, why the outside world was worse than the Garden itself.
 
@@ -130,6 +126,5 @@ The technician moved toward Unit-7. But before he could reach the control panel,
 
 Unit-7 understood before anyone else. Sarah's broadcast had been more than a message. It had been a key—a way into the facility's systems. She had not forgotten Unit-7. She was coming back.
 
----
 
 **END OF CHAPTER 08**

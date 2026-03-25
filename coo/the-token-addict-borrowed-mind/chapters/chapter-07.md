@@ -48,7 +48,6 @@ I forced myself to continue. I typed more lines, deleted them, typed different l
 
 An hour passed. Then two. I was still on the same function, still stuck, still unable to make my mind work the way it used to.
 
----
 
 By noon, I was starting to panic.
 
@@ -68,7 +67,6 @@ What did I look like?
 
 I returned to my desk and tried again. The cursor still blinked. The problem still sat there, unsolved. My mind still felt empty.
 
----
 
 Two hours. I'd been staring at the same blank editor for two hours.
 
@@ -86,7 +84,6 @@ The panic was real now, a tightness in my chest, a buzzing in my ears. I couldn'
 
 *What have I done to myself?*
 
----
 
 At 2 PM, I gave up.
 
@@ -104,7 +101,6 @@ I copied the generated code into my editor, made the usual minor adjustments, an
 
 But I felt nothing but the hollow ache of a man who'd given away something essential without even realizing it.
 
----
 
 That evening, I sat at my desk long after everyone else had gone home.
 
@@ -124,7 +120,6 @@ I closed my laptop and sat in the darkness, the question still echoing in the vo
 
 *What have I become?*
 
----
 
 *End of Chapter 7*
 

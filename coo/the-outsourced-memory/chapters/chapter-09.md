@@ -104,7 +104,6 @@ Mike nodded, feeling the weight of the compromise. It wasn't what he wanted—wh
 
 Tom nodded, already turning back to his screen. The conversation was over.
 
----
 
 Mike walked out of Tom's office feeling both relieved and uncertain.
 
@@ -116,7 +115,6 @@ But he had. He remembered the days before HomeMatch, before the data, before the
 
 *That's what I want to get back*, he thought. *That's who I want to be.*
 
----
 
 He spent the rest of the week experimenting.
 
@@ -134,7 +132,6 @@ He started taking notes by hand, recording his observations before he looked at 
 
 *This is what expertise feels like*, he realized. *Not certainty. Not accuracy. But the willingness to be wrong and learn from it.*
 
----
 
 On Friday, he had a breakthrough.
 
@@ -170,7 +167,6 @@ The realization was both validating and terrifying. Validating because it meant 
 
 *How many other properties have I missed?* he wondered. *How many other times has the algorithm been wrong, and I never noticed because I stopped looking?*
 
----
 
 He went home that night feeling both hopeful and afraid.
 
@@ -180,6 +176,5 @@ Hopeful because he'd proven to himself that the knowledge wasn't completely gone
 
 But for the first time in months, he was willing to do the work.
 
----
 
 **END OF CHAPTER 9**

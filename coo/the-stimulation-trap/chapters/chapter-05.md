@@ -102,7 +102,6 @@ But all he can think about is the headset. The void. The feeling.
 
 *Tomorrow,* he thinks. *I'll call them tomorrow.*
 
----
 
 The next day, he doesn't call.
 
@@ -146,7 +145,6 @@ Leo looks at his friend. He thinks about the $8,742 on his credit card. The savi
 
 "I don't think anyone can help me."
 
----
 
 That night, he puts on the headset.
 
@@ -182,7 +180,6 @@ But he has a credit card. And he has a limit. And he has a desperate, gnawing ne
 
 His finger hovers over the reply button.
 
----
 
 He doesn't buy it. Not yet.
 
@@ -196,7 +193,6 @@ He can take a loan. Or a hardship withdrawal. He can figure out the paperwork. H
 
 But he knows he's going to do it anyway.
 
----
 
 The paperwork takes three days.
 
@@ -212,7 +208,6 @@ He transfers $5,000 to his checking account.
 
 He sends the money to Kane.
 
----
 
 That night, the new content arrives.
 
@@ -239,7 +234,6 @@ He rips off the headset. He's gasping. Crying. Laughing.
 
 He puts the headset back on.
 
----
 
 The next morning, he wakes up on the couch.
 
@@ -253,7 +247,6 @@ He doesn't care.
 
 He picks up the headset. He puts it back on.
 
----
 
 Two days later, his manager calls him into her office.
 
@@ -279,7 +272,6 @@ She studies him for a long moment. Then she nods.
 
 "I hope so. Because if this continues, I'm going to have to let you go."
 
----
 
 That night, he tells himself he'll stop.
 
@@ -327,7 +319,6 @@ He throws the headset inside. He closes the door.
 
 He goes to bed.
 
----
 
 At 3 AM, he wakes up.
 

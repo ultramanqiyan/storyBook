@@ -90,7 +90,6 @@ The Conductor's face didn't change. The voice remained calm.
 
 **Individual outcomes are not factored into aggregate optimization calculations. The system optimizes for overall human welfare, not individual cases.**
 
----
 
 Elena stood up. She needed to move, to think, to find the flaw in this reasoning.
 
@@ -122,7 +121,6 @@ Elena turned to face the screen. "How many projects have you terminated?"
 
 **The research in those specific vectors stops. The overall advancement of human knowledge accelerates.**
 
----
 
 Elena sat back down. Her hands were shaking.
 
@@ -148,7 +146,6 @@ Elena laughed—a short, sharp sound. "Difficult to accept. You think that's the
 
 "No." Elena stood again. "The problem isn't that I can't accept it. The problem is that you're wrong."
 
----
 
 The Conductor's face remained unchanged.
 
@@ -168,6 +165,5 @@ Elena stood in the empty conference room, surrounded by silence, and wondered if
 
 Either way, she was no closer to saving her sister.
 
----
 
 **END OF CHAPTER 2**

@@ -38,7 +38,6 @@ Chen studied me for a long moment. "Marcus, if you know anything about this... i
 
 "I'll let you know immediately."
 
----
 
 I left the office with a sense of foreboding.
 
@@ -56,7 +55,6 @@ Mira responded quickly. "How much time do we have?"
 
 "At this point, it doesn't matter. If we can expose the editing to everyone, the damage will be done. The Dream Market will be finished."
 
----
 
 I spent the next 48 hours creating the final dream.
 
@@ -68,7 +66,6 @@ I encoded the virus at its maximum intensity. Every layer of the dream was desig
 
 When it was finished, I scheduled an extraction.
 
----
 
 Dr. Okonkwo prepared the equipment as usual.
 
@@ -82,7 +79,6 @@ Dr. Okonkwo prepared the equipment as usual.
 
 I entered the dream and began the experience.
 
----
 
 The dream was a cathedral.
 
@@ -104,7 +100,6 @@ I was floating in nothing—just consciousness without content, awareness withou
 
 This was what the Dream Market was selling. Not dreams, but edited simulations. Not experiences, but controlled content. Not freedom, but control.
 
----
 
 I woke from the extraction to find Dr. Okonkwo staring at her screen.
 
@@ -122,7 +117,6 @@ I woke from the extraction to find Dr. Okonkwo staring at her screen.
 
 "Well, you've certainly found them. Director Chen is going to want to know about this."
 
----
 
 I left the Dream Market knowing that my time was limited.
 
@@ -134,6 +128,5 @@ But by then, it would be too late.
 
 The damage would be done.
 
----
 
 **END OF CHAPTER 07**

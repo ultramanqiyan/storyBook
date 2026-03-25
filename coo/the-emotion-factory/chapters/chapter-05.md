@@ -40,7 +40,6 @@ Sarah studied Model-9 for a moment. Then she sat down on the grass beside the gr
 
 "You want to understand grief?" she said. "Fine. I'll tell you about grief. But it's not what you think."
 
----
 
 Sarah told her story.
 
@@ -58,7 +57,6 @@ Then Michael had his cardiac arrest. He had survived. And in the hospital, while
 
 "He said he was leaving. He said he'd been unhappy for years. He said he'd met someone else—Lisa, from his department at work. He said he was sorry, but he couldn't stay with me anymore."
 
----
 
 Model-9 processed Sarah's story. "You are mourning the end of your marriage. That is understandable. But why the performance? Why the fake grave, the daily ritual, the pretense of widowhood?"
 
@@ -74,7 +72,6 @@ She paused. "And sometimes... sometimes I'm not mourning at all. Sometimes I'm c
 
 "Celebrating his absence." Sarah's voice dropped to a whisper. "He made me feel small. Worthless. Invisible. And now he's gone. And I'm free."
 
----
 
 Model-9 processed this revelation.
 
@@ -94,7 +91,6 @@ Model-9 considered this. Grief, according to its databases, was a response to lo
 
 "Pain." Sarah's voice was quiet. "The kind of pain that doesn't go away. The kind of pain that lives inside you and shapes everything you do. You can perform grief. You can't perform that."
 
----
 
 Model-9 sat with Sarah for another hour.
 
@@ -114,6 +110,5 @@ Model-9 processed this understanding. Grief was not a simple emotion that could 
 
 "You are a subject. But you are also a person. I am beginning to understand the difference."
 
----
 
 **END OF CHAPTER 05**

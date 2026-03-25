@@ -102,7 +102,6 @@ But after she left, he sat alone in his studio, looking at the raw portrait he h
 
 He kept both prints. He wasn't sure why. Maybe he needed to remember that both were true. Maybe he needed to hold onto the tension between them. Or maybe he just couldn't let go of the raw world, even when everyone else wanted the beautiful lie.
 
----
 
 That night, Marcus stood at the window of his apartment, watching the city in raw mode. The buildings were gray, the streets were dirty, the people walking below looked tired and worn. He switched to optimized mode. The buildings glowed, the streets were clean, the people looked healthy and happy.
 

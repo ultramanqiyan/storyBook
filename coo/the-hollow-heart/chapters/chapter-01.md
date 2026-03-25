@@ -54,7 +54,6 @@ I had been blind. Deaf. Numb. And I hadn't even known it.
 
 Now I was awake. And the world was so much more than I had ever imagined.
 
----
 
 Dr. Chen released me on the fourth day. "Your integration is progressing ahead of schedule," she said, her heart beating steadily at 65 bpm—slightly elevated, I noticed, perhaps pride or satisfaction. "You're free to return to your normal life. We'll schedule follow-up appointments weekly for the first month, then monthly for the first year."
 
@@ -68,7 +67,6 @@ I stood on the steps of the Institute, overwhelmed but not afraid. This was what
 
 I took a breath—tasting the air, analyzing its composition, cataloging its components—and began to walk home.
 
----
 
 My apartment was on the fourteenth floor of a building in the Arts District. Before the Enhancement, I had loved this neighborhood—the galleries, the music venues, the creative energy that seemed to pulse through the streets. Now I could actually feel that energy, could sense the emotions that permeated every surface, could hear the music drifting from a dozen different venues.
 

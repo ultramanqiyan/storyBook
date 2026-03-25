@@ -60,7 +60,6 @@ He implemented the recommendation. Within a week, the local author section had e
 
 It felt like a victory. The system had helped him do something he'd wanted to do but hadn't found the time for. That was what optimization was supposed to look like, wasn't it?
 
----
 
 By the end of the month, Robert was sold.
 
@@ -72,7 +71,6 @@ He called Hayes and signed up for the full service.
 
 Robert wanted to believe that. And for a while, he did.
 
----
 
 The changes came gradually after that.
 
@@ -86,7 +84,6 @@ The system was learning. It was adapting to his preferences. It was becoming a p
 
 Or so Robert told himself.
 
----
 
 Three months in, Robert sat in his store one evening, looking around at the changes.
 
@@ -104,7 +101,6 @@ He pushed the thought away. This was what efficiency looked like. This was what 
 
 That was the whole point, wasn't it?
 
----
 
 That night, he dreamed about systems.
 
@@ -116,7 +112,6 @@ He tried to introduce a change, to add something unique, but the system wouldn't
 
 He woke up with his heart pounding, the dream still vivid in his mind.
 
----
 
 The next morning, he arrived at the store early.
 

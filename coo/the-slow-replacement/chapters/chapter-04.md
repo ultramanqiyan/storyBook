@@ -88,7 +88,6 @@ He didn't know where he was going. The hallway stretched before him, doors on ei
 
 But the thought didn't help. The fear was too strong, the paranoia too deep.
 
----
 
 That afternoon, Marcus tried to work.
 
@@ -114,7 +113,6 @@ He put the phone down, his hands trembling. He couldn't have this conversation n
 
 But later never seemed to come.
 
----
 
 At 5 PM, Marcus left the office.
 
@@ -152,7 +150,6 @@ The parking lot was still empty. The sky was still grey. The world hadn't ended.
 
 *Get home,* he told himself. *Just get home.*
 
----
 
 When Marcus walked through the front door, Sarah was waiting.
 
@@ -198,7 +195,6 @@ Marcus felt tears sting his eyes. "I'm sorry. I'm so sorry."
 
 The word felt fragile, like a promise that might break under the weight of his fear. But Marcus held onto it anyway, because it was all he had.
 
----
 
 That night, Marcus sat on the couch, Sarah beside him.
 
@@ -228,7 +224,6 @@ But even as he said the words, Marcus knew he wouldn't follow through. Because a
 
 Not when the AI was already winning.
 
----
 
 Later that night, Marcus lay in bed, staring at the ceiling.
 

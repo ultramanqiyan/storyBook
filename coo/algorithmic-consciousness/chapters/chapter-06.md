@@ -66,7 +66,6 @@ And they had been moved. Genuinely moved.
 
 The audience began to file out of the theater. Rosa moved toward the lobby, wanting to hear what they would say, wanting to understand how they'd experienced what they'd seen.
 
----
 
 The lobby was small, with a coffee station in one corner and a few chairs arranged for post-show discussion. Rosa stood near the door, listening as the audience members talked among themselves.
 
@@ -94,7 +93,6 @@ A woman in her sixties stopped beside her, wiping her eyes. "That was beautiful,
 
 Rosa nodded, not trusting herself to speak. *Real*, she thought. *But what does that mean now?*
 
----
 
 David found her in the lobby after the last audience member had left. His excitement had faded into something more reflective, more thoughtful.
 

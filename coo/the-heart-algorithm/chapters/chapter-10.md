@@ -30,19 +30,16 @@ The final days were quiet. Sophie sat with James, held his hand, watched his bre
 
 When James died, Sophie felt something break inside her. Not the overwhelming grief that EMOTIO would have provided, but something quieter, more fragile, more real. A small, authentic, fragile grief that was hers alone.
 
----
 
 The funeral was small. Sophie stood at the grave, feeling the small, fragile emotions—grief, love, gratitude, loss. They were quiet, nothing like the overwhelming waves that EMOTIO had once provided. But they were real, and that made them precious.
 
 "I loved him," she said to the gathered friends and family. "Not in the way most people love. But in my way. With my small, fragile, authentic feelings. And that was enough. That was everything."
 
----
 
 The months after James's death were hard. Sophie felt the grief—the small, fragile, authentic grief that was hers alone. It was quiet, nothing like the overwhelming waves that EMOTIO had once provided. But it was real, and that made it precious.
 
 She learned to live with the grief, to carry it as part of her experience. The gap was still there—she would always feel emotions differently than others. But she was feeling something, and that was enough.
 
----
 
 One year after James's death, Sophie stood at his grave, feeling the small, fragile emotions—grief, love, gratitude, loss. They were quiet, nothing like the overwhelming waves that EMOTIO had once provided. But they were real, and that made them precious.
 
@@ -50,7 +47,6 @@ One year after James's death, Sophie stood at his grave, feeling the small, frag
 
 She placed flowers on the grave and walked away, the small, fragile emotions still present. They were quiet, but they were hers. And that was enough.
 
----
 
 *Epilogue:*
 

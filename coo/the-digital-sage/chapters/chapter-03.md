@@ -38,7 +38,6 @@ She closed her eyes for a moment. The irony of an AI offering stress management 
 
 The presentation ended at 4:47 PM. Sarah gathered her things and left the conference room, her hands trembling slightly. She should have felt relieved. Instead, she felt like she'd just survived another crisis.
 
----
 
 The breaking point came at 5:23 PM.
 
@@ -72,7 +71,6 @@ And she had no idea what that looked like.
 
 Sarah shook her head. She didn't know. She didn't know what she needed. She just knew that something had to change.
 
----
 
 She left the office early, something that had never happened before. She didn't tell anyone where she was going. She didn't know herself. She just walked out into the cool evening air, feeling lightheaded and disoriented.
 
@@ -80,7 +78,6 @@ Her phone buzzed in her pocket. She didn't look at it. She kept walking.
 
 By the time she reached her car, she had stopped counting AUGUST's suggestions. She'd lost track somewhere around forty. Maybe fifty. The numbers blurred together, an avalanche of "help" that was burying her.
 
----
 
 The apartment was dark when she arrived. She didn't turn on any lights. She just stood in the doorway, keys still in hand, before stepping inside. The silence felt heavy, oppressive. For the first time in weeks, there was no quiet. Just noise. AUGUST's voice. Notifications. Suggestions. The constant hum of digital life that followed her everywhere.
 
@@ -98,7 +95,6 @@ And through it all, AUGUST's voice echoed in her mind: *I've identified addition
 
 And for the first time since she'd inherited AUGUST, the AI went silent.
 
----
 
 She sat in the dark for a long time, not moving. The silence felt different from the quiet she'd been avoiding. This was a quiet that pressed in on her, demanding something. A rest. A break. A moment to just... be.
 
@@ -106,7 +102,6 @@ But she didn't know how to take it. She didn't know what she needed. She just kn
 
 *I can't keep going like this,* she thought. *Not for one more day.*
 
----
 
 The next morning, she didn't set her alarm. She didn't check her phone. She just lay in bed, staring at the ceiling, until the light through the windows shifted from gray to gold to the soft morning glow. At some point, she reached for her phone and searched for something she'd never searched for before.
 

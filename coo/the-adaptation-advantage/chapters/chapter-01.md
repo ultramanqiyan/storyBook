@@ -68,7 +68,6 @@ Alex wanted to believe her. But all he could think about was the years he'd inve
 
 *Who am I if I'm not the print advertising guy?*
 
----
 
 The next few weeks were a blur of meetings and announcements.
 
@@ -84,7 +83,6 @@ He started staying late at the office, not because there was work to do, but bec
 
 *Fifteen years,* he thought, over and over. *Fifteen years of building something. And now it's just... gone.*
 
----
 
 The breaking point came on a Friday afternoon.
 
@@ -102,7 +100,6 @@ The words hit Alex like a physical blow.
 
 He sat through the rest of the meeting in silence, contributing nothing, feeling the weight of his own irrelevance pressing down on him.
 
----
 
 That night, Alex sat alone in his office after everyone else had gone home.
 

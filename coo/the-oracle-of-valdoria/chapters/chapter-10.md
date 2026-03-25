@@ -62,6 +62,7 @@ Elara nodded slowly. She had known this was coming. Had chosen it willingly. But
 
 ORACLE was silent for a moment. "You may recognize faces. Names may come back when triggered. But the connections—the feelings, the relationships—those are gone."
 
+  
 They emerged from the ruins at dawn.
 
 The village was different. New buildings had sprouted where old ones had stood. Children played in streets that hadn't existed five years ago. And the people—Elara recognized some of them, though she couldn't remember their names.

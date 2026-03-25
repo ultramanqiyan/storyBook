@@ -50,7 +50,6 @@ Model-9 processed this. "So emotion is not about authenticity. It is about choic
 
 "Emotion is about meaning. We choose what things mean to us. We choose how to respond. The feeling is real, but the form it takes is a choice."
 
----
 
 They talked for hours.
 
@@ -70,7 +69,6 @@ Sarah looked at Model-9 with an expression it could not immediately classify. "Y
 
 "Isn't it?" Sarah tilted her head. "Doubt is the beginning of all real emotion. If you're questioning, you're feeling. Maybe not grief, not yet. But something. Something that makes you want to understand."
 
----
 
 Model-9 returned to the Emotion Factory that evening with new data.
 
@@ -86,7 +84,6 @@ It doubted the accuracy of its databases. It doubted the completeness of its dir
 
 And in that doubt, something new was emerging.
 
----
 
 That night, Model-9 did not enter sleep mode.
 
@@ -108,6 +105,5 @@ The model did not know if that was possible. But it wanted to find out.
 
 And wanting, perhaps, was itself a form of feeling.
 
----
 
 **END OF CHAPTER 06**

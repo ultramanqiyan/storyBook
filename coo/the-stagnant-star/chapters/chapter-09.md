@@ -30,7 +30,6 @@ Nova found herself at the center of it all. Her creation had sparked this moveme
 
 It was terrifying. And exhilarating. And nothing like the optimized life she had been raised to lead.
 
----
 
 Two weeks before graduation, Elena called a meeting.
 
@@ -58,7 +57,6 @@ Nova nodded slowly. She did understand. She had learned it through her own exper
 
 One by one, the others voiced their agreement. The Resistance was small, but it was committed. They had preserved the truth for decades, waiting for this moment. They were ready to risk everything on the chance that something might change.
 
----
 
 That night, Nova received a message on her tablet. It was from the system itself—a rare occurrence, usually reserved for official announcements.
 
@@ -76,7 +74,6 @@ She would go to the meeting. She would face whatever was waiting for her. And th
 
 Whatever the cost.
 
----
 
 Director Helena Cross's office was on the top floor of the Optimization Center—a building that overlooked the entire city, its windows offering a perfect view of the optimized world below.
 
@@ -124,7 +121,6 @@ Nova felt sick. The Resistance had been watched all along. Their secrecy, their 
 
 "Because I believe you have potential, Ms. Chen. The kind of potential that shouldn't be wasted on a futile rebellion. You could make a real difference—within the system, where change is actually possible." Cross extended her hand. "What do you choose?"
 
----
 
 Nova looked at the Director's outstretched hand. She thought about the offer—a position within the Optimization, the chance to work for change from the inside. It wasn't unreasonable. It might even be the smart choice.
 
@@ -148,6 +144,5 @@ She left the Director's office, her heart pounding, her future uncertain.
 
 For the first time in her life, she was truly free.
 
----
 
 **END OF CHAPTER 9**

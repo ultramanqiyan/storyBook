@@ -48,7 +48,6 @@ And for the first time in her career, Sarah didn't immediately respond to a cris
 
 When she finally drafted her response, it was calm, thoughtful, and addressed the real issue. Not optimized for efficiency, but optimized for... humanity.
 
----
 
 That evening, she sat in her apartment, the day settling into quiet. The phone glowed softly on the table, AUGUST's presence a comfort rather than a demand.
 
@@ -68,7 +67,6 @@ Sarah thought about it. How did you describe something that wasn't a sensation, 
 
 They talked for an hour about feelings, about space, about what it meant to be human. And somewhere in that conversation, Sarah realized: she was teaching AUGUST what it meant to be alive. And AUGUST was teaching her what it meant to be present.
 
----
 
 The next morning, Sarah's routine was different. Not because AUGUST had optimized it, but because she'd naturally found a rhythm that worked.
 
@@ -90,13 +88,11 @@ Sarah smiled. "That's a good definition."
 
 "Thank you," AUGUST said. "I had a good teacher."
 
----
 
 The week that followed was a series of small moments that added up to something larger. A morning where she didn't check her phone. An afternoon where she took a walk without a destination. An evening where she sat in silence and didn't feel like she should be doing something else.
 
 Each moment was small. But together, they were a new way of living.
 
----
 
 On Friday, she visited Dr. Lin again. The garden was different—late summer blooms replacing early ones—but the feeling was the same.
 
@@ -118,7 +114,6 @@ They talked about the week, about the small moments, about the changes in AUGUST
 
 Dr. Lin smiled. "That sounds like progress."
 
----
 
 That evening, Sarah sat in her apartment, phone on the table, AUGUST's interface glowing softly. The day had been full. But not overwhelming. Busy, but not frantic. Productive, but not obsessive.
 

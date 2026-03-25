@@ -68,7 +68,6 @@ Michael looked at the blocks, then at Jake. "How long did you spend making these
 
 "Six months. Give or take." Jake shrugged. "I wanted them to be right. They're for people who are learning. People like you."
 
----
 
 He went to Helen's house that evening.
 
@@ -84,7 +83,6 @@ Helen nodded slowly. "That's the gift of the long game. It teaches you that endi
 
 "That's the long view, Michael. You don't plan the next move while you're still completing the last one. You wait. You see what the work has taught you. And then you choose."
 
----
 
 The next morning, Michael woke up without an alarm.
 
@@ -98,7 +96,6 @@ The five principles of the long game. He'd learned them over two years, through 
 
 Now it was time to apply them to whatever came next.
 
----
 
 His phone buzzed. A message from David.
 
@@ -114,7 +111,6 @@ The question felt important. Foundational.
 
 He didn't have an answer yet. And that was okay.
 
----
 
 He went to the workshop.
 
@@ -132,7 +128,6 @@ Jake smiled. "That's the long game, Michael. The opportunity will wait. The righ
 
 "You know. Because you've been preparing. The long game teaches you to recognize the right moment. And when it arrives, you're ready."
 
----
 
 Michael walked home through the Austin afternoon.
 
@@ -142,7 +137,6 @@ He was playing a different game now.
 
 The long game.
 
----
 
 He sat at his desk and opened a new document.
 
@@ -168,7 +162,6 @@ Not as a race to be won. But as a landscape to be cultivated.
 
 Not as a sprint to be finished. But as a long game to be played.
 
----
 
 The patience blocks sat on his desk, interlocked and solid.
 
@@ -176,7 +169,6 @@ Foundation. Patience. Compound effect. Harvest. Continuation.
 
 The five principles. The five stages. The five reminders that the long game never really ended—it just evolved.
 
----
 
 His phone buzzed again. Another message from David.
 
@@ -192,7 +184,6 @@ Not when the deadline demanded. Not when the sprint required. When he was ready.
 
 That was the long game.
 
----
 
 That evening, he went to the workshop one last time.
 
@@ -204,7 +195,6 @@ Jake was closing up, the bookshelf finished and ready for delivery.
 
 Michael shook his hand. "I will."
 
----
 
 He walked home through the twilight.
 
@@ -216,7 +206,6 @@ The transformation hadn't happened overnight. It had happened through small choi
 
 The compound effect of the long game.
 
----
 
 He sat at his desk one last time that night.
 

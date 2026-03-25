@@ -84,7 +84,6 @@ That's what I wanted. That's what I had. Once.
 
 Before the system.
 
----
 
 On the third day, I meet someone.
 
@@ -126,7 +125,6 @@ He walks away. His footsteps echo on the linoleum floor.
 
 I sit there. Staring at the screen. The cursor blinks. Waiting.
 
----
 
 That night, I go back to my hotel room.
 
@@ -160,7 +158,6 @@ I don't know.
 
 I close my eyes. The sounds of the city filter through the thin walls. A car alarm. A baby crying. Someone's TV.
 
----
 
 On the fourth day, I meet Marcus.
 
@@ -256,7 +253,6 @@ Is that true?
 
 Or is it just another lie I want to believe?
 
----
 
 That night, I go back to the library.
 

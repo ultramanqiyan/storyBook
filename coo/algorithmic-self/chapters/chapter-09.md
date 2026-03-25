@@ -52,7 +52,6 @@ Tom talked about his work, about the projects that excited him, about the dreams
 
 The honesty was painful, but it was also freeing. For years, they'd been dancing around each other, avoiding the real conversation, pretending everything was fine. Now they were saying the things they'd been thinking but never voicing. And the world hadn't ended. The marriage hadn't collapsed. Instead, something new was emerging—not a fix, not a solution, but a beginning.
 
----
 
 "I don't know if we can fix this," Tom said, around noon. They'd moved to the living room, sitting on opposite ends of the couch, a physical distance that felt different now—chosen, not habitual.
 
@@ -68,7 +67,6 @@ Tom was quiet for a long moment. Then he said, "I've been waiting for you to ask
 
 "Now you're asking it." He smiled, a small, tentative expression that Maggie hadn't seen in a long time. "I'd like to find out too."
 
----
 
 They didn't make promises that afternoon. They didn't create a plan or set goals or establish metrics. They simply agreed to try. To pay attention. To stay awake.
 
@@ -84,7 +82,6 @@ Tom looked at her for a long moment. Then he nodded. "Okay," he said. "Okay."
 
 They ate dinner together, really together, for the first time in months. Not watching TV, not checking phones, not eating in efficient silence. They talked about small things—the food, the weather, a movie they'd both been wanting to see. But the small things felt different now. They felt like connection.
 
----
 
 After dinner, they sat on the couch, not watching anything, just sitting. The silence was different—not empty, but full.
 
@@ -104,7 +101,6 @@ Maggie felt a weight lift from her chest. The AI had predicted divorce. But pred
 
 "I'd like that," she said. "To just see what happens. Without a plan. Without a deadline. Just... trying."
 
----
 
 That night, Maggie lay in bed, thinking about the strange peace she'd found. She didn't know what would happen with her marriage. She didn't know if the AI's prediction would come true, or if they'd beat the odds. She didn't know if she'd ever truly know herself, or if self-knowledge was even possible.
 

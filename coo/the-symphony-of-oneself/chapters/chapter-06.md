@@ -40,7 +40,6 @@ Iris spoke next.
 
 *I kept our soul,* Iris said simply.
 
----
 
 Nora spoke third.
 
@@ -50,7 +49,6 @@ Nora spoke third.
 
 *I kept them safe,* Nora said. *Every act of kindness we received, every moment of love—I preserved them. So we would know that love was possible, even when we were too afraid to seek it.*
 
----
 
 Phoenix spoke fourth, her voice fierce.
 
@@ -60,7 +58,6 @@ Phoenix spoke fourth, her voice fierce.
 
 *I kept the FIRE,* Phoenix corrected. *The part of us that knows we deserve better. The part that fights back. Without me, we would have disappeared. We would have become what everyone else wanted us to be.*
 
----
 
 Logan spoke fifth.
 
@@ -70,7 +67,6 @@ Logan spoke fifth.
 
 *I became clarity,* Logan said. *A place where things made sense. A framework for understanding. Without me, we would have been lost in chaos.*
 
----
 
 Sage spoke last.
 
@@ -84,7 +80,6 @@ Sage spoke last.
 
 *We were always one,* Sage said. *We just forgot.*
 
----
 
 That night, Maya understood.
 

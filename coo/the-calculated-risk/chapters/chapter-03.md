@@ -34,7 +34,6 @@ I tried to climb in my mind, visualizing routes, feeling the rock under my hands
 
 I didn't know anything.
 
----
 
 The visitor came on Friday. I was doing my physical therapy exercises when my phone buzzed with an unknown number. I almost didn't answer it—my shoulder ached, my ribs throbbed, and I didn't have energy for strangers.
 
@@ -56,7 +55,6 @@ I hesitated. I was lonely, it was true. And something in her words resonated wit
 
 "I'll be there."
 
----
 
 Maya Chen was a sports psychologist, she explained, specializing in athlete cognition. She had been studying the effects of AI assistance on extreme sports for years, and her findings were troubling.
 
@@ -74,7 +72,6 @@ I didn't have an answer. The question had been haunting me since the accident.
 
 "Maybe not," Maya said. "But maybe it's still there, buried under the optimization. And maybe this"—she gestured to my injured shoulder�?is an opportunity to find it."
 
----
 
 We talked for hours. Maya told me about other athletes who had become dependent on AI systems—climbers, skiers, BASE jumpers, all of whom had lost something essential in the pursuit of optimization. She told me about the research, the studies, the evidence that AI assistance was eroding the intuitive skills that made extreme athletes great.
 
@@ -86,7 +83,6 @@ We talked for hours. Maya told me about other athletes who had become dependent 
 
 The words landed with unexpected weight. I had thought I was becoming a better climber. But maybe I was just becoming a better executor of AI-generated plans.
 
----
 
 Maya left late that night, but her words stayed with me. I lay in bed, staring at the ceiling, the silence in my ear deafening.
 

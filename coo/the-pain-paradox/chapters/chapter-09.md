@@ -98,7 +98,6 @@ The session was intense but manageable. Sarah felt the pain build, peak, and fad
 
 *I'm learning,* she thought. *Slowly, but I'm learning.*
 
----
 
 The crisis came on day twelve.
 
@@ -136,7 +135,6 @@ She went to the bathroom and locked herself in a stall. She sat on the toilet li
 
 She didn't know if that was true. She didn't know if what she was feeling was real or just another performance. But for the first time, she didn't try to analyze it. She just let herself feel it.
 
----
 
 That night, she told Michael about it.
 
@@ -172,7 +170,6 @@ Sarah felt something shift in her chest—not pain, but something warmer. Someth
 
 "I know you are." Michael squeezed her hand. "And that's enough. For now, that's enough."
 
----
 
 The weeks that followed were a slow climb toward something that might have been balance. Sarah continued her sessions, but she kept them moderate—level 4 or 5, never higher. She talked to Michael, even when it was hard. She saw her therapist, even when she didn't want to. And slowly, gradually, she began to feel things that weren't just pain.
 

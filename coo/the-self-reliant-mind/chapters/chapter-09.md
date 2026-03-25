@@ -103,7 +103,6 @@ The observation struck David. He'd been so focused on his own journey that he ha
 
 "Thank you for figuring it out." She resumed walking. "Now let's get back to work. We have clients to serve."
 
----
 
 That evening, David sat in his apartment, thinking about the day.
 

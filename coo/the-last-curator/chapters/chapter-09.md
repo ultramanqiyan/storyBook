@@ -26,7 +26,6 @@ He worked for hours, trying to capture something he couldn't name. When he stepp
 
 He scraped it off and started again.
 
----
 
 The second painting was worse.
 
@@ -38,7 +37,6 @@ He stopped thinking about composition. Stopped worrying about technique. Stopped
 
 He just painted.
 
----
 
 Three weeks in, he had something.
 
@@ -48,7 +46,6 @@ He looked at it for a long time.
 
 Then he called Elena.
 
----
 
 She came to his apartment on a Thursday evening.
 
@@ -66,7 +63,6 @@ She smiled—a genuine smile, the first he'd seen from her in months. "Show me."
 
 He pulled the cloth away.
 
----
 
 Elena studied the painting for a long time.
 
@@ -82,7 +78,6 @@ The silence stretched. Marcus felt his heart pounding.
 
 "I don't know, Marcus." She turned to face him. "But it's more than you've shown anyone in thirty years."
 
----
 
 They talked for hours.
 
@@ -106,7 +101,6 @@ But now...
 
 "I don't know," he said. "Maybe it shouldn't."
 
----
 
 After Elena left, Marcus sat alone with the painting.
 
@@ -116,7 +110,6 @@ But it was his.
 
 For the first time in months, he felt something like peace.
 
----
 
 The next day, he made a decision.
 
@@ -130,7 +123,6 @@ He attached the image and pressed send.
 
 Then he waited.
 
----
 
 The response came a week later.
 
@@ -144,7 +136,6 @@ It wasn't redemption. It wasn't vindication.
 
 But it was something.
 
----
 
 He stood at his window that night, looking at the city lights.
 
@@ -154,7 +145,6 @@ It should have felt like a fall.
 
 Instead, it felt like a beginning.
 
----
 
 His phone buzzed. The unknown number:
 
@@ -170,7 +160,6 @@ He typed back: *Terrifying. And liberating.*
 
 Then: *Good luck, Mr. Webb. You're going to need it.*
 
----
 
 He put down the phone and looked at his painting.
 

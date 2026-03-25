@@ -58,7 +58,6 @@ Marcus nodded slowly. "And who is that?"
 
 "Someone who knows the cost of convenience. Someone who values autonomy over ease. Someone who will never again surrender control of her own life." She smiled, and for the first time in months, it reached her eyes. "Someone who is finally, truly, herself."
 
----
 
 The café was quiet around them, the evening crowd thin, the staff beginning to clean up for the night. Maya finished her coffee, savoring the last warmth of the cup.
 
@@ -82,11 +81,9 @@ For the first time in five years, the path was hers to choose.
 
 And she was ready to walk it.
 
----
 
 **The End**
 
----
 
 **Chapter 10 Complete**
 

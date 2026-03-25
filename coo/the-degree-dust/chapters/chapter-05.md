@@ -66,7 +66,6 @@ The space was open and bright, with desks, meeting rooms, and a coffee bar. Peop
 
 Priya considered. "Maybe. But it would have to be different. Less about credentials, more about practical skills. Less about theory, more about application. The people who succeed here are the ones who can learn quickly, adapt constantly, and deliver real value."
 
----
 
 They visited a community center that offered free classes to anyone who wanted to attend.
 
@@ -82,7 +81,6 @@ Alex was watching a group of people learning to play guitar. "This is what colle
 
 "Yes," Helen said. "But somewhere along the way, college became about credentials. About getting ahead. About proving yourself. We forgot that learning is its own reward."
 
----
 
 Their last stop was a home—a small apartment where a young woman named Maya lived with her two roommates.
 
@@ -98,7 +96,6 @@ Maya had been accepted to several prestigious universities but had chosen to sta
 
 Maya thought about the question. "If it had helped me find this path earlier. If it had given me space to explore, to fail, to discover what I actually cared about. Instead, it seemed designed to push me into a career I didn't want, for a future that doesn't exist."
 
----
 
 That evening, Michael and Alex sat in the living room, processing what they'd seen.
 
@@ -118,7 +115,6 @@ That evening, Michael and Alex sat in the living room, processing what they'd se
 
 "I don't know. But I think we have to try."
 
----
 
 The next day, Michael returned to campus with a new perspective.
 

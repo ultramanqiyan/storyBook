@@ -38,7 +38,6 @@ Sarah smiled again. "I try."
 
 But she wasn't thinking about them. Not really. She was executing the AI's instructions. She was delivering the system's insights. She was being the interface between the algorithm and the clients.
 
----
 
 That evening, she stayed late at the office.
 
@@ -58,7 +57,6 @@ She opened WealthGuide and scrolled through the profiles. Each one was a wealth 
 
 But it wasn't in her anymore. It was all in the machine.
 
----
 
 The realization had been building for months, but now it felt undeniable.
 
@@ -68,7 +66,6 @@ And the worst part? It was working. The clients were happier. The metrics were b
 
 But she felt like a ghost in her own professional life.
 
----
 
 On Friday, she had lunch with James again.
 
@@ -106,7 +103,6 @@ Sarah wanted to say yes. She wanted to say that it mattered, that the process wa
 
 But she wasn't sure she believed that anymore.
 
----
 
 That night, she dreamed about the system.
 
@@ -118,7 +114,6 @@ The clients smiled and thanked her, not realizing she wasn't really there. They 
 
 She woke up with a gasp, her heart pounding.
 
----
 
 The next morning, she arrived at the office early.
 
@@ -134,7 +129,6 @@ She could spend the whole day just executing the AI's instructions. Showing up f
 
 The clients would never know the difference.
 
----
 
 She sat with that thought for a long time.
 
@@ -150,7 +144,6 @@ But something deep inside her resisted that conclusion. Something told her that 
 
 She wasn't sure what it was about. But she knew she was losing it.
 
----
 
 The question haunted her as she worked through the day.
 

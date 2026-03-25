@@ -38,7 +38,6 @@ The feeling was like nothing I had ever experienced. Pride, yes, but something m
 
 I stared at the solved equation, my hand trembling slightly. This was what I had been missing all those years on the optimized path—not the information, but the understanding. Not the absorption, but the learning.
 
----
 
 The weeks turned into months. The struggle continued, but it became easier. My brain learned to think again, to question, to wonder. The hollow place inside me began to fill.
 
@@ -46,7 +45,6 @@ I still fell behind on the optimized metrics. My test scores remained below the 
 
 I asked questions in class—not the optimized questions PATH-AI suggested, but my own questions, the ones that came from genuine wonder. I read books outside the curriculum, followed threads of interest wherever they led. I was becoming someone who actually learned, not just someone who absorbed.
 
----
 
 The resistance grew. More students joined our meetings, drawn by word of mouth, by the promise of something the system couldn't provide. We studied together, struggled together, learned together. The community made the hard work bearable.
 
@@ -54,7 +52,6 @@ The resistance grew. More students joined our meetings, drawn by word of mouth, 
 
 The words resonated with me. I had thought this journey was about me—about recovering what I had lost. But it was bigger than that. It was about fighting for something essential, something the system had tried to take away.
 
----
 
 The college applications were due in November. I sat at my computer, staring at the essay prompts, trying to write answers that would impress admissions officers.
 
@@ -66,7 +63,6 @@ I deleted everything and started over.
 
 The essay wasn't optimized. It wasn't guaranteed to impress. But it was true. And for the first time, that mattered more than the outcome.
 
----
 
 The acceptance letter came in March. Not from my top-choice school—the one PATH-AI had predicted I would attend—but from a different school. A smaller school. A school that valued curiosity over optimization.
 

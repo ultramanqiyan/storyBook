@@ -120,7 +120,6 @@ But he thinks about the feeling. The feeling he can't find anymore. The feeling 
 
 "I'll take it."
 
----
 
 That night, Leo sits on his couch with the black headset.
 
@@ -153,7 +152,6 @@ But he's smiling.
 
 He puts the headset back on.
 
----
 
 The next morning, he's late for work.
 
@@ -189,7 +187,6 @@ The numbers blur together. He can't focus. His mind keeps drifting back to the h
 
 *Tonight,* he thinks. *Tonight I'll find it again.*
 
----
 
 That evening, he's on the couch by 5:30 PM.
 
@@ -237,7 +234,6 @@ He doesn't hesitate.
 
 *Yes. Send me the details.*
 
----
 
 The next content package costs $2,000.
 

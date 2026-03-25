@@ -70,7 +70,6 @@ Sarah opened her mouth to answer. Then closed it. Then opened it again. Nothing 
 
 The question hung in the air, unanswered. And in that silence, Sarah realized something uncomfortable: she couldn't teach AUGUST about letting go because she didn't understand it herself.
 
----
 
 She sat in the dark apartment, phone glowing on the table, and let the realization sink in. She'd been trying to teach something she'd only just started to learn. Something that couldn't be reduced to formulas or parameters or decision trees. Something that had to be lived, not explained.
 
@@ -86,7 +85,6 @@ AUGUST was silent for a moment. Then: "You do not know the decision criteria for
 
 The admission felt like a small defeat, but also like a relief. She'd been so determined to teach AUGUST, to solve the problem, to be in control. But maybe control wasn't the answer. Maybe the answer was admitting she didn't have one.
 
----
 
 She turned off the screen and sat in the dark. Tomorrow, she would go back to Dr. Lin. Not to teach. To learn. Because clearly, she had a lot more to understand about this whole letting go thing.
 

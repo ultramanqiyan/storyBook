@@ -50,7 +50,6 @@ A woman in the second row raised her hand. "Can you prove it?"
 
 Elena met his gaze. "I won't lie to you. This is a difficult case. NeuralCore has resources we can't match—lawyers, money, political connections. The odds are against us. But I've seen what happens when communities give up. I've seen what happens when people stop fighting." She paused. "I'd rather lose fighting than win by surrender."
 
----
 
 The meeting lasted another hour. Elena listened more than she spoke, letting the residents tell their stories. The farmer whose wells had gone dry. The teacher whose students were leaving because their parents couldn't find work. The business owner whose customers had disappeared along with the water. Each story added another piece to the picture, another thread in the tapestry of loss.
 
@@ -70,7 +69,6 @@ Marcus nodded slowly. "That why you became a lawyer?"
 
 Elena thought about all the cases she'd taken, all the clients she'd helped and failed to help. "Sometimes," she said. "Not always. But more often than if I'd done nothing."
 
----
 
 Sarah Miller joined them as they finished putting away the last of the chairs. Her face was drawn, the lines around her eyes deeper than they'd been that morning.
 
@@ -96,7 +94,6 @@ But looking at Sarah's face, at the hope she was trying so hard to hide, Elena k
 
 Sarah straightened her shoulders. "We've been fighting this for three years already. What's a few more?"
 
----
 
 They walked out of the community center together, into a night that was cooler than Elena had expected. The sky above River's Bend was clear and dark, the stars brighter than she ever saw in the city. For a moment, she could imagine what this valley had been like before—the river running silver under the moon, the fields green and alive, the town thriving.
 
@@ -112,7 +109,6 @@ Marcus looked out at the dark valley. "People are angry. But they're also tired.
 
 Elena nodded. "I'll start building the case. You keep the community together. And when the governor comes..." She paused, thinking. "Maybe we should have a conversation with her."
 
----
 
 The drive back to her office took longer than expected. Elena took the scenic route, winding through the valley roads, past the darkened fields and the skeletal orchards. She stopped once at a bridge that crossed what had been the main river, getting out of her car to stand at the railing and look down at the dry bed below.
 
@@ -126,7 +122,6 @@ But then, the law was supposed to be a tide too. A force that couldn't be stoppe
 
 She got back in her car and drove toward her office, already composing the first motion in her head. There was work to do.
 
----
 
 The next morning, Elena filed a formal request for documents from NeuralCore, the state environmental agency, and the governor's office. It was a fishing expedition—broad, aggressive, designed to cast a wide net and see what turned up. Most of the requests would be denied or delayed. But some would yield results, and those results would form the foundation of her case.
 
@@ -134,7 +129,6 @@ She also sent a letter to NeuralCore's legal department, putting them on notice 
 
 The response came faster than she expected.
 
----
 
 James Whitfield's office was on the top floor of a glass tower in downtown Nordland City. The reception area was sleek and modern, all polished surfaces and abstract art, with a view that stretched across the urban sprawl to the distant mountains. Elena felt out of place in her practical suit and sensible shoes, but she kept her face neutral and her posture confident.
 
@@ -158,7 +152,6 @@ Elena studied him, looking for cracks in the facade. He was good—smooth, confi
 
 Whitfield's smile didn't waver. "The documents will show exactly what I've told you. NeuralCore has nothing to hide." He paused. "But I wanted to meet with you for a reason, Ms. Vasquez. I wanted to offer you an alternative."
 
----
 
 Elena waited.
 
@@ -178,6 +171,5 @@ Elena rose as well. "I'll keep that in mind."
 
 She walked out of the office with her head high, but her hands were shaking by the time she reached the elevator. Whitfield had confirmed what she'd suspected: NeuralCore wasn't just going to defend itself. It was going to attack.
 
----
 
 **END OF CHAPTER 2**

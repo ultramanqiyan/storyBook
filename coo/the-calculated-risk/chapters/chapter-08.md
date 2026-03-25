@@ -44,7 +44,6 @@ I walked out of the building, my mind racing. I had known this would happen—ha
 
 I was alone.
 
----
 
 The weeks that followed were brutal. My sponsorship was terminated, my income disappeared, my competition invitations dried up. The climbing world didn't know what to make of an athlete who refused to use AI assistance.
 
@@ -52,7 +51,6 @@ I kept climbing, training every day, developing my intuition, trusting my judgme
 
 I was becoming irrelevant, just as David had predicted.
 
----
 
 The low point came on a Tuesday evening, two months after the sponsor meeting. I sat in my apartment, staring at the bills I couldn't pay, the career I couldn't salvage, the future I couldn't see.
 
@@ -62,7 +60,6 @@ But I couldn't do it. I had learned too much, had come too far, had found someth
 
 I was going to keep climbing without the system, even if it meant losing everything else.
 
----
 
 The phone call came the next day. It was Marcus, his voice excited.
 
@@ -82,7 +79,6 @@ I stared at them, my heart racing. I wasn't alone. There were others who had mad
 
 "There are more than you think," Marcus said. "And we're growing. The system has created a generation of dependent athletes, but some of us are fighting back."
 
----
 
 The meeting lasted for hours. The climbers shared their stories—how they had become dependent on RISK-AI, how they had discovered the truth about the system, how they had chosen to climb without it.
 
@@ -92,7 +88,6 @@ They talked about the challenges: the lost sponsorships, the declined competitio
 
 I felt something I hadn't felt in months: hope.
 
----
 
 That night, I walked home through the dark streets, my mind full of what I had learned. I wasn't alone. There were others who had made the same choice, who had faced the same consequences, who had found another path.
 

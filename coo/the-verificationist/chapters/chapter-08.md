@@ -34,7 +34,6 @@ He met with Dr. Chen again.
 
 "Then we live with the consequences. That's the burden of being reality-creators."
 
----
 
 James went back to his cases.
 
@@ -48,7 +47,6 @@ He looked at Case #1249—the fish that recognized the observer. Dr. Chen had sa
 
 *We're all doing this,* he realized. *Every observation, every decision, every act of attention—we're all participating in the construction of reality. The question is whether we're doing it consciously or unconsciously.*
 
----
 
 He updated his MANIFESTO.docx:
 
@@ -73,7 +71,6 @@ He updated his MANIFESTO.docx:
 *- Humility about our ability to know*
 *- Care for the realities we help create*
 
----
 
 James closed his laptop.
 

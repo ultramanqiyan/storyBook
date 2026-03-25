@@ -68,7 +68,6 @@ Five specialists. Five different contexts. Five different results.
 
 *The expectation of the observer shaped the observation,* he realized. *Truth is relative to the observer's mindset.*
 
----
 
 He documented the result:
 
@@ -94,7 +93,6 @@ But more importantly, he had proven something else:
 
 *It proves that verification is a process, not a guarantee. It proves that truth is what we agree to call true. It proves that reality is constructed, not discovered.*
 
----
 
 He added to his THEORY.docx file:
 

@@ -34,7 +34,6 @@ It was perfect. It was efficient. It was successful.
 
 And it felt like it belonged to someone else.
 
----
 
 That afternoon, Martha came in for her coffee.
 
@@ -52,7 +51,6 @@ The question caught him off guard. How was he? He didn't know. He hadn't thought
 
 She said it like it was a different thing from him doing well. Like the store's success and his success were no longer the same.
 
----
 
 After she left, Robert sat at his desk and stared at the StoreBrain dashboard.
 
@@ -68,7 +66,6 @@ That was what he'd wanted. Not efficiency. Not optimization. Not maximum revenue
 
 But somewhere along the way, he'd lost it. He'd let the metrics become the goal. He'd let the system make the decisions. He'd let optimization replace purpose.
 
----
 
 That night, he dreamed about the poetry corner.
 
@@ -80,7 +77,6 @@ Martha was there, and Sarah, and all the other customers he'd known over the yea
 
 He woke up with tears on his face, not sure why.
 
----
 
 The next morning, he arrived at the store early.
 
@@ -94,7 +90,6 @@ But the sense of purpose was gone. The feeling that he was creating something me
 
 He had optimized his way right out of his own life.
 
----
 
 That afternoon, a customer asked him a question.
 
@@ -114,7 +109,6 @@ He managed a smile. "I'm fine. Just tired."
 
 But he wasn't fine. He was lost. He had become so focused on optimizing the store that he had forgotten why he'd opened it in the first place.
 
----
 
 That evening, he stayed late at the store.
 

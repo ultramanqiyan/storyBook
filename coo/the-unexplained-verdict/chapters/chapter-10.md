@@ -156,6 +156,5 @@ One claim at a time. One decision at a time. One signature that meant something.
 
 She opened the next claim and began to read.
 
----
 
 **END OF THE UNEXPLAINED VERDICT**

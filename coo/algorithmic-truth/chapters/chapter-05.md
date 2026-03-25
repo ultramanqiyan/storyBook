@@ -32,7 +32,6 @@ The story generated attention. Other journalists reached out to share their expe
 
 But many had simply given up, unwilling to fight a system that seemed biased against individual reporting.
 
----
 
 Sarah's article sparked a debate in the journalism community. Was AI verification making journalism more accurate, or was it creating a new form of gatekeeping? Who got to decide what counted as truth?
 
@@ -42,7 +41,6 @@ But Sarah and others argued that the system had flaws. It couldn't distinguish b
 
 The consortium's response to the criticism was to defend the system while promising to improve it. But Sarah wondered: how could they improve a system that couldn't recognize its own mistakes?
 
----
 
 She thought about Councilman Peters. He had made a statement about the park. He'd been there. She'd quoted him accurately. The AI said he hadn't said it. But she had a recording and witnesses who proved he had.
 
@@ -52,7 +50,6 @@ The consortium's explanation was that the AI had access to Peters' public statem
 
 But the system had flagged her quotes as inaccurate, not his position on the park. It was confusing, contradictory, and ultimately unhelpful.
 
----
 
 Sarah didn't know what to believe. She'd been there. She'd heard him. She had a recording. She had witnesses. But the consortium trusted the AI over her. And that trust, she realized, was a dangerous precedent for journalism.
 

@@ -58,7 +58,6 @@ Lena considered the question. Her paintings were interpretations, yes. But they 
 
 Lena didn't have an answer. But she knew one thing: the optimized translations were not what she had agreed to. They were not what she thought she was sharing.
 
----
 
 She talked to Maya that evening, showing her the raw and optimized versions side by side.
 
@@ -82,7 +81,6 @@ Lena felt the question land. She had spent her career trying to share her percep
 
 *Maybe that's the problem,* she thought. *Maybe I've been so focused on success that I forgot about authenticity.*
 
----
 
 "I want to show the raw translations," Lena told Dr. Okonkwo during their next session. "Without the optimization."
 
@@ -98,7 +96,6 @@ Dr. Okonkwo smiled slightly. "That's a philosophical position."
 
 "It's my position. I didn't spend thirty years trying to share my perception just to have CANVAS smooth it into something more palatable."
 
----
 
 That night, Lena sat in her studio, looking at the raw translations—the chaotic, messy, authentic representations of her perception. They were harder to look at than the optimized versions, more demanding. But they were true.
 

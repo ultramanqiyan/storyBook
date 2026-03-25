@@ -66,7 +66,6 @@ I don't have an address. I don't know where I'll send it yet.
 
 But I'll figure it out.
 
----
 
 I leave the coffee shop.
 
@@ -84,7 +83,6 @@ Maybe what matters is trying. To be real. To connect. To love, even when it's me
 
 Maybe that's all any of us can do.
 
----
 
 I walk to the bus station.
 
@@ -98,7 +96,6 @@ And that's enough.
 
 For now.
 
----
 
 I sit on a bench. I watch the buses come and go.
 
@@ -118,7 +115,6 @@ But I choose to believe they exist.
 
 I choose to believe that love, once real, doesn't just disappear. It gets buried. Hidden. But it's still there.
 
----
 
 A bus pulls up. The doors open with a hiss. The engine rumbles.
 
@@ -138,7 +134,6 @@ I stand up. I pick up my bag. The strap digs into my shoulder.
 
 "Yeah," I say. "I'm getting on."
 
----
 
 I find a seat. The vinyl is cracked. A spring pokes through. I look out the window.
 
@@ -150,7 +145,6 @@ And I'm part of it now. Really part of it.
 
 For the first time in my life.
 
----
 
 The bus moves. I watch the city fade behind me. The buildings get shorter. The streets get wider. The sky gets bigger.
 
@@ -166,7 +160,6 @@ Not perfect. Not smooth. Not easy.
 
 Just... real.
 
----
 
 I close my eyes.
 
@@ -180,7 +173,6 @@ And maybe, someday, I'll find them.
 
 But for now, I have to find myself.
 
----
 
 The bus keeps moving.
 
@@ -190,7 +182,6 @@ I don't know where it leads.
 
 But I'm ready to find out.
 
----
 
 *What is real love?*
 
@@ -210,7 +201,6 @@ I don't know if I'll succeed.
 
 But I'm going to try.
 
----
 
 The sun is setting.
 

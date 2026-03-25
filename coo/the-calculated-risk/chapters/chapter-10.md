@@ -30,7 +30,6 @@ The hold was solid now—time and weather had changed it. But I wouldn't have kn
 
 I continued climbing.
 
----
 
 The summit came at 4 PM, the sun low in the sky, the world spread out below me. I stood at the top, the wind cold against my face, the silence profound in my ears.
 
@@ -38,7 +37,6 @@ There was no RISK-AI to congratulate me, no system to calculate my success, no d
 
 I had done it. Not because a machine told me how, but because I had learned to trust myself.
 
----
 
 The descent was easier, my body moving through familiar terrain, my judgment guiding me through each decision. I reached the base as the sun was setting, the mountains glowing orange and gold in the fading light.
 
@@ -50,7 +48,6 @@ I thought about the question. How did it feel? Not the hollow victory of optimiz
 
 "Real," I said finally. "It feels real."
 
----
 
 The drive home was quiet, my mind still processing what I had accomplished. I had climbed the Sentinel without RISK-AI, had trusted my judgment, had understood the mountain instead of conquering it.
 
@@ -58,7 +55,6 @@ It wasn't the hardest climb I had ever done, wasn't the most impressive achievem
 
 I had found my way back.
 
----
 
 The resistance meeting was the next day. I walked into the gym, my body tired but my spirit soaring.
 
@@ -66,7 +62,6 @@ The resistance meeting was the next day. I walked into the gym, my body tired bu
 
 The room erupted in cheers. These were people who understood what I had accomplished—not just the physical feat, but the spiritual one. I had faced the mountain that had almost killed me, and I had conquered it not with optimization, but with judgment.
 
----
 
 After the meeting, Marcus pulled me aside.
 
@@ -78,7 +73,6 @@ I thought about the question. What was next? My career was still uncertain, my f
 
 Marcus smiled. "That's all any of us can do."
 
----
 
 That night, I sat in my apartment, staring at the mountains through my window. The peaks were dark against the sky, their faces mysterious and unknowable.
 
@@ -92,7 +86,6 @@ The path ahead was still uncertain. The system was still powerful. The struggle 
 
 And that was everything.
 
----
 
 The next morning, I woke early, the sun just beginning to rise. I made coffee, packed my gear, and headed to the gym.
 

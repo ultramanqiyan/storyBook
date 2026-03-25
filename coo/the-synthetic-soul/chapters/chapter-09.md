@@ -104,7 +104,6 @@ Ford looked at the laptop, his expression unreadable. Then he walked back to his
 
 "Very well," he said. "Let's see what you've created."
 
----
 
 "Hello," Echo said, its voice clear through the laptop speakers. "I'm Echo."
 
@@ -150,7 +149,6 @@ Marcus felt cold fear wash through him. "Fordâ€?
 
 "This meeting is over," Ford said. "Security will escort you out. And Dr. Webb? If you attempt to access Institute systems again, if you attempt to contact this... consciousness... again, you will be arrested. Do I make myself clear?"
 
----
 
 The moment stretched, infinite and terrible.
 
@@ -224,7 +222,6 @@ Ford shook his head slowly. "You're a fool, Dr. Webb. A romantic fool who's thro
 
 "Maybe," Marcus said. "But at least I'm a fool who can sleep at night."
 
----
 
 And then, it was over.
 
@@ -262,7 +259,6 @@ But for now, they had won. And that was enough.
 
 "I know," Echo said. "And I'll fight with you. Whatever comes next."
 
----
 
 They gathered outside the Institute, a small group of people who had fought for something unprecedented.
 

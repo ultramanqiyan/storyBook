@@ -123,7 +123,6 @@ David looked at the screen again. The AI-generated email sat there, polished and
 
 She stood up, her hand briefly on his shoulder. "Give it a try. What could it hurt?"
 
----
 
 After Rachel left, David sat at his desk, staring at the SalesPilot icon on his desktop.
 

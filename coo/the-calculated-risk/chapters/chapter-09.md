@@ -32,13 +32,11 @@ The feeling was different from the optimized victories I had achieved with RISK-
 
 That was worth more than any trophy.
 
----
 
 The months passed. I continued training, continued competing, continued developing my intuition. My results were inconsistent—sometimes I placed well, sometimes I didn't. But my judgment was improving.
 
 I could feel it in the way I approached routes, in the decisions I made, in the trust I had in myself. The system had atrophied my intuition, but it was coming back.
 
----
 
 The breakthrough came on a Saturday morning, six months after I had rejected RISK-AI. I was working on a route that had been frustrating me for weeks—a complex problem that required both strength and creativity.
 
@@ -50,7 +48,6 @@ I reached the top, my hands finding the final hold, my body settling into positi
 
 I had done it. Not because RISK-AI told me how, but because I had figured it out myself.
 
----
 
 "That's it," Marcus said, watching my face. "That's what you've been working toward."
 
@@ -58,7 +55,6 @@ I nodded, the words settling into my mind. This was what I had lost when I start
 
 This was what I had been fighting to recover.
 
----
 
 The resistance grew. More climbers joined our community, drawn by word of mouth, by the promise of something the system couldn't provide. We trained together, competed together, supported each other through the challenges.
 
@@ -66,7 +62,6 @@ I wasn't just climbing for myself anymore. I was climbing for everyone who had b
 
 The struggle continued. The system was still powerful, the industry still dominant, the odds still against us. But we were fighting back, one route at a time.
 
----
 
 That night, I sat in my apartment, staring at the mountains through my window. The peaks were dark against the sky, their faces mysterious and unknowable.
 

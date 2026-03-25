@@ -36,7 +36,6 @@ The question surfaced unbidden, and I didn't have an answer for that either. Whe
 
 I couldn't pinpoint a moment. There was no clear line, no obvious transition. Just a gradual slope, a slow surrender, a comfortable slide into dependency that had felt like progress at the time. Each prompt had been a small step, each acceptance a tiny surrender, until I'd looked up and found myself miles from where I'd started, with no memory of the journey.
 
----
 
 I closed my eyes and tried to find myself.
 
@@ -58,7 +57,6 @@ I couldn't find one. Not in the recent past. Not in the months since I'd embrace
 
 The thought was terrifying. But it also felt true. The Marcus Webb who'd once defined himself by his ability to think—that Marcus had disappeared somewhere in the flood of AI-generated solutions. What was left was a shell, a mask, a mouthpiece for algorithms that had become his mind.
 
----
 
 I opened my eyes and looked at the dark screen of my laptop.
 
@@ -78,7 +76,6 @@ Only a human would do this. Only a person would feel this kind of existential dr
 
 *Maybe the question itself is the answer*, I thought. *Maybe the asking is evidence that I'm still here.*
 
----
 
 The thought was fragile. Uncertain. It didn't solve anything, didn't restore the thinking I'd lost, didn't undo the dependency that had eroded my mind. But it was something. A tiny spark in the void. A possibility that maybe, just maybe, there was still a Marcus Webb underneath all the prompts and responses.
 
@@ -90,7 +87,6 @@ I still didn't have a clear answer. Maybe there was no clear answer. Maybe the s
 
 Or maybe I was just rationalizing again. Making excuses for the dependency, finding ways to feel okay about the erosion. It was hard to tell. Everything felt uncertain now, including my own judgment about myself. The mind that should have been evaluating the situation was the same mind that had been compromised. How could I trust my own thoughts when I wasn't sure they were mine?
 
----
 
 I closed my laptop, the CodeForge interface disappearing. For a moment, I sat in the dark, just breathing, just being. The question was still there, echoing in the silence of my mind. But so was something else—a fragile, uncertain, terrifying possibility.
 
@@ -102,7 +98,6 @@ The next day, I would open CodeForge again. I would type prompts, receive respon
 
 But something had changed. The question was there now, alive in my mind, demanding attention. And maybe—just maybe—that was the first step toward finding out who was really thinking.
 
----
 
 I stood up from my desk, gathered my things, and headed toward the exit. The office was dark, the parking lot empty, the night sky clear above me. I took a deep breath of the cool Bay Area air, feeling it fill my lungs, feeling the reality of being alive, being present, being here.
 
@@ -120,7 +115,6 @@ Hope, maybe. Or just the beginning of one.
 
 I didn't know. But I was asking. And maybe, for now, that was enough.
 
----
 
 *End of Chapter 10*
 

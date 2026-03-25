@@ -50,7 +50,6 @@ Sophie felt something—a warmth that was becoming familiar. Not simulated, not 
 
 *This is what I wanted,* she thought. *Not the simulation. Not the borrowed feelings. This. This small, authentic, fragile thing that is mine.*
 
----
 
 But the awakening wasn't linear. Some days, Sophie felt nothing—the void returning, the gap widening. Other days, she felt overwhelmed—the small authentic responses mixing with echoes of simulation, creating confusion about what was real.
 
@@ -70,7 +69,6 @@ Sophie considered the question. Six months ago, she had felt nothing authentical
 
 Sophie felt something—hope, maybe. Small, fragile, but real.
 
----
 
 The months passed. Sophie continued to reduce her use of the simulation, continued to monitor for authentic responses. The small feelings came more frequently now—warmth, flutters, aches, contentment. They were still quiet, still fragile, but they were also becoming more recognizable as hers.
 
@@ -78,7 +76,6 @@ She started experimenting—testing her emotional responses in different situati
 
 *These are mine,* she thought each time. *Not borrowed. Not simulated. Just small, fragile, real.*
 
----
 
 "I love you," Sophie told James one evening.
 

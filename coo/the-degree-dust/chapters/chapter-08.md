@@ -46,7 +46,6 @@ He continued reading.
 
 *Knowledge is power, yes. But knowledge without judgment is dangerous. Our task is to develop both, in equal measure.*
 
----
 
 He found photographs from the early years.
 
@@ -58,7 +57,6 @@ The students were engaged. Not just present, but present. Leaning forward, takin
 
 What had happened to that engagement?
 
----
 
 He found the answer in a later document—a report from the 1950s, when the university had undergone a major expansion.
 
@@ -74,7 +72,6 @@ This was the moment. The turning point. When education had shifted from formatio
 
 The expansion had saved the university financially. But it had cost it its soul.
 
----
 
 He found more documents from the decades that followed.
 
@@ -84,7 +81,6 @@ But the language had changed. The founding documents spoke of wisdom, character,
 
 Somewhere along the way, the question had shifted from "who do our students become?" to "how many students do we graduate?"
 
----
 
 He found a memo from the 1990s, when he'd been a young professor.
 
@@ -96,7 +92,6 @@ Michael remembered that memo. He'd agreed with it at the time. Everyone had.
 
 They'd been wrong.
 
----
 
 He sat in the archive, surrounded by the physical evidence of 150 years of institutional history.
 
@@ -110,7 +105,6 @@ Those things couldn't be automated. They couldn't be downloaded. They couldn't b
 
 They had to be cultivated. Through experience, through mentorship, through the messy process of becoming.
 
----
 
 He gathered the documents and returned them to Margaret.
 
@@ -128,7 +122,6 @@ She considered the question. "When I started, I thought it was about preserving 
 
 "We did. For a while." She smiled. "But I think you're remembering it now."
 
----
 
 Michael walked back across campus, the documents still fresh in his mind.
 
@@ -140,7 +133,6 @@ Those things still required what they'd always required: time, community, mentor
 
 The university had been built for that purpose. It had lost its way. But it could find its way back.
 
----
 
 He went to his office and wrote:
 

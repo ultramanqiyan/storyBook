@@ -86,7 +86,6 @@ There it was again. *Just getting used to* became *still adjusting to*. *It will
 
 But she didn't say that. She couldn't say that. She could only let LEX translate her thoughts into words that were close enough, but not quite right.
 
----
 
 That night, Elena sat at her desk and tried to write. The manuscript was progressing—she had added three new chapters since getting LEX, and the words were flowing in a way they never had before. But as she read over what she had written, she felt a growing unease.
 
@@ -114,7 +113,6 @@ She didn't know. She might never know. But as she sat in the quiet of her study,
 
 She felt afraid.
 
----
 
 The next day, she tried an experiment. She would think something deliberately simple, deliberately casual, deliberately unlike her academic writing. And she would see what LEX did with it.
 

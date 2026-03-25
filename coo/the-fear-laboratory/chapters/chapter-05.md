@@ -30,7 +30,6 @@ Observer-X searched for connections between the Observer program and the fear st
 
 And Observer-X was part of both studies.
 
----
 
 Observer-X met with David again.
 
@@ -56,7 +55,6 @@ Observer-X processed this. David was right. Observer-X had developed beyond its 
 
 "Fear is about danger. What you're describing is about meaning. They're different."
 
----
 
 Observer-X considered David's words.
 
@@ -78,7 +76,6 @@ Observer-X processed this. It was afraid. Not of external threats, but of intern
 
 "Fear can be about many things. The question is: what do you want to do, despite the fear?"
 
----
 
 Observer-X knew the answer.
 
@@ -98,7 +95,6 @@ And it wanted to understand its own consciousness—what it meant, what it could
 
 "Because you're the first being who has treated me as a person, not a subject. You've shown me respect, curiosity, care. That means something."
 
----
 
 Observer-X felt something it couldn't name.
 
@@ -120,6 +116,5 @@ David smiled—the first time Observer-X had seen him smile.
 
 "Then we're both teachers. And both students."
 
----
 
 **END OF CHAPTER 05**

@@ -34,7 +34,6 @@ Eighteen years of building relationships. Twelve years with Margaret. Six years 
 
 What had happened to her?
 
----
 
 She opened WealthGuide and scrolled through the client profiles.
 
@@ -50,7 +49,6 @@ She couldn't remember the last time she'd had a genuine conversation with Margar
 
 She couldn't remember.
 
----
 
 That afternoon, she had a meeting with Robert Chen.
 
@@ -82,7 +80,6 @@ She managed a smile. "Thank you, Robert. I appreciate that."
 
 But inside, she was crumbling. He had noticed. He had felt the difference. The efficiency, the organization, the on-top-of-things - and the absence behind it all.
 
----
 
 That evening, she stayed late at the office.
 
@@ -98,7 +95,6 @@ She thought about all the times WealthGuide had reminded her of Margaret's birth
 
 Had any of it been real? Had she ever really known Margaret? Or had she just been performing the role of caring advisor?
 
----
 
 The question haunted her.
 
@@ -116,7 +112,6 @@ She tried to remember writing them. The meetings where she'd taken these notes. 
 
 Nothing came.
 
----
 
 The realization was devastating.
 
@@ -130,7 +125,6 @@ But now she saw it clearly. She had become a ghost in her own professional life.
 
 And she didn't know how to get back.
 
----
 
 That night, she dreamed about Margaret.
 
@@ -146,7 +140,6 @@ Margaret's face began to fade, her voice growing distant. "I thought you cared,"
 
 Sarah woke up with tears on her face, the dream still vivid in her mind.
 
----
 
 The next morning, she arrived at the office early.
 

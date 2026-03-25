@@ -48,7 +48,6 @@ Alex nodded. "Second year. I want to help design the mentorship program. I think
 
 Michael felt a swell of pride. "I think you do too."
 
----
 
 That evening, Michael sat in his office, reviewing the first year of The Path.
 
@@ -68,7 +67,6 @@ He pulled out a notebook and wrote:
 
 *The future is uncertain. The old model is dying. But something new is being born.*
 
----
 
 The next day, he met with President Warren to discuss the future.
 
@@ -88,7 +86,6 @@ Elizabeth nodded slowly. "That's a different vision than the one we've been purs
 
 "That vision is dying anyway. This is a chance to build something more sustainable. More human."
 
----
 
 He walked home that evening through the campus.
 
@@ -98,7 +95,6 @@ He passed the library, where students were gathered for a discussion group. He p
 
 The campus was still quiet, compared to years past. But it was no longer empty. It was filling with something different—not crowds of students going through the motions, but smaller groups engaged in meaningful work.
 
----
 
 At home, he found Emily waiting for him.
 
@@ -122,7 +118,6 @@ Emily took his hand. "You've changed this year. You seem... lighter. More hopefu
 
 "Partly. But mostly because I finally found the answer to the question that's been haunting me. What is education for? It's for becoming. For helping people grow into their full humanity. Everything else is secondary."
 
----
 
 That night, Michael sat in his study, writing.
 
@@ -146,7 +141,6 @@ He wrote:
 
 *Why learn? Because learning is how we become who we are.*
 
----
 
 He closed his notebook and looked out the window.
 
@@ -170,7 +164,6 @@ And he had helped others find theirs.
 
 That was enough.
 
----
 
 **Epilogue**
 

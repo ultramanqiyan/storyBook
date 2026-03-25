@@ -56,7 +56,6 @@ She decided to try the system.
 
 Both neighbors nodded, curious but unconcerned. Dot started the session on the tablet.
 
----
 
 The mediation proceeded as these cases usually did. Mrs. Patterson claimed that Mr. Gonzalez was blocking the shared driveway with his work truck. Mr. Gonzalez claimed that Mrs. Patterson was parking too close to the entrance, making it difficult for him to navigate. Each had photographs, witnesses, and a firm conviction that they were right.
 
@@ -74,7 +73,6 @@ Mrs. Patterson didn't just want access to the driveway. She wanted Mr. Gonzalez 
 
 The surface dispute was about parking. The real conflict was about respect and autonomy.
 
----
 
 Armed with this insight, Dot guided the conversation in a new direction.
 
@@ -90,7 +88,6 @@ The conversation shifted. For the next thirty minutes, Dot helped them negotiate
 
 "Thank you," Mrs. Patterson said as they left. "I think we finally heard each other."
 
----
 
 After they left, Dot sat at her desk, reviewing the session on the tablet. The system had been right. It had identified the underlying dynamics faster than she would have on her own. The mediation had been more efficient, more effective.
 
@@ -104,7 +101,6 @@ Maybe that was the point. The system wasn't replacing her. It was giving her inf
 
 She wasn't sure yet.
 
----
 
 That evening, Dot walked home through the familiar streets of Millfield. The sun was setting, casting long shadows across the sidewalks. She nodded to the neighbors she passed, the people she'd known for years.
 

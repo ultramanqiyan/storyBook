@@ -64,7 +64,6 @@ But he knows it's more than that. He's been feeling it for weeks now—a restles
 
 He closes his eyes. He tries to sleep.
 
----
 
 The first day passes slowly.
 
@@ -86,7 +85,6 @@ He thinks about that question. Has he? He's felt satisfied. Content. Entertained
 
 He's not sure.
 
----
 
 The second day is worse.
 
@@ -108,7 +106,6 @@ He thinks about the Apex Collection. About the mountain peak. About the concert.
 
 *Tomorrow,* he thinks. *Tomorrow I'll feel something real.*
 
----
 
 The third day.
 
@@ -136,7 +133,6 @@ The notification is there.
 
 His hand trembles slightly as he taps *Yes*.
 
----
 
 The headset slides over his eyes.
 
@@ -150,7 +146,6 @@ This time, there's nothing.
 
 He's just... there.
 
----
 
 He's standing on a cliff.
 
@@ -172,7 +167,6 @@ He doesn't know what he means. But he feels it. A fullness in his chest. A tight
 
 *This is it. This is what I've been looking for.*
 
----
 
 The experience shifts.
 
@@ -188,7 +182,6 @@ He feels them. Not physically. But something deeper. A connection. A shared mome
 
 The thought comes unbidden. But he knows it's true. In this moment, surrounded by music and light and people he'll never see again, he feels more alive than he has in months. Years. Maybe ever.
 
----
 
 The experience shifts again.
 
@@ -206,7 +199,6 @@ He thinks of his dinners—reheated pasta, cereal, sandwiches he doesn't taste. 
 
 *This is what I've been missing.*
 
----
 
 The experience continues.
 
@@ -218,7 +210,6 @@ He doesn't want it to end.
 
 But eventually, it does.
 
----
 
 The headset comes off.
 
@@ -248,7 +239,6 @@ He goes to bed. He lies in the dark. He closes his eyes.
 
 He dreams of mountains and music and feasts. He dreams of flying. He dreams of feeling alive.
 
----
 
 The next morning, he wakes up tired.
 
@@ -286,7 +276,6 @@ They walk to the cafeteria. Leo eats a sandwich. It still doesn't taste like muc
 
 Because tonight, he'll taste something real.
 
----
 
 That evening, he's on the couch by 6:00 PM.
 

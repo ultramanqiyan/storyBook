@@ -20,7 +20,6 @@ She thought about the journalists who had reached out to her—the ones from Neb
 
 That was the real cost of AI verification. Not the individual flags, but the stories that never got told. The truths that never saw the light of day. The voices that got silenced by an algorithm.
 
----
 
 Sarah wrote a final story about the resolution. She documented what had changed and what hadn't. She acknowledged the consortium's improvements while pointing out their limitations. She thanked the journalists who had shared their experiences and called for continued vigilance.
 
@@ -28,7 +27,6 @@ The story ran in the Gazette under the headline "AI Verification: What Changed a
 
 She didn't claim victory. She didn't claim defeat. She just told the truth as she saw it—that AI verification was a tool with both benefits and risks, that it needed human oversight, that the fight for truth in journalism was ongoing.
 
----
 
 The reaction was mixed, as it had been from the beginning. Some praised her for holding the consortium accountable. Others accused her of undermining trust in technology. The consortium issued a statement thanking her for her feedback and promising continued improvements.
 
@@ -36,7 +34,6 @@ But Sarah noticed something else. Other journalists started pushing back too. Th
 
 That was the real victory. Not the changes the consortium had made, but the awareness she'd raised. Journalists across the country were now asking questions about AI verification. They were being more critical, more skeptical, more willing to push back.
 
----
 
 Sarah thought about what she'd learned from the experience. AI verification could be a useful tool, but it shouldn't be seen as a replacement for human judgment. The system had biases, and those biases affected what counted as truth. Transparency was essential—journalists needed to understand how these systems worked, what data they used, what limitations they had.
 
@@ -46,7 +43,6 @@ She thought about her original story—the one about the council meeting, about 
 
 That was the lesson: truth wasn't something you could verify with an algorithm. It was something you had to fight for, document, defend. And the fight never really ended.
 
----
 
 Sarah went back to work. There were other stories to tell, other truths to uncover. The AI verification system was still there, still flagging stories, still making decisions. But now she knew how to push back. And so did a lot of other journalists.
 

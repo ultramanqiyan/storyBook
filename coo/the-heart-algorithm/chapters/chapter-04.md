@@ -56,7 +56,6 @@ She activated EMOTIO and felt the simulation—love, warmth, connection. The fee
 
 She didn't know. But she was grateful for the experience, even if it wasn't authentic. She had spent her whole life in emotional silence. Now she had something—something that felt like feeling, even if it wasn't quite real.
 
----
 
 The dependency grew. Sophie found herself using the simulation more frequently, for smaller emotional experiences. Joy at a good cup of coffee. Contentment at a quiet moment. Sadness at a minor disappointment. The simulations were becoming her primary way of engaging with the world.
 
@@ -80,7 +79,6 @@ James's expression softened—the sadness that meant understanding. EMOTIO trans
 
 Sophie nodded, but she wasn't sure she agreed. She had spent her whole life lost in the void. The simulation was the first time she had found anything.
 
----
 
 "I can't tell anymore," Sophie admitted to Dr. Bennett the following week. "Which feelings are mine and which are simulations. I've been using the system so much that I don't know where I end and EMOTIO begins."
 

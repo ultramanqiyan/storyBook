@@ -94,7 +94,6 @@ He scrapes together $10,000.
 
 He goes back to Kane's office.
 
----
 
 The calibration takes longer than an hour.
 
@@ -118,7 +117,6 @@ Leo's heart is pounding. His hands are shaking. His whole body is trembling.
 
 Kane places the headset on Leo's head.
 
----
 
 The world doesn't shift.
 
@@ -170,7 +168,6 @@ He's never felt anything like this. He's never imagined anything like this.
 This is what he's been chasing. This is what he's been searching for. This isâ€?
 It stops.
 
----
 
 The headset is removed.
 
@@ -198,7 +195,6 @@ Kane shakes his head. "Not today. Your neural pathways need time to recover. At 
 
 "48 hours." Leo's voice is desperate. "I can wait 48 hours."
 
----
 
 He doesn't wait 48 hours.
 
@@ -230,7 +226,6 @@ He looks at the clock. It's been 12 hours.
 
 *36 more hours,* he thinks. *I can wait 36 more hours.*
 
----
 
 The next day, he goes to work.
 
@@ -254,7 +249,6 @@ His manager looks at him. "Do you? Because you don't seem to understand anything
 
 She shakes her head. "I hope so. For your sake."
 
----
 
 That night, he counts the hours.
 
@@ -282,7 +276,6 @@ There's a long silence on the other end.
 
 "Come to my office. We'll talk."
 
----
 
 Kane's office is dark.
 
@@ -314,7 +307,6 @@ Kane is silent for a long moment. Then he reaches under his desk and pulls out t
 
 Kane places the headset on Leo's head.
 
----
 
 The world disappears.
 
@@ -328,7 +320,6 @@ Leo screams. Cries. Laughs.
 
 And then it stops.
 
----
 
 He goes home.
 

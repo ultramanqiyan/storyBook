@@ -76,7 +76,6 @@ Dr. Chen considered the question. "Some people find meaning in relationships, in
 
 "No," James said slowly. "But maybe you can create spaces where they happen."
 
----
 
 He walked back to the mall, his mind racing.
 
@@ -106,7 +105,6 @@ He paused, then added:
 
 But he had to try. The alternative was watching the mall—and everything it represented—slowly die.
 
----
 
 That night, James drafted a proposal.
 

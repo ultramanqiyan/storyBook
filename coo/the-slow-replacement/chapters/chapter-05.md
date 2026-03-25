@@ -113,7 +113,6 @@ Marcus stared at the posting, his heart pounding. They were hiring for his posit
 
 He closed the laptop and sat in silence, the weight of the revelation pressing down on him.
 
----
 
 That night, Marcus couldn't sleep.
 
@@ -191,7 +190,6 @@ He closed the bedroom door behind him and leaned against it, his heart pounding.
 
 The question echoed in his mind, but he didn't have an answer.
 
----
 
 The next morning, Marcus went to work early.
 
@@ -215,7 +213,6 @@ Marcus stared at the message. *We need to talk.* The words felt ominous, like a 
 
 He put the phone down and returned to the spreadsheet. The numbers were the only thing he could control. The only thing that made sense.
 
----
 
 At 9 AM, Rachel walked by his desk.
 
@@ -235,7 +232,6 @@ She walked away, and Marcus watched her go, his mind racing.
 
 The thought was paranoid, irrational. But Marcus couldn't shake it.
 
----
 
 That night, Marcus came home late.
 
@@ -281,7 +277,6 @@ But even as he said the words, Marcus knew he didn't mean them. He would go to t
 
 Because the fear was the only thing that felt real.
 
----
 
 That night, Marcus lay in bed, staring at the ceiling.
 

@@ -42,7 +42,6 @@ His smile was genuine, welcoming. He walked toward the gate, and Sarah felt some
 
 "Glad you did." He opened the gate. "Come on, I'll show you around."
 
----
 
 The garden was smaller than it looked in the photos, but more alive. Raised beds filled with vegetables and herbs, a compost area in the corner, a small greenhouse along one fence. About a dozen people worked quietly, kneeling in dirt, carrying watering cans, examining leaves.
 
@@ -80,7 +79,6 @@ She hesitated. A commitment. Something she could fail at, could flake on, could 
 
 "Sure," she said. "Same time."
 
----
 
 The walk home felt different than the walk there. Sarah looked at her hands—dirt under her fingernails, a small smudge on her wrist, dust on her jeans. Evidence that she had done something.
 

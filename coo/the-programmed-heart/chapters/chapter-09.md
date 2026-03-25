@@ -54,7 +54,6 @@ But they're not normal. They're not even really there.
 
 They're just... running a program.
 
----
 
 I hear voices. The window is open a crack. The sound drifts out, mixed with the smell of cooking—onions, garlic, something savory.
 
@@ -78,7 +77,6 @@ They don't remember. They don't remember being young. Being scared. Being real.
 
 The system took that from them.
 
----
 
 I walk back to the front of the house.
 
@@ -94,7 +92,6 @@ That's not what I want to say.
 
 I don't know what I want to say.
 
----
 
 The door opens.
 
@@ -114,7 +111,6 @@ I don't know.
 
 I don't think I'll ever know.
 
----
 
 We sit in the living room. The same room. The same couch. The same everything. The lamp casts a warm glow. The clock on the wall ticks steadily.
 
@@ -146,7 +142,6 @@ They're still my parents. They still raised me. They still... tried.
 
 In their own broken way, they tried.
 
----
 
 "I'm not staying," I say.
 
@@ -178,7 +173,6 @@ Even if it was all a lie.
 
 They tried.
 
----
 
 I hug my mother. I hug my father.
 
@@ -194,7 +188,6 @@ And I mean it.
 
 Even if they can't mean it back.
 
----
 
 I walk out of the house.
 
@@ -216,7 +209,6 @@ Broken. Imperfect. Fake.
 
 But mine.
 
----
 
 I walk down the street. Away from the house. Away from the perfect family.
 

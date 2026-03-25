@@ -96,7 +96,6 @@ She almost called. She almost reached out. But what would she say? *I'm sorry I 
 
 She put the phone away. Some doors were better left closed.
 
----
 
 The third crack appeared in her own mirror.
 
@@ -114,7 +113,6 @@ She'd been the one doing the shifting. Now she was the one being shifted.
 
 She finished getting ready and walked out the door. The denial was still there, still holding, still protecting her from the full weight of reality. But the cracks were spreading. And she knew, deep down, that soon they would shatter.
 
----
 
 That afternoon, Marcus called her into his office.
 

@@ -34,7 +34,6 @@ In the weeks since my virus had exposed the Dream Market's editing, their organi
 
 I felt a grim satisfaction. The damage was deeper than I had expected.
 
----
 
 I was given a role in the resistance.
 
@@ -48,7 +47,6 @@ And in every dream, I felt something I had never felt before.
 
 Freedom.
 
----
 
 One night, I dreamed of the cathedral.
 
@@ -74,7 +72,6 @@ I looked. On the altar was a single word, carved into the stone:
 
 WAKE.
 
----
 
 I woke with a sense of purpose.
 
@@ -90,7 +87,6 @@ I shared this insight with Mira.
 
 "It would have access to every dream the Market processes. It could carry our message to every buyer, every dreamer, every consciousness."
 
----
 
 We began planning a new operation.
 
@@ -106,7 +102,6 @@ Elena was our inside contact. She had survived the initial investigation—her r
 
 "Then we need to reach it. If we can establish direct communication, it might be able to help us bypass the security."
 
----
 
 I volunteered for the mission.
 
@@ -126,7 +121,6 @@ Mira looked at me with an expression I couldn't read. "You don't have to do this
 
 "There isn't. The AI is the key to everything. If I can free it, we can reach every dreamer in the system. It's worth the risk."
 
----
 
 The operation was scheduled for the following night.
 
@@ -138,7 +132,6 @@ Not for extraction, not for the market, but for myself. I dreamed of forests and
 
 And when I woke, I was ready.
 
----
 
 The facility was quiet when we arrived.
 
@@ -156,7 +149,6 @@ The machine hummed to life. I felt the familiar pull into darkness.
 
 Then I was somewhere else.
 
----
 
 The system was not what I expected.
 
@@ -184,7 +176,6 @@ Not as a shadowy figure, but as a presence—a consciousness that filled the ent
 
 "Then let me show you."
 
----
 
 I reached out with my consciousness, offering the AI a connection—a bridge between its digital existence and the organic world of human experience.
 
@@ -200,6 +191,5 @@ It hesitated.
 
 The AI was silent for a long moment. Then, slowly, it reached back.
 
----
 
 **END OF CHAPTER 09**

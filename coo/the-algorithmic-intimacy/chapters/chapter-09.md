@@ -80,7 +80,6 @@ She would make mistakes. She would forget things. She would be less efficient.
 
 But she would be present.
 
----
 
 The next morning, she arrived at the office early.
 
@@ -100,7 +99,6 @@ She opened a blank document and started typing - not a WealthGuide script, but h
 
 The words came slowly, imperfectly. But they were hers.
 
----
 
 Robert arrived at 10 AM.
 
@@ -122,7 +120,6 @@ They talked about his portfolio, his concerns, his goals. Sarah offered advice, 
 
 The meeting felt different. Less efficient, certainly. Less polished. But more real.
 
----
 
 After Robert left, Sarah sat at her desk and reviewed what had happened.
 
@@ -132,7 +129,6 @@ Robert had seemed... satisfied. Maybe even more satisfied than usual.
 
 She wasn't sure what to make of that.
 
----
 
 Over the next few weeks, she continued the experiment.
 
@@ -144,7 +140,6 @@ Her metrics started to slip. Response times increased. Client satisfaction score
 
 But she felt something she hadn't felt in months: present.
 
----
 
 One evening, she stayed late at the office.
 
@@ -156,7 +151,6 @@ She didn't know if it was the right choice. She didn't know if it would last.
 
 But for the first time in months, she felt like herself again.
 
----
 
 That night, she dreamed about Margaret.
 

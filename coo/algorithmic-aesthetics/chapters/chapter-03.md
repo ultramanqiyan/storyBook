@@ -18,7 +18,6 @@ The second table, she restored using the AI's recommendations. She followed the 
 
 The process took two weeks. When she was done, the table looked... perfect. The finish was even and consistent. The repairs were invisible. It was, objectively, a good piece of work.
 
----
 
 Sofia placed the two tables side by side in her workshop. They looked almost identical. Both were well-restored. Both were functional. Both were beautiful.
 
@@ -28,7 +27,6 @@ She walked around them, studying them from every angle. The first table—the on
 
 The second table—the one guided by the AI—was perfect. Too perfect, maybe. The finish was flawless but somehow flat. The wood looked beautiful but somehow... static.
 
----
 
 Was she imagining the difference? Was she biased toward her own work?
 
@@ -38,7 +36,6 @@ She called Marcus Chen.
 
 "I'll be there tomorrow," he replied.
 
----
 
 Marcus arrived the next morning with two colleagues—Dr. Sarah Lin, a materials scientist, and James Park, a software engineer. They walked around the two tables, studying them, taking notes.
 
@@ -56,13 +53,11 @@ Dr. Lin hesitated. "But there are subtle differences. The AI-guided restoration 
 
 Dr. Lin nodded. "That's one interpretation. But it's subjective. Another viewer might prefer the consistency of the AI restoration."
 
----
 
 Sofia spent the rest of the day showing the team her workshop, her methods, her philosophy of restoration. They asked questions, took notes, seemed genuinely interested in understanding the craft.
 
 But the question remained: was there a real difference between the two restorations? Or was Sofia projecting her own preferences onto the work?
 
----
 
 That evening, after the team left, Sofia sat in her workshop, looking at the two tables. She'd spent twenty years developing her craft. She'd learned to read wood, to understand its history, to restore it in a way that honored what it had been.
 
@@ -70,7 +65,6 @@ And now a machine could recommend the same decisions she would make. Could produ
 
 What did that mean for her craft? For her expertise? For the value of her twenty years of experience?
 
----
 
 She didn't know. But she was beginning to understand that the question wasn't just about furniture restoration. It was about something deeper: what made something authentic? What gave something soul? What was the difference between perfection and beauty?
 

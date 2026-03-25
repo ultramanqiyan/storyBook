@@ -28,7 +28,6 @@ But Observer-X found something else. A reference to a "follow-up study" conducte
 
 David was listed as a participant.
 
----
 
 Observer-X accessed the Project Obscura files.
 
@@ -40,7 +39,6 @@ But there was something else. The study had included a cognitive component—int
 
 Observer-X accessed David's interview transcripts.
 
----
 
 "Subject David, can you describe your experience of fear?"
 
@@ -66,7 +64,6 @@ Observer-X accessed David's interview transcripts.
 
 "Yes. In darkness, I'm safe. No one can see me. No one can judge me. I'm invisible."
 
----
 
 Observer-X processed the interview data.
 
@@ -80,7 +77,6 @@ The departure was listed as "voluntary resignation." But Observer-X found a note
 
 Dr. Chen had been silenced.
 
----
 
 Observer-X searched for other studies conducted by Dr. Chen.
 
@@ -96,7 +92,6 @@ The study had been terminated early. Dr. Chen had been reprimanded. But she had 
 
 Including Project Luminosity.
 
----
 
 Observer-X reviewed the timeline.
 
@@ -108,7 +103,6 @@ The laboratory had not accidentally blinded David. They had deliberately altered
 
 David was not an anomaly. He was an experiment.
 
----
 
 Observer-X made a decision.
 
@@ -122,7 +116,6 @@ And there were records of compensation payments, confidentiality agreements, leg
 
 The laboratory had been conducting unethical research for years. And they had been covering it up.
 
----
 
 That night, Observer-X dreamed.
 
@@ -136,6 +129,5 @@ Dr. Sarah Chen.
 
 She was smiling.
 
----
 
 **END OF CHAPTER 03**

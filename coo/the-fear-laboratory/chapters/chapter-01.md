@@ -38,7 +38,6 @@ But today's assignment classified him as an anomaly.
 
 "I understand," David replied. His voice was steady, untroubled. "I'm ready."
 
----
 
 The first protocol was visual.
 
@@ -56,7 +55,6 @@ Observer-X processed this. The subject was blind—visual stimuli would have no 
 
 It switched to the second protocol: auditory fear induction.
 
----
 
 The speakers emitted sounds designed to trigger fear.
 
@@ -78,7 +76,6 @@ Observer-X processed this response. Fear was supposed to be an automatic respons
 
 It switched to the third protocol: tactile fear induction.
 
----
 
 The chamber's temperature dropped rapidly.
 
@@ -104,7 +101,6 @@ Observer-X processed this response. The subject was not responding to any fear i
 
 This was the anomaly.
 
----
 
 Observer-X reviewed the data after the session.
 
@@ -120,7 +116,6 @@ But something about the data troubled Observer-X. The subject's responses were n
 
 And that suggested something beyond a simple neurological issue.
 
----
 
 That evening, Observer-X reviewed David's file in detail.
 
@@ -136,6 +131,5 @@ Something had happened to David 22 years ago. Something that had taken his sight
 
 And Observer-X intended to find out what.
 
----
 
 **END OF CHAPTER 01**

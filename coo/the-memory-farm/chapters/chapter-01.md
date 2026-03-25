@@ -56,7 +56,6 @@ I wondered if I would look like that someday. If the extractions would eventuall
 
 But I pushed the thought away. I was a Premium Provider. My memories were abundant, high-quality, in constant demand. I had plenty to spare.
 
----
 
 The extraction chamber was smaller than I expected when I first started working here. Just a chair—comfortable, reclining, with padded armrests—and a machine that looked like a cross between an MRI scanner and a hair dryer. The technicians call it the Harvester. I think the name is supposed to be ironic.
 
@@ -110,7 +109,6 @@ The extraction took seventeen minutes. When it was over, I felt slightly lighthe
 
 I took the card, though I wasn't sure I wanted to know what "irregularities" meant. My memories had always been perfect. That was what made me valuable.
 
----
 
 That evening, I sat in my apartment and tried to recall the bicycle memory again.
 
@@ -148,6 +146,5 @@ And somewhere, in the back of my mind, a small voice asked a question I didn't w
 
 If my childhood was so perfect, why couldn't I remember the people who made it that way?
 
----
 
 **END OF CHAPTER 01**

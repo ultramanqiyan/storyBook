@@ -120,6 +120,5 @@ Mira met his gaze. She could lie, try to maintain the deception, but she saw in 
 
 Veren nodded slowly, as if confirming a theory he had long suspected. "I thought so. Now tell me everything. Because whatever this is, whatever you've found in that network, it's too important to keep secret. And too dangerous to face alone."
 
----
 
 **Chapter 4 Complete**

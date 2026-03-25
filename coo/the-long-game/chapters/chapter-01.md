@@ -46,7 +46,6 @@ He started typing before he could overthink it.
 
 His fingers flew across the keyboard. This was what he did best—compress timelines, find efficiencies, make the impossible possible. The rush of it was familiar, almost addictive. Every compressed deadline was a validation. Every sprint completed was proof that he could outrun the clock.
 
----
 
 The coffee shop was three blocks from his apartment, a small place with exposed brick and local art on the walls. Michael arrived at 12:30—thirty minutes late, because a call had run over.
 
@@ -84,7 +83,6 @@ Rachel shook her head slowly. "You know what they teach us in residency? That so
 
 "Is it?" She leaned back. "Or is speed just what you're used to?"
 
----
 
 By 6 PM, Michael had shipped the dashboard redesign, restructured the sprint for the accelerated timeline, and responded to forty-three Slack messages. He'd also eaten nothing but a protein bar and drunk four cups of coffee.
 
@@ -99,7 +97,6 @@ But the breathing felt wrong. Too slow. Too still. His mind was already racing a
 
 He picked up his phone and started typing.
 
----
 
 The apartment was quiet now. Michael sat in the dark, the glow of his closed laptop a faint blue light in the corner. He'd made progress today. He always made progress. But it never felt like enough. There was always another deadline, another client, another sprint.
 

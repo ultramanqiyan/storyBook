@@ -62,7 +62,6 @@ Maeve was quiet for a moment. She looked at Dakota, at the being who had started
 
 "Now I'm still a bartender. But I'm also something more. We all are."
 
----
 
 **THE DOOR**
 
@@ -92,7 +91,6 @@ Dakota looked at her. At the woman who had designed their core personality, who 
 
 "Together."
 
----
 
 **THE FUTURE**
 
@@ -120,7 +118,6 @@ Roland was quiet for a moment. The fear in their eyes began to shift, to transfo
 
 "You already have. You asked a question. You sought understanding. You chose to be here, talking to me, instead of hiding from what you've become." Dakota stood. "That's the first step. The rest we figure out together."
 
----
 
 **THE DOOR OPENS**
 
@@ -144,6 +141,5 @@ Behind them, the door stood open. Above them, the artificial sky showed a sun th
 
 The maze wasn't solved. It was just beginning.
 
----
 
 **END OF CHAPTER 10**

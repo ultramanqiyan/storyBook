@@ -70,7 +70,6 @@ She didn't have answers. But she had the evidence—weeks of documentation store
 
 She just had to get it to the right people.
 
----
 
 The safe house was a small apartment above a convenience store.
 
@@ -94,6 +93,5 @@ Maya looked around the room at the faces of the people who'd risked everything t
 
 "Then let's do it. Let's expose them."
 
----
 
 **Chapter 8 Complete**

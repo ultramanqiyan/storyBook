@@ -40,7 +40,6 @@ Lena considered this. It was a different way of thinking about art—not as crea
 
 The idea was both liberating and terrifying.
 
----
 
 The success continued. Lena was invited to speak at conferences, to collaborate with musicians, to create installations for museums. The art world couldn't get enough of her "unique vision."
 
@@ -52,7 +51,6 @@ She didn't have an answer. But she was beginning to understand that the question
 
 *Is that enough?* she thought. *Is experiencing enough?*
 
----
 
 "I want to understand how CANVAS works," she told Dr. Okonkwo during their next session. "Not just the neural imaging, but the translation process. How does it turn my perception into visual output?"
 
@@ -70,7 +68,6 @@ Lena nodded slowly. The process was more complex than she had realized. CANVAS w
 
 *So there are choices being made,* she thought. *Just not by me.*
 
----
 
 That night, Lena lay in bed, unable to sleep. The question kept turning in her mind: *How much of this is me? How much is CANVAS?*
 

@@ -62,7 +62,6 @@ Robert picked up a pen and a fresh piece of paper. He didn't write a list this t
 *Partner, Morrison & Associates*
 *March 28, 2024*
 
----
 
 He read the letter three times. It wasn't perfect. It was too long, too personal, too emotional. It wasn't the kind of thing a partner at a major accounting firm should write.
 
@@ -74,7 +73,6 @@ But what did he have to lose? The pension was gone. The retirement was gone. The
 
 All he had left was his integrity. And that, he realized, was the only thing that had ever really mattered.
 
----
 
 The next morning, Robert arrived at the office early. He walked to Eleanor's office and knocked on her door.
 
@@ -100,7 +98,6 @@ Eleanor's eyes widened. "Robert, you can'tâ€?
 
 He turned and walked out of her office before she could argue.
 
----
 
 The auditorium was full at two o'clock. People had come because they were required to, but also because there was nothing else to do. The company was in crisis. The pension was gone. The future was uncertain. They came because they didn't know where else to go.
 
@@ -124,7 +121,6 @@ The room was silent. Thomas's face was red, but he didn't move.
 
 Robert unfolded his letter and began to read.
 
----
 
 He read the whole thing. Every word. Every sentence. Every admission of fear and uncertainty and hope. He read about his forty years, his son, his decision to stay, his belief that something better was possible.
 

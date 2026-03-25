@@ -44,7 +44,6 @@ I tried to reconstruct the algorithm in my mind. The general shape was there—c
 
 The question opened a door I'd been keeping carefully closed. What else had I accepted without comprehension? What other decisions had I made without thinking? What other code existed in my projects that I couldn't explain, couldn't modify, couldn't truly own?
 
----
 
 I spent an hour scrolling through my history, trying to find the boundary between my thoughts and AI's.
 
@@ -60,7 +59,6 @@ I pushed back from my desk, my heart racing, my palms sweating. The office was e
 
 I looked at the code on my screen—the work I'd done today, the solutions I'd "created," the problems I'd "solved." And for the first time, I couldn't tell where the AI ended and I began. The code was there, functional and correct, but the thinking behind it—the mental journey from problem to solution—was missing. As if someone else had walked the path and left me with the destination.
 
----
 
 The horror crept in slowly, then all at once.
 
@@ -80,7 +78,6 @@ The question echoed in the silence, unanswered, unanswerable. I wanted to believ
 
 I was still there, somewhere. I had to be. But where did Marcus end and CodeForge begin?
 
----
 
 In the reflection of my dark screen, I saw my own face.
 
@@ -96,7 +93,6 @@ The question echoed in the void where my thoughts should have been, growing loud
 
 *Maybe there isn't.*
 
----
 
 *End of Chapter 8*
 

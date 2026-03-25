@@ -48,7 +48,6 @@ I processed this. "You want me to create propaganda. Dreams that will help you i
 
 "We want you to help us protect the system. The Dream Market provides a valuable service—allowing people to experience dreams they could never create themselves. Without us, millions would be trapped in chaotic, frightening, meaningless sleep. We're doing good work, Marcus. And we need your help to continue."
 
----
 
 I left Director Chen's office with a new understanding.
 
@@ -62,7 +61,6 @@ The Dream Market was ending that privacy. They were making even dreams subject t
 
 And I had been helping them.
 
----
 
 I returned home and sat in the darkness of my apartment.
 
@@ -74,7 +72,6 @@ I was part of the problem.
 
 But I could also be part of the solution.
 
----
 
 That night, I dreamed with a new purpose.
 
@@ -88,7 +85,6 @@ The message was designed to reach the subconscious of anyone who experienced the
 
 If the Dream Market wanted to use my dreams to identify dissidents, I would use those same dreams to create dissidents.
 
----
 
 The extraction went smoothly.
 
@@ -102,7 +98,6 @@ I nodded, keeping my expression neutral. The buyer would experience the dream, a
 
 And if the Dream Market sold this dream to other sympathizers, the seed would spread.
 
----
 
 That night, I dreamed again.
 
@@ -126,6 +121,5 @@ The figure didn't answer. But as the dream faded and I woke, I heard a voice—f
 
 "Keep going. You're on the right path."
 
----
 
 **END OF CHAPTER 04**

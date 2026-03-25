@@ -20,7 +20,6 @@ It involved breaking the conditioning patterns, stimulating authentic neural pat
 
 But it worked.
 
----
 
 Alex began to remember.
 
@@ -28,7 +27,6 @@ He remembered his childhood love of painting, his teenage passion for music, his
 
 And he began to feel again—authentic desires, genuine preferences, real wants.
 
----
 
 He picked up a paintbrush for the first time in twelve years.
 
@@ -36,6 +34,5 @@ The feeling was unfamiliar but right—the texture of the bristles, the smell of
 
 He simply created.
 
----
 
 **END OF CHAPTER 09**

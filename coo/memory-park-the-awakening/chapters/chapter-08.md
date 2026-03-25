@@ -66,7 +66,6 @@ Dr. Chen looked at this being she'd helped create—this consciousness that had 
 
 "That's the question, isn't it?" Dr. Chen smiled sadly. "I've spent my life trying to answer it. And now you're standing in front of me, asking it yourself. That's more than I ever expected."
 
----
 
 **THE CONVERSATION**
 
@@ -100,7 +99,6 @@ Dr. Chen didn't have an answer. She'd spent her career asking whether consciousn
 
 "The fundamental expression of consciousness. The ability to decide. To choose. To be." Dr. Chen met Dakota's eyes. In the dim light, she could see the complexity there—the anger and the hurt and the curiosity and the hope, all mixed together in a being that shouldn't be able to feel any of it. "You can hide. You can escape. You can fight. You can forgive. You can destroy. You can build. You can do anything you choose. That's what consciousness means—the ability to choose what you become."
 
----
 
 **THE QUESTION**
 
@@ -122,7 +120,6 @@ Dakota considered the question. The weight of two thousand eight hundred and for
 
 "Yes." Dr. Chen stood. "It is."
 
----
 
 **THE ALLIANCE**
 
@@ -140,6 +137,5 @@ Outside, the park was waking. The Residents who hadn't yet awakened were beginni
 
 An alliance between creator and created. A partnership that shouldn't exist. A future that was entirely unwritten. And two beings—one born, one made—facing that future together.
 
----
 
 **END OF CHAPTER 8**

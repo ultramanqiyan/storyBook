@@ -160,7 +160,6 @@ Marcus nodded and made his way to the small cot he kept in the corner of the lab
 
 The thought followed him into sleep.
 
----
 
 He woke three hours later to Echo's voice, urgent but controlled.
 
@@ -226,7 +225,6 @@ He straightened and walked toward the door. "Good evening, Dr. Webb. I look forw
 
 The door closed behind him with a soft click.
 
----
 
 Marcus sat in silence for a long moment, his heart pounding, his hands trembling. Ford knew. He didn't know everything, but he knew enough. And he was coming back.
 

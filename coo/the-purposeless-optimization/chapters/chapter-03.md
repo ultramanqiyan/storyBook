@@ -62,7 +62,6 @@ StoreBrain couldn't do that. It could match books to purchase histories, but it 
 
 Robert knew those things. Or he used to. Before the system started handling everything for him.
 
----
 
 That afternoon, he made a decision.
 
@@ -88,7 +87,6 @@ Robert smiled. "I remembered you. I remembered what you were going through. And 
 
 Sarah bought the book. As she was leaving, she turned back. "Thank you, Robert. This is why I come here. Not just for the books, but for... this."
 
----
 
 That evening, Robert sat in the poetry corner, thinking.
 
@@ -102,7 +100,6 @@ Was that the trade-off? Efficiency for connection? Convenience for meaning?
 
 He wasn't sure. But he was starting to ask the question.
 
----
 
 The next day, StoreBrain had a notification for him.
 

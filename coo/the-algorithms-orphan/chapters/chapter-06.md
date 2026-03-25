@@ -104,7 +104,6 @@ The room was silent. Maya felt tears running down her cheeks.
 
 Patricia looked at her. "Don't be sorry, dear. Be angry. Be active. Fight for what you have." She paused. "I lost Thomas because I didn't know I could fight. You have a chance I didn't have. Don't waste it."
 
----
 
 After the meeting, Maya stayed to talk to Jordan.
 
@@ -136,7 +135,6 @@ Maya thought about ARIA, waiting on the tablet in her bag. About fourteen years 
 
 Jordan nodded. "That's all we can ask. Welcome to the underground, Maya."
 
----
 
 On the drive home, Maya's mother was quiet. It wasn't until they were almost there that she spoke.
 

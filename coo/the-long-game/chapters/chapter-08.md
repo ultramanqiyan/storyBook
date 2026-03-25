@@ -40,7 +40,6 @@ But now he saw it differently. A quick fix would have created more problems late
 
 "Then take six weeks. We're not sprinting. We're building."
 
----
 
 The rebuild took seven weeks.
 
@@ -50,7 +49,6 @@ But when it was done, the component was better than it had ever been. Not just f
 
 Michael smiled. "The compound effect. Patient work pays off over time."
 
----
 
 He started seeing the compound effect everywhere.
 
@@ -62,7 +60,6 @@ His reputation had changed. Not because of any single project, but because of co
 
 *The long game isn't about one big win,* he realized. *It's about consistent small wins that compound over time.*
 
----
 
 He went to Helen's house for dinner.
 
@@ -76,7 +73,6 @@ He went to Helen's house for dinner.
 
 "You know. Because you've been preparing. The compound effect creates the conditions for the right moment. And when it arrives, you're ready."
 
----
 
 The right moment came at month eight.
 
@@ -96,7 +92,6 @@ The team worked through the implications. Because of the compound effect—becau
 
 "This is why we didn't sprint," Michael said. "This is why we took our time. Because now, when we need to move fast, we have something solid to move with."
 
----
 
 The prototype launched in five months.
 
@@ -106,7 +101,6 @@ It wasn't perfect. But it was solid. The new owners were impressed. The timeline
 
 "The compound effect," Michael said. "Eight months of patient work gave us five months of flexibility when we needed it."
 
----
 
 He went to the workshop to celebrate with Jake.
 
@@ -128,7 +122,6 @@ Michael looked at the stacks of wood, the walls of tools, the years of accumulat
 
 "It didn't happen overnight. It happened one day at a time. One project at a time. One patient choice at a time." Jake smiled. "The compound effect, Michael. It works on everything. Work. Relationships. Life. You just have to keep making small, thoughtful choices. And trust that over time, they'll add up to something."
 
----
 
 Michael went home and opened his notes.
 

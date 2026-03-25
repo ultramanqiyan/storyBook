@@ -161,7 +161,6 @@ Nothing.
 
 He had been warned. Twice. And he had done nothing.
 
----
 
 That night, Mark sat at home, staring at his laptop.
 

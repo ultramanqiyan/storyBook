@@ -82,7 +82,6 @@ There had been only three entries in the past month. The most recent was two day
 
 I memorized the file designation and retreated from the research wing, my heart racing with something that might have been excitement or fear.
 
----
 
 Back in my apartment, I accessed the Enhancement Institute's network through my neural interface.
 
@@ -96,7 +95,6 @@ The file I was looking for was there. "Enhancement Side Effects - Longitudinal S
 
 I opened it.
 
----
 
 The document was long—hundreds of pages of data, analysis, and conclusions. I read it in minutes, my enhanced processing speed absorbing every word.
 
@@ -122,7 +120,6 @@ I thought about the consent forms I had signed, the consultations I had attended
 
 They had known. They had always known. And they hadn't told me.
 
----
 
 I closed the file and sat in the dark, surrounded by the sounds and smells and sights of a world I could now perceive in perfect detail.
 

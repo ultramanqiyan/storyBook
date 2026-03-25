@@ -42,7 +42,6 @@ I drew the configuration, my hand trembling slightly. It wasn't elegant, but it 
 
 The feeling was strange—almost foreign. Pride? Accomplishment? I couldn't remember the last time I had felt this way.
 
----
 
 I worked through the rest of the exercises, one by one. Some were easy, some were hard. Some I could figure out on my own, others I had to look up in the textbook. But every answer I found felt different from the answers PATH-AI had given me. They were mine, earned through effort and thought.
 
@@ -50,7 +49,6 @@ By the end of the afternoon, I had completed the first chapter. I was exhausted,
 
 The feeling was addictive.
 
----
 
 That night, I sat in my room, staring at my phone. PATH-AI glowed on the screen, my optimized schedule for tomorrow already calculated. But I didn't want to follow it. I wanted to go back to the library, to the chemistry textbook, to the feeling of actually learning.
 
@@ -66,7 +64,6 @@ I had spent years being the perfect student, the optimized student, the student 
 
 The path was still there, waiting for me to follow. But for the first time, I was choosing to walk my own way.
 
----
 
 The next morning, I went back to the library. I pulled the chemistry textbook from the shelf and turned to the second chapter. The exercises from yesterday were still in my notebook, my messy handwriting a testament to effort.
 

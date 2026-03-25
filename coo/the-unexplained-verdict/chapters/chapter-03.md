@@ -42,7 +42,6 @@ The thought was terrifying. She'd spent twelve years building her expertise, dev
 
 *What have I done to myself?*
 
----
 
 She didn't tell anyone.
 
@@ -52,7 +51,6 @@ Instead, she kept processing claims, kept signing verdicts, kept pretending that
 
 But inside, she was screaming.
 
----
 
 The distance grew.
 
@@ -64,7 +62,6 @@ She tried to fight it. She started taking notes by hand, recording her observati
 
 But the distance remained—a hollow space where her expertise used to live.
 
----
 
 One evening, she found herself staring at a claim she'd processed that morning.
 
@@ -84,6 +81,5 @@ The realization hit her like a physical blow. She'd processed dozens of claims t
 
 The distance was complete.
 
----
 
 **END OF CHAPTER 3**

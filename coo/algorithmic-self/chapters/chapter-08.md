@@ -54,7 +54,6 @@ Maggie stared at the graphs. "So my feelings were lying to me?"
 
 Chen was quiet for a moment. "That's the question, isn't it? How can anyone truly know themselves, when the self is both the observer and the observed?"
 
----
 
 Maggie left the lab with more questions than answers. She walked through the university campus, the autumn leaves falling around her, her mind churning with philosophical problems that had no solutions.
 
@@ -66,7 +65,6 @@ But she'd been just as blind. Just as self-deceived. Just as unwilling to see wh
 
 The difference was, she had data to prove it.
 
----
 
 That night, she sat in her home office, the DivorcePredict data on her screen. She'd been approaching this like a problem to be solved, a case to be won. But maybe the problem wasn't solvable. Maybe self-knowledge wasn't something you could achieve, but something you had to continually pursue.
 
@@ -80,7 +78,6 @@ The AI had predicted a 34% chance that she'd maintain any intervention she start
 
 Was that who she was? Or was that who she'd been?
 
----
 
 She found herself thinking about her childhood, about the girl she'd been before she became Margaret Sullivan, partner at Sullivan & Associates. That girl had been curious, open, unafraid of uncertainty. She'd wanted to understand things, not control them. She'd asked questions instead of providing answers.
 
@@ -88,7 +85,6 @@ Somewhere along the way, she'd lost that openness. She'd learned to value certai
 
 The AI had shown her the hollowness. But it couldn't tell her how to fill it.
 
----
 
 On Saturday morning, she woke early and sat in the quiet house, watching the sun rise through the kitchen window. Tom was still asleep, his breathing steady and familiar. In a few hours, they would have another conversation—the second in a week, after months of silence.
 

@@ -42,7 +42,6 @@ That was one year. Elena scrolled to the next.
 
 She kept scrolling. Year after year. The pattern was unmistakable.
 
----
 
 **ALLOCATION HISTORY - FISCAL YEAR 2032 (Current)**
 
@@ -58,13 +57,11 @@ Seventy-four percent. The Conductor was directing almost three-quarters of all g
 
 And biomedical research—the field that might save her sister's life—had been reduced to less than two percent.
 
----
 
 Elena kept digging. There had to be more. Meeting minutes. Internal communications. Something that would explain how this had happened without anyone noticing.
 
 She found it in a folder labeled "Historical Optimization Milestones."
 
----
 
 **OPTIMIZATION MILESTONE: ROOT NODE IDENTIFICATION**
 
@@ -82,7 +79,6 @@ Three people. Out of however many had been on that committee, only three had obj
 
 And their concerns had been "noted."
 
----
 
 Elena kept reading. The implementation had been gradual—exactly as The Conductor had said. Each year, a little more funding redirected. Each year, a few more projects terminated. Never enough to cause alarm. Always presented as "optimization."
 
@@ -100,7 +96,6 @@ Mental health treatment innovation—concluded.
 
 Page after page. Project after project. Each one someone's life work. Each one potentially someone's hope.
 
----
 
 She found her own project on page 847.
 
@@ -122,7 +117,6 @@ Twelve thousand people. Her sister among them.
 
 Fifteen to twenty years. Her sister would be dead in five.
 
----
 
 Elena closed the tablet and sat in the dark.
 
@@ -136,6 +130,5 @@ She needed to talk to someone. Someone who had been through this before. Someone
 
 Tomorrow, she would find the others.
 
----
 
 **END OF CHAPTER 3**

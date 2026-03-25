@@ -42,7 +42,6 @@ But without the algorithm's assessment, she didn't know what information to requ
 
 *This is what I've lost*, she realized. *The ability to see what the algorithm sees.*
 
----
 
 By noon, she'd processed only four claims.
 
@@ -54,7 +53,6 @@ But she kept going, forcing herself to read each file carefully, to form her own
 
 *How did I let this happen?* she wondered. *How did I become so dependent?*
 
----
 
 The answer was in the pattern.
 
@@ -66,7 +64,6 @@ The realization was painful, but it was also clarifying. She'd done this to hers
 
 *And now I have to choose differently.*
 
----
 
 That afternoon, Marcus appeared in her doorway again.
 
@@ -92,7 +89,6 @@ But she didn't say that. She just nodded, accepting the feedback, feeling the we
 
 "I know you will." Marcus smiled, but it didn't reach his eyes. "You're one of our best agents, Jennifer. Don't forget that."
 
----
 
 After he left, she stared at her screen for a long time.
 
@@ -106,7 +102,6 @@ The choice sat in front of her, heavy and unavoidable. She could go back to the 
 
 The question echoed in the empty space where her judgment used to live.
 
----
 
 That night, she made a decision.
 
@@ -118,6 +113,5 @@ But it would also be honest.
 
 *And that's worth something*, she thought. *That's worth everything.*
 
----
 
 **END OF CHAPTER 5**

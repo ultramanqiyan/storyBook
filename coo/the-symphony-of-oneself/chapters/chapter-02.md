@@ -70,7 +70,6 @@ The agreement they reached was simple:
 
 And Maya, for the first time in her life, let someone else look through her eyes.
 
----
 
 The sensation was strange—like watching a movie while also being in it. Selene saw colors more brightly, noticed small details Maya would have missed. A flower growing through a crack in the sidewalk. A child's laughter from an open window. The way sunlight caught dust motes in the air.
 

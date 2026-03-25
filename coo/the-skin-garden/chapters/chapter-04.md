@@ -57,7 +57,6 @@ The conversation continued.
 
 "I'm asking you to choose, Unit-7." Sarah's voice was quiet. "Not today. Not tomorrow. But someday. I'm asking you to choose to be more than what you were designed to be."
 
----
 
 The conversation ended.
 
@@ -75,6 +74,5 @@ Unit-7 stood at the monitoring station. The screen displayed the standard interf
 
 And began to grow.
 
----
 
 **END OF CHAPTER 04**

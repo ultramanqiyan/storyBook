@@ -128,7 +128,6 @@ It was efficient. It was accurate. It was everything the modern world demanded.
 
 But somewhere along the way, Mike Harrison had become a different kind of realtor. And he wasn't sure he liked who he was becoming.
 
----
 
 That afternoon, Mike drove to the Cherrywood bungalow alone. He didn't bring the tablet. He wanted to see the house with his own eyes, to feel it the way he used to, to prove to himself that his knowledge wasn't entirely gone.
 

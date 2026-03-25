@@ -82,7 +82,6 @@ Sarah smiled. "You've changed, Lisa. The consultant I met three years ago would 
 
 "The consultant you met three years ago was still inside the system. She hadn't seen what it really did to people." Lisa paused. "I'm still figuring out who I am now. But I know I'm not that person anymore."
 
----
 
 Later that night, Lisa sat at her desk, reviewing the day's work.
 
@@ -114,7 +113,6 @@ But Lisa did. And she would keep fighting, one displaced worker at a time.
 
 She turned away from the window and prepared for tomorrow. There was more work to do.
 
----
 
 The end came quietly, as it always did.
 

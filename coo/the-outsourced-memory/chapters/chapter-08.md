@@ -54,7 +54,6 @@ The weight of it pressed down on him, heavy and suffocating. He'd done this to h
 
 *And now I can't remember who I used to be.*
 
----
 
 He heard footsteps in the hallway and quickly gathered the files, shoving them back into their folders. The office was waking up, colleagues arriving with coffee and conversation, the familiar rhythms of a workday.
 
@@ -80,7 +79,6 @@ Instead, he sat at his desk and tried to remember.
 
 He closed his eyes and reached for the memory.
 
----
 
 He was thirty-five years old, standing in a house that would later become one of his most memorable sales. The property was old, built in the 1950s, with all the character and complications that came with age. The floors creaked. The windows rattled. The foundation had settled in ways that would have scared off most agents.
 
@@ -94,7 +92,6 @@ They'd trusted him. Not because the data said so, but because he'd walked throug
 
 *That's who I used to be*, he thought. *That's what I've lost.*
 
----
 
 The memory faded, and Mike opened his eyes to the fluorescent lights of his office. The house was gone. The clients were gone. The version of himself who could read a house with his body was gone.
 
@@ -114,7 +111,6 @@ The gesture was small, almost insignificant. But it felt like the first real cho
 
 The question sat in the empty space where his expertise used to live, unanswered but no longer ignored.
 
----
 
 He spent the rest of the morning in the file room.
 
@@ -132,7 +128,6 @@ He read his own handwriting, marveling at the specificity of it. This was knowle
 
 *I used to pay attention*, he thought. *I used to notice things. I used to be present.*
 
----
 
 He worked through the files slowly, each one a reminder of who he'd been.
 
@@ -152,7 +147,6 @@ He closed the file and sat in the quiet of the file room, surrounded by decades 
 
 He didn't know. But for the first time in months, he wanted to try.
 
----
 
 That afternoon, he did something he hadn't done in years.
 
@@ -180,7 +174,6 @@ It was a small observation, the kind of thing the algorithm would have told him 
 
 *Maybe I can learn again*, he thought. *Maybe I can become the person I used to be.*
 
----
 
 He walked through the house for an hour, trying to notice everything.
 
@@ -204,7 +197,6 @@ He closed the app and stood in the empty living room, feeling the afternoon ligh
 
 *This is who I want to be again.*
 
----
 
 He drove home in the fading light, the houses of Austin passing in a blur of familiar streets he was learning to see again. The Millers' place with the oak tree. The Hendersons' old house. The Johnson property that had been on the market too long because of the foundation issues.
 
@@ -212,6 +204,5 @@ He drove home in the fading light, the houses of Austin passing in a blur of fam
 
 And maybe, just maybe, he was starting to remember.
 
----
 
 **END OF CHAPTER 8**

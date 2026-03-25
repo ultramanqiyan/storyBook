@@ -28,7 +28,6 @@ I nodded, not trusting my voice. I was afraid that if I spoke, I would start cry
 
 We walked together through the Archive District, my ordinary eyes taking in the weathered buildings, the narrow streets, the people going about their ordinary lives. Everything seemed different now—not because it had changed, but because I had.
 
----
 
 We ended up in a small park I had never noticed before, tucked between two old buildings. There was a bench beneath a tree that was just beginning to turn autumn colors, and Maya sat down and opened her violin case.
 
@@ -36,7 +35,6 @@ We ended up in a small park I had never noticed before, tucked between two old b
 
 She lifted her violin to her chin and began to play.
 
----
 
 The music was unlike anything I had heard from her before. It started softly—a single note, sustained and pure, like a question asked in an empty room. Then more notes joined, building a melody that seemed to tell a story.
 
@@ -48,7 +46,6 @@ And then the music shifted. The minor key turned major, the slow tempo accelerat
 
 I was crying again—not from the hollow observation of tears, but from the overwhelming fullness of feeling. The music was beautiful, and I could feel it, and that was the greatest gift I had ever received.
 
----
 
 When Maya finished, the silence that followed was filled with everything I had lost and found again.
 
@@ -60,7 +57,6 @@ I stood and took her in my arms, holding her the way I had held her before the E
 
 "I'm back," I said. "I'm really back."
 
----
 
 We sat on the bench together as the afternoon faded into evening, talking about everything and nothing. I told her about the procedure—the fear, the uncertainty, the dream of playing music with crystal keys. She told me about the weeks of waiting, the fear that I wouldn't survive, the hope that kept her going.
 
@@ -72,7 +68,6 @@ But I had gained something infinitely more valuable.
 
 I had gained my soul.
 
----
 
 As the sun set, painting the sky in colors I could no longer see in ultraviolet and infrared, I felt a peace I hadn't known since before the Enhancement. Not the hollow calm of optimized existence, but the real peace that comes from accepting who you are, limitations and all.
 
@@ -90,7 +85,6 @@ Maya smiled. "I'd like to hear that."
 
 "Always," she said. "Always."
 
----
 
 We walked back through the darkening city, her violin case over her shoulder, my hand in hers. The streets were filled with ordinary people living ordinary lives, and for the first time since the Enhancement, I felt like one of them.
 
@@ -98,7 +92,6 @@ Not better. Not worse. Just human.
 
 And that was enough.
 
----
 
 That night, I returned to my apartment and sat at my piano. The Steinway gleamed in the dim light, its keys waiting for my touch.
 
@@ -118,7 +111,6 @@ And when I finally stopped, the silence that followed was filled with something 
 
 Peace.
 
----
 
 I stood at the window of my apartment, looking out at the city I could no longer see in ultraviolet and infrared. The lights were just lights—ordinary, human, limited.
 

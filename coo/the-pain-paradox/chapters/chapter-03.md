@@ -123,7 +123,6 @@ Sarah couldn't answer. She was crying—for the first time in her adult life, sh
 
 *This,* she thought, her hand pressed against her chest where her heart was pounding. *This is what being alive feels like.*
 
----
 
 They let her rest after that. Dr. Vasquez gave her water, checked her vitals, asked her questions about what she'd experienced. Sarah answered as best she could, but her mind was somewhere else—still reeling from the intensity of what she'd felt.
 

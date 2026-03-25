@@ -83,7 +83,6 @@ Sarah thought about that. Thirty-four years of living, and she still didn't know
 
 *Maybe I will now,* she thought. *Maybe that's what this is for.*
 
----
 
 She didn't tell Michael about the procedure. She told herself it was because she needed time to process, because she didn't want to worry him, because she wasn't ready to explain. But the truth was simpler: she didn't want to share it. This feeling—this new, overwhelming, terrifying, wonderful feeling—was hers. The first thing that had ever truly been hers.
 
@@ -107,7 +106,6 @@ He accepted that, the way he always accepted her deflections. She wondered somet
 
 Sarah wasn't sure if that was a compliment or an observation. She wasn't sure of anything anymore.
 
----
 
 That night, after Michael fell asleep, Sarah went into the bathroom and locked the door. She stood in front of the mirror and began her inventory, but this time, she didn't just catalogue the damage. She asked ARIA to translate each mark, each bruise, each small injury her body had accumulated without her knowledge.
 

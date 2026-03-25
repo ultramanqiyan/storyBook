@@ -30,7 +30,6 @@ Marcus went next.
 
 Maya understood. Marcus wasn't created by trauma—he was activated by it. The part of her that protected had always existed. It just needed a reason to emerge.
 
----
 
 Iris spoke third.
 
@@ -42,7 +41,6 @@ Iris spoke third.
 
 Maya realized she had been mourning her lost creativity for years. She hadn't lost it—it had been preserved in Iris.
 
----
 
 Logan was fourth.
 
@@ -52,7 +50,6 @@ Logan was fourth.
 
 *I exist because someone needed to make sense of things,* Logan said. *When the world didn't make sense, I found patterns. I found logic. I found a way to understand.*
 
----
 
 Nora went fifth.
 
@@ -62,7 +59,6 @@ Nora went fifth.
 
 *Because someone has to,* Nora said. *When we're hurt, we close off. We stop connecting. I keep the part of us that knows how to love.*
 
----
 
 Phoenix was sixth.
 
@@ -72,7 +68,6 @@ Phoenix was sixth.
 
 *So I fight back,* Phoenix agreed. *I hold the part of us that refuses to accept less than we deserve.*
 
----
 
 Sage went last.
 
@@ -82,7 +77,6 @@ Sage went last.
 
 *You are not seven fragments, Maya. You are one whole, expressed in seven ways. Each of us is a facet of the same diamond. We are not broken. We are prismatic.*
 
----
 
 That night, Maya dreamed.
 

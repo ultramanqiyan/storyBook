@@ -118,7 +118,6 @@ He wasn't ready. Not yet.
 
 But he was getting closer.
 
----
 
 That night, he dreamed about choices.
 
@@ -138,7 +137,6 @@ He woke up with a sense of clarity he hadn't felt in months.
 
 He knew what he had to do.
 
----
 
 The next morning, he arrived at the office early.
 
@@ -186,7 +184,6 @@ He stared at the send button.
 
 Then he clicked it.
 
----
 
 The response came that afternoon.
 
@@ -218,7 +215,6 @@ Maybe the AI could write better emails. But it couldn't write *his* emails. It c
 
 And maybe that was enough.
 
----
 
 He looked at the SalesPilot interface, still open on his screen.
 

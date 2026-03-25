@@ -131,7 +131,6 @@ David stared at the floor. The idea was terrifying. And also... liberating.
 
 "One decision. That's all."
 
----
 
 That night, David sat in his apartment, thinking about the conversation.
 

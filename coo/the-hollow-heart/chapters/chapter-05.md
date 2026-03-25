@@ -30,7 +30,6 @@ She looked the same—dark hair pulled back in a loose ponytail, expressive eyes
 
 "I don't know. More present, somehow. And less." She stepped aside. "Come in."
 
----
 
 Her apartment was exactly as I remembered it—cluttered, warm, filled with the artifacts of a creative life. Sheet music on every surface. Her violin on its stand by the window. Books stacked in precarious towers. The smell of coffee, old and new, layered through the space.
 
@@ -48,7 +47,6 @@ She nodded, her expression shifting to concern. I could see the worry forming in
 
 "I think something went wrong with my Enhancement."
 
----
 
 I told her everything.
 
@@ -74,7 +72,6 @@ I couldn't finish the sentence. I couldn't say that I couldn't feel her love, he
 
 Because that would mean admitting that I had lost something I wasn't sure I could ever get back.
 
----
 
 "Play for me," she said suddenly.
 
@@ -100,7 +97,6 @@ I could hear everything. The melody singing above the arpeggiated accompaniment.
 
 And I felt nothing.
 
----
 
 When I finished, the silence stretched between us.
 
@@ -130,7 +126,6 @@ I wanted to believe her. I wanted to feel the hope that her words were meant to 
 
 "I've always seen you." She smiled through her tears. "Even when you couldn't see yourself."
 
----
 
 I left Maya's apartment as the sun was setting, the sky painted in colors I could now perceive in their full electromagnetic spectrum. Ultraviolet and infrared, wavelengths I had never seen before, added depth to the sunset that no unenhanced human could experience.
 

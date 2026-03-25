@@ -75,7 +75,6 @@ The offer was genuine. David could see it in Marcus's face. But asking for help 
 
 Marcus hesitated, then walked away. David watched him go, feeling the familiar isolation of his own making.
 
----
 
 The Meridian call the next day was worse than David had imagined.
 
@@ -107,7 +106,6 @@ The call ended with vague promises to follow up. David sat alone in the conferen
 
 *They're right. I'm not premium. I'm not even adequate. I'm just... lost.*
 
----
 
 That night, David stayed late.
 

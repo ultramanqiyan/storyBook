@@ -69,7 +69,6 @@ She'd been in this industry long enough to see the changes coming. Robo-advisors
 
 Was this another step toward replacing that?
 
----
 
 The meeting room was full when Sarah arrived.
 
@@ -97,7 +96,6 @@ Sarah felt the tightness in her chest again. Draft communications in her voice. 
 
 What happened to the hours she spent actually thinking about her clients?
 
----
 
 After the meeting, Sarah returned to her office.
 

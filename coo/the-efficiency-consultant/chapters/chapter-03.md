@@ -110,7 +110,6 @@ She'd said those exact words to clients. She'd used them to justify layoffs, res
 
 Now she was beginning to see the market as something else: a machine that consumed people and called it efficiency.
 
----
 
 That evening, Lisa stayed late at the office. Most of her colleagues had gone home, but she wanted more time with APEX-7. She needed to understand what she was dealing with.
 

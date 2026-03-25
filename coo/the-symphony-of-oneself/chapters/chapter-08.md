@@ -40,7 +40,6 @@ Marcus spoke next.
 
 *Yes,* Marcus agreed. *I remember when Maya was thirty-five. Her first real job. Her first heartbreak. Her first failure. I helped her through all of it. I keep her safe still.*
 
----
 
 Iris was third.
 
@@ -54,7 +53,6 @@ Iris was third.
 
 *Yes,* Iris said. *I remember when Maya was twenty-eight. She fell in love for the first time. She saw beauty in everything. I keep that memory alive.*
 
----
 
 Logan was fourth.
 
@@ -68,7 +66,6 @@ Logan was fourth.
 
 *Yes,* Logen agreed. *I remember when Maya was forty-two. Her first major discovery. Her first time she felt she truly understood something. I keep that pride alive.*
 
----
 
 Nora was fifth.
 
@@ -82,7 +79,6 @@ Nora was fifth.
 
 *Yes,* Nora agreed. *I remember when Maya was thirty-one. Her first time she helped someone who couldn't help her back. Her first time she understood that kindness is strength. I keep that warmth alive.*
 
----
 
 Phoenix was sixth.
 
@@ -96,7 +92,6 @@ Phoenix was sixth.
 
 *Yes,* Phoenix agreed. *I remember when Maya was thirty-eight. Her first time she stood up for herself. Her first time she refused to be silenced. I keep that fire alive.*
 
----
 
 Sage was last.
 
@@ -110,7 +105,6 @@ Sage was last.
 
 *Yes,* Sage agreed. *I remember when Maya was born. Before any of us existed. Before any of this happened. I am the beginning, the middle, and the end. I am the thread that ties everything together.*
 
----
 
 Maya looked at each of her selves in turn.
 
@@ -138,7 +132,6 @@ Maya looked at each of her selves in turn.
 
 *We are...* Selene whispered. *A symphony.*
 
----
 
 The audience sat in silence. Then, slowly, applause began.
 

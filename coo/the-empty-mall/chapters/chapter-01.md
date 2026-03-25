@@ -72,7 +72,6 @@ The products were beautiful. The prices were reasonable. The store was perfect.
 
 And no one wanted any of it.
 
----
 
 Back in his office, James pulled up the historical data. He'd been tracking foot traffic, sales, and customer demographics for years, building a database that could predict seasonal patterns with remarkable accuracy.
 
@@ -88,7 +87,6 @@ He stared at the chart. Better products, more money, stable employment—and few
 
 It didn't make sense.
 
----
 
 That afternoon, he met with Elena, the mall's marketing director.
 
@@ -110,7 +108,6 @@ Elena didn't have an answer. Neither did James.
 
 They sat in silence, the hum of the air conditioning the only sound in the office.
 
----
 
 That evening, James walked the mall one last time before closing.
 

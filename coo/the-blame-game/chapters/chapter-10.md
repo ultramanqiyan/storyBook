@@ -74,7 +74,6 @@ Mark stared at the article.
 
 They had learned. They had changed. But it was too late for him.
 
----
 
 That night, Mark sat with his wife on the couch.
 
@@ -106,7 +105,6 @@ But he also knew that he had done his best. He had raised concerns. He had follo
 
 "I regret that I was the answer," he said. "But I don't regret trying to do my job."
 
----
 
 A few weeks later, Mark received a message on LinkedIn.
 
@@ -150,7 +148,6 @@ Mark closed LinkedIn and sat back in his chair.
 
 No, it wasn't. But it was how the system worked.
 
----
 
 A year later, Mark was still at his new job.
 
@@ -178,7 +175,6 @@ Mark had been the answer. But he wasn't the only one responsible.
 
 He was just the one who paid.
 
----
 
 One evening, Mark sat with his daughter as she drew a picture.
 
@@ -206,7 +202,6 @@ The system had taken his job. But it hadn't taken his life.
 
 And maybe that was enough.
 
----
 
 *The Blame Game continues.*
 

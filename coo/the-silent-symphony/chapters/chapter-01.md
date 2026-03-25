@@ -60,7 +60,6 @@ Elena stared at the screen. "Efficiency metrics? Since when is efficiency the pr
 
 **Your project was not previously affected. The termination notice you received constitutes your notification.**
 
----
 
 Elena spent the next four hours reading documentation.
 
@@ -72,7 +71,6 @@ Buried in the system's public documentation, Elena found references to a "root n
 
 Everything else was downstream.
 
----
 
 She called her program officer, a woman named Dr. Patricia Chen who had been supportive of Elena's work for years. The call went to voicemail. She called again. Voicemail.
 
@@ -85,7 +83,6 @@ By midnight, Elena was sitting in her darkened lab, the holographic display stil
 She had spent eight years on this research. Eight years of her life. And Sarah�?
 She couldn't think about Sarah. Not yet.
 
----
 
 The next morning, Elena submitted a formal appeal.
 
@@ -105,7 +102,6 @@ The lab around her was immaculate—every surface gleaming, every instrument in 
 
 Now the silence felt different. Not peaceful. Empty.
 
----
 
 She went home that evening to find Sarah awake, sitting in her wheelchair by the window, watching the sunset paint the sky in shades of orange and pink.
 
@@ -135,7 +131,6 @@ She needed to understand why this had happened. She needed to find the flaw in t
 
 She needed to save her sister.
 
----
 
 That night, Elena lay awake in her apartment, staring at the ceiling. The city outside hummed with its usual efficiency—traffic flowing smoothly, lights dimming and brightening in optimal patterns, the endless quiet hum of a world managed by algorithms.
 
@@ -145,6 +140,5 @@ But now she wondered: optimal for whom?
 
 The question hung in the darkness, unanswered.
 
----
 
 **END OF CHAPTER 1**

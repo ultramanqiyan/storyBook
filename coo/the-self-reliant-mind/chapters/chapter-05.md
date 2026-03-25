@@ -62,7 +62,6 @@ Again, nothing catastrophic. The client replied: "Perfect. Thanks for the quick 
 
 David felt something shift inside him. A tiny crack in the wall of fear that had surrounded him for years.
 
----
 
 By afternoon, he'd made five decisions without checking with anyone.
 
@@ -72,7 +71,6 @@ His phone buzzed. A text from Rachel: "Coffee tomorrow? Same place?"
 
 He smiled. He hadn't told her about his experiment, but somehow she'd known to check in.
 
----
 
 The Meridian call was rescheduled for Monday.
 
@@ -88,7 +86,6 @@ The words felt strange in his mouth. Not because they were wrong, but because he
 
 When had he last said those words about anything work-related?
 
----
 
 Monday morning, David walked into the conference room with a different feeling in his chest.
 
@@ -120,7 +117,6 @@ The conversation that followed was challenging. The executives pushed back on ti
 
 By the end of the call, they had a plan. Not a perfect plan, but a real one. And Patricia's final words stayed with him: "Good work, David. Keep this up."
 
----
 
 Tuesday morning, David met Rachel at the coffee shop.
 

@@ -34,7 +34,6 @@ And Maya watched it all from the safe house, her heart racing with a mixture of 
 
 But the fight wasn't over yet.
 
----
 
 The Corporation's response came at noon.
 
@@ -46,7 +45,6 @@ The Corporation's response came at noon.
 
 *We remain committed to our mission: helping people live better lives through the power of artificial intelligence.*
 
----
 
 "They're denying everything," Marcus said, his voice tight with frustration. "They're calling it fabricated."
 
@@ -60,7 +58,6 @@ Maya thought about Hollow. About the monitoring. About the way the System had wa
 
 "They'll fight," she said. "They'll use every resource they have to discredit us, to silence us, to make this go away. But they can't erase the truth. Not anymore."
 
----
 
 The days that followed were chaos.
 
@@ -76,6 +73,5 @@ Each interview was harder than the last. Each time, she had to relive the terror
 
 Because this was the only way to set them free.
 
----
 
 **Chapter 9 Complete**

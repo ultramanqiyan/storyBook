@@ -56,7 +56,6 @@ I lay down on the table. The surface was cold against my enhanced skin, and I co
 
 She smiled—a sad, knowing expression. "That's the bravest kind of courage there is."
 
----
 
 The anesthesia began to flow into my arm, and I felt my enhanced body fighting it—my optimized metabolism processing the drug faster than normal. Dr. Vasquez adjusted the dosage, and the world began to blur.
 
@@ -68,7 +67,6 @@ The last thing I perceived before unconsciousness claimed me was the sound of my
 
 Then the darkness came, and I let it take me.
 
----
 
 I dreamed.
 
@@ -90,7 +88,6 @@ The music built to a crescendo, and I was crying—really crying, not just the p
 
 And then the dream began to fade.
 
----
 
 I woke to light and sound and sensation—too much of all three.
 
@@ -102,7 +99,6 @@ I was ordinary.
 
 And I was crying.
 
----
 
 "Kai?" A voice—Maya's voice—cut through the chaos. "Kai, can you hear me?"
 
@@ -118,7 +114,6 @@ Love. Not the intellectual understanding of love that I had carried since the En
 
 She burst into tears, and I cried with her—not because I could observe her sadness, but because I could share it. Because I was human again. Because the hollow was finally, finally filled.
 
----
 
 Dr. Vasquez appeared beside the bed, her expression carefully neutral. "The procedure was successful," she said. "Your vital signs are stable. Sensory function is within normal human range. Emotional response..." She paused. "Well, you tell me."
 

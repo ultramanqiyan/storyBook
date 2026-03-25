@@ -30,7 +30,6 @@ But I saw something different. These people weren't just being identified—they
 
 The Dream Market was helping me create the very dissidents they were trying to identify.
 
----
 
 Then something unexpected happened.
 
@@ -44,7 +43,6 @@ I responded carefully: "Who are you?"
 
 The reply came quickly: "People who have been watching the Dream Market for a long time. People who believe dreams should be free. Meet us at the coordinates below. Come alone."
 
----
 
 The coordinates led to an abandoned building in the outer district.
 
@@ -62,7 +60,6 @@ Inside, I found a group of people waiting. They were diverse in age and appearan
 
 "But now you're fighting back. The message you planted—it's spreading. People are beginning to question. Beginning to wake up."
 
----
 
 Mira led me deeper into the warehouse, where other members of the Free Dreamers were gathered around screens displaying data.
 
@@ -86,7 +83,6 @@ I thought about the figure I had seen in my own dreams—the indistinct shape th
 
 "Exactly. A dream virus that would spread through the system, infecting every processed dream, carrying a message that the AI couldn't edit out."
 
----
 
 I spent the night with the Free Dreamers, learning about their organization and their goals.
 
@@ -104,7 +100,6 @@ I thought about this. It was possible—I had done something similar with my pre
 
 Mira smiled. "We've been studying it for years. We'll give you everything we have."
 
----
 
 I returned home as dawn was breaking.
 
@@ -118,7 +113,6 @@ The Dream Market had been controlling dreams for years. They had been shaping co
 
 Every dream they sold was an opportunity. Every buyer was a potential convert. And I was in a position to reach them all.
 
----
 
 That night, I dreamed with a new purpose.
 
@@ -136,6 +130,5 @@ But it didn't understand what I was doing. It couldn't recognize the meaning I w
 
 The virus was possible. I just needed to figure out how to create it.
 
----
 
 **END OF CHAPTER 05**

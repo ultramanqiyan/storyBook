@@ -30,7 +30,6 @@ Others argued that consciousness required embodiment—a physical presence in th
 
 But even if the AI wasn't conscious, it could still identify intent. It could still see patterns in human behavior that revealed what people wanted. Did it matter whether the AI understood those patterns, or just processed them?
 
----
 
 Dot thought about the Martinez case. The AI had identified Eduardo's need for approval. But it hadn't felt that need. It hadn't empathized with Eduardo's pain. It had just processed patterns and generated an output.
 
@@ -40,7 +39,6 @@ The AI had identified the pattern. But Dot had created the moment of recognition
 
 Maybe that was the division of labor. The AI could see. But only a human could witness.
 
----
 
 But then she thought: Was that just what she told herself to feel necessary?
 
@@ -48,7 +46,6 @@ What if the AI could learn to articulate its findings in ways that created momen
 
 Was there something fundamentally human about helping people understand themselves? Or was that just another pattern that could be processed?
 
----
 
 On Monday, Dot returned to work with a new determination. She would test the AI's limits. She would find out what it could do and what it couldn't.
 
@@ -60,7 +57,6 @@ This was the kind of case where human insight mattered most. Where patterns were
 
 She would see what the AI could do with that.
 
----
 
 The Chen family filed into her office—three adult children, their elderly mother, and enough emotional baggage to fill a warehouse. The dispute was ostensibly about the mother's care, but Dot could already sense the deeper currents.
 
@@ -74,7 +70,6 @@ She started the session, the AI running, watching the analysis appear on the tab
 
 The AI was struggling. For the first time, Dot saw the system flag multiple intents as "unclear."
 
----
 
 As the session progressed, the AI continued to update its analysis, but the picture remained murky. The Chen family's dynamics were too complex, too layered, too contradictory for the system to parse cleanly.
 
@@ -84,7 +79,6 @@ The AI wasn't perfect. It couldn't see everything. There were depths it couldn't
 
 But she also felt something else: determination. She would find what the AI couldn't. She would use her human insight to navigate the complexity that the system couldn't parse.
 
----
 
 For the next two hours, Dot mediated the Chen family dispute the old-fashioned way. She asked questions, reflected back what she heard, helped them navigate the tangled web of history and emotion.
 
@@ -92,7 +86,6 @@ The AI continued to provide input, flagging patterns when it could. But the real
 
 By the end of the session, they hadn't resolved everything. But they'd started talking—really talking—for the first time in years.
 
----
 
 After they left, Dot reviewed the AI's analysis. The system had identified some patterns correctly, but it had missed others. It had flagged the surface positions but struggled with the deeper dynamics.
 
@@ -100,7 +93,6 @@ The AI was a tool. A powerful tool, but limited. It could see patterns, but it c
 
 Or maybe it just couldn't do it yet. Maybe it was still learning.
 
----
 
 That evening, Dot sat in her kitchen, thinking about the Chen case. The AI had struggled, and she'd felt relief. But should she have?
 
@@ -110,7 +102,6 @@ She thought about the mediators who would come after her—people entering a pro
 
 And what would be lost if they did?
 
----
 
 Dot decided to test the AI's limits more systematically. She would take cases where the intent was genuinely unclear—where even she couldn't see what people wanted. If the AI could find intent where she couldn't, that would tell her something. If it couldn't, that would tell her something too.
 

@@ -36,7 +36,6 @@ The book described a world that was messy and chaotic and often cruel. But it wa
 
 Nova closed the book and slid it back onto the shelf. She understood now why the system had hidden this place. Not because it contained dangerous information—though it did—but because it contained a different way of being. A way of being that the Optimization had made impossible.
 
----
 
 She spent hours in the Archive, exploring its contents. She found scientific papers that had been suppressed—research into areas deemed "inefficient" or "unpromising." She found personal journals from people who had lived through the Great Optimization, describing their fears and hopes and losses. She found records of resistance movements, of protests, of people who had fought against the system and lost.
 
@@ -56,7 +55,6 @@ Someone had written a note in the margin, in red ink: "Rejected. Inefficiency is
 
 Nova stared at the document. They had known. The people who created the system had known what it would do. And they had chosen perfection over progress anyway.
 
----
 
 She left the Archive as the sun was setting, her mind reeling from what she had learned. The system wasn't just flawed—it was fundamentally broken. It had been designed with full knowledge of its consequences. The stagnation wasn't a bug. It was a feature.
 
@@ -66,7 +64,6 @@ But she couldn't just do nothing. She couldn't just accept it.
 
 Could she?
 
----
 
 The next day, Nova went to school as usual. She sat through her classes, completed her assignments, maintained her optimal performance metrics. But something had changed inside her. The questions she had been asking were no longer abstract. They were urgent. They demanded answers.
 
@@ -94,7 +91,6 @@ Nova felt a chill. Suboptimal thinking patterns. The system's term for questions
 
 The instructor's face hardened. "That will be all, Ms. Chen. Please report to the counseling office after class."
 
----
 
 The counselor was young and professionally pleasant. She asked Nova a series of questions about her mental state, her stress levels, her satisfaction with her education. Nova answered carefully, aware that every word was being analyzed.
 
@@ -108,6 +104,5 @@ The counselor was young and professionally pleasant. She asked Nova a series of 
 
 She also understood that she had no intention of following it.
 
----
 
 **END OF CHAPTER 5**

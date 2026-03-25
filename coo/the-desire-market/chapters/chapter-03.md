@@ -18,7 +18,6 @@ Decades of data, stored in layers of servers, protected by encryption and access
 
 He found a reference in a budget allocation.
 
----
 
 "Project Reshape - Phase 3: Subject Recruitment and Modification"
 
@@ -26,7 +25,6 @@ The name meant nothing to Alex. But the word "modification" sent a chill through
 
 He searched for more information about Project Reshape.
 
----
 
 The files were heavily redacted.
 
@@ -34,7 +32,6 @@ Most of the content had been removed, leaving only fragments: budget allocations
 
 Project Reshape had been a program to modify human desires.
 
----
 
 Alex felt his hands trembling.
 
@@ -42,7 +39,6 @@ He had suspected something was wrong, but he hadn't expected this. The Desire Ma
 
 Including his own.
 
----
 
 He found a list of subjects.
 
@@ -50,7 +46,6 @@ There were hundreds of names, each one a person whose desires had been "reshaped
 
 "Subject A-47: Creative drives suppressed. Analytical drives enhanced. Career trajectory redirected toward decoder role. Integration: successful."
 
----
 
 Alex read his own file in horror.
 
@@ -58,13 +53,11 @@ His entire life—his career, his preferences, his personality—had been engine
 
 Every desire he had felt for the past twelve years was manufactured.
 
----
 
 He closed the file and sat in silence.
 
 The question that had haunted him—why were his desires so predictable?—now had an answer. They were predictable because they had been designed to be predictable. He was not a person with authentic desires. He was a product.
 
----
 
 But something didn't make sense.
 
@@ -72,7 +65,6 @@ If his desires were manufactured, why was he now investigating them? Why was he 
 
 Unless something had gone wrong.
 
----
 
 Alex searched for information about modification failures.
 
@@ -82,6 +74,5 @@ Alex's name was not on the list.
 
 But he was beginning to suspect it should be.
 
----
 
 **END OF CHAPTER 03**

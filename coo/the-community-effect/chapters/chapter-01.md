@@ -48,7 +48,6 @@ Then she set down her phone and looked around her apartment. The dishes from las
 
 But somewhere deep inside, a voice whispered: *Is it?*
 
----
 
 The afternoon brought a problem.
 
@@ -68,7 +67,6 @@ She drafted a response—professional, understanding, leaving the door open for 
 
 But the weight of handling it alone felt heavier than it should have.
 
----
 
 That evening, Maya sat on her couch, her laptop open, scrolling through freelance forums and Facebook groups.
 
@@ -92,7 +90,6 @@ Not with her business. Not with her apartment. Not with her career.
 
 With her.
 
----
 
 Before bed, she checked her phone one more time.
 

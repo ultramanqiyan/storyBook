@@ -78,7 +78,6 @@ Sarah reached out and took the woman's hand. The skin was cool, the fingers frag
 
 "Mrs. Chen," she said, "I think I know what's going on."
 
----
 
 The diagnosis came together like pieces of a puzzle. The joint pain, worse in the mornings, improving with movement—classic rheumatoid arthritis. The fatigue, the low-grade fever, the general malaise—all consistent. But there was something else, something the data would have missed: the depression, the loneliness, the woman who had lost her purpose.
 
@@ -102,7 +101,6 @@ Mrs. Chen's eyes widened. "You're not like other doctors."
 
 Sarah felt a lump in her throat. "I'm trying to," she said. "I'm trying to remember how."
 
----
 
 The on-call room was empty. Sarah sat on the narrow bed, the encounter with Mrs. Chen still fresh in her mind. She had made a diagnosis today—not from the tablet, but from listening. Not from probabilities, but from a story.
 

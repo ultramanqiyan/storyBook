@@ -100,7 +100,6 @@ Sarah nodded, but the words echoed in her mind: *It won't happen again.* She was
 
 "You may go."
 
----
 
 The cafeteria was crowded when Sarah walked in. She spotted Dr. James Chen at a table near the window, eating alone. They had been friends once, had trained together, had covered for each other during brutal residency shifts. She considered joining him.
 
@@ -120,7 +119,6 @@ What if it happened again? What if the system went down during a critical moment
 
 She pushed her food away, appetite gone.
 
----
 
 She volunteered for the night shift.
 

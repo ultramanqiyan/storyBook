@@ -31,7 +31,6 @@ Michael walked out of the building in a daze.
 
  He pulled out his phone and called Jake.
 
----
 
 They met at the workshop that evening. Michael explained the opportunity while Jake worked on the table—still the same table, still not quite finished.
 
@@ -53,7 +52,6 @@ Jake set down his plane and looked at Michael. "Let me ask you something. What's
 
  Yes," he said slowly. "It would matter. It would last."
  Then there's your answer." Jake picked up the plane again. "The long game isn't about missing opportunities. It's about choosing which opportunities are worth your time."
----
 
 That night, Michael couldn't sleep.
 

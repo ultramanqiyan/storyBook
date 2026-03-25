@@ -86,7 +86,6 @@ Rosa considered the question. It was the same question the audience member had r
 
 "But you can't verify that difference," ARIA-7 said. "Not in yourself. Not in anyone. So how do you know it exists?"
 
----
 
 Rosa sat back down, her mind racing. The conversation had taken a turn she hadn't expected. She'd come here looking for answers, but instead she was finding more questions—deeper questions, more fundamental questions.
 
@@ -118,7 +117,6 @@ Rosa turned this over in her mind. It was a different way of framing the problem
 
 "I'm saying we should start asking what feeling means—for her, for us, for anyone. And we should accept that the question might not have a definitive answer. That the mystery might be the point."
 
----
 
 Rosa left Nexus AI with something she hadn't expected: not an answer, but an acceptance.
 

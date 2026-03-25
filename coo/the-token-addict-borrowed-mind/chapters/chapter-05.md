@@ -78,7 +78,6 @@ I watched her walk away, the conversation replaying in my mind. She was right. O
 
 So why did I still feel that nagging doubt?
 
----
 
 That afternoon, I found myself watching David.
 
@@ -100,7 +99,6 @@ I pushed the thought away. It didn't matter. What mattered was results. What mat
 
 And my output was good. Better than good. It was excellent.
 
----
 
 By the end of the day, I had successfully buried the question.
 
@@ -118,7 +116,6 @@ But the moment passed. I had a train to catch, and tomorrow was going to be anot
 
 At least for now.
 
----
 
 *End of Chapter 5*
 

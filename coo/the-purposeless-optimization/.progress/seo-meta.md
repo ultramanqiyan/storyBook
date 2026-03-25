@@ -9,21 +9,21 @@
 ## Book-Level SEO
 
 ### Primary Keywords
-- purpose vs efficiency - 目的与效率相�?- AI optimization - AI优化相关
-- human purpose - 人类目的相关
-- intentional living - 有意义的生活相关
-- meaning crisis - 意义危机相关
+- purpose vs efficiency
+- AI optimization
+- human purpose
+- intentional living
+- meaning crisis
 
 ### Secondary Keywords
-- AI decision making - AI决策
-- purposeful action - 有目的的行动
-- optimization without meaning - 无意义的优化
-- human intention - 人类意向
-- AI goals - AI目标
-- authentic purpose - 真实目的
-- meaning in work - 工作中的意义
-
-- purpose loss - 目的丧失
+- AI decision making
+- purposeful action
+- optimization without meaning
+- human intention
+- AI goals
+- authentic purpose
+- meaning in work
+- purpose loss
 
 ### Long-tail Keywords
 - philosophical novel about AI and purpose

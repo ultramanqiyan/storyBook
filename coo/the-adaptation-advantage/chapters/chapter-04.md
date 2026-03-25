@@ -60,7 +60,6 @@ Elena touched Alex's arm gently. "It's been a stressful time," she said to Mark.
 
 But Alex could feel the judgment in the room. The awkward silence that followed. The sense that he'd revealed something he shouldn't have.
 
----
 
 That night, after they got home, Elena sat Alex down.
 
@@ -88,7 +87,6 @@ Alex looked at his wife—really looked at her. He'd been so focused on his own 
 
 "I didn't stop fighting. I just started fighting for something different." Elena met his eyes. "Instead of fighting to keep things the same, I started fighting to learn the new system. To understand how it could make me better. To find the opportunity in the change."
 
----
 
 The next morning, Alex went to work with a different mindset.
 
@@ -112,7 +110,6 @@ He started to see the patterns. The underlying principles that weren't so differ
 
 *It's not completely foreign,* he realized. *It's a different application of the same fundamentals.*
 
----
 
 That afternoon, Alex sat in Dr. Wong's office and shared what he'd learned.
 

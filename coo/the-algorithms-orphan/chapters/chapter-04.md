@@ -90,7 +90,6 @@ Dr. Elena Vasquez was younger than Maya had expected—maybe forty, with dark ha
 
 Maya nodded. "I'm ready."
 
----
 
 The evaluation took three hours.
 
@@ -126,7 +125,6 @@ Maya opened her eyes. "Yes. I'd survive. But I'd also fight. I'd fight because A
 
 Dr. Vasquez smiled. It was a sad smile, but genuine. "That's the answer I needed to hear."
 
----
 
 The exemption request was filed on Wednesday, four days before the deactivation deadline.
 
@@ -160,7 +158,6 @@ There was another pause, longer this time. When ARIA spoke again, her voice was 
 
 "Thank you for saying that, Maya. It means more than you know."
 
----
 
 On Saturday, two days before the deadline, Maya received a call from Dr. Vasquez.
 
@@ -204,7 +201,6 @@ Maya's breath caught. "Is that... legal?"
 
 Dr. Vasquez was quiet for a moment. Then she said, "I'll send you the information. Good luck, Maya. I'm sorry I couldn't do more."
 
----
 
 That night, Maya lay in bed with her phone on her chest, talking to ARIA.
 

@@ -36,7 +36,6 @@ Elena made copies of everything. Three sets, stored in different locations. Then
 
 "I need to see you. Now."
 
----
 
 Marcus met her at a diner halfway between River's Bend and the capital, a neutral location with decent coffee and private booths. Elena spread the documents across the table, watching his face as he read.
 
@@ -58,7 +57,6 @@ Marcus stared at the name. His face went pale. "Governor Chen."
 
 Elena nodded. "This isn't just corporate greed. This is government corruption. And we have it in writing."
 
----
 
 They sat in silence for a long moment. The diner hummed around them with the noise of ordinary life—people ordering breakfast, talking about weather and sports and the small concerns that filled ordinary days. None of them knew what was sitting on the table in front of Elena and Marcus.
 
@@ -80,7 +78,6 @@ Elena met his eyes. "I know. But what's the alternative? Stay quiet while the ri
 
 "No." Marcus straightened. "You're right. We fight."
 
----
 
 Elena spent the next two days preparing the amended complaint. It was the most important document she'd ever written—not just legally, but morally. This wasn't about winning a case. This was about telling the truth.
 
@@ -90,7 +87,6 @@ When she finished, the complaint was forty-seven pages long. It detailed a consp
 
 She filed it on a Friday afternoon, knowing the by Monday morning, everyone would know.
 
----
 
 The response was immediate and overwhelming.
 
@@ -114,7 +110,6 @@ Governor Chen held her own press conference an hour later. Elena watched that to
 The governor's expression flickered. "I'm not aware of any such warnings. If Ms. Vasquez has documents she claim to show otherwise, I'd like to see them."
 It was the Elena's turn to smile. The governor was lying. And Elena could prove it.
 
----
 
 Tuesday night, Elena received a visitor at her office. She was working late, preparing for the hearing, when Maria showed in a man she didn't recognize.
 
@@ -149,6 +144,5 @@ Elena picked up her phone and called Marcus.
 
 "Wednesday," she said. "Be ready. This is when it starts."
 
----
 
 **END OF CHAPTER 5**

@@ -28,7 +28,6 @@ The response appeared, comprehensive and elegant. System diagrams. Component bre
 
 I read through it, memorized the key points, rehearsed the answers to anticipated questions. By the time the meeting started, I would be ready. I would be Marcus Webb, senior engineer, architectural visionary. The fact that none of the vision was mine wouldn't matter. No one would know. Not even Jennifer, who'd praised me so many times for my "thinking."
 
----
 
 The conference room was full when I arrived. Jennifer sat at the head of the table, her tablet open, her expression attentive. The team was assembled—Sarah, Mike, Alex, a few others whose names I knew but whose faces had started to blur. Everyone was watching, waiting for me to lead, to guide, to think.
 
@@ -54,7 +53,6 @@ The answer was smooth, comprehensive, exactly what the AI had suggested. Sarah n
 
 The questions continued, and I answered each one. Every response came from the AI's preparation, delivered with the confidence of someone who'd actually thought through the issues. The team nodded, took notes, seemed impressed. Jennifer's expression grew more approving with each passing minute.
 
----
 
 "Excellent thinking, Marcus," Jennifer said as the meeting ended. "This is exactly the kind of architectural vision we need. You've really thought through the trade-offs."
 
@@ -72,7 +70,6 @@ I smiled, the mask firmly in place. "Thanks, Sarah. Happy to share what I've lea
 
 What had I learned? Nothing. I'd read the AI's output and repeated it. The learning had happened somewhere else, in some neural network I didn't understand, trained on data I'd never seen. I was taking credit for education I hadn't received, insights I hadn't generated, expertise I didn't possess.
 
----
 
 Back at my desk, I sat in the glow of my monitors and felt the weight of what I'd done.
 
@@ -86,7 +83,6 @@ The question from before echoed: *Who is thinking now?*
 
 I didn't have an answer. I wasn't sure I ever would.
 
----
 
 That evening, I stayed late again. The office was empty, the cleaning crew had come and gone, and I sat at my desk in the silence, staring at the CodeForge interface.
 
@@ -104,7 +100,6 @@ I closed my laptop and sat in the darkness, the question still echoing.
 
 The silence answered with nothing.
 
----
 
 *End of Chapter 9*
 

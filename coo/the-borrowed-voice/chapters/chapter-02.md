@@ -119,7 +119,6 @@ But as he reached for his cracked mug, he noticed something. The coffee didn't t
 
 He couldn't put his finger on what was different. But something was.
 
----
 
 That night, he dreamed about voices.
 

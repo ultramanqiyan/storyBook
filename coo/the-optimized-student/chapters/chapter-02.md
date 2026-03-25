@@ -68,7 +68,6 @@ Zoe shrugged. "I read about it. In a book. Last year, when I was curious about h
 
 "I'm fine," I cut her off. "I just need the system to come back online."
 
----
 
 The system came back at 6:47 PM, just as I was sitting down to dinner. My phone buzzed with the familiar notification: "PATH-AI is back online. Your optimized learning path has been updated."
 
@@ -84,7 +83,6 @@ But somewhere, in the hollow place inside me, a question was forming:
 
 What if the path was leading me somewhere I didn't want to go?
 
----
 
 That night, I dreamed of blank screens.
 

@@ -150,7 +150,6 @@ Maya thought about it. She thought about Patricia, who had lost Thomas. About Sa
 
 "Then that's what we'll do. Together."
 
----
 
 That night, Maya received another email. This one wasn't from a journalist.
 

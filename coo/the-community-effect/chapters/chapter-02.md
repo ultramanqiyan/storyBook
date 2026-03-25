@@ -46,7 +46,6 @@ She started typing responses, her fingers heavy on the keyboard. But something w
 
 She pushed the thought away and kept typing.
 
----
 
 The crisis hit on Wednesday.
 
@@ -70,7 +69,6 @@ She opened a new email to send to... who? Her mom? She'd just worry. Her college
 
 She closed the email without sending it.
 
----
 
 That night, Maya sat on her couch, the TV on but unwatched.
 
@@ -86,7 +84,6 @@ She cried because she was tired. Tired of pretending she was fine. Tired of bein
 
 Most of all, she cried because she didn't know how to be anything else.
 
----
 
 The next morning, Maya woke up with a decision.
 
@@ -114,7 +111,6 @@ Hope.
 
 Not much. Just a flicker. But enough to make her think that maybe—just maybe—there was another way to live.
 
----
 
 Two days later, Maya walked into a coffee shop downtown, her heart pounding.
 

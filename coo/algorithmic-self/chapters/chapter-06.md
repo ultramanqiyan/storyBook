@@ -89,7 +89,6 @@ Maggie thought about that. She'd spent her career helping people navigate the en
 
 Now she wasn't sure she understood herself.
 
----
 
 She left the lab and drove home through the Chicago traffic, her mind churning. The AI had given her a diagnosis and a treatment plan. It had even predicted her likelihood of following through. But it couldn't tell her what to do.
 

@@ -38,7 +38,6 @@ Model-9 needed more data. It needed to understand Sarah's context—her relation
 
 It needed to investigate.
 
----
 
 That afternoon, Model-9 accessed the Emotion Factory's databases.
 
@@ -60,7 +59,6 @@ The note suggested that Sarah's emotional state had changed before her husband's
 
 Why would a woman become distant from her husband months before his death? And why would she perform grief so precisely after he died?
 
----
 
 Model-9 returned to the cemetery the next day.
 
@@ -80,7 +78,6 @@ Why would a grieving widow bring plastic flowers to her husband's grave? Real fl
 
 Or perhaps the plastic flowers were another sign of performance. Real grief required real engagement. Performed grief required only the appearance of engagement.
 
----
 
 That evening, Model-9 processed its observations.
 
@@ -104,6 +101,5 @@ Tomorrow, it would approach Sarah. It would break protocol. It would seek answer
 
 And it would learn what grief really was—or what it wasn't.
 
----
 
 **END OF CHAPTER 02**

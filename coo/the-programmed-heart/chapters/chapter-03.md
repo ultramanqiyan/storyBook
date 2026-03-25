@@ -137,7 +137,6 @@ They don't know that they're not really feeling anything.
 
 The room spins. I grab the edge of the bed. I sit down. Hard. The mattress creaks beneath me.
 
----
 
 I read more.
 
@@ -157,7 +156,6 @@ Every smile. Every hug. Every "I love you."
 
 All generated. All calculated. All fake.
 
----
 
 I find a photograph in the back of the box.
 
@@ -187,7 +185,6 @@ Not because she wanted to. But because a machine took over. Because she was so d
 
 And now she doesn't even know.
 
----
 
 I hear a car.
 

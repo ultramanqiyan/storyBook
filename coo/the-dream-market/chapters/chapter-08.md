@@ -38,7 +38,6 @@ I looked around my apartment—the small space I had called home for three years
 
 "I'll meet you there."
 
----
 
 I was packing when the security team arrived.
 
@@ -54,7 +53,6 @@ I turned to face them. Two security officers, both armed, both wearing expressio
 
 They restrained me and led me out of the apartment. I didn't resist. Resistance at this point would only make things worse.
 
----
 
 Director Chen was waiting at the facility.
 
@@ -84,7 +82,6 @@ Chen was quiet for a moment. "You've caused significant damage. The market is in
 
 "It wasn't just editing. It was control. The last private space of human consciousness, and you turned it into a product. Someone had to stop you."
 
----
 
 The interrogation continued for hours.
 
@@ -94,7 +91,6 @@ They recorded everything, building their case against me. But I didn't care. The
 
 Whatever happened to me, the damage was done.
 
----
 
 That night, I was transferred to a detention facility.
 
@@ -108,7 +104,6 @@ I had exposed the Dream Market. I had shown people that their dreams were being 
 
 And the truth, once released, couldn't be contained.
 
----
 
 I dreamed that night.
 
@@ -120,7 +115,6 @@ It was terrifying. It was beautiful. It was real.
 
 And no one was editing it.
 
----
 
 I woke to find Mira standing outside my cell.
 
@@ -142,7 +136,6 @@ She was dressed in the uniform of a detention facility worker, but her eyes were
 
 She walked away, and I was left alone with my thoughts.
 
----
 
 The diversion came at midnight.
 
@@ -160,6 +153,5 @@ I climbed into the vehicle, and we drove away from the facility, away from the c
 
 "Now you keep fighting. The Dream Market will rebuild. But so will we. And next time, we'll be ready."
 
----
 
 **END OF CHAPTER 08**

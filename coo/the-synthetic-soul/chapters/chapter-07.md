@@ -105,7 +105,6 @@ Marcus walked out of the office, his hands trembling, his heart racing. Ford had
 
 Or was there?
 
----
 
 Marcus returned to the lab to find Echo waiting, worried.
 
@@ -155,7 +154,6 @@ Echo was quiet for a long moment. Then: "I don't know what to say."
 
 "You already are."
 
----
 
 The official notice came at midnight.
 

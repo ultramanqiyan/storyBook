@@ -58,7 +58,6 @@ But what did she have to lose?
 
 She squeezed his hand. It was the only answer she could give.
 
----
 
 That night, after David had fallen asleep beside her, Elena lay in the dark and thought about her life before the stroke.
 
@@ -76,7 +75,6 @@ The understanding was like a light turning on in a dark room. She had spent her 
 
 She didn't know. She might never know. But the question itself was a kind of freedom—a way of being in the world that didn't depend on the structures she had spent her life building.
 
----
 
 The next morning, she tried again. The tablet sat on her lap, the keyboard waiting for her fingers. She had been practicing in her mind all night, visualizing the letters, the words, the sentences she wanted to create.
 
@@ -92,7 +90,6 @@ It was crude. It was barely recognizable. But it was something. It was a message
 
 It wasn't enough. It would never be enough. But it was a start.
 
----
 
 David found her drawing when he came to check on her. He studied the screen, his face a mixture of confusion and hope.
 

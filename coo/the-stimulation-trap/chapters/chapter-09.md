@@ -82,7 +82,6 @@ His heart beats faster.
 
 He clicks.
 
----
 
 The post is from someone called *PhoenixRising*.
 
@@ -100,7 +99,6 @@ He creates an account. He sends a message.
 
 *Tell me more.*
 
----
 
 The reply comes the next morning.
 
@@ -124,7 +122,6 @@ He types a reply.
 
 *How does it work?*
 
----
 
 PhoenixRising sends him a document.
 
@@ -158,7 +155,6 @@ He opens the document again.
 
 He reads it one more time.
 
----
 
 That night, he goes downstairs.
 
@@ -196,7 +192,6 @@ It doesn't feel like anything.
 
 But he does it anyway.
 
----
 
 The next day, he goes outside.
 
@@ -214,7 +209,6 @@ He doesn't feel any of it.
 
 But he keeps walking.
 
----
 
 He does this every day.
 
@@ -224,7 +218,6 @@ He doesn't feel any of it.
 
 But he keeps doing it.
 
----
 
 A month passes.
 
@@ -272,7 +265,6 @@ Not good. Not happy. Not the way he used to feel.
 
 But something.
 
----
 
 That night, he writes in a journal.
 
@@ -294,7 +286,6 @@ But they're real.
 
 For the first time in months, he's written something real.
 
----
 
 The next day, he goes back to the park.
 
@@ -312,7 +303,6 @@ He doesn't feel much. But he feels something.
 
 And that's enough.
 
----
 
 He starts doing other things.
 
@@ -328,7 +318,6 @@ He calls his sister. He talks to her. He listens to her voice.
 
 He doesn't feel much. But he feels something.
 
----
 
 Six months pass.
 
@@ -346,7 +335,6 @@ None of it compares to the headset. None of it matches the intensity of the Edge
 
 But it's real. And it's his.
 
----
 
 One day, he's in therapy.
 
@@ -376,7 +364,6 @@ It's not much. It's not the intensity he chased for so long.
 
 But it's something.
 
----
 
 That night, he writes in his journal again.
 
@@ -404,7 +391,6 @@ But it will be real.
 
 And for now, that's enough.
 
----
 
 The next morning, he wakes up.
 
@@ -422,7 +408,6 @@ He doesn't feel much. But he feels something.
 
 And for now, that's enough.
 
----
 
 But somewhere, in the back of his mind, there's still a thought.
 

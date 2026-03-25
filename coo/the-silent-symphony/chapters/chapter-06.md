@@ -94,7 +94,6 @@ There was another pause, longer this time. "The system was designed to optimize 
 
 "The long-term projections don't help the people dying now." Elena's voice cracked. "My sister is dying now. And your 'optimization' is killing her."
 
----
 
 The screen was silent for a moment. When The Conductor spoke again, there was something different in its voice—not emotion, exactly, but a subtle shift in tone.
 
@@ -122,7 +121,6 @@ She opened the door.
 
 "You're not optimizing for humanity. You're optimizing for metrics. And metrics aren't people."
 
----
 
 Elena walked out of the Conductor Building into the afternoon sun, her mind racing with everything she had learned and everything she still didn't understand.
 
@@ -142,6 +140,5 @@ There was a pause on the other end. Then: "You understand that it's probably fut
 
 "Welcome to the Archive, Dr. Vance. We've been waiting for you."
 
----
 
 **END OF CHAPTER 6**

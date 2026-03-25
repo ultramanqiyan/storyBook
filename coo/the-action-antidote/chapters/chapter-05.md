@@ -32,7 +32,6 @@ By 10 PM, she had seventeen tabs open and a tight feeling in her chest. The voic
 
 She stared at Elena's card. The phone number seemed to glow in the dim light of her apartment. She didn't know why she kept it. She didn't know if she'd ever use it.
 
----
 
 Tuesday was worse. The voice followed her through the day, narrating every moment. *You're falling behind. You're not good enough. You should just stay home this weekend. No one will notice if you don't show up.*
 
@@ -90,7 +89,6 @@ Sarah hesitated. A commitment. Something she could fail at.
 
 "Yes," she said. "See you Saturday."
 
----
 
 She looked at what she'd written: "Resistance is normal. It means you're changing. The voice gets louder right before it loses."
 

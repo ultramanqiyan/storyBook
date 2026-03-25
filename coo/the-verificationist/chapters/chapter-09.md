@@ -82,7 +82,6 @@ Director Harrison looked at James.
 
 "Especially if it might destroy the agency. Because then we'd have to decide: Is what we do worth doing honestly? Or is it only worth doing if we can pretend it's something else?"
 
----
 
 Director Harrison nodded slowly.
 

@@ -49,7 +49,6 @@ Sterling smiled. "Convenient. Anonymous sources making serious allegations witho
 
 Judge Harrison studied Elena for a long moment. "I'll admit the documents provisionally, subject to verification of authenticity. But Ms. Vasquez, you'll need more than documents. You'll need testimony from someone who can speak to what they show."
 
----
 
 After the hearing, Elena stood outside the courthouse, her hands shaking. The judge had given her a chance—barely. She had two weeks to find a witness willing to testify. Two weeks to convince David Park to put his family at risk.
 
@@ -57,7 +56,6 @@ Her phone buzzed. A text from an unknown number: "They know about Park. Be caref
 
 Elena felt ice run down her spine. NeuralCore had found the whistleblower. And now they were warning her off.
 
----
 
 The drive back to River's Bend took an hour. Elena spent it replaying the hearing, the arguments, the judge's skeptical expression. She had made progress—barely—but NeuralCore was pushing back hard.
 
@@ -75,7 +73,6 @@ Elena pulled over to the side of the road and turned on her radio. A news anchor
 
 Elena turned off the radio. They were attacking her personally now. Not just the case—her.
 
----
 
 By evening, the story had spread across every news outlet in the state. "Environmental Lawyer Under Ethics Cloud" read one headline. "Questions Raised About Vasquez's Methods" read another. The anonymous sources—clearly from NeuralCore's PR team—were painting Elena as a rogue lawyer who would do anything to win.
 
@@ -83,7 +80,6 @@ Her office phone rang constantly. Clients calling to ask if she was trouble. Oth
 
 Elena ignored them all. She focused on what mattered: finding David Park before NeuralCore did.
 
----
 
 She drove to the address Park had given her, the first meeting—a small apartment complex on the edge of River's Bend. The door was answered by a woman with a young child on her arms.
 
@@ -103,7 +99,6 @@ Elena handed her woman her card. "If he contacts you, have him call me. Day or n
 
 But as she walked back to her car, Elena knew the Park wouldn't be calling. He was in hiding. And she had just lost her best witness.
 
----
 
 The community center was half-full that which was somehow worse than if it had been empty. The people who came were ones who still cared, who still believed there was something worth fighting for. But Elena could see the doubt in their faces, the fear in their eyes.
 
@@ -123,7 +118,6 @@ Elena felt the weight of their desperation. They were right—slow wasn't good e
 
 "I know you're tired," Elena said. "I know you're scared. But giving up won't save your farms. Giving up won't bring back the water. The only chance we have is to keep fighting. And I promise you—I will fight with everything I have."
 
----
 
 After the meeting, Elena stood outside the community center, watching the last of the residents drive away. The night was clear and cold, the stars bright above the dark valley. Somewhere in the distance, she could see the lights of NeuralCore's facility, a constant glow that never dimmed.
 
@@ -139,7 +133,6 @@ Sarah was quiet for a moment. "Because this is home. Because my family built som
 "You said you saw someone who would fight."
 Sarah nodded. "I still see that. Whatever NeuralCore throws at us, whatever the courts decide—you're a fighter, Elena. Don't let them make you forget that."
 
----
 
 The next attack came on Monday. Elena was in her office when she received notice of a bar complaint filed against her. The allegations were vague—unprofessional conduct, improper acquisition of evidence, conflict of interest—but the intent was clear. NeuralCore was trying to get her disbarred.
 
@@ -153,7 +146,6 @@ Maria's face went pale. "Can they do that?"
 Elena thought about giving up. About walking away, finding easier cases, safer clients. About the life she could have if she stopped tilting at windmills.
 Then she thought about the dry riverbed, the dying farms, the hope in Sarah Miller's eyes.
 "We fight," she said. "We fight harder."
----
 
 The bar complaint was the first salvo in what became a war of attrition. Over the next two weeks, NeuralCore filed motion after motion—requests for more information, challenges to jurisdiction, demands for clarification. Each one required a response, each one took hours to prepare, each one drained resources Elena didn't have.
 
@@ -161,7 +153,6 @@ But she kept going. She responded to every motion, attended every hearing, made 
 It wasn't victory. But it wasn't defeat either. It was slow, grinding progress—the kind of legal system designed to favor those with patience and persistence.
 And Elena had both.
 
----
 
 Three weeks after filing the injunction, Elena received a call from an unexpected source. The voice on the other end was male, older, with a slight accent she couldn't place.
 
@@ -171,7 +162,6 @@ Elena felt her guard go up. "What can I do for you, Mr. Chen?"
 "When?"
 "Tomorrow, if possible. At her office in the capital."
 Elena thought about the permits that had been fast-tracked, the environmental reviews that had been waived, the connections between NeuralCore executives and state officials. "I'll be there."
----
 
 The governor's office was in the state capital, a two-hour drive from River's Bend. Elena made the trip early the next morning, arriving before the building was fully open. She was shown to a conference room with a view of the city skyline and told to wait.
 Governor Margaret Chen arrived twenty minutes later. She was smaller than Elena had expected, with silver hair and sharp eyes that seemed to take in everything at once. She wore a navy suit and sensible shoes, the uniform of a practical politician.
@@ -189,6 +179,5 @@ Chen leaned forward. "Ms. Vasquez, I'm offering you a way to help your clients. 
 Elena stood up. "Governor, I appreciate your time. But I'm not interested in a settlement that lets NeuralCore continue destroying the valley while paying off the victims. I'm interested in stopping them."
 She walked out of the office knowing she'd just made a powerful enemy.
 
----
 
 **END OF CHAPTER 4**

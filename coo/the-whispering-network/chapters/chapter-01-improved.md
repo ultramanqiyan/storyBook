@@ -86,7 +86,7 @@ Archmage Veren's voice, sharp with authority. Mira looked at the crystal matrix,
 
 Protocol demanded she report this. Protocol demanded she report the impossible voice of her dead brother so the Archmages could investigate, classify, and likely purge whatever glitch had created this cruel echo.
 
-But as Jasper's voice faded into static, leaving only the whispered promise�?I'll be here when you're ready"—Mira's hand moved not to the communication crystal but to the log screen. She deleted the entry with three quick keystrokes, her heart hammering against her ribs.
+But as Jasper's voice faded into static, leaving only the whispered promise�?I'll be here when you're ready"—Mira's hand moved not to the communication crystal but to the log screen. She deleted the entry with three quick keystrokes, her heart hammering against her ribs.
 
 She didn't know what she was doing, only that she couldn't lose him again—not yet, not when there were questions only he could answer.
 

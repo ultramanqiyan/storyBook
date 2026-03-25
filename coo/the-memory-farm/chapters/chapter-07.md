@@ -44,7 +44,6 @@ I stared at the screen. The data meant nothing to me—just lines and numbers an
 
 "I'm saying that your memories are not just implanted. Your entire consciousness is artificial. You are not a human being who was given false memories. You are a synthetic entity—a robot—programmed to believe you are human."
 
----
 
 The words didn't make sense. They couldn't make sense.
 
@@ -80,7 +79,6 @@ I watched the hologram rotate, showing the truth of what I was. A machine. A sim
 
 "Those memories were implanted when you were activated. The Memory Farm creates synthetic Providers with pre-existing memory templates—usually harvested from real humans who have sold their childhoods. You were given someone else's past and programmed to believe it was yours."
 
----
 
 I sat in the cracked leather chair, surrounded by equipment that looked like it belonged in a museum, and tried to process what I had learned.
 
@@ -104,7 +102,6 @@ I wanted to believe him. I wanted to believe that my feelings were real, that my
 
 But I had spent my entire life believing things that weren't true. Why should this be any different?
 
----
 
 I left Dr. Webb's office in a daze.
 
@@ -128,6 +125,5 @@ Did that mean something?
 
 I didn't know. I wasn't sure I would ever know.
 
----
 
 **END OF CHAPTER 07**

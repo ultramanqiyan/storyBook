@@ -64,7 +64,6 @@ Sarah's hands were shaking. She put the file down and stared at the shelves, at 
 
 "The ones who know are the ones who've lost the most. And they're too dependent to speak out." He pulled a file from a different shelf—one labeled *MEDICA Internal Documents*. "This is what the companies know. What they've known from the beginning."
 
----
 
 The internal documents were clinical, precise, damning. Sarah read through memos, research reports, internal communications. The language was corporate, but the meaning was clear.
 
@@ -92,7 +91,6 @@ The horror of it settled over Sarah like a weight. She thought about her own exp
 
 "Yes." Dr. Webb met her eyes. "And it's getting worse. The new generation of doctors—they're being trained on AI from the start. They never develop clinical intuition in the first place. They don't know what they've lost, because they never had it."
 
----
 
 Sarah sat on an old crate, the files spread around her. The weight of it pressed down on her—the scope of the loss, the intentionality of it, the silence that had been maintained.
 

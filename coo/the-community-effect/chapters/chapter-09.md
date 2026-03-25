@@ -58,7 +58,6 @@ She hadn't asked for this. Hadn't expected this. Hadn't known that people would 
 
 *This is what community does,* she thought. *This is what it's for.*
 
----
 
 The next three days were a blur.
 
@@ -74,7 +73,6 @@ Now, she was watching her community hold her entire life together while she held
 
 *This is what I was missing,* she thought. *Not just people. Not just connection. But a safety net. A team. A family I chose.*
 
----
 
 When Maya returned to Denver four days later, her grandmother was stable and recovering.
 
@@ -106,7 +104,6 @@ It felt like a place where people cared. Where she belonged. Where she could be 
 
 And that made all the difference.
 
----
 
 That night, Maya called her mom.
 

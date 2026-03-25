@@ -70,7 +70,6 @@ Resignation.
 
 "They're wearing uniforms," I said. "Like workers. Like..." The realization hit me. "Like Memory Farm workers."
 
----
 
 The memory continued. The device on my forehead hummed and glowed. The adults in masks worked efficiently, their movements practiced and precise. And my parents—my real parents—watched from the corner, tears streaming down their faces.
 
@@ -100,7 +99,6 @@ The images flowed into me, filling the spaces where my real memories had been. I
 
 And my real parents—my original parents—watched from the corner as their daughter was erased and replaced.
 
----
 
 When the memory ended, I was crying.
 
@@ -132,6 +130,5 @@ I sat in the old leather chair, surrounded by equipment that looked like it belo
 
 They were stolen goods.
 
----
 
 **END OF CHAPTER 05**

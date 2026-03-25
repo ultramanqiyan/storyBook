@@ -94,7 +94,6 @@ Dr. Reyes studied me for a long moment. Then he sighed and set down his tablet.
 
 I wanted to push further, to demand more answers. But I could see that Dr. Reyes had already said more than he intended. His professional mask was back in place, and any further questions would be deflected with technical jargon and reassurances.
 
----
 
 I walked home through streets that seemed different somehow. The buildings were the same—the gray concrete, the flickering streetlights, the occasional splash of color from a storefront sign. But my perception of them had shifted. Everything felt slightly unreal, as if I was seeing the world through a filter that I couldn't quite remove.
 
@@ -112,6 +111,5 @@ Something was wrong. Not just with my memories, but with the entire system that 
 
 And I was going to find out what it was.
 
----
 
 **END OF CHAPTER 03**

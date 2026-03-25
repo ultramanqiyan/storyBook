@@ -30,7 +30,6 @@ Eduardo was quiet for a long moment. When he spoke, his voice was thick. "It wou
 
 The AI flagged: *Intent confirmed. Primary intent is parental approval.*
 
----
 
 Dot turned to Carlos. "And you, Carlos—what would it mean to you if Eduardo told you he didn't need your approval? That he was his own man, that he'd proven himself already?"
 
@@ -42,7 +41,6 @@ Carlos was quiet. Then, quietly: "It would mean I'm done. It would mean I have n
 
 The AI flagged: *Intent confirmed. Primary intent is continued relevance.*
 
----
 
 The room was silent. The AI had identified the real conflict in seconds. It had taken Dot thirty minutes of careful questioning to confirm what the system had seen.
 
@@ -52,7 +50,6 @@ Carlos didn't want to keep the farm. He wanted to feel like he still mattered.
 
 The inheritance dispute was a proxy for needs neither had articulated—perhaps because neither had recognized them in themselves.
 
----
 
 For the next hour, Dot helped the Martinez family navigate the real issues. Not the property division, but the emotional dynamics that had made the property division impossible to resolve.
 
@@ -60,7 +57,6 @@ By the end of the session, they hadn't solved everything. But they'd started a d
 
 "Thank you," Carlos said quietly as they prepared to leave. "I don't think we would have gotten here without you."
 
----
 
 After they left, Dot sat at her desk, staring at the tablet. The AI had found something she might have eventually discovered—but it had seen it immediately. It patterns that she would have needed careful conversation to uncover, the system had identified through data analysis.
 
@@ -74,7 +70,6 @@ Had she known what she wanted when she stayed in Millfield after his death? Or w
 
 The AI could see patterns in other people's behavior. Could it see patterns in hers?
 
----
 
 Dot drove home that night with a question she couldn't shake. If the AI could see what people really wanted better than they could articulate it themselves, what did that mean for the nature of intent?
 
@@ -86,7 +81,6 @@ The question unsettled her in ways she hadn't expected. It wasn't just about her
 
 Did we know what we wanted? Or did we just think we did?
 
----
 
 That night, Dot couldn't sleep. She lay in bed, staring at the ceiling, the question circling in her mind.
 
@@ -98,7 +92,6 @@ Was intent something we had? Or something we constructed?
 
 And if we constructed it, could an algorithm construct it better than we could?
 
----
 
 The next morning, Dot arrived at the community center early. She made coffee, sat at her desk, and stared at the tablet.
 
@@ -110,7 +103,6 @@ Was the AI discovering intent? Or was it creating it?
 
 And did the distinction matter?
 
----
 
 Her first appointment arrived at nine. A dispute between two local business owners about advertising signage. Dot started the session, watching the AI analyze, trying to see not just what it identified, but how it identified it.
 
@@ -120,7 +112,6 @@ But it didn't understand. It didn't care. It was processing data, not engaging w
 
 Or was that just what she told herself to feel necessary?
 
----
 
 By the end of the day, Dot had mediated three cases. In each one, the AI had identified underlying intents that helped resolve the disputes more efficiently. In each one, she'd felt both grateful for the assistance and troubled by what it meant.
 

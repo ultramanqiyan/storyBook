@@ -68,7 +68,6 @@ James wrote: *Work = identity = desire. No work = no identity = no desire.*
 
 James thanked him and ended the call. He sat in silence, processing what he'd heard.
 
----
 
 The third call was to Jennifer Martinez, a 35-year-old marketing executive who still had a job but had stopped shopping nonetheless.
 
@@ -94,7 +93,6 @@ James wrote: *Efficiency kills excitement. Perfection eliminates discovery.*
 
 "Maybe. But it would mean making things harder, not easier. Less perfect, not more. I don't think malls are designed for that."
 
----
 
 He made more calls that afternoon. The pattern became clear.
 
@@ -110,7 +108,6 @@ But identity wasn't something you could purchase. It was something you earned th
 
 And without identity, desire evaporated.
 
----
 
 That evening, James walked through the mall one more time.
 

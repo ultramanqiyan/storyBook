@@ -44,7 +44,6 @@ But somewhere along the way, he'd realized that optimization wasn't enough. He c
 
 So he'd retired early, bought this building, and opened a bookstore. Not because it was the optimal career choice - it definitely wasn't - but because it was what he wanted. Because it meant something to him.
 
----
 
 Around noon, a man in a suit walked through the door.
 
@@ -74,7 +73,6 @@ But something stopped him. Maybe curiosity. Maybe the memory of how seductive op
 
 "Fine," he said. "A quick demo."
 
----
 
 Hayes pulled out a tablet and opened the StoreBrain interface.
 
@@ -104,7 +102,6 @@ Hayes smiled, sensing the resistance. "Take your time. Here's my card. If you wa
 
 He left the tablet on the counter, showing the dashboard with all its metrics and recommendations, and walked out of the store.
 
----
 
 That evening, Robert closed the shop and sat in the poetry corner.
 

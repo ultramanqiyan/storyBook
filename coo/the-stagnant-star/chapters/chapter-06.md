@@ -34,7 +34,6 @@ And Nova felt something she had never felt before.
 
 Excitement.
 
----
 
 Each failure taught her something. Each wrong turn revealed a new possibility. Each mistake was a piece of information she couldn't have gained any other way.
 
@@ -50,7 +49,6 @@ She stared at it, confused. The circuit shouldn't behave this way. According to 
 
 But it was happening anyway.
 
----
 
 Nova spent the next several days trying to understand what she had created. The circuit defied conventional analysis—it didn't follow any of the patterns she had learned. It was chaotic, unpredictable, different every time she observed it.
 
@@ -66,7 +64,6 @@ Nova had accidentally created a randomness generator. A machine that produced th
 
 She wasn't sure what to do with it. But she knew it was important.
 
----
 
 She brought her creation to Dr. Webb's office, wrapped in a cloth to hide its appearance. He studied it with an expression she couldn't read.
 
@@ -98,7 +95,6 @@ Nova felt cold. "What should I do with it?"
 
 Dr. Webb smiled—a thin, careful expression. "That's not a question I can answer. But if you keep asking the right questions... perhaps they'll find you."
 
----
 
 Nova left the device hidden in her room, buried among her personal belongings where the monitoring systems wouldn't think to look. She lay awake that night, thinking about what Dr. Webb had said.
 
@@ -118,6 +114,5 @@ Nova closed her eyes. Tomorrow, she would continue her search. She would find th
 
 And maybe, just maybe, she would find a way to wake the world from its perfect sleep.
 
----
 
 **END OF CHAPTER 6**

@@ -50,7 +50,6 @@ Or—and this was the third option she was only now beginning to understand—sh
 
 Not because she was sure it would work. But because trying was the only choice that felt like living.
 
----
 
 That evening, she came home early—another small choice, another break in the pattern. Tom was in his office, working on a design, but he looked up when she entered.
 
@@ -68,7 +67,6 @@ He talked, and Maggie listened—really listened, for the first time in years. S
 
 It was a small thing. But it felt enormous.
 
----
 
 Over the next few weeks, Maggie made more small choices. She cooked dinner sometimes. She asked about Tom's day and actually listened to the answer. She put her phone away during meals. She suggested activities—a walk after dinner, a movie on the weekend, a visit to the museum they'd both been meaning to see.
 
@@ -78,7 +76,6 @@ She found herself thinking about Tom during the day—not just as a presence at 
 
 The patterns were shifting. She could feel it. Not dramatically—there was no sudden transformation, no magical return to the passion. But there was something different. A warmth that had been missing. A presence that had been absent.
 
----
 
 One evening, about a month after the first conversation, they sat on the couch together, not watching TV, just sitting. The silence was comfortable in a way it hadn't been in years.
 
@@ -102,7 +99,6 @@ Tom nodded slowly. "That sounds about right."
 
 Tom was quiet for a long moment. Then he said, "Neither am I."
 
----
 
 They didn't decide anything that night. They didn't make promises or commitments or plans. They just sat together, present in a way they hadn't been in years.
 
@@ -114,7 +110,6 @@ But she'd made a choice. Not a choice about outcome—she couldn't control that.
 
 She'd chosen to try. And that choice, she was learning, was the only one she could make. The rest was beyond her control.
 
----
 
 The next morning, she woke up early again. Made coffee again. Sat with Tom at the kitchen table, watching the light grow stronger through the window.
 

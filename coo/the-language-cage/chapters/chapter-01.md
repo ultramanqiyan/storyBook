@@ -54,7 +54,6 @@ The thought was clear. Perfect. Complete. But it had no words. And when she open
 
 She squeezed his hand instead. It wasn't enough. It would never be enough. But it was what she had.
 
----
 
 That night, after David had gone home to sleep, after the nurses had checked her vitals and dimmed the lights, Elena lay in the hospital bed and thought.
 
@@ -78,7 +77,6 @@ She didn't know. She might never know. But in the silence of the hospital room, 
 
 She felt free.
 
----
 
 The next morning, Dr. Chen returned with a specialist—a speech therapist named Maria, whose name tag and warm smile suggested competence and compassion. Elena watched them enter, watched the way they positioned themselves around her bed, the careful distance they maintained between professional concern and personal warmth.
 

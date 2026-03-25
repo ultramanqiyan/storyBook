@@ -81,7 +81,6 @@ But he couldn't. His mind was too clouded, too chaotic, too consumed by fear.
 
 At 10:30 PM, he finally gave up and closed his laptop.
 
----
 
 The parking garage was dark and empty.
 
@@ -113,7 +112,6 @@ He put the phone down and leaned his head against the steering wheel. The tears 
 
 He didn't know. But he knew he couldn't keep going like this.
 
----
 
 At 11:15 PM, there was a knock on the car window.
 
@@ -151,7 +149,6 @@ Sarah pulled him into a hug, her arms wrapping around him, her tears mixing with
 
 But he didn't say it. He just held onto Sarah, letting her warmth anchor him to reality.
 
----
 
 After a long time, Sarah pulled back.
 
@@ -181,7 +178,6 @@ But for the first time in weeks, Marcus felt a flicker of hope.
 
 But the fear was still there, lurking in the shadows, waiting for its moment to return.
 
----
 
 That night, Marcus lay in bed, staring at the ceiling.
 
@@ -201,7 +197,6 @@ Marcus pushed the thought away. He was too tired to think about it. Too tired to
 
 And for the first time in weeks, he fell asleep without looking at his spreadsheet.
 
----
 
 The next morning, Marcus woke up feeling different.
 
@@ -229,7 +224,6 @@ Sarah nodded. "The appointment is at 4 PM. I'll pick up the kids from school."
 
 And for the first time in weeks, he meant it.
 
----
 
 At 8:30 AM, Marcus walked into the office.
 

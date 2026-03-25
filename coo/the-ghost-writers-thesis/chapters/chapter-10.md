@@ -38,7 +38,6 @@ It wasn't profound. It wasn't groundbreaking. It wasn't optimized for publicatio
 
 "Why do some people choose to recover what they've lost, while others choose to live without it?"
 
----
 
 Elena stared at the question, written in her own handwriting on the page. It was simple, almost obvious. But it felt different from any question she had asked before. It had emerged from her own experience, her own observation, her own wonder. It wasn't suggested by AI, wasn't optimized for research potential, wasn't designed to fill a gap in the literature. It was just... hers.
 
@@ -46,13 +45,11 @@ She felt something she hadn't felt in years: the thrill of genuine curiosity. Th
 
 The question wasn't the most important question in the world. It wouldn't revolutionize her field or change the course of human knowledge. But it was hers. And that was everything.
 
----
 
 She spent the rest of the day following the question, letting it lead her where it would. She read about recovery, about choice, about what people value and why. She took notes, not for publication, but for understanding. She let her curiosity guide her, without worrying about efficiency or productivity.
 
 The work was slow, inefficient, probably useless by any metric that mattered in modern academia. But Elena didn't care. For the first time in years, she was doing research the way it was meant to be done: following her own curiosity, asking her own questions, seeking her own understanding.
 
----
 
 The afternoon light was fading when she left the library. The campus was busy with the end of the day's activities, students rushing to dinner, professors heading home. Elena walked slowly, her mind still full of the question and where it might lead.
 
@@ -78,7 +75,6 @@ She told him about the morning in the library, about watching the student with t
 
 "It doesn't have to be," Webb interrupted. "It's yours. That's what matters."
 
----
 
 They talked for hours, about the question, about where it might lead, about the research Elena might do. The conversation was different from any advising session Elena had had before. Webb wasn't guiding her toward productivity or publication. He was exploring with her, following the thread of curiosity wherever it led.
 
@@ -86,13 +82,11 @@ They talked for hours, about the question, about where it might lead, about the 
 
 Elena felt it too—the joy of not knowing, the thrill of following a question without a predetermined destination. It was inefficient, unproductive, probably useless by modern standards. But it was also the most alive she had felt in years.
 
----
 
 The sun was setting when Elena left Webb's office. The campus was quiet now, the evening settling over everything. She walked slowly, her mind still turning over the question, the conversation, the day.
 
 She thought about the future—about the research she might do, the questions she might ask, the life she might build. The path ahead was hard, uncertain, probably not leading to the kind of career she had once imagined. But it was hers. And she had found something she thought she had lost forever: the ability to wonder.
 
----
 
 That night, Elena dreamed of questions again. They came to her clearly now, naturally, as if a channel that had been blocked was finally open. She woke with a sense of purpose, a determination that felt like hope.
 
@@ -104,7 +98,6 @@ She stared at it for a long moment. It wasn't the most important question in the
 
 And for the first time in years, Elena Martinez was asking it because she genuinely wanted to know the answer.
 
----
 
 The next morning, she walked across campus with a sense of purpose she hadn't felt in years. The students around her were still using AI, still processing, still efficient. But Elena was different now. She had recovered something essential, something irreplaceable.
 

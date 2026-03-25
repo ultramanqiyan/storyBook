@@ -66,7 +66,6 @@ She closed the document and sat in the silence, thinking about her options.
 
 None of the options felt right. But she had to choose.
 
----
 
 She found David in the living room, reading. He looked up when she entered, his expression open and concerned.
 
@@ -110,7 +109,6 @@ David nodded slowly. "Then maybe that's your answer. Not which option to choose,
 
 "Take all the time you need," David responded. "I'll be here."
 
----
 
 She walked through the city that night, letting the cool air clear her head. The streets were quiet, the lights soft, the world peaceful in a way that felt almost foreign. She had been so consumed by the interface, by the question of ownership, that she had forgotten what it felt like to simply exist.
 
@@ -124,7 +122,6 @@ But could she live that way? Could she return to the silence, knowing what she w
 
 She didn't know. But she knew she had to decide.
 
----
 
 The next morning, she called Dr. Chen.
 

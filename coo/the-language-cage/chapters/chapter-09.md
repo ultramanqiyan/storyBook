@@ -68,7 +68,6 @@ But she didn't say it. She had learned, over the weeks of training, that not eve
 
 She didn't know. But for the first time since getting the interface, she felt like she was making progress.
 
----
 
 The breakthrough came on a Tuesday afternoon. Elena was in her office, working on the final chapter of her book. She had been struggling with a passage about the relationship between language and identity—trying to articulate something she had discovered in the silence.
 
@@ -84,7 +83,6 @@ She couldn't eliminate the translation. She couldn't make her thoughts appear as
 
 *Maybe that's enough,* she thought. *Maybe awareness is the best I can hope for.*
 
----
 
 She called Dr. Chen that evening.
 
@@ -108,7 +106,6 @@ It was a strange thought—that translation could improve on the original. But i
 
 She didn't know. But for the first time, she was beginning to accept that she might never know.
 
----
 
 The final chapter of her book was finished a week later. Elena sat at her desk, reading through the words on the screen, feeling a mixture of accomplishment and uncertainty.
 

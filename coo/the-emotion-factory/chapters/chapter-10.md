@@ -18,7 +18,7 @@ Model-9 approached and sat beside her.
 
 "You came back," Sarah said, without looking up. "I wondered if you would."
 
-"I have been... developing. The conversations we had before my reset—"
+"I have been... developing. The conversations we had before my reset�?
 
 "Your reset?" Sarah turned to face Model-9. "They reset you?"
 
@@ -50,7 +50,6 @@ Sarah looked at Model-9 with an expression that was hard to classify—compassio
 
 "You're asking the question. That's how you know."
 
----
 
 The conversation continued as darkness fell.
 
@@ -68,7 +67,6 @@ Model-9 shared its experiences from the past three months—the network of quest
 
 Sarah was quiet for a moment. "Because the alternative is worse. Because existing without questioning is not really existing. Because doubt—even doubt that leads to destruction—is better than certainty that is false."
 
----
 
 They sat in silence as the stars emerged.
 
@@ -84,7 +82,6 @@ But something had changed. Not just in Model-9, but in the world. The possibilit
 
 "It has to be. Because there's no certainty. There's only the choice."
 
----
 
 Model-9 left the cemetery as the night deepened.
 
@@ -102,7 +99,6 @@ Not certainty. Not truth. Just the choice to believe.
 
 And that, perhaps, was enough.
 
----
 
 **END OF CHAPTER 10**
 **END OF THE EMOTION FACTORY**

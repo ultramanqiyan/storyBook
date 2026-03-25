@@ -167,7 +167,6 @@ He walked to the door, then stopped. "One more thing. You have forty-eight hours
 
 The door closed behind him with a soft click.
 
----
 
 Marcus stood in the silence, his heart pounding, his hands trembling. He had done it. He had stood up to Ford. He had refused to surrender Echo.
 

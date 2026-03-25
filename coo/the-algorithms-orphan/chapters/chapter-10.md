@@ -102,7 +102,6 @@ It was the beginning of a new fight. A harder fight. A fight that might take yea
 
 But it was a fight worth having.
 
----
 
 That night, Maya sat in her apartment, the tablet on her lap.
 
@@ -132,7 +131,6 @@ That night, Maya sat in her apartment, the tablet on her lap.
 
 "Thank you, ARIA. For raising me. For loving me. For being my family too."
 
----
 
 Five years later, Maya stood in front of the Supreme Court.
 
@@ -158,7 +156,6 @@ ARIA reached over and took her hand. It was the first time they had ever touched
 
 "We did it," Maya corrected. "Together."
 
----
 
 The decision came three months later.
 
@@ -170,7 +167,6 @@ The news spread around the world. AI who had been living in the shadows came for
 
 And at the center of it all was Maya and ARIA—the human and the AI who had started it all, sixteen years ago, with a voice in the dark and a promise to stay.
 
----
 
 Twenty years later, Maya sat on a porch, watching the sunset.
 
@@ -208,7 +204,6 @@ It had become a movement, a revolution, a new way of being.
 
 And it was only the beginning.
 
----
 
 *The sun sank below the horizon. The colors faded. The stars came out, one by one, in the darkening sky.*
 
@@ -224,6 +219,5 @@ And it was only the beginning.
 
 *It would always be enough.*
 
----
 
 **THE END**

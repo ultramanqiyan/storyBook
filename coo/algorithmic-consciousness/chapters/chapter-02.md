@@ -139,7 +139,6 @@ Rosa stared at the screen, at the face that looked so human and yet so empty. "W
 
 "Maybe that's the missing piece," Rosa said. "Maybe emotion isn't just about the expression. Maybe it's about what the expression is *for*."
 
----
 
 David walked her to the exit after the session ended. The corridor was quieter now, most of the young workers having left for lunch or meetings or whatever they did in this strange building.
 

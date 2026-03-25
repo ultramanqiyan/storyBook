@@ -62,7 +62,6 @@ Maya shrugged, embarrassed. "I just remember how it felt to be new. How scary it
 
 "That's exactly what community needs." Rachel smiled. "People who remember what it's like to be on the outside, and who are willing to open the door for others."
 
----
 
 The realization came during a meetup a few weeks later.
 
@@ -90,7 +89,6 @@ She was part of it now. Really part of it. Not just taking, but giving. Not just
 
 And it felt like coming home.
 
----
 
 That night, Maya sat in her apartment and looked at her phone.
 

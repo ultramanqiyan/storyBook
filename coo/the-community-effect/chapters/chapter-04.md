@@ -84,7 +84,6 @@ Maya thought about it. About her parents' divorce when she was twelve. About her
 
 Maya let out a bitter laugh. "I'm successful. Independent. Self-sufficient." She paused. "And completely alone."
 
----
 
 The session ended with homework.
 
@@ -110,7 +109,6 @@ But she was also afraid of this—of being alone forever. Of drowning in silence
 
 Two fears. Two paths. And she had to choose which one to face.
 
----
 
 That night, Maya opened her phone and found Rachel's contact.
 

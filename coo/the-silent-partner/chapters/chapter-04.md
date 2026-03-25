@@ -124,6 +124,5 @@ The official documentation was vague, filled with technical jargon and corporate
 
 But what did it mean?
 
----
 
 **Chapter 4 Complete**

@@ -84,7 +84,6 @@ The question hung in the air, unanswered. But somewhere, in the asking, she felt
 
 She didn't have an answer yet. But she was starting to ask the right questions. And maybe, just maybe, that was the beginning of something.
 
----
 
 The next morning, her alarm went off at 6:00 AM sharp. AUGUST's voice filled the room before she could reach for her phone.
 

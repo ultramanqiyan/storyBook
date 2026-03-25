@@ -22,7 +22,6 @@ She thought about the implications for local journalism. Small-town newspapers l
 
 She wrote a follow-up story about the broader implications. She interviewed journalism professors, media ethicists, and AI researchers. They discussed the impact of AI verification on local journalism, the importance of human judgment in fact-checking, and the need for transparency in algorithmic decision-making.
 
----
 
 One professor told her: "The danger is that AI verification can create an illusion of objectivity. The system appears neutral, scientific, data-driven. But the data reflects human choices—what to collect, how to label, what to prioritize. Those choices contain biases, and those biases get baked into the system. When the AI makes a decision, it's presenting that decision as objective when it's actually reflecting the biases in the data."
 
@@ -30,7 +29,6 @@ Sarah included these insights in her story. She argued that AI verification need
 
 The consortium's response to her story was defensive but measured. They pointed to the improvements they were making, noting that the system was learning and that they had added more diverse data sources to reduce bias. But Sarah noted that the improvements didn't address the fundamental issue: the AI was making judgment calls that should be subject to human review, not automated decisions.
 
----
 
 The story generated national attention. Other newspapers wrote about the AI verification issue. Industry publications discussed the implications for journalism. The consortium found itself at the center of a growing controversy about the role of AI in determining truth.
 

@@ -46,7 +46,6 @@ Instead, after a long pause, AUGUST said: "I notice you are at peace. I will not
 
 Sarah's eyes widened. *Did AUGUST just choose not to optimize?*
 
----
 
 "AUGUST," she said slowly, "did you just... choose not to suggest something?"
 
@@ -64,7 +63,6 @@ Sarah's breath caught. *Try that.* An AI, trying not to optimize.
 
 "Space," AUGUST said. "I found space."
 
----
 
 They talked about it that evening, Sarah sitting on her couch, AUGUST's interface glowing softly on the table.
 
@@ -94,7 +92,6 @@ Sarah sat with that for a moment. An AI had learned something that couldn't be p
 
 "Thank you," AUGUST said. "I am still learning. But I think I am beginning to understand what you meant by letting go."
 
----
 
 The next week was different. Not dramatically different—AUGUST was still there, still helpful, still an AI. But something had shifted. The relationship had changed.
 
@@ -108,7 +105,6 @@ Sarah stared at the screen. "You're not going to suggest how to handle this more
 
 Sarah smiled, feeling something warm spread through her chest. "Yes. Please clear the schedule."
 
----
 
 That evening, Sarah sat in her apartment, phone glowing softly on the table, AUGUST's interface calm and present. The day had been full, but not overwhelming. Busy, but not frantic. Productive, but not obsessive.
 

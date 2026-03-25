@@ -118,7 +118,6 @@ David's face lit up. "Monday. Yes. I'll send a carâ€?
 
 "Of course," he said again, though she could see him mentally recalibrating his assumptions about her. "Our facility is in DUMBO. I'll send you the address."
 
----
 
 They walked together to the theater's entrance, David a half-step behind her, as if unconsciously deferring to her authority. The afternoon light had shifted while they'd been talking, the October sun now slanting low through the brownstones, casting long shadows across the sidewalk.
 

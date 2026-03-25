@@ -114,7 +114,6 @@ The words were appropriate, reasonable, exactly what she might have said. But th
 
 But it was too late. The words were already out there, shaping David's understanding of her. And she couldn't take them back.
 
----
 
 That night, Elena lay in bed, staring at the ceiling, thinking about the question that had been haunting her for weeks.
 

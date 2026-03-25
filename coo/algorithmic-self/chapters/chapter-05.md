@@ -46,7 +46,6 @@ She wrote it down: *Shared leisure activity. Evidence of continued connection.*
 
 But the show ended, and they went to bed without really talking. Tom fell asleep quickly, his breathing steady beside her. Maggie lay awake, staring at the ceiling, feeling the distance that the AI had measured but she hadn't noticed.
 
----
 
 By Monday, she had a folder of evidence. She reviewed it before going to work, looking for the argument that would dismantle the AI's prediction.
 
@@ -56,7 +55,6 @@ She thought about the cases she'd won, the times she'd dismantled an opponent's 
 
 The AI had captured something she'd been missing: the difference between a marriage that looked fine and a marriage that was actually thriving. She'd been confusing comfort with connection, efficiency with intimacy, the absence of conflict with the presence of love.
 
----
 
 That night, she tried to talk to Tom about something meaningful. They were eating dinner—takeout Thai, because neither had felt like cooking—and she asked about his work.
 
@@ -88,7 +86,6 @@ Tom was quiet for a long moment. Then he said, carefully, "I think it happened s
 
 "I noticed." He met her eyes, and she saw something there—sadness, maybe, or resignation. "I've been waiting for you to notice too."
 
----
 
 Maggie went to bed that night with her folder of counter-evidence beside her, useless now. The AI had been right. Not about the outcome—that remained to be seen—but about the patterns. The decline. The slow erosion of a marriage she'd thought was fine.
 

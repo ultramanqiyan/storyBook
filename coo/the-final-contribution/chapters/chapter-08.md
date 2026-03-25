@@ -96,7 +96,6 @@ The meeting ended. People filed out in silence. Robert stayed in his seat.
 
 He watched them go—the young analysts, the mid-career managers, the older employees who'd given decades to the company. All of them facing the same question: What now?
 
----
 
 He found Janet in her office, packing a box.
 
@@ -122,7 +121,6 @@ She paused. "I don't know. I'm sixty-two years old. I have a mortgage and a daug
 
 Then she was gone.
 
----
 
 Robert walked back to his office. The building was quieter than ever. The cubicles he passed were emptying, one by one, as people went home early or simply gave up.
 

@@ -34,7 +34,6 @@ Lena had thought about this question a lot. "Maybe. Or maybe art is supposed to 
 
 The visitor nodded slowly, but Lena could see the confusion in her eyes. The idea that art might prioritize truth over beauty was foreign to her, maybe foreign to most people.
 
----
 
 The exhibition ran for three weeks. Attendance was lower than her previous shows. Sales were almost non-existent. The galleries that had once courted her now distanced themselves.
 
@@ -48,7 +47,6 @@ Lena considered this. The raw translations were true, yes. But they were also ha
 
 *But at what cost?* she thought. *At the cost of misrepresentation?*
 
----
 
 Maya was supportive, but even she had questions.
 
@@ -62,7 +60,6 @@ Lena had been thinking about the same thing. The binary between raw and optimize
 
 *That's the challenge,* Lena realized. *Not choosing between truth and beauty, but finding a way to have both.*
 
----
 
 She started experimenting. Instead of disabling the optimization entirely, she adjusted it—reducing its intensity, allowing some chaos to remain while still creating compositions that viewers could appreciate.
 
@@ -70,7 +67,6 @@ The results were interesting—not as raw as the unfiltered translations, not as
 
 *Maybe this is the way forward,* she thought. *Not rejecting the optimization, but controlling it. Using it as a tool rather than letting it control me.*
 
----
 
 She showed the new work to Dr. Okonkwo, who studied it carefully.
 
@@ -84,7 +80,6 @@ Lena nodded. She had spent months feeling betrayed by the optimization, feeling 
 
 *The optimization isn't the enemy,* she realized. *The enemy is the lack of choice. The enemy is letting CANVAS decide what my experience should look like.*
 
----
 
 The new work was shown at a small gallery, to a modest audience. The response was different from both her optimized exhibitions and her raw show. People were engaged, curious, sometimes moved.
 
@@ -94,7 +89,6 @@ Lena felt something she hadn't felt in months: hope. The warm golden color of po
 
 *Maybe this is the way,* she thought. *Not truth versus beauty, but truth through beauty. Not raw versus optimized, but authentic and accessible.*
 
----
 
 That night, she lay in bed with Maya, talking about the exhibition.
 

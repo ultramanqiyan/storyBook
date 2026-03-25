@@ -28,7 +28,6 @@ Alex had spent weeks in resistance. Arguing with colleagues. Defending print adv
 
 *Key insight:* Resistance isn't weakness. It's a natural part of the process. But it can't be the destination—only a waystation.
 
----
 
 **Stage Three: Acceptance**
 
@@ -38,7 +37,6 @@ For Alex, acceptance had come gradually. Through Dr. Wong's questions. Through J
 
 *Key insight:* Acceptance isn't surrender. It's the beginning of agency.
 
----
 
 **Stage Four: Learning**
 
@@ -48,7 +46,6 @@ Alex had spent months in learning mode. Workshops, coaching, client projects, mi
 
 *Key insight:* Learning isn't about becoming someone else. It's about becoming more of who you are.
 
----
 
 **Stage Five: Integration**
 
@@ -58,7 +55,6 @@ Alex was still in this stage. Still integrating his traditional marketing backgr
 
 *Key insight:* Integration isn't the end of the journey. It's the foundation for the next adaptation.
 
----
 
 He showed the framework to Dr. Wong the following week.
 
@@ -76,7 +72,6 @@ Alex nodded slowly. She was right. He'd mapped the stages, but not the feelings.
 
 He went back to his notebook.
 
----
 
 **Stage One: Disruption**
 - Primary emotion: Fear
@@ -108,7 +103,6 @@ He went back to his notebook.
 - The trap: Complacency. Thinking you're done adapting.
 - The path through: Recognize that integration is a platform, not a destination. It prepares you for the next disruption.
 
----
 
 He showed the revised framework to Jordan.
 
@@ -122,7 +116,6 @@ Alex thought about his own journey. Dr. Wong's coaching. Jordan's mentorship. El
 
 She was right. He hadn't done this alone. No one did.
 
----
 
 **Stage One: Disruption**
 - What you need: People who can help you see clearly. Coaches, mentors, friends who won't let you spiral.
@@ -144,7 +137,6 @@ She was right. He hadn't done this alone. No one did.
 - What you need: Community. People who celebrate your growth and challenge you to keep growing.
 - What to avoid: People who want you to stay the same.
 
----
 
 The framework was complete.
 
@@ -164,7 +156,6 @@ It wasn't polished. Wasn't complete. But it was a start.
 
 And starts were what adaptation was all about.
 
----
 
 He sent the draft to Dr. Wong, Jordan, and Elena.
 

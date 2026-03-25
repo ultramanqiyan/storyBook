@@ -20,7 +20,6 @@ Most members were former Desire Market employees who had discovered the truth ab
 
 They welcomed Alex cautiously.
 
----
 
 "You're a decoder," the leader said. "How do we know you're not here to report us?"
 
@@ -30,7 +29,6 @@ The leader studied him for a long moment.
 
 "Then welcome to the Authentic."
 
----
 
 The resistance shared information.
 
@@ -38,7 +36,6 @@ They had been investigating the Desire Market for years, collecting evidence, do
 
 They also knew something Alex didn't.
 
----
 
 "The modifications aren't permanent," the leader explained. "They require maintenance—ongoing environmental conditioning, information control, feedback reinforcement. Without that maintenance, authentic desires begin to reassert themselves."
 
@@ -46,7 +43,6 @@ They also knew something Alex didn't.
 
 "Your original desires might return. But the Desire Market monitors all its subjects. They'll notice if you stop engaging with the conditioning systems."
 
----
 
 Alex understood.
 
@@ -54,7 +50,6 @@ The reason he had begun questioning his desires was that he had been investigati
 
 He was healing himself.
 
----
 
 But healing came with a cost.
 
@@ -62,6 +57,5 @@ If the Desire Market discovered what was happening, they would reassert the cond
 
 He had to be careful.
 
----
 
 **END OF CHAPTER 06**

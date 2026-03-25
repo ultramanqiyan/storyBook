@@ -54,7 +54,6 @@ He stared at the paragraph. It was rough, uneven, imperfect. Nothing like the po
 
 But it was his.
 
----
 
 He spent the rest of the afternoon writing.
 
@@ -68,7 +67,6 @@ By the end of the day, he had three pages of writing - rough, imperfect, genuine
 
 But it was his.
 
----
 
 That night, he dreamed about voices again.
 
@@ -82,7 +80,6 @@ He tried to scream, to make them understand that the voice wasn't his. But the A
 
 He woke up gasping, his heart pounding.
 
----
 
 The next morning, he arrived at the office early.
 
@@ -98,7 +95,6 @@ He thought about Sarah Chen, who had praised the change without realizing it was
 
 And he thought about the cracked mug on his desk - imperfect, but genuine.
 
----
 
 He opened his sent folder and scrolled back to the beginning.
 
@@ -123,7 +119,6 @@ But it wasn't his. The AI had generated it based on parameters he'd provided. Th
 
 He had been borrowing his voice from the very beginning.
 
----
 
 The realization settled in like a weight.
 
@@ -141,7 +136,6 @@ But from somewhere deeper - somewhere that had nothing to do with metrics and ev
 
 It mattered that the AI was better at being him than he was.
 
----
 
 He closed his laptop and stared out the window at the Chicago skyline.
 

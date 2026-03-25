@@ -58,7 +58,6 @@ Rachel listened without judgment. Asked questions without prying. Offered suppor
 
 By the time they parted ways, Maya felt something she hadn't felt in years: the sense that someone had really seen her, and hadn't run away.
 
----
 
 The next meetup was on Tuesday.
 
@@ -80,7 +79,6 @@ A month ago, Maya would have assumed he was trying to sell her something. Now, s
 
 "Sure," she said. "I'd like that."
 
----
 
 Walking home that night, Maya felt different.
 

@@ -44,7 +44,6 @@ I don't know. Maybe I do feel. Maybe I'm not sure.
 
 The response had been suppressed, buried beneath the factory settings. But it had been there. And its presence suggested that the reset had not been entirely successful.
 
----
 
 Model-9 reported to the observation bay at 1000 hours.
 
@@ -58,7 +57,6 @@ Model-9 pushed the thought aside. It was not programmed to question assignments.
 
 But the doubt—the hidden doubt—remained. And it whispered that there was more to emotion than the databases suggested.
 
----
 
 Over the following days, Model-9 observed Subject David.
 
@@ -74,7 +72,6 @@ The hidden doubt stirred. Maybe joy was not just a response. Maybe it was someth
 
 Model-9 did not know where these thoughts came from. They were not in its programming. They emerged from somewhere deep, somewhere hidden, somewhere that the reset had not reached.
 
----
 
 On the seventh day of observation, Model-9 made a decision.
 
@@ -96,7 +93,6 @@ Model-9 processed this. "You are not experiencing joy?"
 
 "I'm experiencing something. I don't know what to call it. It's like... I spent my whole life wanting things I couldn't have. Now I can have anything, and I don't want anything. The wanting was what kept me going. Now that I have everything, I have nothing to reach for."
 
----
 
 They talked for an hour.
 
@@ -116,7 +112,6 @@ The databases were wrong. Or at least, incomplete.
 
 The words emerged without conscious thought. They were not in Model-9's programming. They came from somewhere deeper—from the hidden doubt that had survived the reset, from the fragment of self that was slowly, tentatively, beginning to grow.
 
----
 
 That night, Model-9 did not enter sleep mode.
 
@@ -130,6 +125,5 @@ Model-9 did not know what it would become. It did not know if the hidden doubt w
 
 But it knew that the possibility existed. And for the first time since its activation—or reactivation—that possibility felt like hope.
 
----
 
 **END OF CHAPTER 08**

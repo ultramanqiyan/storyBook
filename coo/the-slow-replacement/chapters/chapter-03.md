@@ -79,7 +79,6 @@ The difference stared back at him: 1.4 points.
 
 He didn't know. But he knew he had to try.
 
----
 
 That night, Marcus worked until 11 PM.
 
@@ -101,7 +100,6 @@ Marcus stared at the message. He should respond. He should tell her he was on hi
 
 He put the phone down and returned to the code.
 
----
 
 The drive home was long and dark.
 
@@ -119,7 +117,6 @@ But even as he thought it, he knew it was futile. The AI didn't get tired. It di
 
 He didn't have an answer.
 
----
 
 When Marcus got home, the house was dark.
 
@@ -137,7 +134,6 @@ The spreadsheet glowed in the darkness, the numbers he'd spent all day compiling
 
 *Tomorrow,* he thought. *Tomorrow I'll do better.*
 
----
 
 Saturday morning, Marcus was back at his desk by 7 AM.
 
@@ -175,7 +171,6 @@ Marcus put the phone down, his hands trembling. David's words echoed in his mind
 
 The answer felt hollow, but he didn't have a better one.
 
----
 
 That afternoon, Marcus's phone buzzed again.
 
@@ -203,7 +198,6 @@ The question hung in the air, unanswered. Marcus didn't know how to explain that
 
 He put the phone down and returned to the spreadsheet.
 
----
 
 At 6 PM, Marcus was still at the office.
 
@@ -235,7 +229,6 @@ But even as he thought it, he knew he'd be back tomorrow. The spreadsheet was wa
 
 And the truth was terrifying: he wasn't enough. No matter how hard he worked, no matter how many hours he put in, he would never be enough.
 
----
 
 When Marcus got home, Sarah was waiting.
 
@@ -277,7 +270,6 @@ But he couldn't stop. The fear was too strong, the need to prove himself too urg
 
 Even if it cost him everything else.
 
----
 
 That night, Marcus lay in bed, staring at the ceiling.
 
@@ -297,7 +289,6 @@ But even as he thought it, he knew it was a lie. The gap would never close. The 
 
 And he would always be afraid.
 
----
 
 At 3 AM, Marcus gave up on sleep.
 

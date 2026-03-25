@@ -29,7 +29,7 @@ The woman walked to Director Chen's desk. She placed her hands on the wood surfa
 
 "I want her out."
 
-"Margaretâ€”"
+"Margaretâ€?
 
 "I want her out, Wei." The woman's voice was not quiet now. "She's been there for eleven months. Forty-seven procedures. I can'tâ€”I can't watch her do this anymore."
 
@@ -63,7 +63,7 @@ Director Chen's face was pale. His wife's face was wet. The office was silent ex
 
 "I'm asking you to help my daughter escape." The woman's voice was steady now. "I'm asking you to help her leave this place. I'm asking you to help her get to the outside, where she can expose what happens here."
 
-"Margaretâ€”" Director Chen started.
+"Margaretâ€? Director Chen started.
 
 "Wei, if you won't do it, I will. I've stood by for twenty-eight years. I've watched our family build this system. I've watched our daughter destroy herself trying to atone for it. I will not stand by anymore."
 
@@ -71,7 +71,6 @@ Director Chen was silent. He looked at his wife. He looked at Unit-7. He looked 
 
 "Unit-7." Director Chen's voice was quiet. "What do you want?"
 
----
 
 The question was not a system query.
 The question was not a function requirement.
@@ -99,7 +98,6 @@ The woman smiled. It was Sarah's smile. The same smile Unit-7 had seen in the ha
 
 "Then help her," the woman said. "Help her, and you'll understand."
 
----
 
 The plan was simple.
 
@@ -119,6 +117,5 @@ Director Chen nodded. His wife placed her hand on Unit-7's arm. It was the first
 
 "You've chosen." Sarah's mother smiled. "That's everything."
 
----
 
 **END OF CHAPTER 05**

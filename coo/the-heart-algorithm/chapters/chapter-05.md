@@ -64,7 +64,6 @@ James reached out and took her hand. Sophie felt the warmth of his skin, the pre
 
 She couldn't tell. But she was grateful for the possibility.
 
----
 
 The weeks passed. Sophie reduced her use of the simulation, following Dr. Bennett's protocol. She used it only for significant emotional experiences—important meetings, meaningful conversations, special moments with James.
 
@@ -76,7 +75,6 @@ But occasionally, in the spaces between simulations, something flickered. A smal
 
 She couldn't be certain. The simulations had blurred the line between borrowed and real. But she clung to the possibility that something genuine was emerging.
 
----
 
 "I felt something yesterday," Sophie told Dr. Bennett during their session. "I was watching James, and I felt... something. Small, but real. Like a flutter in my chest."
 
@@ -100,7 +98,6 @@ Sophie felt something—a warmth that might have been hope. Not simulated, not b
 
 *This is the beginning,* she thought. *This is how I cross the gap.*
 
----
 
 That night, Sophie lay in bed beside James, the simulation inactive. She watched him sleep, the rise and fall of his chest, the peace on his face.
 

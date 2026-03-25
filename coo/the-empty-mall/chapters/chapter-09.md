@@ -52,7 +52,6 @@ The mall had been a place of effort once. People came to search, to compare, to 
 
 His experiments—the art classes, the music nights, the community garden—were working because they reintroduced effort. People had to show up, to participate, to create. The effort was minimal compared to what work used to require, but it was something. A small flame in the darkness.
 
----
 
 The next day, he visited Dr. Chen again.
 
@@ -70,7 +69,6 @@ James thought about the art class. The participants weren't just painting—they
 
 "Not the old work," Dr. Chen said. "That's gone. But maybe new forms of work. New ways of creating value that aren't about efficiency or profit. Ways of working that produce meaning rather than products."
 
----
 
 He walked back to the mall, his mind racing.
 
@@ -86,7 +84,6 @@ What if the mall became a maker space? A place where people could work on projec
 
 What if the mall became a place where effort was the product?
 
----
 
 He spent the next week developing the idea.
 
@@ -104,7 +101,6 @@ He presented the idea to Elena first.
 
 "I don't know. But the experiments showed that people will come for effort. They'll come to create, to learn, to be part of something. This just scales that up."
 
----
 
 He presented the idea to Peterson, the regional manager, the next day.
 
@@ -130,7 +126,6 @@ Peterson was quiet for a long moment. Then he sighed.
 
 James nodded. "I understand."
 
----
 
 That night, he walked through the mall one last time before the board meeting.
 

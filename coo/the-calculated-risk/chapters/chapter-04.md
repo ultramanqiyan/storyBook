@@ -40,7 +40,6 @@ The man smiled, but it wasn't cruel. "I remember when those systems first came o
 
 "The ability to read the rock." He gestured to the wall behind me. "Climbing isn't just about strength or technique. It's about judgment—about looking at a wall and knowing, without being told, where to go. That's what the system does for you. And that's what you've lost."
 
----
 
 The man's name was Marcus, and he had been climbing for thirty years—long before AI assistance existed. He offered to help me relearn what I had lost.
 
@@ -58,7 +57,6 @@ I tried, but there was nothing. Just silence, emptiness, the absence of the syst
 
 "That's because you've stopped listening," Marcus said. "The system has been talking for so long that you've forgotten how to hear your own voice."
 
----
 
 The weeks that followed were brutal. I climbed every day, struggling through routes that should have been easy, falling on problems I had once executed without thought. My body healed slowly, my shoulder regaining strength, my ribs finally mending. But my mind was the real challenge.
 
@@ -66,7 +64,6 @@ I had to learn to think again—not the optimized thinking of AI guidance, but t
 
 It was the hardest thing I had ever done.
 
----
 
 The breakthrough came on a Tuesday, six weeks after I started training with Marcus. I was working on a V4 bouldering problem, a route that had been frustrating me for days. I stood at the base, studying the holds, trying to see the sequence.
 
@@ -78,7 +75,6 @@ I had done it. Not because RISK-AI told me how, but because I had figured it out
 
 The feeling was like nothing I had ever experienced. Pride, yes, but something more—wonder. The joy of actually knowing, of actually trusting, of actually climbing.
 
----
 
 "That's it," Marcus said, watching my face. "That's what you've been missing."
 
@@ -90,7 +86,6 @@ I nodded, the words settling into my mind. This was what I had lost—the abilit
 
 This was what I was fighting to recover.
 
----
 
 That night, I sat in my apartment, the silence in my ear no longer oppressive. RISK-AI was still offline, still damaged, still unable to guide me. But for the first time, I didn't mind.
 

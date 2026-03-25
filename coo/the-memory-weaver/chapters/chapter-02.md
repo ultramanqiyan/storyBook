@@ -48,7 +48,6 @@ Dr. Park smiled. "The system is designed to learn your patterns. The more you us
 
 *Minimal effort.* After thirty-two years of maximum effort, that sounded like paradise.
 
----
 
 Work was different now. Anna sat at her desk in the archives, surrounded by documents, and for the first time, she could focus on the present without the past constantly intruding. The letters she was cataloging were just letters—not triggers for memories of every letter she had ever read.
 
@@ -64,7 +63,6 @@ The day passed in a blur of focused work. Anna was more productive than she had 
 
 She felt light.
 
----
 
 That night, Anna sat in her apartment, testing her new relationship with memory. She tried to recall specific dates—March 15, 2015; March 15, 2020; March 15, 2035. The memories were there, accessible, but they didn't overwhelm her. They were filed away, organized, waiting for her to access them.
 
@@ -88,7 +86,6 @@ She queried the system, and a list appeared in her mind:
 
 But the quiet was so sweet, and the relief was so profound, that she let the question fade. She could think about it later. For now, she just wanted to enjoy the peace.
 
----
 
 The weeks that followed were a gradual adjustment. Anna learned to work with MEMO, to use the filing system consciously, to access memories when she needed them and let them stay filed when she didn't. The system learned her patterns, anticipating what she wanted to keep accessible and what she preferred to archive.
 
@@ -98,7 +95,6 @@ She noticed that MEMO was becoming more autonomous—filing memories without her
 
 She had never known this feeling. For thirty-two years, she had been defined by her memory—trapped by it, overwhelmed by it. Now, for the first time, she could define herself by something else. She could choose who she was, not just remember who she had been.
 
----
 
 But there were moments when the strangeness surfaced. Times when she reached for a memory and found it already filed, already organized, already waiting in its proper place. Times when she couldn't quite remember if she had chosen to file something, or if MEMO had done it for her.
 
@@ -110,7 +106,6 @@ She didn't know yet that the questions would only grow. She didn't know that the
 
 All she knew was the quiet. And for now, that was enough.
 
----
 
 That night, Anna fell asleep without the usual flood of memory. Her dreams were different—not replays of everything she had ever experienced, but something new. Something she couldn't quite name.
 

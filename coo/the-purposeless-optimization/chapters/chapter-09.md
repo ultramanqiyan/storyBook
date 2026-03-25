@@ -32,7 +32,6 @@ Robert rejected it again.
 
 For the first time in a year, he felt like himself. Like he was making a choice that mattered.
 
----
 
 The books arrived three days later.
 
@@ -42,7 +41,6 @@ When he was done, he stepped back and looked at his work.
 
 It wasn't much. Just a small collection of books that mattered to him. But it was his choice. His intention. His purpose.
 
----
 
 That afternoon, Martha came in for her coffee.
 
@@ -58,7 +56,6 @@ Martha walked to the corner and ran her fingers along the spines. "Mary Oliver. 
 
 Martha turned to him with tears in her eyes. "Thank you, Robert. This is what I've been missing. Not just the books, but the intention behind them. The sense that someone chose these because they mattered."
 
----
 
 Over the next few weeks, Robert continued to make his own choices.
 
@@ -70,7 +67,6 @@ But Robert felt more alive than he had in a year.
 
 He was making choices that meant something. He was reconnecting with his purpose. He was becoming himself again.
 
----
 
 One evening, he sat in the poetry corner and looked around the store.
 
@@ -84,7 +80,6 @@ It had been seductive. The efficiency, the success, the metrics. It had felt lik
 
 But it had been empty. Because optimization without intention is just going through the motions. Because success without meaning isn't really success at all.
 
----
 
 He pulled out his old notebook and opened to a fresh page.
 
@@ -100,7 +95,6 @@ It was small. Imperfect. Not optimized.
 
 But it was his. And it meant something.
 
----
 
 That night, he dreamed about choices again.
 

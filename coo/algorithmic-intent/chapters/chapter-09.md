@@ -28,7 +28,6 @@ The AI could see. But it couldn't witness.
 
 And witnessing—being present with people in their pain, their confusion, their hope—that was something a machine couldn't do. Not because it wasn't sophisticated enough, but because witnessing required a witness. Someone who could be affected by what they saw.
 
----
 
 On Sunday, Dot drove to the cemetery where Frank was buried. She hadn't been there in months—another pattern the AI had probably identified, another avoidance she hadn't acknowledged.
 
@@ -40,19 +39,16 @@ The silence was familiar. She'd talked to Frank in her mind for eight years. But
 
 "I'm lonely," she said. "And I don't know how to not be lonely anymore. I don't know how to build a life without you in it."
 
----
 
 She sat on the bench near his grave, watching the clouds move across the sky. The AI had shown her something true. But it hadn't told her how to live with that truth.
 
 That was still her work to do.
 
----
 
 On Monday, Dot returned to the community center with a new understanding. The AI could find patterns in behavior that revealed intent. But it couldn't have intent itself. It couldn't care about the people in the room. It couldn't feel the weight of a family's future. That was still her job.
 
 The AI could see what people wanted. But only she could help them face it.
 
----
 
 Her first case that morning was a dispute between two neighbors about a fence. The kind of case where the AI excelled. She let the system run, watching it identify the underlying dynamics with its usual precision.
 
@@ -60,13 +56,11 @@ But this time, she noticed something different. The AI's analysis was a starting
 
 That was her contribution. The judgment, the timing, the human presence that made mediation more than just information processing.
 
----
 
 By the end of the day, she'd mediated three cases. In each one, she'd used the AI's insights, but she'd also brought something the system couldn't provide: empathy, judgment, the ability to sit with people in uncertainty.
 
 The AI was a tool. A powerful tool. But it wasn't a replacement.
 
----
 
 That evening, Dot walked home through the familiar streets of Millfield. She'd been doing this work for fifteen years. She'd thought she understood it. But the AI had shown her that there was more to learn.
 

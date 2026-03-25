@@ -48,7 +48,6 @@ Each portrait was a revelation. Each face contained stories—lines that spoke o
 
 "Exactly. Both are true. Both are you."
 
----
 
 The work was exhausting but meaningful. Marcus spent hours with each subject, talking to them about their lives, their fears, their hopes. He learned that seeing someone was not just about perception—it was about connection. To truly see someone, you had to understand who they were, not just what they looked like.
 
@@ -64,7 +63,6 @@ Marcus thought about that. The photographs were real—they were based on actual
 
 Maybe that was what all seeing was. Not just receiving information, but constructing meaning. Not just perceiving, but interpreting.
 
----
 
 The breakthrough portrait was of an elderly woman named Ruth. She had come to Marcus after seeing his advertisement, curious about what he was trying to do.
 
@@ -88,7 +86,6 @@ Ruth looked at him with something like wonder. "I've never thought of it that wa
 
 "That's what I want to show people. That we don't have to choose. That we contain multitudes."
 
----
 
 The exhibition was scheduled for a gallery downtown—a space Marcus had rented for three weeks. He spent days arranging the portraits, deciding which faces to show, how to arrange them, what story to tell.
 
@@ -102,7 +99,6 @@ The result was a mosaic of human experience—a collection of faces that showed 
 
 Marcus looked at the gallery—at the faces arranged on the walls, at the truths and graces he had captured. He had spent months learning to see. Now he was ready to show others what he had learned.
 
----
 
 The opening was crowded. People moved through the gallery, studying the portraits, comparing the raw and optimized versions. Marcus watched them in raw mode—seeing their reactions, their confusion, their attempts to understand.
 
@@ -118,7 +114,6 @@ The visitor studied the portraits for a long moment. "I've never thought about i
 
 "They're both real. They're just different kinds of truth—one is physical, one is perceptual. Both matter. Both are beautiful."
 
----
 
 Maya found him later, standing alone in a corner of the gallery. "Are you okay?"
 

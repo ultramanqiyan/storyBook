@@ -62,7 +62,6 @@ That night, Maya didn't sleep. She lay in bed, listening to seven voices debate 
 
 *We are Maya,* said Sage, ever wise. *And Maya is us. The question is not what we are, but what we will become.*
 
----
 
 By morning, Maya had made a decision. She would not tell anyone—not yet. She would learn to live with her seven selves first. She would understand what this meant.
 

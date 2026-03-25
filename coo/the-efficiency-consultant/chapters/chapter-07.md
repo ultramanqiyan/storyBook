@@ -116,7 +116,6 @@ Lisa looked at the contract. It was a good offer—better title, better pay, mor
 
 All she had to do was keep training the machine that would eventually replace her.
 
----
 
 She took the contract home and read it again. The language was careful, professional, flattering. It talked about "capturing expertise," "preserving knowledge," "building legacy."
 

@@ -102,7 +102,6 @@ By dawn, she had filled pages with thoughts, but no closer to a decision. The su
 
  She had made her choice once already. She had told the truth at her defense, knowing it would cost her. Now she had to decide if she was willing to pay that price again.
 
----
 
 The morning was bright when Elena walked into Dean Cross's office. The dean looked up, her expression expectant.
 
@@ -134,7 +133,6 @@ Dean Cross was quiet for another moment. Then she stood and walked to the window
 
 Elena thought about the questions she had generated, about the joy of genuine curiosity, about the peace that came from integrity. "Yes," she said. "I really do understand."
 
----
 
 The walk back to her office felt different. Lighter. Elena had made her choice, and the consequences were real. But she had also found something else: clarity. She knew who she was and what she stood for. And she knew where she was going.
 
@@ -152,7 +150,6 @@ She found Dr. Webb in his archive, waiting for her. He looked up as she entered,
 
  Webb smiled, the first real smile Elena had seen from him. "Then welcome to the resistance. For real this time."
 
----
 
 That night, Elena dreamed of questions again. They came to her more clearly now, sharper, as if the doubt had lifted. She woke with a sense of purpose, a determination that felt like hope. The path ahead was hard. But it was hers. And she was ready to walk it.
 

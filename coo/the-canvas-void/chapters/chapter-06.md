@@ -32,7 +32,6 @@ The results were interesting. The new translations were more chaotic than the fu
 
 *This is different,* she thought, looking at a piece called "Evening Traffic." The colors still clashed, the shapes still overlapped, but there was a clarity that the raw translations lacked. It was like seeing her experience through a slightly cleaner lens—not changed, just clarified.
 
----
 
 She showed the new work to Maya, who studied it carefully.
 
@@ -44,7 +43,6 @@ Maya nodded slowly. "I think this is the way forward. Not raw versus optimized, 
 
 Lena felt something she hadn't felt in months: hope. The warm golden color of possibility.
 
----
 
 But the gallery owner was not convinced.
 
@@ -62,7 +60,6 @@ The gallery owner hesitated. "I'm not saying you should compromise your principl
 
 The gallery owner's expression shifted—the tightness that meant disappointment. "That's a choice. But you should know: the art world moves on quickly. If you're not producing what people want, someone else will."
 
----
 
 Lena walked home through the city, the sounds of traffic translating into colors in her mind. The horns were sharp red, the engines deep brown, the sirens spikes of blue. It was chaotic, overwhelming, true. This was what she actually experienced—not the beautiful, balanced compositions that CANVAS had created, but the mess, the chaos, the reality.
 
@@ -70,7 +67,6 @@ Lena walked home through the city, the sounds of traffic translating into colors
 
 She didn't have an easy answer. But she was beginning to understand that the question itself was important—that the choice between success and authenticity was at the heart of what it meant to be an artist.
 
----
 
 She talked to Maya that evening, explaining the gallery owner's ultimatum.
 
@@ -88,7 +84,6 @@ Lena considered this. She had been so focused on maintaining her success in the 
 
 *Maybe I've been asking the wrong question,* she realized. *Not "how do I succeed?" but "what does success mean?"*
 
----
 
 The next day, she called the gallery owner.
 
@@ -108,7 +103,6 @@ Lena felt a pang—the sharp red of loss. But beneath it, something else: relief
 
 "Thank you for your honesty," she said. "And for everything you've done."
 
----
 
 That night, Lena sat in her studio, looking at the raw translations that had cost her so much. They were chaotic, difficult, true. The optimized versions had been beautiful, accessible, false. And now she had chosen truth over success.
 

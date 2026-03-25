@@ -36,7 +36,6 @@ Sofia studied the screen. The analysis was accurate—impressively so. But somet
 
 "That's right. It's making educated guesses based on data. But the guesses are very good." Marcus tapped the screen again. "Here's what the system recommends for restoration."
 
----
 
 A list of steps appeared, each one detailed and specific: strip the finish using a gel remover, repair the leg with mortise and tenon joinery, match the wood from reclaimed walnut, apply a shellac finish using the French polish technique.
 
@@ -46,7 +45,6 @@ Sofia stared at the list. It was exactly what she had done. Not similar—exactl
 
 "The system analyzed the remaining finish particles and matched them to historical techniques. French polish was common for this type of furniture in this period."
 
----
 
 Sofia felt something shift inside her. The AI had recommended exactly what she had done, based on data and analysis. Was her craft really just pattern recognition? Was her expertise just a database in her head?
 
@@ -54,7 +52,6 @@ Sofia felt something shift inside her. The AI had recommended exactly what she h
 
 "Of course," Marcus said. "That's why we want to work with experts like you. The AI can provide recommendations, but the final decisions are always human. We see this as a collaboration, not a replacement."
 
----
 
 Marcus spent the next hour demonstrating the system. He showed Sofia how the AI could analyze damage patterns, match wood grains, recommend finishes. He showed her the database of historical pieces, the algorithms that predicted original appearances, the tools that generated step-by-step restoration plans.
 
@@ -64,7 +61,6 @@ It was impressive. There was no denying it. But Sofia couldn't shake the feeling
 
 "Of course. That's the idea."
 
----
 
 Sofia brought out the mid-century modern sideboard she'd been planning to work on. The veneer was damaged, the hardware needed replacing. She'd already assessed it, but she hadn't started the restoration.
 
@@ -74,7 +70,6 @@ The recommendations appeared: replace the damaged veneer with matching walnut, s
 
 Sofia studied the list. It was good. It was thorough. It was... almost right.
 
----
 
 "The hardware recommendation is wrong," she said. "The supplier you're suggesting reproduces hardware, but this piece needs original hardware. There's a difference in the weight, the feel. Anyone who knows mid-century furniture would notice."
 
@@ -82,7 +77,6 @@ Marcus nodded. "That's exactly the kind of feedback we need. The system learns f
 
 Sofia walked to her supply cabinet and pulled out a drawer of hardware she'd collected over the years. "I have original pieces from this period. I'd match the style, the weight, the patina. It's not about finding something that looks right—it's about finding something that is right."
 
----
 
 Marcus took notes, asked questions, seemed genuinely interested in understanding the nuances of craft. By the time he left, Sofia had agreed to test the system on her upcoming projects and provide feedback.
 
@@ -90,7 +84,6 @@ Marcus took notes, asked questions, seemed genuinely interested in understanding
 
 "That's all we ask," Marcus replied. "Thank you, Ms. Reyes. Your expertise is invaluable."
 
----
 
 After he left, Sofia sat in her workshop, looking at the mid-century sideboard. The AI's recommendations were good. They would have resulted in a competent restoration. But they weren't quite right. They lacked the understanding that came from years of working with wood, from knowing the difference between original and reproduction, from caring about authenticity.
 
@@ -98,7 +91,6 @@ Or was she just telling herself that? Was the difference real, or was it just he
 
 She didn't know. But she was going to find out.
 
----
 
 Over the next week, Sofia used the AI system on three projects. Each time, the recommendations were good—competent, thorough, technically accurate. And each time, Sofia found herself making adjustments, trusting her instincts over the algorithm.
 
@@ -106,7 +98,6 @@ But the adjustments were small. The AI got most things right. And as she used it
 
 Was this efficiency? Or was this erosion?
 
----
 
 She thought about her mentor, the old craftsman who had taught her everything. He had believed in the importance of hand work, of direct connection between craftsman and material. What would he have thought of AI analysis?
 
@@ -114,7 +105,6 @@ She thought she knew. He would have been skeptical. He would have said that craf
 
 And so did Sofia. Even if the understanding was uncomfortable.
 
----
 
 At the end of the week, she sent Marcus a detailed report: what the system got right, what it got wrong, what it missed entirely. He replied within hours, thanking her and promising to incorporate her feedback.
 

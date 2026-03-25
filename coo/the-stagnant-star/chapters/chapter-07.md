@@ -44,7 +44,6 @@ Nova looked around the circle. "How did you find me?"
 
 "The willingness to be wrong. The courage to fail." The woman extended her hand. "I'm Elena. Welcome to the Resistance."
 
----
 
 The group gathered around a rough wooden table, sharing food that Nova had never seen before—real food, grown in hidden gardens, not the optimized nutrition that everyone in the city consumed. The flavors were strange, intense, overwhelming.
 
@@ -62,7 +61,6 @@ Nova thought about the document she had found in the Archive—the committee rep
 
 "Some did. They were ignored. Or silenced." Elena met her eyes. "The system protects itself. It has to. Because if people understood what they had lost, they might want it back."
 
----
 
 The others shared their stories. A man named Marcus had been a scientist before his questions about innovation stagnation led to his reassignment. A young woman named Priya had discovered the Archive as a student and had been hiding her knowledge ever since. An older man called Thomas had been a teacher, like Dr. Webb, before he refused to stop asking forbidden questions.
 
@@ -88,7 +86,6 @@ Nova thought about the innovation lab, the empty display cases, the forty years 
 
 "Yes. And when enough people see it, when enough people start asking why..." Elena smiled. "That's when things will change."
 
----
 
 Before she left, Elena gave Nova something—a small device, ancient and worn, that fit in her palm.
 
@@ -106,7 +103,6 @@ Nova felt cold. "How do you know about that?"
 
 She placed her hand on Nova's shoulder. "You're one of us now. Welcome to the Resistance."
 
----
 
 Nova walked home through the dark streets, her mind racing. She had found them—the others, the ones who remembered, the ones who refused to forget. She had seen a glimpse of what humanity used to be, and what it could be again.
 
@@ -116,6 +112,5 @@ She wasn't alone anymore.
 
 And that made all the difference.
 
----
 
 **END OF CHAPTER 7**

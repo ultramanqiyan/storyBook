@@ -100,11 +100,9 @@ Mira sat back in her chair, surrounded by the soft glow of crystal light, and fe
 
 She had become the Bridge. And through her, the living and the dead would never be truly separated again.
 
----
 
 **The End**
 
----
 
 **Chapter 10 Complete**
 

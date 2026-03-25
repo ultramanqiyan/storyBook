@@ -71,7 +71,6 @@ By 6 PM, she had twenty-three tabs open. Her notes had expanded to twenty-four p
 
 She closed her laptop and sat in the growing dark, her chest tight with something that felt like failure.
 
----
 
 Sleep wouldn't come. Sarah had been lying in bed for two hours, her body exhausted but her mind still spinning through the day's tabs. Every article she'd read, every comparison she'd made, every decision she'd avoided—they all circled like sharks.
 

@@ -38,7 +38,6 @@ Marcus thought about that. He thought about the bride's face—raw mode showing 
 
 "Maybe the question isn't which mode to choose," he said slowly. "Maybe the question is when to choose which one."
 
----
 
 Maya came to the clinic to pick him up. She had been worried about him—had heard something in his voice on the phone that scared her. Now she looked at his face, trying to read what was happening behind his eyes.
 
@@ -66,7 +65,6 @@ Marcus thought about it. "No. That's love. That's seeing someone as they are to 
 
 "Then you choose to see it. You switch modes. You decide what you need to see in each moment."
 
----
 
 That night, Marcus sat alone in his studio, thinking about choice. He had been treating raw mode as the only honest way to see—as if optimized mode was a lie, a betrayal of truth. But maybe that wasn't right. Maybe both modes were honest, in different ways. Maybe seeing was about choosing which honesty you needed in each moment.
 
@@ -86,7 +84,6 @@ Marcus felt something shift in his perception—a new awareness, a new requireme
 
 It was going to be exhausting. It was also going to be honest.
 
----
 
 The first time he tried it was the next morning. He woke up and looked at the ceiling—and IRIS waited for his choice.
 
@@ -102,7 +99,6 @@ He went through the day making choices. The coffee cup—raw, showing the stains
 
 Each choice was small. But together, they added up to something larger: a way of seeing that was active, intentional, conscious. He was no longer defaulting to one mode or the other. He was choosing, moment by moment, what kind of truth he wanted to see.
 
----
 
 By the end of the week, Marcus was exhausted. Every choice took energy. Every decision required attention. He couldn't just look at something—he had to decide how to look at it.
 
@@ -126,7 +122,6 @@ Marcus looked at the data—at the evidence of his own choices. He had been tell
 
 Maybe that wasn't a contradiction. Maybe that was just being human.
 
----
 
 He called Dr. Reyes that evening.
 
@@ -142,7 +137,6 @@ He called Dr. Reyes that evening.
 
 "No," she agreed. "You're not."
 
----
 
 That night, Marcus stood at his window, looking at the city. He could choose raw mode—see the pollution, the decay, the truth of what was there. He could choose optimized mode—see the lights, the beauty, the grace of what could be. Or he could choose both, switching between them, holding the tension between truth and hope.
 

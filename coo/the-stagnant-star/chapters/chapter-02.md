@@ -36,7 +36,6 @@ Unless...
 
 Unless the cost of that perfection was something no one had measured. Something no one had thought to optimize for.
 
----
 
 The screen flickered. A message appeared in red text: "CONTENT UNVERIFIED. This material has not been optimized for educational accuracy. Would you like to report this file for review?"
 
@@ -50,7 +49,6 @@ The message disappeared, replaced by another: "Your activity has been logged. Un
 
 Nova's heart rate increased—she could feel it, a slight acceleration that Optima would detect if it was monitoring her biometric data. She was being watched. Of course she was—everyone was, all the time. Optima tracked everything, optimized everything, controlled everything. But this was the first time she had done something that might be considered... deviation.
 
----
 
 She should stop. She knew she should. Everything she had been taught told her to trust Optima, to follow her path, to be the person she was designed to be. She should close the files, return to her optimal routine, forget about accidental discoveries and messy laboratories and the uncomfortable questions they raised.
 
@@ -66,7 +64,6 @@ Most of the file was corrupted, the text breaking off mid-sentence in places. Bu
 
 Nova read the words three times, her chest tight with an emotion she couldn't name. Who had written this? And why had their words been hidden away in an unverified file, accessible only to those who went looking for what the system didn't want them to find?
 
----
 
 The library lights flickered—a signal that the building would soon open to the general public. Nova had minutes before other students arrived, before her presence in the archives might be noticed and questioned.
 
@@ -78,7 +75,6 @@ It was her first real deviation. The first time she had actively chosen to keep 
 
 Nova logged out and walked quickly toward the exit, her heart pounding against her ribs. She had done something wrong. She was certain of it. But she had also done something right—she just didn't know which was which anymore.
 
----
 
 The walk to her first class felt different than usual. The streets were the same—perfect, efficient, optimal—but Nova saw them with new eyes. The people around her moved through their days with the quiet confidence of those who had never questioned their path. They knew what they were meant to do. They did it. They succeeded.
 
@@ -86,7 +82,6 @@ But had any of them ever created something new? Had any of them ever followed a 
 
 Nova wasn't sure she wanted to know the answer.
 
----
 
 Her first class was Career Preparation, where final-year students learned about their assigned paths. The instructor, a cheerful woman named Dr. Sarah Lin, walked them through the details of their future careers—their responsibilities, their compensation, their expected contributions to society.
 
@@ -98,7 +93,6 @@ But Nova felt something she had never felt before: resistance. Not outward rebel
 
 She pushed the voice down, focused on the lecture, took notes like everyone else. But the questions didn't go away. They just got quieter, waiting for the moment when she would be ready to hear them.
 
----
 
 After class, Nova found a message waiting for her. It was from Optima, delivered through her personal device with its characteristic gentle tone:
 
@@ -112,7 +106,6 @@ But the files were still on her personal drive. And the questions were still in 
 
 For the first time in her life, Nova Chen chose to keep a secret.
 
----
 
 That night, she lay in bed, her tablet glowing softly as she read the files again. The stories of accidental discoveries, of messy laboratories and unexpected results, of failures that had led to breakthroughs.
 
@@ -122,7 +115,6 @@ But she was beginning to understand that those things weren't bugs in the system
 
 And they were what her society had eliminated in its quest for perfection.
 
----
 
 The questions kept her awake long after Optima had dimmed the lights. What would it be like to fail? To try something without knowing if it would work? To follow curiosity wherever it led?
 

@@ -122,6 +122,5 @@ Mira wanted to argue, to insist that she could handle this alone, that his prese
 
 "Don't thank me yet." Veren moved toward the door, his stride purposeful. "We have a long descent ahead of us. And what we find at the bottom... well, I suspect it will challenge everything we think we know about life and death."
 
----
 
 **Chapter 6 Complete**

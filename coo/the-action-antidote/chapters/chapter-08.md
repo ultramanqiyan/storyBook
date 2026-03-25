@@ -40,7 +40,6 @@ Sarah stared at the screen. "Different direction?"
 
 The call ended. Sarah sat staring at her blank screen. She'd tried so hard. And it hadn't been enough.
 
----
 
 The apartment felt smaller that night. Sarah sat on her couch, the TV off, the silence heavy. The voice was back, louder than it had been in weeks.
 
@@ -54,7 +53,6 @@ The voice was screaming. Did that mean she was close to something?
 
 Tomorrow was Saturday. Garden day. She'd go. She'd talk to Elena. Maybe there was something to learn here.
 
----
 
 Saturday morning, Sarah went to the garden. She didn't want to talk about what happened, but Elena saw it in her face.
 
@@ -100,7 +98,6 @@ Sarah looked at Elena with new eyes. She'd assumed the older woman had always be
 
 "One day at a time. One small action at a time. I showed up here, just like you did. I put my hands in dirt. I talked to people. I learned that failure isn't the end." Elena stood, brushing off her knees. "You fell forward, Sarah. That's the only way to move. The question is: what's your next step?"
 
----
 
 She went home and added Elena's words to her collection: "You fell forward. That's the only way to move."
 

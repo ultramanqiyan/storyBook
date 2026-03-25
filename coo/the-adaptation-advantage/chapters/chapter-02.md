@@ -70,7 +70,6 @@ Alex had been asking himself the same question all day. "I don't know either. I 
 
 Alex flinched at the word, but didn't correct it. Because it was true. In the new world the company was building, everything he knew was worthless.
 
----
 
 That night, Alex couldn't sleep.
 
@@ -110,7 +109,6 @@ Alex nodded. "What if I can't adapt? What if I'm one of those people who gets le
 
 "Then you'll figure it out." Elena squeezed his hand. "You've figured out everything else. You'll figure this out too."
 
----
 
 The next morning, Alex woke up with a decision.
 
@@ -132,7 +130,6 @@ But he couldn't figure this out on his own. And he was running out of time.
 
 He clicked the link and scheduled his first appointment.
 
----
 
 The coaching firm was called "Pivot Point."
 

@@ -65,7 +65,6 @@ She added an emoji—casual, breezy, everything was fine—and put the phone dow
 
 Instead, she ordered Thai food and turned on the TV. Another night alone. Another night she didn't have to decide anything.
 
----
 
 The ceiling was barely visible in the dark, but Sarah knew every crack and water stain by heart. She'd spent many nights staring at them. Tonight was no different.
 

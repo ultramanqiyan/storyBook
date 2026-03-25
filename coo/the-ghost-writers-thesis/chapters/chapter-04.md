@@ -24,7 +24,6 @@ The memory was distant, like a dream she couldn't quite recall. She had been a c
 
 When had she stopped asking them?
 
----
 
 She opened a new document and typed: "What do I actually want to know?"
 
@@ -36,7 +35,6 @@ She forced herself to type another line: "What questions would I ask if no one w
 
 The answer didn't come. But the question itself felt like a small victory.
 
----
 
 That night, she dreamed of questions.
 
@@ -54,7 +52,6 @@ It might fail. It probably would fail. But she had to try. Because the alternati
 
 And that was a loss she refused to accept without a fight.
 
----
 
 The next morning, Elena returned to the archive with a new purpose.
 
@@ -78,7 +75,6 @@ Another. *Why do some online spaces feel like communities while others feel like
 
 The questions kept coming, slowly at first, then faster. They weren't brilliant. They weren't optimized for impact. But they were hers. Each one felt like a small flame, flickering in the darkness of her atrophied curiosity.
 
----
 
 She spent the entire day in the archive, practicing. By evening, she had filled three pages with questions. Most were mediocre. Some were genuinely interesting. A few were questions she might actually want to pursue.
 
@@ -86,7 +82,6 @@ But the quality didn't matter. What mattered was that she had generated them her
 
 For the first time in three years, Elena felt something like wonder.
 
----
 
 She walked home in the fading light, her notebook clutched to her chest. The campus was quiet, the evening crowd thin. She barely noticed. Her mind was still buzzing with questions, with the strange, unfamiliar sensation of genuine curiosity.
 

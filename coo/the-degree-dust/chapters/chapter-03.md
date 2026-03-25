@@ -72,7 +72,6 @@ But the context had changed. These words were no longer scarce, no longer precio
 
 What was the value of a library when all libraries were virtual?
 
----
 
 He walked to the lecture halls next.
 
@@ -88,7 +87,6 @@ They were here because they'd been told to be here. Because the system required 
 
 But the meaning had drained out of it.
 
----
 
 He ended his walk at the alumni center, a building that celebrated the university's history.
 
@@ -102,7 +100,6 @@ He looked at the more recent photos. The crowds were smaller. The faces seemed l
 
 The alumni center was a monument to what the university had been. But it was also a record of what it was becoming—a smaller, quieter, less confident institution.
 
----
 
 That evening, he compiled his observations into a report.
 
@@ -124,7 +121,6 @@ That world was gone.
 
 The question was what would replace it.
 
----
 
 He went home to find Alex waiting for him.
 

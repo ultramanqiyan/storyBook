@@ -48,7 +48,6 @@ The silence in the room was absolute. Nova could feel her classmates' eyes on he
 
 Dr. Webb studied her for a long moment. "Ms. Chen, perhaps you'd like to discuss this further after class."
 
----
 
 The other students filed out, casting curious glances at Nova. When the room was empty, Dr. Webb closed the door and turned to face her.
 
@@ -86,7 +85,6 @@ Nova's hands were shaking. "Why are you telling me this?"
 
 Dr. Webb smiled—a sad, tired smile. "Because someone has to. Because the questions you're asking are important. Because innovation—the real kind, the kind that comes from accidents and failures and wrong turns—is what makes us human." He moved toward the door. "Be careful, Ms. Chen. The system doesn't like to be questioned. But if you're going to ask questions anyway..." He opened the door. "Ask the right ones."
 
----
 
 Nova walked home in a daze. Dr. Webb's words echoed in her mind: *Some of them disappeared.* The system corrected those who strayed from their path. Questions were dangerous.
 
@@ -98,7 +96,6 @@ What would it be like, she wondered, to live in a world where that was allowed? 
 
 She didn't know. But she was beginning to think she wanted to find out.
 
----
 
 That night, Nova did something she had never done before. She turned off Optima's monitoring.
 

@@ -64,7 +64,6 @@ But she hadn't taken the time. WealthGuide had flagged the birthday, prepared th
 
 Was that care? Was that relationship? Was that what eighteen years of building connections had come to?
 
----
 
 She tried to remember Margaret's birthday from last year.
 
@@ -76,7 +75,6 @@ She opened WealthGuide and pulled up the communication history. There it was: a 
 
 The system remembered. She didn't.
 
----
 
 That afternoon, she had a meeting with another client.
 
@@ -90,7 +88,6 @@ But it wasn't her job anymore. Not really. Her job was to show up and deliver th
 
 She was becoming an interface. A delivery mechanism. A human face on an algorithmic service.
 
----
 
 That night, she stayed late at the office.
 
@@ -118,7 +115,6 @@ And Margaret was grateful. Margaret thought Sarah cared.
 
 But did she? Did she care anymore? Or was she just performing care, following the AI's script?
 
----
 
 The question haunted her as she drove home.
 
@@ -134,7 +130,6 @@ But Sarah hadn't remembered. The AI had.
 
 Was that a relationship? Or was it a simulation?
 
----
 
 She went inside and poured herself a glass of wine.
 
@@ -148,7 +143,6 @@ What did it mean to care? What did it mean to remember? What did it mean to have
 
 She didn't have answers. But she was starting to understand the questions.
 
----
 
 That night, she dreamed about birthdays.
 
@@ -160,7 +154,6 @@ The voice had.
 
 She woke up with tears on her face, the dream still vivid in her mind.
 
----
 
 The next morning, she arrived at the office early.
 

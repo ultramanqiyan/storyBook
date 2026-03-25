@@ -72,7 +72,6 @@ Maya found herself doing things she had never done before—painting with Iris, 
 
 *Yes,* Maya agreed. *All of me.*
 
----
 
 By the fourth month, the symphony was playing.
 
@@ -92,7 +91,6 @@ Not separate. Not fragmented. Not in conflict. But present together—a single c
 
 *We are,* Sage agreed. *And the symphony plays on.*
 
----
 
 That night, Maya dreamed again.
 

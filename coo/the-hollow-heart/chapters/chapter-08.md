@@ -56,7 +56,6 @@ I stood, my enhanced body moving with mechanical precision. "Thank you, Dr. Vasq
 
 I nodded, though I couldn't feel the gratitude her words were meant to inspire. "I'll be in touch."
 
----
 
 I walked out of the clinic into the evening air, my enhanced senses immediately cataloging the world around me. The sunset was painting the sky in colors that no unenhanced human could see—ultraviolet and infrared adding depth to the oranges and pinks. The sounds of the city were a symphony of frequencies, from the low rumble of underground trains to the high-pitched whine of electrical systems.
 
@@ -66,7 +65,6 @@ But I would also lose the hollow. The emptiness that had replaced my soul. The k
 
 Was it worth the risk?
 
----
 
 I spent the night walking through the city, trying to decide.
 
@@ -76,7 +74,6 @@ I could remember every moment of those experiences. I could describe them in per
 
 And that, I realized, was the core of my decision. Not the risks, not the odds, not the potential for loss. The core was this: I would rather die trying to feel again than live forever in a world I could only observe.
 
----
 
 At dawn, I found myself outside Maya's building.
 
@@ -96,7 +93,6 @@ She stepped aside, and I entered her apartment for the second time in two days. 
 
 "There is something," I said. "But you're not going to like it."
 
----
 
 I told her about Dr. Webb. About the reversal procedure. About the risks—the 15% mortality rate, the potential for permanent impairment, the possibility that even if I survived, I might never fully recover my emotions.
 
@@ -116,7 +112,6 @@ She was crying again. I could see the tears, could smell the salt, could hear he
 
 "If I don't try," I replied, "I'll never forgive myself."
 
----
 
 We sat together in silence as the sun rose, filling her apartment with light I could perceive in wavelengths she couldn't imagine. She held my hand, and I could feel the warmth, the pressure, the texture of her skin. But I couldn't feel the connection.
 

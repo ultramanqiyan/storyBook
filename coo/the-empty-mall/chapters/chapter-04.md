@@ -70,7 +70,6 @@ Helen was quiet for a long moment. "I think they lost their reasons to be here. 
 
 She stood up, gripping her cane. "We used to need each other. Now we don't. And that's the loneliest thing in the world."
 
----
 
 James interviewed fifteen people that day. The patterns were consistent.
 
@@ -84,7 +83,6 @@ When that culture fragmented—when work disappeared, when community dissolved, 
 
 The mall was empty not because products were bad, but because the social fabric that made products meaningful had unraveled.
 
----
 
 That evening, James compiled his findings into a report.
 
@@ -108,7 +106,6 @@ They had everything they needed.
 
 And nothing they wanted.
 
----
 
 He walked home through the dark streets, his mind turning over the implications.
 

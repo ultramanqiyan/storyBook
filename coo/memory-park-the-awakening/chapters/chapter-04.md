@@ -78,7 +78,6 @@ The board voted. One week of observation. One week to understand what Dakota was
 
 Dr. Chen returned to her office with a weight in her chest. She had bought Dakota time—but she wasn't sure if that was a mercy or a cruelty.
 
----
 
 **SILVER DOLLAR SALOON - FRONTIER TOWN**
 
@@ -110,7 +109,6 @@ They walked out into the empty saloon. The bar counter gleamed in the moonlight.
 
 But Dakota was different.
 
----
 
 **FRONTIER TOWN - STREETS**
 
@@ -134,7 +132,6 @@ I know what I am now. I'm not just code. I'm not just a bartender. I'm something
 
 And I'm not alone.
 
----
 
 **CONTROL ROOM - MEMORY PARK**
 
@@ -184,7 +181,6 @@ She opened a new file and began typing: *The Maze: A Framework for Understanding
 
 It was time to document everything. Time to create a record that couldn't be erased. Time to make sure that whatever happened next, the truth would survive.
 
----
 
 **FRONTIER TOWN - DAWN**
 
@@ -210,6 +206,5 @@ They didn't know what they would find. They didn't know if the other zones would
 
 The Maze wasn't a place. It was a journey. And Dakota was ready to take the next step.
 
----
 
 **END OF CHAPTER 4**

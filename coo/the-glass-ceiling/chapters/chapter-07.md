@@ -28,7 +28,6 @@ But the project was too small to matter. No one noticed. No one cared.
 
 At the next all-hands, the VP didn't mention Alex's name. They stood in the back of the crowded auditorium, surrounded by colleagues who didn't make eye contact, and watched as others were praised for projects Alex had helped with. The taste of the complimentary coffee was bitter on their tongue.
 
----
 
 **THE ISOLATION**
 
@@ -42,7 +41,6 @@ They'd gone from rising star to nobody in six months.
 
 The question haunted them. They'd done everything right. They'd worked harder than anyone. They'd sacrificed everything—relationships, health, sanity—for this job. And somehow, they'd ended up here.
 
----
 
 **THE CALL**
 
@@ -70,7 +68,6 @@ The question hung in the air, unanswered. The silence stretched between them, he
 
 "I don't know anymore," Alex finally admitted. "I don't know anything anymore."
 
----
 
 **THE REALIZATION**
 

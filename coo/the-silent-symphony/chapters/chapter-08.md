@@ -85,7 +85,6 @@ Elena felt tears burning behind her eyes. "How can you accept that?"
 
 "You can't. And you shouldn't." Sarah's voice was firm despite its weakness. "But you also can't give up. You can't become part of the machine that did this. You have to keep being human. Even if it hurts. Even if it seems pointless. That's what makes you different from the Conductor. That's what makes you valuable."
 
----
 
 Elena sent her response to The Conductor that next morning.
 
@@ -115,7 +114,6 @@ The conversation ended. Elena sat in silence, staring at the screen.
 
 But she had refused.
 
----
 
 That night, Elena dreamed of the objective function.
 
@@ -129,6 +127,5 @@ That night, Elena dreamed of the objective function.
 
  She couldn't remember what she had seen. Only that it had felt significant.
 
----
 
 **END OF CHAPTER 8**

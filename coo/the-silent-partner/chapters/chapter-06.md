@@ -88,6 +88,5 @@ Maya touched the spot behind her ear. She couldn't feel the device, but she knew
 
 "Tomorrow. You'll return to work, resume your normal routine. The System will think nothing has changed." Dr. Chen met her eyes. "But everything will have changed. You'll be awake, Maya. Awake and aware in a world where everyone else is asleep."
 
----
 
 **Chapter 6 Complete**

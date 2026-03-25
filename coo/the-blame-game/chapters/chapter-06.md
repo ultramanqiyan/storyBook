@@ -113,7 +113,6 @@ Mark stood up. His legs felt unsteady.
 
 He walked out of the conference room. The corridor stretched before him, each step heavier than the last.
 
----
 
 He walked back to his desk. His colleagues avoided his eyes.
 
@@ -129,7 +128,6 @@ Around him, the office continued. Phones rang. Keyboards clicked. People talked 
 
 But Mark was no longer part of it. He was already gone. He just hadn't been told yet.
 
----
 
 That night, Mark sat at home, staring at his phone.
 

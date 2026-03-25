@@ -64,7 +64,6 @@ An all-hands presentation. In front of the entire engineering organization—may
 
 As I walked back to my desk, I felt a familiar warmth in my chest. Recognition. Validation. The feeling that all my hard work was finally paying off. I didn't examine too closely how much of that work had been mine, how much of it had been CodeForge's. The distinction seemed less important than the result.
 
----
 
 The weekly metrics meeting was a new addition to our schedule, another artifact of the company's AI-first initiative. I settled into my usual seat near the back, notebook open, trying to look attentive while my mind raced with possibilities.
 
@@ -74,8 +73,7 @@ Jennifer stood at the front, her presentation already loaded. The title slide re
 
 The slide showed a leaderboard. Names and numbers, ranked by productivity metrics. Lines of code written, features completed, bugs fixed, code review turnaround time. All the usual metrics, now aggregated into a single score that determined your position on the board.
 
-I scanned the list, my heart rate quickening slightly. Sarah was near the top, her numbers solid if not spectacular. Mike was in the middle, his metrics showing modest improvement. And at the bottom—
-
+I scanned the list, my heart rate quickening slightly. Sarah was near the top, her numbers solid if not spectacular. Mike was in the middle, his metrics showing modest improvement. And at the bottom�?
 At the top, in bold letters, was my name.
 
 "Marcus has been our top adopter this week," Jennifer said, her voice carrying that corporate enthusiasm that always made my shoulders tense. "His productivity has increased by over sixty percent, and his code quality metrics have actually improved. Fewer bugs, faster reviews, better documentation. This is exactly what we're looking for, folks."
@@ -100,7 +98,6 @@ A small voice in my head whispered that this was wrong. That work shouldn't be a
 
 But another voice, louder and more insistent, said: *You're winning. Don't stop now.*
 
----
 
 The office was dark now, most of my colleagues long gone. The cleaning crew had come and gone, their vacuum cleaners and dust rags leaving the carpets fresh and the surfaces gleaming. I sat at my desk, the glow of my monitors the only light in the vast empty space.
 
@@ -130,7 +127,6 @@ For a moment, I considered stopping. Asking if he was okay. Offering to help, ma
 
 But the moment passed. I had a train to catch, and tomorrow was going to be another big day.
 
----
 
 *End of Chapter 2*
 

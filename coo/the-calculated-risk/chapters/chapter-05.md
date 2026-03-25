@@ -38,7 +38,6 @@ The system had made me successful, but it had also made me dependent. It had opt
 
 I wasn't sure I wanted that back.
 
----
 
 The night before I left for Switzerland, I sat in my apartment, staring at the mountains through my window. The peaks were dark against the sky, their faces mysterious and unknowable.
 
@@ -48,7 +47,6 @@ The competition tomorrow would test that ability. I would face routes I had neve
 
 But I would do it as myself—not as a vessel for AI decisions, but as a climber who had learned to think again.
 
----
 
 The flight to Switzerland was long and uncomfortable. I sat in my seat, my mind racing through scenarios, my body tense with anticipation. The other competitors were probably training with their AI systems, optimizing their routes, calculating their probabilities.
 
@@ -56,7 +54,6 @@ I would have none of that. I would have only my intuition, my judgment, my hard-
 
 It wasn't much. But it was mine.
 
----
 
 The competition venue was massive—a state-of-the-art climbing facility with walls that stretched toward the ceiling, routes that challenged even the best athletes. I walked through the space, my eyes scanning the problems, my mind already working.
 
@@ -64,7 +61,6 @@ The other competitors were there, their AI systems humming in their ears, their 
 
 I felt a flash of envy, quickly suppressed. I had chosen this path. I had chosen to climb without the system. Now I had to live with the consequences.
 
----
 
 The opening ceremony was a blur of lights and music and speeches. I stood with the other athletes, my heart pounding, my mind racing. Tomorrow, the competition would begin. Tomorrow, I would find out if I could really do this.
 

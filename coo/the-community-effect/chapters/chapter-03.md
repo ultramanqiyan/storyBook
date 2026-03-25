@@ -76,7 +76,6 @@ But as she drove home, Maya felt something she hadn't felt in months.
 
 Not alone.
 
----
 
 That night, she sat in her apartment, the silence less oppressive than usual.
 

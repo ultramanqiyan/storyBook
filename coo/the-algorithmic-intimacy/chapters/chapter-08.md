@@ -100,7 +100,6 @@ Sarah nodded. "Yes. Thank you for listening."
 
 She left his office, the question still echoing in her mind.
 
----
 
 That afternoon, she sat at her desk, staring at the Boston skyline.
 
@@ -110,7 +109,6 @@ But Sarah saw it now. She saw it every time she looked at a client and couldn't 
 
 She had become an imposter in her own professional life.
 
----
 
 The question wouldn't leave her alone.
 
@@ -126,7 +124,6 @@ Or did the authenticity matter? Did the source of the care matter? Did it make a
 
 Sarah didn't have answers. But she was starting to understand the questions.
 
----
 
 That night, she dreamed about questions.
 
@@ -142,7 +139,6 @@ Sarah tried to explain, but more questions came. The questions filled the room, 
 
 She woke up gasping, her heart pounding.
 
----
 
 The next morning, she arrived at the office early.
 
@@ -160,7 +156,6 @@ She didn't know if it was possible. She didn't know if she could reclaim what sh
 
 But she had to try.
 
----
 
 She opened her client list and started at the top.
 
@@ -184,7 +179,6 @@ Maybe she could reclaim what she'd lost. Maybe the memories were still there, bu
 
 Maybe she could learn to care again.
 
----
 
 She closed the WealthGuide interface and opened a blank document.
 

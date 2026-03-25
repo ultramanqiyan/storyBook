@@ -68,7 +68,6 @@ The technician pushed his glasses up again. "There is some theoretical research 
 
 But I wasn't satisfied. The numbers said everything was fine. My own experience said something was wrong.
 
----
 
 I spent the afternoon in the Memory Farm's public library, researching memory extraction and its effects. The official literature was reassuring—extractions were safe, non-destructive, and thoroughly tested. But the unofficial sources told a different story.
 
@@ -82,7 +81,6 @@ I closed the terminal and sat in the library's silence, trying to process what I
 
 The gaps in my memory weren't supposed to happen. The extraction process was supposed to be safe. But clearly, something was wrong.
 
----
 
 That evening, I tried an experiment.
 
@@ -100,7 +98,6 @@ The gaps were everywhere. In every memory I examined, there were holes. Missing 
 
 I looked at the list I had made. It was full of fragments—partial memories, incomplete images, sensations without context. The story of my childhood, reduced to a collection of disconnected moments.
 
----
 
 The next morning, I returned to the Memory Farm for another scheduled extraction. The buyer had requested a birthday party memory—any birthday, any age, as long as it was happy.
 
@@ -130,7 +127,6 @@ Dr. Okonkwo's expression was carefully neutral. "Memory extraction is a complex 
 
 But I could tell she was choosing her words carefully. There was something she wasn't saying.
 
----
 
 That night, I made another decision.
 
@@ -142,6 +138,5 @@ I looked at the photographs on my kitchen table. My parents, frozen in moments I
 
 I wouldn't let them disappear completely. I would find out what was happening. And I would find a way to remember.
 
----
 
 **END OF CHAPTER 02**

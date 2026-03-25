@@ -38,7 +38,6 @@ She started sharing her experience with others—people who, like her, had spent
 
 Sophie felt something—a warmth that was becoming familiar. Not overwhelming, not intense. Just small, fragile, real. And enough.
 
----
 
 "You've become an advocate," Dr. Bennett observed during their final session.
 
@@ -54,7 +53,6 @@ Dr. Bennett smiled. "That's the goal. Not to be like everyone else. But to be fu
 
 Sophie nodded. She had spent her whole life trying to cross the gap, to be like everyone else. Now she understood: the goal wasn't to eliminate the gap. The goal was to build a life that included it—a life that was authentic, even if it was different.
 
----
 
 That evening, Sophie sat with James, watching the sunset. The small warmth was there—the fragile joy that was becoming familiar. She didn't need the simulation anymore. She didn't need borrowed feelings. She just needed her own small, fragile, authentic emotions.
 

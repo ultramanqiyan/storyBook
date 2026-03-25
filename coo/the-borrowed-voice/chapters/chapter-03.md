@@ -88,7 +88,6 @@ Then he sat back in his chair, something cold settling in his stomach.
 
 When had he lost the ability to write in his own voice?
 
----
 
 The question haunted him for days.
 
@@ -110,7 +109,6 @@ But was he still being him? Or was he being the AI version of him?
 
 The question had no easy answer.
 
----
 
 He started experimenting.
 
@@ -132,7 +130,6 @@ He sat at his desk, staring at the cracked mug that had been his companion for e
 
 He had become the imposter of himself.
 
----
 
 That night, he dreamed about voices again.
 

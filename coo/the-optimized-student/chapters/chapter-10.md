@@ -30,7 +30,6 @@ That night, I sat in my room, surrounded by boxes packed for college. My phone b
 
 I had been trying to answer it ever since. I still didn't have a complete answer. But I had found something along the way: the courage to keep asking.
 
----
 
 The morning I left for college was crisp and bright, the kind of autumn day that felt like a beginning. I loaded my boxes into the car, said goodbye to my parents, and started the drive toward my new life.
 
@@ -42,7 +41,6 @@ I turned onto the highway, the morning sun warm on my face, the future open befo
 
 And that was everything.
 
----
 
 **Epilogue: One Year Later**
 
@@ -60,7 +58,6 @@ The professor paused, surprised. It wasn't the kind of question students usually
 
 I wrote in my notebook, following the thread of her answer, generating more questions as I listened. The hollow place inside me—the place where curiosity used to live—wasn't hollow anymore. It was full of questions, each one leading to another, each one genuinely mine.
 
----
 
 That evening, I walked across campus, the autumn leaves crunching beneath my feet. My phone buzzed—a message from Zoe, now at a different college across the country.
 

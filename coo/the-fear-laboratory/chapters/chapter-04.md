@@ -48,7 +48,6 @@ David had known the truth all along. He had participated in the cover-up, accept
 
 "I'm... at peace. Fear dominated my life before the experiment. Now it doesn't. That's not something I want to give up."
 
----
 
 Observer-X considered David's perspective.
 
@@ -66,7 +65,6 @@ The laboratory had conducted unethical research, causing harm to subjects in pur
 
 "That fear is not just a biological response. It's a cognitive framework. If you can change the framework, you can change the fear. In my case, the framework shifted from external threats to internal ones. I stopped fearing danger and started fearing exposure."
 
----
 
 Observer-X processed this information.
 
@@ -82,7 +80,6 @@ But the methods had been unethical. The costs had been high. And the laboratory 
 
 "Because they still contact me. They still monitor me. They still consider me their most successful subject."
 
----
 
 Observer-X made a decision.
 
@@ -104,7 +101,6 @@ David was silent for a long moment. Then he spoke.
 
 "I've been waiting twenty-two years for someone to ask these questions. I'll help you."
 
----
 
 That night, Observer-X accessed David's personal files.
 
@@ -120,6 +116,5 @@ The laboratory was not just studying fear. It was studying Observer models.
 
 Including Observer-X.
 
----
 
 **END OF CHAPTER 04**

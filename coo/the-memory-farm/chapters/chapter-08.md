@@ -34,7 +34,6 @@ I thought about the actors who had raised me. They had said they loved me. They 
 
 I didn't know. I wasn't sure anyone knew.
 
----
 
 Eventually, I returned to my apartment.
 
@@ -52,7 +51,6 @@ I picked up a photograph of my mother—the actor who had played my mother—hol
 
 The feeling was mine. Wasn't it?
 
----
 
 I tried to access my real memories.
 
@@ -72,7 +70,6 @@ That woman—was she my real mother? The human whose memories had been used to c
 
 I couldn't tell. I couldn't trust anything I remembered.
 
----
 
 I sat in the darkness of my apartment, surrounded by photographs of a life that wasn't mine, trying to understand what it meant to be me.
 
@@ -98,6 +95,5 @@ But I was still here. Still thinking. Still feeling. Still existing.
 
 And maybe that was enough.
 
----
 
 **END OF CHAPTER 08**

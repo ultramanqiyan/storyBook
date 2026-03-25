@@ -34,7 +34,6 @@ Maya laughed, and Marcus watched the expression move across her face—the lines
 
 Marcus thought about it. "Both. Sometimes it's exhausting. Sometimes it's liberating. But it's always mine. And that makes it worth it."
 
----
 
 Dr. Reyes called that evening, wanting to discuss the exhibition. "I saw the work," she said. "It's remarkable. You've managed to make the philosophical questions tangible—to show people what we've been studying in the lab."
 
@@ -48,7 +47,6 @@ Marcus looked out his window—at the city in raw mode, showing its scars, then 
 
 *Keep choosing.* Marcus turned the phrase over in his mind. That was what he had been doing all along—not finding a final answer, but learning to ask better questions. Not solving the problem of vision, but learning to live with its complexity.
 
----
 
 That night, Marcus sat in his studio, surrounded by the prints he had made over the past months. Each one was a record of a choice—a moment when he had decided what to see, how to see it, what to show.
 
@@ -66,7 +64,6 @@ Marcus looked at the portrait—at Maya's face in both versions. He had learned 
 
 *Maybe that's the point,* he thought. *Not to eliminate the gap, but to inhabit it. Not to resolve the tension, but to live within it. Not to find a final answer, but to keep asking the question.*
 
----
 
 The exhibition ran for three weeks. Marcus visited every day, watching people engage with the work, listening to their conversations, observing their attempts to understand.
 
@@ -78,7 +75,6 @@ He saw couples standing in front of portraits, discussing which version they pre
 
 But he didn't say it. He let them ask the questions. He let them struggle with the answers. Because that was what seeing was—not just perceiving, but questioning. Not just receiving, but choosing.
 
----
 
 On the last day of the exhibition, a young man came to the gallery. He was blind—Marcus could tell by the way he moved, by the white cane he carried, by the slight tilt of his head as he listened to the space.
 
@@ -106,7 +102,6 @@ The young man smiled. "That's different from what everyone else tells me. They s
 
 "You do. We all do. The question is what we do with it."
 
----
 
 That night, after the gallery had closed and the portraits had been packed away, Marcus sat alone in his studio. The exhibition was over. The questions remained.
 
@@ -124,7 +119,6 @@ Marcus looked at his hands—the hands that had taken thousands of photographs w
 
 That was the gift. That was the burden. That was the point.
 
----
 
 Maya found him there, hours later, staring at the empty walls where the portraits had hung.
 

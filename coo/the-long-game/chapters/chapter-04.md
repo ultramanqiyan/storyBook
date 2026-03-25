@@ -46,7 +46,6 @@ He thought about Jake's table—fifty years of use. He thought about Helen's boo
 
 What was he building?
 
----
 
 Monday morning. Michael was at his desk, starting a new project, when the old patterns kicked in.
 
@@ -60,7 +59,6 @@ The project was a customer portal for a healthcare company. In five years, the c
 
 *What if I built it to last?*
 
----
 
 He called the client that afternoon.
 
@@ -76,7 +74,6 @@ There was a pause on the other end.
 
 "What if we did?" Michael leaned forward. "What if we built this not just for the launch, but for the long term? What would change?"
 
----
 
 The conversation lasted an hour.
 
@@ -84,7 +81,6 @@ By the end, the timeline was still six weeks. But the approach had shifted. Inst
 
 It wasn't the long game—not yet. But it was a start.
 
----
 
 That night, Michael went back to Jake's workshop.
 
@@ -108,7 +104,6 @@ Michael looked at the table Jake was working on. Three months. Fifty years.
 
 *Maybe I can do this,* he thought. *Maybe I can learn to play the long game.*
 
----
 
 He went home and opened his laptop. The new project was waiting.
 

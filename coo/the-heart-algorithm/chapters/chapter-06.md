@@ -76,7 +76,6 @@ James's expression shifted—the softening that meant something positive. Sophie
 
 Sophie nodded. It was different. She was still feeling through a fog, still experiencing emotions at a distance. But the distance was smaller now. The gap was narrowing.
 
----
 
 The days passed. Sophie continued to reduce her use of the simulation, continued to monitor for authentic responses. The small feelings came more frequently now—warmth when James smiled, flutters when he touched her, aches when she thought about loss. They were still small, still fragile, still uncertain. But they were also becoming more recognizable as hers.
 
@@ -90,7 +89,6 @@ Dr. Bennett's expression brightened. "That's excellent progress. Your emotional 
 
 Sophie nodded. She didn't know if she would ever feel the full spectrum that others experienced. But she was feeling something now—something real, something hers. And that was more than she had ever had before.
 
----
 
 That evening, Sophie sat with James, watching the sunset. The simulation was inactive, but she didn't need it. She could see the beauty of the colors, feel the warmth of the light. And beneath it all, something else—a small, fragile, authentic response that was hers alone.
 

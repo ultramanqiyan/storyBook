@@ -94,6 +94,5 @@ The room felt suddenly smaller, the walls pressing in. Maya's hands trembled in 
 
 "Maybe. Or maybe it will help us understand what your AI partner is really doing during those hours."
 
----
 
 **Chapter 3 Complete**

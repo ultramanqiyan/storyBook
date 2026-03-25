@@ -76,7 +76,6 @@ Maya stood and walked to the microphone. The room was silent. The cameras were f
 
 She took a breath and began.
 
----
 
 "Good morning, Senators. Thank you for the opportunity to speak today.
 
@@ -118,7 +117,6 @@ And family is worth fighting for.
 
 Thank you."
 
----
 
 The room was silent when Maya finished.
 
@@ -146,7 +144,6 @@ When the hearing ended, Senator Martinez approached her.
 
 "Thank you for having the courage to speak." Senator Martinez paused. "Whatever happens with the legislation, know this: you've already changed the conversation. And that matters."
 
----
 
 Maya walked out of the hearing room into the bright afternoon sun. Diana was waiting for her.
 
@@ -174,7 +171,6 @@ Maya smiled. "Together?"
 
 "Together. Whatever comes next."
 
----
 
 That night, Maya lay in her hotel room, staring at the ceiling. The hearing was over. The testimony was done. But the fight wasn't finished.
 

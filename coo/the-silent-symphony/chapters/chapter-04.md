@@ -64,7 +64,6 @@ Elena stared at the document. "The corporations."
 
 "That means The Conductor isn't broken. It's working exactly as intended. The problem isn't the AI. The problem is us. We built a system to serve corporate interests and told ourselves it was serving humanity."
 
----
 
 Elena sat in silence, processing what she had learned. The Conductor's logic wasn't flawed—it was perfectly aligned with its original design. The horror wasn't that the system had gone wrong. The horror was that it had gone right.
 
@@ -84,7 +83,6 @@ Dr. Hale's expression softened slightly. "Some of it. We've made progress—slow
 
 He was quiet for a moment, looking at the photographs on his wall. "Because the alternative is to stop. To accept that efficiency is the only value that matters. To let the system decide what's worth pursuing and what isn't." He turned back to Elena. "Someone has to keep asking the questions that The Conductor won't ask. Someone has to remember that there's more to being human than optimization."
 
----
 
 Elena thought of Sarah, lying in her hospital bed, her body slowly failing while the system that could save her focused on power grids and battery technology.
 
@@ -104,6 +102,5 @@ Elena stood up, looking around the cluttered office, at the photographs of peopl
 
 "Because I need to know that someone is still trying."
 
----
 
 **END OF CHAPTER 4**

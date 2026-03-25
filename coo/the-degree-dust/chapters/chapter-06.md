@@ -68,7 +68,6 @@ The students looked at each other, uncertain but intrigued.
 
 He watched as the students began to talk, to form groups, to start the messy process of becoming.
 
----
 
 The first semester was chaotic.
 
@@ -84,7 +83,6 @@ The mentors—faculty who had volunteered to guide rather than teach—worked wi
 
 And the students began to change.
 
----
 
 Michael watched a group of students working in the makerspace.
 
@@ -96,7 +94,6 @@ They were building a community garden—designing the layout, constructing raise
 
 "I don't know. But I know it matters. I know it's teaching me things I couldn't learn from a textbook or an AI." She looked at the garden, at the other students working alongside her. "And I know I'm not alone. That's something."
 
----
 
 He watched another group in the library, engaged in a heated discussion about ethics.
 
@@ -108,7 +105,6 @@ They were debating the implications of AI—what it meant for humanity, for work
 
 "I don't know. Ask me in ten years, when we see who these students become." The professor smiled. "But I'll tell you this—they're more engaged than any students I've taught in twenty years. They're here because they want to be, not because they have to be. That changes everything."
 
----
 
 By the end of the first semester, Michael had data.
 
@@ -120,7 +116,6 @@ Retention was 87%—higher than the traditional program. Student satisfaction wa
 
 "I came for the community," wrote a third. "I stayed for the growth. I'm not sure what I'll do next, but I know I'll figure it out. That's the real skill I learned—not knowledge, but the ability to navigate uncertainty."
 
----
 
 Michael presented the results to President Warren.
 
@@ -138,7 +133,6 @@ Elizabeth was quiet for a long moment. "You're asking us to fundamentally transf
 
 "I'm asking us to save it. The old model is dying. This is a chance to build something new."
 
----
 
 That evening, Michael went home to find Alex waiting.
 
@@ -166,7 +160,6 @@ Alex considered. "Maybe I will. But I want to understand it first. Can I visit? 
 
 "Of course. Come tomorrow. See for yourself."
 
----
 
 The next day, Alex walked through the campus with his father.
 
@@ -190,7 +183,6 @@ Michael felt something shift in his chest—hope, maybe, or relief, or simply th
 
 "Then apply," he said. "And see where it leads."
 
----
 
 The Path was still an experiment. It might fail. It might transform into something unrecognizable. It might become the model for a new kind of education.
 

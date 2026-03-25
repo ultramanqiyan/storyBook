@@ -36,7 +36,6 @@ Taylor laughed bitterly. The sound was hollow, empty. "No. But only because I st
 
 The words landed like a blow. Alex felt their stomach tighten, a cold weight settling in their chest.
 
----
 
 **THE DATA**
 
@@ -58,7 +57,6 @@ They compiled what they could verify:
 
 The pattern wasn't complete data—it couldn't be, not without HR access. But it was enough to see the shape of something wrong. They felt a mix of emotions—validation, anger, fear, determination. They weren't crazy. They weren't inadequate. They were part of a pattern.
 
----
 
 **THE CONFRONTATION**
 

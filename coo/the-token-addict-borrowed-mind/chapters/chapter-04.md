@@ -104,7 +104,6 @@ Everything was fine. Everything was normal.
 
 Except it wasn't.
 
----
 
 That evening, I stayed late at the office, long after most of my colleagues had gone home. The cleaning crew came through with their vacuum cleaners and dust rags, their presence a reminder of how late it had gotten. Still I sat at my desk, staring at my screen.
 
@@ -134,7 +133,6 @@ But as I walked toward my car, I couldn't shake the feeling that something had s
 
 Or if I even wanted to.
 
----
 
 *End of Chapter 4*
 

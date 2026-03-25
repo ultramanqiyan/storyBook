@@ -20,7 +20,6 @@ She'd never thought to ask what it saw.
 
 Now she did.
 
----
 
 Dot typed a command into the interface: *Analyze user Dorothy Kowalski. All available data.*
 
@@ -38,7 +37,6 @@ Analysis Period: 6 months*
 
 *Warning: Personal pattern analysis may reveal information subject may not be consciously aware of. Proceed?*
 
----
 
 Dot stared at the warning. The system was asking permission to show her something about herself that she might not know.
 
@@ -50,7 +48,6 @@ If she couldn't do that for herself, what kind of mediator was she?
 
 She typed: *Proceed.*
 
----
 
 The analysis continued:
 
@@ -64,13 +61,11 @@ The analysis continued:
 
 *Historical Correlation: Pattern onset correlates with spouse's death (8 years ago). Subject has not processed grief. Has not developed new intimate relationships. Has not addressed underlying fear of being alone.*
 
----
 
 Dot stared at the screen, her throat tight.
 
 The AI had seen something she'd hidden from herself for eight years.
 
----
 
 She'd told herself she was fine. That she'd dealt with Frank's death. That staying busy was just practical—a way to keep the community center running, to help the people who needed her.
 
@@ -78,7 +73,6 @@ But the AI had seen the pattern beneath the story she'd told herself. She mediat
 
 She'd been hiding in her work. Using other people's problems to avoid facing her own.
 
----
 
 The AI continued:
 
@@ -86,7 +80,6 @@ The AI continued:
 
 *Note: This analysis is based on behavioral patterns and should be verified through personal reflection. AI analysis is not equivalent to professional psychological assessment.*
 
----
 
 Dot sat in the quiet office, the analysis glowing on the screen. The AI had found something she'd spent eight years avoiding.
 
@@ -94,7 +87,6 @@ She was lonely. She was still grieving. She was hiding from her own life in the 
 
 And a machine had seen it before she'd admitted it to herself.
 
----
 
 She thought about the Thompson case, about Rachel's fear of abandonment, David's pattern of running. The AI had found their hidden intents. Now it had found hers.
 
@@ -102,25 +94,21 @@ Was that all intent was? Patterns that could be identified by algorithms? Hidden
 
 Or was there something more? Something the AI couldn't see?
 
----
 
 She thought about her marriage to Frank. About the love she'd felt, the life they'd built, the future they'd planned. The AI could analyze her patterns after his death. But it couldn't understand what it had meant to lose him. It couldn't feel the weight of that absence.
 
 The AI could see her grief. But it couldn't grieve.
 
----
 
 Maybe that was the difference. The AI could identify intent. But it couldn't have intent. It could see what people wanted. But it couldn't want anything itself.
 
 It was a mirror, reflecting back patterns in human behavior. But it wasn't a person, experiencing those patterns from the inside.
 
----
 
 Dot closed the tablet. The AI had shown her something true. Something she'd been avoiding. But it hadn't told her what to do about it.
 
 That was still her choice. That was still her life.
 
----
 
 She sat in the quiet office for a long time. Then she picked up her phone and dialed a number she'd been avoiding for months.
 
@@ -128,7 +116,6 @@ She sat in the quiet office for a long time. Then she picked up her phone and di
 
 "Yes, I'd like to schedule an appointment. For grief counseling."
 
----
 
 After she hung up, Dot sat at her desk, looking out the window at the familiar streets of Millfield. The AI had shown her something she hadn't wanted to see. But now that she'd seen it, she could do something about it.
 
@@ -136,7 +123,6 @@ That was what mediation was about. Not just identifying intent, but helping peop
 
 The AI could see. But only she could choose to look.
 
----
 
 That evening, Dot walked home through the darkening streets. The AI's analysis still echoed in her mind. Conflict avoidance. Self-sacrifice. Emotional isolation.
 
@@ -146,7 +132,6 @@ She'd also helped hundreds of people. She'd built a life that mattered. She'd fo
 
 The AI could see the patterns. But it couldn't see the meaning she'd made. It couldn't see the value of what she'd done, even if she'd done it imperfectly.
 
----
 
 She thought about the mediators who would come after her. They would have AI tools from the beginning. They would see patterns faster, more accurately. But would they understand what it meant to sit with people in pain? Would they know how to create space for difficult truths?
 
@@ -154,7 +139,6 @@ Maybe they would. Maybe the AI would teach them.
 
 Or maybe some things could only be learned through experience. Through sitting in rooms with people, year after year, learning to be present with their pain.
 
----
 
 Dot didn't have answers. But for the first time in weeks, she felt something like peace.
 

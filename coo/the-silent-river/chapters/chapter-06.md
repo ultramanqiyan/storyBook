@@ -48,7 +48,6 @@ He turned to face Elena. "The plaintiff has built her case on documents of quest
 
 "The dry riverbed," Sterling said smoothly, "is the result of unprecedented drought conditions affecting the entire region. Climate change, not NeuralCore, is responsible for the water shortage. My client is being scapegoated for a natural disaster."
 
----
 
 The arguments continued for hours. Elena presented her witnesses—Sarah Miller, who testified about her family's four generations on the land; Marcus Chen, who presented data showing the correlation between NeuralCore's expansion and the dropping water levels; other farmers who described their wells going dry.
 
@@ -58,7 +57,6 @@ By midafternoon, Elena was exhausted. She'd known this would be hard, but she ha
 
 But she kept going. She had to.
 
----
 
 Late in the afternoon, Judge Harrison called a recess. Elena stepped outside for fresh air, finding Sarah Miller waiting on the courthouse steps.
 
@@ -76,7 +74,6 @@ Elena considered the question. "I think we have a chance. That's more than we ha
 
 Sarah nodded. "That's enough for me. A chance is more than we've had in years."
 
----
 
 The final arguments came at four o'clock. Elena stood before the judge one last time.
 
@@ -88,7 +85,6 @@ She pointed to the documents on the evidence table.
 
 She met the judge's eyes. "Your Honor, the law is supposed to protect the vulnerable from the powerful. That's what it's for. I'm asking you to do what the law was designed to do."
 
----
 
 Victor Sterling's closing was shorter, more focused.
 
@@ -106,7 +102,6 @@ Elena felt her heart sink. A week. A week for NeuralCore to continue draining th
 
 "Thank you, Your Honor," she said, gathering her files with hands that wanted to shake.
 
----
 
 Outside the courthouse, the River's Bend residents gathered around Elena. Their faces were a mix of hope and anxiety.
 
@@ -128,7 +123,6 @@ Elena nodded. "I know. I'm sorry."
 
 Sarah put a hand on her arm. "Don't apologize. You did everything you could. We all saw that."
 
----
 
 That night, Elena sat in her office, going over the day's arguments. She'd done her best—she knew that. But best might not be enough. Not against NeuralCore's resources, not against Sterling's skill, not against a system that seemed designed to protect the powerful.
 
@@ -140,6 +134,5 @@ Elena stared at the message, her blood running cold. Someone inside the system w
 
 She saved the message and turned off her phone. Whatever happened next, she would face it with her eyes open.
 
----
 
 **END OF CHAPTER 6**

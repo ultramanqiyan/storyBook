@@ -104,7 +104,6 @@ The words should have been reassuring. Instead, they made Mike feel like a speci
 
 Mike didn't respond. He walked out of the office and into the bright Austin morning, feeling like he was stepping into a world he no longer recognized.
 
----
 
 That afternoon, Mike drove to the neighborhood where he'd grown up. His parents were gone now—his father had passed in 2010, his mother in 2015—but the house was still there, owned by a young family who had no idea of its history.
 
@@ -126,7 +125,6 @@ He got back in his car and drove away. But as he navigated the familiar streets,
 
 The neighborhood he'd grown up in. The streets he'd walked a thousand times. And he needed an app to find his way home.
 
----
 
 That evening, Mike told Susan everything. The forgotten street, the cognitive offloading, the conversation with Jennifer. He left nothing out, even the parts that made him sound weak, confused, afraid.
 

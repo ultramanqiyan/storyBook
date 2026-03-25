@@ -56,7 +56,6 @@ The first week without simulation was the hardest. Sophie moved through her days
 
 She didn't know. But she was determined to find out.
 
----
 
 "How do you feel?" James asked one evening, a month into the simulation-free period.
 
@@ -76,7 +75,6 @@ James reached out and took her hand. Sophie felt the warmth of his skin, the pre
 
 *This is what I wanted,* she thought. *Not the simulation. Not the borrowed feelings. This. This small, authentic, fragile thing that is mine.*
 
----
 
 The months passed. Sophie continued to live without the simulation, continued to experience the small, fragile authentic emotions that were becoming more familiar. They were quiet—nothing like the overwhelming waves that EMOTIO had provided. But they were also real, and that made them precious.
 
@@ -90,7 +88,6 @@ Dr. Bennett smiled. "What's normal? Everyone experiences emotions differently—
 
 Sophie nodded. She had spent her whole life unable to feel. Now she was feeling something—small, fragile, but real. And that was more than she had ever had before.
 
----
 
 That night, Sophie sat with James, watching the sunset. The simulation was gone, but she didn't miss it. She could see the beauty of the colors, feel the warmth of the light. And beneath it all, something else—a small, fragile, authentic response that was hers alone.
 

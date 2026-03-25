@@ -59,7 +59,6 @@ She closed her laptop and sat in the dark office. The city lights glowed outside
 
 She'd helped build those servers. She'd fed them her knowledge, her expertise, her career. And now they were using that knowledge to make her irrelevant.
 
----
 
 The next morning, Lisa went to work as usual. She sat through meetings, answered emails, reviewed proposals. But everything felt different now. Every task was a reminder of what she'd done, what she'd built, what she'd lost.
 
@@ -75,7 +74,6 @@ Now she understood how they must have felt. The warning had come too late. The s
 
 She was living the same story she'd helped write for so many others.
 
----
 
 That afternoon, she received an email from Priya, the APEX-7 developer.
 
@@ -102,7 +100,6 @@ But she also knew that her refusal wouldn't stop anything. The system had alread
 
 She was irrelevant. And that was the cruelest irony of all.
 
----
 
 That evening, Lisa drove to a part of the city she rarely visited. It was an older neighborhood, with small businesses and working-class families. The kind of place that had been left behind by the efficiency revolution.
 

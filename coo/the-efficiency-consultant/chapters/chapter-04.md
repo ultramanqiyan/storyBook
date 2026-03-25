@@ -124,7 +124,6 @@ She went back to bed, but sleep didn't come. Instead, she lay in the dark, liste
 
 She was about to find out.
 
----
 
 The next morning, Lisa arrived at the office early. She wanted more time with APEX-7. She needed to understand its limits, its weaknesses, its blind spots. She needed to find a way to stay relevant.
 

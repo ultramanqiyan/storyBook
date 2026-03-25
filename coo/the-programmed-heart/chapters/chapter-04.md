@@ -182,7 +182,6 @@ They're just... running a program.
 
 And I'm the one it's running on.
 
----
 
 I don't sleep.
 
@@ -218,7 +217,6 @@ I need to get out.
 
 I need to find something real.
 
----
 
 I pack a bag.
 

@@ -32,7 +32,6 @@ Alex could see through the confusion. He could decode the signals, identify the 
 
 He was one of the best decoders in the Market.
 
----
 
 His supervisor praised him after the session.
 
@@ -44,7 +43,6 @@ His supervisor praised him after the session.
 
 Alex felt a warm glow of satisfaction. He was good at his job. He helped people understand themselves. He made a difference.
 
----
 
 That evening, Alex used the Desire Market's personal service.
 
@@ -54,7 +52,6 @@ Tonight, he was considering a purchase—a new apartment in a different neighbor
 
 He input his data and waited for the recommendation.
 
----
 
 The recommendation appeared:
 
@@ -64,7 +61,6 @@ Alex nodded. The recommendation felt right. He had been drawn to Riverside, and 
 
 He would make the purchase.
 
----
 
 But something caught his attention.
 
@@ -74,7 +70,6 @@ That wasn't unusual. The Desire Market was designed to identify authentic desire
 
 But this time, the match was too perfect.
 
----
 
 Alex examined his own data.
 
@@ -84,7 +79,6 @@ And every single recommendation matched his conscious preference.
 
 Not approximately. Not mostly. Exactly.
 
----
 
 That was statistically impossible.
 
@@ -92,7 +86,6 @@ The Desire Market's algorithms were good, but they weren't perfect. Most predict
 
 But Alex's data showed no deviation. Zero. His conscious preferences and the algorithm's recommendations were identical.
 
----
 
 Alex felt a flicker of curiosity.
 
@@ -100,7 +93,6 @@ Why did his desires match the algorithm's predictions so perfectly? Was he that 
 
 He made a note to investigate further.
 
----
 
 The next day, Alex returned to work.
 
@@ -110,6 +102,5 @@ He was a decoder. He was supposed to see through confusion, identify patterns, r
 
 But could he decode himself?
 
----
 
 **END OF CHAPTER 01**

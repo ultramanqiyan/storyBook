@@ -78,7 +78,6 @@ She started the car and drove back to her office. The sun was bright, the traffi
 
 But Lisa was beginning to see that normal was the problem.
 
----
 
 That evening, she received an email from the client.
 
@@ -110,7 +109,6 @@ She'd told herself she was helping companies survive. She'd told herself efficie
 
 Now she was beginning to wonder if any of them were true.
 
----
 
 The next morning, Lisa went to work as usual. She had other clients, other projects, other presentations to prepare. The work didn't stop because she was having a crisis of conscience.
 

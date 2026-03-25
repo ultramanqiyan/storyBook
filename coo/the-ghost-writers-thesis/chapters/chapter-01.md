@@ -68,7 +68,6 @@ She kept reading, looking for evidence that she had modified the topic, made it 
 
 The questions that had driven three years of work—the questions she had thought were hers—had come from an AI.
 
----
 
 The afternoon light had faded by the time Elena looked up from her screen. Her office was dim, the shadows lengthening across the floor. She had been reading for hours, going through her research history, trying to find evidence of her own intellectual contribution.
 
@@ -84,7 +83,6 @@ Not an explicit lie—she had never claimed that the questions were entirely her
 
 The thought made her feel sick.
 
----
 
 She didn't sleep that night. Instead, she sat at her desk, staring at her dissertation, seeing it for the first time as what it was: a ghost written by an algorithm, with her name on the cover.
 

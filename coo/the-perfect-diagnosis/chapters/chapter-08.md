@@ -68,7 +68,6 @@ She closed the folder and set it aside. Her pager buzzed again—Dr. Cross's off
 
 Sarah stood, her decision crystallizing. She knew what she had to do.
 
----
 
 The smile was gone.
 
@@ -110,7 +109,6 @@ She walked back to her desk, her perfectly professional mask sliding back into p
 
 Sarah turned and walked out of the office, her heart pounding, her hands shaking. She had made her choice. Now she had to live with it—or die with it.
 
----
 
 The hallway felt different now. The doctors she passed were the same—walking quickly, checking tablets, following AI guidance—but she saw them differently. They were victims of a system they didn't understand, trapped in a dependency they hadn't chosen.
 

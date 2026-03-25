@@ -80,7 +80,6 @@ Marcus shrugged and walked away. David watched him go, feeling the familiar weig
 
 *What's wrong with me?*
 
----
 
 That evening, David sat in his apartment, the glow of his laptop the only light in the room. His dinner sat untouched on the counter—takeout that had gone cold an hour ago.
 

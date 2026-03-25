@@ -44,7 +44,6 @@ The question hung in the air. Elena felt the weight of it, the expectation of an
 
 The room went silent. The committee members exchanged glances, their expressions shifting from professional interest to something harder to read.
 
----
 
 "What do you mean, the questions were suggested by AI?" Dean Cross's voice was sharp, cutting through the silence.
 
@@ -60,7 +59,6 @@ The silence that followed was deafening. Elena stood before the committee, her h
 
 "But it makes it less mine," Elena said. "And I can't pretend otherwise anymore."
 
----
 
 The questioning continued for another hour. The committee probed her claims, asked about her methodology, challenged her interpretation of what constituted "original" research. Elena answered honestly, even when the answers made her look bad.
 
@@ -74,7 +72,6 @@ She explained how she had discovered the AI-generated questions, how she had fou
 
 "I think it matters for me," Elena said. "I think it matters for what kind of scholar I want to be."
 
----
 
 The committee deliberated in private, leaving Elena in the hallway outside the conference room. She sat on a bench, her hands trembling, her mind racing through the possible outcomes. They could reject her dissertation, deny her degree, end her academic career before it began. They could accept her confession and still grant her the PhD, acknowledging that her research was valid even if her questions weren't original. Or they could do something in between—accept the dissertation but require additional work, attach an asterisk to her degree, mark her as somehow deficient.
 
@@ -82,7 +79,6 @@ She thought about what Dr. Webb had said, about the researchers who had resisted
 
 The door opened, and Dr. Webb gestured her back inside.
 
----
 
 The committee sat around the table, their expressions unreadable. Elena took her place at the front of the room, her heart in her throat.
 
@@ -102,7 +98,6 @@ Dean Cross leaned forward. "It means that some will question the originality of 
 
 "I understand," Elena said. And she did. She had chosen the truth, and the truth had consequences. She was willing to live with them.
 
----
 
 The defense ended with handshakes and congratulations, the traditional rituals of academic success. But Elena felt hollow as she walked out of the conference room. She had her degree—or would have it soon—but she had also exposed herself in a way that couldn't be undone.
 
@@ -116,7 +111,6 @@ Dr. Webb walked with her down the hallway, his presence a comfort in the afterma
 
 Elena nodded, but she couldn't feel the truth of his words yet. All she could feel was the weight of what she had done, and the uncertainty of what came next.
 
----
 
 That night, Elena sat in her office, looking at the questions she had generated during her experiment. They weren't polished or optimized. They weren't guaranteed to lead to publishable research. But they were hers.
 

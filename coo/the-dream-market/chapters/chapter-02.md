@@ -42,7 +42,6 @@ In the reflections of the glass buildings, I hid a message. It was subtle—a pa
 
 The message was invisible unless you knew to look for it. It would be easy to miss, even in a detailed recording. But if someone was editing the dreams, they would see it. And they would have to decide what to do with it.
 
----
 
 The extraction went smoothly.
 
@@ -66,7 +65,6 @@ Then I checked the reflections.
 
 The hidden message was gone.
 
----
 
 I stared at the screen, my heart racing.
 
@@ -96,7 +94,6 @@ Her tone was patient, professional, dismissive. She didn't believe me.
 
 But I knew what I had created. And I knew it was gone.
 
----
 
 I left the Dream Market with more questions than answers.
 
@@ -114,7 +111,6 @@ It would require breaking into the facility's servers. It would be dangerous, po
 
 I began to plan.
 
----
 
 The Dream Market's servers were located in a secure facility adjacent to the extraction chambers. Access was restricted to authorized personnel—technicians, administrators, security staff. I was none of those things.
 
@@ -144,6 +140,5 @@ She hesitated. Then she nodded.
 
 "Meet me tomorrow night. I'll show you what I've found."
 
----
 
 **END OF CHAPTER 02**

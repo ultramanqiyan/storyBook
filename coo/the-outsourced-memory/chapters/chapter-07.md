@@ -86,7 +86,6 @@ Elena nodded, satisfied, and moved on to her own desk, her own algorithms, her o
 
 *She's never known anything else*, he realized. *She's never walked through a house and felt it in her bones. She's never trusted her own senses over the data. To her, the algorithm isn't a replacement for expertise—it's the only expertise there is.*
 
----
 
 That afternoon, he tried an experiment.
 
@@ -114,7 +113,6 @@ Now he had data. Probability scores. Algorithmic verdicts that glowed blue and c
 
 But the knowledge was gone.
 
----
 
 He went home early that day, telling his assistant he wasn't feeling well. It wasn't a lie—he felt sick in a way that had nothing to do with his body and everything to do with the empty space where his expertise used to live.
 
@@ -144,7 +142,6 @@ But they hadn't told him about the cost. They hadn't told him that the freedom f
 
 The question sat in the empty space where his memory used to live, unanswered.
 
----
 
 That night, after Susan had gone to bed, Mike sat at the kitchen table with a legal pad and a pen. The house was dark around him, the neighborhood quiet, the world asleep.
 
@@ -194,6 +191,5 @@ Unless he chose differently.
 
 He didn't have an answer. But for the first time in months, he was asking the question.
 
----
 
 **END OF CHAPTER 7**

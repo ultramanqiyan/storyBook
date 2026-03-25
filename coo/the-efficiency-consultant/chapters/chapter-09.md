@@ -124,7 +124,6 @@ Marcus was quiet for a long time. Then he nodded.
 
 Lisa left his office with something she hadn't felt in months: hope.
 
----
 
 She spent the next week writing the proposal. She drew on everything she knew—her experience with displaced workers, her understanding of corporate priorities, her knowledge of what companies needed and what workers needed. She created a model that served both: transition support that reduced legal risk and reputational damage for companies, while providing real resources and opportunities for workers.
 
@@ -142,7 +141,6 @@ The efficiency spiral was still turning. APEX-7 was still learning. Workers were
 
 And Lisa would be the one providing it.
 
----
 
 That night, she called Sarah again.
 

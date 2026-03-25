@@ -64,7 +64,6 @@ Sarah was quiet for a moment. Then: "Thank you. That helps."
 
 "Keep coming to the workshops. Keep practicing. The choice gets easier with time—or at least more familiar."
 
----
 
 Maya arrived that evening, as she often did, bringing dinner and conversation. They sat in the studio, eating, talking about the workshop, about the exhibition, about the life Marcus was building.
 
@@ -82,7 +81,6 @@ Maya smiled, and Marcus watched the expression move across her face—the lines 
 
 *What you've chosen to see.* Marcus turned the phrase over in his mind. That was it, wasn't it? Not the seeing itself, but the choosing. Not the perception, but the intention. Not the truth or the grace, but the wisdom to know when each was needed.
 
----
 
 That night, Marcus stood in front of the mirror, looking at his own face. He could see it in raw mode—the confusion, the exhaustion, the weight of learning. Or he could see it in optimized mode—the strength, the growth, the grace of becoming.
 
@@ -108,7 +106,6 @@ That was the difference between seeing and understanding. That was the gap that 
 
 *You are welcome. The choice was always yours.
 
----
 
 The next morning, Marcus woke to the sound of rain against the window. He lay in bed for a moment, listening, feeling the world through sound and touch—the way he had for twenty-eight years, before IRIS, before the choice.
 
@@ -120,7 +117,6 @@ He got up and went to the window, looking out at the rain. In raw mode, he could
 
 He chose both. He saw the truth and the beauty, the reality and the hope. Both were there. Both were real.
 
----
 
 The day was full of choices. A client session in the morning—Marcus chose optimized mode, seeing the woman as she wanted to be seen. A walk through the park at noon—he chose raw mode, seeing the litter and the cracked paths. A phone call with Dr. Reyes in the afternoon—he switched between modes, seeing her as both a professional and a person.
 
@@ -138,7 +134,6 @@ By evening, he was tired. The constant choosing took energy. But it was a good t
 
 *Lived.* Marcus turned the word over in his mind. That was what seeing was—not just a function, but a practice. Not just a capability, but a way of being.
 
----
 
 Maya came over that night, as she often did. They sat in the studio, talking about nothing and everything—the workshop, the exhibition, the life Marcus was building.
 
@@ -156,7 +151,6 @@ Maya laughed, and Marcus watched the expression move across her face—the lines
 
 "I am. Not because I've found all the answers, but because I've learned to live with the questions. Not because I've resolved the tension, but because I've learned to hold it."
 
----
 
 Later that night, after Maya had gone home, Marcus stood at his window, looking out at the city. The lights were on in buildings across the skyline—thousands of people living their lives, seeing their own versions of reality, making their own choices about what to perceive.
 

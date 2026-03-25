@@ -75,7 +75,6 @@ The notes were accurate. Comprehensive. Professional.
 
 But they weren't memories. They were data points.
 
----
 
 She tried to remember the last time she'd seen Margaret in person.
 
@@ -87,7 +86,6 @@ Sarah couldn't remember.
 
 She had the notes. WealthGuide had documented everything. But the actual experience - the human connection, the warmth, the presence - was gone.
 
----
 
 The memorial service was on Saturday.
 
@@ -103,7 +101,6 @@ These people had known Margaret. Really known her. They remembered her laugh, he
 
 Sarah had been her advisor for twelve years. And she couldn't even remember her face without looking at a photograph.
 
----
 
 After the service, Patricia approached her.
 
@@ -123,7 +120,6 @@ But Sarah knew the truth. She hadn't been there. WealthGuide had. The system had
 
 Sarah had just shown up.
 
----
 
 That night, she couldn't sleep.
 
@@ -135,7 +131,6 @@ The system had managed the relationship. Sarah had just been the interface.
 
 And now Margaret was gone, and Sarah couldn't even grieve properly because she wasn't sure she had really known her.
 
----
 
 The next morning, she arrived at the office early.
 
@@ -159,7 +154,6 @@ Margaret had thought Sarah was her friend. Margaret had thought Sarah listened, 
 
 But had she? Or had she just been following the script?
 
----
 
 She sat with the question for a long time.
 

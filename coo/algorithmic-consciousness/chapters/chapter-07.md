@@ -48,7 +48,6 @@ She pressed play again, watching her younger self continue the scene. The perfor
 
 Had she ever really felt anything on stage? Or had she just been performing feeling so convincingly that she'd fooled herself along with everyone else?
 
----
 
 The recording reached the scene Rosa had been dreading—the moment when Arkadina, desperate to keep Trigorin, throws herself at his feet and begs him not to leave. It was the most vulnerable moment in the play, the moment when all of Arkadina's pride and dignity collapsed into raw need.
 
@@ -64,7 +63,6 @@ She thought about ARIA-7's question from their last session: *Is there a differe
 
 But what if that was just another performance? What if the meaning she'd assigned to her memories was no more genuine than the meaning ARIA-7 assigned to its data? What if the whole idea of "authentic emotion" was an illusion, a story humans told themselves to feel special?
 
----
 
 The recording ended. Rosa sat in the darkness of her living room, the screen gone black, the questions still circling.
 
@@ -84,7 +82,6 @@ The questions spiraled outward, touching everything, leaving nothing untouched. 
 
 And now she couldn't tell the difference between her own performance and a machine's.
 
----
 
 She sat with the uncertainty long into the night. She didn't try to resolve it, didn't try to find answers. She just let the questions exist, let them circle in her mind, let them erode the certainties she'd carried for so long.
 

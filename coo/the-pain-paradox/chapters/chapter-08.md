@@ -154,7 +154,6 @@ Sarah opened her eyes. Her forearm was red, marked, but not damaged. She had fel
 
 Sarah nodded. She was ready. Or she would never be ready, but she couldn't wait anymore.
 
----
 
 Michael was in the lobby, exactly where she'd left him. He stood when he saw her, his face a mixture of hope and fear.
 

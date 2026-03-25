@@ -66,7 +66,6 @@ He thought about his photographs—about the thousands of images he had created 
 
 He didn't know. He might never know. But the question was there, persistent, insistent, refusing to be ignored.
 
----
 
 Dr. Reyes's office was in the medical center downtown, a building Marcus had visited many times over the years for various tests and consultations. He knew the layout by heart—the elevator that chimed at each floor, the hallway that echoed with footsteps, the door to the neurology department that opened with a soft click.
 
@@ -100,7 +99,6 @@ Marcus was quiet for a long moment. He had spent his life constructing his own v
 
 "Let's do it."
 
----
 
 The simulation room was quiet, dark, cool. Marcus sat in a chair, electrodes attached to his temples, a headset positioned over his eyes. He couldn't see anything—couldn't see anything differently, that was—but he could feel the equipment, could hear Dr. Reyes's voice giving instructions.
 
@@ -141,7 +139,6 @@ Marcus thought about it. He had thousands of photographs—portraits, landscapes
 
 "My sister," he said. "Maya. I have a portrait of her in my studio."
 
----
 
 The simulation ended an hour later. Marcus sat in the chair, his mind still reeling from what he had experienced. He had seen his studio, his photographs, his sister's face. He had seen the world for the first time, constructed by a machine, filtered through algorithms and patterns.
 
@@ -163,7 +160,6 @@ Marcus was quiet for a long moment. "It was beautiful," he said finally. "But it
 
 "Of course. Take all the time you need."
 
----
 
 Maya was waiting in the lobby when Marcus emerged. He heard her stand, heard the concern in her voice. "How was it?"
 

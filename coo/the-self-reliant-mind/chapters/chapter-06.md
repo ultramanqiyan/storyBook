@@ -85,7 +85,6 @@ The old David would have hedged. Would have said "I think" or "It's my recommend
 
 Another pause. Then: "Okay. Send me the details. We'll implement tonight."
 
----
 
 The next four hours were a blur.
 
@@ -107,7 +106,6 @@ It had worked. Not perfectly—there would be adjustments needed, problems to so
 
 And he'd done it alone. Not because no one else was available, but because he'd chosen to trust himself.
 
----
 
 Saturday morning, David slept in for the first time in months.
 

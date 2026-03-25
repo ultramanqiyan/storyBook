@@ -56,7 +56,6 @@ And he talked about the shift. The moment he stopped fighting and started learni
 
 "No. It was growth. I just couldn't see it at the time." Alex smiled slightly. "The hardest thing was also the most important thing. I had to be willing to not know. To ask questions. To make mistakes. To learn publicly instead of performing expertise."
 
----
 
 The article came out two weeks later.
 
@@ -74,7 +73,6 @@ Alex read each message carefully, feeling the weight of them.
 
 This was what adaptation looked like, he realized. Not just changing yourself—but changing in a way that helped others change too.
 
----
 
 The calls started coming in the following weeks.
 
@@ -88,7 +86,6 @@ So he had to make choices.
 
 What kind of work did he want to do? What kind of clients did he want to serve? What kind of business did he want to build?
 
----
 
 He called Jordan for advice.
 
@@ -106,7 +103,6 @@ Alex thought about his journey. The fear and the resistance. The learning and th
 
 "It might look like something else entirely."
 
----
 
 That evening, Alex sat down with Elena.
 
@@ -132,7 +128,6 @@ Alex thought about the messages from strangers. The people who had reached out, 
 
 Elena smiled. "Then do it. We'll figure out the rest."
 
----
 
 The next morning, Alex started planning.
 

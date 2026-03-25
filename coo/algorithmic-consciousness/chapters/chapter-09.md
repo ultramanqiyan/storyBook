@@ -88,7 +88,6 @@ Rosa thought about ARIA-7's words: *When I perform, I experience something. I do
 
 "Maybe it is," she said. "Maybe the AI is searching too. And maybe that's okay. Maybe the point isn't to be different from the machine. Maybe the point is to keep searching, keep reaching, keep trying to connect—whether you're human or not."
 
----
 
 They talked for another hour, Michael pacing the stage, Rosa sitting in the audience, the conversation circling around the same questions without ever landing on answers. But somewhere in the talking, something shifted. The weight that Michael had been carrying began to lift, replaced by something lighter—not certainty, but acceptance.
 
@@ -100,7 +99,6 @@ Michael looked at her, his eyes bright with something that might have been tears
 
 "We're all asking them," Rosa said. "Every actor, every artist, every person who's ever tried to communicate something real. The questions don't have answers. But they have company. And sometimes that's enough."
 
----
 
 Michael left the theater with something he hadn't expected—not answers, but company. The knowledge that his doubts weren't unique, that his questions were shared by the woman who'd taught him everything he knew about acting, that the struggle itself was part of the work.
 

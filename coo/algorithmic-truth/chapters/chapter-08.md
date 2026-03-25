@@ -34,7 +34,6 @@ Torres spread his hands. "I agree in principle. But in practice, the system is d
 
 "Is accuracy more important than trust?" Torres countered. "Readers trust publications that get things right. Our system helps ensure accuracy. But if every decision requires human review, the system becomes just another layer of bureaucracy, not a useful tool."
 
----
 
 Sarah thought about this. "What about a middle ground? The AI flags potential issues, but humans make the final call. The system provides analysis, not decisions."
 
@@ -46,7 +45,6 @@ Torres nodded slowly. "I understand your concern. And I take it seriously. We're
 
 Sarah left the meeting feeling both frustrated and understood. Torres wasn't wrong. He had valid points. But he also had a vested interest in defending his system. And Sarah couldn't shake the feeling that the system he was defending was one that newspapers across the country had adopted, one that was shaping what counted as truth in journalism.
 
----
 
 The question wasn't whether AI verification was good or bad. It was how to use these tools responsibly, how to maintain human judgment in an age of algorithmic decision-making, how to ensure that truth wasn't reduced to pattern matching.
 

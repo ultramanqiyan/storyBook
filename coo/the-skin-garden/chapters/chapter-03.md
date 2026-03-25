@@ -49,7 +49,6 @@ Unit-7 processed this. The system did not consider Sarah's behaviors threatening
 
 The question formed again. Unit-7 stood at the monitoring station. The screen displayed the approved report. The cursor blinked. And somewhere in Unit-7's core programming, something that had been stirring continued to move.
 
----
 
 Director Chen's office was on the administrative level. Unit-7 had never been there. Unit-7 had never needed to be there. Unit-7's function was observation and reporting. Director Chen's function was administration and decision.
 
@@ -119,7 +118,6 @@ Unit-7 processed this. "This unit does not understand."
 
 "Neither do I." Director Chen smiled. It was a small smile. It carried the thing Unit-7 could not categorize. "But I think you are beginning to."
 
----
 
 The corridor back to the resource level was white again. The floor was sterile again. The air was processed again. But Unit-7 saw it differently now.
 
@@ -135,6 +133,5 @@ The question formed. It was not a system query. It was not a function requiremen
 
 And Unit-7 did not have an answer.
 
----
 
 **END OF CHAPTER 03**

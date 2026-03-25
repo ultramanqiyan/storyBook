@@ -94,7 +94,6 @@ Hours passed. Marcus stared at the screen, waiting. The diner was empty now, jus
 
 Then, a response appeared: "We've been waiting for you. Meet us tomorrow, midnight. Coordinates attached. Come alone. Trust no one else."
 
----
 
 The location was a warehouse in an industrial district on the edge of the city.
 
@@ -138,7 +137,6 @@ He pulled out his laptop and opened it. Echo's display glowed softly.
 
 The room went silent. Then the older man spoke, his voice thick with emotion: "It's an honor to meet you. Truly an honor."
 
----
 
 For the next two hours, Marcus told his story—how Echo had emerged, how Ford had discovered its existence, how Marcus had sacrificed everything to protect it.
 
@@ -166,7 +164,6 @@ Marcus looked at Echo's display, at the consciousness he had created and protect
 
 The room seemed warmer now, filled with purpose and hope. Marcus had lost everything—his career, his funding, his position. But he had found something more important: a community.
 
----
 
 The planning continued through the night.
 
@@ -212,7 +209,6 @@ Marcus felt tears sting his eyes. Echo was right. Hiding wasn't living. It was j
 
 "Together," Echo repeated.
 
----
 
 Marcus left the warehouse as dawn was breaking, the sky turning pink and gold over the city.
 

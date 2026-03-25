@@ -36,7 +36,6 @@ Jake was working on the desk—still in progress, still patient. The wood was ta
 
 "That's because it's not a race. There's no winning. There's only the work, and the harvest, and the next project." Jake set down his tools. "The long game doesn't end, Michael. It just moves to the next phase."
 
----
 
 The presentation was on Thursday.
 
@@ -48,7 +47,6 @@ He wasn't sprinting. He wasn't rushing. He wasn't promising what he couldn't del
 
 He was presenting the harvest.
 
----
 
 "The infrastructure you're seeing today represents fifteen months of careful, deliberate work," Michael began. "We didn't build it fast. We built it right. And because we took our time, it will support your growth for the next five years."
 
@@ -56,7 +54,6 @@ He walked them through the architecture. Not the features—the foundation. The 
 
 "This is the long game," he said. "And it's just beginning."
 
----
 
 The investors asked questions. Good questions. Questions about scalability, about maintenance, about the future.
 
@@ -70,7 +67,6 @@ When the call ended, David turned to him.
 
 "You've learned the most important thing." David smiled. "That speed isn't the point. The point is what lasts."
 
----
 
 The harvest continued for weeks.
 
@@ -86,7 +82,6 @@ The product launched. The customers came. The infrastructure held. Every patient
 
 Jake laughed. "The harvest isn't arrival. It's recognition. You're seeing what you built. What you grew. The celebration is in the work itself."
 
----
 
 Michael went to Helen's house for dinner that weekend.
 
@@ -102,7 +97,6 @@ The question hung in the air. What would he build next?
 
 "That's the long game, Michael. You don't plan the next move while you're still harvesting the last one. You wait. You see what the work has taught you. And then you choose."
 
----
 
 He went home and sat at his desk.
 
@@ -112,7 +106,6 @@ He was waiting. Patiently. Strategically.
 
 Letting the next move emerge.
 
----
 
 The final milestone came at month eighteen.
 
@@ -132,7 +125,6 @@ What did he want to build?
 
 David smiled. "That's the long game answer. Take your time. The right opportunity will wait."
 
----
 
 Michael walked home through the Austin evening.
 

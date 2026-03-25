@@ -60,7 +60,6 @@ James thought about this. In the past, buying a book had been about more than ju
 
 What happened when people no longer needed identity markers?
 
----
 
 He walked back through the mall, his mind turning over the puzzle.
 
@@ -80,7 +79,6 @@ He remembered the customers he used to see—women trying on dresses, men testin
 
 Now, the products were perfect. But the experience was hollow.
 
----
 
 That evening, he met with Elena again.
 
@@ -108,7 +106,6 @@ Elena nodded. "So how do we fix it?"
 
 James didn't have an answer. He wasn't sure there was an answer.
 
----
 
 He walked home that night, his mind still churning.
 

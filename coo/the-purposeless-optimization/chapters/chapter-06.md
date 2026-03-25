@@ -64,7 +64,6 @@ But the details were fuzzy. The feelings were distant. Like memories from anothe
 
 He had spent a year optimizing his store. And in the process, he had optimized away the very thing that had made it worth doing.
 
----
 
 That night, he went through his old files.
 
@@ -84,7 +83,6 @@ That person had known his "why." That person had understood what mattered.
 
 But that person was gone now. Optimized away by a year of following the system.
 
----
 
 The next morning, he arrived at the store early.
 
@@ -98,7 +96,6 @@ Everything was optimized. But nothing was his.
 
 He had created this store to be a third place - a community gathering spot. But it had become an optimized retail space. He had wanted to build something meaningful. But he had built something efficient instead.
 
----
 
 That afternoon, he made a decision.
 
@@ -114,7 +111,6 @@ He had lost that. He had let the optimization take it away.
 
 But maybe he could get it back.
 
----
 
 He closed his eyes and tried to remember the feeling.
 
@@ -130,7 +126,6 @@ It was successful. It was efficient. It was optimized.
 
 But it wasn't his anymore. Not really. Not in the way that mattered.
 
----
 
 That evening, he stayed late at the store again.
 
@@ -140,7 +135,6 @@ But the sense of purpose was still missing. The feeling that he was creating som
 
 He had optimized his way out of his own life. And he didn't know if he could find his way back.
 
----
 
 That night, he dreamed about the question.
 

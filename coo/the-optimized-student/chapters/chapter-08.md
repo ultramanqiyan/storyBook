@@ -54,7 +54,6 @@ I opened the folder. Inside was information about a hidden curriculum—a networ
 
 "We meet in the hidden room in the library," Principal Martinez said. "The one Mr. Chen showed you. If you're serious about learning—actually learning—this is where you start."
 
----
 
 I walked out of the principal's office with the folder in my hands, my mind racing. The choice was clear: I could go back to my optimized path, accept the trade-offs, build a successful career. Or I could join the resistance, learn without the system, and face the consequences.
 
@@ -62,7 +61,6 @@ The first option was safe. The second option was terrifying.
 
 But I knew which one I wanted.
 
----
 
 That night, I sat in my room, staring at the folder. The alternative program was described in detail—weekly meetings, independent study projects, mentorship from teachers who remembered what education used to be. It was everything I had been looking for.
 
@@ -76,7 +74,6 @@ I didn't want to be that person anymore. I wanted to be someone who actually lea
 
 I picked up my phone and typed a message to Mr. Chen: "I'm in."
 
----
 
 The first meeting was on Thursday evening, in the hidden room in the library. There were six other students—some I recognized, others I didn't. All of them had chosen to learn without the system.
 

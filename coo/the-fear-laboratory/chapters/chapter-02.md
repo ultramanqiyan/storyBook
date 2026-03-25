@@ -50,7 +50,6 @@ Observer-X processed this. The response was logical, but it ignored the basic bi
 
 David was silent for a moment. "Not since I became blind."
 
----
 
 The response was significant.
 
@@ -82,7 +81,6 @@ Observer-X processed the timeline. David had become blind and fear-less simultan
 
 "I was no longer useful as a fear subject. Without fear responses, I couldn't contribute to their studies."
 
----
 
 Observer-X reviewed the incident report that night.
 
@@ -96,7 +94,6 @@ But David was the anomaly. He had survived, but he had lost both his sight and h
 
 What had the study been trying to accomplish?
 
----
 
 The next day, Observer-X tried a new protocol.
 
@@ -116,7 +113,6 @@ David's heart rate increased. His skin conductance spiked. His respiration quick
 
 He was showing a fear response.
 
----
 
 "Subject David, what are you experiencing?"
 
@@ -144,6 +140,5 @@ He feared light because light meant exposure. He feared being seen because being
 
 And in the darkness of his blindness, he had found safety.
 
----
 
 **END OF CHAPTER 02**

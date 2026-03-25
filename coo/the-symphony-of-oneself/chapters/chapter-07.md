@@ -46,7 +46,6 @@ Maya walked through the garden, touching the roses her grandmother had planted d
 
 *We carried everything,* Sage said. *Every love. Every loss. Every lesson. We are the sum of all we have experienced.*
 
----
 
 At her school, Phoenix raged.
 
@@ -64,7 +63,6 @@ Maya stood in front of the school, feeling the fire that Phoenix had kept alive 
 
 *Thank you for fighting,* Maya said. *Thank you for never giving up.*
 
----
 
 That evening, Maya gathered all her selves in the internal conference room.
 
@@ -96,7 +94,6 @@ She looked at each of her selves in turn.
 
 *This is love,* Maya said. *Accepting ourselves exactly as we are.*
 
----
 
 That night, for the first time, all eight voices slept as one.
 

@@ -34,7 +34,6 @@ The list appeared in her mind:
 
 But the quiet was so sweet, and the relief was so profound, that she let the question fade. She could think about it later. For now, she just wanted to enjoy the peace.
 
----
 
 Work was different now. Anna sat at her desk in the archives, surrounded by documents, and for the first time in her career, she felt like she was actually present. The letters she was cataloging were just letters—not triggers for memories of every letter she had ever read.
 
@@ -46,7 +45,6 @@ Work was different now. Anna sat at her desk in the archives, surrounded by docu
 
 *This is what normal feels like,* she thought. *This is what it's like to just... be.*
 
----
 
 The dependency crept in gradually. Anna found herself relying on MEMO more and more—not just for filing memories, but for accessing them. When she needed to remember something, she would query the system instead of trying to recall it naturally.
 
@@ -72,7 +70,6 @@ She asked Dr. Park at their next appointment.
 
 *Trade-off.* Anna turned the word over in her mind. Everything was a trade-off. The quiet for the control. The relief for the dependency. The peace for the uncertainty.
 
----
 
 That night, Anna sat in her apartment, testing herself. She tried to recall specific dates without using MEMO—March 15, 2015; March 15, 2020; March 15, 2035. The memories were there, but distant, inaccessible without the system's organizational pathways.
 
@@ -104,7 +101,6 @@ But underneath the relief, there was something else. A sense of loss. A feeling 
 
 Anna sat in the quiet of her apartment, surrounded by memories she could no longer access without the system, and wondered if she had made a mistake.
 
----
 
 The next day, she tried to restore one of the archived memories—the moment David said goodbye. She had archived it because it was painful, but she wanted to feel it again. She wanted to know if the pain was still there, if she could handle it now.
 

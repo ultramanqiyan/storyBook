@@ -84,7 +84,6 @@ Dr. Okonkwo nodded. "We've all been there. That's why we're here."
 
 Dr. Okonkwo smiled. "Yes. But it won't be easy. You'll have to relearn everything you let the AI do for you. The clinical intuition, the pattern recognition, the ability to sit with uncertainty and think your way through it. It's all still there, buried under layers of dependency. But digging it out will be the hardest thing you've ever done."
 
----
 
 The meeting lasted two hours. They shared techniques—how to practice diagnosis without AI, how to rebuild clinical reasoning, how to maintain skills while still using the system. They talked about the fear of being exposed, the shame of admitting dependency, the isolation of being the only one who saw the problem.
 
@@ -98,7 +97,6 @@ Dr. Webb waited for her by the door. "Ready?"
 
 She nodded, and they walked out into the night together.
 
----
 
 The night air was cool against her face. Sarah stood with Dr. Webb outside the building, the meeting still fresh in her mind. The stars were visible above the city lights, a rare sight in the urban glow.
 

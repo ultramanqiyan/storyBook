@@ -88,7 +88,6 @@ Maya's expression shifted—something vulnerable, something scared. "That sounds
 
 "Especially if it's ugly." He squeezed her hand. "I've been blind my whole life, Maya. I don't want to be blind again—even if the blindness is beautiful."
 
----
 
 The photography session that afternoon was different. Marcus had a client—a young woman who wanted portraits for her acting portfolio. She was beautiful, or at least IRIS's optimized version had shown her as beautiful. In raw mode, he could see the flaws: the slight asymmetry of her features, the acne scars on her chin, the dark circles under her eyes from too many late nights.
 
@@ -112,7 +111,6 @@ The young woman nodded slowly. "I think I like it. It's scary, but it's also... 
 
 *Pretend.* Marcus turned the word over in his mind. That was what the optimization was, wasn't it? A kind of pretending—a way of showing the world not as it was, but as people wanted it to be.
 
----
 
 That night, Marcus stood in front of the mirror in his bathroom, looking at his own face for the first time. IRIS constructed the image in raw mode, showing him every detail—the shape of his nose, the color of his eyes, the texture of his skin. He saw the asymmetry of his features, the lines beginning to form around his eyes, the slight stubble on his jaw.
 
@@ -148,7 +146,6 @@ The image shifted back. The lines returned, the asymmetry returned, the reality 
 
 It wasn't perfect. It wasn't beautiful in the way the optimized version was beautiful. But it was true. And after twenty-eight years of darkness, truth was what he wanted.
 
----
 
 The next morning, Marcus went to the studio early. He had a full day of sessions scheduled, and he wanted to be prepared. But first, he needed to make a decision.
 

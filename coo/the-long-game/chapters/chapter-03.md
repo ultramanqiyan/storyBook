@@ -70,7 +70,6 @@ Michael thought about the dashboard, the failed demo, the endless cycle of sprin
 
 "No," he admitted. "It never feels done."
 
----
 
 Jake set aside the sanding block and picked up a different tool—a small plane with a wooden handle worn smooth from use.
 
@@ -96,7 +95,6 @@ The question landed like a punch. Michael thought about the failed demo, the cor
 
 Jake smiled, but not unkindly. "Maybe your world needs to change."
 
----
 
 The desk leg was fixed in fifteen minutes. Jake refused payment.
 
@@ -106,7 +104,6 @@ Michael nodded, though he wasn't sure he'd come back. The whole experience had b
 
 That wasn't his world. That wasn't how things worked.
 
----
 
 He walked home through the Austin heat, the desk leg still in his hand.
 

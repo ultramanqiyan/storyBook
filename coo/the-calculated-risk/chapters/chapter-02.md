@@ -30,7 +30,6 @@ I began to downclimb, moving carefully back to the last secure position.
 
 Then the rock gave way.
 
----
 
 The fall was silent at first—just the sickening sensation of weightlessness, the world spinning around me. Then came the sound: rock breaking, rope singing, the desperate whir of my auto-belay trying to arrest my descent.
 
@@ -42,7 +41,6 @@ I lay on the ledge, my body broken, my mind reeling. This wasn't supposed to hap
 
 So why was I lying on a ledge, my blood pooling on the rock?
 
----
 
 The rescue took four hours. I drifted in and out of consciousness, RISK-AI's voice a constant presence in my ear, updating me on my vitals, the rescue progress, the probability of survival.
 
@@ -52,7 +50,6 @@ I wanted to laugh. Remain calm? I was lying on a mountain ledge, my body broken,
 
 But I didn't laugh. I just lay there, staring at the sky, wondering what had gone wrong.
 
----
 
 The hospital was a blur of white walls and concerned faces. My parents arrived first, their expressions shifting from fear to relief when they saw me alive. Then came my sponsor, their representative already calculating the impact on my content schedule.
 
@@ -60,7 +57,6 @@ The hospital was a blur of white walls and concerned faces. My parents arrived f
 
 I stared at him, unable to speak. My body was broken, my career in jeopardy, and he was talking about content metrics?
 
----
 
 The doctor came later, her expression serious. "You're lucky," she said. "The fall could have killed you. As it is, you have a broken collarbone, three broken ribs, and a concussion. You'll need surgery on the shoulder, and rehabilitation will take months."
 
@@ -70,7 +66,6 @@ The doctor came later, her expression serious. "You're lucky," she said. "The fa
 
 The words struck with devastating force. RISK-AI was damaged? Without it, I couldn't climb. Without it, I couldn't calculate risk. Without it, I was nothing.
 
----
 
 That night, I lay in my hospital bed, staring at the ceiling. The silence in my ear was deafening—no RISK-AI, no data, no guidance. Just me and my thoughts.
 

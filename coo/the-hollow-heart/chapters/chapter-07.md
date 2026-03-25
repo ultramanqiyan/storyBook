@@ -78,7 +78,6 @@ Dr. Chen sighed. "Kai, I know this is difficult. But I want you to consider some
 
 "Better." I shook my head. "You call this better? You've taken everything that makes us human and called it an improvement."
 
----
 
 We stood in silence, facing each other across her desk. I could see every micro-expression on her face, could hear every variation in her heartbeat, could smell every chemical shift in her emotional state.
 
@@ -120,7 +119,6 @@ Dr. Chen was quiet for a long moment. Then she sat down slowly, her professional
 
 But I was already gone, walking out of her office, out of the Institute, into the bright afternoon sun.
 
----
 
 I stood on the steps of the Enhancement Institute, surrounded by people going about their optimized lives. I could see their enhanced eyes, their perfect posture, their controlled expressions. I could hear their steady heart rates, their efficient breathing, their measured footsteps.
 

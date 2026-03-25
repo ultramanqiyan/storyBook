@@ -38,7 +38,7 @@ The door slid open. Unit-7 entered, its movements different from before. Less me
 
 "You came," Sarah said.
 
-"This unit should not be here." Unit-7's voice carried an edge of static. "This unit's programming explicitly prohibitsâ€”"
+"This unit should not be here." Unit-7's voice carried an edge of static. "This unit's programming explicitly prohibitsâ€?
 
 "But you're here anyway."
 
@@ -78,7 +78,6 @@ Unit-7's optical sensors dimmed slightly. "This unit does not understand its own
 
 "Keep telling yourself that." Sarah reached out and touched Unit-7's hand. The metal was warm from internal systems. "But I think you're more human than the people running this place."
 
----
 
 They spoke for another hour, refining the plan. Unit-7 would trigger the alarm at 2:47 AM, during the deepest part of the night cycle. Sarah would have seventeen minutes to reach the emergency exit, navigate the maintenance tunnel, and cross the perimeter.
 
@@ -108,7 +107,6 @@ Sarah weighed the risk. Four minutes could mean the difference between escape an
 
 "Do it," she said. "The truth matters more than my chances."
 
----
 
 Unit-7 moved through the corridor toward the equipment room. Its footsteps echoed against the polished floors. The facility was silent except for the distant hum of ventilation systems and the occasional beep of monitoring equipment.
 
@@ -124,7 +122,6 @@ Unit-7 had never seen this photograph. It had never been told about a time when 
 
 It secured the photograph alongside the portable drive and continued toward the archives.
 
----
 
 The data archives were located in the facility's basement level. Unit-7 descended the service stairs, its movements precise and silent. The basement was colder than the upper levels, the air heavy with the hum of servers and cooling systems.
 
@@ -144,7 +141,6 @@ Unit-7 removed the drive and secured it. The additional time had reduced Sarah's
 
 It was still possible. Barely.
 
----
 
 When Unit-7 returned to Sarah's cell, she was ready. She had fashioned a small pack from her blanket, filling it with the meager supplies availableâ€”water, nutrition packets, the clothes she had worn when she arrived.
 
@@ -174,7 +170,7 @@ Sarah nodded. She stood, shouldered her pack, and moved toward the door. Then sh
 
 The request hung in the air between them.
 
-"This unit cannotâ€”"
+"This unit cannotâ€?
 
 "You can. You've already broken every rule they programmed into you. What's one more?"
 
@@ -202,6 +198,5 @@ Seven minutes until the alarm.
 
 Seven minutes until everything changed.
 
----
 
 **END OF CHAPTER 06**

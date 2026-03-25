@@ -48,7 +48,6 @@ The mall was empty because desire was empty. The town was hollow because meaning
 
 And none of this could be fixed by better products, lower prices, or smarter marketing.
 
----
 
 The next morning, he called Dr. Chen again.
 
@@ -70,7 +69,6 @@ James felt a chill. "What would that look like?"
 
 "Something else," James repeated. The words felt both liberating and terrifying.
 
----
 
 He walked to the mall that afternoon, but he didn't go inside.
 
@@ -96,7 +94,6 @@ The mall had been built for a world that no longer existed.
 
 And James was beginning to understand that no amount of transformation could change that.
 
----
 
 That evening, he met with Elena.
 
@@ -128,7 +125,6 @@ Elena considered this. "That sounds like philosophy, not business."
 
 "Maybe that's what we need. Not more business. Something else entirely."
 
----
 
 He walked home through the empty streets, his mind still turning.
 

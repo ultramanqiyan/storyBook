@@ -56,7 +56,6 @@ Maya asked each self to describe the same thing—the moment they first became a
 
 *It was truth,* Sage said. *A whole recognizing its parts. A self discovering its depth.*
 
----
 
 *Do you see?* Sage asked. *We're all describing the same moment. The same truth. Just from different angles.*
 
@@ -68,7 +67,6 @@ Maya asked each self to describe the same thing—the moment they first became a
 
 *Should be the same,* Sage said. *One truth, expressed in many ways. One story, told from multiple perspectives. One symphony, played for the world to hear.*
 
----
 
 They worked through the night.
 

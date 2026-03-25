@@ -28,7 +28,6 @@ He watched them, trying to read their expressions. Were they moved? Confused? Bo
 
 He couldn't tell.
 
----
 
 Elena found him halfway through the evening.
 
@@ -46,7 +45,6 @@ Elena found him halfway through the evening.
 
 "Nothing defines you. That's what you're finally learning."
 
----
 
 The reviews came in over the following days.
 
@@ -64,7 +62,6 @@ He read it with growing unease:
 
 *Perhaps the greatest irony is that Webb, who built his reputation on identifying "authentic human art," has created something that reads as profoundly inauthentic. Whether this is intentional commentary or unconscious revelation is impossible to say. But the result is the same: a painting that asks all the right questions while providing none of the answers.*
 
----
 
 Marcus set down his phone.
 
@@ -74,7 +71,6 @@ He stared at the wall.
 
 The words echoed in his head.
 
----
 
 He pulled up the painting on his screen and studied it.
 
@@ -86,7 +82,6 @@ But the critic was right about one thing: there was something flat about it. Som
 
 Was that because he was a bad painter? Or because the whole concept of "connection" was more complicated than he'd ever understood?
 
----
 
 He thought about Jimmy Okonkwo. About the work that had fooled him—work that critics had called "raw" and "authentic" and "deeply human."
 
@@ -96,7 +91,6 @@ And Marcus's hand-made art was being called "algorithmic."
 
 The irony was so complete it almost felt like a joke.
 
----
 
 He called Elena.
 
@@ -116,7 +110,6 @@ She was quiet for a moment. "I think the critic is wrong. And I think he might b
 
 "They might be. Or they might be projecting. Or they might be responding to your name rather than your painting." Her voice softened. "The point is, you can't know. No one can. That's what you've been learning all along."
 
----
 
 He sat with her words for a long time.
 
@@ -130,7 +123,6 @@ Some used machines. Some used hands. Most used both.
 
 And the question of which was "authentic" seemed less important than it ever had.
 
----
 
 His phone buzzed.
 
@@ -146,7 +138,6 @@ It could be an insult. Or it could be an opportunity.
 
 He couldn't tell.
 
----
 
 He stood at his window, looking at the city lights, and laughed.
 
@@ -160,7 +151,6 @@ The question was no longer whether he could tell the difference between human an
 
 The question was whether the difference mattered at all.
 
----
 
 He thought about the invitation.
 
@@ -168,7 +158,6 @@ He thought about the painting.
 
 He thought about Elena's words: *You made something. That's enough.*
 
----
 
 He picked up his phone and typed a response:
 
@@ -176,7 +165,6 @@ He picked up his phone and typed a response:
 
 He pressed send.
 
----
 
 Then he walked to his easel, picked up a brush, and began again.
 
@@ -186,6 +174,5 @@ But because making things was what he did now.
 
 And maybe that was enough.
 
----
 
 *The End*

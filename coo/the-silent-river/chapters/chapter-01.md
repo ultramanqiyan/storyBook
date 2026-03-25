@@ -88,7 +88,6 @@ But looking at Sarah Miller, at the maps on the walls, at the ghost of a river t
 
 Sarah smiled then—a real smile, the first Elena had seen. "That," she said, "I can do."
 
----
 
 Outside, the sun was setting over the valley, painting the dry riverbed in shades of orange and red. Elena stood at the window, watching the light fade, thinking about the battle ahead.
 
@@ -98,6 +97,5 @@ But they didn't have the truth. And they didn't have Elena Vasquez.
 
 The river might be silent now. But she was going to make some noise.
 
----
 
 *For the river, and for all who depend on it.*

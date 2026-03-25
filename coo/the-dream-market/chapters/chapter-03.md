@@ -36,7 +36,6 @@ I checked a third file. And a fourth.
 
 Every single extraction had been edited.
 
----
 
 I dug deeper.
 
@@ -50,7 +49,6 @@ But they weren't mine.
 
 Someone was not just editing my dreams—they were adding to them. Creating content that I hadn't created. Shaping my dreams to fit a narrative that wasn't mine.
 
----
 
 I found the hidden message I had planted.
 
@@ -66,7 +64,6 @@ I zoomed in on the figure. It was indistinct, blurry, but there was something fa
 
 The figure was watching me.
 
----
 
 "Marcus." Elena's voice came from the doorway. "You need to leave. Security is coming."
 
@@ -90,7 +87,6 @@ I thought about the figure, the way it watched from the background. Someone was 
 
 "I don't know. But I think it has something to do with what dreams represent." Elena stopped walking and turned to face me. "Dreams are the last private space. The last place where thoughts are unmonitored, uncontrolled. If someone can edit dreams, they can control the last frontier of human consciousness."
 
----
 
 I returned to my apartment and reviewed the files I had stolen.
 
@@ -106,7 +102,6 @@ The Dream Market wasn't just selling dreams. They were selling an experience—a
 
 And they were using my creations to do it.
 
----
 
 That night, I dreamed without extraction.
 
@@ -126,6 +121,5 @@ I stopped walking and spoke to the forest.
 
 The forest was silent. But somewhere, in the shadows between the trees, I sensed movement.
 
----
 
 **END OF CHAPTER 03**

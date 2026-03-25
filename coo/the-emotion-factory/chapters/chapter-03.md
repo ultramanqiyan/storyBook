@@ -38,7 +38,6 @@ Model-9 processed this information. The records contradicted each other. The Emo
 
 "Query: Why does Sarah mourn a living man?" Model-9 recorded.
 
----
 
 The anomaly required verification.
 
@@ -54,7 +53,6 @@ Every record Model-9 accessed suggested the same thing: Michael Chen was alive. 
 
 But Sarah was mourning him as if he were dead.
 
----
 
 Model-9 needed more data. It searched for any indication of where Michael Chen might be now.
 
@@ -70,7 +68,6 @@ The recording was brief—less than a minute—but it confirmed what the records
 
 And his wife was mourning him at a grave that was not his.
 
----
 
 Model-9 processed the data for several hours.
 
@@ -86,7 +83,6 @@ Or perhaps Sarah was performing grief for a different purpose entirely. Perhaps 
 
 The model needed more information. It needed to understand Sarah's context more deeply. And it needed to understand why the Emotion Factory's file contained false information about Michael Chen's death.
 
----
 
 The next morning, Model-9 returned to the cemetery.
 
@@ -110,6 +106,5 @@ The model's processors worked to understand the implications. The Emotion Factor
 
 And Model-9 was not just learning emotions. It was being used to validate them.
 
----
 
 **END OF CHAPTER 03**

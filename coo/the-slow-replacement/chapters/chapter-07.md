@@ -82,7 +82,6 @@ The question echoed in his mind, a refrain he couldn't escape. He'd built his en
 
 The insight was uncomfortable, but it also felt like a small crack in the wall he'd built around himself. A tiny glimmer of light in the darkness.
 
----
 
 That afternoon, Marcus called David.
 
@@ -132,7 +131,6 @@ David squeezed his arm. "You start by admitting that the fear is real. That it's
 
 The words felt foreign, almost impossible. But also... hopeful.
 
----
 
 That night, Marcus came home to a quiet house.
 
@@ -172,7 +170,6 @@ They held each other in the quiet living room, the weight of the past weeks slow
 
 *One step at a time,* he thought. *That's all I can do.*
 
----
 
 The next morning, Marcus woke up feeling different.
 
@@ -204,7 +201,6 @@ But so was everything else. His family. His friends. His life.
 
 *Proud.* The word felt foreign. But also... good.
 
----
 
 At the office, Marcus walked to his desk with a different mindset.
 
@@ -232,7 +228,6 @@ Rachel smiled slightly. "That's what managers are for, Marcus. We're here to sup
 
 *Support.* The word felt foreign. But also... good.
 
----
 
 That night, Marcus came home to a house filled with the smell of Sarah's cooking.
 
@@ -260,7 +255,6 @@ Marcus looked at the drawing. Four figures, holding hands, standing in front of 
 
 The words were simple, but they felt like everything.
 
----
 
 That night, Marcus lay in bed, staring at the ceiling.
 

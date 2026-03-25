@@ -84,7 +84,6 @@ The meeting continued for another twenty minutes—implementation timelines, tra
 
 As we filed out, I caught David's eye. He shook his head slightly—that universal signal for "this is bullshit." I almost agreed with him. Almost. But something held me back. A nagging sense that maybe this time was different. Maybe the AI tools had finally crossed some invisible threshold from novelty to necessity.
 
----
 
 Back at my desk, I stared at the CodeForge icon on my screen. The installation had been pushed to my machine overnight, the icon appearing in my toolbar like an uninvited guest. I'd been ignoring it all morning, but Jennifer's presentation kept echoing in my head. *Forty percent productivity increase. Leadership is watching. Not optional anymore.*
 
@@ -116,7 +115,6 @@ I pushed that thought aside. I was overthinking. This was just a tool, like any 
 
 Right?
 
----
 
 The office was emptying, the afternoon light turning golden through the windows. I barely noticed. My mind was racing with possibilities, scenarios multiplying like cells under a microscope.
 
@@ -134,7 +132,6 @@ Then I thought about the code on my screen, elegant and complete, generated in t
 
 This was the future. I might as well get there first.
 
----
 
 *End of Chapter 1*
 

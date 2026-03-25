@@ -42,7 +42,6 @@ The move was perfect. My hand caught the sloper, my feet matched, my body swung 
 
 Then everything changed.
 
----
 
 The first warning was subtle—a flicker in my heads-up display, a momentary glitch in the data stream. I barely noticed it, my focus on the next hold, the next move.
 
@@ -60,7 +59,6 @@ But thirty seconds passed, and the display remained dark.
 
 My heart rate spiked. I was 850 feet up a mountain face, and my AI had just died.
 
----
 
 I tried to stay calm. I had trained for emergencies—basic protocols for equipment failure, backup procedures for communication loss. But I had never actually experienced a complete system shutdown. Not like this. Not mid-climb.
 
@@ -72,7 +70,6 @@ I looked up at the remaining 400 feet of mountain face, then down at the 850 fee
 
 For the first time in eight years, I was climbing blind.
 
----
 
 I tried to remember the route the system had calculated. There had been a sequence—something about moving right, then up through a crack system. But the details were fuzzy. I had always relied on RISK-AI to remember the details. Why would I need to remember them myself?
 
@@ -84,7 +81,6 @@ But the memories were distant, faded. I couldn't remember the last time I had ma
 
 The rock stared back at me, silent and indifferent.
 
----
 
 I made a decision. It wasn't calculated. It wasn't optimized. It was just... a guess.
 
@@ -98,7 +94,6 @@ I tried to reverse the move, to go back, but my foot slipped. For a terrifying m
 
 I swung gently, my heart pounding against my ribs. I was safe. For now. But I was also stranded, 850 feet up a mountain, with no AI, no radio, and no idea how to get down.
 
----
 
 The sun was setting. I could see it sliding toward the horizon, painting the sky in shades of orange and pink. Beautiful. Terrifying.
 
@@ -112,7 +107,6 @@ Risk was this. Being alone. Being afraid. Being responsible for your own surviva
 
 I sat on the ledge, my back against the cold rock, and watched the sun disappear.
 
----
 
 Night fell like a curtain. The temperature dropped rapidly, the mountain air turning from cool to frigid. I pulled my emergency blanket from my pack, wrapping it around my shoulders, but it wasn't enough. I was shivering within minutes.
 
@@ -124,7 +118,6 @@ But RISK-AI wasn't working. And for the first time, I realized how much of mysel
 
 I had become so optimized that I had forgotten how to be human.
 
----
 
 The wind howled around me, carrying flakes of snow that stung my face. I huddled deeper into my emergency blanket, my body shaking from cold and fear.
 
@@ -142,7 +135,6 @@ The woman at the party had been right. Risk was supposed to be felt, not calcula
 
 I had forgotten that. And now I was paying the price.
 
----
 
 I don't know how long I sat there. Hours, maybe. The cold was a constant presence, seeping through my clothes, settling into my bones. I drifted in and out of consciousness, my mind playing tricks on me.
 
@@ -152,7 +144,6 @@ The lights moved away.
 
 I was still alone.
 
----
 
 Dawn came slowly, the sky lightening from black to gray to pale blue. I was still alive—barely. My body was numb, my mind foggy. But I was alive.
 
@@ -162,6 +153,5 @@ It wasn't calculated. It wasn't optimized. It was just... hope.
 
 I stood up, my legs shaking, and began to climb.
 
----
 
 **Chapter 1 Complete**

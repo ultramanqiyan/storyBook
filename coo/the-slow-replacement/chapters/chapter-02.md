@@ -80,7 +80,6 @@ Around 2:30 PM, David made his exit. He walked through the office with his cardb
 
 Then he was gone, the elevator doors closing behind him with a soft chime.
 
----
 
 At 3:00 PM, Marcus went to the bathroom.
 
@@ -160,7 +159,6 @@ If people knew he was having panic attacks, they'd think he couldn't handle the 
 
 He splashed more water on his face, dried off with a paper towel, and walked back to his desk.
 
----
 
 The rest of the afternoon passed in a fog.
 
@@ -190,7 +188,6 @@ He didn't know. But he knew he couldn't sit at his desk anymore, couldn't preten
 
 At 5:30 PM, he packed up his laptop and left.
 
----
 
 The drive home was long.
 
@@ -220,7 +217,6 @@ The thought was too dark to hold. He pushed it away, focused on the road, on the
 
 But what if one step at a time wasn't enough?
 
----
 
 When Marcus got home, Sarah was in the kitchen, making dinner.
 
@@ -258,7 +254,6 @@ And he would. Eventually. But not tonight. Tonight, he needed to hold it togethe
 
 Tomorrow, he could fall apart.
 
----
 
 That night, after the children were asleep, Marcus sat on the edge of the bed, staring at the wall.
 

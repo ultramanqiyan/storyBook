@@ -53,7 +53,6 @@ But as she walked them to the elevator, she felt a hollow ache in her chest. She
 
 When had that happened? When had she become the delivery mechanism for algorithmic insights?
 
----
 
 That evening, she stayed late at the office again.
 
@@ -73,7 +72,6 @@ She opened the system and scrolled through the profiles. Each one was a wealth o
 
 But it wasn't in her head anymore. It was in the machine.
 
----
 
 The realization haunted her for days.
 
@@ -83,7 +81,6 @@ But the problem was there, nagging at the back of her mind. She was becoming dep
 
 She couldn't remember her clients anymore. Not the way she used to. Not the way that mattered.
 
----
 
 On Friday, she had lunch with James.
 
@@ -123,7 +120,6 @@ He paused. "Your clients feel cared for. That's what matters. Whether that care 
 
 Sarah didn't have an answer.
 
----
 
 That night, she dreamed about faces.
 
@@ -135,7 +131,6 @@ WealthGuide appeared on her screen, helpfully identifying each face. *Client A. 
 
 She woke up with tears in her eyes, not sure why.
 
----
 
 The next morning, she arrived at the office early.
 

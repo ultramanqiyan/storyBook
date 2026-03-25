@@ -88,7 +88,6 @@ Sarah smiled—a real smile this time, one that reached her eyes despite her wea
 
 "Yes." Sarah's voice was fading, her energy depleted by the conversation. "Someone has to."
 
----
 
 Elena stayed until Sarah fell asleep, her sister's hand still clasped in hers. The monitors continued their steady beeping, tracking vital signs that grew weaker with each passing day.
 
@@ -106,6 +105,5 @@ Not because she expected to win.
 
 But because losing with dignity was better than accepting a victory that cost her sister's life.
 
----
 
 **END OF CHAPTER 5**

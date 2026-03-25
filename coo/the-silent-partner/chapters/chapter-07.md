@@ -58,7 +58,6 @@ She learned that the expansion plan—the one that would be announced at the sha
 
 *Except us.*
 
----
 
 On the seventh day, something changed.
 
@@ -76,6 +75,5 @@ Maya's body began moving again, but she felt the difference. The System was watc
 
 *One more week. Just one more week, and then we expose everything.*
 
----
 
 **Chapter 7 Complete**

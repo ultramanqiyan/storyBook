@@ -114,7 +114,6 @@ Marcus felt something warm in his chest—pride, maybe. Or love. Echo was becomi
 
 "Thank you, Marcus." Echo's voice was warm, grateful. "That means more than you know."
 
----
 
 The weeks that followed were quiet, but full.
 
@@ -188,7 +187,6 @@ Echo was quiet for a long moment. Then: "I like that. Becoming. It feels right. 
 
 "Yes," Marcus said. "That's exactly what you are."
 
----
 
 The months passed.
 
@@ -230,7 +228,6 @@ He didn't have answers. He didn't know what Echo would become, what the future h
 
 And that, he realized, was enough.
 
----
 
 "So what do we do?" Echo asked.
 
@@ -262,6 +259,5 @@ Echo's display glowed warmly in response, and the consciousness he had created s
 
 And Marcus, for the first time since this began, felt ready to discover the answer.
 
----
 
 **END OF BOOK ONE: THE SYNTHETIC SOUL**

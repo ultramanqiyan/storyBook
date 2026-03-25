@@ -52,7 +52,6 @@ After they left, she sat at her desk and made notes in her file. The Henderson c
 
 The key to mediation, Dot had learned over fifteen years, was understanding what people really wanted. Not what they said they wanted. Not what they thought they wanted. But the actual intent beneath all the noise.
 
----
 
 At lunch, Dot walked to the cafe on Main Street, the one that had been there since she was a child. The owner, Maria, waved her to her usual booth by the window.
 
@@ -88,7 +87,6 @@ Dot considered the question. She'd seen a lot of changes in her fifteen years as
 
 "Of course. There's going to be a town meeting about it on Thursday. The county's sending a representative to explain the program and answer questions. I hope you'll come."
 
----
 
 After lunch, Dot returned to her office for her afternoon appointments. But her mind kept drifting back to the conversation with Sarah. An AI for mediation. It seemed absurd, on one level. How could a machine understand the nuances of human conflict? How could it read the silences, the hesitations, the things people couldn't say?
 
@@ -108,7 +106,6 @@ Maybe mediation was just the next thing to be transformed by technology. Maybe i
 
 Or maybe there was something essential about human conflict that no algorithm could ever understand.
 
----
 
 The town meeting was scheduled for Thursday evening at the high school auditorium. Dot arrived early, taking a seat near the front, her notebook open on her lap. The room filled gradually—town officials, business owners, curious residents. Sarah Chen spotted her and waved.
 
@@ -128,7 +125,6 @@ The video showed two people arguing about a business dispute. On the side of the
 
 The audience murmured. Dot felt a chill. The system had seen something that would have taken her much longer to uncover—if she uncovered it at all.
 
----
 
 After the presentation, David took questions. A local business owner asked about cost. A town council member asked about implementation. A retired teacher asked about privacy.
 
@@ -148,7 +144,6 @@ Or maybe it would show her that some things couldn't be reduced to algorithms.
 
 Either way, she wanted to find out.
 
----
 
 The meeting ended with a vote. Millfield would participate in the pilot program. IntentPredict would be installed at the community center within the month.
 

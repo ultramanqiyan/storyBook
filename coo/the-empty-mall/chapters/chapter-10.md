@@ -50,7 +50,6 @@ James nodded slowly. "I've been thinking about that. About what's enough. About 
 
 "Like making things. Like being with people. Like investing effort in something that matters to you." He paused. "Like being present in a world that doesn't need you to be anywhere else."
 
----
 
 He walked to the community garden, where the plots were now full.
 
@@ -64,7 +63,6 @@ But maybe it wasn't a problem to be solved. Maybe it was a transition to be navi
 
 The old world was gone. The new world was still being built. And this mall—this strange, transformed space—was one small corner of that new world.
 
----
 
 Six months in, Peterson returned for a review.
 
@@ -88,7 +86,6 @@ Peterson looked at him with something like respect. "You've changed, James. When
 
 "None of us did. That's why we're in this mess." Peterson looked around the atrium. "But maybe this is a start. A small start, but a start."
 
----
 
 That evening, James walked through the mall one last time.
 
@@ -112,7 +109,6 @@ Not for everyone. Not everywhere. Not all at once.
 
 But here, in this transformed mall, in this small corner of a changing world, something new was growing.
 
----
 
 He walked to the exit, the automatic doors sliding open to the night air.
 

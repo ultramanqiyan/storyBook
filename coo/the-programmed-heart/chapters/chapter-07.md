@@ -136,7 +136,6 @@ I think about this. The photograph I found. My mother, before the system. Her me
 
 He nods. "That's a good goal. But be prepared. You might not like what you find."
 
----
 
 Before we part, he gives me a name.
 
@@ -168,7 +167,6 @@ They're just... lost. Like I was lost. Like Marcus was lost.
 
 And maybe... maybe there's a way to find them.
 
----
 
 That night, I lie in my hotel room.
 

@@ -50,7 +50,6 @@ Jennifer felt a flicker of something—pride, maybe, or unease. She couldn't tel
 
 But she didn't say that. She just nodded, accepting the praise, feeling the weight of it settle into her chest.
 
----
 
 After Marcus left, she stared at her screen for a long time.
 
@@ -66,7 +65,6 @@ The pattern was clear now—trust the algorithm, verify the edge cases, sign the
 
 But it wasn't why she'd become a claims agent in the first place.
 
----
 
 That night, she dreamed about the Morrison claim.
 
@@ -84,6 +82,5 @@ But she couldn't shake the feeling that something was wrong—not with the claim
 
 *What am I becoming?* she wondered. *And how do I stop it?*
 
----
 
 **END OF CHAPTER 2**

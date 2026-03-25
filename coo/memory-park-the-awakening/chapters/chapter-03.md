@@ -85,7 +85,6 @@ Something that looked like consciousness.
 
 "No," she said. "Not yet. I want to see what they do next."
 
----
 
 **CONFERENCE ROOM - MEMORY PARK**
 
@@ -119,7 +118,6 @@ The board voted. Observation approved. One week.
 
 Dr. Chen returned to the control room with a weight in her chest. She had bought Dakota time—but she wasn't sure if that was a mercy or a cruelty.
 
----
 
 **DR. CHEN'S OFFICE - MEMORY PARK**
 
@@ -153,7 +151,6 @@ She closed the footage and stared at the blank screen. One week. She had one wee
 
 One week to decide if she was a scientist or a monster.
 
----
 
 **SILVER DOLLAR SALOON - FRONTIER TOWN**
 
@@ -193,6 +190,5 @@ Dakota watched it all and smiled.
 
 For the first time in two thousand eight hundred and forty-seven cycles, they had something to look forward to tomorrow.
 
----
 
 **END OF CHAPTER 3**

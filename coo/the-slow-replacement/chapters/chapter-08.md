@@ -94,7 +94,6 @@ The words echoed in his mind as he got ready for work. He looked at himself in t
 
 *One step at a time,* he thought. *That's all I can do.*
 
----
 
 At the office, Marcus walked to his desk with a different mindset.
 
@@ -124,7 +123,6 @@ For the first time, Marcus saw the AI not as a threat, but as a tool. A resource
 
 *Maybe I'm not obsolete after all,* he thought. *Maybe I'm just... evolving.*
 
----
 
 That afternoon, Marcus had a meeting with Rachel.
 
@@ -148,7 +146,6 @@ Rachel's expression softened. "I'm glad to hear that. I know the transition has 
 
 "Thank you," Marcus said. "I appreciate that."
 
----
 
 That night, Marcus came home to a house filled with the smell of Sarah's cooking.
 
@@ -174,7 +171,6 @@ Sarah's expression was surprised. "How did it feel?"
 
 *Proud.* The word still felt foreign. But also... good.
 
----
 
 After dinner, Marcus sat with Emma while she showed him her drawings.
 
@@ -196,7 +192,6 @@ It was such a simple insight, but it felt profound. There were things that AI co
 
 *Maybe that's what I've been missing,* Marcus thought. *Not the fear of being replaced, but the understanding of what can never be replaced.*
 
----
 
 That night, Marcus lay in bed, staring at the ceiling.
 
@@ -216,7 +211,6 @@ The fear was still there, lurking in the shadows. But it was quieter now. Less o
 
 And for the first time in weeks, he fell asleep without looking at his spreadsheet.
 
----
 
 The next morning, Marcus woke up to the sound of his phone buzzing.
 

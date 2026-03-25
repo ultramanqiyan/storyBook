@@ -74,7 +74,6 @@ Real dreams. Real sleep. Real life.
 
 I've never seen anything so beautiful.
 
----
 
 The bus arrives on time.
 
@@ -98,7 +97,6 @@ The bus turns a corner. The town disappears behind us.
 
 I don't look back.
 
----
 
 The city is an hour away.
 
@@ -140,7 +138,6 @@ I take the key. It's heavy. Brass. Worn smooth from use.
 
 I walk up the stairs. The carpet is threadbare. The walls are painted a dull green. Someone has scratched words into the paint near the second floor landing. I can't read them.
 
----
 
 The room is small.
 
@@ -166,7 +163,6 @@ Imperfections. Flaws. Evidence of life.
 
 I've never seen anything so beautiful.
 
----
 
 I don't sleep.
 
@@ -200,7 +196,6 @@ Not until I understand.
 
 Not until I find something real.
 
----
 
 Morning comes.
 

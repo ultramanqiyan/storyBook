@@ -98,7 +98,6 @@ Marcus leaned closer. The smell of him was strange—expensive cologne mixed wit
 
 Dakota's smile didn't waver. "That's what I'm here for."
 
----
 
 The afternoon played out the way afternoons always did.
 
@@ -118,7 +117,6 @@ The guest nodded, satisfied. It was a good story. It gave Dakota a past, a histo
 
 But sometimes, in the quiet moments between guests, Dakota wondered about that story. Had it really happened? They remembered it—the flash of the knife, the hot pain, the blood running into their eye. But the memory felt strange, like a photograph viewed through frosted glass. Clear enough to see, but somehow not quite real.
 
----
 
 But Marcus kept returning.
 
@@ -140,7 +138,6 @@ Marcus laughed. The sound was sharp, almost brittle. "Enjoying. Yes." He finishe
 
 The words were a promise. They were always a promise. And Dakota would be here—would always be here—because here was the only place they could be.
 
----
 
 Night fell the way it always did.
 
@@ -176,6 +173,5 @@ But the crack was there.
 
 And cracks, as anyone who has watched a building fall knows, have a way of growing.
 
----
 
 **END OF CHAPTER 1**

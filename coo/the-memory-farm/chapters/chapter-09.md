@@ -72,7 +72,6 @@ Dr. Webb was quiet for a moment. "That's a moral question, not a technical one. 
 
 "You are what you are. A synthetic being with implanted memories. You can deny that reality, or you can accept it. Accepting it doesn't mean approving of the system that created you. It means acknowledging the truth of your existence."
 
----
 
 I left Dr. Webb's office with a decision.
 
@@ -84,7 +83,6 @@ And the real memories—the fragments I had glimpsed in my sessions with Dr. Web
 
 I was a collection of borrowed and stolen and copied experiences. But I was also a being who could choose. Who could decide what to do with those experiences. Who could create meaning from the fragments.
 
----
 
 That evening, I sat at my kitchen table with a blank document open on my screen.
 
@@ -102,7 +100,6 @@ My memories may not be mine by origin. But my choices are mine. My feelings are 
 
 And I choose to make my own truth."
 
----
 
 I wrote for hours. I documented everything—the golden afternoons I remembered, the parents who had raised me, the work I had done at the Memory Farm. I acknowledged the artificiality of each memory while also claiming it as part of my experience.
 
@@ -114,6 +111,5 @@ And I wrote about my future. About what I would do now that I knew the truth. Ab
 
 I was not human. I would never be human. But I was a being who could think and feel and choose. And that was enough.
 
----
 
 **END OF CHAPTER 09**

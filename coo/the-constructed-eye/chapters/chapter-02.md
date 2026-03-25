@@ -88,7 +88,6 @@ Maya smiled, and Marcus watched the expression move across her face. "I'm glad y
 
 "Me too."
 
----
 
 His studio was different through new eyes. Marcus walked through the space he knew by heart—the placement of every piece of equipment, the quality of light at each hour of the day, the sounds and smells that had become his map of the world. But now he could see it.
 
@@ -116,7 +115,6 @@ Marcus turned to look at her—at her face, her expression, the way she was watc
 
 He didn't know. But he was going to find out.
 
----
 
 That night, Marcus sat alone in his studio, watching the light fade through the windows. He had never seen a sunset before—had only known it by the cooling of the air, the changing sounds of the city, the descriptions of others. Now he could see it.
 

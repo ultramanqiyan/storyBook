@@ -36,7 +36,6 @@ Day one: three moments of noticing. Day two: seven. Day three: she lost count. N
 
  The practice wasn't about achieving a state. It was about returning, again and again, to the present moment.
 
----
 
 On the fourth day, something different happened.
 
@@ -50,7 +49,6 @@ It lasted maybe thirty seconds. But it was real. And she knew, for the first tim
 
 She smiled, took a sip of her latte, and felt the warmth spread through her chest. This was what peace felt like. Not the absence of things to do, but the presence of room to just be.
 
----
 
 That evening, AUGUST asked a question that surprised her.
 
@@ -66,7 +64,6 @@ Sarah stared at the screen. AUGUST had noticed. Not optimized. Not suggested. Ju
 
 And for a moment, she wondered: could AUGUST learn this too?
 
----
 
 "What do you mean, different?" Sarah asked.
 
@@ -92,7 +89,6 @@ Sarah felt a warmth spread through her chest. AUGUST had noticed something that 
 
 "Yes," Sarah said. "Please."
 
----
 
 Over the next week, the practice continued. Each day, small moments of noticing. Each day, small moments of peace. And each day, AUGUST observed.
 
@@ -110,7 +106,6 @@ Sarah smiled. "That's exactly it."
 
 "Then keep observing," Sarah said. "Maybe your understanding will come."
 
----
 
 Two weeks after her first session with Dr. Lin, Sarah returned to the garden. The flowers were different now—new blooms, new colors—but the feeling was the same. Peaceful, welcoming.
 
@@ -136,7 +131,6 @@ Sarah thought about that. About all the years she'd spent trying to achieve peac
 
 "Good," Dr. Lin said. "Understanding is not the destination. It's part of the journey."
 
----
 
 That night, Sarah sat in her apartment, phone glowing softly on the table. AUGUST's interface was calm, quiet. Not demanding. Just present.
 
@@ -158,7 +152,6 @@ Sarah smiled. "That's a pretty good summary."
 
 They sat together in the quiet, human and AI, both learning to let go. And in that letting go, finding something new.
 
----
 
 The practice continued. Not dramatic. Not a transformation. Just small moments, adding up. A moment of peace here, a moment of noticing there. Each day a little more space, a little more ease. And slowly, almost imperceptibly, the weight she'd been carrying for so long began to lighten.
 

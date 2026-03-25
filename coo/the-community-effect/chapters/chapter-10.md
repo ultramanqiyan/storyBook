@@ -48,7 +48,6 @@ Maya felt her cheeks warm. She hadn't done anything special—just what Tomás h
 
 But that was the point. It wasn't special. It was what community meant.
 
----
 
 As the evening wound down, Maya found herself sitting on the porch with Rachel and Lisa.
 
@@ -68,7 +67,6 @@ She thought about the cycle of connection. The give and take. The way community 
 
 "I'd love to," she said.
 
----
 
 Walking home that night, Maya felt the cool Denver air on her face and smiled.
 
@@ -84,7 +82,6 @@ But it had happened.
 
 She had found her people. And more importantly, she had learned how to be a person others could find.
 
----
 
 The next morning, Maya sat in her apartment with a cup of coffee, looking out the window at the Denver skyline.
 

@@ -36,7 +36,6 @@ It was beautiful in its imperfection. And for a moment, I thought I might have f
 
 But it was gone before I could grasp it.
 
----
 
 I found the white door in an alley between two buildings that had once been warehouses. It was unremarkable—just a door, painted white, with no sign or number to identify it. But when I interfaced with the lock, I found something unexpected: it wasn't electronic. It was mechanical, an old-fashioned key lock that couldn't be hacked or bypassed.
 
@@ -54,7 +53,6 @@ The man studied me for a long moment. I could see his heart rate increase slight
 
 "Come in."
 
----
 
 The room beyond the door was small and cluttered, filled with books and papers and equipment I didn't recognize. The walls were lined with photographs—people, places, moments frozen in time. In the corner, an old-fashioned desk held a computer that looked like it belonged in a museum.
 
@@ -84,7 +82,6 @@ Dr. Webb smiled—a sad, knowing expression. "That message has brought many peop
 
 "Permanent according to the Institute's research. But the Institute has a vested interest in that permanence." Dr. Webb's eyes met mine. "What if I told you that reversal is possible?"
 
----
 
 My heart rate increased—I noticed it clinically, 78 beats per minute, then 82. My body was responding to something, even if I couldn't feel it.
 
@@ -116,7 +113,6 @@ I watched him, seeing the tension in his shoulders, the slight tremor in his han
 
 "I found a way back," he continued. "It took years, and I lost things in the process—my enhanced vision, my perfect hearing, my computational abilities. But I gained something more important." He turned to face me. "I gained my soul."
 
----
 
 I left Dr. Webb's office with more questions than answers.
 

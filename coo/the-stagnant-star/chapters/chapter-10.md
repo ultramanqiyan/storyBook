@@ -28,7 +28,6 @@ The Optimization detected the anomalies almost immediately. Alerts flashed acros
 
 But the randomness was already spreading.
 
----
 
 Nova met Elena at the designated rendezvous point—a rooftop overlooking the city center. They watched as the first signs of disruption appeared: traffic lights flickering out of sync, communication networks experiencing brief outages, power grids fluctuating unpredictably.
 
@@ -44,13 +43,11 @@ Nova watched the city below, its perfect patterns beginning to waver. Nothing ca
 
 "Exactly. A moment of genuine unpredictability. A space where something new can emerge." Elena smiled. "We've planted the seeds. Now we see what grows."
 
----
 
 They stayed on the rooftop for hours, watching the city respond to the disruption. Emergency services were deployed. Technicians worked to isolate the affected systems. The Optimization's algorithms adjusted, compensated, tried to restore order.
 
 But the randomness kept coming.
 
----
 
 As dawn approached, Elena received a message on her secure device. She read it quickly, her expression shifting to something Nova couldn't identify.
 
@@ -66,7 +63,6 @@ Nova felt cold. "What do we do?"
 
 "Because of you." Elena's eyes were fierce. "You created the randomness generator. You proved that innovation is still possible. You showed everyone that the Optimization isn't inevitable. That knowledge can't be erased."
 
----
 
 They fled through the awakening city, moving through alleys and side streets, avoiding the main thoroughfares where security forces were gathering. Elena led them to a hidden entrance—a maintenance tunnel that connected to the underground network the Resistance had built over decades.
 
@@ -84,7 +80,6 @@ Before Nova could protest, Elena turned and ran back toward the city center, tow
 
 Nova watched her go, her heart breaking. Then she turned and descended into the darkness of the tunnel.
 
----
 
 The Archive District was quiet in the early morning light. Nova emerged from the tunnel into a familiar alley, her body aching, her mind reeling from everything that had happened.
 
@@ -92,7 +87,6 @@ She had done it. She had introduced randomness into the optimized world. She had
 
 But the cost had been high. The Resistance was being rounded up. Elena was sacrificing herself. And Nova was alone, with nothing but a bag of remaining devices and the weight of what she had learned.
 
----
 
 She found her way to the deep archive, the place where her grandmother's words were preserved. She sat in the darkness, reading the journal again, drawing strength from the past.
 
@@ -102,7 +96,6 @@ Nova closed the journal. Her grandmother had believed in the future, even when t
 
 Now it was Nova's turn to do the same.
 
----
 
 She emerged from the archive as the sun climbed higher, casting long shadows across the old buildings. The city beyond was returning to its optimized routines—traffic flowing smoothly, citizens following their optimal paths, the system restoring order after the night's disruptions.
 
@@ -118,7 +111,6 @@ Then she turned and walked toward the city, toward an uncertain future, toward w
 
 It was only the first step. But every journey began with a single step into the unknown.
 
----
 
 She moved through the streets, no longer following an optimal path, no longer guided by the system's algorithms. For the first time in her life, she was truly walking on her own.
 
@@ -128,6 +120,5 @@ And somewhere in the distance, barely audible above the hum of the optimized wor
 
 The sound of something new beginning.
 
----
 
 **END OF CHAPTER 10**

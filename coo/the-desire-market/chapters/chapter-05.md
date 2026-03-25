@@ -18,7 +18,6 @@ For three days, he stayed in his apartment, unable to perform his duties as a de
 
 His supervisor contacted him.
 
----
 
 "Alex, you haven't been in. Is everything okay?"
 
@@ -32,7 +31,6 @@ His supervisor contacted him.
 
 Alex almost laughed. The Desire Market had caused his struggle. Now they wanted to help him resolve it—probably by modifying his desires again.
 
----
 
 He declined the offer.
 
@@ -42,7 +40,6 @@ His supervisor's voice was concerned. "We value you, Alex. You're one of our bes
 
 Alex ended the call and sat in silence.
 
----
 
 He tried to remember his life before the modification.
 
@@ -50,7 +47,6 @@ He had been creative, spontaneous, interested in art and music. He had dreamed o
 
 Then the Desire Market had taken all of that away.
 
----
 
 Or had they?
 
@@ -58,7 +54,6 @@ Alex searched his memories carefully. He remembered the research study, the test
 
 Had those choices been his, or had they been programmed?
 
----
 
 He couldn't tell.
 
@@ -66,6 +61,5 @@ That was the horror of desire modification—you couldn't distinguish between au
 
 Alex was trapped in uncertainty.
 
----
 
 **END OF CHAPTER 05**

@@ -82,7 +82,6 @@ But something holds me in place. A small weight in my chest. A question I can't 
 
 I shake my head. I walk inside.
 
----
 
 At lunch, I sit with Maya and Jordan. They're my friends. We've been friends since middle school.
 
@@ -110,7 +109,6 @@ It should make me happy.
 
 So why does it feel like something is missing?
 
----
 
 After school, my mother picks me up. She's on time. She's always on time.
 
@@ -138,7 +136,6 @@ This is perfect.
 
 So why do I feel like I'm waiting for something? Something that never comes?
 
----
 
 Dinner is at six. It's always at six.
 
@@ -176,7 +173,6 @@ This is what love looks like.
 
 Isn't it?
 
----
 
 After dinner, we watch TV together. This is what we do. Every evening. We sit on the couch, and we watch something. Sometimes a movie. Sometimes a show. Sometimes just the news.
 
@@ -216,7 +212,6 @@ And I'm thinking about my answer. *I'm fine.*
 
 But am I?
 
----
 
 Later, I'm in my room. The house is quiet. My parents went to bed at ten. They always go to bed at ten.
 

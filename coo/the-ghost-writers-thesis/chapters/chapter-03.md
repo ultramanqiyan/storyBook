@@ -44,7 +44,6 @@ Elena closed the dissertation carefully, her hands trembling slightly. She thoug
 
 She needed to talk to him. She needed to understand what he knew, what he had seen, what he might be able to teach her about the curiosity she had lost.
 
----
 
 The walk to Dr. Webb's office felt different from her usual route. Elena moved slowly, her mind still processing what she had discovered in the archive. The campus was busy with afternoon activity, but she barely noticed. Her thoughts were elsewhere, in that dusty room full of old dissertations, trying to understand what had been lost.
 
@@ -64,7 +63,6 @@ Webb was at his desk, surrounded by books and papers, the chaos of a mind at wor
 
 Webb studied her face for a long moment. Then he nodded slowly, as if he had been expecting this. "Close the door," he said quietly. "And sit down."
 
----
 
 The office was familiar, but Elena saw it differently now. The books on the shelves weren't just reference materials—they were artifacts of a different era, when research was driven by human curiosity rather than algorithmic efficiency. The papers on Webb's desk weren't just work in progress—they were evidence of a mind still engaged in the messy, inefficient, beautiful process of wondering.
 
@@ -94,7 +92,6 @@ Webb was quiet for a long moment. The clock on his desk ticked softly, measuring
 
 "That's the question, isn't it?" he said finally. "Can you recover what you've lost? Can any of us?" He stood and walked to the window, looking out at the campus below. "I don't know the answer. But I know it starts with asking the question. And that's something you've finally done."
 
----
 
 Elena left Webb's office as the sun was setting, her mind full of questions. The conversation had raised more than it answered, but she felt something she hadn't felt in years: the stirrings of genuine curiosity.
 

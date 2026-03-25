@@ -38,7 +38,6 @@ The people. That was what had made Morrison & Associates different. It wasn't ju
 
 Work was work, but it was also something more. It was belonging. It was purpose. It was the knowledge that what you did mattered to someone.
 
----
 
 1998. The day he made partner. He was thirty-six years old, standing in Harold's office, trying not to cry.
 
@@ -50,7 +49,6 @@ That night, he'd taken Margaret out to dinner at the best restaurant in town. Th
 
 *We made it*, he'd thought. *We finally made it.*
 
----
 
 But somewhere along the way, things had changed.
 
@@ -62,7 +60,6 @@ Robert had adapted. He'd learned to navigate the new reality, to speak the new l
 
 But now, sitting in his quiet office, he wondered what he'd been waiting for.
 
----
 
 The knock on his door was soft. He looked up to see Janet standing in the doorway, her eyes red.
 
@@ -98,7 +95,6 @@ She walked to the door, then paused.
 
 Then she was gone.
 
----
 
 Robert sat alone in his office. The photographs on the wall stared back at him—frozen moments from a world that no longer existed.
 

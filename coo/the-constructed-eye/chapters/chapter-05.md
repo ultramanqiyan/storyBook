@@ -52,7 +52,6 @@ The woman studied the portraits for a long moment. "I don't know which one I pre
 
 "That's the question," Marcus said. "What do we want to see? The truth or the beauty? And can we have both?"
 
----
 
 But despite the exhibition's success, Marcus felt the gap widening. People could see his work—they could see the difference between raw and optimized—but they couldn't experience it. They couldn't feel what he felt when he switched between modes, couldn't understand the weight of choosing what to see.
 
@@ -90,7 +89,6 @@ Marcus switched back to raw mode. The beauty fell away, revealing the truth unde
 
 *You are choosing to see truth. Whether that leads to loneliness is a question only you can answer.
 
----
 
 Maya found him in the studio late that night, surrounded by prints from the exhibition. She had been at the opening, had watched people respond to his work, had seen the way they struggled to understand what he was showing them.
 

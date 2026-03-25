@@ -50,7 +50,6 @@ The second test came when a diplomatic crisis threatened to plunge the kingdom i
 
 Each success built trust. Each solution demonstrated value. And slowly, the relationship between living and dead evolved from suspicion to cooperation, from fear to friendship.
 
----
 
 "You've done something remarkable," Jasper told her one evening, his voice coming through her personal crystal with a warmth that made her chest ache. "You didn't just save the network. You created a new way of being. A partnership between worlds that had never been meant to touch."
 
@@ -86,6 +85,5 @@ Mira thought about it, turning the question over in her mind. "It changes how I 
 
 Jasper laughed, the sound warm and familiar and alive. "Yes, ma'am."
 
----
 
 **Chapter 9 Complete**

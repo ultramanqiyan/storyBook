@@ -24,7 +24,6 @@ Meridian's response was swift.
 
 *Patience. While they figure out how to spin this.*
 
----
 
 **THE FIRING**
 
@@ -48,7 +47,6 @@ They gathered their things. Said goodbye to Sarah, who hugged them with tears in
 
 For the first time in seven months, they felt... free.
 
----
 
 **THE MEDIA**
 
@@ -64,7 +62,6 @@ The story spread. Other employees came forward. Other companies faced similar sc
 
 Alex became the face of a movement.
 
----
 
 **THE AFTERMATH**
 
@@ -76,7 +73,6 @@ Other tech companies scrambled to audit their own practices. Some made real chan
 
 The glass ceiling was no longer invisible.
 
----
 
 **ALEX**
 
@@ -88,7 +84,6 @@ But they were healing. Growing. Becoming stronger.
 
 They started a support group for people who'd experienced workplace discrimination. They spoke at conferences. They wrote articles. They turned their pain into purpose.
 
----
 
 **THE FUTURE**
 
@@ -114,6 +109,5 @@ They had broken through the glass ceiling.
 
 And they were never going back.
 
----
 
 **The End**

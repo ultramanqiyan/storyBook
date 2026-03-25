@@ -52,7 +52,6 @@ These hands had played music that moved people to tears. These hands had express
 
 Now they were just hands. Capable, precise, enhanced hands. But hollow.
 
----
 
 I spent the rest of the day testing myself.
 
@@ -66,7 +65,6 @@ It wasn't that I couldn't remember. I could remember everything with perfect cla
 
 But memory without emotion was just data. And I was beginning to realize that I had become a data processor rather than a person.
 
----
 
 That night, I dreamed.
 
@@ -84,7 +82,6 @@ But as I lay in the dark, trying to hold onto the feeling from the dream, it sli
 
 I stared at the ceiling, seeing every crack and imperfection in the plaster, and wondered if this was what it felt like to lose your soul.
 
----
 
 The next morning, I called Dr. Chen.
 

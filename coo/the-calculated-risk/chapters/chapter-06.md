@@ -28,7 +28,6 @@ I moved differently. I paused at each hold, feeling the texture, judging the sta
 
 I reached the top, my hands finding the final hold, my body settling into position. The crowd cheered, but I barely heard them. I was too focused on the feeling—the joy of actually knowing, of actually trusting, of actually climbing.
 
----
 
 The third route was the crux—a steep overhang that required strength, technique, and judgment. I stood at the base, my heart racing, my mind working through the possibilities.
 
@@ -44,7 +43,6 @@ But then I felt something else: relief. I had tried. I had trusted myself. I had
 
 And that was enough.
 
----
 
 The final standings were posted that evening. I had placed seventh—not my best result, but not my worst either. The winner was a climber from Japan, his AI system guiding him to a perfect performance.
 
@@ -52,7 +50,6 @@ I watched him accept the trophy, his face calm and certain. He looked like I use
 
 But I didn't envy him anymore. I had something he didn't: the ability to think for myself.
 
----
 
 The after-party was crowded with athletes and sponsors and journalists. I moved through the room, accepting congratulations and answering questions.
 
@@ -66,7 +63,6 @@ The question hung in the air. I had been asking myself the same thing for months
 
 "I don't know," I admitted. "The system made me successful. But it also made me dependent. I'm still figuring out what I want."
 
----
 
 I found Marcus in the corner of the room, his expression thoughtful.
 
@@ -78,7 +74,6 @@ I found Marcus in the corner of the room, his expression thoughtful.
 
 I nodded, the words settling into my mind. He was right. I hadn't won the competition, but I had won something more important: the ability to climb without the system.
 
----
 
 That night, I lay in my hotel bed, staring at the ceiling. The competition was over, my result was posted, my future was uncertain. But I felt something I hadn't felt in years: peace.
 

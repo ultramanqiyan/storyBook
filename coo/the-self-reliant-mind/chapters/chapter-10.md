@@ -76,7 +76,6 @@ Amanda's eyes widened. "Are you offering me a position?"
 
 David smiled. "Then welcome to the team."
 
----
 
 Walking home that evening, David thought about the journey that had brought him here.
 
@@ -102,7 +101,6 @@ He had his standing ground. He trusted himself to stand on it.
 
 And that was enough.
 
----
 
 The next morning, David walked into his office to find a package on his desk.
 

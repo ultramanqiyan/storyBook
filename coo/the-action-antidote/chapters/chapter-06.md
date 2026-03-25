@@ -30,7 +30,6 @@ Other volunteers greeted her—names she actually remembered this time. Tom, who
 
 She found her spot from last week—the tomato bed she'd weeded—and knelt in the dirt. This was becoming familiar. This was becoming hers.
 
----
 
 The work flowed easier this time. Sarah weeded, planted, watered—her hands knowing what to do before her mind could overthink it. She talked with Elena about nothing and everything: the weather, the tomatoes, the strange satisfaction of pulling a weed out by its roots.
 
@@ -42,7 +41,6 @@ The work flowed easier this time. Sarah weeded, planted, watered—her hands kno
 
 They worked in companionable silence for a while. The sun warmed Sarah's back, and the smell of soil filled her lungs. She was sweaty, dirty, and tired. She was also happy. When was the last time she'd felt that?
 
----
 
 "Hey, Sarah."
 
@@ -76,7 +74,6 @@ The words echoed in her head. *You know what you're doing.* Did she? She'd spent
 
 But she was already thinking about it. She couldn't stop.
 
----
 
 The walk home felt different again. Not just because she'd been twice now, but because something had shifted. An opportunity. A possibility.
 

@@ -56,7 +56,6 @@ He moved through the kitchen, the dining room, the family room, trying to notice
 
 But updates could hide problems. He'd learned that the hard way.
 
----
 
 He descended into the basement, the space where the Chen property had hidden its fatal flaw.
 
@@ -74,7 +73,6 @@ He pulled out his phone and opened the property file, looking for the disclosure
 
 He made a note to find out.
 
----
 
 He spent an hour in the house, walking through each room, trying to notice everything. The slope of the floors. The sound of the pipes. The smell of the spaces. The quality of the light.
 
@@ -84,7 +82,6 @@ By the time the Chens arrived, he'd formed an opinion—not a match score, not a
 
 *But I need to verify the foundation inspection.*
 
----
 
 David Chen parked in the driveway at 10 AM, his wife Mei Ling in the passenger seat, their two young children in the back. The family looked tired, worn down by months of house hunting and the lingering stress of the failed purchase.
 
@@ -96,7 +93,6 @@ Mike met them at the car, feeling the weight of their trust.
 
 David studied him for a moment. Then he nodded, something shifting in his expression. "Let's see the house."
 
----
 
 They walked through the property together, Mike pointing out features he'd noticed during his pre-showing inspection.
 
@@ -110,7 +106,6 @@ David was watching him, his expression thoughtful. "You seem different, Mike. Mo
 
 The observation landed like a gift. "I'm trying to be," Mike said. "I'm trying to remember how to pay attention."
 
----
 
 They reached the basement, and Mike felt David tense beside him.
 
@@ -134,7 +129,6 @@ David and Mei Ling exchanged a look. Then David said, "That's honest."
 
 "I'm trying to be different." Mike met her eyes. "I'm trying to be the agent you deserved the first time."
 
----
 
 They finished the walkthrough, and Mike gathered his observations.
 
@@ -148,7 +142,6 @@ The silence stretched between them. Then David nodded slowly.
 
 "Okay," he said. "Let's do it your way."
 
----
 
 The independent inspection happened three days later.
 
@@ -158,7 +151,6 @@ Mike watched her work, trying to learn, trying to remember what he'd forgotten.
 
 *This is what expertise looks like*, he thought. *Not data. Not algorithms. Just a person paying attention.*
 
----
 
 The inspection came back clean.
 
@@ -168,7 +160,6 @@ Mike felt the relief wash through him—partly for the Chens, partly for himself
 
 *Maybe I can do this*, he thought. *Maybe I can be who I used to be.*
 
----
 
 The closing happened a month later.
 
@@ -178,7 +169,6 @@ But this time felt different.
 
 This time, he'd earned the signature.
 
----
 
 After the closing, David pulled him aside.
 
@@ -198,7 +188,6 @@ David smiled slightly. "You were honest. That's why I trusted you."
 
 Maybe that was enough. Maybe that was what he'd been missing all along—not the data, not the efficiency, but the simple willingness to be present, to pay attention, to tell the truth.
 
----
 
 He drove home in the fading afternoon light, the houses of Austin passing in a blur of familiar streets he was learning to see again.
 
@@ -210,7 +199,6 @@ The knowledge was coming back. Slowly, imperfectly, with gaps and uncertainties 
 
 *This is who I am*, he thought. *Not the signature. Not the algorithm. This. The person who notices things. The person who feels houses. The person who makes mistakes and learns from them.*
 
----
 
 Susan was in the garden when he got home, kneeling in the dirt, her hands covered with soil. She looked up as he walked toward her, and something in his face must have shown, because she smiled.
 
@@ -232,7 +220,6 @@ He squeezed back, feeling the connection, the warmth, the simple human contact t
 
 *This is what I've been missing*, he thought. *Not the data. Not the efficiency. This. The feeling of being present. The knowledge that comes from paying attention. The self that I outsourced and then forgot how to find.*
 
----
 
 That night, after Susan had gone to bed, Mike sat at the kitchen table with his laptop open.
 
@@ -242,7 +229,6 @@ He stared at it for a long time.
 
 Then he closed the laptop and went to bed.
 
----
 
 The next morning, he arrived at the office early, before the algorithms woke up, before the data streams started flowing. He sat at his desk in the quiet dark, feeling the uncertainty of a future he couldn't predict.
 
@@ -252,7 +238,6 @@ He didn't have an answer. But for the first time in months, he was asking the qu
 
 And that, he thought, was a start.
 
----
 
 He pulled out a legal pad and a pen—the old tools, the analog tools, the ones that required him to think rather than process. He wrote:
 
@@ -267,7 +252,6 @@ He stared at the words, feeling the weight of them.
 
 *This is what I want to remember*, he thought. *This is what I don't want to outsource.*
 
----
 
 The office began to fill around nine, colleagues arriving with coffee and conversation, the familiar rhythms of a workday. Mike stayed at his desk, watching the algorithm wake up, watching the data streams start flowing, watching the matches appear on his screen.
 
@@ -277,10 +261,8 @@ He stared at the matches for a long moment. Then he closed the window, stood up,
 
 He had houses to walk through.
 
----
 
 **END OF CHAPTER 10**
 
----
 
 **END OF THE OUTSOURCED MEMORY**

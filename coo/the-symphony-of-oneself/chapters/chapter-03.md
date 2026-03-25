@@ -76,7 +76,6 @@ She would present at the conference. But she would present something differentâ€
 
 *They'll think you're real,* Sage said. *And that's all that matters.*
 
----
 
 Maya began to write. And for the first time, all seven selves contributedâ€”not fighting for control, but offering their unique perspectives. Marcus provided structure. Logan provided logic. Iris provided beauty. Nora provided compassion. Phoenix provided passion. Selene provided wonder. Sage provided wisdom.
 

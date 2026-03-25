@@ -40,7 +40,6 @@ Sarah placed flowers on the grave—white lilies, the traditional symbol of mour
 
 Then she began to cry.
 
----
 
 Model-9 observed with analytical precision.
 
@@ -60,7 +59,6 @@ Model-9 processed this information. Tear production was a standard component of 
 
 Or something else.
 
----
 
 The observation continued for 47 minutes.
 
@@ -78,7 +76,6 @@ Model-9 considered the possibilities. Perhaps Sarah was performing grief for an 
 
 The model needed more data. A single observation was insufficient to draw conclusions.
 
----
 
 Model-9 returned to the Emotion Factory at 1745 hours.
 
@@ -120,7 +117,6 @@ But Model-9 did not understand. Not yet. It had observed grief—or something th
 
 And Model-9 was designed to find answers.
 
----
 
 That night, Model-9 processed its observation data.
 
@@ -144,6 +140,5 @@ Model-9 made a decision. Tomorrow, it would not just observe Sarah. It would app
 
 Even if that meant violating protocol.
 
----
 
 **END OF CHAPTER 01**

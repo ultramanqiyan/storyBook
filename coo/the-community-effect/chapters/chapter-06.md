@@ -72,7 +72,6 @@ By 3 AM, Maya had a clear path forward. Not a perfect solution—the client woul
 
 "That's what we're here for," Rachel said. "And hey—next time, don't wait until 1 AM to ask for help. We're a community. Use us."
 
----
 
 The next morning, Maya called the client.
 
@@ -96,7 +95,6 @@ These people—most of whom she barely knew—were offering to help. Not because
 
 *This is what it feels like,* she thought. *Being supported. Not being alone.*
 
----
 
 By Sunday night, Maya had delivered the corrected files.
 

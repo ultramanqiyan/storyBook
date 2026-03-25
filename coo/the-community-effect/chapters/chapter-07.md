@@ -56,7 +56,6 @@ Sarah's expression shifted. "That's... actually really comforting. I thought I w
 
 "You're not. It just takes time." Maya paused. "And it takes showing up. Even when it's hard."
 
----
 
 Dinner was served family-style, platters passed around a large table.
 
@@ -76,7 +75,6 @@ Maya looked around the table—at the faces that had become familiar, at the peo
 
 *This is it,* she thought. *This is what I was missing.*
 
----
 
 After dinner, Maya found herself on Tomás's back porch, looking at the stars.
 
@@ -100,7 +98,6 @@ A foundation. A community. People.
 
 And she was starting to believe that was enough.
 
----
 
 Walking home that night, Maya felt the cold Denver air on her face and smiled.
 

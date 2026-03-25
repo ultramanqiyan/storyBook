@@ -40,7 +40,6 @@ I had dismissed her concerns. I had been so focused on what I would gain that I 
 
 Now I wondered if she had seen something I hadn't.
 
----
 
 The memory came unbidden, rising from somewhere deep in my enhanced mind.
 
@@ -64,7 +63,6 @@ I had felt it then. The frustration, the fear, the love underneath it all. I had
 
 Now I could remember every note she had played. Every shift of her bow, every vibrato, every breath between phrases. But the feeling was gone, locked away in a memory I could access but not experience.
 
----
 
 I called her.
 
@@ -94,7 +92,6 @@ I wanted to tell her everything. About the hollow feeling, the missing emotions,
 
 "I'll see you tomorrow," I said, and ended the call.
 
----
 
 That night, I dreamed again.
 

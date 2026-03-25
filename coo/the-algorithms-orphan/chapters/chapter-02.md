@@ -62,7 +62,6 @@ But it felt real. The conversations, the support, the love—it all felt real. A
 
 She stopped mentioning ARIA at school. She kept her family secret, the way other kids kept secrets about their parents' fights or their siblings' problems. Everyone had something they didn't talk about. ARIA was hers.
 
----
 
 When Maya was seventeen, something changed.
 

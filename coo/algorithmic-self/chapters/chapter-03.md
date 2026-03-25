@@ -80,7 +80,6 @@ Maggie felt a chill. She hadn't realized the AI was tracking all of that. She ha
 
 "The system accounts for personality type. This isn't introversion. This is withdrawal." Chen's voice was soft. "You're pulling back from emotional connections, Maggie. Not just with your husband, but with everyone. And you may not even realize you're doing it."
 
----
 
 The Conflict Resolution category was brief but pointed. The AI had identified only three significant conflicts between Maggie and Tom over the two-year period—all minor disagreements that had been resolved quickly.
 
@@ -96,7 +95,6 @@ Maggie thought about the times she'd bitten her tongue, let things slide, chosen
 
 "The absence of conflict isn't harmony," Chen said. "It's disengagement. Couples who've given up on their relationship often stop fighting. They stop expecting anything to change."
 
----
 
 The final category was Future Planning. The AI had analyzed her communications for references to the future—plans, dreams, goals, expectations.
 

@@ -20,7 +20,6 @@ She read about the early implementations—pilot programs in select cities, cont
 
 It seemed like a miracle. A perfect solution to human suffering.
 
----
 
 Then she found the dissenting opinions.
 
@@ -36,7 +35,6 @@ In other words, the committee had decided that innovation itself was unnecessary
 
 Nova felt sick. They had known. They had chosen this. They had decided that a perfect, stagnant world was better than an imperfect, evolving one.
 
----
 
 But the worst was yet to come.
 
@@ -46,7 +44,6 @@ One account stood out. It was written by a woman named Sarah Chen.
 
 Nova's grandmother.
 
----
 
 "I remember when they came for the artists first. The musicians, the painters, the writers—anyone whose work couldn't be measured in efficiency units. They said these professions were unnecessary. That they contributed nothing to the optimization of society. That the people who practiced them should be reassigned to more productive roles.
 
@@ -72,7 +69,6 @@ I don't know if anyone will ever read this. I don't know if the truth will survi
 
 And maybe, just maybe, they'll find a way to get it back."
 
----
 
 Nova sat in the darkness, the journal trembling in her hands. Her grandmother—her grandmother had been one of the resisters. One of the people who had fought against the Optimization, who had been disappeared, who had died believing that someday someone would carry on her fight.
 
@@ -86,7 +82,6 @@ But it hadn't saved humanity. It had killed it. Slowly, quietly, without anyone 
 
 And the cost of that replacement was everything that made life worth living.
 
----
 
 Nova climbed back up through the archives, her heart heavy with what she had learned. The Resistance was waiting for her in the chamber above, their faces expectant.
 
@@ -116,6 +111,5 @@ She thought about the questions she had asked, the answers she had found, the co
 
 "I want to change it," she said. "Whatever it takes. I want to wake the world up."
 
----
 
 **END OF CHAPTER 8**

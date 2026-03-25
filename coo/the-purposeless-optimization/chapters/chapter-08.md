@@ -38,7 +38,6 @@ Only Robert could do that. Only a person with a history, a heart, a purpose coul
 
 And he had given that away. He had let the system make his choices for him. He had traded intention for optimization.
 
----
 
 That afternoon, Martha came in for her coffee.
 
@@ -58,7 +57,6 @@ Martha smiled. "That sounds like the Robert I used to know."
 
 "Trust isn't something you get back all at once," Martha said. "It's something you rebuild, one choice at a time."
 
----
 
 That evening, Robert sat in the store and thought about the "why."
 
@@ -78,7 +76,6 @@ She had asked him what. And he had said, "I want to create a place where people 
 
 That was his "why." Not to run a successful business. Not to maximize profits. But to create a space that mattered. To make choices that reflected his values. To build something with intention.
 
----
 
 He opened his eyes and looked around the store.
 
@@ -88,7 +85,6 @@ He had lost his way. He had let optimization replace intention. But he could fin
 
 He could start making choices that meant something. Not optimal choices. Not efficient choices. But his choices. Choices that reflected his values, his purpose, his "why."
 
----
 
 The next morning, he arrived at the store early.
 
@@ -102,7 +98,6 @@ This was his store. Not StoreBrain's. His.
 
 And he was going to start making choices that meant something.
 
----
 
 He started with the poetry section.
 
@@ -116,7 +111,6 @@ By the end of the day, he had cleared a small corner. It wasn't much. Just a few
 
 But it was a start. A choice made with intention. A step toward reclaiming his purpose.
 
----
 
 That night, he dreamed about the store.
 

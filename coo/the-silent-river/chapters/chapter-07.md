@@ -30,7 +30,6 @@ Elena handed her the ruling. Maria read it in silence, her face growing paler wi
 
 "We had everything." Elena's voice was hollow. "And it didn't matter."
 
----
 
 The town meeting that night was the hardest thing Elena had ever done. The community center was packed—more people than had ever come before. Word had spread about the ruling, and everyone wanted to hear what had happened.
 
@@ -50,7 +49,6 @@ A man in the back stood up. "So that's it? We just give up?"
 
 Elena didn't have an answer. She looked at the faces before her—people who had trusted her, believed in her, pinned their hopes on her. And she had failed them.
 
----
 
 After the meeting, Elena sat alone in the community center, the chairs still arranged in rows, the air stale with disappointment. She heard footsteps and looked up to find Sarah Miller standing in the doorway.
 
@@ -68,7 +66,6 @@ Elena looked at her. "The river is dead, Sarah. It's not moving anymore."
 
 "The water is." Sarah pointed toward the window. "Somewhere, underneath all that dry earth, the water is still flowing. We just can't see it anymore."
 
----
 
 Elena drove home that night through the dark valley. The NeuralCore facility glowed in the distance, a constant reminder of what they were up against. The data center was still running. The water was still being extracted. The aquifer was still being drained.
 
@@ -82,7 +79,6 @@ Elena stood there for a long time, looking at what had been lost. The farms. The
 
 Then she got back in her car and drove home.
 
----
 
 The next few days were a blur. Elena filed the notice of appeal, knowing it would take months to be heard. She responded to media requests, trying to spin the loss as a temporary setback. She met with clients, trying to explain why the case had failed.
 
@@ -106,7 +102,6 @@ Elena closed her eyes. "You have a family, David. You made the right choice."
 
 Elena didn't have a response for that. The truth hadn't mattered. The evidence hadn't mattered. Nothing had mattered.
 
----
 
 On Friday, a week after the ruling, Elena received another visitor at her office. This time, it was James Whitfield.
 
@@ -140,7 +135,6 @@ Whitfield stood, his expression cold. "Be careful, Ms. Vasquez. NeuralCore has b
 
 This time, he left.
 
----
 
 Elena sat alone in her office after Whitfield left, her hands shaking. She'd stood up to him, but she didn't feel brave. She felt tired. Tired and beaten and unsure of what to do next.
 
@@ -152,6 +146,5 @@ Elena stared at the message. What was the point? They'd lost. The case was dismi
 
 But she typed back anyway: "I'll be there."
 
----
 
 **END OF CHAPTER 7**
