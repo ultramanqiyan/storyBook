@@ -120,7 +120,7 @@ We sit in the living room. The same room. The same couch. The same everything. T
 
 My father is there too. He's holding my hand. His grip is warm. Firm. The same grip. His palm is slightly damp.
 
-"Where were you?" he asks. "We looked everywhere. We called the police. Weâ€”"
+"Where were you?" he asks. "We looked everywhere. We called the police. Weâ€?
 
 "I'm sorry," I say. "I just... I needed to get away."
 

@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Deepen ethical questions, show Chronos's growth
-- **Emotional Arc**: Conflict â†’ Understanding â†’ Determination
+- **Emotional Arc**: Conflict â†?Understanding â†?Determination
 - **Relation to Overall Story**: Explore creator-creation relationship
 
 ## Core Events

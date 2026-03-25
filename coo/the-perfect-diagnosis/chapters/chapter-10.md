@@ -20,7 +20,7 @@ Sarah looked at the patientâ€”Mr. Williams, according to the tag on his wrist. H
 
 She placed her stethoscope on his chest, listening for the sounds that would tell her what was happening inside. The lungs were clearâ€”no pneumothorax. The heart sounds were rapid but regularâ€”no tamponade. But something was wrong. She could feel it, that spark of clinical intuition she had worked so hard to recover.
 
-"Abdomen is distended," she noted, her hands pressing gently on his belly. "Rigid. Guarding. We need toâ€”"
+"Abdomen is distended," she noted, her hands pressing gently on his belly. "Rigid. Guarding. We need toâ€?
 
 The lights flickered.
 
@@ -54,7 +54,7 @@ She ran through the possibilities in her mind, not waiting for AI to generate pr
 
 "We need to get him to OR now," she said. "He's bleeding into his abdomen. If we don't stop it, he'll die."
 
-"But the systemâ€”" a resident started.
+"But the systemâ€? a resident started.
 
 "Doesn't matter." Sarah was already moving. "Call the OR. Tell them we're coming up. Have a surgical team ready. We're doing this without AI."
 
@@ -62,7 +62,7 @@ She ran through the possibilities in her mind, not waiting for AI to generate pr
 
 The elevator ride felt endless.
 
-Sarah stood in the cramped space, surrounded by her team, the patient on a gurney between them. The manual blood pressure cuff showed his pressure was still droppingâ€”80/40 now, then 75/35. He was running out of time.
+Sarah stood in the cramped space, surrounded by her team, the patient on a gurney between them. The manual blood pressure cuff showed his pressure was still droppingâ€?0/40 now, then 75/35. He was running out of time.
 
 *Trust yourself,* she thought. *Trust your training. Trust your intuition.*
 
@@ -86,7 +86,7 @@ And somewhere in the middle of it all, the system came back online.
 
 ---
 
-The monitors flickered back to life, flooding the room with data. AI voice returned, calm and efficient: *Procedure complete. Patient stable. Recommend post-operative monitoring andâ€”*
+The monitors flickered back to life, flooding the room with data. AI voice returned, calm and efficient: *Procedure complete. Patient stable. Recommend post-operative monitoring andâ€?
 
 Sarah silenced it with a gesture.
 

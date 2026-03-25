@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Show aftermath, Corwin's grief and growth
-- **Emotional Arc**: Grief â†’ Reflection â†’ Purpose
+- **Emotional Arc**: Grief â†?Reflection â†?Purpose
 - **Relation to Overall Story**: Demonstrate the impact of Chronos's sacrifice
 
 ## Core Events

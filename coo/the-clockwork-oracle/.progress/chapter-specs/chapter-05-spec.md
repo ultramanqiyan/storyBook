@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Crisis erupts, choices must be made
-- **Emotional Arc**: Tension â†’ Crisis â†’ Sacrifice
+- **Emotional Arc**: Tension â†?Crisis â†?Sacrifice
 - **Relation to Overall Story**: Show the cost of freedom
 
 ## Core Events

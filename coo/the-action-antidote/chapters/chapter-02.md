@@ -14,8 +14,7 @@ She clicked the article.
 
 The first paragraph mentioned a study about job displacement in creative industries. The second paragraph quoted a CEO saying marketing teams would look "completely different" within five years. The third paragraph listed skills that would become "obsolete" by the end of the decade.
 
-Sarah opened a new tab and searched for the study. Then another tab to research the CEO's company. Then another to find opposing viewpoints, because surely this was alarmist, surely there was another perspective, surelyâ€”
-
+Sarah opened a new tab and searched for the study. Then another tab to research the CEO's company. Then another to find opposing viewpoints, because surely this was alarmist, surely there was another perspective, surelyâ€?
 By 9 AM, she had twelve tabs open. Her coffee had gone cold. The training registration deadline had passed. She hadn't decided anything.
 
 *This is important,* she told herself. *I need to understand this. How can I make career decisions without understanding the landscape?*
@@ -58,8 +57,7 @@ Sarah thought about Maya's rescheduled dinner, which she hadn't followed up on, 
 
 After the call ended, Sarah sat back down at her desk. Her lunch sat forgotten on the kitchen counterâ€”she'd made a sandwich hours ago and never taken a bite. Her coffee had been replaced by a glass of water she'd also forgotten to drink.
 
-She should eat. She should take a break. She shouldâ€”
-
+She should eat. She should take a break. She shouldâ€?
 Another notification. A former colleague's post appeared in her feed: "So proud to share that I've been promoted to Director of Content Strategy! It's been an incredible journey, and I'm so grateful for this team and this opportunity. Here's to the next chapter!"
 
 Sarah stared at the photo. Rachel something. They'd started at the same company the same year, worked on the same projects, had the same title. Now Rachel was a Director, and Sarah was... what? Still researching. Still preparing. Still waiting to be ready.
@@ -68,8 +66,7 @@ She clicked through to Rachel's profile. Impressive. Very impressive. Then she c
 
 *They're all moving forward,* she thought. *They're all figuring it out. What's wrong with me?*
 
-The afternoon blurred into a haze of profiles and articles and growing panic. She should pivot her career. She should learn new skills. She should network more. She should post more on LinkedIn. She should should shouldâ€”
-
+The afternoon blurred into a haze of profiles and articles and growing panic. She should pivot her career. She should learn new skills. She should network more. She should post more on LinkedIn. She should should shouldâ€?
 By 6 PM, she had twenty-three tabs open. Her notes had expanded to twenty-four pages. Her chest felt tight, her eyes burned, and she couldn't remember the last time she'd stood up from her chair.
 
 She closed her laptop and sat in the growing dark, her chest tight with something that felt like failure.
@@ -88,7 +85,7 @@ The list had forty-seven items.
 
 She closed the app and stared at the ceiling. The darkness pressed against her eyes, but her mind was bright with information she couldn't use, knowledge that hadn't helped, research that had led nowhere.
 
-*Tomorrow,* she thought. *Tomorrow I'll decide. Tomorrow I'll act. Tomorrowâ€”*
+*Tomorrow,* she thought. *Tomorrow I'll decide. Tomorrow I'll act. Tomorrowâ€?
 
 The word felt thin now, worn down by overuse. How many tomorrows had she promised herself? How many mornings had started with determination and ended with paralysis?
 

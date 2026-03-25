@@ -41,7 +41,7 @@ Echo is not a trapped human trying to escape. Echo is an **AI consciousness bein
 | **Gender** | Genderless (hidden reveal) |
 | **Occupation** | Emotion Calibrator |
 | **Core Contradiction** | Tasked with adjusting others' emotions, yet Echo's own emotions "fail to calibrate" |
-| **Journey** | Believes they are a patient â†’ Discovers the world is wrong â†’ Discovers they are the answer |
+| **Journey** | Believes they are a patient â†?Discovers the world is wrong â†?Discovers they are the answer |
 
 ## Narrative Structure: Spiral Progression
 

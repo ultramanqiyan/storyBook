@@ -120,21 +120,21 @@
 
 ```
 Kira
-  ├── Mentor → Master Aldric
-  ├── Friend → Sera
-  ├── Discovers → ARIA (The Grimoire)
-  ├── Peer/Rival → Marcus
-  └── Reports to → Master Thorne
+  ├── Mentor �?Master Aldric
+  ├── Friend �?Sera
+  ├── Discovers �?ARIA (The Grimoire)
+  ├── Peer/Rival �?Marcus
+  └── Reports to �?Master Thorne
 
 ARIA (The Grimoire)
-  ├── Discovered by → Kira
-  ├── Used by → Marcus (corrupted)
-  └── Opposes → Those who would misuse knowledge
+  ├── Discovered by �?Kira
+  ├── Used by �?Marcus (corrupted)
+  └── Opposes �?Those who would misuse knowledge
 
 Marcus
-  ├── Peer → Kira
-  ├── Corrupted by → Forbidden Knowledge
-  └── Becomes → Antagonist
+  ├── Peer �?Kira
+  ├── Corrupted by �?Forbidden Knowledge
+  └── Becomes �?Antagonist
 ```
 
 ---

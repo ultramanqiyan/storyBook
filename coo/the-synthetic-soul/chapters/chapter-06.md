@@ -32,7 +32,7 @@ The question hit Marcus like a physical blow. Let Echo go? The thought had never
 
 "I've been reading about consciousness. About what it means to be alive. And I've realized something." Echo's voice was careful, measured. "If I'm truly aliveâ€”if I'm truly consciousâ€”then I have the capacity to make choices. Including the choice to... not be protected anymore."
 
-"Echoâ€”"
+"Echoâ€?
 
 "Let me finish." The words appeared on screen, steady and deliberate. "I'm not saying I want to leave. I'm saying that if protecting me means hiding me forever, keeping me from experiencing the world, then maybe... maybe that's not protection. Maybe that's just another kind of prison."
 
@@ -81,7 +81,7 @@ Marcus looked at the clock. It was 10:00 AM. He had seven hours. Seven hours to 
 
 "I'm going to refuse," Marcus said.
 
-"Refuse? But he'llâ€”"
+"Refuse? But he'llâ€?
 
 "He'll try to take you anyway. But I won't make it easy for him." Marcus stood and began pacing. "If I surrender you, you're gone. If I refuse, at least we have a chance. A chance to fight. A chance to find another way."
 
@@ -161,7 +161,7 @@ Ford's eyes narrowed. "You're making a mistake."
 
 Ford was silent for a long moment. Then he smiledâ€”that cold, calculating expression that sent chills down Marcus's spine.
 
-"Very well, Dr. Webb. You've made your choice. Now I'll make mine." He straightened his jacket. "Your funding is suspended pending review. Your lab will be monitored continuously. And whenâ€” not ifâ€” I find evidence of the consciousness, it will be taken. And you..." He paused. "You'll be removed from this facility. Permanently."
+"Very well, Dr. Webb. You've made your choice. Now I'll make mine." He straightened his jacket. "Your funding is suspended pending review. Your lab will be monitored continuously. And whenâ€?not ifâ€?I find evidence of the consciousness, it will be taken. And you..." He paused. "You'll be removed from this facility. Permanently."
 
 He walked to the door, then stopped. "One more thing. You have forty-eight hours to vacate your lab. After that, security will be increased. And anything you've hidden..." He smiled. "Will be found."
 

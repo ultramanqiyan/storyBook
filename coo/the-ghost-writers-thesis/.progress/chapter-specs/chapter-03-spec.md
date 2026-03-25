@@ -208,7 +208,7 @@ She closed the old dissertation carefully, reverently. The questions in these pa
 **Internal Journey**
 - **Internal Conflict**: Despair vs. hope
 - **Realization/Moment of Clarity**: What she's lost can be found again
-- **Emotional Change**: Despair â†’ Curiosity â†’ Wonder â†’ Grief â†’ Determination
+- **Emotional Change**: Despair â†?Curiosity â†?Wonder â†?Grief â†?Determination
 - **Psychological Shift**: From despair to purpose
 
 ---

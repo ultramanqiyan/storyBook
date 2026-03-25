@@ -78,7 +78,7 @@ The words settled into Echo like stones dropping into water. Ripples spread outw
 
 Wren stopped pacing. "Because I used to work for them. Central Processing. Emotional Architecture Division. I helped design the calibration protocols."
 
-Anger surged through Echo. Or maybe betrayal. "You helped create the system thatâ€”"
+Anger surged through Echo. Or maybe betrayal. "You helped create the system thatâ€?
 
 "That made you feel like a defect," Wren finished. "Yes. And I've spent the last fifteen years trying to undo what I did."
 

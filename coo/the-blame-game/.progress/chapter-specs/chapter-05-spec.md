@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Legal points out AI supplier contract disclaimer, Mark's situation worsens
-- **Emotional Arc**: Despair â†’ Hope â†’ Deeper despair
+- **Emotional Arc**: Despair â†?Hope â†?Deeper despair
 - **Relationship to Overall Story**: Shows how contract terms become a "shield"
 
 ## Core Events
@@ -50,7 +50,7 @@
 
 ### Auditory
 - Sound of Michael flipping through the contract
-- Legal terminologyâ€”"indemnification," "liability," "warranty"
+- Legal terminologyâ€?indemnification," "liability," "warranty"
 - Silence in the conference room
 
 ### Tactile

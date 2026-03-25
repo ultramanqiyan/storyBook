@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Open endingâ€”still searching
-- **Emotional Arc**: Acceptance â†’ Continuation â†’ Endless chase
+- **Emotional Arc**: Acceptance â†?Continuation â†?Endless chase
 - **Relationship to Overall Story**: Open ending, no redemption
 
 ## Core Events

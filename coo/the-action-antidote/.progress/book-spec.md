@@ -272,28 +272,28 @@ These phrases and patterns must be completely eliminated:
 ### 10.1 Chapter Summary Table
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | The Weight of Stillness | Establish Sarah's paralyzed state | Anxiety 70 â†’ Frustration 60 | Morning routine, Slack overload, cancelled plans |
-| 02 | The Research Trap | Show overthinking pattern | Anxiety 75 â†’ Despair 50 | Career research spiral, comparison to others, sleepless night |
-| 03 | The Small Break | First crack in the pattern | Despair 50 â†’ Curiosity 40 | Broken coffee maker forces outing, meets Marcus at coffee shop |
-| 04 | The First Step | Taking action despite fear | Curiosity 40 â†’ Fear 55 â†’ Relief 45 | Signs up for community garden, first small commitment |
-| 05 | The Resistance | Internal voice fights back | Relief 45 â†’ Doubt 65 â†’ Determination 50 | Overthinking the garden project, call with Elena |
-| 06 | The Ripple | Action creates unexpected results | Determination 50 â†’ Surprise 60 â†’ Hope 55 | Garden leads to conversation, new perspective emerges |
-| 07 | The Bigger Risk | Choosing action over safety | Hope 55 â†’ Fear 70 â†’ Courage 65 | Major career decision, conversation with David |
-| 08 | The Fall Forward | Action doesn't guarantee success | Courage 65 â†’ Disappointment 50 â†’ Learning 55 | Setback occurs, but leads to insight |
-| 09 | The New Rhythm | Action becomes natural | Learning 55 â†’ Calm 60 â†’ Confidence 65 | Daily practices established, clarity emerges |
-| 10 | The Open Door | Future is uncertain but welcome | Confidence 65 â†’ Peace 70 â†’ Openness 75 | New opportunity, integrated learning, open ending |
+| 01 | The Weight of Stillness | Establish Sarah's paralyzed state | Anxiety 70 â†?Frustration 60 | Morning routine, Slack overload, cancelled plans |
+| 02 | The Research Trap | Show overthinking pattern | Anxiety 75 â†?Despair 50 | Career research spiral, comparison to others, sleepless night |
+| 03 | The Small Break | First crack in the pattern | Despair 50 â†?Curiosity 40 | Broken coffee maker forces outing, meets Marcus at coffee shop |
+| 04 | The First Step | Taking action despite fear | Curiosity 40 â†?Fear 55 â†?Relief 45 | Signs up for community garden, first small commitment |
+| 05 | The Resistance | Internal voice fights back | Relief 45 â†?Doubt 65 â†?Determination 50 | Overthinking the garden project, call with Elena |
+| 06 | The Ripple | Action creates unexpected results | Determination 50 â†?Surprise 60 â†?Hope 55 | Garden leads to conversation, new perspective emerges |
+| 07 | The Bigger Risk | Choosing action over safety | Hope 55 â†?Fear 70 â†?Courage 65 | Major career decision, conversation with David |
+| 08 | The Fall Forward | Action doesn't guarantee success | Courage 65 â†?Disappointment 50 â†?Learning 55 | Setback occurs, but leads to insight |
+| 09 | The New Rhythm | Action becomes natural | Learning 55 â†?Calm 60 â†?Confidence 65 | Daily practices established, clarity emerges |
+| 10 | The Open Door | Future is uncertain but welcome | Confidence 65 â†?Peace 70 â†?Openness 75 | New opportunity, integrated learning, open ending |
 
 ### 10.2 Chapter Connection Map
 ```
-Chapter 1 â†’ Chapter 2: Paralysis deepens, pattern established
-Chapter 2 â†’ Chapter 3: Breaking point forces external disruption
-Chapter 3 â†’ Chapter 4: Small connection leads to small action
-Chapter 4 â†’ Chapter 5: Action triggers resistance
-Chapter 5 â†’ Chapter 6: Resistance overcome, action compounds
-Chapter 6 â†’ Chapter 7: Small success enables bigger risk
-Chapter 7 â†’ Chapter 8: Risk taken, outcome uncertain
-Chapter 8 â†’ Chapter 9: Setback becomes teacher
-Chapter 9 â†’ Chapter 10: New patterns established, future opens
+Chapter 1 â†?Chapter 2: Paralysis deepens, pattern established
+Chapter 2 â†?Chapter 3: Breaking point forces external disruption
+Chapter 3 â†?Chapter 4: Small connection leads to small action
+Chapter 4 â†?Chapter 5: Action triggers resistance
+Chapter 5 â†?Chapter 6: Resistance overcome, action compounds
+Chapter 6 â†?Chapter 7: Small success enables bigger risk
+Chapter 7 â†?Chapter 8: Risk taken, outcome uncertain
+Chapter 8 â†?Chapter 9: Setback becomes teacher
+Chapter 9 â†?Chapter 10: New patterns established, future opens
 ```
 
 ---
@@ -336,7 +336,7 @@ Each chapter must pass:
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰¥5 details, â‰¥3 types | Checklist count |
+| Sensory Detail Count | â‰? details, â‰? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 | Narrative Style | Matches book definition | Style consistency check |

@@ -126,11 +126,11 @@ Elena, sitting in the audience, raised her hand.
 
 The room went silent.
 
-Marcus felt his face heat. "I had an off dayâ€”"
+Marcus felt his face heat. "I had an off dayâ€?
 
 "An off day. Your entire career is based on this ability, and an 'off day' means it might not exist."
 
-"That's notâ€”"
+"That's notâ€?
 
 "What if you've been wrong all along? What if the 'human soul' you claim to see is just projection? What if there's no difference to see?"
 

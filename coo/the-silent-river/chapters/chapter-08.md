@@ -120,7 +120,7 @@ The governor's expression flickered. "My office has always been transparent abou
 
 "Then why did you waive environmental reviews for NeuralCore?"
 
-"We followed standard proceduresâ€”"
+"We followed standard proceduresâ€?
 
 "Standard procedures require environmental reviews. You waived them."
 

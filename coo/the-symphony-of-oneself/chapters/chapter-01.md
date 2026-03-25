@@ -78,6 +78,3 @@ She would become a scientist studying her own consciousness.
 
 And Maya, for the first time in her life, felt less alone than she ever had before.
 
----
-
-*End of Chapter 1*

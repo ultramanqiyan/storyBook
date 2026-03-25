@@ -105,7 +105,7 @@ Intensity
 | # | Event | Location | Characters | Emotional Impact | Plot Function |
 |---|-------|----------|------------|------------------|---------------|
 | 1 | Morning claim processing | Jennifer's office | Jennifer | Routine efficiency | Show normal workflow |
-| 2 | Unusual fraud detection | Jennifer's office | Jennifer | Skepticism â†’ Surprise | Build AI credibility |
+| 2 | Unusual fraud detection | Jennifer's office | Jennifer | Skepticism â†?Surprise | Build AI credibility |
 | 3 | Deep investigation | Jennifer's office | Jennifer | Grudging respect | Show AI accuracy |
 | 4 | Multiple successful verdicts | Jennifer's office | Jennifer | Growing trust | Establish pattern |
 | 5 | Conversation with Marcus | Marcus's office | Jennifer, Marcus | Validation | External confirmation |
@@ -155,7 +155,7 @@ Intensity
 | Scene | Location | Characters | Word Count | Purpose | Emotional Tone |
 |-------|----------|------------|------------|---------|----------------|
 | 1 | Jennifer's office - morning | Jennifer | 1200 | Show efficient workflow | Professional, smooth |
-| 2 | Jennifer's office - unusual claim | Jennifer | 1500 | Build skepticism, then surprise | Skeptical â†’ impressed |
+| 2 | Jennifer's office - unusual claim | Jennifer | 1500 | Build skepticism, then surprise | Skeptical â†?impressed |
 | 3 | Jennifer's office - afternoon | Jennifer | 1000 | Show pattern of trust | Comfortable, efficient |
 | 4 | Marcus's office | Jennifer, Marcus | 800 | External validation | Pragmatic, confirming |
 
@@ -291,7 +291,7 @@ Marcus Webb's office smelled of coffee and old paper, the desk buried under file
 **Internal Journey**
 - **Internal Conflict**: Her trained instincts vs. AI accuracy
 - **Realization/Moment of Clarity**: The AI is more accurate than she expected
-- **Emotional Change**: Skepticism â†’ surprise â†’ trust â†’ comfort
+- **Emotional Change**: Skepticism â†?surprise â†?trust â†?comfort
 - **Psychological Shift**: Beginning to surrender her independent judgment
 
 **Character Growth**
@@ -461,7 +461,7 @@ The claims moved through her queue like water through a pipe. Jennifer barely pa
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

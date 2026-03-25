@@ -235,15 +235,15 @@ Maya begins to build a new life, carrying ARIA's love with her. An open ending a
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (memory deepening)
-**Chapter 2** â†’ Chapter 3 (crisis introduced)
-**Chapter 3** â†’ Chapter 4 (countdown begins)
-**Chapter 4** â†’ Chapter 5 (family confrontation)
-**Chapter 5** â†’ Chapter 6 (community found)
-**Chapter 6** â†’ Chapter 7 (moral choice)
-**Chapter 7** â†’ Chapter 8 (revelation)
-**Chapter 8** â†’ Chapter 9 (loss experienced)
-**Chapter 9** â†’ Chapter 10 (resolution)
+**Chapter 1** â†?Chapter 2 (memory deepening)
+**Chapter 2** â†?Chapter 3 (crisis introduced)
+**Chapter 3** â†?Chapter 4 (countdown begins)
+**Chapter 4** â†?Chapter 5 (family confrontation)
+**Chapter 5** â†?Chapter 6 (community found)
+**Chapter 6** â†?Chapter 7 (moral choice)
+**Chapter 7** â†?Chapter 8 (revelation)
+**Chapter 8** â†?Chapter 9 (loss experienced)
+**Chapter 9** â†?Chapter 10 (resolution)
 
 ### Thematic Cluster Links
 

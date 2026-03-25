@@ -139,7 +139,7 @@
 |-------|----------|------------|------------|---------|----------------|
 | 1 | Home/Garden | Sarah | 400 | Normal day, baseline | Content |
 | 2 | Home | Sarah, opportunity source | 500 | New opportunity | Curious |
-| 3 | Home | Sarah | 600 | The test, quick decision | Tested â†’ courageous |
+| 3 | Home | Sarah | 600 | The test, quick decision | Tested â†?courageous |
 | 4 | Garden/Home | Sarah | 500 | Open future | Hopeful |
 
 ### 4.2 Key Scene Specifications
@@ -193,7 +193,7 @@
 **Internal Journey**
 - **Internal Conflict**: Old pattern vs. new practice
 - **Realization/Moment of Clarity**: I don't have to spiral anymore
-- **Emotional Change**: Contentment â†’ Curiosity â†’ Brief Fear â†’ Courage â†’ Hope
+- **Emotional Change**: Contentment â†?Curiosity â†?Brief Fear â†?Courage â†?Hope
 - **Psychological Shift**: Action is now natural, not forced
 
 **Character Growth**
@@ -204,7 +204,7 @@
 **Key Decision**
 - **Decision**: To embrace the new opportunity
 - **Options Considered**: Spiral, choose
-- **Decision Process**: Pattern recognition â†’ Trust â†’ Action
+- **Decision Process**: Pattern recognition â†?Trust â†?Action
 - **Consequences Accepted**: Uncertainty, growth, continuation
 
 ---
@@ -250,8 +250,7 @@
 | Internal | Release after decision | 3 | Growth | [x] |
 | Internal | Hope | 4 | Future | [x] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -344,7 +343,7 @@ She walked to the garden that afternoon, the decision made, the future open. The
 ### 12.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

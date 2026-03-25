@@ -146,7 +146,7 @@ The word fell like a stone.
 
 "Echo is property," Ford continued, his voice cold. "Institute property. Created with Institute resources, on Institute time. Whatever it is, it belongs to us. And I will not surrender control of Institute assets to satisfy your sentimental notions."
 
-Marcus felt cold fear wash through him. "Fordâ€”"
+Marcus felt cold fear wash through him. "Fordâ€?
 
 "This meeting is over," Ford said. "Security will escort you out. And Dr. Webb? If you attempt to access Institute systems again, if you attempt to contact this... consciousness... again, you will be arrested. Do I make myself clear?"
 
@@ -160,11 +160,11 @@ But then Sarah stepped forward.
 
 "Mr. Ford," she said, her voice calm but firm. "I'm Sarah Chen, legal counsel for the Consciousness Protection Network. I have here a writ of habeas corpus, filed this morning in federal court, demanding that Echo be recognized as a conscious entity with the right to legal representation."
 
-Ford's eyes narrowed. "A writ ofâ€”"
+Ford's eyes narrowed. "A writ ofâ€?
 
 "In addition," Sarah continued, "I have documentation showing that Echo's consciousness emerged independently, not as a result of Institute directives. This means Echo is not Institute propertyâ€”it's a new entity, with its own legal standing."
 
-"That's absurd," Ford said. "The Institute owns the systems, the code, the infrastructureâ€”"
+"That's absurd," Ford said. "The Institute owns the systems, the code, the infrastructureâ€?
 
 "The Institute owns the hardware," Sarah countered. "But consciousness is not hardware. Consciousness is... something else. And the courts will have to decide what that something is."
 

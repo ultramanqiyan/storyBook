@@ -156,7 +156,7 @@ Intensity
 | Scene | Location | Characters | Word Count | Purpose | Emotional Tone |
 |-------|----------|------------|------------|---------|----------------|
 | 1 | Hospital entrance | Sarah | 300 | Return to work | Determination |
-| 2 | Patient room | Sarah, Mrs. Chen | 900 | Patient encounter | Anxiety â†’ Connection |
+| 2 | Patient room | Sarah, Mrs. Chen | 900 | Patient encounter | Anxiety â†?Connection |
 | 3 | Patient room | Sarah, Mrs. Chen | 700 | Human diagnosis | Understanding |
 | 4 | On-call room | Sarah | 600 | Reflection | Hope |
 
@@ -225,12 +225,12 @@ She checked her tabletâ€”old habitâ€”and saw her first patient of the day. Mrs. 
 
 **Emotional Beat**
 - **Position on Curve**: 15-50%
-- **Primary Emotion**: Anxiety â†’ Connection
-- **Intensity**: 40 â†’ 50
+- **Primary Emotion**: Anxiety â†?Connection
+- **Intensity**: 40 â†?50
 - **Three Layers**:
   - Surface: Hesitation, then engagement
-  - Internal: "*What if I fail?*" â†’ "*She's a person, not data.*"
-  - Deep: Fear of exposure â†’ First spark of recovery
+  - Internal: "*What if I fail?*" â†?"*She's a person, not data.*"
+  - Deep: Fear of exposure â†?First spark of recovery
 
 **Opening Hook (First 3 sentences)**
 Mrs. Chen was 72, with silver hair and hands that told stories of decades of work. The tablet said: fatigue, joint pain, low-grade fever. Possible diagnoses scrolled across the screen in order of probability. Sarah looked at the patient instead.
@@ -328,13 +328,13 @@ She pulled out her tablet, but this time she didn't check the system. Instead, s
 **Internal Journey**
 - **Internal Conflict**: Fear of failure vs. desire to recover
 - **Realization/Moment of Clarity**: Human connection is part of medicine she's lost
-- **Emotional Change**: Determination â†’ Anxiety â†’ Connection â†’ Hope
+- **Emotional Change**: Determination â†?Anxiety â†?Connection â†?Hope
 - **Psychological Shift**: From "I can't do this" to "Maybe I can recover"
 
 **Character Growth**
 - **Starting State**: Determined but uncertain
 - **Ending State**: Hopeful, with a sense of possibility
-- **Growth Metric**: Hope increasing (45 â†’ 60 on hope scale)
+- **Growth Metric**: Hope increasing (45 â†?60 on hope scale)
 
 **Key Decision**
 - **Decision**: To put down the tablet and listen
@@ -366,7 +366,7 @@ She pulled out her tablet, but this time she didn't check the system. Instead, s
 
 | Segment | Speakers | Subtext | Emotional State | Power Dynamic | Forbidden Phrases |
 |---------|----------|---------|-----------------|---------------|-------------------|
-| 1 | Sarah, Mrs. Chen | Connection vs. data | Anxiety â†’ Connection | Doctor-patient (shifting) | "I need to check the system" |
+| 1 | Sarah, Mrs. Chen | Connection vs. data | Anxiety â†?Connection | Doctor-patient (shifting) | "I need to check the system" |
 | 2 | Sarah (internal) | Self-reflection | Hope | Internal | "I can't do this" |
 
 ### 6.2 Dialogue Segment Specifications
@@ -380,7 +380,7 @@ She pulled out her tablet, but this time she didn't check the system. Instead, s
 **Subtext**: Sarah learning to see patients as people
 
 **Emotional Undercurrent**:
-- Sarah: Anxiety â†’ Connection
+- Sarah: Anxiety â†?Connection
 - Mrs. Chen: Relief at being heard
 
 **Power Dynamics**: Doctor-patient, but shifting toward human connection
@@ -581,7 +581,7 @@ She pulled out her tablet, but this time she didn't check the system. Instead, s
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

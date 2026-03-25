@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Marcus has first honest conversation with Sarah, realizes he's not the "only pillar"
-- **Emotional Arc**: Reflection â†’ Vulnerability â†’ Connection
+- **Emotional Arc**: Reflection â†?Vulnerability â†?Connection
 - **Relation to Overall Story**: Relationship healing; Marcus's perspective shifts
 
 ## Core Events

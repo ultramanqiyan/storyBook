@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Clearly recognizing one's stateâ€”deepening of clarity
-- **Emotional Arc**: Helplessness â†’ Clarity â†’ Acceptance
+- **Emotional Arc**: Helplessness â†?Clarity â†?Acceptance
 - **Relationship to Overall Story**: The peak of clarity
 
 ## Core Events
@@ -118,6 +118,6 @@
 
 ## Chapter Ending Design
 - **Emotion**: Acceptance
-- **Suspense**: Leo accepts his stateâ€”*I know I'm sinking. I know I should stop. But I can't.*
+- **Suspense**: Leo accepts his stateâ€?I know I'm sinking. I know I should stop. But I can't.*
 - **Don't**: Predictive ending, dramatic summary
 - **Do**: Leave the helplessness of acceptance, make readers want to know the ending

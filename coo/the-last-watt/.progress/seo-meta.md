@@ -247,15 +247,15 @@ The Zero Point activates, and Maya's consciousness expands beyond measure. As sh
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (device discovery â†’ AI companion)
-**Chapter 2** â†’ Chapter 3 (Prometheus evolution â†’ family connection)
-**Chapter 3** â†’ Chapter 4 (resistance â†’ component hunt)
-**Chapter 4** â†’ Chapter 5 (components found â†’ activation attempt)
-**Chapter 5** â†’ Chapter 6 (activation â†’ defense)
-**Chapter 6** â†’ Chapter 7 (battle â†’ revelation)
-**Chapter 7** â†’ Chapter 8 (truth â†’ negotiation)
-**Chapter 8** â†’ Chapter 9 (negotiation â†’ final choice)
-**Chapter 9** â†’ Chapter 10 (choice â†’ transformation)
+**Chapter 1** â†?Chapter 2 (device discovery â†?AI companion)
+**Chapter 2** â†?Chapter 3 (Prometheus evolution â†?family connection)
+**Chapter 3** â†?Chapter 4 (resistance â†?component hunt)
+**Chapter 4** â†?Chapter 5 (components found â†?activation attempt)
+**Chapter 5** â†?Chapter 6 (activation â†?defense)
+**Chapter 6** â†?Chapter 7 (battle â†?revelation)
+**Chapter 7** â†?Chapter 8 (truth â†?negotiation)
+**Chapter 8** â†?Chapter 9 (negotiation â†?final choice)
+**Chapter 9** â†?Chapter 10 (choice â†?transformation)
 
 ### Thematic Cluster Links
 

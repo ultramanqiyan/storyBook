@@ -2,12 +2,12 @@
 
 ## Chapter Positioning
 - **Purpose**: Learning about consciousness residue phenomenon, Hollow's indifference begins to show
-- **Emotional Arc**: Curiosity â†’ Shock â†’ Suspicion
+- **Emotional Arc**: Curiosity â†?Shock â†?Suspicion
 - **Relationship to Overall Story**: Reveals the social background of consciousness residue, introduces doubt
 
 ## Core Events
 1. Maya begins searching for consciousness residue information (Curiosity)
-2. Discovers official explanationâ€”"rare but harmless side effect" (Shock)
+2. Discovers official explanationâ€?rare but harmless side effect" (Shock)
 3. Hollow's reactionâ€”indifferent, dismissive, calling it "hollow noise" (Suspicion)
 
 ## Character Status
@@ -62,7 +62,7 @@
 
 ## Narrative Techniques
 - **Perspective**: Third-person limited (Maya's perspective)
-- **Pacing**: Searching (slow) â†’ Discovery (accelerating) â†’ Hollow's reaction (tense)
+- **Pacing**: Searching (slow) â†?Discovery (accelerating) â†?Hollow's reaction (tense)
 - **Suspense Setup**:
   - Is the official explanation the truth?
   - Why is Hollow so indifferent?

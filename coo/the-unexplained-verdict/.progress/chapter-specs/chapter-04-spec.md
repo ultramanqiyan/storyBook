@@ -107,7 +107,7 @@ Intensity
 | 1 | Morning preparation | Jennifer's office | Jennifer | Professional calm | Setup |
 | 2 | David Chen arrives | Jennifer's office | Jennifer, David | Alert attention | Introduce client |
 | 3 | David's story | Jennifer's office | Jennifer, David | Empathy | Build connection |
-| 4 | The "why" question | Jennifer's office | Jennifer, David | Discomfort â†’ Shame | Crisis moment |
+| 4 | The "why" question | Jennifer's office | Jennifer, David | Discomfort â†?Shame | Crisis moment |
 | 5 | Failed explanation | Jennifer's office | Jennifer, David | Shame, retreat | Aftermath |
 | 6 | David leaves | Jennifer's office | Jennifer | Lingering shame | Leave wound open |
 
@@ -270,7 +270,7 @@ The ClaimSmart interface glowed blue on her screen, the Chen claim still open, t
 **Internal Journey**
 - **Internal Conflict**: Professional confidence vs. inability to explain
 - **Realization/Moment of Clarity**: She cannot explain her own decisions
-- **Emotional Change**: Confidence â†’ discomfort â†’ shame â†’ questioning
+- **Emotional Change**: Confidence â†?discomfort â†?shame â†?questioning
 - **Psychological Shift**: The first real crack in her professional identity
 
 **Character Growth**
@@ -399,7 +399,7 @@ The ClaimSmart interface glowed blue on her screen, the Chen claim still open, t
 |-------|--------------|-------|-------------------|
 | Understanding vs. Knowing | Jennifer knows the verdict but can't explain it | Scene 2 | The "why" question |
 | Responsibility and AI | She signed her name but can't defend the decision | Scene 3 | Her signature |
-| The Nature of Explanation | Data â‰  explanation | Scene 2 | The failed explanation |
+| The Nature of Explanation | Data â‰?explanation | Scene 2 | The failed explanation |
 
 ### 9.2 Symbolic Elements
 | Symbol | Appearance | Meaning | Scene |
@@ -433,7 +433,7 @@ The ClaimSmart interface glowed blue on her screen, the Chen claim still open, t
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

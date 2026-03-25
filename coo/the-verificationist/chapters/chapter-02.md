@@ -67,6 +67,3 @@ He saved the file and went home.
 
 But the questions stayed in his mind.
 
----
-
-*End of Chapter 2*

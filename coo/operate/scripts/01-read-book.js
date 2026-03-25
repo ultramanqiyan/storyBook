@@ -261,12 +261,14 @@ function extractCharactersFromBookSpec(bookSpecContent) {
   
   // 格式1: 匹配角色定义：### Dr. Elara Chen (Protagonist) 或 ### Elara（主角）
   // 支持英文和中文括号，支持名字中包含点号、空格、连字符等
-  const charRegex = /###\s+([A-Za-z][A-Za-z\s\-\.\']*)\s*[\(（]([^)）]+)[\)）]/g;
+  // 也支持两个括号的格式：### ARIA (Artificial Research Intelligence Assistant) (Protagonist)
+  const charRegex = /###\s+([A-Za-z][A-Za-z\s\-\.\']*)\s*[\(（]([^)）]+)[\)）](?:\s*[\(（]([^)）]+)[\)）])?/g;
   let match;
   
   while ((match = charRegex.exec(bookSpecContent)) !== null) {
     const name = match[1].trim();
-    const roleType = match[2].trim();
+    // 如果有第二个括号，使用第二个括号的内容作为角色类型（通常是真正的角色类型）
+    const roleType = (match[3] || match[2]).trim();
     
     // 跳过非角色内容（如章节标题等）
     // 检查是否包含角色类型的关键词（支持英文和中文）
@@ -276,7 +278,9 @@ function extractCharactersFromBookSpec(bookSpecContent) {
       'Scientist', 'Doctor', 'Teacher', 'Student', 'Guide', 'Partner', 'Friend', 'Enemy', 
       'Master', 'Pet', 'Wizard', 'Mage', 'Warrior', 'Knight', 'Princess', 'Prince', 
       'King', 'Queen', 'Voice', 'Consciousness', 'Entity', 'Being', 'Robot', 'Animal',
-      'Supporting Character', 'Minor Character', 'Villain',
+      'Supporting Character', 'Minor Character', 'Villain', 'Supporting', 'Authority',
+      'Brother', 'Sister', 'Father', 'Mother', 'Son', 'Daughter', 'Husband', 'Wife',
+      'Collective', 'Assistant', 'Judge', 'CEO', 'Activist',
       // 职场/商业角色
       'Boss', 'Manager', 'CEO', 'VP', 'Director', 'Colleague', 'Coworker',
       'HR', 'Legal', 'Counsel', 'Engineer', 'Reviewer', 'Analyst',
@@ -602,7 +606,7 @@ function readBook(bookDir) {
   const chaptersDir = path.join(bookPath, 'chapters');
   if (fs.existsSync(chaptersDir)) {
     const chapterFiles = fs.readdirSync(chaptersDir)
-      .filter(f => f.endsWith('.md'))
+      .filter(f => f.endsWith('.md') && /^chapter-\d+\.md$/.test(f))
       .map((f, index) => {
         const numMatch = f.match(/chapter-(\d+)/);
         const chapterNum = numMatch ? parseInt(numMatch[1]) : (index + 1);

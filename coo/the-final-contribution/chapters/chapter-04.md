@@ -34,33 +34,33 @@ Robert looked at his son. David had always been perceptive, even as a child. He'
 
 David laughedâ€”a short, bitter sound. "How do you think? I apply for jobs. I get rejection emails. Sometimes I don't even get that. Just silence." He gestured at the computer on his desk. "I spend eight hours a day filling out applications. Most of them are screened by AI before a human ever sees them. The AI decides I'm not a match. The AI decides I'm not worth interviewing."
 
-"Have you triedâ€”"
+"Have you triedâ€?
 
 "Networking? Yes, Dad. I've tried networking. Everyone I know is in the same boat. We're all competing for the same few jobs, and the jobs are disappearing faster than we can apply for them."
 
 Robert thought about the efficiency initiative at Morrison & Associates. About the thirty percent of the workforce that would be cut. About all the other companies doing the same thing.
 
-"David, Iâ€”"
+"David, Iâ€?
 
 "You know what the worst part is?" David interrupted. "The worst part is that I helped build this. I wrote code for the systems that are now replacing people like me. I optimized the algorithms that screen resumes. I made myself obsolete."
 
 The words hung in the air between them. Robert thought about his own calculations, his own spreadsheets, his own numbers that told a story he didn't want to read.
 
-"Your mother and I have savings," he said. "We can help youâ€”"
+"Your mother and I have savings," he said. "We can help youâ€?
 
 "I don't want your money, Dad."
 
-"It's not about what you want. It's aboutâ€”"
+"It's not about what you want. It's aboutâ€?
 
 "It's about what?" David stood up, his hands clenching at his sides. "What is it about? You getting to feel like a good father? You getting to pretend that everything's okay because you can write a check?"
 
 Robert felt the words like a physical blow. He stood slowly, his knees protesting again.
 
-"I came here because I was worried about you. Because I wanted to see how you were doing. Becauseâ€”" He stopped. Because what? Because he felt guilty? Because the numbers he'd run showed a future where his son had nothing?
+"I came here because I was worried about you. Because I wanted to see how you were doing. Becauseâ€? He stopped. Because what? Because he felt guilty? Because the numbers he'd run showed a future where his son had nothing?
 
 "Because you wanted to make sure I wasn't going to ask you for money," David said. "Because you wanted to protect your retirement."
 
-"That's notâ€”"
+"That's notâ€?
 
 "Isn't it?" David's voice cracked. "You've spent your whole life planning, Dad. Calculating. Running the numbers. You know exactly how much you need to retire. You know exactly how long your savings will last. And you know that if you have to support me, those numbers change."
 
@@ -68,9 +68,9 @@ Robert didn't have an answer. The truth was, he had thought about it. He'd run t
 
 He'd reduced his son to a line item in a spreadsheet.
 
-"I'm sorry," he said. "I'm sorry I didn't call. I'm sorry I didn't visit. I'm sorry Iâ€”" He stopped. What was he sorry for? For being who he was? For thinking the way he'd always thought?
+"I'm sorry," he said. "I'm sorry I didn't call. I'm sorry I didn't visit. I'm sorry Iâ€? He stopped. What was he sorry for? For being who he was? For thinking the way he'd always thought?
 
-David sat back down on the bed. His shoulders slumped. "I'm sorry too. I didn't mean to snap at you. It's justâ€”" He ran a hand through his hair. "It's hard, Dad. It's really hard. I feel like I did everything right. I went to college. I got good grades. I got a job. I worked hard. And nowâ€”" He gestured at the apartment, at the closed blinds, at the stack of unopened mail. "Now I'm here. And I don't know how to get out."
+David sat back down on the bed. His shoulders slumped. "I'm sorry too. I didn't mean to snap at you. It's justâ€? He ran a hand through his hair. "It's hard, Dad. It's really hard. I feel like I did everything right. I went to college. I got good grades. I got a job. I worked hard. And nowâ€? He gestured at the apartment, at the closed blinds, at the stack of unopened mail. "Now I'm here. And I don't know how to get out."
 
 Robert sat in the chair. The plastic was cracked, and a sharp edge pressed into his thigh. He welcomed the discomfort. It was something real, something physical, something that wasn't a number on a screen.
 
@@ -100,7 +100,7 @@ They sat in silence for a long moment. Then David stood and walked to the kitche
 
 David busied himself with the coffee maker, and Robert watched his son. The boy he'd raised, the man he'd become. A generation that had done everything right and still ended up here, in a studio apartment with broken blinds and a stack of unopened mail.
 
-"David," he said. "I want to help. Not because of the numbers. Not because I'm calculating how it affects my retirement. Because you're my son. Because I love you. Becauseâ€”" His voice caught. "Because I don't know what else to do."
+"David," he said. "I want to help. Not because of the numbers. Not because I'm calculating how it affects my retirement. Because you're my son. Because I love you. Becauseâ€? His voice caught. "Because I don't know what else to do."
 
 David turned around. His eyes were wet. "I know, Dad. I know."
 

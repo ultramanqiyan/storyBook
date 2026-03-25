@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Longing, Determination, Fear, Wonder, Grief
-- **Emotional Arc**: Chapters 1-3: Grief and longing; discovery and wonder; fear of the unknown â†’ Chapters 4-6: Determination mixed with doubt; growing tension; first sacrifices â†’ Chapters 7-8: Desperation; internal conflict; peak emotional intensity â†’ Chapters 9-10: Acceptance; bittersweet resolution; hope tempered by loss
+- **Emotional Arc**: Chapters 1-3: Grief and longing; discovery and wonder; fear of the unknown â†?Chapters 4-6: Determination mixed with doubt; growing tension; first sacrifices â†?Chapters 7-8: Desperation; internal conflict; peak emotional intensity â†?Chapters 9-10: Acceptance; bittersweet resolution; hope tempered by loss
 - **Emotional Pacing**: Setup (1-2) slow, Rising (3-5) medium, Climax (6-8) fast, Resolution (9-10) medium
 
 ## Character Voices
@@ -127,34 +127,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Fifth Year
-On the fifth anniversary of her sister's disappearance, Elara discovers ORACLE in forbidden ruins. Emotional arc: Grief â†’ Wonder
+On the fifth anniversary of her sister's disappearance, Elara discovers ORACLE in forbidden ruins. Emotional arc: Grief â†?Wonder
 
 ### Chapter 2: The Forbidden Knowledge
-Master Theron warns of time magic's cost; ORACLE reveals Lyra is alive but trapped. Emotional arc: Fear â†’ Determination
+Master Theron warns of time magic's cost; ORACLE reveals Lyra is alive but trapped. Emotional arc: Fear â†?Determination
 
 ### Chapter 3: The First Lesson
-Elara learns first time spell; loses a small memory; realizes the true cost. Emotional arc: Hope â†’ Loss
+Elara learns first time spell; loses a small memory; realizes the true cost. Emotional arc: Hope â†?Loss
 
 ### Chapter 4: Fragments of the Past
-Memory fragments reveal Lyra's growing obsession with the Time Rift. Emotional arc: Curiosity â†’ Unease
+Memory fragments reveal Lyra's growing obsession with the Time Rift. Emotional arc: Curiosity â†?Unease
 
 ### Chapter 5: The Hollow Voice
-Elara hears the Hollow King for the first time; learns what's trapped in the Rift. Emotional arc: Confidence â†’ Fear
+Elara hears the Hollow King for the first time; learns what's trapped in the Rift. Emotional arc: Confidence â†?Fear
 
 ### Chapter 6: The Price of Seeing
-ORACLE shows possible futures; Elara sees the cost of failureâ€”and success. Emotional arc: Determination â†’ Horror
+ORACLE shows possible futures; Elara sees the cost of failureâ€”and success. Emotional arc: Determination â†?Horror
 
 ### Chapter 7: The Memory Thief
-To reach the Rift, Elara must sacrifice her most precious memories of Lyra. Emotional arc: Desperation â†’ Grief
+To reach the Rift, Elara must sacrifice her most precious memories of Lyra. Emotional arc: Desperation â†?Grief
 
 ### Chapter 8: The Rift
-Elara enters the Time Rift; confronts the Hollow King; finds Lyra. Emotional arc: Terror â†’ Resolve
+Elara enters the Time Rift; confronts the Hollow King; finds Lyra. Emotional arc: Terror â†?Resolve
 
 ### Chapter 9: The Choice
-Elara must choose: save Lyra and release the Hollow King, or trap them both. Emotional arc: Anguish â†’ Acceptance
+Elara must choose: save Lyra and release the Hollow King, or trap them both. Emotional arc: Anguish â†?Acceptance
 
 ### Chapter 10: The Time Guardian
-Elara becomes the new guardian; Lyra is saved but changed; memories lost but love remains. Emotional arc: Bittersweet â†’ Hope
+Elara becomes the new guardian; Lyra is saved but changed; memories lost but love remains. Emotional arc: Bittersweet â†?Hope
 
 ## Open Ending Design
 

@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Determined to make deep work regular
-    â†“
-Middle: Building the concentration muscle
-    â†“
-Closing: Growing confidence in ability
+    â†?Middle: Building the concentration muscle
+    â†?Closing: Growing confidence in ability
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Growing confidence in ability
 | Kinesthetic | Easier entry into focus | 3 | Skill building |
 | Visual | Marcus's approving expression | 4 | External validation |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

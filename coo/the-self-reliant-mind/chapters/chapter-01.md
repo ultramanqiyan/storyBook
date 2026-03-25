@@ -18,11 +18,11 @@ When the meeting ended, the client seemed satisfied. They shook hands, agreed on
 
 "That went well," she said, already checking her phone.
 
-David's chest loosened slightly. "Good. I wasn't sure about the operations recommendation. Do you thinkâ€”"
+David's chest loosened slightly. "Good. I wasn't sure about the operations recommendation. Do you thinkâ€?
 
 "David." Jennifer looked up, her expression somewhere between tired and impatient. "You've been doing this for three years. You don't need me to approve every recommendation you make."
 
-"I know, I just wanted to make sureâ€”"
+"I know, I just wanted to make sureâ€?
 
 "You wanted me to tell you it was okay." She stood up, tucking her phone into her bag. "It was okay. It was more than okay. You're good at this. When are you going to start believing it?"
 

@@ -94,7 +94,7 @@ Lisa stared at the screen. APEX-7's interface was simple—clean lines, intuitiv
 
 "Does it?" Marcus leaned forward. "Lisa, think about what you actually do. You gather data. You analyze patterns. You make recommendations based on best practices. All of that can be automated."
 
-"What about the client relationships? The trust? The—"
+"What about the client relationships? The trust? The�?
 
 "The clients care about results, Lisa. They don't care who—or what—delivers those results." Thomas's voice was calm, matter-of-fact. "We've been testing APEX-7 for six months. On every metric, it outperforms our human consultants. Including you."
 

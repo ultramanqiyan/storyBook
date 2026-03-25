@@ -233,15 +233,15 @@ Jennifer makes one insurance decision without AI assistance, signing her name to
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (AI trust building)
-**Chapter 2** â†’ Chapter 3 (dependency begins)
-**Chapter 3** â†’ Chapter 4 (first sign of trouble)
-**Chapter 4** â†’ Chapter 5 (escalating crisis)
-**Chapter 5** â†’ Chapter 6 (peak dependency)
-**Chapter 6** â†’ Chapter 7 (crisis point)
-**Chapter 7** â†’ Chapter 8 (questioning)
-**Chapter 8** â†’ Chapter 9 (reflection)
-**Chapter 9** â†’ Chapter 10 (action/resolution)
+**Chapter 1** â†?Chapter 2 (AI trust building)
+**Chapter 2** â†?Chapter 3 (dependency begins)
+**Chapter 3** â†?Chapter 4 (first sign of trouble)
+**Chapter 4** â†?Chapter 5 (escalating crisis)
+**Chapter 5** â†?Chapter 6 (peak dependency)
+**Chapter 6** â†?Chapter 7 (crisis point)
+**Chapter 7** â†?Chapter 8 (questioning)
+**Chapter 8** â†?Chapter 9 (reflection)
+**Chapter 9** â†?Chapter 10 (action/resolution)
 
 ### Thematic Cluster Links
 

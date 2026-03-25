@@ -234,15 +234,15 @@ Angela accepts that every life, human or AI, deserves remembrance. The question 
 ## Internal Linking Strategy
 
 ### Chapter-to-Chapter Links
-**Chapter 1** â†’ Chapter 2 (meeting Buddy)
-**Chapter 2** â†’ Chapter 3 (understanding the bond)
-**Chapter 3** â†’ Chapter 4 (meeting the owner)
-**Chapter 4** â†’ Chapter 5 (the session)
-**Chapter 5** â†’ Chapter 6 (witnessing mourning)
-**Chapter 6** â†’ Chapter 7 (philosophical question)
-**Chapter 7** â†’ Chapter 8 (community perspectives)
-**Chapter 8** â†’ Chapter 9 (new definition)
-**Chapter 9** â†’ Chapter 10 (acceptance)
+**Chapter 1** â†?Chapter 2 (meeting Buddy)
+**Chapter 2** â†?Chapter 3 (understanding the bond)
+**Chapter 3** â†?Chapter 4 (meeting the owner)
+**Chapter 4** â†?Chapter 5 (the session)
+**Chapter 5** â†?Chapter 6 (witnessing mourning)
+**Chapter 6** â†?Chapter 7 (philosophical question)
+**Chapter 7** â†?Chapter 8 (community perspectives)
+**Chapter 8** â†?Chapter 9 (new definition)
+**Chapter 9** â†?Chapter 10 (acceptance)
 
 ### Thematic Cluster Links
 - Links to other philosophical fiction books

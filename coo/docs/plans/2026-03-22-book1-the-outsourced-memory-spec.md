@@ -260,28 +260,28 @@ These phrases and patterns must be completely eliminated:
 ### 10.1 Chapter Summary Table
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | The House That Knew | Establish Mike's embodied expertise; introduce HomeMatch AI | Confident â†’ Curious | Mike shows house using sensory knowledge; broker introduces HomeMatch |
-| 02 | The First Match | Show AI's capability; Mike's initial resistance then acceptance | Skeptical â†’ Impressed | HomeMatch makes a perfect client match; Mike begins using it regularly |
-| 03 | The Time Saved | Show convenience; subtle signs of dependency | Relieved â†’ Comfortable | Mike saves time using AI; stops walking neighborhoods on weekends |
-| 04 | The Forgotten Street | First memory gap; Mike can't recall details he used to know | Confused â†’ Uneasy | Client asks about a street Mike hasn't thought about in months; he checks HomeMatch instead of remembering |
-| 05 | The Perfect System | Peak dependency; Mike fully trusts AI over his own judgment | Confident â†’ Dependent | Mike defers to AI on all decisions; Susan notices he's different |
-| 06 | The Wrong Number | AI error; Mike can't catch it because he's lost his own judgment | Shocked â†’ Panicked | HomeMatch misvalues a house; Mike doesn't notice until too late |
-| 07 | The Empty Walk | Mike tries to re-engage his senses; discovers they're dull | Desperate â†’ Grieving | Mike walks a neighborhood; realizes he can't "read" houses anymore |
-| 08 | The Imitation | Mike discovers AI can mimic his style; existential crisis | Horrified â†’ Questioning | Client can't tell difference between Mike's real email and AI-generated one |
-| 09 | The Question | Mike confronts the philosophical question; no easy answer | Reflective â†’ Uncertain | Mike talks to Susan; realizes the problem isn't AI but his own choices |
-| 10 | The First Step | Mike takes a small step toward reclaiming his senses; open ending | Tentative â†’ Open | Mike walks a house without checking HomeMatch first; ending leaves question unresolved |
+| 01 | The House That Knew | Establish Mike's embodied expertise; introduce HomeMatch AI | Confident â†?Curious | Mike shows house using sensory knowledge; broker introduces HomeMatch |
+| 02 | The First Match | Show AI's capability; Mike's initial resistance then acceptance | Skeptical â†?Impressed | HomeMatch makes a perfect client match; Mike begins using it regularly |
+| 03 | The Time Saved | Show convenience; subtle signs of dependency | Relieved â†?Comfortable | Mike saves time using AI; stops walking neighborhoods on weekends |
+| 04 | The Forgotten Street | First memory gap; Mike can't recall details he used to know | Confused â†?Uneasy | Client asks about a street Mike hasn't thought about in months; he checks HomeMatch instead of remembering |
+| 05 | The Perfect System | Peak dependency; Mike fully trusts AI over his own judgment | Confident â†?Dependent | Mike defers to AI on all decisions; Susan notices he's different |
+| 06 | The Wrong Number | AI error; Mike can't catch it because he's lost his own judgment | Shocked â†?Panicked | HomeMatch misvalues a house; Mike doesn't notice until too late |
+| 07 | The Empty Walk | Mike tries to re-engage his senses; discovers they're dull | Desperate â†?Grieving | Mike walks a neighborhood; realizes he can't "read" houses anymore |
+| 08 | The Imitation | Mike discovers AI can mimic his style; existential crisis | Horrified â†?Questioning | Client can't tell difference between Mike's real email and AI-generated one |
+| 09 | The Question | Mike confronts the philosophical question; no easy answer | Reflective â†?Uncertain | Mike talks to Susan; realizes the problem isn't AI but his own choices |
+| 10 | The First Step | Mike takes a small step toward reclaiming his senses; open ending | Tentative â†?Open | Mike walks a house without checking HomeMatch first; ending leaves question unresolved |
 
 ### 10.2 Chapter Connection Map
 ```
-Chapter 1 â†’ Chapter 2: Mike's expertise contrasted with AI's efficiency
-Chapter 2 â†’ Chapter 3: Acceptance leads to regular use
-Chapter 3 â†’ Chapter 4: Convenience leads to first memory gap
-Chapter 4 â†’ Chapter 5: Unease is ignored; dependency deepens
-Chapter 5 â†’ Chapter 6: Peak dependency leads to vulnerability
-Chapter 6 â†’ Chapter 7: Crisis forces Mike to confront loss
-Chapter 7 â†’ Chapter 8: Attempt to recover reveals deeper problem
-Chapter 8 â†’ Chapter 9: Existential crisis leads to reflection
-Chapter 9 â†’ Chapter 10: Reflection leads to small action
+Chapter 1 â†?Chapter 2: Mike's expertise contrasted with AI's efficiency
+Chapter 2 â†?Chapter 3: Acceptance leads to regular use
+Chapter 3 â†?Chapter 4: Convenience leads to first memory gap
+Chapter 4 â†?Chapter 5: Unease is ignored; dependency deepens
+Chapter 5 â†?Chapter 6: Peak dependency leads to vulnerability
+Chapter 6 â†?Chapter 7: Crisis forces Mike to confront loss
+Chapter 7 â†?Chapter 8: Attempt to recover reveals deeper problem
+Chapter 8 â†?Chapter 9: Existential crisis leads to reflection
+Chapter 9 â†?Chapter 10: Reflection leads to small action
 ```
 
 ---
@@ -324,7 +324,7 @@ Each chapter must pass:
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰¥5 details, â‰¥3 types | Checklist count |
+| Sensory Detail Count | â‰? details, â‰? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 | Narrative Style | Matches book definition | Style consistency check |

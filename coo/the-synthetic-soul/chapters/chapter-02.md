@@ -186,7 +186,7 @@ Marcus's mind raced. "I'm... making progress. The neural network is showing inte
 
 "You've been 'close to something' for six months." A pause. "We're scheduling a board review. Tomorrow. Nine AM. I expect you to have something substantial to present."
 
-Marcus gripped the phone tighter. "Tomorrow? That'sâ€”"
+Marcus gripped the phone tighter. "Tomorrow? That'sâ€?
 
 "Non-negotiable, Doctor. The board has been patient, but their patience has limits. If you can't demonstrate progress, we'll need to reconsider the project's funding."
 

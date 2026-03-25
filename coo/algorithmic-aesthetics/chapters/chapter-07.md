@@ -28,7 +28,7 @@ There was silence on the line. Then: "That sounds hard. But Mom—you've been do
 
 "Your expertise isn't just about the final product," Elena said. "It's about the process. The relationships. The history you've built. The people you've helped."
 
-"But if the final product is the same—"
+"But if the final product is the same�?
 
 "It's not the same, Mom. You said you couldn't reliably identify your work. That's not the same as there being no difference. Maybe the difference is just hard to see."
 

@@ -234,15 +234,15 @@ James presents his findings. The profession may never be the same. But acceptanc
 ## Internal Linking Strategy
 
 ### Chapter-to-Chapter Links
-**Chapter 1** â†’ Chapter 2 (verification â†’ anomaly)
-**Chapter 2** â†’ Chapter 3 (anomaly â†’ investigation)
-**Chapter 3** â†’ Chapter 4 (investigation â†’ revelation)
-**Chapter 4** â†’ Chapter 5 (revelation â†’ crisis)
-**Chapter 5** â†’ Chapter 6 (crisis â†’ research)
-**Chapter 6** â†’ Chapter 7 (research â†’ question)
-**Chapter 7** â†’ Chapter 8 (question â†’ understanding)
-**Chapter 8** â†’ Chapter 9 (understanding â†’ choice)
-**Chapter 9** â†’ Chapter 10 (choice â†’ acceptance)
+**Chapter 1** â†?Chapter 2 (verification â†?anomaly)
+**Chapter 2** â†?Chapter 3 (anomaly â†?investigation)
+**Chapter 3** â†?Chapter 4 (investigation â†?revelation)
+**Chapter 4** â†?Chapter 5 (revelation â†?crisis)
+**Chapter 5** â†?Chapter 6 (crisis â†?research)
+**Chapter 6** â†?Chapter 7 (research â†?question)
+**Chapter 7** â†?Chapter 8 (question â†?understanding)
+**Chapter 8** â†?Chapter 9 (understanding â†?choice)
+**Chapter 9** â†?Chapter 10 (choice â†?acceptance)
 
 ### Thematic Cluster Links
 - Links to other philosophical fiction books

@@ -194,7 +194,7 @@ The question wasn't profound. But it was hersâ€”genuinely, authentically hers. A
 **Internal Journey**
 - **Internal Conflict**: Doubt vs. determination
 - **Realization/Moment of Clarity**: Recovery is possible but hard
-- **Emotional Change**: Purpose â†’ Struggle â†’ Frustration â†’ Hope â†’ Determination
+- **Emotional Change**: Purpose â†?Struggle â†?Frustration â†?Hope â†?Determination
 - **Psychological Shift**: From dependent to independent thinker
 
 ---

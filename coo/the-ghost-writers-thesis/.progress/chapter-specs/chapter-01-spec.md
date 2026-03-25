@@ -251,8 +251,8 @@ She saved the document and leaned back, satisfied. Tomorrow she would run it thr
 
 **Emotional Beat**
 - **Position on Curve**: 75-100%
-- **Primary Emotion**: Shock â†’ Horror
-- **Intensity**: 45 â†’ 40
+- **Primary Emotion**: Shock â†?Horror
+- **Intensity**: 45 â†?40
 - **Three Layers**:
   - Surface: Frozen, staring
   - Internal: "*These aren't my questions. They never were.*"
@@ -275,13 +275,13 @@ She stared at the screen, at the evidence of her own dependency. The questions t
 **Internal Journey**
 - **Internal Conflict**: Pride vs. growing doubt
 - **Realization/Moment of Clarity**: Her questions aren't hers
-- **Emotional Change**: Pride â†’ Satisfaction â†’ Confusion â†’ Shock â†’ Horror
+- **Emotional Change**: Pride â†?Satisfaction â†?Confusion â†?Shock â†?Horror
 - **Psychological Shift**: From confident academic to questioning everything
 
 **Character Growth**
 - **Starting State**: Confident, successful PhD candidate
 - **Ending State**: Horrified, questioning her entire work
-- **Growth Metric**: Dependency awareness (0 â†’ 100)
+- **Growth Metric**: Dependency awareness (0 â†?100)
 
 ---
 
@@ -425,7 +425,7 @@ She stared at the screen, at the evidence of her own dependency. The questions t
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Confidence, Fear, Vulnerability, Determination, Awe
-- **Emotional Arc**: Confidence (90â†’30) â†’ Crisis (35â†’25) â†’ Fear (30â†’60) â†’ Vulnerability (55â†’65) â†’ Discovery (60â†’75) â†’ Determination (70â†’85) â†’ Crisis (80â†’95) â†’ Revelation (90â†’95) â†’ Recovery (80â†’85) â†’ Awe (75â†’85)
+- **Emotional Arc**: Confidence (90â†?0) â†?Crisis (35â†?5) â†?Fear (30â†?0) â†?Vulnerability (55â†?5) â†?Discovery (60â†?5) â†?Determination (70â†?5) â†?Crisis (80â†?5) â†?Revelation (90â†?5) â†?Recovery (80â†?5) â†?Awe (75â†?5)
 - **Emotional Pacing**: Setup (1-2) fast, Rising (3-5) medium, Climax (6-8) fast, Resolution (9-10) medium
 
 ## Character Voices
@@ -30,7 +30,7 @@
 - **Word Choice**: Climbing terminology mixed with growing self-awareness
 - **Personality Traits**: Fearless (literally), once intuitive, now algorithm-dependent
 - **Internal Monologue Style**: Physical sensations, increasingly aware of emotional gaps
-- **Unique Expressions**: "The system says..." â†’ "I feel..."
+- **Unique Expressions**: "The system says..." â†?"I feel..."
 - **Speech Quirks**: Checks wrist display constantly for risk calculations
 - **Development Arc**: From confident AI-dependent climber to someone rediscovering instinctive fear
 
@@ -116,34 +116,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Perfect Line - Calculated Success
-Alex's perfect climb and system failure. Establish Alex's AI dependency. Emotional arc: Confidence (90â†’30)
+Alex's perfect climb and system failure. Establish Alex's AI dependency. Emotional arc: Confidence (90â†?0)
 
 ### Chapter 2: The Silence - When the System Died
-Alex stranded without data. Confronting helplessness. Emotional arc: Crisis (35â†’25)
+Alex stranded without data. Confronting helplessness. Emotional arc: Crisis (35â†?5)
 
 ### Chapter 3: The Freeze - No Fear, No Decision
-Alex discovers she can't feel fear. The truth. Emotional arc: Fear (30â†’60)
+Alex discovers she can't feel fear. The truth. Emotional arc: Fear (30â†?0)
 
 ### Chapter 4: The Mentor - What We Used to Feel
-Old climber Marcus teaches Alex. The lesson. Emotional arc: Vulnerability (55â†’65)
+Old climber Marcus teaches Alex. The lesson. Emotional arc: Vulnerability (55â†?5)
 
 ### Chapter 5: The Training - Relearning Fear
-Alex trains to feel fear again. Dangerous exercises. Emotional arc: Discovery (60â†’75)
+Alex trains to feel fear again. Dangerous exercises. Emotional arc: Discovery (60â†?5)
 
 ### Chapter 6: The Climb - Testing Instinct
-Alex climbs without AI. Testing limits. Emotional arc: Determination (70â†’85)
+Alex climbs without AI. Testing limits. Emotional arc: Determination (70â†?5)
 
 ### Chapter 7: The Fall - When Calculation Failed
-Alex's instinct fails. Serious accident. Emotional arc: Crisis (80â†’95)
+Alex's instinct fails. Serious accident. Emotional arc: Crisis (80â†?5)
 
 ### Chapter 8: The Choice - Trust Yourself
-Alex must decide approach. Decision. Emotional arc: Revelation (90â†’95)
+Alex must decide approach. Decision. Emotional arc: Revelation (90â†?5)
 
 ### Chapter 9: The Recovery - Healing Body and Mind
-Alex heals physically and emotionally. Recovery. Emotional arc: Choice (90â†’80)
+Alex heals physically and emotionally. Recovery. Emotional arc: Choice (90â†?0)
 
 ### Chapter 10: The Summit - A New Way to Climb
-Alex climbs with new balance. Resolution. Emotional arc: Recovery (75â†’85)
+Alex climbs with new balance. Resolution. Emotional arc: Recovery (75â†?5)
 
 ## Open Ending Design
 

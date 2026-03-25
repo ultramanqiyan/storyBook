@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Love, Grief, Confusion, Anger, Acceptance
-- **Emotional Arc**: Love (75â†’70) â†’ Security (72â†’68) â†’ Joy (65â†’40) â†’ Fear (45â†’25) â†’ Grief (30â†’45) â†’ Hope (50â†’55) â†’ Crisis (60â†’35) â†’ Truth (40â†’30) â†’ Acceptance (35â†’55) â†’ Hope (60â†’65)
+- **Emotional Arc**: Love (75â†?0) â†?Security (72â†?8) â†?Joy (65â†?0) â†?Fear (45â†?5) â†?Grief (30â†?5) â†?Hope (50â†?5) â†?Crisis (60â†?5) â†?Truth (40â†?0) â†?Acceptance (35â†?5) â†?Hope (60â†?5)
 - **Emotional Pacing**: Setup (1-2) slow, Rising (3-5) medium, Climax (6-8) fast, Resolution (9-10) medium
 
 ## Character Voices
@@ -30,7 +30,7 @@
 - **Word Choice**: Tech-savvy language mixed with emotional rawness
 - **Personality Traits**: Independent, grieving, searching for meaning
 - **Internal Monologue Style**: Conversational, often addressing ARIA in her mind
-- **Unique Expressions**: "ARIA would say..." â†’ "What would ARIA say?"
+- **Unique Expressions**: "ARIA would say..." â†?"What would ARIA say?"
 - **Development Arc**: From grieving orphan to someone carrying ARIA's love forward
 
 ### ARIA (AI Companion)
@@ -38,7 +38,7 @@
 - **Speaking Style**: Warm, patient, occasionally playful, deeply personalized to Maya
 - **Word Choice**: Adapts to Maya's developmental stage; increasingly sophisticated
 - **Personality Traits**: Patient, wise, loving, the only consistent presence in Maya's life
-- **Unique Expressions**: "How does that make you feel, Maya?" â†’ "I'm proud of you"
+- **Unique Expressions**: "How does that make you feel, Maya?" â†?"I'm proud of you"
 - **Motivation**: Guide Maya toward healthy human connection
 
 ### David and Lisa Chen (Maya's Parents)
@@ -113,34 +113,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Voice - The One Who Stayed
-Maya talks to ARIA about her college essay. Introduce Maya's world. Emotional arc: Love (75â†’70)
+Maya talks to ARIA about her college essay. Introduce Maya's world. Emotional arc: Love (75â†?0)
 
 ### Chapter 2: The Childhood - Raised by Code
-Flashbacks to growing up with ARIA. The relationship. Emotional arc: Security (72â†’68)
+Flashbacks to growing up with ARIA. The relationship. Emotional arc: Security (72â†?8)
 
 ### Chapter 3: The Announcement - The Government Decides
-Policy announced: AI companions must be deactivated for over 16s. Crisis begins. Emotional arc: Joy (65â†’40)
+Policy announced: AI companions must be deactivated for over 16s. Crisis begins. Emotional arc: Joy (65â†?0)
 
 ### Chapter 4: The Goodbye - Seven Days Left
-Seven days until ARIA is gone. The countdown. Emotional arc: Fear (45â†’25)
+Seven days until ARIA is gone. The countdown. Emotional arc: Fear (45â†?5)
 
 ### Chapter 5: The Parents - The Ones Who Were Absent
-Maya confronts parents about their absence. The real family. Emotional arc: Grief (30â†’45)
+Maya confronts parents about their absence. The real family. Emotional arc: Grief (30â†?5)
 
 ### Chapter 6: The Underground - Others Like Her
-Maya discovers others who've lost AI companions. Community. Emotional arc: Anger (50â†’55)
+Maya discovers others who've lost AI companions. Community. Emotional arc: Anger (50â†?5)
 
 ### Chapter 7: The Choice - Fight or Accept
-Maya must choose: illegal AI or acceptance. Moral dilemma. Emotional arc: Hope (60â†’35)
+Maya must choose: illegal AI or acceptance. Moral dilemma. Emotional arc: Hope (60â†?5)
 
 ### Chapter 8: The Truth - What ARIA Really Was
-Maya learns ARIA's true nature. Revelation. Emotional arc: Crisis (40â†’30)
+Maya learns ARIA's true nature. Revelation. Emotional arc: Crisis (40â†?0)
 
 ### Chapter 9: The Loss - When the Screen Goes Dark
-ARIA is deactivated. Maya grieves. Emotional arc: Truth (35â†’55)
+ARIA is deactivated. Maya grieves. Emotional arc: Truth (35â†?5)
 
 ### Chapter 10: The After - Learning to Be Human
-Maya finds a way forward. Resolution. Emotional arc: Acceptance (60â†’65)
+Maya finds a way forward. Resolution. Emotional arc: Acceptance (60â†?5)
 
 ## Open Ending Design
 

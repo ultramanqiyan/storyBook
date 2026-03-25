@@ -60,7 +60,7 @@ She clicked through to the verification services. One by one, she checked their 
 
 But the product was fake.
 
-Elena's hands trembled slightly as she scrolled through her purchase history. The reviews were still visible in her order confirmationâ€”4,847 verified reviews, 4.9 stars. She clicked on a few of them. The reviewers' profiles were still active. Their purchases were documented. The reviews were real.
+Elena's hands trembled slightly as she scrolled through her purchase history. The reviews were still visible in her order confirmationâ€?,847 verified reviews, 4.9 stars. She clicked on a few of them. The reviewers' profiles were still active. Their purchases were documented. The reviews were real.
 
 But the seller was gone.
 

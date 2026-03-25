@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Professional confidence, Growing doubt, Vulnerability, Fear, Acceptance
-- **Emotional Arc**: Professional confidence (ch 1-3) â†’ Growing recognition of AI accuracy (ch 4-6) â†’ Crisis point (ch 7-8) â†’ Acceptance (ch 9-10)
+- **Emotional Arc**: Professional confidence (ch 1-3) â†?Growing recognition of AI accuracy (ch 4-6) â†?Crisis point (ch 7-8) â†?Acceptance (ch 9-10)
 - **Emotional Pacing**: Measured beginning, escalating doubt, philosophical deepening, contemplative resolution
 
 ## Character Voices
@@ -107,16 +107,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Confidence (75/100) | Curiosity (70/100) | Winning case â†’ Curious about AI |
-| 2 | Curiosity (70/100) | Intrigue (75/100) | Trial begins â†’ Intrigued |
-| 3 | Intrigue (75/100) | Disturbed (60/100) | Data reviewed â†’ Patterns disturbing |
-| 4 | Disturbed (60/100) | Shocked (50/100) | Prediction revealed â†’ 78% divorce chance |
-| 5 | Shocked (50/100) | Defensive (55/100) | Denial â†’ Trying to prove wrong |
-| 6 | Defensive (55/100) | Crisis (40/100) | Evidence found â†’ Crisis point |
-| 7 | Crisis (40/100) | Pain (45/100) | Confrontation â†’ Tom confirms patterns |
-| 8 | Pain (45/100) | Searching (50/100) | Questioning self â†’ Philosophical crisis |
-| 9 | Searching (50/100) | Peace (65/100) | Acceptance â†’ New understanding |
-| 10 | Peace (65/100) | Open (70/100) | Choice made â†’ Open ending |
+| 1 | Confidence (75/100) | Curiosity (70/100) | Winning case â†?Curious about AI |
+| 2 | Curiosity (70/100) | Intrigue (75/100) | Trial begins â†?Intrigued |
+| 3 | Intrigue (75/100) | Disturbed (60/100) | Data reviewed â†?Patterns disturbing |
+| 4 | Disturbed (60/100) | Shocked (50/100) | Prediction revealed â†?78% divorce chance |
+| 5 | Shocked (50/100) | Defensive (55/100) | Denial â†?Trying to prove wrong |
+| 6 | Defensive (55/100) | Crisis (40/100) | Evidence found â†?Crisis point |
+| 7 | Crisis (40/100) | Pain (45/100) | Confrontation â†?Tom confirms patterns |
+| 8 | Pain (45/100) | Searching (50/100) | Questioning self â†?Philosophical crisis |
+| 9 | Searching (50/100) | Peace (65/100) | Acceptance â†?New understanding |
+| 10 | Peace (65/100) | Open (70/100) | Choice made â†?Open ending |
 
 ## Prohibited Elements
 

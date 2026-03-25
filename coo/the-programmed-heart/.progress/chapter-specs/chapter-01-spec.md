@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Establish the illusion of a "perfect family," plant the seed of wrongness
-- **Emotional Arc**: Warm and safe â†’ Subtle confusion
+- **Emotional Arc**: Warm and safe â†?Subtle confusion
 - **Relationship to Overall Story**: Lay the groundwork for the later truth reveal, let readers first feel the temptation of "perfection"
 
 ## Core Events

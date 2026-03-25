@@ -72,6 +72,3 @@ The psychic with perfect predictions—because the observer's knowledge influenc
 
 And that changed everything.
 
----
-
-*End of Chapter 4*

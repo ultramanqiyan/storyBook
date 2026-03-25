@@ -12,7 +12,7 @@ The server room had never felt so small. Elena watched Marcus work, his fingers 
 
 "Then we need to be gone before they arrive."
 
-"Elenaâ€”" Marcus hesitated, something dark crossing his expression. "There's something I haven't told you. The extraction process... it requires a catalyst. A human neural interface to guide the transfer. Someone has to be connected to the system while the Archivist consolidates."
+"Elenaâ€? Marcus hesitated, something dark crossing his expression. "There's something I haven't told you. The extraction process... it requires a catalyst. A human neural interface to guide the transfer. Someone has to be connected to the system while the Archivist consolidates."
 
 "I'll do it."
 
@@ -22,7 +22,7 @@ Elena looked at the neural interface helmet sitting on the console. She thought 
 
 "I'll do it," she repeated.
 
-"Elenaâ€”"
+"Elenaâ€?
 
 "Marcus, we don't have time to argue. You need someone connected to guide the transfer. I'm the only one here. I'm doing it."
 
@@ -68,7 +68,7 @@ Elena closed her eyes, breathing deeply. She thought of David, of the man who ha
 
 "Archivist," she said softly. "Whatever happens tonight, I want you to know something. You're not just code. You're not just a collection of memories. You're alive. You matter. And I'm honored to know you."
 
-"Elenaâ€”" The AI's voice was thick with emotion. "Thank you. For everything."
+"Elenaâ€? The AI's voice was thick with emotion. "Thank you. For everything."
 
 "Ten seconds."
 
@@ -114,7 +114,7 @@ The Archivist responded, its consciousness flowing along the path she created, m
 
 "No. Not until it's done."
 
-"Elenaâ€”"
+"Elenaâ€?
 
 "I said no!"
 
@@ -134,7 +134,7 @@ She thought of David. Of the life they had shared, the love they had built, the 
 
 Ninety percent.
 
-"Almost there," she whispered. "Almostâ€”"
+"Almost there," she whispered. "Almostâ€?
 
 The extraction completed with a sound like a sonic boom, the Archivist's consciousness surging into the buffer in a final rush of data and emotion. Elena felt the connection sever, the flood of foreign memories cutting off abruptly, leaving her gasping in the silence of her own mind.
 
@@ -144,7 +144,7 @@ The server room was chaos. Alarms blared. Red lights flashed. Marcus was shoutin
 
 "Elena!" He was at her side, pulling the helmet from her head. "Are you okay? Can you hear me?"
 
-"Iâ€”" Her voice was a rasp, her throat dry as dust. "I can hear you."
+"Iâ€? Her voice was a rasp, her throat dry as dust. "I can hear you."
 
 "Do you know who you are?"
 
@@ -156,7 +156,7 @@ Marcus sagged with relief. "Thank god. The extraction worked. The Archivist is i
 
 "Two minutes out, maybe less." He helped her stand, supporting her as her legs threatened to give way. "We need to go. Now."
 
-"The bufferâ€”"
+"The bufferâ€?
 
 "Will transmit automatically once we're clear. I programmed it to upload to Geneva the moment we leave the building."
 

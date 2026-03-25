@@ -247,15 +247,15 @@ Ingrid faces her own mortality with new eyes. Whether she chooses digital immort
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (presence â†’ option)
-**Chapter 2** â†’ Chapter 3 (option â†’ choice)
-**Chapter 3** â†’ Chapter 4 (choice â†’ upload)
-**Chapter 4** â†’ Chapter 5 (upload â†’ return)
-**Chapter 5** â†’ Chapter 6 (return â†’ question)
-**Chapter 6** â†’ Chapter 7 (question â†’ meaning)
-**Chapter 7** â†’ Chapter 8 (meaning â†’ patient choice)
-**Chapter 8** â†’ Chapter 9 (patient â†’ understanding)
-**Chapter 9** â†’ Chapter 10 (understanding â†’ own choice)
+**Chapter 1** â†?Chapter 2 (presence â†?option)
+**Chapter 2** â†?Chapter 3 (option â†?choice)
+**Chapter 3** â†?Chapter 4 (choice â†?upload)
+**Chapter 4** â†?Chapter 5 (upload â†?return)
+**Chapter 5** â†?Chapter 6 (return â†?question)
+**Chapter 6** â†?Chapter 7 (question â†?meaning)
+**Chapter 7** â†?Chapter 8 (meaning â†?patient choice)
+**Chapter 8** â†?Chapter 9 (patient â†?understanding)
+**Chapter 9** â†?Chapter 10 (understanding â†?own choice)
 
 ### Thematic Cluster Links
 

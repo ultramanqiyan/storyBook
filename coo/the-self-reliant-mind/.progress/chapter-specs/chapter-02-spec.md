@@ -35,8 +35,8 @@
 | Closing | Confusion (70) | High | 200 words |
 
 ### 2.2 Emotional Transitions
-- Doubt â†’ Fear: Validation sources become unavailable
-- Fear â†’ Confusion: David doesn't know how to function without approval
+- Doubt â†?Fear: Validation sources become unavailable
+- Fear â†?Confusion: David doesn't know how to function without approval
 
 ---
 

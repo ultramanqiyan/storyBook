@@ -158,7 +158,7 @@ Alex shared his own frustrations—the pressure to have everything figured out, 
 
 The next morning, Michael returned to his office with a new purpose.
 
-The numbers were still there—47% decline, existential crisis, institutional panic. But he saw them differently now. Not as a problem to be solved, but as a symptom of a deeper shift.
+The numbers were still there�?7% decline, existential crisis, institutional panic. But he saw them differently now. Not as a problem to be solved, but as a symptom of a deeper shift.
 
 The old model was dying. The question was what would replace it.
 

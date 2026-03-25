@@ -18,7 +18,7 @@ But I couldn't feel any of it myself.
 
 Dr. Chen's office was on the thirty-seventh floor, with a view of the city that was probably meant to inspire confidence. I could see the pollution particles in the air outside, the thermal currents rising from the buildings below, the individual windows of the skyscrapers across the street.
 
-"Please, sit." Dr. Chen gestured to a chair. Her heart rate was steady—64 bpm—but I noticed a slight increase when I met her eyes. "You mentioned concerns about emotional processing?"
+"Please, sit." Dr. Chen gestured to a chair. Her heart rate was steady�?4 bpm—but I noticed a slight increase when I met her eyes. "You mentioned concerns about emotional processing?"
 
 "Yes." I sat, my enhanced body automatically finding the optimal position. "It's been over a week, and I'm still not feeling things the way I used to. Music, memories, even simple emotions—they're all... muted. Absent."
 
@@ -30,9 +30,9 @@ Dr. Chen nodded slowly. "As I mentioned on the call, emotional blunting during t
 
 "And some don't recover at all?"
 
-The question hung in the air between us. Dr. Chen's heart rate increased slightly—66, then 68 bpm. A stress response, though her face remained professionally calm.
+The question hung in the air between us. Dr. Chen's heart rate increased slightly�?6, then 68 bpm. A stress response, though her face remained professionally calm.
 
-"The vast majority of patients report satisfactory emotional integration," she said carefully. "In rare cases, some emotional blunting may persist, but—"
+"The vast majority of patients report satisfactory emotional integration," she said carefully. "In rare cases, some emotional blunting may persist, but�?
 
 "But what?"
 

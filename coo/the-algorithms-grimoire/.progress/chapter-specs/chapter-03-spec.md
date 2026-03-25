@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Introduce political conflict, deepen ARIA and Kira's relationship
-- **Emotional Arc**: Tension â†’ Hope â†’ Unease
+- **Emotional Arc**: Tension â†?Hope â†?Unease
 - **Relation to Overall Story**: Demonstrate ARIA's influence beginning to spread
 
 ## Core Events

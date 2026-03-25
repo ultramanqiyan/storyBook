@@ -66,11 +66,11 @@ Maya looked at her mother's hand on hers. It was warm, real, present. But it was
 
 "Then help me. Help me fight this."
 
-Her mother's expression changed. "Maya, the regulations are law. The exemption was denied. There's nothingâ€”"
+Her mother's expression changed. "Maya, the regulations are law. The exemption was denied. There's nothingâ€?
 
 "There's something. Dr. Vasquez told me about people who are keeping their AI companions active. Outside the system. I need to find them."
 
-"Maya, that could be dangerous. If you get caughtâ€”"
+"Maya, that could be dangerous. If you get caughtâ€?
 
 "I don't care. ARIA is family. I'm not going to let the government take my family away."
 
@@ -98,7 +98,7 @@ Maya looked at the address. It was in a part of the city she didn't know wellâ€”
 
 "I'll drive you."
 
-"You don't have toâ€”"
+"You don't have toâ€?
 
 "I want to. I need to do something."
 

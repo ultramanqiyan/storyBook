@@ -295,7 +295,7 @@ Dr. Webb's office smelled of old paper and fresh coffeeâ€”the kind of coffee mad
 
 **Emotional Beat**
 - **Position on Curve**: 50-85%
-- **Primary Emotion**: Panic â†’ Helplessness
+- **Primary Emotion**: Panic â†?Helplessness
 - **Intensity**: 30
 - **Three Layers**:
   - Surface: Frozen, reaching for tablet, trembling hands
@@ -359,13 +359,13 @@ She pulled out her tablet. The system was back online, green lights glowing. But
 **Internal Journey**
 - **Internal Conflict**: Comfort of AI vs. nagging doubt
 - **Realization/Moment of Clarity**: Realizes she cannot function without AI
-- **Emotional Change**: Confidence â†’ Panic â†’ Fear
+- **Emotional Change**: Confidence â†?Panic â†?Fear
 - **Psychological Shift**: From certainty to profound uncertainty
 
 **Character Growth**
 - **Starting State**: Confident, AI-dependent doctor
 - **Ending State**: Shaken, aware of her dependency
-- **Growth Metric**: Loss of certainty (85 â†’ 30 on confidence scale)
+- **Growth Metric**: Loss of certainty (85 â†?30 on confidence scale)
 
 **Key Decision**
 - **Decision**: Deflects Dr. Webb's question about intuition
@@ -382,7 +382,7 @@ She pulled out her tablet. The system was back online, green lights glowing. But
 
 **Internal Journey**
 - **Internal Conflict**: Wants to help but knows Sarah must discover truth herself
-- **Emotional Change**: Concern â†’ Resignation â†’ Hope
+- **Emotional Change**: Concern â†?Resignation â†?Hope
 - **Psychological Shift**: Watching the next generation lose what made medicine an art
 
 **Character Growth**
@@ -651,7 +651,7 @@ She pulled out her tablet. The system was back online, green lights glowing, rea
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

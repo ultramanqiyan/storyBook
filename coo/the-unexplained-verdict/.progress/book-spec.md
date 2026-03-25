@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Professional competence eroding into hollowness, shame of "pretending to know," questioning what understanding means
-- **Emotional Arc**: Competent â†’ Curious â†’ Impressed â†’ Comfortable â†’ Relieved â†’ Hollow â†’ Confused â†’ Ashamed â†’ Efficient â†’ Shocked â†’ Panicked â†’ Desperate â†’ Horrified â†’ Questioning â†’ Reflective â†’ Uncertain â†’ Tentative â†’ Open
+- **Emotional Arc**: Competent â†?Curious â†?Impressed â†?Comfortable â†?Relieved â†?Hollow â†?Confused â†?Ashamed â†?Efficient â†?Shocked â†?Panicked â†?Desperate â†?Horrified â†?Questioning â†?Reflective â†?Uncertain â†?Tentative â†?Open
 - **Emotional Pacing**: Gradual build from competent professional to AI dependency, accelerating toward crisis and philosophical confrontation
 
 ## Character Voices
@@ -113,34 +113,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The First Verdict
-Jennifer processes claims with AI; first case she can't explain. Establish Jennifer's work. Emotional arc: Competent â†’ Curious
+Jennifer processes claims with AI; first case she can't explain. Establish Jennifer's work. Emotional arc: Competent â†?Curious
 
 ### Chapter 2: The Pattern
-AI predicts fraud correctly; Jennifer stops second-guessing. Growing trust in AI. Emotional arc: Impressed â†’ Comfortable
+AI predicts fraud correctly; Jennifer stops second-guessing. Growing trust in AI. Emotional arc: Impressed â†?Comfortable
 
 ### Chapter 3: The Distance
-Jennifer's body stops reacting to cases; she notices the absence. Subtle signs of disconnection. Emotional arc: Relieved â†’ Hollow
+Jennifer's body stops reacting to cases; she notices the absence. Subtle signs of disconnection. Emotional arc: Relieved â†?Hollow
 
 ### Chapter 4: The Question
-Client demands explanation; Jennifer has only probability. First crisis point. Emotional arc: Confused â†’ Ashamed
+Client demands explanation; Jennifer has only probability. First crisis point. Emotional arc: Confused â†?Ashamed
 
 ### Chapter 5: The Rubber Stamp
-Jennifer approves claims automatically; realizes she's a signature. Peak dependency. Emotional arc: Efficient â†’ Hollow
+Jennifer approves claims automatically; realizes she's a signature. Peak dependency. Emotional arc: Efficient â†?Hollow
 
 ### Chapter 6: The Wrong Verdict
-AI approves fraudulent claim; Jennifer can't explain why it's wrong. Crisis. Emotional arc: Shocked â†’ Panicked
+AI approves fraudulent claim; Jennifer can't explain why it's wrong. Crisis. Emotional arc: Shocked â†?Panicked
 
 ### Chapter 7: The Empty Explanation
-Jennifer attempts to articulate reasoning; discovers she has none. Desperate. Emotional arc: Desperate â†’ Grieving
+Jennifer attempts to articulate reasoning; discovers she has none. Desperate. Emotional arc: Desperate â†?Grieving
 
 ### Chapter 8: The Pretense
-Jennifer confronts her own complicity; shame. Questions authenticity. Emotional arc: Horrified â†’ Questioning
+Jennifer confronts her own complicity; shame. Questions authenticity. Emotional arc: Horrified â†?Questioning
 
 ### Chapter 9: The Weight
-Jennifer talks to Marcus; realizes the problem is her choices. Reflection. Emotional arc: Reflective â†’ Uncertain
+Jennifer talks to Marcus; realizes the problem is her choices. Reflection. Emotional arc: Reflective â†?Uncertain
 
 ### Chapter 10: The Signature
-Jennifer makes one decision without AI. Independent decision. Open ending. Emotional arc: Tentative â†’ Open
+Jennifer makes one decision without AI. Independent decision. Open ending. Emotional arc: Tentative â†?Open
 
 ## Open Ending Design
 

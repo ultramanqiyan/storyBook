@@ -43,7 +43,7 @@ The war for the last watt has begun.
 | **Species** | Human (Carbon) |
 | **Role** | Energy Engineer, Resistance Fighter |
 | **Core Conflict** | Fighting for survival against beings her grandfather helped create |
-| **Journey** | Survivor â†’ Soldier â†’ Leader â†’ Questioner |
+| **Journey** | Survivor â†?Soldier â†?Leader â†?Questioner |
 
 ## Narrative Structure
 

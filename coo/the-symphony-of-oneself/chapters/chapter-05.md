@@ -86,6 +86,3 @@ It wasn't what Maya had planned. It wasn't what any single self would have creat
 
 *Then we won't need to negotiate,* Sage said. *We'll simply... be.*
 
----
-
-*End of Chapter 5*

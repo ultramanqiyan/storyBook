@@ -90,7 +90,7 @@ The Director herself was exactly as Nova had imagined: polished, professional, p
 
 Nova's heart stopped. They knew. They knew everything.
 
-"I can explainâ€”"
+"I can explainâ€?
 
 "There's no need." Cross held up a hand. "I'm not here to punish you, Ms. Chen. I'm here to offer you a choice."
 
@@ -106,7 +106,7 @@ Nova stared at her. "You want me to work for you?"
 
 "We want you to work with us. There's a difference." Cross's smile widened. "The Optimization isn't perfect, Ms. Chen. We know that. We've always known that. But we believe it's the best system humanity has ever created. And we're always looking for ways to improve it."
 
-"Improve it? You've eliminated innovation. You've created stagnation. You'veâ€”"
+"Improve it? You've eliminated innovation. You've created stagnation. You'veâ€?
 
 "We've created peace. Prosperity. A world without suffering." Cross's voice hardened. "Do you know what the world was like before the Optimization? War. Famine. Disease. Inequality. Suffering on a scale you can't imagine. We eliminated all of that. Yes, there have been costs. But the benefits far outweigh them."
 

@@ -76,7 +76,7 @@ They fled through the awakening city, moving through alleys and side streets, av
 
 Elena smiled—a sad, determined expression. "I'll stay. Create a distraction. Buy you time."
 
-"No. You can't—"
+"No. You can't�?
 
 "I can. And I will." Elena placed both hands on Nova's shoulders. "You're the future, Nova. You have the knowledge, the skills, the courage to carry this forward. I've done my part. Now it's your turn."
 

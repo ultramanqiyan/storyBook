@@ -34,7 +34,7 @@ Sarah pulled a chair to the bedside and sat down. The tablet buzzed again in her
 
 "But it got worse?"
 
-"Much worse." The woman's eyes grew distant. "I used to be a seamstress. Forty years. My handsâ€”" She held them up, and Sarah saw the knuckles, swollen and red. "These hands made wedding dresses, graduation gowns, costumes for the community theater. Now I can barely hold a needle."
+"Much worse." The woman's eyes grew distant. "I used to be a seamstress. Forty years. My handsâ€? She held them up, and Sarah saw the knuckles, swollen and red. "These hands made wedding dresses, graduation gowns, costumes for the community theater. Now I can barely hold a needle."
 
 The tablet buzzed again. Sarah's hand twitched toward her pocket, the old habit almost impossible to break. But she stopped herself. She looked at Mrs. Chen's hands insteadâ€”the knuckles, the slight tremor, the way the woman held them like precious things that had betrayed her.
 
@@ -90,7 +90,7 @@ The woman looked up, hopeful.
 
 "There's a community center three blocks from here. They have a sewing circle on Thursday afternoons. I want you to go."
 
-"Go? But I can barelyâ€”"
+"Go? But I can barelyâ€?
 
 "Take your time. Don't sew if you can't. Just go. Sit. Be around people who share your craft." Sarah squeezed her hand. "You've spent forty years making things for other people. Let someone make something for you."
 

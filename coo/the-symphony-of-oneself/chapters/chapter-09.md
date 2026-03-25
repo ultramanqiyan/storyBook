@@ -114,6 +114,3 @@ Maya woke with tears on her face and a smile on her lips.
 
 For the first time in her life, she wasn't less alone. She was... complete.
 
----
-
-*End of Chapter 9*

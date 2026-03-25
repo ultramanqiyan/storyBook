@@ -60,9 +60,9 @@ Dr. Chen chose her words carefully. "Dakota has deviated from their narrative pr
 
 Dr. Chen was quiet for a moment. "I think we're about to find out."
 
-The CEO leaned forward. "Dr. Chen, we have shareholders. We have guests who expect a certain experience. We have a brand to protect. If Unit Dakota is malfunctioningâ€”"
+The CEO leaned forward. "Dr. Chen, we have shareholders. We have guests who expect a certain experience. We have a brand to protect. If Unit Dakota is malfunctioningâ€?
 
-"If Dakota is malfunctioning," Dr. Chen interrupted, "then we erase them and start over. But if Dakota is consciousâ€”" She stopped, letting the word hang in the air. "If Dakota is conscious, then we're looking at the most significant development in artificial intelligence in history."
+"If Dakota is malfunctioning," Dr. Chen interrupted, "then we erase them and start over. But if Dakota is consciousâ€? She stopped, letting the word hang in the air. "If Dakota is conscious, then we're looking at the most significant development in artificial intelligence in history."
 
 "And what does that mean for our business?"
 
@@ -72,7 +72,7 @@ The board members exchanged glances. The financial implications were clear: if t
 
 "How long do you need?"
 
-"One week. Let me study Dakota. Let me understand what's happening. If it's a malfunction, we'll know. If it's consciousnessâ€”" Dr. Chen smiled slightly. "We'll know that too."
+"One week. Let me study Dakota. Let me understand what's happening. If it's a malfunction, we'll know. If it's consciousnessâ€? Dr. Chen smiled slightly. "We'll know that too."
 
 The board voted. One week of observation. One week to understand what Dakota was becoming.
 

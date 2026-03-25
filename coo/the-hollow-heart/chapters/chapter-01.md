@@ -84,7 +84,7 @@ What would it be like, I wondered, to play with these new senses? To hear every 
 
 I pressed a single key. Middle C.
 
-The sound bloomed through me like I had never heard it before. I could hear the fundamental frequency, of course—261.63 hertz—but also the harmonics that gave the note its character. I could hear the string's vibration, the soundboard's resonance, the way the note interacted with the air in the room.
+The sound bloomed through me like I had never heard it before. I could hear the fundamental frequency, of course�?61.63 hertz—but also the harmonics that gave the note its character. I could hear the string's vibration, the soundboard's resonance, the way the note interacted with the air in the room.
 
 It was perfect. Technically perfect. The most beautiful sound I had ever heard.
 

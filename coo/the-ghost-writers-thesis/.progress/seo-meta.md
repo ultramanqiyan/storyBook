@@ -234,15 +234,15 @@ Elena asks her first truly original questionâ€”a question no AI suggested, no al
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (discovery made)
-**Chapter 2** â†’ Chapter 3 (investigation)
-**Chapter 3** â†’ Chapter 4 (mentor confrontation)
-**Chapter 4** â†’ Chapter 5 (self-testing)
-**Chapter 5** â†’ Chapter 6 (committee pressure)
-**Chapter 6** â†’ Chapter 7 (truth revelation)
-**Chapter 7** â†’ Chapter 8 (decision point)
-**Chapter 8** â†’ Chapter 9 (struggle begins)
-**Chapter 9** â†’ Chapter 10 (resolution)
+**Chapter 1** â†?Chapter 2 (discovery made)
+**Chapter 2** â†?Chapter 3 (investigation)
+**Chapter 3** â†?Chapter 4 (mentor confrontation)
+**Chapter 4** â†?Chapter 5 (self-testing)
+**Chapter 5** â†?Chapter 6 (committee pressure)
+**Chapter 6** â†?Chapter 7 (truth revelation)
+**Chapter 7** â†?Chapter 8 (decision point)
+**Chapter 8** â†?Chapter 9 (struggle begins)
+**Chapter 9** â†?Chapter 10 (resolution)
 
 ### Thematic Cluster Links
 

@@ -48,6 +48,3 @@ James saved the case and moved to the next one.
 
 But the shadow stayed in his mind.
 
----
-
-*End of Chapter 1*

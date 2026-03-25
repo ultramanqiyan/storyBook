@@ -235,15 +235,15 @@ Maya discovers something she genuinely wants to learnâ€”not because the system r
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (system glitch)
-**Chapter 2** â†’ Chapter 3 (identity crisis)
-**Chapter 3** â†’ Chapter 4 (historical discovery)
-**Chapter 4** â†’ Chapter 5 (self-testing)
-**Chapter 5** â†’ Chapter 6 (failure recognition)
-**Chapter 6** â†’ Chapter 7 (truth revelation)
-**Chapter 7** â†’ Chapter 8 (decision point)
-**Chapter 8** â†’ Chapter 9 (struggle begins)
-**Chapter 9** â†’ Chapter 10 (resolution)
+**Chapter 1** â†?Chapter 2 (system glitch)
+**Chapter 2** â†?Chapter 3 (identity crisis)
+**Chapter 3** â†?Chapter 4 (historical discovery)
+**Chapter 4** â†?Chapter 5 (self-testing)
+**Chapter 5** â†?Chapter 6 (failure recognition)
+**Chapter 6** â†?Chapter 7 (truth revelation)
+**Chapter 7** â†?Chapter 8 (decision point)
+**Chapter 8** â†?Chapter 9 (struggle begins)
+**Chapter 9** â†?Chapter 10 (resolution)
 
 ### Thematic Cluster Links
 

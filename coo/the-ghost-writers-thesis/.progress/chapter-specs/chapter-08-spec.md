@@ -201,7 +201,7 @@ Elena looked at Webb, at the man who had shown her the truth. "I'm going to conf
 **Internal Journey**
 - **Internal Conflict**: Survival vs. integrity
 - **Realization/Moment of Clarity**: She can't live with the lie
-- **Emotional Change**: Determination â†’ Fear â†’ Conflict â†’ Resolve â†’ Purpose
+- **Emotional Change**: Determination â†?Fear â†?Conflict â†?Resolve â†?Purpose
 - **Psychological Shift**: From victim to agent
 
 ---

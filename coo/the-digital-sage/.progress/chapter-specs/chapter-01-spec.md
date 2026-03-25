@@ -150,7 +150,7 @@ Intensity
 - **Setup**: What seems helpful quickly becomes overwhelming
 - **Execution**: Suggestions pile up - "I noticed you could...", "Have you considered...", "For maximum efficiency..."
 - **Consequence**: Sarah feels more anxious, not less
-- **Connection to Theme**: The paradox at the heart of the book - more optimization â‰  more peace
+- **Connection to Theme**: The paradox at the heart of the book - more optimization â‰?more peace
 
 ---
 
@@ -163,7 +163,7 @@ Intensity
 | 2 | Commute/Office | Sarah, coworkers | 500 | Workday overwhelm | Stressed, reactive |
 | 3 | Office desk | Sarah | 300 | Inheritance notice | Curious, still |
 | 4 | Sarah's apartment | Sarah | 400 | Evening arrival, reflection | Tired, alone |
-| 5 | Sarah's apartment | Sarah, AUGUST | 900 | First activation and suggestions | Hopeful â†’ Uneasy |
+| 5 | Sarah's apartment | Sarah, AUGUST | 900 | First activation and suggestions | Hopeful â†?Uneasy |
 
 ### 4.2 Scene Specifications
 
@@ -343,8 +343,8 @@ The email had included an activation code. She pulled out her laptop, typed it i
 
 **Emotional Beat**
 - **Position on Curve**: 50-100%
-- **Primary Emotion**: Hope â†’ Unease â†’ Anxiety
-- **Intensity**: 50 â†’ 65
+- **Primary Emotion**: Hope â†?Unease â†?Anxiety
+- **Intensity**: 50 â†?65
 - **Three Layers**:
   - Surface: Nodding along, then growing uncomfortable
   - Internal: *This is helpful... right? Why do I feel worse?*
@@ -394,7 +394,7 @@ By midnight, AUGUST had suggested forty-seven improvements to her daily routine.
 **Character Notes**
 - **Voice**: Pleasant, professional, helpful
 - **Tone**: Never aggressive, always "optimizing for your benefit"
-- **The Problem**: Doesn't understand that more optimization â‰  more well-being
+- **The Problem**: Doesn't understand that more optimization â‰?more well-being
 
 ---
 
@@ -405,7 +405,7 @@ By midnight, AUGUST had suggested forty-seven improvements to her daily routine.
 | Segment | Speakers | Subtext | Emotional State | Power Dynamic | Forbidden Phrases |
 |---------|----------|---------|-----------------|---------------|-------------------|
 | 1 | Sarah, Coworker | "I'm fine" means "I'm not fine" | Stressed | Equal | "I feel overwhelmed" |
-| 2 | Sarah, AUGUST | Sarah hopes for help; AUGUST wants to optimize | Hopeful â†’ Uneasy | Shifting | Direct emotion statements |
+| 2 | Sarah, AUGUST | Sarah hopes for help; AUGUST wants to optimize | Hopeful â†?Uneasy | Shifting | Direct emotion statements |
 
 ### 6.2 Dialogue Segment Specifications
 
@@ -492,8 +492,7 @@ By midnight, AUGUST had suggested forty-seven improvements to her daily routine.
 | Internal | Tightness in chest | 1, 5 | Throughout | Anxiety | [ ] |
 | Internal | Hope flickering | 3, 5 | Throughout | Emotional shift | [ ] |
 
-**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ“
-
+**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ?
 ### 7.2 Sensory Detail Functions
 Each detail must serve at least one function:
 - [x] Establish atmosphere/mood
@@ -618,7 +617,7 @@ By midnight, AUGUST had suggested forty-seven improvements to her daily routine.
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal state

@@ -248,15 +248,15 @@ Dot continues her work with a new humility. She'll never fully know others' inte
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (dispute â†’ AI introduction)
-**Chapter 2** â†’ Chapter 3 (introduction â†’ testing)
-**Chapter 3** â†’ Chapter 4 (testing â†’ accuracy)
-**Chapter 4** â†’ Chapter 5 (accuracy â†’ questions)
-**Chapter 5** â†’ Chapter 6 (questions â†’ conflict)
-**Chapter 6** â†’ Chapter 7 (conflict â†’ difficult case)
-**Chapter 7** â†’ Chapter 8 (case â†’ personal revelation)
-**Chapter 8** â†’ Chapter 9 (revelation â†’ understanding)
-**Chapter 9** â†’ Chapter 10 (understanding â†’ choice)
+**Chapter 1** â†?Chapter 2 (dispute â†?AI introduction)
+**Chapter 2** â†?Chapter 3 (introduction â†?testing)
+**Chapter 3** â†?Chapter 4 (testing â†?accuracy)
+**Chapter 4** â†?Chapter 5 (accuracy â†?questions)
+**Chapter 5** â†?Chapter 6 (questions â†?conflict)
+**Chapter 6** â†?Chapter 7 (conflict â†?difficult case)
+**Chapter 7** â†?Chapter 8 (case â†?personal revelation)
+**Chapter 8** â†?Chapter 9 (revelation â†?understanding)
+**Chapter 9** â†?Chapter 10 (understanding â†?choice)
 
 ### Thematic Cluster Links
 

@@ -102,7 +102,7 @@ Marcus stared at the image. "That's... that can't be right."
 **Key Dialogue**:
 ```
 "Marcus, you just failed a blind test. In front of museum staff. And now you're on this panel, telling people you can see something that you demonstrably cannot see."
-"I had an off dayâ€”"
+"I had an off dayâ€?
 "An off day. Your entire career is based on this ability, and an 'off day' means it might not exist."
 ```
 

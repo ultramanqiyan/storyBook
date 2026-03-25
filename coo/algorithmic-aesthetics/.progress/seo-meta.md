@@ -234,15 +234,15 @@ Six months later, Sofia has integrated AI tools into her practice while preservi
 ## Internal Linking Strategy
 
 ### Chapter-to-Chapter Links
-**Chapter 1** â†’ Chapter 2 (AI introduction)
-**Chapter 2** â†’ Chapter 3 (comparison test setup)
-**Chapter 3** â†’ Chapter 4 (client reaction)
-**Chapter 4** â†’ Chapter 5 (deeper questions)
-**Chapter 5** â†’ Chapter 6 (blind test)
-**Chapter 6** â†’ Chapter 7 (crisis)
-**Chapter 7** â†’ Chapter 8 (research)
-**Chapter 8** â†’ Chapter 9 (new approach)
-**Chapter 9** â†’ Chapter 10 (resolution)
+**Chapter 1** â†?Chapter 2 (AI introduction)
+**Chapter 2** â†?Chapter 3 (comparison test setup)
+**Chapter 3** â†?Chapter 4 (client reaction)
+**Chapter 4** â†?Chapter 5 (deeper questions)
+**Chapter 5** â†?Chapter 6 (blind test)
+**Chapter 6** â†?Chapter 7 (crisis)
+**Chapter 7** â†?Chapter 8 (research)
+**Chapter 8** â†?Chapter 9 (new approach)
+**Chapter 9** â†?Chapter 10 (resolution)
 
 ### Thematic Cluster Links
 - Links to other philosophical fiction books

@@ -17,7 +17,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Discovery, Conflict, Harmony, Integration, Acceptance
-- **Emotional Arc**: Fragmentation â†’ Discovery â†’ Conflict â†’ Negotiation â†’ Integration â†’ Harmony
+- **Emotional Arc**: Fragmentation â†?Discovery â†?Conflict â†?Negotiation â†?Integration â†?Harmony
 - **Emotional Pacing**: Building toward orchestral harmony
 
 ## Character Voices
@@ -120,16 +120,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Confusion (50/100) | Discovery (70/100) | Voices â†’ Realization |
-| 2 | Discovery (65/100) | Fear (45/100) | Understanding â†’ Anxiety |
-| 3 | Fear (40/100) | Conflict (30/100) | Conflict emerges â†’ Tension |
-| 4 | Conflict (25/100) | Understanding (55/100) | Memories â†’ Insight |
-| 5 | Understanding (50/100) | Hope (60/100) | Negotiation â†’ Progress |
-| 6 | Hope (55/100) | Pain (35/100) | Wounds revealed â†’ Grief |
-| 7 | Pain (30/100) | Acceptance (65/100) | Acceptance â†’ Healing |
-| 8 | Acceptance (60/100) | Transformation (75/100) | Integration â†’ Change |
-| 9 | Transformation (70/100) | Harmony (85/100) | Harmony â†’ Symphony |
-| 10 | Harmony (80/100) | Peace (95/100) | Completion â†’ Wholeness |
+| 1 | Confusion (50/100) | Discovery (70/100) | Voices â†?Realization |
+| 2 | Discovery (65/100) | Fear (45/100) | Understanding â†?Anxiety |
+| 3 | Fear (40/100) | Conflict (30/100) | Conflict emerges â†?Tension |
+| 4 | Conflict (25/100) | Understanding (55/100) | Memories â†?Insight |
+| 5 | Understanding (50/100) | Hope (60/100) | Negotiation â†?Progress |
+| 6 | Hope (55/100) | Pain (35/100) | Wounds revealed â†?Grief |
+| 7 | Pain (30/100) | Acceptance (65/100) | Acceptance â†?Healing |
+| 8 | Acceptance (60/100) | Transformation (75/100) | Integration â†?Change |
+| 9 | Transformation (70/100) | Harmony (85/100) | Harmony â†?Symphony |
+| 10 | Harmony (80/100) | Peace (95/100) | Completion â†?Wholeness |
 
 ## Prohibited Elements
 

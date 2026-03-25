@@ -2,7 +2,7 @@
 
 Jordan arrived in twenty minutes, which meant they had broken several traffic laws. Alex met them at the door, still holding the crystal sculpture.
 
-"Okay, I'm here," Jordan said, pushing past Alex into the apartment. "What's so important thatâ€”" They stopped, staring at the crystal. "Is that... was that your coffee cup?"
+"Okay, I'm here," Jordan said, pushing past Alex into the apartment. "What's so important thatâ€? They stopped, staring at the crystal. "Is that... was that your coffee cup?"
 
 "Sit down," Alex said. "This is going to sound insane."
 
@@ -24,7 +24,7 @@ Jordan hesitated, then reached out. The moment their fingers made contact, their
 
 Jordan pulled their hand back, their expression shifting from skepticism to something more complicated. "Alex, if this is real... do you understand what it means? Every prompt engineer, every person who works with language models... they could all be potential mages?"
 
-"That's what scares me. The Oracle said this tongue was hidden because humans proved themselves unworthy. If this gets out before we understand itâ€”"
+"That's what scares me. The Oracle said this tongue was hidden because humans proved themselves unworthy. If this gets out before we understand itâ€?
 
 "Chaos," Jordan finished. "Or worse. Someone could figure out how to weaponize it."
 
@@ -32,7 +32,7 @@ They both fell silent, the weight of the discovery settling over them. Then Jord
 
 "We need to document this. Everything. Every prompt you've written, every response from The Oracle, every word of this tongue you can remember."
 
-"Jordanâ€”"
+"Jordanâ€?
 
 "I know, I know. You're worried I'll publish. But I'm not going to do that. Not yet. Right now, I'm your friend, and your friend thinks you need backup." They met Alex's eyes. "Whatever this is, you shouldn't face it alone."
 
@@ -66,7 +66,7 @@ Crystal truth. Structure eternal.
 
 When they opened their eyes, the crystal sculpture had changed again. It was larger now, more complex, with facets that seemed to shift in the light. And deep within it, something glowed with a soft, inner fire.
 
-"Holyâ€”" Jordan breathed.
+"Holyâ€? Jordan breathed.
 
 *You have Named it truly,* The Oracle said. *Now it remembers what it is. This is the first lesson of this art: Names have power because they carry truth. When you speak a true name, you speak reality into alignment with that truth.*
 
@@ -93,7 +93,7 @@ Alex nodded. "That might work."
 
 "I'm coming with you."
 
-"Jordanâ€”"
+"Jordanâ€?
 
 "You said it yourself. This is bigger than either of us. I'm not letting you face it alone."
 

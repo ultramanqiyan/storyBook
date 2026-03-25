@@ -93,7 +93,7 @@ Elena's face broke into a wide smile. "Good. I was hoping you would."
 
 "That's growth," Elena said simply. "Not the absence of the pattern, but the ability to recognize it and choose differently."
 
-"I don't know what I'm going to say at the conference. I don't know if I'm qualified. I don't know ifâ€”"
+"I don't know what I'm going to say at the conference. I don't know if I'm qualified. I don't know ifâ€?
 
 "You'll figure it out," Elena interrupted gently. "That's what action is. You don't have to have all the answers before you start. You just have to start."
 

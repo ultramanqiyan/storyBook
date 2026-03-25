@@ -79,7 +79,7 @@ The third spell cost Elara the memory of her mother's face. She felt it goâ€”a s
 ## 6. Quality Verification Checklist
 
 - [ ] Emotional curve matches specification
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Hollow King is terrifying but seductive
 

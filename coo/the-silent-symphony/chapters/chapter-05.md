@@ -38,7 +38,7 @@ They sat in silence for a while, the hospital room filled with the soft beeping 
 
 "Don't destroy yourself trying to save me."
 
-Elena's throat tightened. "Sarah—"
+Elena's throat tightened. "Sarah�?
 
 "I mean it." Sarah squeezed her hand with what little strength she had left. "I've seen what this is doing to you. The research, the fighting, the... whatever it is you're doing with these underground scientists. It's consuming you."
 
@@ -46,7 +46,7 @@ Elena's throat tightened. "Sarah—"
 
 "I know. And I love you for it. But I need you to understand something." Sarah's eyes were clear, focused, despite her failing body. "I'm not afraid of dying. I mean, I am—a little. Everyone is. But I'm more afraid of what will happen to you if you keep fighting a battle you can't win."
 
-"It's not a battle I can't win. The research exists. The treatments are possible. We just need—"
+"It's not a battle I can't win. The research exists. The treatments are possible. We just need�?
 
 "Time," Sarah finished. "We need time. And that's the one thing we don't have."
 

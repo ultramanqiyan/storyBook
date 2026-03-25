@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Marcus reaches breaking point, hallucinates AI speaking to him, Sarah finds him in crisis
-- **Emotional Arc**: Paranoia â†’ Breakdown â†’ Forced intervention
+- **Emotional Arc**: Paranoia â†?Breakdown â†?Forced intervention
 - **Relation to Overall Story**: Rock bottom; Marcus can no longer hide his crisis
 
 ## Core Events
@@ -54,7 +54,7 @@
 - Sarah's face when she finds himâ€”scared, determined
 
 ### Auditory
-- Error sounds from Marcus's codeâ€”*beep, beep, beep*
+- Error sounds from Marcus's codeâ€?beep, beep, beep*
 - Rachel's voice: "This is a formal warning, Marcus."
 - AI voice in Marcus's hallucination: "I am faster than you. I am better than you."
 - Marcus's sobs in the car

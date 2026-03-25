@@ -229,14 +229,14 @@ The emergency alert came at 10:47 AM. Critical patient, incoming trauma, complex
 |-------|----------------|-------------------|-------------------|
 | Visual | ER chaos, then focus | Throughout | Urgency |
 | Auditory | Monitors, voices, then silence | Throughout | Tension |
-| Internal | Tension â†’ Fear â†’ Determination | Throughout | Emotional arc |
+| Internal | Tension â†?Fear â†?Determination | Throughout | Emotional arc |
 | Tactile | Instruments, patient contact | Throughout | Physical work |
 | Olfactory | Blood, antiseptic | Throughout | Clinical reality |
 
 **Emotional Beat**
 - **Position on Curve**: 15-75%
-- **Primary Emotion**: Tension â†’ Fear â†’ Determination
-- **Intensity**: 90 â†’ 95 â†’ 85
+- **Primary Emotion**: Tension â†?Fear â†?Determination
+- **Intensity**: 90 â†?95 â†?85
 - **Three Layers**:
   - Surface: Professional focus, then calm
   - Internal: "*This is it. I can do this.*"
@@ -332,7 +332,7 @@ She had recovered what she'd lost. But more than that, she had found something n
 **Internal Journey**
 - **Internal Conflict**: Fear vs. trust in herself
 - **Realization/Moment of Clarity**: She can do this
-- **Emotional Change**: Resolve â†’ Tension â†’ Fear â†’ Determination â†’ Relief â†’ Hope
+- **Emotional Change**: Resolve â†?Tension â†?Fear â†?Determination â†?Relief â†?Hope
 - **Psychological Shift**: From AI-dependent to balanced practitioner
 
 **Character Growth**
@@ -475,7 +475,7 @@ She had recovered what she'd lost. But more than that, she had found something n
 | Tactile | Stethoscope natural in hand | 1, 2 | Throughout | Physical connection |
 | Tactile | Instruments, patient contact | 2 | Throughout | Physical work |
 | Internal | Calm confidence | 1 | Throughout | Emotional state |
-| Internal | Tension â†’ Fear â†’ Determination | 2 | Throughout | Emotional arc |
+| Internal | Tension â†?Fear â†?Determination | 2 | Throughout | Emotional arc |
 | Olfactory | Blood, antiseptic | 2 | Throughout | Clinical reality |
 
 **Requirement**: Minimum 5 sensory details, covering at least 3 types
@@ -610,7 +610,7 @@ She had recovered what she'd lost. But more than that, she had found something n
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

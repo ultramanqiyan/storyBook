@@ -102,6 +102,3 @@ He still didn't know what to do. But at least he understood the question now.
 
 *What do I want to become true?*
 
----
-
-*End of Chapter 7*

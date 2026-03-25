@@ -35,8 +35,8 @@
 | Closing | Determination (65) | Medium | 200 words |
 
 ### 2.2 Emotional Transitions
-- Understanding â†’ Fear: Confronting what must be sacrificed
-- Fear â†’ Determination: Accepting the cost and committing
+- Understanding â†?Fear: Confronting what must be sacrificed
+- Fear â†?Determination: Accepting the cost and committing
 
 ---
 

@@ -35,8 +35,8 @@
 | Closing | Progress (55) | Medium | 200 words |
 
 ### 2.2 Emotional Transitions
-- Determination â†’ Struggle: The reality of focus is harder than the decision
-- Struggle â†’ Progress: Small wins begin to accumulate
+- Determination â†?Struggle: The reality of focus is harder than the decision
+- Struggle â†?Progress: Small wins begin to accumulate
 
 ---
 

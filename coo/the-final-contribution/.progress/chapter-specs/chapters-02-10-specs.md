@@ -17,7 +17,7 @@
 ### Emotional Arc
 | Start | End | Key Beats |
 |-------|-----|-----------|
-| Contentment (72/100) | Unease (60/100) | The announcement â†’ Colleagues leaving â†’ First fear |
+| Contentment (72/100) | Unease (60/100) | The announcement â†?Colleagues leaving â†?First fear |
 
 ### Core Events
 1. Company announces AI integration initiative
@@ -56,7 +56,7 @@ Robert walked to his car, the empty parking spaces beside him like missing teeth
 ### Emotional Arc
 | Start | End | Key Beats |
 |-------|-----|-----------|
-| Unease (55/100) | Anxiety (45/100) | Investigation â†’ Calculation â†’ Horror |
+| Unease (55/100) | Anxiety (45/100) | Investigation â†?Calculation â†?Horror |
 
 ### Core Events
 1. Robert begins researching the pension system's health
@@ -95,7 +95,7 @@ The calculation was complete. The question was no longer whether the system woul
 ### Emotional Arc
 | Start | End | Key Beats |
 |-------|-----|-----------|
-| Anxiety (50/100) | Guilt (35/100) | Visit to David â†’ His story â†’ Shame |
+| Anxiety (50/100) | Guilt (35/100) | Visit to David â†?His story â†?Shame |
 
 ### Core Events
 1. Robert visits his son David
@@ -134,7 +134,7 @@ Robert drove home in silence. His son's face kept appearing in his mind, younger
 ### Emotional Arc
 | Start | End | Key Beats |
 |-------|-----|-----------|
-| Guilt (40/100) | Conflict (30/100) | HR meeting â†’ The offer â†’ Moral paralysis |
+| Guilt (40/100) | Conflict (30/100) | HR meeting â†?The offer â†?Moral paralysis |
 
 ### Core Events
 1. Robert is called to HR for an "early retirement opportunity"
@@ -173,7 +173,7 @@ Robert walked out of the building, the folder under his arm. He had three days t
 ### Emotional Arc
 | Start | End | Key Beats |
 |-------|-----|-----------|
-| Conflict (35/100) | Despair (25/100) | Weighing options â†’ No good answer â†’ Paralysis |
+| Conflict (35/100) | Despair (25/100) | Weighing options â†?No good answer â†?Paralysis |
 
 ### Core Events
 1. Robert creates a list: reasons to take, reasons to refuse
@@ -212,7 +212,7 @@ He set down the pen. The list was complete. He knew what he had to do. He just d
 ### Emotional Arc
 | Start | End | Key Beats |
 |-------|-----|-----------|
-| Despair (30/100) | Nostalgia (50/100) | Memories â†’ Bittersweet â†’ Understanding |
+| Despair (30/100) | Nostalgia (50/100) | Memories â†?Bittersweet â†?Understanding |
 
 ### Core Events
 1. Robert returns to his old office, now half-empty
@@ -251,7 +251,7 @@ He walked out of the building for what might be the last time. But he was beginn
 ### Emotional Arc
 | Start | End | Key Beats |
 |-------|-----|-----------|
-| Nostalgia (45/100) | Crisis (20/100) | News â†’ Collapse â†’ Rock bottom |
+| Nostalgia (45/100) | Crisis (20/100) | News â†?Collapse â†?Rock bottom |
 
 ### Core Events
 1. Breaking news: major pension fund announces insolvency
@@ -290,7 +290,7 @@ The system had failed. The question now was: what would he do about it?
 ### Emotional Arc
 | Start | End | Key Beats |
 |-------|-----|-----------|
-| Crisis (25/100) | Resolve (70/100) | Decision â†’ Action â†’ Clarity |
+| Crisis (25/100) | Resolve (70/100) | Decision â†?Action â†?Clarity |
 
 ### Core Events
 1. Robert makes his decision: he will not take the early retirement
@@ -329,7 +329,7 @@ He walked out of the building, unsure of what came next. But for the first time 
 ### Emotional Arc
 | Start | End | Key Beats |
 |-------|-----|-----------|
-| Resolve (65/100) | Acceptance (60/100) | Aftermath â†’ Reflection â†’ Peace |
+| Resolve (65/100) | Acceptance (60/100) | Aftermath â†?Reflection â†?Peace |
 
 ### Core Events
 1. Robert's letter goes viral, sparking conversations about intergenerational justice
@@ -379,7 +379,7 @@ Robert sat on his porch, watching the sunset. He didn't know what came next. But
 ### For All Chapters
 - [ ] Emotional arc matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext
 - [ ] Three-layer emotional depth present

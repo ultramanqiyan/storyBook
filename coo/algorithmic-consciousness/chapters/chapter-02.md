@@ -120,8 +120,7 @@ Rosa had asked ARIA-7 to perform a simple exercise: show the progression from co
 
 The avatar started in a neutral state—calm, relaxed. Then the worry appeared: a slight furrow between the brows, a tension in the jaw, a shift in the breathing pattern. And then the fear: the eyes widening, the shoulders drawing up, the body leaning slightly backward as if pulling away from something.
 
-It was good. Better than good. It was the kind of performance Rosa would have praised in a talented student. And yet—
-
+It was good. Better than good. It was the kind of performance Rosa would have praised in a talented student. And yet�?
 "Wait," Rosa said. "Go back to the worry."
 
 The avatar returned to the worried expression.

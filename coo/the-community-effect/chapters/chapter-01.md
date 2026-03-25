@@ -4,7 +4,7 @@ The notification pinged at 6:47 AM.
 
 Maya rolled over in bed and grabbed her phone, squinting at the screen. A client email. "Love the initial concepts! Let's schedule a call to discuss next steps."
 
-She typed back a quick response—"Sounds great, I'll send over some times this afternoon"—and set the phone down. Then she stared at the ceiling, listening to the silence of her apartment.
+She typed back a quick response�?Sounds great, I'll send over some times this afternoon"—and set the phone down. Then she stared at the ceiling, listening to the silence of her apartment.
 
 Another day. Another project. Another success that no one would celebrate.
 

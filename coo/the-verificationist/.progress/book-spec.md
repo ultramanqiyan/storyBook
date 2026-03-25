@@ -16,7 +16,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Curiosity, Doubt, Crisis, Realization, Acceptance
-- **Emotional Arc**: Certainty â†’ Doubt â†’ Crisis â†’ Understanding â†’ Acceptance
+- **Emotional Arc**: Certainty â†?Doubt â†?Crisis â†?Understanding â†?Acceptance
 - **Emotional Pacing**: Building tension toward philosophical revelation
 
 ## Character Voices
@@ -99,16 +99,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Confidence (85/100) | Curiosity (75/100) | Routine â†’ Anomaly |
-| 2 | Curiosity (70/100) | Concern (60/100) | Anomaly â†’ Doubt |
-| 3 | Concern (55/100) | Crisis (40/100) | Investigation â†’ Revelation |
-| 4 | Crisis (35/100) | Confusion (50/100) | Truth relative â†’ Questioning |
-| 5 | Confusion (45/100) | Acceptance (60/100) | Crisis â†’ Understanding |
-| 6 | Acceptance (55/100) | Peace (70/100) | Research â†’ Insight |
-| 7 | Peace (65/100) | Hope (75/100) | Understanding â†’ Hope |
-| 8 | Hope (70/100) | Clarity (80/100) | Perception â†’ Reality |
-| 9 | Clarity (75/100) | Resolve (85/100) | Choice â†’ Decision |
-| 10 | Resolve (80/100) | Peace (90/100) | Acceptance â†’ Future |
+| 1 | Confidence (85/100) | Curiosity (75/100) | Routine â†?Anomaly |
+| 2 | Curiosity (70/100) | Concern (60/100) | Anomaly â†?Doubt |
+| 3 | Concern (55/100) | Crisis (40/100) | Investigation â†?Revelation |
+| 4 | Crisis (35/100) | Confusion (50/100) | Truth relative â†?Questioning |
+| 5 | Confusion (45/100) | Acceptance (60/100) | Crisis â†?Understanding |
+| 6 | Acceptance (55/100) | Peace (70/100) | Research â†?Insight |
+| 7 | Peace (65/100) | Hope (75/100) | Understanding â†?Hope |
+| 8 | Hope (70/100) | Clarity (80/100) | Perception â†?Reality |
+| 9 | Clarity (75/100) | Resolve (85/100) | Choice â†?Decision |
+| 10 | Resolve (80/100) | Peace (90/100) | Acceptance â†?Future |
 
 ## Prohibited Elements
 

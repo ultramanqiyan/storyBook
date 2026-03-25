@@ -26,7 +26,7 @@
 - **Sentence Patterns**: Complex early, fragmented later
 - **Personality Traits**: Brilliant, isolated, driven, ultimately terrified
 - **Internal Monologue Style**: Scientific observation giving way to existential horror
-- **Unique Expressions**: "Subject shows..." â†’ "I show..." â†’ "Which one am I?"
+- **Unique Expressions**: "Subject shows..." â†?"I show..." â†?"Which one am I?"
 - **Speech Quirks**: Refers to herself in third person when confused
 - **Development Arc**: From proud scientist to horrified victim of her own creation
 
@@ -102,34 +102,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Discovery - Breakthrough or Nightmare
-Elena makes breakthrough in consciousness transfer. Pride. Emotional arc: Pride (60â†’75)
+Elena makes breakthrough in consciousness transfer. Pride. Emotional arc: Pride (60â†?5)
 
 ### Chapter 2: The Isolation - Genius and Loneliness
-Shows the isolation of genius at work. Elena alone in lab. Emotional arc: Excitement (70â†’55)
+Shows the isolation of genius at work. Elena alone in lab. Emotional arc: Excitement (70â†?5)
 
 ### Chapter 3: The Experiment - First Transfer
-First human test. Success! Emotional arc: Isolation (50â†’80)
+First human test. Success! Emotional arc: Isolation (50â†?0)
 
 ### Chapter 4: The Success - Too Perfect
-The copy is perfect. Too good. Building dread. Emotional arc: Triumph (75â†’65)
+The copy is perfect. Too good. Building dread. Emotional arc: Triumph (75â†?5)
 
 ### Chapter 5: The Doubt - Something Wrong
-Elena notices something off. Mystery. Emotional arc: Unease (60â†’45)
+Elena notices something off. Mystery. Emotional arc: Unease (60â†?5)
 
 ### Chapter 6: The Truth - What Was Transferred
-Learns truth - both think they're real. Revelation. Emotional arc: Fear (40â†’25)
+Learns truth - both think they're real. Revelation. Emotional arc: Fear (40â†?5)
 
 ### Chapter 7: The Horror - Identity Crisis
-Identity breaks. Which one is she? Thriller peak. Emotional arc: Horror (30â†’20)
+Identity breaks. Which one is she? Thriller peak. Emotional arc: Horror (30â†?0)
 
 ### Chapter 8: The Escape - Fighting Herself
-Tries to escape, fighting herself. Action climax. Emotional arc: Desperation (25â†’60)
+Tries to escape, fighting herself. Action climax. Emotional arc: Desperation (25â†?0)
 
 ### Chapter 9: The Choice - Human or Copy
-Must decide. The final choice. Moral dilemma. Emotional arc: Resolve (55â†’85)
+Must decide. The final choice. Moral dilemma. Emotional arc: Resolve (55â†?5)
 
 ### Chapter 10: The Silence - Which One Survived
-Open ending. Which one survived? Unknown. Emotional arc: Crisis (80â†’40)
+Open ending. Which one survived? Unknown. Emotional arc: Crisis (80â†?0)
 
 ## Open Ending Design
 

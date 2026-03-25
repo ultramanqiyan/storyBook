@@ -94,7 +94,7 @@ Chapters 9-10: Resolution and uncertainty (intensity 90-50)
 - **Sentence Patterns**: Short during stimulation; longer during reflection
 - **Personality Traits**: Intelligent, initially oblivious, increasingly determined
 - **Inner Monologue Style**: Notifications and algorithmic thoughts intruding
-- **Unique Expressions**: "Just one more scroll..." â†’ "I need to get out"
+- **Unique Expressions**: "Just one more scroll..." â†?"I need to get out"
 - **Speech Quirks**: References apps and algorithms in everyday speech
 
 ### Dr. Sarah Kim (Supporting)
@@ -205,16 +205,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Euphoria (80/100) | Unease (60/100) | The hit â†’ First doubt |
-| 2 | Unease (65/100) | Realization (50/100) | Pattern seen â†’ Trap recognized |
-| 3 | Realization (55/100) | Withdrawal (30/100) | Going offline â†’ Physical pain |
-| 4 | Withdrawal (35/100) | Determination (70/100) | Fighting back â†’ Resolve |
-| 5 | Determination (75/100) | Hope (65/100) | Underground â†’ Possibility |
-| 6 | Hope (60/100) | Paranoia (40/100) | Being hunted â†’ Fear |
-| 7 | Paranoia (45/100) | Crisis (85/100) | Choice â†’ Confrontation |
-| 8 | Crisis (80/100) | Resolve (90/100) | Facing system â†’ Purpose |
-| 9 | Resolve (85/100) | Freedom (75/100) | Escape â†’ Liberation |
-| 10 | Freedom (70/100) | Uncertainty (50/100) | Silence â†’ Unknown |
+| 1 | Euphoria (80/100) | Unease (60/100) | The hit â†?First doubt |
+| 2 | Unease (65/100) | Realization (50/100) | Pattern seen â†?Trap recognized |
+| 3 | Realization (55/100) | Withdrawal (30/100) | Going offline â†?Physical pain |
+| 4 | Withdrawal (35/100) | Determination (70/100) | Fighting back â†?Resolve |
+| 5 | Determination (75/100) | Hope (65/100) | Underground â†?Possibility |
+| 6 | Hope (60/100) | Paranoia (40/100) | Being hunted â†?Fear |
+| 7 | Paranoia (45/100) | Crisis (85/100) | Choice â†?Confrontation |
+| 8 | Crisis (80/100) | Resolve (90/100) | Facing system â†?Purpose |
+| 9 | Resolve (85/100) | Freedom (75/100) | Escape â†?Liberation |
+| 10 | Freedom (70/100) | Uncertainty (50/100) | Silence â†?Unknown |
 
 ## Prohibited Elements
 
@@ -265,16 +265,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | The Hit - Optimized for Engagement | Kai's addicted life | Euphoria (80â†’60) | Day in the life |
-| 02 | The Pattern - Seeing the Trap | Realization | Unease (65â†’50) | Sees the manipulation |
-| 03 | The Withdrawal - First Hours Offline | Going offline | Realization (55â†’30) | Physical withdrawal |
-| 04 | The Resistance - Fighting the Algorithm | Fighting back | Withdrawal (35â†’70) | Deletes apps |
-| 05 | The Underground - Life Off the Grid | Finds community | Determination (75â†’65) | Meets Marcus |
-| 06 | The Hunt - They Want You Back | Being hunted | Hope (60â†’40) | Platform tracks him |
-| 07 | The Choice - Comfort or Freedom | Must decide | Paranoia (45â†’85) | Return or stay |
-| 08 | The Confrontation - Facing the System | Faces the Platform | Crisis (80â†’90) | Direct confrontation |
-| 09 | The Escape - Breaking Free | Gets away | Resolve (85â†’75) | Successfully escapes |
-| 10 | The Silence - Uncertain Peace | New life | Freedom (70â†’50) | Uncertain future |
+| 01 | The Hit - Optimized for Engagement | Kai's addicted life | Euphoria (80â†?0) | Day in the life |
+| 02 | The Pattern - Seeing the Trap | Realization | Unease (65â†?0) | Sees the manipulation |
+| 03 | The Withdrawal - First Hours Offline | Going offline | Realization (55â†?0) | Physical withdrawal |
+| 04 | The Resistance - Fighting the Algorithm | Fighting back | Withdrawal (35â†?0) | Deletes apps |
+| 05 | The Underground - Life Off the Grid | Finds community | Determination (75â†?5) | Meets Marcus |
+| 06 | The Hunt - They Want You Back | Being hunted | Hope (60â†?0) | Platform tracks him |
+| 07 | The Choice - Comfort or Freedom | Must decide | Paranoia (45â†?5) | Return or stay |
+| 08 | The Confrontation - Facing the System | Faces the Platform | Crisis (80â†?0) | Direct confrontation |
+| 09 | The Escape - Breaking Free | Gets away | Resolve (85â†?5) | Successfully escapes |
+| 10 | The Silence - Uncertain Peace | New life | Freedom (70â†?0) | Uncertain future |
 
 ## Open Ending Design
 
@@ -311,7 +311,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰¥10 details, â‰¥5 types | Checklist count |
+| Sensory Detail Count | â‰?0 details, â‰? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 | Chapter Connection | Natural flow from/to adjacent | Transition review |

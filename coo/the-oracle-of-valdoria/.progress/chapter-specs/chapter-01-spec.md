@@ -63,7 +63,7 @@
 #### Beat 3: The Descent (Position: 35-55%)
 - **Trigger**: Entering the forbidden ruins
 - **Surface Reaction**: Careful steps, held breath, alert to every sound
-- **Internal Process**: *This is where Lyra came. This is where sheâ€”*
+- **Internal Process**: *This is where Lyra came. This is where sheâ€?
 - **Deep Motivation**: Fear of what she might find; hope that she might find something
 - **Sensory Anchor**: Dust and ancient air; darkness that seems to breathe
 
@@ -77,7 +77,7 @@
 #### Beat 5: The Revelation (Position: 80-100%)
 - **Trigger**: ORACLE speaks Lyra's name
 - **Surface Reaction**: Tears, trembling, reaching toward the light
-- **Internal Process**: *Lyra. It said Lyra. She'sâ€”*
+- **Internal Process**: *Lyra. It said Lyra. She'sâ€?
 - **Deep Motivation**: Hope overwhelming caution; love stronger than fear
 - **Sensory Anchor**: Warmth spreading through her chest; the echo of a familiar voice
 
@@ -350,8 +350,7 @@ The hourglass hung in the air, turning slowly, filled not with sand but with som
 | Olfactory | Ancient dust, stale air | 3 | Opening | Age, abandonment | [ ] |
 | Internal | Hollow ache in chest | 1 | Throughout | Physical grief | [ ] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -463,7 +462,7 @@ The memorial stone was cold under Elara's fingers, the same cold it had been eve
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

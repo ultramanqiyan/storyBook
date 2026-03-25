@@ -235,15 +235,15 @@ Elena publishes her findings, but society chooses convenience over truth. The sy
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (anomaly discovered)
-**Chapter 2** â†’ Chapter 3 (pattern recognition)
-**Chapter 3** â†’ Chapter 4 (need for expertise)
-**Chapter 4** â†’ Chapter 5 (theoretical framework)
-**Chapter 5** â†’ Chapter 6 (theory leads to experiment)
-**Chapter 6** â†’ Chapter 7 (experiment produces evidence)
-**Chapter 7** â†’ Chapter 8 (evidence leads to accountability search)
-**Chapter 8** â†’ Chapter 9 (accountability search reveals deeper truth)
-**Chapter 9** â†’ Chapter 10 (deeper truth leads to acceptance)
+**Chapter 1** â†?Chapter 2 (anomaly discovered)
+**Chapter 2** â†?Chapter 3 (pattern recognition)
+**Chapter 3** â†?Chapter 4 (need for expertise)
+**Chapter 4** â†?Chapter 5 (theoretical framework)
+**Chapter 5** â†?Chapter 6 (theory leads to experiment)
+**Chapter 6** â†?Chapter 7 (experiment produces evidence)
+**Chapter 7** â†?Chapter 8 (evidence leads to accountability search)
+**Chapter 8** â†?Chapter 9 (accountability search reveals deeper truth)
+**Chapter 9** â†?Chapter 10 (deeper truth leads to acceptance)
 
 ### Thematic Cluster Links
 

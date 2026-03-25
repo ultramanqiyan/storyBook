@@ -425,8 +425,7 @@ The seller account was gone. Not suspended, not under reviewâ€”simply deleted, a
 | Visual | "Account no longer available" | 4 | Middle | Dead end | [ ] |
 | Internal | Heart rate increasing | 4 | End | Panic building | [ ] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Distribution
 - **Visual**: 5 details (target: 40%)
 - **Auditory**: 1 detail
@@ -521,7 +520,7 @@ The seller account was gone. Not suspended, not under reviewâ€”simply deleted, a
 
 ### 10.2 Structural Requirements
 - [x] Scene transitions are smooth
-- [x] Time jumps are clear (work â†’ evening â†’ three days later)
+- [x] Time jumps are clear (work â†?evening â†?three days later)
 - [x] Chapter has clear beginning, middle, end
 - [x] System log at end (dual structure)
 
@@ -546,7 +545,7 @@ The seller account was gone. Not suspended, not under reviewâ€”simply deleted, a
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

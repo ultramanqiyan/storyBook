@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Crisis erupts, Maya must fight
-- **Emotional Arc**: Fear â†’ Determination â†’ Hope
+- **Emotional Arc**: Fear â†?Determination â†?Hope
 - **Relation to Overall Story**: Show the value of protecting knowledge
 
 ## Core Events

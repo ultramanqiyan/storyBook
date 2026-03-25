@@ -84,7 +84,7 @@ I didn't know why I had come. Maybe I needed to see her one more time, to remind
 
 I knocked on her door.
 
-She answered almost immediately, as if she had been waiting. Her eyes were red-rimmed, her hair disheveled, her heart rate elevatedâ€”92 bpm. She had been crying.
+She answered almost immediately, as if she had been waiting. Her eyes were red-rimmed, her hair disheveled, her heart rate elevatedâ€?2 bpm. She had been crying.
 
 "Kai." Her voice was rough. "I was hoping you'd come."
 
@@ -106,7 +106,7 @@ She listened without interrupting, her heart rate climbing steadily as I spoke. 
 
 "I'm going to try. I have to."
 
-"Kai, the risksâ€”"
+"Kai, the risksâ€?
 
 "I know the risks." I met her eyes. "But Maya, I can't live like this. I can't see the world in perfect detail and feel nothing about it. I can't remember our friendship and not feel the love that was there. I can't play music and hear only sound."
 

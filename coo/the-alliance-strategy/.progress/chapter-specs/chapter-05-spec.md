@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Cautious attempt with new approach
-    â†“
-Middle: Partnership forming, initial success
-    â†“
-Closing: Pride and surprise at results
+    â†?Middle: Partnership forming, initial success
+    â†?Closing: Pride and surprise at results
 ```
 
 ### 2.2 Emotional Depth Design
@@ -138,8 +136,7 @@ Closing: Pride and surprise at results
 | Tactile | Handshake with partner | 4 | Shared victory |
 | Kinesthetic | Energy of collaboration | 3 | Synergy |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

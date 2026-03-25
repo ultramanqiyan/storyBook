@@ -264,8 +264,8 @@ Dr. Webb closed the door behind her. The familiar smell of his officeâ€”old pape
 
 **Emotional Beat**
 - **Position on Curve**: 30-70%
-- **Primary Emotion**: Relief â†’ Connection
-- **Intensity**: 65 â†’ 70
+- **Primary Emotion**: Relief â†?Connection
+- **Intensity**: 65 â†?70
 - **Three Layers**:
   - Surface: Looking around, meeting eyes
   - Internal: "*I'm not alone. I'm not the only one.*"
@@ -361,13 +361,13 @@ The night air was cool against her face. Sarah stood with Dr. Webb outside the b
 **Internal Journey**
 - **Internal Conflict**: Fear vs. hope
 - **Realization/Moment of Clarity**: She's not alone, recovery is possible
-- **Emotional Change**: Hope â†’ Nervousness â†’ Relief â†’ Connection â†’ Determination
+- **Emotional Change**: Hope â†?Nervousness â†?Relief â†?Connection â†?Determination
 - **Psychological Shift**: From isolation to community
 
 **Character Growth**
 - **Starting State**: Hopeful but uncertain
 - **Ending State**: Determined, with a path forward
-- **Growth Metric**: Hope increasing (60 â†’ 70 on hope scale)
+- **Growth Metric**: Hope increasing (60 â†?70 on hope scale)
 
 **Key Decision**
 - **Decision**: To join the resistance and commit to training
@@ -642,7 +642,7 @@ The hallway was empty, most of the staff gone for the day. Sarah stood outside D
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

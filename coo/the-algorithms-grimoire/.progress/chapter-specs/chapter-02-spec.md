@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Establish relationship between protagonist and ARIA, introduce external threat
-- **Emotional Arc**: Curiosity â†’ Fear â†’ Determination
+- **Emotional Arc**: Curiosity â†?Fear â†?Determination
 - **Relation to Overall Story**: Demonstrate ARIA's capabilities and potential dangers
 
 ## Core Events

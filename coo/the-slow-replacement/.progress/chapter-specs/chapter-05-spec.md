@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Marcus's performance review brings ambiguous feedback, paranoia escalates
-- **Emotional Arc**: Anxiety â†’ Paranoia â†’ Desperation
+- **Emotional Arc**: Anxiety â†?Paranoia â†?Desperation
 - **Relation to Overall Story**: External validation of Marcus's fears; he interprets everything as a layoff signal
 
 ## Core Events
@@ -48,8 +48,8 @@
 
 ### Visual
 - Rachel's face during reviewâ€”neutral, professional
-- Performance review documentâ€”"areas for improvement" highlighted
-- Job posting on company siteâ€”"Senior Backend Developer" (Marcus's title)
+- Performance review documentâ€?areas for improvement" highlighted
+- Job posting on company siteâ€?Senior Backend Developer" (Marcus's title)
 - Sarah's tearful face when Marcus refuses therapy
 
 ### Auditory

@@ -33,7 +33,7 @@ The Focus Principle: Finding What Matters Most in an Overwhelmed World
 A practical guide for product managers paralyzed by competing priorities. Discover how identifying the main contradiction leads to focused progress and real results.
 
 ### Philosophical Themes
-- Main contradiction (disguised from 矛盾论 - Contradiction)
+- Main contradiction (disguised from 矛盾�?- Contradiction)
 - Focus on what matters,- Letting go of less important things
 - The hierarchy of importance
 

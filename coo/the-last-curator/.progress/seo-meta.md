@@ -235,15 +235,15 @@ Marcus's painting is praisedâ€”but critics call it "algorithmic." The ultimate i
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (confidence leads to ambitious project)
-**Chapter 2** â†’ Chapter 3 (verification industry engagement)
-**Chapter 3** â†’ Chapter 4 (verification plants doubt)
-**Chapter 4** â†’ Chapter 5 (doubt leads to discovery)
-**Chapter 5** â†’ Chapter 6 (cover-up creates pressure)
-**Chapter 6** â†’ Chapter 7 (behavior draws attention)
-**Chapter 7** â†’ Chapter 8 (public scandal)
-**Chapter 8** â†’ Chapter 9 (loss drives creation)
-**Chapter 9** â†’ Chapter 10 (resolution)
+**Chapter 1** â†?Chapter 2 (confidence leads to ambitious project)
+**Chapter 2** â†?Chapter 3 (verification industry engagement)
+**Chapter 3** â†?Chapter 4 (verification plants doubt)
+**Chapter 4** â†?Chapter 5 (doubt leads to discovery)
+**Chapter 5** â†?Chapter 6 (cover-up creates pressure)
+**Chapter 6** â†?Chapter 7 (behavior draws attention)
+**Chapter 7** â†?Chapter 8 (public scandal)
+**Chapter 8** â†?Chapter 9 (loss drives creation)
+**Chapter 9** â†?Chapter 10 (resolution)
 
 ### Thematic Cluster Links
 

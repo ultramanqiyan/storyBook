@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Success brings desire to systematize
-    â†“
-Middle: Developing alliance framework
-    â†“
-Closing: Sustainable approach established
+    â†?Middle: Developing alliance framework
+    â†?Closing: Sustainable approach established
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Sustainable approach established
 | Visual | David's approving nod | 4 | Validation |
 | Kinesthetic | Satisfaction in posture | 4 | Achievement |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

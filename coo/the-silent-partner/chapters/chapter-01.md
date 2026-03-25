@@ -54,8 +54,7 @@ This was the good life.
 
 She closed her eyes.
 
-And thenâ€”
-
+And thenâ€?
 A flash. Just for a second.
 
 A conference room. People sitting around a table. Her voice saying something she didn't remember saying. A man in a blue suit nodding. A document on the screen with numbers she didn't recognize. The smell of recycled air, the hum of fluorescent lights, the taste of anxiety metallic on her tongue.

@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Marcus begins therapy, starts to see his anxiety in a new light, learns from David's journey
-- **Emotional Arc**: Defeat â†’ Reflection â†’ First glimmer of hope
+- **Emotional Arc**: Defeat â†?Reflection â†?First glimmer of hope
 - **Relation to Overall Story**: Turning point; Marcus begins to understand his fear
 
 ## Core Events
@@ -50,7 +50,7 @@
 - **Emotional Progression**:
   - Opening: Marcus's first therapy sessionâ€”defensive, resistant
   - Middle: Conversation with Davidâ€”seeing a different perspective
-  - Closing: Marcus's first insightâ€”*Maybe the fear isn't about AI*
+  - Closing: Marcus's first insightâ€?Maybe the fear isn't about AI*
 
 ## Sensory Details Requirements (at least 1 per category)
 

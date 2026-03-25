@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Confidence from developed skill
-    ↓
-Middle: Recognition and opportunities
-    ↓
-Closing: Understanding the true value
+    �?Middle: Recognition and opportunities
+    �?Closing: Understanding the true value
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Understanding the true value
 | Visual | Angela's steady gaze | 4 | Wisdom, guidance |
 | Kinesthetic | Confidence in posture | 4 | Transformation |
 
-**Minimum 5 details covering 3 types**: ✓
-
+**Minimum 5 details covering 3 types**: �?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -163,7 +160,7 @@ Closing: Understanding the true value
 - **Deepest Level**: Transformation of identity and capability
 
 ### 9.2 Philosophical Connection
-- **Mao Thought**: 主观能动性 - Quality emerges from agency
+- **Mao Thought**: 主观能动�?- Quality emerges from agency
 - **Application**: The visible results of invisible practice
 
 ---

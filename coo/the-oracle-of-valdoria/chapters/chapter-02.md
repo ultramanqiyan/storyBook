@@ -28,7 +28,7 @@ She found him in a chair by the window, looking older than she remembered. His h
 
 Theron's hands trembled harder. "It is true. Every working of significant time magic takes a piece of who you are. A memory, yesâ€”but more than that. A piece of your self. Your identity." He looked at her with ancient, sorrowful eyes. "I have seen time mages who forgot their own names. Who forgot why they studied magic in the first place. Who forgot the faces of everyone they ever loved."
 
-Elara's throat tightened. "Lyraâ€”"
+Elara's throat tightened. "Lyraâ€?
 
 "Lyra was brilliant. Brilliant and stubborn and so certain that knowledge was worth any price." Theron shook his head slowly. "She learned quickly. Faster than any student I've ever seen. But each spell took something from her. By the time she found the Rift, she had already lost..." He trailed off.
 
@@ -74,7 +74,7 @@ The light within ORACLE swirled, and Elara thought she detected something like u
 
 "That is... a difficult question." ORACLE's voice was measured, careful. "Lyra is in the Rift. To reach her, you must open a door. To open a door is to risk releasing what lies beyond."
 
-"Then howâ€”"
+"Then howâ€?
 
 "There may be a way. A path between the moments. A way to reach her without fully opening the door." ORACLE's glow brightened slightly. "But it will require great power. Great sacrifice. You will lose much of yourself before this is over, Elara Vance. Are you prepared for that?"
 

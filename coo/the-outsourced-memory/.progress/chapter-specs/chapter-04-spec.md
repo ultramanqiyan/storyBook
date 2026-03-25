@@ -137,7 +137,7 @@ Mike pulled out his phone and opened HomeMatch. The street details appeared inst
 **Internal Journey**
 - **Internal Conflict**: Evidence of loss vs. denial
 - **Realization/Moment of Clarity**: None - denial wins
-- **Emotional Change**: Comfort â†’ confusion â†’ anxiety â†’ rationalization
+- **Emotional Change**: Comfort â†?confusion â†?anxiety â†?rationalization
 - **Psychological Shift**: First concrete evidence of cognitive atrophy
 
 **Character Growth**

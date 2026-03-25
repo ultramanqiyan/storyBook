@@ -22,7 +22,7 @@ The Hollow King's form shifted, darkness swirling. *There is no other way. The s
 
 "One consciousness," Elara repeated. "But what if there were two?"
 
-Lyra's hand tightened in hers. "Elara, what are you—"
+Lyra's hand tightened in hers. "Elara, what are you�?
 
 "Two anchors," Elara said, her voice growing stronger. "Two seals. We share the burden. Both of us hold the door closed. And because there are two of us, we can both leave—sometimes. Briefly. But we always come back."
 

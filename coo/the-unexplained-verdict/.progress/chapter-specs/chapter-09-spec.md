@@ -261,7 +261,7 @@ She couldn't fix everything. She couldn't undo the past six months. But she coul
 **Internal Journey**
 - **Internal Conflict**: Her conviction vs. Marcus's pragmatism
 - **Realization/Moment of Clarity**: She has to choose what she wants
-- **Emotional Change**: Resolve â†’ vulnerability â†’ challenge â†’ determination
+- **Emotional Change**: Resolve â†?vulnerability â†?challenge â†?determination
 - **Psychological Shift**: From accepting responsibility to acting on it
 
 **Character Growth**
@@ -279,7 +279,7 @@ She couldn't fix everything. She couldn't undo the past six months. But she coul
 **Internal Journey**
 - **Internal Conflict**: None shown (he's the sounding board)
 - **Realization/Moment of Clarity**: N/A
-- **Emotional Change**: Concern â†’ pragmatism â†’ challenge
+- **Emotional Change**: Concern â†?pragmatism â†?challenge
 - **Psychological Shift**: N/A
 
 **Character Growth**
@@ -406,7 +406,7 @@ She couldn't fix everything. She couldn't undo the past six months, couldn't giv
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Character has clear internal conflict
 - [ ] Ending matches specified type

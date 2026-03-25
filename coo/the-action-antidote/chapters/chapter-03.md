@@ -34,8 +34,7 @@ The warmth wrapped around her like a blanket. Sarah ordered the largest coffee t
 
 "No. Just black."
 
-Every table was full except one, where a man sat alone with a laptop, an empty chair across from him. She hesitated. She could take her coffee to go. She could drink it on the walk home. She couldâ€”
-
+Every table was full except one, where a man sat alone with a laptop, an empty chair across from him. She hesitated. She could take her coffee to go. She could drink it on the walk home. She couldâ€?
 "Mind if I sit here?" she heard herself ask. "Place is packed."
 
 The man looked up, surprised, then smiled. "Actually, I was about to ask you the same thing. Please." He gestured to the empty chair.

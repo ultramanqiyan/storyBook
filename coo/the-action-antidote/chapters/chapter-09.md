@@ -38,7 +38,7 @@ She laughed. "Is that the secret? Just get a tomato plant?"
 
 Sarah looked up sharply. "The marketing?"
 
-"You've been doing great work on the social media. The Instagram posts, the newsletter. People are noticing." He grinned. "We were wondering if you'd want to help coordinate the festival promotion. It's a bigger project, butâ€”"
+"You've been doing great work on the social media. The Instagram posts, the newsletter. People are noticing." He grinned. "We were wondering if you'd want to help coordinate the festival promotion. It's a bigger project, butâ€?
 
 "Yes."
 

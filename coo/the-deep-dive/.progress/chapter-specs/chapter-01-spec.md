@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Frenetic energy, false productivity
-    â†“
-Middle: Growing awareness of fragmentation
-    â†“
-Closing: First hint of dissatisfaction
+    â†?Middle: Growing awareness of fragmentation
+    â†?Closing: First hint of dissatisfaction
 ```
 
 ### 2.2 Emotional Depth Design
@@ -137,8 +135,7 @@ Closing: First hint of dissatisfaction
 | Olfactory | Stale office coffee | 2 | Mundane, draining |
 | Kinesthetic | Restless leg bouncing | 2 | Physical anxiety |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: False confidence in busyness
-    â†“
-Middle: Cracks appearing in productivity facade
-    â†“
-Closing: Confrontation with real cost
+    â†?Middle: Cracks appearing in productivity facade
+    â†?Closing: Confrontation with real cost
 ```
 
 ### 2.2 Emotional Depth Design
@@ -101,7 +99,7 @@ Closing: Confrontation with real cost
 ### 5.1 Jamie Okonkwo
 - **Starting State**: Confident in busy approach
 - **Internal Conflict**: Belief in method vs. evidence of failure
-- **Growth Moment**: Recognition that effort â‰  results
+- **Growth Moment**: Recognition that effort â‰?results
 
 ### 5.2 Supporting Characters
 - **Marcus Webb**: Delivers difficult feedback with kindness
@@ -135,8 +133,7 @@ Closing: Confrontation with real cost
 | Kinesthetic | Slumped shoulders | 4 | Defeat |
 | Olfactory | Stale apartment air | 4 | Stagnation |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

@@ -8,7 +8,7 @@ Maya was in the middle of a work cycle when she heard it—a voice in her head t
 
 She froze. Her body was still moving, still typing, still following Hollow's commands. But her mind was racing.
 
-*Who was that? How did they—*
+*Who was that? How did they�?
 
 *No time. The countermeasure has been detected. They're coming for you tonight. Get to the extraction point. Dr. Chen will explain.*
 
@@ -86,7 +86,7 @@ Maya knocked on the door, using the pattern the resistance had taught her. Three
 
 "We don't have a choice. The Corporation knows about the countermeasure. They're moving against you tonight." Dr. Chen led her inside, where the rest of the resistance was gathered. "We have to move up the timeline. The exposure happens tomorrow."
 
-"Tomorrow? But we're not ready—"
+"Tomorrow? But we're not ready�?
 
 "We don't have time to be ready. The Corporation is already acting. If we wait, they'll erase everything—the evidence, the witnesses, the truth. We have to move now."
 

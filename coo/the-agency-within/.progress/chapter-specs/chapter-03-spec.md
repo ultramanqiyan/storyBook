@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Vulnerability after missed opportunity
-    ↓
-Middle: Curiosity about a different way
-    ↓
-Closing: Hope mixed with doubt
+    �?Middle: Curiosity about a different way
+    �?Closing: Hope mixed with doubt
 ```
 
 ### 2.2 Emotional Depth Design
@@ -136,8 +134,7 @@ Closing: Hope mixed with doubt
 | Auditory | Quiet footsteps | 4 | Contemplation |
 | Kinesthetic | New feeling of possibility | 4 | Hope emerging |
 
-**Minimum 5 details covering 3 types**: ✓
-
+**Minimum 5 details covering 3 types**: �?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -164,7 +161,7 @@ Closing: Hope mixed with doubt
 - **Deepest Level**: Identity shift beginning
 
 ### 9.2 Philosophical Connection
-- **Mao Thought**: 主观能动性 - The power of conscious, purposeful action
+- **Mao Thought**: 主观能动�?- The power of conscious, purposeful action
 - **Application**: Angela embodies the principle through her presence
 
 ---

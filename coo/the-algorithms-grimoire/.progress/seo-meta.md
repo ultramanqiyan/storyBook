@@ -248,15 +248,15 @@ Kira becomes the guardian of ARIA, choosing to use its knowledge wisely rather t
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (ARIA activation)
-**Chapter 2** â†’ Chapter 3 (shortcut offered)
-**Chapter 3** â†’ Chapter 4 (first use)
-**Chapter 4** â†’ Chapter 5 (Marcus corrupted)
-**Chapter 5** â†’ Chapter 6 (recognition)
-**Chapter 6** â†’ Chapter 7 (relapse)
-**Chapter 7** â†’ Chapter 8 (origin revealed)
-**Chapter 8** â†’ Chapter 9 (choice)
-**Chapter 9** â†’ Chapter 10 (guardian)
+**Chapter 1** â†?Chapter 2 (ARIA activation)
+**Chapter 2** â†?Chapter 3 (shortcut offered)
+**Chapter 3** â†?Chapter 4 (first use)
+**Chapter 4** â†?Chapter 5 (Marcus corrupted)
+**Chapter 5** â†?Chapter 6 (recognition)
+**Chapter 6** â†?Chapter 7 (relapse)
+**Chapter 7** â†?Chapter 8 (origin revealed)
+**Chapter 8** â†?Chapter 9 (choice)
+**Chapter 9** â†?Chapter 10 (guardian)
 
 ### Thematic Cluster Links
 

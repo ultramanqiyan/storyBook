@@ -76,7 +76,7 @@ The music swelled, and I felt something I hadn't felt since the Enhancement: joy
 
 I woke with tears on my face.
 
-I touched my cheek, feeling the wetness. My heart rate was elevatedâ€”92 beats per minute, I noted automatically. My breathing was rapid and shallow. The chemical signature of cortisol was present in my sweat.
+I touched my cheek, feeling the wetness. My heart rate was elevatedâ€?2 beats per minute, I noted automatically. My breathing was rapid and shallow. The chemical signature of cortisol was present in my sweat.
 
 I was having an emotional response. Or at least, a physiological one.
 

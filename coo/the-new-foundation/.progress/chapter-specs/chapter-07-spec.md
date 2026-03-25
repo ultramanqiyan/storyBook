@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Confidence from developed skill
-    â†“
-Middle: Building sustainable practices
-    â†“
-Closing: Foundation established
+    â†?Middle: Building sustainable practices
+    â†?Closing: Foundation established
 ```
 
 ### 2.2 Emotional Depth Design
@@ -131,8 +129,7 @@ Closing: Foundation established
 | Kinesthetic | Peace in posture | 4 | Stability achieved |
 | Olfactory | Morning coffee during practice | 2 | Routine, comfort |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

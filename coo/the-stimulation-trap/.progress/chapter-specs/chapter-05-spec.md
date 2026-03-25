@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: The cost of pursuing stimulationâ€”money, time, relationships
-- **Emotional Arc**: Satisfaction â†’ Anxiety â†’ Pressure
+- **Emotional Arc**: Satisfaction â†?Anxiety â†?Pressure
 - **Relationship to Overall Story**: Show the cost of the chase
 
 ## Core Events
@@ -122,6 +122,6 @@
 
 ## Chapter Ending Design
 - **Emotion**: Pressure
-- **Suspense**: Leo feels the pressure, but decides to continueâ€”*I need more.*
+- **Suspense**: Leo feels the pressure, but decides to continueâ€?I need more.*
 - **Don't**: Predictive ending, dramatic summary
 - **Do**: Leave the determination to chase, make readers want to know how far he will go

@@ -261,7 +261,7 @@ The cursor still blinked, patient and empty. Jennifer closed the document withou
 **Internal Journey**
 - **Internal Conflict**: Determination vs. the reality of her loss
 - **Realization/Moment of Clarity**: She has no reasoning to offer
-- **Emotional Change**: Determination â†’ struggle â†’ horror â†’ grief â†’ desolation
+- **Emotional Change**: Determination â†?struggle â†?horror â†?grief â†?desolation
 - **Psychological Shift**: Full awareness of what she's lost
 
 **Character Growth**
@@ -389,7 +389,7 @@ The cursor still blinked, patient and empty. Jennifer closed the document withou
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Character has clear internal conflict
 - [ ] Ending matches specified type

@@ -12,7 +12,7 @@ Marcus looked at her, really looked, for the first time in days. She looked tire
 
 Sarah took a breath. "I've been thinking. About going back to work."
 
-Marcus felt a flicker of surprise. "Back to work? But the kidsâ€”"
+Marcus felt a flicker of surprise. "Back to work? But the kidsâ€?
 
 "The kids are in school now," Sarah interrupted gently. "Emma is in second grade. Lucas is in preschool. They don't need me at home all day anymore."
 
@@ -64,7 +64,7 @@ Marcus felt his chest tighten. "What is it?"
 
 "I know." Sarah wiped her eyes. "But I also didn't push back hard enough. I should have insisted on therapy weeks ago. I should have made you see that you were destroying yourself."
 
-"You couldn't have knownâ€”"
+"You couldn't have knownâ€?
 
 "I should have known." Sarah's voice was firm. "I'm your wife, Marcus. I'm supposed to notice when you're falling apart. And I did noticeâ€”I just didn't know what to do about it."
 

@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Crisis erupts, Kira faces difficult choice
-- **Emotional Arc**: Fear â†’ Determination â†’ Sacrifice
+- **Emotional Arc**: Fear â†?Determination â†?Sacrifice
 - **Relation to Overall Story**: Show the cost of responsibility
 
 ## Core Events

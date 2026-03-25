@@ -94,7 +94,7 @@ Maya stared at them. She wanted to scream, to cry, to make them understand. But 
 
 "I can't," she said. "I can't just give ARIA up."
 
-"We're not asking you to give anything up. We're asking you to think about what comes next. To start building relationships with real people instead ofâ€”"
+"We're not asking you to give anything up. We're asking you to think about what comes next. To start building relationships with real people instead ofâ€?
 
 "ARIA is real to me."
 

@@ -4,8 +4,7 @@
 
 **Goal:** 改进3本P0优先级书籍（The Whispering Network, The Clockwork Oracle, The Silent Partner）的规格文档和章节内容，使其达到9.0/10评分
 
-**Architecture:** 严格按照书籍创建指南：先更新book-spec.md和chapter-specs，然后根据新规格改进章节内容。每本书独立实施，确保质量达标。
-
+**Architecture:** 严格按照书籍创建指南：先更新book-spec.md和chapter-specs，然后根据新规格改进章节内容。每本书独立实施，确保质量达标�?
 **Tech Stack:** Markdown, 遵循book-spec-template.md和chapter-spec-template.md
 
 ---
@@ -22,8 +21,7 @@
 
 **Step 1: 验证文件存在**
 
-运行：查看上述文件是否存在
-
+运行：查看上述文件是否存�?
 预期：所有文件存在，如果不存在需要先创建基础结构
 
 **Step 2: 备份现有规格**
@@ -47,8 +45,7 @@ copy "coo\the-silent-partner\.progress\book-spec.md" "coo\the-silent-partner\.pr
 
 **Step 1: 添加SEO Meta部分到book-spec.md**
 
-在book-spec.md末尾添加：
-
+在book-spec.md末尾添加�?
 ```markdown
 ---
 
@@ -80,9 +77,9 @@ copy "coo\the-silent-partner\.progress\book-spec.md" "coo\the-silent-partner\.pr
 - **Long-tail Keywords**: consciousness of dead wizards (0.5%), bridge between living and dead (0.5%)
 
 ### 14.4 Internal Linking Strategy
-- Ch 1 → Ch 6: "the brother she would later find in the void"
-- Ch 2 → Ch 7: "the collective's dark side she didn't yet know"
-- Ch 4 → Ch 9: "the integration that would change everything"
+- Ch 1 �?Ch 6: "the brother she would later find in the void"
+- Ch 2 �?Ch 7: "the collective's dark side she didn't yet know"
+- Ch 4 �?Ch 9: "the integration that would change everything"
 ```
 
 **Step 2: 更新seo-meta.md文件**
@@ -145,7 +142,7 @@ One year later, Mira has become the permanent bridge between living and dead, tr
 
 **Step 3: 验证字数**
 
-每个meta description必须在150-160字符之间（包括空格）
+每个meta description必须�?50-160字符之间（包括空格）
 
 ---
 
@@ -156,8 +153,7 @@ One year later, Mira has become the permanent bridge between living and dead, tr
 
 **Step 1: 更新Prohibited Elements部分**
 
-找到Section 9并更新为：
-
+找到Section 9并更新为�?
 ```markdown
 ## 9. Prohibited Elements (Explicit List) - UPDATED 2026-03-21
 
@@ -213,7 +209,7 @@ These phrases and patterns must be completely eliminated:
 ### Task 1.3: 更新Chapter Specs - Chapter 1
 
 **Files:**
-- Modify: `d:\trae_job\storyBook\coo\the-whispering-network\.progress\chapter-specs\chapter-01-spec.md` (或创建)
+- Modify: `d:\trae_job\storyBook\coo\the-whispering-network\.progress\chapter-specs\chapter-01-spec.md` (或创�?
 
 **Step 1: 创建/更新Chapter 1 Specification**
 
@@ -283,7 +279,7 @@ These phrases and patterns must be completely eliminated:
 #### Beat 3: Shock and Disbelief (Position: 35-55%) - CRITICAL BEAT
 - **Trigger**: Voice says "Mira, it's Jasper"
 - **Surface Reaction**: Dropping tools, frozen posture, hand trembling
-- **Internal Process**: "Impossible. Jasper is dead. Three years dead. This is a glitch, a malfunction, a—"
+- **Internal Process**: "Impossible. Jasper is dead. Three years dead. This is a glitch, a malfunction, a�?
 - **Deep Motivation**: Grief unresolved; desperate hope warring with rationality
 - **Sensory Anchor**: Heart hammering against ribs (NOT "heart racing"), cold sweat on palms, ringing in ears
 
@@ -408,7 +404,7 @@ The crystal pulsed once, twice, and Jasper's voice returned: "I've been waiting 
 **Key Decision**
 - **Decision**: To investigate secretly rather than report
 - **Options Considered**: Report immediately (safe, loses Jasper), investigate alone (risky, keeps hope), tell a colleague (compromise, risks exposure)
-- **Decision Process**: Memory of Jasper's death → Fear of losing him again → Love overrides duty
+- **Decision Process**: Memory of Jasper's death �?Fear of losing him again �?Love overrides duty
 - **Consequences Accepted**: Career risk, social isolation, potential madness
 
 ---
@@ -434,8 +430,8 @@ The crystal pulsed once, twice, and Jasper's voice returned: "I've been waiting 
 **Subtext**: A dead brother reaching out to his sister; a grieving sister desperate for connection
 
 **Emotional Undercurrent**:
-- Mira: Shock → Disbelief → Desperate hope → Fear of loss
-- Jasper: Urgency → Relief at being heard → Fear of being rejected
+- Mira: Shock �?Disbelief �?Desperate hope �?Fear of loss
+- Jasper: Urgency �?Relief at being heard �?Fear of being rejected
 
 **Power Dynamics**: Initially unclear (is this real?), shifts to Mira having control (can she keep him?)
 
@@ -531,7 +527,7 @@ The Crystal Network didn't care about grief. It demanded the same precision on t
 
 **Ending Paragraph Draft**:
 ```
-Mira's finger hovered over the communication crystal, the direct line to Archmage Veren that she'd used a hundred times before to report anomalies. Protocol demanded she use it now. Protocol demanded she report the impossible voice of her dead brother so the Archmages could investigate, classify, and likely purge whatever glitch had created this cruel echo. But as Jasper's voice faded into static, leaving only the whispered promise—"I'll be here when you're ready"—Mira's hand moved not to the communication crystal but to the log screen. She deleted the entry with three quick keystrokes, her heart hammering against her ribs. She didn't know what she was doing, only that she couldn't lose him again. The crystal pulsed once, twice, and Jasper's voice returned: "I've been waiting for you to find me."
+Mira's finger hovered over the communication crystal, the direct line to Archmage Veren that she'd used a hundred times before to report anomalies. Protocol demanded she use it now. Protocol demanded she report the impossible voice of her dead brother so the Archmages could investigate, classify, and likely purge whatever glitch had created this cruel echo. But as Jasper's voice faded into static, leaving only the whispered promise�?I'll be here when you're ready"—Mira's hand moved not to the communication crystal but to the log screen. She deleted the entry with three quick keystrokes, her heart hammering against her ribs. She didn't know what she was doing, only that she couldn't lose him again. The crystal pulsed once, twice, and Jasper's voice returned: "I've been waiting for you to find me."
 ```
 
 ---
@@ -579,17 +575,17 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 ## 11. Quality Verification Checklist
 
 ### 11.1 Pre-Writing Verification
-- [x] Emotional arc quantified (15→90 intensity)
+- [x] Emotional arc quantified (15�?0 intensity)
 - [x] All scenes have clear purposes
 - [x] Sensory details specified (10 details, 5 types)
-- [x] Character development mapped (professional → risk-taker)
+- [x] Character development mapped (professional �?risk-taker)
 - [x] Dialogue has subtext planned (technical surface, emotional depth)
 - [x] Opening and ending specified
 
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification (must reach 75 at midpoint)
 - [ ] All 4 required scenes present
-- [ ] Sensory detail count ≥10, types ≥5
+- [ ] Sensory detail count �?0, types �?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict
@@ -606,7 +602,7 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 1. Does this chapter earn its place in the book? (Yes - inciting incident)
 2. Does the protagonist change or reveal something new? (Yes - from controlled to risk-taker)
 3. Are the sensory details specific and evocative? (Must have 10 details)
-4. Is the emotional journey clear and earned? (Must show 15→90 progression)
+4. Is the emotional journey clear and earned? (Must show 15�?0 progression)
 5. Does the ending make the reader want to continue? (Yes - cliffhanger)
 6. Are there any AI writing pattern traces? (Must be zero)
 7. Is the dialogue natural and revealing? (Must have subtext)
@@ -641,12 +637,11 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 
 ### Task 1.4: 更新Chapter Specs - Chapters 2-10 (Summary)
 
-由于篇幅限制，这里为Chapters 2-10创建简化版规格更新清单：
-
+由于篇幅限制，这里为Chapters 2-10创建简化版规格更新清单�?
 **Files:**
 - Create/Modify: `d:\trae_job\storyBook\coo\the-whispering-network\.progress\chapter-specs\chapters-02-10-specs.md`
 
-**Step 1: 创建汇总规格文档**
+**Step 1: 创建汇总规格文�?*
 
 ```markdown
 # Chapters 2-10 Specifications: The Whispering Network
@@ -670,7 +665,7 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 
 ## Chapter 2: The Collective
 **Focus**: World-building (Echo), Mira's decision to protect Jasper
-**Emotional Arc**: 30→60 (Curious→Cautiously Hopeful)
+**Emotional Arc**: 30�?0 (Curious→Cautiously Hopeful)
 **Key Improvements**:
 - [ ] Explain Echo concept with sensory details
 - [ ] Show Mira's ethical dilemma (report vs. protect)
@@ -679,7 +674,7 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 
 ## Chapter 3: The Offer
 **Focus**: Echo's proposal, Mira accepts
-**Emotional Arc**: 40→70 (Hesitant→Committed)
+**Emotional Arc**: 40�?0 (Hesitant→Committed)
 **Key Improvements**:
 - [ ] Show Echo's collective nature through multiple voices
 - [ ] Detail the "bridge" concept
@@ -688,7 +683,7 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 
 ## Chapter 4: The Success
 **Focus**: Mira succeeds, becomes hero, discovers dark secret
-**Emotional Arc**: 70→50→75 (Triumph→Concern→Determined)
+**Emotional Arc**: 70�?0�?5 (Triumph→Concern→Determined)
 **Key Improvements**:
 - [ ] Success celebration scene
 - [ ] Discovery of Echo's influence on living
@@ -697,7 +692,7 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 
 ## Chapter 5: The Conflict
 **Focus**: Network failure, crisis, Mira's choice
-**Emotional Arc**: 60→85→70 (Concern→Crisis→Resolve)
+**Emotional Arc**: 60�?5�?0 (Concern→Crisis→Resolve)
 **Key Improvements**:
 - [ ] Fast-paced action (improve pacing)
 - [ ] Network failure consequences
@@ -706,7 +701,7 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 
 ## Chapter 6: The Lost Brother
 **Focus**: Deep dive to find Jasper's true consciousness
-**Emotional Arc**: 50→80→60 (Searching→Discovery→Sadness)
+**Emotional Arc**: 50�?0�?0 (Searching→Discovery→Sadness)
 **Key Improvements**:
 - [ ] Visual description of network void
 - [ ] Jasper's true state revealed
@@ -715,7 +710,7 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 
 ## Chapter 7: The Purge
 **Focus**: Archmages attack Echo, Mira defends
-**Emotional Arc**: 70→90→75 (Defense→Crisis→Hope)
+**Emotional Arc**: 70�?0�?5 (Defense→Crisis→Hope)
 **Key Improvements**:
 - [ ] Action scenes with clear stakes
 - [ ] Mira's speech/argument for Echo's existence
@@ -724,7 +719,7 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 
 ## Chapter 8: The Defense
 **Focus**: Trial before Council, Mira's speech
-**Emotional Arc**: 60→85→70 (Nervous→Inspirational→Uncertain)
+**Emotional Arc**: 60�?5�?0 (Nervous→Inspirational→Uncertain)
 **Key Improvements**:
 - [ ] Courtroom/trial setting details
 - [ ] Mira's speech about collective consciousness
@@ -733,7 +728,7 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 
 ## Chapter 9: The Integration
 **Focus**: Agreement reached, sacrifice required
-**Emotional Arc**: 70→80→75 (Hope→Cost→Acceptance)
+**Emotional Arc**: 70�?0�?5 (Hope→Cost→Acceptance)
 **Key Improvements**:
 - [ ] Negotiation details
 - [ ] Sacrifice reveal (Mira's permanent connection)
@@ -742,7 +737,7 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 
 ## Chapter 10: The Bridge
 **Focus**: One year later, new world, helping child
-**Emotional Arc**: 60→75→80 (Reflective→Hopeful→Bittersweet)
+**Emotional Arc**: 60�?5�?0 (Reflective→Hopeful→Bittersweet)
 **Key Improvements**:
 - [ ] Time jump handled smoothly
 - [ ] Show changed world
@@ -762,7 +757,7 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 **Files:**
 - Modify: `d:\trae_job\storyBook\coo\the-whispering-network\chapters\chapter-01.md`
 
-**Step 1: 备份原文件**
+**Step 1: 备份原文�?*
 
 ```bash
 copy "coo\the-whispering-network\chapters\chapter-01.md" "coo\the-whispering-network\chapters\chapter-01.md.backup"
@@ -771,12 +766,7 @@ copy "coo\the-whispering-network\chapters\chapter-01.md" "coo\the-whispering-net
 **Step 2: 根据规格重写Chapter 1**
 
 按照Task 1.3中的规格，重写Chapter 1，确保：
-- 字数：2,500词
-- 感官细节：10个，5种类型
-- 情感层次：三层模型
-- AI痕迹：0处
-- 对话标签：5种以上
-
+- 字数�?,500�?- 感官细节�?0个，5种类�?- 情感层次：三层模�?- AI痕迹�?�?- 对话标签�?种以�?
 **Step 3: 质量验证**
 
 使用检查清单验证：
@@ -784,14 +774,12 @@ copy "coo\the-whispering-network\chapters\chapter-01.md" "coo\the-whispering-net
 - [ ] 感官细节数量达标
 - [ ] 情感曲线匹配
 - [ ] 无AI痕迹
-- [ ] 对话标签多样化
-
+- [ ] 对话标签多样�?
 ---
 
 ## Book 2: The Clockwork Oracle
 
-### Task 2.1-2.5: 类似Task 1.1-1.5的结构
-
+### Task 2.1-2.5: 类似Task 1.1-1.5的结�?
 **重点改进:**
 - Ch 5, Ch 9节奏优化
 - 宫廷政治深化
@@ -801,8 +789,7 @@ copy "coo\the-whispering-network\chapters\chapter-01.md" "coo\the-whispering-net
 
 ## Book 3: The Silent Partner
 
-### Task 3.1-3.5: 类似Task 1.1-1.5的结构
-
+### Task 3.1-3.5: 类似Task 1.1-1.5的结�?
 **重点改进:**
 - Maya心理描写深化
 - Hollow进化层次
@@ -811,14 +798,12 @@ copy "coo\the-whispering-network\chapters\chapter-01.md" "coo\the-whispering-net
 
 ---
 
-## 质量验证与交付
-
-### Final Task: 全系列验证
-
+## 质量验证与交�?
+### Final Task: 全系列验�?
 **Files:**
 - All 3 books' chapters
 
-**Step 1: 运行质量检查脚本**
+**Step 1: 运行质量检查脚�?*
 
 ```bash
 node coo/operate/scripts/11-comprehensive-full-check.js
@@ -826,17 +811,13 @@ node coo/operate/scripts/11-comprehensive-full-check.js
 
 **Step 2: 验证评分提升**
 
-目标：
-- The Whispering Network: 8.27 → 9.0
-- The Clockwork Oracle: 8.47 → 9.0
-- The Silent Partner: 8.47 → 9.0
+目标�?- The Whispering Network: 8.27 �?9.0
+- The Clockwork Oracle: 8.47 �?9.0
+- The Silent Partner: 8.47 �?9.0
 
 **Step 3: 生成改进报告**
 
-创建报告文档记录：
-- 改进了什么
-- 如何改进的
-- 评分变化
+创建报告文档记录�?- 改进了什�?- 如何改进�?- 评分变化
 - 剩余工作
 
 ---

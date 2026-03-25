@@ -83,6 +83,3 @@ He understood now. The anomalies weren't problems to be solved—they were glimp
 
 *And that changes everything.*
 
----
-
-*End of Chapter 8*

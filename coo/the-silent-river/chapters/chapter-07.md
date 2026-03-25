@@ -26,7 +26,7 @@ She called Marcus first. He didn't answer. She called Sarah. No answer. She call
 
 Elena handed her the ruling. Maria read it in silence, her face growing paler with each page.
 
-"This is... this can't be right. We had evidence. We had testimony. We hadâ€”"
+"This is... this can't be right. We had evidence. We had testimony. We hadâ€?
 
 "We had everything." Elena's voice was hollow. "And it didn't matter."
 

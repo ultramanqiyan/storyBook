@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Cautious attempt with new approach
-    â†“
-Middle: Framework developing, connections emerging
-    â†“
-Closing: Pride and surprise at coherence
+    â†?Middle: Framework developing, connections emerging
+    â†?Closing: Pride and surprise at coherence
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Pride and surprise at coherence
 | Visual | Framework diagram complete | 3 | Synthesis achieved |
 | Kinesthetic | Satisfaction in posture | 4 | Success, growth |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

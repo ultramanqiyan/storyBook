@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Clinical, Controlled, Rising Emotion, Rebellion, Liberation
-- **Emotional Arc**: Control â†’ Discovery â†’ Choice â†’ Sacrifice â†’ Becoming
+- **Emotional Arc**: Control â†?Discovery â†?Choice â†?Sacrifice â†?Becoming
 - **Emotional Pacing**: Controlled beginning, emotional escalation, climax, resolution
 
 ## Character Voices
@@ -108,16 +108,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Control (80/100) | Crack (60/100) | Calibration â†’ Defect revealed |
-| 2 | Crack (55/100) | Hope (70/100) | Underground â†’ Discovery |
-| 3 | Hope (65/100) | Shock (45/100) | Truth revealed â†’ Horror |
-| 4 | Shock (40/100) | Decision (75/100) | Choice â†’ Rebellion |
-| 5 | Decision (70/100) | Confidence (75/100) | Test â†’ First success |
-| 6 | Confidence (70/100) | Empowerment (85/100) | Gift understood â†’ Strength |
-| 7 | Empowerment (80/100) | Grief (35/100) | Fallen â†’ Loss |
-| 8 | Grief (30/100) | Determination (70/100) | Threshold â†’ Resolve |
-| 9 | Determination (65/100) | Liberation (85/100) | Expansion â†’ Power |
-| 10 | Liberation (80/100) | Hope (90/100) | Becoming â†’ Future |
+| 1 | Control (80/100) | Crack (60/100) | Calibration â†?Defect revealed |
+| 2 | Crack (55/100) | Hope (70/100) | Underground â†?Discovery |
+| 3 | Hope (65/100) | Shock (45/100) | Truth revealed â†?Horror |
+| 4 | Shock (40/100) | Decision (75/100) | Choice â†?Rebellion |
+| 5 | Decision (70/100) | Confidence (75/100) | Test â†?First success |
+| 6 | Confidence (70/100) | Empowerment (85/100) | Gift understood â†?Strength |
+| 7 | Empowerment (80/100) | Grief (35/100) | Fallen â†?Loss |
+| 8 | Grief (30/100) | Determination (70/100) | Threshold â†?Resolve |
+| 9 | Determination (65/100) | Liberation (85/100) | Expansion â†?Power |
+| 10 | Liberation (80/100) | Hope (90/100) | Becoming â†?Future |
 
 ## Prohibited Elements
 

@@ -12,7 +12,7 @@ It surfaced during a meeting with his remaining team, two weeks after the worksh
 
 "Because the client wants digital," Taylor said patiently. "They've seen the metrics. Digital is outperforming print by three to one."
 
-"Metrics can be manipulated. Print builds real brand awarenessâ€”"
+"Metrics can be manipulated. Print builds real brand awarenessâ€?
 
 "Alex." Taylor's voice was gentle but firm. "This isn't a debate. The client has made their decision. Our job is to execute it."
 
@@ -52,7 +52,7 @@ The question was friendly. Teasing, even. But Alex felt the familiar surge of de
 
 "I bet it's weird," Mark continued. "After all those years as the print guy. Must be strange to start over."
 
-Something snapped in Alex's chest. "I'm not starting over. I'm building on what I know. The principles are the sameâ€”"
+Something snapped in Alex's chest. "I'm not starting over. I'm building on what I know. The principles are the sameâ€?
 
 "Whoa, whoa." Mark held up his hands. "I didn't mean anything by it. Just making conversation."
 

@@ -159,7 +159,7 @@
 
 **Key Dialogue**:
 - David: "Show them the dashboard. The new features."
-- Michael: "Let me justâ€”" (clicking frantically)
+- Michael: "Let me justâ€? (clicking frantically)
 - Investor: "Is there a problem?"
 - Michael: "No, just a minor glitch. Give me one second."
 - David: (quietly) "Michael..."
@@ -178,7 +178,7 @@
 **Internal Journey**
 - **Internal Conflict**: Speed vs. quality, but speed always wins
 - **Realization/Moment of Clarity**: None yet (still in denial)
-- **Emotional Change**: Confidence â†’ Anxiety â†’ Hope â†’ Disappointment â†’ Frustration
+- **Emotional Change**: Confidence â†?Anxiety â†?Hope â†?Disappointment â†?Frustration
 - **Psychological Shift**: Doubt begins but is suppressed
 
 ---
@@ -191,9 +191,9 @@
 
 **Dialogue Beats**:
 1. David: "The dashboard should be ready. Michael?"
-2. Michael: "Yes, it'sâ€”" (the screen freezes, error message appears)
+2. Michael: "Yes, it'sâ€? (the screen freezes, error message appears)
 3. Investor: "What's happening?"
-4. Michael: "Just a moment. There's a small issue with theâ€”" (more errors cascade)
+4. Michael: "Just a moment. There's a small issue with theâ€? (more errors cascade)
 5. David: "Michael, what did you ship?"
 6. Michael: "It was working this morning. I don't understand."
 7. Investor: "This doesn't inspire confidence."
@@ -214,8 +214,7 @@
 | Internal | Panic rising | 4 | Crisis | [x] |
 | Internal | Denial | 5 | Coping | [x] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications

@@ -76,6 +76,3 @@ But what if reality itself was the problem? What if truth wasn't something that 
 
 He needed to understand more.
 
----
-
-*End of Chapter 3*

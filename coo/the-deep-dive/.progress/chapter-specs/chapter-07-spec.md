@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Settling into deep work routine
-    â†“
-Middle: Extended flow state, peak experience
-    â†“
-Closing: Understanding what's possible
+    â†?Middle: Extended flow state, peak experience
+    â†?Closing: Understanding what's possible
 ```
 
 ### 2.2 Emotional Depth Design
@@ -137,8 +135,7 @@ Closing: Understanding what's possible
 | Visual | Solution emerging on screen | 3 | Progress visible |
 | Olfactory | Cold coffee, forgotten | 4 | Deep immersion |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

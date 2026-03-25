@@ -90,7 +90,7 @@ Alex turned to look at her. In the darkness, he could barely make out her featur
 
 Elena was silent for a moment. "Okay," she said finally. "So we have three months. What do you want to do?"
 
-"What do I want to do?" Alex felt a flash of frustration. "I want to wake up and find out this was all a bad dream. I want my fifteen years of expertise to mean something. I wantâ€”"
+"What do I want to do?" Alex felt a flash of frustration. "I want to wake up and find out this was all a bad dream. I want my fifteen years of expertise to mean something. I wantâ€?
 
 "I know what you want." Elena's voice was calm. "But those things aren't options. So what do you want to do with the options you have?"
 

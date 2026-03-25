@@ -16,7 +16,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Contemplative, questioning, ultimately hopeful
-- **Emotional Arc**: Confidence â†’ Doubt â†’ Crisis â†’ Understanding â†’ Integration
+- **Emotional Arc**: Confidence â†?Doubt â†?Crisis â†?Understanding â†?Integration
 - **Emotional Pacing**: Slow build through philosophical exploration, emotional peaks at key revelations
 
 ## Character Voices
@@ -100,16 +100,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Confidence (90/100) | Curiosity (75/100) | Mastery â†’ New question |
-| 2 | Interest (70/100) | Unease (60/100) | Fascination â†’ Doubt |
-| 3 | Determination (80/100) | Uncertainty (50/100) | Hypothesis â†’ Surprising result |
-| 4 | Hope (65/100) | Validation (70/100) | Client preference â†’ Relief |
-| 5 | Confusion (40/100) | Resolve (55/100) | Questions â†’ Decision to test |
-| 6 | Confidence (60/100) | Shock (20/100) | Test begins â†’ Failure |
-| 7 | Despair (15/100) | Glimmer (35/100) | Crisis â†’ New perspective |
-| 8 | Curiosity (45/100) | Understanding (65/100) | Research â†’ Insight |
-| 9 | Purpose (70/100) | Fulfillment (85/100) | New approach â†’ Success |
-| 10 | Integration (85/100) | Peace (90/100) | Acceptance â†’ Future |
+| 1 | Confidence (90/100) | Curiosity (75/100) | Mastery â†?New question |
+| 2 | Interest (70/100) | Unease (60/100) | Fascination â†?Doubt |
+| 3 | Determination (80/100) | Uncertainty (50/100) | Hypothesis â†?Surprising result |
+| 4 | Hope (65/100) | Validation (70/100) | Client preference â†?Relief |
+| 5 | Confusion (40/100) | Resolve (55/100) | Questions â†?Decision to test |
+| 6 | Confidence (60/100) | Shock (20/100) | Test begins â†?Failure |
+| 7 | Despair (15/100) | Glimmer (35/100) | Crisis â†?New perspective |
+| 8 | Curiosity (45/100) | Understanding (65/100) | Research â†?Insight |
+| 9 | Purpose (70/100) | Fulfillment (85/100) | New approach â†?Success |
+| 10 | Integration (85/100) | Peace (90/100) | Acceptance â†?Future |
 
 ## Prohibited Elements
 
@@ -167,7 +167,7 @@
 - [ ] AI trace detection passed
 - [ ] Sensory detail count verified (10+)
 - [ ] Emotional depth detection verified
-- [ ] "---" separator count verified (â‰¤2)
+- [ ] "---" separator count verified (â‰?)
 - [ ] Dialogue tag variety verified
 
 ## Chapter Outline

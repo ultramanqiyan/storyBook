@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Show Kira's growth, introduce new challenge
-- **Emotional Arc**: Determination â†’ Challenge â†’ Hope
+- **Emotional Arc**: Determination â†?Challenge â†?Hope
 - **Relation to Overall Story**: Demonstrate Kira's ability to carry on
 
 ## Core Events

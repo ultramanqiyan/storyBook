@@ -226,7 +226,7 @@ A knock at the door. Five minutes. He took a breath, arranged his face into the 
 **Emotional Beat**
 - **Position on Curve**: 15-55%
 - **Primary Emotion**: Confidence peaking, then subtle doubt
-- **Intensity**: 45 â†’ 70 â†’ 50
+- **Intensity**: 45 â†?70 â†?50
 - **Three Layers**:
   - Surface: Commanding presence, dramatic pauses, confident pronouncements
   - Internal: Riding the high, then a moment of "wait, did I actually see that?"
@@ -331,7 +331,7 @@ He put down his phone and closed his eyes. Tomorrow, he would begin. Tomorrow, h
 **Internal Journey**
 - **Internal Conflict**: The tension between his public certainty and private doubt
 - **Realization/Moment of Clarity**: A brief flash that his method might not be real
-- **Emotional Change**: Confidence â†’ peak â†’ subtle crack
+- **Emotional Change**: Confidence â†?peak â†?subtle crack
 - **Psychological Shift**: None yet - he suppresses the doubt
 
 **Character Growth**
@@ -584,7 +584,7 @@ He put down his phone and closed his eyes. The apartment was too quiet. He thoug
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

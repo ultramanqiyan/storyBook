@@ -295,7 +295,7 @@ He closed the laptop and sat in the quiet dark, the number still glowing behind 
 
 **Emotional Beat**
 - **Position on Curve**: 55-100%
-- **Primary Emotion**: Unease â†’ Reflection
+- **Primary Emotion**: Unease â†?Reflection
 - **Intensity**: 68-70
 - **Three Layers**:
   - Surface: Dismissal of news, then watching
@@ -316,7 +316,7 @@ He closed the laptop and sat in the quiet dark, the number still glowing behind 
 **Internal Journey**
 - **Internal Conflict**: Pride vs. growing unease
 - **Realization/Moment of Clarity**: None yet - this is setup
-- **Emotional Change**: Security â†’ Guarded security
+- **Emotional Change**: Security â†?Guarded security
 - **Psychological Shift**: None yet - denial is active
 
 **Character Growth**
@@ -402,8 +402,7 @@ He closed the laptop and sat in the quiet dark, the number still glowing behind 
 | Temporal | Decades compressed to moments | 2 | Throughout | Time's passage | [ ] |
 | Olfactory | Coffee from kitchen | 3 | Background | Comfort | [ ] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Detail Functions
 Each detail must serve at least one function:
 - [x] Establish atmosphere/mood
@@ -540,7 +539,7 @@ The question hung in the quiet air, unanswered.
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext
 - [ ] Character has clear internal state

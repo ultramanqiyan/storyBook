@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Professional competence eroding into hollowness, shame of "borrowed voice," questioning what makes voice authentic
-- **Emotional Arc**: Confident â†’ Curious â†’ Skeptical â†’ Impressed â†’ Relieved â†’ Comfortable â†’ Confused â†’ Uneasy â†’ Conflicted â†’ Hollow â†’ Surprised â†’ Desperate â†’ Grieving â†’ Horrified â†’ Questioning â†’ Reflective â†’ Uncertain â†’ Tentative â†’ Open
+- **Emotional Arc**: Confident â†?Curious â†?Skeptical â†?Impressed â†?Relieved â†?Comfortable â†?Confused â†?Uneasy â†?Conflicted â†?Hollow â†?Surprised â†?Desperate â†?Grieving â†?Horrified â†?Questioning â†?Reflective â†?Uncertain â†?Tentative â†?Open
 - **Emotional Pacing**: Gradual build from competent professional to AI dependency, accelerating toward crisis and philosophical confrontation
 
 ## Character Voices
@@ -113,34 +113,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The First Email
-David writes email himself; manager introduces SalesPilot. Establish David's authentic voice. Emotional arc: Confident â†’ Curious
+David writes email himself; manager introduces SalesPilot. Establish David's authentic voice. Emotional arc: Confident â†?Curious
 
 ### Chapter 2: The Polish
-SalesPilot improves his email; client responds positively. David's initial resistance to AI. Emotional arc: Skeptical â†’ Impressed
+SalesPilot improves his email; client responds positively. David's initial resistance to AI. Emotional arc: Skeptical â†?Impressed
 
 ### Chapter 3: The Efficiency
-David saves time; stops writing from scratch. Subtle signs of voice distance. Emotional arc: Relieved â†’ Comfortable
+David saves time; stops writing from scratch. Subtle signs of voice distance. Emotional arc: Relieved â†?Comfortable
 
 ### Chapter 4: The Preference
-Client praises "his" email; he didn't write it. First AI-mediated communication. Emotional arc: Confused â†’ Uneasy
+Client praises "his" email; he didn't write it. First AI-mediated communication. Emotional arc: Confused â†?Uneasy
 
 ### Chapter 5: The Better Version
-David lets AI write everything; clients love it. Peak dependency. Emotional arc: Conflicted â†’ Hollow
+David lets AI write everything; clients love it. Peak dependency. Emotional arc: Conflicted â†?Hollow
 
 ### Chapter 6: The Change
-Client notices "improvement" but it's AI. David realizes AI is preferred. Emotional arc: Surprised â†’ Conflicted
+Client notices "improvement" but it's AI. David realizes AI is preferred. Emotional arc: Surprised â†?Conflicted
 
 ### Chapter 7: The Comparison
-David writes email himself; it's worse than AI. He mourns his authentic voice. Emotional arc: Desperate â†’ Grieving
+David writes email himself; it's worse than AI. He mourns his authentic voice. Emotional arc: Desperate â†?Grieving
 
 ### Chapter 8: The Imposter
-David realizes he's been "borrowing" his own voice. Questions authenticity. Emotional arc: Horrified â†’ Questioning
+David realizes he's been "borrowing" his own voice. Questions authenticity. Emotional arc: Horrified â†?Questioning
 
 ### Chapter 9: The Question
-David talks to Rachel about authenticity. Must choose for himself. Emotional arc: Reflective â†’ Uncertain
+David talks to Rachel about authenticity. Must choose for himself. Emotional arc: Reflective â†?Uncertain
 
 ### Chapter 10: The Voice
-David writes one email in his own voice. Sends authentic email. Open ending. Emotional arc: Tentative â†’ Open
+David writes one email in his own voice. Sends authentic email. Open ending. Emotional arc: Tentative â†?Open
 
 ## Open Ending Design
 

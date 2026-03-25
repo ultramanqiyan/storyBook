@@ -247,15 +247,15 @@ Anna returns to her clients, carrying a new understanding. Whether free will is 
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (counseling â†’ study)
-**Chapter 2** â†’ Chapter 3 (invitation â†’ testing)
-**Chapter 3** â†’ Chapter 4 (scans â†’ prediction)
-**Chapter 4** â†’ Chapter 5 (results â†’ denial)
-**Chapter 5** â†’ Chapter 6 (fighting â†’ evidence)
-**Chapter 6** â†’ Chapter 7 (patterns â†’ crisis)
-**Chapter 7** â†’ Chapter 8 (crisis â†’ research)
-**Chapter 8** â†’ Chapter 9 (research â†’ understanding)
-**Chapter 9** â†’ Chapter 10 (understanding â†’ choice)
+**Chapter 1** â†?Chapter 2 (counseling â†?study)
+**Chapter 2** â†?Chapter 3 (invitation â†?testing)
+**Chapter 3** â†?Chapter 4 (scans â†?prediction)
+**Chapter 4** â†?Chapter 5 (results â†?denial)
+**Chapter 5** â†?Chapter 6 (fighting â†?evidence)
+**Chapter 6** â†?Chapter 7 (patterns â†?crisis)
+**Chapter 7** â†?Chapter 8 (crisis â†?research)
+**Chapter 8** â†?Chapter 9 (research â†?understanding)
+**Chapter 9** â†?Chapter 10 (understanding â†?choice)
 
 ### Thematic Cluster Links
 

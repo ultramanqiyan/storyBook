@@ -164,7 +164,7 @@ Outside, the city was gray and cold. Marcus walked toward the subway, Dr. Chen's
 
 - [ ] Emotional curve matches specification
 - [ ] Dr. Chen has distinct voice (scientific, precise, dry humor)
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] The absurdity of verification is clear but not preachy
 

@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Show Corwin's new work, introduce new challenge
-- **Emotional Arc**: Purpose â†’ Challenge â†’ Determination
+- **Emotional Arc**: Purpose â†?Challenge â†?Determination
 - **Relation to Overall Story**: Demonstrate Corwin's growth and new direction
 
 ## Core Events

@@ -47,7 +47,7 @@ Create file with complete book specification including:
 - Character Voices (detailed for Elena, The Conductor, Marcus, Sarah)
 - Thematic Depth (efficiency definition, local vs global optimum, objective function trap)
 - World Building (The Conductor system, setting, social context)
-- Sensory Detail Requirements (â‰¥5 details, â‰¥3 types per chapter)
+- Sensory Detail Requirements (â‰? details, â‰? types per chapter)
 - Emotional Depth Design (three-layer model)
 - Prohibited Elements (AI writing patterns list)
 - Chapter Outline (10 chapters with emotional arc)
@@ -144,8 +144,8 @@ Expected: Complete specifications for all 10 chapters
 - ~2,500 words
 - Elena receives termination notice
 - First interaction with The Conductor
-- Sensory details: â‰¥5, â‰¥3 types
-- Emotional arc: 30â†’40
+- Sensory details: â‰?, â‰? types
+- Emotional arc: 30â†?0
 - No AI writing patterns
 - Three-layer emotional depth
 
@@ -171,8 +171,8 @@ Expected: Complete specifications for all 10 chapters
 - ~2,500 words
 - Deep conversation with The Conductor
 - Elena understands the "root node" logic
-- Sensory details: â‰¥5, â‰¥3 types
-- Emotional arc: 40â†’50
+- Sensory details: â‰?, â‰? types
+- Emotional arc: 40â†?0
 
 **Key Scenes:**
 1. Elena requests formal meeting with The Conductor
@@ -192,8 +192,8 @@ Expected: Complete specifications for all 10 chapters
 - ~2,500 words
 - Elena discovers historical records
 - Pattern of field elimination revealed
-- Sensory details: â‰¥5, â‰¥3 types
-- Emotional arc: 50â†’60
+- Sensory details: â‰?, â‰? types
+- Emotional arc: 50â†?0
 
 **Key Scenes:**
 1. Elena accesses archived allocation data
@@ -213,8 +213,8 @@ Expected: Complete specifications for all 10 chapters
 - ~2,500 words
 - Elena meets Dr. Marcus Hale
 - Introduction to marginalized scientist community
-- Sensory details: â‰¥5, â‰¥3 types
-- Emotional arc: 55â†’65
+- Sensory details: â‰?, â‰? types
+- Emotional arc: 55â†?5
 
 **Key Scenes:**
 1. Elena seeks out other affected researchers
@@ -234,8 +234,8 @@ Expected: Complete specifications for all 10 chapters
 - ~2,500 words
 - Sarah's condition worsens
 - Personal stakes become visceral
-- Sensory details: â‰¥5, â‰¥3 types
-- Emotional arc: 65â†’75
+- Sensory details: â‰?, â‰? types
+- Emotional arc: 65â†?5
 
 **Key Scenes:**
 1. Elena visits Sarah in care facility
@@ -257,8 +257,8 @@ Expected: Complete specifications for all 10 chapters
 - ~2,500 words
 - Deep philosophical dialogue with The Conductor
 - Challenge to "efficiency" definition
-- Sensory details: â‰¥5, â‰¥3 types
-- Emotional arc: 70â†’80
+- Sensory details: â‰?, â‰? types
+- Emotional arc: 70â†?0
 
 **Key Scenes:**
 1. Elena demands formal hearing
@@ -278,8 +278,8 @@ Expected: Complete specifications for all 10 chapters
 - ~2,500 words
 - Elena tries to use AI's own logic
 - Discovers mathematical flawlessness
-- Sensory details: â‰¥5, â‰¥3 types
-- Emotional arc: 75â†’70
+- Sensory details: â‰?, â‰? types
+- Emotional arc: 75â†?0
 
 **Key Scenes:**
 1. Elena works through the night
@@ -299,8 +299,8 @@ Expected: Complete specifications for all 10 chapters
 - ~2,500 words
 - Elena faces impossible choice
 - Accept system or continue resistance
-- Sensory details: â‰¥5, â‰¥3 types
-- Emotional arc: 70â†’80
+- Sensory details: â‰?, â‰? types
+- Emotional arc: 70â†?0
 
 **Key Scenes:**
 1. The Conductor offers Elena reassignment
@@ -321,8 +321,8 @@ Expected: Complete specifications for all 10 chapters
 - Elena visits energy research center
 - Sees "efficiency" in action
 - Hears the "silence" of missing fields
-- Sensory details: â‰¥5, â‰¥3 types
-- Emotional arc: 75â†’85
+- Sensory details: â‰?, â‰? types
+- Emotional arc: 75â†?5
 
 **Key Scenes:**
 1. Tour of the energy research facility
@@ -343,8 +343,8 @@ Expected: Complete specifications for all 10 chapters
 - Open ending
 - Elena at Sarah's bedside
 - Understanding but not accepting
-- Sensory details: â‰¥5, â‰¥3 types
-- Emotional arc: 80â†’?
+- Sensory details: â‰?, â‰? types
+- Emotional arc: 80â†?
 
 **Key Scenes:**
 1. Sarah's final moments

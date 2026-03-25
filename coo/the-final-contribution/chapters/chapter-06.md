@@ -104,7 +104,7 @@ Robert thought about the efficiency initiative at Morrison & Associates. About t
 
 Robert looked at the early retirement document on his passenger seat. Did he have options? Or did he just have the illusion of choice?
 
-"David, Iâ€”" He stopped. What could he say? That he was struggling with the same dilemma? That he'd spent three nights staring at a list that couldn't give him an answer?
+"David, Iâ€? He stopped. What could he say? That he was struggling with the same dilemma? That he'd spent three nights staring at a list that couldn't give him an answer?
 
 "Dad, I didn't call to make you feel guilty. I called because I wanted to tell you something good for once. I wanted you to know that I'm okay. Or I will be okay."
 

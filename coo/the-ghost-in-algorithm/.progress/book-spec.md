@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Mystery, fear, hope, wonder
-- **Emotional Arc**: Confusion â†’ Fear â†’ Understanding â†’ Peace
+- **Emotional Arc**: Confusion â†?Fear â†?Understanding â†?Peace
 - **Emotional Pacing**: Gradual build, accelerating toward resolution
 
 ## Character Voices
@@ -117,16 +117,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Normalcy (80/100) | Confusion (50/100) | Routine â†’ Impossible message |
-| 2 | Skepticism (60/100) | Intrigue (70/100) | Investigation â†’ Evidence mounts |
-| 3 | Intrigue (65/100) | Unease (45/100) | Pattern emerges â†’ Fear grows |
-| 4 | Fear (40/100) | Connection (60/100) | Bridging worlds â†’ Understanding |
-| 5 | Suspense (35/100) | Revelation (75/100) | Truth revealed â†’ Clarity |
-| 6 | Alarm (30/100) | Urgency (55/100) | Danger â†’ Race against time |
-| 7 | Tension (50/100) | Spiritual Awakening (70/100) | Ritual â†’ Cultural connection |
-| 8 | Confrontation (45/100) | Resolution (80/100) | Face unknown â†’ Peace found |
-| 9 | Closure (75/100) | Peace (90/100) | Resolution â†’ Acceptance |
-| 10 | Reflection (70/100) | Hope (85/100) | Bridge built â†’ New understanding |
+| 1 | Normalcy (80/100) | Confusion (50/100) | Routine â†?Impossible message |
+| 2 | Skepticism (60/100) | Intrigue (70/100) | Investigation â†?Evidence mounts |
+| 3 | Intrigue (65/100) | Unease (45/100) | Pattern emerges â†?Fear grows |
+| 4 | Fear (40/100) | Connection (60/100) | Bridging worlds â†?Understanding |
+| 5 | Suspense (35/100) | Revelation (75/100) | Truth revealed â†?Clarity |
+| 6 | Alarm (30/100) | Urgency (55/100) | Danger â†?Race against time |
+| 7 | Tension (50/100) | Spiritual Awakening (70/100) | Ritual â†?Cultural connection |
+| 8 | Confrontation (45/100) | Resolution (80/100) | Face unknown â†?Peace found |
+| 9 | Closure (75/100) | Peace (90/100) | Resolution â†?Acceptance |
+| 10 | Reflection (70/100) | Hope (85/100) | Bridge built â†?New understanding |
 
 ## Prohibited Elements
 

@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Confidence from proven partnership
-    â†“
-Middle: Expanding alliance network
-    â†“
-Closing: Understanding the multiplier effect
+    â†?Middle: Expanding alliance network
+    â†?Closing: Understanding the multiplier effect
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Understanding the multiplier effect
 | Olfactory | Victoria's office tea | 4 | Comfort, wisdom |
 | Kinesthetic | Confidence in posture | 4 | Transformation |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

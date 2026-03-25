@@ -42,7 +42,7 @@ He hesitated. "Not really. But at my age, who does?"
 
 She should have moved on. The system said low concern. But she found herself asking, "How's your appetite?"
 
-"Down a bit. But againâ€”"
+"Down a bit. But againâ€?
 
 "Age?"
 
@@ -80,7 +80,7 @@ The question hung in the air. What did she think? She honestly didn't know. She'
 
 Dr. Webb's expression didn't change, but something in his eyes flickered. "Is it?"
 
-"Of course. The data showsâ€”"
+"Of course. The data showsâ€?
 
 "The data shows what the system is designed to show. But medicine isn't just data, Sarah. It's people. It's stories. It's the things that don't fit neatly into algorithms."
 
@@ -120,8 +120,7 @@ Sarah took her position, the familiar weight of the surgical instruments in her 
 
 "Vitals stable," the anesthesiologist called out. "Proceed with cauterization at coordinates 4-7-2."
 
-Sarah moved to comply, her hands steady. But thenâ€”
-
+Sarah moved to comply, her hands steady. But thenâ€?
 The lights flickered. The monitors stuttered. And the soft voice in her earpiece went silent.
 
 "System's down," someone called. "IT says it's a hospital-wide outage. Should be back up in a few minutes."
@@ -130,8 +129,7 @@ A few minutes. In surgery, a few minutes could be a lifetime.
 
 "Dr. Chen, vitals are dropping. What's the call?"
 
-Sarah stared at the patient, her mind suddenly blank. The system had been telling her what to do, step by step. Without it, she couldn't rememberâ€”
-
+Sarah stared at the patient, her mind suddenly blank. The system had been telling her what to do, step by step. Without it, she couldn't rememberâ€?
 "Dr. Chen?"
 
 Her hands trembled over the open incision. She should know what to do. She was a doctor. She'd trained for years. But the knowledge was gone, buried under months of algorithmic guidance.

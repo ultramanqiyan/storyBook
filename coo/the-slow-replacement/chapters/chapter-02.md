@@ -24,7 +24,7 @@ David stood near the window, a beer in his hand and a smile on his face. But Mar
 
 David's smile tightened. "How do you think? I just got 'optimized' out of existence."
 
-"I'm sorry, man. This isâ€”"
+"I'm sorry, man. This isâ€?
 
 "Bullshit?" David laughed, but there was no humor in it. "Seven years, Marcus. Seven years of late nights and missed weekends and building their entire backend infrastructure. And they replace me with a fucking algorithm."
 
@@ -36,7 +36,7 @@ The words hit Marcus like a physical blow. "They're already using it?"
 
 "They've been using it for months. Quietly. Testing it on small tasks, comparing the output to human developers." David's voice dropped lower. "You know what they found? The AI is faster, cheaper, and makes fewer mistakes. The only thing it can't do is the creative workâ€”the architectural decisions, the complex problem-solving."
 
-"But that'sâ€”" Marcus started.
+"But that'sâ€? Marcus started.
 
 "That's what they keep us around for. For now." David finished his beer and set the empty bottle on the windowsill. "But how long do you think it'll take them to figure out that part too?"
 
@@ -46,7 +46,7 @@ Marcus didn't have an answer.
 
 The room suddenly felt too small, too hot. Marcus's chest tightened.
 
-"David, Iâ€”"
+"David, Iâ€?
 
 "I'm not trying to scare you." David reached out and gripped Marcus's shoulder. "I'm trying to warn you. This isn't just about me. This is about all of us. They're not replacing us with better people. They're replacing us with software."
 

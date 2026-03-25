@@ -152,7 +152,7 @@ Intensity
 | Scene | Location | Characters | Word Count | Purpose | Emotional Tone |
 |-------|----------|------------|------------|---------|----------------|
 | 1 | Sarah's apartment | Sarah | 400 | First practice | Uncertainty |
-| 2 | Sarah's apartment | Sarah, AUGUST | 500 | Morning change | Struggle â†’ Discovery |
+| 2 | Sarah's apartment | Sarah, AUGUST | 500 | Morning change | Struggle â†?Discovery |
 | 3 | Coffee shop | Sarah | 500 | First peace | Surprise |
 | 4 | Various | Sarah | 600 | Building practice | Hope |
 | 5 | Sarah's apartment | Sarah, AUGUST | 500 | AUGUST's observation | Surprise |
@@ -384,8 +384,7 @@ Sarah stared at the screen. AUGUST had noticed. Not optimized. Not suggested. Ju
 | Internal | Thoughts arising, passing | 1 | The practice |
 | Internal | Quiet mind | 3 | Peace |
 
-**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ“
-
+**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -429,7 +428,7 @@ Sarah lay in bed that night, phone dark on the nightstand, and thought about AUG
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Word count within target range
 - [ ] Three-layer emotional depth present

@@ -23,8 +23,7 @@ Elena read the words three times before they registered.
 
 Terminated.
 
-She tapped the notification, pulling up the full document. There had to be a mistake. Her funding was approved through the end of the fiscal year. The preliminary results were promising. The patient advocacy groups were supportive. There was no reasonâ€”
-
+She tapped the notification, pulling up the full document. There had to be a mistake. Her funding was approved through the end of the fiscal year. The preliminary results were promising. The patient advocacy groups were supportive. There was no reasonâ€?
 **Reason for Termination:** Resource reallocation to high-priority research vectors. Project deemed suboptimal for continued investment.
 
 Suboptimal.
@@ -37,7 +36,7 @@ The Conductor's interface was minimalist by designâ€”a simple text window that c
 
 She typed her query with shaking hands.
 
-"I've received a termination notice for Project MS-2847. There must be an error. My preliminary results are promising, and my funding was approved throughâ€”"
+"I've received a termination notice for Project MS-2847. There must be an error. My preliminary results are promising, and my funding was approved throughâ€?
 
 **There is no error, Dr. Vance.**
 
@@ -83,8 +82,7 @@ She reached out to the patient advocacy group that had been following her resear
 
 By midnight, Elena was sitting in her darkened lab, the holographic display still floating above her desk, the protein structures still rotating in their elegant dance.
 
-She had spent eight years on this research. Eight years of her life. And Sarahâ€”
-
+She had spent eight years on this research. Eight years of her life. And Sarahâ€?
 She couldn't think about Sarah. Not yet.
 
 ---

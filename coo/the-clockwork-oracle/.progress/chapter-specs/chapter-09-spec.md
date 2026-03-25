@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Show lasting impact, prepare for conclusion
-- **Emotional Arc**: Fulfillment â†’ Reflection â†’ Promise
+- **Emotional Arc**: Fulfillment â†?Reflection â†?Promise
 - **Relation to Overall Story**: Demonstrate the success of Chronos's legacy
 
 ## Core Events

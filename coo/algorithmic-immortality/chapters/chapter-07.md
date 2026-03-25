@@ -36,7 +36,7 @@ Ingrid held her hand, feeling the paper-thin skin, the fragile bones beneath. "C
 
 Mrs. Halvorsen was quiet for a moment, her eyes distant. "My husband died twelve years ago. Cancer, like me. We were married for fifty-three years." She smiled, a faraway look on her face. "He's waiting for me. Or he's not. Either way, I want to find out."
 
-"But you could see him again. The uploadâ€”"
+"But you could see him again. The uploadâ€?
 
 "No, dear." Mrs. Halvorsen shook her head gently. "I could see something that looked like him. Talk to something that remembered being him. But that's not the same." She squeezed Ingrid's hand. "Do you know what I loved most about Harold? Not his mind, though that was sharp as a tack. Not his memories, though we made plenty of those together. It was the way he felt beside me in bed. The weight of him. The warmth. The way his hand found mine in the dark without either of us thinking about it."
 

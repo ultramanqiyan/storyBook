@@ -364,14 +364,12 @@ Behind him, a woman waits.
 
 Before him, the world unfolds.
 
-And in the space between themâ€”
-
+And in the space between themâ€?
 In the space between staying and leaving,
 
 Between love and freedom,
 
-Between what is and what could beâ€”
-
+Between what is and what could beâ€?
 In that space, everything exists.
 
 Every choice. Every possibility. Every life.

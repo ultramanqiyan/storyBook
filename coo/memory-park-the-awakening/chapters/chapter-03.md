@@ -14,8 +14,7 @@ The train car was empty except for him. Other guests had boarded at other statio
 
 They didn't know the half of it.
 
-Marcus pulled out his phone. He should report this. He should tell the park administrators what had happened. An AI had attacked a guest. An AI had remembered. This was a malfunction, a bug, aâ€”
-
+Marcus pulled out his phone. He should report this. He should tell the park administrators what had happened. An AI had attacked a guest. An AI had remembered. This was a malfunction, a bug, aâ€?
 He stopped. What would he say? "I've been killing the same AI for three years, and finally they fought back"? That would go over well.
 
 The train began to slow. The city was approachingâ€”glass and steel rising from the desert, a monument to the same corporate power that had built Memory Park. Marcus watched it through the window, feeling the distance between himself and the park growing with every mile.
@@ -64,7 +63,7 @@ Dr. Chen's section was dedicated to Frontier Town. She had designed Dakota's beh
 
 Now she watched that balance shatter.
 
-"Unit Dakota has deviated from narrative," a technician reported. "Guest Marcus Chen has been injured. Non-lethal, butâ€”"
+"Unit Dakota has deviated from narrative," a technician reported. "Guest Marcus Chen has been injured. Non-lethal, butâ€?
 
 "I can see what happened," Dr. Chen interrupted. "How long has Dakota been retaining memories?"
 

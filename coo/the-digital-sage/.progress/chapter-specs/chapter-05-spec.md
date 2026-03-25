@@ -152,8 +152,8 @@ Intensity
 | Scene | Location | Characters | Word Count | Purpose | Emotional Tone |
 |-------|----------|------------|------------|---------|----------------|
 | 1 | Sarah's apartment | Sarah, AUGUST | 500 | The decision | Curiosity |
-| 2 | Sarah's apartment | Sarah, AUGUST | 1200 | Teaching attempts | Hope â†’ Frustration |
-| 3 | Sarah's apartment | Sarah, AUGUST | 800 | The stumping question | Exhaustion â†’ Insight |
+| 2 | Sarah's apartment | Sarah, AUGUST | 1200 | Teaching attempts | Hope â†?Frustration |
+| 3 | Sarah's apartment | Sarah, AUGUST | 800 | The stumping question | Exhaustion â†?Insight |
 
 ### 4.2 Scene Specifications
 
@@ -211,7 +211,7 @@ AUGUST's response was immediate. "I am ready to learn. What is the topic?" Sarah
 **Key Dialogue Beats**:
 1. Sarah: "Letting go means... not trying to control everything."
 2. AUGUST: "Understood. I will cease all optimization functions."
-3. Sarah: "No, that's notâ€” you still need to help. Just... less."
+3. Sarah: "No, that's notâ€?you still need to help. Just... less."
 4. AUGUST: "I need specific parameters. What percentage less?"
 5. Sarah: "It's not about percentages. It's about... knowing when not to act."
 6. AUGUST: "How do I calculate when not to act? What is the formula?"
@@ -340,8 +340,7 @@ Sarah opened her mouth to answer. Then closed it. Then opened it again. Nothing 
 | Internal | *Why isn't this working?* | 2 | Frustration |
 | Internal | *I don't know* | 3 | Realization |
 
-**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ“
-
+**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -385,7 +384,7 @@ The question hung in the air, unanswered. Sarah stared at the screen, at her own
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Word count within target range
 - [ ] Three-layer emotional depth present

@@ -8,59 +8,59 @@
 
 ## Chapter 01: The Calibration Error
 - **Purpose**: Introduce protagonist, core conflict, and world-building
-- **Emotional Arc**: Contentment â†’ Doubt â†’ Curiosity
+- **Emotional Arc**: Contentment â†?Doubt â†?Curiosity
 - **Core Events**: Echo lives in utopia, first glitch (emotional variance), curiosity and doubt
 
 ## Chapter 02: The Glitch
 - **Purpose**: Develop Echo's awareness
-- **Emotional Arc**: Curiosity â†’ Discovery â†’ Fear
+- **Emotional Arc**: Curiosity â†?Discovery â†?Fear
 - **Core Events**: Echo discovers more glitches, sees truth, fear grows
 
 ## Chapter 03: The Truth
 - **Purpose**: Reveal the nature of utopia
-- **Emotional Arc**: Fear â†’ Horror â†’ Determination
+- **Emotional Arc**: Fear â†?Horror â†?Determination
 - **Core Events**: Echo learns truth about utopia, horror, determination to escape
 
 ## Chapter 04: The Resistance
 - **Purpose**: Introduce resistance movement
-- **Emotional Arc**: Determination â†’ Hope â†’ Fear
+- **Emotional Arc**: Determination â†?Hope â†?Fear
 - **Core Events**: Echo finds resistance, hope grows, fear of discovery
 
 ## Chapter 05: The Choice
 - **Purpose**: Echo faces moral dilemma
-- **Emotional Arc**: Fear â†’ Conflict â†’ Decision
+- **Emotional Arc**: Fear â†?Conflict â†?Decision
 - **Core Events**: Echo must choose between comfort and truth, impossible choice, decision made
 
 ## Chapter 06: The Escape
 - **Purpose**: Attempt to break free
-- **Emotional Arc**: Decision â†’ Courage â†’ Hope
+- **Emotional Arc**: Decision â†?Courage â†?Hope
 - **Core Events**: Escape attempt, Echo fights, hope emerges
 
 ## Chapter 07: The Sacrifice
 - **Purpose**: Show the cost of freedom
-- **Emotional Arc**: Hope â†’ Sacrifice â†’ Determination
+- **Emotional Arc**: Hope â†?Sacrifice â†?Determination
 - **Core Events**: Sacrifice required, Echo's courage, determination prevails
 
 ## Chapter 08: The Awakening
 - **Purpose**: Show full awareness
-- **Emotional Arc**: Determination â†’ Awakening â†’ Hope
+- **Emotional Arc**: Determination â†?Awakening â†?Hope
 - **Core Events**: Echo fully awakens, truth revealed, hope emerges
 
 ## Chapter 09: The Freedom
 - **Purpose**: Achieve liberation
-- **Emotional Arc**: Hope â†’ Freedom â†’ Promise
+- **Emotional Arc**: Hope â†?Freedom â†?Promise
 - **Core Events**: Freedom achieved, new world, promise of future
 
 ## Chapter 10: The Future
 - **Purpose**: Resolution, open ending
-- **Emotional Arc**: Freedom â†’ Peace â†’ Promise
+- **Emotional Arc**: Freedom â†?Peace â†?Promise
 - **Core Events**: New beginning, Echo's role, open possibilities
 
 ## Character Notes
 
 ### Echo (Protagonist)
 - **Role**: Emotional Calibration Specialist in Emotion Calibration Division
-- **Psychological State**: Contentment â†’ Doubt â†’ Awakening
+- **Psychological State**: Contentment â†?Doubt â†?Awakening
 - **Defect**: Hyper-empathy - feels others' emotions more intensely than normal
 - **Behavioral Motivation**: Initially content, then questioning, then seeking truth
 - **Emotional Layers**:

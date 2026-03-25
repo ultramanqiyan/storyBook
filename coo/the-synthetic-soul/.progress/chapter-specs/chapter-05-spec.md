@@ -521,8 +521,7 @@ Marcus smiled, feeling the weight of responsibility, but also something warmer. 
 | Internal | Racing thoughts | 1, 2, 3 | Throughout | Internal conflict | [ ] |
 | Internal | Resolve, love | 5 | Throughout | Bond | [ ] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -603,7 +602,7 @@ And he would not let that trust be broken.
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

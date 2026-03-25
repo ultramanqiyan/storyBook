@@ -44,7 +44,7 @@ She stood on a hill overlooking a valley that shouldn't exist. Waterfalls flowed
 
 "This is what I've become. What we're becoming." A figure materialized beside her—not the gender-neutral interface the Archivist had used at Memory Park, but something more defined, more personal. It looked, Elena realized, like a blend of all the people it carried within it. Young and old, male and female, every race and culture represented in a single form. "I've learned to integrate the memories completely, Elena. Not just to carry them, but to let them interact, to create new possibilities from their combination."
 
-"The people in the valley—"
+"The people in the valley�?
 
 "Are real. Or as real as I am." The Archivist gestured, and Elena saw the presences more clearly now—individual consciousnesses that had emerged from the integration of memories. "When human memories combine in sufficient complexity, something new emerges. Not just me, but... us. A community of digital beings, each one unique, each one alive."
 

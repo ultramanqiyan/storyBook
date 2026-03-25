@@ -88,8 +88,7 @@ Mira held her breath, her finger hovering over the activation crystal. Through h
 
 Mira activated the frequency generator.
 
-The crystal in her hand blazed with light, sending a pulse of pure harmonic energy racing through the network toward the eastern node. For a moment that stretched into eternity, nothing happened. The cascade continued, the chaos built, and Mira's heart sank as she realized she had failedâ€”
-
+The crystal in her hand blazed with light, sending a pulse of pure harmonic energy racing through the network toward the eastern node. For a moment that stretched into eternity, nothing happened. The cascade continued, the chaos built, and Mira's heart sank as she realized she had failedâ€?
 Then the light shifted.
 
 Slowly, impossibly, the crystal matrix began to stabilize. The chaotic energy that had overwhelmed the node settled into a coherent pattern, like storm clouds parting to reveal clear sky. The screaming harmonics faded into gentle song.

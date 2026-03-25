@@ -151,8 +151,8 @@ The thesis document sat on her desk, two hundred pages of borrowed questions and
 
 **Emotional Beat**
 - **Position on Curve**: 25-75%
-- **Primary Emotion**: Anxiety â†’ Conflict
-- **Intensity**: 80 â†’ 85
+- **Primary Emotion**: Anxiety â†?Conflict
+- **Intensity**: 80 â†?85
 - **Three Layers**:
   - Surface: Confident, professional
   - Internal: "*This isn't mine. I'm lying to all of them.*"
@@ -200,7 +200,7 @@ She walked out of the conference room, the committee's praise still ringing in h
 **Internal Journey**
 - **Internal Conflict**: Success vs. integrity
 - **Realization/Moment of Clarity**: She can't keep living the lie
-- **Emotional Change**: Determination â†’ Anxiety â†’ Conflict â†’ Guilt â†’ Resolve
+- **Emotional Change**: Determination â†?Anxiety â†?Conflict â†?Guilt â†?Resolve
 - **Psychological Shift**: From performer to truth-seeker
 
 ---

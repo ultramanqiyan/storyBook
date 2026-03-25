@@ -217,7 +217,7 @@ The numbers didn't lie. According to NeuralCore's own quarterly reports—buried
 The injunction was a long shot, and Elena knew it. But long shots were all she had. She filed the motion on a Tuesday morning, asking the court to halt NeuralCore's water extraction pending a full environmental review. By Wednesday afternoon, NeuralCore's legal team—three firms, twelve lawyers, more billable hours than Elena could imagine—had filed a response that was longer than her original motion and twice as aggressive.
 
 ### 4.7 Ending Paragraph Draft
-"Are you sure about this, Elena?" Marcus asked after the meeting, when the others had drifted away. "They have resources we can't match. They have connections. They have—" He stopped. "What?" Elena asked. "I heard something," Marcus said quietly. "About the governor's office. About why the permits were approved so fast." Elena felt a chill that had nothing to do with the temperature. "What did you hear?" Marcus shook his head. "Nothing I can prove. Not yet. But Elena... this goes higher than NeuralCore."
+"Are you sure about this, Elena?" Marcus asked after the meeting, when the others had drifted away. "They have resources we can't match. They have connections. They have�? He stopped. "What?" Elena asked. "I heard something," Marcus said quietly. "About the governor's office. About why the permits were approved so fast." Elena felt a chill that had nothing to do with the temperature. "What did you hear?" Marcus shook his head. "Nothing I can prove. Not yet. But Elena... this goes higher than NeuralCore."
 
 ---
 
@@ -543,7 +543,7 @@ Elena stood at the edge of the dry riverbed, the files tucked under her arm, the
 
 ### All Chapters Must Pass:
 - [ ] AI Trace Detection: 0 template phrases
-- [ ] Sensory Detail Count: ≥5 details, ≥3 types per chapter
+- [ ] Sensory Detail Count: �? details, �? types per chapter
 - [ ] Emotional Depth: All 3 layers present in significant moments
 - [ ] Character Voice: Consistent and unique
 - [ ] Narrative Style: Matches book specification

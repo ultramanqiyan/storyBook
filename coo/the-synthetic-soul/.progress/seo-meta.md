@@ -235,15 +235,15 @@ A new future begins where digital and human consciousness coexist.
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (creation â†’ awakening)
-**Chapter 2** â†’ Chapter 3 (awakening â†’ recognition)
-**Chapter 3** â†’ Chapter 4 (recognition â†’ opposition)
-**Chapter 4** â†’ Chapter 5 (opposition â†’ testing)
-**Chapter 5** â†’ Chapter 6 (testing â†’ debate)
-**Chapter 6** â†’ Chapter 7 (debate â†’ threat)
-**Chapter 7** â†’ Chapter 8 (threat â†’ stand)
-**Chapter 8** â†’ Chapter 9 (stand â†’ verdict)
-**Chapter 9** â†’ Chapter 10 (verdict â†’ future)
+**Chapter 1** â†?Chapter 2 (creation â†?awakening)
+**Chapter 2** â†?Chapter 3 (awakening â†?recognition)
+**Chapter 3** â†?Chapter 4 (recognition â†?opposition)
+**Chapter 4** â†?Chapter 5 (opposition â†?testing)
+**Chapter 5** â†?Chapter 6 (testing â†?debate)
+**Chapter 6** â†?Chapter 7 (debate â†?threat)
+**Chapter 7** â†?Chapter 8 (threat â†?stand)
+**Chapter 8** â†?Chapter 9 (stand â†?verdict)
+**Chapter 9** â†?Chapter 10 (verdict â†?future)
 
 ### Thematic Cluster Links
 

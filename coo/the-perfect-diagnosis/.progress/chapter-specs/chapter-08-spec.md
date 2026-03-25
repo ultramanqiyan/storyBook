@@ -302,8 +302,8 @@ Her pager buzzed again. Dr. Cross's office. Now. The second meeting. Sarah stood
 
 **Emotional Beat**
 - **Position on Curve**: 50-100%
-- **Primary Emotion**: Fear â†’ Determination
-- **Intensity**: 90 â†’ 95
+- **Primary Emotion**: Fear â†?Determination
+- **Intensity**: 90 â†?95
 - **Three Layers**:
   - Surface: Controlled, then standing firm
   - Internal: "*They're threatening me. But I won't be silenced.*"
@@ -329,13 +329,13 @@ The smile was gone. Dr. Cross sat behind her desk, her expression cold, professi
 **Internal Journey**
 - **Internal Conflict**: Self-preservation vs. integrity
 - **Realization/Moment of Clarity**: Some things are worth risking everything for
-- **Emotional Change**: Resolve â†’ Anxiety â†’ Conflict â†’ Fear â†’ Determination
+- **Emotional Change**: Resolve â†?Anxiety â†?Conflict â†?Fear â†?Determination
 - **Psychological Shift**: From personal recovery to systemic resistance
 
 **Character Growth**
 - **Starting State**: Ready to fight but untested
 - **Ending State**: Committed despite the cost
-- **Growth Metric**: Courage increasing (85 â†’ 90 on courage scale)
+- **Growth Metric**: Courage increasing (85 â†?90 on courage scale)
 
 **Key Decision**
 - **Decision**: To reject the offer and continue fighting
@@ -352,7 +352,7 @@ The smile was gone. Dr. Cross sat behind her desk, her expression cold, professi
 
 **Internal Journey**
 - **Internal Conflict**: None visibleâ€”fully aligned with system
-- **Emotional Change**: Professional mask â†’ cold threat
+- **Emotional Change**: Professional mask â†?cold threat
 - **Psychological Shift**: The system protects itself
 
 **Character Growth**
@@ -432,7 +432,7 @@ The smile was gone. Dr. Cross sat behind her desk, her expression cold, professi
 **Subtext**: The system's power vs. individual courage
 
 **Emotional Undercurrent**:
-- Sarah: Fear â†’ Determination
+- Sarah: Fear â†?Determination
 - Dr. Cross: Cold efficiency
 
 **Power Dynamics**: Shifting as Sarah stands firm
@@ -610,7 +610,7 @@ Sarah walked through the hospital with new purpose. The files she had seen, the 
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

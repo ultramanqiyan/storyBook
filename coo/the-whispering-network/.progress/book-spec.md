@@ -30,9 +30,9 @@
 - **Long-tail**: consciousness of dead wizards (0.5%), bridge between living and dead (0.5%)
 
 ### Internal Linking Strategy
-- Ch 1 â†’ Ch 6: "the brother she would later find in the void"
-- Ch 2 â†’ Ch 7: "the collective's dark side she didn't yet know"
-- Ch 4 â†’ Ch 9: "the integration that would change everything"
+- Ch 1 â†?Ch 6: "the brother she would later find in the void"
+- Ch 2 â†?Ch 7: "the collective's dark side she didn't yet know"
+- Ch 4 â†?Ch 9: "the integration that would change everything"
 
 ## Narrative Style
 - **Perspective**: Third-person limited (Mira's POV)
@@ -42,7 +42,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Wonder, discovery, responsibility, grief and hope
-- **Emotional Arc**: Discovery â†’ Connection â†’ Conflict â†’ Sacrifice â†’ Legacy
+- **Emotional Arc**: Discovery â†?Connection â†?Conflict â†?Sacrifice â†?Legacy
 - **Emotional Pacing**: Gradual build, accelerating toward resolution
 
 ## Character Voices
@@ -121,11 +121,11 @@ Each emotional beat must include:
 | "Neither of them knew..." | remove entirely |
 
 ### AI Writing Patterns - Tier 2 (Review and Replace)
-- Rule of Three â†’ Varied structure
-- Abstract emotions â†’ Physical manifestation
-- Template dialogue â†’ Subtext-rich alternatives
-- Vague intensifiers (very, really, quite) â†’ Specific descriptions
-- Passive voice â†’ Active voice
+- Rule of Three â†?Varied structure
+- Abstract emotions â†?Physical manifestation
+- Template dialogue â†?Subtext-rich alternatives
+- Vague intensifiers (very, really, quite) â†?Specific descriptions
+- Passive voice â†?Active voice
 
 ### Tension Vocabulary Requirements
 **Target**: 2-3 tension words per 1000 words

@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: New responsibilities creating pressure
-    â†“
-Middle: Finding the balance between depth and responsiveness
-    â†“
-Closing: Sustainable approach established
+    â†?Middle: Finding the balance between depth and responsiveness
+    â†?Closing: Sustainable approach established
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Sustainable approach established
 | Kinesthetic | Calm returning | 4 | Balance restored |
 | Auditory | Quiet during protected time | 4 | Depth protected |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

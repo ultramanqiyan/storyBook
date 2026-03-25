@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Attempting to implement deep work
-    â†“
-Middle: Strong resistance, rationalization
-    â†“
-Closing: Acknowledgment of fear
+    â†?Middle: Strong resistance, rationalization
+    â†?Closing: Acknowledgment of fear
 ```
 
 ### 2.2 Emotional Depth Design
@@ -138,8 +136,7 @@ Closing: Acknowledgment of fear
 | Olfactory | Evening air on balcony | 4 | Calm for reflection |
 | Kinesthetic | Tense shoulders releasing | 4 | Acceptance beginning |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

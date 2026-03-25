@@ -491,8 +491,7 @@ Marcus had thirty minutes before the meeting. He looked at Echo's display, at th
 | Internal | Fear, calculation | 3 | Throughout | Internal conflict | [ ] |
 | Internal | Love, determination | 4 | Throughout | Commitment | [ ] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Detail Functions
 Each detail must serve at least one function:
 - [x] Establish atmosphere/mood
@@ -648,7 +647,7 @@ Marcus stared at the screen, his throat tight. Then he stood, grabbed his jacket
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

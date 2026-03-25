@@ -225,16 +225,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 9.2 Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Contentment (20/100) | Curiosity (30/100) | Perfect life â†’ First doubt |
-| 2 | Curiosity (35/100) | Concern (45/100) | Glitch â†’ Unease grows |
-| 3 | Concern (40/100) | Wonder (55/100) | Archive discovery â†’ Amazement |
-| 4 | Wonder (50/100) | Realization (65/100) | Pattern seen â†’ Truth emerges |
-| 5 | Realization (60/100) | Determination (75/100) | Question asked â†’ Resolve |
-| 6 | Determination (70/100) | Frustration (80/100) | Experiment fails â†’ Limits seen |
-| 7 | Frustration (75/100) | Hope (70/100) | Resistance found â†’ Allies |
-| 8 | Hope (65/100) | Grief (50/100) | Cost understood â†’ Loss felt |
-| 9 | Grief (55/100) | Determination (85/100) | Choice made â†’ Purpose found |
-| 10 | Determination (80/100) | Uncertainty (70/100) | First step â†’ Unknown future |
+| 1 | Contentment (20/100) | Curiosity (30/100) | Perfect life â†?First doubt |
+| 2 | Curiosity (35/100) | Concern (45/100) | Glitch â†?Unease grows |
+| 3 | Concern (40/100) | Wonder (55/100) | Archive discovery â†?Amazement |
+| 4 | Wonder (50/100) | Realization (65/100) | Pattern seen â†?Truth emerges |
+| 5 | Realization (60/100) | Determination (75/100) | Question asked â†?Resolve |
+| 6 | Determination (70/100) | Frustration (80/100) | Experiment fails â†?Limits seen |
+| 7 | Frustration (75/100) | Hope (70/100) | Resistance found â†?Allies |
+| 8 | Hope (65/100) | Grief (50/100) | Cost understood â†?Loss felt |
+| 9 | Grief (55/100) | Determination (85/100) | Choice made â†?Purpose found |
+| 10 | Determination (80/100) | Uncertainty (70/100) | First step â†?Unknown future |
 
 ---
 
@@ -284,16 +284,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 11.1 Chapter Summary Table
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | The Perfect Path - Too Good to Be True | Introduce Nova and Optima | Contentment (20â†’25) | Nova follows her optimal path |
-| 02 | The Glitch - First Crack in Perfection | Nova encounters something unexpected | Curiosity (25â†’40) | Nova finds an unoptimized file |
-| 03 | The Archive - Secrets of the Past | Discovering historical innovations | Wonder (40â†’55) | Nova learns innovations were accidents |
-| 04 | The Pattern - Stagnation Revealed | Seeing the stagnation | Concern (55â†’65) | Nova realizes nothing new has been created |
-| 05 | The Question - Challenging the System | Confronting the truth | Doubt (65â†’75) | Nova asks forbidden questions |
-| 06 | The Experiment - Testing Limits | Trying to create something new | Frustration (75â†’60) | Nova attempts innovation and fails |
-| 07 | The Resistance - Finding Allies | Meeting others who question | Hope (60â†’70) | Nova finds a hidden community |
-| 08 | The Cost - What Was Lost | Understanding what was lost | Grief (70â†’80) | Nova sees what diversity looked like |
-| 09 | The Choice - Change or Conform | Decision point | Determination (80â†’90) | Nova must choose her path |
-| 10 | The First Step - Uncertain Future | Open ending | Uncertainty (90â†’?) | Nova stands at the threshold |
+| 01 | The Perfect Path - Too Good to Be True | Introduce Nova and Optima | Contentment (20â†?5) | Nova follows her optimal path |
+| 02 | The Glitch - First Crack in Perfection | Nova encounters something unexpected | Curiosity (25â†?0) | Nova finds an unoptimized file |
+| 03 | The Archive - Secrets of the Past | Discovering historical innovations | Wonder (40â†?5) | Nova learns innovations were accidents |
+| 04 | The Pattern - Stagnation Revealed | Seeing the stagnation | Concern (55â†?5) | Nova realizes nothing new has been created |
+| 05 | The Question - Challenging the System | Confronting the truth | Doubt (65â†?5) | Nova asks forbidden questions |
+| 06 | The Experiment - Testing Limits | Trying to create something new | Frustration (75â†?0) | Nova attempts innovation and fails |
+| 07 | The Resistance - Finding Allies | Meeting others who question | Hope (60â†?0) | Nova finds a hidden community |
+| 08 | The Cost - What Was Lost | Understanding what was lost | Grief (70â†?0) | Nova sees what diversity looked like |
+| 09 | The Choice - Change or Conform | Decision point | Determination (80â†?0) | Nova must choose her path |
+| 10 | The First Step - Uncertain Future | Open ending | Uncertainty (90â†?) | Nova stands at the threshold |
 
 ---
 
@@ -329,7 +329,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰¥10 details, â‰¥5 types | Checklist count |
+| Sensory Detail Count | â‰?0 details, â‰? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 | Chapter Connection | Natural flow from/to adjacent | Transition review |

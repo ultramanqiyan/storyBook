@@ -152,7 +152,7 @@ Intensity
 | Scene | Location | Characters | Word Count | Purpose | Emotional Tone |
 |-------|----------|------------|------------|---------|----------------|
 | 1 | Sarah's apartment | Sarah | 400 | Morning reflection | Frustration |
-| 2 | Sarah's apartment | Sarah, AUGUST | 600 | "Practice" attempt | Determination â†’ Irony |
+| 2 | Sarah's apartment | Sarah, AUGUST | 600 | "Practice" attempt | Determination â†?Irony |
 | 3 | Various | Sarah | 500 | Paradox realization | Frustration |
 | 4 | Sarah's apartment | Sarah, AUGUST | 400 | Low point | Despair |
 | 5 | Dr. Lin's office | Sarah, Dr. Lin | 600 | The insight | Acceptance |
@@ -387,8 +387,7 @@ Dr. Lin listened to Sarah's frustrated explanation without interrupting. When Sa
 | Internal | *I can't do this* | 4 | Defeat |
 | Internal | *Oh* | 5 | Realization |
 
-**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ“
-
+**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -432,7 +431,7 @@ The question had followed her into sleep and was waiting when she woke up. *How 
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Word count within target range
 - [ ] Three-layer emotional depth present

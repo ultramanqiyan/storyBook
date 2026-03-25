@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Continued confidence despite doubts
-    â†“
-Middle: Multiple missed opportunities
-    â†“
-Closing: Confrontation with real limits
+    â†?Middle: Multiple missed opportunities
+    â†?Closing: Confrontation with real limits
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Confrontation with real limits
 | Auditory | Client's concerned tone | 4 | Difficult truth |
 | Visual | Client's disappointed expression | 4 | Consequence visible |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

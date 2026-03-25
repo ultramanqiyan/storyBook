@@ -63,7 +63,7 @@
 #### Beat 3: Shock and Disbelief (Position: 35-55%) - CRITICAL BEAT
 - **Trigger**: Voice says "Mira, it's Jasper"
 - **Surface Reaction**: Dropping tools, frozen posture, hand trembling
-- **Internal Process**: "Impossible. Jasper is dead. Three years dead. This is a glitch, a malfunction, aâ€”"
+- **Internal Process**: "Impossible. Jasper is dead. Three years dead. This is a glitch, a malfunction, aâ€?
 - **Deep Motivation**: Grief unresolved; desperate hope warring with rationality
 - **Sensory Anchor**: Heart hammering against ribs (NOT "heart racing"), cold sweat on palms, ringing in ears
 
@@ -188,7 +188,7 @@ The crystal pulsed once, twice, and Jasper's voice returned: "I've been waiting 
 **Key Decision**
 - **Decision**: To investigate secretly rather than report
 - **Options Considered**: Report immediately (safe, loses Jasper), investigate alone (risky, keeps hope), tell a colleague (compromise, risks exposure)
-- **Decision Process**: Memory of Jasper's death â†’ Fear of losing him again â†’ Love overrides duty
+- **Decision Process**: Memory of Jasper's death â†?Fear of losing him again â†?Love overrides duty
 - **Consequences Accepted**: Career risk, social isolation, potential madness
 
 ---
@@ -214,8 +214,8 @@ The crystal pulsed once, twice, and Jasper's voice returned: "I've been waiting 
 **Subtext**: A dead brother reaching out to his sister; a grieving sister desperate for connection
 
 **Emotional Undercurrent**:
-- Mira: Shock â†’ Disbelief â†’ Desperate hope â†’ Fear of loss
-- Jasper: Urgency â†’ Relief at being heard â†’ Fear of being rejected
+- Mira: Shock â†?Disbelief â†?Desperate hope â†?Fear of loss
+- Jasper: Urgency â†?Relief at being heard â†?Fear of being rejected
 
 **Power Dynamics**: Initially unclear (is this real?), shifts to Mira having control (can she keep him?)
 
@@ -311,7 +311,7 @@ The Crystal Network didn't care about grief. It demanded the same precision on t
 
 **Ending Paragraph Draft**:
 ```
-Mira's finger hovered over the communication crystal, the direct line to Archmage Veren that she'd used a hundred times before to report anomalies. Protocol demanded she use it now. Protocol demanded she report the impossible voice of her dead brother so the Archmages could investigate, classify, and likely purge whatever glitch had created this cruel echo. But as Jasper's voice faded into static, leaving only the whispered promiseâ€”"I'll be here when you're ready"â€”Mira's hand moved not to the communication crystal but to the log screen. She deleted the entry with three quick keystrokes, her heart hammering against her ribs. She didn't know what she was doing, only that she couldn't lose him again. The crystal pulsed once, twice, and Jasper's voice returned: "I've been waiting for you to find me."
+Mira's finger hovered over the communication crystal, the direct line to Archmage Veren that she'd used a hundred times before to report anomalies. Protocol demanded she use it now. Protocol demanded she report the impossible voice of her dead brother so the Archmages could investigate, classify, and likely purge whatever glitch had created this cruel echo. But as Jasper's voice faded into static, leaving only the whispered promiseâ€?I'll be here when you're ready"â€”Mira's hand moved not to the communication crystal but to the log screen. She deleted the entry with three quick keystrokes, her heart hammering against her ribs. She didn't know what she was doing, only that she couldn't lose him again. The crystal pulsed once, twice, and Jasper's voice returned: "I've been waiting for you to find me."
 ```
 
 ---
@@ -359,17 +359,17 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 ## 11. Quality Verification Checklist
 
 ### 11.1 Pre-Writing Verification
-- [x] Emotional arc quantified (15â†’90 intensity)
+- [x] Emotional arc quantified (15â†?0 intensity)
 - [x] All scenes have clear purposes
 - [x] Sensory details specified (10 details, 5 types)
-- [x] Character development mapped (professional â†’ risk-taker)
+- [x] Character development mapped (professional â†?risk-taker)
 - [x] Dialogue has subtext planned (technical surface, emotional depth)
 - [x] Opening and ending specified
 
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification (must reach 75 at midpoint)
 - [ ] All 4 required scenes present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict
@@ -386,7 +386,7 @@ Mira's finger hovered over the communication crystal, the direct line to Archmag
 1. Does this chapter earn its place in the book? (Yes - inciting incident)
 2. Does the protagonist change or reveal something new? (Yes - from controlled to risk-taker)
 3. Are the sensory details specific and evocative? (Must have 10 details)
-4. Is the emotional journey clear and earned? (Must show 15â†’90 progression)
+4. Is the emotional journey clear and earned? (Must show 15â†?0 progression)
 5. Does the ending make the reader want to continue? (Yes - cliffhanger)
 6. Are there any AI writing pattern traces? (Must be zero)
 7. Is the dialogue natural and revealing? (Must have subtext)

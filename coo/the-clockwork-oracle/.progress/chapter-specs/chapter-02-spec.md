@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Develop Corwin and Chronos's relationship, introduce external interest
-- **Emotional Arc**: Wonder â†’ Bonding â†’ Concern
+- **Emotional Arc**: Wonder â†?Bonding â†?Concern
 - **Relation to Overall Story**: Show Chronos's capabilities and attract attention
 
 ## Core Events

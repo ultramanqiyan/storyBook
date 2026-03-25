@@ -176,7 +176,7 @@ Maya felt the world tilt. She grabbed the edge of her desk to steady herself.
 
 "The board determined that your relationship with ARIA, while meaningful, meets the criteria for a dependent relationship under the regulations. They cited the fourteen-year duration, the primary emotional support role, and the potential for impaired human relationship development."
 
-"But your evaluation—I told them—"
+"But your evaluation—I told them�?
 
 "I know. I submitted a strong recommendation for exemption. But the board is bound by the regulatory framework. They don't have discretion to make exceptions based on individual circumstances."
 

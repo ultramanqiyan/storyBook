@@ -34,7 +34,7 @@
 | # | Event | Location | Emotional Impact |
 |---|-------|----------|------------------|
 | 1 | Rosa requests her old recording | Home | Determination |
-| 2 | Rosa watches her defining performance | Home | Nostalgia â†’ Pride |
+| 2 | Rosa watches her defining performance | Home | Nostalgia â†?Pride |
 | 3 | Rosa compares to ARIA-7 | Home | Crisis |
 | 4 | Rosa questions her own authenticity | Home | Doubt |
 | 5 | Rosa sits with uncertainty | Home | Unresolved |

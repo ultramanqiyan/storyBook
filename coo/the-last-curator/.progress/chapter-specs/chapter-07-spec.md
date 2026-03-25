@@ -68,7 +68,7 @@
 **Key Dialogue**:
 ```
 "Marcus, have you seen the Times?"
-"No, I haven'tâ€”"
+"No, I haven'tâ€?
 "There's a story. About Jimmy. About his 'process.'" She paused. "And about you."
 ```
 

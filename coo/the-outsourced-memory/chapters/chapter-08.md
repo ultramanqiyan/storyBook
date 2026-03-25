@@ -190,7 +190,7 @@ Each observation was a small victory, a sign that the knowledge wasn't completel
 
 *This is who I am*, he thought. *Not the signature. Not the algorithm. This. The person who notices things. The person who feels houses.*
 
-He pulled out his phone and opened HomeMatch, comparing his observations to the algorithm's summary. The match score was high—92%—and the property summary was thorough, filled with data points and probability scores.
+He pulled out his phone and opened HomeMatch, comparing his observations to the algorithm's summary. The match score was high�?2%—and the property summary was thorough, filled with data points and probability scores.
 
 But it had missed things.
 

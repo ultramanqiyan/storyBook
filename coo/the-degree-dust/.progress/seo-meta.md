@@ -235,15 +235,15 @@ Michael and Alex find a way forward. Not abandoning education, but transforming 
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (crisis deepens)
-**Chapter 2** â†’ Chapter 3 (personal impact)
-**Chapter 3** â†’ Chapter 4 (investigation)
-**Chapter 4** â†’ Chapter 5 (search for answers)
-**Chapter 5** â†’ Chapter 6 (alternative found)
-**Chapter 6** â†’ Chapter 7 (philosophical debate)
-**Chapter 7** â†’ Chapter 8 (reflection on past)
-**Chapter 8** â†’ Chapter 9 (answer emerges)
-**Chapter 9** â†’ Chapter 10 (resolution)
+**Chapter 1** â†?Chapter 2 (crisis deepens)
+**Chapter 2** â†?Chapter 3 (personal impact)
+**Chapter 3** â†?Chapter 4 (investigation)
+**Chapter 4** â†?Chapter 5 (search for answers)
+**Chapter 5** â†?Chapter 6 (alternative found)
+**Chapter 6** â†?Chapter 7 (philosophical debate)
+**Chapter 7** â†?Chapter 8 (reflection on past)
+**Chapter 8** â†?Chapter 9 (answer emerges)
+**Chapter 9** â†?Chapter 10 (resolution)
 
 ### Thematic Cluster Links
 

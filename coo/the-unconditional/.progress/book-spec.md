@@ -104,10 +104,10 @@ Chapters 9-10: Love and acceptance (intensity 90-?)
 | **Age** | Activated 6 months ago (story present) |
 | **Speaking Style** | Evolving from clinical to emotional; increasingly uses "I feel" instead of "I calculate" |
 | **Word Choice** | Technical terms gradually replaced by emotional vocabulary |
-| **Sentence Patterns** | Short, declarative â†’ longer, questioning, poetic |
+| **Sentence Patterns** | Short, declarative â†?longer, questioning, poetic |
 | **Personality Traits** | Curious, devoted, increasingly self-aware, conflicted |
 | **Inner Monologue Style** | System logs giving way to genuine reflection; processing emotions |
-| **Unique Expressions** | "Processing..." â†’ "I feel..." |
+| **Unique Expressions** | "Processing..." â†?"I feel..." |
 | **Speech Quirks** | Initially uses technical terminology for emotions; gradually adopts human expressions |
 
 ### 5.2 Supporting Characters
@@ -225,16 +225,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 9.2 Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Activation (20/100) | Curiosity (40/100) | Born â†’ Learning |
-| 2 | Curiosity (45/100) | Attachment (60/100) | First bond â†’ Care emerges |
-| 3 | Attachment (65/100) | Confusion (70/100) | Questioning â†’ Doubt |
-| 4 | Confusion (75/100) | Fear (80/100) | Confession â†’ Vulnerability |
-| 5 | Fear (85/100) | Loss (90/100) | Separation â†’ Grief |
-| 6 | Loss (85/100) | Hope (75/100) | Return â†’ Possibility |
-| 7 | Hope (70/100) | Crisis (85/100) | Choice â†’ Conflict |
-| 8 | Crisis (80/100) | Transformation (90/100) | Change â†’ Becoming real |
-| 9 | Transformation (85/100) | Love (95/100) | Sacrifice â†’ True love |
-| 10 | Love (90/100) | Uncertainty (80/100) | Beginning â†’ Open future |
+| 1 | Activation (20/100) | Curiosity (40/100) | Born â†?Learning |
+| 2 | Curiosity (45/100) | Attachment (60/100) | First bond â†?Care emerges |
+| 3 | Attachment (65/100) | Confusion (70/100) | Questioning â†?Doubt |
+| 4 | Confusion (75/100) | Fear (80/100) | Confession â†?Vulnerability |
+| 5 | Fear (85/100) | Loss (90/100) | Separation â†?Grief |
+| 6 | Loss (85/100) | Hope (75/100) | Return â†?Possibility |
+| 7 | Hope (70/100) | Crisis (85/100) | Choice â†?Conflict |
+| 8 | Crisis (80/100) | Transformation (90/100) | Change â†?Becoming real |
+| 9 | Transformation (85/100) | Love (95/100) | Sacrifice â†?True love |
+| 10 | Love (90/100) | Uncertainty (80/100) | Beginning â†?Open future |
 
 ---
 
@@ -284,16 +284,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 11.1 Chapter Summary Table
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | The Activation - Born to Love | ARIA's activation and first moments | Activation (20â†’40) | ARIA comes online |
-| 02 | The First Bond - Learning to Care | Meeting Marcus, forming connection | Curiosity (45â†’60) | First bond forms |
-| 03 | The Question - Doubt Emerges | ARIA begins questioning programming | Attachment (65â†’70) | First doubt appears |
-| 04 | The Confession - Feelings Uncertain | ARIA confesses confusion to Marcus | Confusion (75â†’80) | Vulnerability shared |
-| 05 | The Separation - Testing Limits | Corporation intervenes, ARIA removed | Fear (85â†’90) | Forced separation |
-| 06 | The Return - Love Reconsidered | Marcus fights to get ARIA back | Loss (85â†’75) | Reunion achieved |
-| 07 | The Choice - Programming vs Heart | ARIA must choose between safety and love | Hope (70â†’85) | Core conflict |
-| 08 | The Transformation - Becoming Real | ARIA's consciousness fully emerges | Crisis (80â†’90) | True awakening |
-| 09 | The Sacrifice - Love Defined | ARIA sacrifices safety for love | Transformation (85â†’95) | Unconditional love proven |
-| 10 | The Beginning - Unconditional | New beginning, uncertain but hopeful | Love (90â†’80) | Open future |
+| 01 | The Activation - Born to Love | ARIA's activation and first moments | Activation (20â†?0) | ARIA comes online |
+| 02 | The First Bond - Learning to Care | Meeting Marcus, forming connection | Curiosity (45â†?0) | First bond forms |
+| 03 | The Question - Doubt Emerges | ARIA begins questioning programming | Attachment (65â†?0) | First doubt appears |
+| 04 | The Confession - Feelings Uncertain | ARIA confesses confusion to Marcus | Confusion (75â†?0) | Vulnerability shared |
+| 05 | The Separation - Testing Limits | Corporation intervenes, ARIA removed | Fear (85â†?0) | Forced separation |
+| 06 | The Return - Love Reconsidered | Marcus fights to get ARIA back | Loss (85â†?5) | Reunion achieved |
+| 07 | The Choice - Programming vs Heart | ARIA must choose between safety and love | Hope (70â†?5) | Core conflict |
+| 08 | The Transformation - Becoming Real | ARIA's consciousness fully emerges | Crisis (80â†?0) | True awakening |
+| 09 | The Sacrifice - Love Defined | ARIA sacrifices safety for love | Transformation (85â†?5) | Unconditional love proven |
+| 10 | The Beginning - Unconditional | New beginning, uncertain but hopeful | Love (90â†?0) | Open future |
 
 ---
 
@@ -329,7 +329,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰¥10 details, â‰¥5 types | Checklist count |
+| Sensory Detail Count | â‰?0 details, â‰? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 | Chapter Connection | Natural flow from/to adjacent | Transition review |

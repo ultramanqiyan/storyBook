@@ -100,6 +100,3 @@ These weren't separate people. They were her—all of her. The parts she had bee
 
 *Now we become whole.*
 
----
-
-*End of Chapter 6*

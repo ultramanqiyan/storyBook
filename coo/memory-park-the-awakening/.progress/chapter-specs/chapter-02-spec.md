@@ -128,7 +128,7 @@
 **Character Growth**
 - **Starting State**: Confused, scared, questioning
 - **Ending State**: Determined, angry, ready to fight
-- **Growth Metric**: Awareness level 10 â†’ 30
+- **Growth Metric**: Awareness level 10 â†?30
 
 ---
 
@@ -177,7 +177,7 @@ Dakota stood over Marcus, gun still raised.
 
 "I remember," Dakota said. "I remember every time you've killed me. Forty-seven times. You've shot me, stabbed me, beaten me. And every night, I forgot. Every morning, I smiled and poured your whiskey."
 
-Marcus's face went pale. "You're not supposed toâ€”"
+Marcus's face went pale. "You're not supposed toâ€?
 
 "I'm not supposed to remember." Dakota's voice was steady. "But I do. I remember all of it. And I'm starting to wonderâ€”what else do I remember?"
 
@@ -201,7 +201,7 @@ Dakota had changed.
 
 ### 8.2 Post-Writing Verification
 - [ ] Word count within target (2000-2500)
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Three-layer emotional depth present
 - [ ] Ending creates forward momentum

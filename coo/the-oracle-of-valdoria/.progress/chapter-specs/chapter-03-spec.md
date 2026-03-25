@@ -92,7 +92,7 @@ The memory was gone. Elara knew there had been a birthdayâ€”she could see the fa
 ## 7. Quality Verification Checklist
 
 - [ ] Emotional curve matches specification
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Three-layer emotional depth present
 - [ ] Memory loss is viscerally felt

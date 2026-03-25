@@ -27,7 +27,7 @@ But he can no longer feel.
 
 The music that was his life has become mere sound. The memories of love and loss are just data. The people he cared about are collections of physiological signals he can observe but not connect with.
 
-As Kai searches for a way to reclaim what he has lost, he discovers an underground network of people who have found a way to reverse the Enhancement. But the reversal procedure is dangerousâ€”15% mortality rate, with many survivors left permanently impaired. And even if Kai survives, he will lose everything the Enhancement gave him.
+As Kai searches for a way to reclaim what he has lost, he discovers an underground network of people who have found a way to reverse the Enhancement. But the reversal procedure is dangerousâ€?5% mortality rate, with many survivors left permanently impaired. And even if Kai survives, he will lose everything the Enhancement gave him.
 
 Now Kai faces an impossible choice: keep his enhanced perception and live without emotion, or risk everything for the chance to feel again.
 

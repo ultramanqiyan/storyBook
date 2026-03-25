@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Clinical warmth, Intellectual curiosity, Existential doubt, Acceptance
-- **Emotional Arc**: Routine â†’ Discovery â†’ Crisis â†’ Understanding â†’ Choice
+- **Emotional Arc**: Routine â†?Discovery â†?Crisis â†?Understanding â†?Choice
 - **Emotional Pacing**: Measured beginning, accelerating crisis, contemplative resolution
 
 ## Character Voices
@@ -104,16 +104,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Routine (70/100) | Curiosity (75/100) | Work â†’ Study invitation |
-| 2 | Curiosity (70/100) | Unease (60/100) | Study â†’ Testing begins |
-| 3 | Unease (55/100) | Concern (50/100) | Scans â†’ Waiting results |
-| 4 | Concern (45/100) | Shock (35/100) | Prediction revealed â†’ Crisis |
-| 5 | Shock (30/100) | Denial (40/100) | Rejection â†’ Fighting |
-| 6 | Denial (35/100) | Horror (25/100) | Evidence â†’ Pattern visible |
-| 7 | Horror (20/100) | Crisis (30/100) | Self questioned â†’ Existential |
-| 8 | Crisis (35/100) | Understanding (60/100) | Research â†’ New framework |
-| 9 | Understanding (55/100) | Acceptance (70/100) | Complexity â†’ Peace |
-| 10 | Acceptance (65/100) | Hope (75/100) | Choice â†’ Future |
+| 1 | Routine (70/100) | Curiosity (75/100) | Work â†?Study invitation |
+| 2 | Curiosity (70/100) | Unease (60/100) | Study â†?Testing begins |
+| 3 | Unease (55/100) | Concern (50/100) | Scans â†?Waiting results |
+| 4 | Concern (45/100) | Shock (35/100) | Prediction revealed â†?Crisis |
+| 5 | Shock (30/100) | Denial (40/100) | Rejection â†?Fighting |
+| 6 | Denial (35/100) | Horror (25/100) | Evidence â†?Pattern visible |
+| 7 | Horror (20/100) | Crisis (30/100) | Self questioned â†?Existential |
+| 8 | Crisis (35/100) | Understanding (60/100) | Research â†?New framework |
+| 9 | Understanding (55/100) | Acceptance (70/100) | Complexity â†?Peace |
+| 10 | Acceptance (65/100) | Hope (75/100) | Choice â†?Future |
 
 ## Prohibited Elements
 

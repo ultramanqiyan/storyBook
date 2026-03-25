@@ -235,15 +235,15 @@ In the silence of a life without constant stimulation, Kai finds uncertain peace
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (addiction â†’ recognition)
-**Chapter 2** â†’ Chapter 3 (realization â†’ withdrawal)
-**Chapter 3** â†’ Chapter 4 (withdrawal â†’ resistance)
-**Chapter 4** â†’ Chapter 5 (resistance â†’ underground)
-**Chapter 5** â†’ Chapter 6 (hope â†’ threat)
-**Chapter 6** â†’ Chapter 7 (danger â†’ choice)
-**Chapter 7** â†’ Chapter 8 (choice â†’ confrontation)
-**Chapter 8** â†’ Chapter 9 (confrontation â†’ escape)
-**Chapter 9** â†’ Chapter 10 (escape â†’ peace)
+**Chapter 1** â†?Chapter 2 (addiction â†?recognition)
+**Chapter 2** â†?Chapter 3 (realization â†?withdrawal)
+**Chapter 3** â†?Chapter 4 (withdrawal â†?resistance)
+**Chapter 4** â†?Chapter 5 (resistance â†?underground)
+**Chapter 5** â†?Chapter 6 (hope â†?threat)
+**Chapter 6** â†?Chapter 7 (danger â†?choice)
+**Chapter 7** â†?Chapter 8 (choice â†?confrontation)
+**Chapter 8** â†?Chapter 9 (confrontation â†?escape)
+**Chapter 9** â†?Chapter 10 (escape â†?peace)
 
 ### Thematic Cluster Links
 

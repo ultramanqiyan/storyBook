@@ -80,7 +80,7 @@ Jake set aside the sanding block and picked up a different tool—a small plane 
 
 "It's not just a table. It's someone's dining room. Where they'll have meals for the next fifty years. Maybe longer, if I do it right." Jake ran the plane along the edge of the table, shaving off a thin curl of wood. "Three months is nothing compared to fifty years."
 
-"But the efficiency—"
+"But the efficiency�?
 
 "Efficiency isn't always speed." Jake looked at him directly. "Sometimes the most efficient thing is to take your time and do it right. Because if you rush, you make mistakes. And mistakes take longer to fix than doing it right the first time."
 

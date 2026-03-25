@@ -222,7 +222,7 @@ She went to bed early that night, the garden card still on her desk. Saturday fe
 **Emotional Beat**
 - **Position on Curve**: 15-30%
 - **Primary Emotion**: Rising doubt
-- **Intensity**: 50 â†’ 60
+- **Intensity**: 50 â†?60
 - **Three Layers**:
   - Surface: Opening laptop, tension in shoulders
   - Internal: *Back to normal. Nothing has changed.*
@@ -258,7 +258,7 @@ By 5 PM, she had responded to 34 Slack messages, attended two Zoom calls, and av
 **Emotional Beat**
 - **Position on Curve**: 30-70%
 - **Primary Emotion**: Anxiety to despair
-- **Intensity**: 60 â†’ 75
+- **Intensity**: 60 â†?75
 - **Three Layers**:
   - Surface: Scrolling, researching, doubting
   - Internal: *What if they don't want me back? What if I was just in the way?*
@@ -294,7 +294,7 @@ She stared at Elena's card. The phone number seemed to glow in the dim light of 
 **Emotional Beat**
 - **Position on Curve**: 70-100%
 - **Primary Emotion**: Vulnerability to relief
-- **Intensity**: 75 â†’ 55
+- **Intensity**: 75 â†?55
 - **Three Layers**:
   - Surface: Dialing, talking, listening
   - Internal: *I don't know why I'm doing this. ...She understands. ...Maybe it's okay.*
@@ -350,12 +350,12 @@ Saturday was four days away. She could do this. The voice was just noise.
 **External Actions**
 - **Primary Action**: Overthinks, almost gives up, calls Elena
 - **Secondary Actions**: Works, researches, writes
-- **Decision Points**: Go back to garden (undecided â†’ decided), call Elena (yes)
+- **Decision Points**: Go back to garden (undecided â†?decided), call Elena (yes)
 
 **Internal Journey**
 - **Internal Conflict**: Hope vs. fear, action vs. resistance
 - **Realization/Moment of Clarity**: Resistance is normal
-- **Emotional Change**: Satisfaction â†’ Doubt â†’ Despair â†’ Relief â†’ Determination
+- **Emotional Change**: Satisfaction â†?Doubt â†?Despair â†?Relief â†?Determination
 - **Psychological Shift**: Understanding that resistance is part of change
 
 **Character Growth**
@@ -366,7 +366,7 @@ Saturday was four days away. She could do this. The voice was just noise.
 **Key Decision**
 - **Decision**: To call Elena, to continue
 - **Options Considered**: Give up, reach out
-- **Decision Process**: Desperation â†’ Vulnerability â†’ Connection
+- **Decision Process**: Desperation â†?Vulnerability â†?Connection
 - **Consequences Accepted**: Growth, support, continuation
 
 ### 5.2 Supporting Character: Elena Rodriguez (Deepened)
@@ -389,7 +389,7 @@ Saturday was four days away. She could do this. The voice was just noise.
 
 | Segment | Speakers | Subtext | Emotional State | Power Dynamic | Forbidden Phrases |
 |---------|----------|---------|-----------------|---------------|-------------------|
-| 1 | Sarah, Elena (phone) | Vulnerability, wisdom | Scared â†’ relieved | Mentor-mentee | Direct emotion statements |
+| 1 | Sarah, Elena (phone) | Vulnerability, wisdom | Scared â†?relieved | Mentor-mentee | Direct emotion statements |
 
 ### 6.2 Dialogue Segment Specifications
 
@@ -449,8 +449,7 @@ Saturday was four days away. She could do this. The voice was just noise.
 | Internal | Vulnerability | 4 | Beginning | Fear | [x] |
 | Internal | Relief | 4 | End | Hope | [x] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Distribution
 - **Visual**: 4 details
 - **Auditory**: 2 details
@@ -539,7 +538,7 @@ She looked at what she'd written: "Resistance is normal. It means you're changin
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

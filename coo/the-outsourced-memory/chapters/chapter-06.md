@@ -40,8 +40,7 @@ His eyes caught on something in the inspection report—a notation about the fou
 
 *Minor settling.*
 
-The words triggered something, a memory just out of reach. He'd seen this before—this neighborhood, this type of construction, this particular issue. There was something about the soil composition in this part of Austin, something about the way the clay expanded and contracted with the seasons, something about—
-
+The words triggered something, a memory just out of reach. He'd seen this before—this neighborhood, this type of construction, this particular issue. There was something about the soil composition in this part of Austin, something about the way the clay expanded and contracted with the seasons, something about�?
 But the memory wouldn't come.
 
 He reached for it, straining, like trying to recall a word that sat on the tip of his tongue. He'd known this once. He was certain of it. Twenty-five years of walking through houses had taught him things that no algorithm could capture—the subtle signs of foundation stress, the particular way certain neighborhoods settled, the warning signs that inspections often missed.
@@ -146,7 +145,7 @@ Mike's stomach dropped. "And?"
 
 *Someone with experience*, Mike thought. *Someone like me. Someone who used to know things.*
 
-"I'm sorry," he said, and the words felt inadequate, hollow. "I should have—"
+"I'm sorry," he said, and the words felt inadequate, hollow. "I should have�?
 
 "The inspection report was clear," David said. "HomeMatch said it was a 94% match. We trusted the system." His voice hardened. "We trusted you."
 

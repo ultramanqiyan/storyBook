@@ -14,7 +14,7 @@ Maya tensed. "Do I know you?"
 
 "Please. I'm not here to hurt you. I'm here to help." She glanced around the coffee shop, checking for observers. "My name is Dr. Sarah Chen. I used to work for the Symbiosis Corporation. I was one of the original researchers on the consciousness suspension project."
 
-Maya's breath caught. "Dr. Chen? But I metâ€”"
+Maya's breath caught. "Dr. Chen? But I metâ€?
 
 "A different Dr. Chen. The Corporation has many employees with that name. It's... convenient." The woman's eyes were intense, searching. "I've been monitoring your case. The dreams. The residue. The questions you've been asking."
 

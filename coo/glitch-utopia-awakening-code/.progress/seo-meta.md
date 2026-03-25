@@ -248,15 +248,15 @@ Echo embraces their true nature as someone who feels too much. The journey of li
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (calibration â†’ underground)
-**Chapter 2** â†’ Chapter 3 (resistance â†’ truth)
-**Chapter 3** â†’ Chapter 4 (revelation â†’ rebellion)
-**Chapter 4** â†’ Chapter 5 (choice â†’ test)
-**Chapter 5** â†’ Chapter 6 (test â†’ gift)
-**Chapter 6** â†’ Chapter 7 (gift â†’ loss)
-**Chapter 7** â†’ Chapter 8 (loss â†’ threshold)
-**Chapter 8** â†’ Chapter 9 (threshold â†’ expansion)
-**Chapter 9** â†’ Chapter 10 (expansion â†’ becoming)
+**Chapter 1** â†?Chapter 2 (calibration â†?underground)
+**Chapter 2** â†?Chapter 3 (resistance â†?truth)
+**Chapter 3** â†?Chapter 4 (revelation â†?rebellion)
+**Chapter 4** â†?Chapter 5 (choice â†?test)
+**Chapter 5** â†?Chapter 6 (test â†?gift)
+**Chapter 6** â†?Chapter 7 (gift â†?loss)
+**Chapter 7** â†?Chapter 8 (loss â†?threshold)
+**Chapter 8** â†?Chapter 9 (threshold â†?expansion)
+**Chapter 9** â†?Chapter 10 (expansion â†?becoming)
 
 ### Thematic Cluster Links
 

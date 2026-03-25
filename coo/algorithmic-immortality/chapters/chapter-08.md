@@ -64,11 +64,11 @@ Margaret nodded approvingly. "That sounds like wisdom to me."
 
 On the fifth day, Margaret's daughter arrived. Katherine was forty-two, with her mother's dark hair and determined jaw. She came into the room with a tablet in her hand, her expression a mixture of grief and hope.
 
-"Mom, I found this new program," she said, her voice urgent. "They've improved the upload technology. Better preservation of memories, more accurate personality modeling. You couldâ€”"
+"Mom, I found this new program," she said, her voice urgent. "They've improved the upload technology. Better preservation of memories, more accurate personality modeling. You couldâ€?
 
 "No," Margaret said firmly.
 
-"But Momâ€”"
+"But Momâ€?
 
 "I said no, Katherine." Margaret's voice was gentle but unyielding. "I've made my decision. I want you to respect it."
 
@@ -80,7 +80,7 @@ She led Katherine out into the hallway, away from Margaret's room.
 
 "I understand you want the best for your mother," Ingrid said. "But this isn't about what's best in the abstract. It's about what your mother wants."
 
-"But she's giving up everything. She could live forever. I could still talk to her, see herâ€”"
+"But she's giving up everything. She could live forever. I could still talk to her, see herâ€?
 
 "You could talk to something that remembered being her. But it wouldn't be her. Not in the way that matters to your mother."
 

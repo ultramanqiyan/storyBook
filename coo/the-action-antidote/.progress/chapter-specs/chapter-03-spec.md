@@ -187,7 +187,7 @@ Intensity
 **Emotional Beat**
 - **Position on Curve**: 0-35%
 - **Primary Emotion**: Exhaustion to frustration
-- **Intensity**: 45 â†’ 50
+- **Intensity**: 45 â†?50
 - **Three Layers**:
   - Surface: Stares at broken machine, presses buttons, gives up
   - Internal: *I can't. I can't deal with this. Not today.*
@@ -263,7 +263,7 @@ The coffee shop appeared on the corner like a promise. Through the window, she c
 **Emotional Beat**
 - **Position on Curve**: 55-100%
 - **Primary Emotion**: Curiosity to tentative connection
-- **Intensity**: 40 â†’ 45
+- **Intensity**: 40 â†?45
 - **Three Layers**:
   - Surface: Guards up, then slowly relaxing, actually talking
   - Internal: *Why is he being nice? ...This is nice. ...I'm talking to a stranger.*
@@ -325,7 +325,7 @@ She looked at the card again when she got home. "Riverdale Community Garden," it
 **Internal Journey**
 - **Internal Conflict**: Want to hide vs. need for connection
 - **Realization/Moment of Clarity**: Talking felt good
-- **Emotional Change**: Exhaustion â†’ Frustration â†’ Curiosity â†’ Hope
+- **Emotional Change**: Exhaustion â†?Frustration â†?Curiosity â†?Hope
 - **Psychological Shift**: First crack in the isolation
 
 **Character Growth**
@@ -445,8 +445,7 @@ She looked at the card again when she got home. "Riverdale Community Garden," it
 | Internal | Heart rate elevated | 2 | Throughout | Anxiety | [x] |
 | Internal | Something shifted | 4 | End | Hope | [x] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Distribution
 - **Visual**: 3 details
 - **Auditory**: 2 details
@@ -484,7 +483,7 @@ She looked at the card again when she got home. "Riverdale Community Garden," it
 ### 9.1 Theme Presence
 | Theme | How Expressed | Scene | Evidence Required |
 |-------|--------------|-------|-------------------|
-| Action as Antidote | Forced action leads to connection | All | Coffee maker â†’ Outside â†’ Marcus |
+| Action as Antidote | Forced action leads to connection | All | Coffee maker â†?Outside â†?Marcus |
 | Small Steps | Small disruption, small opening | All | Just going for coffee |
 | The Myth of Perfect Decisions | Impulse decision to take card | 3, 4 | No research, just "why not" |
 
@@ -538,7 +537,7 @@ She looked at the card again when she got home. "Riverdale Community Garden," it
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

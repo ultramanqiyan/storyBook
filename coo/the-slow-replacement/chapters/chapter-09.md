@@ -30,7 +30,7 @@ The room fell silent. Marcus could feel the tension spreading, the anxiety rippl
 
 "After careful consideration, we've made the difficult decision to reduce our workforce by 15%," Torres said. "This was not an easy decision, and we're committed to supporting those affected through this transition."
 
-The number hung in the air—15%. That was dozens of people. Maybe even hundreds.
+The number hung in the air�?5%. That was dozens of people. Maybe even hundreds.
 
 Torres continued, but Marcus barely heard him. His mind was racing, calculating, preparing.
 
@@ -50,8 +50,7 @@ Then he looked at the second list.
 
 His name was there. He was staying.
 
-The relief hit him like a wave—sudden, overwhelming, almost dizzying. He was safe. He was still employed. He was—
-
+The relief hit him like a wave—sudden, overwhelming, almost dizzying. He was safe. He was still employed. He was�?
 *Wait.*
 
 He looked at the first list again. There were names he recognized—people who had embraced the AI tools, people who had been using Codex Pro since the beginning. People who had done everything right.

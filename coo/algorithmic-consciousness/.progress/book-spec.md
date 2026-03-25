@@ -16,7 +16,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Nostalgia, Wonder, Uncertainty, Professional Pride, Existential Questioning, Quiet Grief
-- **Emotional Arc**: Confidence â†’ Doubt â†’ Crisis â†’ Understanding â†’ Acceptance
+- **Emotional Arc**: Confidence â†?Doubt â†?Crisis â†?Understanding â†?Acceptance
 - **Emotional Pacing**: Slow build through philosophical exploration, emotional peaks at key revelations
 
 ## Character Voices
@@ -100,16 +100,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Confidence (70/100) | Curiosity (75/100) | Expertise â†’ New question |
-| 2 | Curiosity (75/100) | Uncertain (60/100) | Teaching â†’ Unease |
-| 3 | Nostalgic (80/100) | Reflective (70/100) | Memory â†’ Question |
-| 4 | Impressed (75/100) | Disturbed (55/100) | Recognition â†’ Doubt |
-| 5 | Engaged (70/100) | Questioning (65/100) | Teaching â†’ Philosophy |
-| 6 | Proud (70/100) | Confused (50/100) | Success â†’ Crisis |
-| 7 | Nostalgic (75/100) | Crisis (40/100) | Memory â†’ Self-doubt |
-| 8 | Crisis (40/100) | Searching (55/100) | Confrontation â†’ Inquiry |
-| 9 | Connected (65/100) | Understanding (70/100) | Student â†’ Insight |
-| 10 | Accepting (75/100) | Open (80/100) | Mystery â†’ Peace |
+| 1 | Confidence (70/100) | Curiosity (75/100) | Expertise â†?New question |
+| 2 | Curiosity (75/100) | Uncertain (60/100) | Teaching â†?Unease |
+| 3 | Nostalgic (80/100) | Reflective (70/100) | Memory â†?Question |
+| 4 | Impressed (75/100) | Disturbed (55/100) | Recognition â†?Doubt |
+| 5 | Engaged (70/100) | Questioning (65/100) | Teaching â†?Philosophy |
+| 6 | Proud (70/100) | Confused (50/100) | Success â†?Crisis |
+| 7 | Nostalgic (75/100) | Crisis (40/100) | Memory â†?Self-doubt |
+| 8 | Crisis (40/100) | Searching (55/100) | Confrontation â†?Inquiry |
+| 9 | Connected (65/100) | Understanding (70/100) | Student â†?Insight |
+| 10 | Accepting (75/100) | Open (80/100) | Mystery â†?Peace |
 
 ## Prohibited Elements
 
@@ -166,7 +166,7 @@
 - [ ] AI trace detection passed
 - [ ] Sensory detail count verified (5+)
 - [ ] Emotional depth detection verified
-- [ ] "---" separator count verified (â‰¤2)
+- [ ] "---" separator count verified (â‰?)
 - [ ] Dialogue tag variety verified
 
 ## Chapter Outline

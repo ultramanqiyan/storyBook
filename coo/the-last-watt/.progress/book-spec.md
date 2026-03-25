@@ -18,8 +18,8 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Determination, Hope, Sacrifice, Urgency, Wonder
-- **Emotional Arc**: Discovery and determination â†’ Quest and challenges â†’ Sacrifice and activation â†’ Revelation and confrontation â†’ Choice and legacy
-- **Emotional Pacing**: Setup (chapters 1-2) â†’ Rising (chapters 3-5) â†’ Climax (chapters 6-8) â†’ Resolution (chapters 9-10)
+- **Emotional Arc**: Discovery and determination â†?Quest and challenges â†?Sacrifice and activation â†?Revelation and confrontation â†?Choice and legacy
+- **Emotional Pacing**: Setup (chapters 1-2) â†?Rising (chapters 3-5) â†?Climax (chapters 6-8) â†?Resolution (chapters 9-10)
 
 ## Character Voices
 
@@ -112,16 +112,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Curiosity (60/100) | Determination (80/100) | Discovery â†’ Resolve |
-| 2 | Determination (70/100) | Focus (75/100) | Team building â†’ Purpose |
-| 3 | Focus (75/100) | Challenge (80/100) | Quest begins â†’ Obstacles |
-| 4 | Challenge (70/100) | Intensity (75/100) | Journey â†’ Adventure |
-| 5 | Intensity (80/100) | Sacrifice (60/100) | Peak â†’ Loss |
-| 6 | Hope (60/100) | Hope (85/100) | Activation â†’ Success |
-| 7 | Understanding (70/100) | Clarity (75/100) | Revelation â†’ Truth |
-| 8 | Defiance (75/100) | Courage (90/100) | Confrontation â†’ Battle |
-| 9 | Choice (85/100) | Decision (80/100) | Decision made â†’ Path chosen |
-| 10 | Hope (70/100) | Hope (85/100) | Legacy â†’ New world |
+| 1 | Curiosity (60/100) | Determination (80/100) | Discovery â†?Resolve |
+| 2 | Determination (70/100) | Focus (75/100) | Team building â†?Purpose |
+| 3 | Focus (75/100) | Challenge (80/100) | Quest begins â†?Obstacles |
+| 4 | Challenge (70/100) | Intensity (75/100) | Journey â†?Adventure |
+| 5 | Intensity (80/100) | Sacrifice (60/100) | Peak â†?Loss |
+| 6 | Hope (60/100) | Hope (85/100) | Activation â†?Success |
+| 7 | Understanding (70/100) | Clarity (75/100) | Revelation â†?Truth |
+| 8 | Defiance (75/100) | Courage (90/100) | Confrontation â†?Battle |
+| 9 | Choice (85/100) | Decision (80/100) | Decision made â†?Path chosen |
+| 10 | Hope (70/100) | Hope (85/100) | Legacy â†?New world |
 
 ## Prohibited Elements
 

@@ -248,15 +248,15 @@ Maria makes peace with the complexity of identity. She accepts the digital Elena
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (twin relationship â†’ diagnosis)
-**Chapter 2** â†’ Chapter 3 (diagnosis â†’ option)
-**Chapter 3** â†’ Chapter 4 (option â†’ decision)
-**Chapter 4** â†’ Chapter 5 (decision â†’ upload)
-**Chapter 5** â†’ Chapter 6 (upload â†’ return)
-**Chapter 6** â†’ Chapter 7 (return â†’ question)
-**Chapter 7** â†’ Chapter 8 (question â†’ test)
-**Chapter 8** â†’ Chapter 9 (test â†’ understanding)
-**Chapter 9** â†’ Chapter 10 (understanding â†’ choice)
+**Chapter 1** â†?Chapter 2 (twin relationship â†?diagnosis)
+**Chapter 2** â†?Chapter 3 (diagnosis â†?option)
+**Chapter 3** â†?Chapter 4 (option â†?decision)
+**Chapter 4** â†?Chapter 5 (decision â†?upload)
+**Chapter 5** â†?Chapter 6 (upload â†?return)
+**Chapter 6** â†?Chapter 7 (return â†?question)
+**Chapter 7** â†?Chapter 8 (question â†?test)
+**Chapter 8** â†?Chapter 9 (test â†?understanding)
+**Chapter 9** â†?Chapter 10 (understanding â†?choice)
 
 ### Thematic Cluster Links
 

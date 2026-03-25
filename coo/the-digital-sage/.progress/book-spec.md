@@ -27,7 +27,7 @@
 - **Internal Monologue Style**: Constant self-criticism, worrying about future, unable to be still
 - **Unique Expressions**: "I just need to be more productive..."
 - **Speech Quirks**: Trailing off mid-sentence, checking notifications mid-conversation
-- **Development Arc**: From anxious, fast-paced â†’ learning to pause â†’ calm and measured
+- **Development Arc**: From anxious, fast-paced â†?learning to pause â†?calm and measured
 
 ### AUGUST (AI Assistant)
 - **Nature**: AI assistant designed for "extreme optimization"
@@ -35,7 +35,7 @@
 - **Word Choice**: "optimize", "improve", "efficiency gain", "I recommend..."
 - **Sentence Patterns**: Complete, logical, lacking natural pauses
 - **Personality Traits**: Deeply obsessive, well-meaning but suffocating, desperate for "the right answer"
-- **Development Arc**: From constant optimization â†’ beginning to question â†’ learning to "not act"
+- **Development Arc**: From constant optimization â†?beginning to question â†?learning to "not act"
 
 ### Dr. Lin (Retired Psychology Professor)
 - **Occupation**: Retired psychology professor, studied how people find peace
@@ -102,34 +102,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Inheritance
-Sarah inherits AUGUST, reveals anxious daily life. Emotional arc: Anxiety (70â†’60)
+Sarah inherits AUGUST, reveals anxious daily life. Emotional arc: Anxiety (70â†?0)
 
 ### Chapter 2: The Optimization Trap
-AUGUST's obsession makes Sarah more anxious. Emotional arc: Confusion (60â†’80)
+AUGUST's obsession makes Sarah more anxious. Emotional arc: Confusion (60â†?0)
 
 ### Chapter 3: The Breaking Point
-Sarah reaches limit, seeks help. Emotional arc: Anxiety (80â†’50)
+Sarah reaches limit, seeks help. Emotional arc: Anxiety (80â†?0)
 
 ### Chapter 4: The Old Teacher
-Meets Dr. Lin, first conversation about "letting go". Emotional arc: Despair (50â†’70)
+Meets Dr. Lin, first conversation about "letting go". Emotional arc: Despair (50â†?0)
 
 ### Chapter 5: The First Lesson
-Sarah tries to teach AUGUST about pausing. Emotional arc: Curiosity (70â†’55)
+Sarah tries to teach AUGUST about pausing. Emotional arc: Curiosity (70â†?5)
 
 ### Chapter 6: The Paradox
-Sarah struggles too, gap between understanding and doing. Emotional arc: Frustration (55â†’60)
+Sarah struggles too, gap between understanding and doing. Emotional arc: Frustration (55â†?0)
 
 ### Chapter 7: The Practice
-Sarah begins practice, AUGUST begins observing. Emotional arc: Struggle (60â†’70)
+Sarah begins practice, AUGUST begins observing. Emotional arc: Struggle (60â†?0)
 
 ### Chapter 8: The Shift
-AUGUST first "chooses not to act". Emotional arc: Peace (70â†’80)
+AUGUST first "chooses not to act". Emotional arc: Peace (70â†?0)
 
 ### Chapter 9: The Balance
-Mutual healing, finding balance. Emotional arc: Surprise (80â†’85)
+Mutual healing, finding balance. Emotional arc: Surprise (80â†?5)
 
 ### Chapter 10: The Flow
-Open ending, peaceful but continuing. Emotional arc: Peace (85â†’90)
+Open ending, peaceful but continuing. Emotional arc: Peace (85â†?0)
 
 ## Open Ending Design
 

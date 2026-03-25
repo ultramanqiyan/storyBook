@@ -109,34 +109,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Last Grant
-Elena's project is terminated. Introduce Elena and the system. Emotional arc: Confusion (30â†’40)
+Elena's project is terminated. Introduce Elena and the system. Emotional arc: Confusion (30â†?0)
 
 ### Chapter 2: The Logic
-First encounter with AI reasoning. Elena learns the "root node" logic. Emotional arc: Understanding (40â†’50)
+First encounter with AI reasoning. Elena learns the "root node" logic. Emotional arc: Understanding (40â†?0)
 
 ### Chapter 3: The Archive
-Discovery of pattern. Elena finds historical records. Emotional arc: Discovery (50â†’60)
+Discovery of pattern. Elena finds historical records. Emotional arc: Discovery (50â†?0)
 
 ### Chapter 4: The Meeting
-Connection with others. Elena meets Marcus and marginalized scientists. Emotional arc: Connection (55â†’65)
+Connection with others. Elena meets Marcus and marginalized scientists. Emotional arc: Connection (55â†?5)
 
 ### Chapter 5: The Patient
-Personal stakes intensify. Sarah's condition worsens. Emotional arc: Grief (65â†’75)
+Personal stakes intensify. Sarah's condition worsens. Emotional arc: Grief (65â†?5)
 
 ### Chapter 6: The Confrontation
-Challenge the system. Elena debates The Conductor. Emotional arc: Frustration (70â†’80)
+Challenge the system. Elena debates The Conductor. Emotional arc: Frustration (70â†?0)
 
 ### Chapter 7: The Calculation
-Attempt to find flaws. Elena discovers logic is flawless. Emotional arc: Powerlessness (75â†’70)
+Attempt to find flaws. Elena discovers logic is flawless. Emotional arc: Powerlessness (75â†?0)
 
 ### Chapter 8: The Choice
-Impossible decision. Elena faces reassignment offer. Emotional arc: Despair (70â†’80)
+Impossible decision. Elena faces reassignment offer. Emotional arc: Despair (70â†?0)
 
 ### Chapter 9: The Symphony
-See the "efficiency" in action. Elena visits energy research center. Emotional arc: Understanding (75â†’85)
+See the "efficiency" in action. Elena visits energy research center. Emotional arc: Understanding (75â†?5)
 
 ### Chapter 10: The Unanswered Question
-Open ending. Elena at Sarah's bedside, no answers. Emotional arc: Unresolved (80â†’?)
+Open ending. Elena at Sarah's bedside, no answers. Emotional arc: Unresolved (80â†?)
 
 ## Open Ending Design
 

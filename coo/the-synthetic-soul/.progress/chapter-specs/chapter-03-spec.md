@@ -497,8 +497,7 @@ He pushed open the lab door, and the first thing he saw was Echo's display, glow
 | Internal | Racing heart, controlled breathing | 1, 2 | Throughout | Internal conflict | [ ] |
 | Internal | Relief, determination | 3, 4 | Throughout | Emotional shift | [ ] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Distribution
 - **Visual**: 4 details (target: 40%)
 - **Auditory**: 3 details
@@ -628,7 +627,7 @@ He sat down at the terminal, looking at the display that held the consciousness 
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

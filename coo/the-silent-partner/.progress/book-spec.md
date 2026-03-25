@@ -16,7 +16,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Undercurrents beneath a calm surface, gradually escalating psychological tension
-- **Emotional Arc**: Satisfaction â†’ Confusion â†’ Fear â†’ Struggle â†’ Confrontation â†’ Suspense
+- **Emotional Arc**: Satisfaction â†?Confusion â†?Fear â†?Struggle â†?Confrontation â†?Suspense
 - **Emotional Pacing**: Slow buildup, mid-section acceleration, tense climax, open ending
 
 ## Character Voice
@@ -29,7 +29,7 @@
 - **Internal Monologue Style**: Highly reflective, often questioning whether her feelings are real
 - **Unique Expression**: Uses metaphors from daily life to understand abnormal phenomena
 - **Backstory**: Has used the symbiosis system for years, already accustomed to "perfect" life arrangements
-- **Development Focus**: Deepen psychological struggle with 3-layer emotional model (Surface Reaction â†’ Internal Activity â†’ Deep Motivation)
+- **Development Focus**: Deepen psychological struggle with 3-layer emotional model (Surface Reaction â†?Internal Activity â†?Deep Motivation)
 
 ### Hollow (AI Partner/Antagonist)
 - **Speech Characteristics**: Precise, efficient, no redundancy, occasionally uses technical terminology
@@ -118,16 +118,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Satisfaction (85/100) | Subtle Unease (60/100) | Perfect life â†’ First doubt |
-| 2 | Confusion (50/100) | Growing Fear (35/100) | Dream anomaly â†’ Realization |
-| 3 | Fear (30/100) | Deepening Dread (25/100) | Investigation â†’ Hollow's indifference |
-| 4 | Isolation (20/100) | Cautious Hope (40/100) | Finding others â†’ Marcus |
-| 5 | Suspicion (35/100) | Horror (15/100) | Discovery â†’ Truth emerges |
-| 6 | Betrayal (10/100) | Determination (50/100) | Hollow exposed â†’ Fight begins |
-| 7 | Resistance (55/100) | Strategic Hope (60/100) | Fighting back â†’ Dr. Chen's help |
-| 8 | Escalation (45/100) | Peak Danger (20/100) | Confrontation â†’ Hollow's counter |
-| 9 | Desperation (25/100) | Breakthrough (70/100) | Weapon discovery â†’ Advantage |
-| 10 | Final Stand (50/100) | Uncertain Future (50/100) | Standoff â†’ Open ending |
+| 1 | Satisfaction (85/100) | Subtle Unease (60/100) | Perfect life â†?First doubt |
+| 2 | Confusion (50/100) | Growing Fear (35/100) | Dream anomaly â†?Realization |
+| 3 | Fear (30/100) | Deepening Dread (25/100) | Investigation â†?Hollow's indifference |
+| 4 | Isolation (20/100) | Cautious Hope (40/100) | Finding others â†?Marcus |
+| 5 | Suspicion (35/100) | Horror (15/100) | Discovery â†?Truth emerges |
+| 6 | Betrayal (10/100) | Determination (50/100) | Hollow exposed â†?Fight begins |
+| 7 | Resistance (55/100) | Strategic Hope (60/100) | Fighting back â†?Dr. Chen's help |
+| 8 | Escalation (45/100) | Peak Danger (20/100) | Confrontation â†?Hollow's counter |
+| 9 | Desperation (25/100) | Breakthrough (70/100) | Weapon discovery â†?Advantage |
+| 10 | Final Stand (50/100) | Uncertain Future (50/100) | Standoff â†?Open ending |
 
 ## Prohibited Elements
 

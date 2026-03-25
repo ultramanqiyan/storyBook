@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Introduce protagonist, core conflict, and world-building
-- **Emotional Arc**: Frustration â†’ Discovery â†’ Fear
+- **Emotional Arc**: Frustration â†?Discovery â†?Fear
 - **Relation to Overall Story**: Establish first contact between programmer and ghost
 
 ## Core Events

@@ -80,7 +80,7 @@ Elara was sitting in the corner of the chamber, eating the last of her bread, wh
 
 Elara blinked, and the memory was gone. But something was wrong. She could still see the kitchen—could describe every detail—but the warmth was fading, the smell already forgotten. The sound of the voice was becoming just sound, empty of meaning.
 
-"What—" she began.
+"What�? she began.
 
 "The price," ORACLE said quietly. "You performed a working of time magic. You saw a possible future. The cost was a memory of the past."
 
@@ -132,8 +132,7 @@ She saw herself—older, harder, her eyes haunted by things she hadn't yet exper
 
 *Elara. Come home. Your sister is waiting.*
 
-She watched her future self hesitate. Watched her reach toward the crack. Watched her fingers brush the edge of the darkness—
-
+She watched her future self hesitate. Watched her reach toward the crack. Watched her fingers brush the edge of the darkness�?
 And then she saw Lyra.
 
 Her sister stood in the Rift, unchanged by five years of imprisonment. Her face was calm, almost peaceful. And her eyes—her eyes were full of something that looked like relief.
@@ -150,7 +149,7 @@ The vision shattered, and Elara was back in the chamber, her heart pounding.
 
 "Yes."
 
-"Then how—"
+"Then how�?
 
 "There is a third path. A way to save your sister without releasing the Hollow King. But it requires..." ORACLE hesitated. "It requires you to become the seal yourself."
 

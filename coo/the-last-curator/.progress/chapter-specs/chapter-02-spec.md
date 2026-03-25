@@ -210,7 +210,7 @@ Marcus left the studio with a signed agreement and a strange feeling in his ches
 
 ### 5.1 Marcus Webb
 **External Actions**: Reviewing portfolios, arguing with Elena, visiting Jimmy
-**Internal Journey**: Confidence â†’ challenge â†’ excitement â†’ suppressed doubt
+**Internal Journey**: Confidence â†?challenge â†?excitement â†?suppressed doubt
 **Key Decision**: To feature Jimmy prominently despite unease
 
 ### 5.2 Elena Vasquez (Introduction)
@@ -245,7 +245,7 @@ Marcus left the studio with a signed agreement and a strange feeling in his ches
 **Sample Dialogue**:
 ```
 "Marcus, you've built your career on seeing something that might not exist."
-"The Webb Method has been validatedâ€”"
+"The Webb Method has been validatedâ€?
 "By whom? Other people who need it to exist?"
 ```
 
@@ -299,7 +299,7 @@ Marcus signed the final paperwork and sat back. Jimmy Okonkwo would be the cente
 ### 10.1 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Elena and Jimmy have distinct voices
 - [ ] Ending creates forward momentum

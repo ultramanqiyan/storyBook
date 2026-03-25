@@ -102,6 +102,3 @@ He had made his choice. He had chosen honesty over illusion. He had chosen respo
 
 And whatever happened next, he could live with that.
 
----
-
-*End of Chapter 9*

@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Settled into sustainable practice
-    â†“
-Middle: Reflecting on the transformation
-    â†“
-Closing: Open future, ongoing journey
+    â†?Middle: Reflecting on the transformation
+    â†?Closing: Open future, ongoing journey
 ```
 
 ### 2.2 Emotional Depth Design
@@ -136,8 +134,7 @@ Closing: Open future, ongoing journey
 | Kinesthetic | Settling into focus | 4 | Confidence |
 | Tactile | Fingers on keyboard | 4 | Ready, capable |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

@@ -41,7 +41,7 @@ Echo wants to help, offering advice and knowledge from its collective memory. Bu
 | **Age** | 24 |
 | **Role** | Network Maintenance Wizard |
 | **Core Contradiction** | Maintains the system that created Echo, but fears what Echo might become |
-| **Journey** | Skeptic â†’ Listener â†’ Bridge between living and dead |
+| **Journey** | Skeptic â†?Listener â†?Bridge between living and dead |
 
 ## Supporting Characters
 

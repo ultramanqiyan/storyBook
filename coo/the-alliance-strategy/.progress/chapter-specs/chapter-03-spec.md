@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Vulnerability after client feedback
-    â†“
-Middle: Curiosity about a different way
-    â†“
-Closing: Hope mixed with fear
+    â†?Middle: Curiosity about a different way
+    â†?Closing: Hope mixed with fear
 ```
 
 ### 2.2 Emotional Depth Design
@@ -136,8 +134,7 @@ Closing: Hope mixed with fear
 | Auditory | City sounds | 4 | Processing, thinking |
 | Tactile | Cool breeze | 4 | Clarity, new direction |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

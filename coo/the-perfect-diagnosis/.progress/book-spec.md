@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Confidence, Fear, Vulnerability, Determination, Hope
-- **Emotional Arc**: Confidence (85â†’30) â†’ Crisis (35â†’25) â†’ Fear (30â†’45) â†’ Vulnerability (50â†’60) â†’ Connection (55â†’65) â†’ Hope (60â†’75) â†’ Determination (70â†’85) â†’ Revelation (80â†’90) â†’ Choice (85â†’80) â†’ Recovery (75â†’70)
+- **Emotional Arc**: Confidence (85â†?0) â†?Crisis (35â†?5) â†?Fear (30â†?5) â†?Vulnerability (50â†?0) â†?Connection (55â†?5) â†?Hope (60â†?5) â†?Determination (70â†?5) â†?Revelation (80â†?0) â†?Choice (85â†?0) â†?Recovery (75â†?0)
 - **Emotional Pacing**: Setup (1-2) fast, Rising (3-5) medium, Climax (6-8) fast, Resolution (9-10) medium
 
 ## Character Voices
@@ -30,7 +30,7 @@
 - **Word Choice**: Medical terminology mixed with growing self-doubt
 - **Personality Traits**: Brilliant, once intuitive, now algorithm-dependent
 - **Internal Monologue Style**: Analytical but increasingly aware of emotional gaps
-- **Unique Expressions**: "The algorithm says..." â†’ "I feel..."
+- **Unique Expressions**: "The algorithm says..." â†?"I feel..."
 - **Development Arc**: From confident AI-dependent doctor to someone rediscovering clinical intuition
 
 ### Dr. Marcus Webb (Mentor)
@@ -114,34 +114,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Perfect Record - 100% Accuracy
-Sarah's perfect record and AI dependency. Establish the world. Emotional arc: Confidence (85â†’30)
+Sarah's perfect record and AI dependency. Establish the world. Emotional arc: Confidence (85â†?0)
 
 ### Chapter 2: The Glitch - System Failure
-System failure during surgery. Sarah can't think without AI. Emotional arc: Crisis (35â†’25)
+System failure during surgery. Sarah can't think without AI. Emotional arc: Crisis (35â†?5)
 
 ### Chapter 3: The Gap - What I Forgot
-Sarah discovers her clinical intuition has atrophied. The truth. Emotional arc: Fear (30â†’45)
+Sarah discovers her clinical intuition has atrophied. The truth. Emotional arc: Fear (30â†?5)
 
 ### Chapter 4: The Patient - More Than Data
-Human connection breakthrough with a patient. The lesson. Emotional arc: Vulnerability (50â†’60)
+Human connection breakthrough with a patient. The lesson. Emotional arc: Vulnerability (50â†?0)
 
 ### Chapter 5: The Resistance - Doctors Who Remember
-Sarah finds the underground network. Community. Emotional arc: Connection (55â†’65)
+Sarah finds the underground network. Community. Emotional arc: Connection (55â†?5)
 
 ### Chapter 6: The Experiment - Testing Intuition
-Sarah tests her intuition. The experiment. Emotional arc: Hope (60â†’75)
+Sarah tests her intuition. The experiment. Emotional arc: Hope (60â†?5)
 
 ### Chapter 7: The Revelation - What We Lost
-Sarah sees the full cost of AI dependency. Understanding. Emotional arc: Determination (70â†’85)
+Sarah sees the full cost of AI dependency. Understanding. Emotional arc: Determination (70â†?5)
 
 ### Chapter 8: The Choice - Algorithm or Instinct
-Sarah must make a critical decision. Choice. Emotional arc: Revelation (80â†’90)
+Sarah must make a critical decision. Choice. Emotional arc: Revelation (80â†?0)
 
 ### Chapter 9: The Recovery - Relearning to Feel
-Sarah trains with Dr. Webb. Growth. Emotional arc: Choice (85â†’80)
+Sarah trains with Dr. Webb. Growth. Emotional arc: Choice (85â†?0)
 
 ### Chapter 10: The Balance - Human and Machine
-Sarah finds a new synthesis. Resolution. Emotional arc: Recovery (75â†’70)
+Sarah finds a new synthesis. Resolution. Emotional arc: Recovery (75â†?0)
 
 ## Open Ending Design
 

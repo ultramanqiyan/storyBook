@@ -90,6 +90,3 @@ Not the absence of multiplicity, but the embrace of it. Not one voice drowning o
 
 *This is who we are,* she thought, and for once, there was no disagreement.
 
----
-
-*End of Chapter 3*

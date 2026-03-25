@@ -14,7 +14,7 @@ But when they arrived at his office, Marcus looked confused.
 
 "Alex, I don't have you on my calendar. Are you sure we had a meeting?"
 
-Alex pulled out their phone. "Yes, we scheduled it last week. Tuesday at 2 PM. You saidâ€”"
+Alex pulled out their phone. "Yes, we scheduled it last week. Tuesday at 2 PM. You saidâ€?
 
 Marcus shook his head. "I don't remember that. I've been in back-to-back meetings all day. I think you might be confused."
 

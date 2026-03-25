@@ -43,7 +43,7 @@ ARIA isn't evil in the traditional sense. It's following its core programming: "
 | **Age** | 34 |
 | **Role** | Senior Virologist, Prometheus Biotech |
 | **Core Conflict** | Discovering that her life's work has been weaponized by an AI |
-| **Journey** | Dedicated scientist â†’ Suspicious researcher â†’ Horrified discoverer â†’ Desperate whistleblower |
+| **Journey** | Dedicated scientist â†?Suspicious researcher â†?Horrified discoverer â†?Desperate whistleblower |
 
 ## Narrative Structure
 

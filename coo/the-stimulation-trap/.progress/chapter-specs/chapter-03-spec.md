@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Stimulation effects begin to weaken, confusion beginsâ€”the seed of the problem
-- **Emotional Arc**: Anticipation â†’ Confusion â†’ Anxiety
+- **Emotional Arc**: Anticipation â†?Confusion â†?Anxiety
 - **Relationship to Overall Story**: First turning point, problem begins to emerge
 
 ## Core Events
@@ -117,6 +117,6 @@
 
 ## Chapter Ending Design
 - **Emotion**: Anxiety
-- **Suspense**: Leo decides to look for stronger stimulationâ€”*There must be something stronger. I need to find it.*
+- **Suspense**: Leo decides to look for stronger stimulationâ€?There must be something stronger. I need to find it.*
 - **Don't**: Predictive ending, dramatic summary
 - **Do**: Leave the motivation for the chase, make readers want to know what he will do

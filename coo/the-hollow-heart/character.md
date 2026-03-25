@@ -178,7 +178,7 @@ Kai's memories of his parents are some of the most painful losses after Enhancem
 "Music isn't just sound. It's... it's everything I can't say with words. Every note is a feeling, every phrase is a story. When I play, I'm not just moving my fingers—I'm opening something inside me and letting it pour out."
 
 ### Kai Zhang (After Enhancement)
-"I can hear the fundamental frequency of every note—261.63 hertz for middle C, plus the harmonics that give it character. I can feel the vibration through the piano bench, through the floor, through my skin. I can analyze every aspect of the sound. But I can't... I can't feel the music. It's just data. Just information. Just sound."
+"I can hear the fundamental frequency of every note�?61.63 hertz for middle C, plus the harmonics that give it character. I can feel the vibration through the piano bench, through the floor, through my skin. I can analyze every aspect of the sound. But I can't... I can't feel the music. It's just data. Just information. Just sound."
 
 ### Kai Zhang (After Reversal)
 "I'm crying. Not because I can observe sadness, but because I can feel it. The music is beautiful, and it hurts, and that's the most wonderful thing I've ever experienced. I forgot what it felt like to hurt. I forgot what it felt like to feel."

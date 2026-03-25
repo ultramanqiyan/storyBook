@@ -30,11 +30,11 @@ He tapped his tablet, and a display screen at the far end of the room flickered 
 
 "Three years, Dr. Webb." Ford's tone was conversational, almost friendly. "Three years of funding. Three years of resources. Three years of promises." He paused. "And yet, here we are, still waiting for results."
 
-"I understand the board's concerns," Marcus began. "The neural architecture has been more complex than anticipatedâ€”"
+"I understand the board's concerns," Marcus began. "The neural architecture has been more complex than anticipatedâ€?
 
 "Complexity is not an excuse." Ford leaned forward, his eyes fixed on Marcus. "Complexity is what we hired you to solve. The Prometheus Institute exists to push boundaries, to achieve the impossible. Not to make excuses."
 
-Marcus felt sweat prickling at his temples. He kept his hands flat on the table, forcing himself to remain still. "I'm making advances. The network is stabilizing. The patterns we're seeing suggestâ€”"
+Marcus felt sweat prickling at his temples. He kept his hands flat on the table, forcing himself to remain still. "I'm making advances. The network is stabilizing. The patterns we're seeing suggestâ€?
 
 "What patterns?" Ford interrupted. "Show me. Show me something concrete."
 

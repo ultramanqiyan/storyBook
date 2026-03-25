@@ -84,17 +84,17 @@ The next morning, Robert arrived at the office early. He walked to Eleanor's off
 
 Eleanor looked at the letter. She read it slowly, her expression changing with each paragraph. When she finished, she looked up at him.
 
-"Robert, this isâ€”"
+"Robert, this isâ€?
 
 "I know what it is. I know what it could cost me. But I want you to read it at the all-hands meeting today. I want everyone to hear it."
 
 Eleanor was quiet for a long moment. Then she shook her head.
 
-"I can't do that. I'm HR. I work for the company. If I read thisâ€”"
+"I can't do that. I'm HR. I work for the company. If I read thisâ€?
 
 "I know. That's why I'm going to read it myself."
 
-Eleanor's eyes widened. "Robert, you can'tâ€”"
+Eleanor's eyes widened. "Robert, you can'tâ€?
 
 "I can. And I will." He took the letter back. "The meeting is at two o'clock. I'll be there."
 

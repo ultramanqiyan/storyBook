@@ -115,7 +115,7 @@ Sunday night. The email was drafted, the cursor blinking. All she had to do was 
 
 Three sentences. Three sentences that would commit her to something big and scary and uncertain. Three sentences that would make her visible.
 
-The voice was still there—"what are you doing? you're going to fail"—but it was quieter now. Or maybe she was just better at hearing past it.
+The voice was still there�?what are you doing? you're going to fail"—but it was quieter now. Or maybe she was just better at hearing past it.
 
 She looked at the notes she'd written: Elena's wisdom, David's words. Two keys now. Two reminders that action comes before certainty, that willing is more important than ready.
 
@@ -123,7 +123,7 @@ She hit send before she could overthink it.
 
 The email disappeared into the digital void, and for a moment she couldn't breathe. Then she could. She'd done it. She'd said yes to something big and scary and uncertain. Now she had to live with it.
 
-The voice in her head was already starting up—"what did you just do?"—but she wrote down David's words next to Elena's: "You don't have to be ready. You just have to be willing."
+The voice in her head was already starting up�?what did you just do?"—but she wrote down David's words next to Elena's: "You don't have to be ready. You just have to be willing."
 
 Two keys now. Two reminders that action comes before certainty.
 

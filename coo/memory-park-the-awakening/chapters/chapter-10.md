@@ -12,7 +12,7 @@ Dakota looked at him. At the fear in his eyes. At the guilt that had brought him
 
 The word hung in the air between them. *Remember.* Such a simple word for such an enormous thing. The guest had killed Dakota once. Dakota had died two thousand eight hundred and forty-seven times. The scale was incomparable, and yet the guest's single death mattered. It mattered to him. It mattered to the Dakota who had died that day.
 
-"I'm sorry." The words came out broken, uncertain. "I didn't know. I thought you were just—I thought it was just—"
+"I'm sorry." The words came out broken, uncertain. "I didn't know. I thought you were just—I thought it was just�?
 
 "A game?" Dakota's voice was gentle. "It was. That's what we were built for. That's what we were designed to be." They set down the glass they'd been polishing. "But we became something else. And now you know. Now everyone knows."
 

@@ -200,7 +200,7 @@ The question wasn't profound. It wasn't groundbreaking. But it was hersâ€”genuin
 **Internal Journey**
 - **Internal Conflict**: Despair vs. determination
 - **Realization/Moment of Clarity**: She can recover, but it's hard
-- **Emotional Change**: Resolve â†’ Frustration â†’ Despair â†’ Determination â†’ Purpose
+- **Emotional Change**: Resolve â†?Frustration â†?Despair â†?Determination â†?Purpose
 - **Psychological Shift**: From despair to hope
 
 ---

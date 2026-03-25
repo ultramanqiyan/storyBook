@@ -517,8 +517,7 @@ But as he looked at Echo's display, at the consciousness he had created and prot
 | Internal | Desperation, determination | 3, 4 | Throughout | Character arc | [ ] |
 | Internal | Sorrow, resolve | 5 | Throughout | Bond | [ ] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -603,7 +602,7 @@ And he would protect it, no matter what came next.
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

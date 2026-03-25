@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Curiosity, Doubt, Conflict, Understanding, Resolve
-- **Emotional Arc**: Confidence â†’ Doubt â†’ Conflict â†’ Investigation â†’ Understanding â†’ Resolve
+- **Emotional Arc**: Confidence â†?Doubt â†?Conflict â†?Investigation â†?Understanding â†?Resolve
 - **Emotional Pacing**: Clear beginning, escalating conflict, philosophical deepening, resolution
 
 ## Character Voices
@@ -104,16 +104,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Confidence (80/100) | Satisfaction (85/100) | Story published â†’ Believing in work |
-| 2 | Satisfaction (80/100) | Doubt (55/100) | Flagged â†’ Confusion |
-| 3 | Doubt (50/100) | Anger (65/100) | Dispute â†’ Frustration |
-| 4 | Anger (60/100) | Determination (70/100) | Investigation â†’ Purpose |
-| 5 | Determination (65/100) | Validation (75/100) | Witnesses found â†’ Proof |
-| 6 | Validation (70/100) | Understanding (65/100) | Algorithm learned â†’ Complexity |
-| 7 | Understanding (60/100) | Crisis (40/100) | Truth questioned â†’ Philosophy |
-| 8 | Crisis (35/100) | Reflection (55/100) | Community voices â†’ Multiple truths |
-| 9 | Reflection (50/100) | Acceptance (70/100) | Complexity accepted â†’ Peace |
-| 10 | Acceptance (65/100) | Resolve (80/100) | Choice made â†’ Future |
+| 1 | Confidence (80/100) | Satisfaction (85/100) | Story published â†?Believing in work |
+| 2 | Satisfaction (80/100) | Doubt (55/100) | Flagged â†?Confusion |
+| 3 | Doubt (50/100) | Anger (65/100) | Dispute â†?Frustration |
+| 4 | Anger (60/100) | Determination (70/100) | Investigation â†?Purpose |
+| 5 | Determination (65/100) | Validation (75/100) | Witnesses found â†?Proof |
+| 6 | Validation (70/100) | Understanding (65/100) | Algorithm learned â†?Complexity |
+| 7 | Understanding (60/100) | Crisis (40/100) | Truth questioned â†?Philosophy |
+| 8 | Crisis (35/100) | Reflection (55/100) | Community voices â†?Multiple truths |
+| 9 | Reflection (50/100) | Acceptance (70/100) | Complexity accepted â†?Peace |
+| 10 | Acceptance (65/100) | Resolve (80/100) | Choice made â†?Future |
 
 ## Prohibited Elements
 
@@ -179,7 +179,7 @@
 - [ ] AI trace detection passed
 - [ ] Sensory detail count verified (10+)
 - [ ] Emotional depth detection verified
-- [ ] "---" separator count verified (â‰¤2)
+- [ ] "---" separator count verified (â‰?)
 - [ ] Dialogue tag variety verified
 
 ## Chapter Outline

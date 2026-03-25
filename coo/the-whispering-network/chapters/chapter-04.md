@@ -106,7 +106,7 @@ He looked up at last, his silver eyes pinning her like a butterfly to a board.
 
 "For months, I've watched you solve problems that should be impossible. I've seen you know things that no living person could know. And I've wondered how."
 
-"Sir, Iâ€”"
+"Sir, Iâ€?
 
 "Let me finish." Veren's voice cracked like a whip. "There are stories, old stories, that every network technician hears in their first year. Stories about voices in the Crystal Network. Voices that speak from beyond death, offering knowledge in exchange for... what? No one knows. Most people dismiss them as superstition, ghost stories to frighten apprentices. But I've always wondered if there was truth to them."
 

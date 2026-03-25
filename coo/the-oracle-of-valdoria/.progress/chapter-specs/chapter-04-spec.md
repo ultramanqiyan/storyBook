@@ -79,7 +79,7 @@ In the final memory, Lyra stood before a crack in the airâ€”a tear in reality th
 ## 6. Quality Verification Checklist
 
 - [ ] Emotional curve matches specification
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Memory fragments are distinct and evocative
 

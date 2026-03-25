@@ -84,7 +84,7 @@ He studied her for a long moment. Then he reached into his desk and pulled out a
 
 Nova picked up the card. The address was handwritten in faded ink. "Why are you helping me?"
 
-Dr. Webb's eyes met hers. "Because someone has to. Because the questions you're asking are the most important questions anyone can ask. Becauseâ€”" He paused. "Because I used to be like you. Curious. Determined. Willing to risk everything for the truth."
+Dr. Webb's eyes met hers. "Because someone has to. Because the questions you're asking are the most important questions anyone can ask. Becauseâ€? He paused. "Because I used to be like you. Curious. Determined. Willing to risk everything for the truth."
 
 "What happened?"
 

@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Vulnerability after failure
-    â†“
-Middle: Curiosity about a different way
-    â†“
-Closing: Hope mixed with skepticism
+    â†?Middle: Curiosity about a different way
+    â†?Closing: Hope mixed with skepticism
 ```
 
 ### 2.2 Emotional Depth Design
@@ -139,8 +137,7 @@ Closing: Hope mixed with skepticism
 | Visual | Autumn leaves falling | 4 | Natural rhythm, patience |
 | Kinesthetic | Slower walking pace | 4 | Physical shift toward calm |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

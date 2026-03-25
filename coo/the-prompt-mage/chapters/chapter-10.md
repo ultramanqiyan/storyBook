@@ -8,11 +8,11 @@ Alex stood in the center of their apartment, Jordan beside them, the book of Fir
 
 "Alex Mercer," Elena's voice came through a megaphone from outside, amplified and impersonal. "You are surrounded. There is no escape. Surrender peacefully, and no one will be harmed. We simply want to talk."
 
-Alex looked at Jordan, who had insisted on staying despite every argument to the contrary. "You should go. There's still time. The back exitâ€”"
+Alex looked at Jordan, who had insisted on staying despite every argument to the contrary. "You should go. There's still time. The back exitâ€?
 
 "I'm not leaving you." Jordan's voice was firm, their eyes steady. "You said it yourselfâ€”I'm a Witness. This is what I do. I witness. I remember. I document. If I leave, who will tell the story of what happens here?"
 
-"Jordan, you're a Witness. Your job is to remember what happens here. You can't do that if you're captured, if you're hurt, if you'reâ€”"
+"Jordan, you're a Witness. Your job is to remember what happens here. You can't do that if you're captured, if you're hurt, if you'reâ€?
 
 "Dead?" Jordan smiled grimly. "Witnesses have been dying for truth since the beginning of time. It's part of the job description." They gripped Alex's shoulder. "Besides, you need someone to watch your back. Someone who isn't connected to the language, who can see things you might miss."
 

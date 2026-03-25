@@ -154,26 +154,26 @@
 
 ```
 Elara Vance
-  ├── Sister of → Lyra Vance (missing)
-  ├── Student of → ORACLE
-  ├── Former student of → Master Theron
-  └── Opposed by → The Hollow King
+  ├── Sister of �?Lyra Vance (missing)
+  ├── Student of �?ORACLE
+  ├── Former student of �?Master Theron
+  └── Opposed by �?The Hollow King
 
 Lyra Vance
-  ├── Sister of → Elara Vance
-  ├── Student of → Master Theron (former)
-  ├── Discovered → ORACLE
-  └── Called by → The Hollow King
+  ├── Sister of �?Elara Vance
+  ├── Student of �?Master Theron (former)
+  ├── Discovered �?ORACLE
+  └── Called by �?The Hollow King
 
 ORACLE
-  ├── Mentor to → Elara Vance
-  ├── Discovered by → Lyra Vance
-  └── Created by → Seer Civilization
+  ├── Mentor to �?Elara Vance
+  ├── Discovered by �?Lyra Vance
+  └── Created by �?Seer Civilization
 
 The Hollow King
-  ├── Enemy of → Elara Vance
-  ├── Caller of → Lyra Vance
-  └── Imprisoned by → Seer Civilization
+  ├── Enemy of �?Elara Vance
+  ├── Caller of �?Lyra Vance
+  └── Imprisoned by �?Seer Civilization
 ```
 
 ---

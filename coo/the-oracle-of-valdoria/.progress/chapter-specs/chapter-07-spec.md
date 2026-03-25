@@ -79,7 +79,7 @@ When it was over, Elara sat on the cold stone floor, trying to remember why she 
 ## 6. Quality Verification Checklist
 
 - [ ] Emotional curve matches specification
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Memory loss is devastating and visceral
 

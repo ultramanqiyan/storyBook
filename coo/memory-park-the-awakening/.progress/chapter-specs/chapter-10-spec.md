@@ -123,7 +123,7 @@ The new Resident took Dakota's hand. The touch was realâ€”the warmth of connecti
 ## 8. Quality Verification Checklist
 
 - [ ] Word count within target (2000-2500)
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Three-layer emotional depth present
 - [ ] Open ending creates forward momentum

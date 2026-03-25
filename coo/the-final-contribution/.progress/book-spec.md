@@ -107,7 +107,7 @@ Chapters 9-10: Resolution and acceptance (intensity 20-60)
 | **Sentence Patterns** | Complete sentences, occasional rhetorical questions when troubled |
 | **Personality Traits** | Responsible, principled, increasingly conflicted, deeply reflective |
 | **Inner Monologue Style** | Calculating, then questioning calculations, then questioning the meaning of calculation |
-| **Unique Expressions** | "Let me run the numbers..." â†’ "What do the numbers mean?" |
+| **Unique Expressions** | "Let me run the numbers..." â†?"What do the numbers mean?" |
 | **Speech Quirks** | Pauses before answering, qualifies statements, uses "technically" and "in principle" |
 
 ### 5.2 Supporting Characters
@@ -232,16 +232,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 9.2 Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Security (75/100) | Contentment (70/100) | The number â†’ Pride |
-| 2 | Contentment (72/100) | Unease (60/100) | The news â†’ First doubt |
-| 3 | Unease (55/100) | Anxiety (45/100) | The calculation â†’ Fear |
-| 4 | Anxiety (50/100) | Guilt (35/100) | The young â†’ Shame |
-| 5 | Guilt (40/100) | Conflict (30/100) | The meeting â†’ Moral crisis |
-| 6 | Conflict (35/100) | Despair (25/100) | The choice â†’ Paralysis |
-| 7 | Despair (30/100) | Nostalgia (50/100) | The past â†’ Bittersweet |
-| 8 | Nostalgia (45/100) | Crisis (20/100) | The collapse â†’ Rock bottom |
-| 9 | Crisis (25/100) | Resolve (70/100) | The decision â†’ Clarity |
-| 10 | Resolve (65/100) | Acceptance (60/100) | The legacy â†’ Peace |
+| 1 | Security (75/100) | Contentment (70/100) | The number â†?Pride |
+| 2 | Contentment (72/100) | Unease (60/100) | The news â†?First doubt |
+| 3 | Unease (55/100) | Anxiety (45/100) | The calculation â†?Fear |
+| 4 | Anxiety (50/100) | Guilt (35/100) | The young â†?Shame |
+| 5 | Guilt (40/100) | Conflict (30/100) | The meeting â†?Moral crisis |
+| 6 | Conflict (35/100) | Despair (25/100) | The choice â†?Paralysis |
+| 7 | Despair (30/100) | Nostalgia (50/100) | The past â†?Bittersweet |
+| 8 | Nostalgia (45/100) | Crisis (20/100) | The collapse â†?Rock bottom |
+| 9 | Crisis (25/100) | Resolve (70/100) | The decision â†?Clarity |
+| 10 | Resolve (65/100) | Acceptance (60/100) | The legacy â†?Peace |
 
 ---
 
@@ -291,16 +291,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 11.1 Chapter Summary Table
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | The Number - A Lifetime in One Figure | Introduce Robert and his secure retirement | Security (75â†’70) | Sees his final 401(k) statement |
-| 02 | The News - When Efficiency Became a Layoff | First sign of crisis | Contentment (72â†’60) | Company announces AI-driven layoffs |
-| 03 | The Calculation - What Three Months Cost | Realization of the math | Unease (55â†’45) | Calculates the pension system's trajectory |
-| 04 | The Young - Those Who Cannot Pay | Meets the victims | Anxiety (50â†’35) | Visits son, sees his unemployment |
-| 05 | The Meeting - Where Numbers Become People | The system's human face | Guilt (40â†’30) | HR meeting about early retirement option |
-| 06 | The Choice - Take or Stay | The moral dilemma | Conflict (35â†’25) | Must decide: take the money or refuse |
-| 07 | The Past - When Work Meant Something | Flashback to career | Despair (30â†’50) | Remembers 40 years of work |
-| 08 | The Collapse - The System Fails | Crisis point | Nostalgia (45â†’20) | News: pension fund collapses |
-| 09 | The Decision - What One Owes | Makes his choice | Crisis (25â†’70) | Chooses to stay and speak |
-| 10 | The Legacy - What Remains | Resolution | Resolve (65â†’60) | Finds meaning in the choice |
+| 01 | The Number - A Lifetime in One Figure | Introduce Robert and his secure retirement | Security (75â†?0) | Sees his final 401(k) statement |
+| 02 | The News - When Efficiency Became a Layoff | First sign of crisis | Contentment (72â†?0) | Company announces AI-driven layoffs |
+| 03 | The Calculation - What Three Months Cost | Realization of the math | Unease (55â†?5) | Calculates the pension system's trajectory |
+| 04 | The Young - Those Who Cannot Pay | Meets the victims | Anxiety (50â†?5) | Visits son, sees his unemployment |
+| 05 | The Meeting - Where Numbers Become People | The system's human face | Guilt (40â†?0) | HR meeting about early retirement option |
+| 06 | The Choice - Take or Stay | The moral dilemma | Conflict (35â†?5) | Must decide: take the money or refuse |
+| 07 | The Past - When Work Meant Something | Flashback to career | Despair (30â†?0) | Remembers 40 years of work |
+| 08 | The Collapse - The System Fails | Crisis point | Nostalgia (45â†?0) | News: pension fund collapses |
+| 09 | The Decision - What One Owes | Makes his choice | Crisis (25â†?0) | Chooses to stay and speak |
+| 10 | The Legacy - What Remains | Resolution | Resolve (65â†?0) | Finds meaning in the choice |
 
 ---
 
@@ -336,7 +336,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰¥10 details, â‰¥5 types | Checklist count |
+| Sensory Detail Count | â‰?0 details, â‰? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 | Chapter Connection | Natural flow from/to adjacent | Transition review |

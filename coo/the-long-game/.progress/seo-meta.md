@@ -34,7 +34,7 @@ The Long Game: Why Patience Wins in an Instant World
 A transformative guide for professionals trapped in the sprint mentality. Discover how patience, strategic thinking, and the compound effect can build a career that lasts.
 
 ### Philosophical Themes
-- Long-term thinking (disguised from 持久战 - Protracted War)
+- Long-term thinking (disguised from 持久�?- Protracted War)
 - Patience as power, not passivity
 - The compound effect of small choices
 - Strategic waiting vs. passive waiting

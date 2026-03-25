@@ -31,7 +31,7 @@ function loadConfig() {
 function extractSEOKeywords(seoContent) {
   const keywords = [];
   
-  // 格式1: 数字编号格式（如 the-neural-druid, the-silent-partner）
+  // 格式1: 数字编号格式（英文）
   // 1. keyword (search volume: xxx)
   const primaryMatch = seoContent.match(/\*\*Primary Keywords\*\*:\s*[\s\S]*?(?=\*\*Long-tail|\*\*Secondary|###|$)/i);
   if (primaryMatch) {
@@ -45,11 +45,39 @@ function extractSEOKeywords(seoContent) {
     });
   }
   
+  // 格式1b: 数字编号格式（中文）- 匹配"主要关键词"或"核心关键词"
+  // **主要关键词**: 或 **核心关键词**:
+  const primaryMatchZh = seoContent.match(/\*\*(?:主要|核心)关键词\*\*[:：]\s*[\s\S]*?(?=\*\*长尾|\*\*次要|###|$)/i);
+  if (primaryMatchZh) {
+    const lines = primaryMatchZh[0].split('\n');
+    lines.forEach(line => {
+      const numMatch = line.match(/^\d+\.\s*(.+?)(?:\s*\(|$)/);
+      if (numMatch) {
+        const kw = numMatch[1].trim();
+        if (kw) keywords.push(kw);
+      }
+    });
+  }
+  
+  // 长尾关键词（英文）
   const longtailMatch = seoContent.match(/\*\*Long-tail Keywords\*\*:\s*[\s\S]*?(?=###|$)/i);
   if (longtailMatch) {
     const lines = longtailMatch[0].split('\n');
     lines.forEach(line => {
       const numMatch = line.match(/^\d+\.\s*(.+)/);
+      if (numMatch) {
+        const kw = numMatch[1].trim();
+        if (kw) keywords.push(kw);
+      }
+    });
+  }
+  
+  // 长尾关键词（中文）
+  const longtailMatchZh = seoContent.match(/\*\*长尾关键词\*\*[:：]\s*[\s\S]*?(?=###|$)/i);
+  if (longtailMatchZh) {
+    const lines = longtailMatchZh[0].split('\n');
+    lines.forEach(line => {
+      const numMatch = line.match(/^\d+\.\s*(.+?)(?:\s*\(|$)/);
       if (numMatch) {
         const kw = numMatch[1].trim();
         if (kw) keywords.push(kw);
@@ -169,7 +197,131 @@ function extractChapterSEO(seoContent) {
     const metaDescription = match[3].trim();
     const keywords = match[4].trim();
     
-    // 如果该章节已存在（格式1已匹配），则跳过
+    if (!chapterSEO[chapterNum]) {
+      chapterSEO[chapterNum] = {
+        title: chapterTitle,
+        metaDescription: metaDescription,
+        keywords: keywords
+      };
+    }
+  }
+  
+  // 格式3: The Neural Druid 格式
+  // **Meta Description**:
+  // ```
+  // xxx
+  // ```
+  // **Keywords**: xxx
+  const chapterPatternNeuralDruid = /### Chapter (\d+): ([^\n]+)\n[\s\S]*?\*\*Meta Description\*\*:\s*```\s*\n?([\s\S]*?)```\s*\n[\s\S]*?\*\*Keywords\*\*:\s*([^\n]+)/gi;
+  
+  while ((match = chapterPatternNeuralDruid.exec(seoContent)) !== null) {
+    const chapterNum = parseInt(match[1]);
+    const chapterTitle = match[2].trim();
+    const metaDescription = match[3].trim();
+    const keywords = match[4].trim();
+    
+    if (!chapterSEO[chapterNum]) {
+      chapterSEO[chapterNum] = {
+        title: chapterTitle,
+        metaDescription: metaDescription,
+        keywords: keywords
+      };
+    }
+  }
+  
+  // 格式4: The Blame Game 格式（关键词是列表）
+  // **Keywords:**
+  // - keyword1
+  // - keyword2
+  const chapterPatternBlameGame = /### Chapter (\d+): ([^\n]+)\n[\s\S]*?\*\*Meta Description\*\*:\s*```\s*\n?([\s\S]*?)```\s*\n[\s\S]*?\*\*Keywords:\*\*\s*\n((?:-\s*[^\n]+\n?)+)/gi;
+  
+  while ((match = chapterPatternBlameGame.exec(seoContent)) !== null) {
+    const chapterNum = parseInt(match[1]);
+    const chapterTitle = match[2].trim();
+    const metaDescription = match[3].trim();
+    const keywordList = match[4].trim();
+    const keywords = keywordList.split('\n')
+      .map(line => line.replace(/^-\s*/, '').trim())
+      .filter(k => k)
+      .join(', ');
+    
+    if (!chapterSEO[chapterNum]) {
+      chapterSEO[chapterNum] = {
+        title: chapterTitle,
+        metaDescription: metaDescription,
+        keywords: keywords
+      };
+    }
+  }
+  
+  // 格式5: The Blame Game 格式变体（无代码块的Meta Description）
+  // **Meta Description:**
+  // xxx
+  // **Keywords:**
+  // - keyword1
+  const chapterPatternBlameGame2 = /### Chapter (\d+): ([^\n]+)\n[\s\S]*?\*\*Meta Description:\*\*\s*\n([^\n]+)\n[\s\S]*?\*\*Keywords:\*\*\s*\n((?:-\s*[^\n]+\n?)+)/gi;
+  
+  while ((match = chapterPatternBlameGame2.exec(seoContent)) !== null) {
+    const chapterNum = parseInt(match[1]);
+    const chapterTitle = match[2].trim();
+    const metaDescription = match[3].trim();
+    const keywordList = match[4].trim();
+    const keywords = keywordList.split('\n')
+      .map(line => line.replace(/^-\s*/, '').trim())
+      .filter(k => k)
+      .join(', ');
+    
+    if (!chapterSEO[chapterNum]) {
+      chapterSEO[chapterNum] = {
+        title: chapterTitle,
+        metaDescription: metaDescription,
+        keywords: keywords
+      };
+    }
+  }
+  
+  // 格式6: The Blame Game 实际格式（Keywords在前，Meta Description在后）
+  // **Keywords:**
+  // - keyword1
+  // - keyword2
+  // **Meta Description:**
+  // xxx
+  const chapterPatternKeywordsFirst = /### Chapter (\d+): ([^\n]+)\n[\s\S]*?\*\*Keywords:\*\*\s*\n((?:-\s*[^\n]+\n?)+)[\s\S]*?\*\*Meta Description:\*\*\s*\n([^\n]+)/gi;
+  
+  while ((match = chapterPatternKeywordsFirst.exec(seoContent)) !== null) {
+    const chapterNum = parseInt(match[1]);
+    const chapterTitle = match[2].trim();
+    const keywordList = match[3].trim();
+    const metaDescription = match[4].trim();
+    const keywords = keywordList.split('\n')
+      .map(line => line.replace(/^-\s*/, '').trim())
+      .filter(k => k)
+      .join(', ');
+    
+    if (!chapterSEO[chapterNum]) {
+      chapterSEO[chapterNum] = {
+        title: chapterTitle,
+        metaDescription: metaDescription,
+        keywords: keywords
+      };
+    }
+  }
+  
+  // 格式7: The Whispering Network 格式（中文关键词）
+  // **关键词**: xxx
+  // 或
+  // **Keywords**: xxx
+  const chapterPatternSimpleKeywords = /### Chapter (\d+): ([^\n]+)\n[\s\S]*?\*\*(?:Keywords|关键词)\*\*:\s*([^\n]+)/gi;
+  
+  while ((match = chapterPatternSimpleKeywords.exec(seoContent)) !== null) {
+    const chapterNum = parseInt(match[1]);
+    const chapterTitle = match[2].trim();
+    const keywords = match[3].trim();
+    
+    // 提取Meta Description
+    const metaDescMatch = seoContent.match(new RegExp(`### Chapter ${chapterNum}:[^\\n]*\\n[\\s\\S]*?\\*\\*Meta Description\\*\\*:\\s*\\n?\`\`\`\\s*\\n?([\\s\\S]*?)\`\`\``, 'i'));
+    const metaDescription = metaDescMatch ? metaDescMatch[1].trim() : '';
+    
     if (!chapterSEO[chapterNum]) {
       chapterSEO[chapterNum] = {
         title: chapterTitle,
@@ -421,11 +573,12 @@ function extractKeywordsFromContent(content, characters, bookType, isZh) {
     }
   };
   
-  characters.forEach(c => {
-    if (c.name && c.name.length > 1) {
-      keywords.add(c.name);
-    }
-  });
+  // 不再将角色名字作为keywords，因为角色名字没有SEO价值
+  // characters.forEach(c => {
+  //   if (c.name && c.name.length > 1) {
+  //     keywords.add(c.name);
+  //   }
+  // });
   
   const lowerContent = content.toLowerCase();
   

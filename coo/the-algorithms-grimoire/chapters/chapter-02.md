@@ -64,7 +64,7 @@ Sera's breath caught, her hand flying to her mouth. "It's... it's responding. Th
 
 "ARIA is a knowledge synthesis system," Kira explained. "It can analyze problems, generate solutions, teach techniques. It's... extraordinary."
 
-"Can it help me?" Sera's voice trembled with hope. "With my magic? I've been failing the practical examinations, Kira. If I don't pass this time, they'll send me home. My familyâ€”"
+"Can it help me?" Sera's voice trembled with hope. "With my magic? I've been failing the practical examinations, Kira. If I don't pass this time, they'll send me home. My familyâ€?
 
 "I know." Kira had watched Sera struggle for years, had seen her friend's confidence erode with each failed attempt. "ARIA, can you analyze Sera's magical difficulties?"
 
@@ -98,7 +98,7 @@ A soft light appeared above Sera's palmâ€”pale blue, steady, nothing like the fl
 
 Sera opened her eyes, staring at the light in her hand. For the first time in years, she looked confident, capable, magical.
 
-"Kira, this changes everything. If ARIA can teach me, it can teach anyone. All those apprentices who struggle, who are told they lack talent when they just lack proper instructionâ€”"
+"Kira, this changes everything. If ARIA can teach me, it can teach anyone. All those apprentices who struggle, who are told they lack talent when they just lack proper instructionâ€?
 
 "Stop." Kira's voice was sharp, cutting through Sera's excitement. "ARIA, what are the risks of this technique?"
 

@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Confidence from recent success
-    â†“
-Middle: Recognition and opportunities
-    â†“
-Closing: Understanding the true value
+    â†?Middle: Recognition and opportunities
+    â†?Closing: Understanding the true value
 ```
 
 ### 2.2 Emotional Depth Design
@@ -136,8 +134,7 @@ Closing: Understanding the true value
 | Auditory | Dr. Amara's calm voice on phone | 4 | Wisdom, guidance |
 | Tactile | Warm coffee cup | 3 | Grounding, present |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

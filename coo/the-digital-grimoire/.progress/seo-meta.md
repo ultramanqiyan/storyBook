@@ -248,15 +248,15 @@ Maya must make her final choice about what kind of keeper she will be. The digit
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (discovery â†’ first spell)
-**Chapter 2** â†’ Chapter 3 (spell â†’ threat revealed)
-**Chapter 3** â†’ Chapter 4 (order â†’ keeper role)
-**Chapter 4** â†’ Chapter 5 (keeper â†’ corporate threat)
-**Chapter 5** â†’ Chapter 6 (corporate â†’ price revealed)
-**Chapter 6** â†’ Chapter 7 (price â†’ breach)
-**Chapter 7** â†’ Chapter 8 (breach â†’ confrontation)
-**Chapter 8** â†’ Chapter 9 (confrontation â†’ dark practitioner)
-**Chapter 9** â†’ Chapter 10 (practitioner â†’ final choice)
+**Chapter 1** â†?Chapter 2 (discovery â†?first spell)
+**Chapter 2** â†?Chapter 3 (spell â†?threat revealed)
+**Chapter 3** â†?Chapter 4 (order â†?keeper role)
+**Chapter 4** â†?Chapter 5 (keeper â†?corporate threat)
+**Chapter 5** â†?Chapter 6 (corporate â†?price revealed)
+**Chapter 6** â†?Chapter 7 (price â†?breach)
+**Chapter 7** â†?Chapter 8 (breach â†?confrontation)
+**Chapter 8** â†?Chapter 9 (confrontation â†?dark practitioner)
+**Chapter 9** â†?Chapter 10 (practitioner â†?final choice)
 
 ### Thematic Cluster Links
 

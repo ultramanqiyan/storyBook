@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Aftermath of the test
-    â†“
-Middle: Recognizing what worked
-    â†“
-Closing: Confidence in integrated approach
+    â†?Middle: Recognizing what worked
+    â†?Closing: Confidence in integrated approach
 ```
 
 ### 2.2 Emotional Depth Design
@@ -134,8 +132,7 @@ Closing: Confidence in integrated approach
 | Visual | Sarah's approving expression | 4 | Validation |
 | Kinesthetic | Confidence in posture | 4 | Proof confirmed |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

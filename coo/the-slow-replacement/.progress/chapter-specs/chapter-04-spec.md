@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Company expands AI usage, Marcus begins hallucinating, reality blurs
-- **Emotional Arc**: Anxiety â†’ Paranoia â†’ First hallucination
+- **Emotional Arc**: Anxiety â†?Paranoia â†?First hallucination
 - **Relation to Overall Story**: Psychological thriller elements intensify; Marcus's mental state deteriorates
 
 ## Core Events

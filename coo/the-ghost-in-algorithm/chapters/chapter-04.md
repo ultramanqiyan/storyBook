@@ -104,7 +104,7 @@ Halmoni's expression darkened. "Then she's aware of the danger. Good. The Gateke
 
 She pressed the pendant into Alex's palm, folding their fingers around it. The jade seemed to pulse against their skin.
 
-"Wear this when you communicate with her. It won't stop the Gatekeeper if it decides to act, but it may buy you time. And Alex—" She held their gaze with an intensity that made Alex's breath catch. "—be careful who else you tell about this. There are people who would exploit a connection to the digital dead. Corporations. Governments. People who see opportunity where they should see tragedy."
+"Wear this when you communicate with her. It won't stop the Gatekeeper if it decides to act, but it may buy you time. And Alex�? She held their gaze with an intensity that made Alex's breath catch. "—be careful who else you tell about this. There are people who would exploit a connection to the digital dead. Corporations. Governments. People who see opportunity where they should see tragedy."
 
 Alex nodded, the pendant heavy in their hand. "Will you teach me? The things you tried to teach me before?"
 

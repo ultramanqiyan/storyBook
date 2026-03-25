@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Show impact of ethical work, deepen relationships
-- **Emotional Arc**: Progress â†’ Connection â†’ Hope
+- **Emotional Arc**: Progress â†?Connection â†?Hope
 - **Relation to Overall Story**: Demonstrate the value of Chronos's legacy
 
 ## Core Events

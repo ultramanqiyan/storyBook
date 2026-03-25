@@ -43,11 +43,11 @@ She slid a document across the table. Marcus stared at it, his eyes fixed on the
 
 The words blurred together, each one feeling like an accusation.
 
-"What does this mean?" Marcus asked, his voice tight. "Is this a performance improvement plan? Am I being set up forâ€”"
+"What does this mean?" Marcus asked, his voice tight. "Is this a performance improvement plan? Am I being set up forâ€?
 
 "Marcus, no." Rachel's expression was confused. "This is standard feedback. Everyone gets areas for improvement. It's not a PIP."
 
-"But why 'communication could be more proactive'? I respond to every Slack message. I attend every meeting. Iâ€”"
+"But why 'communication could be more proactive'? I respond to every Slack message. I attend every meeting. Iâ€?
 
 "It's just a suggestion," Rachel said, her voice gentle. "You're a valued member of the team, Marcus. We want to help you grow."
 
@@ -127,7 +127,7 @@ At 1:37 AM, he got up and went to his home office.
 
 The laptop was still there, the job posting still open. He stared at it, trying to find some detail that would prove it wasn't about him.
 
-*Maybe it's for a new team. Maybe they're expanding. Maybeâ€”*
+*Maybe it's for a new team. Maybe they're expanding. Maybeâ€?
 
 But the words blurred together, the fear drowning out the logic.
 
@@ -171,17 +171,17 @@ The words hit Marcus like a physical blow. *Destroying us.*
 
 "I'm doing this for us," he said, his voice cracking. "I'm doing this to protect our family."
 
-"You're not protecting us." Sarah wiped her eyes. "You're scaring us. The kids ask about you. Emma drew a picture at schoolâ€”'my daddy at work'â€”and you weren't in it. She said you're never home."
+"You're not protecting us." Sarah wiped her eyes. "You're scaring us. The kids ask about you. Emma drew a picture at schoolâ€?my daddy at work'â€”and you weren't in it. She said you're never home."
 
 The words felt like a knife in Marcus's chest. Emma. His daughter. She'd noticed his absence. She'd felt his distance.
 
 "I'll do better," he said, his voice barely a whisper. "I'll be home more."
 
-"Marcus, that's notâ€”" Sarah started, but Marcus cut her off.
+"Marcus, that's notâ€? Sarah started, but Marcus cut her off.
 
 "I need to sleep," he said, walking past her toward the bedroom. "I have an early meeting tomorrow."
 
-"Marcus, pleaseâ€”"
+"Marcus, pleaseâ€?
 
 "I said I need to sleep."
 
@@ -251,11 +251,11 @@ Marcus felt his chest tighten. "What?"
 
 "You need help, Marcus. You're not sleeping. You're not eating. You're having panic attacks. You're seeing things that aren't there." Sarah's voice was steady, but her eyes were filled with fear. "I can't watch you destroy yourself. I won't."
 
-"I told you, I don't needâ€”"
+"I told you, I don't needâ€?
 
 "You do need it." Sarah cut him off. "You need it, and you're too scared to admit it. But I'm not going to let you fall apart. I'm not going to let our family fall apart."
 
-Marcus felt tears sting his eyes. "Sarah, Iâ€”"
+Marcus felt tears sting his eyes. "Sarah, Iâ€?
 
 "The appointment is on Thursday at 4 PM," Sarah continued. "I'll take the kids to my mom's. You'll go to the appointment. And you'll talk to someone."
 

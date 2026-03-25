@@ -322,7 +322,7 @@ David signed the offer that evening. Mike should have felt triumphant - a sale i
 **Internal Journey**
 - **Internal Conflict**: Professional identity vs. evidence of AI effectiveness
 - **Realization/Moment of Clarity**: AI can do what he does, faster
-- **Emotional Change**: Skepticism â†’ surprise â†’ acceptance â†’ unease
+- **Emotional Change**: Skepticism â†?surprise â†?acceptance â†?unease
 - **Psychological Shift**: First crack in his professional self-concept
 
 **Character Growth**
@@ -588,7 +588,7 @@ David signed the offer that evening, his face bright with the particular excitem
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

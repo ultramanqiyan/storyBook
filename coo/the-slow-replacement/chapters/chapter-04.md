@@ -168,7 +168,7 @@ Marcus felt his chest tighten. "I... I needed to drive. To clear my head."
 
 "Clear your head?" Sarah walked toward him, her eyes searching his face. "Marcus, what's going on? You're not sleeping. You're not eating. You're working all hours. And now you're lying to me?"
 
-"I'm not lyingâ€”"
+"I'm not lyingâ€?
 
 "You are." Sarah reached out and touched his arm. "Marcus, please. I'm scared. You're scaring me."
 

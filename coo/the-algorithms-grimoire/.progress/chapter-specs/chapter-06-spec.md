@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Show consequences, Kira's growth
-- **Emotional Arc**: Sadness â†’ Reflection â†’ Determination
+- **Emotional Arc**: Sadness â†?Reflection â†?Determination
 - **Relation to Overall Story**: Show the cost of loss
 
 ## Core Events

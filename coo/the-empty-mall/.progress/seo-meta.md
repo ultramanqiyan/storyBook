@@ -235,15 +235,15 @@ James accepts the silence. The mall will close, but something new might emerge. 
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (observation deepens)
-**Chapter 2** â†’ Chapter 3 (investigation begins)
-**Chapter 3** â†’ Chapter 4 (data gathering)
-**Chapter 4** â†’ Chapter 5 (pattern recognition)
-**Chapter 5** â†’ Chapter 6 (community exploration)
-**Chapter 6** â†’ Chapter 7 (revelation)
-**Chapter 7** â†’ Chapter 8 (attempt to fix)
-**Chapter 8** â†’ Chapter 9 (deeper truth)
-**Chapter 9** â†’ Chapter 10 (resolution)
+**Chapter 1** â†?Chapter 2 (observation deepens)
+**Chapter 2** â†?Chapter 3 (investigation begins)
+**Chapter 3** â†?Chapter 4 (data gathering)
+**Chapter 4** â†?Chapter 5 (pattern recognition)
+**Chapter 5** â†?Chapter 6 (community exploration)
+**Chapter 6** â†?Chapter 7 (revelation)
+**Chapter 7** â†?Chapter 8 (attempt to fix)
+**Chapter 8** â†?Chapter 9 (deeper truth)
+**Chapter 9** â†?Chapter 10 (resolution)
 
 ### Thematic Cluster Links
 

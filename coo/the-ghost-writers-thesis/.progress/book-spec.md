@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Pride, Confusion, Shame, Determination, Wonder
-- **Emotional Arc**: Pride (85â†’40) â†’ Shock (45â†’35) â†’ Confusion (40â†’55) â†’ Shame (50â†’60) â†’ Fear (55â†’70) â†’ Determination (65â†’80) â†’ Crisis (75â†’90) â†’ Revelation (85â†’95) â†’ Choice (90â†’75) â†’ Struggle (70â†’80)
+- **Emotional Arc**: Pride (85â†?0) â†?Shock (45â†?5) â†?Confusion (40â†?5) â†?Shame (50â†?0) â†?Fear (55â†?0) â†?Determination (65â†?0) â†?Crisis (75â†?0) â†?Revelation (85â†?5) â†?Choice (90â†?5) â†?Struggle (70â†?0)
 - **Emotional Pacing**: Setup (1-2) medium, Rising (3-5) medium-fast, Climax (6-8) fast, Resolution (9-10) medium
 
 ## Character Voices
@@ -30,7 +30,7 @@
 - **Word Choice**: Academic terminology mixed with growing self-doubt
 - **Personality Traits**: Brilliant, once curious, now efficient at "research"
 - **Internal Monologue Style**: Analytical but increasingly aware of emotional/intellectual gaps
-- **Unique Expressions**: "The literature suggests..." â†’ "I wonder why..."
+- **Unique Expressions**: "The literature suggests..." â†?"I wonder why..."
 - **Development Arc**: From efficient researcher to someone rediscovering genuine curiosity
 
 ### Dr. Marcus Webb (Advisor)
@@ -114,34 +114,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Breakthrough - Original Contribution
-Elena's breakthrough and discovery. Establish Elena's "success." Emotional arc: Pride (85â†’40)
+Elena's breakthrough and discovery. Establish Elena's "success." Emotional arc: Pride (85â†?0)
 
 ### Chapter 2: The Discovery - Questions Not Mine
-Elena discovers questions aren't hers. The truth. Emotional arc: Shock (45â†’35)
+Elena discovers questions aren't hers. The truth. Emotional arc: Shock (45â†?5)
 
 ### Chapter 3: The Archive - What I Used to Wonder
-Elena finds pre-AI research archives. Discovery. Emotional arc: Confusion (40â†’55)
+Elena finds pre-AI research archives. Discovery. Emotional arc: Confusion (40â†?5)
 
 ### Chapter 4: The Professor - A Warning Ignored
-Professor Webb's warning. The mentor. Emotional arc: Shame (50â†’60)
+Professor Webb's warning. The mentor. Emotional arc: Shame (50â†?0)
 
 ### Chapter 5: The Experiment - Trying to Wonder
-Elena tries to generate own questions. Struggle. Emotional arc: Fear (55â†’70)
+Elena tries to generate own questions. Struggle. Emotional arc: Fear (55â†?0)
 
 ### Chapter 6: The Committee - Defending the Borrowed
-Thesis defense committee. Pressure. Emotional arc: Determination (65â†’80)
+Thesis defense committee. Pressure. Emotional arc: Determination (65â†?0)
 
 ### Chapter 7: The Truth - What We've Become
-Elena sees the full cost. Understanding. Emotional arc: Crisis (75â†’90)
+Elena sees the full cost. Understanding. Emotional arc: Crisis (75â†?0)
 
 ### Chapter 8: The Choice - Confess or Continue
-Elena must decide. Decision. Emotional arc: Revelation (85â†’95)
+Elena must decide. Decision. Emotional arc: Revelation (85â†?5)
 
 ### Chapter 9: The Struggle - Relearning Curiosity
-Elena relearns curiosity. Hard work. Emotional arc: Choice (90â†’75)
+Elena relearns curiosity. Hard work. Emotional arc: Choice (90â†?5)
 
 ### Chapter 10: The Question - New Beginning
-Elena asks first original question. Resolution. Emotional arc: Struggle (70â†’80)
+Elena asks first original question. Resolution. Emotional arc: Struggle (70â†?0)
 
 ## Open Ending Design
 

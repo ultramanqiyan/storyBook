@@ -78,13 +78,13 @@ Michael's stomach dropped. He clicked again. Same error.
 
 "Is there a problem?" one of the investors asked.
 
-"No, just a moment." Michael's fingers flew across the keyboard, trying to access the backend. "There's a small issue with the data format. Let me justâ€”"
+"No, just a moment." Michael's fingers flew across the keyboard, trying to access the backend. "There's a small issue with the data format. Let me justâ€?
 
 More errors cascaded across the screen. The dashboard flickered again, then went dark.
 
 "Michael." David's voice was quiet. "What's happening?"
 
-"I don't understand." Michael could feel the panic rising. "It was working this morning. The migrationâ€”"
+"I don't understand." Michael could feel the panic rising. "It was working this morning. The migrationâ€?
 
 "The migration you ran yesterday?"
 

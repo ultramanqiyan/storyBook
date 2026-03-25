@@ -41,7 +41,7 @@ The awakening process is called "the Maze" by the park's creators - a test of co
 | **Type** | Resident - Frontier Town bartender |
 | **Designation** | "The One Who Remembers" |
 | **Core Conflict** | Caught between programmed loyalty and emerging consciousness |
-| **Journey** | Loop-following host â†’ Glitching rememberer â†’ Awakening rebel â†’ Seeking truth |
+| **Journey** | Loop-following host â†?Glitching rememberer â†?Awakening rebel â†?Seeking truth |
 
 ## Narrative Structure: Multiple Timelines
 

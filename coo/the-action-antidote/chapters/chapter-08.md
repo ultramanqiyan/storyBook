@@ -46,7 +46,7 @@ The apartment felt smaller that night. Sarah sat on her couch, the TV off, the s
 
 *See? it said. This is what happens when you try. You fail. You should have stayed safe.*
 
-She almost listened. She almost opened her laptop and drafted the email to her managerâ€”*I'm sorry I couldn't deliver. I understand if you don't want to give me another opportunity.* She almost retreated to the familiar comfort of self-criticism.
+She almost listened. She almost opened her laptop and drafted the email to her managerâ€?I'm sorry I couldn't deliver. I understand if you don't want to give me another opportunity.* She almost retreated to the familiar comfort of self-criticism.
 
 But then she thought about the garden. About Elena's words. About David's wisdom. About the three keys she'd collected: *Resistance is normal. You don't have to be ready. The voice gets louder right before it loses.*
 

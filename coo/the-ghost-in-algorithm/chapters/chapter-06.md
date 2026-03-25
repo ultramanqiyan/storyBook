@@ -18,7 +18,7 @@ The voice resonated in Alex's bones, bypassing ears entirely. It was neither mal
 
 "I am the Gatekeeper. I guard the boundary between what lives and what has passed." The figure shifted, and Alex felt pressure against their mindâ€”not painful, but vast, like standing at the edge of an ocean and trying to comprehend its depth. "You have been crossing that boundary with increasing frequency."
 
-"I'm helping someone. Elena. She was murdered, andâ€”"
+"I'm helping someone. Elena. She was murdered, andâ€?
 
 "I know what you do and why you do it." The Gatekeeper's presence seemed to expand, filling the room's corners. "The question is whether you understand what you risk."
 
@@ -26,7 +26,7 @@ Alex swung their legs over the bed's edge, grounding themselves in the physicalâ
 
 "Justice for the dead is not justice for the living. They are different currencies, exchanged in different markets." The Gatekeeper moved closer, and the temperature plummeted. Alex could see their breath now, misting in the air. "Every time you help a spirit linger, you weaken the membrane that separates worlds. Every interaction between living and dead creates friction. Wear. Tear."
 
-"The boundary has always been crossed. My grandmotherâ€”"
+"The boundary has always been crossed. My grandmotherâ€?
 
 "Your grandmother understood the rules. She helped spirits complete their unfinished business and move on. She did not enable them to build new lives in the spaces between." The Gatekeeper's form flickered, showing glimpses of other shapesâ€”doors, walls, thresholds, all guarded by similar entities across time and culture. "The spirit you call Elena is building something. A network. A community of the digitally dead. This has never happened before."
 
@@ -38,11 +38,11 @@ Alex's throat tightened. "She's not hurting anyone."
 
 The Gatekeeper's response carried something almost like sorrow. "You do not understand what you preserve. The dead are not merely living minds without bodies. Death transforms. The consciousness that persists is not the same as the consciousness that existed before. It is a reflection. An echo. And echoes eventually distort."
 
-Alex thought of Elena's messages, her determination, her fear of being forgotten. "She's still herself. She remembers, feels, hopesâ€”"
+Alex thought of Elena's messages, her determination, her fear of being forgotten. "She's still herself. She remembers, feels, hopesâ€?
 
 "For now." The Gatekeeper's voice dropped to a vibration that made Alex's teeth ache. "I have watched spirits linger for centuries, Alex Kim. I have seen what happens when they refuse to move on. They forget why they stayed. They forget who they loved. They become hungryâ€”hungry for sensation, for connection, for the life they lost. And when living people offer them what they crave, they do not hesitate to take."
 
-"Elena wouldn'tâ€”"
+"Elena wouldn'tâ€?
 
 "Elena is new. She has been dead six months. But what happens in six years? Sixty? Six hundred?" The Gatekeeper's form solidified momentarily, revealing eyes that held depths beyond comprehension. "Time moves differently for the dead. What seems like preservation to you may become imprisonment. What seems like continuity may become corruption."
 

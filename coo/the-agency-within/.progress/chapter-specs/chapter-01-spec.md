@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Riley's passive approach to work
-    ↓
-Middle: Comfort in waiting for direction
-    ↓
-Closing: First hint of dissatisfaction
+    �?Middle: Comfort in waiting for direction
+    �?Closing: First hint of dissatisfaction
 ```
 
 ### 2.2 Emotional Depth Design
@@ -136,8 +134,7 @@ Closing: First hint of dissatisfaction
 | Auditory | Apartment silence | 4 | Alone with questions |
 | Kinesthetic | Restlessness | 4 | Discomfort growing |
 
-**Minimum 5 details covering 3 types**: ✓
-
+**Minimum 5 details covering 3 types**: �?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -164,7 +161,7 @@ Closing: First hint of dissatisfaction
 - **Deepest Level**: Identity built on reactivity
 
 ### 9.2 Philosophical Connection
-- **Mao Thought**: 主观能动性 - The need for agency begins with recognizing its absence
+- **Mao Thought**: 主观能动�?- The need for agency begins with recognizing its absence
 - **Application**: Passive existence has limits
 
 ---

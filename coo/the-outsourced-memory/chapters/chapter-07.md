@@ -20,7 +20,7 @@ Each one was a collection of data points, probability scores, and algorithmic ve
 
 *Did I make any of these decisions?* he wondered. *Or did I just sign my name to them?*
 
-He opened the Chen file again, studying the property details. The foundation notation was still there—*minor settling observed. No structural concern*—and he still couldn't remember what he'd once known about that neighborhood, that soil, that particular type of construction.
+He opened the Chen file again, studying the property details. The foundation notation was still there�?minor settling observed. No structural concern*—and he still couldn't remember what he'd once known about that neighborhood, that soil, that particular type of construction.
 
 *Try*, he told himself. *Try to remember.*
 

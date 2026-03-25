@@ -83,7 +83,7 @@
 **Internal Journey**
 - **Internal Conflict**: Wanting to succeed but unable to focus
 - **Realization/Moment of Clarity**: None yet (this is setup)
-- **Emotional Change**: Overwhelm â†’ Anxiety â†’ Determination â†’ Exhaustion â†’ Frustration â†’ Resignation
+- **Emotional Change**: Overwhelm â†?Anxiety â†?Determination â†?Exhaustion â†?Frustration â†?Resignation
 - **Psychological Shift**: None yet (establishing baseline)
 
 ---
@@ -113,8 +113,7 @@
 | Tactile | Tension in shoulders | Throughout | Stress | [x] |
 | Internal | Racing thoughts | Throughout | Anxiety | [x] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications

@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Experience the most stimulating content, feel satisfiedâ€”establish the "peak" experience
-- **Emotional Arc**: Anticipation â†’ Extreme satisfaction â†’ Post-satisfaction calm
+- **Emotional Arc**: Anticipation â†?Extreme satisfaction â†?Post-satisfaction calm
 - **Relationship to Overall Story**: Show the peak of "stimulation," creating contrast for the subsequent "numbness"
 
 ## Core Events
@@ -117,6 +117,6 @@
 
 ## Chapter Ending Design
 - **Emotion**: Post-satisfaction calm
-- **Suspense**: Leo feels satisfied, but has a subtle thoughtâ€”*Next time I'll find something stronger*
+- **Suspense**: Leo feels satisfied, but has a subtle thoughtâ€?Next time I'll find something stronger*
 - **Don't**: Predictive ending, dramatic summary
 - **Do**: Leave a subtle desire for escalation, make readers want to know what happens next

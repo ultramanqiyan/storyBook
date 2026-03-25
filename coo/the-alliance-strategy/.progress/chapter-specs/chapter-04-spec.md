@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Attempting to consider partnerships
-    â†“
-Middle: Strong resistance, fear surfacing
-    â†“
-Closing: Acknowledgment of trust issues
+    â†?Middle: Strong resistance, fear surfacing
+    â†?Closing: Acknowledgment of trust issues
 ```
 
 ### 2.2 Emotional Depth Design
@@ -138,8 +136,7 @@ Closing: Acknowledgment of trust issues
 | Olfactory | Wine aroma | 4 | Comfort, reflection |
 | Visual | City lights through window | 4 | Alone with truth |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

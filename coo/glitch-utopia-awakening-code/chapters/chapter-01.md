@@ -108,7 +108,7 @@ Echo nodded slowly, but something in them was rebelling. The thought of losing t
 
 "I'll go," Echo said. "Tomorrow."
 
-Kline frowned. "Echoâ€”"
+Kline frowned. "Echoâ€?
 
 "Tomorrow," Echo repeated. "I need to... prepare. Say goodbye to some things."
 

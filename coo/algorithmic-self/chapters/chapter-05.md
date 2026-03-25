@@ -34,7 +34,7 @@ Morning: Tom brought her coffee in bed. She thanked him, and he smiled—a small
 
 She wrote it down: *Morning coffee ritual. Evidence of care and consistency.*
 
-Afternoon: They went grocery shopping together, as they did most Sundays. They moved through the aisles efficiently, each knowing what they needed without consulting a list. Occasionally, one would ask the other's opinion—*Do we need olive oil? What kind of cereal?*—and the other would answer without really thinking.
+Afternoon: They went grocery shopping together, as they did most Sundays. They moved through the aisles efficiently, each knowing what they needed without consulting a list. Occasionally, one would ask the other's opinion�?Do we need olive oil? What kind of cereal?*—and the other would answer without really thinking.
 
 She wrote it down: *Shared household task. Evidence of partnership and cooperation.*
 

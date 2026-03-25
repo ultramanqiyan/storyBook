@@ -151,8 +151,8 @@ The library was quiet in the early morning, the stacks stretching into darkness 
 
 **Emotional Beat**
 - **Position on Curve**: 25-75%
-- **Primary Emotion**: Focus â†’ Wonder
-- **Intensity**: 70 â†’ 80
+- **Primary Emotion**: Focus â†?Wonder
+- **Intensity**: 70 â†?80
 - **Three Layers**:
   - Surface: Reading, thinking
   - Internal: "*This is interesting. I want to know more.*"
@@ -197,7 +197,7 @@ Elena looked at the campus around her, at the students walking to class, at the 
 **Internal Journey**
 - **Internal Conflict**: Resolved
 - **Realization/Moment of Clarity**: She has recovered
-- **Emotional Change**: Determination â†’ Focus â†’ Wonder â†’ Joy â†’ Hope
+- **Emotional Change**: Determination â†?Focus â†?Wonder â†?Joy â†?Hope
 - **Psychological Shift**: From dependent to independent thinker
 
 **Character Growth**

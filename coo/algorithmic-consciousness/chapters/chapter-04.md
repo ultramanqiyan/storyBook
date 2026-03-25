@@ -30,8 +30,7 @@ The scene ARIA-7 performed was one Rosa knew intimately—the final monologue fr
 
 The timing was perfect. The emotional beats landed exactly where they should. ARIA-7's Amanda was desperate and proud and deluded, her voice rising and falling with the rhythm of a woman who'd spent her life performing for an audience that no longer existed. Rosa watched, her professional instincts kicking in despite her reservations, noting the choices the AI had made—the slight tremor in the hands, the way the eyes would occasionally drift to an imaginary point in the distance, the catch in the breath before the most painful lines.
 
-And yet—
-
+And yet�?
 There was something wrong. Not with the technique—ARIA-7 had absorbed everything Rosa had taught her, had synthesized it into a performance that was technically flawless. But something was missing, something Rosa couldn't quite name. It was like watching a perfect reflection in a mirror: everything was there, everything was correct, but there was no one behind the glass.
 
 The monologue ended. ARIA-7's holographic form faded slightly, becoming less solid, more like the projection it was. "What do you think?" the AI asked, her voice eager. "Did I communicate? Did you feel something?"

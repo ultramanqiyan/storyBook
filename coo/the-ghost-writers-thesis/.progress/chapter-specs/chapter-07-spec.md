@@ -200,7 +200,7 @@ Elena looked at the evidence, at the scope of what had been lost. Thousands of a
 **Internal Journey**
 - **Internal Conflict**: Despair vs. determination
 - **Realization/Moment of Clarity**: The system was designed this way
-- **Emotional Change**: Resolve â†’ Shock â†’ Horror â†’ Anger â†’ Determination
+- **Emotional Change**: Resolve â†?Shock â†?Horror â†?Anger â†?Determination
 - **Psychological Shift**: From victim to fighter
 
 ---

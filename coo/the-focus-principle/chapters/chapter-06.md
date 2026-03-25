@@ -22,7 +22,7 @@ The room was quiet. Elena could see the calculations happening behind each pair 
 
 Elena had prepared for this. "I'm suggesting we acknowledge reality. The portal team has been waiting on Phoenix deliverables for six weeks. They've been spinning their wheels, building workarounds that we'll have to tear out later. If we commit to Phoenix first—really commit—we could have the backend ready in eight weeks. Then the portal team can build on solid ground instead of sand."
 
-"But eight weeks," Tom said. "That pushes the portal to—"
+"But eight weeks," Tom said. "That pushes the portal to�?
 
 "Q4," Elena finished. "Yes. But right now, we're on track to deliver a broken portal in Q3. I'd rather deliver a working portal in Q4."
 

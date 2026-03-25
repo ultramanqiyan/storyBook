@@ -253,11 +253,11 @@ The words hit Marcus like a physical blow. Emma had cried. His daughter had crie
 
 "Sorry isn't enough." Sarah walked toward him, her eyes searching his face. "What's going on? Why are you working so much? Why won't you talk to me?"
 
-"I'm justâ€”" Marcus started, but the words caught in his throat.
+"I'm justâ€? Marcus started, but the words caught in his throat.
 
 "You're just what? Busy? Stressed?" Sarah reached out and touched his arm. "Marcus, I'm worried about you. You're not sleeping. You're not eating. You're barely present when you're home. This isn't like you."
 
-"I'm fine," Marcus said, pulling his arm away. "I just need to work. I need to proveâ€”"
+"I'm fine," Marcus said, pulling his arm away. "I just need to work. I need to proveâ€?
 
 "Prove what?" Sarah's voice cracked. "Prove that you can work yourself to death? Because that's what it looks like from here."
 
@@ -265,7 +265,7 @@ The words hung in the air, sharp and painful. Marcus wanted to explain, to tell 
 
 "I can't talk about this right now," he said, his voice tight. "I'm tired. I need to sleep."
 
-"Marcusâ€”"
+"Marcusâ€?
 
 "I said I'm tired." He walked past her, toward the bedroom. "We can talk tomorrow."
 

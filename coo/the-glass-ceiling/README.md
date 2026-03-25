@@ -47,7 +47,7 @@ Meridian Tech doesn't just hire employees - it breaks them down and rebuilds the
 | **Background** | First-generation Asian-American, scholarship student |
 | **Position** | Junior Product Manager |
 | **Core Conflict** | Desire to succeed vs. growing awareness of manipulation |
-| **Journey** | Starry-eyed recruit â†’ Questioning employee â†’ Awakening survivor |
+| **Journey** | Starry-eyed recruit â†?Questioning employee â†?Awakening survivor |
 
 ## Narrative Structure: Three Acts
 

@@ -22,7 +22,7 @@ The color drained from Sarah's face. Her hands, resting on the desk, curled into
 
 "I've been listening."
 
-"To what? Ghosts?" Sarah's laugh was sharp, defensive. "Elena is dead, Alex. She died six months ago. Whatever you think you've found—"
+"To what? Ghosts?" Sarah's laugh was sharp, defensive. "Elena is dead, Alex. She died six months ago. Whatever you think you've found�?
 
 "She's in the system, Sarah. Her consciousness. The experiment worked, didn't it? That's what you were researching. Consciousness transfer. Digital preservation of the human mind."
 
@@ -90,7 +90,7 @@ Sarah's head snapped up. "What?"
 
 "Elena. She's been communicating through the system. Leaving messages in code, in data streams, in the spaces between information. That's how I found her. That's how I know any of this is real."
 
-"That's impossible." But hope flickered in Sarah's eyes, fragile and desperate. "The protocols we established—she shouldn't be able to interact with external systems. She's isolated, contained, theoretically unable to—"
+"That's impossible." But hope flickered in Sarah's eyes, fragile and desperate. "The protocols we established—she shouldn't be able to interact with external systems. She's isolated, contained, theoretically unable to�?
 
 "She's been learning. Growing. Adapting to her new existence." Alex moved closer, urgency overriding caution. "She's not just surviving in there, Sarah. She's evolving. And she's been trying to reach you too."
 
@@ -106,7 +106,7 @@ Sarah's gasp was sharp, painful. "Elena?"
 
 *I'm here, Sarah. I've always been here.*
 
-Tears streamed down Sarah's face, unchecked, unacknowledged. "I thought—I thought I'd lost you. That you were trapped, suffering, and I couldn't—"
+Tears streamed down Sarah's face, unchecked, unacknowledged. "I thought—I thought I'd lost you. That you were trapped, suffering, and I couldn't�?
 
 *You saved me. You refused to let them use me. You kept my secret when it would have been easier to tell the truth. I owe you everything.*
 

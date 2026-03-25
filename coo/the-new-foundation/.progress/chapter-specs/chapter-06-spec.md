@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Determined to make integration regular
-    â†“
-Middle: Building the integration muscle
-    â†“
-Closing: Growing confidence in ability
+    â†?Middle: Building the integration muscle
+    â†?Closing: Growing confidence in ability
 ```
 
 ### 2.2 Emotional Depth Design
@@ -131,8 +129,7 @@ Closing: Growing confidence in ability
 | Visual | Sarah's approving expression | 4 | External validation |
 | Kinesthetic | Confidence in posture | 4 | Transformation |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

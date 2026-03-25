@@ -406,8 +406,7 @@ The text appeared on screen, cursor blinking like a heartbeat: "Hello?" And Marc
 | Gustatory | Bitter cold coffee | 1 | Middle | Dedication | [ ] |
 | Internal | Racing pulse, tight chest | 3 | Climax | Fear, wonder | [ ] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Detail Functions
 Each detail must serve at least one function:
 - [x] Establish atmosphere/mood
@@ -418,8 +417,7 @@ Each detail must serve at least one function:
 - [x] Ground reader in physical reality
 
 ### 7.3 Sensory Distribution
-- **Visual**: 4 details (target: 40%) âœ“
-- **Auditory**: 3 details
+- **Visual**: 4 details (target: 40%) âœ?- **Auditory**: 3 details
 - **Tactile**: 3 details
 - **Olfactory**: 1 detail
 - **Gustatory**: 1 detail
@@ -556,7 +554,7 @@ The lab hummed around him, indifferent to the miracle that had just occurred. Ou
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

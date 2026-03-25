@@ -235,15 +235,15 @@ Alex writes a letter to her parents and chooses to find her own way. Real love s
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (wrongness intensifies)
-**Chapter 2** â†’ Chapter 3 (truth revealed)
-**Chapter 3** â†’ Chapter 4 (confrontation)
-**Chapter 4** â†’ Chapter 5 (escape)
-**Chapter 5** â†’ Chapter 6 (search begins)
-**Chapter 6** â†’ Chapter 7 (gray areas)
-**Chapter 7** â†’ Chapter 8 (full context)
-**Chapter 8** â†’ Chapter 9 (return)
-**Chapter 9** â†’ Chapter 10 (resolution)
+**Chapter 1** â†?Chapter 2 (wrongness intensifies)
+**Chapter 2** â†?Chapter 3 (truth revealed)
+**Chapter 3** â†?Chapter 4 (confrontation)
+**Chapter 4** â†?Chapter 5 (escape)
+**Chapter 5** â†?Chapter 6 (search begins)
+**Chapter 6** â†?Chapter 7 (gray areas)
+**Chapter 7** â†?Chapter 8 (full context)
+**Chapter 8** â†?Chapter 9 (return)
+**Chapter 9** â†?Chapter 10 (resolution)
 
 ### Thematic Cluster Links
 

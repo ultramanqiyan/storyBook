@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Warm, Community-focused, Philosophical, Reflective, Acceptance
-- **Emotional Arc**: Confidence â†’ Curiosity â†’ Questioning â†’ Revelation â†’ Understanding â†’ Acceptance
+- **Emotional Arc**: Confidence â†?Curiosity â†?Questioning â†?Revelation â†?Understanding â†?Acceptance
 - **Emotional Pacing**: Warm beginning, philosophical deepening, contemplative resolution
 
 ## Character Voices
@@ -104,16 +104,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Confidence (80/100) | Satisfaction (85/100) | Mediating dispute â†’ Skill shown |
-| 2 | Curiosity (75/100) | Skepticism (65/100) | AI introduced â†’ Skepticism |
-| 3 | Skepticism (60/100) | Intrigue (70/100) | Testing â†’ Surprised by accuracy |
-| 4 | Intrigue (65/100) | Concern (55/100) | AI accurate â†’ Questions raised |
-| 5 | Concern (50/100) | Revelation (60/100) | Hidden intent â†’ Surprising truth |
-| 6 | Revelation (55/100) | Conflict (45/100) | Philosophical crisis â†’ Deep questions |
-| 7 | Conflict (40/100) | Understanding (55/100) | Mediation case â†’ New perspective |
-| 8 | Understanding (50/100) | Shock (40/100) | Own intent revealed â†’ Personal crisis |
-| 9 | Shock (35/100) | Acceptance (65/100) | Philosophical understanding â†’ Peace |
-| 10 | Acceptance (60/100) | Hope (75/100) | Mystery accepted â†’ Future |
+| 1 | Confidence (80/100) | Satisfaction (85/100) | Mediating dispute â†?Skill shown |
+| 2 | Curiosity (75/100) | Skepticism (65/100) | AI introduced â†?Skepticism |
+| 3 | Skepticism (60/100) | Intrigue (70/100) | Testing â†?Surprised by accuracy |
+| 4 | Intrigue (65/100) | Concern (55/100) | AI accurate â†?Questions raised |
+| 5 | Concern (50/100) | Revelation (60/100) | Hidden intent â†?Surprising truth |
+| 6 | Revelation (55/100) | Conflict (45/100) | Philosophical crisis â†?Deep questions |
+| 7 | Conflict (40/100) | Understanding (55/100) | Mediation case â†?New perspective |
+| 8 | Understanding (50/100) | Shock (40/100) | Own intent revealed â†?Personal crisis |
+| 9 | Shock (35/100) | Acceptance (65/100) | Philosophical understanding â†?Peace |
+| 10 | Acceptance (60/100) | Hope (75/100) | Mystery accepted â†?Future |
 
 ## Prohibited Elements
 

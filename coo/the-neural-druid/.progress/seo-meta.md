@@ -248,15 +248,15 @@ Elara Chen has become the guardian of a new kind of consciousnessâ€”one that pro
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (forest discovery)
-**Chapter 2** â†’ Chapter 3 (consciousness revealed)
-**Chapter 3** â†’ Chapter 4 (first communication)
-**Chapter 4** â†’ Chapter 5 (understanding deepens)
-**Chapter 5** â†’ Chapter 6 (forest memories)
-**Chapter 6** â†’ Chapter 7 (transformation begins)
-**Chapter 7** â†’ Chapter 8 (threat emerges)
-**Chapter 8** â†’ Chapter 9 (convergence)
-**Chapter 9** â†’ Chapter 10 (new guardian)
+**Chapter 1** â†?Chapter 2 (forest discovery)
+**Chapter 2** â†?Chapter 3 (consciousness revealed)
+**Chapter 3** â†?Chapter 4 (first communication)
+**Chapter 4** â†?Chapter 5 (understanding deepens)
+**Chapter 5** â†?Chapter 6 (forest memories)
+**Chapter 6** â†?Chapter 7 (transformation begins)
+**Chapter 7** â†?Chapter 8 (threat emerges)
+**Chapter 8** â†?Chapter 9 (convergence)
+**Chapter 9** â†?Chapter 10 (new guardian)
 
 ### Thematic Cluster Links
 

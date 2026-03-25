@@ -291,7 +291,7 @@ Outside, the Cleveland skyline was turning amber, the lake wind carrying that fa
 **Internal Journey**
 - **Internal Conflict**: Growing awareness of what's being lost vs. comfort with efficiency
 - **Realization/Moment of Clarity**: Her body no longer reacts to fraud cases
-- **Emotional Change**: Comfort â†’ absence â†’ unease â†’ concern
+- **Emotional Change**: Comfort â†?absence â†?unease â†?concern
 - **Psychological Shift**: Beginning to question the cost of cognitive outsourcing
 
 **Character Growth**
@@ -425,7 +425,7 @@ Outside, the Cleveland skyline was turning amber, the lake wind carrying that fa
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Character has clear internal conflict
 - [ ] Ending matches specified type

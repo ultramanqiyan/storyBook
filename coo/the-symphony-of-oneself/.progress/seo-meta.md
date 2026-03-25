@@ -234,15 +234,15 @@ Integration complete. Maya is one selfâ€”containing seven songs within her. The 
 ## Internal Linking Strategy
 
 ### Chapter-to-Chapter Links
-**Chapter 1** â†’ Chapter 2 (discovery â†’ fragmentation)
-**Chapter 2** â†’ Chapter 3 (fragmentation â†’ conflict)
-**Chapter 3** â†’ Chapter 4 (conflict â†’ memories)
-**Chapter 4** â†’ Chapter 5 (memories â†’ negotiation)
-**Chapter 5** â†’ Chapter 6 (negotiation â†’ wounds)
-**Chapter 6** â†’ Chapter 7 (wounds â†’ acceptance)
-**Chapter 7** â†’ Chapter 8 (acceptance â†’ integration)
-**Chapter 8** â†’ Chapter 9 (integration â†’ harmony)
-**Chapter 9** â†’ Chapter 10 (harmony â†’ completion)
+**Chapter 1** â†?Chapter 2 (discovery â†?fragmentation)
+**Chapter 2** â†?Chapter 3 (fragmentation â†?conflict)
+**Chapter 3** â†?Chapter 4 (conflict â†?memories)
+**Chapter 4** â†?Chapter 5 (memories â†?negotiation)
+**Chapter 5** â†?Chapter 6 (negotiation â†?wounds)
+**Chapter 6** â†?Chapter 7 (wounds â†?acceptance)
+**Chapter 7** â†?Chapter 8 (acceptance â†?integration)
+**Chapter 8** â†?Chapter 9 (integration â†?harmony)
+**Chapter 9** â†?Chapter 10 (harmony â†?completion)
 
 ### Thematic Cluster Links
 - Links to other psychological fiction books

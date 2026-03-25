@@ -206,7 +206,7 @@ But he couldn't delete the question from his mind.
 
 ---
 
-He put down his phone and closed his eyes. The apartment was still too quiet. The portfolio was still waiting. The exhibition—*Humanity's Last Breath*—was still six months away.
+He put down his phone and closed his eyes. The apartment was still too quiet. The portfolio was still waiting. The exhibition�?Humanity's Last Breath*—was still six months away.
 
 Tomorrow, he would begin in earnest. Tomorrow, he would find the ten most authentic artists in the world. Tomorrow, he would prove that his method was real.
 

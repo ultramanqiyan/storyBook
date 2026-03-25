@@ -24,7 +24,7 @@ People moved through the space with purpose. Elena counted at least twenty, mayb
 
 "Three years. Since my project was 'optimized away.'" She used the same emphasis Dr. Hale had, the same bitter weight on the last two words. "There are dozens of places like this across the city. Maybe hundreds across the country. Scientists continuing research that The Conductor deemed inefficient."
 
-"But how do you fund it? The equipment, the materials—"
+"But how do you fund it? The equipment, the materials�?
 
 "Donations. Crowdfunding. Some of us still have savings. And there's a black market for research supplies—equipment from defunded labs, chemicals that 'fell off trucks,' data from sources that would rather see their work continue than disappear entirely." She paused, looking at Elena with something like appraisal. "It's not efficient. But it's human."
 

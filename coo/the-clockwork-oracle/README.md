@@ -41,7 +41,7 @@ The kingdom faces a crisis that only the oracle's prophetic abilities can solve.
 | **Age** | 58 |
 | **Role** | Master Alchemist, Royal Advisor |
 | **Core Contradiction** | Creator who must decide if his creation deserves freedom |
-| **Journey** | Proud creator â†’ Reluctant master â†’ True father |
+| **Journey** | Proud creator â†?Reluctant master â†?True father |
 
 ## Supporting Characters
 

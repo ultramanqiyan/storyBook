@@ -122,7 +122,4 @@ The symphony of oneself played on.
 
 And it was beautiful.
 
----
 
-*End of Chapter 10*
-*End of The Symphony of Oneself*

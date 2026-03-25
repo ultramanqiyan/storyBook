@@ -4,7 +4,7 @@
 
 **Goal:** Create three new books following the book creation guide: The Silent River, The Stagnant Star, and The Hollow Heart
 
-**Architecture:** Each book follows the existing structure in coo directory: book folder â†’ .progress/ â†’ book-spec.md, chapter-specs/, progress.json, seo-meta.md â†’ chapters/ â†’ chapter-01.md to chapter-10.md
+**Architecture:** Each book follows the existing structure in coo directory: book folder â†?.progress/ â†?book-spec.md, chapter-specs/, progress.json, seo-meta.md â†?chapters/ â†?chapter-01.md to chapter-10.md
 
 **Tech Stack:** Markdown, following the book-spec-template.md and chapter-spec-template.md
 
@@ -37,7 +37,7 @@ This plan creates three new books with complete specifications and chapters:
 Create a complete book specification following the template, including:
 - Basic Information (title, genre, target readers, themes)
 - Narrative Style (third-person limited, Elena Vasquez POV)
-- Emotional Tone (discovery â†’ horror â†’ responsibility â†’ resolution)
+- Emotional Tone (discovery â†?horror â†?responsibility â†?resolution)
 - Character Voices (Elena, NeuralCore AI, government antagonist)
 - Thematic Depth (resource justice, power vs law)
 - World Building (Federation of Nordland, River's Bend town)
@@ -106,16 +106,16 @@ Each chapter specification must include:
 
 | Chapter | Title | Purpose | Emotional Arc |
 |---------|-------|---------|---------------|
-| 01 | The Drying River | Introduce Elena and the crisis | Discovery (20â†’40) |
-| 02 | The First Client | Elena takes the case | Determination (30â†’50) |
-| 03 | The Investigation | Gathering evidence | Growing concern (40â†’60) |
-| 04 | The Opposition | Facing NeuralCore | Frustration (50â†’70) |
-| 05 | The Hidden Truth | Discovering government involvement | Shock (60â†’80) |
-| 06 | The Courtroom | First hearing | Tension (70â†’85) |
-| 07 | The Setback | Case dismissed | Despair (80â†’60) |
-| 08 | The Resistance | Community mobilizes | Hope (60â†’75) |
-| 09 | The Revelation | New evidence emerges | Determination (75â†’90) |
-| 10 | The Crossroads | Open ending | Resolve (90â†’?) |
+| 01 | The Drying River | Introduce Elena and the crisis | Discovery (20â†?0) |
+| 02 | The First Client | Elena takes the case | Determination (30â†?0) |
+| 03 | The Investigation | Gathering evidence | Growing concern (40â†?0) |
+| 04 | The Opposition | Facing NeuralCore | Frustration (50â†?0) |
+| 05 | The Hidden Truth | Discovering government involvement | Shock (60â†?0) |
+| 06 | The Courtroom | First hearing | Tension (70â†?5) |
+| 07 | The Setback | Case dismissed | Despair (80â†?0) |
+| 08 | The Resistance | Community mobilizes | Hope (60â†?5) |
+| 09 | The Revelation | New evidence emerges | Determination (75â†?0) |
+| 10 | The Crossroads | Open ending | Resolve (90â†?) |
 
 ---
 
@@ -183,7 +183,7 @@ Character profiles for Elena Vasquez, NeuralCore executives, government official
 Complete book specification including:
 - Basic Information (title, genre: Dystopian/Philosophical Fiction, target: 16-25 years)
 - Narrative Style (third-person limited, Nova Chen POV)
-- Emotional Tone (curiosity â†’ discovery â†’ questioning â†’ choice)
+- Emotional Tone (curiosity â†?discovery â†?questioning â†?choice)
 - Character Voices (Nova Chen, Optima AI, fellow students, teachers)
 - Thematic Depth (perfection vs innovation, failure as necessity, diversity vs uniformity)
 - World Building (United States of Aurelia, Optima education system)
@@ -201,16 +201,16 @@ Complete book specification including:
 
 | Chapter | Title | Purpose | Emotional Arc |
 |---------|-------|---------|---------------|
-| 01 | The Perfect Path | Introduce Nova and Optima | Contentment (20â†’25) |
-| 02 | The Glitch | Nova encounters something unexpected | Curiosity (25â†’40) |
-| 03 | The Archive | Discovering historical innovations | Wonder (40â†’55) |
-| 04 | The Pattern | Seeing the stagnation | Concern (55â†’65) |
-| 05 | The Question | Confronting the truth | Doubt (65â†’75) |
-| 06 | The Experiment | Trying to create something new | Frustration (75â†’60) |
-| 07 | The Resistance | Meeting others who question | Hope (60â†’70) |
-| 08 | The Cost | Understanding what was lost | Grief (70â†’80) |
-| 09 | The Choice | Decision point | Determination (80â†’90) |
-| 10 | The First Step | Open ending | Uncertainty (90â†’?) |
+| 01 | The Perfect Path | Introduce Nova and Optima | Contentment (20â†?5) |
+| 02 | The Glitch | Nova encounters something unexpected | Curiosity (25â†?0) |
+| 03 | The Archive | Discovering historical innovations | Wonder (40â†?5) |
+| 04 | The Pattern | Seeing the stagnation | Concern (55â†?5) |
+| 05 | The Question | Confronting the truth | Doubt (65â†?5) |
+| 06 | The Experiment | Trying to create something new | Frustration (75â†?0) |
+| 07 | The Resistance | Meeting others who question | Hope (60â†?0) |
+| 08 | The Cost | Understanding what was lost | Grief (70â†?0) |
+| 09 | The Choice | Decision point | Determination (80â†?0) |
+| 10 | The First Step | Open ending | Uncertainty (90â†?) |
 
 ---
 
@@ -247,7 +247,7 @@ Follow the same process as Phase 1.
 Complete book specification including:
 - Basic Information (title, genre: Sci-Fi/Philosophical Fiction, target: 18-35 years)
 - Narrative Style (first-person, Aria Chen POV)
-- Emotional Tone (anticipation â†’ wonder â†’ emptiness â†’ search)
+- Emotional Tone (anticipation â†?wonder â†?emptiness â†?search)
 - Character Voices (Aria Chen, Convergence AI, fellow Converged, unchanged humans)
 - Thematic Depth (perception vs emotion, evolution vs humanity, identity)
 - World Building (near-future Earth, Convergence program)
@@ -265,16 +265,16 @@ Complete book specification including:
 
 | Chapter | Title | Purpose | Emotional Arc |
 |---------|-------|---------|---------------|
-| 01 | The Choice | Aria volunteers for Convergence | Hope (30â†’50) |
-| 02 | The Transformation | The modification process | Anticipation (50â†’70) |
-| 03 | The Awakening | First experience of super-senses | Wonder (70â†’85) |
-| 04 | The Discovery | Noticing emotional changes | Confusion (85â†’60) |
-| 05 | The Test | Confirming emotional loss | Denial (60â†’40) |
-| 06 | The Hollow | Experiencing the emptiness | Despair (40â†’30) |
-| 07 | The Memory | Recalling what was lost | Longing (30â†’50) |
-| 08 | The Search | Looking for a solution | Determination (50â†’65) |
-| 09 | The Trade-off | Learning the cost of reversal | Conflict (65â†’80) |
-| 10 | The Heartbeat | Open ending | Choice (80â†’?) |
+| 01 | The Choice | Aria volunteers for Convergence | Hope (30â†?0) |
+| 02 | The Transformation | The modification process | Anticipation (50â†?0) |
+| 03 | The Awakening | First experience of super-senses | Wonder (70â†?5) |
+| 04 | The Discovery | Noticing emotional changes | Confusion (85â†?0) |
+| 05 | The Test | Confirming emotional loss | Denial (60â†?0) |
+| 06 | The Hollow | Experiencing the emptiness | Despair (40â†?0) |
+| 07 | The Memory | Recalling what was lost | Longing (30â†?0) |
+| 08 | The Search | Looking for a solution | Determination (50â†?5) |
+| 09 | The Trade-off | Learning the cost of reversal | Conflict (65â†?0) |
+| 10 | The Heartbeat | Open ending | Choice (80â†?) |
 
 ---
 
@@ -305,7 +305,7 @@ For each book, verify:
 - [ ] Book specification follows template exactly
 - [ ] All 10 chapter specifications created
 - [ ] All 10 chapters written (2000-2500 words each)
-- [ ] Each chapter has â‰¥5 sensory details from â‰¥3 categories
+- [ ] Each chapter has â‰? sensory details from â‰? categories
 - [ ] Three-layer emotional depth in all significant moments
 - [ ] No AI writing patterns detected
 - [ ] Character voices are consistent and unique

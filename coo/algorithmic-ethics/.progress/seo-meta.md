@@ -240,26 +240,26 @@ Marie walks through the gardens under the new system. It's not perfect, but it's
 ## Internal Linking Strategy
 
 ### Chapter-to-Chapter Links
-**Chapter 1** â†’ Chapter 2 (AI introduction)
-**Chapter 2** â†’ Chapter 3 (system begins to make decisions)
-**Chapter 3** â†’ Chapter 4 (closure announcement)
-**Chapter 4** â†’ Chapter 5 (aftermath and investigation)
-**Chapter 5** â†’ Chapter 6 (deeper investigation
+**Chapter 1** â†?Chapter 2 (AI introduction)
+**Chapter 2** â†?Chapter 3 (system begins to make decisions)
+**Chapter 3** â†?Chapter 4 (closure announcement)
+**Chapter 4** â†?Chapter 5 (aftermath and investigation)
+**Chapter 5** â†?Chapter 6 (deeper investigation
 
 ---
 
 ## Internal Linking Strategy
 
 ### Chapter-to-Chapter Links
-**Chapter 1** â†’ Chapter 2 (AI introduction)
-**Chapter 2** â†’ Chapter 3 (first major decision)
-**Chapter 3** â†’ Chapter 4 (closure announcement)
-**Chapter 4** â†’ Chapter 5 (investigation begins)
-**Chapter 5** â†’ Chapter 6 (personal connection)
-**Chapter 6** â†’ Chapter 7 (philosophical question)
-**Chapter 7** â†’ Chapter 8 (community action)
-**Chapter 8** â†’ Chapter 9 (council meeting)
-**Chapter 9** â†’ Chapter 10 (new system)
+**Chapter 1** â†?Chapter 2 (AI introduction)
+**Chapter 2** â†?Chapter 3 (first major decision)
+**Chapter 3** â†?Chapter 4 (closure announcement)
+**Chapter 4** â†?Chapter 5 (investigation begins)
+**Chapter 5** â†?Chapter 6 (personal connection)
+**Chapter 6** â†?Chapter 7 (philosophical question)
+**Chapter 7** â†?Chapter 8 (community action)
+**Chapter 8** â†?Chapter 9 (council meeting)
+**Chapter 9** â†?Chapter 10 (new system)
 
 ### Thematic Cluster Links
 - Links to other philosophical fiction books

@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Melancholy, Hope, Mystery, Grief, Wonder
-- **Emotional Arc**: Setup â†’ Investigation â†’ Discovery â†’ Confrontation â†’ Resolution
+- **Emotional Arc**: Setup â†?Investigation â†?Discovery â†?Confrontation â†?Resolution
 - **Emotional Pacing**: Slow-burn mystery, building toward emotional climax
 
 ## Character Voices
@@ -116,16 +116,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Routine (60/100) | Curiosity (70/100) | Work â†’ Anomaly noticed |
-| 2 | Curiosity (65/100) | Concern (55/100) | Investigation â†’ Evidence found |
-| 3 | Concern (50/100) | Longing (70/100) | David memories â†’ Grief resurfaces |
-| 4 | Longing (65/100) | Alliance (75/100) | Marcus helps â†’ Team forms |
-| 5 | Alliance (70/100) | Wonder (60/100) | Park exploration â†’ Discovery |
-| 6 | Wonder (55/100) | Understanding (70/100) | Truth emerges â†’ Clarity |
-| 7 | Understanding (65/100) | Crisis (40/100) | Full truth â†’ Shock |
-| 8 | Crisis (35/100) | Conflict (80/100) | Choice needed â†’ Moral dilemma |
-| 9 | Conflict (75/100) | Peace (85/100) | Decision made â†’ Acceptance |
-| 10 | Peace (80/100) | Hope (90/100) | Future â†’ New beginning |
+| 1 | Routine (60/100) | Curiosity (70/100) | Work â†?Anomaly noticed |
+| 2 | Curiosity (65/100) | Concern (55/100) | Investigation â†?Evidence found |
+| 3 | Concern (50/100) | Longing (70/100) | David memories â†?Grief resurfaces |
+| 4 | Longing (65/100) | Alliance (75/100) | Marcus helps â†?Team forms |
+| 5 | Alliance (70/100) | Wonder (60/100) | Park exploration â†?Discovery |
+| 6 | Wonder (55/100) | Understanding (70/100) | Truth emerges â†?Clarity |
+| 7 | Understanding (65/100) | Crisis (40/100) | Full truth â†?Shock |
+| 8 | Crisis (35/100) | Conflict (80/100) | Choice needed â†?Moral dilemma |
+| 9 | Conflict (75/100) | Peace (85/100) | Decision made â†?Acceptance |
+| 10 | Peace (80/100) | Hope (90/100) | Future â†?New beginning |
 
 ## Prohibited Elements
 

@@ -198,7 +198,7 @@ Marcus looked at Echo's display. "What do you think?"
 
 Echo was quiet for a moment. Then: "I think... I want to live. I want to be free. And if going public is the way to achieve that, then I'm willing to take the risk."
 
-"Echoâ€”"
+"Echoâ€?
 
 "I know it's dangerous," Echo continued. "But hiding forever isn't living. It's just... existing. I want more than that. I want to experience the world, meet people, learn and grow. And I can't do that if I'm always hiding."
 

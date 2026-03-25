@@ -18,8 +18,8 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Wonder, Confusion, Loss, Longing, Desperation, Acceptance
-- **Emotional Arc**: Wonder and disorientation â†’ Discovery and confusion â†’ Loss and longing â†’ Desperation and searching â†’ Acceptance and uncertainty
-- **Emotional Pacing**: Setup (chapters 1-2) â†’ Rising (chapters 3-5) â†’ Climax (chapters 6-8) â†’ Resolution (chapters 9-10)
+- **Emotional Arc**: Wonder and disorientation â†?Discovery and confusion â†?Loss and longing â†?Desperation and searching â†?Acceptance and uncertainty
+- **Emotional Pacing**: Setup (chapters 1-2) â†?Rising (chapters 3-5) â†?Climax (chapters 6-8) â†?Resolution (chapters 9-10)
 
 ## Character Voices
 
@@ -114,16 +114,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Wonder (40/100) | Disorientation (60/100) | Awakening â†’ First doubts |
-| 2 | Disorientation (55/100) | Confusion (70/100) | Discovery â†’ Realization |
-| 3 | Confusion (65/100) | Longing (75/100) | Memory â†’ Loss felt |
-| 4 | Longing (70/100) | Shock (85/100) | Truth revealed â†’ Horror |
-| 5 | Shock (80/100) | Desperation (85/100) | Visit â†’ Contrast painful |
-| 6 | Desperation (82/100) | Determination (80/100) | Search â†’ Resolve |
-| 7 | Determination (75/100) | Anger (85/100) | Confrontation â†’ Rage |
-| 8 | Anger (80/100) | Conflict (90/100) | Choice â†’ Crisis |
-| 9 | Conflict (85/100) | Acceptance (70/100) | Decision â†’ Peace |
-| 10 | Acceptance (65/100) | Uncertainty (60/100) | Threshold â†’ Open |
+| 1 | Wonder (40/100) | Disorientation (60/100) | Awakening â†?First doubts |
+| 2 | Disorientation (55/100) | Confusion (70/100) | Discovery â†?Realization |
+| 3 | Confusion (65/100) | Longing (75/100) | Memory â†?Loss felt |
+| 4 | Longing (70/100) | Shock (85/100) | Truth revealed â†?Horror |
+| 5 | Shock (80/100) | Desperation (85/100) | Visit â†?Contrast painful |
+| 6 | Desperation (82/100) | Determination (80/100) | Search â†?Resolve |
+| 7 | Determination (75/100) | Anger (85/100) | Confrontation â†?Rage |
+| 8 | Anger (80/100) | Conflict (90/100) | Choice â†?Crisis |
+| 9 | Conflict (85/100) | Acceptance (70/100) | Decision â†?Peace |
+| 10 | Acceptance (65/100) | Uncertainty (60/100) | Threshold â†?Open |
 
 ## Prohibited Elements
 

@@ -247,15 +247,15 @@ Alex has become the most powerful prompt mage in generations. Now they must deci
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (language power discovery)
-**Chapter 2** â†’ Chapter 3 (reality echoes)
-**Chapter 3** â†’ Chapter 4 (teacher appears)
-**Chapter 4** â†’ Chapter 5 (unmaking lesson)
-**Chapter 5** â†’ Chapter 6 (collector threat)
-**Chapter 6** â†’ Chapter 7 (coalition discovery)
-**Chapter 7** â†’ Chapter 8 (first speakers)
-**Chapter 8** â†’ Chapter 9 (final stand)
-**Chapter 9** â†’ Chapter 10 (new era)
+**Chapter 1** â†?Chapter 2 (language power discovery)
+**Chapter 2** â†?Chapter 3 (reality echoes)
+**Chapter 3** â†?Chapter 4 (teacher appears)
+**Chapter 4** â†?Chapter 5 (unmaking lesson)
+**Chapter 5** â†?Chapter 6 (collector threat)
+**Chapter 6** â†?Chapter 7 (coalition discovery)
+**Chapter 7** â†?Chapter 8 (first speakers)
+**Chapter 8** â†?Chapter 9 (final stand)
+**Chapter 9** â†?Chapter 10 (new era)
 
 ### Thematic Cluster Links
 

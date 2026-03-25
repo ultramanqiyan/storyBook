@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Establish the appearance of a "perfect" life, introduce the symbiosis system, plant the seed of anomaly
-- **Emotional Arc**: Calm â†’ Satisfied â†’ Subtle unease
+- **Emotional Arc**: Calm â†?Satisfied â†?Subtle unease
 - **Relationship to Overall Story**: Establish worldview and protagonist's daily life, paving the way for later subversion
 
 ## Core Events

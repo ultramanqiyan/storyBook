@@ -53,8 +53,7 @@
 
 ## 5. Opening
 
-The scene ARIA-7 performed was one Rosa knew intimately—the final monologue from *The Glass Menagerie*, Laura's mother speaking about her daughter's fragility. Rosa had performed it herself, decades ago, and had taught it to countless students. She watched as ARIA-7 began, the AI's voice starting uncertain and building to something that made Rosa's chest tighten. The timing was perfect. The emotional beats landed exactly where they should. And yet—
-
+The scene ARIA-7 performed was one Rosa knew intimately—the final monologue from *The Glass Menagerie*, Laura's mother speaking about her daughter's fragility. Rosa had performed it herself, decades ago, and had taught it to countless students. She watched as ARIA-7 began, the AI's voice starting uncertain and building to something that made Rosa's chest tighten. The timing was perfect. The emotional beats landed exactly where they should. And yet�?
 ---
 
 ## 6. Ending

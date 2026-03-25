@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Determined to make agency regular
-    ↓
-Middle: Building the agency muscle
-    ↓
-Closing: Growing confidence in ability
+    �?Middle: Building the agency muscle
+    �?Closing: Growing confidence in ability
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Growing confidence in ability
 | Kinesthetic | Easier entry into action | 3 | Skill building |
 | Tactile | Confidence in posture | 4 | Transformation |
 
-**Minimum 5 details covering 3 types**: ✓
-
+**Minimum 5 details covering 3 types**: �?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -163,7 +160,7 @@ Closing: Growing confidence in ability
 - **Deepest Level**: Identity transformation through practice
 
 ### 9.2 Philosophical Connection
-- **Mao Thought**: 主观能动性 - Agency requires sustained practice
+- **Mao Thought**: 主观能动�?- Agency requires sustained practice
 - **Application**: Skill development through repetition
 
 ---

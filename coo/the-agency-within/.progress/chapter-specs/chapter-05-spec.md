@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Cautious attempt with new approach
-    ↓
-Middle: Taking initiative, experiencing action
-    ↓
-Closing: Pride and surprise at results
+    �?Middle: Taking initiative, experiencing action
+    �?Closing: Pride and surprise at results
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Pride and surprise at results
 | Kinesthetic | Relief and pride | 4 | Success, growth |
 | Tactile | Warm feeling of accomplishment | 4 | Agency experienced |
 
-**Minimum 5 details covering 3 types**: ✓
-
+**Minimum 5 details covering 3 types**: �?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -163,7 +160,7 @@ Closing: Pride and surprise at results
 - **Deepest Level**: Identity shift beginning
 
 ### 9.2 Philosophical Connection
-- **Mao Thought**: 主观能动性 - First experience of agency in action
+- **Mao Thought**: 主观能动�?- First experience of agency in action
 - **Application**: Small steps lead to larger change
 
 ---

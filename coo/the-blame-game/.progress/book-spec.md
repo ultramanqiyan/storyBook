@@ -16,7 +16,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Tense, oppressive, satirical, tragic
-- **Emotional Arc**: Panic â†’ Defense â†’ Anxiety â†’ Isolation â†’ Despair â†’ Helplessness
+- **Emotional Arc**: Panic â†?Defense â†?Anxiety â†?Isolation â†?Despair â†?Helplessness
 - **Emotional Pacing**: Rapid tension in chapters 1-2, gradually escalating anxiety in chapters 3-7, tragic descent in chapters 8-10
 
 ## Character Voice
@@ -118,16 +118,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Normalcy (80/100) | Shock (30/100) | Routine day â†’ Crisis hits |
-| 2 | Panic (25/100) | Defensive (40/100) | Emergency meeting â†’ Defenses up |
-| 3 | Suspicion (45/100) | Paranoia (35/100) | Paper trail â†’ Realization |
-| 4 | Regret (40/100) | Dread (30/100) | Warning signs â†’ Too late |
-| 5 | Anger (50/100) | Resignation (40/100) | Contract terms â†’ Trapped |
-| 6 | Anxiety (35/100) | Isolation (25/100) | Investigation â†’ Alone |
-| 7 | Desperation (20/100) | Betrayal (15/100) | Setup complete â†’ Betrayed |
-| 8 | Fear (30/100) | Defeat (20/100) | HR meeting â†’ Judgment |
-| 9 | Despair (15/100) | Acceptance (30/100) | Decision made â†’ Fate sealed |
-| 10 | Loss (25/100) | Bitter Wisdom (50/100) | Aftermath â†’ Understanding |
+| 1 | Normalcy (80/100) | Shock (30/100) | Routine day â†?Crisis hits |
+| 2 | Panic (25/100) | Defensive (40/100) | Emergency meeting â†?Defenses up |
+| 3 | Suspicion (45/100) | Paranoia (35/100) | Paper trail â†?Realization |
+| 4 | Regret (40/100) | Dread (30/100) | Warning signs â†?Too late |
+| 5 | Anger (50/100) | Resignation (40/100) | Contract terms â†?Trapped |
+| 6 | Anxiety (35/100) | Isolation (25/100) | Investigation â†?Alone |
+| 7 | Desperation (20/100) | Betrayal (15/100) | Setup complete â†?Betrayed |
+| 8 | Fear (30/100) | Defeat (20/100) | HR meeting â†?Judgment |
+| 9 | Despair (15/100) | Acceptance (30/100) | Decision made â†?Fate sealed |
+| 10 | Loss (25/100) | Bitter Wisdom (50/100) | Aftermath â†?Understanding |
 
 ## Prohibited Elements
 

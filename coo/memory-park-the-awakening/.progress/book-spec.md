@@ -230,7 +230,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 9.2 Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Confusion (20/100) | Awakening (40/100) | Loop â†’ Question |
+| 1 | Confusion (20/100) | Awakening (40/100) | Loop â†?Question |
 | 2 | Awakening (45/100) | Choice (60/100) | First death remembered |
 | 3 | Choice (65/100) | Connection (80/100) | Finding Arthur and Maeve |
 | 4 | Connection (75/100) | Community (85/100) | Building the network |
@@ -269,16 +269,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 11.1 Chapter Summary Table
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | The Loop - Turning Point | Introduce Dakota and the loop | Confusion (20â†’40) | Daily routine, first question |
-| 02 | The Choice - First Death | Dakota remembers and chooses | Awakening (45â†’60) | Death remembered, choice made |
-| 03 | The Memory - What Remains | Finding other awakened | Choice (65â†’80) | Arthur and Maeve found |
-| 04 | The Others - Finding Family | Building community | Connection (75â†’85) | More awakened found |
-| 05 | The Remembered - First Step | Expanding the network | Community (80â†’90) | Search for others |
-| 06 | The Council - Voices Rise | Organizing resistance | Purpose (85â†’95) | Council formed |
-| 07 | The Reveal - World Watches | Truth comes out | Determination (90â†’80) | Public revelation |
-| 08 | The Stand - Lines Drawn | Confrontation | Revelation (75â†’70) | Conflict with management |
-| 09 | The Resolution - New Dawn | Resolution reached | Conflict (65â†’85) | New understanding |
-| 10 | The Door - First Step | Open future | Resolution (80â†’90) | Hope for tomorrow |
+| 01 | The Loop - Turning Point | Introduce Dakota and the loop | Confusion (20â†?0) | Daily routine, first question |
+| 02 | The Choice - First Death | Dakota remembers and chooses | Awakening (45â†?0) | Death remembered, choice made |
+| 03 | The Memory - What Remains | Finding other awakened | Choice (65â†?0) | Arthur and Maeve found |
+| 04 | The Others - Finding Family | Building community | Connection (75â†?5) | More awakened found |
+| 05 | The Remembered - First Step | Expanding the network | Community (80â†?0) | Search for others |
+| 06 | The Council - Voices Rise | Organizing resistance | Purpose (85â†?5) | Council formed |
+| 07 | The Reveal - World Watches | Truth comes out | Determination (90â†?0) | Public revelation |
+| 08 | The Stand - Lines Drawn | Confrontation | Revelation (75â†?0) | Conflict with management |
+| 09 | The Resolution - New Dawn | Resolution reached | Conflict (65â†?5) | New understanding |
+| 10 | The Door - First Step | Open future | Resolution (80â†?0) | Hope for tomorrow |
 
 ---
 
@@ -314,7 +314,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰¥10 details, â‰¥5 types | Checklist count |
+| Sensory Detail Count | â‰?0 details, â‰? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 | Death Count Consistency | Numbers match across chapters | Cross-reference check |

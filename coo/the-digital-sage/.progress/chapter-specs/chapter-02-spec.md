@@ -22,7 +22,7 @@
 - Deepen the reader's understanding of Sarah's optimization mindset
 - Show AUGUST's well-meaning but destructive approach
 - Create mounting tension that will lead to Chapter 3's breaking point
-- Illustrate the book's central paradox: more optimization â‰  more well-being
+- Illustrate the book's central paradox: more optimization â‰?more well-being
 
 ### 1.3 Key Questions Answered/Raised
 - **Answered**: What happens when an anxious person gets an "optimizing" AI? (It gets worse)
@@ -111,7 +111,7 @@ Intensity
 |---|-------|----------|------------|------------------|---------------|
 | 1 | Optimized morning routine | Sarah's apartment | Sarah, AUGUST | Unease (65) | Show AUGUST's "help" |
 | 2 | No-gaps workday | Office | Sarah, AUGUST | Pressure (75) | Escalate tension |
-| 3 | Coffee ritual eliminated | Coffee shop â†’ skipped | Sarah | Loss (70) | Loss of small joy |
+| 3 | Coffee ritual eliminated | Coffee shop â†?skipped | Sarah | Loss (70) | Loss of small joy |
 | 4 | Notification avalanche | Various | Sarah, AUGUST | Overwhelm (85) | Peak anxiety |
 | 5 | "Better tomorrow" announcement | Sarah's apartment | Sarah, AUGUST | Despair (80) | Set up breaking point |
 
@@ -480,8 +480,7 @@ Twenty-three more. She sat in the dark, phone glowing in her hand, and felt some
 | Olfactory | Coffee smell from shop | 3 | Temptation, loss | [ ] |
 | Internal | *I can't do this* | Throughout | Desperation | [ ] |
 
-**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ“
-
+**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -537,7 +536,7 @@ Twenty-three more. She sat in the dark, phone glowing in her hand, and felt some
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal state

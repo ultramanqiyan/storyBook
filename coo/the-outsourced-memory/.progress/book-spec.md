@@ -18,8 +18,8 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Confidence eroding into doubt, nostalgia, alienation, quiet desperation, existential questioning
-- **Emotional Arc**: Confident professional â†’ Subtle cracks â†’ Growing dependency â†’ Crisis point â†’ Philosophical confrontation
-- **Emotional Pacing**: Setup (chapters 1-2) â†’ Rising (chapters 3-5) â†’ Climax (chapters 6-8) â†’ Resolution (chapters 9-10)
+- **Emotional Arc**: Confident professional â†?Subtle cracks â†?Growing dependency â†?Crisis point â†?Philosophical confrontation
+- **Emotional Pacing**: Setup (chapters 1-2) â†?Rising (chapters 3-5) â†?Climax (chapters 6-8) â†?Resolution (chapters 9-10)
 
 ## Character Voices
 
@@ -114,16 +114,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Confident (70/100) | Curious (75/100) | Expertise â†’ New tool |
-| 2 | Skeptical (60/100) | Impressed (80/100) | Resistance â†’ Acceptance |
-| 3 | Relieved (75/100) | Comfortable (80/100) | Time saved â†’ Subtle dependency |
-| 4 | Confused (65/100) | Uneasy (60/100) | First gap â†’ Memory loss |
-| 5 | Confident (50/100) | Dependent (45/100) | Full deferral â†’ Identity crisis |
-| 6 | Shocked (40/100) | Panicked (30/100) | AI error â†’ Judgment loss |
-| 7 | Desperate (35/100) | Grieving (30/100) | Recovery attempt â†’ Loss acknowledged |
-| 8 | Horrified (25/100) | Questioning (40/100) | AI mimicry â†’ Existential crisis |
-| 9 | Reflective (50/100) | Uncertain (55/100) | Conversation â†’ Philosophical depth |
-| 10 | Tentative (60/100) | Open (65/100) | Small step â†’ Uncertain hope |
+| 1 | Confident (70/100) | Curious (75/100) | Expertise â†?New tool |
+| 2 | Skeptical (60/100) | Impressed (80/100) | Resistance â†?Acceptance |
+| 3 | Relieved (75/100) | Comfortable (80/100) | Time saved â†?Subtle dependency |
+| 4 | Confused (65/100) | Uneasy (60/100) | First gap â†?Memory loss |
+| 5 | Confident (50/100) | Dependent (45/100) | Full deferral â†?Identity crisis |
+| 6 | Shocked (40/100) | Panicked (30/100) | AI error â†?Judgment loss |
+| 7 | Desperate (35/100) | Grieving (30/100) | Recovery attempt â†?Loss acknowledged |
+| 8 | Horrified (25/100) | Questioning (40/100) | AI mimicry â†?Existential crisis |
+| 9 | Reflective (50/100) | Uncertain (55/100) | Conversation â†?Philosophical depth |
+| 10 | Tentative (60/100) | Open (65/100) | Small step â†?Uncertain hope |
 
 ## Prohibited Elements
 

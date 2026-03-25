@@ -225,8 +225,8 @@ The stethoscope felt strange in her hands. Sarah stood in Dr. Webb's office at 6
 
 **Emotional Beat**
 - **Position on Curve**: 15-50%
-- **Primary Emotion**: Frustration â†’ Shame
-- **Intensity**: 65 â†’ 55
+- **Primary Emotion**: Frustration â†?Shame
+- **Intensity**: 65 â†?55
 - **Three Layers**:
   - Surface: Struggling, reaching for absent tablet
   - Internal: "*Why can't I do this? I used to know this.*"
@@ -295,7 +295,7 @@ She couldn't remember. She couldn't remember how to do a basic cardiac exam with
 
 **Emotional Beat**
 - **Position on Curve**: 75-100%
-- **Primary Emotion**: Success â†’ Hope
+- **Primary Emotion**: Success â†?Hope
 - **Intensity**: 70
 - **Three Layers**:
   - Surface: Eyes widening, breath catching
@@ -322,13 +322,13 @@ She heard it. Not the numbers, not the AI's voice, but something deeperâ€”a rhyt
 **Internal Journey**
 - **Internal Conflict**: Frustration vs. determination
 - **Realization/Moment of Clarity**: The intuition is still there, buried
-- **Emotional Change**: Determination â†’ Frustration â†’ Shame â†’ Persistence â†’ Hope
+- **Emotional Change**: Determination â†?Frustration â†?Shame â†?Persistence â†?Hope
 - **Psychological Shift**: From "I can't do this" to "I can recover"
 
 **Character Growth**
 - **Starting State**: Determined but uncertain
 - **Ending State**: Hopeful, with proof of possibility
-- **Growth Metric**: Hope increasing (70 â†’ 75 on hope scale)
+- **Growth Metric**: Hope increasing (70 â†?75 on hope scale)
 
 **Key Decision**
 - **Decision**: To keep trying despite failure
@@ -607,7 +607,7 @@ The stethoscope felt strange in her hands. Sarah stood in Dr. Webb's office at 6
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

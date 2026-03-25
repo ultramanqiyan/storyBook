@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Introduce protagonist, core conflict, and world-building
-- **Emotional Arc**: Frustration â†’ Discovery â†’ Wonder
+- **Emotional Arc**: Frustration â†?Discovery â†?Wonder
 - **Relation to Overall Story**: Establish first contact between archivist and digital grimoire
 
 ## Core Events

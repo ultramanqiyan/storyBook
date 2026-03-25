@@ -518,8 +518,7 @@ And then, it was over. Ford's power broken, his threat ended. Marcus had won.
 | Internal | Determination | 1, 3 | Throughout | Character arc | [ ] |
 | Internal | Relief, resolve | 5 | Throughout | Resolution | [ ] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -606,7 +605,7 @@ The future was uncertain. But for the first time, Marcus felt ready to face it.
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

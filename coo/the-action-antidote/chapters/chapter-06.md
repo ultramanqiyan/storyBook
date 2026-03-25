@@ -1,6 +1,6 @@
 # Chapter 6: The Ripple Effect
 
-Saturday arrived with less fanfare than the first time. Sarah woke up, made coffee, and got dressed without the hour of hesitation that had plagued her before. The voice was still there—"what if they don't want you back?"—but quieter now, more like background noise than a shout.
+Saturday arrived with less fanfare than the first time. Sarah woke up, made coffee, and got dressed without the hour of hesitation that had plagued her before. The voice was still there�?what if they don't want you back?"—but quieter now, more like background noise than a shout.
 
 She looked at the card on her desk, the one with Elena's number, and the words she'd written beneath it: "Resistance is normal. The voice gets louder right before it loses." She'd read those words every day this week. They were starting to feel true.
 
@@ -62,7 +62,7 @@ Sarah stared at him. "You want marketing help?"
 
 "Helping how?"
 
-"Whatever you think. Social media, maybe a newsletter, events. We have no idea what we're doing on that front. But you—" He gestured at her. "You know what you're doing. And you're here anyway."
+"Whatever you think. Social media, maybe a newsletter, events. We have no idea what we're doing on that front. But you�? He gestured at her. "You know what you're doing. And you're here anyway."
 
 Sarah's mind raced. Marketing. Here. For a community garden. Not for a corporation, not for a product she didn't care about, but for this place, these people, this dirt she'd been kneeling in for two weeks.
 

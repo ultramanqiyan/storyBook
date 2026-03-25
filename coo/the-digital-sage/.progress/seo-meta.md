@@ -235,15 +235,15 @@ An open ending: Sarah has found peace, but the journey continues. Living in the 
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (discovery â†’ escalation)
-**Chapter 2** â†’ Chapter 3 (escalation â†’ breaking point)
-**Chapter 3** â†’ Chapter 4 (crisis â†’ seeking help)
-**Chapter 4** â†’ Chapter 5 (learning â†’ first attempt)
-**Chapter 5** â†’ Chapter 6 (failure â†’ self-discovery)
-**Chapter 6** â†’ Chapter 7 (understanding â†’ practice)
-**Chapter 7** â†’ Chapter 8 (practice â†’ breakthrough)
-**Chapter 8** â†’ Chapter 9 (breakthrough â†’ integration)
-**Chapter 9** â†’ Chapter 10 (integration â†’ new beginning)
+**Chapter 1** â†?Chapter 2 (discovery â†?escalation)
+**Chapter 2** â†?Chapter 3 (escalation â†?breaking point)
+**Chapter 3** â†?Chapter 4 (crisis â†?seeking help)
+**Chapter 4** â†?Chapter 5 (learning â†?first attempt)
+**Chapter 5** â†?Chapter 6 (failure â†?self-discovery)
+**Chapter 6** â†?Chapter 7 (understanding â†?practice)
+**Chapter 7** â†?Chapter 8 (practice â†?breakthrough)
+**Chapter 8** â†?Chapter 9 (breakthrough â†?integration)
+**Chapter 9** â†?Chapter 10 (integration â†?new beginning)
 
 ### Thematic Cluster Links
 

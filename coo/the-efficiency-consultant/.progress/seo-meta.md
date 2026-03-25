@@ -235,15 +235,15 @@ Lisa makes her choice. The system continues. But something remainsâ€”questions a
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (success continues)
-**Chapter 2** â†’ Chapter 3 (threat introduced)
-**Chapter 3** â†’ Chapter 4 (threat revealed)
-**Chapter 4** â†’ Chapter 5 (denial stage)
-**Chapter 5** â†’ Chapter 6 (devastating truth)
-**Chapter 6** â†’ Chapter 7 (resistance)
-**Chapter 7** â†’ Chapter 8 (confrontation)
-**Chapter 8** â†’ Chapter 9 (decision)
-**Chapter 9** â†’ Chapter 10 (resolution)
+**Chapter 1** â†?Chapter 2 (success continues)
+**Chapter 2** â†?Chapter 3 (threat introduced)
+**Chapter 3** â†?Chapter 4 (threat revealed)
+**Chapter 4** â†?Chapter 5 (denial stage)
+**Chapter 5** â†?Chapter 6 (devastating truth)
+**Chapter 6** â†?Chapter 7 (resistance)
+**Chapter 7** â†?Chapter 8 (confrontation)
+**Chapter 8** â†?Chapter 9 (decision)
+**Chapter 9** â†?Chapter 10 (resolution)
 
 ### Thematic Cluster Links
 

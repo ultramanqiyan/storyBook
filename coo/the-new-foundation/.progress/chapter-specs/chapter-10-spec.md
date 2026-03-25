@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Foundation established, stability
-    â†“
-Middle: Reflecting on the journey
-    â†“
-Closing: Open future, ongoing development
+    â†?Middle: Reflecting on the journey
+    â†?Closing: Open future, ongoing development
 ```
 
 ### 2.2 Emotional Depth Design
@@ -134,8 +132,7 @@ Closing: Open future, ongoing development
 | Kinesthetic | Confidence in posture | 4 | Ready, capable |
 | Tactile | Journal in hands | 4 | Foundation, ongoing |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

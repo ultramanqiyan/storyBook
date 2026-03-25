@@ -30,7 +30,7 @@ James discovered it during a routine integration test—a data flow issue that, 
 
 Elena felt the blood drain from her face. "How long to fix it?"
 
-James ran his fingers through his hair. "Three days minimum. It's deep in the permission inheritance logic. We'd have to refactor the whole—"
+James ran his fingers through his hair. "Three days minimum. It's deep in the permission inheritance logic. We'd have to refactor the whole�?
 
 "We launch in two days," Priya said quietly from across the room.
 

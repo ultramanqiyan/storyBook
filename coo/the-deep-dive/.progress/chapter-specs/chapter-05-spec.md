@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Cautious attempt with new approach
-    â†“
-Middle: Breaking through, experiencing flow
-    â†“
-Closing: Pride and surprise at results
+    â†?Middle: Breaking through, experiencing flow
+    â†?Closing: Pride and surprise at results
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Pride and surprise at results
 | Kinesthetic | Time disappearing | 3 | Flow state |
 | Olfactory | Coffee gone cold | 4 | Forgotten in focus |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

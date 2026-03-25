@@ -6,7 +6,7 @@ But lately, the music had changed.
 
 He noticed it first on a Tuesday in October. The weather was mild, the economy was stable, the parking lot should have been filling with the usual mid-morning shoppers. Instead, he counted forty-three cars in a lot designed for three thousand.
 
-He walked the main corridor, his footsteps echoing off the polished tile floors. The Muzak played its familiar tunes—"Careless Whisper" drifting from hidden speakers, the same songs he'd heard a thousand times before. But the sound was different now. Without the ambient noise of conversation, of shopping bags rustling, of children laughing, the music seemed louder, more present, almost mocking.
+He walked the main corridor, his footsteps echoing off the polished tile floors. The Muzak played its familiar tunes�?Careless Whisper" drifting from hidden speakers, the same songs he'd heard a thousand times before. But the sound was different now. Without the ambient noise of conversation, of shopping bags rustling, of children laughing, the music seemed louder, more present, almost mocking.
 
 He stopped in front of the directory board, its illuminated display showing the same stores that had been there for years. The anchor tenants—department stores at each end, a bookstore, an electronics retailer, a home goods store. The smaller shops in between—clothing boutiques, a jewelry store, a cell phone kiosk. All still open. All still staffed. All still stocked with products.
 
@@ -62,7 +62,7 @@ James scrolled through the data. Patricia was right—return rates had spiked dr
 
 "Have you talked to any of them?" he asked. "The customers who return things?"
 
-"A few. They say the same thing—'It didn't feel right.' 'I didn't really need it.' 'I changed my mind.'" Patricia shook her head. "Twenty years in retail, I've never seen anything like it. We have everything they could want, at prices they can afford, and they just... don't want it."
+"A few. They say the same thing�?It didn't feel right.' 'I didn't really need it.' 'I changed my mind.'" Patricia shook her head. "Twenty years in retail, I've never seen anything like it. We have everything they could want, at prices they can afford, and they just... don't want it."
 
 James handed back the tablet. "Keep me posted."
 

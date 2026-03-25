@@ -202,7 +202,7 @@ Intensity
   - Deep: Commitment to change
 
 **Opening Hook (First 3 sentences)**
-Saturday arrived with less fanfare than the first time. Sarah woke up, made coffee, and got dressed without the hour of hesitation. The voice was still thereâ€”"what if they don't want you back?"â€”but quieter now.
+Saturday arrived with less fanfare than the first time. Sarah woke up, made coffee, and got dressed without the hour of hesitation. The voice was still thereâ€?what if they don't want you back?"â€”but quieter now.
 
 **Ending Transition (Last 3 sentences)**
 She grabbed her keys and headed out. The garden was waiting. So was she.
@@ -339,7 +339,7 @@ She was sweaty, dirty, and tired. She was also happy. When was the last time she
 **Emotional Beat**
 - **Position on Curve**: 50-75%
 - **Primary Emotion**: Surprise to excitement
-- **Intensity**: 60 â†’ 65
+- **Intensity**: 60 â†?65
 - **Three Layers**:
   - Surface: Listening, asking questions
   - Internal: *Marketing? Here? I could actually help?*
@@ -400,7 +400,7 @@ She got home and opened her laptop. Not to research, not to spiral. To think abo
 **Internal Journey**
 - **Internal Conflict**: Fear vs. desire to contribute
 - **Realization/Moment of Clarity**: Action creates opportunity
-- **Emotional Change**: Determination â†’ Belonging â†’ Excitement â†’ Hope
+- **Emotional Change**: Determination â†?Belonging â†?Excitement â†?Hope
 - **Psychological Shift**: From consumer to contributor
 
 **Character Growth**
@@ -411,7 +411,7 @@ She got home and opened her laptop. Not to research, not to spiral. To think abo
 **Key Decision**
 - **Decision**: To consider the marketing opportunity
 - **Options Considered**: Decline, consider
-- **Decision Process**: Surprise â†’ Fear â†’ Interest â†’ Possibility
+- **Decision Process**: Surprise â†?Fear â†?Interest â†?Possibility
 - **Consequences Accepted**: New challenge, new growth
 
 ---
@@ -496,8 +496,7 @@ She got home and opened her laptop. Not to research, not to spiral. To think abo
 | Internal | Heart rate change | 5 | Peak | Excitement | [x] |
 | Internal | Possibility | 6 | Throughout | Hope | [x] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Distribution
 - **Visual**: 4 details
 - **Auditory**: 2 details
@@ -515,7 +514,7 @@ She got home and opened her laptop. Not to research, not to spiral. To think abo
 
 **Opening Paragraph Draft**:
 ```
-Saturday arrived with less fanfare than the first time. Sarah woke up, made coffee, and got dressed without the hour of hesitation that had plagued her before. The voice was still thereâ€”"what if they don't want you back?"â€”but quieter now, more like background noise than a shout. She looked at the card on her desk, the one with Elena's number, and the words she'd written beneath it: "Resistance is normal. The voice gets louder right before it loses." She'd read those words every day this week. They were starting to feel true. The morning light through her window was bright, almost aggressive in its optimism. She grabbed her keys and headed out. The garden was waiting. So was she.
+Saturday arrived with less fanfare than the first time. Sarah woke up, made coffee, and got dressed without the hour of hesitation that had plagued her before. The voice was still thereâ€?what if they don't want you back?"â€”but quieter now, more like background noise than a shout. She looked at the card on her desk, the one with Elena's number, and the words she'd written beneath it: "Resistance is normal. The voice gets louder right before it loses." She'd read those words every day this week. They were starting to feel true. The morning light through her window was bright, almost aggressive in its optimism. She grabbed her keys and headed out. The garden was waiting. So was she.
 ```
 
 ### 8.2 Ending (Last 200 Words)
@@ -587,7 +586,7 @@ She got home and opened her laptop. Not to check Slack, not to spiral through re
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

@@ -238,7 +238,7 @@ She looked at her thesisâ€”three years of work, two hundred pages of "original" 
 **Internal Journey**
 - **Internal Conflict**: Denial vs. growing evidence
 - **Realization/Moment of Clarity**: The pattern is everywhere
-- **Emotional Change**: Shock â†’ Denial â†’ Shame â†’ Fear â†’ Despair
+- **Emotional Change**: Shock â†?Denial â†?Shame â†?Fear â†?Despair
 - **Psychological Shift**: From denial to acceptance of the truth
 
 ### 5.2 Supporting Character: James Chen

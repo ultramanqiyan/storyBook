@@ -248,15 +248,15 @@ Zara Okonkwo has become the first true Quantum Witchâ€”a bridge between science 
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (probability discovery)
-**Chapter 2** â†’ Chapter 3 (grandmother's secret)
-**Chapter 3** â†’ Chapter 4 (fate weavers)
-**Chapter 4** â†’ Chapter 5 (probability storm)
-**Chapter 5** â†’ Chapter 6 (the choice)
-**Chapter 6** â†’ Chapter 7 (training)
-**Chapter 7** â†’ Chapter 8 (crisis)
-**Chapter 8** â†’ Chapter 9 (confrontation)
-**Chapter 9** â†’ Chapter 10 (quantum witch)
+**Chapter 1** â†?Chapter 2 (probability discovery)
+**Chapter 2** â†?Chapter 3 (grandmother's secret)
+**Chapter 3** â†?Chapter 4 (fate weavers)
+**Chapter 4** â†?Chapter 5 (probability storm)
+**Chapter 5** â†?Chapter 6 (the choice)
+**Chapter 6** â†?Chapter 7 (training)
+**Chapter 7** â†?Chapter 8 (crisis)
+**Chapter 8** â†?Chapter 9 (confrontation)
+**Chapter 9** â†?Chapter 10 (quantum witch)
 
 ### Thematic Cluster Links
 

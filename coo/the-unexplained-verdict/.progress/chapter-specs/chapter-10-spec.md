@@ -261,7 +261,7 @@ The signature sat on the page, her name attached to a decision she'd made hersel
 **Internal Journey**
 - **Internal Conflict**: Her judgment vs. the AI's, uncertainty vs. resolve
 - **Realization/Moment of Clarity**: The decision is hers, even if uncertain
-- **Emotional Change**: Determination â†’ effort â†’ uncertainty â†’ possibility
+- **Emotional Change**: Determination â†?effort â†?uncertainty â†?possibility
 - **Psychological Shift**: From dependent to independent (one decision)
 
 **Character Growth**
@@ -388,7 +388,7 @@ The signature sat on the page, her name attached to a decision she'd made hersel
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Character has clear internal conflict
 - [ ] Ending matches specified type

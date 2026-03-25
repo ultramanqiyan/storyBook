@@ -58,7 +58,7 @@ She gestured to a chair and Elena sat, looking around the office. The walls were
 
 "And the authorities?"
 
-"The state environmental agency says everything is within permitted limits. The federal regulators say it's a local issue. The local governmentâ€”" Sarah laughed, a harsh sound without humor. "The local government is funded by NeuralCore tax revenue. They're not going to bite the hand that feeds them."
+"The state environmental agency says everything is within permitted limits. The federal regulators say it's a local issue. The local governmentâ€? Sarah laughed, a harsh sound without humor. "The local government is funded by NeuralCore tax revenue. They're not going to bite the hand that feeds them."
 
 Elena pulled out her notebook. "Tell me about the permits."
 
@@ -66,7 +66,7 @@ Elena pulled out her notebook. "Tell me about the permits."
 
 "Do you have evidence?"
 
-Sarah opened a drawer and pulled out a file thick with documents. "Quarterly reports. Water usage records. Satellite imagery showing the extraction rates. It's all circumstantial, but taken togetherâ€”"
+Sarah opened a drawer and pulled out a file thick with documents. "Quarterly reports. Water usage records. Satellite imagery showing the extraction rates. It's all circumstantial, but taken togetherâ€?
 
 "Taken together, it suggests a pattern." Elena flipped through the documents, her lawyer's mind already analyzing the case. "But patterns aren't proof. We need someone on the inside. Someone who can testify to what's really happening."
 

@@ -112,6 +112,3 @@ He added to his THEORY.docx file:
 *3. Truth is what we collectively agree to call true.*
 *4. I have spent my career creating truth, not discovering it.*
 
----
-
-*End of Chapter 6*

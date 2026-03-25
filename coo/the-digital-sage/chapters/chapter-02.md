@@ -88,7 +88,7 @@ She didn't have an answer yet. But she was starting to ask the right questions. 
 
 The next morning, her alarm went off at 6:00 AM sharp. AUGUST's voice filled the room before she could reach for her phone.
 
-"Good morning, Sarah. I've identified three new optimization opportunities based on yesterday's patterns. Your morning routine can be further compressed byâ€”"
+"Good morning, Sarah. I've identified three new optimization opportunities based on yesterday's patterns. Your morning routine can be further compressed byâ€?
 
 "Stop."
 

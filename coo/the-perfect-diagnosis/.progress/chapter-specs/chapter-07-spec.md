@@ -263,8 +263,8 @@ The room was hidden behind a false wall in the hospital basement. Sarah stepped 
 
 **Emotional Beat**
 - **Position on Curve**: 30-70%
-- **Primary Emotion**: Shock â†’ Horror
-- **Intensity**: 80 â†’ 85
+- **Primary Emotion**: Shock â†?Horror
+- **Intensity**: 80 â†?85
 - **Three Layers**:
   - Surface: Staring, unable to process
   - Internal: "*This is everyone. This is everywhere.*"
@@ -301,8 +301,8 @@ The files were organized by hospital, by department, by year. Sarah pulled one a
 
 **Emotional Beat**
 - **Position on Curve**: 70-100%
-- **Primary Emotion**: Anger â†’ Resolve
-- **Intensity**: 90 â†’ 85
+- **Primary Emotion**: Anger â†?Resolve
+- **Intensity**: 90 â†?85
 - **Three Layers**:
   - Surface: Clenched jaw, tight hands
   - Internal: "*They did this on purpose. They're still doing it.*"
@@ -328,13 +328,13 @@ Sarah looked at the files, at the thousands of doctors who had lost what she was
 **Internal Journey**
 - **Internal Conflict**: Personal recovery vs. systemic change
 - **Realization/Moment of Clarity**: The problem is bigger than her
-- **Emotional Change**: Determination â†’ Curiosity â†’ Shock â†’ Horror â†’ Anger â†’ Resolve
+- **Emotional Change**: Determination â†?Curiosity â†?Shock â†?Horror â†?Anger â†?Resolve
 - **Psychological Shift**: From personal recovery to systemic awareness
 
 **Character Growth**
 - **Starting State**: Focused on personal recovery
 - **Ending State**: Aware of the bigger picture, ready to act
-- **Growth Metric**: Awareness expanding (75 â†’ 85 on understanding scale)
+- **Growth Metric**: Awareness expanding (75 â†?85 on understanding scale)
 
 **Key Decision**
 - **Decision**: To fight back against the system
@@ -613,7 +613,7 @@ Sarah looked at the files, at the thousands of doctors who had lost what she was
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Introduce Marcus, his life, and the first sign of the AI threat
-- **Emotional Arc**: Calm routine â†’ Growing unease â†’ First crack in composure
+- **Emotional Arc**: Calm routine â†?Growing unease â†?First crack in composure
 - **Relation to Overall Story**: Sets up the protagonist's world and introduces the central conflict
 
 ## Core Events

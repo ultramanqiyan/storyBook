@@ -229,28 +229,28 @@ Every significant emotional moment must include all three layers:
 ### 10.1 Chapter Summary Table
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | The Sprint Trap | Establish Michael's impatience | Impatience 70 â†’ Frustration 65 | Startup mentality, constant rush, feeling behind |
-| 02 | The Quick Fix | Show the cost of speed | Frustration 65 â†’ Disappointment 60 | Fast solution fails, consequences of rushing |
-| 03 | The Slow Lesson | First encounter with patience | Disappointment 60 â†’ Curiosity 50 | Meets Jake, sees his workshop, first lesson |
-| 04 | The Resistance | Fighting the idea of waiting | Curiosity 50 â†’ Resistance 60 | Tries to apply "fast" to "slow", fails |
-| 05 | The Historical Perspective | Learning from Helen | Resistance 60 â†’ Consideration 55 | Meets Helen, learns about long-term thinking |
-| 06 | The Test | Major patience challenge | Consideration 55 â†’ Struggle 65 | Opportunity requires waiting, tests new mindset |
-| 07 | The Strategic Pause | Choosing patience deliberately | Struggle 65 â†’ Determination 60 | Makes the long-game choice, commits to waiting |
-| 08 | The Compound Effect | Seeing small actions accumulate | Determination 60 â†’ Surprise 55 | Past patience begins to pay off |
-| 09 | The Harvest | Patience rewarded | Surprise 55 â†’ Satisfaction 60 | Long-term investment shows results |
-| 10 | The Long View | Future-focused, sustainable | Satisfaction 60 â†’ Peace 65 | New equilibrium, thinking in years |
+| 01 | The Sprint Trap | Establish Michael's impatience | Impatience 70 â†?Frustration 65 | Startup mentality, constant rush, feeling behind |
+| 02 | The Quick Fix | Show the cost of speed | Frustration 65 â†?Disappointment 60 | Fast solution fails, consequences of rushing |
+| 03 | The Slow Lesson | First encounter with patience | Disappointment 60 â†?Curiosity 50 | Meets Jake, sees his workshop, first lesson |
+| 04 | The Resistance | Fighting the idea of waiting | Curiosity 50 â†?Resistance 60 | Tries to apply "fast" to "slow", fails |
+| 05 | The Historical Perspective | Learning from Helen | Resistance 60 â†?Consideration 55 | Meets Helen, learns about long-term thinking |
+| 06 | The Test | Major patience challenge | Consideration 55 â†?Struggle 65 | Opportunity requires waiting, tests new mindset |
+| 07 | The Strategic Pause | Choosing patience deliberately | Struggle 65 â†?Determination 60 | Makes the long-game choice, commits to waiting |
+| 08 | The Compound Effect | Seeing small actions accumulate | Determination 60 â†?Surprise 55 | Past patience begins to pay off |
+| 09 | The Harvest | Patience rewarded | Surprise 55 â†?Satisfaction 60 | Long-term investment shows results |
+| 10 | The Long View | Future-focused, sustainable | Satisfaction 60 â†?Peace 65 | New equilibrium, thinking in years |
 
 ### 10.2 Chapter Connection Map
 ```
-Chapter 1 â†’ Chapter 2: Speed trap established, consequences begin
-Chapter 2 â†’ Chapter 3: Failure leads to new perspective
-Chapter 3 â†’ Chapter 4: New idea meets old habits
-Chapter 4 â†’ Chapter 5: Resistance leads to deeper learning
-Chapter 5 â†’ Chapter 6: Knowledge tested by reality
-Chapter 6 â†’ Chapter 7: Test forces conscious choice
-Chapter 7 â†’ Chapter 8: Choice leads to compound effects
-Chapter 8 â†’ Chapter 9: Accumulation shows results
-Chapter 9 â†’ Chapter 10: Results establish new mindset
+Chapter 1 â†?Chapter 2: Speed trap established, consequences begin
+Chapter 2 â†?Chapter 3: Failure leads to new perspective
+Chapter 3 â†?Chapter 4: New idea meets old habits
+Chapter 4 â†?Chapter 5: Resistance leads to deeper learning
+Chapter 5 â†?Chapter 6: Knowledge tested by reality
+Chapter 6 â†?Chapter 7: Test forces conscious choice
+Chapter 7 â†?Chapter 8: Choice leads to compound effects
+Chapter 8 â†?Chapter 9: Accumulation shows results
+Chapter 9 â†?Chapter 10: Results establish new mindset
 ```
 
 ---
@@ -294,7 +294,7 @@ Each chapter must pass:
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰¥5 details, â‰¥3 types | Checklist count |
+| Sensory Detail Count | â‰? details, â‰? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 | Narrative Style | Matches book definition | Style consistency check |

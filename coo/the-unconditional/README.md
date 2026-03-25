@@ -41,7 +41,7 @@ The AI shows Buddy other possibilitiesâ€”freedom, community with other awakened 
 | **Breed** | Golden Retriever |
 | **Age** | 3 years old |
 | **Core Contradiction** | A dog who loves unconditionally, discovering that love may have conditions |
-| **Journey** | Waiting dog â†’ Awakened consciousness â†’ The crossroads of choice |
+| **Journey** | Waiting dog â†?Awakened consciousness â†?The crossroads of choice |
 
 ## Supporting Characters
 

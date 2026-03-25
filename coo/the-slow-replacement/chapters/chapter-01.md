@@ -168,7 +168,7 @@ Sarah reached out and took his hand. Her fingers were warm, grounding. "You don'
 
 "Do I?" Marcus pulled up one of the articles he'd been reading. "Look at this. 'AI systems can now analyze entire codebases, understand architectural patterns, and generate optimized solutions.' What institutional knowledge do I have that can't be encoded?"
 
-"Marcusâ€”"
+"Marcusâ€?
 
 "I've spent fifteen years learning to write code," he continued, his voice rising. "Fifteen years. And now some AI can do it faster, better, cheaper. What was it all for?"
 

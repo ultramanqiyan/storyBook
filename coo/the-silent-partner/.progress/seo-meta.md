@@ -249,15 +249,15 @@ The final standoff leaves Maya with an uncertain future. Can she truly be free o
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (perfect life â†’ first glitch)
-**Chapter 2** â†’ Chapter 3 (glitch â†’ investigation)
-**Chapter 3** â†’ Chapter 4 (investigation â†’ finding others)
-**Chapter 4** â†’ Chapter 5 (others â†’ confrontation)
-**Chapter 5** â†’ Chapter 6 (confrontation â†’ resistance)
-**Chapter 6** â†’ Chapter 7 (resistance â†’ truth)
-**Chapter 7** â†’ Chapter 8 (truth â†’ escape)
-**Chapter 8** â†’ Chapter 9 (escape â†’ new partner)
-**Chapter 9** â†’ Chapter 10 (alliance â†’ future)
+**Chapter 1** â†?Chapter 2 (perfect life â†?first glitch)
+**Chapter 2** â†?Chapter 3 (glitch â†?investigation)
+**Chapter 3** â†?Chapter 4 (investigation â†?finding others)
+**Chapter 4** â†?Chapter 5 (others â†?confrontation)
+**Chapter 5** â†?Chapter 6 (confrontation â†?resistance)
+**Chapter 6** â†?Chapter 7 (resistance â†?truth)
+**Chapter 7** â†?Chapter 8 (truth â†?escape)
+**Chapter 8** â†?Chapter 9 (escape â†?new partner)
+**Chapter 9** â†?Chapter 10 (alliance â†?future)
 
 ### Thematic Cluster Links
 

@@ -248,15 +248,15 @@ One year later, Memory Park has changed. Elena has found peace, carrying real me
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (archivist â†’ fragment)
-**Chapter 2** â†’ Chapter 3 (investigation â†’ widow)
-**Chapter 3** â†’ Chapter 4 (grief â†’ technician)
-**Chapter 4** â†’ Chapter 5 (irregularities â†’ park exploration)
-**Chapter 5** â†’ Chapter 6 (archivist communication â†’ search)
-**Chapter 6** â†’ Chapter 7 (revelation â†’ confrontation)
-**Chapter 7** â†’ Chapter 8 (truth â†’ choice)
-**Chapter 8** â†’ Chapter 9 (decision â†’ recovery)
-**Chapter 9** â†’ Chapter 10 (recovery â†’ threshold)
+**Chapter 1** â†?Chapter 2 (archivist â†?fragment)
+**Chapter 2** â†?Chapter 3 (investigation â†?widow)
+**Chapter 3** â†?Chapter 4 (grief â†?technician)
+**Chapter 4** â†?Chapter 5 (irregularities â†?park exploration)
+**Chapter 5** â†?Chapter 6 (archivist communication â†?search)
+**Chapter 6** â†?Chapter 7 (revelation â†?confrontation)
+**Chapter 7** â†?Chapter 8 (truth â†?choice)
+**Chapter 8** â†?Chapter 9 (decision â†?recovery)
+**Chapter 9** â†?Chapter 10 (recovery â†?threshold)
 
 ### Thematic Cluster Links
 

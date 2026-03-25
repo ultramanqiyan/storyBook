@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Introduce conflict, deepen Maya and Codex's relationship
-- **Emotional Arc**: Tension â†’ Understanding â†’ Determination
+- **Emotional Arc**: Tension â†?Understanding â†?Determination
 - **Relation to Overall Story**: Show the value of knowledge vs. profit
 
 ## Core Events

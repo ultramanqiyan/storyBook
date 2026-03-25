@@ -41,7 +41,7 @@ Wizards become dependent on the grimoire's easy answers, losing the discipline a
 | **Age** | 19 |
 | **Role** | Apprentice librarian |
 | **Core Contradiction** | Loves books but can't do magic; discovers the grimoire's secret but can't use it |
-| **Journey** | Powerless apprentice â†’ Keeper of dangerous knowledge â†’ Bridge between magic and technology |
+| **Journey** | Powerless apprentice â†?Keeper of dangerous knowledge â†?Bridge between magic and technology |
 
 ## Supporting Characters
 

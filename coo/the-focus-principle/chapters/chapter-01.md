@@ -10,7 +10,7 @@ The morning standup was at 9:30. Elena arrived early, her notebook already fille
 
 "Updates?" Tom asked, looking around the circle.
 
-Elena went through her list. "Q3 roadmap review, client presentation prep, feature specification for the mobile app, user research synthesis, stakeholder alignment meeting, andâ€”" She stopped, noticing the expressions around her. "What?"
+Elena went through her list. "Q3 roadmap review, client presentation prep, feature specification for the mobile app, user research synthesis, stakeholder alignment meeting, andâ€? She stopped, noticing the expressions around her. "What?"
 
 "That's... a lot," Marcus said quietly.
 

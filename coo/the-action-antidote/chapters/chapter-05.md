@@ -44,11 +44,11 @@ She almost hung up three times. The phone rang twice before Elena answered.
 
 "Sarah? From the garden?"
 
-"Yes. Hi. I'm sorry, I know this is weird, I justâ€”" She stopped, unsure what to say. *I'm spiraling? I need help? I don't know why I called?*
+"Yes. Hi. I'm sorry, I know this is weird, I justâ€? She stopped, unsure what to say. *I'm spiraling? I need help? I don't know why I called?*
 
 "Are you okay?" Elena's voice was warm, not concerned in a way that made Sarah feel pathetic, just... present.
 
-"I don't know," Sarah admitted. "I went to the garden on Saturday, and it was good, it was really good, but now I'm overthinking everything, and I don't know if I should go back, and I don't know if I belong there, andâ€”"
+"I don't know," Sarah admitted. "I went to the garden on Saturday, and it was good, it was really good, but now I'm overthinking everything, and I don't know if I should go back, and I don't know if I belong there, andâ€?
 
 "Slow down," Elena said gently. "Take a breath."
 

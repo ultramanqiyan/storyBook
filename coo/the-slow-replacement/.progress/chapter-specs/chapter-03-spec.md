@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Marcus begins obsessively quantifying his work, anxiety escalates as he compares himself to AI
-- **Emotional Arc**: Anxiety â†’ Obsessive behavior â†’ Growing paranoia
+- **Emotional Arc**: Anxiety â†?Obsessive behavior â†?Growing paranoia
 - **Relation to Overall Story**: Marcus's coping mechanism becomes a new source of anxiety
 
 ## Core Events
@@ -49,7 +49,7 @@
 - Spreadsheet on Marcus's screen, rows of numbers
 - AI code review scores: 9.2/10 vs Marcus's 7.8/10
 - Marcus's tired eyes in the mirror
-- Emma's drawing on the refrigeratorâ€”"Daddy at work" (he's not in the picture)
+- Emma's drawing on the refrigeratorâ€?Daddy at work" (he's not in the picture)
 
 ### Auditory
 - Keyboard clicking late at night

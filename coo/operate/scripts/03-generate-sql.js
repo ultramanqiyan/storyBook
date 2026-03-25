@@ -95,6 +95,17 @@ function getRoleIcon(roleType, config) {
     { keyword: 'antagonist', icon: '👿' },
     { keyword: 'supporting character', icon: '👤' },
     { keyword: 'minor character', icon: '👤' },
+    { keyword: 'supporting', icon: '👤' },
+    { keyword: 'authority', icon: '👑' },
+    { keyword: 'judge', icon: '⚖️' },
+    { keyword: 'brother', icon: '👨' },
+    { keyword: 'sister', icon: '👩' },
+    { keyword: 'father', icon: '👨' },
+    { keyword: 'mother', icon: '👩' },
+    { keyword: 'son', icon: '👦' },
+    { keyword: 'daughter', icon: '👧' },
+    { keyword: 'husband', icon: '👨' },
+    { keyword: 'wife', icon: '👩' },
     { keyword: 'grandmother', icon: '👵' },
     { keyword: 'grandfather', icon: '👴' }
   ];

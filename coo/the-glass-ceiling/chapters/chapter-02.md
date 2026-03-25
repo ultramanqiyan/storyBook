@@ -20,11 +20,11 @@ The word stuck with Alex. It settled somewhere in their chest, warm and heavy. T
 
 Lisa led the group through Meridian's core values. Each one appeared on the screen behind her, accompanied by inspiring music and images of happy employees working together, celebrating together, living their best lives.
 
-1. **We Put People First** â€” Employees are our greatest asset
-2. **We Dream Big** â€” No idea is too ambitious
-3. **We Move Fast** â€” Speed is a competitive advantage
-4. **We're Transparent** â€” Information should flow freely
-5. **We're a Family** â€” We take care of our own
+1. **We Put People First** â€?Employees are our greatest asset
+2. **We Dream Big** â€?No idea is too ambitious
+3. **We Move Fast** â€?Speed is a competitive advantage
+4. **We're Transparent** â€?Information should flow freely
+5. **We're a Family** â€?We take care of our own
 
 "These aren't just words on a wall," Lisa said, her voice earnest. "These are how we operate every day. When you're here, you're not just an employee. You're a Meridian person."
 

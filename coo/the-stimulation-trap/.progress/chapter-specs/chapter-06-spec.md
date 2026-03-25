@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Approaching "stimulation limit" contentâ€”the extreme of the chase
-- **Emotional Arc**: Pressure â†’ Determination â†’ Extreme stimulation
+- **Emotional Arc**: Pressure â†?Determination â†?Extreme stimulation
 - **Relationship to Overall Story**: The peak of the chase
 
 ## Core Events
@@ -117,6 +117,6 @@
 
 ## Chapter Ending Design
 - **Emotion**: Temporary satisfaction after extreme stimulation
-- **Suspense**: Leo feels satisfied, but with a trace of fearâ€”*What if this isn't enough either?*
+- **Suspense**: Leo feels satisfied, but with a trace of fearâ€?What if this isn't enough either?*
 - **Don't**: Predictive ending, dramatic summary
 - **Do**: Leave a subtle fear, make readers want to know what happens next

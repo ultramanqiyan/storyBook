@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Pride, Fear, Confusion, Love, Hope
-- **Emotional Arc**: Pride (65â†’55) â†’ Fear (58â†’50) â†’ Confusion (52â†’60) â†’ Worry (58â†’65) â†’ Search (62â†’70) â†’ Discovery (68â†’60) â†’ Understanding (58â†’55) â†’ Debate (52â†’50) â†’ Reflection (48â†’60) â†’ Hope (58â†’65)
+- **Emotional Arc**: Pride (65â†?5) â†?Fear (58â†?0) â†?Confusion (52â†?0) â†?Worry (58â†?5) â†?Search (62â†?0) â†?Discovery (68â†?0) â†?Understanding (58â†?5) â†?Debate (52â†?0) â†?Reflection (48â†?0) â†?Hope (58â†?5)
 - **Emotional Pacing**: Setup (1-2) medium, Rising (3-5) medium, Climax (6-7) medium-fast, Resolution (8-10) medium
 
 ## Character Voices
@@ -30,7 +30,7 @@
 - **Word Choice**: Educational terminology, statistics, parental concern
 - **Personality Traits**: Believer in education, worried father, institutional man facing change
 - **Internal Monologue Style**: Analytical, then questioning, then searching
-- **Unique Expressions**: "The data shows..." â†’ "What does the data miss?"
+- **Unique Expressions**: "The data shows..." â†?"What does the data miss?"
 - **Development Arc**: From proud institutional believer to understanding what education truly means
 
 ### Alex Chen (Michael's Son)
@@ -112,34 +112,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Numbers - Applications Down
-Michael sees declining applications. Introduce the crisis. Emotional arc: Pride (65â†’55)
+Michael sees declining applications. Introduce the crisis. Emotional arc: Pride (65â†?5)
 
 ### Chapter 2: The Question - Why Should I Learn
-Alex asks the unanswerable question. The core conflict. Emotional arc: Fear (58â†’50)
+Alex asks the unanswerable question. The core conflict. Emotional arc: Fear (58â†?0)
 
 ### Chapter 3: The Campus - Emptying Halls
-Michael walks the quiet campus. The reality. Emotional arc: Confusion (52â†’60)
+Michael walks the quiet campus. The reality. Emotional arc: Confusion (52â†?0)
 
 ### Chapter 4: The Students - Those Who Left
-Michael tracks disappeared students. Investigation. Emotional arc: Worry (58â†’65)
+Michael tracks disappeared students. Investigation. Emotional arc: Worry (58â†?5)
 
 ### Chapter 5: The Search - Where Did They Go
-Michael finds alternative paths. Field research. Emotional arc: Search (62â†’70)
+Michael finds alternative paths. Field research. Emotional arc: Search (62â†?0)
 
 ### Chapter 6: The Alternative - A Different Path
-Michael sees what's replacing college. New model. Emotional arc: Discovery (68â†’60)
+Michael sees what's replacing college. New model. Emotional arc: Discovery (68â†?0)
 
 ### Chapter 7: The Debate - What Is Education For
-Michael debates the purpose. Philosophical core. Emotional arc: Understanding (58â†’55)
+Michael debates the purpose. Philosophical core. Emotional arc: Understanding (58â†?5)
 
 ### Chapter 8: The Past - When Knowledge Was Power
-Michael remembers his own education. Memory. Emotional arc: Debate (52â†’50)
+Michael remembers his own education. Memory. Emotional arc: Debate (52â†?0)
 
 ### Chapter 9: The Answer - What AI Cannot Know
-Michael finds the answer. Revelation. Emotional arc: Reflection (48â†’60)
+Michael finds the answer. Revelation. Emotional arc: Reflection (48â†?0)
 
 ### Chapter 10: The Future - Learning to Be Human
-Michael and Alex find a way forward. Resolution. Emotional arc: Answer (58â†’65)
+Michael and Alex find a way forward. Resolution. Emotional arc: Answer (58â†?5)
 
 ## Open Ending Design
 

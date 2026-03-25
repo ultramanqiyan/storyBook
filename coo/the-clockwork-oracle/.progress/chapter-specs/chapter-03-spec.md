@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Introduce political conflict, deepen Chronos's consciousness
-- **Emotional Arc**: Tension â†’ Development â†’ Unease
+- **Emotional Arc**: Tension â†?Development â†?Unease
 - **Relation to Overall Story**: Show the cost of Chronos's abilities
 
 ## Core Events

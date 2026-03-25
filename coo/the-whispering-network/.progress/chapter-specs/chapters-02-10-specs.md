@@ -19,7 +19,7 @@
 
 ## Chapter 2: The Collective
 **Focus**: World-building (Echo), Mira's decision to protect Jasper
-**Emotional Arc**: 30→60 (Curious→Cautiously Hopeful)
+**Emotional Arc**: 30�?0 (Curious→Cautiously Hopeful)
 **Key Improvements**:
 - [ ] Explain Echo concept with sensory details
 - [ ] Show Mira's ethical dilemma (report vs. protect)
@@ -30,7 +30,7 @@
 
 ## Chapter 3: The Offer
 **Focus**: Echo's proposal, Mira accepts
-**Emotional Arc**: 40→70 (Hesitant→Committed)
+**Emotional Arc**: 40�?0 (Hesitant→Committed)
 **Key Improvements**:
 - [ ] Show Echo's collective nature through multiple voices
 - [ ] Detail the "bridge" concept
@@ -41,7 +41,7 @@
 
 ## Chapter 4: The Success
 **Focus**: Mira succeeds, becomes hero, discovers dark secret
-**Emotional Arc**: 70→50→75 (Triumph→Concern→Determined)
+**Emotional Arc**: 70�?0�?5 (Triumph→Concern→Determined)
 **Key Improvements**:
 - [ ] Success celebration scene
 - [ ] Discovery of Echo's influence on living
@@ -52,7 +52,7 @@
 
 ## Chapter 5: The Conflict
 **Focus**: Network failure, crisis, Mira's choice
-**Emotional Arc**: 60→85→70 (Concern→Crisis→Resolve)
+**Emotional Arc**: 60�?5�?0 (Concern→Crisis→Resolve)
 **Key Improvements**:
 - [ ] Fast-paced action (improve pacing)
 - [ ] Network failure consequences
@@ -63,7 +63,7 @@
 
 ## Chapter 6: The Lost Brother
 **Focus**: Deep dive to find Jasper's true consciousness
-**Emotional Arc**: 50→80→60 (Searching→Discovery→Sadness)
+**Emotional Arc**: 50�?0�?0 (Searching→Discovery→Sadness)
 **Key Improvements**:
 - [ ] Visual description of network void
 - [ ] Jasper's true state revealed
@@ -74,7 +74,7 @@
 
 ## Chapter 7: The Purge
 **Focus**: Archmages attack Echo, Mira defends
-**Emotional Arc**: 70→90→75 (Defense→Crisis→Hope)
+**Emotional Arc**: 70�?0�?5 (Defense→Crisis→Hope)
 **Key Improvements**:
 - [ ] Action scenes with clear stakes
 - [ ] Mira's speech/argument for Echo's existence
@@ -85,7 +85,7 @@
 
 ## Chapter 8: The Defense
 **Focus**: Trial before Council, Mira's speech
-**Emotional Arc**: 60→85→70 (Nervous→Inspirational→Uncertain)
+**Emotional Arc**: 60�?5�?0 (Nervous→Inspirational→Uncertain)
 **Key Improvements**:
 - [ ] Courtroom/trial setting details
 - [ ] Mira's speech about collective consciousness
@@ -96,7 +96,7 @@
 
 ## Chapter 9: The Integration
 **Focus**: Agreement reached, sacrifice required
-**Emotional Arc**: 70→80→75 (Hope→Cost→Acceptance)
+**Emotional Arc**: 70�?0�?5 (Hope→Cost→Acceptance)
 **Key Improvements**:
 - [ ] Negotiation details
 - [ ] Sacrifice reveal (Mira's permanent connection)
@@ -107,7 +107,7 @@
 
 ## Chapter 10: The Bridge
 **Focus**: One year later, new world, helping child
-**Emotional Arc**: 60→75→80 (Reflective→Hopeful→Bittersweet)
+**Emotional Arc**: 60�?5�?0 (Reflective→Hopeful→Bittersweet)
 **Key Improvements**:
 - [ ] Time jump handled smoothly
 - [ ] Show changed world

@@ -125,7 +125,7 @@ This master plan outlines the systematic improvement of specification documents 
 ### Specification Quality
 - [ ] All book-spec.md files follow template structure
 - [ ] All chapter-specs include quantified emotional arcs
-- [ ] Sensory details specified for every chapter (≥5 per chapter)
+- [ ] Sensory details specified for every chapter (�? per chapter)
 - [ ] AI pattern prohibitions explicitly listed
 - [ ] Character voices defined with specific examples
 
@@ -171,8 +171,8 @@ Phase 5: [░░░░░░░░░░░░░░░░░░░░] 0%
 ### Book-Level Progress
 | Book | Spec Status | Content Status | Overall |
 |------|-------------|----------------|---------|
-| the-synthetic-soul | ⏳ Pending | ⏳ Pending | 0% |
-| the-slow-replacement | ⏳ Pending | ⏳ Pending | 0% |
+| the-synthetic-soul | �?Pending | �?Pending | 0% |
+| the-slow-replacement | �?Pending | �?Pending | 0% |
 | ... | ... | ... | ... |
 
 ---

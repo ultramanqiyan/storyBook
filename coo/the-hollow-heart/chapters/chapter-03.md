@@ -48,7 +48,7 @@ It was three months ago. Maya's apartment, filled with the smell of rosin and ol
 
 "Kai," she said, setting down her violin. "Are you sure about this? The Enhancement?"
 
-I had nodded, eager, certain. "It's an incredible opportunity. The grant covers everything, and the benefitsâ€”"
+I had nodded, eager, certain. "It's an incredible opportunity. The grant covers everything, and the benefitsâ€?
 
 "The benefits," she repeated, her voice flat. "You keep talking about benefits. What about the costs?"
 

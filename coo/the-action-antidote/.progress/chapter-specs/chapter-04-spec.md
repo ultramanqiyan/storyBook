@@ -157,7 +157,7 @@ Intensity
 | 1 | Home (week) | Sarah | 400 | Indecision, research spiral | Anxious |
 | 2 | Home (Saturday morning) | Sarah | 350 | Decision point, getting ready | Fearful, determined |
 | 3 | Street/Transit | Sarah | 300 | Walking, resistance | Anxious |
-| 4 | Garden | Sarah, Marcus, Elena, volunteers | 850 | Arriving, working, connecting | Uncertain â†’ grounded |
+| 4 | Garden | Sarah, Marcus, Elena, volunteers | 850 | Arriving, working, connecting | Uncertain â†?grounded |
 | 5 | Walk home | Sarah | 300 | Processing, accomplishment | Quiet hope |
 
 ### 4.2 Scene Specifications
@@ -186,7 +186,7 @@ Intensity
 **Emotional Beat**
 - **Position on Curve**: 0-15%
 - **Primary Emotion**: Tentative hope mixed with anxiety
-- **Intensity**: 40 â†’ 55
+- **Intensity**: 40 â†?55
 - **Three Layers**:
   - Surface: Picks up card, puts it down, opens laptop
   - Internal: *I should research this. What if it's weird? What if I don't fit in?*
@@ -223,7 +223,7 @@ Friday night, she set her alarm for 8:30 AM. The garden opened at 10. She could 
 **Emotional Beat**
 - **Position on Curve**: 15-30%
 - **Primary Emotion**: Fear mixed with determination
-- **Intensity**: 55 â†’ 65
+- **Intensity**: 55 â†?65
 - **Three Layers**:
   - Surface: Getting dressed, checking mirror, almost changing mind
   - Internal: *I don't have to do this. I could just stay home. No one would care.*
@@ -297,8 +297,8 @@ The garden appeared on her leftâ€”a chain-link fence around plots of green, a sm
 
 **Emotional Beat**
 - **Position on Curve**: 50-100%
-- **Primary Emotion**: Uncertainty â†’ Relief â†’ Accomplishment
-- **Intensity**: 50 â†’ 45 â†’ 50
+- **Primary Emotion**: Uncertainty â†?Relief â†?Accomplishment
+- **Intensity**: 50 â†?45 â†?50
 - **Three Layers**:
   - Surface: Standing uncertain, then working, then talking
   - Internal: *I don't know what I'm doing. ...Oh, this is okay. ...I'm actually doing this.*
@@ -360,7 +360,7 @@ She got home and went straight to the sink to wash her hands. The dirt came off,
 **Internal Journey**
 - **Internal Conflict**: Fear vs. need for change
 - **Realization/Moment of Clarity**: Action feels better than avoidance
-- **Emotional Change**: Anxiety â†’ Fear â†’ Uncertainty â†’ Relief â†’ Pride
+- **Emotional Change**: Anxiety â†?Fear â†?Uncertainty â†?Relief â†?Pride
 - **Psychological Shift**: First crack in the pattern
 
 **Character Growth**
@@ -371,7 +371,7 @@ She got home and went straight to the sink to wash her hands. The dirt came off,
 **Key Decision**
 - **Decision**: To go to the garden
 - **Options Considered**: Stay home, go
-- **Decision Process**: Fear â†’ Almost back out â†’ Go anyway
+- **Decision Process**: Fear â†?Almost back out â†?Go anyway
 - **Consequences Accepted**: Vulnerability, connection, action
 
 ### 5.2 Supporting Character: Elena Rodriguez (Introduction)
@@ -394,8 +394,8 @@ She got home and went straight to the sink to wash her hands. The dirt came off,
 
 | Segment | Speakers | Subtext | Emotional State | Power Dynamic | Forbidden Phrases |
 |---------|----------|---------|-----------------|---------------|-------------------|
-| 1 | Sarah, Marcus | Welcome, connection | Uncertain â†’ relieved | Equal | None |
-| 2 | Sarah, Elena | Wisdom, opening | Guarded â†’ curious | Mentor-mentee | Direct emotion statements |
+| 1 | Sarah, Marcus | Welcome, connection | Uncertain â†?relieved | Equal | None |
+| 2 | Sarah, Elena | Wisdom, opening | Guarded â†?curious | Mentor-mentee | Direct emotion statements |
 
 ### 6.2 Dialogue Segment Specifications
 
@@ -468,8 +468,7 @@ She got home and went straight to the sink to wash her hands. The dirt came off,
 | Internal | Heart racing | 2, 3 | Throughout | Fear | [x] |
 | Internal | Quiet satisfaction | 5 | Throughout | Accomplishment | [x] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Distribution
 - **Visual**: 3 details
 - **Auditory**: 2 details
@@ -560,7 +559,7 @@ She got home and went straight to the sink to wash her hands. The dirt came off 
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

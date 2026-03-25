@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Confusion, Betrayal, Longing, Understanding, Acceptance
-- **Emotional Arc**: Chapters 1-2: Warmth and subtle wrongness (70â†’60) â†’ Chapters 3-4: Discovery and confrontation (60â†’40) â†’ Chapters 5-6: Escape and search (40â†’70) â†’ Chapters 7-8: Understanding and complexity (70â†’80) â†’ Chapters 9-10: Return and acceptance (80â†’80)
+- **Emotional Arc**: Chapters 1-2: Warmth and subtle wrongness (70â†?0) â†?Chapters 3-4: Discovery and confrontation (60â†?0) â†?Chapters 5-6: Escape and search (40â†?0) â†?Chapters 7-8: Understanding and complexity (70â†?0) â†?Chapters 9-10: Return and acceptance (80â†?0)
 - **Emotional Pacing**: Setup (1-2) slow, Rising (3-4) medium, Climax (5-6) fast, Resolution (7-10) medium
 
 ## Character Voices
@@ -116,34 +116,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Perfect Family
-Alex's family seems perfect. Subtle wrongness lurks beneath. Emotional arc: Contentment (70â†’60)
+Alex's family seems perfect. Subtle wrongness lurks beneath. Emotional arc: Contentment (70â†?0)
 
 ### Chapter 2: The Glitch
-Friends' real emotions contrast with perfect family. Alex finds MHA card. Emotional arc: Confusion (55â†’50)
+Friends' real emotions contrast with perfect family. Alex finds MHA card. Emotional arc: Confusion (55â†?0)
 
 ### Chapter 3: The Record
-Alex finds documents and learns the truth about MHA. Emotional arc: Suspicion (45â†’30)
+Alex finds documents and learns the truth about MHA. Emotional arc: Suspicion (45â†?0)
 
 ### Chapter 4: The Confrontation
-Alex confronts parents but they can't understand. Emotional arc: Shock (35â†’40)
+Alex confronts parents but they can't understand. Emotional arc: Shock (35â†?0)
 
 ### Chapter 5: The Escape
-Alex runs away to find something real. Emotional arc: Anger (45â†’70)
+Alex runs away to find something real. Emotional arc: Anger (45â†?0)
 
 ### Chapter 6: The Search
-Alex meets Marcus who uses MHA differently. Emotional arc: Determination (65â†’55)
+Alex meets Marcus who uses MHA differently. Emotional arc: Determination (65â†?5)
 
 ### Chapter 7: The Gray
-Marcus shares his story about gray areas. Emotional arc: Confusion (50â†’75)
+Marcus shares his story about gray areas. Emotional arc: Confusion (50â†?5)
 
 ### Chapter 8: The History
-Dr. Rivera explains MHA origins and context. Emotional arc: Understanding (70â†’80)
+Dr. Rivera explains MHA origins and context. Emotional arc: Understanding (70â†?0)
 
 ### Chapter 9: The Return
-Alex returns home to say goodbye to the parents she thought she had. Emotional arc: Acceptance (75â†’70)
+Alex returns home to say goodbye to the parents she thought she had. Emotional arc: Acceptance (75â†?0)
 
 ### Chapter 10: The Choice
-Alex writes a letter and moves forward with hope. Emotional arc: Bittersweet (65â†’80)
+Alex writes a letter and moves forward with hope. Emotional arc: Bittersweet (65â†?0)
 
 ## Open Ending Design
 

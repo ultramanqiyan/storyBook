@@ -104,7 +104,7 @@ Elena looked at the address. "You've been in contact with her?"
 
 "She's the only one who took my concerns seriously. But she's an academic—she needs real-world data to make her research actionable." Marcus paused at the door. "You have data. She has theory. Maybe together, you can find something I couldn't."
 
-"Marcus—"
+"Marcus�?
 
 He turned back. For a moment, his expression softened. "I'm glad you came, Elena. I'm glad you're finally seeing what I've been trying to show you."
 

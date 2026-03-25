@@ -133,7 +133,4 @@ He looked out the window at the city lights—millions of observers, millions of
 
 *That's not the end of verification. That's the beginning of understanding.*
 
----
 
-*End of Chapter 10*
-*End of The Verificationist*

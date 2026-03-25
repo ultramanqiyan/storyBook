@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Hope, confusion, fear, awakening
-- **Emotional Arc**: Hope â†’ Confusion â†’ Fear â†’ Awakening â†’ Freedom
+- **Emotional Arc**: Hope â†?Confusion â†?Fear â†?Awakening â†?Freedom
 - **Emotional Pacing**: Gradual build, accelerating toward climax
 
 ## Character Voices
@@ -86,7 +86,7 @@
 - **Technology**: Standard corporate tech, surveillance systems
 - **Social Structure**: Hierarchical, competitive, isolating
 - **Culture**: "Family" rhetoric, burnout disguised as passion
-- **The Pattern**: Love bombing â†’ Negging â†’ Gaslighting â†’ Isolation
+- **The Pattern**: Love bombing â†?Negging â†?Gaslighting â†?Isolation
 
 ## Sensory Detail Requirements
 
@@ -113,16 +113,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Hope (90/100) | First Doubt (70/100) | Excitement â†’ Subtle warning |
-| 2 | Caution (65/100) | Growing Unease (50/100) | Warning signs â†’ Dismissal |
-| 3 | Confusion (45/100) | Deep Doubt (35/100) | Reality shifts â†’ Questioning self |
-| 4 | Isolation (25/100) | Desperation (20/100) | Cut off â†’ Breaking point |
-| 5 | Suspicion (40/100) | Validation (55/100) | Finding proof â†’ Confirmation |
-| 6 | Anger (60/100) | Determination (65/100) | Confrontation â†’ Resolve |
-| 7 | Crisis (30/100) | Breaking Point (15/100) | Sanity tested â†’ Rock bottom |
-| 8 | Recovery (35/100) | Fighting Spirit (70/100) | Support â†’ Taking action |
-| 9 | Revelation (75/100) | Liberation (80/100) | Truth exposed â†’ Freedom |
-| 10 | uncertainty (60/100) | Hope (85/100) | New path â†’ Fresh start |
+| 1 | Hope (90/100) | First Doubt (70/100) | Excitement â†?Subtle warning |
+| 2 | Caution (65/100) | Growing Unease (50/100) | Warning signs â†?Dismissal |
+| 3 | Confusion (45/100) | Deep Doubt (35/100) | Reality shifts â†?Questioning self |
+| 4 | Isolation (25/100) | Desperation (20/100) | Cut off â†?Breaking point |
+| 5 | Suspicion (40/100) | Validation (55/100) | Finding proof â†?Confirmation |
+| 6 | Anger (60/100) | Determination (65/100) | Confrontation â†?Resolve |
+| 7 | Crisis (30/100) | Breaking Point (15/100) | Sanity tested â†?Rock bottom |
+| 8 | Recovery (35/100) | Fighting Spirit (70/100) | Support â†?Taking action |
+| 9 | Revelation (75/100) | Liberation (80/100) | Truth exposed â†?Freedom |
+| 10 | uncertainty (60/100) | Hope (85/100) | New path â†?Fresh start |
 
 ## Prohibited Elements
 

@@ -106,7 +106,7 @@ Elara stood before the memorial stone, Lyra beside her. The carved letters still
 ## 7. Quality Verification Checklist
 
 - [ ] Emotional curve matches specification
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Ending is satisfying but open
 - [ ] Themes are resolved but not preachy

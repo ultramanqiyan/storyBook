@@ -32,7 +32,7 @@ The Archmages had declared his death an accident—a catastrophic resonance casc
 
 She checked the resonance dampeners again. Then a fourth time. Routine was her armor against the grief. Precision was her shield against the what-ifs.
 
-"Connection stable," she reported, her voice steady despite the tightness in her throat. "Node 447-B, routine maintenance complete. Logging out at—"
+"Connection stable," she reported, her voice steady despite the tightness in her throat. "Node 447-B, routine maintenance complete. Logging out at�?
 
 The network's song shifted.
 
@@ -92,7 +92,7 @@ Mira's hands trembled. No one knew that story. No one but Jasper.
 
 Mira struggled to process, her mind racing through possibilities. The network preserved consciousness. It was theoretically possible—the crystals stored energy patterns, and consciousness was just a complex energy pattern. But no one had ever proven it. No one had ever heard voices in the network before.
 
-"This is unprecedented," she breathed. "No one has ever—"
+"This is unprecedented," she breathed. "No one has ever�?
 
 "Many have heard us. But few have listened." The collective voice carried a note of ancient patience. "Most dismiss us as interference, as crossed connections, as their imagination. You are different. You listened."
 
@@ -114,7 +114,7 @@ Archmage Veren's voice cut through the connection, sharp with authority. "We're 
 
 Mira looked at the crystal ball. At the vast consciousness that had reached out to her. At the brother she had thought lost forever.
 
-"I—" Her voice cracked. She cleared her throat, forced professionalism back into her tone. "Minor harmonic variance, Archmage. I've isolated the affected crystal and am running diagnostics."
+"I�? Her voice cracked. She cleared her throat, forced professionalism back into her tone. "Minor harmonic variance, Archmage. I've isolated the affected crystal and am running diagnostics."
 
 "Is the network compromised?"
 
@@ -130,7 +130,7 @@ The connection closed. Mira stood alone in her station, the crystal's glow the o
 
 She should report this. Protocol demanded it. An unauthorized consciousness in the network was a security threat, a potential instability, something the Archmages needed to know about immediately.
 
-But as Jasper's voice faded into static, leaving only the whispered promise—"I'll be here when you're ready"—Mira's hand moved not to the communication crystal but to the log screen.
+But as Jasper's voice faded into static, leaving only the whispered promise�?I'll be here when you're ready"—Mira's hand moved not to the communication crystal but to the log screen.
 
 She deleted the entry with three quick keystrokes, her heart hammering against her ribs.
 

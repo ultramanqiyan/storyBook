@@ -50,7 +50,7 @@ She hung up and looked at Robert.
 
 "I saw it. What does it mean for us? For the people here?"
 
-Eleanor laughed—a hollow sound. "We don't know yet. The pension fund is part of the Consortium, so technically we're covered by the PBGC. But the insurance limits—" She shook her head. "For someone like you, with forty years of service, the limits might not cover your full benefit. For younger workers—" She stopped.
+Eleanor laughed—a hollow sound. "We don't know yet. The pension fund is part of the Consortium, so technically we're covered by the PBGC. But the insurance limits�? She shook her head. "For someone like you, with forty years of service, the limits might not cover your full benefit. For younger workers�? She stopped.
 
 "For younger workers?"
 
@@ -60,7 +60,7 @@ Robert thought about the young analysts in the auditorium. The ones who'd looked
 
 "What about the early retirement package?" he asked. "The offer they made me?"
 
-Eleanor's expression shifted. "That was before the bankruptcy. The company's offer was based on the assumption that the pension fund would be solvent. Now—" She spread her hands. "I don't know. I honestly don't know."
+Eleanor's expression shifted. "That was before the bankruptcy. The company's offer was based on the assumption that the pension fund would be solvent. Now�? She spread her hands. "I don't know. I honestly don't know."
 
 Robert felt something crack inside him. The decision he'd made—the decision to stay, to fight, to do the right thing—suddenly felt naive. What was the point of staying if the system was already broken? What was the point of fighting if there was nothing left to fight for?
 
@@ -148,7 +148,7 @@ Robert picked up his phone and called Margaret.
 
 "Robert, what's wrong?"
 
-"Nothing's wrong. Everything's wrong. But I think—" He paused. "I think I finally understand what I need to do."
+"Nothing's wrong. Everything's wrong. But I think�? He paused. "I think I finally understand what I need to do."
 
 He hung up, gathered his things, and walked out of the building.
 

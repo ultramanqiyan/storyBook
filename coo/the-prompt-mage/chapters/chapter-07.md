@@ -82,7 +82,7 @@ Alex picked up the book, feeling its weight in their hands. "What about the Firs
 
 Alex turned to Jordan. "I need to go somewhere tonight. Can you hold things down here? Keep recording, keep documenting?"
 
-"Of course. But be careful. If Elena's coalition is watching—and they almost certainly are—"
+"Of course. But be careful. If Elena's coalition is watching—and they almost certainly are�?
 
 "They'll follow me. I know." Alex smiled grimly. "But maybe that's not entirely bad. If they're focused on me, they're not focused on you. And someone needs to be here to tell the story if things go wrong."
 

@@ -301,7 +301,7 @@ He clicked the icon, watched the interface load. Tomorrow he would try it - just
 **Internal Journey**
 - **Internal Conflict**: Pride in authentic approach vs. pressure to be efficient
 - **Realization/Moment of Clarity**: Not yet - he's still confident
-- **Emotional Change**: Confidence â†’ satisfaction â†’ curiosity â†’ skepticism â†’ uncertain openness
+- **Emotional Change**: Confidence â†?satisfaction â†?curiosity â†?skepticism â†?uncertain openness
 - **Psychological Shift**: The first small step toward change
 
 **Character Growth**
@@ -454,7 +454,7 @@ He clicked the icon, watched the interface load. Tomorrow he would try it - just
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

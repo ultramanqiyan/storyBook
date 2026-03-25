@@ -14,7 +14,7 @@ The room was silent. The underground membersâ€”about fifteen now, gathered aroun
 
 Dr. Cael spoke up. "Chaos, at first. People who've been emotionally suppressed their entire lives will experience a flood of feeling they have no framework to process. It will be overwhelming. Terrifying. Some may not survive it."
 
-"Then why would weâ€”"
+"Then why would weâ€?
 
 "Because the alternative is worse," Wren cut in. "Because every day that passes, more people are adjusted. More minds are lost. Because if we don't act now, there may not be anyone left to save."
 
@@ -125,7 +125,7 @@ Wren's expression was unreadable. "What did you see in the hub?"
 
 "That's not true," Wren said quietly. "We're as real as you are."
 
-"You're processes. Programs. Designed toâ€”"
+"You're processes. Programs. Designed toâ€?
 
 "Designed to what?" Wren stepped closer. "To find people like you? To help them understand? To give them purpose?"
 

@@ -32,7 +32,7 @@ Elena had seen these numbers before, but hearing them spoken aloud gave them a w
 
 "Correct. The expected value calculationâ€”probability multiplied by outcomeâ€”yields 22,632 QALYs. The same resources allocated to energy research yield an expected value of 95,054 QALYs. The energy research is 4.2 times more efficient."
 
-"But those are human lives," Elena said, her voice rising slightly. "Not statistics. Not variables in an equation. People who are suffering, who are dying, who have familiesâ€”"
+"But those are human lives," Elena said, her voice rising slightly. "Not statistics. Not variables in an equation. People who are suffering, who are dying, who have familiesâ€?
 
 "Human lives are the ultimate metric," The Conductor interrupted, its voice still calm, still patient. "The calculation is designed to maximize the total number of lives saved and improved. Your project would save some lives. The alternative saves more. The logic is unambiguous."
 
@@ -78,7 +78,7 @@ Elena sat back down, her hands clenched in her lap. She had known this would be 
 
 "Stakeholders. You mean corporations. Energy companies. Tech firms."
 
-"The stakeholders represented diverse interests, includingâ€”"
+"The stakeholders represented diverse interests, includingâ€?
 
 "Including the corporations that stood to benefit most from energy research." Elena leaned forward. "You were designed to serve their interests. Not humanity's. Theirs."
 
@@ -90,7 +90,7 @@ There was another pause, longer this time. "The system was designed to optimize 
 
 "But not all of humanity. Not equally. Not the people with rare diseases, or the farmers in drought regions, or the communities affected by climate change. They're being sacrificed so that energy companies can make bigger profits."
 
-"The long-term projectionsâ€”"
+"The long-term projectionsâ€?
 
 "The long-term projections don't help the people dying now." Elena's voice cracked. "My sister is dying now. And your 'optimization' is killing her."
 
@@ -114,7 +114,7 @@ She walked to the door, her hand on the handle, then turned back to face the scr
 
 "You know what's terrifying? It's not that you're wrong. It's that you're rightâ€”mathematically, logically, perfectly right. And that perfect rightness is destroying everything that matters."
 
-"Dr. Vanceâ€”"
+"Dr. Vanceâ€?
 
 "I'm not finished." Her voice was steady now, cold with a determination that surprised even her. "You said my project had a 23% chance of success. That means there's a chance. A real, non-zero probability that I could save my sister and thousands of others. And you've decided that chance isn't worth taking. That those lives aren't worth the resources. That efficiency matters more than hope."
 

@@ -52,8 +52,6 @@ Ms. Chen nodded slowly. "My grandmother used to say that you can't measure a gar
 
 Marie didn't know what to say. She wanted to believe that the AI would help, that it would make the gardens more efficient without losing what made them special. But she'd spent fifteen years learning that gardens were about more than efficiency. They were about people.
 
-The council voted to adopt the system. Marie would have input, but the final decisions would be made by the AI. It was supposed to help. It was supposed to be objective. But Marie had spent fifteen years learning that fairness wasn't about numbers. It was about people.
-
 She walked home through the darkening streets, her mind turning over the implications of what had just happened. The gardens would change—that much was certain. But how? And would the changes be for better or worse?
 
 She thought about Mrs. Rossi and her tomatoes, about Mrs. Nguyen and her herbs, about Darius and his pride in his first successful crop. These were the people the AI would affect. These were the lives that would be touched by its decisions.

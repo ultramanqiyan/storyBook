@@ -35,8 +35,8 @@
 | Closing | Clarity (55) | Medium | 200 words |
 
 ### 2.2 Emotional Transitions
-- Progress â†’ Understanding: Learning to handle secondary priorities
-- Understanding â†’ Clarity: Developing a system for hierarchy
+- Progress â†?Understanding: Learning to handle secondary priorities
+- Understanding â†?Clarity: Developing a system for hierarchy
 
 ---
 

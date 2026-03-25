@@ -30,7 +30,7 @@ She thought about Rachel. About TomÃ¡s. About the collective she'd just started 
 
 But asking for help meant admitting she'd made a mistake. Meant showing vulnerability. Meant risking rejection.
 
-*What if they think I'm incompetent? What if they decide I'm not worth knowing? What ifâ€”*
+*What if they think I'm incompetent? What if they decide I'm not worth knowing? What ifâ€?
 
 She stopped herself. This was exactly what Dr. Chen had talked about. The fear of being seen as flawed keeping her from the connection she needed.
 
@@ -60,7 +60,7 @@ She called Rachel, her voice shaking as she explained the situation.
 
 "Okay, first of all, take a breath," Rachel said. "This is fixable. Print issues happen to everyone. You're not the first designer to have a color profile problem, and you won't be the last."
 
-"But the clientâ€”"
+"But the clientâ€?
 
 "The client is upset, but they want a solution more than they want to blame you. Focus on fixing the problem, and the relationship will follow." Rachel's voice was calm, steady. "Now, tell me exactly what files you sent and what specifications the printer asked for."
 

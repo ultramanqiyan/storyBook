@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Beginning the search for stronger stimulationâ€”the start of the chase
-- **Emotional Arc**: Anxiety â†’ Determination â†’ Anticipation
+- **Emotional Arc**: Anxiety â†?Determination â†?Anticipation
 - **Relationship to Overall Story**: The beginning of the pursuit phase
 
 ## Core Events
@@ -121,6 +121,6 @@
 
 ## Chapter Ending Design
 - **Emotion**: Anticipation
-- **Suspense**: Leo prepares to experience new stimulationâ€”*This must be amazing.*
+- **Suspense**: Leo prepares to experience new stimulationâ€?This must be amazing.*
 - **Don't**: Predictive ending, dramatic summary
 - **Do**: Leave anticipation, make readers want to know the result

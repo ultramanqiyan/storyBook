@@ -248,15 +248,15 @@ Alex leaves the company, taking their story public. Others come forward. The cei
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (opportunity â†’ first warnings)
-**Chapter 2** â†’ Chapter 3 (warning â†’ doubt begins)
-**Chapter 3** â†’ Chapter 4 (doubt â†’ isolation)
-**Chapter 4** â†’ Chapter 5 (isolation â†’ evidence found)
-**Chapter 5** â†’ Chapter 6 (evidence â†’ confrontation)
-**Chapter 6** â†’ Chapter 7 (confrontation â†’ breaking point)
-**Chapter 7** â†’ Chapter 8 (breaking point â†’ fight back)
-**Chapter 8** â†’ Chapter 9 (fight â†’ truth exposed)
-**Chapter 9** â†’ Chapter 10 (truth â†’ new beginning)
+**Chapter 1** â†?Chapter 2 (opportunity â†?first warnings)
+**Chapter 2** â†?Chapter 3 (warning â†?doubt begins)
+**Chapter 3** â†?Chapter 4 (doubt â†?isolation)
+**Chapter 4** â†?Chapter 5 (isolation â†?evidence found)
+**Chapter 5** â†?Chapter 6 (evidence â†?confrontation)
+**Chapter 6** â†?Chapter 7 (confrontation â†?breaking point)
+**Chapter 7** â†?Chapter 8 (breaking point â†?fight back)
+**Chapter 8** â†?Chapter 9 (fight â†?truth exposed)
+**Chapter 9** â†?Chapter 10 (truth â†?new beginning)
 
 ### Thematic Cluster Links
 

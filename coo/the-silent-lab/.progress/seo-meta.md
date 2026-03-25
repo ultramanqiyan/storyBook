@@ -235,15 +235,15 @@ One survives. But the reader never learns which oneâ€”or if it even matters. The
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (discovery leads to isolation)
-**Chapter 2** â†’ Chapter 3 (isolation leads to experiment)
-**Chapter 3** â†’ Chapter 4 (success creates doubt)
-**Chapter 4** â†’ Chapter 5 (perfection breeds suspicion)
-**Chapter 5** â†’ Chapter 6 (doubt leads to truth)
-**Chapter 6** â†’ Chapter 7 (truth leads to horror)
-**Chapter 7** â†’ Chapter 8 (horror leads to escape)
-**Chapter 8** â†’ Chapter 9 (escape leads to choice)
-**Chapter 9** â†’ Chapter 10 (choice leads to silence)
+**Chapter 1** â†?Chapter 2 (discovery leads to isolation)
+**Chapter 2** â†?Chapter 3 (isolation leads to experiment)
+**Chapter 3** â†?Chapter 4 (success creates doubt)
+**Chapter 4** â†?Chapter 5 (perfection breeds suspicion)
+**Chapter 5** â†?Chapter 6 (doubt leads to truth)
+**Chapter 6** â†?Chapter 7 (truth leads to horror)
+**Chapter 7** â†?Chapter 8 (horror leads to escape)
+**Chapter 8** â†?Chapter 9 (escape leads to choice)
+**Chapter 9** â†?Chapter 10 (choice leads to silence)
 
 ### Thematic Cluster Links
 

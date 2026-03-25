@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Resolution, open ending for future
-- **Emotional Arc**: Peace â†’ Gratitude â†’ Hope
+- **Emotional Arc**: Peace â†?Gratitude â†?Hope
 - **Relation to Overall Story**: Show the lasting impact of Chronos's legacy
 
 ## Core Events

@@ -184,7 +184,7 @@ Chen's eyes narrowed, scanning the lab. "The system monitors show unusual activi
 
 Marcus's throat tightened. "Just running some simulations. Nothing significant."
 
-"Nothing significant?" Chen's voice was cold. "Dr. Webb, your funding is already on life support. The board is meeting next week to discuss your project's future. If you're running unauthorized experimentsâ€”"
+"Nothing significant?" Chen's voice was cold. "Dr. Webb, your funding is already on life support. The board is meeting next week to discuss your project's future. If you're running unauthorized experimentsâ€?
 
 "I'm not," Marcus said, his voice steady despite the fear churning in his stomach. "Just standard tests. I'm close to something, Director. I can feel it."
 

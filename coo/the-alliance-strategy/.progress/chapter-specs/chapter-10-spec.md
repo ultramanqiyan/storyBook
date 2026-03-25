@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Established in alliance practice
-    â†“
-Middle: Reflecting on transformation
-    â†“
-Closing: Open future, ongoing journey
+    â†?Middle: Reflecting on transformation
+    â†?Closing: Open future, ongoing journey
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Open future, ongoing journey
 | Tactile | Phone in hand, calling partners | 4 | Action, confidence |
 | Kinesthetic | Energy of collaboration | 4 | Ready, capable |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

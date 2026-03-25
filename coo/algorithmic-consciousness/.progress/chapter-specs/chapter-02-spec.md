@@ -87,11 +87,11 @@
 ### 3.1 Event Summary
 | # | Event | Location | Characters | Emotional Impact | Plot Function |
 |---|-------|----------|------------|------------------|---------------|
-| 1 | Rosa arrives at Nexus AI | Nexus AI lobby | Rosa, David | Curiosity â†’ Intrigue | Establish tech environment |
-| 2 | Rosa meets ARIA-7 | Training room | Rosa, David, ARIA-7 | Intrigue â†’ Skepticism | Introduce AI character |
-| 3 | First training session | Training room | Rosa, ARIA-7 | Skepticism â†’ Surprise | Show AI's capability |
-| 4 | Rosa demonstrates technique | Training room | Rosa, ARIA-7 | Professional â†’ Uncertain | Establish Rosa's methods |
-| 5 | Rosa leaves facility | Nexus AI exit | Rosa | Uncertain â†’ Reflective | Set up next chapter |
+| 1 | Rosa arrives at Nexus AI | Nexus AI lobby | Rosa, David | Curiosity â†?Intrigue | Establish tech environment |
+| 2 | Rosa meets ARIA-7 | Training room | Rosa, David, ARIA-7 | Intrigue â†?Skepticism | Introduce AI character |
+| 3 | First training session | Training room | Rosa, ARIA-7 | Skepticism â†?Surprise | Show AI's capability |
+| 4 | Rosa demonstrates technique | Training room | Rosa, ARIA-7 | Professional â†?Uncertain | Establish Rosa's methods |
+| 5 | Rosa leaves facility | Nexus AI exit | Rosa | Uncertain â†?Reflective | Set up next chapter |
 
 ---
 
@@ -179,7 +179,7 @@ Rosa walked out of the Nexus AI building into the Brooklyn afternoon, her mind s
 ### 8.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Ending creates forward momentum

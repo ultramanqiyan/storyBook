@@ -253,7 +253,7 @@ She gathered her things, the familiar routine of leaving, but something felt dif
 **Internal Journey**
 - **Internal Conflict**: Awareness of what she's become vs. comfort with efficiency
 - **Realization/Moment of Clarity**: "I'm a rubber stamp"
-- **Emotional Change**: Hollow â†’ aware â†’ horrified â†’ accepting
+- **Emotional Change**: Hollow â†?aware â†?horrified â†?accepting
 - **Psychological Shift**: Self-knowledge without action
 
 **Character Growth**
@@ -381,7 +381,7 @@ She gathered her things, the familiar routine of leaving, but something felt dif
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Character has clear internal conflict
 - [ ] Ending matches specified type

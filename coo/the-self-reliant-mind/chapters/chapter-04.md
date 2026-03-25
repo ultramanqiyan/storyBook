@@ -32,12 +32,11 @@ The comment hit David like a physical blow. Jennifer had said something differen
 
 Patricia's expression shifted. "David, we need answers today. We can't keep pushing this back."
 
-"I understand, but I want to make sure we're aligned withâ€”"
+"I understand, but I want to make sure we're aligned withâ€?
 
 "With what? Jennifer isn't here." Patricia's voice was sharp. "You're the consultant. Give us a recommendation."
 
-David felt the walls closing in. His carefully prepared presentation was falling apart. The voice in his head screamed that he was about to make a mistake, that he should check, that he should wait, that he shouldâ€”
-
+David felt the walls closing in. His carefully prepared presentation was falling apart. The voice in his head screamed that he was about to make a mistake, that he should check, that he should wait, that he shouldâ€?
 "David." Patricia's voice cut through. "Do you believe in your recommendation or not?"
 
 The question hung in the air. Did he? He'd spent hours preparing it. He'd reviewed the data. He'd thought it through. But now, faced with the possibility that Jennifer might have disagreed, he couldn't trust himself.
@@ -90,11 +89,11 @@ The question was simple, but it cut to the core. David had been asking himself t
 
 "After they see you're a fraud. What happens next?"
 
-David struggled to answer. "I'd... lose my job, probably. Or get demoted. Orâ€”"
+David struggled to answer. "I'd... lose my job, probably. Or get demoted. Orâ€?
 
 "Has that ever happened? Have you ever made a mistake and been fired for it?"
 
-"Well, no, butâ€”"
+"Well, no, butâ€?
 
 "But you've made mistakes before. Everyone does. What actually happened?"
 
@@ -104,7 +103,7 @@ David thought back. He'd made mistakes. Missed deadlines. Given wrong informatio
 
 "So the worst case isn't actually that bad."
 
-"No, butâ€”" David stopped. What was he afraid of, really? Not being fired. Not being demoted. Something else.
+"No, butâ€? David stopped. What was he afraid of, really? Not being fired. Not being demoted. Something else.
 
 "What is it?" Dr. Webb asked, as if reading his mind.
 

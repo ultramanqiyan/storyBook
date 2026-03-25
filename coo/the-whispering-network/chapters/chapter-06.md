@@ -112,7 +112,7 @@ Mira met his eyes steadily, and she saw him see the answer in her face before sh
 
 Veren nodded slowly, as if confirming something he had long suspected about her character. "I'll authorize it. But I'm coming with you."
 
-"Sirâ€”"
+"Sirâ€?
 
 "You're not doing this alone, Thornwood." He stood, his ceremonial robes swirling around him. "If you're going to walk into a collective of angry dead wizards and try to negotiate peace, you're going to have backup. And if something goes wrong, if you can't return on your own, I'll be there to pull you back."
 

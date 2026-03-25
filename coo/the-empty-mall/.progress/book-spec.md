@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Curiosity, Confusion, Melancholy, Understanding, Acceptance
-- **Emotional Arc**: Curiosity (55â†’60) â†’ Observation (58â†’65) â†’ Confusion (62â†’70) â†’ Investigation (68â†’75) â†’ Discovery (72â†’65) â†’ Understanding (60â†’50) â†’ Melancholy (55â†’70) â†’ Revelation (65â†’60) â†’ Attempt (55â†’50) â†’ Realization (52â†’55)
+- **Emotional Arc**: Curiosity (55â†?0) â†?Observation (58â†?5) â†?Confusion (62â†?0) â†?Investigation (68â†?5) â†?Discovery (72â†?5) â†?Understanding (60â†?0) â†?Melancholy (55â†?0) â†?Revelation (65â†?0) â†?Attempt (55â†?0) â†?Realization (52â†?5)
 - **Emotional Pacing**: Setup (1-2) slow, Rising (3-5) medium, Climax (6-7) medium-fast, Resolution (8-10) slow
 
 ## Character Voices
@@ -30,7 +30,7 @@
 - **Word Choice**: Retail metrics, customer behavior, anthropological terms
 - **Personality Traits**: Curious, patient, deeply attached to the mall as community
 - **Internal Monologue Style**: Observational, questioning, seeking patterns
-- **Unique Expressions**: "The numbers tell a story" â†’ "What story aren't the numbers telling?"
+- **Unique Expressions**: "The numbers tell a story" â†?"What story aren't the numbers telling?"
 - **Development Arc**: From curious observer to philosophical understanding of the demand black hole
 
 ### Elena (Marketing Director)
@@ -112,34 +112,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Observation - Fewer Footsteps
-James notices the decline. Introduce the mystery. Emotional arc: Curiosity (55â†’60)
+James notices the decline. Introduce the mystery. Emotional arc: Curiosity (55â†?0)
 
 ### Chapter 2: The Products - Better Than Ever
-Products are perfect, but no one buys. The paradox. Emotional arc: Observation (58â†’65)
+Products are perfect, but no one buys. The paradox. Emotional arc: Observation (58â†?5)
 
 ### Chapter 3: The Customers - Those Who Stopped Coming
-James tracks disappeared customers. Investigation begins. Emotional arc: Confusion (62â†’70)
+James tracks disappeared customers. Investigation begins. Emotional arc: Confusion (62â†?0)
 
 ### Chapter 4: The Interview - Why Don't You Buy
-James interviews former customers. Gathering data. Emotional arc: Investigation (68â†’75)
+James interviews former customers. Gathering data. Emotional arc: Investigation (68â†?5)
 
 ### Chapter 5: The Discovery - The Demand Black Hole
-James discovers the pattern. The concept emerges. Emotional arc: Discovery (72â†’65)
+James discovers the pattern. The concept emerges. Emotional arc: Discovery (72â†?5)
 
 ### Chapter 6: The Town - Where Did Everyone Go
-James visits the community. Field research. Emotional arc: Understanding (60â†’50)
+James visits the community. Field research. Emotional arc: Understanding (60â†?0)
 
 ### Chapter 7: The Answer - Nothing to Want
-The truth emerges. The revelation. Emotional arc: Melancholy (55â†’70)
+The truth emerges. The revelation. Emotional arc: Melancholy (55â†?0)
 
 ### Chapter 8: The Attempt - Creating Desire
-James tries to reignite desire. Trying to fix. Emotional arc: Revelation (65â†’60)
+James tries to reignite desire. Trying to fix. Emotional arc: Revelation (65â†?0)
 
 ### Chapter 9: The Realization - What Was Lost
-The deeper truth. Understanding. Emotional arc: Attempt (55â†’50)
+The deeper truth. Understanding. Emotional arc: Attempt (55â†?0)
 
 ### Chapter 10: The Silence - A New Kind of Empty
-Acceptance and peace. Resolution. Emotional arc: Realization (52â†’55)
+Acceptance and peace. Resolution. Emotional arc: Realization (52â†?5)
 
 ## Open Ending Design
 

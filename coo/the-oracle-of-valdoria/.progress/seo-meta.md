@@ -235,15 +235,15 @@ Elara has saved Lyra but lost herself in the process. Now she must discover who 
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (discovery leads to warning)
-**Chapter 2** â†’ Chapter 3 (warning leads to first step)
-**Chapter 3** â†’ Chapter 4 (cost leads to understanding Lyra's choice)
-**Chapter 4** â†’ Chapter 5 (Lyra's research leads to the threat)
-**Chapter 5** â†’ Chapter 6 (threat leads to seeing consequences)
-**Chapter 6** â†’ Chapter 7 (consequences lead to sacrifice)
-**Chapter 7** â†’ Chapter 8 (sacrifice enables entry)
-**Chapter 8** â†’ Chapter 9 (entry leads to confrontation)
-**Chapter 9** â†’ Chapter 10 (choice leads to new purpose)
+**Chapter 1** â†?Chapter 2 (discovery leads to warning)
+**Chapter 2** â†?Chapter 3 (warning leads to first step)
+**Chapter 3** â†?Chapter 4 (cost leads to understanding Lyra's choice)
+**Chapter 4** â†?Chapter 5 (Lyra's research leads to the threat)
+**Chapter 5** â†?Chapter 6 (threat leads to seeing consequences)
+**Chapter 6** â†?Chapter 7 (consequences lead to sacrifice)
+**Chapter 7** â†?Chapter 8 (sacrifice enables entry)
+**Chapter 8** â†?Chapter 9 (entry leads to confrontation)
+**Chapter 9** â†?Chapter 10 (choice leads to new purpose)
 
 ### Thematic Cluster Links
 

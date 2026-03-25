@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Reveal ARIA's legacy, deepen understanding
-- **Emotional Arc**: Discovery â†’ Understanding â†’ Responsibility
+- **Emotional Arc**: Discovery â†?Understanding â†?Responsibility
 - **Relation to Overall Story**: Show the true purpose of ARIA's existence
 
 ## Core Events

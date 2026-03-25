@@ -20,14 +20,12 @@ The Slack notification chimed, and she jumped.
 
 **jennifer.walsh**: Hey! Quick q about the Q2 report - do you have the latest numbers?
 
-Sarah stared at the message. She had seventeen versions of those numbers saved in various folders, each with slightly different parameters, each potentially the "latest" depending on what Jennifer needed them for. She could ask for clarification. She could send all seventeen versions. She could—
-
+Sarah stared at the message. She had seventeen versions of those numbers saved in various folders, each with slightly different parameters, each potentially the "latest" depending on what Jennifer needed them for. She could ask for clarification. She could send all seventeen versions. She could�?
 Another notification.
 
 **mike.chen**: @sarah.mitchell - thoughts on the new creative direction? We're meeting in 30 if you want to join.
 
-She hadn't been invited to the meeting. Was that intentional? Should she ask? Should she just show up? Should she respond to Jennifer first, or was Mike's message more urgent? What was the protocol for—
-
+She hadn't been invited to the meeting. Was that intentional? Should she ask? Should she just show up? Should she respond to Jennifer first, or was Mike's message more urgent? What was the protocol for�?
 Her inbox dinged. An email from HR: *Optional Professional Development Session: "Strategic Thinking in Uncertain Times" - Registration closes today at noon.*
 
 Sarah clicked the link. The session was in two weeks, led by someone named Dr. Elena Vasquez. She opened a new tab and searched the name. A LinkedIn profile appeared, then a university page, then a YouTube video of a keynote speech. She clicked play, watched thirty seconds, paused. Was this worth her time? Would it actually help, or was it just another thing to add to the list of things she'd meant to do?
@@ -36,8 +34,7 @@ She opened another tab and searched "strategic thinking training worth it reddit
 
 Forty minutes had passed. She'd watched thirty seconds of a video and read twelve Reddit comments. The coffee on her desk had gone cold.
 
-She should respond to Jennifer. She should answer Mike. She should decide about the training session. She should—
-
+She should respond to Jennifer. She should answer Mike. She should decide about the training session. She should�?
 Another Slack notification.
 
 **marketing.general**: Has anyone heard from Sarah? Need her input on the Q2 numbers.
@@ -78,8 +75,7 @@ The day ran through her mind like a highlight reel of non-accomplishments. She'd
 
 Her phone buzzed. A notification from Slack, probably someone in a different time zone posting something that could wait until morning. She didn't check it.
 
-Tomorrow she would decide about the training—except the deadline had passed, so that decision had been made for her. Tomorrow she would respond to the messages she'd avoided—except new messages would have piled up by then, and she'd have to prioritize, and prioritizing meant deciding, and deciding meant—
-
+Tomorrow she would decide about the training—except the deadline had passed, so that decision had been made for her. Tomorrow she would respond to the messages she'd avoided—except new messages would have piled up by then, and she'd have to prioritize, and prioritizing meant deciding, and deciding meant�?
 Tomorrow she would be different.
 
 The thought felt hollow, but she held onto it anyway. Tomorrow she would wake up and not reach for her phone immediately. Tomorrow she would tackle the hardest thing first. Tomorrow she would be the version of herself who had things under control.

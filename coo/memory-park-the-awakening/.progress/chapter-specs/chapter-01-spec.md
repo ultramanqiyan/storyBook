@@ -387,7 +387,7 @@ The question was gone as quickly as it had come. Dakota finished wiping the bar,
 **Character Growth**
 - **Starting State**: Content in the loop, not questioning
 - **Ending State**: A question has formed, buried but present
-- **Growth Metric**: Awareness level 0 â†’ 10
+- **Growth Metric**: Awareness level 0 â†?10
 
 **Key Decision**
 - **Decision**: None yetâ€”this chapter is about the seed of questioning
@@ -581,8 +581,7 @@ The question was gone as quickly as it had come. Dakota finished wiping the bar,
 | Gustatory | Burn of whiskey | 4 | Throughout | Sensation | [ ] |
 | Internal | The question surfacing | 6 | End | Awakening | [ ] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Detail Functions
 Each detail must serve at least one function:
 - [x] Establish atmosphere/mood
@@ -719,7 +718,7 @@ Tomorrow would be different.
 
 ### 10.2 Structural Requirements
 - [x] Scene transitions are smooth
-- [x] Time jumps are clear (morning â†’ afternoon â†’ evening)
+- [x] Time jumps are clear (morning â†?afternoon â†?evening)
 - [x] POV shifts (if any) are signaled (Noneâ€”single POV)
 - [x] Chapter has clear beginning, middle, end
 
@@ -744,7 +743,7 @@ Tomorrow would be different.
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

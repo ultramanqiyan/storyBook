@@ -4,7 +4,7 @@ The monitoring station felt different now. Elara walked through the familiar cor
 
 Her phone buzzed. A text from an unknown number:
 
-*Dr. Chen, I hope you have reconsidered my offer. The window for cooperation is closing. I would hate to see a brilliant career destroyed by stubbornness. â€” V.S.*
+*Dr. Chen, I hope you have reconsidered my offer. The window for cooperation is closing. I would hate to see a brilliant career destroyed by stubbornness. â€?V.S.*
 
 She deleted the message without responding.
 

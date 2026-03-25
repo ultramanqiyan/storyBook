@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Attempting to apply separate lessons
-    â†“
-Middle: Recognition of disconnection
-    â†“
-Closing: Confrontation with fragmentation cost
+    â†?Middle: Recognition of disconnection
+    â†?Closing: Confrontation with fragmentation cost
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Confrontation with fragmentation cost
 | Olfactory | Evening air | 4 | Clarity, recognition |
 | Kinesthetic | Weight of realization | 4 | Cost understood |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Attempting to implement agency
-    ↓
-Middle: Strong resistance, rationalization
-    ↓
-Closing: Acknowledgment of fear
+    �?Middle: Strong resistance, rationalization
+    �?Closing: Acknowledgment of fear
 ```
 
 ### 2.2 Emotional Depth Design
@@ -138,8 +136,7 @@ Closing: Acknowledgment of fear
 | Auditory | Own voice admitting fear | 4 | Truth, vulnerability |
 | Kinesthetic | Tension releasing | 4 | Relief, recognition |
 
-**Minimum 5 details covering 3 types**: ✓
-
+**Minimum 5 details covering 3 types**: �?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -166,7 +163,7 @@ Closing: Acknowledgment of fear
 - **Deepest Level**: Identity tied to passivity
 
 ### 9.2 Philosophical Connection
-- **Mao Thought**: 主观能动性 requires overcoming the fear of action
+- **Mao Thought**: 主观能动�?requires overcoming the fear of action
 - **Application**: Agency is a choice that must be made despite fear
 
 ---

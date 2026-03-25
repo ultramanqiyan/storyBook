@@ -6,11 +6,11 @@ Not for an appointment, not for a check-up. For answers. For truth. For somethin
 
 Dr. Chen's office was on the thirty-seventh floor, and I took the stairs, my enhanced body processing the climb without effort. I could feel my heart rate increasingâ€”slightly, clinically, a physiological response to exertion that I noted without feeling.
 
-The receptionist tried to stop me when I walked past her desk. "Sir, you don't have an appointmentâ€”"
+The receptionist tried to stop me when I walked past her desk. "Sir, you don't have an appointmentâ€?
 
 "I need to see Dr. Chen. Now."
 
-"Sir, if you'll just waitâ€”"
+"Sir, if you'll just waitâ€?
 
 I kept walking, my enhanced senses tracking her movements as she reached for the phone to call security. I didn't care. Let them call security. Let them call the police. I had questions, and I wasn't leaving until I got answers.
 
@@ -18,7 +18,7 @@ I opened Dr. Chen's office door without knocking.
 
 ---
 
-She was at her desk, reviewing something on her screen. Her heart rate jumped when she saw meâ€”68 to 84 bpm in a fraction of a second. Stress. Surprise. Maybe fear.
+She was at her desk, reviewing something on her screen. Her heart rate jumped when she saw meâ€?8 to 84 bpm in a fraction of a second. Stress. Surprise. Maybe fear.
 
 "Kai." She stood, her professional mask sliding into place. "This is unexpected. Is something wrong?"
 
@@ -28,11 +28,11 @@ Dr. Chen's eyes flickered to her screen, then back to me. I could see the calcul
 
 "I found the study. The longitudinal one. The one that shows the emotional blunting is permanent." I placed my hands on her desk, leaning forward. "You knew. All of you knew. And you didn't tell me."
 
-Her heart rate climbed higherâ€”92 bpm now. But her voice remained calm. "Kai, I understand you're upsetâ€”"
+Her heart rate climbed higherâ€?2 bpm now. But her voice remained calm. "Kai, I understand you're upsetâ€?
 
 "Upset?" I almost laughed. "I can't be upset. That's the problem. I can't be anything. You took away my ability to feel, and you didn't even have the decency to warn me."
 
-"The consent forms outlined the potential side effectsâ€”"
+"The consent forms outlined the potential side effectsâ€?
 
 "The consent forms mentioned 'temporary emotional adjustment.' They didn't mention permanent blunting. They didn't mention losing 60% of my emotional capacity. They didn't mention that I would never feel music again."
 
@@ -90,7 +90,7 @@ But I hadn't. I couldn't. The hollow where my emotions used to be was a wound th
 
 "Dr. Chen," I said quietly, "is there a way to reverse it?"
 
-Her heart rate spikedâ€”98 bpm, the highest I had heard from her. Her face remained calm, but her body betrayed her.
+Her heart rate spikedâ€?8 bpm, the highest I had heard from her. Her face remained calm, but her body betrayed her.
 
 "Reverse it?"
 
@@ -116,7 +116,7 @@ Dr. Chen was quiet for a long moment. Then she sat down slowly, her professional
 
 "I was ordinary before. And I was happy." I turned toward the door. "I'd rather be ordinary and feel something than be enhanced and feel nothing."
 
-"Kai, waitâ€”"
+"Kai, waitâ€?
 
 But I was already gone, walking out of her office, out of the Institute, into the bright afternoon sun.
 

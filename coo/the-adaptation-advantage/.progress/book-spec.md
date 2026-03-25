@@ -18,7 +18,7 @@
 
 ### 1.2 Core Theme
 - **Primary Theme**: Adaptation, flexibility, embracing change
-- **Mao Thought Mapping**: 辩证法 (Dialectics) - Understanding that change is constant and adaptation is strength
+- **Mao Thought Mapping**: 辩证�?(Dialectics) - Understanding that change is constant and adaptation is strength
 - **Philosophical Angle**: The principle that rigidity leads to breaking, while flexibility leads to survival and growth
 
 ### 1.3 Target Keywords

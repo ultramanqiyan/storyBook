@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Resolution, open ending for future
-- **Emotional Arc**: Reflection â†’ Hope â†’ Promise
+- **Emotional Arc**: Reflection â†?Hope â†?Promise
 - **Relation to Overall Story**: Show the lasting impact of ARIA's legacy
 
 ## Core Events

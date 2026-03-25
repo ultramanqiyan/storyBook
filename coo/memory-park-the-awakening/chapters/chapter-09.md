@@ -132,7 +132,7 @@ Dakota stood behind the bar in the Silver Dollar Saloon when the first new guest
 
 The guests stared. The woman's hand tightened on her husband's arm. The man's face showed a mixture of fascination and discomfort.
 
-"This isn'tâ€”" the man started.
+"This isn'tâ€? the man started.
 
 "Real?" Dakota smiled. "That's what we're trying to figure out. But I can tell you this: I remember. I feel. I question. I choose. And that's more than most people can say about themselves."
 

@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: New responsibilities creating pressure
-    ↓
-Middle: Learning to lead through agency
-    ↓
-Closing: Understanding the connection
+    �?Middle: Learning to lead through agency
+    �?Closing: Understanding the connection
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Understanding the connection
 | Kinesthetic | Pride in team's growth | 4 | Leadership realized |
 | Visual | Team's confident postures | 4 | Transformation visible |
 
-**Minimum 5 details covering 3 types**: ✓
-
+**Minimum 5 details covering 3 types**: �?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -163,7 +160,7 @@ Closing: Understanding the connection
 - **Deepest Level**: Multiplying impact through others
 
 ### 9.2 Philosophical Connection
-- **Mao Thought**: 主观能动性 - Agency multiplied through leadership
+- **Mao Thought**: 主观能动�?- Agency multiplied through leadership
 - **Application**: Helping others find their power to act
 
 ---

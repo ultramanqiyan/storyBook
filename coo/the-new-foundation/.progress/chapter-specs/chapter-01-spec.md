@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Casey reflecting on multiple life transitions
-    â†“
-Middle: Recognition of lessons learned
-    â†“
-Closing: Awareness that something is missing
+    â†?Middle: Recognition of lessons learned
+    â†?Closing: Awareness that something is missing
 ```
 
 ### 2.2 Emotional Depth Design
@@ -131,8 +129,7 @@ Closing: Awareness that something is missing
 | Visual | Notes scattered on table | 3 | Fragmentation visible |
 | Auditory | Quiet afternoon | 4 | Contemplation |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

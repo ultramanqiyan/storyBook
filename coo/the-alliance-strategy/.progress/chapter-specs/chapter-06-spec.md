@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Partnership going well
-    â†“
-Middle: Crisis tests the alliance
-    â†“
-Closing: Trust proven through adversity
+    â†?Middle: Crisis tests the alliance
+    â†?Closing: Trust proven through adversity
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Trust proven through adversity
 | Auditory | Client's relieved voice | 4 | Success, trust proven |
 | Kinesthetic | Tension releasing | 3 | Relief, growing trust |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

@@ -262,7 +262,7 @@ She could report it. She could flag it for review. But without an explanation, w
 **Internal Journey**
 - **Internal Conflict**: Her instincts vs. her inability to explain
 - **Realization/Moment of Clarity**: The AI can be wrong, and she can't fix it
-- **Emotional Change**: Routine â†’ unease â†’ alarm â†’ panic â†’ fear
+- **Emotional Change**: Routine â†?unease â†?alarm â†?panic â†?fear
 - **Psychological Shift**: The crack in her trust, the trap revealed
 
 **Character Growth**
@@ -390,7 +390,7 @@ She could report it. She could flag it for review. But without an explanation, w
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Character has clear internal conflict
 - [ ] Ending matches specified type

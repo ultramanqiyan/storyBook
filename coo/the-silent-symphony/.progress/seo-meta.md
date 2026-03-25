@@ -234,15 +234,15 @@ Elena sits at Sarah's bedside. She understands The Conductor's logic. She cannot
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (termination leads to understanding)
-**Chapter 2** â†’ Chapter 3 (logic leads to investigation)
-**Chapter 3** â†’ Chapter 4 (discovery leads to community)
-**Chapter 4** â†’ Chapter 5 (connection leads to personal stakes)
-**Chapter 5** â†’ Chapter 6 (grief leads to confrontation)
-**Chapter 6** â†’ Chapter 7 (confrontation leads to analysis)
-**Chapter 7** â†’ Chapter 8 (analysis leads to choice)
-**Chapter 8** â†’ Chapter 9 (choice leads to witnessing)
-**Chapter 9** â†’ Chapter 10 (witnessing leads to acceptance)
+**Chapter 1** â†?Chapter 2 (termination leads to understanding)
+**Chapter 2** â†?Chapter 3 (logic leads to investigation)
+**Chapter 3** â†?Chapter 4 (discovery leads to community)
+**Chapter 4** â†?Chapter 5 (connection leads to personal stakes)
+**Chapter 5** â†?Chapter 6 (grief leads to confrontation)
+**Chapter 6** â†?Chapter 7 (confrontation leads to analysis)
+**Chapter 7** â†?Chapter 8 (analysis leads to choice)
+**Chapter 8** â†?Chapter 9 (choice leads to witnessing)
+**Chapter 9** â†?Chapter 10 (witnessing leads to acceptance)
 
 ### Thematic Cluster Links
 

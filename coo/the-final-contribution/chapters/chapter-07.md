@@ -84,7 +84,7 @@ Robert felt his chest tighten. "Janet, I'm so sorry."
 
 Robert nodded. He didn't trust himself to speak.
 
-"I'm sixty-two years old," Janet continued. "I have a mortgage. I have a daughter in graduate school. I haveâ€”" Her voice cracked. "I have three years until retirement. Three years. And now I have nothing."
+"I'm sixty-two years old," Janet continued. "I have a mortgage. I have a daughter in graduate school. I haveâ€? Her voice cracked. "I have three years until retirement. Three years. And now I have nothing."
 
 "You have us," Robert said. "You have me. Whatever happens, you have friends."
 

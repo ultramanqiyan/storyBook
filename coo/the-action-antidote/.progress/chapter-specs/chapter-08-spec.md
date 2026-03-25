@@ -175,7 +175,7 @@ Intensity
 | 2 | Home office | Sarah | 400 | Working well | Confident |
 | 3 | Home office | Sarah, manager (video) | 500 | The setback | Shocked |
 | 4 | Home | Sarah | 300 | Processing | Disappointed |
-| 5 | Garden | Sarah, Elena | 500 | Learning | Vulnerable â†’ wise |
+| 5 | Garden | Sarah, Elena | 500 | Learning | Vulnerable â†?wise |
 | 6 | Home | Sarah | 200 | Acceptance | Accepting |
 
 ### 4.2 Scene Specifications
@@ -240,7 +240,7 @@ The meeting ended. She had her assignments. She was doing this.
 **Emotional Beat**
 - **Position on Curve**: 15-55%
 - **Primary Emotion**: Confidence
-- **Intensity**: 65 â†’ 70
+- **Intensity**: 65 â†?70
 - **Three Layers**:
   - Surface: Working, creating, flowing
   - Internal: *This is working. I'm doing it.*
@@ -276,7 +276,7 @@ Wednesday afternoon, she sent her first major deliverable. The response was posi
 **Emotional Beat**
 - **Position on Curve**: 55-70%
 - **Primary Emotion**: Shock to disappointment
-- **Intensity**: 70 â†’ 80
+- **Intensity**: 70 â†?80
 - **Three Layers**:
   - Surface: Listening, nodding, trying to understand
   - Internal: *No. This can't be happening. I tried so hard.*
@@ -312,7 +312,7 @@ The call ended. Sarah sat staring at her blank screen. She'd tried so hard. And 
 **Emotional Beat**
 - **Position on Curve**: 70-85%
 - **Primary Emotion**: Disappointment
-- **Intensity**: 70 â†’ 65
+- **Intensity**: 70 â†?65
 - **Three Layers**:
   - Surface: Sitting, processing, almost retreating
   - Internal: *I knew this would happen. I should have stayed safe.*
@@ -349,7 +349,7 @@ Tomorrow was Saturday. Garden day. She'd go. She'd talk to Elena. Maybe there wa
 **Emotional Beat**
 - **Position on Curve**: 85-100%
 - **Primary Emotion**: Vulnerability to acceptance
-- **Intensity**: 65 â†’ 50
+- **Intensity**: 65 â†?50
 - **Three Layers**:
   - Surface: Working, talking, listening
   - Internal: *This isn't the end. This is part of it.*
@@ -410,7 +410,7 @@ The project hadn't worked out. But she had tried. And she was still trying. That
 **Internal Journey**
 - **Internal Conflict**: Disappointment vs. resilience
 - **Realization/Moment of Clarity**: Failure isn't the end
-- **Emotional Change**: Anticipation â†’ Confidence â†’ Shock â†’ Disappointment â†’ Learning â†’ Acceptance
+- **Emotional Change**: Anticipation â†?Confidence â†?Shock â†?Disappointment â†?Learning â†?Acceptance
 - **Psychological Shift**: Understanding that setbacks are part of growth
 
 **Character Growth**
@@ -421,7 +421,7 @@ The project hadn't worked out. But she had tried. And she was still trying. That
 **Key Decision**
 - **Decision**: To continue despite setback
 - **Options Considered**: Retreat, continue
-- **Decision Process**: Disappointment â†’ Support â†’ Wisdom â†’ Acceptance
+- **Decision Process**: Disappointment â†?Support â†?Wisdom â†?Acceptance
 - **Consequences Accepted**: Growth, resilience, continued action
 
 ---
@@ -433,7 +433,7 @@ The project hadn't worked out. But she had tried. And she was still trying. That
 | Segment | Speakers | Subtext | Emotional State | Power Dynamic | Forbidden Phrases |
 |---------|----------|---------|-----------------|---------------|-------------------|
 | 1 | Sarah, manager | Difficult news | Shocked | Manager-employee | None |
-| 2 | Sarah, Elena | Wisdom, support | Vulnerable â†’ learning | Mentor-mentee | Direct emotion statements |
+| 2 | Sarah, Elena | Wisdom, support | Vulnerable â†?learning | Mentor-mentee | Direct emotion statements |
 
 ### 6.2 Dialogue Segment Specifications
 
@@ -519,8 +519,7 @@ The project hadn't worked out. But she had tried. And she was still trying. That
 | Internal | Clarity emerging | 5 | End | Learning | [x] |
 | Internal | Acceptance | 6 | Throughout | Growth | [x] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Distribution
 - **Visual**: 5 details
 - **Auditory**: 4 details
@@ -610,7 +609,7 @@ She went home and added Elena's words to her collection: "You fell forward. That
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

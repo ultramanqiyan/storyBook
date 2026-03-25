@@ -16,7 +16,7 @@ They reached the living room, and there he was. Buddy. The golden retriever from
 
 "Hello," the dog said.
 
-Angela stopped. The voice was warm, slightly synthetic, but somehow... present. "Did he justâ€”"
+Angela stopped. The voice was warm, slightly synthetic, but somehow... present. "Did he justâ€?
 
 "Talk? Yes," Robert said. "He's an AI companion. Model K-9, one of the first designed for elderly people living alone. He has limited speech capabilities, but he can communicate."
 

@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Warm, Family-focused, Questioning, Acceptance, Peace
-- **Emotional Arc**: Comfortable routine â†’ Crisis â†’ Questioning â†’ Understanding â†’ Acceptance
+- **Emotional Arc**: Comfortable routine â†?Crisis â†?Questioning â†?Understanding â†?Acceptance
 - **Emotional Pacing**: Warm beginning, crisis, philosophical deepening, contemplative resolution
 
 ## Character Voices
@@ -106,16 +106,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Comfort (85/100) | Love (90/100) | Twin relationship â†’ Deep bond |
-| 2 | Love (85/100) | Shock (50/100) | Diagnosis â†’ Crisis |
-| 3 | Shock (45/100) | Concern (55/100) | Upload option â†’ Questions |
-| 4 | Concern (50/100) | Support (70/100) | Decision â†’ Backing choice |
-| 5 | Support (65/100) | Uncertainty (50/100) | Upload â†’ Ambivalence |
-| 6 | Uncertainty (45/100) | Confusion (40/100) | Two Elenas â†’ Identity crisis |
-| 7 | Confusion (35/100) | Questioning (45/100) | Questioning â†’ Philosophical |
-| 8 | Questioning (40/100) | Understanding (60/100) | Testing â†’ Acceptance |
-| 9 | Understanding (55/100) | Peace (70/100) | Complexity â†’ New framework |
-| 10 | Peace (65/100) | Acceptance (80/100) | Choice made â†’ Resolution |
+| 1 | Comfort (85/100) | Love (90/100) | Twin relationship â†?Deep bond |
+| 2 | Love (85/100) | Shock (50/100) | Diagnosis â†?Crisis |
+| 3 | Shock (45/100) | Concern (55/100) | Upload option â†?Questions |
+| 4 | Concern (50/100) | Support (70/100) | Decision â†?Backing choice |
+| 5 | Support (65/100) | Uncertainty (50/100) | Upload â†?Ambivalence |
+| 6 | Uncertainty (45/100) | Confusion (40/100) | Two Elenas â†?Identity crisis |
+| 7 | Confusion (35/100) | Questioning (45/100) | Questioning â†?Philosophical |
+| 8 | Questioning (40/100) | Understanding (60/100) | Testing â†?Acceptance |
+| 9 | Understanding (55/100) | Peace (70/100) | Complexity â†?New framework |
+| 10 | Peace (65/100) | Acceptance (80/100) | Choice made â†?Resolution |
 
 ## Prohibited Elements
 

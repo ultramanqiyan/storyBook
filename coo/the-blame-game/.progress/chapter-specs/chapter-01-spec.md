@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: The incident occurs, losses exposed, emergency meeting called
-- **Emotional Arc**: Calm â†’ Shock â†’ Panic
+- **Emotional Arc**: Calm â†?Shock â†?Panic
 - **Relationship to Overall Story**: Establish crisis background, show Mark's daily work
 
 ## Core Events

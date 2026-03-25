@@ -88,11 +88,11 @@
 ### 3.1 Event Summary
 | # | Event | Location | Characters | Emotional Impact | Plot Function |
 |---|-------|----------|------------|------------------|---------------|
-| 1 | Rosa arrives at theater | Carroll Gardens Community Theater | Rosa | Contentment â†’ Pride | Establish character and setting |
-| 2 | Rosa teaches master class | Theater stage | Rosa, students | Pride â†’ Satisfaction | Show expertise and philosophy |
-| 3 | David approaches after class | Theater lobby | Rosa, David | Curiosity â†’ Intrigue | Inciting incident |
-| 4 | David explains AI project | Theater lobby | Rosa, David | Intrigue â†’ Uncertainty | Introduce central conflict |
-| 5 | Rosa agrees to meeting | Theater entrance | Rosa, David | Uncertainty â†’ Curiosity | Set up next chapter |
+| 1 | Rosa arrives at theater | Carroll Gardens Community Theater | Rosa | Contentment â†?Pride | Establish character and setting |
+| 2 | Rosa teaches master class | Theater stage | Rosa, students | Pride â†?Satisfaction | Show expertise and philosophy |
+| 3 | David approaches after class | Theater lobby | Rosa, David | Curiosity â†?Intrigue | Inciting incident |
+| 4 | David explains AI project | Theater lobby | Rosa, David | Intrigue â†?Uncertainty | Introduce central conflict |
+| 5 | Rosa agrees to meeting | Theater entrance | Rosa, David | Uncertainty â†?Curiosity | Set up next chapter |
 
 ### 3.2 Event Descriptions
 
@@ -138,7 +138,7 @@
 ### 4.1 Scene List
 | Scene | Location | Characters | Word Count | Purpose | Emotional Tone |
 |-------|----------|------------|------------|---------|----------------|
-| 1 | Brooklyn streets â†’ Theater | Rosa | 800 | Establish character and setting | Warm, contented |
+| 1 | Brooklyn streets â†?Theater | Rosa | 800 | Establish character and setting | Warm, contented |
 | 2 | Theater stage | Rosa, students (3) | 1,800 | Show expertise and philosophy | Proud, engaged |
 | 3 | Theater lobby | Rosa, David | 1,500 | Inciting incident | Curious, intrigued |
 | 4 | Theater entrance | Rosa, David | 400 | Set up next chapter | Uncertain, curious |
@@ -148,7 +148,7 @@
 #### Scene 1: The Walk to Theater
 
 **Basic Information**
-- **Location**: Brooklyn streets (Carroll Gardens) â†’ Carroll Gardens Community Theater
+- **Location**: Brooklyn streets (Carroll Gardens) â†?Carroll Gardens Community Theater
 - **Time**: Saturday morning, 9:30 AM
 - **Characters Present**: Rosa, various neighbors (background)
 - **Atmosphere**: Warm, familiar, comfortable
@@ -281,7 +281,7 @@ She pushed open the theater's heavy door, and the familiar smell washed over her
 **Internal Journey**
 - **Internal Conflict**: Her skepticism about technology vs. her curiosity about new challenges
 - **Realization/Moment of Clarity**: She's curious despite herself
-- **Emotional Change**: Contentment â†’ Curiosity â†’ Uncertainty
+- **Emotional Change**: Contentment â†?Curiosity â†?Uncertainty
 - **Psychological Shift**: Opens herself to a new experience
 
 **Character Growth**
@@ -504,7 +504,7 @@ Rosa Moretti walked the sixteen blocks from her brownstone to the Carroll Garden
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

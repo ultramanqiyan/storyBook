@@ -30,7 +30,7 @@ When she finally got up, she felt lighter. Not because she'd accomplished anythi
 
 ---
 
-Over the next few days, the practice deepened. She noticed more momentsâ€” the pause before responding to an email, the breath between meetings, the space between tasks. Not big moments. Not dramatic moments. Just small pauses where she let herself be.
+Over the next few days, the practice deepened. She noticed more momentsâ€?the pause before responding to an email, the breath between meetings, the space between tasks. Not big moments. Not dramatic moments. Just small pauses where she let herself be.
 
 Day one: three moments of noticing. Day two: seven. Day three: she lost count. Not because there were too many, but because she stopped counting.
 

@@ -18,7 +18,7 @@
 
 ### 1.2 Core Theme
 - **Primary Theme**: Main contradiction, prioritization, focus on what matters
-- **Mao Thought Mapping**: 矛盾论 (Contradiction) - Finding the main contradiction and focusing efforts there
+- **Mao Thought Mapping**: 矛盾�?(Contradiction) - Finding the main contradiction and focusing efforts there
 - **Philosophical Angle**: The principle that progress comes from identifying and addressing the primary challenge, not trying to solve everything at once
 
 ### 1.3 Target Keywords

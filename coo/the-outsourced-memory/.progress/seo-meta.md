@@ -248,15 +248,15 @@ Mike walks into a house without checking HomeMatch first. A small step toward re
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (expertise vs efficiency)
-**Chapter 2** â†’ Chapter 3 (acceptance leads to use)
-**Chapter 3** â†’ Chapter 4 (convenience leads to gap)
-**Chapter 4** â†’ Chapter 5 (unease ignored)
-**Chapter 5** â†’ Chapter 6 (peak dependency)
-**Chapter 6** â†’ Chapter 7 (crisis forces confrontation)
-**Chapter 7** â†’ Chapter 8 (recovery reveals deeper problem)
-**Chapter 8** â†’ Chapter 9 (existential crisis leads to reflection)
-**Chapter 9** â†’ Chapter 10 (reflection leads to action)
+**Chapter 1** â†?Chapter 2 (expertise vs efficiency)
+**Chapter 2** â†?Chapter 3 (acceptance leads to use)
+**Chapter 3** â†?Chapter 4 (convenience leads to gap)
+**Chapter 4** â†?Chapter 5 (unease ignored)
+**Chapter 5** â†?Chapter 6 (peak dependency)
+**Chapter 6** â†?Chapter 7 (crisis forces confrontation)
+**Chapter 7** â†?Chapter 8 (recovery reveals deeper problem)
+**Chapter 8** â†?Chapter 9 (existential crisis leads to reflection)
+**Chapter 9** â†?Chapter 10 (reflection leads to action)
 
 ### Thematic Cluster Links
 

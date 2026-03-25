@@ -225,16 +225,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 9.2 Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Peace (70/100) | Unease (50/100) | Silent river â†’ First fear |
-| 2 | Unease (55/100) | Panic (35/100) | First memory lost â†’ Desperation |
-| 3 | Panic (40/100) | Determination (60/100) | Investigation begins â†’ Resolve |
-| 4 | Curiosity (65/100) | Understanding (75/100) | History revealed â†’ Connection seen |
-| 5 | Understanding (70/100) | Fear (45/100) | Connection confirmed â†’ Dread |
-| 6 | Fear (50/100) | Urgency (70/100) | Warning signs â†’ Race against time |
-| 7 | Urgency (75/100) | Horror (30/100) | Truth revealed â†’ Devastation |
-| 8 | Horror (35/100) | Conflict (80/100) | Impossible choice â†’ Crisis |
-| 9 | Conflict (85/100) | Resolve (90/100) | Sacrifice made â†’ Purpose |
-| 10 | Resolve (85/100) | Peace (60/100) | What remains â†’ Acceptance |
+| 1 | Peace (70/100) | Unease (50/100) | Silent river â†?First fear |
+| 2 | Unease (55/100) | Panic (35/100) | First memory lost â†?Desperation |
+| 3 | Panic (40/100) | Determination (60/100) | Investigation begins â†?Resolve |
+| 4 | Curiosity (65/100) | Understanding (75/100) | History revealed â†?Connection seen |
+| 5 | Understanding (70/100) | Fear (45/100) | Connection confirmed â†?Dread |
+| 6 | Fear (50/100) | Urgency (70/100) | Warning signs â†?Race against time |
+| 7 | Urgency (75/100) | Horror (30/100) | Truth revealed â†?Devastation |
+| 8 | Horror (35/100) | Conflict (80/100) | Impossible choice â†?Crisis |
+| 9 | Conflict (85/100) | Resolve (90/100) | Sacrifice made â†?Purpose |
+| 10 | Resolve (85/100) | Peace (60/100) | What remains â†?Acceptance |
 
 ---
 
@@ -284,16 +284,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 11.1 Chapter Summary Table
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | The Silence - When the River Stopped Singing | Introduce Elena and the silent river | Peace (70â†’50) | River falls silent |
-| 02 | The Forgetting - First Memories Lost | Elena loses first memory | Unease (55â†’35) | Can't remember her mother's face |
-| 03 | The Investigation - Searching for Answers | Elena begins investigating | Panic (40â†’60) | Discovers others are forgetting too |
-| 04 | The History - Secrets of the Town | Town's history revealed | Curiosity (65â†’75) | Learns of river's ancient significance |
-| 05 | The Connection - River and Memory | Connection established | Understanding (70â†’45) | Realizes river holds collective memory |
-| 06 | The Warning - Signs Ignored | Warning signs emerge | Fear (50â†’70) | Development threatens the river |
-| 07 | The Truth - What Really Happened | Truth revealed | Urgency (75â†’30) | Industrial pollution causing the silence |
-| 08 | The Choice - Save the River or Save Herself | Impossible choice | Horror (35â†’80) | Must sacrifice herself to save the river |
-| 09 | The Sacrifice - What Must Be Given | Elena makes sacrifice | Conflict (85â†’90) | Gives her memories to restore the river |
-| 10 | The Memory - What Remains | Bittersweet ending | Resolve (85â†’60) | River flows again, Elena remembers nothing |
+| 01 | The Silence - When the River Stopped Singing | Introduce Elena and the silent river | Peace (70â†?0) | River falls silent |
+| 02 | The Forgetting - First Memories Lost | Elena loses first memory | Unease (55â†?5) | Can't remember her mother's face |
+| 03 | The Investigation - Searching for Answers | Elena begins investigating | Panic (40â†?0) | Discovers others are forgetting too |
+| 04 | The History - Secrets of the Town | Town's history revealed | Curiosity (65â†?5) | Learns of river's ancient significance |
+| 05 | The Connection - River and Memory | Connection established | Understanding (70â†?5) | Realizes river holds collective memory |
+| 06 | The Warning - Signs Ignored | Warning signs emerge | Fear (50â†?0) | Development threatens the river |
+| 07 | The Truth - What Really Happened | Truth revealed | Urgency (75â†?0) | Industrial pollution causing the silence |
+| 08 | The Choice - Save the River or Save Herself | Impossible choice | Horror (35â†?0) | Must sacrifice herself to save the river |
+| 09 | The Sacrifice - What Must Be Given | Elena makes sacrifice | Conflict (85â†?0) | Gives her memories to restore the river |
+| 10 | The Memory - What Remains | Bittersweet ending | Resolve (85â†?0) | River flows again, Elena remembers nothing |
 
 ---
 
@@ -329,7 +329,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰¥10 details, â‰¥5 types | Checklist count |
+| Sensory Detail Count | â‰?0 details, â‰? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 | Chapter Connection | Natural flow from/to adjacent | Transition review |

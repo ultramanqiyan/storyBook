@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Company announces new layoffs, but Marcus isn't on the list; he begins working with AI instead of against it
-- **Emotional Arc**: Tension â†’ Relief â†’ New understanding
+- **Emotional Arc**: Tension â†?Relief â†?New understanding
 - **Relation to Overall Story**: External threat resurfaces, but Marcus faces it differently
 
 ## Core Events

@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Attempting to implement synthesis
-    â†“
-Middle: Strong resistance, rationalization
-    â†“
-Closing: Acknowledgment of fear
+    â†?Middle: Strong resistance, rationalization
+    â†?Closing: Acknowledgment of fear
 ```
 
 ### 2.2 Emotional Depth Design
@@ -137,8 +135,7 @@ Closing: Acknowledgment of fear
 | Auditory | Own voice admitting fear | 4 | Truth, vulnerability |
 | Kinesthetic | Tension releasing | 4 | Relief, recognition |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

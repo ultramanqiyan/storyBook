@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Marcus's role evolves, he redefines his value, open ending with hope but uncertainty
-- **Emotional Arc**: Acceptance â†’ New direction â†’ Open future
+- **Emotional Arc**: Acceptance â†?New direction â†?Open future
 - **Relation to Overall Story**: Resolution of internal crisis, but external uncertainty remains
 
 ## Core Events

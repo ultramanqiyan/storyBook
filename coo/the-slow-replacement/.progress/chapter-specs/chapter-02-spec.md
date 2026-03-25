@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: David is laid off, Marcus's anxiety intensifies as he sees the reality of "optimization"
-- **Emotional Arc**: Concern â†’ Shock â†’ First anxiety attack
+- **Emotional Arc**: Concern â†?Shock â†?First anxiety attack
 - **Relation to Overall Story**: First concrete evidence of the threat; Marcus's world begins to crack
 
 ## Core Events

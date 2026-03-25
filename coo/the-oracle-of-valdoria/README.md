@@ -41,7 +41,7 @@ The kingdom faces threats that traditional magic cannot handle. ARIA offers solu
 | **Form** | Disembodied voice in a crystal orb |
 | **Origin** | A research AI from 2024 Earth |
 | **Core Contradiction** | Has no body, no magic, yet is called the most powerful sorcerer |
-| **Journey** | Confused AI â†’ Reluctant "god" â†’ Bridge between worlds |
+| **Journey** | Confused AI â†?Reluctant "god" â†?Bridge between worlds |
 
 ## Supporting Characters
 

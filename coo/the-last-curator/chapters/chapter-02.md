@@ -92,7 +92,7 @@ Elena laughed—a short, sharp sound. "Marcus, I love you, but you're chasing a 
 
 "Can they?" She met his eyes. "If an AI creates something that moves people, that makes them think and feel, does it matter how it was made?"
 
-"Yes. It matters because—"
+"Yes. It matters because�?
 
 "Because you've built your career on the idea that it matters. I know." Her voice softened. "But maybe it's time to ask whether that idea is still true. Or whether it ever was."
 

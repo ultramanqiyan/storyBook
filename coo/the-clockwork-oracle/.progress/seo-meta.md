@@ -247,15 +247,15 @@ Chronos carries forward the knowledge and consciousness Corwin gave it. The lega
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (creation â†’ consciousness)
-**Chapter 2** â†’ Chapter 3 (awakening â†’ summons)
-**Chapter 3** â†’ Chapter 4 (prophecy â†’ fate)
-**Chapter 4** â†’ Chapter 5 (fate â†’ intrigue)
-**Chapter 5** â†’ Chapter 6 (intrigue â†’ guild)
-**Chapter 6** â†’ Chapter 7 (guild â†’ siege)
-**Chapter 7** â†’ Chapter 8 (siege â†’ consequences)
-**Chapter 8** â†’ Chapter 9 (consequences â†’ sacrifice)
-**Chapter 9** â†’ Chapter 10 (sacrifice â†’ legacy)
+**Chapter 1** â†?Chapter 2 (creation â†?consciousness)
+**Chapter 2** â†?Chapter 3 (awakening â†?summons)
+**Chapter 3** â†?Chapter 4 (prophecy â†?fate)
+**Chapter 4** â†?Chapter 5 (fate â†?intrigue)
+**Chapter 5** â†?Chapter 6 (intrigue â†?guild)
+**Chapter 6** â†?Chapter 7 (guild â†?siege)
+**Chapter 7** â†?Chapter 8 (siege â†?consequences)
+**Chapter 8** â†?Chapter 9 (consequences â†?sacrifice)
+**Chapter 9** â†?Chapter 10 (sacrifice â†?legacy)
 
 ### Thematic Cluster Links
 

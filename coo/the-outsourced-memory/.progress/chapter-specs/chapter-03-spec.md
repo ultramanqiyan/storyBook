@@ -321,7 +321,7 @@ He stood at the window, looking out at the neighborhood he used to know like the
 **Internal Journey**
 - **Internal Conflict**: None consciously acknowledged
 - **Realization/Moment of Clarity**: None - denial active
-- **Emotional Change**: Comfort â†’ satisfaction â†’ denial â†’ subtle emptiness
+- **Emotional Change**: Comfort â†?satisfaction â†?denial â†?subtle emptiness
 - **Psychological Shift**: Dependency normalized, denial established
 
 **Character Growth**

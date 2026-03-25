@@ -79,7 +79,7 @@ They fell through the Rift together, Lyra's hand in Elara's, the Hollow King's s
 ## 6. Quality Verification Checklist
 
 - [ ] Emotional curve matches specification
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] The choice is genuinely difficult
 

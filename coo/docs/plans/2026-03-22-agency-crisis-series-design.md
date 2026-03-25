@@ -23,15 +23,11 @@
 ### 1.3 Philosophical Questions Chain
 
 ```
-Book 1: Memory Outsourced â†’ Is thinking = pattern recognition?
-    â†“
-Book 2: Understanding Outsourced â†’ Is understanding = knowing the answer?
-    â†“
-Book 3: Expression Outsourced â†’ Is self = behavior pattern?
-    â†“
-Book 4: Relationship Outsourced â†’ Is care = remember + respond?
-    â†“
-Book 5: Meaning Outsourced â†’ Does meaning come from purpose fulfillment or purpose setting?
+Book 1: Memory Outsourced â†?Is thinking = pattern recognition?
+    â†?Book 2: Understanding Outsourced â†?Is understanding = knowing the answer?
+    â†?Book 3: Expression Outsourced â†?Is self = behavior pattern?
+    â†?Book 4: Relationship Outsourced â†?Is care = remember + respond?
+    â†?Book 5: Meaning Outsourced â†?Does meaning come from purpose fulfillment or purpose setting?
 ```
 
 ---
@@ -147,7 +143,7 @@ Verify each chapter against quality standards.
 
 ### 7.1 Quality Metrics
 - AI writing trace detection: 0 template phrases
-- Sensory detail count: â‰¥5 per chapter, â‰¥3 types
+- Sensory detail count: â‰? per chapter, â‰? types
 - Emotional depth: All 3 layers present
 - Word count: 3,000-6,000 words per chapter
 

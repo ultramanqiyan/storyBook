@@ -249,8 +249,8 @@ These phrases and patterns must be completely eliminated:
 ### 10.2 Chapter Connection Map
 ```
 [Visual representation of how chapters connect]
-Chapter 1 â†’ Chapter 2: [Connection type]
-Chapter 2 â†’ Chapter 3: [Connection type]
+Chapter 1 â†?Chapter 2: [Connection type]
+Chapter 2 â†?Chapter 3: [Connection type]
 ...
 ```
 
@@ -293,7 +293,7 @@ Each chapter must pass:
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰¥5 details, â‰¥3 types | Checklist count |
+| Sensory Detail Count | â‰? details, â‰? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 | Narrative Style | Matches book definition | Style consistency check |

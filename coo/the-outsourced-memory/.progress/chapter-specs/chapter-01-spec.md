@@ -321,7 +321,7 @@ He pulled into his driveway and sat for a moment, the engine off, the silence pr
 **Internal Journey**
 - **Internal Conflict**: Pride in embodied knowledge vs. curiosity about AI efficiency
 - **Realization/Moment of Clarity**: AI can make accurate predictions without "feeling"
-- **Emotional Change**: Confidence â†’ curiosity â†’ skepticism â†’ unease
+- **Emotional Change**: Confidence â†?curiosity â†?skepticism â†?unease
 - **Psychological Shift**: First crack in certainty about his unique value
 
 **Character Growth**
@@ -603,7 +603,7 @@ He pulled into his driveway and sat for a moment, the engine off, the silence pr
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

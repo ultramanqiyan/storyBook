@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Demonstrate ARIA's expanding influence, introduce ethical dilemma
-- **Emotional Arc**: Excitement â†’ Confusion â†’ Worry
+- **Emotional Arc**: Excitement â†?Confusion â†?Worry
 - **Relation to Overall Story**: Show the cost of convenience
 
 ## Core Events

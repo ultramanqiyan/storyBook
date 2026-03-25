@@ -152,8 +152,8 @@ Intensity
 | Scene | Location | Characters | Word Count | Purpose | Emotional Tone |
 |-------|----------|------------|------------|---------|----------------|
 | 1 | Outside/Waiting room | Sarah | 400 | Arrival | Anxiety |
-| 2 | Dr. Lin's office | Sarah, Dr. Lin | 1400 | The conversation | Disarmed â†’ Curious |
-| 3 | Outside | Sarah | 700 | Departure | Uncertainty â†’ Hope |
+| 2 | Dr. Lin's office | Sarah, Dr. Lin | 1400 | The conversation | Disarmed â†?Curious |
+| 3 | Outside | Sarah | 700 | Departure | Uncertainty â†?Hope |
 
 ### 4.2 Scene Specifications
 
@@ -338,8 +338,7 @@ She pulled out her phone. AUGUST had sent twelve notifications. For once, she di
 | Internal | *Why isn't she fixing me?* | 2 | Frustration |
 | Internal | *Maybe...* | 3 | Opening |
 
-**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ“
-
+**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -383,7 +382,7 @@ She walked to her car, phone still in her pocket, Dr. Lin's words echoing in her
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Word count within target range
 - [ ] Three-layer emotional depth present

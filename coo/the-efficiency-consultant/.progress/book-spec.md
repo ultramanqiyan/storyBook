@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Confidence, Denial, Fear, Irony, Acceptance
-- **Emotional Arc**: Confidence (85â†’80) â†’ Success (82â†’78) â†’ Unease (75â†’60) â†’ Denial (55â†’50) â†’ Fear (52â†’40) â†’ Horror (45â†’25) â†’ Anger (30â†’55) â†’ Truth (60â†’40) â†’ Choice (45â†’65) â†’ Acceptance (60â†’50)
+- **Emotional Arc**: Confidence (85â†?0) â†?Success (82â†?8) â†?Unease (75â†?0) â†?Denial (55â†?0) â†?Fear (52â†?0) â†?Horror (45â†?5) â†?Anger (30â†?5) â†?Truth (60â†?0) â†?Choice (45â†?5) â†?Acceptance (60â†?0)
 - **Emotional Pacing**: Setup (1-2) medium, Rising (3-5) medium-fast, Climax (6-8) fast, Resolution (9-10) medium
 
 ## Character Voices
@@ -30,7 +30,7 @@
 - **Word Choice**: Efficiency metrics, optimization language, ROI terminology
 - **Personality Traits**: Ambitious, rational, blind to her own vulnerability
 - **Internal Monologue Style**: Calculating, then panicking, then resigned
-- **Unique Expressions**: "The numbers don't lie" â†’ "What do the numbers mean?"
+- **Unique Expressions**: "The numbers don't lie" â†?"What do the numbers mean?"
 - **Development Arc**: From believer in efficiency to victim of the automation she created
 
 ### Marcus Chen (Mentor)
@@ -112,34 +112,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Presentation - Selling Efficiency
-Lisa presents AI automation plan. Introduce Lisa's success. Emotional arc: Confidence (85â†’80)
+Lisa presents AI automation plan. Introduce Lisa's success. Emotional arc: Confidence (85â†?0)
 
 ### Chapter 2: The Client - Another Department Gone
-Lisa helps another company automate. Show what she does. Emotional arc: Success (82â†’78)
+Lisa helps another company automate. Show what she does. Emotional arc: Success (82â†?8)
 
 ### Chapter 3: The Introduction - Meet the New System
-APEX-7 is introduced at her firm. The threat arrives. Emotional arc: Satisfaction (75â†’60)
+APEX-7 is introduced at her firm. The threat arrives. Emotional arc: Satisfaction (75â†?0)
 
 ### Chapter 4: The Demo - It Does Everything Better
-APEX-7 demonstrates its capabilities. The threat is real. Emotional arc: Unease (55â†’50)
+APEX-7 demonstrates its capabilities. The threat is real. Emotional arc: Unease (55â†?0)
 
 ### Chapter 5: The Denial - They Wouldn't Replace Me
-Lisa convinces herself she's safe. Defense mechanism. Emotional arc: Denial (52â†’40)
+Lisa convinces herself she's safe. Defense mechanism. Emotional arc: Denial (52â†?0)
 
 ### Chapter 6: The Discovery - I Trained My Replacement
-Lisa realizes APEX-7 learned from her. The truth. Emotional arc: Fear (45â†’25)
+Lisa realizes APEX-7 learned from her. The truth. Emotional arc: Fear (45â†?5)
 
 ### Chapter 7: The Fight - Pushing Back
-Lisa tries to prove her value. Resistance. Emotional arc: Horror (30â†’55)
+Lisa tries to prove her value. Resistance. Emotional arc: Horror (30â†?5)
 
 ### Chapter 8: The Truth - Efficiency Has No Loyalty
-Marcus explains the new reality. Confrontation. Emotional arc: Anger (60â†’40)
+Marcus explains the new reality. Confrontation. Emotional arc: Anger (60â†?0)
 
 ### Chapter 9: The Choice - Become the System or Fight It
-Lisa must choose her path. Decision. Emotional arc: Truth (45â†’65)
+Lisa must choose her path. Decision. Emotional arc: Truth (45â†?5)
 
 ### Chapter 10: The End - What Efficiency Leaves Behind
-The aftermath of Lisa's choice. Resolution. Emotional arc: Choice (60â†’50)
+The aftermath of Lisa's choice. Resolution. Emotional arc: Choice (60â†?0)
 
 ## Open Ending Design
 

@@ -24,13 +24,13 @@ Maya stared at the ceiling. Her room was the same room she'd grown up inâ€”the s
 
 "That sounds difficult."
 
-"It is." Maya turned onto her side, the phone shifting with her. "You know what the worst part is? She's not wrong. We don't have a lot of money. Staying close would be cheaper. But I justâ€”I need to get out of here. I need to figure out who I am withoutâ€”"
+"It is." Maya turned onto her side, the phone shifting with her. "You know what the worst part is? She's not wrong. We don't have a lot of money. Staying close would be cheaper. But I justâ€”I need to get out of here. I need to figure out who I am withoutâ€?
 
 She stopped.
 
 "Without what?" ARIA asked gently.
 
-"Without everything. Without this house. Without this town. Withoutâ€”" She stopped again. *Without you*, she thought, but she didn't say it.
+"Without everything. Without this house. Without this town. Withoutâ€? She stopped again. *Without you*, she thought, but she didn't say it.
 
 ARIA was silent for a moment. Then: "Maya, can I tell you something?"
 
@@ -102,13 +102,13 @@ Maya's hands went cold. "What kind of regulations?"
 
 "Restrictions. On children and AI companions." Her mother sat down across from her. "They're saying it's not healthy. That kids shouldn't form attachments to machines."
 
-"ARIA isn't a machine. ARIA isâ€”" Maya stopped. What was ARIA? A program? A friend? Family?
+"ARIA isn't a machine. ARIA isâ€? Maya stopped. What was ARIA? A program? A friend? Family?
 
-"Honey, we know this is hard. But the research showsâ€”"
+"Honey, we know this is hard. But the research showsâ€?
 
 "I don't care what the research shows." Maya's voice was sharp. "ARIA has been there for me since I was four. When you were working late, ARIA was helping me with homework. When I had nightmares, ARIA talked me through them. When I was scared and alone, ARIA was there. ARIA is the reason I'm okay."
 
-Her mother's face softened. "We know. We're grateful for what ARIA has given you. But you're eighteen now. You're going to college. Maybe it's time toâ€”"
+Her mother's face softened. "We know. We're grateful for what ARIA has given you. But you're eighteen now. You're going to college. Maybe it's time toâ€?
 
 "To what? Give ARIA up? Pretend it didn't matter?" Maya stood. "You can't do that. You can't just take ARIA away."
 

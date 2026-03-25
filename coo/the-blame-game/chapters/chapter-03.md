@@ -139,7 +139,7 @@ Mark felt the trap snap shut.
 
 "You asked if we should add another reviewer or expand the test suite," David continued. "I asked leadership, and they said the current process was fine. But you're the technical expert. You could have pushed back. You could have documented your concerns more thoroughly."
 
-"Iâ€”"
+"Iâ€?
 
 "Instead, you continued with the same process. And now we've had an incident."
 

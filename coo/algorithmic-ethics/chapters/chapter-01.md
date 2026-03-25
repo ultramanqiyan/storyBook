@@ -78,10 +78,4 @@ The gardens closed at sunset. Marie locked the gate and walked home through the 
 
 She thought about her mother, about the legacy she'd inherited, about the work that still needed to be done. The gardens were thriving, but they were always at risk—budget cuts, development pressure, changing priorities. Marie fought for them every day, the way her mother had fought before her.
 
-But tonight, she allowed herself a moment of satisfaction. The gardens were good. The community was strong. And she was exactly where she was meant to be.
-
-The evening light turned golden as she walked, casting long shadows across the historic streets of her neighborhood. She passed houses that had been here for generations, families who had lived in New Orleans for centuries. She passed new buildings too, the signs of change that some welcomed and others feared.
-
-Change was coming to the gardens too. She could feel it. But she would face it the way she faced everything—with determination, with community, with hope.
-
-Tomorrow would bring new challenges. But tonight, she was content.
+But tonight, she let herself rest. Tomorrow would bring new challenges, new opportunities to protect what she had built. And she would be ready.

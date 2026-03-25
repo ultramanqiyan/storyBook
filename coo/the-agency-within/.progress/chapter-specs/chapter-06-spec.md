@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Confidence from first success
-    ↓
-Middle: Pushback from others
-    ↓
-Closing: Resilience through resistance
+    �?Middle: Pushback from others
+    �?Closing: Resilience through resistance
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Resilience through resistance
 | Visual | Angela's steady gaze | 4 | Guidance, support |
 | Kinesthetic | Resolve strengthening | 4 | Persistence, growth |
 
-**Minimum 5 details covering 3 types**: ✓
-
+**Minimum 5 details covering 3 types**: �?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -163,7 +160,7 @@ Closing: Resilience through resistance
 - **Deepest Level**: Growth through adversity
 
 ### 9.2 Philosophical Connection
-- **Mao Thought**: 主观能动性 - Agency is tested and strengthened
+- **Mao Thought**: 主观能动�?- Agency is tested and strengthened
 - **Application**: Resistance is part of the process
 
 ---

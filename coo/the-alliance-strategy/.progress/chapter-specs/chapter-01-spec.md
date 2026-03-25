@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Pride in independence
-    â†“
-Middle: Growing awareness of limitations
-    â†“
-Closing: First hint of isolation cost
+    â†?Middle: Growing awareness of limitations
+    â†?Closing: First hint of isolation cost
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: First hint of isolation cost
 | Tactile | Cool evening air | 4 | Reflection, doubt |
 | Visual | Dark office window | 4 | Alone with thoughts |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

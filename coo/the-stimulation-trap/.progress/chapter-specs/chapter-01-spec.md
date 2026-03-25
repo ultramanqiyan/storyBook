@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Showcase Leo's "normal" entertainment life, immersed in AI entertainment
-- **Emotional Arc**: Calm â†’ Satisfied â†’ Subtle emptiness
+- **Emotional Arc**: Calm â†?Satisfied â†?Subtle emptiness
 - **Relationship to Overall Story**: Establish the "normal" baseline, creating contrast for later numbness
 
 ## Core Events

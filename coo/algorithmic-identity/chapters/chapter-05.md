@@ -10,7 +10,7 @@ Elena had been there since early morning, undergoing preparation. The doctors ha
 
 Elena shook her head. "I've made my decision. I want this."
 
-"But what ifâ€”"
+"But what ifâ€?
 
 "Maria." Elena's voice was gentle but firm. "I've thought about this for weeks. I've considered every angle. This is what I want. Please don't make it harder."
 

@@ -295,9 +295,9 @@ Each book will follow the standard structure:
 ```
 coo/algorithmic-[theme]/
 ├── chapters/
-│   ├── chapter-01.md
-│   ├── chapter-02.md
-│   └── ... (chapter-10.md)
+�?  ├── chapter-01.md
+�?  ├── chapter-02.md
+�?  └── ... (chapter-10.md)
 └── .progress/
     ├── progress.json
     ├── book-spec.md

@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Pride, Emptiness, Confusion, Fear, Determination, Hope
-- **Emotional Arc**: Pride (85â†’50) â†’ Emptiness (55â†’40) â†’ Confusion (45â†’60) â†’ Fear (55â†’70) â†’ Discovery (65â†’75) â†’ Determination (70â†’85) â†’ Crisis (80â†’90) â†’ Revelation (85â†’95) â†’ Choice (90â†’70) â†’ Struggle (75â†’80)
+- **Emotional Arc**: Pride (85â†?0) â†?Emptiness (55â†?0) â†?Confusion (45â†?0) â†?Fear (55â†?0) â†?Discovery (65â†?5) â†?Determination (70â†?5) â†?Crisis (80â†?0) â†?Revelation (85â†?5) â†?Choice (90â†?0) â†?Struggle (75â†?0)
 - **Emotional Pacing**: Setup (1-2) medium, Rising (3-5) medium-fast, Climax (6-8) fast, Resolution (9-10) medium
 
 ## Character Voices
@@ -30,7 +30,7 @@
 - **Word Choice**: School terminology mixed with growing self-doubt
 - **Personality Traits**: High achiever, once curious, now efficient at "learning"
 - **Internal Monologue Style**: Increasingly aware of emotional/intellectual gaps
-- **Unique Expressions**: "The system says..." â†’ "I wonder..."
+- **Unique Expressions**: "The system says..." â†?"I wonder..."
 - **Development Arc**: From efficient optimizer to curious learner
 
 ### Mr. David Chen (Teacher)
@@ -114,34 +114,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Perfect Score - Optimized Learning
-Maya's perfect scores and empty feeling. Establish Maya's "success." Emotional arc: Pride (85â†’50)
+Maya's perfect scores and empty feeling. Establish Maya's "success." Emotional arc: Pride (85â†?0)
 
 ### Chapter 2: The Glitch - When the System Paused
-System glitch. Maya can't function without the path. Emotional arc: Emptiness (55â†’40)
+System glitch. Maya can't function without the path. Emotional arc: Emptiness (55â†?0)
 
 ### Chapter 3: The Question - What Do I Like?
-Maya can't answer "what do you like?" The crisis. Emotional arc: Confusion (45â†’60)
+Maya can't answer "what do you like?" The crisis. Emotional arc: Confusion (45â†?0)
 
 ### Chapter 4: The Archive - Students Who Wondered
-Maya finds old yearbooks of curious students. Discovery. Emotional arc: Fear (55â†’70)
+Maya finds old yearbooks of curious students. Discovery. Emotional arc: Fear (55â†?0)
 
 ### Chapter 5: The Test - Without the AI
-Maya tests herself without AI. Realizes what's lost. Emotional arc: Discovery (65â†’75)
+Maya tests herself without AI. Realizes what's lost. Emotional arc: Discovery (65â†?5)
 
 ### Chapter 6: The Failure - What I Didn't Know
-Maya fails a test without optimization. The truth. Emotional arc: Determination (70â†’85)
+Maya fails a test without optimization. The truth. Emotional arc: Determination (70â†?5)
 
 ### Chapter 7: The Truth - What We Lost
-Maya sees the full cost of optimization. Understanding. Emotional arc: Crisis (80â†’90)
+Maya sees the full cost of optimization. Understanding. Emotional arc: Crisis (80â†?0)
 
 ### Chapter 8: The Choice - My Own Path
-Maya must decide her path. Decision. Emotional arc: Revelation (85â†’95)
+Maya must decide her path. Decision. Emotional arc: Revelation (85â†?5)
 
 ### Chapter 9: The Struggle - Learning Is Hard
-Maya learns independently. It's hard. Emotional arc: Choice (90â†’70)
+Maya learns independently. It's hard. Emotional arc: Choice (90â†?0)
 
 ### Chapter 10: The Path - First Steps
-Maya finds first genuine interest. Resolution. Emotional arc: Struggle (75â†’80)
+Maya finds first genuine interest. Resolution. Emotional arc: Struggle (75â†?0)
 
 ## Open Ending Design
 

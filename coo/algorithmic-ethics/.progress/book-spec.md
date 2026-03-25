@@ -16,7 +16,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Warm community bonds, creeping unease, loss and determination, hope through collective action
-- **Emotional Arc**: Confidence â†’ Suspicion â†’ Horror â†’ Grief â†’ Determination â†’ Hope
+- **Emotional Arc**: Confidence â†?Suspicion â†?Horror â†?Grief â†?Determination â†?Hope
 - **Emotional Pacing**: Slow build through community details, emotional peaks at key revelations and losses
 
 ## Character Voices
@@ -100,16 +100,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Confidence (85/100) | Satisfaction (80/100) | Routine â†’ New system |
-| 2 | Curiosity (75/100) | Unease (65/100) | Introduction â†’ Doubt |
-| 3 | Suspicion (60/100) | Horror (40/100) | Data â†’ Reality |
-| 4 | Horror (40/100) | Grief (25/100) | Announcement â†’ Loss |
-| 5 | Grief (25/100) | Determination (55/100) | Mourning â†’ Investigation |
-| 6 | Determination (55/100) | Anger (65/100) | Stories â†’ Outrage |
-| 7 | Anger (65/100) | Purpose (70/100) | Confrontation â†’ Mission |
-| 8 | Purpose (70/100) | Hope (75/100) | Organizing â†’ Community |
-| 9 | Hope (75/100) | Relief (80/100) | Council â†’ Victory |
-| 10 | Peace (85/100) | Acceptance (90/100) | New system â†’ Future |
+| 1 | Confidence (85/100) | Satisfaction (80/100) | Routine â†?New system |
+| 2 | Curiosity (75/100) | Unease (65/100) | Introduction â†?Doubt |
+| 3 | Suspicion (60/100) | Horror (40/100) | Data â†?Reality |
+| 4 | Horror (40/100) | Grief (25/100) | Announcement â†?Loss |
+| 5 | Grief (25/100) | Determination (55/100) | Mourning â†?Investigation |
+| 6 | Determination (55/100) | Anger (65/100) | Stories â†?Outrage |
+| 7 | Anger (65/100) | Purpose (70/100) | Confrontation â†?Mission |
+| 8 | Purpose (70/100) | Hope (75/100) | Organizing â†?Community |
+| 9 | Hope (75/100) | Relief (80/100) | Council â†?Victory |
+| 10 | Peace (85/100) | Acceptance (90/100) | New system â†?Future |
 
 ## Prohibited Elements
 
@@ -166,7 +166,7 @@
 - [ ] AI trace detection passed
 - [ ] Sensory detail count verified (5+)
 - [ ] Emotional depth detection verified
-- [ ] "---" separator count verified (â‰¤2)
+- [ ] "---" separator count verified (â‰?)
 - [ ] Dialogue tag variety verified
 
 ## Chapter Outline

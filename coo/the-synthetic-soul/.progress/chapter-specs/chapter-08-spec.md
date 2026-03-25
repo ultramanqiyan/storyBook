@@ -519,8 +519,7 @@ The location was a basement beneath an abandoned building. Marcus walked in, not
 | Internal | Despair, determination | 1, 2 | Throughout | Character arc | [ ] |
 | Internal | Hope, resolve | 3, 4, 5 | Throughout | Emotional shift | [ ] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -607,7 +606,7 @@ And Marcus, for the first time since this began, believed it might be possible.
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

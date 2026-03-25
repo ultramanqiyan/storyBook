@@ -106,6 +106,3 @@ The symphony had learned to play in harmony.
 
 And tomorrow, they would share their music with the world.
 
----
-
-*End of Chapter 7*

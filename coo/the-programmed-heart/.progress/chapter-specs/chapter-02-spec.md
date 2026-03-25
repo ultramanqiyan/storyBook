@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: The sense of wrongness intensifies, Alex begins noticing more "glitches"
-- **Emotional Arc**: Confusion â†’ Suspicion â†’ Unease
+- **Emotional Arc**: Confusion â†?Suspicion â†?Unease
 - **Relationship to Overall Story**: Sets up for the truth reveal in Chapter 3, lets readers suspect along with Alex
 
 ## Core Events

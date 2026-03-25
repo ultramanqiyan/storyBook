@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Show consequences of decision, introduce deeper conflict
-- **Emotional Arc**: Resolve â†’ Challenge â†’ Fear
+- **Emotional Arc**: Resolve â†?Challenge â†?Fear
 - **Relation to Overall Story**: Demonstrate the stakes of protecting knowledge
 
 ## Core Events

@@ -2,8 +2,7 @@
 
 Jennifer returned on a Monday morning.
 
-David saw her before she saw him—walking through the office with her familiar purposeful stride, nodding to colleagues, checking her phone. For a moment, the old anxiety flared. What would she think of how he'd handled her clients? Would she approve of his decisions? Would she—
-
+David saw her before she saw him—walking through the office with her familiar purposeful stride, nodding to colleagues, checking her phone. For a moment, the old anxiety flared. What would she think of how he'd handled her clients? Would she approve of his decisions? Would she�?
 He stopped himself.
 
 *That's the old pattern. I don't need her approval anymore. I've proven that to myself.*

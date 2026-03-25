@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Develop Maya and Codex's relationship, introduce external interest
-- **Emotional Arc**: Curiosity â†’ Amazement â†’ Concern
+- **Emotional Arc**: Curiosity â†?Amazement â†?Concern
 - **Relation to Overall Story**: Show Codex's capabilities and attract attention
 
 ## Core Events

@@ -356,7 +356,7 @@ She had done it. Not perfectly, not easily, but she had diagnosed a complex case
 **Internal Journey**
 - **Internal Conflict**: Fear vs. determination
 - **Realization/Moment of Clarity**: She can recover and fight
-- **Emotional Change**: Anxiety â†’ Fear â†’ Determination â†’ Focus â†’ Connection
+- **Emotional Change**: Anxiety â†?Fear â†?Determination â†?Focus â†?Connection
 - **Psychological Shift**: From victim of system to active resister
 
 **Character Growth**
@@ -612,7 +612,7 @@ She had done it. Not perfectly, not easily, but she had diagnosed a complex case
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

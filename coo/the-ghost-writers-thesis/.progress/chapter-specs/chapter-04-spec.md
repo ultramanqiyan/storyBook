@@ -159,8 +159,8 @@ The walk to Dr. Webb's office felt longer than usual. Elena had rehearsed what s
 
 **Emotional Beat**
 - **Position on Curve**: 25-75%
-- **Primary Emotion**: Anxiety â†’ Relief
-- **Intensity**: 60 â†’ 70
+- **Primary Emotion**: Anxiety â†?Relief
+- **Intensity**: 60 â†?70
 - **Three Layers**:
   - Surface: Professional
   - Internal: "*I'm not alone. Someone else sees it.*"
@@ -194,7 +194,7 @@ Dr. Webb looked at her with something like hope. "Then we begin tomorrow. But un
 **Internal Journey**
 - **Internal Conflict**: Anxiety vs. need for connection
 - **Realization/Moment of Clarity**: She's not alone
-- **Emotional Change**: Determination â†’ Anxiety â†’ Relief â†’ Fear â†’ Resolve
+- **Emotional Change**: Determination â†?Anxiety â†?Relief â†?Fear â†?Resolve
 - **Psychological Shift**: From isolated to connected
 
 ### 5.2 Supporting Character: Dr. Marcus Webb

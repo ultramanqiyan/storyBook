@@ -234,15 +234,15 @@ Sarah publishes the story anyway, choosing her truth over the algorithm's verifi
 ## Internal Linking Strategy
 
 ### Chapter-to-Chapter Links
-**Chapter 1** â†’ Chapter 2 (story published â†’ flagged)
-**Chapter 2** â†’ Chapter 3 (flagged â†’ dispute)
-**Chapter 3** â†’ Chapter 4 (dispute â†’ investigation)
-**Chapter 4** â†’ Chapter 5 (investigation â†’ witnesses)
-**Chapter 5** â†’ Chapter 6 (witnesses â†’ algorithm understanding)
-**Chapter 6** â†’ Chapter 7 (algorithm â†’ philosophy)
-**Chapter 7** â†’ Chapter 8 (philosophy â†’ community)
-**Chapter 8** â†’ Chapter 9 (community â†’ acceptance)
-**Chapter 9** â†’ Chapter 10 (acceptance â†’ choice)
+**Chapter 1** â†?Chapter 2 (story published â†?flagged)
+**Chapter 2** â†?Chapter 3 (flagged â†?dispute)
+**Chapter 3** â†?Chapter 4 (dispute â†?investigation)
+**Chapter 4** â†?Chapter 5 (investigation â†?witnesses)
+**Chapter 5** â†?Chapter 6 (witnesses â†?algorithm understanding)
+**Chapter 6** â†?Chapter 7 (algorithm â†?philosophy)
+**Chapter 7** â†?Chapter 8 (philosophy â†?community)
+**Chapter 8** â†?Chapter 9 (community â†?acceptance)
+**Chapter 9** â†?Chapter 10 (acceptance â†?choice)
 
 ### Thematic Cluster Links
 - Links to other philosophical fiction books

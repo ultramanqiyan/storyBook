@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Settled into sustainable practice
-    ↓
-Middle: Reflecting on the transformation
-    ↓
-Closing: Open future, ongoing journey
+    �?Middle: Reflecting on the transformation
+    �?Closing: Open future, ongoing journey
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Open future, ongoing journey
 | Kinesthetic | Settling into action | 4 | Confidence |
 | Tactile | Hands ready for work | 4 | Ready, capable |
 
-**Minimum 5 details covering 3 types**: ✓
-
+**Minimum 5 details covering 3 types**: �?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -163,7 +160,7 @@ Closing: Open future, ongoing journey
 - **Deepest Level**: Agency as a way of being
 
 ### 9.2 Philosophical Connection
-- **Mao Thought**: 主观能动性 - The lasting value of agency
+- **Mao Thought**: 主观能动�?- The lasting value of agency
 - **Application**: A practice that serves for life
 
 ---

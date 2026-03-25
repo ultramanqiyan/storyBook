@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Major life challenge emerges
-    â†“
-Middle: Foundation tested, strain visible
-    â†“
-Closing: Foundation holds, resilience proven
+    â†?Middle: Foundation tested, strain visible
+    â†?Closing: Foundation holds, resilience proven
 ```
 
 ### 2.2 Emotional Depth Design
@@ -135,8 +133,7 @@ Closing: Foundation holds, resilience proven
 | Kinesthetic | Relief after | 4 | Proof, resilience |
 | Auditory | Quiet confidence | 4 | Foundation confirmed |
 
-**Minimum 5 details covering 3 types**: âœ“
-
+**Minimum 5 details covering 3 types**: âœ?
 ---
 
 ## 8. Key Paragraph Specifications

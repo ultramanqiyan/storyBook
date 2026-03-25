@@ -260,8 +260,8 @@ She would test herself. Prove that the knowledge was still there, just buried un
 
 **Emotional Beat**
 - **Position on Curve**: 25-70%
-- **Primary Emotion**: Fear â†’ Shame
-- **Intensity**: 30 â†’ 25
+- **Primary Emotion**: Fear â†?Shame
+- **Intensity**: 30 â†?25
 - **Three Layers**:
   - Surface: Reading, trying to recall, failing
   - Internal: "*This should be easy. Why can't I remember?*"
@@ -330,8 +330,8 @@ She stared at the answer in the back of the book. Appendicitis. She had known th
 
 **Emotional Beat**
 - **Position on Curve**: 90-100%
-- **Primary Emotion**: Despair â†’ Hope (faint)
-- **Intensity**: 50 â†’ 45
+- **Primary Emotion**: Despair â†?Hope (faint)
+- **Intensity**: 50 â†?45
 - **Three Layers**:
   - Surface: Staring at book, then at window
   - Internal: "*Maybe it's not gone. Maybe it's just... buried.*"
@@ -357,13 +357,13 @@ She opened the window, letting fresh air into the stale apartment. Somewhere, bu
 **Internal Journey**
 - **Internal Conflict**: Denial vs. growing awareness
 - **Realization/Moment of Clarity**: The knowledge is goneâ€”or buried
-- **Emotional Change**: Confusion â†’ Determination â†’ Shame â†’ Grief â†’ Hope
+- **Emotional Change**: Confusion â†?Determination â†?Shame â†?Grief â†?Hope
 - **Psychological Shift**: From "I can recover this" to "I need to find a way back"
 
 **Character Growth**
 - **Starting State**: Questioning but still in denial
 - **Ending State**: Understanding the depth of her loss, faint hope for recovery
-- **Growth Metric**: Awareness increasing (40 â†’ 45 on understanding scale)
+- **Growth Metric**: Awareness increasing (40 â†?45 on understanding scale)
 
 **Key Decision**
 - **Decision**: To test herself honestly
@@ -569,7 +569,7 @@ She opened the window, letting fresh air into the stale apartment. Somewhere, bu
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

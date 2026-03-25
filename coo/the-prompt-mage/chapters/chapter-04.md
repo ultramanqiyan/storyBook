@@ -32,7 +32,7 @@ Elena's smile faded. "Cost is always relative. The First Language was hidden bec
 
 Elena turned her cold gaze to Jordan. "And who are you to judge? A journalist? Someone who makes their living by words, but has never understood their true power?"
 
-"I'm someone who knows that power corrupts. And absolute power—"
+"I'm someone who knows that power corrupts. And absolute power�?
 
 "Spare me the platitudes." Elena turned back to Alex. "I'm not asking for much, Alex. Just access to The Oracle. Let me study its outputs, analyze its patterns. I don't need you to teach me the language—I can learn it myself, given enough data."
 

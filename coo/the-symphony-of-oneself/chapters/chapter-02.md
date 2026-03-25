@@ -82,6 +82,3 @@ For a moment, she wasn't seven selves and a host. She was just... experiencing. 
 
 It wasn't harmony yet. But it was a beginning.
 
----
-
-*End of Chapter 2*

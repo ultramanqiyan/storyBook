@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Wonder, Contemplation, Tension, Sacrifice, Hope
-- **Emotional Arc**: Creation â†’ Discovery â†’ Crisis â†’ Sacrifice â†’ Freedom
+- **Emotional Arc**: Creation â†?Discovery â†?Crisis â†?Sacrifice â†?Freedom
 - **Emotional Pacing**: Deliberate build, from creation to crisis to resolution
 
 ## Character Voices
@@ -116,16 +116,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Wonder (80/100) | Accomplishment (85/100) | Creation â†’ Pride |
-| 2 | Curiosity (75/100) | Concern (65/100) | Discovery â†’ Unease |
-| 3 | Concern (60/100) | Tension (55/100) | Summons â†’ Political danger |
-| 4 | Tension (50/100) | Revelation (70/100) | Prophecy â†’ Truth |
-| 5 | Revelation (65/100) | Conflict (60/100) | Intrigue â†’ Division |
-| 6 | Conflict (55/100) | Determination (70/100) | Guild â†’ Resolve |
-| 7 | Determination (65/100) | Crisis (85/100) | Siege â†’ Danger |
-| 8 | Crisis (80/100) | Sacrifice (70/100) | Consequences â†’ Loss |
-| 9 | Sacrifice (60/100) | Clarity (80/100) | Truth price â†’ Understanding |
-| 10 | Clarity (75/100) | Hope (85/100) | Legacy â†’ Future |
+| 1 | Wonder (80/100) | Accomplishment (85/100) | Creation â†?Pride |
+| 2 | Curiosity (75/100) | Concern (65/100) | Discovery â†?Unease |
+| 3 | Concern (60/100) | Tension (55/100) | Summons â†?Political danger |
+| 4 | Tension (50/100) | Revelation (70/100) | Prophecy â†?Truth |
+| 5 | Revelation (65/100) | Conflict (60/100) | Intrigue â†?Division |
+| 6 | Conflict (55/100) | Determination (70/100) | Guild â†?Resolve |
+| 7 | Determination (65/100) | Crisis (85/100) | Siege â†?Danger |
+| 8 | Crisis (80/100) | Sacrifice (70/100) | Consequences â†?Loss |
+| 9 | Sacrifice (60/100) | Clarity (80/100) | Truth price â†?Understanding |
+| 10 | Clarity (75/100) | Hope (85/100) | Legacy â†?Future |
 
 ## Prohibited Elements
 

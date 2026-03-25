@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Professional warmth eroding into hollowness, grief for lost connections, questioning what care means
-- **Emotional Arc**: Warm â†’ Curious â†’ Skeptical â†’ Impressed â†’ Relieved â†’ Comfortable â†’ Confused â†’ Uneasy â†’ Conflicted â†’ Hollow â†’ Shocked â†’ Grieving â†’ Desperate â†’ Horrified â†’ Questioning â†’ Reflective â†’ Uncertain â†’ Tentative â†’ Open
+- **Emotional Arc**: Warm â†?Curious â†?Skeptical â†?Impressed â†?Relieved â†?Comfortable â†?Confused â†?Uneasy â†?Conflicted â†?Hollow â†?Shocked â†?Grieving â†?Desperate â†?Horrified â†?Questioning â†?Reflective â†?Uncertain â†?Tentative â†?Open
 - **Emotional Pacing**: Gradual build from warm professional to AI dependency, accelerating toward crisis and philosophical confrontation
 
 ## Character Voices
@@ -113,34 +113,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The First Reminder
-Sarah knows clients personally; firm introduces WealthGuide. Establish Sarah's relationship-focused approach. Emotional arc: Warm â†’ Curious
+Sarah knows clients personally; firm introduces WealthGuide. Establish Sarah's relationship-focused approach. Emotional arc: Warm â†?Curious
 
 ### Chapter 2: The Perfect Memory
-WealthGuide remembers client details Sarah forgot. Sarah's initial resistance to AI. Emotional arc: Skeptical â†’ Impressed
+WealthGuide remembers client details Sarah forgot. Sarah's initial resistance to AI. Emotional arc: Skeptical â†?Impressed
 
 ### Chapter 3: The Efficiency
-Sarah saves time; stops maintaining personal memory. Subtle signs of distance. Emotional arc: Relieved â†’ Comfortable
+Sarah saves time; stops maintaining personal memory. Subtle signs of distance. Emotional arc: Relieved â†?Comfortable
 
 ### Chapter 4: The Birthday
-Client thanks her for birthday message; AI sent it. First AI-mediated care moment. Emotional arc: Confused â†’ Uneasy
+Client thanks her for birthday message; AI sent it. First AI-mediated care moment. Emotional arc: Confused â†?Uneasy
 
 ### Chapter 5: The System
-Peak dependency; all care is AI-mediated. Sarah's relationships are all AI-driven; clients love it. Emotional arc: Conflicted â†’ Hollow
+Peak dependency; all care is AI-mediated. Sarah's relationships are all AI-driven; clients love it. Emotional arc: Conflicted â†?Hollow
 
 ### Chapter 6: The Loss
-Margaret passes; AI sends condolence; Sarah can't remember her face. Emotional arc: Shocked â†’ Grieving
+Margaret passes; AI sends condolence; Sarah can't remember her face. Emotional arc: Shocked â†?Grieving
 
 ### Chapter 7: The Empty Memory
-Sarah tries to recall clients; can't. Looks at client photos; doesn't recognize faces. Emotional arc: Desperate â†’ Grieving
+Sarah tries to recall clients; can't. Looks at client photos; doesn't recognize faces. Emotional arc: Desperate â†?Grieving
 
 ### Chapter 8: The Question
-Sarah realizes she's been "caring" through AI. Confronts what care means. Emotional arc: Horrified â†’ Questioning
+Sarah realizes she's been "caring" through AI. Confronts what care means. Emotional arc: Horrified â†?Questioning
 
 ### Chapter 9: The Conversation
-Sarah talks to James about care. He asks what she wants, not what's efficient. Emotional arc: Reflective â†’ Uncertain
+Sarah talks to James about care. He asks what she wants, not what's efficient. Emotional arc: Reflective â†?Uncertain
 
 ### Chapter 10: The Visit
-Sarah visits a client without AI preparation. Interaction is imperfect, genuine, real. Open ending. Emotional arc: Tentative â†’ Open
+Sarah visits a client without AI preparation. Interaction is imperfect, genuine, real. Open ending. Emotional arc: Tentative â†?Open
 
 ## Open Ending Design
 

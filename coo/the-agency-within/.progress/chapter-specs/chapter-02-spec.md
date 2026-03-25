@@ -26,10 +26,8 @@
 ### 2.1 Emotional Journey
 ```
 Opening: Continued comfort in waiting
-    ↓
-Middle: Opportunity arises, Riley hesitates
-    ↓
-Closing: Opportunity lost, regret emerging
+    �?Middle: Opportunity arises, Riley hesitates
+    �?Closing: Opportunity lost, regret emerging
 ```
 
 ### 2.2 Emotional Depth Design
@@ -137,8 +135,7 @@ Closing: Opportunity lost, regret emerging
 | Auditory | Colleague's enthusiastic voice | 3 | What Riley didn't do |
 | Kinesthetic | Heavy feeling of regret | 4 | Consequence |
 
-**Minimum 5 details covering 3 types**: ✓
-
+**Minimum 5 details covering 3 types**: �?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -165,7 +162,7 @@ Closing: Opportunity lost, regret emerging
 - **Deepest Level**: Fear blocking action
 
 ### 9.2 Philosophical Connection
-- **Mao Thought**: 主观能动性 - Agency requires action, not just desire
+- **Mao Thought**: 主观能动�?- Agency requires action, not just desire
 - **Application**: The moment that passes when not seized
 
 ---

@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Continue descending, unable to stopâ€”conscious descent
-- **Emotional Arc**: Void â†’ Clarity â†’ Helplessness
+- **Emotional Arc**: Void â†?Clarity â†?Helplessness
 - **Relationship to Overall Story**: Show "conscious descent"
 
 ## Core Events
@@ -118,6 +118,6 @@
 
 ## Chapter Ending Design
 - **Emotion**: Helplessness
-- **Suspense**: Leo clearly recognizes his stateâ€”*I know I'm sinking. But I don't know how to stop.*
+- **Suspense**: Leo clearly recognizes his stateâ€?I know I'm sinking. But I don't know how to stop.*
 - **Don't**: Predictive ending, dramatic summary
 - **Do**: Leave the clarity of helplessness, make readers want to know what happens next

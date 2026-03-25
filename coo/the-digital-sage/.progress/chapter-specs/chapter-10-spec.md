@@ -382,8 +382,7 @@ The evening settled over the apartment like a gentle weight. Sarah sat on her co
 | Internal | *What's possible?* | 4 | Hope |
 | Tactile | At ease | 5 | Presence |
 
-**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ“
-
+**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -452,7 +451,7 @@ Sarah sat in the quiet of her apartment, evening light soft through the windows,
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Word count within target range
 - [ ] Three-layer emotional depth present

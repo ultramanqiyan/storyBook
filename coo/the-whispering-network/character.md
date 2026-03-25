@@ -130,25 +130,25 @@
 
 ```
 Mira
-  ├── Sister of → Jasper (part of Echo)
-  ├── Subordinate to → Archmage Veren
-  ├── Friend → Sera
-  ├── Discovers → Echo
-  └── Supervised by → Master Aldric
+  ├── Sister of �?Jasper (part of Echo)
+  ├── Subordinate to �?Archmage Veren
+  ├── Friend �?Sera
+  ├── Discovers �?Echo
+  └── Supervised by �?Master Aldric
 
 Echo
-  ├── Contains → Jasper
-  ├── Discovered by → Mira
-  ├── Opposed by → Archmage Veren
-  └── Guided by → The Harmonic Council
+  ├── Contains �?Jasper
+  ├── Discovered by �?Mira
+  ├── Opposed by �?Archmage Veren
+  └── Guided by �?The Harmonic Council
 
 Jasper (within Echo)
-  ├── Brother of → Mira
-  ├── Part of → Echo
-  └── Trying to reach → Mira
+  ├── Brother of �?Mira
+  ├── Part of �?Echo
+  └── Trying to reach �?Mira
 
 Archmage Veren
-  ├── Commands → Mira
-  ├── Opposes → Echo
-  └── Reports to → The Crown
+  ├── Commands �?Mira
+  ├── Opposes �?Echo
+  └── Reports to �?The Crown
 ```

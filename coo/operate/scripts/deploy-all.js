@@ -65,7 +65,7 @@ function copyDirectory(src, dest) {
   return true;
 }
 
-function copySQLFiles() {
+function copySQLFiles(targetBookId = null) {
   log('复制SQL文件到migrations目录...', 'step');
   
   if (!fs.existsSync(SQL_OUTPUT)) {
@@ -73,9 +73,13 @@ function copySQLFiles() {
     return false;
   }
   
-  const bookDirs = fs.readdirSync(SQL_OUTPUT, { withFileTypes: true })
+  let bookDirs = fs.readdirSync(SQL_OUTPUT, { withFileTypes: true })
     .filter(d => d.isDirectory())
     .map(d => d.name);
+  
+  if (targetBookId) {
+    bookDirs = bookDirs.filter(d => d === targetBookId);
+  }
   
   if (bookDirs.length === 0) {
     log('没有找到SQL文件', 'warn');
@@ -111,7 +115,7 @@ function copySQLFiles() {
   return true;
 }
 
-function copyFrontendFiles() {
+function copyFrontendFiles(targetBookId = null) {
   log('复制静态文件到src/frontend目录...', 'step');
   
   const booksSrc = path.join(FRONTEND_OUTPUT, 'books');
@@ -123,7 +127,10 @@ function copyFrontendFiles() {
     const booksDest = path.join(FRONTEND_TARGET, 'books');
     fs.mkdirSync(booksDest, { recursive: true });
     
-    const bookFiles = fs.readdirSync(booksSrc).filter(f => f.endsWith('.html'));
+    let bookFiles = fs.readdirSync(booksSrc).filter(f => f.endsWith('.html'));
+    if (targetBookId) {
+      bookFiles = bookFiles.filter(f => f.includes(targetBookId));
+    }
     for (const file of bookFiles) {
       fs.copyFileSync(path.join(booksSrc, file), path.join(booksDest, file));
       copied++;
@@ -135,7 +142,10 @@ function copyFrontendFiles() {
     const chaptersDest = path.join(FRONTEND_TARGET, 'chapters');
     fs.mkdirSync(chaptersDest, { recursive: true });
     
-    const chapterFiles = fs.readdirSync(chaptersSrc).filter(f => f.endsWith('.html'));
+    let chapterFiles = fs.readdirSync(chaptersSrc).filter(f => f.endsWith('.html'));
+    if (targetBookId) {
+      chapterFiles = chapterFiles.filter(f => f.includes(targetBookId.replace('preset-coo-', 'coo-')));
+    }
     for (const file of chapterFiles) {
       fs.copyFileSync(path.join(chaptersSrc, file), path.join(chaptersDest, file));
       copied++;
@@ -194,12 +204,16 @@ function deleteBookData(bookId, database, local) {
 function importToDatabase(options = {}) {
   log('导入数据到数据库...', 'step');
   
-  const { database = 'storybook_database', local = true, overwrite = false } = options;
+  const { database = 'storybook_database', local = true, overwrite = false, targetBookId = null } = options;
   const localFlag = local ? '--local' : '';
   
-  const bookDirs = fs.readdirSync(SQL_OUTPUT, { withFileTypes: true })
+  let bookDirs = fs.readdirSync(SQL_OUTPUT, { withFileTypes: true })
     .filter(d => d.isDirectory())
     .map(d => d.name);
+  
+  if (targetBookId) {
+    bookDirs = bookDirs.filter(d => d === targetBookId);
+  }
   
   if (bookDirs.length === 0) {
     log('没有找到SQL文件', 'warn');
@@ -283,9 +297,11 @@ async function runAllSteps(bookDir, options = {}) {
     return false;
   }
   
+  const targetBookId = bookDir ? `preset-coo-${bookDir}` : null;
+  
   if (!skipDB) {
     log('Step 4: 导入数据库', 'step');
-    const importOptions = { local, overwrite };
+    const importOptions = { local, overwrite, targetBookId };
     if (!importToDatabase(importOptions)) {
       log('导入数据库失败', 'error');
       return false;
@@ -297,16 +313,15 @@ async function runAllSteps(bookDir, options = {}) {
   if (!skipFrontend) {
     log('Step 5: 生成静态文件', 'step');
     try {
-      const bookId = bookDir ? `preset-coo-${bookDir}` : '';
-      execSync(`node "${path.join(scriptsDir, '05-generate-static.js')}"${bookId ? ` ${bookId}` : ''}`, { cwd: OPERATE_ROOT, encoding: 'utf-8', stdio: 'inherit' });
+      execSync(`node "${path.join(scriptsDir, '05-generate-static.js')}"${targetBookId ? ` ${targetBookId}` : ''}`, { cwd: OPERATE_ROOT, encoding: 'utf-8', stdio: 'inherit' });
     } catch (error) {
       log('生成静态文件失败', 'error');
       return false;
     }
     
     log('Step 6: 复制文件到目标目录', 'step');
-    copySQLFiles();
-    copyFrontendFiles();
+    copySQLFiles(targetBookId);
+    copyFrontendFiles(targetBookId);
   } else {
     log('Step 5-6: 跳过静态文件生成', 'warn');
   }

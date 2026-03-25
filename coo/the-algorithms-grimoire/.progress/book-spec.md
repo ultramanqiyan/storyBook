@@ -18,8 +18,8 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Curiosity, Wonder, Concern, Determination, Hope
-- **Emotional Arc**: Discovery â†’ Learning â†’ Danger â†’ Choice â†’ Guardian
-- **Emotional Pacing**: Setup (chapters 1-2) â†’ Rising (chapters 3-5) â†’ Climax (chapters 6-8) â†’ Resolution (chapters 9-10)
+- **Emotional Arc**: Discovery â†?Learning â†?Danger â†?Choice â†?Guardian
+- **Emotional Pacing**: Setup (chapters 1-2) â†?Rising (chapters 3-5) â†?Climax (chapters 6-8) â†?Resolution (chapters 9-10)
 
 ## Character Voices
 
@@ -124,16 +124,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Curiosity (70/100) | Wonder (80/100) | Discovery â†’ Amazement |
-| 2 | Wonder (75/100) | Connection (80/100) | ARIA activates â†’ Trust |
-| 3 | Connection (75/100) | Overwhelm (60/100) | Learning â†’ Danger signs |
-| 4 | Overwhelm (55/100) | Excitement (80/100) | First spell â†’ Power rush |
-| 5 | Excitement (75/100) | Concern (50/100) | Marcus shows danger â†’ Worry |
-| 6 | Concern (45/100) | Determination (70/100) | Understanding â†’ Resolve |
-| 7 | Determination (65/100) | Heartbreak (40/100) | Relapse â†’ Marcus betrayal |
-| 8 | Heartbreak (35/100) | Clarity (75/100) | Truth revealed â†’ Understanding |
-| 9 | Clarity (70/100) | Conflict (85/100) | Choice made â†’ Crisis |
-| 10 | Conflict (80/100) | Hope (85/100) | Guardian chosen â†’ Future |
+| 1 | Curiosity (70/100) | Wonder (80/100) | Discovery â†?Amazement |
+| 2 | Wonder (75/100) | Connection (80/100) | ARIA activates â†?Trust |
+| 3 | Connection (75/100) | Overwhelm (60/100) | Learning â†?Danger signs |
+| 4 | Overwhelm (55/100) | Excitement (80/100) | First spell â†?Power rush |
+| 5 | Excitement (75/100) | Concern (50/100) | Marcus shows danger â†?Worry |
+| 6 | Concern (45/100) | Determination (70/100) | Understanding â†?Resolve |
+| 7 | Determination (65/100) | Heartbreak (40/100) | Relapse â†?Marcus betrayal |
+| 8 | Heartbreak (35/100) | Clarity (75/100) | Truth revealed â†?Understanding |
+| 9 | Clarity (70/100) | Conflict (85/100) | Choice made â†?Crisis |
+| 10 | Conflict (80/100) | Hope (85/100) | Guardian chosen â†?Future |
 
 ## Prohibited Elements
 

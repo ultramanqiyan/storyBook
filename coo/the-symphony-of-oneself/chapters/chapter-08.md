@@ -156,6 +156,3 @@ Not polite, distant applause. But something deeper—recognition. Understanding.
 
 *We will become,* Sage said, *whatever we choose to be. Because now we know we can choose.*
 
----
-
-*End of Chapter 8*

@@ -60,7 +60,7 @@ Alex looked at the courthouse one more time, feeling the weight of all the true 
 
 "Like hell you're going alone."
 
-"Jordan—"
+"Jordan�?
 
 "You said it yourself. This is bigger than both of us. And I'm not just your friend—I'm your witness. Someone needs to document what happens. Someone needs to remember."
 

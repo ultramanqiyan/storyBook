@@ -189,16 +189,16 @@ Each chapter MUST include sensory details from at least **3 different categories
 ### 10.1 Chapter Summary Table
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | The Dream | Establish Robert's purpose and meaning; introduce StoreBrain | Purposeful â†’ Curious | Robert's store as community hub; consultant introduces StoreBrain |
-| 02 | The Efficiency | Show AI's capability; Robert's initial resistance | Skeptical â†’ Impressed | StoreBrain optimizes inventory; sales increase |
-| 03 | The Convenience | Show convenience; subtle signs of meaning distance | Relieved â†’ Comfortable | Robert saves time; stops making personal choices |
-| 04 | The Section | First AI-driven change that removes meaning | Confused â†’ Uneasy | StoreBrain closes poetry section; it wasn't profitable |
-| 05 | The Optimization | Peak dependency; all choices are AI-driven | Conflicted â†’ Hollow | Store is optimized; Robert feels like observer |
-| 06 | The Question | Customer asks "why" about the store; AI can't answer | Surprised â†’ Conflicted | Martha asks why he started the store; he struggles to answer |
-| 07 | The Absence | Robert realizes he can't explain any choice | Desperate â†’ Grieving | Robert tries to articulate meaning; discovers he has none left |
-| 08 | The Why | Robert confronts what intentionality means | Horrified â†’ Questioning | Robert realizes AI optimizes but doesn't intend |
-| 09 | The Choice | Robert confronts what meaningful choice means | Reflective â†’ Uncertain | Robert talks to Martha; realizes the problem is his surrender |
-| 10 | The Decision | Robert makes one choice without AI | Tentative â†’ Open | Robert stocks a book AI didn't recommend; ending leaves question unresolved |
+| 01 | The Dream | Establish Robert's purpose and meaning; introduce StoreBrain | Purposeful â†?Curious | Robert's store as community hub; consultant introduces StoreBrain |
+| 02 | The Efficiency | Show AI's capability; Robert's initial resistance | Skeptical â†?Impressed | StoreBrain optimizes inventory; sales increase |
+| 03 | The Convenience | Show convenience; subtle signs of meaning distance | Relieved â†?Comfortable | Robert saves time; stops making personal choices |
+| 04 | The Section | First AI-driven change that removes meaning | Confused â†?Uneasy | StoreBrain closes poetry section; it wasn't profitable |
+| 05 | The Optimization | Peak dependency; all choices are AI-driven | Conflicted â†?Hollow | Store is optimized; Robert feels like observer |
+| 06 | The Question | Customer asks "why" about the store; AI can't answer | Surprised â†?Conflicted | Martha asks why he started the store; he struggles to answer |
+| 07 | The Absence | Robert realizes he can't explain any choice | Desperate â†?Grieving | Robert tries to articulate meaning; discovers he has none left |
+| 08 | The Why | Robert confronts what intentionality means | Horrified â†?Questioning | Robert realizes AI optimizes but doesn't intend |
+| 09 | The Choice | Robert confronts what meaningful choice means | Reflective â†?Uncertain | Robert talks to Martha; realizes the problem is his surrender |
+| 10 | The Decision | Robert makes one choice without AI | Tentative â†?Open | Robert stocks a book AI didn't recommend; ending leaves question unresolved |
 
 ---
 
@@ -235,7 +235,7 @@ Each chapter must pass:
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰¥5 details, â‰¥3 types | Checklist count |
+| Sensory Detail Count | â‰? details, â‰? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 

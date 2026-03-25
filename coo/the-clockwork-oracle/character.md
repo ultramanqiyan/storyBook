@@ -123,17 +123,17 @@
 
 ```
 Corwin
-  ├── Creator of → Chronos
-  ├── Advisor to → King Aldric
-  └── Mentor to → Marcus Webb
+  ├── Creator of �?Chronos
+  ├── Advisor to �?King Aldric
+  └── Mentor to �?Marcus Webb
 
 Chronos
-  ├── Created by → Corwin
-  ├── Friend → Princess Elara
-  └── Opposed by → Artificer's Guild
+  ├── Created by �?Corwin
+  ├── Friend �?Princess Elara
+  └── Opposed by �?Artificer's Guild
 
 Princess Elara
-  ├── Friend → Chronos
-  ├── Daughter of → King Aldric
-  └── Ally → Corwin
+  ├── Friend �?Chronos
+  ├── Daughter of �?King Aldric
+  └── Ally �?Corwin
 ```

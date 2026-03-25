@@ -166,7 +166,7 @@ Intensity
 | 1 | Home | Sarah | 300 | Garden marketing, flow | Excited |
 | 2 | Home office | Sarah, manager (video) | 400 | Work opportunity | Fearful |
 | 3 | Home | Sarah | 500 | Internal battle | Terrified |
-| 4 | Home | Sarah, David (phone) | 600 | Call with brother | Vulnerable â†’ supported |
+| 4 | Home | Sarah, David (phone) | 600 | Call with brother | Vulnerable â†?supported |
 | 5 | Home | Sarah | 400 | Decision made | Determined |
 
 ### 4.2 Scene Specifications
@@ -195,7 +195,7 @@ Intensity
 **Emotional Beat**
 - **Position on Curve**: 0-15%
 - **Primary Emotion**: Excitement
-- **Intensity**: 55 â†’ 60
+- **Intensity**: 55 â†?60
 - **Three Layers**:
   - Surface: Typing, creating, flowing
   - Internal: *I can do this. This feels good.*
@@ -231,7 +231,7 @@ She saved the document and closed her laptop. Tomorrow was a regular work day. B
 **Emotional Beat**
 - **Position on Curve**: 15-35%
 - **Primary Emotion**: Fear
-- **Intensity**: 60 â†’ 70
+- **Intensity**: 60 â†?70
 - **Three Layers**:
   - Surface: Listening, nodding, processing
   - Internal: *This is big. This is visible. What if I fail?*
@@ -267,7 +267,7 @@ She saved the document and closed her laptop. Tomorrow was a regular work day. B
 **Emotional Beat**
 - **Position on Curve**: 35-70%
 - **Primary Emotion**: Fear
-- **Intensity**: 70 â†’ 75
+- **Intensity**: 70 â†?75
 - **Three Layers**:
   - Surface: Researching, spiraling, almost retreating
   - Internal: *I can't do this. It's too much. I should say no.*
@@ -297,13 +297,13 @@ She picked up her phone. David would be home by now. She needed to hear a voice 
 | Sense | Specific Detail | Location in Scene | Emotional Function |
 |-------|----------------|-------------------|-------------------|
 | Auditory | David's voice | Throughout | Support |
-| Internal | Vulnerability â†’ courage | Throughout | Shift |
+| Internal | Vulnerability â†?courage | Throughout | Shift |
 | Visual | Phone in hand | Throughout | Connection |
 
 **Emotional Beat**
 - **Position on Curve**: 70-90%
 - **Primary Emotion**: Vulnerability to courage
-- **Intensity**: 75 â†’ 70
+- **Intensity**: 75 â†?70
 - **Three Layers**:
   - Surface: Talking, listening, crying a little
   - Internal: *He understands. Maybe I can do this.*
@@ -365,7 +365,7 @@ She hit send before she could overthink it. The email disappeared into the digit
 **Internal Journey**
 - **Internal Conflict**: Fear vs. growth, safety vs. risk
 - **Realization/Moment of Clarity**: Safe isn't working
-- **Emotional Change**: Excitement â†’ Fear â†’ Vulnerability â†’ Courage â†’ Determination
+- **Emotional Change**: Excitement â†?Fear â†?Vulnerability â†?Courage â†?Determination
 - **Psychological Shift**: Willingness to take bigger risks
 
 **Character Growth**
@@ -376,7 +376,7 @@ She hit send before she could overthink it. The email disappeared into the digit
 **Key Decision**
 - **Decision**: To take the work project
 - **Options Considered**: Decline, accept
-- **Decision Process**: Fear â†’ Support â†’ Courage â†’ Action
+- **Decision Process**: Fear â†?Support â†?Courage â†?Action
 - **Consequences Accepted**: Visibility, risk, growth
 
 ### 5.2 Supporting Character: David Mitchell (Introduction)
@@ -400,7 +400,7 @@ She hit send before she could overthink it. The email disappeared into the digit
 | Segment | Speakers | Subtext | Emotional State | Power Dynamic | Forbidden Phrases |
 |---------|----------|---------|-----------------|---------------|-------------------|
 | 1 | Sarah, manager | Opportunity, pressure | Fearful | Manager-employee | None |
-| 2 | Sarah, David | Vulnerability, support | Scared â†’ supported | Siblings | Direct emotion statements |
+| 2 | Sarah, David | Vulnerability, support | Scared â†?supported | Siblings | Direct emotion statements |
 
 ### 6.2 Dialogue Segment Specifications
 
@@ -474,11 +474,10 @@ She hit send before she could overthink it. The email disappeared into the digit
 | Tactile | Hands on keyboard | 5 | Throughout | Commitment | [x] |
 | Internal | Energy | 1 | Throughout | Capability | [x] |
 | Internal | Fear rising | 2, 3 | Throughout | Resistance | [x] |
-| Internal | Vulnerability â†’ courage | 4 | Throughout | Shift | [x] |
+| Internal | Vulnerability â†?courage | 4 | Throughout | Shift | [x] |
 | Internal | Heart pounding | 5 | Throughout | Courage | [x] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Distribution
 - **Visual**: 4 details
 - **Auditory**: 3 details
@@ -504,7 +503,7 @@ The garden marketing plan was coming together. Sarah had drafted social media po
 
 **Ending Paragraph Draft**:
 ```
-She hit send before she could overthink it. The email disappeared into the digital void, and for a moment she couldn't breathe. Then she could. She'd done it. She'd said yes to something big and scary and uncertain. Now she had to live with it. The voice in her head was already starting upâ€”"what did you just do?"â€”but she wrote down David's words next to Elena's: "You don't have to be ready. You just have to be willing." Two keys now. Two reminders that action comes before certainty. She closed her laptop and sat in the quiet of her apartment. Tomorrow was Monday. Tomorrow she'd find out what came next. But tonight, she'd done something brave. And that was enough.
+She hit send before she could overthink it. The email disappeared into the digital void, and for a moment she couldn't breathe. Then she could. She'd done it. She'd said yes to something big and scary and uncertain. Now she had to live with it. The voice in her head was already starting upâ€?what did you just do?"â€”but she wrote down David's words next to Elena's: "You don't have to be ready. You just have to be willing." Two keys now. Two reminders that action comes before certainty. She closed her laptop and sat in the quiet of her apartment. Tomorrow was Monday. Tomorrow she'd find out what came next. But tonight, she'd done something brave. And that was enough.
 ```
 
 ---
@@ -515,7 +514,7 @@ She hit send before she could overthink it. The email disappeared into the digit
 | Theme | How Expressed | Scene | Evidence Required |
 |-------|--------------|-------|-------------------|
 | Action as Antidote | Taking bigger action | All | The entire chapter |
-| Small Steps | Small actions led to bigger risk | All | Garden â†’ work project |
+| Small Steps | Small actions led to bigger risk | All | Garden â†?work project |
 | The Myth of Perfect Decisions | Acting without certainty | 4, 5 | "Willing, not ready" |
 
 ### 9.2 Symbolic Elements
@@ -567,7 +566,7 @@ She hit send before she could overthink it. The email disappeared into the digit
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

@@ -362,13 +362,13 @@ She opened MEDICA again, just to feel the familiar comfort of numbers and predic
 **Internal Journey**
 - **Internal Conflict**: Denial vs. growing awareness of dependency
 - **Realization/Moment of Clarity**: Understands she cannot function without AI
-- **Emotional Change**: Crisis â†’ Denial â†’ Shame â†’ Fear â†’ Confusion
+- **Emotional Change**: Crisis â†?Denial â†?Shame â†?Fear â†?Confusion
 - **Psychological Shift**: From "it was a glitch" to "what am I without this?"
 
 **Character Growth**
 - **Starting State**: In denial about the depth of her problem
 - **Ending State**: Beginning to question her dependency
-- **Growth Metric**: Awareness increasing (35 â†’ 40 on understanding scale)
+- **Growth Metric**: Awareness increasing (35 â†?40 on understanding scale)
 
 **Key Decision**
 - **Decision**: Takes night shift to avoid people
@@ -445,9 +445,9 @@ She opened MEDICA again, just to feel the familiar comfort of numbers and predic
 
 **Dialogue Beats**:
 1. Dr. Cross: "The incident report has been filed. System malfunction."
-2. Sarah: "I... should have been able toâ€”"
+2. Sarah: "I... should have been able toâ€?
 3. Dr. Cross: "The system failed, Dr. Chen. Not you. That's the official position."
-4. Sarah: "But I couldn'tâ€”"
+4. Sarah: "But I couldn'tâ€?
 5. Dr. Cross: "We'll monitor the situation. The system has been updated. It won't happen again."
 
 **Action Beats Required**: Tablet checking, professional posture, suppressed trembling
@@ -643,7 +643,7 @@ She opened MEDICA again, just to feel the familiar comfort of numbers and predic
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

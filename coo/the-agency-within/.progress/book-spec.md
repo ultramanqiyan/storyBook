@@ -18,7 +18,7 @@
 
 ### 1.2 Core Theme
 - **Primary Theme**: Personal agency, initiative, proactive action
-- **Mao Thought Mapping**: 主观能动性 (Subjective Initiative) - The power of conscious, purposeful action
+- **Mao Thought Mapping**: 主观能动�?(Subjective Initiative) - The power of conscious, purposeful action
 - **Philosophical Angle**: The principle that agency is the foundation of all achievement
 
 ### 1.3 Target Keywords

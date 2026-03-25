@@ -10,11 +10,11 @@ He selected fifty names at random and started calling.
 
 The first call was to a young woman named Jessica Martinez. She'd been accepted with a partial scholarship, a good student from a local high school. Michael had personally reviewed her application and been impressed.
 
-"Hello, this is Dr. Michael Chen from Midwest State University. I'm calling toâ€”"
+"Hello, this is Dr. Michael Chen from Midwest State University. I'm calling toâ€?
 
 "I know who you are." Her voice was polite but distant. "I got your letters."
 
-"I wanted to ask why you chose not to enroll. We're trying to understand the decline in applications, andâ€”"
+"I wanted to ask why you chose not to enroll. We're trying to understand the decline in applications, andâ€?
 
 "You want to know why I didn't want to spend four years and forty thousand dollars to learn things I can learn for free?"
 

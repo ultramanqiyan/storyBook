@@ -124,7 +124,7 @@ That night, Alex stood at the window of their new apartment, watching the Meridi
 ## 8. Quality Verification Checklist
 
 - [ ] Word count within target (2000-2500)
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Three-layer emotional depth present
 - [ ] Ending creates forward momentum

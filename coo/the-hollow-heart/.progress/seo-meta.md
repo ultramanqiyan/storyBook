@@ -248,15 +248,15 @@ Standing at the threshold of transformation, Kai faces an uncertain future with 
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (awakening â†’ discovery of emptiness)
-**Chapter 2** â†’ Chapter 3 (hollow â†’ memories of feeling)
-**Chapter 3** â†’ Chapter 4 (memory â†’ truth revealed)
-**Chapter 4** â†’ Chapter 5 (discovery â†’ family visit)
-**Chapter 5** â†’ Chapter 6 (visit â†’ search for reversal)
-**Chapter 6** â†’ Chapter 7 (search â†’ confrontation)
-**Chapter 7** â†’ Chapter 8 (confrontation â†’ choice)
-**Chapter 8** â†’ Chapter 9 (choice â†’ decision)
-**Chapter 9** â†’ Chapter 10 (decision â†’ threshold)
+**Chapter 1** â†?Chapter 2 (awakening â†?discovery of emptiness)
+**Chapter 2** â†?Chapter 3 (hollow â†?memories of feeling)
+**Chapter 3** â†?Chapter 4 (memory â†?truth revealed)
+**Chapter 4** â†?Chapter 5 (discovery â†?family visit)
+**Chapter 5** â†?Chapter 6 (visit â†?search for reversal)
+**Chapter 6** â†?Chapter 7 (search â†?confrontation)
+**Chapter 7** â†?Chapter 8 (confrontation â†?choice)
+**Chapter 8** â†?Chapter 9 (choice â†?decision)
+**Chapter 9** â†?Chapter 10 (decision â†?threshold)
 
 ### Thematic Cluster Links
 

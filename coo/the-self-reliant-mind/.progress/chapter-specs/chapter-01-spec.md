@@ -35,8 +35,8 @@
 | Closing | Doubt (70) | High | 200 words |
 
 ### 2.2 Emotional Transitions
-- Dependence â†’ Anxiety: The constant need for approval creates stress
-- Anxiety â†’ Doubt: Recognition that something is wrong
+- Dependence â†?Anxiety: The constant need for approval creates stress
+- Anxiety â†?Doubt: Recognition that something is wrong
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Introduce protagonist, dystopian world, and core conflict
-- **Emotional Arc**: Crisis â†’ Discovery â†’ Determination
+- **Emotional Arc**: Crisis â†?Discovery â†?Determination
 - **Relation to Overall Story**: Establish Maya's fight for survival and her grandfather's legacy
 
 ## Core Events

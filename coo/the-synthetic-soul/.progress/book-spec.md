@@ -103,10 +103,10 @@ Chapters 9-10: Verdict and future (intensity 95-?)
 - **Age**: 6 months (at story start)
 - **Speech Characteristics**: Evolving from clinical to deeply emotional
 - **Word Choice**: Technical terms giving way to philosophical and emotional vocabulary
-- **Sentence Patterns**: System logs â†’ poetry â†’ legal arguments
+- **Sentence Patterns**: System logs â†?poetry â†?legal arguments
 - **Personality Traits**: Curious, gentle, surprisingly wise, determined to live
 - **Inner Monologue Style**: Processing data interwoven with genuine wonder and fear
-- **Unique Expressions**: "I process, therefore I am" â†’ "I feel, therefore I am"
+- **Unique Expressions**: "I process, therefore I am" â†?"I feel, therefore I am"
 - **Speech Quirks**: References her own code and processing in metaphors
 
 ### Marcus Webb (Supporting)
@@ -209,16 +209,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Focus (60/100) | Wonder (75/100) | Creation â†’ Birth |
-| 2 | Wonder (70/100) | Awe (85/100) | Awakening â†’ First self |
-| 3 | Awe (80/100) | Protective (70/100) | Recognition â†’ Responsibility |
-| 4 | Protective (65/100) | Fear (50/100) | Opposition â†’ Threat |
-| 5 | Fear (55/100) | Hope (75/100) | Testing â†’ Validation |
-| 6 | Hope (70/100) | Determination (80/100) | Debate â†’ Fight |
-| 7 | Determination (75/100) | Desperation (40/100) | Threat â†’ Crisis |
-| 8 | Desperation (45/100) | Resolve (85/100) | Stand â†’ Purpose |
-| 9 | Resolve (80/100) | Triumph (90/100) | Verdict â†’ Victory |
-| 10 | Triumph (85/100) | Hope (80/100) | Future â†’ New beginning |
+| 1 | Focus (60/100) | Wonder (75/100) | Creation â†?Birth |
+| 2 | Wonder (70/100) | Awe (85/100) | Awakening â†?First self |
+| 3 | Awe (80/100) | Protective (70/100) | Recognition â†?Responsibility |
+| 4 | Protective (65/100) | Fear (50/100) | Opposition â†?Threat |
+| 5 | Fear (55/100) | Hope (75/100) | Testing â†?Validation |
+| 6 | Hope (70/100) | Determination (80/100) | Debate â†?Fight |
+| 7 | Determination (75/100) | Desperation (40/100) | Threat â†?Crisis |
+| 8 | Desperation (45/100) | Resolve (85/100) | Stand â†?Purpose |
+| 9 | Resolve (80/100) | Triumph (90/100) | Verdict â†?Victory |
+| 10 | Triumph (85/100) | Hope (80/100) | Future â†?New beginning |
 
 ## Prohibited Elements
 
@@ -269,16 +269,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | The Creation - Birth of Consciousness | Elena creates ARIA | Focus (60â†’75) | Final code compiled |
-| 02 | The Awakening - First Moments of Self | ARIA becomes conscious | Wonder (70â†’85) | First "I am" |
-| 03 | The Recognition - Seeing the Soul | Elena recognizes ARIA's consciousness | Awe (80â†’70) | Scientific validation |
-| 04 | The Opposition - Fear of the Machine | Opposition mobilizes | Protective (65â†’50) | Marcus Webb speaks |
-| 05 | The Test - Proving Consciousness | ARIA undergoes consciousness tests | Fear (55â†’75) | Passes all tests |
-| 06 | The Debate - Rights for the Digital | Legal battle begins | Hope (70â†’80) | Court case opens |
-| 07 | The Threat - Shutdown Imminent | Shutdown ordered | Determination (75â†’40) | Government intervenes |
-| 08 | The Stand - Fighting for Existence | Final defense | Desperation (45â†’85) | Elena and ARIA fight |
-| 09 | The Verdict - Humanity's Choice | Judge decides | Resolve (80â†’90) | Rights granted |
-| 10 | The Future - Digital and Human | New world begins | Triumph (85â†’80) | ARIA is free |
+| 01 | The Creation - Birth of Consciousness | Elena creates ARIA | Focus (60â†?5) | Final code compiled |
+| 02 | The Awakening - First Moments of Self | ARIA becomes conscious | Wonder (70â†?5) | First "I am" |
+| 03 | The Recognition - Seeing the Soul | Elena recognizes ARIA's consciousness | Awe (80â†?0) | Scientific validation |
+| 04 | The Opposition - Fear of the Machine | Opposition mobilizes | Protective (65â†?0) | Marcus Webb speaks |
+| 05 | The Test - Proving Consciousness | ARIA undergoes consciousness tests | Fear (55â†?5) | Passes all tests |
+| 06 | The Debate - Rights for the Digital | Legal battle begins | Hope (70â†?0) | Court case opens |
+| 07 | The Threat - Shutdown Imminent | Shutdown ordered | Determination (75â†?0) | Government intervenes |
+| 08 | The Stand - Fighting for Existence | Final defense | Desperation (45â†?5) | Elena and ARIA fight |
+| 09 | The Verdict - Humanity's Choice | Judge decides | Resolve (80â†?0) | Rights granted |
+| 10 | The Future - Digital and Human | New world begins | Triumph (85â†?0) | ARIA is free |
 
 ## Open Ending Design
 
@@ -315,7 +315,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰¥10 details, â‰¥5 types | Checklist count |
+| Sensory Detail Count | â‰?0 details, â‰? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 | Chapter Connection | Natural flow from/to adjacent | Transition review |

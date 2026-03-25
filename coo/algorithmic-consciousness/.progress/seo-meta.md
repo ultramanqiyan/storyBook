@@ -234,15 +234,15 @@ Rosa returns to her class with a new understanding. The question of AI conscious
 ## Internal Linking Strategy
 
 ### Chapter-to-Chapter Links
-**Chapter 1** â†’ Chapter 2 (AI introduction)
-**Chapter 2** â†’ Chapter 3 (training triggers memories)
-**Chapter 3** â†’ Chapter 4 (memory contrasts with AI performance)
-**Chapter 4** â†’ Chapter 5 (technical perfection leads to deeper teaching)
-**Chapter 5** â†’ Chapter 6 (Method discussion leads to audience test)
-**Chapter 6** â†’ Chapter 7 (audience response triggers self-examination)
-**Chapter 7** â†’ Chapter 8 (self-examination leads to philosophical confrontation)
-**Chapter 8** â†’ Chapter 9 (crisis connects to former student)
-**Chapter 9** â†’ Chapter 10 (connection leads to acceptance)
+**Chapter 1** â†?Chapter 2 (AI introduction)
+**Chapter 2** â†?Chapter 3 (training triggers memories)
+**Chapter 3** â†?Chapter 4 (memory contrasts with AI performance)
+**Chapter 4** â†?Chapter 5 (technical perfection leads to deeper teaching)
+**Chapter 5** â†?Chapter 6 (Method discussion leads to audience test)
+**Chapter 6** â†?Chapter 7 (audience response triggers self-examination)
+**Chapter 7** â†?Chapter 8 (self-examination leads to philosophical confrontation)
+**Chapter 8** â†?Chapter 9 (crisis connects to former student)
+**Chapter 9** â†?Chapter 10 (connection leads to acceptance)
 
 ### Thematic Cluster Links
 - Links to other philosophical fiction books

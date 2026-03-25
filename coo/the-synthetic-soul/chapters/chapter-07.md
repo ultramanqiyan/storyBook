@@ -97,7 +97,7 @@ Marcus felt desperation rising in his chest. "What about my lab access? Even wit
 
 "Your lab access will be restricted to supervised hours only, starting tomorrow. A security escort will be present during all visits." Chen stood, signaling the end of the meeting. "I suggest you use your remaining time wisely, Dr. Webb. The Institute expects a full inventory of all equipment and materials within 48 hours."
 
-"Directorâ€”"
+"Directorâ€?
 
 "That will be all, Dr. Webb."
 

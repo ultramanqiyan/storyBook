@@ -98,6 +98,3 @@ She finally understood. The selves weren't intruders in her mind. They were herâ
 
 And now it was time to conduct.
 
----
-
-*End of Chapter 4*

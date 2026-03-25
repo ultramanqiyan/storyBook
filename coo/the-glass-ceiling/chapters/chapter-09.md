@@ -18,9 +18,9 @@ The office felt like enemy territory now. Every conversation was a potential tra
 
 Alex identified potential allies:
 
-1. **Sarah** â€” Already aware, already burned out, but potentially willing to support
-2. **Taylor** â€” Cynical, but might speak up if protected
-3. **David** â€” Already out, could provide testimony
+1. **Sarah** â€?Already aware, already burned out, but potentially willing to support
+2. **Taylor** â€?Cynical, but might speak up if protected
+3. **David** â€?Already out, could provide testimony
 
 They reached out carefully. One by one. Testing the waters. Meeting in coffee shops outside the office, speaking in hushed tones, sharing documentation and building trust.
 

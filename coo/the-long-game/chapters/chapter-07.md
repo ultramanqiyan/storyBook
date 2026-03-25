@@ -55,7 +55,7 @@ The first month of the project was the hardest.
  This table," he said, gesturing to the large piece of furniture behind him, "I've been working on it for three months."
  Three months? Michael couldn't hide his shock. "For one table?"
  It's not just a table. It's someone's dining room. Where they'll have meals for the next fifty years. Maybe longer, if I do it right." Jake ran the plane along the edge of the table, shaving off a thin curl of wood. "Three months is nothing compared to fifty years."
- But the efficiencyâ€”"
+ But the efficiencyâ€?
  "Efficiency isn't always speed." Jake looked at him directly. "Sometimes the most efficient thing is to take your time and do it right. Because if you rush, you make mistakes. And mistakes take longer to fix than doing it right the first time."
  Michael watched the wood curl away from the plane. The movement was slow, deliberate, almost hypnotic.
  That doesn't work in my world," he said. "We ship fast, iterate, fix later. There's no time to do everything right the first time."

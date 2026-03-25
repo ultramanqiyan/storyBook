@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Show implementation, face final challenge
-- **Emotional Arc**: Hope â†’ Challenge â†’ Triumph
+- **Emotional Arc**: Hope â†?Challenge â†?Triumph
 - **Relation to Overall Story**: Demonstrate the success of ARIA's legacy
 
 ## Core Events

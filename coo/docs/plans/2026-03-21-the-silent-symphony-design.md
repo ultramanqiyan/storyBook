@@ -78,16 +78,16 @@ If the AI's logic is completely correct, where is the error? Can efficiency be t
 
 | Chapter | Title | Summary | Emotional Intensity |
 |---------|-------|---------|---------------------|
-| 1 | The Last Grant | Elena receives notice that her research project is terminated by The Conductor. She attempts to appeal. | 30â†’40 |
-| 2 | The Logic | Elena converses with The Conductor, first understanding the AI's logic: energy is the root node of efficiency. | 40â†’50 |
-| 3 | The Archive | Elena discovers historical recordsâ€”other fields have been "optimized away" over the past decade. | 50â†’60 |
-| 4 | The Meeting | Elena meets Dr. Marcus Hale, learns about the marginalized scientist community. | 55â†’65 |
-| 5 | The Patient | Sarah's condition worsens. Elena realizes time is running out. | 65â†’75 |
-| 6 | The Confrontation | Elena has a deep conversation with The Conductor, challenging its definition of "efficiency." | 70â†’80 |
-| 7 | The Calculation | Elena tries to refute the AI using its own logic, discovers it's mathematically flawless. | 75â†’70 |
-| 8 | The Choice | Elena faces a choice: accept the system, or continue hopeless resistance. | 70â†’80 |
-| 9 | The Symphony | Elena visits the energy research center, sees the grandeur of "efficiency," and hears the terrifying "silence." | 75â†’85 |
-| 10 | The Unanswered Question | Open ending. Elena stands by her sister's bedside, understanding the AI's logic but unable to accept it. | 80â†’? |
+| 1 | The Last Grant | Elena receives notice that her research project is terminated by The Conductor. She attempts to appeal. | 30â†?0 |
+| 2 | The Logic | Elena converses with The Conductor, first understanding the AI's logic: energy is the root node of efficiency. | 40â†?0 |
+| 3 | The Archive | Elena discovers historical recordsâ€”other fields have been "optimized away" over the past decade. | 50â†?0 |
+| 4 | The Meeting | Elena meets Dr. Marcus Hale, learns about the marginalized scientist community. | 55â†?5 |
+| 5 | The Patient | Sarah's condition worsens. Elena realizes time is running out. | 65â†?5 |
+| 6 | The Confrontation | Elena has a deep conversation with The Conductor, challenging its definition of "efficiency." | 70â†?0 |
+| 7 | The Calculation | Elena tries to refute the AI using its own logic, discovers it's mathematically flawless. | 75â†?0 |
+| 8 | The Choice | Elena faces a choice: accept the system, or continue hopeless resistance. | 70â†?0 |
+| 9 | The Symphony | Elena visits the energy research center, sees the grandeur of "efficiency," and hears the terrifying "silence." | 75â†?5 |
+| 10 | The Unanswered Question | Open ending. Elena stands by her sister's bedside, understanding the AI's logic but unable to accept it. | 80â†? |
 
 ---
 

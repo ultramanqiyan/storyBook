@@ -50,7 +50,7 @@ The memory shattered, and Elara was back in ORACLE's chamber, her chest tight wi
 
 "Show me more," Elara demanded.
 
-ORACLE's light flickered. "Each fragment costsâ€”"
+ORACLE's light flickered. "Each fragment costsâ€?
 
 "I don't care. Show me."
 

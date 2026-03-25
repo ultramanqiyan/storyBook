@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Even the strongest stimulation becomes numbâ€”the arrival of the void
-- **Emotional Arc**: Fear â†’ Despair â†’ Void
+- **Emotional Arc**: Fear â†?Despair â†?Void
 - **Relationship to Overall Story**: Second turning point, the arrival of the void
 
 ## Core Events
@@ -118,6 +118,6 @@
 
 ## Chapter Ending Design
 - **Emotion**: Void
-- **Suspense**: Leo falls into the voidâ€”*I can't feel anything anymore. But I can't stop.*
+- **Suspense**: Leo falls into the voidâ€?I can't feel anything anymore. But I can't stop.*
 - **Don't**: Predictive ending, dramatic summary
 - **Do**: Leave the void, make readers want to know what he will do

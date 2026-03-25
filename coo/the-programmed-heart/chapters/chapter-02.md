@@ -34,7 +34,7 @@ Her voice breaks on the last word.
 
 She puts her head in her hands. Her shoulders shake. A few students at nearby tables glance over, look away. Jordan reaches over and puts a hand on her back.
 
-"Hey. It's okay. Parents yell. It doesn't meanâ€”"
+"Hey. It's okay. Parents yell. It doesn't meanâ€?
 
 "It does mean something," Maya says, her voice muffled against her palms. "It means he's disappointed in me. It means I messed up. Again."
 
@@ -72,13 +72,12 @@ I'm in the kitchen, getting a glass of water. My hand slips. The glass falls. It
 
 I freeze.
 
-This is bad. This is really bad. I should clean it up before my mother sees. I shouldâ€”
-
+This is bad. This is really bad. I should clean it up before my mother sees. I shouldâ€?
 "Alex?"
 
 I turn. My mother is standing in the doorway. She's looking at the broken glass. Her face is calm.
 
-"I'm sorry," I say quickly. "I dropped it. I'll clean it up. I'm so sorryâ€”"
+"I'm sorry," I say quickly. "I dropped it. I'll clean it up. I'm so sorryâ€?
 
 "It's okay, sweetheart."
 
@@ -94,7 +93,7 @@ She reaches out and touches my arm. Her hand is warm. Her touch is light. Exactl
 
 "I'll get the broom," she says.
 
-"I can do itâ€”"
+"I can do itâ€?
 
 "No, let me. You just sit down. You look shaken."
 

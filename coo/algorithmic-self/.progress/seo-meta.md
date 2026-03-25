@@ -248,15 +248,15 @@ Maggie makes a choice about her marriage based on new understandingâ€”not certai
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (case â†’ trial)
-**Chapter 2** â†’ Chapter 3 (trial â†’ data)
-**Chapter 3** â†’ Chapter 4 (data â†’ prediction)
-**Chapter 4** â†’ Chapter 5 (prediction â†’ denial)
-**Chapter 5** â†’ Chapter 6 (denial â†’ evidence)
-**Chapter 6** â†’ Chapter 7 (evidence â†’ confrontation)
-**Chapter 7** â†’ Chapter 8 (confrontation â†’ question)
-**Chapter 8** â†’ Chapter 9 (question â†’ acceptance)
-**Chapter 9** â†’ Chapter 10 (acceptance â†’ choice)
+**Chapter 1** â†?Chapter 2 (case â†?trial)
+**Chapter 2** â†?Chapter 3 (trial â†?data)
+**Chapter 3** â†?Chapter 4 (data â†?prediction)
+**Chapter 4** â†?Chapter 5 (prediction â†?denial)
+**Chapter 5** â†?Chapter 6 (denial â†?evidence)
+**Chapter 6** â†?Chapter 7 (evidence â†?confrontation)
+**Chapter 7** â†?Chapter 8 (confrontation â†?question)
+**Chapter 8** â†?Chapter 9 (question â†?acceptance)
+**Chapter 9** â†?Chapter 10 (acceptance â†?choice)
 
 ### Thematic Cluster Links
 

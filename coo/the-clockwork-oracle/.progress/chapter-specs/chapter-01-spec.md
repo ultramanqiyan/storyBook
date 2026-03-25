@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Introduce protagonist, core conflict, and world-building
-- **Emotional Arc**: Loneliness â†’ Curiosity â†’ Wonder
+- **Emotional Arc**: Loneliness â†?Curiosity â†?Wonder
 - **Relation to Overall Story**: Establish first contact between clockmaker and sentient machine
 
 ## Core Events

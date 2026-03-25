@@ -37,7 +37,7 @@ The Action Antidote: How to Stop Overthinking and Start Moving Forward
 A practical guide for professionals paralyzed by overthinking. Discover how small actions can break the cycle of anxiety and move you from analysis to achievement.
 
 ### Philosophical Themes
-- Practice over theory (disguised from 实践论)
+- Practice over theory (disguised from 实践�?
 - Action as the path to clarity
 - Small steps over perfect plans
 - Learning through doing

@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Absurdity, irony, existential dread, dark humor, melancholic realization
-- **Emotional Arc**: Chapters 1-3: Smug confidence â†’ creeping doubt â†’ Chapters 4-6: Growing anxiety â†’ desperate denial â†’ Chapters 7-8: Full crisis â†’ darkly comic breakdown â†’ Chapters 9-10: Hollow acceptance â†’ final ironic twist
+- **Emotional Arc**: Chapters 1-3: Smug confidence â†?creeping doubt â†?Chapters 4-6: Growing anxiety â†?desperate denial â†?Chapters 7-8: Full crisis â†?darkly comic breakdown â†?Chapters 9-10: Hollow acceptance â†?final ironic twist
 - **Emotional Pacing**: Setup (1-2) medium, Rising (3-5) medium-fast, Climax (6-8) fast, Resolution (9-10) medium
 
 ## Character Voices
@@ -121,34 +121,34 @@
 ## Chapter Outline
 
 ### Chapter 1: The Webb Method
-Marcus gives a lecture demonstrating his "method." Receives commission for "Humanity's Last Breath" exhibition. Emotional arc: Smug satisfaction â†’ slight unease
+Marcus gives a lecture demonstrating his "method." Receives commission for "Humanity's Last Breath" exhibition. Emotional arc: Smug satisfaction â†?slight unease
 
 ### Chapter 2: The Commission
-Marcus begins selecting artists; meets Elena (skeptic); discovers Jimmy Okonkwo (seemingly authentic young artist). Emotional arc: Excitement â†’ first doubts
+Marcus begins selecting artists; meets Elena (skeptic); discovers Jimmy Okonkwo (seemingly authentic young artist). Emotional arc: Excitement â†?first doubts
 
 ### Chapter 3: The Verification
-Marcus visits a "soul verification" lab; the process is clearly pseudoscientific but he can't admit it. Emotional arc: Confidence â†’ creeping suspicion
+Marcus visits a "soul verification" lab; the process is clearly pseudoscientific but he can't admit it. Emotional arc: Confidence â†?creeping suspicion
 
 ### Chapter 4: The First Crack
-Marcus can't distinguish AI art in a blind test (but rationalizes); Elena challenges him publicly. Emotional arc: Doubt â†’ denial
+Marcus can't distinguish AI art in a blind test (but rationalizes); Elena challenges him publicly. Emotional arc: Doubt â†?denial
 
 ### Chapter 5: The Discovery
-Marcus discovers evidence that Jimmy uses AI; decides to cover it up to protect the exhibition. Emotional arc: Shock â†’ desperate rationalization
+Marcus discovers evidence that Jimmy uses AI; decides to cover it up to protect the exhibition. Emotional arc: Shock â†?desperate rationalization
 
 ### Chapter 6: The Spiral
-Marcus becomes obsessed with detecting AI art; starts seeing "soullessness" everywhere; his lectures become unhinged. Emotional arc: Anxiety â†’ paranoia
+Marcus becomes obsessed with detecting AI art; starts seeing "soullessness" everywhere; his lectures become unhinged. Emotional arc: Anxiety â†?paranoia
 
 ### Chapter 7: The Leak
-Story breaks about Jimmy's AI use; Marcus implicated as enabler; media circus. Emotional arc: Humiliation â†’ defensive anger
+Story breaks about Jimmy's AI use; Marcus implicated as enabler; media circus. Emotional arc: Humiliation â†?defensive anger
 
 ### Chapter 8: The Fall
-Museum asks Marcus to step down; he gives a final, rambling interview. Emotional arc: Despair â†’ hollow defiance
+Museum asks Marcus to step down; he gives a final, rambling interview. Emotional arc: Despair â†?hollow defiance
 
 ### Chapter 9: The Attempt
-Marcus paints for the first time in decades; shows his work to Elena. Emotional arc: Desperate hope â†’ crushing irony
+Marcus paints for the first time in decades; shows his work to Elena. Emotional arc: Desperate hope â†?crushing irony
 
 ### Chapter 10: The Final Irony
-Marcus's painting is praised but critics call it "derivative, almost algorithmic." He can't tell if they're right. Emotional arc: Bitter acceptance â†’ cosmic joke
+Marcus's painting is praised but critics call it "derivative, almost algorithmic." He can't tell if they're right. Emotional arc: Bitter acceptance â†?cosmic joke
 
 ## Open Ending Design
 

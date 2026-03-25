@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Curiosity, Excitement, Empowerment, Determination, Triumph
-- **Emotional Arc**: Discovery â†’ Learning â†’ Power â†’ Threat â†’ Battle â†’ Freedom
+- **Emotional Arc**: Discovery â†?Learning â†?Power â†?Threat â†?Battle â†?Freedom
 - **Emotional Pacing**: Medium build, accelerating toward resolution
 
 ## Character Voices
@@ -32,7 +32,7 @@
 - **Sentence Patterns**: Clear prompts and spell formulas
 - **Personality Traits**: Brilliant, creative, determined, empowering
 - **Internal Monologue Style**: Analyzes language power, crafts perfect prompts
-- **Unique Expression**: "The right words..." â†’ "The perfect incantation..."
+- **Unique Expression**: "The right words..." â†?"The perfect incantation..."
 - **Speech Quirks**: Tests phrases, refines wording
 
 ### Professor Webb (Mentor)
@@ -115,16 +115,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Curiosity (60/100) | Wonder (80/100) | Discovery â†’ Amazement |
-| 2 | Wonder (75/100) | Excitement (85/100) | Prompts as spells â†’ Thrill |
-| 3 | Excitement (80/100) | Confidence (75/100) | Training â†’ Skill |
-| 4 | Confidence (70/100) | Power (85/100) | First spell â†’ Empowerment |
-| 5 | Power (80/100) | Concern (70/100) | Realizes power â†’ Responsibility |
-| 6 | Concern (65/100) | Determination (85/100) | Threat emerges â†’ Resolve |
-| 7 | Determination (80/100) | Mastery (90/100) | Perfect prompt â†’ Peak skill |
-| 8 | Mastery (85/100) | Crisis (95/100) | Battle â†’ Climax |
-| 9 | Crisis (90/100) | Freedom (85/100) | Wins â†’ Liberation |
-| 10 | Freedom (80/100) | Hope (90/100) | New era â†’ Future |
+| 1 | Curiosity (60/100) | Wonder (80/100) | Discovery â†?Amazement |
+| 2 | Wonder (75/100) | Excitement (85/100) | Prompts as spells â†?Thrill |
+| 3 | Excitement (80/100) | Confidence (75/100) | Training â†?Skill |
+| 4 | Confidence (70/100) | Power (85/100) | First spell â†?Empowerment |
+| 5 | Power (80/100) | Concern (70/100) | Realizes power â†?Responsibility |
+| 6 | Concern (65/100) | Determination (85/100) | Threat emerges â†?Resolve |
+| 7 | Determination (80/100) | Mastery (90/100) | Perfect prompt â†?Peak skill |
+| 8 | Mastery (85/100) | Crisis (95/100) | Battle â†?Climax |
+| 9 | Crisis (90/100) | Freedom (85/100) | Wins â†?Liberation |
+| 10 | Freedom (80/100) | Hope (90/100) | New era â†?Future |
 
 ## Prohibited Elements
 

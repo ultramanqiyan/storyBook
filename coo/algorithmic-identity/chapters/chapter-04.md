@@ -38,7 +38,7 @@ Maria didn't know. She wanted to say yes, to support her sister's decision witho
 
 "I'm scared too," Elena said. "But I'm more scared of dying without trying. Of just... ending. Of leaving you alone."
 
-"You won't be leaving me alone. I'll have my memories. I'll have the bakery. I'll have—"
+"You won't be leaving me alone. I'll have my memories. I'll have the bakery. I'll have�?
 
 "You'll have nothing," Elena said quietly. "You'll have a building and a business and a lifetime of memories that you can't share with anyone who understands them. I know you, Maria. I know how much you need connection. I know how much of your identity is tied to me. If I die—if I really die—you'll lose not just a sister, but a part of yourself."
 

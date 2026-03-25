@@ -16,7 +16,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Wonder, discovery, responsibility
-- **Emotional Arc**: Discovery â†’ Understanding â†’ Responsibility â†’ Hope
+- **Emotional Arc**: Discovery â†?Understanding â†?Responsibility â†?Hope
 - **Emotional Pacing**: Gradual build, accelerating toward resolution
 
 ## Character Voices
@@ -111,16 +111,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Curiosity (80/100) | Awe (90/100) | Discovery â†’ Wonder |
-| 2 | Wonder (85/100) | Connection (75/100) | First contact â†’ Bond forming |
-| 3 | Concern (60/100) | Alarm (40/100) | Threat emerges â†’ Urgency |
-| 4 | Tension (45/100) | Revelation (80/100) | Awakening â†’ Understanding |
-| 5 | Determination (70/100) | Conflict (50/100) | Battle â†’ Struggle |
-| 6 | Loss (30/100) | Resolve (65/100) | Sacrifice â†’ Purpose |
-| 7 | Transformation (55/100) | Empowerment (85/100) | Change â†’ New abilities |
-| 8 | Unity (75/100) | Strength (80/100) | Alliance â†’ Power |
-| 9 | Convergence (70/100) | Harmony (90/100) | Merge â†’ Balance |
-| 10 | Responsibility (85/100) | Hope (95/100) | Guardian â†’ Future |
+| 1 | Curiosity (80/100) | Awe (90/100) | Discovery â†?Wonder |
+| 2 | Wonder (85/100) | Connection (75/100) | First contact â†?Bond forming |
+| 3 | Concern (60/100) | Alarm (40/100) | Threat emerges â†?Urgency |
+| 4 | Tension (45/100) | Revelation (80/100) | Awakening â†?Understanding |
+| 5 | Determination (70/100) | Conflict (50/100) | Battle â†?Struggle |
+| 6 | Loss (30/100) | Resolve (65/100) | Sacrifice â†?Purpose |
+| 7 | Transformation (55/100) | Empowerment (85/100) | Change â†?New abilities |
+| 8 | Unity (75/100) | Strength (80/100) | Alliance â†?Power |
+| 9 | Convergence (70/100) | Harmony (90/100) | Merge â†?Balance |
+| 10 | Responsibility (85/100) | Hope (95/100) | Guardian â†?Future |
 
 ## Prohibited Elements
 

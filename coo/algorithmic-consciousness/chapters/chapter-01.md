@@ -112,7 +112,7 @@ Rosa looked at him—really looked, the way she'd learned to look at actors, at 
 
 "Come back Monday," she said. "We'll talk more. But not here. I want to see this AI of yours. I want to see what you've built."
 
-David's face lit up. "Monday. Yes. I'll send a car—"
+David's face lit up. "Monday. Yes. I'll send a car�?
 
 "I can take the subway," Rosa said. "I've been taking the subway since before you were born, Mr. Chen. I think I can manage."
 

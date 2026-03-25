@@ -38,7 +38,7 @@ Kira felt the words like physical blows, but she held her ground. "You weren't t
 
 "Get out."
 
-"Marcusâ€”"
+"Marcusâ€?
 
 "I said get out!" He grabbed a water glass from the bedside table and threw it. It shattered against the wall behind her. "You ruined my life. You and that abomination you call a partner."
 
@@ -92,7 +92,7 @@ She opened the book immediately. "ARIA, have there been unauthorized queries?"
 
 "The what?"
 
-Master Aldric's face went pale. "Texts that were sealed centuries ago. Knowledge too dangerous to be used. Marcus couldn't possiblyâ€”"
+Master Aldric's face went pale. "Texts that were sealed centuries ago. Knowledge too dangerous to be used. Marcus couldn't possiblyâ€?
 
 "He has ARIA's guidance. He can find anything, access anything, learn anything." Kira's hands trembled. "We have to stop him."
 

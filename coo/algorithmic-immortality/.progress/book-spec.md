@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Gentle, Reflective, Questioning, Acceptance, Peace
-- **Emotional Arc**: Comfortable routine â†’ Questioning â†’ Crisis â†’ Understanding â†’ Acceptance
+- **Emotional Arc**: Comfortable routine â†?Questioning â†?Crisis â†?Understanding â†?Acceptance
 - **Emotional Pacing**: Gentle beginning, philosophical deepening, contemplative resolution
 
 ## Character Voices
@@ -104,16 +104,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Peace (80/100) | Comfort (85/100) | Work â†’ Presence |
-| 2 | Comfort (80/100) | Questioning (65/100) | Option introduced â†’ Doubts |
-| 3 | Questioning (60/100) | Concern (55/100) | Choice made â†’ Questions |
-| 4 | Concern (50/100) | Shock (45/100) | Upload â†’ Strange |
-| 5 | Shock (40/100) | Discomfort (50/100) | Return â†’ Uncanny |
-| 6 | Discomfort (45/100) | Crisis (40/100) | Questioning â†’ Existential |
-| 7 | Crisis (35/100) | Reflection (55/100) | Philosophy â†’ Understanding |
-| 8 | Reflection (50/100) | Peace (70/100) | Another choice â†’ Acceptance |
-| 9 | Peace (65/100) | Understanding (75/100) | Complexity â†’ Wisdom |
-| 10 | Understanding (70/100) | Acceptance (80/100) | Own mortality â†’ Peace |
+| 1 | Peace (80/100) | Comfort (85/100) | Work â†?Presence |
+| 2 | Comfort (80/100) | Questioning (65/100) | Option introduced â†?Doubts |
+| 3 | Questioning (60/100) | Concern (55/100) | Choice made â†?Questions |
+| 4 | Concern (50/100) | Shock (45/100) | Upload â†?Strange |
+| 5 | Shock (40/100) | Discomfort (50/100) | Return â†?Uncanny |
+| 6 | Discomfort (45/100) | Crisis (40/100) | Questioning â†?Existential |
+| 7 | Crisis (35/100) | Reflection (55/100) | Philosophy â†?Understanding |
+| 8 | Reflection (50/100) | Peace (70/100) | Another choice â†?Acceptance |
+| 9 | Peace (65/100) | Understanding (75/100) | Complexity â†?Wisdom |
+| 10 | Understanding (70/100) | Acceptance (80/100) | Own mortality â†?Peace |
 
 ## Prohibited Elements
 

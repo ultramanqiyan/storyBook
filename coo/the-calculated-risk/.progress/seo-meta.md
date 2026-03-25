@@ -235,15 +235,15 @@ Alex reaches the summitâ€”not because she calculated every move, but because she
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (system failure)
-**Chapter 2** â†’ Chapter 3 (fear discovery)
-**Chapter 3** â†’ Chapter 4 (mentor found)
-**Chapter 4** â†’ Chapter 5 (training begins)
-**Chapter 5** â†’ Chapter 6 (testing limits)
-**Chapter 6** â†’ Chapter 7 (crisis strikes)
-**Chapter 7** â†’ Chapter 8 (decision point)
-**Chapter 8** â†’ Chapter 9 (recovery)
-**Chapter 9** â†’ Chapter 10 (resolution)
+**Chapter 1** â†?Chapter 2 (system failure)
+**Chapter 2** â†?Chapter 3 (fear discovery)
+**Chapter 3** â†?Chapter 4 (mentor found)
+**Chapter 4** â†?Chapter 5 (training begins)
+**Chapter 5** â†?Chapter 6 (testing limits)
+**Chapter 6** â†?Chapter 7 (crisis strikes)
+**Chapter 7** â†?Chapter 8 (decision point)
+**Chapter 8** â†?Chapter 9 (recovery)
+**Chapter 9** â†?Chapter 10 (resolution)
 
 ### Thematic Cluster Links
 

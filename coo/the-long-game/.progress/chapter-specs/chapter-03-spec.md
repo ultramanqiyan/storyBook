@@ -167,7 +167,7 @@
 **Internal Journey**
 - **Internal Conflict**: His worldview challenged
 - **Realization/Moment of Clarity**: A crack in the armor
-- **Emotional Change**: Frustration â†’ Curiosity â†’ Discomfort â†’ Uncertainty
+- **Emotional Change**: Frustration â†?Curiosity â†?Discomfort â†?Uncertainty
 - **Psychological Shift**: First doubt about speed
 
 ### 5.2 Supporting Character: Jake Morrison (Introduction)
@@ -195,7 +195,7 @@
 2. Jake: "Three months. Give or take."
 3. Michael: "Three months? For one table?"
 4. Jake: "It's not just a table. It's someone's dining room. Where they'll have meals for the next fifty years."
-5. Michael: "But the efficiencyâ€”"
+5. Michael: "But the efficiencyâ€?
 6. Jake: "Efficiency isn't always speed. Sometimes the most efficient thing is to take your time and do it right."
 7. Michael: "That doesn't work in my world. We ship fast, iterate, fix later."
 8. Jake: "How's that working out for you?"
@@ -217,8 +217,7 @@
 | Internal | The itch to rush | 3, 4 | Discomfort | [x] |
 | Internal | Curiosity | 3 | Opening | [x] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications

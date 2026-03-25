@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Warm, Artistic, Questioning, Acceptance, Peace
-- **Emotional Arc**: Comfortable routine â†’ Questioning â†’ Crisis â†’ Understanding â†’ Acceptance
+- **Emotional Arc**: Comfortable routine â†?Questioning â†?Crisis â†?Understanding â†?Acceptance
 - **Emotional Pacing**: Warm beginning, philosophical deepening, contemplative resolution
 
 ## Character Voices
@@ -104,16 +104,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Routine (75/100) | Curiosity (80/100) | Work â†’ Unusual request |
-| 2 | Curiosity (75/100) | Connection (80/100) | Meeting Buddy â†’ Bond |
-| 3 | Connection (75/100) | Understanding (80/100) | Learning â†’ Empathy |
-| 4 | Understanding (75/100) | Grief (70/100) | Owner's grief â†’ Shared |
-| 5 | Grief (65/100) | Purpose (80/100) | Session â†’ Meaning |
-| 6 | Purpose (75/100) | Questioning (60/100) | Mourning â†’ Questions |
-| 7 | Questioning (55/100) | Crisis (45/100) | Philosophy â†’ Crisis |
-| 8 | Crisis (40/100) | Reflection (55/100) | Community â†’ Perspectives |
-| 9 | Reflection (50/100) | Acceptance (70/100) | Definition â†’ New framework |
-| 10 | Acceptance (65/100) | Peace (80/100) | Meaning â†’ Resolution |
+| 1 | Routine (75/100) | Curiosity (80/100) | Work â†?Unusual request |
+| 2 | Curiosity (75/100) | Connection (80/100) | Meeting Buddy â†?Bond |
+| 3 | Connection (75/100) | Understanding (80/100) | Learning â†?Empathy |
+| 4 | Understanding (75/100) | Grief (70/100) | Owner's grief â†?Shared |
+| 5 | Grief (65/100) | Purpose (80/100) | Session â†?Meaning |
+| 6 | Purpose (75/100) | Questioning (60/100) | Mourning â†?Questions |
+| 7 | Questioning (55/100) | Crisis (45/100) | Philosophy â†?Crisis |
+| 8 | Crisis (40/100) | Reflection (55/100) | Community â†?Perspectives |
+| 9 | Reflection (50/100) | Acceptance (70/100) | Definition â†?New framework |
+| 10 | Acceptance (65/100) | Peace (80/100) | Meaning â†?Resolution |
 
 ## Prohibited Elements
 

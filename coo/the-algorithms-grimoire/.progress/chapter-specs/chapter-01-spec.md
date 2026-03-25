@@ -2,7 +2,7 @@
 
 ## Chapter Positioning
 - **Purpose**: Introduce protagonist, core conflict, and world-building
-- **Emotional Arc**: Frustration â†’ Curiosity â†’ Shock
+- **Emotional Arc**: Frustration â†?Curiosity â†?Shock
 - **Relation to Overall Story**: Establish first contact between magical world and AI book
 
 ## Core Events

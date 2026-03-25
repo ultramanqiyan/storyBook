@@ -152,7 +152,7 @@ Intensity
 |-------|----------|------------|------------|---------|----------------|
 | 1 | Sarah's apartment | Sarah, AUGUST | 400 | Morning practice | Peace |
 | 2 | Various | Sarah, AUGUST | 500 | AUGUST's questions | Curiosity |
-| 3 | Park | Sarah, AUGUST | 600 | The test and choice | Tension â†’ Surprise |
+| 3 | Park | Sarah, AUGUST | 600 | The test and choice | Tension â†?Surprise |
 | 4 | Park | Sarah, AUGUST | 500 | After the choice | Wonder |
 | 5 | Sarah's apartment | Sarah, AUGUST | 500 | The conversation | Hope |
 
@@ -389,8 +389,7 @@ Back home, Sarah sat with her phone on the table, AUGUST's interface glowing sof
 | Tactile | Breath, body at ease | 1 | Presence |
 | Tactile | Weight of the moment | 4 | Significance |
 
-**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ“
-
+**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -434,7 +433,7 @@ Sarah sat in the quiet of her apartment, phone glowing softly on the table. AUGU
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Word count within target range
 - [ ] Three-layer emotional depth present

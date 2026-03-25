@@ -18,8 +18,8 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Curiosity, Wonder, Urgency, Determination, Triumph
-- **Emotional Arc**: Discovery â†’ Learning â†’ Threat â†’ Battle â†’ Protection
-- **Emotional Pacing**: Setup (chapters 1-2) â†’ Rising (chapters 3-5) â†’ Climax (chapters 6-8) â†’ Resolution (chapters 9-10)
+- **Emotional Arc**: Discovery â†?Learning â†?Threat â†?Battle â†?Protection
+- **Emotional Pacing**: Setup (chapters 1-2) â†?Rising (chapters 3-5) â†?Climax (chapters 6-8) â†?Resolution (chapters 9-10)
 
 ## Character Voices
 
@@ -114,16 +114,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Curiosity (70/100) | Wonder (80/100) | Discovery â†’ Amazement |
-| 2 | Wonder (75/100) | Excitement (85/100) | First spell â†’ Thrill |
-| 3 | Excitement (80/100) | Concern (70/100) | Threat revealed â†’ Worry |
-| 4 | Concern (65/100) | Determination (80/100) | Role accepted â†’ Resolve |
-| 5 | Determination (75/100) | Anger (80/100) | Corporate threat â†’ Outrage |
-| 6 | Anger (75/100) | Understanding (70/100) | Price revealed â†’ Acceptance |
-| 7 | Understanding (65/100) | Crisis (90/100) | Breach â†’ Danger |
-| 8 | Crisis (85/100) | Courage (85/100) | Confrontation â†’ Battle |
-| 9 | Courage (80/100) | Triumph (90/100) | Victory â†’ Success |
-| 10 | Triumph (85/100) | Hope (90/100) | Choice made â†’ Future |
+| 1 | Curiosity (70/100) | Wonder (80/100) | Discovery â†?Amazement |
+| 2 | Wonder (75/100) | Excitement (85/100) | First spell â†?Thrill |
+| 3 | Excitement (80/100) | Concern (70/100) | Threat revealed â†?Worry |
+| 4 | Concern (65/100) | Determination (80/100) | Role accepted â†?Resolve |
+| 5 | Determination (75/100) | Anger (80/100) | Corporate threat â†?Outrage |
+| 6 | Anger (75/100) | Understanding (70/100) | Price revealed â†?Acceptance |
+| 7 | Understanding (65/100) | Crisis (90/100) | Breach â†?Danger |
+| 8 | Crisis (85/100) | Courage (85/100) | Confrontation â†?Battle |
+| 9 | Courage (80/100) | Triumph (90/100) | Victory â†?Success |
+| 10 | Triumph (85/100) | Hope (90/100) | Choice made â†?Future |
 
 ## Prohibited Elements
 

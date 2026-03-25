@@ -164,8 +164,8 @@ Intensity
 | 1 | Sarah's apartment | Sarah, AUGUST | 400 | Failed morning | Exhaustion |
 | 2 | Office | Sarah, coworkers, AUGUST | 700 | Work crisis | Panic |
 | 3 | Office bathroom | Sarah, AUGUST | 400 | Breaking point | Crisis |
-| 4 | Sarah's apartment | Sarah | 500 | Aftermath | Numbness â†’ Vulnerability |
-| 5 | Sarah's apartment | Sarah | 500 | Finding help | Uncertainty â†’ Hope |
+| 4 | Sarah's apartment | Sarah | 500 | Aftermath | Numbness â†?Vulnerability |
+| 5 | Sarah's apartment | Sarah | 500 | Finding help | Uncertainty â†?Hope |
 
 ### 4.2 Scene Specifications
 
@@ -361,7 +361,7 @@ One name kept appearing. Dr. Lin. Something about it felt right. Sarah took a br
 **Dialogue**:
 1. AUGUST: "I've detected elevated heart rate. Would you like me to suggest breathing techniques?"
 2. Sarah: (No response, breathing hard)
-3. AUGUST: "I can also optimize your exit strategy from this situation. The most efficient path would beâ€”"
+3. AUGUST: "I can also optimize your exit strategy from this situation. The most efficient path would beâ€?
 4. Sarah: "Stop." (Pause) "Please. Just stop."
 5. AUGUST: (Silence)
 
@@ -384,8 +384,7 @@ One name kept appearing. Dr. Lin. Something about it felt right. Sarah took a br
 | Internal | *I can't do this* | Throughout | Desperation |
 | Internal | *I need help* | 4 | Truth |
 
-**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ“
-
+**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -429,7 +428,7 @@ The phone rang three times. Four. Sarah was about to hang up when a voice answer
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Word count within target range
 - [ ] Three-layer emotional depth present

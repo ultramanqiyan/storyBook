@@ -60,7 +60,7 @@
 The Rift opened like a wound in the world. Elara stepped through, and everything she knew fell away—up, down, past, future, all became meaningless. She was floating in a place that wasn't a place, surrounded by moments that hadn't happened yet and memories that had already faded. Somewhere in this chaos, her sister was waiting.
 
 ### 4.2 Ending
-Lyra's face was older than Elara remembered—or was it younger? Time moved strangely here, and her sister seemed to exist in multiple moments at once. "You came," Lyra said, her voice echoing with the weight of five years. "I knew you would. But Elara—" her eyes were sad, ancient "—you shouldn't have. He's been waiting for someone to open the door. And now you have."
+Lyra's face was older than Elara remembered—or was it younger? Time moved strangely here, and her sister seemed to exist in multiple moments at once. "You came," Lyra said, her voice echoing with the weight of five years. "I knew you would. But Elara�? her eyes were sad, ancient "—you shouldn't have. He's been waiting for someone to open the door. And now you have."
 
 ---
 
@@ -79,7 +79,7 @@ Lyra's face was older than Elara remembered—or was it younger? Time moved stra
 ## 6. Quality Verification Checklist
 
 - [ ] Emotional curve matches specification
-- [ ] Sensory detail count ≥5, types ≥3
+- [ ] Sensory detail count �?, types �?
 - [ ] Zero AI template phrases detected
 - [ ] The Rift is genuinely otherworldly
 

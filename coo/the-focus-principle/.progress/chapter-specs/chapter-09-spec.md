@@ -35,8 +35,8 @@
 | Closing | Achievement (65) | Medium | 200 words |
 
 ### 2.2 Emotional Transitions
-- Clarity â†’ Satisfaction: Progress accelerating toward completion
-- Satisfaction â†’ Achievement: The breakthrough moment
+- Clarity â†?Satisfaction: Progress accelerating toward completion
+- Satisfaction â†?Achievement: The breakthrough moment
 
 ---
 

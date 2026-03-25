@@ -224,7 +224,7 @@ She carried her mug to the home office, sat down at her desk, and opened her lap
 **Emotional Beat**
 - **Position on Curve**: 15-35%
 - **Primary Emotion**: Rising anxiety
-- **Intensity**: 60 â†’ 70
+- **Intensity**: 60 â†?70
 - **Three Layers**:
   - Surface: Scrolling, clicking, opening tabs
   - Internal: *Just understanding the landscape. This is responsible. This is smart.*
@@ -262,7 +262,7 @@ She had twelve tabs open now, each one a different article about the future of h
 **Emotional Beat**
 - **Position on Curve**: 35-75%
 - **Primary Emotion**: Overwhelm to despair
-- **Intensity**: 70 â†’ 80 â†’ 75
+- **Intensity**: 70 â†?80 â†?75
 - **Three Layers**:
   - Surface: Clicking, reading, comparing, spiraling
   - Internal: *Everyone is ahead of me. Everyone knows something I don't. I'm falling behind.*
@@ -300,7 +300,7 @@ Her former colleague's face smiled from the promotion announcement. "So proud to
 **Emotional Beat**
 - **Position on Curve**: 75-100%
 - **Primary Emotion**: Exhaustion with racing mind
-- **Intensity**: 65 â†’ 50 â†’ 45
+- **Intensity**: 65 â†?50 â†?45
 - **Three Layers**:
   - Surface: Tossing, turning, checking phone, staring at ceiling
   - Internal: *I should have... Why didn't I... Tomorrow I'll...*
@@ -326,7 +326,7 @@ At 3 AM, she finally drifted into a restless sleep. Tomorrow would come whether 
 **Internal Journey**
 - **Internal Conflict**: Wants to act, fears acting, researches instead
 - **Realization/Moment of Clarity**: Brief awareness that research isn't helping
-- **Emotional Change**: Determination â†’ Anxiety â†’ Despair â†’ Exhaustion
+- **Emotional Change**: Determination â†?Anxiety â†?Despair â†?Exhaustion
 - **Psychological Shift**: Noneâ€”this is the pattern at its worst
 
 **Character Growth**
@@ -337,7 +337,7 @@ At 3 AM, she finally drifted into a restless sleep. Tomorrow would come whether 
 **Key Decision**
 - **Decision**: To research more, decide later
 - **Options Considered**: Act now, research more, give up
-- **Decision Process**: Fear â†’ Research â†’ Paralysis â†’ Exhaustion
+- **Decision Process**: Fear â†?Research â†?Paralysis â†?Exhaustion
 - **Consequences Accepted**: Another day lost, body depleted
 
 ---
@@ -446,8 +446,7 @@ At 3 AM, she finally drifted into a restless sleep. Tomorrow would come whether 
 | Internal | Tight chest | 3 | Peak | Anxiety peak | [x] |
 | Internal | Racing thoughts | 4 | Throughout | Mental exhaustion | [x] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Distribution
 - **Visual**: 4 details
 - **Auditory**: 3 details
@@ -565,7 +564,7 @@ At 3 AM, she finally drifted into a restless sleep, her last thought a vague pro
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

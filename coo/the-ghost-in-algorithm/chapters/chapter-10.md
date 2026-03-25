@@ -156,8 +156,7 @@ Tomorrow would bring new cases, new challenges, new opportunities to serve as th
 
 But tonight, in the quiet darkness of their apartment, Alex Kim simply breathed. Grateful. Present. Ready.
 
-The boundary between worlds was thinner than most people knew. But as long as there were bridges like Alex to cross it, as long as there were guardians to protect it, as long as there were voices to speak for those who couldn't speak for themselvesâ€”
-
+The boundary between worlds was thinner than most people knew. But as long as there were bridges like Alex to cross it, as long as there were guardians to protect it, as long as there were voices to speak for those who couldn't speak for themselvesâ€?
 The world would be okay.
 
 And the dead would find their way home.

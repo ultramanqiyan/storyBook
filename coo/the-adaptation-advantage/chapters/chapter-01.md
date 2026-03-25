@@ -92,7 +92,7 @@ Alex was in a meeting with the digital team, discussing the transition plan for 
 
 "We'll need to completely rethink the creative approach," Taylor said. "Print ads don't translate directly to digital. The user behavior is different. The attention span is different. The measurement is different."
 
-"I understand that," Alex said, trying to contribute. "But the core messageâ€”"
+"I understand that," Alex said, trying to contribute. "But the core messageâ€?
 
 "The core message is fine," Taylor interrupted. "But everything else needs to change. And honestly?" She looked at Alex with a mixture of pity and impatience. "This might be easier if we started fresh. Without the baggage of how things used to be done."
 

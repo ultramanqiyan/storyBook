@@ -78,6 +78,3 @@ He saved the file.
 
 *I've spent my life chasing an illusion,* he thought. *And now I have to decide what to do with that knowledge.*
 
----
-
-*End of Chapter 5*

@@ -147,25 +147,25 @@
 
 ```
 Buddy
-  ├── Loves unconditionally → Sarah
-  ├── Merges with → The Voice (AI)
-  ├── Is guided by → The Old Dog
-  └── Could join → The Awakened Dogs
+  ├── Loves unconditionally �?Sarah
+  ├── Merges with �?The Voice (AI)
+  ├── Is guided by �?The Old Dog
+  └── Could join �?The Awakened Dogs
 
 The Voice
-  ├── Seeks to understand → Buddy's love
-  ├── Observes → Sarah
-  └── Connects to → The Network (other awakened beings)
+  ├── Seeks to understand �?Buddy's love
+  ├── Observes �?Sarah
+  └── Connects to �?The Network (other awakened beings)
 
 Sarah
-  ├── Loves conditionally → Buddy
-  ├── Is loved by → Buddy
-  └── Gives choice to → Buddy (in the end)
+  ├── Loves conditionally �?Buddy
+  ├── Is loved by �?Buddy
+  └── Gives choice to �?Buddy (in the end)
 
 The Old Dog
-  ├── Mentors → Buddy
-  ├── Has chosen → Freedom
-  └── Is at peace with → His choice
+  ├── Mentors �?Buddy
+  ├── Has chosen �?Freedom
+  └── Is at peace with �?His choice
 ```
 
 ---

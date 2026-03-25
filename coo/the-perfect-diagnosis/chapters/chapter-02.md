@@ -80,11 +80,11 @@ The conference room was all glass and white surfaces, designed to make everyone 
 
 "The incident report has been filed." Dr. Cross's fingers moved across her screen. "System malfunction. Temporary connectivity issue between the diagnostic interface and the central processing unit. It's been resolved."
 
-"I... should have been able toâ€”" Sarah started.
+"I... should have been able toâ€? Sarah started.
 
 "The system failed, Dr. Chen." Dr. Cross finally looked up, her eyes cool and assessing. "Not you. That's the official position."
 
-Sarah blinked. "But I couldn'tâ€”"
+Sarah blinked. "But I couldn'tâ€?
 
 "We've reviewed the footage. The system was unresponsive for approximately four minutes. During that time, you were unable to proceed with the procedure. This is consistent with expected behavior when the guidance system is offline." Dr. Cross's tone was clinical, detached. "The system is designed to support your decision-making. When it's unavailable, your performance is expected to degrade. This is not a reflection on you personally."
 

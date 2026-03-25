@@ -259,7 +259,7 @@ Marcus had three and a half hours. Three and a half hours to hide a consciousnes
 
 **Emotional Beat**
 - **Position on Curve**: 30-60%
-- **Primary Emotion**: Panic â†’ Determination
+- **Primary Emotion**: Panic â†?Determination
 - **Intensity**: 85-90
 - **Three Layers**:
   - Surface: Working frantically, then calmly
@@ -517,8 +517,7 @@ Ford arrived at exactly 2:00 PM. He moved through the lab like a predator, eyes 
 | Internal | Panic to determination | 3 | Throughout | Character arc | [ ] |
 | Internal | Relief, love | 5 | Throughout | Bond | [ ] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -597,7 +596,7 @@ Ford was watching. The institution was watching. But Marcus had made his choice.
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

@@ -18,7 +18,7 @@
 
 ## Emotional Tone
 - **Overall Atmosphere**: Curiosity, Wonder, Urgency, Determination, Triumph
-- **Emotional Arc**: Discovery â†’ Learning â†’ Threat â†’ Battle â†’ Unity
+- **Emotional Arc**: Discovery â†?Learning â†?Threat â†?Battle â†?Unity
 - **Emotional Pacing**: Medium build, accelerating toward resolution
 
 ## Character Voices
@@ -31,7 +31,7 @@
 - **Sentence Patterns**: Complex equations and spell formulas
 - **Personality Traits**: Brilliant, skeptical, open-minded, brave
 - **Internal Monologue Style**: Analyzes magic through physics, finds patterns
-- **Unique Expression**: "The math proves..." â†’ "The magic proves..."
+- **Unique Expression**: "The math proves..." â†?"The magic proves..."
 - **Speech Quirks**: Uses physics metaphors for magical concepts
 
 ### Professor Aldric Webb (Mentor)
@@ -114,16 +114,16 @@
 ### Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Curiosity (60/100) | Wonder (80/100) | Discovery â†’ Amazement |
-| 2 | Wonder (75/100) | Excitement (85/100) | Physics meets magic â†’ Thrill |
-| 3 | Excitement (80/100) | Belonging (75/100) | Finds coven â†’ Community |
-| 4 | Belonging (70/100) | Confidence (80/100) | Training â†’ Mastery |
-| 5 | Confidence (75/100) | Concern (65/100) | Threat emerges â†’ Worry |
-| 6 | Concern (60/100) | Determination (85/100) | Experiment â†’ Resolve |
-| 7 | Determination (80/100) | Triumph (90/100) | Breakthrough â†’ Success |
-| 8 | Triumph (85/100) | Crisis (95/100) | Battle â†’ Peak danger |
-| 9 | Crisis (90/100) | Unity (85/100) | Unity â†’ Harmony |
-| 10 | Unity (80/100) | Hope (90/100) | Future â†’ New world |
+| 1 | Curiosity (60/100) | Wonder (80/100) | Discovery â†?Amazement |
+| 2 | Wonder (75/100) | Excitement (85/100) | Physics meets magic â†?Thrill |
+| 3 | Excitement (80/100) | Belonging (75/100) | Finds coven â†?Community |
+| 4 | Belonging (70/100) | Confidence (80/100) | Training â†?Mastery |
+| 5 | Confidence (75/100) | Concern (65/100) | Threat emerges â†?Worry |
+| 6 | Concern (60/100) | Determination (85/100) | Experiment â†?Resolve |
+| 7 | Determination (80/100) | Triumph (90/100) | Breakthrough â†?Success |
+| 8 | Triumph (85/100) | Crisis (95/100) | Battle â†?Peak danger |
+| 9 | Crisis (90/100) | Unity (85/100) | Unity â†?Harmony |
+| 10 | Unity (80/100) | Hope (90/100) | Future â†?New world |
 
 ## Prohibited Elements
 

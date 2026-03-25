@@ -248,15 +248,15 @@ Alex becomes a bridge between the living and the deadâ€”using his skills to help
 
 ### Chapter-to-Chapter Links
 
-**Chapter 1** â†’ Chapter 2 (message â†’ investigation)
-**Chapter 2** â†’ Chapter 3 (investigation â†’ patterns)
-**Chapter 3** â†’ Chapter 4 (patterns â†’ connection)
-**Chapter 4** â†’ Chapter 5 (connection â†’ truth)
-**Chapter 5** â†’ Chapter 6 (truth â†’ danger)
-**Chapter 6** â†’ Chapter 7 (danger â†’ ritual)
-**Chapter 7** â†’ Chapter 8 (ritual â†’ confrontation)
-**Chapter 8** â†’ Chapter 9 (confrontation â†’ resolution)
-**Chapter 9** â†’ Chapter 10 (resolution â†’ bridge)
+**Chapter 1** â†?Chapter 2 (message â†?investigation)
+**Chapter 2** â†?Chapter 3 (investigation â†?patterns)
+**Chapter 3** â†?Chapter 4 (patterns â†?connection)
+**Chapter 4** â†?Chapter 5 (connection â†?truth)
+**Chapter 5** â†?Chapter 6 (truth â†?danger)
+**Chapter 6** â†?Chapter 7 (danger â†?ritual)
+**Chapter 7** â†?Chapter 8 (ritual â†?confrontation)
+**Chapter 8** â†?Chapter 9 (confrontation â†?resolution)
+**Chapter 9** â†?Chapter 10 (resolution â†?bridge)
 
 ### Thematic Cluster Links
 

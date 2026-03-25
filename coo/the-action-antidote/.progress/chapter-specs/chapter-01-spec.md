@@ -225,7 +225,7 @@ She finally swung her legs out of bed, the cold floor a small shock. Twenty minu
 **Emotional Beat**
 - **Position on Curve**: 15-55%
 - **Primary Emotion**: Rising anxiety to peak paralysis
-- **Intensity**: 45 â†’ 70
+- **Intensity**: 45 â†?70
 - **Three Layers**:
   - Surface: Typing, scrolling, opening tabs, cursor hovering
   - Internal: *I should respond. Which first? What if I choose wrong?*
@@ -325,7 +325,7 @@ Tomorrow she would decide about the training. Tomorrow she would respond to the 
 **Internal Journey**
 - **Internal Conflict**: Wants to change, fears change, doesn't know how
 - **Realization/Moment of Clarity**: Brief awareness at night that this isn't working
-- **Emotional Change**: Numb â†’ Anxious â†’ Resigned â†’ Faintly hopeful
+- **Emotional Change**: Numb â†?Anxious â†?Resigned â†?Faintly hopeful
 - **Psychological Shift**: None yetâ€”this is the before state
 
 **Character Growth**
@@ -336,7 +336,7 @@ Tomorrow she would decide about the training. Tomorrow she would respond to the 
 **Key Decision**
 - **Decision**: To decide tomorrow
 - **Options Considered**: Register now, skip it, research more
-- **Decision Process**: Research â†’ Overwhelm â†’ Procrastination â†’ "Tomorrow"
+- **Decision Process**: Research â†?Overwhelm â†?Procrastination â†?"Tomorrow"
 - **Consequences Accepted**: Another day of not choosing
 
 ---
@@ -442,8 +442,7 @@ Tomorrow she would decide about the training. Tomorrow she would respond to the 
 | Gustatory | Cold coffee taste | 2 | End | Stale routine | [x] |
 | Internal | Tight chest | 2 | Peak moment | Physical anxiety | [x] |
 
-**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ“
-
+**Requirement**: Minimum 5 sensory details, covering at least 3 types âœ?
 ### 7.2 Sensory Detail Functions
 Each detail must serve at least one function:
 - [x] Establish atmosphere/mood
@@ -454,8 +453,7 @@ Each detail must serve at least one function:
 - [x] Ground reader in physical reality
 
 ### 7.3 Sensory Distribution
-- **Visual**: 3 details (target: 40%) âœ“
-- **Auditory**: 2 details
+- **Visual**: 3 details (target: 40%) âœ?- **Auditory**: 2 details
 - **Tactile**: 2 details
 - **Olfactory**: 1 detail
 - **Gustatory**: 1 detail
@@ -578,7 +576,7 @@ The ceiling was barely visible in the dark, but Sarah knew every crack and water
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Dialogue has subtext in every exchange
 - [ ] Character has clear internal conflict

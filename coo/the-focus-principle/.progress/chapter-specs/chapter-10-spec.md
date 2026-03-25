@@ -35,8 +35,8 @@
 | Closing | Peace (65) | Medium | 200 words |
 
 ### 2.2 Emotional Transitions
-- Achievement â†’ Confidence: Seeing the broader impact of success
-- Confidence â†’ Peace: Accepting the ongoing nature of focus
+- Achievement â†?Confidence: Seeing the broader impact of success
+- Confidence â†?Peace: Accepting the ongoing nature of focus
 
 ---
 

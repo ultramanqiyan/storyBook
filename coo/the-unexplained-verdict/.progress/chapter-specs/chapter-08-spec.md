@@ -261,7 +261,7 @@ The Cleveland sky was visible through her window, gray but brightening at the ed
 **Internal Journey**
 - **Internal Conflict**: Shame vs. the need to change
 - **Realization/Moment of Clarity**: She chose this; she can choose differently
-- **Emotional Change**: Awareness â†’ examination â†’ shame â†’ horror â†’ uncertain resolve
+- **Emotional Change**: Awareness â†?examination â†?shame â†?horror â†?uncertain resolve
 - **Psychological Shift**: From victim of AI to agent of her own choices
 
 **Character Growth**
@@ -389,7 +389,7 @@ The Cleveland sky was visible through her window, gray but brightening at the ed
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥5, types â‰¥3
+- [ ] Sensory detail count â‰?, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Character has clear internal conflict
 - [ ] Ending matches specified type

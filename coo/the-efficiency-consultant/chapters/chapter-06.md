@@ -14,10 +14,10 @@ She found what she was looking for under "Methodology Attribution."
 
 The screen displayed a list of consulting methodologies that APEX-7 had learned. Each methodology was attributed to specific source documentsâ€”reports, presentations, case studies. Lisa scrolled through the list, her breath catching as she recognized the names.
 
-Manufacturing Efficiency Framework v3.2 â€” Primary Source: Lisa Park (2019)
-Service Sector Optimization Protocol â€” Primary Source: Lisa Park (2020)
-Workforce Transition Methodology â€” Primary Source: Lisa Park (2021)
-Client Presentation Standards â€” Primary Source: Lisa Park (2022)
+Manufacturing Efficiency Framework v3.2 â€?Primary Source: Lisa Park (2019)
+Service Sector Optimization Protocol â€?Primary Source: Lisa Park (2020)
+Workforce Transition Methodology â€?Primary Source: Lisa Park (2021)
+Client Presentation Standards â€?Primary Source: Lisa Park (2022)
 
 She clicked on the first entry. A detailed breakdown appeared, showing exactly how her methodology had been incorporated into the system. Every step of her process, every framework she'd developed, every heuristic she'd refined over fifteen yearsâ€”all of it had been extracted, codified, and programmed into APEX-7.
 

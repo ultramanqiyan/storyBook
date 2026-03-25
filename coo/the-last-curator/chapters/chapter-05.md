@@ -12,7 +12,7 @@ It started with the metadata.
 
 Marcus had requested the original digital files of Jimmy's work—high-resolution scans for the exhibition catalog. As he examined them, something caught his eye.
 
-The file names followed a pattern: *composition_047_final.jpg*, *study_023_v2.jpg*, *untitled_089.jpg*. The numbers were sequential, but with gaps—47, 23, 89. As if there had been many more iterations that weren't included.
+The file names followed a pattern: *composition_047_final.jpg*, *study_023_v2.jpg*, *untitled_089.jpg*. The numbers were sequential, but with gaps�?7, 23, 89. As if there had been many more iterations that weren't included.
 
 He opened the first image's properties. Created: March 3, 2037. Modified: March 3, 2037. Standard information.
 
@@ -74,7 +74,7 @@ Jimmy was quiet for a long moment. Then he laughed—a short, sharp sound.
 
 "You know what's funny, Marcus? Everyone asks me that. Everyone. Critics, collectors, journalists. They all want to know if I'm 'real.' If I'm 'authentic.' As if that's the only thing that matters."
 
-"It does matter. For this exhibition—"
+"It does matter. For this exhibition�?
 
 "For this exhibition, for your reputation, for the whole goddamn industry." Jimmy's voice rose. "You know what no one asks? They don't ask if the work is good. They don't ask if it means something. They just want to know if a human made it."
 

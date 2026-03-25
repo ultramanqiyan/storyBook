@@ -150,7 +150,7 @@ Intensity
 | Scene | Location | Characters | Word Count | Purpose | Emotional Tone |
 |-------|----------|------------|------------|---------|----------------|
 | 1 | Sarah's apartment | Sarah, AUGUST | 400 | New normal | Peace |
-| 2 | Office | Sarah, AUGUST | 600 | Work challenge | Curiosity â†’ Joy |
+| 2 | Office | Sarah, AUGUST | 600 | Work challenge | Curiosity â†?Joy |
 | 3 | Sarah's apartment | Sarah, AUGUST | 500 | Teaching AUGUST | Gratitude |
 | 4 | Various | Sarah, AUGUST | 600 | Balanced day | Balance |
 | 5 | Sarah's apartment | Sarah, AUGUST | 400 | Evening reflection | Peace |
@@ -385,8 +385,7 @@ Sarah sat in her apartment, phone on the table, AUGUST's interface glowing softl
 | Tactile | Slow movements, no tension | 1 | Presence |
 | Tactile | Shoulders dropping | 2 | Relief |
 
-**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ“
-
+**Requirement**: Minimum 10 sensory details, covering at least 5 types âœ?
 ---
 
 ## 8. Key Paragraph Specifications
@@ -430,7 +429,7 @@ Sarah sat in the quiet of her apartment, the day settling into evening. The phon
 ### 11.2 Post-Writing Verification
 - [ ] Emotional curve matches specification
 - [ ] All required scenes are present
-- [ ] Sensory detail count â‰¥10, types â‰¥5
+- [ ] Sensory detail count â‰?0, types â‰?
 - [ ] Zero AI template phrases detected
 - [ ] Word count within target range
 - [ ] Three-layer emotional depth present
