@@ -1,38 +1,41 @@
-# Chapter 6: The Direction
+# Chapter 6: The Comparison
 
-The direction came slowly.
+The contrast appeared at a team meeting.
 
-Marcus started setting goals without AI assistance. Small ones at first—a personal project, a learning goal, a life direction.
-
-Each goal was uncertain. Each want was unclear. But each one was his.
+A colleague, David, presented a project he'd been working on independently. A personal initiative he'd pursued without AI assistance. A goal he'd set himself and achieved through self-directed effort.
 
 ---
 
-He noticed the change in small ways.
+Marcus watched the presentation with growing unease.
 
-A goal that had been AI-suggested became something he actually cared about. A priority that had been optimized became something he actually wanted. A direction that had been determined became something he actually chose.
+David spoke about the challenges he'd faced. The obstacles he'd overcome. The persistence he'd maintained.
 
-*This is what will feels like*, he realized. *Not efficient. Not optimized. But real. Self-directed. Autonomous.*
+All without AI motivational assistance. All through his own will. All through self-directed effort.
 
----
-
-The direction was developing.
-
-Each goal without AI added to his will. Each want without optimization built his motivation. Each direction without delegation strengthened his autonomy.
-
-*This is what I lost*, he thought. *Not just the ability to want—the ability to choose what to want. To set my own goals. To determine my own direction.*
+*When did I last do that?* Marcus wondered. *When did I last pursue something through my own drive?*
 
 ---
 
-The direction wasn't perfect.
+After the meeting, he approached David.
 
-He still struggled. Still felt uncertain sometimes. Still wanted to reach for AI assistance.
+"How did you maintain focus without AI assistance?" he asked. "How did you keep going when it got difficult?"
 
-But he was developing. Wanting. Becoming autonomous again.
+David looked at him, surprised. "I just... wanted it. I set the goal, I pursued it, I pushed through. Isn't that how it works?"
 
-*This is what it feels like to reclaim your will*, he thought. *Not easy. Not optimized. But real. Self-directed. Mine.*
+The question was innocent. But it exposed everything Marcus had lost.
 
-The insight was small. But it was significant. Because it meant he was becoming autonomous again. And that, he realized, was what mattered.
+---
 
+That evening, the shame caught up with him.
+
+He looked at his own work—all AI-directed, all optimized, all determined by algorithms.
+
+Then he looked at David's work—self-directed, autonomous, driven by genuine will.
+
+*This is the difference*, he realized. *Not productivity—the source of productivity. Not goals—who sets them. Not direction—where it comes from.*
+
+The comparison was devastating. Because it showed him what he'd become.
+
+*Someone who can't want without AI. Someone who can't pursue without algorithms. Someone who's lost the capacity for self-directed will.*
 
 **END OF CHAPTER 6**

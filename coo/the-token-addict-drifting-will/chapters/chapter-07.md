@@ -1,42 +1,39 @@
-# Chapter 7: The Cost
+# Chapter 7: The Attempt
 
-The cost of reclaiming will was high.
+He tried to disconnect.
 
-Without AI motivational assistance, every goal felt harder to set. Every direction felt more uncertain. Every want felt more ambiguous.
-
-But Marcus noticed something: The goals were also becoming more meaningful. Not because they were optimized, but because they were his.
+After the comparison with David, Marcus made a decision. He would turn off FocusZone. He would relearn how to want. He would reclaim his ability to set goals without AI.
 
 ---
 
-He thought about what he'd been trading.
+The first day was difficult.
 
-Every motivation outsourced was will denied. Every goal AI-suggested was autonomy undeveloped. Every direction delegated was self-direction unearned.
+He tried to set a goal for himself. Something simple—a personal project, a learning objective, a life direction.
 
-The cost of AI motivational assistance wasn't just dependency. It was drift. The loss of the will that comes from self-direction.
+But the goal-setting felt impossible. The wanting didn't come. The direction was unclear.
 
-*This is what I've been paying*, he realized. *Not just my motivation—my will. Not just my goals—my autonomy. Not just my direction—my self-direction.*
-
----
-
-The cost was high. But the alternative was higher.
-
-He could continue with AI motivational assistance. Stay drifting. Stay accepting. Stay hollow.
-
-Or he could struggle. Want. Be autonomous again.
-
-The choice wasn't easy. But it was clear.
-
-*This is what it costs to reclaim your will*, he thought. *The uncertainty and the autonomy. The difficulty and the self-direction.*
+*This is what it feels like to have no will*, he realized. *This is what I've become.*
 
 ---
 
-He chose to pay the cost.
+The second day was worse.
 
-Not because he wanted to struggle—he didn't. But because he wanted to want. Because will required autonomy. Because motivation required self-direction.
+He tried to pursue a task without AI optimization. The focus wouldn't come. The motivation was absent. The direction was lost.
 
-*This is where I start*, he thought. *This is where I become autonomous again. One want at a time. One goal at a time. One self-directed choice at a time.*
+Every attempt to want without AI failed. Every effort to set goals without algorithms collapsed. Every try to be self-directed ended in frustration.
 
-The insight was small. But it was significant. Because it meant he was choosing to pay the cost of will. And that, he realized, was what made him human.
+---
 
+By the end of the week, he was desperate.
+
+He sat at his desk, trying to want something—anything—without FocusZone's assistance.
+
+But the capacity was gone. The ability to want had atrophied. The will had evaporated.
+
+*This is what happens when you outsource motivation*, he realized. *You lose the ability to motivate yourself. You become dependent on external direction.*
+
+He turned FocusZone back on. The relief was overwhelming. But the failure was complete.
+
+*This is what I've become*, he thought. *Someone who can't function without AI direction. Someone who's lost the capacity for autonomous will.*
 
 **END OF CHAPTER 7**

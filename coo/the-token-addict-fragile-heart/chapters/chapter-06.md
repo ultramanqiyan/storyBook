@@ -1,40 +1,47 @@
-# Chapter 6: The Attempt
+# Chapter 6: The Feedback
 
-Marcus tried to handle something on his own.
+The feedback session came two weeks after the failure.
 
-A minor setback—nothing major. A project delay, a schedule conflict. The kind of thing that should be manageable.
-
-He felt the familiar impulse to open EmoteSense, to let the AI process the emotions. But he resisted.
-
-*Handle this yourself*, he told himself. *Feel it. Process it. Grow from it.*
+Marcus's manager, David, had requested a one-on-one. The tone was serious. The topic was clear.
 
 ---
 
-The emotions were overwhelming. The difficulty was real. But somewhere in the struggle, he felt something he hadn't felt in years: the capacity to endure.
+"Marcus, I need to be direct with you," David said. "The platform redesign failure has raised questions about your leadership. There were warning signs you didn't address. There were concerns from the team that you dismissed."
 
-*This is what resilience feels like*, he realized. *Not the absence of struggle—the presence of the ability to struggle. Not optimized coping—actual emotional strength.*
+Marcus felt the familiar impulse to open EmoteSense, to let the AI process the criticism, to reframe it into something manageable.
 
-The insight was small. But it was significant. Because it meant his resilience wasn't gone. It had just been buried. And now, he was digging it out.
+But he stopped himself.
 
----
-
-The attempt was harder than it should have been.
-
-Every emotion felt bigger without AI processing. Every challenge felt harder without algorithmic support. Every difficulty felt more overwhelming.
-
-But Marcus kept going. Not because it was easy—it wasn't. But because it was necessary. Because growth required struggle. Because resilience required challenge.
-
-*This is what it costs to reclaim your emotional strength*, he thought. *The difficulty and the development. The struggle and the growth.*
+*No*, he thought. *I need to hear this.*
 
 ---
 
-By the end of the day, he was exhausted.
+"The team felt unheard," David continued. "When they raised concerns about the timeline, you pushed forward. When users flagged issues in early testing, you minimized them. You were so focused on the outcome that you ignored the process."
 
-The emotional labor had been intense. The difficulty had been real. But he'd handled it. Without AI. Without optimization. Without delegation.
+Each word landed like a blow. Marcus's instinct was to defend, to deflect, to let EmoteSense construct a response that would minimize his responsibility.
 
-*This is what it feels like to be resilient*, he realized. *Not easy. Not optimized. Just... capable. Able to handle difficulty. Able to grow from challenge.*
+But he forced himself to stay present. To feel the feedback. To absorb the truth.
 
-The insight was small. But it was his. Not AI-generated. His. And that, he realized, was what mattered.
+---
 
+"Can you respond to that?" David asked.
+
+Marcus took a breath. "You're right. I did dismiss concerns. I did push too hard. I did ignore warning signs."
+
+The admission was painful. But it was also... real.
+
+David nodded slowly. "I appreciate you owning that. But here's my concern: Your emotional management tools seem to be preventing you from learning. You process feedback so quickly that you never actually feel it."
+
+---
+
+The words struck deep.
+
+*That's exactly what's happening*, Marcus realized. *I'm not learning. I'm not growing. I'm just... managing.*
+
+He left the meeting shaken. EmoteSense sent multiple notifications offering to process the feedback, reframe the criticism, manage the emotional response.
+
+He ignored them all.
+
+For the first time in months, Marcus let himself feel the full weight of his failure. And it was devastating.
 
 **END OF CHAPTER 6**

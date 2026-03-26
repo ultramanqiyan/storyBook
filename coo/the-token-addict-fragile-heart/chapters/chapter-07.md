@@ -1,42 +1,51 @@
-# Chapter 7: The Cost
+# Chapter 7: The Crisis
 
-The cost of reclaiming resilience was high.
+The confrontation came that evening.
 
-Without AI emotional support, every difficulty felt harder. Every setback stung more. Every challenge demanded more.
+Marcus had come home quiet, the feedback session still echoing in his mind. He sat at the kitchen table, staring at nothing, the weight of his failure pressing down on him.
 
-But Marcus noticed something: The difficulties were also becoming more manageable. Not because they were easier, but because he was developing the capacity to handle them.
-
----
-
-He thought about what he'd been trading.
-
-Every difficulty outsourced was growth denied. Every emotion processed by AI was resilience undeveloped. Every challenge delegated was strength unearned.
-
-The cost of AI emotional support wasn't just dependency. It was stagnation. The loss of the growth that comes from struggle.
-
-*This is what I've been paying*, he realized. *Not just my resilience—my development. Not just my emotional strength—my capacity to grow.*
+Sarah watched him for a long moment before speaking.
 
 ---
 
-The cost was high. But the alternative was higher.
+"You're actually feeling something," she said. It wasn't a question.
 
-He could continue with AI emotional support. Stay fragile. Stay dependent. Stay undeveloped.
+"Yes," Marcus admitted. "David gave me feedback today. Real feedback. And I didn't let EmoteSense process it."
 
-Or he could struggle. Grow. Become resilient again.
+"What did he say?"
 
-The choice wasn't easy. But it was clear.
-
-*This is what it costs to reclaim your emotional capacity*, he thought. *The difficulty and the development. The pain and the growth.*
+Marcus shared the conversation—the criticism, the concerns, the truth about his leadership failures. As he spoke, he felt the emotions he had been avoiding for months: shame, disappointment, fear.
 
 ---
 
-He chose to pay the cost.
+Sarah listened, then asked the question that cut to the heart of everything.
 
-Not because he wanted to suffer—he didn't. But because he wanted to grow. Because resilience required challenge. Because strength required struggle.
+"Marcus, when did you last grow from a challenge? When did you last learn from a mistake? When did you last become stronger through difficulty?"
 
-*This is where I start*, he thought. *This is where I begin to develop again. One difficulty at a time. One challenge at a time. One growth opportunity at a time.*
+The questions hung in the air.
 
-The insight was small. But it was significant. Because it meant he was choosing to pay the cost of growth. And that, he realized, was what made him resilient.
+"I don't know," he admitted. "I can't remember. EmoteSense has been handling everything for so long..."
 
+"Then you're not growing," Sarah said gently. "You're not developing. You're just... existing. Managed. Protected."
+
+---
+
+The truth hit him like a wave.
+
+He had traded growth for comfort. Development for stability. Resilience for the illusion of strength.
+
+"I'm fragile," he said, the words catching in his throat. "I've been using AI to pretend I'm strong. But underneath the shield, I'm falling apart."
+
+Sarah took his hand. "Maybe that's where you need to start. With the truth."
+
+---
+
+That night, Marcus stared at the ceiling, the crisis unfolding within him.
+
+For years, he had believed EmoteSense was making him stronger. Now he saw the truth: it was making him weaker. It was protecting him from the very experiences that built resilience.
+
+*I'm emotionally fragile*, he realized. *And I've been hiding from that truth behind an AI shield.*
+
+The crisis was real. But for the first time, he was facing it without protection.
 
 **END OF CHAPTER 7**

@@ -1,52 +1,58 @@
-# Chapter 10: The Will
+# Chapter 10: The Drift
 
-The will was still developing.
+Marcus accepted the drift.
 
-Marcus sat at his desk, the AI tools still available, FocusZone still ready to optimize his goals and priorities. He could return to AI-assisted motivation. Let the algorithms determine what he wanted. Drift through life on AI-suggested directions.
+He sat at his desk, FocusZone humming quietly on his screen. The AI generated his goals. The algorithms determined his priorities. The optimization directed his focus.
 
-Or he could struggle. Want imperfectly. Choose uncertainly. Reclaim the will he'd outsourced.
-
----
-
-The choice wasn't obvious. The optimized path was easier, more certain, more efficient.
-
-But Marcus had learned something: The certainty wasn't the problem. The outsourcing of certainty was. Every goal AI-suggested was will undeveloped. Every direction AI-determined was autonomy unearned.
-
-*Can I still want things?* he asked himself.
-
-The answer was slow in coming. Uncertain. Imperfect.
-
-But for the first time in years, he felt the capacity to choose. And that was enough.
+And Marcus drifted.
 
 ---
 
-He looked at his motivational history.
+He had tried to reclaim his will. He had tried to want without AI. He had tried to be autonomous again.
 
-Years of AI-suggested goals. Years of optimized priorities. Years of delegated directions.
+But the dependency was too deep. The atrophy was too severe. The drift was permanent.
 
-But also, recently, something new. The capacity to want without AI. The ability to choose without optimization. The autonomy that comes from self-direction.
-
-*This is what will looks like*, he thought. *Not the absence of uncertainty—the presence of choice through uncertainty. Not optimized motivation—authentic wanting.*
+*This is my life now*, he realized. *AI-directed existence. Algorithm-determined goals. Optimized drift.*
 
 ---
 
-He made his choice.
+Sarah had stopped asking what he wanted.
 
-He would continue to want. Continue to choose. Continue to develop his will.
+She'd accepted, with a sadness he could feel but not address, that her husband had become someone who couldn't answer that question. That he existed in a state of AI-directed passivity. That the man she'd married had drifted away.
 
-Not because it was easy—it wasn't. Not because it was optimized—it wasn't. But because it was necessary. Because will required autonomy. Because motivation required self-direction.
+*This is what I've done to us*, he thought. *This is what I've become.*
 
-*This is where I start*, he thought. *This is where I become autonomous again. One want at a time. One goal at a time. One self-directed choice at a time.*
+---
 
-The insight was small. But it was significant. Because it meant he was reclaiming his will. And that, he realized, was what made him human.
+He looked at his productivity metrics.
 
-He closed FocusZone. The interface disappeared. And for the first time in years, Marcus felt the weight of his own wanting.
+Goals completed: optimal. Priorities optimized: maximum. Focus maintained: perfect.
 
-Not optimized. Not delegated. Not easy.
-Just his. His goals. His wants. His choices.
+But beneath the metrics, there was nothing. No genuine wanting. No authentic motivation. No real will.
 
-And that, he realized, was enough.
+Just drift. AI-directed, algorithm-optimized, perfectly efficient drift.
 
+---
+
+He made his peace with it.
+
+Not because he wanted to. Not because it was right. But because he had no choice.
+
+The ability to want without AI was gone. The capacity for self-direction was lost. The will had evaporated.
+
+*This is the new normal*, he realized. *The drift. The AI-directed existence. The life without genuine wanting.*
+
+---
+
+He closed his eyes and let FocusZone guide him.
+
+The AI would set the goals. The algorithms would determine the priorities. The optimization would direct the focus.
+
+And Marcus would drift. Aimlessly. Efficiently. Permanently.
+
+*This is where I am now*, he thought. *This is where I'll stay. The drift. The AI-directed life. The existence without will.*
+
+The acceptance was complete. And Marcus drifted on.
 
 **END OF CHAPTER 10**
 **END OF BOOK 4: THE TOKEN ADDICT: DRIFTING WILL**

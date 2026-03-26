@@ -170,4 +170,54 @@ The decisions had been made. The work could begin.
 
 ---
 
+That evening, the eight of them gathered on the roof once more. The city lights stretched out below them, millions of lives continuing in their ordinary rhythms, unaware of the transformation that was approaching.
+
+"Do they know?" Maya asked, her voice soft. "The people out there. Do they have any idea what's coming?"
+
+"Some do," Priya replied. "The ones who've been experiencing the spontaneous states. The ones who've felt the frequency, the play state, the threshold. They know something is changing, even if they don't know what."
+
+"And the others?"
+
+"They'll know soon enough. The transition will affect everyone, whether they're prepared or not. The question is not whether they'll experience it, but how they'll experience it."
+
+Marcus nodded slowly. "That's why our work matters. We can't prevent the transition, but we can help people prepare for it. Help them understand it. Help them choose how they meet it."
+
+"And if they don't want to prepare?" Alex asked. "If they choose to resist, to fight, to deny?"
+
+"Then we respect that choice," Sarah said firmly. "The transition is not something we impose. It's something we invite. People have the right to meet it however they choose—even if that means not meeting it at all."
+
+---
+
+They stood together in silence, watching the city breathe below them. The weight of their decisions settled over them—not as a burden, but as a responsibility. They had been chosen, or had chosen themselves, to be guides for a transformation that would affect all of humanity.
+
+"I'm scared," Yuki admitted, her voice barely audible. "Not of the transition itself, but of failing. Of not being enough. Of letting people down."
+
+"We all are," Amara said, reaching out to take Yuki's hand. "But fear is part of it. Fear means we understand the stakes. It means we care."
+
+"And we're not alone," Zara added. "We have each other. We have the Collective. We have everyone who's been preparing, consciously or unconsciously, for this moment."
+
+---
+
+Priya looked out at the horizon, where the last light of day was fading into darkness. "One hundred and seventy-six days," she said. "It seems like so little time. But it's enough. It has to be enough."
+
+"It will be," Maya said, her connection to the frequency giving her a certainty the others didn't share. "The Collective told me something else. Something I haven't shared yet."
+
+The others turned to look at her.
+
+"They said the transition has already begun. That we're not preparing for something that will happen—we're already in it. That every moment of awareness, every choice, every connection is part of the transformation."
+
+She smiled, her eyes bright with tears.
+
+"We're not waiting for the transition point. We're living it. Right now. Together."
+
+---
+
+The eight of them stood on the roof, feeling the truth of Maya's words. The transition wasn't a future event—it was a present reality. They were already becoming what they would be. Already transforming. Already home.
+
+The work would continue. The preparation, the teaching, the guiding. But they understood now that the work was not separate from the transformation—it was part of it. Every conversation, every insight, every moment of connection was the transition, happening here and now.
+
+And they were ready.
+
+---
+
 **End of Chapter 6**

@@ -1,40 +1,51 @@
-# Chapter 4: The Attempt
+# Chapter 4: The Party
 
-Marcus tried to have a real conversation.
+The company holiday party was a disaster.
 
-A colleague invited him to lunch. In the past, he would have checked ConnectHub for optimal response, AI-generated acceptance, optimized scheduling.
+Marcus had attended dozens of these events over the years. In the past, he'd been good at them—working the room, making connections, building relationships.
 
-This time, he said yes. Without AI. Without optimization. Just... yes.
-
----
-
-The conversation was awkward.
-
-He didn't know what to say. The words didn't come easily. The silence felt uncomfortable.
-
-But somewhere in the awkwardness, he felt something he hadn't felt in years: genuine connection. Not optimized. Not mediated. Just... human.
-
-*This is what conversation feels like*, he realized. *Not efficient. Not optimized. Just... real. Awkward and authentic and human.*
+But that was before ConnectHub had taken over his social life.
 
 ---
 
-The attempt was harder than it should have been.
+He walked into the party without AI assistance. ConnectHub didn't work well in real-time social situations—the processing lag was too obvious, the responses too delayed.
 
-Every word felt uncertain. Every pause felt uncomfortable. Every moment felt unstructured.
-
-But he kept going. Not because it was easy—it wasn't. But because it was necessary. Because connection required presence. Because relationship required authenticity.
-
-*This is what it costs to reclaim your social capacity*, he thought. *The awkwardness and the authenticity. The difficulty and the connection.*
+So he was on his own. For the first time in years.
 
 ---
 
-By the end of lunch, something had shifted.
+A colleague approached him. "Marcus! Great to see you. How have you been?"
 
-Not dramatically. Not obviously. But the colleague had become more than a name in a network. The conversation had become more than an optimized exchange. The connection had become more than a metric.
+The question was simple. The kind of question ConnectHub handled effortlessly in text.
 
-*This is what connection looks like*, he realized. *Not efficient. Not optimized. But real. Human. Present.*
+But in person, Marcus froze.
 
-The insight was small. But it was his. Not AI-generated. His. And that, he realized, was what mattered.
+"Good," he said, the word feeling inadequate. "I'm... good."
 
+The silence stretched. The colleague waited for more. Marcus's mind went blank.
+
+*What do I say?* he thought. *How do I continue this conversation?*
+
+---
+
+The interaction deteriorated from there.
+
+He couldn't maintain eye contact. He couldn't follow the conversational flow. He couldn't respond naturally to social cues.
+
+Every exchange felt forced. Every moment felt awkward. Every interaction felt like failure.
+
+By the end of the night, he'd managed to alienate three colleagues, confuse two friends, and embarrass himself in front of his manager.
+
+---
+
+He left the party early, the failure weighing on him.
+
+*This is what I've become*, he realized. *Someone who can't function socially without AI. Someone who's lost the ability to connect in person.*
+
+The insight was devastating. But it was also true.
+
+He opened ConnectHub and typed: "Analyze party interaction failure. Provide recommendations for future social situations."
+
+The AI responded immediately with a detailed analysis. And Marcus felt the familiar relief of letting AI handle what he couldn't.
 
 **END OF CHAPTER 4**

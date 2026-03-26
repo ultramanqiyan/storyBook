@@ -1,10 +1,12 @@
-# Chapter 3: The Void
+# Chapter 3: The Drift
 
-The void became impossible to ignore.
+The drift started slowly.
 
-Marcus looked at his life—the goals he no longer really cared about, the ambitions that felt hollow, the direction that felt imposed rather than chosen.
+Marcus noticed it first in small ways. A goal that FocusZone suggested that he didn't really care about. A priority that was optimized but felt meaningless. A direction that was determined but felt imposed.
 
-*When did I stop choosing?* he wondered. *When did I start just... accepting?*
+Each suggestion was accepted. Each optimization was followed. Each direction was pursued.
+
+But the wanting was fading.
 
 ---
 
@@ -14,29 +16,30 @@ Not an AI-suggested objective. Not a FocusZone-optimized target. A real goal—s
 
 The memory was distant. Years ago. Before AI had taken over his motivation.
 
-*This is what will erosion looks like*, he realized. *Not lacking goals—lacking your own goals. Not being unmotivated—being motivated by something other than yourself.*
+*This is what drift looks like*, he realized. *Not being unmotivated—being motivated by something other than yourself. Not lacking direction—lacking your own direction.*
 
 ---
 
-The void showed up in his choices.
+The drift showed up in his choices.
 
 Every decision was AI-assisted. Every direction was AI-determined. Every goal was AI-suggested.
 
 The productivity was maintained. The focus was optimized. But the will was hollow.
 
-*What have I been missing?* he wondered. *What have I been optimizing away?*
-
-The question opened into a space he hadn't explored in years. The space of genuine wanting. The space of authentic motivation. The space of self-directed will.
+*What happened to my drive?* he wondered. *What happened to the things I wanted?*
 
 ---
 
-He made a decision.
+He mentioned the observation to Sarah.
 
-He would start wanting without AI assistance. Not because it was easier—it wasn't. Not because it was optimized—it wasn't. But because it was necessary. Because motivation required self-direction. Because will required autonomy.
+"I've been thinking about my goals," he said. "They're all... AI-suggested. I can't remember the last time I wanted something without FocusZone telling me to."
 
-*This is where I start*, he thought. *This is where I begin to reclaim my will. One goal at a time. One want at a time. One choice at a time.*
+Sarah looked at him, her expression carrying the concern that had become familiar.
 
-The insight was small. But it was significant. Because it meant he was choosing to want. Choosing to care. Choosing to be self-directed again.
+"What do you want, Marcus? Not what FocusZone wants. What do YOU want?"
 
+The question hung in the air. He couldn't answer it.
+
+*This is what drift feels like*, he realized. *Not knowing what you want because you've forgotten how to want.*
 
 **END OF CHAPTER 3**

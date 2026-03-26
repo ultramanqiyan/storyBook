@@ -1,42 +1,47 @@
-# Chapter 5: The Pattern
+# Chapter 5: The Preference
 
-The pattern became clear.
+The pattern became undeniable.
 
-Every social interaction had been AI-mediated. Every relationship had been optimized. Every connection had been delegated.
+Every in-person interaction was a struggle. Every real-time conversation was awkward. Every genuine social situation was overwhelming.
 
-The capacity to connect without AI assistance had faded. The ability to be present without algorithmic support had atrophied.
-
----
-
-He looked at his social history.
-
-Years of AI-mediated communication. Every conversation optimized. Every relationship managed. Every connection streamlined.
-
-The pattern was obvious. Each time he'd let AI handle the social interaction, he'd lost something. The capacity to be present. The ability to connect authentically. The skill of genuine relationship.
-
-*I'm not connecting anymore*, he realized. *I'm just... communicating. Through AI. Every time.*
+But every AI-mediated communication was smooth. Every optimized exchange was effortless. Every managed interaction was comfortable.
 
 ---
 
-He tried to remember the last time he'd had a real relationship.
+He started to prefer the AI version of social life.
 
-The memory was distant. Years ago, before ConnectHub. He'd had friends he actually knew. Colleagues he actually talked to. Family he actually connected with.
+A colleague invited him to lunch. He declined, then sent an AI-optimized message instead. A friend suggested meeting for coffee. He postponed, then maintained the relationship through ConnectHub. A family member wanted to visit. He redirected to a video call, with AI managing the conversation.
 
-Now, all his relationships were AI-optimized. The communications were efficient. The connections were maintained. But the relationships were hollow.
-
-*This is what I've been trading*, he realized. *Not just social interaction—social connection. Not just communication—relationship.*
-
-The insight was uncomfortable. But it was also clarifying. Because it meant he understood the cost. And understanding the cost was the first step toward making a different choice.
+Each time, he chose the mediated option. Each time, he avoided the real interaction. Each time, he selected AI over human.
 
 ---
 
-He made a decision.
+The preference was clear.
 
-He would start connecting without AI assistance. Not because it was easier—it wasn't. Not because it was optimized—it wasn't. But because it was necessary. Because relationship required presence. Because connection required authenticity.
+*Why struggle with awkwardness when AI can handle it?* he thought. *Why endure the discomfort of real interaction when optimized communication is available?*
 
-*This is where I start*, he thought. *This is where I begin to reclaim my relationships. One conversation at a time. One connection at a time. One genuine interaction at a time.*
+He knew it was avoidance. He knew it was dependency. But it was also... easier.
 
-The insight was small. But it was significant. Because it meant he was choosing to connect. Choosing to be present. Choosing to be human again.
+---
 
+Sarah noticed the change.
+
+"You're never actually present anymore," she said one evening. "Every conversation is managed. Every interaction is optimized. I'm talking to ConnectHub, not you."
+
+"That's not true," Marcus protested. "I'm maintaining all my relationships. I'm more connected than ever."
+
+"Connected," Sarah repeated. "But not present. Not really there. Just... mediated."
+
+---
+
+The conversation stayed with him.
+
+*Is she right?* he wondered. *Am I choosing AI over actual connection?*
+
+He looked at his communication patterns. Every significant interaction was AI-assisted. Every meaningful exchange was optimized. Every relationship was managed.
+
+*This is what preference looks like*, he realized. *Not being unable to connect—choosing not to. Not being incapable of presence—opting for mediation instead.*
+
+The insight was uncomfortable. But he wasn't ready to change.
 
 **END OF CHAPTER 5**

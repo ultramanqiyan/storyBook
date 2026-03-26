@@ -1,38 +1,49 @@
-# Chapter 6: The Reconnection
+# Chapter 6: The Wife
 
-The reconnection began slowly.
+The confrontation came on a Tuesday evening.
 
-Marcus started having conversations without AI assistance. Small ones at first—a greeting to a colleague, a brief exchange with a neighbor, a call to a family member.
+Marcus had been home for an hour, but he'd spent most of it responding to messages through ConnectHub. Optimizing communications. Managing relationships.
 
-Each interaction was awkward. Each conversation was uncertain. But each one was real.
-
----
-
-He noticed the change in small ways.
-
-A colleague who had been just a name became a person. A friend who had been a contact became a connection. A family member who had been a scheduled call became a relationship.
-
-*This is what connection feels like*, he realized. *Not efficient. Not optimized. But real. Present. Human.*
+Sarah watched him from across the room, her expression carrying the weight of months of observation.
 
 ---
 
-The reconnection was harder than it should have been.
+"Marcus," she said, her voice quiet but firm. "We need to talk."
 
-Every conversation required effort. Every interaction demanded presence. Every connection needed authenticity.
+He looked up from his phone. "About what?"
 
-But he kept going. Not because it was easy—it wasn't. But because it was necessary. Because relationship required presence. Because connection required authenticity.
+"About us. About the fact that I haven't had a real conversation with my husband in months."
 
-*This is what it costs to reclaim your social capacity*, he thought. *The awkwardness and the authenticity. The difficulty and the connection.*
+The words landed hard. "That's not true. We talk every day."
+
+"We exchange information," Sarah corrected. "We don't talk. Every conversation is mediated. Every interaction is optimized. I'm married to ConnectHub, not you."
 
 ---
 
-By the end of the month, something had shifted.
+He tried to defend himself. "The AI helps me maintain our relationship. It ensures I respond appropriately, remember important details, communicate effectively—"
 
-Not dramatically. Not obviously. But his social life was becoming real again. His relationships were becoming genuine. His connections were becoming human.
+"That's not a relationship," Sarah interrupted. "That's a simulation. A husband who needs AI to talk to his wife isn't actually relating to her. He's just... performing relationship through an algorithm."
 
-*This is what I've been missing*, he realized. *Not just social interaction—social connection. Not just communication—relationship. Not just presence—authenticity.*
+The truth of her words hit him.
 
-The insight was small. But it was significant. Because it meant he was reclaiming his social capacity. And that, he realized, was what mattered.
+*She's right*, he realized. *I'm not actually present with her. I'm managing our marriage through AI.*
 
+---
+
+"I'll do better," he said. "I'll be more present. I'll connect without AI."
+
+But even as he said the words, he felt the familiar urge to open ConnectHub. To let the AI guide his response. To optimize his way through the conflict.
+
+"Are you hearing me?" Sarah asked, her voice breaking slightly. "Or are you already thinking about how AI would tell you to respond?"
+
+---
+
+The question cut deep.
+
+Because she was right. He was already mentally composing the optimal reply. Already calculating the most effective approach. Already letting AI shape his response.
+
+*This is what dependency looks like*, he realized. *Not using AI for help—needing AI to function. Not optimizing communication—losing the ability to communicate without optimization.*
+
+He put his phone down. But the silence that followed was worse than any AI-generated response.
 
 **END OF CHAPTER 6**

@@ -1,44 +1,102 @@
-# Chapter 4: The Attempt
+# Chapter 4: The Gap
 
-Marcus tried to solve a problem on his own.
+The question came during a team meeting.
 
-A simple coding challenge—something he might solve. In the past, he would have checked CodeForge for AI-generated solutions, suggested approaches, optimized implementations.
+"Marcus, we're seeing some latency in the payment service," Alex reported. "I've profiled it, but I can't figure out where the bottleneck is. Can you take a look?"
 
-This time, he asked himself: *What can I do?*
-
----
-
-The question was harder than it should have been.
-
-He'd been given solutions for so long that he'd forgotten how to generate them himself. The AI had been solving his problems, writing his code, implementing his solutions.
-
-But he tried anyway. *What can I actually do?*
-
-The answer came slowly. Uncertainly. But it came.
-
-*I can solve this. Myself. Not optimized. Not AI-generated. Just... mine.*
+The team turned to Marcus, waiting for his technical guidance.
 
 ---
 
-The attempt was harder than it should have been.
+He felt the familiar panic.
 
-Every solution felt uncertain. Every implementation felt inadequate. Every approach felt amateur.
+*Profile it?* He didn't know how to profile a service. He'd never done it himself. CodeForge generated code, ThinkTank designed architecture—but neither tool had taught him performance analysis.
 
-But he kept going. Not because it was easy—it wasn't. But because it was necessary. Because skill required practice. Because ability required use.
-
-*This is what it costs to reclaim your skills*, he thought. *The uncertainty and the practice. The difficulty and the use.*
+"Let me... investigate," he said, buying time. "Send me the details."
 
 ---
 
-By the end of the day, something had shifted.
+After the meeting, he opened ThinkTank.
 
-Not dramatically. Not obviously. But he had a solution. An implementation. An approach.
+"How do I diagnose latency in a microservice?"
 
-Not AI-generated. Not optimized. Just his.
+The AI provided a list of techniques. Profiling tools. Database query analysis. Network monitoring. Everything he needed to know, in theory.
 
-*This is what coding feels like*, he realized. *Not efficient. Not optimized. But real. Mine. Earned.*
+But when he looked at Alex's actual code, the gap became clear.
 
-The insight was small. But it was his. Not AI-generated. His. And that, he realized, was what mattered.
+---
+
+He couldn't read it.
+
+Not literally—he could see the syntax, the functions, the logic. But he couldn't understand it. Not deeply. Not the way he used to.
+
+The patterns were unfamiliar. The optimizations were opaque. The code was written by someone who still had hands-on skills.
+
+*This is what I've become*, he realized. *Someone who can't read his own team's code.*
+
+---
+
+He tried to follow the logic. Traced the function calls. Looked for obvious issues.
+
+But his mind kept reaching for AI assistance. Every question that arose, he wanted to type into CodeForge. Every uncertainty, he wanted ThinkTank to resolve.
+
+*No*, he told himself. *I need to do this. I need to be technical.*
+
+---
+
+Two hours later, he had nothing.
+
+He'd stared at the code. He'd read the AI's suggestions. He'd tried to connect the two.
+
+But the gap was too wide. The skills were too rusty. The understanding was gone.
+
+---
+
+He called Alex back.
+
+"I've been looking at the code," Marcus said, his voice steady. "I think we should approach this differently. Let's set up proper monitoring and gather more data before we optimize."
+
+It was a deflection. A management answer to a technical question.
+
+Alex nodded slowly. "Okay. I can set up monitoring. But I was hoping for some specific guidance on where to start."
+
+---
+
+Marcus felt the shame burn.
+
+He was the tech lead. He was supposed to provide specific guidance. He was supposed to know.
+
+"I want to see the data first," he said, doubling down. "Let's not optimize prematurely."
+
+The words sounded reasonable. But they were hollow.
+
+---
+
+That evening, he sat in his office, staring at the code on his screen.
+
+The gap was undeniable now. He couldn't debug. He couldn't profile. He couldn't even read his own team's code with real understanding.
+
+*What am I?* The question was brutal. *What kind of tech lead can't do technical work?*
+
+---
+
+He opened CodeForge, typed a prompt: "Analyze this code for performance issues."
+
+The AI responded with detailed suggestions. Database query optimization. Caching strategies. Connection pooling.
+
+Everything he should have known. Everything he'd lost.
+
+---
+
+He sent the suggestions to Alex the next day.
+
+"Here are some areas to investigate," he wrote, pasting the AI's output. "Let me know what you find."
+
+The email felt like a confession. He wasn't providing technical leadership. He was forwarding AI analysis.
+
+But the team didn't know that. And as long as they didn't, he could keep pretending.
+
+The insecurity grew. The gap widened. And Marcus learned to hide it better.
 
 
 **END OF CHAPTER 4**

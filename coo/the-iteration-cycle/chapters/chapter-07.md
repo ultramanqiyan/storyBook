@@ -41,3 +41,7 @@ He left the Institute with his mind full of new understanding. Iteration wasn't 
 
  She had become more, not less, than the woman he had married.
  She had become someone new—someone James could learn to love.
+
+---
+
+**End of Chapter 07**
