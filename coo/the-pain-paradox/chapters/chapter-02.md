@@ -1,14 +1,14 @@
 # Chapter 02: The Offer
 
-The clinic was in a building that looked like every other corporate tower in the city, which was either reassuring or terrifying—Sarah couldn't decide which. Glass and steel, a lobby with a reception desk, potted plants that were probably fake. The only difference was the directory in the elevator: Neural Integration Institute, Floor 23.
+The clinic was in a building that looked like every other corporate tower in the city, which was either reassuring or terrifying—Sarah couldn't decide which. Glass and steel reflected the gray October sky, a lobby with a reception desk and potted plants that were probably fake, their leaves too perfect, too dust-free. The air inside smelled of floor polish and something floral, an artificial attempt at comfort. The only difference was the directory in the elevator: Neural Integration Institute, Floor 23.
 
 She had almost turned around three times on the way here. Almost convinced herself that this was a mistake, that she should learn to live with what she was, that wanting to feel pain was insane. But then she'd think of Jennifer's face, twisted and alive, and she'd keep walking.
 
-The elevator doors opened onto a waiting room that looked more like a spa than a medical facility. Soft lighting, comfortable chairs, a water feature trickling in the corner. The receptionist smiled at her with professional warmth.
+The elevator doors opened onto a waiting room that looked more like a spa than a medical facility. Soft lighting, comfortable chairs upholstered in cool leather, a water feature trickling in the corner—the gentle sound of flowing water creating an artificial sense of calm. The air was subtly scented with lavender. The receptionist smiled at her with professional warmth.
 
 "Sarah Mitchell? Dr. Vasquez is ready for you."
 
-Dr. Elena Vasquez's office was on the corner of the building, with windows overlooking the city. She stood when Sarah entered, extending her hand. Her grip was firm, her smile genuine but measured. She was perhaps fifty, with silver-streaked dark hair and the kind of calm that came from decades of difficult conversations.
+Dr. Elena Vasquez's office was on the corner of the building, with windows overlooking the city. The afternoon light slanted through the glass, casting long shadows across the polished wood floor. She stood when Sarah entered, extending her hand. Her grip was firm, her palm slightly cool, her smile genuine but measured. She was perhaps fifty, with silver-streaked dark hair and the kind of calm that came from decades of difficult conversations.
 
 "Ms. Mitchell. Thank you for coming. Please, sit."
 
@@ -26,7 +26,7 @@ It was the question Sarah had been waiting for—the question she'd been asking 
 
 "I don't know. Maybe I have. Maybe what I feel is what everyone feels, and I just can't tell the difference." She looked at her hands, resting in her lap. "I've been performing for so long that I'm not sure what's real anymore."
 
-Dr. Vasquez was quiet for a moment. Then she set down her tablet and leaned forward. "What I'm about to explain is experimental. It's not approved for general use, and there are significant risks. But you're an ideal candidate for our study, and I believe�? She stopped herself. "I believe you deserve to know what's possible."
+Dr. Vasquez was quiet for a moment. Then she set down her tablet and leaned forward. "What I'm about to explain is experimental. It's not approved for general use, and there are significant risks. But you're an ideal candidate for our study, and I believe�? She stopped herself. "I believe you deserve to know what's possible."
 
 She pulled up a display on the wall behind her—a diagram of a human brain, with a small device highlighted at the base of the skull. "This is a neural interface. It connects to your nervous system and can translate physical stimuli into signals your brain can interpret as sensation. In your case, it would allow you to experience pain."
 

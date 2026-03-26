@@ -1,6 +1,6 @@
 # Chapter 2: The Study
 
-The email came from the University of Michigan's Neuroscience Department. They were conducting a study on decision-making and wanted addiction counselors as participants. Anna almost deleted it—she was busy enough without being a research subject. But something made her keep reading.
+The email came from the University of Michigan's Neuroscience Department. Anna almost deleted it—the subject line was generic, the sender unfamiliar. But something made her pause, her finger hovering over the trackpad. The afternoon light slanted through her office window, illuminating dust motes floating in the still air. They were conducting a study on decision-making and wanted addiction counselors as participants. Anna almost deleted it—she was busy enough without being a research subject. But something made her keep reading.
 
 The study was investigating how the brain makes decisions. The researchers were looking for people who worked with decision-making in a professional context—counselors, therapists, coaches—to participate in a series of cognitive tests and brain scans. Participants would be compensated for their time and would receive a summary of their results.
 
@@ -14,9 +14,9 @@ Anna's curiosity was piqued. She'd spent her career helping people change, but s
 
 She replied to the email, expressing interest. Within an hour, she had a response: an invitation to meet with Dr. Patel the following week to learn more about the study.
 
-The University of Michigan's campus was beautiful in late October. Anna drove up on a Tuesday morning, her first day off in months. The fall colors were at their peak—red and gold leaves covering the quad, students in hoodies walking between buildings. She parked in the visitor lot and made her way to the neuroscience building.
+The University of Michigan's campus was beautiful in late October. Anna drove up on a Tuesday morning, her first day off in months. The fall colors were at their peak—red and gold leaves covering the quad, the air crisp and smelling of woodsmoke and fallen leaves. Students in hoodies walked between buildings, their breath visible in the cold morning air. She parked in the visitor lot and made her way to the neuroscience building, the gravel crunching under her shoes.
 
-Dr. Patel's office was on the fourth floor, with a view of the campus green. She was younger than Anna had expected—maybe early forties, with dark hair pulled back in a ponytail and glasses that she kept pushing up her nose. She stood when Anna entered and extended her hand.
+Dr. Patel's office was on the fourth floor, with a view of the campus green. The room was spare and modern—all white walls and glass, a single plant in the corner that looked too architectural to be real. She was younger than Anna had expected—maybe early forties, with dark hair pulled back in a ponytail and glasses that she kept pushing up her nose. She stood when Anna entered and extended her hand, her grip cool and firm.
 
 "Anna Nowak? I'm Amara Patel. Thank you for coming."
 
@@ -70,7 +70,7 @@ The consent form was thorough. Anna read every paragraph, noting the risks (mini
 
 "That's what we'll test," Dr. Patel said. "The prediction algorithms have gotten very good. But we won't know for sure until we analyze your data."
 
-Anna left the neuroscience building with her head spinning. The fall air felt crisp against her face, but her thoughts were elsewhere. She'd spent ten years helping people make choices. Now she was going to find out whether those choices were really choices at all.
+Anna left the neuroscience building with her head spinning. The fall air felt crisp against her face, carrying the scent of fallen leaves and distant car exhaust, but her thoughts were elsewhere. She'd spent ten years helping people make choices. Now she was going to find out whether those choices were really choices at all.
 
 She drove back to Detroit in a contemplative mood. The study was just research—she knew that. It wouldn't change her work, wouldn't change her clients, wouldn't change the fundamental nature of human decision-making. But it raised questions she'd never seriously considered.
 

@@ -32,7 +32,7 @@ Friday morning, Jamie submitted the code for review and immediately felt the hol
 
 The code review happened that afternoon, right after the demo. Marcus had agreed to review, and Jamie sat beside him as he read through the changes.
 
-The silence in the small meeting room was uncomfortable. Marcus scrolled slowly, his expression unreadable. Jamie watched his face, looking for any sign of approval.
+The silence in the small meeting room was uncomfortable. The hum of the building's HVAC system filled the space, punctuated by the distant sound of traffic outside. Marcus scrolled slowly, his expression unreadable. Jamie watched his face, looking for any sign of approval, the plastic chair creaking beneath the weight of anticipation.
 
 Finally, Marcus spoke. "The code works."
 
@@ -58,7 +58,7 @@ The truth of it stung. Jamie had been so busy being available that the actual wo
 
 Protect time. The phrase echoed as Jamie walked home that evening. The autumn air was cool, but Jamie barely noticed, mind churning over the week's failures.
 
-The apartment was dark when Jamie arrived. Phone still in hand, still checking notifications out of habit. But the usual comfort of being connected was gone, replaced by a growing awareness of what that connection cost.
+The apartment was dark when Jamie arrived. The radiator clicked and hissed in the corner, warming the space with dry heat. Phone still in hand, still checking notifications out of habit, the screen's glow the only light in the room. But the usual comfort of being connected was gone, replaced by a growing awareness of what that connection cost.
 
 Friday night, and Jamie sat on the couch, staring at a screen full of other people's priorities. The Slack channels were still active. The emails still arrived. The world still demanded attention.
 

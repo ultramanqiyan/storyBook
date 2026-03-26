@@ -1,8 +1,8 @@
 # Chapter 01: The Performance
 
-The crisis began at 9:15 AM, which was inconvenient because Sarah had been planning to feel something by noon. The client on the video screen was panicking, her colleagues were exchanging worried glances, and Sarah sat perfectly still, watching it all like a nature documentary. "Let's walk through this step by step," she said, and her voice didn't waver because it never did. In the glass reflection of the conference room wall, she could see her own face—calm, composed, the picture of professional competence. What the reflection didn't show was the thirty-four years of practice that had gone into that expression, or the hollow space behind it where something should have been.
+The crisis began at 9:15 AM, which was inconvenient because Sarah had been planning to feel something by noon. The client on the video screen was panicking, her colleagues were exchanging worried glances, and Sarah sat perfectly still, watching it all like a nature documentary. The conference room smelled of fresh coffee and the faint chemical tang of the cleaning solution used on the glass table. "Let's walk through this step by step," she said, and her voice didn't waver because it never did. In the glass reflection of the conference room wall, she could see her own face—calm, composed, the picture of professional competence. What the reflection didn't show was the thirty-four years of practice that had gone into that expression, or the hollow space behind it where something should have been.
 
-"They're saying we breached contract," Marcus said, his voice climbing half an octave. "The penalty clause alone�?
+"They're saying we breached contract," Marcus said, his voice climbing half an octave. "The penalty clause alone�?
 
 "Show me the clause they're referencing." Sarah pulled her tablet closer, her fingers moving across the screen without tremor. The city skyline stretched behind her through the floor-to-ceiling windows, all sharp angles and morning light. Somewhere out there, people were feeling things. Stress, probably. Anxiety. Fear. She could see the physiological markers in her colleagues—the tightness around Jennifer's eyes, the way David's leg bounced under the table, the sheen of sweat on Marcus's forehead. She had learned to read these signs the way other people learned to read music.
 
@@ -22,7 +22,7 @@ By 10:30, the crisis was resolved, the client was calmer, and her colleagues wer
 
 ---
 
-The office kitchen smelled like burnt coffee and the artificial lemon of the cleaning spray someone had used on the counter. Sarah was reaching for a mug when she heard it—the crack of porcelain, the splash of liquid, and then something else. A sound that came from Jennifer's throat, sharp and involuntary.
+The office kitchen smelled like burnt coffee and the artificial lemon of the cleaning spray someone had used on the counter. The fluorescent lights hummed overhead, casting a harsh white glow that made everything look slightly clinical. Sarah was reaching for a mug—the ceramic cool and smooth under her fingertips—when she heard it: the crack of porcelain, the splash of liquid, and then something else. A sound that came from Jennifer's throat, sharp and involuntary.
 
 Sarah turned. Jennifer was clutching her hand, blood welling up between her fingers where a shard of the broken mug had caught her palm. The red was vivid against the white porcelain fragments scattered across the counter, against the beige of Jennifer's cardigan where droplets had sprayed.
 
@@ -58,7 +58,7 @@ Sarah watched Jennifer leave, watched the way she was still protecting her injur
 
 ---
 
-The garage was dark except for the glow of her phone, and Michael's voice came through like a lifeline she couldn't quite reach. "How was your day?" he asked, and Sarah opened her mouth to answer with the truth�?I watched someone bleed today and felt nothing*—but what she said was, "Fine. The usual."
+The garage was dark except for the glow of her phone, the cold concrete floor radiating chill through the soles of her shoes. Michael's voice came through like a lifeline she couldn't quite reach, warm and present through the tinny speakers. "How was your day?" he asked, and Sarah opened her mouth to answer with the truth—I watched someone bleed today and felt nothing—but what she said was, "Fine. The usual."
 
 "Crisis meeting?"
 
@@ -95,7 +95,7 @@ She hung up and sat in the dark, the phone's glow fading as the screen went blac
 She didn't have an answer. She never had an answer.
 
 
-Every night, Sarah conducted an inventory. Not of possessions, but of damage. She stood in front of the bathroom mirror and catalogued what her body had endured without her knowledge—the bruises, the cuts, the burns she only discovered after they'd already scabbed over.
+Every night, Sarah conducted an inventory. Not of possessions, but of damage. She stood in front of the bathroom mirror—the light harsh and clinical, the bulbs she had chosen specifically for their clarity—and catalogued what her body had endured without her knowledge: the bruises, the cuts, the burns she only discovered after they'd already scabbed over.
 
 The bathroom light was harsh, clinical. She had chosen the bulbs specifically for this purpose, for the clarity they provided. She unbuttoned her blouse and examined her arms in the mirror. A small bruise on her left forearm, yellowing at the edges. She pressed her finger into it, watching the skin blanch white, then release. Nothing. No sensation, no confirmation that this mark was connected to her.
 
