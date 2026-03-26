@@ -1,6 +1,6 @@
 # Chapter 2: The Shallow
 
-Monday morning brought the sprint planning meeting, and with it, an opportunity Jamie couldn't resist. The team needed someone to take on the payment processing refactor, a complex piece of work that had been deferred for months. It was the kind of challenge that could make a reputation.
+Monday morning brought the sprint planning meeting, and with it, an opportunity Jamie couldn't resist. The conference room smelled of stale coffee and dry-erase markers, the whiteboard already covered in colorful sticky notes. The team needed someone to take on the payment processing refactor, a complex piece of work that had been deferred for months. It was the kind of challenge that could make a reputation.
 
 "I'll do it," Jamie said, hand raised before anyone else could volunteer. The confidence was genuine. After two years at the startup, Jamie knew the codebase well enough. The refactor would be tricky, but nothing that couldn't be handled with enough hours.
 

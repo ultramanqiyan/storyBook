@@ -1,14 +1,14 @@
 # Chapter 1: The Surface
 
-The phone glowed in the darkness before Jamie Okonkwo's eyes even opened. The alarm had not yet sounded, but the notification light pulsed with the steady rhythm of someone else's urgency. Jamie's hand moved automatically, muscle memory developed over years of starting every day the same way.
+The phone glowed in the darkness before Jamie Okonkwo's eyes even opened—a pale blue light cutting through the stale air of the Seattle apartment. The alarm had not yet sounded, but the notification light pulsed with the steady rhythm of someone else's urgency. The faint smell of last night's takeout lingered on the bedsheets, mixing with the metallic tang of the radiator clicking to life. Jamie's hand moved automatically, muscle memory developed over years of starting every day the same way.
 
 6:47 AM. The screen showed three Slack messages from the offshore team, two emails marked urgent, and a calendar notification for a meeting that started in two hours. The blue light cast strange shadows across Jamie's face as each notification was processed, responded to, or dismissed. By the time feet touched the cold floor of the Seattle apartment, Jamie had already been working for eleven minutes.
 
-The morning routine continued with practiced efficiency. Coffee maker started while scanning Twitter. Teeth brushed while reading industry newsletters. Bag packed while responding to a Slack thread about yesterday's deployment. The phone never left Jamie's hand, an extension of self that felt more natural than the fingers that held it.
+The morning routine continued with practiced efficiency. Coffee maker started while scanning Twitter—the bitter aroma of dark roast filling the kitchen, competing with the mint of toothpaste. Teeth brushed while reading industry newsletters, the bristles moving mechanically. Bag packed while responding to a Slack thread about yesterday's deployment. The phone never left Jamie's hand, its smooth glass case warm against the palm, an extension of self that felt more natural than the fingers that held it.
 
-Outside, the October morning was gray and damp, typical for Seattle. Jamie walked toward the bus stop, eyes flicking between the sidewalk and the screen. A message from Mom in Nigeria, sent while Jamie slept. A quick response. A LinkedIn notification. A quick scroll. The bus arrived, and Jamie found a seat near the window, though the view went unnoticed.
+Outside, the October morning was gray and damp, typical for Seattle. The air smelled of wet pavement and fallen leaves, the chill seeping through Jamie's jacket. Jamie walked toward the bus stop, eyes flicking between the sidewalk and the screen. A message from Mom in Nigeria, sent while Jamie slept. A quick response. A LinkedIn notification. A quick scroll. The bus arrived with a hiss of hydraulic brakes, its interior warm and smelling of coffee and wet wool. Jamie found a seat near the window, though the view went unnoticed—the rain-blurred city passing by like a dream.
 
-The Pioneer Square office of the startup where Jamie worked as a software developer occupied a converted warehouse, all exposed brick and open plans. The aesthetic said collaboration. The reality said constant interruption. Jamie settled at a standing desk in the middle of the floor, surrounded by the sounds of other people's work.
+The Pioneer Square office of the startup where Jamie worked as a software developer occupied a converted warehouse, all exposed brick and open plans. The aesthetic said collaboration. The reality said constant interruption. The air smelled of fresh coffee and the faint chemical tang of whiteboard markers. Jamie settled at a standing desk in the middle of the floor, surrounded by the sounds of other people's work—the clack of keyboards, the murmur of video calls, the squeak of chairs rolling across concrete.
 
 "Hey, did you see my message about the API changes?" Sarah appeared beside the desk before Jamie had even logged in.
 
@@ -28,7 +28,7 @@ Jamie watched him go with a mixture of respect and confusion. Marcus produced mo
 
 The question faded as another Slack notification demanded attention. A production issue. Everyone needed to jump on a call. The afternoon disappeared into troubleshooting and status updates.
 
-At 6:45 PM, Jamie logged off, exhausted in a way that felt familiar but not satisfying. The walk home through the autumn evening should have been a time to decompress, but the phone remained in hand, checking for any updates on the production issue, scrolling through news, filling the silence with noise.
+At 6:45 PM, Jamie logged off, exhausted in a way that felt familiar but not satisfying. The walk home through the autumn evening should have been a time to decompress—the air crisp with the scent of woodsmoke and dying leaves, the streetlights casting amber pools on the wet pavement—but the phone remained in hand, checking for any updates on the production issue, scrolling through news, filling the silence with noise.
 
 Back in the apartment, dinner was reheated leftovers eaten while watching a video essay about productivity. The irony was not lost on Jamie, but the pattern was too ingrained to break. After dinner, more scrolling. More notifications. More responding to things that other people had initiated.
 
