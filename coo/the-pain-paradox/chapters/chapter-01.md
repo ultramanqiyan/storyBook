@@ -2,7 +2,8 @@
 
 The crisis began at 9:15 AM, which was inconvenient because Sarah had been planning to feel something by noon. The client on the video screen was panicking, her colleagues were exchanging worried glances, and Sarah sat perfectly still, watching it all like a nature documentary. The conference room smelled of fresh coffee and the faint chemical tang of the cleaning solution used on the glass table. "Let's walk through this step by step," she said, and her voice didn't waver because it never did. In the glass reflection of the conference room wall, she could see her own face—calm, composed, the picture of professional competence. What the reflection didn't show was the thirty-four years of practice that had gone into that expression, or the hollow space behind it where something should have been.
 
-"They're saying we breached contract," Marcus said, his voice climbing half an octave. "The penalty clause alone�?
+<<<<<<< HEAD
+"They're saying we breached contract," Marcus said, his voice climbing half an octave. "The penalty clause alone—"
 
 "Show me the clause they're referencing." Sarah pulled her tablet closer, her fingers moving across the screen without tremor. The city skyline stretched behind her through the floor-to-ceiling windows, all sharp angles and morning light. Somewhere out there, people were feeling things. Stress, probably. Anxiety. Fear. She could see the physiological markers in her colleagues—the tightness around Jennifer's eyes, the way David's leg bounced under the table, the sheen of sweat on Marcus's forehead. She had learned to read these signs the way other people learned to read music.
 
