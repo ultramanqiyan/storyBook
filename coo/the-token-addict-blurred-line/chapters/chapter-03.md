@@ -12,7 +12,7 @@ A moral stance that once was firmly held now felt flexible, adaptable to circums
 
 The first compromise was minor.
 
-JudgeAI recommended an approach that Marcus felt was his gut was slightly wrong. Not unethical, just... off. The kind of decision that would have once made him pause, consider the alternatives, weigh the values.
+JudgeAI recommended an approach that Marcus felt in his gut was slightly wrong. Not unethical, just... off. The kind of decision that would have once made him pause, consider the alternatives, weigh the values.
 
 But this time, he followed the recommendation. The approach worked. The project succeeded. The company praised him.
 
@@ -38,7 +38,7 @@ He tried to remember the last time he'd made a truly independent ethical decisio
 
 The memory was distant. Years ago, before JudgeAI. He'd been faced with a choice about user data—whether to collect more than necessary for optimization. The AI had recommended collecting everything. But Marcus had pushed back, insisted on minimal collection, prioritized user privacy over optimization.
 
-The decision had cost him. His metrics had suffered. His manager had questioned his judgment. But he'd stood by his choice because it was his. Because he'd thought it it through. Because he'd weighed the values. Because he'd made the decision himself.
+The decision had cost him. His metrics had suffered. His manager had questioned his judgment. But he'd stood by his choice because it was his. Because he'd thought it through. Because he'd weighed the values. Because he'd made the decision himself.
 
 *When was the last time I did that?* he wondered. *When was the last time I truly decided?*
 
@@ -58,7 +58,7 @@ Now, he opened JudgeAI.
 
 "Analyze ethical implications of this feature."
 
-The AI provided analysis, The feature may exploit psychological vulnerabilities. However, it is technically within industry standards. Recommend: Approve with transparency notes."
+The AI provided analysis: "The feature may exploit psychological vulnerabilities. However, it is within industry standards. Recommendation: Approve with transparency notes."
 
 Marcus approved the feature. The AI had analyzed the ethics. The AI had provided recommendations. What else was there to consider?
 

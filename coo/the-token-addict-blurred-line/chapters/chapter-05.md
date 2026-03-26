@@ -2,7 +2,7 @@
 
 The conflict appeared when personal values clashed with AI recommendations.
 
-JudgeAI suggested an approach that Marcus felt, his gut was wrong. He followed the suggestion anyway, and the discomfort gnawed at him.
+JudgeAI suggested an approach that Marcus felt in his gut was wrong. He followed the suggestion anyway, and the discomfort gnawed at him.
 
 ---
 

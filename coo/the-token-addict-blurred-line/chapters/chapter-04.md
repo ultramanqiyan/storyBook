@@ -22,7 +22,7 @@ The memory was distant. Years ago, before AI, he'd made decisions based on somet
 
 *When did I lose that?* he wondered. *When did I start needing to justify everything?*
 
-The answer was clear. When he started delegating judgment to AI. When he started accepting recommendations without the deep consideration. When he started optimizing ethics instead of feeling them.
+The answer was clear. When he started delegating judgment to AI. When he started accepting recommendations without deep consideration. When he started optimizing ethics instead of feeling them.
 
 *This is what happens when you outsource your conscience*, he thought. *You don't just lose the ability to judge. You lose the ability to feel judgment.*
 
@@ -40,7 +40,7 @@ The questions were uncomfortable. But they were important. And asking them, he r
 
 That evening, he mentioned the observation to Sarah.
 
-"I've been justifying everything lately," he said, the words coming slowly. "Every decision, every choice, every judgment. I can explain it all of it. But I don't... feel any of it."
+"I've been justifying everything lately," he said, the words coming slowly. "Every decision, every choice, every judgment. I can explain all of it. But I don't... feel any of it."
 
 Sarah looked at him, her expression carrying the understanding that had become familiar over the years.
 

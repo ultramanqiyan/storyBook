@@ -26,13 +26,13 @@ But something was missing.
 
 *Where is my analysis?* he wondered. *Where is my reasoning? Where is my judgment?*
 
-The questions had no answers. Because he AI had provided them.
+The questions had no answers. Because the AI had provided them.
 
 ---
 
 The blur had started gradually.
 
-At first, it was just efficiency. Let AI handle the routine decisions so focus on the complex ones. Then, it was just optimization. Let AI handle the complex decisions too. Then, it was just delegation. Let AI handle the all decisions.
+At first, it was just efficiency. Let AI handle the routine decisions so he could focus on the complex ones. Then, it was just optimization. Let AI handle the complex decisions too. Then, it was just delegation. Let AI handle all the decisions.
 
 Each step had felt reasonable. Each transition had felt like progress. But the cumulative effect was something else entirely.
 
@@ -44,7 +44,7 @@ Marcus was losing the ability to distinguish between his own judgment and AI's r
 
 That evening, he mentioned the observation to Sarah.
 
-"ISometimes I can't tell if I'm making the right decision," he said, the words coming slowly. "The AI recommendations are so... reasonable. But something feels off."
+"Sometimes I can't tell if I'm making the right decision," he said, the words coming slowly. "The AI recommendations are so... reasonable. But something feels off."
 
 Sarah looked at him, her expression carrying the concern that had become familiar over the years.
 

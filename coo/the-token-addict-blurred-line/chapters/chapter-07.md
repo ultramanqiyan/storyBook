@@ -6,7 +6,7 @@ The AI recommendations were efficient and profitable. The ethical implications w
 
 ---
 
-The decision was about user data. The company wanted to implement a feature that would significantly increase engagement but potentially exploit user psychology. JudgeAI provided analysis
+The decision was about user data. The company wanted to implement a feature that would significantly increase engagement but potentially exploit user psychology. JudgeAI provided analysis:
 
 **Ethical Considerations:**
 - The feature may exploit psychological vulnerabilities

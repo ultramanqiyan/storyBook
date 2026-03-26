@@ -14,7 +14,7 @@ The first time he used it, the experience was seductive.
 
 He'd faced a difficult decision—whether to implement a feature that would increase user engagement but potentially exploit psychological vulnerabilities. In the past, he would have wrestled with this. Weighed the benefits against the harms. Considered the human impact. Struggled with the trade-offs.
 
-Now, he just typed: "Analyze ethical implications of implementing engagement Optimization Feature."
+Now, he just typed: "Analyze ethical implications of implementing engagement optimization feature."
 
 The response was comprehensive:
 
@@ -26,9 +26,9 @@ The response was comprehensive:
 3. Long-term Impact: May contribute to addictive behavior patterns
 
 **Recommended Approach:**
-- Implement with transparency: Inform users about engagement Optimization
-- Provide Opt-Out: Allow Users to Disable Engagement Optimization
-- Monitor Impact: Track User Behavior Changes
+- Implement with transparency: Inform users about engagement optimization
+- Provide opt-out: Allow users to disable engagement optimization
+- Monitor impact: Track user behavior changes
 
 **Confidence Level: 87%**
 
@@ -74,7 +74,7 @@ The observation was accurate. Marcus had been less conflicted. Not because he ha
 
 "JudgeAI helps me think through things," he said, the words feeling hollow even as he said them. "It makes the decisions clearer."
 
-"Clearer," Sarah repeated, her tone suggesting she the word meant something different. "Or easier?"
+"Clearer," Sarah repeated, her tone suggesting she knew the word meant something different. "Or easier?"
 
 The question landed like a blow. Easier. That was exactly what was happening. His decisions were easier. Not better. Not more ethical. Just... easier.
 

@@ -210,7 +210,7 @@ The universe was playing. And she was finally learning the rules.
 
 She would teach others—not through instruction, but through presence. She would become a living doorway, just as her father had been. And together, they would remember what humanity had forgotten: that existence itself is a game, and we are all players.
 
-The play state was spreading. And Zara Okonkwo was ready to help it grow.
+The play state was spreading. And Zara Okonkwo was ready to help it grow, one moment at a time, one player at a time, one doorway at a time.
 
 ---
 

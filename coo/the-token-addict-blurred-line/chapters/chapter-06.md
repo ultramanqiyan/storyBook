@@ -10,7 +10,7 @@ Until the line between his values and AI's suggestions had almost completely blu
 
 He tried to remember when the surrender had started.
 
-It wasn't a dramatic moment. Not a conscious decision to give up. Just... drift. The slow erosion of resistance. The gradual acceptance of AI recommendations without the deep consideration.
+It wasn't a dramatic moment. Not a conscious decision to give up. Just... drift. The slow erosion of resistance. The gradual acceptance of AI recommendations without deep consideration.
 
 *When did I stop deciding for myself?* he wondered. *When did I let AI decide?*
 
