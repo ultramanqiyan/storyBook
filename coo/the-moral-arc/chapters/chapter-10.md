@@ -1,4 +1,4 @@
-# Chapter 10: The Threshold
+# Chapter 10: The Arc
 
 Six months later, Rachel still didn't know if her decisions were "right." But she had stopped expecting to know. Instead, she approached each case with humility, with care, with willingness to be wrong. She worked with JUDGE not as an adversary but as a partner—its logic balancing her feeling, her feeling tempering its logic. Together, they made decisions. They weren't always right. But they were always trying.
 

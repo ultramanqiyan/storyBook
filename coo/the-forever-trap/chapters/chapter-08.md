@@ -1,4 +1,4 @@
-# Chapter 08: The Choice
+# Chapter 08: The Question
 
 Catherine spent her last night of eternity watching the sunset. She had seen thousands of sunsets—had stopped counting, stopped noticing. But tonight, she watched with the urgency she had lost a century ago. Tomorrow, she would begin dying. And for the first time in a hundred years, she felt alive.
 

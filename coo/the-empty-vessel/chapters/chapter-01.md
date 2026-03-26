@@ -1,4 +1,4 @@
-# Chapter 01: The Stranger in the Mirror
+# Chapter 01: The Observer
 
 Every morning, James woke up and asked himself the same question: *Am I still me?*
 
@@ -50,7 +50,7 @@ But this one was worse than usual. The sense of unreality was total, complete. H
 
 "James?" A voice cut through the fog. It was Elena, a colleague from the marketing team. "You look pale. Are you okay?"
 
-James opened his mouth to say the usual lie�?just tired*—but the words wouldn't come. Instead, he heard himself say: "I don't know. I don't feel real."
+James opened his mouth to say the usual lie�?just tired*—but the words wouldn't come. Instead, he heard himself say: "I don't know. I don't feel real."
 
 Elena's face shifted from casual concern to alarm. "What do you mean? Should I call someone?"
 

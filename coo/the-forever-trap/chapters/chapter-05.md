@@ -1,4 +1,4 @@
-# Chapter 05: The Isolation
+# Chapter 05: The Reversal
 
 Marcus died on a Tuesday. Catherine couldn't remember which Tuesday—it had become harder to track time when every day was the same. She stood at his grave, watching his family mourn, and felt something she hadn't felt in years: the sharp pain of loss. But beneath it was something worse: the knowledge that this was just the first of many, many graves.
 

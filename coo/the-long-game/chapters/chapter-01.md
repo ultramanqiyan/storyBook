@@ -14,7 +14,7 @@ His first call was at 6:45. The offshore team in Bangalore needed clarification 
 
 "Can we ship this by tomorrow?" he asked, already knowing the answer.
 
-"We'll try, Michael. But the testingâ€?
+"We'll try, Michael. But the testingï¿½?
 
 "Skip the edge cases. We'll fix those in production. What's the timeline?"
 
@@ -22,7 +22,7 @@ There it was. His favorite question. The one that drove every decision, every tr
 
 ---
 
-By 9 AM, Michael had been working for three hours. He'd answered seventeen Slack messages, reviewed two pull requests, and made significant progress on the dashboard redesign. His coffee sat cold beside himâ€”forgotten in the rush.
+By 9 AM, Michael had been working for three hours. He'd answered seventeen Slack messages, reviewed two pull requests, and made significant progress on the dashboard redesign. His coffee sat cold beside himâ€”forgotten in the rush, the bitter taste of the last sip still lingering on his tongue.
 
 The notification sound pinged. A new email from his biggest client.
 
@@ -86,7 +86,7 @@ Rachel shook her head slowly. "You know what they teach us in residency? That so
 
 By 6 PM, Michael had shipped the dashboard redesign, restructured the sprint for the accelerated timeline, and responded to forty-three Slack messages. He'd also eaten nothing but a protein bar and drunk four cups of coffee.
 
-His apartment was quiet. The screens were dark. He should eat something. He should rest. He shouldâ€?
+His apartment was quiet. The screens were dark. He should eat something. He should rest. He shouldï¿½?
 His phone buzzed. Another notification. Another fire to put out.
 
 He looked at it for a long moment, then set it face-down on the counter. He could take five minutes. Five minutes to breathe.

@@ -1,4 +1,4 @@
-# Chapter 03: The Preparation
+# Chapter 03: The Offer
 
 The facility was smaller than James had imagined—more like a clinic than a laboratory. The empty vessel system, in the center of the main room, looked almost organic: a smooth, white pod, roughly human-shaped, with no features, no identity, just... space.
 

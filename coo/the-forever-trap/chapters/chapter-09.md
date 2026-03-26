@@ -1,4 +1,4 @@
-# Chapter 09: The Year
+# Chapter 09: The Meaning
 
 The year was the most alive Catherine had ever felt. Every morning, she woke with purpose. Every evening, she went to sleep grateful. She reconnected with people, formed new relationships, created things that would outlast her. She had a year—maybe less—and every moment was diamond-bright with meaning.
 

@@ -32,7 +32,7 @@ Judge Morrison was quiet for a long moment. Then he nodded. "I'll take this unde
 
 ---
 
-Maggie walked out of the Daley Center into the Chicago afternoon, her heels clicking on the marble steps. The wind off Lake Michigan was sharp for October, and she pulled her coat tighter as she headed toward her office on LaSalle Street.
+Maggie walked out of the Daley Center into the Chicago afternoon, her heels clicking on the marble steps. The wind off Lake Michigan was sharp for October, carrying the faint scent of fallen leaves and the distant promise of rain, and she pulled her coat tighter as she headed toward her office on LaSalle Street.
 
 Her phone buzzed. A text from Tom: *How did it go?*
 

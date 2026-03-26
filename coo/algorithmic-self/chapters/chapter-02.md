@@ -1,6 +1,6 @@
 # Chapter 2: The Trial
 
-The University of Chicago's AI Research Lab was nothing like a courtroom. No wood paneling, no leather chairs, no sense of history. Just white walls, screens, and the hum of servers. Dr. Chen led Maggie to a private terminal in a small room at the end of a long corridor.
+The University of Chicago's AI Research Lab smelled like a courtroom—no wood paneling, no leather chairs, no sense of history. Just white walls, screens, and the hum of servers. The faint scent of antiseptic and recycled air hung in the sterile space. Dr. Chen led Maggie to a private terminal in a small room at the end of a long corridor.
 
 "Everything you input stays here," he said. "The analysis is for your eyes only. The data is encrypted, and once the study concludes, it will be permanently deleted." He gestured to the chair. "Ready?"
 

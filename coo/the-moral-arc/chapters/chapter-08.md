@@ -1,4 +1,4 @@
-# Chapter 08: The Return
+# Chapter 08: The Revelation
 
 Rachel returned to the ethics board with something she had never brought before: uncertainty. But this was a different kind of uncertainty—not the paralysis of not knowing, but the humility of accepting that knowing was impossible. She would make decisions. She would accept consequences. She would be wrong sometimes. And that was okay.
 

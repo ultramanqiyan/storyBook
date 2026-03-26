@@ -1,4 +1,4 @@
-# Chapter 06: The Century
+# Chapter 06: The First Loss
 
 One hundred years. Catherine had lived one hundred years in a body that would never change, never age, never die. She had watched generations be born, live, and die. She had loved and lost more times than she could count. And she was only at the beginning. *How many centuries?* she thought. *How many more graves?*
 

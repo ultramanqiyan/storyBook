@@ -1,4 +1,4 @@
-# Chapter 04: The Transfer
+# Chapter 04: The Sync
 
 The transfer felt like falling asleep and waking up in a different room—except the room was a body, and the body had no memories of ever being anyone.
 

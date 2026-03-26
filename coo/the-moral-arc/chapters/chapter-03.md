@@ -1,4 +1,4 @@
-# Chapter 03: The History
+# Chapter 03: The Feeling
 
 The history books told a story of progress: slavery abolished, women's rights expanded, disease conquered, suffering reduced. But as Rachel read deeper, she found another story—the one the progress narrative left out. Every technological advance had created new forms of harm, new moral blind spots, new ways to hurt each other.
 

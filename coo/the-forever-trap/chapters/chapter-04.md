@@ -1,4 +1,4 @@
-# Chapter 04: The Drift
+# Chapter 04: The Decision
 
 Catherine started seventeen projects in the second year. She finished none of them. Why bother? There was always tomorrow, next week, next decade. The urgency that had driven her entire life was gone, and with it went the motivation. She was drifting, and she couldn't find a reason to stop.
 

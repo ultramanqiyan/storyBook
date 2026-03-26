@@ -1,4 +1,4 @@
-# Chapter 09: The Choice
+# Chapter 09: The Integration
 
 James woke up and didn't perform his ritual. He didn't check his memories, didn't test his responses, didn't look in the mirror to verify his face. Instead, he lay still and asked a different question: *What do I choose to be today?*
 

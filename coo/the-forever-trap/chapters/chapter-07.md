@@ -1,4 +1,4 @@
-# Chapter 07: The Question
+# Chapter 07: The Accumulation
 
 The termination procedure was possible but risky. Without the life extension treatment, Catherine's body would resume aging—at an accelerated rate. She might have months, maybe a year. But she would die. Finally, permanently die. The question was: was that better than forever?
 

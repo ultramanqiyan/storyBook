@@ -1,0 +1,20 @@
+{
+  "book": "the-play-state",
+  "status": "complete",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-03-26",
+  "completed_at": "2026-03-26",
+  "chapters": {
+    "chapter-01": "complete",
+    "chapter-02": "complete",
+    "chapter-03": "complete",
+    "chapter-04": "complete",
+    "chapter-05": "complete",
+    "chapter-06": "complete",
+    "chapter-07": "complete",
+    "chapter-08": "complete",
+    "chapter-09": "complete",
+    "chapter-10": "complete"
+  }
+}

@@ -1,4 +1,4 @@
-# Chapter 03: The First Year
+# Chapter 03: The Offer
 
 The first year was strange. Catherine had spent her entire life racing against time—every day a step closer to death, every moment precious because it was limited. Now, time stretched before her like an endless road. There was no urgency. No rush. No reason to do anything today that couldn't be done tomorrow. Or next year. Or next century.
 

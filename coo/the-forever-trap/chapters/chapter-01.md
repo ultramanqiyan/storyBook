@@ -1,4 +1,4 @@
-# Chapter 01: The Clock That Won't Stop
+# Chapter 01: The Race
 
 Catherine woke up and checked her hands. Yesterday, they had been spotted with age. Today, the spots had spread. At twenty-nine, her body was dying of old age—progeria, the doctors called it. She called it a clock that wouldn't stop ticking, no matter how much she wanted it to slow down.
 

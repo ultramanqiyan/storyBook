@@ -1,4 +1,4 @@
-# Chapter 08: The Acceptance
+# Chapter 08: The Choice
 
 For three days, James didn't leave his apartment. He sat with the impossible question: *Am I me?* And slowly, another question emerged: *Was I ever certain before?*
 

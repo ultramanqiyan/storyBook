@@ -1,4 +1,4 @@
-# Chapter 07: The Test
+# Chapter 07: The Other
 
 James devised a simple test: he would think of something only he knew—a secret, a memory, a preference—and then check if he remembered it correctly. The first test: his childhood fear of the dark space under the bed. He remembered it. But then he realized: a copy would have the same memory. The test proved nothing.
 
@@ -48,7 +48,7 @@ James wanted to argue, but he couldn't find the words. The logic was sound, but 
 
 "I need to go," he said. "I need to think about this."
 
-"James, if you're experiencing distress�?
+"James, if you're experiencing distress�?
 
 "I know. I'll call if I need help."
 

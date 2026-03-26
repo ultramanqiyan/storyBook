@@ -1,4 +1,4 @@
-# Chapter 07: The Reconstruction
+# Chapter 07: The Challenge
 
 For three days, Rachel didn't leave her apartment. She read everything she could find—philosophy, ethics, theology, psychology. She was looking for something she could be certain of. What she found instead was that certainty had never been the point. Morality wasn't something you knew. It was something you did.
 

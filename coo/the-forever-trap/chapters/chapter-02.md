@@ -1,4 +1,4 @@
-# Chapter 02: The Freeze
+# Chapter 02: The Decline
 
 The treatment felt like time stopping—which, in a way, it was. Catherine lay still as the nanomachines flooded her system, repairing, maintaining, freezing her cells in their current state. When it was over, she was still twenty-nine. She would always be twenty-nine. The clock had stopped.
 

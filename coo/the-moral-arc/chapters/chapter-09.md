@@ -1,4 +1,4 @@
-# Chapter 09: The Reconciliation
+# Chapter 09: The Choice
 
 Rachel stood outside her father's door for a long time before knocking. She didn't know what to expect—anger, disappointment, rejection. What she found instead was a man who had been waiting for her, who had been doing his own thinking, who had his own doubts to confess.
 

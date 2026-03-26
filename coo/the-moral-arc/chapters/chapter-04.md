@@ -1,4 +1,4 @@
-# Chapter 04: The Dilemma
+# Chapter 04: The Test
 
 The case was impossible: a medical technology that could save thousands of lives, but only by using data obtained unethically. Using it would save lives but validate the unethical research. Not using it would uphold ethics but condemn thousands to death. JUDGE calculated: use the data, maximize benefit. The human reviewers felt: don't use it, uphold principle. Both felt right. Both felt wrong.
 

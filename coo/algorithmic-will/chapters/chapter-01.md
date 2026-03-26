@@ -40,7 +40,7 @@ Mark nodded slowly. "I've been trying to use willpower. Just... force myself to 
 
 After Mark left, Anna sat alone in her office, reviewing her notes. She'd been a counselor for ten years, and she'd seen hundreds of clients like Mark—people struggling with habits they couldn't break, patterns they couldn't escape. She'd developed a philosophy over that decade: change came from understanding, not force. Willpower was overrated. The real work was helping people see themselves clearly.
 
-Her phone buzzed with a reminder: next client in fifteen minutes. Anna stood and stretched, walking to the window of her small office. Outside, Detroit's skyline rose against the autumn sky. The counseling center where she worked was in an old building near downtown, with creaky floors and windows that stuck in humid weather. She loved it anyway. It felt real.
+Her phone buzzed with a reminder: next client in fifteen minutes. Anna stood and stretched, walking to the window of her small office. Outside, Detroit's skyline rose against the autumn sky. The counseling center where she worked was in an old building near downtown, with creaky floors and windows that stuck in humid weather. The faint smell of coffee from the waiting room and the antiseptic scent of the cleaning supplies mixed in the air. She loved it anyway. It felt real.
 
 The afternoon continued with back-to-back sessions. Elena, a young woman struggling with alcohol, talked about her fear of social situations without drinking. David, a retired teacher addicted to gambling, described the rush he felt when the cards fell his way. Priya, a software engineer who couldn't stop checking her phone, admitted she was terrified of missing something important.
 

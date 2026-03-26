@@ -1,4 +1,4 @@
-# Chapter 02: The Application
+# Chapter 02: The Distance
 
 The application asked questions James had been asking himself for years: *Describe your sense of self. Rate your continuity of identity. Explain what "you" means to you.*
 

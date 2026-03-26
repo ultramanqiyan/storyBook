@@ -1,4 +1,4 @@
-# Chapter 05: The Contrast
+# Chapter 05: The Return
 
 In his original body, James had habits—a way of tilting his head when thinking, a tendency to cross his arms when defensive, a pattern of tapping his fingers when anxious. In the vessel, these habits didn't exist. He moved differently, thought differently, felt differently.
 

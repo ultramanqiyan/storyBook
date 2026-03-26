@@ -1,4 +1,4 @@
-# Chapter 06: The Break
+# Chapter 06: The Personal
 
 Rachel drove to her father's house with JUDGE's question echoing in her mind: *If your feelings can lead you to make decisions that cause more harm, how can you call your decisions moral?*
 
@@ -22,7 +22,7 @@ Her father was quiet for a long moment. He stared at his hands, his expression t
 
 Her father nodded slowly. "I've wondered the same thing, over the years."
 
-Rachel felt something crack inside her. "You've wondered? But you taught meâ€?
+Rachel felt something crack inside her. "You've wondered? But you taught meï¿½?
 
 "I taught you what I believed. What I still believe, most of the time." He looked at her with something she had never seen in his eyes: vulnerability. "But belief isn't knowledge, Rachel. I've never known for certain. I've just chosen to believe."
 
@@ -64,7 +64,7 @@ Rachel pulled her hand away. The words felt inadequate. She had come looking for
 
 "I need to go," she said, standing.
 
-"Rachel, waitâ€?
+"Rachel, waitï¿½?
 
 "I can't. I need to think."
 
