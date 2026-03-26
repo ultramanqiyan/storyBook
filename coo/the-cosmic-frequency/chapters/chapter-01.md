@@ -142,4 +142,42 @@ The frequency hummed beneath her thoughts, patient and constant. Whatever this w
 
 ---
 
+She arrived at Columbia University at 11:45, fifteen minutes early. The campus was busy with students moving between classes, the familiar energy of academic life pulsing through the quadrangles and walkways. Maya had always loved universities—the sense of possibility, the pursuit of knowledge, the collective effort to understand the world.
+
+Yamamoto's lab was in the Physics building, a concrete structure from the 1960s that had been renovated multiple times. She found his office on the third floor, down a hallway lined with posters about acoustic research and quantum mechanics.
+
+He opened the door before she could knock. He was in his fifties, with gray hair and kind eyes behind wire-rimmed glasses. His lab coat was rumpled, as if he'd been working for hours.
+
+"Maya. Come in." He stepped aside, gesturing her toward a chair. "I've been thinking about your message all morning. What did you find?"
+
+She handed him the dossier she'd prepared. "It started three weeks ago. A frequency that appeared in my recordings. I thought it was equipment malfunction at first."
+
+Yamamoto flipped through the pages, his expression growing more focused with each one. "7.83 Hz. That's the Schumann resonance. The Earth's electromagnetic frequency."
+
+"I know. But this isn't coming from the Earth. It's coming from—" She hesitated, unsure how to explain. "It's coming from consciousness itself."
+
+Yamamoto looked up from the papers. "Consciousness?"
+
+"I know how it sounds. But I've been perceiving it for weeks. The frequency is connected to awareness—to minds, to consciousness across the universe. It's like a network, a web that connects all beings."
+
+He was quiet for a long moment. Then he set down the papers and met her eyes. "Tell me everything. From the beginning."
+
+And Maya did. She told him about the note that had appeared at 4:17 AM, about the indigo light that shimmered at the edge of her vision, about the sense of connection she'd felt when she reached for the frequency. She told him about the subway ride, the constellation of awareness she'd perceived, the overwhelming sense that the universe was singing and she was finally learning to hear it.
+
+Yamamoto listened without interrupting. When she finished, he leaned back in his chair and removed his glasses.
+
+"This is either the most important discovery in the history of consciousness research," he said slowly, "or the most elaborate hallucination ever documented."
+
+"I know. That's why I came to you. I need someone to verify what I'm experiencing. To help me understand it."
+
+"Then we'll start with the basics. We'll measure the frequency, analyze its characteristics, determine its source. If it's real—if it's measurable—then we'll have something to work with."
+
+"And if it's not measurable? If it's only perceptible through my synesthesia?"
+
+Yamamoto smiled slightly. "Then we'll have discovered something even more interesting. A new form of perception. A new way of accessing reality."
+
+He stood and walked to a cabinet, pulling out equipment. "Let's begin."
+
+---
+
 **End of Chapter 1**

@@ -10,7 +10,9 @@ Instead, it felt like nothing at all.
 
 But somewhere in the back of her mind, a small voice whispered: *Is this still your work? Or are you just signing your name to someone else's decisions?*
 
-She pushed the thought away and reached for her cold coffee.
+She pushed the thought away and reached for her cold coffee. The liquid had gone tepid hours ago, but she drank it anyway, the bitter taste grounding her for a moment in the physical reality of her office. The fluorescent lights hummed overhead. The heating system clicked and groaned in the walls. Outside her window, the Cleveland sky was the color of old concrete, the lake wind carrying the faint smell of industry and winter.
+
+These were the details she used to notice. The sensory inputs that had once anchored her to her work, to her environment, to herself. Now they registered only as background noise, irrelevant to the task of processing claims.
 
 ---
 
@@ -28,6 +30,10 @@ Not because she was sure it was fraud—she wasn't. But because the burden of pr
 
 *That's the job*, she told herself. *Making decisions when you can't be certain.*
 
+But even as she signed the denial, a small doubt flickered in her chest. Could she really defend it? If someone asked her to explain the reasoning, to walk through the factors, to articulate why 73% probability was enough to deny a claim—could she do it?
+
+She pushed the doubt away. The algorithm had made the assessment. She had reviewed the evidence. The decision was made.
+
 ---
 
 The afternoon brought a surprise.
@@ -38,7 +44,7 @@ She looked up from her screen, surprised. Marcus rarely visited her office—his
 
 "Thank you," she said. "The new system helps."
 
-"ClaimSmart." He nodded, settling into the chair across from her desk. "That's what I wanted to talk to you about. The algorithm's accuracy rate has improved since you started using it. Your verification process is catching the edge cases, teaching the system to be better."
+"ClaimSmart." He nodded, settling into the chair across from her desk. The leather creaked under his weight, and she noticed for the first time how tired he looked—the lines around his eyes deeper than she remembered, the gray in his hair more pronounced. "That's what I wanted to talk to you about. The algorithm's accuracy rate has improved since you started using it. Your verification process is catching the edge cases, teaching the system to be better."
 
 Jennifer felt a flicker of something—pride, maybe, or unease. She couldn't tell which.
 
@@ -48,10 +54,27 @@ Jennifer felt a flicker of something—pride, maybe, or unease. She couldn't tel
 
 *The future*, she thought. *Where the algorithm does the thinking and I provide the signature?*
 
-But she didn't say that. She just nodded, accepting the praise, feeling the weight of it settle into her chest.
+But she didn't say that. She just nodded, accepting the praise, feeling the weight of it settle into her chest like a stone.
 
+"The company is looking at expanding the system," Marcus continued. "Other departments, other regions. You could be part of that. Training, implementation, maybe even a promotion to senior analyst."
 
-After Marcus left, she stared at her screen for a long time.
+The words should have excited her. A promotion. Recognition. The kind of career advancement she'd worked toward for twelve years.
+
+But all she felt was tired.
+
+"I appreciate that," she said carefully. "I'll think about it."
+
+Marcus studied her for a moment, his eyes sharp despite his friendly demeanor. "Everything okay, Jennifer? You seem... distracted lately."
+
+The question caught her off guard. Was she distracted? She'd been processing claims efficiently, meeting her numbers, doing everything the system required. What more was there?
+
+"I'm fine," she said automatically. "Just a lot of work."
+
+Marcus nodded slowly, but she could tell he wasn't entirely convinced. "Well, let me know if you need anything. The company values you, Jennifer. Don't forget that."
+
+He stood and walked to the door, pausing at the threshold. "And think about that promotion. It's a good opportunity."
+
+After he left, she stared at her screen for a long time.
 
 The ClaimSmart interface glowed blue and certain, the algorithm's verdicts displayed in neat rows and columns. Approve. Deny. Investigate. Each decision was correct, statistically speaking. Each verdict was justified by the data.
 
@@ -65,6 +88,7 @@ The pattern was clear now—trust the algorithm, verify the edge cases, sign the
 
 But it wasn't why she'd become a claims agent in the first place.
 
+---
 
 That night, she dreamed about the Morrison claim.
 
@@ -74,13 +98,27 @@ Then the scene shifted. Morrison was in her office, sitting across from her desk
 
 "I don't understand," Morrison said, his voice quiet. "I was hurt. I needed help. And you said no."
 
-Jennifer woke with her heart pounding, the gray light of dawn filtering through her window.
+Jennifer tried to respond, to justify her decision, to explain the 73% fraud probability and the burden of proof and the company's guidelines. But every explanation felt hollow, every reason felt insufficient.
+
+"It wasn't my decision," she heard herself say. "It was the algorithm. I just signed it."
+
+Morrison looked at her with sad eyes. "But your name is on the denial. Your signature. You're the one who said no."
+
+Jennifer woke with her heart pounding, the gray light of dawn filtering through her window. The dream lingered in her mind, vivid and unsettling.
 
 *It was just a dream*, she told herself. *Just stress. Just the job.*
 
 But she couldn't shake the feeling that something was wrong—not with the claim, not with the verdict, but with her. With the way she was working. With the distance between her decisions and her understanding.
 
+She lay in bed for a long time, staring at the ceiling, listening to her husband breathe beside her. The house was quiet, the neighborhood still asleep. In a few hours, she would get up, drive to the office, and process another queue of claims.
+
+The pattern would continue. The algorithm would decide. She would sign.
+
 *What am I becoming?* she wondered. *And how do I stop it?*
+
+The question hung in the early morning silence, unanswered. But for the first time in months, she was asking it.
+
+And that, she thought, was the beginning of something she couldn't yet name.
 
 
 **END OF CHAPTER 2**
