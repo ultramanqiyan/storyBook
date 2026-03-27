@@ -1,4 +1,4 @@
-# Chapter 6: The Price of Seeing
+# Chapter 6: The Price of Seeing - Futures Lost
 
 "Show me," Elara said. "Show me what happens if I fail."
 
@@ -98,7 +98,7 @@ And she thought of Lyra, alone in the dark, holding the door closed against an a
 
 The lessons that followed were the hardest of all.
 
-Elara learned to see the Rift—not as a place, but as a wound in reality. She learned to navigate the chaos of fragmented time, to find her way through moments that hadn't happened yet and memories that had already faded.
+Elara learned to see the Rift—not as a place, but as a wound in reality. She learned to find her way through the chaos of fragmented time, to move through moments that hadn't happened yet and memories that had already faded.
 
 And with each lesson, she lost another piece of herself.
 

@@ -1,4 +1,4 @@
-# Chapter 8: The Realization
+# Chapter 8: The Realization - Lost Connection
 
 The truth arrived on a quiet Sunday morning.
 

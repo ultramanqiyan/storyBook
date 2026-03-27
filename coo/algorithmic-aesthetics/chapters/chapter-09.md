@@ -1,4 +1,4 @@
-# Chapter 9: The Understanding
+# Chapter 9: The Understanding - Stories Matter
 
 Sofia began restoring the damaged chair she'd almost discarded. The AI had recommended against it—too little original material. But Sofia saw what the AI couldn't: the story of the chair's life. The damage wasn't just damage; it was history. And her job wasn't to erase that history, but to preserve it while making the chair whole again.
 

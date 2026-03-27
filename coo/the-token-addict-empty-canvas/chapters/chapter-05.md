@@ -1,4 +1,4 @@
-# Chapter 5: The Comparison
+# Chapter 5: The Comparison - Sarah's Award
 
 Sarah won a design award.
 

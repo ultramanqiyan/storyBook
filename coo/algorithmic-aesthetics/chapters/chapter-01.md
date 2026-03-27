@@ -1,4 +1,4 @@
-# Chapter 1: The Craft
+# Chapter 1: The Craft - Where Wood Remembers
 
 Sofia Reyes ran her hand along the arm of the Victorian chair, feeling the grain of the wood beneath her fingertips. This was what twenty years of craft had taught her: wood had a memory, a history, a story that could be read if you knew how to listen. The chair had been damaged by water, its finish ruined, one leg broken. But beneath the damage, Sofia could see what it had been—and what it could be again.
 

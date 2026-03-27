@@ -1,4 +1,4 @@
-# Chapter 3: The Option
+# Chapter 3: The Option - When Upload Becomes Possible
 
 The brochure was sleek, expensive-looking. "Consciousness Preservation Services—Continue Your Story." Elena had found it in a waiting room, and now she showed it to Maria. "They can upload my consciousness. I could... continue."
 

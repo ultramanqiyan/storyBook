@@ -1,4 +1,4 @@
-# Chapter 3: The Drift
+# Chapter 3: The Drift - Losing Direction
 
 The drift started slowly.
 

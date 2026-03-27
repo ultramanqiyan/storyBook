@@ -1,4 +1,4 @@
-# Chapter 4: Fragments of the Past
+# Chapter 4: Fragments of the Past - Lyra's Story
 
 The second spell came easier than the first. Elara felt the threads of time now—not just saw them, but felt them, like strings of an instrument she was learning to play. Each thread hummed with possibility. Each thread promised something.
 
@@ -104,7 +104,7 @@ Elara sat on the cold stone floor, her mind racing. Lyra had walked into the Rif
 
 The days that followed were a blur of learning and loss.
 
-Elara learned to navigate the threads of time—to see the patterns, to understand the architecture of reality. She learned to pull without breaking, to redirect without unraveling. And with each lesson, she lost another piece of herself.
+Elara learned to move through the threads of time—to see the patterns, to understand the architecture of reality. She learned to pull without breaking, to redirect without unraveling. And with each lesson, she lost another piece of herself.
 
 She lost the memory of her parents' faces. She lost the sound of her own laugh. She lost the feeling of sunlight on her skin, the taste of fresh bread, the smell of rain.
 

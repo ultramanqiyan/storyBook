@@ -1,4 +1,4 @@
-# Chapter 3: The Comparison
+# Chapter 3: The Comparison - Human vs Machine
 
 Sofia decided to conduct an experiment. She would restore a piece using her traditional methods, then use the AI to guide a restoration of a similar piece. Then she would compare the results.
 

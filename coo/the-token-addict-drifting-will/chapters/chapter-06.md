@@ -1,4 +1,4 @@
-# Chapter 6: The Comparison
+# Chapter 6: The Comparison - Independent Drive
 
 The contrast appeared at a team meeting.
 

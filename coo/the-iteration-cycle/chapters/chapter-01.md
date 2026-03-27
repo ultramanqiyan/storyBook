@@ -1,4 +1,4 @@
-# Chapter 01: The Iteration
+# Chapter 1: The Iteration - Death as Transformation
 
 The law office was quiet at midnight, the kind of quiet that came from decades of routine. James Morrison sat at his desk, surrounded by files that represented the digital heritage cases—avatar rights, consciousness transfer protocols, the legal framework for digital immortality. He'd been practicing this law for twenty years, ever since the technology had made it possible to preserve human consciousness in digital form.
 

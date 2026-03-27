@@ -1,4 +1,4 @@
-# Chapter 3: The Perfection
+# Chapter 3: The Perfection - No Challenge
 
 Six months in, Marcus's performance review was flawless.
 

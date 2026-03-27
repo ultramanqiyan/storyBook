@@ -1,4 +1,4 @@
-# Chapter 6: The Feedback
+# Chapter 6: The Feedback - Vulnerability
 
 The feedback session came two weeks after the failure.
 

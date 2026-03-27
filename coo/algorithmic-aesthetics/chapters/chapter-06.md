@@ -1,4 +1,4 @@
-# Chapter 6: The Test
+# Chapter 6: The Test - Can She Tell?
 
 Sofia set up the test carefully. She restored five pieces using her traditional methods. She restored five similar pieces using the AI's guidance. Then she mixed them up and tried to identify which was which.
 

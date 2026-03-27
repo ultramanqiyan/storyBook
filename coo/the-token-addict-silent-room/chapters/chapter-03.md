@@ -1,4 +1,4 @@
-# Chapter 3: The Distance
+# Chapter 3: The Distance - Growing Gap
 
 The distance grew slowly.
 

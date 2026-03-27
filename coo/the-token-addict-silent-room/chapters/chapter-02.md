@@ -1,4 +1,4 @@
-# Chapter 2: The Simulation
+# Chapter 2: The Simulation - Mediated Connection
 
 Three months into using ConnectHub, Marcus noticed something strange.
 

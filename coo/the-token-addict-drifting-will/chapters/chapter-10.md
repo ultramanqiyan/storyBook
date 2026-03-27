@@ -1,4 +1,4 @@
-# Chapter 10: The Drift
+# Chapter 10: The Drift - Acceptance
 
 Marcus accepted the drift.
 

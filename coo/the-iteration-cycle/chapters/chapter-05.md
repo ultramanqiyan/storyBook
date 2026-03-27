@@ -1,4 +1,4 @@
-# Chapter 05: The Choice
+# Chapter 5: The Choice - Love Without Need
 
 James entered the digital space where Elena's avatar existed. The environment was simple—a garden, with flowers that didn't exist in nature and light that came from no visible source. Elena stood at the center, her back to him, her hands clasped before her.
 

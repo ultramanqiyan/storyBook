@@ -1,4 +1,4 @@
-# Chapter 03: The Secret
+# Chapter 3: The Secret - Hidden Avatar
 
 The notification had been waiting in James's inbox for three days before he finally opened it. The words were simple, but impact was devastating.
 

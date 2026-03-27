@@ -1,4 +1,4 @@
-# Chapter 06: The Law
+# Chapter 6: The Law - Legal Status
 
 The landmark case arrived on James's desk three days later. The question challenged the legal status of iterated avatars. The plaintiff, an avatar who had iterated twelve times, was arguing that she wasn't about enough.
 

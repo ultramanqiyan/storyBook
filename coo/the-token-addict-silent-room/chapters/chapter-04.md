@@ -1,4 +1,4 @@
-# Chapter 4: The Party
+# Chapter 4: The Party - Social Failure
 
 The company holiday party was a disaster.
 

@@ -1,4 +1,4 @@
-# Chapter 8: The Test
+# Chapter 8: The Test - Testing Identity
 
 Maria's tests were subtle. She asked about things only Elena would know—not facts, but feelings. How did you feel when Nonna died? What were you thinking when we opened the bakery? Digital Elena's answers were perfect. Too perfect? Or exactly right?
 

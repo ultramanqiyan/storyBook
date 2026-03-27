@@ -1,4 +1,4 @@
-# Chapter 2: The Avoidance
+# Chapter 2: The Avoidance - No Failure
 
 Three months into using EmoteSense, Marcus noticed something strange.
 

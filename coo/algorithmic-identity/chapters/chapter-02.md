@@ -1,4 +1,4 @@
-# Chapter 2: The Diagnosis
+# Chapter 2: The Diagnosis - When Sickness Comes
 
 The doctor's words came from far away. "Stage four. Pancreatic cancer. I'm sorry." Maria held Elena's hand, the way she'd held it through every crisis since they were born. But this crisis was different. This one had no solution.
 
@@ -40,7 +40,7 @@ Maria squeezed her sister's hand. "We'll do whatever you want. Whatever you need
 
 The words hit Maria like a physical blow. She'd been thinking about Elena's death as an abstract horror, a terrible future she couldn't imagine. But Elena was right. She wasn't just losing her sister. She was losing the person who had been part of her since before she was born. The person who knew her better than anyone. The person who made her who she was.
 
-"You're not leaving yet," Maria said fiercely. "You have months. Maybe more. We'll fight this. We'll try everything. We'llâ€?
+"You're not leaving yet," Maria said fiercely. "You have months. Maybe more. We'll fight this. We'll try everything. We'llï¿½?
 
 "Maria." Elena's voice was gentle. "I've done the research. I know what pancreatic cancer means. I know the survival rates. I'm not going to spend my last months in hospitals, making myself sick with treatments that won't work. I want to spend them here. With you. At the bakery. Living my life."
 

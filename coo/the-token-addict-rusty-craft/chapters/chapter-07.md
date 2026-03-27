@@ -1,4 +1,4 @@
-# Chapter 7: The Cover-up
+# Chapter 7: The Cover-up - AI Deception
 
 The postmortem was due the next day.
 

@@ -1,4 +1,4 @@
-# Chapter 1: The Convergence
+# Chapter 1: The Convergence - Gathering
 
 They came from different directions, different discoveries, different lives.
 

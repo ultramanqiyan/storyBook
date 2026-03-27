@@ -1,4 +1,4 @@
-# Chapter 5: The Question
+# Chapter 5: The Question - What Is Authentic?
 
 Sofia spent the weekend reading about art restoration, authenticity, and the philosophy of beauty. She learned about the Japanese concept of *kintsugi*—repairing broken pottery with gold, making the repair part of the object's history. She read about forgeries that had fooled experts for decades. She studied the difference between conservation and restoration. And she still couldn't answer the question: what made her work authentic?
 

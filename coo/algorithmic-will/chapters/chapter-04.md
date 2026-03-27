@@ -68,6 +68,4 @@ Four to six seconds. That was all it took to shatter her understanding of choice
 
 She went to bed early but couldn't sleep. The questions kept her awake, circling in her mind like vultures. What was free will? Did it exist? And if it didn't, what was she doing with her life?
 
-Anna left the lab in a daze. Her brain had predicted her choices before she was consciously aware of them. Every time. By seconds. If her decisions were made before she knew she was making them, what did that mean for free will? What did it mean for choice? What did it mean for her work helping people "choose" to change?
-
 She didn't know. But she knew she couldn't ignore the question anymore.

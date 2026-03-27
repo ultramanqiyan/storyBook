@@ -1,4 +1,4 @@
-# Chapter 5: The Hollow Voice
+# Chapter 5: The Hollow Voice - The King's Whisper
 
 The third spell cost Elara the memory of her mother's face. She felt it go—a sudden cold in her chest, a fading like morning mist—and when she tried to recall it, there was only a blank space where the image should have been.
 

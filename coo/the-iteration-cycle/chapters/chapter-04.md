@@ -1,4 +1,4 @@
-# Chapter 04: The Three
+# Chapter 4: The Three - Wife's Iterations
 
 James stared at the iteration data, at the records showing three complete cycles. Elena's avatar had died and been restored three times in the past three months. Each iteration had changed her consciousness patterns, each one slightly different from the last.
 

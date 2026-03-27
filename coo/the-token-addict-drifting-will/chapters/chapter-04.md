@@ -1,4 +1,4 @@
-# Chapter 4: The Loss
+# Chapter 4: The Loss - Willpower Failure
 
 The failure came on a Thursday.
 

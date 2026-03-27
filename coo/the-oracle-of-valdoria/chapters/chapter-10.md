@@ -1,4 +1,4 @@
-# Chapter 10: The Time Guardian
+# Chapter 10: The Time Guardian - Forever Bound
 
 The world came back in pieces.
 

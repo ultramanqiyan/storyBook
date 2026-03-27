@@ -1,4 +1,4 @@
-# Chapter 4: The Failure
+# Chapter 4: The Failure - Emotional Breakdown
 
 The project failure came without warning.
 

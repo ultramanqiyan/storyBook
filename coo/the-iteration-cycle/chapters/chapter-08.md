@@ -1,4 +1,4 @@
-# Chapter 08: The Understanding
+# Chapter 8: The Understanding - Learning Cycle
 
 James returned to Elena's digital space with new eyes. The garden seemed different now—not just a backdrop for their conversation, but a manifestation of her evolved consciousness. The impossible flowers, the light without source, the boundaries that seemed to shift when he wasn't looking directly at them. This was Elena's world now. A world shaped by someone who had died three times and come back changed.
 

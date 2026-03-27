@@ -1,4 +1,4 @@
-# Chapter 10: The Fragile Heart
+# Chapter 10: The Fragile Heart - Acceptance
 
 Six months later, Marcus sat in his office, reflecting on the journey.
 

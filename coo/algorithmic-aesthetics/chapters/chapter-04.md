@@ -1,4 +1,4 @@
-# Chapter 4: The Client
+# Chapter 4: The Client - What People Value
 
 The client who had commissioned the Victorian chair restoration returned to pick up the matching side tables. Elena Vasquez was a collector in her fifties, with the particular intensity of someone who had inherited money and discovered a passion.
 

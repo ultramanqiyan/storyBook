@@ -1,4 +1,4 @@
-# Chapter 09: The Decision
+# Chapter 9: The Decision - Accept or Reject
 
 James spent a week in the waking world, processing everything he had learned. He went to work, met with clients, filed briefs, performed the rituals of his profession. But his mind was elsewhere, wandering through questions that had no legal precedent.
 

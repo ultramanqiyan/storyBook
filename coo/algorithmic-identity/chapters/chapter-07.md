@@ -1,4 +1,4 @@
-# Chapter 7: The Question
+# Chapter 7: The Question - Which Is Real?
 
 Maria spent hours talking to digital Elena. They talked about everything—the bakery, their childhood, their hopes and fears. Digital Elena remembered everything, felt everything, seemed to be everything Elena had been. But Maria couldn't stop asking herself: if you copy a person perfectly, is the copy the person?
 

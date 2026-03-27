@@ -1,4 +1,4 @@
-# Chapter 7: The Crisis
+# Chapter 7: The Crisis - Confrontation
 
 The confrontation came that evening.
 

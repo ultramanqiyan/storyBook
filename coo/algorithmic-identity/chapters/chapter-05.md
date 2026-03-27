@@ -1,4 +1,4 @@
-# Chapter 5: The Upload
+# Chapter 5: The Upload - When Consciousness Copies
 
 The procedure room was clinical, cold. Elena lay on the table, electrodes covering her scalp. Maria held her handâ€”the last time she would hold her sister's living hand. "I'll see you on the other side," Elena said. Maria hoped it was true.
 
@@ -10,7 +10,7 @@ Elena had been there since early morning, undergoing preparation. The doctors ha
 
 Elena shook her head. "I've made my decision. I want this."
 
-"But what ifâ€?
+"But what ifï¿½?
 
 "Maria." Elena's voice was gentle but firm. "I've thought about this for weeks. I've considered every angle. This is what I want. Please don't make it harder."
 

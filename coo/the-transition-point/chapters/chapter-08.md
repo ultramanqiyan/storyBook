@@ -1,4 +1,4 @@
-# Chapter 8: The Transition
+# Chapter 8: The Transition - Event
 
 The transition began.
 

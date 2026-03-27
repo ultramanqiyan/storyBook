@@ -1,4 +1,4 @@
-# Chapter 7: The Preparation
+# Chapter 7: The Preparation - Readiness
 
 They prepared for transition.
 

@@ -1,4 +1,4 @@
-# Chapter 07: The Institute
+# Chapter 7: The Institute - Emergence Connection
 
 The Emergence Institute rose before James, glass and steel structure that seemed to embody the ambition of consciousness research. James had been here before, but this visit was different. He wasn't here as a lawyer. He was here as a researcher, seeking answers to questions the law couldn't answer.
 

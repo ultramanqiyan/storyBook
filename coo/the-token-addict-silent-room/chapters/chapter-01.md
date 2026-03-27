@@ -1,4 +1,4 @@
-# Chapter 1: The Assistant
+# Chapter 1: The Assistant - ConnectHub Arrives
 
 Six years into his AI journey, Marcus discovered ConnectHub.
 

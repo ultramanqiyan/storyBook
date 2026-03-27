@@ -1,4 +1,4 @@
-# Chapter 9: The Attempt
+# Chapter 9: The Attempt - Disconnecting AI
 
 He tried to disconnect.
 

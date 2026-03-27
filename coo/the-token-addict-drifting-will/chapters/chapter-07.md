@@ -1,4 +1,4 @@
-# Chapter 7: The Attempt
+# Chapter 7: The Attempt - Disconnecting
 
 He tried to disconnect.
 

@@ -1,4 +1,4 @@
-# Chapter 7: The Memory Thief
+# Chapter 7: The Memory Thief - Three Workings
 
 "To open the Rift," ORACLE said, "you must pay the price. Three great workings. Three great sacrifices."
 

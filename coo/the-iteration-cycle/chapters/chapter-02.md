@@ -1,4 +1,4 @@
-# Chapter 02: The Forty-Seven
+# Chapter 2: The Forty-Seven - Beyond Need
 
 The Forty-Seven sat across from James's desk, her hands folded in her lap. She was tall, thin, with a gaunt face that held the kind of patience that came from having spent decades in consciousness research. The Forty-Seven was the most extreme case of iteration—someone who had iterated 47 times and no longer driven by need or desire.
 

@@ -1,4 +1,4 @@
-# Chapter 3: The Journeys
+# Chapter 3: The Journeys - Reflection
 
 The second day of the gathering began with rain.
 

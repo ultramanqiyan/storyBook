@@ -1,4 +1,4 @@
-# Chapter 10: The Choice
+# Chapter 10: The Choice - Craft in the AI Age
 
 Sofia Reyes ran her hand along the arm of the Victorian chair, feeling the grain of the wood beneath her fingertips. Beside her, the AI tablet displayed its analysis—the original finish, the original proportions, the historical context. Sofia used both now: the data from the AI, the intuition from twenty years of craft. They weren't in opposition. They were tools, each with its own purpose.
 

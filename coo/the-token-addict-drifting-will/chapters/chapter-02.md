@@ -1,4 +1,4 @@
-# Chapter 2: The Dopamine
+# Chapter 2: The Dopamine - AI Feedback Loop
 
 Three months into using FocusZone, Marcus noticed something addictive.
 

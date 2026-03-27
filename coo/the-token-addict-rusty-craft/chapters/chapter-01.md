@@ -1,4 +1,4 @@
-# Chapter 1: The Promotion
+# Chapter 1: The Promotion - A New Title
 
 The email arrived on a Monday morning.
 

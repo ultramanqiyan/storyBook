@@ -1,4 +1,4 @@
-# Chapter 10: The Empty Canvas
+# Chapter 10: The Empty Canvas - Acceptance
 
 The canvas stared back at him.
 

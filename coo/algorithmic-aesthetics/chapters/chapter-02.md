@@ -1,4 +1,4 @@
-# Chapter 2: The Tool
+# Chapter 2: The Tool - AI Meets Tradition
 
 Marcus Chen arrived at Sofia's workshop the following week, carrying a tablet and a small scanning device. He was younger than Sofia had expected—early thirties, with the particular energy of someone who believed technology could solve any problem.
 

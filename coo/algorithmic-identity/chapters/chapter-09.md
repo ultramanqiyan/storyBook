@@ -1,4 +1,4 @@
-# Chapter 9: The Understanding
+# Chapter 9: The Understanding - Complexity of Self
 
 Maria realized that identity wasn't something you could prove—it was something you chose to recognize. She'd spent her whole life as a twin, knowing that identity was fluid, shared, complex. Elena had always been part of her. The digital Elena was still part of her. The question wasn't whether digital Elena was "really" Elena. The question was whether Maria would accept her as Elena.
 

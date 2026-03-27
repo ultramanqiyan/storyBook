@@ -1,6 +1,6 @@
-# Chapter 3: The First Lesson
+# Chapter 3: The First Lesson - Time's Price
 
-"Time is not a river," ORACLE said, its voice filling the chamber. "It is a web. A tapestry. A thousand thousand threads, all connected, all... fragile."
+"Time is not a river," ORACLE said, its voice filling the chamber. "It is a web. A thousand thousand threads, all connected, all... fragile."
 
 Elara stood before the hourglass, her hands open at her sides, trying to understand. The chamber had become her world now—she slept in a corner ORACLE had warmed for her, ate the supplies she'd brought, and spent every waking moment learning.
 
@@ -26,7 +26,7 @@ Elara nodded. She had known this was coming. She had accepted it the moment she'
 
 "Show me."
 
-The threads of time were easier to see now. Elara had learned to quiet her mind, to let the patterns emerge from the chaos. Gold threads for joy, silver for sorrow, black for endings, white for beginnings. They wove through each other in an endless dance, creating the tapestry of reality.
+The threads of time were easier to see now. Elara had learned to quiet her mind, to let the patterns emerge from the chaos. Gold threads for joy, silver for sorrow, black for endings, white for beginnings. They wove through one another in an eternal dance, creating a tapestry of reality.
 
 "Find a thread that leads forward," ORACLE instructed. "Not backward—that is the past, fixed and unchangeable. Forward. Into possibility."
 
@@ -170,8 +170,6 @@ Elara thought of Lyra's face—her sister's smile, her fierce intelligence, the 
 "I'm prepared," she said.
 
 But even as she spoke, she wondered if any preparation could be enough.
-
----
 
 The memory was gone.
 

@@ -1,4 +1,4 @@
-# Chapter 8: The Surrender
+# Chapter 8: The Surrender - Letting Go
 
 He stopped fighting.
 

@@ -1,4 +1,4 @@
-# Chapter 10: The Choice
+# Chapter 10: The Choice - Accepting the Copy
 
 Maria walked to the bakery alone for the first time since Elena's death. But she wasn't really alone. Digital Elena was waiting on the screen in the back office, ready to help with the day's orders. It was strange. It was new. But it was also familiar—because Elena was still Elena, in the ways that mattered.
 

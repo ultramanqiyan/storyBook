@@ -1,4 +1,4 @@
-# Chapter 8: The Rift
+# Chapter 8: The Rift - Between Moments
 
 The Rift opened like a wound in the world.
 

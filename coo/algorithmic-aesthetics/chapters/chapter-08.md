@@ -1,4 +1,4 @@
-# Chapter 8: The History
+# Chapter 8: The History - Learning from Forgers
 
 Sofia spent a week studying art history, focusing on forgery and authenticity. She learned about Han van Meegeren, who forged Vermeers so convincing that experts declared them masterpieces. She read about the Getty kouros, a statue that might be ancient or might be modern—no one could agree. She discovered that authenticity in art was not a simple binary, but a complex negotiation between object, history, and viewer.
 

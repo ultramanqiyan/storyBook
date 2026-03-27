@@ -1,4 +1,4 @@
-# Chapter 4: The Meaning
+# Chapter 4: The Meaning - Understanding
 
 The third day of the gathering began with a question.
 

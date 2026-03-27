@@ -1,4 +1,4 @@
-# Chapter 7: The Silence
+# Chapter 7: The Silence - Communication Failure
 
 The silence started small.
 

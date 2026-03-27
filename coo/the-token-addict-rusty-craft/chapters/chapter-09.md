@@ -1,4 +1,4 @@
-# Chapter 9: The Team
+# Chapter 9: The Team - New Leadership
 
 The team meeting was scheduled for Monday.
 

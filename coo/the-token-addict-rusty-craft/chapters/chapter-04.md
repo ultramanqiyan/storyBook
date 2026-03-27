@@ -1,4 +1,4 @@
-# Chapter 4: The Gap
+# Chapter 4: The Gap - Skills Fading
 
 The question came during a team meeting.
 

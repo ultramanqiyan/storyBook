@@ -1,4 +1,4 @@
-# Chapter 1: The Twin
+# Chapter 1: The Twin - Two Halves of One
 
 Maria Rossi rolled out the dough while Elena measured the flour. They moved in perfect synchronization—reaching for the same tool, anticipating each other's needs, speaking in half-sentences that only the other understood. Being a twin was like having another self.
 

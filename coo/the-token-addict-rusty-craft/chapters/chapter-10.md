@@ -1,4 +1,4 @@
-# Chapter 10: The Rust
+# Chapter 10: The Rust - Acceptance
 
 The rust was permanent.
 

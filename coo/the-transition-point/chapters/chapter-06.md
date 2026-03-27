@@ -1,4 +1,4 @@
-# Chapter 6: The Decisions
+# Chapter 6: The Decisions - Choice
 
 Each protagonist faced the choice.
 

@@ -1,4 +1,4 @@
-# Chapter 2: The Recognition
+# Chapter 2: The Recognition - Discovery
 
 The data was unmistakable.
 

@@ -1,4 +1,4 @@
-# Chapter 7: The Crisis
+# Chapter 7: The Crisis - Doubting Her Life's Work
 
 Sofia didn't go to her workshop for three days. For the first time in twenty years, she couldn't face the work. What was the point? If AI could do it better, if she couldn't even tell the difference, then what value did her craft have?
 
@@ -27,7 +27,7 @@ There was silence on the line. Then: "That sounds hard. But Momâ€”you've been do
 
 "Your expertise isn't just about the final product," Elena said. "It's about the process. The relationships. The history you've built. The people you've helped."
 
-"But if the final product is the sameâ€?
+"But if the final product is the sameï¿½?
 
 "It's not the same, Mom. You said you couldn't reliably identify your work. That's not the same as there being no difference. Maybe the difference is just hard to see."
 

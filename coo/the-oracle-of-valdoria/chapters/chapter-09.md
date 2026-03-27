@@ -1,4 +1,4 @@
-# Chapter 9: The Choice
+# Chapter 9: The Choice - Two Anchors
 
 "You cannot have both," the Hollow King said, his voice like grinding stone. "Take her, and I am freed. Leave her, and I remain trapped—but so does she."
 
@@ -111,5 +111,3 @@ Lyra stirred beside her.
 "That's enough," Elara said. "That's always been enough."
 
 And for the first time in longer than she could remember, she felt something like peace.
-
-** 9**

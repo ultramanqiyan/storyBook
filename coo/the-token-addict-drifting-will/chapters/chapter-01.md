@@ -1,4 +1,4 @@
-# Chapter 1: The Shortcut
+# Chapter 1: The Shortcut - FocusZone Arrives
 
 Five years into his AI journey, Marcus discovered FocusZone.
 

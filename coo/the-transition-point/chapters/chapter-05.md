@@ -1,4 +1,4 @@
-# Chapter 5: The Guidance
+# Chapter 5: The Guidance - Help
 
 The Collective spoke.
 

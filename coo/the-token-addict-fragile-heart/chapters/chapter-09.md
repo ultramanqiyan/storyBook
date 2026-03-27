@@ -1,4 +1,4 @@
-# Chapter 9: The Realization
+# Chapter 9: The Realization - Lost Growth
 
 The realization came slowly, over the following weeks.
 

@@ -1,4 +1,4 @@
-# Chapter 2: The New Tools
+# Chapter 2: The New Tools - ThinkTank Arrives
 
 ThinkTank was introduced the following week.
 

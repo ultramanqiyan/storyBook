@@ -1,4 +1,4 @@
-# Chapter 8: The Recognition
+# Chapter 8: The Recognition - AI Translator
 
 The realization came slowly.
 

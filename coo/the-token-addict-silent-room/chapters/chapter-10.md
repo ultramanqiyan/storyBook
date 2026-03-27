@@ -1,4 +1,4 @@
-# Chapter 10: The Silent Room
+# Chapter 10: The Silent Room - Acceptance
 
 Marcus accepted the silence.
 

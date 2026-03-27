@@ -1,4 +1,4 @@
-# Chapter 3: The Delegation
+# Chapter 3: The Delegation - Letting Go
 
 The team grew under Marcus's leadership.
 

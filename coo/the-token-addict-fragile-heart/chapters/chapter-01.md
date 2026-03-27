@@ -1,4 +1,4 @@
-# Chapter 1: The Shield
+# Chapter 1: The Shield - EmoteSense Arrives
 
 Ten years into his AI journey, Marcus discovered EmoteSense.
 
