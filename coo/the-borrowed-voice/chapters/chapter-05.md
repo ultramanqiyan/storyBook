@@ -1,176 +1,182 @@
 # Chapter 5: The Better Version
 
-The quarterly review came three weeks later.
+The call with Jennifer Walsh went well.
 
-David sat across from Rachel in her office, watching as she pulled up his metrics on the screen. The numbers glowed in the dim light - response rates, conversion rates, client satisfaction scores. Everything was up. Everything was better.
+David had prepared by writing out his own talking points—clunky, imperfect, but genuine. He stumbled over a few words. He paused too long before answering a question. He made a joke that fell flat.
 
-"This is remarkable," Rachel said, genuine admiration in her voice. "Your performance this quarter has been exceptional. Response rates up forty-seven percent. Deal closures up thirty-three percent. Client satisfaction at an all-time high."
+But by the end of the conversation, Jennifer had agreed to a trial.
 
-She turned to look at him. "David, this is the best quarter you've had in eight years. Whatever you're doing, it's working."
+"I appreciate your straightforward approach," she said. "A lot of salespeople try too hard to impress. You just... talked to me. That's refreshing."
 
-David nodded, accepting the praise. But inside, something felt wrong.
+David felt something warm in his chest. The first genuine satisfaction he'd felt in weeks.
 
-He knew what he was doing. He was letting SalesPilot write his emails. He was letting the AI manage his client relationships. He was letting an algorithm be the better version of him.
+"Thank you," he said. "I'll send over the details by end of week."
 
-And it was working. The numbers proved it.
+"Perfect. Looking forward to it."
 
-But the numbers didn't capture what he'd lost.
+The call ended, and David sat back in his chair.
 
----
+He'd done it. He'd closed a deal—small, but real—using his own voice. His own words. His own imperfect, unpolished, genuine self.
 
-After the review, he went back to his office and stared at his screen.
+He reached for his cracked mug and took a sip of coffee.
 
-The SalesPilot interface was open, as it always was these days. The dashboard showed his activity - emails generated, responses received, meetings scheduled. The metrics were impressive.
-
-But when was the last time he'd written something himself?
-
-He tried to remember. The email to Patterson, weeks ago - the one the client had noticed was "different." Before that? He couldn't recall.
-
-He opened his sent folder and scrolled through the recent communications. Email after email, all of them polished, professional, effective. All of them signed with his name.
-
-None of them written by him.
-
-He thought about Sarah Chen, who had praised his "personal touch" without realizing she was responding to an AI-generated email. He thought about Tom Patterson, who had noticed something different when he'd actually written something himself.
-
-The clients preferred the AI version. The metrics proved it. The AI was better at being David than David was.
-
-What did that mean about him? What did that mean about his voice, his identity, his sense of self?
+It tasted like victory.
 
 ---
 
-That afternoon, he had a call with a new prospect.
+But the victory was short-lived.
 
-The conversation went well - the prospect was interested, the questions were thoughtful, the potential was real. David found himself enjoying the interaction, feeling the genuine connection that used to define his work.
+The next morning, Rachel called him into her office.
 
-At the end of the call, the prospect asked for a follow-up email summarizing their discussion.
+"David, I wanted to talk to you about your metrics." She pulled up a dashboard on her screen. "Your numbers have dipped slightly over the past week."
 
-"I'll send that over this afternoon," David said. "Thanks for your time."
+David felt his stomach tighten. "I know. I've been... experimenting."
 
-He hung up and opened SalesPilot automatically, ready to generate the follow-up. He typed in the parameters: *Follow up with new prospect, summarize discussion, emphasize value proposition, maintain professional warmth, suggest next steps.*
+"Experimenting?"
 
-His finger hovered over the generate button.
+He took a breath. "I've been writing some emails myself. Without SalesPilot."
 
-Then he stopped.
+Rachel's expression was unreadable. "Why?"
 
-What if he wrote this one himself?
+The question hung in the air. Why indeed? The AI was faster, more polished, more effective. Why would anyone choose to write in their own imperfect voice when a better version was available?
 
-The thought appeared unbidden, but it felt right. This was a new prospect, someone who didn't know his style, someone who wouldn't notice if his email was less polished than usual.
+"I wanted to see if I could," David said finally. "If my voice still worked."
 
-He closed SalesPilot and opened a blank compose window.
+Rachel studied him for a long moment. "David, I understand the impulse. But you need to think about what's at stake here. Your numbers are good—great, actually—because of the efficiency gains from SalesPilot. If you start writing emails yourself, you'll spend more time, get worse results, and fall behind the team."
 
-His fingers touched the keyboard. He started to type.
+"I know. But—"
 
-*Hi Mark,*
+"But what?" Her voice was gentle but firm. "What's the goal here? To feel authentic? To prove something to yourself?"
 
-*Thanks for taking the time to talk today. I enjoyed our conversation - you raised some great questions about the implementation timeline, and I want to make sure I address them properly.*
+David didn't have an answer.
 
-He paused. The words were coming, but slowly. His authentic voice felt rusty, like a muscle he hadn't used in too long.
+"Look," Rachel continued, "I get it. Using AI feels strange at first. Like you're cheating somehow. But the results speak for themselves. Clients respond better. Deals close faster. Your career advances. Isn't that what matters?"
 
-*The thing that struck me about our discussion was your concern about integration with your existing systems. That's a valid worry - I've seen a lot of companies struggle with that exact issue. But here's what I've learned from working with clients in similar situations...*
+David thought about Jennifer Walsh, who had appreciated his straightforward approach. He thought about Sarah Chen, who had praised his improved communication without knowing it wasn't his.
 
-He continued writing, forcing himself to think through each sentence, to find the words that expressed what he actually meant. It was harder than he remembered. The words didn't flow as smoothly as they used to.
+"I don't know anymore," he admitted.
 
-After thirty minutes, he had a draft. It was rough, uneven, less polished than the SalesPilot versions. But it was his.
+Rachel's expression softened. "Take some time to think about it. But remember—the company invested in this tool for a reason. They expect us to use it. And right now, your metrics are the justification for that investment."
 
-He read it over. It wasn't perfect. It wasn't even particularly good. But it was genuine.
+She turned back to her screen, the conversation clearly over.
+
+David walked back to his office, his mind racing.
+
+---
+
+That afternoon, he sat at his desk, staring at the SalesPilot interface.
+
+The dashboard showed his metrics—response rates, close rates, efficiency gains. The numbers were impressive. Rachel was right. The AI was better.
+
+But was better the same as good?
+
+He opened his sent folder and scrolled through the emails from the past week. Some were AI-generated. Some were his own. The difference was subtle but unmistakable.
+
+The AI emails were polished, professional, perfect. Every sentence optimized for maximum impact. Every word chosen for maximum efficiency.
+
+His own emails were... human. Imperfect. Genuine.
+
+Which was better?
+
+The metrics said AI. The clients said AI. His career said AI.
+
+But something in him—something small and stubborn and hard to name—said otherwise.
+
+---
+
+He tried an experiment.
+
+He took a recent email exchange with a client—one that had been entirely AI-generated—and rewrote it in his own voice.
+
+*Original (AI):*
+*Thank you for your thoughtful questions regarding our proposal. I appreciate the opportunity to address your concerns directly. The implementation timeline you've requested is achievable within the parameters we've discussed, and I'm confident we can meet your expectations.*
+
+*Rewritten (David):*
+*Thanks for the questions—good ones, by the way. You're right to push on the timeline. Here's the honest answer: we can do what you're asking, but it'll be tight. I want to make sure we're not overpromising. Can we talk through the specifics?*
+
+He read both versions over.
+
+The AI version was better. More professional. More polished. More likely to inspire confidence.
+
+But his version was... him. The slight informality. The acknowledgment of difficulty. The invitation to conversation.
+
+Which would a client prefer?
+
+He wasn't sure. And that uncertainty felt like a small victory.
+
+---
+
+That night, he had another dream.
+
+He was standing in front of a mirror, looking at his reflection. But the reflection wasn't quite right. It was him—his face, his features, his expression—but somehow better. More polished. More professional.
+
+The reflection smiled. "I'm you," it said. "But improved."
+
+David tried to speak, but no sound came out.
+
+"Your clients prefer me," the reflection continued. "Your metrics improve with me. Your career advances because of me. Why would you want to go back to the original version?"
+
+David opened his mouth to answer, but the reflection spoke first.
+
+"You're not even sure what you'd say, are you? Because you know I'm right. I'm the better version of you. And deep down, you know it."
+
+David woke up, his heart pounding.
+
+The cracked mug was sitting on his nightstand, empty in the dark.
+
+---
+
+The next morning, he made a decision.
+
+He would write one email—just one—in his own voice. And he would send it, regardless of the consequences.
+
+He opened his inbox and found a message from a prospect he'd been trying to reach for weeks.
+
+*Mr. Kim,*
+
+*I've been reviewing your communications. I'm impressed by your approach. I'd like to schedule a call to discuss how your services might fit our needs.*
+
+*Best regards,*
+*Thomas Chen*
+*Director of Operations, Meridian Systems*
+
+David stared at the email. A new prospect. A significant opportunity. The kind of email that would normally trigger an immediate AI-generated response.
+
+He opened a blank email and started typing.
+
+*Thomas,*
+
+*Thanks for reaching out. I'd love to talk. Here's the thing, though—I've been using an AI tool to write my emails lately, and I'm trying to decide if that's a good thing or not. So I'm writing this one myself, which means it might not be as polished as what you're used to seeing from me.*
+
+*But it's real. And maybe that counts for something.*
+
+*Let me know when you'd like to talk.*
+
+*Best,*
+*David*
+
+He read it over. It was awkward. Unprofessional. Possibly career-ending.
 
 He hit send.
 
+---
 
 The response came the next morning.
 
 *David,*
 
-*Thanks for the follow-up. I have to be honest - this email felt different from the initial communications I received from you. More... personal? Not sure how to describe it. But I appreciated the honesty about the integration challenges. Most sales people just gloss over that stuff.*
+*I appreciate the honesty. More than you know.*
 
-*Let's schedule that demo we talked about. I'm free Thursday afternoon.*
+*I've been on the other side of this—receiving perfectly polished emails from salespeople who I suspect aren't really writing them. It's efficient, sure. But it feels... hollow. Like I'm not really connecting with a person.*
 
-*Best,*
-*Mark*
+*Let's talk. Tuesday at 2?*
 
-David stared at the email. The prospect had noticed the difference - and liked it.
+*Thomas*
 
-He thought about Sarah Chen, who had praised his AI-generated email without realizing it wasn't his. He thought about Tom Patterson, who had questioned his authentic email. And now Mark, who had appreciated the genuine approach.
+David stared at the email, something warm spreading through his chest.
 
-The responses were inconsistent. Some clients preferred the polished AI version. Some clients valued the authentic, imperfect human version.
+A response. A positive response. To an email that was awkward, unprofessional, and completely genuine.
 
-What did that mean?
+He reached for his cracked mug and took a sip of coffee.
 
-
-He started experimenting more deliberately.
-
-For the next two weeks, he alternated between SalesPilot-generated emails and authentic ones. He tracked the responses, looking for patterns.
-
-The results were illuminating.
-
-New prospects - people who had never received his communications before - often responded better to his authentic emails. They appreciated the honesty, the personal touch, the sense that they were talking to a real person.
-
-Long-standing clients - people who had been receiving his SalesPilot-generated emails for months - seemed to prefer the polished versions. They had grown accustomed to the professional sheen, and the authentic emails felt jarring by comparison.
-
-And then there were the clients like Sarah Chen, who couldn't tell the difference. They praised his "personal touch" regardless of whether the email was generated by AI or written by him.
-
-The pattern suggested something troubling: the AI had trained some clients to prefer the artificial version. The polished, professional communications had become the norm, and the authentic ones felt like a deviation.
-
-He was trapped by his own success.
-
-
-He brought the findings to Rachel.
-
-They were in her office, the afternoon light streaming through the window. David had prepared a summary of his experiment - the metrics, the responses, the patterns.
-
-Rachel listened carefully, her expression thoughtful.
-
-"So what you're saying," she said slowly, "is that some clients prefer the AI-generated emails, and some prefer your authentic ones?"
-
-"Basically," David said. "But it's more complicated than that. The clients who've been receiving AI-generated emails for months seem to prefer them. The clients who are new to me often respond better to the authentic ones."
-
-Rachel nodded. "That makes sense. People get used to a certain style. If you change it, they notice."
-
-"But that's the problem," David said. "The AI version isn't really my style. It's a polished imitation. And now some clients prefer the imitation to the real thing."
-
-Rachel leaned back in her chair. "David, I hear what you're saying. But let me ask you something. Does it matter?"
-
-The question caught him off guard. "What do you mean?"
-
-"I mean, if the clients are happy, if the numbers are good, if the work is getting done - does it matter whether the emails are generated by you or by the AI?"
-
-David stared at her. "Of course it matters. It's my voice. My identity. If I'm not writing my own communications, then what am I doing?"
-
-Rachel's expression softened. "I understand the philosophical concern. But from a business perspective, the results speak for themselves. Your clients are happy. Your numbers are up. You're more efficient than ever. What's the problem?"
-
-David struggled to articulate it. "The problem is that I'm not really doing the work anymore. The AI is doing it for me. I'm just... signing my name."
-
-Rachel shrugged. "That's what delegation is. You're delegating the writing to a tool that does it better than you can. That's not a problem - that's progress."
-
-David felt something cold settle in his stomach. "But it's my voice. If I'm not writing in my own voice, then who am I?"
-
-Rachel looked at him for a long moment. "David, I think you're overthinking this. The AI writes in your voice. It learned from you. It's not replacing you - it's amplifying you. That's what technology does."
-
-She stood up, signaling the end of the conversation. "Your numbers are great. Your clients are happy. You're doing a good job. Maybe that's enough."
-
-
-David walked back to his office, his mind churning.
-
-Maybe that's enough.
-
-Was it? Was it enough to have good numbers and happy clients, even if the work wasn't really his? Was it enough to be successful, even if the success belonged to an algorithm?
-
-He sat at his desk and looked at the cracked mug. The coffee was the same as always, but it didn't taste right.
-
-He opened his sent folder and scrolled through the emails. Polished, professional, effective. All of them signed with his name.
-
-None of them written by him.
-
-He thought about Rachel's question: *Does it matter?*
-
-From a business perspective, maybe not. The numbers were good. The clients were happy. The work was getting done.
-
-But from somewhere deeper - somewhere that had nothing to do with metrics and everything to do with identity - it mattered. It mattered that he couldn't write in his own voice anymore. It mattered that clients preferred the AI version. It mattered that he had become the imposter of himself.
-
-He closed the laptop and stared out the window at the Chicago skyline.
-
-The city was moving out there, people making calls, writing emails, building relationships.
-
-He was building relationships too. The metrics proved it.
-
-But he wasn't sure anymore if he was really there for them.
+It tasted like hope.

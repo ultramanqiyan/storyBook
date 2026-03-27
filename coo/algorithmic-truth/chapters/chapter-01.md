@@ -53,5 +53,3 @@ She pulled out her notes from the meeting, played back her recording. There it w
 Sarah felt a chill. The AI was wrong. But the consortium trusted the AI. And if the AI said her story was inaccurate, what would happen to her reputation, to her career, to the truth itself?
 
 She didn't know yet. But she was going to find out.
-
-The story ran on the front page of the Iowa Valley Gazette. Sarah drove home feeling satisfied. This was her work—telling the truth about her community, one small story at a time. She had no idea that her next story would challenge everything she believed about truth itself.

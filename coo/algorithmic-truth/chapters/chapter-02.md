@@ -65,5 +65,3 @@ Sarah stared at the screen. The AI had rejected her evidence—her recording, he
 But she wasn't wrong. She knew she wasn't wrong. She'd been there.
 
 The question was: what could she do about it?
-
-Sarah read the AI's analysis again. It claimed that Councilman Peters hadn't said what she'd quoted him saying. But she'd been there. She'd heard him. She had notes. The AI was wrong. Or was she? For the first time in her career, Sarah doubted her own reporting.

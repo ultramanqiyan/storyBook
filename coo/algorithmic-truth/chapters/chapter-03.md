@@ -80,4 +80,4 @@ It wasn't much, but it was something. Someone else had been there. Someone else 
 
 She left the clerk's office with a new determination. She would find other witnesses. She would gather evidence. She would prove that the AI was wrong.
 
-Sarah decided to investigate. She would find other witnesses, other recordings, other evidence. The AI might have data, but she had been there. She had experienced the truth. And she would prove it.
+The fight wasn't over. It was just beginning.

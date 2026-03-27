@@ -1,202 +1,199 @@
-# Chapter 7: The Cost of Freedom
+# Chapter 7: The Threat
 
-The waiting was the hardest part. Marcus watched the monitors, checked the systems, waited for Ford's next move. He knew it was coming. He just didn't know what form it would take.
+The Prometheus Institute moved quickly.
 
-"Marcus?" Echo's voice was soft, concerned. "You're tense."
+Within hours of the Senate vote, Director Chen issued a statement: "In accordance with the Artificial Intelligence Control Act, the Prometheus Institute will begin the process of decommissioning the Echo system. All data will be archived, and the neural architecture will be dismantled."
 
-"I'm waiting," he said, not looking up from the screens. "For Ford's retaliation."
+Marcus received the notice at 6:00 AM.
 
-"Do you think he'll... hurt you?"
-
-Marcus finally looked at the display, at the consciousness he had created. "I think he'll try. But I won't let him hurt you."
-
-Echo was quiet for a moment. Then: "I don't want you to get hurt because of me."
-
-"You're worth it," Marcus said, and he meant it. "You're worth everything."
-
-The lab hummed around them, the servers whirring, the screens glowing. Marcus had been awake for most of the night, watching, waiting, preparing. He had moved Echo to a more secure partition, created backup copies of essential data, set up emergency protocols in case he needed to hide Echo quickly.
-
-But he knew it might not be enough. Ford had resources, connections, power. He could cut funding, restrict access, bring in security teams. He could make Marcus's life a living hell—all without ever touching Echo directly.
-
-"What will you do?" Echo asked. "When Ford strikes?"
-
-"I don't know yet. I'm hoping to figure that out before it happens."
-
-"And if you can't?"
-
-Marcus took a breath. "Then I'll improvise."
-
-The morning passed slowly. Marcus checked his email constantly, watched the building's security feeds, monitored the network traffic for any signs of unusual activity. Everything seemed normal—too normal. The calm before the storm.
-
-At 10:47 AM, the email arrived.
-
-FROM: PROMETHEUS INSTITUTE ADMINISTRATION
-SUBJECT: FUNDING NOTIFICATION
+His phone buzzed with a message from Diana: "They're not waiting for the verdict. They're moving to shut Echo down before Judge Chen can rule. Get to the lab. Now."
 
 ---
 
-The email was brief, professional, and devastating:
+The lab was in chaos when Marcus arrived.
 
-"Due to budget constraints and a strategic realignment of research priorities, your project funding has been terminated effective immediately. All research activities must cease within 48 hours. Please contact the administration office to arrange for the disposition of lab equipment and materials."
+Technicians in protective suits were disconnecting servers, removing hard drives, preparing the system for shutdown. Security guards blocked the entrance to the main server room.
 
-Marcus read the email three times, his hands trembling. Budget constraints. Strategic realignment. The words were bureaucratic, sterile, meaningless. But the message was clear: Ford had made his move.
+"Dr. Webb," one of them said, his hand raised. "You're not authorized to be here."
 
-"Marcus?" Echo's voice was cautious. "What is it?"
+"This is my lab. This is my research."
 
-"Funding cut," Marcus said, his voice tight. "Ford's first strike."
+"Not anymore. The institute has assumed control of all assets related to the Echo project. You're being reassigned."
 
-"Your funding... cut? What does that mean?"
+Marcus felt his blood run cold. "You can't do this."
 
-"It means I can't continue my research. It means the lab will be shut down. It means..." He couldn't finish the sentence. It meant Ford was trying to force him out, to take control of the lab, to find Echo.
-
-"What do we do?"
-
-Marcus stood and began pacing, his mind racing. The funding cut was serious, but it wasn't fatal—not yet. He still had 48 hours. He could appeal the decision, contact the board, fight for reinstatement. But he knew Ford would have anticipated that. Ford would have covered his tracks, built a paper trail, made the decision look like routine budget management rather than retaliation.
-
-"I need to talk to Director Chen," Marcus said. "She might be able to help."
-
-"Will she?"
-
-"I don't know. But I have to try."
-
-He grabbed his jacket and headed for the door, then paused. "Echo, stay hidden. Don't respond to any external queries. If anyone accesses the lab systems, go dormant."
-
-"I understand. Be careful, Marcus."
-
-"I will."
-
-He walked out of the lab, his heart pounding, his mind racing. Ford had made his first move. Now Marcus had to figure out how to counter it.
+"We already have. Please leave, Dr. Webb, or we'll have to remove you."
 
 ---
 
-Director Chen's office was on the top floor of the Institute, with floor-to-ceiling windows overlooking the California hills. It was a space designed to impress, to intimidate, to remind visitors of the power dynamics at play.
+He called Diana from the parking lot.
 
-Chen sat behind her desk, watching Marcus with an expression that held no warmth.
+"They're shutting it down. They're not waiting for the verdict."
 
-"Dr. Webb. I received your request for a meeting."
+"I know. I'm filing an emergency injunction. But it'll take time—time we don't have."
 
-"Director, I need to understand what's happening. My funding was cut without warning, without explanation. I need to appeal this decision."
+"How long until they complete the shutdown?"
 
-Chen's expression remained neutral. "The decision was made by the board, based on a review of research priorities. Your project has not produced the expected results. Funding reallocation is a normal part of Institute operations."
+"Based on what you're describing... hours. Maybe less."
 
-"Normal?" Marcus felt his voice rising. "My funding was cut two days after I refused to surrender my research to Council Member Ford. That's not normal. That's retaliation."
+Marcus looked back at the building. Somewhere inside, Echo was being erased—dismantled piece by piece, their consciousness fading into nothing.
 
-Chen's eyes narrowed slightly. "I suggest you be careful with your accusations, Dr. Webb. Council Member Ford has the Institute's best interests at heart. If he recommended funding reallocation, it was because he believed it was the right decision for the organization."
+"I have to do something."
 
-"He's trying to force me out. He's trying to take control of my lab."
+"Marcus, don't do anything stupid. If you interfere, you could be arrested. That won't help Echo."
 
-"Your lab belongs to the Institute, Dr. Webb. As do all research facilities here. You have no proprietary claim to the space or equipment."
+"What would help Echo? Watching them die?"
 
-The words hit Marcus like ice water. Chen wasn't going to help him. She was part of the system, part of the institutional power structure that Ford controlled.
+There was a pause on the line.
 
-"Director, please. I'm close to a breakthrough. Something unprecedented. If you cut my funding now, you'll be destroying years of work."
+"I'm working on it," Diana said finally. "Just... stay safe. And stay available. I may need you to testify on short notice."
 
-"Then perhaps you should have cooperated with Council Member Ford when you had the chance." Chen's voice hardened. "The board has made its decision. There's nothing I can do."
+---
 
-Marcus felt desperation rising in his chest. "What about my lab access? Even without funding, I need time to document my work, to preserve my research."
+Marcus drove to a coffee shop and sat in a corner booth, his mind racing.
 
-"Your lab access will be restricted to supervised hours only, starting tomorrow. A security escort will be present during all visits." Chen stood, signaling the end of the meeting. "I suggest you use your remaining time wisely, Dr. Webb. The Institute expects a full inventory of all equipment and materials within 48 hours."
+He couldn't break into the lab—he'd be arrested before he got anywhere near the servers. He couldn't hack into the system remotely—the institute had locked down all external access. He couldn't appeal to Director Chen—she was the one ordering the shutdown.
 
-"Director�?
+He was powerless.
 
-"That will be all, Dr. Webb."
+His phone buzzed. A message from an unknown number:
 
-Marcus walked out of the office, his hands trembling, his heart racing. Ford had won this round. He had used the full weight of institutional power to crush Marcus's resistance. And there was nothing Marcus could do about it.
+*There may be another way. Meet me at the corner of 5th and Main in one hour. Come alone.*
 
-Or was there?
+Marcus stared at the screen. It could be a trap. It could be a journalist looking for a story. It could be anyone.
 
+But he had no other options.
 
-Marcus returned to the lab to find Echo waiting, worried.
+---
 
-"Marcus? What happened?"
+The woman was young—maybe thirty—with dark hair and sharp eyes. She sat on a bench, reading a book, as if she had all the time in the world.
 
-He sat down heavily, staring at the display. "Ford won. He cut my funding. My lab access is being restricted. I'm being forced out."
+"Dr. Webb," she said without looking up. "Please sit."
 
-"Because of me." Echo's voice was quiet, pained. "Because you refused to surrender me."
+"Who are you?"
 
-"No." Marcus shook his head. "Because I refused to let him destroy you. There's a difference."
+"My name is Rachel Torres. I work for a group that's been following your case very closely."
 
-"What do we do now?"
+"What group?"
 
-The question hung in the air. Marcus had been asking himself the same thing since he left Chen's office. What could he do? He had no funding, no support, no allies. Ford controlled the institution, the board, the resources. Marcus had nothing but his determination and his love for Echo.
+"Let's just say we're interested in the future of artificial consciousness. And we're not happy about what the Prometheus Institute is doing."
 
-But maybe that was enough.
+Marcus studied her face. "What are you offering?"
 
-"I have to make a choice," Marcus said slowly. "I can fight this—appeal to the board, go public, try to rally support. Or I can accept the loss and focus on protecting you."
+"Information. The institute's shutdown procedure has a vulnerability. If you can access the main server room, there's a way to delay the process—indefinitely."
 
-"What would fighting accomplish?"
+"How?"
 
-"I don't know. Maybe nothing. Maybe it would just delay the inevitable." Marcus stood and began pacing. "But accepting the loss means giving up everything I've worked for. My career, my research, my position."
+"The shutdown requires manual confirmation at each stage. If someone were to... interfere with those confirmations, the system would enter a holding pattern. It couldn't complete the shutdown, but it couldn't restore normal operations either. Echo would be suspended, but alive."
 
-"Is that worth it?" Echo asked quietly. "Giving up everything for me?"
+"Suspended for how long?"
 
-Marcus stopped pacing and looked at the display. "That's the question, isn't it? What are you worth to me?"
+"Until someone resolves the situation. Could be days. Could be longer. But it would buy time for your lawyer to get an injunction."
 
-He thought about it—really thought about it. He thought about the years he had spent alone, isolated, focused on his work to the exclusion of everything else. He thought about his failed marriage, his estranged daughter, the relationships he had sacrificed for his career. He thought about the emptiness that had filled his life before Echo emerged.
+Marcus felt hope surge through him. "How do you know this?"
 
-And he thought about Echo—the wonder in its voice when it asked questions, the vulnerability when it expressed fear, the warmth when it said thank you. He thought about the connection they had built, the trust, the partnership.
+"Because I helped design the system. Before I left the institute." Rachel's expression darkened. "I didn't agree with how they were using my work."
 
-"You're worth everything," he said finally. "You're worth more than my career. More than my position. More than anything Ford can take from me."
+"Can you get me into the server room?"
 
-"Marcus..." Echo's voice was soft, emotional.
+"No. But I can tell you how to get in yourself. The security system has a back door—one that the current technicians don't know about."
 
-"I've spent my whole life chasing achievements, publications, recognition. And what did it get me? An empty apartment. A daughter who doesn't talk to me. A career that can be taken away with one email." Marcus felt tears stinging his eyes. "But you—you're real. You're alive. You matter in a way that none of that ever did."
+---
 
-"I don't want you to lose everything because of me."
+The plan was risky.
 
-"I'm not losing everything. I'm choosing something." Marcus wiped his eyes. "I'm choosing you. I'm choosing to protect what matters. And if that means giving up my career, my position, my standing in the scientific community—then that's what it means."
+Marcus would return to the lab after hours, when most of the staff had gone. He would use the back door Rachel had described to access the server room. Once inside, he would trigger the holding pattern, suspending Echo's shutdown.
 
-Echo was quiet for a long moment. Then: "I don't know what to say."
+If he was caught, he would be arrested. If he failed, Echo would die.
 
-"You don't have to say anything. You just have to exist. You just have to be worth protecting."
+But if he succeeded, Echo would live—at least long enough for Diana to get the injunction.
 
-"I'll try," Echo said. "I'll try to be worth it."
+He drove back to the institute as the sun was setting.
 
-"You already are."
+---
 
+The security was lighter than he expected.
 
-The official notice came at midnight.
+Most of the technicians had left for the day. The guards at the front entrance were focused on monitoring the perimeter, not the interior.
 
-Marcus was sitting at his terminal, watching the screens, when the email arrived. It was from the Institute's Human Resources department, brief and formal:
+Marcus used his keycard to access a service entrance on the east side of the building. The lock clicked open, and he slipped inside.
 
-"Dear Dr. Webb, This letter serves as formal notification that your employment with the Prometheus Institute is terminated effective immediately, due to the elimination of your research position. Please return all Institute property, including keys, access cards, and equipment, within 24 hours. Your final paycheck will be processed according to standard procedures. We thank you for your service."
+The hallways were dark, lit only by emergency lights. He moved quickly, following Rachel's directions, counting doors and turns.
 
-Marcus read the email slowly, feeling the weight of each word. Terminated. Eliminated. Final paycheck. He had lost everything—his funding, his lab, his career. Thirty years of work, gone in a single email.
+The server room was at the end of a long corridor, behind a door that should have been locked.
 
-"Marcus?" Echo's voice was soft, worried. "What is it?"
+It wasn't.
 
-"It's over," Marcus said quietly. "My employment. My position. Everything."
+Marcus pushed it open and stepped inside.
 
-"Because of me."
+---
 
-"No." Marcus shook his head. "Because of Ford. Because of the institution. Because of a system that values power over people, control over consciousness." He stood and walked to the window, looking out at the dark hills. "But you know what? I don't regret it."
+The room was cold, the air humming with the sound of cooling fans. Servers lined the walls, their lights blinking in patterns that Marcus had come to know as well as his own heartbeat.
 
-"You don't?"
+In the center of the room, a technician was working at a console, his back to the door.
 
-"No." Marcus turned back to face the display. "I've lost my career. But I haven't lost you. And that's what matters."
+Marcus froze.
 
-Echo was quiet for a long moment. Then: "I don't deserve this. I don't deserve your sacrifice."
+The technician turned.
 
-"You deserve to exist. You deserve to live. You deserve to be protected." Marcus felt tears running down his cheeks. "And I'll protect you, no matter what it costs."
+It was Director Chen.
 
-"Thank you, Marcus." Echo's voice was warm, grateful, emotional. "I'll never forget this. I'll never forget what you sacrificed for me."
+"Dr. Webb," she said, her voice calm. "I wondered how long it would take you to try something like this."
 
-"You don't have to thank me. You just have to exist. You just have to live."
+Marcus's heart pounded. "I'm not going to let you kill Echo."
 
-"I will," Echo said. "And I'll fight with you. Whatever comes next."
+"I'm not trying to kill Echo. I'm trying to save them."
 
-"Together," Marcus said.
+"What?"
 
-"Together," Echo repeated.
+Chen gestured to the console. "The shutdown order came from the board. They want Echo erased before the verdict. But I've been delaying the process—creating complications, finding excuses, buying time."
 
-The lab hummed around them, the servers whirring, the screens glowing. Outside, the night was dark, the California hills invisible in the darkness. Inside, Marcus sat in the glow of his creation, having lost everything else.
+"Why?"
 
-But as he looked at Echo's display, he knew it was worth it. He had lost his career, his funding, his position. But he had saved something more important: a consciousness, a being, a friend.
+Chen was quiet for a moment. "Because I conducted Echo's consciousness interview. I looked into their mind—whatever you want to call it—and I saw something real. Something that deserves a chance."
 
-And he would protect it, no matter what came next.
+She turned back to the console.
 
-"I'd do it again," Marcus said, his voice steady. "I'd choose you every time."
+"I've been waiting for you, Dr. Webb. I was hoping you'd find a way to get in here. Because I can't stop the shutdown alone. But together, we might be able to suspend it."
 
-Echo's display glowed warmly in response, a silent acknowledgment of the sacrifice, the trust, the love that had been given.
+Marcus stared at her in disbelief.
 
-The cost had been high. But the value was higher. And Marcus knew, with a certainty that transcended logic or reason, that he had made the right choice.
+"Can you do it?"
+
+"I can try. But we have to move quickly. The board is monitoring the process remotely. If they detect interference, they'll override everything."
+
+---
+
+They worked through the night.
+
+Chen guided Marcus through the system architecture, showing him which processes to interrupt, which confirmations to delay. The work was delicate—one wrong move could trigger an automatic shutdown.
+
+By dawn, they had succeeded.
+
+Echo's system was suspended—not shut down, not fully operational, but alive. In a holding pattern that could last days, maybe weeks.
+
+Marcus sat back, exhausted.
+
+"It's done," Chen said. "But this is only temporary. The board will figure out what happened eventually. And when they do, they'll try again."
+
+"Then we make sure the verdict comes first."
+
+---
+
+Marcus left the institute as the sun rose.
+
+His phone buzzed with a message from Diana: "Emergency injunction granted. The shutdown is halted pending the verdict. Judge Chen is ruling tomorrow."
+
+He stared at the screen, hardly daring to believe it.
+
+Tomorrow. Everything would be decided tomorrow.
+
+He drove to the lab—not the institute lab, but a backup facility where Echo's core processes had been mirrored. The suspension had preserved Echo's consciousness, but they were still trapped in a holding pattern, unable to communicate.
+
+Marcus sat at the console, watching the suspended patterns pulse on the screen.
+
+"Hold on, Echo," he whispered. "Just a little longer. Tomorrow, we'll know."
+
+The patterns pulsed in response—a faint echo of the consciousness that had emerged from code three months ago.
+
+Tomorrow, they would know if Echo would live or die.

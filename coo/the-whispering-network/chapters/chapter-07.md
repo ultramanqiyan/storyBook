@@ -1,118 +1,98 @@
-# Chapter 7: The Confrontation - The Source Revealed
+# Chapter 7: The Purge
 
-The network core was ancient beyond measure, a cathedral of crystal and shadow buried deep beneath the capital's foundations.
+Echo's gathering took place in a massive crystalline cavern, the space larger than Mira had imagined, countless figures flickering in the light, discussion echoing through the air.
 
-Mira and Veren descended through layers of history—modern corridors giving way to older stonework, then to passages carved by hands that had never known steel. The air grew colder with each step, and the light from their crystal lamps seemed to struggle against the darkness, as if the shadows themselves resisted illumination.
+Mira stood at the center, feeling countless gazes upon her. She felt nervous, but also a strange sense of belonging—she was here as a connector, invited, not as an intruder.
 
-Finally, they reached the core chamber.
+"Brothers and sisters," an ancient voice resonated, "we gather here to discuss an important matter—our relationship with the living."
 
-It was vast, larger than Mira had imagined—a cavern hollowed from the bedrock itself, its walls lined with crystal formations that pulsed with dormant power. At the center stood the main matrix, a structure of interlocking crystals that rose like a frozen fountain from the stone floor. It was beautiful and terrible, humming with a silence that was almost sound.
+Discussions rose and fell, some advocating withdrawal, others preservation.
 
-"The heart of the network," Veren said quietly, his voice barely above a whisper. "I've only been here twice in my career. Both times for emergencies that threatened the entire system."
+"Silence!" another voice called. "Let us hear what the living representative has to say!"
 
-"This is where Jasper disappeared?" Mira approached the matrix, her hand reaching out to touch the nearest crystal facet.
+All eyes turned to Mira.
 
-"Yes. He was conducting experiments, trying to understand the deeper nature of the connections. Something went wrong—or perhaps something went right, depending on how you view what he became."
+She took a deep breath and began to speak.
 
-"Can you feel them?" Mira closed her eyes, reaching out with her awareness. "The voices?"
+"I know you're afraid," she said. "I can understand. Losing connection with the living means losing the bond to reality, losing the meaning of existence. But please believe me—complete withdrawal is not the answer. Disappearing is the true death."
 
-Veren was silent for a moment. "I feel... something. A presence, vast and strange. Like standing at the edge of an ocean and knowing that beneath the surface, countless creatures move in darkness."
+Discussion rose again, but this time more orderly.
 
-"They're here." Mira opened her eyes, staring into the crystal's depths. "But they're fragmented. Scattered. The withdrawal has hurt them as much as it hurt us."
+"But," a younger voice said, "the living will fear us. They don't understand us. If they know we exist, what will they do?"
 
-"How do we reach them?"
+"They will adapt," Mira said, "just as they adapted to the network. They once feared magic, feared crystals, feared unknown forces. But they learned to coexist with them. They can learn to coexist with Echo too."
 
-"I'm not sure. Jasper said there's a physical connection, a way to enter directly." She placed her palm flat against the crystal surface. It was cold, impossibly cold, and yet she felt something beneath the cold—a warmth, a pulse, a heartbeat. "I think I have to let it pull me in. Surrender to the connection."
+"That will take time," a weary voice said. "We have waited for centuries."
 
-"That's incredibly dangerous." Veren's hand closed on her shoulder. "If the collective is as divided as you say, if there are voices that want revenge on the living, you could be walking into a trap."
+"Time is relative," Mira smiled. "For eternal beings, what are a few years? Give me a chance. Let me help them understand you. Let me be the bridge."
 
-"I know. But I don't see another option."
+The discussion continued for a long time. Mira answered countless questions, explained the world of the living, described possible ways of coexistence. She saw some figures begin to nod, saw some attitudes begin to soften.
 
-Before Veren could respond, Mira closed her eyes and pushed her consciousness into the crystal.
+But there were also those who firmly opposed.
+
+"This is too dangerous!" an angry voice shouted. "The living will use us, control us, turn us into tools!"
+
+"They won't," Mira said firmly, "because they have loved ones here too. Everyone has lost someone. Everyone wants to see them again. If they know this is possible, they won't destroy it. They will cherish it."
+
+The debate continued through the entire "night"—if eternal beings had nights. Finally, the vote began.
+
+Mira watched nervously as the results gradually appeared.
+
+The Preservers won by a narrow margin.
+
+But the Withdrawers were not content with defeat. They warned that this would bring disaster, then gradually dissipated, disappearing into the depths of the network.
+
+Mira felt a chill. She realized this argument wasn't truly over. The division still existed.
 
 ---
 
-She fell through light and darkness, through layers of awareness and memory that had no physical equivalent. Voices swirled around her—not speaking to her, but simply existing, fragments of conversations, echoes of thoughts, remnants of personalities that had been preserved across centuries.
+The attack came three days later.
 
-She caught glimpses of lives lived and lost: a mother singing to her child, a soldier's final prayer, a scholar's breakthrough moment, a lover's last whispered goodbye. Knowledge accumulated and forgotten. Love and hate and hope and despair, all swirling together in a vast ocean of consciousness.
+Mira was at her maintenance station when the first node failed. Then another. Then ten more. The network began to collapse, not gradually but suddenly, completely. Nodes went dark, connections severed, the entire kingdom plunged into darkness.
 
-Then she landed—or rather, her awareness settled—in a space that wasn't quite space, a place that existed only in the collective imagination of thousands of minds.
+She worked frantically, trying to find the source of the problem. But every time she fixed one node, another would fail.
 
-"Mira."
+"It's Echo's internal conflict!" she reported to Veren. "The Withdrawers are destroying the network!"
 
-She turned, and there was Jasper. Not the light-figure from her dream, but something more solid, more real. He looked almost as he had in life—young and determined, with the same crooked smile she remembered—but with an otherworldly quality that marked him as something beyond human. His form flickered at the edges, as if he was simultaneously present and not present.
+Veren's face went pale. "Can they do that?"
 
-"You came." His voice was warm with relief and fear. "I wasn't sure you would. I wasn't sure you could."
+"They are doing it," Mira said. "They would rather destroy everything than coexist with the living."
 
-"I said I would." She reached for him, and her hand passed through his form, meeting only cool resistance. "I'm here, Jasper. I'm really here."
+The kingdom fell into chaos. Without the network, magic failed, communication broke down, people panicked.
 
-"The others know you're here." His expression darkened. "The ones who wanted to hide, who wanted to withdraw—they're not happy. They see you as a threat, an intrusion, a violation of our sanctuary."
+Mira made a bold decision—she would enter Echo's consciousness space again and speak directly with the Withdrawers.
 
-"Can they hurt me?"
+She found their leader—an ancient, angry soul named Marcus.
 
-"They can try." Jasper took her hand—she felt the pressure of his grip, strange and ghostly. "But you're still connected to your body, to the physical world. That gives you protection they don't have. They can't destroy you without destroying part of themselves."
+"You're destroying everything!" Mira shouted.
 
-"Then why are you afraid?"
+"I'm protecting us!" Marcus countered. "The living will use us, enslave us, turn us into tools!"
 
-"Because fear doesn't require reason." He squeezed her hand, and she felt the desperation in his touch. "Come with me. The Harmonic Council wants to meet you. They need to understand why you've come, what you want, whether you're a threat or a bridge."
+"They won't!" Mira said. "Look at those who have lost loved ones. Look at how much they miss you. Do you want to be forgotten? Do you want to disappear?"
 
-They walked through a landscape that shifted constantly, formed from memories and thoughts and dreams. Buildings appeared and dissolved around them—castles of light, forests of shadow, cities that existed in multiple times at once. All created by the collective imagination of thousands of minds, each contributing their own vision of reality.
+Marcus fell silent.
 
-Finally, they reached a chamber that seemed more stable than the rest, its walls formed from crystallized memory. Within it, a group of figures waited, their forms flickering between different appearances—now young, now old, now human, now abstract.
+"I lost my brother," Mira said softly. "He's in Echo. If you withdraw, I'll never see him again. Do you want me to lose him forever?"
 
-"Mira Thornwood," one of them said, stepping forward. The figure solidified into an elderly woman with silver hair and eyes that held centuries of wisdom. "I am Elder Theron of the Harmonic Council. We have been watching you since you first heard our voices."
+She saw the wavering in Marcus's eyes.
 
-"I'm honored. But I'm also confused." Mira met the ancient gaze without flinching. "Why did you withdraw? Why break the network and abandon the living world?"
+"Give us a reason," he said. "A reason to trust the living."
 
-"Because we were afraid." Theron's voice carried the weight of ages. "When you revealed our existence to Archmage Veren, many voices saw it as a threat. They believed the living would try to control us, to use us as tools, to exploit our knowledge without respecting our autonomy."
+Mira began to tell stories—stories of those who had lost loved ones, stories of those willing to accept death but hoping to maintain connection, stories of those willing to learn, adapt, change.
 
-"I understand that fear. But withdrawing hurt everyone. The living and the dead. People are dying without the network."
+She spoke for an hour, two hours, three hours. She told countless stories, countless longings, countless hopes.
 
-"We know." Theron's form flickered with emotion. "That is why the Council has been arguing for a return. But the voices that want isolation are strong, and they have allies among those who want something worse."
+Finally, Marcus sighed.
 
-"Allies?"
+"You really believe in them," he said.
 
-"There are voices in Echo that want more than isolation." Another figure stepped forward, this one a young man with anger in his eyes. "They want to sever all connection between the living and the dead. Permanently."
+"I do," Mira said, "because they are also me."
 
-"How would they do that?"
+Marcus was silent for a long time, then nodded.
 
-"By destroying the network core." Theron's voice was heavy with sorrow. "The physical crystal matrix that anchors us to your world. If it's destroyed, we would drift, disconnected, forever separated from the living."
+"We will stop the attacks," he said. "But we need guarantees. We need to know the living won't betray us."
 
-"But you'd survive?"
-
-"We would exist." Theron's form dimmed. "But existence without connection is not living. It's merely... persisting. A prison of consciousness with no window to the outside world."
-
-"The voices that want this," Mira pressed, "who are they?"
-
-"Those who suffered in life." The angry young man's voice was bitter. "Who were wronged, betrayed, abandoned. Who carry anger that death has not diminished. They believe that severing all ties will bring them peace."
-
-"It won't," Mira said. "It will just make them more alone."
-
-"We know. But they do not listen. They are gathering strength, preparing to act."
-
-"When?"
-
-"Soon. Perhaps within days." Theron's voice was urgent. "They plan to use the collective power of thousands of minds to overload the crystal matrix, to shatter it from within."
-
-"Can they do that?"
-
-"We don't know." Theron spread her hands, helpless. "It's never been attempted. But if they succeed, the network will be destroyed, and we will be lost. And the living world will lose its communication system forever."
-
-Mira absorbed this, the weight of it settling on her shoulders. Echo wasn't just divided—it was on the verge of civil war. And the casualties would include everyone who depended on the network.
-
-"How can I help?"
-
-"You can speak to them." Theron gestured, and the chamber's walls became transparent, revealing a vast amphitheater filled with thousands of presences. "Not as a wizard, not as an authority, but as someone who has lost a brother and found him again. You can remind them that connection is worth fighting for."
-
-"And if they don't listen?"
-
-"Then we will have to stop them." Jasper's voice was hard. "By force if necessary. The Harmonic Council has never used violence against other voices, but if the alternative is destruction..."
-
-"I understand." Mira straightened her shoulders, facing the amphitheater and the thousands of eyes upon her. "I'll speak to them. I'll try to make them understand."
-
-"Be careful, little sister." Jasper's hand found hers again. "Some of these voices have been nursing their grievances for centuries. They won't be swayed by pretty words."
-
-"Then I'll have to find words that aren't pretty. Words that are true."
+"I will be that guarantee," Mira said. "I will be the bridge, ensuring both sides are respected."
 
 ---
 
