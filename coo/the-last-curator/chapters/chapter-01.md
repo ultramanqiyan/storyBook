@@ -22,7 +22,7 @@ He took a breath, arranged his face into the expression that said "I see things 
 
 ---
 
-The auditorium was full, which was either a testament to Marcus's reputation or to the free champagne. He chose to believe the former.
+The auditorium was full, which was either proof of Marcus's reputation or of the free champagne. He chose to believe the former.
 
 The spotlight hit him as he walked to the podium, and for a moment he was blind. Then the faces came into focus—patrons in the front rows, their jewelry catching the light; students in the back, notebooks open; critics along the sides, their expressions already skeptical. He knew this crowd. He'd seen variations of it a hundred times.
 
@@ -201,7 +201,7 @@ He deleted the message without responding.
 But he couldn't delete the question from his mind.
 
 
-He put down his phone and closed his eyes. The apartment was still too quiet. The portfolio was still waiting. The exhibition�?Humanity's Last Breath*—was still six months away.
+He put down his phone and closed his eyes. The apartment was still too quiet. The portfolio was still waiting. The exhibition�?Humanity's Last Breath*—was still six months away.
 
 Tomorrow, he would begin in earnest. Tomorrow, he would find the ten most authentic artists in the world. Tomorrow, he would prove that his method was real.
 

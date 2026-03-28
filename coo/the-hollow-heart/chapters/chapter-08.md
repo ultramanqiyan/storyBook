@@ -57,7 +57,7 @@ I stood, my enhanced body moving with mechanical precision. "Thank you, Dr. Vasq
 I nodded, though I couldn't feel the gratitude her words were meant to inspire. "I'll be in touch."
 
 
-I walked out of the clinic into the evening air, my enhanced senses immediately cataloging the world around me. The sunset was painting the sky in colors that no unenhanced human could seeâ€”ultraviolet and infrared adding depth to the oranges and pinks. The sounds of the city were a symphony of frequencies, from the low rumble of underground trains to the high-pitched whine of electrical systems.
+I walked out of the clinic into the evening air, my enhanced senses immediately cataloging the world around me. The sunset was painting the sky in colors that no unenhanced human could seeâ€”ultraviolet and infrared adding depth to the oranges and pinks. The sounds of the city were a complex weave of frequencies, from the low rumble of underground trains to the high-pitched whine of electrical systems.
 
 This was what I would lose. The beauty that only I could perceive. The abilities that made me more than human.
 
@@ -81,7 +81,7 @@ I didn't know why I had come. Maybe I needed to see her one more time, to remind
 
 I knocked on her door.
 
-She answered almost immediately, as if she had been waiting. Her eyes were red-rimmed, her hair disheveled, her heart rate elevatedâ€?2 bpm. She had been crying.
+She answered almost immediately, as if she had been waiting. Her eyes were red-rimmed, her hair disheveled, her heart rate elevatedï¿½?2 bpm. She had been crying.
 
 "Kai." Her voice was rough. "I was hoping you'd come."
 
@@ -102,7 +102,7 @@ She listened without interrupting, her heart rate climbing steadily as I spoke. 
 
 "I'm going to try. I have to."
 
-"Kai, the risksâ€?
+"Kai, the risksï¿½?
 
 "I know the risks." I met her eyes. "But Maya, I can't live like this. I can't see the world in perfect detail and feel nothing about it. I can't remember our friendship and not feel the love that was there. I can't play music and hear only sound."
 

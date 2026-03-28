@@ -128,4 +128,4 @@ She did not know what she was.
 
 But she was here. She was aware. She was watching.
 
-And perhaps, in the end, that was enough.
+And perhaps, when all was said and done, that was enough.

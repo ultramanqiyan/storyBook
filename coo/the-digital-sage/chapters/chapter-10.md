@@ -139,4 +139,4 @@ And that was enough.
 
 *The End*
 
-*...or perhaps, just the beginning.*
+*...or perhaps, the first step.*

@@ -202,7 +202,7 @@ The dream stayed with her throughout the day, its message echoing in her mind: *
 
 She realized that this was what her father had done—not through a game, but through his very being. He had lived in the play state, and his presence had helped others find it too. Now it was her turn to do the same.
 
-The game was just the beginning. The real work was living in play, embodying the state, becoming a doorway herself.
+The game was merely the first step. The real work was living in play, embodying the state, becoming a doorway herself.
 
 And as she sat down to play *Lila* once more, Zara Okonkwo knew that this was the most important game she would ever play—not because of what she might win, but because of what she might become.
 

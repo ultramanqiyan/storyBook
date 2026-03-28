@@ -1,4 +1,4 @@
-# Chapter 6: The Imitation - AI Combinations - AI Combinations - AI Combinations
+# Chapter 6: The Imitation - AI Combinations
 
 The revelation came during a portfolio review.
 

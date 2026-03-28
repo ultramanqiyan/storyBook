@@ -32,7 +32,7 @@ James looked at the empty vessel again. The blank form seemed to stare back at h
 
 The preparation took most of the morning. James was shown to a small room where he changed into a simple gray jumpsuit, then led through a series of baseline tests—cognitive assessments, memory checks, emotional response measurements. The researchers were efficient and professional, treating him with the careful attention reserved for human subjects in experimental procedures.
 
-Dr. Morrison conducted the final briefing in a conference room overlooking the courtyard garden. The sunlight streaming through the windows felt impossibly normal, a reminder that the world outside continued regardless of what was about to happen inside.
+Dr. Morrison conducted the final briefing in a conference room overlooking the courtyard garden. The sunlight streaming through the windows felt impossibly normal—proof that the world outside continued regardless of what was about to happen inside.
 
 "Do you have any final questions?" Dr. Morrison asked.
 

@@ -50,9 +50,9 @@ Her book was published posthumously, titled "The Forever Trap: A Century of Eter
 
 Catherine's story spread. Interviews she had given were rebroadcast. Articles were written. Debates were held. Her experience became a touchstone for discussions about mortality, meaning, and the nature of a good life.
 
-"She was the first person to choose death over eternal life," a journalist wrote. "Not because she was tired of living, but because she understood that living without dying isn't living at all. Her choice was a gift to the rest of us—a reminder that our mortality is not a curse but a blessing."
+"She was the first person to choose death over eternal life," a journalist wrote. "Not because she was tired of living, but because she understood that living without dying isn't living at all. Her choice was a gift to the rest of us—proof that our mortality is not a curse but a blessing."
 
-Years passed. Decades passed. The world changed, as worlds do. But Catherine's story endured—a testament to a woman who had experienced the impossible and chosen the inevitable, who had learned the hardest lesson and shared it with the world.
+Years passed. Decades passed. The world changed, as worlds do. But Catherine's story endured—living proof of a woman who had experienced the impossible and chosen the inevitable, who had learned the hardest lesson and shared it with the world.
 
 ---
 

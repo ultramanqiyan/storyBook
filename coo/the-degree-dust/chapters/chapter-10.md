@@ -104,7 +104,7 @@ At home, he found Emily waiting for him.
 
 "And?"
 
-"And I think this is just the beginning. The Path is one model, but there will be others. Education is being reinvented, all over the world. We're part of something larger."
+"And I think this is only the first step. The Path is one model, but there will be others. Education is being reinvented, all over the world. We're part of something larger."
 
 "Does that feel good?"
 

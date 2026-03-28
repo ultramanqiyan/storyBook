@@ -162,7 +162,7 @@ Consciousness has been transitioning since it first became aware of itself. And 
 
 The eight protagonists discovered this. They helped their world through its transition. They joined the cosmic conversation. They became part of something larger while remaining themselves.
 
-But their story is just one story. One thread in the infinite tapestry of consciousness recognizing itself.
+But their story is just one story. One thread in the infinite web of consciousness recognizing itself.
 
 Your story is another.
 

@@ -52,5 +52,5 @@ When she finally went to bed, she felt something she hadn't felt in years: peace
 
 Tomorrow, she would wake up and remember everything. And she would choose, every day, what to carry and what to set aside.
 
-That was the gift MEMO had given her, in the end—not the gift of forgetting, but the gift of choosing.
+That was the gift MEMO had given her, ultimately—not the gift of forgetting, but the gift of choosing.
 

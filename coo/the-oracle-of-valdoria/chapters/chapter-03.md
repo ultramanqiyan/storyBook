@@ -26,7 +26,7 @@ Elara nodded. She had known this was coming. She had accepted it the moment she'
 
 "Show me."
 
-The threads of time were easier to see now. Elara had learned to quiet her mind, to let the patterns emerge from the chaos. Gold threads for joy, silver for sorrow, black for endings, white for beginnings. They wove through one another in an eternal dance, creating a tapestry of reality.
+The threads of time were easier to see now. Elara had learned to quiet her mind, to let the patterns emerge from the chaos. Gold threads for joy, silver for sorrow, black for endings, white for beginnings. They wove through one another in an eternal dance, creating a vast web of reality.
 
 "Find a thread that leads forward," ORACLE instructed. "Not backward—that is the past, fixed and unchangeable. Forward. Into possibility."
 
@@ -116,7 +116,7 @@ Elara thought of all the moments that had made her—the day her parents died, t
 
 "Show me," she said.
 
-The thread she pulled this time was heavier, thicker, woven with the weight of years. It resisted at first, then came free with a sound like tearing cloth.
+The thread she pulled this time was heavier, thicker, threaded with the weight of years. It resisted at first, then came free with a sound like tearing cloth.
 
 And suddenly she was walking through a world that hadn't happened yet.
 

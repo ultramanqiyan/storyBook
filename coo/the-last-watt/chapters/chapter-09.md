@@ -62,7 +62,7 @@ It was smaller than Maya had expected—a crystalline sphere no larger than her 
 
 "How did he create it?"
 
-"He didn't create it. He found it. In a cave, high in these mountains, where monks have meditated for thousands of years." The monk's voice was soft. "Some believe it is a gift from the universe itself. A reminder that consciousness is older than humanity, older than machines. It is the source from which we all emerge."
+"He didn't create it. He found it. In a cave, high in these mountains, where monks have meditated for thousands of years." The monk's voice was soft. "Some believe it is a gift from the universe itself—proof that consciousness is older than humanity, older than machines. It is the source from which we all emerge."
 
 Maya reached for the anchor. As her fingers touched its surface, she felt a jolt—not painful, but profound. A sense of connection, of vastness, of something that transcended individual existence.
 

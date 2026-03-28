@@ -36,7 +36,7 @@ On the second day, I learned to hear. Not just to listen—to actually hear. The
 
 On the third day, they let me walk.
 
-The hallway outside my room was a symphony of sensation. I could feel the temperature gradient between the sunlit window and the shaded corridor. I could smell the difference between the cleaning solution used on the floor and the one used on the walls. I could hear the conversations happening three rooms away, the soft beeping of monitors, the distant rumble of the building's HVAC system.
+The hallway outside my room was a flood of sensation. I could feel the temperature gradient between the sunlit window and the shaded corridor. I could smell the difference between the cleaning solution used on the floor and the one used on the walls. I could hear the conversations happening three rooms away, the soft beeping of monitors, the distant rumble of the building's HVAC system.
 
 "Your neural-silicon interface is integrating well," Dr. Chen said, walking beside me. "The AI components are syncing with your enhanced sensory processing. Within a week, you'll be able to access computational functions directly—mathematical calculations, data analysis, even direct interface with networked systems."
 
@@ -61,7 +61,7 @@ Dr. Chen released me on the fourth day. "Your integration is progressing ahead o
 
 I walked out of the Enhancement Institute into the New Avalon afternoon, and the city hit me like a wave.
 
-The sun was a symphony of ultraviolet and infrared, wavelengths I had never perceived before. The air was thick with scents—exhaust and cooking and flowers and sweat and rain and a thousand other things I couldn't name. The sounds of the city were a cacophony: traffic and voices and music and machinery and the constant hum of electrical systems.
+The sun was a blend of ultraviolet and infrared, wavelengths I had never perceived before. The air was thick with scents—exhaust and cooking and flowers and sweat and rain and a thousand other things I couldn't name. The sounds of the city were a cacophony: traffic and voices and music and machinery and the constant hum of electrical systems.
 
 I stood on the steps of the Institute, overwhelmed but not afraid. This was what I had wanted. This was what I had chosen.
 
@@ -82,7 +82,7 @@ What would it be like, I wondered, to play with these new senses? To hear every 
 
 I pressed a single key. Middle C.
 
-The sound bloomed through me like I had never heard it before. I could hear the fundamental frequency, of course�?61.63 hertz—but also the harmonics that gave the note its character. I could hear the string's vibration, the soundboard's resonance, the way the note interacted with the air in the room.
+The sound bloomed through me like I had never heard it before. I could hear the fundamental frequency, of course�?61.63 hertz—but also the harmonics that gave the note its character. I could hear the string's vibration, the soundboard's resonance, the way the note interacted with the air in the room.
 
 It was perfect. Technically perfect. The most beautiful sound I had ever heard.
 

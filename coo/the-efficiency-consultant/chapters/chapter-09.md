@@ -64,7 +64,7 @@ Lisa hadn't known. She'd never found out if her anonymous letter had made a diff
 
 "I didn't think it would help," she said.
 
-"It did. Not for everyone, but for some. And that's more than most consultants ever do." Sarah paused. "If you're looking for advice, here's what I'll tell you: don't become part of the system that's destroying people. Find a way to fight it, or at least to help the people it's hurting. That's the only thing that's going to matter in the end."
+"It did. Not for everyone, but for some. And that's more than most consultants ever do." Sarah paused. "If you're looking for advice, here's what I'll tell you: don't become part of the system that's destroying people. Find a way to fight it, or at least to help the people it's hurting. That's the only thing that's going to matter when all is said and done."
 
 They talked for a few more minutes, exchanging contact information, promising to stay in touch. When the call ended, Lisa sat in silence for a long time.
 
@@ -131,7 +131,7 @@ It wasn't perfect. It wasn't going to stop the efficiency spiral. But it was som
 
 When she presented it to Marcus and the partners, they asked tough questions. They challenged her assumptions, her projections, her business model. They made her defend every detail.
 
-But in the end, they approved a pilot program. Three months, three clients, a small budget to prove the concept.
+But when all was said and done, they approved a pilot program. Three months, three clients, a small budget to prove the concept.
 
 It wasn't everything she wanted. But it was a start.
 

@@ -12,7 +12,7 @@ I smiled. This was going to be a good day.
 
 ---
 
-The morning unfolded in a blur of productivity. I moved from task to task, each one falling away like a domino. The caching layer was just the beginning. Next came a database migration script I'd been putting off for weeks—CodeForge generated it in under a minute, complete with rollback procedures and data validation checks. Then a set of API endpoints for the new feature we'd been scoping, each one documented and tested before I could even finish my coffee.
+The morning unfolded in a blur of productivity. I moved from task to task, each one falling away like a domino. The caching layer was only the first step. Next came a database migration script I'd been putting off for weeks—CodeForge generated it in under a minute, complete with rollback procedures and data validation checks. Then a set of API endpoints for the new feature we'd been scoping, each one documented and tested before I could even finish my coffee.
 
 The rhythm was intoxicating. I'd type a prompt, watch the code appear character by character, review it with practiced eyes, make minor adjustments, and move on. The notification pings from completed builds and passed tests had become a kind of music, a symphony of productivity that made the hours disappear.
 
@@ -73,7 +73,7 @@ Jennifer stood at the front, her presentation already loaded. The title slide re
 
 The slide showed a leaderboard. Names and numbers, ranked by productivity metrics. Lines of code written, features completed, bugs fixed, code review turnaround time. All the usual metrics, now aggregated into a single score that determined your position on the board.
 
-I scanned the list, my heart rate quickening slightly. Sarah was near the top, her numbers solid if not spectacular. Mike was in the middle, his metrics showing modest improvement. And at the bottom�?
+I scanned the list, my heart rate quickening slightly. Sarah was near the top, her numbers solid if not spectacular. Mike was in the middle, his metrics showing modest improvement. And at the bottom�?
 At the top, in bold letters, was my name.
 
 "Marcus has been our top adopter this week," Jennifer said, her voice carrying that corporate enthusiasm that always made my shoulders tense. "His productivity has increased by over sixty percent, and his code quality metrics have actually improved. Fewer bugs, faster reviews, better documentation. This is exactly what we're looking for, folks."

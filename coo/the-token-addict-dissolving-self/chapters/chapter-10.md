@@ -4,7 +4,7 @@ Marcus stood at the threshold.
 
 The study was dark, the AI interfaces closed, the question still echoing in his mind: *Who am I?*
 
-For the first time in fifteen years, he didn't have an AI-generated answer. didn't have an optimized response. Just the question, hanging in the silence, waiting for him to find the answer.
+For the first time in fifteen years, he didn't have an AI-generated answer. He didn't have an optimized response. Just the question, hanging in the silence, waiting for him to find the answer.
 
 ---
 
@@ -124,7 +124,7 @@ The question was his. And for the first time, the answer was too.
 
 The choice was terrifying. But it was also liberating. And beneath the terror and the liberation was something else.
 
- hope. Not AI-generated hope. Not optimized hope. Just the real hope of someone standing at a threshold, choosing to step into the unknown.
+Hope. Not AI-generated hope. Not optimized hope. Just the real hope of someone standing at a threshold, choosing to step into the unknown.
 
 *Who am I?*
 

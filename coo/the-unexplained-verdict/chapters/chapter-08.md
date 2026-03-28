@@ -46,7 +46,7 @@ The heat rose to her face as the realization settled in. She had been lying. Not
 
 She had been lying to her clients. Lying to her colleagues. Lying to herself.
 
-The files spread across her desk, each one a testament to her pretense. She thought about David Chen, sitting across from her, asking his simple question: *Why?* She thought about the confidence with which she'd promised to explain, the professional assurance she'd projected. She had believed it herself - believed that she could articulate the reasoning, that the knowledge was there if she just took the time to access it.
+The files spread across her desk, each one bearing witness to her pretense. She thought about David Chen, sitting across from her, asking his simple question: *Why?* She thought about the confidence with which she'd promised to explain, the professional assurance she'd projected. She had believed it herself - believed that she could articulate the reasoning, that the knowledge was there if she just took the time to access it.
 
 But the knowledge wasn't there. The knowledge had never been there. The AI had made the decision, and she had signed her name to it, and somewhere along the way she had convinced herself that this was the same thing as understanding.
 

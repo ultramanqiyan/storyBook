@@ -1,4 +1,4 @@
-# Chapter 2: The Inspiration - AI Outperforms - AI Outperforms - AI Outperforms
+# Chapter 2: The Inspiration - AI Outperforms
 
 Within weeks, CreateFlow became essential.
 

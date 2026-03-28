@@ -18,7 +18,7 @@ And I felt nothing.
 
 ---
 
-The door buzzed open, and I climbed the stairs to the third floor. Each step creaked in a slightly different pitch, a symphony of aging architecture. Before the Enhancement, I would have noticed the creaking but not the individual notes. Now I could have transcribed the staircase's song.
+The door buzzed open, and I climbed the stairs to the third floor. Each step creaked in a slightly different pitch, a cascade of aging architecture. Before the Enhancement, I would have noticed the creaking but not the individual notes. Now I could have transcribed the staircase's song.
 
 Maya was waiting at her door when I reached the landing.
 

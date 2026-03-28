@@ -72,4 +72,4 @@ Sofia picked up her tablet and opened the AI tool. She scrolled through its reco
 
 "The AI can tell me what an object should look like. But it can't tell me what an object means. It can't understand the difference between damage and history. It can't see the scratches on an armrest and imagine a grandmother knitting. It can't look at a worn spot on a seat and feel the presence of someone who is gone. That's still my job. And maybe that's the job that matters most."
 
-She saved the file and closed the tablet. Tomorrow she would start a new project. But tonight, she would sit with what she had learned. The AI was a tool. But it wasn't a replacement. It couldn't tell stories. It couldn't care. And in the end, that made all the difference.
+She saved the file and closed the tablet. Tomorrow she would start a new project. But tonight, she would sit with what she had learned. The AI was a tool. But it wasn't a replacement. It couldn't tell stories. It couldn't care. And ultimately, that made all the difference.

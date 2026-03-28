@@ -4,7 +4,7 @@ The year was the most alive Catherine had ever felt. Every morning, she woke wit
 
 The aging began almost immediately after the termination. Her body, freed from the nanomachines' maintenance, began to catch up to where it should have been. Within weeks, she noticed changes—her skin becoming thinner, her joints stiffer, her energy flagging. Within months, she looked older than she had in a century.
 
-But the physical decline didn't diminish the psychological awakening. If anything, it enhanced it. Every sign of aging was a reminder that she was alive—truly alive, with an ending that gave the journey meaning.
+But the physical decline didn't diminish the psychological awakening. If anything, it enhanced it. Every sign of aging was proof that she was alive—truly alive, with an ending that gave the journey meaning.
 
 She finished her book in the third month—a memoir of her century of extended life, the isolation, the drift, the eventual understanding that death was the gift she had tried to escape. She called it "The Forever Trap," and she dedicated it to Marcus, to Dr. Webb, to everyone she had lost and finally learned to grieve.
 

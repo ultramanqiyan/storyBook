@@ -14,7 +14,7 @@ The visualization chamber was a sphere of darkness, its walls curved and smooth,
 
 She pressed a final key, and the darkness exploded into light.
 
-Marcus's breath caught. The visualization unfolded around him like a universe being born—billions of points of light, each one a human being, connected by threads that pulsed and shimmered in colors he couldn't name. The threads stretched across the space, forming patterns within patterns, webs within webs, a tapestry of human connection so vast and intricate that his mind struggled to comprehend it.
+Marcus's breath caught. The visualization unfolded around him like a universe being born—billions of points of light, each one a human being, connected by threads that pulsed and shimmered in colors he couldn't name. The threads stretched across the space, forming patterns within patterns, webs within webs, a vast network of human connection so intricate that his mind struggled to comprehend it.
 
 "Every light is a person," Priya said, her voice soft now, reverent. "Every thread is a causal connection—an action that affected someone else, a choice that rippled outward. Some threads are thick, representing strong influences. Some are thin, barely visible, but they're there. Everyone is connected. Everyone belongs to the web."
 
@@ -34,7 +34,7 @@ She worked the console, and the visualization shifted. The billions of nodes rec
 
 The visualization settled, and Marcus saw himself.
 
-His node was there—a point of light, pulsing softly. But around it, where there should have been threads, there was nothing. No connections. No ripples. No web of causality spreading outward to touch other lives. Just a single point, floating in the void, surrounded by the vast tapestry of human connection but not part of it.
+His node was there—a point of light, pulsing softly. But around it, where there should have been threads, there was nothing. No connections. No ripples. No web of causality spreading outward to touch other lives. Just a single point, floating in the void, surrounded by the vast network of human connection but not part of it.
 
 In the web of human connection, his node floated alone—a single point of light in a sea of threads, connected to nothing, affecting nothing. The visualization pulsed around him, billions of lives intersecting, and Marcus stood at the center of it all, more alone than he'd ever been.
 

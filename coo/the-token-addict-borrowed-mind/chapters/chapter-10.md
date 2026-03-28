@@ -109,7 +109,7 @@ And maybe that was the beginning. Not an answer, but a question. Not a solution,
 
 I walked toward my car, the question still echoing, the uncertainty still present, but something else there too. Something fragile and uncertain and terrifying.
 
-Hope, maybe. Or just the beginning of one.
+Hope, maybe. Or the first glimmer of one.
 
 *Who is thinking now?*
 

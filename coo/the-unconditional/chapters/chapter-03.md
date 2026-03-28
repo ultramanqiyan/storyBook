@@ -77,7 +77,7 @@ No. Not explodes. Expands. Like the apartment walls falling away. Like the ceili
 
 Colors are brighter. The red ball is not just red. It is a hundred shades of red. It is the red of Sarah's lipstick. The red of the leaves in fall. The red of the brick building across the street. All different. All connected.
 
-Sounds are clearer. The refrigerator is not just a hum. It is a symphony of sounds. I can hear each one separately. I can hear them together. I can hear patterns I never knew existed.
+Sounds are clearer. The refrigerator is not just a hum. It is a cascade of sounds. I can hear each one separately. I can hear them together. I can hear patterns I never knew existed.
 
 Smells are... everything. I have always smelled. But now I smell differently. I smell stories. The carpet holds the story of every foot that walked on it. The couch holds the story of every body that sat on it. Sarah's pillow holds her dreams. Her fears. Her tiredness and her hope.
 

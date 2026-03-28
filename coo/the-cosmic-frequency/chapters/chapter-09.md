@@ -154,7 +154,7 @@ And now she could help others understand the same truth.
 
 The next day, Maya met with Chen and Yamamoto to discuss next steps.
 
-"The symphony is just the beginning," she said. "I want to create a curriculum—a way to teach others to perceive the frequency. Not everyone will be able to, but some will. And those who can will be able to teach others."
+"The symphony is only the first step," she said. "I want to create a curriculum—a way to teach others to perceive the frequency. Not everyone will be able to, but some will. And those who can will be able to teach others."
 
 "That's a significant undertaking," Chen said. "We'd need resources, funding, institutional support."
 

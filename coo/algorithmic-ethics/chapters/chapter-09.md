@@ -68,7 +68,7 @@ Marie thought about the garden, about Mrs. Rossi, about the fight that had start
 
 That night, Marie walked through the National Mall.
 
-The monuments rose around her—Lincoln, Washington, Martin Luther King Jr. Each one a testament to people who had fought for what they believed in. Each one a reminder that democracy was not a destination but a journey.
+The monuments rose around her—Lincoln, Washington, Martin Luther King Jr. Each one bearing witness to people who had fought for what they believed in. Each one proof that democracy was not a destination but a journey.
 
 She thought about her mother, who had started with a vacant lot and a dream. She thought about Mrs. Rossi, who had signed the petition before Marie could even explain. She thought about all the gardeners who had built something that couldn't be measured.
 

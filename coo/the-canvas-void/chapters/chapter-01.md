@@ -2,7 +2,7 @@
 
 Lena woke to the sound of blue. Not the word "blue"—the actual experience of it. The morning light through her window was a soft C-sharp, the traffic outside a distant orange hum. She had lived thirty years in a world where senses crossed, where sounds had colors and colors had sounds. It was her gift. It was her art. It was everything she was.
 
-She lay in bed for a moment, letting the sensory symphony wash over her. The hum of the refrigerator was a pale yellow. The distant siren was a sharp spike of red. The birds outside her window sang in threads of silver and gold. Most people heard sounds and saw colors as separate experiences. Lena had never known them to be separate. For her, they were one—a constant, beautiful, overwhelming fusion of sensation.
+She lay in bed for a moment, letting the sensory cascade wash over her. The hum of the refrigerator was a pale yellow. The distant siren was a sharp spike of red. The birds outside her window sang in threads of silver and gold. Most people heard sounds and saw colors as separate experiences. Lena had never known them to be separate. For her, they were one—a constant, beautiful, overwhelming fusion of sensation.
 
 She rose and went to her studio, the small room where she spent most of her waking hours. Canvases lined the walls, each one an attempt to capture what she experienced. A painting of a thunderstorm—deep purple and jagged black for the thunder, electric blue for the lightning. A canvas of a symphony—swirling colors that represented each instrument, each note. A portrait of her partner Maya, rendered not in realistic tones but in the colors of her voice—the warm amber of her laugh, the soft green of her whisper.
 

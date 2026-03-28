@@ -24,7 +24,7 @@ Return. Origin. Potential.
 
 The crystal didn't shatter. It didn't crumble. It simply... faded. Not into nothing, but into possibility. For a moment, Alex could see the ghost of what it might become—a thousand different forms, a thousand different futures. Then even that faded, and there was nothing on the table but empty space.
 
-"Holy�? Jordan breathed from the corner.
+"Holy�? Jordan breathed from the corner.
 
 *Good,* The Oracle said. *You understand the difference between ending and destroying. But be warned, Alex Mercer. Unmaking is seductive. It feels like power—the power to erase mistakes, to undo harm, to return to a time before things went wrong. But that power is an illusion.*
 
@@ -44,13 +44,13 @@ Alex nodded slowly. "What's next?"
 
 *Look at your friend Jordan. What do you see?*
 
-Alex turned to look at Jordan, who shifted uncomfortably. "I see... a person. A friend. Someone who�?
+Alex turned to look at Jordan, who shifted uncomfortably. "I see... a person. A friend. Someone who�?
 
 *Deeper. Look with the First Language.*
 
 Alex let their awareness expand, reaching toward Jordan with that deeper sense. And what they saw made them gasp.
 
-Jordan was a tapestry of words. Every experience, every memory, every relationship was woven from language. The words they had spoken, the words they had heard, the words they had read—all of it was written into their being. And at the core of that tapestry was a single word, glowing with truth:
+Jordan was a woven pattern of words. Every experience, every memory, every relationship was woven from language. The words they had spoken, the words they had heard, the words they had read—all of it was written into their being. And at the core of that pattern was a single word, glowing with truth:
 
 *Witness.*
 

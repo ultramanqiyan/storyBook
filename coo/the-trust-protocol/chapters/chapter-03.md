@@ -4,7 +4,7 @@ Elena started keeping notes.
 
 A simple document on her laptop, disconnected from the cloud, password-protected. Every anomaly she noticed, every discrepancy she found, every question that went unanswered.
 
-The pendant was just the beginning.
+The pendant was merely the first anomaly.
 
 ---
 

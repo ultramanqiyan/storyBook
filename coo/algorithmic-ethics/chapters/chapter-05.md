@@ -68,7 +68,7 @@ Marie's heart pounded.
 
 The council president looked at Marie.
 
-"We are voting to reject the AI's recommendation. Garden E will remain open. Furthermore, we are directing UrbanTech to revise the optimization parameters to include community value, cultural significance, and human impact. The AI will learn to see what it missed."
+"We are voting to reject the AI's recommendation. Garden E will remain open. We are also directing UrbanTech to revise the optimization parameters to include community value, cultural significance, and human impact. The AI will learn to see what it missed."
 
 The room exploded. Gardeners were crying, hugging, cheering. Mrs. Rossi was being embraced by the Haitian women. Mr. Nguyen was bowing to the council members, his hands pressed together in gratitude.
 

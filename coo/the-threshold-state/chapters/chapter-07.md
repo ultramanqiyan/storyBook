@@ -58,7 +58,7 @@ Each time, Sarah practiced being with it. Not fighting, not fleeing, not fixing.
 
 It was the hardest thing she'd ever done. Harder than building her practice, harder than developing her methodology, harder than any transformation she'd guided clients through. The fear was total, consuming, and the only way through was to stop trying to get through. Every instinct she'd developed as a coach screamed at her to manage the experience, to guide herself through it. But the fear was too big for guidance. It could only be met.
 
-Wei visited daily now, sitting with her through the fear episodes, holding space without interfering. His presence was an anchor—not a solution, but a reminder that she wasn't alone. He didn't offer techniques or frameworks. He simply sat with her, present, calm, unshakeable. His presence said: This is possible. You can be with this. I'm here with you.
+Wei visited daily now, sitting with her through the fear episodes, holding space without interfering. His presence was an anchor—not a solution, but proof that she wasn't alone. He didn't offer techniques or frameworks. He simply sat with her, present, calm, unshakeable. His presence said: This is possible. You can be with this. I'm here with you.
 
 "The fear is teaching you," he said one afternoon, after a particularly intense episode. "What is it showing you?"
 
@@ -148,7 +148,7 @@ She sat with the fear until it transformed once more—not into peace, not into 
 
 The fear had been her teacher, showing her what she'd lost, what she'd built, what she was holding onto. Now it became her guide, pointing toward what waited beyond the dissolution. Not destruction, but discovery. Not loss, but liberation.
 
-When she finally lay down to sleep, the fear was still there. But it was no longer keeping her awake. It was simply present, a companion on the journey, a reminder that the threshold was close.
+When she finally lay down to sleep, the fear was still there. But it was no longer keeping her awake. It was simply present, a companion on the journey, proof that the threshold was close.
 
 She fell asleep with the fear beside her, and for the first time in days, she slept peacefully. The threshold was waiting. And she was finally ready to meet it.
 

@@ -56,7 +56,7 @@ That evening, Anna sat at her kitchen table, conducting her nightly inventory. T
 
 *What did I remember today?* she asked herself. *What do I need to file away?*
 
-The list was long: the morning routine, the work at the archive, the lunch in the park, the memory of David, the walk home. Each item was a thread in the tapestry of her day, and each thread connected to hundreds of others.
+The list was long: the morning routine, the work at the archive, the lunch in the park, the memory of David, the walk home. Each item was a thread in the fabric of her day, and each thread connected to hundreds of others.
 
 She thought about the memory of David—the way it had ambushed her, the way it still ached even after ten years. She had tried to forget him, tried to move on, but forgetting was impossible when you remembered everything.
 

@@ -8,7 +8,7 @@ But something had shifted.
 
 People were talking. Questioning. Choosing. For the first time since the Symbiosis System had become mainstream, the narrative was no longer entirely controlled by the company.
 
-Maya watched it all from the shadows, her identity protected, her location hidden. She was no longer just a survivor. She was a symbol. A reminder that escape was possible, that freedom was worth fighting for.
+Maya watched it all from the shadows, her identity protected, her location hidden. She was no longer just a survivor. She was a symbol. Proof that escape was possible, that freedom was worth fighting for.
 
 ---
 

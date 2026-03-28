@@ -14,7 +14,7 @@ The feelings were everything.
 
 I stood on the street corner, overwhelmed by the simple act of being alive. The sun on my face was warm—not the precise temperature gradient I had once measured, but the actual sensation of warmth, carrying with it memories of childhood summers and lazy afternoons and the feeling of being loved.
 
-The sounds of the city were a cacophony—not the symphony of frequencies I had once analyzed, but the chaotic, beautiful noise of human life. Car horns and voices and music and laughter, all blending together into something that made my chest ache with a feeling I had almost forgotten.
+The sounds of the city were a cacophony—not the precise arrangement of frequencies I had once analyzed, but the chaotic, beautiful noise of human life. Car horns and voices and music and laughter, all blending together into something that made my chest ache with a feeling I had almost forgotten.
 
 Joy. Simple, overwhelming joy at being able to feel again.
 
@@ -42,7 +42,7 @@ I listened with ordinary ears, hearing only the frequencies that human hearing c
 
 The melody spoke of loss and longing, of the hollow ache of missing someone who was standing right in front of you. It spoke of hope, fragile and persistent, the belief that what was lost could be found again. It spoke of love—not the intellectual understanding of love I had carried for weeks, but the real thing, the feeling that makes your chest tight and your eyes water and your heart ache in the best possible way.
 
-And then the music shifted. The minor key turned major, the slow tempo accelerated, and the melody soared into something that felt like coming home. It was joy and relief and gratitude, all woven together in a tapestry of sound that made me weep.
+And then the music shifted. The minor key turned major, the slow tempo accelerated, and the melody soared into something that felt like coming home. It was joy and relief and gratitude, all woven together in a cascade of sound that made me weep.
 
 I was crying again—not from the hollow observation of tears, but from the overwhelming fullness of feeling. The music was beautiful, and I could feel it, and that was the greatest gift I had ever received.
 

@@ -65,7 +65,7 @@ I had spent years being the perfect student, the optimized student, the student 
 The path was still there, waiting for me to follow. But for the first time, I was choosing to walk my own way.
 
 
-The next morning, I went back to the library. I pulled the chemistry textbook from the shelf and turned to the second chapter. The exercises from yesterday were still in my notebook, my messy handwriting a testament to effort.
+The next morning, I went back to the library. I pulled the chemistry textbook from the shelf and turned to the second chapter. The exercises from yesterday were still in my notebook, my messy handwriting bearing witness to effort.
 
 I began to read.
 

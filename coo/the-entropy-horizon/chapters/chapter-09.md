@@ -28,7 +28,7 @@ The preparation room was smaller than Helena had expected. A bed, a chair, a win
 
  No. That wasn't right either
 
- In the end, she wrote simply: *I love you. I'll always love you. Even when I'm not me anymore. That's the one thing that won't change.*
+ When all was said and done, she wrote simply: *I love you. I'll always love you. Even when I'm not me anymore. That's the one thing that won't change.*
 
  She signed the letter and folded it carefully. If she didn't come back—if she became something too vast to remember being Helena—Sarah would have this. A piece of her mother, preserved in ink and paper and love
 

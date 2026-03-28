@@ -51,7 +51,7 @@ A woman in the second row raised her hand. "Can you prove it?"
 Elena met his gaze. "I won't lie to you. This is a difficult case. NeuralCore has resources we can't match—lawyers, money, political connections. The odds are against us. But I've seen what happens when communities give up. I've seen what happens when people stop fighting." She paused. "I'd rather lose fighting than win by surrender."
 
 
-The meeting lasted another hour. Elena listened more than she spoke, letting the residents tell their stories. The farmer whose wells had gone dry. The teacher whose students were leaving because their parents couldn't find work. The business owner whose customers had disappeared along with the water. Each story added another piece to the picture, another thread in the tapestry of loss.
+The meeting lasted another hour. Elena listened more than she spoke, letting the residents tell their stories. The farmer whose wells had gone dry. The teacher whose students were leaving because their parents couldn't find work. The business owner whose customers had disappeared along with the water. Each story added another piece to the picture, another thread in the fabric of loss.
 
 When the meeting finally ended, the crowd filed out slowly. Some stopped to shake Elena's hand, to thank her for coming, to warn her about what she was getting into. Others left without a word, their faces unreadable.
 

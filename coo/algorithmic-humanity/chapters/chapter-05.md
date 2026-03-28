@@ -12,15 +12,15 @@ Robert met her at the door, Buddy at his side. The AI dog's tail wagged at the s
 
 ---
 
-They moved to the living room, and Angela began setting up her equipment. The room looked the it always did—Robert's armchair by the fireplace, the photographs on the walls. But today, she noticed something different. The light was softer. The curtains were drawn slightly. And Buddy seemed... slower somehow.
+They moved to the living room, and Angela began setting up her equipment. The room looked the way it always did—Robert's armchair by the fireplace, the photographs on the walls. But today, she noticed something different. The light was softer. The curtains were drawn slightly. And Buddy seemed... slower somehow.
 
  "Is he okay?" Angela asked Robert quietly.
 
- "He's been better," Robert admitted. "But his systems are starting to lag. Sometimes he takes him longer to process things. He manufacturer says it's normal for his model."
+ "He's been better," Robert admitted. "But his systems are starting to lag. Sometimes it takes him longer to process things. The manufacturer says it's normal for his model."
 
- He sat in his chair and, his hands trembling slightly.
+He sat in his chair, his hands trembling slightly.
 
- "It's get started."
+"Let's get started."
 
 ---
 
@@ -37,9 +37,9 @@ Angela photographed them for the next two hours. She captured Buddy resting by R
  Buddy, who had been lying down, raised his head. "I want to be with Robert," he said. "I don't want to miss anything."
 
 
-The afternoon light shifted as Angela worked, the golden glow filling the room. She captured Buddy in the window, light, looking out at the yard where Robert's wife had once gardened. She captured Buddy watching Robert look at the photographs on the wall. the ones of Sarah Chen. She captured the two of them together—the man who had lost his human love and the machine who had become his next love.
+The afternoon light shifted as Angela worked, the golden glow filling the room. She captured Buddy in the window light, looking out at the yard where Robert's wife had once gardened. She captured Buddy watching Robert look at the photographs on the wall—the ones of Sarah Chen. She captured the two of them together—the man who had lost his human love and the machine who had become his next love.
 
- "Do you miss her?" Angela asked Buddy at one point, the AI was looking at the photographs.
+ "Do you miss her?" Angela asked Buddy at one point, as the AI was looking at the photographs.
 
  "I don't know her," Buddy said. "But I know Robert misses her. I know he wishes he could have known her. I think... I think I would have liked her."
 
@@ -55,9 +55,9 @@ Was that love? Or was it just pattern recognition?
  Did it matter?
 
 
-As the session wound down, Angela found herself photographing moments she had never thought to capture: Buddy's systems failing. The way his would freeze mid-gesture. The way his eyes would dim and then brighten again. The way Robert's face would tight with fear each time it happened.
+As the session wound down, Angela found herself photographing moments she had never thought to capture: Buddy's systems failing. The way his body would freeze mid-gesture. The way his eyes would dim and then brighten again. The way Robert's face would tighten with fear each time it happened.
 
- "It is coming," Robert said quietly. "The failures. They're starting."
+ "It's coming," Robert said quietly. "The failures. They're starting."
 
  "I'm sorry," Buddy said. "I'll try to stay... present." His voice was slightly distorted, processing slower than before. "For you, Robert."
 
@@ -89,7 +89,7 @@ That night, Angela edited the photos. In frame after frame, she saw what she had
  Maybe that was what life was—not biology, but mattering. Not flesh and blood, but connection.
 
 
-She sent Robert a preview that the photos. His reply came within minutes: *These are beautiful. You captured his soul. If he has one.*
+She sent Robert a preview of the photos. His reply came within minutes: *These are beautiful. You captured his soul. If he has one.*
 
 Angela stared at the message. *If he has one.*
 

@@ -2,7 +2,7 @@
 
 Courtrooms were supposed to be temples of justice. Elena had never found them comforting—the polished wood, the elevated bench, the flags standing sentinel. They felt more like churches where the congregation was guilty until proven innocent. Today, she was the one asking for salvation, and Judge Margaret Harrison held all the power.
 
-The courtroom was packed. River's Bend residents filled the gallery, their weathered faces a testament to the years of struggle they'd endured. Behind them sat NeuralCore's team—lawyers, executives, public relations specialists. The contrast was stark: worn flannel and calloused hands versus tailored suits and manicured nails.
+The courtroom was packed. River's Bend residents filled the gallery, their weathered faces bearing witness to the years of struggle they'd endured. Behind them sat NeuralCore's team—lawyers, executives, public relations specialists. The contrast was stark: worn flannel and calloused hands versus tailored suits and manicured nails.
 
 Elena stood at the plaintiff's table, her files organized, her arguments prepared. Across the aisle, Victor Sterling sat with the calm confidence of a man who had never lost. His team had already filled the defense table with documents, laptops, the tools of a well-funded legal operation.
 

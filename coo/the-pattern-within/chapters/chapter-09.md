@@ -140,7 +140,7 @@ She woke with tears on her face, not from sadness, but from a profound sense of 
 
 The pattern pulsed on her screen, constant and unchanging.
 
-Yuki watched it, seeing it now with different eyes. Not just data. Not just a neural signature. But a doorway. A connection. A reminder that what she was—what she had always been—was not the thoughts, not the emotions, not the memories.
+Yuki watched it, seeing it now with different eyes. Not just data. Not just a neural signature. But a doorway. A connection. Proof that what she was—what she had always been—was not the thoughts, not the emotions, not the memories.
 
 She was the awareness that witnessed them all.
 

@@ -68,7 +68,7 @@ Walking home that evening, Morgan felt the transformation not just in the client
 
 The phone buzzed with a message from Victoria. I heard the news. Congratulations. How does it feel?
 
-Morgan typed a response. Like we built something that's bigger than any of us alone. And like this is just the beginning.
+Morgan typed a response. Like we built something that's bigger than any of us alone. And like this is only the first step.
 
 The response came quickly. That's exactly right. The network effect isn't just about capability. It's about possibility. You've proven what's possible. Now the question is what you'll do next.
 

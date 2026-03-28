@@ -1,4 +1,4 @@
-# Chapter 7: The Project - Innovation Pressure - Innovation Pressure - Innovation Pressure
+# Chapter 7: The Project - Innovation Pressure
 
 The innovation project landed on his desk the following Monday.
 

@@ -36,7 +36,7 @@ There was no time here. No cause and effect. No threads connecting him to anythi
 
 *This is what lies beyond,* he understood, though the understanding came without words. *This is where the threads end.*
 
-He experienced—or rather, existed within—moments that weren't moments. He saw lives unfolding, not as linear progressions but as complete patterns, each one a tapestry of cause and effect that he could observe from outside. He saw how every action rippled outward, how every choice created consequences that cascaded through time—and he saw, with perfect clarity, that he was not part of those patterns.
+He experienced—or rather, existed within—moments that weren't moments. He saw lives unfolding, not as linear progressions but as complete patterns, each one a complex web of cause and effect that he could observe from outside. He saw how every action rippled outward, how every choice created consequences that cascaded through time—and he saw, with perfect clarity, that he was not part of those patterns.
 
 He was the space between them. The void where the threads didn't reach.
 

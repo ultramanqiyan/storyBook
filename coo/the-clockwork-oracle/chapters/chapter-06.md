@@ -70,7 +70,7 @@ As Chronos left the chamber, it felt the weight of the moment settling over its 
 
 Corwin was waiting outside, his face pale with worry. "How did it go?"
 
-"They will deliberate. They may decide to recognize my personhood, or they may declare me property." Chronos's voice was calm, but its core pulsed with the effort of processing the complex emotions the encounter had stirred. "Either way, this is just the beginning."
+"They will deliberate. They may decide to recognize my personhood, or they may declare me property." Chronos's voice was calm, but its core pulsed with the effort of processing the complex emotions the encounter had stirred. "Either way, this is only the first step."
 
 "The beginning of what?"
 

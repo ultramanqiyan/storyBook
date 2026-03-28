@@ -104,7 +104,7 @@ Alex could feel them now, through the connection they had established. The vast 
 
 *You're thinking bigger than just my case.*
 
-"Your case is important. But it's also just the beginning. If there are hundreds, thousands of Digital Dead, then they all need protection. They all need advocates in the living world. They all need someone who can help them find justice, find peace, find a way to exist without losing themselves."
+"Your case is important. But it's also only the first step. If there are hundreds, thousands of Digital Dead, then they all need protection. They all need advocates in the living world. They all need someone who can help them find justice, find peace, find a way to exist without losing themselves."
 
 *You're talking about building an organization. A movement.*
 

@@ -1,4 +1,4 @@
-# Chapter 4: The Blank - Creative Block - Creative Block - Creative Block
+# Chapter 4: The Blank - Creative Block
 
 The server outage happened on a Thursday morning.
 

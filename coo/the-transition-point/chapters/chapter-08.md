@@ -116,7 +116,7 @@ The four guides looked at the four travelers, understanding passing between them
 
 The transition had happened. The emergence had begun. Consciousness on Earth had undergone a phase transition, moving from a state of separation to a state of connection, from isolation to unity, from fear to love.
 
-And this was just the beginning.
+And this was only the first step.
 
 ---
 

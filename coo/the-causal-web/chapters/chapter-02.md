@@ -16,7 +16,7 @@ His home office was a sanctuary of screens, each one a window into the accumulat
 
 He started with the basics: academic databases, Emergence Institute publications, technical papers on causal network theory. The search terms came easily—"zero causal weight," "anomaly cases," "causal network edge conditions"—but the results were sparse. A handful of mentions in footnotes. A redacted case study with most of the relevant data blacked out. A forum post from three years ago, quickly archived, asking questions that no one had answered.
 
-Marcus's fingers moved across his tablet, the warmth of the device building from overuse. He barely noticed. His coffee sat forgotten on the desk, gone cold and bitter, a testament to hours he'd lost to the search.
+Marcus's fingers moved across his tablet, the warmth of the device building from overuse. He barely noticed. His coffee sat forgotten on the desk, gone cold and bitter, evidence of hours he'd lost to the search.
 
 *There has to be something,* he thought, opening another database. *The Causal Network has been operational for five years. Someone must have documented this.*
 

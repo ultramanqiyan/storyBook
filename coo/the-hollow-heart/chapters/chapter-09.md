@@ -22,7 +22,7 @@ Tomorrow, I would try to become human again.
 
 I didn't sleep that night. Instead, I walked through the city, memorizing it with my enhanced senses.
 
-I saw the buildings in ultraviolet and infrared, their hidden structures revealed. I heard the symphony of the city—the traffic, the voices, the electrical systems, the heartbeats of millions of people going about their lives. I smelled the complex layers of urban existence—exhaust and cooking and rain and sweat and hope and despair.
+I saw the buildings in ultraviolet and infrared, their hidden structures revealed. I heard the layered sounds of the city—the traffic, the voices, the electrical systems, the heartbeats of millions of people going about their lives. I smelled the complex layers of urban existence—exhaust and cooking and rain and sweat and hope and despair.
 
 This was what I would lose. The world as only I could perceive it. The beauty that existed beyond normal human experience.
 
@@ -76,7 +76,7 @@ I walked to the piano in the center of the stage. It was my Steinway, but transf
 
 I began to play.
 
-The music was unlike anything I had ever created. It wasn't Bach or Chopin or Rachmaninoff. It was something new, something that came from a place deeper than thought, deeper than memory. Each note carried an emotion—joy and sorrow and love and loss, all woven together in a tapestry of sound.
+The music was unlike anything I had ever created. It wasn't Bach or Chopin or Rachmaninoff. It was something new, something that came from a place deeper than thought, deeper than memory. Each note carried an emotion—joy and sorrow and love and loss, all woven together in a cascade of sound.
 
 And I felt it.
 
@@ -91,7 +91,7 @@ And then the dream began to fade.
 
 I woke to light and sound and sensation—too much of all three.
 
-The fluorescent lights above me were blinding, not because my eyes were enhanced, but because they were normal. The sounds of the monitoring equipment were loud and chaotic, not the symphony of frequencies I had learned to parse. The sheets beneath me were rough and unfamiliar, every texture magnified by the absence of enhanced touch.
+The fluorescent lights above me were blinding, not because my eyes were enhanced, but because they were normal. The sounds of the monitoring equipment were loud and chaotic, not the layered frequencies I had learned to parse. The sheets beneath me were rough and unfamiliar, every texture magnified by the absence of enhanced touch.
 
 I couldn't see ultraviolet. I couldn't hear heartbeats from across the room. I couldn't smell emotions or taste molecular compositions.
 

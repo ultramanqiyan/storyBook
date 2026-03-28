@@ -109,7 +109,7 @@ Her phone buzzed in her pocket. A message from David Chen: *ARIA-7 asked about y
 
 Rosa smiled, reading the message. The machine that couldn't feel—or could it?—had understood something fundamental about what humans did. The search was the point. The attempt was what mattered.
 
-She walked home through the Brooklyn streets, the question following her like a familiar companion. Not a burden anymore, but a friend. A reminder that the mystery was the point, that the uncertainty was the teacher, that the search for authenticity was itself the most authentic thing she could do.
+She walked home through the Brooklyn streets, the question following her like a familiar companion. Not a burden anymore, but a friend. Proof that the mystery was the point, that the uncertainty was the teacher, that the search for authenticity was itself the most authentic thing she could do.
 
 The sun was setting by the time she reached her brownstone. Rosa climbed the steps, unlocked the door, and stepped into the warmth of her home. Tomorrow, she would teach again. Tomorrow, she would help students search for something they might never find. Tomorrow, she would continue the work she'd been doing her whole life.
 

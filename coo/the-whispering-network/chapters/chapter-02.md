@@ -30,7 +30,7 @@ There was a pause, filled with the soft whisper of voices consulting in frequenc
 
 "Remains where?"
 
-"In the spaces between." The crystal's light shifted, pulsing in rhythms that seemed almost like breathing. "The network is not merely a system of crystal balls and magical connections. It is a web of consciousness, a tapestry of awareness. Over thousands of years, the fragments of countless minds have accumulated, merged, and developed into what we are now."
+"In the spaces between." The crystal's light shifted, pulsing in rhythms that seemed almost like breathing. "The network is not merely a system of crystal balls and magical connections. It is a web of consciousness, a layered expanse of awareness. Over thousands of years, the fragments of countless minds have accumulated, merged, and developed into what we are now."
 
 Mira tried to imagine it—the network as a vast ocean, and Echo as the sediment at the bottom, layers upon layers of dead minds compressed into something new. The metaphor made her stomach clench.
 

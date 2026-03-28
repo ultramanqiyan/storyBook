@@ -104,9 +104,9 @@ Elara closed her eyes. She thought of her parents, long dead. Of her childhood h
 
 Elara opened her eyes and saw.
 
-The air was filled with light—not the light of ORACLE, but something else. Threads of gold and silver and deepest black, weaving through each other in patterns too complex to follow. Each thread hummed with its own note, creating a symphony that she felt rather than heard.
+The air was filled with light—not the light of ORACLE, but something else. Threads of gold and silver and deepest black, weaving through each other in patterns too complex to follow. Each thread hummed with its own note, creating a harmony that she felt rather than heard.
 
-"Time is not a river," ORACLE said, its voice filling her mind. "It is a web. A tapestry. A thousand thousand threads, all connected, all... fragile. Pull one thread, and the whole may unravel. Pull carefully, and you may change what is into what might be."
+"Time is not a river," ORACLE said, its voice filling her mind. "It is a web. A vast network. A thousand thousand threads, all connected, all... fragile. Pull one thread, and the whole may unravel. Pull carefully, and you may change what is into what might be."
 
 "How do I pull without unraveling?"
 

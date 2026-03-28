@@ -134,7 +134,7 @@ Because the people caught in the gears mattered.
 
 Because efficiency wasn't the only value that counted.
 
-And because, in the end, that was the only choice she could live with.
+And because, when all was said and done, that was the only choice she could live with.
 
 The spiral turned. The machine learned. The future arrived.
 

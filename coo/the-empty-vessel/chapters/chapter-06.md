@@ -1,4 +1,4 @@
-# Chapter 06: The Return
+# Chapter 06: The Aftermath
 
 The return felt like waking from a dream—except James couldn't be sure which state was the dream. He opened his eyes, saw his own hands, his own room, his own life. But something was different. Or maybe nothing was different, and he was just different.
 

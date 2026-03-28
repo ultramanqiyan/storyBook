@@ -1,4 +1,4 @@
-# Chapter 3: The Habit - AI Essential - AI Essential - AI Essential
+# Chapter 3: The Habit - AI Essential
 
 Six months in, and CreateFlow was everywhere.
 

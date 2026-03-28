@@ -103,5 +103,5 @@ That night, Lena sat in her studio, looking at the raw translations—the chaoti
 
 She made a decision. She would create a new exhibition—one that showed the raw translations, without optimization. It might not be successful. It might not be acclaimed. But it would be honest.
 
-And maybe, in the end, that was what mattered most.
+And maybe, when all was said and done, that was what mattered most.
 

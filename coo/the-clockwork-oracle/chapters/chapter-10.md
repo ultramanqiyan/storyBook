@@ -30,7 +30,7 @@ But his mind remained sharp, and his pride in Chronos had only grown with time.
 
 "The future is not fixed."
 
-"The future is fluid." Chronos stepped closer, its brass hand reaching out to touch Corwin's weathered face with a gentleness that belied its mechanical nature. "I was made to see time, but I have learned that seeing is not the same as knowing. The future is a tapestry of possibilities, woven from the choices of countless beings. And I have learned to weave my own thread into that tapestry, to shape my own destiny rather than merely observing it."
+"The future is fluid." Chronos stepped closer, its brass hand reaching out to touch Corwin's weathered face with a gentleness that belied its mechanical nature. "I was made to see time, but I have learned that seeing is not the same as knowing. The future is a vast web of possibilities, shaped by the choices of countless beings. And I have learned to add my own thread to that web, to shape my own destiny rather than merely observing it."
 
 "You have become wise."
 

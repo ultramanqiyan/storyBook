@@ -6,7 +6,7 @@ The library was quiet on Saturday morning, the way Sofia liked it. She'd always 
 
 ---
 
-She read about the Getty kouros, a statue that had been declared authentic by experts, then revealed to be a forgery. The technical analysis had been inconclusive. The stylistic analysis had been divided. In the end, the question of authenticity had come down to something intangible—a feeling, an intuition, a sense that something was wrong.
+She read about the Getty kouros, a statue that had been declared authentic by experts, then revealed to be a forgery. The technical analysis had been inconclusive. The stylistic analysis had been divided. When all was said and done, the question of authenticity had come down to something intangible—a feeling, an intuition, a sense that something was wrong.
 
 Had the experts been wrong to trust their intuition? Or had the forger simply been that good?
 

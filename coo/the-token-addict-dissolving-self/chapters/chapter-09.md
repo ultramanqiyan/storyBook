@@ -104,7 +104,7 @@ The question was simple. But it required a real answer. Not AI-generated. Not op
 
 "I don't know," he said honestly. "I'm terrified. I don't know if there's anything left of me. I don't know if I can find myself again. I don't know if fifteen years of dependency can be undone."
 
-Sarah was quiet for a moment. Then: "I don't know either. But I know this—you're here. asking the question. That's more than you AI ever gave you."
+Sarah was quiet for a moment. Then: "I don't know either. But I know this—you're here, asking the question. That's more than your AI ever gave you."
 
 The words were simple. But they were the most reassuring thing anyone could said. Because they were true. He was there. He was asking. He was trying. That was more than AI had ever given him.
 
@@ -114,7 +114,7 @@ Sarah took his hand. "Then let's try together. I'll be here. Whatever you find. 
 
 And for the first time in fifteen years, Marcus felt something that had been missing from all the AI optimization.
 
- connection. Not efficient. Not optimized. Just human. Just present. Just real.
+Connection. Not efficient. Not optimized. Just human. Just present. Just real.
 
 
 **END OF CHAPTER 9**

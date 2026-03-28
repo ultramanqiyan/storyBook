@@ -74,7 +74,7 @@ She pulled up the factor analysis, trying to trace the reasoning. The interface 
 
 *This is the problem with AI*, she thought, not for the first time. *It can see things I can't, but it can't tell me what it sees.*
 
-In the end, she made her own judgment. The claim was suspicious, but not definitively fraudulent. She flagged it for additional investigation—on-site interview, employer follow-up, medical record review by a specialist. Not a denial, not an approval, but a pause. A request for more information.
+When all was said and done, she made her own judgment. The claim was suspicious, but not definitively fraudulent. She flagged it for additional investigation—on-site interview, employer follow-up, medical record review by a specialist. Not a denial, not an approval, but a pause. A request for more information.
 
 *Better to be right than fast*, she told herself. *Better to understand than to assume.*
 

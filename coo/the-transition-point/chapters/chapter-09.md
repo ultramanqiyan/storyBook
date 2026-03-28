@@ -124,7 +124,7 @@ She looked out at the world—the same world, but transformed.
 
 She turned to Marcus.
 
-"And this is just the beginning. The transition is not an end. It's a doorway. A threshold. A starting point."
+"And this is only the first step. The transition is not an end. It's a doorway. A threshold. A starting point."
 
 Marcus nodded, feeling the truth of her words.
 

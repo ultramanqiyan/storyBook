@@ -112,7 +112,7 @@ The technician was saying something, her voice distant, but Marcus couldn't proc
 
 ---
 
-The corridor stretched before him, white and endless, and Marcus walked without seeing. His footsteps echoed too loudly, each one a reminder that he was here, he was real, he existed. But the number followed him, burned into his vision: zero.
+The corridor stretched before him, white and endless, and Marcus walked without seeing. His footsteps echoed too loudly, each one confirming that he was here, he was real, he existed. But the number followed him, burned into his vision: zero.
 
 He passed researchers in white coats, their conversations a blur of technical terms and casual laughter. They moved through the world with the certainty of people who belonged, whose actions created ripples, whose lives had weight. Marcus moved among them like a ghost, present but not present, real but not connected.
 

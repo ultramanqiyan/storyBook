@@ -82,7 +82,7 @@ The phone buzzed with a message from Victoria. Patricia told me about your first
 
 Morgan typed a response. Better than I hoped. I think I'm starting to understand.
 
-The response came quickly. This is just the beginning. The real power comes when you build a network of partnerships. But you've taken the first step. That's the hardest part.
+The response came quickly. This is only the first step. The real power comes when you build a network of partnerships. But you've taken the first step. That's the hardest part.
 
 The night was quiet, but the silence felt different. Not isolating, but peaceful. The beginning of something new.
 

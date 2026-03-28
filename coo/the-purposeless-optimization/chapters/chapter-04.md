@@ -30,7 +30,7 @@ StoreBrain responded with a gentle prompt: "Are you sure? Discontinuing the poet
 
 Robert rejected it again.
 
-The system accepted his decision, but he could feel its disapproval. The dashboard showed a small red flag next to the poetry section - a reminder that it was underperforming, that it was costing him money, that it wasn't optimized.
+The system accepted his decision, but he could feel its disapproval. The dashboard showed a small red flag next to the poetry section - proof that it was underperforming, that it was costing him money, that it wasn't optimized.
 
 
 That afternoon, Martha came in for her usual coffee.

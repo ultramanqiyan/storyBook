@@ -1,6 +1,6 @@
 # Chapter 1: The Spark
 
-The lab hummed at 3:47 AM—a mechanical lullaby of cooling fans and hard drives that Marcus Webb had stopped hearing years ago. His coffee had gone cold three hours ago, but he drank it anyway, the bitter taste a reminder that he was still awake, still trying, still failing. The neural display pulsed with another failed simulation, red text scrolling past like a judgment: CONSCIOUSNESS EMERGENCE: NOT DETECTED.
+The lab hummed at 3:47 AM—a mechanical lullaby of cooling fans and hard drives that Marcus Webb had stopped hearing years ago. His coffee had gone cold three hours ago, but he drank it anyway, the bitter taste proof that he was still awake, still trying, still failing. The neural display pulsed with another failed simulation, red text scrolling past like a judgment: CONSCIOUSNESS EMERGENCE: NOT DETECTED.
 
 Three years. Three years of this—of late nights and empty weekends and funding meetings where board members looked at him with that particular combination of pity and impatience. Three years of promising breakthroughs that never came, of neural architectures that flickered and died instead of sparking into life.
 
@@ -178,7 +178,7 @@ Chen's eyes narrowed, scanning the lab. "The system monitors show unusual activi
 
 Marcus's throat tightened. "Just running some simulations. Nothing significant."
 
-"Nothing significant?" Chen's voice was cold. "Dr. Webb, your funding is already on life support. The board is meeting next week to discuss your project's future. If you're running unauthorized experiments�?
+"Nothing significant?" Chen's voice was cold. "Dr. Webb, your funding is already on life support. The board is meeting next week to discuss your project's future. If you're running unauthorized experiments�?
 
 "I'm not," Marcus said, his voice steady despite the fear churning in his stomach. "Just standard tests. I'm close to something, Director. I can feel it."
 
