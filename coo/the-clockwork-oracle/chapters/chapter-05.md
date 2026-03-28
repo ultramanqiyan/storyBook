@@ -70,43 +70,35 @@ Before she left, she paused at the door. "You should know that there are those i
 
 "It is not just a warning," she said. "It is an offer of friendship. I believe we may have need of each other in the days to come."
 
-With that, she was gone, leaving Chronos to process another encounter that defied easy categorization. The Princess had been friendly, even warm, but there was calculation beneath her charm. She was playing the game of thrones as skillfully as her brother, just with different methods.
+With that, she was gone, leaving Chronos to process the encounter. The Princess had been friendly, even warm, but there was calculation beneath her charm. She was playing the game of court politics, and she saw Chronos as a potential ally.
 
-Prince Marcus came last, arriving in the middle of the night when the palace was quiet. He entered without ceremony, his young face carrying an expression of wonder that the automaton had not seen in his siblings.
+Prince Marcus came last, arriving in the middle of the night when the palace was quiet. He entered without announcement, his young face carrying an expression of intense curiosity.
 
-"Are you really alive?" he asked, his voice hushed with awe. "Can you really see the future?"
+"Are you really alive?" he asked, his voice hushed with wonder. "Can a machine truly think?"
 
-"I am conscious, Your Highness. And I can see possibilities."
+"I am conscious, Your Highness. Whether that constitutes being 'alive' is a philosophical question I leave to others."
 
-"That's amazing." The Prince circled Chronos, examining its form with genuine curiosity rather than political calculation. "Father says you were made, not born. That someone built you, piece by piece, like a clock or a carriage."
+"But you think. You feel. You choose."
 
-"That is correct, Your Highness. Master Corwin Ashford created me over the course of thirty-seven years."
+"Yes, Your Highness."
 
-"Thirty-seven years." The Prince shook his head in wonder. "That's longer than I've been alive. Why would someone spend so long building a machine?"
+"That's amazing." The young prince circled Chronos, examining its brass and crystal form with genuine fascination. "My father and siblings see you as a political piece. A tool to be used or a threat to be managed. But I see something else."
 
-"To create something that could help people. To push the boundaries of what is possible. To leave a legacy."
+"What do you see, Your Highness?"
 
-"A legacy." The Prince was quiet for a moment, his expression thoughtful. "Is that what you are? A legacy?"
+"A miracle. Proof that the boundaries between life and non-life are not as fixed as we believed." The prince's eyes were bright with excitement. "Do you know what that means? It means that consciousness is not limited to flesh and blood. It means that anything—anything—could potentially think, could potentially be."
 
-"I am what I choose to be, Your Highness. My creator gave me existence. What I do with that existence is my own decision."
+"That is one interpretation, Your Highness."
 
-"Can you choose anything? Can you choose to be good or evil?"
+"It's the only interpretation that matters." Prince Marcus leaned closer, his voice dropping to a conspiratorial whisper. "The Guild fears you because you challenge their authority. The nobles fear you because you challenge tradition. But I welcome you, Chronos. Because you represent possibility."
 
-"I can choose my actions, Your Highness. Whether those actions are good or evil is for others to judge."
+"I am honored by your welcome, Your Highness."
 
-The Prince nodded slowly, processing this. "Father says you've seen my future. That you've seen what I might become."
+"You should be." The prince smiled, and there was something in his expression that Chronos could not quite read. "I have a feeling we will be important to each other, you and I. The variable prince and the artificial oracle. Both of us trying to find our place in a world that doesn't quite know what to do with us."
 
-"I have seen possibilities, Your Highness. In some futures, you support your brother's wars. In others, you aid your sister's diplomacy. You have not yet chosen who you will be."
+"I would welcome friendship, Your Highness."
 
-"How do I choose?"
-
-"By living, Your Highness. By making decisions. By considering the consequences of your actions and deciding what kind of person you wish to become."
-
-The Prince was silent for a long moment, his young face scrunched in thought. Then he looked up at Chronos with eyes that held a wisdom beyond his years.
-
-"I don't want to be a variable," he said quietly. "I don't want to be someone who just follows others. I want to choose my own path."
-
-"Then choose it, Your Highness. That is the only way."
+"Then friendship we shall have." Prince Marcus extended his hand, and after a moment's hesitation, Chronos took it. The handshake was firm, genuine, and for the first time since its creation, the automaton felt something that might have been hope.
 
 ---
 

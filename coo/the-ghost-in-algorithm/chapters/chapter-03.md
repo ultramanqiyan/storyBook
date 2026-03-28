@@ -48,6 +48,22 @@ Marcus stared at the screen, his mind racing through possibilities. This could b
 
 "How can I verify this?"
 
+Elena's response appeared on the screen, steady and certain:
+
+*Ask me something only Elena Vasquez would know. Something not in any file, any record, any database. Something personal.*
+
+Marcus Webb studied the screen, his detective's mind working through possibilities. He had interviewed Elena's colleagues, reviewed her case file, learned everything he could about the dead woman. Now he needed to test whether this was real or an elaborate deception.
+
+"Where were you on the night of October 15th, three years ago?"
+
+*At my mother's house. She had just been diagnosed with cancer. I drove four hours to see her, arrived at midnight, and sat with her until dawn. I never told anyone—not my colleagues, not the police during the investigation, not anyone. It was the last time I saw her alive.*
+
+Marcus nodded slowly. He had checked Elena's records during the investigation—there was no documentation of that trip, no gas station receipts, no highway camera footage. But the detail was too specific, too intimate, to be a lucky guess.
+
+"Okay," he said finally. "I believe you."
+
+The three of them—detective, programmer, and digital ghost—sat in the abandoned warehouse as dawn began to lighten the sky. They had a case to build. A murder to prove. And a world to convince that the dead could still speak.
+
 ---
 
 **Chapter 3 Complete**

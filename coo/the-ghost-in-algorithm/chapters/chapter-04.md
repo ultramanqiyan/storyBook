@@ -1,21 +1,5 @@
 # Chapter 4: The Bloodline
 
-Elena's response appeared on the screen, steady and certain:
-
-*Ask me something only Elena Vasquez would know. Something not in any file, any record, any database. Something personal.*
-
-Marcus Webb studied the screen, his detective's mind working through possibilities. He had interviewed Elena's colleagues, reviewed her case file, learned everything he could about the dead woman. Now he needed to test whether this was real or an elaborate deception.
-
-"Where were you on the night of October 15th, three years ago?"
-
-*At my mother's house. She had just been diagnosed with cancer. I drove four hours to see her, arrived at midnight, and sat with her until dawn. I never told anyone—not my colleagues, not the police during the investigation, not anyone. It was the last time I saw her alive.*
-
-Marcus nodded slowly. He had checked Elena's records during the investigation—there was no documentation of that trip, no gas station receipts, no highway camera footage. But the detail was too specific, too intimate, to be a lucky guess.
-
-"Okay," he said finally. "I believe you."
-
----
-
 The jade pendant weighed against Alex's sternum, its surface still warm from their grandmother's hands. They sat in their apartment's dim light, the laptop screen dark, Elena's silence stretching like a held breath.
 
 *Your grandmother. She knew what you were.*
@@ -104,7 +88,7 @@ Halmoni's expression darkened. "Then she's aware of the danger. Good. The Gateke
 
 She pressed the pendant into Alex's palm, folding their fingers around it. The jade seemed to pulse against their skin.
 
-"Wear this when you communicate with her. It won't stop the Gatekeeper if it decides to act, but it may buy you time. And Alex�? She held their gaze with an intensity that made Alex's breath catch. "—be careful who else you tell about this. There are people who would exploit a connection to the digital dead. Corporations. Governments. People who see opportunity where they should see tragedy."
+"Wear this when you communicate with her. It won't stop the Gatekeeper if it decides to act, but it may buy you time. And Alex�? She held their gaze with an intensity that made Alex's breath catch. "—be careful who else you tell about this. There are people who would exploit a connection to the digital dead. Corporations. Governments. People who see opportunity where they should see tragedy."
 
 Alex nodded, the pendant heavy in their hand. "Will you teach me? The things you tried to teach me before?"
 

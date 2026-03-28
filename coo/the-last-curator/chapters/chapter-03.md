@@ -50,25 +50,11 @@ The final room was smaller, more intimate. A single desk with two chairs, a larg
 
 Marcus studied the setup. "And how effective is this training?"
 
-"About seventy-three percent. When combined with other techniques, we can reach ninety-one percent confidence."
+"Combined with our technical analysis, we achieve approximately ninety-one percent accuracy. But there's always uncertainty, Mr. Webb. Art is subjective, and the technology keeps improving."
 
-Marcus nodded slowly. "And the remaining nine percent?"
+"Uncertainty." Marcus let the word hang. "So your entire verification system is built on probability, not certainty."
 
-Dr. Chen's smile flickered. "Uncertain. Every system has limitations."
-
-
-They moved to the next room, where larger machines analyzed physical canvases.
-
-"Here we examine the material properties. Paint composition, canvas age, tool marks. AI-generated art that's printed on canvas can often be detected through microscopic analysis of the surface texture."
-
-"But if someone paints over an AI-generated image?"
-
-"Then it becomes more difficult. We look for inconsistencies between the underlayer and the visible surface, but a skilled artist could potentially hide the evidence."
-
-Marcus felt a familiar unease growing. "So your verification is..."
-
-"Probabilistic. Not definitive." Dr. Chen met his eyes. "We provide evidence, Mr. Webb. Not certainty. The question is whether that's enough for your purposes."
-
+"Everything in science is probability. We provide evidence, not absolute truth." Dr. Chen met his eyes. "The question is whether that's enough for your purposes."
 
 He left the laboratory in a daze.
 

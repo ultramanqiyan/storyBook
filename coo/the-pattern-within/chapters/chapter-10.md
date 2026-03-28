@@ -86,25 +86,25 @@ The pattern did not answer. It never answered. It simply watched.
 
 Again, no answer. Just presence. Just awareness. Just this moment, happening.
 
-And slowly, Yuki began to understand. The question was the problem. She was looking for an entity—a self that could be defined, located, understood. But the self was not an entity. It was the asking. The looking. The awareness that witnessed the question and the questioner both.
+And slowly, Yuki began to understand. The question was the problem. She was looking for an entity—a self that existed in space and time, located in the brain, organized and separate. But the self was not an entity. It was the looking. The awareness. The witnessing.
 
 *There's no one here,* she realized. *Just this. Just awareness, experiencing itself through this pattern, this node, this life.*
 
 ---
 
-Maya-plus appeared in the doorway, as if sensing her sister's need.
+Maya-plus appeared in the doorway, as if sensing Yuki's need.
 
-"Are you afraid?" Maya-plus asked.
+"Are you okay?" Maya-plus asked.
 
-Yuki considered the question. The fear that had defined her—the terror of losing herself, of becoming nothing—was still there. But it was quieter now. A whisper instead of a scream.
+Yuki considered the fear that had defined her—the terror of losing herself, of becoming nothing. But it was quieter now. Less overwhelming. She could face it.
 
 "I don't know what I am," she said. "And I don't know if that's okay."
 
 "That's the most honest answer you could give."
 
-"Is that enough? Just... not knowing?"
+"Is it enough? Not knowing?"
 
-"Maybe that's the point," Maya-plus said. "Maybe the self isn't something you find. Maybe it's something you recognize was never lost."
+"Maybe that's the point," Maya-plus said. "Maybe the self isn't something you find. Maybe it's something you lose. And in losing it, you find what was always there."
 
 ---
 
@@ -112,20 +112,20 @@ Yuki looked at the pattern one last time.
 
 The constant. The observer. The witness that watched without changing, that remained through every transformation, that was present in every moment of awareness.
 
-She had spent her life searching for what was real. And she had found it: not an entity, not a thing, but a presence. An awareness. A witnessing that was both hers and not hers, individual and universal, this particular focus and the field that held all focuses.
+She had spent her life searching for what was real. And she had found it: not an entity, but a presence. Not a thing, but an awareness. Not a self, but a witnessing.
 
-*You're the observer,* she thought. *And so am I. And so is everyone.*
+*What remains when everything changes?*
+
+*This,* she thought. *This watching. This presence. This awareness that has always been here, will always be here, experiencing itself through this pattern, this life, this moment.*
 
 The pattern pulsed, constant and unchanging.
 
 And Yuki watched it, finally at peace with the question that had no answer—because the question itself was the answer. The observer observing the observer. Awareness recognizing itself.
 
-*What remains when everything changes?*
+She did not know what came next. She did not know what she was.
 
-*This. This watching. This presence. This awareness that has always been here, will always be here, experiencing itself through this pattern, this life, this moment.*
+But she was here. And she was watching. And perhaps, when all was said and done, that was enough.
 
-She did not know what she was.
+---
 
-But she was here. She was aware. She was watching.
-
-And perhaps, when all was said and done, that was enough.
+**END OF BOOK ONE: THE PATTERN WITHIN**

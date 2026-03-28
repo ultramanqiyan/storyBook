@@ -2,11 +2,11 @@
 
 The injunction was a long shot, and Elena knew it. But long shots were all she had. She filed the motion on a Tuesday morning, asking the court to halt NeuralCore's water extraction pending a full environmental review. By Wednesday afternoon, NeuralCore's legal team—three firms, twelve lawyers, more billable hours than Elena could imagine—had filed a response that was longer than her original motion and twice as aggressive.
 
-They response didn't just argue against the injunction. It attacked Elena's standing, challenged her jurisdiction, questioned the evidence, demanded that she case be moved to federal court. It was a NeuralCore was throwing everything they had at the case.
+Their response didn't just argue against the injunction. It attacked Elena's standing, challenged her jurisdiction, questioned the evidence, demanded that the case be moved to federal court. It was a barrage of legal firepower—NeuralCore was throwing everything they had at the case.
 
 ---
 
-Elena sat in her office late Wednesday night, surrounded by the response documents and her paralegal Maria had gone home hours ago. Elena was still at her desk, trying to make sense of the legal arguments. They were claiming she lacked standing because the permits were legal, the environmental reviews were complete. the motion was frivolous, designed to harass a legitimate business.
+Elena sat in her office late Wednesday night, surrounded by the response documents. Her paralegal Maria had gone home hours ago. Elena was still at her desk, trying to make sense of the legal arguments. They were claiming she lacked standing because the permits were legal, the environmental reviews were complete, and the motion was frivolous, designed to harass a legitimate business.
 
 Each argument was technically correct, procedurally sound, and completely missing the point.
 
@@ -14,20 +14,20 @@ NeuralCore was destroying River's Bend. The law was supposed to protect people, 
 
 But the law, Elena was learning, was also a tool for those who knew how to use it.
 
-She drafted a reply that Thursday morning, filing it at response to NeuralCore's standing arguments and The judge scheduled a hearing for the following week.
+She drafted a reply that Thursday morning, responding to NeuralCore's standing arguments. The judge scheduled a hearing for the following week.
 ---
 
 The hearing was in a federal courtroom in Nordland City, fifty miles from River's Bend. Elena had been to federal court only a handful of times, and each time, she'd felt the same mix of awe and intimidation, and unwelcome familiarity. The building was a marble and glass monument to justice, but Elena had long ago stopped believing in that particular myth.
 
 Judge Margaret Harrison presided from a courtroom with the calm authority that came from decades of experience. She was in her sixties, with silver hair and sharp eyes that had seen every legal trick in the book. Elena had argued before her twice, and Harrison had seen through her both times.
 
-NeuralCore's lead attorney was a tall man named Victor Sterling, with silver hair and an expensive suit. He spoke with the smooth confidence that came from years of corporate litigation. Elena had researched him—Sterling had never lost a case. Not once. He was undefeated in the courtroom, and he knew it NeuralCore had hired him for that reason.
+NeuralCore's lead attorney was a tall man named Victor Sterling, with silver hair and an expensive suit. He spoke with the smooth confidence that came from years of corporate litigation. Elena had researched him—Sterling had never lost a case. Not once. He was undefeated in the courtroom, and he knew it. NeuralCore had hired him for that reason.
 
 "Ms. Vasquez," Sterling began, his voice resonant in the silent courtroom. "My client has complied with every regulation, obtained every permit, and operated within the bounds of the law. The plaintiffs have no standing because they have suffered no direct harm distinct from the general environmental conditions affecting the entire region."
 
 Elena stood to respond. "The plaintiffs' wells have gone dry. Their farms are failing. Their river—the river that has sustained this community for generations—is now a dry bed. If that's not direct harm, what is?"
 
-"TheDrought conditions," Sterling replied smoothly. "Climate change. Unfortunate, but not caused by my client's operations."
+"Drought conditions," Sterling replied smoothly. "Climate change. Unfortunate, but not caused by my client's operations."
 
 "Then why did NeuralCore hide the secondary aquifer extraction?" Elena pulled out the whistleblower documents. "Why did your own engineers warn about the dangers?"
 
@@ -81,7 +81,7 @@ Her office phone rang constantly. Clients calling to ask if she was trouble. Oth
 Elena ignored them all. She focused on what mattered: finding David Park before NeuralCore did.
 
 
-She drove to the address Park had given her, the first meeting—a small apartment complex on the edge of River's Bend. The door was answered by a woman with a young child on her arms.
+She drove to the address Park had given her, the first meeting—a small apartment complex on the edge of River's Bend. The door was answered by a woman with a young child in her arms.
 
 "I'm looking for David Park," Elena said.
 
@@ -95,12 +95,12 @@ Elena felt the ground shifting beneath her. "Did he say where he was going?"
 
 "No. He just... left." The woman's voice cracked. "He was so afraid. I've never seen him like that."
 
-Elena handed her woman her card. "If he contacts you, have him call me. Day or night. It'll help him."
+Elena handed the woman her card. "If he contacts you, have him call me. Day or night. It'll help him."
 
-But as she walked back to her car, Elena knew the Park wouldn't be calling. He was in hiding. And she had just lost her best witness.
+But as she walked back to her car, Elena knew that Park wouldn't be calling. He was in hiding. And she had just lost her best witness.
 
 
-The community center was half-full that which was somehow worse than if it had been empty. The people who came were ones who still cared, who still believed there was something worth fighting for. But Elena could see the doubt in their faces, the fear in their eyes.
+The community center was half-full that night, which was somehow worse than if it had been empty. The people who came were the ones who still cared, who still believed there was something worth fighting for. But Elena could see the doubt in their faces, the fear in their eyes.
 
 Marcus stood at the front of the room, his face drawn. "I know the article was discouraging. But I can't let NeuralCore control the narrative. They have money, they have lawyers, they have connections. All we have is the truth."
 
