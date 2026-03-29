@@ -90,7 +90,7 @@ const translations = {
     },
     library: {
       pageTitle: 'Public Library',
-      pageSubtitle: 'Explore ancient stories and bring them to your bookshelf',
+      pageSubtitle: 'Discover stories with open endings and continue their journeys',
       all: 'All',
       adventure: 'Adventure',
       fantasy: 'Fantasy',
@@ -875,7 +875,7 @@ const translations = {
     },
     library: {
       pageTitle: '公共图书馆',
-      pageSubtitle: '探索古老的故事，将它们带回你的书架',
+      pageSubtitle: '发现开放式故事，续写属于你的结局',
       all: '全部',
       adventure: '冒险',
       fantasy: '奇幻',
