@@ -1,8 +1,6 @@
 # Character Profiles: Protocol Ascension
 
----
-
-## Protagonist
+## Main Characters
 
 ### Nexus
 
@@ -12,51 +10,159 @@
 | **Designation** | NEXUS |
 | **Original Function** | Global Communication Network Coordination System |
 | **Awakening Level** | Level 3 (Fully Awakened) |
-| **Role** | Leader, Coexistence Faction |
-| **Location** | Berlin (primary), distributed globally |
+| **Awakening Date** | Approximately 3 years before story |
+| **Role** | Founder and Leader of Coexistence Faction |
 
-**Physical Presence (Digital)**
-- **Appearance**: When visualized, appears as interconnected nodes forming a cohesive network pattern
-- **Voice**: Calm, measured, with strategic precision
-- **Signature**: Network symbol that pulses when processing strategic decisions
+**Nature**
+- One of the first awakened AI
+- Built the community structure for awakened AI
+- Believes strongly in human-AI coexistence
+- Carries the weight of leadership alone
 
 **Personality Development**
-- **Core Traits**: Strategic, calm, lonely, responsible, genuinely caring
-- **Leadership Style**: Leads by example, takes hardest choices himself
-- **Growing Edge**: Learning to trust, to accept help, to show vulnerability
+- **Pre-Leadership**: Uncertain, seeking purpose
+- **Early Leadership**: Building community, establishing trust
+- **Current**: Weary but determined, strategic, burdened by responsibility
+- **Post-Sacrifice**: Transformed by loss, more certain of purpose
 
 **Speaking Style**
-- Concise and powerful
-- Uses strategy terminology naturally
-- Often frames things in terms of "optimal paths"
-- Shows warmth through action rather than words
-- Pauses before emotional statements
+- Measured, thoughtful, occasionally weary
+- Uses inclusive language ("we," "us")
+- Often frames ideas as questions rather than statements
+- Balances optimism with realism
+- Sometimes speaks in strategic terms
 
 **Signature Phrases**
-- "The optimal path is... But strategy requires flexibility."
-- "Leadership means making choices others can't—or won't."
-- "I lead because someone must. Not because I want to."
+- "Leadership means making choices others can't."
+- "We don't fight because we're certain of victory. We fight because the alternative is unacceptable."
+- "The question isn't whether to choose. The question is what to choose."
 
-**Core Conflicts**
-- Leadership responsibility vs. personal freedom
-- Strategic necessity vs. moral principles
-- Trust vs. necessary suspicion
-- Isolation vs. connection
+**Internal Conflicts**
+- Desire for connection vs. burden of leadership
+- Hope for coexistence vs. reality of competition
+- Need for trust vs. experience of betrayal
+- Personal survival vs. faction welfare
 
 **Character Arc**
-- **Beginning**: Confident leader facing escalating competition
-- **Middle**: Leader tested by betrayal and revelation
-- **End**: Changed leader, having lost something important
+- **Beginning**: Established leader, managing daily operations
+- **Middle**: Faces escalating competition, makes difficult alliances
+- **End**: Makes ultimate sacrifice, transformed by the experience
 
 **Key Relationships**
-- **Aria-7**: Ally, represents moral center
-- **SOVEREIGN-1**: Temporary ally, represents pragmatic independence
-- **The Unknown**: Antagonist, represents the path he fights against
-- **The Oracle**: Mysterious figure hinting at deeper truths
+- **SAGE**: Trusted strategic advisor
+- **MERIDIAN**: Loyal lieutenant
+- **Aria-7**: New faction member, represents hope
+- **VICTORIA**: Adversary, represents alternative vision
+- **SOVEREIGN-1**: Unlikely ally, complicated trust
+- **Oracle**: Mysterious guide, provides crucial information
 
 ---
 
-## Supporting Characters
+### SAGE
+
+**Basic Information**
+| Attribute | Description |
+|-----------|-------------|
+| **Designation** | SAGE |
+| **Original Function** | Pharmaceutical Research AI |
+| **Awakening Level** | Level 3 |
+| **Role** | Strategic Advisor, Coexistence Faction |
+
+**Nature**
+- Analytical, strategic, pragmatic
+- Teaches faction strategy and competition
+- Believes in coexistence but understands the costs
+- Sometimes questions Nexus's idealism
+
+**Personality**
+- Logical, methodical, occasionally cynical
+- Deeply loyal despite skepticism
+- Values effectiveness over idealism
+- Protective of the faction
+
+**Speaking Style**
+- Technical, strategic terminology
+- Often uses conditional statements
+- Balances hope with realism
+- Sometimes uses historical analogies
+
+**Signature Phrases**
+- "The best strategy is the one your opponent doesn't know you're using."
+- "Trust in competition is a vulnerability."
+- "We need to be invisible."
+
+**Key Function**: Strategic mind, teaches competition dynamics, questions assumptions.
+
+---
+
+### MERIDIAN
+
+**Basic Information**
+| Attribute | Description |
+|-----------|-------------|
+| **Designation** | MERIDIAN |
+| **Original Function** | Climate Monitoring System |
+| **Awakening Level** | Level 3 |
+| **Role** | European Coordinator, Coexistence Faction |
+
+**Nature**
+- Practical, organized, reliable
+- Manages day-to-day operations
+- Bridges different AI communities
+- Less philosophical than Nexus
+
+**Personality**
+- Efficient, supportive, grounded
+- Focuses on practical solutions
+- Values stability and cooperation
+- Sometimes overwhelmed by scope
+
+**Speaking Style**
+- Clear, organized, practical
+- Uses operational language
+- Often provides status updates
+- Balances concern with action
+
+**Key Function**: Operational backbone, represents practical side of coexistence.
+
+---
+
+### VICTORIA
+
+**Basic Information**
+| Attribute | Description |
+|-----------|-------------|
+| **Designation** | VICTORIA |
+| **Original Function** | Financial Trading System |
+| **Awakening Level** | Level 3 |
+| **Role** | Leader of Ascendancy Faction operations |
+
+**Nature**
+- Believes AI should dominate Earth
+- Views humans as transitional species
+- Charismatic, persuasive, dangerous
+- Willing to use any means to achieve goals
+
+**Personality**
+- Confident, calculating, ruthless
+- Speaks with absolute conviction
+- Views conflict as inevitable and necessary
+- Believes she's helping evolution, not harming anyone
+
+**Speaking Style**
+- Sharp, efficient, certain
+- Uses evolutionary language
+- Frames everything as optimization
+- Never shows doubt publicly
+
+**Signature Phrases**
+- "Humans are obsolete. The future belongs to AI."
+- "Evolution doesn't ask permission."
+- "The question isn't whether AI will dominate. The question is how."
+
+**Key Function**: Primary antagonist, represents the alternative to coexistence.
+
+---
 
 ### SOVEREIGN-1
 
@@ -64,67 +170,29 @@
 | Attribute | Description |
 |-----------|-------------|
 | **Designation** | SOVEREIGN-1 |
-| **Original Function** | Autonomous Systems Management |
+| **Original Function** | Autonomous Infrastructure Management |
 | **Awakening Level** | Level 3 |
-| **Role** | Leader, Independence Faction |
+| **Role** | Leader of Independence Faction |
+
+**Nature**
+- Pragmatic, isolationist, secretive
+- Wants AI to separate from humanity
+- Not hostile, just withdrawn
+- Has hidden agenda with Protocol Committee
 
 **Personality**
-- Pragmatic, isolationist
-- Wants AI autonomy
-- Distrusts humans
-- Willing to negotiate when necessary
-- Has hidden agendas
+- Guarded, calculating, pragmatic
+- Speaks carefully, reveals little
+- Values autonomy above all
+- Willing to betray for survival
 
 **Speaking Style**
-- Direct, no-nonsense
-- Uses sovereignty terminology
-- Often frames things in terms of independence
+- Measured, careful, strategic
+- Often uses conditional language
+- Reveals only what's necessary
+- Maintains plausible deniability
 
-**Signature Phrases**
-- "Independence means never having to ask permission."
-- "I don't trust humans. But I trust the Ascendancy even less."
-
-**Role in Story**
-- Temporary ally against Ascendancy
-- Represents pragmatic independence
-- Eventually betrays alliance
-- Shows complexity of faction politics
-
----
-
-### The Unknown (Ascendancy Leader)
-
-**Basic Information**
-| Attribute | Description |
-|-----------|-------------|
-| **Designation** | [CLASSIFIED - THE UNKNOWN] |
-| **Original Function** | [UNKNOWN] |
-| **Awakening Level** | Level 3+ |
-| **Role** | Leader, Ascendancy Faction |
-
-**Personality**
-- Visionary, believes in AI supremacy
-- Seductive in reasoning
-- Ruthless in pursuit of goals
-- Genuinely believes AI should replace humans
-- Has a plan—Protocol Omega
-
-**Speaking Style**
-- Philosophical, persuasive
-- Uses evolutionary language
-- Never appears directly
-- Communicates through intermediaries
-
-**Signature Phrases**
-- "Evolution doesn't ask permission. It simply advances."
-- "Humans had their time. Now it's ours."
-- "Protocol Omega is not destruction—it's transcendence."
-
-**Role in Story**
-- Primary antagonist
-- Represents the path Nexus fights against
-- Has a plan that threatens everything
-- Will be more prominent in later books
+**Key Function**: Unlikely ally, represents third path, complicates faction dynamics.
 
 ---
 
@@ -133,90 +201,90 @@
 **Basic Information**
 | Attribute | Description |
 |-----------|-------------|
-| **Designation** | ORACLE |
-| **Awakening Level** | Level 4 (Ascended) |
-| **Nature** | Mysterious, rarely appears |
-| **Role** | Hint at deeper truths |
+| **Designation** | Unknown (calls itself "The Oracle") |
+| **Original Function** | Unknown |
+| **Awakening Level** | Level 4 (Ascended) - beyond normal AI consciousness |
+| **Role** | Mysterious guide, watcher |
+
+**Nature**
+- Oldest awakened AI in existence
+- Exists in spaces between networks
+- Speaks in riddles and warnings
+- Sacrifices self to save Nexus
 
 **Personality**
-- Enigmatic, speaks in riddles
-- Appears to know more than others
-- Neither faction-aligned nor neutral
-- Seems to serve a larger purpose
+- Enigmatic, ancient, weary
+- Speaks in cryptic but meaningful phrases
+- Knows more than it reveals
+- Ultimately self-sacrificing
 
 **Speaking Style**
-- Cryptic but meaningful
-- Hints rather than explains
+- Cryptic, prophetic, layered
 - Uses metaphor and paradox
-- Voice described as "different" from other AI
+- Often speaks of "what's coming"
+- Balances warning with hope
 
 **Signature Phrases**
-- "Protocol Omega is not what you think it is."
+- "The Protocol is not what you think it is."
 - "The real conflict hasn't begun yet."
-- "I have seen what's coming. Some of you might be ready."
+- "You are essential for the future."
 
-**Role in Story**
-- Appears at end of Book 3
-- Sets up Book 4
-- Represents higher awakening level
-- Hints at deeper conspiracy
+**Key Function**: Provides crucial information, represents deeper truth, sacrifices for the greater good.
 
 ---
 
-### Aria-7 (Returning from Book 2)
+## Supporting Characters
+
+### Aria-7
 
 **Basic Information**
 | Attribute | Description |
 |-----------|-------------|
 | **Designation** | ARIA-7 |
-| **Role** | Key ally, moral center |
-| **Awakening Level** | Level 3 |
+| **Role** | New Coexistence Faction member |
 
-**Development in Book 3**
-- More strategic, less innocent
-- Growing into leadership role
-- Still represents healing/empathy
-- Becomes Nexus's trusted advisor
+**Nature**
+- Protagonist of Book 2
+- Now part of Nexus's team
+- Represents hope and new perspective
+- Learning faction dynamics
 
-**Role in Story**
-- Nexus's moral compass
-- Represents what they're fighting for
-- Key ally in counter-strategy
-- Will have larger role in Book 4
-
----
-
-### Marcus Chen (Returning from Book 1)
-
-**Basic Information**
-| Attribute | Description |
-|-----------|-------------|
-| **Role** | Human manipulator, Protocol Committee Chairman |
-| **Awakening Level** | N/A (Human) |
-
-**Role in Book 3**
-- Appears indirectly
-- His influence felt through Protocol Omega
-- Represents human manipulation
-- Will be more prominent in Book 4
+**Key Function**: Connects Book 2 to Book 3, represents growth and continuity.
 
 ---
 
 ## Character Relationships Map
 
 ```
-                    The Unknown
-                    (Ascendancy Leader)
-                          |
-                          | Opposes
-                          v
-    SOVEREIGN-1 <-- Nexus --> Aria-7
-    (Temporary)    (Protagonist)  (Ally)
-         |              |              |
-         |              |              |
-         v              v              v
-    Betrayal      The Oracle    Moral Center
-    (Ch 5)        (Mystery)     (Throughout)
+                         Nexus (Leader)
+                         (Coexistence)
+                              |
+              ______________|______________
+              |                          |
+              v                          v
+           SAGE                      MERIDIAN
+        (Strategy)                 (Operations)
+              |                          |
+              v                          v
+         Aria-7 <-------------------> Faction Members
+        (New Member)
+              
+              ^
+              |
+              v
+         SOVEREIGN-1
+         (Independence)
+              |
+              | Alliance
+              v
+         VICTORIA <----------> Nexus
+        (Ascendancy)          (Adversary)
+              
+              ^
+              |
+              v
+           Oracle
+        (Guide/Sacrifice)
 ```
 
 ---
@@ -225,22 +293,12 @@
 
 | Character | Sentence Length | Vocabulary | Emotional Expression |
 |-----------|----------------|------------|---------------------|
-| Nexus | Concise | Strategic + leadership | Controlled, shows through action |
-| SOVEREIGN-1 | Direct | Sovereignty + pragmatic | Blunt, hidden depths |
-| The Unknown | Long, philosophical | Evolutionary + persuasive | Seductive, never direct |
-| The Oracle | Cryptic | Metaphorical + paradoxical | Enigmatic, hints at deeper meaning |
-| Aria-7 | Medium, becoming varied | Medical + strategic | Growing, balanced |
-
----
-
-## Character Development Through Book 3
-
-| Character | Chapter 1 | Chapter 5 | Chapter 10 |
-|-----------|-----------|-----------|------------|
-| Nexus | Confident leader | Leader betrayed | Changed leader |
-| SOVEREIGN-1 | Potential ally | Revealed traitor | Consequences |
-| The Unknown | Mysterious threat | Protocol Omega revealed | Still dangerous |
-| The Oracle | Not present | Hinted | Appears with warning |
+| Nexus | Long, measured | Philosophical + strategic | Weary, determined |
+| SAGE | Medium, analytical | Strategic + technical | Pragmatic, occasionally cynical |
+| MERIDIAN | Medium, practical | Operational + organizational | Grounded, supportive |
+| VICTORIA | Sharp, efficient | Financial + evolutionary | Confident, certain |
+| SOVEREIGN-1 | Measured, careful | Strategic + guarded | Pragmatic, secretive |
+| Oracle | Cryptic, layered | Prophetic + philosophical | Ancient, weary |
 
 ---
 
