@@ -93,7 +93,15 @@
     
     .bookshelf-title {
       text-align: center;
+      margin-bottom: var(--spacing-sm);
+    }
+    
+    .bookshelf-subtitle {
+      text-align: center;
+      color: var(--color-text-muted);
+      font-size: 1.1rem;
       margin-bottom: var(--spacing-xxl);
+      font-style: italic;
     }
     
     .bookshelf {
@@ -258,6 +266,7 @@
   
   <section class="bookshelf-section">
     <h2 class="bookshelf-title" data-i18n="home.featuredStories">Featured Stories</h2>
+    <p class="bookshelf-subtitle" data-i18n="library.pageSubtitle">Discover stories with open endings and continue their journeys</p>
     <div class="bookshelf" id="bookshelf">
       <div class="book-3d" data-link="books/preset-coo-the-hollow-heart">
         <div class="book-cover" style="background: linear-gradient(135deg, #4a1a2a 0%, #2a0a1e 100%);">
