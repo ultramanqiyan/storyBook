@@ -1,6 +1,6 @@
 # Chapter 1: The Convergence - Gathering
 
-They came from different directions, different discoveries, different lives.
+They came from different directions, carrying different discoveries, shaped by different lives.
 
 Marcus Chen arrived first, stepping off the maglev at New Avalon Central with the particular weariness of someone who had traveled halfway across the world. His research into zero causal weight had made him famous in certain circles, infamous in others, but he'd spent the last year avoiding the spotlight, working quietly in his lab in Singapore. The summons from the Emergence Institute had surprised him. He'd thought his work was done, his discoveries complete. Apparently, he'd been wrong.
 
@@ -22,7 +22,7 @@ Zara Okonkwo came last, arriving with the particular energy of someone who had b
 
 The Emergence Institute's main conference room occupied the top floor of the central building, with windows overlooking the entire New Avalon skyline. The city spread out in all directions—the old industrial district where Chen's meditation center stood, the academic quarter where the universities clustered, the corporate towers where consciousness research had become big business, the residential zones where millions of lives unfolded in their ordinary patterns.
 
-But the room itself was sparse. A large table, chairs arranged without hierarchy, screens that remained dark. No presentations, no data displays, no visual aids. Just eight chairs for eight people who had each, in their own way, discovered something fundamental about consciousness.
+But the room itself was sparse. A large table, chairs arranged without hierarchy, screens that remained dark. No presentations, no data displays, no visual aids. Just ten chairs for ten people who had each, in their own way, discovered something fundamental about consciousness.
 
 Dr. Elena Vasquez stood at the head of the table, watching them file in. She'd taken over as director of the Institute three years ago, after Dr. Sarah Chen had stepped down to focus on her threshold work. Vasquez was younger than her predecessor, sharper in some ways, less patient with mysticism but more willing to follow data wherever it led. She'd been a neurologist before she'd been an administrator, and she still approached consciousness as a medical phenomenon—something to be studied, understood, and ultimately healed.
 
@@ -82,7 +82,7 @@ They spent the rest of the day reviewing each other's work, sharing discoveries 
 
 Amara demonstrated the third state, entering non-dual awareness right there in the conference room, her neural signature appearing on the monitors as coherent oscillation across all brain regions. Sarah guided them through a threshold exercise, showing how transformation happened at the edges of identity. Maya broadcast briefly on the cosmic frequency, letting them feel the hum of universal consciousness. And Zara led them through a play state induction, reminding them that consciousness at its most fundamental was creative, joyful, free.
 
-By the end of the day, they understood. Not completely—not yet—but enough to know that something unprecedented was approaching. A transition that would affect not just individual consciousness, but consciousness as a whole.
+By the end of the day, they understood. Not completely, and certainly not in every detail, but enough to know that something unprecedented was approaching. A transition that would affect not just individual consciousness, but consciousness as a whole.
 
 "What do we do?" Marcus asked, as the sun set over New Avalon, painting the windows in gold and amber.
 
@@ -106,7 +106,7 @@ Marcus found himself seated next to Maya, the musician whose cosmic frequency re
 
 "Now they're excited. They say the transition point is when the teaching becomes unnecessary. When we learn to hear the frequency naturally, without technology or technique."
 
-Marcus considered this. His zero causal weight measurements had always been rare, brief, unpredictable. But if Maya was right—if the transition point would make such states accessible to everyone—then everything he thought he knew about consciousness would need to be revised.
+Marcus considered this. His zero causal weight measurements had always been rare, brief, unpredictable. But if Maya was right, and the transition point would make such states accessible to everyone, then everything he thought he knew about consciousness would need to be revised.
 
 ---
 
@@ -150,7 +150,7 @@ Alex and Zara found themselves discussing the nature of reality.
 
 "Might be another mode. A way of perceiving reality that reveals its playful, creative nature."
 
-Zara thought about her game, about the millions of players who had discovered the play state through *Lila*. "What if the transition point is when all these modes become accessible? When zero causal weight, and cosmic frequency, and simulation layers, and play state—all of it becomes available to everyone?"
+Zara thought about her game, about the millions of players who had discovered the play state through *Lila*. "What if the transition point is when all these modes become accessible? When zero causal weight, cosmic frequency, simulation layers, and play state all become available to everyone?"
 
 "Then we're not just talking about a change in consciousness," Alex said. "We're talking about a change in reality itself."
 
@@ -178,7 +178,7 @@ Priya was silent for a moment. Then: "The models show something else. Something 
 
 Priya looked out at the night sky, at the stars that had witnessed countless transitions across the universe's long history.
 
-"The choice between separation and connection. Between fear and love. Between staying as we are, or becoming what we might be."
+"The choice between separation and connection. Between staying as we are, or becoming something new."
 
 She turned back to Vasquez.
 

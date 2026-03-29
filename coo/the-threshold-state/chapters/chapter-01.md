@@ -122,7 +122,7 @@ But tonight, for the first time, she allowed herself to wonder: What would it be
 
 The question was terrifying. But it was also, she had to admit, exhilarating.
 
-She went to bed with the question still echoing in her mind. And for the first time in years, she dreamed of thresholds—doors standing open, paths leading into unknown territory, the vast possibility that waited beyond everything familiar.
+She went to bed with the question still echoing in her mind. And for the first time in years, she dreamed of thresholds: doors standing open, paths leading into unknown territory, and the vast possibility that waited beyond everything familiar.
 
 The threshold was approaching. She could feel it now, no longer avoidable, no longer deniable. Something was ending. Something was beginning. And Sarah Chen, who had guided hundreds of others through their transformations, was finally approaching her own.
 

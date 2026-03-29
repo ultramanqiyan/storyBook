@@ -1,4 +1,5 @@
 const translations = {
+  _updated: '2026-03-29-v3',
   en: {
     meta: {
       title: 'StoryBook - Create Your Interactive Stories',
@@ -511,6 +512,15 @@ const translations = {
           item4: 'Opt out of Google personalized ads at Google Ads Settings',
           note: 'Please note that disabling certain cookies may affect the functionality of our website.'
         }
+      },
+      dataDeletion: {
+        title: 'How to Request Data Deletion',
+        content1: 'Under GDPR and other data protection regulations, you have the right to request the deletion of your personal data. To request data deletion:',
+        item1: 'Send an email to ultraman84@qq.com',
+        item2: 'Use subject line: "Data Deletion Request"',
+        item3: 'Include your registered email address for verification',
+        item4: 'Specify which data you want deleted (account data, story content, or all data)',
+        content2: 'We will process your request within 30 days and confirm the deletion via email. Please note that some data may be retained for legal or operational purposes.'
       }
     },
     about: {
@@ -641,6 +651,21 @@ const translations = {
       contact: {
         title: 'Contact Us',
         content: 'If you have questions about these Terms, please contact us at:'
+      },
+      age: {
+        title: 'Age Restrictions',
+        content1: 'This website is intended for users aged 13 and above. By using StoryBook, you confirm that you are at least 13 years old.',
+        content2: 'Users under the age of 18 should use this service under parental supervision. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, please contact us immediately.'
+      },
+      dmca: {
+        title: 'DMCA / Copyright Claims',
+        content1: 'We respect intellectual property rights. If you believe your copyrighted work has been infringed on our platform, please contact us at ultraman84@qq.com with the following information:',
+        item1: 'A description of the copyrighted work you believe has been infringed',
+        item2: 'The URL(s) of the infringing content on our website',
+        item3: 'Your contact information (name, email, phone number)',
+        item4: 'A statement that you have a good faith belief that the use is not authorized',
+        item5: 'A statement that the information is accurate and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner',
+        content2: 'We will investigate and respond to valid DMCA requests within 5 business days.'
       }
     },
     options: {
@@ -1296,6 +1321,15 @@ const translations = {
           item4: '在 Google 广告设置中选择退出 Google 个性化广告',
           note: '请注意，禁用某些 Cookie 可能会影响我们网站的功能。'
         }
+      },
+      dataDeletion: {
+        title: '如何申请数据删除',
+        content1: '根据 GDPR 和其他数据保护法规，您有权要求删除您的个人数据。申请数据删除：',
+        item1: '发送邮件至 ultraman84@qq.com',
+        item2: '邮件主题："Data Deletion Request"',
+        item3: '提供您的注册邮箱以便验证',
+        item4: '说明您想删除哪些数据（账户数据、故事内容或全部数据）',
+        content2: '我们将在30天内处理您的请求并通过邮件确认删除。请注意，部分数据可能因法律或运营原因被保留。'
       }
     },
     about: {
@@ -1426,6 +1460,21 @@ const translations = {
       contact: {
         title: '联系我们',
         content: '如果您对这些条款有疑问，请通过以下方式联系我们：'
+      },
+      age: {
+        title: '年龄限制',
+        content1: '本网站面向13岁及以上用户。使用故事书即表示您确认您已年满13岁。',
+        content2: '18岁以下用户应在家长监督下使用本服务。我们不会故意收集13岁以下儿童的个人信息。如果您认为我们收集了13岁以下儿童的信息，请立即联系我们。'
+      },
+      dmca: {
+        title: 'DMCA / 版权投诉',
+        content1: '我们尊重知识产权。如果您认为您的版权作品在我们的平台上被侵权，请通过 ultraman84@qq.com 联系我们，并提供以下信息：',
+        item1: '您认为被侵权的版权作品描述',
+        item2: '我们网站上侵权内容的URL地址',
+        item3: '您的联系方式（姓名、邮箱、电话号码）',
+        item4: '声明您真诚相信该使用未经授权',
+        item5: '声明信息准确，并在伪证处罚下，您有权代表版权所有者行事',
+        content2: '我们将在5个工作日内调查并回复有效的DMCA请求。'
       }
     },
     options: {

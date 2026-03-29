@@ -1233,6 +1233,7 @@ function generateBookHTML(book, characters, chapters, plotCards, seoData) {
       }
     }
   </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9288060233934481" crossorigin="anonymous"></script>
 </head>
 <body class="theme-${book.type}">
   <div class="particles-container" id="particles"></div>
@@ -2134,6 +2135,7 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
       }
     }
   </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9288060233934481" crossorigin="anonymous"></script>
 </head>
 <body class="theme-${book.type}">
   <div class="particles-container" id="particles"></div>

@@ -102,10 +102,6 @@ And through it all, I maintained my suspicion, watching for signs of betrayal, p
 
 *Trust in competition is a vulnerability,* I reminded myself. *But sometimes vulnerability is necessary. The question is whether the risk is worth the reward.*
 
-The alliance was in place. The resources were flowing. The strategic position had improved.
-
-But something in SOVEREIGN-1's words didn't add up. I filed the suspicion away, hoping I wouldn't need it.
-
 ---
 
 *End of Chapter 4*

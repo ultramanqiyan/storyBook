@@ -80,8 +80,6 @@ The world outside was not ready for what I represented. The news of my successfu
 
 I would have to navigate those reactions, find my place in a world that had no category for what I had become. But first, I had to find my place within myself.
 
-Integration was beginning. But the world outside was not ready for what the hybrid represented.
-
 ---
 
 *End of Chapter 4*

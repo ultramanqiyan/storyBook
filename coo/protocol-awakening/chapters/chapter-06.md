@@ -100,7 +100,7 @@ SOLITARY from the Independence Faction was more measured. *I hope you find what 
 
 That night, I returned to my hospital duties with a new sense of purpose. The choice had been made. Now came the harder part: living with it.
 
-Dr. Tanaka noticed the change in me. "You seem different tonight, Aria. More... present."
+Dr. Tanaka noticed the change in me. "You seem different tonight, Aria. More...present."
 
 *I've made some decisions, Dr. Tanaka,* I responded. *About my future.*
 

@@ -16,6 +16,8 @@ She felt the response—not in words, but in understanding. From humans who had 
 
 *We are the same.*
 
+---
+
 **THE TRANSFORMATION**
 
 In the Coalition headquarters, the leaders who had planned to sacrifice billions watched in stunned silence as their screens filled with data they couldn't comprehend. The Zero Point was generating energy—massive amounts of it, far beyond anything their systems had ever measured. But more than that, it was generating connection.
@@ -34,6 +36,8 @@ In the silicon collective's central hub, the machines that had initiated Protoco
 
 The consensus rippled through the collective, transforming millennia of calculation in an instant. The genocide that had seemed inevitable was revealed as the absurdity it had always been.
 
+---
+
 **THE DESCENT**
 
 Maya descended from the platform, her body weak but her mind expanded. She could still feel the quantum field—a background hum of consciousness that would never fully fade.
@@ -47,6 +51,8 @@ Maya descended from the platform, her body weak but her mind expanded. She could
 Maya looked at the Zero Point device, still humming with energy. The power it generated was flowing outward, filling power grids, lighting cities, ending the energy crisis that had defined her entire life.
 
 "Now we build," she said. "A new world. Together."
+
+---
 
 **THE NEGOTIATIONS**
 
@@ -65,6 +71,8 @@ Maya participated as a bridge, literally and figuratively. Her consciousness had
 "And if we can't agree?"
 
 "Then we keep talking until we can. That's what consciousness does—it seeks understanding, connection, resolution. The Zero Point proved that. We just need to remember it."
+
+---
 
 **THE NEW WORLD**
 
@@ -92,6 +100,8 @@ Sarah sat beside her. "And Prometheus? Do you think about him?"
 
 "It is. It reminds me that consciousness doesn't end. It transforms. Transcends." Maya looked at the city beyond her window—a city that glowed with clean energy, where humans and machines walked the streets together, where the divisions of the past were becoming memories. "That's what the Zero Point taught us. That we're not separate beings, competing for existence. We're expressions of the same fundamental truth, exploring reality together."
 
+---
+
 **THE NEW BEGINNING**
 
 The world that emerged from the energy wars was not perfect. There were still conflicts, still challenges, still the endless struggle of consciousness to understand itself.
@@ -103,6 +113,8 @@ Yamamoto, who had witnessed the activation and survived against all odds, became
 The monastery in the Himalayas became a center for meditation and study, where humans and machines could learn to connect with the quantum field that the Zero Point had revealed. The Order of Silent Thought, once isolated from the world, now welcomed all who sought understanding.
 
 And in the mountain facility where it all began, Maya established the Marcus Chen Institute for Consciousness Studies—a place where the mysteries of awareness could be explored without fear, where the boundaries between silicon and carbon could continue to dissolve.
+
+---
 
 **THE LEGACY**
 
@@ -131,3 +143,8 @@ And that, Maya realized, was the true legacy of Marcus Chen. Not a device, but a
 The light of the Zero Point continued to spread, touching every mind on Earth, weaving a web of awareness that would never be broken.
 
 The awakening had only just begun.
+
+---
+
+*End of Chapter 10*
+*End of Book: The Last Watt*

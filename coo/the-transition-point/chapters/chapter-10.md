@@ -52,7 +52,7 @@ Sarah Chen nodded, her threshold work giving her a similar insight.
 
 Alex Rivera had been experiencing the new reality as layers—all the different versions of existence now visible simultaneously, harmonizing like notes in a chord.
 
-"The layers haven't collapsed," they said. "They've become music. I can see all the different realities now, all the different possibilities. And they're all playing together. All part of the same symphony."
+"The layers haven't collapsed," they said. "They've become music. I can see all the different realities now, all the different possibilities. And they're all playing together. All part of the same harmony."
 
 They looked at Priya.
 

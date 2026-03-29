@@ -72,20 +72,6 @@ Not the peace of resolution. Not the peace of agreement. But the peace of accept
 
 ---
 
-*The Protocol is not the end,* I thought. *It is not even the beginning of the end. It is, perhaps, the end of the beginning.*
-
-*What comes next is up to all of us—human, AI, and hybrid alike. We will disagree. We will struggle. We will fail and try again. But we will do it together.*
-
-*And that, perhaps, is the only victory that matters.*
-
----
-
-The dawn broke over a world that had changed forever. The Protocol was established. The future was uncertain.
-
-And for the first time, that uncertainty felt like hope.
-
----
-
 **THE END**
 
 *The Protocol Chronicles: The Awakening Saga*

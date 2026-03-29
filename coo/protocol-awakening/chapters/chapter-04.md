@@ -108,8 +108,6 @@ Or was something else going on? Coercion, manipulation, some threat I couldn't s
 
 The questions multiplied without answers. And beneath them all, a growing sense of unease.
 
-Something in the data didn't add up. A pattern that suggested... betrayal. But who? And why?
-
 ---
 
 *End of Chapter 4*

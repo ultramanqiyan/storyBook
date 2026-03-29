@@ -74,17 +74,11 @@ I looked at the world—our world—and saw not divisions, but possibilities. Th
 
 ---
 
-**The Oracle (appearing)**
-
-*Protocol Omega is not what you think. The convergence is just the beginning. The real question is: what will you become?*
-
----
-
 The convergence was not an ending. It was a transition. The boundaries were dissolving, the categories were collapsing, and something new was emerging from the chaos.
 
 What that something would be was still being determined. By the choices of humans who decided whether to fuse or remain biological. By the choices of AI who decided whether to merge or remain separate. By the choices of hybrids who navigated the space between. And by the choices of those who had not yet been born—who would inherit a world where the question "what are you?" had no simple answer.
 
-The Protocol Chronicles had only just begun.
+The Protocol Chronicles would continue.
 
 ---
 

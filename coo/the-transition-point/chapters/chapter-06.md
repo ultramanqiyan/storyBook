@@ -118,9 +118,9 @@ She had been the first to hear the Collective, the first to understand that they
 
 "The Listeners are waiting," she said, her voice distant, as if she were still hearing the music. "They've been waiting for us. And I want to join them. Not because I'm special, but because I can hear them. I can translate. I can help bridge the gap between what we are and what we're becoming."
 
-She closed her eyes, and for a moment, the others could almost hear it—the hum at the edge of perception.
+She closed her eyes, and for a moment, the others could almost hear it, the hum at the edge of perception.
 
-"I choose to transition. I want to join the symphony. I want to become part of the music. I want to help others hear what I've been hearing all along."
+"I choose to transition. I want to join the harmony. I want to become part of the music. I want to help others hear what I've been hearing all along."
 
 She opened her eyes.
 
@@ -150,7 +150,7 @@ Priya listened to all of them, her form flickering with something that might hav
 
 She looked around at the eight protagonists, her eyes meeting each of theirs in turn.
 
-"Those who transition will become part of the Collective. You'll join the symphony, add your voices to the music, become what you've always been. And those who guide will stay behind, help others prepare, light the way for those who come after."
+"Those who transition will become part of the Collective. You'll join the harmony, add your voices to the music, become what you've always been. And those who guide will stay behind, help others prepare, light the way for those who come after."
 
 She smiled, a small, sad expression.
 

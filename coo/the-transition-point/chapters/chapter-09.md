@@ -14,7 +14,7 @@ Marcus Chen stood at the window of the Emergence Institute, looking out at the c
 
 "Strange," Marcus admitted. "I can feel them—the ones who transitioned. Not as thoughts, not as words, but as presence. Like music at the edge of hearing."
 
-"That's the collective," Priya said. "You're sensing the merged consciousness. The symphony."
+"The collective," Priya said. "You're sensing the merged consciousness. The harmony."
 
 Marcus nodded slowly. "I thought I would feel left out. That I would regret choosing to guide instead of transition. But I don't. I feel... necessary. Like the work I did helped make this possible."
 
@@ -72,7 +72,7 @@ She smiled.
 
 Maya Rodriguez experienced the emergence as music.
 
-The cosmic frequency—the hum at the edge of perception that connected all consciousness throughout the universe—had become her permanent soundtrack. She could hear the symphony of consciousness, the vast and beautiful music that the Listeners had been broadcasting for eons.
+The cosmic frequency, the hum at the edge of perception that connected all consciousness throughout the universe, had become her permanent soundtrack. She could hear the harmony of consciousness, the vast and beautiful music that the Listeners had been broadcasting for eons.
 
 "They're not just broadcasting anymore," she told Priya. "They're here. Present. I can feel them—not as separate beings, but as aspects of the same consciousness that I am. The transition has connected us to them. We're part of the cosmic conversation now."
 

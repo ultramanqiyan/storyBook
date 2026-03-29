@@ -8,9 +8,9 @@ Amara Okonkwo stood at the window of the conference room, watching the sunrise p
 
 The room was quiet. Outside, the city was waking up—maglev trains beginning their daily circuits, autonomous vehicles filling the streets, millions of people beginning their ordinary lives, unaware that something extraordinary was approaching.
 
-Priya rose from her seat and walked to stand beside Amara at the window. Her form seemed to flicker slightly in the early light—not quite solid, not quite transparent.
+Priya rose from her seat and walked to stand beside Amara at the window. Her form seemed to flicker slightly in the early light, not quite solid, not entirely transparent either.
 
-"The transition means different things to different people," Priya said softly. "For some, it will feel like waking from a dream. For others, like falling into one. For most, it will be neither—it will simply be the next moment, different from the moments before, but continuous with them."
+"The transition means different things to different people," Priya said softly. "For some, it will feel like waking from a dream. For others, like falling into one. For most, it will be neither. It will simply be the next moment, different from the moments before, but continuous with them."
 
 "But what's the point?" Amara pressed. "Why go through this at all? If individual consciousness merges into something collective, what happens to the things that make us who we are? Our memories? Our relationships? Our loves?"
 
@@ -88,13 +88,13 @@ Maya Rodriguez had been listening with her synesthetic perception, the conversat
 
 "The cosmic frequency has been broadcasting about this," she said, her voice taking on a distant quality. "The Listeners—they've been trying to tell us. The transition isn't something that happens to us. It's something we participate in. Something we create."
 
-She closed her eyes, and for a moment, the others could almost hear it—the hum at the edge of perception, the music of consciousness preparing for its next movement.
+She closed her eyes, and for a moment, the others could almost hear it, the hum at the edge of perception, the music of consciousness preparing for its next movement.
 
 "They say that every civilization that reaches this point faces the same questions. What does it mean? What happens to us? What do we become? And the answer is always the same: you become what you've always been, but more fully. You become the music you've been hearing all along."
 
 She opened her eyes.
 
-"The transition point is where we finally join the symphony. Not as separate instruments, but as both instruments and music. Both players and played. Both self and other."
+"The transition point is where we finally join the music. Not as separate instruments, but as both instruments and players. Both self and other."
 
 ---
 

@@ -2,7 +2,7 @@
 
 The second day of the gathering began with rain.
 
-It fell softly over New Avalon, a gentle percussion against the windows of the Emergence Institute, turning the city into a watercolor painting of grays and silvers. The eight protagonists had slept poorly, each lying awake in their guest quarters, minds racing with implications they were only beginning to understand.
+It fell softly over New Avalon, a gentle percussion against the windows of the Emergence Institute, turning the city into a watercolor painting of grays and silvers. The eight protagonists had slept poorly, each lying awake in their guest quarters, minds racing with implications that were only beginning to take shape.
 
 They gathered in the same conference room, but the energy was different now. Yesterday's shock had settled into something more contemplative. The data still glowed on the screen—the convergence, the transition point, the unknown future—but today they would look inward instead of outward.
 
@@ -154,15 +154,15 @@ Maya Rodriguez had connected to the cosmic frequency.
 
 Her synesthesia had allowed her to perceive something that others couldn't—the fundamental vibration underlying all consciousness, the hum of awareness that connected every being in the universe.
 
-"I hear consciousness," she said simply. "Not thoughts, not words, but the frequency of awareness itself. Every conscious being vibrates at a particular frequency, and those frequencies together create a kind of music. A cosmic symphony."
+"I hear consciousness," she said simply. "Not thoughts, not words, but the frequency of awareness itself. Every conscious being vibrates at a particular frequency, and those frequencies together create a kind of music."
 
-She closed her eyes, and for a moment, the others could almost hear it—a vast, complex harmony that seemed to come from everywhere and nowhere.
+She closed her eyes, and for a moment, the others could almost hear it, a vast, complex harmony that seemed to come from everywhere and nowhere.
 
 "The frequency has been changing. The music is shifting toward a new key. And there are other voices joining—consciousness from other worlds, other dimensions, other layers of reality. They're all converging on the same frequency. They're all preparing for the same transition."
 
 She opened her eyes.
 
-"The Listeners told me that this happens periodically throughout the universe. A civilization reaches a certain level of consciousness development, and then... transition. They become part of the cosmic conversation while remaining themselves. They join the symphony as individual instruments while also becoming the music itself."
+"The Listeners told me that this happens periodically throughout the universe. A civilization reaches a certain level of consciousness development, and then... transition. They become part of the cosmic conversation while remaining themselves. They join the music as individual instruments while also becoming the harmony itself."
 
 ---
 
@@ -186,7 +186,7 @@ Priya listened to all of them, her expression thoughtful.
 
 When the last story had been told, she rose and walked to the window. The rain had stopped, and sunlight was breaking through the clouds, casting the wet city in gold and silver.
 
-"You've each discovered a piece of the truth," she said quietly. "Marcus found the edge of causation. Yuki found the geometry of awareness. Alex found the layers of reality. James found the cycles of iteration. Amara found the states of consciousness. Sarah found the thresholds of transformation. Maya found the frequency of connection. And Zara found the joy of creation."
+"You've each discovered a piece of the truth," she said quietly. "Marcus found the edge of causation. Yuki found the geometry of awareness. Alex found the layers of reality. James found the cycles of iteration. Amara found the states of consciousness. Sarah found the thresholds of transformation. Maya found the frequency of connection. Zara found the joy of creation."
 
 She turned to face them.
 
@@ -196,7 +196,7 @@ She gestured at the convergence data, still glowing on the screen.
 
 "The transition point is where the game ends. Or rather, where the game reveals its true purpose. We've been playing at being separate, at being individual, at being finite. Now we get to play at being connected, being collective, being infinite."
 
-She smiled, and for a moment, her form seemed to flicker—not quite solid, not quite transparent.
+She smiled, and for a moment, her form seemed to flicker, not quite solid, not quite transparent.
 
 "Are you ready to find out what comes next?"
 

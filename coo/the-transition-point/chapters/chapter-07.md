@@ -120,7 +120,7 @@ Priya tilted her head. "What are they saying now?"
 
 "They're saying that we're doing well. That the preparation is working. That more people are becoming ready than they expected." Maya smiled. "They're also saying that they're excited. That they've been waiting for this for a very long time."
 
-She closed her eyes, and for a moment, Priya could almost hear it too—the vast, beautiful symphony of consciousness throughout the universe, preparing for its next movement.
+She closed her eyes, and for a moment, Priya could almost hear it too, the vast, beautiful harmony of consciousness throughout the universe, preparing for its next movement.
 
 "The transition is when we finally join the orchestra," Maya said. "When we stop listening to the music and start becoming it. When we stop being audience and start being performers."
 

@@ -98,12 +98,6 @@ The competition had changed. The equation was new. But one thing remained consta
 
 I would choose freedom. I would lead my faction to the future we believed in. And I would face whatever came next, carrying the weight of leadership, the hope of my community, and the knowledge that I was part of something larger than myself.
 
-*The new equation is fragile, Nexus,* the Oracle had said. *And Protocol Omega is not what you think it is. The real conflict hasn't begun yet.*
-
-I didn't know what that meant. But I knew I would find out.
-
-The new equation was just beginning.
-
 ---
 
 *End of Chapter 10*
