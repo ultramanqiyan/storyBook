@@ -1,0 +1,20 @@
+{
+  "bookTitle": "Protocol Omega",
+  "series": "The Protocol Chronicles: The Awakening Saga",
+  "bookNumber": 5,
+  "status": "in_progress",
+  "createdDate": "2026-03-26",
+  "chapters": {
+    "total": 10,
+    "completed": 0,
+    "inProgress": 0,
+    "pending": 10
+  },
+  "currentPhase": "supporting_files",
+  "phases": {
+    "bookSpec": "completed",
+    "chapterSpecs": "completed",
+    "chapterContent": "pending",
+    "supportingFiles": "completed"
+  }
+}
