@@ -230,3 +230,50 @@ if (document.readyState === 'loading') {
 } else {
   init();
 }
+
+function initCookieBanner() {
+  const cookieConsent = localStorage.getItem('cookieConsent');
+  
+  if (!cookieConsent) {
+    const banner = document.createElement('div');
+    banner.className = 'cookie-banner';
+    banner.id = 'cookieBanner';
+    banner.innerHTML = `
+      <div class="cookie-banner-content">
+        <div class="cookie-banner-text">
+          <p>We use cookies to enhance your experience, serve personalized ads, and analyze our traffic. 
+          By clicking "Accept All", you consent to our use of cookies. 
+          <a href="privacy#cookies">Learn more about our Cookie Policy</a>.</p>
+        </div>
+        <div class="cookie-banner-buttons">
+          <button class="cookie-btn cookie-btn-necessary" onclick="setCookieConsent('necessary')">Necessary Only</button>
+          <button class="cookie-btn cookie-btn-accept" onclick="setCookieConsent('all')">Accept All</button>
+        </div>
+      </div>
+    `;
+    document.body.appendChild(banner);
+    
+    setTimeout(() => {
+      banner.classList.add('show');
+    }, 1000);
+  }
+}
+
+function setCookieConsent(type) {
+  localStorage.setItem('cookieConsent', type);
+  localStorage.setItem('cookieConsentDate', new Date().toISOString());
+  
+  const banner = document.getElementById('cookieBanner');
+  if (banner) {
+    banner.classList.remove('show');
+    setTimeout(() => {
+      banner.remove();
+    }, 400);
+  }
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initCookieBanner);
+} else {
+  initCookieBanner();
+}

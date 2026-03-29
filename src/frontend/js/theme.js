@@ -486,6 +486,101 @@ const translations = {
       contact: {
         title: 'Contact Us',
         content: 'If you have questions or concerns about this Privacy Policy, please contact us at:'
+      },
+      adsense: {
+        title: 'Third-Party Advertising (Google AdSense)',
+        content1: 'We use Google AdSense as a third-party advertising provider to display ads on our website. Google AdSense uses cookies to serve ads based on your prior visits to our website or other websites.',
+        content2: 'Google\'s use of advertising cookies enables it and its partners to serve ads based on your visit to our site and/or other sites on the Internet. You can opt out of personalized advertising by visiting Google Ads Settings.',
+        content3: 'Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this website or other websites. You may choose to disable personalized advertising by visiting www.aboutads.info.'
+      },
+      cookies: {
+        title: 'Cookies and Tracking Technologies',
+        content: 'We use cookies and similar tracking technologies to collect and track information and to improve our services. Cookies are small data files stored on your device.',
+        types: {
+          title: 'Types of Cookies We Use',
+          essential: 'Essential Cookies: Required for the website to function properly. These include login status and session management.',
+          preference: 'Preference Cookies: Remember your settings such as language preference and theme selection.',
+          advertising: 'Advertising Cookies: Used by Google AdSense to serve relevant ads. These cookies track your visit across websites.'
+        },
+        manage: {
+          title: 'Managing Cookies',
+          content: 'You can control and manage cookies in various ways:',
+          item1: 'Use the cookie consent banner when you first visit our site',
+          item2: 'Clear cookies through your browser settings',
+          item3: 'Use browser extensions to block third-party cookies',
+          item4: 'Opt out of Google personalized ads at Google Ads Settings',
+          note: 'Please note that disabling certain cookies may affect the functionality of our website.'
+        }
+      }
+    },
+    about: {
+      pageTitle: 'About Us - StoryBook',
+      title: 'About StoryBook',
+      tagline: 'Where Your Stories Come to Life',
+      whoWeAre: {
+        title: 'Who We Are',
+        content1: 'StoryBook is an innovative AI-powered interactive storytelling platform designed to transform how people create, experience, and share stories. We believe that everyone has a story to tell, and our mission is to make storytelling accessible, engaging, and fun for all.',
+        content2: 'Founded with a passion for both technology and creative writing, we\'ve built a platform that combines the power of artificial intelligence with the magic of interactive fiction. Our team is dedicated to creating tools that inspire creativity and bring imagination to life.'
+      },
+      whatWeDo: {
+        title: 'What We Offer'
+      },
+      features: {
+        ai: {
+          title: 'AI-Powered Stories',
+          desc: 'Create unique, personalized stories with the help of advanced AI that adapts to your creative vision.'
+        },
+        characters: {
+          title: 'Character Cards',
+          desc: 'Design memorable heroes and villains with rich backstories, personalities, and visual representations.'
+        },
+        plot: {
+          title: 'Plot Cards',
+          desc: 'Shape your narrative with weather, terrain, and adventure cards that add depth to your storytelling.'
+        },
+        puzzles: {
+          title: 'Interactive Puzzles',
+          desc: 'Challenge your readers with engaging puzzles and choices that affect the story\'s outcome.'
+        }
+      },
+      vision: {
+        title: 'Our Vision',
+        content: 'We envision a world where storytelling knows no boundaries. Whether you\'re an experienced writer or someone who\'s never written a story before, StoryBook provides the tools and inspiration to bring your ideas to life.',
+        quote: '"Every person is a storyteller at heart. We\'re here to help you discover your story."'
+      },
+      contact: {
+        text: 'Have questions or want to learn more? We\'d love to hear from you!',
+        link: 'Contact Us'
+      }
+    },
+    contact: {
+      pageTitle: 'Contact Us - StoryBook',
+      title: 'Contact Us',
+      intro: 'We\'d love to hear from you! Whether you have questions, feedback, or need support, feel free to reach out.',
+      email: {
+        title: 'Email Us Directly'
+      },
+      form: {
+        title: 'Send Us a Message',
+        name: 'Name *',
+        namePlaceholder: 'Your name',
+        email: 'Email *',
+        emailPlaceholder: 'your.email@example.com',
+        subject: 'Subject *',
+        selectSubject: 'Select a subject',
+        subjectGeneral: 'General Inquiry',
+        subjectSupport: 'Technical Support',
+        subjectFeedback: 'Feedback',
+        subjectBusiness: 'Business Inquiry',
+        subjectOther: 'Other',
+        message: 'Message *',
+        messagePlaceholder: 'Tell us how we can help you...',
+        submit: 'Send Message'
+      },
+      responseTime: '📬 We typically respond within 24-48 hours',
+      success: {
+        title: 'Message Sent!',
+        content: 'Thank you for reaching out. We\'ll get back to you as soon as possible.'
       }
     },
     terms: {
@@ -1176,6 +1271,101 @@ const translations = {
       contact: {
         title: '联系我们',
         content: '如果您对本隐私政策有任何疑问或顾虑，请通过以下方式联系我们：'
+      },
+      adsense: {
+        title: '第三方广告（Google AdSense）',
+        content1: '我们使用 Google AdSense 作为第三方广告供应商在我们的网站上展示广告。Google AdSense 使用 Cookie 根据您之前访问我们网站或其他网站的情况来展示广告。',
+        content2: 'Google 使用广告 Cookie 使其及其合作伙伴能够根据您对我们网站和/或互联网上其他网站的访问情况展示广告。您可以通过访问 Google 广告设置选择退出个性化广告。',
+        content3: '包括 Google 在内的第三方供应商使用 Cookie 根据您之前访问本网站或其他网站的情况展示广告。您可以通过访问 www.aboutads.info 选择禁用个性化广告。'
+      },
+      cookies: {
+        title: 'Cookie 和跟踪技术',
+        content: '我们使用 Cookie 和类似的跟踪技术来收集和跟踪信息，并改进我们的服务。Cookie 是存储在您设备上的小型数据文件。',
+        types: {
+          title: '我们使用的 Cookie 类型',
+          essential: '必要 Cookie：网站正常运行所必需。包括登录状态和会话管理。',
+          preference: '偏好 Cookie：记住您的设置，如语言偏好和主题选择。',
+          advertising: '广告 Cookie：由 Google AdSense 用于展示相关广告。这些 Cookie 会跟踪您在网站间的访问。'
+        },
+        manage: {
+          title: '管理 Cookie',
+          content: '您可以通过多种方式控制和管理 Cookie：',
+          item1: '首次访问我们网站时使用 Cookie 同意横幅',
+          item2: '通过浏览器设置清除 Cookie',
+          item3: '使用浏览器扩展阻止第三方 Cookie',
+          item4: '在 Google 广告设置中选择退出 Google 个性化广告',
+          note: '请注意，禁用某些 Cookie 可能会影响我们网站的功能。'
+        }
+      }
+    },
+    about: {
+      pageTitle: '关于我们 - 故事书',
+      title: '关于故事书',
+      tagline: '让你的故事栩栩如生',
+      whoWeAre: {
+        title: '我们是谁',
+        content1: '故事书是一个创新的 AI 驱动互动故事平台，旨在改变人们创作、体验和分享故事的方式。我们相信每个人都有故事要讲，我们的使命是让讲故事变得人人可及、引人入胜且充满乐趣。',
+        content2: '怀着对技术和创意写作的热情，我们建立了一个将人工智能的力量与互动小说的魔力相结合的平台。我们的团队致力于创造激发创意、将想象力变为现实的工具。'
+      },
+      whatWeDo: {
+        title: '我们提供什么'
+      },
+      features: {
+        ai: {
+          title: 'AI 驱动的故事',
+          desc: '借助先进 AI 的帮助，创作独特、个性化的故事，AI 会适应你的创意愿景。'
+        },
+        characters: {
+          title: '角色卡牌',
+          desc: '设计令人难忘的英雄和反派，赋予他们丰富的背景故事、性格和视觉形象。'
+        },
+        plot: {
+          title: '情节卡牌',
+          desc: '用天气、地形和冒险卡牌塑造你的叙事，为你的故事增添深度。'
+        },
+        puzzles: {
+          title: '互动谜题',
+          desc: '用引人入胜的谜题和选择挑战你的读者，这些选择会影响故事的结局。'
+        }
+      },
+      vision: {
+        title: '我们的愿景',
+        content: '我们设想一个故事创作无边界的世界。无论你是有经验的作家还是从未写过故事的人，故事书都提供工具和灵感，让你的想法变为现实。',
+        quote: '"每个人内心都是讲故事的人。我们在这里帮助你发现你的故事。"'
+      },
+      contact: {
+        text: '有问题或想了解更多？我们很乐意听取您的意见！',
+        link: '联系我们'
+      }
+    },
+    contact: {
+      pageTitle: '联系我们 - 故事书',
+      title: '联系我们',
+      intro: '我们很乐意听取您的意见！无论您有问题、反馈还是需要支持，请随时与我们联系。',
+      email: {
+        title: '直接发送邮件'
+      },
+      form: {
+        title: '给我们发送消息',
+        name: '姓名 *',
+        namePlaceholder: '您的姓名',
+        email: '邮箱 *',
+        emailPlaceholder: 'your.email@example.com',
+        subject: '主题 *',
+        selectSubject: '选择主题',
+        subjectGeneral: '一般咨询',
+        subjectSupport: '技术支持',
+        subjectFeedback: '反馈',
+        subjectBusiness: '商务咨询',
+        subjectOther: '其他',
+        message: '消息内容 *',
+        messagePlaceholder: '告诉我们如何帮助您...',
+        submit: '发送消息'
+      },
+      responseTime: '📬 我们通常会在 24-48 小时内回复',
+      success: {
+        title: '消息已发送！',
+        content: '感谢您的来信。我们会尽快回复您。'
       }
     },
     terms: {

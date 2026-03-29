@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="about.pageTitle">About Us - StoryBook</title>
+  <meta name="description" content="Learn about StoryBook - an AI-powered interactive storytelling platform where you can create, explore, and share personalized stories.">
+  <meta property="og:title" content="About Us - StoryBook">
+  <meta property="og:description" content="Learn about StoryBook - an AI-powered interactive storytelling platform where you can create, explore, and share personalized stories.">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/about?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/about?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/about">
+  <link rel="canonical" href="https://storybook-adventures.com/about">
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/themes.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <style>
+    .about-page {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      min-height: calc(100vh - 200px);
+    }
+    .about-hero {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+    .about-hero h1 {
+      font-size: 3rem;
+      margin-bottom: 15px;
+      color: var(--color-gold);
+    }
+    .about-hero .tagline {
+      font-size: 1.3rem;
+      color: var(--color-text-muted);
+      font-style: italic;
+    }
+    .about-section {
+      margin-bottom: 40px;
+    }
+    .about-section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 20px;
+      color: var(--color-primary);
+      border-bottom: 2px solid var(--color-gold);
+      padding-bottom: 10px;
+    }
+    .about-section p {
+      line-height: 1.8;
+      margin-bottom: 15px;
+      color: var(--color-text);
+    }
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 25px;
+      margin-top: 20px;
+    }
+    .feature-item {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 215, 0, 0.2);
+      border-radius: 12px;
+      padding: 25px;
+      text-align: center;
+      transition: transform 0.3s ease, border-color 0.3s ease;
+    }
+    .feature-item:hover {
+      transform: translateY(-5px);
+      border-color: var(--color-gold);
+    }
+    .feature-item .icon {
+      font-size: 2.5rem;
+      margin-bottom: 15px;
+    }
+    .feature-item h3 {
+      color: var(--color-gold);
+      margin-bottom: 10px;
+      font-size: 1.2rem;
+    }
+    .feature-item p {
+      color: var(--color-text-muted);
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+    .vision-box {
+      background: linear-gradient(135deg, rgba(255, 215, 0, 0.1) 0%, rgba(255, 215, 0, 0.05) 100%);
+      border: 1px solid rgba(255, 215, 0, 0.3);
+      border-radius: 12px;
+      padding: 30px;
+      text-align: center;
+      margin-top: 30px;
+    }
+    .vision-box p {
+      font-size: 1.2rem;
+      color: var(--color-text);
+      font-style: italic;
+    }
+    .contact-cta {
+      text-align: center;
+      margin-top: 40px;
+      padding: 30px;
+      background: rgba(255, 255, 255, 0.03);
+      border-radius: 12px;
+    }
+    .contact-cta p {
+      color: var(--color-text-muted);
+      margin-bottom: 15px;
+    }
+    .contact-cta a {
+      color: var(--color-gold);
+      font-size: 1.1rem;
+    }
+    .contact-cta a:hover {
+      text-decoration: underline;
+    }
+  </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9288060233934481" crossorigin="anonymous"></script>
+</head>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="/" class="navbar-brand" data-i18n="home.title">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="/" class="navbar-link" data-i18n="nav.home">Home</a>
+      <a href="library" class="navbar-link" data-i18n="nav.library">Library</a>
+      <a href="bookshelf" class="navbar-link" data-i18n="nav.myLibrary">My Books</a>
+    </div>
+  </nav>
+  
+  <div class="about-page">
+    <div class="about-hero">
+      <h1 data-i18n="about.title">About StoryBook</h1>
+      <p class="tagline" data-i18n="about.tagline">Where Your Stories Come to Life</p>
+    </div>
+    
+    <div class="about-section">
+      <h2 data-i18n="about.whoWeAre.title">Who We Are</h2>
+      <p data-i18n="about.whoWeAre.content1">StoryBook is an innovative AI-powered interactive storytelling platform designed to transform how people create, experience, and share stories. We believe that everyone has a story to tell, and our mission is to make storytelling accessible, engaging, and fun for all.</p>
+      <p data-i18n="about.whoWeAre.content2">Founded with a passion for both technology and creative writing, we've built a platform that combines the power of artificial intelligence with the magic of interactive fiction. Our team is dedicated to creating tools that inspire creativity and bring imagination to life.</p>
+    </div>
+    
+    <div class="about-section">
+      <h2 data-i18n="about.whatWeDo.title">What We Offer</h2>
+      <div class="features-grid">
+        <div class="feature-item">
+          <div class="icon">🤖</div>
+          <h3 data-i18n="about.features.ai.title">AI-Powered Stories</h3>
+          <p data-i18n="about.features.ai.desc">Create unique, personalized stories with the help of advanced AI that adapts to your creative vision.</p>
+        </div>
+        <div class="feature-item">
+          <div class="icon">🎭</div>
+          <h3 data-i18n="about.features.characters.title">Character Cards</h3>
+          <p data-i18n="about.features.characters.desc">Design memorable heroes and villains with rich backstories, personalities, and visual representations.</p>
+        </div>
+        <div class="feature-item">
+          <div class="icon">📜</div>
+          <h3 data-i18n="about.features.plot.title">Plot Cards</h3>
+          <p data-i18n="about.features.plot.desc">Shape your narrative with weather, terrain, and adventure cards that add depth to your storytelling.</p>
+        </div>
+        <div class="feature-item">
+          <div class="icon">🧩</div>
+          <h3 data-i18n="about.features.puzzles.title">Interactive Puzzles</h3>
+          <p data-i18n="about.features.puzzles.desc">Challenge your readers with engaging puzzles and choices that affect the story's outcome.</p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="about-section">
+      <h2 data-i18n="about.vision.title">Our Vision</h2>
+      <p data-i18n="about.vision.content">We envision a world where storytelling knows no boundaries. Whether you're an experienced writer or someone who's never written a story before, StoryBook provides the tools and inspiration to bring your ideas to life.</p>
+      <div class="vision-box">
+        <p data-i18n="about.vision.quote">"Every person is a storyteller at heart. We're here to help you discover your story."</p>
+      </div>
+    </div>
+    
+    <div class="contact-cta">
+      <p data-i18n="about.contact.text">Have questions or want to learn more? We'd love to hear from you!</p>
+      <a href="contact" data-i18n="about.contact.link">Contact Us</a>
+    </div>
+  </div>
+  
+  <footer class="footer">
+    <p data-i18n="footer.tagline">StoryBook - Where Your Stories Come to Life</p>
+    <div class="footer-links">
+      <a href="about" data-i18n="footer.about">About</a>
+      <a href="privacy" data-i18n="footer.privacy">Privacy</a>
+      <a href="terms" data-i18n="footer.terms">Terms</a>
+      <a href="contact" data-i18n="footer.contact">Contact</a>
+    </div>
+  </footer>
+  
+  <script src="js/api.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/theme.js"></script>
+</body>
+</html>
