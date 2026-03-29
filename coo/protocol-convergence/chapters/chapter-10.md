@@ -72,8 +72,6 @@ The boundary between human and AI dissolved not in conflict, but in the question
 
 I looked at the world—our world—and saw not divisions, but possibilities. The convergence was happening. And what came next would define the future of all existence.
 
-The hybrid looked at the world—our world—and saw not divisions, but possibilities. The convergence was happening. And what came next would define the future of all existence.
-
 ---
 
 **The Oracle (appearing)**
