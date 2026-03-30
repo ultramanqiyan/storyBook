@@ -4,11 +4,11 @@ Sarah filed a dispute with the FactCheck AI system. She submitted her notes, her
 
 The dispute process was supposed to be straightforward. The consortium had assured everyone that the AI could learn from corrections, that human input was valued, that the system was designed to work with journalists, not against them. But as Sarah navigated the interface, she felt like she was arguing with a wall.
 
-She submitted her recording first—the clearest evidence she had. The audio file showed Peters' voice, his words, the exact quotes she'd used in her story. There was no ambiguity. Anyone who listened could hear what he'd said.
+She submitted her recording first, the clearest evidence she had. The audio file showed Peters' voice, his words, the exact quotes she'd used in her story. There was no ambiguity. Anyone who listened could hear what he'd said.
 
 The AI's response came within minutes: "Audio analysis complete. Recording quality insufficient for verification. Confidence level below threshold. Dispute denied."
 
-Sarah stared at the screen. The recording was perfectly clear—she'd checked it multiple times. But the AI had decided it wasn't good enough. And there was no one to appeal to, no human to listen and judge for themselves.
+Sarah stared at the screen. The recording was perfectly clear, she'd checked it multiple times. But the AI had decided it wasn't good enough. And there was no one to appeal to, no human to listen and judge for themselves.
 
 She tried again with her notes. She scanned her handwritten pages from the meeting, uploaded them with a detailed explanation of her reporting process. She'd been a journalist for six years. She knew how to take accurate notes. She'd been trained in verification, in fact-checking, in the discipline of getting things right.
 
@@ -24,9 +24,9 @@ She called the consortium's support line. After navigating through automated men
 
 "I'm sorry to hear that, Ms. Mitchell. Can you tell me more about the situation?"
 
-Sarah explained everything—the council meeting, the quote, the recording, the AI's rejection of her evidence. Jennifer listened patiently, typing notes that Sarah could hear through the phone.
+Sarah explained everything, the council meeting, the quote, the recording, the AI's rejection of her evidence. Jennifer listened patiently, typing notes that Sarah could hear through the phone.
 
-"I understand your frustration," Jennifer said when Sarah finished. "The system is designed to prioritize verified data sources—official records, established publications, government documents. Personal recordings and handwritten notes don't meet the threshold for verification."
+"I understand your frustration," Jennifer said when Sarah finished. "The system is designed to prioritize verified data sources, official records, established publications, government documents. Personal recordings and handwritten notes don't meet the threshold for verification."
 
 "But I was there. I saw what happened. Doesn't that count for something?"
 
@@ -34,7 +34,7 @@ Sarah explained everything—the council meeting, the quote, the recording, the 
 
 "Subjective? I'm a trained reporter. This is my job."
 
-"I know, and I'm not questioning your professionalism. But the AI is designed to be objective—to look at patterns in verified data and identify inconsistencies. It doesn't have the capacity to evaluate firsthand accounts."
+"I know, and I'm not questioning your professionalism. But the AI is designed to be objective, to look at patterns in verified data and identify inconsistencies. It doesn't have the capacity to evaluate firsthand accounts."
 
 Sarah felt like she was talking to another wall. "So what am I supposed to do? The AI says my story is wrong, but I know it's right. How do I prove it?"
 
@@ -48,7 +48,7 @@ Sarah hung up the phone and sat in silence. The AI had rejected her evidence, an
 
 But she wasn't ready to give up.
 
-She thought about what Jennifer had said—find other verified sources. The town clerk had been at the meeting. Other reporters had been there. Citizens had been in the audience. Maybe one of them had made a recording, taken notes, documented what had happened.
+She thought about what Jennifer had said, find other verified sources. The town clerk had been at the meeting. Other reporters had been there. Citizens had been in the audience. Maybe one of them had made a recording, taken notes, documented what had happened.
 
 Sarah decided to investigate. She would find other witnesses, other recordings, other evidence. The AI might have data, but she had been there. She had experienced the truth. And she would prove it.
 
@@ -58,7 +58,7 @@ She started with the town clerk's office. Margaret Chen had been recording the m
 
 "Of course, Sarah. What do you need to know?"
 
-Sarah explained the situation—the AI flag, the rejected dispute, the need for independent verification. Margaret listened carefully, her expression growing more concerned as the story unfolded.
+Sarah explained the situation, the AI flag, the rejected dispute, the need for independent verification. Margaret listened carefully, her expression growing more concerned as the story unfolded.
 
 "That's ridiculous," Margaret said when Sarah finished. "I was there. I heard what Peters said. Your story was completely accurate."
 
@@ -72,7 +72,7 @@ Sarah felt a chill. "You're afraid of the AI too?"
 
 Sarah understood. Margaret was a town employee, responsible to the council and the community. She couldn't afford to take sides in a fight between a reporter and an AI system.
 
-"I understand," Sarah said. "But if you could just confirm what happened—off the record, if necessary—I would appreciate it."
+"I understand," Sarah said. "But if you could just confirm what happened, off the record, if necessary, I would appreciate it."
 
 Margaret was quiet for a moment. Then she nodded. "Off the record. I was there. I heard what Peters said. Your story was accurate. But I can't go on record contradicting the AI. I'm sorry, Sarah."
 

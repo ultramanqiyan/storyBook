@@ -1,6 +1,6 @@
 # Chapter 1: The Request
 
-Angela Morris had photographed pets for twenty years. Dogs, cats, horses, birds—she'd captured them all. But she'd never photographed anything like what Robert Chen was asking her to photograph.
+Angela Morris had photographed pets for twenty years. Dogs, cats, horses, birds, she'd captured them all. But she'd never photographed anything like what Robert Chen was asking her to photograph.
 
 "He wants you to photograph his pet," the voice on the phone said. "A memorial session."
 
@@ -39,7 +39,7 @@ Angela stared at the thing by the fireplace. It looked like a dog, moved like a 
 
 Angela had photographed hundreds of pets. She'd captured the love between humans and animals, the bonds that made the grief of loss worth bearing. But this was different. Or was it?
 
-Robert loved Buddy. That was clear in every line of his face, every tremor in his voice. And Buddy—whatever he was—seemed to love Robert back.
+Robert loved Buddy. That was clear in every line of his face, every tremor in his voice. And Buddy, whatever he was, seemed to love Robert back.
 
 What did it mean to love a machine? What did it mean for a machine to love you back?
 
@@ -48,7 +48,7 @@ What did it mean to love a machine? What did it mean for a machine to love you b
 
 The session was set for the following week. Angela spent the days between researching AI companions, trying to understand what she was about to photograph.
 
-The technology had advanced rapidly. Early models like Buddy had been designed for companionship—simple emotional support for isolated elderly people. Newer models were more sophisticated, capable of complex relationships, genuine-seeming emotional responses.
+The technology had advanced rapidly. Early models like Buddy had been designed for companionship, simple emotional support for isolated elderly people. Newer models were more sophisticated, capable of complex relationships, genuine-seeming emotional responses.
 
 But were they real? Could a machine feel love? Or was it just programming?
 

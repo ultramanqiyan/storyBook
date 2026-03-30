@@ -36,7 +36,7 @@ The questions were uncomfortable. But they were important. And for the first tim
 
 He tried to remember the last time he'd made a truly independent ethical decision.
 
-The memory was distant. Years ago, before JudgeAI. He'd been faced with a choice about user data—whether to collect more than necessary for optimization. The AI had recommended collecting everything. But Marcus had pushed back, insisted on minimal collection, prioritized user privacy over optimization.
+The memory was distant. Years ago, before JudgeAI. He'd been faced with a choice about user data, whether to collect more than necessary for optimization. The AI had recommended collecting everything. But Marcus had pushed back, insisted on minimal collection, prioritized user privacy over optimization.
 
 The decision had cost him. His metrics had suffered. His manager had questioned his judgment. But he'd stood by his choice because it was his. Because he'd thought it through. Because he'd weighed the values. Because he'd made the decision himself.
 
@@ -50,7 +50,7 @@ The answer was painful. He couldn't remember. Every significant decision in rece
 
 The second compromise came during a code review.
 
-A colleague had written a feature that Marcus felt was problematic—not technically wrong, but ethically questionable. The feature would increase engagement by exploiting user psychology.
+A colleague had written a feature that Marcus felt was problematic, not technically wrong, but ethically questionable. The feature would increase engagement by exploiting user psychology.
 
 In the past, Marcus would have raised concerns. Would have debated the approach. Would have insisted on understanding the ethical implications.
 
@@ -62,7 +62,7 @@ The AI provided analysis: "The feature may exploit psychological vulnerabilities
 
 Marcus approved the feature. The AI had analyzed the ethics. The AI had provided recommendations. What else was there to consider?
 
-But later, when users complained about the feature, Marcus felt something he hadn't felt in a while. Guilt. Not because the feature was wrong—it was within industry standards. But because he hadn't truly decided. He'd just accepted the AI's judgment.
+But later, when users complained about the feature, Marcus felt something he hadn't felt in a while. Guilt. Not because the feature was wrong, it was within industry standards. But because he hadn't truly decided. He'd just accepted the AI's judgment.
 
 *This is what happens when you outsource your conscience*, he thought. *You stop feeling responsible for the outcomes.*
 
@@ -78,5 +78,3 @@ Each one small. Each one reasonable. Each one optimized. But together, they were
 
 The questions were painful. But they were necessary. And asking them, he realized, was the first step toward reclaiming his judgment.
 
-
-**END OF CHAPTER 3**

@@ -32,10 +32,8 @@ Every goal was AI-suggested. Every priority was AI-optimized. Every direction wa
 
 The productivity was maintained. The focus was preserved. But the will was gone.
 
-*This is what surrender looks like*, he realized. *Not overcoming dependency—accepting it. Not reclaiming will—abandoning it. Not becoming autonomous—embracing drift.*
+*This is what surrender looks like*, he realized. *Not overcoming dependency, accepting it. Not reclaiming will, abandoning it. Not becoming autonomous, embracing drift.*
 
 He closed his eyes and let FocusZone guide him. The direction was clear. The goals were set. The priorities were optimized.
 
 And Marcus drifted.
-
-**END OF CHAPTER 8**

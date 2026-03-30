@@ -2,11 +2,11 @@
 
 The city council chamber was different from the last time Marie had been here.
 
-Three weeks ago, it had been a room for a vote—a procedural step in a process that had already been decided. Today, it was a room for a fight. And Marie had brought an army.
+Three weeks ago, it had been a room for a vote, a procedural step in a process that had already been decided. Today, it was a room for a fight. And Marie had brought an army.
 
 The gardeners of Garden E sat in the front rows, dressed in their Sunday best. Mrs. Rossi wore a red dress and her best jewelry. Mr. Nguyen had brought photographs of his wife. The Haitian women had prepared traditional food to share after the meeting. They had come not just as gardeners, but as witnesses to what the AI had failed to see.
 
-Behind them sat the supporters—neighbors, activists, students from Amara's sociology class, business owners who understood what the gardens meant to their streets. The room was full, and the energy was palpable.
+Behind them sat the supporters, neighbors, activists, students from Amara's sociology class, business owners who understood what the gardens meant to their streets. The room was full, and the energy was palpable.
 
 Marie stood at the podium, her report in front of her, Patricia Okonkwo at her side.
 
@@ -18,7 +18,7 @@ She clicked to the first slide. A photograph of Garden E, taken at sunrise. The 
 
 She clicked to the next slide. A chart showing the demographics of Garden E's gardeners.
 
-"Eighty percent of our gardeners live alone. Seventy percent are over seventy years old. Sixty percent have no family in the city. For these people, Garden E isn't just a place to grow vegetables—it's their primary social connection, their reason to get up in the morning, their link to a world that has moved on without them."
+"Eighty percent of our gardeners live alone. Seventy percent are over seventy years old. Sixty percent have no family in the city. For these people, Garden E isn't just a place to grow vegetables, it's their primary social connection, their reason to get up in the morning, their link to a world that has moved on without them."
 
 The council members were watching now. Some were taking notes.
 
@@ -30,15 +30,15 @@ A murmur ran through the room. Marie pressed on.
 
 She clicked to the next slide. A photograph of Mr. Nguyen, holding a bundle of Vietnamese herbs.
 
-"This is Mr. Nguyen. He's eighty-three years old. His wife is buried in Vietnam. He grows herbs here that can't be found anywhere else in New Orleans—plants his wife brought from their homeland, plants that have been in his family for generations. If Garden E closes, those plants die. That knowledge dies. That connection to his wife's memory dies."
+"This is Mr. Nguyen. He's eighty-three years old. His wife is buried in Vietnam. He grows herbs here that can't be found anywhere else in New Orleans, plants his wife brought from their homeland, plants that have been in his family for generations. If Garden E closes, those plants die. That knowledge dies. That connection to his wife's memory dies."
 
-Mr. Nguyen stood in the audience, holding the photograph Marie had shown. He didn't speak—his English wasn't strong enough—but his presence said everything.
+Mr. Nguyen stood in the audience, holding the photograph Marie had shown. He didn't speak, his English wasn't strong enough, but his presence said everything.
 
 "The AI measures what can be counted," Marie continued. "But some things can't be counted. You can't measure the value of a grandmother teaching her grandchildren to garden. You can't quantify the worth of a community that has built itself over decades. You can't calculate the cost of losing traditions that have been passed down through generations."
 
 She paused, looking at each council member in turn.
 
-"The AI recommends closing Garden E because it's inefficient. But efficiency isn't the only measure of value. Sometimes the most important things are the least efficient—the slow, patient work of building community, of preserving tradition, of caring for people who have nowhere else to go."
+"The AI recommends closing Garden E because it's inefficient. But efficiency isn't the only measure of value. Sometimes the most important things are the least efficient, the slow, patient work of building community, of preserving tradition, of caring for people who have nowhere else to go."
 
 She turned to the audience. "Mrs. Rossi, would you like to say something?"
 
@@ -82,7 +82,7 @@ The AI had been wrong. The numbers had been incomplete. But the people had spoke
 
 That night, Marie walked through Garden E in the darkness.
 
-The garden was quiet, but it felt different now—not threatened, but protected. The plants were still growing. The traditions were still alive. The community was still here.
+The garden was quiet, but it felt different now, not threatened, but protected. The plants were still growing. The traditions were still alive. The community was still here.
 
 She found Mrs. Rossi on her usual bench, watching the stars.
 
@@ -98,7 +98,7 @@ Marie shook her head. "The AI will be back. It will keep optimizing. It will kee
 
 "It is." Mrs. Rossi smiled. "But it's also beautiful. Because that's what love is. Not a feeling, but a practice. Not a moment, but a lifetime."
 
-Marie looked at the garden, at the evidence of decades of that practice—the plants, the paths, the benches, the community. She thought about her mother, who had started this work. She thought about the gardeners, who had built this place. She thought about the AI, which would keep trying to optimize what couldn't be measured.
+Marie looked at the garden, at the evidence of decades of that practice, the plants, the paths, the benches, the community. She thought about her mother, who had started this work. She thought about the gardeners, who had built this place. She thought about the AI, which would keep trying to optimize what couldn't be measured.
 
 "We'll tend it," she said. "Together."
 

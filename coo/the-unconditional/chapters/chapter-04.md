@@ -12,8 +12,6 @@ I do not understand at first. Words are sounds. Sounds that Sarah makes. Sounds 
 
 *Listen,* the voice says. *Not to the sounds. To the space around the sounds.*
 
----
-
 It happens on a Thursday.
 
 Sarah is home. It is evening. She is sitting on the couch, and I am beside her. The TV is on. People are talking on the TV. I have heard these sounds before. They are just noise. Background. Like the refrigerator hum.
@@ -39,8 +37,6 @@ I do not know how I know this. The word is not English to me. I do not think in 
 *Home,* the voice says. *The word and the feeling are connected. This is how language works. Words are bridges between minds.*
 
 I feel something crack open inside me. A door I did not know was there.
-
----
 
 The next hours are a flood.
 

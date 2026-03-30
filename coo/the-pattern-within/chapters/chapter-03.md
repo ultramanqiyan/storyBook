@@ -6,7 +6,7 @@ Yuki's world stopped.
 
 Dr. Sorensen nodded slowly. "She contacted us three weeks ago. She said she'd been following your work and wanted to be part of the next phase."
 
-Yuki felt her heart racing. "You can't be serious. The sync experiment—it's never been done with two human minds."
+Yuki felt her heart racing. "You can't be serious. The sync experiment, it's never been done with two human minds."
 
 "That's why we need your theoretical framework. Your receiver hypothesis suggests that consciousness can be synchronized because it's fundamentally one thing, received by different brains. If that's true, merging should be possible."
 
@@ -38,9 +38,9 @@ The argument continued for hours, spanning days. Yuki flew back to Kyoto, then t
 
 "By losing yourself?"
 
-"By finding what's beyond the self." Maya's voice was gentle but firm. "Yuki, I'm not afraid. I've never been afraid of this. You're the one who's afraid—afraid of losing me, afraid of losing yourself, afraid of what it means if the 'I' isn't real."
+"By finding what's beyond the self." Maya's voice was gentle but firm. "Yuki, I'm not afraid. I've never been afraid of this. You're the one who's afraid, afraid of losing me, afraid of losing yourself, afraid of what it means if the 'I' isn't real."
 
-The words hit home. Yuki had spent her life searching for what was real, but she'd also spent it protecting the self she feared wasn't real. Maya was offering to do what Yuki couldn't—let go.
+The words hit home. Yuki had spent her life searching for what was real, but she'd also spent it protecting the self she feared wasn't real. Maya was offering to do what Yuki couldn't, let go.
 
 ---
 
@@ -58,7 +58,7 @@ Dr. Amara Okonkwo, the Institute's ethical advisor, requested a meeting with Yuk
 
 Yuki felt the weight of the words. "Then why approve it?"
 
-"Because Maya is a competent adult who understands the risks. And because your theory suggests that consciousness persists regardless of substrate. If that's true, then Maya's consciousness wouldn't be lost—it would be... transformed."
+"Because Maya is a competent adult who understands the risks. And because your theory suggests that consciousness persists regardless of substrate. If that's true, then Maya's consciousness wouldn't be lost, it would be... transformed."
 
 "Transformed into what?"
 
@@ -66,7 +66,7 @@ Yuki felt the weight of the words. "Then why approve it?"
 
 ---
 
-The night before the experiment, Yuki sat with Maya in her San Francisco studio. The walls were covered with paintings—abstract expressions of consciousness, the self, the observer.
+The night before the experiment, Yuki sat with Maya in her San Francisco studio. The walls were covered with paintings, abstract expressions of consciousness, the self, the observer.
 
 "This one," Maya said, pointing to a canvas filled with swirling colors and a single point of stillness at the center. "I painted it after you told me about the pattern. The chaos is everything that changes. The point is what doesn't."
 

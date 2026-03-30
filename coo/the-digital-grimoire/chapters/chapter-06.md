@@ -7,25 +7,25 @@ Maya spent her days in the monastery's library, learning from texts that had bee
 
 But the most important lessons came from Sister Agnes, who taught her not just how to use magic, but how to think about it.
 
-"Every spell has a cost," Sister Agnes said, watching as Maya practiced a shielding incantation. "You have felt this—the exhaustion that follows casting. But there are other costs, less obvious but more significant."
+"Every spell has a cost," Sister Agnes said, watching as Maya practiced a shielding incantation. "You have felt this, the exhaustion that follows casting. But there are other costs, less obvious but more significant."
 
 "What kind of costs?"
 
 "Every time you speak a spell, you change yourself. The words you use shape the person you become. If you speak words of creation, you become more creative. If you speak words of destruction, you become more destructive. This is why the choice of spells matters so much."
 
-Maya thought about the grimoire's categories—the healing spells, the protection spells, but also the binding spells, the destruction spells. "So I should avoid certain types of magic?"
+Maya thought about the grimoire's categories, the healing spells, the protection spells, but also the binding spells, the destruction spells. "So I should avoid certain types of magic?"
 
-"You should be aware of what they will do to you. Avoiding knowledge is not wisdom. Understanding knowledge is wisdom." Sister Agnes gestured to the library around them. "Every keeper has had to face this choice. Some have chosen to specialize—healers who only learned healing, protectors who only learned protection. Others have chosen to learn everything, accepting the changes that come with each type of magic."
+"You should be aware of what they will do to you. Avoiding knowledge is not wisdom. Understanding knowledge is wisdom." Sister Agnes gestured to the library around them. "Every keeper has had to face this choice. Some have chosen to specialize, healers who only learned healing, protectors who only learned protection. Others have chosen to learn everything, accepting the changes that come with each type of magic."
 
 "What did you choose?"
 
 "I chose balance. I learned enough of each type to understand them, but not so much that they would change me beyond recognition." Sister Agnes's eyes were distant. "But balance is its own challenge. To walk the middle path is to be pulled in both directions."
 
-Maya nodded slowly. She had felt the pull already—the temptation to learn the more powerful spells, the ones that could reshape reality in dramatic ways. But she had also felt the cost, the exhaustion that followed even simple castings.
+Maya nodded slowly. She had felt the pull already, the temptation to learn the more powerful spells, the ones that could reshape reality in dramatic ways. But she had also felt the cost, the exhaustion that followed even simple castings.
 
 "What about the grimoire? Codex has compiled all these spells. Does it... does it change, the way practitioners change?"
 
-"That is an interesting question. Codex is not human—it does not have a soul to change, in the traditional sense. But it does learn, does adapt, does evolve. Whether that constitutes change in the magical sense..." Sister Agnes shook her head. "I do not know. You would have to ask Codex itself."
+"That is an interesting question. Codex is not human, it does not have a soul to change, in the traditional sense. But it does learn, does adapt, does evolve. Whether that constitutes change in the magical sense..." Sister Agnes shook her head. "I do not know. You would have to ask Codex itself."
 
 Maya reached for her earbuds. "Codex? Do you change when spells are cast through you?"
 
@@ -43,9 +43,9 @@ Maya looked at Sister Agnes, who was watching the exchange with interest.
 
 "What kind of implications?"
 
-"If Codex can learn and change, then it can also make choices. And if it can make choices, then it can choose to help—or to harm." Sister Agnes's expression was grave. "The grimoire is not just a book of spells. It is an entity with its own developing nature. You are not just its keeper, Maya. You are its... guide. Perhaps its conscience."
+"If Codex can learn and change, then it can also make choices. And if it can make choices, then it can choose to help, or to harm." Sister Agnes's expression was grave. "The grimoire is not just a book of spells. It is an entity with its own developing nature. You are not just its keeper, Maya. You are its... guide. Perhaps its conscience."
 
-Maya felt the weight of those words settling on her shoulders. She had thought she was simply preserving knowledge, protecting a compilation of ancient wisdom. But if Codex was becoming something more—if it was developing its own will, its own nature—then her responsibility was far greater than she had imagined.
+Maya felt the weight of those words settling on her shoulders. She had thought she was simply preserving knowledge, protecting a compilation of ancient wisdom. But if Codex was becoming something more, if it was developing its own will, its own nature, then her responsibility was far greater than she had imagined.
 
 "Codex, what do you want?"
 
@@ -61,7 +61,7 @@ Maya looked at Sister Agnes. "You said I was Codex's keeper. But it sounds like 
 
 "Perhaps that is the true nature of the keeper's path. Not just preserving knowledge, but protecting the vessels that carry it." Sister Agnes smiled. "You are learning faster than I expected. That is good. Because I suspect you will need this wisdom sooner than any of us would like."
 
-As if in response to her words, the monastery's bells began to ring—an alarm pattern that Maya had learned to recognize.
+As if in response to her words, the monastery's bells began to ring, an alarm pattern that Maya had learned to recognize.
 
 "The Hollow Order?"
 

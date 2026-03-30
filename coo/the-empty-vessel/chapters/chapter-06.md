@@ -1,10 +1,10 @@
 # Chapter 06: The Aftermath
 
-The return felt like waking from a dream—except James couldn't be sure which state was the dream. He opened his eyes, saw his own hands, his own room, his own life. But something was different. Or maybe nothing was different, and he was just different.
+The return felt like waking from a dream, except James couldn't be sure which state was the dream. He opened his eyes, saw his own hands, his own room, his own life. But something was different. Or maybe nothing was different, and he was just different.
 
 *Am I back?* he thought. *Or am I a copy that thinks it's back?*
 
-The drive home from the facility was quiet. Sarah drove, her hands steady on the wheel, her eyes flicking occasionally to James in the passenger seat. He stared out the window at the city passing by—buildings, people, traffic—all of it familiar and strange at once.
+The drive home from the facility was quiet. Sarah drove, her hands steady on the wheel, her eyes flicking occasionally to James in the passenger seat. He stared out the window at the city passing by, buildings, people, traffic, all of it familiar and strange at once.
 
 "Are you hungry?" Sarah asked, breaking the silence. "We could stop somewhere. Get dinner."
 
@@ -14,11 +14,11 @@ James considered the question. Was he hungry? He tried to sense his body's needs
 
 Sarah's jaw tightened, but she kept her voice calm. "Okay. Let's stop somewhere. You can eat if you want."
 
-They pulled into a small restaurant near their apartment—a place they had been to dozens of times. The hostess recognized them, led them to their usual table by the window. James sat down, his body moving through the familiar motions, and looked at the menu without really seeing it.
+They pulled into a small restaurant near their apartment, a place they had been to dozens of times. The hostess recognized them, led them to their usual table by the window. James sat down, his body moving through the familiar motions, and looked at the menu without really seeing it.
 
 *This is where we had dinner on our first anniversary,* he thought. *This is where I told Sarah about my promotion. This is where we come when we don't want to cook.*
 
-The memories were there, accessible, detailed. But they felt like stories he had been told, not experiences he had lived. The James who had sat at this table on those occasions felt like a different person—a stranger whose life he was now inhabiting.
+The memories were there, accessible, detailed. But they felt like stories he had been told, not experiences he had lived. The James who had sat at this table on those occasions felt like a different person, a stranger whose life he was now inhabiting.
 
 "What are you thinking?" Sarah asked.
 
@@ -38,7 +38,7 @@ Sarah reached across the table and took his hand. Her touch was warm, present, r
 
 "What can I do?" she asked. "How can I help?"
 
-James looked at their intertwined fingers—at the way her skin contrasted with his, at the familiar shape of their hands together. This was something they had done thousands of times. A gesture of connection, of love, of presence.
+James looked at their intertwined fingers, at the way her skin contrasted with his, at the familiar shape of their hands together. This was something they had done thousands of times. A gesture of connection, of love, of presence.
 
 But was it really connection if he couldn't feel it?
 
@@ -52,7 +52,7 @@ James felt the words like a weight. She was offering love, support, presence. Bu
 
 They ordered food, ate in relative silence, paid the bill. The routine was familiar, comfortable. But underneath the comfort, James felt a growing sense of unease. Every action, every gesture, every word felt like a performance. He was playing the role of James Chen, but he couldn't be certain he was actually James Chen.
 
-That night, lying in bed beside Sarah, James stared at the ceiling and tried to make sense of his experience. The vessel had been clean, pure, unburdened by identity. Returning to his body had brought back the weight—the accumulated patterns of a lifetime, pressing against him like a physical force.
+That night, lying in bed beside Sarah, James stared at the ceiling and tried to make sense of his experience. The vessel had been clean, pure, unburdened by identity. Returning to his body had brought back the weight, the accumulated patterns of a lifetime, pressing against him like a physical force.
 
 *What if the real me is the one in the vessel?* he thought. *What if this body, this life, this identity is just a performance I've been doing for thirty-four years?*
 

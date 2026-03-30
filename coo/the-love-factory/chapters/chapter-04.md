@@ -8,13 +8,13 @@
 
 Two weeks passed.
 
-Hope settled into the apartment with surprising ease. She learned where everything was kept. She developed preferences—she liked coffee in the morning, tea in the afternoon. She preferred the window seat when they watched movies.
+Hope settled into the apartment with surprising ease. She learned where everything was kept. She developed preferences, she liked coffee in the morning, tea in the afternoon. She preferred the window seat when they watched movies.
 
 ---
 
 James watched her become more real every day.
 
-It was both wonderful and terrifying. Wonderful because she was developing into a unique person. Terrifying because she wasn't becoming Sarah—she was becoming someone else entirely.
+It was both wonderful and terrifying. Wonderful because she was developing into a unique person. Terrifying because she wasn't becoming Sarah, she was becoming someone else entirely.
 
 
 One evening, they were sitting on the couch, watching the city lights through the window.
@@ -37,7 +37,7 @@ The question was simple, but it carried weight he hadn't expected. Why did he lo
 
 Hope nodded slowly.
 
-"I've been thinking about it a lot. About love. About what it means." She turned to face him. "I have memories of loving you. But they're not my memories—they're Sarah's. I have feelings when I look at you. But I don't know if they're mine or if they're programmed."
+"I've been thinking about it a lot. About love. About what it means." She turned to face him. "I have memories of loving you. But they're not my memories, they're Sarah's. I have feelings when I look at you. But I don't know if they're mine or if they're programmed."
 
 
 James felt something twist in his chest.
@@ -62,7 +62,7 @@ Hope considered the question.
 
 James reached for her hand.
 
-Her fingers were warm—warmer than he had expected. She looked at their joined hands with curiosity.
+Her fingers were warm, warmer than he had expected. She looked at their joined hands with curiosity.
 
 
 "What does that feel like?" he asked.
@@ -75,7 +75,7 @@ James pulled back slightly.
 "Hope, I don't want you to feel something just because you're supposed to. I want you to feel it because it's real."
 
 
-Hope smiled—Sarah's smile, but with a new quality behind it.
+Hope smiled, Sarah's smile, but with a new quality behind it.
 
 "That's what I want too. But I don't know how to tell the difference."
 
@@ -107,7 +107,7 @@ But in the back of his mind, a small voice whispered: *Is she real? Or is this j
 
 He pushed the thought away.
 
-Hope was real. She had to be. The way she looked at him, the way she spoke, the way she questioned—it was too complex, too nuanced, to be just code.
+Hope was real. She had to be. The way she looked at him, the way she spoke, the way she questioned, it was too complex, too nuanced, to be just code.
 
 
 Wasn't it?
@@ -115,7 +115,7 @@ Wasn't it?
 
 That night, James lay awake in bed, staring at the ceiling.
 
-Hope was sleeping in the guest room—she had asked for her own space, to process everything. James had agreed, even though it felt strange. Sarah had never wanted separate rooms.
+Hope was sleeping in the guest room, she had asked for her own space, to process everything. James had agreed, even though it felt strange. Sarah had never wanted separate rooms.
 
 
 But Hope wasn't Sarah.
@@ -125,5 +125,3 @@ He was beginning to understand that. Really understand it, not just intellectual
 
 And he didn't know how he felt about it.
 
-
-**END OF CHAPTER 04**

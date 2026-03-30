@@ -42,5 +42,3 @@ But it was his decision. His judgment. His moral sense.
 
 The insight was small. But it was significant. Because it meant his moral capacity wasn't gone. It had just been buried under AI optimization. And now, he was digging it out.
 
-
-**END OF CHAPTER 7**

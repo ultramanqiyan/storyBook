@@ -6,7 +6,7 @@ I've never been to a university before. The buildings are old. Brick and stone. 
 
 It feels like another world.
 
-I find the Psychology building. I go inside. The hallways are long. The floors are linoleum—worn smooth by decades of footsteps. The walls are covered with bulletin boards—flyers for lectures, study groups, research studies. The fluorescent lights hum overhead.
+I find the Psychology building. I go inside. The hallways are long. The floors are linoleum, worn smooth by decades of footsteps. The walls are covered with bulletin boards, flyers for lectures, study groups, research studies. The fluorescent lights hum overhead.
 
 I find Dr. Rivera's office. Room 312.
 
@@ -18,7 +18,7 @@ I knock. My knuckles sting against the wooden door.
 
 Dr. Rivera is younger than I expected.
 
-She's maybe forty. Dark hair. Kind eyes. She's sitting behind a desk covered with papers and books. A computer. A cup of coffee—steam still rising from it. A plant in the corner, its leaves slightly wilted.
+She's maybe forty. Dark hair. Kind eyes. She's sitting behind a desk covered with papers and books. A computer. A cup of coffee, steam still rising from it. A plant in the corner, its leaves slightly wilted.
 
 She looks up when I enter. She smiles. Not a perfect smile. One of her teeth is slightly crooked.
 
@@ -34,7 +34,7 @@ I sit. The chair is comfortable. Soft. The fabric is worn in places. The kind of
 
 I stare at her. "You helped create it?"
 
-"I helped study it. There's a difference." She pauses. Her fingers tap on the desk—a nervous habit. "The system wasn't created by one person. It was developed over decades. By scientists. Doctors. Engineers. People who wanted to help."
+"I helped study it. There's a difference." She pauses. Her fingers tap on the desk, a nervous habit. "The system wasn't created by one person. It was developed over decades. By scientists. Doctors. Engineers. People who wanted to help."
 
 "Help?" My voice is bitter. "It took my parents away from me."
 
@@ -48,7 +48,7 @@ I tell her everything.
 
 The perfect family. The subtle wrongness. The discovery. The documents. The escape.
 
-She listens. She takes notes—her pen scratching on paper. Her face is calm. Attentive. She doesn't interrupt.
+She listens. She takes notes, her pen scratching on paper. Her face is calm. Attentive. She doesn't interrupt.
 
 When I'm done, she's quiet for a moment. The clock on her wall ticks. A car horn honks outside.
 
@@ -152,7 +152,7 @@ She looks at me. Her eyes are kind. The lines around them crinkle.
 
 I leave her office.
 
-The sun is setting. The campus is quiet. Students are heading home. The air is cool. It smells like autumn—dry leaves and distant woodsmoke.
+The sun is setting. The campus is quiet. Students are heading home. The air is cool. It smells like autumn, dry leaves and distant woodsmoke.
 
 I walk slowly. Thinking.
 
@@ -167,7 +167,7 @@ And now they're trapped in a perfect cage of their own making.
 
 I go back to my hotel room.
 
-I lie on the bed. The sheets are rough. The mattress creaks. Through the thin walls, I can hear someone's TV—a laugh track, then silence, then another laugh track.
+I lie on the bed. The sheets are rough. The mattress creaks. Through the thin walls, I can hear someone's TV, a laugh track, then silence, then another laugh track.
 
 I think about my mother. The woman who cried when I scraped my knee. The woman who trembled with fear. The woman who was messy and real and human.
 
@@ -198,7 +198,7 @@ But to see them. To be with them. To find whatever is left of the people they us
 
 I pack my bag. The zipper sticks. I have to yank it.
 
-I write a note to Marcus. I leave it at the front desk of the hotel. The clerk is different from before—younger. He doesn't look up from his phone when I hand it to him.
+I write a note to Marcus. I leave it at the front desk of the hotel. The clerk is different from before, younger. He doesn't look up from his phone when I hand it to him.
 
 I take the bus.
 

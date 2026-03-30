@@ -22,7 +22,7 @@ Dr. Chen nodded slowly, her expression thoughtful. She had been expecting this, 
 
 "How so?"
 
-"If truth is created, not discovered, then someone has to create it. Someone has to decide what becomes true and what doesn't. That's what verification does—it doesn't reveal reality, it shapes it."
+"If truth is created, not discovered, then someone has to create it. Someone has to decide what becomes true and what doesn't. That's what verification does, it doesn't reveal reality, it shapes it."
 
 James stared at her. "That's a terrifying responsibility."
 
@@ -69,7 +69,7 @@ Both had understood something James was only beginning to grasp: Truth is not pa
 
 *So what is my job?* he wondered. *To observe truth without changing it? Or to change truth through observation?*
 
-He realized the answer was both—and neither.
+He realized the answer was both, and neither.
 
 His job was to participate in the creation of reality. To be one of the observers whose collective attention shaped what became true. To accept that truth was not something he found, but something he helped make.
 
@@ -115,5 +115,3 @@ The question echoed in his mind, challenging everything he had built his career 
 And the answer would shape not just his work, but reality itself.
 
 ---
-
-**End of Chapter 7**

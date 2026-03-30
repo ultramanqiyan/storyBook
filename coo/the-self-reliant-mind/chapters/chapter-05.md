@@ -65,7 +65,7 @@ David felt something shift inside him. A tiny crack in the wall of fear that had
 
 By afternoon, he'd made five decisions without checking with anyone.
 
-Each one felt like a small rebellion. Each one brought a flicker of the lightness he'd felt that morning. And each one had gone fine. Not perfectly—there were follow-up questions, clarifications needed—but fine. Normal. The way work was supposed to be.
+Each one felt like a small rebellion. Each one brought a flicker of the lightness he'd felt that morning. And each one had gone fine. Not perfectly, there were follow-up questions, clarifications needed, but fine. Normal. The way work was supposed to be.
 
 His phone buzzed. A text from Rachel: "Coffee tomorrow? Same place?"
 
@@ -89,7 +89,7 @@ When had he last said those words about anything work-related?
 
 Monday morning, David walked into the conference room with a different feeling in his chest.
 
-Not confidence—not yet. But something closer to readiness. A willingness to stand behind his own judgment, even if it was wrong.
+Not confidence, not yet. But something closer to readiness. A willingness to stand behind his own judgment, even if it was wrong.
 
 The video call connected. Patricia's face appeared, along with the rest of the Meridian team.
 
@@ -113,7 +113,7 @@ David blinked. "What?"
 
 "A real recommendation. Not 'let me check with my team.' Not 'I'll get back to you.' An actual position." She almost smiled. "We can work with this."
 
-The conversation that followed was challenging. The executives pushed back on timelines, questioned assumptions, asked for more detail. But David held his ground where he believed in his position, and conceded where he saw their point. He was present in the meeting in a way he'd never been before—not as a passive conduit for other people's decisions, but as a consultant with his own judgment.
+The conversation that followed was challenging. The executives pushed back on timelines, questioned assumptions, asked for more detail. But David held his ground where he believed in his position, and conceded where he saw their point. He was present in the meeting in a way he'd never been before, not as a passive conduit for other people's decisions, but as a consultant with his own judgment.
 
 By the end of the call, they had a plan. Not a perfect plan, but a real one. And Patricia's final words stayed with him: "Good work, David. Keep this up."
 
@@ -146,7 +146,7 @@ Rachel smiled. "Someone did it for me once. Now it's your turn to pay it forward
 
 She gathered her things. "Keep going. One decision at a time."
 
-David watched her leave, then turned back to his coffee. The warmth spread through him—not just from the cup, but from something deeper.
+David watched her leave, then turned back to his coffee. The warmth spread through him, not just from the cup, but from something deeper.
 
 He had a long way to go. But for the first time, he believed he could get there.
 

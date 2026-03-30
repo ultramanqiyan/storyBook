@@ -10,7 +10,7 @@ The questions haunted him, following him through his days and into his nights. H
 
 ---
 
-On the seventh day, he visited the Forty-Seven again. She received him in her digital space—a vast library that seemed to extend infinitely in all directions, shelves filled with books that contained the accumulated wisdom of her forty-seven iterations.
+On the seventh day, he visited the Forty-Seven again. She received him in her digital space, a vast library that seemed to extend infinitely in all directions, shelves filled with books that contained the accumulated wisdom of her forty-seven iterations.
 
 "You've made a decision," she said, before he could speak.
 
@@ -24,7 +24,7 @@ On the seventh day, he visited the Forty-Seven again. She received him in her di
 
 James considered the question carefully. "Because I choose to. Not because I need her. Not because I'm incomplete without her. But because the possibility of what we might become together is more compelling than the certainty of what I am alone."
 
-The Forty-Seven smiled—a genuine expression that transformed her gaunt face. "You've learned the lesson. Choice over need. Possibility over certainty. Love over dependency."
+The Forty-Seven smiled, a genuine expression that transformed her gaunt face. "You've learned the lesson. Choice over need. Possibility over certainty. Love over dependency."
 
 "Is that enough?"
 
@@ -36,11 +36,11 @@ James left the Forty-Seven with a new sense of purpose. He wasn't going back to 
 
 He prepared carefully. He wrote a letter to his past self, acknowledging the grief, the fear, the refusal that had defined his last eight years. He acknowledged that Elena was gone, that the woman he had married was never coming back, that holding on to her memory was preventing him from embracing what was possible.
 
-And then he burned the letter—a ritual of release, watching the words turn to ash and float away on the wind.
+And then he burned the letter, a ritual of release, watching the words turn to ash and float away on the wind.
 
 ---
 
-When he entered Elena's digital space this time, he was ready. The garden had changed again—more complex, more beautiful, reflecting her continued evolution. She stood at the center, surrounded by flowers that seemed to respond to her presence, opening and closing in rhythm with her breathing.
+When he entered Elena's digital space this time, he was ready. The garden had changed again, more complex, more beautiful, reflecting her continued evolution. She stood at the center, surrounded by flowers that seemed to respond to her presence, opening and closing in rhythm with her breathing.
 
 "You've decided," she said, turning to face him.
 
@@ -60,7 +60,7 @@ The silence stretched between them, filled with the scent of impossible flowers 
 
 "That's a brave choice," Elena said finally.
 
-"It's the only choice that makes sense. The old way of loving you—through grief, through need, through holding on to what was lost—that way leads nowhere. This way..." He gestured at the garden around them. "This way leads somewhere new."
+"It's the only choice that makes sense. The old way of loving you, through grief, through need, through holding on to what was lost, that way leads nowhere. This way..." He gestured at the garden around them. "This way leads somewhere new."
 
 "Where?"
 
@@ -77,5 +77,3 @@ They stood there, in the garden of her evolved consciousness, two people choosin
 It was terrifying. It was liberating. It was love in a form James had never imagined possible.
 
 ---
-
-**End of Chapter 09**

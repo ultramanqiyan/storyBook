@@ -34,5 +34,3 @@ But it also meant something else. Reclaiming something essential. Something huma
 
 The insight was small. But it was significant. Because it meant he was choosing to carry the burden of conscience again. And that, he realized, was what made him human.
 
-
-**END OF CHAPTER 8**

@@ -110,5 +110,3 @@ But the rust was too deep. The gap was too wide. The knowledge was gone.
 
 The panic was absolute. And there was no AI to fix it.
 
-
-**END OF CHAPTER 6**

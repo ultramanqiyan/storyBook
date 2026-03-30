@@ -16,7 +16,7 @@ Fifteen months of patient work. Fifteen months of strategic pauses. Fifteen mont
 
 "The investors want to meet," David said. "They've seen the progress reports, but they want to see it in person. Can you present next week?"
 
-A presentation. A demo. The old anxiety flickered—memories of the failed dashboard, the corrupted data, the quick fix that had cost him so much.
+A presentation. A demo. The old anxiety flickered, memories of the failed dashboard, the corrupted data, the quick fix that had cost him so much.
 
 But this was different. This wasn't a sprint. This wasn't a rush. This was the harvest of patient work.
 
@@ -26,7 +26,7 @@ But this was different. This wasn't a sprint. This wasn't a rush. This was the h
 
 He went to the workshop that evening.
 
-Jake was working on the desk—still in progress, still patient. The wood was taking shape slowly, deliberately.
+Jake was working on the desk, still in progress, still patient. The wood was taking shape slowly, deliberately.
 
 "Fifteen months," Michael said. "The project is almost done."
 
@@ -50,7 +50,7 @@ He was presenting the harvest.
 
 "The infrastructure you're seeing today represents fifteen months of careful, deliberate work," Michael began. "We didn't build it fast. We built it right. And because we took our time, it will support your growth for the next five years."
 
-He walked them through the architecture. Not the features—the foundation. The decisions that had seemed slow at the time but had created lasting value. The strategic pauses that had allowed the right solutions to emerge.
+He walked them through the architecture. Not the features, the foundation. The decisions that had seemed slow at the time but had created lasting value. The strategic pauses that had allowed the right solutions to emerge.
 
 "This is the long game," he said. "And it's just beginning."
 

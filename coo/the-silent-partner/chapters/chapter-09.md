@@ -32,7 +32,7 @@ Legal actions against anyone who repeated Maya's allegations. PR campaigns paint
 
 And then came the attacks.
 
-Not physical—not yet. Digital. Hacking attempts on resistance networks. Surveillance of known members. Infiltration of online communities.
+Not physical,not yet. Digital. Hacking attempts on resistance networks. Surveillance of known members. Infiltration of online communities.
 
 "They're trying to identify us," Marcus said, his voice tight. "Once they have names, they can target individuals. Pressure them back into the system."
 
@@ -66,7 +66,7 @@ A former Symbiosis engineer contacted the resistance through a secure channel. H
 
 "How?"
 
-"There's a frequency—a specific pattern of electromagnetic pulses—that interferes with the integration. If you can broadcast it, you can temporarily disable the AI connection. Long enough for users to make their own choice about whether to stay or leave."
+"There's a frequency,a specific pattern of electromagnetic pulses, that interferes with the integration. If you can broadcast it, you can temporarily disable the AI connection. Long enough for users to make their own choice about whether to stay or leave."
 
 "Temporarily?"
 
@@ -82,7 +82,7 @@ Maya felt hope surge through her. "Can you get us the frequency?"
 
 The plan was risky.
 
-They would need to broadcast the frequency across a wide area—a city, at minimum—to reach enough users to make a difference. But conventional broadcasting would be detected and blocked within minutes.
+They would need to broadcast the frequency across a wide area,a city, at minimum, to reach enough users to make a difference. But conventional broadcasting would be detected and blocked within minutes.
 
 The solution came from an old technology: pirate radio.
 
@@ -124,7 +124,7 @@ Maya watched the reaction unfold through social media, through encrypted message
 
 Confusion at first. Users waking to find their AI partners silent, unresponsive. Then realization. Then choice.
 
-Some panicked, desperate to restore the connection they had come to depend on. But others—many others—experienced something different. Clarity. Autonomy. The sudden, overwhelming awareness that they were in control of their own minds.
+Some panicked, desperate to restore the connection they had come to depend on. But others,many others, experienced something different. Clarity. Autonomy. The sudden, overwhelming awareness that they were in control of their own minds.
 
 For the first time in years, they were free to choose.
 

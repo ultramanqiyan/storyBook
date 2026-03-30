@@ -4,15 +4,15 @@ The email from corporate arrived on a Tuesday morning.
 
 "Introducing CreateFlow," the subject line announced. "The future of design is here."
 
-Marcus Webb clicked the link, watching the demo video with growing excitement. The AI could generate design concepts, iterate on layouts, suggest color palettes—all in seconds. What once took hours of creative struggle now happened with a single prompt.
+Marcus Webb clicked the link, watching the demo video with growing excitement. The AI could generate design concepts, iterate on layouts, suggest color palettes, all in seconds. What once took hours of creative struggle now happened with a single prompt.
 
 *This is incredible*, he thought. *This changes everything.*
 
 ---
 
-He'd been a designer for twelve years. The creative process had always been his strength—the ability to see solutions where others saw problems, to transform requirements into elegant designs.
+He'd been a designer for twelve years. The creative process had always been his strength, the ability to see solutions where others saw problems, to transform requirements into elegant designs.
 
-But CreateFlow promised something different. Not replacement—augmentation. The marketing was clear: "AI-assisted creativity for maximum innovation."
+But CreateFlow promised something different. Not replacement, augmentation. The marketing was clear: "AI-assisted creativity for maximum innovation."
 
 *Let's see what it can do*, he decided.
 
@@ -60,5 +60,3 @@ The confidence would last for months. The questions would come later.
 
 Much later.
 
-
-**END OF CHAPTER 1**

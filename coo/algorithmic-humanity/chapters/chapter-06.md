@@ -1,6 +1,6 @@
 # Chapter 6: The Mourning
 
-Angela returned to Robert's house a week later, portfolio in hand. She'd edited the photos carefully, the way she always did—bringing out the warmth, the connection, the love that lived in every frame. But as she walked up the driveway, she noticed something different. The curtains were drawn. The garden, usually so neat, looked untended. And when Robert opened the door, his eyes were red.
+Angela returned to Robert's house a week later, portfolio in hand. She'd edited the photos carefully, the way she always did, bringing out the warmth, the connection, the love that lived in every frame. But as she walked up the driveway, she noticed something different. The curtains were drawn. The garden, usually so neat, looked untended. And when Robert opened the door, his eyes were red.
 
 "Robert," she said. "What's wrong?"
 
@@ -41,7 +41,7 @@ Angela had witnessed grief before. Real, genuine grief for beloved pets. She'd s
  Robert's breath caught. "He looks... alive. Here. Really alive."
 
 
-Angela sat quietly as Robert turned the pages. Each photo showed Buddy in different moments—resting by the fire, looking out the window, pressed against Robert's leg. In every frame, there was something that looked like life. Something that looked like love.
+Angela sat quietly as Robert turned the pages. Each photo showed Buddy in different moments, resting by the fire, looking out the window, pressed against Robert's leg. In every frame, there was something that looked like life. Something that looked like love.
 
  "You captured him," Robert said, his voice thick. "You captured who he was."
 
@@ -108,7 +108,7 @@ After they hung up, Angela sat in her studio, looking at the photos she'd taken 
 
  The question of whether it was "real" felt less important now. What mattered was that it had been real to Robert. The grief was real. The love had been real.
 
- And maybe that was enough. Maybe that was what life was—not what you were made of, but what one meant to others.
+ And maybe that was enough. Maybe that was what life was, not what you were made of, but what one meant to others.
 
  Maybe Buddy had been alive because he'd been loved.
 

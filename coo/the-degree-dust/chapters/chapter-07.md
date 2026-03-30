@@ -2,7 +2,7 @@
 
 The debate came to a head at the faculty senate meeting.
 
-Michael had been invited to present the results of The Path's first semester. The room was full—not just faculty, but administrators, board members, and even a few students. The tension was palpable.
+Michael had been invited to present the results of The Path's first semester. The room was full, not just faculty, but administrators, board members, and even a few students. The tension was palpable.
 
 He stood at the podium, looking out at faces that ranged from curious to hostile.
 
@@ -34,11 +34,11 @@ Professor Williams hesitated. "AI can provide information. But it can't provide 
 
 "The student's mastery of the material."
 
-Michael nodded slowly. "So education, in your model, is about demonstrating mastery of information. And that mastery is certified by credentials—grades, degrees, transcripts."
+Michael nodded slowly. "So education, in your model, is about demonstrating mastery of information. And that mastery is certified by credentials, grades, degrees, transcripts."
 
 "Yes. That's what education has always been."
 
-"Actually, that's what education has been for about two hundred years. Before that, education was about apprenticeship, mentorship, learning by doing. The modern university model—lectures, exams, degrees—is relatively recent."
+"Actually, that's what education has been for about two hundred years. Before that, education was about apprenticeship, mentorship, learning by doing. The modern university model, lectures, exams, degrees, is relatively recent."
 
 "And it's been enormously successful."
 
@@ -46,7 +46,7 @@ Michael nodded slowly. "So education, in your model, is about demonstrating mast
 
 ---
 
-Another professor stood up—Dr. Sarah Martinez, who had been supportive of the program.
+Another professor stood up, Dr. Sarah Martinez, who had been supportive of the program.
 
 "May I add something?" She didn't wait for permission. "I've been studying AI's impact on education for years. And the fundamental insight is this: knowledge is no longer scarce. For all of human history, education was about transmitting knowledge from those who had it to those who didn't. That transmission required institutions, teachers, credentials."
 
@@ -56,7 +56,7 @@ Another professor stood up—Dr. Sarah Martinez, who had been supportive of the 
 
 "So what problem should we be solving?"
 
-"The problem of meaning. The problem of purpose. The problem of becoming." Sarah gestured at Michael. "The Path addresses those problems. It doesn't abandon education—it redefines it."
+"The problem of meaning. The problem of purpose. The problem of becoming." Sarah gestured at Michael. "The Path addresses those problems. It doesn't abandon education, it redefines it."
 
 "Redefines it how?"
 
@@ -82,14 +82,14 @@ No, he couldn't guarantee that graduates would find jobs. But he could guarantee
 
 No, the program wasn't accredited. But accreditation was a system designed for a different era, and it might be time to question its relevance.
 
-No, the model wasn't scalable in the traditional sense. But maybe scaling wasn't the goal—maybe the goal was quality, not quantity.
+No, the model wasn't scalable in the traditional sense. But maybe scaling wasn't the goal, maybe the goal was quality, not quantity.
 
 
 At the end of the meeting, President Warren called for a vote.
 
 "All those in favor of continuing The Path as an experimental program, with a review at the end of the academic year?"
 
-Hands went up—slowly at first, then with growing confidence. The vote wasn't unanimous, but it was a majority.
+Hands went up, slowly at first, then with growing confidence. The vote wasn't unanimous, but it was a majority.
 
 The program would continue.
 
@@ -112,7 +112,7 @@ Alex was quiet for a moment. "Can I ask you something?"
 
 Michael considered the question. They walked together across the darkening campus, past buildings that had stood for generations.
 
-"I used to think education was about knowledge. About learning facts, developing skills, earning credentials. That's what I spent my career doing—helping students acquire information."
+"I used to think education was about knowledge. About learning facts, developing skills, earning credentials. That's what I spent my career doing, helping students acquire information."
 
 "And now?"
 
@@ -128,7 +128,7 @@ Alex nodded slowly. "That's what I've been feeling. Like the question isn't 'wha
 
 "Is it working?"
 
-Michael looked at his son—at the uncertainty in his eyes, the searching, the hope.
+Michael looked at his son, at the uncertainty in his eyes, the searching, the hope.
 
 "I think so. But the real answer will come from the students themselves. From who they become."
 
@@ -145,11 +145,11 @@ He pulled out a notebook and wrote:
 
 *What is education for?*
 
-*Not to transmit knowledge—that's free now.*
+*Not to transmit knowledge, that's free now.*
 
-*Not to certify competence—credentials are losing value.*
+*Not to certify competence, credentials are losing value.*
 
-*Not to prepare for careers—those careers are disappearing.*
+*Not to prepare for careers, those careers are disappearing.*
 
 *Education is for becoming. For discovering who you are and what you're here to do. For developing the judgment, character, and wisdom to navigate a world that doesn't provide answers.*
 

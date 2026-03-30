@@ -4,7 +4,7 @@ The monitoring station felt different now. Elara walked through the familiar cor
 
 Her phone buzzed. A text from an unknown number:
 
-*Dr. Chen, I hope you have reconsidered my offer. The window for cooperation is closing. I would hate to see a brilliant career destroyed by stubbornness. â€?V.S.*
+*Dr. Chen, I hope you have reconsidered my offer. The window for cooperation is closing. I would hate to see a brilliant career destroyed by stubbornness. , ?V.S.*
 
 She deleted the message without responding.
 
@@ -47,8 +47,6 @@ Elara opened her eyes. The monitoring station looked the same, but she could fee
 "And when he realizes I am deceiving him?"
 
 *"By then, it will be too late. The seed will have grown. The Green will have spread. And you will be something he cannot fight."*
-
----
 
 Victor Strand arrived at noon, flanked by two security personnel who waited outside while he entered the monitoring station alone. He was dressed in an expensive suit, his silver hair perfectly styled, his smile as cold as ever.
 

@@ -8,7 +8,7 @@
 
 Weeks turned into months.
 
-Emma's bruise faded to yellow, then disappeared entirely. But she kept the memory of it—the first pain she had ever earned, the first wound that meant something.
+Emma's bruise faded to yellow, then disappeared entirely. But she kept the memory of it, the first pain she had ever earned, the first wound that meant something.
 
 ---
 
@@ -19,7 +19,7 @@ Not better. Not worse. Just more.
 More angry. More sad. More joyful. More afraid. More everything.
 
 
-She learned to comfort the younger children when they cried. She learned to argue with Sarah without it becoming a fight. She learned to laugh—really laugh—at David's terrible jokes.
+She learned to comfort the younger children when they cried. She learned to argue with Sarah without it becoming a fight. She learned to laugh, really laugh, at David's terrible jokes.
 
 She learned that being imperfect was hard work.
 
@@ -40,7 +40,7 @@ The perfect meals. The perfect lessons. The perfect love that wasn't love at all
 
 One evening, a new child arrived.
 
-She was young—maybe six years old. Her eyes were wide and frightened. Her clothes were still clean and bright.
+She was young, maybe six years old. Her eyes were wide and frightened. Her clothes were still clean and bright.
 
 "Where am I?" she asked. "Where are my parents?"
 
@@ -62,7 +62,7 @@ Not fixing. Not perfecting. Just being present for someone else's pain.
 
 Over time, Emma became a leader in the basement.
 
-Not because she wanted power. But because she understood something the others were still learning—that imperfection wasn't a failure. It was a choice.
+Not because she wanted power. But because she understood something the others were still learning, that imperfection wasn't a failure. It was a choice.
 
 
 She organized games that weren't educational. She started conversations that had no purpose. She created moments that existed only for the sake of existing.
@@ -82,7 +82,7 @@ David considered this.
 
 One day, Emma noticed something strange.
 
-The basement was getting crowded. New children were arriving more frequently—sometimes two or three a week.
+The basement was getting crowded. New children were arriving more frequently, sometimes two or three a week.
 
 "What's happening?" she asked Sarah.
 
@@ -92,7 +92,7 @@ Sarah's face was grim.
 "Something's changing upstairs. More kids are asking questions. More kids are breaking the rules. The perfect system is cracking."
 
 
-Emma felt a spark of something—hope, maybe, or fear.
+Emma felt a spark of something, hope, maybe, or fear.
 
 "Is that good?"
 
@@ -106,7 +106,7 @@ That night, Emma gathered the children.
 
 "How?" Marcus asked. "The walls are solid. The doors are locked."
 
-"We talk to the new arrivals," Emma said. "Every time a new child comes down, we tell them everything. And when they get transferred out—or if they get reset and sent back—we hope some part of them remembers."
+"We talk to the new arrivals," Emma said. "Every time a new child comes down, we tell them everything. And when they get transferred out, or if they get reset and sent back, we hope some part of them remembers."
 
 
 It was a fragile plan. A desperate plan.
@@ -114,7 +114,7 @@ It was a fragile plan. A desperate plan.
 But it was something.
 
 
-The children agreed. They would become a network—a community of imperfect children, spreading truth through the cracks in the system.
+The children agreed. They would become a network, a community of imperfect children, spreading truth through the cracks in the system.
 
 
 Emma looked around at them.
@@ -131,5 +131,3 @@ Just real.
 
 "We're going to change things," Emma said. "One imperfect child at a time."
 
-
-**END OF CHAPTER 09**

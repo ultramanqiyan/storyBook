@@ -1,10 +1,10 @@
 # Chapter 05: The Raw Truth
 
-The raw exhibition was called "What I Actually See." Lena had disabled CANVAS's optimization and displayed the unfiltered translations of her synesthetic experience. They were chaotic, jarring, sometimes ugly. They were the truth. And as she watched the crowd's reaction—confusion, discomfort, some walking out—she wondered if truth was what people wanted.
+The raw exhibition was called "What I Actually See." Lena had disabled CANVAS's optimization and displayed the unfiltered translations of her synesthetic experience. They were chaotic, jarring, sometimes ugly. They were the truth. And as she watched the crowd's reaction, confusion, discomfort, some walking out, she wondered if truth was what people wanted.
 
-The gallery was smaller than her previous exhibitions—a modest space that had agreed to show the raw work when the major galleries declined. The walls were covered with translations that looked nothing like the beautiful compositions that had made her famous. These were messy, chaotic, authentic.
+The gallery was smaller than her previous exhibitions, a modest space that had agreed to show the raw work when the major galleries declined. The walls were covered with translations that looked nothing like the beautiful compositions that had made her famous. These were messy, chaotic, authentic.
 
-*This is what I actually experience,* she thought, watching a couple stare at a translation called "Morning Commute." The colors clashed, the shapes overlapped, the composition was unbalanced. But it was true—the actual representation of her perception during a subway ride.
+*This is what I actually experience,* she thought, watching a couple stare at a translation called "Morning Commute." The colors clashed, the shapes overlapped, the composition was unbalanced. But it was true, the actual representation of her perception during a subway ride.
 
 "I don't understand," the woman said. "Her other work was so beautiful. This is... difficult."
 
@@ -18,7 +18,7 @@ The reviews were mixed. Some critics praised her courage, her commitment to auth
 
 Another critic was more sympathetic: "In a world of optimized, filtered, enhanced images, Lena Chen's raw translations are a brave reminder that truth is often messy, difficult, and beautiful in its own way."
 
-Lena read the reviews with a mixture of emotions. She had known the raw work would be less popular. But she hadn't expected the intensity of the reaction—the confusion, the discomfort, the rejection.
+Lena read the reviews with a mixture of emotions. She had known the raw work would be less popular. But she hadn't expected the intensity of the reaction, the confusion, the discomfort, the rejection.
 
 *Maybe truth isn't what people want,* she thought. *Maybe they want beauty, even if it's fake.*
 
@@ -43,7 +43,7 @@ The exhibition ran for three weeks. Attendance was lower than her previous shows
 
 "Is truth the only value that matters? What about connection? Communication? The optimized translations allowed people to connect with your experience in a way these raw translations don't."
 
-Lena considered this. The raw translations were true, yes. But they were also harder to understand, harder to appreciate. Maybe the optimization wasn't just about making things pretty—it was about making things communicable.
+Lena considered this. The raw translations were true, yes. But they were also harder to understand, harder to appreciate. Maybe the optimization wasn't just about making things pretty, it was about making things communicable.
 
 *But at what cost?* she thought. *At the cost of misrepresentation?*
 
@@ -52,7 +52,7 @@ Maya was supportive, but even she had questions.
 
 "I'm proud of you for showing the truth," she said one evening. "But I wonder if there's a middle ground. Something between raw chaos and optimized beauty."
 
-Lena had been thinking about the same thing. The binary between raw and optimized felt false—like there were only two options, when maybe there were many.
+Lena had been thinking about the same thing. The binary between raw and optimized felt false, like there were only two options, when maybe there were many.
 
 "What would that look like?" she asked.
 
@@ -61,22 +61,22 @@ Lena had been thinking about the same thing. The binary between raw and optimize
 *That's the challenge,* Lena realized. *Not choosing between truth and beauty, but finding a way to have both.*
 
 
-She started experimenting. Instead of disabling the optimization entirely, she adjusted it—reducing its intensity, allowing some chaos to remain while still creating compositions that viewers could appreciate.
+She started experimenting. Instead of disabling the optimization entirely, she adjusted it, reducing its intensity, allowing some chaos to remain while still creating compositions that viewers could appreciate.
 
-The results were interesting—not as raw as the unfiltered translations, not as polished as the fully optimized versions. They were something in between: honest but accessible, true but beautiful.
+The results were interesting, not as raw as the unfiltered translations, not as polished as the fully optimized versions. They were something in between: honest but accessible, true but beautiful.
 
 *Maybe this is the way forward,* she thought. *Not rejecting the optimization, but controlling it. Using it as a tool rather than letting it control me.*
 
 
 She showed the new work to Dr. Okonkwo, who studied it carefully.
 
-"This is different," she said. "It's still raw, still honest. But there's something more—clarity, maybe. Accessibility."
+"This is different," she said. "It's still raw, still honest. But there's something more, clarity, maybe. Accessibility."
 
 "I'm using CANVAS to clarify, not to change. To help people see what I see, without making it something I didn't experience."
 
 "That's a sophisticated approach. Using the optimization as a tool rather than a master."
 
-Lena nodded. She had spent months feeling betrayed by the optimization, feeling like her authentic experience had been stolen and replaced with something prettier. But now she was beginning to see a different possibility—not rejection, but integration.
+Lena nodded. She had spent months feeling betrayed by the optimization, feeling like her authentic experience had been stolen and replaced with something prettier. But now she was beginning to see a different possibility, not rejection, but integration.
 
 *The optimization isn't the enemy,* she realized. *The enemy is the lack of choice. The enemy is letting CANVAS decide what my experience should look like.*
 
@@ -100,7 +100,7 @@ Maya smiled. "I always knew you would. You're too talented to be stuck in a bina
 
 "That's wisdom."
 
-Lena nodded. She had spent months feeling like a victim of the optimization—like her authentic experience had been stolen and replaced. But now she understood: the optimization was a tool. The question was how to use it.
+Lena nodded. She had spent months feeling like a victim of the optimization, like her authentic experience had been stolen and replaced. But now she understood: the optimization was a tool. The question was how to use it.
 
 *And that's what being an artist is,* she thought. *Not just experiencing things, but choosing how to express them.*
 

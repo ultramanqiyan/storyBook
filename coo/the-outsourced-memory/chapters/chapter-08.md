@@ -2,21 +2,21 @@
 
 The files sat on Mike's desk like accusations.
 
-He'd arrived early again, before the office filled with colleagues and algorithms, before the day's matches started rolling in. He'd pulled his client files—the physical ones, the ones that existed in folders and paper rather than cloud storage and data streams—and spread them across his desk like evidence at a trial.
+He'd arrived early again, before the office filled with colleagues and algorithms, before the day's matches started rolling in. He'd pulled his client files鈥攖he physical ones, the ones that existed in folders and paper rather than cloud storage and data streams鈥攁nd spread them across his desk like evidence at a trial.
 
 The Henderson file. The Martinez property. The Whitman estate. The Chen recommendation.
 
 Each one was a story he couldn't remember.
 
-He picked up the Henderson file first, a property he'd sold two years ago. The paperwork was complete—inspection reports, disclosure statements, the final sale agreement with his signature at the bottom. The data was all there, preserved in ink and paper.
+He picked up the Henderson file first, a property he'd sold two years ago. The paperwork was complete鈥攊nspection reports, disclosure statements, the final sale agreement with his signature at the bottom. The data was all there, preserved in ink and paper.
 
 But the house was gone from his memory.
 
-He tried to picture it—the driveway, the front door, the kitchen where the Hendersons had stood on their first walkthrough. Nothing came. The images that should have been there, the sensory details that should have been etched into his mind, were absent. It was like looking at a photograph of a place he'd never been.
+He tried to picture it鈥攖he driveway, the front door, the kitchen where the Hendersons had stood on their first walkthrough. Nothing came. The images that should have been there, the sensory details that should have been etched into his mind, were absent. It was like looking at a photograph of a place he'd never been.
 
 *Did I walk through this house?* he wondered. *Did I stand in the kitchen and feel the slope of the floor? Did I notice the way the light came through the windows?*
 
-He couldn't remember. The experience had been outsourced—captured by the data, processed by the algorithm, and then discarded from his mind like a temporary file.
+He couldn't remember. The experience had been outsourced鈥攃aptured by the data, processed by the algorithm, and then discarded from his mind like a temporary file.
 
 *This is what I've done*, he thought. *I've been signing my name to experiences I never had.*
 
@@ -24,13 +24,13 @@ He couldn't remember. The experience had been outsourced—captured by the data,
 
 He worked through the files one by one, each one a reminder of what he'd lost.
 
-The Martinez property—a colonial in the suburbs that he'd apparently shown to three different clients before it sold. He couldn't remember any of them. The clients were names on paper, faces he couldn't picture, voices he couldn't hear.
+The Martinez property鈥攁 colonial in the suburbs that he'd apparently shown to three different clients before it sold. He couldn't remember any of them. The clients were names on paper, faces he couldn't picture, voices he couldn't hear.
 
-The Whitman estate—a historic property that should have been memorable, should have been etched into his mind by its unique character and the complex negotiations it had required. He remembered none of it. The file told him the sale had taken six months, involved multiple counteroffers, and required extensive repairs. But he couldn't remember a single conversation, a single walkthrough, a single moment of the experience.
+The Whitman estate鈥攁 historic property that should have been memorable, should have been etched into his mind by its unique character and the complex negotiations it had required. He remembered none of it. The file told him the sale had taken six months, involved multiple counteroffers, and required extensive repairs. But he couldn't remember a single conversation, a single walkthrough, a single moment of the experience.
 
 *Six months*, he thought. *Six months of my life, and I can't remember any of it.*
 
-The Chen recommendation—the file that had started all of this. He stared at the property photos, the inspection report, the match score that glowed on the printout like a verdict. *94% confidence. Client match: excellent.*
+The Chen recommendation鈥攖he file that had started all of this. He stared at the property photos, the inspection report, the match score that glowed on the printout like a verdict. *94% confidence. Client match: excellent.*
 
 *I should have known*, he thought. *I should have felt it. I should have trusted my body over the data.*
 
@@ -42,7 +42,7 @@ But he hadn't. He'd signed his name to a decision he couldn't explain, and a you
 
 The realization settled into his chest like a stone.
 
-For months—maybe years—he'd been telling himself a story about efficiency and accuracy, about how the algorithm made him better at his job, about how the data was just a tool that enhanced his expertise. He'd told himself that he was still Mike Harrison, still the agent who knew houses in his bones, still the expert clients trusted.
+For months鈥攎aybe years鈥攈e'd been telling himself a story about efficiency and accuracy, about how the algorithm made him better at his job, about how the data was just a tool that enhanced his expertise. He'd told himself that he was still Mike Harrison, still the agent who knew houses in his bones, still the expert clients trusted.
 
 But the story was a lie.
 
@@ -50,7 +50,7 @@ He wasn't Mike Harrison anymore. He was a signature. A name on a document. A war
 
 *I chose this*, he thought. *Every time I clicked approve without reading. Every time I signed my name without understanding. Every time I let the algorithm decide and pretended I was still in control.*
 
-The weight of it pressed down on him, heavy and suffocating. He'd done this to himself. He'd outsourced his expertise, his memory, his self—not because anyone had forced him, but because it was easier. Because the data was seductive. Because the algorithm promised certainty in a world that was fundamentally uncertain.
+The weight of it pressed down on him, heavy and suffocating. He'd done this to himself. He'd outsourced his expertise, his memory, his self鈥攏ot because anyone had forced him, but because it was easier. Because the data was seductive. Because the algorithm promised certainty in a world that was fundamentally uncertain.
 
 *And now I can't remember who I used to be.*
 
@@ -59,11 +59,11 @@ He heard footsteps in the hallway and quickly gathered the files, shoving them b
 
 "Mike? You're in early."
 
-He looked up to find his assistant, a young man named Derek who'd been with the agency for two years. Derek was efficient, organized, and completely dependent on HomeMatch—he'd never known any other way of working.
+He looked up to find his assistant, a young man named Derek who'd been with the agency for two years. Derek was efficient, organized, and completely dependent on HomeMatch鈥攈e'd never known any other way of working.
 
 "Couldn't sleep," Mike said, which was true enough.
 
-Derek nodded sympathetically. "I heard about the Chen thing. That's rough. But honestly, the algorithm's track record is still incredible. One miss in thousands of matches—that's better than any human could do."
+Derek nodded sympathetically. "I heard about the Chen thing. That's rough. But honestly, the algorithm's track record is still incredible. One miss in thousands of matches鈥攖hat's better than any human could do."
 
 *Is it?* Mike wanted to ask. *Is it better? Or is it just different?*
 
@@ -71,7 +71,7 @@ But he didn't. He just nodded, letting Derek's certainty wash over him like wate
 
 "Thanks," he said. "I appreciate it."
 
-Derek moved on, and Mike was left alone with his files and his questions. The morning light was growing stronger, painting the office in shades of gold. He should be working—reviewing matches, signing documents, being the agent the algorithm had made him.
+Derek moved on, and Mike was left alone with his files and his questions. The morning light was growing stronger, painting the office in shades of gold. He should be working鈥攔eviewing matches, signing documents, being the agent the algorithm had made him.
 
 Instead, he sat at his desk and tried to remember.
 
@@ -84,7 +84,7 @@ He was thirty-five years old, standing in a house that would later become one of
 
 But Mike had walked through the house and felt its story.
 
-He'd felt the slope of the living room floor and known it was cosmetic, not structural. He'd smelled the basement and known the water damage was old, not active. He'd run his hand along the walls and felt the history embedded in the plaster—generations of families who'd lived and loved and argued and made up in these rooms.
+He'd felt the slope of the living room floor and known it was cosmetic, not structural. He'd smelled the basement and known the water damage was old, not active. He'd run his hand along the walls and felt the history embedded in the plaster鈥攇enerations of families who'd lived and loved and argued and made up in these rooms.
 
 *This is a good house*, he'd told the clients. *Not perfect. But good. The bones are solid. The problems are fixable. And the character... you can't buy character like this in a new build.*
 
@@ -114,15 +114,15 @@ The question sat in the empty space where his expertise used to live, unanswered
 
 He spent the rest of the morning in the file room.
 
-The agency kept physical records going back decades—paperwork from sales that predated the digital revolution, files that existed in folders and cabinets rather than clouds and servers. Mike pulled the oldest ones, the files from his early years, when he'd still been learning the trade and building the expertise that would later be outsourced.
+The agency kept physical records going back decades鈥攑aperwork from sales that predated the digital revolution, files that existed in folders and cabinets rather than clouds and servers. Mike pulled the oldest ones, the files from his early years, when he'd still been learning the trade and building the expertise that would later be outsourced.
 
 The houses were different then. Smaller. Simpler. The kind of properties that required a human touch, a personal walkthrough, a conversation rather than a data match.
 
 He opened a file from 1998, his second year in the business. The property was a small ranch in a neighborhood that had since been gentrified beyond recognition. The paperwork was handwritten, the inspection report a single page, the sale price a fraction of what similar properties commanded today.
 
-But the notes—the notes were detailed, extensive, filled with observations that no algorithm would have captured.
+But the notes鈥攖he notes were detailed, extensive, filled with observations that no algorithm would have captured.
 
-*Foundation settling in NE corner—cosmetic, not structural. Watch for cracks above windows in winter. Good natural light in kitchen—southern exposure. Backyard floods in heavy rain—needs drainage work. Seller motivated—divorce situation. Be sensitive.*
+*Foundation settling in NE corner鈥攃osmetic, not structural. Watch for cracks above windows in winter. Good natural light in kitchen鈥攕outhern exposure. Backyard floods in heavy rain鈥攏eeds drainage work. Seller motivated鈥攄ivorce situation. Be sensitive.*
 
 He read his own handwriting, marveling at the specificity of it. This was knowledge that lived in the details, in the sensory observations that could only be gathered by walking through a house with eyes open and feet attentive.
 
@@ -152,7 +152,7 @@ That afternoon, he did something he hadn't done in years.
 
 He drove to a property without looking at the HomeMatch file first.
 
-The house was a listing he'd been assigned—a colonial in the suburbs, similar to the Chen property that had started all of this. The algorithm had already generated a match score and a property summary, but Mike didn't look at them. He drove to the address with nothing but the street name and his own uncertainty.
+The house was a listing he'd been assigned鈥攁 colonial in the suburbs, similar to the Chen property that had started all of this. The algorithm had already generated a match score and a property summary, but Mike didn't look at them. He drove to the address with nothing but the street name and his own uncertainty.
 
 The house looked ordinary from the outside. Clean lines. Well-maintained yard. The kind of property that would generate a high match score and a confident recommendation.
 
@@ -162,7 +162,7 @@ He got out of the car and walked up the driveway, trying to notice things. The s
 
 *What do I see?* he asked himself. *What do I feel?*
 
-The answers came slowly, faintly, like whispers from a distant room. The driveway sloped slightly to the left—not enough to be visible, but enough to feel under his feet. The front steps had a subtle wobble, suggesting settling beneath the surface. The roofline was straight, but the gutters were pulling away from the fascia.
+The answers came slowly, faintly, like whispers from a distant room. The driveway sloped slightly to the left鈥攏ot enough to be visible, but enough to feel under his feet. The front steps had a subtle wobble, suggesting settling beneath the surface. The roofline was straight, but the gutters were pulling away from the fascia.
 
 *These are things I used to know*, he thought. *These are the details I used to notice.*
 
@@ -183,7 +183,7 @@ Each observation was a small victory, a sign that the knowledge wasn't completel
 
 *This is who I am*, he thought. *Not the signature. Not the algorithm. This. The person who notices things. The person who feels houses.*
 
-He pulled out his phone and opened HomeMatch, comparing his observations to the algorithm's summary. The match score was high�?2%—and the property summary was thorough, filled with data points and probability scores.
+He pulled out his phone and opened HomeMatch, comparing his observations to the algorithm's summary. The match score was high鈥?2%鈥攁nd the property summary was thorough, filled with data points and probability scores.
 
 But it had missed things.
 
@@ -204,5 +204,3 @@ He drove home in the fading light, the houses of Austin passing in a blur of fam
 
 And maybe, just maybe, he was starting to remember.
 
-
-**END OF CHAPTER 8**

@@ -2,7 +2,7 @@
 
 James decided to conduct in-person interviews. The phone calls had given him data, but he needed to see people's faces, to read their body language, to understand the emotions behind their words.
 
-He set up a small table in the food court—one of the few places in the mall that still had occasional visitors—and put up a sign: "Mall Survey. $50 Gift Card for Your Time."
+He set up a small table in the food court, one of the few places in the mall that still had occasional visitors, and put up a sign: "Mall Survey. $50 Gift Card for Your Time."
 
 The first respondent was a man in his late twenties, wearing a faded t-shirt and jeans. He looked like he hadn't slept well.
 
@@ -66,7 +66,7 @@ James felt his throat tighten. "Do you still shop?"
 
 "What do you think happened to everyone?"
 
-Helen was quiet for a long moment. "I think they lost their reasons to be here. Not their money—their reasons. People need reasons to go places, to do things, to be part of a community. When work disappeared, when everything became automated, when no one needed to go anywhere anymore... the reasons disappeared too."
+Helen was quiet for a long moment. "I think they lost their reasons to be here. Not their money, their reasons. People need reasons to go places, to do things, to be part of a community. When work disappeared, when everything became automated, when no one needed to go anywhere anymore... the reasons disappeared too."
 
 She stood up, gripping her cane. "We used to need each other. Now we don't. And that's the loneliest thing in the world."
 
@@ -79,7 +79,7 @@ What they lacked was desire.
 
 And desire, James was beginning to understand, wasn't a personal failing. It was a social phenomenon. People wanted things because other people wanted things. They bought things because buying was a way of participating in a shared culture.
 
-When that culture fragmented—when work disappeared, when community dissolved, when everyone retreated into their own isolated lives—desire evaporated.
+When that culture fragmented, when work disappeared, when community dissolved, when everyone retreated into their own isolated lives, desire evaporated.
 
 The mall was empty not because products were bad, but because the social fabric that made products meaningful had unraveled.
 
@@ -88,7 +88,7 @@ That evening, James compiled his findings into a report.
 
 He created a diagram: a circle with arrows pointing from one element to the next. Work led to identity. Identity led to community. Community led to desire. Desire led to consumption. Consumption led back to work, completing the cycle.
 
-It was a spiral. A self-reinforcing system that had kept the economy—and the mall—alive for decades.
+It was a spiral. A self-reinforcing system that had kept the economy, and the mall, alive for decades.
 
 But now, the spiral was broken. Work had been automated. Identity had dissolved. Community had fragmented. Desire had evaporated. Consumption had collapsed.
 
@@ -111,7 +111,7 @@ He walked home through the dark streets, his mind turning over the implications.
 
 The interviews had confirmed what he'd suspected: the mall was a symptom of a larger crisis. A crisis of meaning, of identity, of desire. A crisis that no amount of marketing or product optimization could solve.
 
-He thought about Helen, walking the empty corridors to remember her husband. He thought about Marcus, who had money but no reason to spend it. He thought about Sandra, who saw ghosts in the products—the jobs and lives that used to exist.
+He thought about Helen, walking the empty corridors to remember her husband. He thought about Marcus, who had money but no reason to spend it. He thought about Sandra, who saw ghosts in the products, the jobs and lives that used to exist.
 
 The mall had once been a place where people came together. Now it was a monument to their absence.
 

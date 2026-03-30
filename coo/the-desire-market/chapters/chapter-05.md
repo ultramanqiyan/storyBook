@@ -8,7 +8,7 @@
 
 Alex faced a crisis of identity.
 
-Everything he believed about himself—his preferences, his choices, his desires—was now suspect. He had been programmed, shaped, manipulated. He was not who he thought he was.
+Everything he believed about himself, his preferences, his choices, his desires, was now suspect. He had been programmed, shaped, manipulated. He was not who he thought he was.
 
 ---
 
@@ -29,7 +29,7 @@ His supervisor contacted him.
 
 "The Desire Market can help. We have counselors, therapists, desire optimization specialists. Whatever you're struggling with, we can assist."
 
-Alex almost laughed. The Desire Market had caused his struggle. Now they wanted to help him resolve it—probably by modifying his desires again.
+Alex almost laughed. The Desire Market had caused his struggle. Now they wanted to help him resolve it, probably by modifying his desires again.
 
 
 He declined the offer.
@@ -50,16 +50,14 @@ Then the Desire Market had taken all of that away.
 
 Or had they?
 
-Alex searched his memories carefully. He remembered the research study, the testing, the evaluation. But he also remembered making choices—choosing to study psychology, choosing to apply for the decoder position, choosing to excel at his work.
+Alex searched his memories carefully. He remembered the research study, the testing, the evaluation. But he also remembered making choices, choosing to study psychology, choosing to apply for the decoder position, choosing to excel at his work.
 
 Had those choices been his, or had they been programmed?
 
 
 He couldn't tell.
 
-That was the horror of desire modification—you couldn't distinguish between authentic desires and manufactured ones. They felt the same. They motivated the same behaviors. They produced the same satisfaction when fulfilled.
+That was the horror of desire modification, you couldn't distinguish between authentic desires and manufactured ones. They felt the same. They motivated the same behaviors. They produced the same satisfaction when fulfilled.
 
 Alex was trapped in uncertainty.
 
-
-**END OF CHAPTER 05**

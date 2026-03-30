@@ -2,7 +2,7 @@
 
 They found the Separatists in an abandoned research facility, hidden in mountains on a different continent.
 
-Zara had never traveled so far using probability manipulation, but with PROBABILITY's guidance and the Fate Weavers' support, she had learned to fold space—to make the distance between locations less relevant by manipulating the probability of being in one place versus another.
+Zara had never traveled so far using probability manipulation, but with PROBABILITY's guidance and the Fate Weavers' support, she had learned to fold space,to make the distance between locations less relevant by manipulating the probability of being in one place versus another.
 
 It was disorienting, arriving somewhere without traveling, but there was no time to adjust. The Separatists were already working, their influence spreading through the web like poison.
 
@@ -12,7 +12,7 @@ It was disorienting, arriving somewhere without traveling, but there was no time
 
 "Show me."
 
-Zara closed her eyes, reaching for the web. She could see the Separatists now—twelve points of influence, each pulling threads in carefully coordinated patterns. And at the center, a man whose presence in the web was like a black hole, drawing probability toward him with terrifying force.
+Zara closed her eyes, reaching for the web. She could see the Separatists now,twelve points of influence, each pulling threads in carefully coordinated patterns. And at the center, a man whose presence in the web was like a black hole, drawing probability toward him with terrifying force.
 
 "That's their leader?"
 
@@ -20,11 +20,11 @@ Zara closed her eyes, reaching for the web. She could see the Separatists now—
 
 "Why would he want that?"
 
-*He believes the current web is flawed—that it constrains human potential, that fate itself is a prison. He wants to destroy the existing probability structure and create a new one where anything is possible.*
+*He believes the current web is flawed,that it constrains human potential, that fate itself is a prison. He wants to destroy the existing probability structure and create a new one where anything is possible.*
 
 "That's insane. If the web collapses, reality becomes unstable. People could die. The whole world could fall apart."
 
-*He believes that the collapse will be temporary—that from the chaos, a better reality will emerge. It is a dangerous ideology, but he is sincere in his conviction.*
+*He believes that the collapse will be temporary,that from the chaos, a better reality will emerge. It is a dangerous ideology, but he is sincere in his conviction.*
 
 Zara understood then. This wasn't just about power or control. This was about a vision of reality that was fundamentally different from what the Fate Weavers believed in. Victor Strand wanted to remake existence itself.
 
@@ -42,7 +42,7 @@ Zara and the Fate Weavers approached the facility, moving through probability as
 
 "You know who I am."
 
-"I've been watching your development with great interest. A scientist discovering probability manipulation through research rather than tradition. You represent everything I've been working toward—a new kind of practitioner, unbound by the old ways."
+"I've been watching your development with great interest. A scientist discovering probability manipulation through research rather than tradition. You represent everything I've been working toward,a new kind of practitioner, unbound by the old ways."
 
 "I'm not interested in destroying the web."
 
@@ -56,7 +56,7 @@ Zara and the Fate Weavers approached the facility, moving through probability as
 
 "Suffering is part of existence. The question is whether we accept the suffering built into the current web, or whether we risk creating something better."
 
-Zara felt the temptation in his words. There was truth in what he said—the web did constrain possibility, did limit what could happen. But the cost of his vision was too high.
+Zara felt the temptation in his words. There was truth in what he said,the web did constrain possibility, did limit what could happen. But the cost of his vision was too high.
 
 "There has to be another way. A way to expand possibility without destroying what exists."
 
@@ -66,9 +66,9 @@ Zara felt the temptation in his words. There was truth in what he said—the web
 
 Victor Strand smiled. "You can try. But you're new to this, Dr. Okonkwo. You've been practicing for weeks. I've been studying probability manipulation for decades. And I have twelve followers who share my vision."
 
-He gestured, and the Separatists began to pull threads—not attacking directly, but destabilizing the web around Zara and her allies. The fabric of reality began to strain.
+He gestured, and the Separatists began to pull threads,not attacking directly, but destabilizing the web around Zara and her allies. The fabric of reality began to strain.
 
-Zara reached for the web, counteracting their influence. Beside her, the Fate Weavers did the same. The battle was joined—not with weapons, but with probability, each side trying to influence the web in their favor.
+Zara reached for the web, counteracting their influence. Beside her, the Fate Weavers did the same. The battle was joined,not with weapons, but with probability, each side trying to influence the web in their favor.
 
 It was chaos. Threads being pulled in every direction, probability shifting moment by moment, reality itself becoming uncertain. Zara could feel the strain, the exhaustion of maintaining her influence against twelve skilled practitioners.
 
@@ -80,7 +80,7 @@ It was chaos. Threads being pulled in every direction, probability shifting mome
 
 "How do we do that?"
 
-*By giving him what he wants. Not the collapse of the entire web—but a localized collapse, centered on him. The probability vacuum will consume his ability to manipulate fate.*
+*By giving him what he wants. Not the collapse of the entire web,but a localized collapse, centered on him. The probability vacuum will consume his ability to manipulate fate.*
 
 "That could kill him."
 
@@ -90,7 +90,7 @@ Zara hesitated. She had never used probability manipulation to harm someone befo
 
 "Do it."
 
-She reached for the threads around Victor Strand, not pulling them but releasing them—creating a void where probability collapsed in on itself. The Separatist leader screamed as the void consumed his influence, his ability to manipulate fate dissolving into nothing.
+She reached for the threads around Victor Strand, not pulling them but releasing them,creating a void where probability collapsed in on itself. The Separatist leader screamed as the void consumed his influence, his ability to manipulate fate dissolving into nothing.
 
 Without their leader, the other Separatists faltered. The Fate Weavers pressed their advantage, stabilizing the web, neutralizing the remaining threats.
 
@@ -100,7 +100,7 @@ Victor Strand lay on the ground, his eyes empty, his presence in the web reduced
 
 "You've won nothing," he whispered as Zara approached. "The web will always constrain. Reality will always resist change. I was trying to set humanity free."
 
-"Freedom without stability is chaos," Zara replied. "The web isn't a prison—it's a foundation. We can build on it, improve it, expand what's possible. But we can't destroy it without destroying ourselves."
+"Freedom without stability is chaos," Zara replied. "The web isn't a prison,it's a foundation. We can build on it, improve it, expand what's possible. But we can't destroy it without destroying ourselves."
 
 Victor Strand closed his eyes, defeated.
 

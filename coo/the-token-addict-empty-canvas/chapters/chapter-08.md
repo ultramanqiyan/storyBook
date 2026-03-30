@@ -80,7 +80,7 @@ When it ended, there were no enthusiastic handshakes. No excited follow-up quest
 
 Marcus walked back to his desk, humiliation burning in his chest.
 
-He'd been exposed. Not explicitly—no one had accused him of using AI. But they'd sensed the hollowness. The lack of genuine creative vision.
+He'd been exposed. Not explicitly, no one had accused him of using AI. But they'd sensed the hollowness. The lack of genuine creative vision.
 
 *They know*, he thought. *They can tell. I'm not a designer anymore. I'm a fraud.*
 
@@ -106,5 +106,3 @@ And for the first time, he couldn't escape the truth.
 
 He wasn't a designer anymore. He was just a curator of AI output. And everyone could tell.
 
-
-**END OF CHAPTER 8**

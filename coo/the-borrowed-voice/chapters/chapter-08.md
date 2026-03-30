@@ -2,7 +2,7 @@
 
 The realization came slowly.
 
-David had been thinking about the word "imposter" for weeks. The imposter syndrome that plagued so many professionals—the feeling that you're not as competent as people think, that you're somehow faking your way through success.
+David had been thinking about the word "imposter" for weeks. The imposter syndrome that plagued so many professionals, the feeling that you're not as competent as people think, that you're somehow faking your way through success.
 
 But this was different. He wasn't feeling like an imposter because he doubted his abilities. He was feeling like an imposter because he had actually been one.
 
@@ -44,7 +44,7 @@ The line was blurrier than he wanted to admit.
 
 That night, he had a dream.
 
-He was standing in front of a room full of clients, giving a presentation. He opened his mouth to speak, but the words that came out weren't his. They were polished, professional, perfect—but they weren't his.
+He was standing in front of a room full of clients, giving a presentation. He opened his mouth to speak, but the words that came out weren't his. They were polished, professional, perfect, but they weren't his.
 
 He tried to stop, to say something in his own voice, but he couldn't. The AI was speaking through him, using his mouth, his face, his presence.
 
@@ -115,7 +115,7 @@ Sarah thought his communication had evolved. She thought he'd retained his perso
 
 He felt a wave of shame.
 
-He had been an imposter. He had let a machine speak for him, and the client had praised him for it. The trust she mentioned wasn't trust in him—it was trust in a simulation.
+He had been an imposter. He had let a machine speak for him, and the client had praised him for it. The trust she mentioned wasn't trust in him, it was trust in a simulation.
 
 ---
 

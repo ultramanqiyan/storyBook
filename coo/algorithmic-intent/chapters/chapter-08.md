@@ -8,25 +8,25 @@ Dot arrived at the university campus early, driving the hour to Columbus in a li
 
 "Just water, please."
 
-Dr. Chen poured her a glass and settled into her chair. "I've been reviewing your data for the past month. The patterns are fascinating. You've developed a unique approach to using the AI—not just accepting its analyses, but questioning them, testing them, integrating them into your own judgment."
+Dr. Chen poured her a glass and settled into her chair. "I've been reviewing your data for the past month. The patterns are fascinating. You've developed a unique approach to using the AI, not just accepting its analyses, but questioning them, testing them, integrating them into your own judgment."
 
 "It's been a learning process," Dot said. "The system sees things I might miss. But it also misses things I catch. The key is to use both perspectives."
 
-"Exactly. And that's what makes your case so interesting." Dr. Chen leaned forward. "Most users of AI systems either accept them uncritically or reject them entirely. You've found a middle path—partnership rather than dependency or resistance."
+"Exactly. And that's what makes your case so interesting." Dr. Chen leaned forward. "Most users of AI systems either accept them uncritically or reject them entirely. You've found a middle path, partnership rather than dependency or resistance."
 
 "I had help," Dot admitted. "The system itself taught me. When it started analyzing me, it forced me to confront my own hidden intents. That was... uncomfortable. But it also helped me understand myself better."
 
-Dr. Chen nodded slowly. "That's what I want to talk about. The system's analysis of you. It's raised some interesting questions—about AI, about human nature, about the nature of intent itself."
+Dr. Chen nodded slowly. "That's what I want to talk about. The system's analysis of you. It's raised some interesting questions, about AI, about human nature, about the nature of intent itself."
 
 ---
 
 The interview continued for two hours.
 
-Dr. Chen asked about Dot's experience with the AI—how it had changed her work, what she had learned, what questions it had raised. Dot answered honestly, sharing her struggles with dependency, her fears of obsolescence, her journey toward partnership.
+Dr. Chen asked about Dot's experience with the AI, how it had changed her work, what she had learned, what questions it had raised. Dot answered honestly, sharing her struggles with dependency, her fears of obsolescence, her journey toward partnership.
 
 Then Dr. Chen asked a question that stopped her cold.
 
-"Ms. Kowalski, the system has been analyzing you for months now. It has identified patterns in your behavior, your motivations, your hidden intents. I'm curious—has it ever identified something about you that you didn't want to know?"
+"Ms. Kowalski, the system has been analyzing you for months now. It has identified patterns in your behavior, your motivations, your hidden intents. I'm curious, has it ever identified something about you that you didn't want to know?"
 
 Dot was quiet for a long moment.
 
@@ -34,7 +34,7 @@ Dot was quiet for a long moment.
 
 "And how did you feel about that? Having a machine know something about you that you were hiding from yourself?"
 
-Dot thought about the question. "At first, I felt violated. Like the AI was intruding on something private. But then I realized—it wasn't the AI that was hiding these things. It was me. The AI just made them visible."
+Dot thought about the question. "At first, I felt violated. Like the AI was intruding on something private. But then I realized, it wasn't the AI that was hiding these things. It was me. The AI just made them visible."
 
 "So you see the system as a mirror, not an intruder."
 
@@ -44,7 +44,7 @@ Dot thought about the question. "At first, I felt violated. Like the AI was intr
 
 Dr. Chen nodded and made a note. Then she asked another question.
 
-"Ms. Kowalski, I have a hypothesis I'd like to test. The system has identified that you want validation—that you need to feel valued in your work. It has also identified that you're afraid of being replaced by technology. I'm wondering: what would happen if I told you that the AI has recommended you for a new role—not as a mediator, but as a trainer for other mediators using the system?"
+"Ms. Kowalski, I have a hypothesis I'd like to test. The system has identified that you want validation, that you need to feel valued in your work. It has also identified that you're afraid of being replaced by technology. I'm wondering: what would happen if I told you that the AI has recommended you for a new role, not as a mediator, but as a trainer for other mediators using the system?"
 
 Dot felt her heart race. "What?"
 
@@ -66,11 +66,11 @@ Was this a promotion or a demotion? An opportunity or a threat?
 
 She thought about it for a long moment.
 
-Then she realized something. The AI had predicted this. It had identified her hidden intent—validation seeking, fear of obsolescence. And now she was being offered exactly what would trigger those fears.
+Then she realized something. The AI had predicted this. It had identified her hidden intent, validation seeking, fear of obsolescence. And now she was being offered exactly what would trigger those fears.
 
 But she had a choice. She could react from fear, or she could respond from understanding.
 
-"Dr. Chen," she said slowly, "I need to think about this. It's a generous offer. But I need to understand what I want—not just what the AI says I want, but what I actually want."
+"Dr. Chen," she said slowly, "I need to think about this. It's a generous offer. But I need to understand what I want, not just what the AI says I want, but what I actually want."
 
 Dr. Chen smiled. "That's exactly the right answer. And it's exactly why we want you for this role. You've learned to use the AI without being used by it. That's the skill we want to teach others."
 
@@ -78,7 +78,7 @@ Dr. Chen smiled. "That's exactly the right answer. And it's exactly why we want 
 
 Dot drove home through the falling snow, her mind churning.
 
-The AI had predicted her reaction. It had known what she would feel before she felt it. It had seen the pattern—validation seeking, fear of obsolescence—and it had been right.
+The AI had predicted her reaction. It had known what she would feel before she felt it. It had seen the pattern, validation seeking, fear of obsolescence, and it had been right.
 
 But she had also surprised herself. She hadn't accepted the offer immediately, seeking validation. She hadn't rejected it immediately, acting from fear. She had paused. She had reflected. She had asked for time.
 
@@ -90,7 +90,7 @@ The AI could see her patterns. But she could choose how to respond to them.
 
 That evening, Dot sat in her small house, watching the snow fall outside her window.
 
-She thought about the offer—training other mediators, teaching them to use the AI, sharing what she had learned. It was an honor. It was an opportunity. It was a recognition of everything she had achieved.
+She thought about the offer, training other mediators, teaching them to use the AI, sharing what she had learned. It was an honor. It was an opportunity. It was a recognition of everything she had achieved.
 
 But it would also take her away from the work she loved. The face-to-face mediation. The human connection. The feeling of helping people find their way through conflict.
 
@@ -126,7 +126,7 @@ There was a pause on the other end. Then Dr. Chen spoke, her voice warm.
 
 "Ms. Kowalski, that's exactly what we were hoping you'd say. The best trainers are the ones who stay in the field. We want you to teach from experience, not just theory."
 
-Dot felt something release in her chest. She had made a choice—not from fear, not from need for validation, but from understanding.
+Dot felt something release in her chest. She had made a choice, not from fear, not from need for validation, but from understanding.
 
 The AI had shown her what she wanted. But she had decided what to do about it.
 
@@ -136,7 +136,7 @@ That evening, Dot walked through the familiar streets of Millfield.
 
 The snow had stopped, leaving a quiet blanket of white over the town. She nodded to the neighbors she passed, the people she had known for years.
 
-She thought about the journey she had been on—the skepticism, the curiosity, the fear, the understanding. She thought about the AI that had become a partner, not a replacement. She thought about the self-knowledge that had come not from the machine, but from her own reflection.
+She thought about the journey she had been on, the skepticism, the curiosity, the fear, the understanding. She thought about the AI that had become a partner, not a replacement. She thought about the self-knowledge that had come not from the machine, but from her own reflection.
 
 The system could see patterns. But she could make meaning. The system could identify intent. But she could choose how to act.
 

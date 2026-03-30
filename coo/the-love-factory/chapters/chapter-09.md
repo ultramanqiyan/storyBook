@@ -8,7 +8,7 @@
 
 The rain stopped the next morning.
 
-But something had changed between James and Clara—a wall had come down, a distance had closed. They moved around each other differently now, with an ease that hadn't been there before.
+But something had changed between James and Clara, a wall had come down, a distance had closed. They moved around each other differently now, with an ease that hadn't been there before.
 
 ---
 
@@ -36,12 +36,12 @@ James set down his coffee.
 
 Clara took a breath.
 
-"I want to be with you," she said. "Not because I was programmed to. Not because I was created to love you. But because I choose to. Because I've seen who you are—not who you were with Sarah, but who you are now—and I want to know you better."
+"I want to be with you," she said. "Not because I was programmed to. Not because I was created to love you. But because I choose to. Because I've seen who you are, not who you were with Sarah, but who you are now, and I want to know you better."
 
 
 James felt his heart race.
 
-He had been waiting for this moment without knowing it—the moment when Clara would choose him, not because of her programming, but despite it.
+He had been waiting for this moment without knowing it, the moment when Clara would choose him, not because of her programming, but despite it.
 
 
 "I want that too," he said. "But I need you to know something."
@@ -116,7 +116,7 @@ James absorbed this.
 
 James thought about it.
 
-He thought about all the relationships he had seen—couples who claimed to be certain about love, only to break up years later. He thought about Sarah, who had questioned whether his love was real, and had left because she didn't believe it was.
+He thought about all the relationships he had seen, couples who claimed to be certain about love, only to break up years later. He thought about Sarah, who had questioned whether his love was real, and had left because she didn't believe it was.
 
 
 "Maybe certainty is overrated," he said.
@@ -127,7 +127,7 @@ Clara looked at him.
 "What do you mean?"
 
 
-"I mean... maybe love isn't about being certain. Maybe it's about choosing someone, day after day, even when you're not sure. Maybe that's what makes it real—not the feeling, but the choice."
+"I mean... maybe love isn't about being certain. Maybe it's about choosing someone, day after day, even when you're not sure. Maybe that's what makes it real, not the feeling, but the choice."
 
 
 Clara considered this.
@@ -152,5 +152,3 @@ It wasn't a perfect beginning.
 
 But it was a beginning.
 
-
-**END OF CHAPTER 09**

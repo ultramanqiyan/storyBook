@@ -25,14 +25,12 @@ Alex began to remember.
 
 He remembered his childhood love of painting, his teenage passion for music, his young adult dreams of creative expression. He remembered who he had been before the Desire Market had reshaped him.
 
-And he began to feel again—authentic desires, genuine preferences, real wants.
+And he began to feel again, authentic desires, genuine preferences, real wants.
 
 
 He picked up a paintbrush for the first time in twelve years.
 
-The feeling was unfamiliar but right—the texture of the bristles, the smell of the paint, the flow of color across canvas. He painted without thinking, without analyzing, without decoding.
+The feeling was unfamiliar but right, the texture of the bristles, the smell of the paint, the flow of color across canvas. He painted without thinking, without analyzing, without decoding.
 
 He simply created.
 
-
-**END OF CHAPTER 09**

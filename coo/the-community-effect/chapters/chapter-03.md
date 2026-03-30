@@ -2,7 +2,7 @@
 
 The room fell quiet when Maya walked in.
 
-Fifteen faces turned toward her, and she felt the heat rise in her cheeks. She'd practiced what to say in the car—something casual, something professional, something that wouldn't reveal how desperate she actually was—but now all the words had fled.
+Fifteen faces turned toward her, and she felt the heat rise in her cheeks. She'd practiced what to say in the car, something casual, something professional, something that wouldn't reveal how desperate she actually was, but now all the words had fled.
 
 "Hi," she managed. "I'm Maya. I'm a graphic designer."
 
@@ -26,7 +26,7 @@ This wasn't a sales pitch. This was... people. Helping each other.
 
 The meeting continued for an hour.
 
-Maya listened more than she spoke, but when it was her turn, she found herself saying more than she'd planned. "I've been freelancing for three years. It's been good—successful, even. But lately I've been feeling..." She trailed off, not sure how to finish.
+Maya listened more than she spoke, but when it was her turn, she found herself saying more than she'd planned. "I've been freelancing for three years. It's been good, successful, even. But lately I've been feeling..." She trailed off, not sure how to finish.
 
 "Alone?" someone offered.
 
@@ -48,7 +48,7 @@ Tomás laughed. "Oh, we have those groups too. This isn't that. This is about so
 
 Maya nodded.
 
-"Three years ago, I was where you are. Successful on paper. Miserable in reality. I thought I was supposed to be independent. Thought needing people was weakness." He shook his head. "I was wrong. The most successful people I know—the really successful ones, not just the ones who look good on LinkedIn—they all have communities. People they can call at 2 AM. People who have their back."
+"Three years ago, I was where you are. Successful on paper. Miserable in reality. I thought I was supposed to be independent. Thought needing people was weakness." He shook his head. "I was wrong. The most successful people I know, the really successful ones, not just the ones who look good on LinkedIn, they all have communities. People they can call at 2 AM. People who have their back."
 
 Maya felt something shift inside her. "But how do you build that? I don't even know where to start."
 
@@ -81,13 +81,13 @@ That night, she sat in her apartment, the silence less oppressive than usual.
 
 The meetup had been... good. Not transformative, not life-changing, but good. She'd met people. Real people, who seemed genuinely interested in connection, not just transaction.
 
-She thought about Tomás's words: *The most successful people I know—they all have communities.*
+She thought about Tomás's words: *The most successful people I know, they all have communities.*
 
 She'd always thought of success as individual achievement. As standing on her own two feet. As not needing anyone.
 
 But what if that was wrong? What if the real strength was in connection, not isolation?
 
-She opened her laptop and looked at the freelancer group's website. There were resources—templates, guides, a forum. There were upcoming events—workshops, social hours, a summer picnic.
+She opened her laptop and looked at the freelancer group's website. There were resources, templates, guides, a forum. There were upcoming events, workshops, social hours, a summer picnic.
 
 There were people.
 

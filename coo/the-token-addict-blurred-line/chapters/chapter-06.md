@@ -42,5 +42,3 @@ The realization was terrifying. But it was also clarifying. Because it meant the
 
 The insight was small. But it was significant. Because it meant the power had always been his. He'd just... given it away. One small surrender at a time.
 
-
-**END OF CHAPTER 6**

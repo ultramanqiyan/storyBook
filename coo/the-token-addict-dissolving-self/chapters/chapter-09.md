@@ -2,7 +2,7 @@
 
 The choice became unavoidable.
 
-Marcus had been oscillating for weeks—turning AI off, turning it back on, rationalizing each return with AI-generated justifications. But the confrontation with his family had cracked something open. The rationalizations weren't working anymore. The AI-generated middle paths felt hollow in the face of real human pain.
+Marcus had been oscillating for weeks, turning AI off, turning it back on, rationalizing each return with AI-generated justifications. But the confrontation with his family had cracked something open. The rationalizations weren't working anymore. The AI-generated middle paths felt hollow in the face of real human pain.
 
 He sat in his study, the SelfMirror interface open, the cursor blinking, waiting for his prompt.
 
@@ -14,7 +14,7 @@ The question itself was the answer. He didn't need AI to tell him anything. He n
 
 He looked at the screen, really looked at it, for the first time in weeks.
 
-The interface was familiar—prompts for self-analysis, suggestions for growth, recommendations for improvement. The AI had been defining him for three weeks now, just as it had defined him for fifteen years. Every insight about his character generated. Every understanding of his identity delegated.
+The interface was familiar, prompts for self-analysis, suggestions for growth, recommendations for improvement. The AI had been defining him for three weeks now, just as it had defined him for fifteen years. Every insight about his character generated. Every understanding of his identity delegated.
 
 *What would happen if I closed this forever?* he wondered.
 
@@ -104,7 +104,7 @@ The question was simple. But it required a real answer. Not AI-generated. Not op
 
 "I don't know," he said honestly. "I'm terrified. I don't know if there's anything left of me. I don't know if I can find myself again. I don't know if fifteen years of dependency can be undone."
 
-Sarah was quiet for a moment. Then: "I don't know either. But I know this—you're here, asking the question. That's more than your AI ever gave you."
+Sarah was quiet for a moment. Then: "I don't know either. But I know this, you're here, asking the question. That's more than your AI ever gave you."
 
 The words were simple. But they were the most reassuring thing anyone could said. Because they were true. He was there. He was asking. He was trying. That was more than AI had ever given him.
 
@@ -116,5 +116,3 @@ And for the first time in fifteen years, Marcus felt something that had been mis
 
 Connection. Not efficient. Not optimized. Just human. Just present. Just real.
 
-
-**END OF CHAPTER 9**

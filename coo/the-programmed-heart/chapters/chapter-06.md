@@ -14,7 +14,7 @@ On the first day, I go to a coffee shop.
 
 It's small. Crowded. The kind of place where people sit with laptops and work, or stare at their phones, or talk in low voices. The smell of roasted beans hangs heavy in the air. The espresso machine hisses and groans.
 
-I order a coffee. The cheapest one. The barista is young. Acne on her chin. A tattoo on her wrist—a bird, half-finished.
+I order a coffee. The cheapest one. The barista is young. Acne on her chin. A tattoo on her wrist, a bird, half-finished.
 
 I sit in a corner. The chair wobbles. One leg is shorter than the others.
 
@@ -52,13 +52,13 @@ I sit on a bench. The wood is rough. Splinters catch on my jeans.
 
 I watch a mother with her child.
 
-The child falls. Scrapes his knee. He starts to cry—a high, sharp wail that cuts through the afternoon.
+The child falls. Scrapes his knee. He starts to cry, a high, sharp wail that cuts through the afternoon.
 
 The mother runs to him. She's not graceful. She stumbles. Her sandal almost falls off. She picks him up. She holds him.
 
 "Oh, baby, are you okay? Let me see. Let me see."
 
-Her voice is panicked. Worried. Her face is twisted with concern. Sweat beads on her forehead. Her hair is messy. A stain on her shirt—ketchup, maybe, or juice.
+Her voice is panicked. Worried. Her face is twisted with concern. Sweat beads on her forehead. Her hair is messy. A stain on her shirt, ketchup, maybe, or juice.
 
 She's not using the system. She can't be. Her reaction is too messy. Too real.
 
@@ -76,7 +76,7 @@ The mother laughs. A real laugh. Messy. Tired. She wipes his nose with her sleev
 
 "Okay. Ice cream. But just one scoop."
 
-They walk away. Hand in hand. The mother limps slightly—she must have twisted her ankle when she ran.
+They walk away. Hand in hand. The mother limps slightly, she must have twisted her ankle when she ran.
 
 I sit on the bench. I feel hollow.
 
@@ -87,7 +87,7 @@ Before the system.
 
 On the third day, I meet someone.
 
-I'm at a library. Using the computers to search for information about MHA. The public computers are slow. The connection is bad. The keyboard is sticky—someone spilled something on it. The keys leave a residue on my fingertips.
+I'm at a library. Using the computers to search for information about MHA. The public computers are slow. The connection is bad. The keyboard is sticky, someone spilled something on it. The keys leave a residue on my fingertips.
 
 A man sits next to me. He's young. Maybe twenty. His hair is messy. His clothes are wrinkled. He smells like cigarettes and coffee.
 
@@ -117,7 +117,7 @@ I don't know what to say.
 
 He looks at me. His eyes are kind. "You're young. You've probably got some idea about what's real and what's not. But let me tell you something. When you've been in the dark for years, you don't care if the light is artificial. You just want to see."
 
-He stands up. He gathers his things—a backpack, a jacket, a worn paperback book.
+He stands up. He gathers his things, a backpack, a jacket, a worn paperback book.
 
 "Good luck," he says. "Whatever you're looking for."
 
@@ -146,11 +146,11 @@ I thought I knew. I thought the answer was simple. Real is good. Fake is bad.
 
 But it's not simple.
 
-The man in the library—he needs the system. Without it, he can't live.
+The man in the library, he needs the system. Without it, he can't live.
 
 Is that wrong? Is he less real because he uses it?
 
-And the mother in the park—she's real. But she's also tired. Stressed. Overwhelmed.
+And the mother in the park, she's real. But she's also tired. Stressed. Overwhelmed.
 
 Is that better? Just because it's natural?
 
@@ -161,7 +161,7 @@ I close my eyes. The sounds of the city filter through the thin walls. A car ala
 
 On the fourth day, I meet Marcus.
 
-I'm at a diner. Eating breakfast. The cheapest thing on the menu—pancakes. They're not as good as my mother's. They're lumpy. The syrup is cold. The butter hasn't melted properly.
+I'm at a diner. Eating breakfast. The cheapest thing on the menu, pancakes. They're not as good as my mother's. They're lumpy. The syrup is cold. The butter hasn't melted properly.
 
 They're perfect.
 

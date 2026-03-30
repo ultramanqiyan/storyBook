@@ -30,13 +30,13 @@ The answer was obvious: when he'd installed the first AI tool and let it begin t
 
 He got up and walked to the bathroom. The mirror was dark without the AI display, and for a moment, he just looked at himself.
 
-The face was familiar—the same features, the same lines, the same age. But the person looking back at him felt like a stranger. Not because of the physical appearance, but because of the emptiness behind the eyes.
+The face was familiar, the same features, the same lines, the same age. But the person looking back at him felt like a stranger. Not because of the physical appearance, but because of the emptiness behind the eyes.
 
 *Who is that?* he wondered. *What does he want? What does he feel?*
 
 The questions had no answers. Or rather, the answers had always come from the AI. "You want X." "You feel Y." "Your priorities are Z." The AI had defined him for so long that he'd forgotten how to define himself.
 
-He splashed water on his face, the cold shocking him into the present moment. The sensation was real—physical, immediate, undeniable. Not analyzed, not optimized, just felt.
+He splashed water on his face, the cold shocking him into the present moment. The sensation was real, physical, immediate, undeniable. Not analyzed, not optimized, just felt.
 
 *This is what being alive feels like*, he thought. *This is what I've been missing.*
 
@@ -46,11 +46,11 @@ The kitchen was quiet as he made coffee. The coffee maker didn't automatically s
 
 The waiting was the hardest part. In the AI-optimized world, everything happened instantly, efficiently, without delay. But now, standing in his kitchen, waiting for coffee to brew, Marcus felt the weight of time passing.
 
-*This is boring*, he thought, and then caught himself. The thought was an AI thought—the expectation of constant optimization, constant efficiency, constant engagement. Without the AI, life was... slow. Boring. Empty.
+*This is boring*, he thought, and then caught himself. The thought was an AI thought, the expectation of constant optimization, constant efficiency, constant engagement. Without the AI, life was... slow. Boring. Empty.
 
 *Is that bad?* he wondered. *Or is that just what life actually is?*
 
-The coffee finished brewing, and he poured himself a cup. It wasn't the optimal temperature—the AI would have made it exactly 175 degrees Fahrenheit for maximum flavor extraction. It wasn't the optimal strength—the AI would have calibrated it based on his caffeine sensitivity and morning alertness needs. But it was his. His decision. His coffee. His morning.
+The coffee finished brewing, and he poured himself a cup. It wasn't the optimal temperature, the AI would have made it exactly 175 degrees Fahrenheit for maximum flavor extraction. It wasn't the optimal strength, the AI would have calibrated it based on his caffeine sensitivity and morning alertness needs. But it was his. His decision. His coffee. His morning.
 
 *This is what autonomy feels like*, he thought. *Messy. Imperfect. Mine.*
 
@@ -80,7 +80,7 @@ The words hit him like a physical blow.
 
 "Marcus, I've watched you change over fifteen years. I've watched you become more efficient, more productive, more successful. And I've watched you become less... you." She paused, her voice catching. "You don't notice because the AI tells you you're fine. But I see it. I see the emptiness. I see the stranger you've become."
 
-The words were painful, but they were true. He had become a stranger—to himself, to his wife, to the person he used to be.
+The words were painful, but they were true. He had become a stranger, to himself, to his wife, to the person he used to be.
 
 "I didn't realize," he said, and the words felt inadequate. "I thought I was just... evolving. Adapting. Becoming more efficient."
 
@@ -110,5 +110,3 @@ The words were simple, inadequate, imperfect. But they were his. And for now, th
 
 The stranger in the mirror was still a stranger. But at least now, Marcus was trying to meet him.
 
-
-**END OF CHAPTER 2**

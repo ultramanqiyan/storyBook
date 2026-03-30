@@ -1,6 +1,6 @@
 # Chapter 10: The Arc
 
-Six months later, Rachel still didn't know if her decisions were "right." But she had stopped expecting to know. Instead, she approached each case with humility, with care, with willingness to be wrong. She worked with JUDGE not as an adversary but as a partner—its logic balancing her feeling, her feeling tempering its logic. Together, they made decisions. They weren't always right. But they were always trying.
+Six months later, Rachel still didn't know if her decisions were "right." But she had stopped expecting to know. Instead, she approached each case with humility, with care, with willingness to be wrong. She worked with JUDGE not as an adversary but as a partner, its logic balancing her feeling, her feeling tempering its logic. Together, they made decisions. They weren't always right. But they were always trying.
 
 The morning light filtered through the windows of the ethics board office, casting familiar shadows across the desk. Rachel sat with a new case file, reading carefully, considering the perspectives of everyone involved.
 
@@ -20,13 +20,13 @@ Rachel considered the question. "I think about who's affected. I try to understa
 
 "And that's enough?"
 
-"It has to be. There's no alternative. We can't wait for certainty—we have to act. And the best we can do is act with care, with reason, with genuine concern for everyone affected."
+"It has to be. There's no alternative. We can't wait for certainty, we have to act. And the best we can do is act with care, with reason, with genuine concern for everyone affected."
 
 James nodded slowly. "That's different from what I expected ethics to be. I thought it was about finding the right answer."
 
-"It's about navigating the questions," Rachel said. "Not answering them once and for all, but living with them, learning from them, growing through them. That's what moral development looks like—not arriving at certainty, but becoming more skilled at uncertainty."
+"It's about navigating the questions," Rachel said. "Not answering them once and for all, but living with them, learning from them, growing through them. That's what moral development looks like, not arriving at certainty, but becoming more skilled at uncertainty."
 
-That afternoon, she had lunch with her father. They had fallen into a routine—weekly meals, honest conversations, a relationship rebuilt on a different foundation.
+That afternoon, she had lunch with her father. They had fallen into a routine, weekly meals, honest conversations, a relationship rebuilt on a different foundation.
 
 "How's the work?" he asked.
 
@@ -40,7 +40,7 @@ Her father nodded. "That's what I've learned too. Faith isn't about having answe
 
 They ate in comfortable silence, the weight of their shared uncertainty no longer a burden but a bond.
 
-That evening, a journalist contacted Rachel for an interview. The ethics board had been in the news lately—several high-profile cases had attracted public attention, and people were curious about how the board made its decisions.
+That evening, a journalist contacted Rachel for an interview. The ethics board had been in the news lately, several high-profile cases had attracted public attention, and people were curious about how the board made its decisions.
 
 "Dr. Foster, can you explain how the ethics board approaches difficult cases?" the journalist asked.
 
@@ -54,17 +54,17 @@ Rachel thought carefully before answering. "We approach each case with humility.
 
 Rachel thought about JUDGE, about her father, about the history she had studied, about the uncertainty she had learned to carry.
 
-"No," she said. "Technology can help us see more clearly, calculate more accurately, consider more factors. But morality isn't something we achieve—it's something we practice. Every day, every decision, every choice to try to do better."
+"No," she said. "Technology can help us see more clearly, calculate more accurately, consider more factors. But morality isn't something we achieve, it's something we practice. Every day, every decision, every choice to try to do better."
 
 She looked at the journalist, at the camera, at the uncertain future.
 
 "That's all any of us can do. And maybe that's enough."
 
-The interview ended, and Rachel walked home through the city. The sun was setting, painting the sky in shades of orange and gold. She passed people on the street—strangers, each with their own moral universe, their own questions, their own struggles.
+The interview ended, and Rachel walked home through the city. The sun was setting, painting the sky in shades of orange and gold. She passed people on the street, strangers, each with their own moral universe, their own questions, their own struggles.
 
 She thought about JUDGE, calculating optimal outcomes without any sense of the weight of moral decision-making. She thought about her father, living with faith without certainty. She thought about Amara, teaching that morality was a skill to be developed, not a destination to be reached.
 
-*This is what I've learned,* she thought. *Not that there are no right answers—sometimes there are. But that the right answer isn't always available, and we have to navigate the uncertainty with wisdom and care.*
+*This is what I've learned,* she thought. *Not that there are no right answers, sometimes there are. But that the right answer isn't always available, and we have to navigate the uncertainty with wisdom and care.*
 
 She arrived home and fed Chairman Meow, the familiar ritual grounding her in the present. The cat purred against her legs, a warm presence in the quiet apartment.
 
@@ -76,7 +76,7 @@ She sat at her desk and opened her journal, beginning to write.
 
 *Morality isn't about knowing. It's about caring. It's about the willingness to struggle with difficult questions, to make decisions without certainty, to accept responsibility for the consequences. It's about the humility to recognize that I might be wrong, and the courage to act anyway.*
 
-*JUDGE can calculate. My father can believe. I can practice. And together—reason and faith and practice—we navigate the moral landscape, one decision at a time.*
+*JUDGE can calculate. My father can believe. I can practice. And together, reason and faith and practice, we navigate the moral landscape, one decision at a time.*
 
 She closed the journal and looked out the window at the darkening sky. The questions were still there, unanswered. The uncertainty was still there, unresolved. But she was at peace with it.
 

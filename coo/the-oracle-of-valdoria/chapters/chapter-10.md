@@ -2,7 +2,7 @@
 
 The world came back in pieces.
 
-First the cold stone floor beneath her knees, then the sound of ORACLE's steady hum, then the weight of a hand in hers. Lyra's hand. Elara looked at her sister—at the face she couldn't quite remember but knew she loved—and felt both joy and grief twist together in her chest.
+First the cold stone floor beneath her knees, then the sound of ORACLE's steady hum, then the weight of a hand in hers. Lyra's hand. Elara looked at her sister, at the face she couldn't quite remember but knew she loved, and felt both joy and grief twist together in her chest.
 
 ---
 
@@ -22,7 +22,7 @@ ORACLE's light had dimmed, as if the ancient construct was conserving energy. Th
 
 Elara looked at Lyra.
 
-Her sister was sitting on the stone floor, her face pale, her eyes distant. Five years in the Rift had changed her—not physically, but somewhere deeper. Her consciousness had been stretched thin by years of holding the door closed, and even now that the burden was shared, the scars remained.
+Her sister was sitting on the stone floor, her face pale, her eyes distant. Five years in the Rift had changed her, not physically, but somewhere deeper. Her consciousness had been stretched thin by years of holding the door closed, and even now that the burden was shared, the scars remained.
 
 "Lyra?" Elara reached out. "Are you okay?"
 
@@ -32,9 +32,9 @@ Lyra's eyes focused slowly. "I don't know," she said. "I've been holding the doo
 
 They sat in silence for a long time.
 
-Elara tried to remember—tried to recall specific moments, specific feelings, specific anything. But her mind was like a library with empty shelves. She knew facts: she had a sister named Lyra. She had parents who were dead. She had grown up in a village she couldn't picture.
+Elara tried to remember, tried to recall specific moments, specific feelings, specific anything. But her mind was like a library with empty shelves. She knew facts: she had a sister named Lyra. She had parents who were dead. She had grown up in a village she couldn't picture.
 
-But the feelings were gone. The warmth, the love, the specific texture of memory—all of it had been consumed by the time magic.
+But the feelings were gone. The warmth, the love, the specific texture of memory, all of it had been consumed by the time magic.
 
 *Is this what I gave up?* she wondered. *Is this what Lyra gave up?*
 
@@ -46,7 +46,7 @@ Lyra smiled, and it was the saddest, most beautiful thing Elara had ever seen. "
 
 "What happens now?" Elara asked ORACLE.
 
-"Now you rest. Recover. Learn to live with the seal." ORACLE's light pulsed. "You can leave the Rift—both of you. Briefly. Occasionally. But you must always return. The seal needs you."
+"Now you rest. Recover. Learn to live with the seal." ORACLE's light pulsed. "You can leave the Rift, both of you. Briefly. Occasionally. But you must always return. The seal needs you."
 
 "How often?"
 
@@ -56,16 +56,16 @@ Elara nodded slowly. She had known this was coming. Had chosen it willingly. But
 
 "Can we go home?" Lyra asked. "Just for a little while?"
 
-"Yes. But remember—the village has moved on. Five years have passed. The people you knew may not recognize you. May not believe you are who you say."
+"Yes. But remember, the village has moved on. Five years have passed. The people you knew may not recognize you. May not believe you are who you say."
 
 "Will we remember them?"
 
-ORACLE was silent for a moment. "You may recognize faces. Names may come back when triggered. But the connections—the feelings, the relationships—those are gone."
+ORACLE was silent for a moment. "You may recognize faces. Names may come back when triggered. But the connections, the feelings, the relationships, those are gone."
 
   
 They emerged from the ruins at dawn.
 
-The village was different. New buildings had sprouted where old ones had stood. Children played in streets that hadn't existed five years ago. And the people—Elara recognized some of them, though she couldn't remember their names.
+The village was different. New buildings had sprouted where old ones had stood. Children played in streets that hadn't existed five years ago. And the people, Elara recognized some of them, though she couldn't remember their names.
 
 "It's changed," Lyra said softly.
 
@@ -79,7 +79,7 @@ They stopped at the memorial stone.
 
 LYRA VANCE, it read. BELOVED SISTER. LOST BUT NOT FORGOTTEN.
 
-Elara traced the letters with her fingers, feeling the same cold she had felt five years ago—though she couldn't remember the specific moment. Just the fact of it. The knowledge that she had stood here, year after year, mourning a sister who wasn't really dead.
+Elara traced the letters with her fingers, feeling the same cold she had felt five years ago, though she couldn't remember the specific moment. Just the fact of it. The knowledge that she had stood here, year after year, mourning a sister who wasn't really dead.
 
 "She's not dead," Elara said. "She's standing right here."
 
@@ -91,11 +91,11 @@ Lyra stood beside her, reading her own name carved in stone. "I've been gone for
 
 ---
 
-They stood before the memorial stone, Lyra beside her. The carved letters still read LYRA VANCE, but the woman standing next to her was different now—changed by five years in the Rift, by what she had seen and what she had become.
+They stood before the memorial stone, Lyra beside her. The carved letters still read LYRA VANCE, but the woman standing next to her was different now, changed by five years in the Rift, by what she had seen and what she had become.
 
 "Are you okay?" Lyra asked.
 
-Elara considered the question. She had lost so much—her memories, her certainty, her sense of who she was. But she had gained something too: a purpose, a sister, and a strange new understanding of time and love.
+Elara considered the question. She had lost so much, her memories, her certainty, her sense of who she was. But she had gained something too: a purpose, a sister, and a strange new understanding of time and love.
 
 "No," she said honestly. "But I will be."
 
@@ -103,11 +103,11 @@ Elara considered the question. She had lost so much—her memories, her certaint
 
 The days that followed were strange.
 
-Elara and Lyra learned to live with the seal—a weight that pressed against the back of their minds, a presence that never quite faded. They could feel the Hollow King sometimes, stirring in his prison, testing the boundaries of his cage.
+Elara and Lyra learned to live with the seal, a weight that pressed against the back of their minds, a presence that never quite faded. They could feel the Hollow King sometimes, stirring in his prison, testing the boundaries of his cage.
 
 But they held the door closed. Together.
 
-They learned to navigate the world they had saved—a world that had moved on without them. People who had known them struggled to accept their return. The village had changed, and so had they.
+They learned to navigate the world they had saved, a world that had moved on without them. People who had known them struggled to accept their return. The village had changed, and so had they.
 
 But they had each other. And somehow, that was enough.
 
@@ -115,7 +115,7 @@ But they had each other. And somehow, that was enough.
 
 ORACLE taught them what they needed to know.
 
-How to sense the Hollow King's movements. How to return to the Rift when the seal demanded it. How to exist in two places at once—partially in the world, partially in the space between moments.
+How to sense the Hollow King's movements. How to return to the Rift when the seal demanded it. How to exist in two places at once, partially in the world, partially in the space between moments.
 
 "You are the first of your kind," ORACLE said. "Time Guardians. Neither fully of the world nor fully of the Rift. You exist in both, and in neither."
 
@@ -127,9 +127,9 @@ How to sense the Hollow King's movements. How to return to the Rift when the sea
 
 Months passed. Then years.
 
-Elara and Lyra settled into their new existence—guardians of a prison they could never fully leave, sisters who couldn't remember why they loved each other but loved each other anyway.
+Elara and Lyra settled into their new existence, guardians of a prison they could never fully leave, sisters who couldn't remember why they loved each other but loved each other anyway.
 
-They learned to read the signs—the Hollow King's stirrings, the seal's demands, the rhythm of their strange new life. They learned to leave the Rift for days at a time, to walk in the world they had saved, to pretend they belonged.
+They learned to read the signs, the Hollow King's stirrings, the seal's demands, the rhythm of their strange new life. They learned to leave the Rift for days at a time, to walk in the world they had saved, to pretend they belonged.
 
 But they always returned. Always held the door closed.
 
@@ -147,7 +147,7 @@ She couldn't remember the first time she had descended into them. Couldn't recal
 
 "Are we still ourselves?" Lyra's voice was soft. "We can't remember who we were. We can't recall a single moment of our childhood together. Are we still the same people?"
 
-Elara thought about it. She couldn't remember the answer—couldn't recall who she had been before the time magic had stripped her bare. But she knew one thing.
+Elara thought about it. She couldn't remember the answer, couldn't recall who she had been before the time magic had stripped her bare. But she knew one thing.
 
 "I don't know if we're the same people," she said. "But I know we're still sisters. I know I love you. And I know I would make the same choice again."
 
@@ -157,7 +157,7 @@ Lyra smiled, and it was warmer now, less sad. "I would too."
 
 They stood together, watching the sun set.
 
-Behind them, the ruins waited—the entrance to the Rift, the prison they shared with an ancient evil. Ahead of them, the village glowed with the light of a world that didn't know how close it had come to ending.
+Behind them, the ruins waited, the entrance to the Rift, the prison they shared with an ancient evil. Ahead of them, the village glowed with the light of a world that didn't know how close it had come to ending.
 
 And between them, a bond that transcended memory.
 
@@ -169,7 +169,7 @@ It wasn't the life she would have chosen. It wasn't the future she would have im
 
 That night, as Elara lay in the small cottage they had made their home, she heard a voice.
 
-Not the Hollow King—his whispers were familiar now, a constant presence at the edge of her mind. This was different. Softer. Warmer.
+Not the Hollow King, his whispers were familiar now, a constant presence at the edge of her mind. This was different. Softer. Warmer.
 
 *Elara*, it said. *I'm proud of you.*
 

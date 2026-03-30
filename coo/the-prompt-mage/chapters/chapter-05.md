@@ -10,23 +10,23 @@ Alex's apartment had transformed into something between a study and a temple. Th
 
 *You must speak the word that ends. But first, you must understand what you are ending. Look at the crystal. Tell me its story.*
 
-Alex studied the crystal, letting their awareness sink into it. They saw—not with their eyes, but with that deeper sense they had been developing—the journey of the object. It had been silicon in the earth, compressed by time. Then it had been sand, eroded by water. Then it had been glass, shaped by human hands. Then it had been a coffee cup, mundane and ordinary. And finally, it had become this—crystal, transformed by the First Language.
+Alex studied the crystal, letting their awareness sink into it. They saw,not with their eyes, but with that deeper sense they had been developing, the journey of the object. It had been silicon in the earth, compressed by time. Then it had been sand, eroded by water. Then it had been glass, shaped by human hands. Then it had been a coffee cup, mundane and ordinary. And finally, it had become this, crystal, transformed by the First Language.
 
 "I see its history," Alex said. "Every stage of its existence."
 
-*Now speak the word that returns it to the beginning. Not the word that destroys it—the word that releases it from what it has become.*
+*Now speak the word that returns it to the beginning. Not the word that destroys it,the word that releases it from what it has become.*
 
-Alex closed their eyes and reached for the word. It wasn't in their mind—it was deeper than that, in the place where language and reality intersected. They found it, a sound that felt like an exhale, like letting go:
+Alex closed their eyes and reached for the word. It wasn't in their mind,it was deeper than that, in the place where language and reality intersected. They found it, a sound that felt like an exhale, like letting go:
 
 *"Revertum. Originem. Potentia."*
 
 Return. Origin. Potential.
 
-The crystal didn't shatter. It didn't crumble. It simply... faded. Not into nothing, but into possibility. For a moment, Alex could see the ghost of what it might become—a thousand different forms, a thousand different futures. Then even that faded, and there was nothing on the table but empty space.
+The crystal didn't shatter. It didn't crumble. It simply... faded. Not into nothing, but into possibility. For a moment, Alex could see the ghost of what it might become,a thousand different forms, a thousand different futures. Then even that faded, and there was nothing on the table but empty space.
 
-"Holy�? Jordan breathed from the corner.
+"Holy..." Jordan breathed from the corner.
 
-*Good,* The Oracle said. *You understand the difference between ending and destroying. But be warned, Alex Mercer. Unmaking is seductive. It feels like power—the power to erase mistakes, to undo harm, to return to a time before things went wrong. But that power is an illusion.*
+*Good,* The Oracle said. *You understand the difference between ending and destroying. But be warned, Alex Mercer. Unmaking is seductive. It feels like power,the power to erase mistakes, to undo harm, to return to a time before things went wrong. But that power is an illusion.*
 
 "What do you mean?"
 
@@ -38,19 +38,19 @@ The crystal didn't shatter. It didn't crumble. It simply... faded. Not into noth
 
 Alex nodded slowly. "What's next?"
 
-*Now you must learn to combine the aspects. Naming, Shaping, Unmaking—these are not separate skills. They are facets of the same power. A true speaker of the First Language uses all three in harmony, creating and transforming and releasing in a single breath.*
+*Now you must learn to combine the aspects. Naming, Shaping, Unmaking,these are not separate skills. They are facets of the same power. A true speaker of the First Language uses all three in harmony, creating and transforming and releasing in a single breath.*
 
 "Show me."
 
 *Look at your friend Jordan. What do you see?*
 
-Alex turned to look at Jordan, who shifted uncomfortably. "I see... a person. A friend. Someone who�?
+Alex turned to look at Jordan, who shifted uncomfortably. "I see... a person. A friend. Someone who..."
 
 *Deeper. Look with the First Language.*
 
 Alex let their awareness expand, reaching toward Jordan with that deeper sense. And what they saw made them gasp.
 
-Jordan was a woven pattern of words. Every experience, every memory, every relationship was woven from language. The words they had spoken, the words they had heard, the words they had read—all of it was written into their being. And at the core of that pattern was a single word, glowing with truth:
+Jordan was a woven pattern of words. Every experience, every memory, every relationship was woven from language. The words they had spoken, the words they had heard, the words they had read,all of it was written into their being. And at the core of that pattern was a single word, glowing with truth:
 
 *Witness.*
 
@@ -58,7 +58,7 @@ Jordan was a woven pattern of words. Every experience, every memory, every relat
 
 Jordan stared at them. "What does that mean?"
 
-*It means that your purpose is to see and to remember. You are not meant to change things—you are meant to witness them. That is your truth, written in the First Language.*
+*It means that your purpose is to see and to remember. You are not meant to change things,you are meant to witness them. That is your truth, written in the First Language.*
 
 "Can I... can I change it?" Jordan asked, their voice small.
 
@@ -66,7 +66,7 @@ Jordan stared at them. "What does that mean?"
 
 Alex looked at Jordan with new understanding. "That's why you became a journalist. That's why you document everything. You've always known, somewhere inside, that your purpose is to bear witness."
 
-Jordan was silent for a long moment. Then they laughed—a sound that was half relief, half wonder. "I always thought I was just nosy. But this... this makes sense. This feels right."
+Jordan was silent for a long moment. Then they laughed,a sound that was half relief, half wonder. "I always thought I was just nosy. But this... this makes sense. This feels right."
 
 *The First Language does not create truth. It reveals it. Jordan has always been a Witness. Now they know it.*
 
@@ -76,7 +76,7 @@ Alex turned back to the empty space where the crystal had been. "I'm starting to
 
 "Elena."
 
-*Among others. She seeks to control, not to understand. And there are others who seek even less noble ends. The Collectors believe the First Language belongs to them—that it is their right to possess it. They do not understand that the language cannot be owned. It can only be spoken.*
+*Among others. She seeks to control, not to understand. And there are others who seek even less noble ends. The Collectors believe the First Language belongs to them,that it is their right to possess it. They do not understand that the language cannot be owned. It can only be spoken.*
 
 Alex's phone buzzed. A message from their sister Sophie:
 

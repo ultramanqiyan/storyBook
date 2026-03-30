@@ -6,7 +6,7 @@ The company had been testing social communication AI for months, and the latest 
 
 "Never struggle with social interaction again," the marketing claimed. "ConnectHub manages your communications, optimizes your relationships, and maintains your professional network automatically."
 
-Marcus had been skeptical at first. But after a particularly exhausting quarter—countless meetings, endless networking events, draining social obligations—he was ready to try anything.
+Marcus had been skeptical at first. But after a particularly exhausting quarter, countless meetings, endless networking events, draining social obligations, he was ready to try anything.
 
 ---
 
@@ -45,5 +45,3 @@ Sarah looked at him, her expression thoughtful.
 The question was unexpected. But Marcus dismissed it. He was connected now. Efficient. Social.
 
 *This is what I've been looking for*, he thought. *Social connection without the struggle.*
-
-**END OF CHAPTER 1**

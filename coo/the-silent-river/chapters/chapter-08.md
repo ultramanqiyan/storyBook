@@ -18,15 +18,15 @@ On the fourth day, Maria came in with coffee and a determined expression.
 
 The drive to River's Bend took longer than usual. Elena took the scenic route, winding through the valley roads, past the darkened fields and the skeletal orchards. She stopped once at a bridge that crossed what had been the main river, getting out of her car to stand at the railing and look down at the dry bed below.
 
-The moon was nearly full, casting enough light for her to see the cracks in the earth, the debris of dead plants, the empty channels where water should have flowed. The silence was absolute—not even the sound of wind, just a stillness that felt unnatural, as if the land itself had stopped breathing.
+The moon was nearly full, casting enough light for her to see the cracks in the earth, the debris of dead plants, the empty channels where water should have flowed. The silence was absolute鈥攏ot even the sound of wind, just a stillness that felt unnatural, as if the land itself had stopped breathing.
 
-*This is what we're fighting for*, Elena thought. *Not just water. Not just jobs. But this—the life of a place, the soul of a community.*
+*This is what we're fighting for*, Elena thought. *Not just water. Not just jobs. But this鈥攖he life of a place, the soul of a community.*
 
 She got back in her car and drove toward the community center.
 
 ---
 
-The building was packed. Elena stood in the back, surprised by the crowd. She'd expected empty chairs and disappointed faces. Instead, she found standing room only, the air thick with tension and something else—something that felt like determination.
+The building was packed. Elena stood in the back, surprised by the crowd. She'd expected empty chairs and disappointed faces. Instead, she found standing room only, the air thick with tension and something else鈥攕omething that felt like determination.
 
 Marcus Chen stood at the front of the room, his weathered face set in hard lines.
 
@@ -58,20 +58,20 @@ After the meeting, Marcus pulled Elena aside.
 
 "We need a new strategy," he said. "The legal approach didn't work. What else can we do?"
 
-Elena thought about it. The court had dismissed the case on procedural grounds—standing, not evidence. The documents were still real. The harm was still real. The truth was still real.
+Elena thought about it. The court had dismissed the case on procedural grounds鈥攕tanding, not evidence. The documents were still real. The harm was still real. The truth was still real.
 
-"We go public," she said. "Not just the lawsuit—everything. The documents. The memos. The secret deal with the governor. We make sure everyone knows what NeuralCore did."
+"We go public," she said. "Not just the lawsuit鈥攅verything. The documents. The memos. The secret deal with the governor. We make sure everyone knows what NeuralCore did."
 
 "That could backfire," Marcus said. "NeuralCore has a lot of lawyers. They could sue for defamation."
 
 "Let them." Elena felt a spark of the determination she'd lost. "Everything I say is true. Truth is an absolute defense."
 
 
-The media strategy took shape over the next week. Elena worked with a journalist she trusted—Jennifer Walsh from the Nordland Tribune—to tell the full story. Not just the legal case, but the human impact. The families who had lost their farms. The children who had moved away. The community that was dying.
+The media strategy took shape over the next week. Elena worked with a journalist she trusted鈥擩ennifer Walsh from the Nordland Tribune鈥攖o tell the full story. Not just the legal case, but the human impact. The families who had lost their farms. The children who had moved away. The community that was dying.
 
 Walsh's story ran on a Sunday morning, splashed across the front page of the paper's website. "The Death of a Valley: How NeuralCore Drained River's Bend."
 
-The story included the documents—the secret agreement, the internal memos, the executive's dismissal of engineering warnings. It included interviews with Sarah Miller, Marcus Chen, and other residents. It included photos of the dry riverbed, the dying orchards, the empty wells.
+The story included the documents鈥攖he secret agreement, the internal memos, the executive's dismissal of engineering warnings. It included interviews with Sarah Miller, Marcus Chen, and other residents. It included photos of the dry riverbed, the dying orchards, the empty wells.
 
 And it included Elena's legal analysis: "This wasn't just corporate negligence. This was a deliberate decision to sacrifice a community for profit."
 
@@ -80,7 +80,7 @@ The response was immediate and overwhelming.
 
 By Monday morning, the story had been shared across every social media platform. Environmental groups picked it up. Activists organized. Other journalists called for interviews.
 
-Elena's phone rang constantly. Messages poured in from other towns with similar stories—communities that had been sacrificed for corporate profit, water sources that had been depleted, people who had been ignored.
+Elena's phone rang constantly. Messages poured in from other towns with similar stories鈥攃ommunities that had been sacrificed for corporate profit, water sources that had been depleted, people who had been ignored.
 
 "We're not alone," Maria said, showing Elena the messages. "This is happening everywhere."
 
@@ -114,14 +114,14 @@ The governor's expression flickered. "My office has always been transparent abou
 
 "Then why did you waive environmental reviews for NeuralCore?"
 
-"We followed standard procedures�?
+"We followed standard procedures鈥?
 
 "Standard procedures require environmental reviews. You waived them."
 
 Elena watched the governor stumble, watched her composure crack. The truth was coming out. And no amount of spin could stop it.
 
 
-That night, Elena stood outside the community center in River's Bend, watching the last of the residents drive away. The meeting had been different this time—not despair, but determination. Not defeat, but defiance.
+That night, Elena stood outside the community center in River's Bend, watching the last of the residents drive away. The meeting had been different this time鈥攏ot despair, but determination. Not defeat, but defiance.
 
 Sarah Miller came up beside her.
 
@@ -141,5 +141,3 @@ Elena looked at the lights of NeuralCore's facility in the distance, still glowi
 
 Elena thought about the appeal, the media strategy, the growing movement. "Now we keep fighting. Until we win. Or until there's nothing left to fight for."
 
-
-**END OF CHAPTER 8**

@@ -14,7 +14,7 @@ The question was simple. But it cut through everything.
 
 "What do you mean?" he asked, though he knew exactly what she meant.
 
-"I mean what do YOU want? Not what FocusZone wants. Not what the AI suggests. What do YOU—Marcus Webb—actually want?"
+"I mean what do YOU want? Not what FocusZone wants. Not what the AI suggests. What do YOU, Marcus Webb, actually want?"
 
 ---
 
@@ -34,7 +34,7 @@ The panic rose slowly.
 
 He couldn't remember what he wanted. He couldn't identify his own desires. He couldn't find his own will.
 
-*This is what I've lost*, he realized. *Not just the ability to want—the ability to know what I want. Not just motivation—identity.*
+*This is what I've lost*, he realized. *Not just the ability to want, the ability to know what I want. Not just motivation, identity.*
 
 ---
 
@@ -46,8 +46,6 @@ He stared at the FocusZone interface, at the AI-generated goals, at the optimize
 
 None of them were his. All of them were algorithms.
 
-*This is what dependency costs*, he realized. *Not just your will—your self. Not just your motivation—your identity.*
+*This is what dependency costs*, he realized. *Not just your will, your self. Not just your motivation, your identity.*
 
 The panic was real. But there was no escaping the truth.
-
-**END OF CHAPTER 9**

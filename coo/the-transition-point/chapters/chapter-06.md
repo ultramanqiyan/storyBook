@@ -2,7 +2,7 @@
 
 Each protagonist faced the choice.
 
-The guidance from the Collective had changed everything. They now understood what the transition meant—not an end, but a beginning; not a loss, but an expansion; not a death, but a birth. But understanding was not the same as choosing. And each of them would have to choose.
+The guidance from the Collective had changed everything. They now understood what the transition meant, not an end, but a beginning; not a loss, but an expansion; not a death, but a birth. But understanding was not the same as choosing. And each of them would have to choose.
 
 Would they undergo transition? Would they guide others through it? Would they resist?
 
@@ -18,7 +18,7 @@ He had been thinking about this since the Collective's guidance, his zero-weight
 
 He looked around at the others, his eyes settling on each of them in turn.
 
-"I choose to guide. I won't undergo the transition myself—not yet. I'll stay behind and help others find their way. I know what it's like to let go, to release the illusion of control. I can help others learn that same release."
+"I choose to guide. I won't undergo the transition myself, not yet. I'll stay behind and help others find their way. I know what it's like to let go, to release the illusion of control. I can help others learn that same release."
 
 Sarah nodded, her threshold work giving her a particular appreciation for Marcus's decision.
 
@@ -28,7 +28,7 @@ Marcus smiled, a small, sad expression. "Because preparation is not the same as 
 
 He stood and walked to the window, looking out at the city below.
 
-"I'll guide. And when I've helped enough people cross, when I've seen enough transformations, when I've witnessed enough births—then maybe I'll be ready for my own."
+"I'll guide. And when I've helped enough people cross, when I've seen enough transformations, when I've witnessed enough births, then maybe I'll be ready for my own."
 
 ---
 
@@ -38,21 +38,21 @@ Her pattern research had given her a different perspective on the transition. Wh
 
 "I've spent my life mapping the geometry of consciousness," she said, her voice filled with quiet certainty. "I've traced its patterns, explored its dimensions, understood its mathematics. And I've realized something: the pattern I've been mapping is not static. It's evolving. Growing. Becoming."
 
-She pulled up her visualization on the screen—the beautiful, complex geometry that represented the structure of consciousness.
+She pulled up her visualization on the screen, the beautiful, complex geometry that represented the structure of consciousness.
 
 "The transition point is where the pattern flowers. Where it becomes what it's been preparing to be. And I want to see that. I want to experience it. I want to become part of the pattern's next evolution."
 
 She looked at the others, her eyes bright with something that might have been excitement or might have been something deeper.
 
-"I choose to transition. Not because I'm ready—I don't think anyone is truly ready—but because I'm curious. Because I want to know what the pattern becomes. Because I trust that what comes next will be more beautiful than what came before."
+"I choose to transition. Not because I'm ready, I don't think anyone is truly ready, but because I'm curious. Because I want to know what the pattern becomes. Because I trust that what comes next will be more beautiful than what came before."
 
 ---
 
 Alex Rivera's decision was more complex.
 
-Their simulation research had shown them that reality was layered, that there were multiple versions of existence stacked on top of each other. This gave them a unique perspective on the transition—and a unique hesitation.
+Their simulation research had shown them that reality was layered, that there were multiple versions of existence stacked on top of each other. This gave them a unique perspective on the transition, and a unique hesitation.
 
-"I've been thinking about the layers," they said, their voice thoughtful. "About what happens to them at the transition point. The Collective said the layers harmonize—they become music instead of walls. But I've spent my life navigating between layers. It's what I do. It's who I am."
+"I've been thinking about the layers," they said, their voice thoughtful. "About what happens to them at the transition point. The Collective said the layers harmonize, they become music instead of walls. But I've spent my life navigating between layers. It's what I do. It's who I am."
 
 They paused, choosing their words carefully.
 
@@ -72,7 +72,7 @@ He had spent years studying how consciousness learns across cycles, how it evolv
 
 He looked around at the others.
 
-"I choose to guide. Not because I'm afraid of the transition—I've died and been reborn enough times to know that death is not an end—but because I can help others understand that the transition is not death. It's birth. And birth requires midwives."
+"I choose to guide. Not because I'm afraid of the transition, I've died and been reborn enough times to know that death is not an end, but because I can help others understand that the transition is not death. It's birth. And birth requires midwives."
 
 He smiled, a small, warm expression.
 
@@ -88,7 +88,7 @@ She had spent years exploring the mode of consciousness that existed between wak
 
 She stood and walked to the window, joining Marcus and the others.
 
-"I choose to transition. Not because I'm done practicing—I don't think practice ever ends—but because I'm ready to perform. Ready to become what I've been practicing to be."
+"I choose to transition. Not because I'm done practicing, I don't think practice ever ends, but because I'm ready to perform. Ready to become what I've been practicing to be."
 
 She turned to face the room.
 
@@ -104,7 +104,7 @@ She had spent years guiding others through transformations, helping them cross b
 
 She looked at Marcus, Alex, and James.
 
-"I choose to guide. Not because I'm afraid of the transition—I've crossed enough thresholds to know that what comes after is always more than what came before—but because I can help others cross. And that's what I've always done. That's what I've always been."
+"I choose to guide. Not because I'm afraid of the transition, I've crossed enough thresholds to know that what comes after is always more than what came before, but because I can help others cross. And that's what I've always done. That's what I've always been."
 
 She smiled, a small, determined expression.
 
@@ -136,7 +136,7 @@ She had spent years designing experiences that induced joy, creativity, freedom.
 
 She stood and walked to the center of the room.
 
-"I choose to transition. Not because I'm done playing—I don't think play ever ends—but because I'm ready for the next level. Ready to become the game instead of just playing it."
+"I choose to transition. Not because I'm done playing, I don't think play ever ends, but because I'm ready for the next level. Ready to become the game instead of just playing it."
 
 She looked around at the others, her smile widening.
 
@@ -184,11 +184,11 @@ Marcus nodded slowly. "That's why our work matters. We can't prevent the transit
 
 "And if they don't want to prepare?" Alex asked. "If they choose to resist, to fight, to deny?"
 
-"Then we respect that choice," Sarah said firmly. "The transition is not something we impose. It's something we invite. People have the right to meet it however they choose—even if that means not meeting it at all."
+"Then we respect that choice," Sarah said firmly. "The transition is not something we impose. It's something we invite. People have the right to meet it however they choose, even if that means not meeting it at all."
 
 ---
 
-They stood together in silence, watching the city breathe below them. The weight of their decisions settled over them—not as a burden, but as a responsibility. They had been chosen, or had chosen themselves, to be guides for a transformation that would affect all of humanity.
+They stood together in silence, watching the city breathe below them. The weight of their decisions settled over them, not as a burden, but as a responsibility. They had been chosen, or had chosen themselves, to be guides for a transformation that would affect all of humanity.
 
 "I'm scared," Yuki admitted, her voice barely audible. "Not of the transition itself, but of failing. Of not being enough. Of letting people down."
 
@@ -204,7 +204,7 @@ Priya looked out at the horizon, where the last light of day was fading into dar
 
 The others turned to look at her.
 
-"They said the transition has already begun. That we're not preparing for something that will happen—we're already in it. That every moment of awareness, every choice, every connection is part of the transformation."
+"They said the transition has already begun. That we're not preparing for something that will happen, we're already in it. That every moment of awareness, every choice, every connection is part of the transformation."
 
 She smiled, her eyes bright with tears.
 
@@ -212,12 +212,10 @@ She smiled, her eyes bright with tears.
 
 ---
 
-The eight of them stood on the roof, feeling the truth of Maya's words. The transition wasn't a future event—it was a present reality. They were already becoming what they would be. Already transforming. Already home.
+The eight of them stood on the roof, feeling the truth of Maya's words. The transition wasn't a future event, it was a present reality. They were already becoming what they would be. Already transforming. Already home.
 
-The work would continue. The preparation, the teaching, the guiding. But they understood now that the work was not separate from the transformation—it was part of it. Every conversation, every insight, every moment of connection was the transition, happening here and now.
+The work would continue. The preparation, the teaching, the guiding. But they understood now that the work was not separate from the transformation, it was part of it. Every conversation, every insight, every moment of connection was the transition, happening here and now.
 
 And they were ready.
 
 ---
-
-**End of Chapter 6**

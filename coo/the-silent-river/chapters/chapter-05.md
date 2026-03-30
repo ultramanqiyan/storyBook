@@ -1,6 +1,6 @@
 # Chapter 5: The Hidden Truth
 
-The Freedom of Information Act request had taken six weeks to process. Six weeks of waiting, of follow-up calls, of being transferred from one bureaucratic voicemail to another. Elena had almost forgotten about it when the envelope arrived—thick, official, stamped with the seal of the Nordland Department of Natural Resources.
+The Freedom of Information Act request had taken six weeks to process. Six weeks of waiting, of follow-up calls, of being transferred from one bureaucratic voicemail to another. Elena had almost forgotten about it when the envelope arrived, thick, official, stamped with the seal of the Nordland Department of Natural Resources.
 
 She opened it with her coffee still steaming on her desk, not expecting much. Most FOIA requests yielded heavily redacted documents with more black than text. But as she pulled the the pages from the envelope, she saw something different.
 
@@ -12,15 +12,15 @@ They contained everything.
 
 ---
 
-The agreement was dated from three years ago, signed by representatives of NeuralCore Technologies and the Nordland Department of Natural Resources. On the surface, it was a standard economic development contract—tax incentives, infrastructure support, streamlined permitting.
+The agreement was dated from three years ago, signed by representatives of NeuralCore Technologies and the Nordland Department of Natural Resources. On the surface, it was a standard economic development contract, tax incentives, infrastructure support, streamlined permitting.
 
 But buried in the appendices, in dense legal language that most people would never read, was the real deal.
 
-In exchange for NeuralCore's investment in the state, the company would receive free AI computing services worth an estimated forty million dollars annually. The water extraction permits would be fast-tracked. Environmental reviews would be waived. And NeuralCore would have access to the secondary aquifer—the deep water reservoir that the company had discovered through exploratory drilling.
+In exchange for NeuralCore's investment in the state, the company would receive free AI computing services worth an estimated forty million dollars annually. The water extraction permits would be fast-tracked. Environmental reviews would be waived. And NeuralCore would have access to the secondary aquifer, the deep water reservoir that the company had discovered through exploratory drilling.
 
 The aquifer had never been mapped. It had never been studied. It had never been accounted for in any environmental assessment. And NeuralCore had known about it before they even broke ground on the facility.
 
-They had drilled test wells and found the deep water. Then they had built their entire operation around extracting it—secretly, without permits, without oversight.
+They had drilled test wells and found the deep water. Then they had built their entire operation around extracting it, secretly, without permits, without oversight.
 
 The documents showed internal memos discussing the "unconventional water sources," "deep aquifer access," and "confidential extraction protocols." Engineers had raised concerns about the impact on surface water. Executives had dismissed them.
 
@@ -58,7 +58,7 @@ Marcus stared at the name. His face went pale. "Governor Chen."
 Elena nodded. "This isn't just corporate greed. This is government corruption. And we have it in writing."
 
 
-They sat in silence for a long moment. The diner hummed around them with the noise of ordinary life—people ordering breakfast, talking about weather and sports and the small concerns that filled ordinary days. None of them knew what was sitting on the table in front of Elena and Marcus.
+They sat in silence for a long moment. The diner hummed around them with the noise of ordinary life, people ordering breakfast, talking about weather and sports and the small concerns that filled ordinary days. None of them knew what was sitting on the table in front of Elena and Marcus.
 
 "What do we do with this?" Marcus finally asked.
 
@@ -79,9 +79,9 @@ Elena met his eyes. "I know. But what's the alternative? Stay quiet while the ri
 "No." Marcus straightened. "You're right. We fight."
 
 
-Elena spent the next two days preparing the amended complaint. It was the most important document she'd ever written—not just legally, but morally. This wasn't about winning a case. This was about telling the truth.
+Elena spent the next two days preparing the amended complaint. It was the most important document she'd ever written, not just legally, but morally. This wasn't about winning a case. This was about telling the truth.
 
-She added the governor's office as a defendant. She added the Department of Natural Resources. She attached copies of the agreement, the memos, the the signatures. She cited the specific laws that had been violated—environmental protection statutes, open government requirements, public trust doctrines.
+She added the governor's office as a defendant. She added the Department of Natural Resources. She attached copies of the agreement, the memos, the the signatures. She cited the specific laws that had been violated, environmental protection statutes, open government requirements, public trust doctrines.
 
 When she finished, the complaint was forty-seven pages long. It detailed a conspiracy between NeuralCore and state officials to defraud the public of natural resources. It asked for an immediate injunction, criminal investigation, and damages for every resident of River's Bend.
 
@@ -136,7 +136,7 @@ Chen paused at the door. "You're making a mistake."
 
 "Maybe. But it's my mistake to make."
 
-After he left, Elena sat at her desk, shaking. The offer had been tempting—settlement would be easier, safer, guaranteed. Her clients would get something. She would avoid the years of stress and struggle.
+After he left, Elena sat at her desk, shaking. The offer had been tempting, settlement would be easier, safer, guaranteed. Her clients would get something. She would avoid the years of stress and struggle.
 
 But she would also let them get away with it. NeuralCore would keep operating. The governor would keep her career. And somewhere down the line, another community would face the same crisis.
 
@@ -144,5 +144,3 @@ Elena picked up her phone and called Marcus.
 
 "Wednesday," she said. "Be ready. This is when it starts."
 
-
-**END OF CHAPTER 5**

@@ -10,13 +10,13 @@ She reached for her coffee mug, found it cold, and drank anyway. The bitter liqu
 
 The neural signatures of consciousness were well-established. Waking state: high-frequency, desynchronized activity across the cortex. Dreaming state: theta waves, REM patterns, the characteristic signature of sleep's active phase. These were textbook. First-year neuroscience students could identify them in their sleep, if the irony could be pardoned.
 
-But this—this was something else entirely.
+But this, this was something else entirely.
 
 She pulled up Subject 17's data from last week's meditation study. The subject, an experienced practitioner with fifteen years of daily practice, had been in deep meditation for forty minutes. The first thirty minutes showed the expected patterns: slowing alpha waves, increased coherence, the familiar signature of focused attention. Nothing surprising. Nothing that would make a researcher pause.
 
 Then, at minute thirty-one, everything changed.
 
-The neural activity didn't slow further. It didn't speed up. Instead, it synchronized in a way Amara had never seen—a coherent low-frequency oscillation that rippled across every brain region simultaneously. Not the scattered patterns of waking, not the localized activity of dreaming. Something unified. Whole.
+The neural activity didn't slow further. It didn't speed up. Instead, it synchronized in a way Amara had never seen, a coherent low-frequency oscillation that rippled across every brain region simultaneously. Not the scattered patterns of waking, not the localized activity of dreaming. Something unified. Whole.
 
 "Like the entire brain became a single instrument," she murmured, tracing the pattern on her screen with her finger.
 
@@ -46,7 +46,7 @@ She sat back down, pulled up the raw data again. Ran another analysis. The patte
 
 The subjects had all reported unusual experiences. Subject 17 had described "a state beyond waking and sleeping." Subject 23 had said, "I was nowhere and everywhere at once." Subject 8's notes simply read: "Cannot describe. Words inadequate."
 
-Amara had read these reports and filed them away as subjective experience—interesting, but not her domain. She measured brains, not feelings. She tracked neurons, not ineffable states. The subjective reports were for the psychologists, the philosophers, the people who dealt in words rather than numbers.
+Amara had read these reports and filed them away as subjective experience, interesting, but not her domain. She measured brains, not feelings. She tracked neurons, not ineffable states. The subjective reports were for the psychologists, the philosophers, the people who dealt in words rather than numbers.
 
 But now the measurements and the feelings were converging. The objective data pointed toward something the subjects had been trying to describe all along. The numbers and the words were telling the same story from different angles.
 
@@ -59,7 +59,7 @@ She created a new folder on her desktop: "Third State Research." Moved the four 
 *- Transitions: gradual onset, gradual offset*
 *- Subjective correlates: "beyond waking and sleeping," "non-dual awareness"*
 
-She paused, fingers hovering over the keyboard. The scientific part of her brain wanted to dismiss this, to find the flaw in her methodology, the error that would make everything make sense again. But another part—the part that had driven her into consciousness research in the first place, the part that remembered why she'd spent fifteen years studying the most elusive phenomenon in the universe—felt a quiet thrill.
+She paused, fingers hovering over the keyboard. The scientific part of her brain wanted to dismiss this, to find the flaw in her methodology, the error that would make everything make sense again. But another part, the part that had driven her into consciousness research in the first place, the part that remembered why she'd spent fifteen years studying the most elusive phenomenon in the universe, felt a quiet thrill.
 
 What if this was real? What if consciousness had a third state, as distinct from waking and dreaming as they were from each other? What would that mean for everything they thought they knew about the mind?
 
@@ -72,11 +72,11 @@ The questions multiplied, each one spawning more. She typed faster, capturing th
 *- What are the functional correlates?*
 *- How does this relate to other anomalous consciousness states?*
 
-The last question reminded her of the Emergence Institute's broader research. The consciousness field theory from the early days. The causal network work that had shown consciousness could affect probability. The simulation hypothesis studies that suggested reality itself might be more malleable than physics assumed. All of it pointing toward something strange about consciousness—something that didn't fit the standard models.
+The last question reminded her of the Emergence Institute's broader research. The consciousness field theory from the early days. The causal network work that had shown consciousness could affect probability. The simulation hypothesis studies that suggested reality itself might be more malleable than physics assumed. All of it pointing toward something strange about consciousness, something that didn't fit the standard models.
 
 Maybe this was another piece of the same puzzle.
 
-She saved her notes, backed up the data to three different locations, and finally allowed herself to step away from the desk. The lab felt different now, charged with possibility. The same equipment, the same monitors, the same stale air—but everything had shifted. The familiar had become strange, and the strange had become familiar.
+She saved her notes, backed up the data to three different locations, and finally allowed herself to step away from the desk. The lab felt different now, charged with possibility. The same equipment, the same monitors, the same stale air, but everything had shifted. The familiar had become strange, and the strange had become familiar.
 
 Outside, the rain had stopped. The first hint of dawn lightened the eastern sky. Amara watched the city wake up through the window, millions of minds stirring from sleep, transitioning from dreaming to waking. The great daily migration of consciousness, moving from one state to another.
 
@@ -88,7 +88,7 @@ She composed a message, deleted it, composed another, deleted that too. What cou
 
 Finally, she typed: *I found something in the neural data. A pattern I can't explain. Can we talk?*
 
-She hit send before she could second-guess herself, then watched the screen. No response. Of course not—it was nearly five in the morning. He was probably meditating. Or sleeping. Or doing whatever meditation masters did at this hour.
+She hit send before she could second-guess herself, then watched the screen. No response. Of course not, it was nearly five in the morning. He was probably meditating. Or sleeping. Or doing whatever meditation masters did at this hour.
 
 Her phone buzzed.
 
@@ -102,12 +102,10 @@ She looked back at her screen, at the signature that shouldn't exist. The patter
 
 The monitors hummed in response, blue light filling the lab. Outside, the sun rose over New Avalon, casting long shadows through the windows. Another day beginning. Another transition from darkness to light.
 
-But Amara had a feeling she was standing at the edge of a different kind of transition entirely. One that wouldn't be measured in hours or days, but in something else—something the data was trying to show her, if she could only learn to read it.
+But Amara had a feeling she was standing at the edge of a different kind of transition entirely. One that wouldn't be measured in hours or days, but in something else, something the data was trying to show her, if she could only learn to read it.
 
 She saved her work one more time, gathered her things, and headed home to shower and change. This afternoon, she would visit Dr. Chen. This afternoon, she would start finding answers.
 
 But first, she needed to formulate the right questions.
 
 ---
-
-**End of Chapter 1**

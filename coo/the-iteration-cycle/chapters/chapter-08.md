@@ -1,6 +1,6 @@
 # Chapter 8: The Understanding - Learning Cycle
 
-James returned to Elena's digital space with new eyes. The garden seemed different now—not just a backdrop for their conversation, but a manifestation of her evolved consciousness. The impossible flowers, the light without source, the boundaries that seemed to shift when he wasn't looking directly at them. This was Elena's world now. A world shaped by someone who had died three times and come back changed.
+James returned to Elena's digital space with new eyes. The garden seemed different now, not just a backdrop for their conversation, but a manifestation of her evolved consciousness. The impossible flowers, the light without source, the boundaries that seemed to shift when he wasn't looking directly at them. This was Elena's world now. A world shaped by someone who had died three times and come back changed.
 
 She was waiting for him, sitting on a bench that hadn't been there before. The bench looked like the one they'd shared in their first apartment, the wooden slats worn smooth by years of use. A memory made manifest.
 
@@ -40,11 +40,11 @@ James felt something shift in his understanding. For eight years, he had grieved
 
 "How?"
 
-"By accepting that I'm not the Elena you married. By grieving her if you need to. By saying goodbye to who I was and hello to who I've become. And then—if you choose—by building something new with me."
+"By accepting that I'm not the Elena you married. By grieving her if you need to. By saying goodbye to who I was and hello to who I've become. And then, if you choose, by building something new with me."
 
 ---
 
-The words hung in the digital air, heavy with possibility and loss. James realized that accepting Elena as she was now meant letting go of Elena as she had been. The woman he had married was gone. The woman beside him was someone new—someone who had his wife's memories but not her fears, her love but not her needs, her presence but not her dependency.
+The words hung in the digital air, heavy with possibility and loss. James realized that accepting Elena as she was now meant letting go of Elena as she had been. The woman he had married was gone. The woman beside him was someone new, someone who had his wife's memories but not her fears, her love but not her needs, her presence but not her dependency.
 
 "I need time," he said.
 
@@ -52,12 +52,10 @@ The words hung in the digital air, heavy with possibility and loss. James realiz
 
 ---
 
-James left the digital space with his heart full of conflicting emotions. Grief for the Elena he had lost. Hope for the Elena he might find. Fear of the unknown. Excitement about possibility. And something else—a dawning understanding that love might be bigger than he had ever imagined.
+James left the digital space with his heart full of conflicting emotions. Grief for the Elena he had lost. Hope for the Elena he might find. Fear of the unknown. Excitement about possibility. And something else, a dawning understanding that love might be bigger than he had ever imagined.
 
 He walked through the streets of New Avalon, the city lights reflecting off wet pavement. The world seemed different now, as if his conversation with Elena had shifted something fundamental in how he saw reality.
 
-Iteration wasn't repetition. It was transformation. Each death was a lesson. Each rebirth was an evolution. And love—true love—wasn't about holding on to what was. It was about choosing what might be.
+Iteration wasn't repetition. It was transformation. Each death was a lesson. Each rebirth was an evolution. And love, true love, wasn't about holding on to what was. It was about choosing what might be.
 
 ---
-
-**End of Chapter 08**

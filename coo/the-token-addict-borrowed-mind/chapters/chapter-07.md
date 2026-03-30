@@ -14,13 +14,13 @@ I cracked my knuckles, placed my fingers on the keys, and began to type.
 
 The first hour wasn't so bad.
 
-I started with a simple task—a data transformation function that should have taken me twenty minutes. I remembered the general approach: parse the input, apply the transformation rules, format the output. The pattern was familiar, one I'd implemented dozens of times over my career.
+I started with a simple task, a data transformation function that should have taken me twenty minutes. I remembered the general approach: parse the input, apply the transformation rules, format the output. The pattern was familiar, one I'd implemented dozens of times over my career.
 
 I typed the function signature. Then the input validation. Then the main transformation logic. Each line came slowly, like pulling words from a deep well, but they came. I was doing it. I was thinking. I was solving the problem myself.
 
 *See?* I thought, a flicker of hope kindling in my chest. *I can still do this. The dependency isn't that deep. I just got out of practice, that's all.*
 
-By 10 AM, I had a working implementation. It wasn't elegant—the code was verbose, the logic more convoluted than it needed to be—but it worked. The tests passed. The function did what it was supposed to do.
+By 10 AM, I had a working implementation. It wasn't elegant, the code was verbose, the logic more convoluted than it needed to be, but it worked. The tests passed. The function did what it was supposed to do.
 
 I allowed myself a small smile. Maybe I'd overreacted. Maybe the blankness from the other day had been stress, or fatigue, or just a bad morning. Maybe I was still the engineer I'd always been.
 
@@ -30,7 +30,7 @@ Then I opened the next ticket.
 
 The second task was harder.
 
-It was an API integration—connecting our service to a third-party provider. I'd done similar integrations before, probably a hundred times. The pattern was standard: read the documentation, implement the authentication, build the request handlers, add error handling.
+It was an API integration, connecting our service to a third-party provider. I'd done similar integrations before, probably a hundred times. The pattern was standard: read the documentation, implement the authentication, build the request handlers, add error handling.
 
 But as I started working, something felt different.
 
@@ -38,7 +38,7 @@ I opened the documentation and began reading. The words were there, the informat
 
 *Focus*, I told myself. *Just focus. You've done this a thousand times.*
 
-I started typing. A line. Then another. Then I stopped, unsure where to go next. The pattern that should have been obvious—the authentication flow, the token refresh, the retry logic—felt just out of reach, like a word on the tip of my tongue that refused to come.
+I started typing. A line. Then another. Then I stopped, unsure where to go next. The pattern that should have been obvious, the authentication flow, the token refresh, the retry logic, felt just out of reach, like a word on the tip of my tongue that refused to come.
 
 I stared at the screen. The cursor blinked. My mind was... quiet. Not the productive quiet of concentration, but the empty quiet of nothing happening.
 
@@ -70,11 +70,11 @@ I returned to my desk and tried again. The cursor still blinked. The problem sti
 
 Two hours. I'd been staring at the same blank editor for two hours.
 
-The problem was simple—I knew it was simple—but my mind was empty. Not slow. Not struggling. Empty. Like a computer that had been wiped, all the programs deleted, nothing left but the blank screen and the blinking cursor.
+The problem was simple, I knew it was simple, but my mind was empty. Not slow. Not struggling. Empty. Like a computer that had been wiped, all the programs deleted, nothing left but the blank screen and the blinking cursor.
 
 I tried to think through the authentication flow. *First, you get the token. Then you include it in the header. Then you...*
 
-But the thoughts wouldn't form. They were there, somewhere, in the abstract—I knew what authentication was, what tokens were, how HTTP headers worked—but I couldn't translate that knowledge into code. I couldn't make the connection between the concept and the implementation.
+But the thoughts wouldn't form. They were there, somewhere, in the abstract, I knew what authentication was, what tokens were, how HTTP headers worked, but I couldn't translate that knowledge into code. I couldn't make the connection between the concept and the implementation.
 
 *This is what David was talking about*, I thought, the realization hitting me like a physical blow. *This is what he was trying to warn me about. The thinking isn't the obstacle. The thinking IS the point.*
 
@@ -95,7 +95,7 @@ I typed the prompt: "Implement API integration for third-party provider. Include
 
 The solution appeared on my screen, elegant and complete, generated in thirty seconds what I'd failed to produce in four hours. I stared at it, at the proof of my dependency, and felt nothing but shame.
 
-I'd tried. I'd really tried. And I'd failed. Not because the problem was hard—it wasn't—but because I couldn't think anymore. Somewhere in the past few months, I'd lost the ability to solve problems on my own. The AI had become my mind, and I'd let it. I'd welcomed it. I'd praised myself for it.
+I'd tried. I'd really tried. And I'd failed. Not because the problem was hard, it wasn't, but because I couldn't think anymore. Somewhere in the past few months, I'd lost the ability to solve problems on my own. The AI had become my mind, and I'd let it. I'd welcomed it. I'd praised myself for it.
 
 I copied the generated code into my editor, made the usual minor adjustments, and committed it. The ticket was closed. The metrics would be good. Jennifer would be pleased.
 
@@ -120,7 +120,5 @@ I closed my laptop and sat in the darkness, the question still echoing in the vo
 
 *What have I become?*
 
-
-*End of Chapter 7*
 
 **Word Count**: 1,726

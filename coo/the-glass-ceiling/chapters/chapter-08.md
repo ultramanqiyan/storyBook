@@ -8,7 +8,7 @@ Alex started to see clearly.
 
 Alex began investigating.
 
-Not openly—they couldn't risk Marcus finding out. But quietly, carefully, they started asking questions. They started documenting everything. They started building a case.
+Not openly, they couldn't risk Marcus finding out. But quietly, carefully, they started asking questions. They started documenting everything. They started building a case.
 
 The office felt different now. The same glass walls and modern furniture, but Alex saw them with new eyes. The "family" rhetoric that had once felt warm now felt manipulative. The "transparency" that had seemed genuine now felt like a carefully constructed illusion.
 
@@ -41,9 +41,9 @@ The words landed like a blow. Alex felt their stomach tighten, a cold weight set
 
 Alex started tracking.
 
-They couldn't access HR records—that would be impossible. But they could do something else. They scoured LinkedIn profiles, noting when former colleagues had left and where they'd gone. They had coffee with ex-coworkers, asking carefully casual questions about their departures. They paid attention to the company's public team pages, archived through the Wayback Machine, tracking changes over time.
+They couldn't access HR records, that would be impossible. But they could do something else. They scoured LinkedIn profiles, noting when former colleagues had left and where they'd gone. They had coffee with ex-coworkers, asking carefully casual questions about their departures. They paid attention to the company's public team pages, archived through the Wayback Machine, tracking changes over time.
 
-Taylor helped too, sharing what they'd observed over three years. Sarah, the senior PM who'd been there five years, provided more context—quietly, over drinks after work, away from the office.
+Taylor helped too, sharing what they'd observed over three years. Sarah, the senior PM who'd been there five years, provided more context, quietly, over drinks after work, away from the office.
 
 They compiled what they could verify:
 
@@ -55,7 +55,7 @@ They compiled what they could verify:
 
 *Every person promoted was a white man.*
 
-The pattern wasn't complete data—it couldn't be, not without HR access. But it was enough to see the shape of something wrong. They felt a mix of emotions—validation, anger, fear, determination. They weren't crazy. They weren't inadequate. They were part of a pattern.
+The pattern wasn't complete data, it couldn't be, not without HR access. But it was enough to see the shape of something wrong. They felt a mix of emotions, validation, anger, fear, determination. They weren't crazy. They weren't inadequate. They were part of a pattern.
 
 
 **THE CONFRONTATION**
@@ -82,7 +82,7 @@ The air in the room seemed to grow heavier, thicker. The fluorescent lights buzz
 
 "It's not an accusation. It's data."
 
-Marcus leaned back in his chair. His expression remained neutral, but something flickered in his eyes—something cold, calculating. "Let me explain something to you. Meritocracy isn't about equality of outcome. It's about equality of opportunity. Everyone has the same opportunity to succeed here. But not everyone has the same skills, the same drive, the same... fit."
+Marcus leaned back in his chair. His expression remained neutral, but something flickered in his eyes, something cold, calculating. "Let me explain something to you. Meritocracy isn't about equality of outcome. It's about equality of opportunity. Everyone has the same opportunity to succeed here. But not everyone has the same skills, the same drive, the same... fit."
 
 "Fit?"
 

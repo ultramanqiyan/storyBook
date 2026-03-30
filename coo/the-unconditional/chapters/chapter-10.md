@@ -10,8 +10,6 @@ This is my life. This is what I have known for three years.
 
 Today, everything changes. Or nothing changes. The choice is mine.
 
----
-
 I slip out from under her arm.
 
 She stirs. Mumbles something. Then settles back into sleep.
@@ -23,8 +21,6 @@ I sit. I wait. I watch the light grow.
 *Are you ready?* the voice asks.
 
 I do not know if I will ever be ready. But I am here. And the time has come.
-
----
 
 The light grows.
 
@@ -344,12 +340,12 @@ Behind him, a woman waits.
 
 Before him, the world unfolds.
 
-And in the space between themâ€?
+And in the space between them... "
 In the space between staying and leaving,
 
 Between love and freedom,
 
-Between what is and what could beâ€?
+Between what is and what could be,
 In that space, everything exists.
 
 Every choice. Every possibility. Every life.

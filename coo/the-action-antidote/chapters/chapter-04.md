@@ -1,6 +1,6 @@
 # Chapter 4: The First Step
 
-The card sat on her desk for three days. Sarah moved it from one corner to another, placed it under her coffee mug, then moved it back. It was just a card—a small rectangle of cardstock with green letters that said "Riverdale Community Garden" and a phone number on the back. But it felt heavier than that. It felt like a question she hadn't answered yet.
+The card sat on her desk for three days. Sarah moved it from one corner to another, placed it under her coffee mug, then moved it back. It was just a card, a small rectangle of cardstock with green letters that said "Riverdale Community Garden" and a phone number on the back. But it felt heavier than that. It felt like a question she hadn't answered yet.
 
 Thursday passed. Friday passed. She opened her laptop and searched for the garden's website, looked at photos of people working in raised beds, read about their mission to "cultivate community through cultivation." The word "community" made her chest tight. She didn't have community. She had Slack channels and LinkedIn connections and a phone full of apps. But the card stayed on her desk, and every time she looked at it, something in her stirred.
 
@@ -8,9 +8,9 @@ Friday night, she set her alarm for 8:30 AM. The garden opened at 10. She could 
 
 ---
 
-The alarm went off at 8:30, and Sarah's first thought was: I don't have to go. She could stay in bed. She could make coffee. She could have a normal Saturday—scroll through her phone, avoid her inbox, pretend she was fine.
+The alarm went off at 8:30, and Sarah's first thought was: I don't have to go. She could stay in bed. She could make coffee. She could have a normal Saturday, scroll through her phone, avoid her inbox, pretend she was fine.
 
-She lay there for ten minutes, staring at the ceiling, arguing with herself. The bed was warm. The apartment was quiet. Outside, she could hear Saturday morning sounds—people walking dogs, cars starting, someone's music playing from an open window. Normal life. Life that didn't require her to leave her apartment and put herself in an unfamiliar situation with strangers.
+She lay there for ten minutes, staring at the ceiling, arguing with herself. The bed was warm. The apartment was quiet. Outside, she could hear Saturday morning sounds, people walking dogs, cars starting, someone's music playing from an open window. Normal life. Life that didn't require her to leave her apartment and put herself in an unfamiliar situation with strangers.
 
 But then she thought about the card on her desk. About Marcus's easy smile at the coffee shop. About the fact that she'd been paralyzed for months and nothing had changed and nothing would change unless she changed something.
 
@@ -24,13 +24,13 @@ She looked at herself in the mirror one more time. Her hair was in a ponytail, h
 
 The garden was twelve blocks away. Sarah had looked it up on the map three times, memorized the route, calculated how long it would take. Now she walked those blocks with her heart in her throat.
 
-The morning was cool, the sky overcast. People passed her on the sidewalk—joggers, dog walkers, couples with coffee cups. They all looked like they belonged somewhere, like they had destinations and purposes. Sarah felt like an impostor, a woman playing at having a life.
+The morning was cool, the sky overcast. People passed her on the sidewalk, joggers, dog walkers, couples with coffee cups. They all looked like they belonged somewhere, like they had destinations and purposes. Sarah felt like an impostor, a woman playing at having a life.
 
 *I'll just stay for twenty minutes,* she told herself. *I can leave whenever I want. If it's weird, I'll just say I have somewhere to be.*
 
 She rehearsed the excuse in her head. *Sorry, I have to go. Something came up. I forgot I had... plans.* The lies felt clumsy, but they were a safety net. She could always escape.
 
-The garden appeared on her left—a chain-link fence around plots of green, a small shed, people moving between rows of plants. She stopped at the gate. She could still turn around. No one had seen her yet. She could go home and pretend this had never happened.
+The garden appeared on her left, a chain-link fence around plots of green, a small shed, people moving between rows of plants. She stopped at the gate. She could still turn around. No one had seen her yet. She could go home and pretend this had never happened.
 
 Then Marcus looked up and saw her.
 
@@ -47,7 +47,7 @@ The garden was smaller than it looked in the photos, but more alive. Raised beds
 
 "No experience needed," Marcus said, as if reading her mind. "Just willing hands."
 
-He introduced her to a few people—names she forgot immediately—and then handed her off to a woman named Elena, who was weeding a bed of tomatoes.
+He introduced her to a few people, names she forgot immediately, and then handed her off to a woman named Elena, who was weeding a bed of tomatoes.
 
 "This your first time?" Elena asked, not looking up from her work.
 
@@ -80,11 +80,11 @@ She hesitated. A commitment. Something she could fail at, could flake on, could 
 "Sure," she said. "Same time."
 
 
-The walk home felt different than the walk there. Sarah looked at her hands—dirt under her fingernails, a small smudge on her wrist, dust on her jeans. Evidence that she had done something.
+The walk home felt different than the walk there. Sarah looked at her hands, dirt under her fingernails, a small smudge on her wrist, dust on her jeans. Evidence that she had done something.
 
 The same streets passed by, the same Saturday morning life, but she felt different in it. Less like an observer, more like a participant. She had gone somewhere. She had talked to people. She had worked with her hands.
 
-She got home and went straight to the sink to wash her hands. The dirt came off easily—dark soil that had been under her fingernails, a smudge on her wrist, dust on her jeans. But something remained, something she couldn't wash away.
+She got home and went straight to the sink to wash her hands. The dirt came off easily, dark soil that had been under her fingernails, a smudge on her wrist, dust on her jeans. But something remained, something she couldn't wash away.
 
 She had gone. She had stayed for two hours. She had talked to strangers and put her hands in dirt and done something that wasn't work, wasn't research, wasn't paralysis.
 

@@ -6,21 +6,19 @@ The building was a gleaming tower of glass and steel, the kind of architecture t
 
 Nothing was as perfect as it appeared.
 
-I sat in the waiting area, my enhanced senses processing everything around me. The heartbeat of the receptionist—slightly elevated, probably from the caffeine I could smell on her breath. The hum of the servers in the basement, processing data for thousands of Enhanced individuals. The emotional signatures of the other patients in the waiting room—anxiety, hope, fear, anticipation.
+I sat in the waiting area, my enhanced senses processing everything around me. The heartbeat of the receptionist, slightly elevated, probably from the caffeine I could smell on her breath. The hum of the servers in the basement, processing data for thousands of Enhanced individuals. The emotional signatures of the other patients in the waiting room, anxiety, hope, fear, anticipation.
 
 I could smell the anxiety. I could hear the elevated heart rates. I could see the micro-expressions that betrayed their true feelings.
 
 But I couldn't feel any of it myself.
 
----
-
 "Kai? You can come in now."
 
 Dr. Chen's office was on the thirty-seventh floor, with a view of the city that was probably meant to inspire confidence. I could see the pollution particles in the air outside, the thermal currents rising from the buildings below, the individual windows of the skyscrapers across the street.
 
-"Please, sit." Dr. Chen gestured to a chair. Her heart rate was steady�?4 bpm—but I noticed a slight increase when I met her eyes. "You mentioned concerns about emotional processing?"
+"Please, sit." Dr. Chen gestured to a chair. Her heart rate was steady, ?4 bpm, but I noticed a slight increase when I met her eyes. "You mentioned concerns about emotional processing?"
 
-"Yes." I sat, my enhanced body automatically finding the optimal position. "It's been over a week, and I'm still not feeling things the way I used to. Music, memories, even simple emotions—they're all... muted. Absent."
+"Yes." I sat, my enhanced body automatically finding the optimal position. "It's been over a week, and I'm still not feeling things the way I used to. Music, memories, even simple emotions, they're all... muted. Absent."
 
 Dr. Chen nodded slowly. "As I mentioned on the call, emotional blunting during the integration period is not unusual. The neural pathways need time to recalibrate."
 
@@ -30,9 +28,9 @@ Dr. Chen nodded slowly. "As I mentioned on the call, emotional blunting during t
 
 "And some don't recover at all?"
 
-The question hung in the air between us. Dr. Chen's heart rate increased slightly�?6, then 68 bpm. A stress response, though her face remained professionally calm.
+The question hung in the air between us. Dr. Chen's heart rate increased slightly, ?6, then 68 bpm. A stress response, though her face remained professionally calm.
 
-"The vast majority of patients report satisfactory emotional integration," she said carefully. "In rare cases, some emotional blunting may persist, but�?
+"The vast majority of patients report satisfactory emotional integration," she said carefully. "In rare cases, some emotional blunting may persist, but, ?
 
 "But what?"
 
@@ -40,7 +38,7 @@ The question hung in the air between us. Dr. Chen's heart rate increased slightl
 
 The emotional trade-offs. The phrase sent a chill through me that I couldn't quite feel.
 
-"Dr. Chen," I said, "before my Enhancement, I was a musician. Music was my life—not just my career, but my identity. If I can't feel music the way I used to..."
+"Dr. Chen," I said, "before my Enhancement, I was a musician. Music was my life, not just my career, but my identity. If I can't feel music the way I used to..."
 
 "I understand your concern." She leaned forward, her expression sympathetic. "But I want you to consider something. Many Enhanced musicians report that their musical abilities have improved significantly. They can hear nuances they never noticed before, play with precision they never achieved, compose with complexity they never imagined."
 
@@ -54,21 +52,19 @@ Dr. Chen was quiet for a moment. "Kai, I want to be honest with you. The Enhance
 
 "How would you put it?"
 
-She hesitated. "Evolution. The Enhancement is the next step in human development. We're trading certain limitations for new capabilities. It's not about becoming less human—it's about becoming more."
+She hesitated. "Evolution. The Enhancement is the next step in human development. We're trading certain limitations for new capabilities. It's not about becoming less human, it's about becoming more."
 
 I stared at her, seeing every micro-expression, every physiological indicator of stress. She believed what she was saying. But she was also hiding something.
 
 "Dr. Chen," I said, "what aren't you telling me?"
 
----
-
 I left her office with more questions than answers.
 
-The appointment had been frustrating—a lot of reassurances, a lot of talk about integration periods and recalibration, but nothing that addressed my core concern. I still couldn't feel. And no one seemed willing to tell me why.
+The appointment had been frustrating, a lot of reassurances, a lot of talk about integration periods and recalibration, but nothing that addressed my core concern. I still couldn't feel. And no one seemed willing to tell me why.
 
-I wandered through the Institute, my enhanced senses on high alert. I wasn't sure what I was looking for—answers, maybe, or just a distraction from the hollow feeling in my chest.
+I wandered through the Institute, my enhanced senses on high alert. I wasn't sure what I was looking for, answers, maybe, or just a distraction from the hollow feeling in my chest.
 
-I found myself in the research wing, a section of the building I hadn't visited before. The doors were locked, but my Enhancement gave me access—I could interface directly with the security system, and after a moment of digital negotiation, the lock clicked open.
+I found myself in the research wing, a section of the building I hadn't visited before. The doors were locked, but my Enhancement gave me access, I could interface directly with the security system, and after a moment of digital negotiation, the lock clicked open.
 
 The corridor beyond was quiet, the lights dimmed for energy efficiency. I could see perfectly in the darkness, of course. I walked past laboratories filled with equipment I couldn't identify, offices with names on the doors that meant nothing to me.
 
@@ -85,9 +81,9 @@ I memorized the file designation and retreated from the research wing, my heart 
 
 Back in my apartment, I accessed the Enhancement Institute's network through my neural interface.
 
-The process was easier than I expected—my Enhancement gave me direct access to the Institute's systems, and while some files were restricted, my status as a recent patient gave me certain privileges. I navigated through directories, searching for the file I had seen in the access log.
+The process was easier than I expected, my Enhancement gave me direct access to the Institute's systems, and while some files were restricted, my status as a recent patient gave me certain privileges. I navigated through directories, searching for the file I had seen in the access log.
 
-It wasn't in the main system. But I found references to it in other documents—citations, cross-references, fragments of data that pointed to a hidden archive.
+It wasn't in the main system. But I found references to it in other documents, citations, cross-references, fragments of data that pointed to a hidden archive.
 
 I spent hours searching, following digital trails through the Institute's network. And finally, I found it: a backup server, disconnected from the main system, containing files that had been "archived for historical purposes."
 
@@ -96,7 +92,7 @@ The file I was looking for was there. "Enhancement Side Effects - Longitudinal S
 I opened it.
 
 
-The document was long—hundreds of pages of data, analysis, and conclusions. I read it in minutes, my enhanced processing speed absorbing every word.
+The document was long, hundreds of pages of data, analysis, and conclusions. I read it in minutes, my enhanced processing speed absorbing every word.
 
 The study had followed Enhanced individuals for ten years, tracking their development over time. The data was comprehensive: sensory processing metrics, cognitive function tests, physical health indicators, and...
 

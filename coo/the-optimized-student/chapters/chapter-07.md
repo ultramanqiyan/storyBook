@@ -32,19 +32,19 @@ We walked through the library, past the stacks, past the study rooms, to a door 
 
 He opened the door and led me inside.
 
-The room was small, maybe twenty feet square, but it was packed with history. Old textbooks lined the shelves, their spines cracked and faded. Student work covered the walls—essays, projects, artwork, all from before the AI era. In the corner, a collection of yearbooks stretched back decades.
+The room was small, maybe twenty feet square, but it was packed with history. Old textbooks lined the shelves, their spines cracked and faded. Student work covered the walls, essays, projects, artwork, all from before the AI era. In the corner, a collection of yearbooks stretched back decades.
 
 "What is this place?" I asked, my voice barely a whisper.
 
 "This is what education used to look like," Mr. Chen said. "Before optimization. Before efficiency. Before we forgot what learning was supposed to be."
 
-I walked through the room, my fingers trailing over the old textbooks. The pages were yellowed, the diagrams hand-drawn, the information outdated. But there was something else here too—something harder to define.
+I walked through the room, my fingers trailing over the old textbooks. The pages were yellowed, the diagrams hand-drawn, the information outdated. But there was something else here too, something harder to define.
 
 "Curiosity," Mr. Chen said, as if reading my thoughts. "That's what's missing from modern education. The system optimizes for efficiency, for outcomes, for metrics. But it doesn't optimize for wonder."
 
 ---
 
-I pulled a textbook from the shelf—a history book from 2020, before PATH-AI existed. I opened it to a random page and began to read.
+I pulled a textbook from the shelf, a history book from 2020, before PATH-AI existed. I opened it to a random page and began to read.
 
 The text was different from what I was used to. It didn't present information as facts to be absorbed; it presented information as questions to be explored. "Why did the Roman Empire fall?" the chapter asked. "What factors contributed to its decline? How might history have been different if..."
 
@@ -61,7 +61,7 @@ Mr. Chen sighed, his expression heavy. "It started with good intentions. The sys
 The words landed with devastating clarity. I was that generation. I was the perfect test-taker who couldn't actually learn.
 
 
-Mr. Chen led me to a collection of documents in the corner—internal memos, research studies, policy papers. He pulled one from the stack and handed it to me.
+Mr. Chen led me to a collection of documents in the corner, internal memos, research studies, policy papers. He pulled one from the stack and handed it to me.
 
 "This is from 2028," he said. "The year PATH-AI became standard in schools. Read the third paragraph."
 
@@ -93,7 +93,7 @@ Mr. Chen walked me to the library door as the sun was setting.
 
 "And the test? My scores? My future?"
 
-"Those are the metrics the system cares about," Mr. Chen said. "But they're not the only metrics that matter. There's another kind of success—the kind that comes from actually understanding, from genuine curiosity, from learning for the joy of learning."
+"Those are the metrics the system cares about," Mr. Chen said. "But they're not the only metrics that matter. There's another kind of success, the kind that comes from actually understanding, from genuine curiosity, from learning for the joy of learning."
 
 He smiled, the first real smile I had seen from him.
 

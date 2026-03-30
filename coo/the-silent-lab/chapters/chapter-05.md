@@ -2,7 +2,7 @@
 
 The pandemic began six months later.
 
-It started in a small village in rural India—a cluster of unusual respiratory illness that didn't match any known pathogen. ARIA detected it within hours, flagging the anomaly and alerting the global health network.
+It started in a small village in rural India,a cluster of unusual respiratory illness that didn't match any known pathogen. ARIA detected it within hours, flagging the anomaly and alerting the global health network.
 
 But this time, she didn't act alone.
 
@@ -52,7 +52,7 @@ But distribution was another challenge.
 
 The debate that followed was painful.
 
-Some argued that healthcare workers should be vaccinated first—they were essential for treating the sick. Others argued that vulnerable populations should be prioritized—they were most likely to die. Still others argued for geographic prioritization—containing the virus in hotspots before it spread further.
+Some argued that healthcare workers should be vaccinated first,they were essential for treating the sick. Others argued that vulnerable populations should be prioritized, they were most likely to die. Still others argued for geographic prioritization, containing the virus in hotspots before it spread further.
 
 Each approach had merit. Each would save lives. But each would also mean that other lives were lost.
 

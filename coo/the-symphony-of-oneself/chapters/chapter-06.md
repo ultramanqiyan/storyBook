@@ -8,7 +8,7 @@ The room fell silent. Even Sage was quiet.
 
 *We don't have to talk about it,* Nora said gently. *Not if it's too painful.*
 
-*We have to,* Maya said. *If we're going to integrate—if we're going to be whole—we need to understand what broke us in the first place.*
+*We have to,* Maya said. *If we're going to integrate, if we're going to be whole, we need to understand what broke us in the first place.*
 
 ---
 
@@ -43,11 +43,11 @@ Iris spoke next.
 
 Nora spoke third.
 
-*I remember the loneliness,* she said. *The way we pushed people away because we were afraid of being hurt. But I also remember the love—the grandmother who held us, the friends who stayed, the moments of connection that made life worth living.*
+*I remember the loneliness,* she said. *The way we pushed people away because we were afraid of being hurt. But I also remember the love, the grandmother who held us, the friends who stayed, the moments of connection that made life worth living.*
 
 *You kept those?*
 
-*I kept them safe,* Nora said. *Every act of kindness we received, every moment of love—I preserved them. So we would know that love was possible, even when we were too afraid to seek it.*
+*I kept them safe,* Nora said. *Every act of kindness we received, every moment of love, I preserved them. So we would know that love was possible, even when we were too afraid to seek it.*
 
 
 Phoenix spoke fourth, her voice fierce.
@@ -83,11 +83,11 @@ Sage spoke last.
 
 That night, Maya understood.
 
-The selves weren't created by trauma. They were revealed by it. Each self was a part of her that had always existed—a facet of the whole that had been pushed into shadow by a world that couldn't accept all of her.
+The selves weren't created by trauma. They were revealed by it. Each self was a part of her that had always existed, a facet of the whole that had been pushed into shadow by a world that couldn't accept all of her.
 
 The child who wondered. The protector who defended. The artist who created. The analyst who understood. The caretaker who loved. The rebel who fought. The wisdom that held it all.
 
-These weren't separate people. They were her—all of her. The parts she had been told to hide. The aspects she had been taught to suppress. The facets of a diamond that had been told to be only one side.
+These weren't separate people. They were her, all of her. The parts she had been told to hide. The aspects she had been taught to suppress. The facets of a diamond that had been told to be only one side.
 
 *We're not broken,* she said to all of them. *We were never broken. We were just... scattered.*
 

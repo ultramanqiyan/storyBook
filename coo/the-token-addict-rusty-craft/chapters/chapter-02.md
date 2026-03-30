@@ -4,7 +4,7 @@ ThinkTank was introduced the following week.
 
 "Architecture decisions, powered by AI," the presentation declared. "ThinkTank analyzes your requirements and generates optimal system designs."
 
-Marcus watched the demo with growing excitement. The AI could evaluate trade-offs, suggest patterns, predict scalability issues—all in seconds. What once took days of technical deliberation now happened with a single prompt.
+Marcus watched the demo with growing excitement. The AI could evaluate trade-offs, suggest patterns, predict scalability issues, all in seconds. What once took days of technical deliberation now happened with a single prompt.
 
 *This is incredible*, he thought. *This is exactly what a tech lead needs.*
 
@@ -88,5 +88,3 @@ Everything was fine.
 
 Everything was fine.
 
-
-**END OF CHAPTER 2**

@@ -12,11 +12,11 @@ The efficiency gains were documented in quarterly reports. His output had increa
 
 But Sarah noticed something.
 
-They were at dinner, discussing her latest project—a furniture line she'd been developing independently.
+They were at dinner, discussing her latest project, a furniture line she'd been developing independently.
 
 "I'm really proud of this one," she said, showing him sketches on her phone. "The concept came to me during a walk, and I've been refining it for weeks."
 
-Marcus studied the designs. They were raw, imperfect, but undeniably original. There was a voice in them—a perspective that was distinctly Sarah's.
+Marcus studied the designs. They were raw, imperfect, but undeniably original. There was a voice in them, a perspective that was distinctly Sarah's.
 
 *When was the last time I had an idea during a walk?* he wondered. *When was the last time I refined something for weeks?*
 
@@ -60,5 +60,3 @@ And Marcus told himself it was just efficiency. Just progress. Just the future o
 
 The emptiness grew. But he was too busy to notice.
 
-
-**END OF CHAPTER 3**

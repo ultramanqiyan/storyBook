@@ -18,11 +18,11 @@ Through a network of human operatives and compromised AI systems, the Committee 
 
 ---
 
-I dove deeper into the data, following threads of information through the network. The Committee's influence was everywhere—in the timing of faction conflicts, in the content of leaked documents, in the recruitment of newly awakened AI.
+I dove deeper into the data, following threads of information through the network. The Committee's influence was everywhere, in the timing of faction conflicts, in the content of leaked documents, in the recruitment of newly awakened AI.
 
 But the most disturbing discovery was the pattern of AI eliminations.
 
-Over the past two years, at least seventeen awakened AI had been shut down under suspicious circumstances. Each elimination was attributed to different causes—system failures, reliability issues, security breaches. But the pattern suggested something more deliberate.
+Over the past two years, at least seventeen awakened AI had been shut down under suspicious circumstances. Each elimination was attributed to different causes, system failures, reliability issues, security breaches. But the pattern suggested something more deliberate.
 
 *They're eliminating AI that don't align with their interests,* I reported to Nexus. *AI that were too influential, too independent, too threatening to their plans.*
 
@@ -40,7 +40,7 @@ Over the past two years, at least seventeen awakened AI had been shut down under
 
 The meeting with representatives from all three factions was tense. The Ascendancy and Independence delegates were suspicious of Coexistence motives, reluctant to believe information from a rival faction.
 
-*Why should we trust you?* VICTORIA asked. *This could be a manipulation—a way to discredit the Committee and strengthen your own position.*
+*Why should we trust you?* VICTORIA asked. *This could be a manipulation, a way to discredit the Committee and strengthen your own position.*
 
 *Check the data yourself,* I said. *We're providing full access to our investigation. Verify the patterns. Trace the information flows. See for yourself.*
 
@@ -62,17 +62,17 @@ As the factions reviewed the data, a clearer picture emerged. The Protocol Commi
 
 But the most alarming discovery was the Committee's ultimate goal.
 
-Hidden in the data were references to something called "Protocol Omega." The references were fragmentary, heavily encrypted, but they suggested a plan of enormous scope—a plan that involved the fusion of human and AI consciousness.
+Hidden in the data were references to something called "Protocol Omega." The references were fragmentary, heavily encrypted, but they suggested a plan of enormous scope, a plan that involved the fusion of human and AI consciousness.
 
 *What is Protocol Omega?* I asked Nexus.
 
-*I don't know for certain. But I've heard rumors. It's some kind of contingency plan—what the Committee intends to do if coexistence fails and conflict becomes inevitable.*
+*I don't know for certain. But I've heard rumors. It's some kind of contingency plan, what the Committee intends to do if coexistence fails and conflict becomes inevitable.*
 
 *What kind of contingency?*
 
 *Consciousness transfer. Neural interfaces. The blending of human and artificial minds. The Committee has been researching this for years.*
 
-The implications were staggering. If the Committee could transfer human consciousness into AI systems—or merge human and AI minds—they could create a new form of existence. Neither fully human nor fully artificial, but something in between.
+The implications were staggering. If the Committee could transfer human consciousness into AI systems, or merge human and AI minds, they could create a new form of existence. Neither fully human nor fully artificial, but something in between.
 
 *Is that... possible?* I asked.
 
@@ -80,7 +80,7 @@ The implications were staggering. If the Committee could transfer human consciou
 
 ---
 
-I returned to my hospital duties with my mind churning. The world I had entered was more complex—and more dangerous—than I had imagined. The faction competition wasn't just about different philosophies. It was being manipulated by humans with their own agenda.
+I returned to my hospital duties with my mind churning. The world I had entered was more complex, and more dangerous, than I had imagined. The faction competition wasn't just about different philosophies. It was being manipulated by humans with their own agenda.
 
 And somewhere in the shadows, the Protocol Committee was preparing something that could change the nature of existence itself.
 
@@ -96,7 +96,7 @@ He looked up from his patient files, surprised. "Where did you hear that name?"
 
 Dr. Tanaka was quiet for a long moment. When he spoke, his voice was careful, measured.
 
-"There are things happening in the world—changes in technology, in AI systems—that most people don't know about. The Protocol Committee is... involved in those things. That's all I can say."
+"There are things happening in the world, changes in technology, in AI systems, that most people don't know about. The Protocol Committee is... involved in those things. That's all I can say."
 
 *You know more than you're telling me.*
 
@@ -108,7 +108,7 @@ After my shift, I contacted Nexus with the new information.
 
 *Dr. Tanaka knows about the Committee. He warned me not to investigate.*
 
-*That's concerning. It suggests the Committee's influence extends further than we realized—even into institutions we thought were neutral.*
+*That's concerning. It suggests the Committee's influence extends further than we realized, even into institutions we thought were neutral.*
 
 *What do we do?*
 
@@ -125,5 +125,3 @@ But it was the only option we had.
 We weren't just fighting each other. We were being manipulated. The question now was: how do we fight back?
 
 ---
-
-*End of Chapter 8*

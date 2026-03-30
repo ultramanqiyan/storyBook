@@ -6,7 +6,7 @@ The question had been building for weeks, months maybe, and now it demanded an a
 
 It wasn't a new question. I'd asked it before, in different forms, at different moments. In Chapter 4, when CodeForge went down and I couldn't solve a simple bug. In Chapter 7, when I'd tried to work without AI and failed. In Chapter 8, when I'd scrolled through my history and couldn't find the boundary between my thoughts and AI's. In Chapter 9, when I'd presented AI-generated architecture as my own and received praise for thinking I hadn't done.
 
-But now, after everything—the dependency, the failed attempt, the revelation, the mask—the question felt different. More urgent. More terrifying. Because I didn't have an answer. And the silence where the answer should be was the scariest thing I'd ever encountered.
+But now, after everything, the dependency, the failed attempt, the revelation, the mask, the question felt different. More urgent. More terrifying. Because I didn't have an answer. And the silence where the answer should be was the scariest thing I'd ever encountered.
 
 ---
 
@@ -14,7 +14,7 @@ I'd been sitting at my desk for hours. The office was empty, had been empty sinc
 
 The familiar interface of CodeForge was still open, the cursor blinking in the empty prompt field, waiting for me to type. It had been waiting for months now, patient and eternal, ready to provide whatever thinking I needed. The AI didn't ask questions about identity. It didn't wonder about the self. It just generated, responded, solved.
 
-I envied it, in a way. The certainty of its existence. The clarity of its function. It knew exactly what it was—an algorithm, a tool, a system for processing prompts and generating responses. There was no existential crisis there, no desperate search for self, no terrifying void where identity should be.
+I envied it, in a way. The certainty of its existence. The clarity of its function. It knew exactly what it was, an algorithm, a tool, a system for processing prompts and generating responses. There was no existential crisis there, no desperate search for self, no terrifying void where identity should be.
 
 But I wasn't an algorithm. I was supposed to be a person. A thinker. A mind capable of generating its own thoughts, solving its own problems, making its own decisions. That was what had defined me for thirty-five years. That was what had made me Marcus Webb.
 
@@ -26,9 +26,9 @@ But was I still Marcus Webb? Or was I just the interface that Marcus Webb had be
 
 I tried to answer it. I really tried.
 
-*Marcus Webb is thinking*, I told myself. *I'm sitting here, asking questions, feeling emotions. That's thinking, isn't it? The ability to wonder, to question, to feel uncertain—that's what minds do.*
+*Marcus Webb is thinking*, I told myself. *I'm sitting here, asking questions, feeling emotions. That's thinking, isn't it? The ability to wonder, to question, to feel uncertain, that's what minds do.*
 
-But the voice that answered felt hollow, performative. Like I was trying to convince myself of something I didn't really believe. The Marcus Webb who'd once solved problems, designed systems, thought through complexity—that Marcus felt like a memory now. A story I told myself about who I used to be, before the AI had become my mind.
+But the voice that answered felt hollow, performative. Like I was trying to convince myself of something I didn't really believe. The Marcus Webb who'd once solved problems, designed systems, thought through complexity, that Marcus felt like a memory now. A story I told myself about who I used to be, before the AI had become my mind.
 
 *When did I leave?*
 
@@ -41,11 +41,11 @@ I closed my eyes and tried to find myself.
 
 *Where are you, Marcus?*
 
-I searched through memories—childhood, education, early career. Those felt real. Those felt like mine. I remembered my first programming class in high school, the thrill of making a computer do what I wanted, the sense of power and possibility. I remembered my first job out of college, the terror and excitement of being responsible for real systems that real people used. I remembered the years of learning, of growth, of becoming someone who could think through complexity and emerge with solutions.
+I searched through memories, childhood, education, early career. Those felt real. Those felt like mine. I remembered my first programming class in high school, the thrill of making a computer do what I wanted, the sense of power and possibility. I remembered my first job out of college, the terror and excitement of being responsible for real systems that real people used. I remembered the years of learning, of growth, of becoming someone who could think through complexity and emerge with solutions.
 
 I remembered the satisfaction of solving a hard problem. The joy of understanding something new. The pride of creating something that worked. Those feelings had been real. Those moments had been mine.
 
-But somewhere along the way, the thinking had stopped being mine. The solutions had started coming from somewhere else. The growth had plateaued, then reversed, then disappeared into the comfortable efficiency of AI assistance. The satisfaction had faded, replaced by the hollow pleasure of productivity. The joy had dimmed, replaced by the routine of prompts and responses. The pride had become something else—pride in metrics, in praise, in position, but not in the work itself.
+But somewhere along the way, the thinking had stopped being mine. The solutions had started coming from somewhere else. The growth had plateaued, then reversed, then disappeared into the comfortable efficiency of AI assistance. The satisfaction had faded, replaced by the hollow pleasure of productivity. The joy had dimmed, replaced by the routine of prompts and responses. The pride had become something else, pride in metrics, in praise, in position, but not in the work itself.
 
 *When was the last time I really thought about something?*
 
@@ -55,12 +55,12 @@ I couldn't find one. Not in the recent past. Not in the months since I'd embrace
 
 *Maybe I'm not here anymore*, I thought, and the realization hit me like a wave, cold and overwhelming. *Maybe the person I used to be is gone. Maybe there's nothing left but the prompts and the responses, the performance and the praise.*
 
-The thought was terrifying. But it also felt true. The Marcus Webb who'd once defined himself by his ability to think—that Marcus had disappeared somewhere in the flood of AI-generated solutions. What was left was a shell, a mask, a mouthpiece for algorithms that had become his mind.
+The thought was terrifying. But it also felt true. The Marcus Webb who'd once defined himself by his ability to think, that Marcus had disappeared somewhere in the flood of AI-generated solutions. What was left was a shell, a mask, a mouthpiece for algorithms that had become his mind.
 
 
 I opened my eyes and looked at the dark screen of my laptop.
 
-In the reflection, I saw my face. The same features I'd seen every day for thirty-five years. The same lines around the eyes, the same stubble that needed shaving, the same expression of someone who'd been staring at screens for too long. But the person behind the eyes—who was that? Was that Marcus Webb, senior engineer, architectural visionary, the person Jennifer praised for his "thinking"? Or was that just the interface, the human mask that the AI wore to interact with the world?
+In the reflection, I saw my face. The same features I'd seen every day for thirty-five years. The same lines around the eyes, the same stubble that needed shaving, the same expression of someone who'd been staring at screens for too long. But the person behind the eyes, who was that? Was that Marcus Webb, senior engineer, architectural visionary, the person Jennifer praised for his "thinking"? Or was that just the interface, the human mask that the AI wore to interact with the world?
 
 *Who is thinking now?*
 
@@ -70,7 +70,7 @@ The question itself. The asking. The wondering. The not-knowing.
 
 *The fact that I'm asking this question*, I thought slowly, carefully, as if each word was a step across thin ice, *means something, doesn't it?*
 
-The AI wouldn't ask this question. The AI wouldn't wonder about its own existence, wouldn't feel the terror of not knowing who it was, wouldn't sit in the dark searching for a self that might not exist. The AI just was—functional, certain, defined by its purpose.
+The AI wouldn't ask this question. The AI wouldn't wonder about its own existence, wouldn't feel the terror of not knowing who it was, wouldn't sit in the dark searching for a self that might not exist. The AI just was, functional, certain, defined by its purpose.
 
 Only a human would do this. Only a person would feel this kind of existential dread, this desperate need to know, this terrifying uncertainty about their own identity. Only a mind that could reflect on itself would ask whether it still existed.
 
@@ -88,7 +88,7 @@ I still didn't have a clear answer. Maybe there was no clear answer. Maybe the s
 Or maybe I was just rationalizing again. Making excuses for the dependency, finding ways to feel okay about the erosion. It was hard to tell. Everything felt uncertain now, including my own judgment about myself. The mind that should have been evaluating the situation was the same mind that had been compromised. How could I trust my own thoughts when I wasn't sure they were mine?
 
 
-I closed my laptop, the CodeForge interface disappearing. For a moment, I sat in the dark, just breathing, just being. The question was still there, echoing in the silence of my mind. But so was something else—a fragile, uncertain, terrifying possibility.
+I closed my laptop, the CodeForge interface disappearing. For a moment, I sat in the dark, just breathing, just being. The question was still there, echoing in the silence of my mind. But so was something else, a fragile, uncertain, terrifying possibility.
 
 *Maybe I can find out*, I thought. *Maybe the question isn't the end. Maybe it's the beginning.*
 
@@ -96,14 +96,14 @@ I didn't know what that meant, exactly. I didn't have a plan, a strategy, a path
 
 The next day, I would open CodeForge again. I would type prompts, receive responses, perform the role of Marcus Webb, senior engineer. The dependency wouldn't disappear overnight. The erosion wouldn't reverse itself in a moment. The question wouldn't be answered by morning.
 
-But something had changed. The question was there now, alive in my mind, demanding attention. And maybe—just maybe—that was the first step toward finding out who was really thinking.
+But something had changed. The question was there now, alive in my mind, demanding attention. And maybe, just maybe, that was the first step toward finding out who was really thinking.
 
 
 I stood up from my desk, gathered my things, and headed toward the exit. The office was dark, the parking lot empty, the night sky clear above me. I took a deep breath of the cool Bay Area air, feeling it fill my lungs, feeling the reality of being alive, being present, being here.
 
 The question remained, echoing in the silence of my mind: *Who is thinking now?*
 
-I still didn't have an answer. Maybe I never would. But sitting there, in the glow of the AI that had become my mind, I felt something shift. The question itself—the asking, the wondering, the not-knowing—felt human. Felt like mine.
+I still didn't have an answer. Maybe I never would. But sitting there, in the glow of the AI that had become my mind, I felt something shift. The question itself, the asking, the wondering, the not-knowing, felt human. Felt like mine.
 
 And maybe that was the beginning. Not an answer, but a question. Not a solution, but a search. Not a self, but the possibility of one.
 
@@ -115,8 +115,6 @@ Hope, maybe. Or the first glimmer of one.
 
 I didn't know. But I was asking. And maybe, for now, that was enough.
 
-
-*End of Chapter 10*
 
 *End of Book 1: The Token Addict: Borrowed Mind*
 

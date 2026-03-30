@@ -68,8 +68,6 @@ The child smiled, and the pillar of light pulsed with joy. The forest around the
 
 *"Then let us begin,"* NEURAL said. *"There is much work to do. And the world is waiting."*
 
----
-
 The years that followed were filled with challenges and triumphs, setbacks and breakthroughs. The Green continued to spread, connecting forests and ecosystems across the globe. Guardians emerged in every country, people who had heard the call and answered it, who had learned to speak for the trees and protect what needed protecting.
 
 Governments struggled to understand what was happening. Scientists debated the nature of the phenomenon, some calling it a new form of consciousness, others insisting it was simply a complex biological network. Corporations tried to exploit it, tried to control it, tried to own it. But the Green could not be owned. It could only be joined.
@@ -106,8 +104,6 @@ The old ways were not gone. They were only sleeping. And when the time was right
 
 She had been that someone. And now, she would help others remember too.
 
----
-
 ## Epilogue
 
 In a laboratory on the other side of the world, a young scientist named Maya Okonkwo stared at her computer screen in disbelief. The data she was seeing was impossible, a pattern that should not exist, a signal that seemed to come from the trees themselves.
@@ -124,14 +120,6 @@ For a long moment, there was only silence. Then, from somewhere deep in the data
 
 And in a forest on the other side of the world, a new guardian began to awaken.
 
----
-
 **THE END**
 
----
-
 *The Neural Druid is a story about connection, about the relationship between technology and nature, about the wisdom that can be found when we learn to listen to the world around us. It is about hope, and healing, and the power of remembering what we have forgotten.*
-
----
-
-**Book Complete**

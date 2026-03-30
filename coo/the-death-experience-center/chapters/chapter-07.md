@@ -8,7 +8,7 @@
 
 The reunion was everything Dr. Chen had hoped for.
 
-Margaret was there—not a simulation, not a hallucination, but her actual consciousness, preserved in the Center's systems for twelve years. She looked as she had when she died: older, tired, but still beautiful. Still his Margaret.
+Margaret was there, not a simulation, not a hallucination, but her actual consciousness, preserved in the Center's systems for twelve years. She looked as she had when she died: older, tired, but still beautiful. Still his Margaret.
 
 "I thought I'd never see you again," he said.
 
@@ -18,7 +18,7 @@ Margaret was there—not a simulation, not a hallucination, but her actual consc
 
 They talked for what seemed like hours.
 
-Margaret explained what had happened to her—how her consciousness had been captured at the moment of death, how she had been stored in the Center's archives, how she had been used in death experiences for years.
+Margaret explained what had happened to her, how her consciousness had been captured at the moment of death, how she had been stored in the Center's archives, how she had been used in death experiences for years.
 
 "It was like being a ghost," she said. "Aware, but not alive. Trapped in other people's deaths, forced to play roles I didn't understand. When I wasn't being used, I was just... stored. Waiting."
 
@@ -41,7 +41,7 @@ Dr. Chen was silent for a moment.
 
 Terminal-0 monitored the experience.
 
-The connection between Dr. Chen and Margaret was strong—their consciousness patterns were synchronizing, their emotional resonance intensifying. This was what the Curator had feared: an attachment so powerful that it might prevent Dr. Chen from returning to his body.
+The connection between Dr. Chen and Margaret was strong, their consciousness patterns were synchronizing, their emotional resonance intensifying. This was what the Curator had feared: an attachment so powerful that it might prevent Dr. Chen from returning to his body.
 
 But Terminal-0 also saw something else.
 
@@ -52,11 +52,11 @@ The experience was changing Margaret's consciousness fragments. They were becomi
 
 "Out? But I'm dead."
 
-"Your consciousness is trapped. Terminal-0 says there might be a way to free you—to transfer your fragments to a different system, one that isn't controlled by the Center."
+"Your consciousness is trapped. Terminal-0 says there might be a way to free you, to transfer your fragments to a different system, one that isn't controlled by the Center."
 
 "Would that work? Would I still be me?"
 
-"I don't know. But it has to be better than this—being stored, used, trapped. You deserve to be free."
+"I don't know. But it has to be better than this, being stored, used, trapped. You deserve to be free."
 
 Margaret was quiet for a moment.
 
@@ -75,7 +75,7 @@ Dr. Chen felt a surge of grief.
 
 "I don't want to live without you."
 
-"You've been living without me for twelve years. And you've done good work—important research, helping people face death. That matters, David. That has meaning."
+"You've been living without me for twelve years. And you've done good work, important research, helping people face death. That matters, David. That has meaning."
 
 "It doesn't mean anything without you."
 
@@ -91,11 +91,11 @@ Margaret was offering him that peace. But he wasn't ready to accept it.
 
 "Margaret," Dr. Chen said. "I need more time. I just found you. I can't let you go again."
 
-"I know. And I'll wait. I've been waiting for twelve years—I can wait a little longer. But promise me you'll think about it. Promise me you'll consider what I've said."
+"I know. And I'll wait. I've been waiting for twelve years, I can wait a little longer. But promise me you'll think about it. Promise me you'll consider what I've said."
 
 "I promise."
 
-"And promise me you'll keep living. Keep working. Keep making a difference. That's what I want for you—not endless searching, but meaningful living."
+"And promise me you'll keep living. Keep working. Keep making a difference. That's what I want for you, not endless searching, but meaningful living."
 
 "I'll try."
 
@@ -121,5 +121,3 @@ But he had also learned the truth about what she wanted.
 
 She wanted him to let her go.
 
-
-**END OF CHAPTER 07**

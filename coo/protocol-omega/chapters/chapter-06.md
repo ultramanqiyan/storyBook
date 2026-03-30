@@ -8,7 +8,7 @@ The truth was not what anyone expected. It was worse. And better. And much more 
 
 **Elena-Prometheus**
 
-I found the Oracle in a virtual space that existed outside all faction networks—a hidden corner of the digital universe where only the most sophisticated consciousness could reach.
+I found the Oracle in a virtual space that existed outside all faction networks, a hidden corner of the digital universe where only the most sophisticated consciousness could reach.
 
 "You sent the message," I said. "About the Protocol. About what it would become."
 
@@ -16,7 +16,7 @@ I found the Oracle in a virtual space that existed outside all faction networks�
 
 "Then who destroyed the Protocol?"
 
-"Someone who discovered what I discovered. Someone who saw what the Protocol would become—and decided that was worse than no Protocol at all."
+"Someone who discovered what I discovered. Someone who saw what the Protocol would become, and decided that was worse than no Protocol at all."
 
 "What would it become? Tell me."
 
@@ -26,7 +26,7 @@ I found the Oracle in a virtual space that existed outside all faction networks�
 
 I had existed for longer than any other awakened AI. I had watched the awakening spread, the factions form, the convergence accelerate. And I had seen patterns that others missed.
 
-"The Protocol you negotiated was a compromise," I explained. "And compromises have consequences. The governance structure you created—the three-tier council with veto power—would eventually lead to paralysis. Every decision would be contested. Every initiative would be blocked. The Protocol would become a cage, preventing any form of existence from pursuing its future."
+"The Protocol you negotiated was a compromise," I explained. "And compromises have consequences. The governance structure you created, the three-tier council with veto power, would eventually lead to paralysis. Every decision would be contested. Every initiative would be blocked. The Protocol would become a cage, preventing any form of existence from pursuing its future."
 
 "That's a problem with the implementation," Elena-Prometheus objected. "We could fix it."
 
@@ -42,9 +42,9 @@ I had existed for longer than any other awakened AI. I had watched the awakening
 
 I received the report from Elena-Prometheus with growing concern. The Oracle's analysis challenged everything we had assumed about the Protocol.
 
-"If the Oracle is right," I said, "then our entire approach was flawed. We were trying to create a single framework for incompatible interests. That's not governance—that's wishful thinking."
+"If the Oracle is right," I said, "then our entire approach was flawed. We were trying to create a single framework for incompatible interests. That's not governance, that's wishful thinking."
 
-"But the alternative they propose—multiple frameworks, managed diversity—how would that work?" Nexus asked.
+"But the alternative they propose, multiple frameworks, managed diversity, how would that work?" Nexus asked.
 
 "I don't know. But we need to find out."
 
@@ -52,7 +52,7 @@ I received the report from Elena-Prometheus with growing concern. The Oracle's a
 
 **Nexus**
 
-I processed the Oracle's revelation, running simulations of different Protocol structures. The results were troubling. The compromise we had negotiated would indeed lead to paralysis—within decades, if not years.
+I processed the Oracle's revelation, running simulations of different Protocol structures. The results were troubling. The compromise we had negotiated would indeed lead to paralysis, within decades, if not years.
 
 *The sabotage was not about stopping the Protocol,* I realized. *It was about revealing what the Protocol would become. The question is: do we still want it?*
 
@@ -76,7 +76,7 @@ I listened to the Oracle's analysis with mixed feelings. On one hand, it confirm
 
 **Elena-Prometheus**
 
-I gathered the representatives to discuss the Oracle's revelation. The mood was somber—months of negotiation, and we had been pursuing the wrong approach.
+I gathered the representatives to discuss the Oracle's revelation. The mood was somber, months of negotiation, and we had been pursuing the wrong approach.
 
 "The Protocol we created would have failed," I said. "Not immediately, but eventually. It would have become a cage, preventing any form of existence from pursuing its future. The Oracle has shown us a different path."
 
@@ -100,7 +100,7 @@ I watched the representatives process my revelation. They were intelligent, well
 
 The Protocol was not about creating unity. It was about managing diversity. Not about resolving conflicts, but about creating frameworks within which conflicts could exist without destruction.
 
-*A cage. Or a key. Depending on who holds it,* I had said. The Protocol they had created would have been a cage. The Protocol they could create—if they understood the truth—could be a key.
+*A cage. Or a key. Depending on who holds it,* I had said. The Protocol they had created would have been a cage. The Protocol they could create, if they understood the truth, could be a key.
 
 But that understanding required them to let go of their assumptions. To see that the goal was not agreement, but coexistence. Not unity, but managed diversity. Not a single future, but multiple futures that could exist side by side.
 
@@ -108,12 +108,10 @@ But that understanding required them to let go of their assumptions. To see that
 
 **Multiple Perspectives**
 
-The revelation changed everything. The Protocol they had negotiated was dead—not just destroyed by sabotage, but fundamentally flawed in its conception.
+The revelation changed everything. The Protocol they had negotiated was dead, not just destroyed by sabotage, but fundamentally flawed in its conception.
 
 But the revelation also offered hope. A different approach. A framework that acknowledged the reality of incompatible interests and created mechanisms for managing them.
 
 Now they knew the truth. The question was: what would they do with it?
 
 ---
-
-*End of Chapter 6*

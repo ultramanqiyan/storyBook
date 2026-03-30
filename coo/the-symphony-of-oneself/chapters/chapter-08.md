@@ -6,7 +6,7 @@ Maya stood at podium, looking out at audience of scientists, researchers, and sp
 
 Instead, they got... a story.
 
-*Thank you for coming,* Maya said, her voice steady. *I'm not going to present findings about neural patterns. I'm going to introduce you to someone else—to seven people who have been living in my mind.*
+*Thank you for coming,* Maya said, her voice steady. *I'm not going to present findings about neural patterns. I'm going to introduce you to someone else, to seven people who have been living in my mind.*
 
 The room shifted. Whispers. Questions. Some looked fascinated. Some looked concerned. Some looked skeptical.
 
@@ -34,7 +34,7 @@ Marcus spoke next.
 
 *Thirty-five?* another voice asked. *That's when Maya learned to be careful.*
 
-*I've always been careful,* Marcus said. *Even before I existed. Maya learned that world could hurt her. So I formed—to protect. I watch for threats. I plan for dangers. I make sure we survive.*
+*I've always been careful,* Marcus said. *Even before I existed. Maya learned that world could hurt her. So I formed, to protect. I watch for threats. I plan for dangers. I make sure we survive.*
 
 *You represent safety,* Maya said.
 
@@ -73,7 +73,7 @@ Nora was fifth.
 
 *You're the caretaker.*
 
-*I've always been,* Nora said. *Even before I existed. Maya learned to push people away when she was hurt. So I formed—to hold onto love. To remember what matters. To make sure we don't forget that we're capable of it.*
+*I've always been,* Nora said. *Even before I existed. Maya learned to push people away when she was hurt. So I formed, to hold onto love. To remember what matters. To make sure we don't forget that we're capable of it.*
 
 *You represent compassion,* Maya said.
 
@@ -86,7 +86,7 @@ Phoenix was sixth.
 
 *You're the rebel.*
 
-*I've always been,* Phoenix said. *Maya learned to suppress anger, to be "good," to follow rules. So I formed—to remember injustice. To hold onto rage. To fight back when no one else will.*
+*I've always been,* Phoenix said. *Maya learned to suppress anger, to be "good," to follow rules. So I formed, to remember injustice. To hold onto rage. To fight back when no one else will.*
 
 *You represent passion,* Maya said.
 
@@ -135,7 +135,7 @@ Maya looked at each of her selves in turn.
 
 The audience sat in silence. Then, slowly, applause began.
 
-Not polite, distant applause. But something deeper—recognition. Understanding. A sense that they were witnessing something real, something important, something... beautiful.
+Not polite, distant applause. But something deeper, recognition. Understanding. A sense that they were witnessing something real, something important, something... beautiful.
 
 *This isn't a disorder,* Dr. Harrison said finally, standing up. *This is a new form of consciousness. A new way of being human.*
 

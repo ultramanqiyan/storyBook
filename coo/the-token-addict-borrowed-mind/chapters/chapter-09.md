@@ -1,16 +1,16 @@
 # Chapter 9: The Mask
 
-The morning after the revelation, I woke up and made a decision. I would hide the truth. I would perform. I would be the Marcus everyone expected—the confident, capable senior engineer who solved problems and made decisions. The fact that those decisions now came from an AI was something I would keep to myself, buried deep beneath layers of professional competence and practiced confidence.
+The morning after the revelation, I woke up and made a decision. I would hide the truth. I would perform. I would be the Marcus everyone expected, the confident, capable senior engineer who solved problems and made decisions. The fact that those decisions now came from an AI was something I would keep to myself, buried deep beneath layers of professional competence and practiced confidence.
 
-I showered, dressed, and looked at myself in the mirror. The face staring back was familiar—the same features I'd seen every morning for thirty-five years, the same lines around the eyes, the same stubble that needed shaving. But something seemed different now. The eyes looked emptier, as if the person behind them had been replaced by something else, something that wore my face but wasn't quite me. Something that performed Marcus Webb without actually being him.
+I showered, dressed, and looked at myself in the mirror. The face staring back was familiar, the same features I'd seen every morning for thirty-five years, the same lines around the eyes, the same stubble that needed shaving. But something seemed different now. The eyes looked emptier, as if the person behind them had been replaced by something else, something that wore my face but wasn't quite me. Something that performed Marcus Webb without actually being him.
 
 I pushed the thought away and headed to work. The architecture review was today, and I needed to prepare.
 
 ---
 
-The office was its usual morning self—people settling into desks, the low hum of conversation, the smell of coffee drifting from the break room. I walked to my desk, nodded at colleagues, returned greetings with practiced ease. The familiar routine. The comfortable motions of a life I'd built over years of showing up, doing the work, being the person everyone expected.
+The office was its usual morning self, people settling into desks, the low hum of conversation, the smell of coffee drifting from the break room. I walked to my desk, nodded at colleagues, returned greetings with practiced ease. The familiar routine. The comfortable motions of a life I'd built over years of showing up, doing the work, being the person everyone expected.
 
-But everything felt different now. Each person I passed, each nod I received, each "good morning" I returned—they all felt like performances. Like I was playing a role in a play I'd been cast in without auditioning. The Marcus they knew, the Marcus they expected, was a confident problem-solver. A senior engineer who thought through complexity and emerged with solutions. A leader who could be trusted to make the right decisions.
+But everything felt different now. Each person I passed, each nod I received, each "good morning" I returned, they all felt like performances. Like I was playing a role in a play I'd been cast in without auditioning. The Marcus they knew, the Marcus they expected, was a confident problem-solver. A senior engineer who thought through complexity and emerged with solutions. A leader who could be trusted to make the right decisions.
 
 That Marcus was gone. Or maybe he'd never really existed. Maybe he'd always been a performance, and the AI had just made the performance easier, more convincing, more successful.
 
@@ -18,9 +18,9 @@ I opened CodeForge and began to prepare for the architecture review.
 
 ---
 
-The architecture review was a critical meeting. We were designing the next generation of our platform, and the decisions made today would shape our development for years. The stakes were high—millions of users, millions of dollars, the future of the company potentially resting on the choices we were about to make.
+The architecture review was a critical meeting. We were designing the next generation of our platform, and the decisions made today would shape our development for years. The stakes were high, millions of users, millions of dollars, the future of the company potentially resting on the choices we were about to make.
 
-In the past—the real past, before AI—I would have spent days preparing for this. I'd have sketched diagrams on whiteboards, debated trade-offs with colleagues, thought through the implications of each option. I'd have lain awake at night turning the problem over in my mind, building understanding piece by piece, feeling the solution emerge from the fog of uncertainty.
+In the past, the real past, before AI, I would have spent days preparing for this. I'd have sketched diagrams on whiteboards, debated trade-offs with colleagues, thought through the implications of each option. I'd have lain awake at night turning the problem over in my mind, building understanding piece by piece, feeling the solution emerge from the fog of uncertainty.
 
 Now, I opened CodeForge and typed: "Design architecture for next-generation e-commerce platform. Consider scalability, maintainability, team structure, and existing infrastructure. Provide detailed recommendations with trade-offs."
 
@@ -29,13 +29,13 @@ The response appeared, comprehensive and elegant. System diagrams. Component bre
 I read through it, memorized the key points, rehearsed the answers to anticipated questions. By the time the meeting started, I would be ready. I would be Marcus Webb, senior engineer, architectural visionary. The fact that none of the vision was mine wouldn't matter. No one would know. Not even Jennifer, who'd praised me so many times for my "thinking."
 
 
-The conference room was full when I arrived. Jennifer sat at the head of the table, her tablet open, her expression attentive. The team was assembled—Sarah, Mike, Alex, a few others whose names I knew but whose faces had started to blur. Everyone was watching, waiting for me to lead, to guide, to think.
+The conference room was full when I arrived. Jennifer sat at the head of the table, her tablet open, her expression attentive. The team was assembled, Sarah, Mike, Alex, a few others whose names I knew but whose faces had started to blur. Everyone was watching, waiting for me to lead, to guide, to think.
 
 I stood at the front of the room, connected my laptop to the projector, and began.
 
 "Thanks everyone for coming," I said, my voice steady, confident. The voice of Marcus Webb, senior engineer. "Today I want to walk through the architecture for the next-generation platform. I've spent considerable time thinking through the options, and I have a recommendation I'd like to share."
 
-The words felt strange in my mouth—not wrong, exactly, but hollow. I was lying. Not about the architecture—that was real, would be implemented, would work. But about the "considerable time thinking." That was a lie. I'd spent thirty minutes reading AI output, memorizing someone else's thinking, preparing to perform it as my own.
+The words felt strange in my mouth, not wrong, exactly, but hollow. I was lying. Not about the architecture, that was real, would be implemented, would work. But about the "considerable time thinking." That was a lie. I'd spent thirty minutes reading AI output, memorizing someone else's thinking, preparing to perform it as my own.
 
 I clicked through the slides, explaining the architecture. Microservices for scalability. Event-driven communication for resilience. Domain-driven design for maintainability. Each point was clear, well-reasoned, backed by industry best practices. The AI had done excellent work.
 
@@ -75,7 +75,7 @@ Back at my desk, I sat in the glow of my monitors and felt the weight of what I'
 
 I'd successfully presented AI-generated thinking as my own. I'd received praise for insights that weren't mine. I'd maintained the mask, and no one had noticed. Not Jennifer, who'd praised my "architectural vision." Not Sarah, who'd said she'd "learned a lot." Not anyone.
 
-But the cost was becoming clear. Every performance made the next one harder. Every praise felt like an accusation. Every "good thinking" reminded me that I wasn't thinking at all. The mask was becoming my face, and somewhere beneath it, the real Marcus—if there was still a real Marcus—was disappearing.
+But the cost was becoming clear. Every performance made the next one harder. Every praise felt like an accusation. Every "good thinking" reminded me that I wasn't thinking at all. The mask was becoming my face, and somewhere beneath it, the real Marcus, if there was still a real Marcus, was disappearing.
 
 I opened CodeForge for the next task, typed the prompt, and watched the code appear. This was my life now. Performing. Pretending. Being the mouthpiece for an AI that had become my mind.
 
@@ -92,7 +92,7 @@ The cursor blinked, patient, waiting for my next prompt. It had been waiting all
 
 The question surfaced from somewhere deep, a whisper in the void where my thoughts should have been. I was living a lie. I was pretending to be someone who could think, while outsourcing the thinking to a machine. I was accepting praise for work I hadn't done, insights I hadn't generated, decisions I hadn't made.
 
-And the worst part? I couldn't stop. I didn't know how to stop. The dependency was too deep, the erosion too complete. Without AI, I was nothing—a shell, a prompt engineer, a mouthpiece for algorithms that had become my mind.
+And the worst part? I couldn't stop. I didn't know how to stop. The dependency was too deep, the erosion too complete. Without AI, I was nothing, a shell, a prompt engineer, a mouthpiece for algorithms that had become my mind.
 
 I closed my laptop and sat in the darkness, the question still echoing.
 
@@ -100,7 +100,5 @@ I closed my laptop and sat in the darkness, the question still echoing.
 
 The silence answered with nothing.
 
-
-*End of Chapter 9*
 
 **Word Count**: 1,709

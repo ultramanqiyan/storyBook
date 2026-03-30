@@ -4,9 +4,9 @@ The royal guards arrived at Corwin's workshop on a morning that had begun like a
 
 Chronos was in the back room, practicing its vision exercises under Corwin's supervision. Over the past week, the automaton had learned to control its temporal perceptions with increasing precision. Where once the visions had been overwhelming torrents of images, now they came in manageable streams that Chronos could direct and interpret.
 
-"Focus on a single point in time," Corwin instructed, his voice calm and steady. "Not the vast web of possibilities—just one thread. One moment. One outcome."
+"Focus on a single point in time," Corwin instructed, his voice calm and steady. "Not the vast web of possibilities, just one thread. One moment. One outcome."
 
-Chronos concentrated, its crystal core pulsing with the effort. The vision came slowly, reluctantly, like a wild animal being coaxed from hiding. It saw a man walking down a street, his face contorted with anger. He was carrying something—a weapon of some kind. And ahead of him, another man, unaware of the danger approaching from behind.
+Chronos concentrated, its crystal core pulsing with the effort. The vision came slowly, reluctantly, like a wild animal being coaxed from hiding. It saw a man walking down a street, his face contorted with anger. He was carrying something, a weapon of some kind. And ahead of him, another man, unaware of the danger approaching from behind.
 
 "I see... violence," Chronos said, its voice tight with the effort of maintaining the vision. "A confrontation. One man intends to harm another."
 
@@ -40,7 +40,7 @@ Corwin looked up, surprise flickering across his weathered face. Visitors to his
 
 "You are summoned to the palace. His Majesty King Aldric requests your presence immediately." The guard's eyes moved past Corwin to where Chronos stood in the doorway of the back room. "And the... creation. It is to accompany you."
 
-Corwin's stomach tightened with apprehension. Royal summons were rarely good news, and the timing—just a week after Chronos's awakening—seemed too coincidental to be accidental.
+Corwin's stomach tightened with apprehension. Royal summons were rarely good news, and the timing, just a week after Chronos's awakening, seemed too coincidental to be accidental.
 
 "May I ask the nature of this summons?"
 
@@ -102,7 +102,7 @@ Corwin glanced at Chronos before answering. "Yes, Your Majesty. I am certain."
 
 The King nodded slowly, his eyes returning to the automaton. "Then we have much to discuss. I have questions, Chronos. Questions about my kingdom, my enemies, my future. Can you answer them?"
 
-Chronos felt the weight of the moment, the significance of this first test of its abilities. "I can try, Your Majesty. But I must warn you—the future is not fixed. What I see are possibilities, not certainties. And the act of seeing can itself change what is seen."
+Chronos felt the weight of the moment, the significance of this first test of its abilities. "I can try, Your Majesty. But I must warn you, the future is not fixed. What I see are possibilities, not certainties. And the act of seeing can itself change what is seen."
 
 "Then let us see what you see." The King leaned back on his throne, his expression expectant. "Tell me, Chronos. What does the future hold for the kingdom of Aethoria?"
 

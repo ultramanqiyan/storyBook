@@ -2,7 +2,7 @@
 
 Michael decided to leave the campus.
 
-He needed to see where the students had gone—the ones who had chosen not to come, the ones who had left, the ones who had found alternatives to the traditional path.
+He needed to see where the students had gone, the ones who had chosen not to come, the ones who had left, the ones who had found alternatives to the traditional path.
 
 Alex came with him.
 
@@ -56,7 +56,7 @@ They visited a co-working space next, where freelancers and entrepreneurs worked
 
 The space was open and bright, with desks, meeting rooms, and a coffee bar. People worked on laptops, took calls, collaborated on projects. The atmosphere was professional but relaxed.
 
-"This is where the jobs went," said the manager, a woman named Priya. "Not to big companies, but to individuals working for themselves. Freelancers, consultants, creators. They don't need degrees—they need skills, connections, clients."
+"This is where the jobs went," said the manager, a woman named Priya. "Not to big companies, but to individuals working for themselves. Freelancers, consultants, creators. They don't need degrees, they need skills, connections, clients."
 
 "How do they get those things?"
 
@@ -69,7 +69,7 @@ Priya considered. "Maybe. But it would have to be different. Less about credenti
 
 They visited a community center that offered free classes to anyone who wanted to attend.
 
-The schedule was eclectic: cooking, gardening, music, art, writing, meditation, language exchange. The teachers were volunteers—retired professionals, passionate hobbyists, community members with skills to share.
+The schedule was eclectic: cooking, gardening, music, art, writing, meditation, language exchange. The teachers were volunteers, retired professionals, passionate hobbyists, community members with skills to share.
 
 "This is what education looks like when it's not about credentials," said the director, an elderly woman named Helen who had been running the center for thirty years. "People come because they want to learn, not because they need a degree. They learn because learning itself is valuable."
 
@@ -82,7 +82,7 @@ Alex was watching a group of people learning to play guitar. "This is what colle
 "Yes," Helen said. "But somewhere along the way, college became about credentials. About getting ahead. About proving yourself. We forgot that learning is its own reward."
 
 
-Their last stop was a home—a small apartment where a young woman named Maya lived with her two roommates.
+Their last stop was a home, a small apartment where a young woman named Maya lived with her two roommates.
 
 Maya had been accepted to several prestigious universities but had chosen to stay home instead. Now, at twenty, she was running a small business designing and selling handmade jewelry online.
 
@@ -90,7 +90,7 @@ Maya had been accepted to several prestigious universities but had chosen to sta
 
 "Do you miss the college experience?"
 
-"Sometimes. I miss having a built-in community, having people my age around all the time. But I've found community elsewhere—online groups, local meetups, other makers. And I don't miss the debt, the stress, the feeling that I was just going through the motions."
+"Sometimes. I miss having a built-in community, having people my age around all the time. But I've found community elsewhere, online groups, local meetups, other makers. And I don't miss the debt, the stress, the feeling that I was just going through the motions."
 
 "What would have made college worth it for you?"
 
@@ -101,11 +101,11 @@ That evening, Michael and Alex sat in the living room, processing what they'd se
 
 "It's not chaos," Alex said. "It's not people dropping out and giving up. It's people finding new paths. Building new systems."
 
-"I know," Michael said. "And those paths are better in some ways—cheaper, more practical, more aligned with the current reality. But they're also fragmented. Isolated. There's no structure, no support, no guarantee."
+"I know," Michael said. "And those paths are better in some ways, cheaper, more practical, more aligned with the current reality. But they're also fragmented. Isolated. There's no structure, no support, no guarantee."
 
 "Is that bad?"
 
-"I don't know. Maybe structure was always an illusion. Maybe the guarantee was always a lie." Michael stared at his notes. "But I keep thinking about what Helen said—that learning is its own reward. The university used to believe that. Somewhere along the way, we forgot."
+"I don't know. Maybe structure was always an illusion. Maybe the guarantee was always a lie." Michael stared at his notes. "But I keep thinking about what Helen said, that learning is its own reward. The university used to believe that. Somewhere along the way, we forgot."
 
 "So how do you remember?"
 
@@ -120,7 +120,7 @@ The next day, Michael returned to campus with a new perspective.
 
 The buildings were the same. The traditions were the same. The structures were the same. But he saw them differently now.
 
-The lecture halls weren't just places to transmit information—they could be spaces for dialogue and discovery. The libraries weren't just repositories of knowledge—they could be hubs for exploration and creation. The dormitories weren't just housing—they could be communities for growth and connection.
+The lecture halls weren't just places to transmit information, they could be spaces for dialogue and discovery. The libraries weren't just repositories of knowledge, they could be hubs for exploration and creation. The dormitories weren't just housing, they could be communities for growth and connection.
 
 The university had all the pieces of what it needed to be. It just needed to remember why it existed in the first place.
 

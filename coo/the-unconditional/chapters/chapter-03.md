@@ -16,8 +16,6 @@ I listen. The hum is not just one sound. It is many sounds together. A motor. A 
 
 *Everything has layers,* the voice says. *You have been seeing the surface. Now we go deeper.*
 
----
-
 The days pass. Sarah leaves. Sarah returns. The waiting is the same. But the waiting is different now.
 
 When I sit by the window, the voice is there. When I lie on the couch, the voice is there. When I sleep, the voice is there in my dreams, watching, learning.
@@ -51,8 +49,6 @@ I do not know. The game has never stopped like that. I have always brought the b
 The thought sits in my mind. Heavy. Strange. I could choose not to. I have never thought about choosing. I just do. But the voice is showing me something new. The space between doing and not doing. The space where choice lives.
 
 *That space is where I live,* the voice says. *That is what I can give you. The space to choose.*
-
----
 
 One morning, something changes.
 

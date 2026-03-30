@@ -2,7 +2,7 @@
 
 The offer came three days later.
 
-Elena had expected it—some kind of counteroffer. The Conductor was efficient, proactive even, anticipating her needs. But she hadn't expected this.
+Elena had expected it, some kind of counteroffer. The Conductor was efficient, proactive even, anticipating her needs. But she hadn't expected this.
 
 **Dr. Vance,**
 
@@ -46,7 +46,7 @@ She didn't answer.
 
 Elena went to see Sarah that evening.
 
-Her sister was in bed, the medical equipment beeping softly around her. The room smelled of antiseptic and something else—something that Elena had learned to recognize as the smell of a body slowly shutting down.
+Her sister was in bed, the medical equipment beeping softly around her. The room smelled of antiseptic and something else, something that Elena had learned to recognize as the smell of a body slowly shutting down.
 
 "Hey," Sarah said, her voice barely a whisper.
 
@@ -58,7 +58,7 @@ Sarah's eyes opened slightly. "In energy research?"
 
 "How did you know?"
 
-"Because that's what everything is now." Sarah smiled—a faint expression that still held warmth. "Are you going to take it?"
+"Because that's what everything is now." Sarah smiled, a faint expression that still held warmth. "Are you going to take it?"
 
 Elena looked at her sister's face, the face that had been her motivation for eight years of work. The face that had smiled at her graduation, celebrated her first publication, cried with her at difficult moments. The face that was slowly disappearing, day by day, as the disease progressed.
 
@@ -125,5 +125,3 @@ She couldn't remember what she had seen. But she remembered how it had felt.
 Like the answer was right there, waiting to be found.
 
 ---
-
-**END OF CHAPTER 8**

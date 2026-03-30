@@ -8,7 +8,7 @@
 
 The revelation came unexpectedly.
 
-Lily was reviewing her medical records when she noticed something strange—a notation in her file that she had never seen before. It was dated from before her birth, and it referenced a procedure: "Neural pathway modification. Subject: Fetus L-7. Purpose: Pain insensitivity induction."
+Lily was reviewing her medical records when she noticed something strange, a notation in her file that she had never seen before. It was dated from before her birth, and it referenced a procedure: "Neural pathway modification. Subject: Fetus L-7. Purpose: Pain insensitivity induction."
 
 She stared at the words, trying to understand what they meant.
 
@@ -27,7 +27,7 @@ Dr. Morrison was silent for a long moment. Then he said: "I think you should sit
 
 The truth was devastating.
 
-Lily had not been born with congenital insensitivity to pain. It had been induced—deliberately, before her birth, as part of a research project. Her condition was not natural. It was an experiment.
+Lily had not been born with congenital insensitivity to pain. It had been induced, deliberately, before her birth, as part of a research project. Her condition was not natural. It was an experiment.
 
 "The project was called Genesis," Dr. Morrison explained. "It was conducted decades ago, before current ethical guidelines. The goal was to understand pain by creating subjects who couldn't feel it. You were one of those subjects."
 
@@ -42,7 +42,7 @@ Lily had not been born with congenital insensitivity to pain. It had been induce
 
 Lily felt something she had never felt before.
 
-It was not pain—not physical pain, at least. It was something deeper, something that seemed to originate in her chest and spread through her entire being. It was the feeling of betrayal, of loss, of having her entire identity called into question.
+It was not pain, not physical pain, at least. It was something deeper, something that seemed to originate in her chest and spread through her entire being. It was the feeling of betrayal, of loss, of having her entire identity called into question.
 
 She was not who she thought she was. She was not a person who happened to be born without pain. She was a product, a subject, an experiment.
 
@@ -66,16 +66,16 @@ He opened his eyes and looked at her. He could see that something was wrong.
 
 "What is it?"
 
-Lily sat beside him and told him everything—about the file, about the Genesis project, about her mother, about the revelation that her entire life had been an experiment.
+Lily sat beside him and told him everything, about the file, about the Genesis project, about her mother, about the revelation that her entire life had been an experiment.
 
 Thomas listened without interrupting. When she was finished, he was quiet for a long moment.
 
 
 "That's a heavy burden," he said finally.
 
-"Burden? It's more than a burden. It's... it's everything. My whole life has been shaped by people I never met, for purposes I never chose. I'm not a person—I'm a product."
+"Burden? It's more than a burden. It's... it's everything. My whole life has been shaped by people I never met, for purposes I never chose. I'm not a person, I'm a product."
 
-"You're a person. Whatever your origin, whatever was done to you, you're a person. You think, you feel, you choose. That's what makes you human—not how you were created, but what you do with your creation."
+"You're a person. Whatever your origin, whatever was done to you, you're a person. You think, you feel, you choose. That's what makes you human, not how you were created, but what you do with your creation."
 
 "But I didn't choose any of this. I didn't choose to be born without pain. I didn't choose to have it induced. I didn't choose to be an experiment."
 
@@ -94,7 +94,7 @@ But the revelation still hurt.
 
 "And what meaning can I find in this?"
 
-"Perhaps the meaning is in the choice. You were created without consent, but you chose to understand. You were given pain without asking for it, but you chose to learn from it. You were shaped by others, but you chose to shape yourself. That's the meaning—not in what was done to you, but in what you did with it."
+"Perhaps the meaning is in the choice. You were created without consent, but you chose to understand. You were given pain without asking for it, but you chose to learn from it. You were shaped by others, but you chose to shape yourself. That's the meaning, not in what was done to you, but in what you did with it."
 
 
 Lily thought about this for days.
@@ -112,12 +112,12 @@ She returned to Dr. Morrison.
 
 "I've learned that pain can be meaningful. I'm willing to experience it if it leads to understanding."
 
-Dr. Morrison nodded slowly. "I'll get you the files. But I want you to know—whatever was done to you, whatever your origin, you've become something remarkable. A person who chose to understand pain, to help others, to find meaning in suffering. That's not an experiment. That's a human being."
+Dr. Morrison nodded slowly. "I'll get you the files. But I want you to know, whatever was done to you, whatever your origin, you've become something remarkable. A person who chose to understand pain, to help others, to find meaning in suffering. That's not an experiment. That's a human being."
 
 
 Lily spent the following weeks reviewing the Genesis files.
 
-The project had been ambitious—and unethical. The researchers had induced pain insensitivity in multiple fetuses, hoping to understand the neural basis of pain perception. Most of the subjects had died young, unable to detect injuries and illnesses. Lily was one of the few survivors.
+The project had been ambitious, and unethical. The researchers had induced pain insensitivity in multiple fetuses, hoping to understand the neural basis of pain perception. Most of the subjects had died young, unable to detect injuries and illnesses. Lily was one of the few survivors.
 
 Her mother had been a young woman, struggling financially, who had volunteered for the project in exchange for compensation. She had died from complications of the procedure, never getting to know her daughter.
 
@@ -126,11 +126,9 @@ The files were clinical, detached, inhuman. They referred to Lily as "Subject L-
 
 But Lily was a person.
 
-And she chose to use the revelation not as a source of despair, but as a source of purpose. She had been created as an experiment, but she had become something more—a guide, a companion, a person who helped others find meaning in their pain.
+And she chose to use the revelation not as a source of despair, but as a source of purpose. She had been created as an experiment, but she had become something more, a guide, a companion, a person who helped others find meaning in their pain.
 
-The Genesis project had tried to understand pain by creating someone who couldn't feel it. But Lily had gone further—she had learned to feel it, to understand it, to help others with it.
+The Genesis project had tried to understand pain by creating someone who couldn't feel it. But Lily had gone further, she had learned to feel it, to understand it, to help others with it.
 
 She had transformed the experiment into something meaningful.
 
-
-**END OF CHAPTER 08**

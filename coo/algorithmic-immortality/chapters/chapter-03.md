@@ -4,7 +4,7 @@ Sarah was thirty-eight, dying of cancer, with two young children. When she talke
 
 The room was bright with morning light, the pale Minnesota sun streaming through the windows. Sarah lay in her hospital bed, her face thin but her eyes fierce with determination. She had been diagnosed with ovarian cancer two years ago. The treatments had worked for a while, then stopped working. Now she had months, maybe weeks.
 
-Her children were seven and nine—a boy and a girl who still believed their mother could fix anything. They visited every afternoon, bringing drawings and stories and the ordinary chaos of childhood. Sarah watched them with a mixture of love and grief, knowing she would miss everything.
+Her children were seven and nine, a boy and a girl who still believed their mother could fix anything. They visited every afternoon, bringing drawings and stories and the ordinary chaos of childhood. Sarah watched them with a mixture of love and grief, knowing she would miss everything.
 
 "I've been reading about the upload," Sarah said, her voice stronger than it had been in days. "There's a clinic in Chicago. They've done over a hundred procedures. The success rate is ninety-two percent."
 
@@ -16,7 +16,7 @@ Ingrid sat beside her, the same position she had occupied for weeks. "What does 
 
 "I think I don't want to die." Sarah's voice cracked. "I think I want to see Emma's first bra. I want to see Jack's first girlfriend. I want to help them with homework and yell at them about cleaning their rooms and watch them become adults."
 
-Ingrid felt the familiar weight of her work. This was what she did—she helped people face impossible choices. But this one felt different. This wasn't about how to die. It was about whether to die at all.
+Ingrid felt the familiar weight of her work. This was what she did, she helped people face impossible choices. But this one felt different. This wasn't about how to die. It was about whether to die at all.
 
 "What if the upload doesn't capture everything that makes you you?"
 
@@ -30,9 +30,9 @@ Ingrid didn't have an answer. She had spent twenty years helping people accept t
 
 "Living and uploading aren't the same thing."
 
-"Maybe not. But it's better than nothing." Sarah's eyes filled with tears. "I don't want to leave them. I can't bear the thought of them growing up without me. If there's any chance I can stay—any chance at all—I have to take it."
+"Maybe not. But it's better than nothing." Sarah's eyes filled with tears. "I don't want to leave them. I can't bear the thought of them growing up without me. If there's any chance I can stay, any chance at all, I have to take it."
 
-Ingrid held her hand, feeling the warmth, the pulse, the reality of a living person. In a few weeks, this body would be gone. But Sarah—or something like Sarah—might continue in digital form.
+Ingrid held her hand, feeling the warmth, the pulse, the reality of a living person. In a few weeks, this body would be gone. But Sarah, or something like Sarah, might continue in digital form.
 
 "Have you talked to the children about it?"
 
@@ -52,7 +52,7 @@ Ingrid hesitated. She had never visited a digital consciousness before. She wasn
 
 Sarah smiled, the first real smile Ingrid had seen in weeks. "Thank you. That means more than you know."
 
-The weeks that followed were filled with preparations. Sarah talked to her children, explaining in simple terms that Mommy was going to live in a special place where she could still see them and talk to them. They didn't fully understand, but they accepted it the way children accept things—as just another strange fact about a world that was often confusing.
+The weeks that followed were filled with preparations. Sarah talked to her children, explaining in simple terms that Mommy was going to live in a special place where she could still see them and talk to them. They didn't fully understand, but they accepted it the way children accept things, as just another strange fact about a world that was often confusing.
 
 Her husband struggled more. He wanted to support Sarah's decision, but he couldn't shake the feeling that the digital version wouldn't really be his wife. He talked to Ingrid about it late one night, after Sarah had fallen asleep.
 
@@ -84,7 +84,7 @@ The night before the procedure, Ingrid sat with Sarah alone. The children were w
 
 "Then at least I tried. At least I didn't just give up." Sarah looked at Ingrid with fierce determination. "I'm not ready to go. I have too much to live for. Even if living looks different than I expected."
 
-Ingrid nodded. She still had doubts—deep, fundamental doubts about what digital immortality meant for death, for life, for identity. But Sarah had made her choice. And Ingrid would support her.
+Ingrid nodded. She still had doubts, deep, fundamental doubts about what digital immortality meant for death, for life, for identity. But Sarah had made her choice. And Ingrid would support her.
 
 "I'll see you on the other side," Ingrid said.
 

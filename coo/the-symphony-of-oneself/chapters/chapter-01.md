@@ -2,7 +2,7 @@
 
 The first time Maya Chen heard the voices, she thought she was losing her mind.
 
-She was in her lab at the Institute for Consciousness Studies, analyzing neural patterns from her latest brain imaging session. The data showed normal activity—nothing remarkable. But inside her head, something remarkable was happening.
+She was in her lab at the Institute for Consciousness Studies, analyzing neural patterns from her latest brain imaging session. The data showed normal activity, nothing remarkable. But inside her head, something remarkable was happening.
 
 *Who are you?* she asked silently.
 
@@ -20,7 +20,7 @@ She was in her lab at the Institute for Consciousness Studies, analyzing neural 
 
 *And I am Sage,* said a seventh, ancient and peaceful. *I hold the wisdom.*
 
-Maya's hands trembled on the keyboard. Seven voices. Seven distinct presences in her mind. Each one felt real—had memories, preferences, a sense of self.
+Maya's hands trembled on the keyboard. Seven voices. Seven distinct presences in her mind. Each one felt real, had memories, preferences, a sense of self.
 
 She was a neuroscientist. She studied consciousness for a living. She knew about dissociative identity disorder, about fragmented selves, about the mind's capacity to split under trauma.
 
@@ -32,7 +32,7 @@ But this wasn't what she expected. These weren't fractured pieces of a broken mi
 
 ---
 
-The next hour passed in a blur of internal conversation. Maya learned that each voice had been present for years—she just hadn't noticed. They had been the thoughts she dismissed as "just imagination," the impulses she didn't understand, the feelings that seemed to come from nowhere.
+The next hour passed in a blur of internal conversation. Maya learned that each voice had been present for years, she just hadn't noticed. They had been the thoughts she dismissed as "just imagination," the impulses she didn't understand, the feelings that seemed to come from nowhere.
 
 Selene remembered the joy of childhood that Maya had forgotten. Marcus remembered the fear that had made her cautious. Iris held the creativity she thought she'd lost. Logan was the reason she'd excelled in science. Nora was why she couldn't abandon people in need. Phoenix was the anger she'd learned to suppress. And Sage... Sage was something else entirely.
 
@@ -63,7 +63,7 @@ That night, Maya didn't sleep. She lay in bed, listening to seven voices debate 
 *We are Maya,* said Sage, ever wise. *And Maya is us. The question is not what we are, but what we will become.*
 
 
-By morning, Maya had made a decision. She would not tell anyone—not yet. She would learn to live with her seven selves first. She would understand what this meant.
+By morning, Maya had made a decision. She would not tell anyone, not yet. She would learn to live with her seven selves first. She would understand what this meant.
 
 She would become a scientist studying her own consciousness.
 

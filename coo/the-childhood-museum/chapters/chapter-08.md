@@ -18,7 +18,7 @@ She learned that Marcus had a temper, and that when he was angry, he threw thing
 
 She learned that Lily had nightmares, and that sometimes she woke up screaming. Emma learned to sit beside her and hold her hand until the shaking stopped.
 
-She learned that David knew stories—real stories about the outside world, passed down from children who had been there before. He told them in whispers after lights out, and Emma listened with her whole body.
+She learned that David knew stories, real stories about the outside world, passed down from children who had been there before. He told them in whispers after lights out, and Emma listened with her whole body.
 
 
 "Is the outside real?" Emma asked one night.
@@ -32,7 +32,7 @@ David nodded. "My older sister was transferred out. Before they sent me down her
 
 Emma tried to imagine it.
 
-She had seen pictures of oceans in the books upstairs. Perfect pictures with perfect blue water and perfect white sand. But David's ocean was different—rough, wild, untamed.
+She had seen pictures of oceans in the books upstairs. Perfect pictures with perfect blue water and perfect white sand. But David's ocean was different, rough, wild, untamed.
 
 She wanted to see it.
 
@@ -44,7 +44,7 @@ David shook his head. "The doors are locked. The walls are thick. And even if we
 
 Emma felt something twist in her chest.
 
-It wasn't anger—not exactly. It was something deeper. A hunger. A need.
+It wasn't anger, not exactly. It was something deeper. A hunger. A need.
 
 She wanted more than this basement. She wanted more than the perfect world upstairs. She wanted something real.
 
@@ -93,7 +93,7 @@ That afternoon, Emma did something she had never done before.
 She started a fight.
 
 
-It wasn't planned. Marcus had been bullying one of the younger children—taking his food, pushing him around. Emma had watched it happen for days, saying nothing, staying out of the way.
+It wasn't planned. Marcus had been bullying one of the younger children, taking his food, pushing him around. Emma had watched it happen for days, saying nothing, staying out of the way.
 
 But today, something snapped.
 
@@ -114,7 +114,7 @@ Emma stepped forward.
 
 The fight was short and ugly.
 
-Marcus was bigger and stronger. He pushed Emma down, pinned her to the ground. She struggled, kicked, scratched. He hit her once—hard—across the face.
+Marcus was bigger and stronger. He pushed Emma down, pinned her to the ground. She struggled, kicked, scratched. He hit her once, hard, across the face.
 
 Then Sarah and David pulled him off.
 
@@ -138,7 +138,7 @@ Sarah helped her sit up.
 
 "How does it feel?"
 
-Emma thought about it. The pain was sharp and immediate. But beneath the pain was something else—pride. She had stood up for someone. She had fought for something. She had been real.
+Emma thought about it. The pain was sharp and immediate. But beneath the pain was something else, pride. She had stood up for someone. She had fought for something. She had been real.
 
 "Good," Emma said. "It feels good."
 
@@ -156,5 +156,3 @@ Not happy. Not comfortable. Not perfect.
 
 But real.
 
-
-**END OF CHAPTER 08**

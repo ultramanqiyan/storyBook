@@ -18,7 +18,7 @@ He was sitting in a coffee shop, late at night, working on a personal project. N
 
 *What was I building?* he wondered. *What was that project?*
 
-He couldn't remember. The details had faded, lost in the flood of AI-generated projects that had followed. But the feeling remained—the excitement of creating something from nothing, the joy of solving a problem he'd set for himself, the satisfaction of building without optimization.
+He couldn't remember. The details had faded, lost in the flood of AI-generated projects that had followed. But the feeling remained, the excitement of creating something from nothing, the joy of solving a problem he'd set for himself, the satisfaction of building without optimization.
 
 *When did I last feel that?* he wondered. *When did I last create something just because I wanted to?*
 
@@ -32,7 +32,7 @@ He was in a meeting, years ago, arguing with a colleague about an architectural 
 
 *What was the decision?* he tried to recall. *What was I arguing for?*
 
-Again, the details were lost. But the feeling remained—the engagement, the conviction, the willingness to stand for something. The AI now made all his architectural decisions. It provided the optimal approach, the trade-off analysis, the recommendation. He hadn't argued about architecture in years. He hadn't needed to. The AI always had the answer.
+Again, the details were lost. But the feeling remained, the engagement, the conviction, the willingness to stand for something. The AI now made all his architectural decisions. It provided the optimal approach, the trade-off analysis, the recommendation. He hadn't argued about architecture in years. He hadn't needed to. The AI always had the answer.
 
 *What happened to my convictions?* he wondered. *What happened to my willingness to fight for what I believe?*
 
@@ -42,7 +42,7 @@ The answer was obvious: they had atrophied. Like muscles unused, like skills unp
 
 A third memory came, unbidden.
 
-He was standing in his kitchen, cooking dinner for Sarah. It was their anniversary, maybe the fifth one. He'd spent hours planning the meal, choosing the ingredients, preparing each dish. The food wasn't perfect—some things were overcooked, others underseasoned. But it was made with love, with intention, with the desire to create something special for someone he loved.
+He was standing in his kitchen, cooking dinner for Sarah. It was their anniversary, maybe the fifth one. He'd spent hours planning the meal, choosing the ingredients, preparing each dish. The food wasn't perfect, some things were overcooked, others underseasoned. But it was made with love, with intention, with the desire to create something special for someone he loved.
 
 *When did I last cook without AI assistance?* he wondered. *When did I last make something just for the joy of making it?*
 
@@ -86,5 +86,3 @@ Sarah sat beside him, her hand on his shoulder, her presence a comfort in the st
 
 The questions had no answers. But for the first time in years, Marcus was asking them. And that, he thought, was a beginning.
 
-
-**END OF CHAPTER 3**

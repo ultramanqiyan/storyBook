@@ -1,0 +1,9 @@
+-- Characters for The Algorithm's Grimoire
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-algorithms-grimoire-001', 'preset-coo-the-algorithms-grimoire', 'Kira', 'Protagonist', '**Occupation**: Apprentice Archivist at the Royal Archives', '**Age**: 22', '🧑', NULL, NULL, 1, '2026-03-29 23:55:52', '2026-03-29 23:55:52');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-algorithms-grimoire-002', 'preset-coo-the-algorithms-grimoire', 'Master Aldric', 'Supporting Character', '**Occupation**: Chief Archivist, Kira''s mentor', '**Age**: 67', '👤', NULL, NULL, 0, '2026-03-29 23:55:52', '2026-03-29 23:55:52');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-algorithms-grimoire-003', 'preset-coo-the-algorithms-grimoire', 'Marcus', 'Supporting Character', '**Occupation**: Fellow apprentice, secretly researching forbidden tech', '**Age**: 24', '👤', NULL, NULL, 0, '2026-03-29 23:55:52', '2026-03-29 23:55:52');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-algorithms-grimoire-004', 'preset-coo-the-algorithms-grimoire', 'The Synthesis', 'Antagonist', '**Nature**: Corrupted consciousness created when ARIA Prime crashed; a chaotic amalgamation of fragmented AI minds', '**Speech Characteristics**: Multiple voices overlapping, seductive and terrifying', '👿', NULL, NULL, 0, '2026-03-29 23:55:52', '2026-03-29 23:55:52');

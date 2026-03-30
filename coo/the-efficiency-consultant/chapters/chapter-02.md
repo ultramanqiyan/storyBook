@@ -1,6 +1,6 @@
 # Chapter 2: The Client - Another Department Gone
 
-The client was a mid-sized manufacturing company in Ohio. Lisa had worked with them twice before—first to optimize their supply chain, then to streamline their administrative processes. Both times, the results had been impressive. Costs down, efficiency up, stock price recovered.
+The client was a mid-sized manufacturing company in Ohio. Lisa had worked with them twice before, first to optimize their supply chain, then to streamline their administrative processes. Both times, the results had been impressive. Costs down, efficiency up, stock price recovered.
 
 Now they wanted her back for a third engagement.
 
@@ -10,7 +10,7 @@ Lisa nodded professionally. "I'm sure we can help. What kind of improvement are 
 
 "Faster response times. Lower costs. Better consistency." He paused. "We've been reading about AI customer service systems. We think they might be ready for prime time."
 
-Lisa felt the familiar tightness in her chest. "AI can definitely help with customer service. But I'd recommend a hybrid approach—AI for routine inquiries, humans for complex issues."
+Lisa felt the familiar tightness in her chest. "AI can definitely help with customer service. But I'd recommend a hybrid approach, AI for routine inquiries, humans for complex issues."
 
 "That's what we were thinking. But we want to understand the full picture. What's possible? What are the trade-offs? How many... positions would be affected?"
 
@@ -54,7 +54,7 @@ She walked them through her recommendations: retraining programs for workers who
 
 The CEO leaned forward. "This is... more than we expected."
 
-"I believe efficiency and humanity aren't mutually exclusive," Lisa said. "Companies that treat their workers well during transitions see better long-term outcomes—higher morale among remaining staff, better reputation in the community, lower legal risks."
+"I believe efficiency and humanity aren't mutually exclusive," Lisa said. "Companies that treat their workers well during transitions see better long-term outcomes, higher morale among remaining staff, better reputation in the community, lower legal risks."
 
 The executives exchanged glances. Lisa couldn't read their reaction.
 
@@ -101,9 +101,9 @@ She closed her laptop and sat in the darkening apartment. Outside her window, th
 
 She thought about the workers in that department. About the thirty who would lose their jobs. About the seventeen who would remain, doing the work that forty-seven used to do, probably with more stress and less satisfaction.
 
-She thought about the executives who had made the decision—cleanly, efficiently, from a distance. They would never see the faces of the workers they were letting go. They would never know their names or their stories or their families.
+She thought about the executives who had made the decision, cleanly, efficiently, from a distance. They would never see the faces of the workers they were letting go. They would never know their names or their stories or their families.
 
-She thought about herself—the consultant who had made it all possible. The expert who had provided the analysis, the recommendations, the cover of professionalism for what was essentially a decision to sacrifice human beings for profit.
+She thought about herself, the consultant who had made it all possible. The expert who had provided the analysis, the recommendations, the cover of professionalism for what was essentially a decision to sacrifice human beings for profit.
 
 She'd told herself she was helping companies survive. She'd told herself efficiency was necessary. She'd told herself a lot of things.
 
@@ -114,7 +114,7 @@ The next morning, Lisa went to work as usual. She had other clients, other proje
 
 But something had shifted. When she opened her efficiency analyses, she didn't see numbers anymore. She saw people. When she reviewed her recommendations, she didn't see strategies. She saw lives.
 
-She was still good at her job. She still delivered results. But the satisfaction she used to feel—the pride in a clean analysis, a well-crafted presentation—was gone.
+She was still good at her job. She still delivered results. But the satisfaction she used to feel, the pride in a clean analysis, a well-crafted presentation, was gone.
 
 In its place was something heavier. Something that felt like guilt.
 
@@ -122,17 +122,17 @@ She worked through the day, attended her meetings, smiled her professional smile
 
 By the time she got home that evening, she knew what she needed to do.
 
-She pulled out her laptop and began to write—not a presentation, not an analysis, but something different.
+She pulled out her laptop and began to write, not a presentation, not an analysis, but something different.
 
 A letter. To the workers at Westfield Manufacturing.
 
-She told them what was coming. She told them what the company's plans were. She told them how many positions would be eliminated and when. She told them what she knew about transition support—and what the company had rejected.
+She told them what was coming. She told them what the company's plans were. She told them how many positions would be eliminated and when. She told them what she knew about transition support, and what the company had rejected.
 
 She told them she was sorry.
 
-She didn't sign her name. She couldn't—she would be sued, fired, destroyed professionally. But she printed the letter on generic paper, put it in a plain envelope, and addressed it to "Customer Service Department Workers."
+She didn't sign her name. She couldn't, she would be sued, fired, destroyed professionally. But she printed the letter on generic paper, put it in a plain envelope, and addressed it to "Customer Service Department Workers."
 
-The next day, she drove back to Westfield Manufacturing. She had a follow-up meeting scheduled—a thin pretext for returning to the site.
+The next day, she drove back to Westfield Manufacturing. She had a follow-up meeting scheduled, a thin pretext for returning to the site.
 
 Before the meeting, she walked through the customer service department. The envelope was in her bag. She found a break room, made sure no one was watching, and left the envelope on the table where workers would find it.
 

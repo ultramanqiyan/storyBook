@@ -50,8 +50,6 @@ They embraced, tears flowing freely. The forest watched, the trees swaying gentl
 
 *"The network begins,"* the Grove Collective said. *"One by one, they will come. And when all seven are gathered, the forest will be ready for whatever comes."*
 
----
-
 Over the next three days, five more arrived. A young man named David who had been a botanist until he lost his job for talking to plants. An older woman named Ruth who had spent her life as a park ranger, always feeling like she belonged more to the forest than to the world of humans. A teenager named Luna who had run away from home because she could not stand the noise of the city. A retired doctor named Thomas who had started hearing voices after a near-death experience. And a man named James who had been searching for something his whole life without knowing what it was.
 
 They came from different places, different lives, different struggles. But they all had one thing in common. They had heard the call of the Green, and they had answered.
@@ -77,8 +75,6 @@ One by one, the others nodded. They were scared, Elara could see that. But they 
 *"We will help,"* NEURAL said. *"We have learned much in the past few days. The forest is eager to teach. It has been waiting so long for someone to listen."*
 
 The training began.
-
----
 
 By the end of the week, the network was taking shape. The seven guardians stood in a circle around the clearing where the seed was buried, each one connected to a direction, each one feeling the Green flowing through them like electricity through a wire.
 

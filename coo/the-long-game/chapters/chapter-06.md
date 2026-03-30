@@ -1,6 +1,6 @@
 # Chapter 6: The Test
 
-Six weeks later, the customer portal launched. It wasn't perfect. Nothing ever was. But it was solid. The foundation was strong. And when the first round of feedback came in, the changes were minor—not the catastrophic rewrites Michael was used to.
+Six weeks later, the customer portal launched. It wasn't perfect. Nothing ever was. But it was solid. The foundation was strong. And when the first round of feedback came in, the changes were minor, not the catastrophic rewrites Michael was used to.
 
 "You built this differently," David said on their weekly call. "I can tell. It's... more thoughtful."
 
@@ -12,7 +12,7 @@ Michael didn't know how to respond. "Thanks. I've been trying some new approache
 
 The office was in downtown Austin, a glass building that seemed to embody everything Michael had been trying to escape. He walked through the lobby, past the rushing people, the flickering screens, the sense of constant urgency.
 
- David's office was on the fourteenth floor. The view was spectacular—thethe city spread out below, the hills in the distance, the cranes still building.
+ David's office was on the fourteenth floor. The view was spectacular, thethe city spread out below, the hills in the distance, the cranes still building.
 
 "I have an opportunity for you," David said, getting straight to the point. "A big one. The company is launching a new product line. We need someone to build the technical infrastructure. It's a two-year project."
 
@@ -23,16 +23,16 @@ The office was in downtown Austin, a glass building that seemed to embody everyt
 
 Michael walked out of the building in a daze.
 
- Two years. A real long game. The kind of project that would require patience, planning, endurance—not just sprints and fixes.
+ Two years. A real long game. The kind of project that would require patience, planning, endurance, not just sprints and fixes.
 
  The old voice kicked in immediately: *That's too long. You'll miss other opportunities. You'll fall behind. You need to stay flexible.*
 
- But another voice was there too—quieter, but growing stronger: *This is what you've been learning. This is the long game. This is what it looks like*
+ But another voice was there too, quieter, but growing stronger: *This is what you've been learning. This is the long game. This is what it looks like*
 
  He pulled out his phone and called Jake.
 
 
-They met at the workshop that evening. Michael explained the opportunity while Jake worked on the table—still the same table, still not quite finished.
+They met at the workshop that evening. Michael explained the opportunity while Jake worked on the table, still the same table, still not quite finished.
 
  Two years," Jake said. "That's a real commitment."
 
@@ -46,7 +46,7 @@ Jake set down his plane and looked at Michael. "Let me ask you something. What's
 
  None of them," he admitted. "They're all gone. Rewritten. Forgotten."
 
- And this project—two years. Would it matter?"
+ And this project, two years. Would it matter?"
 
  Michael thought about the infrastructure he'd build, the foundation he'd create, the systems that would support a product line for years to come.
 

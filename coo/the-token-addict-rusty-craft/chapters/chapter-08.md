@@ -18,7 +18,7 @@ Now, he watched. And forwarded AI suggestions. And called it leadership.
 
 *What am I actually contributing?* The question was brutal. *What value do I add that isn't just AI output?*
 
-He tried to answer. Tried to find something—anything—that was genuinely his.
+He tried to answer. Tried to find something, anything, that was genuinely his.
 
 The architecture decisions? ThinkTank generated them. The code reviews? CodeForge suggested them. The technical guidance? All borrowed from algorithms.
 
@@ -34,7 +34,7 @@ Not a tech lead. An AI translator.
 
 The grief hit him unexpectedly.
 
-Not sadness—something deeper. A mourning for the person he'd been. The coder who could build things. The engineer who understood systems. The craftsman who took pride in his work.
+Not sadness, something deeper. A mourning for the person he'd been. The coder who could build things. The engineer who understood systems. The craftsman who took pride in his work.
 
 That person was gone. Replaced by a translator. A conduit. A hollow shell.
 
@@ -42,7 +42,7 @@ That person was gone. Replaced by a translator. A conduit. A hollow shell.
 
 He tried to remember the last time he'd felt genuine pride in his work.
 
-Not the satisfaction of a completed project. Not the relief of a problem solved. But real pride—the kind that comes from creating something with your own hands.
+Not the satisfaction of a completed project. Not the relief of a problem solved. But real pride, the kind that comes from creating something with your own hands.
 
 The memory was distant. Years ago. Before AI had taken over.
 
@@ -112,5 +112,3 @@ The grief was real. But so was the acceptance.
 
 And acceptance, he was learning, was the only way forward.
 
-
-**END OF CHAPTER 8**

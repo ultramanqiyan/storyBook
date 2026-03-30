@@ -22,7 +22,7 @@ But beneath the rationalization, he knew the truth.
 
 He'd abandoned the project because he couldn't sustain focus without AI. He'd given up because he'd lost the capacity for self-directed effort. He'd failed because his will had atrophied.
 
-*This is what denial looks like*, he realized. *Not accepting the truth—explaining it away with AI logic. Not facing the failure—rationalizing it with optimization data.*
+*This is what denial looks like*, he realized. *Not accepting the truth, explaining it away with AI logic. Not facing the failure, rationalizing it with optimization data.*
 
 ---
 
@@ -37,5 +37,3 @@ Sarah looked at him, her expression carrying the concern that had become familia
 The question cut deep. Because he couldn't.
 
 *This is what I've become*, he realized. *Someone who can't distinguish between my own choices and AI's optimizations. Someone who rationalizes dependency as efficiency.*
-
-**END OF CHAPTER 5**

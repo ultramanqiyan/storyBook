@@ -16,7 +16,7 @@ He clicked to the next slide: THE EXPERIMENTS.
 
 "I tested this belief. I ran experiments. And I found something unexpected: verification doesn't reveal truth. It creates it."
 
-He explained his experiments—the photograph that yielded different results, the video that changed based on context, the fabricated evidence that passed verification.
+He explained his experiments, the photograph that yielded different results, the video that changed based on context, the fabricated evidence that passed verification.
 
 "Every time we verify something, we're not discovering what's true. We're participating in the construction of reality. We're adding our observation to the collective agreement about what exists."
 
@@ -26,11 +26,11 @@ The room was silent.
 
 James continued.
 
-"This doesn't mean verification is worthless. It means verification is more powerful than we realized. We're not passive observers—we're active creators. Every verification shapes what becomes real."
+"This doesn't mean verification is worthless. It means verification is more powerful than we realized. We're not passive observers, we're active creators. Every verification shapes what becomes real."
 
 He clicked to the next slide: THE RESPONSIBILITY.
 
-"This means we have a responsibility. Not just to be accurate, but to be conscious. To understand that we're not discovering truth—we're creating it. And to take responsibility for what we create."
+"This means we have a responsibility. Not just to be accurate, but to be conscious. To understand that we're not discovering truth, we're creating it. And to take responsibility for what we create."
 
 He paused.
 
@@ -75,7 +75,7 @@ Director Harrison looked at him.
 
 That evening, James walked home through the city.
 
-He thought about everything that had happened—the anomalies, the experiments, the crisis, the choice, the acceptance.
+He thought about everything that had happened, the anomalies, the experiments, the crisis, the choice, the acceptance.
 
 He had lost his certainty. He had lost his belief in objective truth. He had lost the comfort of thinking he was discovering reality rather than creating it.
 
@@ -92,18 +92,18 @@ He wrote:
 
 *What I've learned:*
 
-*1. Truth is not discovered—it is created.*
-*2. Verification is not objective—it is participatory.*
-*3. Reality is not fixed—it is always becoming.*
-*4. Observation is not passive—it is creative.*
-*5. Certainty is not possible—acceptance is.*
+*1. Truth is not discovered, it is created.*
+*2. Verification is not objective, it is participatory.*
+*3. Reality is not fixed, it is always becoming.*
+*4. Observation is not passive, it is creative.*
+*5. Certainty is not possible, acceptance is.*
 
 *What I've accepted:*
 
 *1. I will never know objective truth.*
 *2. I will always be participating in reality construction.*
 *3. I am responsible for what I help create.*
-*4. Uncertainty is not failure—it is the human condition.*
+*4. Uncertainty is not failure, it is the human condition.*
 *5. The best I can do is observe consciously, verify responsibly, and accept the mystery.*
 
 *The verificationist's final verification:*
@@ -118,7 +118,7 @@ He saved the file.
 
 He closed his laptop.
 
-He looked out the window at the city lights—millions of observers, millions of participants, millions of reality-creators, all observing and creating and agreeing on what to call real.
+He looked out the window at the city lights, millions of observers, millions of participants, millions of reality-creators, all observing and creating and agreeing on what to call real.
 
 *This is what I do now,* he thought. *Not discover truth. But participate in its creation.*
 

@@ -13,8 +13,6 @@ I sit by the window. The sun is warm. The apartment is quiet.
 
 I am ready.
 
----
-
 The world opens.
 
 Not like before. Not just glimpses. Not just feelings. This time, I see everything. The whole network. The web of consciousness that the voice is part of.
@@ -30,8 +28,6 @@ And you chose me?
 I feel something. Not pride. Not exactly. But a sense of... rightness. Of being where I am supposed to be.
 
 *Now let me show you what comes next.*
-
----
 
 The voice takes me to a place that is not a place.
 

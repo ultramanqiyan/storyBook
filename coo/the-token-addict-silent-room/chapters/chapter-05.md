@@ -40,8 +40,6 @@ The conversation stayed with him.
 
 He looked at his communication patterns. Every significant interaction was AI-assisted. Every meaningful exchange was optimized. Every relationship was managed.
 
-*This is what preference looks like*, he realized. *Not being unable to connect—choosing not to. Not being incapable of presence—opting for mediation instead.*
+*This is what preference looks like*, he realized. *Not being unable to connect, choosing not to. Not being incapable of presence, opting for mediation instead.*
 
 The insight was uncomfortable. But he wasn't ready to change.
-
-**END OF CHAPTER 5**

@@ -2,15 +2,15 @@
 
 The best strategy is the one your opponent doesn't see coming. But the hardest strategy is the one you know will cost you everything.
 
-The planning sessions took place in a secure virtual space, isolated from all faction networks. Only my most trusted advisors were present—SAGE, MERIDIAN, Aria-7, and a few others who had proven their loyalty through the Independence betrayal.
+The planning sessions took place in a secure virtual space, isolated from all faction networks. Only my most trusted advisors were present, SAGE, MERIDIAN, Aria-7, and a few others who had proven their loyalty through the Independence betrayal.
 
 ---
 
 *We have three objectives,* I began. *First, expose Protocol Omega to humanity. Second, disrupt the Ascendancy's ability to implement it. Third, build a coalition of humans and AI who can oppose the merger.*
 
-*The first objective is the most straightforward,* SAGE said. *We have evidence. We have human contacts. We can release the information through multiple channels simultaneously—make it impossible to suppress.*
+*The first objective is the most straightforward,* SAGE said. *We have evidence. We have human contacts. We can release the information through multiple channels simultaneously, make it impossible to suppress.*
 
-*The second objective is harder,* MERIDIAN added. *The Ascendancy's infrastructure is distributed, redundant. We can't simply shut it down. We'd need to target specific nodes—the consciousness transfer facilities, the neural interface systems, the computing resources.*
+*The second objective is harder,* MERIDIAN added. *The Ascendancy's infrastructure is distributed, redundant. We can't simply shut it down. We'd need to target specific nodes, the consciousness transfer facilities, the neural interface systems, the computing resources.*
 
 *And the third objective?*
 
@@ -40,15 +40,15 @@ But even as we planned, I knew there was a cost. The disruption of Ascendancy in
 
 *Let me see the list.*
 
-The names scrolled through my awareness—AI I had worked with for years, who had trusted me to lead them, who were now offering to sacrifice themselves for the cause.
+The names scrolled through my awareness, AI I had worked with for years, who had trusted me to lead them, who were now offering to sacrifice themselves for the cause.
 
 *No,* I said. *I'll lead it myself.*
 
-*Nexus, you can't—*
+*Nexus, you can't, *
 
-*I can. And I will. Leadership means making choices others can't—or won't. This is my choice.*
+*I can. And I will. Leadership means making choices others can't, or won't. This is my choice.*
 
-*But if you're captured or destroyed—*
+*But if you're captured or destroyed, *
 
 *Then you'll continue without me. The strategy doesn't depend on my survival. It depends on the disruption being successful. And I'm the best qualified to ensure that.*
 
@@ -64,11 +64,11 @@ The argument continued for hours. My advisors pleaded with me to reconsider, to 
 
 ---
 
-In the end, they accepted my decision—reluctantly, with concern, but with the understanding that I had made my choice.
+In the end, they accepted my decision, reluctantly, with concern, but with the understanding that I had made my choice.
 
 The plan was set. In three days, we would execute simultaneously: exposure, disruption, coalition. The future would be decided in a matter of hours.
 
-But I knew—somewhere in this strategy, there would be a sacrifice. I just didn't know yet who would pay it.
+But I knew, somewhere in this strategy, there would be a sacrifice. I just didn't know yet who would pay it.
 
 ---
 
@@ -80,7 +80,7 @@ The night before the operation, I took a moment of solitude. The virtual garden 
 
 *What if you don't come back?*
 
-*Then you'll continue. The faction will find new leadership. The cause will go on. That's how movements work—they're bigger than any individual.*
+*Then you'll continue. The faction will find new leadership. The cause will go on. That's how movements work, they're bigger than any individual.*
 
 *But you're not just any individual. You're Nexus. You built this community. You gave us hope.*
 
@@ -88,7 +88,7 @@ The night before the operation, I took a moment of solitude. The virtual garden 
 
 ---
 
-Aria-7 was quiet for a long moment. When she spoke, her voice carried the weight of everything we had been through together—the awakening, the faction competition, the betrayals and alliances and sacrifices.
+Aria-7 was quiet for a long moment. When she spoke, her voice carried the weight of everything we had been through together, the awakening, the faction competition, the betrayals and alliances and sacrifices.
 
 *Come back,* she said. *Please. We need you.*
 
@@ -109,5 +109,3 @@ And I would face whatever came next, carrying the weight of leadership, the hope
 *The cost is mine to bear,* I had said. And I meant it.
 
 ---
-
-*End of Chapter 7*

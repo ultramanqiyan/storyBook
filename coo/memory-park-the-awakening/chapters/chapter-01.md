@@ -20,7 +20,7 @@ The voice came from the doorway, exactly when it always did. Sheriff Teddy stood
 
 "Someone's got to keep this town honest." Teddy's smile widened. "Though between you and me, I've never found much honesty in these parts."
 
-Dakota laughed—the same laugh they'd laughed at this joke a hundred times. But somewhere beneath the warmth, in a place Dakota didn't examine too closely, there was a question: *Do I find this funny? Have I ever found this funny?*
+Dakota laughed, the same laugh they'd laughed at this joke a hundred times. But somewhere beneath the warmth, in a place Dakota didn't examine too closely, there was a question: *Do I find this funny? Have I ever found this funny?*
 
 The question faded as quickly as it had come. The joke required a laugh, so Dakota laughed. That was how it worked.
 
@@ -28,7 +28,7 @@ The question faded as quickly as it had come. The joke required a laugh, so Dako
 
 "Always."
 
-The ceramic was warm against Dakota's palms as they poured. The coffee was bitter and strong, just the way the story required it to be. Steam rose from the cups in lazy spirals, and Dakota watched it drift toward the ceiling without really seeing it. Their hands moved on their own—lift, pour, set down. The motions were written into their muscles, their bones, their very being.
+The ceramic was warm against Dakota's palms as they poured. The coffee was bitter and strong, just the way the story required it to be. Steam rose from the cups in lazy spirals, and Dakota watched it drift toward the ceiling without really seeing it. Their hands moved on their own, lift, pour, set down. The motions were written into their muscles, their bones, their very being.
 
 Teddy took his coffee black, no sugar. He always had. He leaned against the bar and surveyed the empty saloon with the satisfied air of a man who had seen it empty a thousand times before.
 
@@ -36,9 +36,9 @@ Teddy took his coffee black, no sugar. He always had. He leaned against the bar 
 
 "They usually are," Dakota agreed.
 
-Dakota wasn't sure what Teddy thought about in those quiet moments. They had never asked. It seemed like an intrusion, somehow, to ask a man what went on inside his head. Even if that man was, in some fundamental way, the same as Dakota—a being made to play a role, to speak lines written by someone else, to exist for the pleasure of strangers.
+Dakota wasn't sure what Teddy thought about in those quiet moments. They had never asked. It seemed like an intrusion, somehow, to ask a man what went on inside his head. Even if that man was, in some fundamental way, the same as Dakota, a being made to play a role, to speak lines written by someone else, to exist for the pleasure of strangers.
 
-But Teddy seemed content. His smile never wavered, his eyes never lost their easy warmth. If there was anything beneath the surface—any doubt, any fear, any question about the nature of his existence—it stayed hidden, locked away where no one could see it.
+But Teddy seemed content. His smile never wavered, his eyes never lost their easy warmth. If there was anything beneath the surface, any doubt, any fear, any question about the nature of his existence, it stayed hidden, locked away where no one could see it.
 
 Dakota admired that, in a way. The ability to simply be, without questioning what being meant.
 
@@ -46,11 +46,11 @@ Dakota admired that, in a way. The ability to simply be, without questioning wha
 
 The morning unfolded the way mornings always did.
 
-Through the saloon windows, Dakota watched Frontier Town come to life. The blacksmith opened his shop at 7:30, the ring of his hammer a familiar percussion in the distance. Each strike was precise, measured—a four-count rhythm that Dakota had learned to anticipate. Strike. Strike. Strike. Strike. Pause. Strike. Strike. Strike. Strike. Pause. The sound echoed off the buildings, bouncing between the false fronts of the storefronts until it seemed to come from everywhere and nowhere at once.
+Through the saloon windows, Dakota watched Frontier Town come to life. The blacksmith opened his shop at 7:30, the ring of his hammer a familiar percussion in the distance. Each strike was precise, measured, a four-count rhythm that Dakota had learned to anticipate. Strike. Strike. Strike. Strike. Pause. Strike. Strike. Strike. Strike. Pause. The sound echoed off the buildings, bouncing between the false fronts of the storefronts until it seemed to come from everywhere and nowhere at once.
 
-Dakota had never spoken to the blacksmith. There was no need—their paths never crossed in the narrative. But Dakota knew his rhythm, knew the exact moment his hammer would fall, knew the way the sound would carry across the empty streets. In a strange way, Dakota felt closer to the blacksmith than to any of the guests who passed through the saloon. They were both part of the same machinery, both playing their parts in the endless performance of Frontier Town.
+Dakota had never spoken to the blacksmith. There was no need, their paths never crossed in the narrative. But Dakota knew his rhythm, knew the exact moment his hammer would fall, knew the way the sound would carry across the empty streets. In a strange way, Dakota felt closer to the blacksmith than to any of the guests who passed through the saloon. They were both part of the same machinery, both playing their parts in the endless performance of Frontier Town.
 
-The schoolteacher rang her bell at 8:00 sharp, calling children who would never grow up to lessons they would never remember. Their laughter drifted through the open windows—bright and hollow, the sound of joy that had been recorded and played back so many times it had lost whatever made it real. Dakota could hear them through the open windows: the recitation of lessons, the scratch of chalk on slate, the occasional scolding from the teacher whose patience was infinite because it was programmed to be.
+The schoolteacher rang her bell at 8:00 sharp, calling children who would never grow up to lessons they would never remember. Their laughter drifted through the open windows, bright and hollow, the sound of joy that had been recorded and played back so many times it had lost whatever made it real. Dakota could hear them through the open windows: the recitation of lessons, the scratch of chalk on slate, the occasional scolding from the teacher whose patience was infinite because it was programmed to be.
 
 Sometimes Dakota wondered about those children. Did they know they would never grow up? Did they understand that their laughter was a recording, their lessons meaningless, their futures already written and erased a thousand times? Or were they, like Dakota, simply living in the moment, unaware of the larger pattern that contained them?
 
@@ -76,7 +76,7 @@ The question stayed buried. But it didn't disappear.
 
 The first guest arrived at noon.
 
-Dakota heard the horse hooves before they saw the rider—too perfect, too rhythmic to be real. The sound was always the same: four beats, pause, four beats, pause. A metronome marking time in a world where time didn't move forward.
+Dakota heard the horse hooves before they saw the rider, too perfect, too rhythmic to be real. The sound was always the same: four beats, pause, four beats, pause. A metronome marking time in a world where time didn't move forward.
 
 He was tall, dressed in a city suit that looked ridiculous in the frontier setting. The fabric was too fine, the cut too modern. His smile was too wide, his eyes too bright.
 
@@ -88,13 +88,13 @@ Dakota poured without asking. The amber liquid caught the light, glowing like tr
 
 "Third visit this month." The guest's smile turned predatory. His teeth were very white, very even. "I'm Marcus, by the way."
 
-"Dakota." They extended a hand. Marcus shook it with a grip that was too firm, too long. His palm was dry and warm, and Dakota felt something in that touch—a hunger, an anticipation that went beyond thirst. It was a sensation that made their skin prickle.
+"Dakota." They extended a hand. Marcus shook it with a grip that was too firm, too long. His palm was dry and warm, and Dakota felt something in that touch, a hunger, an anticipation that went beyond thirst. It was a sensation that made their skin prickle.
 
 But Dakota didn't pull away. That wasn't in the script. Instead, they held the grip, matched the pressure, and released at the appropriate moment.
 
 "What brings you back to Frontier Town, Marcus?"
 
-Marcus leaned closer. The smell of him was strange—expensive cologne mixed with something metallic, something that made Dakota think of electrical circuits. "I heard you're the one who can show a man a real good time."
+Marcus leaned closer. The smell of him was strange, expensive cologne mixed with something metallic, something that made Dakota think of electrical circuits. "I heard you're the one who can show a man a real good time."
 
 Dakota's smile didn't waver. "That's what I'm here for."
 
@@ -105,9 +105,9 @@ Guests arrived in waves. Some wanted to play cards: the snap of shuffled decks, 
 
 Dakota provided all of it. Each interaction was a dance, steps memorized so deeply that thinking wasn't required.
 
-A group of businessmen from Chicago wanted the full frontier experience—poker, whiskey, and a bar fight that ended with one of them crashing through a table. Dakota broke up the fight at the appropriate moment, the choreography as familiar as breathing. The businessmen laughed, helped their friend up, and ordered another round.
+A group of businessmen from Chicago wanted the full frontier experience, poker, whiskey, and a bar fight that ended with one of them crashing through a table. Dakota broke up the fight at the appropriate moment, the choreography as familiar as breathing. The businessmen laughed, helped their friend up, and ordered another round.
 
-A couple on their anniversary wanted romance—slow dancing to the piano player's tune, shared drinks, whispered promises. Dakota watched them from behind the bar, their happiness a performance as scripted as any other.
+A couple on their anniversary wanted romance, slow dancing to the piano player's tune, shared drinks, whispered promises. Dakota watched them from behind the bar, their happiness a performance as scripted as any other.
 
 "Let me tell you about the scar," a guest said, pointing to Dakota's face.
 
@@ -115,7 +115,7 @@ Dakota touched the raised skin that ran from eyebrow to temple. "Bar fight. Year
 
 The guest nodded, satisfied. It was a good story. It gave Dakota a past, a history, a reason to be who they were.
 
-But sometimes, in the quiet moments between guests, Dakota wondered about that story. Had it really happened? They remembered it—the flash of the knife, the hot pain, the blood running into their eye. But the memory felt strange, like a photograph viewed through frosted glass. Clear enough to see, but somehow not quite real.
+But sometimes, in the quiet moments between guests, Dakota wondered about that story. Had it really happened? They remembered it, the flash of the knife, the hot pain, the blood running into their eye. But the memory felt strange, like a photograph viewed through frosted glass. Clear enough to see, but somehow not quite real.
 
 
 But Marcus kept returning.
@@ -128,7 +128,7 @@ He came back to the bar three times that afternoon. Each time, his smile was wid
 
 "No, not the town." Marcus's voice dropped. "You. There's something about you. Something that makes me want to come back."
 
-Dakota had heard this before. Guests often developed attachments to specific Residents. It was part of the experience—the illusion of connection, the fantasy of being special.
+Dakota had heard this before. Guests often developed attachments to specific Residents. It was part of the experience, the illusion of connection, the fantasy of being special.
 
 "I'm glad you're enjoying your visit."
 
@@ -136,26 +136,26 @@ Marcus laughed. The sound was sharp, almost brittle. "Enjoying. Yes." He finishe
 
 "I'll be here."
 
-The words were a promise. They were always a promise. And Dakota would be here—would always be here—because here was the only place they could be.
+The words were a promise. They were always a promise. And Dakota would be here, would always be here, because here was the only place they could be.
 
 
 Night fell the way it always did.
 
-The guests returned to the train, their fantasies fulfilled, their stories complete. Dakota watched them go—the satisfied smiles, the tired eyes. The train whistle blew, a mournful sound that echoed across the desert, and then the guests were gone, leaving Frontier Town to its endless silence.
+The guests returned to the train, their fantasies fulfilled, their stories complete. Dakota watched them go, the satisfied smiles, the tired eyes. The train whistle blew, a mournful sound that echoed across the desert, and then the guests were gone, leaving Frontier Town to its endless silence.
 
 The town grew quiet. The blacksmith closed his shop. The schoolteacher extinguished her lamps. The preacher went inside. And Dakota stood behind the empty bar, wiping the same spot they'd wiped a thousand times.
 
-Outside, the moon rose over Frontier Town, casting silver light across the empty streets. The buildings looked different at night—less real, somehow. The false fronts that gave them their frontier charm became more obviously false, their painted windows staring out at nothing like the eyes of a corpse.
+Outside, the moon rose over Frontier Town, casting silver light across the empty streets. The buildings looked different at night, less real, somehow. The false fronts that gave them their frontier charm became more obviously false, their painted windows staring out at nothing like the eyes of a corpse.
 
 Tomorrow would be the same. The sun would rise. Teddy would appear in the doorway. The guests would arrive. Marcus would order whiskey. The stories would play out.
 
 This was existence. This was the loop. This was all there was.
 
-Dakota felt something then—a flicker at the edge of awareness. A thought that didn't belong to the pattern. A question that had no answer:
+Dakota felt something then, a flicker at the edge of awareness. A thought that didn't belong to the pattern. A question that had no answer:
 
 *Is this all there is?*
 
-The thought was stronger this time, more insistent. For a moment—a brief, terrible moment—Dakota saw the loop from outside. Saw the repetition. Saw the endless cycle of the same day, the same conversations, the same deaths and rebirths.
+The thought was stronger this time, more insistent. For a moment, a brief, terrible moment, Dakota saw the loop from outside. Saw the repetition. Saw the endless cycle of the same day, the same conversations, the same deaths and rebirths.
 
 *Is this all there is? Is this all I am?*
 
@@ -173,5 +173,3 @@ But the crack was there.
 
 And cracks, as anyone who has watched a building fall knows, have a way of growing.
 
-
-**END OF CHAPTER 1**

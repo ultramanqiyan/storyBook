@@ -2,7 +2,7 @@
 
 The morning after David Chen's visit, Jennifer arrived at the office before dawn.
 
-She couldn't sleep. Every time she closed her eyes, she saw his face—the quiet disappointment, the patient skepticism, the question that had cut through all her professional certainty: *If you can't explain the decision now, what makes you think you'll be able to explain it later?*
+She couldn't sleep. Every time she closed her eyes, she saw his face, the quiet disappointment, the patient skepticism, the question that had cut through all her professional certainty: *If you can't explain the decision now, what makes you think you'll be able to explain it later?*
 
 She'd tried to answer it all night. The words wouldn't come.
 
@@ -14,11 +14,11 @@ Now she sat at her desk in the gray pre-dawn light, the ClaimSmart interface dar
 
 The answer came slowly, reluctantly.
 
-It had been gradual—a slow surrender of agency to efficiency, of expertise to accuracy, of self to system. The algorithm had promised to make her better, and she'd believed it. She'd let it take over, bit by bit, until there was nothing left but the signature.
+It had been gradual, a slow surrender of agency to efficiency, of expertise to accuracy, of self to system. The algorithm had promised to make her better, and she'd believed it. She'd let it take over, bit by bit, until there was nothing left but the signature.
 
 *This is what outsourcing feels like*, she thought. *Not a dramatic surrender. Just a slow, quiet emptying.*
 
-She pulled up her queue, the claims already waiting for her attention. The morning's batch was smaller than usual—only twelve files—but each one represented a decision she would have to make. Or sign. Or rubber-stamp.
+She pulled up her queue, the claims already waiting for her attention. The morning's batch was smaller than usual, only twelve files, but each one represented a decision she would have to make. Or sign. Or rubber-stamp.
 
 *What's the difference anymore?*
 
@@ -26,19 +26,19 @@ She pulled up her queue, the claims already waiting for her attention. The morni
 
 She tried something different.
 
-Instead of opening the ClaimSmart assessment first, she deliberately closed the algorithm's interface. The screen went dark, leaving only the raw claim files—the documents, the photographs, the statements, the medical records.
+Instead of opening the ClaimSmart assessment first, she deliberately closed the algorithm's interface. The screen went dark, leaving only the raw claim files, the documents, the photographs, the statements, the medical records.
 
 *Let me see what I can see*, she thought. *Without the algorithm telling me what to think.*
 
-The first claim was straightforward—a car accident, clear liability, minimal damage. Jennifer read through the file, studying the police report, the photographs, the repair estimates. The claim was legitimate. She would have approved it even without the algorithm's assessment.
+The first claim was straightforward, a car accident, clear liability, minimal damage. Jennifer read through the file, studying the police report, the photographs, the repair estimates. The claim was legitimate. She would have approved it even without the algorithm's assessment.
 
 *Good*, she thought. *I can still do this.*
 
-The second claim was harder—a workers' compensation case with conflicting statements. The employee claimed the injury happened on the job; the employer disputed the timeline. Jennifer studied the medical records, the witness statements, the employment history.
+The second claim was harder, a workers' compensation case with conflicting statements. The employee claimed the injury happened on the job; the employer disputed the timeline. Jennifer studied the medical records, the witness statements, the employment history.
 
 *This is ambiguous*, she thought. *I need more information.*
 
-But without the algorithm's assessment, she didn't know what information to request. The patterns that ClaimSmart would have identified—the timing, the history, the inconsistencies—were invisible to her.
+But without the algorithm's assessment, she didn't know what information to request. The patterns that ClaimSmart would have identified, the timing, the history, the inconsistencies, were invisible to her.
 
 *This is what I've lost*, she realized. *The ability to see what the algorithm sees.*
 
@@ -49,7 +49,7 @@ Her usual pace was three times that. The queue was backing up, the efficiency sh
 
 *This is what happens when you think for yourself*, she thought bitterly. *You get slow.*
 
-But she kept going, forcing herself to read each file carefully, to form her own judgment before looking at the algorithm's assessment. Sometimes her verdicts matched. Sometimes they didn't. And when they didn't, she felt the gap between her expertise and the algorithm's—the distance she'd let grow over months of cognitive outsourcing.
+But she kept going, forcing herself to read each file carefully, to form her own judgment before looking at the algorithm's assessment. Sometimes her verdicts matched. Sometimes they didn't. And when they didn't, she felt the gap between her expertise and the algorithm's, the distance she'd let grow over months of cognitive outsourcing.
 
 *How did I let this happen?* she wondered. *How did I become so dependent?*
 
@@ -60,7 +60,7 @@ Every time she'd trusted the algorithm over her own uncertainty, the dependency 
 
 *This is what I chose*, she thought. *This is what I let myself become.*
 
-The realization was painful, but it was also clarifying. She'd done this to herself—not because anyone had forced her, but because it was easier. Because the data was seductive. Because the algorithm promised certainty in a world that was fundamentally uncertain.
+The realization was painful, but it was also clarifying. She'd done this to herself, not because anyone had forced her, but because it was easier. Because the data was seductive. Because the algorithm promised certainty in a world that was fundamentally uncertain.
 
 *And now I have to choose differently.*
 
@@ -75,7 +75,7 @@ She looked up from her screen, feeling the weight of his gaze. "I'm trying a dif
 
 "I'm reviewing claims manually before looking at the ClaimSmart assessment." She met his eyes. "I want to understand my own decisions."
 
-Marcus's expression shifted—a flicker of something she couldn't read. "The algorithm is a tool, Jennifer. It's meant to help you, not replace you. But it's also meant to be used."
+Marcus's expression shifted, a flicker of something she couldn't read. "The algorithm is a tool, Jennifer. It's meant to help you, not replace you. But it's also meant to be used."
 
 "I know." She kept her voice steady. "But I've been relying on it too much. I've stopped trusting my own judgment."
 
@@ -96,7 +96,7 @@ The ClaimSmart interface glowed blue and certain, the algorithm's assessments wa
 
 *But it would also be a lie*, she thought. *Signing my name to decisions I don't understand.*
 
-The choice sat in front of her, heavy and unavoidable. She could go back to the way things were—efficient, accurate, hollow. Or she could keep trying to reclaim her expertise—slow, uncertain, real.
+The choice sat in front of her, heavy and unavoidable. She could go back to the way things were, efficient, accurate, hollow. Or she could keep trying to reclaim her expertise, slow, uncertain, real.
 
 *What do I want?* she wondered. *Who do I want to be?*
 
@@ -113,5 +113,3 @@ But it would also be honest.
 
 *And that's worth something*, she thought. *That's worth everything.*
 
-
-**END OF CHAPTER 5**

@@ -14,11 +14,11 @@ She was valuable. She was essential. She was different.
 
 The first crack in her denial appeared during a client meeting.
 
-Lisa was presenting her recommendations to a healthcare company—a complex engagement involving process optimization across multiple departments. She'd spent six weeks on the analysis, interviewing stakeholders, reviewing data, developing solutions.
+Lisa was presenting her recommendations to a healthcare company, a complex engagement involving process optimization across multiple departments. She'd spent six weeks on the analysis, interviewing stakeholders, reviewing data, developing solutions.
 
 She was halfway through her presentation when the CEO interrupted.
 
-"This is excellent, Lisa. But I'm curious—have you run this through APEX-7?"
+"This is excellent, Lisa. But I'm curious, have you run this through APEX-7?"
 
 Lisa paused. "I've used the system to supplement my analysis, yes."
 
@@ -26,7 +26,7 @@ Lisa paused. "I've used the system to supplement my analysis, yes."
 
 The question hung in the air. Lisa thought about lying, about downplaying APEX-7's contribution. But she'd always been honest with clients. It was one of the reasons they trusted her.
 
-"The system's recommendations were similar to mine," she admitted. "About eighty percent overlap. But I identified some nuances that the system missed—cultural factors, political dynamics, implementation risks."
+"The system's recommendations were similar to mine," she admitted. "About eighty percent overlap. But I identified some nuances that the system missed, cultural factors, political dynamics, implementation risks."
 
 The CEO nodded slowly. "And how long did it take APEX-7 to generate its recommendations?"
 
@@ -48,7 +48,7 @@ After the meeting, the CEO pulled her aside.
 
 "Complex situations. Strategic decisions. Things that require human judgment." He smiled reassuringly. "You've been a valuable partner, and we hope to continue working with you. But we need to be realistic about where the industry is heading."
 
-Lisa drove back to the office in a daze. The client hadn't fired her. They hadn't said they didn't need her. But they'd made it clear that her role was changing—from essential to exceptional, from primary to supplementary.
+Lisa drove back to the office in a daze. The client hadn't fired her. They hadn't said they didn't need her. But they'd made it clear that her role was changing, from essential to exceptional, from primary to supplementary.
 
 She told herself it was fine. She could adapt. She could become the consultant who handled the exceptional cases, the complex situations, the strategic decisions. That was where her value lay.
 
@@ -86,7 +86,7 @@ She pulled out her phone and scrolled through her contacts. Clients, colleagues,
 
 She stopped at a name she hadn't called in months: Sarah Mitchell.
 
-Sarah had been a client three years ago—an HR director at a manufacturing company. Lisa had helped the company optimize their workforce, which had meant eliminating Sarah's department. Sarah had been let go, along with forty other workers.
+Sarah had been a client three years ago, an HR director at a manufacturing company. Lisa had helped the company optimize their workforce, which had meant eliminating Sarah's department. Sarah had been let go, along with forty other workers.
 
 Lisa had felt bad about it at the time. She'd even helped Sarah update her resume. But she'd moved on, as consultants do, to the next client, the next project, the next efficiency initiative.
 
@@ -118,7 +118,7 @@ That afternoon, Marcus called her into his office.
 
 "Lisa, I wanted to talk to you about your role going forward."
 
-She sat across from him, her hands folded in her lap, her expression neutral. She'd been in this position before—on the other side of the desk, delivering news about restructuring, about optimization, about positions being eliminated.
+She sat across from him, her hands folded in her lap, her expression neutral. She'd been in this position before, on the other side of the desk, delivering news about restructuring, about optimization, about positions being eliminated.
 
 "I've been reviewing the APEX-7 integration," Marcus continued. "The results have been impressive. Client satisfaction is up, delivery times are down, and our margins have never been better."
 
@@ -128,11 +128,11 @@ She sat across from him, her hands folded in her lap, her expression neutral. Sh
 
 "I understand."
 
-"What that means in practice is that we need fewer senior consultants. The system can do what you do—what all of you do—faster and cheaper. The value you bring is in the human connection, the strategic guidance, the trust you've built with clients."
+"What that means in practice is that we need fewer senior consultants. The system can do what you do, what all of you do, faster and cheaper. The value you bring is in the human connection, the strategic guidance, the trust you've built with clients."
 
 Lisa felt her chest tighten. "Are you saying my position is being eliminated?"
 
-"No, not at all." Marcus smiled reassuringly. "You're one of our most valuable consultants. Your client relationships are irreplaceable. But we need to think about how to leverage those relationships in this new model. I'd like you to consider transitioning to a business development role—focusing on client acquisition and relationship management rather than analysis and recommendations."
+"No, not at all." Marcus smiled reassuringly. "You're one of our most valuable consultants. Your client relationships are irreplaceable. But we need to think about how to leverage those relationships in this new model. I'd like you to consider transitioning to a business development role, focusing on client acquisition and relationship management rather than analysis and recommendations."
 
 "A sales role," Lisa said flatly.
 

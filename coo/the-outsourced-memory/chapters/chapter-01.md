@@ -20,7 +20,7 @@ This knowledge lived in his body. His feet remembered the feel of original hardw
 
 "Mr. Harrison?" The young wife, Emily, was watching him with a mixture of respect and wariness. "The listing says this house was built in 1987."
 
-"1989," Mike corrected. "See that electrical panel? Code changed in '88. This was installed after. And the cabinets in the kitchen are early nineties—I recognize the hardware. Someone bought this as a spec house and finished it themselves. Probably a contractor working on the side." He paused, considering. "He did good work. But he took shortcuts. The deck out back isn't permitted, and the bathroom addition is on a slab that's going to crack within ten years."
+"1989," Mike corrected. "See that electrical panel? Code changed in '88. This was installed after. And the cabinets in the kitchen are early nineties, I recognize the hardware. Someone bought this as a spec house and finished it themselves. Probably a contractor working on the side." He paused, considering. "He did good work. But he took shortcuts. The deck out back isn't permitted, and the bathroom addition is on a slab that's going to crack within ten years."
 
 The husband, David, pulled out his phone. "There's nothing about that in the disclosure."
 
@@ -62,7 +62,7 @@ Later that night, Susan found him in his study, surrounded by the paper files he
 
 "I have a system. It's called my brain." He smiled at her, but there was something uncertain underneath. "Twenty-five years of knowledge, Susan. It's all up here." He touched his temple. "I just need to keep accessing it."
 
-What Mike didn't say, what he was barely admitting to himself, was that some of those memories were getting harder to reach. Names, dates, the details of properties he'd sold a decade ago—they were still there, but the path to them sometimes felt overgrown, requiring more effort to traverse.
+What Mike didn't say, what he was barely admitting to himself, was that some of those memories were getting harder to reach. Names, dates, the details of properties he'd sold a decade ago, they were still there, but the path to them sometimes felt overgrown, requiring more effort to traverse.
 
 He chalked it up to age, to the accumulated stress of a changing market, to the way modern life seemed to demand constant attention to new information at the expense of the old. But late at night, when he couldn't sleep, he sometimes wondered if the knowledge he'd spent his career building was as permanent as he'd always assumed.
 

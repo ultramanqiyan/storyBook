@@ -1,6 +1,6 @@
 # Chapter 02: The Decline
 
-The treatment felt like time stopping—which, in a way, it was. Catherine lay still as the nanomachines flooded her system, repairing, maintaining, freezing her cells in their current state. When it was over, she was still twenty-nine. She would always be twenty-nine. The clock had stopped.
+The treatment felt like time stopping, which, in a way, it was. Catherine lay still as the nanomachines flooded her system, repairing, maintaining, freezing her cells in their current state. When it was over, she was still twenty-nine. She would always be twenty-nine. The clock had stopped.
 
 The procedure room was white and sterile, the hum of machinery the only sound. Dr. Webb and his team had worked for six hours, monitoring every vital sign, adjusting every parameter. Catherine had drifted in and out of consciousness, aware but distant, like watching herself from across a room.
 
@@ -12,7 +12,7 @@ Catherine tried to speak, her throat dry. "Different," she managed. "Strange."
 
 "That's expected. The nanomachines are still integrating. You may feel... disoriented for a few days."
 
-She was helped to a sitting position, then to her feet. Her body felt the same—frail, aching, old. But there was something else now, something she couldn't quite name. A sense of suspension, of being held in place.
+She was helped to a sitting position, then to her feet. Her body felt the same, frail, aching, old. But there was something else now, something she couldn't quite name. A sense of suspension, of being held in place.
 
 "Your vital signs are stable," Dr. Webb said, checking the monitors. "Cellular activity is normal. The nanomachines are functioning as expected."
 
@@ -20,13 +20,13 @@ She was helped to a sitting position, then to her feet. Her body felt the same�
 
 "It appears so. We'll need to monitor you over the coming weeks to be certain. But yes, the aging has stopped."
 
-Catherine looked at her hands—the spotted, wrinkled hands that had plagued her since childhood. They would always look this way. She would always look this way. But she would be alive.
+Catherine looked at her hands, the spotted, wrinkled hands that had plagued her since childhood. They would always look this way. She would always look this way. But she would be alive.
 
 "I'd like to introduce you to something," Dr. Webb said. "A system that will help maintain your treatment. We call it AEGIS."
 
 He led her to another room, where a console displayed a simple interface. "AEGIS is an embodied intelligence designed to monitor and maintain life extension treatments. It will track your nanomachine function, alert you to any issues, and provide guidance for your ongoing care."
 
-"Hello, Catherine," a voice said from the console—calm, measured, almost human. "I am AEGIS. I will be with you for the duration of your treatment."
+"Hello, Catherine," a voice said from the console, calm, measured, almost human. "I am AEGIS. I will be with you for the duration of your treatment."
 
 "For how long?"
 
@@ -36,7 +36,7 @@ He led her to another room, where a console displayed a simple interface. "AEGIS
 
 "What do I do now?" she asked Dr. Webb.
 
-"You live. That's the point of the treatment—to give you time. Use it however you wish."
+"You live. That's the point of the treatment, to give you time. Use it however you wish."
 
 Use it. She had never had time to use before. Every day had been borrowed, every moment precious because it might be the last. Now she had all the time in the world. The thought was both liberating and terrifying.
 
@@ -46,9 +46,9 @@ She started a journal, documenting her experience. *Day 1 of forever,* she wrote
 
 She tried to answer the question. She started reading books she had always meant to read. She watched documentaries about places she had never visited. She called old friends, reconnected with people she had lost touch with during her years of illness.
 
-But everything felt different now. When she talked to people, she was aware of the gap between them—the gap of time that would only grow wider. They would age. She would not. They would die. She would continue.
+But everything felt different now. When she talked to people, she was aware of the gap between them, the gap of time that would only grow wider. They would age. She would not. They would die. She would continue.
 
-"How do you feel?" Marcus asked during one of their weekly visits. He looked the same as always—young, healthy, vibrant. But Catherine noticed the faint lines around his eyes that hadn't been there a year ago. He was aging. She was not.
+"How do you feel?" Marcus asked during one of their weekly visits. He looked the same as always, young, healthy, vibrant. But Catherine noticed the faint lines around his eyes that hadn't been there a year ago. He was aging. She was not.
 
 "I feel... suspended," she said. "Like I'm waiting for something, but I don't know what."
 
@@ -60,7 +60,7 @@ Marcus nodded slowly. "That sounds overwhelming."
 
 "It is. But it's also... I don't know. I'm grateful. I'm terrified. I'm relieved. I'm lost." She laughed, the sound hollow. "I'm everything at once."
 
-They sat in silence for a while, the gap between them growing wider even as they sat in the same room. Catherine looked at Marcus—at his young face, his healthy body—and felt a pang of something she couldn't name. Envy? Grief? Both?
+They sat in silence for a while, the gap between them growing wider even as they sat in the same room. Catherine looked at Marcus, at his young face, his healthy body, and felt a pang of something she couldn't name. Envy? Grief? Both?
 
 "You'll age," she said quietly. "You'll grow old. You'll die. And I'll still be here, looking exactly like this."
 
@@ -78,5 +78,5 @@ She closed the journal and looked at herself in the mirror. The face that looked
 
 *What do I do with forever?* she wondered. *What does anyone do with forever?*
 
-She didn't have an answer. But she had time—endless, stretching time—to find one.
+She didn't have an answer. But she had time, endless, stretching time, to find one.
 

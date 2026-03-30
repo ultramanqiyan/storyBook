@@ -18,7 +18,7 @@ Finally, Elena straightened. "This one," she said, pointing to the table Sofia h
 
 Sofia felt something loosen in her chest. "That's the one I restored using my traditional methods."
 
-Elena nodded. "I thought so. It has a quality the other one lacks. The finish has more depth. The wood seems more... present." She paused. "But I should tell you—the other one is also excellent. If I hadn't seen them side by side, I might not have noticed the difference."
+Elena nodded. "I thought so. It has a quality the other one lacks. The finish has more depth. The wood seems more... present." She paused. "But I should tell you, the other one is also excellent. If I hadn't seen them side by side, I might not have noticed the difference."
 
 ---
 
@@ -31,9 +31,9 @@ Elena nodded. "I thought so. It has a quality the other one lacks. The finish ha
 Elena smiled. "Technically superior isn't the same as aesthetically superior. My grandmother used to say that perfection is the enemy of beauty. I think she was right."
 
 
-After Elena left, Sofia sat in her workshop, thinking about what she'd said. *Perfection is the enemy of beauty.* Was that true? Was that why the AI-guided restoration felt different—because it was too perfect?
+After Elena left, Sofia sat in her workshop, thinking about what she'd said. *Perfection is the enemy of beauty.* Was that true? Was that why the AI-guided restoration felt different, because it was too perfect?
 
-She thought about the furniture she'd restored over the years. The pieces she was most proud of weren't the ones where she'd achieved technical perfection. They were the ones where she'd captured something essential about the original—its history, its character, its life.
+She thought about the furniture she'd restored over the years. The pieces she was most proud of weren't the ones where she'd achieved technical perfection. They were the ones where she'd captured something essential about the original, its history, its character, its life.
 
 Could an AI capture that? Could an algorithm understand the difference between perfection and beauty?
 
@@ -62,14 +62,14 @@ The results were consistent: seven clients preferred the human-guided restoratio
 "Or something the AI hasn't learned to produce yet," Marcus countered. "The system is still developing. It learns from every piece you restore."
 
 
-Sofia felt a chill. The AI was learning from her. Every decision she made, every technique she used, every judgment call—she was feeding it into the system.
+Sofia felt a chill. The AI was learning from her. Every decision she made, every technique she used, every judgment call, she was feeding it into the system.
 
 Was she training her replacement?
 
-She didn't know. But she couldn't stop now. She needed to understand what the difference was—what gave human-guided restoration its particular quality. And whether that quality could be captured by an algorithm.
+She didn't know. But she couldn't stop now. She needed to understand what the difference was, what gave human-guided restoration its particular quality. And whether that quality could be captured by an algorithm.
 
 
-That evening, Sofia sat in her workshop, surrounded by furniture in various stages of restoration. The pieces seemed to look back at her—each one with its own history, its own story, its own life.
+That evening, Sofia sat in her workshop, surrounded by furniture in various stages of restoration. The pieces seemed to look back at her, each one with its own history, its own story, its own life.
 
 She had spent twenty years learning to read that history, to understand that story, to honor that life. And now she was teaching a machine to do the same.
 

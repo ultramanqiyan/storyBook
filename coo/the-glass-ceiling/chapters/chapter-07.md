@@ -22,7 +22,7 @@ Marcus's words echoed in their head, a constant refrain that played on loop thro
 
 Alex threw themselves into the small project.
 
-They worked just as hard as before. They wanted to prove they could still deliver. They wanted to earn back Marcus's trust. The office felt different now—the same glass walls and modern furniture, but the warmth was gone. The "family" rhetoric had faded into silence.
+They worked just as hard as before. They wanted to prove they could still deliver. They wanted to earn back Marcus's trust. The office felt different now, the same glass walls and modern furniture, but the warmth was gone. The "family" rhetoric had faded into silence.
 
 But the project was too small to matter. No one noticed. No one cared.
 
@@ -39,7 +39,7 @@ They'd gone from rising star to nobody in six months.
 
 *What happened?*
 
-The question haunted them. They'd done everything right. They'd worked harder than anyone. They'd sacrificed everything—relationships, health, sanity—for this job. And somehow, they'd ended up here.
+The question haunted them. They'd done everything right. They'd worked harder than anyone. They'd sacrificed everything, relationships, health, sanity, for this job. And somehow, they'd ended up here.
 
 
 **THE CALL**
@@ -75,13 +75,13 @@ That night, Alex couldn't sleep. They lay in bed, staring at the ceiling, their 
 
 And slowly, painfully, the pieces began to fit together.
 
-The love bombing at the start. The subtle criticism. The isolation. The gaslighting. The demotion. The pattern was clear now—a systematic dismantling of their confidence, their support network, their sense of reality.
+The love bombing at the start. The subtle criticism. The isolation. The gaslighting. The demotion. The pattern was clear now, a systematic dismantling of their confidence, their support network, their sense of reality.
 
 *This isn't about my performance. This is about control.*
 
 The realization hit them like a physical blow. They weren't failing. They were being managed out. They weren't inadequate. They were being manipulated.
 
-And the worst part? It wasn't personal. It was systematic. It was how the company operated. It was how they maintained their "culture"—by pushing out anyone who didn't fit the mold, anyone who asked questions, anyone who threatened the status quo.
+And the worst part? It wasn't personal. It was systematic. It was how the company operated. It was how they maintained their "culture", by pushing out anyone who didn't fit the mold, anyone who asked questions, anyone who threatened the status quo.
 
 Alex thought about Sarah's warning. They thought about Sam's PIP. They thought about all the people who'd left before them, the ones who'd been labeled "not a good fit" or "not meeting expectations."
 

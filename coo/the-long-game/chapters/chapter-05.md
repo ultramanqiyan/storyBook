@@ -2,7 +2,7 @@
 
 The customer portal project was different.
 
-Michael had been working on it for three weeks, and something had shifted. Not the timeline—that was still six weeks. Not the scope—that was still the same. But the approach. The mindset. The questions he asked.
+Michael had been working on it for three weeks, and something had shifted. Not the timeline, that was still six weeks. Not the scope, that was still the same. But the approach. The mindset. The questions he asked.
 
 Every morning, he started with the same three questions:
 
@@ -50,7 +50,7 @@ The question felt different from "what features am I building?" or "when will it
 
 He went to the workshop the next day.
 
-Jake was working on a new piece—a chair this time, the wood curved in ways that seemed impossible.
+Jake was working on a new piece, a chair this time, the wood curved in ways that seemed impossible.
 
 "Tell me about the first piece you made," Michael said.
 
@@ -62,7 +62,7 @@ Jake set down his tools. "That would be my grandfather's workbench. I made it wh
 
 "Six months for a workbench?"
 
-"It's not just a workbench. It's the foundation of everything I've built since." Jake gestured around the workshop. "Every piece of furniture I've made in thirty years was built on that workbench. Every lesson I've learned, every skill I've developed—it all started there."
+"It's not just a workbench. It's the foundation of everything I've built since." Jake gestured around the workshop. "Every piece of furniture I've made in thirty years was built on that workbench. Every lesson I've learned, every skill I've developed, it all started there."
 
 Michael looked at the workbench in the corner. It was old, worn, but solid. The kind of solid that came from being built right.
 
@@ -77,7 +77,7 @@ Six weeks. Not a sprint, but not a delay either. Just the right amount of time.
 
 The client was happy. The users were happy. The foundation was solid.
 
-But Michael felt something else too—a sense of possibility. Of doors opening. Of a future he couldn't quite see but could feel.
+But Michael felt something else too, a sense of possibility. Of doors opening. Of a future he couldn't quite see but could feel.
 
 *This is what the long game feels like,* he realized. *Not the rush of completion. But the quiet satisfaction of building something that matters.*
 
@@ -90,7 +90,7 @@ He went to Helen's house that weekend.
 
 "Different. Like I'm starting to understand something." He paused. "But I have a question. How do you know if you're playing the long game correctly? How do you measure success?"
 
-Helen considered the question. "The long game isn't measured in quarters or fiscal years. It's measured in decades. Generations. The success of the civil rights movement wasn't the legislation they passed—it was the institutions they built, the people they inspired, the possibilities they created."
+Helen considered the question. "The long game isn't measured in quarters or fiscal years. It's measured in decades. Generations. The success of the civil rights movement wasn't the legislation they passed, it was the institutions they built, the people they inspired, the possibilities they created."
 
 "So I might not know if I'm succeeding?"
 

@@ -6,7 +6,7 @@ It wasn't a unanimous decision, and it wasn't enthusiastic. But it was approval,
 
 He spent the first month transforming the space.
 
-Empty storefronts became studios. The old electronics store was now a woodworking shop. The clothing boutique became a ceramics studio. The jewelry store became a metalworking space. The bookstore remained—a place where people could still browse and read, even if they didn't buy.
+Empty storefronts became studios. The old electronics store was now a woodworking shop. The clothing boutique became a ceramics studio. The jewelry store became a metalworking space. The bookstore remained, a place where people could still browse and read, even if they didn't buy.
 
 The atrium became a showcase. Tables displayed community projects: paintings, sculptures, furniture, crafts. A stage was built for performances. Seating areas were arranged for conversation.
 
@@ -57,11 +57,11 @@ People were tending their plants, talking to each other, sharing tips and tools.
 
 James watched for a long time. This was what he'd been trying to create. Not consumption, not commerce, not the old economy of desire. Just people being people, together, in a place that gave them reasons to be there.
 
-He thought about the demand black hole—the void where desire should be. He'd spent months trying to understand it, to fill it, to fix it.
+He thought about the demand black hole, the void where desire should be. He'd spent months trying to understand it, to fill it, to fix it.
 
 But maybe it wasn't a problem to be solved. Maybe it was a transition to be navigated.
 
-The old world was gone. The new world was still being built. And this mall—this strange, transformed space—was one small corner of that new world.
+The old world was gone. The new world was still being built. And this mall, this strange, transformed space, was one small corner of that new world.
 
 
 Six months in, Peterson returned for a review.
@@ -118,7 +118,7 @@ He looked up at the building, its lights glowing against the dark sky. The sign 
 
 He pulled out his phone and typed one final note:
 
-*The end: The mall is still here. But it's not what it was. It's something new—imperfect, incomplete, uncertain. But alive.*
+*The end: The mall is still here. But it's not what it was. It's something new, imperfect, incomplete, uncertain. But alive.*
 
 *The silence: Not empty anymore. Just quiet. The quiet of a place where people have been, and will come again.*
 

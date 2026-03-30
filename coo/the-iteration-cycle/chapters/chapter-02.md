@@ -1,6 +1,6 @@
 # Chapter 2: The Forty-Seven - Beyond Need
 
-The Forty-Seven sat across from James's desk, her hands folded in her lap. She was tall, thin, with a gaunt face that held the kind of patience that came from having spent decades in consciousness research. The Forty-Seven was the most extreme case of iteration—someone who had iterated 47 times and no longer driven by need or desire.
+The Forty-Seven sat across from James's desk, her hands folded in her lap. She was tall, thin, with a gaunt face that held the kind of patience that came from having spent decades in consciousness research. The Forty-Seven was the most extreme case of iteration, someone who had iterated 47 times and no longer driven by need or desire.
 
 ---
 
@@ -42,7 +42,7 @@ What did the Forty-Seven know that he James didn't? What had she learned about i
 
 ---
 
-The weeks passed, and James continued his research into iteration. Each case he encountered added to his understanding. The more extreme cases he heard about—the Forty-Seven being the most extreme.
+The weeks passed, and James continued his research into iteration. Each case he encountered added to his understanding. The more extreme cases he heard about, the Forty-Seven being the most extreme.
 
 One day, James received a notification from the Digital Heritage Archive. A message that made his heart stutter.
 

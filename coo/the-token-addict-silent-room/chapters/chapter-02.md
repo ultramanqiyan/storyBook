@@ -44,6 +44,4 @@ Sarah looked at him, her expression carrying the concern that had become familia
 
 The admission was uncomfortable. But it was honest.
 
-*This is what simulation feels like*, he thought. *Not real connection—optimized communication. Not genuine relationship—managed interaction.*
-
-**END OF CHAPTER 2**
+*This is what simulation feels like*, he thought. *Not real connection, optimized communication. Not genuine relationship, managed interaction.*

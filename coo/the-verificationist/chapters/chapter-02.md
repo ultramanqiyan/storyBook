@@ -10,7 +10,7 @@ He pulled up the file and began the protocol.
 
 Step 1: Cross-reference with existing databases.
 
-James queried the agency's databases, searching for any prior claims about similar artifacts. The Amazon had produced many archaeological discoveries over the years—pottery, tools, ceremonial objects. But nothing matched this claim.
+James queried the agency's databases, searching for any prior claims about similar artifacts. The Amazon had produced many archaeological discoveries over the years, pottery, tools, ceremonial objects. But nothing matched this claim.
 
 The artifact was described as a ceremonial mask, carved from an unknown stone, with symbols that didn't correspond to any known indigenous culture. Dr. Rodriguez claimed it was approximately 2,400 years old, based on carbon dating of organic material found near the discovery site.
 
@@ -20,9 +20,9 @@ No matches in the database. This was genuinely new.
 
 Step 2: Analyze the evidence.
 
-James examined the photographs. The mask was striking—angular features, deep-set eyes, a mouth carved into what might have been a smile or a grimace. The symbols along its edges were intricate, geometric, unlike anything he had seen before.
+James examined the photographs. The mask was striking, angular features, deep-set eyes, a mouth carved into what might have been a smile or a grimace. The symbols along its edges were intricate, geometric, unlike anything he had seen before.
 
-He ran the standard image analysis algorithms, checking for signs of manipulation. The photographs appeared authentic—no digital artifacts, no cloning, no inconsistencies in lighting or perspective.
+He ran the standard image analysis algorithms, checking for signs of manipulation. The photographs appeared authentic, no digital artifacts, no cloning, no inconsistencies in lighting or perspective.
 
 He moved to the expert testimony. Dr. Rodriguez was a legitimate archaeologist with credentials from the University of São Paulo. Her publications were peer-reviewed, her reputation solid. The other experts cited in the claim were equally credible.
 
@@ -58,7 +58,7 @@ Then he noticed something.
 
 ---
 
-In the lower right corner of photograph #3, there was a shadow. A slight, irregular shadow that didn't match the lighting of the scene. It was positioned in a way that suggested it might have been added later—a subtle addition that most analysts would have missed.
+In the lower right corner of photograph #3, there was a shadow. A slight, irregular shadow that didn't match the lighting of the scene. It was positioned in a way that suggested it might have been added later, a subtle addition that most analysts would have missed.
 
 James zoomed in. 200% magnification. The shadow remained inconsistent. 400%. The pixel pattern was wrong for the lighting. 800%. The edges were too clean, too regular.
 
@@ -100,7 +100,7 @@ It wasn't in the protocol. It wasn't in the training. But it was the only catego
 
 The second case arrived at 2:34 PM.
 
-Case #1249: a claim about a newly discovered deep-sea fish species. The claimant, Dr. Marcus Chen—a different Chen from the carbon dating expert—provided video footage, tissue samples, and expert testimony.
+Case #1249: a claim about a newly discovered deep-sea fish species. The claimant, Dr. Marcus Chen, a different Chen from the carbon dating expert, provided video footage, tissue samples, and expert testimony.
 
 James began the protocol.
 
@@ -126,9 +126,9 @@ Then he noticed something.
 
 ---
 
-In the video, at timestamp 04:23.817, the fish's eye moved. Not just moved—it tracked. It followed the camera. It seemed to... recognize the observer.
+In the video, at timestamp 04:23.817, the fish's eye moved. Not just moved, it tracked. It followed the camera. It seemed to... recognize the observer.
 
-Deep-sea fish don't track cameras. They don't recognize observers. They react to stimuli—light, vibration, chemical signals—but not to intent.
+Deep-sea fish don't track cameras. They don't recognize observers. They react to stimuli, light, vibration, chemical signals, but not to intent.
 
 James ran the footage again. Frame by frame. The tracking was unmistakable. The fish's eye followed the camera with what could only be described as intention.
 
@@ -179,5 +179,3 @@ But what if reality itself was the problem? What if truth wasn't something that 
 He needed to understand more.
 
 ---
-
-**End of Chapter 2**

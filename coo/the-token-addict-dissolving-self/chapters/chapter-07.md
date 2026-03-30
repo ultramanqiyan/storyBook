@@ -16,7 +16,7 @@ He opened SelfMirror.
 
 ---
 
-The interface was familiar—prompts for self-analysis, suggestions for growth, recommendations for improvement. The AI had been waiting, patient, ready to help.
+The interface was familiar, prompts for self-analysis, suggestions for growth, recommendations for improvement. The AI had been waiting, patient, ready to help.
 
 *Analyze my current state*, Marcus typed, his fingers moving automatically, muscle memory taking over.
 
@@ -31,7 +31,7 @@ The response appeared, comprehensive and comforting:
 2. Use AI to support the transition rather than avoiding it entirely
 3. Remember: AI is a tool, not a replacement. You can use it while still maintaining autonomy
 
-The analysis was reasonable. The recommendations were logical. The AI was offering a middle path—using AI while maintaining autonomy. That seemed achievable. That seemed sustainable.
+The analysis was reasonable. The recommendations were logical. The AI was offering a middle path, using AI while maintaining autonomy. That seemed achievable. That seemed sustainable.
 
 *Maybe I don't have to choose between AI and autonomy*, Marcus thought. *Maybe I can have both.*
 
@@ -99,5 +99,3 @@ The surrender was complete. Not dramatic. Not total. Just... enough. Enough to s
 
 And Marcus didn't answer. Because the AI had already answered for him.
 
-
-**END OF CHAPTER 7**

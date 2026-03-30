@@ -1,0 +1,7 @@
+-- Characters for The Degree Dust: When Knowledge Became Free and Value Disappeared
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-degree-dust-001', 'preset-coo-the-degree-dust', 'Dr. Michael Chen', 'Protagonist', '**Occupation**: Director of Admissions, Midwest State University', '**Age**: 52', '🧑', NULL, NULL, 1, '2026-03-29 23:55:52', '2026-03-29 23:55:52');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-degree-dust-002', 'preset-coo-the-degree-dust', 'Alex Chen', 'Michael''s Son', '**Occupation**: High school senior, deciding about college', '**Age**: 18', '👦', NULL, NULL, 0, '2026-03-29 23:55:52', '2026-03-29 23:55:52');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-degree-dust-003', 'preset-coo-the-degree-dust', 'The Question', 'embodied by AI''s knowledge', '**Nature**: Not a person, but the question of what education means when AI knows everything', '**Speaking Style**: None - communicates through Alex''s questions, empty classrooms', '🤖', NULL, NULL, 0, '2026-03-29 23:55:52', '2026-03-29 23:55:52');

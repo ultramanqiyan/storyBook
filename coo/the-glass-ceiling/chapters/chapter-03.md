@@ -2,21 +2,21 @@
 
 The first month at Meridian was a blur.
 
-Alex worked long hours—not because they had to, but because they wanted to. They wanted to prove they belonged. They wanted to show Marcus that his investment in them was justified. They wanted to be a Meridian person.
+Alex worked long hours, not because they had to, but because they wanted to. They wanted to prove they belonged. They wanted to show Marcus that his investment in them was justified. They wanted to be a Meridian person.
 
 And for the first few weeks, everything seemed perfect.
 
 The project was going well. The team was responsive. The stakeholders were happy. Alex felt like they were finally getting the hang of this product management thing. They'd stay late, working on documentation, responding to emails, preparing for meetings. The hours didn't matter because the work felt meaningful. Every task was a chance to prove themselves. Every project was an opportunity to show Marcus that he'd made the right choice.
 
-The office hummed around them—the soft click of keyboards, the distant murmur of conversations, the occasional burst of laughter from the break room. The air smelled of coffee and ambition, of success and possibility. Alex had never felt more alive.
+The office hummed around them, the soft click of keyboards, the distant murmur of conversations, the occasional burst of laughter from the break room. The air smelled of coffee and ambition, of success and possibility. Alex had never felt more alive.
 
-They scheduled a 1:1 with Marcus to give an update. They were excited—they had good news to share. The feature was on track. The team was aligned. Everything was coming together.
+They scheduled a 1:1 with Marcus to give an update. They were excited, they had good news to share. The feature was on track. The team was aligned. Everything was coming together.
 
 ---
 
-Marcus's office was sparse—a glass desk, a whiteboard covered in diagrams, a few family photos on the windowsill. The afternoon light streamed through the floor-to-ceiling windows, casting long shadows across the floor. The view showed the Meridian campus stretching out below, employees walking between buildings like ants in a carefully designed colony.
+Marcus's office was sparse, a glass desk, a whiteboard covered in diagrams, a few family photos on the windowsill. The afternoon light streamed through the floor-to-ceiling windows, casting long shadows across the floor. The view showed the Meridian campus stretching out below, employees walking between buildings like ants in a carefully designed colony.
 
-He gestured for Alex to sit. The leather chair was cool against their back, the temperature in the room perfectly controlled—comfortable, professional, designed to put people at ease.
+He gestured for Alex to sit. The leather chair was cool against their back, the temperature in the room perfectly controlled, comfortable, professional, designed to put people at ease.
 
 "So, how's it going?"
 
@@ -36,7 +36,7 @@ The words landed like a punch. Alex had been working twelve-hour days. They'd be
 
 "What kind of areas?" Alex's voice came out smaller than they intended.
 
-Marcus smiled—the same warm smile he'd given Alex in their interview. "Don't worry, this is normal. Everyone has areas for growth. That's how we get better. That's why we have these conversations. That's what separates good companies from great ones—we invest in developing our people."
+Marcus smiled, the same warm smile he'd given Alex in their interview. "Don't worry, this is normal. Everyone has areas for growth. That's how we get better. That's why we have these conversations. That's what separates good companies from great ones, we invest in developing our people."
 
 He pulled up a document on his screen. Alex could see their name at the top, followed by a list of bullet points.
 
@@ -58,7 +58,7 @@ The word *family* again. It should have felt comforting. Instead, it felt like a
 
 "Thank you," Alex said. "I appreciate the feedback."
 
-"Of course. That's what we're here for." Marcus stood, signaling the end of the meeting. "Keep up the good work. And remember—don't just work hard. Work smart."
+"Of course. That's what we're here for." Marcus stood, signaling the end of the meeting. "Keep up the good work. And remember, don't just work hard. Work smart."
 
 Alex left the office, their head spinning. They'd come in expecting praise and gotten criticism instead. They'd thought they were doing well and learned they were falling short.
 

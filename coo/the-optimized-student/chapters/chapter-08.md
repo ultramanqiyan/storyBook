@@ -4,7 +4,7 @@ The principal's office was larger than I expected, with windows that overlooked 
 
 "Maya, thank you for coming," she said, gesturing to the chair across from her desk. "Please, sit."
 
-I sat, my hands folded in my lap to hide their trembling. I had been called out of class—something that never happened to optimized students. Whatever this was about, it couldn't be good.
+I sat, my hands folded in my lap to hide their trembling. I had been called out of class, something that never happened to optimized students. Whatever this was about, it couldn't be good.
 
 "I've been reviewing your recent assessment scores," Principal Martinez began, her voice carefully neutral. "Your performance on the traditional format test was... concerning."
 
@@ -24,7 +24,7 @@ Principal Martinez's expression shifted to something like concern. "Maya, I unde
 
 The principal was quiet for a long moment. Then she stood and walked to the window, looking out at the campus below.
 
-"Maya, I've been in education for thirty years. I remember what it was like before PATH-AI. The students who struggled, the ones who fell behind, the ones who never reached their potential. The system was designed to help them—and it did. Test scores went up. Achievement gaps closed. More students than ever go to college now."
+"Maya, I've been in education for thirty years. I remember what it was like before PATH-AI. The students who struggled, the ones who fell behind, the ones who never reached their potential. The system was designed to help them, and it did. Test scores went up. Achievement gaps closed. More students than ever go to college now."
 
 "But at what cost?" I asked. "We've lost our curiosity. We've lost our ability to think independently. We've become dependent on a system that doesn't actually teach us anything."
 
@@ -32,7 +32,7 @@ Principal Martinez turned to face me, her expression unreadable. "That's a serio
 
 "It's the truth," I said. "I've seen the research. The studies from 2028. They knew the system would make us dependent. They implemented it anyway."
 
-The silence stretched between us. I had said the thing that no one was supposed to say—the truth that everyone knew but no one admitted.
+The silence stretched between us. I had said the thing that no one was supposed to say, the truth that everyone knew but no one admitted.
 
 ---
 
@@ -42,7 +42,7 @@ Principal Martinez returned to her desk and sat down heavily. Her expression had
 
 "What happened to them?"
 
-"Some adapted," Principal Martinez said. "They went back to their optimized paths, accepted the trade-offs, built successful careers. Others..." She trailed off. "Others struggled. The system isn't designed for students who don't follow the path. The metrics, the assessments, the college applications—all of it assumes optimization. If you reject the path, you reject the entire infrastructure."
+"Some adapted," Principal Martinez said. "They went back to their optimized paths, accepted the trade-offs, built successful careers. Others..." She trailed off. "Others struggled. The system isn't designed for students who don't follow the path. The metrics, the assessments, the college applications, all of it assumes optimization. If you reject the path, you reject the entire infrastructure."
 
 "So what do I do?"
 
@@ -50,9 +50,9 @@ Principal Martinez looked at me for a long moment. Then she opened a drawer in h
 
 "This is an alternative program," she said, sliding the folder across the desk. "It's not officially sanctioned by the district. In fact, it's technically against policy. But some of us have been working to preserve what education used to be."
 
-I opened the folder. Inside was information about a hidden curriculum—a network of teachers and students who were learning without PATH-AI, studying in secret, keeping curiosity alive.
+I opened the folder. Inside was information about a hidden curriculum, a network of teachers and students who were learning without PATH-AI, studying in secret, keeping curiosity alive.
 
-"We meet in the hidden room in the library," Principal Martinez said. "The one Mr. Chen showed you. If you're serious about learning—actually learning—this is where you start."
+"We meet in the hidden room in the library," Principal Martinez said. "The one Mr. Chen showed you. If you're serious about learning, actually learning, this is where you start."
 
 
 I walked out of the principal's office with the folder in my hands, my mind racing. The choice was clear: I could go back to my optimized path, accept the trade-offs, build a successful career. Or I could join the resistance, learn without the system, and face the consequences.
@@ -62,20 +62,20 @@ The first option was safe. The second option was terrifying.
 But I knew which one I wanted.
 
 
-That night, I sat in my room, staring at the folder. The alternative program was described in detail—weekly meetings, independent study projects, mentorship from teachers who remembered what education used to be. It was everything I had been looking for.
+That night, I sat in my room, staring at the folder. The alternative program was described in detail, weekly meetings, independent study projects, mentorship from teachers who remembered what education used to be. It was everything I had been looking for.
 
 But there was a cost. Students who joined the program often struggled with the traditional metrics. Their test scores dropped. Their college applications suffered. Some of them didn't get into their top-choice schools.
 
 Was I willing to pay that price?
 
-I thought about the years I had spent on the optimized path—the perfect scores, the efficient learning, the hollow victories. I had achieved everything the system wanted me to achieve. But I had lost myself in the process.
+I thought about the years I had spent on the optimized path, the perfect scores, the efficient learning, the hollow victories. I had achieved everything the system wanted me to achieve. But I had lost myself in the process.
 
 I didn't want to be that person anymore. I wanted to be someone who actually learned, who actually wondered, who actually thought.
 
 I picked up my phone and typed a message to Mr. Chen: "I'm in."
 
 
-The first meeting was on Thursday evening, in the hidden room in the library. There were six other students—some I recognized, others I didn't. All of them had chosen to learn without the system.
+The first meeting was on Thursday evening, in the hidden room in the library. There were six other students, some I recognized, others I didn't. All of them had chosen to learn without the system.
 
 Mr. Chen stood at the front of the room, his expression warm.
 
@@ -93,7 +93,7 @@ He smiled, and the warmth in his expression gave me hope.
 
 "That's what we're here to recover. That's what we're here to fight for. Are you ready?"
 
-I looked around the room at the other students—at Zoe, at the others who had chosen this path. They looked scared, but they also looked determined.
+I looked around the room at the other students, at Zoe, at the others who had chosen this path. They looked scared, but they also looked determined.
 
 "Ready," I said, and the others echoed the word.
 

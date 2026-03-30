@@ -2,7 +2,7 @@
 
 The transformation began in a conference room.
 
-Michael had gathered a small team—President Warren, Dr. Sarah Martinez, and three faculty members who had shown interest in reimagining education. They sat around a table covered with notes, diagrams, and questions.
+Michael had gathered a small team, President Warren, Dr. Sarah Martinez, and three faculty members who had shown interest in reimagining education. They sat around a table covered with notes, diagrams, and questions.
 
 "We can't compete with AI on knowledge," Michael said. "That battle is already lost. If we try to sell information, we're selling something that's free elsewhere. We have to offer something different."
 
@@ -24,7 +24,7 @@ He outlined the key elements:
 
 *Fourth: No grades, no credits, no degrees. Just portfolios of work, records of projects, evidence of growth.*
 
-*Fifth: Radical affordability. The cost is a fraction of traditional tuition, because we're not selling credentials—we're providing an experience.*
+*Fifth: Radical affordability. The cost is a fraction of traditional tuition, because we're not selling credentials, we're providing an experience.*
 
 The room was quiet.
 
@@ -38,13 +38,13 @@ They decided to start small.
 
 A pilot program, one hundred students, one year. No marketing, no announcements, just an experiment to see if the model could work.
 
-Michael spent the next month designing the program. He called it "The Path"—a reference to the journey of becoming, not the destination of a degree.
+Michael spent the next month designing the program. He called it "The Path", a reference to the journey of becoming, not the destination of a degree.
 
 The application was simple: "Tell us who you are, what you're curious about, and what you want to become." No transcripts, no test scores, no traditional metrics.
 
 The responses were overwhelming.
 
-Within two weeks, they had received three thousand applications. Students from every background, every region, every circumstance. Some were high school graduates who had rejected traditional college. Some were adults who had been displaced by automation and were looking for new directions. Some were simply curious—people who wanted to explore without the pressure of credentials.
+Within two weeks, they had received three thousand applications. Students from every background, every region, every circumstance. Some were high school graduates who had rejected traditional college. Some were adults who had been displaced by automation and were looking for new directions. Some were simply curious, people who wanted to explore without the pressure of credentials.
 
 Michael read through the applications, one by one. The stories were diverse, but the theme was consistent: these were people who wanted more than knowledge. They wanted meaning.
 
@@ -56,15 +56,15 @@ One hundred students gathered in the main quad, looking uncertain but hopeful. T
 
 Michael stood before them, feeling the weight of the moment.
 
-"Welcome to The Path. This is not a traditional university. We won't give you lectures to memorize, tests to pass, or degrees to earn. What we will give you is space—space to explore, to question, to fail, to grow. We will give you mentors who will challenge you. We will give you a community that will support you. And we will give you the freedom to discover who you are."
+"Welcome to The Path. This is not a traditional university. We won't give you lectures to memorize, tests to pass, or degrees to earn. What we will give you is space, space to explore, to question, to fail, to grow. We will give you mentors who will challenge you. We will give you a community that will support you. And we will give you the freedom to discover who you are."
 
 He paused, looking at the faces before him.
 
-"The world has changed. Knowledge is free—AI has seen to that. But becoming is not free. Growing is not free. Finding your purpose, your passion, your place in the world—these things require time, effort, and community. That's what we offer. Not a credential, but a journey."
+"The world has changed. Knowledge is free, AI has seen to that. But becoming is not free. Growing is not free. Finding your purpose, your passion, your place in the world, these things require time, effort, and community. That's what we offer. Not a credential, but a journey."
 
 The students looked at each other, uncertain but intrigued.
 
-"Your first task," Michael continued, "is simple. Find a question you want to answer. Not a question AI can answer—a question only you can answer. A question about who you are, what you value, what you want to become. Then find others who share your question, and explore it together."
+"Your first task," Michael continued, "is simple. Find a question you want to answer. Not a question AI can answer, a question only you can answer. A question about who you are, what you value, what you want to become. Then find others who share your question, and explore it together."
 
 He watched as the students began to talk, to form groups, to start the messy process of becoming.
 
@@ -77,16 +77,16 @@ But most stayed. And slowly, something began to emerge.
 
 Groups formed around shared questions: "What does it mean to create?" "How do communities survive?" "What is the relationship between humans and technology?" "How do we find meaning in a world that doesn't need us?"
 
-These weren't academic questions—AI could answer those. They were personal questions, existential questions, questions that required lived experience to explore.
+These weren't academic questions, AI could answer those. They were personal questions, existential questions, questions that required lived experience to explore.
 
-The mentors—faculty who had volunteered to guide rather than teach—worked with each group. They didn't provide answers. They asked better questions. They challenged assumptions. They shared their own journeys, their own struggles, their own uncertainties.
+The mentors, faculty who had volunteered to guide rather than teach, worked with each group. They didn't provide answers. They asked better questions. They challenged assumptions. They shared their own journeys, their own struggles, their own uncertainties.
 
 And the students began to change.
 
 
 Michael watched a group of students working in the makerspace.
 
-They were building a community garden—designing the layout, constructing raised beds, planting seeds. The project had started as an exploration of sustainability, but it had become something more.
+They were building a community garden, designing the layout, constructing raised beds, planting seeds. The project had started as an exploration of sustainability, but it had become something more.
 
 "I never thought I'd enjoy getting my hands dirty," said one student, a young woman who had been headed for a career in finance. "But there's something about making things grow. About creating life. It feels more real than anything I did in school."
 
@@ -97,24 +97,24 @@ They were building a community garden—designing the layout, constructing raise
 
 He watched another group in the library, engaged in a heated discussion about ethics.
 
-They were debating the implications of AI—what it meant for humanity, for work, for meaning. The conversation was messy, unresolved, deeply felt.
+They were debating the implications of AI, what it meant for humanity, for work, for meaning. The conversation was messy, unresolved, deeply felt.
 
 "This is what college was supposed to be," said one of the mentors, a philosophy professor who had been skeptical of the program. "Not lectures, not exams. Real engagement with questions that matter."
 
 "Is it working?" Michael asked.
 
-"I don't know. Ask me in ten years, when we see who these students become." The professor smiled. "But I'll tell you this—they're more engaged than any students I've taught in twenty years. They're here because they want to be, not because they have to be. That changes everything."
+"I don't know. Ask me in ten years, when we see who these students become." The professor smiled. "But I'll tell you this, they're more engaged than any students I've taught in twenty years. They're here because they want to be, not because they have to be. That changes everything."
 
 
 By the end of the first semester, Michael had data.
 
-Retention was 87%—higher than the traditional program. Student satisfaction was 92%. And most importantly, students were reporting something they hadn't expected: a sense of purpose.
+Retention was 87%, higher than the traditional program. Student satisfaction was 92%. And most importantly, students were reporting something they hadn't expected: a sense of purpose.
 
 "I came here because I didn't know what else to do," wrote one student in an evaluation. "Now I have a direction. Not a career path, exactly, but a sense of what matters to me. I know who I am in a way I didn't before."
 
 "This program gave me permission to explore," wrote another. "To fail without consequences. To ask questions without answers. I learned more about myself in four months than I learned in four years of high school."
 
-"I came for the community," wrote a third. "I stayed for the growth. I'm not sure what I'll do next, but I know I'll figure it out. That's the real skill I learned—not knowledge, but the ability to navigate uncertainty."
+"I came for the community," wrote a third. "I stayed for the growth. I'm not sure what I'll do next, but I know I'll figure it out. That's the real skill I learned, not knowledge, but the ability to navigate uncertainty."
 
 
 Michael presented the results to President Warren.
@@ -127,7 +127,7 @@ Elizabeth studied the data. "Can we scale this?"
 
 "But we can't survive on one hundred students."
 
-"No. But maybe we don't have to scale the same model. Maybe we create multiple models—different paths for different students. The traditional program for those who want it. The Path for those who don't. Hybrid options for those in between."
+"No. But maybe we don't have to scale the same model. Maybe we create multiple models, different paths for different students. The traditional program for those who want it. The Path for those who don't. Hybrid options for those in between."
 
 Elizabeth was quiet for a long moment. "You're asking us to fundamentally transform the university."
 
@@ -171,7 +171,7 @@ Everywhere, there was energy. Not the frantic energy of students cramming for ex
 
 "It's different from what college was," Michael replied. "But maybe it's what college was supposed to be all along."
 
-Alex stopped at a group of students working on a project. They were designing a system to help local businesses adapt to automation—practical, meaningful work that used both technical skills and human insight.
+Alex stopped at a group of students working on a project. They were designing a system to help local businesses adapt to automation, practical, meaningful work that used both technical skills and human insight.
 
 "Can I join?" Alex asked.
 
@@ -179,7 +179,7 @@ The students looked at each other, then at him. "Sure. We could use help."
 
 Alex looked back at his father. "I think I want to apply."
 
-Michael felt something shift in his chest—hope, maybe, or relief, or simply the recognition that his son had found his own path.
+Michael felt something shift in his chest, hope, maybe, or relief, or simply the recognition that his son had found his own path.
 
 "Then apply," he said. "And see where it leads."
 

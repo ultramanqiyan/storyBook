@@ -116,5 +116,3 @@ And somehow, the question itself felt like an answer. Not a final answer. Not an
 
 The ceiling offered no answers. But Marcus didn't need answers. For now, he just needed questions. And he had finally found one that mattered.
 
-
-**END OF CHAPTER 5**

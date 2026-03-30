@@ -88,7 +88,7 @@ Jennifer nodded. "Okay. We have more candidates tomorrow."
 
 That night, Marcus stared at the ceiling, unable to sleep.
 
-He'd failed. Not Rachel—himself. He couldn't evaluate technical candidates because he wasn't technical anymore.
+He'd failed. Not Rachel, himself. He couldn't evaluate technical candidates because he wasn't technical anymore.
 
 *What am I doing?* The question was brutal. *How can I lead a technical team when I can't even interview engineers?*
 
@@ -106,5 +106,3 @@ But the shame grew. The gap widened. And the interviews continued, each one a re
 
 The acceptance was bitter. But it was also real.
 
-
-**END OF CHAPTER 5**

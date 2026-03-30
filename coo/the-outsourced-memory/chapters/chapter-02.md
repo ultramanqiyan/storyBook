@@ -12,7 +12,7 @@ She led him through the office, past clusters of engineers huddled over multiple
 
 "Let me show you what we've built," Jennifer said. "And then we can talk about why we think you're the perfect partner for what comes next."
 
-The presentation was polished, as these things always were. Mike had sat through dozens of pitches over the years—CRM systems, marketing platforms, automated valuation models. They all promised to revolutionize real estate, to replace the messy human elements of the business with clean data and efficient algorithms.
+The presentation was polished, as these things always were. Mike had sat through dozens of pitches over the years, CRM systems, marketing platforms, automated valuation models. They all promised to revolutionize real estate, to replace the messy human elements of the business with clean data and efficient algorithms.
 
 But as Jennifer walked him through HomeMatch AI, he began to see that this was different.
 
@@ -24,7 +24,7 @@ She pulled up a screen that showed a simple interface: a photograph of a house, 
 
 "It's not thinking like you. It's pattern recognition at scale. The system can process thousands of data points that would take you hours to review. But it needs your guidance to know which patterns matter." Jennifer pulled up another slide. "Here's what we're proposing. A partnership. You use our system for six months, give us feedback, help us refine the model. In exchange, you get access to a tool that can remember every property you've ever seen, every client you've ever worked with, every detail that's slipped your mind over the years."
 
-Mike stared at the screen. The house on the display was one he recognized—a property he'd sold five years ago. The system had pulled up the listing, his notes, the client's information, even a photo of the family at closing.
+Mike stared at the screen. The house on the display was one he recognized, a property he'd sold five years ago. The system had pulled up the listing, his notes, the client's information, even a photo of the family at closing.
 
 "We found your old files," Jennifer said. "We digitized everything. The system already knows your history."
 
@@ -34,7 +34,7 @@ Something about that felt invasive. And yet.
 
 "Tom and Lisa Henderson. 1843 Riverside Drive. Purchased 2014. Two children, Emma and Jack. Golden retriever named Buster." The system displayed the information instantly. "You sold them their house, and you've stayed in touch. They sent you a Christmas card last year."
 
-Mike felt a chill run through him. Not fear—something closer to wonder. "How did you know I couldn't remember?"
+Mike felt a chill run through him. Not fear, something closer to wonder. "How did you know I couldn't remember?"
 
 "We didn't. But we know that memory retrieval becomes less efficient with age. Our system is designed to supplement human memory, not replace it." Jennifer leaned forward. "Mr. Harrison, you have decades of invaluable knowledge. But knowledge that isn't accessible is knowledge that's lost. We want to help you keep accessing it."
 
@@ -42,13 +42,13 @@ The demonstration continued. Jennifer showed him how the system could analyze a 
 
 "It's like having an assistant who's been with you for twenty-five years," Jennifer said. "Because in a way, it has been. It's learned from your history."
 
-Mike watched the screen scroll through data—his data, his career, his life's work translated into algorithms and probabilities. Part of him wanted to walk away, to protect the mystery of his intuition from this clinical dissection. But another part, the part that had struggled to remember the Hendersons' names, that had felt the fog of old memories becoming harder to reach, was intrigued.
+Mike watched the screen scroll through data, his data, his career, his life's work translated into algorithms and probabilities. Part of him wanted to walk away, to protect the mystery of his intuition from this clinical dissection. But another part, the part that had struggled to remember the Hendersons' names, that had felt the fog of old memories becoming harder to reach, was intrigued.
 
 "What would I have to do?"
 
 "Use the system. Give us feedback. Let us observe how you work." Jennifer slid a tablet across the table. "The app is already loaded with your profile. Take it with you today. Try it on a property. See what you think."
 
-Mike picked up the tablet. It was lighter than he expected, the screen bright and responsive. His own face looked back at him from the profile picture—a photo from three years ago, when he'd still been dyeing the gray out of his hair.
+Mike picked up the tablet. It was lighter than he expected, the screen bright and responsive. His own face looked back at him from the profile picture, a photo from three years ago, when he'd still been dyeing the gray out of his hair.
 
 "I'm not making any commitments," he said.
 
@@ -72,7 +72,7 @@ There it was. A subtle discoloration on the brick, evidence of water wicking up 
 
 Mike straightened up, unsettled. The system had been right. It had predicted what he would notice before he'd noticed it.
 
-The showing went well. The young couple, Brandon and Aisha, were exactly the kind of clients Mike enjoyed working with—thoughtful, asking good questions, realistic about what they could afford. He walked them through the property, pointing out the issues he'd found, the work that would need to be done, the potential the house had if they were willing to invest in it.
+The showing went well. The young couple, Brandon and Aisha, were exactly the kind of clients Mike enjoyed working with, thoughtful, asking good questions, realistic about what they could afford. He walked them through the property, pointing out the issues he'd found, the work that would need to be done, the potential the house had if they were willing to invest in it.
 
 "The addition has drainage problems," he told them. "You'll want to get a quote on regrading before you make an offer. But the original structure is solid. These old Clarksville houses were built to last."
 
@@ -104,7 +104,7 @@ The next morning, he called Jennifer Walsh.
 
 "Name them."
 
-"I want to see everything the system learns about me. I want to understand how it works. And if I feel like it's changing how I think—if I feel like I'm losing something—I want the option to walk away."
+"I want to see everything the system learns about me. I want to understand how it works. And if I feel like it's changing how I think, if I feel like I'm losing something, I want the option to walk away."
 
 "Those seem like reasonable conditions," Jennifer said. "Welcome to HomeMatch, Mr. Harrison. I think this is going to be the beginning of a beautiful partnership."
 
@@ -134,13 +134,13 @@ Rachel looked at him with an expression he couldn't quite read. "Is that a good 
 
 What it means. Mike had been thinking about little else. The system was useful, undeniably. But every time he used it, he felt a subtle shift, a small surrender of the mental effort that had once been second nature.
 
-He noticed it most in the mornings, when he would review the day's properties. Before HomeMatch, he would study the listings, pull up the county records, drive through the neighborhoods to get a feel for the streets. Now, the app gave him everything he needed before he'd finished his first cup of coffee. The driving, the studying, the slow accumulation of sensory information—all of it replaced by data delivered instantly to his screen.
+He noticed it most in the mornings, when he would review the day's properties. Before HomeMatch, he would study the listings, pull up the county records, drive through the neighborhoods to get a feel for the streets. Now, the app gave him everything he needed before he'd finished his first cup of coffee. The driving, the studying, the slow accumulation of sensory information, all of it replaced by data delivered instantly to his screen.
 
 It was efficient. It was thorough. It was everything the modern world demanded.
 
 But late at night, when he couldn't sleep, Mike found himself thinking about the houses he'd walked through in his dreams. The way they kept changing, the way the rooms never quite matched his memory. He wondered if the system was changing him too, in ways he couldn't yet perceive.
 
-He didn't talk to Susan about these thoughts. She was supportive of the technology, saw it as a natural evolution of his practice. And maybe she was right. Maybe this was just what progress looked like—the old giving way to the new, the slow replaced by the fast, the embodied transformed into the digital.
+He didn't talk to Susan about these thoughts. She was supportive of the technology, saw it as a natural evolution of his practice. And maybe she was right. Maybe this was just what progress looked like, the old giving way to the new, the slow replaced by the fast, the embodied transformed into the digital.
 
 But sometimes, when he was alone in a property, waiting for clients who were running late, he would close his eyes and try to read the house the way he used to. He would breathe in the air, feel the floors beneath his feet, listen to the particular silence of empty rooms.
 

@@ -10,7 +10,7 @@ Option two: Take the severance. Leave Apex. Find a new path. Accept the uncertai
 
 On paper, option one was the rational choice. Better compensation, more security, clearer trajectory. Option two was risky, uncertain, potentially disastrous.
 
-But Lisa had spent fifteen years making decisions based on what was rational on paper. She'd optimized companies, eliminated positions, displaced workers—all in the name of efficiency, all because the numbers said it made sense.
+But Lisa had spent fifteen years making decisions based on what was rational on paper. She'd optimized companies, eliminated positions, displaced workers, all in the name of efficiency, all because the numbers said it made sense.
 
 Now she was one of the numbers. And she was beginning to understand that rationality wasn't the same as right.
 
@@ -58,7 +58,7 @@ Lisa felt tears pricking at her eyes. "I'm glad you found that."
 
 "Then I'm obsolete."
 
-"Then you need to find something the machine can't do." Sarah's voice softened. "Look, I don't forgive you for what happened at Meridian. I lost friends, I lost my identity, I lost years of my life to that transition. But I also know that you're the only consultant who ever tried to help us. That letter you left—it gave people time to prepare. Some of them found new jobs before the layoffs happened. That mattered."
+"Then you need to find something the machine can't do." Sarah's voice softened. "Look, I don't forgive you for what happened at Meridian. I lost friends, I lost my identity, I lost years of my life to that transition. But I also know that you're the only consultant who ever tried to help us. That letter you left, it gave people time to prepare. Some of them found new jobs before the layoffs happened. That mattered."
 
 Lisa hadn't known. She'd never found out if her anonymous letter had made a difference.
 
@@ -88,7 +88,7 @@ He nodded slowly, as if he'd expected this. "And the separation agreement?"
 
 Marcus raised an eyebrow. "I'm listening."
 
-"I want to create a transition support program for workers displaced by AI automation. Not as an Apex service—I know that's not the firm's focus. But I want access to our client network, to the companies we're helping optimize. I want to offer them a service that helps their displaced workers find new paths."
+"I want to create a transition support program for workers displaced by AI automation. Not as an Apex service, I know that's not the firm's focus. But I want access to our client network, to the companies we're helping optimize. I want to offer them a service that helps their displaced workers find new paths."
 
 "That's not what we do, Lisa."
 
@@ -96,7 +96,7 @@ Marcus raised an eyebrow. "I'm listening."
 
 Marcus leaned back in his chair. "You're proposing that we help the people we're displacing."
 
-"I'm proposing that we help companies displace people more responsibly. It's still efficiency—it's just efficiency that accounts for human cost."
+"I'm proposing that we help companies displace people more responsibly. It's still efficiency, it's just efficiency that accounts for human cost."
 
 He was quiet for a long moment. Lisa could see him calculating, weighing the idea against the firm's priorities.
 
@@ -125,9 +125,9 @@ Marcus was quiet for a long time. Then he nodded.
 Lisa left his office with something she hadn't felt in months: hope.
 
 
-She spent the next week writing the proposal. She drew on everything she knew—her experience with displaced workers, her understanding of corporate priorities, her knowledge of what companies needed and what workers needed. She created a model that served both: transition support that reduced legal risk and reputational damage for companies, while providing real resources and opportunities for workers.
+She spent the next week writing the proposal. She drew on everything she knew, her experience with displaced workers, her understanding of corporate priorities, her knowledge of what companies needed and what workers needed. She created a model that served both: transition support that reduced legal risk and reputational damage for companies, while providing real resources and opportunities for workers.
 
-It wasn't perfect. It wasn't going to stop the efficiency spiral. But it was something—a way to make the transition less brutal, to help people find their footing, to acknowledge that efficiency had human costs.
+It wasn't perfect. It wasn't going to stop the efficiency spiral. But it was something, a way to make the transition less brutal, to help people find their footing, to acknowledge that efficiency had human costs.
 
 When she presented it to Marcus and the partners, they asked tough questions. They challenged her assumptions, her projections, her business model. They made her defend every detail.
 
@@ -144,7 +144,7 @@ And Lisa would be the one providing it.
 
 That night, she called Sarah again.
 
-"I wanted to let you know—I'm starting a transition support program. Helping workers who are being displaced by AI automation."
+"I wanted to let you know, I'm starting a transition support program. Helping workers who are being displaced by AI automation."
 
 "That's... unexpected," Sarah said. "I thought you were taking the severance and moving on."
 
@@ -152,7 +152,7 @@ That night, she called Sarah again.
 
 "Convinced them? How?"
 
-"By showing them it's good business. Companies that handle layoffs well face less backlash, fewer lawsuits, better reputation. It's efficiency—but efficiency that accounts for human cost."
+"By showing them it's good business. Companies that handle layoffs well face less backlash, fewer lawsuits, better reputation. It's efficiency, but efficiency that accounts for human cost."
 
 Sarah was quiet for a moment. "You're using their own logic against them."
 

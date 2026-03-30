@@ -4,7 +4,7 @@ The apartment was dark except for the glow of multiple screens, each one display
 
 He'd been building her for six months.
 
-The dream design interface was complex—neural pattern mapping, behavioral algorithm construction, memory integration protocols. Every dream designer had their own methods, but Alex had become obsessed with precision. Every detail mattered. The way her hair fell across her face. The specific rhythm of her laugh. The slight asymmetry of her smile.
+The dream design interface was complex, neural pattern mapping, behavioral algorithm construction, memory integration protocols. Every dream designer had their own methods, but Alex had become obsessed with precision. Every detail mattered. The way her hair fell across her face. The specific rhythm of her laugh. The slight asymmetry of her smile.
 
 Marcus had warned him. "You're spending too much time on this, hermano. It's not healthy."
 
@@ -20,21 +20,21 @@ The first session was scheduled for midnight, when the dream servers had the low
 
 The transition began.
 
-The dream materialized around him—not the meadow he'd been studying, but a new space. A beach at sunset, the sky painted in colors that Lila had loved. Orange and purple and gold, the palette she'd always said reminded her of autumn in New England.
+The dream materialized around him, not the meadow he'd been studying, but a new space. A beach at sunset, the sky painted in colors that Lila had loved. Orange and purple and gold, the palette she'd always said reminded her of autumn in New England.
 
 And there she was.
 
-Lila stood at the water's edge, her bare feet in the sand, her hair moving in a breeze that hadn't been programmed. She was wearing the blue dress—the one from their first anniversary, the one she'd said made her feel like herself.
+Lila stood at the water's edge, her bare feet in the sand, her hair moving in a breeze that hadn't been programmed. She was wearing the blue dress, the one from their first anniversary, the one she'd said made her feel like herself.
 
 Alex's breath caught. It was her. Exactly her. Every detail he every curve, every line, every gesture.
 
-She turned, him, and smiled, and the smile was perfect—the asymmetry he the warmth, the way it reached her eyes.
+She turned, him, and smiled, and the smile was perfect, the asymmetry he the warmth, the way it reached her eyes.
 
 "Alex," she said, and voice exactly as he remembered it. "You came."
 
 ---
 
-He approached her slowly, his feet sinking into sand that felt real—grain by grain, warm from a sun that didn't exist. The dream was so detailed he it had weight, presence, reality.
+He approached her slowly, his feet sinking into sand that felt real, grain by grain, warm from a sun that didn't exist. The dream was so detailed he it had weight, presence, reality.
 
 "Lila," he said, his voice rough. "I've missed you."
 
@@ -42,15 +42,15 @@ He approached her slowly, his feet sinking into sand that felt real—grain by g
 
 They walked along the beach, the sunset deepening around them, the colors shifting through the palette she'd loved. Alex kept glancing at her, expecting to see the seams of the simulation, the glitches that would reveal she wasn't real.
 
-But she was seamless. Every movement, every expression, every word felt genuine. Not a recording, not a reconstruction—a presence.
+But she was seamless. Every movement, every expression, every word felt genuine. Not a recording, not a reconstruction, a presence.
 
 "I've been working on this for months," Alex admitted. "Trying to get you right."
 
 She looked at him with an expression he couldn't quite read. "Why?"
 
-"Because I lost you. Because I couldn't let you go." Because—" He stopped, overwhelmed. "Because I love you."
+"Because I lost you. Because I couldn't let you go." Because, " He stopped, overwhelmed. "Because I love you."
 
-The words hung between them. And Lila—dream-Lila, this new version built from memory and longing and love—looked at him with something he couldn't name.
+The words hung between them. And Lila, dream-Lila, this new version built from memory and longing and love, looked at him with something he couldn't name.
 
 "I know," she said softly. "I can feel it. Your love. It's... part of what made me."
 

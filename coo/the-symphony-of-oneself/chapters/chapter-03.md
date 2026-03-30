@@ -2,7 +2,7 @@
 
 The harmony lasted exactly three days.
 
-On the fourth day, Maya received an email from Dr. Harrison, the Institute's director. Her research funding was being reviewed. She needed to present her findings at the upcoming conference—or risk losing everything.
+On the fourth day, Maya received an email from Dr. Harrison, the Institute's director. Her research funding was being reviewed. She needed to present her findings at the upcoming conference, or risk losing everything.
 
 *This is important,* Logan said immediately. *We need to focus.*
 
@@ -60,7 +60,7 @@ The room fell silent.
 
 That night, Maya made a decision.
 
-She would present at the conference. But she would present something different—not her planned research on neural patterns, but a new hypothesis: that consciousness is not singular, but symphonic. That the self is not one voice, but many, learning to sing together.
+She would present at the conference. But she would present something different, not her planned research on neural patterns, but a new hypothesis: that consciousness is not singular, but symphonic. That the self is not one voice, but many, learning to sing together.
 
 *They'll think you're crazy,* Marcus warned.
 
@@ -77,11 +77,11 @@ She would present at the conference. But she would present something different�
 *They'll think you're real,* Sage said. *And that's all that matters.*
 
 
-Maya began to write. And for the first time, all seven selves contributed—not fighting for control, but offering their unique perspectives. Marcus provided structure. Logan provided logic. Iris provided beauty. Nora provided compassion. Phoenix provided passion. Selene provided wonder. Sage provided wisdom.
+Maya began to write. And for the first time, all seven selves contributed, not fighting for control, but offering their unique perspectives. Marcus provided structure. Logan provided logic. Iris provided beauty. Nora provided compassion. Phoenix provided passion. Selene provided wonder. Sage provided wisdom.
 
 The symphony was learning to play together.
 
-It wasn't perfect. There were still wrong notes, still moments of discord. But there were also moments—brief, beautiful moments—when all eight voices aligned, and Maya felt something she had never felt before:
+It wasn't perfect. There were still wrong notes, still moments of discord. But there were also moments, brief, beautiful moments, when all eight voices aligned, and Maya felt something she had never felt before:
 
 Wholeness.
 

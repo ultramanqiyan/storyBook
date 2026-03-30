@@ -2,7 +2,7 @@
 
 The call came on a Thursday afternoon.
 
-Alex was working from his home office—now a proper workspace, with a second monitor and a whiteboard covered in client notes—when his phone buzzed. The caller ID showed a number he didn't recognize.
+Alex was working from his home office, now a proper workspace, with a second monitor and a whiteboard covered in client notes, when his phone buzzed. The caller ID showed a number he didn't recognize.
 
 "Alex Rivera."
 
@@ -10,7 +10,7 @@ Alex was working from his home office—now a proper workspace, with a second mo
 
 Alex felt a moment of panic. An interview? About his pivot? He wasn't an expert. He was still learning, still figuring things out.
 
-But then he thought about all the people who had helped him—Jordan, Dr. Wong, Elena, the clients who had trusted him. And he thought about how much it would have meant, in his darkest days, to read about someone who had navigated this path successfully.
+But then he thought about all the people who had helped him, Jordan, Dr. Wong, Elena, the clients who had trusted him. And he thought about how much it would have meant, in his darkest days, to read about someone who had navigated this path successfully.
 
 "I'd be happy to," he said.
 
@@ -18,7 +18,7 @@ But then he thought about all the people who had helped him—Jordan, Dr. Wong, 
 
 The interview was scheduled for the following Monday.
 
-Alex spent the weekend preparing—not just his answers, but his mindset. What did he want to say? What would be helpful for others to hear?
+Alex spent the weekend preparing, not just his answers, but his mindset. What did he want to say? What would be helpful for others to hear?
 
 He called Dr. Wong on Saturday morning.
 
@@ -26,7 +26,7 @@ He called Dr. Wong on Saturday morning.
 
 "What do you think would be most helpful for people to know?" Dr. Wong asked.
 
-Alex considered the question. "That it's possible. That adaptation isn't about abandoning who you were—it's about building on it. That the fear is normal, but it doesn't have to stop you."
+Alex considered the question. "That it's possible. That adaptation isn't about abandoning who you were, it's about building on it. That the fear is normal, but it doesn't have to stop you."
 
 "That sounds like good advice to me."
 
@@ -38,19 +38,19 @@ Alex considered the question. "That it's possible. That adaptation isn't about a
 
 The interview took place at a coffee shop downtown.
 
-David Chen was younger than Alex had expected—maybe early thirties—with a casual demeanor that put Alex at ease. They ordered coffee and settled into a corner table.
+David Chen was younger than Alex had expected, maybe early thirties, with a casual demeanor that put Alex at ease. They ordered coffee and settled into a corner table.
 
 "So," David said, pulling out a recorder, "tell me about your transition. How did you go from fifteen years in traditional media to becoming a digital marketing consultant?"
 
 Alex took a breath. "It started with fear," he said. "Fear that everything I'd built was becoming worthless. Fear that I couldn't adapt. Fear that I was going to be left behind."
 
-He talked about the company's announcement, the accelerated timeline, the panic of realizing his expertise was becoming obsolete. He talked about the resistance—the anger, the grief, the desperate clinging to what he'd known.
+He talked about the company's announcement, the accelerated timeline, the panic of realizing his expertise was becoming obsolete. He talked about the resistance, the anger, the grief, the desperate clinging to what he'd known.
 
-And he talked about the shift. The moment he stopped fighting and started learning. The realization that his experience wasn't baggage—it was foundation.
+And he talked about the shift. The moment he stopped fighting and started learning. The realization that his experience wasn't baggage, it was foundation.
 
 "What was the hardest part?" David asked.
 
-"Letting go of my identity as an expert." Alex paused. "I'd spent fifteen years being the person who knew things. Being the one others came to for answers. Having to become a beginner again—that was terrifying. It felt like failure."
+"Letting go of my identity as an expert." Alex paused. "I'd spent fifteen years being the person who knew things. Being the one others came to for answers. Having to become a beginner again, that was terrifying. It felt like failure."
 
 "But it wasn't failure?"
 
@@ -59,7 +59,7 @@ And he talked about the shift. The moment he stopped fighting and started learni
 
 The article came out two weeks later.
 
-Alex's phone buzzed with messages from friends, former colleagues, even people he hadn't spoken to in years. The article had been shared widely, it seemed—passed around in professional networks, discussed in LinkedIn threads, forwarded in email chains.
+Alex's phone buzzed with messages from friends, former colleagues, even people he hadn't spoken to in years. The article had been shared widely, it seemed, passed around in professional networks, discussed in LinkedIn threads, forwarded in email chains.
 
 But the messages that meant the most were from strangers.
 
@@ -71,7 +71,7 @@ But the messages that meant the most were from strangers.
 
 Alex read each message carefully, feeling the weight of them.
 
-This was what adaptation looked like, he realized. Not just changing yourself—but changing in a way that helped others change too.
+This was what adaptation looked like, he realized. Not just changing yourself, but changing in a way that helped others change too.
 
 
 The calls started coming in the following weeks.
@@ -89,15 +89,15 @@ What kind of work did he want to do? What kind of clients did he want to serve? 
 
 He called Jordan for advice.
 
-"You're at a crossroads," she said. "You can stay small—keep doing what you're doing, serve the clients you have, maintain your independence. Or you can grow—hire people, expand your services, build something bigger."
+"You're at a crossroads," she said. "You can stay small, keep doing what you're doing, serve the clients you have, maintain your independence. Or you can grow, hire people, expand your services, build something bigger."
 
 "What would you do?"
 
 Jordan laughed. "That's the wrong question. The right question is: what do you want?"
 
-Alex thought about his journey. The fear and the resistance. The learning and the growth. The moment he'd realized that adaptation wasn't about abandoning who he was—it was about becoming who he needed to be next.
+Alex thought about his journey. The fear and the resistance. The learning and the growth. The moment he'd realized that adaptation wasn't about abandoning who he was, it was about becoming who he needed to be next.
 
-"I want to help people," he said slowly. "Not just businesses—people. People who are going through what I went through. People who are terrified of change and need someone to show them it's possible."
+"I want to help people," he said slowly. "Not just businesses, people. People who are going through what I went through. People who are terrified of change and need someone to show them it's possible."
 
 "That's a specific mission," Jordan said. "And it might not look like a traditional marketing consultancy."
 
@@ -114,7 +114,7 @@ Elena looked up from her book. "That sounds serious."
 
 "What is it?"
 
-Alex pulled out a notebook. "I want to create a resource for professionals navigating career transitions. Not just digital transformation—any kind of adaptation. Courses, coaching, community. A place where people can learn what I learned: that change isn't something to fear. It's something to embrace."
+Alex pulled out a notebook. "I want to create a resource for professionals navigating career transitions. Not just digital transformation, any kind of adaptation. Courses, coaching, community. A place where people can learn what I learned: that change isn't something to fear. It's something to embrace."
 
 Elena's eyes lit up. "That sounds amazing."
 
@@ -137,7 +137,7 @@ But he had something more important.
 
 He had the willingness to try. To learn. To adapt.
 
-And he had the experience to know that even if he failed, he would learn from it. That failure wasn't the opposite of success—it was part of the process.
+And he had the experience to know that even if he failed, he would learn from it. That failure wasn't the opposite of success, it was part of the process.
 
 He opened a new document and typed at the top:
 

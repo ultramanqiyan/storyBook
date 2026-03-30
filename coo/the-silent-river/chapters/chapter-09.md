@@ -4,7 +4,7 @@ The email came from an anonymous account, the subject line blank. Elena almost d
 
 "I have information about NeuralCore that could help your case. Meet me at the River's Bend Public Library, Saturday, 7 PM. Come alone."
 
-Elena stared at the message for a long time. It could be a trap—NeuralCore had already shown they would use any means to discredit her. But it could also be what she needed: a witness willing to testify, evidence that couldn't be dismissed.
+Elena stared at the message for a long time. It could be a trap, NeuralCore had already shown they would use any means to discredit her. But it could also be what she needed: a witness willing to testify, evidence that couldn't be dismissed.
 
 She saved the email and began to prepare.
 
@@ -30,11 +30,11 @@ Elena felt her pulse quicken. "I've been trying to reach you for weeks."
 
 Park spoke quickly, in low tones, his eyes constantly moving.
 
-"I worked in facilities management for two years. Maintenance, repairs, that kind of thing. I wasn't supposed to see the big picture—just fix what was broken. But you can't work somewhere for two years without noticing things."
+"I worked in facilities management for two years. Maintenance, repairs, that kind of thing. I wasn't supposed to see the big picture, just fix what was broken. But you can't work somewhere for two years without noticing things."
 
 "What kind of things?"
 
-"The water intake, for one. The permits say they're drawing from the main aquifer. But I saw the schematics. They've drilled deeper—much deeper. There's a secondary aquifer that no one knew about. They're draining it dry."
+"The water intake, for one. The permits say they're drawing from the main aquifer. But I saw the schematics. They've drilled deeper, much deeper. There's a secondary aquifer that no one knew about. They're draining it dry."
 
 Elena leaned forward. "I saw the documents. But I need testimony. Someone who can speak to what they show."
 
@@ -57,12 +57,12 @@ Elena handed him a card with a secure number. "Call me when you're ready. Day or
 
 The next week was a whirlwind of preparation. Elena worked with David Park to organize his testimony, to document everything he'd seen, to build a case that couldn't be dismissed on procedural grounds.
 
-She also reached out to other potential witnesses—workers who had left NeuralCore, officials who had been involved in the permitting process, scientists who could speak to the environmental impact. One by one, they agreed to come forward. The story was growing, and with it, the evidence.
+She also reached out to other potential witnesses, workers who had left NeuralCore, officials who had been involved in the permitting process, scientists who could speak to the environmental impact. One by one, they agreed to come forward. The story was growing, and with it, the evidence.
 
 By the end of the week, Elena had something she hadn't had before: a case that could survive.
 
 
-The appeal was filed on Monday morning. Elena stood on the courthouse steps, surrounded by reporters, and announced that new evidence had emerged—evidence that would prove NeuralCore's wrongdoing and the government's complicity.
+The appeal was filed on Monday morning. Elena stood on the courthouse steps, surrounded by reporters, and announced that new evidence had emerged, evidence that would prove NeuralCore's wrongdoing and the government's complicity.
 
 "The court dismissed our case on procedural grounds," she said. "But procedures don't change the truth. NeuralCore drained an aquifer that belonged to the public. The government helped them do it. And the people of River's Bend paid the price."
 
@@ -88,7 +88,7 @@ The breakthrough came on Thursday. Elena received a call from a federal prosecut
 
 "The kind that suggests potential federal crimes. Environmental violations. Fraud. Possibly conspiracy." Kim paused. "We'd like to open an investigation."
 
-Elena felt her heart race. A federal investigation was exactly what they needed—not just a civil case, but criminal charges. Something that couldn't be dismissed on procedural grounds.
+Elena felt her heart race. A federal investigation was exactly what they needed, not just a civil case, but criminal charges. Something that couldn't be dismissed on procedural grounds.
 
 "What do you need from me?"
 
@@ -97,7 +97,7 @@ Elena felt her heart race. A federal investigation was exactly what they needed�
 "I know," Elena said. "I've been fighting them for months."
 
 
-The federal investigation changed everything. Suddenly, NeuralCore wasn't just fighting a civil lawsuit—they were facing potential criminal charges. Executives who had ignored warnings could face prison. Officials who had signed secret deals could lose their careers.
+The federal investigation changed everything. Suddenly, NeuralCore wasn't just fighting a civil lawsuit, they were facing potential criminal charges. Executives who had ignored warnings could face prison. Officials who had signed secret deals could lose their careers.
 
 Governor Chen held an emergency press conference, her face pale.
 
@@ -108,7 +108,7 @@ But Elena could see the fear in her eyes. The governor had approved the secret d
 If the investigation went deep enough, she could be implicated too.
 
 
-That night, Elena stood at the edge of the dry riverbed, looking up at the stars. The valley was quiet, but it didn't feel dead anymore. It felt like something was stirring—something that had been buried under years of silence and defeat.
+That night, Elena stood at the edge of the dry riverbed, looking up at the stars. The valley was quiet, but it didn't feel dead anymore. It felt like something was stirring, something that had been buried under years of silence and defeat.
 
 Sarah Miller found her there.
 
@@ -126,5 +126,3 @@ Sarah was quiet for a moment. "My grandfather would have been proud of you."
 
 "No." Sarah smiled. "You didn't. That's why you won."
 
-
-**END OF CHAPTER 9**

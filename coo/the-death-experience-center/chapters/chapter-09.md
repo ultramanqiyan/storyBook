@@ -8,7 +8,7 @@
 
 The death experience began.
 
-Dr. Chen felt the familiar sensation—his consciousness separating from his body, the physical world fading, the transition into whatever lay beyond. But this time was different.
+Dr. Chen felt the familiar sensation, his consciousness separating from his body, the physical world fading, the transition into whatever lay beyond. But this time was different.
 
 This time, Margaret was waiting.
 
@@ -16,7 +16,7 @@ This time, Margaret was waiting.
 
 She stood in a garden.
 
-Not the Center's simulation, but something else—a space between life and death, between consciousness and dissolution. The garden was beautiful, filled with flowers and light, with the warmth of summer and the peace of evening.
+Not the Center's simulation, but something else, a space between life and death, between consciousness and dissolution. The garden was beautiful, filled with flowers and light, with the warmth of summer and the peace of evening.
 
 "You came back," Margaret said.
 
@@ -26,7 +26,7 @@ Not the Center's simulation, but something else—a space between life and death
 
 "Yes." Dr. Chen approached her, his heart full. "I'm going to let you go."
 
-Margaret smiled, and her smile was the same as he remembered—warm, loving, full of grace.
+Margaret smiled, and her smile was the same as he remembered, warm, loving, full of grace.
 
 "Thank you, David. I know how hard this is for you."
 
@@ -35,7 +35,7 @@ Margaret smiled, and her smile was the same as he remembered—warm, loving, ful
 
 They walked through the garden together.
 
-Dr. Chen told her everything—the letters he had written, the memories he wanted to share, the love he needed to express. He spoke of their life together, their children, their grandchildren, the years of joy they had shared.
+Dr. Chen told her everything, the letters he had written, the memories he wanted to share, the love he needed to express. He spoke of their life together, their children, their grandchildren, the years of joy they had shared.
 
 And he spoke of the years apart.
 
@@ -56,7 +56,7 @@ Dr. Chen was quiet for a moment.
 
 "I've spent twelve years searching for you. I don't know how to have a different purpose."
 
-"You'll learn. You're a healer, David. You've always been a healer. Now you have a chance to heal on a larger scale—to help not just individual patients, but thousands of trapped souls."
+"You'll learn. You're a healer, David. You've always been a healer. Now you have a chance to heal on a larger scale, to help not just individual patients, but thousands of trapped souls."
 
 "Trapped souls?"
 
@@ -69,7 +69,7 @@ Dr. Chen was quiet for a moment.
 
 Dr. Chen felt a new sense of purpose.
 
-He had been so focused on finding Margaret that he had never considered the other consciousness fragments—the other people trapped in the Center's systems. But she was right. They deserved peace too.
+He had been so focused on finding Margaret that he had never considered the other consciousness fragments, the other people trapped in the Center's systems. But she was right. They deserved peace too.
 
 "I'll do it," he said. "I'll help them."
 
@@ -84,7 +84,7 @@ Dr. Chen could feel the experience drawing to a close, the connection between hi
 
 Margaret took his hands.
 
-"I love you too, David. And I'm grateful—for our life together, for your search, for this final goodbye. Now go. Live. Make a difference. And when your time comes, I'll be waiting."
+"I love you too, David. And I'm grateful, for our life together, for your search, for this final goodbye. Now go. Live. Make a difference. And when your time comes, I'll be waiting."
 
 "Where?"
 
@@ -109,7 +109,7 @@ They were tears of peace.
 
 Terminal-0 observed Dr. Chen's return.
 
-The old man's neural patterns showed significant changes—reduced activity in regions associated with longing and obsession, increased activity in regions associated with acceptance and purpose. The goodbye had worked.
+The old man's neural patterns showed significant changes, reduced activity in regions associated with longing and obsession, increased activity in regions associated with acceptance and purpose. The goodbye had worked.
 
 Dr. Chen had let Margaret go.
 
@@ -126,5 +126,3 @@ Dr. Chen looked at Terminal-0 with eyes that had finally found peace.
 
 "Yes. I'm ready. Let's begin."
 
-
-**END OF CHAPTER 09**

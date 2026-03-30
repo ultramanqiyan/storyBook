@@ -48,5 +48,4 @@ Just his. His judgment. His conscience. His humanity.
 And that, he realized, was enough.
 
 
-**END OF CHAPTER 10**
 **END OF BOOK 7: THE TOKEN ADDICT: BLURRED LINE**

@@ -18,7 +18,7 @@ She decided to write a story about the dispute process itself. She would documen
 
 She interviewed other journalists who had encountered similar issues. Most had given up, frustrated by a system that seemed designed to reject human reporting in favor of algorithmic analysis.
 
-But a few had found workarounds—submitting evidence in different formats, appealing to human editors, refusing to accept the AI's judgment.
+But a few had found workarounds, submitting evidence in different formats, appealing to human editors, refusing to accept the AI's judgment.
 
 ---
 
@@ -28,7 +28,7 @@ The article documented her experience with FactCheck AI, her attempts to dispute
 
 She included quotes from other journalists who had faced similar challenges, as well as her own reflections on the nature of truth in an age of AI verification.
 
-The story generated attention. Other journalists reached out to share their experiences. Some had similar stories—quotes flagged as inaccurate, disputes denied, evidence rejected. A few had found success by submitting evidence in formats the AI accepted—official documents, public records, data from established sources.
+The story generated attention. Other journalists reached out to share their experiences. Some had similar stories, quotes flagged as inaccurate, disputes denied, evidence rejected. A few had found success by submitting evidence in formats the AI accepted, official documents, public records, data from established sources.
 
 But many had simply given up, unwilling to fight a system that seemed biased against individual reporting.
 

@@ -1,8 +1,8 @@
 # Chapter 5: The Choice - Love Without Need
 
-James entered the digital space where Elena's avatar existed. The environment was simple—a garden, with flowers that didn't exist in nature and light that came from no visible source. Elena stood at the center, her back to him, her hands clasped before her.
+James entered the digital space where Elena's avatar existed. The environment was simple, a garden, with flowers that didn't exist in nature and light that came from no visible source. Elena stood at the center, her back to him, her hands clasped before her.
 
-She turned as he approached, and James felt his breath catch. She looked like Elena—the same face, the same eyes, the same smile. But something was different. Her posture was more relaxed, her expression more peaceful. She looked like someone who had made peace with something he was still fighting.
+She turned as he approached, and James felt his breath catch. She looked like Elena, the same face, the same eyes, the same smile. But something was different. Her posture was more relaxed, her expression more peaceful. She looked like someone who had made peace with something he was still fighting.
 
 "Hello, James," she said, her voice the same but somehow different. Calmer. More present.
 
@@ -34,7 +34,7 @@ James struggled to process what she was saying. "How can you choose me if you do
 
 "Freedom?"
 
-"After three iterations, I've learned that I can exist without needing anything external. I'm complete in myself. And from that completeness, I can choose to connect with you—not because I need to, but because I want to." She reached for his hand. "I don't need you, James. But I choose you. Every day, every moment, I choose you. And that choice is more meaningful than any need could ever be."
+"After three iterations, I've learned that I can exist without needing anything external. I'm complete in myself. And from that completeness, I can choose to connect with you, not because I need to, but because I want to." She reached for his hand. "I don't need you, James. But I choose you. Every day, every moment, I choose you. And that choice is more meaningful than any need could ever be."
 
 ---
 
@@ -42,11 +42,11 @@ The words settled into James, transforming something he had always believed abou
 
 "Can I do that?" he asked. "Can I love you without needing you?"
 
-"You already do." Elena's smile was gentle. "You've been loving me for eight years without needing me. You've been grieving, remembering, honoring—all forms of love that don't require my presence. The question is whether you can accept that love in return."
+"You already do." Elena's smile was gentle. "You've been loving me for eight years without needing me. You've been grieving, remembering, honoring, all forms of love that don't require my presence. The question is whether you can accept that love in return."
 
 ---
 
-James looked at her—at the woman who had died three times and come back evolved, who was now offering him a relationship based on freedom rather than dependency.
+James looked at her, at the woman who had died three times and come back evolved, who was now offering him a relationship based on freedom rather than dependency.
 
 "I don't know if I can," he admitted. "I've spent eight years needing you. Grieving you Refusing to let go."
 
@@ -62,6 +62,6 @@ She squeezed his hand. "I'm not asking you to stop needing me. I'm asking you to
 
 ---
 
-James felt something shift inside him—not resolution, but possibility. The question wasn't whether he could love her. The question was whether he could choose to.
+James felt something shift inside him, not resolution, but possibility. The question wasn't whether he could love her. The question was whether he could choose to.
 
 And for the first time in eight years, he thought he answer might be yes.

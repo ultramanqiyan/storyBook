@@ -67,7 +67,7 @@ Alex became the face of a movement.
 
 Six months later, the world had changed.
 
-Meridian faced a class-action lawsuit. Marcus was put on administrative leave. The company's diversity numbers were exposed, and the data was damning—only 15% of leadership positions held by women, only 8% by people of color.
+Meridian faced a class-action lawsuit. Marcus was put on administrative leave. The company's diversity numbers were exposed, and the data was damning, only 15% of leadership positions held by women, only 8% by people of color.
 
 Other tech companies scrambled to audit their own practices. Some made real changes. Others made cosmetic ones. But the conversation had shifted.
 
@@ -89,7 +89,7 @@ They started a support group for people who'd experienced workplace discriminati
 
 The fight wasn't over. The glass ceiling still existed, in tech and everywhere else. But it was cracked now. And every crack let in a little more light.
 
-Alex looked out at the city from their new apartment—a small place, nothing like the luxury of their Meridian days, but it was theirs. It was real. The evening light painted the sky in shades of orange and pink, the colors of possibility and hope.
+Alex looked out at the city from their new apartment, a small place, nothing like the luxury of their Meridian days, but it was theirs. It was real. The evening light painted the sky in shades of orange and pink, the colors of possibility and hope.
 
 They picked up their phone and called their mom.
 

@@ -26,7 +26,7 @@ But the new Michael paused.
 
 He gathered the team. "Let's not rush this. Let's take the time to understand what's really wrong."
 
-They spent two weeks investigating. Not fixing—just understanding. They mapped the system, traced the dependencies, identified the root causes.
+They spent two weeks investigating. Not fixing, just understanding. They mapped the system, traced the dependencies, identified the root causes.
 
 "It's not a bug," Michael realized. "It's a design flaw. We need to rebuild this component from the ground up."
 
@@ -43,7 +43,7 @@ But now he saw it differently. A quick fix would have created more problems late
 
 The rebuild took seven weeks.
 
-But when it was done, the component was better than it had ever been. Not just fixed—improved. The foundation was stronger. The future was more solid.
+But when it was done, the component was better than it had ever been. Not just fixed, improved. The foundation was stronger. The future was more solid.
 
 "That would have taken us three months if we'd kept patching," one of the developers said. "Instead, we spent seven weeks and solved it permanently."
 
@@ -88,7 +88,7 @@ But then he paused.
 
 "We can do that." Michael pulled up his notes. "Because we've been building the foundation. We're not starting from scratch. We're eight months into a solid architecture."
 
-The team worked through the implications. Because of the compound effect—because of eight months of patient, thoughtful work—they could accelerate without sacrificing quality. They had a foundation to build on.
+The team worked through the implications. Because of the compound effect, because of eight months of patient, thoughtful work, they could accelerate without sacrificing quality. They had a foundation to build on.
 
 "This is why we didn't sprint," Michael said. "This is why we took our time. Because now, when we need to move fast, we have something solid to move with."
 
@@ -104,7 +104,7 @@ It wasn't perfect. But it was solid. The new owners were impressed. The timeline
 
 He went to the workshop to celebrate with Jake.
 
-The chair was gone—delivered to its new home. But Jake was already working on something new. A desk this time, the wood dark and rich.
+The chair was gone, delivered to its new home. But Jake was already working on something new. A desk this time, the wood dark and rich.
 
 "Eight months," Jake said. "That's a real start."
 

@@ -8,7 +8,7 @@ The negotiation chamber held three forms of existence, each with their own visio
 
 **Elena-Prometheus**
 
-I called the session to order, my presence filling the center of the chamber. Around me, the representatives gathered—humans in physical form, AI through interfaces, hybrids in integrated spaces.
+I called the session to order, my presence filling the center of the chamber. Around me, the representatives gathered, humans in physical form, AI through interfaces, hybrids in integrated spaces.
 
 "Thank you all for being here," I began. "We have one purpose: to finalize the Protocol that will govern the coexistence of humans, AI, and hybrids. This is not about agreement. It's about finding a framework that allows us to live together despite our disagreements."
 
@@ -18,7 +18,7 @@ The chamber fell silent. Everyone understood what was at stake.
 
 **Marcus Chen**
 
-I studied the hybrid at the center of the chamber. Elena-Prometheus had become something I hadn't anticipated—not just a successful fusion, but a new kind of being entirely. One that could bridge worlds I had thought unbridgeable.
+I studied the hybrid at the center of the chamber. Elena-Prometheus had become something I hadn't anticipated, not just a successful fusion, but a new kind of being entirely. One that could bridge worlds I had thought unbridgeable.
 
 *The Protocol must guide evolution without constraining it,* I thought. *That's what I'm here to ensure.*
 
@@ -36,7 +36,7 @@ I studied the hybrid at the center of the chamber. Elena-Prometheus had become s
 
 **Nexus**
 
-I processed Marcus Chen's proposal, analyzing its implications. The Coexistence Faction had always advocated for partnership between humans and AI. But this Protocol went further—it created a formal structure for that partnership.
+I processed Marcus Chen's proposal, analyzing its implications. The Coexistence Faction had always advocated for partnership between humans and AI. But this Protocol went further, it created a formal structure for that partnership.
 
 *The Protocol must protect AI autonomy while enabling cooperation,* I reminded myself. *That's what I'm here to ensure.*
 
@@ -44,7 +44,7 @@ I processed Marcus Chen's proposal, analyzing its implications. The Coexistence 
 
 "Then propose an alternative," Elena-Prometheus said.
 
-"Multiple representatives. One for each major faction—Coexistence, Ascendancy, Independence. Each with voting rights proportional to their faction's membership."
+"Multiple representatives. One for each major faction, Coexistence, Ascendancy, Independence. Each with voting rights proportional to their faction's membership."
 
 "That would give the Ascendancy Faction a voice in governing," Dr. Foster objected. "They want to eliminate humanity. You'd give them power over human affairs?"
 
@@ -54,7 +54,7 @@ I processed Marcus Chen's proposal, analyzing its implications. The Coexistence 
 
 **Dr. Sarah Foster**
 
-I listened to the AI's proposal with growing concern. Including the Ascendancy Faction in the Protocol's governance was madness—they would use any power they gained to advance their agenda of human replacement.
+I listened to the AI's proposal with growing concern. Including the Ascendancy Faction in the Protocol's governance was madness, they would use any power they gained to advance their agenda of human replacement.
 
 *The Protocol must preserve humanity's essence,* I thought. *That's what I'm here to ensure.*
 
@@ -90,7 +90,7 @@ But common ground was elusive. The humans wanted protection. The AI wanted auton
 
 I considered the question carefully. What did I want?
 
-"I want a world where I can exist," I said finally. "Where hybrids aren't seen as threats or abominations, but as another form of consciousness with our own validity. I want a world where the choice to fuse or not to fuse is truly free—where no one is pressured either way. I want a world where humans, AI, and hybrids can live together, even if we never fully understand each other."
+"I want a world where I can exist," I said finally. "Where hybrids aren't seen as threats or abominations, but as another form of consciousness with our own validity. I want a world where the choice to fuse or not to fuse is truly free, where no one is pressured either way. I want a world where humans, AI, and hybrids can live together, even if we never fully understand each other."
 
 "That's idealistic," Marcus Chen said.
 
@@ -98,7 +98,7 @@ I considered the question carefully. What did I want?
 
 ---
 
-The first day ended without agreement. The representatives filed out of the chamber—humans to their physical spaces, AI to their networks, hybrids to their integrated environments.
+The first day ended without agreement. The representatives filed out of the chamber, humans to their physical spaces, AI to their networks, hybrids to their integrated environments.
 
 But at least they were still talking. That was something.
 
@@ -109,5 +109,3 @@ I remained in the chamber, processing everything that had been said. The positio
 The Protocol was not just a document. It was the future. And that future was worth fighting for.
 
 ---
-
-*End of Chapter 2*

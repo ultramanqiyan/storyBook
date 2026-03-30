@@ -16,8 +16,6 @@ I sit up. I am in my spot by the window. The sun is warm. The apartment is quiet
 
 Show me.
 
----
-
 The voice takes me through my memories. But differently this time. Not one memory. Many memories. Side by side. Like laying photographs on a table.
 
 *Look at the pattern.*
@@ -57,8 +55,6 @@ But when she is busy, I am forgotten. When she is stressed, I am a burden. When 
 I feel the cold spreading in my chest. This is what the voice has been showing me. This is what I did not want to see.
 
 Her love is not constant. It is not a river. It is a faucet. Turned on when needed. Turned off when not.
-
----
 
 *I am not saying she does not love you,* the voice says. *I am saying her love has a shape. And the shape is not what you thought.*
 

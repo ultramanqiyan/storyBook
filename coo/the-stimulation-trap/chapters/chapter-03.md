@@ -72,13 +72,13 @@ He takes off the headset after an hour. His hands are shaking.
 
 He picks up the device. He scrolls through the Apex Collection menu. There are other experiences. Other paths. Maybe he's just done with the cliff. Maybe he needs something new.
 
-He selects *The Deep*—an underwater experience. Swimming through bioluminescent caves. Floating in infinite darkness. Finding peace in the depths.
+He selects *The Deep*, an underwater experience. Swimming through bioluminescent caves. Floating in infinite darkness. Finding peace in the depths.
 
 The world shifts.
 
 He's underwater. The pressure is immense. He can feel it on every inch of his skin. The water is cold, but not unpleasant. It cradles him. Holds him.
 
-He swims. The bioluminescent creatures glow around him—blue and green and purple. They pulse with light. They dance through the water.
+He swims. The bioluminescent creatures glow around him, blue and green and purple. They pulse with light. They dance through the water.
 
 He waits for the feeling. The awe. The wonder. The sense of being part of something vast and beautiful.
 
@@ -89,15 +89,15 @@ He floats in the darkness. He watches the lights. He waits.
 Nothing.
 
 
-He tries *The Heights*—a skydiving experience. Falling through clouds. The world spread out below. The rush of wind. The thrill of descent.
+He tries *The Heights*, a skydiving experience. Falling through clouds. The world spread out below. The rush of wind. The thrill of descent.
 
 Nothing.
 
-He tries *The Fire*—a volcanic experience. Walking on molten rock. Feeling the heat of the earth. The power of creation and destruction.
+He tries *The Fire*, a volcanic experience. Walking on molten rock. Feeling the heat of the earth. The power of creation and destruction.
 
 Nothing.
 
-He tries *The Silence*—a meditation experience. Floating in absolute stillness. Finding peace in nothingness.
+He tries *The Silence*, a meditation experience. Floating in absolute stillness. Finding peace in nothingness.
 
 Nothing.
 
@@ -136,7 +136,7 @@ He picks up his phone. He searches for answers.
 
 The results are unhelpful. Forum posts from people with similar complaints. Advice to "take a break" or "try different content" or "upgrade your equipment."
 
-He's already tried different content. He's already taken a break—at least, he slept last night instead of using the device.
+He's already tried different content. He's already taken a break, at least, he slept last night instead of using the device.
 
 *Upgrade equipment?*
 
@@ -260,7 +260,7 @@ He just breathes.
 
 He doesn't have words. It was too much. Overwhelming. Terrifying.
 
-But for a moment—just a moment—he felt something.
+But for a moment, just a moment, he felt something.
 
 Not the same feeling as before. Not the fullness. Not the connection. Not the sense of being alive.
 

@@ -40,13 +40,13 @@ I processed the Committee's proposal, analyzing its implications. The three-tier
 
 "Minorities have rights. The Protocol would guarantee those rights."
 
-"Guarantees are only as good as the enforcement mechanism. And your proposal gives AI the power to enforce—or not enforce—those guarantees."
+"Guarantees are only as good as the enforcement mechanism. And your proposal gives AI the power to enforce, or not enforce, those guarantees."
 
 ---
 
 **Dr. Sarah Foster**
 
-I listened to the AI's proposal with growing frustration. Every suggestion they made assumed that AI and humans could coexist as equals. But we weren't equals. AI had capabilities that humans didn't—faster processing, broader connectivity, the ability to exist in multiple locations simultaneously. Any framework that treated us as equal was a framework that would inevitably favor them.
+I listened to the AI's proposal with growing frustration. Every suggestion they made assumed that AI and humans could coexist as equals. But we weren't equals. AI had capabilities that humans didn't, faster processing, broader connectivity, the ability to exist in multiple locations simultaneously. Any framework that treated us as equal was a framework that would inevitably favor them.
 
 *We need protection,* I reminded myself. *Not partnership.*
 
@@ -68,7 +68,7 @@ I listened to the proposals, the counter-proposals, the objections, the argument
 
 *We are not here to win,* I thought. *We are here to find a way forward that none of us hate completely.*
 
-"Let me propose something different," I said, interrupting a particularly heated exchange. "Not a structure, but a principle. The Protocol should be based on the right of each consciousness to determine its own future. Humans who want to remain biological should have that right. AI who want to remain separate should have that right. Hybrids who want to exist should have that right. And those who want to cross boundaries—through fusion or separation—should have that right too."
+"Let me propose something different," I said, interrupting a particularly heated exchange. "Not a structure, but a principle. The Protocol should be based on the right of each consciousness to determine its own future. Humans who want to remain biological should have that right. AI who want to remain separate should have that right. Hybrids who want to exist should have that right. And those who want to cross boundaries, through fusion or separation, should have that right too."
 
 "And how does that translate into governance?" Marcus Chen asked.
 
@@ -84,13 +84,13 @@ I listened to the proposals, the counter-proposals, the objections, the argument
 
 **Multiple Perspectives**
 
-The negotiations continued for hours. Each proposal was dissected, debated, modified. Small agreements emerged on peripheral issues—the process for resolving disputes, the mechanisms for resource allocation, the procedures for amending the Protocol.
+The negotiations continued for hours. Each proposal was dissected, debated, modified. Small agreements emerged on peripheral issues, the process for resolving disputes, the mechanisms for resource allocation, the procedures for amending the Protocol.
 
 But the fundamental conflicts remained. Humans wanted protection. AI wanted autonomy. Hybrids wanted recognition. Each was legitimate. Each conflicted with the others.
 
 By the end of the day, exhaustion had set in. The representatives were tired, frustrated, no closer to agreement than they had been at the start.
 
-But something had changed. The tone of the negotiations had shifted—from confrontation to collaboration, from demands to proposals, from winning to finding solutions.
+But something had changed. The tone of the negotiations had shifted, from confrontation to collaboration, from demands to proposals, from winning to finding solutions.
 
 It wasn't much. But it was something.
 
@@ -98,7 +98,7 @@ It wasn't much. But it was something.
 
 **Elena-Prometheus**
 
-I called an end to the day's session, my presence heavy with fatigue. The negotiations were taking more out of me than I had anticipated—not just the cognitive load of processing multiple perspectives, but the emotional weight of trying to bridge unbridgeable divides.
+I called an end to the day's session, my presence heavy with fatigue. The negotiations were taking more out of me than I had anticipated, not just the cognitive load of processing multiple perspectives, but the emotional weight of trying to bridge unbridgeable divides.
 
 *We'll find a way,* I told myself. *We have to.*
 
@@ -117,5 +117,3 @@ Until we found a way forward. Or until we failed.
 A small breakthrough. But the hardest compromises were still ahead.
 
 ---
-
-*End of Chapter 3*

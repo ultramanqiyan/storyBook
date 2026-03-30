@@ -56,5 +56,3 @@ The weight of moral responsibility. The discomfort of ethical judgment. The burd
 
 It was heavy. But it was also his. And that, he realized, was what mattered.
 
-
-**END OF CHAPTER 5**

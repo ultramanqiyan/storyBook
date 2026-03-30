@@ -2,27 +2,27 @@
 
 The first time Mike Harrison realized something was genuinely wrong, he was driving to a listing in a neighborhood he'd worked for fifteen years.
 
-Barton Hills was familiar territory. He'd sold dozens of houses there, knew every street by name, could navigate its winding roads without GPS. He'd closed a deal on a property just last month—a charming mid-century on Barton Hills Drive that had gone to a young architect and her husband.
+Barton Hills was familiar territory. He'd sold dozens of houses there, knew every street by name, could navigate its winding roads without GPS. He'd closed a deal on a property just last month, a charming mid-century on Barton Hills Drive that had gone to a young architect and her husband.
 
-But as he turned onto the street where the property was located, Mike felt a strange disorientation. The houses looked unfamiliar. The street name on the sign—Barton Skyway—didn't match his memory. He pulled over and checked his phone, certain he'd taken a wrong turn.
+But as he turned onto the street where the property was located, Mike felt a strange disorientation. The houses looked unfamiliar. The street name on the sign, Barton Skyway, didn't match his memory. He pulled over and checked his phone, certain he'd taken a wrong turn.
 
 The GPS showed he was exactly where he was supposed to be. The address matched the listing. But the street itself was wrong, somehow. The houses were in the wrong places. The trees were different. The curve of the road didn't match the mental map he'd carried for years.
 
 He sat in his car for a long moment, trying to reconcile what he was seeing with what he remembered. Then, slowly, he opened the HomeMatch app.
 
-The property information loaded instantly. The listing photos showed a house he recognized—the young architect's place, the one he'd sold last month. But the address was different from what he remembered. Barton Skyway, not Barton Hills Drive.
+The property information loaded instantly. The listing photos showed a house he recognized, the young architect's place, the one he'd sold last month. But the address was different from what he remembered. Barton Skyway, not Barton Hills Drive.
 
 He'd been wrong. His memory had been wrong. The street had always been Barton Skyway; he'd just misremembered it.
 
 But that didn't make sense. He'd driven this route dozens of times. He'd written the address on contracts, typed it into his GPS, spoken it to clients. How could he have been wrong about something so basic?
 
-Mike pushed the confusion aside and proceeded to the showing. The clients were waiting—a couple relocating from Houston, eager to find a home before the school year started. He walked them through the property, pointing out features, answering questions, doing everything a good realtor should do.
+Mike pushed the confusion aside and proceeded to the showing. The clients were waiting, a couple relocating from Houston, eager to find a home before the school year started. He walked them through the property, pointing out features, answering questions, doing everything a good realtor should do.
 
 But underneath the professional performance, a quiet alarm was ringing in his mind.
 
 ---
 
-That evening, Mike sat at his desk with his old paper files spread before him. He'd kept records of every property he'd sold for the past twenty-five years—handwritten notes, printed listings, photographs. The physical evidence of his career, stored in bankers boxes that Rachel had been trying to get him to digitize for years.
+That evening, Mike sat at his desk with his old paper files spread before him. He'd kept records of every property he'd sold for the past twenty-five years, handwritten notes, printed listings, photographs. The physical evidence of his career, stored in bankers boxes that Rachel had been trying to get him to digitize for years.
 
 He pulled the file for the Barton Hills property. The contract was there, signed and dated. The address was printed clearly at the top: 2301 Barton Skyway.
 
@@ -32,11 +32,11 @@ He'd been wrong. His memory had been wrong. But why had he been so certain?
 
 Mike dug deeper. He found notes from the showing, written in his own handwriting. "Great location," he'd written. "Quiet street, good schools, easy access to Barton Springs." But there was no mention of the street name, no detail that would explain why he'd remembered it differently.
 
-He opened the HomeMatch app and searched for properties on Barton Hills Drive. There were several—nice houses, good values. But none that he'd sold. None that matched the property in his memory.
+He opened the HomeMatch app and searched for properties on Barton Hills Drive. There were several, nice houses, good values. But none that he'd sold. None that matched the property in his memory.
 
 The app had no record of him ever working on Barton Hills Drive.
 
-Mike sat back in his chair, his heart racing. This wasn't just a forgotten name or a misplaced detail. This was a gap in his memory that the app couldn't fill because the information had never existed. He'd created a false memory—a street that didn't exist, a property he'd never sold.
+Mike sat back in his chair, his heart racing. This wasn't just a forgotten name or a misplaced detail. This was a gap in his memory that the app couldn't fill because the information had never existed. He'd created a false memory, a street that didn't exist, a property he'd never sold.
 
 Or had he?
 
@@ -48,9 +48,9 @@ He called Rachel, even though it was late.
 
 "I'm not sure of anything right now." Mike closed his eyes. "Never mind. I'll figure it out."
 
-After he hung up, he sat in the dark, trying to understand what was happening. The most logical explanation was that he'd simply misremembered. The human mind was fallible; memories were reconstructed, not recorded. It was possible—likely, even—that he'd conflated two streets, created a hybrid that never existed.
+After he hung up, he sat in the dark, trying to understand what was happening. The most logical explanation was that he'd simply misremembered. The human mind was fallible; memories were reconstructed, not recorded. It was possible, likely, even, that he'd conflated two streets, created a hybrid that never existed.
 
-But the certainty he'd felt was so strong. He could picture the street in his mind—the way it curved, the houses along it, the oak tree at the corner. The memory was vivid, detailed, real.
+But the certainty he'd felt was so strong. He could picture the street in his mind, the way it curved, the houses along it, the oak tree at the corner. The memory was vivid, detailed, real.
 
 Except it wasn't real. It was a construction, a fiction his mind had created to fill a gap.
 
@@ -66,7 +66,7 @@ The next morning, Mike drove to the HomeMatch AI office without an appointment. 
 
 Jennifer's expression shifted to something more guarded. "What do you mean?"
 
-"I've been using HomeMatch for four months. In that time, I've noticed changes in how I remember things. Not just details—whole experiences. Streets I thought I knew. Properties I thought I'd sold." He leaned forward. "Is the system doing something to my memory?"
+"I've been using HomeMatch for four months. In that time, I've noticed changes in how I remember things. Not just details, whole experiences. Streets I thought I knew. Properties I thought I'd sold." He leaned forward. "Is the system doing something to my memory?"
 
 Jennifer was quiet for a moment. Then she stood and closed the door to her office.
 
@@ -74,7 +74,7 @@ Jennifer was quiet for a moment. Then she stood and closed the door to her offic
 
 "Cognitive offloading?"
 
-"When we have access to external memory systems—whether it's writing things down, using a calendar, or relying on an AI—we naturally offload information to those systems. Our brains are efficient; they don't waste energy storing what's already stored elsewhere." She sat back down. "It's not that the system is erasing your memories. It's that your brain has stopped maintaining them because it knows the information is available externally."
+"When we have access to external memory systems, whether it's writing things down, using a calendar, or relying on an AI, we naturally offload information to those systems. Our brains are efficient; they don't waste energy storing what's already stored elsewhere." She sat back down. "It's not that the system is erasing your memories. It's that your brain has stopped maintaining them because it knows the information is available externally."
 
 Mike felt cold. "You're saying this is normal?"
 
@@ -100,12 +100,12 @@ The words should have been reassuring. Instead, they made Mike feel like a speci
 
 "I need to think about this," he said. "I need to talk to my wife."
 
-"Of course." Jennifer walked him to the door. "But Mr. Harrison—I hope you'll consider continuing. What we're learning from you is invaluable. And I believe, in the long run, you'll find that the benefits are worth the adjustment period."
+"Of course." Jennifer walked him to the door. "But Mr. Harrison, I hope you'll consider continuing. What we're learning from you is invaluable. And I believe, in the long run, you'll find that the benefits are worth the adjustment period."
 
 Mike didn't respond. He walked out of the office and into the bright Austin morning, feeling like he was stepping into a world he no longer recognized.
 
 
-That afternoon, Mike drove to the neighborhood where he'd grown up. His parents were gone now—his father had passed in 2010, his mother in 2015—but the house was still there, owned by a young family who had no idea of its history.
+That afternoon, Mike drove to the neighborhood where he'd grown up. His parents were gone now, his father had passed in 2010, his mother in 2015, but the house was still there, owned by a young family who had no idea of its history.
 
 He parked on the street and looked at the property. The oak tree in the front yard was massive now, its branches spreading over the roof. The porch where he'd sat with his father, listening to stories about construction and houses and the way buildings revealed their secrets, had been enclosed. The windows where his mother had watched him play in the yard had been replaced.
 
@@ -115,11 +115,11 @@ Mike got out of the car and walked around the block, trying to reconstruct the m
 
 He closed his eyes and tried to remember the details. The color of Mrs. Patterson's front door. The name of the family who'd lived in the house with the big magnolia tree. The sound of the bus driver's voice calling out the stops.
 
-But the memories were faded, indistinct, like photographs left too long in the sun. He could access the general shapes, the broad outlines. But the details—the rich, sensory details that had once made these memories vivid—were gone.
+But the memories were faded, indistinct, like photographs left too long in the sun. He could access the general shapes, the broad outlines. But the details, the rich, sensory details that had once made these memories vivid, were gone.
 
 Or maybe they'd never been there. Maybe his childhood memories had always been reconstructions, simplified narratives his mind had created to make sense of the past. Maybe the loss he felt wasn't a loss at all, but a recognition of what had always been true.
 
-Mike opened his eyes and looked at the house where he'd grown up. The young family was home—he could see movement through the windows. A child ran past, laughing, chasing a dog. Life continuing, generation after generation, each one creating its own memories in the same spaces.
+Mike opened his eyes and looked at the house where he'd grown up. The young family was home, he could see movement through the windows. A child ran past, laughing, chasing a dog. Life continuing, generation after generation, each one creating its own memories in the same spaces.
 
 He got back in his car and drove away. But as he navigated the familiar streets, he found himself reaching for his phone, opening the HomeMatch app, checking the map to make sure he was going the right direction.
 
@@ -140,7 +140,7 @@ Susan listened without interrupting. When he was done, she was quiet for a long 
 
 Susan took his hand. "You're not outsourcing your mind. You're using a tool. And if the tool is causing problems, you can stop using it."
 
-"But Jennifer said the changes are documented. Normal. Expected." Mike shook his head. "What if this is just what the future looks like? What if everyone's memory is going to become like mine—dependent on external systems, unable to function without them?"
+"But Jennifer said the changes are documented. Normal. Expected." Mike shook his head. "What if this is just what the future looks like? What if everyone's memory is going to become like mine, dependent on external systems, unable to function without them?"
 
 "Then we'll figure it out together." Susan squeezed his hand. "But Mike, I need you to hear something. You're still you. You still notice things no one else notices. You still have that intuition, that ability to read a house. The app might be supplementing your memory, but it hasn't replaced your judgment."
 

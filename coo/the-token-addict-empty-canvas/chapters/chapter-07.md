@@ -74,7 +74,7 @@ Sarah noticed the change.
 
 But he couldn't do either.
 
-He couldn't admit the truth—that would end his career. And he couldn't create again—he'd tried, and the emptiness was absolute.
+He couldn't admit the truth, that would end his career. And he couldn't create again, he'd tried, and the emptiness was absolute.
 
 So he continued. Generating AI concepts. Presenting them as his own. Living the lie.
 
@@ -82,5 +82,3 @@ The anxiety was constant. The shame was growing. The project deadline approached
 
 And Marcus had no idea what he would do when the client asked to see his "creative process."
 
-
-**END OF CHAPTER 7**

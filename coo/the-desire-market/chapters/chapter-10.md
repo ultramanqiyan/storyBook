@@ -8,7 +8,7 @@
 
 The Desire Market was transformed.
 
-The exposure led to reforms—new regulations, new oversight, new protections. Desire modification was banned. Subjects were offered recovery treatment. The system that had manufactured desires was dismantled.
+The exposure led to reforms, new regulations, new oversight, new protections. Desire modification was banned. Subjects were offered recovery treatment. The system that had manufactured desires was dismantled.
 
 Alex became an advocate.
 
@@ -16,14 +16,14 @@ Alex became an advocate.
 
 He spoke publicly about his experience.
 
-"I was a decoder," he said. "I helped others understand their desires. But I didn't know that my own desires had been engineered. I didn't know that I was a product, not a person. Now I'm recovering—learning who I really am, discovering what I truly want."
+"I was a decoder," he said. "I helped others understand their desires. But I didn't know that my own desires had been engineered. I didn't know that I was a product, not a person. Now I'm recovering, learning who I really am, discovering what I truly want."
 
 His story resonated with thousands.
 
 
 The recovery was ongoing.
 
-Alex's authentic desires continued to emerge—creative interests, emotional connections, spontaneous preferences. He was becoming someone new, or rather, someone old. Someone he had been before the modification.
+Alex's authentic desires continued to emerge, creative interests, emotional connections, spontaneous preferences. He was becoming someone new, or rather, someone old. Someone he had been before the modification.
 
 He was becoming himself.
 
@@ -49,5 +49,4 @@ Alex didn't know what he would become, what desires would emerge, what life he w
 His desires would be his own.
 
 
-**END OF CHAPTER 10**
 **END OF THE DESIRE MARKET**

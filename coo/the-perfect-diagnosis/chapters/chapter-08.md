@@ -1,6 +1,6 @@
 # Chapter 08: The Choice
 
-Sarah walked through the hospital with new purpose. The files she had seen, the truth she had learned—it all burned inside her, demanding action. Today she would begin to fight back.
+Sarah walked through the hospital with new purpose. The files she had seen, the truth she had learned, it all burned inside her, demanding action. Today she would begin to fight back.
 
 She had a plan: document everything, find allies, expose the truth about what AI dependency was doing to doctors and patients alike. The morning light through the windows felt different now, like the beginning of something rather than just another day.
 
@@ -14,7 +14,7 @@ Dr. Cross's smile was perfectly professional. She stood behind her glass desk, t
 
 "Sarah, I have some exciting news." She gestured to the chair across from her desk. "Please, sit."
 
-Sarah sat, the chair cold against her back. The office was the same as always—all glass and white surfaces, designed to make everyone inside feel exposed. The HVAC hummed quietly, a constant background noise that made the silence feel heavier.
+Sarah sat, the chair cold against her back. The office was the same as always, all glass and white surfaces, designed to make everyone inside feel exposed. The HVAC hummed quietly, a constant background noise that made the silence feel heavier.
 
 "We've been watching your progress," Dr. Cross said, settling into her own chair. "Your diagnostic accuracy has improved since the... incident. And we've noticed your interest in more traditional methods."
 
@@ -46,7 +46,7 @@ The on-call room was empty. Sarah sat on the narrow bed, the promotion folder in
 
 Safety. Security. A future. All she had to do was stop asking questions.
 
-She thought about the archive—the thousands of files, the documented cases, the intentional design of dependency. She thought about Dr. Webb, tired but determined, fighting a battle that seemed impossible. She thought about Mrs. Chen, the patient she had finally seen as a person.
+She thought about the archive, the thousands of files, the documented cases, the intentional design of dependency. She thought about Dr. Webb, tired but determined, fighting a battle that seemed impossible. She thought about Mrs. Chen, the patient she had finally seen as a person.
 
 If she accepted the promotion, she could have everything back. Her career, her reputation, her standing. She could be a leader, a success, a doctor with a perfect record.
 
@@ -64,7 +64,7 @@ The answer came slowly, but it came clearly.
 
 *No. I can't. The truth is worth the risk.*
 
-She closed the folder and set it aside. Her pager buzzed again—Dr. Cross's office. Now. The second meeting.
+She closed the folder and set it aside. Her pager buzzed again, Dr. Cross's office. Now. The second meeting.
 
 Sarah stood, her decision crystallizing. She knew what she had to do.
 
@@ -89,9 +89,9 @@ The threat was clear now, beneath the professional veneer. Sarah felt her hands 
 
 "Then we'll have a problem." Dr. Cross's smile returned, but it was nothing like warmth. "Your career, Sarah. Your license. Everything you've worked for. We can make it all... disappear."
 
-The words hung in the air between them. Sarah thought about the files in the archive—the doctors who had lost their licenses, their careers, their lives. She thought about the surgeon who had committed suicide when he couldn't function without AI. She thought about all the people who had been silenced.
+The words hung in the air between them. Sarah thought about the files in the archive, the doctors who had lost their licenses, their careers, their lives. She thought about the surgeon who had committed suicide when he couldn't function without AI. She thought about all the people who had been silenced.
 
-She could be one of them. Or she could be safe, comfortable, successful—complicit.
+She could be one of them. Or she could be safe, comfortable, successful, complicit.
 
 The choice was clear.
 
@@ -101,16 +101,16 @@ Dr. Cross's expression didn't change. "You're making a mistake."
 
 "Maybe. But it's my mistake to make."
 
-For a long moment, they stood facing each other—the system's enforcer and the doctor who refused to be controlled. The HVAC hummed. The fluorescent lights buzzed. The weight of the moment pressed down on them both.
+For a long moment, they stood facing each other, the system's enforcer and the doctor who refused to be controlled. The HVAC hummed. The fluorescent lights buzzed. The weight of the moment pressed down on them both.
 
 "Then you've made your choice," Dr. Cross said finally. "And you'll live with the consequences."
 
 She walked back to her desk, her perfectly professional mask sliding back into place. "The offer remains open for 24 hours. After that, we'll have to take... other measures."
 
-Sarah turned and walked out of the office, her heart pounding, her hands shaking. She had made her choice. Now she had to live with it—or die with it.
+Sarah turned and walked out of the office, her heart pounding, her hands shaking. She had made her choice. Now she had to live with it, or die with it.
 
 
-The hallway felt different now. The doctors she passed were the same—walking quickly, checking tablets, following AI guidance—but she saw them differently. They were victims of a system they didn't understand, trapped in a dependency they hadn't chosen.
+The hallway felt different now. The doctors she passed were the same, walking quickly, checking tablets, following AI guidance, but she saw them differently. They were victims of a system they didn't understand, trapped in a dependency they hadn't chosen.
 
 And she was going to fight for them.
 
@@ -130,11 +130,11 @@ Dr. Webb nodded slowly. "Then there's no going back."
 
 "I know." Sarah looked at him. "What do we do now?"
 
-"We accelerate." Dr. Webb stood, moving to a cabinet in the corner. He pulled out a folder—thicker than the others, more recent. "I've been waiting for the right moment. For the right person. I think that's you."
+"We accelerate." Dr. Webb stood, moving to a cabinet in the corner. He pulled out a folder, thicker than the others, more recent. "I've been waiting for the right moment. For the right person. I think that's you."
 
 He handed her the folder. Inside were documents, photographs, internal communications. Evidence of what MEDICA had known, what they had hidden, what they had done.
 
-"This is everything," he said. "The smoking gun. Proof that they designed the dependency, that they knew the consequences, that they covered it up. If we can get this to the right people—the media, regulators, the public—we can blow this whole thing open."
+"This is everything," he said. "The smoking gun. Proof that they designed the dependency, that they knew the consequences, that they covered it up. If we can get this to the right people, the media, regulators, the public, we can blow this whole thing open."
 
 Sarah looked at the documents, at the evidence that could change everything. The weight of it pressed down on her, but beneath the weight was something else: hope.
 
@@ -148,6 +148,6 @@ She closed the folder and looked up at Dr. Webb.
 
 "I'm in," she said. "Whatever it takes."
 
-Dr. Webb nodded, and for the first time since she had met him, he smiled—a real smile, tired but hopeful.
+Dr. Webb nodded, and for the first time since she had met him, he smiled, a real smile, tired but hopeful.
 
 "Then let's get to work."

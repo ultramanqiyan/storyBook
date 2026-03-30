@@ -2,7 +2,7 @@
 
 David Chen arrived at Jennifer's office at 10 AM on a Thursday.
 
-He was younger than she'd expected—early thirties, maybe, with the kind of face that aged slowly and eyes that had seen too much. He wore a jacket that had been pressed recently but was starting to fray at the cuffs, and he carried a folder thick with documents.
+He was younger than she'd expected, early thirties, maybe, with the kind of face that aged slowly and eyes that had seen too much. He wore a jacket that had been pressed recently but was starting to fray at the cuffs, and he carried a folder thick with documents.
 
 "Mrs. Walsh." He extended his hand, his grip firm but not aggressive. "Thank you for seeing me."
 
@@ -10,7 +10,7 @@ He was younger than she'd expected—early thirties, maybe, with the kind of fac
 
 He sat, placing the folder on his lap, his posture careful and controlled. "I've been trying to get answers for three weeks. No one could explain why my claim was denied. They just kept referring me to the documentation."
 
-Jennifer pulled up his file on her screen. Claim 447901—the Morrison claim, the one with the 73% fraud probability, the one she'd denied after the inconclusive investigation.
+Jennifer pulled up his file on her screen. Claim 447901, the Morrison claim, the one with the 73% fraud probability, the one she'd denied after the inconclusive investigation.
 
 *James Morrison*, she thought. *Not David Chen.*
 
@@ -26,7 +26,7 @@ Jennifer felt a cold weight settle in her stomach. *The claimant doesn't speak E
 
 She opened the factor analysis, the same one she'd studied weeks ago.
 
-The algorithm's assessment was laid out clearly—timing of the claim relative to employment review, inconsistency in reported symptoms, prior claims history. Each factor was documented, each weight calculated, each contribution to the final probability score displayed in neat columns.
+The algorithm's assessment was laid out clearly, timing of the claim relative to employment review, inconsistency in reported symptoms, prior claims history. Each factor was documented, each weight calculated, each contribution to the final probability score displayed in neat columns.
 
 "This claim was flagged for potential fraud," she began. "The algorithm identified several concerning patterns..."
 
@@ -52,7 +52,7 @@ But when she tried to explain it out loud, to articulate the reasoning in human 
 
 "But what does that mean?" David leaned forward. "What specifically was suspicious? What evidence suggested fraud?"
 
-Jennifer stared at the screen, feeling the weight of the question. The factors were there, the data was there, the verdict was there. But the explanation—the human explanation, the kind that would make sense to someone who wasn't a data scientist—was missing.
+Jennifer stared at the screen, feeling the weight of the question. The factors were there, the data was there, the verdict was there. But the explanation, the human explanation, the kind that would make sense to someone who wasn't a data scientist, was missing.
 
 *This is what I've lost*, she realized. *The ability to explain my own decisions.*
 
@@ -77,7 +77,7 @@ Jennifer felt the shame rising in her chest.
 
 "I understand," she said. "And I'll try to provide a better explanation. I'll review the file again and get back to you."
 
-David nodded, but his expression was skeptical. "Thank you. But I have to ask—if you can't explain the decision now, after weeks of investigation, what makes you think you'll be able to explain it later?"
+David nodded, but his expression was skeptical. "Thank you. But I have to ask, if you can't explain the decision now, after weeks of investigation, what makes you think you'll be able to explain it later?"
 
 The question hung in the air, unanswered.
 
@@ -99,9 +99,9 @@ She didn't go home that night.
 
 Instead, she stayed at her desk, pulling up every claim she'd processed in the past month. One by one, she studied the files, trying to understand the reasoning behind each verdict.
 
-Most of them were straightforward—clear liability, obvious fraud, legitimate claims. But others were like the Morrison case: complex, ambiguous, dependent on the algorithm's assessment for the final decision.
+Most of them were straightforward, clear liability, obvious fraud, legitimate claims. But others were like the Morrison case: complex, ambiguous, dependent on the algorithm's assessment for the final decision.
 
-On those claims, she found the same pattern. The factor analysis was there, the probability score was there, the verdict was there. But the explanation—the human explanation, the kind that would make sense to a client—was missing.
+On those claims, she found the same pattern. The factor analysis was there, the probability score was there, the verdict was there. But the explanation, the human explanation, the kind that would make sense to a client, was missing.
 
 *I've been doing this for months*, she realized. *Signing my name to decisions I can't explain. Pretending to understand when I'm just trusting the data.*
 
@@ -122,7 +122,7 @@ The silence stretched between them. Jennifer could hear David breathing, could a
 
 "Can you help us?" he asked finally.
 
-"I don't know." Jennifer's voice was quiet. "But I'm going to try. I'm going to review the claim again—really review it, without the algorithm's assessment. And I'm going to try to understand what actually happened."
+"I don't know." Jennifer's voice was quiet. "But I'm going to try. I'm going to review the claim again, really review it, without the algorithm's assessment. And I'm going to try to understand what actually happened."
 
 "Why?"
 
@@ -133,7 +133,7 @@ The question was simple, but it cut to the heart of everything.
 
 She hung up the phone and sat in the dark, her office quiet around her.
 
-The ClaimSmart interface still glowed on her screen, the algorithm's verdict still certain and blue. But the certainty felt different now—not reassuring, but threatening. Not a tool, but a cage.
+The ClaimSmart interface still glowed on her screen, the algorithm's verdict still certain and blue. But the certainty felt different now, not reassuring, but threatening. Not a tool, but a cage.
 
 *This is what I've done to myself*, she thought. *This is what I've become.*
 
@@ -143,5 +143,3 @@ She didn't have an answer. But for the first time in months, she was asking the 
 
 And that, she thought, was a start.
 
-
-**END OF CHAPTER 4**

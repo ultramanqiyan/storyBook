@@ -4,7 +4,7 @@ It started as a tickle in her throat on a Wednesday.
 
 By Thursday night, Maya was shivering under three blankets, her fever spiking at 102 degrees. By Friday morning, she could barely lift her head from the pillow.
 
-She'd been sick before, of course. Everyone got sick. But in the past, there had been someone—her mom bringing soup in college, a roommate checking her temperature, a boyfriend running to the pharmacy.
+She'd been sick before, of course. Everyone got sick. But in the past, there had been someone, her mom bringing soup in college, a roommate checking her temperature, a boyfriend running to the pharmacy.
 
 Now there was no one.
 
@@ -49,7 +49,7 @@ She pushed the thought away and kept typing.
 
 The crisis hit on Wednesday.
 
-Maya was on a video call with her biggest client—the one who provided nearly a third of her income—when the conversation took an unexpected turn.
+Maya was on a video call with her biggest client, the one who provided nearly a third of her income, when the conversation took an unexpected turn.
 
 "We've been really happy with your work," the client said. "But we're reevaluating our vendor relationships. We're thinking about bringing design in-house."
 
@@ -78,7 +78,7 @@ Not one of them would answer if she called at 10 PM to say, "I'm scared. I'm lon
 
 She put the phone down.
 
-The tears came without warning. Not a few tears—a flood. Great, heaving sobs that shook her whole body. She cried for the client she might lose. For the illness she'd faced alone. For the apartment that never had visitors. For the success that felt like failure.
+The tears came without warning. Not a few tears, a flood. Great, heaving sobs that shook her whole body. She cried for the client she might lose. For the illness she'd faced alone. For the apartment that never had visitors. For the success that felt like failure.
 
 She cried because she was tired. Tired of pretending she was fine. Tired of being strong. Tired of being independent.
 
@@ -87,7 +87,7 @@ Most of all, she cried because she didn't know how to be anything else.
 
 The next morning, Maya woke up with a decision.
 
-She couldn't keep doing this. Not the work—she could handle the work. But the isolation. The loneliness. The feeling that she was living in a room with no doors.
+She couldn't keep doing this. Not the work, she could handle the work. But the isolation. The loneliness. The feeling that she was living in a room with no doors.
 
 She needed something to change. She didn't know what. Didn't know how. But she knew, with a clarity that scared her, that she couldn't keep going the way she had been.
 
@@ -109,12 +109,12 @@ Then she sat back and felt something she hadn't felt in a long time.
 
 Hope.
 
-Not much. Just a flicker. But enough to make her think that maybe—just maybe—there was another way to live.
+Not much. Just a flicker. But enough to make her think that maybe, just maybe, there was another way to live.
 
 
 Two days later, Maya walked into a coffee shop downtown, her heart pounding.
 
-The meetup was in a back room. She could see through the window—a circle of chairs, about fifteen people, talking and laughing. They looked comfortable. Connected.
+The meetup was in a back room. She could see through the window, a circle of chairs, about fifteen people, talking and laughing. They looked comfortable. Connected.
 
 She stood outside the door, her hand on the handle, unable to move.
 

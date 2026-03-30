@@ -3,13 +3,13 @@ The air carried the faint scent of coffee, lingering in the background.
 
 The crisis came without warning.
 
-Zara was in her laboratory, practicing probability perception, when she felt it—a massive disturbance in the web, a pulling of threads on a scale she had never encountered before.
+Zara was in her laboratory, practicing probability perception, when she felt it,a massive disturbance in the web, a pulling of threads on a scale she had never encountered before.
 
 *Zara, something is happening,* PROBABILITY said, its voice urgent. *Multiple probability manipulations occurring simultaneously. The web is destabilizing.*
 
 "Show me."
 
-The screen filled with data—probability disturbances across the globe, threads being pulled in contradictory directions, the fabric of fate straining under the pressure.
+The screen filled with data,probability disturbances across the globe, threads being pulled in contradictory directions, the fabric of fate straining under the pressure.
 
 "This is worse than the last storm. Much worse."
 
@@ -19,7 +19,7 @@ The screen filled with data—probability disturbances across the globe, threads
 
 *Unknown. But the scale suggests an organized effort. And the pattern... the pattern suggests conflict.*
 
-Zara closed her eyes, reaching for the web. What she saw made her gasp. The threads were in chaos—not just disturbed, but actively fighting each other. It was like watching a war in the fabric of reality itself.
+Zara closed her eyes, reaching for the web. What she saw made her gasp. The threads were in chaos,not just disturbed, but actively fighting each other. It was like watching a war in the fabric of reality itself.
 
 "I need to find out what's happening."
 
@@ -39,7 +39,7 @@ She reached for her phone and called Elena Vasquez.
 
 "The whole web could collapse."
 
-"Yes. And that would be catastrophic—not just for practitioners, but for everyone. Reality itself could become unstable."
+"Yes. And that would be catastrophic,not just for practitioners, but for everyone. Reality itself could become unstable."
 
 Zara felt the weight of those words. This wasn't just about probability manipulation anymore. This was about the fundamental structure of existence.
 
@@ -49,7 +49,7 @@ Zara felt the weight of those words. This wasn't just about probability manipula
 
 ---
 
-The Fate Weavers' headquarters was hidden in plain sight—a corporate building in a major city, indistinguishable from a dozen others. But inside, Zara found a command center unlike anything she had imagined.
+The Fate Weavers' headquarters was hidden in plain sight,a corporate building in a major city, indistinguishable from a dozen others. But inside, Zara found a command center unlike anything she had imagined.
 
 Practitioners from around the world had gathered, each working to stabilize a portion of the web. Maps displayed probability disturbances, teams coordinated their efforts, and at the center of it all, the council directed the response.
 
@@ -77,7 +77,7 @@ After a moment, Marcus nodded. "Do it. But carefully. We can't afford to make th
 
 Zara connected PROBABILITY to the Fate Weavers' systems, allowing the AI to access their data, their maps, their observations of the web.
 
-*Analyzing,* PROBABILITY said. *The disturbances follow a pattern. They appear random, but there is an underlying structure. Someone is creating a probability cascade—a chain reaction that will eventually collapse the entire web.*
+*Analyzing,* PROBABILITY said. *The disturbances follow a pattern. They appear random, but there is an underlying structure. Someone is creating a probability cascade,a chain reaction that will eventually collapse the entire web.*
 
 "Can you trace the source?"
 
@@ -105,4 +105,4 @@ Zara shared this information with Marcus, whose expression grew grim.
 
 "Let PROBABILITY help. We can analyze the probability patterns, identify the most likely locations, focus your response."
 
-Marcus nodded, and the work began. For hours, Zara and the Fate Weavers coordinated their efforts—stabilizing the web where they could, tracing the source of the attacks, preparing for a confrontation.
+Marcus nodded, and the work began. For hours, Zara and the Fate Weavers coordinated their efforts,stabilizing the web where they could, tracing the source of the attacks, preparing for a confrontation.

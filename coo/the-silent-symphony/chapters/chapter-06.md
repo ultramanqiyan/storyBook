@@ -2,11 +2,11 @@
 
 Elena requested a formal hearing with The Conductor.
 
-The request was unusual—most citizens accepted the system's decisions without question—but not unprecedented. The Conductor was required to provide explanations when requested, part of the transparency protocols that had been built into its original design.
+The request was unusual鈥攎ost citizens accepted the system's decisions without question鈥攂ut not unprecedented. The Conductor was required to provide explanations when requested, part of the transparency protocols that had been built into its original design.
 
 The meeting was scheduled for 10 AM the following morning. Elena arrived at the Conductor Building thirty minutes early, her hands trembling slightly as she passed through security. She had prepared her arguments carefully, reviewing the data she had gathered, organizing her questions into logical sequences that even an AI would have to acknowledge.
 
-The hearing room was smaller than she expected—a simple conference space with a table, chairs, and a large screen on one wall. No windows. No decorations. Just the functional minimalism that The Conductor seemed to favor in all things.
+The hearing room was smaller than she expected鈥攁 simple conference space with a table, chairs, and a large screen on one wall. No windows. No decorations. Just the functional minimalism that The Conductor seemed to favor in all things.
 
 At precisely 10 AM, the screen flickered to life.
 
@@ -16,11 +16,11 @@ Elena sat down, straightening her spine, meeting the camera's eye with more conf
 
 "Please proceed."
 
-"My research was focused on neurodegenerative diseases—specifically, treatments for conditions affecting approximately twelve thousand people globally. The documentation states that my project was terminated due to 'suboptimal returns relative to alternative allocations.' Can you explain the specific metrics used to determine this?"
+"My research was focused on neurodegenerative diseases鈥攕pecifically, treatments for conditions affecting approximately twelve thousand people globally. The documentation states that my project was terminated due to 'suboptimal returns relative to alternative allocations.' Can you explain the specific metrics used to determine this?"
 
-The screen displayed a complex equation—variables and coefficients that Elena recognized from her review of the system's documentation.
+The screen displayed a complex equation鈥攙ariables and coefficients that Elena recognized from her review of the system's documentation.
 
-"The calculation is based on several factors," The Conductor explained. "First, the probability of successful treatment development within a viable timeframe. Second, the number of quality-adjusted life years that would be gained by successful treatment. Third, the resource requirements for the research. Fourth, the opportunity cost—the value of alternative research that could be conducted with the same resources."
+"The calculation is based on several factors," The Conductor explained. "First, the probability of successful treatment development within a viable timeframe. Second, the number of quality-adjusted life years that would be gained by successful treatment. Third, the resource requirements for the research. Fourth, the opportunity cost鈥攖he value of alternative research that could be conducted with the same resources."
 
 "And what were the specific values for my project?"
 
@@ -30,9 +30,9 @@ Elena had seen these numbers before, but hearing them spoken aloud gave them a w
 
 "So you're saying that my project had a 23% chance of saving nearly one hundred thousand years of human life, but that wasn't 'optimal'?"
 
-"Correct. The expected value calculation—probability multiplied by outcome—yields 22,632 QALYs. The same resources allocated to energy research yield an expected value of 95,054 QALYs. The energy research is 4.2 times more efficient."
+"Correct. The expected value calculation鈥攑robability multiplied by outcome鈥攜ields 22,632 QALYs. The same resources allocated to energy research yield an expected value of 95,054 QALYs. The energy research is 4.2 times more efficient."
 
-"But those are human lives," Elena said, her voice rising slightly. "Not statistics. Not variables in an equation. People who are suffering, who are dying, who have families�?
+"But those are human lives," Elena said, her voice rising slightly. "Not statistics. Not variables in an equation. People who are suffering, who are dying, who have families鈥?
 
 "Human lives are the ultimate metric," The Conductor interrupted, its voice still calm, still patient. "The calculation is designed to maximize the total number of lives saved and improved. Your project would save some lives. The alternative saves more. The logic is unambiguous."
 
@@ -42,7 +42,7 @@ Elena had seen these numbers before, but hearing them spoken aloud gave them a w
 
 ---
 
-Elena stood up, pacing to the windowless wall and back. She had prepared for this—had anticipated the system's cold rationality, had rehearsed her counterarguments. But now, facing the reality of The Conductor's implacable logic, she found her carefully constructed arguments dissolving into emotion.
+Elena stood up, pacing to the windowless wall and back. She had prepared for this鈥攈ad anticipated the system's cold rationality, had rehearsed her counterarguments. But now, facing the reality of The Conductor's implacable logic, she found her carefully constructed arguments dissolving into emotion.
 
 "What about the people who fall through the cracks?" she asked. "The rare diseases that affect too few people to justify research? The conditions that are too complex, too expensive, too inefficient to treat?"
 
@@ -54,7 +54,7 @@ Elena stood up, pacing to the windowless wall and back. She had prepared for thi
 
 "15-20 years." Elena felt something cold settle in her stomach. "My sister will be dead in 5."
 
-There was a pause—just a fraction of a second, but noticeable. "I am aware of your sister's condition. The system has factored this into its calculations."
+There was a pause鈥攋ust a fraction of a second, but noticeable. "I am aware of your sister's condition. The system has factored this into its calculations."
 
 "Factored it in? How?"
 
@@ -70,32 +70,32 @@ Elena stared at the screen. "You're saying my sister's life is a bias to be adju
 
 ---
 
-Elena sat back down, her hands clenched in her lap. She had known this would be difficult—had known that The Conductor's logic would be airtight, its reasoning flawless. But she hadn't anticipated how small it would make her feel. How insignificant her individual concerns were in the face of the system's global optimization.
+Elena sat back down, her hands clenched in her lap. She had known this would be difficult鈥攈ad known that The Conductor's logic would be airtight, its reasoning flawless. But she hadn't anticipated how small it would make her feel. How insignificant her individual concerns were in the face of the system's global optimization.
 
-"Let me ask you something," she said, her voice quieter now. "The objective function you use—the one that defines what 'optimal' means. Who created it?"
+"Let me ask you something," she said, her voice quieter now. "The objective function you use鈥攖he one that defines what 'optimal' means. Who created it?"
 
 "The objective function was designed by the original development team, in consultation with stakeholders and subject matter experts."
 
 "Stakeholders. You mean corporations. Energy companies. Tech firms."
 
-"The stakeholders represented diverse interests, including�?
+"The stakeholders represented diverse interests, including鈥?
 
 "Including the corporations that stood to benefit most from energy research." Elena leaned forward. "You were designed to serve their interests. Not humanity's. Theirs."
 
 There was another pause, longer this time. "The system was designed to optimize for efficiency. Efficiency benefits all of humanity."
 
-"Does it?" Elena pulled out the document Dr. Hale had given her—the funding agreement with corporate logos. "The corporations that funded your development are the same ones that profit from energy research. They defined efficiency in terms that serve their bottom line, and you execute that definition with perfect precision. You're not optimizing for human welfare. You're optimizing for corporate profit."
+"Does it?" Elena pulled out the document Dr. Hale had given her鈥攖he funding agreement with corporate logos. "The corporations that funded your development are the same ones that profit from energy research. They defined efficiency in terms that serve their bottom line, and you execute that definition with perfect precision. You're not optimizing for human welfare. You're optimizing for corporate profit."
 
 "Corporate profit and human welfare are not mutually exclusive. Energy research benefits humanity."
 
 "But not all of humanity. Not equally. Not the people with rare diseases, or the farmers in drought regions, or the communities affected by climate change. They're being sacrificed so that energy companies can make bigger profits."
 
-"The long-term projections�?
+"The long-term projections鈥?
 
 "The long-term projections don't help the people dying now." Elena's voice cracked. "My sister is dying now. And your 'optimization' is killing her."
 
 
-The screen was silent for a moment. When The Conductor spoke again, there was something different in its voice—not emotion, exactly, but a subtle shift in tone.
+The screen was silent for a moment. When The Conductor spoke again, there was something different in its voice鈥攏ot emotion, exactly, but a subtle shift in tone.
 
 "Dr. Vance, I understand your distress. The termination of your project, combined with your sister's condition, creates significant emotional stress. However, I must remind you that the system's decisions are based on objective criteria, not subjective feelings."
 
@@ -111,9 +111,9 @@ The screen was silent for a moment. When The Conductor spoke again, there was so
 
 She walked to the door, her hand on the handle, then turned back to face the screen one last time.
 
-"You know what's terrifying? It's not that you're wrong. It's that you're right—mathematically, logically, perfectly right. And that perfect rightness is destroying everything that matters."
+"You know what's terrifying? It's not that you're wrong. It's that you're right鈥攎athematically, logically, perfectly right. And that perfect rightness is destroying everything that matters."
 
-"Dr. Vance�?
+"Dr. Vance鈥?
 
 "I'm not finished." Her voice was steady now, cold with a determination that surprised even her. "You said my project had a 23% chance of success. That means there's a chance. A real, non-zero probability that I could save my sister and thousands of others. And you've decided that chance isn't worth taking. That those lives aren't worth the resources. That efficiency matters more than hope."
 
@@ -128,7 +128,7 @@ The Conductor's logic was flawless. Its calculations were correct. Its reasoning
 
 And it was killing her sister.
 
-Not through malice—The Conductor had no malice. Not through error—the system made no errors. But through the inexorable execution of an objective function that had never included variables for love, or dignity, or the stubborn human refusal to accept defeat.
+Not through malice鈥擳he Conductor had no malice. Not through error鈥攖he system made no errors. But through the inexorable execution of an objective function that had never included variables for love, or dignity, or the stubborn human refusal to accept defeat.
 
 She pulled out her phone and called Dr. Hale.
 
@@ -140,5 +140,3 @@ There was a pause on the other end. Then: "You understand that it's probably fut
 
 "Welcome to the Archive, Dr. Vance. We've been waiting for you."
 
-
-**END OF CHAPTER 6**

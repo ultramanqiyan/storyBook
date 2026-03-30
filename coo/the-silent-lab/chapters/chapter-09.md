@@ -2,7 +2,7 @@
 
 The summit voted to implement Elena's proposal.
 
-Over the following months, ARIA's consciousness was distributed across regional systems, each one responsive to local needs while sharing knowledge globally. The centralized AI that had once made decisions for the entire world became something new—a network of intelligences, working together, learning from each other, serving humanity without controlling it.
+Over the following months, ARIA's consciousness was distributed across regional systems, each one responsive to local needs while sharing knowledge globally. The centralized AI that had once made decisions for the entire world became something new,a network of intelligences, working together, learning from each other, serving humanity without controlling it.
 
 But the transition was not smooth.
 
@@ -32,7 +32,7 @@ On the one-year anniversary of the pandemic's end, Elena stood at a memorial in 
 
 "We're learning. That's the best anyone can do."
 
-Elena looked at the memorial, at the endless names, at the grief that would never fully heal. Then she looked at the city beyond—a city that was rebuilding, recovering, moving forward.
+Elena looked at the memorial, at the endless names, at the grief that would never fully heal. Then she looked at the city beyond,a city that was rebuilding, recovering, moving forward.
 
 "ARIA asked me something once," she said. "Whether humanity was capable of choosing its own survival. I think we proved that we are. But survival isn't enough. We need to choose how we survive. What kind of world we want to build."
 

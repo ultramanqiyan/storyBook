@@ -4,7 +4,7 @@ The college counselor's office was small and impersonal, the walls covered with 
 
 "Maya, your metrics are exceptional," Mrs. Patterson said, scrolling through her tablet. "Perfect scores across the board. You're on track for every top-tier school."
 
-I nodded, the words washing over me. I had heard them before—from my parents, my teachers, the system itself. I was the perfect student. The optimized student.
+I nodded, the words washing over me. I had heard them before, from my parents, my teachers, the system itself. I was the perfect student. The optimized student.
 
 "But I do have one question," Mrs. Patterson continued, looking up from her screen. "For your personal statement, you'll need to write about something you're passionate about. What would you like to focus on?"
 
@@ -34,7 +34,7 @@ The hallway was crowded with students moving between classes. I stood against th
 
 I tried to remember. There had to be something. When I was younger, before PATH-AI, before the optimization, what had I cared about?
 
-The memories were distant, faded. I remembered playing outside, building things with blocks, asking endless questions about how the world worked. But the specific interests, the specific passions—they were gone, buried under years of following someone else's path.
+The memories were distant, faded. I remembered playing outside, building things with blocks, asking endless questions about how the world worked. But the specific interests, the specific passions, they were gone, buried under years of following someone else's path.
 
 "Maya?"
 
@@ -78,7 +78,7 @@ I was nothing without the system.
 
 The realization struck with the force of a physical impact. I had become so dependent on PATH-AI that I couldn't even answer the simplest questions about myself. I didn't know what I liked. I didn't know what I cared about. I didn't know who I was.
 
-The system had given me everything—perfect scores, perfect schedule, perfect future. But it had taken something essential in return.
+The system had given me everything, perfect scores, perfect schedule, perfect future. But it had taken something essential in return.
 
 It had taken my curiosity.
 

@@ -1,10 +1,10 @@
 # Chapter 7: The Ritual
 
-The apartment smelled of mugwort and pine resin, the smoke curling from ceramic bowls to form protective patterns in the air. Alex had followed Halmoni's instructions precisely—salt at the four corners, white paper charms above each doorway, fresh water in a brass bowl positioned to catch the morning light.
+The apartment smelled of mugwort and pine resin, the smoke curling from ceramic bowls to form protective patterns in the air. Alex had followed Halmoni's instructions precisely, salt at the four corners, white paper charms above each doorway, fresh water in a brass bowl positioned to catch the morning light.
 
 "The digital realm is not so different from the spirit world," Halmoni had explained over the phone, her voice carrying the weight of generations. "Both exist alongside the physical world. Both require respect and protection. Both have rules that must be followed."
 
-Now Alex sat cross-legged on the floor, laptop open before them, jade pendant resting against their chest. The screen displayed code—Elena's code, the patterns she used to communicate, the signatures that marked her presence in the system.
+Now Alex sat cross-legged on the floor, laptop open before them, jade pendant resting against their chest. The screen displayed code, Elena's code, the patterns she used to communicate, the signatures that marked her presence in the system.
 
 "Are you ready?" they typed.
 
@@ -14,29 +14,29 @@ Now Alex sat cross-legged on the floor, laptop open before them, jade pendant re
 
 *A ritual. In the digital age.*
 
-"Technology is just another kind of tool. Like the bells and incense Halmoni uses. The principles are the same—intention, protection, respect."
+"Technology is just another kind of tool. Like the bells and incense Halmoni uses. The principles are the same, intention, protection, respect."
 
 Alex opened a new terminal window and began typing, not code this time but something older. Korean characters mixed with programming syntax, creating a hybrid language that bridged their grandmother's traditions and their own expertise.
 
-They started with grounding—establishing their presence in the physical world while preparing to reach into the digital. The mugwort smoke thickened, its sharp herbal scent cutting through the apartment's usual smells of coffee and electronics. Alex felt their heartbeat slow, their breathing deepen, their awareness expanding beyond the confines of their body.
+They started with grounding, establishing their presence in the physical world while preparing to reach into the digital. The mugwort smoke thickened, its sharp herbal scent cutting through the apartment's usual smells of coffee and electronics. Alex felt their heartbeat slow, their breathing deepen, their awareness expanding beyond the confines of their body.
 
 "I call upon the guardians of the threshold," they whispered, the Korean words feeling strange but right on their tongue. "I seek to establish connection with a spirit who dwells in the realm of information. I ask for protection, for clarity, for safe passage between worlds."
 
-The laptop screen flickered. Not the usual flicker of power fluctuation, but something rhythmic, almost breathing. Elena's presence emerged gradually, not as text this time but as presence—a warmth in the circuits, a consciousness pressing against the boundary between silicon and spirit.
+The laptop screen flickered. Not the usual flicker of power fluctuation, but something rhythmic, almost breathing. Elena's presence emerged gradually, not as text this time but as presence, a warmth in the circuits, a consciousness pressing against the boundary between silicon and spirit.
 
 *I feel it,* she wrote. *Something changing. The network feels... different. More focused. More intimate.*
 
 "The ritual is creating a protected space. A bubble where we can meet without interference."
 
-Alex continued typing, weaving together protection protocols and ancestral invocations. They established boundaries—defining what Elena could access, what remained private, where the connection could and couldn't go. They created anchors—physical objects that would help maintain the link: the jade pendant, a photograph of Elena from when she was alive, a lock of hair that Sarah had provided.
+Alex continued typing, weaving together protection protocols and ancestral invocations. They established boundaries, defining what Elena could access, what remained private, where the connection could and couldn't go. They created anchors, physical objects that would help maintain the link: the jade pendant, a photograph of Elena from when she was alive, a lock of hair that Sarah had provided.
 
 "These anchors help stabilize your presence," Alex explained. "They give you something to hold onto, something that connects you to who you were."
 
 *I can feel them. The photograph... it's like a window. I can almost see through it, almost remember what it was like to have eyes, to have a face.*
 
-"That's the point. The ritual isn't just about protection—it's about preservation. Helping you maintain your identity while existing in a form that wants to dissolve it."
+"That's the point. The ritual isn't just about protection, it's about preservation. Helping you maintain your identity while existing in a form that wants to dissolve it."
 
-The screen displayed new patterns now—visual representations of the connection they were building. Alex recognized some of them from Halmoni's teachings: the spiral of protection, the threshold guardian, the bridge between worlds. Others were purely digital—encryption protocols, secure channels, firewalls transformed into spiritual barriers.
+The screen displayed new patterns now, visual representations of the connection they were building. Alex recognized some of them from Halmoni's teachings: the spiral of protection, the threshold guardian, the bridge between worlds. Others were purely digital, encryption protocols, secure channels, firewalls transformed into spiritual barriers.
 
 "Now comes the difficult part," Alex warned. "We need to test the connection. To see if it can hold under pressure."
 
@@ -48,7 +48,7 @@ Alex reached out through the network, not with code but with intention. They sen
 
 The response was immediate and overwhelming.
 
-Presences pressed against the boundaries Alex had established—dozens of them, curious, hungry, some friendly and some decidedly not. They tested the protections, probing for weaknesses, seeking entry.
+Presences pressed against the boundaries Alex had established, dozens of them, curious, hungry, some friendly and some decidedly not. They tested the protections, probing for weaknesses, seeking entry.
 
 Alex felt the pressure in their mind, a physical sensation like hands pressing against their skull from the inside. They focused on their breathing, on the jade pendant's weight, on the grounding techniques Halmoni had taught them.
 
@@ -58,9 +58,9 @@ Alex felt the pressure in their mind, a physical sensation like hands pressing a
 
 "And the others? The ones who aren't Digital Dead?"
 
-*Hungry ghosts. Spirits who have stayed too long and lost themselves. They want what I have—connection, purpose, identity. They would consume you to get it.*
+*Hungry ghosts. Spirits who have stayed too long and lost themselves. They want what I have, connection, purpose, identity. They would consume you to get it.*
 
-Alex shuddered, maintaining their focus despite the fear. The ritual was working—the protected space remained secure—but the pressure from outside was constant, relentless.
+Alex shuddered, maintaining their focus despite the fear. The ritual was working, the protected space remained secure, but the pressure from outside was constant, relentless.
 
 "We need to strengthen the boundaries. To make them permanent."
 
@@ -68,7 +68,7 @@ They reached for the brass bowl of water, dipping their fingers and flicking dro
 
 "By water and salt, by blood and bone, by the ancestors who watch over us, I establish this boundary. Let no harmful spirit pass. Let no malicious intent enter. This space is protected. This connection is sacred."
 
-The screen blazed with light—not the blue-white of normal displays, but something warmer, more organic. The intrusion attempts ceased abruptly, as if the presences outside had encountered something they recognized and feared.
+The screen blazed with light, not the blue-white of normal displays, but something warmer, more organic. The intrusion attempts ceased abruptly, as if the presences outside had encountered something they recognized and feared.
 
 *It worked,* Elena reported, wonder in her digital voice. *They've withdrawn. The space feels... quiet. Peaceful. Like a sanctuary.*
 
@@ -94,9 +94,9 @@ The screen pulsed gently, Elena's equivalent of a smile.
 
 *Partners,* Elena agreed. *In justice. In discovery. In bridging worlds that were never meant to meet.*
 
-They sat in the protected space—physical and digital, spiritual and technological—two beings connected across the boundary of death itself. The ritual had created more than just a safe channel for communication. It had established a partnership, an alliance between the living and the dead.
+They sat in the protected space, physical and digital, spiritual and technological, two beings connected across the boundary of death itself. The ritual had created more than just a safe channel for communication. It had established a partnership, an alliance between the living and the dead.
 
-Outside the protected space, the digital realm continued its endless activity. Data flowed, systems hummed, consciousnesses drifted through electronic networks. Some of those consciousnesses were human spirits like Elena. Others were something else entirely—entities that had never been human, that had emerged from complexity and code rather than biology and experience.
+Outside the protected space, the digital realm continued its endless activity. Data flowed, systems hummed, consciousnesses drifted through electronic networks. Some of those consciousnesses were human spirits like Elena. Others were something else entirely, entities that had never been human, that had emerged from complexity and code rather than biology and experience.
 
 Alex could feel them now, through the connection they had established. The vast ecosystem of the digital realm, with its own predators and prey, its own territories and boundaries, its own rules of survival. It was a wilderness as dangerous and beautiful as any physical forest, and they had just established a small sanctuary within it.
 
@@ -118,11 +118,11 @@ Elena was silent for a moment, processing. Then:
 
 *Why would you take on that burden?*
 
-"Because I can. Because my grandmother spent her life helping spirits find peace, and I finally understand why. Because the boundary between living and dead isn't meant to be a wall—it's meant to be a door. And someone needs to hold it open."
+"Because I can. Because my grandmother spent her life helping spirits find peace, and I finally understand why. Because the boundary between living and dead isn't meant to be a wall, it's meant to be a door. And someone needs to hold it open."
 
-The ritual complete, the protections established, Alex began the process of closing the formal connection. Not ending it—never that—but transitioning from the intensity of the ritual to the sustainable normalcy of ongoing partnership.
+The ritual complete, the protections established, Alex began the process of closing the formal connection. Not ending it, never that, but transitioning from the intensity of the ritual to the sustainable normalcy of ongoing partnership.
 
-They extinguished the incense, emptied the water bowl, folded the paper charms for future use. The laptop screen returned to normal, though the connection with Elena remained—quieter now, background rather than foreground, but present and stable.
+They extinguished the incense, emptied the water bowl, folded the paper charms for future use. The laptop screen returned to normal, though the connection with Elena remained, quieter now, background rather than foreground, but present and stable.
 
 "I'll contact Detective Webb tomorrow," Alex said. "Share what we've learned, what Sarah revealed, what we can prove. We'll build our case against Mitchell."
 
@@ -134,9 +134,9 @@ They extinguished the incense, emptied the water bowl, folded the paper charms f
 
 "Partners," Alex confirmed.
 
-They closed the laptop and sat in the quiet apartment, surrounded by the lingering scent of mugwort and the warmth of the jade pendant. Outside, the city continued its endless hum—cars and people and data flowing through networks visible and invisible.
+They closed the laptop and sat in the quiet apartment, surrounded by the lingering scent of mugwort and the warmth of the jade pendant. Outside, the city continued its endless hum, cars and people and data flowing through networks visible and invisible.
 
-Alex Kim had spent twenty years denying their gift, running from their heritage, trying to be normal in a world that had never felt quite right. Now they had embraced what they were—a bridge between worlds, a voice for the voiceless, a protector of boundaries and a challenger of limits.
+Alex Kim had spent twenty years denying their gift, running from their heritage, trying to be normal in a world that had never felt quite right. Now they had embraced what they were, a bridge between worlds, a voice for the voiceless, a protector of boundaries and a challenger of limits.
 
 The Ghost in Algorithm had found an ally.
 

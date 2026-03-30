@@ -12,7 +12,7 @@ She walked to Tom Henderson's office, the notification still glowing on her phon
 
 "Tom, I need to show you something." She placed her phone on his desk. "The consortium's new AI system flagged my story."
 
-Tom adjusted his reading glasses and looked at the screen. His expression shifted as he read—the easy confidence of a man who had seen everything in journalism giving way to something more uncertain.
+Tom adjusted his reading glasses and looked at the screen. His expression shifted as he read, the easy confidence of a man who had seen everything in journalism giving way to something more uncertain.
 
 "FactCheck AI," he said slowly. "I've heard about this. The consortium adopted it last month. Supposed to help with verification, catch errors before they become problems."
 
@@ -20,7 +20,7 @@ Tom adjusted his reading glasses and looked at the screen. His expression shifte
 
 Tom looked up at her. "Play it for me."
 
-Sarah pulled up the audio file on her phone. The recording wasn't perfect—council meetings were held in a large room with terrible acoustics—but Peters' voice was clear enough. The words she'd quoted were there, unmistakable.
+Sarah pulled up the audio file on her phone. The recording wasn't perfect, council meetings were held in a large room with terrible acoustics, but Peters' voice was clear enough. The words she'd quoted were there, unmistakable.
 
 Tom listened carefully, his face unreadable. When the recording ended, he sat back in his chair.
 
@@ -42,25 +42,25 @@ Tom was quiet for a moment. "The consortium has been pushing this system hard. T
 
 Tom spread his hands. "That's the question, isn't it? How do we know when the data is wrong? And who gets to decide?"
 
-Sarah felt a knot forming in her stomach. This wasn't just about one story. This was about something bigger—the nature of truth itself, and who had the power to define it.
+Sarah felt a knot forming in her stomach. This wasn't just about one story. This was about something bigger, the nature of truth itself, and who had the power to define it.
 
 "What do we do?" she asked.
 
-"For now, we follow the process. You can file a dispute with the system. Submit your evidence—your recording, your notes, any witnesses who can corroborate. The AI is supposed to learn from corrections."
+"For now, we follow the process. You can file a dispute with the system. Submit your evidence, your recording, your notes, any witnesses who can corroborate. The AI is supposed to learn from corrections."
 
 "And if it doesn't accept my evidence?"
 
 "Then we'll figure something out. I've been in this business for forty years, Sarah. I've seen a lot of changes. Some good, some bad. But I've never seen a machine that could replace human judgment. Not yet, anyway."
 
-Sarah left Tom's office with a heavy feeling in her chest. She'd always believed in the importance of truth in journalism. It was why she'd become a reporter in the first place—to tell people what really happened, to hold power accountable, to give voice to the voiceless.
+Sarah left Tom's office with a heavy feeling in her chest. She'd always believed in the importance of truth in journalism. It was why she'd become a reporter in the first place, to tell people what really happened, to hold power accountable, to give voice to the voiceless.
 
-But now a machine was telling her that what she'd seen and heard wasn't true. And the people who controlled the system—the consortium, the tech companies, the distant experts who had never been to Iowa Valley—had the power to decide what counted as truth.
+But now a machine was telling her that what she'd seen and heard wasn't true. And the people who controlled the system, the consortium, the tech companies, the distant experts who had never been to Iowa Valley, had the power to decide what counted as truth.
 
 She sat at her desk and began the dispute process. She uploaded her recording, scanned her notes, wrote a detailed explanation of what had happened. The system's interface was clean and professional, designed to inspire confidence. But as Sarah submitted her evidence, she couldn't shake the feeling that she was appealing to a judge that had already made up its mind.
 
 The response came faster than she expected. Within hours, she received an email: "FactCheck AI has reviewed your dispute. Analysis confirms inconsistency. Quote does not match verified patterns. Dispute denied."
 
-Sarah stared at the screen. The AI had rejected her evidence—her recording, her notes, her firsthand account of what had happened. It had decided, based on "verified patterns," that she was wrong.
+Sarah stared at the screen. The AI had rejected her evidence, her recording, her notes, her firsthand account of what had happened. It had decided, based on "verified patterns," that she was wrong.
 
 But she wasn't wrong. She knew she wasn't wrong. She'd been there.
 

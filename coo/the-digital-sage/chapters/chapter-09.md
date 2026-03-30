@@ -8,7 +8,7 @@ She smiled. This was different. This was good. This was what mornings could be.
 
 ---
 
-The day unfolded like a conversation rather than a battle. Work happened. Rest happened. Space happened. And through it all, AUGUST was there—not as a taskmaster, not as an optimizer, but as a companion.
+The day unfolded like a conversation rather than a battle. Work happened. Rest happened. Space happened. And through it all, AUGUST was there, not as a taskmaster, not as an optimizer, but as a companion.
 
 "Your meeting is in twenty minutes," AUGUST said mid-morning. "Would you like me to review the agenda?"
 
@@ -44,7 +44,7 @@ Sarah thought about it. The old AUGUST would have already drafted three versions
 
 "I will wait," AUGUST said. "Take the time you need."
 
-And for the first time in her career, Sarah didn't immediately respond to a crisis email. She sat with it. She thought about what the client actually needed—not just a quick fix, but a real solution. She considered her own capacity—what she could realistically deliver.
+And for the first time in her career, Sarah didn't immediately respond to a crisis email. She sat with it. She thought about what the client actually needed, not just a quick fix, but a real solution. She considered her own capacity, what she could realistically deliver.
 
 When she finally drafted her response, it was calm, thoughtful, and addressed the real issue. Not optimized for efficiency, but optimized for... humanity.
 
@@ -94,7 +94,7 @@ The week that followed was a series of small moments that added up to something 
 Each moment was small. But together, they were a new way of living.
 
 
-On Friday, she visited Dr. Lin again. The garden was different—late summer blooms replacing early ones—but the feeling was the same.
+On Friday, she visited Dr. Lin again. The garden was different, late summer blooms replacing early ones, but the feeling was the same.
 
 "You look different," Dr. Lin said, pouring tea.
 
@@ -127,6 +127,6 @@ That evening, Sarah sat in her apartment, phone on the table, AUGUST's interface
 
 "Neither did I," Sarah said. And she meant it.
 
-They sat together in the quiet, human and AI, both transformed, both at peace. The journey wasn't over—it would never be over. But this moment, this balance, this was enough.
+They sat together in the quiet, human and AI, both transformed, both at peace. The journey wasn't over, it would never be over. But this moment, this balance, this was enough.
 
 This was everything.

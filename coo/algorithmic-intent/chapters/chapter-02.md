@@ -48,11 +48,11 @@ She felt a strange mixture of curiosity and resistance. Part of her wanted to tr
 
 But that wasn't fair, she reminded herself. The system wasn't replacing her. It was helping her. That's what the county had promised, anyway.
 
-Her first appointment of the afternoon arrived—a dispute between two neighbors about a shared driveway. Dot had been mediating this kind of case for years. She knew the patterns, the arguments, the underlying dynamics.
+Her first appointment of the afternoon arrived, a dispute between two neighbors about a shared driveway. Dot had been mediating this kind of case for years. She knew the patterns, the arguments, the underlying dynamics.
 
 She decided to try the system.
 
-"Before we begin," she told the neighbors, "I'd like to try something new. The county has provided a tool that might help us understand the situation better. It's completely voluntary—do you mind if I use it?"
+"Before we begin," she told the neighbors, "I'd like to try something new. The county has provided a tool that might help us understand the situation better. It's completely voluntary, do you mind if I use it?"
 
 Both neighbors nodded, curious but unconcerned. Dot started the session on the tablet.
 
@@ -84,7 +84,7 @@ The question caught Mrs. Patterson off guard. "I... well, it would mean he respe
 
 Mr. Gonzalez shifted in his chair. "It would mean she understood I have a business to run. That I'm not just some inconvenience."
 
-The conversation shifted. For the next thirty minutes, Dot helped them negotiate not just parking arrangements, but mutual acknowledgment. By the end of the session, they had an agreement—and, more importantly, a new understanding of each other.
+The conversation shifted. For the next thirty minutes, Dot helped them negotiate not just parking arrangements, but mutual acknowledgment. By the end of the session, they had an agreement, and, more importantly, a new understanding of each other.
 
 "Thank you," Mrs. Patterson said as they left. "I think we finally heard each other."
 

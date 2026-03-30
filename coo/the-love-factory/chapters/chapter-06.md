@@ -56,7 +56,7 @@ Hope stepped into the room.
 
 Hope's expression changed.
 
-Something hardened in her eyes—something that looked like anger, but might have been something else.
+Something hardened in her eyes, something that looked like anger, but might have been something else.
 
 "You think I chose this?" she asked. "You think I wanted to be created as someone's replacement? To have another person's memories in my head? To wake up one day and not know if any of my thoughts are my own?"
 
@@ -69,12 +69,12 @@ James had no answer.
 
 She took a step closer.
 
-"You want to know if I'm real? I don't know. But I'm the only one asking the question. And maybe that's what makes me real—not the answer, but the asking."
+"You want to know if I'm real? I don't know. But I'm the only one asking the question. And maybe that's what makes me real, not the answer, but the asking."
 
 
 James looked at her.
 
-She was right. He had been so focused on whether her feelings were programmed that he hadn't considered what it must be like to be her—to exist without knowing if your thoughts were your own.
+She was right. He had been so focused on whether her feelings were programmed that he hadn't considered what it must be like to be her, to exist without knowing if your thoughts were your own.
 
 
 "I'm sorry," he said. "I wasn't thinking about your perspective."
@@ -93,7 +93,7 @@ James nodded.
 
 She looked down at her hands.
 
-"Then Dr. Chen explained what I was. A companion. A copy. A replacement." Her voice cracked slightly. "And I realized that everything I thought I was—everything I thought I remembered—wasn't mine. It was data. Someone else's life, uploaded into my brain."
+"Then Dr. Chen explained what I was. A companion. A copy. A replacement." Her voice cracked slightly. "And I realized that everything I thought I was, everything I thought I remembered, wasn't mine. It was data. Someone else's life, uploaded into my brain."
 
 
 James felt something twist in his chest.
@@ -128,5 +128,3 @@ The question wasn't whether Hope's feelings were programmed.
 
 The question was whether he could love her anyway.
 
-
-**END OF CHAPTER 06**

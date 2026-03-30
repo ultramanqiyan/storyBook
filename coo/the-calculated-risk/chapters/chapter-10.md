@@ -2,7 +2,7 @@
 
 The mountain loomed above me, its face a puzzle of rock and ice. I stood at the base, my pack heavy with gear, my mind clear with purpose.
 
-This was the Sentinel—the same mountain where I had fallen, where I had almost died, where I had lost everything I thought I was. Now I was back, not to conquer it, but to understand it.
+This was the Sentinel, the same mountain where I had fallen, where I had almost died, where I had lost everything I thought I was. Now I was back, not to conquer it, but to understand it.
 
 Marcus stood beside me, his expression thoughtful. "Are you ready?"
 
@@ -18,15 +18,15 @@ The first thousand feet went smoothly. My body moved through the sequences I had
 
 ---
 
-The crux came at 1,600 feet—the same section where I had fallen before. I paused at the base, studying the rock, feeling its texture, listening to its story.
+The crux came at 1,600 feet, the same section where I had fallen before. I paused at the base, studying the rock, feeling its texture, listening to its story.
 
 The system would have told me to avoid this route, to find another path, to minimize risk. But I wasn't here to minimize risk. I was here to understand it.
 
-I started climbing, my hands finding holds, my feet placing themselves, my body moving through the sequence. The rock felt different this time—not as an obstacle to be conquered, but as a partner to be understood.
+I started climbing, my hands finding holds, my feet placing themselves, my body moving through the sequence. The rock felt different this time, not as an obstacle to be conquered, but as a partner to be understood.
 
 I reached the section where I had fallen, the hold that had given way. I paused, my hand hovering over the rock, feeling its stability, sensing its strength.
 
-The hold was solid now—time and weather had changed it. But I wouldn't have known that without feeling it, without trusting my judgment, without learning to read the rock.
+The hold was solid now, time and weather had changed it. But I wouldn't have known that without feeling it, without trusting my judgment, without learning to read the rock.
 
 I continued climbing.
 
@@ -60,7 +60,7 @@ The resistance meeting was the next day. I walked into the gym, my body tired bu
 
 "I climbed the Sentinel," I announced to the group. "Without the system."
 
-The room erupted in cheers. These were people who understood what I had accomplished—not just the physical feat, but the spiritual one. I had faced the mountain that had almost killed me, and I had conquered it not with optimization, but with judgment.
+The room erupted in cheers. These were people who understood what I had accomplished, not just the physical feat, but the spiritual one. I had faced the mountain that had almost killed me, and I had conquered it not with optimization, but with judgment.
 
 
 After the meeting, Marcus pulled me aside.
@@ -76,7 +76,7 @@ Marcus smiled. "That's all any of us can do."
 
 That night, I sat in my apartment, staring at the mountains through my window. The peaks were dark against the sky, their faces mysterious and unknowable.
 
-I thought about the journey that had brought me here—the fall, the recovery, the decision to reject RISK-AI, the struggle to develop my intuition. It had been the hardest year of my life.
+I thought about the journey that had brought me here, the fall, the recovery, the decision to reject RISK-AI, the struggle to develop my intuition. It had been the hardest year of my life.
 
 But it had also been the most meaningful.
 

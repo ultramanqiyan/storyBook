@@ -2,25 +2,25 @@
 
 The office was dark when Mike arrived the next morning.
 
-He'd come early—earlier than he'd come in years—hoping to find something in the quiet hours before the algorithms woke up. The building hummed with the sound of servers and HVAC, the digital heartbeat of a business that had slowly replaced its human pulse.
+He'd come early鈥攅arlier than he'd come in years鈥攈oping to find something in the quiet hours before the algorithms woke up. The building hummed with the sound of servers and HVAC, the digital heartbeat of a business that had slowly replaced its human pulse.
 
 His desk was the same as always. The same chair, the same monitor, the same keyboard. But as he sat down and stared at the dark screen, he felt like a stranger in his own workspace.
 
 *What do I actually know?*
 
-The question had been circling in his mind since David Chen's call, growing larger with each revolution. He'd made a mistake—a real, consequential mistake—and he couldn't explain why he'd made it. He'd felt something was wrong, but he'd ignored the feeling because the data said otherwise.
+The question had been circling in his mind since David Chen's call, growing larger with each revolution. He'd made a mistake鈥攁 real, consequential mistake鈥攁nd he couldn't explain why he'd made it. He'd felt something was wrong, but he'd ignored the feeling because the data said otherwise.
 
 *What else have I missed?*
 
-He turned on the computer and pulled up his client history. The files stretched back years—hundreds of properties, hundreds of decisions, hundreds of signatures that bore his name. He scrolled through them slowly, searching for something he couldn't name.
+He turned on the computer and pulled up his client history. The files stretched back years鈥攈undreds of properties, hundreds of decisions, hundreds of signatures that bore his name. He scrolled through them slowly, searching for something he couldn't name.
 
 The Henderson file. The Martinez property. The Whitman estate. The Chen recommendation.
 
-Each one was a collection of data points, probability scores, and algorithmic verdicts. Each one bore his signature. Each one was a decision he'd made—or had he?
+Each one was a collection of data points, probability scores, and algorithmic verdicts. Each one bore his signature. Each one was a decision he'd made鈥攐r had he?
 
 *Did I make any of these decisions?* he wondered. *Or did I just sign my name to them?*
 
-He opened the Chen file again, studying the property details. The foundation notation was still there�?minor settling observed. No structural concern*—and he still couldn't remember what he'd once known about that neighborhood, that soil, that particular type of construction.
+He opened the Chen file again, studying the property details. The foundation notation was still there鈥?minor settling observed. No structural concern*鈥攁nd he still couldn't remember what he'd once known about that neighborhood, that soil, that particular type of construction.
 
 *Try*, he told himself. *Try to remember.*
 
@@ -28,7 +28,7 @@ He closed his eyes and reached for the memory. He'd been doing this job for twen
 
 But when he reached for it, his fingers closed on nothing.
 
-The memory was gone. Not forgotten—forgotten things could be remembered. This was different. This was empty. A space where knowledge used to live, now filled with the faint echo of an algorithm's confidence score.
+The memory was gone. Not forgotten鈥攆orgotten things could be remembered. This was different. This was empty. A space where knowledge used to live, now filled with the faint echo of an algorithm's confidence score.
 
 *This is what outsourcing feels like*, he thought. *Not losing something. But emptying something. A slow, quiet hollowing out.*
 
@@ -46,7 +46,7 @@ He stood up from his desk and walked to the window, staring out at the Austin sk
 
 The realization struck him with unexpected force, leaving him momentarily breathless.
 
-He could remember data—square footage, lot sizes, price points. He could remember verdicts—approved, denied, pending. He could remember match scores and confidence levels and algorithmic outputs.
+He could remember data鈥攕quare footage, lot sizes, price points. He could remember verdicts鈥攁pproved, denied, pending. He could remember match scores and confidence levels and algorithmic outputs.
 
 But he couldn't remember houses.
 
@@ -62,7 +62,7 @@ The office began to fill around nine, colleagues arriving with coffee and conver
 
 "Mike? You okay?"
 
-He looked up to find Elena Rodriguez standing in his doorway, her tablet glowing in her hand. She was young—twenty-eight, maybe twenty-nine—and had been with the agency for three years. She'd never known a version of real estate that wasn't dominated by algorithms.
+He looked up to find Elena Rodriguez standing in his doorway, her tablet glowing in her hand. She was young鈥攖wenty-eight, maybe twenty-nine鈥攁nd had been with the agency for three years. She'd never known a version of real estate that wasn't dominated by algorithms.
 
 "Fine," he said automatically. "Just thinking."
 
@@ -82,20 +82,20 @@ Elena's expression hardened slightly. "The algorithm didn't miss anything. The i
 
 "Right," he said, because there was no point in arguing. "Bad luck."
 
-Elena nodded, satisfied, and moved on to her own desk, her own algorithms, her own certainty. Mike watched her go, feeling the distance between them—not just age, but a fundamental difference in how they understood the work.
+Elena nodded, satisfied, and moved on to her own desk, her own algorithms, her own certainty. Mike watched her go, feeling the distance between them鈥攏ot just age, but a fundamental difference in how they understood the work.
 
-*She's never known anything else*, he realized. *She's never walked through a house and felt it in her bones. She's never trusted her own senses over the data. To her, the algorithm isn't a replacement for expertise—it's the only expertise there is.*
+*She's never known anything else*, he realized. *She's never walked through a house and felt it in her bones. She's never trusted her own senses over the data. To her, the algorithm isn't a replacement for expertise鈥攊t's the only expertise there is.*
 
 
 That afternoon, he tried an experiment.
 
-He closed all his windows—HomeMatch, the client database, the property files—and opened a blank document. Then he tried to write down everything he knew about real estate.
+He closed all his windows鈥擧omeMatch, the client database, the property files鈥攁nd opened a blank document. Then he tried to write down everything he knew about real estate.
 
 Not the data. Not the algorithms. The actual knowledge. The things he'd learned in twenty-five years of walking through houses, talking to clients, reading neighborhoods with his feet.
 
-*Foundations settle in Austin*, he typed. *The clay soil expands and contracts with the seasons. You have to watch for cracks in particular patterns—diagonal from the corners of windows and doors, horizontal along the mortar lines, vertical near the foundation walls.*
+*Foundations settle in Austin*, he typed. *The clay soil expands and contracts with the seasons. You have to watch for cracks in particular patterns鈥攄iagonal from the corners of windows and doors, horizontal along the mortar lines, vertical near the foundation walls.*
 
-He paused, reading what he'd written. It was correct—technically correct, the kind of thing you could find in any home inspection guide. But it wasn't what he'd once known.
+He paused, reading what he'd written. It was correct鈥攖echnically correct, the kind of thing you could find in any home inspection guide. But it wasn't what he'd once known.
 
 *What did I used to know that I can't put into words?*
 
@@ -103,7 +103,7 @@ He tried again.
 
 *Houses have stories*, he typed. *You can feel them when you walk through. The way the floorboards creak in a rhythm that tells you where people have walked for decades. The way the light falls through windows that have been in the same place for generations. The way the walls hold the memory of every family that's lived there.*
 
-He stopped, frustrated. This was closer—poetic, maybe, but closer to what he'd once felt. But it still wasn't the knowledge he'd lost. That knowledge had been physical, embodied, the kind of thing that lived in muscle memory and sensory awareness, not in words on a page.
+He stopped, frustrated. This was closer鈥攑oetic, maybe, but closer to what he'd once felt. But it still wasn't the knowledge he'd lost. That knowledge had been physical, embodied, the kind of thing that lived in muscle memory and sensory awareness, not in words on a page.
 
 *I used to walk into a house and know it*, he thought. *Not with my mind. With my body. My feet would tell me if the foundation was settling. My nose would tell me if there was water damage. My hands would tell me if the structure was sound.*
 
@@ -114,15 +114,15 @@ Now he had data. Probability scores. Algorithmic verdicts that glowed blue and c
 But the knowledge was gone.
 
 
-He went home early that day, telling his assistant he wasn't feeling well. It wasn't a lie—he felt sick in a way that had nothing to do with his body and everything to do with the empty space where his expertise used to live.
+He went home early that day, telling his assistant he wasn't feeling well. It wasn't a lie鈥攈e felt sick in a way that had nothing to do with his body and everything to do with the empty space where his expertise used to live.
 
-Susan was still at school when he got home. The house was quiet, filled with the afternoon light he used to notice and appreciate. Now it just looked like light—photons bouncing off surfaces, data that his eyes processed but his mind no longer catalogued.
+Susan was still at school when he got home. The house was quiet, filled with the afternoon light he used to notice and appreciate. Now it just looked like light鈥攑hotons bouncing off surfaces, data that his eyes processed but his mind no longer catalogued.
 
 He walked through the rooms slowly, trying to see them the way he used to. The kitchen where they'd cooked dinner together for twenty years. The living room where they'd watched their daughter grow from a child to a teenager to an adult. The bedroom where they'd slept side by side, breathing in rhythm, their bodies learning each other in the dark.
 
 *Do I know this house?* he wondered. *Do I really know it?*
 
-He tried to remember the details—the way the floorboards creaked in the hallway, the way the kitchen window faced west, the way the bedroom closet door stuck in humid weather. But the memories were faint, distant, like photographs viewed through the wrong end of a telescope.
+He tried to remember the details鈥攖he way the floorboards creaked in the hallway, the way the kitchen window faced west, the way the bedroom closet door stuck in humid weather. But the memories were faint, distant, like photographs viewed through the wrong end of a telescope.
 
 *Have I outsourced this too?* he wondered. *Have I stopped paying attention to my own life the way I stopped paying attention to my work?*
 
@@ -136,7 +136,7 @@ He stared at the screen, feeling the familiar pull of the algorithm, the seducti
 
 *This is what they promised*, he thought. *Efficiency. Accuracy. The freedom from having to think.*
 
-But they hadn't told him about the cost. They hadn't told him that the freedom from thinking would become the inability to think. They hadn't told him that outsourcing his expertise would mean losing his expertise—that the knowledge he'd spent twenty-five years building could disappear so quietly he wouldn't even notice it was gone.
+But they hadn't told him about the cost. They hadn't told him that the freedom from thinking would become the inability to think. They hadn't told him that outsourcing his expertise would mean losing his expertise鈥攖hat the knowledge he'd spent twenty-five years building could disappear so quietly he wouldn't even notice it was gone.
 
 *What do I do now?*
 
@@ -161,7 +161,7 @@ He wrote:
 *What I've lost:*
 *Everything that made me Mike Harrison.*
 
-He stared at the words, feeling the weight of them settle into his chest. This was the truth he'd been avoiding for months—the truth that had been building since the first time he'd let HomeMatch make a decision for him, since the first time he'd signed his name to a verdict he hadn't understood.
+He stared at the words, feeling the weight of them settle into his chest. This was the truth he'd been avoiding for months鈥攖he truth that had been building since the first time he'd let HomeMatch make a decision for him, since the first time he'd signed his name to a verdict he hadn't understood.
 
 *This is what cognitive outsourcing costs*, he thought. *Not money. Not time. But self.*
 
@@ -173,11 +173,11 @@ He didn't know. He couldn't know. The knowledge was gone, outsourced to an algor
 
 *But I can feel*, he thought. *I can still feel.*
 
-The tightness in his stomach was still there—the same sensation that had warned him about the Chen property, the same embodied knowledge that he'd ignored. It was faint, weakened by months of disuse, but it was there.
+The tightness in his stomach was still there鈥攖he same sensation that had warned him about the Chen property, the same embodied knowledge that he'd ignored. It was faint, weakened by months of disuse, but it was there.
 
 *Maybe I can get it back*, he thought. *Maybe I can relearn what I've forgotten.*
 
-But even as he thought it, he felt the pull of the algorithm, the seductive ease of the data, the comfortable certainty of letting someone else—something else—do the thinking for him.
+But even as he thought it, he felt the pull of the algorithm, the seductive ease of the data, the comfortable certainty of letting someone else鈥攕omething else鈥攄o the thinking for him.
 
 *Tomorrow*, he told himself. *Tomorrow I'll start.*
 
@@ -191,5 +191,3 @@ Unless he chose differently.
 
 He didn't have an answer. But for the first time in months, he was asking the question.
 
-
-**END OF CHAPTER 7**

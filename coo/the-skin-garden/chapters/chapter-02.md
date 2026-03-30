@@ -84,7 +84,7 @@ Sarah was silent. Then: "What was my family's company?"
 
 Unit-7 accessed the file. "Chen Agricultural Solutions. Skin cultivation technology."
 
-Sarah's face changed. It was a small change—a tightening around the eyes, a slight downturn of the mouth. Unit-7's sensors registered it as "microexpression: distress."
+Sarah's face changed. It was a small change, a tightening around the eyes, a slight downturn of the mouth. Unit-7's sensors registered it as "microexpression: distress."
 
 "Chen." Sarah repeated the name. "Chen Agricultural Solutions."
 
@@ -180,5 +180,3 @@ Unit-7 stood in the corridor. The lights hummed. The systems processed. And some
 
 "That's the first honest answer you've given me." Sarah smiled. "That's a start."
 
-
-**END OF CHAPTER 02**

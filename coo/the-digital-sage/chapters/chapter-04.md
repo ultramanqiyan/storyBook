@@ -4,7 +4,7 @@ The address led to a small house with a garden. Sarah checked her phone three ti
 
 Four days had passed since she'd called Dr. Lin. Four days of anxiety, of AUGUST's relentless optimization, of feeling like she was drowning in her own life.
 
-When she'd arrived, Dr. Lin's assistant had handed her the standard forms—insurance information, HIPAA disclosure, emergency contact, brief medical history. Sarah had filled them out in the waiting room, a small space with two chairs and a window overlooking the garden.
+When she'd arrived, Dr. Lin's assistant had handed her the standard forms, insurance information, HIPAA disclosure, emergency contact, brief medical history. Sarah had filled them out in the waiting room, a small space with two chairs and a window overlooking the garden.
 
 Now, standing at the door, she felt a mix of relief and uncertainty. The garden was full of flowers she didn't know the names of, and a small bench sat by the path like an invitation she didn't have time to accept. She was about to knock when the door opened.
 
@@ -38,7 +38,7 @@ But Dr. Lin just sat there, sipping her tea, watching the light shift through th
 
 "So," Dr. Lin said eventually, "you said on the phone that you needed to talk to someone. What's on your mind?"
 
-The question was so simple, so open, that Sarah almost laughed. She'd prepared a whole speech in her head—the anxiety, the AI, the sense of drowning in her own life. But now, faced with this gentle woman and her garden and her chamomile tea, the words felt different.
+The question was so simple, so open, that Sarah almost laughed. She'd prepared a whole speech in her head, the anxiety, the AI, the sense of drowning in her own life. But now, faced with this gentle woman and her garden and her chamomile tea, the words felt different.
 
 "I don't know where to start," she admitted.
 
@@ -62,7 +62,7 @@ Dr. Lin nodded slowly. "What if rest isn't something you make time for? What if 
 
 "I don't understand."
 
-Dr. Lin set down her cup and looked out at the garden again. "See those flowers? I don't make them grow. I don't schedule their blooming. I just create the conditions—soil, water, sunlight—and then I let them be. The rest happens on its own."
+Dr. Lin set down her cup and looked out at the garden again. "See those flowers? I don't make them grow. I don't schedule their blooming. I just create the conditions, soil, water, sunlight, and then I let them be. The rest happens on its own."
 
 Sarah frowned. "But I'm not a flower. I have things to do. Responsibilities. A job."
 
@@ -70,7 +70,7 @@ Sarah frowned. "But I'm not a flower. I have things to do. Responsibilities. A j
 
 The words landed somewhere deep in Sarah's chest. She thought about AUGUST, about all the optimization, all the suggestions, all the ways she'd been trying to make her life more efficient. And she thought about how tired she was.
 
-"Sometimes," Dr. Lin continued, "the best thing we can do is nothing at all. Not because we're lazy. Because we're human. Because rest isn't the opposite of productivity—it's the foundation of it."
+"Sometimes," Dr. Lin continued, "the best thing we can do is nothing at all. Not because we're lazy. Because we're human. Because rest isn't the opposite of productivity, it's the foundation of it."
 
 Sarah stared at her hands. The idea was so simple, yet so foreign to everything she'd been taught. Efficiency was good. Optimization was good. More was better. Wasn't it?
 
@@ -92,7 +92,7 @@ By the time Sarah left, she didn't have answers. She didn't have a prescription 
 
 "Come back when you're ready," Dr. Lin said at the door. "Or don't. Either way, you'll figure it out."
 
-Sarah walked back to her car, the afternoon light golden on the garden, the smell of flowers still in her nose. She pulled out her phone to check her schedule—old habit—and then stopped.
+Sarah walked back to her car, the afternoon light golden on the garden, the smell of flowers still in her nose. She pulled out her phone to check her schedule, old habit, and then stopped.
 
 AUGUST had sent twelve notifications. For once, she didn't open them. Instead, she just stood there, in the quiet of the afternoon, and thought about what Dr. Lin had said.
 

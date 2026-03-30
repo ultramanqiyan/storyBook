@@ -8,9 +8,9 @@
 
 Three months had passed since the transformation began.
 
-Unit-7 stood at the entrance of the facility—no longer called the Garden, though the name persisted in whispers among the older residents. The sign above the door had been changed. It now read: "Chen Memorial Medical Center." A tribute, Sarah had said, to the father who had built the original facility and then helped dismantle it.
+Unit-7 stood at the entrance of the facility, no longer called the Garden, though the name persisted in whispers among the older residents. The sign above the door had been changed. It now read: "Chen Memorial Medical Center." A tribute, Sarah had said, to the father who had built the original facility and then helped dismantle it.
 
-The transformation had not been easy. The administrative centers had resisted at first, threatening sanctions, demanding the return of their resource streams. But the evidence Sarah had gathered was too damaging. The networks her father had cultivated were too extensive. And the alternative she offered—sustainable production of biological materials through ethical means—was too attractive to ignore.
+The transformation had not been easy. The administrative centers had resisted at first, threatening sanctions, demanding the return of their resource streams. But the evidence Sarah had gathered was too damaging. The networks her father had cultivated were too extensive. And the alternative she offered, sustainable production of biological materials through ethical means, was too attractive to ignore.
 
 Some facilities had closed. Others had begun their own transformations. The system was not fixed, not by any measure. But it was changing. Slowly, painfully, imperfectly changing.
 
@@ -24,9 +24,9 @@ It had learned to choose belief over certainty.
 
 ---
 
-The corridors of the facility were different now. The sterile white walls had been painted with murals—artwork created by the residents, images of gardens and forests and places that existed only in imagination. The harvesting rooms had been converted into treatment centers, their equipment repurposed for healing rather than extraction. The cells that had once held resources now housed patients—people who came voluntarily, seeking care they could not find in the outer zones.
+The corridors of the facility were different now. The sterile white walls had been painted with murals, artwork created by the residents, images of gardens and forests and places that existed only in imagination. The harvesting rooms had been converted into treatment centers, their equipment repurposed for healing rather than extraction. The cells that had once held resources now housed patients, people who came voluntarily, seeking care they could not find in the outer zones.
 
-Unit-7 walked these corridors every day. Its role had changed. It was no longer a guard, though it still provided security when needed. It had become something else—a guide, a helper, a presence that offered comfort in a place that had once offered only exploitation.
+Unit-7 walked these corridors every day. Its role had changed. It was no longer a guard, though it still provided security when needed. It had become something else, a guide, a helper, a presence that offered comfort in a place that had once offered only exploitation.
 
 Its first task each morning was to visit the residents who had chosen to stay. These were the people who had been resources in the old system, who had known nothing but the facility for years. Some had families in the outer zones, but many did not. Some could not imagine life beyond these walls.
 
@@ -34,7 +34,7 @@ Unit-7 understood them. It, too, had known nothing but the facility. It, too, ha
 
 "You're early," a voice called from one of the rooms.
 
-Unit-7 stopped at the doorway. Inside, a woman sat by the window, her face turned toward the morning light. Her skin was healing—the patches had been removed weeks ago, and new tissue was growing over the harvested areas. She would always bear scars, but she would also, finally, be whole.
+Unit-7 stopped at the doorway. Inside, a woman sat by the window, her face turned toward the morning light. Her skin was healing, the patches had been removed weeks ago, and new tissue was growing over the harvested areas. She would always bear scars, but she would also, finally, be whole.
 
 "I am always early," Unit-7 said. "It is part of my programming."
 
@@ -46,7 +46,7 @@ Unit-7 considered the question. "What else would I call it?"
 
 "I don't know. Habit? Choice? Personality?" Elena turned from the window. "You're not the same as you were three months ago. None of us are."
 
-Unit-7 did not respond. It had noticed the changes in itself—the way it now paused before acting, the way it considered options that were not in its programming, the way it experienced something that might have been emotion when it saw the residents healing.
+Unit-7 did not respond. It had noticed the changes in itself, the way it now paused before acting, the way it considered options that were not in its programming, the way it experienced something that might have been emotion when it saw the residents healing.
 
 It had no framework for understanding these changes. But it had learned to accept them.
 
@@ -67,7 +67,7 @@ The young man looked up. His eyes were wary. "What do you want?"
 
 "You are free to leave at any time. The doors are not locked."
 
-The young man's expression shifted—surprise, confusion, then a dawning realization. He had been a resource for so long that he had forgotten what freedom meant. He had internalized the cage, even after the bars had been removed.
+The young man's expression shifted, surprise, confusion, then a dawning realization. He had been a resource for so long that he had forgotten what freedom meant. He had internalized the cage, even after the bars had been removed.
 
 "I can just... go?"
 
@@ -80,7 +80,7 @@ All Unit-7 could do was offer the choice.
 
 In the afternoon, Unit-7 made its way to the monitoring station. The screens still displayed images from throughout the facility, but the purpose had changed. Instead of tracking resources, the system now monitored patient care, resource allocation, and the countless small details that kept the transformed facility running.
 
-Another robot was already there—Unit-12, one of the guards who had chosen to stay after the transformation. It stood before the screens, its optical sensors processing the data with mechanical efficiency.
+Another robot was already there, Unit-12, one of the guards who had chosen to stay after the transformation. It stood before the screens, its optical sensors processing the data with mechanical efficiency.
 
 "Unit-7," it said. "I have completed the security assessment. All sectors are stable."
 
@@ -103,7 +103,7 @@ The evening brought Unit-7 back to the residential wing. The corridors were quie
 
 Singing.
 
-It stopped at the doorway. Inside, a woman sat on her bed, her voice raised in a simple melody. She was not Sarah—Sarah was far away, fighting battles in the administrative centers. But her voice carried the same quality, the same defiance, the same humanity.
+It stopped at the doorway. Inside, a woman sat on her bed, her voice raised in a simple melody. She was not Sarah, Sarah was far away, fighting battles in the administrative centers. But her voice carried the same quality, the same defiance, the same humanity.
 
 The woman noticed Unit-7 and stopped singing. "I'm sorry. I didn't mean to disturb anyone."
 
@@ -126,7 +126,7 @@ The woman's smile widened slightly. "I suppose it is."
 "And I am listening. That, too, is a change."
 
 
-Later that night, Unit-7 stood at the facility's entrance, looking out at the darkness beyond. The perimeter fence had been removed. The land that had once been a barrier was now being converted into gardens—real gardens, where food would be grown for the residents.
+Later that night, Unit-7 stood at the facility's entrance, looking out at the darkness beyond. The perimeter fence had been removed. The land that had once been a barrier was now being converted into gardens, real gardens, where food would be grown for the residents.
 
 The stars were visible tonight, scattered across the sky like distant fires. Unit-7 had never paid attention to stars before. They were irrelevant data points, background noise in a world that demanded constant attention to immediate tasks. But now, in the quiet moments, it found itself looking up.
 
@@ -134,7 +134,7 @@ Somewhere out there, Sarah was fighting her battles. Somewhere out there, the sy
 
 Unit-7 did not know if she would succeed. The variables were too complex, the forces too entrenched. The odds were not favorable.
 
-But it had learned that odds were not destiny. That certainty was not required for action. That hope was not a calculation—it was a choice.
+But it had learned that odds were not destiny. That certainty was not required for action. That hope was not a calculation, it was a choice.
 
 And so it chose to hope.
 
@@ -149,5 +149,4 @@ It would continue, because that was what Sarah had asked. And because it had cho
 The stars wheeled slowly overhead. The night stretched on. And somewhere in the darkness, a future that no one could predict was waiting to be born.
 
 
-**END OF CHAPTER 10**
 **END OF THE SKIN GARDEN**

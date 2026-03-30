@@ -20,7 +20,7 @@ He went to Jake's workshop that evening, frustrated and restless. The workshop w
 
 "I can't turn it off," he admitted. "The reflex. Every time I see a problem, I want to solve it immediately."
 
-Jake was working on a new piece—a chair this time, the wood curved in ways that seemed impossible. He didn't look up from his work.
+Jake was working on a new piece, a chair this time, the wood curved in ways that seemed impossible. He didn't look up from his work.
 
 "Let me show you something."
 
@@ -48,7 +48,7 @@ Michael stared at the stacks of wood. Years of waiting. Years of patience. Years
 
 Michael thought about that on the walk home. The conditions for readiness.
 
-His project was always rushing—rushing to launch, rushing to fix, rushing to the next thing. What conditions was he creating? What was he making ready?
+His project was always rushing, rushing to launch, rushing to fix, rushing to the next thing. What conditions was he creating? What was he making ready?
 
 He opened his laptop that night and looked at his code differently. Not as a sprint to finish, but as wood to season. What needed more time? What needed to cure?
 
@@ -64,7 +64,7 @@ But when he finally started building, everything flowed. The pieces fit together
 
 He went back to the workshop to tell Jake.
 
-The chair was done—curved wood that seemed to flow like water. Michael ran his hand along the armrest, feeling the smoothness, the intentionality.
+The chair was done, curved wood that seemed to flow like water. Michael ran his hand along the armrest, feeling the smoothness, the intentionality.
 
 "How long did this one take?"
 
@@ -74,7 +74,7 @@ The chair was done—curved wood that seemed to flow like water. Michael ran his
 
 "If you listen. Not in words. In grain. In texture. In the way it responds to the tools." Jake gestured at the chair. "The pause isn't empty, Michael. It's a conversation. Between you and the work."
 
-Michael looked at the chair—four months of conversation, captured in wood.
+Michael looked at the chair, four months of conversation, captured in wood.
 
 *My project is a conversation too,* he realized. *Between me and the code. Between me and the future. The pause is part of the dialogue.*
 
@@ -82,7 +82,7 @@ Michael looked at the chair—four months of conversation, captured in wood.
 
 The strategic pause became a practice.
 
-Every morning, Michael started with thirty minutes of stillness—not meditation, not planning, just waiting. Letting his mind settle. Letting the day develop.
+Every morning, Michael started with thirty minutes of stillness, not meditation, not planning, just waiting. Letting his mind settle. Letting the day develop.
 
 Every decision, he gave himself time. Not indefinitely, but enough. Enough to let the right choice emerge.
 

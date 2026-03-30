@@ -2,11 +2,11 @@
 
 The project came from the senior partner himself.
 
-"David, I want you on the Atlas engagement," he said, stopping by David's desk on a Tuesday morning. "It's a cross-functional team—strategy, operations, technology. You'll be representing the organizational design workstream."
+"David, I want you on the Atlas engagement," he said, stopping by David's desk on a Tuesday morning. "It's a cross-functional team, strategy, operations, technology. You'll be representing the organizational design workstream."
 
 David felt a flicker of the old anxiety. A cross-functional team meant multiple voices, competing opinions, the need to navigate complex dynamics. The old David would have worried about stepping on toes, about having his ideas validated, about knowing his place.
 
-But the new David—the one who'd been practicing self-reliance for months—simply nodded.
+But the new David, the one who'd been practicing self-reliance for months, simply nodded.
 
 "I'm in. What's the timeline?"
 
@@ -18,13 +18,13 @@ David almost smiled. Drown him out? That wasn't going to happen anymore.
 
 The first meeting was a study in contrasts.
 
-The strategy lead, a senior manager named Patricia, dominated the conversation. She had opinions on everything—the client's market position, the competitive landscape, the optimal growth trajectory. Her voice filled the room, leaving little space for others.
+The strategy lead, a senior manager named Patricia, dominated the conversation. She had opinions on everything, the client's market position, the competitive landscape, the optimal growth trajectory. Her voice filled the room, leaving little space for others.
 
 The technology lead, a quiet engineer named Raj, contributed sparingly but precisely. When he spoke, people listened, because his points were always data-driven and relevant.
 
 The operations lead, a boisterous consultant named Mike, jumped in constantly, building on Patricia's ideas, adding his own flourishes, rarely letting a thought go unexpressed.
 
-David watched the dynamics, noting how the conversation flowed—or didn't flow. Patricia and Mike fed off each other, creating a wall of sound that left little room for Raj's quieter contributions or anyone else's.
+David watched the dynamics, noting how the conversation flowed, or didn't flow. Patricia and Mike fed off each other, creating a wall of sound that left little room for Raj's quieter contributions or anyone else's.
 
 When the discussion turned to organizational structure, David spoke up.
 
@@ -42,7 +42,7 @@ The conversation continued, with Patricia and Mike pushing back, asking question
 
 But he also listened. When Raj pointed out a technology constraint, David adjusted his proposal. When Patricia raised a concern about change management, David acknowledged it and offered a mitigation approach.
 
-By the end of the meeting, they had a framework. Not David's original proposal exactly, but something better—a synthesis that incorporated multiple perspectives.
+By the end of the meeting, they had a framework. Not David's original proposal exactly, but something better, a synthesis that incorporated multiple perspectives.
 
 "Good session," Patricia said as they packed up. "David, you've changed since the last time we worked together."
 
@@ -54,7 +54,7 @@ By the end of the meeting, they had a framework. Not David's original proposal e
 
 Over the next few weeks, David found his rhythm within the team.
 
-He didn't dominate conversations—self-reliance wasn't about being the loudest voice. But he didn't disappear either. He contributed his perspective clearly, listened to others genuinely, and found the balance between holding his ground and adapting to new information.
+He didn't dominate conversations, self-reliance wasn't about being the loudest voice. But he didn't disappear either. He contributed his perspective clearly, listened to others genuinely, and found the balance between holding his ground and adapting to new information.
 
 The old fear still surfaced occasionally. In a meeting with the client's CEO, David felt the impulse to defer to Patricia, to let her handle the hard questions. But he pushed through it, answering directly when asked, offering his expertise without apology.
 
@@ -69,7 +69,7 @@ Afterward, Patricia caught him in the hallway.
 
 The insight crystallized during a team conflict.
 
-Mike and Raj disagreed on the implementation timeline—Mike wanted to move fast, Raj argued for more preparation. The debate was going in circles, each repeating their points without resolution.
+Mike and Raj disagreed on the implementation timeline, Mike wanted to move fast, Raj argued for more preparation. The debate was going in circles, each repeating their points without resolution.
 
 David stepped in.
 
@@ -86,7 +86,7 @@ The reframing shifted the conversation. Instead of arguing about who was right, 
 
 The final presentation to the client went smoothly.
 
-Each workstream lead presented their recommendations. David's organizational design proposal had evolved through weeks of collaboration, incorporating input from strategy, technology, and operations. It wasn't exactly what he'd originally envisioned—but it was better.
+Each workstream lead presented their recommendations. David's organizational design proposal had evolved through weeks of collaboration, incorporating input from strategy, technology, and operations. It wasn't exactly what he'd originally envisioned, but it was better.
 
 When the client asked questions, the team responded as a unit. No one deferred unnecessarily. No one dominated inappropriately. They had found their balance.
 
@@ -100,13 +100,13 @@ Afterward, the senior partner pulled David aside.
 
 David walked back to his desk, thinking about the observation.
 
-Leadership. He'd always thought of leadership as a position—a title, a role, a place in the hierarchy. But what the partner described was something different. A way of being. A balance between self-reliance and collaboration.
+Leadership. He'd always thought of leadership as a position, a title, a role, a place in the hierarchy. But what the partner described was something different. A way of being. A balance between self-reliance and collaboration.
 
 He pulled out his phone and texted Rachel: "I think I finally get it. Self-reliance isn't the opposite of teamwork. It's the foundation for it."
 
 Her response came quickly: "Now you're really getting it. Strong individuals make strong teams. Always been that way."
 
-David smiled. The journey wasn't over—there would always be more to learn, more challenges to face. But for the first time, he understood the destination.
+David smiled. The journey wasn't over, there would always be more to learn, more challenges to face. But for the first time, he understood the destination.
 
 Not isolation. Not dependence. Balance.
 

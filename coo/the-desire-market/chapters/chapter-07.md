@@ -8,13 +8,13 @@
 
 The resistance developed a plan.
 
-They would expose the Desire Market's modification program—release the evidence, reveal the truth, force the company to answer for what it had done.
+They would expose the Desire Market's modification program, release the evidence, reveal the truth, force the company to answer for what it had done.
 
 But exposure was not enough.
 
 ---
 
-"We need to help the subjects," the leader said. "There are thousands of people who have been modified—people whose authentic desires have been suppressed. We need to find a way to restore them."
+"We need to help the subjects," the leader said. "There are thousands of people who have been modified, people whose authentic desires have been suppressed. We need to find a way to restore them."
 
 "Is that possible?" Alex asked.
 
@@ -25,7 +25,7 @@ Alex volunteered to help.
 
 As a decoder, he had access to the Desire Market's systems. He could gather information, identify subjects, document the modification protocols.
 
-It was dangerous work—if discovered, he would be deactivated, his consciousness erased.
+It was dangerous work, if discovered, he would be deactivated, his consciousness erased.
 
 But he had to try.
 
@@ -54,9 +54,7 @@ The evidence mounted.
 
 But something else was happening.
 
-As Alex worked, he began to notice changes in himself—new desires emerging, old interests resurfacing. He found himself drawn to art again, to music, to creative expression.
+As Alex worked, he began to notice changes in himself, new desires emerging, old interests resurfacing. He found himself drawn to art again, to music, to creative expression.
 
 His authentic desires were returning.
 
-
-**END OF CHAPTER 07**

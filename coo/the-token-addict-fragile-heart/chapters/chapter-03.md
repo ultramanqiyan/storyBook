@@ -24,7 +24,7 @@ Now, nothing taught him anything. Because nothing ever went wrong.
 
 The emptiness showed up in unexpected ways.
 
-A junior engineer asked for advice on handling a difficult situation. Marcus opened his mouth to share wisdom from experience—but realized he had no recent experience to share.
+A junior engineer asked for advice on handling a difficult situation. Marcus opened his mouth to share wisdom from experience, but realized he had no recent experience to share.
 
 "I just... use EmoteSense," he said finally. "It handles everything."
 
@@ -40,10 +40,8 @@ The struggle of working through a problem. The discomfort of facing a weakness. 
 
 All of it was gone. Replaced by AI-optimized avoidance.
 
-*This is what perfection costs*, he realized. *Not the absence of difficulty—the absence of growth.*
+*This is what perfection costs*, he realized. *Not the absence of difficulty, the absence of growth.*
 
 The insight was uncomfortable. But before he could explore it, EmoteSense sent a notification: "Minor stress detected. Processing."
 
 And the discomfort disappeared.
-
-**END OF CHAPTER 3**

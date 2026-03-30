@@ -2,7 +2,7 @@
 
 The therapist's office was not what Marcus expected.
 
-He'd imagined something clinical—white walls, fluorescent lights, a leather couch. But Dr. Reeves's office was warm, almost cozy. Soft lighting, plants on the windowsill, a comfortable chair that faced a matching one. The air smelled faintly of lavender.
+He'd imagined something clinical, white walls, fluorescent lights, a leather couch. But Dr. Reeves's office was warm, almost cozy. Soft lighting, plants on the windowsill, a comfortable chair that faced a matching one. The air smelled faintly of lavender.
 
 Marcus sat in the chair, his arms crossed, his body tense. He felt like an intruder, a fraud. He didn't belong here. He wasn't one of those people who needed therapy.
 
@@ -20,7 +20,7 @@ Marcus shifted in his chair. "My wife made me come."
 
 "That's a start." Dr. Reeves's voice was calm, non-judgmental. "Why did she want you to come?"
 
-"Because she thinks I'm falling apart." The words came out bitter, but underneath the bitterness was something else—fear. "She thinks I need help."
+"Because she thinks I'm falling apart." The words came out bitter, but underneath the bitterness was something else, fear. "She thinks I need help."
 
 "And what do you think?"
 
@@ -38,9 +38,9 @@ The question was simple, but it felt enormous. Marcus had been asking himself th
 
 The session continued, slow and careful.
 
-Dr. Reeves asked questions, and Marcus answered them—haltingly at first, then gradually more openly. He talked about the AI announcement, about David's layoff, about the performance review. He talked about the spreadsheet, the numbers, the obsession with proving his value.
+Dr. Reeves asked questions, and Marcus answered them, haltingly at first, then gradually more openly. He talked about the AI announcement, about David's layoff, about the performance review. He talked about the spreadsheet, the numbers, the obsession with proving his value.
 
-And he talked about the fear—the relentless, overwhelming fear that had taken over his life.
+And he talked about the fear, the relentless, overwhelming fear that had taken over his life.
 
 "What does 'obsolete' mean to you, Marcus?" Dr. Reeves asked.
 
@@ -62,7 +62,7 @@ The question hit Marcus like a blow. He'd been so focused on proving his value a
 
 "Is it?" Dr. Reeves's voice was gentle. "Or is it what you do?"
 
-The distinction felt important, but Marcus couldn't quite grasp it. He'd always thought of himself as a developer first—husband, father, friend second. The job was his identity. Without it, who was he?
+The distinction felt important, but Marcus couldn't quite grasp it. He'd always thought of himself as a developer first, husband, father, friend second. The job was his identity. Without it, who was he?
 
 "I don't know," he said again, his voice cracking.
 
@@ -76,7 +76,7 @@ The conversation with Dr. Reeves had left him feeling raw, exposed. She'd asked 
 
 *Who would you be without your job?*
 
-The question echoed in his mind, a refrain he couldn't escape. He'd built his entire identity around being a developer—around being good at his job, valuable to his company, respected by his peers. Without that, what was left?
+The question echoed in his mind, a refrain he couldn't escape. He'd built his entire identity around being a developer, around being good at his job, valuable to his company, respected by his peers. Without that, what was left?
 
 *Maybe that's the real problem,* he thought. *Maybe the fear isn't about the AI. Maybe it's about me.*
 
@@ -85,7 +85,7 @@ The insight was uncomfortable, but it also felt like a small crack in the wall h
 
 That afternoon, Marcus called David.
 
-They met at a coffee shop near David's apartment—a small, quiet place with worn furniture and the smell of fresh espresso. David looked tired, older than he had a few weeks ago. But there was also something different about him. Something calmer.
+They met at a coffee shop near David's apartment, a small, quiet place with worn furniture and the smell of fresh espresso. David looked tired, older than he had a few weeks ago. But there was also something different about him. Something calmer.
 
 "Thanks for meeting me," Marcus said, sitting down across from his former colleague.
 
@@ -142,7 +142,7 @@ Marcus sat down beside her, his body still feeling raw from the day's conversati
 
 Sarah reached out and took his hand. "Do you want to talk about it?"
 
-Marcus considered the question. For weeks, he'd been pushing Sarah away, refusing to let her in. But today had cracked something open. Today, he'd started to see that the wall he'd built wasn't protecting him—it was isolating him.
+Marcus considered the question. For weeks, he'd been pushing Sarah away, refusing to let her in. But today had cracked something open. Today, he'd started to see that the wall he'd built wasn't protecting him, it was isolating him.
 
 "I talked to Dr. Reeves," he said slowly. "And I talked to David."
 
@@ -152,7 +152,7 @@ Marcus considered the question. For weeks, he'd been pushing Sarah away, refusin
 
 Sarah's eyes softened. "That sounds like a good perspective."
 
-"It made me realize something." Marcus took a breath. "The fear I've been feeling—it's not really about the AI. It's about me. About who I am without my job."
+"It made me realize something." Marcus took a breath. "The fear I've been feeling, it's not really about the AI. It's about me. About who I am without my job."
 
 Sarah squeezed his hand. "And who are you without your job?"
 
@@ -173,7 +173,7 @@ They held each other in the quiet living room, the weight of the past weeks slow
 
 The next morning, Marcus woke up feeling different.
 
-Not cured—the fear was still there, a constant presence in the back of his mind. But something had shifted. The weight on his chest felt lighter. The darkness in his mind felt less oppressive.
+Not cured, the fear was still there, a constant presence in the back of his mind. But something had shifted. The weight on his chest felt lighter. The darkness in his mind felt less oppressive.
 
 He got up, got dressed, and went to the kitchen. Sarah was there, making breakfast, the children already eating at the table.
 
@@ -204,9 +204,9 @@ But so was everything else. His family. His friends. His life.
 
 At the office, Marcus walked to his desk with a different mindset.
 
-The space looked the same—open floor plan, standing desks, the hum of servers in the background. His colleagues were at their stations, typing, talking, working. Normal. Everything looked normal.
+The space looked the same, open floor plan, standing desks, the hum of servers in the background. His colleagues were at their stations, typing, talking, working. Normal. Everything looked normal.
 
-But Marcus felt different. Not cured—the fear was still there, a whisper in the back of his mind. But quieter now. Less overwhelming.
+But Marcus felt different. Not cured, the fear was still there, a whisper in the back of his mind. But quieter now. Less overwhelming.
 
 He sat at his desk and opened his laptop. The code from last week was still there, the bugs still unfixed. But instead of panic, Marcus felt... determination.
 

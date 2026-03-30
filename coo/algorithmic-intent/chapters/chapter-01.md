@@ -1,12 +1,12 @@
 # Chapter 1: The Dispute
 
-Dorothy Kowalski—Dot to everyone who knew her—walked the three blocks from her small house to the community center, the way she had every weekday for fifteen years. At fifty-two, she knew every crack in the sidewalk, every tree that had been planted, every neighbor who waved from their porch. This was her town. These were her people. And when they couldn't agree, they came to her.
+Dorothy Kowalski, Dot to everyone who knew her, walked the three blocks from her small house to the community center, the way she had every weekday for fifteen years. At fifty-two, she knew every crack in the sidewalk, every tree that had been planted, every neighbor who waved from their porch. This was her town. These were her people. And when they couldn't agree, they came to her.
 
-The October morning was crisp, the kind of crisp that made you glad to be alive in Ohio. Dot pulled her cardigan tighter as she walked, nodding to Mrs. Henderson sweeping her porch, to the mail carrier working his route, to the group of teenagers waiting for the school bus. She knew all their faces, most of their names, and more of their stories than they probably realized. That was the thing about being a community mediator in a town of eight thousand people—you learned to see patterns.
+The October morning was crisp, the kind of crisp that made you glad to be alive in Ohio. Dot pulled her cardigan tighter as she walked, nodding to Mrs. Henderson sweeping her porch, to the mail carrier working his route, to the group of teenagers waiting for the school bus. She knew all their faces, most of their names, and more of their stories than they probably realized. That was the thing about being a community mediator in a town of eight thousand people, you learned to see patterns.
 
 The community center occupied what had once been the town's first schoolhouse, a brick building with tall windows and creaky floors that had been repurposed a dozen times over the decades. Dot's office was in the back corner, a small room with a desk, two chairs for visitors, and a window that looked out on the parking lot. It wasn't fancy, but it was hers. And over the years, she'd helped hundreds of people find their way through conflicts that had seemed impossible to resolve.
 
-Her first appointment of the day was already waiting when she arrived. The Henderson brothers—no relation to Mrs. Henderson on Maple Street, though everyone in town seemed to share a few last names—were standing in the lobby, their postures rigid with the particular tension of family members who'd been arguing for too long.
+Her first appointment of the day was already waiting when she arrived. The Henderson brothers, no relation to Mrs. Henderson on Maple Street, though everyone in town seemed to share a few last names, were standing in the lobby, their postures rigid with the particular tension of family members who'd been arguing for too long.
 
 "Morning," Dot said, unlocking her office door. "Come on in."
 
@@ -42,13 +42,13 @@ Dot turned to Ray. "And you? What do you want?"
 
 ---
 
-The mediation took two hours. Dot asked questions, reflected back what she heard, helped them find the common ground that had been buried under years of resentment. By the end, they'd reached an agreement: Earl would sell Ray the disputed strip of land for a nominal amount, and Ray would sign an easement allowing Earl access to maintain the fence line. Both brothers would get what they actually wanted—Earl the recognition that the land was his, Ray the stability of keeping his garden and shed intact.
+The mediation took two hours. Dot asked questions, reflected back what she heard, helped them find the common ground that had been buried under years of resentment. By the end, they'd reached an agreement: Earl would sell Ray the disputed strip of land for a nominal amount, and Ray would sign an easement allowing Earl access to maintain the fence line. Both brothers would get what they actually wanted, Earl the recognition that the land was his, Ray the stability of keeping his garden and shed intact.
 
 "Thank you," Earl said as they shook hands, the first civil gesture between them in months. "I don't think we could have figured this out without you."
 
 "That's what I'm here for," Dot said, walking them to the door.
 
-After they left, she sat at her desk and made notes in her file. The Henderson case was typical of the disputes she saw: people who were arguing about surface issues—property lines, money, possessions—when the real conflict was about something deeper. Earl didn't care about six feet of land. He cared about being respected, about his brother acknowledging his rights. Ray didn't care about the fence. He cared about stability, about not having his life disrupted by a technicality.
+After they left, she sat at her desk and made notes in her file. The Henderson case was typical of the disputes she saw: people who were arguing about surface issues, property lines, money, possessions, when the real conflict was about something deeper. Earl didn't care about six feet of land. He cared about being respected, about his brother acknowledging his rights. Ray didn't care about the fence. He cared about stability, about not having his life disrupted by a technicality.
 
 The key to mediation, Dot had learned over fifteen years, was understanding what people really wanted. Not what they said they wanted. Not what they thought they wanted. But the actual intent beneath all the noise.
 
@@ -71,9 +71,9 @@ Sarah slid in across from her, her expression thoughtful. "I've been meaning to 
 
 "Oh?"
 
-"There's a new program. An AI system for dispute resolution. It's supposed to help mediators identify what people really want—faster and more accurately than traditional methods." Sarah paused. "The commissioner wants to pilot it in a few communities. We thought Millfield might be a good candidate."
+"There's a new program. An AI system for dispute resolution. It's supposed to help mediators identify what people really want, faster and more accurately than traditional methods." Sarah paused. "The commissioner wants to pilot it in a few communities. We thought Millfield might be a good candidate."
 
-Dot felt a flicker of something—skepticism, maybe, or curiosity. "An AI? For mediation?"
+Dot felt a flicker of something, skepticism, maybe, or curiosity. "An AI? For mediation?"
 
 "I know it sounds strange. But the preliminary results have been impressive. The system analyzes speech patterns, body language, even micro-expressions. It claims to identify underlying intent with over 90% accuracy."
 
@@ -107,13 +107,13 @@ Maybe mediation was just the next thing to be transformed by technology. Maybe i
 Or maybe there was something essential about human conflict that no algorithm could ever understand.
 
 
-The town meeting was scheduled for Thursday evening at the high school auditorium. Dot arrived early, taking a seat near the front, her notebook open on her lap. The room filled gradually—town officials, business owners, curious residents. Sarah Chen spotted her and waved.
+The town meeting was scheduled for Thursday evening at the high school auditorium. Dot arrived early, taking a seat near the front, her notebook open on her lap. The room filled gradually, town officials, business owners, curious residents. Sarah Chen spotted her and waved.
 
 The county representative was a young man named David Park, dressed in a suit that looked slightly too formal for Millfield. He set up a projector and began his presentation.
 
 "Thank you all for coming," he said. "I'm here to tell you about IntentPredict, a new AI system designed to revolutionize dispute resolution. This system uses advanced pattern recognition to analyze human communication and identify underlying intent with unprecedented accuracy."
 
-He clicked to a slide showing a graph. "In our pilot studies, IntentPredict has achieved a 94% accuracy rate in identifying what disputants actually want, compared to a 67% accuracy rate for trained human mediators working without the tool. The system doesn't replace human judgment—it enhances it. It gives mediators the insights they need to resolve conflicts faster and more effectively."
+He clicked to a slide showing a graph. "In our pilot studies, IntentPredict has achieved a 94% accuracy rate in identifying what disputants actually want, compared to a 67% accuracy rate for trained human mediators working without the tool. The system doesn't replace human judgment, it enhances it. It gives mediators the insights they need to resolve conflicts faster and more effectively."
 
 Dot listened, her skepticism growing. The numbers were impressive, but they felt abstract. What did 94% accuracy mean in practice? How did you measure something as complex as human intent?
 
@@ -123,7 +123,7 @@ The video showed two people arguing about a business dispute. On the side of the
 
 "The system identified the core issues within the first three minutes of the session," David explained. "The mediator was able to address the real concerns immediately, and the dispute was resolved in under an hour."
 
-The audience murmured. Dot felt a chill. The system had seen something that would have taken her much longer to uncover—if she uncovered it at all.
+The audience murmured. Dot felt a chill. The system had seen something that would have taken her much longer to uncover, if she uncovered it at all.
 
 
 After the presentation, David took questions. A local business owner asked about cost. A town council member asked about implementation. A retired teacher asked about privacy.
@@ -132,7 +132,7 @@ Then Dot raised her hand.
 
 "You said the system identifies intent with 94% accuracy. How do you know that? How do you verify what someone's actual intent is?"
 
-David smiled, as if he'd been expecting the question. "That's the key insight of our methodology. We don't ask people what they want—they often don't know themselves. We observe outcomes. If the system predicts that someone wants recognition, and the dispute resolves when they receive recognition, that's a successful prediction. Over thousands of cases, we've built a model that consistently identifies the underlying dynamics of conflict."
+David smiled, as if he'd been expecting the question. "That's the key insight of our methodology. We don't ask people what they want, they often don't know themselves. We observe outcomes. If the system predicts that someone wants recognition, and the dispute resolves when they receive recognition, that's a successful prediction. Over thousands of cases, we've built a model that consistently identifies the underlying dynamics of conflict."
 
 "But intent isn't always simple," Dot pressed. "People can want multiple things at once. They can want things they're not aware of. They can want things that change over the course of a conversation."
 

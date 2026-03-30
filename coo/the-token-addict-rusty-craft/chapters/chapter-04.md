@@ -10,7 +10,7 @@ The team turned to Marcus, waiting for his technical guidance.
 
 He felt the familiar panic.
 
-*Profile it?* He didn't know how to profile a service. He'd never done it himself. CodeForge generated code, ThinkTank designed architecture—but neither tool had taught him performance analysis.
+*Profile it?* He didn't know how to profile a service. He'd never done it himself. CodeForge generated code, ThinkTank designed architecture, but neither tool had taught him performance analysis.
 
 "Let me... investigate," he said, buying time. "Send me the details."
 
@@ -28,7 +28,7 @@ But when he looked at Alex's actual code, the gap became clear.
 
 He couldn't read it.
 
-Not literally—he could see the syntax, the functions, the logic. But he couldn't understand it. Not deeply. Not the way he used to.
+Not literally, he could see the syntax, the functions, the logic. But he couldn't understand it. Not deeply. Not the way he used to.
 
 The patterns were unfamiliar. The optimizations were opaque. The code was written by someone who still had hands-on skills.
 
@@ -98,5 +98,3 @@ But the team didn't know that. And as long as they didn't, he could keep pretend
 
 The insecurity grew. The gap widened. And Marcus learned to hide it better.
 
-
-**END OF CHAPTER 4**

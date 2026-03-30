@@ -6,7 +6,7 @@ The message appeared in the Slack channel on a Wednesday afternoon.
 
 Maya stared at the message, the words striking a chord deep inside her.
 
-The name on the message was "Lisa Chen." Maya didn't recognize it—must be someone who'd joined recently. But she recognized the feeling. The desperate loneliness. The sense of being an outsider looking in.
+The name on the message was "Lisa Chen." Maya didn't recognize it, must be someone who'd joined recently. But she recognized the feeling. The desperate loneliness. The sense of being an outsider looking in.
 
 Two months ago, that had been her.
 
@@ -34,7 +34,7 @@ Maya nodded. "I know exactly what you mean. When I first walked into that room, 
 
 "What changed?"
 
-"I stayed." Maya smiled. "And I let myself be honest. I told people I was struggling. I asked for help when I needed it. And I realized that everyone there had felt the same way at some point. The connection wasn't something they had—it was something they'd built."
+"I stayed." Maya smiled. "And I let myself be honest. I told people I was struggling. I asked for help when I needed it. And I realized that everyone there had felt the same way at some point. The connection wasn't something they had, it was something they'd built."
 
 Lisa's expression shifted. "So it's not just me being awkward?"
 
@@ -46,7 +46,7 @@ Over the next few weeks, Maya found herself doing something she'd never expected
 
 She was helping people.
 
-Not in a formal way—not as a mentor or a leader or anything that felt too big for her. Just in small, everyday ways. Answering questions in the Slack channel. Offering to review someone's portfolio. Meeting new members for coffee and helping them feel welcome.
+Not in a formal way, not as a mentor or a leader or anything that felt too big for her. Just in small, everyday ways. Answering questions in the Slack channel. Offering to review someone's portfolio. Meeting new members for coffee and helping them feel welcome.
 
 Each time she helped someone, she felt something unexpected: joy.
 
@@ -92,7 +92,7 @@ And it felt like coming home.
 
 That night, Maya sat in her apartment and looked at her phone.
 
-The messages were there—the ones she'd sent and received over the past few weeks. Lisa thanking her for the coffee. The new member grateful for her number. A dozen small exchanges that had added up to something bigger.
+The messages were there, the ones she'd sent and received over the past few weeks. Lisa thanking her for the coffee. The new member grateful for her number. A dozen small exchanges that had added up to something bigger.
 
 She thought about Tomás, who had started this community. Who had opened the door for so many people. Who had shown Maya what connection could look like.
 
@@ -104,7 +104,7 @@ She thought about all the people who had helped her, and all the people she was 
 
 She opened her laptop and started an email to her mom.
 
-"Hey Mom," she typed. "I wanted to tell you about something. I've found a community here. Real people who care about each other. And I'm not just receiving their help—I'm helping them too. I think... I think I'm finally becoming the person I wanted to be."
+"Hey Mom," she typed. "I wanted to tell you about something. I've found a community here. Real people who care about each other. And I'm not just receiving their help, I'm helping them too. I think... I think I'm finally becoming the person I wanted to be."
 
 She hit send, feeling the weight of the words settle in her chest.
 

@@ -4,7 +4,7 @@ One year later, Michael stood before the first graduating class of The Path.
 
 The ceremony was different from traditional graduations. No caps and gowns, no processional music, no formal degrees. Instead, the one hundred students gathered in the atrium, surrounded by family, friends, and mentors, to share what they had become.
 
-He looked out at the faces before him. They had arrived one year ago—uncertain, searching, questioning. Now they stood with a different kind of certainty—not the certainty of having answers, but the certainty of having asked the right questions.
+He looked out at the faces before him. They had arrived one year ago, uncertain, searching, questioning. Now they stood with a different kind of certainty, not the certainty of having answers, but the certainty of having asked the right questions.
 
 "Welcome," he said. "This is not a graduation. This is a milestone on a journey that will continue for the rest of your lives. You came here not to receive a credential, but to become something. Today, we honor that becoming."
 
@@ -12,19 +12,19 @@ He paused, looking at the students he had come to know so well.
 
 "When we started The Path, we didn't know if it would work. We were building something new, something that rejected the old model of education in favor of something we barely understood. We asked you to trust us, to take a risk, to believe that there was value in the journey itself."
 
-"You taught us more than we taught you," continued a student named Olivia, who had arrived uncertain and was now running her own business. "You taught us that education isn't about what you know—it's about who you become."
+"You taught us more than we taught you," continued a student named Olivia, who had arrived uncertain and was now running her own business. "You taught us that education isn't about what you know, it's about who you become."
 
 ---
 
 The students shared their stories.
 
-David, who had come to The Path after dropping out of a traditional college, spoke about finding direction. "I was lost. I had done everything right—good grades, good school, good prospects. But I had no idea who I was or what I wanted. The Path gave me space to figure that out. I'm not going into finance, like I planned. I'm going to teach. And I know it's right because I discovered it myself, through experience."
+David, who had come to The Path after dropping out of a traditional college, spoke about finding direction. "I was lost. I had done everything right, good grades, good school, good prospects. But I had no idea who I was or what I wanted. The Path gave me space to figure that out. I'm not going into finance, like I planned. I'm going to teach. And I know it's right because I discovered it myself, through experience."
 
-Rachel, who had been a history major before leaving her university, spoke about finding meaning. "I loved history, but I couldn't see the point of studying it in a world where AI could tell me anything I wanted to know. The Path helped me understand that history isn't about facts—it's about understanding humanity. I'm going to work in a museum, helping people connect with their past. That's something AI can never do."
+Rachel, who had been a history major before leaving her university, spoke about finding meaning. "I loved history, but I couldn't see the point of studying it in a world where AI could tell me anything I wanted to know. The Path helped me understand that history isn't about facts, it's about understanding humanity. I'm going to work in a museum, helping people connect with their past. That's something AI can never do."
 
 James, who had been unemployed after graduating with honors from a prestigious university, spoke about finding purpose. "I had a degree, but I had no skills that mattered. The Path taught me to make things, to build things, to create tangible value. I'm going to start a workshop that teaches young people practical skills. I want to help them avoid the trap I fell into."
 
-One by one, the students shared what they had become. Not what they knew—they could have learned that anywhere. But who they were, what they valued, what they wanted to contribute.
+One by one, the students shared what they had become. Not what they knew, they could have learned that anywhere. But who they were, what they valued, what they wanted to contribute.
 
 ---
 
@@ -53,7 +53,7 @@ That evening, Michael sat in his office, reviewing the first year of The Path.
 
 The data was encouraging. Retention had been 87%. Student satisfaction had been 94%. And most importantly, 78% of students reported having a clear sense of purpose, compared to 23% in traditional programs.
 
-But the numbers only told part of the story. The real evidence was in the students themselves—in who they had become.
+But the numbers only told part of the story. The real evidence was in the students themselves, in who they had become.
 
 He pulled out a notebook and wrote:
 
@@ -63,7 +63,7 @@ He pulled out a notebook and wrote:
 
 *AI can know everything. But it cannot become anything. That's the space education must fill.*
 
-*The Path is not perfect. It's not for everyone. But it's a start—a proof of concept that education can be something different from what it became.*
+*The Path is not perfect. It's not for everyone. But it's a start, a proof of concept that education can be something different from what it became.*
 
 *The future is uncertain. The old model is dying. But something new is being born.*
 
@@ -80,7 +80,7 @@ The next day, he met with President Warren to discuss the future.
 
 "Then how do we serve more students?"
 
-"Maybe we don't try to serve everyone. Maybe we create multiple models—different paths for different people. The traditional program for those who want it. The Path for those who don't. Trade schools, apprenticeships, self-directed learning. The future of education isn't one model—it's many models, serving different needs."
+"Maybe we don't try to serve everyone. Maybe we create multiple models, different paths for different people. The traditional program for those who want it. The Path for those who don't. Trade schools, apprenticeships, self-directed learning. The future of education isn't one model, it's many models, serving different needs."
 
 Elizabeth nodded slowly. "That's a different vision than the one we've been pursuing. Growth at all costs, scale above all else."
 
@@ -89,11 +89,11 @@ Elizabeth nodded slowly. "That's a different vision than the one we've been purs
 
 He walked home that evening through the campus.
 
-The buildings were the same as they'd always been. But they felt different now—not monuments to a dying model, but spaces where something new was emerging.
+The buildings were the same as they'd always been. But they felt different now, not monuments to a dying model, but spaces where something new was emerging.
 
 He passed the library, where students were gathered for a discussion group. He passed the makerspace, where projects were being built. He passed the garden, where students were tending plants they had grown from seeds.
 
-The campus was still quiet, compared to years past. But it was no longer empty. It was filling with something different—not crowds of students going through the motions, but smaller groups engaged in meaningful work.
+The campus was still quiet, compared to years past. But it was no longer empty. It was filling with something different, not crowds of students going through the motions, but smaller groups engaged in meaningful work.
 
 
 At home, he found Emily waiting for him.
@@ -121,7 +121,7 @@ Emily took his hand. "You've changed this year. You seem... lighter. More hopefu
 
 That night, Michael sat in his study, writing.
 
-He was working on a book—a record of what he'd learned, a guide for others who might want to build similar programs. The working title was "Learning to Be Human: Education in the Age of AI."
+He was working on a book, a record of what he'd learned, a guide for others who might want to build similar programs. The working title was "Learning to Be Human: Education in the Age of AI."
 
 He wrote:
 
@@ -144,7 +144,7 @@ He wrote:
 
 He closed his notebook and looked out the window.
 
-The campus was dark, but he could see lights in the dormitories—students still awake, still exploring, still becoming.
+The campus was dark, but he could see lights in the dormitories, students still awake, still exploring, still becoming.
 
 The old model was dying. The degree had become dust.
 
@@ -169,13 +169,13 @@ That was enough.
 
 Ten years later, Michael stood at the back of a crowded auditorium.
 
-The Path had grown—not into a single massive institution, but into a network of small programs, each adapted to its community. There were now over two hundred similar programs around the world, each one different, each one creating the conditions for human growth.
+The Path had grown, not into a single massive institution, but into a network of small programs, each adapted to its community. There were now over two hundred similar programs around the world, each one different, each one creating the conditions for human growth.
 
 Alex stood at the podium, addressing a new cohort of students. He had become a leader in the movement, helping to design programs that served different needs, different communities, different paths.
 
 Michael listened as his son spoke:
 
-"You've come here not to receive a credential, but to become something. The world will tell you that knowledge is power. But we've learned that knowledge is just information. The real power is in becoming—in developing the wisdom, character, and purpose to use knowledge well."
+"You've come here not to receive a credential, but to become something. The world will tell you that knowledge is power. But we've learned that knowledge is just information. The real power is in becoming, in developing the wisdom, character, and purpose to use knowledge well."
 
 "This is what education was always meant to be. Not a factory for credentials, but a garden for growth. We can't teach you who to become. But we can create the conditions for you to discover it yourself."
 
@@ -183,7 +183,7 @@ Michael listened as his son spoke:
 
 Michael felt tears in his eyes.
 
-The question that had haunted him—why should I learn what AI already knows?—had been answered.
+The question that had haunted him, why should I learn what AI already knows?, had been answered.
 
 Not with words, but with lives. With the thousands of students who had passed through The Path and emerged as something more than they were before.
 

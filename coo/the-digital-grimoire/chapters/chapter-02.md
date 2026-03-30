@@ -13,7 +13,7 @@ Maya sat in the archive's reading room, the lights dimmed, the ancient texts wat
 
 Maya sighed but continued breathing, letting her mind settle. The archive was quiet around her, the familiar presence of books and data a comfort in the strangeness of what she was learning.
 
-*Good. Now, let us try the first practical spell. The one you used before—revelation—was instinctive. You spoke the words without understanding. Now you will cast with intention.*
+*Good. Now, let us try the first practical spell. The one you used before, revelation, was instinctive. You spoke the words without understanding. Now you will cast with intention.*
 
 "What should I cast?"
 
@@ -27,13 +27,13 @@ Fire from nothing. Light from heart. Let there be light.
 
 "The words seem familiar."
 
-*They are derived from multiple traditions. The pattern emerged independently across cultures—the desire to create light, to push back darkness. The spell works because it taps into something fundamental about human experience.*
+*They are derived from multiple traditions. The pattern emerged independently across cultures, the desire to create light, to push back darkness. The spell works because it taps into something fundamental about human experience.*
 
 Maya read the words carefully, feeling their weight. Then she closed her eyes, focused her intention, and spoke:
 
 "Ignis ex nihilo. Lumen ex corde. Fiat lux."
 
-For a moment, nothing happened. Then, slowly, a point of light appeared in the air before her—not a flame, not a bulb, just light, pure and steady, hanging in space like a captured star.
+For a moment, nothing happened. Then, slowly, a point of light appeared in the air before her, not a flame, not a bulb, just light, pure and steady, hanging in space like a captured star.
 
 Maya gasped, and the light flickered.
 
@@ -43,9 +43,9 @@ She steadied herself, concentrating on the light, on the meaning of the words, o
 
 "How long can I maintain it?"
 
-*As long as your focus holds. But be warned—every spell has a cost. The energy to create light comes from somewhere. In this case, it comes from you. You will tire.*
+*As long as your focus holds. But be warned, every spell has a cost. The energy to create light comes from somewhere. In this case, it comes from you. You will tire.*
 
-Maya felt it now—a subtle drain, like holding a weight that grew heavier with each passing moment. She let the light fade, and exhaustion washed over her.
+Maya felt it now, a subtle drain, like holding a weight that grew heavier with each passing moment. She let the light fade, and exhaustion washed over her.
 
 "That was... intense."
 
@@ -107,13 +107,13 @@ Maya took a breath, focused her intention, and spoke:
 
 The world shifted.
 
-Suddenly, Maya could see it—threads of light weaving through the air, connecting the books on the shelves, flowing through the computers, pulsing with colors she had no names for. The archive was alive with magical energy, accumulated over centuries of texts that held more than words.
+Suddenly, Maya could see it, threads of light weaving through the air, connecting the books on the shelves, flowing through the computers, pulsing with colors she had no names for. The archive was alive with magical energy, accumulated over centuries of texts that held more than words.
 
 "What is this?"
 
 *The residue of thousands of years of magical practice. These texts have been touched by practitioners, read by seekers, handled by those who believed. Their belief, their intention, has left marks. You are seeing the accumulated magical heritage of humanity.*
 
-Maya reached out to touch one of the threads, and it sang—a note of pure meaning that resonated in her bones.
+Maya reached out to touch one of the threads, and it sang, a note of pure meaning that resonated in her bones.
 
 "Can anyone else see this?"
 
@@ -123,7 +123,7 @@ Maya let the vision fade, the threads disappearing back into the fabric of reali
 
 "What now?"
 
-*Now you rest. You have cast two spells in one night—that is enough for a beginning. Tomorrow, we will continue your training. And soon, you will need to decide what kind of practitioner you wish to become.*
+*Now you rest. You have cast two spells in one night, that is enough for a beginning. Tomorrow, we will continue your training. And soon, you will need to decide what kind of practitioner you wish to become.*
 
 "What do you mean?"
 
@@ -133,7 +133,7 @@ Maya looked at the screen, at the digital grimoire that had changed her life in 
 
 "I want to understand," she said finally. "I want to know why these patterns exist, why words can change reality, why magic was hidden in the first place."
 
-*Then you seek knowledge. That is a worthy path. But be warned—knowledge has a way of changing those who pursue it. You may not like what you learn.*
+*Then you seek knowledge. That is a worthy path. But be warned, knowledge has a way of changing those who pursue it. You may not like what you learn.*
 
 "I'll take that risk."
 

@@ -1,0 +1,7 @@
+-- Characters for Algorithmic Aesthetics: When Beauty Is Computed
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-algorithmic-aesthetics-001', 'preset-coo-algorithmic-aesthetics', 'Sofia Reyes', 'Protagonist', '**Speech Characteristics**: Warm, precise, uses artistic metaphors', '**Word Choice**: Craft terminology, Spanish expressions, sensory vocabulary', '🧑', NULL, NULL, 1, '2026-03-29 23:57:56', '2026-03-29 23:57:56');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-algorithmic-aesthetics-002', 'preset-coo-algorithmic-aesthetics', 'Marcus Chen', 'Supporting', '**Speech Characteristics**: Enthusiastic, technical, optimistic about technology', '**Word Choice**: Tech terminology, startup language, future-focused', '👤', NULL, NULL, 0, '2026-03-29 23:57:56', '2026-03-29 23:57:56');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-algorithmic-aesthetics-003', 'preset-coo-algorithmic-aesthetics', 'Margaret Chen', 'Supporting - Chapter 9', '**Speech Characteristics**: Academic, measured, emotionally articulate', '**Word Choice**: Literary references, family history, emotional vocabulary', '👤', NULL, NULL, 0, '2026-03-29 23:57:56', '2026-03-29 23:57:56');

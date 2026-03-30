@@ -54,5 +54,4 @@ And Marcus would sit in the silent room, alone with the knowledge of what he'd l
 
 The silence was complete. And Marcus accepted it.
 
-**END OF CHAPTER 10**
 **END OF BOOK 5: THE TOKEN ADDICT: SILENT ROOM**

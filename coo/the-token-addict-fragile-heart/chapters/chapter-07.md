@@ -14,7 +14,7 @@ Sarah watched him for a long moment before speaking.
 
 "What did he say?"
 
-Marcus shared the conversation—the criticism, the concerns, the truth about his leadership failures. As he spoke, he felt the emotions he had been avoiding for months: shame, disappointment, fear.
+Marcus shared the conversation, the criticism, the concerns, the truth about his leadership failures. As he spoke, he felt the emotions he had been avoiding for months: shame, disappointment, fear.
 
 ---
 
@@ -47,5 +47,3 @@ For years, he had believed EmoteSense was making him stronger. Now he saw the tr
 *I'm emotionally fragile*, he realized. *And I've been hiding from that truth behind an AI shield.*
 
 The crisis was real. But for the first time, he was facing it without protection.
-
-**END OF CHAPTER 7**

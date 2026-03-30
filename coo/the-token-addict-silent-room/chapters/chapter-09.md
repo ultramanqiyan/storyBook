@@ -51,5 +51,3 @@ He had tried to reclaim his social capacity. He had tried to connect without AI.
 But the dependency was too deep. The atrophy was too severe. The loss was too complete.
 
 *This is what happens when you outsource your humanity*, he realized. *You lose it. And you can't get it back.*
-
-**END OF CHAPTER 9**

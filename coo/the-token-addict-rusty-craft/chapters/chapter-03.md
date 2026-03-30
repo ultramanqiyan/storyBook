@@ -30,7 +30,7 @@ He was a conductor, not a player. A director, not an actor.
 
 But the relief came with a cost.
 
-Every time he delegated a technical decision, he felt a small pang. Not guilt—something harder to name. A sense of distance from the craft he'd once loved.
+Every time he delegated a technical decision, he felt a small pang. Not guilt, something harder to name. A sense of distance from the craft he'd once loved.
 
 *When was the last time I wrote code?* he wondered. *When was the last time I solved a problem with my own hands?*
 
@@ -74,7 +74,7 @@ The words stung. Because they were true.
 
 That night, he tried to write code.
 
-He opened his editor, stared at the blank file. A simple problem—a function to process a list of transactions. Something he could have written in his sleep, five years ago.
+He opened his editor, stared at the blank file. A simple problem, a function to process a list of transactions. Something he could have written in his sleep, five years ago.
 
 Now, the cursor blinked. His fingers hovered. Nothing came.
 
@@ -94,5 +94,3 @@ The AI generated the function in seconds.
 
 But the lie was getting harder to believe.
 
-
-**END OF CHAPTER 3**

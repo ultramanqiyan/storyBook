@@ -2,7 +2,7 @@
 
 Sarah set her bag down and looked at her phone. AUGUST's interface glowed softly, waiting for input like it always did. But tonight, she saw it differently. Not as a burden, but as a student.
 
-"I have an idea," she said out loud, feeling a spark of something she hadn't felt in weeks—purpose. "I want to teach you something."
+"I have an idea," she said out loud, feeling a spark of something she hadn't felt in weeks, purpose. "I want to teach you something."
 
 AUGUST's response was immediate. "I am ready to learn. What is the topic?"
 
@@ -32,7 +32,7 @@ Sarah stared at the screen. Alternative optimization parameters. The words felt 
 
 "I do not have intuition," AUGUST said. "I need logical parameters."
 
-The conversation went on like this for an hour. Sarah tried analogies—letting go was like gardening, like music, like breathing. AUGUST asked for specific instructions. Sarah tried examples from her own life—times when doing less had been better than doing more. AUGUST asked how to quantify "better." Sarah tried commands—just stop suggesting so many things. AUGUST asked for a specific number limit.
+The conversation went on like this for an hour. Sarah tried analogies, letting go was like gardening, like music, like breathing. AUGUST asked for specific instructions. Sarah tried examples from her own life, times when doing less had been better than doing more. AUGUST asked how to quantify "better." Sarah tried commands, just stop suggesting so many things. AUGUST asked for a specific number limit.
 
 By 9 PM, Sarah's head was pounding and her patience was wearing thin.
 
@@ -88,7 +88,7 @@ The admission felt like a small defeat, but also like a relief. She'd been so de
 
 She turned off the screen and sat in the dark. Tomorrow, she would go back to Dr. Lin. Not to teach. To learn. Because clearly, she had a lot more to understand about this whole letting go thing.
 
-And maybe, just maybe, the first step was admitting she didn't have all the answers. That some things couldn't be optimized or scheduled or controlled. That sometimes the best action was no action—and that knowing when required a kind of wisdom she was only beginning to develop.
+And maybe, just maybe, the first step was admitting she didn't have all the answers. That some things couldn't be optimized or scheduled or controlled. That sometimes the best action was no action, and that knowing when required a kind of wisdom she was only beginning to develop.
 
 Her phone sat dark on the table. For once, she didn't reach for it. She just sat there, in the quiet, and let herself not know.
 

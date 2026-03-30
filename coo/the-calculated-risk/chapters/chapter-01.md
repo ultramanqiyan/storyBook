@@ -6,7 +6,7 @@ The mountain loomed above me, its face a puzzle of rock and ice. I stood at the 
 
 "Route identified," the AI voice said in my ear. "Probability of success: 94.7%. Estimated time: 3 hours 22 minutes. Recommended approach: north ridge, variant C."
 
-I nodded, the data settling into my mind like pieces of a puzzle. This was what I did—what I had always done. Let the system calculate the risk, then execute the perfect line.
+I nodded, the data settling into my mind like pieces of a puzzle. This was what I did, what I had always done. Let the system calculate the risk, then execute the perfect line.
 
 Jamie, my spotter, stood at base camp, monitoring the feed from my body sensors. "Vitals look good, Alex. Heart rate steady at 65. Oxygen saturation optimal. You're cleared for launch."
 
@@ -16,13 +16,13 @@ I began to climb.
 
 ---
 
-The first hundred feet were easy—warm-up moves, the kind I could do in my sleep. My hands found the holds automatically, my feet placed themselves with precision. RISK-AI guided every movement, whispering adjustments in my ear: "Shift left two inches. Grip strength optimal. Rest point in 40 feet."
+The first hundred feet were easy, warm-up moves, the kind I could do in my sleep. My hands found the holds automatically, my feet placed themselves with precision. RISK-AI guided every movement, whispering adjustments in my ear: "Shift left two inches. Grip strength optimal. Rest point in 40 feet."
 
 I moved like a machine, efficient and precise. This was what optimization looked like: no wasted effort, no unnecessary risk, no doubt. Just the perfect execution of a calculated plan.
 
-The world narrowed to rock and sky and the steady voice of AI. This was my element—where risk became data, where danger became manageable, where I became the best version of myself.
+The world narrowed to rock and sky and the steady voice of AI. This was my element, where risk became data, where danger became manageable, where I became the best version of myself.
 
-At 400 feet, I reached the first major ledge. RISK-AI calculated a three-minute rest, and I took it, sitting on the narrow platform, my legs dangling over thousands of feet of empty air. The view was spectacular—peaks stretching to the horizon, clouds drifting below me like slow-moving thoughts.
+At 400 feet, I reached the first major ledge. RISK-AI calculated a three-minute rest, and I took it, sitting on the narrow platform, my legs dangling over thousands of feet of empty air. The view was spectacular, peaks stretching to the horizon, clouds drifting below me like slow-moving thoughts.
 
 "Rest complete," the AI said. "Proceed with sequence Alpha-7."
 
@@ -34,7 +34,7 @@ The crux came at 800 feet, a section of overhanging rock that RISK-AI had flagge
 
 "Dynamic move required," the AI said. "Launch from left foot, right hand to sloper, match feet. Probability of success: 89.3%."
 
-I visualized the sequence, the data painting a picture in my mind. This was what RISK-AI did best—breaking down complex movements into manageable pieces, turning impossible challenges into calculated risks.
+I visualized the sequence, the data painting a picture in my mind. This was what RISK-AI did best, breaking down complex movements into manageable pieces, turning impossible challenges into calculated risks.
 
 I took a breath and launched.
 
@@ -43,7 +43,7 @@ The move was perfect. My hand caught the sloper, my feet matched, my body swung 
 Then everything changed.
 
 
-The first warning was subtle—a flicker in my heads-up display, a momentary glitch in the data stream. I barely noticed it, my focus on the next hold, the next move.
+The first warning was subtle, a flicker in my heads-up display, a momentary glitch in the data stream. I barely noticed it, my focus on the next hold, the next move.
 
 "Recalculating route," RISK-AI said, its voice slightly distorted. "Please stand by."
 
@@ -60,7 +60,7 @@ But thirty seconds passed, and the display remained dark.
 My heart rate spiked. I was 850 feet up a mountain face, and my AI had just died.
 
 
-I tried to stay calm. I had trained for emergencies—basic protocols for equipment failure, backup procedures for communication loss. But I had never actually experienced a complete system shutdown. Not like this. Not mid-climb.
+I tried to stay calm. I had trained for emergencies, basic protocols for equipment failure, backup procedures for communication loss. But I had never actually experienced a complete system shutdown. Not like this. Not mid-climb.
 
 "Jamie," I said into my radio. "Jamie, I've lost RISK-AI. Do you copy?"
 
@@ -71,9 +71,9 @@ I looked up at the remaining 400 feet of mountain face, then down at the 850 fee
 For the first time in eight years, I was climbing blind.
 
 
-I tried to remember the route the system had calculated. There had been a sequence—something about moving right, then up through a crack system. But the details were fuzzy. I had always relied on RISK-AI to remember the details. Why would I need to remember them myself?
+I tried to remember the route the system had calculated. There had been a sequence, something about moving right, then up through a crack system. But the details were fuzzy. I had always relied on RISK-AI to remember the details. Why would I need to remember them myself?
 
-My hands began to tremble. I forced myself to breathe, to think, to focus. I was a professional climber. I had been climbing since I was twelve. I knew how to climb without AI—I had done it before, back when I was young, back before the system had become my second brain.
+My hands began to tremble. I forced myself to breathe, to think, to focus. I was a professional climber. I had been climbing since I was twelve. I knew how to climb without AI, I had done it before, back when I was young, back before the system had become my second brain.
 
 But the memories were distant, faded. I couldn't remember the last time I had made a decision without data. I couldn't remember what it felt like to trust my own judgment.
 
@@ -84,13 +84,13 @@ The rock stared back at me, silent and indifferent.
 
 I made a decision. It wasn't calculated. It wasn't optimized. It was just... a guess.
 
-I moved right, reaching for a hold I couldn't quite see. My fingers found rock—solid, cold, real. I pulled myself up, searching for the next grip.
+I moved right, reaching for a hold I couldn't quite see. My fingers found rock, solid, cold, real. I pulled myself up, searching for the next grip.
 
 It wasn't there.
 
 I had chosen wrong. The hold I had reached for was a dead end, a trap that RISK-AI would have warned me about. But RISK-AI was gone, and I was alone.
 
-I tried to reverse the move, to go back, but my foot slipped. For a terrifying moment, I was falling—then my safety caught me, the rope snapping taut, leaving me dangling in empty air.
+I tried to reverse the move, to go back, but my foot slipped. For a terrifying moment, I was falling, then my safety caught me, the rope snapping taut, leaving me dangling in empty air.
 
 I swung gently, my heart pounding against my ribs. I was safe. For now. But I was also stranded, 850 feet up a mountain, with no AI, no radio, and no idea how to get down.
 
@@ -99,7 +99,7 @@ The sun was setting. I could see it sliding toward the horizon, painting the sky
 
 I managed to swing back to the rock face, finding a narrow ledge where I could sit. It was barely wide enough for my body, but it was something. A place to wait.
 
-I tried the radio again. Nothing. I tried the emergency beacon. Nothing. The entire system was dead—all of it, gone in an instant, leaving me with nothing but rock and sky and the growing darkness.
+I tried the radio again. Nothing. I tried the emergency beacon. Nothing. The entire system was dead, all of it, gone in an instant, leaving me with nothing but rock and sky and the growing darkness.
 
 For the first time in my life, I understood what risk really meant. Not data. Not probability. Not calculation.
 
@@ -110,7 +110,7 @@ I sat on the ledge, my back against the cold rock, and watched the sun disappear
 
 Night fell like a curtain. The temperature dropped rapidly, the mountain air turning from cool to frigid. I pulled my emergency blanket from my pack, wrapping it around my shoulders, but it wasn't enough. I was shivering within minutes.
 
-I tried to remember the survival protocols. Stay calm. Conserve energy. Wait for rescue. But how long would rescue take? Jamie had my position—she would have called for help the moment my signal disappeared. But the weather was turning, the wind picking up, and I was exposed on this ledge, alone in the dark.
+I tried to remember the survival protocols. Stay calm. Conserve energy. Wait for rescue. But how long would rescue take? Jamie had my position, she would have called for help the moment my signal disappeared. But the weather was turning, the wind picking up, and I was exposed on this ledge, alone in the dark.
 
 I closed my eyes and tried to think. What would I do if RISK-AI were working? The system would calculate the best options, weigh the probabilities, tell me exactly what to do.
 
@@ -121,7 +121,7 @@ I had become so optimized that I had forgotten how to be human.
 
 The wind howled around me, carrying flakes of snow that stung my face. I huddled deeper into my emergency blanket, my body shaking from cold and fear.
 
-Somewhere in the distance, I thought I heard a helicopter. I strained to listen, hope surging through me—but it was just the wind, playing tricks on my desperate mind.
+Somewhere in the distance, I thought I heard a helicopter. I strained to listen, hope surging through me, but it was just the wind, playing tricks on my desperate mind.
 
 I was alone. Truly alone. And I had no one to blame but myself.
 
@@ -138,14 +138,14 @@ I had forgotten that. And now I was paying the price.
 
 I don't know how long I sat there. Hours, maybe. The cold was a constant presence, seeping through my clothes, settling into my bones. I drifted in and out of consciousness, my mind playing tricks on me.
 
-At some point, I saw lights in the distance—headlights, maybe, or a helicopter searchlight. I tried to wave, to shout, but my voice was gone, my arms too weak to lift.
+At some point, I saw lights in the distance, headlights, maybe, or a helicopter searchlight. I tried to wave, to shout, but my voice was gone, my arms too weak to lift.
 
 The lights moved away.
 
 I was still alone.
 
 
-Dawn came slowly, the sky lightening from black to gray to pale blue. I was still alive—barely. My body was numb, my mind foggy. But I was alive.
+Dawn came slowly, the sky lightening from black to gray to pale blue. I was still alive, barely. My body was numb, my mind foggy. But I was alive.
 
 I forced myself to move, to assess my situation. The ledge was narrow, but there was a crack system to my left that might lead to another ledge, maybe even a way down.
 

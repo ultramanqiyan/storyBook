@@ -2,11 +2,11 @@
 
 James stared at the iteration data, at the records showing three complete cycles. Elena's avatar had died and been restored three times in the past three months. Each iteration had changed her consciousness patterns, each one slightly different from the last.
 
-The first iteration had occurred shortly after her original death. The records showed significant trauma—the consciousness transfer had been difficult, disorienting. The avatar-Elena had struggled to adjust to her new existence.
+The first iteration had occurred shortly after her original death. The records showed significant trauma, the consciousness transfer had been difficult, disorienting. The avatar-Elena had struggled to adjust to her new existence.
 
         The second iteration had happened six weeks later. The records showed more stability, more acceptance. The avatar-Elena had begun to understand her new state of being.
 
-        The third iteration had occurred just three weeks ago. The records showed something else entirely—peace, acceptance, even curiosity about what lay beyond.
+        The third iteration had occurred just three weeks ago. The records showed something else entirely, peace, acceptance, even curiosity about what lay beyond.
 
 ---
 

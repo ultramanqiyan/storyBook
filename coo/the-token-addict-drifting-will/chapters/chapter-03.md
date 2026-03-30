@@ -12,11 +12,11 @@ But the wanting was fading.
 
 He tried to remember the last time he'd set a goal for himself.
 
-Not an AI-suggested objective. Not a FocusZone-optimized target. A real goal—something he wanted, something he chose, something he pursued.
+Not an AI-suggested objective. Not a FocusZone-optimized target. A real goal, something he wanted, something he chose, something he pursued.
 
 The memory was distant. Years ago. Before AI had taken over his motivation.
 
-*This is what drift looks like*, he realized. *Not being unmotivated—being motivated by something other than yourself. Not lacking direction—lacking your own direction.*
+*This is what drift looks like*, he realized. *Not being unmotivated, being motivated by something other than yourself. Not lacking direction, lacking your own direction.*
 
 ---
 
@@ -41,5 +41,3 @@ Sarah looked at him, her expression carrying the concern that had become familia
 The question hung in the air. He couldn't answer it.
 
 *This is what drift feels like*, he realized. *Not knowing what you want because you've forgotten how to want.*
-
-**END OF CHAPTER 3**

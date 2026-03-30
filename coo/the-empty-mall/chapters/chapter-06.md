@@ -10,17 +10,17 @@ He started downtown, where the old main street had once been bustling with shops
 
 He parked and walked the sidewalk, counting pedestrians. In thirty minutes, he saw seven people. All of them were walking alone, heads down, moving quickly from one place to another. No one stopped to talk. No one lingered. No one seemed to have a reason to be there.
 
-The downtown had been a destination once—a place where people came to shop, to eat, to socialize. Now it was just a route between home and wherever people were going.
+The downtown had been a destination once, a place where people came to shop, to eat, to socialize. Now it was just a route between home and wherever people were going.
 
 ---
 
 He drove to the residential neighborhoods next.
 
-The houses looked the same as they always had—neat lawns, parked cars, the occasional decoration in a window. But something was different. The streets were empty. No children playing. No neighbors chatting over fences. No dogs being walked.
+The houses looked the same as they always had, neat lawns, parked cars, the occasional decoration in a window. But something was different. The streets were empty. No children playing. No neighbors chatting over fences. No dogs being walked.
 
-He stopped at a park he remembered from years ago. It had been a gathering place—playgrounds full of children, benches occupied by elderly couples, basketball courts where teenagers competed. Now, the playground was empty. The benches were vacant. The basketball court had a single hoop, the net rotted away.
+He stopped at a park he remembered from years ago. It had been a gathering place, playgrounds full of children, benches occupied by elderly couples, basketball courts where teenagers competed. Now, the playground was empty. The benches were vacant. The basketball court had a single hoop, the net rotted away.
 
-He sat on a bench and waited. In an hour, he saw two people pass through—a jogger with headphones, a dog walker who didn't make eye contact. Neither stopped. Neither acknowledged him.
+He sat on a bench and waited. In an hour, he saw two people pass through, a jogger with headphones, a dog walker who didn't make eye contact. Neither stopped. Neither acknowledged him.
 
 The park was a space, but it wasn't a place. It existed physically, but it had lost its social function.
 
@@ -69,7 +69,7 @@ James looked. A parking lot. A street. Empty sidewalks.
 
 "Can't they find new reasons?"
 
-"Some do. But it's hard. The old reasons were built into the structure of society—you went to work because you had to, you bought things because you needed them, you socialized because that's what people did. The new reasons have to be invented from nothing. And most people don't know how to do that."
+"Some do. But it's hard. The old reasons were built into the structure of society, you went to work because you had to, you bought things because you needed them, you socialized because that's what people did. The new reasons have to be invented from nothing. And most people don't know how to do that."
 
 James thought about the customers he'd interviewed. They'd all said variations of the same thing: they had everything they needed, but nothing they wanted.
 
@@ -80,9 +80,9 @@ James thought about the customers he'd interviewed. They'd all said variations o
 
 His last stop was a neighborhood bar that had been a local institution for decades.
 
-He remembered it from years ago—a place where workers gathered after shifts, where friends met for drinks, where the community came together to celebrate and commiserate. The owner, a man named Ray, had been a fixture, always behind the bar, always ready with a story or a joke.
+He remembered it from years ago, a place where workers gathered after shifts, where friends met for drinks, where the community came together to celebrate and commiserate. The owner, a man named Ray, had been a fixture, always behind the bar, always ready with a story or a joke.
 
-The bar was still open. But Ray was gone—retired, the new owner said. And the customers were gone too.
+The bar was still open. But Ray was gone, retired, the new owner said. And the customers were gone too.
 
 James sat at the bar, the only customer in the place. The new owner, a younger man named Marcus, polished glasses that were already clean.
 
@@ -107,9 +107,9 @@ The parking lot was still mostly empty. The lights were on inside, illuminating 
 
 He sat in his car and thought about what he'd seen.
 
-The town wasn't dying. It was already dead—or at least, the version of it that had existed before was dead. The physical structures remained: houses, streets, parks, businesses. But the social structures that had given them meaning had dissolved.
+The town wasn't dying. It was already dead, or at least, the version of it that had existed before was dead. The physical structures remained: houses, streets, parks, businesses. But the social structures that had given them meaning had dissolved.
 
-People were at home, he realized. Not because they were hiding, but because they had nowhere else to be. The places that had once drawn them out—workplaces, shopping centers, community gathering spots—had lost their purpose.
+People were at home, he realized. Not because they were hiding, but because they had nowhere else to be. The places that had once drawn them out, workplaces, shopping centers, community gathering spots, had lost their purpose.
 
 The mall was just one symptom of a larger emptiness.
 

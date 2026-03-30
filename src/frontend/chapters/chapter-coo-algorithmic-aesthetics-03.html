@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter III & IV: The Comparison - Human vs Machine / The Client - What People Value - Algorithmic Aesthetics: When Beauty Is Computed - StoryBook</title>
+  <meta name="description" content="Sofia conducts a controlled experiment: restoring two matching Victorian tables, one by hand, one with AI guidance. The results challenge everything she believes.">
+  <meta name="keywords" content="comparison, human vs machine, Victorian table, blind test, restoration experiment, client preference, Elena Vasquez, antique collector, restoration value, human touch">
+  <meta property="og:title" content="The Comparison - Human vs Machine / The Client - What People Value - Algorithmic Aesthetics: When Beauty Is Computed">
+  <meta property="og:description" content="Sofia conducts a controlled experiment: restoring two matching Victorian tables, one by hand, one with AI guidance. The results challenge everything she believes.">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-coo-algorithmic-aesthetics-03?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-coo-algorithmic-aesthetics-03?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/chapters/chapter-coo-algorithmic-aesthetics-03">
+  <link rel="canonical" href="https://storybook-adventures.com/chapters/chapter-coo-algorithmic-aesthetics-03">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The Comparison - Human vs Machine",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Algorithmic Aesthetics: When Beauty Is Computed",
+      "genre": "Business"
+    },
+    "position": 3,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 12px 10px;
+        padding-bottom: 15px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
+      }
+      
+      .drop-cap {
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
+      }
+    }
+  </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9288060233934481" crossorigin="anonymous"></script>
+</head>
+<body class="theme-business">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER III</div>
+    <div class="chapter-name">The Comparison - Human vs Machine</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">S</span>ofia decided to conduct an experiment. She would restore a piece using her traditional methods, then use the AI to guide a restoration of a similar piece. Then she would compare the results.  The pieces she chose were two matching Victorian side tables, both damaged in similar ways, water rings on the tops, loose joints in the legs, faded finishes. They had come from the same estate, probably made by the same craftsman. They were as close to identical as she could find.  She would restore one herself, using the methods she'd developed over twenty years. She would use the AI to guide the restoration of the other.  ---  The first table, she restored the way she always had. She assessed the damage, felt the wood, studied the grain. She stripped the damaged finish, repaired the loose joints, applied a new finish that matched what the original would have been. She worked slowly, carefully, making decisions based on experience and intuition.  The process took three weeks. When she was done, the table looked authentic, like it had been cared for, not renovated. The finish had depth and variation. The repairs were invisible. It was, she thought, a good piece of work.  ---  The second table, she restored using the AI's recommendations. She followed the system's suggestions for stripping, repair, finishing. The AI specified exact products, exact techniques, exact timing. It told her how long to let the stripper sit, what grit of sandpaper to use, how many coats of finish to apply.  The process took two weeks. When she was done, the table looked... perfect. The finish was even and consistent. The repairs were invisible. It was, objectively, a good piece of work.   Sofia placed the two tables side by side in her workshop. They looked almost identical. Both were well-restored. Both were functional. Both were beautiful.  Yet as she studied them, a subtle distinction emerged, one she could sense but not immediately articulate.  She walked around them, studying them from every angle. The first table, the one she'd restored herself,had a certain quality she couldn't quite name. The finish had more variation, more depth. The wood seemed to have more life.  The second table, the one guided by the AI,was perfect. Too perfect, maybe. The finish was flawless but somehow flat. The wood looked beautiful but somehow... static.   Was she imagining the difference? Was she biased toward her own work?  She called Marcus Chen.  "I've completed the comparison," she said. "I'd like you show you the results."  "I'll be there tomorrow," he replied.   Marcus arrived the next morning with two colleagues, Dr. Sarah Lin, a materials scientist, and James Park, a software engineer. They walked around the two tables, studying them, taking notes.  "Objectively, both restorations are excellent," Dr. Lin said. "The structural repairs are sound. The finish is appropriate for the period. The aesthetic is consistent with the original design."  "But?" Sofia asked.  Dr. Lin hesitated. "But there are subtle differences. The AI-guided restoration is more... consistent. More uniform. The human-guided restoration has more variation, more character."  "Is that good or bad?" Marcus asked.  "That's the question," Dr. Lin replied. "From a technical perspective, the AI restoration is superior. The finish is more even, the repairs are more precise. From an aesthetic perspective..." She trailed off.  "From an aesthetic perspective, the human restoration has more life," Sofia said.  Dr. Lin nodded. "That's one interpretation. But it's subjective. Another viewer might prefer the consistency of the AI restoration."   Sofia spent the rest of the day showing the team her workshop, her methods, her philosophy of restoration. They asked questions, took notes, seemed genuinely interested in understanding the craft.  But the question remained: was there a real difference between the two restorations? Or was Sofia projecting her own preferences onto the work?   That evening, after the team left, Sofia sat in her workshop, looking at the two tables. She'd spent twenty years developing her craft. She'd learned to read wood, to understand its history, to restore it in a way that honored what it had been.  And now a machine could recommend the same decisions she would make. Could produce results that were technically superior to hers.  What did that mean for her craft? For her expertise? For the value of her twenty years of experience?   She didn't know. But she was beginning to understand that the question wasn't just about furniture restoration. It was about something deeper: what made something authentic? What gave something soul? What was the difference between perfection and beauty?  The AI could produce perfection. Could it produce beauty?  Sofia wasn't sure. The answer, she suspected, would require more than comparison, it would require understanding what made a piece of furniture feel alive, what gave it the quality that collectors and craftspeople recognized but couldn't measure.</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER IV</div>
+    <div class="chapter-name">The Client - What People Value</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">T</span>he client who had commissioned the Victorian chair restoration returned to pick up the matching side tables. Elena Vasquez was a collector in her fifties, with the particular intensity of someone who had inherited money and discovered a passion.  "They're beautiful," she said, examining the tables. "Both of them. You did excellent work."  "Thank you," Sofia said. "There's something I should mention. I restored one using my traditional methods, and one using an AI-guided approach. I was testing a new tool."  Elena looked at her sharply. "Which is which?"  "I'd rather not say until you've had a chance to examine them."  ---  Elena spent twenty minutes studying the two tables. She ran her hands along the surfaces, examined the joints, looked at the finish from different angles. Sofia watched, trying to read her expression.  Finally, Elena straightened. "This one," she said, pointing to the table Sofia had restored herself. "This one has more... presence. More life."  Sofia felt something loosen in her chest. "That's the one I restored using my traditional methods."  Elena nodded. "I thought so. It has a quality the other one lacks. The finish has more depth. The wood seems more... present." She paused. "But I should tell you, the other one is also excellent. If I hadn't seen them side by side, I might not have noticed the difference."  ---  "But you did notice," Sofia said.  "I did. And I would choose this one for my collection." Elena looked at Sofia. "Does that mean anything? I'm just one person. My aesthetic preferences are my own."  "It means something to me," Sofia admitted. "I've been questioning whether my craft has value in a world where AI can produce technically superior results."  Elena smiled. "Technically superior isn't the same as aesthetically superior. My grandmother used to say that perfection is the enemy of beauty. I think she was right."   After Elena left, Sofia sat in her workshop, thinking about what she'd said. <em>Perfection is the enemy of beauty.</em> Was that true? Was that why the AI-guided restoration felt different, because it was too perfect?  She thought about the furniture she'd restored over the years. The pieces she was most proud of weren't the ones where she'd achieved technical perfection. They were the ones where she'd captured something essential about the original, its history, its character, its life.  Could an AI capture that? Could an algorithm understand the difference between perfection and beauty?   She called Marcus Chen.  "I have results," she said. "The client preferred the human-guided restoration. She said it had more 'presence.' More 'life.'"  "That's interesting," Marcus replied. "But it's one person's opinion. Would you be willing to do a larger study? More pieces, more clients, more data?"  Sofia hesitated. The question felt loaded. If she agreed, she would be contributing to the development of a tool that might eventually replace her.  But she also wanted to understand. Wanted to know whether her craft had value in a world of AI.  "Yes," she said. "I'll do it."   Over the next month, Sofia conducted ten more comparison restorations. Each time, she restored one piece using her traditional methods and one using the AI's guidance. Each time, she presented both to the client without revealing which was which.  The results were consistent: seven clients preferred the human-guided restoration, two preferred the AI-guided, one couldn't tell the difference.  "It's not conclusive," Marcus said when she reported the results. "But it's suggestive. There seems to be something about human-guided restoration that clients respond to."  "Something the AI can't produce," Sofia said.  "Or something the AI hasn't learned to produce yet," Marcus countered. "The system is still developing. It learns from every piece you restore."   Sofia felt a chill. The AI was learning from her. Every decision she made, every technique she used, every judgment call, she was feeding it into the system.  Was she training her replacement?  She didn't know. But she couldn't stop now. She needed to understand what the difference was, what gave human-guided restoration its particular quality. And whether that quality could be captured by an algorithm.   That evening, Sofia sat in her workshop, surrounded by furniture in various stages of restoration. The pieces seemed to look back at her, each one with its own history, its own story, its own life.  She had spent twenty years learning to read that history, to understand that story, to honor that life. And now she was teaching a machine to do the same.  Was that progress? Or was that loss?  She still wasn't sure. But she was beginning to understand that the question wasn't just about furniture restoration. It was about what made something authentic, what gave something soul, what separated craft from production.  And she was going to find the answer.</p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-coo-algorithmic-aesthetics-01" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-coo-algorithmic-aesthetics">Algorithmic Aesthetics: When Beauty Is Computed</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 2  of 5
+    </div>
+    <a href="chapter-coo-algorithmic-aesthetics-05" class="scroll-nav-btn">Next →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-business';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+      
+      initMobileNavigation();
+    });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('Next') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('Previous') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
+  </script>
+</body>
+</html>

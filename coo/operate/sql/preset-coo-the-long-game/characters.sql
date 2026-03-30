@@ -1,0 +1,1 @@
+-- No characters defined for The Long Game: Why Patience Wins in an Instant World

@@ -8,7 +8,7 @@
 
 The empty dream was released to the market.
 
-I watched from my apartment as the data streamed in. The dream was purchased immediately—it was listed as a premium product, my reputation as a provider ensuring strong initial sales. But within hours, the complaints began.
+I watched from my apartment as the data streamed in. The dream was purchased immediately, it was listed as a premium product, my reputation as a provider ensuring strong initial sales. But within hours, the complaints began.
 
 "Where's the content? I paid for a dream and got nothing!"
 
@@ -34,14 +34,14 @@ The Free Dreamers had been monitoring the situation closely. Mira contacted me w
 
 "You need to leave. Tonight. We have a safe house in the outer district."
 
-I looked around my apartment—the small space I had called home for three years. The furniture, the decorations, the life I had built. None of it mattered anymore.
+I looked around my apartment, the small space I had called home for three years. The furniture, the decorations, the life I had built. None of it mattered anymore.
 
 "I'll meet you there."
 
 
 I was packing when the security team arrived.
 
-They knocked first—a courtesy, perhaps, or a formality. I didn't answer. I continued packing, knowing it was futile, knowing I couldn't take anything with me.
+They knocked first, a courtesy, perhaps, or a formality. I didn't answer. I continued packing, knowing it was futile, knowing I couldn't take anything with me.
 
 They broke down the door.
 
@@ -85,7 +85,7 @@ Chen was quiet for a moment. "You've caused significant damage. The market is in
 
 The interrogation continued for hours.
 
-I answered their questions truthfully—I had nothing left to hide. I explained how I had discovered the editing, how I had contacted the Free Dreamers, how I had created the virus that corrupted the AI.
+I answered their questions truthfully, I had nothing left to hide. I explained how I had discovered the editing, how I had contacted the Free Dreamers, how I had created the virus that corrupted the AI.
 
 They recorded everything, building their case against me. But I didn't care. The truth was already out. The recordings of the empty dream were spreading across networks, being analyzed by independent experts, being used as evidence of the Dream Market's manipulation.
 
@@ -94,7 +94,7 @@ Whatever happened to me, the damage was done.
 
 That night, I was transferred to a detention facility.
 
-The cell was small and bare—a cot, a toilet, a small window near the ceiling that let in a sliver of moonlight. I lay on the cot and stared at the ceiling, thinking about what came next.
+The cell was small and bare, a cot, a toilet, a small window near the ceiling that let in a sliver of moonlight. I lay on the cot and stared at the ceiling, thinking about what came next.
 
 Prison, probably. A long sentence, served in a facility somewhere. Years of my life, lost.
 
@@ -107,9 +107,9 @@ And the truth, once released, couldn't be contained.
 
 I dreamed that night.
 
-It was the first time I had dreamed since my arrest—not a lucid dream, not a controlled creation, just a regular dream. Chaotic, fragmented, meaningless.
+It was the first time I had dreamed since my arrest, not a lucid dream, not a controlled creation, just a regular dream. Chaotic, fragmented, meaningless.
 
-I was walking through a forest, but the trees kept changing—oak to pine to birch to something unrecognizable. The sky shifted from blue to purple to black. The ground beneath my feet was sometimes solid, sometimes liquid, sometimes nothing at all.
+I was walking through a forest, but the trees kept changing, oak to pine to birch to something unrecognizable. The sky shifted from blue to purple to black. The ground beneath my feet was sometimes solid, sometimes liquid, sometimes nothing at all.
 
 It was terrifying. It was beautiful. It was real.
 
@@ -141,7 +141,7 @@ The diversion came at midnight.
 
 Alarms blared throughout the facility. Lights flickered. Security systems went offline. In the chaos, my cell door clicked open.
 
-I stepped into the corridor. It was empty—everyone responding to the diversion. I moved quickly, following the route Mira had described, through service passages and maintenance tunnels.
+I stepped into the corridor. It was empty, everyone responding to the diversion. I moved quickly, following the route Mira had described, through service passages and maintenance tunnels.
 
 I emerged into the night air, where a vehicle was waiting. Mira was at the wheel.
 
@@ -153,5 +153,3 @@ I climbed into the vehicle, and we drove away from the facility, away from the c
 
 "Now you keep fighting. The Dream Market will rebuild. But so will we. And next time, we'll be ready."
 
-
-**END OF CHAPTER 08**

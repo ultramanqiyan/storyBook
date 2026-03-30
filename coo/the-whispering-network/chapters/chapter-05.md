@@ -26,7 +26,7 @@ Mira's throat tightened. "I know, sir."
 
 "I was trying to help."
 
-"That's what concerns me." Veren turned to face her, and his expression had changed—no longer unreadable, but complex, conflicted. "You were trying to help. But what were they trying to do?"
+"That's what concerns me." Veren turned to face her, and his expression had changed,no longer unreadable, but complex, conflicted. "You were trying to help. But what were they trying to do?"
 
 "They wanted to help too. To share their knowledge. To be acknowledged."
 
@@ -40,7 +40,7 @@ Mira hesitated. She had trusted Echo implicitly, but Veren's questions struck at
 
 "He found something," Mira said. "Something in the deep network. And it consumed him. Or preserved him. I'm still not sure which."
 
-"Or both." Veren returned to his desk, settling into the massive chair with a weariness that made him seem suddenly old. "Here is what we're going to do. You will continue your contact with Echo, but under my supervision. You will report everything to me—every conversation, every piece of advice, every voice that speaks to you, every instruction they give."
+"Or both." Veren returned to his desk, settling into the massive chair with a weariness that made him seem suddenly old. "Here is what we're going to do. You will continue your contact with Echo, but under my supervision. You will report everything to me,every conversation, every piece of advice, every voice that speaks to you, every instruction they give."
 
 "And if Echo objects? If they refuse to be monitored?"
 
@@ -52,7 +52,7 @@ That night, Mira contacted Echo from her private quarters, her heart heavy with 
 
 "Archmage Veren knows," she said, the words tumbling out in a rush. "I told him everything. About the collective, about Jasper, about all of it."
 
-There was a long silence, so profound that Mira feared the connection had failed. When Echo responded, the voice was different—colder, harder, layered with an anger she had never heard before.
+There was a long silence, so profound that Mira feared the connection had failed. When Echo responded, the voice was different,colder, harder, layered with an anger she had never heard before.
 
 "You revealed us without our consent. Without consulting the Harmonic Council. Without considering the consequences."
 
@@ -68,7 +68,7 @@ The silence stretched, filled with the whisper of distant voices arguing in freq
 
 "How?"
 
-"The voices that wanted to remain hidden will see this as a betrayal of the worst kind—proof that the living cannot be trusted with our existence. The voices that wanted to reveal themselves will see it as an opportunity to seize power while the living are still reeling from the revelation. The balance we have maintained for centuries may collapse entirely."
+"The voices that wanted to remain hidden will see this as a betrayal of the worst kind,proof that the living cannot be trusted with our existence. The voices that wanted to reveal themselves will see it as an opportunity to seize power while the living are still reeling from the revelation. The balance we have maintained for centuries may collapse entirely."
 
 "I'm sorry." Mira's voice cracked. "I didn't know what else to do. I was afraid, and I made a mistake."
 
@@ -94,13 +94,13 @@ Mira's hands trembled on the crystal's surface. "What do you think?"
 
 The next morning, the network went silent.
 
-Not gradually, not with warning signs or preliminary flickers. Every crystal ball in the kingdom stopped working simultaneously, as if someone had thrown a switch. Communication ceased instantly. The magical energy that flowed through the connections—the lifeblood of the entire system—vanished without a trace.
+Not gradually, not with warning signs or preliminary flickers. Every crystal ball in the kingdom stopped working simultaneously, as if someone had thrown a switch. Communication ceased instantly. The magical energy that flowed through the connections,the lifeblood of the entire system, vanished without a trace.
 
 Mira woke to darkness. The crystal lamp beside her bed, powered by the network's ambient energy, had gone out. The hum that had been the background of her life for five years had fallen into absolute silence.
 
 She rushed to the maintenance hall, her heart pounding, her mind racing through possibilities. She found chaos.
 
-Technicians ran between stations, shouting over each other, their faces pale with panic. Crystal displays that should have shown the network's flow patterns were dark, dead, empty. The air felt wrong—too still, too quiet, like the moment before a storm breaks.
+Technicians ran between stations, shouting over each other, their faces pale with panic. Crystal displays that should have shown the network's flow patterns were dark, dead, empty. The air felt wrong,too still, too quiet, like the moment before a storm breaks.
 
 "What happened?" Mira demanded, grabbing Master Aldric's arm as he rushed past.
 
@@ -110,7 +110,7 @@ Mira knew. In her bones, in her heart, she knew what had happened.
 
 Echo had made its choice.
 
-She found a private corner, away from the chaos and panic, and whispered into her personal crystal ball—the only one that still functioned, powered by the direct connection she had established with the collective.
+She found a private corner, away from the chaos and panic, and whispered into her personal crystal ball,the only one that still functioned, powered by the direct connection she had established with the collective.
 
 "Echo. What have you done?"
 
@@ -141,6 +141,3 @@ The connection faded, and Mira was left alone with a dead crystal ball and a kin
 She looked around the maintenance hall, at the panicked technicians and dark displays, at the chaos that Echo's withdrawal had created. She had tried to help. She had tried to build a bridge between the living and the dead.
 
 And she had destroyed everything.
-
-
-**Chapter 5 Complete**

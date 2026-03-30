@@ -1,6 +1,6 @@
 # Chapter 4: The Resistance
 
-The website for Jake's workshop launched on a Tuesday. No fanfare, no sprint, no deadline—just a quiet moment when Michael decided it was ready.
+The website for Jake's workshop launched on a Tuesday. No fanfare, no sprint, no deadline, just a quiet moment when Michael decided it was ready.
 
 Jake looked at it on his phone, scrolling through the pages. "This is good," he said. "This is really good."
 
@@ -14,7 +14,7 @@ Jake looked at it on his phone, scrolling through the pages. "This is good," he 
 
 ---
 
-Helen Park's house was filled with books. Not decorative books, but real ones—worn spines, dog-eared pages, margins filled with notes. She was older than Michael had expected, with silver hair and eyes that seemed to see through time itself.
+Helen Park's house was filled with books. Not decorative books, but real ones, worn spines, dog-eared pages, margins filled with notes. She was older than Michael had expected, with silver hair and eyes that seemed to see through time itself.
 
 "Jake tells me you're learning about patience," she said, pouring tea into ceramic cups.
 
@@ -30,7 +30,7 @@ The question echoed Jake's, but Helen asked it differently. Not as a challenge, 
 
 "Not well," Michael admitted. "I keep sprinting, but I never get anywhere. I keep fixing problems I created by rushing."
 
-"Let me tell you a story." Helen set down her teacup. "In the 1960s, there was a movement for civil rights. The people involved knew it would take years—decades—to achieve their goals. They didn't sprint. They marched. They organized. They built institutions that would last long after they were gone."
+"Let me tell you a story." Helen set down her teacup. "In the 1960s, there was a movement for civil rights. The people involved knew it would take years, decades, to achieve their goals. They didn't sprint. They marched. They organized. They built institutions that would last long after they were gone."
 
 "And it worked."
 
@@ -42,7 +42,7 @@ The conversation stayed with Michael for days.
 
 What was he building that would outlast him? Code that would be rewritten? Features that would be deprecated? Sprints that would be forgotten?
 
-He thought about Jake's table—fifty years of use. He thought about Helen's books—decades of knowledge, passed down through generations.
+He thought about Jake's table, fifty years of use. He thought about Helen's books, decades of knowledge, passed down through generations.
 
 What was he building?
 
@@ -55,7 +55,7 @@ But this time, he paused.
 
 *What if I asked a different question?* he wondered. *What if I asked: what will this look like in five years?*
 
-The project was a customer portal for a healthcare company. In five years, the code would probably be rewritten. But the relationships with the customers—that could last. The trust built through reliable software—that could last.
+The project was a customer portal for a healthcare company. In five years, the code would probably be rewritten. But the relationships with the customers, that could last. The trust built through reliable software, that could last.
 
 *What if I built it to last?*
 
@@ -79,7 +79,7 @@ The conversation lasted an hour.
 
 By the end, the timeline was still six weeks. But the approach had shifted. Instead of cutting corners to meet the deadline, they were building a foundation that could grow.
 
-It wasn't the long game—not yet. But it was a start.
+It wasn't the long game, not yet. But it was a start.
 
 
 That night, Michael went back to Jake's workshop.
@@ -98,7 +98,7 @@ Jake set down his tools. "You don't do it alone. That's the secret. You find peo
 
 "An illusion?"
 
-"The sprint feels like progress. But it's not. It's just movement." Jake gestured around the workshop. "Real progress takes time. Real value takes time. And the people who understand that—they're the ones who build things that last."
+"The sprint feels like progress. But it's not. It's just movement." Jake gestured around the workshop. "Real progress takes time. Real value takes time. And the people who understand that, they're the ones who build things that last."
 
 Michael looked at the table Jake was working on. Three months. Fifty years.
 

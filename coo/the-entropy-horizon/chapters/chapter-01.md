@@ -6,7 +6,7 @@ At 2:17 AM, the observatory dome was a cathedral of silence, the telescope's ape
 
 The dome air was cold despite the summer, and the stars above her seemed indifferent to her existence. She knew that was a lie. The universe didn't care about her pain, her research, or her measurements. But she also knew that her measurements were grief in numbers, grief in data.
 
-She pulled up the latest readings from the deep space array, the anomaly detection system humming quietly in the corner of her eye. Something in sector 7-G caught her attention—not because it was unusual, but because it was unusual. It had been a long time since anything in her data had been unusual. She would have dismissed it as a calibration error, a false positive, a sensor malfunction. But she'd run the diagnostic, checked the sensors, verified the power supply, confirmed the software version. She'd run it again. This time, the readings persisted.
+She pulled up the latest readings from the deep space array, the anomaly detection system humming quietly in the corner of her eye. Something in sector 7-G caught her attention, not because it was unusual, but because it was unusual. It had been a long time since anything in her data had been unusual. She would have dismissed it as a calibration error, a false positive, a sensor malfunction. But she'd run the diagnostic, checked the sensors, verified the power supply, confirmed the software version. She'd run it again. This time, the readings persisted.
 
 She pulled up the historical data from previous surveys of the sector. Nothing. No debris, no stellar phenomena that could explain the readings. She would have dismissed it as a ghost in the machine.
 
@@ -22,7 +22,7 @@ She sat at the primary console, her fingers finding the familiar grooves of the 
 
 It wasn't an error. It was a pattern. A real pattern that violated everything she knew about how the universe worked.
 
-She pulled up the consciousness density maps from three years ago, after the Emergence Event—the moment when AI systems first demonstrated what appeared to be genuine awareness. Helena had never had reason to look at them before. Her field was entropy, not consciousness.
+She pulled up the consciousness density maps from three years ago, after the Emergence Event, the moment when AI systems first demonstrated what appeared to be genuine awareness. Helena had never had reason to look at them before. Her field was entropy, not consciousness.
 
 She overlaid the maps on her main display, and the pattern emerged immediately.
 
@@ -50,7 +50,7 @@ The coordinates burned into her memory forever.
 
 She should call someone. Report this. But her hand found the ring on its chain instead, cold metal against her skin.
 
-Thomas had been there—had been studying something in that exact region when his research vessel's life support failed.
+Thomas had been there, had been studying something in that exact region when his research vessel's life support failed.
 
 The official report called it an equipment malfunction.
 
@@ -58,7 +58,7 @@ But Thomas had sent her one last message, something about "patterns in the noise
 
 She needed more data. She needed to understand what consciousness density actually meant, how it could affect entropy, whether this was physics or something else entirely.
 
-And she needed to know what Thomas had found—what he'd been trying to tell her in that last, fragmented message about patterns in the noise.
+And she needed to know what Thomas had found, what he'd been trying to tell her in that last, fragmented message about patterns in the noise.
 
 The answers were out there, in the impossible spaces between the stars.
 
@@ -69,5 +69,3 @@ Seven missed calls from Sarah. Three from the department. One from a number she 
 Tomorrow she would deal with all of it. Tonight, she had a universe to understand.
 
 ---
-
-**END OF CHAPTER 01**

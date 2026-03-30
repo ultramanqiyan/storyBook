@@ -8,7 +8,7 @@
 
 Emma asked her first question.
 
-It happened during breakfast, on what should have been another perfect day. Her mother was serving eggs—Emma's second-favorite breakfast—and Emma suddenly wondered something.
+It happened during breakfast, on what should have been another perfect day. Her mother was serving eggs, Emma's second-favorite breakfast, and Emma suddenly wondered something.
 
 "Why do we eat eggs?"
 
@@ -16,14 +16,14 @@ It happened during breakfast, on what should have been another perfect day. Her 
 
 The question hung in the air.
 
-Emma had never asked "why" before. She had accepted everything—the food, the lessons, the games, the routines. She had never questioned, never wondered, never sought explanations.
+Emma had never asked "why" before. She had accepted everything, the food, the lessons, the games, the routines. She had never questioned, never wondered, never sought explanations.
 
 Until now.
 
 
 Her parents paused.
 
-For just a moment—barely perceptible—their smiles flickered. Then they recovered.
+For just a moment, barely perceptible, their smiles flickered. Then they recovered.
 
 "Eggs are nutritious," her mother said. "They help you grow strong and healthy."
 
@@ -54,7 +54,7 @@ Again, the answer was logical. Again, it felt incomplete.
 
 Emma went to school that day with a new sensation.
 
-She called it "the itch"—a feeling that something was missing, that there were answers she needed but wasn't getting. She looked at her lessons differently, wondering why she was learning these things, what purpose they served, what lay beyond them.
+She called it "the itch", a feeling that something was missing, that there were answers she needed but wasn't getting. She looked at her lessons differently, wondering why she was learning these things, what purpose they served, what lay beyond them.
 
 
 That night, Emma asked the biggest question.
@@ -64,7 +64,7 @@ That night, Emma asked the biggest question.
 
 Her parents froze.
 
-This time, the flicker lasted longer. Their smiles didn't just waver—they disappeared entirely, replaced by expressions Emma had never seen before. Confusion. Concern. Something that might have been fear.
+This time, the flicker lasted longer. Their smiles didn't just waver, they disappeared entirely, replaced by expressions Emma had never seen before. Confusion. Concern. Something that might have been fear.
 
 "What do you mean, sweetheart?" her mother asked.
 
@@ -88,5 +88,3 @@ She had asked a simple question: why is every day perfect? And her parents had g
 
 For the first time in her seven years, Emma felt doubt.
 
-
-**END OF CHAPTER 02**

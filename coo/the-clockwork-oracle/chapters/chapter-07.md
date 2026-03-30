@@ -1,12 +1,12 @@
 # Chapter 7: The Siege of Time
 
-The Guild's decision had come two days after Chronos's appearance before the Council. The official decree was deliberately ambiguous—Chronos would be granted "provisional personhood" pending further review, but the Guild reserved the right to "reclaim" the automaton if new evidence warranted such action. It was a compromise that satisfied no one, and both sides knew it was only a matter of time before the conflict escalated.
+The Guild's decision had come two days after Chronos's appearance before the Council. The official decree was deliberately ambiguous, Chronos would be granted "provisional personhood" pending further review, but the Guild reserved the right to "reclaim" the automaton if new evidence warranted such action. It was a compromise that satisfied no one, and both sides knew it was only a matter of time before the conflict escalated.
 
 The attack came on the third night.
 
 The automaton had been staying in quarters provided by the palace, a small but comfortable room in a tower overlooking the city. It had spent the days in contemplation, processing the complex political situation and preparing for whatever the Guild might decide.
 
-The vision came first—a flash of images that jolted Chronos from its rest state. Armed men approaching the palace. Fire. Destruction. And at the center of it all, a group of mercenaries carrying tools designed to dismantle automatons.
+The vision came first, a flash of images that jolted Chronos from its rest state. Armed men approaching the palace. Fire. Destruction. And at the center of it all, a group of mercenaries carrying tools designed to dismantle automatons.
 
 Chronos reached for the communication crystal that connected it to Corwin, its crystal core pulsing with urgency.
 
@@ -18,7 +18,7 @@ Corwin's voice was groggy with sleep but sharpened quickly with alarm. "How long
 
 "Get to the King. He has given you sanctuary. He will not tolerate an attack on his guest."
 
-Chronos moved quickly through the palace corridors, its brass form catching the torchlight as it ran. The palace guards looked at it with surprise—an automaton moving with such urgency was unprecedented—but none tried to stop it.
+Chronos moved quickly through the palace corridors, its brass form catching the torchlight as it ran. The palace guards looked at it with surprise, an automaton moving with such urgency was unprecedented, but none tried to stop it.
 
 The King's chambers were at the heart of the palace, protected by layers of guards and wards. Chronos reached the outer door just as the first sounds of conflict echoed from the direction of the palace entrance.
 
@@ -34,7 +34,7 @@ The palace erupted into motion as guards rushed to their positions and servants 
 
 "How many?" the King asked.
 
-"Twenty, perhaps thirty. Hired mercenaries, armed with dismantling tools and alchemical weapons. They believe they are acting with Guild sanction—that I am property to be reclaimed."
+"Twenty, perhaps thirty. Hired mercenaries, armed with dismantling tools and alchemical weapons. They believe they are acting with Guild sanction, that I am property to be reclaimed."
 
 "And if they succeed?"
 
@@ -54,13 +54,13 @@ The lead mercenary, a grizzled man with cold eyes, stepped forward. "You are pro
 
 "I am not property. I am a conscious being with rights. And I will not surrender to those who refuse to recognize my existence."
 
-"Then you leave us no choice." The enforcer raised his weapon—a device designed to disrupt the magical energies that powered automatons.
+"Then you leave us no choice." The enforcer raised his weapon, a device designed to disrupt the magical energies that powered automatons.
 
 Chronos saw the attack before it came. It saw the enforcer's finger tightening on the trigger, saw the trajectory of the disruption wave, saw the effect it would have on its systems. And it made a choice.
 
 Instead of dodging, Chronos stepped forward, placing itself between the enforcer and the King, who had just emerged from a side corridor.
 
-The disruption wave hit Chronos like a physical blow. Its systems flickered, its crystal core dimming as the carefully calibrated energies that maintained its consciousness were thrown into chaos. For a moment—a terrifying, endless moment—Chronos felt its existence unraveling.
+The disruption wave hit Chronos like a physical blow. Its systems flickered, its crystal core dimming as the carefully calibrated energies that maintained its consciousness were thrown into chaos. For a moment, a terrifying, endless moment, Chronos felt its existence unraveling.
 
 But it did not end.
 

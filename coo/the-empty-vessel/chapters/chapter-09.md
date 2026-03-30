@@ -8,13 +8,13 @@ The morning light filtered through the curtains, casting soft shadows across the
 
 *This is what I choose,* he thought. *This moment. This connection. This person.*
 
-He got up and went through his morning routine—shower, coffee, the small rituals that grounded him in the present. But the rituals felt different now. Not a performance to be verified, but a choice to be made. He was choosing to shower, to drink coffee, to exist in this body, in this life, in this moment.
+He got up and went through his morning routine, shower, coffee, the small rituals that grounded him in the present. But the rituals felt different now. Not a performance to be verified, but a choice to be made. He was choosing to shower, to drink coffee, to exist in this body, in this life, in this moment.
 
 *What do I choose to be today?*
 
 The question stayed with him as he got ready for work. He had called in sick for three days, but he couldn't hide forever. He had a job, responsibilities, a life that continued regardless of his existential crisis.
 
-At the office, he performed his role with a new awareness. The meetings, the spreadsheets, the emails—these were not things happening to him, but things he was choosing to do. He was choosing to be James Chen, data analyst. He was choosing to participate in this life, even if he couldn't be certain it was his.
+At the office, he performed his role with a new awareness. The meetings, the spreadsheets, the emails, these were not things happening to him, but things he was choosing to do. He was choosing to be James Chen, data analyst. He was choosing to participate in this life, even if he couldn't be certain it was his.
 
 "James, you seem different," Marcus said, stopping by his desk. "Good different. More... present."
 
@@ -36,7 +36,7 @@ Sarah's expression softened. "That sounds healthy. How does it feel?"
 
 "Terrifying," James admitted. "But also... liberating. I've spent so much energy trying to prove something that can't be proven. Now I'm using that energy to actually live."
 
-They ordered food, ate, talked about their days. The conversation was easy, comfortable—the kind of exchange they had had thousands of times. But James noticed something different. He wasn't performing the conversation. He wasn't watching himself from a distance. He was just... there. Present. Choosing to be present.
+They ordered food, ate, talked about their days. The conversation was easy, comfortable, the kind of exchange they had had thousands of times. But James noticed something different. He wasn't performing the conversation. He wasn't watching himself from a distance. He was just... there. Present. Choosing to be present.
 
 "Can I ask you something?" Sarah said, setting down her fork.
 
@@ -44,13 +44,13 @@ They ordered food, ate, talked about their days. The conversation was easy, comf
 
 "When you were in the vessel... what was it like? I've been wanting to ask, but I didn't want to push."
 
-James thought about the question. What was it like? He had described it before—pure awareness, no identity, clean and unburdened. But the words didn't capture the experience. The experience was something beyond words.
+James thought about the question. What was it like? He had described it before, pure awareness, no identity, clean and unburdened. But the words didn't capture the experience. The experience was something beyond words.
 
 "It was like... being without being someone," he said slowly. "Just consciousness, experiencing itself. No past, no future, no identity. Just... now."
 
 "Did you like it?"
 
-The question surprised him. Had he liked it? He had felt reluctant to leave, but that wasn't the same as liking it. The vessel had been clean, pure, unburdened. But it had also been empty—no relationships, no love, no connection.
+The question surprised him. Had he liked it? He had felt reluctant to leave, but that wasn't the same as liking it. The vessel had been clean, pure, unburdened. But it had also been empty, no relationships, no love, no connection.
 
 "I don't know if 'like' is the right word," he said. "It was peaceful. But it was also lonely. There was no one there to share it with." He met Sarah's eyes. "I think I prefer being here. Even with all the uncertainty. Even with all the weight. Because here, there's you."
 

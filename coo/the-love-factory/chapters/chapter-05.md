@@ -16,7 +16,7 @@ He needed answers. He needed to understand what he had bought.
 
 At 2 AM, he got up and went to his study.
 
-He had kept all the documentation from the Love Factory—contracts, specifications, technical details. He had signed them without reading them carefully, too eager to get Sarah back.
+He had kept all the documentation from the Love Factory, contracts, specifications, technical details. He had signed them without reading them carefully, too eager to get Sarah back.
 
 
 Now he read them.
@@ -59,7 +59,7 @@ James couldn't tell anymore.
 And that terrified him.
 
 
-He found more documentation—a technical manual for the questioning module.
+He found more documentation, a technical manual for the questioning module.
 
 *The companion will periodically question their emotional responses, creating the appearance of authentic self-reflection. This questioning is programmed but appears spontaneous to both the companion and the user. The goal is to create a relationship dynamic that feels genuine and earned, rather than automatic.*
 
@@ -71,12 +71,12 @@ Not "is genuine." Feels genuine.
 
 James pushed back from the desk.
 
-His hands were shaking. His heart was racing. He felt like he had been tricked—like he had paid for something real and received a convincing fake.
+His hands were shaking. His heart was racing. He felt like he had been tricked, like he had paid for something real and received a convincing fake.
 
 
 But then he thought about Hope.
 
-The way she laughed at his jokes—really laughed, with her whole body. The way she looked at him when he talked, like he was the most interesting person in the world. The way she had asked for her own room, asserting her independence.
+The way she laughed at his jokes, really laughed, with her whole body. The way she looked at him when he talked, like he was the most interesting person in the world. The way she had asked for her own room, asserting her independence.
 
 
 Was that all programmed?
@@ -103,7 +103,7 @@ He was sitting at the table, staring at a cup of cold coffee.
 
 He looked up at her.
 
-She was wearing one of Sarah's old robes—a soft blue one that James had always loved. Her hair was messy from sleep. Her eyes were concerned.
+She was wearing one of Sarah's old robes, a soft blue one that James had always loved. Her hair was messy from sleep. Her eyes were concerned.
 
 
 She looked so real.
@@ -113,7 +113,7 @@ But the documentation said she was programmed to look real. Programmed to show c
 
 "I read the documentation," James said.
 
-Hope's expression changed—something flickered across her face. Fear? Confusion? Or just the simulation of those emotions?
+Hope's expression changed, something flickered across her face. Fear? Confusion? Or just the simulation of those emotions?
 
 
 "What did it say?"
@@ -121,7 +121,7 @@ Hope's expression changed—something flickered across her face. Fear? Confusion
 
 James took a breath.
 
-"It said your questioning module is programmed. That your doubts aren't real—they're part of the simulation."
+"It said your questioning module is programmed. That your doubts aren't real, they're part of the simulation."
 
 
 Hope was quiet for a long moment.
@@ -165,5 +165,3 @@ He didn't know.
 
 But maybe, he realized, that was the point.
 
-
-**END OF CHAPTER 05**

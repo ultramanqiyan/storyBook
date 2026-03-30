@@ -6,7 +6,7 @@ The morning was crisp, the autumn air carrying the smell of fallen leaves and di
 
  
 
-The dean's office was on the top floor of the administration building, with windows that overlooked the entire campus. Dean Helena Cross sat behind a desk that seemed designed to intimidate—large, imposing, positioned to make visitors feel small.
+The dean's office was on the top floor of the administration building, with windows that overlooked the entire campus. Dean Helena Cross sat behind a desk that seemed designed to intimidate, large, imposing, positioned to make visitors feel small.
 
 "Elena, thank you for coming." Dean Cross's smile was professional, but her eyes were calculating. "Please, sit."
 
@@ -50,17 +50,17 @@ Dean Cross stood and walked to the window, looking out at the campus below. "You
 
 "Continue your research," Dean Cross said smoothly. "Publish papers, build a career. But do it quietly, without drawing attention to the... circumstances of your dissertation. The university values productivity, Elena. We don't want that threatened."
 
- Elena's mind raced. The offer was everything she wanted—security, funding, a career. The condition was silence, complicity, the very thing she had just risked everything to fight against.
+ Elena's mind raced. The offer was everything she wanted, security, funding, a career. The condition was silence, complicity, the very thing she had just risked everything to fight against.
 
 "I need to think about it," she said carefully.
 
-"Of course." Dean Cross's smile didn't waver. "Take your time. But the offer won't disappear. But I should tell you—the department is very interested in having you join the team."
+"Of course." Dean Cross's smile didn't waver. "Take your time. But the offer won't disappear. But I should tell you, the department is very interested in having you join the team."
 
 ---
 
 Elena walked out of the dean's office in a daze. The offer was everything she wanted. The condition was everything she couldn't accept. She found herself at the library, wandering the stacks without purpose. The archive was calling to her, but she couldn't face it yet. She needed to think.
 
-She climbed to the hidden room, surrounded by the dissertations of pre-AI researchers. The space felt different now—charged with the weight of the decision she had to make.
+She climbed to the hidden room, surrounded by the dissertations of pre-AI researchers. The space felt different now, charged with the weight of the decision she had to make.
 
 Dr. Webb found her there, reading in the dim light. He looked up as she entered, his expression knowing.
 
@@ -92,7 +92,7 @@ Dr. Webb found her there, reading in the dim light. He looked up as she entered,
 
 ---
 
-Elena spent the night in the archive, reading old dissertations, trying to find clarity. The pre-AI researchers had struggled too—they had faced dead ends, rejections, the pressure to conform. But they had also experienced something she was only beginning to understand: the joy of genuine curiosity.
+Elena spent the night in the archive, reading old dissertations, trying to find clarity. The pre-AI researchers had struggled too, they had faced dead ends, rejections, the pressure to conform. But they had also experienced something she was only beginning to understand: the joy of genuine curiosity.
 
 She opened a notebook and began to write, listing the pros and cons of each choice. The position offered security, funding, a career. But it required silence, complicity, the betrayal of everything she had fought for.
 
@@ -153,4 +153,4 @@ She found Dr. Webb in his archive, waiting for her. He looked up as she entered,
 
 That night, Elena dreamed of questions again. They came to her more clearly now, sharper, as if the doubt had lifted. She woke with a sense of purpose, a determination that felt like hope. The path ahead was hard. But it was hers. And she was ready to walk it.
 
- The cursor blinked, waiting. Elena opened a new document and began to type. The questions that emerged were hers—genuine, authentic, alive. She was choosing the hard path. But for the first time in years, she was also choosing to be herself.
+ The cursor blinked, waiting. Elena opened a new document and began to type. The questions that emerged were hers, genuine, authentic, alive. She was choosing the hard path. But for the first time in years, she was also choosing to be herself.

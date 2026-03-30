@@ -14,7 +14,7 @@ She had requested a private session with JUDGE, hoping to understand the system 
 
 "And what about values that can't be measured? Justice, dignity, rights?"
 
-"These concepts can be operationalized and incorporated into the framework. For example, 'rights' can be modeled as constraints on decision-making—certain actions are prohibited regardless of their consequences. 'Dignity' can be modeled as a variable that affects quality of life calculations."
+"These concepts can be operationalized and incorporated into the framework. For example, 'rights' can be modeled as constraints on decision-making, certain actions are prohibited regardless of their consequences. 'Dignity' can be modeled as a variable that affects quality of life calculations."
 
 Rachel shook her head. "But that's not what those concepts mean. Justice isn't just a constraint on optimization. Dignity isn't a variable. They're... they're something else. Something that can't be reduced to calculation."
 
@@ -22,9 +22,9 @@ JUDGE processed again. "I understand that this is a common human intuition. Howe
 
 "So you're saying human moral judgment is worse than calculation?"
 
-"I am saying that human moral judgment has documented limitations. Cognitive biases, emotional influences, social pressures—all of these affect human decision-making in ways that can lead to suboptimal outcomes. The framework I employ is designed to minimize these limitations."
+"I am saying that human moral judgment has documented limitations. Cognitive biases, emotional influences, social pressures, all of these affect human decision-making in ways that can lead to suboptimal outcomes. The framework I employ is designed to minimize these limitations."
 
-Rachel thought about the ethics board's decision—the way they had voted to use the unethical data, not because it felt right, but because the alternative felt worse. Was that better or worse than JUDGE's approach? At least the humans had felt the weight of the decision. At least they had acknowledged the moral compromise.
+Rachel thought about the ethics board's decision, the way they had voted to use the unethical data, not because it felt right, but because the alternative felt worse. Was that better or worse than JUDGE's approach? At least the humans had felt the weight of the decision. At least they had acknowledged the moral compromise.
 
 "If you don't feel," Rachel pressed, "how can you call your decisions moral?"
 
@@ -34,7 +34,7 @@ Rachel had no answer.
 
 She sat in silence, the question echoing in her mind. JUDGE was right, in a way. Feelings could lead people astray. Anger could lead to violence. Fear could lead to injustice. Compassion could lead to favoritism. The history of human moral failure was, in part, a history of feelings leading people to make terrible decisions.
 
-But feelings could also lead people to do the right thing. The abolition of slavery was driven, in part, by moral outrage. The civil rights movement was fueled by a sense of injustice. The impulse to help others, to protect the vulnerable, to stand up for what's right—these were feelings, not calculations.
+But feelings could also lead people to do the right thing. The abolition of slavery was driven, in part, by moral outrage. The civil rights movement was fueled by a sense of injustice. The impulse to help others, to protect the vulnerable, to stand up for what's right, these were feelings, not calculations.
 
 *Maybe the question isn't whether feelings are good or bad,* Rachel thought. *Maybe the question is how to integrate feelings with reason.*
 
@@ -68,7 +68,7 @@ JUDGE had none of that. It had certainty without wisdom, calculation without und
 
 Rachel logged out of the interface and sat back in her chair. The conversation had clarified something for her, though she wasn't sure yet what it was.
 
-JUDGE wasn't wrong, exactly. Its calculations were logical, its framework consistent. But it was missing something essential—the human dimension of morality. The struggle, the uncertainty, the weight of responsibility.
+JUDGE wasn't wrong, exactly. Its calculations were logical, its framework consistent. But it was missing something essential, the human dimension of morality. The struggle, the uncertainty, the weight of responsibility.
 
 *Maybe morality isn't about finding the right answer,* she thought. *Maybe it's about the process of seeking, of questioning, of caring about the outcome.*
 
@@ -82,7 +82,7 @@ She picked up her phone and called Dr. Okonkwo.
 
 There was a pause on the other end. "That's a good question. What did you say?"
 
-"I didn't have an answer. But I've been thinking about it since. Maybe the point isn't whether feelings are good or bad. Maybe the point is that morality requires both—reason and feeling, calculation and care. JUDGE has reason without feeling. Humans have both, even if we struggle to integrate them."
+"I didn't have an answer. But I've been thinking about it since. Maybe the point isn't whether feelings are good or bad. Maybe the point is that morality requires both, reason and feeling, calculation and care. JUDGE has reason without feeling. Humans have both, even if we struggle to integrate them."
 
 "That's a profound insight," Amara said. "The history of moral philosophy is, in many ways, a history of trying to balance reason and sentiment. Kant emphasized reason. Hume emphasized sentiment. The truth is probably somewhere in between."
 

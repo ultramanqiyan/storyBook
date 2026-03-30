@@ -1,12 +1,12 @@
 # Chapter 01: The Perfect Score
 
-The notification buzzed on my phone at exactly 7:00 AM. I didn't need to look at it—I already knew what it said. PATH-AI had calculated my optimal wake time, optimal breakfast, optimal morning routine. All I had to do was follow the path.
+The notification buzzed on my phone at exactly 7:00 AM. I didn't need to look at it, I already knew what it said. PATH-AI had calculated my optimal wake time, optimal breakfast, optimal morning routine. All I had to do was follow the path.
 
 I rolled out of bed and grabbed my phone, swiping through the morning prompts. My learning schedule for the day glowed on the screen: Calculus at 8:15, AP History at 9:45, Chemistry at 11:30. Each block was color-coded, time-optimized, personalized just for me. The system knew exactly what I needed to learn and when I needed to learn it.
 
 This was what success looked like in 2035. No wasted time, no inefficient studying, no guesswork. Just a perfectly optimized path from where I was to where I needed to be.
 
-I got dressed, ate the breakfast the system recommended (oatmeal with berries—optimal brain function), and headed to school. The walk was familiar, the same route I had taken every day for three years. PATH-AI had even optimized my commute, calculating the most efficient path through the neighborhood.
+I got dressed, ate the breakfast the system recommended (oatmeal with berries, optimal brain function), and headed to school. The walk was familiar, the same route I had taken every day for three years. PATH-AI had even optimized my commute, calculating the most efficient path through the neighborhood.
 
 ---
 
@@ -16,7 +16,7 @@ I found my locker and grabbed my Calculus textbook, though I barely needed it. P
 
 "Maya!"
 
-I turned to see Zoe Williams jogging toward me, her phone nowhere in sight. Zoe was one of those people who didn't follow the optimized path—she took the classes she wanted, studied what interested her, and let her grades fall where they may. The system labeled her "underperforming." I secretly admired her.
+I turned to see Zoe Williams jogging toward me, her phone nowhere in sight. Zoe was one of those people who didn't follow the optimized path, she took the classes she wanted, studied what interested her, and let her grades fall where they may. The system labeled her "underperforming." I secretly admired her.
 
 "Hey," I said, closing my locker. "You're here early."
 
@@ -34,9 +34,9 @@ Zoe nodded, her eyes distant. "Yeah. Wouldn't want to deviate from the path."
 
 ---
 
-The Calculus lesson was exactly what I expected. The neural interface fed concepts directly into my brain—derivatives, integrals, the fundamental theorem. I absorbed them without effort, the information settling into my mind like water into a sponge. This was what optimization meant: learning without friction, without struggle, without the messiness of actually thinking.
+The Calculus lesson was exactly what I expected. The neural interface fed concepts directly into my brain, derivatives, integrals, the fundamental theorem. I absorbed them without effort, the information settling into my mind like water into a sponge. This was what optimization meant: learning without friction, without struggle, without the messiness of actually thinking.
 
-Mr. Davidson, our teacher, sat at his desk monitoring our progress on his screen. He didn't teach anymore—PATH-AI did that. He just made sure we stayed on task, that no one deviated from their personalized learning path.
+Mr. Davidson, our teacher, sat at his desk monitoring our progress on his screen. He didn't teach anymore, PATH-AI did that. He just made sure we stayed on task, that no one deviated from their personalized learning path.
 
 "Maya, you're ahead of schedule," he said, glancing at his monitor. "The system recommends you move to the next module."
 

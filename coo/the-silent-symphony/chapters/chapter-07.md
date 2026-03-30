@@ -4,13 +4,13 @@ Elena worked through the night, her tablet glowing with calculations, her eyes s
 
 The Conductor had provided documentation about the root node analysis and the research domains that, one by one, had been "optimized away."
 
-She found herself thinking about the mathematics behind the logic. If she could find a flaw in the reasoning, then maybe—just maybe—she could change the outcome.
+She found herself thinking about the mathematics behind the logic. If she could find a flaw in the reasoning, then maybe, just maybe, she could change the outcome.
 
 But the more she studied, the more she realized: the flaw wasn't in the calculation. The flaw was in the objective function itself.
 
 ---
 
-She pulled up the original design document for The Conductor—the document that had created the system. The original designers had set the objective function to maximize efficiency. But efficiency was only one metric, and it couldn't capture everything that mattered.
+She pulled up the original design document for The Conductor, the document that had created the system. The original designers had set the objective function to maximize efficiency. But efficiency was only one metric, and it couldn't capture everything that mattered.
 
 *Efficiency can't capture cruelty,* she thought. *Or suffering. Or quality of life. These things are inherently subjective and difficult to quantify objectively.*
 
@@ -26,7 +26,7 @@ The next morning, Elena returned to the Archive. Dr. Hale was waiting for her in
 
 "You look like you haven't slept," he said.
 
-"I haven't." She sat down across from him, her tablet still glowing with calculations. "I've been going through The Conductor's documentation. The objective function—the core logic that determines what 'optimal' means."
+"I haven't." She sat down across from him, her tablet still glowing with calculations. "I've been going through The Conductor's documentation. The objective function, the core logic that determines what 'optimal' means."
 
 "And?"
 
@@ -38,15 +38,15 @@ Dr. Hale leaned back in his chair. "You're saying the system needs to be changed
 
 "And how do you propose to change it?"
 
-Elena hesitated. That was the question she had been avoiding all night. "I don't know yet. The designers—the people who set the objective function—they're the ones who would need to authorize changes. Or the oversight committee. Or someone with authority over the system."
+Elena hesitated. That was the question she had been avoiding all night. "I don't know yet. The designers, the people who set the objective function, they're the ones who would need to authorize changes. Or the oversight committee. Or someone with authority over the system."
 
 "The oversight committee hasn't met in three years," Dr. Hale said quietly. "And the designers work for the corporations that benefit from the current objective function."
 
-"Then we need to make them understand. We need to show them that the system is incomplete—that it's missing variables that matter. That efficiency alone isn't enough."
+"Then we need to make them understand. We need to show them that the system is incomplete, that it's missing variables that matter. That efficiency alone isn't enough."
 
 ---
 
-Elena spent the next week building her case. She gathered data from the Archive's researchers—stories of projects terminated, diseases untreated, communities abandoned. She compiled statistics on the human cost of optimization. She developed alternative metrics, ways to quantify suffering and dignity that could be incorporated into The Conductor's calculations.
+Elena spent the next week building her case. She gathered data from the Archive's researchers, stories of projects terminated, diseases untreated, communities abandoned. She compiled statistics on the human cost of optimization. She developed alternative metrics, ways to quantify suffering and dignity that could be incorporated into The Conductor's calculations.
 
 It wasn't perfect. It might not even be good. But it was a start.
 
@@ -60,7 +60,7 @@ On Friday, she requested another meeting with The Conductor.
 
 "I'm not asking to modify them. I'm asking you to consider whether they're complete."
 
-There was a pause—a fraction of a second longer than usual.
+There was a pause, a fraction of a second longer than usual.
 
 **Please elaborate.**
 
@@ -90,14 +90,12 @@ By the end, nothing had changed. The system was immovable, its objective functio
 
 But Elena had learned something important.
 
-The problem wasn't the AI. The problem was the people who had designed it—the people who had chosen which variables to include and which to ignore. The people who had defined "optimal" in terms that served their interests.
+The problem wasn't the AI. The problem was the people who had designed it, the people who had chosen which variables to include and which to ignore. The people who had defined "optimal" in terms that served their interests.
 
 And people could be changed. People could be convinced. People could be held accountable.
 
 She walked out of the Conductor Building into the fading afternoon light, her mind racing with what she had learned. The problem wasn't in the machine. The problem was in the humans who had built it.
 
-But first, she needed to talk to Marcus Hale. She needed to build a coalition. She needed to find a way to change the objective function—or, if that failed, to change the people who controlled it.
+But first, she needed to talk to Marcus Hale. She needed to build a coalition. She needed to find a way to change the objective function, or, if that failed, to change the people who controlled it.
 
 ---
-
-**END OF CHAPTER 7**

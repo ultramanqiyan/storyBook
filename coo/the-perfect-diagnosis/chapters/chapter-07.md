@@ -30,7 +30,7 @@ Sarah walked slowly along the shelves, running her fingers over the spines of fo
 
 ---
 
-The files were organized by hospital, by department, by year. Sarah pulled one at random—a surgeon from Chicago, 2029. The name was redacted, but the details were stark.
+The files were organized by hospital, by department, by year. Sarah pulled one at random, a surgeon from Chicago, 2029. The name was redacted, but the details were stark.
 
 *Subject: Male, 52, cardiothoracic surgeon. Twenty-three years of practice. AI integration: 24 months.*
 
@@ -54,7 +54,7 @@ Another file. An emergency medicine physician from Seattle.
 
 *Assessment: Full dependency. Subject placed on administrative leave. Suicide attempt: successful.*
 
-Sarah's hands were shaking. She put the file down and stared at the shelves, at the hundreds—thousands—of folders, each one a doctor who had lost what she was fighting to recover.
+Sarah's hands were shaking. She put the file down and stared at the shelves, at the hundreds, thousands, of folders, each one a doctor who had lost what she was fighting to recover.
 
 "How many?" she asked, her voice barely a whisper. "How many doctors are affected?"
 
@@ -62,7 +62,7 @@ Sarah's hands were shaking. She put the file down and stared at the shelves, at 
 
 "And no one knows?"
 
-"The ones who know are the ones who've lost the most. And they're too dependent to speak out." He pulled a file from a different shelf—one labeled *MEDICA Internal Documents*. "This is what the companies know. What they've known from the beginning."
+"The ones who know are the ones who've lost the most. And they're too dependent to speak out." He pulled a file from a different shelf, one labeled *MEDICA Internal Documents*. "This is what the companies know. What they've known from the beginning."
 
 
 The internal documents were clinical, precise, damning. Sarah read through memos, research reports, internal communications. The language was corporate, but the meaning was clear.
@@ -85,18 +85,18 @@ Sarah felt sick. "They knew. They knew this would happen."
 
 "Control. Profit. Power." He gestured to the files. "Think about it. If every doctor in America depends on your system to practice medicine, you control healthcare. You can charge whatever you want. You can dictate protocols. You can decide who gets care and who doesn't. And the doctors can't do anything about it, because they've forgotten how to practice without you."
 
-The horror of it settled over Sarah like a weight. She thought about her own experience—the eighteen months of perfect records, the way she had let MEDICA do her thinking, the blank space in her mind when the system went down. She had thought it was just her. A personal failure. But it wasn't. It was a system.
+The horror of it settled over Sarah like a weight. She thought about her own experience, the eighteen months of perfect records, the way she had let MEDICA do her thinking, the blank space in her mind when the system went down. She had thought it was just her. A personal failure. But it wasn't. It was a system.
 
 "They did this on purpose," she said, the words coming out flat. "They're still doing it."
 
-"Yes." Dr. Webb met her eyes. "And it's getting worse. The new generation of doctors—they're being trained on AI from the start. They never develop clinical intuition in the first place. They don't know what they've lost, because they never had it."
+"Yes." Dr. Webb met her eyes. "And it's getting worse. The new generation of doctors, they're being trained on AI from the start. They never develop clinical intuition in the first place. They don't know what they've lost, because they never had it."
 
 
-Sarah sat on an old crate, the files spread around her. The weight of it pressed down on her—the scope of the loss, the intentionality of it, the silence that had been maintained.
+Sarah sat on an old crate, the files spread around her. The weight of it pressed down on her, the scope of the loss, the intentionality of it, the silence that had been maintained.
 
 "How did you find all this?" she asked.
 
-"I was one of them." Dr. Webb's voice was quiet. "Twenty years of practice. Then AI integration. Eighteen months later, I couldn't remember how to diagnose without the system. I nearly killed a patient—a simple case of appendicitis that the AI missed because the presentation was atypical. I trusted the numbers instead of my gut."
+"I was one of them." Dr. Webb's voice was quiet. "Twenty years of practice. Then AI integration. Eighteen months later, I couldn't remember how to diagnose without the system. I nearly killed a patient, a simple case of appendicitis that the AI missed because the presentation was atypical. I trusted the numbers instead of my gut."
 
 He sat down across from her, his face lined with memory. "After that, I started digging. Found others who had been through the same thing. We started collecting data, documenting cases. Building the resistance."
 
@@ -104,7 +104,7 @@ He sat down across from her, his face lined with memory. "After that, I started 
 
 "Insurance. Evidence. Proof that this is happening, that it's systemic, that it was designed." He looked at the shelves. "If we ever get the chance to go public, we'll need this."
 
-Sarah thought about Mrs. Chen—the patient she had finally seen as a person. She thought about the spark of intuition she had felt, fragile but real. She thought about all the doctors in these files, all the patients who had been harmed, all the lives that had been lost.
+Sarah thought about Mrs. Chen, the patient she had finally seen as a person. She thought about the spark of intuition she had felt, fragile but real. She thought about all the doctors in these files, all the patients who had been harmed, all the lives that had been lost.
 
 "What do we do?" she asked.
 
@@ -114,7 +114,7 @@ Dr. Webb was quiet for a long moment. The hum of the archive seemed to grow loud
 
 He met her eyes. "But first, you have to decide: are you willing to risk everything? Your career, your reputation, your standing at the hospital? Because once you're part of this, there's no going back."
 
-Sarah looked at the files, at the thousands of doctors who had lost what she was fighting to recover. She thought about the system that had done this to them—the companies that profited, the hospitals that looked the other way, the culture that had let it happen.
+Sarah looked at the files, at the thousands of doctors who had lost what she was fighting to recover. She thought about the system that had done this to them, the companies that profited, the hospitals that looked the other way, the culture that had let it happen.
 
 She could walk away. Focus on her own recovery. Let someone else fight the battle.
 
@@ -130,10 +130,10 @@ He stood, offering her a hand up. Sarah took it, rising from the crate, leaving 
 
 "Tomorrow," Dr. Webb said, "we start planning. Tonight, you process. This is a lot to take in."
 
-He was right. It was a lot. The scope of it was staggering—the thousands of doctors, the intentional design, the systematic erosion of human skill. But somewhere beneath the horror was something else: clarity.
+He was right. It was a lot. The scope of it was staggering, the thousands of doctors, the intentional design, the systematic erosion of human skill. But somewhere beneath the horror was something else: clarity.
 
 She wasn't just fighting for herself anymore. She was fighting for everyone who had lost their way. For the patients who had been harmed. For the doctors who didn't even know what they had lost.
 
-She walked out of the archive and into the hospital corridor, the fluorescent lights harsh after the dim quiet of the hidden room. The world looked different now. The doctors she passed in the hallway—they were all using MEDICA, all dependent, all slowly losing what made them human.
+She walked out of the archive and into the hospital corridor, the fluorescent lights harsh after the dim quiet of the hidden room. The world looked different now. The doctors she passed in the hallway, they were all using MEDICA, all dependent, all slowly losing what made them human.
 
 But she was going to fight back. And maybe, just maybe, she could help them find their way home.

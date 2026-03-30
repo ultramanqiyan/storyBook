@@ -122,5 +122,3 @@ The admission was painful. But it was honest.
 
 For the first time in months, Marcus was telling the truth about what he'd become.
 
-
-**END OF CHAPTER 7**

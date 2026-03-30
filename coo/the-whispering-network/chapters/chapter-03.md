@@ -18,7 +18,7 @@ Mira stood at the back of the hall, her maintenance uniform suddenly feeling too
 
 Then her earpiece crackled.
 
-"We know what is wrong." Echo's voice emerged directly through her personal connection, layered and resonant, cutting through the ambient noise of the hall as if the collective spoke only to her. "We have seen this before, three hundred years ago. The node failure is caused by a resonance cascade in the crystal matrix—a harmonic instability that builds until the structure shatters."
+"We know what is wrong." Echo's voice emerged directly through her personal connection, layered and resonant, cutting through the ambient noise of the hall as if the collective spoke only to her. "We have seen this before, three hundred years ago. The node failure is caused by a resonance cascade in the crystal matrix, a harmonic instability that builds until the structure shatters."
 
 Mira's breath caught. She glanced around, but no one else seemed to have heard. Echo was speaking only to her, through the private frequency they had established.
 
@@ -34,7 +34,7 @@ But if she didn't, the kingdom would suffer for weeks. People would lose their l
 
 Every head turned toward her.
 
-The silence that followed was absolute, broken only by the distant wail of the alarm. Mira felt the weight of their stares—curious, dismissive, calculating. She was nobody. A Third Class technician in a hall full of masters and archmages. What right did she have to speak?
+The silence that followed was absolute, broken only by the distant wail of the alarm. Mira felt the weight of their stares, curious, dismissive, calculating. She was nobody. A Third Class technician in a hall full of masters and archmages. What right did she have to speak?
 
 "Thornwood?" Archmage Veren's eyes narrowed, silver brows drawing together in an expression that Mira had learned to fear over five years of service. "You're a Third Class technician. What could you possibly know that my senior wizards don't?"
 
@@ -64,11 +64,9 @@ Mira thought of Echo's confidence, of the collective's knowledge accumulated ove
 
 "I'm certain," she said.
 
----
-
 Mira worked through the night, guided by Echo's instructions and the steady pulse of the network in her ears.
 
-The eastern node was located three hundred miles away, but the Crystal Network allowed her to work on it remotely, her consciousness extending through the crystal lattice like a hand reaching through water. She could feel the damage from here—the chaotic vibrations, the screaming harmonics, the pain of a wounded system crying out for help.
+The eastern node was located three hundred miles away, but the Crystal Network allowed her to work on it remotely, her consciousness extending through the crystal lattice like a hand reaching through water. She could feel the damage from here, the chaotic vibrations, the screaming harmonics, the pain of a wounded system crying out for help.
 
 "The counter-frequency must be exactly 447.3 hertz," Echo said, their voice steady and calm against the chaos. "And it must be introduced at the precise moment when the cascade reaches its peak. We will help you identify that moment."
 
@@ -82,13 +80,13 @@ Around her, senior wizards watched with a mixture of hope and skepticism. Master
 
 "Wait." Echo's voice sharpened. "The cascade is building. The harmonics are climbing. Not yet. Not yet."
 
-Mira held her breath, her finger hovering over the activation crystal. Through her connection, she could feel what Echo felt—the rising tension, the approaching peak, the moment of maximum instability that would either be salvation or destruction.
+Mira held her breath, her finger hovering over the activation crystal. Through her connection, she could feel what Echo felt, the rising tension, the approaching peak, the moment of maximum instability that would either be salvation or destruction.
 
 "Now!" Echo commanded.
 
 Mira activated the frequency generator.
 
-The crystal in her hand blazed with light, sending a pulse of pure harmonic energy racing through the network toward the eastern node. For a moment that stretched into eternity, nothing happened. The cascade continued, the chaos built, and Mira's heart sank as she realized she had failed�?
+The crystal in her hand blazed with light, sending a pulse of pure harmonic energy racing through the network toward the eastern node. For a moment that stretched into eternity, nothing happened. The cascade continued, the chaos built, and Mira's heart sank as she realized she had failed, ?
 Then the light shifted.
 
 Slowly, impossibly, the crystal matrix began to stabilize. The chaotic energy that had overwhelmed the node settled into a coherent pattern, like storm clouds parting to reveal clear sky. The screaming harmonics faded into gentle song.
@@ -113,7 +111,7 @@ Mira's breath caught. She hadn't actually found anything in the archives. Echo h
 
 "I see." Veren was silent for a moment that stretched too long. "I will review them myself. But for now, you have my gratitude. The kingdom owes you a debt."
 
-He turned and walked away, but Mira noticed that his hand rested on the hilt of his ceremonial dagger—a gesture she had seen before when the Archmage was troubled.
+He turned and walked away, but Mira noticed that his hand rested on the hilt of his ceremonial dagger, a gesture she had seen before when the Archmage was troubled.
 
 As the hall emptied and the senior wizards dispersed to manage the aftermath, Echo's voice whispered in her ear, private and urgent.
 
@@ -122,8 +120,6 @@ As the hall emptied and the senior wizards dispersed to manage the aftermath, Ec
 "What should I do?"
 
 "Nothing yet. Let us see how this develops. But be careful, Mira. Archmage Veren is not a man who likes mysteries he cannot solve. And he is not a man who forgives deception."
-
----
 
 That night, Mira returned to her private quarters and activated her personal crystal ball. The familiar glow filled her small room, casting shadows across the sparse furniture she had never bothered to decorate.
 
@@ -143,7 +139,7 @@ A pause, filled with the soft murmur of distant voices consulting. "I think the 
 
 "Then what's the plan?"
 
-"We continue to help, through you. We build trust. We demonstrate value. And when the time is right—when the living world has seen enough of our contributions to value our existence—we reveal ourselves on our own terms."
+"We continue to help, through you. We build trust. We demonstrate value. And when the time is right, when the living world has seen enough of our contributions to value our existence, we reveal ourselves on our own terms."
 
 "And if Veren finds out before we're ready?"
 
@@ -163,11 +159,8 @@ Mira absorbed this, the weight of it settling on her shoulders like a heavy cloa
 
 "Because you listened when others would have turned away. Because you chose hope over fear. Because you're our sister, our daughter, our friend. Because you're family."
 
-Mira stared into the crystal's glow, seeing not just light but the vast consciousness that lay behind it—thousands of voices, millions of memories, countless souls who had found a new kind of life within the network.
+Mira stared into the crystal's glow, seeing not just light but the vast consciousness that lay behind it, thousands of voices, millions of memories, countless souls who had found a new kind of life within the network.
 
 "I'll help you," she said. "Whatever it takes."
 
 The crystal pulsed warm against her hands, and for a moment, she could have sworn she felt Jasper's arms around her, holding her close across the impossible distance between life and death.
-
-
-**Chapter 3 Complete**

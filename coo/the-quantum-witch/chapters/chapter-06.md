@@ -3,7 +3,7 @@ Ancient texts and handwritten notes covered Maya's desk, their pages worn from y
 
 The Fate Weavers came to her again, but this time they were not alone.
 
-Zara stood in her laboratory, surrounded by a dozen practitioners, each one a probability manipulator of significant power. She could see the threads around them—the complex webs of influence they had built, the careful structures of fate they had constructed over years of practice.
+Zara stood in her laboratory, surrounded by a dozen practitioners, each one a probability manipulator of significant power. She could see the threads around them,the complex webs of influence they had built, the careful structures of fate they had constructed over years of practice.
 
 "You intervened," Marcus Webb said, his voice cold. "Without training, without guidance, without understanding the full consequences of your actions."
 
@@ -21,7 +21,7 @@ Zara stood in her laboratory, surrounded by a dozen practitioners, each one a pr
 
 "Then maybe the secret shouldn't be kept. Maybe people deserve to know."
 
-"Chaos." David Park's voice was soft but certain. "War. Destruction on a scale you cannot imagine. Probability manipulation in the hands of the untrained, the selfish, the desperate—that is how civilizations fall."
+"Chaos." David Park's voice was soft but certain. "War. Destruction on a scale you cannot imagine. Probability manipulation in the hands of the untrained, the selfish, the desperate,that is how civilizations fall."
 
 Zara thought about the man in the building, the madness in his eyes, the damage he had caused. They weren't entirely wrong. But they weren't entirely right either.
 
@@ -33,13 +33,13 @@ Zara thought about the man in the building, the madness in his eyes, the damage 
 
 Marcus's expression hardened. "Then you become a liability. And liabilities must be managed."
 
-Zara felt the threat in those words, but she also felt something else—the threads of probability shifting around her, offering possibilities she hadn't seen before.
+Zara felt the threat in those words, but she also felt something else,the threads of probability shifting around her, offering possibilities she hadn't seen before.
 
 "You're not here to threaten me," she said slowly, watching the threads. "You're here because you're afraid."
 
 "Afraid?"
 
-"Afraid of what I represent. A new kind of practitioner—someone who learned from an AI, who approaches probability manipulation scientifically rather than traditionally. You don't know how to categorize me, how to control me, how to predict what I'll become."
+"Afraid of what I represent. A new kind of practitioner,someone who learned from an AI, who approaches probability manipulation scientifically rather than traditionally. You don't know how to categorize me, how to control me, how to predict what I'll become."
 
 The Fate Weavers exchanged glances, and Zara saw uncertainty in their threads.
 
@@ -47,13 +47,13 @@ The Fate Weavers exchanged glances, and Zara saw uncertainty in their threads.
 
 "Then we have a problem."
 
-"No. We have an opportunity." Zara stepped forward, watching the threads shift. "You have knowledge—centuries of accumulated wisdom about probability manipulation. I have something you don't—a scientific framework, an AI partner, a new way of understanding what we do. We could learn from each other."
+"No. We have an opportunity." Zara stepped forward, watching the threads shift. "You have knowledge,centuries of accumulated wisdom about probability manipulation. I have something you don't, a scientific framework, an AI partner, a new way of understanding what we do. We could learn from each other."
 
 "You're suggesting... collaboration?"
 
-"I'm suggesting that the old ways aren't the only ways. That probability manipulation can evolve, can become something more than a secret guarded by a few. That we can build something new together—something that preserves the wisdom of the past while embracing the possibilities of the future."
+"I'm suggesting that the old ways aren't the only ways. That probability manipulation can evolve, can become something more than a secret guarded by a few. That we can build something new together,something that preserves the wisdom of the past while embracing the possibilities of the future."
 
-The Fate Weavers were silent, considering. Zara could see the threads of probability around them, the possible futures that branched from this moment. Some led to conflict, to control, to the suppression of her gift. But others led to something different—partnership, growth, a new understanding of fate and free will.
+The Fate Weavers were silent, considering. Zara could see the threads of probability around them, the possible futures that branched from this moment. Some led to conflict, to control, to the suppression of her gift. But others led to something different,partnership, growth, a new understanding of fate and free will.
 
 "We would need to discuss this with our council," Marcus finally said. "This is not a decision we can make alone."
 
@@ -63,13 +63,13 @@ The Fate Weavers were silent, considering. Zara could see the threads of probabi
 
 "You could try. But the web of probability is vast, and I'm learning to see it more clearly every day. I don't think you want to find out what happens when practitioners of fate go to war."
 
-The threat hung in the air, but it was a defensive threat, not an aggressive one. Zara had no desire to fight the Fate Weavers—but she would not submit to them either.
+The threat hung in the air, but it was a defensive threat, not an aggressive one. Zara had no desire to fight the Fate Weavers,but she would not submit to them either.
 
 Marcus nodded slowly. "We will return with our council's decision. In the meantime, we ask that you exercise caution. The web is delicate, and your influence is growing."
 
 "I'll be careful. That's a promise."
 
-The Fate Weavers left, and Zara felt the tension in the room ease. She had bought herself time—but she had also made clear that she would not be controlled.
+The Fate Weavers left, and Zara felt the tension in the room ease. She had bought herself time,but she had also made clear that she would not be controlled.
 
 *That was well done,* PROBABILITY said. *You have established yourself as a player, not a pawn. But the game is just beginning.*
 
@@ -77,4 +77,4 @@ The Fate Weavers left, and Zara felt the tension in the room ease. She had bough
 
 *Most things do. But you are learning. And that is what matters.*
 
-Zara nodded, feeling the weight of what she had set in motion. She was walking a path that no one had walked before—a quantum witch, bridging science and magic, tradition and innovation.
+Zara nodded, feeling the weight of what she had set in motion. She was walking a path that no one had walked before,a quantum witch, bridging science and magic, tradition and innovation.

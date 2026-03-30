@@ -16,13 +16,13 @@ David listened, something resonating in his chest.
 
 "Perfect is forgettable." Thomas's voice was thoughtful. "I can't tell you how many AI-generated emails I've received that were technically excellent but completely unmemorable. But the ones that stick with me? The ones that feel like they came from an actual person? Those are rare. And valuable."
 
-David thought about his own emails—the AI-generated ones that were polished and effective, and his own that were imperfect and genuine.
+David thought about his own emails, the AI-generated ones that were polished and effective, and his own that were imperfect and genuine.
 
 "Can I ask you something?" David said.
 
 "Of course."
 
-"If you had to choose between an email that was polished but AI-generated, or one that was imperfect but genuine—which would you prefer?"
+"If you had to choose between an email that was polished but AI-generated, or one that was imperfect but genuine, which would you prefer?"
 
 Thomas didn't hesitate. "The genuine one. Every time."
 
@@ -36,7 +36,7 @@ The call ended with an agreement to move forward.
 
 David sat at his desk, processing what Thomas had said.
 
-For weeks, he'd been measuring success by metrics—response rates, close rates, efficiency gains. The numbers told him the AI was better. The data was clear.
+For weeks, he'd been measuring success by metrics, response rates, close rates, efficiency gains. The numbers told him the AI was better. The data was clear.
 
 But Thomas had offered a different metric: memorability. Connection. The feeling that there was a person behind the communication.
 
@@ -46,7 +46,7 @@ And by that metric, the AI wasn't better at all. It was worse.
 
 He started paying attention.
 
-Over the next week, he noticed something he hadn't seen before. The AI-generated emails got responses—often positive, sometimes enthusiastic. But the responses were... generic. Polished. Professional.
+Over the next week, he noticed something he hadn't seen before. The AI-generated emails got responses, often positive, sometimes enthusiastic. But the responses were... generic. Polished. Professional.
 
 The emails he wrote himself got different responses. Longer. More personal. More engaged.
 
@@ -58,7 +58,7 @@ Or:
 
 *David,*
 
-*Your email made me laugh. That story about the cracked mug—my dad has one just like it. He refuses to get rid of it too.*
+*Your email made me laugh. That story about the cracked mug, my dad has one just like it. He refuses to get rid of it too.*
 
 The AI emails generated transactions. His own emails generated conversations.
 
@@ -80,7 +80,7 @@ He thought about how to answer. "I'm trying something different."
 
 "Less AI. More me."
 
-Rachel's expression was unreadable. "David, I've told you before—the company expects us to use the tools they provide. If your metrics slip too much, there will be questions."
+Rachel's expression was unreadable. "David, I've told you before, the company expects us to use the tools they provide. If your metrics slip too much, there will be questions."
 
 "I understand."
 
@@ -106,7 +106,7 @@ She left, and David sat alone with the question.
 
 That night, he looked at the cracked mug.
 
-It had been sitting on his desk for eight years. The crack had appeared in year two—he'd dropped it on a particularly bad day, when a major deal had fallen through and he'd questioned everything about his career.
+It had been sitting on his desk for eight years. The crack had appeared in year two, he'd dropped it on a particularly bad day, when a major deal had fallen through and he'd questioned everything about his career.
 
 He could have thrown it away. He could have replaced it with something better, something unblemished.
 
@@ -122,7 +122,7 @@ The next morning, he made a decision.
 
 He would write every email himself for one week. No AI. No SalesPilot. Just his own imperfect, unpolished, genuine voice.
 
-He would track the results—not just the metrics, but the quality of the responses. The depth of the connections. The feeling of being a person rather than a template.
+He would track the results, not just the metrics, but the quality of the responses. The depth of the connections. The feeling of being a person rather than a template.
 
 And at the end of the week, he would decide.
 
@@ -136,7 +136,7 @@ His metrics had dropped. Response rates were down. Close rates were down. Effici
 
 But something else had changed.
 
-The responses he'd received were longer, more personal, more engaged. Clients were sharing stories, asking questions, building connections. The conversations felt different—less transactional, more human.
+The responses he'd received were longer, more personal, more engaged. Clients were sharing stories, asking questions, building connections. The conversations felt different, less transactional, more human.
 
 And for the first time in months, David felt like himself.
 

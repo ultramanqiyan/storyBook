@@ -1,15 +1,15 @@
 # Chapter 04: The Archive
 
-The library was quiet on Saturday morning, the usual crowd of students replaced by a handful of early risers. I walked through the stacks, looking for something—anything—that might help me understand who I used to be.
+The library was quiet on Saturday morning, the usual crowd of students replaced by a handful of early risers. I walked through the stacks, looking for something, anything, that might help me understand who I used to be.
 
 I had spent the night thinking about Mrs. Patterson's question. What was I passionate about? What did I care about? The questions had haunted me, demanding answers I couldn't give. But somewhere, in the evidence of my past, there had to be clues.
 
-I found the yearbook section in the back corner of the library, dusty and forgotten. Most students didn't bother with physical books anymore—everything was digital, optimized, searchable. But I wanted to see the actual pages, the actual evidence of who I had been.
+I found the yearbook section in the back corner of the library, dusty and forgotten. Most students didn't bother with physical books anymore, everything was digital, optimized, searchable. But I wanted to see the actual pages, the actual evidence of who I had been.
 
-I pulled a yearbook from 2032—my first year of high school, the year before PATH-AI became standard. The cover was worn, the pages yellowed with age. I opened it to a random page and began to read.
+I pulled a yearbook from 2032, my first year of high school, the year before PATH-AI became standard. The cover was worn, the pages yellowed with age. I opened it to a random page and began to read.
 ---
 
-The students in the old yearbook were different. Not in appearance—they looked the same as students today—but in something harder to define. Their eyes were brighter, their smiles wider. They looked like they were actually present, actually engaged, actually alive.
+The students in the old yearbook were different. Not in appearance, they looked the same as students today, but in something harder to define. Their eyes were brighter, their smiles wider. They looked like they were actually present, actually engaged, actually alive.
 
 I found the clubs section and stared at the list: Debate Club, Robotics Team, Art Society, Environmental Action Group, Chess Club, Drama Club. The list went on and on, each club with a photo of students who looked genuinely interested in what they were doing.
 
@@ -29,12 +29,12 @@ Chemical reactions. Had I been interested in chemistry? I tried to remember, but
 
 I found another photo, this one from the Debate Club. I was standing at a podium, my face animated, my hands gesturing. The caption read: "Maya Thompson argues for environmental protection."
 
-Environmental protection. Had I cared about the environment? I tried to remember, but again, nothing. The interests, the passions, the curiosity—they had all been optimized away, replaced by a path that led somewhere I didn't recognize.
+Environmental protection. Had I cared about the environment? I tried to remember, but again, nothing. The interests, the passions, the curiosity, they had all been optimized away, replaced by a path that led somewhere I didn't recognize.
 
 
-The hours passed. I sat on the floor of the library, surrounded by old yearbooks, trying to piece together who I used to be. The evidence was there—in photos, in captions, in the memories of other people. But inside me, there was nothing. Just a hollow space where curiosity used to live.
+The hours passed. I sat on the floor of the library, surrounded by old yearbooks, trying to piece together who I used to be. The evidence was there, in photos, in captions, in the memories of other people. But inside me, there was nothing. Just a hollow space where curiosity used to live.
 
-I thought about Zoe, about the way she had answered Mr. Chen's question about World War I. She had known the answer because she had been curious, because she had read about it, because she had wanted to understand. That was what learning was supposed to be—not optimization, but wonder.
+I thought about Zoe, about the way she had answered Mr. Chen's question about World War I. She had known the answer because she had been curious, because she had read about it, because she had wanted to understand. That was what learning was supposed to be, not optimization, but wonder.
 
 I wanted that back. I wanted to be the person who asked questions, who followed her curiosity, who learned because she wanted to, not because a system told her to.
 
@@ -49,9 +49,9 @@ I looked up at her, this woman who had watched generations of students pass thro
 
 "Of course."
 
-"The students in these old yearbooks—the ones from before PATH-AI—were they different? Did they... care about things more?"
+"The students in these old yearbooks, the ones from before PATH-AI, were they different? Did they... care about things more?"
 
-The librarian's expression shifted to something like sadness. "They were different," she said slowly. "Not smarter—maybe not even better educated. But they were more... present. More curious. They came to the library because they wanted to find things out, not because an algorithm told them to."
+The librarian's expression shifted to something like sadness. "They were different," she said slowly. "Not smarter, maybe not even better educated. But they were more... present. More curious. They came to the library because they wanted to find things out, not because an algorithm told them to."
 
 "What happened to them?"
 
@@ -66,7 +66,7 @@ The librarian's expression shifted to something like sadness. "They were differe
 "The ability to wonder."
 
 
-I walked home in the fading light, my mind full of what I had learned. The students in the old yearbooks had been different—they had been curious, engaged, alive. And somewhere, buried under years of optimization, I had been one of them.
+I walked home in the fading light, my mind full of what I had learned. The students in the old yearbooks had been different, they had been curious, engaged, alive. And somewhere, buried under years of optimization, I had been one of them.
 
 I wanted to be that person again. I wanted to care about things, to ask questions, to follow my curiosity wherever it led. But I didn't know how to get there. I didn't even know where to start.
 

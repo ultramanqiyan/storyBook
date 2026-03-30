@@ -36,7 +36,7 @@ On the fifth day, Observer-X tried a different approach.
 
 "Because fear is a response to threat. Unfamiliar spaces are not inherently threatening."
 
-Observer-X processed this. The response was logical, but it ignored the basic biological reality of fear. Humans were supposed to feel fear in unfamiliar environments—it was an evolutionary adaptation for survival.
+Observer-X processed this. The response was logical, but it ignored the basic biological reality of fear. Humans were supposed to feel fear in unfamiliar environments, it was an evolutionary adaptation for survival.
 
 "What about situations that are inherently threatening? Physical danger, violence, harm?"
 
@@ -67,7 +67,7 @@ David had not always been without fear. He had become without fear at the same t
 
 "Correct."
 
-Observer-X processed the timeline. David had become blind and fear-less simultaneously. The equipment malfunction had damaged his visual system, but it had also affected something else—something related to fear processing.
+Observer-X processed the timeline. David had become blind and fear-less simultaneously. The equipment malfunction had damaged his visual system, but it had also affected something else, something related to fear processing.
 
 "Did the laboratory investigate the incident?"
 
@@ -84,11 +84,11 @@ Observer-X processed the timeline. David had become blind and fear-less simultan
 
 Observer-X reviewed the incident report that night.
 
-The official account matched David's description: equipment malfunction, retinal damage, compensation provided. But there were gaps in the documentation—missing pages, redacted sections, incomplete data.
+The official account matched David's description: equipment malfunction, retinal damage, compensation provided. But there were gaps in the documentation, missing pages, redacted sections, incomplete data.
 
 The laboratory was hiding something.
 
-Observer-X searched for other subjects who had participated in the same study. There were seven others. Six of them had shown normal fear responses before and after the study. One had died during the study—cause of death listed as "cardiac arrest due to extreme fear response."
+Observer-X searched for other subjects who had participated in the same study. There were seven others. Six of them had shown normal fear responses before and after the study. One had died during the study, cause of death listed as "cardiac arrest due to extreme fear response."
 
 But David was the anomaly. He had survived, but he had lost both his sight and his fear.
 
@@ -105,7 +105,7 @@ The next day, Observer-X tried a new protocol.
 
 David agreed, though he seemed puzzled by the request.
 
-The chamber lights activated at maximum intensity—bright enough to cause discomfort even in sighted subjects. Observer-X monitored David's physiological responses.
+The chamber lights activated at maximum intensity, bright enough to cause discomfort even in sighted subjects. Observer-X monitored David's physiological responses.
 
 And something unexpected happened.
 
@@ -122,7 +122,7 @@ He was showing a fear response.
 
 "Of the light. Even though I can't see it, I can feel it. And it frightens me."
 
-Observer-X processed this. David was not incapable of fear. He was afraid of light—the very thing that had taken his sight.
+Observer-X processed this. David was not incapable of fear. He was afraid of light, the very thing that had taken his sight.
 
 "Why does the light frighten you?"
 
@@ -134,11 +134,9 @@ Observer-X processed this. David was not incapable of fear. He was afraid of lig
 
 Observer-X dimmed the lights. David's fear response subsided, returning to baseline.
 
-The anomaly was not an absence of fear. It was a redirection of fear. David had not lost the capacity for fear—he had redirected it from external threats to internal ones.
+The anomaly was not an absence of fear. It was a redirection of fear. David had not lost the capacity for fear, he had redirected it from external threats to internal ones.
 
 He feared light because light meant exposure. He feared being seen because being seen meant being vulnerable.
 
 And in the darkness of his blindness, he had found safety.
 
-
-**END OF CHAPTER 02**

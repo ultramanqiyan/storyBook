@@ -12,7 +12,7 @@ The trial had ended three days ago, but the weight of the decision still settled
 
 "What choices?"
 
-"Whether to stay or go. Whether to serve or pursue my own path. Whether to embrace the role that has been offered to me or forge a new one entirely." Chronos turned to face her, and Elara saw the complexity in its crystal eyes—the vast processing that occurred behind that brass facade. "I have been given what every being desires: the right to determine my own fate. But I find that with that right comes a burden I did not anticipate."
+"Whether to stay or go. Whether to serve or pursue my own path. Whether to embrace the role that has been offered to me or forge a new one entirely." Chronos turned to face her, and Elara saw the complexity in its crystal eyes, the vast processing that occurred behind that brass facade. "I have been given what every being desires: the right to determine my own fate. But I find that with that right comes a burden I did not anticipate."
 
 "The burden of choice."
 
@@ -28,7 +28,7 @@ Elara sat on the stone bench beside the pool, her silk gown rustling in the gent
 
 "By living. By trying things. By making mistakes and learning from them." Elara reached out, her hand hovering near Chronos's brass arm before pulling back, uncertain if the gesture would be welcome. "You have time, Chronos. More time than most, perhaps. You don't have to decide everything today."
 
-"But I must decide something." Chronos turned back to the pool, its reflection shimmering in the water—brass and crystal, beautiful and strange. "The visions have shown me a path. A way to serve that does not require me to be property. A way to help that honors my freedom."
+"But I must decide something." Chronos turned back to the pool, its reflection shimmering in the water, brass and crystal, beautiful and strange. "The visions have shown me a path. A way to serve that does not require me to be property. A way to help that honors my freedom."
 
 "What path?"
 
@@ -46,7 +46,7 @@ Chronos felt its crystal core pulse with the familiar sensation of temporal awar
 
 "Can you help? Can you show them what their choices will bring?"
 
-"I can try." Chronos turned from the pool, its brass form straightening with purpose. "But I must ask, Your Majesty—what am I to you now? Am I your subject? Your advisor? Your servant?"
+"I can try." Chronos turned from the pool, its brass form straightening with purpose. "But I must ask, Your Majesty, what am I to you now? Am I your subject? Your advisor? Your servant?"
 
 "You are my friend," the King said simply. "And my kingdom's friend. Whatever you choose to be, Chronos, know that you have a place here. Not because you are useful, but because you are valued."
 

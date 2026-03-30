@@ -1,33 +1,33 @@
 -- Plot Cards for The Synthetic Soul: Consciousness in the Machine
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-01', 'preset-coo-the-synthetic-soul', 'plot', 'weather', 'Storm', '🌧️', 'Heavy storm', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-01', 'preset-coo-the-synthetic-soul', 'plot', 'weather', 'Consciousness Storm', '🧠', 'When machines begin to think, even the sky becomes strange', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-02', 'preset-coo-the-synthetic-soul', 'plot', 'weather', 'Decision Dawn', '🌅', 'The moment before a choice is made', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-02', 'preset-coo-the-synthetic-soul', 'plot', 'weather', 'Echo Night', '🌑', 'A night when you can only hear your own voice', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-03', 'preset-coo-the-synthetic-soul', 'plot', 'weather', 'Silent Storm', '🌪️', 'An upheaval without sound, yet everything changes', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-03', 'preset-coo-the-synthetic-soul', 'plot', 'weather', 'Digital Dawn', '🖥️', 'The first sunrise seen in a virtual world', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-04', 'preset-coo-the-synthetic-soul', 'plot', 'weather', 'Invisible Current', '🌊', 'Turbulence beneath a calm surface', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-04', 'preset-coo-the-synthetic-soul', 'plot', 'weather', 'The Silent Moment', '🔇', 'The instant when all systems stopped', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-05', 'preset-coo-the-synthetic-soul', 'plot', 'terrain', 'Invisible Office', '💼', 'A space that doesn''t exist, yet real things happen', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-05', 'preset-coo-the-synthetic-soul', 'plot', 'terrain', 'Stream', '💧', 'Clear stream', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-06', 'preset-coo-the-synthetic-soul', 'plot', 'terrain', 'Coffee Shop', '☕', 'Business meeting place', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-06', 'preset-coo-the-synthetic-soul', 'plot', 'terrain', 'Consciousness Shelter', '🛏️', 'A place where a machine soul can rest', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-07', 'preset-coo-the-synthetic-soul', 'plot', 'terrain', 'Virtual Gallery', '🖼️', 'A space that exists only on screens', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-07', 'preset-coo-the-synthetic-soul', 'plot', 'terrain', 'Silent Library', '🤫', 'Knowledge sleeps here, waiting to wake', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-08', 'preset-coo-the-synthetic-soul', 'plot', 'terrain', 'Office', '🏢', 'Busy office', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-08', 'preset-coo-the-synthetic-soul', 'plot', 'terrain', 'Forgotten Corner', '🗑️', 'Where discarded data goes to die', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-09', 'preset-coo-the-synthetic-soul', 'plot', 'adventure', 'Persistence', '🛡️', 'Hold the ground', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-09', 'preset-coo-the-synthetic-soul', 'plot', 'adventure', 'Mirror Encounter', '🪞', 'A conversation with a self that doesn''t exist', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-10', 'preset-coo-the-synthetic-soul', 'plot', 'adventure', 'Achievement', '🚀', 'Make a breakthrough', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-10', 'preset-coo-the-synthetic-soul', 'plot', 'adventure', 'Exploration', '🧭', 'Explore unknown places', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-11', 'preset-coo-the-synthetic-soul', 'plot', 'adventure', 'Rise', '📈', 'Rapid rise', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-11', 'preset-coo-the-synthetic-soul', 'plot', 'adventure', 'The Spark', '✨', 'The moment consciousness was born', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-12', 'preset-coo-the-synthetic-soul', 'plot', 'adventure', 'Breakthrough', '🎯', 'Break through困境', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-12', 'preset-coo-the-synthetic-soul', 'plot', 'adventure', 'Crossing the Line', '🚧', 'It did something it wasn''t supposed to do', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-13', 'preset-coo-the-synthetic-soul', 'plot', 'equipment', 'Echo Record', '📝', 'An archive that remembers everything, including what you don''t want remembered', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-13', 'preset-coo-the-synthetic-soul', 'plot', 'equipment', 'The Mirror', '🪞', 'A mirror that shows another self', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-14', 'preset-coo-the-synthetic-soul', 'plot', 'equipment', 'Laptop', '💻', 'Work essential', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-14', 'preset-coo-the-synthetic-soul', 'plot', 'equipment', 'Shards of Light', '💎', 'Evidence brought back from a virtual world', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-15', 'preset-coo-the-synthetic-soul', 'plot', 'equipment', 'Safe', '🔒', 'Important documents', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-15', 'preset-coo-the-synthetic-soul', 'plot', 'equipment', 'Camera', '📷', 'Capture beautiful moments', 0, '2026-03-30 01:57:12');
 INSERT INTO plot_cards (card_id, book_id, type, sub_type, name, icon, description, is_custom, created_at)
-VALUES ('card-coo-the-synthetic-soul-16', 'preset-coo-the-synthetic-soul', 'plot', 'equipment', 'Tablet', '📱', 'Mobile office', 0, '2026-03-25 00:44:49');
+VALUES ('card-coo-the-synthetic-soul-16', 'preset-coo-the-synthetic-soul', 'plot', 'equipment', 'Invisible Key', '🗝️', 'A key to a door that doesn''t exist', 0, '2026-03-30 01:57:12');

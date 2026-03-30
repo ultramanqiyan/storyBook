@@ -2,13 +2,13 @@
 
 The company holiday party was a disaster.
 
-Marcus had attended dozens of these events over the years. In the past, he'd been good at them—working the room, making connections, building relationships.
+Marcus had attended dozens of these events over the years. In the past, he'd been good at them, working the room, making connections, building relationships.
 
 But that was before ConnectHub had taken over his social life.
 
 ---
 
-He walked into the party without AI assistance. ConnectHub didn't work well in real-time social situations—the processing lag was too obvious, the responses too delayed.
+He walked into the party without AI assistance. ConnectHub didn't work well in real-time social situations, the processing lag was too obvious, the responses too delayed.
 
 So he was on his own. For the first time in years.
 
@@ -47,5 +47,3 @@ The insight was devastating. But it was also true.
 He opened ConnectHub and typed: "Analyze party interaction failure. Provide recommendations for future social situations."
 
 The AI responded immediately with a detailed analysis. And Marcus felt the familiar relief of letting AI handle what he couldn't.
-
-**END OF CHAPTER 4**

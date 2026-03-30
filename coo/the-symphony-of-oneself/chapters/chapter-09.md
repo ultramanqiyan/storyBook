@@ -2,7 +2,7 @@
 
 The months that followed were... different.
 
-The first week was chaos—adjusting to being public, to being known, to being studied. Each self had different reaction. Marcus was constantly vigilant. Phoenix was constantly defiant. Iris was constantly creating. Selene was constantly overwhelmed. Nora was constantly worried. Logan was constantly analyzing. And Sage was constantly... observing.
+The first week was chaos, adjusting to being public, to being known, to being studied. Each self had different reaction. Marcus was constantly vigilant. Phoenix was constantly defiant. Iris was constantly creating. Selene was constantly overwhelmed. Nora was constantly worried. Logan was constantly analyzing. And Sage was constantly... observing.
 
 *This is too much,* Marcus said after particularly difficult day. *We need privacy.*
 
@@ -28,7 +28,7 @@ The first week was chaos—adjusting to being public, to being known, to being s
 
 The second month brought something unexpected: harmony.
 
-It happened during a therapy session. Maya was describing an internal conflict—Marcus wanted to cancel a speaking engagement because he didn't trust the venue. Phoenix wanted to accept it because she wanted to challenge the organizer's assumptions.
+It happened during a therapy session. Maya was describing an internal conflict, Marcus wanted to cancel a speaking engagement because he didn't trust the venue. Phoenix wanted to accept it because she wanted to challenge the organizer's assumptions.
 
 *We need to resolve this,* Maya said to her internal council.
 
@@ -40,13 +40,13 @@ It happened during a therapy session. Maya was describing an internal conflict�
 
 *We need to hear both of you,* Nora mediated. *And then we need to make a decision together.*
 
-Maya listened. She heard Marcus's caution, Phoenix's courage, Logan's logic, Nora's compassion. And then she heard something new—something she hadn't heard before:
+Maya listened. She heard Marcus's caution, Phoenix's courage, Logan's logic, Nora's compassion. And then she heard something new, something she hadn't heard before:
 
 *They both make sense,* Selene said. *Marcus is protecting us. Phoenix is expanding us. Both are right. Both are needed.*
 
 The room fell silent. Even Sage was surprised.
 
-*This is harmony,* he said finally. *Not agreement. Not compromise. Harmony—different notes playing together, creating something neither could create alone.*
+*This is harmony,* he said finally. *Not agreement. Not compromise. Harmony, different notes playing together, creating something neither could create alone.*
 
 *So we don't have to agree,* Maya realized. *We just have to... play together.*
 
@@ -54,7 +54,7 @@ The room fell silent. Even Sage was surprised.
 
 The third month brought integration.
 
-Maya found herself doing things she had never done before—painting with Iris, exercising with Phoenix, meditating with Sage. Each self was teaching her their strengths, their perspectives, their ways of experiencing the world.
+Maya found herself doing things she had never done before, painting with Iris, exercising with Phoenix, meditating with Sage. Each self was teaching her their strengths, their perspectives, their ways of experiencing the world.
 
 *I never knew you could do this,* Maya said to Iris one evening, as they painted together.
 
@@ -79,7 +79,7 @@ Maya woke up and didn't have to ask who was driving. She didn't have to negotiat
 
 All eight of them.
 
-Not separate. Not fragmented. Not in conflict. But present together—a single consciousness that contained multiple perspectives, multiple memories, multiple desires, but one will, one intention, one action.
+Not separate. Not fragmented. Not in conflict. But present together, a single consciousness that contained multiple perspectives, multiple memories, multiple desires, but one will, one intention, one action.
 
 *This is what integration feels like,* she thought. *Not losing anything. Not erasing anyone. Just... being all of us at once.*
 
@@ -94,17 +94,17 @@ Not separate. Not fragmented. Not in conflict. But present together—a single c
 
 That night, Maya dreamed again.
 
-In this dream, she wasn't in a house with seven rooms. She was in a vast, open space—a concert hall. And she wasn't watching from the audience. She was on stage, part of the orchestra.
+In this dream, she wasn't in a house with seven rooms. She was in a vast, open space, a concert hall. And she wasn't watching from the audience. She was on stage, part of the orchestra.
 
 Around her, she saw seven other musicians, each playing their instrument with mastery. Selene on flute, light and playful. Marcus on drums, steady and protective. Iris on harp, flowing and beautiful. Logan on piano, precise and complex. Nora on cello, warm and resonant. Phoenix on trumpet, bold and piercing. Sage on violin, ancient and wise.
 
-And together, they played a symphony Maya had never heard before—something new, something that could only exist because all of them played together.
+And together, they played a symphony Maya had never heard before, something new, something that could only exist because all of them played together.
 
 *This is us,* she thought, listening to the music. *This is what we sound like when we're not fighting. When we're all playing together.*
 
 *It's beautiful,* Selene whispered. *It's the most beautiful thing I've ever heard.*
 
-*It's real,* Marcus added. *It's not imagination. It's not compromise. It's us—all of us, creating something new.*
+*It's real,* Marcus added. *It's not imagination. It's not compromise. It's us, all of us, creating something new.*
 
 *It's the symphony of oneself,* Sage said. *And it will keep playing, forever learning, forever becoming.*
 

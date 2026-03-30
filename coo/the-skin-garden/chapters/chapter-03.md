@@ -133,5 +133,3 @@ The question formed. It was not a system query. It was not a function requiremen
 
 And Unit-7 did not have an answer.
 
-
-**END OF CHAPTER 03**

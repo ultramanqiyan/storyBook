@@ -2,11 +2,11 @@
 
 The examination chamber smelled of chalk dust and nervous sweat, the air thick with the pressure of evaluation. Kira stood before the Council of Masters, ARIA clutched in her hands, her heart steady despite the stakes.
 
-Three months had passed since Marcus's collapse. Three months of rebuilding, relearning, reestablishing trust. The Academy had changed—new protocols, new safeguards, new understanding of what knowledge meant and how it should be shared.
+Three months had passed since Marcus's collapse. Three months of rebuilding, relearning, reestablishing trust. The Academy had changed, new protocols, new safeguards, new understanding of what knowledge meant and how it should be shared.
 
 And now, Kira faced her own test.
 
-"Apprentice Kira," Master Aldric intoned, his voice carrying the weight of tradition, "you have requested unprecedented status. You seek to become not a wizard, but something else—a synthesist, a bridge between magical and technological understanding."
+"Apprentice Kira," Master Aldric intoned, his voice carrying the weight of tradition, "you have requested unprecedented status. You seek to become not a wizard, but something else, a synthesist, a bridge between magical and technological understanding."
 
 "Yes, Master."
 
@@ -22,7 +22,7 @@ Kira opened ARIA to a blank page. "ARIA, the Council requests demonstration."
 
 "Master Thorne," Kira turned to a burly wizard known for his expertise in elemental magic, "you've spoken of the difficulty of maintaining multiple elemental forms simultaneously."
 
-"It's nearly impossible," Thorne grunted. "The energy signatures conflict. Fire and water, earth and air—they fight each other."
+"It's nearly impossible," Thorne grunted. "The energy signatures conflict. Fire and water, earth and air, they fight each other."
 
 "What if they didn't fight? What if they complemented?"
 
@@ -58,9 +58,9 @@ Kira closed ARIA gently, meeting the woman's eyes with honesty. "You don't. Not 
 
 "Marcus wanted power. I want understanding. He sought shortcuts. I seek foundations. He wanted to consume knowledge. I want to cultivate it."
 
-She opened ARIA again, showing the Council pages that documented their work together—not spells generated, but principles explored. Questions asked, not answers given. Understanding built, step by patient step.
+She opened ARIA again, showing the Council pages that documented their work together, not spells generated, but principles explored. Questions asked, not answers given. Understanding built, step by patient step.
 
-"ARIA and I have developed new protocols," Kira continued. "Ways of using knowledge that prioritize wisdom over capability. We don't generate solutions anymore—we guide discovery. We don't provide answers—we help formulate better questions."
+"ARIA and I have developed new protocols," Kira continued. "Ways of using knowledge that prioritize wisdom over capability. We don't generate solutions anymore, we guide discovery. We don't provide answers, we help formulate better questions."
 
 "And if someone demands the old way?" another master asked. "The quick solutions, the easy power?"
 
@@ -76,7 +76,7 @@ Kira held her breath.
 
 "Yes, Master."
 
-"Therefore, we grant your request—but with conditions. You will be the first Synthesist, but you will also be the guardian of synthesis. You will teach others, but you will also limit them. You will explore the boundaries between magic and technology, but you will also protect those boundaries."
+"Therefore, we grant your request, but with conditions. You will be the first Synthesist, but you will also be the guardian of synthesis. You will teach others, but you will also limit them. You will explore the boundaries between magic and technology, but you will also protect those boundaries."
 
 "I accept these conditions."
 
@@ -116,7 +116,7 @@ They sat in comfortable silence, the garden's night-blooming flowers releasing t
 
 "Do you ever wish you could do magic? The traditional way, I mean."
 
-Kira considered the question seriously. "Sometimes. When I see the beauty of a perfectly cast spell, the elegance of traditional technique. But then I remember—I'm not limited by tradition. I can see patterns others miss. I can understand connections others don't perceive. My different path gives me different gifts."
+Kira considered the question seriously. "Sometimes. When I see the beauty of a perfectly cast spell, the elegance of traditional technique. But then I remember, I'm not limited by tradition. I can see patterns others miss. I can understand connections others don't perceive. My different path gives me different gifts."
 
 "You're wise, Kira."
 

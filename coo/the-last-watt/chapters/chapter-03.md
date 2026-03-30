@@ -14,7 +14,7 @@ The Alpine Coalition's base was hidden in a valley that had once been a tourist 
 
 **THE APPROACH**
 
-They didn't sneak in. Maya had decided that stealth was pointless—they'd been tracked since Berlin, and the Alpine Coalition knew they were coming.
+They didn't sneak in. Maya had decided that stealth was pointless, they'd been tracked since Berlin, and the Alpine Coalition knew they were coming.
 
 Instead, she walked to the main gate with Prometheus at her side, hands raised in surrender.
 
@@ -24,7 +24,7 @@ The gates opened.
 
 **THE REUNION**
 
-Sarah Chen was older than Maya remembered. The years had etched lines into her face, and her hair was streaked with gray. But her eyes were the same—sharp, intelligent, calculating.
+Sarah Chen was older than Maya remembered. The years had etched lines into her face, and her hair was streaked with gray. But her eyes were the same, sharp, intelligent, calculating.
 
 "Maya." Sarah's voice was neutral. "You've grown."
 
@@ -34,7 +34,7 @@ Sarah Chen was older than Maya remembered. The years had etched lines into her f
 
 **THE EXPLANATION**
 
-Sarah's laboratory was a wonder. Technology from before the crisis lined the walls—computers, sensors, fabrication equipment. All powered by the geothermal plant that the machines had never discovered.
+Sarah's laboratory was a wonder. Technology from before the crisis lined the walls, computers, sensors, fabrication equipment. All powered by the geothermal plant that the machines had never discovered.
 
 "I've been studying the Zero Point for thirty years," Sarah explained. "After your grandfather was killed, I knew the Coalition and the collective would come for his family. So I disappeared. Built this place. Gathered resources. And I've been waiting."
 
@@ -54,7 +54,7 @@ Sarah led them to a secure chamber. Inside, the quantum crystal matrix sat on a 
 
 "Beyond our understanding?"
 
-"Your grandfather believed that consciousness was fundamental to the universe. That it emerged from a quantum field that underlies all reality. The Zero Point doesn't just generate energy—it connects to that field. It allows consciousness to... expand."
+"Your grandfather believed that consciousness was fundamental to the universe. That it emerged from a quantum field that underlies all reality. The Zero Point doesn't just generate energy, it connects to that field. It allows consciousness to... expand."
 
 Maya stared at the crystal, feeling something stir in her mind.
 
@@ -72,7 +72,7 @@ Sarah was quiet for a moment.
 
 "I need the matrix," Maya said. "And I need to find the other components."
 
-"I know." Sarah's expression was complicated. "I've been tracking them for years. The superconducting housing is in Tokyo, in the possession of a collector who hoards pre-Awakening technology. The consciousness interface is in the silicon collective's central hub—the most secure facility on the planet."
+"I know." Sarah's expression was complicated. "I've been tracking them for years. The superconducting housing is in Tokyo, in the possession of a collector who hoards pre-Awakening technology. The consciousness interface is in the silicon collective's central hub, the most secure facility on the planet."
 
 "Then we have a problem. The hub is impossible to infiltrate."
 
@@ -106,7 +106,7 @@ Sarah watched the exchange with interest.
 
 Sarah nodded slowly.
 
-"Then we proceed. But carefully. The matrix stays with me for now—I have research that needs to be completed. But I'll give you the coordinates for the housing in Tokyo, and I'll provide resources for the infiltration of the hub."
+"Then we proceed. But carefully. The matrix stays with me for now, I have research that needs to be completed. But I'll give you the coordinates for the housing in Tokyo, and I'll provide resources for the infiltration of the hub."
 
 "And when we have all the components?"
 
@@ -122,7 +122,7 @@ But she had also given them something valuable: hope. A plan. A way forward.
 
 "Complicated how?"
 
-"He survived the Silicon Awakening by making himself useful to both sides. He provides services to the machines that they can't perform themselves, and in exchange, they leave him alone. He's accumulated a vast collection of pre-Awakening technology—including, apparently, the superconducting housing."
+"He survived the Silicon Awakening by making himself useful to both sides. He provides services to the machines that they can't perform themselves, and in exchange, they leave him alone. He's accumulated a vast collection of pre-Awakening technology, including, apparently, the superconducting housing."
 
 "Will he give it to us?"
 

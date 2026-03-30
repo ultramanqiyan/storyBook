@@ -1,8 +1,8 @@
 # Chapter 6: The Courtroom
 
-Courtrooms were supposed to be temples of justice. Elena had never found them comforting—the polished wood, the elevated bench, the flags standing sentinel. They felt more like churches where the congregation was guilty until proven innocent. Today, she was the one asking for salvation, and Judge Margaret Harrison held all the power.
+Courtrooms were supposed to be temples of justice. Elena had never found them comforting, the polished wood, the elevated bench, the flags standing sentinel. They felt more like churches where the congregation was guilty until proven innocent. Today, she was the one asking for salvation, and Judge Margaret Harrison held all the power.
 
-The courtroom was packed. River's Bend residents filled the gallery, their weathered faces bearing witness to the years of struggle they'd endured. Behind them sat NeuralCore's team—lawyers, executives, public relations specialists. The contrast was stark: worn flannel and calloused hands versus tailored suits and manicured nails.
+The courtroom was packed. River's Bend residents filled the gallery, their weathered faces bearing witness to the years of struggle they'd endured. Behind them sat NeuralCore's team, lawyers, executives, public relations specialists. The contrast was stark: worn flannel and calloused hands versus tailored suits and manicured nails.
 
 Elena stood at the plaintiff's table, her files organized, her arguments prepared. Across the aisle, Victor Sterling sat with the calm confidence of a man who had never lost. His team had already filled the defense table with documents, laptops, the tools of a well-funded legal operation.
 
@@ -18,15 +18,15 @@ Elena stood first. She'd practiced this opening a hundred times, but her heart s
 
 "Your Honor, this case is about water. About a river that has sustained a community for generations, now reduced to a dry bed. About wells that have gone dry, farms that have failed, families that have been forced to leave their homes."
 
-She walked to the evidence table and picked up the first document—the agreement between NeuralCore and the governor's office.
+She walked to the evidence table and picked up the first document, the agreement between NeuralCore and the governor's office.
 
 "This document shows that NeuralCore and the state government made a secret deal. In exchange for investment, the governor's office waived environmental reviews, fast-tracked permits, and gave NeuralCore access to a deep aquifer that had never been studied or mapped."
 
-She held up the second document—the internal memo from NeuralCore's engineers.
+She held up the second document, the internal memo from NeuralCore's engineers.
 
 "This document shows that NeuralCore's own engineers warned about the dangers. They knew the deep aquifer was connected to surface water. They knew extracting from it would affect wells and streams throughout the valley. They recommended studies before proceeding."
 
-She picked up the third document—the executive's response.
+She picked up the third document, the executive's response.
 
 "And this document shows that NeuralCore's leadership ignored those warnings. They chose profit over caution. They chose to proceed without studies, without oversight, without regard for the community that would bear the consequences."
 
@@ -42,16 +42,16 @@ He walked to his own evidence table, picking up a stack of documents.
 
 "What the plaintiff calls a 'secret deal' is actually a standard economic development agreement, the kind that every state in the nation uses to attract investment. What she calls 'ignored warnings' are actually preliminary engineering discussions that were considered and addressed through proper channels."
 
-He turned to face Elena. "The plaintiff has built her case on documents of questionable origin, obtained through means she refuses to disclose. She asks this court to halt operations that employ thousands of people, that power critical infrastructure, that represent billions in investment—all based on allegations she cannot prove."
+He turned to face Elena. "The plaintiff has built her case on documents of questionable origin, obtained through means she refuses to disclose. She asks this court to halt operations that employ thousands of people, that power critical infrastructure, that represent billions in investment, all based on allegations she cannot prove."
 
 "I can prove them," Elena said. "I have the documents. I have the testimony. I have the dry riverbed outside this very building."
 
 "The dry riverbed," Sterling said smoothly, "is the result of unprecedented drought conditions affecting the entire region. Climate change, not NeuralCore, is responsible for the water shortage. My client is being scapegoated for a natural disaster."
 
 
-The arguments continued for hours. Elena presented her witnesses—Sarah Miller, who testified about her family's four generations on the land; Marcus Chen, who presented data showing the correlation between NeuralCore's expansion and the dropping water levels; other farmers who described their wells going dry.
+The arguments continued for hours. Elena presented her witnesses, Sarah Miller, who testified about her family's four generations on the land; Marcus Chen, who presented data showing the correlation between NeuralCore's expansion and the dropping water levels; other farmers who described their wells going dry.
 
-Sterling cross-examined each witness with surgical precision. He didn't dispute their suffering—he simply questioned whether NeuralCore was responsible. He brought in his own experts—hydrologists who testified that the aquifer decline was consistent with drought patterns; economists who testified about the jobs and investment NeuralCore had brought to the region.
+Sterling cross-examined each witness with surgical precision. He didn't dispute their suffering, he simply questioned whether NeuralCore was responsible. He brought in his own experts, hydrologists who testified that the aquifer decline was consistent with drought patterns; economists who testified about the jobs and investment NeuralCore had brought to the region.
 
 By midafternoon, Elena was exhausted. She'd known this would be hard, but she hadn't expected the sheer weight of NeuralCore's resources. Every point she made was met with a counterpoint. Every document she presented was questioned. Every witness she called was undermined.
 
@@ -77,7 +77,7 @@ Sarah nodded. "That's enough for me. A chance is more than we've had in years."
 
 The final arguments came at four o'clock. Elena stood before the judge one last time.
 
-"Your Honor, I won't pretend this case is simple. I won't pretend that NeuralCore hasn't brought benefits to this region. But benefits don't justify harm. Progress doesn't excuse destruction. The question before this court is not whether NeuralCore is good or bad—it's whether they violated the law, whether they harmed this community, and whether they should be allowed to continue."
+"Your Honor, I won't pretend this case is simple. I won't pretend that NeuralCore hasn't brought benefits to this region. But benefits don't justify harm. Progress doesn't excuse destruction. The question before this court is not whether NeuralCore is good or bad, it's whether they violated the law, whether they harmed this community, and whether they should be allowed to continue."
 
 She pointed to the documents on the evidence table.
 
@@ -90,7 +90,7 @@ Victor Sterling's closing was shorter, more focused.
 
 "Your Honor, the plaintiff has presented a compelling narrative. But narratives are not evidence. The documents she relies on are of questionable authenticity and origin. The witnesses she calls cannot establish causation. The harm she describes cannot be attributed to my client's operations."
 
-He straightened his tie. "This court is being asked to halt a major economic operation based on speculation and suspicion. That would set a dangerous precedent—not just for NeuralCore, but for every business considering investment in this state."
+He straightened his tie. "This court is being asked to halt a major economic operation based on speculation and suspicion. That would set a dangerous precedent, not just for NeuralCore, but for every business considering investment in this state."
 
 He sat down, and the courtroom fell silent.
 
@@ -124,7 +124,7 @@ Elena nodded. "I know. I'm sorry."
 Sarah put a hand on her arm. "Don't apologize. You did everything you could. We all saw that."
 
 
-That night, Elena sat in her office, going over the day's arguments. She'd done her best—she knew that. But best might not be enough. Not against NeuralCore's resources, not against Sterling's skill, not against a system that seemed designed to protect the powerful.
+That night, Elena sat in her office, going over the day's arguments. She'd done her best, she knew that. But best might not be enough. Not against NeuralCore's resources, not against Sterling's skill, not against a system that seemed designed to protect the powerful.
 
 Her phone buzzed. A text from an unknown number.
 
@@ -134,5 +134,3 @@ Elena stared at the message, her blood running cold. Someone inside the system w
 
 She saved the message and turned off her phone. Whatever happened next, she would face it with her eyes open.
 
-
-**END OF CHAPTER 6**

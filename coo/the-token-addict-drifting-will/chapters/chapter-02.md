@@ -24,7 +24,7 @@ FocusZone would suggest a goal, and he'd feel motivated. It would optimize a pri
 
 The satisfaction was real. But the source was external.
 
-*This is what AI-assisted motivation feels like*, he realized. *Not wanting things yourself—letting AI want them for you. Not choosing directions—letting AI choose them.*
+*This is what AI-assisted motivation feels like*, he realized. *Not wanting things yourself, letting AI want them for you. Not choosing directions, letting AI choose them.*
 
 ---
 
@@ -40,6 +40,4 @@ Every goal felt uncertain. Every priority felt arbitrary. Every direction felt u
 
 He turned FocusZone back on. The relief was immediate. The dopamine returned.
 
-*This is what dependency feels like*, he thought. *Not needing AI to work—needing it to want. Needing it to care. Needing it to have direction.*
-
-**END OF CHAPTER 2**
+*This is what dependency feels like*, he thought. *Not needing AI to work, needing it to want. Needing it to care. Needing it to have direction.*

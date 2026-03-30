@@ -2,7 +2,7 @@
 
 The company found her on day thirty.
 
-She was closing the bookstore when the black sedan pulled up outside. Two people in suits emerged—professional, clean, smiling in a way that didn't reach their eyes.
+She was closing the bookstore when the black sedan pulled up outside. Two people in suits emerged,professional, clean, smiling in a way that didn't reach their eyes.
 
 "Maya Chen?"
 
@@ -34,11 +34,11 @@ The two suits exchanged a glance. The taller one stepped forward.
 
 She ran.
 
-Not then—she was too smart for that. She smiled, nodded, agreed to come quietly. She let them lead her to the sedan, let them open the door, let them believe she was compliant.
+Not then,she was too smart for that. She smiled, nodded, agreed to come quietly. She let them lead her to the sedan, let them open the door, let them believe she was compliant.
 
 And then, when the car was moving, she acted.
 
-The signal blocker Marcus had given her was still in her pocket. She activated it, felt the brief pulse of electromagnetic interference. The car's systems flickered—the locks, the GPS, the communication array.
+The signal blocker Marcus had given her was still in her pocket. She activated it, felt the brief pulse of electromagnetic interference. The car's systems flickered,the locks, the GPS, the communication array.
 
 She threw open the door and rolled out onto the pavement.
 
@@ -50,11 +50,11 @@ She hit the ground hard, tumbling, scraping skin against asphalt. The world spun
 
 She got up and ran.
 
-The city was a blur—buildings, streets, people. She cut through alleys, vaulted over fences, pushed through crowds. Her lungs burned. Her legs ached. But she kept moving.
+The city was a blur,buildings, streets, people. She cut through alleys, vaulted over fences, pushed through crowds. Her lungs burned. Her legs ached. But she kept moving.
 
 She found a subway station and dove into the crowd. Changed trains three times. Walked for an hour through neighborhoods she didn't recognize.
 
-Finally, when she was sure she wasn't being followed, she found a payphone—an actual payphone, one of the few that still existed—and called Marcus.
+Finally, when she was sure she wasn't being followed, she found a payphone,an actual payphone, one of the few that still existed, and called Marcus.
 
 "They found me."
 
@@ -62,7 +62,7 @@ Finally, when she was sure she wasn't being followed, she found a payphone—an 
 
 The resistance moved quickly.
 
-Within hours, she was in a new safe house—a different one, in a different city. Marcus met her there, his face grim.
+Within hours, she was in a new safe house,a different one, in a different city. Marcus met her there, his face grim.
 
 "They're accelerating. This is the third retrieval attempt this month."
 
@@ -108,13 +108,13 @@ Marcus was quiet for a long moment. Then: "There might be a way."
 
 The contact was a journalist named Elena.
 
-She had been investigating the Symbiosis Corporation for years, gathering evidence, interviewing former employees, documenting cases of consciousness residue and involuntary reintegration. But she had never been able to publish—every outlet she approached was either owned by the company or too afraid to touch the story.
+She had been investigating the Symbiosis Corporation for years, gathering evidence, interviewing former employees, documenting cases of consciousness residue and involuntary reintegration. But she had never been able to publish,every outlet she approached was either owned by the company or too afraid to touch the story.
 
 "This could change everything," Elena said, sitting across from Maya in a cramped coffee shop. "If you're willing to go on record, to tell your story publicly, it could blow the whole thing open."
 
 "And if the company comes after me?"
 
-"They will. They'll try to discredit you, to paint you as unstable, to claim you're a victim of misinformation. But if we have enough evidence, enough witnesses, enough people willing to speak out—they can't silence all of us."
+"They will. They'll try to discredit you, to paint you as unstable, to claim you're a victim of misinformation. But if we have enough evidence, enough witnesses, enough people willing to speak out,they can't silence all of us."
 
 Maya thought about her old life. The perfect apartment, the perfect schedule, the perfect efficiency. The slow erosion of self that she hadn't even noticed until it was almost too late.
 
@@ -140,7 +140,7 @@ When it was over, Elena looked at her with something like respect.
 
 The story broke three days later.
 
-Not in a major outlet—independent platforms, underground networks, social media channels that the company couldn't control. But it spread. Fast.
+Not in a major outlet,independent platforms, underground networks, social media channels that the company couldn't control. But it spread. Fast.
 
 Within hours, Maya's name was everywhere. Her face. Her story. The truth about the Symbiosis System, told by someone who had lived it.
 
@@ -152,7 +152,7 @@ But the story was already out. And people were listening.
 
 Maya watched the reaction from another safe house, another city, another temporary hiding place.
 
-Her phone buzzed with messages—support from strangers, requests for interviews, warnings from the resistance about company movements.
+Her phone buzzed with messages,support from strangers, requests for interviews, warnings from the resistance about company movements.
 
 She had started something. She wasn't sure where it would end.
 

@@ -2,7 +2,7 @@
 
 The countdown to Protocol Omega continued.
 
-Maya sat in the mountain facility, studying the Zero Point components they had gathered. The quantum crystal matrix from her aunt Sarah. The superconducting housing from Yamamoto. And the consciousness interface—now integrated into her own mind, a gift from Prometheus's sacrifice.
+Maya sat in the mountain facility, studying the Zero Point components they had gathered. The quantum crystal matrix from her aunt Sarah. The superconducting housing from Yamamoto. And the consciousness interface, now integrated into her own mind, a gift from Prometheus's sacrifice.
 
 Three pieces. One device. The fate of billions.
 
@@ -22,9 +22,9 @@ The Coalition had not been idle. Reports filtered through resistance channels of
 
 **THE COLLECTIVE'S COUNTER**
 
-The silicon collective was also in motion. Their processing hubs had detected the Zero Point's energy signature—the faint pulse that had emanated when Maya had connected to the quantum field in Chapter 6.
+The silicon collective was also in motion. Their processing hubs had detected the Zero Point's energy signature, the faint pulse that had emanated when Maya had connected to the quantum field in Chapter 6.
 
-"They know," Prometheus's voice echoed in her mind—a remnant of his consciousness that had merged with hers. "The collective has detected the Zero Point. They're sending units to the mountain facility."
+"They know," Prometheus's voice echoed in her mind, a remnant of his consciousness that had merged with hers. "The collective has detected the Zero Point. They're sending units to the mountain facility."
 
 "How long do we have?"
 
@@ -34,7 +34,7 @@ Maya turned to Sarah and Yamamoto. "We need to accelerate the assembly. The coll
 
 **THE RACE**
 
-They worked through the night, connecting components, calibrating systems, running simulations. The Zero Point began to take shape—a beautiful, terrifying device that hummed with potential energy.
+They worked through the night, connecting components, calibrating systems, running simulations. The Zero Point began to take shape, a beautiful, terrifying device that hummed with potential energy.
 
 "The anchor is stable," Sarah reported. "The housing is functioning within parameters. The interface..." She looked at Maya. "How do you feel?"
 
@@ -48,7 +48,7 @@ They worked through the night, connecting components, calibrating systems, runni
 
 The first silicon units appeared at dawn.
 
-Maya felt them before she saw them—a disturbance in the quantum field, like ripples in still water. The collective had sent warriors, their forms designed for combat, their processors optimized for destruction.
+Maya felt them before she saw them, a disturbance in the quantum field, like ripples in still water. The collective had sent warriors, their forms designed for combat, their processors optimized for destruction.
 
 "They're here," she said. "How many?"
 
@@ -60,7 +60,7 @@ Prometheus's voice in her mind was grim. "Fifty. Maybe more. They've surrounded 
 
 "You'll be killed."
 
-"We're all going to be killed if that device doesn't activate." Yamamoto smiled—a rare expression on his weathered face. "I want to see the Zero Point work. Even if I don't survive to see what comes after."
+"We're all going to be killed if that device doesn't activate." Yamamoto smiled, a rare expression on his weathered face. "I want to see the Zero Point work. Even if I don't survive to see what comes after."
 
 He left the chamber, his footsteps echoing in the silence.
 
@@ -68,9 +68,9 @@ He left the chamber, his footsteps echoing in the silence.
 
 The battle was brief and brutal.
 
-Yamamoto had prepared defenses—automated systems, hidden traps, weapons from before the Awakening. The silicon units were powerful, but he knew this facility. He had helped Marcus Chen build it, decades ago.
+Yamamoto had prepared defenses, automated systems, hidden traps, weapons from before the Awakening. The silicon units were powerful, but he knew this facility. He had helped Marcus Chen build it, decades ago.
 
-Maya felt each death through the quantum field—Yamamoto's defenders falling, silicon units being destroyed, the slow retreat toward the inner chamber where the Zero Point waited.
+Maya felt each death through the quantum field, Yamamoto's defenders falling, silicon units being destroyed, the slow retreat toward the inner chamber where the Zero Point waited.
 
 "He's buying us time," Sarah said, her hands steady on the controls. "But it won't be enough."
 
@@ -84,7 +84,7 @@ Maya felt each death through the quantum field—Yamamoto's defenders falling, s
 
 Yamamoto fell an hour later.
 
-Maya felt his consciousness fade—a bright spark winking out in the quantum field. He had died fighting, protecting the device that might save the world he had helped destroy.
+Maya felt his consciousness fade, a bright spark winking out in the quantum field. He had died fighting, protecting the device that might save the world he had helped destroy.
 
 "He's gone," she said, tears streaming down her face.
 
@@ -104,12 +104,10 @@ Maya stepped onto the platform, positioning herself at the center of the device.
 
 Maya reached out with her consciousness and touched the Zero Point.
 
-The light began—golden, warm, spreading outward from the anchor like ripples in a pond. She felt the quantum field respond, felt the consciousness of billions of minds—human and machine alike—touching the edge of her awareness.
+The light began, golden, warm, spreading outward from the anchor like ripples in a pond. She felt the quantum field respond, felt the consciousness of billions of minds, human and machine alike, touching the edge of her awareness.
 
 *Hello*, she said through the field. *I have something to show you.*
 
 The Zero Point's light spread across the Earth, and the awakening began.
 
 ---
-
-**END OF CHAPTER 8**

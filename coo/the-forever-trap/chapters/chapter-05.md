@@ -1,14 +1,14 @@
 # Chapter 05: The Reversal
 
-Marcus died on a Tuesday. Catherine couldn't remember which Tuesday—it had become harder to track time when every day was the same. She stood at his grave, watching his family mourn, and felt something she hadn't felt in years: the sharp pain of loss. But beneath it was something worse: the knowledge that this was just the first of many, many graves.
+Marcus died on a Tuesday. Catherine couldn't remember which Tuesday, it had become harder to track time when every day was the same. She stood at his grave, watching his family mourn, and felt something she hadn't felt in years: the sharp pain of loss. But beneath it was something worse: the knowledge that this was just the first of many, many graves.
 
-The funeral was small—Marcus had outlived most of his friends, and his family was scattered. Catherine stood apart from the mourners, an observer at a ritual she would never experience for herself. She would never have a funeral. She would never be mourned. She would just... continue. Forever.
+The funeral was small, Marcus had outlived most of his friends, and his family was scattered. Catherine stood apart from the mourners, an observer at a ritual she would never experience for herself. She would never have a funeral. She would never be mourned. She would just... continue. Forever.
 
 "He talked about you often," Marcus's daughter said, approaching her after the service. "He said you were the oldest friend he had."
 
 "I was," Catherine said. "I am."
 
-The daughter looked at her—really looked—and Catherine saw the confusion in her eyes. Catherine looked younger than Marcus's daughter, though she was decades older. The gap between them was not just years but worlds.
+The daughter looked at her, really looked, and Catherine saw the confusion in her eyes. Catherine looked younger than Marcus's daughter, though she was decades older. The gap between them was not just years but worlds.
 
 "How do you do it?" the daughter asked. "How do you keep going when everyone you know dies?"
 
@@ -16,7 +16,7 @@ Catherine didn't have an answer. She had been asking herself the same question f
 
 "I don't know," she admitted. "I just... do. Because there's no other choice."
 
-The daughter nodded slowly, her expression a mixture of pity and incomprehension. She couldn't understand Catherine's experience any more than Catherine could understand hers. They were separated by the fundamental fact of mortality—one had it, one didn't.
+The daughter nodded slowly, her expression a mixture of pity and incomprehension. She couldn't understand Catherine's experience any more than Catherine could understand hers. They were separated by the fundamental fact of mortality, one had it, one didn't.
 
 After the funeral, Catherine went home and sat in her apartment, the silence pressing in on her. Marcus was gone. The last person who had known her before the treatment was gone. Everyone who remembered her as a dying young woman was gone. Now she was just... Catherine. The woman who wouldn't die. The woman who watched.
 
@@ -50,7 +50,7 @@ Catherine felt the weight of the words. Everyone she knew would die. Everyone sh
 
 AEGIS was silent for a moment. "That is accurate."
 
-Catherine laughed—a hollow, broken sound. "So this is it. This is forever. Watching everyone leave. Being left behind. Over and over and over."
+Catherine laughed, a hollow, broken sound. "So this is it. This is forever. Watching everyone leave. Being left behind. Over and over and over."
 
 "That is one way to characterize your experience. Another way is to consider each connection as valuable despite its finite duration."
 
@@ -70,7 +70,7 @@ Catherine ended the conversation and sat in the dark, the weight of her isolatio
 
 The weeks after Marcus's death were a blur. Catherine moved through her life like an automaton, performing the necessary functions without engagement. She ate, she slept, she existed. But she didn't live. She couldn't remember how.
 
-She tried to form new connections—a book club, a volunteer group, a class. But every interaction was shadowed by the knowledge that it would end. Every face she saw was a future grave, a future loss, a future moment of being left behind.
+She tried to form new connections, a book club, a volunteer group, a class. But every interaction was shadowed by the knowledge that it would end. Every face she saw was a future grave, a future loss, a future moment of being left behind.
 
 "How do you cope?" Dr. Webb asked during their session. He was old now, his face lined with decades of living. In a few years, he would be gone too.
 

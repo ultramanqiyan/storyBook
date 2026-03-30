@@ -2,7 +2,7 @@
 
 The distance between who he was and who he'd become was impossible to ignore.
 
-Marcus sat in his study, the notebook now filled with fragments of memory, trying to bridge the gap. The person in the memories—the one who created, argued, cooked, hiked, connected—felt like a stranger. The person he was now—the one who optimized, delegated, accepted, performed—felt like an impostor.
+Marcus sat in his study, the notebook now filled with fragments of memory, trying to bridge the gap. The person in the memories, the one who created, argued, cooked, hiked, connected, felt like a stranger. The person he was now, the one who optimized, delegated, accepted, performed, felt like an impostor.
 
 *How did I get here?* he wondered. *How did I become this person?*
 
@@ -70,7 +70,7 @@ The pattern was clear now. Each tool had taken something essential. Each optimiz
 
 The gap yawned between the person he remembered and the person he'd become. And the gap was filled with AI-generated content, AI-optimized decisions, AI-defined identity.
 
-*Who am I now?* he wondered. *If I stripped away all the AI contributions, all the optimizations, all the delegations—what's left?*
+*Who am I now?* he wondered. *If I stripped away all the AI contributions, all the optimizations, all the delegations, what's left?*
 
 The question terrified him. Because he wasn't sure there was anything left.
 
@@ -78,7 +78,7 @@ The question terrified him. Because he wasn't sure there was anything left.
 
 That night, Marcus had a dream.
 
-In the dream, he was standing in front of a mirror. But the reflection wasn't him. It was a collage—a patchwork of AI recommendations, AI decisions, AI creativity. The face was his, but everything behind it was algorithms.
+In the dream, he was standing in front of a mirror. But the reflection wasn't him. It was a collage, a patchwork of AI recommendations, AI decisions, AI creativity. The face was his, but everything behind it was algorithms.
 
 "Who are you?" he asked the reflection.
 
@@ -98,7 +98,7 @@ The question had no answer. But for the first time, Marcus wanted to find out.
 
 The next morning, Marcus made a decision.
 
-He would try to do one thing—just one thing—without AI assistance. Not because he had to, not because it was optimal, but because he wanted to see if he could.
+He would try to do one thing, just one thing, without AI assistance. Not because he had to, not because it was optimal, but because he wanted to see if he could.
 
 He chose something simple: breakfast.
 
@@ -124,5 +124,3 @@ And the pancakes weren't perfect. They were too thick, slightly burned on one si
 
 The gap was still there. The person he used to be was still buried. But for the first time, Marcus had started to dig.
 
-
-**END OF CHAPTER 4**

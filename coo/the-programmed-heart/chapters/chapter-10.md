@@ -14,7 +14,7 @@ I don't know if you'll understand this letter. I don't know if you can understan
 
 I know about the system.
 
-I know you don't know you're on it. I know you think everything is normal. I know you think you love me, and maybe—in some way—you do. Or maybe it's just the system telling you to think you do.
+I know you don't know you're on it. I know you think everything is normal. I know you think you love me, and maybe, in some way, you do. Or maybe it's just the system telling you to think you do.
 
 I don't know. I'll probably never know.
 
@@ -48,7 +48,7 @@ Not because everything is okay. Not because I'm over it. But because I understan
 
 I'm going to find my own way now. I don't know where I'm going. I don't know what I'll do. But I know I want to feel things. Real things. Even when they hurt.
 
-Maybe someday I'll come back. Maybe someday we can try to find each other—the real versions of us.
+Maybe someday I'll come back. Maybe someday we can try to find each other, the real versions of us.
 
 But for now, I need to go.
 
@@ -60,7 +60,7 @@ Alex
 
 ---
 
-I fold the letter. I put it in an envelope. The paper is crisp. The crease is sharp. I write their names on the front. My handwriting is messy—uneven letters, ink smudges.
+I fold the letter. I put it in an envelope. The paper is crisp. The crease is sharp. I write their names on the front. My handwriting is messy, uneven letters, ink smudges.
 
 I don't have an address. I don't know where I'll send it yet.
 
@@ -86,7 +86,7 @@ Maybe that's all any of us can do.
 
 I walk to the bus station.
 
-The afternoon air is warm. The sun is bright. It catches the windows of the buildings, making them gleam. The smell of exhaust mixes with something sweet—a bakery, maybe, or a flower cart.
+The afternoon air is warm. The sun is bright. It catches the windows of the buildings, making them gleam. The smell of exhaust mixes with something sweet, a bakery, maybe, or a flower cart.
 
 I don't have a destination. I don't have a plan.
 

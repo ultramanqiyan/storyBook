@@ -8,7 +8,7 @@ But the list still had forty-six items. And new ones kept appearing.
 
 ---
 
-Elena thought about it all week. The mobile app spec had been the right choice—it had unblocked development, moved the timeline forward, created momentum. But how had she known?
+Elena thought about it all week. The mobile app spec had been the right choice, it had unblocked development, moved the timeline forward, created momentum. But how had she known?
 
 "What made that the right choice?" Diane asked.
 
@@ -20,7 +20,7 @@ Elena thought about it all week. The mobile app spec had been the right choice�
 
 "Let me show you something." Diane pulled out a sheet of paper. "Draw your projects. All of them. And draw lines between them showing dependencies."
 
-Elena drew circles for each project—the client presentation, the user research, the stakeholder alignment, the competitive analysis. She drew lines between them where one blocked another.
+Elena drew circles for each project, the client presentation, the user research, the stakeholder alignment, the competitive analysis. She drew lines between them where one blocked another.
 
 "Now look at the pattern," Diane said. "Which project has the most lines coming out of it?"
 
@@ -76,7 +76,7 @@ One thing had moved multiple things forward.
 
 ---
 
-Elena started keeping a list—not of tasks, but of questions. What's blocking the most? What's upstream? What would make everything else easier?
+Elena started keeping a list, not of tasks, but of questions. What's blocking the most? What's upstream? What would make everything else easier?
 
 The questions helped. They didn't make the choosing easy, but they made it possible.
 

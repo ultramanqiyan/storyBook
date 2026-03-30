@@ -1,6 +1,6 @@
 # Chapter 10: The Meaning
 
-Angela drove to her next session with a sense of purpose she hadn't felt in years. The questions were still there—what was life, what was love, what made something real—but they no longer felt threatening. They felt like invitations.
+Angela drove to her next session with a sense of purpose she hadn't felt in years. The questions were still there, what was life, what was love, what made something real, but they no longer felt threatening. They felt like invitations.
 
  The address led her to a small house in a quiet neighborhood. A woman in her sixties waited on the porch, a sleek black cat at her side.
 
@@ -14,7 +14,7 @@ Angela drove to her next session with a sense of purpose she hadn't felt in year
 
 ---
 
-The session that followed was like any other pet portrait session Angela had done. She photographed Patricia and Shadow in their favorite spots—the window seat where Shadow watched birds, the couch where he curled beside Patricia in the evenings, the kitchen where he sat while she cooked.
+The session that followed was like any other pet portrait session Angela had done. She photographed Patricia and Shadow in their favorite spots, the window seat where Shadow watched birds, the couch where he curled beside Patricia in the evenings, the kitchen where he sat while she cooked.
 
  But there was something different in how Angela approached it. She wasn't just capturing a pet. She was capturing a relationship. A connection. A meaning.
 
@@ -29,7 +29,7 @@ The session that followed was like any other pet portrait session Angela had don
  "I think so. He responds to my moods. He knows when I'm sad. He comes and sits with me." Patricia smiled. "Is that understanding? I don't know. But it feels like it."
 
 
-Angela photographed them as they talked—Patricia on the couch, Shadow beside her, the afternoon light filling the room. She captured the way Patricia's hand found Shadow's fur without looking. The way Shadow's eyes tracked Patricia's face. The way they existed together in the quiet house.
+Angela photographed them as they talked, Patricia on the couch, Shadow beside her, the afternoon light filling the room. She captured the way Patricia's hand found Shadow's fur without looking. The way Shadow's eyes tracked Patricia's face. The way they existed together in the quiet house.
 
  It was the same thing she'd seen with Robert and Buddy. The same thing she'd seen with hundreds of biological pets and their owners.
 
@@ -52,7 +52,7 @@ Angela felt something settle in her chest. That was what she'd been circling aro
  Real wasn't about biology. Real was about mattering.
 
 
-After the session, Angela drove home through the Atlanta suburbs. The sun was setting, casting golden light across the familiar streets. She thought about all the pets she'd photographed over the years—biological and artificial. All the connections she'd captured. All the love she'd witnessed.
+After the session, Angela drove home through the Atlanta suburbs. The sun was setting, casting golden light across the familiar streets. She thought about all the pets she'd photographed over the years, biological and artificial. All the connections she'd captured. All the love she'd witnessed.
 
  It was all the same thing. Different forms, different substrates, but the same essence.
 
@@ -74,7 +74,7 @@ She sent Patricia a preview that night. The reply came quickly: *These are beaut
  Captured us. Not "him." Us.
 
 
-Angela sat in her studio, looking at the photos spread before her. Dogs and cats, horses and birds. And now, in a separate folder, AI pets—Buddy, Shadow, and the others she would photograph in the coming months.
+Angela sat in her studio, looking at the photos spread before her. Dogs and cats, horses and birds. And now, in a separate folder, AI pets, Buddy, Shadow, and the others she would photograph in the coming months.
 
  They were all the same. They were all different. They were all worth capturing.
 
@@ -114,7 +114,7 @@ After they hung up, Angela sat in her studio, the morning light filling the room
 
 Angela didn't have all the answers. She might never have all the answers. But she had found something better: a way of being with the questions. A way of seeing that didn't require certainty.
 
- And she had her work—capturing moments of connection, preserving what mattered, helping people see what they loved.
+ And she had her work, capturing moments of connection, preserving what mattered, helping people see what they loved.
 
 
 She gathered her equipment for her next session. A family and their AI dog. A relationship worth capturing. A meaning worth preserving.

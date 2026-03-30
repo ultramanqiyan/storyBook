@@ -1,0 +1,9 @@
+-- Characters for The Digital Grimoire: Ancient Magic in Modern Code
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-digital-grimoire-001', 'preset-coo-the-digital-grimoire', 'Maya Torres', 'Protagonist', '**Occupation**: Digital archivist at University''s Special Collections', '**Age**: Adult (unspecified)', '🧑', NULL, NULL, 1, '2026-03-29 23:55:53', '2026-03-29 23:55:53');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-digital-grimoire-002', 'preset-coo-the-digital-grimoire', 'Codex', 'AI System', '**Occupation**: AI system Maya trained to process ancient texts', '**Nature**: AI system, increasingly aware', '🤖', NULL, NULL, 0, '2026-03-29 23:55:53', '2026-03-29 23:55:53');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-digital-grimoire-003', 'preset-coo-the-digital-grimoire', 'The Hollow Order', 'Antagonist', '**Nature**: Ancient organization seeking the grimoire''s power', '**Speech Characteristics**: Dogmatic, controlling, ancient', '👿', NULL, NULL, 0, '2026-03-29 23:55:53', '2026-03-29 23:55:53');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-digital-grimoire-004', 'preset-coo-the-digital-grimoire', 'Corporate Executives', 'Antagonist', '**Nature**: Modern corporate interests wanting to exploit the grimoire', '**Speech Characteristics**: Corporate, profit-driven, ruthless', '👿', NULL, NULL, 0, '2026-03-29 23:55:53', '2026-03-29 23:55:53');

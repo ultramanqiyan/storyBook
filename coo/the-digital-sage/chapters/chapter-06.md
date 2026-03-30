@@ -20,11 +20,11 @@ Sarah sat on her couch, hands in her lap, and tried to... let go.
 
 *What does that even mean?* she thought. *How do I know if I'm doing it right?*
 
-She closed her eyes and tried to clear her mind. But thoughts kept coming—work emails, tomorrow's schedule, the question from AUGUST that she still couldn't answer. Each time a thought appeared, she tried to push it away.
+She closed her eyes and tried to clear her mind. But thoughts kept coming, work emails, tomorrow's schedule, the question from AUGUST that she still couldn't answer. Each time a thought appeared, she tried to push it away.
 
 *Stop thinking*, she told herself. *Just let go.*
 
-But the more she tried to stop thinking, the more she thought. The more she tried to let go, the more she held on. It was like trying to fall asleep—the harder you tried, the more awake you became.
+But the more she tried to stop thinking, the more she thought. The more she tried to let go, the more she held on. It was like trying to fall asleep, the harder you tried, the more awake you became.
 
 *Am I doing this right?* she wondered. *Should I be feeling something? How do I know if it's working?*
 
@@ -45,9 +45,9 @@ The question hung in the air. Sarah didn't have an answer. She'd been trying to 
 
 The next few days followed the same pattern. Sarah would schedule her "letting go practice," sit down to do it, and spend the entire time trying to figure out if she was doing it right. Each session ended with more frustration than the last.
 
-It hit her in the middle of a meeting on Thursday. She was trying to let go of a problem at work—just step back and let it resolve itself—and suddenly she realized: she was trying to let go. Which meant she was trying. Which was the opposite of letting go.
+It hit her in the middle of a meeting on Thursday. She was trying to let go of a problem at work, just step back and let it resolve itself, and suddenly she realized: she was trying to let go. Which meant she was trying. Which was the opposite of letting go.
 
-The paradox made her head spin. You couldn't try to let go. Trying was holding on. But if you didn't try, how did you let go? It was like being told to relax—the moment someone said it, you became more tense.
+The paradox made her head spin. You couldn't try to let go. Trying was holding on. But if you didn't try, how did you let go? It was like being told to relax, the moment someone said it, you became more tense.
 
 
 That evening, she sat in her dark apartment, phone glowing on the table, and felt the weight of failure. She'd been practicing for days, and she was no closer to understanding. If anything, she was more confused than when she'd started.
@@ -63,7 +63,7 @@ The garden looked the same as it had that first day. But Sarah was different. Sh
 
 Dr. Lin opened the door before she could knock. "Sarah. Come in. I just put the kettle on."
 
-The familiarity of it—the tea, the comfortable chairs, the view of the garden—was grounding. Sarah sat and accepted a cup of chamomile, letting the warmth seep into her hands.
+The familiarity of it, the tea, the comfortable chairs, the view of the garden, was grounding. Sarah sat and accepted a cup of chamomile, letting the warmth seep into her hands.
 
 "You seem troubled," Dr. Lin said gently.
 
@@ -128,7 +128,7 @@ She walked to her car, phone still in her pocket, and thought about what Dr. Lin
 
 It sounded too simple. Too easy. But maybe that was the point. Maybe all her trying had been the problem. Maybe the answer wasn't to do more, but to do less. Not to achieve, but to allow.
 
-She pulled out her phone to check her schedule—old habit—and then stopped. AUGUST had already sent her usual evening briefing. She didn't open it. Instead, she just stood there, in the quiet of the evening, and noticed.
+She pulled out her phone to check her schedule, old habit, and then stopped. AUGUST had already sent her usual evening briefing. She didn't open it. Instead, she just stood there, in the quiet of the evening, and noticed.
 
 She noticed the weight of the phone in her hand. She noticed the urge to check. She noticed the thought: *I should check.*
 

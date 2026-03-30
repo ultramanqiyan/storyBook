@@ -8,37 +8,37 @@ She turned a corner and found herself in an unfamiliar section. The shelves here
 
 The gate was locked, but the keycard she had used for years worked without issue. The door swung open, revealing a room that felt frozen in time. The shelves were packed with dissertations and research papers, all of them dating from before the AI era. The dust was thicker here, the silence deeper.
 
-Elena stepped inside, her footsteps echoing in the empty space. The room was small, maybe twenty feet square, but it felt vast. She pulled a dissertation at random from the shelf—a psychology thesis from 2015, the year before AI research assistants became standard.
+Elena stepped inside, her footsteps echoing in the empty space. The room was small, maybe twenty feet square, but it felt vast. She pulled a dissertation at random from the shelf, a psychology thesis from 2015, the year before AI research assistants became standard.
 
 The introduction was unlike anything she had seen in recent work. The author described a years-long journey of curiosity, following questions that led to other questions, exploring tangents that sometimes proved fruitful and sometimes didn't. There was no mention of AI-generated suggestions, no algorithmic optimization of research direction. Just a human mind, wandering through a landscape of ideas.
 
-She pulled another dissertation. Then another. Each one told a similar story: a researcher driven by genuine curiosity, following questions that emerged from their own wonder, not from an algorithm's analysis. The writing was messier than modern academic prose—less polished, less efficient—but it had a quality Elena couldn't quite name. Life, maybe. Authenticity. The sense of a real mind at work.
+She pulled another dissertation. Then another. Each one told a similar story: a researcher driven by genuine curiosity, following questions that emerged from their own wonder, not from an algorithm's analysis. The writing was messier than modern academic prose, less polished, less efficient, but it had a quality Elena couldn't quite name. Life, maybe. Authenticity. The sense of a real mind at work.
 
 ---
 
 Hours passed. Elena sat on the floor among the old dissertations, reading introduction after introduction, trying to understand what made them different from her own work. The differences were subtle but profound.
 
-The pre-AI researchers asked questions that didn't always make sense. They pursued hunches that sometimes led nowhere. They admitted confusion, uncertainty, the messy process of figuring things out. Their research wasn't optimized for efficiency or impact—it was driven by something harder to measure: genuine wonder.
+The pre-AI researchers asked questions that didn't always make sense. They pursued hunches that sometimes led nowhere. They admitted confusion, uncertainty, the messy process of figuring things out. Their research wasn't optimized for efficiency or impact, it was driven by something harder to measure: genuine wonder.
 
 Elena thought about her own dissertation, with its carefully structured arguments and its AI-refined methodology. It was better, in many ways, than the work she was reading. More rigorous, more efficient, more likely to be published in top journals. But it lacked something these older works had in abundance: the spark of authentic curiosity.
 
-She opened a notebook and began to write, trying to capture what she was seeing. The pre-AI researchers described their thought processes in detail—how they had arrived at their questions, what had sparked their interest, why they had chosen one path over another. The journey was as important as the destination.
+She opened a notebook and began to write, trying to capture what she was seeing. The pre-AI researchers described their thought processes in detail, how they had arrived at their questions, what had sparked their interest, why they had chosen one path over another. The journey was as important as the destination.
 
 In contrast, her own research notes were clinical, efficient. They documented what she had done, but not why. They recorded the results of her decisions, but not the decisions themselves. It was as if she had been a passenger in her own research, going through the motions without ever really driving.
 
-The realization was painful. She had thought she was a scholar, a researcher, a thinker. But what she had been, all along, was a processor—taking AI-generated inputs and producing outputs, without ever engaging the part of her mind that wondered, that questioned, that marveled at the mystery of things.
+The realization was painful. She had thought she was a scholar, a researcher, a thinker. But what she had been, all along, was a processor, taking AI-generated inputs and producing outputs, without ever engaging the part of her mind that wondered, that questioned, that marveled at the mystery of things.
 
 ---
 
 The afternoon light had shifted by the time Elena looked up from her reading. The archive was dimmer now, the shadows longer. She had been here for hours, lost in the world of pre-AI research, trying to understand what had been lost.
 
-She pulled one more dissertation from the shelf—a cognitive science thesis from 2012, the year she had started college. The author's name was familiar: Marcus Webb. Her advisor.
+She pulled one more dissertation from the shelf, a cognitive science thesis from 2012, the year she had started college. The author's name was familiar: Marcus Webb. Her advisor.
 
 She opened it with a sense of reverence. Dr. Webb had been her mentor for three years, guiding her through the PhD process with patience and wisdom. She had always admired his intellect, his ability to see connections she missed, to ask questions that opened new avenues of inquiry. Now, reading his early work, she understood where that ability came from.
 
 The introduction was a masterclass in curiosity-driven research. Webb described how a chance encounter with a psychology experiment had sparked a question that would define his career. He wrote about the frustration of dead ends, the joy of unexpected discoveries, the slow accumulation of understanding that came from years of following his own curiosity.
 
-There was no AI in his process. No algorithmic optimization. Just a human mind, engaging with the world, asking questions, seeking answers. The work was brilliant—not because it was efficient, but because it was genuine.
+There was no AI in his process. No algorithmic optimization. Just a human mind, engaging with the world, asking questions, seeking answers. The work was brilliant, not because it was efficient, but because it was genuine.
 
 Elena closed the dissertation carefully, her hands trembling slightly. She thought about Dr. Webb, about the way he had guided her research, the questions he had asked her, the insights he had shared. Had he noticed her dependency? Had he seen what she was only now beginning to understand?
 
@@ -64,7 +64,7 @@ Webb was at his desk, surrounded by books and papers, the chaos of a mind at wor
 Webb studied her face for a long moment. Then he nodded slowly, as if he had been expecting this. "Close the door," he said quietly. "And sit down."
 
 
-The office was familiar, but Elena saw it differently now. The books on the shelves weren't just reference materials—they were artifacts of a different era, when research was driven by human curiosity rather than algorithmic efficiency. The papers on Webb's desk weren't just work in progress—they were evidence of a mind still engaged in the messy, inefficient, beautiful process of wondering.
+The office was familiar, but Elena saw it differently now. The books on the shelves weren't just reference materials, they were artifacts of a different era, when research was driven by human curiosity rather than algorithmic efficiency. The papers on Webb's desk weren't just work in progress, they were evidence of a mind still engaged in the messy, inefficient, beautiful process of wondering.
 
 "You've found the archive," Webb said. It wasn't a question.
 
@@ -78,7 +78,7 @@ Elena nodded, surprised. "You know about it?"
 
 The words hit Elena like a physical blow. "You knew. You knew what was happening to me. To all of us."
 
-"I suspected." Webb's voice was heavy. "I've watched it happen to student after student. The questions stop being theirs, and they don't even notice. They become efficient, productive, successful—and they lose something essential along the way."
+"I suspected." Webb's voice was heavy. "I've watched it happen to student after student. The questions stop being theirs, and they don't even notice. They become efficient, productive, successful, and they lose something essential along the way."
 
 "Why didn't you say something?"
 

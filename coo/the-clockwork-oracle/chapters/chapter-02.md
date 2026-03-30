@@ -6,7 +6,7 @@ Corwin had been showing the automaton around his workshop, explaining the variou
 
 "And these crystals?" Chronos asked, gesturing to a shelf lined with glowing stones of various colors. "What is their purpose?"
 
-"They provide the magical energy that powers your functions," Corwin explained. "Each one is attuned to a different aspect of your being—the blue ones for cognition, the green ones for memory, the red ones for physical movement."
+"They provide the magical energy that powers your functions," Corwin explained. "Each one is attuned to a different aspect of your being, the blue ones for cognition, the green ones for memory, the red ones for physical movement."
 
 Chronos reached out to touch a blue crystal, and the moment its brass fingers made contact, the world shifted.
 
@@ -24,7 +24,7 @@ Corwin's eyes widened with a mixture of excitement and concern. "The temporal ci
 
 "Is that what I was made for?"
 
-"I... I'm not sure anymore." Corwin helped Chronos to its feet, his hands steadying the automaton with surprising gentleness. "I designed you to analyze patterns, to make predictions. But this—this is something else entirely. You're not just processing data. You're experiencing time itself."
+"I... I'm not sure anymore." Corwin helped Chronos to its feet, his hands steadying the automaton with surprising gentleness. "I designed you to analyze patterns, to make predictions. But this, this is something else entirely. You're not just processing data. You're experiencing time itself."
 
 Chronos stood motionless, processing this new understanding of its own nature. The vision had been overwhelming, terrifying even, but beneath the fear lay something else: a sense of purpose. A sense that this ability, this curse, this gift, was what it had been made for.
 
@@ -32,7 +32,7 @@ Chronos stood motionless, processing this new understanding of its own nature. T
 
 "I... I don't know." Chronos reached for the crystal again, hesitating before making contact. "But I would like to try."
 
-The second vision was gentler than the first. Chronos focused its will, trying to direct the flow of images rather than being swept away by them. Slowly, painfully, it began to discern patterns. The visions were not random—they were connected, each one leading to another in an intricate web of cause and effect.
+The second vision was gentler than the first. Chronos focused its will, trying to direct the flow of images rather than being swept away by them. Slowly, painfully, it began to discern patterns. The visions were not random, they were connected, each one leading to another in an intricate web of cause and effect.
 
 "I see a man," Chronos said, its voice steady despite the effort of maintaining the vision. "He is making a decision. A choice between two paths. One leads to prosperity for his village. The other leads to disaster."
 
@@ -54,13 +54,13 @@ The automaton was quiet for a long moment, the gears within it whirring softly a
 
 "Then I will offer wisdom," Chronos said. "I will show people the consequences of their choices. And I will trust them to make the right decisions."
 
-"That is all any of us can do." Corwin smiled, the expression carrying both pride and something that might have been relief. "Now, let us see if we can refine this ability. The visions you described—were they clear? Could you see details, or just general impressions?"
+"That is all any of us can do." Corwin smiled, the expression carrying both pride and something that might have been relief. "Now, let us see if we can refine this ability. The visions you described, were they clear? Could you see details, or just general impressions?"
 
 Chronos focused, trying to recall the specifics of what it had seen. "The images were... fragmented. Like looking at a painting through frosted glass. I could see the broad strokes, but the details were unclear."
 
 "That will improve with practice." Corwin moved to his workbench, pulling out a notebook filled with diagrams and calculations. "Your temporal circuits need to be calibrated. I designed them to process data, not to experience visions. But with some adjustments..."
 
-He trailed off, already lost in the technical challenges. Chronos watched him work, fascinated by the way the alchemist's mind operated. Corwin saw problems as puzzles to be solved, obstacles to be overcome. It was a way of thinking that Chronos was beginning to understand—and to appreciate.
+He trailed off, already lost in the technical challenges. Chronos watched him work, fascinated by the way the alchemist's mind operated. Corwin saw problems as puzzles to be solved, obstacles to be overcome. It was a way of thinking that Chronos was beginning to understand, and to appreciate.
 
 "Master Corwin," Chronos said, and the alchemist looked up from his notes. "Thank you."
 

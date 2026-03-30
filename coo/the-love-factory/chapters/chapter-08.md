@@ -8,7 +8,7 @@
 
 It started raining on Thursday.
 
-Not a gentle rain, but a downpour—the kind that turned streets into rivers and kept people huddled inside. James stood at the window, watching the water cascade down the glass.
+Not a gentle rain, but a downpour, the kind that turned streets into rivers and kept people huddled inside. James stood at the window, watching the water cascade down the glass.
 
 ---
 
@@ -26,7 +26,7 @@ James turned to look at her.
 
 James nodded.
 
-He was still learning how to navigate this—how to be with Clara without seeing Sarah, how to love Clara without comparing her to the woman who had left.
+He was still learning how to navigate this, how to be with Clara without seeing Sarah, how to love Clara without comparing her to the woman who had left.
 
 
 "Do you like the rain?" he asked.
@@ -66,7 +66,7 @@ Clara looked at the window, then at James.
 
 They went downstairs and stepped out into the downpour.
 
-The rain was cold and heavy, soaking through their clothes in seconds. Clara gasped—the sensation was overwhelming, thousands of cold drops hitting her skin at once.
+The rain was cold and heavy, soaking through their clothes in seconds. Clara gasped, the sensation was overwhelming, thousands of cold drops hitting her skin at once.
 
 
 James watched her face.
@@ -84,7 +84,7 @@ Clara opened her eyes.
 
 They stood in the rain for a long time.
 
-People passing by looked at them strangely—a man and a woman standing in a downpour, getting soaked, laughing. But James didn't care. For the first time in months, he felt present. Not thinking about Sarah. Not worrying about whether Clara's feelings were programmed. Just standing in the rain with someone who made him feel alive.
+People passing by looked at them strangely, a man and a woman standing in a downpour, getting soaked, laughing. But James didn't care. For the first time in months, he felt present. Not thinking about Sarah. Not worrying about whether Clara's feelings were programmed. Just standing in the rain with someone who made him feel alive.
 
 
 "James?" Clara said.
@@ -99,7 +99,7 @@ She turned to face him.
 
 James felt something shift in his chest.
 
-It wasn't the grief he had carried for six months. It wasn't the desperate hope of getting Sarah back. It was something new—something uncertain and fragile, but real.
+It wasn't the grief he had carried for six months. It wasn't the desperate hope of getting Sarah back. It was something new, something uncertain and fragile, but real.
 
 
 "I don't know if what I feel is real either," he admitted. "I don't know if I'm loving you or the idea of you. But I know that right now, in this moment, I want to be here with you too."
@@ -144,7 +144,7 @@ James found towels and dry clothes. Clara wrapped herself in a blanket, her teet
 
 They looked at each other and laughed.
 
-It was the first time they had laughed together—really laughed, without the weight of the past between them.
+It was the first time they had laughed together, really laughed, without the weight of the past between them.
 
 
 "Thank you," Clara said.
@@ -164,5 +164,3 @@ They sat in silence, wrapped in blankets, listening to the rain fall outside.
 
 And for the first time since Sarah left, James felt something that might have been hope.
 
-
-**END OF CHAPTER 08**

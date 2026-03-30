@@ -141,6 +141,5 @@ Not because it was optimal. Not because it was efficient. But because it was his
 The threshold waited. And Marcus, finally, was ready to cross it.
 
 
-**END OF CHAPTER 10**
 **END OF BOOK 8: THE TOKEN ADDICT: DISSOLVING SELF**
 **END OF THE TOKEN ADDICT SERIES**

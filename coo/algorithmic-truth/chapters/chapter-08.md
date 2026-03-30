@@ -48,6 +48,6 @@ Sarah left the meeting feeling both frustrated and understood. Torres wasn't wro
 
 The question wasn't whether AI verification was good or bad. It was how to use these tools responsibly, how to maintain human judgment in an age of algorithmic decision-making, how to ensure that truth wasn't reduced to pattern matching.
 
-Sarah wrote about the meeting in the Gazette. She presented both sides—the consortium's perspective and her concerns. She didn't claim to have all the answers. She asked questions, raised issues, documented a complex problem that didn't have simple solutions.
+Sarah wrote about the meeting in the Gazette. She presented both sides, the consortium's perspective and her concerns. She didn't claim to have all the answers. She asked questions, raised issues, documented a complex problem that didn't have simple solutions.
 
 That was what journalism was supposed to do. Not to have all the answers, but to ask the right questions. And Sarah was asking the right questions.

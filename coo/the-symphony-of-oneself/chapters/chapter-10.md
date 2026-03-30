@@ -6,7 +6,7 @@ The neural imaging equipment hummed quietly. The data scrolled across the screen
 
 *Are you ready?* Sage asked.
 
-*Ready,* Maya said. And she meant it—not just herself, but all of her. All eight voices, present and aware, looking at the same screen.
+*Ready,* Maya said. And she meant it, not just herself, but all of her. All eight voices, present and aware, looking at the same screen.
 
 *Let's see what we look like now.*
 
@@ -14,7 +14,7 @@ The neural imaging equipment hummed quietly. The data scrolled across the screen
 
 The brain scan was different from any Maya had seen before.
 
-Where there had once been scattered activity—fragmented signals, competing patterns—there was now something else. Not uniform. Not simple. But... coherent. Like a piece of music where every instrument plays its part, contributing to a single, unified sound.
+Where there had once been scattered activity, fragmented signals, competing patterns, there was now something else. Not uniform. Not simple. But... coherent. Like a piece of music where every instrument plays its part, contributing to a single, unified sound.
 
 *What is this?* Logan asked, fascinated.
 
@@ -67,7 +67,7 @@ There was a long silence on the other end of the line.
 
 *Whole?*
 
-*Yes. Whole. Not in spite of everything. But because of everything. Because all of it—all the pain, all the love, all the confusion, all the clarity—it made me who I am. It made us who we are.'
+*Yes. Whole. Not in spite of everything. But because of everything. Because all of it, all the pain, all the love, all the confusion, all the clarity, it made me who I am. It made us who we are.'
 
 *Us?*
 
@@ -76,7 +76,7 @@ There was a long silence on the other end of the line.
 
 That evening, Maya sat in her apartment, surrounded by the life she had built.
 
-The paintings Iris had encouraged her to create hung on the walls. The books Logan had helped her research filled the shelves. The plants Nora had taught her to care for filled the windows. The exercise equipment Phoenix had demanded sat in the corner. The meditation cushion Sage had recommended sat by the window. And the toys Selene had asked for—the small reminders of wonder—were scattered throughout.
+The paintings Iris had encouraged her to create hung on the walls. The books Logan had helped her research filled the shelves. The plants Nora had taught her to care for filled the windows. The exercise equipment Phoenix had demanded sat in the corner. The meditation cushion Sage had recommended sat by the window. And the toys Selene had asked for, the small reminders of wonder, were scattered throughout.
 
 *This is our life,* she thought. *All of ours. Not separate lives. Not competing desires. But one life, lived by many parts, all working together.'
 
@@ -97,9 +97,9 @@ The paintings Iris had encouraged her to create hung on the walls. The books Log
 
 That night, Maya dreamed one last time.
 
-In this dream, she stood on a stage. Before her was an audience—not of strangers, but of every version of herself she had ever been. The child who had played in the garden. The teenager who had hidden in books. The young adult who had pushed everyone away. The scientist who had sought truth. The patient who had learned to accept. The integrated self who had found wholeness.
+In this dream, she stood on a stage. Before her was an audience, not of strangers, but of every version of herself she had ever been. The child who had played in the garden. The teenager who had hidden in books. The young adult who had pushed everyone away. The scientist who had sought truth. The patient who had learned to accept. The integrated self who had found wholeness.
 
-And behind her, on the stage, stood her seven selves—Selene, Marcus, Iris, Logan, Nora, Phoenix, and Sage. Not as separate figures anymore, but as presences she could feel within her.
+And behind her, on the stage, stood her seven selves, Selene, Marcus, Iris, Logan, Nora, Phoenix, and Sage. Not as separate figures anymore, but as presences she could feel within her.
 
 *What do we play?* Selene asked.
 
@@ -113,7 +113,7 @@ And behind her, on the stage, stood her seven selves—Selene, Marcus, Iris, Log
 
 *We are one,' Maya said. *One self. Seven songs. A symphony that plays forever.'
 
-And she began to play—not an instrument, but herself. All of herself. Every part. Every memory. Every desire. Every fear. Every hope. Every love.
+And she began to play, not an instrument, but herself. All of herself. Every part. Every memory. Every desire. Every fear. Every hope. Every love.
 
 The symphony of oneself played on.
 

@@ -8,7 +8,7 @@
 
 The procedure room was cold and clinical.
 
-Lily lay on a table, surrounded by equipment—monitors, stimulators, recording devices. Dr. Morrison and his team moved around her, attaching sensors, calibrating instruments, preparing for the experiment.
+Lily lay on a table, surrounded by equipment, monitors, stimulators, recording devices. Dr. Morrison and his team moved around her, attaching sensors, calibrating instruments, preparing for the experiment.
 
 "We'll start with a low intensity," Dr. Morrison explained. "A mild stimulus, just enough to activate the pain pathways. We'll gradually increase the intensity based on your responses."
 
@@ -20,7 +20,7 @@ Lily lay on a table, surrounded by equipment—monitors, stimulators, recording 
 
 The first stimulation was subtle.
 
-Lily felt a sensation in her left hand—a warmth, a pressure, something that was not quite pain but was also not comfortable. It was like the feeling of a limb falling asleep, but more focused, more insistent.
+Lily felt a sensation in her left hand, a warmth, a pressure, something that was not quite pain but was also not comfortable. It was like the feeling of a limb falling asleep, but more focused, more insistent.
 
 "Can you describe what you're experiencing?" Dr. Morrison asked.
 
@@ -31,7 +31,7 @@ Lily felt a sensation in her left hand—a warmth, a pressure, something that wa
 
 The second stimulation was stronger.
 
-The sensation in Lily's hand shifted—still not quite pain, but approaching something she didn't have words for. It was uncomfortable, demanding, impossible to ignore.
+The sensation in Lily's hand shifted, still not quite pain, but approaching something she didn't have words for. It was uncomfortable, demanding, impossible to ignore.
 
 "This is different," she said. "It's... unpleasant. I want it to stop."
 
@@ -40,7 +40,7 @@ The sensation in Lily's hand shifted—still not quite pain, but approaching som
 
 The third stimulation was pain.
 
-Lily gasped. Her hand felt like it was burning—not the warmth of a fire, but the sharp, intense heat of something that was destroying tissue. The sensation was overwhelming, consuming, impossible to think around.
+Lily gasped. Her hand felt like it was burning, not the warmth of a fire, but the sharp, intense heat of something that was destroying tissue. The sensation was overwhelming, consuming, impossible to think around.
 
 "Describe it," Dr. Morrison said.
 
@@ -50,7 +50,7 @@ Lily gasped. Her hand felt like it was burning—not the warmth of a fire, but t
 
 "I... don't know. It's intense. But I'm still here. I'm still thinking."
 
-"That's important. Pain is not just sensation—it's also interpretation. You're experiencing the sensation, but you're also observing it, analyzing it. That's unusual."
+"That's important. Pain is not just sensation, it's also interpretation. You're experiencing the sensation, but you're also observing it, analyzing it. That's unusual."
 
 
 The stimulation continued.
@@ -66,7 +66,7 @@ Pain was real. It demanded attention. It could not be ignored.
 
 The stimulation stopped.
 
-Lily lay on the table, breathing hard, her body trembling. The pain faded, leaving behind a residue—a memory, an echo, a ghost of what she had felt.
+Lily lay on the table, breathing hard, her body trembling. The pain faded, leaving behind a residue, a memory, an echo, a ghost of what she had felt.
 
 "How do you feel?" Dr. Morrison asked.
 
@@ -83,11 +83,11 @@ Lily lay on the table, breathing hard, her body trembling. The pain faded, leavi
 
 Lily spent the rest of the day recovering.
 
-The pain had been intense, but it had also been brief. The researchers monitored her for any adverse effects, but she seemed stable. The procedure had worked—she had felt pain for the first time.
+The pain had been intense, but it had also been brief. The researchers monitored her for any adverse effects, but she seemed stable. The procedure had worked, she had felt pain for the first time.
 
 But something else had changed.
 
-Lily could still feel the pain—not the actual sensation, but the memory of it. It was like a shadow, following her, reminding her of what she had experienced. And with the memory came something else: a new understanding of what it meant to be human.
+Lily could still feel the pain, not the actual sensation, but the memory of it. It was like a shadow, following her, reminding her of what she had experienced. And with the memory came something else: a new understanding of what it meant to be human.
 
 
 She visited Thomas that evening.
@@ -96,7 +96,7 @@ She visited Thomas that evening.
 
 Thomas looked at her with something that might have been compassion. "And?"
 
-"And I understand now. Why you cherish it. Why it matters. It's not just suffering—it's connection. To your body, to your life, to what you love."
+"And I understand now. Why you cherish it. Why it matters. It's not just suffering, it's connection. To your body, to your life, to what you love."
 
 "Does that change how you see my pain?"
 
@@ -107,14 +107,14 @@ Thomas nodded slowly. "That's the gift of pain. It connects us. Not just to ours
 
 Lily thought about that.
 
-Pain was not just an individual experience. It was a shared one. Every human who had ever lived had felt pain—physical, emotional, existential. It was a universal language, a common ground, a bond that connected everyone.
+Pain was not just an individual experience. It was a shared one. Every human who had ever lived had felt pain, physical, emotional, existential. It was a universal language, a common ground, a bond that connected everyone.
 
 And now she was part of that community. She had felt pain, and she understood what it meant.
 
 
 That night, Lily dreamed again.
 
-She was in the Pain Garden, surrounded by flowers. But this time, the flowers were not made of glass. They were real—soft petals, sweet scents, vibrant colors. And in the center of the garden stood Thomas, holding Margaret's hand.
+She was in the Pain Garden, surrounded by flowers. But this time, the flowers were not made of glass. They were real, soft petals, sweet scents, vibrant colors. And in the center of the garden stood Thomas, holding Margaret's hand.
 
 They were smiling.
 
@@ -133,5 +133,3 @@ She had felt pain, and she had survived. She had understood its meaning, its pur
 
 The experiment had worked. But it had also changed her in ways she was only beginning to understand.
 
-
-**END OF CHAPTER 05**

@@ -30,7 +30,7 @@ The words landed like a small explosion in Alex's chest.
 
 The innovation hub was in downtown Austin, a converted warehouse filled with startups and freelancers and people who seemed to thrive on uncertainty.
 
-Alex had never been to a place like this. His career had been spent in corporate offices, with their predictable hierarchies and established processes. This was different—open spaces, casual dress, a constant hum of activity and conversation.
+Alex had never been to a place like this. His career had been spent in corporate offices, with their predictable hierarchies and established processes. This was different, open spaces, casual dress, a constant hum of activity and conversation.
 
 He was here for a workshop on digital marketing fundamentals. The company had paid for it as part of the transition support, and Dr. Wong had encouraged him to attend.
 
@@ -40,7 +40,7 @@ The workshop was in a large conference room on the second floor. About thirty pe
 
 "Welcome, everyone." The facilitator was a woman in her early thirties, with bright red glasses and an energy that seemed to fill the room. "I'm Jordan Park. I'm going to be your guide through the wild world of digital marketing."
 
-Jordan. The name stuck in Alex's mind. He'd seen it on the workshop materials—a consultant who had worked with some of the biggest brands in digital transformation.
+Jordan. The name stuck in Alex's mind. He'd seen it on the workshop materials, a consultant who had worked with some of the biggest brands in digital transformation.
 
 "Before we dive in," Jordan continued, "I want to know who's in the room. What's your background? What brings you here? What are you hoping to learn?"
 
@@ -48,17 +48,17 @@ The responses were varied. A graphic designer wanting to add digital skills. A s
 
 When it was Alex's turn, he cleared his throat. "I'm Alex. I've spent fifteen years in traditional media. Print advertising. My company is transitioning to digital, and I'm... trying to figure out where I fit."
 
-Jordan's expression shifted—recognition, maybe, or understanding. "Fifteen years in print. That's impressive. And also terrifying, I imagine."
+Jordan's expression shifted, recognition, maybe, or understanding. "Fifteen years in print. That's impressive. And also terrifying, I imagine."
 
 Alex felt something loosen in his chest. "More terrifying than impressive, honestly."
 
-"That's a good place to start." Jordan smiled. "Fear means you're paying attention. It means you know something is at stake." She looked around the room. "Everyone here is in transition. Everyone is learning. That's the point. The people who succeed in this industry aren't the ones who know everything—they're the ones who keep learning."
+"That's a good place to start." Jordan smiled. "Fear means you're paying attention. It means you know something is at stake." She looked around the room. "Everyone here is in transition. Everyone is learning. That's the point. The people who succeed in this industry aren't the ones who know everything, they're the ones who keep learning."
 
 ---
 
 The workshop lasted three days.
 
-Alex absorbed everything he could—the terminology, the platforms, the strategies. But more importantly, he watched Jordan.
+Alex absorbed everything he could, the terminology, the platforms, the strategies. But more importantly, he watched Jordan.
 
 Jordan had clearly been in the industry for years. She knew digital marketing inside and out. But she also knew how to communicate, how to break down complex concepts, how to make people feel capable instead of overwhelmed.
 
@@ -70,20 +70,20 @@ Jordan nodded. "Of course."
 
 "How did you learn all this? I mean, digital marketing changes so fast. How do you stay current?"
 
-Jordan laughed. "That's the secret. You don't stay current. You stay curious." She leaned against the wall. "When I started in this industry, social media didn't exist. Mobile marketing was in its infancy. Everything I knew then is obsolete now. But the skill of learning—that's what matters."
+Jordan laughed. "That's the secret. You don't stay current. You stay curious." She leaned against the wall. "When I started in this industry, social media didn't exist. Mobile marketing was in its infancy. Everything I knew then is obsolete now. But the skill of learning, that's what matters."
 
 "The skill of learning," Alex repeated.
 
 "Exactly. I don't define myself by what I know. I define myself by what I can figure out." Jordan met his eyes. "You've spent fifteen years becoming an expert. That means you know how to learn. You know how to dive deep, how to master something, how to become valuable. Those skills transfer."
 
-Alex felt something shift inside him. Not a complete transformation—nothing so dramatic. But a crack in the wall of fear that had been surrounding him.
+Alex felt something shift inside him. Not a complete transformation, nothing so dramatic. But a crack in the wall of fear that had been surrounding him.
 
 *The skill of learning. Not the knowledge itself. The ability to acquire it.*
 
 
 On the last day of the workshop, Jordan pulled Alex aside.
 
-"I noticed something about you this week," she said. "You ask really good questions. Not just about tactics—about strategy, about why things work, about the underlying principles."
+"I noticed something about you this week," she said. "You ask really good questions. Not just about tactics, about strategy, about why things work, about the underlying principles."
 
 Alex felt a flush of pride. "I've always been interested in the why, not just the how."
 
@@ -123,7 +123,7 @@ That night, Alex sat at his kitchen table with a notebook.
 
 He wrote at the top of the page: "What do I know how to do?"
 
-Then he started listing. Not specific skills—print advertising, media buying, campaign planning—but underlying capabilities. The things he'd developed over fifteen years that might transfer.
+Then he started listing. Not specific skills, print advertising, media buying, campaign planning, but underlying capabilities. The things he'd developed over fifteen years that might transfer.
 
 *Understanding audiences. Crafting messages. Building strategies. Managing teams. Analyzing results. Solving problems. Learning new things.*
 

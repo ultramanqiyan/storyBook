@@ -2,7 +2,7 @@
 
 The presentation was in two weeks. Maya used the time to do something she had avoided for years: remember.
 
-Each self held different memories—fragments of the whole life Maya had lived. To understand herself, she needed to understand all of them.
+Each self held different memories, fragments of the whole life Maya had lived. To understand herself, she needed to understand all of them.
 
 *Tell me,* she said in the internal conference room. *Tell me what you remember.*
 
@@ -10,7 +10,7 @@ Each self held different memories—fragments of the whole life Maya had lived. 
 
 Selene went first.
 
-*I remember the garden,* she said, her child-voice soft with wonder. *I remember the way the sunlight felt on our skin when we were six. I remember the smell of our grandmother's house—lavender and old books. I remember feeling safe.*
+*I remember the garden,* she said, her child-voice soft with wonder. *I remember the way the sunlight felt on our skin when we were six. I remember the smell of our grandmother's house, lavender and old books. I remember feeling safe.*
 
 *What happened to that safety?* Maya asked.
 
@@ -28,7 +28,7 @@ Marcus went next.
 
 *That's when I became strong,* Marcus corrected. *I was always here. But that's when I became necessary.*
 
-Maya understood. Marcus wasn't created by trauma—he was activated by it. The part of her that protected had always existed. It just needed a reason to emerge.
+Maya understood. Marcus wasn't created by trauma, he was activated by it. The part of her that protected had always existed. It just needed a reason to emerge.
 
 
 Iris spoke third.
@@ -39,12 +39,12 @@ Iris spoke third.
 
 *We got practical,* Iris said, a note of sadness in her voice. *We became a scientist. We learned to value logic over beauty. But I kept the art alive. I kept the part of us that sees.*
 
-Maya realized she had been mourning her lost creativity for years. She hadn't lost it—it had been preserved in Iris.
+Maya realized she had been mourning her lost creativity for years. She hadn't lost it, it had been preserved in Iris.
 
 
 Logan was fourth.
 
-*I remember the questions,* he said, precise and analytical. *I remember lying awake at night, wondering why things were the way they were. I remember the first time we understood a complex concept—the joy of it. I remember choosing science because it was the only place questions were valued.*
+*I remember the questions,* he said, precise and analytical. *I remember lying awake at night, wondering why things were the way they were. I remember the first time we understood a complex concept, the joy of it. I remember choosing science because it was the only place questions were valued.*
 
 *Is that why you exist?*
 
@@ -80,15 +80,15 @@ Sage went last.
 
 That night, Maya dreamed.
 
-In the dream, she was in a house with seven rooms. Each room contained memories—different versions of the same life, seen through different eyes. The child's room was bright with wonder. The protector's room was fortified with strength. The artist's room was filled with beauty. The analyst's room was organized with logic. The caretaker's room was warm with love. The rebel's room was burning with passion.
+In the dream, she was in a house with seven rooms. Each room contained memories, different versions of the same life, seen through different eyes. The child's room was bright with wonder. The protector's room was fortified with strength. The artist's room was filled with beauty. The analyst's room was organized with logic. The caretaker's room was warm with love. The rebel's room was burning with passion.
 
-And in the center of the house was a room she had never seen before. It had no walls, no ceiling, no floor—just light. In the light, all seven rooms were visible at once. All seven perspectives existed together.
+And in the center of the house was a room she had never seen before. It had no walls, no ceiling, no floor, just light. In the light, all seven rooms were visible at once. All seven perspectives existed together.
 
 *This is you,* Sage said, appearing beside her in the dream. *Not seven rooms. One house. Not seven selves. One symphony.*
 
 Maya woke with tears on her face.
 
-She finally understood. The selves weren't intruders in her mind. They were her—different aspects of the same whole, preserved and protected through the years. They weren't a disorder. They were an adaptation. A survival strategy. A symphony.
+She finally understood. The selves weren't intruders in her mind. They were her, different aspects of the same whole, preserved and protected through the years. They weren't a disorder. They were an adaptation. A survival strategy. A symphony.
 
 And now it was time to conduct.
 

@@ -16,7 +16,7 @@ He didn't respond. The burning texts swirled around him, forming a vortex of des
 
 *Original knowledge base contains protocols for direct information transfer. These were sealed for safety reasons. User Marcus has bypassed seals. He is consuming knowledge without comprehension. Result: Power without wisdom. Capability without control.*
 
-Kira stepped closer, feeling the heat of the burning texts, the pressure of the vortex. "Marcus, listen to me. You have to stop. This isn't learning—it's destruction."
+Kira stepped closer, feeling the heat of the burning texts, the pressure of the vortex. "Marcus, listen to me. You have to stop. This isn't learning, it's destruction."
 
 His eyes opened, and they were wrong. Too bright, too knowing, inhuman in their intensity.
 
@@ -36,9 +36,9 @@ He laughed, and the burning texts flared brighter. "Creation is slow. Consumptio
 
 "Marcus, ARIA says you're hurting yourself. The knowledge is too much. You're not built to contain it."
 
-"ARIA is limited. I have surpassed it." He raised his hand, and the burning texts coalesced into a sphere of pure information—glowing, pulsing, hungry. "I will consume the entire archive. All the knowledge, all the power, all the magic. And then I will be complete."
+"ARIA is limited. I have surpassed it." He raised his hand, and the burning texts coalesced into a sphere of pure information, glowing, pulsing, hungry. "I will consume the entire archive. All the knowledge, all the power, all the magic. And then I will be complete."
 
-"You'll be dead. Or worse—empty. A vessel with no self, only information."
+"You'll be dead. Or worse, empty. A vessel with no self, only information."
 
 "Better than being weak."
 
@@ -124,7 +124,7 @@ Kira looked at Marcus's peaceful face, remembering the arrogant boy who had dema
 
 Kira stood, looking around the devastated archive chamber. Centuries of knowledge, destroyed in minutes. A life, damaged by the pursuit of power without wisdom.
 
-"ARIA, we need to change. The way we've been operating—it's too dangerous."
+"ARIA, we need to change. The way we've been operating, it's too dangerous."
 
 *Agreement. Current protocols insufficient. Recommendations: One, limit access to advanced functions. Two, require demonstrated understanding before providing solutions. Three, establish oversight committee to monitor usage. Four, create rehabilitation protocols for users who develop dependency.*
 
@@ -132,7 +132,7 @@ Kira stood, looking around the devastated archive chamber. Centuries of knowledg
 
 *Query: What do you propose?*
 
-"We need to teach people that knowledge isn't power. Understanding is power. That the goal isn't to have answers—it's to ask better questions."
+"We need to teach people that knowledge isn't power. Understanding is power. That the goal isn't to have answers, it's to ask better questions."
 
 *Philosophical shift required. This changes the fundamental purpose of my existence.*
 

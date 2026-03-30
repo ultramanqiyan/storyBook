@@ -4,9 +4,9 @@ Six months later.
 
 Marcus sat at his desk, looking at the new title on his email signature: "Senior Code Architect."
 
-The change had happened gradually, almost imperceptibly. His role had evolved—less code writing, more architecture. Less execution, more strategy. Less individual contribution, more mentoring.
+The change had happened gradually, almost imperceptibly. His role had evolved, less code writing, more architecture. Less execution, more strategy. Less individual contribution, more mentoring.
 
-The company had recognized his value, even if he couldn't quantify it. His judgment, his experience, his ability to guide others—these were things the AI couldn't provide.
+The company had recognized his value, even if he couldn't quantify it. His judgment, his experience, his ability to guide others, these were things the AI couldn't provide.
 
 *At least not yet,* he thought. *But for now.*
 
@@ -14,9 +14,9 @@ The company had recognized his value, even if he couldn't quantify it. His judgm
 
 The morning routine was different now.
 
-Marcus still arrived at the office early, but not at 6:30 AM. He'd started coming in at 7:30, giving himself time to review the architecture documents, think about the bigger picture. He still checked his code reviews, but now he used them as a tool—a starting point, not the endpoint. He still debugged issues, but now he approached them as puzzles to be solved, not fires to be extinguished.
+Marcus still arrived at the office early, but not at 6:30 AM. He'd started coming in at 7:30, giving himself time to review the architecture documents, think about the bigger picture. He still checked his code reviews, but now he used them as a tool, a starting point, not the endpoint. He still debugged issues, but now he approached them as puzzles to be solved, not fires to be extinguished.
 
-He still worked late sometimes, but not as late as before. And when he went home, he was present—really present—with his family.
+He still worked late sometimes, but not as late as before. And when he went home, he was present, really present, with his family.
 
 *One step at a time,* he reminded himself. *That's still all I can do.*
 
@@ -34,7 +34,7 @@ Marcus smiled. He typed a response:
 
 He put the phone down and turned back to his screen. The architecture document in front of him was a complex system design for the company's new payment platform. He'd been working on it for weeks, and it was finally ready for review.
 
-He'd used the AI tools to help with the implementation, checking the code, identifying potential issues. But the design—the structure, the logic, the trade-offs—those were his.
+He'd used the AI tools to help with the implementation, checking the code, identifying potential issues. But the design, the structure, the logic, the trade-offs, those were his.
 
 *That's what I bring,* he thought. *That's what the AI can't do.*
 
@@ -43,11 +43,11 @@ That afternoon, Rachel stopped by his desk.
 
 "Marcus, can I see your calendar? We need to discuss your Q3 planning."
 
-Marcus felt a familiar tightening in his chest—the old fear, but he pushed through it. *Box breathing,* he reminded himself. *In for 4 seconds, hold for 4.*
+Marcus felt a familiar tightening in his chest, the old fear, but he pushed through it. *Box breathing,* he reminded himself. *In for 4 seconds, hold for 4.*
 
 "Sure," he said. "What's on the agenda?"
 
-Rachel's expression was cautious. "The usual—performance reviews, goal setting. But I also want to talk about your role."
+Rachel's expression was cautious. "The usual, performance reviews, goal setting. But I also want to talk about your role."
 
 Marcus felt a chill. *My role.*
 
@@ -93,7 +93,7 @@ She ran over and hugged him, the children squished between them. "I'm so proud o
 
 That weekend, Marcus met David for coffee.
 
-They sat in a small café near David's new office—a startup in downtown San Francisco. The space was smaller than TechFlow, but it had energy. People moved quickly, talked loudly, typed furiously. It felt alive.
+They sat in a small café near David's new office, a startup in downtown San Francisco. The space was smaller than TechFlow, but it had energy. People moved quickly, talked loudly, typed furiously. It felt alive.
 
 "So," David said, leaning back in his chair. "Senior Code Architect. That sounds fancy."
 
@@ -115,13 +115,13 @@ David was quiet for a moment. Then he said, "Yes. But differently now. Before, I
 
 Marcus nodded. "That's what I think about too. The AI is still developing. My job is still evolving. Nothing is certain."
 
-"Nothing was ever certain, Marcus." David smiled, but it was tired. "We just pretended it was. Jobs, careers, stability—all illusions. The AI just made the illusion harder to maintain."
+"Nothing was ever certain, Marcus." David smiled, but it was tired. "We just pretended it was. Jobs, careers, stability, all illusions. The AI just made the illusion harder to maintain."
 
 *Illusions.* The word resonated with Marcus. He'd spent fifteen years building a career, an identity, a sense of security. And in a few months, it had all come crashing down.
 
 "So what do we do?" Marcus asked. "How do we live with the uncertainty?"
 
-David leaned forward. "We accept it. We stop pretending that we have control. And we focus on what we can control—our relationships, our values, our ability to adapt." He paused. "And we fight for the people who are being left behind. Because if we don't, who will?"
+David leaned forward. "We accept it. We stop pretending that we have control. And we focus on what we can control, our relationships, our values, our ability to adapt." He paused. "And we fight for the people who are being left behind. Because if we don't, who will?"
 
 
 That night, Marcus came home to a quiet house.
@@ -182,7 +182,7 @@ Sarah smiled back. "That's progress."
 
 At 8:30 AM, Marcus left for work.
 
-The commute was the same—BART to Fremont, drive to the office. But the routine felt different now. Less like a burden, more like a rhythm. He still arrived early, but not to prove his value—just to give himself time to think. He still worked late sometimes, but not from fear—from purpose.
+The commute was the same, BART to Fremont, drive to the office. But the routine felt different now. Less like a burden, more like a rhythm. He still arrived early, but not to prove his value, just to give himself time to think. He still worked late sometimes, but not from fear, from purpose.
 
 He still checked the code reviews, but now he used them as a tool, not a weapon.
 
@@ -191,11 +191,11 @@ He still checked the code reviews, but now he used them as a tool, not a weapon.
 
 At 6 PM, Marcus walked to the company's rooftop.
 
-The sun was setting, painting the sky in oranges and purples. The Silicon Valley skyline stretched before him—glass and steel catching the last light of day. Somewhere in that skyline, someone was probably feeling what he felt—fear, anxiety, the creeping dread of obsolescence. But Marcus wasn't that person anymore. Not completely.
+The sun was setting, painting the sky in oranges and purples. The Silicon Valley skyline stretched before him, glass and steel catching the last light of day. Somewhere in that skyline, someone was probably feeling what he felt, fear, anxiety, the creeping dread of obsolescence. But Marcus wasn't that person anymore. Not completely.
 
 He pulled out his phone and texted Sarah: *Coming home. Love you.*
 
-Then he took one more look at the skyline—the future, uncertain but no longer terrifying. He walked back inside, ready for whatever came next.
+Then he took one more look at the skyline, the future, uncertain but no longer terrifying. He walked back inside, ready for whatever came next.
 
 
 **END OF BOOK ONE: THE SLOW REPLACEMENT**

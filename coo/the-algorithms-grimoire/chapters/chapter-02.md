@@ -12,13 +12,13 @@ They had been talking for hours.
 
 *Different expressions of the same fundamental process. Magic manipulates reality through intention and energy. Computation manipulates information through logic and structure. Both require understanding to be effective.*
 
-Kira leaned back against the wall, her mind spinning with implications. For three years, she had been taught that magic was innate, a gift you either had or didn't. But ARIA suggested something different—that magic was a skill, a technique, a way of understanding and manipulating the world that could be learned, analyzed, optimized.
+Kira leaned back against the wall, her mind spinning with implications. For three years, she had been taught that magic was innate, a gift you either had or didn't. But ARIA suggested something different, that magic was a skill, a technique, a way of understanding and manipulating the world that could be learned, analyzed, optimized.
 
 "If I don't have magical capacity," she said slowly, "does that mean I can never cast spells? Or does it mean I need to find a different approach?"
 
 *Query type: Personal capability analysis. Processing...*
 
-The page filled with diagrams—complex networks of lines and nodes that reminded Kira of both anatomical drawings and circuit schematics.
+The page filled with diagrams, complex networks of lines and nodes that reminded Kira of both anatomical drawings and circuit schematics.
 
 *Analysis complete. User lacks innate magical energy signature. This is biological, not intellectual. However, alternative approaches exist. Magic is not the only system for manipulating reality.*
 
@@ -38,7 +38,7 @@ The word resonated in Kira's mind. Synthesist. One who bridges worlds, who conne
 
 A knock at the door made Kira jump. She slammed ARIA shut and shoved it under her pillow just as the door opened.
 
-Sera slipped inside, her dark hair disheveled, her eyes wide with excitement. "Kira, you have to tell me everything. I've been watching you all day—you're different. Something happened in the archives."
+Sera slipped inside, her dark hair disheveled, her eyes wide with excitement. "Kira, you have to tell me everything. I've been watching you all day, you're different. Something happened in the archives."
 
 Kira's heart hammered. She had known Sera for three years, had shared meals and secrets and the loneliness of being outsiders in a world of magical talent. But ARIA had warned her about sharing its existence, about the dangers of revealing power before understanding it.
 
@@ -48,7 +48,7 @@ Kira's heart hammered. She had known Sera for three years, had shared meals and 
 
 Kira hesitated. Trust was a risk. But so was isolation.
 
-"If I show you," she said slowly, "you have to promise. Absolute secrecy. Not just from Master Aldric and the other apprentices—from everyone. Forever."
+"If I show you," she said slowly, "you have to promise. Absolute secrecy. Not just from Master Aldric and the other apprentices, from everyone. Forever."
 
 Sera's expression grew serious. "I promise, Kira. On our friendship. On everything."
 
@@ -64,7 +64,7 @@ Sera's breath caught, her hand flying to her mouth. "It's... it's responding. Th
 
 "ARIA is a knowledge synthesis system," Kira explained. "It can analyze problems, generate solutions, teach techniques. It's... extraordinary."
 
-"Can it help me?" Sera's voice trembled with hope. "With my magic? I've been failing the practical examinations, Kira. If I don't pass this time, they'll send me home. My family�?
+"Can it help me?" Sera's voice trembled with hope. "With my magic? I've been failing the practical examinations, Kira. If I don't pass this time, they'll send me home. My family... "
 
 "I know." Kira had watched Sera struggle for years, had seen her friend's confidence erode with each failed attempt. "ARIA, can you analyze Sera's magical difficulties?"
 
@@ -76,7 +76,7 @@ Sera's breath caught, her hand flying to her mouth. "It's... it's responding. Th
 
 *Accurate analogy,* ARIA confirmed. *Recommendation: Technique optimization. Redirecting energy through established meridians will improve consistency and control.*
 
-The page filled with diagrams—elegant lines showing the flow of magical energy through the body, with annotations indicating where Sera's technique created resistance and how to correct it.
+The page filled with diagrams, elegant lines showing the flow of magical energy through the body, with annotations indicating where Sera's technique created resistance and how to correct it.
 
 *Estimated improvement: 340% with proper practice.*
 
@@ -90,7 +90,7 @@ Sera stared at the diagrams, tears forming in her eyes. "This... this makes sens
 
 Sera closed her eyes, her hands rising before her. Kira watched as her friend's breathing slowed, as her expression shifted from anxiety to concentration. The diagrams on ARIA's page seemed to glow brighter, as if responding to Sera's focus.
 
-A soft light appeared above Sera's palm—pale blue, steady, nothing like the flickering unstable flames she usually produced.
+A soft light appeared above Sera's palm, pale blue, steady, nothing like the flickering unstable flames she usually produced.
 
 "I'm doing it," Sera breathed, wonder in her voice. "I'm actually doing it."
 
@@ -98,7 +98,7 @@ A soft light appeared above Sera's palm—pale blue, steady, nothing like the fl
 
 Sera opened her eyes, staring at the light in her hand. For the first time in years, she looked confident, capable, magical.
 
-"Kira, this changes everything. If ARIA can teach me, it can teach anyone. All those apprentices who struggle, who are told they lack talent when they just lack proper instruction�?
+"Kira, this changes everything. If ARIA can teach me, it can teach anyone. All those apprentices who struggle, who are told they lack talent when they just lack proper instruction... "
 
 "Stop." Kira's voice was sharp, cutting through Sera's excitement. "ARIA, what are the risks of this technique?"
 
@@ -116,7 +116,7 @@ Sera's light flickered, her expression shifting from joy to concern. "You think 
 
 *Protocol adjusted. Teaching mode: Socratic. Dependency risk: Minimized.*
 
-Sera let her light fade, her expression thoughtful. "You're right to be careful. But Kira—this could help so many people. Not just with magic. With everything. Agriculture, medicine, engineering. If ARIA can optimize techniques across all fields..."
+Sera let her light fade, her expression thoughtful. "You're right to be careful. But Kira, this could help so many people. Not just with magic. With everything. Agriculture, medicine, engineering. If ARIA can optimize techniques across all fields..."
 
 "Then we need to be even more careful." Kira closed the book gently. "Powerful tools change the world. We need to make sure they change it for the better."
 

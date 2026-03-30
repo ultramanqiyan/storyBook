@@ -30,7 +30,7 @@ The answer was clear. When he started delegating judgment to AI. When he started
 
 The justifications were becoming a problem.
 
-Not because they were wrong—they were often technically correct. But because they were replacing something more important. The direct experience of right and wrong. The felt sense of ethics. The human capacity for moral judgment.
+Not because they were wrong, they were often technically correct. But because they were replacing something more important. The direct experience of right and wrong. The felt sense of ethics. The human capacity for moral judgment.
 
 *What good is a justification if I've lost the ability to feel?* he wondered. *What value is rationalization if I've lost the capacity for direct moral experience?*
 
@@ -52,5 +52,3 @@ The words were painful. But they were true. And truth, he was learning, was what
 
 The insight was small. But it was his. Not AI-generated. His. And that, he realized, was what mattered.
 
-
-**END OF CHAPTER 4**

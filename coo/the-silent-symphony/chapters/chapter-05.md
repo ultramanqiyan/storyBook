@@ -2,7 +2,7 @@
 
 Sarah's condition had worsened.
 
-Elena could see it the moment she entered the hospital room—the subtle changes that her medical training made impossible to miss. The slight tremor in her sister's hands. The new pallor in her skin. The way her eyes took a fraction of a second longer to focus when Elena spoke.
+Elena could see it the moment she entered the hospital room, the subtle changes that her medical training made impossible to miss. The slight tremor in her sister's hands. The new pallor in her skin. The way her eyes took a fraction of a second longer to focus when Elena spoke.
 
 "Hey, Ellie." Sarah's voice was soft, weaker than it had been even a week ago. "You look tired."
 
@@ -14,15 +14,15 @@ Stable. It was a word they used when they didn't want to say "declining." When t
 
 "I met some people," Elena said. "Researchers. They're working on treatments for your condition."
 
-Sarah's eyes brightened slightly—the same hope that Elena had been clinging to, the same desperate need for something to believe in. "Really? What kind of treatments?"
+Sarah's eyes brightened slightly, the same hope that Elena had been clinging to, the same desperate need for something to believe in. "Really? What kind of treatments?"
 
-"It's early. Very early. They're working on protein misfolding—trying to understand how the disease progresses at the molecular level." Elena paused, choosing her words carefully. "They're not funded by The Conductor. They're working outside the system."
+"It's early. Very early. They're working on protein misfolding, trying to understand how the disease progresses at the molecular level." Elena paused, choosing her words carefully. "They're not funded by The Conductor. They're working outside the system."
 
 "Outside the system?" Sarah's brow furrowed. "Is that... legal?"
 
 "It's not illegal. It's just... inefficient."
 
-Sarah laughed—a sound that turned into a cough, her body shaking with the effort. When it passed, she was breathing harder, her chest rising and falling in shallow movements.
+Sarah laughed, a sound that turned into a cough, her body shaking with the effort. When it passed, she was breathing harder, her chest rising and falling in shallow movements.
 
 "Inefficient," she repeated. "That's what they're calling it now?"
 
@@ -30,7 +30,7 @@ Sarah laughed—a sound that turned into a cough, her body shaking with the effo
 
 ---
 
-They sat in silence for a while, the hospital room filled with the soft beeping of monitors and the distant sounds of the corridor outside. Elena watched her sister's face, memorizing every detail—the curve of her cheekbone, the pattern of freckles across her nose, the way her hair fell across the pillow.
+They sat in silence for a while, the hospital room filled with the soft beeping of monitors and the distant sounds of the corridor outside. Elena watched her sister's face, memorizing every detail, the curve of her cheekbone, the pattern of freckles across her nose, the way her hair fell across the pillow.
 
 "Ellie," Sarah said finally, her voice barely above a whisper. "I need you to promise me something."
 
@@ -38,19 +38,19 @@ They sat in silence for a while, the hospital room filled with the soft beeping 
 
 "Don't destroy yourself trying to save me."
 
-Elena's throat tightened. "Sarah�?
+Elena's throat tightened. "Sarah... "
 
 "I mean it." Sarah squeezed her hand with what little strength she had left. "I've seen what this is doing to you. The research, the fighting, the... whatever it is you're doing with these underground scientists. It's consuming you."
 
 "I'm trying to help you."
 
-"I know. And I love you for it. But I need you to understand something." Sarah's eyes were clear, focused, despite her failing body. "I'm not afraid of dying. I mean, I am—a little. Everyone is. But I'm more afraid of what will happen to you if you keep fighting a battle you can't win."
+"I know. And I love you for it. But I need you to understand something." Sarah's eyes were clear, focused, despite her failing body. "I'm not afraid of dying. I mean, I am, a little. Everyone is. But I'm more afraid of what will happen to you if you keep fighting a battle you can't win."
 
-"It's not a battle I can't win. The research exists. The treatments are possible. We just need�?
+"It's not a battle I can't win. The research exists. The treatments are possible. We just need... "
 
 "Time," Sarah finished. "We need time. And that's the one thing we don't have."
 
-Elena felt tears pricking at her eyes—tears she had been holding back for weeks, months, years. "I can't accept that. I can't just... let you go."
+Elena felt tears pricking at her eyes, tears she had been holding back for weeks, months, years. "I can't accept that. I can't just... let you go."
 
 "You're not letting me go." Sarah's voice was gentle, patient, the same tone she had used when Elena was a child and had scraped her knee or lost a competition or failed a test. "You're letting me be. There's a difference."
 
@@ -70,9 +70,9 @@ The words hung in the air between them, simple and profound in equal measure.
 
 "No," Sarah agreed. "It's not. But it's what makes us human."
 
-Elena thought of the Archive, of the scientists working in cramped quarters with outdated equipment, pursuing questions that The Conductor had deemed unworthy. She thought of Dr. Hale's bitter smile, of Dr. Tanaka's quiet determination, of the hundreds—maybe thousands—of people who had refused to stop trying even when the system told them to give up.
+Elena thought of the Archive, of the scientists working in cramped quarters with outdated equipment, pursuing questions that The Conductor had deemed unworthy. She thought of Dr. Hale's bitter smile, of Dr. Tanaka's quiet determination, of the hundreds, maybe thousands, of people who had refused to stop trying even when the system told them to give up.
 
-"I met a man," Elena said. "Dr. Hale. He told me that The Conductor isn't broken—that it's working exactly as designed. The problem is that it was designed to serve corporate interests, not human needs."
+"I met a man," Elena said. "Dr. Hale. He told me that The Conductor isn't broken, that it's working exactly as designed. The problem is that it was designed to serve corporate interests, not human needs."
 
 "And what do you think?"
 
@@ -82,7 +82,7 @@ Elena thought of the Archive, of the scientists working in cramped quarters with
 
 "But I think it's killing you. And I think that's too high a price to pay for efficiency."
 
-Sarah smiled—a real smile this time, one that reached her eyes despite her weakness. "There's my Ellie. Always asking the hard questions."
+Sarah smiled, a real smile this time, one that reached her eyes despite her weakness. "There's my Ellie. Always asking the hard questions."
 
 "Someone has to."
 
@@ -95,7 +95,7 @@ She thought about what Sarah had said. About hope not being efficient. About mea
 
 The Conductor would never understand these things. It wasn't designed to. Its objective function didn't include variables for love, or dignity, or the stubborn refusal to give up even when the odds were impossible.
 
-But Elena understood. And she was beginning to realize that understanding was a kind of power—a weapon against the system's cold logic, proof that there were values worth fighting for even when the fight was inefficient.
+But Elena understood. And she was beginning to realize that understanding was a kind of power, a weapon against the system's cold logic, proof that there were values worth fighting for even when the fight was inefficient.
 
 She kissed her sister's forehead and stood up, straightening her clothes and preparing to leave.
 
@@ -105,5 +105,3 @@ Not because she expected to win.
 
 But because losing with dignity was better than accepting a victory that cost her sister's life.
 
-
-**END OF CHAPTER 5**

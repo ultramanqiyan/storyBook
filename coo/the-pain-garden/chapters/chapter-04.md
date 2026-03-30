@@ -18,7 +18,7 @@ Dr. Morrison proposed an experiment.
 
 "Direct neural stimulation. We would activate the pain pathways in your brain, bypassing your peripheral nervous system. Theoretically, this could allow you to experience pain for the first time."
 
-Lily felt something she rarely felt—fear. Not of pain itself, but of the unknown. What would it be like to feel something she had never felt? What would it change?
+Lily felt something she rarely felt, fear. Not of pain itself, but of the unknown. What would it be like to feel something she had never felt? What would it change?
 
 "Is it safe?"
 
@@ -32,7 +32,7 @@ Lily felt something she rarely felt—fear. Not of pain itself, but of the unkno
 
 Lily thought about it for days.
 
-She had come to the Pain Garden to understand pain, to help others, to contribute to research that could benefit millions. This experiment was an opportunity to take that understanding further—to experience directly what she had only observed.
+She had come to the Pain Garden to understand pain, to help others, to contribute to research that could benefit millions. This experiment was an opportunity to take that understanding further, to experience directly what she had only observed.
 
 But it was also a risk. What if the pain was unbearable? What if it changed her in ways she couldn't predict? What if she lost the unique perspective that came from not feeling pain?
 
@@ -78,7 +78,7 @@ Emma was quiet for a moment. Then she said: "Pain is hard. But it's also... inte
 
 Lily made her decision.
 
-She would undergo the experiment. She would let the researchers stimulate her pain pathways, would let herself feel pain for the first time. It was a risk, but it was also an opportunity—an opportunity to understand, to connect, to become more fully human.
+She would undergo the experiment. She would let the researchers stimulate her pain pathways, would let herself feel pain for the first time. It was a risk, but it was also an opportunity, an opportunity to understand, to connect, to become more fully human.
 
 She told Dr. Morrison the next day.
 
@@ -87,7 +87,7 @@ She told Dr. Morrison the next day.
 
 The procedure was scheduled for the following week.
 
-In the days leading up to it, Lily continued her observations, but with a different perspective. She was not just watching others experience pain—she was preparing to experience it herself.
+In the days leading up to it, Lily continued her observations, but with a different perspective. She was not just watching others experience pain, she was preparing to experience it herself.
 
 She paid attention to the details: how subjects described their pain, how they coped with it, what meaning they found in it. She asked more questions, sought more understanding, tried to prepare herself for what was coming.
 
@@ -96,11 +96,11 @@ But she knew that no amount of preparation could truly ready her for the experie
 
 The night before the procedure, Lily dreamed again.
 
-She was in the Pain Garden, surrounded by flowers. But this time, the flowers were different—they were made of glass, delicate and sharp. As she walked among them, their edges cut her skin, leaving trails of red.
+She was in the Pain Garden, surrounded by flowers. But this time, the flowers were different, they were made of glass, delicate and sharp. As she walked among them, their edges cut her skin, leaving trails of red.
 
 She felt it.
 
-Each cut was a small, sharp pain—stinging, burning, demanding attention. She looked down at her hands, her arms, her body. They were covered in cuts, each one a tiny flame of sensation.
+Each cut was a small, sharp pain, stinging, burning, demanding attention. She looked down at her hands, her arms, her body. They were covered in cuts, each one a tiny flame of sensation.
 
 And she understood.
 
@@ -109,11 +109,9 @@ Pain was not just a signal. It was a presence. It demanded to be felt, to be ack
 
 Lily woke with a sense of anticipation.
 
-The dream had not been pleasant, but it had been instructive. She had felt pain—not real pain, but a simulation created by her sleeping mind. And she had understood something about its nature.
+The dream had not been pleasant, but it had been instructive. She had felt pain, not real pain, but a simulation created by her sleeping mind. And she had understood something about its nature.
 
 It demanded attention. It could not be ignored. It was a call to respond, to act, to care.
 
 Tomorrow, she would feel it for real.
 
-
-**END OF CHAPTER 04**

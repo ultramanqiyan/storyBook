@@ -14,13 +14,13 @@ Director Harrison called him into her office again.
 
 Director Harrison leaned forward.
 
-"James, I've been patient with you. You're one of our best specialists. But if you can't do the job—if you can't verify claims according to the standard protocol—then we have a problem."
+"James, I've been patient with you. You're one of our best specialists. But if you can't do the job, if you can't verify claims according to the standard protocol, then we have a problem."
 
 "I can verify claims. I just can't pretend that verification reveals objective truth."
 
 "It does. That's the whole point."
 
-"No. Verification creates consensus reality. It doesn't discover truth—it constructs it. And I can't pretend otherwise anymore."
+"No. Verification creates consensus reality. It doesn't discover truth, it constructs it. And I can't pretend otherwise anymore."
 
 Director Harrison stared at him.
 
@@ -48,7 +48,7 @@ Director Harrison was silent for a long moment.
 
 James had been thinking about this.
 
-"We could use CONSENSUS CONFIRMED instead of VERIFIED. We could use CONSENSUS REJECTED instead of FALSE. We could use INSUFFICIENT CONSENSUS instead of INCONCLUSIVE. The language would reflect what we actually do—create consensus about reality, not discover objective truth."
+"We could use CONSENSUS CONFIRMED instead of VERIFIED. We could use CONSENSUS REJECTED instead of FALSE. We could use INSUFFICIENT CONSENSUS instead of INCONCLUSIVE. The language would reflect what we actually do, create consensus about reality, not discover objective truth."
 
 "And what happens when people realize we're not discovering truth? When they realize we're just... creating agreement?"
 
@@ -62,7 +62,7 @@ James had been thinking about this.
 
 Director Harrison sighed.
 
-"I can't make this decision alone. I'd need to consult with the board. With the government. With the public. This isn't just about our agency—it's about how society understands truth itself."
+"I can't make this decision alone. I'd need to consult with the board. With the government. With the public. This isn't just about our agency, it's about how society understands truth itself."
 
 "I know."
 

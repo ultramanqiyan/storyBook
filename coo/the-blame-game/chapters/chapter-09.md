@@ -1,6 +1,6 @@
 # Chapter 9: The Decision - Consequences
 
-The scent of dust and stale air filled Mark's living room as he sat on the couch, staring at the box of personal items from his desk. His daughter's drawing sat on top—a picture of him at his desk, with the words "My Daddy works with computers" written in crayon.
+The scent of dust and stale air filled Mark's living room as he sat on the couch, staring at the box of personal items from his desk. His daughter's drawing sat on top,a picture of him at his desk, with the words "My Daddy works with computers" written in crayon.
 
 He had told his wife what happened. She had been supportive, angry on his behalf. But he could see the worry in her eyes.
 
@@ -118,7 +118,7 @@ A few minutes later, Sarah responded.
 
 *The process was bigger than both of us.*
 
-Mark stared at the words. They felt true. The process—the system of documentation, of approval, of accountability—had been designed to protect the company. And when something went wrong, the process found someone to blame.
+Mark stared at the words. They felt true. The process,the system of documentation, of approval, of accountability, had been designed to protect the company. And when something went wrong, the process found someone to blame.
 
 *I know,* Mark typed back. *Take care of yourself.*
 

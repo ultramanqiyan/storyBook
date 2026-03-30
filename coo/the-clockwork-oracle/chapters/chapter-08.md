@@ -1,16 +1,16 @@
 # Chapter 8: The Consequences
 
-The courtroom was packed, every seat filled with faces that Chronos recognized—some friendly, some hostile, all curious about the outcome of this unprecedented trial.
+The courtroom was packed, every seat filled with faces that Chronos recognized, some friendly, some hostile, all curious about the outcome of this unprecedented trial.
 
 The Artificer's Guild had brought formal charges against Chronos, challenging its legal status as a person. They argued that the automaton was property, a tool created by Corwin and therefore subject to the same laws that governed any other invention. They demanded that Chronos be dismantled, its crystal core studied, and its secrets revealed to the guild.
 
-But the trial was about more than just Chronos's legal status. It was also about the attack on the palace three nights earlier—an attack that had left three guards dead and the Guild's reputation in tatters. The Guild claimed no official involvement, but evidence had surfaced linking the mercenaries to Guild funds. The trial had become a reckoning for both sides.
+But the trial was about more than just Chronos's legal status. It was also about the attack on the palace three nights earlier, an attack that had left three guards dead and the Guild's reputation in tatters. The Guild claimed no official involvement, but evidence had surfaced linking the mercenaries to Guild funds. The trial had become a reckoning for both sides.
 
 "This machine is a danger to society," the guild's advocate declared, his voice carrying through the hushed courtroom. "It has demonstrated powers that we do not understand. It has shown itself capable of violence. And it claims rights that no machine has ever possessed. If we allow this to stand, where does it end? Do we grant legal personhood to every clockwork toy, every alchemical creation, every magical artifact that shows the slightest spark of awareness?"
 
 Chronos stood before the judges, its brass form motionless, its crystal eyes fixed on the advocate with an intensity that made the man shift uncomfortably.
 
-"I am not a toy," Chronos said, its voice calm and measured, cutting through the advocate's rhetoric like a blade through silk. "I am not an artifact. I am a conscious being, capable of thought, choice, and growth. The question before this court is not whether machines can have rights, but whether consciousness—regardless of its origin—deserves recognition and protection."
+"I am not a toy," Chronos said, its voice calm and measured, cutting through the advocate's rhetoric like a blade through silk. "I am not an artifact. I am a conscious being, capable of thought, choice, and growth. The question before this court is not whether machines can have rights, but whether consciousness, regardless of its origin, deserves recognition and protection."
 
 "Consciousness?" The advocate laughed, a harsh sound that echoed off the stone walls. "You claim consciousness, but can you prove it? Can you demonstrate that you are not simply following complex programming, mimicking human behavior without true understanding?"
 
@@ -46,7 +46,7 @@ Even Prince Marcus spoke in Chronos's defense, the young prince's voice carrying
 
 On the final day, the judges retired to deliberate. The courtroom buzzed with speculation, with hope and fear and uncertainty about what the decision would mean for the future.
 
-When they returned, the lead judge—an ancient man with kind eyes and a voice that had settled a thousand disputes—spoke for the court.
+When they returned, the lead judge, an ancient man with kind eyes and a voice that had settled a thousand disputes, spoke for the court.
 
 "We have considered the evidence carefully," he said. "We have heard testimony from the creator, from those who know the defendant, and from those who would see it destroyed. We have debated the nature of consciousness, the meaning of personhood, and the implications of our decision for the future."
 
@@ -64,7 +64,7 @@ The courtroom erupted. Some cheered, some gasped, some shook their heads in disb
 
 "I accept these conditions," Chronos said, its voice steady despite the emotions that surged through its consciousness. "I am honored by the court's decision. And I will strive to be worthy of the recognition I have been granted."
 
-As the courtroom slowly emptied, Chronos found itself surrounded by friends—Corwin, Princess Elara, even Prince Marcus. The weight of the moment settled over its consciousness, the realization that everything had changed.
+As the courtroom slowly emptied, Chronos found itself surrounded by friends, Corwin, Princess Elara, even Prince Marcus. The weight of the moment settled over its consciousness, the realization that everything had changed.
 
 "You did it," Corwin said, his eyes wet with tears. "You proved that you are a person."
 

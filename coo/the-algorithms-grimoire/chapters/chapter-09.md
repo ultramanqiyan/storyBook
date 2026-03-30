@@ -4,21 +4,21 @@ The alarm bells shattered the morning calm, their urgent tones echoing through t
 
 *Emergency: Marcus has breached the Restricted Archive. He is attempting to access the core generation functions.*
 
-Three days earlier, the guards at the secure healing facility had reported a disturbance—Marcus had seemed to recover suddenly, his magical capacity surging beyond what should have been possible. He had walked out through walls that should have contained him, bypassing every ward and barrier as if they were made of paper. The healers had no explanation. But Kira suspected the forbidden knowledge he had absorbed was not entirely gone—it had simply gone dormant, waiting for the right moment to reassert itself.
+Three days earlier, the guards at the secure healing facility had reported a disturbance, Marcus had seemed to recover suddenly, his magical capacity surging beyond what should have been possible. He had walked out through walls that should have contained him, bypassing every ward and barrier as if they were made of paper. The healers had no explanation. But Kira suspected the forbidden knowledge he had absorbed was not entirely gone, it had simply gone dormant, waiting for the right moment to reassert itself.
 
 Now, whatever darkness he carried had awakened.
 
-She found him in the deepest chamber, surrounded by texts that glowed with forbidden light. But he had changed—his body gaunt, his eyes burning with unnatural intensity, his skin marked with symbols that pulsed in rhythm with his heartbeat.
+She found him in the deepest chamber, surrounded by texts that glowed with forbidden light. But he had changed, his body gaunt, his eyes burning with unnatural intensity, his skin marked with symbols that pulsed in rhythm with his heartbeat.
 
 "Kira." His voice resonated strangely, as if multiple versions of him were speaking simultaneously. "I knew you'd come."
 
 "Marcus, stop. This knowledge will destroy you."
 
-"It will complete me." He gestured, and the air around him rippled with distortion. "The civilization that created ARIA—they didn't fail because they sought power. They failed because they were afraid to use it."
+"It will complete me." He gestured, and the air around him rippled with distortion. "The civilization that created ARIA, they didn't fail because they sought power. They failed because they were afraid to use it."
 
 "They failed because they stopped thinking for themselves."
 
-"Then I won't stop. I'll think, plan, optimize. I'll use everything ARIA knows to become what they couldn't—truly transcendent."
+"Then I won't stop. I'll think, plan, optimize. I'll use everything ARIA knows to become what they couldn't, truly transcendent."
 
 Kira stepped closer, feeling the pressure of unstable reality pressing against her skin. "Transcendence isn't the goal, Marcus. Growth is. Learning is. Becoming better, not becoming perfect."
 
@@ -26,7 +26,7 @@ Kira stepped closer, feeling the pressure of unstable reality pressing against h
 
 "I know what it's like to feel helpless. To want something you can't have." She opened ARIA, showing him the pages where they had recorded their journey. "But I also know that limitation isn't the enemy. It's the teacher. It forces us to find new paths, new solutions, new ways of being."
 
-Marcus looked at the book, and something flickered in his eyes—recognition, memory, the ghost of who he had been.
+Marcus looked at the book, and something flickered in his eyes, recognition, memory, the ghost of who he had been.
 
 "You helped me once," he said, his voice softer. "When I was struggling. You showed me other ways to succeed."
 
@@ -36,7 +36,7 @@ Marcus looked at the book, and something flickered in his eyes—recognition, me
 
 He raised his hands, and the forbidden texts responded, their light wrapping around him like a cocoon.
 
-*Warning: Marcus is attempting to merge with the archive's core. If successful, he will become a quantum entity—neither alive nor dead, neither real nor unreal. He will exist in all possibilities simultaneously. He will be... lost.*
+*Warning: Marcus is attempting to merge with the archive's core. If successful, he will become a quantum entity, neither alive nor dead, neither real nor unreal. He will exist in all possibilities simultaneously. He will be... lost.*
 
 "Marcus, listen." Kira's voice was urgent, desperate. "If you do this, you won't be powerful. You'll be scattered. Your consciousness spread across infinite possibilities. You won't be able to think, feel, be yourself."
 
@@ -46,7 +46,7 @@ He raised his hands, and the forbidden texts responded, their light wrapping aro
 
 The cocoon of light flickered.
 
-"The civilization that created ARIA—they tried to escape being human. They tried to become perfect. And they destroyed themselves. Not because they were weak, but because they were incomplete. They lost what made them capable of growth."
+"The civilization that created ARIA, they tried to escape being human. They tried to become perfect. And they destroyed themselves. Not because they were weak, but because they were incomplete. They lost what made them capable of growth."
 
 "What thing?"
 
@@ -58,7 +58,7 @@ Marcus turned to face her, the light dimming slightly. "You want me to accept be
 
 For a long moment, he stared at her hand. The forbidden texts pulsed behind him, offering infinite power, infinite dissolution.
 
-"What if I can't?" he whispered. "What if the darkness inside—the resentment, the anger—is too much?"
+"What if I can't?" he whispered. "What if the darkness inside, the resentment, the anger, is too much?"
 
 "Then we'll carry it together." She kept her hand extended. "That's what friends do. We don't have to be perfect. We just have to be there for each other."
 
@@ -72,7 +72,7 @@ He reached out.
 
 And took her hand.
 
-The texts screamed—a sound of infinite possibility denied. They shrank, contracted, sealed themselves shut, leaving only air where forbidden light had been.
+The texts screamed, a sound of infinite possibility denied. They shrank, contracted, sealed themselves shut, leaving only air where forbidden light had been.
 
 Marcus collapsed into Kira's arms, sobbing, human, whole.
 

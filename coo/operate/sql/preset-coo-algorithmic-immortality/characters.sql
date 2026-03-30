@@ -1,0 +1,7 @@
+-- Characters for Algorithmic Immortality: When Death Becomes Optional
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-algorithmic-immortality-001', 'preset-coo-algorithmic-immortality', 'Ingrid Lindqvist', 'Protagonist', '**Occupation**: Hospice nurse', '**Age**: 48', '🧑', NULL, NULL, 1, '2026-03-29 23:55:52', '2026-03-29 23:55:52');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-algorithmic-immortality-002', 'preset-coo-algorithmic-immortality', 'Patients', 'Supporting Characters', '**Occupation**: Various, facing mortality', '**Speech Characteristics**: Varied, vulnerable, authentic', '👤', NULL, NULL, 0, '2026-03-29 23:55:52', '2026-03-29 23:55:52');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-algorithmic-immortality-003', 'preset-coo-algorithmic-immortality', 'Digital Versions', 'Supporting Characters', '**Nature**: Uploaded consciousness of deceased patients', '**Speech Characteristics**: Similar to original but slightly altered', '👤', NULL, NULL, 0, '2026-03-29 23:55:52', '2026-03-29 23:55:52');

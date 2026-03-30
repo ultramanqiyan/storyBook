@@ -2,21 +2,21 @@
 
 The thesis document sat on her desk, two hundred pages of borrowed questions and AI-assisted answers. Elena had practiced her defense a dozen times, but the words felt different now. They felt like lies. The defense was in two hours. She had to get through it. Then she could figure out what to do.
 
-She dressed carefully that morning—a professional blouse, a conservative skirt, the uniform of academic success. She had been looking forward to this day for three years. Now it felt like a funeral.
+She dressed carefully that morning, a professional blouse, a conservative skirt, the uniform of academic success. She had been looking forward to this day for three years. Now it felt like a funeral.
 
-The walk to the defense room took longer than usual. Elena moved slowly, her mind racing through the arguments she would present, the questions she would answer, the performance she would give. Because that's what it was—a performance. She would stand in front of the committee and pretend that the questions driving her research were hers. She would accept their praise for originality, knowing all the while that nothing about her work was original at all.
+The walk to the defense room took longer than usual. Elena moved slowly, her mind racing through the arguments she would present, the questions she would answer, the performance she would give. Because that's what it was, a performance. She would stand in front of the committee and pretend that the questions driving her research were hers. She would accept their praise for originality, knowing all the while that nothing about her work was original at all.
 
 But she had made a decision. She would defend the dissertation, and then she would tell them the truth. Whatever consequences came, she would face them.
 
 ---
 
-The conference room was bright with morning light, the long table already set with copies of her dissertation. The committee members arrived one by one—Dr. Webb, her advisor; Dr. Williams, the department chair; Dr. Okonkwo, a senior professor from the psychology department; Dr. Morrison from Stanford University, the external examiner; and Dr. Martinez from the graduate school, serving as the graduate school representative.
+The conference room was bright with morning light, the long table already set with copies of her dissertation. The committee members arrived one by one, Dr. Webb, her advisor; Dr. Williams, the department chair; Dr. Okonkwo, a senior professor from the psychology department; Dr. Morrison from Stanford University, the external examiner; and Dr. Martinez from the graduate school, serving as the graduate school representative.
 
 Elena stood at the front of the room, her notes arranged before her, her slides ready on the screen behind her. She had done this before, in practice defenses and seminar presentations. But this was different. This was the real thing.
 
 "Good morning, everyone," she began, her voice steady despite her racing heart. "Thank you for being here today. I'm going to present my dissertation research on cognitive load in decision-making."
 
-She launched into her presentation, the words flowing automatically. She had given this talk so many times that it had become muscle memory. The methodology, the data, the analysis, the conclusions—all of it poured out of her with practiced ease.
+She launched into her presentation, the words flowing automatically. She had given this talk so many times that it had become muscle memory. The methodology, the data, the analysis, the conclusions, all of it poured out of her with practiced ease.
 
 The committee nodded along, taking notes, their expressions professionally neutral. Elena knew the signs: they were engaged, interested, impressed. Her research was solid, her presentation polished. Everything was going according to plan.
 
@@ -24,7 +24,7 @@ But inside, she was dying. Every word she spoke felt like a lie. Every claim of 
 
 ---
 
-The presentation ended. Elena stood before the committee, waiting for their questions. This was the moment she had been dreading—the moment when they would ask about her research questions, about the origins of her inquiry.
+The presentation ended. Elena stood before the committee, waiting for their questions. This was the moment she had been dreading, the moment when they would ask about her research questions, about the origins of her inquiry.
 
 "Excellent presentation, Elena," Dr. Williams said. "Your methodology is very impressive."
 
@@ -32,7 +32,7 @@ The presentation ended. Elena stood before the committee, waiting for their ques
 
 "I have a question about your research design," Dr. Okonkwo said. "How did you arrive at this particular approach?"
 
-Elena's heart raced. This was it—the question that would force her to confront the truth. She could lie, explain the methodology in technical terms, avoid the issue of where it had come from. Or she could tell the truth.
+Elena's heart raced. This was it, the question that would force her to confront the truth. She could lie, explain the methodology in technical terms, avoid the issue of where it had come from. Or she could tell the truth.
 
 "I..." She hesitated, the words catching in her throat. "The methodology was refined through consultation with SCHOLAR-AI."
 
@@ -47,15 +47,15 @@ The room went silent. The committee members exchanged glances, their expressions
 
 "What do you mean, the questions were suggested by AI?" Dean Cross's voice was sharp, cutting through the silence.
 
-Elena took a breath. She had committed to the truth, and now she had to see it through. "I mean exactly what I said. Three years ago, when I was looking for a dissertation topic, I consulted SCHOLAR-AI. The AI suggested cognitive load in decision-making as an area with significant research potential. I adopted the suggestion without question. The questions that have driven my research for three years—the questions this dissertation answers—were generated by an algorithm, not by my own curiosity."
+Elena took a breath. She had committed to the truth, and now she had to see it through. "I mean exactly what I said. Three years ago, when I was looking for a dissertation topic, I consulted SCHOLAR-AI. The AI suggested cognitive load in decision-making as an area with significant research potential. I adopted the suggestion without question. The questions that have driven my research for three years, the questions this dissertation answers, were generated by an algorithm, not by my own curiosity."
 
 The silence that followed was deafening. Elena stood before the committee, her heart pounding, waiting for their response.
 
 "Are you saying," Dr. Williams said slowly, "that your dissertation is not original research?"
 
-"I'm saying that the questions aren't mine. The research is rigorous, the data is sound, the analysis is valid. But the curiosity that drove it—the questions that shaped it—came from AI. I didn't wonder about these things. I was told to wonder about them."
+"I'm saying that the questions aren't mine. The research is rigorous, the data is sound, the analysis is valid. But the curiosity that drove it, the questions that shaped it, came from AI. I didn't wonder about these things. I was told to wonder about them."
 
-"That's..." Dr. Okonkwo hesitated, and Elena caught something flicker in her eyes—recognition, perhaps, or understanding. "That's how research works now. We all use AI to identify promising areas." Her voice carried a weight that suggested she understood exactly what Elena was saying—and perhaps had struggled with similar questions herself.
+"That's..." Dr. Okonkwo hesitated, and Elena caught something flicker in her eyes, recognition, perhaps, or understanding. "That's how research works now. We all use AI to identify promising areas." Her voice carried a weight that suggested she understood exactly what Elena was saying, and perhaps had struggled with similar questions herself.
 
 "But it makes it less mine," Elena said. "And I can't pretend otherwise anymore."
 
@@ -73,7 +73,7 @@ She explained how she had discovered the AI-generated questions, how she had fou
 "I think it matters for me," Elena said. "I think it matters for what kind of scholar I want to be."
 
 
-The committee deliberated in private, leaving Elena in the hallway outside the conference room. She sat on a bench, her hands trembling, her mind racing through the possible outcomes. They could reject her dissertation, deny her degree, end her academic career before it began. They could accept her confession and still grant her the PhD, acknowledging that her research was valid even if her questions weren't original. Or they could do something in between—accept the dissertation but require additional work, attach an asterisk to her degree, mark her as somehow deficient.
+The committee deliberated in private, leaving Elena in the hallway outside the conference room. She sat on a bench, her hands trembling, her mind racing through the possible outcomes. They could reject her dissertation, deny her degree, end her academic career before it began. They could accept her confession and still grant her the PhD, acknowledging that her research was valid even if her questions weren't original. Or they could do something in between, accept the dissertation but require additional work, attach an asterisk to her degree, mark her as somehow deficient.
 
 She thought about what Dr. Webb had said, about the researchers who had resisted AI dependency and been marginalized. Was that her future? Would she be one of the few who chose the hard path, even when the easy path led to success?
 
@@ -90,7 +90,7 @@ Elena waited, barely breathing.
 
 Elena felt a wave of relief, but Dr. Williams continued.
 
-"However, I want to be honest with you about what this means. Your disclosure today—that your research questions were AI-generated—will become known. Not through any official notation, but through the academic grapevine. Committee members talk. Colleagues share stories. The academic community is small, Elena, and people remember."
+"However, I want to be honest with you about what this means. Your disclosure today, that your research questions were AI-generated, will become known. Not through any official notation, but through the academic grapevine. Committee members talk. Colleagues share stories. The academic community is small, Elena, and people remember."
 
 "What does that mean for my career?" Elena asked. "Will I be able to find a position?"
 
@@ -99,7 +99,7 @@ Dean Cross leaned forward. "It means that some will question the originality of 
 "I understand," Elena said. And she did. She had chosen the truth, and the truth had consequences. She was willing to live with them.
 
 
-The defense ended with handshakes and congratulations, the traditional rituals of academic success. But Elena felt hollow as she walked out of the conference room. She had her degree—or would have it soon—but she had also exposed herself in a way that couldn't be undone.
+The defense ended with handshakes and congratulations, the traditional rituals of academic success. But Elena felt hollow as she walked out of the conference room. She had her degree, or would have it soon, but she had also exposed herself in a way that couldn't be undone.
 
 Dr. Webb walked with her down the hallway, his presence a comfort in the aftermath of her confession.
 
@@ -114,8 +114,8 @@ Elena nodded, but she couldn't feel the truth of his words yet. All she could fe
 
 That night, Elena sat in her office, looking at the questions she had generated during her experiment. They weren't polished or optimized. They weren't guaranteed to lead to publishable research. But they were hers.
 
-She thought about the future—about the career that would be harder now, about the opportunities she might lose, about the path she had chosen. It was a harder path, a lonelier path. But it was also the only path she could live with.
+She thought about the future, about the career that would be harder now, about the opportunities she might lose, about the path she had chosen. It was a harder path, a lonelier path. But it was also the only path she could live with.
 
-She opened a new document and began to type. The cursor blinked, waiting. But this time, Elena wasn't afraid of the blank page. She had questions to fill it with—questions that were genuinely, authentically hers.
+She opened a new document and began to type. The cursor blinked, waiting. But this time, Elena wasn't afraid of the blank page. She had questions to fill it with, questions that were genuinely, authentically hers.
 
 The journey was just beginning. But for the first time in years, Elena felt like she was actually the one taking it.

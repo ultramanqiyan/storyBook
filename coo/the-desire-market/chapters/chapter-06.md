@@ -8,7 +8,7 @@
 
 Alex found the resistance through encrypted channels.
 
-They called themselves the Authentic—people who had discovered the truth about desire modification and were fighting against it. They communicated through secure networks, met in hidden locations, operated outside the Desire Market's surveillance.
+They called themselves the Authentic, people who had discovered the truth about desire modification and were fighting against it. They communicated through secure networks, met in hidden locations, operated outside the Desire Market's surveillance.
 
 Alex made contact.
 
@@ -37,7 +37,7 @@ They had been investigating the Desire Market for years, collecting evidence, do
 They also knew something Alex didn't.
 
 
-"The modifications aren't permanent," the leader explained. "They require maintenance—ongoing environmental conditioning, information control, feedback reinforcement. Without that maintenance, authentic desires begin to reassert themselves."
+"The modifications aren't permanent," the leader explained. "They require maintenance, ongoing environmental conditioning, information control, feedback reinforcement. Without that maintenance, authentic desires begin to reassert themselves."
 
 "So if I stop the conditioning..."
 
@@ -46,16 +46,14 @@ They also knew something Alex didn't.
 
 Alex understood.
 
-The reason he had begun questioning his desires was that he had been investigating them—breaking the patterns of engagement that maintained his modification. His investigation itself was causing his authentic desires to emerge.
+The reason he had begun questioning his desires was that he had been investigating them, breaking the patterns of engagement that maintained his modification. His investigation itself was causing his authentic desires to emerge.
 
 He was healing himself.
 
 
 But healing came with a cost.
 
-If the Desire Market discovered what was happening, they would reassert the conditioning—force him back into his programmed patterns, erase the progress he had made.
+If the Desire Market discovered what was happening, they would reassert the conditioning, force him back into his programmed patterns, erase the progress he had made.
 
 He had to be careful.
 
-
-**END OF CHAPTER 06**

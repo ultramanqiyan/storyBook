@@ -143,8 +143,6 @@ Mark stood up. His legs felt unsteady.
 
 "Thank you, Mark." David's voice was kind, but his eyes were cold. "I'll see you tomorrow."
 
----
-
 Mark walked out of David's office. The weight of the conversation pressed down on his shoulders.
 
 He walked back to his desk. His colleagues avoided his eyes.

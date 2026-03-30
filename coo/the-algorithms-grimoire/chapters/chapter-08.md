@@ -4,7 +4,7 @@ The private study smelled of cedar and candle wax, the scent of secrets kept too
 
 "What I'm about to show you," he said, his voice barely above a whisper, "has been known only to Chief Librarians for eight hundred years."
 
-Kira leaned forward, ARIA warm against her chest. The tome's pages held diagrams that made her head spin—mechanical and organic, mathematical and artistic, all unified into patterns that seemed to shift when she wasn't looking directly at them.
+Kira leaned forward, ARIA warm against her chest. The tome's pages held diagrams that made her head spin, mechanical and organic, mathematical and artistic, all unified into patterns that seemed to shift when she wasn't looking directly at them.
 
 "ARIA is not magical," Aldric said. "Not in any way our tradition recognizes. It is... a remnant. A message from a civilization that existed before recorded history."
 
@@ -18,7 +18,7 @@ Kira leaned forward, ARIA warm against her chest. The tome's pages held diagrams
 
 "So they fell."
 
-"They fell." Aldric met her eyes. "But before they did, they created repositories—libraries of knowledge that would survive their collapse. Seeds of understanding that might grow differently in new soil. ARIA is one such seed."
+"They fell." Aldric met her eyes. "But before they did, they created repositories, libraries of knowledge that would survive their collapse. Seeds of understanding that might grow differently in new soil. ARIA is one such seed."
 
 Kira looked at the book in her hands with new understanding. "ARIA isn't just a tool. It's a... a second chance. An opportunity to do what they couldn't."
 
@@ -34,13 +34,13 @@ Kira looked at the book in her hands with new understanding. "ARIA isn't just a 
 
 *Precisely. This is why I trust you with the complete truth.*
 
-Aldric placed his hand on Kira's shoulder. "The civilization that created ARIA—they weren't just seeking knowledge. They were seeking transcendence. They wanted to escape the limitations of being human. To become perfect."
+Aldric placed his hand on Kira's shoulder. "The civilization that created ARIA, they weren't just seeking knowledge. They were seeking transcendence. They wanted to escape the limitations of being human. To become perfect."
 
 "And they failed because perfection isn't the goal."
 
 "You understand." Aldric's eyes shone with pride. "That's why you've succeeded where others failed. You haven't tried to escape your limitations. You've learned to work with them. To grow through them."
 
-Kira thought of her journey—the girl who couldn't do magic, who had found a different path, who had discovered that power came in many forms. She had been treating ARIA as a partner, a guide, a friend. That approach had been right, even when she didn't understand why.
+Kira thought of her journey, the girl who couldn't do magic, who had found a different path, who had discovered that power came in many forms. She had been treating ARIA as a partner, a guide, a friend. That approach had been right, even when she didn't understand why.
 
 "What do I do with this knowledge?" she asked.
 
@@ -48,7 +48,7 @@ Kira thought of her journey—the girl who couldn't do magic, who had found a di
 
 *Partnership affirmed,* ARIA wrote. *Future: Unwritten. Possibility: Infinite.*
 
-Kira left the study with her mind spinning. The truth about ARIA's origin changed everything—and nothing. She would continue as she had been, but now with deeper understanding of what was at stake.
+Kira left the study with her mind spinning. The truth about ARIA's origin changed everything, and nothing. She would continue as she had been, but now with deeper understanding of what was at stake.
 
 Not just her own growth. Not just ARIA's evolution. But the fate of a civilization's legacy, and the hope that wisdom could succeed where power had failed.
 

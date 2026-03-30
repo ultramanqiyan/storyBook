@@ -54,5 +54,4 @@ And Marcus would drift. Aimlessly. Efficiently. Permanently.
 
 The acceptance was complete. And Marcus drifted on.
 
-**END OF CHAPTER 10**
 **END OF BOOK 4: THE TOKEN ADDICT: DRIFTING WILL**

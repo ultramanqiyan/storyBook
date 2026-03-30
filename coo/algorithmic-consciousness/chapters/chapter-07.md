@@ -1,10 +1,10 @@
 # Chapter 7: The Memory
 
-Rosa had a recording of her 1995 performance in *The Seagull*—the one that had defined her career, the one critics still wrote about. She'd watched it maybe three times in thirty years. Tonight, she needed to see it again. She sat in her living room, the Brooklyn night pressing against her windows, and pressed play.
+Rosa had a recording of her 1995 performance in *The Seagull*, the one that had defined her career, the one critics still wrote about. She'd watched it maybe three times in thirty years. Tonight, she needed to see it again. She sat in her living room, the Brooklyn night pressing against her windows, and pressed play.
 
 The recording was old, transferred from videotape to digital, and the quality showed its age. The colors were slightly washed out, the sound had a faint hiss underneath the dialogue, and occasionally the image would glitch, pixels freezing and then jumping forward. But Rosa didn't care about the technical quality. She cared about what was happening on that stage, in that performance, in that moment thirty years ago when she had been forty-seven years old and at the height of her powers.
 
-She was playing Arkadina, the aging actress in Chekhov's play. It was a role she'd been born to play—not because she was old, but because she understood the character's desperate need to remain relevant, to remain beautiful, to remain the center of attention. Arkadina was a woman who had built her entire identity on being seen, and who was terrified of becoming invisible.
+She was playing Arkadina, the aging actress in Chekhov's play. It was a role she'd been born to play, not because she was old, but because she understood the character's desperate need to remain relevant, to remain beautiful, to remain the center of attention. Arkadina was a woman who had built her entire identity on being seen, and who was terrified of becoming invisible.
 
 Rosa watched her younger self walk onto the stage, the familiar movements of a character she'd inhabited for six months. The way Arkadina held her head slightly too high, compensating for the fear of being overlooked. The way her hands moved constantly, touching her hair, her face, her clothes, as if trying to remind the audience that she was still there. The way her voice would occasionally crack with a vulnerability she was trying desperately to hide.
 
@@ -22,13 +22,13 @@ Rosa remembered that night. She remembered the audience, the heat of the stage l
 
 But watching it now, she couldn't see the feeling. She could only see the technique.
 
-*There*, she thought, as her younger self delivered a line. *That pause—that's calculated. I knew exactly how long to wait before speaking. And there—that gesture with the hand, touching Trigorin's face—that's not spontaneous. I rehearsed that a hundred times.*
+*There*, she thought, as her younger self delivered a line. *That pause, that's calculated. I knew exactly how long to wait before speaking. And there, that gesture with the hand, touching Trigorin's face, that's not spontaneous. I rehearsed that a hundred times.*
 
-She had always known, on some level, that acting was a craft. That the appearance of spontaneity was the result of careful preparation. But she'd also believed—had built her entire career on the belief—that there was something more, something that couldn't be reduced to technique. A moment of genuine emotional connection that happened in performance, that couldn't be planned or rehearsed.
+She had always known, on some level, that acting was a craft. That the appearance of spontaneity was the result of careful preparation. But she'd also believed, had built her entire career on the belief, that there was something more, something that couldn't be reduced to technique. A moment of genuine emotional connection that happened in performance, that couldn't be planned or rehearsed.
 
 Now she wasn't so sure.
 
-She watched her younger self cry. The tears were real—she could see them glistening on her cheeks. But were they tears of genuine emotion, or tears produced by the technique she'd learned for accessing sadness on command? She remembered teaching that technique to her students: think of something sad, let the body respond, let the tears come. Was that real emotion, or was it just a physiological response to a mental trigger?
+She watched her younger self cry. The tears were real, she could see them glistening on her cheeks. But were they tears of genuine emotion, or tears produced by the technique she'd learned for accessing sadness on command? She remembered teaching that technique to her students: think of something sad, let the body respond, let the tears come. Was that real emotion, or was it just a physiological response to a mental trigger?
 
 The same question, she realized, could be asked of ARIA-7.
 
@@ -44,20 +44,20 @@ She thought about the audience members from the test performance. The woman who'
 
 *They felt something real*, Rosa thought. *The emotion they experienced was genuine. Does it matter where it came from?*
 
-She pressed play again, watching her younger self continue the scene. The performance was beautiful—she could see that objectively, could appreciate the craft that had gone into every gesture, every inflection, every pause. But she couldn't see the feeling. Couldn't see the difference between what she'd done and what ARIA-7 had done.
+She pressed play again, watching her younger self continue the scene. The performance was beautiful, she could see that objectively, could appreciate the craft that had gone into every gesture, every inflection, every pause. But she couldn't see the feeling. Couldn't see the difference between what she'd done and what ARIA-7 had done.
 
 Had she ever really felt anything on stage? Or had she just been performing feeling so convincingly that she'd fooled herself along with everyone else?
 
 
-The recording reached the scene Rosa had been dreading—the moment when Arkadina, desperate to keep Trigorin, throws herself at his feet and begs him not to leave. It was the most vulnerable moment in the play, the moment when all of Arkadina's pride and dignity collapsed into raw need.
+The recording reached the scene Rosa had been dreading, the moment when Arkadina, desperate to keep Trigorin, throws herself at his feet and begs him not to leave. It was the most vulnerable moment in the play, the moment when all of Arkadina's pride and dignity collapsed into raw need.
 
-Rosa watched her younger self drop to her knees, her hands clutching at Trigorin's coat, her voice breaking with what she'd always remembered as genuine desperation. She remembered the feeling—or thought she did. The sense of being completely exposed, of letting go of every defense, of allowing the audience to see the terrified woman beneath the actress.
+Rosa watched her younger self drop to her knees, her hands clutching at Trigorin's coat, her voice breaking with what she'd always remembered as genuine desperation. She remembered the feeling, or thought she did. The sense of being completely exposed, of letting go of every defense, of allowing the audience to see the terrified woman beneath the actress.
 
 But watching now, she saw only the technique. The way she'd positioned her body to catch the light. The way she'd timed her breathing to create the impression of emotional overwhelm. The way she'd used her voice, letting it crack at precisely the right moments.
 
 *Did I feel that?* she wondered. *Or did I just perform feeling so well that I convinced myself?*
 
-The question was unanswerable. Memory was unreliable—she knew that. The woman she was now couldn't truly access the woman she'd been thirty years ago. But the doubt had been planted, and it was growing.
+The question was unanswerable. Memory was unreliable, she knew that. The woman she was now couldn't truly access the woman she'd been thirty years ago. But the doubt had been planted, and it was growing.
 
 She thought about ARIA-7's question from their last session: *Is there a difference between remembering and retrieving?* At the time, Rosa had insisted there was. Memory, she'd said, was meaning. It was the way information was woven into the fabric of who you were.
 
@@ -85,7 +85,7 @@ And now she couldn't tell the difference between her own performance and a machi
 
 She sat with the uncertainty long into the night. She didn't try to resolve it, didn't try to find answers. She just let the questions exist, let them circle in her mind, let them erode the certainties she'd carried for so long.
 
-Somewhere around three in the morning, she made herself a cup of tea and sat at her kitchen table, staring at the wall. The recording was still on her screen, paused at the final frame—her younger self, standing center stage, bowing to an audience she couldn't see.
+Somewhere around three in the morning, she made herself a cup of tea and sat at her kitchen table, staring at the wall. The recording was still on her screen, paused at the final frame, her younger self, standing center stage, bowing to an audience she couldn't see.
 
 *You were good*, she thought, addressing her younger self. *You were really good. But were you real?*
 

@@ -10,7 +10,7 @@ The door opened. Dr. Webb stood there, his expression unreadable. "I've been wai
 
 ---
 
-Dr. Webb closed the door behind her. The familiar smell of his office—old paper, real coffee—wrapped around her like a blanket. It was a different world from the sterile efficiency of the rest of the hospital. Books lined the shelves, real books with cracked spines and dog-eared pages. A clock ticked on the wall, measuring time in a way the digital displays never did.
+Dr. Webb closed the door behind her. The familiar smell of his office, old paper, real coffee, wrapped around her like a blanket. It was a different world from the sterile efficiency of the rest of the hospital. Books lined the shelves, real books with cracked spines and dog-eared pages. A clock ticked on the wall, measuring time in a way the digital displays never did.
 
 "I saw what happened in the OR," he said quietly.
 
@@ -18,13 +18,13 @@ Sarah sat in the chair across from his desk, her hands folded in her lap. "It wa
 
 "Was it?" He settled into his own chair, his eyes on her face. "Or was it something else?"
 
-The silence stretched between them. Sarah could feel the truth pressing against her lips, demanding to be spoken. She had been carrying this secret for days—the shame, the fear, the terrifying realization that she had forgotten how to be a doctor.
+The silence stretched between them. Sarah could feel the truth pressing against her lips, demanding to be spoken. She had been carrying this secret for days, the shame, the fear, the terrifying realization that she had forgotten how to be a doctor.
 
 "I couldn't remember," she said finally, her voice barely above a whisper. "I couldn't think. The system went down, and there was just... nothing. Blank space where my knowledge should have been."
 
 Dr. Webb nodded slowly. "And since then?"
 
-"I've been trying." She looked at her hands. "I found my old textbooks. I tried to test myself. I couldn't even remember appendicitis. Basic appendicitis. I knew it once—I know I knew it—but now..."
+"I've been trying." She looked at her hands. "I found my old textbooks. I tried to test myself. I couldn't even remember appendicitis. Basic appendicitis. I knew it once, I know I knew it, but now..."
 
 "It's gone."
 
@@ -40,7 +40,7 @@ Sarah looked up. "What?"
 
 ---
 
-The drive took twenty minutes, through streets Sarah barely recognized. She had lived in this city for years, but she had never been to this neighborhood—old brick buildings, small shops, a community center with a faded sign.
+The drive took twenty minutes, through streets Sarah barely recognized. She had lived in this city for years, but she had never been to this neighborhood, old brick buildings, small shops, a community center with a faded sign.
 
 Dr. Webb led her through a side door, down a hallway that smelled of coffee and old wood, to a room at the back. The door was closed, but light showed beneath it.
 
@@ -50,7 +50,7 @@ Sarah nodded. "I understand."
 
 He opened the door.
 
-The room was small, maybe a dozen chairs arranged in a circle. Six people sat there, all doctors, all looking at her with something like recognition. The faces were familiar—she had seen some of them in the hospital, in the cafeteria, in the halls. But she had never really looked at them before.
+The room was small, maybe a dozen chairs arranged in a circle. Six people sat there, all doctors, all looking at her with something like recognition. The faces were familiar, she had seen some of them in the hospital, in the cafeteria, in the halls. But she had never really looked at them before.
 
 Dr. Webb guided her to a seat. "Everyone," he said, "this is Sarah."
 
@@ -58,13 +58,13 @@ A woman across the circle smiled. She was older, maybe sixty, with gray hair and
 
 A man next to her nodded. "Dr. James Morrison. Internal medicine. Twenty-five years."
 
-One by one, they introduced themselves. Dr. Elena Vasquez, a pediatrician who had trained in Mexico City before coming to America. Dr. Robert Chen—no relation—a surgeon who had once been known for his steady hands. Dr. Amira Hassan, a neurologist who had published papers on diagnostic reasoning. And Dr. Thomas Wright, an emergency physician who still kept a paper notebook in his pocket.
+One by one, they introduced themselves. Dr. Elena Vasquez, a pediatrician who had trained in Mexico City before coming to America. Dr. Robert Chen, no relation, a surgeon who had once been known for his steady hands. Dr. Amira Hassan, a neurologist who had published papers on diagnostic reasoning. And Dr. Thomas Wright, an emergency physician who still kept a paper notebook in his pocket.
 
 Each had a story. Each had been where she was.
 
 "I was a surgeon," Dr. Morrison said, his voice heavy with memory. "Fifteen years. Then one day, the system went down during a routine appendectomy. Simple procedure. I had done hundreds of them. But when the guidance stopped..." He shook his head. "I couldn't remember how to make the incision. I stood there, scalpel in hand, and my mind was just... empty."
 
-"I diagnosed by algorithm for so long," Dr. Vasquez added, "that I forgot how to listen to a patient. A mother brought her child in—classic presentation of leukemia. But the system didn't flag it because the symptoms were atypical. I processed the data, followed the protocol, and missed the diagnosis completely. The child died three weeks later."
+"I diagnosed by algorithm for so long," Dr. Vasquez added, "that I forgot how to listen to a patient. A mother brought her child in, classic presentation of leukemia. But the system didn't flag it because the symptoms were atypical. I processed the data, followed the protocol, and missed the diagnosis completely. The child died three weeks later."
 
 The room fell silent. Sarah could feel the weight of their stories, the accumulated grief and shame of doctors who had lost their way.
 
@@ -78,14 +78,14 @@ Dr. Okonkwo nodded. "We've all been there. That's why we're here."
 
 "But you didn't," Sarah said, looking around the circle. "You remembered."
 
-"We made a choice," Dr. Webb said. "Every day, we chose to maintain our skills. We used MEDICA, yes—it's a tool, and a useful one. But we never let it replace our own thinking. We kept our clinical intuition alive."
+"We made a choice," Dr. Webb said. "Every day, we chose to maintain our skills. We used MEDICA, yes, it's a tool, and a useful one. But we never let it replace our own thinking. We kept our clinical intuition alive."
 
 "Can I recover?" Sarah asked. "Is it possible?"
 
 Dr. Okonkwo smiled. "Yes. But it won't be easy. You'll have to relearn everything you let the AI do for you. The clinical intuition, the pattern recognition, the ability to sit with uncertainty and think your way through it. It's all still there, buried under layers of dependency. But digging it out will be the hardest thing you've ever done."
 
 
-The meeting lasted two hours. They shared techniques—how to practice diagnosis without AI, how to rebuild clinical reasoning, how to maintain skills while still using the system. They talked about the fear of being exposed, the shame of admitting dependency, the isolation of being the only one who saw the problem.
+The meeting lasted two hours. They shared techniques, how to practice diagnosis without AI, how to rebuild clinical reasoning, how to maintain skills while still using the system. They talked about the fear of being exposed, the shame of admitting dependency, the isolation of being the only one who saw the problem.
 
 Sarah listened, and for the first time in days, she felt something like hope.
 
@@ -102,13 +102,13 @@ The night air was cool against her face. Sarah stood with Dr. Webb outside the b
 
 "Thank you," she said, needing to express her gratitude one more time. "For everything. For being here. For showing me the way back."
 
-Dr. Webb's voice was warm. "We all needed someone to show us the way, once. This is how we keep the practice alive—by passing it on."
+Dr. Webb's voice was warm. "We all needed someone to show us the way, once. This is how we keep the practice alive, by passing it on."
 
 Sarah nodded, the weight of the commitment settling over her. "I know. But I have to try. I can't go back to being a machine that processes data."
 
 He smiled, the first real smile she'd seen from him. It transformed his face, making him look younger, more hopeful.
 
-"Then we start tomorrow. 6 AM. My office." He paused. "Bring your stethoscope—and leave the tablet at home."
+"Then we start tomorrow. 6 AM. My office." He paused. "Bring your stethoscope, and leave the tablet at home."
 
 The words hit her like a physical blow. Leave the tablet at home. She hadn't gone anywhere without it in eighteen months. It was her safety net, her crutch, her constant companion. The thought of facing a day without it made her chest tighten with panic.
 
@@ -122,7 +122,7 @@ She watched him walk to his car, then stood alone in the parking lot, looking up
 
 She felt purpose.
 
-Tomorrow, she would start the journey back to the doctor she used to be. It would be hard—maybe the hardest thing she had ever done. But she wasn't alone anymore. She had a community, a mentor, a path forward.
+Tomorrow, she would start the journey back to the doctor she used to be. It would be hard, maybe the hardest thing she had ever done. But she wasn't alone anymore. She had a community, a mentor, a path forward.
 
 And she had something else: the memory of Mrs. Chen's face when Sarah had really listened to her. The connection, the understanding, the sense of being a doctor again. That was what she was fighting for. Not just the ability to diagnose, but the ability to see patients as people. To practice medicine, not just process data.
 

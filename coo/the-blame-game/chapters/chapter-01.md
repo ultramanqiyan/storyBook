@@ -4,7 +4,7 @@ The morning started like any other.
 
 Mark Chen sat at his desk, reviewing the latest batch of AI-generated code. The CodePilot system had produced another set of trading algorithms overnight, and his job was to verify that the code met the company's standards.
 
-He scrolled through the lines on his screen. The code looked clean—well-structured, efficient. CodePilot had been getting better over the past year. The system had been running for two years now without any major issues.
+He scrolled through the lines on his screen. The code looked clean,well-structured, efficient. CodePilot had been getting better over the past year. The system had been running for two years now without any major issues.
 
 At 9:47 AM, his phone buzzed.
 
@@ -76,7 +76,7 @@ The last part landed like a weight on Mark's chest. Who was involved.
 
 "Of course," Mark said. "I was the primary reviewer for the trading system code. I signed off on all the CodePilot-generated modules over the past two years."
 
-David nodded. His pen moved across the page again. "Just to clarify for the record—your role was to review and approve all AI-generated code before it goes into production?"
+David nodded. His pen moved across the page again. "Just to clarify for the record,your role was to review and approve all AI-generated code before it goes into production?"
 
 Mark hesitated. He needed to be careful here. His answer would be documented, would be used later, could be used against him.
 

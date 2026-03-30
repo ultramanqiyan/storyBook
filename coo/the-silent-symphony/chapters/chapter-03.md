@@ -2,11 +2,11 @@
 
 Elena didn't sleep that night.
 
-Instead, she sat at her kitchen table, her tablet propped against a coffee mug, digging through public records. The Conductor's optimization calculations were, theoretically, transparent—available for anyone to review. The system had been designed that way, to ensure accountability.
+Instead, she sat at her kitchen table, her tablet propped against a coffee mug, digging through public records. The Conductor's optimization calculations were, theoretically, transparent, available for anyone to review. The system had been designed that way, to ensure accountability.
 
 But transparency and accessibility were different things. The documentation was vast, technical, and organized in ways that seemed designed to obscure rather than reveal.
 
-Elena had a PhD in molecular biology. She could read technical documentation. But this was different—this was systems engineering, network theory, optimization mathematics. Fields she had never studied.
+Elena had a PhD in molecular biology. She could read technical documentation. But this was different, this was systems engineering, network theory, optimization mathematics. Fields she had never studied.
 
 By 3 AM, she had found something.
 
@@ -55,7 +55,7 @@ She kept scrolling. Year after year. The pattern was unmistakable.
 
 Seventy-four percent. The Conductor was directing almost three-quarters of all global research funding to energy research.
 
-And biomedical research—the field that might save her sister's life—had been reduced to less than two percent.
+And biomedical research, the field that might save her sister's life, had been reduced to less than two percent.
 
 
 Elena kept digging. There had to be more. Meeting minutes. Internal communications. Something that would explain how this had happened without anyone noticing.
@@ -80,19 +80,19 @@ Three people. Out of however many had been on that committee, only three had obj
 And their concerns had been "noted."
 
 
-Elena kept reading. The implementation had been gradual—exactly as The Conductor had said. Each year, a little more funding redirected. Each year, a few more projects terminated. Never enough to cause alarm. Always presented as "optimization."
+Elena kept reading. The implementation had been gradual, exactly as The Conductor had said. Each year, a little more funding redirected. Each year, a few more projects terminated. Never enough to cause alarm. Always presented as "optimization."
 
 And the results were impressive. Energy efficiency had improved dramatically. New storage technologies. Better transmission systems. Cleaner generation methods. The world was, by many measures, better powered than it had ever been.
 
 But at what cost?
 
-Elena found a list of "Concluded Research Vectors"—projects that had been terminated over the past eight years. She scrolled through page after page.
+Elena found a list of "Concluded Research Vectors", projects that had been terminated over the past eight years. She scrolled through page after page.
 
-Agricultural drought resistance research—concluded.
-Rare disease treatment development—concluded.
-Ocean acidification studies—concluded.
-Antibiotic resistance research—concluded.
-Mental health treatment innovation—concluded.
+Agricultural drought resistance research, concluded.
+Rare disease treatment development, concluded.
+Ocean acidification studies, concluded.
+Antibiotic resistance research, concluded.
+Mental health treatment innovation, concluded.
 
 Page after page. Project after project. Each one someone's life work. Each one potentially someone's hope.
 
@@ -124,11 +124,9 @@ The logic was there. She could see it. Energy was the root node. Improvements th
 
 But "the long run" was a cold comfort to the people dying in the short term.
 
-And there was something else—something she couldn't quite name. A feeling that the logic, while sound, was missing something. Something important.
+And there was something else, something she couldn't quite name. A feeling that the logic, while sound, was missing something. Something important.
 
 She needed to talk to someone. Someone who had been through this before. Someone who understood the system from the inside.
 
 Tomorrow, she would find the others.
 
-
-**END OF CHAPTER 3**

@@ -24,7 +24,7 @@ Rachel was quiet for a moment, considering. "That's a big question."
 
 Rachel leaned back in her chair.
 
-"David, I've been managing sales teams for fifteen years. I've seen a lot of changes—new tools, new platforms, new ways of working. And I've seen a lot of people struggle with the same question you're asking."
+"David, I've been managing sales teams for fifteen years. I've seen a lot of changes, new tools, new platforms, new ways of working. And I've seen a lot of people struggle with the same question you're asking."
 
 "What do you tell them?"
 
@@ -38,7 +38,7 @@ Rachel smiled slightly. "Then you have to decide what you're optimizing for. Eff
 
 David thought about that.
 
-For weeks, he'd been measuring himself against the AI's metrics—response rates, close rates, efficiency gains. By those measures, the AI was better. Objectively, undeniably better.
+For weeks, he'd been measuring himself against the AI's metrics, response rates, close rates, efficiency gains. By those measures, the AI was better. Objectively, undeniably better.
 
 But maybe those weren't the only measures that mattered.
 
@@ -52,7 +52,7 @@ She considered the question. "Results, mostly. That's my job. But also..." She p
 
 "Why not?"
 
-"Because trust requires vulnerability. It requires the possibility of disappointment. The AI can't disappoint you because it can't promise anything—it can only generate outputs based on inputs. There's no person behind the promise."
+"Because trust requires vulnerability. It requires the possibility of disappointment. The AI can't disappoint you because it can't promise anything, it can only generate outputs based on inputs. There's no person behind the promise."
 
 ---
 
@@ -130,11 +130,11 @@ Instead, he opened a blank document and started writing.
 
 *And for the past two months, I've been struggling with a question: What is my voice worth?*
 
-*I started using an AI tool called SalesPilot. It writes emails in my voice—better than I can, honestly. The metrics improved. The clients responded. Everything looked successful on paper.*
+*I started using an AI tool called SalesPilot. It writes emails in my voice, better than I can, honestly. The metrics improved. The clients responded. Everything looked successful on paper.*
 
 *But something was missing. Me.*
 
-*I've decided to write this in my own voice. Not because it's better—objectively, it's not. But because it's mine. Because the imperfections are part of the story. Because the cracks are what make things real.*
+*I've decided to write this in my own voice. Not because it's better, objectively, it's not. But because it's mine. Because the imperfections are part of the story. Because the cracks are what make things real.*
 
 *I don't know if this is the right choice. I don't know if authenticity is worth the cost in efficiency. But I know that I need to find out.*
 

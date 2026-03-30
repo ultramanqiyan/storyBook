@@ -2,7 +2,7 @@
 
 The team meeting was scheduled for Monday.
 
-Marcus had been dreading it all weekend. The usual agenda—project updates, technical discussions, planning. But now, everything felt different.
+Marcus had been dreading it all weekend. The usual agenda, project updates, technical discussions, planning. But now, everything felt different.
 
 He wasn't a tech lead. He was a translator. And he didn't know how to lead a team from that position.
 
@@ -16,7 +16,7 @@ The meeting started normally.
 
 "Good. Any blockers?"
 
-"Just the usual—some edge cases in the transaction logic. I'm working through them."
+"Just the usual, some edge cases in the transaction logic. I'm working through them."
 
 ---
 
@@ -92,7 +92,7 @@ Marcus considered the feedback.
 
 He hadn't been controlling. He'd been deflecting. Hiding his lack of knowledge behind vague guidance and AI-sourced suggestions.
 
-But the result was the same—the team had space to make decisions.
+But the result was the same, the team had space to make decisions.
 
 ---
 
@@ -128,5 +128,3 @@ But it was what he was now.
 
 And maybe, just maybe, it was enough.
 
-
-**END OF CHAPTER 9**

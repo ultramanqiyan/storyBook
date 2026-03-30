@@ -14,7 +14,7 @@ The analysis was correct, as far as it went. But Dot found herself staring at a 
 
 She froze.
 
-The system was analyzing her. It was telling her what she wanted—what she really wanted, beneath the surface of her professional demeanor.
+The system was analyzing her. It was telling her what she wanted, what she really wanted, beneath the surface of her professional demeanor.
 
 And it was right.
 
@@ -34,7 +34,7 @@ She had spent fifteen years learning to read people, to understand what they wan
 
 Now a machine could do it better.
 
-Not completely better—the AI still couldn't do the work of mediation, couldn't guide people toward understanding, couldn't help them face what they were avoiding. But it could see patterns faster and more accurately than she could.
+Not completely better, the AI still couldn't do the work of mediation, couldn't guide people toward understanding, couldn't help them face what they were avoiding. But it could see patterns faster and more accurately than she could.
 
 What did that mean for her? For her skills, her experience, her sense of herself?
 
@@ -48,7 +48,7 @@ There was a pause on the other end. "That's... unexpected. The system isn't desi
 
 "Well, it did. And it was right." Dot's voice was tight. "It told me I want validation. That I'm afraid of becoming obsolete."
 
-"Dot, I'm sorry. That shouldn't have happened. I'll talk to the developers—"
+"Dot, I'm sorry. That shouldn't have happened. I'll talk to the developers, "
 
 "Don't." She cut him off. "I don't want you to turn it off. I want to understand it."
 
@@ -86,7 +86,7 @@ She decided to experiment.
 
 ---
 
-The next week, she started paying closer attention to the system's analyses—not just of her clients, but of herself.
+The next week, she started paying closer attention to the system's analyses, not just of her clients, but of herself.
 
 During each mediation, she watched the tablet for the line that had appeared that Tuesday:
 
@@ -134,7 +134,7 @@ She wasn't sure. But she knew she couldn't go back to not knowing.
 
 ---
 
-The next day, she had a session with a particularly difficult case—a divorce mediation that had been going on for months. The couple was entrenched, angry, and seemingly unable to find any common ground.
+The next day, she had a session with a particularly difficult case, a divorce mediation that had been going on for months. The couple was entrenched, angry, and seemingly unable to find any common ground.
 
 Dot started the session and watched the analysis populate:
 

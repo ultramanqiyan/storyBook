@@ -4,7 +4,7 @@ JudgeAI was the company's ethical decision assistant.
 
 "Navigate complex ethical landscapes," the marketing promised. "AI-assisted moral reasoning for difficult decisions."
 
-Marcus installed it like he'd installed all the others. The interface was familiar—prompts for ethical analysis, suggestions for approaches, evaluations of consequences.
+Marcus installed it like he'd installed all the others. The interface was familiar, prompts for ethical analysis, suggestions for approaches, evaluations of consequences.
 
 Every moral decision optimized. Every ethical judgment streamlined. Every value judgment delegated to AI.
 
@@ -12,7 +12,7 @@ Every moral decision optimized. Every ethical judgment streamlined. Every value 
 
 The first time he used it, the experience was seductive.
 
-He'd faced a difficult decision—whether to implement a feature that would increase user engagement but potentially exploit psychological vulnerabilities. In the past, he would have wrestled with this. Weighed the benefits against the harms. Considered the human impact. Struggled with the trade-offs.
+He'd faced a difficult decision, whether to implement a feature that would increase user engagement but potentially exploit psychological vulnerabilities. In the past, he would have wrestled with this. Weighed the benefits against the harms. Considered the human impact. Struggled with the trade-offs.
 
 Now, he just typed: "Analyze ethical implications of implementing engagement optimization feature."
 
@@ -44,7 +44,7 @@ But something was missing.
 
 In the past, when Marcus had made ethical decisions, he'd felt something. A weight in his chest. A tension in his gut. A sense that the decision mattered, that it had consequences, that he was responsible for the outcome.
 
-Now, he felt... nothing. Not because the decision was easy—it wasn't. Not because the consequences were trivial—they weren't. But because the judgment wasn't his. The weight, the tension, the sense of responsibility—all of it had been absorbed by the AI.
+Now, he felt... nothing. Not because the decision was easy, it wasn't. Not because the consequences were trivial, they weren't. But because the judgment wasn't his. The weight, the tension, the sense of responsibility, all of it had been absorbed by the AI.
 
 *This is what delegation feels like*, he realized. *Not freedom from burden. Just... absence of burden. And absence of burden means absence of meaning.*
 
@@ -82,5 +82,3 @@ The question landed like a blow. Easier. That was exactly what was happening. Hi
 
 The questions were uncomfortable. But they were necessary. And for the first time, Marcus was asking them without AI assistance.
 
-
-**END OF CHAPTER 2**

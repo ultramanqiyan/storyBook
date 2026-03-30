@@ -21,8 +21,6 @@ He typed a response.
 
 He hit send before he could second-guess himself.
 
----
-
 The next day, Mark walked into David's office at 1:55 PM.
 
 David was at his desk, a stack of papers in front of him. He looked up when Mark entered.
@@ -139,7 +137,7 @@ Mark felt the trap snap shut.
 
 "You asked if we should add another reviewer or expand the test suite," David continued. "I asked leadership, and they said the current process was fine. But you're the technical expert. You could have pushed back. You could have documented your concerns more thoroughly."
 
-"Iâ€?
+"I, ?
 
 "Instead, you continued with the same process. And now we've had an incident."
 
@@ -210,8 +208,6 @@ He opened a new message and started typing.
 He read the message three times. It was honest. It was transparent. It was also an admission of negligence.
 
 He hit send before he could change his mind.
-
----
 
 That night, Mark couldn't sleep.
 

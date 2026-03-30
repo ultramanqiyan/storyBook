@@ -2,7 +2,7 @@
 
 The confrontation came three weeks later.
 
-Rachel called him into her office and closed the door. Her expression was serious—the kind of serious that preceded difficult conversations.
+Rachel called him into her office and closed the door. Her expression was serious, the kind of serious that preceded difficult conversations.
 
 "David, your metrics have dropped significantly. The team is noticing. Leadership is asking questions."
 
@@ -54,19 +54,19 @@ She was quiet for a long moment.
 
 David felt his chest tighten. "I'd ask if that was really the kind of team you wanted to build. One where authenticity is punished because it's less efficient."
 
-Rachel's expression flickered—something that might have been respect.
+Rachel's expression flickered, something that might have been respect.
 
 "That's a fair answer," she said. "And honestly, I don't know what the right approach is. The company is pushing AI adoption hard. But you're not the only one who's raised concerns."
 
 David felt a flicker of surprise. "Others have too?"
 
-"Not explicitly. But I've seen the same pattern—people using the AI less over time, even when it hurts their metrics. Like they're trying to hold onto something." She met his eyes. "Maybe that something is worth holding onto."
+"Not explicitly. But I've seen the same pattern, people using the AI less over time, even when it hurts their metrics. Like they're trying to hold onto something." She met his eyes. "Maybe that something is worth holding onto."
 
 ---
 
 The meeting ended without a resolution.
 
-Rachel didn't order him to use SalesPilot exclusively. She didn't threaten consequences. She simply asked him to think about the balance—between authenticity and efficiency, between personal values and professional expectations.
+Rachel didn't order him to use SalesPilot exclusively. She didn't threaten consequences. She simply asked him to think about the balance, between authenticity and efficiency, between personal values and professional expectations.
 
 David left her office with more questions than answers.
 
@@ -86,7 +86,7 @@ The AI was better at being efficient. But was it better at being him?
 
 He decided to run one more comparison.
 
-He took a client he'd been working with for years—someone who knew his style, who trusted his judgment, who valued their relationship. He would write two emails: one in his own voice, one AI-generated. Then he would compare them side by side.
+He took a client he'd been working with for years, someone who knew his style, who trusted his judgment, who valued their relationship. He would write two emails: one in his own voice, one AI-generated. Then he would compare them side by side.
 
 The client was Mark, a procurement manager at a manufacturing company. They'd worked together for five years. Mark had seen David at his best and his worst, had celebrated wins and commiserated losses.
 
@@ -94,9 +94,9 @@ David opened a blank document and started writing.
 
 *Mark,*
 
-*Been thinking about our conversation last week. You're right to be cautious about the new line—the specs look good on paper, but specs don't tell the whole story. Remember that supplier we both got burned by three years ago? The one whose products looked perfect until they weren't? I don't want to be that guy.*
+*Been thinking about our conversation last week. You're right to be cautious about the new line, the specs look good on paper, but specs don't tell the whole story. Remember that supplier we both got burned by three years ago? The one whose products looked perfect until they weren't? I don't want to be that guy.*
 
-*Here's what I can tell you honestly: the new line is solid. Not perfect—nothing is—but solid. I've visited the facility, talked to the engineers, seen the testing process. It's not smoke and mirrors. It's real.*
+*Here's what I can tell you honestly: the new line is solid. Not perfect, nothing is, but solid. I've visited the facility, talked to the engineers, seen the testing process. It's not smoke and mirrors. It's real.*
 
 *But you should verify. Don't take my word for it. Let's get you a sample, let your team put it through whatever tests you want. If it doesn't hold up, I'll be the first to tell you to walk away.*
 
@@ -150,7 +150,7 @@ The response came the next morning.
 
 *David,*
 
-*This is exactly what I needed to hear. Not the polished pitch—the honest assessment. You're right about that supplier three years ago. I remember it well. And I remember that you were the one who helped me clean up the mess.*
+*This is exactly what I needed to hear. Not the polished pitch, the honest assessment. You're right about that supplier three years ago. I remember it well. And I remember that you were the one who helped me clean up the mess.*
 
 *Send the sample. We'll test it. And if it holds up, we'll talk.*
 

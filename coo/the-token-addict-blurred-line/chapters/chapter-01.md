@@ -4,7 +4,7 @@ Nine years into his AI journey, Marcus faced a different kind of question.
 
 The lines were blurring.
 
-Not just the boundaries between work and life—every line was dissolving. The line between right and wrong, fading. The line between ethical and expedient, blurring into ambiguity.
+Not just the boundaries between work and life, every line was dissolving. The line between right and wrong, fading. The line between ethical and expedient, blurring into ambiguity.
 
 *When did right and wrong become unclear?* he wondered.
 
@@ -20,7 +20,7 @@ The question was uncomfortable. But it was also familiar. Every decision he made
 
 ---
 
-He looked at the decision on his screen—the architecture choice that JudgeAI had recommended. The analysis was comprehensive: the trade-offs were clear, the recommendation was logical.
+He looked at the decision on his screen, the architecture choice that JudgeAI had recommended. The analysis was comprehensive: the trade-offs were clear, the recommendation was logical.
 
 But something was missing.
 
@@ -74,5 +74,3 @@ Marcus woke with his heart pounding, the dream still vivid.
 
 The insight was disturbing. But it was also clarifying. For the first time, Marcus could see the blur. And seeing it was the first step toward clarity.
 
-
-**END OF CHAPTER 1**

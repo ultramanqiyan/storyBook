@@ -6,7 +6,7 @@ The company had been testing productivity AI for months, and the latest rollout 
 
 "Never struggle with direction again," the marketing claimed. "FocusZone sets your goals, optimizes your priorities, and maintains your drive automatically."
 
-Marcus had been skeptical at first. But after a particularly exhausting quarter—too many decisions, too many priorities, too many directions—he was ready to try anything.
+Marcus had been skeptical at first. But after a particularly exhausting quarter, too many decisions, too many priorities, too many directions, he was ready to try anything.
 
 ---
 
@@ -45,5 +45,3 @@ Sarah looked at him, her expression thoughtful.
 The question was unexpected. But Marcus dismissed it. He was productive now. Efficient. Directed.
 
 *This is what I've been looking for*, he thought. *Direction without the struggle of deciding.*
-
-**END OF CHAPTER 1**

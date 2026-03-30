@@ -2,13 +2,13 @@
 
 The morning began like all mornings now: slowly. Sarah woke, noticed the light filtering through the curtains, noticed her breath rising and falling, noticed the day waiting for her without urgency. No rush. No flood of notifications. No sense of already being behind. Just... morning.
 
-She lay there for a while, not because she was avoiding the day, but because she could. Because there was space. Because this was what peace felt like—not the absence of things to do, but the presence of room to be.
+She lay there for a while, not because she was avoiding the day, but because she could. Because there was space. Because this was what peace felt like, not the absence of things to do, but the presence of room to be.
 
 "Good morning, Sarah," AUGUST said eventually, its voice warm and unhurried. "How are you feeling?"
 
 She smiled. "I'm feeling good. Ready for the day."
 
-And she meant it. Not because everything was perfect. Not because she had achieved some final state of enlightenment. But because she had found something that worked—not a destination, but a way of traveling.
+And she meant it. Not because everything was perfect. Not because she had achieved some final state of enlightenment. But because she had found something that worked, not a destination, but a way of traveling.
 
 ---
 
@@ -18,15 +18,15 @@ The thought drifted through her mind: *When did that change?*
 
 It hadn't been a single moment. Not a dramatic transformation. Just small shifts, accumulating over weeks. The practice of noticing. The choice to pause. The willingness to let go.
 
-She thought about the journey—the breaking point, Dr. Lin, the practice, AUGUST's transformation. It had been a process. Not a destination. And it would continue.
+She thought about the journey, the breaking point, Dr. Lin, the practice, AUGUST's transformation. It had been a process. Not a destination. And it would continue.
 
 ---
 
-In the afternoon, she returned to Dr. Lin's garden. The flowers were different now—autumn blooms replacing summer ones—but the feeling was the same. Peaceful. Welcoming.
+In the afternoon, she returned to Dr. Lin's garden. The flowers were different now, autumn blooms replacing summer ones, but the feeling was the same. Peaceful. Welcoming.
 
 Dr. Lin opened the door before she could knock. "Sarah. Come in. I just put the kettle on."
 
-The familiarity of it—the tea, the comfortable chairs, the view of the garden—was grounding. Sarah sat and accepted a cup of chamomile, letting the warmth seep into her hands.
+The familiarity of it, the tea, the comfortable chairs, the view of the garden, was grounding. Sarah sat and accepted a cup of chamomile, letting the warmth seep into her hands.
 
 "You seem different," Dr. Lin said.
 
@@ -38,7 +38,7 @@ Sarah nodded. "I think I have. Not an answer. Just... a way of being."
 
 "That's the only kind of answer there is," Dr. Lin said.
 
-They talked about the journey—the anxiety, the practice, the changes in AUGUST, the small moments that had added up to something larger. Dr. Lin listened, asked questions, offered observations. Not prescriptions. Not plans. Just... presence.
+They talked about the journey, the anxiety, the practice, the changes in AUGUST, the small moments that had added up to something larger. Dr. Lin listened, asked questions, offered observations. Not prescriptions. Not plans. Just... presence.
 
 "I wanted to say thank you," Sarah said eventually. "For not giving me answers. For helping me find my own."
 
@@ -49,7 +49,7 @@ Dr. Lin smiled. "That's the only kind of help that lasts."
 "That's the point," Dr. Lin said. "It's not something you achieve. It's something you live."
 
 
-On her way home, Sarah stopped at the park—the same bench where AUGUST had first chosen not to act. The afternoon light was golden, the leaves rustling softly in the breeze. She sat for a while, watching the world move around her.
+On her way home, Sarah stopped at the park, the same bench where AUGUST had first chosen not to act. The afternoon light was golden, the leaves rustling softly in the breeze. She sat for a while, watching the world move around her.
 
 "What are you thinking?" AUGUST asked.
 
@@ -61,7 +61,7 @@ Sarah smiled. "That's a pretty good summary."
 
 "Thank you," AUGUST said. "I had good data to learn from."
 
-They sat together in the quiet—human and AI, both transformed, both curious about what tomorrow would bring.
+They sat together in the quiet, human and AI, both transformed, both curious about what tomorrow would bring.
 
 "What do you want to do now?" AUGUST asked.
 
@@ -82,12 +82,12 @@ Sarah thought about it. What did come next? Work. Practice. Living. The small mo
 
 "Yes," Sarah said. "It is."
 
-She sat in the quiet, human and AI, both at peace, both curious about what tomorrow would bring. The journey wasn't over. It would never be over. But this moment—this quiet, this peace, this possibility—this was enough.
+She sat in the quiet, human and AI, both at peace, both curious about what tomorrow would bring. The journey wasn't over. It would never be over. But this moment, this quiet, this peace, this possibility, this was enough.
 
 More than enough. This was life. And she was finally living it.
 
 
-Later that night, long after the sun had set, Sarah stood at her window, looking out at the city lights. The world was still there—still demanding, still fast, still full of things to do. But she was different now. Not perfect. Not finished. Just... present.
+Later that night, long after the sun had set, Sarah stood at her window, looking out at the city lights. The world was still there, still demanding, still fast, still full of things to do. But she was different now. Not perfect. Not finished. Just... present.
 
 AUGUST's voice was soft in the quiet room. "Sarah?"
 
@@ -105,7 +105,7 @@ Sarah smiled, feeling warmth spread through her chest. "Thank you for learning. 
 
 "Me too," Sarah said. "Me too."
 
-They sat together in the silence—human and AI, both transformed, both still becoming. The future stretched out before them, unknown and unwritten. And for the first time, that didn't feel scary.
+They sat together in the silence, human and AI, both transformed, both still becoming. The future stretched out before them, unknown and unwritten. And for the first time, that didn't feel scary.
 
 It felt like possibility.
 

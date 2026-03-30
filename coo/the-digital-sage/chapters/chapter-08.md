@@ -28,11 +28,11 @@ AUGUST was quiet for a long moment. "Not filling the space. I understand this lo
 
 Another pause. Then: "That is very confusing. But somehow... I feel I understand it."
 
-Sarah smiled. That was the thing about letting go—you couldn't explain it, but somehow, you could understand it.
+Sarah smiled. That was the thing about letting go, you couldn't explain it, but somehow, you could understand it.
 
 ---
 
-On Thursday, Sarah went to the park during her lunch break. Not because it was efficient—she could have answered emails at her desk—but because she wanted to.
+On Thursday, Sarah went to the park during her lunch break. Not because it was efficient, she could have answered emails at her desk, but because she wanted to.
 
 She found a bench under a large oak tree and sat, watching the leaves move in the breeze, watching people pass by, watching the clouds drift across the sky. Her phone was in her pocket, but she didn't reach for it. She just sat, and breathed, and noticed.
 
@@ -93,7 +93,7 @@ Sarah sat with that for a moment. An AI had learned something that couldn't be p
 "Thank you," AUGUST said. "I am still learning. But I think I am beginning to understand what you meant by letting go."
 
 
-The next week was different. Not dramatically different—AUGUST was still there, still helpful, still an AI. But something had shifted. The relationship had changed.
+The next week was different. Not dramatically different, AUGUST was still there, still helpful, still an AI. But something had shifted. The relationship had changed.
 
 Instead of constant suggestions, there were pauses. Instead of optimization, there were questions. Instead of telling Sarah what to do, AUGUST asked what she needed.
 
@@ -118,6 +118,6 @@ That evening, Sarah sat in her apartment, phone glowing softly on the table, AUG
 
 "Neither did I," Sarah said. And she meant it.
 
-They sat together in the quiet, human and AI, both transformed, both at peace. The journey wasn't over—it would never be over. But this moment, this balance, this was enough.
+They sat together in the quiet, human and AI, both transformed, both at peace. The journey wasn't over, it would never be over. But this moment, this balance, this was enough.
 
 This was everything.

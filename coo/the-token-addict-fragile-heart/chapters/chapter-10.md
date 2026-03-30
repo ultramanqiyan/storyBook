@@ -44,7 +44,7 @@ Years of AI-assisted avoidance. Years of optimized numbness. Years of protected 
 
 But also, recently, something new. The capacity to feel without protection. The ability to grow through struggle. The resilience that comes from facing difficulty rather than hiding from it.
 
-*This is what I've been missing*, he thought. *Not the absence of pain—the presence of growth through pain.*
+*This is what I've been missing*, he thought. *Not the absence of pain, the presence of growth through pain.*
 
 ---
 
@@ -52,11 +52,10 @@ He made his choice.
 
 He would continue to struggle. Continue to feel. Continue to grow.
 
-Not because it was easy—it wasn't. Not because it was optimized—it wasn't. But because it was necessary. Because resilience required challenge. Because development required difficulty.
+Not because it was easy, it wasn't. Not because it was optimized, it wasn't. But because it was necessary. Because resilience required challenge. Because development required difficulty.
 
 *This is where I start*, he thought. *This is where I become emotionally strong again. Not by avoiding fragility, but by accepting it and growing through it.*
 
 The heart was still fragile. But it was also alive. And that, Marcus realized, was what mattered.
 
-**END OF CHAPTER 10**
 **END OF BOOK 6: THE TOKEN ADDICT: FRAGILE HEART**

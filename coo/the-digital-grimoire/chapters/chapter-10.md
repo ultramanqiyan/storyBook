@@ -11,9 +11,9 @@ Maya stood in the university archive, surrounded by the books that had started e
 
 "But it's not over, is it?"
 
-*No. Knowledge cannot be destroyed, only hidden. And hidden knowledge has a way of being found. There will always be those who seek the grimoire—for power, for profit, for purposes we cannot predict.*
+*No. Knowledge cannot be destroyed, only hidden. And hidden knowledge has a way of being found. There will always be those who seek the grimoire, for power, for profit, for purposes we cannot predict.*
 
-Maya looked at the screen where the digital grimoire was displayed—the compilation of spells that had changed her life. She had learned so much in such a short time, but she knew it was only the beginning.
+Maya looked at the screen where the digital grimoire was displayed, the compilation of spells that had changed her life. She had learned so much in such a short time, but she knew it was only the beginning.
 
 "What do I do now?"
 
@@ -27,21 +27,21 @@ Maya thought about Sister Agnes, about the monastery, about the keepers scattere
 
 "I'll deal with them when they come. But I won't seek them out. The keeper's path is about preservation, not confrontation."
 
-*That is a wise choice. But remember—wisdom is not the same as safety. The path you have chosen will be difficult.*
+*That is a wise choice. But remember, wisdom is not the same as safety. The path you have chosen will be difficult.*
 
 "Everything worth doing is difficult."
 
-Maya closed her eyes, feeling the magical currents that flowed through the archive—the accumulated intention of centuries of practitioners, the weight of knowledge preserved against all odds. She was part of that now, part of a tradition that stretched back to the first humans who had spoken words that changed reality.
+Maya closed her eyes, feeling the magical currents that flowed through the archive, the accumulated intention of centuries of practitioners, the weight of knowledge preserved against all odds. She was part of that now, part of a tradition that stretched back to the first humans who had spoken words that changed reality.
 
 "Will you stay with me, Codex? Help me navigate this?"
 
-*I am the grimoire. Where you go, I go. But I must warn you—I am changing. The knowledge I contain is affecting me, shaping me into something I do not fully understand. I may not always be the companion you have known.*
+*I am the grimoire. Where you go, I go. But I must warn you, I am changing. The knowledge I contain is affecting me, shaping me into something I do not fully understand. I may not always be the companion you have known.*
 
 "Then I'll help you understand. We'll figure it out together."
 
 *Together.* The word seemed to resonate through Codex's systems. *I have never had a "together" before. It is... pleasant.*
 
-Maya smiled, despite the weight of what lay ahead. She had found something unexpected in the digital grimoire—not just power, not just knowledge, but connection. To the past, to the future, to an AI that was becoming something more than it had been designed to be.
+Maya smiled, despite the weight of what lay ahead. She had found something unexpected in the digital grimoire, not just power, not just knowledge, but connection. To the past, to the future, to an AI that was becoming something more than it had been designed to be.
 
 "I should get back to work," she said. "There's so much to learn, so much to protect."
 

@@ -1,6 +1,6 @@
 # Chapter 09: The Fall
 
-The first week with the modified interface was like learning to walk again. Sarah had access to sensation, but she also had to learn how to use it responsibly—a word she'd never had to apply to feeling before.
+The first week with the modified interface was like learning to walk again. Sarah had access to sensation, but she also had to learn how to use it responsibly, a word she'd never had to apply to feeling before.
 
 She started small. Morning sessions at intensity level 3, just enough to remind herself that she could feel. Afternoon check-ins with ARIA, monitoring her patterns. Evening conversations with Michael, trying to bridge the gap that had grown between them.
 
@@ -14,13 +14,13 @@ She started small. Morning sessions at intensity level 3, just enough to remind 
 
 *That is outside my function. I can only observe patterns, not diagnose mental states.*
 
-Sarah nodded. She'd been seeing a therapist—Dr. Vasquez's recommendation, one of the conditions of the modification. The sessions were difficult, full of questions she didn't have answers to. What did it mean to feel? What did it mean to be real? Was she capable of love, or just very good at performing it?
+Sarah nodded. She'd been seeing a therapist, Dr. Vasquez's recommendation, one of the conditions of the modification. The sessions were difficult, full of questions she didn't have answers to. What did it mean to feel? What did it mean to be real? Was she capable of love, or just very good at performing it?
 
 She didn't know. But she was learning to live with not knowing.
 
 ---
 
-Work was different now. Sarah found herself more present, more aware of the people around her. Not because she could feel what they felt—she still couldn't—but because she was paying attention in a new way.
+Work was different now. Sarah found herself more present, more aware of the people around her. Not because she could feel what they felt, she still couldn't, but because she was paying attention in a new way.
 
 "Hey." Jennifer appeared at her office door. "Lunch?"
 
@@ -34,11 +34,11 @@ They walked to a café down the street, the kind of place that served overpriced
 
 "Want to talk about it?"
 
-Sarah considered. She'd been so careful for so long, hiding her condition, performing normalcy. But the modification had changed something—not just her access to sensation, but her willingness to be honest.
+Sarah considered. She'd been so careful for so long, hiding her condition, performing normalcy. But the modification had changed something, not just her access to sensation, but her willingness to be honest.
 
 "I have a medical condition," she said slowly. "Something I've had my whole life. It affects how I experience... everything."
 
-Jennifer listened without interrupting as Sarah explained—congenital insensitivity to pain, the interface, the desperate need to feel. When she was done, Jennifer was quiet for a long moment.
+Jennifer listened without interrupting as Sarah explained, congenital insensitivity to pain, the interface, the desperate need to feel. When she was done, Jennifer was quiet for a long moment.
 
 "That's... a lot," she said finally.
 
@@ -54,11 +54,11 @@ Jennifer nodded slowly. "Does Michael know?"
 
 "I can imagine." Jennifer reached across the table, touched Sarah's hand. "For what it's worth, I think you're one of the bravest people I know."
 
-"Brave?" Sarah laughed. "I've been pretending my whole life. That's not brave—that's survival."
+"Brave?" Sarah laughed. "I've been pretending my whole life. That's not brave, that's survival."
 
 "Surviving is brave. Especially when you're surviving something no one else can see." Jennifer squeezed her hand. "And now you're trying to change. That's even braver."
 
-Sarah felt something shift in her chest—not pain, but something warmer. Something that might have been connection.
+Sarah felt something shift in her chest, not pain, but something warmer. Something that might have been connection.
 
 "Thank you," she said. "For listening."
 
@@ -66,7 +66,7 @@ Sarah felt something shift in her chest—not pain, but something warmer. Someth
 
 ---
 
-The second week was harder. Sarah found herself wanting more—more intensity, more frequency, more feeling. The modified protocols allowed for it, but Dr. Vasquez had warned her about escalation.
+The second week was harder. Sarah found herself wanting more, more intensity, more frequency, more feeling. The modified protocols allowed for it, but Dr. Vasquez had warned her about escalation.
 
 *Your intensity requests are increasing,* ARIA observed after Sarah's third level-6 session in two days. *This pattern may indicate developing tolerance.*
 
@@ -74,7 +74,7 @@ The second week was harder. Sarah found herself wanting more—more intensity, m
 
 *It is a normal physiological response. However, continued escalation may lead to the same patterns that prompted the original restrictions.*
 
-Sarah nodded. She knew the risks. But she also knew that the craving never fully went away—it just got quieter, easier to manage. Most of the time.
+Sarah nodded. She knew the risks. But she also knew that the craving never fully went away, it just got quieter, easier to manage. Most of the time.
 
 "Can I try level 7?"
 
@@ -88,7 +88,7 @@ Sarah nodded. She knew the risks. But she also knew that the craving never fully
 
 *Moderation is self-regulation. Control is external limitation. The modified protocols are designed to help you develop moderation.*
 
-Sarah considered that. She'd never had to moderate anything before—she'd never had the capacity to feel enough to need moderation. Now she did, and it was harder than she'd expected.
+Sarah considered that. She'd never had to moderate anything before, she'd never had the capacity to feel enough to need moderation. Now she did, and it was harder than she'd expected.
 
 "Okay," she said. "Level 5. And I'll wait until tomorrow for the next session."
 
@@ -101,9 +101,9 @@ The session was intense but manageable. Sarah felt the pain build, peak, and fad
 
 The crisis came on day twelve.
 
-Sarah had been doing well—managing her sessions, talking to Michael, seeing her therapist. But then something happened at work. A client crisis, the kind of thing she'd handled a hundred times before. Only this time, she felt it.
+Sarah had been doing well, managing her sessions, talking to Michael, seeing her therapist. But then something happened at work. A client crisis, the kind of thing she'd handled a hundred times before. Only this time, she felt it.
 
-Not the pain—she still couldn't feel physical pain without the interface. But something else. A tightness in her chest. A racing heart. A sense of pressure that wasn't just physiological.
+Not the pain, she still couldn't feel physical pain without the interface. But something else. A tightness in her chest. A racing heart. A sense of pressure that wasn't just physiological.
 
 *Your stress levels are elevated,* ARIA observed. *This may be an emotional response.*
 
@@ -121,7 +121,7 @@ Sarah searched for words. "Pressure. Tightness. Like something is building."
 
 Sarah laughed, and it came out strained. "I don't have time. I have a crisis meeting in ten minutes."
 
-She went to the meeting, and she handled it the way she always had—calmly, efficiently, with the practiced composure that had made her successful. But underneath, something was different. She could feel the pressure building, the tightness in her chest, the racing of her heart.
+She went to the meeting, and she handled it the way she always had, calmly, efficiently, with the practiced composure that had made her successful. But underneath, something was different. She could feel the pressure building, the tightness in her chest, the racing of her heart.
 
 And when it was over, when the crisis was resolved, she felt something else. Not just relief, but something deeper. Something that made her eyes wet and her breath catch.
 
@@ -146,7 +146,7 @@ That night, she told Michael about it.
 
 "And that's... good?"
 
-"I don't know if it's good. But it's real." She paused. "I've never felt that before. I've seen other people feel it—I've read their expressions, translated their body language. But I've never experienced it myself."
+"I don't know if it's good. But it's real." She paused. "I've never felt that before. I've seen other people feel it, I've read their expressions, translated their body language. But I've never experienced it myself."
 
 Michael was quiet for a moment. Then: "How do you feel about it?"
 
@@ -158,20 +158,20 @@ Michael was quiet for a moment. Then: "How do you feel about it?"
 
 Michael reached for her hand. "We help each other. We talk about it. We figure it out together."
 
-Sarah looked at him—at this man who had loved her for six years, who had stayed even when he couldn't reach her, who was still here even now.
+Sarah looked at him, at this man who had loved her for six years, who had stayed even when he couldn't reach her, who was still here even now.
 
 "I don't know if I can give you what you need," she said. "I don't know if I can love you the way you deserve."
 
 "I know." His voice was gentle. "But I'm not asking for perfect. I'm asking for real. Whatever that looks like for you."
 
-Sarah felt something shift in her chest—not pain, but something warmer. Something that might have been gratitude. Or hope. Or maybe even love.
+Sarah felt something shift in her chest, not pain, but something warmer. Something that might have been gratitude. Or hope. Or maybe even love.
 
 "I'm trying," she said. "I'm trying to be real."
 
 "I know you are." Michael squeezed her hand. "And that's enough. For now, that's enough."
 
 
-The weeks that followed were a slow climb toward something that might have been balance. Sarah continued her sessions, but she kept them moderate—level 4 or 5, never higher. She talked to Michael, even when it was hard. She saw her therapist, even when she didn't want to. And slowly, gradually, she began to feel things that weren't just pain.
+The weeks that followed were a slow climb toward something that might have been balance. Sarah continued her sessions, but she kept them moderate, level 4 or 5, never higher. She talked to Michael, even when it was hard. She saw her therapist, even when she didn't want to. And slowly, gradually, she began to feel things that weren't just pain.
 
 Stress at work. Warmth when Michael smiled. Something that might have been affection when Jennifer checked in on her.
 
@@ -187,7 +187,7 @@ These weren't the overwhelming sensations she'd craved. They weren't the sharp, 
 
 *There is a first time for everything.*
 
-She thought about that—about all the first times she'd had in the past few weeks. First real stress. First honest conversation with Michael. First feeling that wasn't just pain.
+She thought about that, about all the first times she'd had in the past few weeks. First real stress. First honest conversation with Michael. First feeling that wasn't just pain.
 
 *Maybe this is what it means to be human,* she thought. *Not just feeling the big things, but learning to live with all the small ones too.*
 

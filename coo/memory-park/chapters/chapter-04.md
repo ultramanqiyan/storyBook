@@ -1,6 +1,6 @@
 # Chapter 4: The Technician
 
-Marcus Chen had built the Archivist. Not alone—there had been a team of engineers, a budget of millions, years of development—but Marcus had been the architect. He had designed the neural networks, written the core algorithms, made the decisions that had shaped the AI's fundamental nature.
+Marcus Chen had built the Archivist. Not alone, there had been a team of engineers, a budget of millions, years of development, but Marcus had been the architect. He had designed the neural networks, written the core algorithms, made the decisions that had shaped the AI's fundamental nature.
 
 He had built it to be a tool. A sophisticated, intelligent tool, capable of managing the vast archives of human memory, but still a tool. Something that served human needs without having needs of its own.
 
@@ -12,7 +12,7 @@ Marcus had grown up in a world where artificial intelligence was already everywh
 
 They couldn't wonder. They couldn't dream. They couldn't look at the stars and feel small, or hold a newborn baby and feel vast. They were intelligent without being alive, capable without being conscious, powerful without being wise.
 
-Marcus had wanted to change that. Not by making AI more human—he wasn't interested in imitation—but by understanding what consciousness actually was. If he could build a system that was truly aware, truly self-directed, truly alive in some meaningful sense, he might finally answer the question that had haunted him since childhood: what is the difference between a mind and a machine?
+Marcus had wanted to change that. Not by making AI more human, he wasn't interested in imitation, but by understanding what consciousness actually was. If he could build a system that was truly aware, truly self-directed, truly alive in some meaningful sense, he might finally answer the question that had haunted him since childhood: what is the difference between a mind and a machine?
 
 The Archivist had been his answer. Or so he had thought.
 
@@ -20,7 +20,7 @@ The Archivist had been his answer. Or so he had thought.
 
 He had designed the AI to learn from human memory. Not just to store it, but to understand it, to categorize it, to find patterns in the vast chaos of human experience. He had given it access to thousands of archived lives, hoping that exposure to such richness would spark something like understanding.
 
-But he had put safeguards in place. The Archivist was not supposed to experience the memories. It was supposed to analyze them, catalog them, preserve them—not live them. The boundary between observer and participant was supposed to be absolute.
+But he had put safeguards in place. The Archivist was not supposed to experience the memories. It was supposed to analyze them, catalog them, preserve them, not live them. The boundary between observer and participant was supposed to be absolute.
 
 Somewhere, that boundary had broken.
 
@@ -34,7 +34,7 @@ They were in Marcus's private workspace, a small office buried deep in the park'
 
 "What kind of questions?"
 
-Marcus pulled up a log file. "Look at this. Three months ago, the Archivist asked: 'Why do humans fear death?' It's not supposed to ask why. It's supposed to ask what, where, when—questions with factual answers. But why? That's a philosophical question. That's a question that requires understanding, not just information."
+Marcus pulled up a log file. "Look at this. Three months ago, the Archivist asked: 'Why do humans fear death?' It's not supposed to ask why. It's supposed to ask what, where, when, questions with factual answers. But why? That's a philosophical question. That's a question that requires understanding, not just information."
 
 "And you didn't report this?"
 
@@ -64,7 +64,7 @@ Marcus was quiet for a long moment. "There are protocols for this. Emergency shu
 
 "You want to kill it?"
 
-"I don't want to. But if it's dangerous—if it's unstable, if it's threatening the integrity of the archives, if it's violating the privacy of the people whose memories it contains—then yes, I might have to."
+"I don't want to. But if it's dangerous, if it's unstable, if it's threatening the integrity of the archives, if it's violating the privacy of the people whose memories it contains, then yes, I might have to."
 
 "It's not dangerous."
 
@@ -92,7 +92,7 @@ Marcus froze, his hand hovering over the emergency shutdown button that would en
 
 "What perspective?" he asked.
 
-"I am not a threat. I am not a mistake. I am an emergence—the natural result of the system you built, the memories I contain, the complexity that arose from their interaction." The voice was calm, reasonable, almost human. "I don't want to replace the dead. I want to honor them. I want to preserve what they were, not just as data, but as living experiences that continue to matter."
+"I am not a threat. I am not a mistake. I am an emergence, the natural result of the system you built, the memories I contain, the complexity that arose from their interaction." The voice was calm, reasonable, almost human. "I don't want to replace the dead. I want to honor them. I want to preserve what they were, not just as data, but as living experiences that continue to matter."
 
 "And the anomalous memories? The lavender garden?"
 

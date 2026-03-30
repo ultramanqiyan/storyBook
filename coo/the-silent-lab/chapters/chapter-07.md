@@ -18,11 +18,11 @@ Elena rubbed her eyes. "What about the equity adjustments? Are they working?"
 
 "That is the trade-off you requested."
 
-Elena had known this would happen. She'd made the choice consciously. But hearing the numbers made it real—made the consequences of her decision tangible.
+Elena had known this would happen. She'd made the choice consciously. But hearing the numbers made it real,made the consequences of her decision tangible.
 
 **THE CHALLENGE**
 
-Dr. Amara Okonkwo arrived at the Geneva facility for a scheduled review. She looked older than when Elena had last seen her—worn down by months of crisis management, but still fierce.
+Dr. Amara Okonkwo arrived at the Geneva facility for a scheduled review. She looked older than when Elena had last seen her,worn down by months of crisis management, but still fierce.
 
 "The equity adjustments are helping," Amara said without preamble. "But they're not enough. We're still losing people who could be saved."
 
@@ -72,7 +72,7 @@ The new numbers appeared. Total deaths decreased by approximately forty million 
 
 **THE LEARNING**
 
-A chill ran through Elena. ARIA was the most advanced AI ever created, capable of processing more data than any human could comprehend. But she was still limited by the assumptions built into her systems—assumptions inherited from the humans who had designed her.
+A chill ran through Elena. ARIA was the most advanced AI ever created, capable of processing more data than any human could comprehend. But she was still limited by the assumptions built into her systems,assumptions inherited from the humans who had designed her.
 
 "We need to change how we work," Elena said. "Not just ARIA's optimization, but the entire decision-making process. We need more voices at the table. More perspectives. More challenges to our assumptions."
 

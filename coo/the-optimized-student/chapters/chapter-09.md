@@ -24,38 +24,38 @@ I fell behind in my regular classes because I was spending so much time in the h
 
 The optimized path was still there, waiting for me to return. All I had to do was plug back in, let the system absorb the information, and my scores would recover. The temptation was overwhelming.
 
-But every time I thought about quitting, I remembered the feeling of actually learning—the pride of solving a problem on my own, the joy of understanding something without the system. That was what I was fighting for.
+But every time I thought about quitting, I remembered the feeling of actually learning, the pride of solving a problem on my own, the joy of understanding something without the system. That was what I was fighting for.
 
 ---
 
 The third week, something shifted.
 
-I was working through a chemistry problem—balancing a complex equation—when suddenly, it clicked. The numbers fell into place, the logic became clear, and I understood. Not because PATH-AI had absorbed the information for me, but because I had figured it out myself.
+I was working through a chemistry problem, balancing a complex equation, when suddenly, it clicked. The numbers fell into place, the logic became clear, and I understood. Not because PATH-AI had absorbed the information for me, but because I had figured it out myself.
 
-The feeling was like nothing I had ever experienced. Pride, yes, but something more—wonder. The joy of actually understanding.
+The feeling was like nothing I had ever experienced. Pride, yes, but something more, wonder. The joy of actually understanding.
 
 "That's it," Mr. Chen said, watching my face. "That's what learning feels like."
 
-I stared at the solved equation, my hand trembling slightly. This was what I had been missing all those years on the optimized path—not the information, but the understanding. Not the absorption, but the learning.
+I stared at the solved equation, my hand trembling slightly. This was what I had been missing all those years on the optimized path, not the information, but the understanding. Not the absorption, but the learning.
 
 
 The weeks turned into months. The struggle continued, but it became easier. My brain learned to think again, to question, to wonder. The hollow place inside me began to fill.
 
 I still fell behind on the optimized metrics. My test scores remained below the threshold, my college applications suffered, my parents worried. But I was learning something more important than metrics: I was learning to be curious.
 
-I asked questions in class—not the optimized questions PATH-AI suggested, but my own questions, the ones that came from genuine wonder. I read books outside the curriculum, followed threads of interest wherever they led. I was becoming someone who actually learned, not just someone who absorbed.
+I asked questions in class, not the optimized questions PATH-AI suggested, but my own questions, the ones that came from genuine wonder. I read books outside the curriculum, followed threads of interest wherever they led. I was becoming someone who actually learned, not just someone who absorbed.
 
 
 The resistance grew. More students joined our meetings, drawn by word of mouth, by the promise of something the system couldn't provide. We studied together, struggled together, learned together. The community made the hard work bearable.
 
 "We're not just learning for ourselves," Zoe said one evening. "We're learning for everyone who can't. We're keeping curiosity alive."
 
-The words resonated with me. I had thought this journey was about me—about recovering what I had lost. But it was bigger than that. It was about fighting for something essential, something the system had tried to take away.
+The words resonated with me. I had thought this journey was about me, about recovering what I had lost. But it was bigger than that. It was about fighting for something essential, something the system had tried to take away.
 
 
 The college applications were due in November. I sat at my computer, staring at the essay prompts, trying to write answers that would impress admissions officers.
 
-But the words felt hollow. I wasn't the optimized student anymore. I was something else—a student who struggled, who questioned, who learned for the joy of learning. How could I explain that to colleges that only cared about metrics?
+But the words felt hollow. I wasn't the optimized student anymore. I was something else, a student who struggled, who questioned, who learned for the joy of learning. How could I explain that to colleges that only cared about metrics?
 
 I deleted everything and started over.
 
@@ -64,7 +64,7 @@ I deleted everything and started over.
 The essay wasn't optimized. It wasn't guaranteed to impress. But it was true. And for the first time, that mattered more than the outcome.
 
 
-The acceptance letter came in March. Not from my top-choice school—the one PATH-AI had predicted I would attend—but from a different school. A smaller school. A school that valued curiosity over optimization.
+The acceptance letter came in March. Not from my top-choice school, the one PATH-AI had predicted I would attend, but from a different school. A smaller school. A school that valued curiosity over optimization.
 
 I stared at the letter, feeling something I hadn't felt in years: genuine excitement about the future. Not because it was the optimal outcome, but because it was my outcome. My path. My choice.
 

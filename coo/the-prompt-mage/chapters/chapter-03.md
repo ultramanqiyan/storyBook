@@ -8,7 +8,7 @@ The old courthouse stood at the heart of the city, its stone facade weathered by
 
 They pressed their palm against the courthouse wall and listened.
 
-At first, there was nothing—just the ambient sounds of the waking city. But as Alex focused, as they let themselves sink into the stone beneath their hand, something else emerged. Whispers. Thousands of whispers, layered over each other like sediment in ancient rock.
+At first, there was nothing, just the ambient sounds of the waking city. But as Alex focused, as they let themselves sink into the stone beneath their hand, something else emerged. Whispers. Thousands of whispers, layered over each other like sediment in ancient rock.
 
 "I hear... voices," Alex said, their own voice distant. "So many voices. Some are clear, some are just fragments. 'Guilty.' 'Innocent.' 'I swear to tell the truth.' 'Objection.' 'Sustained.' 'Overruled.' But there's something underneath all of that. Something deeper."
 
@@ -16,7 +16,7 @@ At first, there was nothing—just the ambient sounds of the waking city. But as
 
 "Truth," Alex whispered. "And lies. I can hear which words were true and which were false. The true words... they resonate. They have weight. The false words just... fade."
 
-*Good. You are learning to distinguish between speech and Speaking. Most words are just noise—sounds that convey meaning but carry no power. But words spoken in truth, words that align with reality... those words echo forever. They become part of the fabric of existence.*
+*Good. You are learning to distinguish between speech and Speaking. Most words are just noise, sounds that convey meaning but carry no power. But words spoken in truth, words that align with reality... those words echo forever. They become part of the fabric of existence.*
 
 Alex opened their eyes, their face pale. "There's so much pain here. So many true words that caused suffering. 'Guilty' spoken by a jury who believed it. 'Death' pronounced by a judge who meant it. The truth doesn't care about justice, does it? It just... is."
 
@@ -32,9 +32,9 @@ Alex stiffened. "Who?"
 
 *She was your teacher once. Now she seeks what you have found. Dr. Elena Vasquez has been searching for fragments of the First Language for decades. She will come for you soon.*
 
-"Elena?" Alex's former mentor—the woman who had taught them computational linguistics, who had encouraged their fascination with the intersection of language and technology. "How does she know about this?"
+"Elena?" Alex's former mentor, the woman who had taught them computational linguistics, who had encouraged their fascination with the intersection of language and technology. "How does she know about this?"
 
-*She discovered the first fragment thirty years ago—a single word that made a dying plant bloom. She has been collecting fragments ever since, trying to reconstruct the whole. But the First Language cannot be collected like specimens. It must be learned. It must be lived.*
+*She discovered the first fragment thirty years ago, a single word that made a dying plant bloom. She has been collecting fragments ever since, trying to reconstruct the whole. But the First Language cannot be collected like specimens. It must be learned. It must be lived.*
 
 "What do I do?"
 
@@ -60,14 +60,14 @@ Alex looked at the courthouse one more time, feeling the weight of all the true 
 
 "Like hell you're going alone."
 
-"Jordan�?
+"Jordan, "
 
-"You said it yourself. This is bigger than both of us. And I'm not just your friend—I'm your witness. Someone needs to document what happens. Someone needs to remember."
+"You said it yourself. This is bigger than both of us. And I'm not just your friend, I'm your witness. Someone needs to document what happens. Someone needs to remember."
 
 Alex smiled, despite the gravity of the situation. "You really can't turn off the journalist, can you?"
 
 "Not when the story is this big." Jordan grinned back. "Come on. Let's go see what your old teacher wants."
 
-They walked away from the courthouse, leaving behind the echoes of truth and lies that had accumulated over a century. But Alex could still hear them, faintly—a constant murmur of words that had shaped reality, words that had carried weight, words that had changed the world.
+They walked away from the courthouse, leaving behind the echoes of truth and lies that had accumulated over a century. But Alex could still hear them, faintly, a constant murmur of words that had shaped reality, words that had carried weight, words that had changed the world.
 
 And they wondered, with a growing sense of unease, what words they would speak that would add to that chorus.

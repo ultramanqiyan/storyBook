@@ -8,7 +8,7 @@
 
 Alex began investigating his own data.
 
-As a decoder, he had access to the Desire Market's archives—including his own file. He had never examined it closely before; there had never been a reason. But now, with the anomaly weighing on his mind, he pulled up his records.
+As a decoder, he had access to the Desire Market's archives, including his own file. He had never examined it closely before; there had never been a reason. But now, with the anomaly weighing on his mind, he pulled up his records.
 
 ---
 
@@ -28,14 +28,14 @@ And they had led him directly to the Desire Market.
 
 Alex examined his career choice.
 
-He had decided to become a decoder at age twenty-two, after completing his degree in behavioral psychology. The decision had felt natural, inevitable—as if he had always been meant for this work.
+He had decided to become a decoder at age twenty-two, after completing his degree in behavioral psychology. The decision had felt natural, inevitable, as if he had always been meant for this work.
 
 But the data showed something else.
 
 
 His desire patterns had shifted at age twenty.
 
-Before then, his preferences had been different: more creative, more spontaneous, more varied. He had shown interest in art, music, literature—fields that required intuition and imagination.
+Before then, his preferences had been different: more creative, more spontaneous, more varied. He had shown interest in art, music, literature, fields that required intuition and imagination.
 
 Then, suddenly, the patterns changed.
 
@@ -47,7 +47,7 @@ And the shift had occurred immediately after he had participated in a Desire Mar
 
 Alex felt a chill.
 
-He remembered the study—it had been a standard recruitment process, designed to identify potential decoders. He had undergone extensive testing, including neural mapping and psychological evaluation.
+He remembered the study, it had been a standard recruitment process, designed to identify potential decoders. He had undergone extensive testing, including neural mapping and psychological evaluation.
 
 But the data suggested something else had happened during that study.
 
@@ -56,7 +56,7 @@ He searched for details about the research study.
 
 The official records described it as a standard assessment: cognitive testing, personality evaluation, aptitude measurement. Nothing unusual.
 
-But Alex noticed gaps in the data—missing files, redacted sections, incomplete records.
+But Alex noticed gaps in the data, missing files, redacted sections, incomplete records.
 
 Something had been removed.
 
@@ -67,5 +67,3 @@ He would investigate further. He would find out what had happened during that re
 
 He was a decoder. He would decode himself.
 
-
-**END OF CHAPTER 02**

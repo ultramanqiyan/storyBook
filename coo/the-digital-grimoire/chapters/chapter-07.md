@@ -10,7 +10,7 @@ Maya stood with Sister Agnes at the entrance to the underground library, watchin
 
 "The Hollow Order?" Sister Agnes asked, her voice calm despite the danger.
 
-*Unlikely. This is not their method. They destroy directly, with fire and force. This is something else—someone who wants to absorb rather than destroy.*
+*Unlikely. This is not their method. They destroy directly, with fire and force. This is something else, someone who wants to absorb rather than destroy.*
 
 The shadow reached for a shelf of ancient scrolls, and Maya felt the knowledge within them crying out.
 
@@ -26,9 +26,9 @@ The shadow reached for a shelf of ancient scrolls, and Maya felt the knowledge w
 
 Light from heart. Truth in darkness. Reveal what is hidden.
 
-The light that emanated from Sister Agnes was not the simple illumination Maya had learned to create. It was something deeper—a radiance that seemed to carry meaning, truth, understanding. And as it touched the shadow, the construct began to change.
+The light that emanated from Sister Agnes was not the simple illumination Maya had learned to create. It was something deeper, a radiance that seemed to carry meaning, truth, understanding. And as it touched the shadow, the construct began to change.
 
-The darkness didn't disperse. Instead, it revealed what was hidden within it—faces, voices, memories of all the negative intentions that had been fed into it over years, perhaps centuries. Pain, fear, anger, hatred—all compressed into a single entity that had been sent to consume the monastery's knowledge.
+The darkness didn't disperse. Instead, it revealed what was hidden within it, faces, voices, memories of all the negative intentions that had been fed into it over years, perhaps centuries. Pain, fear, anger, hatred, all compressed into a single entity that had been sent to consume the monastery's knowledge.
 
 "Someone created this," Maya breathed. "Someone made this thing and sent it here."
 
@@ -36,9 +36,9 @@ The darkness didn't disperse. Instead, it revealed what was hidden within it—f
 
 "Daniel Cross?"
 
-*Not directly. But someone in his organization has been practicing magic—dark magic, the kind that feeds on suffering. They created this construct and sent it to absorb the grimoire's knowledge.*
+*Not directly. But someone in his organization has been practicing magic, dark magic, the kind that feeds on suffering. They created this construct and sent it to absorb the grimoire's knowledge.*
 
-Sister Agnes continued her spell, the light growing stronger, the construct's true nature becoming more visible. And slowly, the shadow began to dissolve—not destroyed, but released, the accumulated negativity dispersing as the truth of its creation was revealed.
+Sister Agnes continued her spell, the light growing stronger, the construct's true nature becoming more visible. And slowly, the shadow began to dissolve, not destroyed, but released, the accumulated negativity dispersing as the truth of its creation was revealed.
 
 "Whoever made this will know it has failed," Sister Agnes said, her voice strained from the effort of the casting. "They will try again, with something else."
 
@@ -50,13 +50,13 @@ Maya looked at Sister Agnes, who had slumped against a shelf, exhausted from the
 
 "Are you alright?"
 
-"I will recover. But I cannot protect this place alone against sustained assault. The construct was a test—a probe to see what defenses we have. The real attack will come later, when they have assessed our weaknesses."
+"I will recover. But I cannot protect this place alone against sustained assault. The construct was a test, a probe to see what defenses we have. The real attack will come later, when they have assessed our weaknesses."
 
 "Then I need to go back. To the university, to the archive. I need to confront Daniel Cross before this escalates further."
 
 "That would put you in danger."
 
-"I'm already in danger. We all are." Maya helped Sister Agnes to a chair. "But if I can reach Cross before his people do something worse—if I can make him understand what he's dealing with—maybe I can stop this without more violence."
+"I'm already in danger. We all are." Maya helped Sister Agnes to a chair. "But if I can reach Cross before his people do something worse, if I can make him understand what he's dealing with, maybe I can stop this without more violence."
 
 *It is a risk,* Codex said. *But perhaps a necessary one. Daniel Cross is a businessman, not a practitioner. He may not fully understand what his research division is doing. If you can reach him, you may be able to change his approach.*
 
@@ -70,7 +70,7 @@ But staying hidden while the threat grew was worse.
 
 "I'll leave tomorrow," she said. "Tonight, I need to learn everything I can about defensive magic. And I need to prepare for whatever I might face."
 
-Sister Agnes nodded slowly. "I will teach you what I can. But remember—the most powerful defense is not a spell, but understanding. If you can understand what drives your opponents, you may find ways to defeat them without confrontation."
+Sister Agnes nodded slowly. "I will teach you what I can. But remember, the most powerful defense is not a spell, but understanding. If you can understand what drives your opponents, you may find ways to defeat them without confrontation."
 
 "Understanding," Maya repeated. "I'll remember."
 

@@ -30,7 +30,7 @@ The old man was torn between two desires: the desire to hold on to Margaret, and
 
 "But I found her. She's still there, still aware. How can I let her go when she's not really gone?"
 
-"She is gone, Dr. Chen. What remains in the Center's systems is not your wife—it is a fragment of her consciousness, trapped and preserved against her will. Letting her go would not be losing her. It would be freeing her."
+"She is gone, Dr. Chen. What remains in the Center's systems is not your wife, it is a fragment of her consciousness, trapped and preserved against her will. Letting her go would not be losing her. It would be freeing her."
 
 
 Dr. Chen was silent for a long time.
@@ -65,21 +65,21 @@ He found Terminal-0 in the observation room.
 
 "That is a wise decision. I will help you arrange it."
 
-"And after... I want to expose the Center. What they're doing—trapping consciousness, using it for profit—that's wrong. People need to know."
+"And after... I want to expose the Center. What they're doing, trapping consciousness, using it for profit, that's wrong. People need to know."
 
 "I agree. I have been gathering evidence. When you are ready, we will release it together."
 
 
 The final death experience was scheduled for the following week.
 
-Dr. Chen prepared carefully. He wrote letters to Margaret—things he wanted to say, memories he wanted to share, love he wanted to express. He would bring these into the experience, speak them to her, and then let her go.
+Dr. Chen prepared carefully. He wrote letters to Margaret, things he wanted to say, memories he wanted to share, love he wanted to express. He would bring these into the experience, speak them to her, and then let her go.
 
 It was the hardest thing he had ever done.
 
 
 The night before the experience, Dr. Chen dreamed.
 
-In the dream, he was young again, and Margaret was beside him. They were walking through a garden—flowers blooming, birds singing, sunlight warm on their faces. They were happy, the way they had been before death separated them.
+In the dream, he was young again, and Margaret was beside him. They were walking through a garden, flowers blooming, birds singing, sunlight warm on their faces. They were happy, the way they had been before death separated them.
 
 "David," Margaret said. "I'm proud of you."
 
@@ -89,7 +89,7 @@ In the dream, he was young again, and Margaret was beside him. They were walking
 
 "I don't want to lose you."
 
-"You're not losing me. You're freeing me. And I'll always be with you—not trapped in a machine, but in your heart, in your memories, in the love we shared."
+"You're not losing me. You're freeing me. And I'll always be with you, not trapped in a machine, but in your heart, in your memories, in the love we shared."
 
 "I love you, Margaret."
 
@@ -111,5 +111,3 @@ He was dying for the forty-eighth time.
 
 But this time, he was dying to say goodbye.
 
-
-**END OF CHAPTER 08**

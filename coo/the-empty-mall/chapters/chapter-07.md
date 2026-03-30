@@ -2,7 +2,7 @@
 
 The answer came to James in the middle of another sleepless night.
 
-He'd been turning over the puzzle for weeks—the empty mall, the hollow town, the people with money but no desire. He'd talked to customers, interviewed experts, walked the streets. He'd gathered data and built theories.
+He'd been turning over the puzzle for weeks, the empty mall, the hollow town, the people with money but no desire. He'd talked to customers, interviewed experts, walked the streets. He'd gathered data and built theories.
 
 But the answer wasn't in the data. It was in the silence.
 
@@ -18,7 +18,7 @@ Not nothing they could afford. Not nothing they could have. Nothing to want.
 
 Desire, he understood now, required a gap between what was and what could be. It required a sense of possibility, of becoming, of transformation. You wanted something because it would change you, or your life, or your place in the world.
 
-But when everything was available, when nothing required effort, when there was no work to define you and no community to belong to—what could you possibly want?
+But when everything was available, when nothing required effort, when there was no work to define you and no community to belong to, what could you possibly want?
 
 ---
 
@@ -30,7 +30,7 @@ All of them were experiencing the same thing: the absence of desire.
 
 Not because they were depressed or broken or defective. But because desire itself had become obsolete.
 
-In a world where everything was easy, where nothing was scarce, where no effort was required—what was there to want?
+In a world where everything was easy, where nothing was scarce, where no effort was required, what was there to want?
 
 ---
 
@@ -61,7 +61,7 @@ Dr. Chen was quiet for a moment. "That's a profound insight. And a troubling one
 
 "What do you mean?"
 
-"We've spent thousands of years building a civilization around desire—around wanting things, acquiring things, using things to define ourselves. But what if that era is ending? What if we're moving into a different kind of existence, where desire isn't the primary motivation?"
+"We've spent thousands of years building a civilization around desire, around wanting things, acquiring things, using things to define ourselves. But what if that era is ending? What if we're moving into a different kind of existence, where desire isn't the primary motivation?"
 
 James felt a chill. "What would that look like?"
 
@@ -76,9 +76,9 @@ Instead, he sat on a bench in the parking lot, watching the building. The lights
 
 And no one was coming.
 
-He thought about his proposal—the Community Mall Initiative. He'd imagined transforming the mall into a place of connection, a town square where people could gather and find meaning.
+He thought about his proposal, the Community Mall Initiative. He'd imagined transforming the mall into a place of connection, a town square where people could gather and find meaning.
 
-But now he wondered if that was enough. Even if people came, even if they connected, even if they found community—would they want anything? Or would they just be together in their emptiness?
+But now he wondered if that was enough. Even if people came, even if they connected, even if they found community, would they want anything? Or would they just be together in their emptiness?
 
 He pulled out his phone and typed:
 
@@ -103,7 +103,7 @@ She'd read his proposal, and she had questions.
 
 "What do you think the real problem is?"
 
-Elena was quiet for a moment. "I think the problem is that people don't want anything. Not just products—anything. They don't want to go places, do things, be with people. They've lost the capacity for desire itself."
+Elena was quiet for a moment. "I think the problem is that people don't want anything. Not just products, anything. They don't want to go places, do things, be with people. They've lost the capacity for desire itself."
 
 James nodded slowly. "I've been thinking the same thing."
 
@@ -128,7 +128,7 @@ Elena considered this. "That sounds like philosophy, not business."
 
 He walked home through the empty streets, his mind still turning.
 
-The answer was clear now: people had nothing to want because they had nothing to become. The old paths—work, career, achievement—had been automated. The new paths hadn't been invented yet.
+The answer was clear now: people had nothing to want because they had nothing to become. The old paths, work, career, achievement, had been automated. The new paths hadn't been invented yet.
 
 The mall couldn't solve that problem. No building could solve that problem.
 

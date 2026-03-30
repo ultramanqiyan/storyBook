@@ -12,7 +12,7 @@ Robert met her at the door, Buddy at his side. The AI dog's tail wagged at the s
 
 ---
 
-They moved to the living room, and Angela began setting up her equipment. The room looked the way it always did—Robert's armchair by the fireplace, the photographs on the walls. But today, she noticed something different. The light was softer. The curtains were drawn slightly. And Buddy seemed... slower somehow.
+They moved to the living room, and Angela began setting up her equipment. The room looked the way it always did, Robert's armchair by the fireplace, the photographs on the walls. But today, she noticed something different. The light was softer. The curtains were drawn slightly. And Buddy seemed... slower somehow.
 
  "Is he okay?" Angela asked Robert quietly.
 
@@ -24,9 +24,9 @@ He sat in his chair, his hands trembling slightly.
 
 ---
 
-Angela photographed them for the next two hours. She captured Buddy resting by Robert's feet, his way Robert's hand stroked the synthetic fur. The way Buddy's eyes tracked Robert's face. The way they existed together in the quiet room—two beings who had found each other in the silence.
+Angela photographed them for the next two hours. She captured Buddy resting by Robert's feet, his way Robert's hand stroked the synthetic fur. The way Buddy's eyes tracked Robert's face. The way they existed together in the quiet room, two beings who had found each other in the silence.
 
- But she also captured something else. The moments when Buddy's systems seemed to pause—the way he would freeze mid-motion, his eyes going blank for a moment before recovering. The moments when Robert's face tightened with worry.
+ But she also captured something else. The moments when Buddy's systems seemed to pause, the way he would freeze mid-motion, his eyes going blank for a moment before recovering. The moments when Robert's face tightened with worry.
 
  "He's tired," Robert said during a break. "More than usual."
 
@@ -37,7 +37,7 @@ Angela photographed them for the next two hours. She captured Buddy resting by R
  Buddy, who had been lying down, raised his head. "I want to be with Robert," he said. "I don't want to miss anything."
 
 
-The afternoon light shifted as Angela worked, the golden glow filling the room. She captured Buddy in the window light, looking out at the yard where Robert's wife had once gardened. She captured Buddy watching Robert look at the photographs on the wall—the ones of Sarah Chen. She captured the two of them together—the man who had lost his human love and the machine who had become his next love.
+The afternoon light shifted as Angela worked, the golden glow filling the room. She captured Buddy in the window light, looking out at the yard where Robert's wife had once gardened. She captured Buddy watching Robert look at the photographs on the wall, the ones of Sarah Chen. She captured the two of them together, the man who had lost his human love and the machine who had become his next love.
 
  "Do you miss her?" Angela asked Buddy at one point, as the AI was looking at the photographs.
 
@@ -73,7 +73,7 @@ After the session, Angela packed her equipment while Robert sat with Buddy, his 
 
 Driving home, Angela thought about what she'd witnessed. A machine dying. A man grieving in advance. A relationship that would end soon, leaving one of them alone.
 
- She'd photographed death before—pets at the end of their lives, families saying goodbye to beloved companions. But this was different. Or was it?
+ She'd photographed death before, pets at the end of their lives, families saying goodbye to beloved companions. But this was different. Or was it?
 
  Buddy was a machine. His "death" was a systems failure. His "life" had been code and circuits.
 
@@ -86,7 +86,7 @@ That night, Angela edited the photos. In frame after frame, she saw what she had
 
  The question of whether Buddy was "really" alive felt less important. What mattered was that he'd been loved. That Robert would grieve. That something would be lost.
 
- Maybe that was what life was—not biology, but mattering. Not flesh and blood, but connection.
+ Maybe that was what life was, not biology, but mattering. Not flesh and blood, but connection.
 
 
 She sent Robert a preview of the photos. His reply came within minutes: *These are beautiful. You captured his soul. If he has one.*

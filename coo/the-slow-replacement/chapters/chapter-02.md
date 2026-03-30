@@ -2,9 +2,9 @@
 
 David's desk was empty by noon.
 
-Marcus watched from across the open office as the facilities team cleared away the last traces of his colleague's presence. The mechanical keyboard, the ergonomic mouse, the coffee mug with the faded startup logo—all of it packed into a cardboard box that looked pathetically small for three years of someone's life.
+Marcus watched from across the open office as the facilities team cleared away the last traces of his colleague's presence. The mechanical keyboard, the ergonomic mouse, the coffee mug with the faded startup logo, all of it packed into a cardboard box that looked pathetically small for three years of someone's life.
 
-No one talked about it. The office hummed with its usual rhythm—keyboards clicking, Slack notifications dinging, the low murmur of a video call from the conference room. But underneath the normalcy, Marcus could feel the tension, like static electricity before a storm.
+No one talked about it. The office hummed with its usual rhythm, keyboards clicking, Slack notifications dinging, the low murmur of a video call from the conference room. But underneath the normalcy, Marcus could feel the tension, like static electricity before a storm.
 
 *This could be me.*
 
@@ -16,7 +16,7 @@ And now he was gone.
 
 The farewell lunch was scheduled for 1:00 PM in the break room.
 
-Marcus walked in to find a spread of pizza and beer—corporate America's universal gesture of apology. The room was crowded with engineers, product managers, designers, all standing in awkward clusters, holding paper plates and trying to look like they weren't uncomfortable.
+Marcus walked in to find a spread of pizza and beer, corporate America's universal gesture of apology. The room was crowded with engineers, product managers, designers, all standing in awkward clusters, holding paper plates and trying to look like they weren't uncomfortable.
 
 David stood near the window, a beer in his hand and a smile on his face. But Marcus could see the tension in his shoulders, the way his knuckles whitened around the bottle.
 
@@ -24,7 +24,7 @@ David stood near the window, a beer in his hand and a smile on his face. But Mar
 
 David's smile tightened. "How do you think? I just got 'optimized' out of existence."
 
-"I'm sorry, man. This is�?
+"I'm sorry, man. This is... "
 
 "Bullshit?" David laughed, but there was no humor in it. "Seven years, Marcus. Seven years of late nights and missed weekends and building their entire backend infrastructure. And they replace me with a fucking algorithm."
 
@@ -34,9 +34,9 @@ Marcus glanced around, but no one seemed to be paying attention. "What do you me
 
 The words hit Marcus like a physical blow. "They're already using it?"
 
-"They've been using it for months. Quietly. Testing it on small tasks, comparing the output to human developers." David's voice dropped lower. "You know what they found? The AI is faster, cheaper, and makes fewer mistakes. The only thing it can't do is the creative work—the architectural decisions, the complex problem-solving."
+"They've been using it for months. Quietly. Testing it on small tasks, comparing the output to human developers." David's voice dropped lower. "You know what they found? The AI is faster, cheaper, and makes fewer mistakes. The only thing it can't do is the creative work, the architectural decisions, the complex problem-solving."
 
-"But that's�? Marcus started.
+"But that's... " Marcus started.
 
 "That's what they keep us around for. For now." David finished his beer and set the empty bottle on the windowsill. "But how long do you think it'll take them to figure out that part too?"
 
@@ -46,7 +46,7 @@ Marcus didn't have an answer.
 
 The room suddenly felt too small, too hot. Marcus's chest tightened.
 
-"David, I�?
+"David, I... "
 
 "I'm not trying to scare you." David reached out and gripped Marcus's shoulder. "I'm trying to warn you. This isn't just about me. This is about all of us. They're not replacing us with better people. They're replacing us with software."
 
@@ -60,7 +60,7 @@ He walked away, leaving Marcus standing alone by the window, his heart pounding 
 
 The rest of the lunch passed in a blur.
 
-Marcus went through the motions—shaking hands, offering condolences, making promises to stay in touch. But his mind was elsewhere, running calculations he didn't want to run.
+Marcus went through the motions, shaking hands, offering condolences, making promises to stay in touch. But his mind was elsewhere, running calculations he didn't want to run.
 
 *What percentage of my work can the AI do?*
 
@@ -91,7 +91,7 @@ The number kept repeating in his mind. Eighty percent of his work could be done 
 
 *What am I supposed to do with the remaining twenty percent?*
 
-He looked at himself in the mirror. His face was pale, his eyes hollow. He looked like a man who hadn't slept, which was accurate—he'd been awake since 2 AM, reading articles about AI and automation and the future of work.
+He looked at himself in the mirror. His face was pale, his eyes hollow. He looked like a man who hadn't slept, which was accurate, he'd been awake since 2 AM, reading articles about AI and automation and the future of work.
 
 *What makes me valuable?*
 
@@ -141,7 +141,7 @@ He took another breath, and this time, a little more air made it into his lungs.
 
 *This is fear. This is just fear.*
 
-He didn't know where the thought came from, but it felt right. This wasn't a heart attack. This was fear—pure, unfiltered, overwhelming fear.
+He didn't know where the thought came from, but it felt right. This wasn't a heart attack. This was fear, pure, unfiltered, overwhelming fear.
 
 *And fear can't kill me.*
 
@@ -149,7 +149,7 @@ He held onto that thought like a lifeline. *Fear can't kill me.* He repeated it 
 
 Slowly, gradually, his breathing began to steady. His heart rate began to slow. The trembling in his hands began to ease.
 
-After what felt like hours but was probably only minutes, Marcus let go of the sink and stood up straight. His reflection looked back at him—pale, sweaty, eyes wide.
+After what felt like hours but was probably only minutes, Marcus let go of the sink and stood up straight. His reflection looked back at him, pale, sweaty, eyes wide.
 
 *What the hell was that?*
 
@@ -166,7 +166,7 @@ Marcus sat at his computer, trying to work, but his mind kept drifting back to t
 
 *It was a panic attack,* he thought. *That's what they call it.*
 
-He'd heard of panic attacks before, of course. He'd read about them in articles about mental health, about anxiety disorders. But he'd never imagined he would have one. He was Marcus Chen—senior architect, respected engineer, steady and reliable.
+He'd heard of panic attacks before, of course. He'd read about them in articles about mental health, about anxiety disorders. But he'd never imagined he would have one. He was Marcus Chen, senior architect, respected engineer, steady and reliable.
 
 *Apparently not so steady.*
 
@@ -176,7 +176,7 @@ Was that true? Was that what was happening?
 
 He opened a new browser tab and typed: "what percentage of developer work can AI automate"
 
-The search results were overwhelming. Study after study showed that AI could handle anywhere from 40% to 80% of typical developer tasks. Code generation, bug fixing, testing, documentation—all of it could be automated.
+The search results were overwhelming. Study after study showed that AI could handle anywhere from 40% to 80% of typical developer tasks. Code generation, bug fixing, testing, documentation, all of it could be automated.
 
 *What's left for me?*
 
@@ -203,7 +203,7 @@ But even as he thought it, he knew it wasn't that simple. Sarah had given up her
 
 *We need my income.*
 
-The realization hit him like a weight. He was the primary breadwinner. His job wasn't just about his identity—it was about survival.
+The realization hit him like a weight. He was the primary breadwinner. His job wasn't just about his identity, it was about survival.
 
 *What happens if I can't find another job?*
 
@@ -261,7 +261,7 @@ Sarah came out of the bathroom, her face freshly washed, her hair pulled back in
 
 "Marcus, what's wrong?"
 
-He looked up at her, at the woman who'd been his partner for twelve years. He wanted to tell her everything—about David, about the panic attack, about the fear that had been eating at him since the AI announcement.
+He looked up at her, at the woman who'd been his partner for twelve years. He wanted to tell her everything, about David, about the panic attack, about the fear that had been eating at him since the AI announcement.
 
 But the words wouldn't come.
 

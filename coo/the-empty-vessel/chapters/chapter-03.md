@@ -1,18 +1,18 @@
 # Chapter 03: The Offer
 
-The facility was smaller than James had imagined—more like a clinic than a laboratory. The empty vessel system, in the center of the main room, looked almost organic: a smooth, white pod, roughly human-shaped, with no features, no identity, just... space.
+The facility was smaller than James had imagined, more like a clinic than a laboratory. The empty vessel system, in the center of the main room, looked almost organic: a smooth, white pod, roughly human-shaped, with no features, no identity, just... space.
 
 "This is where your consciousness will temporarily reside," Dr. Morrison said, gesturing to the pod.
 
 James looked at the blank form and felt something he rarely felt: a shiver of genuine fear.
 
-The vessel was approximately seven feet tall, its surface smooth and slightly iridescent, like mother-of-pearl. There was no face, no distinguishing marks—just the suggestion of a human shape, a container waiting to be filled. The top portion was open, revealing an interior that seemed to absorb light rather than reflect it.
+The vessel was approximately seven feet tall, its surface smooth and slightly iridescent, like mother-of-pearl. There was no face, no distinguishing marks, just the suggestion of a human shape, a container waiting to be filled. The top portion was open, revealing an interior that seemed to absorb light rather than reflect it.
 
 "It looks... empty," James said, the word inadequate.
 
-"That's the point," Dr. Morrison replied. "VESSEL—that's what we call the system—is designed to host consciousness without imposing any pre-existing identity. When your awareness transfers here, you'll experience existence without the context of your personal history. No memories, no habits, no sense of who you 'should' be. Just pure consciousness."
+"That's the point," Dr. Morrison replied. "VESSEL, that's what we call the system, is designed to host consciousness without imposing any pre-existing identity. When your awareness transfers here, you'll experience existence without the context of your personal history. No memories, no habits, no sense of who you 'should' be. Just pure consciousness."
 
-James circled the pod slowly, trying to imagine himself—or whatever he was—inside it. The idea was both terrifying and strangely appealing. To exist without the weight of his past, without the constant performance of being James Chen. To simply *be*.
+James circled the pod slowly, trying to imagine himself, or whatever he was, inside it. The idea was both terrifying and strangely appealing. To exist without the weight of his past, without the constant performance of being James Chen. To simply *be*.
 
 "How does the transfer work?" he asked.
 
@@ -30,9 +30,9 @@ James nodded slowly. The procedure still seemed impossible, like something from 
 
 James looked at the empty vessel again. The blank form seemed to stare back at him, waiting. *What are you?* he thought. *And what will I become when I'm inside you?*
 
-The preparation took most of the morning. James was shown to a small room where he changed into a simple gray jumpsuit, then led through a series of baseline tests—cognitive assessments, memory checks, emotional response measurements. The researchers were efficient and professional, treating him with the careful attention reserved for human subjects in experimental procedures.
+The preparation took most of the morning. James was shown to a small room where he changed into a simple gray jumpsuit, then led through a series of baseline tests, cognitive assessments, memory checks, emotional response measurements. The researchers were efficient and professional, treating him with the careful attention reserved for human subjects in experimental procedures.
 
-Dr. Morrison conducted the final briefing in a conference room overlooking the courtyard garden. The sunlight streaming through the windows felt impossibly normal—proof that the world outside continued regardless of what was about to happen inside.
+Dr. Morrison conducted the final briefing in a conference room overlooking the courtyard garden. The sunlight streaming through the windows felt impossibly normal, proof that the world outside continued regardless of what was about to happen inside.
 
 "Do you have any final questions?" Dr. Morrison asked.
 
@@ -58,7 +58,7 @@ James sat down, and a technician began attaching sensors to his temples, the bas
 
 "That's honest." Dr. Morrison's voice was gentle. "The transfer will begin in approximately five minutes. I want you to close your eyes and focus on your breathing. Try to relax as much as possible."
 
-James closed his eyes. In the darkness behind his eyelids, he saw Sarah's face, the way she had looked at him in the lobby—fearful, loving, hopeful. He saw his own face in the mirror that morning, the stranger who wore his expressions.
+James closed his eyes. In the darkness behind his eyelids, he saw Sarah's face, the way she had looked at him in the lobby, fearful, loving, hopeful. He saw his own face in the mirror that morning, the stranger who wore his expressions.
 
 *Am I still me?*
 

@@ -2,7 +2,7 @@
 
 David hadn't planned to stop at the coffee shop.
 
-He'd been walking back from a client meeting—another disaster, another moment of paralysis when a decision was needed—and somehow found himself standing in front of the familiar storefront. The rain had started, a cold Chicago drizzle that seeped through his coat, and the warm glow from inside looked like sanctuary.
+He'd been walking back from a client meeting, another disaster, another moment of paralysis when a decision was needed, and somehow found himself standing in front of the familiar storefront. The rain had started, a cold Chicago drizzle that seeped through his coat, and the warm glow from inside looked like sanctuary.
 
 He ordered a black coffee and found a corner table, pulling out his phone to check his email for the hundredth time that day. Nothing from Jennifer. Of course not. She was gone, and he was alone with his incompetence.
 
@@ -40,7 +40,7 @@ David shifted in his seat. "Who are you?"
 
 "Isn't it?" She tilted her head. "How many decisions have you made today without checking with someone first?"
 
-The question landed like a punch. David opened his mouth to respond, then closed it. How many? He tried to remember. The client meeting—he'd deferred every question. The emails—he'd drafted responses but not sent them. The team questions—he'd said he'd "check on that."
+The question landed like a punch. David opened his mouth to respond, then closed it. How many? He tried to remember. The client meeting, he'd deferred every question. The emails, he'd drafted responses but not sent them. The team questions, he'd said he'd "check on that."
 
 "I make decisions," he said finally, but the words sounded hollow.
 
@@ -58,7 +58,7 @@ Rachel nodded slowly. "That's the thing about building on other people. When the
 
 "So what am I supposed to do?" The desperation in his voice surprised him. "I've always worked this way. Always had someone to check with. I don't know how to... to trust myself."
 
-"You learn." Rachel leaned forward. "Self-reliance isn't about being alone. It's not about never asking for help or never seeking feedback. It's about being the final authority on your own choices. It's about knowing that your judgment matters—even when it's wrong."
+"You learn." Rachel leaned forward. "Self-reliance isn't about being alone. It's not about never asking for help or never seeking feedback. It's about being the final authority on your own choices. It's about knowing that your judgment matters, even when it's wrong."
 
 "But what if I am wrong? What if I make a mistake?"
 
@@ -84,7 +84,7 @@ David walked back to the office slowly, Rachel's words echoing in his mind.
 
 *Being the final authority on your own choices.*
 
-He'd never thought of himself that way. He'd always seen his role as executing someone else's vision, following someone else's lead, getting someone else's approval. The idea that he could be the authority—on anything—felt foreign. Impossible.
+He'd never thought of himself that way. He'd always seen his role as executing someone else's vision, following someone else's lead, getting someone else's approval. The idea that he could be the authority, on anything, felt foreign. Impossible.
 
 But also... intriguing.
 

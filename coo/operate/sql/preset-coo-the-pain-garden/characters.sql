@@ -1,0 +1,7 @@
+-- Characters for The Pain Garden
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-pain-garden-001', 'preset-coo-the-pain-garden', 'The Old Man', 'Long-term pain subject in the garden', 'Resilient, wise, has found meaning in pain through love', 'Gentle and philosophical; uses metaphors about pain and memory', '🤖', NULL, NULL, 1, '2026-03-29 23:55:53', '2026-03-29 23:55:53');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-pain-garden-002', 'preset-coo-the-pain-garden', 'The Child', 'Young pain subject in the garden', 'Brave, creative, finds joy despite pain', 'Simple and direct; uses songs and games to cope', '🤖', NULL, NULL, 0, '2026-03-29 23:55:53', '2026-03-29 23:55:53');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-pain-garden-003', 'preset-coo-the-pain-garden', 'The Company', 'Supporting Character', 'Pragmatic, believes pain is necessary for empathy, fears robots who develop genuine compassion', 'Corporate and euphemistic; uses "research" and "understanding" language', '👤', NULL, NULL, 0, '2026-03-29 23:55:53', '2026-03-29 23:55:53');

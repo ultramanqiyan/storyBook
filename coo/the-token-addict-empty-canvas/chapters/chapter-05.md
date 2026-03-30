@@ -2,7 +2,7 @@
 
 Sarah won a design award.
 
-The announcement came on a Tuesday—her furniture line had been recognized by the International Design Council. The judges praised its "originality," "distinctive voice," and "authentic creative vision."
+The announcement came on a Tuesday, her furniture line had been recognized by the International Design Council. The judges praised its "originality," "distinctive voice," and "authentic creative vision."
 
 Marcus watched her acceptance speech online. She stood on stage, holding the award, speaking about her process.
 
@@ -24,7 +24,7 @@ He tried to remember his last original concept.
 
 Before CreateFlow. Before the efficiency. Before the atrophy.
 
-There had been a project—a healthcare app redesign. He'd spent weeks on it, sketching concepts, rejecting approaches, discovering solutions through the creative struggle.
+There had been a project, a healthcare app redesign. He'd spent weeks on it, sketching concepts, rejecting approaches, discovering solutions through the creative struggle.
 
 The final design had been praised for its "innovative approach" and "unique perspective."
 
@@ -86,5 +86,3 @@ The question had no easy answer. But for the first time, he was asking it honest
 
 And that, perhaps, was a beginning.
 
-
-**END OF CHAPTER 5**

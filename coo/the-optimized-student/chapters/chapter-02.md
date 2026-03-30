@@ -44,7 +44,7 @@ Zoe watched me go, her expression unreadable.
 
 The rest of the day was a blur of anxiety. PATH-AI remained down, and I moved through my classes like a ghost, unable to focus, unable to function. Without the system telling me what to do, I felt lost.
 
-In AP History, Mr. Chen asked a question about the causes of World War I. I knew the answer—I had absorbed it through my neural interface weeks ago. But when I tried to access the information, there was nothing there. Just a blank space where knowledge should have been.
+In AP History, Mr. Chen asked a question about the causes of World War I. I knew the answer, I had absorbed it through my neural interface weeks ago. But when I tried to access the information, there was nothing there. Just a blank space where knowledge should have been.
 
 "I... I'm not sure," I said, the words tasting like failure.
 
@@ -88,7 +88,7 @@ That night, I dreamed of blank screens.
 
 In the dream, I was sitting in a classroom, but all the screens were dark. Mr. Davidson was asking me a question, but I couldn't hear the words. I opened my mouth to answer, but nothing came out. Just silence, stretching on forever.
 
-I woke up at 3 AM, my heart racing, my hands trembling. The dream had felt so real—the panic of not knowing, the terror of being unable to function.
+I woke up at 3 AM, my heart racing, my hands trembling. The dream had felt so real, the panic of not knowing, the terror of being unable to function.
 
 I grabbed my phone and checked PATH-AI. The green light glowed steadily. The system was online. My schedule was optimized. Everything was fine.
 

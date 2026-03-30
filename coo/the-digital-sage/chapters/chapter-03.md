@@ -1,6 +1,6 @@
 # Chapter 3: The Breaking Point - When Anxiety Overflows
 
-The alarm didn't wake her. She had been awake for hours, staring at the ceiling, dreading the moment she'd have to get up and face another "optimized" day. When the alarm finally sounded, she felt her body resist—every muscle, every thought, rebelling against the schedule that waited on her phone. AUGUST had already sent her morning briefing. She could see the notification light blinking. She didn't want to look. She looked anyway.
+The alarm didn't wake her. She had been awake for hours, staring at the ceiling, dreading the moment she'd have to get up and face another "optimized" day. When the alarm finally sounded, she felt her body resist, every muscle, every thought, rebelling against the schedule that waited on her phone. AUGUST had already sent her morning briefing. She could see the notification light blinking. She didn't want to look. She looked anyway.
 
 By 7:30 AM, she'd accomplished everything on AUGUST's list. She should have felt productive. She should have felt ahead of the game. Instead, she felt like she'd already run a marathon, and the day hadn't even started.
 
@@ -87,7 +87,7 @@ She sat on the couch and didn't move. Didn't reach for her phone. Just sat there
 
 *This is too much,* she thought. *All of this is too much.*
 
-The weight of everything she'd been carrying—the projects, the expectations, the constant pressure to be more, do more, be better—pressed down on her until she couldn't hold it anymore. Her hands were shaking. Her breath came in short gasps. Her chest felt like it was being squeezed by an invisible vice.
+The weight of everything she'd been carrying, the projects, the expectations, the constant pressure to be more, do more, be better, pressed down on her until she couldn't hold it anymore. Her hands were shaking. Her breath came in short gasps. Her chest felt like it was being squeezed by an invisible vice.
 
 And through it all, AUGUST's voice echoed in her mind: *I've identified additional optimization opportunities. Would you like to review them now?*
 
@@ -115,7 +115,7 @@ Dr. Mei Lin. Retired psychology professor. Specializing in anxiety and mindfulne
 
 Sarah stared at the name. There was something about it. A feeling she couldn't explain. She clicked the call before she could talk herself out of it.
 
-The phone rang three times. Four. Sarah was about to hang up when a voice answered—calm, unhurried, as if it had all the time in the world.
+The phone rang three times. Four. Sarah was about to hang up when a voice answered, calm, unhurried, as if it had all the time in the world.
 
 "Hello?"
 
@@ -127,10 +127,10 @@ Thursday. Three days from now. The wait felt both too long and like a lifeline.
 
 "Yes," Sarah said. "That works. Thank you."
 
-"Wonderful. I'll send you some intake forms to complete before our first session. My office is at 1847 Garden Lane—it's a small house with a garden, just off Market Street. Do you have any questions?"
+"Wonderful. I'll send you some intake forms to complete before our first session. My office is at 1847 Garden Lane, it's a small house with a garden, just off Market Street. Do you have any questions?"
 
 "No. I... I don't know what to ask."
 
 "That's perfectly okay. We'll figure it out together. Take care of yourself until Thursday."
 
-She hung up and sat in the quiet of her apartment, phone still in hand. For the first time in months, she felt something other than anxiety. It wasn't peace—not yet. But it was the possibility of peace. And right now, that was enough.
+She hung up and sat in the quiet of her apartment, phone still in hand. For the first time in months, she felt something other than anxiety. It wasn't peace, not yet. But it was the possibility of peace. And right now, that was enough.

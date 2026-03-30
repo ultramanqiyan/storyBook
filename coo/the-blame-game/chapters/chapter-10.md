@@ -12,7 +12,7 @@ Each time, he gave the same answer.
 
 *There was an incident with the trading system. I was the code reviewer. I take responsibility for my role.*
 
-Each time, he saw the same reaction—a pause, a nod, a careful "I see."
+Each time, he saw the same reaction,a pause, a nod, a careful "I see."
 
 He knew what they were thinking. *This guy caused an $87 million loss. Do we really want to hire him?*
 
@@ -161,13 +161,13 @@ But sometimes, late at night, he would think about the question that had haunted
 
 The answer, he knew, was complicated.
 
-He was responsible—for not following up on warnings, for not documenting concerns, for not being more thorough.
+He was responsible,for not following up on warnings, for not documenting concerns, for not being more thorough.
 
-But so was David—for dismissing concerns, for documenting every conversation, for protecting himself at Mark's expense.
+But so was David,for dismissing concerns, for documenting every conversation, for protecting himself at Mark's expense.
 
-So was the company—for approving a flawed process, for relying too heavily on AI, for finding a scapegoat instead of fixing the system.
+So was the company,for approving a flawed process, for relying too heavily on AI, for finding a scapegoat instead of fixing the system.
 
-So was the system itself—for being designed to protect the organization at the expense of the individual.
+So was the system itself,for being designed to protect the organization at the expense of the individual.
 
 *Someone has to pay. That's how it works.*
 

@@ -6,7 +6,7 @@ The garden had grown beyond anything she could have imagined. The original plots
 
 The AI system had grown too. It now measured not just efficiency, but community value, cultural significance, and human impact. It had learned to see what it missed, and it had helped other communities do the same.
 
-But the most important growth was invisible—the connections between neighbors, the preservation of traditions, the sense of purpose that gardening gave to people who had nowhere else to go. These were the things that couldn't be measured, but they were the things that mattered most.
+But the most important growth was invisible, the connections between neighbors, the preservation of traditions, the sense of purpose that gardening gave to people who had nowhere else to go. These were the things that couldn't be measured, but they were the things that mattered most.
 
 ---
 
@@ -16,19 +16,19 @@ She was eighty-nine now, moving slowly but still working the soil. Her children 
 
 "Marie," she called, not looking up from her plants. "Come see. Best crop yet."
 
-Marie walked over and admired the tomatoes. They were perfect—red and ripe and full of the flavor that only came from decades of care.
+Marie walked over and admired the tomatoes. They were perfect, red and ripe and full of the flavor that only came from decades of care.
 
 "You've outdone yourself," Marie said.
 
 "Learned from the best." Mrs. Rossi smiled. "My husband taught me everything. Now I teach everyone else."
 
-She gestured to the children working in nearby plots—the grandchildren of original gardeners, the children of refugees, the students from the local school. They were learning what the AI couldn't teach: that growing food was about more than yield, that tending plants was about more than efficiency, that building community was about more than metrics.
+She gestured to the children working in nearby plots, the grandchildren of original gardeners, the children of refugees, the students from the local school. They were learning what the AI couldn't teach: that growing food was about more than yield, that tending plants was about more than efficiency, that building community was about more than metrics.
 
 "The garden is full," Marie observed.
 
 "Full of life. That's what matters." Mrs. Rossi stood slowly, brushing dirt from her hands. "I have something for you."
 
-She reached into her bag and pulled out a small envelope. Inside was a photograph—old, faded, showing a younger Mrs. Rossi and her husband standing in front of a bare patch of land.
+She reached into her bag and pulled out a small envelope. Inside was a photograph, old, faded, showing a younger Mrs. Rossi and her husband standing in front of a bare patch of land.
 
 "This was before," she said. "Before the garden. Before everything. My husband said, 'Rosa, we're going to build something here. Something that will last.' And we did."
 
@@ -46,11 +46,11 @@ That afternoon, Marie walked through all six gardens.
 
 Garden A was thriving, the largest and most productive in the network. Garden B was full of medicinal herbs, tended by the same families who had been there for decades. Garden C had become a teaching garden, where students learned about food and nature and community. Garden D was an innovation hub, testing new sustainable practices. Garden F was a sanctuary for refugees, where families who had fled violence could grow food and build new lives.
 
-And Garden E—Garden E was home.
+And Garden E, Garden E was home.
 
 The AI system had recommended closing it once. Now it was the model for community-driven AI governance, studied by researchers, cited by policymakers, visited by communities from around the world who wanted to learn how to fight for what mattered.
 
-Marie stopped at the museum, a small building near the entrance. Inside, the walls were covered with photographs, documents, and stories—the petition with a thousand signatures, the charts from the performance review, the research paper that had spread the model worldwide.
+Marie stopped at the museum, a small building near the entrance. Inside, the walls were covered with photographs, documents, and stories, the petition with a thousand signatures, the charts from the performance review, the research paper that had spread the model worldwide.
 
 In the center of the room was a plaque:
 
@@ -72,13 +72,13 @@ She texted back:
 
 That evening, the garden hosted its annual harvest festival.
 
-The pavilion was decorated with lights and flowers. Tables were piled with food—tomatoes from Mrs. Rossi's plot, herbs from Mr. Nguyen's garden, vegetables from every corner of the network. Music played, children ran between the plots, neighbors talked and laughed and shared stories.
+The pavilion was decorated with lights and flowers. Tables were piled with food, tomatoes from Mrs. Rossi's plot, herbs from Mr. Nguyen's garden, vegetables from every corner of the network. Music played, children ran between the plots, neighbors talked and laughed and shared stories.
 
 Marie stood at the edge of the crowd, watching it all.
 
 She saw Darius, now a teenager, showing younger children how to stake tomatoes. She saw Mr. Patel teaching a group of students about Indian vegetables. She saw the Syrian refugees sharing dishes from their homeland with neighbors who had never tasted Middle Eastern food. She saw Mrs. Rossi holding court on her usual bench, surrounded by admirers who wanted to hear her stories.
 
-She saw community—alive, growing, thriving.
+She saw community, alive, growing, thriving.
 
 Patricia Okonkwo appeared beside her. "Quite a party."
 
@@ -92,7 +92,7 @@ They watched the celebration together, two women who had started on opposite sid
 
 Marie thought about the question. She had testified before the Senate. She had advised the AI Now Institute. She had helped shape national policy. But she was still, at heart, a garden manager.
 
-"I'm going to keep tending," she said. "The garden, the community, the values. That's what this work is—not a destination, but a practice. Not a victory, but a commitment."
+"I'm going to keep tending," she said. "The garden, the community, the values. That's what this work is, not a destination, but a practice. Not a victory, but a commitment."
 
 "And the AI?"
 
@@ -120,7 +120,7 @@ She found Mrs. Rossi on her usual bench, watching the stars.
 
 Marie sat. They were silent for a long moment, watching the moon rise over the garden they had saved.
 
-"I've been thinking," Mrs. Rossi said eventually. "About what I want to leave behind. Not the tomatoes, not the herbs—something bigger."
+"I've been thinking," Mrs. Rossi said eventually. "About what I want to leave behind. Not the tomatoes, not the herbs, something bigger."
 
 "What?"
 
@@ -152,7 +152,7 @@ She wrote about the research paper, the Senate testimony, the national policy th
 
 And she wrote about the lesson that had taken her five years to learn:
 
-*AI systems are not inevitable. They are designed by humans, and they can be changed by humans. The values they optimize for are choices, not facts. And communities have the right—and the responsibility—to shape those choices.*
+*AI systems are not inevitable. They are designed by humans, and they can be changed by humans. The values they optimize for are choices, not facts. And communities have the right, and the responsibility, to shape those choices.*
 
 *The most important things cannot be measured. They can only be tended.*
 
@@ -160,7 +160,7 @@ And she wrote about the lesson that had taken her five years to learn:
 
 When she finished, she walked back to Garden E.
 
-The garden was full of life—gardeners working their plots, children learning about plants, neighbors sharing stories. The community was thriving. The traditions were preserved. The connections were strong.
+The garden was full of life, gardeners working their plots, children learning about plants, neighbors sharing stories. The community was thriving. The traditions were preserved. The connections were strong.
 
 Mrs. Rossi was in her usual spot, tending her tomatoes.
 
@@ -180,11 +180,11 @@ Mrs. Rossi smiled, her weathered face crinkling with warmth.
 
 Marie looked at the garden, at the community, at the evidence of decades of care. She thought about her mother, who had started this work. She thought about all the people who had built something that couldn't be measured.
 
-And she knew that the fight would continue—not because it was easy, but because it mattered. Not because victory was certain, but because hope was necessary.
+And she knew that the fight would continue, not because it was easy, but because it mattered. Not because victory was certain, but because hope was necessary.
 
 The garden was thriving. The model was spreading. The story was being told.
 
-And Marie Fontenot had found her purpose—not just tending gardens, but tending democracy, one community at a time, one AI system at a time, one fight for what matters at a time.
+And Marie Fontenot had found her purpose, not just tending gardens, but tending democracy, one community at a time, one AI system at a time, one fight for what matters at a time.
 
 *Some things can't be measured. They can only be protected.*
 

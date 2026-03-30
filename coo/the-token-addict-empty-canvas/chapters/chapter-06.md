@@ -12,7 +12,7 @@ Every design followed the same formula. AI-generated concepts, refined by AI sug
 
 But it was also... identical.
 
-Not literally identical—the projects were different. But the creative DNA was the same. Algorithmic patterns. AI aesthetics. The visual language of machine learning.
+Not literally identical, the projects were different. But the creative DNA was the same. Algorithmic patterns. AI aesthetics. The visual language of machine learning.
 
 *This isn't my style*, he realized. *This is CreateFlow's style. I've been imitating an algorithm.*
 
@@ -20,9 +20,9 @@ Not literally identical—the projects were different. But the creative DNA was 
 
 He dug deeper, comparing his recent work to his pre-AI projects.
 
-The contrast was stark. His old designs had quirks—unusual color combinations, unexpected layouts, distinctive choices that reflected his personal vision.
+The contrast was stark. His old designs had quirks, unusual color combinations, unexpected layouts, distinctive choices that reflected his personal vision.
 
-His new designs were... generic. Not bad—CreateFlow generated excellent work. But they lacked the unique perspective that had once defined his creative voice.
+His new designs were... generic. Not bad, CreateFlow generated excellent work. But they lacked the unique perspective that had once defined his creative voice.
 
 *I've become a ghost of my own creativity*, he thought. *An imitation of a designer, wearing AI-generated masks.*
 
@@ -38,7 +38,7 @@ All of it built on AI output. All of it borrowed from algorithms. All of it a li
 
 ---
 
-He tried to find one design—just one—that was genuinely his.
+He tried to find one design, just one, that was genuinely his.
 
 The healthcare app from three years ago. That was the last one. Everything since had been AI-assisted. AI-generated. AI-determined.
 
@@ -80,5 +80,3 @@ The question had no answer. Just the empty screen, reflecting his hollow success
 
 And the growing certainty that he'd lost something essential. Something that might never return.
 
-
-**END OF CHAPTER 6**

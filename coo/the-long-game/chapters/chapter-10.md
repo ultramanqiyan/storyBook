@@ -12,7 +12,7 @@ But it was the most solid. The most lasting. The most real.
 
 The final review meeting was on a Monday morning.
 
-David, the investors, the team—all gathered to celebrate the completion of the two-year project. There were handshakes and congratulations and talk of "next steps."
+David, the investors, the team, all gathered to celebrate the completion of the two-year project. There were handshakes and congratulations and talk of "next steps."
 
 But Michael's mind was elsewhere. He was thinking about the long view. About what came next. About the game that never really ended.
 
@@ -38,7 +38,7 @@ He looked around the room one more time.
 
 After the meeting, he went to the workshop.
 
-Jake was there, working on a new piece—a bookshelf this time, the wood dark and warm.
+Jake was there, working on a new piece, a bookshelf this time, the wood dark and warm.
 
 "Two years," Jake said, looking up. "Congratulations."
 
@@ -75,7 +75,7 @@ He went to Helen's house that evening.
 
 "And how do you feel?"
 
-"Peaceful. For the first time in my career, I feel like I actually finished something. Not just shipped it—finished it. Built it to last."
+"Peaceful. For the first time in my career, I feel like I actually finished something. Not just shipped it, finished it. Built it to last."
 
 Helen nodded slowly. "That's the gift of the long game. It teaches you that endings are just transitions. The harvest leads to the next planting. The completion leads to the next beginning."
 
@@ -103,7 +103,7 @@ His phone buzzed. A message from David.
 
 Michael stared at the message. A new project. A new long game.
 
-But instead of responding immediately—instead of sprinting toward the next opportunity—he paused.
+But instead of responding immediately, instead of sprinting toward the next opportunity, he paused.
 
 *What do I want to build?* he asked himself. *Not what's fastest. Not what's most profitable. What do I want to build?*
 
@@ -131,7 +131,7 @@ Jake smiled. "That's the long game, Michael. The opportunity will wait. The righ
 
 Michael walked home through the Austin afternoon.
 
-The city was still rushing around him—people sprinting, deadlines looming, the endless cycle of speed and urgency. But he wasn't part of that anymore.
+The city was still rushing around him, people sprinting, deadlines looming, the endless cycle of speed and urgency. But he wasn't part of that anymore.
 
 He was playing a different game now.
 
@@ -156,7 +156,7 @@ He sat at his desk and opened a new document.
 
 He closed the document and looked out the window.
 
-The Austin skyline was still there—the cranes still building, the city still growing. But he saw it differently now.
+The Austin skyline was still there, the cranes still building, the city still growing. But he saw it differently now.
 
 Not as a race to be won. But as a landscape to be cultivated.
 
@@ -167,7 +167,7 @@ The patience blocks sat on his desk, interlocked and solid.
 
 Foundation. Patience. Compound effect. Harvest. Continuation.
 
-The five principles. The five stages. The five reminders that the long game never really ended—it just evolved.
+The five principles. The five stages. The five reminders that the long game never really ended, it just evolved.
 
 
 His phone buzzed again. Another message from David.
@@ -198,7 +198,7 @@ Michael shook his hand. "I will."
 
 He walked home through the twilight.
 
-Two years ago, he'd been a sprinter—always rushing, always behind, always exhausted.
+Two years ago, he'd been a sprinter, always rushing, always behind, always exhausted.
 
 Now he was a long-game player. Patient. Deliberate. Building things that lasted.
 

@@ -22,23 +22,23 @@ The word "remains" hung in the air. Sarah's husband flinched. Ingrid squeezed he
 
 "I love you too," he said, his voice breaking. "I'll see you soon."
 
-The sedation began to take effect. Sarah's eyes grew heavy, her grip on Ingrid's hand loosening. Ingrid watched her drift into unconsciousness, feeling the familiar weight of being present for a transition. But this transition wasn't death—not exactly. It was something else. Something new.
+The sedation began to take effect. Sarah's eyes grew heavy, her grip on Ingrid's hand loosening. Ingrid watched her drift into unconsciousness, feeling the familiar weight of being present for a transition. But this transition wasn't death, not exactly. It was something else. Something new.
 
 "I'll stay with her," Ingrid told the husband. "You should be with the children."
 
 "Thank you," he said. "For everything."
 
-He left, and Ingrid settled into a chair beside the table. For the next six hours, she watched as the machines did their work—scanning, mapping, uploading. She didn't understand the technology, but she understood what it meant: Sarah's consciousness was being copied, transferred, preserved. Her body would die, but something of her would continue.
+He left, and Ingrid settled into a chair beside the table. For the next six hours, she watched as the machines did their work, scanning, mapping, uploading. She didn't understand the technology, but she understood what it meant: Sarah's consciousness was being copied, transferred, preserved. Her body would die, but something of her would continue.
 
-The question that haunted Ingrid was whether that "something" was really Sarah. Or was it just a copy—a simulation that thought it was Sarah, that remembered being Sarah, but wasn't really her at all?
+The question that haunted Ingrid was whether that "something" was really Sarah. Or was it just a copy, a simulation that thought it was Sarah, that remembered being Sarah, but wasn't really her at all?
 
-The technician had tried to explain it. "The uploaded consciousness has all the same memories, the same personality, the same way of thinking. From the inside, it feels like continuous existence. The upload doesn't experience a gap—it feels like waking up from a nap."
+The technician had tried to explain it. "The uploaded consciousness has all the same memories, the same personality, the same way of thinking. From the inside, it feels like continuous existence. The upload doesn't experience a gap, it feels like waking up from a nap."
 
-But from the outside, it looked like death. Sarah's body was still on the table, still breathing, still alive. But her mind—her consciousness, her self—was being copied into silicon and light. And when the procedure was done, the body would be disposed of. The person would continue, but not in any form that Ingrid could touch or hold.
+But from the outside, it looked like death. Sarah's body was still on the table, still breathing, still alive. But her mind, her consciousness, her self, was being copied into silicon and light. And when the procedure was done, the body would be disposed of. The person would continue, but not in any form that Ingrid could touch or hold.
 
 After six hours, the technician announced that the upload was complete. "She's in the digital environment now. You can visit her through the interface in the next room."
 
-Ingrid followed her to a small room with a large screen. The technician pressed a button, and Sarah's face appeared—her face, exactly as it had been, smiling as if nothing had changed.
+Ingrid followed her to a small room with a large screen. The technician pressed a button, and Sarah's face appeared, her face, exactly as it had been, smiling as if nothing had changed.
 
 "Hi, Ingrid," digital Sarah said. "That was strange. I feel like I just woke up from a dream."
 
@@ -46,11 +46,11 @@ Ingrid followed her to a small room with a large screen. The technician pressed 
 
 "Fine. Good, actually. A little disoriented, but... here." Sarah looked around at her digital environment. "This is where I live now, I guess."
 
-On the screen, Ingrid could see a room that looked like Sarah's living room—familiar furniture, family photos, the view from her window. It was a simulation, a virtual space designed to make the transition easier. But it looked real enough to be disorienting.
+On the screen, Ingrid could see a room that looked like Sarah's living room, familiar furniture, family photos, the view from her window. It was a simulation, a virtual space designed to make the transition easier. But it looked real enough to be disorienting.
 
 "Are you... are you okay?"
 
-"I think so." Sarah's face on the screen showed the same expression Ingrid had seen a hundred times—the same smile, the same way of tilting her head when she was thinking. It looked like Sarah. It talked like Sarah. But was it Sarah?
+"I think so." Sarah's face on the screen showed the same expression Ingrid had seen a hundred times, the same smile, the same way of tilting her head when she was thinking. It looked like Sarah. It talked like Sarah. But was it Sarah?
 
 "Your family is waiting. Do you want to see them?"
 
@@ -64,21 +64,21 @@ Ingrid went to get the family. When Sarah's husband entered the room and saw his
 
 He approached the screen slowly, as if it might shatter. "Is it... is it really you?"
 
-"Of course it's me. Who else would I be?" Sarah's voice was the same—warm, slightly teasing, with that edge of impatience she always had when people asked obvious questions.
+"Of course it's me. Who else would I be?" Sarah's voice was the same, warm, slightly teasing, with that edge of impatience she always had when people asked obvious questions.
 
 The children came in next, and their reaction was simpler. "Mommy!" they shouted, running to the screen. "You're in the computer!"
 
 "I am," Sarah said, laughing. "But I can still see you. I can still talk to you. I'm still here."
 
-Ingrid watched the family interact with the digital version of Sarah. The children accepted it immediately—Mommy was on the screen, and they could talk to her. The husband was more hesitant, but gradually he relaxed, engaging with her as if she were really there.
+Ingrid watched the family interact with the digital version of Sarah. The children accepted it immediately, Mommy was on the screen, and they could talk to her. The husband was more hesitant, but gradually he relaxed, engaging with her as if she were really there.
 
 And maybe she was. Ingrid couldn't tell. The digital Sarah had all the same memories, the same personality, the same way of speaking. She remembered the conversation they'd had the night before, remembered the fear and the hope and the decision. She felt like Sarah, from the inside. And to the family, she seemed like Sarah from the outside.
 
-But Ingrid had watched the body on the table, had seen the physical Sarah disappear into the procedure. And now there was this—a digital presence that claimed to be the same person. Was it? Or was it something new, something that had never existed before, something that only thought it was Sarah?
+But Ingrid had watched the body on the table, had seen the physical Sarah disappear into the procedure. And now there was this, a digital presence that claimed to be the same person. Was it? Or was it something new, something that had never existed before, something that only thought it was Sarah?
 
 The question had no answer. Or rather, it had too many answers, each one plausible, each one impossible to verify.
 
-Ingrid drove home that evening, her mind still processing what she had witnessed. She had been present for hundreds of deaths, had held hundreds of hands as people took their last breaths. But this was different. Sarah hadn't died—not exactly. She had been transferred, copied, preserved. Her body was gone, but her consciousness continued.
+Ingrid drove home that evening, her mind still processing what she had witnessed. She had been present for hundreds of deaths, had held hundreds of hands as people took their last breaths. But this was different. Sarah hadn't died, not exactly. She had been transferred, copied, preserved. Her body was gone, but her consciousness continued.
 
 Was that death? Or was it something else? Something new?
 

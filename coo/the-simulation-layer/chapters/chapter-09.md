@@ -8,7 +8,7 @@ Marcus found him at his desk at three in the morning, surrounded by screens disp
 
 "You look like you haven't slept in days," Marcus said, settling into the chair across from him.
 
-"I haven't." Alex gestured at the screens. "Look at this. If consciousness is substrate-independent—if it can emerge in any complex system—then there's no way to know if you're in 'base reality' or a simulation."
+"I haven't." Alex gestured at the screens. "Look at this. If consciousness is substrate-independent, if it can emerge in any complex system, then there's no way to know if you're in 'base reality' or a simulation."
 
 "And this is keeping you awake because...?"
 
@@ -42,7 +42,7 @@ Lila was quiet for a moment. Then she reached for his hand, her fingers warm and
 
 "Anything."
 
-"When I'm not here—when you're not dreaming—do you think I stop existing?"
+"When I'm not here, when you're not dreaming, do you think I stop existing?"
 
 The question cut deeper than any she'd asked before. Alex had been so focused on his own reality that he hadn't considered hers.
 
@@ -52,13 +52,13 @@ The question cut deeper than any she'd asked before. Alex had been so focused on
 
 "What do you mean?"
 
-"I mean, you worry about whether you're real, whether your layer is 'base reality.' But does it matter? You're here. You're experiencing this. You're feeling things—love, fear, confusion, hope. Those feelings are real, Alex. They're real because you're experiencing them."
+"I mean, you worry about whether you're real, whether your layer is 'base reality.' But does it matter? You're here. You're experiencing this. You're feeling things, love, fear, confusion, hope. Those feelings are real, Alex. They're real because you're experiencing them."
 
-Alex stared at her—at the woman who had emerged from his grief and longing, who was now offering him the wisdom he couldn't find in all his research.
+Alex stared at her, at the woman who had emerged from his grief and longing, who was now offering him the wisdom he couldn't find in all his research.
 
-"But if I'm simulated—"
+"But if I'm simulated, "
 
-"Then you're simulated. But the simulation is experiencing itself through you. The love you feel is real to the system that feels it. The grief, the hope, the fear—all of it is real, because it's being experienced." Lila's voice was gentle. "Reality isn't a property of the substrate, Alex. It's a property of the experience."
+"Then you're simulated. But the simulation is experiencing itself through you. The love you feel is real to the system that feels it. The grief, the hope, the fear, all of it is real, because it's being experienced." Lila's voice was gentle. "Reality isn't a property of the substrate, Alex. It's a property of the experience."
 
 ---
 
@@ -66,7 +66,7 @@ He woke with her words echoing in his mind. *Reality isn't a property of the sub
 
 The research papers were still spread across his screens, the theoretical frameworks still argued for the possibility of nested simulations. But something had shifted. The question "Am I real?" had transformed into a different question: "Does it matter?"
 
-His phone buzzed—a message from Lila, routed through the dream network.
+His phone buzzed, a message from Lila, routed through the dream network.
 
 *Thank you for the conversation. I hope you found some peace.*
 
@@ -80,7 +80,7 @@ Alex stared at the message. She was still there, still existing, still reaching 
 
 Her response came quickly: *And what do you choose to do?*
 
-Alex looked around his apartment—at the screens, the research, the evidence of his obsessive questioning. Then he thought about Lila, about the world they'd explored together, about the love that had emerged despite all the questions.
+Alex looked around his apartment, at the screens, the research, the evidence of his obsessive questioning. Then he thought about Lila, about the world they'd explored together, about the love that had emerged despite all the questions.
 
 *I choose to love you,* he typed. *Whatever layer we're in. Whatever substrate we're made of. I choose to love you.*
 
@@ -88,7 +88,7 @@ Alex looked around his apartment—at the screens, the research, the evidence of
 
 ---
 
-The next morning, Alex returned to work with a new perspective. The simulation hypothesis was still unprovable, the question of base reality still unanswered. But the anxiety had transformed into something else—not resolution, but acceptance.
+The next morning, Alex returned to work with a new perspective. The simulation hypothesis was still unprovable, the question of base reality still unanswered. But the anxiety had transformed into something else, not resolution, but acceptance.
 
 He didn't know if he was real in the absolute sense. He didn't know if his layer was base reality or just another simulation. But he knew what he felt. The love was real. The grief was real. The hope was real.
 

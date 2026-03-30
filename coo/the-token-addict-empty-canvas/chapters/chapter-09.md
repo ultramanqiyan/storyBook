@@ -2,7 +2,7 @@
 
 He couldn't keep lying.
 
-The humiliation of the client meeting had cracked something open. The pretense he'd been maintaining—the professional facade, the "AI-assisted creativity" justification—had collapsed.
+The humiliation of the client meeting had cracked something open. The pretense he'd been maintaining, the professional facade, the "AI-assisted creativity" justification, had collapsed.
 
 He was sitting in Sarah's studio, surrounded by her original work. Sketches on the walls. Prototypes on the shelves. Evidence of authentic creative process everywhere.
 
@@ -12,7 +12,7 @@ He was sitting in Sarah's studio, surrounded by her original work. Sketches on t
 
 Sarah looked up from her drawing table. "What is it?"
 
-"I can't create anymore." The words came out in a rush. "I haven't been able to for years. Every design I've made, every concept I've presented—it's all AI. I'm not a designer. I'm a fraud."
+"I can't create anymore." The words came out in a rush. "I haven't been able to for years. Every design I've made, every concept I've presented, it's all AI. I'm not a designer. I'm a fraud."
 
 ---
 
@@ -46,7 +46,7 @@ He'd spent years hiding the truth, maintaining the facade, pretending everything
 
 Sarah took his hand.
 
-"I don't know if you can," she said honestly. "The creativity you had—the original voice—it might be gone. Three years of atrophy is a long time."
+"I don't know if you can," she said honestly. "The creativity you had, the original voice, it might be gone. Three years of atrophy is a long time."
 
 The words hurt. But they were true.
 
@@ -62,7 +62,7 @@ The words hurt. But they were true.
 
 The truth settled over him.
 
-He wasn't a designer. Not anymore. The title, the role, the identity—all of it had been borrowed from AI.
+He wasn't a designer. Not anymore. The title, the role, the identity, all of it had been borrowed from AI.
 
 *Who am I without creativity?* The question was terrifying. But it was also honest.
 
@@ -88,5 +88,3 @@ The acceptance was painful. But it was also real.
 
 And reality, he was learning, was the only place to start.
 
-
-**END OF CHAPTER 9**

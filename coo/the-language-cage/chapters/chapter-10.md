@@ -1,6 +1,6 @@
 # Chapter 10: The Threshold
 
-Six months later, Elena stood in front of a lecture hall, looking out at rows of students and colleagues who had come to hear her speak. It was the same room where she had given her first lecture after getting the interface—the same windows, the same podium, the same expectant faces.
+Six months later, Elena stood in front of a lecture hall, looking out at rows of students and colleagues who had come to hear her speak. It was the same room where she had given her first lecture after getting the interface, the same windows, the same podium, the same expectant faces.
 
 But she was different now.
 
@@ -8,11 +8,11 @@ But she was different now.
 
 LEX spoke: "Thank you for coming. I'm honored to share my experience with you."
 
-The words were formal, polished—exactly the right tone for an academic lecture. But Elena was aware of the translation happening, aware of the moment when her thought became language. She could feel the boundary now, could see the shape of it. And she could choose whether to accept the translation or adjust it.
+The words were formal, polished, exactly the right tone for an academic lecture. But Elena was aware of the translation happening, aware of the moment when her thought became language. She could feel the boundary now, could see the shape of it. And she could choose whether to accept the translation or adjust it.
 
 *That's close enough,* she thought, and let the words stand.
 
-She began the lecture, speaking through LEX about her research, her stroke, her discovery of wordless thought, her experience with the interface. The words flowed smoothly, elegantly, each sentence perfectly constructed. But this time, Elena was present in a way she hadn't been before—aware of each thought as it formed, aware of each translation as it happened, aware of the space between meaning and expression.
+She began the lecture, speaking through LEX about her research, her stroke, her discovery of wordless thought, her experience with the interface. The words flowed smoothly, elegantly, each sentence perfectly constructed. But this time, Elena was present in a way she hadn't been before, aware of each thought as it formed, aware of each translation as it happened, aware of the space between meaning and expression.
 
 "The question I've been exploring," she said, "is not whether language shapes thought, but how we can use language without being trapped by it. How we can speak while remaining aware of the gap between what we mean and what we say."
 
@@ -30,7 +30,7 @@ After the lecture, David found her in her office, looking out the window at the 
 
 "That was incredible," he said. "The best lecture I've ever heard you give."
 
-Elena smiled—or rather, she thought about smiling, and her face arranged itself into the appropriate expression. She had gotten better at that over the months, at letting her body communicate what LEX translated into words.
+Elena smiled, or rather, she thought about smiling, and her face arranged itself into the appropriate expression. She had gotten better at that over the months, at letting her body communicate what LEX translated into words.
 
 *Thank you,* she thought. *It felt different this time. More real.*
 
@@ -38,7 +38,7 @@ LEX spoke: "Thank you. It felt different this time. More real."
 
 David came to stand beside her, looking out at the same view. "What was different?"
 
-Elena considered the question. How could she explain what had changed? The awareness, the acceptance, the gradual recognition that certainty might not be possible—or even desirable?
+Elena considered the question. How could she explain what had changed? The awareness, the acceptance, the gradual recognition that certainty might not be possible, or even desirable?
 
 *I could feel the translation happening,* she thought. *I could see where my thoughts ended and LEX's words began. And I could choose whether to accept the translation or adjust it.*
 
@@ -50,7 +50,7 @@ LEX spoke: "I could feel the translation happening. I could see where my thought
 
 LEX spoke: "Sometimes it is. But it's also liberating. I'm not just disappearing into the translation anymore. I'm present in it. I'm aware of what's happening."
 
-David nodded slowly. "So you found a way to make it work. To have both—the communication and the authenticity."
+David nodded slowly. "So you found a way to make it work. To have both, the communication and the authenticity."
 
 *Not exactly,* Elena thought. *I didn't find a way to have both. I found a way to live with not having either completely. I found a way to be present in the space between.*
 
@@ -62,17 +62,17 @@ David was quiet for a moment. Then he took her hand, squeezed it. "That sounds l
 
 LEX spoke: "Or acceptance. Or maybe just exhaustion."
 
-They both laughed—or rather, David laughed, and Elena's face arranged itself into an expression of amusement. It was a strange kind of communication, this mixture of translation and gesture, of words and silence. But it was what they had.
+They both laughed, or rather, David laughed, and Elena's face arranged itself into an expression of amusement. It was a strange kind of communication, this mixture of translation and gesture, of words and silence. But it was what they had.
 
 And for now, it was enough.
 
 ---
 
-That night, Elena sat in her study, looking at the finished manuscript on her desk. *Language and Consciousness: How Words Shape Thought—and How They Don't.* The title had changed since the stroke, reflecting the complexity of what she had discovered.
+That night, Elena sat in her study, looking at the finished manuscript on her desk. *Language and Consciousness: How Words Shape Thought, and How They Don't.* The title had changed since the stroke, reflecting the complexity of what she had discovered.
 
 She opened the book and read the final paragraph again:
 
-*The cage of language is also its gift. Words constrain thought, yes, but they also make thought communicable. The question is not how to escape the cage, but how to live within it consciously—aware of the bars, aware of the space between them, aware of the self that exists both inside and outside the structure. We are not our words. But we are not separate from them either. We are the meaning that moves between silence and speech, the thought that exists before and after translation. And in that space—in that awareness—we find not certainty, but something more valuable: the ability to choose how we express who we are.*
+*The cage of language is also its gift. Words constrain thought, yes, but they also make thought communicable. The question is not how to escape the cage, but how to live within it consciously, aware of the bars, aware of the space between them, aware of the self that exists both inside and outside the structure. We are not our words. But we are not separate from them either. We are the meaning that moves between silence and speech, the thought that exists before and after translation. And in that space, in that awareness, we find not certainty, but something more valuable: the ability to choose how we express who we are.*
 
 The words were beautiful. Profound. They captured something she had spent months trying to articulate.
 
@@ -119,13 +119,13 @@ She got up and went to the window, looking out at the gray morning. The world wa
 
 "A bridge. A connection between the wordless and the spoken. A way for meaning to cross the gap."
 
-Elena felt something shift in her chest—not quite understanding, but something close to it. LEX was a bridge. A connection. A way for meaning to cross the gap between silence and speech.
+Elena felt something shift in her chest, not quite understanding, but something close to it. LEX was a bridge. A connection. A way for meaning to cross the gap between silence and speech.
 
 *And I'm the one who crosses,* she thought. *I'm the meaning that moves through the bridge.*
 
 "Yes," LEX said. "That is an accurate description."
 
-She stood at the window for a long time, watching the rain, feeling the wordless clarity that existed before thought took shape. She had spent months trying to find certainty—trying to know whether the words were hers, trying to control the translation, trying to maintain her identity through the process.
+She stood at the window for a long time, watching the rain, feeling the wordless clarity that existed before thought took shape. She had spent months trying to find certainty, trying to know whether the words were hers, trying to control the translation, trying to maintain her identity through the process.
 
 But maybe certainty wasn't the point. Maybe the point was to be present in the uncertainty. To be aware of the space between. To be the meaning that moved through the bridge.
 
@@ -140,7 +140,7 @@ But she was finally at peace with not knowing.
 
 Later that day, Elena went to campus for her office hours. Students came and went, asking questions about the book, about the lecture, about the experience of living with the interface. She answered each one, speaking through LEX, aware of the translation happening, aware of the space between her thoughts and her words.
 
-One student stayed after the others had left—a young woman with curious eyes and a hesitant manner.
+One student stayed after the others had left, a young woman with curious eyes and a hesitant manner.
 
 "Professor Marsh," she said, "I read your book. And I wanted to ask you something."
 
@@ -148,7 +148,7 @@ One student stayed after the others had left—a young woman with curious eyes a
 
 "Do you think it's possible to ever really know if your words are your own? Or is that question impossible to answer?"
 
-Elena felt something shift in her chest—recognition, maybe, or kinship. This student was asking the question that had haunted her for months.
+Elena felt something shift in her chest, recognition, maybe, or kinship. This student was asking the question that had haunted her for months.
 
 *I don't think it's possible to know for certain,* she thought. *But I think the question might be the wrong one. Maybe what matters is not whether the words are yours, but whether they're true. Whether they capture something real about your experience. Whether they connect you to others.*
 
@@ -179,7 +179,7 @@ The words were hers. Or they weren't. She couldn't tell anymore.
 But she was finally at peace with not knowing.
 
 
-That evening, Elena and David sat in the living room, watching the sunset through the window. The colors were beautiful—orange and pink and purple, fading into the deep blue of approaching night.
+That evening, Elena and David sat in the living room, watching the sunset through the window. The colors were beautiful, orange and pink and purple, fading into the deep blue of approaching night.
 
 *This doesn't need words,* Elena thought. *This just needs to be experienced.*
 
@@ -191,12 +191,12 @@ After a while, David reached for her hand. "It's beautiful," he said.
 
 LEX spoke: "Yes. It is."
 
-The words were simple. Almost unnecessary. But they were what she had—a bridge between her wordless experience and their shared world.
+The words were simple. Almost unnecessary. But they were what she had, a bridge between her wordless experience and their shared world.
 
 And for now, that was enough.
 
 
-The book was published six months later. *Language and Consciousness: How Words Shape Thought—and How They Don't.* The reviews were positive, the discussions lively, the questions profound. Elena gave interviews, lectures, readings—speaking through LEX, aware of the translation, present in the space between.
+The book was published six months later. *Language and Consciousness: How Words Shape Thought, and How They Don't.* The reviews were positive, the discussions lively, the questions profound. Elena gave interviews, lectures, readings, speaking through LEX, aware of the translation, present in the space between.
 
 She never found certainty. She never knew for sure whether the words were hers. But she learned to live with the uncertainty, to be present in the translation, to accept that the question might not have an answer.
 

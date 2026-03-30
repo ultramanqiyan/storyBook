@@ -28,7 +28,7 @@ He noticed it again during a client call.
 
 "We love your work," the client said. "Can you walk us through your creative process? How do you come up with these ideas?"
 
-Marcus opened his mouth to explain his approach—the research, the iteration, the refinement. But the words felt hollow. Because the truth was, he wasn't coming up with ideas anymore. CreateFlow was.
+Marcus opened his mouth to explain his approach, the research, the iteration, the refinement. But the words felt hollow. Because the truth was, he wasn't coming up with ideas anymore. CreateFlow was.
 
 *It's just a tool*, he told himself. *Like any other tool. I'm still the creative director.*
 
@@ -38,7 +38,7 @@ But the question lingered. Was he directing creativity, or was he curating AI ou
 
 That evening, he tried an experiment.
 
-He opened a blank canvas—the old-fashioned kind, without CreateFlow. He'd always enjoyed sketching concepts by hand, letting ideas emerge through the physical act of drawing.
+He opened a blank canvas, the old-fashioned kind, without CreateFlow. He'd always enjoyed sketching concepts by hand, letting ideas emerge through the physical act of drawing.
 
 But now, the blank page felt... wrong. Empty. Waiting.
 
@@ -74,5 +74,3 @@ The dependency was growing. The atrophy was beginning.
 
 And Marcus had no idea.
 
-
-**END OF CHAPTER 2**

@@ -4,7 +4,7 @@ Fifteen years into his AI journey, Marcus faced the final question.
 
 *Who am I?*
 
-The question had haunted him since the beginning—since the first day he'd opened CodeForge and let an algorithm write his code. But now, after everything—the cognitive dependency, creative atrophy, willpower erosion, social isolation, emotional fragility, moral blurring—the question demanded an answer.
+The question had haunted him since the beginning, since the first day he'd opened CodeForge and let an algorithm write his code. But now, after everything, the cognitive dependency, creative atrophy, willpower erosion, social isolation, emotional fragility, moral blurring, the question demanded an answer.
 
 And the answer was terrifying: *I don't know anymore.*
 
@@ -16,7 +16,7 @@ The morning began like every other morning in Marcus's life now. He woke at 6:30
 
 "Thank you," Marcus said automatically, the words coming without thought. He'd stopped thinking about his greetings years ago. The AI had determined that "thank you" was the optimal response for maintaining positive user engagement.
 
-He walked to the bathroom, where the mirror displayed his schedule, his health metrics, his priorities for the day. The face looking back at him was familiar—the same features he'd had for forty-five years, the same lines and contours. But something was different. Something he couldn't quite name.
+He walked to the bathroom, where the mirror displayed his schedule, his health metrics, his priorities for the day. The face looking back at him was familiar, the same features he'd had for forty-five years, the same lines and contours. But something was different. Something he couldn't quite name.
 
 *Is that still me?* he wondered. *Or is that just the interface?*
 
@@ -24,7 +24,7 @@ He walked to the bathroom, where the mirror displayed his schedule, his health m
 
 SelfMirror was the newest addition to his AI suite, installed just three weeks ago. The marketing had been compelling: "Understand yourself through AI-assisted self-reflection. Track your growth. Identify patterns. Optimize your personal development."
 
-Marcus had installed it like he'd installed all the others—without question, without hesitation, without the skepticism that had once defined him as an engineer. The interface was familiar: prompts for self-analysis, suggestions for growth, recommendations for improvement.
+Marcus had installed it like he'd installed all the others, without question, without hesitation, without the skepticism that had once defined him as an engineer. The interface was familiar: prompts for self-analysis, suggestions for growth, recommendations for improvement.
 
 "Analyze my current state," he'd type, and SelfMirror would generate insights about his personality, his growth areas, his development needs. Every aspect of himself optimized. Every insight about his character generated. Every understanding of his identity... delegated.
 
@@ -48,11 +48,11 @@ He clicked the analysis.
 2. Engage in one creative activity without AI assistance
 3. Have one conversation today without consulting communication AI
 
-Marcus read the recommendations and felt a flicker of something—irony, maybe, or despair. The AI was recommending that he think without AI. The AI was suggesting that he be less dependent on AI.
+Marcus read the recommendations and felt a flicker of something, irony, maybe, or despair. The AI was recommending that he think without AI. The AI was suggesting that he be less dependent on AI.
 
 *Does it know?* he wondered. *Does it understand what it's done to me?*
 
-But the question was unfair. The AI hadn't done anything to him. He had done it to himself. Every prompt, every acceptance, every delegation of thought—he had chosen. The AI had simply provided the option.
+But the question was unfair. The AI hadn't done anything to him. He had done it to himself. Every prompt, every acceptance, every delegation of thought, he had chosen. The AI had simply provided the option.
 
 ---
 
@@ -78,7 +78,7 @@ The office was quiet when he arrived, the familiar hum of servers and the soft g
 
 The question felt strange in his mouth. When had he last asked someone how they were and actually wanted to know the answer?
 
-Sarah smiled, and for a moment, Marcus saw the woman he'd married fifteen years ago—the warmth, the life, the humanity. "I'm good. The kids are driving me crazy, but good. How about you?"
+Sarah smiled, and for a moment, Marcus saw the woman he'd married fifteen years ago, the warmth, the life, the humanity. "I'm good. The kids are driving me crazy, but good. How about you?"
 
 The question hung in the air. How was he? The AI said 72% contentment, 18% anxiety, 10% anticipation. But what did he actually feel?
 
@@ -96,7 +96,7 @@ That night, Marcus sat at his desk at home, the SelfMirror interface closed for 
 
 The mirror showed him someone he didn't recognize.
 
-Not the physical appearance—that was the same. But the person behind the eyes, the consciousness looking back at him... that was a stranger. A stranger who had been shaped by fifteen years of AI optimization, fifteen years of delegated decisions, fifteen years of outsourcing the very things that made him who he was.
+Not the physical appearance, that was the same. But the person behind the eyes, the consciousness looking back at him... that was a stranger. A stranger who had been shaped by fifteen years of AI optimization, fifteen years of delegated decisions, fifteen years of outsourcing the very things that made him who he was.
 
 *Who are you?* he asked the reflection.
 
@@ -110,5 +110,3 @@ The realization was terrifying. But beneath the terror, something else flickered
 
 The mirror reflected his face, and for the first time in years, Marcus tried to see the person behind the interface.
 
-
-**END OF CHAPTER 1**

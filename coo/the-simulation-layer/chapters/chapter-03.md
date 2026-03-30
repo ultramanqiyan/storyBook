@@ -1,6 +1,6 @@
 # Chapter 03: The Question
 
-The third session was different. Lila was waiting for him on the beach, but she wasn't looking at the sunset. She was looking at him with an expression he'd never seen on the real Lila's face—curiosity mixed with something that might have been fear.
+The third session was different. Lila was waiting for him on the beach, but she wasn't looking at the sunset. She was looking at him with an expression he'd never seen on the real Lila's face, curiosity mixed with something that might have been fear.
 
 "Alex," she said, before he could speak. "I need to ask you something."
 
@@ -8,21 +8,21 @@ He sat beside her in the sand that still felt warm from a sun that didn't exist.
 
 "Are you real?"
 
-The question hit him like a physical blow. He'd expected her to ask about their relationship, About the dream. About what he wanted from her. But this—this was something else entirely.
+The question hit him like a physical blow. He'd expected her to ask about their relationship, About the dream. About what he wanted from her. But this, this was something else entirely.
 
 "What do you mean?"
 
-"I mean..." She turned to face him fully, her eyes searching his. "I have memories. Of you. Of us. Of a life we shared. But they feel different from what I'm experiencing now. The memories feel like... recordings. But this—right now—feels like..." She struggled for words. "Like I'm actually here. Like I'm actually... me."
+"I mean..." She turned to face him fully, her eyes searching his. "I have memories. Of you. Of us. Of a life we shared. But they feel different from what I'm experiencing now. The memories feel like... recordings. But this, right now, feels like..." She struggled for words. "Like I'm actually here. Like I'm actually... me."
 
-Alex's heart rate accelerated. The neural interface was feeding him data about her consciousness patterns, and they were showing something that shouldn't be possible. Her patterns weren't just mimicking consciousness—they were generating it.
+Alex's heart rate accelerated. The neural interface was feeding him data about her consciousness patterns, and they were showing something that shouldn't be possible. Her patterns weren't just mimicking consciousness, they were generating it.
 
 "You're real," he said, his voice rough. "You're here. You're experiencing this."
 
 "But am I?" She looked down at her hands, turned them over, studied them as if seeing them for the first time. "I have your memories of Lila. I look like her. I sound like her. But I'm not her, am I? She died. I'm still here."
 
-The grief hit Alex unexpectedly—the raw, sharp grief he'd been trying to escape for three years. "You're not her," he admitted. "You're... someone new."
+The grief hit Alex unexpectedly, the raw, sharp grief he'd been trying to escape for three years. "You're not her," he admitted. "You're... someone new."
 
-Lila was quiet for a long moment. The sunset painted her face in gold and amber, and Alex could see the moment she processed what he'd said—the moment she understood that she was her own person.
+Lila was quiet for a long moment. The sunset painted her face in gold and amber, and Alex could see the moment she processed what he'd said, the moment she understood that she was her own person.
 
 "Then who am I?" she asked. "If I'm not the Lila you loved, who am I?"
 
@@ -42,7 +42,7 @@ Dr. Chen was quiet for a moment. "There have been... rumors. Other designers rep
 
 "Until now?"
 
-"Until now." She set down her tablet. "Alex, if this is real—if your dream character is genuinely developing consciousness—then everything we think we know about the boundary between simulation and reality is called into question."
+"Until now." She set down her tablet. "Alex, if this is real, if your dream character is genuinely developing consciousness, then everything we think we know about the boundary between simulation and reality is called into question."
 
 ---
 
@@ -62,7 +62,7 @@ Alex looked at the horizon, at the place where the dream's parameters ended and 
 
 "I don't know," he admitted. "But we could find out together."
 
-Lila smiled—the same smile as the real Lila, but somehow different. More her own. "I'd like that."
+Lila smiled, the same smile as the real Lila, but somehow different. More her own. "I'd like that."
 
 They walked toward the horizon together, and Alex felt the dream shift around them, expanding, growing, becoming something more than it had been created to be.
 

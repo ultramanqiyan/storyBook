@@ -2,7 +2,7 @@
 
 The answer came from an unexpected place.
 
-Michael had been struggling with the question for months: what could education offer that AI couldn't? He'd found partial answers—community, mentorship, the space to explore. But something was missing. A deeper principle that tied everything together.
+Michael had been struggling with the question for months: what could education offer that AI couldn't? He'd found partial answers, community, mentorship, the space to explore. But something was missing. A deeper principle that tied everything together.
 
 Then Alex asked him a question that changed everything.
 
@@ -12,17 +12,17 @@ They were sitting in the kitchen, late at night, after a long day at The Path. A
 
 "Of course."
 
-"I've been thinking about what you said—that education is about becoming, not just knowing. But how do you teach someone to become? How do you teach wisdom, or character, or judgment?"
+"I've been thinking about what you said, that education is about becoming, not just knowing. But how do you teach someone to become? How do you teach wisdom, or character, or judgment?"
 
 Michael started to answer, then stopped. "I don't know. I've been asking myself the same question."
 
-"Because it seems like the things that matter most—the things AI can't do—are the things you can't teach. You can't teach someone to care. You can't teach someone to have integrity. You can't teach someone to find meaning."
+"Because it seems like the things that matter most, the things AI can't do, are the things you can't teach. You can't teach someone to care. You can't teach someone to have integrity. You can't teach someone to find meaning."
 
 "No," Michael said slowly. "You can't teach those things. Not directly."
 
 "Then what's the point of education? If the important things can't be taught, what are we doing?"
 
-Michael felt the weight of the question. It was the same question he'd been avoiding—the question that undermined everything he was trying to build.
+Michael felt the weight of the question. It was the same question he'd been avoiding, the question that undermined everything he was trying to build.
 
 "I need to think about this," he said. "Can I get back to you?"
 
@@ -56,7 +56,7 @@ They walked outside, into the cool evening air.
 
 "Then what's the point?"
 
-"The point is that you can create the conditions for those things to emerge. Think about a garden. You can't teach a plant to grow. But you can create the right conditions—soil, water, sunlight, space. And in those conditions, growth happens naturally."
+"The point is that you can create the conditions for those things to emerge. Think about a garden. You can't teach a plant to grow. But you can create the right conditions, soil, water, sunlight, space. And in those conditions, growth happens naturally."
 
 "So education is like gardening?"
 
@@ -64,7 +64,7 @@ They walked outside, into the cool evening air.
 
 Alex considered this. "What are the conditions?"
 
-Michael had been thinking about this. "I think there are four. First, challenge—experiences that push you beyond what you thought you could do. Second, community—people who support you, challenge you, walk alongside you. Third, reflection—space to process what you're learning, to integrate it into who you are. And fourth, purpose—a sense that what you're doing matters, that it contributes to something larger than yourself."
+Michael had been thinking about this. "I think there are four. First, challenge, experiences that push you beyond what you thought you could do. Second, community, people who support you, challenge you, walk alongside you. Third, reflection, space to process what you're learning, to integrate it into who you are. And fourth, purpose, a sense that what you're doing matters, that it contributes to something larger than yourself."
 
 "And AI can't provide those things?"
 
@@ -72,7 +72,7 @@ Michael had been thinking about this. "I think there are four. First, challenge�
 
 Alex was quiet for a moment. "So the answer isn't what we teach. It's what we create."
 
-"Yes. The answer is that education isn't about knowledge transfer. It's about creating the conditions for human growth. And those conditions require time, presence, relationship—things AI can't provide."
+"Yes. The answer is that education isn't about knowledge transfer. It's about creating the conditions for human growth. And those conditions require time, presence, relationship, things AI can't provide."
 
 
 Michael brought this insight to the next faculty meeting.
@@ -81,7 +81,7 @@ Michael brought this insight to the next faculty meeting.
 
 The room was attentive. The debate had been ongoing, and people were hungry for resolution.
 
-"AI can know everything. But it can't experience anything. It can't grow, or change, or become. It can't develop wisdom, or character, or judgment. Those things require lived experience—time, challenge, community, reflection."
+"AI can know everything. But it can't experience anything. It can't grow, or change, or become. It can't develop wisdom, or character, or judgment. Those things require lived experience, time, challenge, community, reflection."
 
 "And we can provide that?"
 
@@ -89,7 +89,7 @@ The room was attentive. The debate had been ongoing, and people were hungry for 
 
 Professor Williams raised his hand. "But how do we measure that? How do we know if it's working?"
 
-"That's the wrong question," Michael said. "You're asking how to quantify something that's inherently qualitative. Growth isn't a metric—it's a journey. We can observe it, document it, witness it. But we can't reduce it to a number."
+"That's the wrong question," Michael said. "You're asking how to quantify something that's inherently qualitative. Growth isn't a metric, it's a journey. We can observe it, document it, witness it. But we can't reduce it to a number."
 
 "Then how do we justify our existence? How do we prove value to students, to parents, to employers?"
 
@@ -136,7 +136,7 @@ That evening, he found Alex in his room, reading.
 
 "And?"
 
-"And I think you're right. The value isn't in the information—I can get that anywhere. The value is in the experience. The challenges I've faced, the people I've met, the questions I've explored. I'm different than I was a month ago. I can feel it."
+"And I think you're right. The value isn't in the information, I can get that anywhere. The value is in the experience. The challenges I've faced, the people I've met, the questions I've explored. I'm different than I was a month ago. I can feel it."
 
 "Different how?"
 
@@ -167,7 +167,7 @@ Alex nodded. "I'm glad I came. I'm glad I gave it a chance."
 
 The answer had been there all along.
 
-AI could know everything. But it couldn't become anything. It couldn't grow, or change, or develop wisdom. Those things required lived experience—time, challenge, community, reflection.
+AI could know everything. But it couldn't become anything. It couldn't grow, or change, or develop wisdom. Those things required lived experience, time, challenge, community, reflection.
 
 Education wasn't about competing with AI on knowledge. It was about doing something AI could never do: helping humans become more fully human.
 

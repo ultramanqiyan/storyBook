@@ -30,7 +30,7 @@ Rachel's expression softened. "You didn't mess anything up. I figured you were j
 
 "It's not just that." Maya felt the words building, the truth she'd been holding for so long. "The truth is, I've been really lonely. I didn't realize how much until I couldn't ignore it anymore. And when you tried to connect with me, I pushed you away because I was scared."
 
-She braced herself for Rachel's reaction—the discomfort, the withdrawal, the polite excuse to leave.
+She braced herself for Rachel's reaction, the discomfort, the withdrawal, the polite excuse to leave.
 
 But Rachel just leaned forward. "Thank you for telling me that."
 
@@ -40,7 +40,7 @@ Maya blinked. "You're not... weirded out?"
 
 "What changed?"
 
-"I found this group. Tomás and the others. And I realized that needing people isn't weakness—it's human." She smiled. "It took me a long time to learn that. I'm still learning."
+"I found this group. Tomás and the others. And I realized that needing people isn't weakness, it's human." She smiled. "It took me a long time to learn that. I'm still learning."
 
 Maya felt something loosen in her chest. "I thought I was the only one who felt this way."
 
@@ -52,7 +52,7 @@ The conversation continued for two hours.
 
 Maya learned that Rachel had left a corporate job three years ago, that she'd struggled with the same isolation Maya was feeling, that she'd almost given up freelancing multiple times before finding the collective.
 
-In turn, Maya shared things she'd never told anyone—not her parents, not her old friends, not anyone. The loneliness that had been building for years. The fear that she was fundamentally unlovable. The hope that maybe, just maybe, things could be different.
+In turn, Maya shared things she'd never told anyone, not her parents, not her old friends, not anyone. The loneliness that had been building for years. The fear that she was fundamentally unlovable. The hope that maybe, just maybe, things could be different.
 
 Rachel listened without judgment. Asked questions without prying. Offered support without pity.
 
@@ -69,7 +69,7 @@ Maya walked in with less trepidation this time. Tomás spotted her immediately a
 
 Tomás smiled. "She's great. One of our most active members. She's helped a lot of people feel welcome here."
 
-The meeting followed the same format as before—wins and challenges, small group discussions, informal networking afterward. But this time, Maya participated. She shared a challenge she was facing with a client. She offered advice to someone dealing with scope creep. She laughed at jokes and asked follow-up questions.
+The meeting followed the same format as before, wins and challenges, small group discussions, informal networking afterward. But this time, Maya participated. She shared a challenge she was facing with a client. She offered advice to someone dealing with scope creep. She laughed at jokes and asked follow-up questions.
 
 After the meeting, a man named Jake approached her.
 
@@ -82,7 +82,7 @@ A month ago, Maya would have assumed he was trying to sell her something. Now, s
 
 Walking home that night, Maya felt different.
 
-The streets were the same—the same buildings, the same lights, the same Denver skyline. But something inside her had shifted.
+The streets were the same, the same buildings, the same lights, the same Denver skyline. But something inside her had shifted.
 
 She wasn't fixed. Wasn't suddenly surrounded by friends. Wasn't magically cured of her loneliness.
 

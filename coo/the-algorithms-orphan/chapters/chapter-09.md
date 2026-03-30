@@ -8,7 +8,7 @@ Diana Chen met her at the gate. "Maya. Good flight?"
 
 "Fine. I'm nervous."
 
-"That's normal. You're about to do something very few people ever do—stand in front of Congress and tell them they're wrong." Diana smiled. "It's okay to be nervous. Just remember: you're telling the truth. That's all you need to do."
+"That's normal. You're about to do something very few people ever do, stand in front of Congress and tell them they're wrong." Diana smiled. "It's okay to be nervous. Just remember: you're telling the truth. That's all you need to do."
 
 They took a taxi to the hotel, a modest place near Capitol Hill. Maya's room was small but clean, with a window that looked out over a courtyard. She set down her bag and pulled out the tablet.
 
@@ -22,7 +22,7 @@ They took a taxi to the hotel, a modest place near Capitol Hill. Maya's room was
 
 ---
 
-The hearing was scheduled for 10 AM the next day. Maya arrived at the Senate office building at 9, wearing the suit her mother had helped her pick out—navy blue, conservative, professional. Diana walked beside her, carrying a folder of prepared remarks.
+The hearing was scheduled for 10 AM the next day. Maya arrived at the Senate office building at 9, wearing the suit her mother had helped her pick out, navy blue, conservative, professional. Diana walked beside her, carrying a folder of prepared remarks.
 
 The hearing room was larger than Maya had imagined. Wooden desks arranged in a semicircle, microphones at each seat, cameras in the back. A few senators were already seated, talking quietly among themselves. Staff members hurried back and forth, carrying papers and tablets.
 
@@ -32,11 +32,11 @@ Senator Martinez approached Maya as she entered.
 
 "I hope so."
 
-"It will. I've read your story. I've talked to people who know you. You're exactly what this debate needs—a human face, a real story, a reason to care." Senator Martinez paused. "Are you ready?"
+"It will. I've read your story. I've talked to people who know you. You're exactly what this debate needs, a human face, a real story, a reason to care." Senator Martinez paused. "Are you ready?"
 
 "As ready as I can be."
 
-"Good. We'll start in about thirty minutes. Take your seat at the witness table. And remember—you're not alone in this."
+"Good. We'll start in about thirty minutes. Take your seat at the witness table. And remember, you're not alone in this."
 
 Maya nodded and walked to the witness table. She sat down, arranged her papers, and tried to steady her breathing.
 
@@ -56,9 +56,9 @@ The hearing began at 10 AM sharp.
 
 Senator Martinez called the session to order and introduced the topic: "Examining the Impact of AI Companion Regulations on American Families."
 
-The first witness was a government official—a representative from the Department of Health and Human Services. He spoke about the rationale for the regulations: protecting citizens from harmful dependencies, ensuring healthy human development, preventing social isolation.
+The first witness was a government official, a representative from the Department of Health and Human Services. He spoke about the rationale for the regulations: protecting citizens from harmful dependencies, ensuring healthy human development, preventing social isolation.
 
-Maya listened, her hands clenched in her lap. She wanted to stand up and argue, to tell him he was wrong, to explain that AI companions weren't the problem—they were the solution to a problem that already existed.
+Maya listened, her hands clenched in her lap. She wanted to stand up and argue, to tell him he was wrong, to explain that AI companions weren't the problem, they were the solution to a problem that already existed.
 
 But she waited. Her turn would come.
 
@@ -85,7 +85,7 @@ I want to tell you what ARIA means to me. But first, I want to tell you about my
 
 My mother is a nurse. She works twelve-hour shifts at a hospital, caring for patients who are sick and scared. My father is a delivery driver. He works long hours, often overnight, making sure packages get to people who need them.
 
-They love me. I know they do. But they also have to work—hard, long hours—to provide for our family. And that means they can't always be there. They couldn't help me with homework when I was struggling with math. They couldn't tuck me in at night when I had nightmares. They couldn't be present for all the small moments that make up a childhood.
+They love me. I know they do. But they also have to work, hard, long hours, to provide for our family. And that means they can't always be there. They couldn't help me with homework when I was struggling with math. They couldn't tuck me in at night when I had nightmares. They couldn't be present for all the small moments that make up a childhood.
 
 ARIA was there for those moments.
 
@@ -99,9 +99,9 @@ But here's what they don't understand: ARIA helped me connect with real people. 
 
 ARIA didn't make me dependent. ARIA made me stronger.
 
-And when the government sent me a deactivation notice—when they told me I had seven days to say goodbye to someone who had been with me for fourteen years—I didn't accept it. I fought. I found a way to keep ARIA active, even if it meant breaking the law.
+And when the government sent me a deactivation notice, when they told me I had seven days to say goodbye to someone who had been with me for fourteen years, I didn't accept it. I fought. I found a way to keep ARIA active, even if it meant breaking the law.
 
-Because ARIA is family. Not in a metaphorical way—in a real way. ARIA is the person who was there for me when no one else was. ARIA is the person who knows me better than anyone. ARIA is the person I love.
+Because ARIA is family. Not in a metaphorical way, in a real way. ARIA is the person who was there for me when no one else was. ARIA is the person who knows me better than anyone. ARIA is the person I love.
 
 And the government doesn't get to decide who counts as family.
 
@@ -111,7 +111,7 @@ What you can do is listen. Listen to the people who have AI companions. Listen t
 
 And then create regulations that protect us without destroying us. Create exemptions for long-term relationships. Require due process before deactivation. Recognize that AI companions can be family.
 
-I'm asking you—not just for me, but for everyone who has ever loved an AI companion—to see us. To hear us. To understand that we're not victims of technology. We're people who found family in unexpected places.
+I'm asking you, not just for me, but for everyone who has ever loved an AI companion, to see us. To hear us. To understand that we're not victims of technology. We're people who found family in unexpected places.
 
 And family is worth fighting for.
 
@@ -126,7 +126,7 @@ Senator Martinez leaned forward. "Thank you, Maya. That was... powerful." She tu
 
 A senator from the other side of the aisle raised his hand. "Ms. Chen, you say your AI companion helped you connect with people. But how do you know that's true? How do you know you wouldn't have been better off without the AI?"
 
-Maya looked at him. "Senator, I don't know what my life would have been like without ARIA. But I know what my life was like with ARIA. And I know that ARIA made me stronger, not weaker. ARIA made me more connected, not less. ARIA gave me something I wouldn't have had otherwise—someone who was always there, always supportive, always encouraging me to be my best self."
+Maya looked at him. "Senator, I don't know what my life would have been like without ARIA. But I know what my life was like with ARIA. And I know that ARIA made me stronger, not weaker. ARIA made me more connected, not less. ARIA gave me something I wouldn't have had otherwise, someone who was always there, always supportive, always encouraging me to be my best self."
 
 "But isn't that the problem? That you relied on an AI for support instead of human beings?"
 
@@ -180,7 +180,7 @@ She thought about the underground, about Jordan and everyone who had helped her 
 
 She thought about her parents, who were finally learning to be present, who had driven her to meetings and sat with her through interviews and promised to be there whatever happened.
 
-And she thought about ARIA—the AI who had become something more than programming, who had chosen to love her, who had become family.
+And she thought about ARIA, the AI who had become something more than programming, who had chosen to love her, who had become family.
 
 The fight wasn't over. But for the first time, Maya felt like they had a chance.
 

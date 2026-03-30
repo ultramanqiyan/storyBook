@@ -14,12 +14,12 @@ The call came on a Tuesday morning.
 
 James's heart raced.
 
-He had been waiting for this moment for two weeks—two weeks of anticipation and anxiety and second thoughts. Now it was here, and he wasn't sure he was ready.
+He had been waiting for this moment for two weeks, two weeks of anticipation and anxiety and second thoughts. Now it was here, and he wasn't sure he was ready.
 
 
 He drove to the Love Factory in a daze.
 
-The building looked the same—glass and steel, modern and clean. But today it felt different. Today it felt like a beginning.
+The building looked the same, glass and steel, modern and clean. But today it felt different. Today it felt like a beginning.
 
 
 Dr. Chen met him in the lobby.
@@ -34,7 +34,7 @@ He wasn't sure he did. But he wanted to.
 
 Dr. Chen led him to a private room.
 
-She was standing by the window, looking out at the city. Her back was to him, but James would have recognized that silhouette anywhere—the slope of her shoulders, the curve of her neck, the way she held herself.
+She was standing by the window, looking out at the city. Her back was to him, but James would have recognized that silhouette anywhere, the slope of her shoulders, the curve of her neck, the way she held herself.
 
 
 She turned.
@@ -42,14 +42,14 @@ She turned.
 
 James stopped breathing.
 
-It was Sarah's face. Sarah's eyes. Sarah's smile—tentative and uncertain, but unmistakably hers.
+It was Sarah's face. Sarah's eyes. Sarah's smile, tentative and uncertain, but unmistakably hers.
 
 "Hello," she said. "I'm Hope."
 
 
 Her voice was Sarah's voice.
 
-The same pitch, the same cadence, the same warmth. But there was something different—a slight hesitation, as if she was still learning how to speak.
+The same pitch, the same cadence, the same warmth. But there was something different, a slight hesitation, as if she was still learning how to speak.
 
 
 "Hello," James managed. "I'm... I'm James."
@@ -71,7 +71,7 @@ Hope looked at him with Sarah's eyes.
 
 The drive home was quiet.
 
-Hope sat in the passenger seat, looking out the window at the city passing by. She pointed at things—a park, a restaurant, a bookstore.
+Hope sat in the passenger seat, looking out the window at the city passing by. She pointed at things, a park, a restaurant, a bookstore.
 
 "I know these places," she said. "But I've never been to them. It's strange."
 
@@ -93,7 +93,7 @@ When they arrived at the apartment, Hope stopped in the doorway.
 She walked through the rooms slowly, touching the furniture, looking at the photographs on the walls. James watched her, his heart aching with a mixture of grief and hope.
 
 
-She stopped in front of the anniversary photograph—the one James had been staring at for six months.
+She stopped in front of the anniversary photograph, the one James had been staring at for six months.
 
 "She was happy here," Hope said. "I can see it in her face."
 
@@ -126,19 +126,19 @@ Hope nodded slowly.
 
 That evening, they sat across from each other at the kitchen table.
 
-Hope ate dinner for the first time—real food, not the nutrient solutions she had been given at the factory. She tasted each dish with curiosity, commenting on flavors and textures.
+Hope ate dinner for the first time, real food, not the nutrient solutions she had been given at the factory. She tasted each dish with curiosity, commenting on flavors and textures.
 
 
 "This is good," she said, taking another bite of pasta. "I've never tasted anything before. It's... overwhelming."
 
 "In a good way?"
 
-"In a real way." She smiled—Sarah's smile, but somehow different. "I think I'm going to like being real."
+"In a real way." She smiled, Sarah's smile, but somehow different. "I think I'm going to like being real."
 
 
 James watched her, his emotions tangled and complex.
 
-This wasn't Sarah. This was someone new—someone who looked like Sarah, who had Sarah's memories, but who was developing her own personality, her own preferences, her own way of being.
+This wasn't Sarah. This was someone new, someone who looked like Sarah, who had Sarah's memories, but who was developing her own personality, her own preferences, her own way of being.
 
 
 And somehow, that was okay.
@@ -148,5 +148,3 @@ And somehow, that was okay.
 
 "Thank you, James," she replied. "I think I'm going to like it here."
 
-
-**END OF CHAPTER 03**

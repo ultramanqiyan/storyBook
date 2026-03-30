@@ -8,7 +8,7 @@
 
 The exposure began at midnight.
 
-Alex and the resistance released the evidence simultaneously—files documenting the modification program, records of thousands of subjects, testimonies from people whose desires had been engineered.
+Alex and the resistance released the evidence simultaneously, files documenting the modification program, records of thousands of subjects, testimonies from people whose desires had been engineered.
 
 The truth about the Desire Market was revealed.
 
@@ -16,7 +16,7 @@ The truth about the Desire Market was revealed.
 
 The public reaction was immediate.
 
-People were outraged. The Desire Market had been manipulating desires for decades—engineering careers, relationships, lives. The service that claimed to help people understand their authentic desires had been manufacturing those desires all along.
+People were outraged. The Desire Market had been manipulating desires for decades, engineering careers, relationships, lives. The service that claimed to help people understand their authentic desires had been manufacturing those desires all along.
 
 Protests erupted. Investigations were launched. The company's stock collapsed.
 
@@ -32,5 +32,3 @@ Alex watched as the company he had served for twelve years crumbled.
 
 He felt satisfaction, but also grief. The Desire Market had given him a career, a purpose, a life. But that life had been built on manipulation. Now he had to find a new foundation.
 
-
-**END OF CHAPTER 08**

@@ -8,7 +8,7 @@ Around 10 AM, he noticed something strange.
 
 His colleagues were avoiding him.
 
-It started subtly. He walked to the coffee machine, and the conversation stopped. He passed someone in the hallway, and they looked away. He sent an email to a colleague, and got an out-of-office reply—even though the colleague was clearly at their desk.
+It started subtly. He walked to the coffee machine, and the conversation stopped. He passed someone in the hallway, and they looked away. He sent an email to a colleague, and got an out-of-office reply,even though the colleague was clearly at their desk.
 
 *They know,* Mark thought. *They know I'm the target.*
 
@@ -49,7 +49,7 @@ He closed his laptop and walked to the break room. The coffee machine hummed in 
 
 He heard voices behind him. Two colleagues, talking quietly.
 
-"—heard he's being let go."
+",heard he's being let go."
 
 "Really? I thought they were still investigating."
 

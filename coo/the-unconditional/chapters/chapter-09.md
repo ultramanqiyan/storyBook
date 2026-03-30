@@ -10,8 +10,6 @@ Today, I will wait for her. One last time. As the dog I was. And when she comes 
 
 Know if I can stay. Know if I should go. Know what love means when you see it all.
 
----
-
 The morning is the same.
 
 She wakes. She moves through the apartment. She fills my bowl. She touches my head.
@@ -27,8 +25,6 @@ She leaves. The door closes.
 I sit by the window. The sun comes in.
 
 This is the last time I will wait as just a dog. The next time, I will be different. I will have chosen.
-
----
 
 The hours pass.
 

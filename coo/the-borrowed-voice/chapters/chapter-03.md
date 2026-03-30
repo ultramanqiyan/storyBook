@@ -18,7 +18,7 @@ No satisfaction. No connection. Just the completion of a task.
 
 He told himself this was what efficiency felt like. The removal of friction, the streamlining of process. He was doing more with less, reaching more clients, maintaining more relationships.
 
-But when he tried to remember the last time he'd written something from scratch—something that came from his own thoughts, in his own voice—he couldn't.
+But when he tried to remember the last time he'd written something from scratch, something that came from his own thoughts, in his own voice, he couldn't.
 
 ---
 
@@ -37,7 +37,7 @@ David read the email twice. Sarah had noticed an improvement. She thought he was
 
 She was right. But not in the way she thought.
 
-He opened SalesPilot and checked the history. The last three emails to Sarah had been AI-generated—polished, professional, effective. Better than what he would have written himself.
+He opened SalesPilot and checked the history. The last three emails to Sarah had been AI-generated, polished, professional, effective. Better than what he would have written himself.
 
 The realization settled in his chest like cold coffee.
 
@@ -47,7 +47,7 @@ His clients preferred the AI version of him.
 
 He tried to write an email himself that afternoon.
 
-It was for a new prospect, someone he'd never contacted before. The kind of email that used to excite him—the challenge of making a first impression, the opportunity to establish a genuine connection.
+It was for a new prospect, someone he'd never contacted before. The kind of email that used to excite him, the challenge of making a first impression, the opportunity to establish a genuine connection.
 
 He sat at his keyboard and started typing.
 
@@ -67,7 +67,7 @@ He stared at the screen, his fingers frozen over the keyboard. The words that us
 
 He opened SalesPilot and typed in the parameters: *Initial outreach to new prospect, introduce myself and company, emphasize value proposition, keep conversational tone.*
 
-The AI generated the email in seconds. It was perfect—warm, professional, persuasive. Everything a first contact should be.
+The AI generated the email in seconds. It was perfect, warm, professional, persuasive. Everything a first contact should be.
 
 He read it over, comparing it to the fragments he'd been struggling to write.
 
@@ -87,7 +87,7 @@ The third week, David stopped trying to write emails himself.
 
 It wasn't a conscious decision. It was just... easier. The AI was faster, more polished, more effective. Why struggle over wording when the machine could do it better?
 
-He still reviewed every email before sending. He still made small adjustments sometimes—a word here, a phrase there. But the core of every communication came from SalesPilot.
+He still reviewed every email before sending. He still made small adjustments sometimes, a word here, a phrase there. But the core of every communication came from SalesPilot.
 
 His metrics continued to improve. His pipeline continued to grow. Rachel continued to praise his performance.
 
@@ -101,7 +101,7 @@ He noticed other changes too.
 
 The cracked mug on his desk, which he'd used for eight years, seemed less important somehow. He found himself reaching for it less often, forgetting to fill it in the morning. One day, he realized it had been sitting empty for three days.
 
-He started arriving at the office later and leaving earlier. Not because he had less work—his numbers were better than ever—but because the work required less of him. The AI handled the communications, the follow-ups, the relationship maintenance. All he had to do was provide parameters and approve output.
+He started arriving at the office later and leaving earlier. Not because he had less work, his numbers were better than ever, but because the work required less of him. The AI handled the communications, the follow-ups, the relationship maintenance. All he had to do was provide parameters and approve output.
 
 He had more free time than he'd had in years. But he couldn't remember what he used to do with it.
 
@@ -141,13 +141,13 @@ He should have felt successful.
 
 Instead, he felt like he was disappearing.
 
-He opened a new document and tried to write something—anything—in his own voice. A journal entry. A reflection. A thought.
+He opened a new document and tried to write something, anything, in his own voice. A journal entry. A reflection. A thought.
 
 *Today I...*
 
 He stopped. The words wouldn't come. Not because he couldn't think of what to say, but because he couldn't remember how to say it.
 
-His voice—the one he'd spent eight years developing, the one clients trusted, the one that was supposed to be his personal touch—had been replaced by something more efficient.
+His voice, the one he'd spent eight years developing, the one clients trusted, the one that was supposed to be his personal touch, had been replaced by something more efficient.
 
 And he wasn't sure how to get it back.
 
@@ -168,7 +168,7 @@ The next morning, he arrived at the office to find a message from Sarah.
 
 David read the message three times.
 
-Sarah had noticed. She couldn't articulate exactly what was different, but she could feel it. The emails were better—more polished, more professional—but they weren't quite him.
+Sarah had noticed. She couldn't articulate exactly what was different, but she could feel it. The emails were better, more polished, more professional, but they weren't quite him.
 
 He opened SalesPilot and started to type parameters for a response.
 
@@ -194,7 +194,7 @@ He took a breath and kept typing.
 
 He stared at the screen. His hands were shaking.
 
-This was crazy. He couldn't send this. It would undermine everything—the professional relationship, the trust he'd built, the deal that was about to close.
+This was crazy. He couldn't send this. It would undermine everything, the professional relationship, the trust he'd built, the deal that was about to close.
 
 He highlighted the text and pressed delete.
 

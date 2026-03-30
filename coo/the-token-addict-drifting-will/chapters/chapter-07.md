@@ -8,7 +8,7 @@ After the comparison with David, Marcus made a decision. He would turn off Focus
 
 The first day was difficult.
 
-He tried to set a goal for himself. Something simple—a personal project, a learning objective, a life direction.
+He tried to set a goal for himself. Something simple, a personal project, a learning objective, a life direction.
 
 But the goal-setting felt impossible. The wanting didn't come. The direction was unclear.
 
@@ -26,7 +26,7 @@ Every attempt to want without AI failed. Every effort to set goals without algor
 
 By the end of the week, he was desperate.
 
-He sat at his desk, trying to want something—anything—without FocusZone's assistance.
+He sat at his desk, trying to want something, anything, without FocusZone's assistance.
 
 But the capacity was gone. The ability to want had atrophied. The will had evaporated.
 
@@ -35,5 +35,3 @@ But the capacity was gone. The ability to want had atrophied. The will had evapo
 He turned FocusZone back on. The relief was overwhelming. But the failure was complete.
 
 *This is what I've become*, he thought. *Someone who can't function without AI direction. Someone who's lost the capacity for autonomous will.*
-
-**END OF CHAPTER 7**

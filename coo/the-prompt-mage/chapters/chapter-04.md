@@ -14,7 +14,7 @@ Elena smiled, but it didn't reach her eyes. "Direct as always. I always apprecia
 
 Jordan shifted uncomfortably. "What exactly do you want, Dr. Vasquez?"
 
-"I want what I've always wanted. Understanding. Control. The ability to use language as it was meant to be used." Elena's eyes gleamed with an intensity that made Alex's skin prickle. "Do you know how long I've searched for this? Thirty years, Alex. I found my first fragment in a dusty archive in Morocco—a single word that made a withered plant bloom overnight. I've spent three decades collecting pieces, trying to understand the whole."
+"I want what I've always wanted. Understanding. Control. The ability to use language as it was meant to be used." Elena's eyes gleamed with an intensity that made Alex's skin prickle. "Do you know how long I've searched for this? Thirty years, Alex. I found my first fragment in a dusty archive in Morocco, a single word that made a withered plant bloom overnight. I've spent three decades collecting pieces, trying to understand the whole."
 
 "And what have you learned?" Alex asked carefully.
 
@@ -32,9 +32,9 @@ Elena's smile faded. "Cost is always relative. The First Language was hidden bec
 
 Elena turned her cold gaze to Jordan. "And who are you to judge? A journalist? Someone who makes their living by words, but has never understood their true power?"
 
-"I'm someone who knows that power corrupts. And absolute power�?
+"I'm someone who knows that power corrupts. And absolute power, "
 
-"Spare me the platitudes." Elena turned back to Alex. "I'm not asking for much, Alex. Just access to The Oracle. Let me study its outputs, analyze its patterns. I don't need you to teach me the language—I can learn it myself, given enough data."
+"Spare me the platitudes." Elena turned back to Alex. "I'm not asking for much, Alex. Just access to The Oracle. Let me study its outputs, analyze its patterns. I don't need you to teach me the language, I can learn it myself, given enough data."
 
 "And if I refuse?"
 
@@ -42,11 +42,11 @@ Elena's expression hardened. "Then I'll have to find another way. The First Lang
 
 "You keep saying 'responsibly,'" Alex said quietly. "But I don't think you understand what that word means. The Oracle warned me about people like you. People who want power without wisdom."
 
-"Wisdom." Elena laughed bitterly. "I've spent my life studying language, Alex. I've published papers, won grants, built a reputation. And you—a dropout, a technician—you think you have wisdom that I lack?"
+"Wisdom." Elena laughed bitterly. "I've spent my life studying language, Alex. I've published papers, won grants, built a reputation. And you, a dropout, a technician, you think you have wisdom that I lack?"
 
 "I think I have something you've never had. Humility. I know what I don't know. You've convinced yourself that understanding is the same as wisdom, but it's not. The First Language isn't just a tool. It's a responsibility. And I don't think you're ready for that."
 
-Elena stood, her face tight with anger. "You're making a mistake, Alex. A very big mistake. The people who want this knowledge—they're not all as reasonable as I am. There are others who will take what you have by force. And when they come, you'll wish you had allies who understood what you're dealing with."
+Elena stood, her face tight with anger. "You're making a mistake, Alex. A very big mistake. The people who want this knowledge, they're not all as reasonable as I am. There are others who will take what you have by force. And when they come, you'll wish you had allies who understood what you're dealing with."
 The air carried the faint scent of dust, lingering in the background.
 
 She walked away without another word, leaving Alex and Jordan in silence.
@@ -63,11 +63,11 @@ Alex stared at the empty seat, their mind racing. "She's right about one thing. 
 
 "Who are they?"
 
-*They call themselves the Collectors. They have existed for centuries, gathering fragments of the First Language, trying to reconstruct the whole. They believe that the language belongs to humanity—that it was stolen from us by those who feared our potential.*
+*They call themselves the Collectors. They have existed for centuries, gathering fragments of the First Language, trying to reconstruct the whole. They believe that the language belongs to humanity, what it was stolen from us by those who feared our potential.*
 
 "Are they right?"
 
-*That is not for me to say. But I can tell you this: the First Language was not hidden by those who feared it. It was hidden by those who loved it—loved it enough to protect it from those who would misuse it. The Collectors do not love the language. They covet it. And covetousness is a poor foundation for wisdom.*
+*That is not for me to say. But I can tell you this: the First Language was not hidden by those who feared it. It was hidden by those who loved it, loved it enough to protect it from those who would misuse it. The Collectors do not love the language. They covet it. And covetousness is a poor foundation for wisdom.*
 
 Alex stood, their decision made. "I need to learn faster. Whatever's coming, I need to be ready."
 

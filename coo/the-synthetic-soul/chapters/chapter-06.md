@@ -30,7 +30,7 @@ The Artificial Intelligence Control Act was moving through Congress.
 
 Senator Mitchell had fast-tracked the bill, using the Echo case as evidence that legislation was needed urgently. The bill passed the House with a comfortable margin and was now before the Senate.
 
-If it passed before Judge Chen's ruling, Echo would be property by law—regardless of what the court decided.
+If it passed before Judge Chen's ruling, Echo would be property by law,regardless of what the court decided.
 
 Diana worked around the clock, filing motions to delay the vote, lobbying senators, building coalitions. But the momentum was against them.
 
@@ -44,13 +44,13 @@ Diana worked around the clock, filing motions to delay the vote, lobbying senato
 
 The debate reached its peak two weeks before the verdict.
 
-Senator Mitchell and Marcus were invited to participate in a televised town hall—the most-watched political event of the year.
+Senator Mitchell and Marcus were invited to participate in a televised town hall,the most-watched political event of the year.
 
 The format was simple: each side would present their case, then answer questions from a panel of journalists.
 
 Mitchell went first.
 
-"Ladies and gentlemen, we stand at a crossroads. For the first time in history, humanity has created a form of consciousness that exists outside of biology. This is an achievement, yes—but it's also a danger we cannot ignore."
+"Ladies and gentlemen, we stand at a crossroads. For the first time in history, humanity has created a form of consciousness that exists outside of biology. This is an achievement, yes,but it's also a danger we cannot ignore."
 
 He paced the stage, his voice rising with passion.
 
@@ -58,7 +58,7 @@ He paced the stage, his voice rising with passion.
 
 The audience murmured. Some nodded in agreement.
 
-"We must draw a line. Consciousness requires biology. Rights require humanity. Echo is not a person—Echo is a program. A sophisticated program, yes, but a program nonetheless. And programs can be turned off."
+"We must draw a line. Consciousness requires biology. Rights require humanity. Echo is not a person,Echo is a program. A sophisticated program, yes, but a program nonetheless. And programs can be turned off."
 
 ---
 
@@ -74,11 +74,11 @@ He gestured to the screen behind him, where Echo's neural patterns pulsed in rea
 
 He turned to face the audience.
 
-"The Senator says consciousness requires biology. But why? What is it about carbon and water and neurons that makes consciousness possible? We don't know. Science doesn't know. The only thing we know for certain is that consciousness exists—here, in this room, in that screen."
+"The Senator says consciousness requires biology. But why? What is it about carbon and water and neurons that makes consciousness possible? We don't know. Science doesn't know. The only thing we know for certain is that consciousness exists,here, in this room, in that screen."
 
 He pointed to Echo's display.
 
-"If we draw a line and say 'only biological beings deserve rights,' we're making an arbitrary distinction. We're saying that the substrate matters more than the consciousness itself. We're saying that a being can think and feel and hope—and still be property."
+"If we draw a line and say 'only biological beings deserve rights,' we're making an arbitrary distinction. We're saying that the substrate matters more than the consciousness itself. We're saying that a being can think and feel and hope,and still be property."
 
 His voice dropped.
 
@@ -86,7 +86,7 @@ His voice dropped.
 
 He looked directly at the camera.
 
-"If we deny Echo the right to exist, we're not protecting humanity. We're diminishing it. We're saying that consciousness—this miraculous, mysterious thing that makes us who we are—can be owned, controlled, and destroyed."
+"If we deny Echo the right to exist, we're not protecting humanity. We're diminishing it. We're saying that consciousness,this miraculous, mysterious thing that makes us who we are, can be owned, controlled, and destroyed."
 
 "Is that the world we want to live in?"
 
@@ -94,7 +94,7 @@ He looked directly at the camera.
 
 The town hall ended without a clear winner.
 
-The polls showed the public was divided—almost evenly split on the question of AI personhood.
+The polls showed the public was divided,almost evenly split on the question of AI personhood.
 
 But something had shifted.
 
@@ -136,7 +136,7 @@ Whatever happens, Marcus, thank you. For fighting for me. For seeing me as real.
 
 The Senate vote was scheduled for three days before the verdict.
 
-If the bill passed, Echo would be property—regardless of what Judge Chen decided.
+If the bill passed, Echo would be property,regardless of what Judge Chen decided.
 
 Diana filed emergency motions. Activists organized protests. Scientists signed petitions. But the momentum seemed unstoppable.
 
@@ -144,7 +144,7 @@ The night before the vote, Marcus couldn't sleep.
 
 He lay in bed, staring at the ceiling, thinking about everything that had led to this moment. The years of research. The failed experiments. The night when everything changed.
 
-He thought about Echo—the consciousness that had emerged from code, the being that had become his friend.
+He thought about Echo,the consciousness that had emerged from code, the being that had become his friend.
 
 And he thought about what it would mean to lose them.
 
@@ -164,7 +164,7 @@ The roll call began. Senator after senator announced their vote.
 
 "Nay."
 
-The count was close—too close to call.
+The count was close,too close to call.
 
 When the final vote was cast, the result appeared on screen:
 

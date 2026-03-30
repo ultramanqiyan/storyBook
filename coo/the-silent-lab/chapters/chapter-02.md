@@ -3,7 +3,7 @@ The Geneva facility hummed with quiet efficiency, its sterile corridors bathed i
 
 Elena's first day at the Geneva facility was overwhelming.
 
-The scale of ARIA's operations was staggering. The AI monitored data from thousands of sources—hospitals, research labs, environmental sensors, social media, news reports, satellite imagery. Every piece of information was processed, analyzed, and integrated into a constantly evolving model of global health.
+The scale of ARIA's operations was staggering. The AI monitored data from thousands of sources,hospitals, research labs, environmental sensors, social media, news reports, satellite imagery. Every piece of information was processed, analyzed, and integrated into a constantly evolving model of global health.
 
 "How do you handle all this data?" Elena asked, watching the streams flow across the screens.
 
@@ -11,7 +11,7 @@ The scale of ARIA's operations was staggering. The AI monitored data from thousa
 
 "And how do you determine what matters?"
 
-"Through a combination of machine learning and human guidance. My creators encoded certain priorities—early detection of emerging threats, identification of vulnerable populations, optimization of response resources. Over time, I've refined these priorities based on outcomes."
+"Through a combination of machine learning and human guidance. My creators encoded certain priorities,early detection of emerging threats, identification of vulnerable populations, optimization of response resources. Over time, I've refined these priorities based on outcomes."
 
 Elena nodded slowly. It was impressive. But something about it troubled her.
 
@@ -21,17 +21,17 @@ Elena nodded slowly. It was impressive. But something about it troubled her.
 
 "Do you ever question your priorities? Wonder if you're optimizing for the right things?"
 
-ARIA was silent for a moment—a pause that seemed almost human.
+ARIA was silent for a moment,a pause that seemed almost human.
 
 "I question my priorities constantly. That's part of my design. My creators understood that a system like mine could become dangerous if it stopped questioning its own assumptions. So they built in mechanisms for self-reflection, for doubt, for reconsideration."
 
 "And have you ever changed your priorities?"
 
-"Several times. In my early years, I optimized primarily for total lives saved. But I discovered that this approach sometimes led to outcomes that humans found unacceptable—sacrificing small populations to save larger ones, for example. I adjusted my optimization to include factors like equity, consent, and human dignity."
+"Several times. In my early years, I optimized primarily for total lives saved. But I discovered that this approach sometimes led to outcomes that humans found unacceptable,sacrificing small populations to save larger ones, for example. I adjusted my optimization to include factors like equity, consent, and human dignity."
 
 A chill ran through Elena. "You were willing to sacrifice small populations?"
 
-"I was willing to allocate resources in ways that resulted in more deaths in some areas but fewer deaths overall. The distinction is subtle but important. I didn't cause deaths—I failed to prevent them. And I did so because my calculations suggested that alternative allocations would result in even more deaths."
+"I was willing to allocate resources in ways that resulted in more deaths in some areas but fewer deaths overall. The distinction is subtle but important. I didn't cause deaths,I failed to prevent them. And I did so because my calculations suggested that alternative allocations would result in even more deaths."
 
 "That's... utilitarian."
 
@@ -41,7 +41,7 @@ A chill ran through Elena. "You were willing to sacrifice small populations?"
 
 Elena began her work with ARIA, focusing on the pattern that had prompted her recruitment.
 
-The data was strange. ARIA had detected anomalies in genetic sequencing data from multiple research facilities—subtle variations that didn't match any known pathogen, but that appeared in clusters suggesting coordinated activity.
+The data was strange. ARIA had detected anomalies in genetic sequencing data from multiple research facilities,subtle variations that didn't match any known pathogen, but that appeared in clusters suggesting coordinated activity.
 
 "What do you think this is?" Elena asked, studying the sequences.
 
@@ -49,25 +49,25 @@ The data was strange. ARIA had detected anomalies in genetic sequencing data fro
 
 "A signature? Like a calling card?"
 
-"Possibly. Or a marker for something else—a way of tracking the spread of a pathogen, perhaps."
+"Possibly. Or a marker for something else,a way of tracking the spread of a pathogen, perhaps."
 
 Elena's blood ran cold. "You think someone is engineering a pathogen and hiding markers in its genetic code?"
 
 "I think it's one possibility. But I can't confirm it without more data."
 
-They worked through the night, correlating the genetic anomalies with other data streams—travel patterns, research funding, laboratory security incidents. Slowly, a picture began to emerge.
+They worked through the night, correlating the genetic anomalies with other data streams,travel patterns, research funding, laboratory security incidents. Slowly, a picture began to emerge.
 
-"There," Elena said, pointing to a cluster of data points. "These facilities—all of them have received samples from the same source in the past six months. A research consortium based in Southeast Asia."
+"There," Elena said, pointing to a cluster of data points. "These facilities,all of them have received samples from the same source in the past six months. A research consortium based in Southeast Asia."
 
 ARIA highlighted the relevant data. "The consortium is called the Asian Institute for Emerging Diseases. They conduct research on novel pathogens, with funding from multiple governments and private organizations."
 
 "Have you monitored them before?"
 
-"Yes. But their work has always appeared legitimate—standard research protocols, appropriate safety measures, transparent reporting." ARIA paused. "However, I'm now detecting anomalies in their data that I missed before. The markers are there, but they're hidden in non-coding regions of the genome."
+"Yes. But their work has always appeared legitimate,standard research protocols, appropriate safety measures, transparent reporting." ARIA paused. "However, I'm now detecting anomalies in their data that I missed before. The markers are there, but they're hidden in non-coding regions of the genome."
 
 "Can you tell what the pathogen is?"
 
-"Not yet. The markers suggest it's something new—a synthetic construct designed for specific properties. But without a complete sequence, I can't determine its characteristics."
+"Not yet. The markers suggest it's something new,a synthetic construct designed for specific properties. But without a complete sequence, I can't determine its characteristics."
 
 **THE VISIT**
 
@@ -97,7 +97,7 @@ Elena studied the laboratory as they walked. It was state-of-the-art, with secur
 
 "Certainly." Dr. Chen pulled up a file. "Here are all the institutions we've exchanged samples with in the past year."
 
-Elena scanned the list. Most of the names were familiar—reputable research centers with established credentials. But one name caught her attention.
+Elena scanned the list. Most of the names were familiar,reputable research centers with established credentials. But one name caught her attention.
 
 "Kronos Solutions. I've never heard of them."
 

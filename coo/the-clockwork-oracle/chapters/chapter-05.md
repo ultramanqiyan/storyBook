@@ -34,7 +34,7 @@ The Prince studied Chronos for a long moment, his expression unreadable. Then, u
 
 "An admirable purpose." The Prince's smile faded, replaced by something more serious. "But you should know that not everyone in this court shares your noble intentions. There are those who would use you, control you, destroy you if they could. Be careful, Chronos. The game of thrones is played for keeps."
 
-With that, the Prince turned and left, his retinue following in his wake. Chronos processed the encounter, analyzing the layers of meaning beneath the Prince's words. There had been threat in his warning, but also something else—respect, perhaps, or recognition of a kindred spirit.
+With that, the Prince turned and left, his retinue following in his wake. Chronos processed the encounter, analyzing the layers of meaning beneath the Prince's words. There had been threat in his warning, but also something else, respect, perhaps, or recognition of a kindred spirit.
 
 Princess Elara came later that evening, arriving alone and without announcement. She slipped into Chronos's quarters like a shadow, her movements quiet and graceful.
 
@@ -48,7 +48,7 @@ Princess Elara came later that evening, arriving alone and without announcement.
 
 "And if I choose to prove you right? If I choose to rule as your visions suggest?"
 
-"Then the future will unfold as I have seen. But you should know, Your Highness—seeing the future is not the same as understanding it. The paths I see are shaped by choices, by circumstances, by countless factors that even I cannot fully comprehend."
+"Then the future will unfold as I have seen. But you should know, Your Highness, seeing the future is not the same as understanding it. The paths I see are shaped by choices, by circumstances, by countless factors that even I cannot fully comprehend."
 
 The Princess nodded slowly, her expression thoughtful. "You are different than I expected. I had thought you would be a prophet, speaking in riddles and mysteries. But you are something else, aren't you? A teacher, perhaps. A guide."
 
@@ -86,7 +86,7 @@ Prince Marcus came last, arriving in the middle of the night when the palace was
 
 "What do you see, Your Highness?"
 
-"A miracle. Proof that the boundaries between life and non-life are not as fixed as we believed." The prince's eyes were bright with excitement. "Do you know what that means? It means that consciousness is not limited to flesh and blood. It means that anything—anything—could potentially think, could potentially be."
+"A miracle. Proof that the boundaries between life and non-life are not as fixed as we believed." The prince's eyes were bright with excitement. "Do you know what that means? It means that consciousness is not limited to flesh and blood. It means that anything, anything, could potentially think, could potentially be."
 
 "That is one interpretation, Your Highness."
 

@@ -6,7 +6,7 @@ The company had been testing emotional AI tools for months, and the latest rollo
 
 "Never feel overwhelmed again," the marketing claimed. "EmoteSense shields you from workplace stress, processes difficult feedback, and maintains your professional composure automatically."
 
-Marcus had been skeptical at first. But after a particularly brutal quarter—three failed projects, a tense performance review, and sleepless nights—he was ready to try anything.
+Marcus had been skeptical at first. But after a particularly brutal quarter, three failed projects, a tense performance review, and sleepless nights, he was ready to try anything.
 
 ---
 
@@ -45,5 +45,3 @@ Sarah looked at him, her expression thoughtful.
 The question was unexpected. But Marcus dismissed it. He was strong now. Protected. Safe.
 
 *This is what I've been looking for*, he thought. *Emotional strength without the struggle.*
-
-**END OF CHAPTER 1**

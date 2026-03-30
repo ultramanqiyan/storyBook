@@ -2,7 +2,7 @@
 
 Marcus refused to use the AI tools.
 
-It was a small rebellion, a quiet stand against the machine that had taken over his life. While his colleagues embraced Codex Pro, using it to speed up their work, Marcus worked the old-fashioned way—typing every line of code himself, reviewing every pull request manually, debugging every error without assistance.
+It was a small rebellion, a quiet stand against the machine that had taken over his life. While his colleagues embraced Codex Pro, using it to speed up their work, Marcus worked the old-fashioned way, typing every line of code himself, reviewing every pull request manually, debugging every error without assistance.
 
 *I don't need AI,* he told himself. *I can do this myself. I'm better than the machine.*
 
@@ -21,7 +21,7 @@ The numbers were devastating. But Marcus couldn't stop. The refusal had become a
 
 On Tuesday, Rachel called him into her office.
 
-The meeting room was the same as before—small, stale, the fluorescent lights buzzing overhead. But this time, Rachel's expression was different. Concerned. Worried. Formal.
+The meeting room was the same as before, small, stale, the fluorescent lights buzzing overhead. But this time, Rachel's expression was different. Concerned. Worried. Formal.
 
 "Marcus," she said, closing the door behind him. "I need to talk to you about your performance."
 
@@ -31,7 +31,7 @@ Marcus felt his chest tighten. "What about it?"
 
 "I don't need AI tools," Marcus said, his voice defensive. "I can do this myself."
 
-"Marcus, the AI tools are part of our workflow now. Everyone else is using them. It's not about replacing you—it's about helping you work more efficiently."
+"Marcus, the AI tools are part of our workflow now. Everyone else is using them. It's not about replacing you, it's about helping you work more efficiently."
 
 "I don't want help from a machine."
 
@@ -71,7 +71,7 @@ At 6 PM, his colleagues began to leave. One by one, they packed up their laptops
 
 By 9 PM, even they were gone.
 
-Marcus sat alone in the dark office, the only light coming from his monitor. The code on the screen was a mess—errors, warnings, failing tests. He'd been trying to fix a bug for three hours, but every solution he tried made it worse.
+Marcus sat alone in the dark office, the only light coming from his monitor. The code on the screen was a mess, errors, warnings, failing tests. He'd been trying to fix a bug for three hours, but every solution he tried made it worse.
 
 *Why can't I do this?*
 
@@ -90,7 +90,7 @@ He got into his car but didn't start the engine. Instead, he sat in the darkness
 
 *You're failing. You're failing. You're failing.*
 
-The words echoed in his mind, a relentless chorus. He tried to push them away, to think about something—anything—else. But the fear was too strong.
+The words echoed in his mind, a relentless chorus. He tried to push them away, to think about something, anything, else. But the fear was too strong.
 
 At 10:47 PM, his phone buzzed. A text from Sarah.
 
@@ -106,7 +106,7 @@ The words hit Marcus like a blow. The kids. Emma and Lucas. They were waiting fo
 
 *I'm failing them too,* he thought. *I'm failing everyone.*
 
-He put the phone down and leaned his head against the steering wheel. The tears came suddenly, without warning—hot, desperate, overwhelming.
+He put the phone down and leaned his head against the steering wheel. The tears came suddenly, without warning, hot, desperate, overwhelming.
 
 *What's happening to me?*
 
@@ -227,7 +227,7 @@ And for the first time in weeks, he meant it.
 
 At 8:30 AM, Marcus walked into the office.
 
-The space looked different in the morning light—brighter, less oppressive. His colleagues were at their desks, typing, talking, working. Normal. Everything looked normal.
+The space looked different in the morning light, brighter, less oppressive. His colleagues were at their desks, typing, talking, working. Normal. Everything looked normal.
 
 Marcus walked to his desk and sat down. His laptop was still there, the code from last night still on the screen. The bugs. The errors. The failure.
 

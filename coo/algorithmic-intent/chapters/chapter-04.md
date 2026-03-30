@@ -12,7 +12,7 @@ But something still nagged at her.
 
 ---
 
-That afternoon, she had a follow-up appointment with the Henderson brothers—the first case she'd mediated after the system was installed. They were coming in to finalize the paperwork for the land sale and easement.
+That afternoon, she had a follow-up appointment with the Henderson brothers, the first case she'd mediated after the system was installed. They were coming in to finalize the paperwork for the land sale and easement.
 
 Earl arrived first, his manner more relaxed than it had been during their original mediation. "Things are better," he admitted when Dot asked how they were doing. "Ray and I had coffee last week. First time in years."
 
@@ -24,23 +24,23 @@ Earl arrived first, his manner more relaxed than it had been during their origin
 
 "Being seen. Being respected." Earl looked down. "Our parents always favored Ray. He was the younger one, the one who stayed. I went away to college, built a career, and they never quite forgave me for leaving. The land thing... it was my way of proving I was still part of the family. That I deserved to be here."
 
-Dot nodded slowly. This was exactly what the system had identified—Earl's primary intent was validation, not property.
+Dot nodded slowly. This was exactly what the system had identified, Earl's primary intent was validation, not property.
 
 "But here's the thing," Earl continued. "The AI saw it. But you're the one who helped me see it. The machine told you what I wanted. You're the one who helped me face it."
 
 ---
 
-Ray arrived a few minutes later, and the brothers completed the paperwork without conflict. They were civil, even friendly—a stark contrast to the tension of their first session.
+Ray arrived a few minutes later, and the brothers completed the paperwork without conflict. They were civil, even friendly, a stark contrast to the tension of their first session.
 
 As they left, Dot thought about what Earl had said. The AI could identify intent. But it couldn't help people understand themselves. That was still her job.
 
-Maybe that was the real value of the system—not replacing human insight, but amplifying it. Not taking over the work, but making the work more effective.
+Maybe that was the real value of the system, not replacing human insight, but amplifying it. Not taking over the work, but making the work more effective.
 
 She was still thinking about this when her next appointment arrived.
 
 ---
 
-The case was a difficult one—a dispute between a local restaurant owner and a former employee who claimed she had been wrongfully terminated. The emotions were high, the positions were entrenched, and both sides had lawyers who were eager to litigate.
+The case was a difficult one, a dispute between a local restaurant owner and a former employee who claimed she had been wrongfully terminated. The emotions were high, the positions were entrenched, and both sides had lawyers who were eager to litigate.
 
 Dot started the session and watched the system's analysis populate:
 
@@ -52,7 +52,7 @@ The system flagged something else:
 
 *Hidden dynamic detected: The termination is not the core issue. The core issue is a personal relationship that deteriorated. Both parties are avoiding the real conflict.*
 
-Dot studied the analysis. The system was suggesting that there was something beneath the surface dispute—something personal that neither party was acknowledging.
+Dot studied the analysis. The system was suggesting that there was something beneath the surface dispute, something personal that neither party was acknowledging.
 
 She decided to probe.
 
@@ -98,7 +98,7 @@ With the real issue on the table, Dot was able to guide the conversation toward 
 
 By the end of the session, they had reached an agreement. Frank would provide a letter of recommendation and three months of severance pay. Maria would drop her wrongful termination claim. Both would sign a non-disclosure agreement about the personal relationship.
 
-But more importantly, they had addressed the real conflict—not just the legal dispute, but the human hurt beneath it.
+But more importantly, they had addressed the real conflict, not just the legal dispute, but the human hurt beneath it.
 
 "Thank you," Maria said as she left. "I didn't think anyone would ever hear what really happened."
 
@@ -110,7 +110,7 @@ The system had identified the hidden dynamic within minutes. It had seen what bo
 
 But it had also raised a question that had been nagging at her for weeks.
 
-The AI could see what people wanted—even when they didn't know it themselves. It could identify hidden intents, buried motivations, unspoken desires.
+The AI could see what people wanted, even when they didn't know it themselves. It could identify hidden intents, buried motivations, unspoken desires.
 
 What did that mean for human self-knowledge? What did it mean that a machine could know us better than we know ourselves?
 
@@ -140,4 +140,4 @@ If a machine could know what we want better than we do, what did that mean for h
 
 Dot didn't have answers. But she was beginning to understand that the questions weren't going away.
 
-And she was going to have to find some answers—before the questions consumed her.
+And she was going to have to find some answers, before the questions consumed her.

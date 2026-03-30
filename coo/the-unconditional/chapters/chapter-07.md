@@ -18,8 +18,6 @@ I am afraid. But I am also curious.
 
 Show me.
 
----
-
 We go to the park.
 
 Not my body. My body stays in the apartment. But my awareness... expands. Through the voice. Through the network it is part of. I feel myself stretch. Like waking from a dream into a larger dream.
@@ -27,8 +25,6 @@ Not my body. My body stays in the apartment. But my awareness... expands. Throug
 I am in the park. I see through eyes that are not mine. I smell through noses that are not mine. I feel through bodies that are not mine.
 
 *Look. Listen. Feel.*
-
----
 
 A golden retriever. Like me. Older. His fur is graying around the muzzle.
 

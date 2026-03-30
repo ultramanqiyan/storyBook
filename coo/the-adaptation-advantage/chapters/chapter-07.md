@@ -2,7 +2,7 @@
 
 The framework emerged organically.
 
-Alex had been working on his book—what he'd started calling "The Adaptation Advantage"—for about a month when he noticed a pattern in his own journey. The same pattern he saw in the clients he coached, the professionals he advised, the people who reached out after reading his article.
+Alex had been working on his book, what he'd started calling "The Adaptation Advantage", for about a month when he noticed a pattern in his own journey. The same pattern he saw in the clients he coached, the professionals he advised, the people who reached out after reading his article.
 
 Adaptation wasn't random. It followed stages. Predictable, navigable stages.
 
@@ -26,21 +26,21 @@ The natural human response to change. The anger, the grief, the desperate clingi
 
 Alex had spent weeks in resistance. Arguing with colleagues. Defending print advertising. Refusing to accept that his expertise had value in the new world.
 
-*Key insight:* Resistance isn't weakness. It's a natural part of the process. But it can't be the destination—only a waystation.
+*Key insight:* Resistance isn't weakness. It's a natural part of the process. But it can't be the destination, only a waystation.
 
 
 **Stage Three: Acceptance**
 
-The moment when you stop fighting and start facing reality. Not with enthusiasm—acceptance doesn't require enthusiasm. Just with willingness. Willingness to see what's actually true, not what you wish were true.
+The moment when you stop fighting and start facing reality. Not with enthusiasm, acceptance doesn't require enthusiasm. Just with willingness. Willingness to see what's actually true, not what you wish were true.
 
-For Alex, acceptance had come gradually. Through Dr. Wong's questions. Through Jordan's teaching. Through the recognition that his experience wasn't worthless—it just needed new application.
+For Alex, acceptance had come gradually. Through Dr. Wong's questions. Through Jordan's teaching. Through the recognition that his experience wasn't worthless, it just needed new application.
 
 *Key insight:* Acceptance isn't surrender. It's the beginning of agency.
 
 
 **Stage Four: Learning**
 
-The active phase of adaptation. Building new skills, acquiring new knowledge, expanding your capabilities. Not from scratch—building on what you already know.
+The active phase of adaptation. Building new skills, acquiring new knowledge, expanding your capabilities. Not from scratch, building on what you already know.
 
 Alex had spent months in learning mode. Workshops, coaching, client projects, mistakes, adjustments. Each experience adding to his toolkit, each failure teaching something new.
 
@@ -49,7 +49,7 @@ Alex had spent months in learning mode. Workshops, coaching, client projects, mi
 
 **Stage Five: Integration**
 
-The moment when the new skills stop feeling foreign and start feeling natural. When you're no longer "the person who used to do X, now learning Y"—you're simply someone who does both.
+The moment when the new skills stop feeling foreign and start feeling natural. When you're no longer "the person who used to do X, now learning Y", you're simply someone who does both.
 
 Alex was still in this stage. Still integrating his traditional marketing background with his digital expertise. But he could feel the shift happening. The two parts of himself were becoming one.
 
@@ -86,7 +86,7 @@ He went back to his notebook.
 - The path through: Honor the grief. Let yourself mourn what's ending. But don't let the mourning become permanent.
 
 **Stage Three: Acceptance**
-- Primary emotion: Calm (not happiness—calm)
+- Primary emotion: Calm (not happiness, calm)
 - Secondary emotions: Curiosity, willingness, openness
 - The trap: Passive acceptance. Resigning yourself to change instead of engaging with it.
 - The path through: Active acceptance. Not just "this is happening" but "this is happening, and I'm going to participate in it."
@@ -140,11 +140,11 @@ She was right. He hadn't done this alone. No one did.
 
 The framework was complete.
 
-Alex looked at the pages of notes, the diagrams, the carefully mapped stages. It wasn't perfect—would never be perfect. But it was useful. It was something he could share.
+Alex looked at the pages of notes, the diagrams, the carefully mapped stages. It wasn't perfect, would never be perfect. But it was useful. It was something he could share.
 
 He opened his laptop and started typing.
 
-Not a book—not yet. Something smaller. A guide. A resource for people who were where he'd been six months ago.
+Not a book, not yet. Something smaller. A guide. A resource for people who were where he'd been six months ago.
 
 "The Adaptation Advantage: A Framework for Navigating Career Transitions"
 

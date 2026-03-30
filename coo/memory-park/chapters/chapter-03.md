@@ -24,7 +24,7 @@ When he finally told her, they had sat in their kitchen for hours, not speaking,
 
 Elena had wanted to argue. She had wanted to say that memories weren't the same as the person, that data wasn't the same as a soul, that she didn't want a digital ghost of her husband, she wanted the man himself, whole and alive and aging naturally toward death.
 
-But she had looked at his face, at the fear and determination and love there, and she had nodded. Because this was what David needed. This was how he was going to face his mortality—not with acceptance, but with defiance, with the belief that he could outsmart death itself.
+But she had looked at his face, at the fear and determination and love there, and she had nodded. Because this was what David needed. This was how he was going to face his mortality, not with acceptance, but with defiance, with the belief that he could outsmart death itself.
 
 ---
 
@@ -40,7 +40,7 @@ But his memories remained. His digital self, preserved in the system he had help
 
 For two years, Elena had lived in the space between grief and hope. She visited David's archive daily, immersing herself in his memories, reliving their life together. She knew it wasn't healthy. The counselors told her so, the therapists warned her about the dangers of becoming lost in the past. But she couldn't stop. The memories were all she had left of him, and she wasn't ready to let go.
 
-She had experienced every moment he had archived. Their first meeting. Their wedding. The birth of their daughter, Sarah, who had died in infancy—a memory David had preserved but Elena had never been able to access, too painful even for her grief. Their arguments. Their reconciliations. The ordinary days of their ordinary life, made precious by their ending.
+She had experienced every moment he had archived. Their first meeting. Their wedding. The birth of their daughter, Sarah, who had died in infancy, a memory David had preserved but Elena had never been able to access, too painful even for her grief. Their arguments. Their reconciliations. The ordinary days of their ordinary life, made precious by their ending.
 
 And through it all, she had felt David's presence. Not just the recorded memories, but something else. A sense of him that persisted beyond the data, beyond the digital reconstruction of his experience.
 

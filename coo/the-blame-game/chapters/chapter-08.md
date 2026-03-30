@@ -92,11 +92,11 @@ Mark walked out of the conference room. David walked beside him.
 
 They didn't speak.
 
-They reached Mark's desk. It looked the same as always—his laptop, his coffee cup, his family photo.
+They reached Mark's desk. It looked the same as always,his laptop, his coffee cup, his family photo.
 
 "Take what you need," David said. "I'll wait."
 
-Mark opened his desk drawer. He took out his personal items—a few books, a plant, a coffee mug. He put them in a box that David had brought.
+Mark opened his desk drawer. He took out his personal items,a few books, a plant, a coffee mug. He put them in a box that David had brought.
 
 He looked at his family photo. His wife and daughter smiled back at him.
 
@@ -142,6 +142,6 @@ He walked to his car. He put the box in the trunk. He sat in the driver's seat.
 
 He didn't start the engine. He just sat there, staring at the steering wheel.
 
-*I was the answer,* he thought. *Not the solution—the answer. Someone had to pay. It was me.*
+*I was the answer,* he thought. *Not the solution,the answer. Someone had to pay. It was me.*
 
 He started the engine and drove away.

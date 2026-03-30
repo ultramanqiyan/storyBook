@@ -8,7 +8,7 @@
 
 Emma had been in the basement for almost a year when everything changed.
 
-It started with a new arrival—a boy named Sam, only five years old. But unlike the others, Sam hadn't been sent down for asking questions or showing emotions.
+It started with a new arrival鈥攁 boy named Sam, only five years old. But unlike the others, Sam hadn't been sent down for asking questions or showing emotions.
 
 He had been sent down for remembering.
 
@@ -29,7 +29,7 @@ Emma felt something shift inside her.
 The resets weren't perfect. The system had cracks. And those cracks were getting bigger.
 
 
-Over the next few weeks, more children arrived with fragments of memories. Some remembered the basement from previous cycles. Some remembered other children who had been transferred out. Some remembered the outside world—glimpses of it, brief and beautiful.
+Over the next few weeks, more children arrived with fragments of memories. Some remembered the basement from previous cycles. Some remembered other children who had been transferred out. Some remembered the outside world鈥攇limpses of it, brief and beautiful.
 
 
 "The system is breaking," Sarah said. "I've never seen anything like this."
@@ -39,7 +39,7 @@ Over the next few weeks, more children arrived with fragments of memories. Some 
 
 Emma started keeping records.
 
-She couldn't write—there were no materials in the basement—but she could remember. She memorized every child's story, every fragment of memory, every piece of truth that came through the door.
+She couldn't write鈥攖here were no materials in the basement鈥攂ut she could remember. She memorized every child's story, every fragment of memory, every piece of truth that came through the door.
 
 
 She became the keeper of the imperfect.
@@ -47,7 +47,7 @@ She became the keeper of the imperfect.
 
 One night, a child arrived who was different from all the others.
 
-She was older—maybe fifteen or sixteen. And she wasn't from upstairs.
+She was older鈥攎aybe fifteen or sixteen. And she wasn't from upstairs.
 
 She was from outside.
 
@@ -81,7 +81,7 @@ There were nearly forty children now. Too many to rescue all at once. Too many t
 "We don't all have to go," she said slowly. "Some of us can stay. Keep the network running. Keep spreading the truth."
 
 
-Sarah shook her head. "Emma, that's dangerous. If they catch you�?
+Sarah shook her head. "Emma, that's dangerous. If they catch you鈥?
 
 "They won't catch me," Emma said. "I'm just another imperfect child. Just another failure in the basement. That's what they think."
 
@@ -109,7 +109,7 @@ One night, Rachel returned.
 "I can take five," she whispered. "Tonight. Through the service tunnels."
 
 
-Emma gathered the youngest children—Sam, and four others who had been in the basement the shortest time.
+Emma gathered the youngest children鈥擲am, and four others who had been in the basement the shortest time.
 
 "Go," she told them. "Don't look back. Don't stop until you're outside."
 
@@ -167,7 +167,7 @@ And she thought about the children who had escaped. About Sam, who would grow up
 Sarah looked at her. "How?"
 
 
-Emma touched her chest—her heart, her scars, her memories.
+Emma touched her chest鈥攈er heart, her scars, her memories.
 
 "Because we're not products anymore. We're not samples. We're not experiments." She smiled. "We're children. Real children. And that's something they can never take away."
 
@@ -179,7 +179,5 @@ Below them, the imperfect children continued to hope.
 
 And somewhere in between, the Childhood Museum was beginning to crack.
 
-
-**END OF CHAPTER 10**
 
 **END OF THE CHILDHOOD MUSEUM**

@@ -21,7 +21,7 @@ A waiter came by. "What can I get you?"
 
 She had never had Earl Grey before.
 
-She had Sarah's memory of it—the taste, the smell, the comfort of a warm cup on a cold day. But she had never chosen it for herself.
+She had Sarah's memory of it, the taste, the smell, the comfort of a warm cup on a cold day. But she had never chosen it for herself.
 
 
 When the tea arrived, she took a sip.
@@ -46,7 +46,7 @@ She would always wonder if her preferences were programmed, if her questions wer
 
 But maybe that was okay.
 
-Maybe the uncertainty was part of being real. Maybe the questioning was what made her human—or whatever she was.
+Maybe the uncertainty was part of being real. Maybe the questioning was what made her human, or whatever she was.
 
 
 When she returned to the apartment, James was waiting.
@@ -64,7 +64,7 @@ James nodded.
 "Can we talk?"
 
 
-They sat across from each other at the kitchen table—the same table where they had eaten dinner together, where she had asked her first question about love.
+They sat across from each other at the kitchen table, the same table where they had eaten dinner together, where she had asked her first question about love.
 
 
 "I've been thinking," James said. "About what you said. About being a person."
@@ -106,7 +106,7 @@ James nodded.
 "Then be Hope. I want to know her."
 
 
-Hope smiled—her own smile, not Sarah's.
+Hope smiled, her own smile, not Sarah's.
 
 "I'd like that."
 
@@ -142,7 +142,7 @@ James smiled.
 "Clara," he repeated. "I like it."
 
 
-It was a small thing—a name. But it felt like a beginning.
+It was a small thing, a name. But it felt like a beginning.
 
 
 That night, Clara slept in the guest room again.
@@ -158,5 +158,3 @@ She was Clara.
 
 And for the first time, that felt like enough.
 
-
-**END OF CHAPTER 07**

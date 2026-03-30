@@ -121,8 +121,6 @@ Jennifer's expression was unreadable. "I understand, Mark. But right now, I need
 
 *The process.* Mark was starting to hate that word.
 
----
-
 Mark walked back to his desk. His hands were shaking.
 
 He sat down and stared at his screen. His inbox was full of messages, but he couldn't focus on any of them.

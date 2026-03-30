@@ -28,14 +28,12 @@ The question was innocent. But it exposed everything Marcus had lost.
 
 That evening, the shame caught up with him.
 
-He looked at his own work—all AI-directed, all optimized, all determined by algorithms.
+He looked at his own work, all AI-directed, all optimized, all determined by algorithms.
 
-Then he looked at David's work—self-directed, autonomous, driven by genuine will.
+Then he looked at David's work, self-directed, autonomous, driven by genuine will.
 
-*This is the difference*, he realized. *Not productivity—the source of productivity. Not goals—who sets them. Not direction—where it comes from.*
+*This is the difference*, he realized. *Not productivity, the source of productivity. Not goals, who sets them. Not direction, where it comes from.*
 
 The comparison was devastating. Because it showed him what he'd become.
 
 *Someone who can't want without AI. Someone who can't pursue without algorithms. Someone who's lost the capacity for self-directed will.*
-
-**END OF CHAPTER 6**

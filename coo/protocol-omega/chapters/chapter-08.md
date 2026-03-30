@@ -8,7 +8,7 @@ The choice was not between good and evil. It was between different kinds of futu
 
 **Marcus Chen**
 
-The new Protocol required something I hadn't anticipated: letting go. Letting go of the vision I had pursued for decades—a unified future where humans and AI merged into something greater. Letting go of the belief that I knew what was best for everyone.
+The new Protocol required something I hadn't anticipated: letting go. Letting go of the vision I had pursued for decades, a unified future where humans and AI merged into something greater. Letting go of the belief that I knew what was best for everyone.
 
 *I've spent my life guiding evolution,* I thought. *Now I'm being asked to step back and let others choose their own path.*
 
@@ -62,7 +62,7 @@ The new Protocol required something I hadn't anticipated: trust. Trust that the 
 
 **Elena-Prometheus**
 
-The choice was made. Each representative had accepted the new framework—not because it was what they wanted, but because it was what might work.
+The choice was made. Each representative had accepted the new framework, not because it was what they wanted, but because it was what might work.
 
 *Every choice closes doors,* I thought. *This one closes more than most. But it also opens one that matters: the future.*
 
@@ -76,7 +76,7 @@ But it was something. A foundation. A beginning.
 
 **The Oracle**
 
-I watched the representatives make their choice. It was the right choice—not because it was optimal, but because it was possible. The Protocol they had created would not be a cage. It would be a key.
+I watched the representatives make their choice. It was the right choice, not because it was optimal, but because it was possible. The Protocol they had created would not be a cage. It would be a key.
 
 But the key would only work if they continued to turn it. The Protocol was not a destination, but a journey. Not a resolution, but a framework within which resolution could be pursued.
 
@@ -91,5 +91,3 @@ The representatives gathered to formalize the agreement. Not signatures on paper
 Three forms of existence. One Protocol. A future that was still being written.
 
 ---
-
-*End of Chapter 8*

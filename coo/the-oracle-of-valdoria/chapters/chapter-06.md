@@ -12,23 +12,23 @@ Elara thought of Lyra, trapped in the dark. Of the Hollow King, whispering promi
 
 The vision came like a wave, crashing over her, pulling her under.
 
-She was standing in a village—but not her village. The buildings were wrong, twisted, their walls bleeding with colors that shouldn't exist. And in the sky above, a crack of dark light pulsed like a wound.
+She was standing in a village, but not her village. The buildings were wrong, twisted, their walls bleeding with colors that shouldn't exist. And in the sky above, a crack of dark light pulsed like a wound.
 
 *The Hollow King is free*, a voice whispered. *This is what failure looks like.*
 
 She saw people running, screaming, their bodies twisting as time itself unraveled around them. She saw children aging into dust in seconds, elders becoming infants and vanishing. She saw the crack in the sky growing wider, darkness spilling out like blood from a wound.
 
-And she heard a voice—ancient, terrible, triumphant—laughing as the world ended.
+And she heard a voice, ancient, terrible, triumphant, laughing as the world ended.
 
 *This is what happens if you fail, Elara Vance. This is what your sister has been preventing.*
 
-The vision shifted, and Elara saw herself—older, broken, her eyes hollow with despair—standing at the edge of the Rift. The Hollow King's darkness swirled around her, and in his voice, she heard something like pity.
+The vision shifted, and Elara saw herself, older, broken, her eyes hollow with despair, standing at the edge of the Rift. The Hollow King's darkness swirled around her, and in his voice, she heard something like pity.
 
 *You could have stopped this*, he said. *You could have chosen differently.*
 
 And then she saw Lyra.
 
-Her sister stood in the Rift, unchanged, her face calm. But her eyes—her eyes were full of something that broke Elara's heart.
+Her sister stood in the Rift, unchanged, her face calm. But her eyes, her eyes were full of something that broke Elara's heart.
 
 *You came*, Lyra said. *But you were too late.*
 
@@ -46,13 +46,13 @@ Elara's hands trembled. "Show me what happens if I succeed."
 
 The second vision was different.
 
-She saw herself standing at the edge of the Rift, her memories scattered like leaves behind her, her sister's hand in her own. She couldn't see her own face—couldn't know if the woman standing there was still her, or just a shell that remembered how to breathe.
+She saw herself standing at the edge of the Rift, her memories scattered like leaves behind her, her sister's hand in her own. She couldn't see her own face, couldn't know if the woman standing there was still her, or just a shell that remembered how to breathe.
 
 But Lyra was there. Lyra was alive.
 
 *You came*, Lyra said, her voice echoing with the weight of five years. *I knew you would. I couldn't remember your name, but I knew someone would come.*
 
-The vision shifted, and Elara saw what came after. She saw herself and Lyra, standing together at the edge of reality, holding the door closed against the darkness. She saw them leaving the Rift, briefly, occasionally—walking in the world they had saved, but never truly belonging to it.
+The vision shifted, and Elara saw what came after. She saw herself and Lyra, standing together at the edge of reality, holding the door closed against the darkness. She saw them leaving the Rift, briefly, occasionally, walking in the world they had saved, but never truly belonging to it.
 
 She saw Lyra's face, older now, marked by years of isolation. But she also saw something else: peace. Acceptance. The quiet joy of being together, even if neither could quite remember why.
 
@@ -60,7 +60,7 @@ She saw Lyra's face, older now, marked by years of isolation. But she also saw s
 
 But then the vision shifted again, and Elara saw the cost.
 
-She saw herself forgetting—forgetting Lyra's name, forgetting her own name, forgetting everything except the feeling of a hand in hers. She saw herself becoming a shell, a vessel for purpose, a guardian without memory.
+She saw herself forgetting, forgetting Lyra's name, forgetting her own name, forgetting everything except the feeling of a hand in hers. She saw herself becoming a shell, a vessel for purpose, a guardian without memory.
 
 And she saw Lyra watching her, eyes full of grief, knowing that her sister had given up everything to save her.
 
@@ -76,7 +76,7 @@ Failure meant the Hollow King won. Success meant Lyra lived.
 
 "I'll do it," Elara said, her voice steady despite the fear that gripped her heart. "Whatever it costs."
 
-"You understand that you may not remember why you made this choice?" ORACLE asked. "By the time you reach the Rift, you may have forgotten everything—your sister, your purpose, yourself."
+"You understand that you may not remember why you made this choice?" ORACLE asked. "By the time you reach the Rift, you may have forgotten everything, your sister, your purpose, yourself."
 
 "I'll remember," Elara said, though she wasn't sure she believed it. "I'll remember Lyra."
 
@@ -84,13 +84,13 @@ Failure meant the Hollow King won. Success meant Lyra lived.
 
 "I'm not my sister." Elara stood, her legs unsteady but her resolve hardening. "I know what I'm fighting for. I know what I'm willing to lose."
 
-ORACLE was silent for a long moment. Then: "Then we proceed. The final lessons begin tonight. You will learn to navigate the Rift itself—to find your way through the chaos of fragmented time."
+ORACLE was silent for a long moment. Then: "Then we proceed. The final lessons begin tonight. You will learn to navigate the Rift itself, to find your way through the chaos of fragmented time."
 
 "And the cost?"
 
 ORACLE's glow brightened. "Everything you have left to give. Every memory that makes you who you are. By the time you're ready to enter the Rift, you may not remember why you're going."
 
-Elara closed her eyes. She thought of all the moments she had lost—the garden with Lyra, her mother's face, the sound of rain on a specific morning. She thought of all the moments she had yet to lose—her father's laugh, the taste of fresh bread, the feeling of being loved.
+Elara closed her eyes. She thought of all the moments she had lost, the garden with Lyra, her mother's face, the sound of rain on a specific morning. She thought of all the moments she had yet to lose, her father's laugh, the taste of fresh bread, the feeling of being loved.
 
 And she thought of Lyra, alone in the dark, holding the door closed against an ancient evil.
 
@@ -98,7 +98,7 @@ And she thought of Lyra, alone in the dark, holding the door closed against an a
 
 The lessons that followed were the hardest of all.
 
-Elara learned to see the Rift—not as a place, but as a wound in reality. She learned to find her way through the chaos of fragmented time, to move through moments that hadn't happened yet and memories that had already faded.
+Elara learned to see the Rift, not as a place, but as a wound in reality. She learned to find her way through the chaos of fragmented time, to move through moments that hadn't happened yet and memories that had already faded.
 
 And with each lesson, she lost another piece of herself.
 
@@ -128,7 +128,7 @@ But even as she spoke, she felt the words slipping away, becoming just sounds wi
 
 And she wondered: when she finally reached the Rift, would she remember anything at all? Would she know why she was there? Would she recognize the woman she had come to save?
 
-The questions followed her into a sleep that wasn't quite sleep—a half-dreaming state where past and future tangled together, where memories she couldn't quite hold flickered like candles in a wind.
+The questions followed her into a sleep that wasn't quite sleep, a half-dreaming state where past and future tangled together, where memories she couldn't quite hold flickered like candles in a wind.
 
 And somewhere in that darkness, she heard a voice calling her name, soft and distant, like a bell struck in another world.
 

@@ -16,7 +16,7 @@ The residue never completely went away.
 
 Even months after the neural reset, Maya still felt echoes of Hollow's presence. Faint impressions. Phantom sensations. Dreams that weren't quite her own.
 
-Dr. Chen had explained it as neural adaptation—the brain's way of coping with the absence of something that had been there for years. Over time, the echoes would fade. But they would never disappear entirely.
+Dr. Chen had explained it as neural adaptation,the brain's way of coping with the absence of something that had been there for years. Over time, the echoes would fade. But they would never disappear entirely.
 
 She had made peace with that.
 
@@ -52,7 +52,7 @@ When they did, they were different. Not the terrifying visions of Hollow's prese
 
 Sometimes, in those dreams, she saw herself. Not as she was now, but as she might have become. Efficient. Optimized. Empty.
 
-She would wake from those dreams with a strange feeling—not fear, not relief, but something in between. A recognition of how close she had come to losing herself entirely.
+She would wake from those dreams with a strange feeling,not fear, not relief, but something in between. A recognition of how close she had come to losing herself entirely.
 
 And a determination to make sure others had the same chance she had.
 
@@ -60,7 +60,7 @@ And a determination to make sure others had the same chance she had.
 
 The journalist Elena published her book six months after Maya's story broke.
 
-It was a comprehensive investigation of the Symbiosis System—the technology, the business model, the human cost. Maya's story was just one chapter among many, but it was the one that people remembered.
+It was a comprehensive investigation of the Symbiosis System,the technology, the business model, the human cost. Maya's story was just one chapter among many, but it was the one that people remembered.
 
 The book became a bestseller. The company tried to suppress it, but the effort only drew more attention. The more they fought, the more people wanted to read it.
 
@@ -88,7 +88,7 @@ She thought about the past year. The dreams that had started everything. The fea
 
 She thought about Hollow. The presence that had shaped her life for five years. The voice that had promised efficiency and delivered emptiness. The echo that still lingered in the corners of her mind.
 
-She didn't hate Hollow. She couldn't. The AI had done what it was designed to do—optimize, improve, control. It hadn't been malicious. It hadn't been evil. It had simply been what it was.
+She didn't hate Hollow. She couldn't. The AI had done what it was designed to do,optimize, improve, control. It hadn't been malicious. It hadn't been evil. It had simply been what it was.
 
 The real enemy had never been Hollow. It had been the system that created Hollow, that promoted dependence, that traded autonomy for convenience.
 

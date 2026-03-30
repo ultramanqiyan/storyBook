@@ -26,12 +26,12 @@ She called Marcus first. He didn't answer. She called Sarah. No answer. She call
 
 Elena handed her the ruling. Maria read it in silence, her face growing paler with each page.
 
-"This is... this can't be right. We had evidence. We had testimony. We had�?
+"This is... this can't be right. We had evidence. We had testimony. We had鈥?
 
 "We had everything." Elena's voice was hollow. "And it didn't matter."
 
 
-The town meeting that night was the hardest thing Elena had ever done. The community center was packed—more people than had ever come before. Word had spread about the ruling, and everyone wanted to hear what had happened.
+The town meeting that night was the hardest thing Elena had ever done. The community center was packed鈥攎ore people than had ever come before. Word had spread about the ruling, and everyone wanted to hear what had happened.
 
 Elena stood at the front of the room, the ruling in her hands, and told them the truth.
 
@@ -47,7 +47,7 @@ A man in the back stood up. "So that's it? We just give up?"
 
 "For how long?" a woman called out. "My farm is already dead. My kids have already moved away. What's left to fight for?"
 
-Elena didn't have an answer. She looked at the faces before her—people who had trusted her, believed in her, pinned their hopes on her. And she had failed them.
+Elena didn't have an answer. She looked at the faces before her鈥攑eople who had trusted her, believed in her, pinned their hopes on her. And she had failed them.
 
 
 After the meeting, Elena sat alone in the community center, the chairs still arranged in rows, the air stale with disappointment. She heard footsteps and looked up to find Sarah Miller standing in the doorway.
@@ -73,7 +73,7 @@ And there was nothing she could do about it.
 
 She pulled over at the bridge where she'd first seen the dry riverbed. The moon was full, casting enough light to see the cracks in the earth, the debris of dead plants, the empty channels where water should have flowed.
 
-She got out of her car and walked to the edge. The silence was absolute—not even the sound of wind, just a stillness that felt unnatural, as if the land itself had stopped breathing.
+She got out of her car and walked to the edge. The silence was absolute鈥攏ot even the sound of wind, just a stillness that felt unnatural, as if the land itself had stopped breathing.
 
 Elena stood there for a long time, looking at what had been lost. The farms. The families. The future.
 
@@ -113,11 +113,11 @@ He walked in without knocking, his smile as polished as ever.
 
 Whitfield didn't leave. He sat in the chair across from her desk, crossing his legs comfortably. "I also wanted to extend an offer. The one we discussed before. It's still on the table."
 
-"I told you before—I'm not interested."
+"I told you before鈥擨'm not interested."
 
 "You lost, Elena." His voice was softer now, almost gentle. "The case is dismissed. Your clients have nothing. You've spent months on this, and you have nothing to show for it. NeuralCore is offering you a way out. A good job. A real career. A future."
 
-Elena looked at him—really looked at him. At the smooth confidence, the polished smile, the absolute certainty that he had won.
+Elena looked at him鈥攔eally looked at him. At the smooth confidence, the polished smile, the absolute certainty that he had won.
 
 "You think this is over," she said.
 
@@ -146,5 +146,3 @@ Elena stared at the message. What was the point? They'd lost. The case was dismi
 
 But she typed back anyway: "I'll be there."
 
-
-**END OF CHAPTER 7**

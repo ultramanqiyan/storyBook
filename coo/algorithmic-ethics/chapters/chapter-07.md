@@ -8,7 +8,7 @@ She opened it and felt her stomach tighten.
 
 *UrbanTech Solutions has requested a performance review of the Garden Network AI System. The review will assess whether the modified optimization parameters have achieved their intended goals. A finding of underperformance may result in system reversion to original parameters.*
 
-The words were clinical, but Marie understood their meaning. UrbanTech was challenging the changes she had fought for. They wanted to prove that the new parameters—community value, cultural significance, human impact—had made the system worse, not better.
+The words were clinical, but Marie understood their meaning. UrbanTech was challenging the changes she had fought for. They wanted to prove that the new parameters, community value, cultural significance, human impact, had made the system worse, not better.
 
 She called Patricia immediately.
 
@@ -20,11 +20,11 @@ She called Patricia immediately.
 
 "What counts as underperformance?"
 
-"That's the problem. The original contract defined success in terms of efficiency metrics—yield, water usage, cost. The new parameters added community value, but there's no baseline for comparison. UrbanTech can argue that we've made the system less efficient without proving that we've made it more valuable."
+"That's the problem. The original contract defined success in terms of efficiency metrics, yield, water usage, cost. The new parameters added community value, but there's no baseline for comparison. UrbanTech can argue that we've made the system less efficient without proving that we've made it more valuable."
 
 Marie felt the familiar weight of fighting for things that couldn't be measured. "So we need to prove that the new parameters are working."
 
-"Yes. And we need to do it in terms UrbanTech understands—data, metrics, outcomes."
+"Yes. And we need to do it in terms UrbanTech understands, data, metrics, outcomes."
 
 ---
 
@@ -44,7 +44,7 @@ Amara arrived at the garden the next day, her notebook already open.
 
 "How?"
 
-"By showing that efficiency and community value aren't opposites—they're connected. The gardens that score highest on community value also perform well on efficiency metrics. The AI's original parameters were measuring the wrong things."
+"By showing that efficiency and community value aren't opposites, they're connected. The gardens that score highest on community value also perform well on efficiency metrics. The AI's original parameters were measuring the wrong things."
 
 Amara spread her notes across Marie's desk. "Look at this. Since we added the community value parameters, overall yield across the network has increased by twelve percent. Water efficiency has improved by eight percent. Volunteer hours have tripled. The gardens are more productive, not less."
 
@@ -54,13 +54,13 @@ Amara spread her notes across Marie's desk. "Look at this. Since we added the co
 
 Marie felt hope flicker. "So we can prove that the new parameters are working."
 
-"We can prove they're working better than the old ones. But we need to present it right. UrbanTech will try to frame this as a trade-off—efficiency versus community. We need to show that it's actually a synergy."
+"We can prove they're working better than the old ones. But we need to present it right. UrbanTech will try to frame this as a trade-off, efficiency versus community. We need to show that it's actually a synergy."
 
 ---
 
 The performance review was held in a conference room at UrbanTech's downtown office.
 
-Marie sat across from three executives in expensive suits, their faces neutral, their tablets ready. Patricia was there too, but she couldn't speak—she was technically on Marie's side, which meant she had to remain silent during the review.
+Marie sat across from three executives in expensive suits, their faces neutral, their tablets ready. Patricia was there too, but she couldn't speak, she was technically on Marie's side, which meant she had to remain silent during the review.
 
 "Ms. Fontenot," the lead executive began, "we've reviewed the data from the past year. The modified system has achieved some positive outcomes. However, efficiency metrics have not improved as projected."
 
@@ -76,11 +76,11 @@ The executives looked at the data. Marie pressed on.
 
 She showed more charts, more data, more evidence. The executives listened, their faces unreadable.
 
-"The original system recommended closing Garden E because it was inefficient," Marie continued. "But Garden E is now the most productive garden in the network, by any measure. Not because we optimized it, but because we invested in its community. The gardeners there have built something that can't be calculated—but the results can be measured."
+"The original system recommended closing Garden E because it was inefficient," Marie continued. "But Garden E is now the most productive garden in the network, by any measure. Not because we optimized it, but because we invested in its community. The gardeners there have built something that can't be calculated, but the results can be measured."
 
 She paused, looking at each executive in turn.
 
-"You wanted to know if the modified system is working. The answer is yes. It's working better than the original system, by your own metrics. The question isn't whether we should keep the new parameters—it's whether we should expand them."
+"You wanted to know if the modified system is working. The answer is yes. It's working better than the original system, by your own metrics. The question isn't whether we should keep the new parameters, it's whether we should expand them."
 
 ---
 
@@ -88,7 +88,7 @@ The executives deliberated for an hour.
 
 Marie waited in the hallway, her heart pounding. Patricia joined her, her face tight with tension.
 
-"They're not going to revert the system," Patricia said quietly. "The data is too strong. But they might try to modify it—add parameters that dilute what we've built."
+"They're not going to revert the system," Patricia said quietly. "The data is too strong. But they might try to modify it, add parameters that dilute what we've built."
 
 "What kind of parameters?"
 
@@ -142,4 +142,4 @@ Mrs. Rossi took her hand. "Your mother would be proud."
 
 They sat in silence, watching the sunset, surrounded by the garden they had saved. Tomorrow would bring new challenges, new reviews, new fights. But tonight, they rested.
 
-The garden was safe. The community was strong. And Marie Fontenot had learned that the fight for what matters never ends—but neither does the hope.
+The garden was safe. The community was strong. And Marie Fontenot had learned that the fight for what matters never ends, but neither does the hope.

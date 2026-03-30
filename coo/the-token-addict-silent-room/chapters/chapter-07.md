@@ -49,5 +49,3 @@ Every interaction was a struggle. Every conversation was a failure. Every connec
 *This is what I've become*, he thought. *Someone who can't communicate without AI. Someone trapped in silence.*
 
 The realization was terrifying. But there was no AI to process it for him.
-
-**END OF CHAPTER 7**

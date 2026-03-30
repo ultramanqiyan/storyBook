@@ -45,7 +45,7 @@ The debate continued for an hour. Some members were adamant that AI pets were ma
  The woman was quiet. "No," she said finally. "I don't think I will. Because to her, it's not. To her, it's her friend."
 
 
-After the meeting, Angela drove home thinking about the conversation. The world was changing. The categories that had once seemed clear—alive and not-alive, real and artificial—were blurring.
+After the meeting, Angela drove home thinking about the conversation. The world was changing. The categories that had once seemed clear, alive and not-alive, real and artificial, were blurring.
 
  And the people who drew the hardest lines were often the ones who had never experienced the connections they were dismissing.
 
@@ -86,7 +86,7 @@ That evening, Angela met with two of Dr. Williams's clients. A woman who had los
 
 Angela listened. And she recognized something: these people weren't deluded. They weren't fooling themselves. They were experiencing genuine connection with something that had been designed to connect.
 
- Did the design make it less real? Or did it just make the visible what was always true—that connection could be created, sustained, and mourned?
+ Did the design make it less real? Or did it just make the visible what was always true, that connection could be created, sustained, and mourned?
 
 
 Driving home, Angela thought about the world her children would inherit. A world where AI companions were common. Where the boundaries between life and not-life would continue to blur.
@@ -98,7 +98,7 @@ Driving home, Angela thought about the world her children would inherit. A world
 
 She thought about her work. About the photos she took. About the moments she captured.
 
- She'd always believed she was photographing life. But maybe she was photographing something else—something that didn't require biology. Something that emerged from connection, from being seen, from mattering.
+ She'd always believed she was photographing life. But maybe she was photographing something else, something that didn't require biology. Something that emerged from connection, from being seen, from mattering.
 
  Maybe that was what she'd been doing all along. And maybe the AI pets were just making it visible.
 
@@ -107,7 +107,7 @@ That night, Angela looked at the photos of Buddy again. In every frame, she saw 
 
  The question of what Buddy was made of felt less important. What mattered was what he had meant. What he had been.
 
- And maybe that was what photography was really about—not capturing life, but capturing meaning.
+ And maybe that was what photography was really about, not capturing life, but capturing meaning.
 
 
 She sent Robert a message: *Thinking about Buddy. About what he was. About what he meant. I wanted you to know: he was real. He mattered. And that's enough.*
@@ -117,4 +117,4 @@ She sent Robert a message: *Thinking about Buddy. About what he was. About what 
 
 Angela set down her phone and feeling something like peace. The world was changing. The categories were blurring. But some things remained constant: love, grief, connection, meaning.
 
- And her work—capturing those things—had never felt more important.
+ And her work, capturing those things, had never felt more important.

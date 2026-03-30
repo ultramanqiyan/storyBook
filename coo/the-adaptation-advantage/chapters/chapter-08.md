@@ -2,13 +2,13 @@
 
 The email arrived on a Wednesday morning.
 
-"Hi Alex, I read the article about you in the Austin Business Journal. I'm going through something similar—a career transition I didn't choose—and I'm struggling. Would you be willing to talk? I'd really appreciate some guidance."
+"Hi Alex, I read the article about you in the Austin Business Journal. I'm going through something similar, a career transition I didn't choose, and I'm struggling. Would you be willing to talk? I'd really appreciate some guidance."
 
 The sender was a woman named Rachel Morrison. Alex didn't recognize the name, but he recognized the desperation in her words.
 
 He'd been there.
 
-He typed back: "I'd be happy to talk. Here's my calendar link—find a time that works for you."
+He typed back: "I'd be happy to talk. Here's my calendar link, find a time that works for you."
 
 ---
 
@@ -24,7 +24,7 @@ Alex nodded. "What are you feeling?"
 
 Rachel considered the question. "Honestly? I don't know. I've never been through this before. I don't know what the path forward looks like."
 
-Alex pulled out a copy of the framework he'd created—the one he'd started sharing with people who reached out. "This is what I learned from my own transition. Maybe it'll help you see the path."
+Alex pulled out a copy of the framework he'd created, the one he'd started sharing with people who reached out. "This is what I learned from my own transition. Maybe it'll help you see the path."
 
 He walked her through the stages: Disruption, Resistance, Acceptance, Learning, Integration. The emotions that accompanied each one. The support that helped. The traps to avoid.
 
@@ -38,7 +38,7 @@ The meeting with Rachel led to another meeting.
 
 And another.
 
-Word was spreading—through the article, through the framework Alex had shared, through the people he'd helped. Professionals in transition reached out, desperate for guidance. Alex found himself spending more time coaching than consulting.
+Word was spreading, through the article, through the framework Alex had shared, through the people he'd helped. Professionals in transition reached out, desperate for guidance. Alex found himself spending more time coaching than consulting.
 
 He called Jordan.
 
@@ -46,7 +46,7 @@ He called Jordan.
 
 "What does meaningful look like to you?"
 
-"Helping people. Not just businesses—people. People who are scared and lost and need someone to show them that adaptation is possible."
+"Helping people. Not just businesses, people. People who are scared and lost and need someone to show them that adaptation is possible."
 
 "Then maybe that's your answer."
 
@@ -57,7 +57,7 @@ Alex took a breath. "But the consulting pays better. It's more stable. It's the 
 
 The decision crystallized over the following weeks.
 
-Alex didn't abandon his consulting work—he still had clients who depended on him, projects that needed completion. But he started shifting his focus. Building the coaching practice. Creating resources. Developing a framework that could scale.
+Alex didn't abandon his consulting work, he still had clients who depended on him, projects that needed completion. But he started shifting his focus. Building the coaching practice. Creating resources. Developing a framework that could scale.
 
 He launched a website: "The Adaptation Advantage."
 
@@ -91,13 +91,13 @@ He opened a new document and started writing.
 
 He'd been working on the book for months now. Expanding the framework, adding stories, developing exercises. What had started as a simple guide had grown into something more comprehensive.
 
-He wrote about disruption—the shock of having the ground shift beneath you. He wrote about resistance—the natural human response to unwanted change. He wrote about acceptance—not as resignation, but as the beginning of agency.
+He wrote about disruption, the shock of having the ground shift beneath you. He wrote about resistance, the natural human response to unwanted change. He wrote about acceptance, not as resignation, but as the beginning of agency.
 
-He wrote about learning—the active phase of building new capabilities. And he wrote about integration—the moment when the new skills stopped feeling foreign and started feeling natural.
+He wrote about learning, the active phase of building new capabilities. And he wrote about integration, the moment when the new skills stopped feeling foreign and started feeling natural.
 
 But mostly, he wrote about hope.
 
-Not naive hope—the kind that pretends everything will be fine. But earned hope—the kind that comes from having navigated the darkness and found light on the other side.
+Not naive hope, the kind that pretends everything will be fine. But earned hope, the kind that comes from having navigated the darkness and found light on the other side.
 
 
 The book was published six months later.
@@ -121,7 +121,7 @@ Michael had started his own consulting practice, he wrote. Was helping other pro
 
 Alex read the email multiple times, feeling something settle in his chest.
 
-This was the ripple effect. Not just helping people directly—but helping people who helped people. Creating a wave of adaptation that spread beyond what he could ever do alone.
+This was the ripple effect. Not just helping people directly, but helping people who helped people. Creating a wave of adaptation that spread beyond what he could ever do alone.
 
 
 He showed the email to Elena that evening.
@@ -145,11 +145,11 @@ Not by avoiding disruption. But by embracing it.
 
 The next morning, Alex woke up with an idea.
 
-He'd been thinking about the ripple effect—the way adaptation spread from person to person. What if he could formalize it? Create a program that trained other people to teach the framework?
+He'd been thinking about the ripple effect, the way adaptation spread from person to person. What if he could formalize it? Create a program that trained other people to teach the framework?
 
 He called Jordan.
 
-"I want to train coaches," he said. "People who can take the Adaptation Advantage framework and use it to help others. Not just me helping people—building a network of helpers."
+"I want to train coaches," he said. "People who can take the Adaptation Advantage framework and use it to help others. Not just me helping people, building a network of helpers."
 
 "That's a big vision," Jordan said. "But it's also the natural next step. You've created something valuable. The question is: how do you scale it?"
 
@@ -170,7 +170,7 @@ But he had something more important.
 
 He had the willingness to try. To learn. To adapt.
 
-And he had the experience to know that even if he failed, he would learn from it. That failure wasn't the opposite of success—it was part of the process.
+And he had the experience to know that even if he failed, he would learn from it. That failure wasn't the opposite of success, it was part of the process.
 
 He opened a new document and typed:
 

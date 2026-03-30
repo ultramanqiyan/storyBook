@@ -12,8 +12,6 @@ The voice says "know you" in a way that feels different. Not just collecting dat
 
 I close my eyes. I let the memory come.
 
----
-
 The shelter.
 
 I remember the smell first. Fear and bleach and too many bodies in too small a space. The sound of barking. Crying. Whining. The cold floor. The wire walls. The faces that passed by. Some looked. Most did not.
@@ -29,8 +27,6 @@ I think about this. What was I feeling? I did not have words for feelings then. 
 *Hope,* the voice says. *And fear. They lived together in you. Hope that you would be chosen. Fear that you would not.*
 
 Yes. That is what it was. Hope and fear. Every day. Every face. Every time the door opened.
-
----
 
 Then came the day.
 

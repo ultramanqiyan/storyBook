@@ -4,7 +4,7 @@ Elara drove faster than she should have, her mind racing with questions she coul
 
 Her phone buzzed again. Another text from an unknown number:
 
-*Dr. Chen, I understand you have been in contact with unusual phenomena in sector seven. Helix Industries has resources that could greatly accelerate your research. I strongly suggest we meet before you make any hasty decisions. â€?Victor Strand*
+*Dr. Chen, I understand you have been in contact with unusual phenomena in sector seven. Helix Industries has resources that could greatly accelerate your research. I strongly suggest we meet before you make any hasty decisions. Victor Strand*
 
 She ignored it and kept driving.
 

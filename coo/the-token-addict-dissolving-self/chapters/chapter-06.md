@@ -32,7 +32,7 @@ The plan was inefficient. Unoptimized. Probably suboptimal by every metric the A
 
 The reading was harder than expected.
 
-He pulled a book from his shelf—something he'd bought years ago and never opened because the AI had summarized it for him. The words were there, but his attention kept drifting. His mind reached for the summary, the analysis, the AI-generated key points.
+He pulled a book from his shelf, something he'd bought years ago and never opened because the AI had summarized it for him. The words were there, but his attention kept drifting. His mind reached for the summary, the analysis, the AI-generated key points.
 
 *Focus*, he told himself. *Read the actual words. Let them mean something.*
 
@@ -132,5 +132,3 @@ The question had no answer. But the asking itself was different now. Not asking 
 
 The thought was uncertain. Unoptimized. His.
 
-
-**END OF CHAPTER 6**

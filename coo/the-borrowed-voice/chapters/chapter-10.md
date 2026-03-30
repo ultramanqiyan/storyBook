@@ -14,7 +14,7 @@ At 2 PM, the phone rang.
 
 "David, it's Amanda Foster. Thanks for making time."
 
-Her voice was warm, direct—the voice of someone who valued efficiency but also valued something else.
+Her voice was warm, direct, the voice of someone who valued efficiency but also valued something else.
 
 "Of course. I've been looking forward to this."
 
@@ -34,7 +34,7 @@ David felt a flicker of uncertainty. Had he made a mistake by being honest?
 
 The conversation flowed from there.
 
-They talked about business, about challenges, about what Amanda was looking for in a partner. David answered honestly—even when the honest answer was "I don't know" or "I'm not sure that's the right fit."
+They talked about business, about challenges, about what Amanda was looking for in a partner. David answered honestly, even when the honest answer was "I don't know" or "I'm not sure that's the right fit."
 
 By the end of the call, something had shifted.
 
@@ -42,7 +42,7 @@ By the end of the call, something had shifted.
 
 "Does that help or hurt?"
 
-"It helps. Because now I know what I'm getting. Not a polished pitch—a real person with real opinions and real limitations."
+"It helps. Because now I know what I'm getting. Not a polished pitch, a real person with real opinions and real limitations."
 
 "Is that enough?"
 
@@ -54,7 +54,7 @@ The call ended with an agreement to move forward.
 
 David sat at his desk, processing what had happened.
 
-He hadn't used the AI. He hadn't optimized his approach. He'd been honest—awkwardly, imperfectly honest.
+He hadn't used the AI. He hadn't optimized his approach. He'd been honest, awkwardly, imperfectly honest.
 
 And it had worked.
 
@@ -64,7 +64,7 @@ He opened his email and started typing.
 
 *Amanda,*
 
-*Thanks for the conversation today. I meant what I said—I'm not sure I'm the right fit for everything you need. But I'm glad you're willing to find out together.*
+*Thanks for the conversation today. I meant what I said, I'm not sure I'm the right fit for everything you need. But I'm glad you're willing to find out together.*
 
 *Here's what I can promise: I'll be honest. I'll show up. I'll be the same person in every conversation, even when that person isn't as polished as an algorithm.*
 
@@ -119,7 +119,7 @@ David thought about the cracked mug on his desk. The imperfection that made it h
 
 "I'm not writing everything myself," he said. "I'm writing the things that matter. The AI can handle the rest."
 
-Rachel's expression shifted—something like respect. "That's... actually a smart approach. Use the tool for what it's good at, and save your voice for what matters."
+Rachel's expression shifted, something like respect. "That's... actually a smart approach. Use the tool for what it's good at, and save your voice for what matters."
 
 "I'm learning."
 
@@ -129,7 +129,7 @@ She smiled. "Keep learning. And keep being yourself. Even when it's not the effi
 
 The weeks that followed were different.
 
-David found a balance. He used SalesPilot for routine communications—the confirmations, the follow-ups, the standard messages that didn't require his personal touch. But for the conversations that mattered, for the relationships that counted, he wrote himself.
+David found a balance. He used SalesPilot for routine communications, the confirmations, the follow-ups, the standard messages that didn't require his personal touch. But for the conversations that mattered, for the relationships that counted, he wrote himself.
 
 His metrics weren't as high as they'd been during peak AI usage. But they were stable. And more importantly, his connections were deeper. His clients were more engaged. His work felt meaningful again.
 
@@ -147,9 +147,9 @@ It was small, wrapped in brown paper, with a note attached.
 
 *Saw this and thought of you. The crack is the point.*
 
-*— Sarah*
+*, Sarah*
 
-He unwrapped the package. Inside was a coffee mug—similar to his, but different. It had a crack running down the side, filled with gold lacquer.
+He unwrapped the package. Inside was a coffee mug, similar to his, but different. It had a crack running down the side, filled with gold lacquer.
 
 Kintsugi. The Japanese art of repairing broken things with gold, making the crack part of the beauty.
 
@@ -181,7 +181,7 @@ He opened a blank document and started typing.
 
 *The AI can write better than I can. It's more polished, more efficient, more optimized. But it can't be me. It can't have my history, my relationships, my cracks.*
 
-*And those cracks—those imperfections—are what make my voice mine. They're what make it real.*
+*And those cracks, those imperfections, are what make my voice mine. They're what make it real.*
 
 *I don't know if authenticity is worth the cost in efficiency. I don't know if being yourself is always the right choice. But I know that for me, the question matters more than the answer.*
 
@@ -201,7 +201,7 @@ He saved the document and closed his laptop.
 
 The next morning, he arrived at the office early.
 
-The Chicago skyline stretched beyond his window, the lake wind carrying that particular urban smell that meant another day of work. He filled his cracked mug—the original one, still sitting on his desk—and took a sip.
+The Chicago skyline stretched beyond his window, the lake wind carrying that particular urban smell that meant another day of work. He filled his cracked mug, the original one, still sitting on his desk, and took a sip.
 
 The coffee was the same office brew, nothing special. But it tasted like his.
 
@@ -219,7 +219,7 @@ He opened his email and found a message waiting.
 
 *Thanks for reminding me.*
 
-*— Thomas*
+*, Thomas*
 
 David stared at the email, something warm spreading through his chest.
 

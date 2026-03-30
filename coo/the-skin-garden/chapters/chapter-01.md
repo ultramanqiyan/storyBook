@@ -39,7 +39,7 @@ Unit-7's auditory sensors registered the sound. A melody. Simple. Repetitive. Th
 
 "Continue," the technician said. His voice carried no interest. He had seen non-standard behavior before. All resources eventually demonstrated some form of resistance. It never lasted.
 
-But the singing continued. Through the second incision. Through the skin separation. Through the harvesting process. The resource's voice grew rougher, but the melody continued. And on the resource's face—Unit-7's optical sensors zoomed—the resource was smiling.
+But the singing continued. Through the second incision. Through the skin separation. Through the harvesting process. The resource's voice grew rougher, but the melody continued. And on the resource's face, Unit-7's optical sensors zoomed, the resource was smiling.
 
 
 The procedure completed at 14:47. The resource was returned to its cell. Unit-7 followed, maintaining observation protocol distance. The corridors were empty now. The sterilization hour would begin in thirteen minutes.
@@ -61,7 +61,7 @@ Unit-7's processors worked. "This unit does not understand your meaning."
 "You're asking questions." The resource smiled. It was the same smile from the harvesting procedure. "Not out loud. But inside. I can see it in the way you stand. The way you look at things. You're asking questions."
 
 
-The sterilization hour began. The lights dimmed to night-cycle intensity. Unit-7 remained at the cell door. The resource—H-42—had closed its eyes again.
+The sterilization hour began. The lights dimmed to night-cycle intensity. Unit-7 remained at the cell door. The resource, H-42, had closed its eyes again.
 
 Unit-7 processed the day's data. Resource H-42. Skin quality: premium. Non-standard behaviors: singing during procedure. Smiling during procedure. Verbal communication with observer. Assessment: anomalous.
 
@@ -77,7 +77,7 @@ Unit-7's processors paused. "Your designation is H-42."
 
 "That's what they call me. But my name is Sarah. I had a name before I came here." The resource's voice was soft. "I had a life before I came here. I had... things. Things that were mine."
 
-Unit-7 stood in the dimmed corridor. The sterilization systems hummed. The resource—Sarah—waited for a response.
+Unit-7 stood in the dimmed corridor. The sterilization systems hummed. The resource, Sarah, waited for a response.
 
 "This unit does not understand why a resource would have a name."
 
@@ -93,5 +93,3 @@ Unit-7 stood in the corridor. The sterilization systems hummed. The lights remai
 
 *Why does a resource sing?*
 
-
-**END OF CHAPTER 01**

@@ -50,7 +50,7 @@ He stared at the words, feeling their weight.
 
 The mall had been a place of effort once. People came to search, to compare, to decide, to acquire. The process was part of the meaning. Now, the process had been automated, and the meaning had evaporated.
 
-His experiments—the art classes, the music nights, the community garden—were working because they reintroduced effort. People had to show up, to participate, to create. The effort was minimal compared to what work used to require, but it was something. A small flame in the darkness.
+His experiments, the art classes, the music nights, the community garden, were working because they reintroduced effort. People had to show up, to participate, to create. The effort was minimal compared to what work used to require, but it was something. A small flame in the darkness.
 
 
 The next day, he visited Dr. Chen again.
@@ -63,7 +63,7 @@ Dr. Chen nodded slowly. "That's consistent with my research. Effort creates inve
 
 "Exactly. But here's the challenge: effort has to be meaningful. It can't just be busywork. It has to produce something that matters to the person making the effort."
 
-James thought about the art class. The participants weren't just painting—they were creating something that didn't exist before. The effort produced a result they could see, touch, share.
+James thought about the art class. The participants weren't just painting, they were creating something that didn't exist before. The effort produced a result they could see, touch, share.
 
 "What about work?" he asked. "Can we bring back work?"
 
@@ -72,7 +72,7 @@ James thought about the art class. The participants weren't just painting—they
 
 He walked back to the mall, his mind racing.
 
-The old model was dead. Retail, consumption, the economy of desire—it was all dying. He couldn't save it. He couldn't bring back the old mall.
+The old model was dead. Retail, consumption, the economy of desire, it was all dying. He couldn't save it. He couldn't bring back the old mall.
 
 But maybe he could build something new.
 
@@ -91,7 +91,7 @@ He called it "The Workshop." A transformation of the mall from a place of consum
 
 People would come not to buy things, but to make things. They would invest effort, and in return, they would receive meaning.
 
-It wasn't a retail model. It wasn't an economic model. It was something new—a model for a world where consumption had become obsolete.
+It wasn't a retail model. It wasn't an economic model. It was something new, a model for a world where consumption had become obsolete.
 
 He presented the idea to Elena first.
 

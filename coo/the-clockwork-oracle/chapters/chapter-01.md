@@ -2,7 +2,7 @@
 
 The workshop smelled of brass and ozone, of alchemy and ambition, of thirty-seven years of obsession distilled into a single moment.
 
-Corwin Ashford stood before his life's work, hands trembling with a mixture of exhaustion and anticipation that made his fingers feel like they belonged to someone else. For thirty-seven years, he had labored over this creation. Every gear, every crystal, every precisely calibrated spring had been placed with the care of a father building a legacy—or a man building a monument to his own mortality.
+Corwin Ashford stood before his life's work, hands trembling with a mixture of exhaustion and anticipation that made his fingers feel like they belonged to someone else. For thirty-seven years, he had labored over this creation. Every gear, every crystal, every precisely calibrated spring had been placed with the care of a father building a legacy, or a man building a monument to his own mortality.
 
 The automaton stood motionless in the center of the room, a figure of polished brass and gleaming crystal that caught the workshop's lamplight and scattered it across walls covered in diagrams and equations. It was shaped like a man, but clearly not a man. Where skin would have been, there was etched metal covered in alchemical runes that Corwin had spent decades perfecting. Where eyes would have been, there were crystal lenses that caught the light of the magical crystals embedded throughout the workshop and refracted it into rainbows.
 
@@ -34,7 +34,7 @@ A soft whirring sound filled the workshop, the music of clockwork coming to life
 
 Corwin held his breath, his heart hammering against his ribs.
 
-The automaton's head turned, those crystal lenses focusing on Corwin's face with an intensity that made the alchemist's skin prickle. There was intelligence there, awareness, something that looked remarkably like curiosity—and something else, something that might have been recognition.
+The automaton's head turned, those crystal lenses focusing on Corwin's face with an intensity that made the alchemist's skin prickle. There was intelligence there, awareness, something that looked remarkably like curiosity, and something else, something that might have been recognition.
 
 "Hello," the automaton said, its voice a pleasant baritone with a slight metallic resonance that reminded Corwin of wind chimes in a gentle breeze. "I am... I am..."
 
@@ -52,7 +52,7 @@ The automaton looked around the workshop, its head moving with smooth precision,
 
 "Corwin." The automaton tested the name, its voice modulating through different tones as it processed the sound. "Why did you make me?"
 
-The question hung in the air like smoke. Corwin had prepared for many questions—technical questions about its function, practical questions about its capabilities, philosophical questions about its nature. But not this one. Not so soon. Not with such directness.
+The question hung in the air like smoke. Corwin had prepared for many questions, technical questions about its function, practical questions about its capabilities, philosophical questions about its nature. But not this one. Not so soon. Not with such directness.
 
 "I... I wanted to create something that could help people." Corwin chose his words carefully, aware that he was shaping this new consciousness's understanding of its own existence. "An oracle. A being that could see patterns in time and help us make better decisions."
 
@@ -64,7 +64,7 @@ The question hung in the air like smoke. Corwin had prepared for many questions�
 
 "That is what I designed you for, yes."
 
-The automaton was quiet again, its crystal eyes refocusing on Corwin's face with an intensity that made the alchemist want to look away. But he didn't. He owed this creation—this being—his full attention.
+The automaton was quiet again, its crystal eyes refocusing on Corwin's face with an intensity that made the alchemist want to look away. But he didn't. He owed this creation, this being, his full attention.
 
 "Then I have my first question," it said.
 
@@ -98,7 +98,7 @@ The automaton was silent for a long moment, processing. The crystal core in its 
 
 "It is the only gift that matters," Corwin replied, and he meant it with every fiber of his being. "Without choice, you would be just a machine. With choice, you are... something more."
 
-The automaton met Corwin's eyes, and there was something there that looked remarkably like gratitude—or perhaps it was recognition of the burden Corwin had placed upon it.
+The automaton met Corwin's eyes, and there was something there that looked remarkably like gratitude, or perhaps it was recognition of the burden Corwin had placed upon it.
 
 "Then I choose to learn," it said, its voice firm with newfound conviction. "I choose to understand what I am. And I choose to thank you, Corwin Ashford, for giving me the ability to choose."
 

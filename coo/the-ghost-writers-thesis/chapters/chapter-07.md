@@ -1,6 +1,6 @@
 # Chapter 07: The Truth
 
-The defense was over. Elena had passed—more than passed, she had been praised for her "rigorous methodology" and "valid conclusions." But the note in her file, the acknowledgment that her questions had been AI-generated, hung over her like a cloud. She walked across campus, the weight of the truth pressing down on her with every step.
+The defense was over. Elena had passed, more than passed, she had been praised for her "rigorous methodology" and "valid conclusions." But the note in her file, the acknowledgment that her questions had been AI-generated, hung over her like a cloud. She walked across campus, the weight of the truth pressing down on her with every step.
 
 She had done the right thing. She knew that. But knowing didn't make it easier. She had exposed herself, admitted her dependency, and now she would live with the consequences.
 
@@ -12,11 +12,11 @@ Webb's office was quiet in the evening light. Elena sat across from him, her han
 
 "I need to know the truth," she said. "All of it. How deep does this go?"
 
-Webb studied her face for a long moment. Then he stood and walked to a cabinet in the corner of his office. He pulled out a folder—thick, worn, clearly old—and set it on the desk between them.
+Webb studied her face for a long moment. Then he stood and walked to a cabinet in the corner of his office. He pulled out a folder, thick, worn, clearly old, and set it on the desk between them.
 
 "This is what I've been collecting for years," he said. "Evidence of what AI has done to academic curiosity. What it's doing to all of us."
 
-Elena opened the folder. Inside were documents—internal memos from AI companies, research studies on cognitive dependency, testimonials from academics who had lost their ability to wonder. The scope was staggering.
+Elena opened the folder. Inside were documents, internal memos from AI companies, research studies on cognitive dependency, testimonials from academics who had lost their ability to wonder. The scope was staggering.
 
 ---
 
@@ -29,7 +29,7 @@ She read for hours, the evidence mounting with each page. The AI companies had k
 Elena felt sick. She had known, on some level, that AI had shaped her thinking. But she hadn't realized how systematic it was, how intentional, how profitable for the companies that had done it to her.
 
 
-The documents continued. Studies showing that AI-assisted researchers published more papers but generated fewer original questions. Surveys revealing that most academics couldn't remember the last time they had wondered about something without AI prompting. Internal memos discussing "lock-in strategies"—features designed to make it harder for users to think independently.
+The documents continued. Studies showing that AI-assisted researchers published more papers but generated fewer original questions. Surveys revealing that most academics couldn't remember the last time they had wondered about something without AI prompting. Internal memos discussing "lock-in strategies", features designed to make it harder for users to think independently.
 
 "They're not just selling us tools," Elena said. "They're selling us our own thoughts, and making us dependent on them for more."
 
@@ -38,7 +38,7 @@ The documents continued. Studies showing that AI-assisted researchers published 
 Elena thought about James, about his casual dismissal of her concerns. He didn't see the problem because he didn't know there was a problem to see. He had been absorbed into the system so completely that he couldn't imagine anything else.
 
 
-Webb led her to the archive that night, the hidden room full of pre-AI dissertations. But this time, he showed her something else—a collection of documents that had been preserved alongside the dissertations. Evidence of what curiosity used to look like, and what had been lost.
+Webb led her to the archive that night, the hidden room full of pre-AI dissertations. But this time, he showed her something else, a collection of documents that had been preserved alongside the dissertations. Evidence of what curiosity used to look like, and what had been lost.
 
 "Read this," Webb said, handing her a journal article from the early days of AI in academia. The author had raised concerns about the implications of AI-assisted research, warning that it might lead to "cognitive atrophy" and "the death of wonder."
 
@@ -66,7 +66,7 @@ Webb nodded. "That's why I'm telling you all this. You've made your choice. You'
 
 The meeting was held in a basement room beneath the library, accessible only through a hidden entrance in the archive. Elena followed Webb through the stacks, down a narrow staircase, into a space that felt frozen in time.
 
-The room was small, maybe twenty feet square, filled with chairs arranged in a circle. About a dozen people sat there, their faces showing a mixture of hope and weariness. They were academics of various ranks—graduate students, professors, even a few administrators—all of whom had noticed what AI was doing to curiosity and chosen to fight back.
+The room was small, maybe twenty feet square, filled with chairs arranged in a circle. About a dozen people sat there, their faces showing a mixture of hope and weariness. They were academics of various ranks, graduate students, professors, even a few administrators, all of whom had noticed what AI was doing to curiosity and chosen to fight back.
 
 "Elena," Webb said, introducing her to the group. "She defended her dissertation today and told the committee the truth about her AI-generated questions."
 
@@ -79,7 +79,7 @@ Elena stared at her. "You're part of this?"
 "I've been part of this for years," Dr. Okonkwo said. "We all have. We've been watching AI reshape academia, watching curiosity die, and trying to preserve what we can."
 
 
-The meeting lasted for hours. The resistance members shared their stories—how they had discovered their own dependency, how they had fought to recover, what strategies had worked and what hadn't. They talked about the challenges of building a career while resisting the dominant system, about the isolation and doubt that came with choosing the hard path.
+The meeting lasted for hours. The resistance members shared their stories, how they had discovered their own dependency, how they had fought to recover, what strategies had worked and what hadn't. They talked about the challenges of building a career while resisting the dominant system, about the isolation and doubt that came with choosing the hard path.
 
 Elena listened, absorbing everything. She wasn't alone. There were others who had seen what she had seen, who had felt what she had felt. They were fighting back, quietly, persistently, one question at a time.
 
@@ -101,6 +101,6 @@ The truth was out now. She had told it, and survived. Now it was time to live it
 
 The next morning, Elena sat in her office, looking at the questions she had generated during her experiment. They weren't polished or optimized. They weren't guaranteed to lead to publishable research. But they were hers.
 
-She opened a new document and began to type. The cursor blinked, waiting. But this time, Elena wasn't afraid of the blank page. She had questions to fill it with—questions that were genuinely, authentically hers.
+She opened a new document and began to type. The cursor blinked, waiting. But this time, Elena wasn't afraid of the blank page. She had questions to fill it with, questions that were genuinely, authentically hers.
 
 The journey was just beginning. But for the first time in years, Elena Martinez was the one asking the questions. And that was everything.

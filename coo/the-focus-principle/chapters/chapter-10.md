@@ -2,9 +2,9 @@
 
 Two weeks after the Phoenix launch, Elena sat in her office and looked at the wall.
 
-The progress charts were still there—eight weeks of focused work documented in checkmarks and milestones. But next to them, someone had added a new section. The portal team had posted their progress: "Week 1 of Backend Integration: On Track." The mobile app team had added their own chart. Even the security compliance lead had contributed a small note: "Infrastructure Verified. Proceeding."
+The progress charts were still there, eight weeks of focused work documented in checkmarks and milestones. But next to them, someone had added a new section. The portal team had posted their progress: "Week 1 of Backend Integration: On Track." The mobile app team had added their own chart. Even the security compliance lead had contributed a small note: "Infrastructure Verified. Proceeding."
 
-The wall that had once been a monument to her team's focus was becoming a monument to something larger—a cascade of progress that started with one choice and spread outward.
+The wall that had once been a monument to her team's focus was becoming a monument to something larger, a cascade of progress that started with one choice and spread outward.
 
 Tom appeared in her doorway. "Meeting in ten. Sarah wants to talk about next quarter."
 
@@ -12,13 +12,13 @@ Elena nodded, but didn't move. She was still looking at the wall.
 
 "You okay?" Tom asked.
 
-"I'm trying to understand what happened," she said. "Not the Phoenix part—I understand that. The part where it spread. The part where other teams started... believing."
+"I'm trying to understand what happened," she said. "Not the Phoenix part, I understand that. The part where it spread. The part where other teams started... believing."
 
 Tom leaned against the doorframe. "You showed them it works. That's all."
 
 "But why does that matter? Lots of people show things that work. Why did this catch on?"
 
-"Because it wasn't about Phoenix." Tom's voice was thoughtful. "It was about a way of working. A principle. You didn't just deliver a project—you showed people how to deliver projects. That's different."
+"Because it wasn't about Phoenix." Tom's voice was thoughtful. "It was about a way of working. A principle. You didn't just deliver a project, you showed people how to deliver projects. That's different."
 
 Elena turned to face him. "I don't feel like I did anything special. I just... chose one thing."
 
@@ -34,19 +34,19 @@ Elena felt the weight of attention turn toward her.
 
 "I'm not going to give Elena all the credit," Sarah continued. "The Phoenix team worked hard. Every team here worked hard. But I will say this: the approach worked. Focus worked. And I want to understand how to make it sustainable."
 
-She turned to Elena. "Can you explain what you did? Not the project management part—the principle part. What made this different?"
+She turned to Elena. "Can you explain what you did? Not the project management part, the principle part. What made this different?"
 
-Elena stood, feeling the familiar flutter of nerves in her stomach. But it was different now—less fear, more clarity.
+Elena stood, feeling the familiar flutter of nerves in her stomach. But it was different now, less fear, more clarity.
 
 "Eight weeks ago, I was drowning," she began. "Not because I had too much work, but because I was treating everything as equally important. I had no hierarchy. No sequence. Just a wall of urgency."
 
-She walked to the whiteboard and drew a single circle. "The first step was finding the main contradiction—the one problem that, if solved, would make everything else easier. For us, that was Phoenix."
+She walked to the whiteboard and drew a single circle. "The first step was finding the main contradiction, the one problem that, if solved, would make everything else easier. For us, that was Phoenix."
 
 She drew smaller circles around the first one. "But the key wasn't just identifying the main contradiction. It was accepting that everything else had to wait. Not forever. Just until the main contradiction was resolved."
 
 She drew arrows connecting the circles in sequence. "Focus isn't about ignoring other priorities. It's about knowing what comes first, second, and third. It's about having the courage to choose, and the discipline to stick with the choice."
 
-The room was quiet. Elena could see people processing—some nodding, some frowning, some looking skeptical.
+The room was quiet. Elena could see people processing, some nodding, some frowning, some looking skeptical.
 
 "The hardest part isn't the focus itself," she continued. "It's the fear. The fear that you're wrong. The fear that you're letting people down. The fear that choosing one thing means failing at everything else." She met their eyes. "But the opposite is true. Trying to do everything means failing at everything. Choosing one thing means succeeding at something. And success spreads."
 
@@ -58,7 +58,7 @@ Elena turned back to the whiteboard. "That depends on what comes next. What are 
 
 The conversation that followed was unlike any meeting Elena had attended before.
 
-Instead of the usual chaos—everyone advocating for their own projects, competing for resources, defending their importance—there was a different energy. People were asking questions. Looking for connections. Trying to understand dependencies.
+Instead of the usual chaos, everyone advocating for their own projects, competing for resources, defending their importance, there was a different energy. People were asking questions. Looking for connections. Trying to understand dependencies.
 
 "The customer analytics platform is blocking three other initiatives," the data lead said. "If we could get that done first..."
 
@@ -66,7 +66,7 @@ Instead of the usual chaos—everyone advocating for their own projects, competi
 
 "What about the hiring initiative?" someone from HR asked. "We can't deliver any of this without more people."
 
-Elena listened, her mind working through the connections. The pattern was familiar now—the web of dependencies, the hidden bottlenecks, the real priorities hiding behind the urgent ones.
+Elena listened, her mind working through the connections. The pattern was familiar now, the web of dependencies, the hidden bottlenecks, the real priorities hiding behind the urgent ones.
 
 "Can I see the full list?" she asked.
 
@@ -96,13 +96,13 @@ After the meeting, Elena walked back to her office with Tom.
 
 "Sarah asked you to help them apply the principle. That's different from owning the project."
 
-Elena considered this. She had become, almost accidentally, a kind of internal consultant—someone who could help teams find their main contradiction and focus their efforts. It wasn't a role she'd sought, but it felt right.
+Elena considered this. She had become, almost accidentally, a kind of internal consultant, someone who could help teams find their main contradiction and focus their efforts. It wasn't a role she'd sought, but it felt right.
 
 "I need to talk to Marcus," she said.
 
 ---
 
-The coffee shop was familiar now—the same corner table, the same view of the rain-washed street, the same quiet that made conversation possible.
+The coffee shop was familiar now, the same corner table, the same view of the rain-washed street, the same quiet that made conversation possible.
 
 "You've become the expert," Marcus said, smiling. "How does it feel?"
 
@@ -112,7 +112,7 @@ The coffee shop was familiar now—the same corner table, the same view of the r
 
 Elena watched the rain through the window. "I keep waiting for the other shoe to drop. For everything to fall apart again."
 
-"It will fall apart again. Not everything—just some things. That's the nature of work. The question isn't whether you'll face new chaos. The question is whether you'll remember how to find clarity in it."
+"It will fall apart again. Not everything, just some things. That's the nature of work. The question isn't whether you'll face new chaos. The question is whether you'll remember how to find clarity in it."
 
 "How do I make sure I remember?"
 
@@ -122,7 +122,7 @@ He paused, his expression serious. "You've learned the principle. Now you have t
 
 Elena nodded slowly. "So the hiring initiative isn't the end. It's just the next main contradiction."
 
-"Exactly. And after that, there will be another. And another. The problems never stop. But neither does the progress—if you keep choosing to focus."
+"Exactly. And after that, there will be another. And another. The problems never stop. But neither does the progress, if you keep choosing to focus."
 
 ---
 
@@ -138,13 +138,13 @@ The Phoenix project was done. The portal team was building. The mobile app team 
 
 But the work wasn't finished. It would never be finished. There would always be new contradictions, new choices, new opportunities to focus or to scatter.
 
-The difference was that Elena knew how to choose now. She knew how to find the main thread in a tangle of urgency. She knew how to say "not yet" without feeling like she was saying "no." She knew that focus wasn't a destination—it was a way of traveling.
+The difference was that Elena knew how to choose now. She knew how to find the main thread in a tangle of urgency. She knew how to say "not yet" without feeling like she was saying "no." She knew that focus wasn't a destination, it was a way of traveling.
 
 Tom appeared in her doorway again. "Ready for the hiring meeting?"
 
 Elena closed the notebook and stood up. "Ready."
 
-She walked toward the conference room, her steps steady, her mind clear. The path ahead wasn't simple—it never would be. But it was visible. And that made all the difference.
+She walked toward the conference room, her steps steady, her mind clear. The path ahead wasn't simple, it never would be. But it was visible. And that made all the difference.
 
 One contradiction at a time. One choice at a time. One focus at a time.
 

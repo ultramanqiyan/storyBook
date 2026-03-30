@@ -2,9 +2,9 @@
 
 Six months had passed since Maya first walked into the freelancer meetup.
 
-She stood in Tomás's backyard on a warm Saturday evening, surrounded by people who had become her community. The collective was having its summer picnic—fifty people gathered under string lights, sharing food, laughing, talking, being together.
+She stood in Tomás's backyard on a warm Saturday evening, surrounded by people who had become her community. The collective was having its summer picnic, fifty people gathered under string lights, sharing food, laughing, talking, being together.
 
-Maya held a plate of food she'd made—a pasta salad that Rachel had declared "actually edible"—and watched the scene unfold.
+Maya held a plate of food she'd made, a pasta salad that Rachel had declared "actually edible", and watched the scene unfold.
 
 Lisa was there, now a regular member, introducing her own new friend to the group. Jake was manning the grill, arguing good-naturedly with Tomás about proper burger technique. Rachel was deep in conversation with a new member, her face animated with the enthusiasm that had first drawn Maya to her.
 
@@ -16,13 +16,13 @@ At home.
 
 The journey hadn't been linear.
 
-There had been setbacks—moments when the old fears crept back, when she wanted to retreat into isolation, when she convinced herself she didn't belong. There had been awkward conversations and failed connections and times when she'd gone home feeling more alone than ever.
+There had been setbacks, moments when the old fears crept back, when she wanted to retreat into isolation, when she convinced herself she didn't belong. There had been awkward conversations and failed connections and times when she'd gone home feeling more alone than ever.
 
 But she'd kept showing up. Kept being honest. Kept letting people in.
 
 And slowly, imperfectly, the community had formed around her.
 
-Not a perfect community—there were people she didn't click with, conflicts that arose, moments of friction and misunderstanding. But a real one. A living, breathing web of connection that held her and challenged her and made her life richer than she'd ever imagined.
+Not a perfect community, there were people she didn't click with, conflicts that arose, moments of friction and misunderstanding. But a real one. A living, breathing web of connection that held her and challenged her and made her life richer than she'd ever imagined.
 
 "Hey." Rachel appeared beside her, a glass of wine in hand. "You look contemplative."
 
@@ -44,7 +44,7 @@ Later that evening, Tomás called for everyone's attention.
 
 He looked around the group, his eyes landing on Maya for a moment. "I want to especially thank the people who have helped make this what it is. The ones who show up early and stay late. Who welcome new members. Who answer the 1 AM calls and bring food when someone's in crisis." He smiled. "You know who you are. And we see you."
 
-Maya felt her cheeks warm. She hadn't done anything special—just what Tomás had done for her. What Rachel had done. What everyone in this community did for each other.
+Maya felt her cheeks warm. She hadn't done anything special, just what Tomás had done for her. What Rachel had done. What everyone in this community did for each other.
 
 But that was the point. It wasn't special. It was what community meant.
 
@@ -55,7 +55,7 @@ As the evening wound down, Maya found herself sitting on the porch with Rachel a
 
 "That's how it works," Rachel said. "Community isn't owned. It's shared. Everyone contributes, everyone benefits."
 
-"I want to start something," Lisa said quietly. "Not this—I'm not trying to compete. But I was thinking about starting a subgroup. For UX designers specifically. A place where we can share resources, collaborate on projects, support each other in our specific field."
+"I want to start something," Lisa said quietly. "Not this, I'm not trying to compete. But I was thinking about starting a subgroup. For UX designers specifically. A place where we can share resources, collaborate on projects, support each other in our specific field."
 
 Maya felt a spark of excitement. "That's a great idea."
 
@@ -70,7 +70,7 @@ She thought about the cycle of connection. The give and take. The way community 
 
 Walking home that night, Maya felt the cool Denver air on her face and smiled.
 
-She pulled out her phone and looked at the messages still coming in—the group chat alive with photos from the picnic, people tagging each other, sharing memories, planning the next gathering.
+She pulled out her phone and looked at the messages still coming in, the group chat alive with photos from the picnic, people tagging each other, sharing memories, planning the next gathering.
 
 She thought about the woman she'd been six months ago. Desperate and alone. Convinced she didn't need anyone. Drowning in silence.
 

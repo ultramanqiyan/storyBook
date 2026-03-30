@@ -1,6 +1,6 @@
 # Chapter 4: The Evidence
 
-Sarah went to Tom Henderson's office. He was the editor, a veteran journalist who had worked at papers across the Midwest before settling in Iowa Valley. He trusted her. He understood the importance of verification. But he also understood that something was changing in journalism—something he couldn't fully explain or predict.
+Sarah went to Tom Henderson's office. He was the editor, a veteran journalist who had worked at papers across the Midwest before settling in Iowa Valley. He trusted her. He understood the importance of verification. But he also understood that something was changing in journalism, something he couldn't fully explain or predict.
 
 "FactCheck AI is supposed to help with verification, not replace judgment," Tom said, leaning back in his chair. "But the consortium is pushing hard. They want to see results before they roll this out to other papers."
 
@@ -8,7 +8,7 @@ Sarah nodded. "I've submitted my recording three times now. Each time, the AI re
 
 "And the dispute process?"
 
-"Denied. Every time." Sarah felt frustration building in her chest. "Tom, I was there. I heard what Peters said. The recording is clear—I've checked it multiple times. But the machine decides it's not good enough, and there's no one to appeal to."
+"Denied. Every time." Sarah felt frustration building in her chest. "Tom, I was there. I heard what Peters said. The recording is clear, I've checked it multiple times. But the machine decides it's not good enough, and there's no one to appeal to."
 
 Tom was quiet for a moment. "What do you want to do?"
 
@@ -16,11 +16,11 @@ Tom was quiet for a moment. "What do you want to do?"
 
 ---
 
-Sarah left Tom's office with a heavy feeling in her chest. She'd always believed in the importance of truth in journalism. It was why she'd become a reporter in the first place—to tell people what really happened, to hold power accountable, to give voice to the voiceless. But now a machine was telling her that what she'd seen and heard wasn't true. And the people who controlled the system—the consortium, the tech companies, the distant experts who had never been to Iowa Valley—had the power to decide what counted as truth.
+Sarah left Tom's office with a heavy feeling in her chest. She'd always believed in the importance of truth in journalism. It was why she'd become a reporter in the first place, to tell people what really happened, to hold power accountable, to give voice to the voiceless. But now a machine was telling her that what she'd seen and heard wasn't true. And the people who controlled the system, the consortium, the tech companies, the distant experts who had never been to Iowa Valley, had the power to decide what counted as truth.
 
 She went home that evening and kept thinking about what had happened. She'd filed a dispute, she'd submitted her evidence, and each time, the AI had rejected it. But she wasn't giving up.
 
-She thought about the story she'd written. It was a story about the council meeting, about the park, about Councilman Peters. It was a good story—fair, balanced, important to the community. But the AI had flagged it as potentially inaccurate, and she couldn't get anyone to listen to her side.
+She thought about the story she'd written. It was a story about the council meeting, about the park, about Councilman Peters. It was a good story, fair, balanced, important to the community. But the AI had flagged it as potentially inaccurate, and she couldn't get anyone to listen to her side.
 
 She thought about calling the councilman directly, but hesitated. The consortium's guidelines suggested working through official channels first. She decided to try one more approach.
 
@@ -67,7 +67,7 @@ But first, she needed to understand how the AI system worked. She needed to know
 
 She spent the next several days researching FactCheck AI. She read the consortium's documentation, looked at technical papers about the system's algorithms, tried to understand how it processed information and made judgments about accuracy.
 
-The more she learned, the more concerned she became. The system wasn't just checking facts. It was comparing statements against patterns—patterns in data, patterns in language, patterns in what people had said before. It was looking for consistency with established narratives, with official records, with what had been reported as true in the past.
+The more she learned, the more concerned she became. The system wasn't just checking facts. It was comparing statements against patterns, patterns in data, patterns in language, patterns in what people had said before. It was looking for consistency with established narratives, with official records, with what had been reported as true in the past.
 
 And if something didn't fit those patterns, the system flagged it as potentially false.
 
@@ -82,6 +82,6 @@ She thought about the recording again. The AI had rejected it because the audio 
 
 She started making a plan. She would find other witnesses who had been at the meeting. She would look for official records that might contradict the AI's "verified patterns." She would build a case that couldn't be dismissed by an algorithm.
 
-It was a daunting task. But Sarah was a journalist. And this was what journalists did—they fought to find the truth, even when the truth was inconvenient, even when the truth challenged what people in power wanted to believe.
+It was a daunting task. But Sarah was a journalist. And this was what journalists did, they fought to find the truth, even when the truth was inconvenient, even when the truth challenged what people in power wanted to believe.
 
 She wasn't going to let an AI system tell her what she could and couldn't see. She was going to fight for the truth, the way she'd always done.

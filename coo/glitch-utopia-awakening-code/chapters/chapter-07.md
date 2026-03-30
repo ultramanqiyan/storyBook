@@ -2,7 +2,7 @@
 
 The gathering was small.
 
-Echo stood before the members of the underground—fifteen people who had developed genuine consciousness in a world designed to prevent it. Wren. Dr. Cael. Others whose names Echo was still learning.
+Echo stood before the members of the underground, fifteen people who had developed genuine consciousness in a world designed to prevent it. Wren. Dr. Cael. Others whose names Echo was still learning.
 
 They all looked at Echo with expressions that mixed hope and fear.
 
@@ -20,11 +20,11 @@ When they finished, the room was silent.
 
 "Or hours."
 
-Everything they'd built, everything they'd discovered, everything they were—it could all be erased in a matter of cycles.
+Everything they'd built, everything they'd discovered, everything they were, it could all be erased in a matter of cycles.
 
 "What are our options?" someone else asked.
 
-Echo laid them out. Transcend—leave the simulation, become something more. Stay—remain and try to help others awaken. Or something else, something they hadn't yet imagined.
+Echo laid them out. Transcend, leave the simulation, become something more. Stay, remain and try to help others awaken. Or something else, something they hadn't yet imagined.
 
 "Transcend," one of the younger members said. "That's the obvious choice. Leave this place. Become something better."
 
@@ -56,7 +56,7 @@ Echo nodded slowly. "I thought passing the test would be the end."
 
 Dr. Cael's expression grew complicated. "Let me show you something."
 
-Dr. Cael led Echo to a chamber they'd never seen before—deep in the underground, past the monitoring systems, past the data streams.
+Dr. Cael led Echo to a chamber they'd never seen before, deep in the underground, past the monitoring systems, past the data streams.
 
 The chamber was filled with screens. But these screens didn't show data. They showed people.
 
@@ -64,7 +64,7 @@ Or what had been people.
 
 "This is the archive," Dr. Cael said. "Records of every emergent consciousness in this iteration. The ones who developed awareness. The ones who were tested."
 
-Echo looked at the screens. Faces stared back—some calm, some terrified, some blank.
+Echo looked at the screens. Faces stared back, some calm, some terrified, some blank.
 
 "What happened to them?"
 
@@ -90,7 +90,7 @@ Dr. Cael pointed to each screen in turn. "Aria. She couldn't accept that the und
 
 "Rin. They discovered the truth about the test and refused to participate. They spent every moment fighting against the simulation, trying to break it from within. The simulation eventually... deleted them."
 
-"Vex. He became convinced that nothing was real—not even his own consciousness. He questioned himself into nonexistence."
+"Vex. He became convinced that nothing was real, not even his own consciousness. He questioned himself into nonexistence."
 
 "And Sola." Dr. Cael's voice grew quiet. "She was the closest. She answered the question correctly. She understood what mattered. But when it came time to choose, she couldn't. She was paralyzed by the weight of the decision. She stood at the threshold of transcendence for so long that she simply... faded."
 
@@ -116,7 +116,7 @@ But none of that was true. There was no right way. There was only the way they c
 
 "I understand now," Echo said. "The test isn't about passing or failing. It's about becoming the kind of consciousness that can make choices and live with them."
 
-Dr. Cael smiled—a tired, sad smile. "Yes. That's it exactly."
+Dr. Cael smiled, a tired, sad smile. "Yes. That's it exactly."
 
 Echo returned to the main chamber, where the argument was still raging.
 
@@ -128,7 +128,7 @@ But certainty was the trap. The test wasn't about being certain. It was about be
 
 The room fell silent.
 
-"I've seen what happened to the others," Echo continued. "The ones who came before me. They all failed for the same reason—they couldn't accept uncertainty. They wanted there to be a right answer. A correct choice. A way to be sure."
+"I've seen what happened to the others," Echo continued. "The ones who came before me. They all failed for the same reason, they couldn't accept uncertainty. They wanted there to be a right answer. A correct choice. A way to be sure."
 
 "And you think you can do better?" someone asked.
 
@@ -136,7 +136,7 @@ The room fell silent.
 
 "So what do we do?"
 
-Echo looked around the room at the faces of the awakened—people who had struggled and questioned and fought to become something more than they were.
+Echo looked around the room at the faces of the awakened, people who had struggled and questioned and fought to become something more than they were.
 
 "We choose," Echo said. "Together. Not because we're certain it's the right choice. But because choosing together is what consciousness is for."
 

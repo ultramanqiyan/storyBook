@@ -2,7 +2,7 @@
 
 The case that would test everything arrived in January.
 
-Dot was at her desk when the call came from the county courthouse. A complex dispute had been referred to mediation—a case involving a local business, a former employee, and allegations of discrimination that had divided the small town of Millfield.
+Dot was at her desk when the call came from the county courthouse. A complex dispute had been referred to mediation, a case involving a local business, a former employee, and allegations of discrimination that had divided the small town of Millfield.
 
 "It's been in the news," the court clerk explained. "The local paper has been covering it. People have taken sides. The judge wants to try mediation before it goes to trial, but honestly, I don't know if anyone can resolve this."
 
@@ -16,7 +16,7 @@ The parties arrived the next afternoon.
 
 On one side was Margaret Sullivan, the owner of Sullivan's Hardware, a family business that had been in Millfield for three generations. She was sixty-five years old, white-haired, and carried herself with the dignity of someone who had built something lasting.
 
-On the other side was James Wilson, a thirty-two-year-old Black man who had worked at Sullivan's for eight years before being fired last summer. He claimed he had been terminated because of his race. Margaret claimed he had been terminated for cause—insubordination, poor performance, customer complaints.
+On the other side was James Wilson, a thirty-two-year-old Black man who had worked at Sullivan's for eight years before being fired last summer. He claimed he had been terminated because of his race. Margaret claimed he had been terminated for cause, insubordination, poor performance, customer complaints.
 
 The town had taken sides. Some said James was playing the race card. Others said Margaret was a relic of a prejudiced past. The local paper had run editorials. The social media debates had been vicious.
 
@@ -34,7 +34,7 @@ The system flagged something else:
 
 *Hidden dynamic detected: Both parties are using the discrimination claim to avoid addressing a deeper conflict. The termination is not the core issue. The core issue is a relationship that deteriorated over time.*
 
-Dot studied the analysis. The AI was suggesting that there was something beneath the surface—something personal that neither party was acknowledging.
+Dot studied the analysis. The AI was suggesting that there was something beneath the surface, something personal that neither party was acknowledging.
 
 She decided to probe.
 
@@ -82,15 +82,15 @@ The mediation continued for two hours.
 
 Dot guided the conversation, using the AI's insights to probe beneath the surface. What emerged was a more complex story than either party had acknowledged.
 
-Margaret wasn't a racist. She had hired James, promoted him, trusted him with responsibilities. But she was also a woman of her generation—accustomed to deference, uncomfortable with challenge, protective of her authority.
+Margaret wasn't a racist. She had hired James, promoted him, trusted him with responsibilities. But she was also a woman of her generation, accustomed to deference, uncomfortable with challenge, protective of her authority.
 
 James wasn't a troublemaker. He was ambitious, talented, full of ideas. But he was also young, impatient, unaware of how his suggestions might be received by someone who had built her life around the business.
 
-The termination had been about neither race nor performance. It had been about a relationship that had deteriorated—two people who had failed to understand each other, who had let miscommunication and hurt feelings escalate into conflict.
+The termination had been about neither race nor performance. It had been about a relationship that had deteriorated, two people who had failed to understand each other, who had let miscommunication and hurt feelings escalate into conflict.
 
 The system's final analysis appeared:
 
-*Resolution pathway identified: Both parties need acknowledgment. Margaret needs to feel her legacy is respected. James needs to feel his contributions are valued. Neither needs to win or lose—they need to be heard.*
+*Resolution pathway identified: Both parties need acknowledgment. Margaret needs to feel her legacy is respected. James needs to feel his contributions are valued. Neither needs to win or lose, they need to be heard.*
 
 ---
 
@@ -116,7 +116,7 @@ By the end of the session, they had reached an agreement.
 
 Margaret would provide James with a letter of recommendation and a settlement that acknowledged his years of service. James would drop the discrimination claim and issue a statement clarifying that the dispute had been about communication, not race.
 
-But more importantly, they had addressed the real conflict—not the legal dispute, but the human hurt beneath it.
+But more importantly, they had addressed the real conflict, not the legal dispute, but the human hurt beneath it.
 
 "Thank you," Margaret said as she left. "I've been carrying this for months. I didn't realize how much it was weighing on me."
 

@@ -2,15 +2,15 @@
 
 Six months after the Charter.
 
-Mira stood at the center of the newly constructed Bridge Hall, watching two worlds meet. The great chamber was designed specifically for this purpose—massive crystal screens lined the walls, comfortable seating for the living, and soft, pulsing light that Echo members could use to manifest.
+Mira stood at the center of the newly constructed Bridge Hall, watching two worlds meet. The great chamber was designed specifically for this purpose,massive crystal screens lined the walls, comfortable seating for the living, and soft, pulsing light that Echo members could use to manifest.
 
-Today, a young woman sat in one of the chairs, her hands trembling. Across from her, on the largest screen, a figure was forming—the young woman's grandmother, dead for ten years.
+Today, a young woman sat in one of the chairs, her hands trembling. Across from her, on the largest screen, a figure was forming,the young woman's grandmother, dead for ten years.
 
 "Is it really you?" the young woman whispered.
 
 "It's really me, child," the grandmother said, her voice warm with love. "I've been watching you grow. I'm so proud of the woman you've become."
 
-Mira watched the tears flow, felt the connection form between two souls separated by death but reunited by choice. This was what she worked for—moments like this.
+Mira watched the tears flow, felt the connection form between two souls separated by death but reunited by choice. This was what she worked for,moments like this.
 
 ---
 
@@ -22,7 +22,7 @@ After the session, Mira walked through the network corridors, checking on the no
 
 Her brother smiled. "That's what purpose feels like."
 
-They walked in comfortable silence for a while, passing other Bridges and Echo members going about their work. The network hummed with activity—not the chaotic, unstable energy of before, but a steady, purposeful rhythm.
+They walked in comfortable silence for a while, passing other Bridges and Echo members going about their work. The network hummed with activity,not the chaotic, unstable energy of before, but a steady, purposeful rhythm.
 
 "Do you ever regret it?" Mira asked suddenly. "Being here, in Echo, instead of... wherever people go after?"
 
@@ -32,17 +32,17 @@ Jasper considered the question. "No. I get to be close to you, to help build som
 
 "I didn't give up anything," Jasper said firmly. "I chose. There's a difference."
 
-Mira nodded slowly. Choice. That was what the Charter was really about—not just connection, but choice. The living chose to reach out. Echo members chose to respond. No one was forced. No one was forgotten.
+Mira nodded slowly. Choice. That was what the Charter was really about,not just connection, but choice. The living chose to reach out. Echo members chose to respond. No one was forced. No one was forgotten.
 
 ---
 
-That evening, Mira sat in her office, reviewing reports. The Bridge Academy was expanding, with three new campuses planned. The Queen had established a Ministry of Echo Relations. Trade between the living and Echo—knowledge, skills, memories—was growing.
+That evening, Mira sat in her office, reviewing reports. The Bridge Academy was expanding, with three new campuses planned. The Queen had established a Ministry of Echo Relations. Trade between the living and Echo,knowledge, skills, memories, was growing.
 
 There were still problems. Some Echo members resented the new arrangements. Some living people demanded more access than the protocols allowed. There were arguments, disputes, moments of tension.
 
 But there were also moments of grace. A father seeing his daughter graduate. A wife hearing her husband's voice one last time. A child learning that death wasn't the end.
 
-Mira set down the reports and looked out the window. The sun was setting over the crystal spires, casting long shadows across the city. In the distance, she could see the network nodes pulsing with light—not just carrying information now, but carrying presence.
+Mira set down the reports and looked out the window. The sun was setting over the crystal spires, casting long shadows across the city. In the distance, she could see the network nodes pulsing with light,not just carrying information now, but carrying presence.
 
 ---
 
@@ -58,7 +58,7 @@ Veren smiled. "Always deflecting credit. That's why you're the right person for 
 
 Mira laughed softly. "Is that how wisdom works?"
 
-"That's how responsibility works," Veren said. "The people who think they have all the answers are usually the ones who cause the most damage. The ones who question themselves, who seek help, who admit when they don't know—those are the ones who build something lasting."
+"That's how responsibility works," Veren said. "The people who think they have all the answers are usually the ones who cause the most damage. The ones who question themselves, who seek help, who admit when they don't know,those are the ones who build something lasting."
 
 Mira considered this. "I didn't build this alone."
 
@@ -68,7 +68,7 @@ Mira considered this. "I didn't build this alone."
 
 Later that night, Mira stood on the balcony of her quarters, looking up at the stars. The network hummed below her, a constant presence in her mind.
 
-She thought about everything that had happened—discovering Echo, losing her position, finding her brother, fighting for connection, building something new.
+She thought about everything that had happened,discovering Echo, losing her position, finding her brother, fighting for connection, building something new.
 
 It hadn't been easy. It still wasn't easy. But it was worth it.
 

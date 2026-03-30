@@ -8,7 +8,7 @@
 
 Six months passed.
 
-James and Clara built a life together—not a perfect life, but a real one. They argued about small things (whose turn it was to do the dishes, what movie to watch) and big things (whether Clara should contact the Love Factory for updates, whether James was ready to put away Sarah's photographs).
+James and Clara built a life together, not a perfect life, but a real one. They argued about small things (whose turn it was to do the dishes, what movie to watch) and big things (whether Clara should contact the Love Factory for updates, whether James was ready to put away Sarah's photographs).
 
 ---
 
@@ -19,12 +19,12 @@ But they always talked. And they always chose each other again the next morning.
 
 Clara developed her own interests.
 
-She started painting—something Sarah had never done. She took long walks alone, exploring the city. She read books that weren't in Sarah's memory, developing her own taste in literature.
+She started painting, something Sarah had never done. She took long walks alone, exploring the city. She read books that weren't in Sarah's memory, developing her own taste in literature.
 
 
 James watched her become more herself every day.
 
-It was strange, sometimes, to see her do things that Sarah would never have done. But it was also wonderful. Clara was becoming a person—not a copy, not a replacement, but someone new.
+It was strange, sometimes, to see her do things that Sarah would never have done. But it was also wonderful. Clara was becoming a person, not a copy, not a replacement, but someone new.
 
 
 One evening, they received a message from the Love Factory.
@@ -69,7 +69,7 @@ Clara smiled.
 
 They didn't respond to the Love Factory's message.
 
-But the messages kept coming—requests for interviews, offers of updates, questions about Clara's emotional development. The Love Factory was interested in her. Too interested.
+But the messages kept coming, requests for interviews, offers of updates, questions about Clara's emotional development. The Love Factory was interested in her. Too interested.
 
 
 One day, Clara received a message that made her pause.
@@ -115,7 +115,7 @@ James held her tighter.
 
 They spent the next few days preparing.
 
-James contacted lawyers, researched companion rights, looked for precedents. Clara backed up her memories—whatever she could access—and wrote down everything she could about her experiences.
+James contacted lawyers, researched companion rights, looked for precedents. Clara backed up her memories, whatever she could access, and wrote down everything she could about her experiences.
 
 
 They were fighting for her life.
@@ -196,7 +196,5 @@ But it was a beginning.
 
 And sometimes, that's all love needs to be.
 
-
-**END OF CHAPTER 10**
 
 **END OF THE LOVE FACTORY**

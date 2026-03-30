@@ -2,7 +2,7 @@
 
 The number glowed on the screen like a verdict: seven digits that summed up forty years.
 
-Robert Miller had expected to feel something when he finally saw it—relief, perhaps, or satisfaction. What he felt was heavier than either, a weight he couldn't quite name. The quarterly statement from his 401(k) had arrived at 5:47 PM, exactly when it always did, and he'd opened it with the same careful attention he'd brought to every financial decision since his first paycheck in 1984.
+Robert Miller had expected to feel something when he finally saw it, relief, perhaps, or satisfaction. What he felt was heavier than either, a weight he couldn't quite name. The quarterly statement from his 401(k) had arrived at 5:47 PM, exactly when it always did, and he'd opened it with the same careful attention he'd brought to every financial decision since his first paycheck in 1984.
 
 The number was larger than he'd projected. By the calculations that had governed his life, he had won.
 
@@ -18,13 +18,13 @@ But the number felt different than he'd imagined. In his mind, reaching this fig
 
 He clicked through to the detailed view, the habits of a lifetime making him verify the calculations. The market had been kind this quarter. His conservative allocations had performed better than expected. The company match had been consistent for thirty-seven of his forty years, interrupted only by the recession in 2008 when they'd suspended it for eighteen months.
 
-Eighteen months. He remembered those months clearly. The anxiety in the office, the whispered conversations about layoffs, the way the partners had stopped meeting his eyes in the hallway. He'd survived—barely—by being indispensable, by knowing things no one else knew about accounts that stretched back decades.
+Eighteen months. He remembered those months clearly. The anxiety in the office, the whispered conversations about layoffs, the way the partners had stopped meeting his eyes in the hallway. He'd survived, barely, by being indispensable, by knowing things no one else knew about accounts that stretched back decades.
 
 He remembered other hard years too. The recession in 2008 had been difficult, but David was only twelve then, still years from college. The harder year had been 2014, when David started college and the firm went through another round of restructuring. The year Robert had lain awake at 3 AM, calculating how they'd manage if he lost his job, how they'd pay tuition, how they'd keep the house. The number on his screen tonight had been smaller then, fragile in a way that made his chest tight just remembering it.
 
 He closed his eyes and let the memories wash over him.
 
-His first day at the firm, wearing a suit he couldn't afford, trying to look like he belonged in a world of partners and clients and numbers that mattered. The way his hands had shaken when he'd made his first deposit to the retirement account—fifty dollars, taken from a paycheck that barely covered rent.
+His first day at the firm, wearing a suit he couldn't afford, trying to look like he belonged in a world of partners and clients and numbers that mattered. The way his hands had shaken when he'd made his first deposit to the retirement account, fifty dollars, taken from a paycheck that barely covered rent.
 
 His father's voice: *You work hard, you save, you retire. That's how it's done.*
 
@@ -72,7 +72,7 @@ He watched her walk back toward the door, her silhouette framed by the hallway l
 
 "Dinner's in twenty minutes," she said. "Don't stare at that number all night. It's not going anywhere."
 
-She was right. The number wasn't going anywhere. But as Robert sat in the quiet dark of his office, the glow of the screen reflecting in his glasses, he couldn't shake the feeling that something else was going somewhere—something he couldn't quite name, something that had been with him so long he'd forgotten it was there.
+She was right. The number wasn't going anywhere. But as Robert sat in the quiet dark of his office, the glow of the screen reflecting in his glasses, he couldn't shake the feeling that something else was going somewhere, something he couldn't quite name, something that had been with him so long he'd forgotten it was there.
 
 He minimized the statement and opened his email. A message from HR sat at the top of his inbox, subject line: *Important: All-Staff Meeting Tomorrow, 9 AM.*
 

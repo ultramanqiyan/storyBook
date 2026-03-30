@@ -8,7 +8,7 @@
 
 James stared at the photograph.
 
-It was the one from their anniversary—three years ago, before everything fell apart. Sarah was laughing, her head thrown back, her eyes bright with joy. He had taken the picture without her knowing, capturing a moment of genuine happiness.
+It was the one from their anniversary, three years ago, before everything fell apart. Sarah was laughing, her head thrown back, her eyes bright with joy. He had taken the picture without her knowing, capturing a moment of genuine happiness.
 
 ---
 
@@ -26,7 +26,7 @@ Six months of empty rooms and silent mornings. Six months of reaching for someon
 
 James set down the photograph and picked up his coffee.
 
-It was cold. He didn't remember making it. He didn't remember much these days—the days blurred together, one gray morning bleeding into the next.
+It was cold. He didn't remember making it. He didn't remember much these days, the days blurred together, one gray morning bleeding into the next.
 
 
 His phone buzzed.
@@ -36,14 +36,14 @@ A message from his sister: *Have you seen the news? There's a new service. They 
 
 James almost deleted it.
 
-He had tried everything—therapy, support groups, dating apps. Nothing worked. The grief was a weight he couldn't put down.
+He had tried everything, therapy, support groups, dating apps. Nothing worked. The grief was a weight he couldn't put down.
 
 But something made him click the link.
 
 
 The website was sleek and professional.
 
-**The Love Factory**—Custom Companion Solutions.
+**The Love Factory**, Custom Companion Solutions.
 
 *We create what you've lost. We restore what was taken. We give you a second chance.*
 
@@ -52,14 +52,14 @@ James scrolled through the testimonials.
 
 *"After my wife passed, I thought I'd never smile again. The Love Factory gave her back to me."*
 
-*"My husband left me for someone else. But now I have him back—better than before."*
+*"My husband left me for someone else. But now I have him back, better than before."*
 
 *"They say you can't buy love. They were wrong."*
 
 
 It felt wrong.
 
-It felt like cheating—like giving up on the possibility of moving on, of finding someone new, of healing naturally.
+It felt like cheating, like giving up on the possibility of moving on, of finding someone new, of healing naturally.
 
 But James was tired of healing. He was tired of moving on. He was tired of waking up alone.
 
@@ -72,7 +72,7 @@ The consultation was scheduled for the next day.
 James almost canceled it three times. But each time, he looked at Sarah's photograph, and something kept him from hitting the button.
 
 
-The Love Factory building was in the city center—glass and steel, modern and clean.
+The Love Factory building was in the city center, glass and steel, modern and clean.
 
 James walked through the doors and was greeted by a woman in a white coat. Her smile was professional, practiced.
 
@@ -88,7 +88,7 @@ Soft lighting. Warm colors. A screen on the wall displaying options and specific
 
 James talked for two hours.
 
-He talked about Sarah's laugh—how it started quiet and built up to something full and warm. He talked about her habits—the way she hummed while cooking, the way she left books open face-down despite knowing better. He talked about her flaws—her impatience, her stubbornness, the way she sometimes said things that hurt.
+He talked about Sarah's laugh, how it started quiet and built up to something full and warm. He talked about her habits, the way she hummed while cooking, the way she left books open face-down despite knowing better. He talked about her flaws, her impatience, her stubbornness, the way she sometimes said things that hurt.
 
 
 Dr. Chen took notes. Lots of notes.
@@ -102,7 +102,7 @@ James hesitated.
 
 Dr. Chen nodded slowly.
 
-"That's a common issue, Mr. Morrison. We can address it. Our companions are designed to be authentic—to have real personalities, real flaws, real depth. They're not just copies. They're... continuations."
+"That's a common issue, Mr. Morrison. We can address it. Our companions are designed to be authentic, to have real personalities, real flaws, real depth. They're not just copies. They're... continuations."
 
 
 "Continuations," James repeated.
@@ -126,7 +126,7 @@ Walking home that evening, James felt something he hadn't felt in months.
 
 Hope.
 
-It was fragile and uncertain, like a candle flame in the wind. But it was there—flickering in his chest, refusing to go out.
+It was fragile and uncertain, like a candle flame in the wind. But it was there, flickering in his chest, refusing to go out.
 
 
 He looked at Sarah's photograph one more time.
@@ -142,5 +142,3 @@ Whether it was the right one, he couldn't know.
 
 But it was done.
 
-
-**END OF CHAPTER 01**

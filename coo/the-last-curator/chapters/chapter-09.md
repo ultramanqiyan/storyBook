@@ -2,7 +2,7 @@
 
 Two weeks after his resignation, Marcus bought paints.
 
-He hadn't painted since art school—thirty years of looking at other people's work, analyzing it, judging it, but never making anything himself.
+He hadn't painted since art school, thirty years of looking at other people's work, analyzing it, judging it, but never making anything himself.
 
 Now, standing in the art supply store, he felt like an imposter.
 
@@ -12,7 +12,7 @@ Which, he supposed, was appropriate.
 
 He set up a studio in his spare bedroom.
 
-The space was small—a desk pushed against the wall, a cheap easel, a drop cloth on the floor. Nothing like the professional setups he'd visited over the years. Nothing like Jimmy's carefully staged warehouse.
+The space was small, a desk pushed against the wall, a cheap easel, a drop cloth on the floor. Nothing like the professional setups he'd visited over the years. Nothing like Jimmy's carefully staged warehouse.
 
 This was real. Or at least, it was his.
 
@@ -20,9 +20,9 @@ This was real. Or at least, it was his.
 
 The first painting was a disaster.
 
-He'd forgotten how difficult it was—the physical resistance of the brush, the way paint behaved differently than you expected, the gap between what you saw in your mind and what appeared on the canvas.
+He'd forgotten how difficult it was, the physical resistance of the brush, the way paint behaved differently than you expected, the gap between what you saw in your mind and what appeared on the canvas.
 
-He worked for hours, trying to capture something he couldn't name. When he stepped back, he saw only a mess—colors that didn't work, forms that didn't cohere, a painting that said nothing.
+He worked for hours, trying to capture something he couldn't name. When he stepped back, he saw only a mess, colors that didn't work, forms that didn't cohere, a painting that said nothing.
 
 He scraped it off and started again.
 
@@ -40,7 +40,7 @@ He just painted.
 
 Three weeks in, he had something.
 
-It wasn't a masterpiece. It wasn't even particularly good. But it was his—a dark, messy thing that somehow captured what he'd been feeling. The confusion. The loss. The strange, tentative hope.
+It wasn't a masterpiece. It wasn't even particularly good. But it was his, a dark, messy thing that somehow captured what he'd been feeling. The confusion. The loss. The strange, tentative hope.
 
 He looked at it for a long time.
 
@@ -49,7 +49,7 @@ Then he called Elena.
 
 She came to his apartment on a Thursday evening.
 
-Marcus stood nervously by the easel, the painting covered with a cloth. He felt like a student presenting work to a teacher—which, in a way, he was.
+Marcus stood nervously by the easel, the painting covered with a cloth. He felt like a student presenting work to a teacher, which, in a way, he was.
 
 "So," Elena said, looking around the makeshift studio. "You're making art now."
 
@@ -59,7 +59,7 @@ Marcus stood nervously by the easel, the painting covered with a cloth. He felt 
 
 "I've had a lot of changes lately."
 
-She smiled—a genuine smile, the first he'd seen from her in months. "Show me."
+She smiled, a genuine smile, the first he'd seen from her in months. "Show me."
 
 He pulled the cloth away.
 
@@ -113,7 +113,7 @@ For the first time in months, he felt something like peace.
 
 The next day, he made a decision.
 
-He photographed the painting and submitted it to a small gallery in Brooklyn—a neighborhood place that accepted open submissions. No credentials. No reputation. Just a painting.
+He photographed the painting and submitted it to a small gallery in Brooklyn, a neighborhood place that accepted open submissions. No credentials. No reputation. Just a painting.
 
 The email felt like a confession.
 
@@ -130,7 +130,7 @@ The response came a week later.
 
 Marcus read the email three times.
 
-He'd been accepted. Not because of his name—though the gallery owner had surely recognized it—but because of the work. Because of something he'd made with his own hands.
+He'd been accepted. Not because of his name, though the gallery owner had surely recognized it, but because of the work. Because of something he'd made with his own hands.
 
 It wasn't redemption. It wasn't vindication.
 
@@ -165,6 +165,6 @@ He put down the phone and looked at his painting.
 
 It was rough. Imperfect. Human.
 
-Or maybe it wasn't human at all—maybe that distinction didn't mean what he'd thought it meant.
+Or maybe it wasn't human at all, maybe that distinction didn't mean what he'd thought it meant.
 
 But it was his. And for now, that was enough.

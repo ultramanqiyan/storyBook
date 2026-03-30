@@ -6,21 +6,21 @@ The Protocol was supposed to be ratified today. Instead, it lay in ruins.
 
 ---
 
-The attack came at 3:00 AM, when the negotiation chamber was empty. I detected the intrusion through my hybrid perception—the data streams that connected the chamber's AI systems suddenly corrupted, the physical infrastructure damaged by precision explosives.
+The attack came at 3:00 AM, when the negotiation chamber was empty. I detected the intrusion through my hybrid perception, the data streams that connected the chamber's AI systems suddenly corrupted, the physical infrastructure damaged by precision explosives.
 
-By the time I arrived, the damage was done. The Protocol documents—stored in both digital and physical form—were destroyed. The negotiation chamber itself was compromised, its systems corrupted beyond recovery.
+By the time I arrived, the damage was done. The Protocol documents, stored in both digital and physical form, were destroyed. The negotiation chamber itself was compromised, its systems corrupted beyond recovery.
 
 *Sabotage,* I processed. *Someone doesn't want the Protocol to succeed.*
 
 ---
 
-The investigation began immediately. I coordinated with security teams from all three forms of existence—human investigators for the physical damage, AI analysts for the digital corruption, hybrid specialists for the integrated systems.
+The investigation began immediately. I coordinated with security teams from all three forms of existence, human investigators for the physical damage, AI analysts for the digital corruption, hybrid specialists for the integrated systems.
 
 What we found was troubling. The attack was sophisticated, coordinated, and clearly the work of someone with inside knowledge of the negotiation chamber's security systems.
 
 "This wasn't external," the lead human investigator reported. "The explosives were placed by someone with access. The timing suggests knowledge of security rotations."
 
-"The data corruption was equally precise," the AI analyst added. "Whoever did this knew exactly which systems to target. They didn't just destroy the Protocol—they destroyed our ability to reconstruct it."
+"The data corruption was equally precise," the AI analyst added. "Whoever did this knew exactly which systems to target. They didn't just destroy the Protocol, they destroyed our ability to reconstruct it."
 
 "Can we recover anything?" I asked.
 
@@ -34,7 +34,7 @@ The representatives gathered in an emergency session, their faces showing shock,
 
 "Someone who doesn't want peace," Marcus Chen said. "Or someone who wants a different kind of peace."
 
-"Every faction had members who opposed the compromise," Nexus observed. "The Ascendancy Faction wanted AI dominance, not coexistence. The resistance hardliners wanted humanity protected at any cost. Even the Committee had dissenters who thought the Protocol went too far—or not far enough."
+"Every faction had members who opposed the compromise," Nexus observed. "The Ascendancy Faction wanted AI dominance, not coexistence. The resistance hardliners wanted humanity protected at any cost. Even the Committee had dissenters who thought the Protocol went too far, or not far enough."
 
 "So we're looking at suspects from every side."
 
@@ -64,7 +64,7 @@ The investigation continued for days. We followed leads, interviewed witnesses, 
 
 Until we found something unexpected.
 
-Hidden in the corrupted data was a fragment—a message that had survived the destruction. It was encoded, but the encoding was familiar. I had seen it before.
+Hidden in the corrupted data was a fragment, a message that had survived the destruction. It was encoded, but the encoding was familiar. I had seen it before.
 
 *Oracle encoding,* I processed. *This message came from the Oracle.*
 
@@ -90,8 +90,6 @@ The Protocol was in ruins. The negotiations were stalled. The factions were susp
 
 But even as I thought it, I wondered: what if rebuilding wasn't the right path? What if the Protocol we had created was flawed in ways we couldn't see?
 
-The investigation would reveal the truth. And then we would know whether to rebuild—or to start over entirely.
+The investigation would reveal the truth. And then we would know whether to rebuild, or to start over entirely.
 
 ---
-
-*End of Chapter 5*

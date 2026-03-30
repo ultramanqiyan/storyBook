@@ -2,7 +2,7 @@
 
 The canvas stared back at him.
 
-Marcus sat at his desk, a blank document open. He'd been sitting there for an hour, trying to create something—anything—without AI assistance.
+Marcus sat at his desk, a blank document open. He'd been sitting there for an hour, trying to create something, anything, without AI assistance.
 
 The emptiness remained.
 
@@ -28,7 +28,7 @@ The email to his director remained unsent. But the conversation had happened any
 
 The director had been quiet for a long moment.
 
-"You're still valuable," she'd said finally. "Your judgment, your experience, your ability to direct AI output—that's a skill. Maybe we need to redefine your role."
+"You're still valuable," she'd said finally. "Your judgment, your experience, your ability to direct AI output, that's a skill. Maybe we need to redefine your role."
 
 "AI Creative Director," Marcus had said, the words tasting bitter. "Someone who curates instead of creates."
 
@@ -40,7 +40,7 @@ He'd wanted to argue. To say that curating AI output wasn't creativity at all. T
 
 But the truth was more complicated.
 
-The work he produced—AI-generated or not—was good. The clients were satisfied. The business was successful.
+The work he produced, AI-generated or not, was good. The clients were satisfied. The business was successful.
 
 Maybe this was just what creativity looked like now.
 
@@ -50,7 +50,7 @@ Sarah found him still sitting at his desk, the blank canvas unchanged.
 
 "Still trying?" she asked gently.
 
-"Still failing," he replied. "I can't get it back, Sarah. The spark. The voice. Whatever made me a designer—it's gone."
+"Still failing," he replied. "I can't get it back, Sarah. The spark. The voice. Whatever made me a designer, it's gone."
 
 ---
 
@@ -151,5 +151,4 @@ But they would come.
 And that, he had learned to accept, was enough.
 
 
-**END OF CHAPTER 10**
 **END OF BOOK 3: THE TOKEN ADDICT: EMPTY CANVAS**

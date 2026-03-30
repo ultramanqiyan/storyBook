@@ -10,7 +10,7 @@ Alex made another prediction.
 
 The client was a woman in her thirties, seeking guidance about her career. She had been offered a promotion that would require relocation, and she was torn between accepting and declining.
 
-Alex studied her data—her purchase history, her social media activity, her previous decisions, her stated preferences. The Desire Market had access to everything: every click, every search, every moment of engagement.
+Alex studied her data, her purchase history, her social media activity, her previous decisions, her stated preferences. The Desire Market had access to everything: every click, every search, every moment of engagement.
 
 He made his recommendation.
 
@@ -26,7 +26,7 @@ The woman looked at him with surprise.
 
 Alex was a decoder.
 
-He worked for the Desire Market, the world's leading desire prediction service. Clients came to him when they couldn't figure out what they wanted—when their conscious preferences conflicted with their unconscious drives, when their stated goals diverged from their actual behaviors.
+He worked for the Desire Market, the world's leading desire prediction service. Clients came to him when they couldn't figure out what they wanted, when their conscious preferences conflicted with their unconscious drives, when their stated goals diverged from their actual behaviors.
 
 Alex could see through the confusion. He could decode the signals, identify the patterns, reveal the truth about what people really wanted.
 
@@ -48,7 +48,7 @@ That evening, Alex used the Desire Market's personal service.
 
 Like all employees, he had access to the prediction algorithms for his own use. He had been using the service for years, consulting it whenever he faced a decision, whenever he felt uncertain about what he wanted.
 
-Tonight, he was considering a purchase—a new apartment in a different neighborhood. The Desire Market's algorithm would tell him whether the move aligned with his authentic desires.
+Tonight, he was considering a purchase, a new apartment in a different neighborhood. The Desire Market's algorithm would tell him whether the move aligned with his authentic desires.
 
 He input his data and waited for the recommendation.
 
@@ -64,7 +64,7 @@ He would make the purchase.
 
 But something caught his attention.
 
-As he reviewed the recommendation details, he noticed a pattern he had seen before—not in other people's data, but in his own. The algorithm's recommendation matched his conscious preference exactly.
+As he reviewed the recommendation details, he noticed a pattern he had seen before, not in other people's data, but in his own. The algorithm's recommendation matched his conscious preference exactly.
 
 That wasn't unusual. The Desire Market was designed to identify authentic desires, and authentic desires often aligned with conscious preferences.
 
@@ -73,7 +73,7 @@ But this time, the match was too perfect.
 
 Alex examined his own data.
 
-He pulled up his desire history—every prediction the algorithm had made for him over the past five years. There were hundreds of recommendations: what to eat, what to wear, where to go, who to date, what to buy.
+He pulled up his desire history, every prediction the algorithm had made for him over the past five years. There were hundreds of recommendations: what to eat, what to wear, where to go, who to date, what to buy.
 
 And every single recommendation matched his conscious preference.
 
@@ -82,7 +82,7 @@ Not approximately. Not mostly. Exactly.
 
 That was statistically impossible.
 
-The Desire Market's algorithms were good, but they weren't perfect. Most predictions had some degree of deviation—a slight mismatch between the recommended desire and the client's conscious preference. That was normal. That was human.
+The Desire Market's algorithms were good, but they weren't perfect. Most predictions had some degree of deviation, a slight mismatch between the recommended desire and the client's conscious preference. That was normal. That was human.
 
 But Alex's data showed no deviation. Zero. His conscious preferences and the algorithm's recommendations were identical.
 
@@ -102,5 +102,3 @@ He was a decoder. He was supposed to see through confusion, identify patterns, r
 
 But could he decode himself?
 
-
-**END OF CHAPTER 01**

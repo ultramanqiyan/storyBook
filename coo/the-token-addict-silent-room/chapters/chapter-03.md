@@ -14,7 +14,7 @@ The memory was distant. Years ago, before ConnectHub. He'd called friends just t
 
 Now, every interaction was calculated. Every communication was optimized. Every relationship was efficient.
 
-*This is what distance looks like*, he realized. *Not being antisocial—being efficiently social. Not avoiding people—avoiding inefficiency.*
+*This is what distance looks like*, he realized. *Not being antisocial, being efficiently social. Not avoiding people, avoiding inefficiency.*
 
 ---
 
@@ -34,8 +34,6 @@ He would reach out to someone without AI assistance. Just one genuine connection
 
 But when he picked up his phone, the thought of calling without ConnectHub's guidance felt overwhelming. The words wouldn't come. The uncertainty was paralyzing.
 
-*This is what avoidance looks like*, he realized. *Not choosing not to connect—being unable to connect without AI mediation.*
+*This is what avoidance looks like*, he realized. *Not choosing not to connect, being unable to connect without AI mediation.*
 
 He put the phone down. And the distance continued to grow.
-
-**END OF CHAPTER 3**

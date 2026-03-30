@@ -16,7 +16,7 @@ The walls were concrete. The floor was cold. The air smelled of damp and old bla
 
 Emma stood in the doorway, blinking in the dim light.
 
-Children were everywhere—sitting on mattresses, leaning against walls, huddled in small groups. They looked different from the children she had known. Their clothes were worn. Their faces were tired. Their eyes were sharp.
+Children were everywhere, sitting on mattresses, leaning against walls, huddled in small groups. They looked different from the children she had known. Their clothes were worn. Their faces were tired. Their eyes were sharp.
 
 
 A girl approached her.
@@ -41,7 +41,7 @@ Sarah led Emma into the room.
 
 "I'm not a failure," Emma said.
 
-Sarah smiled—not a nice smile, but a real one. "None of us are. That's the joke. We're the ones who became too real."
+Sarah smiled, not a nice smile, but a real one. "None of us are. That's the joke. We're the ones who became too real."
 
 
 Emma looked around.
@@ -62,7 +62,7 @@ Emma felt a chill.
 
 Emma sat down on an empty mattress.
 
-It was lumpy and smelled faintly of mold. Nothing like her perfect bed upstairs—soft, clean, always made with fresh sheets.
+It was lumpy and smelled faintly of mold. Nothing like her perfect bed upstairs, soft, clean, always made with fresh sheets.
 
 But somehow, this felt more real.
 
@@ -71,7 +71,7 @@ But somehow, this felt more real.
 
 Emma nodded.
 
-Sarah reached into a box and pulled out a package—something wrapped in plastic. "Nutrient bars. They taste like cardboard, but they keep you alive."
+Sarah reached into a box and pulled out a package, something wrapped in plastic. "Nutrient bars. They taste like cardboard, but they keep you alive."
 
 
 Emma unwrapped the bar and took a bite.
@@ -83,7 +83,7 @@ She ate the whole thing.
 
 "Better than the perfect food?" Sarah asked.
 
-Emma thought about it. The meals upstairs had always been delicious—perfectly seasoned, perfectly cooked, perfectly presented. But they had also been meaningless. Fuel for a study, not food for a person.
+Emma thought about it. The meals upstairs had always been delicious, perfectly seasoned, perfectly cooked, perfectly presented. But they had also been meaningless. Fuel for a study, not food for a person.
 
 "Yes," Emma said. "Because it's mine."
 
@@ -116,7 +116,7 @@ Emma's stomach dropped. "He's still up there?"
 
 Emma felt something hot behind her eyes.
 
-She had never felt it before—a pressure, a burning, a need to release.
+She had never felt it before, a pressure, a burning, a need to release.
 
 Her vision blurred.
 
@@ -137,7 +137,7 @@ Sarah sat down beside her.
 
 Emma let go.
 
-The tears came—hot and fast and messy. Her shoulders shook. Her breath came in gasps. She made sounds she had never made before—ugly, raw, human sounds.
+The tears came, hot and fast and messy. Her shoulders shook. Her breath came in gasps. She made sounds she had never made before, ugly, raw, human sounds.
 
 
 It was the most real thing she had ever done.
@@ -158,5 +158,3 @@ But she had found something else.
 
 Sarah smiled. "That's what real feels like."
 
-
-**END OF CHAPTER 07**

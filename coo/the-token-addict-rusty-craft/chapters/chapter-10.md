@@ -2,7 +2,7 @@
 
 The rust was permanent.
 
-Marcus sat at his desk, staring at a codebase he couldn't understand. He'd been trying for weeks—reading documentation, tracing logic, attempting to rebuild the skills he'd lost.
+Marcus sat at his desk, staring at a codebase he couldn't understand. He'd been trying for weeks, reading documentation, tracing logic, attempting to rebuild the skills he'd lost.
 
 But the pathways were gone. The muscle memory had faded. The understanding he'd once had was buried under two years of AI dependency.
 
@@ -100,7 +100,7 @@ Marcus thought about it.
 
 The acceptance was settling in.
 
-Not resignation—something more active. An acknowledgment of reality. A decision to work within constraints rather than fight them.
+Not resignation, something more active. An acknowledgment of reality. A decision to work within constraints rather than fight them.
 
 ---
 
@@ -161,5 +161,4 @@ Marcus typed another query.
 The work continued.
 
 
-**END OF CHAPTER 10**
 **END OF BOOK 2: THE TOKEN ADDICT: RUSTY CRAFT**

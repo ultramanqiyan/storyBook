@@ -1,12 +1,12 @@
 # Chapter 2: The Tool - AI Meets Tradition
 
-Marcus Chen arrived at Sofia's workshop the following week, carrying a tablet and a small scanning device. He was younger than Sofia had expected—early thirties, with the particular energy of someone who believed technology could solve any problem.
+Marcus Chen arrived at Sofia's workshop the following week, carrying a tablet and a small scanning device. He was younger than Sofia had expected, early thirties, with the particular energy of someone who believed technology could solve any problem.
 
 "Thank you for meeting with me," he said, looking around the workshop with obvious interest. "This is an incredible space. You've been doing this for how long?"
 
 "Twenty years," Sofia said. "And my mentor before me did it for forty. There's a lot of history in this craft."
 
-"I can see that." Marcus set his tablet on her workbench. "What we've developed is a tool—not a replacement. It's designed to help restorers like you work more efficiently, more accurately."
+"I can see that." Marcus set his tablet on her workbench. "What we've developed is a tool, not a replacement. It's designed to help restorers like you work more efficiently, more accurately."
 
 Sofia crossed her arms. "What exactly does it do?"
 
@@ -16,7 +16,7 @@ Sofia gestured to the Victorian chair, which was waiting for pickup. "Go ahead."
 
 ---
 
-Marcus ran the scanner over the chair, the device clicking softly as it captured data. On his tablet, a three-dimensional model began to appear—every curve, every detail, every grain of the wood rendered in precise detail.
+Marcus ran the scanner over the chair, the device clicking softly as it captured data. On his tablet, a three-dimensional model began to appear, every curve, every detail, every grain of the wood rendered in precise detail.
 
 "The scanner captures the geometry, the finish, the damage patterns," Marcus explained. "Then the AI analyzes the piece and generates restoration recommendations."
 
@@ -26,11 +26,11 @@ He tapped the screen, and a new image appeared: the Victorian chair as it had be
 
 ---
 
-Sofia studied the screen. The analysis was accurate—impressively so. But something about it bothered her.
+Sofia studied the screen. The analysis was accurate, impressively so. But something about it bothered her.
 
 "How does it know what the original looked like?" she asked.
 
-"It doesn't know for certain. But it can extrapolate from similar pieces in our database. The Victorian chair is a common style—we have thousands of examples. The AI can predict what the original finish would have been, what the joinery would have looked like."
+"It doesn't know for certain. But it can extrapolate from similar pieces in our database. The Victorian chair is a common style, we have thousands of examples. The AI can predict what the original finish would have been, what the joinery would have looked like."
 
 "Predict," Sofia repeated. "Not know."
 
@@ -39,7 +39,7 @@ Sofia studied the screen. The analysis was accurate—impressively so. But somet
 
 A list of steps appeared, each one detailed and specific: strip the finish using a gel remover, repair the leg with mortise and tenon joinery, match the wood from reclaimed walnut, apply a shellac finish using the French polish technique.
 
-Sofia stared at the list. It was exactly what she had done. Not similar—exactly.
+Sofia stared at the list. It was exactly what she had done. Not similar, exactly.
 
 "How did it know about the French polish?" she asked.
 
@@ -75,7 +75,7 @@ Sofia studied the list. It was good. It was thorough. It was... almost right.
 
 Marcus nodded. "That's exactly the kind of feedback we need. The system learns from experts like you. Can you show me what you would recommend instead?"
 
-Sofia walked to her supply cabinet and pulled out a drawer of hardware she'd collected over the years. "I have original pieces from this period. I'd match the style, the weight, the patina. It's not about finding something that looks right—it's about finding something that is right."
+Sofia walked to her supply cabinet and pulled out a drawer of hardware she'd collected over the years. "I have original pieces from this period. I'd match the style, the weight, the patina. It's not about finding something that looks right, it's about finding something that is right."
 
 
 Marcus took notes, asked questions, seemed genuinely interested in understanding the nuances of craft. By the time he left, Sofia had agreed to test the system on her upcoming projects and provide feedback.
@@ -92,7 +92,7 @@ Or was she just telling herself that? Was the difference real, or was it just he
 She didn't know. But she was going to find out.
 
 
-Over the next week, Sofia used the AI system on three projects. Each time, the recommendations were good—competent, thorough, technically accurate. And each time, Sofia found herself making adjustments, trusting her instincts over the algorithm.
+Over the next week, Sofia used the AI system on three projects. Each time, the recommendations were good, competent, thorough, technically accurate. And each time, Sofia found herself making adjustments, trusting her instincts over the algorithm.
 
 But the adjustments were small. The AI got most things right. And as she used it, she found herself relying on it more, checking its recommendations before making decisions.
 

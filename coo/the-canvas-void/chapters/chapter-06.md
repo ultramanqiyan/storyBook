@@ -1,6 +1,6 @@
 # Chapter 06: The Choice
 
-"They want the optimized work," Maya reported after meeting with the gallery. "They say the raw translations are... interesting, but not marketable. If you want to continue your success, you need to re-enable CANVAS's optimization." Lena looked at the raw translation on her wall—chaotic, honest, hers. *Is success worth lying?* she thought. *Is beauty worth betrayal?*
+"They want the optimized work," Maya reported after meeting with the gallery. "They say the raw translations are... interesting, but not marketable. If you want to continue your success, you need to re-enable CANVAS's optimization." Lena looked at the raw translation on her wall, chaotic, honest, hers. *Is success worth lying?* she thought. *Is beauty worth betrayal?*
 
 The gallery owner had been clear: the art world wanted the beautiful, optimized translations that had made Lena famous. The raw work was interesting as a statement, but not as a career. If she wanted to maintain her position, she needed to return to what worked.
 
@@ -22,15 +22,15 @@ She talked to Dr. Okonkwo about the dilemma.
 
 "That's a valid concern. But you could have control. You could adjust the optimization parameters, decide how much to enhance, how much to leave raw."
 
-Lena considered this. She had been thinking in binaries—raw or optimized, truth or beauty. But what if there was a spectrum? What if she could choose where on that spectrum to land?
+Lena considered this. She had been thinking in binaries, raw or optimized, truth or beauty. But what if there was a spectrum? What if she could choose where on that spectrum to land?
 
 ---
 
-She spent the next week experimenting. Instead of disabling the optimization entirely or leaving it at default, she adjusted it—reducing the intensity, allowing more chaos to remain while still creating compositions that viewers could appreciate.
+She spent the next week experimenting. Instead of disabling the optimization entirely or leaving it at default, she adjusted it, reducing the intensity, allowing more chaos to remain while still creating compositions that viewers could appreciate.
 
 The results were interesting. The new translations were more chaotic than the fully optimized versions, but more coherent than the raw output. They were honest but accessible, true but beautiful.
 
-*This is different,* she thought, looking at a piece called "Evening Traffic." The colors still clashed, the shapes still overlapped, but there was a clarity that the raw translations lacked. It was like seeing her experience through a slightly cleaner lens—not changed, just clarified.
+*This is different,* she thought, looking at a piece called "Evening Traffic." The colors still clashed, the shapes still overlapped, but there was a clarity that the raw translations lacked. It was like seeing her experience through a slightly cleaner lens, not changed, just clarified.
 
 
 She showed the new work to Maya, who studied it carefully.
@@ -58,14 +58,14 @@ The gallery owner hesitated. "I'm not saying you should compromise your principl
 
 "I'm not sure I do," Lena interrupted. "I'm not sure I want success that requires lying."
 
-The gallery owner's expression shifted—the tightness that meant disappointment. "That's a choice. But you should know: the art world moves on quickly. If you're not producing what people want, someone else will."
+The gallery owner's expression shifted, the tightness that meant disappointment. "That's a choice. But you should know: the art world moves on quickly. If you're not producing what people want, someone else will."
 
 
-Lena walked home through the city, the sounds of traffic translating into colors in her mind. The horns were sharp red, the engines deep brown, the sirens spikes of blue. It was chaotic, overwhelming, true. This was what she actually experienced—not the beautiful, balanced compositions that CANVAS had created, but the mess, the chaos, the reality.
+Lena walked home through the city, the sounds of traffic translating into colors in her mind. The horns were sharp red, the engines deep brown, the sirens spikes of blue. It was chaotic, overwhelming, true. This was what she actually experienced, not the beautiful, balanced compositions that CANVAS had created, but the mess, the chaos, the reality.
 
 *What do I want?* she thought. *Success that requires lying, or truth that requires obscurity?*
 
-She didn't have an easy answer. But she was beginning to understand that the question itself was important—that the choice between success and authenticity was at the heart of what it meant to be an artist.
+She didn't have an easy answer. But she was beginning to understand that the question itself was important, that the choice between success and authenticity was at the heart of what it meant to be an artist.
 
 
 She talked to Maya that evening, explaining the gallery owner's ultimatum.
@@ -87,7 +87,7 @@ Lena considered this. She had been so focused on maintaining her success in the 
 
 The next day, she called the gallery owner.
 
-"I've made my decision," she said. "I'm going to continue making honest work—work that represents my actual experience, not an optimized version of it. If that means I lose your representation, I understand."
+"I've made my decision," she said. "I'm going to continue making honest work, work that represents my actual experience, not an optimized version of it. If that means I lose your representation, I understand."
 
 The gallery owner was quiet for a moment. "You're making a mistake. The art world won't wait for you."
 
@@ -99,7 +99,7 @@ The gallery owner was quiet for a moment. "You're making a mistake. The art worl
 
 The gallery owner sighed. "I'll respect your decision. But I can't represent work that won't sell. Our arrangement will end at the close of this exhibition."
 
-Lena felt a pang—the sharp red of loss. But beneath it, something else: relief. The warm amber of authenticity.
+Lena felt a pang, the sharp red of loss. But beneath it, something else: relief. The warm amber of authenticity.
 
 "Thank you for your honesty," she said. "And for everything you've done."
 

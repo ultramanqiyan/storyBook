@@ -2,7 +2,7 @@
 
 The coffee date with Rachel was supposed to be easy.
 
-Maya had practiced what to say—casual questions about work, appropriate sharing about her own projects, the kind of conversation that built professional relationships without getting too personal.
+Maya had practiced what to say, casual questions about work, appropriate sharing about her own projects, the kind of conversation that built professional relationships without getting too personal.
 
 But when she sat down across from Rachel at the coffee shop, all her preparation evaporated.
 
@@ -30,11 +30,11 @@ By the time they parted ways, Maya could see the disappointment in Rachel's eyes
 
 Back in her apartment, Maya sat on her couch and stared at the wall.
 
-What was wrong with her? She'd wanted this—a connection, a potential friend, someone to talk to. But the moment Rachel had tried to get close, Maya had pushed her away.
+What was wrong with her? She'd wanted this, a connection, a potential friend, someone to talk to. But the moment Rachel had tried to get close, Maya had pushed her away.
 
 *It's safer this way,* the voice in her head said. *People leave. People disappoint. Better to keep your distance.*
 
-But another voice—the one that had driven her to the meetup in the first place—whispered: *You can't keep living like this. Something has to change.*
+But another voice, the one that had driven her to the meetup in the first place, whispered: *You can't keep living like this. Something has to change.*
 
 She pulled out her phone and scrolled to a number she'd been avoiding for weeks. Dr. Sarah Chen, a therapist her primary care doctor had recommended when Maya had mentioned feeling "a little down" during a routine appointment.
 
@@ -48,13 +48,13 @@ Dr. Chen's office was in a converted house near City Park.
 
 The waiting room was warm and quiet, with soft lighting and comfortable chairs. Maya sat on the edge of her seat, her hands clasped in her lap, her heart racing.
 
-"Maya?" Dr. Chen appeared in the doorway. She was younger than Maya had expected—maybe late thirties—with a calm presence that immediately put Maya slightly at ease.
+"Maya?" Dr. Chen appeared in the doorway. She was younger than Maya had expected, maybe late thirties, with a calm presence that immediately put Maya slightly at ease.
 
 The therapy room was simple. Two chairs, a small table with a box of tissues, a window overlooking the park. Maya took the chair closest to the door.
 
 "So," Dr. Chen said, settling into her own chair. "What brings you here today?"
 
-Maya had prepared an answer—something professional, something that wouldn't reveal too much. But looking at Dr. Chen's open, patient face, she found herself saying something else entirely.
+Maya had prepared an answer, something professional, something that wouldn't reveal too much. But looking at Dr. Chen's open, patient face, she found herself saying something else entirely.
 
 "I'm lonely." The words came out before she could stop them. "I've been lonely for a long time. And I don't know how to fix it."
 
@@ -87,7 +87,7 @@ Maya let out a bitter laugh. "I'm successful. Independent. Self-sufficient." She
 
 The session ended with homework.
 
-"I want you to try something," Dr. Chen said. "The next time you have an opportunity to connect with someone—a real opportunity, not just a polite conversation—I want you to share one real thing. Something true. Something vulnerable."
+"I want you to try something," Dr. Chen said. "The next time you have an opportunity to connect with someone, a real opportunity, not just a polite conversation, I want you to share one real thing. Something true. Something vulnerable."
 
 Maya felt panic rise. "That sounds terrifying."
 
@@ -105,7 +105,7 @@ The question echoed in her mind. And for the first time, she let herself answer 
 
 She was afraid of being seen. Of being known. Of letting someone in and having them leave anyway.
 
-But she was also afraid of this—of being alone forever. Of drowning in silence. of looking back on her life and seeing nothing but empty rooms.
+But she was also afraid of this, of being alone forever. Of drowning in silence. of looking back on her life and seeing nothing but empty rooms.
 
 Two fears. Two paths. And she had to choose which one to face.
 

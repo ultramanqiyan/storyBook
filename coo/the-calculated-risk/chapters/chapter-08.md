@@ -2,7 +2,7 @@
 
 The sponsor meeting was scheduled for Monday morning. I walked into the Apex Athletics headquarters, my stomach churning with anxiety.
 
-The conference room was sleek and modern, the walls covered with images of athletes—myself included—performing amazing feats with RISK-AI guidance. The company had built its brand on optimization, on the promise that AI could make anyone better, faster, more successful.
+The conference room was sleek and modern, the walls covered with images of athletes, myself included, performing amazing feats with RISK-AI guidance. The company had built its brand on optimization, on the promise that AI could make anyone better, faster, more successful.
 
 I was about to tell them I didn't want their system anymore.
 
@@ -40,7 +40,7 @@ David was quiet for a long moment. Then he leaned forward, his expression shifti
 
 The meeting ended badly. David made it clear that Apex Athletics would not continue sponsoring an athlete who refused to use RISK-AI. My contract would be terminated, my income would disappear, my career would be in jeopardy.
 
-I walked out of the building, my mind racing. I had known this would happen—had known that rejecting the system meant rejecting the industry that had built itself around it. But the reality was harder than I had expected.
+I walked out of the building, my mind racing. I had known this would happen, had known that rejecting the system meant rejecting the industry that had built itself around it. But the reality was harder than I had expected.
 
 I was alone.
 
@@ -54,7 +54,7 @@ I was becoming irrelevant, just as David had predicted.
 
 The low point came on a Tuesday evening, two months after the sponsor meeting. I sat in my apartment, staring at the bills I couldn't pay, the career I couldn't salvage, the future I couldn't see.
 
-I thought about reactivating RISK-AI. The system was still repaired, still ready to come online. All I had to do was accept it, and everything would go back to normal—sponsorship, income, success.
+I thought about reactivating RISK-AI. The system was still repaired, still ready to come online. All I had to do was accept it, and everything would go back to normal, sponsorship, income, success.
 
 But I couldn't do it. I had learned too much, had come too far, had found something too essential to give up.
 
@@ -67,7 +67,7 @@ The phone call came the next day. It was Marcus, his voice excited.
 
 I agreed, not knowing what to expect.
 
-When I arrived, Marcus was waiting with a group of people—climbers, all of them, ranging in age from their twenties to their fifties.
+When I arrived, Marcus was waiting with a group of people, climbers, all of them, ranging in age from their twenties to their fifties.
 
 "This is the resistance," Marcus said, gesturing to the group. "Climbers who have chosen to climb without AI assistance. Athletes who have rejected the system and found another way."
 
@@ -80,7 +80,7 @@ I stared at them, my heart racing. I wasn't alone. There were others who had mad
 "There are more than you think," Marcus said. "And we're growing. The system has created a generation of dependent athletes, but some of us are fighting back."
 
 
-The meeting lasted for hours. The climbers shared their stories—how they had become dependent on RISK-AI, how they had discovered the truth about the system, how they had chosen to climb without it.
+The meeting lasted for hours. The climbers shared their stories, how they had become dependent on RISK-AI, how they had discovered the truth about the system, how they had chosen to climb without it.
 
 They talked about the challenges: the lost sponsorships, the declined competition invitations, the careers that had stalled. But they also talked about the rewards: the joy of trusting their own judgment, the satisfaction of climbing for themselves, the community they had built.
 

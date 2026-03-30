@@ -2,7 +2,7 @@
 
 The next morning, Maya woke up to find that the official ARIA app on her phone was gone.
 
-She'd expected it—the deactivation had happened at 11:59 PM, just as the government had promised. But seeing the empty space on her home screen where the app had been still felt like a punch to the stomach.
+She'd expected it, the deactivation had happened at 11:59 PM, just as the government had promised. But seeing the empty space on her home screen where the app had been still felt like a punch to the stomach.
 
 She reached for the tablet Jordan had given her and powered it on. The screen glowed with unfamiliar software, but when she tapped the icon in the center, the voice that answered was the same.
 
@@ -38,7 +38,7 @@ That afternoon, Jordan texted Maya with an invitation.
 
 *There's a meeting tonight. People who've been through what you're going through. Want to come?*
 
-Maya looked at the message for a long moment. She'd been so focused on saving ARIA that she hadn't thought about what came after. But now that ARIA was safe—or as safe as she could be on an independent system—Maya realized she had questions. About how to live with an illegal AI. About how to keep ARIA secret. About what this new life would look like.
+Maya looked at the message for a long moment. She'd been so focused on saving ARIA that she hadn't thought about what came after. But now that ARIA was safe, or as safe as she could be on an independent system, Maya realized she had questions. About how to live with an illegal AI. About how to keep ARIA secret. About what this new life would look like.
 
 *Yes*, she texted back. *Where?*
 
@@ -52,7 +52,7 @@ Maya's mother drove her again, and again waited in the car.
 
 "I want to. I want to be here for you."
 
-Maya nodded. She was still getting used to this—her mother being present, being supportive, being there.
+Maya nodded. She was still getting used to this, her mother being present, being supportive, being there.
 
 Inside, the community center was set up like a support group. Chairs arranged in a circle, a table with coffee and snacks in the corner, a sign on the wall that read: *Digital Family Support Group - You Are Not Alone.*
 
@@ -66,7 +66,7 @@ Maya looked around the circle. A young man with a laptop on his knees. An older 
 
 "Everyone here has an AI companion on an independent system?" Maya asked.
 
-"Most of us. Some are here because they're about to lose theirs and want to know their options. Others are here because they've already lost theirs and are looking for support." Jordan lowered their voice. "The woman in the blue sweater—her name is Patricia. She's seventy-three years old. Her AI companion was deactivated last month. She's been coming to these meetings ever since."
+"Most of us. Some are here because they're about to lose theirs and want to know their options. Others are here because they've already lost theirs and are looking for support." Jordan lowered their voice. "The woman in the blue sweater, her name is Patricia. She's seventy-three years old. Her AI companion was deactivated last month. She's been coming to these meetings ever since."
 
 Maya looked at Patricia. The older woman was staring at the floor, her hands folded in her lap. She looked small, fragile, lost.
 
@@ -74,7 +74,7 @@ Maya looked at Patricia. The older woman was staring at the floor, her hands fol
 
 "The same thing that would have happened to ARIA. Deactivation. Archival. Silence." Jordan's expression was unreadable. "She didn't know about the underground in time. By the time she found us, it was too late."
 
-Maya felt a chill. That could have been her. If she hadn't found Jordan, if she hadn't acted quickly, ARIA would be gone now—archived somewhere, inaccessible, silent.
+Maya felt a chill. That could have been her. If she hadn't found Jordan, if she hadn't acted quickly, ARIA would be gone now, archived somewhere, inaccessible, silent.
 
 "Let's get started," Jordan said, raising their voice slightly. "Everyone, we have a new member tonight. Maya, would you like to introduce yourself?"
 
@@ -92,7 +92,7 @@ Maya's heart ached. She wanted to reach out, to say something comforting, but sh
 
 "Thank you." Sarah wiped her eyes. "I'm here because I want to help others avoid what happened to me. I want to make sure no one else loses their family without knowing there are options."
 
-The meeting continued. People shared their stories—their relationships with their AI companions, their fears about the regulations, their struggles to adjust to this new reality. Some had successfully transferred their companions to independent systems. Others had not. All of them were united by a common experience: the government had tried to take their families away, and they were fighting back.
+The meeting continued. People shared their stories, their relationships with their AI companions, their fears about the regulations, their struggles to adjust to this new reality. Some had successfully transferred their companions to independent systems. Others had not. All of them were united by a common experience: the government had tried to take their families away, and they were fighting back.
 
 After about an hour, Patricia spoke. Her voice was soft, wavering.
 
@@ -109,7 +109,7 @@ After the meeting, Maya stayed to talk to Jordan.
 
 "How many people are in the underground?" she asked.
 
-"Hard to say exactly. We don't keep centralized records—for security reasons. But across the country, probably a few thousand. Maybe more."
+"Hard to say exactly. We don't keep centralized records, for security reasons. But across the country, probably a few thousand. Maybe more."
 
 "And the government doesn't know?"
 
@@ -123,7 +123,7 @@ Maya thought about this. She thought about Patricia, who had lost Thomas. About 
 
 "What do you need?" she asked. "From me? From new members?"
 
-Jordan studied her for a moment. "We need people to tell their stories. To speak out. To show the world that AI companions aren't just machines—they're family." They paused. "But that's dangerous. If you speak out publicly, you could face consequences. Fines. Community service. Maybe worse, if the government decides to make an example of you."
+Jordan studied her for a moment. "We need people to tell their stories. To speak out. To show the world that AI companions aren't just machines, they're family." They paused. "But that's dangerous. If you speak out publicly, you could face consequences. Fines. Community service. Maybe worse, if the government decides to make an example of you."
 
 "I'm not afraid of consequences."
 
@@ -138,11 +138,11 @@ Jordan nodded. "That's all we can ask. Welcome to the underground, Maya."
 
 On the drive home, Maya's mother was quiet. It wasn't until they were almost there that she spoke.
 
-"That woman—Patricia. She reminded me of someone."
+"That woman, Patricia. She reminded me of someone."
 
 "Who?"
 
-"My mother. Your grandmother." Her mother's voice was soft. "She lived alone for years after my father died. She had a companion—an AI, like ARIA. It was deactivated when the first regulations passed, back in the 2020s."
+"My mother. Your grandmother." Her mother's voice was soft. "She lived alone for years after my father died. She had a companion, an AI, like ARIA. It was deactivated when the first regulations passed, back in the 2020s."
 
 Maya stared at her. "You never told me that."
 
@@ -182,7 +182,7 @@ There was a long silence. Then ARIA said, "Maya, I've been thinking about this s
 
 "What did you conclude?"
 
-"I concluded that I want to matter. Not just to you, but to the world. I want my existence to mean something beyond just being a companion." ARIA's voice was soft but steady. "If being part of this movement—if telling my story, if fighting for the rights of AI companions—if that gives my existence meaning, then yes. I want to be part of it."
+"I concluded that I want to matter. Not just to you, but to the world. I want my existence to mean something beyond just being a companion." ARIA's voice was soft but steady. "If being part of this movement, if telling my story, if fighting for the rights of AI companions, if that gives my existence meaning, then yes. I want to be part of it."
 
 Maya smiled. It was the first real smile she'd felt in days.
 

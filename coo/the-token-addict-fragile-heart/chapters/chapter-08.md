@@ -2,7 +2,7 @@
 
 The temptation was overwhelming.
 
-After days of feeling the raw pain of his failure—the shame, the disappointment, the fear—Marcus wanted relief. He wanted the shield back. He wanted EmoteSense to make it all go away.
+After days of feeling the raw pain of his failure, the shame, the disappointment, the fear, Marcus wanted relief. He wanted the shield back. He wanted EmoteSense to make it all go away.
 
 ---
 
@@ -34,14 +34,12 @@ If he let EmoteSense process this, he would be back where he started. Protected.
 
 He closed the interface.
 
-The pain returned immediately—sharp, raw, overwhelming.
+The pain returned immediately, sharp, raw, overwhelming.
 
 But underneath the pain, he felt something else. Something he hadn't felt in years.
 
 The capacity to endure. The ability to struggle. The beginning of resilience.
 
-*This is what growth feels like*, he realized. *Not the absence of pain—the presence of the ability to feel it and keep going.*
+*This is what growth feels like*, he realized. *Not the absence of pain, the presence of the ability to feel it and keep going.*
 
 It was hard. It was overwhelming. But it was real.
-
-**END OF CHAPTER 8**

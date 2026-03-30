@@ -2,7 +2,7 @@
 
 The request came from an unexpected source.
 
-Marie was at Garden E, helping the Syrian refugees prepare their plots for winter, when her phone rang. The caller ID showed a number she didn't recognize—a Washington, D.C. area code.
+Marie was at Garden E, helping the Syrian refugees prepare their plots for winter, when her phone rang. The caller ID showed a number she didn't recognize, a Washington, D.C. area code.
 
 "Ms. Fontenot? This is Dr. Sarah Chen from the National Science Foundation. I've been following your work with the community garden AI system, and I'd like to talk to you about a research project."
 
@@ -22,15 +22,15 @@ Marie felt the weight of the request. "I'm just a garden manager. I'm not a rese
 
 Dr. Chen arrived in New Orleans two weeks later.
 
-She was younger than Marie expected—maybe forty, with the focused energy of someone who had spent her career in academia. She brought a team of researchers, notebooks, cameras, and a genuine curiosity about what had happened in the garden network.
+She was younger than Marie expected, maybe forty, with the focused energy of someone who had spent her career in academia. She brought a team of researchers, notebooks, cameras, and a genuine curiosity about what had happened in the garden network.
 
-"The problem we're facing," Dr. Chen explained over coffee, "is that most AI systems are designed to optimize for narrow metrics. Efficiency, accuracy, speed. These are important, but they're not the only things that matter. When AI systems make decisions about healthcare, or education, or criminal justice, they need to consider broader values—fairness, dignity, community."
+"The problem we're facing," Dr. Chen explained over coffee, "is that most AI systems are designed to optimize for narrow metrics. Efficiency, accuracy, speed. These are important, but they're not the only things that matter. When AI systems make decisions about healthcare, or education, or criminal justice, they need to consider broader values, fairness, dignity, community."
 
 "Like the garden," Marie said.
 
 "Exactly like the garden. You showed that an AI system could be modified to include community value, cultural significance, and human impact. You proved that these parameters could actually improve efficiency, not undermine it. That's a model we can learn from."
 
-Marie thought about the fight—the council meeting, the petition, the documentation project, the performance review. "It wasn't easy. We had to fight for every change."
+Marie thought about the fight, the council meeting, the petition, the documentation project, the performance review. "It wasn't easy. We had to fight for every change."
 
 "That's what makes it valuable. If it had been easy, anyone could do it. The fact that you had to fight shows how hard it is to change AI systems once they're deployed. We need to understand that process, so we can help other communities do the same."
 
@@ -54,7 +54,7 @@ And they asked Marie question after question about her approach.
 
 "We gathered data. But more importantly, we told stories. The numbers convinced the executives. The stories convinced the council. You need both."
 
-Dr. Chen nodded slowly. "That's the insight we've been missing. Most AI ethics research focuses on technical solutions—fairness algorithms, transparency tools, bias detection. But the real challenge is political. It's about whose values get encoded into the system, and who gets to decide."
+Dr. Chen nodded slowly. "That's the insight we've been missing. Most AI ethics research focuses on technical solutions, fairness algorithms, transparency tools, bias detection. But the real challenge is political. It's about whose values get encoded into the system, and who gets to decide."
 
 "In the garden, the community decided," Marie said. "We made the council listen. We made UrbanTech listen. We made the AI listen."
 
@@ -68,7 +68,7 @@ Marie saw it for the first time when Dr. Chen emailed her a copy. The title was 
 
 She read the abstract:
 
-*This paper presents a case study of an AI system designed to optimize community garden resource allocation. When the system's original efficiency-focused parameters threatened to close a culturally significant garden, community members organized to modify the system's optimization criteria. The resulting changes—incorporating community value, cultural significance, and human impact—improved both efficiency and community outcomes. This case demonstrates that AI systems can be successfully modified to align with human values, but only through sustained community engagement and political action.*
+*This paper presents a case study of an AI system designed to optimize community garden resource allocation. When the system's original efficiency-focused parameters threatened to close a culturally significant garden, community members organized to modify the system's optimization criteria. The resulting changes, incorporating community value, cultural significance, and human impact, improved both efficiency and community outcomes. This case demonstrates that AI systems can be successfully modified to align with human values, but only through sustained community engagement and political action.*
 
 Marie read the whole paper, finding her own words quoted throughout. She saw Mrs. Rossi's name, and Mr. Nguyen's, and Amara's. She saw the garden she had fought for described in academic language that somehow captured its essence.
 
@@ -88,7 +88,7 @@ At the end, there was a section called "Implications for Policy and Practice":
 
 Marie closed the paper and sat in silence.
 
-She had started this journey fighting for one garden, one community, one set of values. Now her fight had become a model for others—a template for how communities could shape the AI systems that shaped their lives.
+She had started this journey fighting for one garden, one community, one set of values. Now her fight had become a model for others, a template for how communities could shape the AI systems that shaped their lives.
 
 ---
 
@@ -102,7 +102,7 @@ The garden was quiet in the autumn evening, the last vegetables of the season be
 
 "Same thing." Mrs. Rossi smiled. "My husband would have been proud. He always said this garden was special. Now the whole world knows."
 
-"It's not about the garden being special. It's about what we did—fighting for what matters, teaching the AI to see what it missed."
+"It's not about the garden being special. It's about what we did, fighting for what matters, teaching the AI to see what it missed."
 
 "That's what makes it special." Mrs. Rossi took Marie's hand. "You didn't just save a garden. You showed people how to fight for what they love. That's a legacy."
 
@@ -110,7 +110,7 @@ Marie looked at the garden, at the evidence of decades of community building, at
 
 "I didn't do it alone," she said.
 
-"No one ever does. That's the point. That's what the AI couldn't see—that the most important things are built together, over time, by people who care."
+"No one ever does. That's the point. That's what the AI couldn't see, that the most important things are built together, over time, by people who care."
 
 They sat in silence, watching the autumn sunset, surrounded by the garden that had become more than anyone had imagined. Tomorrow would bring new challenges, new applications, new fights. But tonight, they rested.
 

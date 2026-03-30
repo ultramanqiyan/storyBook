@@ -18,7 +18,7 @@ She needed more than a petition. She needed a strategy.
 
 The meeting at the community center was standing room only.
 
-Marie had expected maybe thirty people. Instead, over a hundred packed the room—gardeners, neighbors, activists, students. They sat in folding chairs, stood along the walls, spilled out into the hallway. The air was thick with the smell of coffee and the energy of people who had found something worth fighting for.
+Marie had expected maybe thirty people. Instead, over a hundred packed the room, gardeners, neighbors, activists, students. They sat in folding chairs, stood along the walls, spilled out into the hallway. The air was thick with the smell of coffee and the energy of people who had found something worth fighting for.
 
 "Thank you all for coming," Marie began, standing at the front of the room. "As most of you know, the AI system has recommended closing Garden E. The city council will vote on this recommendation in two weeks."
 
@@ -36,7 +36,7 @@ Marie took a breath. This was the part she'd been planning for days. "The AI mak
 
 The room buzzed with conversation. Marie let it run for a moment before continuing.
 
-"I need volunteers to interview gardeners, photograph the plots, document the traditions. I need people to gather data that matters—not just pounds of vegetables, but years of connection, generations of knowledge, lives that have been changed."
+"I need volunteers to interview gardeners, photograph the plots, document the traditions. I need people to gather data that matters, not just pounds of vegetables, but years of connection, generations of knowledge, lives that have been changed."
 
 "I'll do it," said a young woman in the front row. She looked like a student, maybe early twenties, with a notebook already open on her lap. "I'm in the sociology program at Tulane. This could be my capstone project."
 
@@ -50,15 +50,15 @@ The room buzzed with conversation. Marie let it run for a moment before continui
 
 Over the next week, the documentation team fanned out across Garden E.
 
-Amara interviewed Mrs. Rossi for three hours, recording the old woman's memories of her husband, the early days of the garden, the community that had grown around the plots. Another volunteer photographed every plant, every tool, every weathered bench. A third team mapped the social networks—who talked to whom, who shared seeds, who taught whom.
+Amara interviewed Mrs. Rossi for three hours, recording the old woman's memories of her husband, the early days of the garden, the community that had grown around the plots. Another volunteer photographed every plant, every tool, every weathered bench. A third team mapped the social networks, who talked to whom, who shared seeds, who taught whom.
 
 Marie watched the data accumulate and felt hope flicker in her chest.
 
-The AI measured yield per square foot. But Amara's interviews revealed that Garden E produced something the other gardens didn't: connection. Eighty percent of the gardeners there lived alone. Seventy percent were over seventy years old. Sixty percent had no family in the city. The garden wasn't just a place to grow food—it was their primary social connection, their reason to get up in the morning, their link to a world that had moved on without them.
+The AI measured yield per square foot. But Amara's interviews revealed that Garden E produced something the other gardens didn't: connection. Eighty percent of the gardeners there lived alone. Seventy percent were over seventy years old. Sixty percent had no family in the city. The garden wasn't just a place to grow food, it was their primary social connection, their reason to get up in the morning, their link to a world that had moved on without them.
 
 The AI measured water efficiency. But the documentation team found that Garden E's irrigation system had been built by the gardeners themselves, using salvaged materials and traditional techniques passed down through generations. It wasn't the most efficient system by modern standards, but it was maintained by the community, at no cost to the city. The "inefficiency" the AI measured was actually self-sufficiency.
 
-The AI measured cost per garden. But no one had calculated the cost of closing Garden E—the healthcare costs of isolated elderly residents, the social services that would be needed to replace the community support, the cultural loss of traditions that would disappear if the garden was destroyed.
+The AI measured cost per garden. But no one had calculated the cost of closing Garden E, the healthcare costs of isolated elderly residents, the social services that would be needed to replace the community support, the cultural loss of traditions that would disappear if the garden was destroyed.
 
 By the end of the week, Marie had a report that was thicker than the AI's analysis, heavier with meaning, richer with truth.
 
@@ -66,7 +66,7 @@ By the end of the week, Marie had a report that was thicker than the AI's analys
 
 She brought it to Patricia Okonkwo's office on Monday morning.
 
-The UrbanTech representative listened as Marie presented the findings. Her expression was professionally neutral, but Marie caught a flicker of something in her eyes—maybe surprise, maybe respect, maybe the first crack in the certainty of someone who had never been challenged.
+The UrbanTech representative listened as Marie presented the findings. Her expression was professionally neutral, but Marie caught a flicker of something in her eyes, maybe surprise, maybe respect, maybe the first crack in the certainty of someone who had never been challenged.
 
 "This is impressive," Patricia said when Marie finished. "You've gathered a lot of qualitative data."
 

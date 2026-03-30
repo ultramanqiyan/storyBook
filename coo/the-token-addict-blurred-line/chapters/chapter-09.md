@@ -40,5 +40,3 @@ But each one also strengthened something. The atrophied capacity for moral judgm
 
 The insight was uncomfortable. But it was also liberating. Because it meant the capacity wasn't gone. It had just been buried. And now, he was digging it out. One struggle at a time. One decision at a time. One judgment at a time.
 
-
-**END OF CHAPTER 9**

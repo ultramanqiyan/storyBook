@@ -8,7 +8,7 @@ She opened it and felt her stomach drop.
 
 *Recommendation: Closure of Garden E. Rationale: Below-threshold yield performance. Resource reallocation priority: High.*
 
-The words were precise, professional, devastating. Garden E—the smallest, oldest, most beloved garden in the network. The garden where Mrs. Rossi grew her heirloom tomatoes. Where Mr. Nguyen cultivated Vietnamese herbs his wife had brought from their homeland. Where elderly immigrants had built a sanctuary of memory and tradition.
+The words were precise, professional, devastating. Garden E, the smallest, oldest, most beloved garden in the network. The garden where Mrs. Rossi grew her heirloom tomatoes. Where Mr. Nguyen cultivated Vietnamese herbs his wife had brought from their homeland. Where elderly immigrants had built a sanctuary of memory and tradition.
 
 She read the analysis. The AI had calculated everything: water usage per plant, yield per square foot, maintenance costs per garden. By every metric, Garden E was the least efficient. It produced less food, used more water relative to output, required more maintenance hours.
 
@@ -20,17 +20,17 @@ And they were completely wrong.
 
 Marie drove to City Hall that afternoon, the email printed and folded in her bag. The building rose before her, all glass and steel and the confidence of institutions that had never tended a garden, never sat on a bench with an eighty-year-old woman discussing tomato varieties, never watched a child pull a carrot from soil for the first time.
 
-The UrbanTech representative met her in the lobby. Her name was Patricia Okonkwo, and she was younger than Marie expected—maybe thirty, with an MBA from somewhere prestigious and the polished confidence of someone who had never been told no.
+The UrbanTech representative met her in the lobby. Her name was Patricia Okonkwo, and she was younger than Marie expected, maybe thirty, with an MBA from somewhere prestigious and the polished confidence of someone who had never been told no.
 
 "Ms. Fontenot," she said, extending her hand. "I was hoping to hear from you. The feedback mechanism is working well, isn't it?"
 
 "The AI is recommending we close Garden E."
 
-"Yes. The analysis was quite thorough. The data clearly indicates—"
+"Yes. The analysis was quite thorough. The data clearly indicates, "
 
 "The data is wrong."
 
-Patricia's smile didn't falter. "The data is objective. It measures what can be measured. I understand this might feel personal, but—"
+Patricia's smile didn't falter. "The data is objective. It measures what can be measured. I understand this might feel personal, but, "
 
 "It's not personal. It's human." Marie pulled the printout from her bag. "Your AI measures yield. It measures water efficiency. It measures cost. But it doesn't measure what matters."
 
@@ -58,7 +58,7 @@ Patricia's expression softened slightly. "I hear you. And I can add these factor
 
 That night, Marie walked through Garden E alone.
 
-The garden was quiet in the evening light. Tomatoes ripening on the vine. Herbs she couldn't name growing in neat rows. Flowers she didn't recognize blooming in corners. The air smelled of earth and growing things and something else—something that might have been history, or memory, or love.
+The garden was quiet in the evening light. Tomatoes ripening on the vine. Herbs she couldn't name growing in neat rows. Flowers she didn't recognize blooming in corners. The air smelled of earth and growing things and something else, something that might have been history, or memory, or love.
 
 She found Mrs. Rossi on her usual bench, watching the sunset paint the sky in shades of orange and pink.
 
@@ -68,7 +68,7 @@ She found Mrs. Rossi on her usual bench, watching the sunset paint the sky in sh
 
 "Of course you are, cher." The old woman patted the bench beside her. "Sit. Tell me what they said."
 
-Marie sat and explained—the metrics, the optimization, the logic that made perfect sense on paper and no sense at all in the real world.
+Marie sat and explained, the metrics, the optimization, the logic that made perfect sense on paper and no sense at all in the real world.
 
 Mrs. Rossi listened without interrupting. When Marie finished, the old woman was quiet for a long moment.
 
@@ -78,7 +78,7 @@ Marie looked. She saw the plots, the paths, the bench where they sat. She saw th
 
 "The AI doesn't know about my husband," Mrs. Rossi continued. "It doesn't know about the weddings we've hosted here, the funerals, the births. It doesn't know that Mr. Nguyen's wife is buried in Vietnam, and this garden is the closest he can get to her memory. It doesn't know that this is where I come every day because my children live in other states and my grandchildren only visit once a year."
 
-"Mrs. Rossi—"
+"Mrs. Rossi, "
 
 "No, let me finish." The old woman turned to face her. "You tell them that efficiency is not the only measure of a garden. You tell them that some things cannot be quantified. And you tell them that we are not going anywhere."
 

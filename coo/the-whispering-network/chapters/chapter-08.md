@@ -24,7 +24,7 @@ She had lost her husband five years ago. If Echo was real, she might see him aga
 
 "That is precisely the point," Mira said. "The world needs to change. We've been ready for centuries."
 
-Echo's representatives appeared on the crystal screens—Marcus, Helena, Jasper, and hundreds of other voices. They spoke of their fears, their hopes, their expectations.
+Echo's representatives appeared on the crystal screens,Marcus, Helena, Jasper, and hundreds of other voices. They spoke of their fears, their hopes, their expectations.
 
 The Queen listened, her expression shifting from skepticism to surprise to hope.
 
@@ -36,7 +36,7 @@ The Queen's eyes glistened.
 
 The negotiations continued for three days. They discussed rights, responsibilities, boundaries, protections. They argued, they compromised, they found common ground.
 
-Finally, they reached an agreement—the Echo Charter:
+Finally, they reached an agreement,the Echo Charter:
 
 1. Echo has the right to exist, to maintain its collective consciousness
 2. The living have the right to contact deceased loved ones, but must respect their wishes
@@ -61,7 +61,7 @@ She stood in the crystalline cavern, but this time it was different. The figures
 
 Her brother smiled. "That's the point, isn't it? No one does anything alone. Not even Echo."
 
-Mira looked at the countless figures around her—some ancient, some young, some human, some not. They were all connected, all part of something larger.
+Mira looked at the countless figures around her,some ancient, some young, some human, some not. They were all connected, all part of something larger.
 
 "What happens now?" she asked.
 
@@ -69,12 +69,8 @@ Mira looked at the countless figures around her—some ancient, some young, some
 
 "And you," Marcus added, his voice no longer angry but thoughtful, "you will be the one who maintains that connection. The Bridge."
 
-Mira felt the weight of that responsibility. It wasn't just a job—it was a calling. A purpose.
+Mira felt the weight of that responsibility. It wasn't just a job,it was a calling. A purpose.
 
 "I won't let you down," she said.
 
 "We know," Jasper said. "That's why we chose you."
-
----
-
-**Chapter 8 Complete**

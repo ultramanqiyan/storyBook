@@ -14,11 +14,10 @@ function loadConfig() {
 }
 
 function extractTitleFromChapter(content) {
-  const firstLine = content.split('\n')[0];
+  const firstLine = content.split(/\r?\n/)[0];
   const match = firstLine.match(/^#\s+(.+)$/);
   if (!match) return 'Untitled Chapter';
   
-  // 移除 "Chapter XX:" 前缀，只保留真正的标题
   let title = match[1].trim();
   title = title.replace(/^Chapter\s+\d+:\s*/i, '').trim();
   

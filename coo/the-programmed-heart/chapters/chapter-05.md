@@ -24,7 +24,7 @@ The streets are empty. A few cars pass. Their headlights cut through the darknes
 
 I don't want anyone to ask questions.
 
-The night air smells different than the air in my house. It smells like exhaust and wet pavement and something green—grass, maybe, or trees. It smells like the world.
+The night air smells different than the air in my house. It smells like exhaust and wet pavement and something green, grass, maybe, or trees. It smells like the world.
 
 Real. Messy. Alive.
 
@@ -68,7 +68,7 @@ I find the quarter. I put it with the rest.
 
 I take the ticket. I walk to the bench. I sit.
 
-The station is quiet. A man sleeps on the other side of the room. His mouth is open. He snores—a wet, rattling sound. His face twitches in his sleep. His hand moves. He's dreaming.
+The station is quiet. A man sleeps on the other side of the room. His mouth is open. He snores, a wet, rattling sound. His face twitches in his sleep. His hand moves. He's dreaming.
 
 Real dreams. Real sleep. Real life.
 
@@ -114,7 +114,7 @@ I get off. I stand on the platform. I look around.
 
 The city is loud. Even at this hour. Cars. Voices. Music from somewhere nearby. A siren wails in the distance.
 
-I smell food. Grease. Smoke. Something sweet—maybe a bakery, even at this hour.
+I smell food. Grease. Smoke. Something sweet, maybe a bakery, even at this hour.
 
 My stomach growls. I haven't eaten since lunch.
 
@@ -143,7 +143,7 @@ The room is small.
 
 A bed. A nightstand. A lamp. A window that looks out onto the street.
 
-The carpet is worn. The walls are thin. I can hear someone talking in the next room—a woman's voice, rising and falling. An argument, maybe. Or a conversation.
+The carpet is worn. The walls are thin. I can hear someone talking in the next room, a woman's voice, rising and falling. An argument, maybe. Or a conversation.
 
 It's not perfect.
 
@@ -227,7 +227,7 @@ The world is loud and messy and rude.
 
 I stand on the sidewalk. I watch them.
 
-Are they real? Are they feeling things? Or are some of them like my parents—running on programs, thinking they're happy?
+Are they real? Are they feeling things? Or are some of them like my parents, running on programs, thinking they're happy?
 
 I don't know.
 

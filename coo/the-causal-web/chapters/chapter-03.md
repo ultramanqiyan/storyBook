@@ -1,6 +1,6 @@
 # Chapter 03: The Creator
 
-The university campus was beautiful in autumn, the trees lining the pathways shedding their summer greens for amber and gold. Marcus walked slowly, his eyes moving from the historic buildings to the students hurrying past, each one a node in a network he could almost see. Somewhere in the physics building ahead, Dr. Priya Sharma waited, and the thought made his chest tight. He'd rehearsed what to say on the train, but now, surrounded by the evidence of academic life—students with tablets, professors with coffee cups, the hum of intellectual pursuit—his prepared words felt inadequate.
+The university campus was beautiful in autumn, the trees lining the pathways shedding their summer greens for amber and gold. Marcus walked slowly, his eyes moving from the historic buildings to the students hurrying past, each one a node in a network he could almost see. Somewhere in the physics building ahead, Dr. Priya Sharma waited, and the thought made his chest tight. He'd rehearsed what to say on the train, but now, surrounded by the evidence of academic life, students with tablets, professors with coffee cups, the hum of intellectual pursuit, his prepared words felt inadequate.
 
 The cool air carried the scent of fallen leaves and approaching winter, and Marcus pulled his jacket tighter. He'd responded to her message within hours, had barely slept waiting for her reply, and now that the meeting was actually happening, he felt the weight of expectation pressing down on him. What if she dismissed him? What if she saw his anomaly as a statistical error, a glitch not worth investigating?
 
@@ -8,23 +8,23 @@ He found the building, checked the office number she'd sent, and paused at the e
 
 ---
 
-Dr. Priya Sharma opened the door before he could knock, as if she'd been waiting just on the other side. She was younger than her publications suggested—mid-thirties, with dark hair pulled back and eyes that seemed to process him in a single glance. "Mr. Chen," she said, and her voice was warm, curious. "Please, come in."
+Dr. Priya Sharma opened the door before he could knock, as if she'd been waiting just on the other side. She was younger than her publications suggested, mid-thirties, with dark hair pulled back and eyes that seemed to process him in a single glance. "Mr. Chen," she said, and her voice was warm, curious. "Please, come in."
 
-Her handshake was firm, her palm warm against his cool fingers. "Thank you for meeting with me," Marcus said, following her into the office. "Your work on the Causal Network—it's extraordinary. The way you've quantified connection density, the temporal propagation algorithms—"
+Her handshake was firm, her palm warm against his cool fingers. "Thank you for meeting with me," Marcus said, following her into the office. "Your work on the Causal Network, it's extraordinary. The way you've quantified connection density, the temporal propagation algorithms, "
 
 "You've read my papers." She gestured to a chair, settling into her own behind a desk that was a controlled chaos of papers, tablets, and half-empty coffee cups. The room smelled of coffee and old books, the scent of someone who spent more time thinking than sleeping.
 
-"All of them. Several times." Marcus sat, his eyes moving around the office. Equations on a whiteboard, a holographic display showing network visualizations, a window overlooking the campus quad. "I'm a sociologist, but your work intersects with mine in ways I didn't expect. The mathematics of human connection—"
+"All of them. Several times." Marcus sat, his eyes moving around the office. Equations on a whiteboard, a holographic display showing network visualizations, a window overlooking the campus quad. "I'm a sociologist, but your work intersects with mine in ways I didn't expect. The mathematics of human connection, "
 
-"Is beautiful," Priya finished, and her eyes lit up. "That's what drew me to it. Not the prediction, not the application. The beauty of the patterns. Every human life is a thread, and the way those threads intertwine—" She caught herself, smiled. "I'm sorry. I tend to get enthusiastic."
+"Is beautiful," Priya finished, and her eyes lit up. "That's what drew me to it. Not the prediction, not the application. The beauty of the patterns. Every human life is a thread, and the way those threads intertwine, " She caught herself, smiled. "I'm sorry. I tend to get enthusiastic."
 
-"Don't apologize. It's refreshing." And it was. Marcus found himself leaning forward, drawn in by her energy. "Most people I talk to about patterns see them as tools. Means to an end. But you see them as—"
+"Don't apologize. It's refreshing." And it was. Marcus found himself leaning forward, drawn in by her energy. "Most people I talk to about patterns see them as tools. Means to an end. But you see them as, "
 
 "As truth. As the underlying structure of reality." Priya's hands moved as she spoke, tracing invisible connections in the air. "The Causal Network doesn't create causality. It reveals it. Every action has consequences, every choice creates ripples, and those ripples can be mapped. Predicted. Understood."
 
 "Can they?" The question came out before Marcus could stop it. "Can everything be understood? Mapped? Predicted?"
 
-Priya tilted her head, studying him with those bright eyes. "That's the hypothesis. So far, the data supports it." She paused, and something in her expression shifted—a subtle sharpening, as if she'd noticed something she hadn't expected. "But you didn't come here to discuss my hypothesis, did you? Your message mentioned anomaly cases."
+Priya tilted her head, studying him with those bright eyes. "That's the hypothesis. So far, the data supports it." She paused, and something in her expression shifted, a subtle sharpening, as if she'd noticed something she hadn't expected. "But you didn't come here to discuss my hypothesis, did you? Your message mentioned anomaly cases."
 
 Marcus's hands found each other in his lap, fingers intertwining. "Yes. I have questions about cases where the network shows... unexpected results."
 
@@ -46,7 +46,7 @@ Priya's pace slowed slightly, but she didn't stop. "Personal analyses are unusua
 
 "And you wanted to know if the network could see that."
 
-"I wanted to know if it was real. If I was imagining it, or if there was something measurable." He stopped walking, turning to face her. The evening light caught her face, softening her features, and for a moment he was struck by how present she seemed—how solid, how real. "The network showed me something I didn't expect."
+"I wanted to know if it was real. If I was imagining it, or if there was something measurable." He stopped walking, turning to face her. The evening light caught her face, softening her features, and for a moment he was struck by how present she seemed, how solid, how real. "The network showed me something I didn't expect."
 
 "What did it show you?"
 
@@ -66,13 +66,13 @@ The words hung between them, and Marcus couldn't tell if they were an invitation
 
 ---
 
-They reached the campus entrance as the street lights flickered on, the boundary between academic sanctuary and the city beyond. Priya had asked question after question—about his childhood, his relationships, his work, his memories—and Marcus had answered with a honesty that surprised him. There was something about her that made him want to be seen, even if what she saw was a void.
+They reached the campus entrance as the street lights flickered on, the boundary between academic sanctuary and the city beyond. Priya had asked question after question, about his childhood, his relationships, his work, his memories, and Marcus had answered with a honesty that surprised him. There was something about her that made him want to be seen, even if what she saw was a void.
 
 "I'd like to understand this better," she said, turning to face him. "Your anomaly. It could be significant. The network has shown edge cases before, but never a true zero. If the mathematics hold, if this is real..." She trailed off, her mind clearly racing ahead.
 
 "You want to study me."
 
-The words came out flatter than he'd intended, and Priya's expression flickered—something like discomfort passing across her features before she controlled it. "I want to understand you. There's a difference."
+The words came out flatter than he'd intended, and Priya's expression flickered, something like discomfort passing across her features before she controlled it. "I want to understand you. There's a difference."
 
 "Is there?"
 
@@ -86,7 +86,7 @@ Priya laughed, a short, surprised sound. "You're funny. I wasn't expecting that.
 
 She considered the question. "Someone broken. Someone who didn't fit because something was wrong with them." She shook her head. "But you're not broken. You're... something else. Something the network can't see."
 
-The cool evening air settled around them, and Marcus became aware of the distance between them—close enough to feel her presence, far enough to maintain the pretense of professionalism. "So what happens now?"
+The cool evening air settled around them, and Marcus became aware of the distance between them, close enough to feel her presence, far enough to maintain the pretense of professionalism. "So what happens now?"
 
 "Now I learn more. I run additional analyses. I try to understand what you are." Priya's smile was warm, genuine, and somehow unsettling. "And maybe, along the way, you learn something too."
 
@@ -96,4 +96,4 @@ The cool evening air settled around them, and Marcus became aware of the distanc
 
 "Until next time."
 
-Marcus watched her walk away, her figure disappearing into the evening crowd, and felt the pull of her certainty even as he wondered what it would cost him. She believed everything could be calculated, predicted, understood. Even him. Especially him. And part of him wanted that—the clarity, the resolution, the answer to what he was. But another part, the part that had surfaced when he'd seen the zero on that screen, whispered that some things weren't meant to be solved. Some things were meant to remain mysteries.
+Marcus watched her walk away, her figure disappearing into the evening crowd, and felt the pull of her certainty even as he wondered what it would cost him. She believed everything could be calculated, predicted, understood. Even him. Especially him. And part of him wanted that, the clarity, the resolution, the answer to what he was. But another part, the part that had surfaced when he'd seen the zero on that screen, whispered that some things weren't meant to be solved. Some things were meant to remain mysteries.

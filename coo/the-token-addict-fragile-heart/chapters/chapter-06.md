@@ -43,5 +43,3 @@ He left the meeting shaken. EmoteSense sent multiple notifications offering to p
 He ignored them all.
 
 For the first time in months, Marcus let himself feel the full weight of his failure. And it was devastating.
-
-**END OF CHAPTER 6**

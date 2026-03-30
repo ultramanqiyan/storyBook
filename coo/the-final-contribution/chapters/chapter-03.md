@@ -6,7 +6,7 @@ Numbers were clean. Numbers were honest. Numbers didn't lie or dissemble or hide
 
 That was why, three days after the announcement, he found himself at his kitchen table at midnight, surrounded by printouts and his old HP financial calculator, running the numbers that no one else seemed to be running.
 
-The company had said thirty percent of the workforce would be cut. What they hadn't said—what Robert had to calculate himself—was what that meant for the pension system.
+The company had said thirty percent of the workforce would be cut. What they hadn't said, what Robert had to calculate himself, was what that meant for the pension system.
 
 He started with what he knew.
 
@@ -14,7 +14,7 @@ Morrison & Associates had a defined benefit pension plan, one of the old kind th
 
 But there was a catch. The pension fund was a shared pool, invested in a mix of stocks, bonds, and other assets. Its health depended on three things: investment returns, the number of retirees drawing benefits, and the number of active employees contributing to the fund.
 
-Robert pulled up the pension fund's annual report—the one that HR didn't publicize but that was technically public information for plan participants. The numbers told a story.
+Robert pulled up the pension fund's annual report, the one that HR didn't publicize but that was technically public information for plan participants. The numbers told a story.
 
 Active employees contributing to the fund: 847.
 Retirees drawing benefits: 312.
@@ -24,23 +24,23 @@ That ratio had been 4.5 to 1 when Robert started. It had been 3.8 to 1 five year
 
 Now he ran the calculation for what would happen after the layoffs.
 
-If thirty percent of the workforce was cut, the active employees would drop to approximately 593. The retiree count would stay the same—or increase, if some of those laid off were close to retirement age and chose to retire early.
+If thirty percent of the workforce was cut, the active employees would drop to approximately 593. The retiree count would stay the same, or increase, if some of those laid off were close to retirement age and chose to retire early.
 
 New ratio: 1.9 to 1.
 
-Robert stared at the number. A ratio below 2.0 was considered unhealthy for a pension fund. Below 1.5, the fund would be required to take corrective action—increasing contributions, reducing benefits, or both.
+Robert stared at the number. A ratio below 2.0 was considered unhealthy for a pension fund. Below 1.5, the fund would be required to take corrective action, increasing contributions, reducing benefits, or both.
 
 But that wasn't the worst of it.
 
 He pulled up the Social Security Administration's latest trustee report. The numbers there were even grimmer. The worker-to-beneficiary ratio had fallen from 3.3 to 1 in 2007 to 2.8 to 1 today. Projections showed it falling to 2.3 to 1 by 2035.
 
-And those projections assumed normal employment patterns. They didn't account for AI-driven displacement on the scale that Morrison & Associates—and every other company like it—was now implementing.
+And those projections assumed normal employment patterns. They didn't account for AI-driven displacement on the scale that Morrison & Associates, and every other company like it, was now implementing.
 
 Robert ran a new calculation. If AI displacement accelerated as predicted, reducing white-collar employment by twenty percent over the next decade, what would that do to the Social Security trust fund?
 
 The numbers made his stomach clench.
 
-The trust fund was already projected to be depleted by 2035. But that projection assumed steady employment. If the contribution base shrank—if fewer workers paid into the system because AI had taken their jobs—the depletion date would move forward.
+The trust fund was already projected to be depleted by 2035. But that projection assumed steady employment. If the contribution base shrank, if fewer workers paid into the system because AI had taken their jobs, the depletion date would move forward.
 
 Robert calculated: 2031. Maybe 2029.
 
@@ -48,11 +48,11 @@ He would be sixty-seven in 2029. Margaret would be sixty-five.
 
 He thought about the number on his 401(k) statement. The seven digits that had seemed so solid just days ago. Now they felt like a snapshot of a world that was disappearing.
 
-His 401(k) would be fine—it was his own account, held by Vanguard, invested in a diversified portfolio. That money was his, regardless of what happened to Morrison & Associates. The company couldn't touch it.
+His 401(k) would be fine, it was his own account, held by Vanguard, invested in a diversified portfolio. That money was his, regardless of what happened to Morrison & Associates. The company couldn't touch it.
 
 But the pension was different. The pension was a promise made by the company, backed by a fund that depended on active workers contributing. If the workforce shrank, if the ratio of contributors to beneficiaries fell too low, the pension fund would collapse.
 
-And the pension was the foundation of his retirement plan. The 401(k) was a supplement—a nice bonus, but not enough to live on for thirty years.
+And the pension was the foundation of his retirement plan. The 401(k) was a supplement, a nice bonus, but not enough to live on for thirty years.
 
 He ran the numbers. They spiraled downward in a pattern that looked terrifyingly familiar.
 
@@ -68,7 +68,7 @@ Consumer spending falls further.
 
 A spiral. A negative feedback loop. The economists had a name for it: the intelligence displacement spiral.
 
-Robert had read about it in the financial press, always framed as a theoretical concern, a distant possibility. No one had put numbers to it. No one had shown what it would look like for real people—people like him, like Margaret, like David.
+Robert had read about it in the financial press, always framed as a theoretical concern, a distant possibility. No one had put numbers to it. No one had shown what it would look like for real people, people like him, like Margaret, like David.
 
 He looked at his calculations and felt a chill that had nothing to do with the late hour.
 
@@ -118,6 +118,6 @@ Robert looked at the printouts, at the numbers that had never lied to him, at th
 
 "I don't know," he said. "I honestly don't know."
 
-The calculation was complete. The question was no longer whether the system would fail, but when—and who would pay.
+The calculation was complete. The question was no longer whether the system would fail, but when, and who would pay.
 
 Outside the window, the first light of dawn was beginning to show. Robert Miller, who had spent forty years preparing for retirement, sat at his kitchen table and wondered if he'd been preparing for the wrong thing all along.

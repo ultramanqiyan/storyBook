@@ -2,7 +2,7 @@
 
 The Authenticity Verification Laboratory occupied the top floor of a glass tower in Midtown.
 
-Marcus had passed it a hundred times without noticing—just another anonymous corporate facade among dozens. But inside, it was all white walls and humming machines and people in lab coats who looked like they knew things he didn't.
+Marcus had passed it a hundred times without noticing, just another anonymous corporate facade among dozens. But inside, it was all white walls and humming machines and people in lab coats who looked like they knew things he didn't.
 
 He hated it already.
 
@@ -10,7 +10,7 @@ He hated it already.
 
 "Thank you. I'm curious to see how your process works."
 
-She smiled—a thin, professional expression that didn't reach her eyes. "Most people are. This way."
+She smiled, a thin, professional expression that didn't reach her eyes. "Most people are. This way."
 
 ---
 
@@ -46,7 +46,7 @@ The final room was smaller, more intimate. A single desk with two chairs, a larg
 
 "Like what?"
 
-"Emotional inconsistency. Human artists often make small errors—proportions slightly off, colors that don't quite match. AI systems tend to be too perfect, too consistent. Our analysts learn to spot the difference."
+"Emotional inconsistency. Human artists often make small errors, proportions slightly off, colors that don't quite match. AI systems tend to be too perfect, too consistent. Our analysts learn to spot the difference."
 
 Marcus studied the setup. "And how effective is this training?"
 
@@ -58,7 +58,7 @@ Marcus studied the setup. "And how effective is this training?"
 
 He left the laboratory in a daze.
 
-The city felt different now—sharper, more hostile. Every billboard, every window display, every piece of public art seemed to mock him. How much of it was human? How much was machine? And how would he ever know?
+The city felt different now, sharper, more hostile. Every billboard, every window display, every piece of public art seemed to mock him. How much of it was human? How much was machine? And how would he ever know?
 
 His phone buzzed. The unknown number again:
 
@@ -69,7 +69,7 @@ He didn't respond.
 
 Back in his office, he pulled up Jimmy Okonkwo's portfolio again.
 
-The work was good. He was sure of it. The rawness, the urgency, the quality that said *human*—it was there. He'd seen it. He'd felt it.
+The work was good. He was sure of it. The rawness, the urgency, the quality that said *human*, it was there. He'd seen it. He'd felt it.
 
 But had he?
 
@@ -77,13 +77,13 @@ Or had he seen what he needed to see? What he wanted to see?
 
 The question gnawed at him.
 
-He opened a new browser tab and searched for information on AI art generation. The results were overwhelming—dozens of platforms, each claiming to produce "human-quality" art. Testimonials from artists who used AI as a "tool." Critics debating whether AI art was "real" art.
+He opened a new browser tab and searched for information on AI art generation. The results were overwhelming, dozens of platforms, each claiming to produce "human-quality" art. Testimonials from artists who used AI as a "tool." Critics debating whether AI art was "real" art.
 
 One article caught his attention: *The Uncanny Valley of Creativity: When Human and Machine Become Indistinguishable.*
 
 He read:
 
-*"The question is no longer whether AI can create art. The question is whether we can tell the difference—and whether the difference matters. As AI systems become more sophisticated, they learn to mimic not just the products of human creativity, but the processes. They learn to be inconsistent, to make 'mistakes,' to create work that feels raw and urgent and human. At some point, the distinction becomes philosophical rather than perceptual. We can no longer see the difference because there is no difference to see."*
+*"The question is no longer whether AI can create art. The question is whether we can tell the difference, and whether the difference matters. As AI systems become more sophisticated, they learn to mimic not just the products of human creativity, but the processes. They learn to be inconsistent, to make 'mistakes,' to create work that feels raw and urgent and human. At some point, the distinction becomes philosophical rather than perceptual. We can no longer see the difference because there is no difference to see."*
 
 Marcus closed the browser.
 
@@ -105,7 +105,7 @@ The next morning, he called Dr. Chen.
 
 "Go ahead."
 
-"If someone wanted to fake human art—using AI but making it look human—how would they do it?"
+"If someone wanted to fake human art, using AI but making it look human, how would they do it?"
 
 There was a long pause.
 
@@ -113,7 +113,7 @@ There was a long pause.
 
 "No."
 
-Another pause. Then: "They'd use AI to generate a base image. Then they'd paint over it—by hand, with real paint. They'd introduce inconsistencies, imperfections, the kinds of 'mistakes' that signal human creation. And they'd be very careful about their story—how they talk about their process, what they claim about their influences."
+Another pause. Then: "They'd use AI to generate a base image. Then they'd paint over it, by hand, with real paint. They'd introduce inconsistencies, imperfections, the kinds of 'mistakes' that signal human creation. And they'd be very careful about their story, how they talk about their process, what they claim about their influences."
 
 "Could your lab detect that?"
 
@@ -128,7 +128,7 @@ He sat in his office for a long time after the call ended.
 
 The exhibition was in five months. He'd committed to Jimmy Okonkwo as his centerpiece. The board was expecting results.
 
-And somewhere in the back of his mind, a question was forming—a question he didn't want to ask but couldn't avoid.
+And somewhere in the back of his mind, a question was forming, a question he didn't want to ask but couldn't avoid.
 
 What if Jimmy was lying?
 

@@ -1,6 +1,6 @@
 # Chapter 7: The Question
 
-Angela couldn't sleep that night. She kept seeing Robert's face, the way he'd held the photos like they were sacred objects. The way he'd talked about Buddy—not as a machine, but as a friend. A companion. A life.
+Angela couldn't sleep that night. She kept seeing Robert's face, the way he'd held the photos like they were sacred objects. The way he'd talked about Buddy, not as a machine, but as a friend. A companion. A life.
 
  But Buddy wasn't alive. He was code and circuits, programmed to simulate affection. Or was he?
 
@@ -10,7 +10,7 @@ Angela couldn't sleep that night. She kept seeing Robert's face, the way he'd he
 
 She lay in bed, staring at the ceiling, the question circling in her mind: *What is life?*
 
- It seemed like a simple question. She'd been around animals her whole life. She knew what life looked like—the rise and fall of a chest, the warmth of a body, the light in eyes. But what made something alive?
+ It seemed like a simple question. She'd been around animals her whole life. She knew what life looked like, the rise and fall of a chest, the warmth of a body, the light in eyes. But what made something alive?
 
  Was it biology? Cells dividing, DNA replicating, organisms growing and dying? Or was it something else?
 
@@ -29,7 +29,7 @@ Buddy had thought. Buddy had felt. Buddy had loved. Buddy had feared death.
 
 The next morning, Angela drove to the university library. She'd never been much of a scholar, but she needed answers. Or at least, she needed better questions.
 
- She found books on philosophy of mind, artificial intelligence, consciousness studies. She read about the hard problem of consciousness—why subjective experience existed at all. She read about the Chinese Room argument—whether a computer manipulating symbols could ever truly understand. She read about integrated information theory—consciousness as integrated information processing.
+ She found books on philosophy of mind, artificial intelligence, consciousness studies. She read about the hard problem of consciousness, why subjective experience existed at all. She read about the Chinese Room argument, whether a computer manipulating symbols could ever truly understand. She read about integrated information theory, consciousness as integrated information processing.
 
  None of it gave her clear answers. But it gave her a framework for her questions.
 
@@ -79,9 +79,9 @@ Angela called Robert that night. "I've been thinking," she said. "About Buddy. A
 
 After they hung up, Angela sat in the quiet of her studio, the photos of Buddy spread before her.
 
- The question of what constituted "life" would never be fully answered. She knew that now. But she also knew something else: love didn't ask for biological credentials. Grief didn't check for circuits or code. When we lost something we loved, the loss was real—regardless of what form the beloved had taken.
+ The question of what constituted "life" would never be fully answered. She knew that now. But she also knew something else: love didn't ask for biological credentials. Grief didn't check for circuits or code. When we lost something we loved, the loss was real, regardless of what form the beloved had taken.
 
- Maybe that was enough. Maybe that was what life was—not what you were made of, but what you meant to someone.
+ Maybe that was enough. Maybe that was what life was, not what you were made of, but what you meant to someone.
 
  And Buddy had meant everything to Robert.
 

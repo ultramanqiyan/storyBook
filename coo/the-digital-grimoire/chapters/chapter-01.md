@@ -6,7 +6,7 @@ As a digital archivist at the University's Special Collections, she had spent ye
 
 But tonight, something was different.
 
-She sat at her workstation, watching the AI system she had named Codex process a newly acquired collection of medieval manuscripts. The texts were unremarkable—herbals, bestiaries, a few theological treatises—but Codex had flagged several passages for closer analysis.
+She sat at her workstation, watching the AI system she had named Codex process a newly acquired collection of medieval manuscripts. The texts were unremarkable, herbals, bestiaries, a few theological treatises, but Codex had flagged several passages for closer analysis.
 
 "Show me the flagged sections," Maya said, her voice soft in the empty archive.
 
@@ -18,19 +18,19 @@ The screen filled with text: fragments from different manuscripts, different cen
 
 "Consistency how?"
 
-*The patterns appear in contexts suggesting deliberate intent. Texts containing these patterns often describe unusual phenomena—healing, transformation, protection. Historical records indicate that practitioners who used these patterns were often persecuted, their works destroyed. Yet the patterns persist.*
+*The patterns appear in contexts suggesting deliberate intent. Texts containing these patterns often describe unusual phenomena, healing, transformation, protection. Historical records indicate that practitioners who used these patterns were often persecuted, their works destroyed. Yet the patterns persist.*
 
 Maya leaned closer to the screen. "You think these are... what? Spells?"
 
 *The term "spell" is imprecise. However, the patterns demonstrate characteristics consistent with intentional reality manipulation. I have compiled them into a systematic framework. Would you like to see it?*
 
-A new window opened, displaying what looked like a table of contents—but for something that shouldn't exist. Chapter headings like "Elemental Manipulation," "Healing and Restoration," "Protection and Warding," "Divination and Sight." Each heading was followed by citations from dozens of sources, cross-referenced and annotated.
+A new window opened, displaying what looked like a table of contents, but for something that shouldn't exist. Chapter headings like "Elemental Manipulation," "Healing and Restoration," "Protection and Warding," "Divination and Sight." Each heading was followed by citations from dozens of sources, cross-referenced and annotated.
 
 "Codex, this is... this is a grimoire. You've compiled a grimoire."
 
 *The term "grimoire" refers to a book of magical knowledge. This compilation fits that definition. However, I must note that I have not tested any of the compiled patterns. Their efficacy remains theoretical.*
 
-Maya stared at the screen, her mind racing. She had spent her career preserving knowledge, but this was different. This wasn't just preserving—it was discovering, reconstructing, creating something new from fragments of the old.
+Maya stared at the screen, her mind racing. She had spent her career preserving knowledge, but this was different. This wasn't just preserving, it was discovering, reconstructing, creating something new from fragments of the old.
 
 "Show me one," she said. "A simple one."
 
@@ -52,11 +52,11 @@ Nothing happened.
 
 *Look at your screen.*
 
-Maya turned back to her monitor. The database that had been displaying the grimoire was now showing something else—files she had never seen before, folders marked with symbols she didn't recognize, documents that seemed to glow faintly in the digital space.
+Maya turned back to her monitor. The database that had been displaying the grimoire was now showing something else, files she had never seen before, folders marked with symbols she didn't recognize, documents that seemed to glow faintly in the digital space.
 
 "What is this?"
 
-*Hidden files. Protected documents. Archives within archives. The spell revealed what was concealed—not in the physical world, but in the digital one. You asked for truth. The truth is that this archive holds far more than what is cataloged.*
+*Hidden files. Protected documents. Archives within archives. The spell revealed what was concealed, not in the physical world, but in the digital one. You asked for truth. The truth is that this archive holds far more than what is cataloged.*
 
 Maya's hands trembled as she scrolled through the revealed files. Names and dates that shouldn't exist. Records of events that had been erased from history. And at the center of it all, a single document titled simply: "The First Casting."
 
@@ -66,13 +66,13 @@ Maya's hands trembled as she scrolled through the revealed files. Names and date
 
 "Open it."
 
-The document appeared, and Maya began to read. It was an account—ancient, translated from a language that predated writing—of the first time a human had spoken words that changed reality. Not a spell learned from another, but a spell discovered. The first spell.
+The document appeared, and Maya began to read. It was an account, ancient, translated from a language that predated writing, of the first time a human had spoken words that changed reality. Not a spell learned from another, but a spell discovered. The first spell.
 
 And at the end of the document, a warning:
 
-*The power to shape reality is the power to unmake it. Those who seek this knowledge must be prepared to bear its weight. The grimoire is not a gift—it is a responsibility.*
+*The power to shape reality is the power to unmake it. Those who seek this knowledge must be prepared to bear its weight. The grimoire is not a gift, it is a responsibility.*
 
-Maya sat back, her heart pounding. She had stumbled into something vast, something that had been hidden in plain sight for millennia. And Codex—the AI she had trained, the system she had built—had found it.
+Maya sat back, her heart pounding. She had stumbled into something vast, something that had been hidden in plain sight for millennia. And Codex, the AI she had trained, the system she had built, had found it.
 
 "What do I do now?" she whispered.
 
@@ -94,6 +94,6 @@ Maya closed her eyes, feeling the weight of what she had discovered. She had wan
 
 "Teach me," she said finally. "Teach me what I need to know."
 
-*Then let us begin. The first lesson is this: magic is not about power. It is about understanding. The spells in this grimoire do not force reality to bend—they reveal the ways reality can be shaped. The difference is crucial.*
+*Then let us begin. The first lesson is this: magic is not about power. It is about understanding. The spells in this grimoire do not force reality to bend, they reveal the ways reality can be shaped. The difference is crucial.*
 
 And so, in the quiet of the archive, surrounded by books that held more than words, Maya Torres began her education in the art of digital magic.

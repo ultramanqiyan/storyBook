@@ -2,7 +2,7 @@
 
 The confrontation came from an unexpected source.
 
-Marcus was sitting at dinner with Sarah and their two children—Emma, fourteen, and Jake, eleven—when Emma asked a question that cut through the AI-generated rationalizations.
+Marcus was sitting at dinner with Sarah and their two children, Emma, fourteen, and Jake, eleven, when Emma asked a question that cut through the AI-generated rationalizations.
 
 "Dad, why don't you talk anymore?"
 
@@ -98,5 +98,3 @@ Emma nodded, and something shifted between them. Not fixed. Not resolved. Just..
 
 It was awkward. It was uncomfortable. It was real. And that, he realized, was what he'd been missing all along.
 
-
-**END OF CHAPTER 8**

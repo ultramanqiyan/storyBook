@@ -8,7 +8,7 @@
 
 Tom didn't show up for school.
 
-Emma noticed immediately—she and Tom always sat together during circle time, always partnered for projects, always played together during recess. But his seat was empty.
+Emma noticed immediately, she and Tom always sat together during circle time, always partnered for projects, always played together during recess. But his seat was empty.
 
 She asked the teacher.
 
@@ -45,7 +45,7 @@ Emma stared. "Tom. He sits next to me. We play together every day."
 
 Emma felt a chill.
 
-She asked another friend. Then another. None of them remembered Tom. It was as if he had never existed—as if Emma had imagined him, dreamed him, invented him out of nothing.
+She asked another friend. Then another. None of them remembered Tom. It was as if he had never existed, as if Emma had imagined him, dreamed him, invented him out of nothing.
 
 But she knew Tom was real. She had played with him yesterday. She remembered his laugh, his favorite color, his fear of the dark.
 
@@ -58,7 +58,7 @@ That night, Emma asked her parents.
 
 "My friend from school. He wasn't there today."
 
-Her parents exchanged a look Emma was beginning to recognize—the look that meant they were deciding how to answer.
+Her parents exchanged a look Emma was beginning to recognize, the look that meant they were deciding how to answer.
 
 "Emma, sometimes friends move away. It's sad, but it happens."
 
@@ -71,9 +71,7 @@ Her mother knelt down.
 
 "He wasn't imaginary! I played with him. I talked to him. He was real."
 
-Her parents' expressions were gentle but concerned—the look adults give children who are confused, who don't understand, who need help.
+Her parents' expressions were gentle but concerned, the look adults give children who are confused, who don't understand, who need help.
 
 Emma felt anger for the first time in her life.
 
-
-**END OF CHAPTER 03**

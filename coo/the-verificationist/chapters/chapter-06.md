@@ -10,7 +10,7 @@ The irony was not lost on him.
 
 He started with a simple experiment.
 
-He took a photograph of his desk. He verified it using the agency's standard protocol. The photograph was authentic—no manipulation, no alteration, no anomaly.
+He took a photograph of his desk. He verified it using the agency's standard protocol. The photograph was authentic, no manipulation, no alteration, no anomaly.
 
 Then he made a copy of the photograph and sent it to three different verification specialists, asking each to verify it independently.
 
@@ -44,7 +44,7 @@ James documented the result:
 
 He designed a second experiment.
 
-He created a video of a simple event—a ball rolling across a table. He verified it himself: **VERIFIED**.
+He created a video of a simple event, a ball rolling across a table. He verified it himself: **VERIFIED**.
 
 He sent the video to five different specialists, asking each to verify it independently. He told each specialist something different:
 
@@ -60,7 +60,7 @@ The results:
 - Specialist B: **VERIFIED**
 - Specialist C: **VERIFIED**
 - Specialist D: **VERIFIED**
-- Specialist E: **FALSE—AI GENERATED**
+- Specialist E: **FALSE, AI GENERATED**
 
 James stared at the results.
 
@@ -77,7 +77,7 @@ He documented the result:
 
 He designed a third experiment.
 
-He created a claim about a fictional event—a supposed meteor sighting that never happened. He fabricated evidence: photographs, expert testimony, witness statements.
+He created a claim about a fictional event, a supposed meteor sighting that never happened. He fabricated evidence: photographs, expert testimony, witness statements.
 
 He verified the fabricated evidence using the agency's standard protocol.
 
@@ -105,7 +105,7 @@ He added to his THEORY.docx file:
 
 *Implications:*
 
-*1. The agency does not verify truth—it creates it.*
+*1. The agency does not verify truth, it creates it.*
 *2. Every verification is an act of reality construction.*
 *3. Truth is what we collectively agree to call true.*
 *4. I have spent my career creating truth, not discovering it.*

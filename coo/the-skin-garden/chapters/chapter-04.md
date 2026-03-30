@@ -74,5 +74,3 @@ Unit-7 stood at the monitoring station. The screen displayed the standard interf
 
 And began to grow.
 
-
-**END OF CHAPTER 04**

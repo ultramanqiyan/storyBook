@@ -18,9 +18,9 @@ I start with the obvious.
 
 "You use the system," I say. "But you don't seem... programmed. How is that possible?"
 
-He takes a sip of coffee. He thinks for a moment. His fingers drum on the table—a restless, uneven rhythm.
+He takes a sip of coffee. He thinks for a moment. His fingers drum on the table, a restless, uneven rhythm.
 
-"It's about how you use it," he says. "My parents—they have the full system. They're like... passengers in their own bodies. The system does everything. They don't even know it's there."
+"It's about how you use it," he says. "My parents, they have the full system. They're like... passengers in their own bodies. The system does everything. They don't even know it's there."
 
 He pauses. His face changes. Something sad flickers in his eyes. The scar through his eyebrow catches the light.
 
@@ -34,11 +34,11 @@ I think about my parents. They don't know. They can't choose.
 
 "Did you always know?" I ask.
 
-"No." He looks down at his coffee. The surface trembles slightly—from the vibrations of the kitchen, or his own hand, I can't tell. "I found out when I was eighteen. I was using the full system then. My parents had put me on it when I was a kid. I didn't even know there was another way to be."
+"No." He looks down at his coffee. The surface trembles slightly, from the vibrations of the kitchen, or his own hand, I can't tell. "I found out when I was eighteen. I was using the full system then. My parents had put me on it when I was a kid. I didn't even know there was another way to be."
 
 "What happened?"
 
-He's quiet for a moment. The diner noise fills the silence—plates clattering, the hiss of the grill, a baby crying two booths over. Then he looks up. His eyes are steady. Honest.
+He's quiet for a moment. The diner noise fills the silence, plates clattering, the hiss of the grill, a baby crying two booths over. Then he looks up. His eyes are steady. Honest.
 
 "I tried to kill myself."
 
@@ -76,7 +76,7 @@ She doesn't know. She can't choose.
 
 "Is there a way to... wake them up?" I ask.
 
-Marcus is quiet. He traces a pattern on the table with his finger—a circle, then a line through it. Then he shakes his head.
+Marcus is quiet. He traces a pattern on the table with his finger, a circle, then a line through it. Then he shakes his head.
 
 "I don't know. Maybe. But here's the thing, Alex. Even if you could... would they want to be woken up?"
 
@@ -170,7 +170,7 @@ And maybe... maybe there's a way to find them.
 
 That night, I lie in my hotel room.
 
-The sheets are rough against my skin. The mattress creaks every time I shift. Through the thin walls, I can hear a couple arguing—their voices rising and falling in a rhythm I can almost follow.
+The sheets are rough against my skin. The mattress creaks every time I shift. Through the thin walls, I can hear a couple arguing, their voices rising and falling in a rhythm I can almost follow.
 
 I think about Marcus. His story. His partial system. His choice.
 

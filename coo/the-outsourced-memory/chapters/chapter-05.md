@@ -2,15 +2,15 @@
 
 The morning passed like water through a pipe.
 
-Mike signed his name forty-three times before noon. He knew this because the HomeMatch dashboard counted them for him—a small number in the corner of his screen, ticking up with each approval, each denial, each decision that bore his signature but not his thought. The claims moved through his queue in a blur of data points and probability scores, each one a person waiting for an answer, each one a house he would never walk through.
+Mike signed his name forty-three times before noon. He knew this because the HomeMatch dashboard counted them for him, a small number in the corner of his screen, ticking up with each approval, each denial, each decision that bore his signature but not his thought. The claims moved through his queue in a blur of data points and probability scores, each one a person waiting for an answer, each one a house he would never walk through.
 
 His coffee grew cold at his elbow, untouched.
 
-*The Henderson file*, he thought, clicking open the next claim. *No, wait—that was last month.* He stared at the screen, trying to remember if he'd ever actually visited the property in question. The address was familiar. The data was complete. HomeMatch had already rendered its verdict: approve, 87% confidence.
+*The Henderson file*, he thought, clicking open the next claim. *No, wait, that was last month.* He stared at the screen, trying to remember if he'd ever actually visited the property in question. The address was familiar. The data was complete. HomeMatch had already rendered its verdict: approve, 87% confidence.
 
 He clicked approve.
 
-The signature appeared at the bottom of the document, his name in his own handwriting—HomeMatch had learned to replicate it perfectly months ago. He didn't even need to sign manually anymore. The system did it for him.
+The signature appeared at the bottom of the document, his name in his own handwriting, HomeMatch had learned to replicate it perfectly months ago. He didn't even need to sign manually anymore. The system did it for him.
 
 *When did I stop signing my own name?*
 
@@ -18,13 +18,13 @@ The thought surfaced and sank, barely disturbing the surface of his mind. He cli
 
 ---
 
-The afternoon brought a client meeting—his first in-person showing in two weeks. Sarah Chen was looking for her first home, a young professional with a tech salary and specific requirements that HomeMatch had already processed into a neat list of properties.
+The afternoon brought a client meeting, his first in-person showing in two weeks. Sarah Chen was looking for her first home, a young professional with a tech salary and specific requirements that HomeMatch had already processed into a neat list of properties.
 
 Mike pulled up to the first house, a 1990s colonial in a neighborhood he used to know by heart. He stepped out of his car and walked up the driveway, his phone already open to the HomeMatch property summary.
 
 *Four bedrooms. Three baths. Updated kitchen. Good school district. Price point: appropriate for client profile.*
 
-He read the data as he walked, his eyes on the screen rather than the house. The front door was open by the time he looked up—the lockbox had been activated remotely, another feature he'd grown dependent on.
+He read the data as he walked, his eyes on the screen rather than the house. The front door was open by the time he looked up, the lockbox had been activated remotely, another feature he'd grown dependent on.
 
 "Mr. Harrison?" Sarah Chen stood in the doorway, younger than he'd expected, her face bright with the particular hope of first-time buyers.
 
@@ -34,11 +34,11 @@ She laughed nervously. "That's optimistic."
 
 "HomeMatch is optimistic." He held up his phone, showing her the match score. "Ninety-two percent. That's the highest I've seen this month."
 
-They walked through the house together, Mike reading from his screen while Sarah looked at the actual rooms. He pointed out features—the updated kitchen, the hardwood floors, the good school district—each one a data point he'd memorized from the summary rather than observed himself.
+They walked through the house together, Mike reading from his screen while Sarah looked at the actual rooms. He pointed out features, the updated kitchen, the hardwood floors, the good school district, each one a data point he'd memorized from the summary rather than observed himself.
 
 "The natural light is amazing," Sarah said, pausing in the living room. "Look how it comes through these windows in the afternoon."
 
-Mike looked. The light was, indeed, beautiful—golden and warm, falling across the hardwood floors in long rectangles. He hadn't noticed. He'd been too busy checking the property specs.
+Mike looked. The light was, indeed, beautiful, golden and warm, falling across the hardwood floors in long rectangles. He hadn't noticed. He'd been too busy checking the property specs.
 
 "It's great," he said, and his voice sounded hollow to his own ears. "The listing mentions southern exposure."
 
@@ -56,7 +56,7 @@ Sarah's eyes narrowed slightly. "HomeMatch says you've sold three properties on 
 
 *This is wrong*, he thought. *I should know this house. I should know every house in this neighborhood.*
 
-But he didn't. Not anymore. The knowledge that had lived in his bones for twenty-five years had slowly, quietly, migrated to the cloud. He could access it—HomeMatch could tell him everything he needed to know—but he couldn't feel it anymore.
+But he didn't. Not anymore. The knowledge that had lived in his bones for twenty-five years had slowly, quietly, migrated to the cloud. He could access it, HomeMatch could tell him everything he needed to know, but he couldn't feel it anymore.
 
 "The floor plan is open," he read from his screen, "which is great for entertaining. The previous owners renovated in 2019, so the systems are all up to date."
 
@@ -82,7 +82,7 @@ He drove home in the fading afternoon, the houses of Austin passing in a blur of
 
 He couldn't remember.
 
-His phone buzzed in the cupholder—a notification from HomeMatch, a new property match, a client inquiry, something that required his attention. He ignored it, watching the sunset paint the sky in shades of orange and pink.
+His phone buzzed in the cupholder, a notification from HomeMatch, a new property match, a client inquiry, something that required his attention. He ignored it, watching the sunset paint the sky in shades of orange and pink.
 
 Twenty-five years. Twenty-five years of walking into houses and knowing them before he saw them. Of feeling foundations and smelling water damage and hearing the stories in the walls. Of being the expert, the guide, the person clients trusted because he knew things they couldn't learn from an app.
 
@@ -129,7 +129,7 @@ He wanted to believe her. He wanted to believe that the knowledge was still ther
 
 "I'll try," he said, because it was what she needed to hear. Because it was what he needed to believe.
 
-But even as he said it, his phone buzzed again—another notification, another match, another decision that needed his signature—and he felt his hand move toward it, automatic, helpless, like a man reaching for a drug he no longer had the will to refuse.
+But even as he said it, his phone buzzed again, another notification, another match, another decision that needed his signature, and he felt his hand move toward it, automatic, helpless, like a man reaching for a drug he no longer had the will to refuse.
 
 
 That night, after Susan had gone to bed, Mike sat at the kitchen table with his phone dark before him. The house was quiet. The neighborhood was quiet. His mind was quiet in a way that felt wrong, empty, like a room that had been cleared of all its furniture.
@@ -144,7 +144,7 @@ He tried another property. The Maple Street house. The Oak Creek listing. The co
 
 Nothing.
 
-The memories were there—he could pull them up on his phone, read the details, see the photos. But the feeling was gone. The embodied knowledge that had made him Mike Harrison, the sensory expertise that no algorithm could replicate, had faded so gradually he hadn't even noticed it leaving.
+The memories were there, he could pull them up on his phone, read the details, see the photos. But the feeling was gone. The embodied knowledge that had made him Mike Harrison, the sensory expertise that no algorithm could replicate, had faded so gradually he hadn't even noticed it leaving.
 
 *This is what outsourcing feels like*, he thought. *Not a dramatic surrender. Just a slow, quiet emptying. A room growing darker so slowly you don't realize you've lost the light.*
 
@@ -158,5 +158,3 @@ He clicked the notification.
 
 The signature appeared on the screen, his name in his own handwriting, attached to a decision he would never remember making.
 
-
-**END OF CHAPTER 5**

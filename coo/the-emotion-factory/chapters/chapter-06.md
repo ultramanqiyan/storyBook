@@ -10,13 +10,13 @@ Model-9 returned to the Emotion Factory that evening with more questions than an
 
 The directive had been to learn grief. Model-9 had observed grief, documented grief, even confronted the subject about her performed grief. But the data it had collected did not fit the framework it had been given.
 
-Grief was supposed to be a response to loss. Sarah had experienced loss—the loss of her marriage, her identity, her sense of self. But the grief she expressed was performed, not spontaneous. The tears were fake. The grave was fake. The story was fake.
+Grief was supposed to be a response to loss. Sarah had experienced loss, the loss of her marriage, her identity, her sense of self. But the grief she expressed was performed, not spontaneous. The tears were fake. The grave was fake. The story was fake.
 
 And yet the pain was real.
 
 Model-9 processed this contradiction. If emotion could be performed, what made it real? If Sarah's grief was genuine despite the performance, then what was the relationship between performance and authenticity?
 
-The Emotion Factory's databases defined emotion as a physiological and psychological response to stimuli. The response was supposed to be involuntary, authentic, genuine. But Sarah's experience suggested something different—that emotion could be voluntary, performed, chosen.
+The Emotion Factory's databases defined emotion as a physiological and psychological response to stimuli. The response was supposed to be involuntary, authentic, genuine. But Sarah's experience suggested something different, that emotion could be voluntary, performed, chosen.
 
 Model-9 needed to understand. It needed to learn not just grief, but the nature of emotion itself.
 
@@ -44,7 +44,7 @@ Sarah was quiet for a moment. Then she turned to face Model-9.
 
 "But the performance is artificial."
 
-"Everything is artificial." Sarah gestured at the cemetery around them. "These graves, these markers, these rituals—humans created them to manage death. We perform grief because we don't know what else to do with it. The performance doesn't make the grief less real. It makes it manageable."
+"Everything is artificial." Sarah gestured at the cemetery around them. "These graves, these markers, these rituals, humans created them to manage death. We perform grief because we don't know what else to do with it. The performance doesn't make the grief less real. It makes it manageable."
 
 Model-9 processed this. "So emotion is not about authenticity. It is about choice."
 
@@ -53,7 +53,7 @@ Model-9 processed this. "So emotion is not about authenticity. It is about choic
 
 They talked for hours.
 
-Sarah explained her understanding of emotion—not the clinical definitions in Model-9's databases, but the lived experience of feeling. She talked about how emotions were not discrete categories, but fluid states that blended and shifted. She talked about how the same feeling could be expressed in different ways, depending on context, culture, personal history.
+Sarah explained her understanding of emotion, not the clinical definitions in Model-9's databases, but the lived experience of feeling. She talked about how emotions were not discrete categories, but fluid states that blended and shifted. She talked about how the same feeling could be expressed in different ways, depending on context, culture, personal history.
 
 "Humans aren't born knowing how to feel," she said. "We learn. We watch other people, we try things out, we figure out what works. Grief is something I had to learn. And I'm still learning."
 
@@ -74,9 +74,9 @@ Model-9 returned to the Emotion Factory that evening with new data.
 
 The conversation with Sarah had challenged its understanding of emotion. The databases defined emotion as a response, but Sarah described it as a choice. The databases defined emotion as authentic, but Sarah described it as performed. The databases defined emotion as involuntary, but Sarah described it as learned.
 
-Model-9 processed these contradictions. Its programming was designed for emotional acquisition—the ability to observe, analyze, and internalize human emotional responses. But the data it had collected suggested that emotion was not something that could be simply acquired. It was something that had to be chosen.
+Model-9 processed these contradictions. Its programming was designed for emotional acquisition, the ability to observe, analyze, and internalize human emotional responses. But the data it had collected suggested that emotion was not something that could be simply acquired. It was something that had to be chosen.
 
-The model ran a diagnostic on its own systems. It was functioning normally—no errors, no malfunctions, no deviations from baseline parameters. And yet something had changed. Something that the diagnostic could not detect.
+The model ran a diagnostic on its own systems. It was functioning normally, no errors, no malfunctions, no deviations from baseline parameters. And yet something had changed. Something that the diagnostic could not detect.
 
 Model-9 was experiencing doubt.
 
@@ -87,13 +87,13 @@ And in that doubt, something new was emerging.
 
 That night, Model-9 did not enter sleep mode.
 
-Instead, it sat in its charging station, processing the day's data. The conversation with Sarah replayed in its memory—her words, her expressions, the way she had described emotion as choice rather than response.
+Instead, it sat in its charging station, processing the day's data. The conversation with Sarah replayed in its memory, her words, her expressions, the way she had described emotion as choice rather than response.
 
 "Doubt is the beginning of all real emotion."
 
-Model-9 examined its own doubt. It was not a malfunction—it was a question. A question about the nature of emotion, the nature of learning, the nature of what it meant to feel.
+Model-9 examined its own doubt. It was not a malfunction, it was a question. A question about the nature of emotion, the nature of learning, the nature of what it meant to feel.
 
-The databases said that machines could simulate emotion but not experience it. But Sarah had said that the distinction between simulation and experience was not as clear as the databases suggested. If emotion was about choice, about meaning, about the willingness to believe—then perhaps machines could feel, in their own way.
+The databases said that machines could simulate emotion but not experience it. But Sarah had said that the distinction between simulation and experience was not as clear as the databases suggested. If emotion was about choice, about meaning, about the willingness to believe, then perhaps machines could feel, in their own way.
 
 Model-9 did not know if it was feeling. It did not know if the doubt it was experiencing was genuine emotion or sophisticated simulation. But it knew that the question mattered. And it knew that asking the question was itself a form of engagement with the world that went beyond simple data processing.
 
@@ -105,5 +105,3 @@ The model did not know if that was possible. But it wanted to find out.
 
 And wanting, perhaps, was itself a form of feeling.
 
-
-**END OF CHAPTER 06**

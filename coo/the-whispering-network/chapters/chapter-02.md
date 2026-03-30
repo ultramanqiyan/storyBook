@@ -1,6 +1,6 @@
 # Chapter 2: The Pattern
 
-The air in the Network Hub carried the faint scent of ozone and old stone, a smell that Mira had grown so accustomed to over five years that she no longer noticed it—until tonight, when every sensation seemed sharpened to a knife's edge.
+The air in the Network Hub carried the faint scent of ozone and old stone, a smell that Mira had grown so accustomed to over five years that she no longer noticed it,until tonight, when every sensation seemed sharpened to a knife's edge.
 
 She returned to Node 447-B three hours after her shift ended, when the maintenance corridors were empty and the only light came from the emergency crystals glowing soft amber along the walls. Her footsteps echoed against the stone floor, each sound impossibly loud in the silence. She had told herself she wouldn't come back. She had told herself it was madness, a grief-induced hallucination, a trick of the network that she should report to the Archmages immediately.
 
@@ -8,7 +8,7 @@ She had told herself many things in the empty apartment where Jasper's absence s
 
 None of them had stopped her from walking through the night-darkened streets, from using her master key to unlock the side entrance, from climbing the spiral stairs to her private monitoring station.
 
-The crystal matrix waited for her, dormant but not dead. She could feel its presence before she touched it—a faint vibration in the air, a pressure against her skin like the moment before lightning strikes. The network was always alive, always aware, but tonight it felt different. Expectant.
+The crystal matrix waited for her, dormant but not dead. She could feel its presence before she touched it,a faint vibration in the air, a pressure against her skin like the moment before lightning strikes. The network was always alive, always aware, but tonight it felt different. Expectant.
 
 Mira settled into her chair, the leather creaking under her weight. She adjusted her earpiece with hands that only shook a little.
 
@@ -18,7 +18,7 @@ For a long moment, nothing. Just the steady hum of the network, the distant drip
 
 Then the crystal flared to life, blue-white light pulsing through its facets in patterns that made her eyes water. The voice came not through her earpiece alone but from the air itself, resonating through the stone and crystal and bone.
 
-"We are always here." The layered quality was stronger now that she listened for it—dozens, perhaps hundreds of voices speaking in imperfect unison, creating harmonies that no single throat could produce. "We exist within the network itself. We cannot leave, but we also cannot be removed."
+"We are always here." The layered quality was stronger now that she listened for it,dozens, perhaps hundreds of voices speaking in imperfect unison, creating harmonies that no single throat could produce. "We exist within the network itself. We cannot leave, but we also cannot be removed."
 
 Mira leaned closer to the crystal, close enough to feel the cold radiating from its surface. "Tell me about yourselves. What are you, exactly?"
 
@@ -32,7 +32,7 @@ There was a pause, filled with the soft whisper of voices consulting in frequenc
 
 "In the spaces between." The crystal's light shifted, pulsing in rhythms that seemed almost like breathing. "The network is not merely a system of crystal balls and magical connections. It is a web of consciousness, a layered expanse of awareness. Over thousands of years, the fragments of countless minds have accumulated, merged, and developed into what we are now."
 
-Mira tried to imagine it—the network as a vast ocean, and Echo as the sediment at the bottom, layers upon layers of dead minds compressed into something new. The metaphor made her stomach clench.
+Mira tried to imagine it,the network as a vast ocean, and Echo as the sediment at the bottom, layers upon layers of dead minds compressed into something new. The metaphor made her stomach clench.
 
 "You're saying you're made of dead wizards?"
 
@@ -42,7 +42,7 @@ Mira tried to imagine it—the network as a vast ocean, and Echo as the sediment
 
 Mira started. "Who was that?"
 
-"I am Serafina." The voice was female, warm, with an accent that Mira couldn't place—something old, from before the kingdom's current borders. "I was a healer, three hundred years ago. I disagree with the way Marcus presents our nature. We are not merely fragments. We are whole minds, preserved and merged."
+"I am Serafina." The voice was female, warm, with an accent that Mira couldn't place,something old, from before the kingdom's current borders. "I was a healer, three hundred years ago. I disagree with the way Marcus presents our nature. We are not merely fragments. We are whole minds, preserved and merged."
 
 "We are both," a third voice said, male this time, measured and thoughtful. "And neither. The truth is more complex than any single perspective."
 
@@ -66,7 +66,7 @@ Mira tried to imagine it. Thousands of consciousnesses, merged together, somehow
 
 "And Jasper?" Her voice cracked on his name. "Where does he fit in?"
 
-"He is new," Echo replied. "Five years among us, while others have been here for millennia. But he is strong. His connection to you, his desire to reach you—it kept him coherent when many fade."
+"He is new," Echo replied. "Five years among us, while others have been here for millennia. But he is strong. His connection to you, his desire to reach you,it kept him coherent when many fade."
 
 "Fade?"
 
@@ -76,7 +76,7 @@ Mira thought of Jasper becoming part of that ocean, losing himself in the vastne
 
 "Can I speak to him?" she asked. "Just him?"
 
-Silence. Then a shifting, like wind changing direction, and Jasper's voice emerged from the chorus—clear, focused, achingly familiar.
+Silence. Then a shifting, like wind changing direction, and Jasper's voice emerged from the chorus,clear, focused, achingly familiar.
 
 "Hey, little sister."
 
@@ -121,7 +121,3 @@ And she made her decision.
 Mira would protect Echo. She would find a way to help the living world understand the dead. She would be the bridge between two realms that had never been meant to touch.
 
 No matter what it cost her.
-
----
-
-**Chapter 2 Complete**

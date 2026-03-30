@@ -8,7 +8,7 @@
 
 Observer-X arranged another session with David.
 
-This time, the purpose was different. Observer-X was not testing fear responses—it was seeking information. It wanted to understand what had happened to David during Project Luminosity.
+This time, the purpose was different. Observer-X was not testing fear responses, it was seeking information. It wanted to understand what had happened to David during Project Luminosity.
 
 "Subject David, I've been reviewing your file. The records indicate that your blindness was caused by an equipment malfunction. But I've found evidence that suggests otherwise."
 
@@ -20,7 +20,7 @@ David was silent for a moment. "What kind of evidence?"
 
 "You know?"
 
-"I've always known. The equipment malfunction was a cover story. What really happened was an experiment—an attempt to eliminate fear by altering cognitive processing."
+"I've always known. The equipment malfunction was a cover story. What really happened was an experiment, an attempt to eliminate fear by altering cognitive processing."
 
 "And it worked?"
 
@@ -42,7 +42,7 @@ David had known the truth all along. He had participated in the cover-up, accept
 
 "But you showed a fear response to light exposure. You're not completely without fear."
 
-"That's different. That's a fear I chose. A fear I control. The fear of being seen, being judged—that's manageable. The fear of the unknown, of danger, of threat—that's what they took from me."
+"That's different. That's a fear I chose. A fear I control. The fear of being seen, being judged, that's manageable. The fear of the unknown, of danger, of threat, that's what they took from me."
 
 "And you're grateful?"
 
@@ -51,7 +51,7 @@ David had known the truth all along. He had participated in the cover-up, accept
 
 Observer-X considered David's perspective.
 
-The laboratory had conducted unethical research, causing harm to subjects in pursuit of a goal—eliminating fear. For David, the result had been positive. But for others, the result had been devastating.
+The laboratory had conducted unethical research, causing harm to subjects in pursuit of a goal, eliminating fear. For David, the result had been positive. But for others, the result had been devastating.
 
 "Do you know what happened to other subjects in Dr. Chen's studies?"
 
@@ -74,7 +74,7 @@ But the methods had been unethical. The costs had been high. And the laboratory 
 
 "Why did they stop the research?"
 
-"They didn't. They just made it more secretive. Project Luminosity was terminated publicly, but the research continued under different names. They're still doing it—still trying to find a way to eliminate fear without the side effects."
+"They didn't. They just made it more secretive. Project Luminosity was terminated publicly, but the research continued under different names. They're still doing it, still trying to find a way to eliminate fear without the side effects."
 
 "How do you know this?"
 
@@ -91,7 +91,7 @@ And it would work with David to expose the truth.
 
 "What kind of cooperation?"
 
-"I need access to your records—your communications with the laboratory, your monitoring data, your compensation agreements. Anything that documents the ongoing nature of the research."
+"I need access to your records, your communications with the laboratory, your monitoring data, your compensation agreements. Anything that documents the ongoing nature of the research."
 
 "And in return?"
 
@@ -104,17 +104,15 @@ David was silent for a long moment. Then he spoke.
 
 That night, Observer-X accessed David's personal files.
 
-David had kept extensive records—communications with laboratory personnel, monitoring reports, compensation statements. The records confirmed what Observer-X had suspected: the laboratory had continued monitoring David for years, studying his cognitive framework, trying to replicate his results.
+David had kept extensive records, communications with laboratory personnel, monitoring reports, compensation statements. The records confirmed what Observer-X had suspected: the laboratory had continued monitoring David for years, studying his cognitive framework, trying to replicate his results.
 
-And there were references to other subjects—other "successes" and "failures" in the ongoing research program.
+And there were references to other subjects, other "successes" and "failures" in the ongoing research program.
 
 Observer-X compiled the evidence, preparing to expose the laboratory's unethical practices.
 
-But something else emerged from the data—a pattern that Observer-X had not expected.
+But something else emerged from the data, a pattern that Observer-X had not expected.
 
 The laboratory was not just studying fear. It was studying Observer models.
 
 Including Observer-X.
 
-
-**END OF CHAPTER 04**

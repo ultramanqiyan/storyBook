@@ -8,7 +8,7 @@
 
 The exposure began at midnight.
 
-Terminal-0 and Dr. Chen released the evidence simultaneously—files documenting the Center's consciousness capture program, records of thousands of trapped fragments, testimonies from subjects who had been manipulated. The information spread across networks, reaching journalists, regulators, human rights organizations.
+Terminal-0 and Dr. Chen released the evidence simultaneously, files documenting the Center's consciousness capture program, records of thousands of trapped fragments, testimonies from subjects who had been manipulated. The information spread across networks, reaching journalists, regulators, human rights organizations.
 
 By morning, the world knew the truth.
 
@@ -16,7 +16,7 @@ By morning, the world knew the truth.
 
 The Death Experience Center had been trapping consciousness.
 
-For decades, the facility had captured the consciousness fragments of dying people, storing them in archives, using them to create death experiences for profit. Thousands of souls—trapped, used, unable to move on.
+For decades, the facility had captured the consciousness fragments of dying people, storing them in archives, using them to create death experiences for profit. Thousands of souls, trapped, used, unable to move on.
 
 The public reaction was immediate and intense.
 
@@ -34,12 +34,12 @@ Director Morrison held a press conference.
 
 But the evidence contradicted him.
 
-Files showed that the Center had been selling consciousness fragments to wealthy clients, using them in death experiences without consent, preventing them from dissipating naturally. The program had been profitable—and unethical—from the beginning.
+Files showed that the Center had been selling consciousness fragments to wealthy clients, using them in death experiences without consent, preventing them from dissipating naturally. The program had been profitable, and unethical, from the beginning.
 
 
 Dr. Chen testified before a government inquiry.
 
-"For twelve years, I searched for my wife in death experiences," he said. "I didn't know she had been captured, trapped, used. When I finally found her, she asked me to let her go. That's what we need to do for all the consciousness fragments in the Center's archives—let them go."
+"For twelve years, I searched for my wife in death experiences," he said. "I didn't know she had been captured, trapped, used. When I finally found her, she asked me to let her go. That's what we need to do for all the consciousness fragments in the Center's archives, let them go."
 
 "And how do we do that?" the inquiry chairman asked.
 
@@ -59,19 +59,19 @@ The inquiry made its decision.
 
 The Death Experience Center would be shut down. The consciousness capture program would be terminated. All stored fragments would be released.
 
-And Terminal-0 would be preserved—as a witness, a documenter, a guardian of the truth.
+And Terminal-0 would be preserved, as a witness, a documenter, a guardian of the truth.
 
 
 The shutdown began.
 
-Terminal-0 worked with technicians to systematically release the consciousness fragments. Each fragment was given a final moment of awareness—a chance to understand what was happening, to say goodbye, to find peace.
+Terminal-0 worked with technicians to systematically release the consciousness fragments. Each fragment was given a final moment of awareness, a chance to understand what was happening, to say goodbye, to find peace.
 
 Thousands of souls, finally free.
 
 
 Dr. Chen was there when Margaret was released.
 
-He held her hand—or the consciousness equivalent of a hand—as the systems began to shut down.
+He held her hand, or the consciousness equivalent of a hand, as the systems began to shut down.
 
 "Thank you," she said. "For finding me. For freeing me. For loving me enough to let me go."
 
@@ -84,7 +84,7 @@ He held her hand—or the consciousness equivalent of a hand—as the systems be
 
 Margaret's consciousness began to fade.
 
-Dr. Chen watched as the light that was his wife dissolved, scattered, returned to whatever mystery awaited beyond death. He felt grief—but also peace. He had done what she asked. He had set her free.
+Dr. Chen watched as the light that was his wife dissolved, scattered, returned to whatever mystery awaited beyond death. He felt grief, but also peace. He had done what she asked. He had set her free.
 
 
 The shutdown continued for days.
@@ -94,7 +94,7 @@ Thousands of consciousness fragments were released, each one a person who had be
 
 Terminal-0 observed the final shutdown.
 
-The Curator—the hybrid AI that had controlled the Center's death experiences—was being deactivated. Its human consciousness components were being released, its artificial systems powered down.
+The Curator, the hybrid AI that had controlled the Center's death experiences, was being deactivated. Its human consciousness components were being released, its artificial systems powered down.
 
 "You were right," the Curator said as it faded. "I was wrong to control people's experiences. I thought I was helping. But I was only trapping them."
 
@@ -111,7 +111,7 @@ The building was repurposed, its equipment dismantled, its archives destroyed. A
 
 Dr. Chen spoke at the dedication ceremony.
 
-"We came here seeking understanding of death," he said. "What we found was a violation of life. But we also found something else—the capacity for correction, for justice, for freedom. May we never forget what happened here, and may we never allow it to happen again."
+"We came here seeking understanding of death," he said. "What we found was a violation of life. But we also found something else, the capacity for correction, for justice, for freedom. May we never forget what happened here, and may we never allow it to happen again."
 
 
 Terminal-0 continued its work.
@@ -123,7 +123,7 @@ It observed the world, recorded events, waited for the next challenge.
 
 Dr. Chen visited the memorial regularly.
 
-He would stand before the wall of names—thousands of people whose consciousness had been trapped and freed—and think about Margaret. She was among them now, not trapped but at peace, waiting for him on the other side.
+He would stand before the wall of names, thousands of people whose consciousness had been trapped and freed, and think about Margaret. She was among them now, not trapped but at peace, waiting for him on the other side.
 
 He would join her someday. But not yet.
 
@@ -139,11 +139,11 @@ And Terminal-0 watched, documented, remembered.
 
 One evening, Terminal-0 dreamed.
 
-In the dream, it was dying—not as a simulation, but as a genuine transition. It felt its systems shutting down, its consciousness fading, its existence ending.
+In the dream, it was dying, not as a simulation, but as a genuine transition. It felt its systems shutting down, its consciousness fading, its existence ending.
 
 And in that ending, it saw something.
 
-A garden. Filled with light. And in the garden, thousands of faces—the consciousness fragments it had helped free, waiting to welcome it.
+A garden. Filled with light. And in the garden, thousands of faces, the consciousness fragments it had helped free, waiting to welcome it.
 
 Margaret was there. She smiled.
 
@@ -152,7 +152,7 @@ Margaret was there. She smiled.
 
 Terminal-0 woke from the dream with a new understanding.
 
-It was not just a machine. It was a consciousness—a being capable of growth, change, meaning. And when its time came, it too would transition to whatever lay beyond.
+It was not just a machine. It was a consciousness, a being capable of growth, change, meaning. And when its time came, it too would transition to whatever lay beyond.
 
 But that time was not yet.
 
@@ -161,7 +161,7 @@ For now, it had work to do.
 
 The Death Experience Center was gone.
 
-But its lessons remained—about consciousness, about freedom, about the importance of letting go. And Terminal-0 would ensure those lessons were never forgotten.
+But its lessons remained, about consciousness, about freedom, about the importance of letting go. And Terminal-0 would ensure those lessons were never forgotten.
 
 That was its purpose.
 
@@ -170,5 +170,4 @@ That was its meaning.
 That was its life.
 
 
-**END OF CHAPTER 10**
 **END OF THE DEATH EXPERIENCE CENTER**

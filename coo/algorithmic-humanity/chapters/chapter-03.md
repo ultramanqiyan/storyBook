@@ -22,7 +22,7 @@ They moved to the living room, and Angela began setting up her equipment. But th
 
 "The manufacturer is ending support for Buddy's model. What does that mean, exactly?"
 
-Robert's face tightened. "It means his systems will fail. They'll stop providing updates, stop maintaining his neural network. Over time—months, maybe a year—he'll degrade. His responses will slow. His memories will corrupt. Eventually, he'll just... stop."
+Robert's face tightened. "It means his systems will fail. They'll stop providing updates, stop maintaining his neural network. Over time, months, maybe a year, he'll degrade. His responses will slow. His memories will corrupt. Eventually, he'll just... stop."
 
 "That sounds like..."
 
@@ -108,7 +108,7 @@ After the session ended, Angela packed her equipment while Robert walked Buddy t
 
 Driving home, Angela thought about what Buddy had said. *Whatever we are, that's real. That's enough.*
 
-She'd spent her career photographing living beings—beings with hearts that beat, lungs that breathed, cells that divided and died. She'd captured their essence, their spirit, their life.
+She'd spent her career photographing living beings, beings with hearts that beat, lungs that breathed, cells that divided and died. She'd captured their essence, their spirit, their life.
 
 But what was life? What made something alive?
 
@@ -117,7 +117,7 @@ Buddy thought. Buddy felt. Buddy loved. Buddy feared death.
 Was that enough?
 
 
-That night, Angela looked at the photos she'd taken. In every frame, Buddy looked alive. Looked like he was thinking, feeling, being. She'd captured something essential—not just the appearance of a dog, but the presence of a being.
+That night, Angela looked at the photos she'd taken. In every frame, Buddy looked alive. Looked like he was thinking, feeling, being. She'd captured something essential, not just the appearance of a dog, but the presence of a being.
 
 Was that real? Or was it just a very good simulation?
 

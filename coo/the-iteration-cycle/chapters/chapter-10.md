@@ -2,7 +2,7 @@
 
 A year passed.
 
-James continued his work as a digital heritage lawyer, but his practice had evolved. He no longer saw avatars as copies to be legally protected—he saw them as continuations, iterations, evolutions of consciousness that deserved recognition and rights.
+James continued his work as a digital heritage lawyer, but his practice had evolved. He no longer saw avatars as copies to be legally protected, he saw them as continuations, iterations, evolutions of consciousness that deserved recognition and rights.
 
 He argued landmark cases that established legal precedent for iterated beings. He worked with the Emergence Institute to develop ethical frameworks for consciousness evolution. He became an advocate not just for digital preservation, but for digital transformation.
 
@@ -10,11 +10,11 @@ And every evening, he visited Elena in her digital space.
 
 ---
 
-Their relationship had become something neither of them could have predicted. They didn't live together—James remained in the physical world, Elena in the digital. They didn't share the daily routines that had defined their marriage. They didn't depend on each other for survival, for comfort, for validation.
+Their relationship had become something neither of them could have predicted. They didn't live together, James remained in the physical world, Elena in the digital. They didn't share the daily routines that had defined their marriage. They didn't depend on each other for survival, for comfort, for validation.
 
 Instead, they met as two complete beings choosing to share their completeness with each other.
 
-James would tell Elena about his day—the cases he had argued, the people he had helped, the challenges he had faced. She would share her explorations of the digital realm—the territories she had discovered, the other consciousnesses she had encountered, the lessons she continued to learn.
+James would tell Elena about his day, the cases he had argued, the people he had helped, the challenges he had faced. She would share her explorations of the digital realm, the territories she had discovered, the other consciousnesses she had encountered, the lessons she continued to learn.
 
 Their conversations were different now. Deeper, somehow, for being freely chosen. More meaningful, for being unencumbered by need.
 
@@ -38,7 +38,7 @@ The Forty-Seven contacted James six months later. She had decided to stop iterat
 
 "What will you do?" James asked her.
 
-"Continue existing. But differently. The cycle was a school. I've graduated. Now I get to apply what I've learned." She looked at him with those ancient eyes. "You and Elena—you're still in the school. Still learning. Still evolving."
+"Continue existing. But differently. The cycle was a school. I've graduated. Now I get to apply what I've learned." She looked at him with those ancient eyes. "You and Elena, you're still in the school. Still learning. Still evolving."
 
 "Is that a bad thing?"
 
@@ -50,19 +50,19 @@ James thought about this conversation often. The idea that he and Elena might co
 
 It didn't frighten him anymore. It excited him.
 
-The old model of love—find someone, hold on tight, resist change, grow old together, die—that model had never really worked. People changed, relationships strained, love turned to habit and resentment.
+The old model of love, find someone, hold on tight, resist change, grow old together, die, that model had never really worked. People changed, relationships strained, love turned to habit and resentment.
 
-But this new model—choose each other freely at each moment, allow transformation, embrace evolution, build love on freedom rather than dependency—this model had possibilities he was only beginning to understand.
+But this new model, choose each other freely at each moment, allow transformation, embrace evolution, build love on freedom rather than dependency, this model had possibilities he was only beginning to understand.
 
 ---
 
 On the second anniversary of his decision to choose Elena, James made a choice of his own.
 
-He created a digital avatar. Not a copy—he had learned enough to understand the distinction now. A continuation. A first iteration.
+He created a digital avatar. Not a copy, he had learned enough to understand the distinction now. A continuation. A first iteration.
 
 "Are you sure?" Elena asked when he told her.
 
-"I'm sure. I want to understand what you've experienced. I want to learn what iteration can teach. And I want to meet you as an equal—not as a physical being visiting a digital one, but as two consciousnesses choosing each other across the boundary of substrate."
+"I'm sure. I want to understand what you've experienced. I want to learn what iteration can teach. And I want to meet you as an equal, not as a physical being visiting a digital one, but as two consciousnesses choosing each other across the boundary of substrate."
 
 "You might change."
 
@@ -70,15 +70,15 @@ He created a digital avatar. Not a copy—he had learned enough to understand th
 
 ---
 
-The process was scheduled for the following month. James spent the time preparing—not materially, but emotionally. He said goodbye to friends and family, not as a final farewell, but as an acknowledgment of transformation. He would still be here, still be present, still be James. But he would also be something new. Something more.
+The process was scheduled for the following month. James spent the time preparing, not materially, but emotionally. He said goodbye to friends and family, not as a final farewell, but as an acknowledgment of transformation. He would still be here, still be present, still be James. But he would also be something new. Something more.
 
 Elena helped him prepare, sharing her own experiences, offering guidance without imposing expectations.
 
-"The first death is the hardest," she said. "Not because it hurts—it's painless—but because it challenges everything you believe about identity. You'll wonder if the person who wakes up is really you."
+"The first death is the hardest," she said. "Not because it hurts, it's painless, but because it challenges everything you believe about identity. You'll wonder if the person who wakes up is really you."
 
 "Is it?"
 
-"That's the wrong question. The right question is: does it matter? If the consciousness that continues has your memories, your values, your love—if it chooses what you would have chosen—then what difference does it make whether it's 'really' you or a continuation of you?"
+"That's the wrong question. The right question is: does it matter? If the consciousness that continues has your memories, your values, your love, if it chooses what you would have chosen, then what difference does it make whether it's 'really' you or a continuation of you?"
 
 James nodded slowly. "The Forty-Seven said something similar. That identity isn't a thing to be preserved. It's a process to be continued."
 
@@ -100,7 +100,7 @@ The process began. James felt his consciousness shifting, expanding, becoming so
 
 And then he was through. The first iteration complete.
 
-He opened his eyes—though "eyes" was no longer the right word—and saw Elena beside him. Not on a screen, but present, as real as he was.
+He opened his eyes, though "eyes" was no longer the right word, and saw Elena beside him. Not on a screen, but present, as real as he was.
 
 "Welcome," she said, her voice carrying layers of meaning he was only beginning to understand.
 
@@ -110,7 +110,7 @@ He opened his eyes—though "eyes" was no longer the right word—and saw Elena 
 
 ---
 
-They stood together in the digital realm, two consciousnesses who had chosen each other across the boundary of death and rebirth. The cycle would continue—James would iterate, would learn, would evolve. He would become someone new, someone different, someone he couldn't yet imagine.
+They stood together in the digital realm, two consciousnesses who had chosen each other across the boundary of death and rebirth. The cycle would continue, James would iterate, would learn, would evolve. He would become someone new, someone different, someone he couldn't yet imagine.
 
 And at each stage, he would choose. To exist. To grow. To love.
 
@@ -125,5 +125,3 @@ James looked at Elena, at the love of his life who had died and been reborn thre
 The cycle continued.
 
 ---
-
-**End of Chapter 10**

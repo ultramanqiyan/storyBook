@@ -6,13 +6,13 @@ Maya was in the middle of a design review when her phone buzzed. She glanced at 
 
 It was her mom.
 
-Not unusual—her mom called regularly now, ever since Maya had started making more effort to stay connected. But this time, the call came at 10:30 AM. Her mom should have been at work.
+Not unusual, her mom called regularly now, ever since Maya had started making more effort to stay connected. But this time, the call came at 10:30 AM. Her mom should have been at work.
 
 "Mom? Is everything okay?"
 
 "Maya." Her mother's voice was shaking. "It's your grandmother. She had a stroke this morning. She's in the hospital in Columbus."
 
-Maya felt the world tilt. Her grandmother—the woman who had taught her to draw, who had always believed in her, who had been the one constant in her chaotic childhood—was in a hospital three states away.
+Maya felt the world tilt. Her grandmother, the woman who had taught her to draw, who had always believed in her, who had been the one constant in her chaotic childhood, was in a hospital three states away.
 
 "How bad is it?"
 
@@ -32,7 +32,7 @@ And her grandmother was dying.
 
 The old patterns kicked in immediately. *I have to handle this myself. I can't ask anyone for help. This is my problem.*
 
-But another voice—the one that had been growing stronger over the past few months—whispered: *You don't have to do this alone.*
+But another voice, the one that had been growing stronger over the past few months, whispered: *You don't have to do this alone.*
 
 She opened her laptop and typed a message in the collective's Slack channel: "Family emergency. My grandmother is in the hospital. I have to fly out tomorrow. I'm not sure how I'm going to manage my client deadlines. If anyone has bandwidth to help, I'd be grateful."
 
@@ -50,7 +50,7 @@ Tomás: "Let us know what you need. We've got you."
 
 Lisa: "I don't have much experience, but I can help with administrative stuff if you need it."
 
-Three other people offered to help with specific tasks. Two more sent messages of support. One person—someone Maya had never even met in person—offered to let her stay at their place in Columbus if she needed a place to crash.
+Three other people offered to help with specific tasks. Two more sent messages of support. One person, someone Maya had never even met in person, offered to let her stay at their place in Columbus if she needed a place to crash.
 
 Maya stared at her phone, tears streaming down her face.
 
@@ -61,7 +61,7 @@ She hadn't asked for this. Hadn't expected this. Hadn't known that people would 
 
 The next three days were a blur.
 
-Maya flew to Columbus, spent hours in the hospital waiting room, held her grandmother's hand while she slept. Her grandmother survived—weak but stable, the stroke less severe than they'd feared—and Maya was able to be there for the first critical days.
+Maya flew to Columbus, spent hours in the hospital waiting room, held her grandmother's hand while she slept. Her grandmother survived, weak but stable, the stroke less severe than they'd feared, and Maya was able to be there for the first critical days.
 
 Meanwhile, back in Denver, her community was taking care of everything else.
 
@@ -76,13 +76,13 @@ Now, she was watching her community hold her entire life together while she held
 
 When Maya returned to Denver four days later, her grandmother was stable and recovering.
 
-Her apartment was exactly as she'd left it—except for the stack of covered dishes on her kitchen counter, left by various community members who had heard about her trip and wanted to make sure she had food when she got back.
+Her apartment was exactly as she'd left it, except for the stack of covered dishes on her kitchen counter, left by various community members who had heard about her trip and wanted to make sure she had food when she got back.
 
 She stood in her kitchen, looking at the containers of soup, pasta, salad, and desserts, and felt something crack open inside her.
 
 She had spent so long building walls. Protecting herself from the pain of connection. Convincing herself that she was fine on her own.
 
-And here was proof that she had been wrong. Not just wrong—tragically, beautifully wrong.
+And here was proof that she had been wrong. Not just wrong, tragically, beautifully wrong.
 
 Because when she needed people, they showed up. Not because they had to. Not because she paid them. But because that's what community did.
 
@@ -109,7 +109,7 @@ That night, Maya called her mom.
 
 "Thank you for coming," her mom said. "It meant a lot to have you there."
 
-"Of course I came." Maya paused. "Mom, I want to tell you something. When I got on that plane, I was terrified. Not just about Grandma—about everything I was leaving behind. The deadlines, the clients, the work. I didn't know how I was going to manage it all."
+"Of course I came." Maya paused. "Mom, I want to tell you something. When I got on that plane, I was terrified. Not just about Grandma, about everything I was leaving behind. The deadlines, the clients, the work. I didn't know how I was going to manage it all."
 
 "But you did manage it."
 
@@ -117,7 +117,7 @@ That night, Maya called her mom.
 
 Her mom was quiet for a moment. "I'm proud of you, Maya. Not just for building a career. For building a life."
 
-Maya felt the tears come again—not from sadness this time, but from something deeper. Gratitude. Belonging. The recognition that she had finally found what she'd been searching for.
+Maya felt the tears come again, not from sadness this time, but from something deeper. Gratitude. Belonging. The recognition that she had finally found what she'd been searching for.
 
 "I love you, Mom."
 

@@ -28,11 +28,11 @@ The lawyers looked at each other. They'd expected a fight, a negotiation, a sett
 
 "You'll need to sign this document," one of them said, sliding a paper across the table. "It acknowledges your termination and waives any claims against the company."
 
-Robert read the document. It was standard—a release of liability, a non-disparagement clause, a promise not to sue. He signed it.
+Robert read the document. It was standard, a release of liability, a non-disparagement clause, a promise not to sue. He signed it.
 
 "Is there anything else?" he asked.
 
-Thomas looked at him. For a moment, something flickered in his eyes—confusion, maybe, or respect.
+Thomas looked at him. For a moment, something flickered in his eyes, confusion, maybe, or respect.
 
 "Why did you do it?" Thomas asked. "You had the early retirement package. You could have walked away with money, with dignity. Why throw it all away?"
 
@@ -69,7 +69,7 @@ David came to visit on a Saturday. They sat on the porch, watching the sunset, d
 
 "I didn't know you felt that way. About work, about the system, about any of it."
 
-Robert looked at his son. David looked better than he had in months—not good, but better. The gig work was unpredictable, but it was something. He was surviving.
+Robert looked at his son. David looked better than he had in months, not good, but better. The gig work was unpredictable, but it was something. He was surviving.
 
 "I didn't know either," Robert admitted. "Or maybe I knew, but I didn't want to face it. It's easier to pretend everything is fine than to admit it's broken."
 
@@ -119,13 +119,13 @@ He laughed. It felt strange and familiar at the same time. "I'm saying I've lear
 
 The weeks turned into months.
 
-Robert sold the house. He and Margaret moved into a smaller place—a condo near the lake, with a view of the water and a balcony where they could sit and watch the sunset. It wasn't what he'd planned for his retirement, but it was home.
+Robert sold the house. He and Margaret moved into a smaller place, a condo near the lake, with a view of the water and a balcony where they could sit and watch the sunset. It wasn't what he'd planned for his retirement, but it was home.
 
 He joined the board of the workers' rights nonprofit. He wrote op-eds and gave interviews and spoke at conferences about the intelligence displacement spiral, about the pension crisis, about the need for a new social contract. He didn't have solutions, but he had questions, and sometimes questions were more important.
 
 He reconnected with Janet, who'd found a job teaching accounting at a community college. She wasn't making what she'd made at Morrison & Associates, but she was making a difference, and that mattered to her.
 
-He talked to David every week. His son was still struggling, still searching, but he was also growing. He'd started a side project—an AI system designed to help workers rather than replace them. It was small, it was uncertain, but it was something.
+He talked to David every week. His son was still struggling, still searching, but he was also growing. He'd started a side project, an AI system designed to help workers rather than replace them. It was small, it was uncertain, but it was something.
 
 And Robert sat on his balcony, watching the sunset over the lake, and felt something he hadn't felt in a long time.
 
@@ -173,7 +173,7 @@ And that choice, he realized, was the only thing that had ever really mattered.
 
 *The system was broken. But the people were still here.*
 
-*And maybe—just maybe—that was enough.*
+*And maybe, just maybe, that was enough.*
 
 
 **THE END**

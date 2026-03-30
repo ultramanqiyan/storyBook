@@ -2,7 +2,7 @@
 
 The project failure came without warning.
 
-Marcus had led the initiative for eight months—a major platform redesign that was supposed to revolutionize the company's user experience. The team had worked tirelessly. The stakeholders had been supportive. Everything had seemed on track.
+Marcus had led the initiative for eight months, a major platform redesign that was supposed to revolutionize the company's user experience. The team had worked tirelessly. The stakeholders had been supportive. Everything had seemed on track.
 
 Then the user testing results came back.
 
@@ -22,7 +22,7 @@ Marcus read the message. But for the first time, the reframing didn't work.
 
 The failure was too big. Too real. Too significant.
 
-He sat in the conference room after the stakeholder meeting, staring at the failed metrics on his screen. EmoteSense continued to send notifications—coping strategies, perspective shifts, emotional management techniques.
+He sat in the conference room after the stakeholder meeting, staring at the failed metrics on his screen. EmoteSense continued to send notifications, coping strategies, perspective shifts, emotional management techniques.
 
 But none of it helped.
 
@@ -55,5 +55,3 @@ Sarah sat beside him. "Maybe that's not a bad thing."
 "Maybe some things aren't supposed to be processed away."
 
 The words were simple. But they opened a crack in Marcus's carefully managed emotional world.
-
-**END OF CHAPTER 4**

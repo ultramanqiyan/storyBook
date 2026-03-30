@@ -2,7 +2,7 @@
 
 The server outage happened on a Thursday morning.
 
-CreateFlow went down across the company—some kind of database failure. The IT team estimated it would be back online by end of day.
+CreateFlow went down across the company, some kind of database failure. The IT team estimated it would be back online by end of day.
 
 Marcus stared at his screen, unsure what to do. He had a client presentation in three hours. The concepts were due.
 
@@ -22,7 +22,7 @@ Nothing came.
 
 ---
 
-He tried harder. Grabbed a pen and paper—the old tools, the ones he'd used for years before AI.
+He tried harder. Grabbed a pen and paper, the old tools, the ones he'd used for years before AI.
 
 *Just sketch*, he told himself. *Don't overthink it. Let the ideas flow.*
 
@@ -86,5 +86,3 @@ He couldn't create anymore. Not without AI.
 
 And he didn't know how to get it back.
 
-
-**END OF CHAPTER 4**

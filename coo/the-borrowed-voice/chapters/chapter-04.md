@@ -2,7 +2,7 @@
 
 The call with Sarah was scheduled for Thursday at 2 PM.
 
-David spent the three days before it preparing—or trying to. He reviewed the proposal, checked the pricing, anticipated questions. But his mind kept drifting to the same thought: when he spoke to Sarah, would he be speaking as himself, or as the polished professional the AI had created?
+David spent the three days before it preparing, or trying to. He reviewed the proposal, checked the pricing, anticipated questions. But his mind kept drifting to the same thought: when he spoke to Sarah, would he be speaking as himself, or as the polished professional the AI had created?
 
 He tried writing out talking points in his own voice. The words came slowly, awkwardly. Every sentence felt like a struggle against a current that wanted to carry him toward the smooth, efficient language of SalesPilot.
 
@@ -20,17 +20,17 @@ He answered on the first ring. "David Kim."
 
 "David, it's Sarah. Thanks for making time for this."
 
-Her voice was warm, familiar—the voice of someone he'd worked with for six years. Someone who trusted him. Someone who had no idea that the emails she'd been responding to weren't really his.
+Her voice was warm, familiar, the voice of someone he'd worked with for six years. Someone who trusted him. Someone who had no idea that the emails she'd been responding to weren't really his.
 
 "Of course," he said. "I've been looking forward to this."
 
-The words came out smoothly. Too smoothly. He realized with a start that he'd unconsciously adopted the cadence of the AI-generated emails—the polished, professional rhythm that had become his default.
+The words came out smoothly. Too smoothly. He realized with a start that he'd unconsciously adopted the cadence of the AI-generated emails, the polished, professional rhythm that had become his default.
 
 "Listen," Sarah said, "I wanted to talk through some details before we finalize. My team has questions about implementation timeline and support structure."
 
 "Absolutely. Let me walk you through what we've put together."
 
-He pulled up the proposal on his screen and began to explain. The words flowed easily—he'd prepared extensively, and the material was familiar. But as he talked, he noticed something strange.
+He pulled up the proposal on his screen and began to explain. The words flowed easily, he'd prepared extensively, and the material was familiar. But as he talked, he noticed something strange.
 
 He wasn't thinking about what to say. He was just... saying it. The sentences formed without conscious effort, each one polished and professional.
 
@@ -46,7 +46,7 @@ Sarah's questions were answered smoothly. Her concerns were addressed profession
 
 "Of course. That's what I'm here for."
 
-"I have to say," she continued, "I've been really impressed with your communication lately. The emails, this call—everything feels more... I don't know. Refined. Professional. It's clear you've been working on your approach."
+"I have to say," she continued, "I've been really impressed with your communication lately. The emails, this call, everything feels more... I don't know. Refined. Professional. It's clear you've been working on your approach."
 
 David felt his stomach tighten. "Thank you. I appreciate that."
 
@@ -60,7 +60,7 @@ Instead, he felt like a fraud.
 
 "Yes?"
 
-He took a breath. This was the moment. He could tell her the truth—that his improved communication wasn't the result of personal growth, but of an AI tool that generated polished emails in his voice. That the professional she was impressed by wasn't really him.
+He took a breath. This was the moment. He could tell her the truth, that his improved communication wasn't the result of personal growth, but of an AI tool that generated polished emails in his voice. That the professional she was impressed by wasn't really him.
 
 But what would that accomplish? The deal would fall apart. The trust would evaporate. Six years of relationship building, gone.
 
@@ -78,7 +78,7 @@ The parameters were simple: *Send final proposal to Sarah Chen, express apprecia
 
 The AI generated the email in seconds. Perfect. Polished. Professional.
 
-He read it over, looking for something—anything—that felt like him.
+He read it over, looking for something, anything, that felt like him.
 
 There was nothing. Just efficient, effective communication.
 
@@ -90,7 +90,7 @@ That night, he dreamed about the cracked mug.
 
 In the dream, he was sitting at his desk, reaching for the mug as he'd done every morning for eight years. But when he picked it up, the crack had disappeared. The mug was smooth, perfect, unblemished.
 
-He tried to find the crack—the familiar imperfection that made it his—but it was gone. The mug was better now. More professional. More efficient.
+He tried to find the crack, the familiar imperfection that made it his, but it was gone. The mug was better now. More professional. More efficient.
 
 But it wasn't his anymore.
 
@@ -111,7 +111,7 @@ The next morning, he arrived at the office to find a response from Sarah.
 
 Another success. Another deal closed. Another client satisfied.
 
-David stared at the email, trying to feel something—pride, satisfaction, relief.
+David stared at the email, trying to feel something, pride, satisfaction, relief.
 
 But all he felt was hollow.
 
@@ -147,7 +147,7 @@ She left, and David sat alone in his office, staring at the empty mug on his des
 
 ---
 
-That night, he tried to write something—anything—in his own voice.
+That night, he tried to write something, anything, in his own voice.
 
 He opened a blank document and stared at the cursor, waiting for words to come.
 

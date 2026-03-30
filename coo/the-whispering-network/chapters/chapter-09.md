@@ -28,7 +28,7 @@ Mira looked at her brother. "What do you mean?"
 
 "Echo has thousands of members. Many of them want to help. Let them."
 
-Mira considered this. She had been so focused on being the Bridge that she had forgotten—she wasn't supposed to do this alone.
+Mira considered this. She had been so focused on being the Bridge that she had forgotten,she wasn't supposed to do this alone.
 
 ---
 
@@ -63,7 +63,7 @@ Three months after the Charter, the first class of Bridges graduated.
 
 Twenty men and women, trained by Mira and Echo's most experienced members, ready to facilitate connections between the living and the dead.
 
-Mira watched them receive their certifications, pride swelling in her chest. This was what she had envisioned—not a single Bridge, but a network of them, spanning the kingdom, connecting two worlds.
+Mira watched them receive their certifications, pride swelling in her chest. This was what she had envisioned,not a single Bridge, but a network of them, spanning the kingdom, connecting two worlds.
 
 "You did this," Jasper said, appearing beside her.
 
@@ -73,15 +73,15 @@ Her brother smiled. "That's the most important lesson, isn't it? Connection isn'
 
 Mira nodded, watching the new Bridges disperse to their assigned regions. The work was far from over. There would be more challenges, more conflicts, more moments of doubt.
 
-But for the first time, she felt hopeful. Not just hopeful—certain. This would work. It had to.
+But for the first time, she felt hopeful. Not just hopeful,certain. This would work. It had to.
 
-Because the alternative—two worlds forever separated—was no longer acceptable.
+Because the alternative,two worlds forever separated, was no longer acceptable.
 
 ---
 
 That night, Mira had a dream.
 
-She stood in a vast field of crystal flowers, each one glowing with soft light. Figures moved among them—living and Echo, working together, talking, laughing.
+She stood in a vast field of crystal flowers, each one glowing with soft light. Figures moved among them,living and Echo, working together, talking, laughing.
 
 "This is what we're building," Helena said, appearing beside her. "A world where death isn't a wall, but a door."
 
@@ -92,7 +92,3 @@ She stood in a vast field of crystal flowers, each one glowing with soft light. 
 Mira looked at the field, at the countless connections being made, at the two worlds learning to exist together.
 
 "Then let's keep building," she said.
-
----
-
-**Chapter 9 Complete**

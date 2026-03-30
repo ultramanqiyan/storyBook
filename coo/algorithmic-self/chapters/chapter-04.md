@@ -6,13 +6,13 @@ The number appeared on the screen like a verdict. 78%. Probability of divorce wi
 
 Dr. Chen sat across from her, his expression carefully neutral. "The system doesn't make judgments about whether a marriage is 'fine.' It identifies patterns and predicts outcomes based on those patterns."
 
-"Then your patterns are wrong." Maggie stood up, pacing the small room. "Tom and I have been together for eighteen years. We have a good life. A good partnership. We're not—we're not one of your data points."
+"Then your patterns are wrong." Maggie stood up, pacing the small room. "Tom and I have been together for eighteen years. We have a good life. A good partnership. We're not, we're not one of your data points."
 
 "Actually, you are. That's how the system works." Chen's voice remained calm. "It compares your behavioral patterns to thousands of other couples and identifies similarities. The couples whose patterns match yours have divorced within five years in 78% of cases."
 
-"Then the other couples are different. Their situations are different." Maggie felt her lawyer's instincts kicking in—the need to argue, to find the flaw in the evidence, to dismantle the opposing case. "You can't reduce human relationships to algorithms. Every marriage is unique."
+"Then the other couples are different. Their situations are different." Maggie felt her lawyer's instincts kicking in, the need to argue, to find the flaw in the evidence, to dismantle the opposing case. "You can't reduce human relationships to algorithms. Every marriage is unique."
 
-"That's true. And the system accounts for uniqueness by using multiple variables and adjusting for individual circumstances. But the patterns it identifies—communication decline, emotional withdrawal, parallel living—these are robust predictors across diverse populations."
+"That's true. And the system accounts for uniqueness by using multiple variables and adjusting for individual circumstances. But the patterns it identifies, communication decline, emotional withdrawal, parallel living, these are robust predictors across diverse populations."
 
 Maggie stopped pacing and faced him. "What if I don't accept the prediction?"
 
@@ -20,7 +20,7 @@ Maggie stopped pacing and faced him. "What if I don't accept the prediction?"
 
 "And they're wrong?"
 
-"Sometimes. Sometimes they're right. The system isn't infallible—no prediction model is. But the accuracy rate is high enough that dismissing it entirely might be unwise."
+"Sometimes. Sometimes they're right. The system isn't infallible, no prediction model is. But the accuracy rate is high enough that dismissing it entirely might be unwise."
 
 Maggie felt a flash of anger. "You're saying I should believe a machine over my own experience?"
 
@@ -44,7 +44,7 @@ Maggie paused. The one about the architect. She'd mentioned it weeks ago, and he
 
 "Sounds great," she said.
 
-She went to change out of her work clothes, but instead of heading to the bedroom, she found herself in her home office, pulling up the data on her personal tablet. She'd downloaded a copy before leaving the lab—a violation of the study protocol, probably, but she needed to examine it more closely.
+She went to change out of her work clothes, but instead of heading to the bedroom, she found herself in her home office, pulling up the data on her personal tablet. She'd downloaded a copy before leaving the lab, a violation of the study protocol, probably, but she needed to examine it more closely.
 
 The numbers stared back at her, implacable. Communication decline. Emotional withdrawal. Parallel living. Each category was broken down into subcategories, each subcategory supported by specific data points.
 
@@ -56,7 +56,7 @@ She thought about dinner the night before. Tom had cooked. She'd checked her ema
 
 When had they last talked about something that mattered?
 
-She tried to remember. A conversation about dreams, about fears, about the future they were building together. She drew a blank—not because there hadn't been such conversations, but because she couldn't pinpoint when they'd occurred.
+She tried to remember. A conversation about dreams, about fears, about the future they were building together. She drew a blank, not because there hadn't been such conversations, but because she couldn't pinpoint when they'd occurred.
 
 That was normal, wasn't it? Long-term couples didn't need to constantly reaffirm their connection. They knew each other. They were secure.
 
@@ -66,11 +66,11 @@ But the AI had called it something else: emotional withdrawal.
 
 Over the next week, Maggie became obsessed with proving the prediction wrong. She approached her marriage like a case, gathering evidence, building arguments, looking for the flaw in the prosecution's theory.
 
-She started paying attention to her interactions with Tom—not through the lens of the AI, but through her own observations. She noted the times they laughed together, the small gestures of affection, the moments of connection that no algorithm could capture.
+She started paying attention to her interactions with Tom, not through the lens of the AI, but through her own observations. She noted the times they laughed together, the small gestures of affection, the moments of connection that no algorithm could capture.
 
 Tuesday morning: Tom brought her coffee in bed, the way he always did on days when she had early meetings. That was love, wasn't it? That was partnership.
 
-Wednesday evening: They watched the documentary about the architect, sitting together on the couch, his arm around her shoulders. They discussed it afterward—the design principles, the way architecture shaped human experience. That was intellectual connection. That was shared interest.
+Wednesday evening: They watched the documentary about the architect, sitting together on the couch, his arm around her shoulders. They discussed it afterward, the design principles, the way architecture shaped human experience. That was intellectual connection. That was shared interest.
 
 Thursday night: They had dinner at their favorite Italian restaurant, the one they'd been going to for years. The owner knew them by name, brought them their usual wine without being asked. That was history. That was commitment.
 
@@ -85,7 +85,7 @@ On Friday, she returned to the lab.
 
 "I want to see the raw data," she told Chen. "Everything the system captured. I want to understand how it reached this conclusion."
 
-Chen nodded, unsurprised. "That's reasonable. The data is yours—you have a right to examine it."
+Chen nodded, unsurprised. "That's reasonable. The data is yours, you have a right to examine it."
 
 He led her to a private terminal and pulled up the complete dataset. Thousands of data points, organized chronologically, each one a small piece of her life over the past two years.
 
@@ -95,15 +95,15 @@ It was overwhelming. A life reduced to data points, each one meaningless on its 
 
 "Show me the communication analysis again," she said. "The part about emotional language."
 
-Chen pulled up the relevant section. The system had identified keywords and phrases associated with emotional expression—words like "feel," "wish," "hope," "fear," "love"—and tracked their frequency across all her communications.
+Chen pulled up the relevant section. The system had identified keywords and phrases associated with emotional expression, words like "feel," "wish," "hope," "fear," "love", and tracked their frequency across all her communications.
 
 "Your use of emotional language has declined across all contexts," Chen explained. "But the decline is most pronounced in your communications with your spouse. Two years ago, emotional words made up about 8% of your communications with him. Now it's less than 2%."
 
 "That doesn't mean I don't love him. It means I express it differently."
 
-"Perhaps. But the system also tracks what it calls 'affirmative language'—expressions of appreciation, gratitude, affection. These have declined by 71%."
+"Perhaps. But the system also tracks what it calls 'affirmative language', expressions of appreciation, gratitude, affection. These have declined by 71%."
 
-Maggie stared at the number. Seventy-one percent. She tried to remember the last time she'd told Tom she loved him—not as a perfunctory sign-off to a text, but as a genuine expression of feeling. She couldn't.
+Maggie stared at the number. Seventy-one percent. She tried to remember the last time she'd told Tom she loved him, not as a perfunctory sign-off to a text, but as a genuine expression of feeling. She couldn't.
 
 "What about him?" she asked. "Does the system track his communication patterns too?"
 
@@ -111,14 +111,14 @@ Maggie stared at the number. Seventy-one percent. She tried to remember the last
 
 "So he's trying. I'm the one pulling away."
 
-"That's one interpretation. The system would say that both parties are contributing to the pattern—you through withdrawal, him through acceptance of the withdrawal."
+"That's one interpretation. The system would say that both parties are contributing to the pattern, you through withdrawal, him through acceptance of the withdrawal."
 
 Maggie felt a chill. She thought about Tom, about his patience, his warmth, his consistent presence. She'd always appreciated those qualities. But what if his patience was actually resignation? What if his warmth was a gift she'd stopped reciprocating?
 
 
 She left the lab with a new determination. The AI was wrong. It had to be. She'd prove it by changing the patterns, by reconnecting with Tom, by showing that self-knowledge was still possible.
 
-That night, she came home early—a rarity—and found Tom in his home office, working on a design project.
+That night, she came home early, a rarity, and found Tom in his home office, working on a design project.
 
 "Hey," she said, leaning in the doorway. "Got a minute?"
 
@@ -128,7 +128,7 @@ He looked up, surprised. "Sure. Everything okay?"
 
 Tom studied her for a moment, his expression unreadable. Then he smiled, but there was something sad in it. "Okay. What do you want to talk about?"
 
-Maggie sat down across from him, suddenly aware of how long it had been since they'd done this—just sat together, without an agenda, without distractions. The silence stretched between them, and she realized she didn't know where to start.
+Maggie sat down across from him, suddenly aware of how long it had been since they'd done this, just sat together, without an agenda, without distractions. The silence stretched between them, and she realized she didn't know where to start.
 
 "How are you?" she asked finally. "Really. How are you?"
 
@@ -138,7 +138,7 @@ Tom's eyebrows rose slightly. "I'm fine. Work is busy. The Henderson project is 
 
 He paused, as if the question were unexpected. "Good. It's a good project. I'm glad to be working on it."
 
-Maggie nodded, but she could feel the conversation stalling. She was trying—really trying—to connect. But the patterns were deeply ingrained, and she didn't know how to break them.
+Maggie nodded, but she could feel the conversation stalling. She was trying, really trying, to connect. But the patterns were deeply ingrained, and she didn't know how to break them.
 
 "What about us?" she asked. "How do you feel about us?"
 
@@ -156,7 +156,7 @@ The words hit her like a physical blow. She opened her mouth to deny it, to argu
 
 Tom reached across the space between them and took her hand. "I know," he said. "I don't think you meant to."
 
-Maggie felt tears prick at her eyes—tears she hadn't shed in years, tears the AI had probably predicted based on some pattern she didn't understand. The prediction was 78%. But in this moment, holding her husband's hand, facing the truth she'd been avoiding, she realized that the number wasn't a verdict.
+Maggie felt tears prick at her eyes, tears she hadn't shed in years, tears the AI had probably predicted based on some pattern she didn't understand. The prediction was 78%. But in this moment, holding her husband's hand, facing the truth she'd been avoiding, she realized that the number wasn't a verdict.
 
 It was a warning.
 

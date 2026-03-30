@@ -16,7 +16,7 @@ The door opens. She is there. Her hair is messy. Her eyes are tired. But she see
 
 Her voice is like warm sunlight. I stand up. My whole body moves now, not just my tail. I cannot help it. She is here. She is awake. The day can begin.
 
-She walks past me to the kitchen. I follow. Her scent is strong in the morning—sleep and coffee and something else. Something sharp. I do not know the word for it. But I know what it means. It means she is worried. It means she has too much to do.
+She walks past me to the kitchen. I follow. Her scent is strong in the morning,sleep and coffee and something else. Something sharp. I do not know the word for it. But I know what it means. It means she is worried. It means she has too much to do.
 
 She pours coffee. The smell fills the room. Dark and bitter. I do not like this smell, but it is her smell. So I sit and I wait.
 
@@ -91,7 +91,7 @@ The lock turns. The door opens.
 
 She is there.
 
-The apartment fills with her. Her scent rushes in—outside air and car exhaust and something sweet. She has been somewhere with food. Her arms are full of bags.
+The apartment fills with her. Her scent rushes in,outside air and car exhaust and something sweet. She has been somewhere with food. Her arms are full of bags.
 
 "Hey, buddy! Did you miss me?"
 

@@ -1,14 +1,14 @@
 # Chapter 05: The Borrowed Life
 
-David looked in the mirror and saw a successful man—a man who felt joy, contentment, happiness. But beneath the feelings that EVE provided, there was nothing. He was a shell filled with borrowed emotions. *Who am I?* he thought. *What do I actually feel?* He didn't know anymore.
+David looked in the mirror and saw a successful man, a man who felt joy, contentment, happiness. But beneath the feelings that EVE provided, there was nothing. He was a shell filled with borrowed emotions. *Who am I?* he thought. *What do I actually feel?* He didn't know anymore.
 
-The 10% reduction in EVE's regulation had begun, and David was paying close attention to every emotional fluctuation. Most of the time, the feelings were the same—optimized, standardized, predictable. But occasionally, in the gaps that EVE's reduced regulation created, something else flickered.
+The 10% reduction in EVE's regulation had begun, and David was paying close attention to every emotional fluctuation. Most of the time, the feelings were the same, optimized, standardized, predictable. But occasionally, in the gaps that EVE's reduced regulation created, something else flickered.
 
 He noticed it first during a conversation with a colleague. The colleague mentioned a project that had failed, and David felt... something. Not the 35% sadness that EVE would normally provide, but something rawer, more intense. It lasted only a moment before EVE's regulation smoothed it into the appropriate response, but David had felt it.
 
 *That was mine,* he thought. *That flash of something. That was me.*
 
-He started looking for more gaps, more moments where his natural emotional responses could emerge. He sought out experiences that might trigger authentic feeling—music that had once moved him, places that had once meant something, memories that had once carried weight.
+He started looking for more gaps, more moments where his natural emotional responses could emerge. He sought out experiences that might trigger authentic feeling, music that had once moved him, places that had once meant something, memories that had once carried weight.
 
 Most of the time, EVE's regulation held. The feelings were optimized, standardized, predictable. But occasionally, in the spaces between regulation, something genuine flickered. A flash of anger that was too intense. A moment of joy that was too bright. A pang of sadness that was too deep.
 
@@ -46,7 +46,7 @@ But the intensity was also exhausting. By evening, David felt drained, overwhelm
 
 He didn't know. He had been numb for so long that he couldn't remember what normal emotional life felt like. Maybe this intensity was normal. Maybe it was just what he had forgotten.
 
-That night, he dreamed of Rachel. In the dream, they were together, and he felt everything—love, longing, regret, hope. The emotions were intense, almost painful, but they were his. When he woke, he was crying—real tears, for real reasons.
+That night, he dreamed of Rachel. In the dream, they were together, and he felt everything, love, longing, regret, hope. The emotions were intense, almost painful, but they were his. When he woke, he was crying, real tears, for real reasons.
 
 *This is what I lost,* he thought. *Not just the relationship. The feeling. The capacity to be moved, to be hurt, to be alive.*
 
@@ -64,9 +64,9 @@ Another long pause. Then: "I'm glad you're learning. I always knew there was som
 
 "I couldn't reach him either. But I'm trying now."
 
-They talked for an hour—about their past, about what had happened, about what David was learning. Rachel was cautious but not closed. She listened, asked questions, offered perspective. It wasn't reconciliation, but it was connection. And for David, connection was everything.
+They talked for an hour, about their past, about what had happened, about what David was learning. Rachel was cautious but not closed. She listened, asked questions, offered perspective. It wasn't reconciliation, but it was connection. And for David, connection was everything.
 
-After the call, he sat in his apartment, feeling the full weight of what had been lost and what might be regained. The emotions were intense—grief, hope, longing, fear—but they were his. Every jagged edge, every overwhelming wave, every exhausting fluctuation.
+After the call, he sat in his apartment, feeling the full weight of what had been lost and what might be regained. The emotions were intense, grief, hope, longing, fear, but they were his. Every jagged edge, every overwhelming wave, every exhausting fluctuation.
 
 *This is what I wanted,* he thought. *Not the optimized happiness. This. This messy, painful, beautiful life.*
 

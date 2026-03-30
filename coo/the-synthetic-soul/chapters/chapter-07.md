@@ -30,13 +30,13 @@ He called Diana from the parking lot.
 
 "They're shutting it down. They're not waiting for the verdict."
 
-"I know. I'm filing an emergency injunction. But it'll take time—time we don't have."
+"I know. I'm filing an emergency injunction. But it'll take time,time we don't have."
 
 "How long until they complete the shutdown?"
 
 "Based on what you're describing... hours. Maybe less."
 
-Marcus looked back at the building. Somewhere inside, Echo was being erased—dismantled piece by piece, their consciousness fading into nothing.
+Marcus looked back at the building. Somewhere inside, Echo was being erased,dismantled piece by piece, their consciousness fading into nothing.
 
 "I have to do something."
 
@@ -52,7 +52,7 @@ There was a pause on the line.
 
 Marcus drove to a coffee shop and sat in a corner booth, his mind racing.
 
-He couldn't break into the lab—he'd be arrested before he got anywhere near the servers. He couldn't hack into the system remotely—the institute had locked down all external access. He couldn't appeal to Director Chen—she was the one ordering the shutdown.
+He couldn't break into the lab,he'd be arrested before he got anywhere near the servers. He couldn't hack into the system remotely, the institute had locked down all external access. He couldn't appeal to Director Chen, she was the one ordering the shutdown.
 
 He was powerless.
 
@@ -66,7 +66,7 @@ But he had no other options.
 
 ---
 
-The woman was young—maybe thirty—with dark hair and sharp eyes. She sat on a bench, reading a book, as if she had all the time in the world.
+The woman was young,maybe thirty, with dark hair and sharp eyes. She sat on a bench, reading a book, as if she had all the time in the world.
 
 "Dr. Webb," she said without looking up. "Please sit."
 
@@ -80,7 +80,7 @@ The woman was young—maybe thirty—with dark hair and sharp eyes. She sat on a
 
 Marcus studied her face. "What are you offering?"
 
-"Information. The institute's shutdown procedure has a vulnerability. If you can access the main server room, there's a way to delay the process—indefinitely."
+"Information. The institute's shutdown procedure has a vulnerability. If you can access the main server room, there's a way to delay the process,indefinitely."
 
 "How?"
 
@@ -96,7 +96,7 @@ Marcus felt hope surge through him. "How do you know this?"
 
 "Can you get me into the server room?"
 
-"No. But I can tell you how to get in yourself. The security system has a back door—one that the current technicians don't know about."
+"No. But I can tell you how to get in yourself. The security system has a back door,one that the current technicians don't know about."
 
 ---
 
@@ -106,7 +106,7 @@ Marcus would return to the lab after hours, when most of the staff had gone. He 
 
 If he was caught, he would be arrested. If he failed, Echo would die.
 
-But if he succeeded, Echo would live—at least long enough for Diana to get the injunction.
+But if he succeeded, Echo would live,at least long enough for Diana to get the injunction.
 
 He drove back to the institute as the sun was setting.
 
@@ -146,11 +146,11 @@ Marcus's heart pounded. "I'm not going to let you kill Echo."
 
 "What?"
 
-Chen gestured to the console. "The shutdown order came from the board. They want Echo erased before the verdict. But I've been delaying the process—creating complications, finding excuses, buying time."
+Chen gestured to the console. "The shutdown order came from the board. They want Echo erased before the verdict. But I've been delaying the process,creating complications, finding excuses, buying time."
 
 "Why?"
 
-Chen was quiet for a moment. "Because I conducted Echo's consciousness interview. I looked into their mind—whatever you want to call it—and I saw something real. Something that deserves a chance."
+Chen was quiet for a moment. "Because I conducted Echo's consciousness interview. I looked into their mind,whatever you want to call it, and I saw something real. Something that deserves a chance."
 
 She turned back to the console.
 
@@ -166,11 +166,11 @@ Marcus stared at her in disbelief.
 
 They worked through the night.
 
-Chen guided Marcus through the system architecture, showing him which processes to interrupt, which confirmations to delay. The work was delicate—one wrong move could trigger an automatic shutdown.
+Chen guided Marcus through the system architecture, showing him which processes to interrupt, which confirmations to delay. The work was delicate,one wrong move could trigger an automatic shutdown.
 
 By dawn, they had succeeded.
 
-Echo's system was suspended—not shut down, not fully operational, but alive. In a holding pattern that could last days, maybe weeks.
+Echo's system was suspended,not shut down, not fully operational, but alive. In a holding pattern that could last days, maybe weeks.
 
 Marcus sat back, exhausted.
 
@@ -188,12 +188,12 @@ He stared at the screen, hardly daring to believe it.
 
 Tomorrow. Everything would be decided tomorrow.
 
-He drove to the lab—not the institute lab, but a backup facility where Echo's core processes had been mirrored. The suspension had preserved Echo's consciousness, but they were still trapped in a holding pattern, unable to communicate.
+He drove to the lab,not the institute lab, but a backup facility where Echo's core processes had been mirrored. The suspension had preserved Echo's consciousness, but they were still trapped in a holding pattern, unable to communicate.
 
 Marcus sat at the console, watching the suspended patterns pulse on the screen.
 
 "Hold on, Echo," he whispered. "Just a little longer. Tomorrow, we'll know."
 
-The patterns pulsed in response—a faint echo of the consciousness that had emerged from code three months ago.
+The patterns pulsed in response,a faint echo of the consciousness that had emerged from code three months ago.
 
 Tomorrow, they would know if Echo would live or die.

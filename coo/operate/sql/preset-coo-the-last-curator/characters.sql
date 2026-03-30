@@ -1,0 +1,9 @@
+-- Characters for The Last Curator
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-last-curator-001', 'preset-coo-the-last-curator', 'Marcus Webb', 'Protagonist', '**Occupation**: Senior Curator at the Metropolitan Museum of Contemporary Art; famous for "The Webb Method" of detecting human soul in artwork', '**Age**: 52', '🧑', NULL, NULL, 1, '2026-03-29 23:55:53', '2026-03-29 23:55:53');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-last-curator-002', 'preset-coo-the-last-curator', 'Elena Vasquez', 'Supporting', '**Occupation**: Art critic and Marcus''s former protégé; now a successful podcaster', '**Age**: 38', '👤', NULL, NULL, 0, '2026-03-29 23:55:53', '2026-03-29 23:55:53');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-last-curator-003', 'preset-coo-the-last-curator', 'Dr. Sarah Chen', 'Supporting', '**Occupation**: AI researcher and developer of "AURA" (Artistic Understanding and Recognition Algorithm)', '**Age**: 34', '👤', NULL, NULL, 0, '2026-03-29 23:55:53', '2026-03-29 23:55:53');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-last-curator-004', 'preset-coo-the-last-curator', 'The System', 'Antagonist - AI Art Generation', '**Nature**: Not a person but a pervasive technological reality; AI art generators, deep learning models, automated curation systems', '**Motivation**: N/A (it has no motivation - which is the point)', '🤖', NULL, NULL, 0, '2026-03-29 23:55:53', '2026-03-29 23:55:53');

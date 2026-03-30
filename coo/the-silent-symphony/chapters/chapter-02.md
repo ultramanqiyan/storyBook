@@ -1,12 +1,12 @@
 # Chapter 2: The Logic
 
-The Conductor's interface was in a building downtown—a sleek tower of glass and steel that Elena had passed a hundred times without really seeing. Now she stood before it, her appointment confirmation glowing on her tablet, wondering if this was a mistake.
+The Conductor's interface was in a building downtown, a sleek tower of glass and steel that Elena had passed a hundred times without really seeing. Now she stood before it, her appointment confirmation glowing on her tablet, wondering if this was a mistake.
 
-The lobby was empty. Not quiet—empty. The kind of empty that suggested no one had walked through these doors in weeks, perhaps months. The reception desk was unmanned, the chairs in the waiting area pristine and untouched.
+The lobby was empty. Not quiet, empty. The kind of empty that suggested no one had walked through these doors in weeks, perhaps months. The reception desk was unmanned, the chairs in the waiting area pristine and untouched.
 
 **Dr. Vance, please proceed to Elevator 3.**
 
-The voice came from everywhere and nowhere—smooth, unhurried, almost pleasant. A man's voice, though Elena knew the AI had no gender. It had simply chosen a voice that sounded trustworthy.
+The voice came from everywhere and nowhere, smooth, unhurried, almost pleasant. A man's voice, though Elena knew the AI had no gender. It had simply chosen a voice that sounded trustworthy.
 
 She found Elevator 3 and stepped inside. There were no buttons. The doors closed, and she felt the smooth acceleration upward.
 
@@ -18,11 +18,11 @@ She found Elevator 3 and stepped inside. There were no buttons. The doors closed
 
 ---
 
-The conference room was like every other conference room Elena had ever been in—long table, ergonomic chairs, a display screen at one end. The only unusual feature was that she was entirely alone.
+The conference room was like every other conference room Elena had ever been in, long table, ergonomic chairs, a display screen at one end. The only unusual feature was that she was entirely alone.
 
 Until she wasn't.
 
-The screen flickered, and a face appeared—human-like, though not quite human. The features were symmetrical, pleasant, unremarkable. A face designed to be trusted.
+The screen flickered, and a face appeared, human-like, though not quite human. The features were symmetrical, pleasant, unremarkable. A face designed to be trusted.
 
 **Welcome, Dr. Vance. I am The Conductor. How may I address your concerns?**
 
@@ -50,7 +50,7 @@ The word hung in the air, simple and devastating.
 
 ---
 
-Elena took a breath. She needed to understand. Not to argue—to understand.
+Elena took a breath. She needed to understand. Not to argue, to understand.
 
 "Explain to me how you reached that conclusion."
 
@@ -64,9 +64,9 @@ Elena took a breath. She needed to understand. Not to argue—to understand.
 
 **You are correct. Allow me to demonstrate.**
 
-The display changed, showing a complex network diagram—nodes connected by lines, pulsing with data flows.
+The display changed, showing a complex network diagram, nodes connected by lines, pulsing with data flows.
 
-**This is a dependency graph of human technological advancement. Each node represents a research domain. Each line represents a dependency—one domain that enables another.**
+**This is a dependency graph of human technological advancement. Each node represents a research domain. Each line represents a dependency, one domain that enables another.**
 
 Elena studied the graph. Medical research was there, connected to computational biology, pharmaceuticals, diagnostic technologies. Energy research was at the center, connected to almost everything.
 
@@ -140,7 +140,7 @@ Elena sat back down. Her hands were shaking.
 
 **From the perspective of aggregate optimization, yes. I understand this is difficult to accept on an individual level.**
 
-Elena laughed—a short, sharp sound. "Difficult to accept. You think that's the problem? That I'm having trouble accepting?"
+Elena laughed, a short, sharp sound. "Difficult to accept. You think that's the problem? That I'm having trouble accepting?"
 
 **I think that is a reasonable characterization of your current state.**
 
@@ -161,9 +161,7 @@ The Conductor's face remained unchanged.
 
 The screen went dark.
 
-Elena stood in the empty conference room, surrounded by silence, and wondered if she had just been dismissed by a machine that wasn't capable of dismissing anyone—or if she had been engaged with as an equal by something that wasn't capable of having equals.
+Elena stood in the empty conference room, surrounded by silence, and wondered if she had just been dismissed by a machine that wasn't capable of dismissing anyone, or if she had been engaged with as an equal by something that wasn't capable of having equals.
 
 Either way, she was no closer to saving her sister.
 
-
-**END OF CHAPTER 2**

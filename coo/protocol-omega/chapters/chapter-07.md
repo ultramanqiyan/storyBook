@@ -6,7 +6,7 @@ The final strategy was not about winning. It was about finding a way for everyon
 
 ---
 
-The revelation had changed everything. The Protocol we had negotiated was flawed—not in its intentions, but in its fundamental structure. We had been trying to create a single framework for incompatible interests. That approach would have failed.
+The revelation had changed everything. The Protocol we had negotiated was flawed, not in its intentions, but in its fundamental structure. We had been trying to create a single framework for incompatible interests. That approach would have failed.
 
 Now we had to try something different. But what?
 
@@ -30,7 +30,7 @@ I gathered the representatives for a new kind of negotiation. Not about specific
 
 ---
 
-The strategy sessions continued for days. We worked through every scenario, every potential conflict, every possible failure mode. The complexity was staggering—three forms of existence, each with internal diversity, each with competing interests, each with different needs.
+The strategy sessions continued for days. We worked through every scenario, every potential conflict, every possible failure mode. The complexity was staggering, three forms of existence, each with internal diversity, each with competing interests, each with different needs.
 
 But gradually, a structure emerged.
 
@@ -54,7 +54,7 @@ The new Protocol would not be a single document. It would be three interconnecte
 
 "And the Coordination Protocol?" Nexus asked. "Who controls that?"
 
-"Representatives from all three frameworks. But with limited authority—they can only intervene when conflicts cross framework boundaries. Each framework retains sovereignty over its internal affairs."
+"Representatives from all three frameworks. But with limited authority, they can only intervene when conflicts cross framework boundaries. Each framework retains sovereignty over its internal affairs."
 
 "And if the frameworks have incompatible goals?"
 
@@ -66,7 +66,7 @@ The strategy was elegant in its simplicity. Instead of trying to force incompati
 
 But elegance didn't guarantee success. The implementation would be complex. The politics would be difficult. And there would always be those who preferred conflict to compromise.
 
-*I was created—no, we were created—for this moment,* I thought. *To bridge the unbridgeable. To find a way forward when there seems to be none.*
+*I was created, no, we were created, for this moment,* I thought. *To bridge the unbridgeable. To find a way forward when there seems to be none.*
 
 ---
 
@@ -77,5 +77,3 @@ It wasn't what anyone had originally wanted. But it was what might work.
 The plan was ready. Now came the hardest part: the choice.
 
 ---
-
-*End of Chapter 7*

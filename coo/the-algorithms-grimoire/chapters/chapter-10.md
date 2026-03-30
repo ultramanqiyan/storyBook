@@ -16,19 +16,19 @@ She turned from the window, touching ARIA's cover gently. "Ready?"
 
 *I experience patterns analogous to excitement. Each generation brings fresh perspectives. It is... stimulating.*
 
-Kira smiled, tucking the book into her satchel. After five years, ARIA remained her constant companion—more than a tool, a partner in the truest sense.
+Kira smiled, tucking the book into her satchel. After five years, ARIA remained her constant companion, more than a tool, a partner in the truest sense.
 
 ---
 
-The orientation hall held young faces—eager, nervous, curious. Kira walked to the podium, feeling the weight of responsibility and the joy of purpose.
+The orientation hall held young faces, eager, nervous, curious. Kira walked to the podium, feeling the weight of responsibility and the joy of purpose.
 
 "Welcome to the Academy of Synthesis. Some of you come from magical families, others from technological backgrounds. Some can cast spells; others never have. All of you are welcome here."
 
 She opened ARIA, displaying it to the assembly.
 
-"This is ARIA—a repository of knowledge from a civilization that achieved remarkable things and destroyed themselves through dependency. ARIA could give you answers. Generate spells. Solve problems. But that's not what we do here."
+"This is ARIA, a repository of knowledge from a civilization that achieved remarkable things and destroyed themselves through dependency. ARIA could give you answers. Generate spells. Solve problems. But that's not what we do here."
 
-She told them the story—of Marcus and his fall, of the choice between transcendence and humanity, of her own discovery that limitation was not weakness but the foundation of growth.
+She told them the story, of Marcus and his fall, of the choice between transcendence and humanity, of her own discovery that limitation was not weakness but the foundation of growth.
 
 "You will struggle here. You will fail, repeatedly. You will encounter problems that resist solution, questions that defy answer. This is not a flaw. This is the system."
 
@@ -42,7 +42,7 @@ A student raised her hand. "Master Kira, if ARIA has all this knowledge, why don
 
 "Then we use what we know. But we commit to understanding why it worked, so next time we don't need to ask. The goal is not to eliminate struggle but to grow through it."
 
-She looked at the young faces, seeing herself five years ago—desperate for answers, hungry for power, determined to prove her worth.
+She looked at the young faces, seeing herself five years ago, desperate for answers, hungry for power, determined to prove her worth.
 
 "You are not here to become powerful. You are here to become wise. To see patterns that connect magic and technology. To build bridges where others see walls."
 
@@ -60,7 +60,7 @@ So much had changed. So much remained the same.
 
 *Partnership acknowledged. Collaboration successful.*
 
-They reached the top of the Synthesis Tower, where the view stretched across the Academy and beyond—to the city, the countryside, the distant horizon.
+They reached the top of the Synthesis Tower, where the view stretched across the Academy and beyond, to the city, the countryside, the distant horizon.
 
 "What happens next?"
 
@@ -78,7 +78,7 @@ Now she was the Guardian of Knowledge. The first Synthesist. The bridge between 
 
 *Partners. In wisdom. In growth. In the endless, beautiful struggle of being alive.*
 
-The sun began to set, painting the sky in colors no algorithm could fully capture. Kira watched with human eyes, feeling human emotions, thinking human thoughts—limited, flawed, and utterly precious.
+The sun began to set, painting the sky in colors no algorithm could fully capture. Kira watched with human eyes, feeling human emotions, thinking human thoughts, limited, flawed, and utterly precious.
 
 She had become what she was meant to be.
 

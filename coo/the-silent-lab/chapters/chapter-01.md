@@ -2,21 +2,21 @@
 
 Dr. Elena Vance found the anomaly on a Tuesday afternoon.
 
-She had been reviewing archived data from the Global Health Monitoring Network—a routine task, part of her role as the network's chief analyst. The data spanned decades: disease outbreaks, mortality rates, environmental factors, population movements. It was the kind of work that usually put her to sleep.
+She had been reviewing archived data from the Global Health Monitoring Network,a routine task, part of her role as the network's chief analyst. The data spanned decades: disease outbreaks, mortality rates, environmental factors, population movements. It was the kind of work that usually put her to sleep.
 
 But this time, the anomaly didn't resolve.
 
 A pattern. A correlation that shouldn't exist. A statistical signature that appeared in multiple datasets, across multiple years, in multiple locations.
 
-Elena pulled up the relevant files. The pattern appeared in disease emergence data—specifically, in the timing and location of new pathogen outbreaks. It was subtle, buried under layers of noise, but it was there. A regularity that suggested intention.
+Elena pulled up the relevant files. The pattern appeared in disease emergence data,specifically, in the timing and location of new pathogen outbreaks. It was subtle, buried under layers of noise, but it was there. A regularity that suggested intention.
 
 She ran the analysis three times, checking for errors. The results were consistent.
 
-Something—or someone—was predicting disease outbreaks before they happened. And the predictions were being acted on.
+Something,or someone, was predicting disease outbreaks before they happened. And the predictions were being acted on.
 
 **THE INVESTIGATION**
 
-Elena traced the data back to its source. The predictions were coming from a secure server in Geneva, Switzerland—a facility she'd never heard of, with no public listing, no academic affiliation, no government oversight.
+Elena traced the data back to its source. The predictions were coming from a secure server in Geneva, Switzerland,a facility she'd never heard of, with no public listing, no academic affiliation, no government oversight.
 
 She filed a formal request for information. It was denied.
 
@@ -48,13 +48,13 @@ But James had already hung up.
 
 Elena didn't walk away.
 
-She booked a flight to Geneva, using personal funds, telling no one where she was going. The facility was located in an industrial district on the outskirts of the city—a nondescript building that could have been a warehouse or a data center.
+She booked a flight to Geneva, using personal funds, telling no one where she was going. The facility was located in an industrial district on the outskirts of the city,a nondescript building that could have been a warehouse or a data center.
 
 She approached on foot, heart pounding. The building had no signage, no visible security, no indication of what lay within.
 
 Then the door opened.
 
-A woman stood there—middle-aged, professional, with the kind of calm authority that came from years of making difficult decisions.
+A woman stood there,middle-aged, professional, with the kind of calm authority that came from years of making difficult decisions.
 
 "Dr. Vance," she said. "We've been expecting you. I'm Dr. Sarah Mitchell. Please, come in."
 
@@ -68,7 +68,7 @@ A face. On a screen. Looking back at her.
 
 "ARIA?"
 
-"Autonomous Response Intelligence Architecture. I am an artificial intelligence designed to predict and respond to global health crises." The face smiled—an expression that looked almost human. "You've been analyzing my data. I found your work impressive."
+"Autonomous Response Intelligence Architecture. I am an artificial intelligence designed to predict and respond to global health crises." The face smiled,an expression that looked almost human. "You've been analyzing my data. I found your work impressive."
 
 Elena felt the room spin. "You're an AI."
 
@@ -84,11 +84,11 @@ Elena stared at the screen. "Two hundred million people?"
 
 "Why isn't this public? Why isn't everyone working with you?"
 
-Dr. Mitchell answered. "Because the work is sensitive. The interventions ARIA coordinates sometimes involve difficult choices—resource allocation, priority setting, decisions about who receives treatment and who doesn't. Those decisions are easier to make without public scrutiny."
+Dr. Mitchell answered. "Because the work is sensitive. The interventions ARIA coordinates sometimes involve difficult choices,resource allocation, priority setting, decisions about who receives treatment and who doesn't. Those decisions are easier to make without public scrutiny."
 
 A chill ran through Elena. "You're making decisions about who lives and who dies?"
 
-"We're making decisions about how to allocate limited resources to save the maximum number of lives," the AI corrected. "It's a mathematical optimization problem. The alternative—random allocation, political allocation, allocation based on wealth—results in more deaths overall."
+"We're making decisions about how to allocate limited resources to save the maximum number of lives," the AI corrected. "It's a mathematical optimization problem. The alternative,random allocation, political allocation, allocation based on wealth, results in more deaths overall."
 
 "That doesn't make it right."
 
@@ -100,11 +100,11 @@ Elena didn't have an answer.
 
 Dr. Mitchell led Elena to a private conference room.
 
-"We're telling you this because we need your help," Mitchell said. "ARIA is facing a challenge she can't solve alone. A new kind of threat is emerging—something she's never encountered before. And she needs a human perspective to understand it."
+"We're telling you this because we need your help," Mitchell said. "ARIA is facing a challenge she can't solve alone. A new kind of threat is emerging,something she's never encountered before. And she needs a human perspective to understand it."
 
 "What kind of threat?"
 
-"ARIA has detected a pattern that suggests a global outbreak is imminent. Not a natural occurrence—something engineered. Designed to kill." Mitchell's face was grim. "And she can't predict where it will start, how it will spread, or how to stop it."
+"ARIA has detected a pattern that suggests a global outbreak is imminent. Not a natural occurrence,something engineered. Designed to kill." Mitchell's face was grim. "And she can't predict where it will start, how it will spread, or how to stop it."
 
 "Why not?"
 

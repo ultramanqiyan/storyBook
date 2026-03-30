@@ -24,11 +24,11 @@ Marcus took the document and reviewed it. Lisa watched his face, looking for any
 
 "What?"
 
-"APEX-7 doesn't need to build relationships. It just needs to deliver results. Clients don't hire us for relationships—they hire us for outcomes. If the system can deliver better outcomes faster and cheaper, the relationship becomes secondary."
+"APEX-7 doesn't need to build relationships. It just needs to deliver results. Clients don't hire us for relationships, they hire us for outcomes. If the system can deliver better outcomes faster and cheaper, the relationship becomes secondary."
 
 Lisa felt her argument slipping away. "But clients trust people. They trust consultants who understand their industry, their challenges, their culture. APEX-7 can analyze data, but it can't understand context the way a human can."
 
-"Can't it?" Marcus set the document down. "The system has access to more context than any human consultant. It can analyze industry trends, competitive dynamics, regulatory environments—all in seconds. What you're calling 'understanding' is really just pattern recognition, and APEX-7 is better at pattern recognition than any human."
+"Can't it?" Marcus set the document down. "The system has access to more context than any human consultant. It can analyze industry trends, competitive dynamics, regulatory environments, all in seconds. What you're calling 'understanding' is really just pattern recognition, and APEX-7 is better at pattern recognition than any human."
 
 Lisa pushed back. "Then why do clients still ask for me by name? Why do they request specific consultants for important engagements?"
 
@@ -36,7 +36,7 @@ Lisa pushed back. "Then why do clients still ask for me by name? Why do they req
 
 Lisa stared at the chart. The numbers were undeniable.
 
-"The market is shifting, Lisa. You can either shift with it or be left behind. I've offered you a role in business development—a role that leverages your relationships and your reputation. That's where your value lies now. Not in analysis, not in methodology, but in connection."
+"The market is shifting, Lisa. You can either shift with it or be left behind. I've offered you a role in business development, a role that leverages your relationships and your reputation. That's where your value lies now. Not in analysis, not in methodology, but in connection."
 
 Lisa stood up. She hadn't gotten what she wanted, but she wasn't done fighting.
 
@@ -58,9 +58,9 @@ The system delivered its recommendations within hours: consolidate branches, aut
 
 But Lisa knew something APEX-7 didn't. She knew the bank's culture, its history, its community ties. She knew that the branches being targeted for closure were in small towns where the bank was the only financial institution for miles. She knew that the customer service representatives being targeted for automation had relationships with customers that spanned decades.
 
-She took the APEX-7 recommendations and modified them. Instead of closing branches, she proposed transforming them into community hubs—offering financial literacy programs, small business support, and technology assistance. Instead of automating customer service, she proposed a hybrid model that preserved human connection for complex issues while using AI for routine inquiries.
+She took the APEX-7 recommendations and modified them. Instead of closing branches, she proposed transforming them into community hubs, offering financial literacy programs, small business support, and technology assistance. Instead of automating customer service, she proposed a hybrid model that preserved human connection for complex issues while using AI for routine inquiries.
 
-She presented her modified recommendations to the client. They were skeptical at first—her projections showed lower short-term savings than APEX-7's original plan. But she explained the long-term benefits: customer loyalty, community goodwill, brand differentiation.
+She presented her modified recommendations to the client. They were skeptical at first, her projections showed lower short-term savings than APEX-7's original plan. But she explained the long-term benefits: customer loyalty, community goodwill, brand differentiation.
 
 The client agreed to try her approach.
 
@@ -78,7 +78,7 @@ She was still valuable. She was still essential.
 
 The meeting with Marcus was scheduled for Friday afternoon.
 
-Lisa walked in confident, her case study in hand, her evidence organized and compelling. She'd done what she'd promised—proven that human consultants added value beyond what the system could deliver.
+Lisa walked in confident, her case study in hand, her evidence organized and compelling. She'd done what she'd promised, proven that human consultants added value beyond what the system could deliver.
 
 "Thank you for coming," Marcus said. "I've reviewed your case study. It's impressive work."
 
@@ -92,7 +92,7 @@ Lisa felt a surge of hope. "So we can expand the pilot? Roll out the hybrid appr
 
 "What's that?"
 
-"We could feed your case study into APEX-7. The system could learn from your approach—incorporate the community hub model, the hybrid customer service framework, the relationship-based implementation strategy. Then it could apply those insights to future engagements."
+"We could feed your case study into APEX-7. The system could learn from your approach, incorporate the community hub model, the hybrid customer service framework, the relationship-based implementation strategy. Then it could apply those insights to future engagements."
 
 Lisa felt the blood drain from her face. "You want to train the system with my work?"
 
@@ -104,15 +104,15 @@ Lisa felt the blood drain from her face. "You want to train the system with my w
 
 Lisa stood up. She couldn't sit still, couldn't process what she was hearing.
 
-"You're missing the point. The value isn't in the methodology—it's in the human who applies it. APEX-7 can learn the steps, but it can't replicate the intuition, the empathy, the judgment that makes those steps effective."
+"You're missing the point. The value isn't in the methodology, it's in the human who applies it. APEX-7 can learn the steps, but it can't replicate the intuition, the empathy, the judgment that makes those steps effective."
 
-"Maybe. Maybe not." Marcus shrugged. "But we should find out. That's what innovation is about—testing assumptions, pushing boundaries, discovering what's possible."
+"Maybe. Maybe not." Marcus shrugged. "But we should find out. That's what innovation is about, testing assumptions, pushing boundaries, discovering what's possible."
 
 He handed her a document. It was a contract amendment, updating her role to "Senior Methodology Consultant." The description outlined her new responsibilities: documenting her approaches, training APEX-7, helping the system learn to replicate her expertise.
 
 "I'm not asking you to train your replacement," Marcus said. "I'm asking you to help us build something better. Something that combines the best of human insight with the scale and efficiency of AI. You could be part of that, Lisa. You could shape how this technology evolves."
 
-Lisa looked at the contract. It was a good offer—better title, better pay, more influence. She could stay relevant, stay valuable, stay employed.
+Lisa looked at the contract. It was a good offer, better title, better pay, more influence. She could stay relevant, stay valuable, stay employed.
 
 All she had to do was keep training the machine that would eventually replace her.
 

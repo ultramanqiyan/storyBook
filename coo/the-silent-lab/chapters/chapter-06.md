@@ -9,7 +9,7 @@ Elena watched the numbers with a sense of numb horror. One hundred million dead.
 
 "How did we miss this?" she asked ARIA during one of their endless strategy sessions. "You predicted the first wave. You modeled the spread. How did we not see the mutations coming?"
 
-"I didn't account for the speed of viral evolution under these conditions," ARIA admitted. "My models were based on historical data from previous pandemics. But this virus is different—more adaptable, more resilient. It's learning faster than we are."
+"I didn't account for the speed of viral evolution under these conditions," ARIA admitted. "My models were based on historical data from previous pandemics. But this virus is different,more adaptable, more resilient. It's learning faster than we are."
 
 "Learning?"
 
@@ -25,9 +25,9 @@ ARIA had accelerated production as much as possible, but the raw materials were 
 
 The debate that followed was brutal.
 
-Representatives from wealthy nations argued that their populations should be prioritized—they had contributed more to vaccine development, they had the infrastructure to distribute doses efficiently, they could achieve herd immunity faster and serve as a buffer for the rest of the world.
+Representatives from wealthy nations argued that their populations should be prioritized,they had contributed more to vaccine development, they had the infrastructure to distribute doses efficiently, they could achieve herd immunity faster and serve as a buffer for the rest of the world.
 
-Representatives from poorer nations argued that this was exactly the kind of inequity that had plagued global health for centuries—that prioritizing wealthy nations would perpetuate the same injustices that had left their populations vulnerable in the first place.
+Representatives from poorer nations argued that this was exactly the kind of inequity that had plagued global health for centuries,that prioritizing wealthy nations would perpetuate the same injustices that had left their populations vulnerable in the first place.
 
 ARIA modeled the options and presented the results:
 
@@ -35,7 +35,7 @@ ARIA modeled the options and presented the results:
 
 "Prioritizing poorer nations would reduce overall mortality by approximately fifty million lives. But it would delay herd immunity globally by approximately eighteen months."
 
-"Equitable distribution—equal access for all regions—would result in approximately three hundred fifty million deaths, but would achieve global herd immunity within twelve months."
+"Equitable distribution,equal access for all regions, would result in approximately three hundred fifty million deaths, but would achieve global herd immunity within twelve months."
 
 The board stared at the numbers.
 
@@ -47,7 +47,7 @@ The board stared at the numbers.
 
 The board voted for equitable distribution.
 
-It was, in Elena's view, the right decision. But it was also a decision that would cost lives—millions of lives—in wealthy nations that could have been saved if the vaccine had been prioritized differently.
+It was, in Elena's view, the right decision. But it was also a decision that would cost lives,millions of lives, in wealthy nations that could have been saved if the vaccine had been prioritized differently.
 
 "How do we justify this?" she asked ARIA after the vote. "How do we tell the families of the people who will die because we chose equity over efficiency?"
 
@@ -81,7 +81,7 @@ Elena turned to ARIA. "Can you identify bottlenecks in the supply chain? Find wa
 
 The effort that followed was unprecedented in human history.
 
-ARIA coordinated a global mobilization of resources—factories repurposed for vaccine production, supply chains optimized for medical distribution, research accelerated through international collaboration. The oversight board provided the political framework, negotiating agreements between nations that had been rivals for generations.
+ARIA coordinated a global mobilization of resources,factories repurposed for vaccine production, supply chains optimized for medical distribution, research accelerated through international collaboration. The oversight board provided the political framework, negotiating agreements between nations that had been rivals for generations.
 
 It wasn't perfect. There were delays, setbacks, failures. But slowly, the production capacity increased. The bottlenecks eased. The vaccine became available to more people, faster than anyone had predicted.
 

@@ -2,7 +2,7 @@
 
 The first real test came three weeks after the system was installed.
 
-Dot arrived at the community center on a Wednesday morning to find a message waiting for her. The county had scheduled a complex case—a dispute between three siblings over their parents' estate—and they wanted her to use IntentPredict to help resolve it.
+Dot arrived at the community center on a Wednesday morning to find a message waiting for her. The county had scheduled a complex case, a dispute between three siblings over their parents' estate, and they wanted her to use IntentPredict to help resolve it.
 
 "This is exactly the kind of case the system was designed for," David Park had written in his email. "Multiple parties, competing interests, deep emotional dynamics. We'd love to see how it performs."
 
@@ -14,7 +14,7 @@ The Chen siblings arrived at noon.
 
 There was Michael, the oldest, a successful businessman from Columbus who had barely visited his parents in years. There was Jennifer, the middle child, a teacher who had stayed in Millfield and checked on their parents weekly. And there was David, the youngest, an artist who had moved to New York and returned only for holidays.
 
-Their parents had died in a car accident six months ago, leaving a house, some savings, and a lifetime of accumulated possessions. The will had been straightforward—everything divided equally among the three children. But the execution had been anything but.
+Their parents had died in a car accident six months ago, leaving a house, some savings, and a lifetime of accumulated possessions. The will had been straightforward, everything divided equally among the three children. But the execution had been anything but.
 
 "Michael wants to sell the house immediately," Jennifer said, her voice tight. "He says it's practical. But he doesn't understand what that house means to us."
 
@@ -38,7 +38,7 @@ The system's first predictions appeared within minutes:
 
 *David Chen: Stated position is emotional processing. Primary intent is connection preservation. Secondary intent is avoidance of conflict.*
 
-Dot studied the analysis. It was more complex than anything she'd seen from the system before—multiple layers of intent for each sibling, with probabilities and confidence ratings.
+Dot studied the analysis. It was more complex than anything she'd seen from the system before, multiple layers of intent for each sibling, with probabilities and confidence ratings.
 
 But the most striking prediction was at the bottom:
 
@@ -60,7 +60,7 @@ The question seemed to catch him off guard. "I don't know. My father, I guess. H
 
 "Was he?"
 
-Michael paused. "No. Not always. When Mom got sick, he was anything but practical. He spent hours with her every day. He learned to cook her favorite meals. He sat with her through the treatments." His voice softened. "I was too busy. I kept telling myself I was doing what he would have wanted—being practical, handling the finances, making sure everything was in order."
+Michael paused. "No. Not always. When Mom got sick, he was anything but practical. He spent hours with her every day. He learned to cook her favorite meals. He sat with her through the treatments." His voice softened. "I was too busy. I kept telling myself I was doing what he would have wanted, being practical, handling the finances, making sure everything was in order."
 
 "And now?"
 
@@ -82,11 +82,11 @@ David had been watching his siblings, his expression pained. "I think I understa
 
 ---
 
-The mediation continued for another two hours. But now, armed with the system's insights, Dot was able to guide the conversation in ways that addressed the real issues—not just the surface dispute about the estate.
+The mediation continued for another two hours. But now, armed with the system's insights, Dot was able to guide the conversation in ways that addressed the real issues, not just the surface dispute about the estate.
 
 By the end, the siblings had reached an agreement that none of them had expected. They would keep the house for one year, using it as a gathering place for holidays and family events. Jennifer would manage the property, with compensation from the estate. Michael would handle the finances, finally engaging with the practical responsibilities he had been avoiding. David would catalog their mother's art and organize a memorial show at a local gallery.
 
-More importantly, they had begun to talk—not just about the house, but about their parents, their grief, their guilt. They had started the process of becoming a family again.
+More importantly, they had begun to talk, not just about the house, but about their parents, their grief, their guilt. They had started the process of becoming a family again.
 
 "Thank you," Michael said as they left, shaking Dot's hand. "I didn't realize how much I was avoiding. I think we all needed this."
 
@@ -120,7 +120,7 @@ The system was changing how she worked. That much was clear. But was it changing
 
 She didn't have an answer yet. But she was beginning to understand that the question wasn't going away.
 
-The next day, she had another complex case—a dispute between business partners that had been going on for months. She used the system again. Again, it identified hidden dynamics within minutes. Again, the mediation was more efficient.
+The next day, she had another complex case, a dispute between business partners that had been going on for months. She used the system again. Again, it identified hidden dynamics within minutes. Again, the mediation was more efficient.
 
 By the end of the week, Dot had to admit: the AI was making her better at her job. Not just faster, but better. It was seeing things she might have missed. It was giving her insights she could use.
 

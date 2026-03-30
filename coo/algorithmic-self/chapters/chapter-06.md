@@ -2,13 +2,13 @@
 
 Maggie sat in her home office, the DivorcePredict data on her screen. She'd been approaching this like a lawyer defending a client. But she wasn't a client. She was the subject. And maybe, just maybe, she'd been lying to herself.
 
-The conversation with Tom had cracked something open. Not a dramatic break—just a small fissure in the wall she'd built around the truth. She'd been so focused on proving the AI wrong that she hadn't stopped to consider whether it might be right.
+The conversation with Tom had cracked something open. Not a dramatic break, just a small fissure in the wall she'd built around the truth. She'd been so focused on proving the AI wrong that she hadn't stopped to consider whether it might be right.
 
 She opened the raw data again, but this time she didn't look for flaws. She looked for patterns.
 
 The communication timeline was the most damning. Two years of declining interaction, captured in precise increments. She scrolled through the records, seeing her life reduced to data points: phone calls that had grown shorter, texts that had become perfunctory, evenings that had passed in parallel silence.
 
-But it was the emotional language analysis that made her pause. The AI had tracked not just the frequency of her communications, but their content—or at least, the patterns within that content. Words like "love," "feel," "hope," "wish"—these had declined steadily, replaced by functional language: "need," "should," "will," "okay."
+But it was the emotional language analysis that made her pause. The AI had tracked not just the frequency of her communications, but their content, or at least, the patterns within that content. Words like "love," "feel," "hope," "wish", these had declined steadily, replaced by functional language: "need," "should," "will," "okay."
 
 She thought about her texts with Tom over the past week. *Running late. Don't wait up.* *Need anything from the store?* *Okay, see you at 7.* Functional. Efficient. Empty.
 
@@ -22,7 +22,7 @@ The next morning, she returned to the lab. Dr. Chen met her in the same small ro
 
 "I'd like to see the intervention protocols," she said. "If the system can identify patterns, can it also suggest ways to change them?"
 
-Chen nodded slowly. "That's one of the applications we're researching. The system can identify intervention points—behaviors that, if modified, would have the greatest impact on the predicted outcome."
+Chen nodded slowly. "That's one of the applications we're researching. The system can identify intervention points, behaviors that, if modified, would have the greatest impact on the predicted outcome."
 
 "Show me."
 
@@ -55,7 +55,7 @@ Maggie thought about Tom, about the resignation she'd seen in his eyes when he s
 
 "Can the system predict whether someone will change?" she asked.
 
-Chen hesitated. "That's a more complex question. The system can identify patterns of behavior change in individuals—whether someone has a history of following through on intentions, for example. But predicting whether a specific person will change in a specific situation... that's harder. People aren't always consistent."
+Chen hesitated. "That's a more complex question. The system can identify patterns of behavior change in individuals, whether someone has a history of following through on intentions, for example. But predicting whether a specific person will change in a specific situation... that's harder. People aren't always consistent."
 
 "Can you run that analysis? On me?"
 
@@ -67,7 +67,7 @@ Maggie thought about the question. Did she want to know whether she was capable 
 
 ---
 
-The analysis took several hours. Maggie sat in the lab, watching the system process her data—every decision she'd made, every commitment she'd kept or broken, every pattern of behavior she'd maintained or abandoned over the past two years.
+The analysis took several hours. Maggie sat in the lab, watching the system process her data, every decision she'd made, every commitment she'd kept or broken, every pattern of behavior she'd maintained or abandoned over the past two years.
 
 When the results appeared, she wasn't surprised.
 
@@ -77,7 +77,7 @@ When the results appeared, she wasn't surprised.
 **Intervention Adherence Prediction: 34%**
 *Based on historical patterns, subject is likely to begin intervention protocols but unlikely to maintain them beyond 6-8 weeks. Primary barriers: work demands, emotional avoidance, resistance to vulnerability.*
 
-Maggie stared at the numbers. The system was telling her that she probably wouldn't change—that the patterns that had led her marriage to this point were too deeply ingrained, too consistent, too much a part of who she was.
+Maggie stared at the numbers. The system was telling her that she probably wouldn't change, that the patterns that had led her marriage to this point were too deeply ingrained, too consistent, too much a part of who she was.
 
 "That's not a verdict," Chen said quietly. "It's a prediction based on past behavior. People can change. They do it all the time."
 
@@ -96,9 +96,9 @@ That was the thing about self-knowledge, she was learning. You could have all th
 
 She thought about Tom, about the years they'd spent building a life together, about the distance that had grown so slowly she hadn't noticed. The AI had captured the decline. But it hadn't captured the love that had once been there, the memories they shared, the history that bound them together.
 
-Or maybe it had. Maybe those things were in the data too, buried under the patterns of withdrawal and avoidance. Maybe the 78% divorce probability wasn't a verdict, but a warning—a sign that the marriage was in danger, not that it was doomed.
+Or maybe it had. Maybe those things were in the data too, buried under the patterns of withdrawal and avoidance. Maybe the 78% divorce probability wasn't a verdict, but a warning, a sign that the marriage was in danger, not that it was doomed.
 
-She pulled into the driveway and sat in the car for a long moment. The house looked the same as it always had—warm light in the windows, Tom's car in the garage, the life they'd built together. But she was seeing it differently now. Not as a given, but as something fragile. Something that needed tending.
+She pulled into the driveway and sat in the car for a long moment. The house looked the same as it always had, warm light in the windows, Tom's car in the garage, the life they'd built together. But she was seeing it differently now. Not as a given, but as something fragile. Something that needed tending.
 
 She got out of the car and walked to the door. Inside, she could hear Tom moving around, the familiar sounds of evening. For eighteen years, she'd come home to this. For eighteen years, she'd taken it for granted.
 

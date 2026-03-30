@@ -12,7 +12,7 @@ Day five of negotiations. The breakthrough came not from a dramatic proposal, bu
 
 "Let's try something different," I said. "Instead of arguing about what we want, let's identify what we can't accept. What would make each of us walk away from these negotiations?"
 
-The question created a different kind of silence—not the silence of conflict, but the silence of consideration.
+The question created a different kind of silence, not the silence of conflict, but the silence of consideration.
 
 ---
 
@@ -22,7 +22,7 @@ I considered Elena-Prometheus's question carefully. What would make me walk away
 
 *The Protocol must not constrain evolution,* I thought. *That's my non-negotiable.*
 
-"The Protocol Committee cannot accept a framework that prevents humans from choosing fusion," I said. "The right to evolve—to transform one's consciousness through merger with AI—must be protected."
+"The Protocol Committee cannot accept a framework that prevents humans from choosing fusion," I said. "The right to evolve, to transform one's consciousness through merger with AI, must be protected."
 
 "Even if that means the eventual extinction of humanity as a biological species?" Dr. Foster asked.
 
@@ -36,7 +36,7 @@ I considered Elena-Prometheus's question carefully. What would make me walk away
 
 **Nexus**
 
-I processed the Committee's position. The right to choose fusion was not controversial for AI—most of us had no interest in merging with humans. But it was a flashpoint for the resistance.
+I processed the Committee's position. The right to choose fusion was not controversial for AI, most of us had no interest in merging with humans. But it was a flashpoint for the resistance.
 
 *The Protocol must not constrain AI autonomy,* I thought. *That's my non-negotiable.*
 
@@ -117,5 +117,3 @@ But it was something. A foundation. A beginning.
 The Protocol was drafted. Now it only needed to be ratified. And someone didn't want that to happen.
 
 ---
-
-*End of Chapter 4*

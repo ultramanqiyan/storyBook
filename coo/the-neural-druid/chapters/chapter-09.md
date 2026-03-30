@@ -30,8 +30,6 @@ Elara closed her eyes, feeling the forest around her, the ancient trees that had
 
 "We do what the druids did," she said. "We protect what needs protecting. We become the forest's voice. And we show Strand that some things cannot be owned."
 
----
-
 Victor Strand stood at the edge of the meadow, watching the impossible scene before him. The forest had changed since his last visit. The trees were taller, their leaves shimmering with colors that seemed to shift in the light. The grass glowed faintly, as if it contained its own source of illumination. And the air itself felt different, charged with energy that made his equipment spark and malfunction.
 
 "Sir, our sensors are detecting massive bioelectrical activity," one of his technicians reported. "It is coming from everywhere at once. The trees, the soil, even the air. I have never seen anything like it."
@@ -77,8 +75,6 @@ For a long moment, Strand hesitated. He could feel the Green pressing against hi
 Then his phone buzzed. A message from his investors, demanding results. The doubt vanished, replaced by the cold certainty that had driven him his whole life.
 
 "Take her," he ordered. "And burn the rest."
-
----
 
 The battle that followed was not like any battle Strand had ever fought.
 

@@ -14,7 +14,7 @@ He was no longer anything.
 
 He packed his office on a Tuesday.
 
-Thirty years of accumulated objects—books, catalogs, photographs, awards—fit into four boxes. He worked methodically, without emotion, as if he were packing someone else's life.
+Thirty years of accumulated objects, books, catalogs, photographs, awards, fit into four boxes. He worked methodically, without emotion, as if he were packing someone else's life.
 
 Priya appeared in the doorway.
 
@@ -24,7 +24,7 @@ Priya appeared in the doorway.
 
 "I didn't want to be right."
 
-He looked at her—really looked—for the first time in weeks. She seemed tired. Older than her years.
+He looked at her, really looked, for the first time in weeks. She seemed tired. Older than her years.
 
 "What will you do now?" he asked.
 
@@ -32,7 +32,7 @@ He looked at her—really looked—for the first time in weeks. She seemed tired
 
 "And Jimmy?"
 
-"His career is over. Or maybe just beginning—it depends on who you ask. Some people are calling him a whistleblower. Others are calling him a fraud." She paused. "He's giving interviews. Talking about 'the industry's hypocrisy.' He's become a symbol."
+"His career is over. Or maybe just beginning, it depends on who you ask. Some people are calling him a whistleblower. Others are calling him a fraud." She paused. "He's giving interviews. Talking about 'the industry's hypocrisy.' He's become a symbol."
 
 "Of what?"
 
@@ -44,14 +44,14 @@ Marcus had no response.
 
 He left the museum through a side entrance.
 
-No reporters this time—they'd moved on to fresher scandals. The lobby was quiet. The guards nodded politely. Life continued.
+No reporters this time, they'd moved on to fresher scandals. The lobby was quiet. The guards nodded politely. Life continued.
 
 Outside, the city was gray and cold. Marcus walked toward the subway, his boxes heavy in his arms, and tried not to think about the thirty years he was leaving behind.
 
 
 The interview request came three days later.
 
-It was from Elena—her podcast, *Real or Not Real.* She wanted to talk. On the record. About everything.
+It was from Elena, her podcast, *Real or Not Real.* She wanted to talk. On the record. About everything.
 
 He almost declined. What was left to say?
 
@@ -81,7 +81,7 @@ The studio was small, intimate. A table with two microphones, a sound engineer i
 
 Marcus was quiet for a long moment. The silence stretched.
 
-"I suspected," he said finally. "I didn't have proof. But I saw things—digital traces, inconsistencies—that should have made me investigate further. I chose not to."
+"I suspected," he said finally. "I didn't have proof. But I saw things, digital traces, inconsistencies, that should have made me investigate further. I chose not to."
 
 "Why?"
 
@@ -89,7 +89,7 @@ Marcus was quiet for a long moment. The silence stretched.
 
 "And does it? Mean something?"
 
-"I don't know anymore. I've spent thirty years telling people I could see something—a quality, a trace, a human signature—that might not exist. I've built my entire identity on an ability that I can't prove I have."
+"I don't know anymore. I've spent thirty years telling people I could see something, a quality, a trace, a human signature, that might not exist. I've built my entire identity on an ability that I can't prove I have."
 
 "That's a remarkable admission."
 
@@ -98,11 +98,11 @@ Marcus was quiet for a long moment. The silence stretched.
 
 The interview continued for two hours.
 
-Marcus spoke about the blind test. About the verification lab. About the growing certainty that had been building inside him for months—the certainty that the distinction he'd built his career on was a fiction.
+Marcus spoke about the blind test. About the verification lab. About the growing certainty that had been building inside him for months, the certainty that the distinction he'd built his career on was a fiction.
 
 "Can art have meaning without human intention?" Elena asked.
 
-"I used to say no. Now... I don't know. If a piece moves you, makes you think, makes you feel—does it matter how it was made?"
+"I used to say no. Now... I don't know. If a piece moves you, makes you think, makes you feel, does it matter how it was made?"
 
 "That's a different answer than you would have given a year ago."
 
@@ -134,7 +134,7 @@ Marcus considered the question. What would he do? He was fifty-two years old. Hi
 
 The interview aired that night.
 
-Within hours, it was everywhere. Clips circulated on social media. Think pieces appeared. The conversation shifted—from scandal to something deeper.
+Within hours, it was everywhere. Clips circulated on social media. Think pieces appeared. The conversation shifted, from scandal to something deeper.
 
 *Marcus Webb, the man who claimed to see souls, admits he might have been seeing ghosts all along.*
 
@@ -147,7 +147,7 @@ He only knew that for the first time in months, he could breathe.
 
 He sat in his apartment that night, reading the responses.
 
-Some were sympathetic. Some were cruel. Most were confused—unsure whether to condemn him or pity him.
+Some were sympathetic. Some were cruel. Most were confused, unsure whether to condemn him or pity him.
 
 His phone buzzed. The unknown number:
 

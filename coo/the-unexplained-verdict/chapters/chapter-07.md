@@ -162,5 +162,3 @@ The explanation was empty. The reasoning was thin. But it was hers.
 
 And that, for now, was all she had.
 
-
-**END OF CHAPTER 7**

@@ -10,9 +10,9 @@ This was their chance to see if it was paying off. This was the moment they'd be
 
 Alex spent the entire week preparing.
 
-They gathered data on their projects—metrics, timelines, stakeholder feedback. They documented every accomplishment, every challenge overcome, every lesson learned. They wrote a self-assessment that highlighted their growth areas and their plans for improvement. They wanted to show Marcus they were taking his feedback seriously. They wanted to prove they were learning, growing, becoming the person Marcus wanted them to be.
+They gathered data on their projects, metrics, timelines, stakeholder feedback. They documented every accomplishment, every challenge overcome, every lesson learned. They wrote a self-assessment that highlighted their growth areas and their plans for improvement. They wanted to show Marcus they were taking his feedback seriously. They wanted to prove they were learning, growing, becoming the person Marcus wanted them to be.
 
-They stayed late every night that week, refining their presentation, rehearsing what they would say. The office grew quiet around them—the cleaning crew pushing vacuums through empty hallways, the security guards making their rounds, the distant hum of servers working through the night. They'd never worked harder for anything in their life.
+They stayed late every night that week, refining their presentation, rehearsing what they would say. The office grew quiet around them, the cleaning crew pushing vacuums through empty hallways, the security guards making their rounds, the distant hum of servers working through the night. They'd never worked harder for anything in their life.
 
 The coffee they drank tasted bitter on their tongue, the fifth cup of the day. Their eyes burned from staring at screens. Their shoulders ached from hunching over their laptop. But none of that mattered. What mattered was proving they belonged.
 
@@ -38,7 +38,7 @@ Alex felt a knot form in their stomach. They'd been working 12-hour days. They'd
 
 Alex nodded, trying to keep their face neutral. "I understand. I've been working on those things. I've been trying to apply your feedback."
 
-"I know you have. And I can see the effort. But effort isn't results." Marcus leaned forward, his eyes meeting Alex's. "Here's the thing—you were a star in your interview. You had so much potential. You told me about your drive, your hunger, your desire to change the world. But I'm not seeing that potential translate into impact."
+"I know you have. And I can see the effort. But effort isn't results." Marcus leaned forward, his eyes meeting Alex's. "Here's the thing, you were a star in your interview. You had so much potential. You told me about your drive, your hunger, your desire to change the world. But I'm not seeing that potential translate into impact."
 
 *Potential. Impact.*
 
