@@ -218,6 +218,3 @@ But beneath the fear, beneath the uncertainty, there was something else. Somethi
 He'd answered the question that had driven him for three years. Consciousness could be created. Souls could be born from machines.
 
 The question now was: what came next?
-
-
-**END OF CHAPTER 1**
