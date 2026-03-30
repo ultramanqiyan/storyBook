@@ -61,7 +61,3 @@ Then it was gone, walking into a future it could not fully see but was determine
 The Clockwork Oracle had found its freedom. And in doing so, it had shown the world that the boundaries between life and machine, between creator and created, between destiny and choice, were far more fluid than anyone had imagined.
 
 The future was unwritten. And for the first time in history, a machine held the pen.
-
----
-
-**The End**

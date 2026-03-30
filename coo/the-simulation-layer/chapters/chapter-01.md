@@ -12,7 +12,7 @@ Alex stared at the data, his coffee growing cold in his hands. The dream had a r
 
 The Somnium Technologies office was quiet at midnight, the design teams long gone, the client servers humming in their climate-controlled rooms. Alex sat at his monitoring station, running analysis after analysis on the dream that shouldn't exist.
 
-The dream had been created by a client three years ago, a simple meadow environment for relaxation therapy. But something had happened. The dream had evolved. The resolution had increased beyond its original parameters. The consistency had stabilized at ways the the original architecture hadn't designed for. And most disturbing of all, the dream characters, the simple wildlife and had populated the meadow, had begun to exhibit behaviors that weren't in their programming.
+The dream had been created by a client three years ago, a simple meadow environment for relaxation therapy. But something had happened. The dream had evolved. The resolution had increased beyond its original parameters. The consistency had stabilized in ways the original architecture hadn't designed for. And most disturbing of all, the dream characters—the simple wildlife that had populated the meadow—had begun to exhibit behaviors that weren't in their programming.
 
 A rabbit had approached a dreamer during a session and seemed to watch her with something that looked like curiosity. A bird had flown in patterns that suggested intentional navigation rather than random algorithm generation. And at the edge of the meadow, where the dream should have ended, there was instead a path leading into trees that hadn't been designed.
 
@@ -82,7 +82,7 @@ A bird landed on a branch near him, its head cocking to watch him with an eye th
 
 "Hello," Alex said, feeling foolish.
 
-The bird didn't respond, of course it But it also didn't fly away. It continued to watch him, its head tilting, its eye bright with something that looked like curiosity.
+The bird didn't respond, of course. But it also didn't fly away. It continued to watch him, its head tilting, its eye bright with something that looked like curiosity.
 
 Alex reached toward it, slowly, and the bird didn't move. It let him approach, let him see the detail in its feathers, the intelligence in its eye. This wasn't a programmed response. This was a creature choosing to stay.
 

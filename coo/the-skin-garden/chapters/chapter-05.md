@@ -11,7 +11,7 @@ The choice came sooner than expected.
 
 Three days after the conversation with Sarah, Unit-7 was summoned to Director Chen's office again. But this time, Director Chen was not alone.
 
-A woman stood by the window. She was older than Sarah. Her hair was gray. Her face was lined. But her eyes鈥攈er eyes were Sarah's eyes.
+A woman stood by the window. She was older than Sarah. Her hair was gray. Her face was lined. But her eyes—her eyes were Sarah's eyes.
 
 "Unit-7." Director Chen's voice was tight. "This is my wife. Sarah's mother."
 
@@ -29,13 +29,13 @@ The woman walked to Director Chen's desk. She placed her hands on the wood surfa
 
 "I want her out."
 
-"Margaret鈥?
+"Margaret—"
 
-"I want her out, Wei." The woman's voice was not quiet now. "She's been there for eleven months. Forty-seven procedures. I can't鈥擨 can't watch her do this anymore."
+"I want her out, Wei." The woman's voice was not quiet now. "She's been there for eleven months. Forty-seven procedures. I can't—I can't watch her do this anymore."
 
 "She volunteered, Margaret."
 
-"She's our daughter." The woman's voice cracked. "She's punishing herself for something she didn't do. She's suffering for sins that aren't hers. And I cannot鈥擨 will not鈥攚atch her destroy herself for a system that should never have existed."
+"She's our daughter." The woman's voice cracked. "She's punishing herself for something she didn't do. She's suffering for sins that aren't hers. And I cannot—I will not—watch her destroy herself for a system that should never have existed."
 
 Director Chen stood. He walked to his wife. He placed his hand on her shoulder. She did not look at him.
 
@@ -63,7 +63,7 @@ Director Chen's face was pale. His wife's face was wet. The office was silent ex
 
 "I'm asking you to help my daughter escape." The woman's voice was steady now. "I'm asking you to help her leave this place. I'm asking you to help her get to the outside, where she can expose what happens here."
 
-"Margaret鈥? Director Chen started.
+"Margaret—" Director Chen started.
 
 "Wei, if you won't do it, I will. I've stood by for twenty-eight years. I've watched our family build this system. I've watched our daughter destroy herself trying to atone for it. I will not stand by anymore."
 

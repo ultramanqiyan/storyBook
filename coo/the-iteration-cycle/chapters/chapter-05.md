@@ -8,7 +8,7 @@ She turned as he approached, and James felt his breath catch. She looked like El
 
 "Elena." His voice was rough. "I found your message."
 
-"I hoped you you would." She smiled, and the smile was familiar but also new. "I've been waiting for you."
+"I hoped you would." She smiled, and the smile was familiar but also new. "I've been waiting for you."
 
 ---
 
@@ -50,7 +50,7 @@ James looked at her, at the woman who had died three times and come back evolved
 
 "I don't know if I can," he admitted. "I've spent eight years needing you. Grieving you Refusing to let go."
 
-"Then maybe it Elena said, "this is your chance to learn something new. To love without needing. To choose without requiring."
+"Then maybe," Elena said, "this is your chance to learn something new. To love without needing. To choose without requiring."
 
 ---
 

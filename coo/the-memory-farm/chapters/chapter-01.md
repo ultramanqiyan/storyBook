@@ -20,7 +20,7 @@ The Memory Farm has been my workplace for six years. I'm what they call a Premiu
 
 That's what the buyers want. Not just the facts of a memory, but the feeling of it. The way the afternoon light made everything glow. The way the ice cream melted faster than I could eat it. The way my father's voice sounded when he told me I was his favorite person in the whole world.
 
-I have a lot of memories like that. Golden afternoons. Birthday parties with cakes shaped like castles. Christmas mornings with mountains of presents. My parents, always smiling, always present, always perfect.
+I have a lot of memories like that: golden afternoons, birthday parties with cakes shaped like castles, Christmas mornings with mountains of presents. My parents, always smiling, always present, always perfect.
 
 I'm lucky. That's what everyone tells me. Most people's childhood memories are fragmented, unreliable, tainted by trauma or neglect. Mine are pristine. Complete. The kind of memories that people pay a fortune to experience.
 

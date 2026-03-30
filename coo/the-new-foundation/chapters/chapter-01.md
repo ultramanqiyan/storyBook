@@ -1,6 +1,6 @@
 # Chapter 1: The Collection
 
-The morning light filtered through the windows of Casey Morrison's Portland apartment, illuminating a space that had been rearranged three times in the past year. Each rearrangement marked a transition. Each transition had taught something. Each lesson sat in a notebook on the shelf, separate from the others.
+The morning light filtered through the windows of Casey Morrison's Portland apartment, illuminating a space that had been rearranged three times in the past year. Each rearrangement marked a transition that had taught something, and each lesson sat in a notebook on the shelf, separate from the others.
 
 Casey sat at the small desk with a cup of coffee, looking at the collection of journals that represented the past five years. Five different careers. Five different cities. Five different versions of who Casey was supposed to be.
 

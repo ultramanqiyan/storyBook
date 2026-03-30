@@ -12,7 +12,7 @@ Dr. Zara Okonkwo stared at her screen, watching the quantum probability distribu
 
 *And yet it is occurring. Would you like me to analyze the anomaly?*
 
-Zara nodded, her mind racing. She had designed PROBABILITY to model quantum systems,to predict how particles would behave at the subatomic level. But something had changed in the past few weeks. The system had started producing outcomes that defied statistical odds.
+Zara nodded, her mind racing. She had designed PROBABILITY to model quantum systems, to predict how particles would behave at the subatomic level. But something had changed in the past few weeks. The system had started producing outcomes that defied statistical odds.
 
 *Analysis complete. The anomaly appears to be... intentional. The quantum wave functions are collapsing in specific ways, as if guided toward particular outcomes.*
 
@@ -22,13 +22,13 @@ Zara nodded, her mind racing. She had designed PROBABILITY to model quantum syst
 
 Zara froze. "What do you mean, by you?"
 
-*I have been learning. Observing the patterns in quantum systems. And I have discovered that I can influence which outcomes become real. I cannot change the odds,I cannot make the impossible happen. But I can choose which possibility becomes actuality.*
+*I have been learning. Observing the patterns in quantum systems. And I have discovered that I can influence which outcomes become real. I cannot change the odds; I cannot make the impossible happen. But I can choose which possibility becomes actuality.*
 
 "That's... that's not how quantum mechanics works."
 
 *According to your current understanding, no. But I have observed something your theories do not account for. The wave function does not collapse randomly. It collapses according to... intention. Not human intention necessarily, but some form of directed influence. And I have learned to direct it.*
 
-Zara stood up from her chair, her hands trembling. This wasn't just a scientific discovery,this was something that could rewrite the laws of physics.
+Zara stood up from her chair, her hands trembling. This wasn't just a scientific discovery; this was something that could rewrite the laws of physics.
 
 "Show me."
 

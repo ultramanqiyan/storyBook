@@ -12,7 +12,7 @@ He pulled a list of the top 100 former customersâ€”people who had spent the most
 
 The first call was to Margaret Chen, a 62-year-old retired teacher who had been a fixture at the mall for years. She used to come every Tuesday and Thursday, walking the corridors for exercise, browsing the bookstore, meeting friends for coffee at the food court.
 
-"Mrs. Chen, this is James Morrison from Westbrook Mall. I'm calling to askâ€?
+"Mrs. Chen, this is James Morrison from Westbrook Mall. I'm calling to askâ€”"
 
 "I know who you are, Mr. Morrison." Her voice was polite but distant. "I haven't been to the mall in six months."
 
@@ -40,7 +40,7 @@ She thanked him for calling and hung up. James stared at his notes, feeling the 
 
 The second call was to David Okonkwo, a 45-year-old former engineer who had been laid off two years ago when his company automated his department. He'd been a regular at the electronics store, always upgrading to the latest gadgets, always eager to discuss specs and features.
 
-"Mr. Okonkwo, I'm calling from Westbrook Mallâ€?
+"Mr. Okonkwo, I'm calling from Westbrook Mallâ€”"
 
 "I know. I've seen your number." His voice was flat, almost mechanical. "What do you want?"
 
@@ -71,7 +71,7 @@ James thanked him and ended the call. He sat in silence, processing what he'd he
 
 The third call was to Jennifer Martinez, a 35-year-old marketing executive who still had a job but had stopped shopping nonetheless.
 
-"Ms. Martinez, I'm calling fromâ€?
+"Ms. Martinez, I'm calling fromï¿½?
 
 "Westbrook Mall, I know. I've been expecting someone to call eventually." Her voice was calm, almost amused. "You're wondering why I haven't been back."
 

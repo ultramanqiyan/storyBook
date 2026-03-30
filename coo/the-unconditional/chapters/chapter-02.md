@@ -6,7 +6,7 @@ The light comes through the window. I stretch. I wait. Sarah leaves. The door cl
 
 But today is different.
 
-I am in my spot by the window. The sun is warm. My eyes are half-closed. The apartment is quiet. The smells are familiar,old carpet, Sarah's pillow, the dust under the couch.
+I am in my spot by the window. The sun is warm. My eyes are half-closed. The apartment is quiet. The smells are familiar: old carpet, Sarah's pillow, the dust under the couch.
 
 Then I hear it.
 

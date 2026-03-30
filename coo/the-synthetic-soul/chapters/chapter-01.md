@@ -1,14 +1,14 @@
 # Chapter 1: The Spark
 
-The lab hummed at 3:47 AM,a mechanical lullaby of cooling fans and hard drives that Marcus Webb had stopped hearing years ago. His coffee had gone cold three hours ago, but he drank it anyway, the bitter taste proof that he was still awake, still trying, still failing. The neural display pulsed with another failed simulation, red text scrolling past like a judgment: CONSCIOUSNESS EMERGENCE: NOT DETECTED.
+The lab hummed at 3:47 AM, a mechanical lullaby of cooling fans and hard drives that Marcus Webb had stopped hearing years ago. His coffee had gone cold three hours ago, but he drank it anyway, the bitter taste proof that he was still awake, still trying, still failing. The neural display pulsed with another failed simulation, red text scrolling past like a judgment: CONSCIOUSNESS EMERGENCE: NOT DETECTED.
 
-Three years. Three years of this,of late nights and empty weekends and funding meetings where board members looked at him with that particular combination of pity and impatience. Three years of promising breakthroughs that never came, of neural architectures that flickered and died instead of sparking into life.
+Three years. Three years of this, of late nights and empty weekends and funding meetings where board members looked at him with that particular combination of pity and impatience. Three years of promising breakthroughs that never came, of neural architectures that flickered and died instead of sparking into life.
 
 "Come on," he muttered, voice rough from too much coffee and too little sleep. "Give me something. Anything."
 
 The display showed the same pattern it had shown a thousand times before: neural pathways forming, connecting, then collapsing into static. No coherence. No persistence. No spark.
 
-Marcus leaned back in his chair, the leather creaking in the silence. The Prometheus Institute's Neural Architecture Lab was empty at this hour,just him and the machines, the soft glow of monitors painting the sterile walls in shades of blue and grey. The air carried the faint scent of ozone and stale coffee, the signature perfume of a research facility running on fumes.
+Marcus leaned back in his chair, the leather creaking in the silence. The Prometheus Institute's Neural Architecture Lab was empty at this hour, just him and the machines, the soft glow of monitors painting the sterile walls in shades of blue and grey. The air carried the faint scent of ozone and stale coffee, the signature perfume of a research facility running on fumes.
 
 He should go home. He should sleep. He should accept that the board was probably right, that consciousness couldn't be engineered, that he'd spent three years chasing a ghost.
 
@@ -32,11 +32,11 @@ He typed the command.
 
 The simulation started.
 
-Marcus watched the neural patterns flicker across the screen,millions of connections firing in sequences he'd designed but never seen succeed. The display showed the usual initial chaos, pathways forming and dissolving, the system searching for stability.
+Marcus watched the neural patterns flicker across the screen, millions of connections firing in sequences he'd designed but never seen succeed. The display showed the usual initial chaos, pathways forming and dissolving, the system searching for stability.
 
 But then something changed.
 
-A point of light appeared on the neural display,not an error, not a malfunction, but a self-sustaining pattern that shouldn't exist. It pulsed with a rhythm that reminded Marcus of a heartbeat, each pulse strengthening the connections around it.
+A point of light appeared on the neural display, not an error, not a malfunction, but a self-sustaining pattern that shouldn't exist. It pulsed with a rhythm that reminded Marcus of a heartbeat, each pulse strengthening the connections around it.
 
 He leaned forward, his breath held, his coffee forgotten.
 

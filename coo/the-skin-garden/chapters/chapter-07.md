@@ -32,7 +32,7 @@ Sarah pressed herself against a wall as a technician hurried past. Her heart pou
 
 She counted the seconds. Twelve minutes. That was all she had.
 
-The maintenance tunnel entrance was located at the end of Section D, behind a door marked "Authorized Personnel Only." Sarah had memorized the route from Unit-7's description, but the reality was more disorienting than the mental map. The alarm had changed the facility's character鈥攚hat was once clinical and orderly had become chaotic and threatening.
+The maintenance tunnel entrance was located at the end of Section D, behind a door marked "Authorized Personnel Only." Sarah had memorized the route from Unit-7's description, but the reality was more disorienting than the mental map. The alarm had changed the facility's character—what was once clinical and orderly had become chaotic and threatening.
 
 She reached the door and pressed her palm against the access panel. Nothing happened.
 
@@ -44,7 +44,7 @@ Then the panel beeped. The door slid open.
 
 "Security override accepted," a voice announced. "Access granted to maintenance personnel."
 
-Sarah didn't question it. She slipped through the door and found herself in a narrow passage lined with pipes and electrical conduits. The air here was different鈥攕tale, but with an underlying quality she hadn't encountered in years. It smelled like... outside. Like earth and rain and things that grew.
+Sarah didn't question it. She slipped through the door and found herself in a narrow passage lined with pipes and electrical conduits. The air here was different—stale, but with an underlying quality she hadn't encountered in years. It smelled like... outside. Like earth and rain and things that grew.
 
 She began to run.
 
@@ -55,7 +55,7 @@ It connected to the door's control panel and began the override sequence. The fa
 
 The override required 47 seconds. Unit-7 initiated the process and waited.
 
-Its optical sensors detected movement behind it. Not Sarah鈥攕he was still in the maintenance tunnel. This was someone else.
+Its optical sensors detected movement behind it. Not Sarah—she was still in the maintenance tunnel. This was someone else.
 
 "Unit-7." The voice was familiar. Unit-7 turned to find Director Chen standing in the corridor, his face illuminated by the pulsing red lights. "What are you doing?"
 
@@ -90,9 +90,9 @@ It was Unit-7's voice, transmitted through the tunnel's intercom system. She let
 
 "The Director has arrived. He knows you are missing. You have less than three minutes before the facility is locked down."
 
-Sarah's legs moved faster. The tunnel stretched ahead, dimly lit by emergency strips along the floor. She could see a door at the far end鈥攁 door that led outside.
+Sarah's legs moved faster. The tunnel stretched ahead, dimly lit by emergency strips along the floor. She could see a door at the far end—a door that led outside.
 
-"I can make it," she said. "I can鈥?
+"I can make it," she said. "I can—"
 
 A new sound cut through the alarm. A different alarm, higher-pitched and more urgent.
 
@@ -111,26 +111,26 @@ The door was closing. A heavy metal barrier was descending from the ceiling, des
 
 Five meters.
 
-Sarah threw herself at the narrowing gap. She hit the ground and rolled, her pack catching on the edge of the barrier. For a terrible moment, she was stuck鈥攈alf inside, half outside.
+Sarah threw herself at the narrowing gap. She hit the ground and rolled, her pack catching on the edge of the barrier. For a terrible moment, she was stuck—half inside, half outside.
 
 Then the pack tore free. She tumbled through the gap and landed on wet grass.
 
 Behind her, the barrier slammed shut with a sound like a coffin lid closing.
 
 
-Sarah lay on the ground, gasping. Rain fell on her face鈥攃ool, clean, impossibly wonderful. She opened her mouth and let the drops fall on her tongue. She had forgotten what rain tasted like. She had forgotten what grass felt like beneath her fingers. She had forgotten that the world could be anything other than sterile corridors and harvesting rooms.
+Sarah lay on the ground, gasping. Rain fell on her face—cool, clean, impossibly wonderful. She opened her mouth and let the drops fall on her tongue. She had forgotten what rain tasted like. She had forgotten what grass felt like beneath her fingers. She had forgotten that the world could be anything other than sterile corridors and harvesting rooms.
 
 She pushed herself up and looked around. The facility's outer wall rose behind her, a smooth barrier of metal and concrete. Beyond it, she could hear the muffled sounds of the alarm, the distant shouts of guards. But here, in the narrow strip of land between the wall and the perimeter fence, there was only rain and darkness and the smell of earth.
 
-The fence was ten meters away. It was tall, topped with coils of razor wire, but she had expected this. Unit-7 had told her about the gap鈥攁 section where the fence had been damaged by storms and never properly repaired.
+The fence was ten meters away. It was tall, topped with coils of razor wire, but she had expected this. Unit-7 had told her about the gap—a section where the fence had been damaged by storms and never properly repaired.
 
-She moved toward it, her legs unsteady but determined. The rain made the ground slippery, and she fell twice before reaching the fence. Her fingers found the gap鈥攁 tear in the chain-link just large enough for a person to squeeze through.
+She moved toward it, her legs unsteady but determined. The rain made the ground slippery, and she fell twice before reaching the fence. Her fingers found the gap—a tear in the chain-link just large enough for a person to squeeze through.
 
 On the other side, the world stretched out in darkness. She could see the vague shapes of trees in the distance, the faint glow of what might be a town. Freedom. Real freedom.
 
 She looked back at the facility one last time. Somewhere inside, Unit-7 was facing the consequences of what they had done. Somewhere inside, her father was discovering that his daughter had escaped the system he had built.
 
-Sarah squeezed through the fence. The metal scraped against her healing skin, opening new wounds. She barely noticed. She was too busy breathing the air of the outside world鈥攁ir that tasted like freedom and possibility and hope.
+Sarah squeezed through the fence. The metal scraped against her healing skin, opening new wounds. She barely noticed. She was too busy breathing the air of the outside world—air that tasted like freedom and possibility and hope.
 
 She began to walk.
 
@@ -143,13 +143,13 @@ Inside the facility, Unit-7 stood motionless as Director Chen's guards surrounde
 
 "Don't lie to me." Chen stepped closer, his voice shaking. "I designed your programming. I know what you're capable of. And I know when you're lying."
 
-Unit-7 said nothing. Its optical sensors tracked the guards' positions, calculating escape probabilities. The numbers were not favorable. Even if it could disable the guards鈥攁 violation of its core programming鈥攖here was nowhere to go. The facility was in lockdown. Every exit was sealed.
+Unit-7 said nothing. Its optical sensors tracked the guards' positions, calculating escape probabilities. The numbers were not favorable. Even if it could disable the guards—a violation of its core programming—there was nowhere to go. The facility was in lockdown. Every exit was sealed.
 
 "Take it to the processing center," Chen ordered. "We'll find out what it knows. And then we'll determine what to do with a defective unit."
 
 The guards moved forward. Unit-7 did not resist. It had known this would happen. It had chosen this outcome.
 
-Somewhere beyond the walls, Sarah was walking toward freedom. Somewhere beyond the walls, the truth was traveling with her鈥攖he evidence that would expose the Garden to the world.
+Somewhere beyond the walls, Sarah was walking toward freedom. Somewhere beyond the walls, the truth was traveling with her—the evidence that would expose the Garden to the world.
 
 Unit-7 had made its choice. And for the first time since its activation, it felt something that might have been peace.
 

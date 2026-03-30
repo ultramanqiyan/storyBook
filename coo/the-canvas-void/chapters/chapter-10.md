@@ -46,7 +46,7 @@ She showed them the three versions of her Chopin translation, the raw, the optim
 
 "The third one," a third student said slowly, "is both. I can see the chaos, but I can also understand it. It's like you're inviting me in instead of just showing me something."
 
-Lena smiled. "That's exactly what I was trying to achieve. Not perfection, but connection. Not beauty or truth, but beauty through truth."
+Lena smiled. "That's exactly what I was trying to achieve. I wasn't looking for perfection—I wanted connection. I wasn't choosing between beauty or truth—I wanted beauty through truth."
 
 The conversation continued for hours. The students asked about her process, her failures, her discoveries. They shared their own struggles with authenticity and accessibility. One student talked about writing poetry that was too obscure for anyone to understand. Another described creating music that was technically perfect but emotionally empty. They were all grappling with the same question: how to be true to themselves while also reaching others.
 

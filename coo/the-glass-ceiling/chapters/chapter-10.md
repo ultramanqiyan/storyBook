@@ -2,8 +2,6 @@
 
 The letter went viral.
 
----
-
 **THE IMMEDIATE AFTERMATH**
 
 Within hours, Alex's phone was exploding.
@@ -11,8 +9,6 @@ Within hours, Alex's phone was exploding.
 Messages from journalists. Messages from other tech workers. Messages from people who'd experienced similar things at other companies. The notification sounds became a constant stream, a digital chorus of validation and support.
 
 *This is bigger than I thought.*
-
----
 
 **THE RESPONSE FROM MERIDIAN**
 
@@ -108,6 +104,3 @@ They hung up and looked out at the city. The sun was setting, painting the sky i
 They had broken through the glass ceiling.
 
 And they were never going back.
-
-
-**The End**

@@ -14,7 +14,7 @@ This is my creation. Every detail exists because I will it to exist. The gold oc
 
 I raise my hand. The ocean rises with it, waves of molten gold climbing toward the sky. I lower my hand. The ocean calms, returning to its gentle rhythm.
 
-This is what it means to be a lucid dreamer. In the dream world, I am not bound by physics or logic or the limitations of waking life. I can fly, I can create, I can destroy. I can be anything, do anything, experience anything.
+This is what it means to be a lucid dreamer. In the dream world, I am not bound by physics or logic or the limitations of waking life. I can fly, create, destroy. I can be anything, do anything, experience anything.
 
 And I can sell it.
 

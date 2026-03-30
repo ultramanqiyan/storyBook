@@ -54,7 +54,7 @@ Michael was quiet for a moment. Then he reached for her hand, and she let him ta
 
 Sarah felt something shift in her chestâ€”not pain, but something warmer. Something that had been growing for months, so slowly she hadn't noticed it until it was already there.
 
-"I think I love you," she said. "I don't know if it's the same as what you feel. I don't know if it's what love is supposed to be. But when I think about losing you, I feelâ€? She stopped, searching for words. "I feel something. Something real. And I don't want to lose that."
+"I think I love you," she said. "I don't know if it's the same as what you feel. I don't know if it's what love is supposed to be. But when I think about losing you, I feel..." She stopped, searching for words. "I feel something. Something real. And I don't want to lose that."
 
 Michael's eyes were wet. "That's enough," he said. "That's more than enough."
 

@@ -20,7 +20,7 @@ I don't know. I'll probably never know.
 
 But here's what I've learned.
 
-Real love isn't perfect. It's messy. It's scary. It hurts sometimes. It makes mistakes. It says the wrong things. It fails.
+Real love isn't perfect. It's messy and scary. It hurts sometimes, makes mistakes, says the wrong things. It fails.
 
 But it's real.
 

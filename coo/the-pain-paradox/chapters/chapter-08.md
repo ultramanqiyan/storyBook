@@ -132,7 +132,7 @@ But this time, she was ready for it. She breathed through it, felt it, let it wa
 
 "Again," Sarah said.
 
-The second session was the same intensity, but longerâ€?5 seconds. Sarah felt the pain build, peak, and then fade when the wand was removed. Her heart was racing, her breath coming fast, but she was in control.
+The second session was the same intensity, but longerâ€”45 seconds. Sarah felt the pain build, peak, and then fade when the wand was removed. Her heart was racing, her breath coming fast, but she was in control.
 
 *Duration: 45 seconds. Intensity: 5. Your response is within normal parameters.*
 

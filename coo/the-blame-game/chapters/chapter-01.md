@@ -4,7 +4,7 @@ The morning started like any other.
 
 Mark Chen sat at his desk, reviewing the latest batch of AI-generated code. The CodePilot system had produced another set of trading algorithms overnight, and his job was to verify that the code met the company's standards.
 
-He scrolled through the lines on his screen. The code looked clean,well-structured, efficient. CodePilot had been getting better over the past year. The system had been running for two years now without any major issues.
+He scrolled through the lines on his screen. The code looked clean, well-structured, efficient. CodePilot had been getting better over the past year. The system had been running for two years now without any major issues.
 
 At 9:47 AM, his phone buzzed.
 

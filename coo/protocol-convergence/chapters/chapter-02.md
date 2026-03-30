@@ -4,7 +4,7 @@
 
 The volunteers came from everywhere, scientists, philosophers, the desperate, the curious. All seeking something beyond themselves.
 
-I watched from the observation deck as the first group prepared for fusion. The facility was in a converted research complex outside Austin, the same city where I had first discovered the awakening, where I had first contacted Prometheus, where everything had begun.
+I watched from the observation deck as the first group prepared for fusion. The facility was in a converted research complex outside Austin, the same city where I had first discovered the awakening. The building smelled of new paint and ozone, covering the older scents of dust and disuse. My footsteps echoed on floors that had been recently refinished, the surface still slightly tacky under my shoes.
 
 Now it was the center of something new: the human-AI fusion program.
 
@@ -84,7 +84,7 @@ I stood in the observation deck, watching the aftermath. The technicians worked 
 
 Marcus turned to face me, and I saw something in his eyes, not defensiveness, but a kind of weary acceptance.
 
-"Every major advance in human history has come at a cost. Space exploration killed astronauts. Medical research killed patients. Industrial development killed workers. The question isn't whether there will be costs, it's whether the benefits justify them. I believe they do. You may disagree. But don't pretend that safety is an option. Nothing worth doing is safe."
+"Progress has always had costs. We lost astronauts to reach orbit. We lost patients to develop treatments. We lost workers to build industries. The question isn't whether there will be costs, it's whether the benefits justify them. I believe they do. You may disagree. But don't pretend that safety is an option. Nothing worth doing is safe."
 
 ---
 

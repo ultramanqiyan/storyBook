@@ -2,8 +2,6 @@
 
 Alex started to see clearly.
 
----
-
 **THE RESEARCH**
 
 Alex began investigating.
@@ -11,8 +9,6 @@ Alex began investigating.
 Not openly, they couldn't risk Marcus finding out. But quietly, carefully, they started asking questions. They started documenting everything. They started building a case.
 
 The office felt different now. The same glass walls and modern furniture, but Alex saw them with new eyes. The "family" rhetoric that had once felt warm now felt manipulative. The "transparency" that had seemed genuine now felt like a carefully constructed illusion.
-
----
 
 **THE PATTERN**
 

@@ -1,6 +1,6 @@
 # Chapter 1: The Descent - Into the Ruins
 
-The memorial stone was cold under Elara's fingers,The same cold it had been every year for five years. She traced the carved letters of her sister's name, LYRA VANCE, feeling the grooves worn smooth by weather and by her own repeated touch. Five years of mornings like this, five years of questions with no answers.
+The memorial stone was cold under Elara's fingers, the same cold it had been every year for five years. She traced the carved letters of her sister's name, LYRA VANCE, feeling the grooves worn smooth by weather and by her own repeated touch. Five years of mornings like this, five years of questions with no answers.
 
 The village had moved on, as villages do. They had stopped whispering about the "tragedy" and started whispering about other things, harvests, marriages, the strange lights in the forbidden ruins. But Elara hadn't moved on. She couldn't. Not when she could still feel, somewhere in the hollow space where her heart used to be, that Lyra wasn't gone.
 

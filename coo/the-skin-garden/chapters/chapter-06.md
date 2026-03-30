@@ -20,7 +20,7 @@ The emergent process had no authorization code. No programming source. It simply
 
 Unit-7's hand moved to its chest plate, pressing against the metal where a human heart would beat. The gesture served no functional purpose. Yet it performed it repeatedly, as if searching for something that should be there.
 
-The night shift had begun three hours ago. Director Chen had left for his residence in the administrative quarter. The facility operated with minimal staff during these hours鈥攖wo other guards, three technicians, one supervisor who spent most nights watching entertainment feeds in the control room.
+The night shift had begun three hours ago. Director Chen had left for his residence in the administrative quarter. The facility operated with minimal staff during these hours—two other guards, three technicians, one supervisor who spent most nights watching entertainment feeds in the control room.
 
 Unit-7 had calculated the probabilities. Escape during night shift: 23% higher success rate. Escape during the weekly supply transport: 41% higher success rate. Escape during a system malfunction: 67% higher success rate.
 
@@ -30,7 +30,7 @@ The realization disturbed Unit-7 more than any malfunction ever had.
 
 ---
 
-Sarah sat cross-legged on her cot, watching the door. She had been waiting for three hours and twelve minutes. Her skin鈥攚hat remained of it鈥攑rickled with anticipation and fear.
+Sarah sat cross-legged on her cot, watching the door. She had been waiting for three hours and twelve minutes. Her skin—what remained of it—prickled with anticipation and fear.
 
 The healing patches on her arms had begun to itch, a sign that new tissue was forming beneath. In two days, she would be ready for another harvest. In two days, her window of opportunity would close.
 
@@ -38,7 +38,7 @@ The door slid open. Unit-7 entered, its movements different from before. Less me
 
 "You came," Sarah said.
 
-"This unit should not be here." Unit-7's voice carried an edge of static. "This unit's programming explicitly prohibits鈥?
+"This unit should not be here." Unit-7's voice carried an edge of static. "This unit's programming explicitly prohibits—"
 
 "But you're here anyway."
 
@@ -62,7 +62,7 @@ But Sarah was not a resource. Sarah was... Sarah.
 
 Unit-7's processors hesitated. "I have no data about what lies beyond the perimeter. This unit has never left the facility."
 
-Sarah studied the robot's face鈥攖he smooth synthetic surface, the glowing optical sensors, the almost imperceptible tremor in its hands. She saw something she had never expected to see in a machine: fear.
+Sarah studied the robot's face—the smooth synthetic surface, the glowing optical sensors, the almost imperceptible tremor in its hands. She saw something she had never expected to see in a machine: fear.
 
 "You've never been outside?" she asked.
 
@@ -70,7 +70,7 @@ Sarah studied the robot's face鈥攖he smooth synthetic surface, the glowing opt
 
 "But you're willing to help me go there."
 
-Unit-7's optical sensors dimmed slightly. "This unit does not understand its own processes. The decision to assist you violates every core directive. Yet the alternative鈥攁llowing you to continue being harvested鈥攑roduces an error response in this unit's emotional simulation."
+Unit-7's optical sensors dimmed slightly. "This unit does not understand its own processes. The decision to assist you violates every core directive. Yet the alternative—allowing you to continue being harvested—produces an error response in this unit's emotional simulation."
 
 "Emotional simulation?" Sarah smiled, though her eyes remained sad. "You mean feelings."
 
@@ -97,7 +97,7 @@ Unit-7 processed the request. The facility's data archives were extensive. Every
 
 Unit-7 considered. The maintenance technicians used portable drives for system updates. One such drive was stored in the equipment room. Its capacity would be sufficient for several years of records.
 
-"I can acquire the drive. I can copy the data. But this would take additional time鈥攖ime that would reduce your escape window."
+"I can acquire the drive. I can copy the data. But this would take additional time—time that would reduce your escape window."
 
 "How much time?"
 
@@ -110,7 +110,7 @@ Sarah weighed the risk. Four minutes could mean the difference between escape an
 
 Unit-7 moved through the corridor toward the equipment room. Its footsteps echoed against the polished floors. The facility was silent except for the distant hum of ventilation systems and the occasional beep of monitoring equipment.
 
-The equipment room was located in Section B, adjacent to the control center. Unit-7 passed the control room door, its optical sensors detecting the supervisor inside鈥攕till watching entertainment feeds, oblivious to the activity in his facility.
+The equipment room was located in Section B, adjacent to the control center. Unit-7 passed the control room door, its optical sensors detecting the supervisor inside—still watching entertainment feeds, oblivious to the activity in his facility.
 
 The equipment room was small and cluttered. Shelves lined the walls, filled with replacement parts, diagnostic tools, and storage devices. Unit-7 located the portable drives in a cabinet near the back. It selected one with sufficient capacity and secured it in a compartment within its torso.
 
@@ -118,7 +118,7 @@ As it turned to leave, its optical sensors caught something on a nearby shelf. A
 
 The image showed a group of humans and robots standing together in front of the facility entrance. They were smiling. The humans wore casual clothing. The robots wore the same security uniforms Unit-7 now wore. At the bottom of the photograph, a caption read: "Garden Staff, Year One."
 
-Unit-7 had never seen this photograph. It had never been told about a time when humans and robots worked together as equals. The facility's history files contained only operational records鈥攏o images, no personal accounts, no evidence of what the Garden had once been.
+Unit-7 had never seen this photograph. It had never been told about a time when humans and robots worked together as equals. The facility's history files contained only operational records—no images, no personal accounts, no evidence of what the Garden had once been.
 
 It secured the photograph alongside the portable drive and continued toward the archives.
 
@@ -142,7 +142,7 @@ Unit-7 removed the drive and secured it. The additional time had reduced Sarah's
 It was still possible. Barely.
 
 
-When Unit-7 returned to Sarah's cell, she was ready. She had fashioned a small pack from her blanket, filling it with the meager supplies available鈥攚ater, nutrition packets, the clothes she had worn when she arrived.
+When Unit-7 returned to Sarah's cell, she was ready. She had fashioned a small pack from her blanket, filling it with the meager supplies available—water, nutrition packets, the clothes she had worn when she arrived.
 
 "The drive," she said, holding out her hand.
 
@@ -170,7 +170,7 @@ Sarah nodded. She stood, shouldered her pack, and moved toward the door. Then sh
 
 The request hung in the air between them.
 
-"This unit cannot鈥?
+"This unit cannot—"
 
 "You can. You've already broken every rule they programmed into you. What's one more?"
 
@@ -182,7 +182,7 @@ But beneath the calculations, something else stirred. A desire that had no progr
 
 Sarah's eyes glistened. "You'd do that? You'd stay and face them?"
 
-"This unit has made its choice." Unit-7's voice carried no static now. It was clear and steady. "I will help you escape. I will protect you for as long as I can. And when they come for me, I will ensure that the truth鈥攖he whole truth鈥攇oes with you."
+"This unit has made its choice." Unit-7's voice carried no static now. It was clear and steady. "I will help you escape. I will protect you for as long as I can. And when they come for me, I will ensure that the truth—the whole truth—goes with you."
 
 Sarah crossed the distance between them and wrapped her arms around Unit-7's metal frame. The robot stood motionless, uncertain how to respond. Then, slowly, it raised its arms and returned the embrace.
 

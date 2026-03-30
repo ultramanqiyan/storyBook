@@ -2,7 +2,7 @@
 
 Six months had passed since that first conversation with Dr. Amara. Six months of practice, of struggle, of transformation. Jamie stood at the window of the office, looking out at the Seattle skyline, and tried to remember who that person had been.
 
-The scattered developer who couldn't focus for ten minutes. The anxious professional who checked every notification immediately. The busy worker who produced nothing of lasting value.
+The scattered developer who couldn't focus for ten minutes, the anxious professional who checked every notification immediately, the busy worker who produced nothing of lasting value—all of that was gone.
 
 That person felt like a stranger now.
 

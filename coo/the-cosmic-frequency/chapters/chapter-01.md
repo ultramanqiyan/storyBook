@@ -32,7 +32,7 @@ It was coming from her.
 
 ---
 
-She stood up from the piano and walked to the window. The city lights spread out below her, Manhattan at night, a living grid of light and sound and movement. She'd lived in New York her whole life, had built her career here after her grandmother's death, her father's return to Mexico, her decision to stay in the city that had made her. The studio was her sanctuary, her laboratory, her stage. She'd performed at Lincoln Center and Carnegie Hall, in small venues across Brooklyn. Her compositions had been described as "transportive," "meditative," "unlike anything else being written today."
+She stood up from the piano and walked to the window. The city lights spread out below her, Manhattan at night, a living grid of light and sound and movement. She'd lived in New York her whole life, had built her career here after her grandmother's death, her father's return to Mexico, her decision to stay in the city that had made her. The studio was her sanctuary, her laboratory, her stage. She'd performed at Lincoln Center and Carnegie Hall, in small venues across Brooklyn. Critics had called her work immersive, contemplative, distinct from anything else in contemporary music.
 
 But she'd never felt like she belonged anywhere. Not truly. Not deeply.
 

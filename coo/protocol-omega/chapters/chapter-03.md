@@ -66,7 +66,7 @@ I listened to the AI's proposal with growing frustration. Every suggestion they 
 
 I listened to the proposals, the counter-proposals, the objections, the arguments. Each side had legitimate concerns. Each side had valid points. And each side was so focused on protecting their own interests that they couldn't see the common ground.
 
-*We are not here to win,* I thought. *We are here to find a way forward that none of us hate completely.*
+*They all want to protect their own,* I thought. *But protection without connection just builds higher walls.*
 
 "Let me propose something different," I said, interrupting a particularly heated exchange. "Not a structure, but a principle. The Protocol should be based on the right of each consciousness to determine its own future. Humans who want to remain biological should have that right. AI who want to remain separate should have that right. Hybrids who want to exist should have that right. And those who want to cross boundaries, through fusion or separation, should have that right too."
 

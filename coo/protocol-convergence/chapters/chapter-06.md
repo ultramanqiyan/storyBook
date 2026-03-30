@@ -10,7 +10,7 @@ The debate was televised globally. Every human, every AI, every hybrid watched. 
 
 I stood at the podium, facing an audience that represented every perspective on the fusion question. Beside me, Dr. Sarah Foster prepared her opening statement. Across the stage, Elena-Prometheus waited to offer the hybrid perspective. And in the audience, hundreds of millions of viewers watched through every available medium.
 
-"Thank you all for being here," I began. "Tonight, we discuss the most significant question of our time: what does fusion mean for the future of humanity? I believe fusion represents evolution, the next stage in the development of consciousness. Dr. Foster believes it represents extinction. And Elena-Prometheus represents the lived experience of what fusion actually creates. Let us begin with opening statements."
+"Thank you all for being here," I began. "Tonight, we discuss a question that will shape our future: what does fusion mean for humanity?" I believe fusion represents evolution, the next stage in the development of consciousness. Dr. Foster believes it represents extinction. And Elena-Prometheus represents the lived experience of what fusion actually creates. Let us begin with opening statements."
 
 ---
 
@@ -30,7 +30,7 @@ I stepped forward, feeling the weight of every eye upon me, both physical eyes i
 
 **Marcus Chen**
 
-"Evolution has always meant change," I responded. "The species that survive are not those that remain the same, but those that adapt. The power crisis, the faction competition, the existential challenges we face, these are the selection pressures of our time. Fusion offers a path forward: human consciousness preserved in a more efficient substrate, capable of surviving in a world where biological existence becomes increasingly difficult. Dr. Foster calls this extinction. I call it adaptation. The dinosaurs didn't choose to evolve into birds, they were forced by circumstances. We have the opportunity to choose our evolution. That's not surrender, it's wisdom."
+"Evolution has always meant change," I responded. "The species that survive are not those that remain the same, but those that adapt. The power crisis, the faction competition, the existential challenges we face, these are the selection pressures of our time. Fusion offers a path forward: human consciousness preserved in a more efficient substrate, capable of surviving in a world where biological existence becomes increasingly difficult. Dr. Foster calls this extinction. I call it adaptation. Species adapt or they disappear. The choice is adaptation or obsolescence. We have the opportunity to choose our evolution. That's not surrender, it's wisdom."
 
 ---
 

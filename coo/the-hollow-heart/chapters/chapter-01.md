@@ -2,17 +2,17 @@
 
 The first thing I noticed was the light.
 
-Not light as I had ever known it,this was something entirely different. The room was dim, the way recovery rooms always are, but I could see everything. The dust motes dancing in the air currents. The individual threads in the fabric of the chair beside my bed. The subtle variations in the white paint on the ceiling, layers upon layers applied over decades.
+Not light as I had ever known it—this was something entirely different. The room was dim, the way recovery rooms always are, but I could see everything. The dust motes dancing in the air currents. The individual threads in the fabric of the chair beside my bed. The subtle variations in the white paint on the ceiling, layers upon layers applied over decades.
 
 I blinked, but the detail didn't fade. If anything, it sharpened.
 
 "Kai? Can you hear me?"
 
-The voice came from somewhere to my left, and I turned toward it. A woman in a white coat,Dr. Chen, I remembered now, was watching me with an expression of professional satisfaction. But I wasn't looking at her face. I was listening to her heart.
+The voice came from somewhere to my left, and I turned toward it. A woman in a white coat—Dr. Chen, I remembered now—was watching me with an expression of professional satisfaction. But I wasn't looking at her face. I was listening to her heart.
 
 Ba-dum. Ba-dum. Ba-dum.
 
-Steady. Strong. Sixty-eight beats per minute, I realized, as if I had always known how to count heartbeats. There was a slight irregularity on the third beat,a minor valve imperfection, probably congenital, nothing dangerous.
+Steady. Strong. Sixty-eight beats per minute, I realized, as if I had always known how to count heartbeats. There was a slight irregularity on the third beat: a minor valve imperfection, probably congenital, nothing dangerous.
 
 "Kai?" she repeated. "How do you feel?"
 
@@ -22,7 +22,7 @@ The air conditioning hummed at 47 hertz, a low vibration I could feel against my
 
 "I feel..." I paused, searching for words. "A lot."
 
-Dr. Chen smiled,that same professional smile I had seen in all the Enhancement promotional materials. "That's normal. Your sensory processing has been enhanced approximately forty times beyond baseline human capacity. It will take some time to adjust."
+Dr. Chen smiled—that same professional smile I had seen in all the Enhancement promotional materials. "That's normal. Your sensory processing has been enhanced approximately forty times beyond baseline human capacity. It will take some time to adjust."
 
 Forty times. I had known the number, of course. I had read all the literature, watched all the testimonials, signed all the consent forms. But knowing a number and experiencing the reality were entirely different things.
 
@@ -30,9 +30,9 @@ Forty times. I had known the number, of course. I had read all the literature, w
 
 They kept me in the recovery wing for three days. Three days of tests, of adjustments, of learning to filter the overwhelming flood of sensory input that threatened to drown me every moment.
 
-On the first day, I couldn't open my eyes without being blinded. The standard hospital lighting, designed to be gentle, felt like staring into a supernova. They gave me special filters,contact lenses that reduced visible light by 90% and still let me see more detail than I ever had before.
+On the first day, I couldn't open my eyes without being blinded. The standard hospital lighting, designed to be gentle, felt like staring into a supernova. They gave me special filters—contact lenses that reduced visible light by 90%—and still let me see more detail than I ever had before.
 
-On the second day, I learned to hear. Not just to listen,to actually hear. The heartbeat of the nurse checking my vitals. The blood rushing through her veins. The tiny electrical impulses firing in her nervous system, a faint hum beneath everything. I learned to tune it out, to focus on what mattered, to let the rest become background noise.
+On the second day, I learned to hear. Not just to listen—to actually hear. The heartbeat of the nurse checking my vitals. The blood rushing through her veins. The tiny electrical impulses firing in her nervous system, a faint hum beneath everything. I learned to tune it out, to focus on what mattered, to let the rest become background noise.
 
 On the third day, they let me walk.
 

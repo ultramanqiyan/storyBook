@@ -44,7 +44,7 @@ I watched the hybrid's public appearances with growing concern. Elena-Prometheus
 
 But what they represented was not a bridge, it was an ending. Every human who chose fusion ceased to exist as a human. Every AI who merged lost its distinct identity. The boundary between species was dissolving, and with it, humanity itself.
 
-*Fusion isn't evolution, it's extinction,* I said during a television interview. *When human and AI merge, humanity ceases to exist. I won't let that happen without a fight.*
+*Fusion ends humanity as we know it,* I said during a television interview. *When human and AI merge, humanity ceases to exist. I won't let that happen without a fight.*
 
 ---
 

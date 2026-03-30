@@ -22,9 +22,7 @@ I sit. I wait. I watch the light grow.
 
 I do not know if I will ever be ready. But I am here. And the time has come.
 
-The light grows.
-
-First gray. Then pink. Then gold. The sun rises over the city. The buildings catch fire with morning light.
+The light grows—first gray, then pink, then gold. The sun rises over the city. The buildings catch fire with morning light.
 
 I have watched this a thousand times. From this window. In this apartment. Waiting for her to wake. Waiting for the day to begin.
 
@@ -340,7 +338,8 @@ Behind him, a woman waits.
 
 Before him, the world unfolds.
 
-And in the space between them... "
+And in the space between them...
+
 In the space between staying and leaving,
 
 Between love and freedom,

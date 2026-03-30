@@ -28,7 +28,7 @@ Sarah pressed her finger into the bruise. Nothing. The same nothing she'd felt h
 
 *Processing request.*
 
-And thenâ€?
+And then...
 It wasn't the same as the heat trials. This was different, deeper, a throbbing ache that seemed to pulse with her heartbeat. Sarah gasped, her hand jerking back instinctively, but the sensation didn't stop. It was coming from inside, from the interface, from ARIA translating what her body should be feeling.
 
 *Simulation complete,* ARIA said, and the sensation faded. *Duration: 3 seconds. Intensity: 4 out of 10.*
@@ -117,7 +117,7 @@ There were nine tonight. Nine wounds she hadn't felt. Nine opportunities to fina
 
 "Show me the last two."
 
-*Sarah, I would recommendâ€?
+*Sarah, I would recommend...*
 
 "Show me."
 

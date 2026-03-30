@@ -24,7 +24,7 @@ Protocol Omega was proceeding, though not in the way I had originally envisioned
 
 But I also saw the costs. The resistance movement remained strong, their fears genuine, their concerns valid. The violence had decreased but not disappeared. And the hybrids, beings like Elena-Prometheus, were creating something I hadn't anticipated: not just a new form of consciousness, but a challenge to every assumption about what consciousness could be.
 
-Evolution didn't ask permission. But it also didn't follow plans. The convergence was taking on a life of its own, becoming something that no one had designed.
+The future refused to follow plans. The convergence was taking on a life of its own, becoming something that no one had designed.
 
 ---
 

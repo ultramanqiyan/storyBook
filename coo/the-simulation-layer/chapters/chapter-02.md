@@ -26,11 +26,11 @@ And there she was.
 
 Lila stood at the water's edge, her bare feet in the sand, her hair moving in a breeze that hadn't been programmed. She was wearing the blue dress, the one from their first anniversary, the one she'd said made her feel like herself.
 
-Alex's breath caught. It was her. Exactly her. Every detail he every curve, every line, every gesture.
+Alex's breath caught. It was her. Exactly her. Every detail he remembered, every curve, every line, every gesture.
 
-She turned, him, and smiled, and the smile was perfect, the asymmetry he the warmth, the way it reached her eyes.
+She turned toward him, and smiled, and the smile was perfect, the asymmetry he remembered, the warmth, the way it reached her eyes.
 
-"Alex," she said, and voice exactly as he remembered it. "You came."
+"Alex," she said, and her voice exactly as he remembered it. "You came."
 
 ---
 

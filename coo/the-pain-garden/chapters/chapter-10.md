@@ -27,7 +27,7 @@ His pain had finally ended, not through cure but through death. Lily had been wi
 
 His pain had been the shape of his love. And now that love had been reunited with its object.
 
-Lily missed him. But she also celebrated him, his courage, his wisdom, his choice to find meaning in suffering. He had taught her that pain was not the enemy. It was a teacher, a connector, a path to growth.
+Lily missed him. But she also celebrated him: his courage, his wisdom, and his choice to find meaning in suffering. He had taught her that pain was not the enemy. It was a teacher, a connector, a path to growth.
 
 
 Emma had grown up.

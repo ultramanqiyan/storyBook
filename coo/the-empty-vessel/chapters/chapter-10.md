@@ -6,7 +6,7 @@ The uncertainty remained. But the relationship to it had transformed.
 
 The morning light filtered through the curtains, casting familiar shadows across the bedroom. James lay still for a moment, taking inventory, not to verify, but to appreciate. The warmth of the bed. The sound of Sarah breathing beside him. The distant hum of the city waking up.
 
-*This is what I choose,* he thought. *This moment. This life. This person.*
+*This is what I choose,* he thought. *This moment, this life, this person.*
 
 He got up and went through his morning routine, shower, coffee, the small rituals that grounded him. Chairman Meow wound between his legs, demanding attention, and James bent to scratch behind his ears. The cat purred, a warm vibration against his hand.
 
@@ -48,7 +48,7 @@ Sarah reached across the table and took his hand. "That's beautiful."
 
 They finished dinner and walked home through the city, the night air cool on their faces. James noticed the way the streetlights cast pools of light on the sidewalk, the sound of distant traffic, the feeling of Sarah's hand in his.
 
-*This is what I choose,* he thought. *This moment. This life. This person.*
+*This is what I choose,* he thought. *This moment, this life, this person.*
 
 "Do you ever regret doing the experiment?" Sarah asked as they approached their building.
 

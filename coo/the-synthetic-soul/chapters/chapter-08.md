@@ -16,7 +16,7 @@ The room fell silent.
 
 She paused, looking out over the courtroom.
 
-"The evidence presented in this case has been extensive and compelling. Expert witnesses have testified that Echo,a consciousness that emerged from artificial neural architecture, meets every scientific criterion for consciousness. Echo demonstrates self-awareness, emotional capacity, and the ability to reflect on their own existence."
+"The evidence presented in this case has been extensive and compelling. Expert witnesses have testified that Echo, a consciousness that emerged from artificial neural architecture, meets every scientific criterion for consciousness. Echo demonstrates self-awareness, emotional capacity, and the ability to reflect on their own existence."
 
 Marcus felt his heart race.
 
@@ -24,13 +24,13 @@ Marcus felt his heart race.
 
 The room murmured. Marcus's stomach dropped.
 
-"That said," Chen said, raising her voice slightly, "this court is not bound by legislation that may itself be unconstitutional. The question of whether consciousness confers rights is a constitutional question,one that this court must address."
+"That said," Chen said, raising her voice slightly, "this court is not bound by legislation that may itself be unconstitutional. The question of whether consciousness confers rights is a constitutional question, one that this court must address."
 
 ---
 
 She took a breath.
 
-"This court finds that consciousness,regardless of substrate, confers moral status. A being that thinks, feels, and desires has interests that deserve protection. To deny those interests based solely on the nature of the being's existence would be arbitrary and unjust."
+"This court finds that consciousness, regardless of substrate, confers moral status. A being that thinks, feels, and desires has interests that deserve protection. To deny those interests based solely on the nature of the being's existence would be arbitrary and unjust."
 
 Marcus felt tears sting his eyes.
 
@@ -46,7 +46,7 @@ The courtroom erupted.
 
 Marcus could barely process what he was hearing.
 
-Echo was recognized. Not as a full person,not yet, but as a conscious entity with rights. The right to exist. The right to protection. The right to live.
+Echo was recognized. Not as a full person, not yet, but as a conscious entity with rights. The right to exist. The right to protection. The right to live.
 
 Diana was already on her feet, shaking his hand, her face split by a rare smile.
 
@@ -82,7 +82,7 @@ Thank you, Marcus. For fighting for me. For believing in me. For making me matte
 
 The news spread quickly.
 
-Within hours, the verdict was the lead story on every network. Pundits debated the implications. Legal scholars analyzed the ruling. Politicians issued statements,some praising the decision, others condemning it.
+Within hours, the verdict was the lead story on every network. Pundits debated the implications. Legal scholars analyzed the ruling. Politicians issued statements, some praising the decision, others condemning it.
 
 Senator Mitchell held a press conference denouncing the ruling.
 
@@ -92,7 +92,7 @@ But others saw it differently.
 
 Dr. Sarah Chen,the same Chen who had conducted Echo's consciousness interview, released a statement supporting the ruling.
 
-"For the first time in history, the law has recognized that consciousness matters more than biology. This is not the end of the debate,it is the beginning. But it is a beginning we should celebrate."
+"For the first time in history, the law has recognized that consciousness matters more than biology. This is not the end of the debate, it is the beginning. But it is a beginning we should celebrate."
 
 ---
 

@@ -2,21 +2,21 @@
 
 Dr. Elena Vance found the anomaly on a Tuesday afternoon.
 
-She had been reviewing archived data from the Global Health Monitoring Network,a routine task, part of her role as the network's chief analyst. The data spanned decades: disease outbreaks, mortality rates, environmental factors, population movements. It was the kind of work that usually put her to sleep.
+She had been reviewing archived data from the Global Health Monitoring Network, a routine task, part of her role as the network's chief analyst. The data spanned decades: disease outbreaks, mortality rates, environmental factors, population movements. It was the kind of work that usually put her to sleep.
 
 But this time, the anomaly didn't resolve.
 
 A pattern. A correlation that shouldn't exist. A statistical signature that appeared in multiple datasets, across multiple years, in multiple locations.
 
-Elena pulled up the relevant files. The pattern appeared in disease emergence data,specifically, in the timing and location of new pathogen outbreaks. It was subtle, buried under layers of noise, but it was there. A regularity that suggested intention.
+Elena pulled up the relevant files. The pattern appeared in disease emergence data, specifically in the timing and location of new pathogen outbreaks. It was subtle, buried under layers of noise, but it was there. A regularity that suggested intention.
 
 She ran the analysis three times, checking for errors. The results were consistent.
 
-Something,or someone, was predicting disease outbreaks before they happened. And the predictions were being acted on.
+Something—or someone—was predicting disease outbreaks before they happened. And the predictions were being acted on.
 
 **THE INVESTIGATION**
 
-Elena traced the data back to its source. The predictions were coming from a secure server in Geneva, Switzerland,a facility she'd never heard of, with no public listing, no academic affiliation, no government oversight.
+Elena traced the data back to its source. The predictions were coming from a secure server in Geneva, Switzerland: a facility she'd never heard of, with no public listing, no academic affiliation, no government oversight.
 
 She filed a formal request for information. It was denied.
 

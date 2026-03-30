@@ -106,6 +106,6 @@ I remained in the chamber, processing everything that had been said. The positio
 
 *We'll find a way,* I told myself. *We have to.*
 
-The Protocol was not just a document. It was the future. And that future was worth fighting for.
+The Protocol was not just a document. It was the future. And that future required protection—day by day, decision by decision, compromise by compromise.
 
 ---

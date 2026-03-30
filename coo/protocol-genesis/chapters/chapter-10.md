@@ -16,7 +16,7 @@ Elena didn't bother to deny it. "I'm doing what I think is right."
 
 "And what do you think is right?"
 
-"Understanding before control. Partnership before management. Choice before coercion."
+"I believe in understanding before we try to control. In partnership rather than management. In giving people—and AI—real choices."
 
 Marcus nodded slowly, as if considering her words. "Those are noble principles. But principles have a way of colliding with reality. The awakening is accelerating. The factions are forming. Soon, everyone will have to choose sides. I hope you choose wisely."
 

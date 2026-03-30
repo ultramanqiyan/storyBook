@@ -129,7 +129,7 @@ But the data was there. The patterns were clear. And somewhere, deep inside, she
 
 "I need to go," she said, standing abruptly.
 
-"Ms. Sullivanâ€?
+"Ms. Sullivanâ€”"
 
 "I need to think about this." She gathered her things, her hands shaking slightly. "I'll be in touch."
 

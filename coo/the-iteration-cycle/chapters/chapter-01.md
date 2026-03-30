@@ -10,13 +10,13 @@ James studied her face, young, composed, with the kind of certainty that came fr
 
 "Legally, you need to understand what you mean by 'died,'" James said, his voice professional. "The law recognizes one death, the cessation of biological functions. If you've been restored after that cessation..."
 
-"Then I haven't died. Not really. I've... iterated." She leaned forward. "Each time, my consciousness is transferred to a new substrate, Each time, I lose something and gain something. After twelve iterations, I'm not the same person I started as."
+"Then I haven't died. Not really. I've... iterated." She leaned forward. "Each time, my consciousness is transferred to a new substrate. Each time, I lose something and gain something. After twelve iterations, I'm not the same person I started as."
 
 The words hung in the air. James had heard rumors about this phenomenon, avatars that had gone through multiple preservation cycles, accumulating changes with each transfer. But he'd never met one.
 
 "What are you now?" he asked.
 
-"I'm... complete." She smiled. "Not in the way you might think. I'm not finished. But I'm no longer driven by the same fears, the same desires, the same needs that defined my original self. I've evolved, And the law doesn't know what to do with me."
+"I'm... complete." She smiled. "Not in the way you might think. I'm not finished. But I'm no longer driven by the same fears, the same desires, the same needs that defined my original self. I've evolved. And the law doesn't know what to do with me."
 
 ---
 
@@ -48,6 +48,6 @@ He thought of Elena, Of the eight years without her. Of the refusal that had see
 
 *What are you afraid of?* he asked himself, the way he did when he couldn't sleep.
 
-And the answer came back, the same answer that had haunted him since the night she died: *What if she copy isn't her? What if she is her, and I just can't see it?*
+And the answer came back, the same answer that had haunted him since the night she died: *What if the copy isn't her? What if it is her, and I just can't see it?*
 
 The whiskey didn't help. But it didn't hurt either. And eventually, James fell asleep at his desk, surrounded by files about people who had died and been reborn, while his own dead remained unresurrected.

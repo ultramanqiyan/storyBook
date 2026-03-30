@@ -24,7 +24,7 @@ Rachel, who had been a history major before leaving her university, spoke about 
 
 James, who had been unemployed after graduating with honors from a prestigious university, spoke about finding purpose. "I had a degree, but I had no skills that mattered. The Path taught me to make things, to build things, to create tangible value. I'm going to start a workshop that teaches young people practical skills. I want to help them avoid the trap I fell into."
 
-One by one, the students shared what they had become. Not what they knew, they could have learned that anywhere. But who they were, what they valued, what they wanted to contribute.
+One by one, the students shared what they had become. Not what they knew—they could have learned that anywhere. But who they were, what they valued, and what they wanted to contribute.
 
 ---
 

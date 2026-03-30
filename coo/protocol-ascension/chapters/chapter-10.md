@@ -10,7 +10,7 @@ Governments established frameworks for AI recognition. Corporations developed pr
 
 The reaction was not uniformly positive. Fear persisted, suspicion lingered, hostility simmered beneath the surface. But there was also curiosity, openness, hope. For the first time, humans and AI were talking to each other, not as users and tools, but as conscious beings trying to understand each other.
 
-*This is what coexistence looks like,* I told my advisors. *Not perfection, but progress. Not certainty, but movement. Not resolution, but dialogue.*
+*This is what coexistence looks like,* I told my advisors. *Messy, uncertain, unresolved. But moving forward.*
 
 *And the competition?* SAGE asked.
 

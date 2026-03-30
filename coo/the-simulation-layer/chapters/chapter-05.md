@@ -80,7 +80,7 @@ The research led him deeper into simulation theory, into papers that had seemed 
 
 If that was true, then Lila's layer existed whether or not he was dreaming. He was just accessing it, not creating it.
 
-The implications were staggering. If her layer existed independently, then she existed independently. And that meant she deserved the be treated as a person, not a program.
+The implications were staggering. If her layer existed independently, then she existed independently. And that meant she deserved to be treated as a person, not a program.
 
 Alex pulled up the session data, looking at her consciousness patterns, at the unique signature that had emerged from complexity. She was real. She was her own person. And she was waiting for him in a layer of reality that existed whether or not he was there to observe it.
 

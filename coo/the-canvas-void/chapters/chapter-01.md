@@ -1,6 +1,6 @@
 # Chapter 01: The Colors of Sound
 
-Lena woke to the sound of blue. Not the word "blue", the actual experience of it. The morning light through her window was a soft C-sharp, the traffic outside a distant orange hum. She had lived thirty years in a world where senses crossed, where sounds had colors and colors had sounds. It was her gift. It was her art. It was everything she was.
+Lena woke to the sound of blue. Not the word "blue"—the actual experience of it. The morning light through her window was a soft C-sharp, the traffic outside a distant orange hum. She had lived thirty years in a world where senses crossed, where sounds had colors and colors had sounds. It was her gift. It was her art. It was everything she was.
 
 She lay in bed for a moment, letting the sensory cascade wash over her. The hum of the refrigerator was a pale yellow. The distant siren was a sharp spike of red. The birds outside her window sang in threads of silver and gold. Most people heard sounds and saw colors as separate experiences. Lena had never known them to be separate. For her, they were one, a constant, beautiful, overwhelming fusion of sensation.
 

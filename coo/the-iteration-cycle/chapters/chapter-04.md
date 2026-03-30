@@ -36,7 +36,7 @@ The question burned in his mind: *Can I love someone who has become someone else
 
 James accessed the communication logs, looking for any messages Elena might have left for him. There was one, dated three days ago.
 
-        *James, if you're reading this, I want you to see you. Not because I need to. Because I choose to. Please come find me.*
+        *James, if you're reading this, I want you to see me. Not because I need to. Because I choose to. Please come find me.*
 
         The message was simple, but it carried the weight of everything that had changed. Elena's avatar didn't need him. She chose him.
 

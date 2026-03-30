@@ -6,7 +6,7 @@ James spent the morning walking through the mall with fresh eyes, examining what
 
 Those days were gone.
 
-He stopped at the electronics store first. The televisions on display were stunningâ€?K resolution, perfect color accuracy, smart features that anticipated your needs. The prices had dropped 40% in five years while quality had improved dramatically. AI-assisted manufacturing had eliminated defects, optimized supply chains, and created products that were technically flawless.
+He stopped at the electronics store first. The televisions on display were stunningâ€”4K resolution, perfect color accuracy, smart features that anticipated your needs. The prices had dropped 40% in five years while quality had improved dramatically. AI-assisted manufacturing had eliminated defects, optimized supply chains, and created products that were technically flawless.
 
 He picked up a tablet and examined it. The screen was bright and responsive. The processor was fast. The battery lasted for days. The price was a fraction of what similar devices had cost a decade ago.
 

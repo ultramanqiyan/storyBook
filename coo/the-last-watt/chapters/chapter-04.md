@@ -121,7 +121,7 @@ They contacted Sarah through a secure channel. She confirmed that the neural bri
 
 "And if I don't try, billions of people die. That's not really a choice."
 
-"Mayaâ€?
+"Mayaâ€”"
 
 "Send the technology. We'll make it work."
 
@@ -133,7 +133,7 @@ Maya sat in the transport's small cabin, preparing herself for what was to come.
 
 "If this doesn't work," she said to Prometheus, "I want you to continue. Find another way to get the interface. Build the Zero Point. Finish what we started."
 
-"Mayaâ€?
+"Mayaï¿½?
 
 "Promise me."
 

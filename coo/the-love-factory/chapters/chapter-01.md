@@ -21,7 +21,7 @@ She had said it on the day she left. No shouting. No tears. Just that quiet, dev
 
 Six months had passed since the divorce.
 
-Six months of empty rooms and silent mornings. Six months of reaching for someone who wasn't there. Six months of grief that refused to fade.
+Six months had passed since the divorce—empty rooms and silent mornings, reaching for someone who wasn't there, grief that refused to fade.
 
 
 James set down the photograph and picked up his coffee.

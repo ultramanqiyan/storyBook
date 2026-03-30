@@ -40,7 +40,7 @@ The break came at 2:17 PM.
 
 James was in the break room, pouring himself a cup of coffee, when suddenly the distance between himself and his experience became infinite. He looked at his hand holding the cup and saw a stranger's hand. He felt the warmth of the coffee but couldn't connect it to himself. The room around him, the fluorescent lights, the hum of the refrigerator, the distant sound of typing, seemed to recede, becoming a stage set, a simulation, a dream.
 
-*This isn't real,* he thought. *I'm not real. None of this is real.*
+*This isn't real,* he thought. *I'm not real. Nothing here is real.*
 
 His heart began to race. His breath came in short gasps. He set down the coffee cup, no, the stranger's hand set down the cup, and gripped the edge of the counter. The coolness of the laminate was the only thing that felt remotely solid.
 

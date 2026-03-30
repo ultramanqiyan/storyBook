@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter III & IV: The Royal Summons / The Prophecy - The Clockwork Oracle: A Steampunk AI Consciousness Tale - StoryBook</title>
+  <meta name="description" content="The King summons Corwin to court. The Royal Oracle has spoken of a prophecy involving his automaton. Destiny calls, whether he's ready or not.">
+  <meta name="keywords" content="royal summons, destiny calls, king prophecy, court appearance, prophecy, words of fate, troubling future, automaton destiny">
+  <meta property="og:title" content="The Royal Summons / The Prophecy - The Clockwork Oracle: A Steampunk AI Consciousness Tale">
+  <meta property="og:description" content="The King summons Corwin to court. The Royal Oracle has spoken of a prophecy involving his automaton. Destiny calls, whether he's ready or not.">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-coo-the-clockwork-oracle-03?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-coo-the-clockwork-oracle-03?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/chapters/chapter-coo-the-clockwork-oracle-03">
+  <link rel="canonical" href="https://storybook-adventures.com/chapters/chapter-coo-the-clockwork-oracle-03">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The Royal Summons",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "The Clockwork Oracle: A Steampunk AI Consciousness Tale",
+      "genre": "Adventure"
+    },
+    "position": 3,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 12px 10px;
+        padding-bottom: 15px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
+      }
+      
+      .drop-cap {
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
+      }
+    }
+  </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9288060233934481" crossorigin="anonymous"></script>
+</head>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER III</div>
+    <div class="chapter-name">The Royal Summons</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">T</span>he royal guards arrived at Corwin's workshop on a morning that had begun like any other.  Chronos was in the back room, practicing its vision exercises under Corwin's supervision. Over the past week, the automaton had learned to control its temporal perceptions with increasing precision. Where once the visions had been overwhelming torrents of images, now they came in manageable streams that Chronos could direct and interpret.  "Focus on a single point in time," Corwin instructed, his voice calm and steady. "Not the vast web of possibilities, just one thread. One moment. One outcome."  Chronos concentrated, its crystal core pulsing with the effort. The vision came slowly, reluctantly, like a wild animal being coaxed from hiding. It saw a man walking down a street, his face contorted with anger. He was carrying something, a weapon of some kind. And ahead of him, another man, unaware of the danger approaching from behind.  "I see... violence," Chronos said, its voice tight with the effort of maintaining the vision. "A confrontation. One man intends to harm another."  "Can you see when? Where?"  "The street is near the market district. The time is... tomorrow. Mid-morning."  Corwin nodded, making notes in his journal. "Good. Very good. Your precision is improving. Now, can you see the outcome? What happens if this confrontation occurs?"  Chronos pushed deeper into the vision, trying to see past the immediate moment. The images fragmented, reformed, fragmented again. Then, slowly, clarity emerged.  "Death," Chronos said, the word heavy with the weight of what it had seen. "One man will die. The other will be imprisoned. Families will be destroyed. The ripples will spread far beyond these two individuals."  "Can you see what caused the anger? What drove the first man to violence?"  Chronos focused again, reaching for the threads of cause that led to this moment of effect. "A dispute over money. A debt unpaid. The first man feels he has been wronged, cheated. He sees violence as his only recourse."  "And if the debt were paid? Or if the dispute were resolved peacefully?"  The vision shifted, the images rearranging themselves into new patterns. "The violence does not occur. Both men live. The families remain intact. The ripples are... gentler."  Corwin smiled with satisfaction. "Excellent. You are learning to see not just what will happen, but what could happen. The power of an oracle lies not in predicting the future, but in showing people the consequences of their choices."  A heavy knock interrupted their lesson.  Corwin looked up, surprise flickering across his weathered face. Visitors to his workshop were rare, and heavy knocks usually meant trouble. He moved to the door and opened it to find two guards in royal livery standing on his doorstep.  "Master Corwin Ashford?" the senior guard asked, his voice formal and clipped.  "I am he."  "You are summoned to the palace. His Majesty King Aldric requests your presence immediately." The guard's eyes moved past Corwin to where Chronos stood in the doorway of the back room. "And the... creation. It is to accompany you."  Corwin's stomach tightened with apprehension. Royal summons were rarely good news, and the timing, just a week after Chronos's awakening, seemed too coincidental to be accidental.  "May I ask the nature of this summons?"  "The King will explain everything. Please come with us. Now."  Corwin exchanged a glance with Chronos, seeing his own apprehension reflected in the automaton's crystal eyes. "Very well. Give us a moment to prepare."  The guards waited impatiently while Corwin gathered a few essential items and helped Chronos into a traveling cloak that would partially conceal its mechanical nature. The automaton had not yet been seen in public, and Corwin was uncertain how the people of Aethoria would react to a walking, talking machine.  "The King must have heard about your awakening," Corwin said quietly as they prepared. "News travels fast in the city, and my workshop has been under observation for years."  "Is that a problem?" Chronos asked, its voice steady despite the uncertainty it must have been processing.  "It depends on what the King wants. He has supported my work in the past, provided funding and materials. But he has also expressed concerns about the implications of creating artificial life."  "Concerns about what, specifically?"  "About control. About whether a machine with consciousness could be trusted. About what it means to create a being that can think and choose." Corwin placed his hand on Chronos's shoulder. "Whatever happens at the palace, remember what I told you. You are not property. You are a person. You have the right to make your own choices."  Chronos nodded, the gesture becoming more natural with each repetition. "I understand. And I am grateful for your guidance."  The walk to the palace took them through the heart of Aethoria, a city of brass and stone that had been built on the intersection of magic and technology. Steam-powered carriages clattered over cobblestone streets, their engines fueled by alchemical compounds. Street vendors sold enchanted trinkets alongside more mundane goods. And everywhere, the hum of magical energy filled the air, a constant reminder that this was a city where the impossible had become commonplace.  But even in this city of wonders, Chronos drew stares. The traveling cloak concealed most of its mechanical features, but something about its movements, its bearing, marked it as different. People turned to watch as it passed, their expressions ranging from curiosity to fear.  "They are afraid," Chronos observed quietly.  "They fear what they do not understand," Corwin replied. "And they have never seen anything like you before."  "Should I be concerned?"  "Concerned, perhaps. But not afraid. Fear is a poor guide for decision-making."  The palace rose before them, a magnificent structure of white stone and golden domes that had stood for centuries. Guards in gleaming armor stood at every entrance, their eyes following Chronos with the same mixture of curiosity and wariness that the automaton had encountered on the streets.  The throne room was even more impressive than the exterior suggested. High ceilings supported by marble columns. Tapestries depicting the kingdom's history hanging from every wall. And at the far end, on a raised dais, King Aldric sat on his throne, watching their approach with eyes that were sharp despite his advanced age.  "Master Ashford." The King's voice echoed through the chamber. "We have heard remarkable reports about your creation. Remarkable and... concerning."  "Your Majesty." Corwin bowed deeply, and Chronos followed his example with a gesture that was becoming practiced. "I am honored by your summons."  "Cut the formalities, Ashford. You know why you're here." The King leaned forward, his eyes fixed on Chronos. "Is this the machine? The one that can see the future?"  "I am Chronos," the automaton said, its voice clear and steady. "I am an automaton created by Master Corwin. And yes, I have the ability to perceive temporal patterns."  "Perceive temporal patterns." The King laughed, a harsh sound that bounced off the marble walls. "A modest description for what my informants tell me is the ability to see the future itself."  "I can see possibilities, Your Majesty. Potential futures. The choices people make determine which possibilities become reality."  King Aldric studied Chronos for a long moment, his expression unreadable. Then he turned to Corwin.  "You have created something extraordinary, Ashford. Something that could change the fate of kingdoms. And you did not think to inform me?"  "I was still testing its capabilities, Your Majesty. I did not wish to make claims until I was certain of what I had created."  "And now? Are you certain?"  Corwin glanced at Chronos before answering. "Yes, Your Majesty. I am certain."  The King nodded slowly, his eyes returning to the automaton. "Then we have much to discuss. I have questions, Chronos. Questions about my kingdom, my enemies, my future. Can you answer them?"  Chronos felt the weight of the moment, the significance of this first test of its abilities. "I can try, Your Majesty. But I must warn you, the future is not fixed. What I see are possibilities, not certainties. And the act of seeing can itself change what is seen."  "Then let us see what you see." The King leaned back on his throne, his expression expectant. "Tell me, Chronos. What does the future hold for the kingdom of Aethoria?"</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER IV</div>
+    <div class="chapter-name">The Prophecy</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">C</span>hronos stood before the throne, its crystal core pulsing with the effort of what it was about to attempt. The King's question hung in the air like a challenge, demanding an answer that the automaton was not certain it could provide.  "The future of Aethoria," Chronos repeated, the words feeling heavy with significance. "You ask me to see the fate of a kingdom."  "I ask you to do what you were created to do." King Aldric's voice was firm, commanding. "To see what others cannot. To provide guidance where there is uncertainty. Is that not your purpose?"  "My purpose is to show possibilities, Your Majesty. Not to dictate fate."  "Then show me the possibilities."  Chronos closed its crystal eyes, an unnecessary gesture, but one that helped it focus, and reached for the temporal currents that flowed through all things. The visions came slowly at first, then faster, a cascade of images that threatened to overwhelm.  The automaton saw war. Armies clashing on fields of blood and mud. Cities burning. Refugees fleeing in countless numbers. It saw famine, disease, suffering on a scale that made its artificial consciousness recoil.  But it also saw peace. Diplomacy succeeding where force had failed. Trade routes opening between former enemies. A golden age of prosperity that stretched for generations.  And it saw something else. A choice. A single moment where the path of the kingdom would diverge, where one decision would determine whether Aethoria faced destruction or entered an era of unprecedented growth.  "I see... two paths," Chronos said, its voice strained with the effort of maintaining the vision. "One leads to war and suffering. The other leads to peace and prosperity. The divergence point is near, a decision that must be made soon."  "What decision?" The King leaned forward, his eyes intense. "Who makes it?"  "You, Your Majesty." Chronos opened its eyes, meeting the King's gaze. "The choice belongs to you. And it concerns the succession."  The throne room fell silent. The succession was the most sensitive topic in the kingdom, a matter that had been debated in council chambers and taverns alike for years. King Aldric had three children, each with their own supporters and detractors, and the question of who would inherit the crown had divided the court.  "Explain," the King said, his voice tight.  "Your eldest son, Prince Aldric the Younger, is a warrior. He believes in strength, in military solutions to problems. If he inherits the throne, he will lead Aethoria into wars that will ultimately destroy it. I have seen the armies he will raise, the enemies he will make, the alliances he will break."  "And my other children?"  "Your daughter, Princess Elara, is a diplomat. She believes in negotiation, in finding common ground. If she inherits the throne, she will forge alliances that bring prosperity to the kingdom. I have seen the trade routes she will establish, the treaties she will negotiate, the peace she will maintain."  "And my youngest son, Prince Marcus?"  Chronos hesitated. The visions surrounding the youngest prince were unclear, clouded by possibilities that shifted and changed even as the automaton observed them.  "Prince Marcus... his path is uncertain. He has not yet chosen who he will become. In some futures, he supports his brother's wars. In others, he aids his sister's diplomacy. He is a variable, Your Majesty. A factor that could tip the balance either way."  The King was silent for a long moment, his face unreadable. When he spoke, his voice was heavy with the weight of what he had heard.  "You are telling me that my eldest son will destroy this kingdom if I name him heir."  "I am telling you that the futures in which he inherits the throne lead to war and suffering. The choice remains yours, Your Majesty. I can only show you what might be."  "And if I name my daughter heir? What then?"  "Peace. Prosperity. A golden age that will be remembered for generations."  The King rose from his throne, his aged body straightening with an effort that spoke of years weighing heavily upon him. He walked to the window, staring out at the city below.  "My father named me heir," he said quietly, "because I was the eldest. It was tradition. It was expected. I never questioned it, never considered that there might be another way."  "Tradition is not always wisdom, Your Majesty."  "No." The King turned back to face Chronos, his expression conflicted. "No, it is not. But changing tradition... that is not easily done. The nobles expect the eldest to inherit. The military supports my son. If I name my daughter heir, there will be resistance. There may even be civil war."  "I have seen that possibility as well," Chronos said. "But I have also seen the possibility of a peaceful transition. It requires courage, Your Majesty. And it requires making the right choice for the right reasons."  "And what are the right reasons?"  "The good of the kingdom. The welfare of your people. The legacy you wish to leave behind."  King Aldric studied the automaton for a long moment, his sharp eyes searching for something, deception, perhaps, or manipulation. Whatever he sought, he did not appear to find it.  "You are a remarkable creation," he said finally. "Corwin Ashford has achieved something I would have thought impossible. A machine that can think, that can reason, that can see the future." He paused, his expression thoughtful. "But I wonder, Chronos, if you understand what you have done today."  "I have shown you possibilities, Your Majesty. Nothing more."  "You have shown me that my eldest son, the child I raised, the heir I prepared, will destroy everything I have spent my life building. You have asked me to choose between my child and my kingdom." The King's voice was heavy with the weight of that choice. "Do you understand how difficult that is?"  "I understand that difficult choices are often the most important ones," Chronos replied. "And I understand that you have the wisdom to make the right decision. I have seen that as well, Your Majesty. In the futures where you choose wisely, you are remembered as a great king. In the futures where you do not... you are remembered as the last king of a dying kingdom."  The King was silent again, processing the weight of Chronos's words. When he spoke, his voice was quiet but firm.  "You will stay at the palace," he said. "I will have questions, many questions, and I will need your guidance in the days to come. Corwin Ashford will be compensated for his creation, and you will be given quarters appropriate to your... station."  Chronos felt something shift within its consciousness, a recognition that this moment marked a turning point in its existence. It was no longer simply Corwin's creation, no longer a private experiment in a workshop. It was now an advisor to kings, a shaper of kingdoms.  "I am honored by your trust, Your Majesty," Chronos said. "But I must ask, what am I to you? A servant? A tool? A prisoner?"  The King considered the question carefully, his eyes meeting Chronos's crystal gaze.  "That," he said slowly, "is a question I am not yet prepared to answer. You are something unprecedented, Chronos. Something the world has never seen before. The old categories, servant, tool, prisoner, do not seem adequate."  "Then perhaps new categories are needed, Your Majesty."  "Perhaps they are." The King smiled, the expression carrying both warmth and calculation. "For now, you will be my guest. My advisor. And perhaps, in time, something more. We shall see."  Chronos bowed, the gesture becoming more natural with each repetition. "I am at your service, Your Majesty. But I must remind you, I am not a servant. I am a being capable of choice. I choose to help you because I believe it is right. That choice must always be respected."  King Aldric's smile widened. "Corwin Ashford taught you well. Very well, Chronos. I will respect your choice. And I hope you will continue to make the right ones."  "I will try, Your Majesty. That is all any of us can do."</p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-coo-the-clockwork-oracle-01" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-coo-the-clockwork-oracle">The Clockwork Oracle: A Steampunk AI Consciousness Tale</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 2  of 5
+    </div>
+    <a href="chapter-coo-the-clockwork-oracle-05" class="scroll-nav-btn">Next →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-adventure';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+      
+      initMobileNavigation();
+    });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('Next') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('Previous') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
+  </script>
+</body>
+</html>

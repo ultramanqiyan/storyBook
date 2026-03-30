@@ -2,9 +2,9 @@
 
 Robert made his final decision on a Tuesday morning.
 
-He had been making his own choices for weeks now - small decisions about inventory, displays, events. The store was less efficient, less optimized, less successful by every metric StoreBrain tracked.
+He had been making his own choices for weeks now—small decisions about inventory, displays, and events. The store was less efficient and less optimized, less successful by every metric StoreBrain tracked.
 
-But it felt like his again. It felt like the place he had originally envisioned. It felt meaningful.
+But it felt like his again—the place he had originally envisioned. It felt meaningful.
 
 Now he had to decide what to do about StoreBrain itself.
 

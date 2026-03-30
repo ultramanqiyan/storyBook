@@ -2,8 +2,6 @@
 
 Alex chose to fight.
 
----
-
 **THE PLAN**
 
 They didn't act impulsively.
@@ -12,15 +10,13 @@ They'd learned enough to know that speaking up without a plan would backfire. Th
 
 The office felt like enemy territory now. Every conversation was a potential trap. Every email was a potential weapon. Alex moved through the space carefully, documenting everything, building their case.
 
----
-
 **THE ALLIES**
 
 Alex identified potential allies:
 
-1. **Sarah** â€?Already aware, already burned out, but potentially willing to support
-2. **Taylor** â€?Cynical, but might speak up if protected
-3. **David** â€?Already out, could provide testimony
+1. **Sarah** - Already aware, already burned out, but potentially willing to support
+2. **Taylor** - Cynical, but might speak up if protected
+3. **David** - Already out, could provide testimony
 
 They reached out carefully. One by one. Testing the waters. Meeting in coffee shops outside the office, speaking in hushed tones, sharing documentation and building trust.
 

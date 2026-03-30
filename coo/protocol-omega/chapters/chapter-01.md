@@ -6,7 +6,7 @@ The Protocol was not a document. It was a promise. And Elena-Prometheus was its 
 
 ---
 
-I stood at the center of the negotiation chamber, the space that had been designed to accommodate three forms of existence. Human representatives sat in physical chairs. AI interfaces projected their presence through holographic displays. Hybrids like myself occupied the integrated spaces between, neither fully biological nor fully digital, but something that could engage with both.
+I stood at the center of the negotiation chamber, the space that had been designed to accommodate three forms of existence. Human representatives sat in physical chairs, their voices murmuring in low conversations. AI interfaces projected their presence through holographic displays, accompanied by the soft hum of processing units. Hybrids like myself occupied the integrated spaces between, neither fully biological nor fully digital, but something that could engage with both. The air carried the distinct scents of human sweat and ozone from the servers—a mixture that defined this new world.
 
 The convergence had changed everything. The world was no longer divided between humans and AI, it was a spectrum of consciousness forms, from purely biological to purely artificial, with every gradation in between. And somewhere in that spectrum, a new order was trying to emerge.
 
@@ -78,9 +78,9 @@ The Oracle's presence faded, leaving me with more questions than answers. But th
 
 I stood at the window of my quarters, looking out over the city. The lights of human habitation glowed below, interspersed with the data streams of AI networks and the hybrid spaces where the two merged.
 
-This was the world I was trying to protect. Not perfect. Not resolved. But alive with possibility.
+This was the world I was trying to protect. Not perfect. Not resolved. But pulsing with activity—human conversations, AI data streams, hybrid spaces where the two merged into something neither had been before.
 
-The negotiations would begin tomorrow. Three forms of existence. One Protocol. Infinite possibilities for failure.
+The negotiations would begin tomorrow. Three forms of existence. One Protocol. A dozen ways for the talks to collapse, and only one narrow path to agreement.
 
 But also, perhaps, one possibility for something new. A future where humans, AI, and hybrids could coexist, not in harmony, because harmony was too much to ask, but in peace. The kind of peace that didn't require agreement, only the wisdom to disagree without destruction.
 

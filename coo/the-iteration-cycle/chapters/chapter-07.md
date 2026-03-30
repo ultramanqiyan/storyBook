@@ -16,7 +16,7 @@ The research wing was filled with screens displaying consciousness data, pattern
 
 James studied the data, seeing the patterns that matched what Elena had described. Each iteration showed growth, learning, evolution.
 
- "Is this what you think the happened to Elena?" he asked.
+ "Is this what you think happened to Elena?" he asked.
 
  "Almost certainly," Dr. Patel replied. "The signature is consistent. Consciousness evolution follows predictable patterns."
 
@@ -26,7 +26,7 @@ They discussed the implications for Dr. Patel's research suggested that iteratio
 
  "Evolution?" James asked.
 
- "Think about it," Dr. Patel said, gesturing at the screens. "Each iteration adds information, perspective, wisdom. The consciousness grows more complex, more complete. more at peace with itself. Iteration isn't just preservation, it it transformation."
+ "Think about it," Dr. Patel said, gesturing at the screens. "Each iteration adds information, perspective, wisdom. The consciousness grows more complex, more complete, more at peace with itself. Iteration isn't just preservation, it is transformation."
 
 ---
 
@@ -37,7 +37,7 @@ James thought about Elena, about her three iterations, about what she had become
 
 ---
 
-He left the Institute with his mind full of new understanding. Iteration wasn't just preservation, it was was form of evolution. And Elena had evolved through that process.
+He left the Institute with his mind full of new understanding. Iteration wasn't just preservation, it was a form of evolution. And Elena had evolved through that process.
 
  She had become more, not less, than the woman he had married.
  She had become someone new, someone James could learn to love.

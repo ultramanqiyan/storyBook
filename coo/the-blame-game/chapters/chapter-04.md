@@ -139,7 +139,7 @@ David's expression was unreadable. "I appreciate that, Mark. But right now, I ne
 
 Mark walked back to his desk. His hands were shaking.
 
-He sat down and stared at his screen. His inbox was full of messages,colleagues, vendors, recruiters. But none of them mattered.
+He sat down and stared at his screen. His inbox was full of messages from colleagues, vendors, recruiters. But none of them mattered.
 
 He opened his calendar and looked at the entry from two months ago.
 

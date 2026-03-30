@@ -14,8 +14,6 @@ They'd been working as a teaching assistant for a professor who didn't remember 
 
 But this email. This could change everything.
 
----
-
 The flight to San Francisco was the first Alex had ever taken for themselves. They'd flown once before, a family trip to Florida when they were twelve, funded by tax refund money that their parents had saved for a year. But this was different. This was Meridian Tech paying for their ticket, their hotel, their chance at a new life.
 
 The Bay Area unfolded beneath them as the plane descended, rolling hills the color of dried wheat, sprawling suburbs that seemed to go on forever, the glint of water in the distance. Alex pressed their face to the window, trying to memorize everything. The cool glass against their forehead felt grounding, real. This could be home. This could be the future.
@@ -27,8 +25,6 @@ Alex had never seen anything like it. In Millbrook, the biggest employer was the
 "Alex Chen?" A woman in designer jeans and a Meridian hoodie approached. Her smile was warm, practiced, perfect. "I'm Lisa from recruiting. Welcome to Meridian."
 
 Her handshake was firm, professional. Alex tried to match it, hoping their palm wasn't too sweaty, hoping they didn't look as overwhelmed as they felt. The lobby hummed with activity, people walking purposefully, conversations happening in clusters, the soft click of laptops being opened and closed. Everything about this place whispered success.
-
----
 
 The interview process was unlike anything Alex had experienced. No technical questions. No case studies. No whiteboard coding challenges. Instead, they talked about their life story, their values, their dreams, the things that actually mattered.
 

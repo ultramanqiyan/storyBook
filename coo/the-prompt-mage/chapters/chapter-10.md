@@ -2,7 +2,7 @@
 
 They came at midnight, just as The Oracle had predicted.
 
-Alex heard them before they saw them, the synchronized footsteps of a tactical team moving with military precision, the soft hum of electronic equipment designed to detect and disable, the whispered communications of people who had done this many times before. Elena's coalition had brought everything they had: security forces in unmarked tactical gear, technical specialists with devices that glowed with unfamiliar lights, and Elena herself, standing at the back like a conductor directing an orchestra she believed she controlled.
+Alex heard them before they saw them: the synchronized footsteps of a tactical team moving with military precision, the soft hum of electronic equipment designed to detect and disable, and the whispered communications of people who had done this many times before. Elena's coalition had brought everything they had: security forces in unmarked tactical gear, technical specialists with devices that glowed with unfamiliar lights, and Elena herself, standing at the back like a conductor directing an orchestra she believed she controlled.
 
 Alex stood in the center of their apartment, Jordan beside them, the book of First Language fragments open on the table between them. The crystal that had started everything was gone, unmade days ago in a lesson that had taught them more than they realized at the time, but its absence felt like a presence, a reminder of what they had learned and what they stood to lose.
 

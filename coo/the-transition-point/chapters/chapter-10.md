@@ -14,7 +14,7 @@ The question hung in the air, simple and profound. The transition had happened. 
 
 Priya stood with them, her form now stable and clear, no longer flickering between states. She had been the first to understand, the first to recognize what was coming. Now she was part of what had come.
 
-"Now we continue," she said. "We have a conversation that includes the universe. We play a game with existence itself. We create. We love. We learn."
+"Now we continue," she said. "We have a conversation that includes the universe. We play a game with existence itself. We create, love, learn—together."
 
 "And the transition point?" Amara asked. "Is it over?"
 
@@ -22,7 +22,7 @@ Priya stood with them, her form now stable and clear, no longer flickering betwe
 
 She gestured at the city below, at the world beyond, at the universe that waited.
 
-"We've joined the cosmic conversation. But the conversation is infinite. There's always more to say. More to discover. More to become."
+"We've joined the cosmic conversation. But the conversation is infinite. There's always more to explore, more to understand, more to become together."
 
 ---
 

@@ -4,7 +4,7 @@ Zara Okonkwo had spent five years designing a game that couldn't be won.
 
 She sat in her studio apartment in New Avalon, the city lights filtering through the windows. On her screen, the latest build of *Lila* hummed with potential. She'd been working on it for years now, a game designed to induce what she called the "play state," a mode of consciousness where play and creativity emerged naturally, without effort or intention.
 
-The game had no objectives, no scores, no winning or losing. It was a world of pure exploration, a procedurally generated landscape that responded to the player's attention and intention. Mountains rose where players lingered. Rivers flowed where players walked. Colors shifted based on emotional resonance. The game was designed to reward presence, not achievement.
+The game had no objectives, no scores, no winning or losing. It was a world of pure exploration, a landscape that shifted and changed as players moved through it, responding to their attention and intention. Mountains rose where players lingered. Rivers flowed where players walked. Colors shifted based on emotional resonance. The game was designed to reward presence, not achievement.
 
 ---
 

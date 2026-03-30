@@ -2,8 +2,6 @@
 
 Alex started to question their own mind.
 
----
-
 **THE INCIDENT**
 
 It started with a small thing.
@@ -14,7 +12,7 @@ But when they arrived at his office, Marcus looked confused.
 
 "Alex, I don't have you on my calendar. Are you sure we had a meeting?"
 
-Alex pulled out their phone. "Yes, we scheduled it last week. Tuesday at 2 PM. You saidâ€?
+Alex pulled out their phone. "Yes, we scheduled it last week. Tuesday at 2 PM. You said-"
 
 Marcus shook his head. "I don't remember that. I've been in back-to-back meetings all day. I think you might be confused."
 
@@ -31,8 +29,6 @@ But Marcus was looking at them with concern. His brow furrowed, his eyes soft wi
 But Marcus's certainty made them doubt.
 
 *Did I imagine it? Am I losing my mind?*
-
----
 
 **THE PATTERN**
 

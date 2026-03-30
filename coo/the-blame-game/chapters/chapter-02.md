@@ -2,13 +2,13 @@
 
 The conference room smelled of stale coffee and tension.
 
-Mark arrived five minutes early. The room was already half-full,Sarah in her usual corner, Michael Torres from Legal reviewing something on his tablet, Jennifer Walsh from HR arranging papers with deliberate precision. David stood at the head of the table, his notebook open, his pen already moving.
+Mark arrived five minutes early. The room was already half-full: Sarah in her usual corner, Michael Torres from Legal reviewing something on his tablet, Jennifer Walsh from HR arranging papers with deliberate precision. David stood at the head of the table, his notebook open, his pen already moving.
 
 No one looked up when Mark entered. That was worse than if they had.
 
 "Good," David said, glancing at his watch. "Let's begin."
 
-Mark took the only remaining seat,directly across from David. The position felt deliberate, like a witness stand.
+Mark took the only remaining seat, directly across from David. The position felt deliberate, like a witness stand.
 
 "Thank you all for coming on short notice," David began. His voice carried the particular calm of someone who had rehearsed this moment. "As you know, we experienced a significant incident with our trading system. Eighty-seven million in losses. The board wants answers."
 
@@ -20,7 +20,7 @@ Mark's mouth went dry. "Of course."
 
 "Can you walk us through your review process for the trading algorithm that caused the incident?"
 
-Mark had prepared for this. "I received the code on March 15th. I reviewed it according to our standard protocol,structure analysis, potential issue identification, test suite execution. The code passed all tests."
+Mark had prepared for this. "I received the code on March 15th. I reviewed it according to our standard protocol: structure analysis, potential issue identification, test suite execution. The code passed all tests."
 
 "Did you read every line?"
 

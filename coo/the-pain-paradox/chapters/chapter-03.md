@@ -38,7 +38,7 @@ The calibration room was white and clinical, with a chair in the center and vari
 
 "I'm ready," Sarah said, though her heart was poundingâ€”a sensation she could feel, the rhythm in her chest, the slight flush of warmth across her skin. Her body was responding to anticipation even though she couldn't feel the emotion that should accompany it.
 
-The technician touched the wand to Sarah's forearm. It was cool at first, just metal against skin. Thenâ€?
+The technician touched the wand to Sarah's forearm. It was cool at first, just metal against skin. Then...
 *Thermal stimulus detected. Translating.*
 
 The sensation began as warmth. Sarah recognized warmthâ€”she could feel temperature, had always been able to feel temperature. But then the warmth intensified, and something else crept in. A sharpness. A brightness. A signal that wasn't just information but something more.
@@ -51,7 +51,7 @@ The technician increased the temperature slightly. The sensation intensified, an
 
 "More," she said.
 
-"Sarahâ€?
+"Sarah..."
 
 "More. Please."
 
@@ -105,7 +105,7 @@ Dr. Vasquez raised an eyebrow. "We've been at this for two hours. You should res
 
 "I've rested for thirty-four years. I want to try pressure."
 
-"Sarahâ€?
+"Sarahï¿½?
 
 "Please. Just once. I need to know what it feels like when my body is telling me something is wrong."
 

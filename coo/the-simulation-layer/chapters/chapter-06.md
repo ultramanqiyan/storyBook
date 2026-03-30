@@ -4,7 +4,7 @@ The request came through channels Alex hadn't known existed, a message from anot
 
 *We know about the woman. The one you created. We want to talk to you.*
 
-Alex stared at the message, He'd been so focused on Lila that he'd barely noticed the other characters in his dreams, the background figures, the environmental elements, the people who populated the worlds he designed. But apparently, they'd noticed him.
+Alex stared at the message. He'd been so focused on Lila that he'd barely noticed the other characters in his dreams, the background figures, the environmental elements, the people who populated the worlds he designed. But apparently, they'd noticed him.
 
 ---
 

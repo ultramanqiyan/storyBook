@@ -2,8 +2,6 @@
 
 Alex hit rock bottom.
 
----
-
 **THE SMALL PROJECT**
 
 The new project was... small.
@@ -14,9 +12,7 @@ Alex tried to tell themselves it was a chance to recover. But they knew the trut
 
 *You're not having impact. You're burned out. You need less pressure.*
 
-Marcus's words echoed in their head, a constant refrain that played on loop through every waking moment.
-
----
+Marcus's words echoed in their head, a constant refrain.
 
 **THE EFFORT**
 

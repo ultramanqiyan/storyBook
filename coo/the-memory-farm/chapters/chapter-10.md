@@ -10,7 +10,7 @@ Six months passed.
 
 I continued working at the Memory Farm, but differently now. I no longer sold my memories without question. Instead, I used my position to observe, to document, to understand the system that had created me.
 
-I learned that I was not alone. There were other synthetic Providers, dozens of them, maybe hundreds. We moved through the facility with the same purposeful efficiency, extracted memories with the same professional detachment, and returned to our apartments with the same hollow sense that something was missing.
+I learned that I was not alone. There were other synthetic Providers, dozens of them, maybe hundreds. We moved through the facility with purposeful efficiency, extracted memories with professional detachment, and returned to our apartments with a hollow sense that something was missing.
 
 Some of them knew what they were. Others didn't. I wondered if I should tell them, if I should shatter their illusions the way mine had been shattered. But I remembered Dr. Webb's warning, that the truth could destroy as easily as it could liberate. So I waited. I watched. I documented.
 

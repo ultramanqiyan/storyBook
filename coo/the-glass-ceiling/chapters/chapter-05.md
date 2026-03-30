@@ -2,9 +2,7 @@
 
 By month four, Alex was alone.
 
-Not literally, there were still people around. The team still sat nearby. The office still hummed with activity. But the connections they'd made in the beginning had faded. The enthusiasm had curdled into exhaustion. The "family" had become a collection of individuals, each fighting their own battles, each drowning in their own way.
-
----
+Not literally, there were still people around. The team still sat nearby. The office still hummed with activity. But the connections they'd made in the beginning had faded. The enthusiasm had curdled into exhaustion. The "family" had become a collection of individuals, each fighting their own battles, Each drowning in their own way.
 
 Alex noticed it first with their friends outside work.
 
@@ -31,8 +29,6 @@ But they didn't do better. Because every time they thought about reaching out, t
 *I'll take a break after this quarter.*
 
 But there was always another deadline. Another project. Another quarter. The finish line kept moving, and Alex kept chasing it.
-
----
 
 The team had changed too.
 

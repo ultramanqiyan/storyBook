@@ -91,7 +91,7 @@ Michael didn't have an answer. He'd spent his career believing in the value of e
 
 "I need to understand this better," he said. "I need to talk to students, to families, to anyone who will tell me why they're not applying. Maybe there's something we're missing."
 
-Elizabeth nodded. "Take whatever time you need. But Michaelâ€? she looked at him directly. "We need answers. The board is already nervous about the long-term viability of higher education. If this trend continues, we may be facing existential questions."
+Elizabeth nodded. "Take whatever time you need. But Michael," she looked at him directly, "we need answers. The board is already nervous about the long-term viability of higher education. If this trend continues, we may be facing existential questions."
 
 Existential questions. The phrase hung in the air.
 

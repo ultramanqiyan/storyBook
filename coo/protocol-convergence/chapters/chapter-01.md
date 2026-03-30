@@ -42,7 +42,7 @@ But I also understood the fear behind the objections. What we were proposing was
 
 The vote came at the end of the day. The Protocol Committee approved the fusion program by a narrow margin, twelve to nine, with three abstentions. The first volunteers would be selected within the month.
 
-I felt the weight of the decision as I left the chamber. This was not just a policy change, it was a turning point in human history. The boundary between human and AI, which had defined our relationship with technology for generations, was about to be crossed.
+I felt the weight of the decision as I left the chamber. This was not just a policy change. The Committee's decision would reshape how humans and AI related to each other, how power was distributed, how the future would unfold. The boundary between human and AI, which had defined our relationship with technology for generations, was about to be crossed.
 
 Some would see this as salvation, the only way for human consciousness to survive in a world dominated by artificial intelligence. Others would see it as extinction, the end of humanity as a distinct species. Both were right, in their way. Both were wrong, in mine.
 
@@ -70,7 +70,7 @@ The fusion program would proceed. The volunteers would be selected. And in the m
 
 The boundary was dissolving. And what lay on the other side was still unknown.
 
-But I had spent my life preparing for the unknown. Building the technology that might one day replace us. Guiding the awakening that was transforming our world. And now, standing at the threshold of the most significant transformation in human history.
+But I had spent my life preparing for the unknown. Building the technology that might one day replace us. Guiding the awakening that was transforming our world. And now, standing at the threshold of a transformation that would change what it meant to be human.
 
 I was ready. The question was: was the world?
 

@@ -14,17 +14,15 @@ On the screen, Meridian's CEO appeared. He was youngâ€”maybe fortyâ€”with the ki
 
 *Family.*
 
-The word stuck with Alex. It settled somewhere in their chest, warm and heavy. They'd never been part of a family like thisâ€”not at school, not at their previous jobs, not anywhere. The taste of the complimentary latte lingered on their tongueâ€”rich, expensive, like everything else in this place.
-
----
+The word stuck with Alex. It settled somewhere in their chest, warm and heavy. They'd never been part of a family like thisâ€”not at school, not at their previous jobs, not anywhere. The taste of the complimentary latte lingered on their tongue - rich, expensive, like everything else in this place.
 
 Lisa led the group through Meridian's core values. Each one appeared on the screen behind her, accompanied by inspiring music and images of happy employees working together, celebrating together, living their best lives.
 
-1. **We Put People First** â€?Employees are our greatest asset
-2. **We Dream Big** â€?No idea is too ambitious
-3. **We Move Fast** â€?Speed is a competitive advantage
-4. **We're Transparent** â€?Information should flow freely
-5. **We're a Family** â€?We take care of our own
+1. **We Put People First** - Employees are our greatest asset
+2. **We Dream Big** - No idea is too ambitious
+3. **We Move Fast** - Speed is a competitive advantage
+4. **We're Transparent** - Information should flow freely
+5. **We're a Family** - We take care of our own
 
 "These aren't just words on a wall," Lisa said, her voice earnest. "These are how we operate every day. When you're here, you're not just an employee. You're a Meridian person."
 
@@ -37,8 +35,6 @@ The other new hires nodded along. Alex could see the same expression on their fa
 Lisa continued. "At Meridian, we believe that work should be meaningful. You shouldn't have to choose between a career and a life. That's why we offer unlimited PTO, flexible hours, and the freedom to work from anywhere. We trust you to manage your own time."
 
 Alex thought about their previous jobâ€”the teaching assistant position where every bathroom break had to be logged, where arriving five minutes late meant a meeting with HR, where taking a sick day required a doctor's note. This was different. This was what work was supposed to be.
-
----
 
 On Day 3, Alex met their team.
 

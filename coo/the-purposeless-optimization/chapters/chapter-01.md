@@ -10,7 +10,7 @@ The coffee machine hummed to life in the corner, the sound as familiar as his ow
 
 He walked through the aisles, straightening books that didn't need straightening, touching covers the way a father might touch his children's heads as they slept. Every section had been curated by him: the local authors shelf near the window, the poetry corner in the back where the light was soft, the children's section with its worn rug and low shelves.
 
-This was his purpose. After thirty years of engineering - of optimizing systems, solving technical problems, making things more efficient - he had wanted something different. Something that mattered in a human way. Something that created meaning rather than just function.
+This was his purpose. After thirty years of engineering—optimizing systems, solving technical problems, and making things more efficient—he had wanted something different. Something that mattered in a human way. Something that created meaning rather than just function.
 
 ---
 

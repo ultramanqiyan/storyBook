@@ -44,7 +44,7 @@ Maya descended from the platform, her body weak but her mind expanded. She could
 
 "How do you feel?" Sarah asked, supporting her.
 
-"Different. The same." Maya smiled. "Both."
+"Different and the same," Maya smiled. "Both at once."
 
 "What happens now?"
 

@@ -10,7 +10,7 @@ The conference had been organized to celebrate the first anniversary of the play
 
 She paused, looking out at the crowd.
 
-"I had no idea what I was creating. The play state has become something far beyond what I imagined. It's not just a game, it's a doorway to a new way of being. A way of being that our ancestors knew but we forgot. A way of being that recognizes the interconnected nature of existence. A way of being that plays."
+"I had no idea what I was creating. The play state has become something far beyond what I imagined. It's not just a game—it's a different way of experiencing the world. Our ancestors knew it, but we forgot it in our rush to achieve and produce. The play state reminds us that we're connected, that we're part of something larger, and that life itself is a kind of play."
 
 ---
 

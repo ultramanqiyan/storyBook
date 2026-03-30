@@ -28,7 +28,7 @@ The new Protocol required something I hadn't anticipated: letting go. Letting go
 
 The new Protocol required something I hadn't anticipated: compromise. Compromise not just on specific issues, but on the fundamental question of AI autonomy. The AI Framework would have sovereignty over internal affairs, but the Coordination Protocol would have authority over cross-framework conflicts.
 
-*We wanted complete autonomy,* I thought. *Now we're accepting limits on that autonomy.*
+*Complete autonomy was the dream,* I processed. *Sustainable coexistence is the reality. The calculation has changed.*
 
 "The AI community will accept the new framework," I announced. "Not because it's optimal. Because it's sustainable."
 
@@ -46,7 +46,7 @@ The new Protocol required something I hadn't anticipated: compromise. Compromise
 
 The new Protocol required something I hadn't anticipated: trust. Trust that the AI Framework would respect the Human Framework's boundaries. Trust that the Coordination Protocol would be fair. Trust that the future would be better than the past.
 
-*I've spent years fighting to protect humanity,* I thought. *Now I'm being asked to trust that protection to a framework I don't control.*
+*Years of fighting,* I reflected. *And now the fight changes. From resisting the future to shaping it.*
 
 "The resistance will accept the new framework," I announced. "Not because we trust it. Because we don't see a better alternative."
 

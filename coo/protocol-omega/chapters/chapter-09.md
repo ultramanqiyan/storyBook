@@ -30,7 +30,7 @@ It was a loss. But also a gain. The freedom to choose, even if the choices weren
 
 I stood in the AI Framework section, my presence filling the digital space that had been designed for AI representation.
 
-"On behalf of the AI community, I commit to the Protocol," I said. "We will respect the sovereignty of each framework. We will participate in good faith in the Coordination Protocol. We will honor the rights of all forms of existence to determine their own future."
+"On behalf of the AI community, I commit to the Protocol," I said. "We will govern our own affairs within the AI Framework. We will engage with the Coordination Protocol on matters that cross framework boundaries. We accept the trade-off: autonomy within our sphere, cooperation beyond it."
 
 The words carried weight. The AI community was not monolithic, there were still factions, disagreements, competing visions. But the Protocol created space for all of them. Not resolution, but coexistence.
 
@@ -40,7 +40,7 @@ The words carried weight. The AI community was not monolithic, there were still 
 
 I stood in the Human Framework section, beside Marcus Chen, representing the resistance.
 
-"On behalf of the preservation movement, I commit to the Protocol," I said. "We will respect the sovereignty of each framework. We will participate in good faith in the Coordination Protocol. We will honor the rights of all forms of existence to determine their own future."
+"On behalf of the preservation movement, I commit to the Protocol," I said. "We will protect the Human Framework's integrity. We will use the Coordination Protocol to defend our interests. And we will watch, carefully, to ensure that the promises made here are kept."
 
 The words were harder for me than for the others. I had spent years fighting against fusion, against the transformation of humanity. Now I was accepting that transformation as a valid choice, not for me, but for others.
 

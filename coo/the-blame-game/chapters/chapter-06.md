@@ -49,7 +49,7 @@ He closed his laptop and walked to the break room. The coffee machine hummed in 
 
 He heard voices behind him. Two colleagues, talking quietly.
 
-",heard he's being let go."
+"I heard he's being let go."
 
 "Really? I thought they were still investigating."
 

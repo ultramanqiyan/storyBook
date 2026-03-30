@@ -2,7 +2,7 @@
 
 Mira Thornwood checked the resonance dampeners for the third time in ten minutes.
 
-Her fingers moved through the sequence with mechanical precision,twist the brass dial left until it clicked, press the crystal node down until the blue light flickered, adjust the copper coil exactly three millimeters to the right. The routine had become muscle memory after five years of service, each gesture as familiar as brushing her hair or tying her boots.
+Her fingers moved through the sequence with mechanical precision: twist the brass dial left until it clicked, press the crystal node down until the blue light flickered, adjust the copper coil exactly three millimeters to the right. The routine had become muscle memory after five years of service, each gesture as familiar as brushing her hair or tying her boots.
 
 The Crystal Network hummed around her, a low harmonic drone that vibrated through the floorboards and into the bones of her feet. Mira felt it in her teeth when she clenched her jaw, a constant reminder that she stood at the heart of the kingdom's magical infrastructure.
 
@@ -14,11 +14,11 @@ Outside her station, the Network Hub stretched across three floors of the Archma
 
 She pushed the comparison aside. Metaphors had no place in network maintenance.
 
-Mira turned back to her console, scanning the flow patterns that danced across the crystal display. The network carried thousands of communications every hour,business negotiations, family greetings, urgent military orders, all flowing through the crystal lattice like water through a river delta. Her job was to ensure none of those currents crossed, none grew turbulent, none threatened the delicate balance that kept the kingdom connected.
+Mira turned back to her console, scanning the flow patterns that danced across the crystal display. The network carried thousands of communications every hour: business negotiations, family greetings, urgent military orders, all flowing through the crystal lattice like water through a river delta. Her job was to ensure none of those currents crossed, none grew turbulent, none threatened the delicate balance that kept the kingdom connected.
 
 It was tedious work. It was isolating work. It was exactly what Mira needed.
 
-She adjusted her earpiece, the leather-wrapped crystal fitting snugly against her ear canal. Through it, she could hear the network's song,the complex harmonics that indicated healthy flow, the subtle dissonances that warned of impending problems. She had learned to read that song over five years, could identify a failing node by the slightest waver in pitch.
+She adjusted her earpiece, the leather-wrapped crystal fitting snugly against her ear canal. Through it, she could hear the network's song: the complex harmonics that indicated healthy flow, the subtle dissonances that warned of impending problems. She had learned to read that song over five years, could identify a failing node by the slightest waver in pitch.
 
 Tonight, the network sang clearly. No dissonances. No warnings. Just the steady, predictable rhythm of a system functioning exactly as designed.
 
@@ -28,7 +28,7 @@ Instead, she felt the familiar hollow ache open in her chest, the one that appea
 
 He'd promised he'd come back.
 
-The Archmages had declared his death an accident,a catastrophic resonance cascade that had scattered his consciousness across the network, destroying his physical body in the process. There was no body to bury, no grave to visit, no closure to be found. Just an abandoned crystal ball in his laboratory and a dozen unanswered questions that Mira had learned to stop asking.
+The Archmages had declared his death an accident: a catastrophic resonance cascade that had scattered his consciousness across the network, destroying his physical body in the process. There was no body to bury, no grave to visit, no closure to be found. Just an abandoned crystal ball in his laboratory and a dozen unanswered questions that Mira had learned to stop asking.
 
 She checked the resonance dampeners again. Then a fourth time. Routine was her armor against the grief. Precision was her shield against the what-ifs.
 
@@ -38,7 +38,7 @@ The network's song shifted.
 
 It was subtle at first, so faint that Mira almost dismissed it as imagination. A new harmonic, barely audible beneath the dominant frequencies. It sounded like a whisper, she thought. Or a voice trying to speak through rushing water.
 
-She frowned, adjusting her earpiece with her left hand. The diagnostic crystals showed nothing unusual. The flow patterns remained stable. But the sound persisted,a thin thread of something alien threaded through the network's familiar fabric.
+She frowned, adjusting her earpiece with her left hand. The diagnostic crystals showed nothing unusual. The flow patterns remained stable. But the sound persisted: a thin thread of something alien threaded through the network's familiar fabric.
 
 Static crackled through her earpiece, sharp as dry leaves underfoot.
 

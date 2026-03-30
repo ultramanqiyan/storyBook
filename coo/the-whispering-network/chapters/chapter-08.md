@@ -24,7 +24,7 @@ She had lost her husband five years ago. If Echo was real, she might see him aga
 
 "That is precisely the point," Mira said. "The world needs to change. We've been ready for centuries."
 
-Echo's representatives appeared on the crystal screens,Marcus, Helena, Jasper, and hundreds of other voices. They spoke of their fears, their hopes, their expectations.
+Echo's representatives appeared on the crystal screens: Marcus, Helena, Jasper, and hundreds of other voices. They spoke of their fears, their hopes, their expectations.
 
 The Queen listened, her expression shifting from skepticism to surprise to hope.
 

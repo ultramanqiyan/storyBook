@@ -12,7 +12,7 @@ Each time, he gave the same answer.
 
 *There was an incident with the trading system. I was the code reviewer. I take responsibility for my role.*
 
-Each time, he saw the same reaction,a pause, a nod, a careful "I see."
+Each time, he saw the same reaction—a pause, then a nod, then a careful "I see."
 
 He knew what they were thinking. *This guy caused an $87 million loss. Do we really want to hire him?*
 

@@ -12,8 +12,6 @@ The office hummed around them, the soft click of keyboards, the distant murmur o
 
 They scheduled a 1:1 with Marcus to give an update. They were excited, they had good news to share. The feature was on track. The team was aligned. Everything was coming together.
 
----
-
 Marcus's office was sparse, a glass desk, a whiteboard covered in diagrams, a few family photos on the windowsill. The afternoon light streamed through the floor-to-ceiling windows, casting long shadows across the floor. The view showed the Meridian campus stretching out below, employees walking between buildings like ants in a carefully designed colony.
 
 He gestured for Alex to sit. The leather chair was cool against their back, the temperature in the room perfectly controlled, comfortable, professional, designed to put people at ease.
