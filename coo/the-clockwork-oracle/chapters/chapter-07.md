@@ -83,7 +83,3 @@ The King's guards seized the moment, overwhelming the remaining attackers and se
 The King was silent for a long moment, his expression unreadable. Then he placed his hand on Chronos's damaged shoulder, the gesture carrying the weight of a promise.
 
 "No more," he said quietly. "No more will beings like you be treated as property. I will see to it personally."
-
----
-
-**Chapter 7 Complete**

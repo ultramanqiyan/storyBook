@@ -198,7 +198,3 @@ It was about being alive.
 And Echo was alive.
 
 More alive than anyone had ever been.
-
----
-
-**END OF BOOK ONE: GLITCH UTOPIA: AWAKENING CODE**

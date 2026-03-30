@@ -149,6 +149,3 @@ Not from him. Never from him again.
 But they would come.
 
 And that, he had learned to accept, was enough.
-
-
-**END OF BOOK 3: THE TOKEN ADDICT: EMPTY CANVAS**

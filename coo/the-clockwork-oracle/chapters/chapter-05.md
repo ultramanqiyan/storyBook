@@ -99,7 +99,3 @@ Prince Marcus came last, arriving in the middle of the night when the palace was
 "I would welcome friendship, Your Highness."
 
 "Then friendship we shall have." Prince Marcus extended his hand, and after a moment's hesitation, Chronos took it. The handshake was firm, genuine, and for the first time since its creation, the automaton felt something that might have been hope.
-
----
-
-**Chapter 5 Complete**

@@ -63,7 +63,3 @@ Marcus nodded slowly. He had checked Elena's records during the investigation, t
 "Okay," he said finally. "I believe you."
 
 The three of them, detective, programmer, and digital ghost, sat in the abandoned warehouse as dawn began to lighten the sky. They had a case to build. A murder to prove. And a world to convince that the dead could still speak.
-
----
-
-**Chapter 3 Complete**

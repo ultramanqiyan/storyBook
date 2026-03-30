@@ -196,6 +196,3 @@ The sun was setting, painting the sky in oranges and purples. The Silicon Valley
 He pulled out his phone and texted Sarah: *Coming home. Love you.*
 
 Then he took one more look at the skyline, the future, uncertain but no longer terrifying. He walked back inside, ready for whatever came next.
-
-
-**END OF BOOK ONE: THE SLOW REPLACEMENT**

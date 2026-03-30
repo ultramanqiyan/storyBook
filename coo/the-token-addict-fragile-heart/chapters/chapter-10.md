@@ -57,5 +57,3 @@ Not because it was easy, it wasn't. Not because it was optimized, it wasn't. But
 *This is where I start*, he thought. *This is where I become emotionally strong again. Not by avoiding fragility, but by accepting it and growing through it.*
 
 The heart was still fragile. But it was also alive. And that, Marcus realized, was what mattered.
-
-**END OF BOOK 6: THE TOKEN ADDICT: FRAGILE HEART**

@@ -46,6 +46,3 @@ Not optimized. Not efficient. Not easy.
 Just his. His judgment. His conscience. His humanity.
 
 And that, he realized, was enough.
-
-
-**END OF BOOK 7: THE TOKEN ADDICT: BLURRED LINE**

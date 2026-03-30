@@ -125,7 +125,3 @@ And Yuki watched it, finally at peace with the question that had no answer, beca
 She did not know what came next. She did not know what she was.
 
 But she was here. And she was watching. And perhaps, when all was said and done, that was enough.
-
----
-
-**END OF BOOK ONE: THE PATTERN WITHIN**

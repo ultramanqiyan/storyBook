@@ -101,7 +101,3 @@ Maya Rodriguez had found the frequency. She'd learned to hear it. And now, she w
 The universe was singing. And humanity was finally part of the chorus.
 
 ---
-
----
-
-**End of Book 8: The Cosmic Frequency**

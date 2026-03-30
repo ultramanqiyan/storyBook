@@ -85,7 +85,3 @@ Chronos closed its crystal eyes, reaching for the temporal currents that had bec
 It opened its eyes, meeting the gazes of the friends who had stood by it through the trial.
 
 "It is a good future," Chronos said. "And I will do everything in my power to help create it."
-
----
-
-**Chapter 8 Complete**

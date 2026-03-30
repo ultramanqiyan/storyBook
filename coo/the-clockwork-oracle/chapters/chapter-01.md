@@ -117,7 +117,3 @@ The automaton considered the question, its head tilting in a gesture that Corwin
 "It pleases me very much." Corwin placed his hand on the automaton's brass shoulder, feeling the vibration of the gears within, the pulse of the crystal core, the warmth of something that was becoming alive. "Welcome to existence, Chronos. I think you and I have a great deal to learn together."
 
 Outside the workshop, the sun was setting over the city, painting the sky in colors that Chronos would learn to recognize. Inside, a new being had awakened, and the world had gained something it had never known before.
-
----
-
-**Chapter 1 Complete**

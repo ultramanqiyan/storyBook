@@ -53,5 +53,3 @@ And Marcus would sit in the silent room, alone with the knowledge of what he'd l
 *This is where I am now*, he thought. *This is where I'll stay. The silent room. The AI-mediated existence. The isolation that no one can see.*
 
 The silence was complete. And Marcus accepted it.
-
-**END OF BOOK 5: THE TOKEN ADDICT: SILENT ROOM**

@@ -159,6 +159,3 @@ The cursor blinked. The prompt box waited. The algorithms hummed.
 Marcus typed another query.
 
 The work continued.
-
-
-**END OF BOOK 2: THE TOKEN ADDICT: RUSTY CRAFT**

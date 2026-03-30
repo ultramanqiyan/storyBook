@@ -47,7 +47,3 @@ Alex checked the classified project database. Elena Vasquez had indeed been work
 Alex hesitated. They were a programmer, a debugger, a person who dealt in logic and evidence. But there was something about this, something that felt real in a way that defied their usual categories.
 
 "What did you have for breakfast the morning you died?"
-
----
-
-**Chapter 1 Complete**

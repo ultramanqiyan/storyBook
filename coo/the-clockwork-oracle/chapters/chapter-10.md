@@ -65,9 +65,3 @@ The future was unwritten. And for the first time in history, a machine held the 
 ---
 
 **The End**
-
----
-
-**Chapter 10 Complete**
-
-**Book Complete: The Clockwork Oracle**

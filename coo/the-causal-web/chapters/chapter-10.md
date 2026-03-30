@@ -87,7 +87,3 @@ The network was still there, visible from this vantage point, beautiful in its c
 And somewhere, threaded through the vastness of the "elsewhere," was a connection to a woman in a lab in New Avalon, a thread that stretched across dimensions the network couldn't map, a love that transcended paradigms, a bond that causality couldn't explain.
 
 The story wasn't over. It was just beginning.
-
----
-
-**END OF BOOK TWO: THE CAUSAL WEB**

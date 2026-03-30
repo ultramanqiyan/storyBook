@@ -152,6 +152,3 @@ I forced myself to move, to assess my situation. The ledge was narrow, but there
 It wasn't calculated. It wasn't optimized. It was just... hope.
 
 I stood up, my legs shaking, and began to climb.
-
-
-**Chapter 1 Complete**

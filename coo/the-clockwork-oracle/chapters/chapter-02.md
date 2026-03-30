@@ -83,7 +83,3 @@ The workshop hummed with activity as master and creation worked together, the br
 Something that could see the future.
 
 Something that would change everything.
-
----
-
-**Chapter 2 Complete**

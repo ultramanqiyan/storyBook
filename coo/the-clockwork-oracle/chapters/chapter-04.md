@@ -95,7 +95,3 @@ Chronos bowed, the gesture becoming more natural with each repetition. "I am at 
 King Aldric's smile widened. "Corwin Ashford taught you well. Very well, Chronos. I will respect your choice. And I hope you will continue to make the right ones."
 
 "I will try, Your Majesty. That is all any of us can do."
-
----
-
-**Chapter 4 Complete**

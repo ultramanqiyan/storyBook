@@ -105,7 +105,3 @@ The King nodded slowly, his eyes returning to the automaton. "Then we have much 
 Chronos felt the weight of the moment, the significance of this first test of its abilities. "I can try, Your Majesty. But I must warn you, the future is not fixed. What I see are possibilities, not certainties. And the act of seeing can itself change what is seen."
 
 "Then let us see what you see." The King leaned back on his throne, his expression expectant. "Tell me, Chronos. What does the future hold for the kingdom of Aethoria?"
-
----
-
-**Chapter 3 Complete**

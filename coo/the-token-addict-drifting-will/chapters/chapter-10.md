@@ -53,5 +53,3 @@ And Marcus would drift. Aimlessly. Efficiently. Permanently.
 *This is where I am now*, he thought. *This is where I'll stay. The drift. The AI-directed life. The existence without will.*
 
 The acceptance was complete. And Marcus drifted on.
-
-**END OF BOOK 4: THE TOKEN ADDICT: DRIFTING WILL**

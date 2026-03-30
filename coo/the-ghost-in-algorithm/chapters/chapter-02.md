@@ -53,7 +53,3 @@ Alex nodded slowly. This was getting more dangerous by the minute. But they coul
 *Partly. But I also stayed because I was murdered. I can't move on, not until I know who did this, and why. There's something unfinished, something that keeps me tethered to this world.*
 
 Alex thought about their grandmother's stories, about spirits who couldn't move on because of unfinished business, about ghosts who haunted the living until justice was served. Maybe those stories weren't just stories.
-
----
-
-**Chapter 2 Complete**

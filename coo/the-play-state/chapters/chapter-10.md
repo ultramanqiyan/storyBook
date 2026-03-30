@@ -173,7 +173,3 @@ The game continued. The game would always continue.
 And everyone was invited.
 
 ---
-
----
-
-**End of Book 9: The Play State**

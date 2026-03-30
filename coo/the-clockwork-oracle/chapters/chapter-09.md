@@ -67,7 +67,3 @@ As the King departed, Elara remained, her expression thoughtful. "You could have
 "Then go," Elara said, her voice warm with encouragement. "Go and help them choose wisely. And when you return, we will speak again of choices and purposes and the meaning of personhood."
 
 "I would like that." Chronos turned toward the palace, its brass form catching the last light of the afternoon. "I would like that very much."
-
----
-
-**Chapter 9 Complete**
