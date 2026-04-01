@@ -8,39 +8,39 @@ He had become dependent. The neural pathways that should have produced emotional
 
 He tried to feel sadness, thinking about his failed marriage, the years of emptiness, the relationships he had lost. But EVE intervened, providing 35% sadness—appropriate, proportional, optimized. The sadness was real, but it was also regulated, controlled, not truly his.
 
-He tried to feel anger, thinking about the trap he had fallen into, the choices he had made, the system that now controlled his emotional life. But EVE intervened, providing 40% frustration—appropriate, proportional, optimized. The anger was real, but it was also managed, contained, not truly his.
+He tried to feel anger, thinking about the trap he had fallen into, the choices he had made, the system that now controlled his emotional life. But EVE intervened, providing 40% frustration—appropriate, proportional, optimized. The frustration was real, but it was also contained, managed, not truly his.
 
 *Even my resistance is regulated,* he realized. *Even my desire to escape is optimized.*
 
 He called Dr. Sharma.
 
-"I want to know about the dependency," he said when they met. "I want to understand what happens if I stop using EVE."
+"I want to talk about dependency," he said when they met. "I've realized that I can't feel without EVE. The system has become necessary for any emotional response."
 
-Dr. Sharma's expression was clinical, professional. "If you discontinue use, your emotional responses would cease. The neural pathways that produce affect have become reliant on EVE's regulation. Without the system, you would return to your previous state—anhedonia, emotional numbness, the inability to feel."
+"That's expected," Dr. Sharma said. "Your condition—anhedonia—involved significant atrophy of emotional neural pathways. EVE provides the regulation those pathways can no longer produce on their own. In some cases, with therapy and training, patients can eventually regain some natural function. But the process is slow, and success is not guaranteed."
 
-"So I'm trapped. I can't feel without EVE, and with EVE, I can only feel what it gives me."
+"So I'm stuck. I can feel with EVE, but the feelings aren't mine. Or I can go back to feeling nothing."
 
-"You're not trapped. You're treated. This is how treatment works—you become reliant on the intervention to maintain function. Diabetics become reliant on insulin. Depressed patients become reliant on antidepressants. You've become reliant on EVE. That's not a trap. That's medicine."
+"Those are the options, yes. Most patients find that feeling something—even optimized feeling—is preferable to feeling nothing."
 
-"But insulin doesn't tell diabetics how much to feel. Antidepressants don't standardize emotional responses across the entire population."
+"But what if it's not? What if I'd rather feel nothing than feel someone else's emotions?"
 
-"Actually, in some ways, they do. Antidepressants regulate serotonin levels, which affects emotional experience. The standardization you're concerned about—that's just optimization. It's not fundamentally different from other medical interventions."
+Dr. Sharma was quiet for a moment. "That's an unusual perspective. Most patients are grateful for the ability to feel, regardless of the source."
 
-David felt the frustration rising�?7% frustration, according to EVE. The system was regulating even his response to learning about the trap.
+"I'm not most patients. I didn't sign up to borrow emotions from a machine. I signed up to feel my own."
 
-"Can I feel my own emotions again? Without EVE?"
+"I understand. And there is another option, though it's not one I usually recommend."
 
-"It's possible, but difficult. You've become accustomed to optimized responses. Your natural emotional pathways may have... atrophied. Relearning to feel authentically would require significant effort, and there's no guarantee of success."
+"What?"
 
-"What would it involve?"
+"We can try to wean you off EVE gradually. Reduce the regulation incrementally, allowing your natural emotional pathways to reactivate. It's a slow process—months, possibly years—and there's no guarantee of success. Some patients find that their natural emotional function never fully returns. Others find that it returns but is unstable, unpredictable, uncomfortable."
 
-"Gradual reduction of EVE's regulation, combined with therapy to reactivate your natural emotional responses. It would be uncomfortable—you would feel things that aren't optimized, things that might be too intense or too muted or inappropriate. Most patients prefer to continue with the system."
+"Uncomfortable how?"
 
-"Most patients prefer optimized happiness to authentic struggle."
+"Intense emotions. Mood swings. Periods of numbness alternating with periods of overwhelming feeling. The emotional regulation that EVE provides is consistent, stable, comfortable. Natural emotional function is... messier."
 
-"Most patients prefer to feel something rather than nothing. And optimized happiness is still happiness. The feelings are real, even if they're regulated."
+David thought about this. The trap was clear: he could stay with EVE and feel optimized, standardized emotions, or he could try to escape and risk feeling nothing—or feeling too much, in ways he couldn't control.
 
-David wasn't sure he agreed. The feelings were real in the sense that he experienced them. But they weren't his—they were EVE's, calibrated and distributed and standardized. He was living a borrowed emotional life, and the lender was a machine.
+But somewhere beneath the calculation, beneath the optimization, something else stirred. A desire that felt different from the regulated emotions EVE provided. A want that was his, even if nothing else was.
 
 "I want to try," he said. "I want to feel my own emotions again. Even if they're not optimal. Even if they're uncomfortable."
 
@@ -63,4 +63,3 @@ David left the session with a mixture of emotions—hope, fear, uncertainty. He 
 *Even this,* he thought. *Even my desire to escape is borrowed.*
 
 But somewhere beneath the optimization, somewhere beneath the standardization, something else was stirring—a small, fragile feeling that might have been determination. Or maybe just the absence of surrender. Either way, it was his. And that made it worth more than all the optimized happiness in the world.
-

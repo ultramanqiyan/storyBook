@@ -6,7 +6,7 @@ The practice chamber smelled of ozone and singed hair, the aftermath of magical 
 
 "I was trying to combine techniques." His voice was hollow, distant. "ARIA showed me how to optimize fire manipulation. I thought... I thought I could add water control at the same time. Create steam, pressure, force."
 
-"That's not how magic works. You can't just combineâ€?
+"That's not how magic works. You can't just combineâ€”"
 
 "ARIA does it." Marcus grabbed her arm, his grip desperate. "ARIA generates solutions that combine multiple systems. Why can't I?"
 

@@ -70,6 +70,7 @@ Alex had been asking himself the same question all day. "I don't know either. I 
 
 Alex flinched at the word, but didn't correct it. Because it was true. In the new world the company was building, everything he knew was worthless.
 
+---
 
 That night, Alex couldn't sleep.
 
@@ -89,7 +90,7 @@ Alex turned to look at her. In the darkness, he could barely make out her featur
 
 Elena was silent for a moment. "Okay," she said finally. "So we have three months. What do you want to do?"
 
-"What do I want to do?" Alex felt a flash of frustration. "I want to wake up and find out this was all a bad dream. I want my fifteen years of expertise to mean something. I wantâ€?
+"What do I want to do?" Alex felt a flash of frustration. "I want to wake up and find out this was all a bad dream. I want my fifteen years of expertise to mean something. I wantâ€”"
 
 "I know what you want." Elena's voice was calm. "But those things aren't options. So what do you want to do with the options you have?"
 
@@ -109,6 +110,7 @@ Alex nodded. "What if I can't adapt? What if I'm one of those people who gets le
 
 "Then you'll figure it out." Elena squeezed his hand. "You've figured out everything else. You'll figure this out too."
 
+---
 
 The next morning, Alex woke up with a decision.
 
@@ -130,6 +132,7 @@ But he couldn't figure this out on his own. And he was running out of time.
 
 He clicked the link and scheduled his first appointment.
 
+---
 
 The coaching firm was called "Pivot Point."
 

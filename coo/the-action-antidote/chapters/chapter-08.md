@@ -10,7 +10,7 @@ She was doing something. Something visible. Something that mattered.
 
 The work felt good. For three days, Sarah dove into the project, her skills clicking into place like puzzle pieces she'd forgotten she had. The research spiral that had plagued her for months transformed into something useful—she could analyze data, spot patterns, synthesize information. She'd just been directing those skills at the wrong target: herself.
 
-Now she had a target that wasn't her own anxiety. A client presentation. A strategy document. A timeline that needed managing. The keyboard clicked steadily under her fingers, and the words appeared on screen like evidence of her capability.
+Now she had a target that wasn't her own anxiety. A client presentation. A strategy document. A timeline that needed managing. The keyboard clicked steadily under her fingers, and words appeared on screen like evidence of her capability.
 
 She was contributing. She was visible. She was doing something.
 
@@ -40,12 +40,13 @@ Sarah stared at the screen. "Different direction?"
 
 The call ended. Sarah sat staring at her blank screen. She'd tried so hard. And it hadn't been enough.
 
+---
 
 The apartment felt smaller that night. Sarah sat on her couch, the TV off, the silence heavy. The voice was back, louder than it had been in weeks.
 
-*See? it said. This is what happens when you try. You fail. You should have stayed safe.*
+*See?* it said. *This is what happens when you try. You fail. You should have stayed safe.*
 
-She almost listened. She almost opened her laptop and drafted the email to her manager�?I'm sorry I couldn't deliver. I understand if you don't want to give me another opportunity.* She almost retreated to the familiar comfort of self-criticism.
+She almost listened. She almost opened her laptop and drafted the email to her manager—*I'm sorry I couldn't deliver. I understand if you don't want to give me another opportunity.* She almost retreated to the familiar comfort of self-criticism.
 
 But then she thought about the garden. About Elena's words. About David's wisdom. About the three keys she'd collected: *Resistance is normal. You don't have to be ready. The voice gets louder right before it loses.*
 
@@ -53,6 +54,7 @@ The voice was screaming. Did that mean she was close to something?
 
 Tomorrow was Saturday. Garden day. She'd go. She'd talk to Elena. Maybe there was something to learn here.
 
+---
 
 Saturday morning, Sarah went to the garden. She didn't want to talk about what happened, but Elena saw it in her face.
 
@@ -96,8 +98,9 @@ Sarah looked at Elena with new eyes. She'd assumed the older woman had always be
 
 "How did you keep going?" Sarah asked.
 
-"One day at a time. One small action at a time. I showed up here, just like you did. I put my hands in dirt. I talked to people. I learned that failure isn't the end." Elena stood, brushing off her knees. "You fell forward, Sarah. That's the only way to move. The question is: what's your next step?"
+"One day at a time. One small action at a time. I showed up here. Just like you did. I put my hands in dirt. I talked to people. I learned that failure isn't the end." Elena stood, brushing off her knees. "You fell forward, Sarah. That's the only way to move. The question is: what's your next step?"
 
+---
 
 She went home and added Elena's words to her collection: "You fell forward. That's the only way to move."
 

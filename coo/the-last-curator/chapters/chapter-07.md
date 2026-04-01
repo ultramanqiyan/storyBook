@@ -12,7 +12,7 @@ Or so he'd thought, until his phone rang.
 
 Helen Marsh's voice was tight, controlled. The voice of someone delivering bad news.
 
-"No, I haven'tâ€?
+"No, I haven'tâ€”"
 
 "There's a story. About Jimmy. About his 'process.'" A pause. "And about you."
 
@@ -100,7 +100,7 @@ He couldn't lie. Not to her. Not anymore.
 
 Marcus felt the words like a physical blow.
 
-"Helen, I can explainâ€?
+"Helen, I can explainâ€”"
 
 "There's nothing to explain. You compromised the integrity of this institution. Whether you knew for certain or chose not to knowâ€”the result is the same." She turned to face him. "I trusted you, Marcus. I gave you the most important exhibition of the decade. And you betrayed that trust."
 

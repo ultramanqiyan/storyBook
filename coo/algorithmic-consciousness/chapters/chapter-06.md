@@ -8,7 +8,7 @@ David Chen stood beside Rosa, his posture rigid with anxiety. "We've never done 
 
 "That's the point, isn't it?" Rosa said. "You can measure everything except what matters. The only way to know if it works is to put it in front of real people and see what happens."
 
-David nodded, but his expression remained tense. "What if it fails? What if they see through it? What if they're bored, or confused, orâ€?
+David nodded, but his expression remained tense. "What if it fails? What if they see through it? What if they're bored, or confused, or..."
 
 "Then you learn something," Rosa said. "That's what theater is. You put something on stage, and you find out if it works. Sometimes it does. Sometimes it doesn't. The only failure is not trying."
 

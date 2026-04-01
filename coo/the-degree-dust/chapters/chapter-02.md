@@ -98,6 +98,7 @@ The students weren't there for knowledge. They were there for time—for a space
 
 Was there a way to provide the same thing without the debt, without the outdated model, without the pretense that knowledge was the product?
 
+---
 
 That evening, he found Alex in the kitchen, making dinner.
 
@@ -135,6 +136,7 @@ Alex considered this. "That sounds more interesting than college."
 
 "I don't know. But maybe we could figure it out together."
 
+---
 
 They talked late into the night, father and son, exploring questions that had no easy answers.
 
@@ -152,10 +154,11 @@ Alex shared his own frustrations—the pressure to have everything figured out, 
 
 "I don't know yet. But I'm going to find out."
 
+---
 
 The next morning, Michael returned to his office with a new purpose.
 
-The numbers were still there�?7% decline, existential crisis, institutional panic. But he saw them differently now. Not as a problem to be solved, but as a symptom of a deeper shift.
+The numbers were still there—47% decline, existential crisis, institutional panic. But he saw them differently now. Not as a problem to be solved, but as a symptom of a deeper shift.
 
 The old model was dying. The question was what would replace it.
 

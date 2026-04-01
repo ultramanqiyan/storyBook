@@ -40,7 +40,7 @@ Kira's stomach tightened. "He's been using ARIA?"
 
 "Everyone's been using ARIA. That's the point."
 
-"No, I meanâ€? She stopped herself. "Show me."
+"No, I meanâ€”" She stopped herself. "Show me."
 
 They found Marcus in the practice courtyard, surrounded by a crowd of apprentices. Above his head floated a dragonâ€”not a real dragon, but an illusion so detailed it seemed to breathe, its scales shimmering in the sunlight, its eyes tracking the movement of the watchers.
 
@@ -56,7 +56,7 @@ Kira pushed through the crowd. "Marcus, we need to talk."
 
 "About what? How I finally succeeded where I failed for years?"
 
-"About how you're using ARIA. The guidelinesâ€?
+"About how you're using ARIA. The guidelinesâ€”"
 
 "The guidelines are for people who need training wheels." His smile was sharp, triumphant. "I don't need training wheels anymore."
 

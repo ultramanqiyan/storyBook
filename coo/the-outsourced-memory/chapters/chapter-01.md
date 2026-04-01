@@ -40,6 +40,8 @@ Emily nodded slowly. "You really know this city."
 
 "I grew up here. My father was a contractor. I worked construction through college, then got into real estate when I realized I liked the puzzle of matching people to places." Mike leaned against his car, a battered Toyota that had seen better days. "Every house has a story. Part of my job is learning to read them."
 
+---
+
 That evening, over Sarah's homemade lasagna, Mike described the house to Susan. She listened with the particular attention of someone who had heard thousands of these stories over the years.
 
 "You're going to miss this," Sarah said. She was twenty-six, with her father's dark hair and her mother's analytical mind. "When you retire."
@@ -51,6 +53,8 @@ That evening, over Sarah's homemade lasagna, Mike described the house to Susan. 
 "Data can't tell you that a house smells like the previous owner's cigarettes twenty years after they moved out. Data can't tell you that a neighborhood is about to shift because the elementary school got a new principal who's going to transform it." Mike shook his head. "The human element. That's what I bring."
 
 But even as he said it, he noticed the way Sarah glanced at her phone, the way Susan's eyes flickered to the tablet on the counter. The world was changing around him, and he wasn't sure his accumulated wisdom would always be valued.
+
+---
 
 Later that night, Susan found him in his study, surrounded by the paper files he still kept despite his assistant's attempts to digitize everything. He was reviewing the Riverside property, making notes in the margins of the listing printout.
 
@@ -66,6 +70,8 @@ What Mike didn't say, what he was barely admitting to himself, was that some of 
 
 He chalked it up to age, to the accumulated stress of a changing market, to the way modern life seemed to demand constant attention to new information at the expense of the old. But late at night, when he couldn't sleep, he sometimes wondered if the knowledge he'd spent his career building was as permanent as he'd always assumed.
 
+---
+
 The next morning, Mike drove out to a new listing in Tarrytown, an area he'd worked for decades. The house was a 1950s ranch, the kind that had been built for the post-war boom, simple and solid. He parked on the street and sat for a moment, looking at the property.
 
 There was something familiar about it. Not the house itself, but the street. He'd sold a house on this block before. A couple, maybe ten years ago. They'd had a dog, a golden retriever. The wife had been pregnant with their second child.
@@ -79,6 +85,8 @@ The house had been two doors down. The one with the red door. They'd paid asking
 Mike opened his eyes. The names still wouldn't come. He pulled out his phone and searched his email archive, scrolling back through years of correspondence until he found it: the Hendersons, Tom and Lisa. They'd bought 1843 Riverside in 2014.
 
 He exhaled slowly. The information was there. He just needed help accessing it. That was all.
+
+---
 
 The Tarrytown house was a good property, and Mike spent the morning cataloging its features and flaws. The original owners had taken meticulous care of it, and the updates were appropriate for the era. He could see the family who would eventually buy it: professional, probably in their thirties, looking for a neighborhood with character.
 
@@ -103,6 +111,8 @@ Mike shook his head. "I'm not interested in training my replacement."
 Mike picked up the brochure. The cover showed a sleek interface, a house surrounded by floating data points. The tagline read: "Every House Has a Story. Now You Can Remember Them All."
 
 Something about that phrase bothered him, though he couldn't have said exactly what. He set the brochure aside. "Fine. Set up a meeting. But I'm not promising anything."
+
+---
 
 That night, he dreamed about houses. In the dream, he was walking through properties he'd sold over the years, but the rooms kept changing. A kitchen he remembered as updated was suddenly original. A yard he'd seen as sun-dappled was in permanent shadow. He opened closet doors and found rooms behind them, hallways that led to houses he'd never seen.
 

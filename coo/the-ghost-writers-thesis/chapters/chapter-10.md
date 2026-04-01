@@ -71,7 +71,7 @@ She told him about the morning in the library, about watching the student with t
 
 "Why do some people choose to recover what they've lost, while others choose to live without it?" he repeated when she was done. "That's a good question, Elena."
 
-"It's not groundbreaking. It's notâ€?
+"It's not groundbreaking. It's notâ€”"
 
 "It doesn't have to be," Webb interrupted. "It's yours. That's what matters."
 

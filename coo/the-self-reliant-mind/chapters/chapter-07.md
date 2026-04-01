@@ -34,7 +34,8 @@ David had recommended a pricing strategy for a retail clientâ€”a tiered approach
 
 Two weeks later, the data came back. Sales were down. Customer complaints were up. The strategy wasn't working.
 
-David stared at the numbers, feeling the old panic rising. He'd been wrong. He'd made a decision, and it had been wrong. Everyone would know. They'd see he wasn't as competent asâ€?
+David stared at the numbers, feeling the old panic rising. He'd been wrong. He'd made a decision, and it had been wrong. Everyone would know. They'd see he wasn't as competent as...
+
 He stopped himself.
 
 *This is what Dr. Webb talked about. The fear of being wrong. But being wrong isn't the end. It's part of the process.*
@@ -58,7 +59,7 @@ David looked up from his laptop. It was Amanda, a recent hire he'd worked with o
 
 "Sure. What's up?"
 
-Amanda hesitated. "I'm working on the Henderson analysis, and I keep... I keep wanting to check with someone before I make any recommendations. But everyone's busy, and I feel like I should be able to handle this on my own, but I'm terrified of making a mistake, andâ€?
+Amanda hesitated. "I'm working on the Henderson analysis, and I keep... I keep wanting to check with someone before I make any recommendations. But everyone's busy, and I feel like I should be able to handle this on my own, but I'm terrified of making a mistake, and..."
 
 She stopped, looking embarrassed. "Sorry. I know you're busy."
 

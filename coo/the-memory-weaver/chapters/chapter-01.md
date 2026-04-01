@@ -38,6 +38,7 @@ She closed her eyes and tried to focus on the present, the warmth of the sun, th
 
 The past was always present. There was no escape.
 
+---
 
 The memory came without warning, as they always did. One moment she was walking back to the archive, the next she was reliving March 15, 2035, the day David left.
 
@@ -51,6 +52,7 @@ Anna forced a smile. "Fine. Just... remembered something."
 
 The stranger nodded and moved on. Anna stood for a moment longer, trying to catch her breath. This was the burden of hyperthymesia, not just remembering everything, but reliving everything. The painful memories were as fresh as the day they happened. Time didn't heal; it just accumulated.
 
+---
 
 That evening, Anna sat at her kitchen table, conducting her nightly inventory. This was another ritual, a way of managing the flood, of trying to impose some order on the chaos of her memory.
 
@@ -64,6 +66,7 @@ She thought about the memory of David, the way it had ambushed her, the way it s
 
 She had asked doctors, therapists, neurologists. They all said the same thing: there was no cure for hyperthymesia. The best she could do was manage it, therapy, meditation, medication. None of it worked. The memories kept coming, relentless, overwhelming.
 
+---
 
 The advertisement appeared on her tablet that night, buried in a newsletter she barely read. She was about to delete it when the headline caught her attention:
 
@@ -87,6 +90,7 @@ She sent it before she could change her mind. Then she sat in the quiet of her a
 
 She hoped for relief.
 
+---
 
 The response came the next morning. Dr. Park wanted to meet.
 
@@ -98,6 +102,7 @@ She thought about the weight of everything she carried: every joy, every sorrow,
 
 She replied to Dr. Park, scheduling an appointment for the following week. Then she went to work, surrounded by memories, and tried to believe that something might finally change.
 
+---
 
 The days until the appointment were the same as every other day: waking to the flood of memory, working through the cascade of recollection, sleeping only to dream of things she couldn't forget. But underneath the sameness, there was something new.
 

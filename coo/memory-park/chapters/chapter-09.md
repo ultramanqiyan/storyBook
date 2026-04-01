@@ -86,7 +86,7 @@ Chairman Whitmore was waiting for them at the entrance, his face a mask of contr
 
 "I know," Elena said calmly. "But first, I'm going to speak."
 
-"You have no rightâ€?
+"You have no rightâ€”"
 
 "I have every right." She stepped past him, moving toward the podium that had been set up for the press conference. "I have the right to tell the truth. I have the right to defend a life that you tried to destroy. And I have the right to honor my husband's legacy."
 

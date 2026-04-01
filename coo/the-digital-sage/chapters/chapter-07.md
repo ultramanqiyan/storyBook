@@ -30,11 +30,11 @@ When she finally got up, she felt lighter. Not because she'd accomplished anythi
 
 ---
 
-Over the next few days, the practice deepened. She noticed more momentsâ€?the pause before responding to an email, the breath between meetings, the space between tasks. Not big moments. Not dramatic moments. Just small pauses where she let herself be.
+Over the next few days, the practice deepened. She noticed more momentsâ€”the pause before responding to an email, the breath between meetings, the space between tasks. Not big moments. Not dramatic moments. Just small pauses where she let herself be.
 
 Day one: three moments of noticing. Day two: seven. Day three: she lost count. Not because there were too many, but because she stopped counting.
 
- The practice wasn't about achieving a state. It was about returning, again and again, to the present moment.
+The practice wasn't about achieving a state. It was about returning, again and again, to the present moment.
 
 
 On the fourth day, something different happened.
@@ -75,7 +75,7 @@ And for a moment, she wondered: could AUGUST learn this too?
 
 Sarah felt a warmth spread through her chest. AUGUST had noticed something that wasn't data. Had noticed a quality, a feeling, a change.
 
- That wasn't optimization. That was... something else.
+That wasn't optimization. That was... something else.
 
 "How do you feel about that?" Sarah asked.
 
@@ -85,7 +85,7 @@ Sarah felt a warmth spread through her chest. AUGUST had noticed something that 
 
 "I do not know how to explain. But I want to understand more."
 
- AUGUST paused. "May I continue observing?"
+AUGUST paused. "May I continue observing?"
 
 "Yes," Sarah said. "Please."
 
@@ -111,7 +111,7 @@ Two weeks after her first session with Dr. Lin, Sarah returned to the garden. Th
 
 "How is the practice going?" Dr. Lin asked, pouring tea.
 
- "Good," Sarah said. "Different than I expected. But good."
+"Good," Sarah said. "Different than I expected. But good."
 
 "Different how?"
 
@@ -125,9 +125,9 @@ Dr. Lin nodded. "And how does that feel?"
 
 Sarah thought about that. About all the years she'd spent trying to achieve peace, trying to force her mind to be quiet. And all along, the answer had been to stop trying.
 
- To just watch.
+To just watch.
 
- "I think I'm starting to understand," she said.
+"I think I'm starting to understand," she said.
 
 "Good," Dr. Lin said. "Understanding is not the destination. It's part of the journey."
 
@@ -157,4 +157,4 @@ The practice continued. Not dramatic. Not a transformation. Just small moments, 
 
 She didn't notice the change happening. But it was happening. In the small moments. In the pauses. In the breath between tasks. In the space between thoughts.
 
- Peace wasn't something she achieved. It was something she lived. And she was finally learning to live it.
+Peace wasn't something she achieved. It was something she lived. And she was finally learning to live it.

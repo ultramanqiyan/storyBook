@@ -56,6 +56,8 @@ Marcus studied the setup. "And how effective is this training?"
 
 "Everything in science is probability. We provide evidence, not absolute truth." Dr. Chen met his eyes. "The question is whether that's enough for your purposes."
 
+---
+
 He left the laboratory in a daze.
 
 The city felt different now, sharper, more hostile. Every billboard, every window display, every piece of public art seemed to mock him. How much of it was human? How much was machine? And how would he ever know?
@@ -66,6 +68,7 @@ His phone buzzed. The unknown number again:
 
 He didn't respond.
 
+---
 
 Back in his office, he pulled up Jimmy Okonkwo's portfolio again.
 
@@ -87,6 +90,7 @@ He read:
 
 Marcus closed the browser.
 
+---
 
 That night, he dreamed about the anonymous painting from his lecture.
 
@@ -98,6 +102,7 @@ And then, slowly, words appeared across the surface:
 
 He woke in a cold sweat.
 
+---
 
 The next morning, he called Dr. Chen.
 
@@ -123,6 +128,7 @@ Marcus thought about Jimmy Okonkwo. The studio that felt staged. The vague answe
 
 "No," he said. "Just curious."
 
+---
 
 He sat in his office for a long time after the call ended.
 

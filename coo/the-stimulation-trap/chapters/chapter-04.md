@@ -137,7 +137,8 @@ Sounds. But not music. Not noise. Something deeper. Something that vibrates in h
 
 Sensations. But not touch. Not temperature. Something that bypasses his skin entirely and goes straight to his nervous system.
 
-He gasps. His body convulses. It's too much. It's overwhelming. It'sâ€?
+He gasps. His body convulses. It's too much. It's overwhelming. It's...
+
 *There.*
 
 For a split second, he feels it. The feeling. The fullness. The sense of being alive.

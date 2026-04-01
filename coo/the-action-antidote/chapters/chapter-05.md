@@ -8,34 +8,25 @@ She went to bed early that night, the garden card still on her desk. Saturday fe
 
 ---
 
-Monday morning hit like a wave. Sarah woke to her alarm and the familiar weight of the week ahead. By the time she opened her laptop, the peace of Saturday had already started to fade.
+By Monday, the feeling had faded. Sarah sat at her desk, staring at the same Slack messages she'd been avoiding for days. The garden card was still there, but it looked different now—smaller, less significant. Had she really thought it mattered? Had she really believed that digging in dirt could change anything?
 
-Forty-three Slack messages. Twelve emails. Three calendar invites for meetings she didn't remember being scheduled. The numbers glowed at her from the screen, and her shoulders crept toward her ears.
+The voice in her head was back. It had been quiet for exactly one day—one day—and now it was louder than ever.
 
-*Back to normal,* she thought. *Nothing has changed.*
-
-She started responding, her fingers moving automatically across the keyboard. Yes, she'd look into that. No, she didn't have the numbers yet. Could they circle back next week? The familiar rhythm of work, of avoidance, of paralysis disguised as productivity.
-
-By 5 PM, she had responded to 34 Slack messages, attended two Zoom calls, and avoided every difficult decision. The garden felt very far away.
-
----
-
-The spiral started small. She just wanted to check the garden's website again. Then she was reading reviews, looking at photos, analyzing every interaction from Saturday.
-
-Had Marcus really been glad to see her, or was he just being polite? Had Elena actually enjoyed talking to her, or was she just being kind? What if they didn't actually want her back? What if she'd been in the way, taking up space, making things awkward?
+*That was a fluke,* it said. *You don't belong there. Those people were just being nice. You'll embarrass yourself if you go back.*
 
 She opened a new tab and searched for "how to know if you belong somewhere." The results were useless—listicles about finding your tribe, inspirational quotes about belonging. She kept clicking anyway.
 
-By 10 PM, she had seventeen tabs open and a tight feeling in her chest. The voice in her head—the one that had been quiet for exactly one day—was back, and it was loud.
+By 10 PM, she had fallen into a familiar spiral. The voice in her head—the one that had been quiet for exactly one day—was back, and it was loud.
 
 *You don't belong there,* it said. *You're not a gardener. You're not a community person. You're a mess who can't even answer emails without having a panic attack.*
 
-She stared at Elena's card. The phone number seemed to glow in the dim light of her apartment. She didn't know why she kept it. She didn't know if she'd ever use it.
+She stared at Elena's card in the dim light of her desk lamp. She didn't know why she kept it, she didn't know if she'd ever use it.
 
+The resistance was real. She could feel it in her chest, a tightness that made it hard to breathe. Every time she thought about Saturday, about showing up again, about being seen—the tightness grew.
 
-Tuesday was worse. The voice followed her through the day, narrating every moment. *You're falling behind. You're not good enough. You should just stay home this weekend. No one will notice if you don't show up.*
+*What if they don't want you back? What if you say something stupid? What if everyone realizes you're a fraud?*
 
-By afternoon, she had almost convinced herself. She would text Marcus, say something came up, and spend Saturday at home like always. It would be easier. Safer. Normal.
+By Tuesday, she had almost convinced herself. She would text Marcus, say something came up, and stop showing up. It would be easier. Safer. Normal.
 
 But then she looked at Elena's card again. The number stared back at her, a question she hadn't answered.
 
@@ -43,39 +34,27 @@ She almost hung up three times. The phone rang twice before Elena answered.
 
 "Sarah? From the garden?"
 
-"Yes. Hi. I'm sorry, I know this is weird, I just�? She stopped, unsure what to say. *I'm spiraling? I need help? I don't know why I called?*
+"Yes. Hi. I'm sorry, I know this is weird, I just—" She stopped, unsure what to say. *I'm spiraling? I need help? I don't know why I called?*
 
-"Are you okay?" Elena's voice was warm, not concerned in a way that made Sarah feel pathetic, just... present.
+"Are you okay?" Elena's voice was warm, concerned.
 
-"I don't know," Sarah admitted. "I went to the garden on Saturday, and it was good, it was really good, but now I'm overthinking everything, and I don't know if I should go back, and I don't know if I belong there, and�?
+"I don't know." Sarah surprised herself with the honesty. "I went to the garden on Saturday, and it was... good. Really good. But now I'm sitting here thinking I shouldn't go back, and I don't know why."
 
-"Slow down," Elena said gently. "Take a breath."
+"Ah." Elena's tone shifted to something knowing. "The resistance."
 
-Sarah took a breath.
+"The what?"
 
-"Tell me more about the overthinking."
+"The resistance. It's what happens when you start to change. Your brain freaks out and tries to pull you back to what's familiar, even if what's familiar is making you miserable."
 
-So Sarah told her. About the tabs, the research, the voice that said she didn't belong. About the almost-decision not to go back. About the feeling that Saturday had been a fluke, a momentary break from her real self.
+Sarah stared at the wall. "That's... exactly what's happening. How did you know?"
 
-Elena listened without interrupting. When Sarah finished, there was a pause.
+"Because it happens to everyone. Every single person who's ever tried to do something different." Elena paused. "Can I tell you something? The night before my first day at the garden, I almost didn't go. I told myself I was too busy, too tired, too whatever. I must have come up with twenty reasons to stay home."
 
-"Can I tell you something?" Elena asked.
+"But you went anyway."
 
-"Of course."
+"I did. And it was awkward and uncomfortable and I felt like a complete fraud. But I kept showing up, and eventually the voice got quieter."
 
-"When I first started gardening, I almost quit three times in the first month. I told myself I didn't belong, that everyone else knew what they were doing, that I was just in the way. I almost talked myself out of it completely."
-
-Sarah felt something loosen in her chest. "Really?"
-
-"Really. The voice in my head said all the same things yours is saying. 'You don't belong. You're in the way. Everyone else knows what they're doing.' But here's what I learned: that voice gets louder right before it loses."
-
-"What do you mean?"
-
-"Resistance is normal," Elena said. "It means you're changing. The part of you that's scared of change fights back. But every time you show up anyway, that voice gets a little quieter. You're not supposed to feel confident. You're supposed to feel scared and do it anyway."
-
-Sarah closed her eyes. The words felt like a key to something she hadn't understood before.
-
-"I didn't know that," she said. "I thought the fear meant I shouldn't do it."
+Sarah felt something loosen in her chest. "I thought the fear meant I shouldn't do it."
 
 "The fear means you're growing. If you weren't scared, you wouldn't be changing."
 
@@ -89,9 +68,12 @@ Sarah hesitated. A commitment. Something she could fail at.
 
 "Yes," she said. "See you Saturday."
 
+---
 
-She looked at what she'd written: "Resistance is normal. It means you're changing. The voice gets louder right before it loses."
+She wrote it down after they hung up. Not in her phone, not in a digital note, but on paper, with a pen. The act felt deliberate, permanent.
 
-She read it three times, then once more. The words felt like a key to something she hadn't understood before. The voice in her head—the one that said she didn't belong, that she should stay home, that nothing would change—that voice wasn't truth. It was just noise. The noise of change.
+*Resistance is normal. It means you're changing. The voice gets louder right before it loses.*
+
+She looked at what she'd written. The words felt like a key to something she hadn't understood before. The voice in her head—the one that said she didn't belong, that she should stay home, that nothing would change—that voice wasn't truth. It was just noise. The noise of change.
 
 Saturday was four days away. She could do this. She would do this. And maybe, just maybe, the voice would get a little quieter each time she showed up anyway.

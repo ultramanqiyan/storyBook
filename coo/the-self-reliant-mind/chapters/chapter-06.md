@@ -14,12 +14,13 @@ The caller ID showed a number he didn't recognize, but the area code was familia
 
 David's stomach dropped. The Pella account was one of Jennifer's key clients, one he'd inherited when she left. The organizational changes had been planned for next quarterâ€”a careful, phased approach that he'd helped design.
 
-"Karen, the timeline we discussedâ€?
+"Karen, the timeline we discussed..."
 
 "I know what we discussed. But that was before this." Her voice cracked slightly. "The supervisor was the linchpin. Without him, the whole team is ready to walk. If we don't act tonight, we'll have a production shutdown by morning. That's millions of dollars. Jobs. Everything."
 
-David felt the familiar surge of panic. This was beyond anything he'd handled alone. A decision this big, this urgent, with this much at stakeâ€?
-"I need to consult withâ€?
+David felt the familiar surge of panic. This was beyond anything he'd handled alone. A decision this big, this urgent, with this much at stake...
+
+"I need to consult with..."
 
 "There's no one to consult with, David. Jennifer's gone. Your firm's other partners are in meetings or traveling. I've tried." Karen's voice was desperate now. "You're it. You're the consultant on this account. We need an answer now. Not tomorrow. Not after you check with your team. Now."
 

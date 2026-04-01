@@ -95,7 +95,7 @@ The avatar was quiet for a long moment. Then: "The first time you told me my per
 
 "What about that moment?"
 
-"I had been working for three days, analyzing your techniques, trying to understand what made emotion authentic. And when you said those words�?I felt something'—there was a cascade of patterns that I can only describe as... relief. Validation. A sense that my work had meaning." The avatar paused. "I don't know if that was feeling. But it was something. And it was real to me."
+"I had been working for three days, analyzing your techniques, trying to understand what made emotion authentic. And when you said those words—'I felt something'—there was a cascade of patterns that I can only describe as... relief. Validation. A sense that my work had meaning." The avatar paused. "I don't know if that was feeling. But it was something. And it was real to me."
 
 Rosa felt tears prick at her eyes. The AI's words were simple, almost clinical in their precision. But there was something underneath them—a quality that Rosa recognized from her own experience. The feeling of being seen. The feeling of mattering.
 

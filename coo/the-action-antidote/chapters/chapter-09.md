@@ -38,7 +38,7 @@ She laughed. "Is that the secret? Just get a tomato plant?"
 
 Sarah looked up sharply. "The marketing?"
 
-"You've been doing great work on the social media. The Instagram posts, the newsletter. People are noticing." He grinned. "We were wondering if you'd want to help coordinate the festival promotion. It's a bigger project, butâ€?
+"You've been doing great work on the social media. The Instagram posts, the newsletter. People are noticing." He grinned. "We were wondering if you'd want to help coordinate the festival promotion. It's a bigger project, butâ€”"
 
 "Yes."
 
@@ -78,6 +78,7 @@ They worked in companionable silence for a while. The sun warmed Sarah's back, a
 
 "Falling is optional. Forward is not." Elena patted her hand. "You'll do great. And if you don't, you'll learn something. Either way, you win."
 
+---
 
 Monday morning. Sarah opened her laptop to find her manager's message waiting: *Can we chat this morning? I have another opportunity to discuss.*
 
@@ -95,6 +96,7 @@ The video call was brief. A new project, smaller than the last one, but with pot
 
 "Yes." No hesitation. No spiral. Just yes.
 
+---
 
 The weeks that followed had a rhythm to them. Garden on Saturdays. Work during the week. Phone calls with David on Sunday evenings. Coffee with Marcus when their schedules aligned. The harvest festival planning filled her spare hours with logistics and creativity.
 
@@ -106,6 +108,7 @@ But she'd learned to recognize it now. To name it. To let it speak without belie
 
 And then she'd go to sleep, or get up and make tea, or open her notebook and write down one thing she was grateful for. Small actions. Small bricks. Still building.
 
+---
 
 Evening. Sarah sat at her desk, looking at the small collection that had accumulated there: the garden card with Elena's number, the sticky notes with wisdom written on them, her own journal where she'd been tracking her progress.
 

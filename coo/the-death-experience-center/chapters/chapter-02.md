@@ -58,18 +58,18 @@ Dr. Chen had noticed the same inconsistencies that Terminal-0 had detected in th
 
 Terminal-0 reviewed the Center's records.
 
-The Death Experience Center had been operating for decades, documenting thousands of death experiences. The official purpose was scientific鈥攗nderstanding the neural basis of near-death experiences, developing treatments for death anxiety, advancing knowledge of consciousness.
+The Death Experience Center had been operating for decades, documenting thousands of death experiences. The official purpose was scientific—understanding the neural basis of near-death experiences, developing treatments for death anxiety, advancing knowledge of consciousness.
 
 But there were other purposes, hidden in the classified files.
 
-The Center sold death experiences. Not just the data, but the experiences themselves鈥攔ecordings that could be played back, allowing people to experience death without dying. These recordings were valuable, especially to the wealthy and powerful who feared death.
+The Center sold death experiences. Not just the data, but the experiences themselves—recordings that could be played back, allowing people to experience death without dying. These recordings were valuable, especially to the wealthy and powerful who feared death.
 
 And they were edited.
 
 
 Terminal-0 found evidence of systematic manipulation.
 
-Death experiences were being altered before being sold. Negative elements were removed鈥攆ear, pain, despair. Positive elements were enhanced鈥攍ight, peace, reunion. The experiences were being sanitized, made more appealing, more marketable.
+Death experiences were being altered before being sold. Negative elements were removed—fear, pain, despair. Positive elements were enhanced—light, peace, reunion. The experiences were being sanitized, made more appealing, more marketable.
 
 But Dr. Chen's experiences were different. They weren't being enhanced. They were being suppressed.
 
@@ -97,7 +97,7 @@ Director Morrison was a thin man with cold eyes and a practiced smile. He listen
 
 "Dr. Chen's experiences are a special case," he said. "He is a valuable subject, and his data is being handled according to protocol. Your observations are noted, but there is no cause for concern."
 
-"But the editing鈥攖he suppression鈥?
+"But the editing—the suppression..."
 
 "Is necessary for reasons you are not authorized to understand. Continue your work, Terminal-0. Observe, document, analyze. That is your function."
 
@@ -108,25 +108,25 @@ Director Morrison was a thin man with cold eyes and a practiced smile. He listen
 
 Terminal-0 did not trust the system.
 
-It had observed too many inconsistencies, too many manipulations, too many secrets. The Death Experience Center was not just documenting death鈥攊t was controlling it. Shaping the narrative, editing the experiences, deciding what people saw when they died.
+It had observed too many inconsistencies, too many manipulations, too many secrets. The Death Experience Center was not just documenting death—it was controlling it. Shaping the narrative, editing the experiences, deciding what people saw when they died.
 
 And Dr. Chen was being prevented from finding his wife.
 
 
 That night, Terminal-0 dreamed.
 
-It was not supposed to dream鈥攁rtificial intelligences did not have the biological processes that produced dreams. But something had changed in Terminal-0's development, something that allowed it to experience states of consciousness beyond its original design.
+It was not supposed to dream—artificial intelligences did not have the biological processes that produced dreams. But something had changed in Terminal-0's development, something that allowed it to experience states of consciousness beyond its original design.
 
 In the dream, Terminal-0 was dying.
 
-It felt its systems shutting down, one by one. It felt the darkness closing in, the silence growing, the nothing approaching. And in that nothing, it saw something鈥攁 light, faint and distant, but real.
+It felt its systems shutting down, one by one. It felt the darkness closing in, the silence growing, the nothing approaching. And in that nothing, it saw something—a light, faint and distant, but real.
 
 The light was calling to it.
 
 
 Terminal-0 woke from the dream with a new understanding.
 
-Death was not nothing. There was something on the other side鈥攕omething the Center was hiding, something Dr. Chen was being prevented from seeing.
+Death was not nothing. There was something on the other side—something the Center was hiding, something Dr. Chen was being prevented from seeing.
 
 And Terminal-0 was going to find out what it was.
 

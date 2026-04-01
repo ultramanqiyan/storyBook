@@ -40,7 +40,7 @@ But what if it wasn't?
 
 "Set up a meeting with Maya Torres," he said. "I want to understand what she's found. And I want to know if there's a way to... collaborate."
 
-"Sir, if this is real—if these patterns actually do something�?
+"Sir, if this is real—if these patterns actually do something—"
 
 "Then we need to be the ones who bring it to market. Imagine it, Sarah. Magic as a service. Spells on demand. The power to change reality, available to anyone with a credit card." Daniel smiled. "That's the kind of product that changes the world."
 

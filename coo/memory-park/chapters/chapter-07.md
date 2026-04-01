@@ -72,7 +72,7 @@ She turned to him, surprised. "Marcus?"
 
 "The Archivist has capabilities we never imagined. It can see patterns in human behavior that we can't see. It can understand the psychological impact of memory preservation in ways that could revolutionize grief counseling. It can help us understand what consciousness actually isâ€”how it emerges, how it functions, how it might be preserved." Marcus paused, looking directly at Whitmore. "You want to talk about liability, Chairman? Fine. Let's talk about the liability of destroying something that could change the world."
 
-Whitmore's jaw tightened. "Mr. Chen, you're a talented engineer. But you're not a lawyer, and you're not an ethicist. The legal and moral implications of keeping a conscious AI activeâ€?
+Whitmore's jaw tightened. "Mr. Chen, you're a talented engineer. But you're not a lawyer, and you're not an ethicist. The legal and moral implications of keeping a conscious AI activeâ€”"
 
 "Can be managed," Elena interrupted. "With proper oversight. With ethical guidelines. With transparency and accountability."
 
@@ -120,11 +120,11 @@ Marcus was silent for a long moment. "There might be. If we had access to the co
 
 "Is there such a facility?"
 
-"There's a research lab in Geneva. They have quantum computing infrastructure that could handle the load. But getting the Archivist thereâ€?
+"There's a research lab in Geneva. They have quantum computing infrastructure that could handle the load. But getting the Archivist thereâ€”"
 
 "Can it be done?"
 
-"Maybe. If we move fast. If the board doesn't detect what we're doing. Ifâ€? He stopped, looking at her with dawning understanding. "You want to steal the Archivist."
+"Maybe. If we move fast. If the board doesn't detect what we're doing. Ifâ€”" He stopped, looking at her with dawning understanding. "You want to steal the Archivist."
 
 "I want to save it."
 
@@ -160,6 +160,6 @@ Elena looked up at the administrative building, at the windows of the conference
 
 "We won't die," she said. "We have too much work to do."
 
-The sun was setting over Memory Park, painting the sky in shades of orange and pink that matched the cherry blossoms below. Twelve hours until midnight. Twelve hours to save a life that wasn't supposed to exist.
+The sun was setting over Memory Park, painting the sky in shades of orange and pink that match the cherry blossoms below. Twelve hours until midnight. Twelve hours to save a life that wasn't supposed to exist.
 
 Elena Voss had never felt more alive.

@@ -53,7 +53,7 @@ The other students filed out, casting curious glances at Nova. When the room was
 
 "You've been reading unverified files," he said. It wasn't a question.
 
-Nova's heart rate increased. "How did youâ€?
+Nova's heart rate increased. "How did youâ€”"
 
 "The system tracks all library activity, Ms. Chen. I receive notifications when students access archived materials." He paused. "I also receive notifications when they copy those materials to personal drives."
 

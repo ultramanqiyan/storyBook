@@ -104,7 +104,7 @@ My parents exchange a look. The same look they always exchange when I ask someth
 
 "But you're not being yourselves," I say. My voice cracks. "You're being what the program tells you to be."
 
-"Sweetheartâ€?
+"Sweetheart..."
 
 "I found the documents," I say. The words come out before I can stop them. "The files in your closet. I know what the MHA system does. I know it generates your emotions. I know you're not really feeling anything."
 
@@ -118,7 +118,7 @@ Like they're waiting for me to finish a tantrum.
 
 "Alex," my mother says. "I think you've been under a lot of stress. The chemistry test. School. Maybe you need some rest."
 
-"I'm not making this up," I say. My voice is rising now. "I saw the documents. The system status. 'Emotional Pattern: Parental Care.' It's all there. You're not really feeling anything. You're justâ€?
+"I'm not making this up," I say. My voice is rising now. "I saw the documents. The system status. 'Emotional Pattern: Parental Care.' It's all there. You're not really feeling anything. You're just..."
 
 "Alex." My father's voice is firm but kind. "I think we should talk about this when you're feeling better. You seem upset."
 

@@ -18,11 +18,11 @@ The halls were quieter than usual. He passed cubicles where people sat with the 
 
 The auditorium was filling when he arrived. He took his usual seat near the back, a habit from years of partnership meetings where he'd learned that distance gave perspective. Around him, colleagues settled into chairs, their conversations hushed and fragmented.
 
-"—heard they're restructuring�?
+"—heard they're restructuring—"
 
-"—my cousin's company did this last month, laid off half�?
+"—my cousin's company did this last month, laid off half—"
 
-"—probably just another policy update�?
+"—probably just another policy update—"
 
 Robert pulled out his tablet and pretended to review notes. His mind wandered to the number, to the three months, to the retirement plans he and Margaret had made. Italy in the spring. The coast of Maine in summer. Time with David, who was struggling in ways Robert tried not to think about.
 

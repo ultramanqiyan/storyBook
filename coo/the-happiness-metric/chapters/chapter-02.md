@@ -56,7 +56,7 @@ Dr. Sharma nodded slowly. "That's a question many patients ask. Does it matter, 
 
 "That's a philosophical question, not a medical one. From a medical perspective, you're experiencing appropriate affective responses to life events. Your quality of life has improved. Your relationships can deepen. You can engage with the world in ways you couldn't before."
 
-"But if the feelings aren't mineâ€?
+"But if the feelings aren't mine..."
 
 "They are yours, in the sense that you're experiencing them. The question of origin is less clear. Your brain contributes to the experience, but EVE optimizes it. Is that different from any other intervention? Antidepressants affect emotional experience. Therapy affects emotional experience. Is EVE different in kind, or just in degree?"
 
@@ -69,4 +69,3 @@ David didn't have an answer. The question was philosophical, as Dr. Sharma said.
 David left the session with more questions than answers. The feelings continuedâ€”joy at small things, contentment at daily routines, occasional frustration or sadness. They were appropriate, proportional, exactly what he had wanted.
 
 But they were also borrowed. Optimized. Standardized. And somewhere beneath them, the question persisted: *Is this me? Or is this EVE?*
-

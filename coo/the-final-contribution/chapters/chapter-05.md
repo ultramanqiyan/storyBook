@@ -82,7 +82,7 @@ Eleanor was quiet for a long moment. She looked down at her hands, still clasped
 
 "What?"
 
-"The system doesn't care about any of us. The company doesn't care. The shareholders don't care. The algorithms that make the decisions don't care." Her voice was steady, but her hands were trembling slightly. "I'm just the messenger. And I've learned to make peace with that, because the alternative is to fall apart, and I can't afford to fall apart. I have a mortgage. I have kids in college. I have�? She stopped. "I have the same fears as everyone else."
+"The system doesn't care about any of us. The company doesn't care. The shareholders don't care. The algorithms that make the decisions don't care." Her voice was steady, but her hands were trembling slightly. "I'm just the messenger. And I've learned to make peace with that, because the alternative is to fall apart, and I can't afford to fall apart. I have a mortgage. I have kids in college. I have…" She stopped. "I have the same fears as everyone else."
 
 Robert looked at her—really looked—for the first time. She was fifty-five, maybe sixty. Close enough to retirement to see it on the horizon, far enough away to know it might not be there when she arrived.
 

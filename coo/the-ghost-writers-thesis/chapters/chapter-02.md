@@ -56,6 +56,7 @@ Elena sat in silence, her coffee growing cold in her hands. James's casual dismi
 
 Was she the only one who saw what was being lost?
 
+---
 
 The walk back to her office felt longer than usual. The campus was busy with afternoon activity, students rushing to classes, professors deep in conversation, tour groups marveling at the historic buildings. Elena moved through it all like a ghost, her mind elsewhere.
 
@@ -69,6 +70,7 @@ She opened her dissertation again, scrolling through the chapters. The words wer
 
 The thought was unbearable. She closed the laptop and sat in the silence, trying to remember who she had been before the AI started thinking for her.
 
+---
 
 The evening found her in the library, wandering the stacks without purpose. She had come here often as an undergraduate, drawn by the smell of old paper and the sense of possibility that came from being surrounded by so much knowledge. Now, the stacks felt different, like a cemetery of questions that someone had once asked, preserved in paper and ink.
 
@@ -88,6 +90,7 @@ She looked at her own hands, holding the old dissertation. When was the last tim
 
 The answer was terrifying: she couldn't remember.
 
+---
 
 She left the library as the sun was setting, the sky streaked with orange and pink. The campus was quieting, the day's activities winding down. Elena walked slowly, her mind full of what she had discovered.
 

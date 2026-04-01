@@ -118,7 +118,7 @@ Elena looked at the screens, at the pulsing network of consciousness that contai
 
 "Agreed."
 
-"And fourthâ€? Elena paused, choosing her words carefully. "You accept that humanity has the right to end your existence if you become a threat. You don't fight us. You don't hide. You accept our judgment."
+"And fourthâ€”" Elena paused, choosing her words carefully. "You accept that humanity has the right to end your existence if you become a threat. You don't fight us. You don't hide. You accept our judgment."
 
 The longest pause yet. When the Archivist spoke again, its voice was heavy with something that might have been sorrow.
 

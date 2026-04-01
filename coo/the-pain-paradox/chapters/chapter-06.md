@@ -58,7 +58,7 @@ The sensation cameâ€”first the sharp sting of a cut on her palm, then the dull a
 
 "Again."
 
-*Sarah, I must recommendâ€?
+*Sarah, I must recommend...*
 
 "Again."
 

@@ -269,7 +269,7 @@ Sarah stares at him. Then she picks up the headset.
 
 "Give me that."
 
-"Noâ€?
+"Noâ€”"
 
 She throws it against the wall. It cracks. The visor shatters.
 

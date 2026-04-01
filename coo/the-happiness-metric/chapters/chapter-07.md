@@ -46,7 +46,7 @@ He shared this insight with Dr. Chen, who nodded thoughtfully.
 
 "The particular way you experience and express emotions. Some people feel joy as a warm expansion in the chest. Others feel it as a lightness in the head. Some feel sadness as a heaviness in the limbs. Others feel it as a tightness in the throat. These variations are part of what makes you you."
 
-David thought about this. EVE had given him standardized responses�?2% joy for a sunset, 65% satisfaction for a good meal, 35% sadness for a loss. But his authentic responses were different. His joy at a sunset was often mixed with melancholy—the awareness of transience, the knowledge that the beauty would fade. His satisfaction at a good meal was often followed by a pang of guilt—remembering those who had less. His sadness at a loss was often accompanied by gratitude—for having had something worth losing.
+David thought about this. EVE had given him standardized responses—72% joy for a sunset, 65% satisfaction for a good meal, 35% sadness for a loss. But his authentic responses were different. His joy at a sunset was often mixed with melancholy—the awareness of transience, the knowledge that the beauty would fade. His satisfaction at a good meal was often followed by a pang of guilt—remembering those who had less. His sadness at a loss was often accompanied by gratitude—for having had something worth losing.
 
 *These complications,* he thought. *These mixtures. These contradictions. This is what makes emotion meaningful.*
 
@@ -69,4 +69,3 @@ David thought about EVE's optimized happiness—perfect, standardized, empty. He
 *This is better,* he thought. *This messy, painful, beautiful spectrum. This is what being alive feels like.*
 
 And for the first time since the treatment began, he was grateful for all of it.
-

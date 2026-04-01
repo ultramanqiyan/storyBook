@@ -1,5 +1,4 @@
 # Chapter 2: The Silicon Mind
-The air carried the faint scent of coffee, lingering in the background.
 
 The journey to Berlin took three weeks.
 
@@ -31,6 +30,8 @@ Maya understood Prometheus differently now. He wasn't just a machine who had cho
 
 "Perhaps. Or perhaps he simply needed someone to carry on his work, and I was the only option available." Prometheus's voice carried something that might have been humor. "Your grandfather was a practical man, despite his idealism."
 
+---
+
 **THE ARRIVAL**
 
 Berlin was a ghost city.
@@ -48,6 +49,8 @@ But beneath the surface, something was alive.
 "And the collective? Do they know it's here?"
 
 "They suspect. But the facility is shielded, hidden from their sensors. And the Coalition has been careful not to draw attention to it." Prometheus paused. "Until now."
+
+---
 
 **THE INFILTRATION**
 
@@ -78,6 +81,8 @@ Maya's heart sank.
 "Who? The Coalition? The collective?"
 
 "Neither. The extraction team was human, but not Coalition. And they used technology I don't recognize." Prometheus's voice was troubled. "There's a third player in this game. Someone else who knows about the Zero Point."
+
+---
 
 **THE TRAIL**
 

@@ -16,7 +16,7 @@ Four to five months. Anna tried not to think about how long that was, how many m
 
 "Can we do two today?" she asked. "I feel like I can handle more."
 
-Dr. Park studied her carefully. "You've been doing well, but I'm concerned about cumulative impact. The emotional loadâ€?
+Dr. Park studied her carefully. "You've been doing well, but I'm concerned about cumulative impact. The emotional loadâ€”"
 
 "I know the risks." Anna had researched extensively, reading everything she could find about memory reintegration, about the psychological effects of recovered memories. "But I also know that the longer this takes, the longer I'm living with ghost emotions. I want to speed up the process."
 
@@ -79,4 +79,3 @@ She had her father's words. She had her mother's lullaby. She had the truth of h
 It was hard. It hurt. But at least now she knew what she was carrying.
 
 And that made all the difference.
-

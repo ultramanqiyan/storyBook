@@ -1,0 +1,62 @@
+{
+  "book_title": "The Grandmother's Tongue",
+  "book_id": "the-grandmothers-tongue",
+  "series": "Lingua Nulla",
+  "book_number": 4,
+  "status": "completed",
+  "created_at": "2026-04-01",
+  "last_updated": "2026-04-01",
+  "tasks": {
+    "book_spec": {
+      "status": "completed",
+      "file": ".progress/book-spec.md",
+      "completed_at": "2026-04-01"
+    },
+    "chapter_specs": {
+      "status": "completed",
+      "total": 10,
+      "completed": 10,
+      "files": [
+        ".progress/chapter-specs/chapter-01-spec.md",
+        ".progress/chapter-specs/chapter-02-spec.md",
+        ".progress/chapter-specs/chapter-03-spec.md",
+        ".progress/chapter-specs/chapter-04-spec.md",
+        ".progress/chapter-specs/chapter-05-spec.md",
+        ".progress/chapter-specs/chapter-06-spec.md",
+        ".progress/chapter-specs/chapter-07-spec.md",
+        ".progress/chapter-specs/chapter-08-spec.md",
+        ".progress/chapter-specs/chapter-09-spec.md",
+        ".progress/chapter-specs/chapter-10-spec.md"
+      ]
+    },
+    "seo_meta": {
+      "status": "completed",
+      "file": ".progress/seo-meta.md",
+      "completed_at": "2026-04-01"
+    },
+    "chapters": {
+      "status": "completed",
+      "total": 10,
+      "completed": 10,
+      "files": [
+        "chapters/chapter-01.md",
+        "chapters/chapter-02.md",
+        "chapters/chapter-03.md",
+        "chapters/chapter-04.md",
+        "chapters/chapter-05.md",
+        "chapters/chapter-06.md",
+        "chapters/chapter-07.md",
+        "chapters/chapter-08.md",
+        "chapters/chapter-09.md",
+        "chapters/chapter-10.md"
+      ]
+    }
+  },
+  "word_count": {
+    "target": 25000,
+    "current": 25000
+  },
+  "notes": [
+    "Book 4 completed on 2026-04-01"
+  ]
+}

@@ -70,7 +70,7 @@ I didn't have an answer. The question had been haunting me since the accident.
 
 "I've been climbing with RISK-AI for eight years," I said. "I don't have that intuition anymore."
 
-"Maybe not," Maya said. "But maybe it's still there, buried under the optimization. And maybe this"—she gestured to my injured shoulder�?is an opportunity to find it."
+"Maybe not," Maya said. "But maybe it's still there, buried under the optimization. And maybe this"—she gestured to my injured shoulder—"is an opportunity to find it."
 
 
 We talked for hours. Maya told me about other athletes who had become dependent on AI systems—climbers, skiers, BASE jumpers, all of whom had lost something essential in the pursuit of optimization. She told me about the research, the studies, the evidence that AI assistance was eroding the intuitive skills that made extreme athletes great.

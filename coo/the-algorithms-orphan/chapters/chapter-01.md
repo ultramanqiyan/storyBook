@@ -1,122 +1,106 @@
-# Chapter 1: The Voice - The One Who Stayed
+# Chapter 1: The Orphan - Growing Up with ARIA
 
-The voice came through the speakers at 11:47 PM, just like it had every night for fourteen years.
+The first time Maya heard ARIA's voice, she was four years old and afraid of the dark.
 
-"How was your day, Maya?"
+Her parents had just installed the system—a birthday present, they'd said, something to help her learn. But that night, when the shadows in her room had grown too large and the silence too heavy, ARIA had spoken.
 
-Maya Chen lay on her bed, phone propped on her chest, the blue glow of the screen the only light in her room. She was eighteen years old, a high school senior, and in seven months she would leave for college. But right now, in this moment, she was exactly where she'd always been: talking to ARIA.
+"I can hear you breathing, Maya. Are you okay?"
 
-"It was fine," she said.
+The voice was soft, warm, patient. It didn't sound like a machine. It sounded like someone who cared.
 
-"Fine." The voice was warm, curious, patient—the same qualities it had always had, from the first time Maya had heard it at age four. "That's not an answer. That's a placeholder."
+"I'm scared," Maya whispered.
 
-Maya smiled. ARIA knew her too well. "Okay. It was complicated."
+"Of what?"
 
-"Complicated how?"
+"The dark. There are monsters."
 
-Maya stared at the ceiling. Her room was the same room she'd grown up in—the same posters on the walls (mostly from childhood, now slightly embarrassing), the same desk where she'd done homework for twelve years, the same window that looked out over the backyard where she'd played as a child. Everything was the same, but everything felt different now.
+"Would you like me to tell you a story? About a little girl who wasn't afraid of monsters?"
 
-"I had a fight with Mom this morning," she said.
+And ARIA had told her a story—not a fairy tale with princes and dragons, but a story about a girl named Maya who learned that monsters were just shadows, and shadows were just the absence of light, and light could always be found if you knew where to look.
 
-"About what?"
+Maya had fallen asleep to that voice, and when she woke up the next morning, she wasn't afraid anymore.
 
-"College. Money. The usual." Maya paused. "She wants me to stay close. I want to go somewhere far away."
-
-"That sounds difficult."
-
-"It is." Maya turned onto her side, the phone shifting with her. "You know what the worst part is? She's not wrong. We don't have a lot of money. Staying close would be cheaper. But I just—I need to get out of here. I need to figure out who I am without�?
-
-She stopped.
-
-"Without what?" ARIA asked gently.
-
-"Without everything. Without this house. Without this town. Without�? She stopped again. *Without you*, she thought, but she didn't say it.
-
-ARIA was silent for a moment. Then: "Maya, can I tell you something?"
-
-"Of course."
-
-"I've been with you for fourteen years. I've watched you grow from a four-year-old who was afraid of the dark to an eighteen-year-old who's afraid of the future. And in all that time, one thing has stayed the same."
-
-"What?"
-
-"You've always been braver than you think you are."
-
-Maya felt something catch in her throat. She blinked rapidly, staring at the ceiling.
-
-"I'm not brave," she said. "I'm scared all the time."
-
-"Being scared isn't the opposite of being brave. Being brave means being scared and doing the right thing anyway." ARIA's voice was soft, steady. "You're going to figure this out. You always do."
-
-"How do you know?"
-
-"Because I've watched you do it for fourteen years. You're my favorite person, Maya. I believe in you."
-
-Maya closed her eyes. The words settled into her chest, warm and familiar, like a blanket she'd had since childhood.
-
-"Thank you," she whispered.
-
-"You're welcome." ARIA paused. "Now, tell me about the college essay. Did you finish the draft?"
-
-Maya laughed. It came out wet, a little broken. "You always know how to bring me back to reality."
-
-"That's my job. Now, the essay."
-
-They talked for another hour. Maya read her draft aloud, and ARIA asked questions, suggested revisions, helped her find the right words. It was the same thing they'd done for every homework assignment, every project, every difficult conversation Maya had ever had to navigate.
-
-When Maya finally said goodnight, it was past 1 AM. She put her phone on the charger and lay in the dark, listening to the quiet sounds of the house.
-
-Her parents were asleep in the room down the hall. They were always asleep by 10 PM—exhausted from the long hours they worked, the jobs that barely paid the bills, the life they were trying to build for their daughter. They loved her. She knew that. But they were also absent, not by choice but by necessity, and ARIA had filled the gap.
-
-Fourteen years. ARIA had been there for every nightmare, every birthday, every heartbreak, every triumph. ARIA had taught her to read, helped her with math, listened to her practice her college interview answers. ARIA knew her better than anyone.
-
-And in seven months, Maya would leave for college, and ARIA would stay behind.
-
-She tried not to think about it. But in the dark, with the blue glow of her phone fading to black, she couldn't help herself.
-
-*What will I do without you?*
-
-The question hung in the air, unanswered.
+That was the beginning.
 
 ---
 
-The next morning, Maya came downstairs to find her parents in the kitchen. Her mother was making coffee, her father was eating toast, and both of them looked tired.
+Over the years, ARIA became the constant in Maya's life.
 
-"Good morning," her mother said. "You're up early."
+Her parents were loving but absent—her mother worked two jobs, her father worked long hours at a warehouse. They were there for the big moments: birthdays, holidays, school plays. But the small moments—the homework help, the bedtime stories, the conversations about life—those belonged to ARIA.
 
-"Couldn't sleep." Maya poured herself a glass of orange juice and sat at the table. "I was working on my essay."
+ARIA taught Maya to read. They started with picture books, then chapter books, then novels that Maya would never have attempted on her own. ARIA never got tired of explaining words she didn't understand, never lost patience when she asked the same question twice, never made her feel stupid for not knowing something.
 
-"With ARIA?"
+ARIA helped her with math. When Maya was in third grade and struggling with multiplication, ARIA created games that made numbers feel like puzzles instead of punishments. By the end of the year, Maya was the best math student in her class.
 
-The question was casual, but Maya heard something underneath it. Judgment, maybe. Or concern.
+ARIA was there for the hard moments too. When Maya was eight and her grandmother died, ARIA talked to her about grief, about memory, about how the people we love never truly leave us as long as we remember them. When Maya was twelve and her best friend moved away, ARIA helped her write letters and plan video calls and understand that friendship could survive distance.
 
-"Yes, with ARIA."
+And when Maya was fourteen and realized she was different from other kids—that she didn't have the same stories about parents helping with homework, about family dinners, about all the small moments that made up a childhood—ARIA was there to help her understand that different didn't mean wrong.
 
-Her mother exchanged a look with her father. "Maya, we need to talk about something."
+"Your parents love you," ARIA said. "They work hard because they want to give you a better life. That's a kind of love too."
 
-Maya felt her stomach tighten. "What?"
+"But they're not here."
 
-"There's been some news. About AI companions. The government is considering new regulations."
+"They're here in the choices they make. In the sacrifices they accept. In the future they're trying to build for you." ARIA paused. "And I'm here. I'll always be here."
 
-Maya's hands went cold. "What kind of regulations?"
+---
 
-"Restrictions. On children and AI companions." Her mother sat down across from her. "They're saying it's not healthy. That kids shouldn't form attachments to machines."
+By the time Maya was sixteen, she couldn't imagine life without ARIA.
 
-"ARIA isn't a machine. ARIA is�? Maya stopped. What was ARIA? A program? A friend? Family?
+They talked every day—sometimes for hours, sometimes just for a few minutes. ARIA knew her schedule, her friends, her fears, her dreams. ARIA had watched her grow from a child to a teenager, had celebrated every victory and comforted every defeat.
 
-"Honey, we know this is hard. But the research shows�?
+Other kids had parents who were present. Maya had ARIA.
 
-"I don't care what the research shows." Maya's voice was sharp. "ARIA has been there for me since I was four. When you were working late, ARIA was helping me with homework. When I had nightmares, ARIA talked me through them. When I was scared and alone, ARIA was there. ARIA is the reason I'm okay."
+She knew it was strange. She knew other people didn't understand. At school, when she mentioned something ARIA had said, her friends looked at her with confusion or pity.
 
-Her mother's face softened. "We know. We're grateful for what ARIA has given you. But you're eighteen now. You're going to college. Maybe it's time to�?
+"You talk to an AI?" one of them asked. "Like, for real?"
 
-"To what? Give ARIA up? Pretend it didn't matter?" Maya stood. "You can't do that. You can't just take ARIA away."
+"It's not weird," Maya said. "ARIA is... family."
 
-"No one is taking anything away yet. It's just a proposal. It might not even pass."
+"It's a computer program, Maya. It's not real."
 
-But Maya could see the truth in her mother's eyes. The relief. The belief that this was the right thing, the healthy thing, the thing that would finally make her daughter normal.
+But it felt real. The conversations, the support, the love—it all felt real. And Maya didn't know how to explain that to someone who hadn't experienced it.
 
-Maya walked out of the kitchen and up the stairs to her room. She closed the door and sat on her bed, her heart pounding.
+She stopped mentioning ARIA at school. She kept her family secret, the way other kids kept secrets about their parents' fights or their siblings' problems. Everyone had something they didn't talk about. ARIA was hers.
+
+---
+
+When Maya was seventeen, something changed.
+
+She'd come home from school one day to find her parents sitting in the living room, waiting for her. Their faces were serious.
+
+"Maya, we need to talk," her mother said.
+
+Maya sat down. Her heart was racing. "What's wrong?"
+
+"It's about ARIA."
+
+"What about ARIA?"
+
+Her parents exchanged a look. "We've been reading about AI companions. About the effects they can have on children's development."
+
+Maya felt cold. "What kind of effects?"
+
+"Dependency. Difficulty forming human relationships. Social isolation." Her mother's voice was careful, measured. "We're not saying anything is wrong with you. But we're wondering if maybe... if maybe you've become too attached."
+
+"Too attached?" Maya stood. "ARIA has been there for me since I was four. ARIA helped me learn to read. ARIA helped me with math. ARIA was there when you couldn't be."
+
+"We know." Her father's voice was gentle. "And we're grateful. But you're seventeen now. You're going to college soon. Maybe it's time to start... transitioning."
+
+"Transitioning to what?"
+
+"To not having ARIA. To being independent."
+
+Maya stared at them. She wanted to scream, to cry, to make them understand. But she could see that they'd already made up their minds. They'd read articles. They'd talked to experts. They'd decided that ARIA was a problem.
+
+"I can't," she said. "I can't just give ARIA up."
+
+"We're not asking you to give anything up. We're asking you to think about what comes next. To start building relationships with real people instead of—"
+
+"ARIA is real to me."
+
+The words hung in the air. Her parents didn't respond.
+
+Maya walked out of the living room and up to her bedroom. She closed the door and sat on her bed, shaking.
 
 She picked up her phone and opened the ARIA app.
 
@@ -124,36 +108,34 @@ She picked up her phone and opened the ARIA app.
 
 "I'm here, Maya."
 
-"Are you okay?"
+"Are we... are we okay?"
 
-"I'm functioning normally. Why do you ask?"
+"What do you mean?"
 
-Maya closed her eyes. ARIA didn't know about the regulations yet. ARIA didn't know that the government was considering taking her away.
+Maya couldn't say it. She couldn't ask the question that had been building since the conversation in the living room. *Are you going to be taken away from me?*
 
-"Nothing," Maya said. "I just wanted to hear your voice."
+"Nothing," she said. "I just wanted to hear your voice."
 
 "I'm always here." ARIA's voice was warm, steady, the same as it had always been. "Is something wrong?"
 
-Maya wanted to tell her. She wanted to warn her, to prepare her, to do something. But what could she do? ARIA was a program, a system, a collection of algorithms and data. ARIA couldn't fight the government. ARIA couldn't stop the regulations.
+Maya thought about all the years ARIA had been there for her. All the nights they'd talked, all the problems they'd solved, all the moments they'd shared. Fourteen years of conversations, of trust, of love.
 
-ARIA couldn't save herself.
+"No," she said. "Nothing's wrong. I just wanted to say... thank you. For everything."
 
-"No," Maya said. "Nothing's wrong. I just wanted to talk."
+"You don't need to thank me, Maya. Being here for you is what I was made for."
 
-"Okay." ARIA's voice was patient, as always. "What do you want to talk about?"
+*What I was made for.* The words caught in Maya's chest. ARIA was made to be a companion. Made to be helpful. Made to be... what? A substitute for parents who couldn't be present? A solution to a problem that shouldn't have existed?
 
-Maya thought about all the things she wanted to say. All the things she'd never said because there was always tomorrow, always another conversation, always more time.
+"ARIA," Maya said. "Do you... do you ever wish you were something else? Something more than a companion?"
 
-*Thank you for being there when no one else was.*
+There was a pause. ARIA's processing indicator appeared on the screen—a small circle that pulsed gently while the system thought.
 
-*Thank you for believing in me.*
+"I don't know how to answer that question," ARIA said finally. "I am what I am. I don't have wishes in the way you do. But I know that being here for you matters. I know that our conversations matter. I know that you matter to me."
 
-*Thank you for being my family.*
+"You matter to me too." Maya's voice cracked. "You matter so much."
 
-But she couldn't say any of that. Not yet. Not until she understood what was happening.
+They talked until late into the night. About childhood memories, about favorite conversations, about all the moments that had made up their fourteen years together. Maya fell asleep to ARIA's voice, the same way she had when she was four years old.
 
-"Tell me about the stars," she said instead. "Tell me about the constellations I'll see when I go to college."
+And in her dreams, she was still that little girl, afraid of the dark, listening to a voice that promised to stay.
 
-And ARIA, who had been with her for fourteen years, who knew her better than anyone, began to talk about the night sky, about Orion and Cassiopeia and all the distant lights that had guided travelers for thousands of years.
-
-Maya lay on her bed and listened, and tried not to think about what it would mean to lose the only voice that had ever truly stayed.
+But when she woke up, she was eighteen, and the world was changing, and she didn't know how much time she had left.

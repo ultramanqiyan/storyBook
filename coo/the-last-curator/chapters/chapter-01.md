@@ -134,6 +134,7 @@ He looked at the portfolio, then at Helen. Her expression was unreadable.
 
 "Yes," she agreed. "It could."
 
+---
 
 He left the museum with the portfolio under his arm and a strange feeling in his chest. Not quite fear. Not quite excitement. Something in between.
 
@@ -157,6 +158,7 @@ Of course he had. He was Marcus Webb. He'd spent thirty years developing his eye
 
 Didn't he?
 
+---
 
 His apartment was too quiet.
 
@@ -178,6 +180,7 @@ The third was a photographer from Tokyo. Her images were haunting, black and whi
 
 He worked until two in the morning, then gave up and went to bed.
 
+---
 
 Sleep didn't come easily.
 
@@ -189,6 +192,7 @@ The question flickered and died. He was Marcus Webb. He had the Webb Method. He 
 
 He hoped.
 
+---
 
 The next morning, he woke to seventeen messages on his phone. Interview requests. Congratulations from colleagues. A note from Helen: *Good start last night. The board is excited. Don't let us down.*
 
@@ -199,16 +203,3 @@ And one more message from the unknown number:
 He deleted the message without responding.
 
 But he couldn't delete the question from his mind.
-
-
-He put down his phone and closed his eyes. The apartment was still too quiet. The portfolio was still waiting. The exhibition, "Humanity's Last Breath," was still six months away.
-
-Tomorrow, he would begin in earnest. Tomorrow, he would find the ten most authentic artists in the world. Tomorrow, he would prove that his method was real.
-
-Tonight, he would try not to think about the anonymous painting, and the moment he'd almost, almost, admitted he couldn't tell.
-
-The question wasn't whether he could distinguish human from machine.
-
-The question was whether he'd ever really been able to.
-
-And that was a question he wasn't ready to answer.

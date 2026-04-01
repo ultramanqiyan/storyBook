@@ -8,7 +8,7 @@ Webb entered carrying three cups of fresh coffee, his expression unreadable. Sar
 
 "And?" Alex's voice emerged steadier than they felt.
 
-"And I believe you." Webb's admission carried the weight of professional risk. "I believe Elena Vasquez was murdered. I believe James Mitchell orchestrated the cover-up. And I believe�? he paused, choosing his words carefully, "—I believe her consciousness survived the transfer."
+"And I believe you." Webb's admission carried the weight of professional risk. "I believe Elena Vasquez was murdered. I believe James Mitchell orchestrated the cover-up. And I believe—" he paused, choosing his words carefully, "—I believe her consciousness survived the transfer."
 
 Sarah's breath caught. "You've seen her?"
 
@@ -18,13 +18,13 @@ Alex felt the jade pendant warm against their chest—a signal, perhaps, or just
 
 "Now we build a case that can survive in court." Webb pulled out a notepad, professional focus replacing wonder. "Mitchell is powerful. He has lawyers, connections, influence. If we move against him without ironclad proof, he'll destroy us all."
 
-"The flash drive�?
+"The flash drive—"
 
 "Is a start. But we need more. We need witnesses who can testify. We need to establish motive, opportunity, means. We need to prove that consciousness transfer is real, that Elena exists, that Mitchell deliberately caused her death."
 
 "I can testify," Sarah said. "I was there. I saw what happened."
 
-"Your testimony will be crucial. But we also need�? Webb hesitated, "—we need Elena herself. Some way to prove she exists, that she's conscious, that she's been trying to communicate."
+"Your testimony will be crucial. But we also need—" Webb hesitated, "—we need Elena herself. Some way to prove she exists, that she's conscious, that she's been trying to communicate."
 
 Alex pulled out their laptop. "She's here. She's been listening."
 

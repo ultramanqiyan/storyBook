@@ -108,6 +108,7 @@ She didn't know. She might never know. But for now, she could speak. She could c
 
 And that, she decided, was enough.
 
+---
 
 Before bed, Elena sat at her desk and looked at the manuscript she had been working on before the stroke. *Language and Consciousness: How Words Shape Thought.* The title seemed ironic now, given everything she had experienced.
 

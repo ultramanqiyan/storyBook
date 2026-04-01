@@ -1,16 +1,16 @@
 # Chapter 7: The Bigger Risk
 
-The garden marketing plan was coming together. Sarah had drafted social media posts, sketched out a newsletter template, and even brainstormed event ideas—a harvest festival, a plant swap, a workshop series. For the first time in months, work felt like play. Not the work that paid her bills, but work nonetheless. Real work. Meaningful work.
+The garden marketing plan was coming together. Sarah had drafted social media posts, sketched out a newsletter template, and even brainstormed event ideas—a harvest festival, a plant swap, a workshop series. She looked at the document on her screen and felt something she hadn't felt in a long time: pride. Not performative pride, not the kind that came from projecting confidence she didn't feel, but the quiet kind that came from actually doing something.
 
-She looked at the document on her screen and felt something she hadn't felt in a long time: pride. Not the performative kind she projected on LinkedIn, but the quiet kind that comes from actually doing something. The cursor blinked at the end of her latest paragraph, waiting for more. She kept typing.
-
-She saved the document and closed her laptop. Tomorrow was a regular work day. But tonight, she'd done something that mattered.
+She saved the document and closed her laptop. Tomorrow was another work day. But tonight, she'd done something that mattered.
 
 ---
 
-"Sarah, I wanted to talk to you about something."
+"Sarah, I want to talk to you about something."
 
-Her manager's face filled the screen, her expression serious but not unkind. The Thursday afternoon video call had started normally—project updates, timeline questions—but now there was something different in her tone.
+Her manager's face filled the screen, her expression serious but not unkind. The Thursday afternoon video call had started normally—project updates, timeline questions—and then her manager's tone had shifted.
+
+Sarah's stomach dropped. She knew that tone. She'd heard it before, in other contexts, other disappointments.
 
 "We have a new project launching next month. High visibility. Cross-functional team. I think you'd be good for it."
 
@@ -45,7 +45,6 @@ The voice was screaming. Did that mean she was close to something?
 By Friday afternoon, she was paralyzed. She couldn't say yes. She couldn't say no. She was stuck in the familiar loop, the research spiral, the overthinking trap. She needed to hear a voice that wasn't her own.
 
 She picked up her phone. David would be home by now.
-
 
 "Hey, sis. What's up?"
 
@@ -101,6 +100,7 @@ They talked for another twenty minutes. David shared his own story—taking the 
 
 "Anytime, sis. That's what brothers are for."
 
+---
 
 Sunday night. The email was drafted, the cursor blinking. All she had to do was hit send.
 
@@ -113,7 +113,7 @@ Sunday night. The email was drafted, the cursor blinking. All she had to do was 
 
 Three sentences. Three sentences that would commit her to something big and scary and uncertain. Three sentences that would make her visible.
 
-The voice was still there�?what are you doing? you're going to fail"—but it was quieter now. Or maybe she was just better at hearing past it.
+The voice was still there—"what are you doing? you're going to fail"—but it was quieter now. Or maybe she was just better at hearing past it.
 
 She looked at the notes she'd written: Elena's wisdom, David's words. Two keys now. Two reminders that action comes before certainty, that willing is more important than ready.
 
@@ -121,7 +121,7 @@ She hit send before she could overthink it.
 
 The email disappeared into the digital void, and for a moment she couldn't breathe. Then she could. She'd done it. She'd said yes to something big and scary and uncertain. Now she had to live with it.
 
-The voice in her head was already starting up�?what did you just do?"—but she wrote down David's words next to Elena's: "You don't have to be ready. You just have to be willing."
+The voice in her head was already starting up—"what did you just do?"—but she wrote down David's words next to Elena's: "You don't have to be ready. You just have to be willing."
 
 Two keys now. Two reminders that action comes before certainty.
 

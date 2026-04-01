@@ -66,6 +66,7 @@ She closed the book and sat back, her hands trembling.
 
 *What else have I forgotten? What else did I let them take?*
 
+---
 
 The books lay scattered across the floor, open to various pages, their spines cracked from use. Sarah sat among them, her back against the couch, staring at nothing.
 
@@ -83,6 +84,7 @@ The grief came suddenly, catching her off guard. She wasn't crying, she didn't c
 
 That doctor was gone. Or maybe not gone, maybe just buried, waiting to be found.
 
+---
 
 She sat on the floor for a long time, the weight of her failure pressing down on her. The morning light had shifted, the pale stripes on the floor now angled toward the kitchen. The city sounds outside had changed too, more traffic, more voices, the rhythm of a day in full swing.
 

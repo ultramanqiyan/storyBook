@@ -30,7 +30,7 @@ James discovered it during a routine integration test—a data flow issue that, 
 
 Elena felt the blood drain from her face. "How long to fix it?"
 
-James ran his fingers through his hair. "Three days minimum. It's deep in the permission inheritance logic. We'd have to refactor the whole�?
+James ran his fingers through his hair. "Three days minimum. It's deep in the permission inheritance logic. We'd have to refactor the whole..."
 
 "We launch in two days," Priya said quietly from across the room.
 
@@ -72,7 +72,7 @@ The room went quiet. Elena saw James's expression shift from frustration to cons
 
 "But we'd never have a request using inconsistent data." Priya was already typing. "Let me prototype it."
 
-The next six hours were a blur of code, whiteboard diagrams, and intense discussion. Elena found herself in the unfamiliar role of coordinator—keeping the pairs on schedule, managing the handoffs, ensuring that no one worked past their shift. She made coffee runs, ordered food, and occasionally sat in on the coding sessions, asking questions that helped clarify the approach.
+The next six hours were a blur of code, whiteboard diagrams, and intense discussion. Elena found herself in the unfamiliar role of coordinator— keeping the pairs on schedule, managing the handoffs, ensuring that no one worked past their shift. She made coffee runs, ordered food, and occasionally sat in on the coding sessions, asking questions that helped clarify the approach.
 
 By midnight, they had a working prototype.
 
@@ -90,7 +90,7 @@ Elena stared at the test results on his screen. Green checkmarks. Success indica
 
 The deployment happened at three o'clock on Thursday afternoon.
 
-Elena had invited everyone—the Phoenix team, the portal team, the mobile app team, even the security compliance lead. They crowded into the main conference room, watching the big screen where James had mirrored his laptop.
+Elena had invited everyone—the the Phoenix team, the portal team, the mobile app team, even the security compliance lead. They crowded into the main conference room, watching the big screen where James had mirrored his laptop.
 
 The deployment script ran. Progress bars filled. Services restarted. Health checks passed.
 
@@ -108,7 +108,7 @@ Elena looked at the screen, still showing the success message. Ninety-two percen
 
 "Thank you," she said to her team. "Thank you for trusting me. Thank you for focusing. Thank you for not giving up when it got hard."
 
-Tom put his arm around her shoulders. "Thank you for showing us how."
+Tom put his arm around her shoulders. "Thank you for showing us how"
 
 ---
 

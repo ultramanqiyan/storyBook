@@ -40,7 +40,7 @@ David came in the afternoon. Elena knew it was David before she saw him—she re
 
 When he appeared in the doorway, his face was a map of everything she couldn't say. Fear. Love. Hope. Grief. She read it all in the set of his jaw, the crinkle around his eyes, the way his hands reached for her before he was fully in the room.
 
-"Elena." Her name in his mouth was a sound she almost recognized. Almost. The syllables were there�?E-le-na*—but they were just sounds, just noise shaped into something that should have been meaning.
+"Elena." Her name in his mouth was a sound she almost recognized. Almost. The syllables were there—*E-le-na*—but they were just sounds, just noise shaped into something that should have been meaning.
 
 She reached for him. Her hand found his, and the touch was real, was present, was a communication that didn't need words. His fingers closed around hers, warm and tight, and she felt the tremor in his grip.
 
@@ -54,6 +54,7 @@ The thought was clear. Perfect. Complete. But it had no words. And when she open
 
 She squeezed his hand instead. It wasn't enough. It would never be enough. But it was what she had.
 
+---
 
 That night, after David had gone home to sleep, after the nurses had checked her vitals and dimmed the lights, Elena lay in the hospital bed and thought.
 
@@ -77,6 +78,7 @@ She didn't know. She might never know. But in the silence of the hospital room, 
 
 She felt free.
 
+---
 
 The next morning, Dr. Chen returned with a specialist—a speech therapist named Maria, whose name tag and warm smile suggested competence and compassion. Elena watched them enter, watched the way they positioned themselves around her bed, the careful distance they maintained between professional concern and personal warmth.
 
@@ -84,7 +86,7 @@ The next morning, Dr. Chen returned with a specialist—a speech therapist named
 
 She was right. Maria began with simple questions, pointing to objects and waiting for Elena to name them. The objects were familiar—a pen, a cup, a picture of a tree. Elena knew what they were. The knowledge existed in her mind, clear and complete, like objects on a shelf. But when she tried to say the names, nothing came. Just sounds. Just silence.
 
-Then Maria tried something different. She held up a card with a picture and asked Elena to point to the corresponding word from a list. Elena's finger moved without hesitation�?tree, cup, pen*—each selection correct, each meaning clear. The knowledge was there. The understanding was there. Only the words were missing.
+Then Maria tried something different. She held up a card with a picture and asked Elena to point to the corresponding word from a list. Elena's finger moved without hesitation—*tree, cup, pen*—each selection correct, each meaning clear. The knowledge was there. The understanding was there. Only the words were missing.
 
 "You have bilingual aphasia," Dr. Chen explained, speaking slowly, clearly, watching Elena's face for signs of understanding. "The stroke affected your language centers—specifically, the areas responsible for translating thought into speech. You can understand language. You can read. You can think. But you cannot speak or write."
 

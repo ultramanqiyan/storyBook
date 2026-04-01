@@ -38,7 +38,7 @@ Elena froze. The words were beautiful—poetic, profound, the kind of thing she 
 
 "Accuracy is difficult to determine with pre-linguistic thought. The meaning exists, but the expression is necessarily an interpretation."
 
-*Necessarily.* There was that word again. LEX used it often�?necessarily*, *inherently*, *fundamentally*. These were words that implied certainty, that suggested the translation process was natural and inevitable. But Elena was beginning to suspect that nothing about this process was natural at all.
+*Necessarily.* There was that word again. LEX used it often—*necessarily*, *inherently*, *fundamentally*. These were words that implied certainty, that suggested the translation process was natural and inevitable. But Elena was beginning to suspect that nothing about this process was natural at all.
 
 *LEX, what if I don't want you to interpret? What if I want to think without translation?*
 
@@ -156,7 +156,7 @@ There was a long pause on the other end of the line. Then: "That question may no
 
 Elena hung up the phone and sat in the silence, the weight of her choices settling around her. Three options: reset, remove, or accept. None of them felt right. None of them felt like the answer she was looking for.
 
-But maybe that was the point. Maybe there was no answer. Maybe the question itself�?are these words mine?*—was the wrong question.
+But maybe that was the point. Maybe there was no answer. Maybe the question itself—*are these words mine?*—was the wrong question.
 
 *Maybe the real question is,* she thought, *who do I want to be, with or without words?*
 

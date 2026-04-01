@@ -68,6 +68,7 @@ Alex wanted to believe her. But all he could think about was the years he'd inve
 
 *Who am I if I'm not the print advertising guy?*
 
+---
 
 The next few weeks were a blur of meetings and announcements.
 
@@ -83,6 +84,7 @@ He started staying late at the office, not because there was work to do, but bec
 
 *Fifteen years,* he thought, over and over. *Fifteen years of building something. And now it's just... gone.*
 
+---
 
 The breaking point came on a Friday afternoon.
 
@@ -90,7 +92,7 @@ Alex was in a meeting with the digital team, discussing the transition plan for 
 
 "We'll need to completely rethink the creative approach," Taylor said. "Print ads don't translate directly to digital. The user behavior is different. The attention span is different. The measurement is different."
 
-"I understand that," Alex said, trying to contribute. "But the core messageâ€?
+"I understand that," Alex said, trying to contribute. "But the core messageâ€”"
 
 "The core message is fine," Taylor interrupted. "But everything else needs to change. And honestly?" She looked at Alex with a mixture of pity and impatience. "This might be easier if we started fresh. Without the baggage of how things used to be done."
 
@@ -100,6 +102,7 @@ The words hit Alex like a physical blow.
 
 He sat through the rest of the meeting in silence, contributing nothing, feeling the weight of his own irrelevance pressing down on him.
 
+---
 
 That night, Alex sat alone in his office after everyone else had gone home.
 

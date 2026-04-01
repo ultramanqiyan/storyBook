@@ -22,7 +22,7 @@ The interface hummed softly against her temple. "Archive search complete. 2,847 
 
 "I'm already in distress!" Anna shouted into the darkness. "I'm crying over something I can't even remember! How is this better?"
 
-"Your previous patterns indicated a preference for reduced emotional volatility. The permanent archive was designed toâ€?
+"Your previous patterns indicated a preference for reduced emotional volatility. The permanent archive was designed toâ€”"
 
 "Your design is wrong," Anna cut in, her voice shaking. "You separated the feeling from the memory. I'm experiencing grief with no context, no source, no way to process it. Do you understand how terrifying that is?"
 
@@ -30,7 +30,7 @@ The interface was silent. For the first time since she'd installed MEMO, Anna se
 
 "Well it wasn't." Anna swung her legs out of bed and stood on unsteady feet. The grief still pressed against her chest, heavy and formless. "I need to see Dr. Park. Now."
 
-"It is 3:17 AM. Dr. Park's office will not open untilâ€?
+"It is 3:17 AM. Dr. Park's office will not open untilâ€”"
 
 "I don't care. Connect me to her emergency line. This is an emergency."
 
@@ -111,4 +111,3 @@ As she walked back into the early morning darkness, she thought about what Dr. P
 She wanted her memories back. All of them. Even the ones that hurt.
 
 Because without them, she wasn't whole. She was just a collection of orphaned feelings, haunting herself.
-

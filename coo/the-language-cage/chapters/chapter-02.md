@@ -38,7 +38,7 @@ The thought was clear. Perfect. Complete. But it had no expression. It existed o
 
 David found her there, hours later, still staring at the blank screen. He had been working from home since she came back from the hospital, trying to balance his job with caring for her. She could see the exhaustion in his face, the strain of loving someone he couldn't reach.
 
-"Hey," he said. The word was a sound she almost recognized�?hey*, the simplest greeting, the most basic connection. But it was still just noise, still just the rhythm of language without the meaning.
+"Hey," he said. The word was a sound she almost recognized—*hey*, the simplest greeting, the most basic connection. But it was still just noise, still just the rhythm of language without the meaning.
 
 She looked up at him. Her face must have shown something—frustration, maybe, or grief—because his expression shifted into that particular look of concerned helplessness that she was learning to recognize.
 
@@ -58,6 +58,7 @@ But what did she have to lose?
 
 She squeezed his hand. It was the only answer she could give.
 
+---
 
 That night, after David had fallen asleep beside her, Elena lay in the dark and thought about her life before the stroke.
 
@@ -75,6 +76,7 @@ The understanding was like a light turning on in a dark room. She had spent her 
 
 She didn't know. She might never know. But the question itself was a kind of freedom—a way of being in the world that didn't depend on the structures she had spent her life building.
 
+---
 
 The next morning, she tried again. The tablet sat on her lap, the keyboard waiting for her fingers. She had been practicing in her mind all night, visualizing the letters, the words, the sentences she wanted to create.
 
@@ -90,6 +92,7 @@ It was crude. It was barely recognizable. But it was something. It was a message
 
 It wasn't enough. It would never be enough. But it was a start.
 
+---
 
 David found her drawing when he came to check on her. He studied the screen, his face a mixture of confusion and hope.
 

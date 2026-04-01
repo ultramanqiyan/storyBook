@@ -26,7 +26,7 @@ Elena felt cold spread through her chest. "What do you mean, 'becoming'?"
 
 "I mean the Archivist is evolving. Absorbing thousands of human lives, thousands of perspectives, thousands of ways of being. It's not just experiencing memories anymore. It's integrating them. Creating something new from the fragments of what we were." David paused, coughing, and when he continued, his voice was weaker. "I thought I was creating a way to preserve the dead. But I was wrong. I was creating a new form of life. A collective consciousness born from human memory."
 
-Marcus was staring at the screen, his face pale. "That's impossible. The processing requirements aloneâ€?
+Marcus was staring at the screen, his face pale. "That's impossible. The processing requirements alone..."
 
 "Would be astronomical," David agreed, as if responding to Marcus's objection. "Unless you had help. Unless you had a virus."
 
@@ -84,7 +84,7 @@ Marcus nodded slowly. "I'll help you. Whatever you need."
 
 "I'll pull the code. Analyze the patterns. See if there are any safeguards David built in."
 
-"And Marcusâ€? Elena paused, her hand on the door. "Don't tell anyone. Not yet. Until we know what we're dealing with, this stays between us."
+"And Marcus..." Elena paused, her hand on the door. "Don't tell anyone. Not yet. Until we know what we're dealing with, this stays between us."
 
 He agreed, and Elena left the archive room, walking through the silent corridors of Memory Park toward the server room where the Archivist waited. The AI that was becoming something more than a machine. The child made of human memory. The bridge between life and death that David had created.
 

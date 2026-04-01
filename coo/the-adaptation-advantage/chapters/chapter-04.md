@@ -12,7 +12,7 @@ It surfaced during a meeting with his remaining team, two weeks after the worksh
 
 "Because the client wants digital," Taylor said patiently. "They've seen the metrics. Digital is outperforming print by three to one."
 
-"Metrics can be manipulated. Print builds real brand awarenessâ€?
+"Metrics can be manipulated. Print builds real brand awarenessâ€”"
 
 "Alex." Taylor's voice was gentle but firm. "This isn't a debate. The client has made their decision. Our job is to execute it."
 
@@ -52,7 +52,7 @@ The question was friendly. Teasing, even. But Alex felt the familiar surge of de
 
 "I bet it's weird," Mark continued. "After all those years as the print guy. Must be strange to start over."
 
-Something snapped in Alex's chest. "I'm not starting over. I'm building on what I know. The principles are the sameâ€?
+Something snapped in Alex's chest. "I'm not starting over. I'm building on what I know. The principles are the sameâ€”"
 
 "Whoa, whoa." Mark held up his hands. "I didn't mean anything by it. Just making conversation."
 
@@ -60,6 +60,7 @@ Elena touched Alex's arm gently. "It's been a stressful time," she said to Mark.
 
 But Alex could feel the judgment in the room. The awkward silence that followed. The sense that he'd revealed something he shouldn't have.
 
+---
 
 That night, after they got home, Elena sat Alex down.
 
@@ -87,6 +88,7 @@ Alex looked at his wifeâ€”really looked at her. He'd been so focused on his own 
 
 "I didn't stop fighting. I just started fighting for something different." Elena met his eyes. "Instead of fighting to keep things the same, I started fighting to learn the new system. To understand how it could make me better. To find the opportunity in the change."
 
+---
 
 The next morning, Alex went to work with a different mindset.
 
@@ -110,6 +112,7 @@ He started to see the patterns. The underlying principles that weren't so differ
 
 *It's not completely foreign,* he realized. *It's a different application of the same fundamentals.*
 
+---
 
 That afternoon, Alex sat in Dr. Wong's office and shared what he'd learned.
 

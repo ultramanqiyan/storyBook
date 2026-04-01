@@ -26,7 +26,7 @@ The drive home took him through the heart of the city, past restaurants and thea
 
 His apartment was exactly as he had left it, pristine, expensive, empty. He had filled it with beautiful things, hoping that beauty might evoke something, anything. But the art on the walls was just pigment on canvas. The furniture was just wood and fabric. The view was just light and shadow. Nothing touched him.
 
-He made dinner, something simple, something he could eat without tasting, and sat at the kitchen island, scrolling through his phone. Messages from colleagues, notifications from apps, news from around the world. None of it mattered. None of it reached him.
+He made dinner, something simple, something he could eat without tasting, and sat at the kitchen island, scrolling through his phone. Messages from colleagues, notifications from apps, news from around world. None of it mattered. None of it reached him.
 
 *What is wrong with me?* he wondered, not for the first time. *I have everything. Why can't I feel anything?*
 
@@ -49,4 +49,3 @@ David read through the website, his heart rate increasing slightly, the first ph
 He didn't know. But for the first time in years, he felt something that might have been hope. Or maybe just the absence of despair. Either way, it was enough.
 
 He made an appointment for the following week. Then he lay back in his bed, in his perfect apartment, in his perfect life, and waited for something, anything, to change.
-

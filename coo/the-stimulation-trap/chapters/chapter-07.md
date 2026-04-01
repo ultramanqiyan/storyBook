@@ -266,7 +266,8 @@ But he doesn't die.
 
 The pain continues. And continues. And continues.
 
-And thenâ€?
+And thenâ€¦
+
 It stops.
 
 

@@ -2,19 +2,19 @@
 
 The morning passed in a blur of signatures.
 
-Mike's pen moved across documents with mechanical precision, his name appearing at the bottom of approvals and denials he barely registered. Forty-three claims by noon鈥攈is dashboard told him this, the number glowing in the corner of his screen like a score in a game he'd forgotten he was playing.
+Mike's pen moved across documents with mechanical precision, his name appearing at the bottom of approvals and denials he barely registered. Forty-three claims by noon—his dashboard told him this, the number glowing in the corner of his screen like a score in a game he'd forgotten he was playing.
 
-*The Martinez property*, he thought, clicking open the next file. *No, that's tomorrow.* He stared at the screen, trying to orient himself in the queue. The claims all looked the same after a while鈥攄ata points and probability scores, client profiles and property specifications, each one a decision that bore his signature but not his thought.
+*The Martinez property*, he thought, clicking open the next file. *No, that's tomorrow.* He stared at the screen, trying to orient himself in the queue. The claims all looked the same after a while—data points and probability scores, client profiles and property specifications, each one a decision that bore his signature but not his thought.
 
 His coffee had gone cold again. He couldn't remember pouring it.
 
 Around eleven, something shifted.
 
-It wasn't a dramatic change鈥攋ust a subtle tightening in his stomach, a sensation so unfamiliar that it took him a moment to recognize it. He paused, his hand hovering over the mouse, and tried to name what he was feeling.
+It wasn't a dramatic change—just a subtle tightening in his stomach, a sensation so unfamiliar that it took him a moment to recognize it. He paused, his hand hovering over the mouse, and tried to name what he was feeling.
 
 *This feels wrong.*
 
-The thought came from somewhere deep, somewhere he hadn't accessed in months. He looked at the claim on his screen鈥攁 property evaluation for a client named David Chen, a young family looking for their first home in the Austin suburbs. HomeMatch had already rendered its verdict: approve, 94% confidence. The property was a perfect match, the algorithm said. Four bedrooms, good schools, updated systems, reasonable price.
+The thought came from somewhere deep, somewhere he hadn't accessed in months. He looked at the claim on his screen—a property evaluation for a client named David Chen, a young family looking for their first home in the Austin suburbs. HomeMatch had already rendered its verdict: approve, 94% confidence. The property was a perfect match, the algorithm said. Four bedrooms, good schools, updated systems, reasonable price.
 
 Everything looked right.
 
@@ -24,7 +24,7 @@ He scrolled through the data, searching for what had triggered the sensation. Th
 
 *Then why does this feel wrong?*
 
-He tried to remember the last time he'd felt this way鈥攖his physical sense that something was off, that the data was missing something important. It had been months. Maybe longer. The sensation was like a language he'd once spoken fluently but had slowly forgotten, words and grammar fading until only the vague shape of meaning remained.
+He tried to remember the last time he'd felt this way—this physical sense that something was off, that the data was missing something important. It had been months. Maybe longer. The sensation was like a language he'd once spoken fluently but had slowly forgotten, words and grammar fading until only the vague shape of meaning remained.
 
 *Approve*, the screen urged. *94% confidence. Client match: excellent.*
 
@@ -36,14 +36,14 @@ He opened the full property file, scrolling past the summary into the raw data. 
 
 Except.
 
-His eyes caught on something in the inspection report鈥攁 notation about the foundation, brief and technical. *Minor settling observed. No structural concern.*
+His eyes caught on something in the inspection report—a notation about the foundation, brief and technical. *Minor settling observed. No structural concern.*
 
 *Minor settling.*
 
-The words triggered something, a memory just out of reach. He'd seen this before鈥攖his neighborhood, this type of construction, this particular issue. There was something about the soil composition in this part of Austin, something about the way the clay expanded and contracted with the seasons, something about鈥?
+The words triggered something, a memory just out of reach. He'd seen this before—this neighborhood, this type of construction, this particular issue. There was something about the soil composition in this part of Austin, something about the way the clay expanded and contracted with the seasons, something about...
 But the memory wouldn't come.
 
-He reached for it, straining, like trying to recall a word that sat on the tip of his tongue. He'd known this once. He was certain of it. Twenty-five years of walking through houses had taught him things that no algorithm could capture鈥攖he subtle signs of foundation stress, the particular way certain neighborhoods settled, the warning signs that inspections often missed.
+He reached for it, straining, like trying to recall a word that sat on the tip of his tongue. He'd known this once. He was certain of it. Twenty-five years of walking through houses had taught him things that no algorithm could capture—the subtle signs of foundation stress, the particular way certain neighborhoods settled, the warning signs that inspections often missed.
 
 But the knowledge was gone. Outsourced. Migrated to the cloud and replaced by a probability score that said *94% confidence*.
 
@@ -55,7 +55,7 @@ He clicked approve.
 
 The tightness in his stomach didn't go away.
 
-It followed him through lunch鈥攁 sandwich he didn't taste, eaten at his desk while he processed more claims. It followed him through the afternoon, a low-grade anxiety that hummed beneath his skin like an electrical current. It followed him home, sitting beside him at the dinner table while Susan talked about her day, her students, the upcoming parent-teacher conferences.
+It followed him through lunch—a sandwich he didn't taste, eaten at his desk while he processed more claims. It followed him through the afternoon, a low-grade anxiety that hummed beneath his skin like an electrical current. It followed him home, sitting beside him at the dinner table while Susan talked about her day, her students, the upcoming parent-teacher conferences.
 
 "Mike? Are you listening?"
 
@@ -81,11 +81,11 @@ Everything looked right.
 
 But his stomach was still tight.
 
-He opened a new browser tab and started searching鈥攕oil composition in that Austin neighborhood, foundation issues in homes built in that era, the particular type of settling that occurred in that part of the city. The search results were technical, dense, overwhelming.
+He opened a new browser tab and started searching—soil composition in that Austin neighborhood, foundation issues in homes built in that era, the particular type of settling that occurred in that part of the city. The search results were technical, dense, overwhelming.
 
 *This is what HomeMatch does*, he realized. *This is why I stopped doing it myself. Because the algorithm can process all of this in seconds, and I can't.*
 
-But the algorithm had missed something. He was certain of it. The tightness in his stomach was proof鈥攅vidence of a knowledge that lived in his body if not his mind, a sensory expertise that no amount of data processing could replicate.
+But the algorithm had missed something. He was certain of it. The tightness in his stomach was proof—evidence of a knowledge that lived in his body if not his mind, a sensory expertise that no amount of data processing could replicate.
 
 *What did I used to notice?* he asked himself. *What did I used to feel?*
 
@@ -120,7 +120,7 @@ But he couldn't say that. He had no evidence. The inspection report was clear. T
 
 *Easier*, Mike thought. *Yes. Easier. And wrong.*
 
-He hung up the phone and sat in the silence of his office, the tightness in his stomach now a knot that wouldn't unravel. He'd done everything right鈥攆ollowed the algorithm, trusted the data, approved the match. By every metric that mattered, he'd done his job.
+He hung up the phone and sat in the silence of his office, the tightness in his stomach now a knot that wouldn't unravel. He'd done everything right—followed the algorithm, trusted the data, approved the match. By every metric that mattered, he'd done his job.
 
 But he'd also done something wrong. Something he couldn't name or explain or prove. Something that lived in the space between data and knowledge, between probability and understanding.
 
@@ -143,7 +143,7 @@ Mike's stomach dropped. "And?"
 
 *Someone with experience*, Mike thought. *Someone like me. Someone who used to know things.*
 
-"I'm sorry," he said, and the words felt inadequate, hollow. "I should have鈥?
+"I'm sorry," he said, and the words felt inadequate, hollow. "I should have—"
 
 "The inspection report was clear," David said. "HomeMatch said it was a 94% match. We trusted the system." His voice hardened. "We trusted you."
 
@@ -160,7 +160,7 @@ Because he'd become a rubber stamp for decisions he could no longer explain or d
 
 He didn't go home that night.
 
-Instead, he drove to the Maple Ridge property, parking on the street and walking up the driveway in the fading light. The house looked the same as it had in the photos鈥攃lean, well-maintained, promising. But now he could see what he'd missed before.
+Instead, he drove to the Maple Ridge property, parking on the street and walking up the driveway in the fading light. The house looked the same as it had in the photos—clean, well-maintained, promising. But now he could see what he'd missed before.
 
 The crack in the foundation, subtle but visible if you knew where to look. The way the front door stuck slightly, evidence of shifting. The uneven gap between the roof and the walls, invisible from a distance but obvious up close.
 

@@ -34,7 +34,7 @@ Anna nodded. She understood. She had come to Dr. Park because she was drowning i
 
 "Can we do another one today?" she asked. "Before I lose my nerve?"
 
-Dr. Park hesitated. "It's not recommended to do more than one reintegration per session. The emotional impactâ€?
+Dr. Park hesitated. "It's not recommended to do more than one reintegration per session. The emotional impactâ€”"
 
 "I know the risks." Anna's voice was steady. "But I have 341 memories still archived. At one per session, this will take forever. And every day I wait, I'm at risk of another ghost emotion surfacing."
 
@@ -75,4 +75,3 @@ David's face when he left. The shame of the dinner party. The grief of the misca
 But this time, she knew what she was carrying. This time, the weight had a name.
 
 It would take months. It would hurt. But at least she would be whole again.
-

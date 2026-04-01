@@ -24,7 +24,7 @@ Sarah looked up. Jennifer's face was concernedâ€”the crinkle around her eyes, th
 
 "I'm fine," she said, the practiced response sliding into place. "Just tired."
 
-"You've been tired a lot lately." Jennifer stepped into the office, closed the door behind her. "Sarah, I'm worried about you. You've been... different. More distant, somehow. And I've noticedâ€? She stopped, hesitated. "I've noticed you've been locking yourself in the bathroom. A lot."
+"You've been tired a lot lately." Jennifer stepped into the office, closed the door behind her. "Sarah, I'm worried about you. You've been... different. More distant, somehow. And I've noticed..." She stopped, hesitated. "I've noticed you've been locking yourself in the bathroom. A lot."
 
 Sarah felt something cold settle in her chest. "You've been watching me?"
 
@@ -189,7 +189,7 @@ Sarah closed her eyes. She thought about thirty-four years of emptiness. She tho
 
 "I need time," she said.
 
-"Take the time you need. But Sarahâ€? Dr. Vasquez's voice was gentle now. "Whatever you choose, you're going to have to live with it. Make sure it's a choice you can live with."
+"Take the time you need. But Sarah..." Dr. Vasquez's voices was gentle now. "Whatever you choose, you're going to have to live with it. Make sure it's a choice you can live with."
 
 Sarah hung up the phone and sat in the silence, the void pressing in on her from all sides.
 

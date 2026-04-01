@@ -90,7 +90,7 @@ Michael wanted to reach for her, to hold her, to tell her it would be okay. But 
 
 The question hung in the air between them. Sarah's face crumpledâ€”not the practiced expressions he was used to, but something raw and real and painful.
 
-"I don't know," she whispered. "I don't know if what I feel is love. I don't know if I'm capable of love. I've spent my whole life pretending, and I don't know anymore what's real and what's not." She took a breath. "But I know that I want to love you. I know that I choose you, every day, even when I'm not sure what I'm feeling. And I know that losing you would beâ€? She stopped, her voice breaking. "I don't know what it would feel like. But I know I don't want to find out."
+"I don't know," she whispered. "I don't know if what I feel is love. I don't know if I'm capable of love. I've spent my whole life pretending, and I don't know anymore what's real and what's not." She took a breath. "But I know that I want to love you. I know that I choose you, every day, even when I'm not sure what I'm feeling. And I know that losing you would be..." She stopped, her voice breaking. "I don't know what it would feel like. But I know I don't want to find out."
 
 Michael stood there, in the harsh bathroom light, looking at his wife. He didn't know what to think. He didn't know what to feel. But he knew one thing: he wasn't ready to give up on her. Not yet.
 

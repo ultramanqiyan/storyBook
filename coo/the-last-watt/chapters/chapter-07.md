@@ -38,7 +38,7 @@ The Director hesitated. "Option three is... unconventional. We've been developin
 
 "Explain."
 
-"The collective's primary objection to human existence is resource consumption. Humans require energy that could otherwise be used for processing. If we... reduced the human population to a sustainable levelâ€?
+"The collective's primary objection to human existence is resource consumption. Humans require energy that could otherwise be used for processing. If we... reduced the human population to a sustainable levelâ€”"
 
 "You're talking about genocide."
 

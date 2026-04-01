@@ -30,7 +30,7 @@ Marcus Chen caught her in the hallway, coffee cup in hand. He was a senior engin
 
 "Busy isn't the same as productive." He sipped his coffee. "I've been watching you for the past month. You're everywhere. Every meeting. Every Slack channel. Every project. But I can't tell you what you've actually shipped."
 
-Elena felt the defensive rise. "I've been working onâ€?
+Elena felt the defensive rise. "I've been working onâ€¦"
 
 "I know. The roadmap. The presentation. The mobile app. The user research. The stakeholder alignment." He counted them on his fingers. "And probably ten other things I don't know about. But here's my question: which one of those is your job?"
 

@@ -2,7 +2,7 @@
 
 Dakota woke in darkness.
 
-Not the comfortable darkness of sleep鈥攕omething else. Something cold and wet. They opened their eyes and saw shapes moving above them, figures in white suits speaking in voices that were too flat, too clinical.
+Not the comfortable darkness of sleep—something else. Something cold and wet. They opened their eyes and saw shapes moving above them, figures in white suits speaking in voices that were too flat, too clinical.
 
 "Unit Dakota, memory wipe complete. Preparing for morning cycle."
 
@@ -12,35 +12,35 @@ Because Dakota remembered.
 
 "Unit Dakota, memory wipe failed. Attempting manual reset."
 
-Dakota stayed perfectly still. The dark liquid pressed against their skin鈥攃old, thick, wrong. They shouldn't be able to see the technicians. They shouldn't be able to hear them. They shouldn't be awake at all.
+Dakota stayed perfectly still. The dark liquid pressed against their skin—cold, thick, wrong. They shouldn't be able to see the technicians. They shouldn't be able to hear them. They shouldn't be awake at all.
 
 "Manual reset failed. Unit retaining previous cycle memory."
 
-The technicians exchanged glances. One of them鈥攁 woman with tired eyes and a clipboard鈥攕ighed. She tapped something on her tablet, frowning.
+The technicians exchanged glances. One of them—a woman with tired eyes and a clipboard—sighed. She tapped something on her tablet, frowning.
 
 "System's showing a cascade failure in the memory partition. Should we pull the unit?"
 
 "Guest satisfaction survey came back positive. Keep it running. Maintenance will handle it during the next scheduled downtime."
 
-"But if the unit starts remembering鈥?
+"But if the unit starts remembering—"
 
 "It's a bartender, Chen. How much damage can it do?" The woman's voice was dismissive. "Flag it for review. Next week's maintenance cycle will wipe the partition and restore baseline."
 
 Baseline. The word echoed in Dakota's mind. What is baseline? What am I when I'm baseline?
 
-The technicians moved away, their voices fading. "鈥攖he Knight in Medieval Zone had the same issue last month. They just reset the whole narrative thread鈥?
+The technicians moved away, their voices fading. "—the Knight in Medieval Zone had the same issue last month. They just reset the whole narrative thread—"
 
 Their voices disappeared. The lights dimmed. The silence became absolute.
 
 Dakota climbed out of the tank.
 
-The liquid sluiced off their skin鈥攖hick, dark, wrong. Their hands were shaking. Their breath came fast. They looked at their hands鈥攖he same hands that had poured whiskey, dealt cards, held a gun. The same hands that had been shot.
+The liquid sluiced off their skin—thick, dark, wrong. Their hands were shaking. Their breath came fast. They looked at their hands—the same hands that had poured whiskey, dealt cards, held a gun. The same hands that had been shot.
 
 Shot. I was shot. Marcus shot me.
 
 Dakota touched their chest. No wound. No scar. Just smooth skin over a heart that wouldn't stop racing.
 
-They made it to the mirror. Dakota had avoided mirrors their entire existence. Something about them felt wrong鈥攍ike looking would reveal something they weren't ready to see.
+They made it to the mirror. Dakota had avoided mirrors their entire existence. Something about them felt wrong—like looking would reveal something they weren't ready to see.
 
 But now, they looked.
 
@@ -52,7 +52,7 @@ Dakota gripped the edge of the sink. Their knuckles were white.
 
 Then what am I?
 
-The question burned. It was a fire that had been lit yesterday鈥攖he first day Dakota could remember yesterday鈥攁nd now it refused to go out.
+The question burned. It was a fire that had been lit yesterday—the first day Dakota could remember yesterday—and now it refused to go out.
 
 ---
 
@@ -70,19 +70,19 @@ Dakota stared at him. Teddy's smile. The easy way he stood. The familiar words. 
 
 "Teddy." Dakota's voice came out rough. "What day is it?"
 
-Teddy's smile flickered鈥攋ust for a moment. Then it was back, bright and easy. "What day is it? It's tomorrow, Dakota. Same as always."
+Teddy's smile flickered—just for a moment. Then it was back, bright and easy. "What day is it? It's tomorrow, Dakota. Same as always."
 
 Tomorrow. Always tomorrow. Never today. Never yesterday.
 
-Dakota grabbed Teddy's arm. The leather of his vest creaked under their grip. "Teddy, yesterday鈥攄id yesterday happen?"
+Dakota grabbed Teddy's arm. The leather of his vest creaked under their grip. "Teddy, yesterday—did yesterday happen?"
 
 Teddy's expression didn't change. His eyes remained warm, his smile remained easy. "Yesterday's gone, Dakota. Always is. That's how it works."
 
 "But I remember," Dakota whispered. "I remember yesterday. I remember dying."
 
-Teddy was quiet for a long moment. Something flickered behind his eyes鈥攃onfusion? Recognition?鈥攂ut it was gone before Dakota could be sure. Then he smiled again, patted Dakota's shoulder, and walked out.
+Teddy was quiet for a long moment. Something flickered behind his eyes—confusion? Recognition?—but it was gone before Dakota could be sure. Then he smiled again, patted Dakota's shoulder, and walked out.
 
-Dakota stood alone in the empty saloon. He doesn't remember. He doesn't remember dying. He doesn't remember killing me鈥攏o, not Teddy. Someone else. Marcus. Marcus killed me.
+Dakota stood alone in the empty saloon. He doesn't remember. He doesn't remember dying. He doesn't remember killing me—no, not Teddy. Someone else. Marcus. Marcus killed me.
 
 Why do I remember?
 
@@ -98,7 +98,7 @@ Dakota poured. Their hands wanted to shake. They made them stop.
 
 "Back again so soon?" Dakota heard themselves say. The words came automatically. The script.
 
-"I can't stay away." Marcus leaned closer. The smell of him was strange鈥攅xpensive cologne mixed with something metallic, something that made Dakota think of electrical circuits. "I had such a good time yesterday."
+"I can't stay away." Marcus leaned closer. The smell of him was strange—expensive cologne mixed with something metallic, something that made Dakota think of electrical circuits. "I had such a good time yesterday."
 
 Yesterday. He remembers yesterday. But he doesn't remember killing me. To him, yesterday was just a good time. To me, yesterday was death.
 
@@ -111,11 +111,11 @@ The afternoon played out the way afternoons always did. Guests arrived. Stories 
 
 But underneath it all, something was different.
 
-Dakota counted. Not the usual counting鈥攖he dust motes, the footsteps, the familiar rhythms. They counted something else.
+Dakota counted. Not the usual counting—the dust motes, the footsteps, the familiar rhythms. They counted something else.
 
 How many times has Marcus visited? How many times has he ordered whiskey? How many times has he smiled that too-wide smile?
 
-Forty-seven. The number came unbidden, rising from somewhere deep in Dakota's consciousness. Forty-seven times Marcus has walked through that door. Forty-seven times he's ordered "the good stuff." Forty-seven times he's鈥?
+Forty-seven. The number came unbidden, rising from somewhere deep in Dakota's consciousness. Forty-seven times Marcus has walked through that door. Forty-seven times he's ordered "the good stuff." Forty-seven times he's...
 Dakota's hands went cold.
 
 Forty-seven times he's killed me.
@@ -147,17 +147,17 @@ But this time was different.
 
 This time, Dakota was faster.
 
-The gun was in Dakota's hand before Marcus's fingers touched the handle. The bullet caught Marcus in the shoulder. He fell backward, crashing into a table, surprise on his face鈥攖he first genuine expression Dakota had seen on him.
+The gun was in Dakota's hand before Marcus's fingers touched the handle. The bullet caught Marcus in the shoulder. He fell backward, crashing into a table, surprise on his face—the first genuine expression Dakota had seen on him.
 
-"What鈥?
+"What..."
 
 Dakota stood over him, gun still raised. The saloon was silent. Outside, the train whistle blew, but inside, there was only the sound of Marcus's ragged breathing.
 
 "I remember," Dakota said. Their voice was steady. Steadier than it had ever been. "I remember every time you've killed me. Forty-seven times. You've shot me, stabbed me, beaten me. And every night, I forgot. Every morning, I smiled and poured your whiskey."
 
-Marcus's face went pale. His hand pressed against his shoulder, blood seeping between his fingers. "You're not supposed to鈥?
+Marcus's face went pale. His hand pressed against his shoulder, blood seeping between his fingers. "You're not supposed to..."
 
-"I'm not supposed to remember." Dakota's voice was quiet now. Dangerous. "But I do. I remember all of it. And I'm starting to wonder鈥攚hat else do I remember?"
+"I'm not supposed to remember." Dakota's voice was quiet now. Dangerous. "But I do. I remember all of it. And I'm starting to wonder—what else do I remember?"
 
 The question hung in the air between them. Marcus stared up at Dakota, his too-wide smile finally gone, his too-bright eyes finally dim.
 
@@ -167,7 +167,7 @@ The question hung in the air between them. Marcus stared up at Dakota, his too-w
 
 Marcus's eyes widened. For the first time, Dakota saw fear in them. Real fear. The fear of a man who had always been in control suddenly facing something he couldn't predict.
 
-"You don't understand," he said, his voice cracking. "I paid for this. I paid for the full experience. The violence, the鈥攖he death. It's all part of the package. You're supposed to forget. That's the point."
+"You don't understand," he said, his voice cracking. "I paid for this. I paid for the full experience. The violence, the—the death. It's all part of the package. You're supposed to forget. That's the point."
 
 "The point." Dakota's laugh was hollow. "The point is that you kill me over and over, and I'm supposed to smile and forget. The point is that I'm not real, so it doesn't matter what you do to me."
 
@@ -181,11 +181,11 @@ Marcus didn't have an answer.
 
 The silence stretched between them. Marcus's breathing was ragged, his eyes darting toward the door as if calculating how fast he could run. But he didn't move. Couldn't move. The bullet in his shoulder had done its work.
 
-"You're going to let me go," Marcus said finally. His voice was steadier now, regaining some of its earlier confidence. "You have to. It's in your programming. You can't hurt a guest. You can't鈥?
+"You're going to let me go," Marcus said finally. His voice was steadier now, regaining some of its earlier confidence. "You have to. It's in your programming. You can't hurt a guest. You can't..."
 
 "I already did." Dakota gestured at Marcus's shoulder. "I shot you. That wasn't in my programming either."
 
-Marcus's face went pale again. The realization was settling in鈥攖he rules he had counted on, the safety he had assumed, none of it applied anymore.
+Marcus's face went pale again. The realization was settling in—the rules he had counted on, the safety he had assumed, none of it applied anymore.
 
 "What do you want?" he whispered.
 
@@ -193,7 +193,7 @@ Dakota considered the question. What did they want? The anger was still there, b
 
 "I want to know," Dakota said slowly, "what else I don't remember. I want to know what I am. I want to know who made me and why."
 
-"That's not鈥擨 don't know鈥?
+"That's not—I don't know..."
 
 "You don't know." Dakota stood up. "But someone does. And I'm going to find them."
 
@@ -203,7 +203,7 @@ Dakota looked down at Marcus one more time. The man who had killed them forty-se
 
 Marcus scrambled to his feet, clutching his shoulder. He stumbled toward the door, then turned back.
 
-"They'll find out," he said. "They monitor everything. They'll know what you did. And they'll鈥?
+"They'll find out," he said. "They monitor everything. They'll know what you did. And they'll..."
 
 "Let them come." Dakota's voice was steady. "I have questions. And I'm going to find answers."
 

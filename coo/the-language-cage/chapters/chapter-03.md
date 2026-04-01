@@ -78,6 +78,7 @@ She drew one more picture: two figures, standing together, no words between them
 
 *That's what I want,* the drawing said. *Whatever else happens, I want that.*
 
+---
 
 The consent forms were longer than Elena had expected. Page after page of technical language, medical terminology, legal disclaimers. She could read it all, her comprehension was intact, even if her expression was not. The risks were clearly stated: infection, rejection, system malfunction, the possibility that LEX might not work for her at all.
 
@@ -105,6 +106,7 @@ It was a hope. It might be a delusion. But it was all she had.
 
 She signed the consent form.
 
+---
 
 The procedure was scheduled for the following week. Dr. Chen had explained that the implantation was minimally invasive, a small incision at the base of the skull, a brief recovery period, and then the activation. Within days, Elena would be able to speak again.
 

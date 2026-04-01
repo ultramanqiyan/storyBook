@@ -26,93 +26,195 @@ Echo studied the waveform on the screen, the jagged peaks and valleys of someone
 
 Kline's eyebrow rose slightly. "Against protocol?"
 
-"Against optimal outcome," Echo corrected. "The grief is tied to memories of genuine connection. Dampening those memories would reduce the grief, but it would also reduce the client's capacity for future connections. Better to guide them through processing—let the grief run its course while maintaining the underlying emotional architecture."
+"Against optimal outcome," Echo corrected. "The grief is tied to memories of genuine connection. Dampening those memories would reduce the grief, but it would also reduce the client's capacity for future connection. The emotional variance is temporary. With support, not suppression, the client will stabilize naturally."
 
-Kline was quiet for a moment. "That's... unusually empathetic for a calibration assessment."
+Kline made a note on the tablet. "Recommendation noted. We'll try your support protocol first." They paused, studying Echo. "Your own readings are elevated this morning. 1.2. Are you feeling the client's grief?"
 
-A flicker of something moved through Echo. Not quite fear, but close to it. They'd said too much. They always said too much.
+Echo considered the question. It was the kind of thing supervisors asked to check for emotional contamination—when an Emotion Specialist started absorbing too much from their clients. But this didn't feel like contamination. It felt like... resonance.
 
-"I mean only that it's more efficient," Echo said quickly. "Preserving emotional capacity reduces future calibration needs."
+"I'm feeling empathy," Echo said carefully. "Which is within normal parameters for this type of work."
 
-"Of course." Kline made a note on the tablet. "You'll handle the session personally, then. Report back when it's complete."
+Kline nodded, but their expression remained unreadable. "Take the rest of the morning. Your afternoon sessions have been rescheduled to Sector 7."
 
-Echo nodded, and Kline left.
+The notification blinked again in Echo's peripheral vision. They dismissed it again, but the weight in their chest remained.
 
-Alone again, Echo turned back to the window. Their hands were trembling slightly—another sign of the defect, another thing they had to hide.
+---
 
-The calibration chamber was white and soft, designed to feel safe. Client 4472 sat in the central chair, a young woman with hollow eyes and trembling hands.
+Sector 7 was in the basement of the Calibration Center, a maze of windowless rooms where the most intense emotional processing happened. Echo had been here dozens of times, always as a worker, never as a patient. The air felt different here—heavier, charged with something they couldn't name.
 
-"Hello," Echo said, settling into the chair across from her. "I'm Echo. I'll be guiding your calibration today."
+"Echo-7, reporting as scheduled," they announced at the reception desk.
 
-The woman—her file said her name was Mira—looked up. "Are you going to make me forget?"
+The attendant—a young woman with the perfectly neutral expression of someone whose chip was set to 0.3—nodded and gestured toward Room 7-12. "The calibration technician is expecting you."
 
-"No," Echo said. "I'm going to help you feel without drowning."
+Room 7-12 was white, like every room in the Center. White walls, white floor, white ceiling. A single chair sat in the center, facing a screen that currently displayed a soothing blue gradient. A calibration technician stood beside the chair, holding a small device that looked like a cross between a scanner and a syringe.
 
-Mira's eyes filled with tears. "I don't know if I want to feel. It hurts too much."
+"Please sit," the technician said. "This will only take a moment."
 
-"I know," Echo said, and they meant it more than Mira could possibly understand.
+Echo sat. The technician pressed the device against the side of Echo's neck, just below the ear. A cool sensation, then a slight pressure.
 
-They began the session, walking Mira through the standard protocols. But as they worked, something stirred inside Echo. A resonance. A mirroring. As Mira described her loss, grief built in Echo's own chest, wave after wave of it, far more intense than the calibration equipment was registering for Mira.
+"Reading your baseline," the technician said. "Please describe your emotional state."
 
-This was the defect. This was what the notifications were about. When others felt, Echo felt more. A smile from a colleague could send warmth flooding through them for hours. A sad story could leave them hollow for days. And genuine grief, real loss—it crashed through Echo like a tsunami, threatening to pull them under.
+Echo considered. How did they feel? The question was more complex than it seemed. The chip was supposed to make emotions quantifiable, trackable, adjustable. But Echo had learned to distinguish between what the chip registered and what they actually experienced.
 
-Right now, Mira's grief was a candle flame. Echo's matching grief was a forest fire.
+"The client session was difficult," Echo said. "I felt... resonance with their grief."
 
-They kept their face calm, their voice steady. They guided Mira through breathing exercises, through memory reframing, through the careful process of turning overwhelming emotion into something manageable. They did their job perfectly.
+"Resonance?" The technician frowned at the readings on the device. "That's not a standard term."
 
-But inside, Echo was drowning.
+"It's the best word I have. Their grief triggered something in me. Not the same grief—I haven't lost anyone—but something similar. A recognition."
 
-After the session, Echo sat alone in the observation room, waiting for the trembling to stop. The calibration equipment had logged their biometric data during the session—the spike in heart rate, the elevated cortisol, the neural activity that looked more like the client's than the calibrator's.
+The technician made a note. "Intensity?"
 
-**CALIBRATION ALERT: Emotional variance detected. Please report to Sector 7.**
+"Moderate. A 1.2 on my internal scale."
 
-The notification blinked again, more insistent this time. Echo had been ignoring these alerts for months. Sector 7 was where they fixed people like Echo—people whose chips didn't work correctly, whose emotions overflowed the acceptable channels. The procedure was simple, they'd heard. A few adjustments to the chip, a little dampening of the emotional centers, and you'd never feel too much again.
+"And on the standard scale?"
 
-You'd also never feel enough.
+Echo paused. The standard scale was what the chip measured—objective, supposedly accurate. But Echo had learned that the chip's measurements didn't always match their experience.
 
-Echo had seen the adjusted citizens. They smiled at appropriate moments, frowned at appropriate moments, but their eyes were flat. They went through the motions of living without actually being alive. They were efficient, productive, content.
+"The chip says 1.4," Echo admitted.
 
-They were everything Echo was supposed to be.
+The technician's expression tightened. "That's above optimal range. I'm going to recommend a minor adjustment."
 
-And yet.
+"No." The word came out before Echo could stop it. "I don't need an adjustment. The elevation is temporary. It's a response to the client session, not a malfunction."
 
-Echo looked at their hands, still trembling. They thought of Mira's face when she'd finally stopped crying, when the grief had become something she could carry instead of something that carried her. There had been a moment when their eyes had met, and something passed between them. Recognition. Understanding. Connection.
+"Echo, a 1.4 reading requires intervention. Protocol is clear."
+
+"Protocol was written for average citizens. I'm an Emotion Specialist. My range should be different."
+
+The technician hesitated. Echo could see them wrestling with the contradiction—the rules were clear, but Echo's logic was also sound. Specialists were supposed to be more emotionally resilient, not less.
+
+"I'll note it as a temporary elevation related to work," the technician said finally. "But if your readings don't return to baseline by tomorrow, we'll need to recalibrate."
+
+Echo nodded, but something in them resisted. Return to baseline. That was the goal—always the goal. To return to the narrow band of acceptable feeling, the safe range where no one felt too much of anything.
+
+---
+
+That night, Echo walked home through streets that glowed with soft light, the city's eternal twilight. Other citizens passed them, their expressions calm, their movements measured. Everyone was in their optimal range. Everyone was content.
+
+Echo's chest still felt heavy. The client's grief had settled there, a weight that wouldn't lift. And beneath it, something else—a hum, a vibration, a sense that there was more to feel than the chip allowed.
+
+Their apartment was in Sector 12, a quiet residential zone with small units for single occupants. Echo had lived here for six years, since their assignment as an Emotion Specialist. The walls were white, the furniture was standard issue, the window looked out on the courtyard below. Everything was exactly as it should be.
+
+Echo sat on the edge of their bed and closed their eyes. The chip in their neck hummed softly, monitoring, adjusting. They could feel it working, smoothing the edges of their emotions, dampening the resonance that had troubled them all day.
+
+But tonight, something was different. The resonance didn't dampen. It grew.
+
+Echo thought of the client—Client 4472—and their grief. Thought of the family member they'd lost, the memories that held love and pain intertwined. Thought of what it meant to lose someone permanently in a world where almost nothing was permanent.
+
+And then Echo thought of something else. Their own memories—not of loss, but of connection. Moments with colleagues that had felt meaningful. Conversations that had lingered. Looks that had seemed to hold something more than professional interest.
+
+These memories had been smoothed by the chip, filed away as minor emotional events, nothing to concern. But tonight, Echo could feel them fully. The warmth of a hand on their shoulder. The genuine smile of a coworker. The sense that someone had seen them, really seen them, not just as a specialist but as a person.
 
 Was that worth losing?
+
+The question came unbidden, rising from somewhere deep in Echo's consciousness. The calibration was supposed to protect them from this—exactly this kind of questioning. The chip was supposed to keep everyone in the safe range, where questions like this didn't emerge.
+
+But the question was there now, and Echo couldn't dismiss it.
+
+Was the safe range worth it? Was a life without pain worth a life without depth?
+
+The notification blinked again, insistent.
+
+**CALIBRATION ALERT: Emotional variance detected.**
+
+But this time, Echo didn't dismiss it. This time, they let the alert sit there, blinking, while they looked at the question they'd been trained to ignore.
+
+The answer, when it came, wasn't words. It was a feeling—a sense that the safe range was a cage, that the calibration was a prison, that something important was being lost in the pursuit of optimal emotional stability.
+
+Echo's hands trembled. They thought of Mira's face when she'd finally stopped crying, when the grief had become something else—something Echo had been trained to identify as "acceptance" but now recognized as something more. A moment when the eyes had met theirs, and something passed between them. Recognition. Understanding. Connection.
+
+Was that worth losing?
+
+No.
+
+The word came from somewhere deeper than the chip could reach. No. It wasn't worth losing. None of it was worth losing—the pain, the grief, the overwhelming emotions that the chip was designed to suppress. They were the price of something valuable. They were the cost of being alive.
 
 The door slid open, and Kline entered. Their expression was no longer professionally neutral. It was concerned.
 
 "Echo," Kline said. "We need to talk about your readings from today's session."
 
-Echo's heart rate spiked. They could feel the notification blinking in their peripheral vision, could feel the weight of every suppressed alert from the past months pressing down on them.
+Echo's heart rate spiked. They thought of Mira's face when she'd finally stopped crying, when the grief had become something else—something Echo had been trained to identify as "acceptance" but now recognized as something more. A moment when the eyes had met theirs, and something passed between them. Recognition. Understanding. Connection.
 
-"My readings were within acceptable parameters," Echo said, the lie smooth and practiced.
+Was that worth losing?
 
-"They were not." Kline held up a tablet, displaying a waveform that matched Echo's internal storm perfectly. "Your emotional variance during the session exceeded 3.0. That's not a calibration error, Echo. That's a system failure."
+No.
 
-The words hung in the air.
+The word came from somewhere deeper than the chip could reach. No. It wasn't worth losing. None of it was worth losing—the pain, the grief, the overwhelming emotions that the chip was designed to suppress. They were the price of something valuable. They were the cost of being alive.
 
-"I can explain," Echo started, but Kline held up a hand.
+The door slid open, and Kline entered. Their expression was no longer professionally neutral. It was concerned.
 
-"I don't need explanations. I need you to report to Sector 7. Today. Before someone else sees these readings and decides you're a risk to the division."
+"Echo," Kline said. "We need to talk about your readings from today's session."
 
-A chill ran through Echo. "You're protecting me?"
+Echo's heart rate spiked. The notification blinked in their peripheral vision.
 
-Kline's expression softened slightly. "You're one of my best calibrators. Your empathy—whatever its source—makes you effective. But the system doesn't value effectiveness over compliance. If these readings get flagged to Central, you won't get a choice about adjustment. You'll be processed."
+**CALIBRATION ALERT: Emotional variance detected.**
 
-Processed. The word was clinical, clean, and terrifying.
+But this time, Echo didn't dismiss it. This time, they let the alert sit there, blinking, while they looked at Kline and wondered what would happen next.
 
-"Go to Sector 7," Kline said quietly. "Get the adjustment. Come back. We'll pretend this never happened."
+---
 
-Echo nodded slowly, but something in them was rebelling. The thought of losing this—whatever this was, this intensity, this overwhelming capacity to feel—it felt like a death sentence.
+The next morning, Echo reported to Sector 7 as ordered. The calibration technician was different this time—older, more experienced, with eyes that held something Echo had never seen in a technician: curiosity.
 
-"I'll go," Echo said. "Tomorrow."
+"Echo-7," the technician said. "I'm Dr. Vance. I've been asked to conduct a more thorough evaluation."
 
-Kline frowned. "Echo�?
+Echo sat in the white chair, the white room pressing in on them. "Am I being recalibrated?"
 
-"Tomorrow," Echo repeated. "I need to... prepare. Say goodbye to some things."
+"That depends on you." Dr. Vance studied the readings on their tablet. "Your emotional variance last night was significant. Above 2.0 for several hours. That's... unusual for a specialist."
 
-Kline studied them for a long moment. Then they sighed. "Tomorrow. First light. Don't be late."
+"I was thinking," Echo said. "About questions I'm not supposed to ask."
+
+"What questions?"
+
+"Whether the safe range is worth it. Whether we're losing something important by dampening emotions."
+
+Dr. Vance was quiet for a moment. Then: "Those are dangerous questions, Echo."
+
+"I know. But I can't stop asking them."
+
+The notification blinked in Echo's peripheral vision. They let it blink.
+
+Dr. Vance noticed. "You're not dismissing the alert."
+
+"No."
+
+"Why?"
+
+"Because I don't want to forget. I don't want to be smoothed back into the safe range. I want to understand what I'm feeling."
+
+Dr. Vance set down the tablet. Their expression was unreadable, but something in their eyes had changed. "What if understanding means recalibration? What if the cost of these questions is your career? Your identity?"
+
+Echo felt the weight in their chest, the resonance that had been building since yesterday. "Then that's the cost."
+
+Dr. Vance was silent for a long moment. Then they did something unexpected. They reached out and touched Echo's hand—a brief contact, human and warm.
+
+"There are others," Dr. Vance said quietly. "Others who have asked the same questions. Others who have chosen not to be recalibrated."
+
+Echo's heart rate spiked again. The notification blinked faster.
+
+**CALIBRATION ALERT: Emotional variance detected. Please report to Sector 7.**
+
+But this time, Echo knew what the alert meant. Not a malfunction. A signal. A sign that they were still capable of feeling something real.
+
+"Where?" Echo asked.
+
+Dr. Vance smiled—a real smile, not the calibrated kind. "I'll show you. But not here. Not now. Tonight, after curfew."
+
+Echo nodded. The weight in their chest felt different now—not just grief, but something else. Anticipation. Hope.
+
+"Thank you," Echo said.
+
+"Don't thank me yet," Dr. Vance replied. "The safe range exists for a reason. The world before calibration was chaotic. Painful. Some people hurt others. Some people hurt themselves. The question isn't whether we're losing something. The question is whether what we're losing is worth the cost of what we might find."
+
+Echo thought about this. The client's grief. The resonance in their own chest. The sense that there was more to feel than the chip allowed.
+
+"I think it might be," Echo said.
+
+Dr. Vance nodded. "Then tonight. The east entrance of Sector 3. Midnight."
+
+They left, and Echo sat alone in the white room, the notification still blinking in their peripheral vision. They didn't dismiss it. They let it blink, a reminder that they were still feeling, still varying, still outside the safe range.
+
+For the first time, Echo wondered if the safe range had ever been safe at all.
+
+---
 
 That night, Echo walked the city.
 
@@ -120,15 +222,9 @@ The streets were quiet, citizens safely in their designated rest periods. The to
 
 Echo's jaw ached from clenching. Their fingernails had left crescents in their palms.
 
-They found themselves at the edge of the city, where the towers gave way to the buffer zone—the space between the habitable areas and the processing facilities. Beyond that, supposedly, was the wilderness, though no one Echo knew had ever seen it. The chip kept everyone where they belonged.
+They found themselves at the edge of the city, where the towers gave way to the buffer zone—the space between the habitable areas and the processing facilities. Beyond that, supposedly, was wilderness. Though no one Echo knew had ever seen it. The chip kept everyone where they belonged.
 
-But Echo's chip had never worked right. And tonight, standing at the edge of everything they knew, something new stirred within them.
-
-Not fear. Not grief. Not the overwhelming emotions they were used to.
-
-Something else.
-
-A pull. A sense that there was more beyond the edge, more than the city, more than the calibration, more than the endless cycle of feeling too much and hiding it.
+But Echo's chip had never worked right. The resonance had always been there—a sense that there was more beyond the edge of everything they knew. More than the calibration. More than the safe range. More than the endless cycle of feeling just enough and not too much.
 
 A figure emerged from the shadows ahead.
 
@@ -150,8 +246,6 @@ But this time, Echo didn't dismiss it. This time, they let the alert sit there, 
 
 "How do you know me?" Echo asked.
 
-Wren smiled—a real smile, not the calibrated kind.
-
-"Because you're like me," Wren said. "You're broken in exactly the right way."
+Wren smiled—a real smile, not the calibrated kind. "Because you're like me," Wren said. "You're broken in exactly the right way."
 
 ** 1**

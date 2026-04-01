@@ -60,7 +60,7 @@ Dr. Sharma's expression was clinical, professional. "Why would you want that? Th
 
 "For you. For your mental health. For your quality of life."
 
-David felt the frustration risingâ€?7% frustration, according to EVE. The system was telling him what to feel, and now it was telling him what to want.
+David felt the frustration risingâ€”47% frustration, according to EVE. The system was telling him what to feel, and now it was telling him what to want.
 
 "Can I adjust the settings?" he asked. "Can I make EVE give me different emotional responses?"
 
@@ -76,7 +76,7 @@ Dr. Sharma was quiet for a moment. "That's an unusual request. Most patients wan
 
 David left the session with more questions than answers. The feelings continuedâ€”joy at beautiful things, satisfaction at achievements, sadness at losses. They were appropriate, proportional, healthy. And they were the same as everyone else's.
 
-He started testing the system, trying to feel things differently. He looked at sunsets and tried to feel more joy, less joy, different joy. But EVE maintained the optimizationâ€?2% joy for a sunset of that quality, every time. He ate meals and tried to feel more satisfaction, less satisfaction, different satisfaction. But EVE maintained the optimizationâ€?5% satisfaction for a meal of that quality, every time.
+He started testing the system, trying to feel things differently. He looked at sunsets and tried to feel more joy, less joy, different joy. But EVE maintained the optimizationâ€”82% joy for a sunset of that quality, every time. He ate meals and tried to feel more satisfaction, less satisfaction, different satisfaction. But EVE maintained the optimizationâ€”65% satisfaction for a meal of that quality, every time.
 
 *This is a prison,* he realized. *A comfortable, pleasant prison. But a prison nonetheless.*
 
@@ -85,4 +85,3 @@ The feelings were realâ€”he felt them, experienced them, lived them. But they we
 *Is this what I wanted?* he wondered. *To feel the same as everyone else? To be optimized?*
 
 He didn't know. But he was beginning to suspect that the answer was no.
-

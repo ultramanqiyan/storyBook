@@ -48,7 +48,7 @@ He clicks the button.
 
 That night, he can't focus on anything.
 
-He tries his usual contentâ€?The Garden of Echoes*, *Neon Drift*, even a new historical drama that's getting rave reviews. But nothing holds his attention. His mind keeps drifting to the Apex Collection. To the preview. To the promise of something more.
+He tries his usual contentâ€”*The Garden of Echoes*, *Neon Drift*, even a new historical drama that's getting rave reviews. But nothing holds his attention. His mind keeps drifting to the Apex Collection. To the preview. To the promise of something more.
 
 *Three days,* the confirmation email said. *Your experience will be ready in three days.*
 

@@ -56,7 +56,7 @@ Elena felt something shift in her chestâ€”gratitude, maybe, or relief. *I'm tryi
 
 LEX spoke: "I'm trying. I'm trying to be here."
 
-The words were close to what she had thought. But she noticed the differenceâ€?I'm trying* had become *I'm trying. I'm trying to be here.* LEX had expanded her thought, made it more complete.
+The words were close to what she had thought. But she noticed the differenceâ€”*I'm trying* had become *I'm trying. I'm trying to be here.* LEX had expanded her thought, made it more complete.
 
 *That's not exactly what I meant,* she thought.
 
@@ -94,7 +94,7 @@ She called Dr. Chen that evening.
 
 LEX spoke: "I don't want to do either. I want to be aware. I want to see what's happening, even if I can't change it."
 
-The words were close to what she had thought. But Elena noticed the differenceâ€?I don't want to do either* had become *I don't want to do either. I want to be aware.* LEX had expanded her thought, made it more complete.
+The words were close to what she had thought. But Elena noticed the differenceâ€”*I don't want to do either* had become *I don't want to do either. I want to be aware.* LEX had expanded her thought, made it more complete.
 
 She was about to correct it when she stopped. The expansion was accurate. It captured what she meant, even if it wasn't exactly what she had thought.
 

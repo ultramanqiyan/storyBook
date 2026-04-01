@@ -98,7 +98,7 @@ The question threw him. The finance team wasn't in the original plan. Had he mis
 
 Patricia's expression shifted. "David, we were hoping for answers today. Jennifer always came to these meetings prepared to make recommendations."
 
-"I understand, butâ€?
+"I understand, but..."
 
 "We've been working with your firm for two years. We pay premium rates for premium advice. Right now, I'm not feeling the premium."
 

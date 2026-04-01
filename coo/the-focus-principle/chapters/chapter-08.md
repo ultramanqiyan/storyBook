@@ -8,7 +8,7 @@ By Wednesday, the tone had shifted. The portal team lead showed up at Elena's de
 
 "My team has been idle for three weeks," he said. "We've done all the frontend work we can without the backend. Now we're just sitting here, and I'm getting questions from leadership about why we're not delivering."
 
-Elena felt the familiar knot in her stomach. "I understand. The Phoenix backend is on track forâ€?
+Elena felt the familiar knot in her stomach. "I understand. The Phoenix backend is on track forâ€¦"
 
 "On track doesn't help my team now." He leaned against her desk, lowering his voice. "Look, I get what you're trying to do. Focus, I mean. But my people need to feel productive. They need to show progress. Right now, they're just... waiting."
 

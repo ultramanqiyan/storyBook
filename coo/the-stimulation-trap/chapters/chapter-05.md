@@ -12,7 +12,8 @@ He opens his banking app. The numbers don't make sense at first. He has to look 
 
 Credit card balance: $8,742.56.
 
-He's never carried a balance higher than $500. He's never missed a payment. He's neverâ€?
+He's never carried a balance higher than $500. He's never missed a payment. He's never...
+
 He scrolls through the transactions.
 
 *Helix Technologies - $899.00*
@@ -33,7 +34,8 @@ He doesn't have that kind of money. Not anymore. His savings are gone. His emerg
 
 He closes the app. He sets down his phone. He tries to think.
 
-He needs to make a payment. At least the minimum. He needs to figure out a plan. He needs toâ€?
+He needs to make a payment. At least the minimum. He needs to figure out a plan. He needs to...
+
 His phone buzzes.
 
 *From: Kane*
@@ -217,7 +219,8 @@ It's... everything.
 
 Every sensation at once. Every emotion. Every memory. Every desire. Every fear.
 
-It's overwhelming. It's terrifying. It'sâ€?
+It's overwhelming. It's terrifying. It's...
+
 *There.*
 
 For five seconds, he feels it.
@@ -256,7 +259,7 @@ He sits. He knows what's coming.
 
 "This is the fifth time you've been late this month. You've missed three deadlines. Your coworkers have noticed you're... distracted. I've tried to be patient. But I can't ignore this anymore."
 
-"I'm sorry. I've beenâ€?
+"I'm sorry. I've been..."
 
 "I don't want excuses. I want to know what's going on. And I want to know how you're going to fix it."
 

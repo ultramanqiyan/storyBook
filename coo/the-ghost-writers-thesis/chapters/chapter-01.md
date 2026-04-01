@@ -4,7 +4,7 @@ The cursor blinked at the end of the paragraph, and Elena felt that familiar rus
 
 The room was small, barely larger than a closet, but it was hers. Books lined the shelves—actual paper books, a rarity in this age of digital everything. Her dissertation sat open on the screen, the chapters neatly organized, the arguments polished, the conclusions airtight. This was what she had been working toward since she started the PhD program: a contribution to knowledge, an original piece of scholarship that would establish her as a serious researcher.
 
-She saved the document and leaned back in her chair, the leather creaking softly. The office was quiet at this hour�?1 PM on a Tuesday, the building nearly empty. Most of the other graduate students had gone home hours ago, but Elena had stayed, caught up in the flow of writing. Now, looking at the completed chapter, she felt a profound sense of satisfaction.
+She saved the document and leaned back in her chair, the leather creaking softly. The office was quiet at this hour—11 PM on a Tuesday, the building nearly empty. Most of the other graduate students had gone home hours ago, but Elena had stayed, caught up in the flow of writing. Now, looking at the completed chapter, she felt a profound sense of satisfaction.
 
 Tomorrow she would run it through SCHOLAR-AI for final verification. The AI research assistant had been invaluable throughout the process, helping her refine her methodology, suggesting relevant literature, even pointing out potential weaknesses in her arguments. It was like having a second pair of eyes, always available, always objective.
 
@@ -68,6 +68,7 @@ She kept reading, looking for evidence that she had modified the topic, made it 
 
 The questions that had driven three years of work—the questions she had thought were hers—had come from an AI.
 
+---
 
 The afternoon light had faded by the time Elena looked up from her screen. Her office was dim, the shadows lengthening across the floor. She had been reading for hours, going through her research history, trying to find evidence of her own intellectual contribution.
 
@@ -83,6 +84,7 @@ Not an explicit lie—she had never claimed that the questions were entirely her
 
 The thought made her feel sick.
 
+---
 
 She didn't sleep that night. Instead, she sat at her desk, staring at her dissertation, seeing it for the first time as what it was: a ghost written by an algorithm, with her name on the cover.
 

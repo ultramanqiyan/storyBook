@@ -107,7 +107,7 @@ James met with the regional manager, a man named Peterson who had flown in from 
 
 James thought about the art classes, the music nights, the community garden. They weren't charities. They were experiments in creating something that had been lost: reasons to be somewhere, to do something, to connect with others.
 
-"What if the community programs eventually lead to consumption?" he asked. "People who come for the garden might buy gardening supplies. People who come for art might buy art materials. It's a long game, butâ€?
+"What if the community programs eventually lead to consumption?" he asked. "People who come for the garden might buy gardening supplies. People who come for art might buy art materials. It's a long game, butâ€”"
 
 "We don't have time for a long game," Peterson interrupted. "The board is already discussing closing underperforming locations. This mall is on the list."
 

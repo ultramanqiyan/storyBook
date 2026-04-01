@@ -36,7 +36,7 @@ The pages were blank.
 
 "Hmm," she murmured, reaching for her quill. A blank book, probably never used, probably worthless. She would note it for disposal and move on.
 
-She dipped her quill in ink and wrote in the margin: "Empty text. No visible content. Recommendâ€?
+She dipped her quill in ink and wrote in the margin: "Empty text. No visible content. Recommendâ€”"
 
 The words sank into the page and vanished.
 

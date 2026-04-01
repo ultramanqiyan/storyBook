@@ -73,6 +73,7 @@ The tightening in her chest released. She had made a decision. Not after hours o
 
 This was what it felt like. This was what she'd been building toward. Not the absence of fear, but the ability to act anyway.
 
+---
 
 She walked to the garden that afternoon, the decision made, the future open. The gate creaked as she pushed through—the same sound it had made every Saturday for months. But today it sounded different. Like a door opening, not just to a garden, but to whatever came next.
 
@@ -92,7 +93,7 @@ Elena's face broke into a wide smile. "Good. I was hoping you would."
 
 "That's growth," Elena said simply. "Not the absence of the pattern, but the ability to recognize it and choose differently."
 
-"I don't know what I'm going to say at the conference. I don't know if I'm qualified. I don't know if�?
+"I don't know what I'm going to say at the conference. I don't know if I'm qualified. I don't know if—"
 
 "You'll figure it out," Elena interrupted gently. "That's what action is. You don't have to have all the answers before you start. You just have to start."
 
@@ -110,6 +111,7 @@ Marcus raised an eyebrow. "Look at you. From coffee shop stranger to conference 
 
 "Aren't we all?" Elena smiled. "That's the point. We're all still becoming. The people on that panel, the people in the audience—they're all still figuring it out. You just happen to be honest about it."
 
+---
 
 Later that afternoon, Sarah knelt in her usual spot—the tomato bed she'd been tending for weeks. The plants were heavy with fruit now, green tomatoes slowly ripening in the late summer sun. She'd helped them grow. She'd pruned and watered and worried over them. And now they were producing something.
 
@@ -121,6 +123,7 @@ She pulled a weed from the tomato bed and added it to the pile. The work was gro
 
 And so would she.
 
+---
 
 That night, Sarah sat at her desk and looked at the small collection that had grown there over the past months. The garden card. The sticky notes with wisdom. Her journal. The harvest festival flyer she'd helped design. Evidence of a life being built, one small action at a time.
 

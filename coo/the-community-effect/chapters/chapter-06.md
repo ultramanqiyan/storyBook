@@ -30,7 +30,7 @@ She thought about Rachel. About Tomás. About the collective she'd just started 
 
 But asking for help meant admitting she'd made a mistake. Meant showing vulnerability. Meant risking rejection.
 
-*What if they think I'm incompetent? What if they decide I'm not worth knowing? What if�?
+*What if they think I'm incompetent? What if they decide I'm not worth knowing? What if...*
 
 She stopped herself. This was exactly what Dr. Chen had talked about. The fear of being seen as flawed keeping her from the connection she needed.
 
@@ -60,7 +60,7 @@ She called Rachel, her voice shaking as she explained the situation.
 
 "Okay, first of all, take a breath," Rachel said. "This is fixable. Print issues happen to everyone. You're not the first designer to have a color profile problem, and you won't be the last."
 
-"But the client�?
+"But the client—"
 
 "The client is upset, but they want a solution more than they want to blame you. Focus on fixing the problem, and the relationship will follow." Rachel's voice was calm, steady. "Now, tell me exactly what files you sent and what specifications the printer asked for."
 
@@ -72,6 +72,7 @@ By 3 AM, Maya had a clear path forward. Not a perfect solution—the client woul
 
 "That's what we're here for," Rachel said. "And hey—next time, don't wait until 1 AM to ask for help. We're a community. Use us."
 
+---
 
 The next morning, Maya called the client.
 
@@ -95,6 +96,7 @@ These people—most of whom she barely knew—were offering to help. Not because
 
 *This is what it feels like,* she thought. *Being supported. Not being alone.*
 
+---
 
 By Sunday night, Maya had delivered the corrected files.
 

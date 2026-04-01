@@ -10,11 +10,11 @@ He selected fifty names at random and started calling.
 
 The first call was to a young woman named Jessica Martinez. She'd been accepted with a partial scholarship, a good student from a local high school. Michael had personally reviewed her application and been impressed.
 
-"Hello, this is Dr. Michael Chen from Midwest State University. I'm calling to�?
+"Hello, this is Dr. Michael Chen from Midwest State University. I'm calling to—"
 
 "I know who you are." Her voice was polite but distant. "I got your letters."
 
-"I wanted to ask why you chose not to enroll. We're trying to understand the decline in applications, and�?
+"I wanted to ask why you chose not to enroll. We're trying to understand the decline in applications, and—"
 
 "You want to know why I didn't want to spend four years and forty thousand dollars to learn things I can learn for free?"
 
@@ -48,6 +48,7 @@ The second call was to Marcus Johnson, a young man who'd been accepted into the 
 
 "Sometimes. I miss the idea of it—being around people my age, having time to explore, not worrying about the future. But then I look at my friends who went to college. They're stressed about debt, about grades, about whether their degrees will mean anything. I'm stressed too, but at least I'm stressed about things that feel real."
 
+---
 
 The third call was to Emily Chen—no relation, though they'd joked about it during her campus visit.
 
@@ -65,6 +66,7 @@ The third call was to Emily Chen—no relation, though they'd joked about it dur
 
 "I don't know yet. Ask me in ten years." She paused. "But here's what I think: education should be about becoming, not just knowing. College promised to help me become something, but I'm not sure it would have. It would have given me knowledge, but I can get that anywhere. What I really need is to figure out who I am and what I want. And I'm not sure a campus is the best place for that."
 
+---
 
 Michael made twenty calls that day. The patterns were consistent.
 
@@ -76,6 +78,7 @@ None of them seemed lost. None of them seemed regretful. They were making choice
 
 The degree wasn't worth the cost.
 
+---
 
 That evening, he shared his findings with Alex.
 
@@ -101,6 +104,7 @@ Michael looked at his son. "I've spent thirty years building this institution. B
 
 "But I think you're right. The world has changed. If we don't change with it, we'll become irrelevant. And irrelevance is worse than transformation."
 
+---
 
 The next day, Michael returned to his office with a new mission.
 
@@ -112,6 +116,7 @@ He wanted to understand what they had learned, what they had missed, what they w
 
 He wanted to find the gap between what universities provided and what students actually needed.
 
+---
 
 His first call was to David Park, a graduate from five years ago who had left a successful career in finance to start a community garden.
 
@@ -125,6 +130,7 @@ His first call was to David Park, a graduate from five years ago who had left a 
 
 "More freedom. Less structure. Professors who asked questions instead of giving answers. A community that supported exploration instead of demanding conformity." He paused. "Basically, everything college isn't designed to provide."
 
+---
 
 His second call was to Rachel Torres, who had dropped out after her sophomore year to become an artist.
 
@@ -138,6 +144,7 @@ His second call was to Rachel Torres, who had dropped out after her sophomore ye
 
 "Every day. But I also wish I hadn't had to choose. I wish college had been a place where I could have discovered painting, where someone could have helped me find my passion instead of just filling me with information."
 
+---
 
 His third call was to James Wright, who had graduated with honors and then spent two years unemployed before finding work as a carpenter.
 
@@ -147,6 +154,7 @@ His third call was to James Wright, who had graduated with honors and then spent
 
 "Honesty. Someone telling me that a degree isn't a guarantee. That the world is changing faster than curricula can adapt. That I needed to develop skills that AI can't replicate—hands, creativity, human connection." His voice was bitter. "Instead, everyone told me to trust the system. And the system failed me."
 
+---
 
 Michael compiled his findings into a report.
 

@@ -64,11 +64,11 @@ The following week, Mike's daughter Sarah came to visit. She was finishing her m
 
 "Dad, I need your expertise," she said over breakfast. "I've been looking at listings online, but I don't know what I'm looking at. Can you help me?"
 
-"Of course." Mike pulled out his tablet, ready to demonstrate the HomeMatch system. "I have access to everything now. We can pull up listings, compare neighborhoodsâ€?
+"Of course." Mike pulled out his tablet, ready to demonstrate the HomeMatch system. "I have access to everything now. We can pull up listings, compare neighborhoodsâ€”"
 
 "I don't want the app, Dad." Sarah smiled, but there was something serious in her eyes. "I want you. I want your gut. The way you used to walk through a house and just know if it was right."
 
-Mike set the tablet down. "The app is good, Sarah. It knows things I could neverâ€?
+Mike set the tablet down. "The app is good, Sarah. It knows things I could neverâ€”"
 
 "It knows data. You know houses." She reached across the table and took his hand. "When I was growing up, you used to take me on property tours. You'd close your eyes and tell me what was wrong with a house just by smelling the air. Remember that?"
 

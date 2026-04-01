@@ -12,7 +12,7 @@ A developer named Priya raised her hand. "What about the API documentation I was
 
 "Can it wait eight weeks?"
 
-Priya hesitated. "Technically, yes. Butâ€?
+Priya hesitated. "Technically, yes. Butâ€¦"
 
 "Then it waits." Elena kept her voice gentle but firm. "I'm not saying your other work isn't important. I'm saying that for eight weeks, we're choosing to make Phoenix more important. After that, you can finish the documentation. But right now, I need your full attention here."
 
@@ -78,7 +78,7 @@ Elena watched her team celebrate. They had been skeptical, even resistant, just 
 
 "Is it always this hard?" she asked.
 
-"The focus part? Yes. The resistance never completely goes away. But the resultsâ€? He gestured at the celebrating team. "The results make it worth it."
+"The focus part? Yes. The resistance never completely goes away. But the resultsâ€¦" He gestured at the celebrating team. "The results make it worth it."
 
 That evening, Elena stayed late to update the project board. The authentication system was done. Three other major blockers were resolved. The path to Week 8 was clearer than it had ever been.
 

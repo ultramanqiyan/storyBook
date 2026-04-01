@@ -92,7 +92,7 @@ Elena laughed—a short, sharp sound. "Marcus, I love you, but you're chasing a 
 
 "Can they?" She met his eyes. "If an AI creates something that moves people, that makes them think and feel, does it matter how it was made?"
 
-"Yes. It matters because�?
+"Yes. It matters because—"
 
 "Because you've built your career on the idea that it matters. I know." Her voice softened. "But maybe it's time to ask whether that idea is still true. Or whether it ever was."
 
@@ -102,6 +102,7 @@ Marcus felt the familiar tightness in his chest. The one that came whenever some
 
 "I hope you do." She touched his arm briefly. "Really. But I also hope you're prepared for what happens if you're wrong."
 
+---
 
 He left the gallery feeling unsettled.
 
@@ -111,6 +112,7 @@ He didn't want to believe her. He couldn't believe her. If she was right, then e
 
 He needed to find something. Someone. Proof that authenticity was real.
 
+---
 
 Back in his office, he returned to the portfolios with renewed determination. He worked through another fifty submissions, rejecting most of them for the same reasons as before—too polished, too derivative, too obviously calibrated to appeal to his stated preferences.
 
@@ -136,6 +138,7 @@ It was pretentious, of course. All artist statements were pretentious. But there
 
 Marcus made a note: *Schedule studio visit.*
 
+---
 
 Jimmy Okonkwo's studio was in a converted warehouse in Bushwick, accessible through a graffiti-covered door that opened onto a staircase smelling of paint and something else—something synthetic, almost chemical.
 
@@ -191,6 +194,7 @@ Jimmy's work was brilliant. Jimmy's work was authentic. Jimmy's work was... some
 
 He pushed the thought away.
 
+---
 
 That night, Marcus sat in his apartment with the portfolio spread across his desk. Jimmy Okonkwo's images glowed on his laptop screen.
 
@@ -214,6 +218,7 @@ He set the phone down and returned to the images. The work was good. He was sure
 
 Almost sure.
 
+---
 
 The next morning, he called Helen Marsh.
 

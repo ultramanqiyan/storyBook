@@ -70,7 +70,7 @@ Elena thought about it. "The mobile app spec. Development can't start without it
 
 "Then that's your one thing."
 
-"But what about the client presentation? What about the Q3 roadmap? What aboutâ€?
+"But what about the client presentation? What about the Q3 roadmap? What aboutâ€¦"
 
 "They'll still be there when you're done." Tom's voice was steady. "The question isn't whether they're important. The question is whether you can do anything about them while you're trying to do everything else."
 

@@ -267,7 +267,8 @@ The world doesn't shift. Doesn't disappear. Doesn't explode.
 
 Instead, there's a hum. A vibration. A resonance.
 
-And thenâ€?
+And thenâ€¦
+
 Something unlocks.
 
 

@@ -132,27 +132,32 @@ Pure, unfiltered, absolute joy. Not joy about anything. Not joy caused by anythi
 
 It fills him. Every part of him. Every cell. Every thought. Every memory.
 
-And thenâ€?
+And thenâ€¦
+
 Peace.
 
 Not the absence of conflict. Not the resolution of tension. Peace as a state of being. Complete. Total. Absolute.
 
-And thenâ€?
+And thenâ€¦
+
 Connection.
 
 He feels everyone. Everyone who has ever existed. Everyone who will ever exist. All connected. All one. All part of something vast and beautiful and infinite.
 
-And thenâ€?
+And thenâ€¦
+
 Meaning.
 
 Not the meaning of something. Not meaning derived from context. Meaning itself. The understanding that everything matters. That everything is connected. That everything is exactly as it should be.
 
-And thenâ€?
+And thenâ€¦
+
 Love.
 
 Not love for someone. Not love from someone. Love as a force. Love as a truth. Love as the fundamental nature of existence.
 
-And thenâ€?
+And thenâ€¦
+
 Everything.
 
 All of it. At once. Joy and peace and connection and meaning and love. All together. All pure. All direct.
@@ -165,7 +170,8 @@ He's crying. Laughing. Sobbing. All at once.
 
 He's never felt anything like this. He's never imagined anything like this.
 
-This is what he's been chasing. This is what he's been searching for. This isâ€?
+This is what he's been chasing. This is what he's been searching for. This isâ€¦
+
 It stops.
 
 
@@ -268,7 +274,7 @@ He calls Kane.
 
 "I need to do it again."
 
-"It's too soon. I told youâ€?
+"It's too soon. I told youâ€¦"
 
 "I don't care. I need it."
 

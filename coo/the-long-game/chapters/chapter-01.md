@@ -14,7 +14,7 @@ His first call was at 6:45. The offshore team in Bangalore needed clarification 
 
 "Can we ship this by tomorrow?" he asked, already knowing the answer.
 
-"We'll try, Michael. But the testing... "
+"We'll try, Michael. But the testing..."
 
 "Skip the edge cases. We'll fix those in production. What's the timeline?"
 
@@ -22,7 +22,7 @@ There it was. His favorite question. The one that drove every decision, every tr
 
 ---
 
-By 9 AM, Michael had been working for three hours. He'd answered seventeen Slack messages, reviewed two pull requests, and made significant progress on the dashboard redesign. His coffee sat cold beside him, forgotten in the rush, the bitter taste of the last sip still lingering on his tongue.
+By 9 AM, Michael had been working for three hours. He'd answered seventeen Slack messages, reviewed two pull requests, and made significant progress on the dashboard redesign. His coffee sat cold beside him, forgotten in the rush.
 
 The notification sound pinged. A new email from his biggest client.
 
@@ -46,6 +46,7 @@ He started typing before he could overthink it.
 
 His fingers flew across the keyboard. This was what he did best, compress timelines, find efficiencies, make the impossible possible. The rush of it was familiar, almost addictive. Every compressed deadline was a validation. Every sprint completed was proof that he could outrun the clock.
 
+---
 
 The coffee shop was three blocks from his apartment, a small place with exposed brick and local art on the walls. Michael arrived at 12:30, thirty minutes late, because a call had run over.
 
@@ -83,10 +84,12 @@ Rachel shook her head slowly. "You know what they teach us in residency? That so
 
 "Is it?" She leaned back. "Or is speed just what you're used to?"
 
+---
 
 By 6 PM, Michael had shipped the dashboard redesign, restructured the sprint for the accelerated timeline, and responded to forty-three Slack messages. He'd also eaten nothing but a protein bar and drunk four cups of coffee.
 
-His apartment was quiet. The screens were dark. He should eat something. He should rest. He should... "
+His apartment was quiet. The screens were dark. He should eat something. He should rest. He should...
+
 His phone buzzed. Another notification. Another fire to put out.
 
 He looked at it for a long moment, then set it face-down on the counter. He could take five minutes. Five minutes to breathe.
@@ -97,6 +100,7 @@ But the breathing felt wrong. Too slow. Too still. His mind was already racing a
 
 He picked up his phone and started typing.
 
+---
 
 The apartment was quiet now. Michael sat in the dark, the glow of his closed laptop a faint blue light in the corner. He'd made progress today. He always made progress. But it never felt like enough. There was always another deadline, another client, another sprint.
 

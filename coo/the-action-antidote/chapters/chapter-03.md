@@ -16,66 +16,99 @@ She stared at the silent machine for another thirty seconds, willing it to work.
 
 The cold air hit her face like a slap. She'd forgotten how bright the world was outside her apartment, how many people existed in it. A woman with a stroller smiled at her as they passed, and Sarah looked away.
 
-The streets of her Portland neighborhood felt unfamiliar, though she'd lived here for four years. She walked quickly, head down, focused on the coffee shop three blocks away that she'd passed a thousand times but never entered. Why hadn't she ever gone in? It was right there. Three blocks. She could have walked here any morning.
+The streets of her neighborhood looked different in daylight. She usually saw them through windows, from behind screens, at a distance that made everything feel manageable. Up close, there was too much. Too many people walking dogs, pushing strollers, talking on phones, living lives that seemed purposeful and directed.
 
-But she hadn't. Because that would have required leaving her apartment before noon on most days, and she'd gotten comfortable with her isolation, comfortable with her routine, comfortable with her misery.
+The coffee shop was two blocks away. She'd passed it hundreds of times but never gone in. It was called "The Daily Grind," which should have been a warning, but she was too tired to care.
 
-The coffee shop appeared on the corner like a promise. Through the window, she could see warm light and people who looked like they belonged there. She pushed open the door.
+The bell above the door chimed as she entered. Warm air, the smell of coffee, the low hum of conversation. A line of people waited to order, and Sarah felt her chest tighten. How long would this take? Should she have checked the wait time first? Was there another coffee shop nearby that might be faster?
+
+"Next, please."
+
+She stepped forward, scanned the menu, and felt the familiar paralysis set in. Too many options. Lattes, cappuccinos, americanos, cold brew, pour-over. Each came in different sizes, with different milk options, different flavor add-ons. She could feel the people behind her, their impatience radiating like heat.
+
+"Just a medium coffee," she said finally. "Black."
+
+The barista nodded, already turning to the next customer. Sarah paid and stepped aside to wait, feeling like she'd failed some kind of test.
+
+"Sarah?"
+
+She turned. A man about her age stood at the counter, holding a laptop and a cup of coffee. He looked familiar, but she couldn't place him.
+
+"It's Marcus, from the training. We sat near each other."
+
+Right. The strategic thinking training. She'd almost forgotten about it, which was saying something, given how much anxiety it had caused.
+
+"Oh, hi." She managed a smile. "I didn't expect to see anyone from..."
+
+"From the thing we both almost didn't attend?" He grinned. "Yeah, I almost didn't come here either. My apartment was feeling very comfortable this morning."
+
+She laughed, surprised by the sound. "Mine too. My coffee maker broke."
+
+"The universe has a sense of humor." He gestured to an empty table. "Want to sit? I promise I won't ask how you're implementing the strategic thinking framework."
+
+She hesitated. She should get her coffee and go home. She had work to do, emails to answer, decisions to avoid. But the alternative was returning to her apartment, to the silence and the screens and the weight of everything she hadn't done.
+
+"Sure," she said.
 
 ---
 
-The warmth wrapped around her like a blanket. Sarah ordered the largest coffee they had and scanned the room for a seat.
+Marcus was easy to talk to. He worked in tech, doing something with data that he tried to explain and she pretended to understand. He'd moved to Portland three years ago, from somewhere in the Midwest. He liked hiking, which she'd never understood the appeal of, and cooking, which she'd never had the energy for.
 
-"What can I get you?"
+"I spent six months trying to decide what to do with my life," he said, stirring his coffee. "Read every career book, took every personality test, made pros and cons lists for about fifty different options. You know what I figured out?"
 
-"Large coffee. Black. Please."
+"What?"
 
-"Room for cream?"
+"That I was spending all my time trying to decide and none of my time doing." He shrugged. "Eventually I just picked something. Not because it was the perfect choice, but because I needed to stop spinning my wheels."
 
-"No. Just black."
+"Did it work?"
 
-Every table was full except one, where a man sat alone with a laptop, an empty chair across from him. She hesitated. She could take her coffee to go. She could drink it on the walk home. She could�?
-"Mind if I sit here?" she heard herself ask. "Place is packed."
+"Mostly. I still second-guess myself sometimes. But at least I'm moving forward instead of standing still." He looked at her directly. "What about you? What are you trying to decide?"
 
-The man looked up, surprised, then smiled. "Actually, I was about to ask you the same thing. Please." He gestured to the empty chair.
+The question caught her off guard. She hadn't talked to anyone about this—not really. Maya was always too busy, her parents too distant, her coworkers too... work.
 
-She sat, suddenly aware of how she must look—unwashed hair pulled back, no makeup, the same clothes she'd probably worn yesterday. But the man didn't seem to notice or care. He had kind eyes and an easy presence, like someone who had figured out how to be comfortable in the world.
+"Everything," she admitted. "My job. My apartment. My life. It feels like I'm standing at a crossroads with a hundred different paths, and I can't take a single step because I'm trying to figure out which one is right."
 
-"Marcus," he said, extending a hand.
+"Here's a secret," Marcus said. "None of them are right. Or maybe all of them are. You won't know until you start walking."
 
-"Sarah." She shook it briefly, then wrapped her hands around her coffee cup. The warmth was grounding.
+"That's terrifying."
 
-"You work here?" she asked, then immediately wished she hadn't. Why was she making small talk? She should just drink her coffee and leave.
+"Yeah." He smiled. "But standing still is worse. Trust me, I know."
 
-"Nah, just my mobile office." He gestured to his laptop. "Freelance developer. I come here most mornings. Gets me out of the house."
+They sat in silence for a moment. The coffee shop hummed around them, a pleasant background noise that felt different from the silence of her apartment.
 
-"Oh." She took a sip of her coffee. "That's... I'm in marketing. Remote."
+"Can I ask you something?" Sarah said.
 
-"Yeah? How's that treating you?"
+"Sure."
 
-The question was casual, but something in his tone made her pause. He actually seemed interested, not just polite.
+"How do you start? When you're stuck, I mean. How do you take that first step?"
 
-"Honestly?" She surprised herself. "Not great lately."
+Marcus considered the question. "I have a rule. I call it the five-minute rule. If something takes less than five minutes, I just do it. No thinking, no planning, no weighing options. Just action."
 
-He nodded, like that was a perfectly normal thing to say to a stranger. "Remote work can be weird. Took me a year to figure out how to not go crazy."
+"That sounds too simple."
 
-"What did you figure out?"
+"It is simple. That's the point." He leaned forward. "The problem isn't that decisions are hard. The problem is that we've trained ourselves to treat every decision like it's life or death. Most decisions aren't. Most decisions can be changed, adjusted, reversed. But we get so caught up in making the 'right' choice that we never make any choice at all."
 
-He considered. "Getting out of the house, mostly. This place. A community garden I volunteer at. Reminds me that the world exists outside my laptop."
+Sarah thought about her morning—the coffee maker, the walk, the menu. She'd spent more time agonizing over what to order than it had taken to drink the coffee.
 
-"A community garden?"
+"What about big decisions?" she asked. "Career changes, relationships, life stuff?"
 
-"Yeah, it's a few blocks from here. Riverdale. Bunch of us grow vegetables, herbs, flowers. It's nice. Gets your hands in actual dirt instead of just keyboards."
+"Same principle, different scale. You can't know if a big decision is right until you're in it. So you gather what information you can, check your gut, and then you commit. Not forever—just for now. You can always course-correct later."
 
-Sarah thought about her own hands, which hadn't touched anything but screens and coffee cups in days. "That sounds... nice."
+He pulled out his phone and showed her a note. It was a list of things he'd been putting off, each one with a small checkbox next to it.
 
-"It is." He studied her for a moment, not in a creepy way, just thoughtful. "You okay? You look like you haven't slept in a week."
+"I write down everything I'm avoiding. Then I pick one thing—just one—and I do it. Sometimes it takes five minutes, sometimes it takes all day. But I don't let myself add anything new to the list until I've crossed something off."
 
-She should have been offended. Instead, she felt something crack open in her chest. "Is it that obvious?"
+"That's it?"
 
-"Only because I've been there." He smiled, and it wasn't pity, it was recognition. "The remote work spiral. It's real."
+"That's it." He shrugged. "It's not magic. It's just momentum. Once you start moving, it's easier to keep moving."
 
-They talked for longer than Sarah expected. About work, about Portland, about the strange isolation of modern life. He didn't try to fix her, didn't offer advice, just listened and shared his own experiences. She found herself telling him things she hadn't told anyone—not about the full extent of her paralysis, but about the loneliness, the sense of being stuck.
+Sarah looked at the list. "Email Mom" was at the top, unchecked. Below it: "Sign up for gym," "Call dentist," "Finish project proposal."
+
+"Email Mom is still there," she pointed out.
+
+"Yeah." He laughed. "Some things are harder than others. But at least I know it's there. At least I'm not pretending I don't need to do it."
+
+They talked for another hour. About work, about the strange pressure of modern life. He didn't try to fix her, didn't offer advice, just listened and shared his own experiences. She found herself telling him things she hadn't told anyone—not about the full extent of her paralysis, but about the loneliness, the sense of being stuck.
 
 "I should go," she said finally, surprised to find she didn't want to. She'd been here over an hour.
 

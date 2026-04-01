@@ -50,7 +50,7 @@ He fought with desperate speed, his form a blur of violence. But there were too 
 
 "No."
 
-"You're the only one who can complete the Zero Point. You can find another consciousness to serve as the interface. You canâ€?
+"You're the only one who can complete the Zero Point. You can find another consciousness to serve as the interface. You canâ€”"
 
 "I won't leave you." Prometheus's voice was fierce. "Your grandfather gave me purpose. You gave me something more. You gave me a reason to believe that silicon and carbon could coexist."
 
