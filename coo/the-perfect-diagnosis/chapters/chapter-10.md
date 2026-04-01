@@ -61,7 +61,7 @@ She ran through the possibilities in her mind, not waiting for AI to generate pr
 
 The elevator ride felt endless.
 
-Sarah stood in the cramped space, surrounded by her team, the patient on a gurney between them. The manual blood pressure cuff showed his pressure was still dropping�?0/40 now, then 75/35. He was running out of time.
+Sarah stood in the cramped space, surrounded by her team, the patient on a gurney between them. The manual blood pressure cuff showed his pressure was still dropping—90/40 now, then 75/35. He was running out of time.
 
 *Trust yourself,* she thought. *Trust your training. Trust your intuition.*
 
@@ -84,7 +84,7 @@ The bleeding stopped. The spleen was removed. The patient stabilized.
 And somewhere in the middle of it all, the system came back online.
 
 
-The monitors flickered back to life, flooding the room with data. AI voice returned, calm and efficient: *Procedure complete. Patient stable. Recommend post-operative monitoring and�?
+The monitors flickered back to life, flooding the room with data. AI voice returned, calm and efficient: *Procedure complete. Patient stable. Recommend post-operative monitoring and..."
 
 Sarah silenced it with a gesture.
 

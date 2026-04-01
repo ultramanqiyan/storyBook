@@ -133,7 +133,7 @@ Maya sat in the transport's small cabin, preparing herself for what was to come.
 
 "If this doesn't work," she said to Prometheus, "I want you to continue. Find another way to get the interface. Build the Zero Point. Finish what we started."
 
-"Maya�?
+"Maya..."
 
 "Promise me."
 

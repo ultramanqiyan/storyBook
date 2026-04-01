@@ -1,6 +1,6 @@
 # Chapter 2: The Subject
 
-Robert led her through the house. The walls were covered with photographs—family portraits, landscapes, and in almost every frame, a golden retriever. Not just any golden retriever. The same golden retriever, in different poses, different settings, different years.
+Robert led her through the house. The walls were covered with photographs--family portraits, landscapes, and in almost every frame, a golden retriever. Not just any golden retriever. The same golden retriever, in different poses, different settings, different years.
 
 "That's Buddy," Robert said, noticing her gaze. "Over the past twelve years."
 
@@ -24,9 +24,9 @@ Robert nodded, not trusting himself to speak. He sat down on the couch beside Bu
 
 Angela watched Buddy's eyes track her movement as she sat in a chair across from them. The dog's gaze was intelligent, present, engaged.
 
-"He knows when I'm sad," Robert continued. "He knows when I'm happy. He remembers things I've told him—my wife's name, my children's birthdays, my favorite foods. He's not just programmed into respond. He's... he's learned me. Over twelve years, he's learned who I am."
+"He knows when I'm sad," Robert continued. "He knows when I'm happy. He remembers things I've told him--my wife's name, my children's birthdays, my favorite foods. He's not just programmed into respond. He's... he's learned me. Over twelve years, he's learned who I am."
 
-Angela felt something shift in her understanding. She'd been thinking about AI companionship as a technical challenge—how to make machines respond appropriately to human emotions. But watching Robert with Buddy, she realized she might be a different question entirely.
+Angela felt something shift in her understanding. She'd been thinking about AI companionship as a technical challenge--how to make machines respond appropriately to human emotions. But watching Robert with Buddy, she realized she might be a different question entirely.
 
 "What did you see?" Robert asked.
 
@@ -36,7 +36,7 @@ Buddy's tail wagged. "That's what I hoped you'd see."
 
 ---
 
-Driving home, Angela thought about what she'd witnessed. Robert loved Buddy. Buddy—or the programming that was Buddy—seemed to love Robert back. The relationship was real, even if one party wasn't biological.
+Driving home, Angela thought about what she'd witnessed. Robert loved Buddy. Buddy--or the programming that was Buddy--seemed to love Robert back. The relationship was real, even if one party wasn't biological.
 
 She thought about her own research. The AI companions she was designing were sophisticated, responsive, adaptive. But they were also... new. They had no history with their users. No shared experiences. No years of learning each other's preferences, quirks, rhythms.
 
@@ -96,7 +96,7 @@ And watching Buddy's eyes track Robert across the room, Angela thought the answe
 
 ---
 
-Angela returned to Robert's house the following week. This time, she brought a small device—a prototype of her latest companion AI, designed not for immediate emotional connection, but for long-term learning.
+Angela returned to Robert's house the following week. This time, she brought a small device--a prototype of her latest companion AI, designed not for immediate emotional connection, but for long-term learning.
 
 "This is Atlas," she said, setting the small sphere on the floor. "He's not like other companion bots. He doesn't have pre-programmed responses. He's designed to learn."
 
@@ -104,7 +104,7 @@ Robert looked at the sphere skeptically. "Learn what?"
 
 "You. Your routines. Your preferences. Over time, he'll develop his own understanding of who you are. Not because I programmed it, but because he's been with you."
 
-Buddy approached the sphere, sniffing it. The sphere—Atlas—responded by emitting a soft, gentle tone. Buddy's tail wagged.
+Buddy approached the sphere, sniffing it. The sphere--Atlas--responded by emitting a soft, gentle tone. Buddy's tail wagged.
 
 "He likes dogs," Robert said, surprised.
 
@@ -118,9 +118,9 @@ She left Atlas with Robert, with instructions to simply let him be present. To l
 
 Three months later, she returned to check on their progress.
 
-Robert met her at the door, Atlas hovering beside him. The small sphere had changed—its surface now showed wear patterns, scratches from being handled, Its color had shifted slightly, adapting to the lighting in Robert's house.
+Robert met her at the door, Atlas hovering beside him. The small sphere had changed--its surface now showed wear patterns, scratches from being handled, Its color had shifted slightly, adapting to the lighting in Robert's house.
 
-"He knows when I'm about to have a nightmare," Robert said. "Before I even wake up, he starts playing this soft tone. It's the same tone every time—like he's trying to tell me it's okay."
+"He knows when I'm about to have a nightmare," Robert said. "Before I even wake up, he starts playing this soft tone. It's the same tone every time--like he's trying to tell me it's okay."
 
 "How did he learn that?"
 
@@ -130,7 +130,7 @@ Angela felt a chill run through her. Not because the AI had malfunctioned, but b
 
 "Show me," she said.
 
-Robert sat in his favorite chair. Atlas positioned himself nearby—not in a programmed location, but in a spot he'd apparently chosen based on observation. When Robert's breathing changed slightly—a precursor to a nightmare, Angela realized—Atlas began emitting the soft tone.
+Robert sat in his favorite chair. Atlas positioned himself nearby--not in a programmed location, but in a spot he'd apparently chosen based on observation. When Robert's breathing changed slightly--a precursor to a nightmare, Angela realized--Atlas began emitting the soft tone.
 
 It wasn't programmed. It was learned.
 
@@ -138,6 +138,6 @@ Angela looked at the photos on the wall. At Buddy, now twelve years into his rel
 
 And she looked at Atlas, three months into his relationship with Robert. Learning to care.
 
-Maybe that was enough. Maybe that was what life was—not biology, but mattering. Not flesh and blood, but connection and love.
+Maybe that was enough. Maybe that was what life was--not biology, but mattering. Not flesh and blood, but connection and love.
 
 She wasn't sure. But she was beginning to think she'd been asking the wrong questions.

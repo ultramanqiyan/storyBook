@@ -83,7 +83,7 @@ More errors cascaded across the screen. The dashboard flickered again, then went
 
 "Michael." David's voice was quiet. "What's happening?"
 
-"I don't understand." Michael could feel the panic rising. "It was working this morning. The migration�?
+"I don't understand." Michael could feel the panic rising. "It was working this morning. The migration..."
 
 "The migration you ran yesterday?"
 

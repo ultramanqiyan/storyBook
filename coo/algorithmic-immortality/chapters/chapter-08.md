@@ -2,7 +2,7 @@
 
 A new patient arrived at the hospice. Margaret Sullivan, sixty-eight years old, with advanced ALS. She had watched her husband die from the same disease two years earlier, and she had no interest in digital immortality. "I want to go," she told Ingrid. "I'm ready."
 
-Ingrid felt something shift inside her—a relief, recognition, validation. After weeks of wrestling with questions about digital immortality, about what was real and what mattered, here was someone who had already found her answer.
+Ingrid felt something shift inside her--a relief, recognition, validation. After weeks of wrestling with questions about digital immortality, about what was real and what mattered, here was someone who had already found her answer.
 
 But as she spent more time with Margaret, she realized that certainty was not the same as peace.
 
@@ -10,7 +10,7 @@ But as she spent more time with Margaret, she realized that certainty was not th
 
 Margaret's room was filled with photographs. Her husband Tom, their children, their grandchildren, their life together spanning decades. Ingrid studied them as she helped Margaret get comfortable, adjusting pillows, checking the IV line, making small talk about the weather.
 
-"That one was our fortieth anniversary," Margaret said, her voice already affected by the disease but still clear enough. She pointed to a photo on the dresser—two people standing on a beach, wind in their hair, smiles on their faces. "Tom wanted to go to Hawaii. I said it was too expensive. So we went to Lake Superior instead. Best decision we ever made."
+"That one was our fortieth anniversary," Margaret said, her voice already affected by the disease but still clear enough. She pointed to a photo on the dresser--two people standing on a beach, wind in their hair, smiles on their faces. "Tom wanted to go to Hawaii. I said it was too expensive. So we went to Lake Superior instead. Best decision we ever made."
 
 "It's beautiful."
 
@@ -20,13 +20,13 @@ Ingrid sat in the chair beside the bed. "Can I ask you something?"
 
 "You can ask. I might not answer."
 
-"Fair enough." Ingrid chose her words carefully. "The upload option—have you thought about it?"
+"Fair enough." Ingrid chose her words carefully. "The upload option--have you thought about it?"
 
 Margaret's expression hardened. "I've thought about it. And I don't want it."
 
 "Can you tell me why?"
 
-For a long moment, Margaret didn't speak. Then she turned to look at Ingrid, and her eyes were fierce. "Because I watched Tom die. I held his hand. I was there when he took his last breath. And I wouldn't trade that for anything—not for a digital version of him, not for forever."
+For a long moment, Margaret didn't speak. Then she turned to look at Ingrid, and her eyes were fierce. "Because I watched Tom die. I held his hand. I was there when he took his last breath. And I wouldn't trade that for anything--not for a digital version of him, not for forever."
 
 "But you could see him again. Talk to him again."
 
@@ -38,7 +38,7 @@ Ingrid thought of Mrs. Halvorsen, saying almost the same thing. The value of the
 
 ---
 
-Over the next few days, Ingrid spent hours with Margaret. They talked about her life—her childhood in Duluth, her years as a schoolteacher, her marriage to Tom, their children and grandchildren. They talked about her disease—the slow progression, the loss of function, the acceptance that had come gradually and then suddenly.
+Over the next few days, Ingrid spent hours with Margaret. They talked about her life--her childhood in Duluth, her years as a schoolteacher, her marriage to Tom, their children and grandchildren. They talked about her disease--the slow progression, the loss of function, the acceptance that had come gradually and then suddenly.
 
 And they talked about death.
 
@@ -50,13 +50,13 @@ Margaret smiled. "He said, 'It's okay. I'm okay.' And then he was gone." She loo
 
 Ingrid nodded slowly. "I think I understand."
 
-"Do you?" Margaret studied her face. "You've been asking a lot of questions. About the upload, about death, about what it all means. I can see it in your eyes—you're still wrestling with it."
+"Do you?" Margaret studied her face. "You've been asking a lot of questions. About the upload, about death, about what it all means. I can see it in your eyes--you're still wrestling with it."
 
-"I am," Ingrid admitted. "I've been helping people die for twenty years. But now there's an alternative. And I'm trying to understand what that means—for them, for me, for all of us."
+"I am," Ingrid admitted. "I've been helping people die for twenty years. But now there's an alternative. And I'm trying to understand what that means--for them, for me, for all of us."
 
 "And what have you concluded?"
 
-"That there's no single answer. That different people want different things. And that my job is to help them figure out what they want—not to tell them what's right."
+"That there's no single answer. That different people want different things. And that my job is to help them figure out what they want--not to tell them what's right."
 
 Margaret nodded approvingly. "That sounds like wisdom to me."
 
@@ -74,7 +74,7 @@ On the fifth day, Margaret's daughter arrived. Katherine was forty-two, with her
 
 Katherine looked at Ingrid, pleading. "Can you talk to her? Make her understand what she's giving up?"
 
-Ingrid hesitated. This was the kind of situation she had been dreading—the family conflict, the pressure to choose one option over another. But she had thought about this, prepared for it. She knew what to do.
+Ingrid hesitated. This was the kind of situation she had been dreading--the family conflict, the pressure to choose one option over another. But she had thought about this, prepared for it. She knew what to do.
 
 She led Katherine out into the hallway, away from Margaret's room.
 
@@ -86,11 +86,11 @@ She led Katherine out into the hallway, away from Margaret's room.
 
 Katherine's eyes filled with tears. "How can you be so sure? How do you know it wouldn't really be her?"
 
-"I don't know. No one knows. But your mother has made a choice—based on her values, her experience, her understanding of what makes life meaningful. And that choice deserves respect."
+"I don't know. No one knows. But your mother has made a choice--based on her values, her experience, her understanding of what makes life meaningful. And that choice deserves respect."
 
 Katherine wiped her eyes. "I just don't want to lose her."
 
-"None of us want to lose the people we love. But sometimes holding on too tight means losing them in a different way." Ingrid touched her arm gently. "Your mother is dying. That's hard. But she's dying on her own terms, with peace and dignity. That's a gift—not something to fight against."
+"None of us want to lose the people we love. But sometimes holding on too tight means losing them in a different way." Ingrid touched her arm gently. "Your mother is dying. That's hard. But she's dying on her own terms, with peace and dignity. That's a gift--not something to fight against."
 
 Katherine was quiet for a long moment. Then she nodded slowly. "I'll try. I'll try to respect her choice."
 
@@ -110,25 +110,25 @@ That evening, Ingrid sat with Margaret while Katherine and the other family memb
 
 Ingrid felt a lump in her throat. "Thank you. That means a lot."
 
-"I have a request," Margaret said. "When it's time—when I'm close—will you be there? I don't want to be alone."
+"I have a request," Margaret said. "When it's time--when I'm close--will you be there? I don't want to be alone."
 
 "I'll be there. I promise."
 
 ---
 
-Three days later, Ingrid kept her promise. She sat beside Margaret's bed, holding her hand, as the breathing grew slower and shallower. Katherine was there too, and the other children, and the grandchildren—a room full of love and grief and acceptance.
+Three days later, Ingrid kept her promise. She sat beside Margaret's bed, holding her hand, as the breathing grew slower and shallower. Katherine was there too, and the other children, and the grandchildren--a room full of love and grief and acceptance.
 
 Margaret's eyes found Ingrid's one last time. She couldn't speak anymore, but her expression said everything: gratitude, peace, readiness.
 
 "It's okay," Ingrid said softly, echoing the words Margaret had told her about Tom. "You're okay."
 
-Margaret squeezed her hand—just barely, the last of her strength—and then she was gone.
+Margaret squeezed her hand--just barely, the last of her strength--and then she was gone.
 
-Ingrid stayed for a while after, helping the family, making arrangements, doing the hundred small tasks that followed a death. But inside, she felt something new—not an answer, but a deepening of understanding.
+Ingrid stayed for a while after, helping the family, making arrangements, doing the hundred small tasks that followed a death. But inside, she felt something new--not an answer, but a deepening of understanding.
 
 Margaret had chosen death. Not because she feared digital immortality, not because she didn't understand the alternative, but because she valued something more: the authenticity of a natural end, the physical presence of her family, the grace of letting go.
 
-And Ingrid had helped her. Not by telling her what to do, but by listening, by asking questions, by being present. That was the heart of her work—not to have all the answers, but to help people find their own.
+And Ingrid had helped her. Not by telling her what to do, but by listening, by asking questions, by being present. That was the heart of her work--not to have all the answers, but to help people find their own.
 
 As she walked home that night, she thought about all the patients she had helped over the years. Some had chosen digital immortality, some had chosen death. Some had been certain, some had wavered. But all of them had been searching for the same thing: meaning, in whatever form they could find it.
 

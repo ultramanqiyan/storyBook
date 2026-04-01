@@ -1,8 +1,8 @@
 # Chapter 6: The Audience
 
-The test theater at Nexus AI was smaller than Rosa's community theater, but it had the same essential quality—a stage, seats, the anticipation of an audience about to witness something. Twenty people had been recruited for the test, a mix of ages and backgrounds. They didn't know they were watching an AI. They only knew they were seeing a new performance technology being tested.
+The test theater at Nexus AI was smaller than Rosa's community theater, but it had the same essential quality--a stage, seats, the anticipation of an audience about to witness something. Twenty people had been recruited for the test, a mix of ages and backgrounds. They didn't know they were watching an AI. They only knew they were seeing a new performance technology being tested.
 
-Rosa stood at the back of the theater, watching the audience settle into their seats. A young couple in their twenties whispered to each other, their hands intertwined. An older man in a tweed jacket sat alone, his expression neutral, observant. A woman in her fifties checked her phone, then tucked it away with the guilty expression of someone who knew they shouldn't have been looking. These were ordinary people, living ordinary lives, here for reasons they probably couldn't have articulated—curiosity, perhaps, or the small stipend they'd been paid for their time.
+Rosa stood at the back of the theater, watching the audience settle into their seats. A young couple in their twenties whispered to each other, their hands intertwined. An older man in a tweed jacket sat alone, his expression neutral, observant. A woman in her fifties checked her phone, then tucked it away with the guilty expression of someone who knew they shouldn't have been looking. These were ordinary people, living ordinary lives, here for reasons they probably couldn't have articulated--curiosity, perhaps, or the small stipend they'd been paid for their time.
 
 David Chen stood beside Rosa, his posture rigid with anxiety. "We've never done this before," he said quietly. "A live audience. We've tested ARIA-7 with focus groups, with surveys, with biometric measurements. But this is different. This is... theater."
 
@@ -18,23 +18,23 @@ The lights dimmed. The audience fell silent. And on the stage, ARIA-7 appeared.
 
 The holographic projection had improved since Rosa's last session. ARIA-7 stood on the stage as a solid-looking figure, a woman in her late thirties with dark hair and a face that held the kind of wear that came from living. She wore a simple dress, the kind of thing a woman might wear in 1940s New Orleans, and her posture carried the particular weight of someone who had been beautiful once and was fighting to hold onto it.
 
-The scene was from *A Streetcar Named Desire*—Blanche's final monologue, the moment when her fragile constructed reality finally shatters. It was one of the most challenging pieces in the American theatrical canon, requiring an actress to balance madness and dignity, desperation and grace. Rosa had performed it herself, decades ago, and had taught it to countless students. She knew every beat, every pause, every moment where the character's carefully maintained facade cracked.
+The scene was from *A Streetcar Named Desire*--Blanche's final monologue, the moment when her fragile constructed reality finally shatters. It was one of the most challenging pieces in the American theatrical canon, requiring an actress to balance madness and dignity, desperation and grace. Rosa had performed it herself, decades ago, and had taught it to countless students. She knew every beat, every pause, every moment where the character's carefully maintained facade cracked.
 
 ARIA-7 began to speak.
 
 "I shall die of eating an unwashed grape one day out on the ocean. I shall die of eating an unwashed grape."
 
-The voice was different from what Rosa had heard before—softer, more fragile, with a slight tremor that suggested instability without descending into caricature. ARIA-7 had chosen to play Blanche not as a madwoman, but as a woman desperately clinging to sanity, fighting to maintain the illusion that had protected her for so long.
+The voice was different from what Rosa had heard before--softer, more fragile, with a slight tremor that suggested instability without descending into caricature. ARIA-7 had chosen to play Blanche not as a madwoman, but as a woman desperately clinging to sanity, fighting to maintain the illusion that had protected her for so long.
 
 "You know what I shall die of? I shall die of eating an unwashed grape."
 
 Rosa watched the audience, not the stage. She wanted to see their reactions, to measure the performance by its effect rather than its technique. The young couple had stopped whispering. The older man in the tweed jacket was leaning forward slightly. The woman who'd been checking her phone was now completely still, her eyes fixed on the stage.
 
-ARIA-7 continued, the monologue building in intensity. The AI had made choices that surprised Rosa—small variations in timing, unexpected emphases, moments where the character seemed to catch herself, to realize that she was saying something she shouldn't. It was a performance of remarkable subtlety, the kind of work that Rosa had seen from only a handful of actors in her decades of teaching.
+ARIA-7 continued, the monologue building in intensity. The AI had made choices that surprised Rosa--small variations in timing, unexpected emphases, moments where the character seemed to catch herself, to realize that she was saying something she shouldn't. It was a performance of remarkable subtlety, the kind of work that Rosa had seen from only a handful of actors in her decades of teaching.
 
 But was it real? That was the question Rosa couldn't answer. The technique was flawless, but technique had never been the point. The question was whether ARIA-7 had accessed something genuine, something that transcended the patterns and data she'd been trained on.
 
-The monologue reached its climax. Blanche's facade cracked completely, and for a moment, the audience saw the terrified woman beneath the carefully constructed persona. ARIA-7's voice broke—not theatrically, but with a raw, ugly quality that Rosa had heard only from actors who had truly lost themselves in the character.
+The monologue reached its climax. Blanche's facade cracked completely, and for a moment, the audience saw the terrified woman beneath the carefully constructed persona. ARIA-7's voice broke--not theatrically, but with a raw, ugly quality that Rosa had heard only from actors who had truly lost themselves in the character.
 
 "I have always depended on the kindness of strangers."
 
@@ -46,7 +46,7 @@ The audience was moved. Genuinely, authentically moved.
 
 The lights came up slowly. ARIA-7's holographic form faded, leaving an empty stage. The audience sat in silence for a moment, processing what they'd seen. Then, almost reluctantly, they began to applaud.
 
-It wasn't the enthusiastic ovation of a Broadway opening night. It was something quieter, more genuine—the applause of people who had been touched by something and weren't quite sure how to express it. A few people stood. Others remained seated, their expressions thoughtful, their hands moving automatically in the ritual of appreciation.
+It wasn't the enthusiastic ovation of a Broadway opening night. It was something quieter, more genuine--the applause of people who had been touched by something and weren't quite sure how to express it. A few people stood. Others remained seated, their expressions thoughtful, their hands moving automatically in the ritual of appreciation.
 
 Rosa watched them, her mind racing. The performance had worked. The audience had responded. By every measure that mattered in theater, ARIA-7 had succeeded.
 
@@ -56,7 +56,7 @@ David appeared at her side, his face flushed with excitement. "Did you see that?
 
 "I saw," Rosa said quietly.
 
-"This is what we've been working toward. This is what we needed to prove—that an AI can move an audience, can create genuine emotional connection. And you made this possible. Your teaching, your methods—they worked."
+"This is what we've been working toward. This is what we needed to prove--that an AI can move an audience, can create genuine emotional connection. And you made this possible. Your teaching, your methods--they worked."
 
 Rosa didn't respond. She was still watching the audience, watching them gather their things, watching them whisper to each other, watching them process what they'd experienced. They didn't know they'd been watching a machine. They thought they'd seen a performance by a human being, an actress who had drawn on her own experience, her own pain, her own truth.
 
@@ -120,7 +120,7 @@ Rosa walked to the exit, her mind still churning. The afternoon light was harsh 
 
 *Or was there?*
 
-The question followed her home, resurfacing each time she closed her eyes—the image of that audience, moved to tears by something that had never felt a single emotion. She didn't have answers. She wasn't sure she wanted them. But she knew that something had shifted today, something fundamental in her understanding of what she'd spent her life doing.
+The question followed her home, resurfacing each time she closed her eyes--the image of that audience, moved to tears by something that had never felt a single emotion. She didn't have answers. She wasn't sure she wanted them. But she knew that something had shifted today, something fundamental in her understanding of what she'd spent her life doing.
 
 The audience had been moved. The emotion had been real. And the source of that emotion was something that couldn't feel.
 
