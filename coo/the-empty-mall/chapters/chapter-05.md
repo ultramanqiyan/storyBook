@@ -16,7 +16,6 @@ She called it the "demand black hole": a void where desire should be, consuming 
 
 James read the paper three times. Then he called Dr. Chen and asked for a meeting.
 
----
 
 Dr. Chen's office was in a building that had seen better days. The university, like many institutions, had been affected by the same forces that had emptied the mall. Enrollment was down, funding was cut, and the hallways were quiet.
 
@@ -50,7 +49,6 @@ James felt the pieces falling into place. "So the problem isn't that people can'
 
 "Precisely. And that's much harder to solve." Dr. Chen leaned back in her chair. "We can stimulate demand temporarily with marketing or discounts. But we can't manufacture meaning. That has to emerge organically from people's lives."
 
----
 
 They talked for two hours, exploring the implications.
 

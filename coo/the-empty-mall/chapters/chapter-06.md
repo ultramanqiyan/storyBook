@@ -12,7 +12,6 @@ He parked and walked the sidewalk, counting pedestrians. In thirty minutes, he s
 
 The downtown had been a destination once, a place where people came to shop, to eat, to socialize. Now it was just a route between home and wherever people were going.
 
----
 
 He drove to the residential neighborhoods next.
 
@@ -24,7 +23,6 @@ He sat on a bench and waited. In an hour, he saw two people pass through, a jogg
 
 The park was a space, but it wasn't a place. It existed physically, but it had lost its social function.
 
----
 
 He visited the community center next.
 

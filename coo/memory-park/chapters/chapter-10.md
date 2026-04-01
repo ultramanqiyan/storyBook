@@ -30,8 +30,6 @@ Elena settled into the interface chair, fitting the neural helmet over her head.
 
 The transition was instantaneous. One moment she was in the chamber, surrounded by stone and technology. The next she was... elsewhere.
 
----
-
 The garden had evolved.
 
 When Elena first experienced the Archivist's private sanctuary, it had been simple—a field of lavender beneath an endless sky. Now it was a landscape of impossible beauty, a place where the memories of fifty thousand people had blended into something new.
@@ -98,8 +96,6 @@ They stood in silence, two consciousnesses connected across the boundary between
 
 "Now?" David smiled, and for a moment he was just her husband again, the man who had always believed in impossible things. "Now we build the future. Together."
 
----
-
 Elena opened her eyes in the communion chamber, the neural helmet lifting away from her head. Marcus was watching her, concern in his eyes.
 
 "You were connected for three hours," he said. "I was starting to worry."
@@ -138,8 +134,4 @@ Outside, the sun set over the Alps, painting the sky in shades of lavender and g
 
 Elena Voss, widow and bridge and pioneer, stepped forward to meet it.
 
----
-
 *In memory of all who have loved and lost, and in hope for all who will love again.*
-
-*The end.*

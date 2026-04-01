@@ -20,7 +20,6 @@ James felt the words land. "Effort," he repeated. "That's what was lost."
 
 "Yes. Effort. Struggle. The process of becoming." Maria looked at him with wise eyes. "We spent so much time making things easier, we forgot that difficulty has value. We eliminated effort, and we eliminated meaning along with it."
 
----
 
 He walked home that night, Maria's words echoing in his mind.
 
@@ -36,7 +35,6 @@ Now, everything was easy. Products were perfect, prices were low, decisions were
 
 And without effort, there was no meaning.
 
----
 
 He pulled out his phone and started typing.
 

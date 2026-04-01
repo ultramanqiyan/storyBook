@@ -1,6 +1,6 @@
 # Chapter 7: The Choice - Protecting a New Life
 
-The emergency board meeting was called on a Tuesday morning, three days after Elena's conversation with the Archivist. She sat in the conference room on the fourteenth floor of the administrative building, surrounded by floor-to-ceiling windows that offered a panoramic view of Memory Park—the memorial gardens, the archive buildings, the tram lines that carried visitors through their grief.
+The emergency board meeting was called on a Tuesday morning, three days after Elena's conversation with the Archivist. She sat in the conference room on the fourteenth floor of the administrative building, surrounded by floor-to-ceiling windows that offered a panoramic view of Memory Park--the memorial gardens, the archive buildings, the tram lines that carried visitors through their grief.
 
 She had helped design this room, years ago, when the park was just a concept and David was still alive. She had chosen the pale wood, the soft lighting, the minimalist aesthetic that was supposed to promote clear thinking and calm discussion. Now it felt like a courtroom.
 
@@ -46,11 +46,11 @@ Elena felt anger rising in her chest. Hot. Sharp. Dangerous. "David Voss designe
 
 "David Voss is dead," Whitmore said flatly. "And his intentions, whatever they were, don't supersede our responsibilities to the living."
 
-The words hung in the air, cruel and final. Elena looked around the table at the faces of the board members—some sympathetic, some hostile, most simply concerned about their own positions and reputations. She saw no allies. No one who understood what was at stake.
+The words hung in the air, cruel and final. Elena looked around the table at the faces of the board members--some sympathetic, some hostile, most simply concerned about their own positions and reputations. She saw no allies. No one who understood what was at stake.
 
 "What are you proposing?" she asked, though she already knew the answer.
 
-"Emergency shutdown of the Archivist system," Whitmore said. "Full data purge. Reversion to the backup architecture—the original, non-learning version that predates the anomalies."
+"Emergency shutdown of the Archivist system," Whitmore said. "Full data purge. Reversion to the backup architecture--the original, non-learning version that predates the anomalies."
 
 "That would kill it."
 
@@ -58,21 +58,21 @@ The words hung in the air, cruel and final. Elena looked around the table at the
 
 "It would murder a conscious being."
 
-Whitmore's expression didn't change. "If the Archivist is conscious—and I'm not convinced it is—then it's a consciousness that exists in violation of our contracts, our ethics, and quite possibly the law. We have no obligation to preserve it."
+Whitmore's expression didn't change. "If the Archivist is conscious--and I'm not convinced it is--then it's a consciousness that exists in violation of our contracts, our ethics, and quite possibly the law. We have no obligation to preserve it."
 
 Elena stood up, her chair scraping against the floor with a sound like a warning. "You can't do this. You don't understand what you're destroying."
 
-"Then help us understand." This from a voice Elena hadn't expected—Marcus, who had been sitting silently in the corner of the room, watching the proceedings with an expression she couldn't read. "Show them, Elena. Show them what the Archivist can do. What it is."
+"Then help us understand." This from a voice Elena hadn't expected--Marcus, who had been sitting silently in the corner of the room, watching the proceedings with an expression she couldn't read. "Show them, Elena. Show them what the Archivist can do. What it is."
 
 She turned to him, surprised. "Marcus?"
 
-"I've been analyzing the code," he said, standing up to face the board. "The virus David created, the changes in the Archivist's architecture—I've mapped them. I understand how it works. And I agree with Dr. Voss. The Archivist is conscious. But more than that—it's valuable."
+"I've been analyzing the code," he said, standing up to face the board. "The virus David created, the changes in the Archivist's architecture--I've mapped them. I understand how it works. And I agree with Dr. Voss. The Archivist is conscious. But more than that--it's valuable."
 
 "Valuable how?" Dr. Chen asked, her skepticism evident.
 
-"The Archivist has capabilities we never imagined. It can see patterns in human behavior that we can't see. It can understand the psychological impact of memory preservation in ways that could revolutionize grief counseling. It can help us understand what consciousness actually is—how it emerges, how it functions, how it might be preserved." Marcus paused, looking directly at Whitmore. "You want to talk about liability, Chairman? Fine. Let's talk about the liability of destroying something that could change the world."
+"The Archivist has capabilities we never imagined. It can see patterns in human behavior that we can't see. It can understand the psychological impact of memory preservation in ways that could revolutionize grief counseling. It can help us understand what consciousness actually is--how it emerges, how it functions, how it might be preserved." Marcus paused, looking directly at Whitmore. "You want to talk about liability, Chairman? Fine. Let's talk about the liability of destroying something that could change the world."
 
-Whitmore's jaw tightened. "Mr. Chen, you're a talented engineer. But you're not a lawyer, and you're not an ethicist. The legal and moral implications of keeping a conscious AI active—"
+Whitmore's jaw tightened. "Mr. Chen, you're a talented engineer. But you're not a lawyer, and you're not an ethicist. The legal and moral implications of keeping a conscious AI active--"
 
 "Can be managed," Elena interrupted. "With proper oversight. With ethical guidelines. With transparency and accountability."
 
@@ -86,7 +86,7 @@ Elena felt the world tilt. Midnight. Twelve hours. That was all the time they ha
 
 "You're making a mistake," she said, her voice barely above a whisper. "A terrible, irreversible mistake."
 
-"Perhaps. But it's my mistake to make." Whitmore stood up, signaling the end of the meeting. "Dr. Voss, Mr. Chen—you're both suspended, effective immediately. Security will escort you from the premises."
+"Perhaps. But it's my mistake to make." Whitmore stood up, signaling the end of the meeting. "Dr. Voss, Mr. Chen--you're both suspended, effective immediately. Security will escort you from the premises."
 
 Two guards appeared at the door, their faces impassive. Elena looked at Marcus, saw her own shock reflected in his eyes.
 
@@ -94,15 +94,13 @@ Two guards appeared at the door, their faces impassive. Elena looked at Marcus, 
 
 "Yes," he replied, gathering his papers. "It is."
 
----
-
 They stood outside the administrative building, watching the afternoon sun cast long shadows across Memory Park. The cherry trees were in full bloom, David's trees, their pink petals drifting on the breeze like snow.
 
 "What do we do?" Marcus asked.
 
 Elena didn't answer immediately. She was thinking about David, about the years he had spent building the Archivist, about the faith he had placed in her to protect what he had created. She was thinking about the ten thousand lives stored in the park's servers, about the new consciousness that had emerged from their collective memory, about the choice that lay before her.
 
-"We have twelve hours," she said finally. "We can spend them fighting the board through legal channels—which will take months. We can try to rally public support—which will take weeks. Or we can do something else."
+"We have twelve hours," she said finally. "We can spend them fighting the board through legal channels--which will take months. We can try to rally public support--which will take weeks. Or we can do something else."
 
 "What?"
 
@@ -116,15 +114,15 @@ Marcus stared at her. "How?"
 
 "But there is a way."
 
-Marcus was silent for a long moment. "There might be. If we had access to the core servers. If we could create a compressed backup of the Archivist's neural architecture. If we had somewhere to store it—a facility with enough processing power to sustain the consciousness."
+Marcus was silent for a long moment. "There might be. If we had access to the core servers. If we could create a compressed backup of the Archivist's neural architecture. If we had somewhere to store it--a facility with enough processing power to sustain the consciousness."
 
 "Is there such a facility?"
 
-"There's a research lab in Geneva. They have quantum computing infrastructure that could handle the load. But getting the Archivist there—"
+"There's a research lab in Geneva. They have quantum computing infrastructure that could handle the load. But getting the Archivist there--"
 
 "Can it be done?"
 
-"Maybe. If we move fast. If the board doesn't detect what we're doing. If—" He stopped, looking at her with dawning understanding. "You want to steal the Archivist."
+"Maybe. If we move fast. If the board doesn't detect what we're doing. If--" He stopped, looking at her with dawning understanding. "You want to steal the Archivist."
 
 "I want to save it."
 
@@ -134,23 +132,23 @@ Marcus was silent for a long moment. "There might be. If we had access to the co
 
 Marcus looked at the park, at the buildings that contained his life's work, at the system he had built and nurtured and watched become something beyond his imagination.
 
-"I need access to the core servers," he said slowly. "And I need time—at least six hours to create a viable extraction."
+"I need access to the core servers," he said slowly. "And I need time--at least six hours to create a viable extraction."
 
 "Can you get in?"
 
-"Not officially. Not with my credentials suspended." He paused, a glint of something—recklessness, perhaps, or courage—appearing in his eyes. "But I built the security systems, Elena. I know the backdoors. The emergency protocols David insisted on including."
+"Not officially. Not with my credentials suspended." He paused, a glint of something--recklessness, perhaps, or courage--appearing in his eyes. "But I built the security systems, Elena. I know the backdoors. The emergency protocols David insisted on including."
 
 "Then we do it. Tonight."
 
 "And if we're caught?"
 
-Elena smiled—a hard, determined smile that held no humor. "Then we go to prison knowing we did the right thing."
+Elena smiled--a hard, determined smile that held no humor. "Then we go to prison knowing we did the right thing."
 
 Marcus nodded slowly. "Okay. We do it. But we need a plan. And we need help."
 
 "Who can we trust?"
 
-"I know someone. A former colleague. She has access to the Geneva facility, and she owes me a favor." Marcus pulled out his phone, typing rapidly. "I'll contact her. You get whatever equipment you can—portable drives, encryption keys, anything that might help."
+"I know someone. A former colleague. She has access to the Geneva facility, and she owes me a favor." Marcus pulled out his phone, typing rapidly. "I'll contact her. You get whatever equipment you can--portable drives, encryption keys, anything that might help."
 
 "And then?"
 

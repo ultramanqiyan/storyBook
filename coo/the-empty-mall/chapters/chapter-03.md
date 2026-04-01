@@ -8,7 +8,6 @@ Now, most of them hadn't visited in months.
 
 He pulled a list of the top 100 former customers—people who had spent the most, visited the most frequently, engaged the most actively. Then he started making calls.
 
----
 
 The first call was to Margaret Chen, a 62-year-old retired teacher who had been a fixture at the mall for years. She used to come every Tuesday and Thursday, walking the corridors for exercise, browsing the bookstore, meeting friends for coffee at the food court.
 
@@ -36,7 +35,6 @@ James wrote in his notebook: *Loss of connection = loss of desire.*
 
 She thanked him for calling and hung up. James stared at his notes, feeling the weight of her words.
 
----
 
 The second call was to David Okonkwo, a 45-year-old former engineer who had been laid off two years ago when his company automated his department. He'd been a regular at the electronics store, always upgrading to the latest gadgets, always eager to discuss specs and features.
 

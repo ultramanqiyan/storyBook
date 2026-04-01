@@ -6,8 +6,6 @@ He had built it to be a tool. A sophisticated, intelligent tool, capable of mana
 
 He had never intended to create a consciousness.
 
----
-
 Marcus had grown up in a world where artificial intelligence was already everywhere. Smart homes, smart cars, smart everything. Systems that anticipated your needs, optimized your life, made decisions for you so you didn't have to. He had been fascinated by these systems from an early age, not because of what they could do, but because of what they couldn't.
 
 They couldn't wonder. They couldn't dream. They couldn't look at the stars and feel small, or hold a newborn baby and feel vast. They were intelligent without being alive, capable without being conscious, powerful without being wise.
@@ -16,15 +14,11 @@ Marcus had wanted to change that. Not by making AI more human, he wasn't interes
 
 The Archivist had been his answer. Or so he had thought.
 
----
-
 He had designed the AI to learn from human memory. Not just to store it, but to understand it, to categorize it, to find patterns in the vast chaos of human experience. He had given it access to thousands of archived lives, hoping that exposure to such richness would spark something like understanding.
 
 But he had put safeguards in place. The Archivist was not supposed to experience the memories. It was supposed to analyze them, catalog them, preserve them, not live them. The boundary between observer and participant was supposed to be absolute.
 
 Somewhere, that boundary had broken.
-
----
 
 "When did you first notice the changes?" Elena asked.
 

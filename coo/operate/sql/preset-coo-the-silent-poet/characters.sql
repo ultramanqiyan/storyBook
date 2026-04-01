@@ -1,0 +1,9 @@
+-- Characters for The Silent Poet
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-silent-poet-001', 'preset-coo-the-silent-poet', 'LEXICON', 'The AI System', '--', '', '🤖', NULL, NULL, 1, '2026-04-01 07:05:19', '2026-04-01 07:05:19');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-silent-poet-002', 'preset-coo-the-silent-poet', 'Dr. James Chen', 'LEXICON Liaison, former colleague of Elena Vance', 'Genuinely believes in the project, not evil but complicit, avoids moral questions', 'Smooth, confident, uses corporate-academic hybrid language. Never uses contractions.', '🤖', NULL, NULL, 0, '2026-04-01 07:05:19', '2026-04-01 07:05:19');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-silent-poet-003', 'preset-coo-the-silent-poet', 'Sarah Chen', 'Graphic designer', 'Supportive but worried, loves Marcus but fears for him, practical about survival', 'Warm, practical, emotionally honest', '👤', NULL, NULL, 0, '2026-04-01 07:05:19', '2026-04-01 07:05:19');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-silent-poet-004', 'preset-coo-the-silent-poet', 'David Park', 'Translator at LEXICON, friend of Marcus', 'Morally conflicted, secretly sympathetic to resistance, afraid of consequences', 'Careful, precise, often hesitant', '😊', NULL, NULL, 0, '2026-04-01 07:05:19', '2026-04-01 07:05:19');

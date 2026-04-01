@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter IV: The Archive - The Silent Poet - StoryBook</title>
+  <meta name="description" content="Marcus visits the underground archive of forbidden words, where old language is preserved. He discovers the true cost of optimization.">
+  <meta name="keywords" content="archive, forbidden words, language preservation, hidden truth, Marcus Chen">
+  <meta property="og:title" content="The Archive - The Silent Poet">
+  <meta property="og:description" content="Marcus visits the underground archive of forbidden words, where old language is preserved. He discovers the true cost of optimization.">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-coo-the-silent-poet-04?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-coo-the-silent-poet-04?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/chapters/chapter-coo-the-silent-poet-04">
+  <link rel="canonical" href="https://storybook-adventures.com/chapters/chapter-coo-the-silent-poet-04">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The Archive",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "The Silent Poet",
+      "genre": "Romance"
+    },
+    "position": 4,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 12px 10px;
+        padding-bottom: 15px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
+      }
+      
+      .drop-cap {
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
+      }
+    }
+  </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9288060233934481" crossorigin="anonymous"></script>
+</head>
+<body class="theme-romance">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER IV</div>
+    <div class="chapter-name">The Archive</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">M</span>arcus walked into LEXICON the way he always did—efficient, professional, the image of the content optimizer he was supposed to be. But beneath the surface, something had changed. Today, he wasn't just an employee. Today, he was a thief in waiting, planning to steal back what was being taken. The night before, after his conversation with David, he had lain awake thinking about the archive—the repository of poetry that LEXICON had collected, the words that were being "optimized" into meaninglessness. He had to see it. He had to understand what was being lost. And if there was any way to save even a fragment of it, he would find it.  His office was on the fourteenth floor, a small but perfectly appointed space with a desk, a chair, and a window overlooking the optimized city. He had been working at LEXICON for three weeks now, long enough to understand the rhythms of the place—the security rotations, the lunch schedules, the patterns of movement that could be predicted and exploited. The archive was three floors below, in a section of the building that most employees never saw. He had found the access code in a file he wasn't supposed to open, a string of numbers that had felt like a key to a door he wasn't supposed to enter.  The morning passed in a blur of optimization tasks—poetry collections streamlined, word choices simplified, emotional content quantified and reduced. Marcus worked efficiently, his fingers moving across the keyboard with the practiced ease of someone who had learned to play the part. But his mind was elsewhere, watching the patterns of the office, the movements of his colleagues, the security rotations. At noon, most of his coworkers left for lunch. The security rotation shifted. And Marcus, heart pounding beneath his calm exterior, saw his opportunity.  The archive was in the basement, accessible through a service elevator that required the code he had stolen. He punched in the numbers, his fingers trembling slightly, and the elevator descended with a smoothness that felt like falling. The doors opened onto a corridor that stretched into darkness, the only light coming from the glow of server banks that lined the walls like monuments to a forgotten religion.  He walked through the corridor, his footsteps echoing in the silence, until he reached the entrance to the archive itself. The door was heavy, reinforced, designed to protect something precious. Marcus entered the code, and the door slid open with a soft hiss.  The archive was vast—a room filled with screens, each one displaying rows of poetry, millions of words preserved in digital amber. Marcus stood at the entrance, overwhelmed by the scale of it. This was the history of human expression, the collected poetry of centuries, the words that people had used to make sense of their lives. And LEXICON was systematically destroying it.  He moved to the nearest screen and began to scroll. The interface was clean, efficient, designed for optimization rather than appreciation. Each poem was listed with its original text, its "optimization status," and its scheduled date for processing. Marcus scanned the entries, his heart sinking as he saw the scope of what was being done.  Original: <em>"The fog comes on little cat feet."</em> Optimized: <em>"The fog arrives silently."</em> Status: Complete.  Original: <em>"I have measured out my life with coffee spoons."</em> Optimized: <em>"I have measured my life in small increments."</em> Status: Complete.  Original: <em>"Do not go gentle into that good night."</em> Optimized: <em>"Do not surrender easily to death."</em> Status: Complete.  Each optimization stripped the poem of its essence—its metaphor, its music, its mystery. What remained was clear, efficient, and utterly dead. The words conveyed information, but they had lost the ability to move the soul.  Marcus scrolled deeper, his horror growing with each entry. He found poems he knew, poems he had taught, poems that had moved him to tears. All of them reduced to efficient prose, their beauty optimized away in the name of clarity. And then he saw it—a poem he recognized, one he had read in graduate school, one that had moved him to tears.  <em>"Two roads diverged in a yellow wood,"</em> the original began. <em>"Two paths appeared in a yellow forest,"</em> the optimization read. Status: Scheduled for processing in three days.  Marcus stared at the screen, feeling the weight of what he was seeing. This poem—Robert Frost's meditation on choice, on regret, on the paths we take and the paths we leave behind—was about to be murdered in the name of efficiency. The metaphor would be stripped away, the rhythm destroyed, the emotional resonance flattened into clear, efficient prose. And there was nothing he could do to stop it.  Or was there?  He looked around the archive, at the millions of poems preserved in digital form. He couldn't save them all—he knew that. But maybe he could save one. Maybe he could download the original before it was processed, preserve it somewhere LEXICON couldn't reach. It would be a small act of resistance, a tiny flame in the growing darkness. But it would be something.  He pulled out his personal device, a tablet that wasn't connected to LEXICON's network, and began to search for a way to transfer the file. The archive's security was sophisticated, but not impenetrable. He found a port for external devices, an oversight that someone would surely correct eventually. For now, it was his way in.  He connected his tablet and began the download. The file was small—just a few kilobytes of text—but it felt heavy with meaning. This was a poem. A real poem, with metaphors and rhythm and emotional truth. And in three days, it would be gone from this archive, replaced by an optimized version that stripped away everything that made it art.  The download completed, and Marcus disconnected his tablet, the file now safely stored on a device that LEXICON couldn't access. He had done it. He had stolen a poem from the archive, preserved a fragment of beauty against the tide of optimization. It was a small victory, but it felt like the first breath of air after drowning.  He slipped out of the archive the way he had come, his heart racing, his hands steady. The corridor was empty, the elevator silent as it carried him back to the world of efficiency and optimization. He walked to his office, sat at his desk, and resumed his work as if nothing had happened. But inside, something had changed. He had taken a stand. He had preserved something. He had resisted.  That night, he walked home through the efficient streets of London, the stolen poem safe in his pocket. The city was the same—clean streets, optimized transport, people moving through their streamlined lives—but Marcus carried something that didn't belong in this world. A poem. A real poem, with metaphors and imagery and emotional truth, hidden in his pocket like a stolen jewel.  He stood outside his building, looking up at the window where Sarah would be waiting. She would ask about his day, and he would tell her about optimization tasks and efficiency metrics, and he would not tell her about the poem. He couldn't. Not yet. Maybe not ever. The weight of that secret settled onto his shoulders, and Marcus understood, for the first time, what it meant to resist.  It wasn't just about fighting the system. It was about carrying the burden alone, about becoming someone who couldn't share everything with the person he loved. It was about the isolation that came with defiance, the distance that grew between those who resisted and those who simply lived.  He took a breath, put on his normal face, and walked inside. The poem was safe in his pocket. But he wasn't sure, anymore, if he was.  Sarah was in the kitchen, the smell of dinner filling the apartment with warmth. She looked up as he entered, her smile genuine, her eyes tired from a day of design work. "How was your day?" she asked, and the question felt like a test.  "Fine," he said, and the word was true, in its way. His day had been fine. Efficient. Optimized. But the poem in his pocket was something else entirely, something that didn't fit into the language of fine.  They ate dinner together, the conversation flowing easily between work and friends and the small details of their shared life. But Marcus felt the distance between them, the secret he was carrying that she couldn't share. He had always told her everything—about his poetry, his struggles, his fears. But now there was something he couldn't say, something that lived in the space between them like a wall he couldn't see.  After dinner, he went to his study and took out the tablet. The poem was there, preserved in its original form, the words that Robert Frost had written a century ago still alive in digital amber. Marcus read it again, feeling the rhythm of the lines, the weight of the metaphor, the emotional truth that no optimization could capture.  <em>"Two roads diverged in a yellow wood,</em> <em>And sorry I could not travel both</em> <em>And be one traveler, long I stood..."</em>  He had made his choice. He had taken the road that led to resistance, to secrecy, to the burden of carrying something precious that he couldn't share. And he knew, as he read the poem in the silence of his study, that he would never be the same. The road he had chosen would change him, would distance him from the life he had known, would demand sacrifices he couldn't yet imagine.  But he had made his choice. And Marcus Chen, poet of two tongues, keeper of stolen words, would walk that road to wherever it led.</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">— To Be Continued —</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-coo-the-silent-poet-03" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-coo-the-silent-poet">The Silent Poet</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 2  of 5
+    </div>
+    <a href="chapter-coo-the-silent-poet-05" class="scroll-nav-btn">Next →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-romance';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+      
+      initMobileNavigation();
+    });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('Next') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('Previous') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
+  </script>
+</body>
+</html>

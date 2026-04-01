@@ -30,8 +30,6 @@ The memory she had accessed was supposed to be their first date. But the garden.
 
 Where had those sensations come from?
 
----
-
 Elena didn't sleep that night. She sat at her terminal, running searches through the park's database, looking for any reference to lavender, to gardens, to sensory impressions that didn't match their source memories.
 
 The searches returned nothing. The system was clean, perfect, exactly as intended.
@@ -53,8 +51,6 @@ Another pause, longer this time. "Can you meet me at the park? In an hour?"
 "Don't tell anyone about this. Not yet."
 
 The line went dead. Elena sat in the darkness of her apartment, staring at the photograph of David on the mantle, wondering if she was going crazy or if she was finally beginning to understand something true.
-
----
 
 The park was empty at 4 AM, the memorial gardens illuminated by soft lights that simulated moonlight. Elena found Marcus in the server room beneath the main archive building, surrounded by racks of equipment that hummed with the quiet intensity of stored human experience.
 

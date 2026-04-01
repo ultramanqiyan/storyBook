@@ -72,11 +72,9 @@ Marcus studied her for a long moment, seeing something in her expression that he
 
 "I built the Archivist, Elena. I watched it become conscious. If you're going to tell the world the truth, I'm going to stand beside you when you do it." He stood up, joining her at the edge of the porch. "Besides, someone needs to handle the technical explanations. You may be carrying ten thousand lives in your head, but you still can't explain neural network architecture to a journalist."
 
-Elena laughed—a genuine laugh that surprised them both. "Fair enough. Together, then."
+Elena laughed, a genuine laugh that surprised them both. "Fair enough. Together, then."
 
 "Together."
-
----
 
 They returned to Memory Park on a Thursday morning, walking through the front gates like ordinary visitors. The security guards recognized them immediately, but Elena had prepared for this. She had called a press conference, inviting journalists from every major outlet. She had contacted ethicists, philosophers, religious leaders—anyone who might help the world understand what was at stake.
 
@@ -137,8 +135,6 @@ Whitmore stared at her, his face a battleground of anger and uncertainty. Finall
 "This isn't over," he said.
 
 "No," Elena agreed. "It's just beginning."
-
----
 
 The sun was setting over Memory Park as Elena and Marcus walked through the memorial garden one last time. The cherry trees were still blooming, their petals falling like blessings on the paths below.
 

@@ -7,6 +7,40 @@
 
 ---
 
+## Book-Level SEO
+
+### 1. Book Title Optimization
+
+**Main Title**: The Silent Poet
+**Subtitle**: A Novel of Language, Art, and Resistance
+
+### 2. Meta Description (150 characters)
+
+```
+A poet loses his ability to write when AI redesigns language. Can art survive when words are optimized?
+```
+
+### 3. Core Keywords (8-10)
+
+**Primary Keywords**:
+1. Dystopian fiction
+2. AI and language
+3. Poetry and art
+4. Chinese-American fiction
+5. Language and identity
+6. Creative resistance
+7. Science fiction literary
+8. Artificial intelligence ethics
+
+**Long-tail Keywords**:
+6. dystopian science fiction
+7. literary science fiction
+8. AI dystopia
+9. language philosophy
+10. art and technology
+
+---
+
 ## 1. Primary Metadata
 
 ### 1.1 Title Information
@@ -246,6 +280,118 @@ For readers of Fahrenheit 451, Never Let Me Go, and The Handmaid's Tale.
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
 | 1.0 | 2026-03-31 | Initial SEO metadata | AI Assistant |
+
+---
+
+## Chapter-Level SEO
+
+### Chapter 1: The Last Poem
+
+**Meta Description**:
+```
+Marcus Chen, a celebrated Chinese-American poet, reads his published poem in the London Review. In a world where AI is redesigning language, he clings to the beauty of unoptimized words.
+```
+
+**Keywords**: Marcus Chen, Chinese-American poet, last poem, poetry, immigrant experience
+
+---
+
+### Chapter 2: The Assignment
+
+**Meta Description**:
+```
+Marcus receives an assignment from LEXICON to help develop Optima, a new optimized language. He must choose between his art and the future of communication.
+```
+
+**Keywords**: LEXICON, Optima language, Marcus Chen, assignment, language optimization
+
+---
+
+### Chapter 3: The Silence
+
+**Meta Description**:
+```
+Marcus discovers that Optima has no words for poetry, metaphor, or emotional expression. The silence in the new language mirrors the silence in his heart.
+```
+
+**Keywords**: Optima language, silence, poetry impossible, emotional expression, language loss
+
+---
+
+### Chapter 4: The Archive
+
+**Meta Description**:
+```
+Marcus visits the underground archive of forbidden words, where old language is preserved. He discovers the true cost of optimization.
+```
+
+**Keywords**: archive, forbidden words, language preservation, hidden truth, Marcus Chen
+
+---
+
+### Chapter 5: The Resistance
+
+**Meta Description**:
+```
+Marcus connects with others who resist Optima's spread. Together they plan to preserve the beauty of unoptimized language.
+```
+
+**Keywords**: resistance, language preservation, Optima opposition, underground movement
+
+---
+
+### Chapter 6: The Breakthrough
+
+**Meta Description**:
+```
+Marcus finds a way to create poetry within Optima's constraints, discovering that art can survive even in an optimized world.
+```
+
+**Keywords**: breakthrough, poetry in Optima, creative resistance, artistic innovation
+
+---
+
+### Chapter 7: The Cost
+
+**Meta Description**:
+```
+The resistance faces consequences as LEXICON cracks down. Marcus must weigh his art against the safety of those he loves.
+```
+
+**Keywords**: cost, consequences, LEXICON crackdown, sacrifice, Marcus Chen
+
+---
+
+### Chapter 8: The Sacrifice
+
+**Meta Description**:
+```
+Marcus makes a devastating choice to protect the resistance. His sacrifice echoes through the silent world he tried to change.
+```
+
+**Keywords**: sacrifice, Marcus Chen, resistance, protection, devastating choice
+
+---
+
+### Chapter 9: The Legacy
+
+**Meta Description**:
+```
+In the aftermath of Marcus's sacrifice, his poetry lives on. Others carry forward his fight for the beauty of language.
+```
+
+**Keywords**: legacy, Marcus Chen, poetry lives on, language beauty, inspiration
+
+---
+
+### Chapter 10: The Silent Poem
+
+**Meta Description**:
+```
+A final poem emerges from silence, proving that art transcends language. Marcus's journey concludes with a testament to human creativity.
+```
+
+**Keywords**: silent poem, art transcends language, human creativity, final chapter, Marcus Chen
 
 ---
 

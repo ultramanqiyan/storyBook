@@ -518,4 +518,40 @@
     <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-glass-ceiling?lang=zh"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-glass-ceiling"/>
   </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-memory-park</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-memory-park?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-memory-park?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-memory-park"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-silent-poet</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-silent-poet?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-silent-poet?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-silent-poet"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-pain-garden</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-pain-garden?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-pain-garden?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-pain-garden"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-empty-mall</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-empty-mall?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-empty-mall?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-empty-mall"/>
+  </url>
 </urlset>

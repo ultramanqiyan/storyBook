@@ -28,7 +28,6 @@ James nodded slowly. "So the products in the mall..."
 
 James made a note: *Products require context. Without context, products are meaningless.*
 
----
 
 The second respondent was a woman in her forties, dressed in business casual. She looked like she still had a job.
 
@@ -50,7 +49,6 @@ She stood up. "I'm sorry. I don't mean to be depressing. But you asked."
 
 James thanked her and watched her walk away, her heels clicking on the empty floor.
 
----
 
 The third respondent was an elderly woman, maybe seventy, walking with a cane. She sat down slowly, her eyes scanning the food court.
 

@@ -6,15 +6,11 @@ Their first conversation had been an argument. Elena had presented a paper on th
 
 They had fought for an hour, drawing a crowd of amused colleagues, and then gone for coffee and fought some more. By the end of the night, Elena had known two things: that David was wrong about almost everything, and that she was going to marry him anyway.
 
----
-
 They were married for fifteen years. Fifteen years of love, work, and struggle. Of building a life together, of negotiating the space between two strong-willed people who refused to compromise their principles. David had pursued his research into memory digitization, convinced that he could solve the problem of human mortality by preserving the mind beyond the death of the body. Elena had focused on the human side of the equation, studying how people actually experienced memory, how identity was constructed from the messy, imperfect, constantly shifting narratives we told ourselves about who we were.
 
 They had balanced each other. David's relentless optimism, his belief that technology could solve any problem, had been tempered by Elena's caution, her awareness that some problems weren't meant to be solved, only lived with. Her tendency toward melancholy, her fear of loss and change, had been lifted by his certainty that the future would be better than the past.
 
 And then the diagnosis had come.
-
----
 
 Early-onset Alzheimer's. David was forty-three years old. He had noticed the symptoms months before: small lapses, moments of confusion, names that wouldn't come when he called them. But he had hidden it from Elena, afraid of what it meant, hoping it was just stress, just age, just imagination.
 
@@ -26,8 +22,6 @@ Elena had wanted to argue. She had wanted to say that memories weren't the same 
 
 But she had looked at his face, at the fear and determination and love there, and she had nodded. Because this was what David needed. This was how he was going to face his mortality, not with acceptance, but with defiance, with the belief that he could outsmart death itself.
 
----
-
 The archiving process had taken six months. David had worked obsessively, recording every memory he could access, every moment he could recall, every feeling he could name. He had created a comprehensive map of his own consciousness, a digital twin that would survive when his biological self was gone.
 
 Elena had helped him. She had held his hand through the sessions, had asked him questions to prompt memories he might have forgotten, had documented the process with the clinical detachment that was her professional training. But inside, she had been screaming. Inside, she had been mourning the man who was still alive but already preparing to be dead.
@@ -35,8 +29,6 @@ Elena had helped him. She had held his hand through the sessions, had asked him 
 The disease progressed faster than anyone expected. Within a year, David couldn't work anymore. Within two years, he couldn't recognize Elena. Within three years, he was gone.
 
 But his memories remained. His digital self, preserved in the system he had helped create, waiting for Elena to visit, to experience, to remember.
-
----
 
 For two years, Elena had lived in the space between grief and hope. She visited David's archive daily, immersing herself in his memories, reliving their life together. She knew it wasn't healthy. The counselors told her so, the therapists warned her about the dangers of becoming lost in the past. But she couldn't stop. The memories were all she had left of him, and she wasn't ready to let go.
 

@@ -20,7 +20,6 @@ James watched from a distance, observing. The participants weren't buying anythi
 
 And for a few hours, the emptiness receded.
 
----
 
 The second experiment was a music night in the atrium.
 
@@ -40,7 +39,6 @@ Derek looked around the atrium, still processing what had happened. "Strange. Go
 
 "Yeah. I'll come back."
 
----
 
 The third experiment was a community garden on the outdoor patio.
 

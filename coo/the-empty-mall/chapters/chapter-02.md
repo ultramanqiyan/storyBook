@@ -18,7 +18,6 @@ The racks were full. The fitting rooms were empty.
 
 He walked through the home goods section, the sporting goods store, the bookshop. Everywhere, the pattern was the same: better products, lower prices, fewer buyers.
 
----
 
 In his office, James pulled up the supply chain data.
 
@@ -36,7 +35,6 @@ Was that the problem?
 
 He created a new chart, plotting product durability against sales volume. The correlation was clear: as products became more durable, sales declined. But the decline was too steep to be explained by durability alone. People weren't just buying less because things lasted longer. They were buying less because they didn't want things at all.
 
----
 
 That afternoon, he visited the bookstore.
 

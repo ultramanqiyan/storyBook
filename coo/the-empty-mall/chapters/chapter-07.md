@@ -20,7 +20,6 @@ Desire, he understood now, required a gap between what was and what could be. It
 
 But when everything was available, when nothing required effort, when there was no work to define you and no community to belong to, what could you possibly want?
 
----
 
 He got up and walked to his window. The city was dark, the streets empty. Somewhere out there, thousands of people were lying in their own beds, staring at their own ceilings, feeling the same emptiness.
 
@@ -32,7 +31,6 @@ Not because they were depressed or broken or defective. But because desire itsel
 
 In a world where everything was easy, where nothing was scarce, where no effort was required, what was there to want?
 
----
 
 He pulled out his phone and started typing.
 

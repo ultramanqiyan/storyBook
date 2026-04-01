@@ -16,7 +16,6 @@ He pulled out his tablet and checked the numbers. Foot traffic was down 67% from
 
 The numbers told a story. But James was beginning to suspect they weren't telling the whole story.
 
----
 
 He started his rounds, as he did every morning. First stop: the food court.
 
@@ -40,7 +39,6 @@ He passed the pizza place, the burger joint, the taco stand. Each had one or two
 
 And the tables sat empty.
 
----
 
 Next stop: the anchor store at the north end.
 

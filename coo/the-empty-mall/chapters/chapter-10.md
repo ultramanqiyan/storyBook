@@ -14,7 +14,6 @@ The food court remained, but it was different now. Local vendors replaced chain 
 
 The mall was still empty of shoppers. But it was filling with something else.
 
----
 
 Three months in, James walked through the corridors on a Saturday afternoon.
 
@@ -28,7 +27,6 @@ It wasn't the old mall. It wasn't bustling with shoppers, ringing with cash regi
 
 But it wasn't empty either.
 
----
 
 He visited Maria in her studio. She had a permanent space now, with proper lighting and storage for supplies. Her classes had grown to thirty regulars, with a waiting list.
 

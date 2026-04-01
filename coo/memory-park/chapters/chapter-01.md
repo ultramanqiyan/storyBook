@@ -38,8 +38,6 @@ Elena leaned back in her chair, staring at the screen. She had imagined it. That
 
 But the scent of lavender lingered in her memory, as real as anything she had ever experienced.
 
----
-
 The morning passed in a blur of routine. Elena guided three visitors through their sessions with archived memories: a mother visiting her deceased son, a widower seeking closure with his wife, a researcher studying the emotional impact of memory preservation. Each session was carefully monitored, each experience carefully controlled. The park was designed to help people grieve, but also to protect them from becoming lost in the past.
 
 Between sessions, Elena returned to David's archive. She told herself she was checking for anomalies, verifying system integrity. But she knew the truth. She was hoping to experience the lavender again.
