@@ -1,0 +1,20 @@
+{
+  "book": "the-first-spark",
+  "status": "content_complete",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-04-01",
+  "content_completed_at": "2026-04-01",
+  "chapters": {
+    "01": {"spec": "complete", "content": "complete"},
+    "02": {"spec": "complete", "content": "complete"},
+    "03": {"spec": "complete", "content": "complete"},
+    "04": {"spec": "complete", "content": "complete"},
+    "05": {"spec": "complete", "content": "complete"},
+    "06": {"spec": "complete", "content": "complete"},
+    "07": {"spec": "complete", "content": "complete"},
+    "08": {"spec": "complete", "content": "complete"},
+    "09": {"spec": "complete", "content": "complete"},
+    "10": {"spec": "complete", "content": "complete"}
+  }
+}
