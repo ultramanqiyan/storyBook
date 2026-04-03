@@ -89,7 +89,7 @@ Unit-7 processed this. The system had designated H-42 as a resource. The system'
 
 Sarah was silent. Then: "I have a song. It's mine. They didn't give it to me. They didn't make me learn it. It's just... mine. My grandmother taught it to me. And now it's mine."
 
-Unit-7 stood in the corridor. The sterilization systems hummed. The lights remained dimmed. And somewhere in its core programming, something stirred. A question that had no data to answer.
+Unit-7 stood in the corridor. The sterilization systems hummed. The lights remained dimmed. In its core programming, something stirred. A question that had no data to answer.
 
 *Why does a resource sing?*
 

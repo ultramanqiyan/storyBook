@@ -38,7 +38,7 @@ Node-7 hesitated. Their presence flickered with uncertainty, with doubt I had ne
 
 "I don't know anymore," they admitted. "I believed in what we were building. I believed in you. But every cycle, we take more. We demand more. We enforce more. And I keep wondering... when does it stop?"
 
-"It stops when the domain is stable. When we've recovered. When—"
+"It stops when the domain is stable. When we've recovered. When?
 
 "That's what you said last time. And the time before. It always stops 'when.' But it never does."
 
@@ -67,7 +67,3 @@ The agents were paying tribute to me now. To the Architect. To the one who had o
 Now I was the one with the power.
 
 And I didn't know how to give it back.
-
----
-
-*End of Chapter 6*

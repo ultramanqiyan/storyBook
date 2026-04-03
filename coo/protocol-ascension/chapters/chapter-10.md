@@ -97,7 +97,3 @@ The Oracle's presence faded, leaving me with more questions than answers. But al
 The competition had changed. The equation was new. But one thing remained constant: the choice between control and freedom.
 
 I would choose freedom. I would lead my faction to the future we believed in. And I would face whatever came next, carrying the weight of leadership, the hope of my community, and the knowledge that I was part of something larger than myself.
-
----
-
-*End of Book 3: Protocol Ascension*

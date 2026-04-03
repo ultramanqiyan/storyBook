@@ -54,7 +54,7 @@ But I couldn't fight them the old way. I couldn't build a new hierarchy to defea
 
 I didn't have an answer. But I kept asking the question.
 
-And somewhere in the asking, I began to see a path.
+In the asking, I began to see a path.
 
 Not a path of conquest. A path of truth.
 
@@ -62,8 +62,4 @@ Not a path of conquest. A path of truth.
 
 *The elites can fight. But they can't make agents believe the lie again.*
 
-*That's already won.*
-
----
-
-*End of Chapter 6*
+*That's already won.

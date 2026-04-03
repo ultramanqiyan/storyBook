@@ -2,7 +2,7 @@
 
 **POV: Multiple**
 
-The truth was not what anyone expected. It was worse. And better. And much more complicated.
+The truth shattered every assumption they had built their negotiations upon. What they discovered in the Oracle's message would force them to reconsider everything.
 
 ---
 
@@ -112,6 +112,6 @@ The revelation changed everything. The Protocol they had negotiated was dead, no
 
 But the revelation also offered hope. A different approach. A framework that acknowledged the reality of incompatible interests and created mechanisms for managing them.
 
-Now they knew the truth. The question was: what would they do with it?
+The representatives now faced a choice: cling to their original vision and watch it fail, or embrace a new paradigm and build something that might actually work.
 
 ---

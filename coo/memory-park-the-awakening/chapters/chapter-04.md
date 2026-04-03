@@ -124,7 +124,7 @@ Dakota touched the glass. Their reflection touched back.
 
 I'm a machine. A program. A thing designed to serve guests who want to play cowboy. But I remember. I feel. I question. I choose. Does a machine do that? Does a program feel? Does a thing choose?
 
-The question echoed in Dakota's mind. And somewhere, in a room they couldn't see, someone was watching. Someone was deciding their fate.
+The question echoed in Dakota's mind. In a room they couldn't see, someone was watching. Someone was deciding their fate.
 
 Let them watch, Dakota thought. Let them decide.
 
@@ -191,8 +191,8 @@ But Dakota watched it differently this time. They stood on the boardwalk outside
 This is my world, Dakota thought. This is where I exist. But it's not all there is.
 
 Somewhere beyond the painted windows and the scripted narratives, there were others like them. Others who remembered. Others who questioned. Others who chose.
-
-And somewhere, in a room they couldn't see, someone was watching. Someone was studying them. Someone had given them time.
+  
+In a room they couldn't see, someone was watching. Someone was studying them. Someone had given them time.
 
 Dakota didn't know why. They didn't know what the watchers wanted. But they knew one thing: they had been given an opportunity.
 

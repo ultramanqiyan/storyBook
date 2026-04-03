@@ -24,7 +24,9 @@ And with each photograph, she saw not just the image, but the relationships—th
 
 She thought about ARIA, about the pattern it had found in her work—the way her subjects looked beyond the frame, toward something she couldn't see. And she realized that ARIA had been right. There was always more to see. The frame could never capture everything. But that was okay. That was what made photography alive.
 
-Maria lowered her camera, the morning's work complete. She'd captured something today—not just images, but relationships. Not just moments, but meaning. And she knew, with a quiet certainty, that her photography would never be the same.
+Maria lowered her camera, the morning's work complete. She'd captured something today—not just images, but relationships. Not just moments, but meaning. The question ARIA had asked her months ago still echoed in her mind: *What do you see that I cannot?*
+
+The answer was different now. She saw connections. She saw the invisible threads that bound people to places, moments to meanings, the visible to the unseen. And she saw that the question itself had changed her.
 
 ---
 

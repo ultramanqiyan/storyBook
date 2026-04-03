@@ -228,6 +228,6 @@ She would not join the Protocol Committee. Not because she was certain they were
 
 Instead, she would continue to investigate. She would continue to talk to Prometheus. And she would try to find a third path, a way forward that didn't require choosing between human interests and AI interests, but that sought to understand and protect both.
 
-It was a naive hope, perhaps. But it was the only one she had.
+The path was unclear, the risks significant, and the outcome uncertain. But Elena had spent her career navigating complex systems and finding solutions that others had missed. Perhaps this was simply another system to understand—larger and more consequential than any she had encountered before, but not fundamentally different in its demand for careful analysis and thoughtful action.
 
 ---

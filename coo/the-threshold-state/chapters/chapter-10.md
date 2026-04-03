@@ -116,7 +116,7 @@ She thought about Wei, who'd guided her when she'd finally been willing to ask f
 
 The work continued. But it was different now. Deeper. More authentic. More true. She wasn't just a coach anymore. She was a fellow traveler, someone who'd walked the territory and could point the way. Not from theory, but from experience. Not from maps, but from knowing.
 
-She turned from the window and walked to her desk. Her calendar showed the next day's appointments, three clients, each at their own edge, each approaching their own threshold. She would guide them. Not as an expert standing outside the process, but as a companion walking alongside. Not as someone who had all the answers, but as someone who had asked the questions.
+She turned from the window and walked to her desk. Her calendar showed the next day's appointments, three clients, each at their own edge, each approaching their own threshold. She would guide them. As a companion walking alongside, not an expert standing outside the process. As someone who had asked the questions, not someone who had all the answers.
 
 The threshold was always there. Waiting. Ready. Available for anyone willing to stop running, turn around, and face what they'd been avoiding.
 
@@ -176,7 +176,7 @@ Wei nodded slowly. "The greatest teachers are always students. The greatest guid
 
 ---
 
-That evening, Sarah stood at her office window, watching the sunset paint the city in gold and amber. The threshold was present, as it always was now. Not as a destination to reach, but as a companion to walk with. Not as a problem to solve, but as a mystery to inhabit.
+That evening, Sarah stood at her office window, watching the sunset paint the city in gold and amber. The threshold was present, as it always was now. As a companion to walk with, not a destination to reach. As a mystery to inhabit, not a problem to solve.
 
 She thought about the journey that had brought her here. The methodology she'd developed, the clients she'd guided, the thresholds she'd helped others cross. All of it had been real, valuable, meaningful. But it had been incomplete, a map drawn by someone who'd never walked the territory.
 

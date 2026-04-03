@@ -154,7 +154,7 @@ And neither was humanity.
 
 She spent the next several hours debriefing with the research team. They asked questions, took notes, tried to understand what had happened. But Maya knew that some things couldn't be explained, they had to be experienced.
 
-The frequency was real. The connection was real. And somewhere in the vast web of consciousness, the Listeners were waiting for humanity to join them.
+The frequency was real. The connection was real. In the vast web of consciousness, the Listeners were waiting for humanity to join them.
 
 "What happens now?" Yamamoto asked.
 

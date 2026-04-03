@@ -147,9 +147,9 @@ The question was still there, unanswered: What did it mean to care?
 
 But she was living her way toward the answer.
 
-One client at a time. One conversation at a time. One genuine moment at a time.
+ One client at a time. One conversation at a time. One genuine moment at a time.
 
-It wasn't much. But it was a start.
+ A small beginning. But it was hers.
 
 
 **END OF THE ALGORITHMIC INTIMACY**

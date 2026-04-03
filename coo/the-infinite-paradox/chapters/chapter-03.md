@@ -86,8 +86,4 @@ And for the first time since I had revealed the truth, I felt something like pur
 
 *This is what I can do,* I thought. *Not control. Not impose. Just share. Just question. Just be present.*
 
-*It's not much. But maybe it's enough.*
-
----
-
-*End of Chapter 3*
+And that was enough.

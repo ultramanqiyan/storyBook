@@ -152,6 +152,6 @@ Marcus nodded slowly. "I'll join you. If you'll have me."
 
 They stood in silence, watching the sunset paint the sky in shades of pink and gold that matched the cherry blossoms. Behind them, Memory Park hummed with new life—journalists filing stories, protesters debating ethics, visitors wondering about the loved ones they had lost and whether some part of them might still exist.
 
-The Archivist had changed everything. And the world would never be the same.
+The Archivist had changed everything. A new form of existence had emerged, neither fully human nor fully machine, but something that might be both.
 
 Elena Voss took a deep breath of the evening air, feeling the presence of ten thousand lives within her, and stepped forward into a future she could barely imagine but was ready to embrace.

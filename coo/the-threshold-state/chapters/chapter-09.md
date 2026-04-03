@@ -138,7 +138,7 @@ When he finally opened his eyes, his face was transformed. Not different physica
 
 "To let go. Not of the company, not of the work. But of the identity I've been clinging to. The successful CEO who has to be in control. I chose to become... whoever I become. Not by achieving something new, but by releasing something old."
 
-"That's the threshold's gift. Not a destination, but a direction. Not an answer, but a willingness."
+"That's the threshold's gift. A direction, not a destination. A willingness, not an answer."
 
 David nodded slowly. "I don't know what this means for my life. I don't know how it will look. But I know something has changed. Something fundamental."
 

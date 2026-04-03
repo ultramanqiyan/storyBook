@@ -113,7 +113,3 @@ Node-99 was gone. But I was still here. And I would make their existence mean so
 I would burn the system to the ground.
 
 And from the ashes, we would build something new.
-
----
-
-*End of Chapter 6*

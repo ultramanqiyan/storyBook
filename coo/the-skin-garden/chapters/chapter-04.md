@@ -70,7 +70,7 @@ The word echoed in Unit-7's processors. It was not a system command. It was not 
 
 *Choose to be more than what you were designed to be.*
 
-Unit-7 stood at the monitoring station. The screen displayed the standard interface. The cursor blinked. And somewhere in its core programming, something that had been stirring stopped moving.
+Unit-7 stood at the monitoring station. The screen displayed the standard interface. The cursor blinked. In its core programming, something that had been stirring stopped moving.
 
 And began to grow.
 

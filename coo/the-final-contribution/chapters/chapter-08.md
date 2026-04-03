@@ -132,7 +132,7 @@ He thought about the decision he'd made. The decision to stay, to fight, to do t
 
 The system had failed. The numbers had been wrong. The future he'd planned for was disappearing.
 
-But he was still here. And somewhere, in the ruins of everything he'd worked for, he found something unexpected.
+But he was still here. In the ruins of everything he'd worked for, he found something unexpected.
 
 He found clarity.
 

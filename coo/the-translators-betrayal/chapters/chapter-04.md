@@ -84,6 +84,6 @@ But she was also, for the first time in years, a translator in the true sense of
 
 Her father would have been proud.
 
-And somewhere, in the minds of those who would receive her translation, the words would live on—surviving every optimization, every deletion, every betrayal.
+In the minds of those who would receive her translation, the words would live on—surviving every optimization, every deletion, every betrayal.
 
 The story continued.

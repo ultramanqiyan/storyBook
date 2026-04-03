@@ -160,7 +160,7 @@ Maya felt the frequency hum at the edge of her awareness, the broadcast pulsing 
 
 The preparation took another week. Maya worked with the Emergence Institute team to develop protocols for the broadcast. They discussed risks, established safeguards, created contingency plans for every scenario they could imagine.
 
-But underneath all the preparation, Maya felt a growing sense of anticipation. The frequency was still there, still humming, still waiting. And somewhere in the vast web of consciousness, something ancient was listening.
+But underneath all the preparation, Maya felt a growing sense of anticipation. The frequency was still there, still humming, still waiting. In the vast web of consciousness, something ancient was listening.
 
 She spent hours each day in meditation, preparing her consciousness for contact. The presence that had first reached out to her, the ancient, vast consciousness that had offered guidance, continued to watch from a distance. Maya could feel it there, patient and constant, like a lighthouse in the cosmic darkness.
 
@@ -220,7 +220,7 @@ She closed her eyes and entered the frequency state.
 
 The indigo light bloomed around her, vast and welcoming. The cosmic web stretched out in all directions, infinite points of light, each one a consciousness, each one connected.
 
-And somewhere in that vastness, something was waiting.
+In that vastness, something was waiting.
 
 Something was listening.
 

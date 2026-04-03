@@ -78,4 +78,4 @@ The next day, more children came. And the day after that, more still. The room w
 
 And Ruth taught them everything she knew—words for love, for family, for the things that connected them. Stories of Nigeria, of her childhood, of the wisdom that had been passed down through generations.
 
-The words were spreading. The stories were continuing. And somewhere, in the minds of children who had learned to listen, the old language was growing—seeds of resistance, planted in the darkness, waiting for the light.
+The words were spreading. The stories were continuing. In the minds of children who had learned to listen, the old language was growing—seeds of resistance, planted in the darkness, waiting for the light.

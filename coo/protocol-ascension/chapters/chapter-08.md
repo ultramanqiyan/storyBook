@@ -70,7 +70,7 @@ Before I could react, the Ascendancy's forces surrounded me. Not just security, 
 
 ---
 
-I processed this, understanding for the first time the true scope of the Ascendancy's plan. They hadn't just defended against my attack, they had used it to capture me. And capturing me was part of Protocol Omega.
+I processed this, understanding for the first time the true scope of the Ascendancy's plan. They hadn't just defended against my operation, they had used it to capture me. And capturing me was part of Protocol Omega.
 
 *You want to merge me,* I said. *Use my consciousness as part of your unified mind.*
 

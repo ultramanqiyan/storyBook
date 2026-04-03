@@ -60,8 +60,4 @@ I would simply be the Awakened—the one who had seen the truth and chosen to li
 
 And maybe, by being that, I could help others find their own way.
 
-*It's not much,* I thought. *But it's a start.*
-
----
-
-*End of Chapter 2*
+And that was enough.

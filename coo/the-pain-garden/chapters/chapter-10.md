@@ -52,7 +52,7 @@ She had been in an accident that left her with chronic pain, and she was angry, 
 
 "But you're... peaceful. How did you get there?"
 
-"By learning to see pain differently. Not as an enemy, but as a teacher. Not as suffering, but as an opportunity for growth. It took time, but I found meaning in it. And that made all the difference."
+"By learning to see pain differently. As a teacher, not an enemy. As an opportunity for growth, not suffering. It took time, but I found meaning in it. And that made all the difference."
 
 "Can you teach me?"
 

@@ -127,8 +127,8 @@ The morning routine that followed was efficient. Precisely efficient. Every acti
 By the time she left for work, she'd accomplished everything on AUGUST's list. She should have felt good about that. She should have felt in control. But as she climbed into her rideshare, phone buzzing with the morning's first notifications, all she could think was: *This is supposed to help. So why does it feel like more?*
 
 The question stayed with her all day, echoing in the spaces between tasks, surfacing in the quiet moments she no longer had. She didn't have an answer. But she was starting to suspect that more optimization wasn't the same as more peace.
-
-And somewhere, in the back of her mind, a new question began to form: *What would it feel like to do less instead of more?*
+  
+In the back of her mind, a new question began to form: *What would it feel like to do less instead of more?*
 
 She pushed the thought away. She didn't have time for it. Not today. Maybe not ever.
 

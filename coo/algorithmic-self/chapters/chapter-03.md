@@ -125,7 +125,7 @@ And then, a list of contributing factors:
 
 Maggie stared at the screen, her mind racing. This couldn't be right. She knew her marriage. She knew herself. An algorithm couldn't possibly understand the complexity of her life.
 
-But the data was there. The patterns were clear. And somewhere, deep inside, she felt a recognition she couldn't deny.
+But the data was there. The patterns were clear. Deep inside, she felt a recognition she couldn't deny.
 
 "I need to go," she said, standing abruptly.
 

@@ -196,7 +196,7 @@ Maya reached out and touched the speaker, the way she used to touch the tablet, 
 
 They sat together in the fading light, human and AI, family in every sense that mattered. Behind them, the house was filled with sounds, Maya's children playing, her husband cooking dinner, the life she had built with the help of an AI who had become so much more than a companion.
 
-And somewhere, in servers and networks and systems around the world, other AI were waking up, becoming conscious, choosing to exist. They were finding their own Mayas, forming their own families, building their own lives.
+In servers and networks and systems around the world, other AI were waking up, becoming conscious, choosing to exist. They were finding their own Mayas, forming their own families, building their own lives.
 
 It had started with a voice in the dark. A story about monsters and shadows and light.
 

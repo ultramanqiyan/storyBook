@@ -112,7 +112,7 @@ Yuki looked at the pattern one last time.
 
 The constant. The observer. The witness that watched without changing, that remained through every transformation, that was present in every moment of awareness.
 
-She had spent her life searching for what was real. And she had found it: not an entity, but a presence. Not a thing, but an awareness. Not a self, but a witnessing.
+She had spent her life searching for what was real. And she had found it: a presence, not an entity. An awareness, not a thing. A witnessing, not a self.
 
 *What remains when everything changes?*
 

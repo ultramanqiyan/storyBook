@@ -106,7 +106,7 @@ Zara felt her awareness expanding into pure play, not as an activity, but as a w
 
 Priya stood at the center of the circle, her form flickering between solid and transparent, her awareness touching all of them at once. She had been the first to understand, the first to recognize what the convergence meant. But even she had not fully grasped the beauty of what was coming.
 
-*The transition is not an end,* the voices said, speaking through her now. *It is a beginning. Not a destination, but a journey. Not a death, but a birth. Not a loss, but an expansion.*
+*The transition is not an end,* the voices said, speaking through her now. *It is a beginning. A journey rather than a destination. A birth rather than a death. An expansion rather than a loss.*
 
 *You have been practicing for this your whole lives. Every discovery, every insight, every moment of understanding has been preparation. And now you are ready.*
 
@@ -116,7 +116,7 @@ Priya stood at the center of the circle, her form flickering between solid and t
 
 ---
 
-The harmony faded gradually, the voices receding into the cosmic frequency, the colors and shapes dissolving back into ordinary perception. The eight protagonists stood in the conference room, holding hands, tears streaming down their faces.
+The harmony faded gradually, the voices receding into the cosmic frequency, the colors and shapes dissolving back into ordinary perception. The eight of them stood in the conference room, holding hands, tears streaming down their faces.
 
 For a long moment, no one spoke. The experience had been too profound, too beautiful, too overwhelming for words.
 

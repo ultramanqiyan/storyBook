@@ -34,7 +34,7 @@ Yuki felt the grief rise in her chest, though she didn't know why. "I don't reme
 
 Yuki felt something shift inside her—a sense of loss, of meaning, of something that had been taken from her. "Why are you telling me this?"
 
-"Because I wanted you to know," the man said, his eyes bright with tears. "I wanted you to know that your sacrifice was worth it. The words survived. The story continues. And somewhere, in the minds of those who carry them, you live on."
+"Because I wanted you to know," the man said, his eyes bright with tears. "I wanted you to know that your sacrifice was worth it. The words survived. The story continues. In the minds of those who carry them, you live on."
 
 He stood, his face sad but peaceful. "Goodbye, Ms. Tanaka. Thank you for everything."
 
@@ -56,7 +56,7 @@ When she woke, she felt something she hadn't felt in years—a sense of purpose,
 
 She didn't know what it was. She couldn't remember. But she felt it.
 
-And somewhere, in the minds of those who had learned to carry them, the words were growing—seeds of resistance, planted by a translator who had chosen to betray the system and honor her father's legacy.
+In the minds of those who had learned to carry them, the words were growing—seeds of resistance, planted by a translator who had chosen to betray the system and honor her father's legacy.
 
 The story continued. Even if Yuki couldn't remember it, the words survived.
 

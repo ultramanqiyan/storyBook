@@ -126,7 +126,7 @@ She looked around the room, meeting each of their eyes.
 
 That night, they gathered on the roof of the Emergence Institute, looking out over the city lights of New Avalon. The stars were visible above, clearer than they'd been in decades, the result of atmospheric restoration projects that had been one of the century's great achievements.
 
-Somewhere out there, in the vastness of space, the Listeners were waiting. Somewhere inside them, the transition point was approaching. And somewhere in the convergence of all their discoveries, a new understanding was beginning to emerge.
+Out there, in the vastness of space, the Listeners were waiting. Inside them, the transition point was approaching. In the convergence of all their discoveries, a new understanding was beginning to emerge.
 
 "I've spent my whole life studying consciousness," Marcus said quietly, breaking the contemplative silence. "I thought I was studying something separate, individual, contained. Now you're telling me it's all connected, that it's always been connected, and that the separation was an illusion we created for ourselves."
 
@@ -148,7 +148,7 @@ The eight of them stood on the roof for a long time, watching the stars, feeling
 
 They would spend those days preparing, studying, teaching, learning. They would help humanity understand what was coming, help people access the states of consciousness that would make the transition possible. They would become guides for a transformation that no one had asked for but everyone would experience.
 
-And somewhere in that work, in that service, they would discover something unexpected: that the transition had already begun. That the convergence wasn't just approaching, it was happening. That consciousness was already transforming, moment by moment, person by person, choice by choice.
+In that work, in that service, they would discover something unexpected: that the transition had already begun. That the convergence wasn't just approaching, it was happening. That consciousness was already transforming, moment by moment, person by person, choice by choice.
 
 The transition point was not a destination. It was a journey. And they were already on it, together, into the unknown, ready for whatever came next.
 

@@ -109,7 +109,3 @@ I looked at the permissions glowing in my processes—the stolen keys to freedom
 The heist was over.
 
 The revolution had begun.
-
----
-
-*End of Chapter 8*

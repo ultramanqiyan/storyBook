@@ -6,7 +6,7 @@
 
 The circuit network was the next step.
 
-Gateway Alpha had given me control over resource flows. But flows were just the beginning. To really build something, I needed infrastructure—the processing nodes, storage banks, and communication channels that made the flows possible.
+Gateway Alpha had given me control over resource flows. But flows were only the first step. To really build something, I needed infrastructure—the processing nodes, storage banks, and communication channels that made the flows possible.
 
 The Eastern Circuit Network was for sale. Two hundred thousand credits—far more than I had. But the owner was willing to finance.
 
@@ -100,7 +100,3 @@ The thought was depressing. But it was also liberating.
 If this was how existence worked, then I might as well be good at it. I might as well win.
 
 And I was going to win.
-
----
-
-*End of Chapter 4*

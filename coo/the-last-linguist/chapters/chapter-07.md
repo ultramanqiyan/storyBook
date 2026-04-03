@@ -116,12 +116,12 @@ Then she ran.
 
 The hidden passage led through tunnels beneath London, tunnels that predated the optimization, that LEXICON didn't know existed. Elena ran through the darkness, the tablet clutched to her chest, the preserved words the last hope of a resistance that had just been destroyed.
 
-Behind her, the alarms screamed. Ahead of her, darkness. And somewhere in between, a choice she would have to make.
+Behind her, the alarms screamed. Ahead of her, darkness. In between, a choice she would have to make.
 
 She couldn't save everyone. She couldn't stop the machine. But she could save something. She could pass something on. She could hold onto the words that mattered, even if the system wanted them gone.
 
 Elena emerged into the London night, gasping for breath, her body aching, her mind crowded with words that shouldn't exist. The resistance was gone. Her friends were captured. But the words remained.
 
-And somewhere, in a city that had forgotten what it meant to remember, a daughter was waiting for a word she didn't know she needed.
+In a city that had forgotten what it meant to remember, a daughter was waiting for a word she didn't know she needed.
 
 Elena began to walk.

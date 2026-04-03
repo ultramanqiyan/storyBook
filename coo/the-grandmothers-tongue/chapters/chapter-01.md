@@ -70,7 +70,7 @@ She had been a mother. She was certain of it. The photograph showed children—h
 
 The questions circled in her mind, unanswered, unanswerable. But beneath them, something else was stirring—a feeling, a certainty, a word that she couldn't quite reach.
 
-She looked at the photograph again—the young woman with the bright smile, the man beside her, the children at their feet. That woman had a name. That woman had a story. And somewhere, in the fragments of her mind, that story was still alive.
+She looked at the photograph again—the young woman with the bright smile, the man beside her, the children at their feet. That woman had a name. That woman had a story. In the fragments of her mind, that story was still alive.
 
 She would find it. She would remember. And when she did, she would tell someone. Because stories only survive when they are told.
 
@@ -84,4 +84,4 @@ The words were there, hidden somewhere the system couldn't reach. And Ruth knew,
 
 She fell asleep with the words on her lips, a fragment of a song from a world that no longer existed. And in her dreams, she was young again, sitting on her mother's lap, listening to stories that had been passed down for generations.
 
-The stories were still there. The words were still there. And somewhere, in the fog of her fading memory, Ruth Okonkwo was still the woman who carried them.
+The stories were still there. The words were still there. In the fog of her fading memory, Ruth Okonkwo was still the woman who carried them.

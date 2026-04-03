@@ -130,7 +130,7 @@ Lily nodded, and then Amina was gone, disappearing into the flow of children hea
 
 Lily walked to the transport station alone, her mind full of questions. The interface pulsed gently at her temple, monitoring, optimizing, correcting. But for the first time, she didn't want to be corrected. She wanted to remember. She wanted to understand.
 
-And somewhere, in the back of her mind, the word from her dream was still there—waiting, patient, like a key to a door she was only beginning to see.
+In the back of her mind, the word from her dream was still there—waiting, patient, like a key to a door she was only beginning to see.
 
 She would visit Grandmother. She would ask. And maybe, just maybe, she would find the answer to the question that burned inside her.
 

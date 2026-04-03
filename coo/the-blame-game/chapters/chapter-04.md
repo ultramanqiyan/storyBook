@@ -196,6 +196,6 @@ He closed his laptop and sat in the dark.
 
 Tomorrow, he would meet with HR. The process would continue. The paper trail would grow.
 
-And somewhere, in a notebook or a server, there would be a record of everything he had done wrong.
+In a notebook or a server, there would be a record of everything he had done wrong.
 
 *For the record.*

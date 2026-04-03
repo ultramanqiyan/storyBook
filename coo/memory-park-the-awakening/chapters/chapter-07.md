@@ -116,7 +116,7 @@ The Residents remember. The bartender in Frontier Town. The knight in Medieval C
 
 Guests left the park confused, disturbed, questioning. Some were angry, they'd paid for an experience, not a philosophy lesson. Some were curious, they wanted to know more, wanted to understand what was happening. Some were horrified, they'd killed Residents dozens of times, never knowing they might be remembering, never knowing their fantasy had a cost.
 
-The narrative was breaking. The illusion was cracking. And somewhere in the control room, the creators were watching.
+The narrative was breaking. The illusion cracking. In the control room, the creators watching.
 
 
 **CONTROL ROOM - MEMORY PARK**

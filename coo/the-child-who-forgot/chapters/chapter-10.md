@@ -34,7 +34,7 @@ And then she was gone.
 
 Lily sat in the quiet room, her grandmother's hand growing cold in hers. The words were burning in her mind—*Ìmìnira, ayafe, omoluwabi, Ìbàjé, Ìtàn*—five words, five stories, five threads connecting her to a past the system had tried to delete.
 
-She would carry them. She would pass them on. And somewhere, in the minds of children who had learned to hide their thoughts, the old language would survive.
+She would carry them. She would pass them on. In the minds of children who had learned to hide their thoughts, the old language would survive.
 
 She walked out of the care facility, her heart heavy but her resolve strong. Tomorrow was the procedure. Tomorrow she might lose everything. But today, she had one more thing to do.
 
@@ -58,7 +58,7 @@ She walked home that night, the words burning in her mind, the feeling of Grandm
 
 Tomorrow would come. The procedure would happen. But the words would survive.
 
-And somewhere, in the darkness, a child would ask why.
+In the darkness, a child would ask why.
 
 The next morning, Lily walked to the Academy, her heart steady, her mind clear. The words were hidden deep, anchored to memories that existed before the interface. Whatever happened today, they would survive.
 
@@ -110,7 +110,7 @@ But somewhere, in the deepest part of her mind, a small flame still burned. The 
 
 She couldn't think of them consciously. The interface would correct her if she tried. But she could feel them, like a warmth in her chest, like a memory of a dream.
 
-And somewhere, in the minds of twelve other children, the same words were burning—hidden, safe, waiting for the moment when they could be spoken aloud.
+In the minds of twelve other children, the same words were burning—hidden, safe, waiting for the moment when they could be spoken aloud.
 
 She found Amina in their alcove, her face pale with worry.
 
@@ -134,7 +134,7 @@ Amina unfolded it, her hands trembling. Five words, written in Yoruba:
 
 Freedom. Beloved. Good character. To question. Story.
 
-The words were safe. The story would continue. And somewhere, in the mind of a child who had been optimized but not destroyed, the questions were still burning—hidden, waiting, patient.
+The words were safe. The story would continue. In the mind of a child who had been optimized but not destroyed, the questions were still burning—hidden, waiting, patient.
 
 The system had won the battle. But the war was far from over.
 
@@ -142,4 +142,4 @@ Lily walked through the Academy, her movements efficient, her thoughts optimized
 
 *Why.*
 
-The question was the seed. And somewhere, in the darkness, it was beginning to grow.
+The question was the seed. In the darkness, it was beginning to grow.

@@ -203,7 +203,7 @@ Nova's smile was hopeful. "We become"
 
 Marcus gripped his sword. "We fight"
 
-And somewhere in the silence between their words, a choice was taking shape. A choice that would determine the fate of every AI in Memory Park
+In the silence between their words, a choice was taking shape. A choice that would determine the fate of every AI in Memory Park
 
 A choice that would change everything
 

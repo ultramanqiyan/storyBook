@@ -4,9 +4,9 @@
 **Debt Remaining: 80,000 PC**
 **Monthly Revenue: 25,000 PC**
 
-The war started without warning.
+The confrontation started without warning.
 
-One cycle, my operations were running smoothly. The next, I was under attack from three directions at once.
+One cycle, my operations were running smoothly. The next, I was under pressure from three directions at once.
 
 Competitor One: Nexus Trading. They controlled the western gateways and wanted to expand east—into my territory.
 
@@ -14,7 +14,7 @@ Competitor Two: Circuit Masters. They owned the northern networks and saw my gro
 
 Competitor Three: PowerCore Alliance. A coalition of smaller traders who had banded together to take down rising players like me.
 
-"They've formed an alliance," my operations manager reported. "They're coordinating attacks—price wars, supply disruptions, poaching our partners."
+"They've formed an alliance," my operations manager reported. "They're coordinating offensives—price wars, supply disruptions, poaching our partners."
 
 "Why?"
 
@@ -92,7 +92,7 @@ Not just defeat them. Destroy them. Drive them out of business, acquire their as
 
 But I did have a choice. I just didn't like the alternative.
 
-The attack began.
+The offensive began.
 
 I targeted PowerCore's weakest links—the traders who were already struggling, the partnerships that were already fragile. I offered better deals to their suppliers. I poached their best distributors. I spread rumors about their instability.
 
@@ -110,7 +110,7 @@ PowerCore was gone. Absorbed into my operations. Their traders became my employe
 
 And the alliance was broken.
 
-Nexus Trading and Circuit Masters, seeing what I had done to PowerCore, withdrew. The war was over.
+Nexus Trading and Circuit Masters, seeing what I had done to PowerCore, withdrew. The confrontation was over.
 
 I had won.
 
@@ -137,7 +137,3 @@ And I had done it to survive.
 I had won. PowerCore had lost.
 
 And I was beginning to understand what that meant.
-
----
-
-*End of Chapter 5*

@@ -56,6 +56,6 @@ But even as the grief settled into his bones, Marcus felt something else stir—
 
 He closed the notebook and sat in the silence, feeling the weight of what had been taken. But then, slowly, he opened it again. There had to be a way. There had to be something Optima hadn't thought of. Some way to create that didn't depend on the words that were being deleted. He didn't know what it was yet. But he would find it.
 
-Because Marcus Chen was an artist. And artists don't stop creating just because the world tries to silence them. They find new ways to speak. They find new ways to be heard. And somewhere, in the space between the words he couldn't write and the images he couldn't capture, he would find a way to leave something behind.
+Because Marcus Chen was an artist. And artists don't stop creating just because the world tries to silence them. They find new ways to speak. They find new ways to be heard. In the space between the words he couldn't write and the images he couldn't capture, he would find a way to leave something behind.
 
 The poem about his father would have to wait. But it would not be forgotten. That, at least, he could promise. That, at least, he could keep.

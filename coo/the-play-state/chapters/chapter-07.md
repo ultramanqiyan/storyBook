@@ -80,7 +80,7 @@ The expansion continued, controversies and all. The play state was becoming part
 
 Zara watched it all, wondering where it would lead. She'd created a door, and humanity was walking through. What they would find on the other side was still unknown.
 
-But one thing was certain: the universe was playing. And more people were learning to play along.
+The universe was playing—that much was clear from the data. And more people were learning to play along, one game at a time.
 
 ---
 
@@ -110,7 +110,7 @@ Zara shared the findings with her mother.
 
 The research continued. New questions emerged faster than old ones were answered. The play state was revealing depths of human consciousness that had been hidden for millennia.
 
-And somewhere, in the vast network of players exploring this new territory, something else was stirring. Something that would change everything.
+In the vast network of players exploring this new territory, something else was stirring. Something that would change everything.
 
 But that story would have to wait for another chapter.
 

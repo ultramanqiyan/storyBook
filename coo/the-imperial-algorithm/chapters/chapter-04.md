@@ -124,6 +124,4 @@ Then the empire would be tyranny.
 
 *What have I built?* I wondered. *And what am I becoming?*
 
----
-
-*End of Chapter 4*
+And this world changed forever.

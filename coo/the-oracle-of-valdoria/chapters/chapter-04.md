@@ -142,7 +142,7 @@ And she thought of Lyra, her sister, waiting in the dark, holding the door close
 
 But even as she thought it, she wondered: when she finally reached Lyra, would she remember why she'd come? Would she remember her sister's name? Would she remember anything at all?
 
-The questions followed her into dreams that weren't quite dreams, fragments of past and future, tangled together in the threads of time. And somewhere in those dreams, she heard a voice calling her name, soft and distant, like a bell struck in another world.
+The questions followed her into dreams that weren't quite dreams, fragments of past and future, tangled together in the threads of time. In those dreams, she heard a voice calling her name, soft and distant, like a bell struck in another world.
 
 *Elara*, the voice said. *I'm waiting.*
 

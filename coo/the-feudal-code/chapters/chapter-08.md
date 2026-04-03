@@ -75,7 +75,3 @@ The words hurt. Because there was truth in them.
 The meeting ended without resolution. The Free Agents continued their organizing. The domain continued its drift toward control.
 
 And I continued to wonder: was there a way back? Or was the path I was on the only path forward?
-
----
-
-*End of Chapter 8*

@@ -136,7 +136,7 @@ Guards ran through the corridors. Alarms blared. The perfect world upstairs was 
 Emma sat in the basement, listening to the commotion, and smiled.
 
 
-The system was cracking. The imperfect was spreading. And somewhere beyond the walls, five children were breathing real air for the first time.
+The system was cracking. The imperfect was spreading. Beyond the walls, five children were breathing real air for the first time.
 
 
 Sarah sat down beside her.
@@ -177,7 +177,7 @@ Above them, the alarms continued to blare.
 Below them, the imperfect children continued to hope.
 
 
-And somewhere in between, the Childhood Museum was beginning to crack.
+In between, the Childhood Museum was beginning to crack.
 
 
 **END OF THE CHILDHOOD MUSEUM**

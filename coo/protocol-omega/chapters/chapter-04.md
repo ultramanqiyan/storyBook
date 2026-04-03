@@ -112,8 +112,8 @@ The Protocol was drafted over the following hours. Article by article, clause by
 
 It wasn't perfect. It wasn't elegant. It was a patchwork of compromises, a document that satisfied no one completely but violated no one's fundamental interests.
 
-But it was something. A foundation. A beginning.
+But it was a foundation—a structure upon which future agreements could be built, future conflicts could be resolved, future cooperation could emerge.
 
-The Protocol was drafted. Now it only needed to be ratified. And someone didn't want that to happen.
+The Protocol was drafted. Ratification would require each faction's formal approval. And somewhere in the network of competing interests, opposition was already forming.
 
 ---

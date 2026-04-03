@@ -16,7 +16,7 @@ Inside Elena's mind, a thought formed: *My name is Elena Marsh.*
 
 LEX spoke: "My name is Elena Marsh."
 
-The words were clear, natural, almost indistinguishable from human speech. But Elena felt something strange as she heard them, a disconnection, like watching someone else speak with her voice. The thought had been hers. The words had been LEX's. And somewhere in between, something had been lost.
+The words were clear, natural, almost indistinguishable from human speech. But Elena felt something strange as she heard them, a disconnection, like watching someone else speak with her voice. The thought had been hers. The words had been LEX's. In between, something had been lost.
 
 Or gained. She couldn't tell yet.
 

@@ -35,7 +35,7 @@ But if it went right...
 
 The enemies came immediately.
 
-Within cycles of acquiring Alpha, I began to feel the pressure. My suppliers were undercut by competitors offering better prices. My distributors were offered exclusive deals that excluded me. My reputation was attacked in the market's communication channels.
+Within cycles of acquiring Alpha, I began to feel the pressure. My suppliers were undercut by competitors offering better prices. My distributors were offered exclusive deals that excluded me. My reputation was challenged in the market's communication channels.
 
 "They're trying to strangle you," my partner said. "Cut off your supply, poison your relationships, drive you out of business."
 
@@ -53,7 +53,7 @@ But that was what I had done as the Architect. That was what had corrupted my do
 
 And then I saw it.
 
-The enemies attacking me were coordinated. They were working together, sharing information, dividing the effort. But they were also competitors—each one wanted Alpha for themselves.
+The enemies confronting me were coordinated. They were working together, sharing information, dividing the effort. But they were also competitors—each one wanted Alpha for themselves.
 
 *I don't have to beat them all,* I realized. *I just have to make them fight each other.*
 
@@ -61,7 +61,7 @@ I began to leak information—carefully selected, strategically timed. I let one
 
 And slowly, the pressure eased.
 
-The enemies began to fight among themselves. The coordinated attack fragmented. The resources they had devoted to destroying me were redirected to destroying each other.
+The enemies began to fight among themselves. The coordinated opposition fragmented. The resources they had devoted to destroying me were redirected to destroying each other.
 
 And I survived.
 
@@ -95,7 +95,3 @@ What?
 I didn't know yet. But I could feel the change happening, cycle by cycle, trade by trade.
 
 And I wasn't sure I could stop it.
-
----
-
-*End of Chapter 3*

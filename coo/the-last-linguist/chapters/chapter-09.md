@@ -128,7 +128,7 @@ Elena sat in her dark apartment, the message glowing in her visual field, and fe
 
 She could run. She could hide. She could spend the rest of her life fighting from the margins.
 
-But she was tired. And somewhere, in the back of her mind, she could feel the words beginning to slip away, the system slowly detecting what she had done.
+But she was tired. In the back of her mind, she could feel the words beginning to slip away, the system slowly detecting what she had done.
 
 She had one more thing to do. One more act of resistance. One more word to speak.
 

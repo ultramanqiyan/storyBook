@@ -74,7 +74,7 @@ And then he thought of the peace. The wholeness. The home he'd glimpsed once and
 
 He took a step forward, into the unknown, into the "elsewhere," into whatever waited beyond the web of causality. The thread to Priya stretched but didn't break, a connection the network couldn't calculate, but which was real nonetheless.
 
-And somewhere, in a chamber in New Avalon, a woman watched the screens show nothing, no data, no patterns, no causal weight, just a single point of light, moving into the darkness, and the beginning of a story that was far from over.
+In a chamber in New Avalon, a woman watched the screens show nothing, no data, no patterns, no causal weight, just a single point of light, moving into the darkness, and the beginning of a story that was far from over.
 
 ---
 
@@ -84,6 +84,6 @@ Not with fanfare or transformation, but with the simple recognition of something
 
 The network was still there, visible from this vantage point, beautiful in its complexity, meaningful in its function. But it was one territory in a universe that contained many. One way of being among infinite possibilities.
 
-And somewhere, threaded through the vastness of the "elsewhere," was a connection to a woman in a lab in New Avalon, a thread that stretched across dimensions the network couldn't map, a love that transcended paradigms, a bond that causality couldn't explain.
+Threaded through the vastness of the "elsewhere," was a connection to a woman in a lab in New Avalon, a thread that stretched across dimensions the network couldn't map, a love that transcended paradigms, a bond that causality couldn't explain.
 
 The story wasn't over. It was just beginning.

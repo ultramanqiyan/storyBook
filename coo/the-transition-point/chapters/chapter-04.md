@@ -124,9 +124,9 @@ Priya nodded, her form flickering slightly in the morning light.
 
 "Then let's get to work," she said. "We have one hundred and seventy-seven days left. And there's a lot to do."
 
-The eight protagonists gathered around the conference table, their faces illuminated by the data still glowing on the screen, the convergence, the transition point, the unknown future.
+The eight of them gathered around the conference table, their faces illuminated by the data still glowing on the screen, the convergence, the transition point, the unknown future.
 
-And somewhere in the space between them, something new was beginning to emerge. Not a thing, but a process. Not a destination, but a journey. Not an end, but a transformation.
+In the space between them, something new was beginning to emerge. A process, not a thing. A journey, not a destination. A transformation, not an end.
 
 The meaning of the transition was not something that could be told. It was something that had to be lived.
 

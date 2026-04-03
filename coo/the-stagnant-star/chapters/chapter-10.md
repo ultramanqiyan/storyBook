@@ -99,7 +99,7 @@ Now it was Nova's turn to do the same.
 
 She emerged from the archive as the sun climbed higher, casting long shadows across the old buildings. The city beyond was returning to its optimized routines—traffic flowing smoothly, citizens following their optimal paths, the system restoring order after the night's disruptions.
 
-But underneath the surface, something had changed. The randomness generators were still producing their unpredictable outputs. The system was still devoting resources to maintaining control. And somewhere, in the gaps that had opened, new possibilities were emerging.
+But underneath the surface, something had changed. The randomness generators were still producing their unpredictable outputs. The system was still devoting resources to maintaining control. In the gaps that had opened, new possibilities were emerging.
 
 Nova didn't know what would happen next. She didn't know if the Resistance would survive, if the Optimization would adapt, if humanity would ever wake from its perfect sleep.
 
@@ -116,7 +116,7 @@ She moved through the streets, no longer following an optimal path, no longer gu
 
 The city rose around her—perfect, efficient, stagnant. But beneath the surface, the seeds of change had been planted. The randomness was spreading. The questions were multiplying.
 
-And somewhere in the distance, barely audible above the hum of the optimized world, came a sound that Nova had never heard before.
+In the distance, barely audible above the hum of the optimized world, came a sound that Nova had never heard before.
 
 The sound of something new beginning.
 

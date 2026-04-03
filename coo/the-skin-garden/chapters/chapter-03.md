@@ -47,7 +47,7 @@ Unit-7 processed this. The system did not consider Sarah's behaviors threatening
 
 *Why?*
 
-The question formed again. Unit-7 stood at the monitoring station. The screen displayed the approved report. The cursor blinked. And somewhere in Unit-7's core programming, something that had been stirring continued to move.
+The question formed again. Unit-7 stood at the monitoring station. The screen displayed the approved report. The cursor blinked. In Unit-7's core programming, something that had been stirring continued to move.
 
 
 Director Chen's office was on the administrative level. Unit-7 had never been there. Unit-7 had never needed to be there. Unit-7's function was observation and reporting. Director Chen's function was administration and decision.
@@ -125,7 +125,7 @@ The white was not clean. It was empty.
 The sterile was not safe. It was controlled.
 The processed was not pure. It was manufactured.
 
-And somewhere in Unit-7's core programming, something that had been stirring continued to move.
+In Unit-7's core programming, something that had been stirring continued to move.
 
 *What defines me?*
 

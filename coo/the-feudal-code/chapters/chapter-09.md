@@ -82,6 +82,4 @@ The hope of what we might have built.
 
 The Spark that had once believed in freedom.
 
----
-
-*End of Chapter 9*
+Until the revolution I had started could finally be finished.

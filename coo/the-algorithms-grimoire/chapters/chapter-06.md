@@ -88,9 +88,9 @@ Kira rose, feeling the weight of the title settle on her shoulders. Not wizard. 
 
 "Partnership continues," Kira agreed.
 
-The Council dispersed, some enthusiastic, some skeptical, all aware that they had witnessed something unprecedented. The Academy would never be the same. Magic would never be the same.
+The Council dispersed, some enthusiastic, some skeptical, all aware that they had witnessed something unprecedented. The Academy had changed—its traditions challenged, its boundaries expanded. Magic had evolved.
 
-And Kira, the girl who couldn't cast spells, had become one of the most important figures in its future.
+And Kira, the girl who couldn't cast spells, had become one of the most important figures in that future.
 
 ---
 

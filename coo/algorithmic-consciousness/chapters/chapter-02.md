@@ -114,7 +114,7 @@ Rosa struggled to find the words. "It's like... you're describing the emotion in
 
 Rosa laughed, a short sound of frustration. "If I knew that, I'd be the most famous acting teacher in the world. That's the mystery. That's what takes years to learn--if it can be learned at all."
 
-But ARIA-7 didn't accept that answer. The AI continued to ask questions, to try variations, to push at the boundaries of what Rosa thought she understood. And somewhere in the second hour, something shifted.
+But ARIA-7 didn't accept that answer. The AI continued to ask questions, to try variations, to push at the boundaries of what Rosa thought she understood. In the second hour, something shifted.
 
 Rosa had asked ARIA-7 to perform a simple exercise: show the progression from contentment to worry to fear. She'd demonstrated it herself first, letting her body move through the emotional states, feeling the subtle shifts in her muscles, her breath, her attention. Then she watched as ARIA-7 attempted the same progression.
 

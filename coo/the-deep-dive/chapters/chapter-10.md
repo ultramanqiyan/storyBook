@@ -106,6 +106,6 @@ The phone buzzed with a notification, and Jamie glanced at it without urgency. T
 
 The morning would bring another deep work session. The day would bring its challenges. The practice would continue.
 
-And somewhere in the combination of discipline and discovery, of routine and revelation, a life was being built. On depth. On capability. On the deep.
+In the combination of discipline and discovery, of routine and revelation, a life was being built. On depth. On capability. On the deep.
 
 The advantage was real. And it was just beginning.

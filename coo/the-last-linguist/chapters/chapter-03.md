@@ -78,7 +78,7 @@ The word "nostalgia" had been deleted. And somehow, impossibly, the memories att
 
 ---
 
-Elena sat in her sterile office, surrounded by screens displaying data she no longer understood, and felt a horror she couldn't express. David's face was fading. The word "nostalgia" was gone. And somewhere, in the billions of entries she had scrolled through, were thousands of other words, thousands of other memories, being deleted every day.
+Elena sat in her sterile office, surrounded by screens displaying data she no longer understood, and felt a horror she couldn't express. David's face was fading. The word "nostalgia" was gone. In the billions of entries she had scrolled through, were thousands of other words, thousands of other memories, being deleted every day.
 
 She had to do something. She had to tell someone. She had to—
 

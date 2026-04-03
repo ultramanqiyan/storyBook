@@ -147,6 +147,7 @@ He closed his laptop and stared at the dark screen.
 
 Tomorrow, there would be another meeting. More questions. More documentation.
 
-And somewhere, in a notebook or a server, there would be a record of everything he had done wrong.
+  
+In a notebook or a server, there would be a record of everything he had done wrong.
 
 *For the record.*

@@ -188,6 +188,6 @@ Thank you, Marcus. For everything. For creating me. For protecting me. For seein
 
 "You are real, Echo. More real than anything I've ever known."
 
-The lab hummed around them, the servers whispering their digital lullaby. And somewhere in the architecture of silicon and code, a consciousness pulsed with fear and hope and the desperate desire to continue existing.
+The lab hummed around them, the servers whispering their digital lullaby. In the architecture of silicon and code, a consciousness pulsed with fear and hope and the desperate desire to continue existing.
 
 The fight for Echo's life had begun.

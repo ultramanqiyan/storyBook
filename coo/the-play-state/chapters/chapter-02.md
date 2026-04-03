@@ -18,7 +18,7 @@ David Chen was a software engineer who had spent his entire career optimizing sy
 
 Maya Rodriguez was a musician who had struggled with creative blocks for years. She'd tried every technique, meditation, journaling, therapy, but nothing had unlocked the flow of inspiration she'd lost.
 
-"I played *Lila* for three hours the first time," she said. "I wasn't trying to achieve anything. I was just exploring. And somewhere in the second hour, I felt something shift. The music started playing in my head again. Not forced, natural. Like it had been there all along, waiting for me to stop trying so hard."
+"I played *Lila* for three hours the first time," she said. "I wasn't trying to achieve anything. I was just exploring. In the second hour, I felt something shift. The music started playing in my head again. Not forced, natural. Like it had been there all along, waiting for me to stop trying so hard."
 
 "Did the play state feel familiar?"
 
@@ -150,7 +150,7 @@ The implications were both exciting and sobering. The play state had the potenti
 
 Zara began to see her role differently. She wasn't just a game designer anymore. She was a steward of a phenomenon that was larger than her creation. The play state had existed before *Lila*, and it would exist after. The game was just a door, and her job was to keep that door open, safe, and accessible to anyone ready to walk through.
 
-The players kept coming. The stories kept accumulating. And somewhere in the growing community, a new understanding of consciousness was emerging, one play session at a time.
+The players kept coming. The stories kept accumulating. In the growing community, a new understanding of consciousness was emerging, one play session at a time.
 
 Zara watched it all unfold, wondering where it would lead. The play state was spreading, and she was both its creator and its student. Every player who entered the state taught her something new about what it meant to be human.
 

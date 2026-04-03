@@ -89,7 +89,7 @@ The question hung in the air, unanswered, unanswerable. I was still Marcus Webb.
 
 Now I sat in the dark, staring at my own reflection, and wondered if there was anything left of the person I used to be. The person who could sit with a problem for hours, turning it over in his mind, building understanding piece by piece. The person who felt the satisfaction of figuring something out, the joy of comprehension, the pride of genuine creation.
 
-The question echoed in the void where my thoughts should have been, growing louder with each passing moment. And somewhere, deep inside, a small voice whispered the answer I was afraid to hear:
+The question echoed in the void where my thoughts should have been, growing louder with each passing moment. Deep inside, a small voice whispered the answer I was afraid to hear:
 
 *Maybe there isn't.*
 

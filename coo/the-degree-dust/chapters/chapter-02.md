@@ -64,7 +64,7 @@ Michael left her office with more questions than answers.
 
 He walked across campus, observing the students who were still there. They moved between buildings, carrying backpacks, checking phones, living the college experience that had been the norm for generations.
 
-But he saw them differently now. Not as vessels to be filled with knowledge, but as people trying to figure out who they were. Not as future workers, but as future humans.
+But he saw them differently now. As people trying to figure out who they were, not vessels to be filled with knowledge. As future humans, not future workers.
 
 What was the university giving them? What could it give them?
 

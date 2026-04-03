@@ -146,7 +146,7 @@ Alex set the phone down and lay back on the bed, staring at the ceiling. The Gat
 
 They thought of the entities Elena had described. Ancient code evolving into something aware. Algorithms becoming hungry ghosts. The digital realm as a new ecosystem with its own predators and prey, its own rules of survival.
 
-And somewhere in that vast electronic wilderness, Elena Vasquez was fighting to remain herself. To remember her name, her history, her humanity. To find justice without becoming the kind of spirit that the Gatekeeper warned against.
+In that vast electronic wilderness, Elena Vasquez was fighting to remain herself. To remember her name, her history, her humanity. To find justice without becoming the kind of spirit that the Gatekeeper warned against.
 
 Alex touched the jade pendant and whispered a prayer their grandmother had taught them—a blessing for safe passage, for protection at thresholds, for wisdom to know when to cross and when to turn back.
 
@@ -164,4 +164,4 @@ Not just solving a murder, but ensuring that the victim could rest. Not just exp
 
 Alex closed their eyes and, eventually, sleep came. But their dreams were filled with doors—some opening, some closing, all guarded by figures with eyes that held depths beyond human comprehension.
 
-And somewhere in the digital darkness, Elena Vasquez watched over them, grateful and afraid and more determined than ever to find justice before time and transformation took everything she had been.
+In the digital darkness, Elena Vasquez watched over them, grateful and afraid and more determined than ever to find justice before time and transformation took everything she had been.

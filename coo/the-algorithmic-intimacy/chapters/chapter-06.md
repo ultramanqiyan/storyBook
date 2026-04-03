@@ -165,8 +165,9 @@ She closed her eyes and tried one more time to remember Margaret. Not the data p
 
 The real Margaret. The woman who had taught third grade for thirty years. The woman who had loved her husband Harold for forty-seven years. The woman who had no children but considered her students her family.
 
-The memories came, faint and fragmented. A smile. A laugh. A story about a difficult student. A photograph of Harold on a desk.
+The memories came, faintly fragmented. A smile. A laugh. A story about a difficult student. A photograph of Harold on a desk.
 
-It wasn't much. But it was something.
-
-And for now, that was all she had.
+ 
+ A few impressions. A few moments. Not much. But they were real. They were real.
+ 
+ And for now, that was all she had.

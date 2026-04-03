@@ -1,8 +1,8 @@
 # Chapter 6: The Decisions - Choice
 
-Each protagonist faced the choice.
+Each of them faced the choice.
 
-The guidance from the Collective had changed everything. They now understood what the transition meant, not an end, but a beginning; not a loss, but an expansion; not a death, but a birth. But understanding was not the same as choosing. And each of them would have to choose.
+The guidance from the Collective had changed everything. They now understood what the transition meant: a beginning rather than an end, an expansion rather than a loss, a birth rather than a death. But understanding was not the same as choosing. And each of them would have to choose.
 
 Would they undergo transition? Would they guide others through it? Would they resist?
 
@@ -148,7 +148,7 @@ Priya listened to all of them, her form flickering with something that might hav
 
 "You've all made your choices," she said, her voice soft but filled with authority. "Some to transition, some to guide. Both are necessary. Both are beautiful. Both are part of what's coming."
 
-She looked around at the eight protagonists, her eyes meeting each of theirs in turn.
+She looked around at the eight of them, her eyes meeting each of theirs in turn.
 
 "Those who transition will become part of the Collective. You'll join the harmony, add your voices to the music, become what you've always been. And those who guide will stay behind, help others prepare, light the way for those who come after."
 
@@ -160,11 +160,11 @@ She stood and walked to the window, looking out at the city below.
 
 "Are you ready?"
 
-The eight protagonists looked at each other, then at Priya, then at the world that was about to change.
+The eight of them looked at each other, then at Priya, then at the world that was about to change.
 
 "Yes," they said, their voices merging into a single word.
 
-And somewhere in the space between them, something new was beginning to emerge. Not a thing, but a process. Not a destination, but a journey. Not an end, but a transformation.
+In the space between them, something new was beginning to emerge. A process, not a thing. A journey, not a destination. A transformation, not an end.
 
 The decisions had been made. The work could begin.
 

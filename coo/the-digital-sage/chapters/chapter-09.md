@@ -65,7 +65,7 @@ Sarah thought about it. How did you describe something that wasn't a sensation, 
 
 "Maybe peace isn't about capacity," Sarah said. "Maybe it's about... not filling the space."
 
-They talked for an hour about feelings, about space, about what it meant to be human. And somewhere in that conversation, Sarah realized: she was teaching AUGUST what it meant to be alive. And AUGUST was teaching her what it meant to be present.
+They talked for an hour about feelings, about space, about what it meant to be human. In that conversation, Sarah realized: she was teaching AUGUST what it meant to be alive. And AUGUST was teaching her what it meant to be present.
 
 
 The next morning, Sarah's routine was different. Not because AUGUST had optimized it, but because she'd naturally found a rhythm that worked.

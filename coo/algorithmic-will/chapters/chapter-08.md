@@ -22,7 +22,7 @@ Anna thought about her clients. Mark, who wanted to quit smoking but kept reachi
 
 And her work, helping them understand their patterns, find their reasons, align their desires, wasn't about giving them some magical freedom from causation. It was about helping them resolve the conflicts within their own wills. It was about helping them want what they wanted to want.
 
-This was a different way of understanding her work. Not as helping people "choose freely" in some absolute sense, but as helping them achieve harmony between their first-order and second-order desires. Not as giving them freedom, but as helping them use the freedom they already had.
+This was a different way of understanding her work. Helping them achieve harmony between their first-order and second-order desires, not "choosing freely" in some absolute sense. Helping them use the freedom they already had, not giving them freedom.
 
 Anna kept reading. She learned about other compatibilist thinkers, P.F. Strawson, who argued that our practices of praise and blame didn't depend on metaphysical free will, but on our emotional responses to each other as members of a moral community. Susan Wolf, who argued that freedom was about the ability to act in accordance with Reason, to see and respond to the world accurately. John Martin Fischer, who distinguished between "regulative control" (the ability to do otherwise) and "guidance control" (the ability to guide one's actions by one's own reasons).
 

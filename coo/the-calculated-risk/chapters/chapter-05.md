@@ -52,8 +52,6 @@ The flight to Switzerland was long and uncomfortable. I sat in my seat, my mind 
 
 I would have none of that. I would have only my intuition, my judgment, my hard-won ability to read the rock.
 
-It wasn't much. But it was mine.
-
 
 The competition venue was massive, a state-of-the-art climbing facility with walls that stretched toward the ceiling, routes that challenged even the best athletes. I walked through the space, my eyes scanning the problems, my mind already working.
 

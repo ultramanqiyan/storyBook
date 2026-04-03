@@ -109,7 +109,7 @@ The technician paused. "You will still be Marcus Chen. Your memories, your skill
 
 "Optimized for efficiency." The technician's voice was carefully neutral. "You'll still be able to function. You'll still be able to work, to communicate, to live your life. You just won't be... distracted by creative impulses."
 
-Marcus closed his eyes. He wanted to argue, to fight, to scream. But he had known this was coming. He had made his choice. And somewhere, in Sarah's memory and in Lily's young mind, his words would survive.
+Marcus closed his eyes. He wanted to argue, to fight, to scream. But he had known this was coming. He had made his choice. In Sarah's memory and in Lily's young mind, his words would survive.
 
 The machine began to hum, and Marcus felt a strange sensation—a tingling at the base of his skull, a warmth spreading through his brain. He thought of his father, of the kitchen in San Francisco, of the smell of dumplings cooking and the sound of Chinese words he was slowly forgetting.
 

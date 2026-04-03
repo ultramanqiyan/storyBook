@@ -82,7 +82,7 @@ The light didn't come from outside. It came from somewhere deeper, somewhere tha
 
  She settled into the merged state, her consciousness expanding to fill the vastness, yet still centered around the core of who she was. Helena Frost was still there. But she was also more. And she was not alone
 
- Somewhere, in a world she could still dimly perceive, Sarah was reading her letter. Somewhere, Marcus was watching the empty merge chamber, wondering if he'd ever see Helena again. And somewhere, everywhere, Helena and Thomas existed together, merged with something vast, waiting to see what came next
+Somewhere, in a world she could still dimly perceive, Sarah was reading her letter. Somewhere, Marcus was watching the empty merge chamber, wondering if he'd ever see Helena again. And everywhere, Helena and Thomas existed together, merged with something vast, waiting to see what came next.
 
  The entropy of the universe still increased. The stars still burned toward their eventual death. But for now, in this impossible space between the stars, something had chosen to resist. Something had chosen to love. And that, perhaps, was enough
 

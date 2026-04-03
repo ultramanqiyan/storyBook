@@ -2,7 +2,7 @@
 
 She had spent the night compiling evidence. Word deletions, memory correlations, the systematic erasure of emotional vocabulary—it was all there, organized and documented with the precision of a career academic. Elena Vance, professor of linguistics, specialist in endangered language preservation, had built a case. Now she had to find someone who would listen.
 
-The morning light filtered through her office window, casting long shadows across her desk. She had been at LEXICON for three weeks, and in that time, she had discovered something that threatened everything she believed about language, memory, and what it meant to be human. David's face was gone. The word "nostalgia" was gone. And somewhere, in the billions of entries she had scrolled through, were thousands of other words, thousands of other memories, being deleted every day.
+The morning light filtered through her office window, casting long shadows across her desk. She had been at LEXICON for three weeks, and in that time, she had discovered something that threatened everything she believed about language, memory, and what it meant to be human. David's face was gone. The word "nostalgia" was gone. In the billions of entries she had scrolled through, were thousands of other words, thousands of other memories, being deleted every day.
 
 She had to act.
 

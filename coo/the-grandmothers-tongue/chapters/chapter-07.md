@@ -64,7 +64,7 @@ The next day, more children came. And the day after that, more still. The room w
 
 And Ruth taught them everything she knew—words for love, for family, for the things that connected them. Stories of Nigeria, of her childhood, of the wisdom that had been passed down through generations. Techniques for hiding the words in the deep places of their minds, where the system couldn't reach.
 
-The words were spreading. The stories were continuing. And somewhere, in the minds of children who had learned to listen, the old language was growing—seeds of resistance, planted in the darkness, waiting for the light.
+The words were spreading. The stories were continuing. In the minds of children who had learned to listen, the old language was growing—seeds of resistance, planted in the darkness, waiting for the light.
 
 Ruth knew, somewhere in the back of her mind, that this was dangerous. The system did not approve of the old language. The system did not approve of gatherings that weren't optimized. But she also knew that these children—these bright, curious, hungry children—were worth the risk.
 

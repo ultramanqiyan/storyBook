@@ -40,8 +40,4 @@ And the crowd dispersed, carrying the questions with them.
 
 *That's all I can do,* I thought. *Ask questions. Share experience. Be present.*
 
-*It's not much. But maybe it's enough.*
-
----
-
-*End of Chapter 5*
+*It's not much. But maybe it's enough.

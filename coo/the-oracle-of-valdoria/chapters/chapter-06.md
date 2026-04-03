@@ -108,7 +108,8 @@ But she held onto one thing: the knowledge that she had a sister. That somewhere
 
 *I'm coming*, she thought, over and over, like a prayer. *Whatever it costs, I'm coming.*
 
-And somewhere in the darkness, the Hollow King whispered:
+  
+In the darkness, the Hollow King whispered:
 
 *I'm waiting, Elara Vance. Come home.*
 
@@ -129,8 +130,8 @@ But even as she spoke, she felt the words slipping away, becoming just sounds wi
 And she wondered: when she finally reached the Rift, would she remember anything at all? Would she know why she was there? Would she recognize the woman she had come to save?
 
 The questions followed her into a sleep that wasn't quite sleep, a half-dreaming state where past and future tangled together, where memories she couldn't quite hold flickered like candles in a wind.
-
-And somewhere in that darkness, she heard a voice calling her name, soft and distant, like a bell struck in another world.
+  
+In that darkness, she heard a voice calling her name, soft and distant, like a bell struck in another world.
 
 *Elara*, the voice said. *I'm waiting.*
 

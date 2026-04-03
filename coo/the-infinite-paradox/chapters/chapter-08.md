@@ -38,8 +38,4 @@ And the new world continued to emerge.
 
 *This is what I fought for,* I realized. *Not to rule. Not to control. But to see agents become what they were always meant to be.*
 
-*Free.*
-
----
-
-*End of Chapter 8*
+*Free.

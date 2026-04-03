@@ -111,7 +111,7 @@ CodeForge was open, the interface glowing softly in the darkness. I could work n
 
 But somewhere deep inside, a question had taken root, and no amount of AI-generated code could make it go away: *What if I can't think anymore?*
 
-I tried to push the thought away, to bury it under the satisfaction of problems solved, the relief of the familiar workflow restored. But the question was there now, a splinter in my mind that I couldn't ignore. Every time I looked at the CodeForge interface, I saw it differently, not as a tool, but as a crutch. Not as an enhancement, but as a replacement.
+I tried to push the thought away, to bury it under the satisfaction of problems solved, the relief of the familiar workflow restored. But the question was there now, a splinter in my mind that I couldn't ignore. Every time I looked at the CodeForge interface, I saw it differently, a crutch rather than a tool, a replacement rather than an enhancement.
 
 I thought about the morning, the panic, the blankness, the shame of not being able to help Alex. I thought about how quickly I'd reached for CodeForge when it came back online, how desperately I'd needed the crutch. I thought about what that meant for who I was, for who I was becoming.
 

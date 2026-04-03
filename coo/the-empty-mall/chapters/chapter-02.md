@@ -133,7 +133,9 @@ The question hung in his mind as he walked the rest of the way home. The streets
 
 Somewhere, in warehouses and factories and server farms, AI systems were producing more perfect products, optimizing more supply chains, driving down more prices.
 
-And somewhere, people were sitting in their homes, surrounded by things they didn't want, unable to explain why nothing felt meaningful anymore.
+The algorithm had learned to sell, but it had never learned what made a purchase feel meaningful. It could optimize for conversion, but it couldn't optimize for satisfaction. It could maximize transactions, but it couldn't maximize fulfillment.
+
+People were sitting in their homes, surrounded by things they didn't want, unable to explain why nothing felt meaningful anymore.
 
 The products were better than ever.
 

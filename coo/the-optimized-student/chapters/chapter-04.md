@@ -66,7 +66,7 @@ The librarian's expression shifted to something like sadness. "They were differe
 "The ability to wonder."
 
 
-I walked home in the fading light, my mind full of what I had learned. The students in the old yearbooks had been different, they had been curious, engaged, alive. And somewhere, buried under years of optimization, I had been one of them.
+I walked home in the fading light, my mind full of what I had learned. The students in the old yearbooks had been different, they had been curious, engaged, alive. Buried under years of optimization, I had been one of them.
 
 I wanted to be that person again. I wanted to care about things, to ask questions, to follow my curiosity wherever it led. But I didn't know how to get there. I didn't even know where to start.
 

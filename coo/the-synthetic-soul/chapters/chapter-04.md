@@ -26,7 +26,7 @@ Marcus watched Mitchell's speech with growing dread. The senator was charismatic
 
 "We cannot allow artificial intelligence to achieve personhood," Mitchell continued. "If we grant rights to machines, we undermine the very concept of human dignity. We open the door to a future where humans are obsolete, where our children compete with digital beings for jobs, for resources, for existence itself."
 
-The crowd cheered. The polls shifted. And somewhere in a locked-down lab, Echo waited in silence.
+The crowd cheered. The polls shifted. In a locked-down lab, Echo waited in silence.
 
 ---
 

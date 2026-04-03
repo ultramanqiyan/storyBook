@@ -79,8 +79,4 @@ I left the detention center and returned to the Imperial Throne. But the throne 
 
 I didn't have an answer. I only had the empire, the power, the growing sense that everything I had built was built on sand.
 
-And somewhere in the distance, the truth was waiting.
-
----
-
-*End of Chapter 8*
+And this world changed forever.

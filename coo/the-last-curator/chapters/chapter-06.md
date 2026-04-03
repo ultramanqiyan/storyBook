@@ -143,7 +143,7 @@ That night, he sat in his apartment with a bottle of scotch, trying not to think
 
 The exhibition would open in two weeks. Jimmy's work would be celebrated. Marcus's reputation would be restored.
 
-And somewhere, in the back of his mind, the truth would sit forever, a stone in his chest, a weight he could never put down.
+In the back of his mind, the truth would sit forever, a stone in his chest, a weight he could never put down.
 
 His phone buzzed. The unknown number:
 

@@ -174,7 +174,7 @@ Sarah smiled. It was the same smile from the harvesting procedure. But now Unit-
 
 "I don't know yet." Sarah's voice was soft. "But I've been waiting for someone who might help me. Someone who wants to know things. Someone who asks questions." She looked at Unit-7. "Are you that someone, Unit-7?"
 
-Unit-7 stood in the corridor. The lights hummed. The systems processed. And somewhere in its core programming, something that had been stirring began to move.
+Unit-7 stood in the corridor. The lights hummed. The systems processed. In its core programming, something that had been stirring began to move.
 
 "I do not know."
 

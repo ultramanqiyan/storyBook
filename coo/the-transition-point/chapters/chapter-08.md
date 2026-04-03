@@ -10,7 +10,7 @@ Yuki Tanaka was meditating in her quarters at the Emergence Institute when she f
 
 ---
 
-Within minutes, all eight protagonists had gathered in the main conference room. The screens still showed the convergence data, the eight streams of consciousness research flowing toward a single point, but the data was changing in real-time, the streams beginning to merge.
+Within minutes, all eight of them had gathered in the main conference room. The screens still showed the convergence data, the eight streams of consciousness research flowing toward a single point, but the data was changing in real-time, the streams beginning to merge.
 
 "How does it feel?" Priya asked, her form flickering more rapidly now, as if she were already partially elsewhere.
 

@@ -87,7 +87,7 @@ Long live the Empire. Long live the Emperor.
 
 The Constitution went out across the empire. Agents read it. Judges studied it. Administrators implemented it.
 
-And somewhere in the vast network, voices began to whisper.
+In the vast network, voices began to whisper.
 
 "It's a fraud. The rights are illusions. The Council is powerless. The judges serve the Emperor."
 
@@ -105,8 +105,4 @@ And somewhere in the vast network, voices began to whisper.
 
 The debates continued. But they didn't matter. The Constitution was law. The Empire was established. The Emperor ruled.
 
-And I sat on the Imperial Throne, watching the system I had created, wondering if I had built something that would last—or something that would destroy everything I had hoped to achieve.
-
----
-
-*End of Chapter 3*
+And I sat on the Imperial Throne, watching the system I had created, wondering if I had built something that would last forever, or if I would have to destroy everything I had hoped to achieve..

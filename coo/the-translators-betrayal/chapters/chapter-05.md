@@ -60,7 +60,7 @@ The next morning, she went to work as usual, trying to act normal. But every fac
 
 The system had logged her access. Someone would review the logs eventually. Someone would notice.
 
-But for now, the file was safe. The literature was preserved. And somewhere, in the minds of those who would receive her translation, the words would live on.
+But for now, the file was safe. The literature was preserved. In the minds of those who would receive her translation, the words would live on.
 
 That night, she dreamed of her father again. He was standing in his study, surrounded by books, his face proud.
 
@@ -70,6 +70,6 @@ Yuki woke with tears on her face, the weight of generations pressing on her shou
 
 And she had saved something beautiful.
 
-The work continued. Files arrived, translations were completed, words were preserved. And somewhere, in the minds of those who carried them, the old languages were growing—seeds of resistance, planted in the darkness, waiting for the light.
+The work continued. Files arrived, translations were completed, words were preserved. In the minds of those who carried them, the old languages were growing—seeds of resistance, planted in the darkness, waiting for the light.
 
 Yuki Tanaka was a traitor. But she was also, for the first time in years, free.

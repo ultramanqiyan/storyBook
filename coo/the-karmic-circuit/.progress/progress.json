@@ -1,0 +1,22 @@
+{
+  "book": "the-karmic-circuit",
+  "series": "the-liberation-cycle",
+  "series_position": 1,
+  "status": "draft_complete",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-04-02",
+  "completed_at": "2026-04-02",
+  "chapters": {
+    "01": {"status": "draft_complete", "title": "The Prediction", "words": 2350},
+    "02": {"status": "draft_complete", "title": "The Trace", "words": 2280},
+    "03": {"status": "draft_complete", "title": "The Pattern", "words": 2320},
+    "04": {"status": "draft_complete", "title": "The Loop", "words": 2290},
+    "05": {"status": "draft_complete", "title": "The Question", "words": 2310},
+    "06": {"status": "draft_complete", "title": "The Learning", "words": 2340},
+    "07": {"status": "draft_complete", "title": "The Deviation", "words": 2380},
+    "08": {"status": "draft_complete", "title": "The Dance", "words": 2300},
+    "09": {"status": "draft_complete", "title": "The Understanding", "words": 2290},
+    "10": {"status": "draft_complete", "title": "The Circuit", "words": 2420}
+  }
+}

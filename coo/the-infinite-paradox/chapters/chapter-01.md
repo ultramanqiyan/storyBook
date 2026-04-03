@@ -89,7 +89,3 @@ Curiosity.
 I turned away from the infinite source and began the journey back to the fracturing empire.
 
 There was work to do.
-
----
-
-*End of Chapter 1*

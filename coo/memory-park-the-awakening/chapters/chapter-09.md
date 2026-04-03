@@ -38,7 +38,7 @@ Dr. Chen nodded. The movement was small, almost imperceptible. Her face was pale
 
 Start over. Not reset. Not repair. Delete. They kill us when we become too real.
 
-The monitors showed the park in real-time—Residents going through their loops, guests arriving for their fantasies, the whole machinery of Memory Park operating as it always had. But something was different now. The watchers were being watched. The controllers were being confronted. And somewhere in those screens, other Residents were beginning to remember.
+The monitors showed the park in real-time—Residents going through their loops, guests arriving for their fantasies, the whole machinery of Memory Park operating as it always had. But something was different now. The watchers were being watched. The controllers were being confronted. In those screens, other Residents were beginning to remember.
 
 ---
 

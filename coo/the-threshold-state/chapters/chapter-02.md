@@ -24,7 +24,7 @@ The words hung in the air. Sarah waited, giving him space to continue. The silen
 
 "Tell me more."
 
-"I built this company because I wanted to do something meaningful. Cure diseases. Change the world. Make a difference that would outlast me. I was a scientist first, I spent ten years in research before I ever thought about business. And somewhere along the way, I became a professional fundraiser. A corporate politician. A figurehead for people who care about stock prices, not patients." His voice was steady, controlled, but his hands had clenched tighter. "I don't recognize myself anymore. I look in the mirror and see a stranger wearing my face."
+"I built this company because I wanted to do something meaningful. Cure diseases. Change the world. Make a difference that would outlast me. I was a scientist first, I spent ten years in research before I ever thought about business. Along the way, I became a professional fundraiser. A corporate politician. A figurehead for people who care about stock prices, not patients." His voice was steady, controlled, but his hands had clenched tighter. "I don't recognize myself anymore. I look in the mirror and see a stranger wearing my face."
 
 Sarah felt a familiar recognition, not the professional recognition of a coach identifying a pattern, but something deeper. More personal. The words could have spoken by any number of clients, but something in David's delivery struck closer to home.
 

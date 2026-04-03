@@ -63,8 +63,8 @@ A small group gathered, descendants of her companions, scholars who had studied 
 "She spent a century in emptiness," one speaker said. "And she spent a year in fullness. That year was worth more than all the centuries that came before. Because that year had an ending. That year meant something."
 
 As the sun set, the group dispersed, leaving flowers on Catherine's grave. The cemetery grew quiet, the stones standing sentinel over the dead who had finally found peace.
-
-And somewhere, if there is such a place, Catherine was at peace too, not the hollow peace of eternal existence, but the genuine peace of a life completed, a story finished, a meaning found.
+  
+If there was such a place as peace, Catherine had found it too—not the hollow peace of eternal existence, but the genuine peace of a life completed, a story finished, a meaning found.
 
 She had chosen death over forever. And in that choice, she had finally chosen to live.
 

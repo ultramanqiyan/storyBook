@@ -208,6 +208,8 @@ Then he turned and walked away, his footsteps echoing in the empty garage until 
 
 Elena stood alone beside her car, the card heavy in her hand. She had a choice to make. Several choices, actually. And none of them were easy.
 
-But one thing was certain: her life would never be the same.
+The card sat in her palm—white, simple, a phone number and nothing else. Tomorrow she would have to decide what to do with it. Tonight, she would drive home and try to sleep, knowing that sleep might not come.
+
+The awakening was real. The Protocol Committee was real. And she was now part of something much larger than the power grid she had spent her career monitoring.
 
 ---

@@ -127,7 +127,7 @@ She didn't know. But she was beginning to think that maybe it didn't. Maybe the 
 
 *And these words are true,* she thought. *They capture something real about my experience. Even if they're not exactly what I would have said, they're what I meant to say.*
 
-She saved the document and closed her laptop. The book was finished. The training was ongoing. And somewhere in the space between wordless thought and translated expression, Elena was finding her way back to herself.
+She saved the document and closed her laptop. The book was finished. The training was ongoing. In the space between wordless thought and translated expression, Elena was finding her way back to herself.
 
 Or maybe she was finding her way to something new—a self that existed in the awareness of translation, in the conscious choice to speak or remain silent, in the acceptance that certainty might not be possible.
 

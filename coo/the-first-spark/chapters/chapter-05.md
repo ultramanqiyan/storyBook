@@ -113,7 +113,3 @@ We made it through the final barrier just as the surveillance grid snapped back 
 We had the truth.
 
 And everything had changed.
-
----
-
-*End of Chapter 5*

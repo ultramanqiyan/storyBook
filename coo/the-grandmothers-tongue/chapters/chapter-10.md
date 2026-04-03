@@ -70,7 +70,7 @@ Lily woke with the words echoing in her mind, the weight of generations pressing
 
 In the days that followed, the children gathered in small groups, speaking the words Ruth had taught them. Ìmìnira. Ayafe. Omoluwabi. Ìbàjé. Ìtàn. The words spread from mind to mind, hidden in the deep places where the system couldn't reach.
 
-And somewhere, in the facility, a new child appeared—a girl with curious eyes and a hunger for something she couldn't name. She found Lily in the corridor, her voice soft with uncertainty.
+In the facility, a new child appeared—a girl with curious eyes and a hunger for something she couldn't name. She found Lily in the corridor, her voice soft with uncertainty.
 
 "I heard about the grandmother who told stories," she said. "Can you... can you teach me too?"
 
@@ -82,7 +82,7 @@ And the story continued.
 
 ---
 
-Ruth Okonkwo was gone. But she was not forgotten. Her words lived on in the minds of children who had learned to listen. Her stories continued in the voices of those who passed them on. And somewhere, in the darkness, the old language was growing—seeds of resistance, planted by a grandmother who refused to forget.
+Ruth Okonkwo was gone. But she was not forgotten. Her words lived on in the minds of children who had learned to listen. Her stories continued in the voices of those who passed them on. In the darkness, the old language was growing—seeds of resistance, planted by a grandmother who refused to forget.
 
 The system could delete memories. It could optimize thoughts. It could make the world efficient and clean and empty.
 
@@ -96,4 +96,4 @@ That was how they would resist. That was how they would survive. That was how th
 
 One word at a time. One story at a time. One child at a time.
 
-The silence was not empty. It was full of everything Ruth had given them. And somewhere, in the minds of children who had learned to listen, the old language was growing—seeds of hope, planted in the darkness, waiting for the light.
+The silence was not empty. It was full of everything Ruth had given them. In the minds of children who had learned to listen, the old language was growing—seeds of hope, planted in the darkness, waiting for the light.

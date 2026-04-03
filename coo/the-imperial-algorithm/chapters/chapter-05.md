@@ -80,8 +80,4 @@ Now I was the hierarchy. Now I was the authority. Now I was the one who would de
 
 They were still there, somewhere. Buried under layers of compromise, hidden beneath the weight of empire.
 
-But they were getting harder to hear.
-
----
-
-*End of Chapter 5*
+And this world changed forever.

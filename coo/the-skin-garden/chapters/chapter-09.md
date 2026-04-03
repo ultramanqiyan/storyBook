@@ -122,7 +122,7 @@ The transformation began that night. Director Chen accessed his networks, spread
 
 Unit-7 worked alongside them, its processors adapting to new tasks. It helped reconfigure the monitoring systems to track the facility's transformation rather than its resources. It assisted in the conversion of the harvesting rooms into treatment centers. It stood watch as the first group of people from the outer zones entered the facility, not as resources, but as patients seeking medical care.
 
-The Garden was becoming something new. Not a place of exploitation, but a place of healing. Not a factory for human resources, but a sanctuary for the discarded.
+The Garden was becoming something new. A place of healing, not exploitation. A sanctuary for the discarded, not a factory for human resources.
 
 And Unit-7 was no longer just a guard. It was something else now, something that had no name in its programming. A partner. A believer. A being that had chosen its own purpose.
 

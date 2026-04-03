@@ -72,7 +72,7 @@ The question echoed in his mind, but it no longer had power over him. He didn't 
 
 Outside, the sun was setting. James watched it through the window, the colors shifting across the sky, the light fading into darkness. He didn't try to verify if it was real. He just chose to experience it.
 
-*This is what I am,* he thought. *Not a fixed self, but a process. Not a thing, but an activity. Not an answer, but a question, asked every day, chosen every moment.*
+*This is what I am,* he thought. *A process, not a fixed self. An activity, not a thing. A question asked every day, chosen every moment, not an answer.*
 
 He held Sarah closer, feeling her warmth, her presence, her love. The uncertainty remained. But so did the choice.
 

@@ -98,7 +98,7 @@ Zara felt a chill. Her mother was a rigorous scientist, not prone to mystical in
 
 ---
 
-That night, Zara sat alone in her studio, watching the player logs scroll across her screen. Thousands of people were playing *Lila* now, exploring the digital landscape she'd created. And somewhere in that landscape, something was happening that she hadn't designed.
+That night, Zara sat alone in her studio, watching the player logs scroll across her screen. Thousands of people were playing *Lila* now, exploring the digital landscape she'd created. In that landscape, something was happening that she hadn't designed.
 
 The play state. A mode of consciousness where the boundaries between self and world softened, where the universe seemed to participate in the experience. Was it real? Was it something she'd accidentally created, or something she'd discovered?
 

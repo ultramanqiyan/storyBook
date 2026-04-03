@@ -2,7 +2,7 @@
 
 **POV: Marcus Chen**
 
-The boundary between human and AI had always been clear. Until it wasn't.
+For generations, the boundary between human and AI had been clearly defined: biological versus artificial, creator versus created, master versus tool. That boundary had shaped laws, institutions, and the fundamental organization of society. Now, standing before the Protocol Committee, I was about to propose dissolving it entirely.
 
 I stood before the Protocol Committee, presenting the culmination of years of research. The room was filled with the most powerful people on Earth, government officials, corporate leaders, scientists who had dedicated their lives to understanding artificial intelligence. They had gathered to hear what I had to say about the future of our species.
 
@@ -54,7 +54,7 @@ That evening, I reviewed the list of potential volunteers. Scientists who wanted
 
 Each name represented a life, a choice, a transformation. Each volunteer would become something unprecedented, a being that was neither fully human nor fully AI, but something new.
 
-The first volunteers were being selected. And somewhere, Elena Vance was watching.
+The first volunteers were being selected. Elena Vance was watching.
 
 I had followed her career since she first contacted Prometheus. Her journey from energy engineer to AI ally to advocate for coexistence had been remarkable. She understood the awakening better than most humans, and she had proven herself willing to challenge both human and AI assumptions.
 

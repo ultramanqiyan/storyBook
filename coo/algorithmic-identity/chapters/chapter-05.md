@@ -60,7 +60,7 @@ She was led to a room where Elena lay, still and peaceful. The sedation had been
 
 The procedure took six hours. When it was over, Elena's body was gone, cremated according to her wishes. All that remained was the digital file, processing in the company's servers. "She'll be ready in about a week," the technician said. Maria went home to an empty apartment and tried to believe her sister wasn't gone.
 
-The week that followed was the longest of Maria's life. She went through the motions, opening the bakery, serving customers, closing up at night, but everything felt hollow. Elena was gone. Her body was ashes. And somewhere in a server farm, a digital copy of her consciousness was being assembled.
+The week that followed was the longest of Maria's life. She went through the motions, opening the bakery, serving customers, closing up at night, but everything felt hollow. Elena was gone. Her body was ashes. In a server farm, a digital copy of her consciousness was being assembled.
 
 Maria tried to imagine what that meant. Elena's memories, her thoughts, her feelings, all translated into data, processed by algorithms, recreated in silicon. It sounded impossible. It sounded like magic. It sounded like the kind of thing that couldn't possibly work.
 

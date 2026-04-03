@@ -58,9 +58,10 @@ I stood and took her in my arms, holding her the way I had held her before the E
 "I'm back," I said. "I'm really back."
 
 
-We sat on the bench together as the afternoon faded into evening, talking about everything and nothing. I told her about the procedure,the fear, the uncertainty, the dream of playing music with crystal keys. She told me about the weeks of waiting, the fear that I wouldn't survive, the hope that kept her going.
+We sat on the bench together as the afternoon faded into evening, talking about everything and nothing. I told her about the procedure, the fear, the uncertainty, the dream of playing music with crystal keys. She told me about the weeks of waiting, the fear that I wouldn't survive, the hope that kept her going.
 
-And somewhere in the conversation, I realized that I had made the right choice.
+  
+Through the conversation, I realized that I had made the right choice.
 
 Yes, I had lost things. The enhanced senses that had let me see the world in ways no other human could. The computational abilities that had made me faster, smarter, more efficient. The perfect memory that had preserved every moment of my life in crystalline detail.
 

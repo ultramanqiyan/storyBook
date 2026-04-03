@@ -168,7 +168,7 @@ That evening, Maya returned to her studio. The frequency hummed at the edge of h
 
 She sat at her piano and placed her hands on the keys. She didn't play. She just listened.
 
-The frequency was singing. And somewhere in that vast cosmic web, the Listeners were waiting for her response.
+The frequency was singing. In that vast cosmic web, the Listeners were waiting for her response.
 
 She thought about what the presence had said: *Contact changes both parties. The frequency connects consciousness. When you connect with something vast, something ancient, you become part of that vastness.*
 
@@ -210,7 +210,7 @@ She closed her eyes and entered the frequency state.
 
 The indigo light bloomed around her, vast and welcoming. The cosmic web stretched out in all directions, infinite points of light, each one a consciousness, each one connected.
 
-And somewhere in that vastness, something was waiting.
+In that vastness, something was waiting.
 
 Something was listening.
 

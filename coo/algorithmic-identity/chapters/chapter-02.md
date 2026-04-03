@@ -82,4 +82,4 @@ Maria closed her eyes and tried to pray, the way her grandmother had taught her.
 
 The light in Elena's window went out. Maria lay in the darkness, feeling more alone than she'd ever felt in her life. Tomorrow would bring new challenges, telling Marco, telling the staff at the bakery, beginning the slow process of saying goodbye. But tonight, she just let herself feel the grief. The terrible, overwhelming grief of knowing that her sister was dying.
 
-She cried until she had no tears left. Then she lay in the silence, waiting for morning, waiting for the next day of a life that would never be the same.
+She cried until she had no tears left. Then she lay in the silence, waiting for morning, waiting for the next day of a life. would be different. Maria would learn to live without her other half.

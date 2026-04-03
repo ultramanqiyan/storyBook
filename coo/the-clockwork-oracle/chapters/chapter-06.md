@@ -74,4 +74,4 @@ Corwin was waiting outside, his face pale with worry. "How did it go?"
 
 "The beginning of what?"
 
-"Of a new chapter in history. One way or another, the world will never be the same."
+"Of a new chapter in history. One way or another, the world is about to change."

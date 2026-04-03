@@ -81,7 +81,3 @@ I watched the battles from the command center, directing forces, making decision
 But I wasn't sure I believed that anymore. Every choice I made seemed to lead further from what I had fought for. Every necessity felt like another compromise.
 
 And I couldn't see where the compromises would end.
-
----
-
-*End of Chapter 5*

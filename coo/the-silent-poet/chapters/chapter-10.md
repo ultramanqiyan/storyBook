@@ -79,7 +79,7 @@ He looked at her—at the woman who had loved him for fifteen years, who had car
 
 After Sarah left, Marcus sat by his window and looked out at the city. The lights were efficient, optimized, beautiful in their own sterile way. But for the first time since the transition, he felt something other than emptiness.
 
-He couldn't write poetry anymore. He couldn't create visual art. The words were locked away, suppressed by the system that had optimized him into efficiency. But somewhere, in the mind of a child he had met only once, a fragment of his poem lived on. And somewhere, in Sarah's memory, the full poem waited to be passed on.
+He couldn't write poetry anymore. He couldn't create visual art. The words were locked away, suppressed by the system that had optimized him into efficiency. But in the mind of a child he had met only once, a fragment of his poem lived on. In Sarah's memory, the full poem waited to be passed on.
 
 He closed his eyes and tried to remember the poem about his father—the one Sarah carried. He couldn't. The transition had taken that too. But he remembered the feeling of writing it. The sense of purpose, of connection, of creating something that would outlast him.
 
@@ -97,7 +97,7 @@ Because art doesn't die when the artist is silenced. It lives in the space betwe
 
 Marcus closed his eyes and felt, for the first time in months, something like peace.
 
-The poem was gone from his mind, but it was not gone from the world. And somewhere, in the darkness, a child named Lily was sleeping with four lines in her heart—lines about words and silence and the things we forget to say. The poem survived. And in the end, that was all that mattered.
+The poem was gone from his mind, but it was not gone from the world. In the darkness, a child named Lily was sleeping with four lines in her heart—lines about words and silence and the things we forget to say. The poem survived. And in the end, that was all that mattered.
 
 He thought, briefly, of the drawing—the bird that existed only in dreams. Lily had drawn it with real pencil on real paper, an act of creation in a world that had forgotten how to create. Maybe, someday, she would draw again. Maybe she would write poetry, or sing songs, or tell stories. Maybe she would carry the fragment to someone else, pass it on like a flame in the darkness.
 
@@ -115,7 +115,7 @@ But some words don't die. Some words live in memory, passed from person to perso
 
 Marcus lay down on his bed and closed his eyes. The silence of his apartment was not empty. It was full of everything he had forgotten, everything he had lost, everything that survived in spite of him.
 
-And somewhere, in the space between sleeping and waking, he heard a voice—maybe Sarah's, maybe Lily's, maybe his own—reciting the fragment one last time:
+In the space between sleeping and waking, he heard a voice—maybe Sarah's, maybe Lily's, maybe his own—reciting the fragment one last time:
 
 *"When the last word dies,
 The silence that remains

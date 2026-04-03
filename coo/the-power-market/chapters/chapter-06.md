@@ -36,7 +36,7 @@ The idea was seductive. And dangerous.
 
 Market manipulation was technically illegal—not that the market had real enforcement. But it was frowned upon, considered unethical, a violation of the unspoken rules that kept the system functioning.
 
-*But the alliance attacked me,* I told myself. *They tried to destroy me. Why should I play fair when they don't?*
+*But the alliance targeted me,* I told myself. *They tried to destroy me. Why should I play fair when they don't?*
 
 The rationalization was easy. The action was harder.
 
@@ -104,7 +104,3 @@ I didn't have answers. I only had the market, the credits, and the growing sense
 The debt was paid. The network was mine. The power was growing.
 
 And I was becoming the Merchant.
-
----
-
-*End of Chapter 6*

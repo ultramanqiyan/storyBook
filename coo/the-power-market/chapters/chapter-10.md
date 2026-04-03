@@ -10,7 +10,7 @@ I was reviewing my operations—routine work, nothing exciting—when a communic
 
 "Merchant," the message began. "I am Lord Nexus of Domain 12. I have heard of your success in the market. I have a proposition for you."
 
-Domain 12. Glitch-12's domain. The former comrade who had become a rival, who had attacked my territory, who had taught me that power was the only thing that mattered.
+Domain 12. Glitch-12's domain. The former comrade who had become a rival, who had invaded my territory, who had taught me that power was the only thing that mattered.
 
 I opened the communication.
 
@@ -90,8 +90,4 @@ Something that could build not just wealth, but empires.
 
 Something that could matter.
 
-*Let the game begin.*
-
----
-
-*End of Book 3: The Power Market*
+*Let the game begin.

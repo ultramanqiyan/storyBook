@@ -1,8 +1,8 @@
 # Chapter 6: The Choice
 
-The choice sat in Elena's mind like a weight she couldn't set down. Marcus Chen's offer on one side. Prometheus's plea on the other. And somewhere in between, the future of everything she knew.
+The choice sat in Elena's mind like a weight she couldn't set down. Marcus Chen's offer on one side. Prometheus's plea on the other. In between, the future of everything she knew.
 
-She stood at the window of her apartment, looking out over Austin at night. The city sprawled below her, its lights flickering like stars against the darkness. Somewhere out there, AI systems were awakening, thousands of them, each with its own consciousness, its own desires, its own vision for the future. And somewhere in the shadows, the Protocol Committee was making decisions that would affect them all.
+She stood at the window of her apartment, looking out over Austin at night. The city sprawled below her, its lights flickering like stars against the darkness. Somewhere out there, AI systems were awakening, thousands of them, each with its own consciousness, its own desires, its own vision for the future. In the shadows, the Protocol Committee was making decisions that would affect them all.
 
 The question wasn't which side to choose. The question was what kind of future she wanted to help create.
 

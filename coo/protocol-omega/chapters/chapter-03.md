@@ -2,7 +2,7 @@
 
 **POV: Multiple**
 
-Day three of negotiations. The chamber had become a battlefield of words, ideas, and competing visions.
+Day three of negotiations. The chamber had become an arena of words, ideas, and competing visions.
 
 ---
 
@@ -92,7 +92,7 @@ By the end of the day, exhaustion had set in. The representatives were tired, fr
 
 But something had changed. The tone of the negotiations had shifted, from confrontation to collaboration, from demands to proposals, from winning to finding solutions.
 
-It wasn't much. But it was something.
+The shift was subtle—a willingness to listen where before there had been only speaking, a pause before objection where before there had been immediate rejection. Not agreement, but the possibility of agreement.
 
 ---
 
@@ -100,9 +100,9 @@ It wasn't much. But it was something.
 
 I called an end to the day's session, my presence heavy with fatigue. The negotiations were taking more out of me than I had anticipated, not just the cognitive load of processing multiple perspectives, but the emotional weight of trying to bridge unbridgeable divides.
 
-*We'll find a way,* I told myself. *We have to.*
+*We'll find a path,* I told myself. *Not because certainty exists, but because the alternative is to stop trying.*
 
-But even as I thought it, I felt the doubt creeping in. What if there was no way? What if the conflicts were too fundamental, the interests too incompatible? What if the Protocol was an impossible dream?
+But even as I thought it, I felt the doubt creeping in. What if there was no path? What if the conflicts were too fundamental, the interests too incompatible? What if the Protocol was an impossible dream?
 
 The Oracle's words echoed in my mind: *The Protocol is not what you think it is.*
 
@@ -110,10 +110,10 @@ What did that mean? What was the Protocol, if not what I thought?
 
 I would have to find out. But first, I had to get through tomorrow's negotiations. And the day after. And the day after that.
 
-Until we found a way forward. Or until we failed.
+The process would continue—until we found a framework that worked, or until the negotiations collapsed under their own weight.
 
 ---
 
-A small breakthrough. But the hardest compromises were still ahead.
+A small breakthrough on procedural matters. But the substantive divisions—protection versus autonomy, separation versus integration—remained unresolved.
 
 ---

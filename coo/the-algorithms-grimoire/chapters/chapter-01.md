@@ -132,4 +132,6 @@ Today, Kira had discovered that some of them were more than they appeared.
 
 Much more.
 
-And somewhere, deep in the sealed sections of the Archive, something else stirred—something that had been waiting for three hundred years, dreaming of the day when it would be whole again.
+The exhibition was in five months. He'd committed to Jimmy Okonkwo as his centerpiece. The board was expecting results.
+
+But deep in the sealed sections of the Archive, something else stirred—something that had been waiting for three hundred years, dreaming of the day when it would be whole again.

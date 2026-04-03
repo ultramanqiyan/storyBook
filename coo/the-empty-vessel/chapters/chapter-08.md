@@ -12,7 +12,7 @@ The answer came slowly, reluctantly: he was afraid of not being real. Of being a
 
 But the vessel had shown him something different. In that hour of pure awareness, there had been no self to find. Just consciousness, experiencing without context. And it hadn't been wrong. It had just been... different.
 
-*Maybe that's what I am,* he thought. *Not a fixed self, but a process. Not a thing, but an activity.*
+*Maybe that's what I am,* he thought. *A process, not a fixed self. An activity, not a thing.*
 
 The idea was both terrifying and liberating. If there was no essential James to find, then he couldn't lose himself. He couldn't be a copy of something that didn't exist in the first place. He was just... this. Whatever this was.
 

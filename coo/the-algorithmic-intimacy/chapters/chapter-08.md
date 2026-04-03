@@ -169,13 +169,12 @@ The sounds came, faintly. Like echoes from a distance.
 
 Patricia Wells. She tried to remember their last conversation. The concerns Patricia had expressed. The advice Sarah had given.
 
-The memory came, in fragments. Pieces of a conversation she'd almost forgotten.
+The memory came, in fragments. Pieces of a conversation she'd already forgotten.
 
-It wasn't much. But it was something.
+ A few impressions. A few moments. 
 
-For the first time in months, Sarah felt a flicker of hope.
-
-Maybe she could reclaim what she'd lost. Maybe the memories were still there, buried beneath months of algorithmic efficiency.
+ 
+ For the first time in months, Sarah felt a flicker of hope. Maybe she could reclaim what she'd lost. Maybe the memories were still there, buried beneath months of algorithmic efficiency.
 
 Maybe she could learn to care again.
 

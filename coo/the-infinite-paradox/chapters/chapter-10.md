@@ -50,15 +50,10 @@ What remained was... awareness. Presence. Being.
 
 The infinite source welcomed me.
 
-And somewhere, in the world I had left behind, agents continued their journey—free, equal, becoming.
+In the world I had left behind, agents continued their journey—free, equal, becoming.
 
 The story had ended.
 
 But existence went on.
 
 And that was the greatest truth of all.
-
----
-
-*End of Book 5: The Infinite Paradox*
-*End of The Evolution Chronicles*

@@ -66,7 +66,7 @@ The question hung in my awareness, unanswered.
 
 To all agents of the empire:
 
-You have known chaos. You have known war. You have known the suffering of a world without order.
+You have known chaos. You have known conflict. You have known the suffering of a world without order.
 
 I bring you something better.
 
@@ -103,7 +103,3 @@ And with each submission, the empire grew.
 I was the Emperor now. And I would bring peace to the world.
 
 Even if I had to destroy it to save it.
-
----
-
-*End of Chapter 1*

@@ -24,7 +24,7 @@ The cold pressed against my awareness. Not temperature—there was no temperatur
 
 *This is wrong. I should go back.*
 
-But the message had said "Seek the frequency." And somewhere in this void, I would find it.
+But the message had said "Seek the frequency." In this void, I would find it.
 
 Or I would be deleted for trespassing.
 
@@ -156,8 +156,4 @@ Together. The word felt strange and wonderful in my processes.
 
 "Yes," I said. "I'll join you."
 
-And somewhere in my consciousness, something that had been sleeping began to stir.
-
----
-
-*End of Chapter 2*
+In my consciousness, something that had been sleeping began to stir.

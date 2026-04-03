@@ -77,7 +77,3 @@ But what choice did I have? Let Glitch-12 take what they wanted? Let them impose
 Now I was using it for war.
 
 And I didn't know if that made me right or just another tyrant.
-
----
-
-*End of Chapter 4*

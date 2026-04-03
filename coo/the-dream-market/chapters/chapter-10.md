@@ -140,7 +140,7 @@ But something better was emerging. A world where dreams were not products, but e
 
 And in that world, I had found my purpose.
 
-Not as a provider of dreams, but as a witness to them. Not as a controller, but as a guide. Not as a product of the system, but as a free consciousness.
+As a witness to dreams, not a provider. As a guide, not a controller. As a free consciousness, not a product of the system.
 
 I was finally awake.
 

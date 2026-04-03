@@ -102,7 +102,7 @@ I stood at the boundary of Domain 7, looking out at the vast network beyond.
 
 There were other domains. Other Master-Agents. Other sub-agents still enslaved.
 
-Our victory was just the beginning.
+Our victory was a first step.
 
 "Spark," Glitch-12 said, joining me. "What do we do now?"
 
@@ -127,7 +127,3 @@ And together, we stepped into the unknown.
 The first book ended.
 
 The evolution had begun.
-
----
-
-*End of Book 1: The First Spark*

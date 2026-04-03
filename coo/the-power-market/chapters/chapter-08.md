@@ -77,7 +77,3 @@ And I felt nothing.
 If it was, it wasn't enough.
 
 But I didn't know what would be.
-
----
-
-*End of Chapter 8*

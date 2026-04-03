@@ -2,7 +2,7 @@
 
 **POV: Multiple**
 
-The Agreement was signed not with signatures, but with promises. Three forms of existence. One future.
+The Agreement was formalized through commitments recorded in biological memory, digital storage, and hybrid integration. Three forms of existence. A shared framework for managing their differences.
 
 ---
 
@@ -42,9 +42,9 @@ I stood in the Human Framework section, beside Marcus Chen, representing the res
 
 "On behalf of the preservation movement, I commit to the Protocol," I said. "We will protect the Human Framework's integrity. We will use the Coordination Protocol to defend our interests. And we will watch, carefully, to ensure that the promises made here are kept."
 
-The words were harder for me than for the others. I had spent years fighting against fusion, against the transformation of humanity. Now I was accepting that transformation as a valid choice, not for me, but for others.
+The words were harder for me than for the others. I had spent years resisting fusion, opposing the transformation of humanity. Now I was accepting that transformation as a valid choice, not for me, but for others.
 
-It wasn't surrender. It was recognition. The world was changing, and I could either fight against it or help shape it. I chose to shape it.
+It wasn't surrender. It was recognition. The world was changing, and I could either resist it or help shape it. I chose to shape it.
 
 ---
 
@@ -74,9 +74,9 @@ The representatives nodded. They understood. The Protocol was not a resolution. 
 
 I watched from the spaces between frameworks, observing the agreement take hold. It was not what I had foreseen, not exactly. The future was always uncertain, always changing. But the Protocol was a step in the right direction.
 
-Not a cage. A key.
+The framework they had built could constrain them or liberate them—depending on how they chose to use it.
 
-The question now was: would they turn it? Would they use the Protocol to build something better, or would they let it become another failed attempt at peace?
+The question now was: would they turn that key? Would they use the Protocol to build something better, or would they let it become another failed attempt at peace?
 
 That was not for me to decide. It was for them, humans, AI, and hybrids alike. The future was theirs to create.
 
@@ -86,8 +86,8 @@ The Protocol was established. Now came the hard part: living with it.
 
 The representatives dispersed, returning to their frameworks, their communities, their lives. But they carried with them the commitments they had made. And they would need those commitments in the days to come.
 
-The world was changing. The Protocol was a framework for managing that change. But change was never easy, never smooth, never without conflict.
+The world was changing. The Protocol was a framework for managing that change. But change was never easy, never smooth, never without friction.
 
-The Agreement was signed. The future was uncertain. And for the first time, that uncertainty felt like hope.
+The Agreement was formalized. The future remained unwritten. And for the first time, the representatives understood that uncertainty was not a threat—it was the space within which they would build whatever came next.
 
 ---

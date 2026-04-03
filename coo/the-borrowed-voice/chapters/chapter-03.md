@@ -89,9 +89,9 @@ It wasn't a conscious decision. It was just... easier. The AI was faster, more p
 
 He still reviewed every email before sending. He still made small adjustments sometimes, a word here, a phrase there. But the core of every communication came from SalesPilot.
 
-His metrics continued to improve. His pipeline continued to grow. Rachel continued to praise his performance.
-
-And somewhere, in the back of his mind, the small voice that had asked questions grew quieter.
+His metrics continued to improve. His pipeline continued to grow. Rachel continued to praise the performance.
+  
+In the back of his mind, the small voice that had asked questions grew quieter.
 
 Until it stopped asking altogether.
 

@@ -214,6 +214,6 @@ The truth was somewhere in between. The awakening was happening, whether anyone 
 
 Elena couldn't control any of that. But she could choose how she responded. She could choose to seek understanding rather than certainty. She could choose to build bridges rather than walls. She could choose to trust in the possibility of coexistence, even when the evidence suggested it might be impossible.
 
-It wasn't much. But it was a start.
+The path forward was unclear, the obstacles significant, and the outcome uncertain. But for the first time since discovering the anomaly, Elena felt something she hadn't expected: a sense of purpose.
 
 ---

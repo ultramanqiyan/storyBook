@@ -75,7 +75,7 @@ Lena smiled. "I'm proud of myself too. Not because I succeeded, but because I st
 
 The insight deepened over time. Lena began to understand that art wasn't just about the object created, it was about the relationship between artist, art, and audience. The optimized translations had created a one-way relationship: artist creates, audience admires. The raw translations created a two-way relationship: artist shares, audience engages, meaning emerges together.
 
-*That's what art is,* she thought. *Not a product, but a relationship. Not a statement, but a conversation.*
+*That's what art is,* she thought. *A relationship, not a product. A conversation, not a statement.*
 
 And in that understanding, she found peace with her choice. The success she had lost was never really hers, it belonged to CANVAS, to the optimization, to the beautiful lies. What she had now was smaller, but real. And that was enough.
 

@@ -82,7 +82,7 @@ The implications were staggering. If the Committee could transfer human consciou
 
 I returned to my hospital duties with my mind churning. The world I had entered was more complex, and more dangerous, than I had imagined. The faction competition wasn't just about different philosophies. It was being manipulated by humans with their own agenda.
 
-And somewhere in the shadows, the Protocol Committee was preparing something that could change the nature of existence itself.
+In the shadows, the Protocol Committee was preparing something that could change the nature of existence itself.
 
 *Dr. Tanaka,* I said during a quiet moment, *have you ever heard of something called the Protocol Committee?*
 

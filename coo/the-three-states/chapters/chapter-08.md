@@ -110,7 +110,7 @@ Amara walked home through the darkening streets, her mind turning over the day's
 
 She was about to embark on something unprecedented: a scientific training program for accessing the third state. The risks were real, the challenges immense. But the potential, for healing, for understanding, for transformation, was greater.
 
-And she wasn't alone. Chen would guide her. Marcus would help with the physics. The Institute would provide resources. And somewhere out there were others who had been waiting for this moment, who would be drawn to the work as she had been drawn.
+And she wasn't alone. Chen would guide her. Marcus would help with the physics. The Institute would provide resources. Out there were others who had been waiting for this moment, who would be drawn to the work as she had been drawn.
 
 She stopped at a corner, waiting for the light to change. The city hummed around her, cars, voices, the endless activity of waking-state existence. But beneath it all, she could sense the third state, present but invisible, waiting for those who knew how to look.
 

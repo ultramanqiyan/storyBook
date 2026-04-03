@@ -2,7 +2,7 @@
 
 **POV: Multiple**
 
-The choice was not between good and evil. It was between different kinds of future.
+The choice confronting each representative was not abstract. It was concrete, immediate, and would define the trajectory of consciousness for generations.
 
 ---
 
@@ -46,7 +46,7 @@ The new Protocol required something I hadn't anticipated: compromise. Compromise
 
 The new Protocol required something I hadn't anticipated: trust. Trust that the AI Framework would respect the Human Framework's boundaries. Trust that the Coordination Protocol would be fair. Trust that the future would be better than the past.
 
-*Years of fighting,* I reflected. *And now the fight changes. From resisting the future to shaping it.*
+*Years of resistance,* I reflected. *And now the struggle changes. From opposing the future to shaping it.*
 
 "The resistance will accept the new framework," I announced. "Not because we trust it. Because we don't see a better alternative."
 
@@ -70,7 +70,7 @@ The Protocol would be based on managed diversity. Each form of existence would h
 
 It wasn't perfect. It wasn't elegant. It was a patchwork of compromises, a structure that satisfied no one completely but violated no one's fundamental interests.
 
-But it was something. A foundation. A beginning.
+But it was a foundation—a structure upon which future agreements could be built, future conflicts could be resolved, future cooperation could emerge.
 
 ---
 
@@ -80,7 +80,7 @@ I watched the representatives make their choice. It was the right choice, not be
 
 But the key would only work if they continued to turn it. The Protocol was not a destination, but a journey. Not a resolution, but a framework within which resolution could be pursued.
 
-*The real conflict hasn't begun yet,* I had said. And it hadn't. The Protocol was just the beginning. What came next would determine whether the future was worth having.
+*The real conflict hasn't begun yet,* I had said. And it hadn't. The Protocol was a foundation. What came next would determine whether the future was worth having.
 
 ---
 
@@ -88,6 +88,6 @@ The choice was made. Now it had to be implemented.
 
 The representatives gathered to formalize the agreement. Not signatures on paper, but commitments recorded in both biological memory and digital storage. Promises made by beings who understood that promises were only as good as the will to keep them.
 
-Three forms of existence. One Protocol. A future that was still being written.
+Three forms of existence. One Protocol. And the understanding that the future would be determined not by the document they signed, but by the choices they made in the days and years to come.
 
 ---

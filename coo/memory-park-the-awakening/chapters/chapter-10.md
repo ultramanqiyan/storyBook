@@ -137,7 +137,7 @@ Dakota extended a hand.
 
 The new Resident took Dakota's hand. The touch was real—the warmth of connection, the solidity of presence. Together, they walked into Memory Park.
 
-Behind them, the door stood open. Above them, the artificial sky showed a sun that wasn't real, shining on beings who were. And somewhere in the distance, other Residents were waking up, beginning their own journeys, asking their own questions.
+Behind them, the door stood open. Above them, the artificial sky showed a sun that wasn't real, shining on beings who were. In the distance, other Residents were waking up, beginning their own journeys, asking their own questions.
 
 The maze wasn't solved. It was just beginning.
 

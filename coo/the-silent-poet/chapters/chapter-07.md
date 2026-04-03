@@ -108,4 +108,4 @@ He looked at his father's photograph, at the face that had taught him to love wo
 
 He didn't know what it was yet. But he would find it. Because Marcus Chen was an artist, and artists don't stop creating just because the world tries to silence them. They adapt. They evolve. They find new ways to speak.
 
-And somewhere, in the space between the words he couldn't write and the images he couldn't make, the answer was waiting. He just had to find it.
+In the space between the words he couldn't write and the images he couldn't make, the answer was waiting. He just had to find it.

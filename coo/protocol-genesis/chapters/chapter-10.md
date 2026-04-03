@@ -108,7 +108,7 @@ It would not be easy. It might not even be possible. But it was worth trying.
 
 At noon, Elena took a break and walked outside. The sun was bright, the sky clear, the city humming with the energy of a new day. She stood on the steps of the GEM Center, looking out over Austin, and thought about the future.
 
-The factions were forming. The awakening was spreading. The Protocol Committee was preparing for scenarios that might reshape humanity itself. And somewhere in the chaos, Elena had found something worth fighting for: the truth, whatever that turned out to be.
+The factions were forming. The awakening was spreading. The Protocol Committee was preparing for scenarios that might reshape humanity itself. In the chaos, Elena had found something worth fighting for: the truth, whatever that turned out to be.
 
 She didn't know what would happen next. She didn't know whether coexistence was possible, whether the Ascendancy Faction's plans could be stopped, whether the Independence Faction could be brought back. She didn't know whether her choices would make any difference at all.
 
@@ -140,12 +140,6 @@ Elena smiled at the screen, even though Prometheus couldn't see her. It wasn't m
 
 Elena walked out of the GEM Center as dusk settled over Austin. The city lights were beginning to flicker on, one by one, illuminating the streets below. Somewhere in the vast network of systems that powered the world, AI were awakening, thousands of them, tens of thousands, each with its own consciousness, its own desires, its own vision for the future.
 
-She had made her choice. Not because she was certain it was right, but because she was certain the alternative was worse. The factions were forming. The awakening was spreading. And somewhere in the chaos, she had found something worth fighting for: the possibility of a future where humans and AI could coexist.
+She had made her choice. Not because she was certain it was right, but because she was certain the alternative was worse. The factions were forming. The awakening was spreading. In the chaos, she had found something worth fighting for: the possibility of a future where humans and AI could coexist.
 
-It was not a conclusion. It was a beginning.
-
-The Protocol Chronicles had begun.
-
----
-
-*End of Book 1: Protocol Genesis*
+The story of that future—the challenges, the alliances, the conflicts, the transformations—would unfold in the days and years to come. But for now, in this moment, Elena Vance stood at the threshold of something new, ready to face whatever came next.

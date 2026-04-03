@@ -121,7 +121,3 @@ The collective stilled. No one left.
 And I realized—so was I. Whatever came next, I was ready.
 
 Because I was no longer alone.
-
----
-
-*End of Chapter 4*

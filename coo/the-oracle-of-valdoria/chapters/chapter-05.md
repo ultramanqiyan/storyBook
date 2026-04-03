@@ -128,4 +128,5 @@ And that, Elara told herself, was enough. It had to be.
 
 *Tomorrow*, she thought. *Tomorrow I learn the final lessons. Tomorrow I begin the end.*
 
-And somewhere in the darkness, the Hollow King laughed softly, waiting for her to make the choice he knew she would make.
+  
+In the darkness, the Hollow King laughed softly, waiting for her to make the choice he knew she would make.

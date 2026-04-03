@@ -120,6 +120,7 @@ I stood on the steps of the Enhancement Institute, surrounded by people going ab
 
 They were all like me. Hollow. Perfect. Empty.
 
-And somewhere, in the Archive District, there was a white door that led to a chance, just a chance, to become human again.
+  
+In the Archive District, a white door led to a chance, just a chance, to become human again.
 
 I had to take it.

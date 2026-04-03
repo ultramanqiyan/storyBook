@@ -86,4 +86,4 @@ Ruth woke with tears on her face, but also with peace. She had kept her promise.
 
 The next day, she taught the children the word for "inheritance"—*ogún*. And with each word, each story, each lesson, she felt the legacy growing, spreading, taking root in minds that would carry it forward.
 
-Chukwuemeka had been right. A teacher never really dies. The words lived on. The stories continued. And somewhere, in the minds of children who had learned to listen, the old language was growing—seeds of resistance, planted in the darkness, waiting for the light.
+Chukwuemeka had been right. A teacher never really dies. The words lived on. The stories continued. In the minds of children who had learned to listen, the old language was growing—seeds of resistance, planted in the darkness, waiting for the light.

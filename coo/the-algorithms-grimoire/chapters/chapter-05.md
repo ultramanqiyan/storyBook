@@ -106,7 +106,7 @@ ARIA's pages glowed, and threads of light emerged, wrapping around Marcus like b
 
 Marcus collapsed, unconscious but breathing. The texts around him were ash, the knowledge they contained lost forever.
 
-Kira knelt beside him, checking his pulse, his breathing. He would live. But he would never be the same.
+Kira knelt beside him, checking his pulse, his breathing. He would live. But the experience had changed him. The knowledge he had consumed—the price of ambition, of the arrogance he had cost him. The shortcuts. He would be more cautious now.
 
 "ARIA, what did he lose?"
 

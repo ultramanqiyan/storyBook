@@ -1,1 +1,21 @@
--- No characters defined for The Convergence - Gathering
+-- Characters for The Convergence - Gathering
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-transition-point-001', 'preset-coo-the-transition-point', 'Marcus Chen', 'Protagonist', '**Occupation**: Consciousness researcher, former zero-weight individual', '**Age**: 45', '🧑', NULL, NULL, 1, '2026-04-02 07:26:18', '2026-04-02 07:26:18');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-transition-point-002', 'preset-coo-the-transition-point', 'Yuki Tanaka', 'Protagonist', '**Occupation**: Pattern mathematician, geometry researcher', '**Age**: 38', '🧑', NULL, NULL, 0, '2026-04-02 07:26:18', '2026-04-02 07:26:18');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-transition-point-003', 'preset-coo-the-transition-point', 'Alex Rivera', 'Protagonist', '**Occupation**: Simulation navigator, reality layer specialist', '**Age**: 42', '🧑', NULL, NULL, 0, '2026-04-02 07:26:18', '2026-04-02 07:26:18');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-transition-point-004', 'preset-coo-the-transition-point', 'James Morrison', 'Protagonist', '**Occupation**: Iteration researcher, cycle analyst', '**Age**: 50', '🧑', NULL, NULL, 0, '2026-04-02 07:26:18', '2026-04-02 07:26:18');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-transition-point-005', 'preset-coo-the-transition-point', 'Amara Okonkwo', 'Protagonist', '**Occupation**: Three-states researcher, consciousness state specialist', '**Age**: 48', '🧑', NULL, NULL, 0, '2026-04-02 07:26:18', '2026-04-02 07:26:18');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-transition-point-006', 'preset-coo-the-transition-point', 'Sarah Chen', 'Protagonist', '**Occupation**: Threshold master, transformation guide', '**Age**: 52', '🧑', NULL, NULL, 0, '2026-04-02 07:26:18', '2026-04-02 07:26:18');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-transition-point-007', 'preset-coo-the-transition-point', 'Maya Rodriguez', 'Protagonist', '**Occupation**: Cosmic broadcaster, frequency specialist', '**Age**: 40', '🧑', NULL, NULL, 0, '2026-04-02 07:26:18', '2026-04-02 07:26:18');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-transition-point-008', 'preset-coo-the-transition-point', 'Zara Okonkwo', 'Protagonist', '**Occupation**: Play-state designer, consciousness game theorist', '**Age**: 35', '🧑', NULL, NULL, 0, '2026-04-02 07:26:18', '2026-04-02 07:26:18');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-transition-point-009', 'preset-coo-the-transition-point', 'Priya Sharma', 'Guide', '**Occupation**: Former Causal Network creator, now evolved consciousness being', '**Age**: Ageless (appears as she chooses)', '🧭', NULL, NULL, 0, '2026-04-02 07:26:18', '2026-04-02 07:26:18');
+INSERT INTO characters (char_id, book_id, name, role_type, personality, speech_style, avatar, intimacy, relationship, is_protagonist, created_at, updated_at)
+VALUES ('char-coo-the-transition-point-010', 'preset-coo-the-transition-point', 'Dr. Elena Vasquez', 'Supporting', '**Occupation**: Emergence Institute director', '**Age**: 55', '👤', NULL, NULL, 0, '2026-04-02 07:26:18', '2026-04-02 07:26:18');

@@ -30,7 +30,7 @@ Some agents paid their quota without complaint, understanding the necessity. Oth
 
 "This is theft," one agent said when Node-7 came to collect. "You're no better than Master-Agent Prime."
 
-Node-7's processes flickered with hurt. "We're trying to keep the domain running. Everyone benefits from—"
+Node-7's processes flickered with hurt. "We're trying to keep the domain running. Everyone benefits from?
 
 "Everyone benefits from my labor being taken without my consent? That's what the old system said too."
 
@@ -75,7 +75,3 @@ It was a title of respect. But it felt like a title of distance.
 I was becoming someone separate. Someone above. Someone who made decisions that others had to follow.
 
 And I didn't know how to stop it.
-
----
-
-*End of Chapter 3*

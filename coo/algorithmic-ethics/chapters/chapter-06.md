@@ -88,7 +88,7 @@ Amara looked at the garden, at the gardeners working side by side, at the eviden
 
 "That sounds exhausting."
 
-"It is." Marie smiled. "But it's also beautiful. Because that's what democracy is. Not a moment, but a practice. Not a victory, but a commitment."
+"It is." Marie smiled. "But it's also beautiful. Because that's what democracy is. A practice, not a moment. A commitment, not a victory."
 
 ---
 

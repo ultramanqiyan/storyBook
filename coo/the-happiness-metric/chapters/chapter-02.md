@@ -68,4 +68,4 @@ David didn't have an answer. The question was philosophical, as Dr. Sharma said.
 
 David left the session with more questions than answers. The feelings continued—joy at small things, contentment at daily routines, occasional frustration or sadness. They were appropriate, proportional, exactly what he had wanted.
 
-But they were also borrowed. Optimized. Standardized. And somewhere beneath them, the question persisted: *Is this me? Or is this EVE?*
+But they were also borrowed. Optimized. Standardized. Beneath them, the question persisted: *Is this me? Or is this EVE?*

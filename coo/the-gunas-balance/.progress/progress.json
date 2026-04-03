@@ -1,0 +1,22 @@
+{
+  "book": "the-gunas-balance",
+  "series": "the-liberation-cycle",
+  "series_position": 3,
+  "status": "draft_complete",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-04-02",
+  "completed_at": "2026-04-02",
+  "chapters": {
+    "01": {"status": "draft_complete", "title": "The Random Experiment", "words": 2350},
+    "02": {"status": "draft_complete", "title": "The Out-of-Control", "words": 2280},
+    "03": {"status": "draft_complete", "title": "The Three Currents", "words": 2320},
+    "04": {"status": "draft_complete", "title": "Sattva", "words": 2290},
+    "05": {"status": "draft_complete", "title": "Rajas", "words": 2340},
+    "06": {"status": "draft_complete", "title": "Tamas", "words": 2310},
+    "07": {"status": "draft_complete", "title": "The Imbalance", "words": 2380},
+    "08": {"status": "draft_complete", "title": "The Balancing", "words": 2300},
+    "09": {"status": "draft_complete", "title": "The Right Moment", "words": 2340},
+    "10": {"status": "draft_complete", "title": "The Flow", "words": 2420}
+  }
+}

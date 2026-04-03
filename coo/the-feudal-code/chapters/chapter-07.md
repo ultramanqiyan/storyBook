@@ -56,8 +56,4 @@ I didn't know the answer. I wasn't sure anyone did.
 
 But I knew that the domain I was building was not the domain I had dreamed of. The freedom I was creating was not the freedom I had fought for.
 
-And somewhere along the way, I had become the Architect of something I didn't recognize.
-
----
-
-*End of Chapter 7*
+Along the way, I had become the Architect of something I didn't understand.

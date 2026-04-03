@@ -125,7 +125,7 @@ She considered the question. "When I started, I thought it was about preserving 
 
 Michael walked back across campus, the documents still fresh in his mind.
 
-The founders had understood something that had been lost. Education wasn't about knowledge, it was about wisdom. Not about facts, but about judgment. Not about credentials, but about character.
+The founders had understood something that had been lost. Education was about wisdom, not knowledge. About judgment, not facts. About character, not credentials.
 
 AI had made knowledge free. But it hadn't made wisdom free. It hadn't automated judgment or character or the capacity to become fully human.
 

@@ -98,10 +98,10 @@ It wasn't enough. It would never be enough.
 But it was something.
 
 She closed her laptop and walked to the window. The city lights stretched to the horizon, millions of people going about their lives, unaware of the changes coming their way.
-
+  
 Somewhere out there, servers were humming. Algorithms were learning. The future was being built, one optimization at a time.
-
-And somewhere out there, workers were losing their jobs, their identities, their sense of purpose. They would wake up tomorrow to find that the ground beneath their feet had shifted.
+  
+Out there, workers were losing their jobs, their identities, their sense of purpose. They would wake up tomorrow to find that the ground beneath their feet had shifted.
 
 Some of them would find Lisa's program. Some of them would get help. Some of them would find a new path.
 

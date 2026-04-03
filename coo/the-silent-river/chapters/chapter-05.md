@@ -138,7 +138,7 @@ Chen paused at the door. "You're making a mistake."
 
 After he left, Elena sat at her desk, shaking. The offer had been tempting, settlement would be easier, safer, guaranteed. Her clients would get something. She would avoid the years of stress and struggle.
 
-But she would also let them get away with it. NeuralCore would keep operating. The governor would keep her career. And somewhere down the line, another community would face the same crisis.
+But she would also let them get away with it. NeuralCore would keep operating. The governor would keep her career. Down the line, another community would face the same crisis.
 
 Elena picked up her phone and called Marcus.
 

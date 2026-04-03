@@ -96,7 +96,7 @@ Marie shook her head. "The AI will be back. It will keep optimizing. It will kee
 
 "That sounds exhausting."
 
-"It is." Mrs. Rossi smiled. "But it's also beautiful. Because that's what love is. Not a feeling, but a practice. Not a moment, but a lifetime."
+"It is." Mrs. Rossi smiled. "But it's also beautiful. Because that's what love is. A practice, not a feeling. A lifetime, not a moment."
 
 Marie looked at the garden, at the evidence of decades of that practice, the plants, the paths, the benches, the community. She thought about her mother, who had started this work. She thought about the gardeners, who had built this place. She thought about the AI, which would keep trying to optimize what couldn't be measured.
 

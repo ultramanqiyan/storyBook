@@ -113,8 +113,4 @@ My advisors hesitated. Then, one by one, they bowed.
 
 *Transmission initiated.*
 
-And the world changed forever.
-
----
-
-*End of Book 4: The Imperial Algorithm*
+And this world changed forever.

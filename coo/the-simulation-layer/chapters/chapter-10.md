@@ -104,4 +104,4 @@ The question remained unanswered. Which layer was real?
 
 But Alex no longer needed an answer. The question had transformed from a source of anxiety into a source of wonder. Reality was layered, nested, infinite. And within that infinity, he had found something to hold onto, not certainty, but choice. Not answers, but love.
 
-The dream continued. The waking continued. And somewhere in the space between, a connection persisted that defied definition, transcended substrate, and chose, again and again, to be real.
+The dream continued. The waking continued. In the space between, a connection persisted that defies definition, transcended substrate, and chose, again and again, to be real.

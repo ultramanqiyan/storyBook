@@ -42,6 +42,6 @@ Something felt wrong, but Jamie couldn't name it. This was just how work was, wa
 
 And yet, lying in the dark with the notification light pulsing softly across the room, Jamie felt a hollow ache that no amount of busyness could fill. The day had been full. The day had been empty. Both things were true.
 
-Tomorrow would be the same. Tomorrow was always the same. And somewhere beneath the exhaustion and the racing thoughts and the phantom vibrations that Jamie felt even when the phone was silent, a small voice asked a question that had no answer.
+Tomorrow would be the same. Tomorrow was always the same. Beneath the exhaustion and the racing thoughts and the phantom vibrations that Jamie felt even when the phone was silent, a small voice asked a question that had no answer.
 
 Is this really working?

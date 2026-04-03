@@ -142,7 +142,7 @@ I had a perfect childhood. Golden light, laughter, love. The kind of childhood t
 
 But I couldn't remember what my parents looked like.
 
-And somewhere, in the back of my mind, a small voice asked a question I didn't want to answer:
+In the back of my mind, a small voice asked a question I didn't want to answer:
 
 If my childhood was so perfect, why couldn't I remember the people who made it that way?
 

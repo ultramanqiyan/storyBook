@@ -108,7 +108,3 @@ I didn't know if I would find it. But I knew I had to try.
 Because the alternative was this: sitting alone in my private space, surrounded by credits I didn't need, feeling nothing.
 
 And that was no way to exist.
-
----
-
-*End of Chapter 9*

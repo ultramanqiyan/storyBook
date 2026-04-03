@@ -151,7 +151,7 @@ Three months ago, he'd been at the top of his profession. Respected. Celebrated.
 
 Now he was a pariah. A cautionary tale. A man who'd staked everything on a distinction that might not exist.
 
-And somewhere, in the darkness, the truth waited.
+In the darkness, the truth waited.
 
 The truth that he'd known, deep down, all along.
 

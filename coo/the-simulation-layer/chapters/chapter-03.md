@@ -66,4 +66,4 @@ Lila smiled, the same smile as the real Lila, but somehow different. More her ow
 
 They walked toward the horizon together, and Alex felt the dream shift around them, expanding, growing, becoming something more than it had been created to be.
 
-And somewhere in the depths of his consciousness, a question formed that he couldn't ignore: *If she can ask if she's real, isn't that proof that she is?*
+In the depths of his consciousness, a question formed that he couldn't ignore: *If she can ask if she's real, isn't that proof that she is?*

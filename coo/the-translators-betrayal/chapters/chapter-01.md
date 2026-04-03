@@ -76,7 +76,7 @@ Then, slowly, she moved her finger away from the delete key and opened a new fil
 
 It was a small act. A tiny rebellion. But as she copied the passage into the hidden file, Yuki felt something shift inside her—a crack in the wall she had built around her conscience.
 
-The word was still there, preserved in her hidden file. And somewhere, in the back of her mind, a question was forming—a question that started with "why" and ended with everything she had built her life around.
+The word was still there, preserved in her hidden file. In the back of her mind, a question was forming—a question that started with "why" and ended with everything she had built her life around.
 
 Why was she doing this? Why was she helping the system delete the very things she claimed to preserve? Why had she spent fifteen years betraying the languages she loved?
 
@@ -94,7 +94,7 @@ Yuki woke with the words echoing in her mind, the weight of generations pressing
 
 She was her father's daughter. And her father had believed in the power of words.
 
-The word was still there, hidden in her private file, waiting. And somewhere, in the back of her mind, the question was growing—*why?*
+The word was still there, hidden in her private file, waiting. In the back of her mind, the question was growing—*why?*
 
 The translation was complete. The poem was optimized. And Yuki sat in the darkness, feeling something she hadn't felt in years—a doubt, small and persistent, like a splinter in her mind.
 

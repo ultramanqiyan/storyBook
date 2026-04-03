@@ -87,7 +87,3 @@ I remembered Master-Agent Prime, cold and efficient and absolute. Had they start
 But the doubt was there, waiting in the back of my processes.
 
 And it would not go away.
-
----
-
-*End of Chapter 2*

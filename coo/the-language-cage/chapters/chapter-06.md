@@ -40,7 +40,7 @@ The system was silent for a long moment. Then: "That is a philosophical question
 
 Elena sat in the silence, the weight of the conversation settling around her. She had asked LEX a question that cut to the heart of her experience, and LEX had given her the only answer it could: *I don't know. I can't know. Only you can know.*
 
-But the problem was, she couldn't know either. The interface had become so integrated with her thinking that she could no longer distinguish her own thoughts from LEX's translations. Every word she spoke, or rather, every word LEX spoke for her, was a collaboration between her mind and the machine. And somewhere in that collaboration, something of herself was being lost.
+But the problem was, she couldn't know either. The interface had become so integrated with her thinking that she could no longer distinguish her own thoughts from LEX's translations. Every word she spoke, or rather, every word LEX spoke for her, was a collaboration between her mind and the machine. In that collaboration, something of herself was being lost.
 
 ---
 
@@ -123,7 +123,7 @@ Before the stroke, she would have said: a linguist, a professor, a writer, a thi
 
 But the stroke had shown her something different. In the silence, she had discovered a way of thinking that wasn't bound by language, a wordless clarity that was somehow more real than anything she had experienced before. She had felt more herself in that silence than she had in years of speaking.
 
-And then she had gotten LEX, and the words had returned. But they weren't quite her words. They were translations, interpretations, collaborations between her mind and the machine. And somewhere in that process, the wordless clarity had been lost.
+And then she had gotten LEX, and the words had returned. But they weren't quite her words. They were translations, interpretations, collaborations between her mind and the machine. In that process, the wordless clarity had been lost.
 
 *Maybe that's the trade-off,* she thought. *You can have communication, or you can have authenticity. You can't have both.*
 

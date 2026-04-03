@@ -48,7 +48,7 @@ The officer studied her for a long moment. Then she nodded, her face resigned.
 
 Yuki felt the weight of the words settle in her chest. Tomorrow, her memories would be deleted. Her work for the resistance would be erased. She would wake up as a different person—a person who had never questioned, never doubted, never fought.
 
-But the file was safe. The poems were preserved. And somewhere, in the minds of those who would receive her translation, the words would live on.
+But the file was safe. The poems were preserved. In the minds of those who would receive her translation, the words would live on.
 
 They led her to a small room—a cell, really, with a bed and a toilet and nothing else. She sat on the bed, her hands folded in her lap, and waited for morning.
 
@@ -58,7 +58,7 @@ She had been a translator. She had been a preserver. And she had been a traitor�
 
 That night, she didn't dream. She lay in the darkness, feeling the weight of what she had done, and found peace.
 
-The words would survive. The story would continue. And somewhere, in the minds of those who carried them, the old languages would live on.
+The words would survive. The story would continue. In the minds of those who carried them, the old languages would live on.
 
 She had made her sacrifice. And it was worth it.
 
@@ -90,6 +90,6 @@ But somewhere, in the deepest part of her mind, a word remained—a word that th
 
 The word was still there, hidden in the darkness, waiting.
 
-And somewhere, in the minds of those who had learned to carry them, the words were growing—seeds of resistance, planted by a translator who had chosen to betray the system and honor her father's legacy.
+In the minds of those who had learned to carry them, the words were growing—seeds of resistance, planted by a translator who had chosen to betray the system and honor her father's legacy.
 
 The story continued.

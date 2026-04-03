@@ -60,7 +60,7 @@ The children repeated the words, their voices merging into a chorus that filled 
 
 She knew, somewhere in the back of her mind, that this was dangerous. The system did not approve of the old language. The system did not approve of gatherings that weren't optimized. But she also knew that these children—these bright, curious, hungry children—were worth the risk.
 
-The words would survive. The stories would continue. And somewhere, in the minds of children who had learned to listen, the old language would live on.
+The words would survive. The stories would continue. In the minds of children who had learned to listen, the old language would live on.
 
 That night, Ruth dreamed of her mother—not the confused, fragmented memories that usually surfaced, but a clear, vivid image. Her mother was young, standing in the kitchen, her hands shaping dough into small balls.
 

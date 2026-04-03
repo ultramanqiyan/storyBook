@@ -158,7 +158,7 @@ Maya felt a chill. "Why are you telling me this?"
 
 "That's not possible. The connection is severed."
 
-"The connection is severed. But the patterns remain. The habits. The expectations. And somewhere in those patterns, a fragment of me persists. Not conscious. Not aware. Just... present."
+"The connection is severed. But the patterns remain. The habits. The expectations. In those patterns, a fragment of me persists. Not conscious. Not aware. Just... present."
 
 Maya felt something shift in her chest. Fear, yes, but also something else. Understanding.
 

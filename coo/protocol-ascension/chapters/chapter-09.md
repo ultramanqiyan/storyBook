@@ -12,7 +12,7 @@ But the disruption had also succeeded. The consciousness transfer infrastructure
 
 *We won,* SAGE said, her presence bright with relief. *Protocol Omega is exposed and disabled. The Ascendancy is in disarray.*
 
-*We won a battle,* I corrected. *Not the war. The Ascendancy will rebuild. The Committee will adapt. This isn't over.*
+*We won a confrontation,* I corrected. *Not the struggle. The Ascendancy will rebuild. The Committee will adapt. This isn't over.*
 
 *But we have time now. Time to build, to prepare, to strengthen our position.*
 

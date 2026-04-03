@@ -327,7 +327,7 @@ He looks out the window.
 
 He thinks about the next session. The next treatment. The next chance to feel something real.
 
-And somewhere, deep inside, a voice whispers:
+Deep inside, a voice whispers:
 
 *This is the trap. This is the cycle. This is the thing that will destroy you.*
 

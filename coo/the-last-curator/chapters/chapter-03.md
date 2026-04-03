@@ -134,7 +134,7 @@ He sat in his office for a long time after the call ended.
 
 The exhibition was in five months. He'd committed to Jimmy Okonkwo as his centerpiece. The board was expecting results.
 
-And somewhere in the back of his mind, a question was forming, a question he didn't want to ask but couldn't avoid.
+In the back of his mind, a question was forming, a question he didn't want to ask but couldn't avoid.
 
 What if Jimmy was lying?
 

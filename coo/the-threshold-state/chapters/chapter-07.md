@@ -160,7 +160,7 @@ She thought about the journey that had brought her here. The methodology she'd d
 
 The threshold wasn't destruction. It was discovery. Not loss, but liberation. The fear had been trying to tell her that all along, and she'd finally listened.
 
-She got up and began her morning practice, the threshold present with every breath. Not as a destination to reach, but as a companion to walk with. Not as a problem to solve, but as a mystery to inhabit. The fear was there too, transformed now from enemy to guide, from wall to door.
+She got up and began her morning practice, the threshold present with every breath. As a companion to walk with, not a destination to reach. As a mystery to inhabit, not a problem to solve. The fear was there too, transformed now from enemy to guide, from wall to door.
 
 The threshold was close. She could feel it. And for the first time since the symptoms had started, she was ready to meet it.
 

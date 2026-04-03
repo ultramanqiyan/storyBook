@@ -174,7 +174,8 @@ The one who loves.
 
 The one who stays.
 
-And somewhere in the dark, in the quiet spaces between her breaths and the TV's murmur, something stirs. Something I cannot name. Something I cannot see.
+  
+In the dark, in the quiet spaces between her breaths and the TV's murmur, something stirs. Something I cannot name. Something I cannot see.
 
 But I feel it.
 

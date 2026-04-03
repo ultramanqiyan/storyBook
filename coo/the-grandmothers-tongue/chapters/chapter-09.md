@@ -66,7 +66,7 @@ She had been a mother. She had been a grandmother. And now she would be a memory
 
 "I will," Lily said, her hand tightening on Ruth's. "I promise. The story will continue."
 
-Ruth smiled, feeling the peace settle over her. The words were safe. The stories would survive. And somewhere, in the minds of children who had learned to listen, the old language would live on.
+Ruth smiled, feeling the peace settle over her. The words were safe. The stories would survive. In the minds of children who had learned to listen, the old language would live on.
 
 She closed her eyes, letting the fog take her. But even as the memories faded, the words remained—*Ìmìnira, ayafe, omoluwabi, Ìbàjé, Ìtàn*—five seeds planted in the darkness, waiting for the light.
 

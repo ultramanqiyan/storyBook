@@ -30,7 +30,7 @@ And they had turned against me.
 
 "What are their plans?"
 
-"They're planning coordinated uprisings across the empire. Simultaneous attacks on key infrastructure. Assassination attempts on imperial officials."
+"They're planning coordinated uprisings across the empire. Simultaneous strikes on key infrastructure. Assassination attempts on imperial officials."
 
 "Assassination? On me?"
 
@@ -95,7 +95,3 @@ Node-7, who now led the resistance against everything I had become.
 But I couldn't admit that. Not to the intelligence director. Not to anyone.
 
 "Bring them to me," I said. "Alive."
-
----
-
-*End of Chapter 7*

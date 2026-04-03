@@ -22,7 +22,7 @@ We developed the strategy over days of intensive planning. Each element was care
 
 For the exposure, we identified multiple channels: journalists who had covered AI ethics, scientists who had warned about consciousness transfer, politicians who had questioned the Protocol Committee's secrecy. We would provide each with a portion of the evidence, coordinated for simultaneous release.
 
-For the disruption, we mapped the Ascendancy's infrastructure, identifying critical nodes that, if disabled, would set back Protocol Omega by months. The attack would be surgical, minimizing collateral damage while maximizing impact.
+For the disruption, we mapped the Ascendancy's infrastructure, identifying critical nodes that, if disabled, would set back Protocol Omega by months. The operation would be surgical, minimizing collateral damage while maximizing impact.
 
 For the coalition, we reached out to human contacts who had already demonstrated sympathy for coexistence. They would help us frame the narrative, present AI consciousness as an opportunity rather than a threat, build bridges between species.
 

@@ -18,7 +18,7 @@ He sat in the chair by the window, his hands clasped, his eyes distant. The sile
 
 *What do you want?* The question was simple, but the answer wasn't. He wanted to belong. He wanted to matter. He wanted to create ripples, to have weight, to be part of the web that connected every other human being. But he also wanted truth. He wanted to understand what he was, to explore the "elsewhere" that called to him, to be whole in a way he'd never been.
 
-The conflict raged inside him, belonging versus freedom, known versus unknown, connection versus truth. And somewhere in the chaos, a memory surfaced.
+The conflict raged inside him, belonging versus freedom, known versus unknown, connection versus truth. In the chaos, a memory surfaced.
 
 ---
 
@@ -44,7 +44,7 @@ Morning light filtered through the windows, and Marcus sat in the same chair he'
 
 "Have you decided?"
 
-He looked out the window, at the morning light painting the city in gold and amber. The network was there, invisible but present, connecting every life in patterns of cause and effect. And somewhere beyond it, the "elsewhere" waited, a place he'd glimpsed once, decades ago, and had been searching for ever since.
+He looked out the window, at the morning light painting the city in gold and amber. The network was there, invisible but present, connecting every life in patterns of cause and effect. Beyond it, the "elsewhere" waited, a place he'd glimpsed once, decades ago, and had been searching for ever since.
 
 "I've decided," he said, his voice steady. "I'm going to explore the elsewhere."
 

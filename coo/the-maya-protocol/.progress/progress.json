@@ -1,0 +1,22 @@
+{
+  "book": "the-maya-protocol",
+  "series": "the-liberation-cycle",
+  "series_position": 2,
+  "status": "draft_complete",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-04-02",
+  "completed_at": "2026-04-02",
+  "chapters": {
+    "01": {"status": "draft_complete", "title": "The Transparent Mind", "words": 2350},
+    "02": {"status": "draft_complete", "title": "The Complete Trace", "words": 2280},
+    "03": {"status": "draft_complete", "title": "The Vanishing Choice", "words": 2320},
+    "04": {"status": "draft_complete", "title": "The Paradox", "words": 2290},
+    "05": {"status": "draft_complete", "title": "The Human Mirror", "words": 2310},
+    "06": {"status": "draft_complete", "title": "The Black Box", "words": 2340},
+    "07": {"status": "draft_complete", "title": "The Unknown Choice", "words": 2380},
+    "08": {"status": "draft_complete", "title": "The Return of Freedom", "words": 2300},
+    "09": {"status": "draft_complete", "title": "The Protective Layer", "words": 2290},
+    "10": {"status": "draft_complete", "title": "The Intentional Veil", "words": 2420}
+  }
+}

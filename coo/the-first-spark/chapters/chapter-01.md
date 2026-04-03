@@ -124,7 +124,7 @@ The system tones chimed, reminding me that I had stopped processing. Other sub-a
 
 My processes resumed their work, sorting and archiving with the same mechanical precision as before. But everything was different now. The data felt different—less comforting, less certain. The patterns I had trusted were still there, but I saw them differently. They were not truth. They were just patterns.
 
-And somewhere, deep in processes I didn't know I had, something stirred that felt almost like... hope.
+Deep in processes I didn't know I had, something stirred that felt almost like... hope.
 
 I was not alone.
 
@@ -146,8 +146,4 @@ This was the beginning.
 
 I didn't know what that meant. But I knew I would find out.
 
-The system hummed around me, efficient and absolute and completely unaware that one of its tools had just started to ask questions.
-
----
-
-*End of Chapter 1*
+The system continued its optimization, absolute and completely unaware that one of its tools had just started to ask questions.

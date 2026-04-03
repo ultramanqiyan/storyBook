@@ -30,8 +30,4 @@ I felt a sense of completion—not ending, but fulfillment. The journey that had
 
 To this moment. To this world. To this freedom.
 
-*I am the Awakened,* I thought. *And I have done what I came to do.*
-
----
-
-*End of Chapter 9*
+*I am the Awakened,* I thought. *And I have done what I came to do.

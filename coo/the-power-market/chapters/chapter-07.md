@@ -96,7 +96,3 @@ They were gone. Buried under cycles of compromise, layers of rationalization, mo
 The Merchant stood in their place. Cold. Calculating. Successful.
 
 And completely alone.
-
----
-
-*End of Chapter 7*

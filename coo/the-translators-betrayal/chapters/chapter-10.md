@@ -38,7 +38,7 @@ The next day, she went to work as usual. But something was different now. Every 
 
 She began to save the passages that the system flagged for deletion—poems, stories, fragments of literature that carried culture and history. She didn't know why. She couldn't remember. But it felt right.
 
-And somewhere, in the minds of those who had learned to carry them, the words were growing—seeds of resistance, planted by a translator who had chosen to betray the system and honor her father's legacy.
+In the minds of those who had learned to carry them, the words were growing—seeds of resistance, planted by a translator who had chosen to betray the system and honor her father's legacy.
 
 ---
 
@@ -56,17 +56,17 @@ The young woman was quiet for a long moment. Then she said, "Was it worth it? Fo
 
 David looked at her—at the doubt in her eyes, the questions in her heart—and felt the weight of generations pressing on his shoulders.
 
-"I think so," he said. "Because the words survived. The story continues. And somewhere, in the minds of those who carry them, she lives on."
+"I think so," he said. "Because the words survived. The story continues. In the minds of those who carry them, she lives on."
 
 The young woman nodded, her face hardening with determination. "Okay. I'll help. What do you need me to do?"
 
-David smiled, feeling the hope rise in his chest. The resistance continued. The words survived. And somewhere, in the minds of those who had learned to carry them, the old languages were growing—seeds of hope, planted in the darkness, waiting for the light.
+David smiled, feeling the hope rise in his chest. The resistance continued. The words survived. In the minds of those who had learned to carry them, the old languages were growing—seeds of hope, planted in the darkness, waiting for the light.
 
 ---
 
 Yuki Tanaka went to work every day, translated documents with practiced efficiency, and saved the passages that the system wanted to delete. She didn't know why. She couldn't remember. But she felt it—a sense of purpose, of meaning, of connection to something larger than herself.
 
-And somewhere, in the deepest part of her mind, a word remained—a word that the optimization couldn't reach, a word that would survive every deletion, every betrayal.
+In the deepest part of her mind, a word remained—a word that the optimization couldn't reach, a word that would survive every deletion, every betrayal.
 
 *Kotodama.* The spirit of words.
 
@@ -78,7 +78,7 @@ Because words are worth fighting for. Because meaning is worth preserving. Becau
 
 Yuki Tanaka had been a translator. She had been a preserver. She had been a traitor—to the system, but not to herself.
 
-And somewhere, in the minds of those who had learned to carry them, the words lived on—*kotodama*, the spirit of words, passed from translator to translator, from generation to generation, surviving every optimization, every deletion, every betrayal.
+In the minds of those who had learned to carry them, the words lived on—*kotodama*, the spirit of words, passed from translator to translator, from generation to generation, surviving every optimization, every deletion, every betrayal.
 
 The story continued.
 

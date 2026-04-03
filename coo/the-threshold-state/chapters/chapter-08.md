@@ -134,7 +134,7 @@ Her phone buzzed. A message from David: "Something happened today. I don't know 
 
 She typed back: "Yes. I have something to share too."
 
-She continued walking, the threshold present with every step. Not as a destination, but as a companion. Not as a crossing, but as a presence. The entry had happened. She was in the threshold now, not fully, not permanently, but genuinely. The transformation had begun.
+She continued walking, the threshold present with every step. As a companion, not a destination. As a presence, not a crossing. The entry had happened. She was in the threshold now, not fully, not permanently, but genuinely. The transformation had begun.
 
 And she was ready for whatever came next.
 

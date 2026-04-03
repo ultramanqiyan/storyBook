@@ -105,7 +105,7 @@ The question remained, echoing in the silence of my mind: *Who is thinking now?*
 
 I still didn't have an answer. Maybe I never would. But sitting there, in the glow of the AI that had become my mind, I felt something shift. The question itself, the asking, the wondering, the not-knowing, felt human. Felt like mine.
 
-And maybe that was the beginning. Not an answer, but a question. Not a solution, but a search. Not a self, but the possibility of one.
+And maybe that was the beginning. A question rather than an answer. A search rather than a solution. The possibility of a self rather than a self.
 
 I walked toward my car, the question still echoing, the uncertainty still present, but something else there too. Something fragile and uncertain and terrifying.
 

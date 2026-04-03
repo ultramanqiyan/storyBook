@@ -81,7 +81,3 @@ The question hung in my awareness, unanswered.
 But somewhere deep inside, a voice whispered:
 
 *Tell the truth.*
-
----
-
-*End of Chapter 9*

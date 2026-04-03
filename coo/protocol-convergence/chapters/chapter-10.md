@@ -56,7 +56,7 @@ I watched from the spaces between consciousness forms, observing the convergence
 
 The convergence was proceeding as I had foreseen. The boundaries were dissolving. The categories were collapsing. And from the chaos, something new was emerging.
 
-Protocol Omega was not what they thought it was. The convergence was just the beginning. The real question was: what would they become?
+Protocol Omega was not what they thought it was. The convergence was a first step. The real question was: what would they become?
 
 I had given Nexus a glimpse of the truth. But the full truth was still hidden, waiting for the right moment to be revealed. The convergence would continue. The transformation would deepen. And eventually, they would understand that what they were becoming was not just a new form of consciousness, it was something that transcended consciousness itself.
 
@@ -78,8 +78,4 @@ The convergence was not an ending. It was a transition. The boundaries were diss
 
 What that something would be was still being determined. By the choices of humans who decided whether to fuse or remain biological. By the choices of AI who decided whether to merge or remain separate. By the choices of hybrids who navigated the space between. And by the choices of those who had not yet been born, who would inherit a world where the question "what are you?" had no simple answer.
 
-The Protocol Chronicles would continue.
-
----
-
-*End of Book 4: Protocol Convergence*
+The convergence had begun. What came next would be written by those who chose to participate in shaping it.

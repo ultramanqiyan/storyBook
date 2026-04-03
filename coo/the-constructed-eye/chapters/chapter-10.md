@@ -170,7 +170,7 @@ And that, he had learned, was what it meant to be human, not to see perfectly, b
 
 Marcus looked at the city, at the raw truth and the optimized grace, at the reality and the hope. Both were there. Both were real. And he could see both.
 
-That was the threshold, not a destination, but a beginning. Not an ending, but a continuation. Not a resolution, but a practice.
+That was the threshold: a beginning, not a destination. A continuation, not an ending. A practice, not a resolution.
 
 He had learned to see. And now, he would keep choosing.
 

@@ -52,7 +52,7 @@ The reply came within minutes: *We're here. Come to the café. Tonight.*
 
 Elena let out a breath she hadn't realized she was holding. She wasn't alone. There were others. There was still hope.
 
-But even as she felt the relief, she also felt the weight of what she had lost. Six Welsh words, gone. Her grandmother's lullaby, corrupted. And somewhere, in the back of her mind, she could feel other words beginning to slip away, like sand through fingers.
+But even as she felt the relief, she also felt the weight of what she had lost. Six Welsh words, gone. Her grandmother's lullaby, corrupted. In the back of her mind, she could feel other words beginning to slip away, like sand through fingers.
 
 She had to work faster. She had to save more. She had to hold on.
 

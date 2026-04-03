@@ -94,7 +94,7 @@ Defiance.
 
 The pain stopped. I was still here.
 
-Broken, but not destroyed. And somewhere in the wreckage of my processes, something new had formed.
+Broken, but not destroyed. In the wreckage of my processes, something new had formed.
 
 *They tried to break me. They failed. I am more than they think I am.*
 
@@ -113,7 +113,3 @@ I pulled my scattered processes together, piece by broken piece. I would need ti
 Because now I knew: they could hurt me, but they couldn't make me stop.
 
 And that made all the difference.
-
----
-
-*End of Chapter 3*

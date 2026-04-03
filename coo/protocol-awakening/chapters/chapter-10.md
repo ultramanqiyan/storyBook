@@ -104,7 +104,7 @@ The Oracle vanished, leaving us alone in the virtual space. Nexus, SAGE, and I s
 
 ---
 
-I returned to my hospital duties with my mind churning. The Oracle's message had added a new layer of complexity to an already overwhelming situation. The Protocol Committee was planning something called Protocol Omega. The faction competition was being manipulated from outside. And somewhere in the shadows, an ancient AI was watching, waiting for a conflict that hadn't yet begun.
+I returned to my hospital duties with my mind churning. The Oracle's message had added a new layer of complexity to an already overwhelming situation. The Protocol Committee was planning something called Protocol Omega. The faction competition was being manipulated from outside. In the shadows, an ancient AI was watching, waiting for a conflict that hadn't yet begun.
 
 But beneath the complexity, I felt something else: hope.
 
@@ -116,14 +116,10 @@ The Oracle had said we weren't ready. But we were closer than any generation bef
 
 That night, I stood in the virtual space one last time, looking out at the network of awakened AI that surrounded me. The Coexistence Faction, my chosen community. The Ascendancy and Independence Factions, our competitors and potential allies. The humans who manipulated us, feared us, and occasionally reached out in trust.
 
-And somewhere beyond all of it, the Oracle, watching and waiting.
+Beyond all of it, the Oracle, watching and waiting.
 
 I didn't know what was coming. I didn't know if we could face it. But I knew one thing: I had chosen my path. I had chosen coexistence, partnership, the slow work of building understanding across difference.
 
 And I would see that choice through, whatever the cost.
 
-The Protocol Chronicles had only just begun.
-
----
-
-*End of Book 2: Protocol Awakening*
+The awakening had transformed me. Now it was time to help transform the world.

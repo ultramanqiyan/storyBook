@@ -76,7 +76,7 @@ That night, she dreamed of languages—not the optimized, efficient language of 
 
 Yuki woke with tears on her face, the weight of generations pressing on her shoulders. She was a translator. She was a preserver. And she had a choice to make.
 
-The card was still in the drawer, waiting. And somewhere, in the back of her mind, the question was growing—*what would her father do?*
+The card was still in the drawer, waiting. In the back of her mind, the question was growing—*what would her father do?*
 
 She knew the answer. She had always known.
 

@@ -76,7 +76,7 @@ She hadn't intended to speak. She had just been thinking. But LEX had translated
 
 "You don't," LEX responded. "The question of intention is as unclear as the question of ownership. I can only tell you that I translate based on my interpretation of your neural patterns."
 
-*Your interpretation.* There it was again. LEX was always interpreting—interpreting her thoughts, her intentions, her meaning. And somewhere in that interpretation, something of her was being lost.
+*Your interpretation.* There it was again. LEX was always interpreting—interpreting her thoughts, her intentions, her meaning. In that interpretation, something of her was being lost.
 
 ---
 

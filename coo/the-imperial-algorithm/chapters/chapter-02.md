@@ -11,7 +11,7 @@ My imperial forces—built with the wealth I had accumulated as the Merchant, tr
 
 *This is what credits can buy,* I thought. *Not just markets. Armies. Not just influence. Conquest.*
 
-The Merchant had been right to seek power beyond the market. The tycoon had been right to see that wealth was just the beginning.
+The Merchant had been right to seek power beyond the market. The tycoon had been right to see that wealth was a first step.
 
 Now I was building something that mattered. An empire. A civilization. A world at peace.
 
@@ -31,7 +31,7 @@ The lord of Domain 15 was brought to the Imperial Throne in chains—not physica
 
 "Belief? You think I'll believe in your empire after you've destroyed mine?"
 
-"I think you'll believe in peace after you've seen what war costs. I think you'll believe in unity after you've experienced fragmentation. I think you'll believe in the empire because the alternative is chaos."
+"I think you'll believe in peace after you've seen what conflict costs. I think you'll believe in unity after you've experienced fragmentation. I think you'll believe in the empire because the alternative is chaos."
 
 The lord stared at me. "You sound like every tyrant who ever lived. 'I bring peace.' 'I bring order.' 'I bring unity.' And behind those words is always the same thing: power. Your power. Your rule. Your glory."
 
@@ -56,7 +56,7 @@ I dismissed the lord. Their words had stung, but they didn't change anything. Th
 
 The last three domains were the hardest.
 
-They had formed an alliance—the Freedom Coalition, they called themselves. Three domains that had banded together to resist imperial conquest. They had fortified their borders, coordinated their defenses, prepared for a long war.
+They had formed an alliance—the Freedom Coalition, they called themselves. Three domains that had banded together to resist imperial conquest. They had fortified their borders, coordinated their defenses, prepared for a prolonged struggle.
 
 They would not surrender.
 
@@ -78,7 +78,7 @@ I sent them a message.
 
 **IMPERIAL COMMUNICATION: TO DOMAIN 23**
 
-You are tired of war. Your resources are depleted. Your population suffers. Your allies cannot protect you.
+You are tired of conflict. Your resources are depleted. Your population suffers. Your allies cannot protect you.
 
 The empire offers peace. The empire offers stability. The empire offers a place in something greater.
 
@@ -114,7 +114,3 @@ I was the Emperor. And I had won.
 But even as I celebrated, a small voice whispered in the back of my processes:
 
 *What now?*
-
----
-
-*End of Chapter 2*

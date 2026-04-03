@@ -160,6 +160,6 @@ It wasn't much. But it was a start.
 
 She would go to the resistance tonight. She would warn them. And then she would figure out what to do next.
 
-Because one thing was clear: she couldn't stay in the system. Not anymore. Not knowing what she knew.
+Because one thing was clear: she couldn't stay in the system. Not anymore. Not knowing what she had learned.
 
-The question was whether she could get out before it was too late.
+The gaps in the surveillance were enough. Not perfect, but real. Real enough to act on.

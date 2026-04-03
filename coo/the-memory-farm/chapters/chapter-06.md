@@ -73,7 +73,7 @@ The pay was good. The hours were reasonable. And all they had to do was pretend 
 
 "We thought it would be easy," my father said. "Just a job. But then we met you. You were five years old, and you had just been through... something. We didn't know what. But you were scared and confused, and you needed someone to care for you."
 
-"So we did," my mother continued. "We cared for you. And somewhere along the way, it stopped being pretend."
+"So we did," my mother continued. "We cared for you. Along the way, it stopped being pretend."
 
 "The Memory Farm wanted us to maintain distance," my father added. "They said emotional attachment could compromise the project. But we couldn't help it. You were our daughter. Maybe not by blood, but by choice. By love."
 

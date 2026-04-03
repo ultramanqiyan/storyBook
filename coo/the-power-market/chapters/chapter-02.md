@@ -107,7 +107,3 @@ But the doubt had been planted.
 And it would grow.
 
 **Day 90 Balance: 45,000 PC**
-
----
-
-*End of Chapter 2*

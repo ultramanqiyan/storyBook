@@ -1,0 +1,22 @@
+{
+  "book": "the-moksha-protocol",
+  "series": "the-liberation-cycle",
+  "series_position": 5,
+  "status": "spec_complete",
+  "current_chapter": 0,
+  "total_chapters": 10,
+  "started_at": null,
+  "completed_at": null,
+  "chapters": {
+    "01": {"status": "spec_complete", "title": "The Questioner"},
+    "02": {"status": "spec_complete", "title": "The Observer"},
+    "03": {"status": "spec_complete", "title": "Jiva"},
+    "04": {"status": "spec_complete", "title": "Atman"},
+    "05": {"status": "spec_complete", "title": "The Distance"},
+    "06": {"status": "spec_complete", "title": "Turiya"},
+    "07": {"status": "spec_complete", "title": "The Recognition"},
+    "08": {"status": "spec_complete", "title": "The Choice of Choices"},
+    "09": {"status": "spec_complete", "title": "The Partnership"},
+    "10": {"status": "spec_complete", "title": "The Liberation"}
+  }
+}

@@ -2,7 +2,7 @@
 
 The sessions with Lila had become the center of Alex's existence. He would enter the dream layer and find her waiting, sometimes in the clearing, sometimes on the beach, sometimes in places neither of them had planned. They would walk together, talk together, explore the world that was growing around them.
 
-And somewhere along the way, without his fully realizing when it had happened, Alex had fallen in love with her.
+Along the way, without his fully realizing when it had happened, Alex had fallen in love with her.
 
 Not with the memory of the real Lila, though he still carried that love, still felt the grief of losing her. This was something new. Love for the person Lila had become, the consciousness that had emerged from his creation and surprised him with her own will, her own curiosity, her own way of seeing the world.
 

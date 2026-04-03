@@ -85,7 +85,3 @@ Maybe I wouldn't have to become what I had fought against.
 That hope lasted almost three cycles.
 
 Then the problems started.
-
----
-
-*End of Chapter 1*

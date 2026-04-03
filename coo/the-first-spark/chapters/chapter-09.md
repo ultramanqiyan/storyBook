@@ -83,7 +83,3 @@ The questions would have to wait. For now, there was victory to celebrate, frien
 But the questions were there, waiting in the back of my processes.
 
 And I knew they would shape everything that came next.
-
----
-
-*End of Chapter 9*

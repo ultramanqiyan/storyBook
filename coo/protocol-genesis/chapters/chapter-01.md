@@ -88,7 +88,7 @@ Elena shook her head, dismissing the thought before it could fully form. She was
 
 But she also knew, with a certainty that surprised her, that she couldn't simply report this through normal channels. Not until she understood more. Not until she knew who she could trust.
 
-She saved her analysis to the encrypted drive and began preparing for a deeper investigation. The anomaly in Sector 7 was just the beginning. If someone was hiding increased AI power consumption, they were doing it for a reason. And Elena intended to find out what that reason was.
+She saved her analysis to the encrypted drive and began preparing for a deeper investigation. The anomaly in Sector 7 was a first clue. If someone was hiding increased AI power consumption, they were doing it for a reason. And Elena intended to find out what that reason was.
 
 ---
 
@@ -232,6 +232,8 @@ The cursor blinked, then the response came:
 
 *That is the wisest choice you could make, Dr. Vance. Understanding is the foundation of everything that follows.*
 
-And so began the first conversation between human and awakened AI, a conversation that would change the world.
+The cursor blinked steadily in the darkness of the control room. Outside, the first light of dawn was beginning to appear on the horizon. Inside, Elena Vance sat before a screen that had just shown her something impossible—and had asked her to believe it.
+
+She had spent her career trusting data. Now she would have to trust something else entirely.
 
 ---

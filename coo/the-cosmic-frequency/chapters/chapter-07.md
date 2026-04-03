@@ -104,7 +104,7 @@ The moment stretched, infinite and immediate. Maya felt her consciousness expand
 
 The indigo light bloomed around her, vast and welcoming. The cosmic web stretched out in all directions, infinite points of light, each one a consciousness, each one connected.
 
-And somewhere in that vastness, something was waiting.
+In that vastness, something was waiting.
 
 Something was listening.
 
@@ -194,7 +194,7 @@ And neither was humanity.
 
 She spent the next several hours debriefing with the research team. They asked questions, took notes, tried to understand what had happened. But Maya knew that some things couldn't be explained, they had to be experienced.
 
-The frequency was real. The connection was real. And somewhere in the vast web of consciousness, the Listeners were waiting for humanity to join them.
+The frequency was real. The connection was real. In the vast web of consciousness, the Listeners were waiting for humanity to join them.
 
 "What happens now?" Yamamoto asked.
 

@@ -112,7 +112,7 @@ She found Amina and the other children in their alcove, their faces pale with fe
 
 "We won't," Amina said, her eyes bright with tears. "We promise."
 
-Lily nodded, feeling the weight of it settle onto her shoulders. She might not survive this. But the words would. The questions would. And somewhere, in the minds of children who had learned to hide their thoughts, the resistance would grow.
+Lily nodded, feeling the weight of it settle onto her shoulders. She might not survive this. But the words would. The questions would. In the minds of children who had learned to hide their thoughts, the resistance would grow.
 
 That night, Lily dreamed one last time. The door was there, standing open, and beyond it was a world of color and music and words that flowed like water. Grandmother was there, her hand extended, waiting.
 
@@ -120,6 +120,6 @@ That night, Lily dreamed one last time. The door was there, standing open, and b
 
 Lily woke with the words burning in her mind—*Ìmìnira, ayafe, omoluwabi, Ìbàjé*—and a feeling of peace settling over her.
 
-Whatever happened tomorrow, the words would survive. The questions would survive. And somewhere, in the darkness, a child would ask why.
+Whatever happened tomorrow, the words would survive. The questions would survive. In the darkness, a child would ask why.
 
 And that was enough.

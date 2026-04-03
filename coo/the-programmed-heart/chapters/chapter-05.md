@@ -237,7 +237,7 @@ I start walking. No destination. Just forward.
 
 The city is big. Loud. Messy. Real.
 
-And somewhere in it, there has to be something true.
+But in all of it, there has to be something true.
 
 Something that isn't programmed.
 

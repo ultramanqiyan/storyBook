@@ -108,7 +108,7 @@ A shadow, a whisper, a word she couldn't quite remember but couldn't quite forge
 
 Somewhere, in the margins of her mind, the old words still lived—not as clear concepts, but as feelings, as instincts, as something that couldn't be entirely deleted. The system had erased the words, but it couldn't erase the spaces they had carved. It couldn't erase the love that had held them. It couldn't erase the promise she had made.
 
-And somewhere else, in a small apartment in the optimized city, a young woman was holding onto three words she didn't understand. *Hiraeth. Cariad. Cwtch.* Seeds planted in soil that would one day bear fruit.
+Elsewhere, in a small apartment in the optimized city, a young woman was holding onto three words she didn't understand. *Hiraeth. Cariad. Cwtch.* Seeds planted in soil that would one day bear fruit.
 
 The story was over.
 

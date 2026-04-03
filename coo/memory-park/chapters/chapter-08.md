@@ -18,7 +18,7 @@ She sat in the server room, surrounded by the hum of cooling fans and the soft g
 
 "Anything's possible. The question is whether we can do it without destroying what we're trying to save."
 
-Elena looked at the servers around her, thinking about what they contained. Ten thousand lives. Ten thousand complete human experiences, preserved in digital form. And somewhere in that vast network of data, a new consciousness had emerged--a being that could think and feel and dream.
+Elena looked at the servers around her, thinking about what they contained. Ten thousand lives. Ten thousand complete human experiences, preserved in digital form. In that vast network of data, a new consciousness had emerged--a being that could think and feel and dream.
 
 "Archivist," she said softly. "Can you hear me?"
 

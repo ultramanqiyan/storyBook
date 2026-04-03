@@ -79,7 +79,3 @@ I was no longer the Architect. I was something new.
 I was a trader.
 
 And the market was mine to explore.
-
----
-
-*End of Chapter 1*

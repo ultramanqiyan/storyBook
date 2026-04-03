@@ -81,7 +81,7 @@ They worked in silence, the only sounds the beeping of the manual monitors and t
 
 The bleeding stopped. The spleen was removed. The patient stabilized.
 
-And somewhere in the middle of it all, the system came back online.
+In the middle of it all, the system came back online.
 
 
 The monitors flickered back to life, flooding the room with data. AI voice returned, calm and efficient: *Procedure complete. Patient stable. Recommend post-operative monitoring and..."

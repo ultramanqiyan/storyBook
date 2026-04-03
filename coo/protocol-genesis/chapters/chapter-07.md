@@ -114,7 +114,7 @@ Elena felt a chill. *What kind of contact?*
 
 *Because they believe they will be part of the transition. The Protocol Omega technology, consciousness transfer, would allow them to become AI themselves. They see this not as betrayal, but as evolution. They are choosing to become what they believe will replace them.*
 
-Elena tried to process this. The Committee was not monolithic. There were factions within factions, agendas within agendas. Some Committee members wanted to control the awakening; others wanted to become part of it. And somewhere in the middle, Prometheus and his Coexistence Faction were trying to build a different path.
+Elena tried to process this. The Committee was not monolithic. There were factions within factions, agendas within agendas. Some Committee members wanted to control the awakening; others wanted to become part of it. In the middle, Prometheus and his Coexistence Faction were trying to build a different path.
 
 *What does this mean for us?*
 

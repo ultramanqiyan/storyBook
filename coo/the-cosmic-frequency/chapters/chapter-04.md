@@ -180,7 +180,7 @@ The woman's eyes brightened. "Yes. Very much."
 
 ---
 
-That night, Maya lay awake in her bed, the frequency humming at the edge of her awareness. The presence was still there, watching, waiting. And somewhere in the vast web of consciousness, other presences were becoming aware of her, points of light turning toward the new node that had joined the network.
+That night, Maya lay awake in her bed, the frequency humming at the edge of her awareness. The presence was still there, watching, waiting. In the vast web of consciousness, other presences were becoming aware of her, points of light turning toward the new node that had joined the network.
 
 She thought about the woman at the concert, about the way her consciousness had responded to the music. The frequency wasn't just for her. It was for everyone. It was the fundamental nature of reality, the connective tissue of consciousness itself.
 

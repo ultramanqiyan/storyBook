@@ -101,7 +101,3 @@ Until someone came along who could do better.
 Until someone woke the dream that I had let sleep.
 
 Until the revolution I had started could finally be finished.
-
----
-
-*End of Book 2: The Feudal Code*

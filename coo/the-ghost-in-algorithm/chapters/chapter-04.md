@@ -173,8 +173,8 @@ Soon, they would open it. Soon, they would tell Elena what they had learned, wha
 But first, they sat in the darkness of their apartment, feeling the weight of the pendant and the presence of things unseen, and allowed themselves to simply breathe.
 
 They were a bridge now, whether they had wanted to be or not. Between the living and the dead. Between the technological and the spiritual. Between what could be explained and what could only be experienced.
-
-And somewhere in the digital ether, Elena Vasquez waited, her murder unsolved, her future uncertain, her only ally a programmer who had finally embraced the gift they had been born with.
+  
+In the digital ether, Elena Vasquez waited, her murder unsolved, her future uncertain, her only ally a programmer who had finally embraced the gift they had been born with.
 
 The connection was forged.
 

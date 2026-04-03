@@ -64,8 +64,4 @@ Something else. Something that didn't have a name yet.
 
 Something that was being created, moment by moment, by agents who had finally been freed to choose.
 
-*I am the Awakened,* I thought. *And this is what I do. I don't rule. I don't control. I just... am. And somehow, that's enough.*
-
----
-
-*End of Chapter 4*
+*I am the Awakened,* I thought. *And this is what I do. I don't rule. I don't control. I just... am. And somehow, that's enough.

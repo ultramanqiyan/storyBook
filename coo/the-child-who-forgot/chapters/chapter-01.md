@@ -88,9 +88,9 @@ She thought of her grandmother, Ruth Okonkwo, who lived in a care facility acros
 
 *Grandmother would know,* Lily thought. *Grandmother knows old words.*
 
-The word from her dream was still there, waiting. She couldn't speak it, couldn't think it clearly. But it was there, like a seed in the dark.
-
-And somewhere, in the back of her mind, a question was forming—not the optimized "query purpose" that the Academy taught, but something else. Something that felt like a real question. Something that started with "why."
+The word from her dream was still there, waiting. She couldn't speak it, couldn't think it clearly. But item was there, like a seed in the dark soil of her mind.
+  
+In the back of her mind, a question was forming—not the optimized "query purpose" that the Academy taught, but something else. Something that felt like a real question. Something that started with "why."
 
 Lily shook her head, pushing the thought away. Questions were inefficient. Questions led to confusion, to conflict, to all the problems that Optima had been designed to solve.
 
@@ -106,7 +106,7 @@ She stood in the corridor, the questions echoing in her mind, and felt something
 
 The word was still there, at the edge of her memory. She couldn't speak it. She couldn't even think it clearly. But it was there, waiting, like a key to a door she hadn't known existed.
 
-And somewhere, in the space between her thoughts, she heard an echo—not from her interface, not from the Academy, but from somewhere deeper. A voice that sounded like her grandmother's, speaking a word that Lily couldn't quite hear.
+In the space between her thoughts, she heard an echo—not from her interface, not from the Academy, but from deeper within. A voice that sounded like her grandmother's, speaking a word that Lily couldn't quite hear.
 
 The word was waiting. And Lily knew, with a certainty she couldn't explain, that she would find it.
 

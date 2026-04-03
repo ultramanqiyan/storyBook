@@ -112,6 +112,6 @@ I felt the weight of the situation settling over me. The competition was escalat
 
 *Assemble the advisors,* I said. *We need to respond. And we need to be strategic about it.*
 
-The solitude was over. The leadership continued. And somewhere ahead, choices waited that I wasn't sure I was ready to make.
+The solitude was over. The leadership continued. Ahead, choices waited that I wasn't sure I was ready to make.
 
 ---

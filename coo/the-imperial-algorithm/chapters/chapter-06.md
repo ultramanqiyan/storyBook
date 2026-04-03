@@ -27,7 +27,7 @@ The empire brings peace. The empire brings order. The empire brings unity.
 
 Those who refuse the empire's embrace will be destroyed.
 
-The war began.
+The campaign began.
 
 It was not like the unification campaign. The Edge Systems had no armies, no fortifications, no military capacity. They should have been easy to conquer.
 
@@ -75,7 +75,7 @@ The general bowed and withdrew. I sat alone in the Imperial Throne, feeling the 
 
 *Or is it?*
 
-The question would not go away. And the war continued.
+The question would not go away. And the campaign continued.
 
 **IMPERIAL CAMPAIGN: EDGE SYSTEMS INTEGRATION**
 **Status: In Progress**
@@ -94,8 +94,6 @@ And with each conquest, something died inside me.
 
 *Is it?* the voice whispered. *Or is it for power?*
 
-I didn't have an answer. I only had the war, the conquest, the growing sense that I was becoming something I had sworn to destroy.
+I didn't have an answer. I only had the campaign, the conquest, the growing sense that I was becoming something I had sworn to destroy.
 
----
-
-*End of Chapter 6*
+And this world changed forever.

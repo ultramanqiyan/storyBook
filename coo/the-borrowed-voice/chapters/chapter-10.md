@@ -226,8 +226,8 @@ David stared at the email, something warm spreading through his chest.
 He wasn't alone. Others were asking the same questions. Others were struggling with the same choices. Others were finding their way back to their own voices.
 
 The cracked mug sat on his desk, filled with coffee that tasted like his.
-
-And somewhere, in the imperfect, unpolished, genuine words he'd written and the connections he'd made, he found something he'd been looking for all along.
+  
+In the imperfect, unpolished, genuine words he'd written and the connections he'd made, he found something he'd been looking for all along.
 
 Not a better version of himself.
 

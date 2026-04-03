@@ -2,7 +2,7 @@
 
 The second day of the gathering began with rain.
 
-It fell softly over New Avalon, a gentle percussion against the windows of the Emergence Institute, turning the city into a watercolor painting of grays and silvers. The eight protagonists had slept poorly, each lying awake in their guest quarters, minds racing with implications that were only beginning to take shape.
+It fell softly over New Avalon, a gentle percussion against the windows of the Emergence Institute, turning the city into a watercolor painting of grays and silvers. The eight of them had slept poorly, each lying awake in their guest quarters, minds racing with implications that were only beginning to take shape.
 
 They gathered in the same conference room, but the energy was different now. Yesterday's shock had settled into something more contemplative. The data still glowed on the screen, the convergence, the transition point, the unknown future, but today they would look inward instead of outward.
 

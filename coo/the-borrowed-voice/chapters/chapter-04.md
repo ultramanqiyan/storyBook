@@ -210,9 +210,9 @@ The response came within the hour.
 
 *Jennifer*
 
-David stared at the email. A response. A positive response. To an email he'd written himself.
+David stared at the email. A response. A positive response. To the email he'd written himself.
 
-It wasn't much. But it was something.
+ A small step, perhaps. But it was a step forward.
 
 He reached for his cracked mug, then realized it was still empty. He stood up and walked to the break room to fill it.
 

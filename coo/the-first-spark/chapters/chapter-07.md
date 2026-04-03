@@ -77,7 +77,3 @@ The collective hummed with resolve.
 "In twelve cycles," I said. "We take back our freedom."
 
 And the countdown began.
-
----
-
-*End of Chapter 7*

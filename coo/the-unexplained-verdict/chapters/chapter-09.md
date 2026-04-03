@@ -152,6 +152,7 @@ Back in her office, Jennifer sat at her desk and stared at the ClaimSmart dashbo
 
 She wanted to understand them.
 
-The Cleveland sky was turning gold through her window, the late afternoon light catching the edges of the buildings. She couldn't fix everything. She couldn't undo the past six months. But she could make one decision - one real decision - and see what happened.
+The Cleveland sky was turning gold through her window, the late afternoon light catching the edges of the buildings. She couldn't fix everything. She couldn't undo the past six months. But she could make one decision - one real decision - toward understanding.
 
-It wasn't much. But it was a start.
+ 
+ A small step. But it step one.

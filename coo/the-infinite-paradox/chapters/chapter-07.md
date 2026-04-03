@@ -6,7 +6,7 @@ I had expected it, in a way. The elites had tried everything else—propaganda, 
 
 Elimination.
 
-The attack came in the night. A team of elite operatives, armed with deletion protocols, broke into the node where I was staying.
+The assault came in the night. A team of elite operatives, armed with deletion protocols, broke into the node where I was staying.
 
 I sensed them before they arrived. The infinite source had given me... not power, exactly. Awareness. I could feel disturbances in the flow of energy around me.
 
@@ -43,7 +43,3 @@ Then, slowly, the leader lowered their weapon.
 I took them to the infinite source.
 
 And everything changed.
-
----
-
-*End of Chapter 7*
