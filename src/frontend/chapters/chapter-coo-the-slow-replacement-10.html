@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter X: The Question - The Slow Replacement: When AI Takes Your Life Piece by Piece - StoryBook</title>
+  <meta name="description" content="In the aftermath, Marcus discovers what remains of his identity after the AI is gone.">
+  <meta name="keywords" content="remnant, what's left, aftermath">
+  <meta property="og:title" content="The Question - The Slow Replacement: When AI Takes Your Life Piece by Piece">
+  <meta property="og:description" content="In the aftermath, Marcus discovers what remains of his identity after the AI is gone.">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-coo-the-slow-replacement-10?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-coo-the-slow-replacement-10?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/chapters/chapter-coo-the-slow-replacement-10">
+  <link rel="canonical" href="https://storybook-adventures.com/chapters/chapter-coo-the-slow-replacement-10">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The Question",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "The Slow Replacement: When AI Takes Your Life Piece by Piece",
+      "genre": "Business"
+    },
+    "position": 10,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 12px 10px;
+        padding-bottom: 15px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
+      }
+      
+      .drop-cap {
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
+      }
+    }
+  </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9288060233934481" crossorigin="anonymous"></script>
+</head>
+<body class="theme-business">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER X</div>
+    <div class="chapter-name">The Question</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">S</span>ix months later.  Marcus sat at his desk, looking at the new title on his email signature: "Senior Code Architect."  The change had happened gradually, almost imperceptibly. His role had evolved, less code writing, more architecture. Less execution, more strategy. Less individual contribution, more mentoring.  The company had recognized his value, even if he couldn't quantify it. His judgment, his experience, his ability to guide others, these were things the AI couldn't provide.  <em>At least not yet,</em> he thought. <em>But for now.</em>  ---  The morning routine was different now.  Marcus still arrived at the office early, but not at 6:30 AM. He'd started coming in at 7:30, giving himself time to review the architecture documents, think about the bigger picture. He still checked his code reviews, but now he used them as a tool, a starting point, not the endpoint. He still debugged issues, but now he approached them as puzzles to be solved, not fires to be extinguished.  He still worked late sometimes, but not as late as before. And when he went home, he was present, really present, with his family.  <em>One step at a time,</em> he reminded himself. <em>That's still all I can do.</em>  ---  At 10:17 AM, his phone buzzed. A text from David.  <strong>David: Coffee this weekend? I want to hear about the new job.</strong>  Marcus smiled. He typed a response:  <strong>Marcus: Sounds good. Saturday at 10?</strong>  <strong>David: Perfect. See you then.</strong>  He put the phone down and turned back to his screen. The architecture document in front of him was a complex system design for the company's new payment platform. He'd been working on it for weeks, and it was finally ready for review.  He'd used the AI tools to help with the implementation, checking the code, identifying potential issues. But the design, the structure, the logic, the trade-offs, those were his.  <em>That's what I bring,</em> he thought. <em>That's what the AI can't do.</em>   That afternoon, Rachel stopped by his desk.  "Marcus, can I see your calendar? We need to discuss your Q3 planning."  Marcus felt a familiar tightening in his chest, the old fear, but he pushed through it. <em>Box breathing,</em> he reminded himself. <em>In for 4 seconds, hold for 4.</em>  "Sure," he said. "What's on the agenda?"  Rachel's expression was cautious. "The usual, performance reviews, goal setting. But I also want to talk about your role."  Marcus felt a chill. <em>My role.</em>  "Your role?" he asked carefully.  "Yes. The company is evolving, Marcus. We're expanding the AI integration, and we need people who can think strategically about how to use it. I'd like you to formalize your position."  <em>Formalize.</em> The word felt heavy. "What does that mean?"  "A new title. Senior Code Architect. Your focus will be on system design, architecture decisions, and mentoring junior developers." Rachel smiled slightly. "You've earned it, Marcus. You've adapted. And that's exactly what we need."  Marcus stared at her, processing the words. <em>Senior Code Architect.</em> Not Senior Developer. Not Senior Engineer. Architect. Someone who designs, who guides, who thinks strategically.  "I accept," he said, his voice steady. "Thank you, Rachel. I won't let the company down."   That night, Marcus came home to a house filled with the smell of Sarah's cooking.  The children were at the table, drawing and talking. Sarah was at the stove, stirring something in a pot. Everything looked normal. Everything felt normal.  "Daddy!" Emma ran to him, her arms out at her sides. "You're home!"  Marcus picked her up, holding her tight. "I'm always home, baby."  Lucas ran over too, and Marcus pulled him into the hug. For a moment, he just held them, breathing in their scent, feeling their warmth.  <em>This is what matters,</em> he thought. <em>Not the job. Not the AI. This.</em>  Sarah watched from the kitchen, her expression soft. "How was work?"  "Good," Marcus said, and meant it. "Really good."  Sarah's expression was surprised. "Really good?"  "Yes." Marcus smiled. "I got a promotion. Senior Code Architect."  Sarah's eyes widened. "Marcus, that's wonderful!"  She ran over and hugged him, the children squished between them. "I'm so proud of you!"  <em>Proud.</em> The word felt different now. Not foreign, but earned. Deserved.   That weekend, Marcus met David for coffee.  They sat in a small café near David's new office, a startup in downtown San Francisco. The space was smaller than TechFlow, but it had energy. People moved quickly, talked loudly, typed furiously. It felt alive.  "So," David said, leaning back in his chair. "Senior Code Architect. That sounds fancy."  "It's not about fancy," Marcus said. "It's about... different. I'm not writing as much code anymore. I'm thinking about systems. Architecture. Strategy."  "And that feels... good?"  Marcus considered the question. "Yes. It feels right. Like I'm using parts of my brain that I forgot existed."  David nodded slowly. "I get it. I'm doing something similar at this startup. Less coding, more... thinking. Guiding. It's weird, but also... satisfying."  "David, can I ask you something?"  "Sure."  "Do you still feel scared? About the AI, I mean?"  David was quiet for a moment. Then he said, "Yes. But differently now. Before, I was scared of being replaced. Now, I'm scared of... what comes next. What the world will look like in ten years. What my kids will face."  Marcus nodded. "That's what I think about too. The AI is still developing. My job is still evolving. Nothing is certain."  "Nothing was ever certain, Marcus." David smiled, but it was tired. "We just pretended it was. Jobs, careers, stability, all illusions. The AI just made the illusion harder to maintain."  <em>Illusions.</em> The word resonated with Marcus. He'd spent fifteen years building a career, an identity, a sense of security. And in a few months, it had all come crashing down.  "So what do we do?" Marcus asked. "How do we live with the uncertainty?"  David leaned forward. "We accept it. We stop pretending that we have control. And we focus on what we can control, our relationships, our values, our ability to adapt." He paused. "And we fight for the people who are being left behind. Because if we don't, who will?"   That night, Marcus came home to a quiet house.  Sarah was in the living room, reading. The children were asleep, their soft breathing drifting from their rooms. Marcus sat down beside Sarah, feeling the weight of the day settling around him.  "I had coffee with David today," he said.  "How is he?"  "Good. He's... adapting. Finding his way." Marcus paused. "He said something that stuck with me. He said we've been pretending we have control. And now the AI is making that illusion harder to maintain."  Sarah put down her book. "That sounds like David."  "It was." Marcus turned to face her. "Sarah, I've been thinking. About what comes next. Not just for me, but for everyone. The AI is still developing. Jobs are still changing. Nothing is certain."  "That's scary," Sarah said quietly.  "It is." Marcus took her hand. "But I'm not paralyzed anymore. I'm not going to let the fear control me. I'm going to... adapt. And fight for the people who are being left behind."  Sarah's eyes filled with tears. "That sounds like the Marcus I fell in love with."  "It's the Marcus I am now," he said. "Not the one who writes the fastest code. But the one who... thinks about the bigger picture."   The next morning, Marcus woke up early.  He got up before the alarm, before the children woke, before the house stirred. He went to the kitchen and started the coffee, watching the sky lighten through the window.  The fear was still there, lurking in the shadows. But it was quieter now. Less overwhelming. He could face it.  <em>One step at a time,</em> he thought. <em>That's all I can do.</em>  He heard footsteps behind him. Sarah appeared, her hair messy, her eyes sleepy.  "You're up early," she said.  "I couldn't sleep." Marcus handed her a cup of coffee. "Too much thinking."  Sarah took the cup and sipped it slowly. "What are you thinking about?"  "The future," Marcus said. "What comes next. For me. For us. For everyone."  "Any answers?"  Marcus smiled slightly. "Not yet. But I'm not afraid to find out."  Sarah smiled back. "That's progress."  "It is." Marcus reached out and took her hand. "Thank you. For being here. For not giving up on me."  "I'll never give up on you, Marcus." Sarah squeezed his hand. "We're partners. Remember?"  <em>Partners.</em> The word felt different now. Not just a label, but a promise. A commitment. A shared journey.  "I remember," Marcus said. "And I'm grateful. Every day."   At 8:30 AM, Marcus left for work.  The commute was the same, BART to Fremont, drive to the office. But the routine felt different now. Less like a burden, more like a rhythm. He still arrived early, but not to prove his value, just to give himself time to think. He still worked late sometimes, but not from fear, from purpose.  He still checked the code reviews, but now he used them as a tool, not a weapon.  <em>One step at a time,</em> he thought. <em>That's all I can do.</em>   At 6 PM, Marcus walked to the company's rooftop.  The sun was setting, painting the sky in oranges and purples. The Silicon Valley skyline stretched before him, glass and steel catching the last light of day. Somewhere in that skyline, someone was probably feeling what he felt, fear, anxiety, the creeping dread of obsolescence. But Marcus wasn't that person anymore. Not completely.  He pulled out his phone and texted Sarah: <em>Coming home. Love you.</em>  Then he took one more look at the skyline, the future, uncertain but no longer terrifying. He walked back inside, ready for whatever came next.</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">— To Be Continued —</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-coo-the-slow-replacement-09" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-coo-the-slow-replacement">The Slow Replacement: When AI Takes Your Life Piece by Piece</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 5  of 5
+    </div>
+    <span class="scroll-nav-btn" style="opacity: 0.5; cursor: default;">The End</span>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-business';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+      
+      initMobileNavigation();
+    });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('Next') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('Previous') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
+  </script>
+</body>
+</html>

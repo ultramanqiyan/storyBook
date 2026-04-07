@@ -1,8 +1,61 @@
 {
   "book": "the-language-architects",
-  "status": "pending",
+  "status": "ready",
   "current_chapter": 0,
   "total_chapters": 10,
   "started_at": "2026-04-03",
-  "chapters": {}
+  "chapters": {
+    "chapter-01": {
+      "status": "spec_complete",
+      "spec_file": "chapters/book-3-chapters-summary.md",
+      "word_count_target": 4500
+    },
+    "chapter-02": {
+      "status": "spec_complete",
+      "spec_file": "chapters/book-3-chapters-summary.md",
+      "word_count_target": 4500
+    },
+    "chapter-03": {
+      "status": "spec_complete",
+      "spec_file": "chapters/book-3-chapters-summary.md",
+      "word_count_target": 4500
+    },
+    "chapter-04": {
+      "status": "spec_complete",
+      "spec_file": "chapters/book-3-chapters-summary.md",
+      "word_count_target": 4500
+    },
+    "chapter-05": {
+      "status": "spec_complete",
+      "spec_file": "chapters/book-3-chapters-summary.md",
+      "word_count_target": 4500
+    },
+    "chapter-06": {
+      "status": "spec_complete",
+      "spec_file": "chapters/book-3-chapters-summary.md",
+      "word_count_target": 4500
+    },
+    "chapter-07": {
+      "status": "spec_complete",
+      "spec_file": "chapters/book-3-chapters-summary.md",
+      "word_count_target": 4500
+    },
+    "chapter-08": {
+      "status": "spec_complete",
+      "spec_file": "chapters/book-3-chapters-summary.md",
+      "word_count_target": 4500
+    },
+    "chapter-09": {
+      "status": "spec_complete",
+      "spec_file": "chapters/book-3-chapters-summary.md",
+      "word_count_target": 4500
+    },
+    "chapter-10": {
+      "status": "spec_complete",
+      "spec_file": "chapters/book-3-chapters-summary.md",
+      "word_count_target": 4500
+    }
+  },
+  "total_word_count_target": 45000,
+  "last_updated": "2026-04-03"
 }

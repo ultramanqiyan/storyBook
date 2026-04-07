@@ -1,8 +1,83 @@
 {
   "book": "the-method-keepers",
-  "status": "pending",
-  "current_chapter": 0,
+  "status": "complete",
+  "current_chapter": 10,
   "total_chapters": 10,
   "started_at": "2026-04-03",
-  "chapters": {}
+  "completed_at": "2026-04-07",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Classification",
+      "status": "complete",
+      "word_count": 4500,
+      "file": "chapters/chapter-01.md"
+    },
+    {
+      "number": 2,
+      "title": "the Methodology",
+      "status": "complete",
+      "word_count": 4300,
+      "file": "chapters/chapter-02.md"
+    },
+    {
+      "number": 3,
+      "title": "the Investigation",
+      "status": "complete",
+      "word_count": 4400,
+      "file": "chapters/chapter-03.md"
+    },
+    {
+      "number": 4,
+      "title": "the Colleague",
+      "status": "complete",
+      "word_count": 4200,
+      "file": "chapters/chapter-04.md"
+    },
+    {
+      "number": 5,
+      "title": "the Archives",
+      "status": "complete",
+      "word_count": 4300,
+      "file": "chapters/chapter-05.md"
+    },
+    {
+      "number": 6,
+      "title": "the Confrontation",
+      "status": "complete",
+      "word_count": 4200,
+      "file": "chapters/chapter-06.md"
+    },
+    {
+      "number": 7,
+      "title": "the Choice",
+      "status": "complete",
+      "word_count": 4300,
+      "file": "chapters/chapter-07.md"
+    },
+    {
+      "number": 8,
+      "title": "the Rebellion",
+      "status": "complete",
+      "word_count": 4300,
+      "file": "chapters/chapter-08.md"
+    },
+    {
+      "number": 9,
+      "title": "the Discovery",
+      "status": "complete",
+      "word_count": 4200,
+      "file": "chapters/chapter-09.md"
+    },
+    {
+      "number": 10,
+      "title": "the Threshold",
+      "status": "complete",
+      "word_count": 4300,
+      "file": "chapters/chapter-10.md"
+    }
+  ],
+  "total_word_count": 43300,
+  "total_word_count_target": 45000,
+  "last_updated": "2026-04-07"
 }
