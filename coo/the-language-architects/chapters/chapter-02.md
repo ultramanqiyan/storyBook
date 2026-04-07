@@ -1,27 +1,45 @@
 # Chapter 2: The Simplification
 
-The Language Simplification Center was a model of efficiency—rows of linguists analyzing word usage, determining which terms were "cognitively optimal" for each caste. Amira walked through the facility, watching her colleagues strip complexity from language, one word at a time.
+The Language Simplification Center occupied the fourteenth floor of the Cognitive Resources Building, a glass-and-steel structure that reflected the gray Seattle sky. Amira had worked here for twelve years, but she'd never quite gotten used to the atmosphere—the hushed efficiency, the soft clicking of keyboards, the sense that something important was being quietly dismantled.
 
-The air smelled of coffee and printer ink, the hum of computers filling the space. Linguists sat at their stations, evaluating words for "cognitive load" and "social impact." A large screen at the front of the room displayed the day's vocabulary restrictions: "Epistemology" - restricted, "Metacognition" - restricted, "Skepticism" - restricted.
+She walked past rows of linguists hunched over their screens, each one analyzing word usage patterns, assigning cognitive load scores, determining which terms would be available to which castes. The work required precision and care. A single word could shape how millions of people understood the world.
 
-"Morning, Amira," one of her colleagues said, looking up from his screen. "We're finalizing the Shudra vocabulary for next quarter. Want to review?"
+"Amira." David Chen fell into step beside her. "The Shudra vocabulary list for Q3 is ready for review. Want to take a look?"
 
-Amira nodded, pulling up a chair. The screen displayed a list of words being considered for restriction: "Hypothesis," "Falsification," "Paradigm," "Epistemology," "Metacognition," "Skepticism." All words that enabled critical thinking.
+She followed him to his workstation. The screen displayed a list of proposed restrictions:
 
-"These are essential terms," Amira said, her voice tight. "How can Shudra understand science without 'hypothesis'? How can they evaluate information without 'skepticism'?"
+**Proposed for Restriction - Shudra Access:**
+- Hypothesis
+- Falsification
+- Paradigm
+- Epistemology
+- Metacognition
+- Skepticism
+- Dialectic
+- Nuance
 
-"They don't need to understand science, Amira," her colleague said. "They just need to use the technology. And they don't need to evaluate information—we do that for them."
+"These are essential terms," Amira said. "How can anyone understand science without 'hypothesis'? How can they evaluate claims without 'skepticism'?"
 
-Amira felt a knot form in her stomach. This wasn't simplification—it was castration. The system wasn't just making language easier to understand—it was making complex thought impossible.
+David shrugged. "They don't need to understand science. They need to use the technology. And they don't need to evaluate claims—the system does that for them."
 
-She walked to the observation room, where a group of Shudra students were learning language through their neural interfaces. The teacher was explaining the concept of "science" using only the simplified vocabulary.
+Amira stared at the list. Each word represented a concept—a way of thinking. Remove the word, and you made the concept harder to access. Harder to think.
 
-"Science is a set of facts that help us understand the world," the teacher said. "These facts are true and should not be questioned."
+"Has anyone studied the cognitive impact of these restrictions?" she asked.
 
-Amira winced. Without words like "hypothesis" and "falsification," the students couldn't understand that science is a process of questioning, not a set of dogmatic facts.
+"The system optimizes for cognitive efficiency. That's the study."
 
-She left the observation room and walked back to her office. The simplified vocabulary list stared back at her: 5,000 words for Shudra, compared to 50,000 for Brahmin. Not just fewer words—different words. Words that couldn't express doubt, couldn't frame questions, couldn't challenge assumptions.
+"That's not what I mean. Has anyone looked at what happens to people's thinking when they lose access to these words?"
 
-Amira wondered what thoughts were becoming impossible. Without "epistemology," could Shudra understand how knowledge is created? Without "metacognition," could they reflect on their own thinking? Without "skepticism," could they question authority?
+David's expression flickered—annoyance? Discomfort? "That's not really our department, Amira. We're here to simplify language, not to run psychological studies."
 
-The system called it "cognitive optimization." Amira was beginning to suspect it was something far more sinister.
+Amira walked to the observation room at the end of the hall. Through the one-way glass, she could see a Shudra education session in progress. Twenty adults sat at terminals, their neural interfaces glowing as they absorbed the day's vocabulary lesson.
+
+The instructor's voice came through the speakers: "Science is a collection of facts that help us understand the world. These facts are true and should not be questioned."
+
+Amira turned away. Without words like "hypothesis" and "falsification," the students couldn't understand science as a process. They could only understand it as dogma—a set of beliefs to be accepted, not questioned.
+
+Back in her office, she pulled up the vocabulary statistics: 5,000 words for Shudra, compared to 50,000 for Brahmin. Not just fewer words—different words. Words that couldn't express doubt. Words that couldn't frame questions. Words that couldn't challenge assumptions.
+
+Amira thought about the thoughts that were becoming impossible. Without "epistemology," could Shudra understand how knowledge was created? Without "metacognition," could they reflect on their own thinking? Without "skepticism," could they question authority?
+
+The system called it "cognitive optimization." But as Amira stared at the restricted word list, she began to suspect it was something else entirely.

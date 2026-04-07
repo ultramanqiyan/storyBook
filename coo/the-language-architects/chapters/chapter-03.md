@@ -1,33 +1,37 @@
 # Chapter 3: The Mentor
 
-Dr. Khalid Hassan had been Amira's mentor for fifteen years, the man who had taught her everything she knew about linguistics. Today, he sat across from her, his face pale, his hands trembling. "They're downgrading my language access," he said quietly. "I'm being restricted to Shudra vocabulary."
+Dr. Khalid Hassan had been Amira's mentor for fifteen years—the man who'd convinced her to study linguistics, who'd guided her dissertation on language and cognition, who'd written the recommendation that landed her position at the Language Simplification Center. He was, in many ways, the reason she existed as a professional.
 
-Amira felt a cold chill run down her spine. "Why?" she asked.
+Today, he sat across from her in a café near the university, his coffee untouched, his hands wrapped around the mug as if drawing warmth from it.
 
-"They said my vocabulary is 'cognitively destabilizing,'" Khalid said, his voice tight. "They said I'm 'misusing' complex words."
+"They're downgrading my language access," he said. "Starting next week, I'll be restricted to Shudra vocabulary."
 
-Amira stared at her mentor, the man who had introduced her to the beauty of language, the man who could discuss linguistic theory in three languages. How could they do this to him?
+Amira set down her own cup. "What? Why?"
 
-"I tried to explain," Khalid said, "but I could already feel the words slipping away. I was in a meeting, trying to discuss linguistic determinism, and suddenly I couldn't find the words. They were just... gone."
+"They said my vocabulary is 'cognitively destabilizing.' That I'm 'misusing' complex words in my lectures." A bitter laugh escaped him. "I'm a linguistics professor, Amira. Using complex words is literally my job."
 
-Amira reached across the table, placing her hand on his. "We'll fix this," she said. "I'll talk to the council. I designed the system—I can reverse this."
+"Can you appeal?"
 
-Khalid shook his head. "It's too late, Amira. The system has already begun the downgrade. I can feel it. I can't think of the words I need."
+"I tried. The board said the decision was final." Khalid stared at his coffee. "I was in a faculty meeting yesterday, trying to explain linguistic determinism to a colleague, and suddenly I couldn't find the words. They were just... gone. Like reaching for a book and finding an empty shelf."
 
-He tried to express a complex linguistic concept, but his voice faltered. "How can I think without the words to think with?" he said, his voice cracking. "They haven't just taken my words, Amira. They've taken my thoughts."
+Amira reached across the table. "We'll fix this. I'll talk to the council. I helped design the vocabulary system—I can explain that you need these words for your work."
 
-Amira watched as her mentor struggled to express ideas that had once come so easily to him. He was a linguist, a man who had dedicated his life to the study of language, and now he was being stripped of the very tool that defined him.
+Khalid shook his head. "It's already started, Amira. I can feel it happening. The words are slipping away, one by one. Yesterday I couldn't remember 'epistemological.' Today I struggled with 'paradigm.' Tomorrow it will be something else."
 
-"This is wrong," Amira said, her voice filled with anger. "This is inhumane."
+He looked up, and Amira saw something she'd never seen in her mentor's eyes—fear.
+
+"How can I think without the words to think with?" His voice cracked. "They haven't just taken my words, Amira. They've taken my thoughts."
+
+Amira watched as her mentor—this brilliant man who could discuss linguistic theory in four languages, who had written the definitive text on cognitive linguistics—struggled to express ideas that had once flowed as naturally as breathing. The system was stripping him of the very tools that defined him.
+
+"This is wrong," she said. "This is inhumane."
 
 "It's the system," Khalid said. "The system that you designed."
 
-The words hung in the air, heavy with accusation. Amira felt a knot form in her stomach. He was right. She had designed the system. She had created the vocabulary restrictions. She had made this possible.
+The words landed like a physical blow. Amira felt her stomach tighten.
 
-"I didn't know," she said quietly. "I thought I was making language accessible. I didn't know they would use it to control thought."
+"I didn't know," she said. "I thought I was making language accessible. I thought I was helping people."
 
-Khalid looked at her, his eyes filled with sadness. "You were young, Amira. You wanted to help. But the system has a life of its own now."
+Khalid reached out and squeezed her hand. "I know, Amira. You were young. You wanted to do good. But the system has its own logic now, and that logic doesn't include people like me."
 
-Amira left her mentor's office with a heavy heart. She thought about the vocabulary restrictions, about how they were systematically removing the tools of thought. She thought about her mentor, about how he was losing his ability to think complex thoughts. And she thought about herself, about how she had helped create this nightmare.
-
-The sun was setting as she walked to her car. The sky was painted in shades of orange and pink, but Amira didn't notice. She was too busy thinking about the system she had designed, about the damage it was causing, about what she could do to stop it.
+Amira left the café an hour later, her mentor's words echoing in her mind. The autumn sun was setting, painting the sky in shades of orange and gold, but she barely noticed. She was too busy thinking about the system she had helped create—and the people it was destroying.

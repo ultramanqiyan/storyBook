@@ -1,45 +1,55 @@
 # Chapter 3: The Father
 
-Benjamin Foster lived in a small apartment in Berkeley, the kind of place that smelled of old books and fresh coffee. Marcus had been visiting his father every Sunday for as long as he could remember, but today felt different. Today, he had questions he wasn't sure he wanted answered.
+Benjamin Foster's Berkeley apartment occupied the third floor of a converted Victorian, the kind of building that groaned when the wind blew and smelled perpetually of old paper and pipe tobacco. Marcus had been making this Sunday pilgrimage for fifteen years, but today the familiar creak of the stairs sounded different. Today, he carried questions that felt like stones in his pockets.
 
-"Marcus!" his father said, opening the door with a warm smile. "Come in, come in. I made your favorite—dark roast with a dash of cinnamon."
+His father opened the door before Marcus could knock.
 
-Marcus stepped inside, the familiar scent of books and coffee wrapping around him like a blanket. The apartment was cluttered with old scientific journals, textbooks, and a half-finished physics problem on the kitchen table.
+"Marcus." The word came out soft, almost surprised. "I didn't expect—you usually come in the afternoon."
 
-"You're still working on that quantum gravity problem?" Marcus asked, nodding at the papers.
+"Got an early start."
 
-"Some questions are worth pursuing, even when the system says they're 'too complex,'" his father said, pouring coffee into two mugs. "Have a seat."
+Benjamin stepped aside, and Marcus entered the space that had remained unchanged for decades: the same overstuffed bookshelves, the same threadbare armchair by the window, the same half-finished chess puzzle on the side table. His father had been working on that puzzle for three years now, ever since the system had classified him "historically problematic" and stripped him of his academic credentials.
 
-They sat at the kitchen table, the sunlight filtering through the windows. For a moment, it was just father and son, not system curator and exiled physicist.
+"Coffee?" Benjamin asked, already moving toward the kitchen. "I have that Ethiopian you like."
 
-"So, how's the Repository?" his father asked, taking a sip of coffee.
+"Sure."
 
-"Busy," Marcus said. "We're processing a climate model that the council flagged for 'excessive complexity.'"
+Marcus drifted to the window. Outside, the Berkeley hills rose against a gray November sky. He could see students crossing Telegraph Avenue below, their neural interfaces glowing faintly as they accessed the Repository. He wondered how many of them had ever questioned a single fact they downloaded.
 
-"Excessive complexity," his father repeated, the words tasting bitter on his tongue. "That's their code for 'too much uncertainty.' They don't like science that isn't neat and tidy."
+"Here." His father pressed a warm mug into his hands. "You look tired, Marcus. The Repository keeping you busy?"
 
-Marcus felt a familiar tension building. This was the part of their conversations he dreaded—the part where his father criticized the very system Marcus had dedicated his career to.
+"We're processing a climate model the council flagged for 'excessive complexity.'"
 
-"Do you know what falsifiability is, Marcus?" his father asked, leaning forward. "It's the heart of science. The idea that every theory must be testable, that every truth must be challengeable. When you remove that, you don't simplify science. You kill it."
+Benjamin snorted—a sharp, bitter sound. "Excessive complexity. Their favorite phrase." He settled into his armchair, his thin fingers wrapping around his own mug. "Let me guess. They want you to strip out the uncertainty parameters? Make the projections look more definite than they are?"
 
-"We're making science accessible, Dad," Marcus said, defending his work. "Most people can't understand the complexities of quantum mechanics or climate modeling."
+Marcus didn't answer. That was exactly what the council had requested.
 
-"Accessible?" his father scoffed. "You're not making it accessible. You're turning it into a set of dogmatic beliefs. Science isn't about memorizing facts. It's about asking questions."
+"Son, do you remember when I taught you about Popper?"
 
-Marcus felt his temper rising. "You don't understand the pressure we're under. The system has to maintain social stability. If everyone had access to the full complexity of science, there would be chaos."
+"Karl Popper. Falsifiability." Marcus had been twelve when his father first explained the concept. He'd been fascinated by the idea that scientific theories could never be proven true—only proven false.
 
-"Chaos?" his father said, his voice rising. "Science thrives on chaos. It thrives on uncertainty. That's how we make discoveries. When you remove the questions, you remove the possibility of progress."
+"Falsifiability," Benjamin repeated. "The demarcation problem. What separates science from non-science. A theory is only scientific if it can be proven wrong." He leaned forward. "Marcus, do they teach that in the Shudra curriculum?"
 
-There was a long silence. Marcus stared at his coffee, the bitter taste matching his mood.
+"I... don't know."
 
-"Do you know why they classified me as 'historically problematic'?" his father asked, breaking the silence.
+"You should check. You really should check."
 
-Marcus shook his head. He'd always been told it was because his father had been a troublemaker, but he'd never gotten the full story.
+The silence stretched between them. Marcus sipped his coffee, avoiding his father's eyes.
 
-"They classified me as 'historically problematic' because I refused to stop teaching my students how to question. I told them that science without skepticism isn't science at all. The system didn't like that. So here I am, a physicist who can't publish, can't teach, can't even access the full scientific literature. All because I believed in the scientific method."
+"You know why they classified me as 'historically problematic'?" Benjamin asked.
 
-Marcus felt a cold chill run down his spine. He'd always known his father had been marginalized, but he'd never fully understood why. Now he did. His father had been punished for doing what scientists are supposed to do—question.
+"I was told you were a troublemaker. That you refused to follow curriculum guidelines."
 
-"They've turned science into religion," his father said, his voice carrying the weight of decades of exile. "Facts without questioning. Truth without doubt. That's not science, Marcus. That's dogma dressed in a lab coat."
+"True enough. But do you know what those guidelines were?" Benjamin set his mug down with a sharp click. "They ordered me to stop teaching students that scientific theories could be wrong. They told me to present facts as settled truths, not as provisional conclusions. When I refused, they said I was 'causing cognitive destabilization.'" A bitter laugh escaped him. "Imagine that. Teaching the scientific method is now a form of mental harm."
 
-Marcus left his father's apartment with more questions than he'd arrived with. And for the first time, he wasn't sure he wanted to find the answers.
+Marcus felt something shift in his chest—not the dramatic tightening he'd read about in novels, but a quieter sensation. A loosening. Like a knot he hadn't known was there.
+
+"Dad, the system isn't trying to hurt anyone. It's trying to make science accessible. Most people can't handle the complexity of—"
+
+"Can't? Or haven't been given the chance?" Benjamin's voice was gentle now, almost sad. "Marcus, I've watched you build your career in that system. I've been proud of you. But I've also watched you become something I never expected—a gatekeeper who doesn't know he's keeping gates."
+
+"I'm not—"
+
+"You are. We all are, those of us who know the truth. The question is whether we keep the gates to protect people or to control them." Benjamin picked up his mug again, his hands steady despite his age. "I chose to open the gates. They punished me for it. What will you choose?"
+
+Marcus left an hour later, his father's questions echoing in his mind long after the Berkeley hills disappeared behind him. The worst part wasn't the doubt his father had planted. The worst part was the suspicion that his father might be right.

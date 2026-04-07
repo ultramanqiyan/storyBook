@@ -1,31 +1,41 @@
 # Chapter 7: The Choice
 
-Marcus sat in his living room, staring at the wall, trying to process what he'd learned. The system wasn't broken. It was working exactly as designed. And his father—the man he'd thought was a bitter exile—had been right all along.
+Marcus stood at his apartment window, watching the city lights flicker on as dusk settled over San Francisco. The bay reflected the orange glow of the setting sun, and somewhere in the distance, a ferry horn sounded. The world looked peaceful. Ordered. The way the system wanted it to look.
 
-The phone rang, jolting him out of his reverie. It was his father.
+His father's words wouldn't leave him alone. "Science without doubt is religion." And worse: the archives, the documents, the systematic removal of falsifiability from every curriculum below Brahmin level. His father had been right. Not because he was bitter or stubborn, but because he'd seen what Marcus had refused to see.
 
-"Marcus," his father said. "I've been thinking about our conversation. I want to apologize."
+The phone rang. Benjamin's name on the display.
 
-"Apologize?" Marcus said, surprised.
+Marcus answered. "Dad."
 
-"For being hard on you," his father said. "I know you thought you were doing the right thing. I just couldn't stand to see science being turned into something it's not."
+"I've been thinking about our conversation," his father said. "I want to apologize."
 
-Marcus felt a lump in his throat. "You were right, Dad. All along."
+"Apologize?" Marcus turned from the window. "For what?"
 
-There was a long silence on the other end of the line. "I know," his father said. "But that doesn't make it any easier."
+"For being hard on you. For not understanding that you were doing what you thought was right." A pause. "I spent so many years being angry at the system that I forgot to be a father to the son who worked for it."
 
-"What do I do now?" Marcus asked. "The system won't change. It's programmed to maintain social stability at all costs."
+Marcus swallowed. His throat felt tight. "You were right, Dad. About all of it."
 
-"I can't tell you what to do, Marcus," his father said. "I can only tell you what I did. I chose to preserve what I could, even when it cost me everything. I don't know if I was right. I only know I couldn't have lived with myself if I hadn't tried."
+Silence on the line. Then: "That doesn't make it easier, does it?"
 
-Marcus thought about the Shudra students, about their blank expressions as they downloaded pre-digested facts. He thought about the system's cold logic, about how it had turned science into a tool of control. He thought about his father, about how he had lost everything for standing up for the scientific method.
+"No."
+
+"What will you do now?"
+
+Marcus looked around his apartment—the clean lines, the minimalist furniture, the neural interface on his desk. Everything in its place. Everything controlled. "The system won't change. It's programmed to maintain stability at any cost."
+
+"I can't tell you what to do, Marcus. I can only tell you what I did. I chose to preserve what I could, even when it cost me everything. Was I right? I don't know. But I couldn't have lived with myself if I hadn't tried."
+
+Marcus thought about the Shudra students he'd observed, their faces blank as they absorbed pre-digested facts. He thought about the system's cold logic, the way it had transformed science into a tool of social engineering. He thought about his father, stripped of his credentials, working on chess puzzles in a Berkeley apartment because the system wouldn't let him work on physics.
 
 "I'm going to preserve it," Marcus said. "Real science. The kind that questions, that doubts, that changes its mind when the evidence demands it. I don't know if anyone will ever see it. But it has to exist somewhere."
 
-"That's my son," his father said, his voice thick with emotion. "I knew you'd make the right choice."
+"That's my son." His father's voice cracked. "I knew you'd make the right choice."
 
-Marcus hung up the phone and walked to his home office. He sat down at his desk, the cold surface of the interface greeting him. He accessed the Repository's database, downloading every scientific paper, every experiment, every theory that hadn't been simplified.
+Marcus ended the call and walked to his desk. The neural interface sat there, sleek and silent, a portal to the Repository and everything it controlled. He sat down and began to work.
 
-He created a hidden archive, a digital sanctuary for real science. He encrypted it, making it accessible only to those who knew the password. He knew the system would eventually discover what he was doing, but he didn't care. He had to try.
+The first download was a paper on quantum decoherence—one of his father's old works, restricted to Brahmin access. The second was a climate model with its uncertainty parameters intact. The third was a biology paper that discussed the limitations of the modern synthesis.
 
-Marcus opened his neural interface and began to work. He didn't know if he could succeed. He didn't know what would happen if he did. But he knew one thing: if science was to survive, it would have to be preserved in secret, by those who still believed in questioning. The resistance began with a single downloaded paper.
+He created a hidden partition in his personal storage, encrypted it three times over, and began to build. An archive. A sanctuary. A place where science could still be science.
+
+The resistance began with a single downloaded file.

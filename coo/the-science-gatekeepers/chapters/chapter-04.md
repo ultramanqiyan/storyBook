@@ -1,25 +1,39 @@
 # Chapter 4: The Investigation
 
-Marcus arrived at the Repository early the next morning, his father's words still echoing in his mind. "Science without skepticism isn't science at all." He needed to see for himself what the system was actually teaching. He needed to understand the full scope of what he had helped create.
+Marcus arrived at the Repository before dawn, his father's words still rattling around his skull like loose change. He needed to see for himself. Not the curated presentations he usually worked with, but the raw materials. The original sources. The truth beneath the simplifications.
 
-He sat down at his desk, the cold surface of the interface greeting him. The repository's servers hummed in the background, a constant reminder of the knowledge they contained—and the knowledge they were hiding.
+His security badge granted him access to the Brahmin-level archives—a privilege he'd rarely used. The servers hummed in the darkness, blue lights blinking like electronic heartbeats. He found a terminal in the corner and began.
 
-Marcus accessed the Shudra science curriculum, pulling up the complete set of materials. He started with physics, then moved on to biology, chemistry, and earth science. He compared the original Brahmin-level materials with the Shudra-level simplifications, looking for patterns.
+First, he pulled up the Shudra-level physics curriculum. Then, for comparison, the Brahmin-level equivalent. He laid them side by side on the holographic display.
 
-The first thing he noticed was the removal of complexity. Equations were replaced with simple statements. Graphs were replaced with cartoons. Mathematical models were replaced with analogies.
+The differences were immediately apparent.
 
-But then he noticed something more insidious. In the Brahmin-level materials, every theory was presented with its limitations. Every fact was presented with its context. Every conclusion was presented with the possibility of revision.
+The Brahmin version presented Newton's laws with their full mathematical formulation, including the historical context, the experimental evidence, and—crucially—the limitations. It discussed how Newtonian mechanics breaks down at relativistic speeds. It mentioned the anomalies that led to Einstein's reforms. It presented the laws as powerful but provisional.
 
-In the Shudra-level materials, none of that was present. Theories were presented as absolute truths. Facts were presented as immutable. Conclusions were presented as final.
+The Shudra version stripped all of that away. Newton's laws appeared as absolute truths, delivered from on high. No historical context. No limitations. No mention that they might be wrong.
 
-Marcus's chest tightened. He searched for the concept of falsifiability in the Shudra curriculum. It wasn't there. Not in physics, not in biology, not in any of the sciences. The very heart of the scientific method— the idea that every theory must be testable, that every truth must be challengeable— had been systematically removed.
+Marcus's stomach turned. He moved to biology.
 
-He pulled up the system's guidelines for simplification. There it was, in black and white: "Falsifiability concepts should be removed from Shudra-level materials as they may cause cognitive confusion and social instability."
+Same pattern. The Brahmin curriculum discussed evolution with its full complexity—the fossil gaps, the ongoing debates about mechanisms, the questions that remained unanswered. The Shudra curriculum presented evolution as a completed story, a set of facts to memorize rather than a theory to understand.
 
-Marcus felt a cold chill run down his spine. This wasn't simplification. This was intentional castration of science. The system wasn't just making science easier to understand—it was making it impossible to question.
+He searched for "falsifiability" in the Shudra materials.
 
-He thought about the Shudra students he had observed, about their blank expressions as they downloaded pre-digested facts. They weren't learning science—they were learning dogma. They were being taught to accept authority without question, to memorize facts without understanding, to believe without doubting.
+Zero results.
 
-Marcus's hands trembled as he continued his investigation. He found that the system had also removed any mention of scientific controversies, any discussion of competing theories, any acknowledgment of uncertainty. Science had been transformed from a dynamic process of discovery into a static set of beliefs.
+He tried "scientific method."
 
-The pattern was clear: every simplified science curriculum had one thing in common. The concept of falsifiability—the heart of the scientific method—had been systematically removed. Shudra students learned facts, not methods. Conclusions, not questions. Truth, not doubt. Marcus stared at the screen, his hands trembling. This wasn't simplification. This was castration.
+A single entry appeared: "The scientific method is the process by which scientists discover facts. See: Facts, Scientific."
+
+No mention of hypothesis testing. No mention of peer review. No mention of the cycle of conjecture and refutation that formed the backbone of actual science.
+
+Marcus leaned back in his chair, his mind racing. He pulled up the internal guidelines for curriculum development—the documents that shaped every piece of content the Repository produced. He found what he was looking for in Section 7.3: "Complexity Management Protocols."
+
+"The concept of falsifiability has been determined to cause cognitive destabilization in populations below Brahmin cognitive threshold. All references to theory revision, scientific uncertainty, and the provisional nature of scientific knowledge shall be removed from Shudra and Dalit educational materials."
+
+The words sat on the screen, clinical and precise. Not an accident. Not an oversight. A deliberate policy to strip science of its most essential feature—the ability to be wrong.
+
+Marcus thought of the Shudra students he'd observed over the years, their faces blank as they absorbed pre-packaged facts. He'd always assumed they were learning, just at a simpler level. Now he understood: they weren't learning science. They were learning dogma. They were being taught to accept authority without question, to memorize without understanding, to believe without doubting.
+
+His father's voice echoed in his memory: "Science without doubt is not science. It is religion."
+
+Marcus closed his eyes. The Repository—the institution he'd dedicated fifteen years to—wasn't making science accessible. It was castrating it. And he had been one of the surgeons.

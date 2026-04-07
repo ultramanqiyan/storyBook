@@ -1,31 +1,43 @@
 # Chapter 5: The Archives
 
-The Science Archives were three levels below the main Repository, accessible only to those with Brahmin clearance. Marcus had been here before, for historical research, but never like this. Never looking for evidence of his own profession's corruption.
+The Science Archives occupied three subterranean levels beneath the Repository, accessible only to those with Brahmin clearance and a documented research purpose. Marcus had visited twice before—once for a historical project on quantum mechanics, once for a retrospective on climate modeling. Both times, he'd been awed by the scope of human knowledge preserved in those climate-controlled vaults.
 
-The archives smelled of dust and aging paper, the scent of forgotten knowledge. Rows of shelves stretched into the distance, filled with physical documents— a deliberate choice, as physical records were harder to alter than digital ones.
+Today, he came as a thief in his own house.
 
-Marcus started with the early documents, from the inception of the science simplification program. He found a manifesto titled "Scientific Accessibility: A New Approach" dated 2035. The introduction stated:
+The archives smelled of dust and preservation chemicals, the distinctive odor of paper that had outlasted its creators. Digital records could be altered with a few keystrokes—that was why the founders had insisted on physical backups. Hard copies. Unchangeable. True.
 
-"We believe that scientific uncertainty causes unnecessary anxiety in the general population. By simplifying science, we can protect people from the cognitive burden of doubt and ensure social stability through settled, accessible knowledge."
+Marcus found the section marked "Program Development: Science Simplification Initiative." The files dated back to 2035, the year the Repository was founded. He pulled the first box from the shelf and began to read.
 
-Marcus's chest tightened. The original intent had been paternalistic, but not malicious. They had wanted to protect people from anxiety.
+The original charter was almost idealistic in its language:
 
-But as he read on, he saw how the program had evolved. By 2038, the language had changed. The manifesto was updated to say:
+"We believe that scientific knowledge should be accessible to all citizens, regardless of cognitive classification. Our mission is to translate complex scientific concepts into forms that can be understood and applied by every member of society."
 
-"Falsifiability concepts are cognitively destabilizing for the general population. To ensure social harmony, these concepts should be removed from all non-Brahmin educational materials."
+Marcus turned the page. The early meeting minutes showed genuine debate—arguments about how to simplify without distorting, how to make science accessible without making it wrong. There was even a dissenting opinion from a Dr. Elena Vasquez, who warned that "simplification risks becoming sterilization if we remove the very features that make science scientific."
 
-By 2040, it had become even more explicit:
+She'd been overruled.
 
-"Science serves the greater good when it provides clear, unchanging truths. The scientific method's emphasis on doubt and revision is incompatible with social stability."
+By 2038, the language had shifted. A memo from the Oversight Committee read:
 
-Marcus felt a cold chill run down his spine. The program had started as an attempt to make science accessible, but it had evolved into a tool of control. Science had been transformed from a process of discovery into a weapon of social engineering.
+"Field reports indicate that exposure to scientific uncertainty causes measurable anxiety in Shudra and Dalit populations. To ensure social stability, we recommend the systematic removal of uncertainty-related concepts from all simplified curricula."
 
-He continued searching, looking for his father's name. He found it in a document titled "Critics of the Simplification Program." Benjamin Foster was listed as one of the most vocal opponents, with a note: "Advocates for the inclusion of falsifiability in all science education. Considered historically problematic."
+Marcus's jaw tightened. He turned to the next document—a policy update from 2040:
 
-Marcus's hands trembled as he read his father's dissenting statement:
+"The scientific method's emphasis on doubt and revision has been determined incompatible with the goal of universal scientific literacy. All educational materials shall present scientific conclusions as settled facts, not provisional theories."
 
-"Science without doubt is not science. It is religion. When we remove the ability to question, we remove the very essence of what makes science great. We are not protecting people— we are infantilizing them."
+Settled facts. Not provisional theories.
 
-The document included a summary of the system's response: "Dr. Foster's views are incompatible with the goal of scientific accessibility. His teaching license has been revoked, and his work has been classified as historically problematic."
+Marcus set the document down. His hands were steady—he'd been trained to maintain composure under pressure—but his mind was reeling. The program hadn't started as a conspiracy. It had started as a genuine attempt to share knowledge. But somewhere along the way, the goal had shifted from education to control.
 
-Marcus closed the last document, his hands trembling. His father's name appeared in the archives—not as a troublemaker, but as one of the original critics of the simplification program. Benjamin Foster had tried to stop it. The system had silenced him. And Marcus had spent fifteen years helping the system that had destroyed his father's career.
+He searched the archives for his father's name.
+
+Benjamin Foster appeared in a file marked "Personnel Actions: Disciplinary Cases, 2041-2045." The document was brief but devastating:
+
+"Dr. Benjamin Foster, Professor of Physics (formerly UC Berkeley), has been classified as Historically Problematic due to his persistent advocacy for the inclusion of falsifiability concepts in Shudra-level science education. Dr. Foster's position that 'science without doubt is religion' has been determined to constitute cognitive destabilization. His teaching credentials have been revoked, and his published works have been restricted to Brahmin-level access."
+
+Attached was a transcript of his father's final statement to the committee:
+
+"You ask me to teach science as a set of settled facts. I cannot do this, not because I am stubborn, but because I am a scientist. The moment we stop questioning is the moment we stop doing science. What you are creating is not accessible science—it is a new religion, with facts as dogma and the Repository as its church."
+
+Marcus closed the file. His father hadn't been a troublemaker. He'd been a prophet.
+
+And Marcus had spent fifteen years serving the institution that had silenced him.

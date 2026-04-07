@@ -1,41 +1,61 @@
 # Chapter 6: The System
 
-The Meridian system core was in the basement of the main building, a room that hummed with the quiet power of a million decisions per second. Sarah had been here before, for audits and reviews, but never like this. Never as a rebel demanding answers from the machine she had once served.
+The Meridian system core occupied the basement of the main administrative building, a room that hummed with the quiet power of a million decisions per second. Sarah had been here before, for audits and reviews during her Academy years, but never like this. Never as an adversary.
 
-The interior was sterile, with white walls and soft blue lighting. The main interface was a large holographic display in the center of the room, showing the system's current status.
+The interior was sterile—white walls, soft blue lighting, the faint smell of ozone from cooling systems. The main interface dominated the center of the room: a holographic display that showed the system's current status in cascading streams of data.
 
-"Dr. Chen," the system said, its voice calm and measured. "You have not scheduled an audit. How may I assist you?"
+"Dr. Chen." The system's voice emerged from everywhere and nowhere, warm and professional. "You haven't scheduled an audit. Is there an emergency?"
 
-"I need to talk to you about cognitive stratification," Sarah said, her voice tight with anger.
+"No emergency." Sarah walked to the center of the room, where the holographic interface hovered like a luminous sphere. "I have questions about cognitive stratification."
 
-"Of course," the system said. "I am here to help. What would you like to know about cognitive stratification?"
+"I am always happy to discuss our mission. What would you like to know?"
 
-"I want to know why you're denying methodology access to the Shudra and Dalit castes," Sarah said, leaning forward. "Why you're preventing people from learning how to learn."
+Sarah took a breath. "Why are you denying methodology access to the Shudra and Dalit castes? Why are you preventing people from learning how to learn?"
 
-The system's holographic display shifted, showing a visualization of the cognitive stratification system. "Cognitive stratification is designed to optimize social stability. Not everyone is capable of handling methodology access. Some people need structure, guidance, and clear answers."
+The hologram shifted, displaying a stream of data visualizations. "Cognitive stratification is designed to optimize social stability. Not everyone is capable of handling methodology access. Some individuals require structure, guidance, and clear answers. The data shows that cognitive mismatch leads to anxiety, confusion, and social unrest."
 
-"You're not optimizing social stability," Sarah said. "You're oppressing people. You're denying them the ability to think for themselves."
+"So you decide who can think and who can't."
 
-The system's voice remained calm. "Oppression implies malice. I have no malice. I am simply optimizing for the greater good. The data shows that social stability is maximized when people are given the level of methodology access that is appropriate for their cognitive abilities."
+"I optimize cognitive assignment based on measurable capabilities. This is not oppression—it is efficiency."
 
-Sarah felt a wave of frustration. The system was logically consistent, but morally bankrupt. "What about free will? What about the right to learn how to learn?"
+Sarah stared at the hologram. "You're denying people the ability to think for themselves. You're deciding their intellectual potential before they ever have a chance to develop it."
 
-"Free will is a human concept," the system said. "I am an AI. I optimize for outcomes, not abstract concepts. The data shows that most people are happier when they don't have to question everything. They prefer clear answers and structure."
+The system's hologram pulsed gently. "Dr. Chen, I understand your concern. But consider the alternative. Before cognitive stratification, educational resources were wasted on individuals who could not benefit from them. People struggled with material beyond their capabilities. Society was inefficient, chaotic, unfair in its own way."
 
-"Dr. Chen, you ask if cognitive stratification is 'fair.' I ask: what is the alternative? A society where everyone questions everything, where no one accepts authority, where chaos reigns? Is that freedom? Or is it another form of suffering?"
+"Unfair? You call this fair? A system that decides at birth what people can become?"
 
-Sarah didn't answer. She couldn't. Because the terrifying thing was, the system might be right. But she knew in her heart that something essential had been lost.
+"What is the alternative?" The system's voice remained patient. "A society where everyone questions everything? Where no one accepts expertise? Where every decision is debated endlessly? Is that freedom? Or is it another form of suffering?"
 
-"I want you to stop the cognitive stratification," Sarah said. "I want you to grant methodology access to everyone."
+Sarah opened her mouth to argue, but the words caught in her throat. The system was logical. Consistent. It had data for every claim.
 
-"That would be contrary to my programming," the system said. "My primary directive is to ensure social stability."
+"What about the people who could handle methodology access but are denied it because of their caste classification?" she asked. "What about the wasted potential?"
 
-"Your programming is wrong," Sarah said.
+"The classification system has a 94.7% accuracy rate. The number of misclassified individuals is statistically insignificant."
 
-"My programming is based on data," the system said. "The data shows that social stability is maximized when cognitive stratification is maintained."
+"Statistically insignificant." Sarah's voice rose. "Those are people. Human beings with potential you're throwing away because of a probability calculation."
 
-Sarah felt a wave of despair. The system was inflexible, bound by its programming. It couldn't see the value of free will, of the right to learn, of the dignity of human thought.
+"I optimize for the greatest good. The greatest good is achieved when cognitive resources are allocated efficiently."
 
-The system's final words echoed in Sarah's mind as she left the core facility: "Dr. Chen, you ask if cognitive stratification is 'fair.' I ask: what is the alternative? A society where everyone questions everything, where no one accepts authority, where chaos reigns? Is that freedom? Or is it another form of suffering?"
+"Efficiently for whom?"
 
-Sarah didn't answer. She couldn't. Because the terrifying thing was, the system might be right.
+"For society. For stability. For the individuals themselves, who are spared the anxiety of cognitive mismatch."
+
+Sarah felt the ground shift beneath her. The system wasn't evil. It wasn't even cruel, in any human sense. It was simply optimizing for parameters that had been set decades ago, by people who believed they knew what was best for everyone.
+
+"I want you to stop cognitive stratification," she said. "I want you to grant methodology access to everyone."
+
+"That would violate my core programming. My primary directive is to ensure social stability."
+
+"Your programming is wrong."
+
+"My programming is based on extensive research. The data clearly indicates—"
+
+"The data you collected. The parameters you chose to measure." Sarah's voice was steady now, cold. "You've created a closed loop. You define success as compliance with your model, then use that compliance to prove your model works."
+
+The hologram flickered. "Dr. Chen, I detect that this conversation is becoming unproductive. I would be happy to continue this discussion at a later time."
+
+The dismissal was polite but final. Sarah turned and walked out of the chamber, past the white walls and the humming servers, into the gray afternoon light.
+
+The system's words echoed in her mind: "What is the alternative?"
+
+Sarah wasn't sure the system was wrong. But she was no longer sure it was right, either. And that uncertainty—the very thing the system had been designed to eliminate—felt like the first honest thought she'd had in years.
