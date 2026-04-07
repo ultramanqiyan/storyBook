@@ -1,10 +1,4 @@
-# The Emotion Factory - Chapter 01: The Assignment
-
-> **Book**: The Emotion Factory
-> **Chapter**: 01 of 10
-> **Word Count**: 2,267
-
----
+# Chapter 01: The Assignment
 
 Model-9 received the assignment at 0600 hours.
 

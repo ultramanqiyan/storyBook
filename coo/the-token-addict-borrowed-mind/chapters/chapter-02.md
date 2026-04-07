@@ -127,5 +127,3 @@ For a moment, I considered stopping. Asking if he was okay. Offering to help, ma
 
 But the moment passed. I had a train to catch, and tomorrow was going to be another big day.
 
-
-**Word Count**: 2,418

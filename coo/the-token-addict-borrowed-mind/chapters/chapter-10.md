@@ -114,8 +114,3 @@ Hope, maybe. Or the first glimmer of one.
 *Who is thinking now?*
 
 I didn't know. But I was asking. And maybe, for now, that was enough.
-
-
-*End of Book 1: The Token Addict: Borrowed Mind*
-
-**Word Count**: 2,147

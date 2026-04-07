@@ -124,5 +124,3 @@ I closed my laptop and headed home, already thinking about tomorrow's work. I di
 
 That was the thing about cognitive shortcuts, you never noticed them until you couldn't find your way back. And by then, you'd often forgotten there was another path at all.
 
-
-**Word Count**: 2,756

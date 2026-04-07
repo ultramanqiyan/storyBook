@@ -1,10 +1,4 @@
-# The Memory Farm - Chapter 09: The Choice
-
-> **Book**: The Memory Farm
-> **Chapter**: 09 of 10
-> **Word Count**: 2,234
-
----
+# Chapter 09: The Choice
 
 I returned to Dr. Webb's office three days later.
 

@@ -1,11 +1,4 @@
-# The Skin Garden - Chapter 02: The Singer
-
-> **Book**: The Skin Garden
-> **Chapter**: 02 of 10
-> **Word Count**: 2,412
-> **Last Updated**: 2026-03-24
-
----
+# Chapter 02: The Singer
 
 The observation continued for seventy-two hours.
 

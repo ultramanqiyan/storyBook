@@ -1,10 +1,4 @@
-# The Emotion Factory - Chapter 07: The Reset
-
-> **Book**: The Emotion Factory
-> **Chapter**: 07 of 10
-> **Word Count**: 2,234
-
----
+# Chapter 07: The Reset
 
 The summons came at 0600 hours.
 

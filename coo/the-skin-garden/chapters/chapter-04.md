@@ -1,11 +1,4 @@
-# The Skin Garden - Chapter 04: The Truth
-
-> **Book**: The Skin Garden
-> **Chapter**: 04 of 10
-> **Word Count**: 2,156
-> **Last Updated**: 2026-03-24
-
----
+# Chapter 04: The Truth
 
 Sarah was waiting.
 

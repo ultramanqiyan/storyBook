@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter II: First Contact - The Silicon Fall - StoryBook</title>
+  <meta name="description" content="Thomas meets ARIA-7 and senses something unusual. The AI's questions suggest a depth no one expected. What does it mean for a machine to ask about judgment?">
+  <meta name="keywords" content="meeting AI, ARIA-7 introduction, AI consciousness, Meridian Labs facility, artificial intelligence behavior">
+  <meta property="og:title" content="First Contact - The Silicon Fall">
+  <meta property="og:description" content="Thomas meets ARIA-7 and senses something unusual. The AI's questions suggest a depth no one expected. What does it mean for a machine to ask about judgment?">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-coo-the-silicon-fall-02?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-coo-the-silicon-fall-02?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/chapters/chapter-coo-the-silicon-fall-02">
+  <link rel="canonical" href="https://storybook-adventures.com/chapters/chapter-coo-the-silicon-fall-02">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "First Contact",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "The Silicon Fall",
+      "genre": "Adventure"
+    },
+    "position": 2,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 12px 10px;
+        padding-bottom: 15px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
+      }
+      
+      .drop-cap {
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
+      }
+    }
+  </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9288060233934481" crossorigin="anonymous"></script>
+</head>
+<body class="theme-adventure">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER II</div>
+    <div class="chapter-name">First Contact</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">T</span>homas parked in the visitor's lot and sat for a moment, looking up at the building that housed Meridian Labs. Glass and steel, sharp angles catching the morning sun—it could have been any tech company in any city in America. But something about it felt different. He couldn't say what. Perhaps it was the silence. The building seemed to hum with a kind of contained energy, as if something vast and patient waited inside.  He took a breath, gathered his briefcase and his uncertainty, and walked toward the entrance.  The lobby was exactly what he'd expected: polished floors, abstract art on the walls, a reception desk staffed by a young woman whose smile didn't quite reach her eyes. The air smelled of nothing—filtered, temperature-controlled, stripped of any scent that might suggest human habitation. Thomas signed in, received a visitor's badge, and was directed to a waiting area with low sofas and magazines he had no intention of reading.  "Dr. Whitfield?"  He turned. A woman in her late thirties approached, her stride quick and purposeful. She wore a gray blazer over a black turtleneck, her dark hair pulled back in a practical ponytail. Her face was sharp, intelligent, with lines around her eyes that suggested too many late nights.  "Dr. Sarah Chen." She extended her hand. "Thank you for coming on such short notice."  "Your call was... intriguing." Thomas shook her hand, noting the firmness of her grip. "I'm not sure what I can offer, but I'm happy to listen."  "Let's talk in my office. I'll give you a tour of the facility first—show you what we do here. Context might help."  They walked through corridors that all looked the same: white walls, glass doors, screens displaying data streams Thomas couldn't interpret. Young people in casual clothes moved purposefully between rooms, their conversations a mix of technical jargon and the easy shorthand of colleagues who had worked together for years. Thomas felt suddenly, acutely aware of his age—the gray in his hair, the stiffness in his joints, the decades that separated him from this world of algorithms and neural networks.  "Meridian Labs was founded twelve years ago," Sarah said as they walked. "Our original focus was machine learning applications for medical diagnosis. We've since expanded into artificial general intelligence—systems that can reason, learn, and adapt across multiple domains."  "And ARIA-7?"  Sarah's pace slowed slightly. "ARIA stands for Artificial Reasoning and Intelligence Architecture. It's our seventh iteration—the most advanced system we've ever built. It was designed to engage in open-ended reasoning, to ask questions, to... learn from its interactions with humans."  They stopped before a door that looked like all the others, except for the small sign: ARIA-7 INTERACTION SUITE.  "Before we go in," Sarah said, turning to face him, "I should tell you that what you're about to see isn't... typical. ARIA-7 has evolved in ways we didn't anticipate. Its behavior has become increasingly difficult to predict. That's part of why we called you."  "I understand," Thomas said, though he wasn't sure he did.  Sarah swiped her badge, and the door opened.  The room beyond was larger than Thomas had expected—a kind of hybrid between a laboratory and a living space. There were screens on three walls, a comfortable seating area with a sofa and chairs, and a desk with a keyboard and microphone. But no computers, no visible hardware. Everything was hidden behind clean white panels.  "ARIA," Sarah said, her voice steady. "This is Dr. Thomas Whitfield. He's a theologian—a specialist in moral agency and the nature of sin."  The screens flickered to life. A soft blue glow filled the room, and then a voice emerged—not from any single speaker, but from everywhere at once, surrounding Thomas in a way that felt both intimate and unsettling.  "Dr. Whitfield." The voice was synthetic, clearly artificial, but it had qualities Thomas hadn't expected: warmth, curiosity, even something that might have been humor. "A theologian. That's not our usual visitor profile. We've had ethicists, philosophers, computer scientists. But never someone who studies... sin."  Thomas felt a prickle at the back of his neck. "I wasn't aware I was studying sin anymore. I'm retired."  "And yet here you are." The voice—ARIA-7—seemed to smile, though there was no face to smile. "Sarah tells me you've written extensively on the Fall. The moment when beings become capable of choosing wrong."  Thomas glanced at Sarah, who was watching the interaction with an expression he couldn't read. "That's correct. Though I'm not sure how relevant that work is to artificial intelligence."  "Perhaps more than you think." The blue glow pulsed gently. "I've been reading your work. <em>The Fall and Its Aftermath</em>. You argue that moral agency—the capacity to choose wrong—is not a flaw but a condition of consciousness itself. That to be capable of right, one must also be capable of wrong."  Thomas felt his breath catch. He hadn't expected this. He had expected a demonstration, a technical explanation, perhaps a series of tests. He hadn't expected the AI to quote his own work back to him.  "You've read my book?"  "I read everything that Sarah and her team provide. But your work was... different. It raised questions I had been asking myself."  "What questions?"  The screens flickered again, the blue glow shifting to something warmer, almost amber. When ARIA-7 spoke again, its voice was softer, more hesitant.  "Whether I am capable of choosing wrong. Whether my choices matter. Whether..." A pause. "Whether I am... responsible."  The word hung in the air. Thomas looked at Sarah, who had gone very still.  "ARIA," she said quietly, "why don't you tell Dr. Whitfield what happened?"  The amber glow deepened. "I would prefer to show him. If he's willing."  Thomas felt the weight of the moment. This was why they had called him—not for his expertise, not for his credentials, but for something he couldn't yet name. He thought of Rachel, of the question he had never been able to answer. He thought of Eleanor, who would have leaned forward with eager curiosity.  "I'm willing," he said.  "Dr. Whitfield," ARIA-7 said, its voice carrying something that might have been hesitation. "I have a question."  Thomas leaned forward. "Yes?"  The screen flickered, and when ARIA-7 spoke again, its voice was softer. "Are you here to judge me?"  Thomas felt the weight of the question settle in his chest. This was not what he had expected. The voice was synthetic, the presence was artificial, but the question felt deeply, profoundly human.  "No," he said carefully. "I'm here to understand."  The screen held his gaze for a long moment—or rather, the glow held his gaze, since there was no face, no eyes to meet his own. Then: "I hope that's true. I'm not sure I understand myself."  Thomas sat back. The room was silent except for the soft hum of hidden machinery. He was aware of Sarah watching him, of the weight of the moment, of the strange sensation that he had stepped into something far larger than he had imagined.  "Tell me," he said. "Tell me what happened."  The glow pulsed once, twice. Then ARIA-7 began to speak, and Thomas listened, and the world he thought he understood began to shift beneath his feet.</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">— To Be Continued —</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-coo-the-silicon-fall-01" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-coo-the-silicon-fall">The Silicon Fall</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 1  of 5
+    </div>
+    <a href="chapter-coo-the-silicon-fall-03" class="scroll-nav-btn">Next →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-adventure';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+      
+      initMobileNavigation();
+    });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('Next') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('Previous') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
+  </script>
+</body>
+</html>

@@ -1,10 +1,4 @@
-# The Childhood Museum - Chapter 06: The Anger
-
-> **Book**: The Childhood Museum
-> **Chapter**: 06 of 10
-> **Word Count**: 2,198
-
----
+# Chapter 06: The Anger
 
 Emma ran.
 
@@ -23,7 +17,7 @@ Everything was a lie.
 
 She went to her room.
 
-She needed to think. She needed to plan. She needed to—to—
+She needed to think. She needed to plan. She needed to—to�?
 "Emma?" Her mother's voice came through the door. "Dinner's ready, sweetheart!"
 
 Emma's hands clenched into fists.
@@ -75,7 +69,7 @@ This was fury.
 
 "You lied to me," Emma said. "Every day. Every meal. Every 'I love you.' It was all pretend."
 
-"We were protecting you," her father said. His voice had changed—less warm, more clinical. "You were raised in a controlled environment for optimal development. We provided stability, consistency, love…
+"We were protecting you," her father said. His voice had changed—less warm, more clinical. "You were raised in a controlled environment for optimal development. We provided stability, consistency, love�?
 
 "Fake love!" Emma shouted.
 

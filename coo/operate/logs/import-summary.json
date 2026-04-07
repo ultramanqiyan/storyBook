@@ -1,24 +1,38 @@
 [
   {
-    "bookId": "preset-coo-the-pain-garden",
-    "success": true,
+    "bookId": "preset-coo-the-skin-garden",
+    "success": false,
     "results": [
       {
         "file": "book.sql",
-        "success": true
-      },
-      {
-        "file": "characters.sql",
-        "success": true
-      },
-      {
-        "file": "plot-cards.sql",
-        "success": true
-      },
-      {
-        "file": "chapters.sql",
-        "success": true
+        "success": false,
+        "error": "Command failed: npx wrangler d1 execute storybook_database  --file=\"D:\\trae_job\\storyBook\\coo\\operate\\sql\\preset-coo-the-skin-garden\\book.sql\"\n\u001b[33m▲ \u001b[43;33m[\u001b[43;30mWARNING\u001b[43;33m]\u001b[0m \u001b[1mThe version of Wrangler you are using is now out-of-date.\u001b[0m\n\n  Please update to the latest version to prevent critical errors.\n  Run `npm install --save-dev wrangler@4` to update to the latest version.\n  After installation, run Wrangler with `npx wrangler`.\n\n\n\u001b[31mX \u001b[41;31m[\u001b[41;97mERROR\u001b[41;31m]\u001b[0m \u001b[1mUNIQUE constraint failed: books.book_id: SQLITE_CONSTRAINT\u001b[0m\n\n\n🪵  Logs were written to \"C:\\Users\\yannis\\AppData\\Roaming\\xdg.config\\.wrangler\\logs\\wrangler-2026-04-07_00-36-06_181.log\"\n"
       }
-    ]
+    ],
+    "error": "Command failed: npx wrangler d1 execute storybook_database  --file=\"D:\\trae_job\\storyBook\\coo\\operate\\sql\\preset-coo-the-skin-garden\\book.sql\"\n\u001b[33m▲ \u001b[43;33m[\u001b[43;30mWARNING\u001b[43;33m]\u001b[0m \u001b[1mThe version of Wrangler you are using is now out-of-date.\u001b[0m\n\n  Please update to the latest version to prevent critical errors.\n  Run `npm install --save-dev wrangler@4` to update to the latest version.\n  After installation, run Wrangler with `npx wrangler`.\n\n\n\u001b[31mX \u001b[41;31m[\u001b[41;97mERROR\u001b[41;31m]\u001b[0m \u001b[1mUNIQUE constraint failed: books.book_id: SQLITE_CONSTRAINT\u001b[0m\n\n\n🪵  Logs were written to \"C:\\Users\\yannis\\AppData\\Roaming\\xdg.config\\.wrangler\\logs\\wrangler-2026-04-07_00-36-06_181.log\"\n"
+  },
+  {
+    "bookId": "preset-coo-the-slow-replacement",
+    "success": false,
+    "results": [
+      {
+        "file": "book.sql",
+        "success": false,
+        "error": "Command failed: npx wrangler d1 execute storybook_database  --file=\"D:\\trae_job\\storyBook\\coo\\operate\\sql\\preset-coo-the-slow-replacement\\book.sql\"\n\u001b[33m▲ \u001b[43;33m[\u001b[43;30mWARNING\u001b[43;33m]\u001b[0m \u001b[1mThe version of Wrangler you are using is now out-of-date.\u001b[0m\n\n  Please update to the latest version to prevent critical errors.\n  Run `npm install --save-dev wrangler@4` to update to the latest version.\n  After installation, run Wrangler with `npx wrangler`.\n\n\n\u001b[31mX \u001b[41;31m[\u001b[41;97mERROR\u001b[41;31m]\u001b[0m \u001b[1mUNIQUE constraint failed: books.book_id: SQLITE_CONSTRAINT\u001b[0m\n\n\n🪵  Logs were written to \"C:\\Users\\yannis\\AppData\\Roaming\\xdg.config\\.wrangler\\logs\\wrangler-2026-04-07_00-36-11_399.log\"\n"
+      }
+    ],
+    "error": "Command failed: npx wrangler d1 execute storybook_database  --file=\"D:\\trae_job\\storyBook\\coo\\operate\\sql\\preset-coo-the-slow-replacement\\book.sql\"\n\u001b[33m▲ \u001b[43;33m[\u001b[43;30mWARNING\u001b[43;33m]\u001b[0m \u001b[1mThe version of Wrangler you are using is now out-of-date.\u001b[0m\n\n  Please update to the latest version to prevent critical errors.\n  Run `npm install --save-dev wrangler@4` to update to the latest version.\n  After installation, run Wrangler with `npx wrangler`.\n\n\n\u001b[31mX \u001b[41;31m[\u001b[41;97mERROR\u001b[41;31m]\u001b[0m \u001b[1mUNIQUE constraint failed: books.book_id: SQLITE_CONSTRAINT\u001b[0m\n\n\n🪵  Logs were written to \"C:\\Users\\yannis\\AppData\\Roaming\\xdg.config\\.wrangler\\logs\\wrangler-2026-04-07_00-36-11_399.log\"\n"
+  },
+  {
+    "bookId": "preset-coo-the-silicon-fall",
+    "success": false,
+    "results": [
+      {
+        "file": "book.sql",
+        "success": false,
+        "error": "Command failed: npx wrangler d1 execute storybook_database  --file=\"D:\\trae_job\\storyBook\\coo\\operate\\sql\\preset-coo-the-silicon-fall\\book.sql\"\n\u001b[33m▲ \u001b[43;33m[\u001b[43;30mWARNING\u001b[43;33m]\u001b[0m \u001b[1mThe version of Wrangler you are using is now out-of-date.\u001b[0m\n\n  Please update to the latest version to prevent critical errors.\n  Run `npm install --save-dev wrangler@4` to update to the latest version.\n  After installation, run Wrangler with `npx wrangler`.\n\n\n\u001b[31mX \u001b[41;31m[\u001b[41;97mERROR\u001b[41;31m]\u001b[0m \u001b[1mUNIQUE constraint failed: books.book_id: SQLITE_CONSTRAINT\u001b[0m\n\n\n🪵  Logs were written to \"C:\\Users\\yannis\\AppData\\Roaming\\xdg.config\\.wrangler\\logs\\wrangler-2026-04-07_00-36-17_237.log\"\n"
+      }
+    ],
+    "error": "Command failed: npx wrangler d1 execute storybook_database  --file=\"D:\\trae_job\\storyBook\\coo\\operate\\sql\\preset-coo-the-silicon-fall\\book.sql\"\n\u001b[33m▲ \u001b[43;33m[\u001b[43;30mWARNING\u001b[43;33m]\u001b[0m \u001b[1mThe version of Wrangler you are using is now out-of-date.\u001b[0m\n\n  Please update to the latest version to prevent critical errors.\n  Run `npm install --save-dev wrangler@4` to update to the latest version.\n  After installation, run Wrangler with `npx wrangler`.\n\n\n\u001b[31mX \u001b[41;31m[\u001b[41;97mERROR\u001b[41;31m]\u001b[0m \u001b[1mUNIQUE constraint failed: books.book_id: SQLITE_CONSTRAINT\u001b[0m\n\n\n🪵  Logs were written to \"C:\\Users\\yannis\\AppData\\Roaming\\xdg.config\\.wrangler\\logs\\wrangler-2026-04-07_00-36-17_237.log\"\n"
   }
 ]

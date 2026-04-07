@@ -1587,8 +1587,11 @@ function generateChapterHTML(book, leftChapter, rightChapter, prevPageFirstChapt
     const leftChapterSEO = seoData.chapterSEO[leftChapter.orderNum];
     const rightChapterSEO = rightChapter ? seoData.chapterSEO[rightChapter.orderNum] : null;
     
-    if (leftChapterSEO?.keywords) {
-      chapterKeywords = leftChapterSEO.keywords + (rightChapterSEO?.keywords ? ', ' + rightChapterSEO.keywords : '');
+    if (leftChapterSEO?.keywords || rightChapterSEO?.keywords) {
+      const leftKeywords = leftChapterSEO?.keywords ? leftChapterSEO.keywords.split(',').map(k => k.trim()) : [];
+      const rightKeywords = rightChapterSEO?.keywords ? rightChapterSEO.keywords.split(',').map(k => k.trim()) : [];
+      const allKeywords = [...new Set([...leftKeywords, ...rightKeywords])];
+      chapterKeywords = allKeywords.join(', ');
     }
     if (leftChapterSEO?.metaDescription) {
       chapterDescription = leftChapterSEO.metaDescription;

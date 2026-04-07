@@ -1,10 +1,4 @@
-# The Dream Market - Chapter 08: The Collapse
-
-> **Book**: The Dream Market
-> **Chapter**: 08 of 10
-> **Word Count**: 2,234
-
----
+# Chapter 08: The Collapse
 
 The empty dream was released to the market.
 

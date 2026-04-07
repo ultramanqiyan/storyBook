@@ -1,10 +1,4 @@
-# The Memory Farm - Chapter 01: The Perfect Childhood
-
-> **Book**: The Memory Farm
-> **Chapter**: 01 of 10
-> **Word Count**: 2,245
-
----
+# Chapter 01: The Perfect Childhood
 
 I remember the taste of summer.
 

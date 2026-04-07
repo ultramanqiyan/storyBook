@@ -1,10 +1,4 @@
-# The Dream Market - Chapter 01: The Lucid Dreamer
-
-> **Book**: The Dream Market
-> **Chapter**: 01 of 10
-> **Word Count**: 2,234
-
----
+# Chapter 01: The Lucid Dreamer
 
 In the dream, I am god.
 
@@ -120,4 +114,3 @@ But as the sun sets on my beach dream, I notice something I've never noticed bef
 A shadow. Moving at the edge of my vision.
 
 I turn to face it, but it's gone.
-

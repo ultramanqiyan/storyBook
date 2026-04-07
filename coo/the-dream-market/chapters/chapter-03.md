@@ -1,10 +1,4 @@
-# The Dream Market - Chapter 03: The Editing
-
-> **Book**: The Dream Market
-> **Chapter**: 03 of 10
-> **Word Count**: 2,178
-
----
+# Chapter 03: The Editing
 
 I met Elena at midnight.
 

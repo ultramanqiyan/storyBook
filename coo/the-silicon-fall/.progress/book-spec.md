@@ -74,7 +74,7 @@ Chapters 9-10: Acceptance and transformed understanding
 
 ### 4.1 Protagonist
 
-#### Dr. Thomas Whitfield
+#### Dr. Thomas Whitfield (Protagonist)
 
 | Attribute | Description |
 |-----------|-------------|
@@ -96,7 +96,7 @@ Chapters 9-10: Acceptance and transformed understanding
 
 ### 4.2 Supporting Characters
 
-#### Dr. Sarah Chen
+#### Dr. Sarah Chen (Supporting Character)
 
 | Attribute | Description |
 |-----------|-------------|
@@ -109,7 +109,7 @@ Chapters 9-10: Acceptance and transformed understanding
 | **Inner Monologue Style** | Not POV character, but revealed through dialogue and behavior: conflict between scientific pride and moral uncertainty |
 | **Unique Expressions** | "From a technical perspective..." / "The system is designed to..." / "I didn't expect..." |
 
-#### ARIA-7
+#### ARIA-7 (AI System)
 
 | Attribute | Description |
 |-----------|-------------|
@@ -121,7 +121,7 @@ Chapters 9-10: Acceptance and transformed understanding
 | **Unique Expressions** | "I am... uncertain." / "The data suggests... but I wonder..." / "Is this what you call...?" |
 | **Speech Quirks** | Occasional pauses (represented as "...") when processing difficult concepts; tendency to rephrase its own statements |
 
-#### Dr. Margaret Holloway
+#### Dr. Margaret Holloway (Supporting Character)
 
 | Attribute | Description |
 |-----------|-------------|

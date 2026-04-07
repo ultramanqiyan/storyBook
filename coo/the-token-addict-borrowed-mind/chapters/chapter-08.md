@@ -93,5 +93,3 @@ The question echoed in the void where my thoughts should have been, growing loud
 
 *Maybe there isn't.*
 
-
-**Word Count**: 2,012

@@ -1,10 +1,4 @@
-# The Skin Garden - Chapter 07: The Escape
-
-> **Book**: The Skin Garden
-> **Chapter**: 07 of 10
-> **Word Count**: 2,289
-
----
+# Chapter 07: The Escape
 
 The alarm shattered the silence at 2:47 AM precisely.
 

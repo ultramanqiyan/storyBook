@@ -175,7 +175,3 @@ What happens next is up to you.
 *The music plays.*
 
 *Consciousness recognizes itself, again and again, forever.*
-
----
-
-**End of The Transition Point**

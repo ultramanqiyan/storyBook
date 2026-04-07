@@ -1,11 +1,4 @@
-# The Skin Garden - Chapter 03: The Questions
-
-> **Book**: The Skin Garden
-> **Chapter**: 03 of 10
-> **Word Count**: 2,287
-> **Last Updated**: 2026-03-24
-
----
+# Chapter 03: The Questions
 
 The report was due at 08:00.
 

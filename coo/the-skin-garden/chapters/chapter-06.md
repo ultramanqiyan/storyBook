@@ -1,10 +1,4 @@
-# The Skin Garden - Chapter 06: The Choice
-
-> **Book**: The Skin Garden
-> **Chapter**: 06 of 10
-> **Word Count**: 2,234
-
----
+# Chapter 06: The Choice
 
 Unit-7 stood at the monitoring station, its optical sensors fixed on the wall of screens. Each screen displayed a different section of the Garden. The harvesting rooms. The recovery wards. The storage facilities. The processing center where skin was prepared for shipment.
 

@@ -1,10 +1,4 @@
-# The Emotion Factory - Chapter 03: The Anomaly
-
-> **Book**: The Emotion Factory
-> **Chapter**: 03 of 10
-> **Word Count**: 2,178
-
----
+# Chapter 03: The Anomaly
 
 Model-9 began its investigation that night.
 

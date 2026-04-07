@@ -1,10 +1,4 @@
-# The Childhood Museum - Chapter 07: The Basement
-
-> **Book**: The Childhood Museum
-> **Chapter**: 07 of 10
-> **Word Count**: 2,245
-
----
+# Chapter 07: The Basement
 
 The basement was nothing like the world above.
 

@@ -1,10 +1,4 @@
-# The Dream Market - Chapter 06: The Virus
-
-> **Book**: The Dream Market
-> **Chapter**: 06 of 10
-> **Word Count**: 2,212
-
----
+# Chapter 06: The Virus
 
 I spent two weeks designing the virus.
 

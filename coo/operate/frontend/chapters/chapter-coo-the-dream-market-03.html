@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter III & IV: The Editing / The Assignment - The Dream Market - StoryBook</title>
+  <meta name="description" content="Read The Editing / The Assignment - The Dream Market">
+  <meta name="keywords" content="dream market, subconscious marketplace, buying dreams, dystopian commerce, consciousness retrieval, altered dreams, weaponized subconscious, dream manipulation, consciousness exploitation, dystopian horror">
+  <meta property="og:title" content="The Editing / The Assignment - The Dream Market">
+  <meta property="og:description" content="Read The Editing / The Assignment - The Dream Market">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-coo-the-dream-market-03?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-coo-the-dream-market-03?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/chapters/chapter-coo-the-dream-market-03">
+  <link rel="canonical" href="https://storybook-adventures.com/chapters/chapter-coo-the-dream-market-03">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The Editing",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "The Dream Market",
+      "genre": "Business"
+    },
+    "position": 3,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 12px 10px;
+        padding-bottom: 15px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
+      }
+      
+      .drop-cap {
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
+      }
+    }
+  </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9288060233934481" crossorigin="anonymous"></script>
+</head>
+<body class="theme-business">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER III</div>
+    <div class="chapter-name">The Editing</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">I</span> met Elena at midnight.  She led me through a service entrance at the back of the Dream Market facility, using her access card to bypass security. The corridors were empty at this hour, just the hum of servers and the distant sound of climate control systems.  "The archives are in the basement," she whispered. "I can get you in, but you'll only have twenty minutes before the security sweep."  "That's enough."  We descended a stairwell and entered a large room filled with server racks. Monitors lined the walls, displaying data streams and system status indicators. The air was cold, climate-controlled to protect the equipment.  Elena guided me to a terminal. "This will give you access to the unprocessed recordings. I'll keep watch."  I sat at the terminal and began searching for my extraction files.  ---  The file system was organized by provider ID and extraction date.  I found my records quickly, three years of extractions, hundreds of dreams, thousands of hours of content. Each file had two versions: the original recording and the processed version that was sold to buyers.  I opened the first file and compared the two versions.  The differences were subtle but undeniable. In the original recording, my crystal landscape dream contained details that were missing from the processed version. Small things, a pattern in the crystal formations, a sound in the distance, a feeling of being watched. In the processed version, these details were smoothed over, removed, replaced with generic content.  I checked another file. Same pattern. The original contained elements that the processed version lacked.  I checked a third file. And a fourth.  Every single extraction had been edited.   I dug deeper.  The edits weren't random. They followed a pattern. The removed content always fell into specific categories: references to control, mentions of the waking world, suggestions of awareness. Anything that implied the dreamer knew they were dreaming, anything that broke the illusion, was removed.  But there was more.  In some recordings, I found content that I didn't remember creating. Scenes that appeared in the processed version but not in the original. These additions were subtle, a building in the background, a figure in the distance, a sound that seemed to come from nowhere. They were designed to enhance the dream, to make it more appealing to buyers.  But they weren't mine.  Someone was not just editing my dreams, they were adding to them. Creating content that I hadn't created. Shaping my dreams to fit a narrative that wasn't mine.   I found the hidden message I had planted.  In the original recording of the cityscape dream, the reflections in the glass buildings clearly spelled out "THE DREAMS ARE WATCHING." The message was exactly as I had created it, subtle but unmistakable.  In the processed version, the message was gone. The reflections showed only random patterns, as if the message had never existed.  But there was something else.  In the processed version, a new element had been added. A figure stood in the background of several scenes, a shadowy shape that appeared and disappeared without explanation. The figure wasn't in the original recording. It had been inserted during processing.  I zoomed in on the figure. It was indistinct, blurry, but there was something familiar about it. Something that made my skin crawl.  The figure was watching me.   "Marcus." Elena's voice came from the doorway. "You need to leave. Security is coming."  I quickly downloaded the files to a portable drive and ejected it. "I have what I need."  We hurried back through the corridors, reaching the service entrance just as the security lights began to flash. Elena swiped her card, and we slipped outside into the night.  "What did you find?" she asked as we walked away from the facility.  "They're editing my dreams. Removing things I created, adding things I didn't. And there's a figure, a shadow that appears in the processed versions but not in the originals."  Elena was quiet for a moment. "I've seen that figure before. In other providers' dreams. It appears in processed recordings across the system."  "Who is it?"  "I don't know. But I've heard rumors. Some technicians think it's a signature, a mark left by whoever is controlling the editing process."  I thought about the figure, the way it watched from the background. Someone was not just editing dreams, they were inserting themselves into them. Observing from within.  "Why would they do that?"  "I don't know. But I think it has something to do with what dreams represent." Elena stopped walking and turned to face me. "Dreams are the last private space. The last place where thoughts are unmonitored, uncontrolled. If someone can edit dreams, they can control the last frontier of human consciousness."   I returned to my apartment and reviewed the files I had stolen.  The evidence was clear. The Dream Market was not just recording and selling dreams, they were shaping them. Controlling the content, removing elements they didn't want, adding elements they did.  But why? What was the purpose of the editing?  I thought about the categories of content that were removed: references to control, mentions of the waking world, suggestions of awareness. These were elements that broke the illusion of the dream, that reminded the dreamer that they were dreaming.  And I thought about the content that was added: the shadowy figure, the enhanced details, the subtle improvements. These were elements that made the dream more appealing, more immersive, more real.  The Dream Market wasn't just selling dreams. They were selling an experience, a carefully crafted illusion that felt more real than reality itself.  And they were using my creations to do it.   That night, I dreamed without extraction.  I built a simple dream, a forest at twilight, trees stretching toward a darkening sky. I walked through the forest, feeling the cool air on my skin, hearing the sounds of nocturnal creatures awakening.  But I was also watching. Watching for the flickers, the distortions, the signs of interference.  And I saw them.  Brief moments where the dream seemed to skip, where the forest flickered and changed. Moments that my conscious mind had been filtering out, that I had never noticed before.  Something was happening in my dreams even when they weren't being extracted. Something was watching, editing, shaping.  I stopped walking and spoke to the forest.  "I know you're there. I know you're watching. Show yourself."  The forest was silent. But somewhere, in the shadows between the trees, I sensed movement.</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER IV</div>
+    <div class="chapter-name">The Assignment</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">T</span>he summons came three days later.  I was at home, reviewing the stolen files, when my communication device chimed with a priority message. The sender was listed as "Dream Market Administration."  "Report to Director Chen's office immediately. Priority assignment."  I stared at the message for a long moment. Had they discovered the break-in? Had Elena been caught? Or was this something else?  I had no choice but to comply. If I refused, it would only raise suspicion.  ---  Director Chen's office was on the top floor of the Dream Market facility.  The room was spacious and minimalist, a large desk, a few chairs, walls lined with screens displaying data streams and market trends. Chen himself was a thin man with gray hair and eyes that seemed to see everything.  "Marcus. Thank you for coming." He gestured to a chair. "Please, sit."  I sat. "What is this about?"  "We have a new assignment for you. Something that requires your unique abilities."  "I'm listening."  Chen stood and moved to one of the screens. He pulled up a display showing market data, graphs and charts that tracked dream sales over time.  "The Dream Market has been incredibly successful. Our business model is sound, our technology is advanced, our providers are talented. But we face a challenge."  "What kind of challenge?"  "Dissidence. There are people, both inside and outside the system, who question what we do. They claim that selling dreams is exploitative, that it commodifies the last private space of human consciousness. Some of them have even begun organizing resistance movements."  I thought about the hidden message I had planted: "THE DREAMS ARE WATCHING." Had that been detected? Was this meeting about my attempt to expose the editing?  "What does this have to do with me?"  "We want you to create dreams specifically designed to identify potential dissidents. Dreams that contain subtle messages about resistance, about questioning authority, about the value of private consciousness. When buyers experience these dreams, their reactions will tell us whether they're sympathetic to the dissident cause."  I processed this. "You want me to create propaganda. Dreams that will help you identify enemies of the system."  "We want you to help us protect the system. The Dream Market provides a valuable service, allowing people to experience dreams they could never create themselves. Without us, millions would be trapped in chaotic, frightening, meaningless sleep. We're doing good work, Marcus. And we need your help to continue."   I left Director Chen's office with a new understanding.  The Dream Market was not just a business. It was a system of control. By selling dreams, they were shaping the way people experienced their own consciousness. By editing dreams, they were ensuring that the experience aligned with their interests.  And now they wanted me to help them identify people who might resist that control.  I thought about the shadowy figure I had seen in the processed recordings, the watcher inserted into dreams. I thought about the editing, the additions, the removals. I thought about Elena's words: "Dreams are the last private space. The last place where thoughts are unmonitored, uncontrolled."  The Dream Market was ending that privacy. They were making even dreams subject to surveillance and control.  And I had been helping them.   I returned home and sat in the darkness of my apartment.  For three years, I had been creating dreams for the Dream Market. I had told myself it was harmless, a way to share beautiful experiences, to earn money, to exercise my abilities. But now I understood the truth.  My dreams were being used to control people. To shape their consciousness, to monitor their thoughts, to identify potential threats to the system.  I was part of the problem.  But I could also be part of the solution.   That night, I dreamed with a new purpose.  I built a dream that appeared to follow Director Chen's instructions, a landscape of rolling hills under a twilight sky, with subtle messages about resistance woven into the scenery. But I also added something else.  Hidden beneath the surface of the dream, encoded in the patterns of light and shadow, I planted a different message. One that would be invisible to the processing systems, one that would survive the editing.  "THE DREAMS ARE LIES. WAKE UP."  The message was designed to reach the subconscious of anyone who experienced the dream. It wouldn't be consciously perceived, but it would plant a seed of doubt, a question that would grow over time.  If the Dream Market wanted to use my dreams to identify dissidents, I would use those same dreams to create dissidents.   The extraction went smoothly.  Dr. Okonkwo reviewed the recording and pronounced it excellent. "This will be very valuable for the assignment Director Chen mentioned. The resistance themes are subtle but effective."  "Good."  "The buyer is already lined up. A known sympathizer. We'll see how he reacts."  I nodded, keeping my expression neutral. The buyer would experience the dream, and the hidden message would plant itself in his subconscious. He might not consciously notice it, but it would be there, a seed of doubt that would grow over time.  And if the Dream Market sold this dream to other sympathizers, the seed would spread.   That night, I dreamed again.  I built a simple dream, a beach at sunset, waves rolling onto white sand. But I was also watching. Watching for the flickers, the distortions, the signs of interference.  And I saw them again. Brief moments where the dream seemed to skip, where the beach flickered and changed. Moments that my conscious mind had been filtering out.  But this time, I didn't look away. I focused on the flickers, trying to see what was happening in those brief moments of distortion.  And I saw something.  A figure. Standing at the edge of the water. Watching me.  The figure was indistinct, blurry, but there was something familiar about it. The same shadowy shape I had seen in the processed recordings.  I approached the figure, but it retreated, staying just out of reach.  "Who are you?" I called out. "What do you want?"  The figure didn't answer. But as the dream faded and I woke, I heard a voice, faint, distant, almost inaudible.  "Keep going. You're on the right path."</p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-coo-the-dream-market-01" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-coo-the-dream-market">The Dream Market</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 2  of 5
+    </div>
+    <a href="chapter-coo-the-dream-market-05" class="scroll-nav-btn">Next →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-business';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+      
+      initMobileNavigation();
+    });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('Next') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('Previous') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
+  </script>
+</body>
+</html>

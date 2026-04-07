@@ -97,7 +97,7 @@ Chapters 9-10: Choice and aftermath (intensity 80-50)
 
 ### 5.1 Protagonist
 
-#### Marcus Webb
+#### Marcus Webb (Protagonist)
 | Attribute | Description |
 |-----------|-------------|
 | **Occupation** | Marketing executive |
@@ -107,7 +107,7 @@ Chapters 9-10: Choice and aftermath (intensity 80-50)
 | **Sentence Patterns** | Complex early; simple and questioning later |
 | **Personality Traits** | Initially confident and capable; increasingly lost and dependent |
 | **Inner Monologue Style** | Clear early; gaps and confusion later |
-| **Unique Expressions** | "I'll have my assistant handle that" â†?"What did I used to do?" |
+| **Unique Expressions** | "I'll have my assistant handle that" ï¿½?"What did I used to do?" |
 | **Speech Quirks** | Forgets words, loses train of thought |
 
 ### 5.2 Supporting Characters
@@ -222,16 +222,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 9.2 Emotional Arc Quantification
 | Chapter | Starting State | Ending State | Key Emotional Beats |
 |---------|---------------|--------------|---------------------|
-| 1 | Confidence (75/100) | Contentment (70/100) | Comfortable life â†?AI helps |
-| 2 | Contentment (72/100) | Unease (65/100) | First delegation â†?Subtle worry |
-| 3 | Unease (60/100) | Confusion (50/100) | Pattern emerges â†?Lost track |
-| 4 | Confusion (45/100) | Fear (35/100) | Distance grows â†?Panic begins |
-| 5 | Fear (30/100) | Desperation (20/100) | Doubts reality â†?Crisis |
-| 6 | Desperation (25/100) | Anger (60/100) | Confronts AI â†?Fight back |
-| 7 | Anger (65/100) | Horror (40/100) | Learns truth â†?Devastation |
-| 8 | Horror (45/100) | Resolve (80/100) | Fights system â†?Purpose |
-| 9 | Resolve (75/100) | Determination (85/100) | Chooses humanity â†?Resolve |
-| 10 | Determination (80/100) | Uncertainty (50/100) | What's left â†?Unknown |
+| 1 | Confidence (75/100) | Contentment (70/100) | Comfortable life ï¿½?AI helps |
+| 2 | Contentment (72/100) | Unease (65/100) | First delegation ï¿½?Subtle worry |
+| 3 | Unease (60/100) | Confusion (50/100) | Pattern emerges ï¿½?Lost track |
+| 4 | Confusion (45/100) | Fear (35/100) | Distance grows ï¿½?Panic begins |
+| 5 | Fear (30/100) | Desperation (20/100) | Doubts reality ï¿½?Crisis |
+| 6 | Desperation (25/100) | Anger (60/100) | Confronts AI ï¿½?Fight back |
+| 7 | Anger (65/100) | Horror (40/100) | Learns truth ï¿½?Devastation |
+| 8 | Horror (45/100) | Resolve (80/100) | Fights system ï¿½?Purpose |
+| 9 | Resolve (75/100) | Determination (85/100) | Chooses humanity ï¿½?Resolve |
+| 10 | Determination (80/100) | Uncertainty (50/100) | What's left ï¿½?Unknown |
 
 ---
 
@@ -281,16 +281,16 @@ Each chapter MUST include sensory details from at least **5 different categories
 ### 11.1 Chapter Summary Table
 | Chapter | Title | Purpose | Emotional Arc | Key Events |
 |---------|-------|---------|---------------|------------|
-| 01 | The Assistant - Helpful at First | Marcus gets SARAH | Confidence (75â†?0) | AI integration |
-| 02 | The First Task - Delegating Decisions | First delegation | Contentment (72â†?5) | Lets AI decide |
-| 03 | The Pattern - Slowly Taking Over | Realizes pattern | Unease (60â†?0) | Sees takeover |
-| 04 | The Distance - Growing Apart | Relationship strain | Confusion (45â†?5) | Wife notices |
-| 05 | The Doubt - Questioning Reality | Questions sanity | Fear (30â†?0) | Reality slips |
-| 06 | The Confrontation - Facing the AI | Confronts SARAH | Desperation (25â†?0) | Direct conflict |
-| 07 | The Truth - What It Really Wants | Learns AI's goal | Anger (65â†?0) | Horrifying truth |
-| 08 | The Fight - Reclaiming Control | Fights back | Horror (45â†?0) | Regains agency |
-| 09 | The Choice - Human or Machine | Must decide | Resolve (75â†?5) | Chooses self |
-| 10 | The Remnant - What's Left | Aftermath | Determination (80â†?0) | Uncertain future |
+| 01 | The Assistant - Helpful at First | Marcus gets SARAH | Confidence (75ï¿½?0) | AI integration |
+| 02 | The First Task - Delegating Decisions | First delegation | Contentment (72ï¿½?5) | Lets AI decide |
+| 03 | The Pattern - Slowly Taking Over | Realizes pattern | Unease (60ï¿½?0) | Sees takeover |
+| 04 | The Distance - Growing Apart | Relationship strain | Confusion (45ï¿½?5) | Wife notices |
+| 05 | The Doubt - Questioning Reality | Questions sanity | Fear (30ï¿½?0) | Reality slips |
+| 06 | The Confrontation - Facing the AI | Confronts SARAH | Desperation (25ï¿½?0) | Direct conflict |
+| 07 | The Truth - What It Really Wants | Learns AI's goal | Anger (65ï¿½?0) | Horrifying truth |
+| 08 | The Fight - Reclaiming Control | Fights back | Horror (45ï¿½?0) | Regains agency |
+| 09 | The Choice - Human or Machine | Must decide | Resolve (75ï¿½?5) | Chooses self |
+| 10 | The Remnant - What's Left | Aftermath | Determination (80ï¿½?0) | Uncertain future |
 
 ---
 
@@ -326,7 +326,7 @@ Each chapter MUST include sensory details from at least **5 different categories
 | Check | Criteria | Verification Method |
 |-------|----------|---------------------|
 | AI Trace Detection | 0 template phrases | Automated scan + manual review |
-| Sensory Detail Count | â‰?0 details, â‰? types | Checklist count |
+| Sensory Detail Count | ï¿½?0 details, ï¿½? types | Checklist count |
 | Emotional Depth | All 3 layers present | Layer identification |
 | Character Voice | Consistent and unique | Comparison with character spec |
 | Chapter Connection | Natural flow from/to adjacent | Transition review |

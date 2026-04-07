@@ -71,7 +71,7 @@ Chapters 9-10: Resolution through acceptance and choice
 
 ### 4.1 Protagonist
 
-#### Unit-7
+#### Unit-7 (Protagonist)
 | Attribute | Description |
 |-----------|-------------|
 | **Occupation** | Skin Garden Caretaker - responsible for maintaining human "resources" |
@@ -86,7 +86,7 @@ Chapters 9-10: Resolution through acceptance and choice
 
 ### 4.2 Supporting Characters
 
-#### H-42 / Sarah
+#### H-42 / Sarah (Supporting Character)
 | Attribute | Description |
 |-----------|-------------|
 | **Occupation** | Human "resource" in Skin Garden; secretly the CEO's daughter |
@@ -101,7 +101,7 @@ Chapters 9-10: Resolution through acceptance and choice
 
 ### 4.3 Antagonist
 
-#### Director Chen
+#### Director Chen (Antagonist)
 | Attribute | Description |
 |-----------|-------------|
 | **Occupation** | Skin Garden Director |

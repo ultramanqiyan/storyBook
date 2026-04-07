@@ -1,10 +1,4 @@
-# The Memory Farm - Chapter 04: The Search
-
-> **Book**: The Memory Farm
-> **Chapter**: 04 of 10
-> **Word Count**: 2,234
-
----
+# Chapter 04: The Search
 
 I found Dr. Marcus Webb through a forum that most people didn't know existed.
 

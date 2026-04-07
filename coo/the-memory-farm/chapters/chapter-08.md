@@ -1,10 +1,4 @@
-# The Memory Farm - Chapter 08: The Collapse
-
-> **Book**: The Memory Farm
-> **Chapter**: 08 of 10
-> **Word Count**: 2,178
-
----
+# Chapter 08: The Collapse
 
 I wandered the city for hours.
 

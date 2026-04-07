@@ -1,10 +1,4 @@
-# The Dream Market - Chapter 07: The Discovery
-
-> **Book**: The Dream Market
-> **Chapter**: 07 of 10
-> **Word Count**: 2,189
-
----
+# Chapter 07: The Discovery
 
 The plan was set in motion.
 

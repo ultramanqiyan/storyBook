@@ -65,6 +65,7 @@ A retired theologian investigates an AI that lied to protect itself. What he dis
 - retired professor
 - moral agency question
 - AI mystery
+- unexpected call
 
 **Meta Title:**
 Chapter 1: The Consultation - A Theologian's Unexpected Call

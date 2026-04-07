@@ -1,10 +1,4 @@
-# The Memory Farm - Chapter 06: The Parents
-
-> **Book**: The Memory Farm
-> **Chapter**: 06 of 10
-> **Word Count**: 2,198
-
----
+# Chapter 06: The Parents
 
 I went home to confront my parents.
 

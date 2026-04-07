@@ -1,10 +1,4 @@
-# The Childhood Museum - Chapter 10: The Museum
-
-> **Book**: The Childhood Museum
-> **Chapter**: 10 of 10
-> **Word Count**: 2,256
-
----
+# Chapter 10: The Museum
 
 Emma had been in the basement for almost a year when everything changed.
 
@@ -81,7 +75,7 @@ There were nearly forty children now. Too many to rescue all at once. Too many t
 "We don't all have to go," she said slowly. "Some of us can stay. Keep the network running. Keep spreading the truth."
 
 
-Sarah shook her head. "Emma, that's dangerous. If they catch you—"
+Sarah shook her head. "Emma, that's dangerous. If they catch you�?
 
 "They won't catch me," Emma said. "I'm just another imperfect child. Just another failure in the basement. That's what they think."
 
@@ -180,4 +174,3 @@ Below them, the imperfect children continued to hope.
 In between, the Childhood Museum was beginning to crack.
 
 
-**END OF THE CHILDHOOD MUSEUM**

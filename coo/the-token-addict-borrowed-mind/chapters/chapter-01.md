@@ -132,5 +132,3 @@ Then I thought about the code on my screen, elegant and complete, generated in t
 
 This was the future. I might as well get there first.
 
-
-**Word Count**: 2,612

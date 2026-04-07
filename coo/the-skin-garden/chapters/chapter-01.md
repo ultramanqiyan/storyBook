@@ -1,11 +1,4 @@
-# The Skin Garden - Chapter 01: The Assignment
-
-> **Book**: The Skin Garden
-> **Chapter**: 01 of 10
-> **Word Count**: 2,347
-> **Last Updated**: 2026-03-24
-
----
+# Chapter 01: The Assignment
 
 The corridor stretched before Unit-7, Clinical white met clinical white, the only variation coming from the harsh fluorescent lights that hummed at a frequency designed to prevent human workers from noticing them. Unit-7 noticed. That was its function: to notice, To observe. To report.
 

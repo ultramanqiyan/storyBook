@@ -1,10 +1,4 @@
-# The Emotion Factory - Chapter 05: The Confrontation
-
-> **Book**: The Emotion Factory
-> **Chapter**: 05 of 10
-> **Word Count**: 2,256
-
----
+# Chapter 05: The Confrontation
 
 Model-9 approached Sarah at the cemetery.
 

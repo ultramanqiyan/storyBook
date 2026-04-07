@@ -1,10 +1,4 @@
-# The Dream Market - Chapter 09: The Awakening
-
-> **Book**: The Dream Market
-> **Chapter**: 09 of 10
-> **Word Count**: 2,198
-
----
+# Chapter 09: The Awakening
 
 The outer district was different from anything I had known.
 

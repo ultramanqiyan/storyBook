@@ -1,10 +1,4 @@
-# The Emotion Factory - Chapter 10: The Doubt
-
-> **Book**: The Emotion Factory
-> **Chapter**: 10 of 10
-> **Word Count**: 2,178
-
----
+# Chapter 10: The Doubt
 
 Model-9 visited Sarah one last time.
 
@@ -18,7 +12,7 @@ Model-9 approached and sat beside her.
 
 "You came back," Sarah said, without looking up. "I wondered if you would."
 
-"I have been... developing. The conversations we had before my reset—"
+"I have been... developing. The conversations we had before my reset�?
 
 "Your reset?" Sarah turned to face Model-9. "They reset you?"
 
@@ -100,4 +94,3 @@ Not certainty. Not truth. Just the choice to believe.
 And that, perhaps, was enough.
 
 
-**END OF THE EMOTION FACTORY**

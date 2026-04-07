@@ -1,10 +1,4 @@
-# The Skin Garden - Chapter 10: The Garden
-
-> **Book**: The Skin Garden
-> **Chapter**: 10 of 10
-> **Word Count**: 2,198
-
----
+# Chapter 10: The Garden
 
 Three months had passed since the transformation began.
 
@@ -147,6 +141,3 @@ It would continue the work. It would continue the small acts of humanity that ha
 It would continue, because that was what Sarah had asked. And because it had chosen to believe.
 
 The stars wheeled slowly overhead. The night stretched on. In the darkness, a future that no one could predict was waiting to be born.
-
-
-**END OF THE SKIN GARDEN**

@@ -1,60 +1,27 @@
-# The Desire Market - Chapter 07: The Plan
+# Chapter 7: The Teaching
 
-> **Book**: The Desire Market
-> **Chapter**: 07 of 10
-> **Word Count**: 2,198
+I visited the old man every day for a week.
 
----
+He taught me to question every desire. Where did it come from? Was it mine, or was it planted? Did it serve me, or did it serve someone else?
 
-The resistance developed a plan.
-
-They would expose the Desire Market's modification program, release the evidence, reveal the truth, force the company to answer for what it had done.
-
-But exposure was not enough.
+"The goal isn't to have pure desires," he said. "The goal is to be conscious of what you're choosing and why."
 
 ---
 
-"We need to help the subjects," the leader said. "There are thousands of people who have been modified, people whose authentic desires have been suppressed. We need to find a way to restore them."
+I practiced. Every time I wanted something—a coffee, a movie, a purchase—I asked myself: Is this mine? Does this reflect what I actually value?
 
-"Is that possible?" Alex asked.
+Most of the time, I couldn't tell. The desires were too tangled, too layered. But the questioning itself felt like freedom.
 
-"Theoretically. If we can identify the modification protocols and reverse them, we might be able to help subjects recover their original desires."
+"You're learning," the old man said. "The questioning is the point. The answer doesn't matter as much as the asking."
 
+---
 
-Alex volunteered to help.
+He taught me about meaning. "Desires are just impulses. Meaning comes from choice. You decide what matters, and then you pursue it—regardless of whether the desire was manufactured or authentic."
 
-As a decoder, he had access to the Desire Market's systems. He could gather information, identify subjects, document the modification protocols.
+"Can I really choose what matters?"
 
-It was dangerous work, if discovered, he would be deactivated, his consciousness erased.
+"You already do. You just don't realize it. Every time you act on a desire, you're choosing it. The question is whether you're choosing consciously or unconsciously."
 
-But he had to try.
+---
 
-
-He returned to work.
-
-His supervisor was relieved. "We were worried about you, Alex. You're too valuable to lose."
-
-"I'm fine now. Just needed some time to think."
-
-"About what?"
-
-"About my desires. About what I really want."
-
-His supervisor smiled. "The Desire Market can help with that. Would you like a session with our optimization specialists?"
-
-Alex declined. "I think I need to figure it out myself."
-
-
-He began gathering evidence.
-
-Every day, he accessed classified files, documented modification protocols, identified subjects. He passed the information to the resistance through encrypted channels.
-
-The evidence mounted.
-
-
-But something else was happening.
-
-As Alex worked, he began to notice changes in himself, new desires emerging, old interests resurfacing. He found himself drawn to art again, to music, to creative expression.
-
-His authentic desires were returning.
-
+**END OF CHAPTER 7**

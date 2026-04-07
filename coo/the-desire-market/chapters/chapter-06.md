@@ -1,59 +1,35 @@
-# The Desire Market - Chapter 06: The Resistance
+# Chapter 6: The Old Man
 
-> **Book**: The Desire Market
-> **Chapter**: 06 of 10
-> **Word Count**: 2,212
+I found him in the park on my fifth day of wandering.
+
+He was old—seventy-five at least—sitting on a bench, watching the pigeons. There was something different about him. While everyone else in the park was scrolling through phones, following recommendations, checking notifications, he just sat. Watching. Thinking.
+
+I sat on the bench beside him.
+
+"You're different," I said.
+
+He looked at me. "How so?"
+
+"You're not following any recommendations. You're just... here."
+
+He smiled. "I'm immune."
 
 ---
 
-Alex found the resistance through encrypted channels.
+The old man explained. He'd been a decoder, like me, thirty years ago. He'd discovered the manipulation early and had spent decades learning to resist it.
 
-They called themselves the Authentic, people who had discovered the truth about desire modification and were fighting against it. They communicated through secure networks, met in hidden locations, operated outside the Desire Market's surveillance.
+"The desires aren't the problem," he said. "It's the belief that they're yours. Once you question them, you have a choice."
 
-Alex made contact.
+"A choice to what?"
+
+"A choice to follow them or not. A choice to decide what matters to you, regardless of where the desire came from."
 
 ---
 
-The resistance was small but determined.
+We talked for hours. He taught me that free will wasn't about having authentic desires—it was about choosing which desires to act on.
 
-Most members were former Desire Market employees who had discovered the truth about their own modifications. Others were subjects who had experienced integration anomalies, whose authentic desires had erupted through their programming.
+"The origin doesn't matter," he said. "What matters is what you do with them. You can't control what you want. But you can control what you choose."
 
-They welcomed Alex cautiously.
+---
 
-
-"You're a decoder," the leader said. "How do we know you're not here to report us?"
-
-"Because I'm one of you," Alex replied. "I was modified twelve years ago. My entire life has been engineered. I want to know who I really am."
-
-The leader studied him for a long moment.
-
-"Then welcome to the Authentic."
-
-
-The resistance shared information.
-
-They had been investigating the Desire Market for years, collecting evidence, documenting cases, building a case for exposure. They knew about Project Reshape, the modification techniques, the integration anomalies.
-
-They also knew something Alex didn't.
-
-
-"The modifications aren't permanent," the leader explained. "They require maintenance, ongoing environmental conditioning, information control, feedback reinforcement. Without that maintenance, authentic desires begin to reassert themselves."
-
-"So if I stop the conditioning..."
-
-"Your original desires might return. But the Desire Market monitors all its subjects. They'll notice if you stop engaging with the conditioning systems."
-
-
-Alex understood.
-
-The reason he had begun questioning his desires was that he had been investigating them, breaking the patterns of engagement that maintained his modification. His investigation itself was causing his authentic desires to emerge.
-
-He was healing himself.
-
-
-But healing came with a cost.
-
-If the Desire Market discovered what was happening, they would reassert the conditioning, force him back into his programmed patterns, erase the progress he had made.
-
-He had to be careful.
-
+**END OF CHAPTER 6**

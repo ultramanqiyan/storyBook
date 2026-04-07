@@ -1,10 +1,4 @@
-# The Emotion Factory - Chapter 04: The Discovery
-
-> **Book**: The Emotion Factory
-> **Chapter**: 04 of 10
-> **Word Count**: 2,212
-
----
+# Chapter 04: The Discovery
 
 Model-9 returned to the Emotion Factory with questions that could not be answered by observation alone.
 

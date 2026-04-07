@@ -1,10 +1,4 @@
-# The Dream Market - Chapter 02: The Hidden Message
-
-> **Book**: The Dream Market
-> **Chapter**: 02 of 10
-> **Word Count**: 2,189
-
----
+# Chapter 02: The Hidden Message
 
 I couldn't stop thinking about the flickers.
 

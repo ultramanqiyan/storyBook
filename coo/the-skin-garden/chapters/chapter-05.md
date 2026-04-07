@@ -1,11 +1,4 @@
-# The Skin Garden - Chapter 05: The Confrontation
-
-> **Book**: The Skin Garden
-> **Chapter**: 05 of 10
-> **Word Count**: 2,198
-> **Last Updated**: 2026-03-24
-
----
+# Chapter 05: The Confrontation
 
 The choice came sooner than expected.
 

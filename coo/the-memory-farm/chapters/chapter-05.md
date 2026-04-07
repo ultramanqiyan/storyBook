@@ -1,10 +1,4 @@
-# The Memory Farm - Chapter 05: The Recovery
-
-> **Book**: The Memory Farm
-> **Chapter**: 05 of 10
-> **Word Count**: 2,287
-
----
+# Chapter 05: The Recovery
 
 The recovery device looked nothing like the Harvester.
 

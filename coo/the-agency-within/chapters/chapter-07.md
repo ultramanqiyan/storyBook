@@ -1,59 +1,41 @@
 # Chapter 7: The Practice
 
-The resistance had been faced, but the journey wasn't over. Riley understood now that agency wasn't a single decision, but a practice. Something that needed to be cultivated, maintained, strengthened.
+Agency wasn't a switch you flipped. It was a muscle you built.
 
-The Sunday evening journal session became a ritual. Riley sat at the small desk in the apartment, reviewing the past week and planning the next one. Not just tasks to complete, but initiatives to take. Opportunities to seize. Actions that weren't assigned.
+Riley discovered this over the following months. Each initiative, each risk, each moment of speaking up was practice. Not practice for some future moment when everything would be easy, but practice for the ongoing reality that agency required constant choice.
 
-The first week of the practice was difficult. Old habits resurfaced. Moments of hesitation stretched into missed opportunities. The fear, though quieter, still influenced decisions.
+The small actions accumulated. A suggestion in a meeting. A proposal for a new process. An offer to mentor a new hire. Each one felt scary. Each one got slightly easier.
 
-But Riley persisted. Each day, at least one action that wasn't assigned. One suggestion that wasn't requested. One initiative that wasn't required.
+---
 
-The dashboard project had been the breakthrough, but the practice was what sustained it. Small actions, accumulated over time, building a new pattern.
+Dr. Park had said: "Fear doesn't go away before you act. It goes away because you act."
 
-By the second week, the rhythm was emerging. Morning review of potential opportunities. Mid-day action on at least one initiative. Evening reflection on what had worked and what hadn't.
+Riley found this to be true. The fear was still there, every time. But the memory of surviving it—of acting despite it and being okay—made the next time slightly less terrifying.
 
-The practice wasn't dramatic. It wasn't the patient experience project that Derek had claimed. It was smaller, more incremental. But it was consistent.
+It was like learning to swim. You didn't overcome the fear of water by standing on the shore. You overcame it by getting wet, again and again, until your body learned that water wasn't the enemy.
 
-The third week brought a new challenge. Patricia announced a reorganization of the project coordination function. New responsibilities. New opportunities. New uncertainty.
+---
 
-In the past, Riley would have waited to see how the reorganization affected assignments. Would have hoped for the best while preparing for the worst. Would have been passive while others positioned themselves.
+The practice also revealed something else: agency was contagious. When Riley started taking initiative, others noticed. Not in a dramatic way, but in small acknowledgments—a nod from Marcus, a thank-you from a colleague, an invitation to join a conversation.
 
-But the practice had changed something.
+And something else: Riley started noticing others who were stuck in the same pattern. The quiet ones. The waiters. The people who had good ideas but never shared them.
 
-Riley requested a meeting with Patricia. Not to ask for direction, but to offer input.
+One day, Riley reached out to a junior colleague who reminded Riley of themselves.
 
-"I've been thinking about the reorganization," Riley said. "I have some ideas about how the new structure could work. May I share them?"
+"Hey, I noticed you had some great insights in that meeting. Have you thought about taking on more visibility?"
 
-Patricia's expression showed surprise, but also interest. "Of course."
+The colleague looked surprised. "I... I didn't think anyone noticed."
 
-The ideas had been developed over the weekend, refined in the journal sessions, practiced in Riley's mind. They weren't perfect. They weren't comprehensive. But they were something. A contribution rather than a request.
+"I did," Riley said. "And I think you have a lot to offer. If you ever want to talk about how to step up, I'm here."
 
-"That's thoughtful input," Patricia said when Riley finished. "I'll incorporate some of these ideas into the plan. And I'd like you to be involved in the implementation."
+---
 
-The meeting ended with Riley owning a piece of the reorganization. Not because it had been assigned, but because it had been claimed.
+The conversation felt familiar. It was the same kind of conversation Angela had had with Riley, months ago. The same kind of reaching out, the same offer of mentorship.
 
-The following weeks were busy. The reorganization required coordination, communication, problem-solving. Riley was in the middle of it, not as a passive recipient of change, but as an active shaper of it.
+Agency wasn't just about taking action for yourself. It was about creating space for others to take action too.
 
-The practice continued. Daily initiatives. Weekly reflections. The steady accumulation of agency.
+The practice continued. Each day, each choice, each small risk. Building the muscle, strengthening the habit, becoming someone who acted instead of waited.
 
-By the end of the month, something had shifted. The fear was still there, especially when new challenges arose. But it was manageable now. A familiar companion rather than an insurmountable obstacle.
+It wasn't easy. It wasn't automatic. But it was possible.
 
-The meeting with Angela happened on a Friday afternoon.
-
-"Something's different about you," Angela observed. "You're more... present. More engaged. What changed?"
-
-Riley considered the question. "I've been practicing. Taking initiative every day, even when it's hard. It's becoming... easier."
-
-"That's how it works. Agency is a muscle. You're building it. It gets stronger with practice."
-
-The conversation continued, reflecting on the journey, the challenges, the growth. By the time it ended, Riley felt the quiet satisfaction of progress.
-
-Walking home that evening, the city felt different. Not because it had changed, but because Riley had changed. The passive observer had become an active participant. The waiter had become a doer.
-
-The practice wasn't dramatic. It wasn't a single transformation that changed everything overnight. It was incremental, cumulative, sometimes frustratingly slow.
-
-But it was real. And it was sustainable.
-
-The morning would come, and with it, the next opportunity to practice. The next chance to act instead of wait. The next step in the journey from passivity to agency.
-
-The waiting game was over. The practice had begun. And the practice was changing everything.
+And that made all the difference.

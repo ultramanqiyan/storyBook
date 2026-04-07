@@ -1,10 +1,4 @@
-# The Memory Farm - Chapter 03: The Extraction
-
-> **Book**: The Memory Farm
-> **Chapter**: 03 of 10
-> **Word Count**: 2,156
-
----
+# Chapter 03: The Extraction
 
 The extraction chamber was colder than usual.
 

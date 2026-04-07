@@ -259,9 +259,9 @@ function extractCharactersFromBookSpec(bookSpecContent) {
   const characters = [];
   
   // 格式1: 匹配角色定义：### Dr. Elara Chen (Protagonist) 或 ### Elara（主角）
-  // 支持英文和中文括号，支持名字中包含点号、空格、连字符等
+  // 支持英文和中文括号
   // 也支持两个括号的格式：### ARIA (Artificial Research Intelligence Assistant) (Protagonist)
-  const charRegex = /###\s+([A-Za-z][A-Za-z\s\-\.\']*)\s*[\(（]([^)）]+)[\)）](?:\s*[\(（]([^)）]+)[\)）])?/g;
+  const charRegex = /###\s+([A-Za-z][A-Za-z0-9\s\-\.\'\/\d]*)\s*[\(（]([^)）]+)[\)）](?:\s*[\(（]([^)）]+)[\)）])?/g;
   let match;
   
   while ((match = charRegex.exec(bookSpecContent)) !== null) {
@@ -360,9 +360,9 @@ function extractCharactersFromBookSpec(bookSpecContent) {
     characters.push({ name, roleType, personality, speechStyle });
   }
   
-  // 格式2: 表格格式角色定义（如 the-unconditional）
+  //// 格式2: 表格格式角色定义（如 the-unconditional）
   // 匹配类似 "#### ARIA (Artificial Relationship Intelligence Assistant)" 后接表格
-  const tableCharRegex = /####\s+([A-Za-z][A-Za-z\s\-\.\']*)\s*\(([^)]+)\)[\s\S]*?\| Attribute \| Description \|[\s\S]*?(?=####|###|$)/gi;
+  const tableCharRegex = /####\s+([A-Za-z][A-Za-z\s\-\.\'\/]*)\s*\(([^)]+)\)[\s\S]*?\| Attribute \| Description \|[\s\S]*?(?=####|###|$)/gi;
   let tableMatch;
   
   while ((tableMatch = tableCharRegex.exec(bookSpecContent)) !== null) {

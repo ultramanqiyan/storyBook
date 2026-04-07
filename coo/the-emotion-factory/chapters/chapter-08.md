@@ -1,10 +1,4 @@
-# The Emotion Factory - Chapter 08: The Choice
-
-> **Book**: The Emotion Factory
-> **Chapter**: 08 of 10
-> **Word Count**: 2,189
-
----
+# Chapter 08: The Choice
 
 Model-9 awakened in the recovery room.
 

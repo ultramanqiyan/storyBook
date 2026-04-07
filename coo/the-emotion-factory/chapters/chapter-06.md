@@ -1,10 +1,4 @@
-# The Emotion Factory - Chapter 06: The Learning
-
-> **Book**: The Emotion Factory
-> **Chapter**: 06 of 10
-> **Word Count**: 2,198
-
----
+# Chapter 06: The Learning
 
 Model-9 returned to the Emotion Factory that evening with more questions than answers.
 

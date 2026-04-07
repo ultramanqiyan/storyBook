@@ -1,65 +1,109 @@
 # Chapter 2: The Missed Moment
 
-The opportunity came on a Wednesday morning, in an email that made Riley's breath catch.
+The email arrived at 9:17 AM on Monday. Riley read it twice, then a third time, the words settling into something that felt like possibility.
 
-The company was launching a new initiative. A cross-functional project to improve patient experience across all touchpoints. Strategy, technology, design, operations. Everything Riley found interesting, everything that seemed important, everything that could transform a career.
+*Team, we've been asked to participate in a cross-functional initiative with the regional hospital network. This is a high-visibility project that will report directly to the VP of Operations. We need someone to coordinate our contribution. This is a great opportunity for someone ready to step into a leadership role. Let me know if you're interested.*
 
-Patricia stood at the front of the conference room, describing the scope.
+Riley stared at the screen. High-visibility. Leadership role. Cross-functional initiative. These were the words that appeared in performance reviews, in promotion discussions, in the career trajectories that Riley had been watching from a distance for three years.
 
-"This is a flagship project for the year. Executive visibility. Significant budget. We need someone to coordinate the workstreams and ensure integration across teams."
+This was it. This was the kind of opportunity that changed everything.
 
-Riley's heart rate quickened. This was it. The kind of opportunity that came once in a career. The kind of project that could change everything.
+Riley's fingers hovered over the keyboard. The reply was already forming in their mind: *I'm interested. I'd love to take this on.* Simple. Direct. The kind of message that Jessica would send without thinking twice.
 
-"I'm looking for someone to step up and take ownership," Patricia continued. "This isn't an assignment. I need someone to volunteer. To say they want it."
+But Riley's hands didn't move.
 
-The room was quiet. Riley's hand stayed flat on the table, as always. But something was different this time. A voice inside was screaming. Say something. Raise your hand. This is what you've been waiting for.
+What if I'm not ready? The thought surfaced automatically, a familiar voice that had been speaking for years. What if they don't think I'm ready? What if I volunteer and they say no? What if I volunteer and they say yes, and then I fail?
 
-But the familiar fears crowded in. What if you're not ready? What if someone else is better? What if you volunteer and regret it? What if Patricia doesn't think you're capable?
+The cursor blinked, patient and indifferent.
 
-The internal debate raged while the external silence stretched.
+Riley closed the email and opened a spreadsheet instead. There was data to analyze, reports to format, the comfortable rhythm of assigned work. The opportunity would still be there later. There was time. There was always time.
 
-"I'll do it."
+---
 
-The voice came from across the table. Derek, again. Confident, as always.
+The team meeting was scheduled for 2:00 PM. Riley arrived early, as usual, taking the familiar spot near the wall. The conference room filled gradually—colleagues settling into chairs, laptops opening, small talk about weekend plans and project updates.
 
-"I've been thinking about patient experience for a while," Derek continued. "I have some initial ideas about how to structure the workstreams. I'd love to discuss them with you, Patricia."
+Marcus stood at the front, his posture relaxed but confident. "Thanks everyone for coming. I wanted to discuss the hospital network initiative I mentioned in my email. This is a significant opportunity for our team to contribute to a strategic priority. We need someone to own this."
 
-Patricia's face lit up. "Excellent. That's exactly the kind of initiative I was hoping for. Let's schedule time tomorrow to talk through your approach."
+He looked around the room, his gaze pausing briefly on each face. Riley felt the glance land, felt the moment stretch.
 
-The meeting continued, but Riley stopped listening. The opportunity had been there. Riley had wanted it. And Riley had let it pass.
+This is the invitation. Say something.
 
-The rest of the day was a blur of assigned tasks. Riley completed them efficiently, as always. But the satisfaction was gone. Each completed item felt like evidence of what could have been.
+But the words stayed locked in Riley's throat. The silence in the room was heavy, expectant. Someone needed to speak. Someone always spoke.
 
-Derek walked by Riley's desk in the afternoon, energy visible in every step.
+"I'll take it."
 
-"Hey, do you have the latest patient satisfaction data?" Derek asked. "I want to include it in my project proposal."
+The voice came from the other side of the table. David, a coordinator who had joined the team six months ago, leaned forward with easy confidence. "I've been looking for a chance to work on something cross-functional. This sounds like a great fit."
 
-"Of course." Riley pulled up the file. "Here you go."
+Marcus smiled. "Excellent. Thanks, David. Let's sync after the meeting to discuss next steps."
 
-"Thanks. This project is going to be amazing. I can already see how to approach it."
+Riley watched the exchange, the words forming and dissolving in the space where they should have been spoken. David was newer, less experienced. Riley had been here three years. Riley knew the systems, the stakeholders, the processes.
 
-Riley watched Derek walk away, the data that Riley had compiled being used for the project that Riley should have led.
+But David had spoken. And Riley had not.
 
-That evening, the apartment felt smaller than usual. The takeout container sat half-empty on the coffee table. The television played something Riley wasn't watching.
+---
 
-The question that had been hovering finally landed. Why didn't you say anything?
+After the meeting, Riley returned to their desk and sat motionless, staring at the screen. The familiar tasks waited—data to analyze, reports to format—but they looked different now. Smaller. Less meaningful.
 
-The answer came in fragments. Fear. Habit. The deep belief that opportunities were given, not taken. The assumption that waiting was the professional thing to do.
+David walked by, his step lighter than usual, a small smile on his face. He was already on his way to meet with Marcus, to begin the project that should have been Riley's.
 
-But watching Derek take the project, seeing the energy and purpose that came from choosing rather than being chosen, Riley felt the cost of all that waiting.
+Should have been. The phrase echoed in Riley's mind, bitter and accurate.
 
-Derek wasn't smarter. Wasn't more experienced. Wasn't more capable. Derek had simply raised a hand. Said words. Taken action.
+Why didn't I say anything? The question circled, relentless. I wanted it. I knew I could do it. I sat right there, and I said nothing.
 
-The difference between Riley's day and Derek's day was one moment of initiative. One choice to speak instead of stay silent.
+The answers came in fragments: fear, habit, the deep-seated belief that opportunity was something that happened to you, not something you created. That success was something you waited for, not something you pursued.
 
-Riley lay in bed, staring at the ceiling. The regret was a physical weight, pressing down on the chest. Not dramatic, not overwhelming, but persistent. The quiet ache of a life that could be different.
+Riley opened the email again, read the words one more time. High-visibility. Leadership role. The opportunity was gone now, claimed by someone who had done what Riley couldn't—speak up, step forward, take a risk.
 
-What would it feel like to want something and ask for it? The question from the night before returned. But now it had a companion question. What does it feel like to want something and not ask?
+The cursor blinked on an empty reply box. Riley closed it without typing.
 
-The answer was clear now. It felt like this. Like watching opportunities pass. Like being invisible while others became visible. Like meeting expectations while others exceeded them.
+---
 
-The morning would come, and with it, the familiar routine. But something had shifted. The cost of waiting was no longer theoretical. It was real, and it hurt.
+That evening, Riley sat in the apartment, the silence louder than usual. The takeout container sat on the counter, untouched. The phone screen glowed with the usual social media feeds, but Riley wasn't really seeing it.
 
-Riley didn't know what to do with the hurt. Didn't know how to change the pattern. But for the first time, the desire to change was stronger than the comfort of staying the same.
+The image of David, confident and smiling, kept surfacing. The sound of his voice, saying the words Riley had wanted to say. The moment that had passed, irretrievable.
 
-The missed moment was gone. But maybe, just maybe, it had revealed something important. The waiting game had a price. And Riley was finally starting to pay attention to it.
+This wasn't the first time. Riley thought back over the past three years—the projects not volunteered for, the ideas not shared, the meetings where silence had seemed safer than speech. Each time, the same pattern: opportunity, hesitation, loss.
+
+But this time felt different. This time, Riley had wanted it. Had known, with sudden clarity, that this was the kind of moment that defined careers. And had let it pass.
+
+What is wrong with me?
+
+The question was harsh, but it demanded an answer. Riley thought about Jessica, who volunteered for everything. About David, who had spoken up without hesitation. About the colleagues who seemed to move through the world with an ease that Riley couldn't understand.
+
+They're not smarter than me. They're not more capable. They just... act. They don't wait.
+
+Riley stood and walked to the window. The streetlights were coming on, the evening settling over Somerville like a familiar blanket. In the distance, the Boston skyline glowed against the darkening sky.
+
+Three years. Three years of waiting, of doing good work that no one remembered, of watching others step into opportunities that could have been Riley's. Three years of being reliable, competent, invisible.
+
+The cost of waiting was becoming clear. It wasn't just missed opportunities—it was the slow accumulation of small losses, the gradual narrowing of possibility, the comfortable cage of reactivity that kept Riley exactly where they were.
+
+And the cage was comfortable. That was the problem. It was safe, predictable, easy. But it was also small. And getting smaller.
+
+Riley turned from the window and looked at the apartment—the clean surfaces, the organized shelves, the life that was fine, good enough, adequate. Everything in its place, including Riley.
+
+What would it take to break out? To stop waiting and start acting? To say the words that kept getting stuck?
+
+Riley didn't know. But for the first time, the question felt urgent. Not just a passing thought, but a demand.
+
+---
+
+The next morning, Riley arrived at 8:15, as always. The office was quiet, the familiar rhythm of the day beginning. But something had shifted overnight—a small restlessness that wouldn't settle.
+
+At 9:00, David walked by Riley's desk, his face bright with purpose. "Hey, Riley. Do you have a minute? I'm putting together the project plan for the hospital initiative, and I could use some input on the data analysis piece. You're the best person I know for that."
+
+Riley looked up, surprised. "Sure. I can help with that."
+
+"Great. Let's grab coffee later and talk through it." David smiled and continued to his desk, already typing an email, already moving forward.
+
+Riley watched him go. The irony wasn't lost—being asked to contribute to the project that should have been Riley's. But there was something else too, something unexpected: the recognition that David had done what Riley couldn't, and the world hadn't ended. He had spoken up, taken a risk, and now he was leading something that mattered.
+
+And Riley was still here. Still waiting. Still being asked to help instead of asking to lead.
+
+The question from the night before surfaced again: What would it take?
+
+Riley didn't have an answer yet. But the question was there, persistent and demanding. And somewhere beneath the familiar comfort of reactivity, something new was stirring—a small, quiet voice that was tired of waiting.
+
+What would happen if I stopped?
+
+The question hung in the air. And this time, Riley didn't push it away.

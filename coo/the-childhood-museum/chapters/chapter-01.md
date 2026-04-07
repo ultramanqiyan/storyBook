@@ -1,10 +1,4 @@
-# The Childhood Museum - Chapter 01: The Perfect Day
-
-> **Book**: The Childhood Museum
-> **Chapter**: 01 of 10
-> **Word Count**: 2,245
-
----
+# Chapter 01: The Perfect Day
 
 Emma woke to sunshine.
 

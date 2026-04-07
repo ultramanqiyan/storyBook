@@ -1,10 +1,4 @@
-# The Dream Market - Chapter 04: The Assignment
-
-> **Book**: The Dream Market
-> **Chapter**: 04 of 10
-> **Word Count**: 2,198
-
----
+# Chapter 04: The Assignment
 
 The summons came three days later.
 

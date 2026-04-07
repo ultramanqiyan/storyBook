@@ -135,5 +135,3 @@ But even as I thought it, I knew it was a lie. I couldn't stop. I didn't know ho
 
 I typed a prompt, watched the code appear, and tried not to think about what I'd lost.
 
-
-**Word Count**: 2,547

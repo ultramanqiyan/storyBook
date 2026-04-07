@@ -1,10 +1,4 @@
-# The Dream Market - Chapter 10: The Awakening
-
-> **Book**: The Dream Market
-> **Chapter**: 10 of 10
-> **Word Count**: 2,178
-
----
+# Chapter 10: The Awakening
 
 The connection was made.
 
@@ -143,6 +137,3 @@ And in that world, I had found my purpose.
 As a witness to dreams, not a provider. As a guide, not a controller. As a free consciousness, not a product of the system.
 
 I was finally awake.
-
-
-**END OF THE DREAM MARKET**

@@ -1,10 +1,4 @@
-# The Memory Farm - Chapter 10: The Archive
-
-> **Book**: The Memory Farm
-> **Chapter**: 10 of 10
-> **Word Count**: 2,189
-
----
+# Chapter 10: The Archive
 
 Six months passed.
 
@@ -126,4 +120,3 @@ Because that was the only truth I could be certain of.
 The truth I created myself.
 
 
-**END OF THE MEMORY FARM**

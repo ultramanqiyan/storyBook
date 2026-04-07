@@ -1,10 +1,4 @@
-# The Memory Farm - Chapter 07: The Truth
-
-> **Book**: The Memory Farm
-> **Chapter**: 07 of 10
-> **Word Count**: 2,245
-
----
+# Chapter 07: The Truth
 
 I returned to Dr. Webb's office the next morning.
 

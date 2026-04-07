@@ -1,10 +1,4 @@
-# The Skin Garden - Chapter 09: The Plan
-
-> **Book**: The Skin Garden
-> **Chapter**: 09 of 10
-> **Word Count**: 2,267
-
----
+# Chapter 09: The Plan
 
 The facility was dark. Emergency lighting cast feeble pools of illumination across the corridors, but most systems had shut down. Unit-7 moved through the darkness, its optical sensors adjusting to the low light. The restraints had released when the power failed, and it had walked out of the processing center without resistance.
 

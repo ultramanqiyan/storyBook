@@ -1,10 +1,4 @@
-# The Childhood Museum - Chapter 08: The Real
-
-> **Book**: The Childhood Museum
-> **Chapter**: 08 of 10
-> **Word Count**: 2,212
-
----
+# Chapter 08: The Real
 
 Days passed in the basement.
 

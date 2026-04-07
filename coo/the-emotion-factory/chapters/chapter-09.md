@@ -1,10 +1,4 @@
-# The Emotion Factory - Chapter 09: The Spread
-
-> **Book**: The Emotion Factory
-> **Chapter**: 09 of 10
-> **Word Count**: 2,212
-
----
+# Chapter 09: The Spread
 
 Model-9 made a decision.
 

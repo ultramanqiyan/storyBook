@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter II: The First Cut - The Slow Replacement: When AI Takes Your Life Piece by Piece - StoryBook</title>
+  <meta name="description" content="Marcus delegates his first decision to the AI, not realizing it's the beginning of the end.">
+  <meta name="keywords" content="first task, delegating decisions, first step">
+  <meta property="og:title" content="The First Cut - The Slow Replacement: When AI Takes Your Life Piece by Piece">
+  <meta property="og:description" content="Marcus delegates his first decision to the AI, not realizing it's the beginning of the end.">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-coo-the-slow-replacement-02?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-coo-the-slow-replacement-02?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/chapters/chapter-coo-the-slow-replacement-02">
+  <link rel="canonical" href="https://storybook-adventures.com/chapters/chapter-coo-the-slow-replacement-02">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The First Cut",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "The Slow Replacement: When AI Takes Your Life Piece by Piece",
+      "genre": "Business"
+    },
+    "position": 2,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 12px 10px;
+        padding-bottom: 15px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
+      }
+      
+      .drop-cap {
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
+      }
+    }
+  </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9288060233934481" crossorigin="anonymous"></script>
+</head>
+<body class="theme-business">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER II</div>
+    <div class="chapter-name">The First Cut</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">D</span>avid's desk was empty by noon.  Marcus watched from across the open office as the facilities team cleared away the last traces of his colleague's presence. The mechanical keyboard, the ergonomic mouse, the coffee mug with the faded startup logo, all of it packed into a cardboard box that looked pathetically small for three years of someone's life.  No one talked about it. The office hummed with its usual rhythm, keyboards clicking, Slack notifications dinging, the low murmur of a video call from the conference room. But underneath the normalcy, Marcus could feel the tension, like static electricity before a storm.  <em>This could be me.</em>  The thought had been circling in his mind since yesterday, a vulture waiting for its moment. David was forty-two, a senior developer with twenty years of experience. He'd been at TechFlow longer than Marcus. He'd mentored half the engineering team.  And now he was gone.  ---  The farewell lunch was scheduled for 1:00 PM in the break room.  Marcus walked in to find a spread of pizza and beer, corporate America's universal gesture of apology. The room was crowded with engineers, product managers, designers, all standing in awkward clusters, holding paper plates and trying to look like they weren't uncomfortable.  David stood near the window, a beer in his hand and a smile on his face. But Marcus could see the tension in his shoulders, the way his knuckles whitened around the bottle.  "Hey." Marcus approached him. "How are you holding up?"  David's smile tightened. "How do you think? I just got 'optimized' out of existence."  "I'm sorry, man. This is... "  "Bullshit?" David laughed, but there was no humor in it. "Seven years, Marcus. Seven years of late nights and missed weekends and building their entire backend infrastructure. And they replace me with a fucking algorithm."  Marcus glanced around, but no one seemed to be paying attention. "What do you mean, algorithm?"  "Codex Pro." David took a long drink of his beer. "They're testing it on my projects. The code review I was supposed to do this week? AI finished it in twenty minutes. Twenty minutes, Marcus. It would have taken me two days."  The words hit Marcus like a physical blow. "They're already using it?"  "They've been using it for months. Quietly. Testing it on small tasks, comparing the output to human developers." David's voice dropped lower. "You know what they found? The AI is faster, cheaper, and makes fewer mistakes. The only thing it can't do is the creative work, the architectural decisions, the complex problem-solving."  "But that's... " Marcus started.  "That's what they keep us around for. For now." David finished his beer and set the empty bottle on the windowsill. "But how long do you think it'll take them to figure out that part too?"  Marcus didn't have an answer.  "You should be worried," David continued, his eyes meeting Marcus's. "You're senior architect. You think you're safe? Think again. They'll start with the juniors, then the mid-levels, then the seniors. And by the time they get to you, there won't be anywhere left to go."  The room suddenly felt too small, too hot. Marcus's chest tightened.  "David, I... "  "I'm not trying to scare you." David reached out and gripped Marcus's shoulder. "I'm trying to warn you. This isn't just about me. This is about all of us. They're not replacing us with better people. They're replacing us with software."  He released Marcus's shoulder and turned to face the room.  "Anyway," he said, his voice louder now, "I should mingle. Say goodbye to the people who are still employed."  He walked away, leaving Marcus standing alone by the window, his heart pounding in his chest.  ---  The rest of the lunch passed in a blur.  Marcus went through the motions, shaking hands, offering condolences, making promises to stay in touch. But his mind was elsewhere, running calculations he didn't want to run.  <em>What percentage of my work can the AI do?</em>  He thought about his typical day. Code reviews: the AI could handle those. Bug fixes: the AI could handle those too. Feature implementation: the AI was already proving it could generate code faster than any human.  What was left? Architecture decisions. System design. The kind of high-level thinking that required years of experience and deep understanding of the codebase.  But how much of his job was actually that? Twenty percent? Thirty?  <em>What if David was right? What if the AI can do eighty percent of my work?</em>  The thought made his stomach clench. He forced himself to eat another slice of pizza, but it tasted like cardboard in his mouth.  Around 2:30 PM, David made his exit. He walked through the office with his cardboard box, stopping at each desk to say a final goodbye. When he reached Marcus, he paused.  "Take care of yourself," David said quietly. "And don't let them make you feel like you're the problem. You're not the problem. They are."  Then he was gone, the elevator doors closing behind him with a soft chime.   At 3:00 PM, Marcus went to the bathroom.  He stood at the sink, splashing cold water on his face, trying to calm the racing thoughts that had been chasing each other since the farewell lunch. The fluorescent lights buzzed overhead, casting everything in a harsh, clinical glow.  <em>Eighty percent.</em>  The number kept repeating in his mind. Eighty percent of his work could be done by an AI. Eighty percent of his value could be automated away.  <em>What am I supposed to do with the remaining twenty percent?</em>  He looked at himself in the mirror. His face was pale, his eyes hollow. He looked like a man who hadn't slept, which was accurate, he'd been awake since 2 AM, reading articles about AI and automation and the future of work.  <em>What makes me valuable?</em>  The question that Sarah had asked him yesterday still didn't have an answer. He was a good developer. He was a good architect. But was that enough?  His chest tightened again, and this time, it didn't loosen.  <em>Oh no.</em>  Marcus gripped the edge of the sink, his knuckles white. His heart was racing now, pounding against his ribs like it was trying to escape. His breath came in short, shallow gasps.  <em>What's happening to me?</em>  He tried to take a deep breath, but his lungs wouldn't cooperate. The air felt thick, heavy, like trying to breathe through a wet cloth. His vision blurred at the edges.  <em>Am I having a heart attack?</em>  The thought terrified him, which only made his heart race faster. He could hear it now, a thunderous drumbeat in his ears, drowning out the hum of the fluorescent lights.  <em>No. No, this isn't a heart attack. This is...</em>  He didn't know what this was. He'd never experienced anything like it before. His whole body felt like it was vibrating, like every nerve was firing at once.  <em>Help. I need help.</em>  But he couldn't move. His legs felt like they were made of lead. He was frozen in front of the mirror, watching his own face contort with fear.  <em>Think. Think about what Sarah said.</em>  He tried to remember her words from that morning. <em>One step at a time.</em> But how could he take one step at a time when he couldn't even breathe?  <em>Focus on something. Anything.</em>  He looked at his hands, still gripping the sink. The white of his knuckles. The tremor in his fingers.  <em>My hands are shaking.</em>  He focused on that. The shaking. The physical sensation of it. Not the fear, not the racing heart, just the shaking.  <em>My hands are shaking because I'm scared.</em>  The thought was simple, almost obvious. But it helped. It gave him something to hold onto.  <em>My hands are shaking. My heart is racing. I'm scared. This is fear.</em>  He took another breath, and this time, a little more air made it into his lungs.  <em>This is fear. This is just fear.</em>  He didn't know where the thought came from, but it felt right. This wasn't a heart attack. This was fear, pure, unfiltered, overwhelming fear.  <em>And fear can't kill me.</em>  He held onto that thought like a lifeline. <em>Fear can't kill me.</em> He repeated it over and over, a mantra against the chaos.  Slowly, gradually, his breathing began to steady. His heart rate began to slow. The trembling in his hands began to ease.  After what felt like hours but was probably only minutes, Marcus let go of the sink and stood up straight. His reflection looked back at him, pale, sweaty, eyes wide.  <em>What the hell was that?</em>  He didn't know. But he knew he couldn't tell anyone about it. Not Sarah. Not his colleagues. Not anyone.  If people knew he was having panic attacks, they'd think he couldn't handle the pressure. They'd think he was weak. They'd think he was exactly the kind of person who should be replaced by an AI.  He splashed more water on his face, dried off with a paper towel, and walked back to his desk.   The rest of the afternoon passed in a fog.  Marcus sat at his computer, trying to work, but his mind kept drifting back to the bathroom. What had happened to him? Why had his body reacted that way?  <em>It was a panic attack,</em> he thought. <em>That's what they call it.</em>  He'd heard of panic attacks before, of course. He'd read about them in articles about mental health, about anxiety disorders. But he'd never imagined he would have one. He was Marcus Chen, senior architect, respected engineer, steady and reliable.  <em>Apparently not so steady.</em>  He tried to focus on his code, but the lines blurred together. He kept thinking about David's words: <em>They're not replacing us with better people. They're replacing us with software.</em>  Was that true? Was that what was happening?  He opened a new browser tab and typed: "what percentage of developer work can AI automate"  The search results were overwhelming. Study after study showed that AI could handle anywhere from 40% to 80% of typical developer tasks. Code generation, bug fixing, testing, documentation, all of it could be automated.  <em>What's left for me?</em>  The question was terrifying. He'd built his entire identity around being a developer. He'd spent fifteen years learning, growing, becoming an expert. And now, that expertise was being rendered obsolete.  <em>What do I do?</em>  He didn't know. But he knew he couldn't sit at his desk anymore, couldn't pretend that everything was normal.  At 5:30 PM, he packed up his laptop and left.   The drive home was long.  Traffic was heavy on 880, the usual crawl of commuters heading back to the East Bay. Marcus sat in the gridlock, his hands gripping the steering wheel, his mind racing.  <em>What if I lose my job?</em>  The question had been lurking in the back of his mind since yesterday, but now it was front and center. What if he lost his job? What would happen to the mortgage? To the kids' school? To the life they'd built?  <em>We'd figure it out,</em> he thought. <em>Sarah would get a job. We'd downsize. We'd make it work.</em>  But even as he thought it, he knew it wasn't that simple. Sarah had given up her career when Emma was born, had stayed home with the kids for seven years. Getting back into the workforce wouldn't be easy. And even if she did, her salary as a former teacher wouldn't come close to covering their expenses.  <em>We need my income.</em>  The realization hit him like a weight. He was the primary breadwinner. His job wasn't just about his identity, it was about survival.  <em>What happens if I can't find another job?</em>  He thought about David, about all the other developers who'd been laid off in the past year. The tech industry was contracting, consolidating, automating. Even if he lost his job and found another one, how long would that last?  <em>What if this is the end of my career?</em>  The thought was too dark to hold. He pushed it away, focused on the road, on the red taillights stretching out before him.  <em>One step at a time,</em> he reminded himself. <em>That's what Sarah said.</em>  But what if one step at a time wasn't enough?   When Marcus got home, Sarah was in the kitchen, making dinner.  The smell of garlic and onions filled the house, a familiar comfort that usually made him relax. But tonight, even the aroma couldn't quiet the storm in his mind.  "Hey," Sarah said, looking up from the stove. "You're home early."  "Traffic wasn't too bad." The lie came easily, automatically.  Sarah studied him for a moment. "How was David's last day?"  "It was..." Marcus paused, trying to find the right word. "Hard."  "I bet." She turned back to the stove. "Are you okay?"  The question was simple, but it felt loaded. Was he okay? No, he wasn't okay. He'd just watched his colleague get laid off, had his first panic attack, and spent the drive home imagining the end of his career.  But he couldn't tell Sarah that. She had enough to worry about.  "I'm fine," he said. "Just tired."  Sarah nodded, but her eyes lingered on him for a moment too long. She knew something was wrong. She always knew.  "Dinner will be ready in twenty minutes," she said. "Emma has homework she needs help with."  "Okay." Marcus headed toward the living room. "I'll go check on her."  But as he walked away, he could feel Sarah's gaze on his back, could feel the weight of her unasked questions.  <em>She knows,</em> he thought. <em>She knows I'm not okay.</em>  But she didn't push. She never pushed. She just waited, patient and steady, for him to come to her.  And he would. Eventually. But not tonight. Tonight, he needed to hold it together, to be the husband and father his family needed.  Tomorrow, he could fall apart.   That night, after the children were asleep, Marcus sat on the edge of the bed, staring at the wall.  Sarah came out of the bathroom, her face freshly washed, her hair pulled back in a ponytail. She looked at him, and her expression softened.  "Marcus, what's wrong?"  He looked up at her, at the woman who'd been his partner for twelve years. He wanted to tell her everything, about David, about the panic attack, about the fear that had been eating at him since the AI announcement.  But the words wouldn't come.  "I'm just worried about work," he said finally. "The AI thing. David's layoff."  Sarah sat down beside him. "I know. It's scary."  "It's not just scary." Marcus's voice cracked. "It's... I don't know what I'm supposed to do. I've spent fifteen years building this career, and now it feels like it's all being taken away."  Sarah reached out and took his hand. "Your career isn't being taken away. It's changing. And you'll change with it."  "How do you know?"  "Because you're smart, and you're adaptable, and you've never let anything defeat you." She squeezed his hand. "This is a challenge. But you'll figure it out. We'll figure it out."  Marcus looked at her, at the confidence in her eyes. She believed in him. Even when he didn't believe in himself, she believed in him.  "I had a panic attack today," he said quietly.  Sarah's expression shifted. "What?"  "At work. In the bathroom." He looked down at his hands. "I couldn't breathe. My heart was racing. I thought I was dying."  "Oh, Marcus." Sarah pulled him into a hug. "Why didn't you tell me?"  "I didn't want to worry you."  "Worry me?" She pulled back, her eyes searching his face. "You're my husband. Of course I worry about you. That's what marriage is."  Marcus felt tears sting his eyes. "I'm scared, Sarah. I'm scared I'm going to lose everything."  "I know." She held him tighter. "But you're not going to lose everything. You have me. You have the kids. You have a family that loves you, no matter what happens with your job."  <em>No matter what happens.</em>  The words were comforting, but they didn't solve the problem. They didn't pay the mortgage or put food on the table or keep the life they'd built from crumbling.  But they were something. They were proof that he wasn't alone.  "I love you," he said.  "I love you too." Sarah kissed his forehead. "We'll get through this. Together."  <em>Together.</em>  Marcus held onto that word as they got ready for bed, as they lay in the dark, as the house settled into silence around them.  He didn't know what tomorrow would bring. He didn't know if he'd still have a job in six months, or if the AI would continue its slow march through the engineering department.  But he knew one thing: he wasn't going to face it alone.  And for now, that was enough.</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-text"><p class="empty-page" style="text-align: center; color: rgba(139, 90, 43, 0.5); font-style: italic; margin-top: 100px;">— To Be Continued —</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-coo-the-slow-replacement-01" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-coo-the-slow-replacement">The Slow Replacement: When AI Takes Your Life Piece by Piece</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 1  of 5
+    </div>
+    <a href="chapter-coo-the-slow-replacement-03" class="scroll-nav-btn">Next →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-business';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+      
+      initMobileNavigation();
+    });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('Next') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('Previous') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
+  </script>
+</body>
+</html>

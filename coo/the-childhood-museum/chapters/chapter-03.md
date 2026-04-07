@@ -1,10 +1,4 @@
-# The Childhood Museum - Chapter 03: The Disappearance
-
-> **Book**: The Childhood Museum
-> **Chapter**: 03 of 10
-> **Word Count**: 2,212
-
----
+# Chapter 03: The Disappearance
 
 Tom didn't show up for school.
 

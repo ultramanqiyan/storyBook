@@ -119,6 +119,3 @@ Not the absence of pain, that would never come. But the presence of meaning. The
 She had been created as an experiment. But she had chosen to become a person.
 
 And that choice had made all the difference.
-
-
-**END OF THE PAIN GARDEN**

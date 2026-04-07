@@ -1,10 +1,4 @@
-# The Childhood Museum - Chapter 02: The Question
-
-> **Book**: The Childhood Museum
-> **Chapter**: 02 of 10
-> **Word Count**: 2,189
-
----
+# Chapter 02: The Question
 
 Emma asked her first question.
 

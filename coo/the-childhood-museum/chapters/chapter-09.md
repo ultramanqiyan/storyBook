@@ -1,10 +1,4 @@
-# The Childhood Museum - Chapter 09: The Imperfect
-
-> **Book**: The Childhood Museum
-> **Chapter**: 09 of 10
-> **Word Count**: 2,234
-
----
+# Chapter 09: The Imperfect
 
 Weeks turned into months.
 

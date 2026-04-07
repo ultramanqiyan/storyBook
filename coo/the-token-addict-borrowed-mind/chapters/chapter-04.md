@@ -133,5 +133,3 @@ But as I walked toward my car, I couldn't shake the feeling that something had s
 
 Or if I even wanted to.
 
-
-**Word Count**: 2,647

@@ -120,5 +120,3 @@ I closed my laptop and sat in the darkness, the question still echoing in the vo
 
 *What have I become?*
 
-
-**Word Count**: 1,726

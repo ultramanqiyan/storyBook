@@ -87,7 +87,3 @@ Mira nodded, feeling the truth of those words. The past was fixed, but the futur
 She was the Bridge. But more than that, she was a builder, a connector, a person who believed that two worlds could exist as one.
 
 And she was just getting started.
-
----
-
-**END OF THE WHISPERING NETWORK**

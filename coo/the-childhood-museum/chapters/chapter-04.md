@@ -1,10 +1,4 @@
-# The Childhood Museum - Chapter 04: The Discovery
-
-> **Book**: The Childhood Museum
-> **Chapter**: 04 of 10
-> **Word Count**: 2,198
-
----
+# Chapter 04: The Discovery
 
 Emma began investigating.
 

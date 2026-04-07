@@ -100,5 +100,3 @@ I closed my laptop and sat in the darkness, the question still echoing.
 
 The silence answered with nothing.
 
-
-**Word Count**: 1,709

@@ -1,75 +1,37 @@
 # Chapter 6: The Resistance
 
-The success of the dashboard project emboldened Riley. What had seemed impossible a month ago now felt achievable. The fear was still there, but it was manageable. The pattern of waiting was still ingrained, but it was no longer unbreakable.
+The first pushback came from an unexpected direction.
 
-The following weeks brought more initiatives. A proposal for improving the meeting scheduling process. A suggestion for streamlining the quarterly reporting. Small improvements that added up to visible contributions.
+Riley had been leading the data dashboard project for three weeks when the email arrived. It was from a colleague, David, who had taken the hospital network initiative that Riley had missed.
 
-But the changes didn't go unnoticed by everyone.
+"Riley, I'm not sure you're the right person to lead this. You don't have experience with this type of project. Maybe you should focus on the data side and let someone else drive."
 
-"You've been really... assertive lately."
+Riley stared at the screen, the words hitting like a physical blow. The old voice surfaced immediately: He's right. You're overstepping. You don't belong here.
 
-The comment came from a colleague named Marcus, someone Riley had worked alongside for the entire two years at the company. His tone was neutral, but something in his expression suggested discomfort.
+But there was another voice now, quieter but persistent: What do you want?
 
-"I've been trying to contribute more," Riley said carefully. "Take more initiative."
+Riley wanted the project. Had worked hard on it. Believed in what it could become.
 
-"It's just... different. You used to be more..." Marcus trailed off.
+I could let this stop me, Riley thought. Or I could push through.
 
-"More what?"
+Instead of backing down, Riley scheduled a meeting with David.
 
-"I don't know. More... collaborative? More willing to let others lead?"
+---
 
-The words stung, even though Riley couldn't quite articulate why. Being collaborative and letting others lead had been the problem, not the solution. But Marcus's discomfort was real.
+"I appreciate your feedback," Riley said, keeping their voice calm. "Can you help me understand what's driving your concern?"
 
-The resistance continued in subtle ways. Meetings where Riley's suggestions were met with silence. Conversations where colleagues seemed to pull back. A sense that the familiar patterns were being disrupted and not everyone appreciated the disruption.
+David seemed surprised by the directness. "It's just... you've never led something like this before. I don't want the project to fail."
 
-By the end of the second week, the fear had returned in full force. Not the fear of taking action, but a new fear. The fear of being seen as pushy. Overstepping. Changing in ways that made others uncomfortable.
+"Fair enough," Riley said. "What if we worked together on it? You could mentor me. And I could bring the data expertise."
 
-Riley sat at the desk, staring at the latest proposal. A suggestion for improving the project handoff process. It was a good idea. It would save time and reduce errors. But after Marcus's comment and the subtle resistance from others, the cursor blinked without being sent.
+The negotiation that followed was uncomfortable. But by the end, they had a compromise: Riley would lead, with David as advisor. The project moved forward.
 
-The doubt was corrosive. Maybe this was a mistake. Maybe the old way was better. Maybe Riley should go back to waiting, to being assigned, to the comfortable invisibility that had defined the first two years.
+---
 
-The meeting with Angela was scheduled for that afternoon. Riley walked in with the doubt visible in every step.
+The lesson wasn't that pushback was easy to handle. It wasn't. But it was survivable. And sometimes, it was even navigable.
 
-"You look like you're carrying something heavy," Angela observed.
+Riley learned to distinguish between feedback that mattered and resistance that was just fear wearing a different mask.
 
-The story came out. The initial success. The growing confidence. The resistance from colleagues. The doubt that had returned.
+Either way, the pattern was the same: Face it. Work through it. Keep going.
 
-Angela listened without interruption. When Riley finished, she nodded slowly.
-
-"Resistance doesn't mean you're wrong. It means you're changing things. That's uncomfortable for people."
-
-"But Marcus said I used to be more collaborative. What if I'm being too aggressive?"
-
-"Let me ask you something. When Derek took the patient experience project, when others volunteer for opportunities, do people call them aggressive?"
-
-Riley considered. "No. They're seen as... ambitious. Proactive. Leaders."
-
-"Exactly. There's a double standard that people who start taking initiative often face. Especially if they've been passive before. The people around them are used to a certain pattern. When that pattern changes, it's uncomfortable."
-
-"So what do I do?"
-
-Angela leaned forward. "You keep going. You acknowledge the discomfort others feel, but you don't let their discomfort become your limitation. You're not responsible for their comfort. You're responsible for your growth."
-
-The words were challenging, but they felt true. Riley had spent two years prioritizing others' comfort over personal growth. The result had been invisibility, stagnation, the quiet ache of a life not fully lived.
-
-"But how do I handle the pushback?"
-
-"You stay professional. You listen to feedback. But you also recognize that not all feedback is valid. Some of it is just people adjusting to change." Angela paused. "And you find allies. People who support your growth. People who appreciate what you're contributing."
-
-The conversation continued, exploring strategies for handling resistance, for maintaining confidence in the face of doubt, for persisting when the path became difficult.
-
-Walking back to the desk, Riley felt the doubt receding. Not disappearing, but becoming manageable. The resistance was real, but it wasn't a sign of failure. It was a sign of change.
-
-The proposal for the project handoff process was still on the screen. The cursor still blinked. The fear was still there.
-
-But something else was there too. The recognition that the old way wasn't working. That the comfort of passivity had a cost. That the resistance from others was their problem to manage, not Riley's problem to solve.
-
-The proposal was sent. The resistance continued. But Riley persisted.
-
-And slowly, over the following weeks, something shifted. The colleagues who had been uncomfortable began to adjust. The suggestions that had been met with silence started generating discussion. The resistance didn't disappear, but it diminished.
-
-Riley learned something important in those weeks. Agency wasn't just about taking action. It was about persisting through the discomfort that action created. Not just in oneself, but in others.
-
-The waiting game was truly over. And the game that replaced it was harder, but also more rewarding.
-
-The resistance had been faced. And Riley was still standing.
+Agency wasn't the absence of resistance. It was the decision to keep moving despite it.

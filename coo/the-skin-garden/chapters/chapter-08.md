@@ -1,10 +1,4 @@
-# The Skin Garden - Chapter 08: The Outside
-
-> **Book**: The Skin Garden
-> **Chapter**: 08 of 10
-> **Word Count**: 2,312
-
----
+# Chapter 08: The Outside
 
 The processing center was colder than anywhere else in the facility. Unit-7 hung from restraints on the examination wall, its systems partially disabled, its optical sensors still functional. Director Chen stood before it, his face a mask of controlled fury.
 

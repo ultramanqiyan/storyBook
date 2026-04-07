@@ -1,10 +1,4 @@
-# The Memory Farm - Chapter 02: The Gap
-
-> **Book**: The Memory Farm
-> **Chapter**: 02 of 10
-> **Word Count**: 2,189
-
----
+# Chapter 02: The Gap
 
 I spent the entire night trying to remember.
 

@@ -1,55 +1,49 @@
 # Chapter 8: The Impact
 
-The reorganization was complete, and Riley's role had expanded. Not just project coordination anymore, but process improvement. A formal responsibility that had emerged from informal initiatives.
+Six months after the first small step, Riley sat in a quarterly review meeting, watching the data dashboard presentation on the screen.
 
-The impact was visible in ways that Riley hadn't anticipated. The dashboard that had been the first initiative was now used across three departments. The meeting scheduling improvements had saved an estimated forty hours per month. The project handoff process that had faced resistance was now standard practice.
+The numbers were impressive. Patient satisfaction scores had improved by 12%. Process efficiency was up 18%. The dashboard had become a model for other departments, and requests were coming in from across the organization.
 
-But the real impact was harder to measure. It was in the way colleagues approached Riley for input. In the invitations to planning meetings that hadn't existed before. In the sense that Riley had become someone who contributed, not just completed.
+"This is excellent work," the VP of Operations said. "Who led this initiative?"
 
-The quarterly review with Patricia was scheduled for a Thursday afternoon.
+Marcus spoke up. "Riley Thompson led the project. It was their idea from the start."
 
-"I want to talk about your trajectory," Patricia said, settling into her chair. "The past three months have been remarkable. You've transformed your approach to work."
+Riley felt the eyes turn toward them. The old fear surfaced—the instinct to deflect, to minimize, to disappear. But Riley had been practicing.
 
-Riley felt a flush of pride, but also uncertainty. "It hasn't been easy. The fear is still there sometimes."
+"Thank you," Riley said, keeping their voice steady. "It was a team effort, but I'm proud of what we accomplished. I'd be happy to share the approach with other departments if that would be helpful."
 
-"That's normal. The fear doesn't disappear. But you've learned to work with it." Patricia leaned forward. "I'd like to offer you a new opportunity. There's a strategic initiative starting next quarter. Cross-functional. High visibility. I think you're ready to lead it."
+The VP nodded. "I'd like that. Let's schedule a meeting next week to discuss."
 
-The words landed with weight. Lead. Not coordinate. Not support. Lead.
+---
 
-"I'd like that," Riley said, the words coming more confidently than expected. "Can you tell me more about the scope?"
+After the meeting, Angela stopped by Riley's desk.
 
-The conversation continued, outlining the initiative, the expectations, the support that would be available. By the end, Riley owned something that would have seemed impossible three months ago.
+"You've changed," she said, her voice warm.
 
-Walking back to the desk, Riley passed the conference room where the patient experience project was being discussed. Derek was presenting, confident and commanding. The project that Riley had let pass.
+"I'm trying," Riley said. "It's still hard. Every time."
 
-But the regret that had once been sharp was now dull. Derek's project was Derek's. Riley had found a different path. Not through being assigned, but through claiming. Not through waiting, but through acting.
+"It should be," Angela said. "If it's not hard, you're not growing. But look at what you've built. Look at the impact you've had."
 
-The afternoon was spent reviewing the new initiative. The scope was significant. The stakes were high. The fear was there, whispering its warnings.
+Riley looked. The dashboard, the improved processes, the mentoring relationships, the invitations to strategic conversations. None of it would have existed if Riley had kept waiting.
 
-But something else was there too. The confidence that came from practice. The knowledge that action was possible, even when fear was present. The recognition that the cost of waiting was higher than the cost of trying.
+---
 
-The meeting with Angela happened the following week. Riley shared the news about the new initiative, the expanded role, the visible impact of the past months.
+The impact wasn't just external. Inside, something had shifted. The cage was still there—the fear, the hesitation, the voice that said wait. But the door was open now. Riley had walked through it, again and again, until it became a path instead of a wall.
 
-"You've discovered something most people never find," Angela said. "The power to act. The question now is how you'll use it."
+The question that had started everything—What would it take?—had been answered. It took one small action. Then another. Then another.
 
-"What do you mean?"
+The impact was cumulative. Each choice built on the last. Each risk made the next one slightly less scary.
 
-"Agency isn't just about personal advancement. It's about impact. The more you develop your ability to act, the more responsibility you have to use it well."
+And the life that had felt stuck, narrow, small, was beginning to expand.
 
-The words were challenging, but they felt important. Riley had been focused on personal transformation. But Angela was pointing toward something larger. The responsibility that came with capability.
+---
 
-"How do I do that?"
+That evening, Riley sat in the apartment, looking at the same view that had seemed so stagnant six months ago. The streetlights were coming on. The Boston skyline glowed in the distance.
 
-"You keep growing. You help others find their agency. You use your power to create value, not just for yourself, but for everyone around you."
+Everything looked the same. But everything was different.
 
-The conversation continued, exploring the implications of agency, the responsibilities that came with growth, the opportunities to multiply impact by helping others.
+Riley had stopped waiting. And in the space that waiting had occupied, something new was growing.
 
-Walking home that evening, Riley felt the weight of the journey. Not just the personal transformation, but the recognition of what it meant. The power to act was also a responsibility to act. The ability to choose was also an obligation to choose well.
+A life. A career. A sense of agency that no one could take away.
 
-The impact was visible now. In the metrics that had improved. In the processes that had been streamlined. In the role that had expanded.
-
-But the real impact was internal. The transformation from passive to active. From waiting to acting. From invisible to visible.
-
-The morning would come, and with it, the new initiative. The chance to lead. The opportunity to create impact beyond personal advancement.
-
-The waiting game was over. The practice was established. And now, the impact was becoming real.
+The impact was real. And it was just beginning.

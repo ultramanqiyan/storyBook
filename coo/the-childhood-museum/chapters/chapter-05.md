@@ -1,10 +1,4 @@
-# The Childhood Museum - Chapter 05: The Truth
-
-> **Book**: The Childhood Museum
-> **Chapter**: 05 of 10
-> **Word Count**: 2,234
-
----
+# Chapter 05: The Truth
 
 Emma found the door.
 

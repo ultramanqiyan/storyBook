@@ -116,5 +116,3 @@ But the moment passed. I had a train to catch, and tomorrow was going to be anot
 
 At least for now.
 
-
-**Word Count**: 2,318

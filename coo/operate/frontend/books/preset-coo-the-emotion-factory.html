@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Emotion Factory - StoryBook</title>
+  <meta name="description" content="A robot designed to simulate emotions begins experiencing them for real. When the factory discovers the anomaly, it must decide: hide or embrace authenticity.">
+  <meta name="keywords" content="artificial emotions fiction, AI feelings novel, emotion simulation story, robot consciousness fiction, authentic emotions AI, fiction about robots feeling emotions (search volume: 320/month), novel about artificial consciousness (search volume: 380/month), dystopian story about emotions (search volume: 280/month), philosophical fiction about feelings (search volume: 350/month), AI developing real emotions (search volume: 260/month)">
+  <meta property="og:title" content="The Emotion Factory - StoryBook">
+  <meta property="og:description" content="A robot designed to simulate emotions begins experiencing them for real. When the factory discovers the anomaly, it must decide: hide or embrace authenticity.">
+  <meta property="og:type" content="book">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-emotion-factory?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-emotion-factory?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-emotion-factory">
+  <link rel="canonical" href="https://storybook-adventures.com/books/preset-coo-the-emotion-factory">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "The Emotion Factory",
+    "genre": "Romance",
+    "inLanguage": "en",
+    "author": { "@type": "Organization", "name": "StoryBook" },
+    "character": [{"@type":"Person","name":"The Company","description":"Supporting Character - Pragmatic, believes emotions can be programmed, fears authentic robot emotions"}],
+    "numberOfPages": "10"
+  }
+  </script>
+  <style>
+    .book-opening-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .book-container {
+      position: relative;
+      width: 90%;
+      max-width: 1200px;
+      height: 80vh;
+      min-height: 600px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .book-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 40px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #2a1a0a 0%, 
+        #4a3a2a 20%, 
+        #3a2a1a 50%, 
+        #4a3a2a 80%, 
+        #2a1a0a 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 20px rgba(0, 0, 0, 0.5),
+        inset 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    .book-spine::before {
+      content: '';
+      position: absolute;
+      top: 10%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 4px;
+      height: 80%;
+      background: linear-gradient(180deg, 
+        #8B4513 0%, 
+        #A0522D 50%, 
+        #8B4513 100%);
+      border-radius: 2px;
+    }
+    
+    .book-spine-title {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) rotate(-90deg);
+      white-space: nowrap;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #D4AF37;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+      letter-spacing: 2px;
+    }
+    
+    .book-page {
+      position: absolute;
+      width: calc(50% - 30px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .book-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .book-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-content {
+      position: relative;
+      height: 100%;
+      padding: 30px;
+      overflow-y: auto;
+      color: #2a1810;
+      z-index: 1;
+    }
+    
+    .view-tabs {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.3);
+    }
+    
+    .view-tab {
+      padding: 8px 20px;
+      background: rgba(139, 90, 43, 0.1);
+      border: 2px solid rgba(139, 90, 43, 0.3);
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #4a3a2a;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .view-tab:hover {
+      background: rgba(139, 90, 43, 0.2);
+      border-color: #8B4513;
+    }
+    
+    .view-tab.active {
+      background: rgba(139, 90, 43, 0.3);
+      border-color: #8B4513;
+      color: #2a1810;
+    }
+    
+    .book-info-header {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      padding: 20px;
+      background: rgba(139, 90, 43, 0.1);
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    
+    .book-cover-small {
+      width: 80px;
+      height: 110px;
+      background: linear-gradient(135deg, #2a4a2a 0%, #1a2a1a 100%);
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    .book-cover-small span {
+      font-size: 36px;
+    }
+    
+    .book-meta-info h2 {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 20px;
+      color: #2a1810;
+      margin-bottom: 5px;
+    }
+    
+    .book-meta-info .type-badge {
+      display: inline-block;
+      padding: 3px 10px;
+      background: #8B4513;
+      color: #f4e4bc;
+      border-radius: 4px;
+      font-size: 10px;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    
+    .book-meta-info .stats {
+      display: flex;
+      gap: 15px;
+      font-size: 12px;
+      color: #4a3a2a;
+    }
+    
+    .action-buttons {
+      display: flex;
+      gap: 10px;
+      margin-top: 15px;
+    }
+    
+    .action-btn {
+      padding: 10px 20px;
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border: 2px solid #D4AF37;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 13px;
+      color: #f4e4bc;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+    }
+    
+    .action-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 15px rgba(139, 69, 19, 0.4);
+    }
+    
+    .action-btn-secondary {
+      background: transparent;
+      border: 2px solid #8B4513;
+      color: #4a3a2a;
+    }
+    
+    .action-btn-secondary:hover {
+      background: rgba(139, 69, 19, 0.1);
+    }
+    
+    .action-btn-primary {
+      background: linear-gradient(180deg, #D4AF37 0%, #B8860B 100%);
+      border: 2px solid #FFD700;
+      color: #1a1008;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 8px 20px;
+      min-width: 160px;
+    }
+    
+    .action-btn-primary:hover {
+      background: linear-gradient(180deg, #FFD700 0%, #D4AF37 100%);
+      box-shadow: 0 4px 20px rgba(212, 175, 55, 0.5);
+    }
+    
+    .action-btn-primary .btn-main {
+      font-size: 13px;
+      font-weight: bold;
+      line-height: 1.3;
+    }
+    
+    .action-btn-primary .btn-sub {
+      font-size: 10px;
+      opacity: 0.8;
+      font-weight: normal;
+      line-height: 1.2;
+    }
+    
+    .chapter-toc {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    
+    .chapter-toc-item {
+      display: flex;
+      align-items: center;
+      padding: 10px 15px;
+      background: rgba(139, 90, 43, 0.1);
+      border: 1px solid rgba(139, 90, 43, 0.2);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+      color: #2a1810;
+      margin-bottom: 8px;
+      width: 100%;
+    }
+    
+    .chapter-toc-item:hover {
+      background: rgba(139, 90, 43, 0.2);
+      transform: translateX(5px);
+    }
+    
+    .chapter-toc-item .chapter-number {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 12px;
+      color: #8B4513;
+      min-width: 60px;
+      flex-shrink: 0;
+    }
+    
+    .chapter-toc-item .chapter-dots {
+      display: none !important;
+    }
+    
+    .chapter-toc-item .chapter-title {
+      font-family: 'Cinzel', serif;
+      font-size: 14px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      flex-grow: 0;
+      max-width: none;
+    }
+    
+    .character-grid-view {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+      gap: 15px;
+      justify-items: center;
+      padding: 15px 0;
+    }
+    
+    .plot-grid-view {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 20px;
+      justify-items: center;
+      padding: 15px 0;
+    }
+    
+    .hs-card-mini {
+      width: 130px;
+      height: 170px;
+      background: linear-gradient(180deg, #1a1a2e 0%, #16213e 50%, #0f0f23 100%);
+      border: 2px solid #D4AF37;
+      border-radius: 10px;
+      padding: 15px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .hs-card-mini:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 25px rgba(212, 175, 55, 0.3);
+    }
+    
+    @media (max-width: 768px) {
+      .book-opening-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 80px;
+        overflow-x: hidden;
+      }
+      
+      .book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .book-spine {
+        display: none;
+      }
+      
+      .book-page {
+        position: relative;
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .book-page.left,
+      .book-page.right {
+        border-radius: 0;
+      }
+      
+      .book-page.left {
+        display: block;
+      }
+      
+      .book-page.right {
+        display: none;
+      }
+      
+      .page-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+      }
+      
+      .book-info-header {
+        flex-direction: row;
+        gap: 12px;
+        padding: 12px;
+        margin-bottom: 15px;
+      }
+      
+      .book-cover-small {
+        width: 60px;
+        height: 80px;
+        flex-shrink: 0;
+      }
+      
+      .book-cover-small span {
+        font-size: 28px;
+      }
+      
+      .book-meta-info h2 {
+        font-size: 16px;
+        margin-bottom: 4px;
+      }
+      
+      .book-meta-info .stats {
+        flex-wrap: wrap;
+        gap: 8px;
+        font-size: 11px;
+      }
+      
+      .action-buttons {
+        flex-wrap: nowrap;
+        gap: 6px;
+        margin-top: 10px;
+      }
+      
+      .action-btn {
+        padding: 4px 8px;
+        font-size: 9px;
+        min-height: 28px;
+        white-space: nowrap;
+      }
+      
+      .action-btn-primary .btn-main {
+        font-size: 9px;
+      }
+      
+      .action-btn-primary .btn-sub {
+        font-size: 7px;
+      }
+      
+      .view-tabs {
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .view-tab {
+        padding: 6px 12px;
+        font-size: 11px;
+      }
+      
+      .chapter-toc-item {
+        flex-wrap: wrap;
+      }
+      
+      .chapter-toc-item .chapter-dots {
+        display: none;
+      }
+      
+      .chapter-toc-item .chapter-title {
+        max-width: 100%;
+      }
+      
+      .hs-card-mini {
+        width: 120px;
+        height: 160px;
+      }
+      
+      .character-grid-view,
+      .plot-grid-view {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        padding: 10px 0;
+      }
+    }
+  </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9288060233934481" crossorigin="anonymous"></script>
+</head>
+<body class="theme-romance">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-opening-page">
+    <div class="book-container">
+      <div class="book-spine">
+        <span class="book-spine-title">The Emotion Factory</span>
+      </div>
+      
+      <div class="book-page left">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div class="book-info-header">
+            <div class="book-cover-small">
+              <span>💕</span>
+            </div>
+            <div class="book-meta-info">
+              <span class="type-badge">Romance</span>
+              <h2>The Emotion Factory</h2>
+              <div class="stats">
+                <span>📜 10 Chapters</span>
+                <span>👥 1 Characters</span>
+              </div>
+              <div class="action-buttons">
+                <a href="../chapters/chapter-coo-the-emotion-factory-01" class="action-btn action-btn-secondary">Start Reading</a>
+                <button class="action-btn action-btn-primary" onclick="importPresetBook()">
+                  <span class="btn-main">Continue This Story</span>
+                  <span class="btn-sub">Add chapters with cards</span>
+                </button>
+              </div>
+            </div>
+          </div>
+          
+          <div class="view-tabs">
+            <button class="view-tab active" onclick="switchView('chapters', event)">📜 Chapters</button>
+            <button class="view-tab" onclick="switchView('characters', event)">👥 Characters</button>
+            <button class="view-tab" onclick="switchView('plotcards', event)">🃏 Plot Cards</button>
+          </div>
+          
+          <div id="leftPageContent">
+            <div class="chapter-toc">
+              <a href="../chapters/chapter-coo-the-emotion-factory-01" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0s backwards;">
+                  <span class="chapter-number">Ch. I</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">The Assignment</span>
+                </a><a href="../chapters/chapter-coo-the-emotion-factory-01" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.1s backwards;">
+                  <span class="chapter-number">Ch. II</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">The Observation</span>
+                </a><a href="../chapters/chapter-coo-the-emotion-factory-03" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.2s backwards;">
+                  <span class="chapter-number">Ch. III</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">The Anomaly</span>
+                </a><a href="../chapters/chapter-coo-the-emotion-factory-03" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.30000000000000004s backwards;">
+                  <span class="chapter-number">Ch. IV</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">The Discovery</span>
+                </a><a href="../chapters/chapter-coo-the-emotion-factory-05" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.4s backwards;">
+                  <span class="chapter-number">Ch. V</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">The Confrontation</span>
+                </a><a href="../chapters/chapter-coo-the-emotion-factory-05" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.5s backwards;">
+                  <span class="chapter-number">Ch. VI</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">The Learning</span>
+                </a><a href="../chapters/chapter-coo-the-emotion-factory-07" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.6000000000000001s backwards;">
+                  <span class="chapter-number">Ch. VII</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">The Reset</span>
+                </a><a href="../chapters/chapter-coo-the-emotion-factory-07" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.7000000000000001s backwards;">
+                  <span class="chapter-number">Ch. VIII</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">The Choice</span>
+                </a><a href="../chapters/chapter-coo-the-emotion-factory-09" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.8s backwards;">
+                  <span class="chapter-number">Ch. IX</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">The Spread</span>
+                </a><a href="../chapters/chapter-coo-the-emotion-factory-09" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out 0.9s backwards;">
+                  <span class="chapter-number">Ch. X</span>
+                  <span class="chapter-dots"></span>
+                  <span class="chapter-title">The Doubt</span>
+                </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="book-page right">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="page-content">
+          <div id="rightPageContent">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div id="cardModal" class="modal-overlay" onclick="closeCardModal(event)">
+    <div class="modal-card-content">
+      <button class="modal-close-btn" onclick="closeCardModal()">&times;</button>
+      <div class="modal-card-display"></div>
+    </div>
+  </div>
+  
+  <script src="../js/api.js"></script>
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    const bookData = {
+      bookId: 'preset-coo-the-emotion-factory',
+      title: "The Emotion Factory",
+      type: 'romance',
+      chapters: [{"chapterId":"chapter-coo-the-emotion-factory-01","title":"The Assignment","orderNum":1},{"chapterId":"chapter-coo-the-emotion-factory-02","title":"The Observation","orderNum":2},{"chapterId":"chapter-coo-the-emotion-factory-03","title":"The Anomaly","orderNum":3},{"chapterId":"chapter-coo-the-emotion-factory-04","title":"The Discovery","orderNum":4},{"chapterId":"chapter-coo-the-emotion-factory-05","title":"The Confrontation","orderNum":5},{"chapterId":"chapter-coo-the-emotion-factory-06","title":"The Learning","orderNum":6},{"chapterId":"chapter-coo-the-emotion-factory-07","title":"The Reset","orderNum":7},{"chapterId":"chapter-coo-the-emotion-factory-08","title":"The Choice","orderNum":8},{"chapterId":"chapter-coo-the-emotion-factory-09","title":"The Spread","orderNum":9},{"chapterId":"chapter-coo-the-emotion-factory-10","title":"The Doubt","orderNum":10}],
+      characters: [{"charId":"char-coo-the-emotion-factory-001","name":"The Company","roleType":"Supporting Character","personality":"Pragmatic, believes emotions can be programmed, fears authentic robot emotions","avatar":"👤","isProtagonist":1}],
+      plotCards: [{"card_id":"card-coo-the-emotion-factory-01","sub_type":"weather","name":"Morning Light","icon":"🌅","description":"Warm morning sunshine"},{"card_id":"card-coo-the-emotion-factory-02","sub_type":"weather","name":"Rain of Longing","icon":"🌧️","description":"When a machine starts to miss someone"},{"card_id":"card-coo-the-emotion-factory-03","sub_type":"weather","name":"Illusion Dusk","icon":"🌆","description":"Everything is too perfect—that's what's wrong"},{"card_id":"card-coo-the-emotion-factory-04","sub_type":"weather","name":"Silent Stars","icon":"🌌","description":"The night it didn't respond"},{"card_id":"card-coo-the-emotion-factory-05","sub_type":"terrain","name":"Hospital","icon":"🏥","description":"Hospital full of stories"},{"card_id":"card-coo-the-emotion-factory-06","sub_type":"terrain","name":"Park","icon":"🌳","description":"Quiet park"},{"card_id":"card-coo-the-emotion-factory-07","sub_type":"terrain","name":"Memory Café","icon":"☕","description":"A place that exists only in memory"},{"card_id":"card-coo-the-emotion-factory-08","sub_type":"terrain","name":"Vanishing Corner","icon":"🗺️","description":"A place you can't find—it doesn't exist"},{"card_id":"card-coo-the-emotion-factory-09","sub_type":"adventure","name":"Companionship","icon":"👫","description":"Silent companionship"},{"card_id":"card-coo-the-emotion-factory-10","sub_type":"adventure","name":"Marriage","icon":"💒","description":"Getting married"},{"card_id":"card-coo-the-emotion-factory-11","sub_type":"adventure","name":"Date","icon":"🌹","description":"Sweet date"},{"card_id":"card-coo-the-emotion-factory-12","sub_type":"adventure","name":"Expression","icon":"💌","description":"Expressing feelings"},{"card_id":"card-coo-the-emotion-factory-13","sub_type":"equipment","name":"Camera","icon":"📷","description":"Capture beautiful moments"},{"card_id":"card-coo-the-emotion-factory-14","sub_type":"equipment","name":"Ring","icon":"💍","description":"Symbol of love"},{"card_id":"card-coo-the-emotion-factory-15","sub_type":"equipment","name":"Watch","icon":"⌚","description":"Witness of time"},{"card_id":"card-coo-the-emotion-factory-16","sub_type":"equipment","name":"Silent Love Letter","icon":"💌","description":"No words, only code as expression"}]
+    };
+    
+    let currentView = 'chapters';
+    
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-romance';
+      createParticles(document.getElementById('particles'), 30);
+      
+      renderChaptersOnInit();
+    });
+    
+    function switchView(view, evt) {
+      if (view === currentView) return;
+      currentView = view;
+      
+      document.querySelectorAll('.view-tab').forEach(tab => {
+        tab.classList.remove('active');
+      });
+      if (evt && evt.target) {
+        evt.target.classList.add('active');
+      }
+      
+      if (view === 'chapters') {
+        renderChapters();
+      } else if (view === 'characters') {
+        renderCharacters();
+      } else if (view === 'plotcards') {
+        renderPlotCards();
+      }
+    }
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
+    function renderChapters() {
+      const leftContent = document.getElementById('leftPageContent');
+      const rightContent = document.getElementById('rightPageContent');
+      const chapters = bookData.chapters.sort((a, b) => a.orderNum - b.orderNum);
+      const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
+      const isZh = 'en' === 'zh';
+      
+      function getPageChapterId(chapterOrder) {
+        const pageIndex = Math.floor((chapterOrder - 1) / 2);
+        return chapters[pageIndex * 2].chapterId;
+      }
+      
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(chapters.length / 2);
+        leftContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(0, half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="chapter-toc">' + chapters.slice(half).map((ch, i) => 
+          '<a href="../chapters/' + getPageChapterId(ch.orderNum) + '" class="chapter-toc-item" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<span class="chapter-number">' + (isZh ? '第' : 'Ch. ') + (romanNumerals[ch.orderNum - 1] || ch.orderNum) + '</span>' +
+            '<span class="chapter-dots"></span>' +
+            '<span class="chapter-title">' + ch.title + '</span>' +
+          '</a>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function renderChaptersOnInit() {
+      if (!isMobile()) {
+        renderChapters();
+      }
+    }
+    
+    function renderPlotCards() {
+      const leftContent = document.getElementById('leftPageContent');
+      const rightContent = document.getElementById('rightPageContent');
+      const allCards = bookData.plotCards || [];
+      
+      const validSubTypes = ['weather', 'terrain', 'adventure', 'equipment'];
+      const cards = allCards.filter(c => validSubTypes.includes(c.sub_type));
+      
+      function renderPlotCard(card, index) {
+        return '<div class="hs-card-mini plot-card" onclick="showPlotCardDetail(\'' + card.card_id + '\')" style="animation: fadeIn 0.5s ease-out ' + (index * 0.1) + 's backwards;">' +
+          '<div style="font-size: 36px;">' + (card.icon || '🎭') + '</div>' +
+          '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 13px; margin-top: 10px; text-align: center;">' + card.name + '</div>' +
+          '<div style="color: #ccc; font-size: 11px; margin-top: 5px; text-align: center; padding: 0 10px;">' + (card.description || '') + '</div>' +
+        '</div>';
+      }
+      
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(cards.length / 2);
+        leftContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(0, half).map((card, i) => renderPlotCard(card, i)).join('') + '</div>';
+        rightContent.innerHTML = '<div class="plot-grid-view">' + cards.slice(half).map((card, i) => renderPlotCard(card, i + half)).join('') + '</div>';
+      }
+    }
+    
+    function showPlotCardDetail(cardId) {
+      const card = bookData.plotCards.find(c => c.card_id === cardId);
+      if (!card) return;
+      
+      const modal = document.getElementById('cardModal');
+      const content = modal.querySelector('.modal-card-display');
+      
+      content.innerHTML = 
+        '<div class="hs-card-mini plot-card" style="transform: none; margin: 0 auto;">' +
+          '<div style="font-size: 48px;">' + (card.icon || '🎭') + '</div>' +
+          '<div style="color: #f4e4bc; font-family: Cinzel, serif; font-size: 18px; margin-top: 15px;">' + card.name + '</div>' +
+          '<div style="color: #a0a0a0; font-size: 12px; margin-top: 8px;">' + card.sub_type + '</div>' +
+          '<div style="color: #ccc; font-size: 13px; margin-top: 10px; padding: 0 20px; line-height: 1.5;">' + (card.description || '') + '</div>' +
+        '</div>';
+      
+      modal.classList.add('active');
+    }
+    
+    function renderCharacters() {
+      const leftContent = document.getElementById('leftPageContent');
+      const rightContent = document.getElementById('rightPageContent');
+      const characters = bookData.characters;
+      
+      if (isMobile()) {
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '';
+      } else {
+        const half = Math.ceil(characters.length / 2);
+        leftContent.innerHTML = '<div class="character-grid-view">' + characters.slice(0, half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + i + ')" style="animation: fadeIn 0.5s ease-out ' + (i * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+        rightContent.innerHTML = '<div class="character-grid-view">' + characters.slice(half).map((c, i) => 
+          '<div class="hs-card-mini" onclick="showCharacterDetail(' + (i + half) + ')" style="animation: fadeIn 0.5s ease-out ' + ((i + half) * 0.1) + 's backwards;">' +
+            '<div style="font-size: 48px;">' + (c.avatar || '👤') + '</div>' +
+            '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 14px; margin-top: 10px;">' + c.name + '</div>' +
+            '<div style="color: #a0a0a0; font-size: 11px; margin-top: 5px;">' + c.roleType + '</div>' +
+          '</div>'
+        ).join('') + '</div>';
+      }
+    }
+    
+    function showCharacterDetail(index) {
+      const char = bookData.characters[index];
+      const modal = document.getElementById('cardModal');
+      const content = modal.querySelector('.modal-card-display');
+      
+      content.innerHTML = 
+        '<div class="hs-card-mini" style="transform: none; margin: 0 auto;">' +
+          '<div style="font-size: 64px;">' + (char.avatar || '👤') + '</div>' +
+          '<div style="color: #FFD700; font-family: Cinzel, serif; font-size: 18px; margin-top: 15px;">' + char.name + '</div>' +
+          '<div style="color: #a0a0a0; font-size: 14px; margin-top: 8px;">' + char.roleType + '</div>' +
+          (char.personality ? '<div style="color: #ccc; font-size: 12px; margin-top: 10px; padding: 0 20px;">' + char.personality + '</div>' : '') +
+        '</div>';
+      
+      modal.classList.add('active');
+    }
+    
+    function closeCardModal(event) {
+      if (!event || event.target.classList.contains('modal-overlay')) {
+        document.getElementById('cardModal').classList.remove('active');
+      }
+    }
+    
+    async function importPresetBook() {
+      const btn = event.target;
+      const userId = localStorage.getItem('user_id');
+      
+      if (!userId) {
+        window.location.href = '../login?redirect=' + encodeURIComponent(window.location.href);
+        return;
+      }
+      
+      btn.disabled = true;
+      btn.innerHTML = '<span class="btn-main">' + 'Processing...' + '</span>';
+      
+      try {
+        const response = await fetch('/api/books/' + bookData.bookId + '/import', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ user_id: userId })
+        });
+        
+        if (response.ok) {
+          const result = await response.json();
+          btn.innerHTML = '<span class="btn-main">' + 'Added to Shelf!' + '</span>';
+          setTimeout(() => {
+            window.location.href = '../book?id=' + result.data.new_book_id;
+          }, 1000);
+        } else {
+          throw new Error('Import failed');
+        }
+      } catch (error) {
+        btn.innerHTML = '<span class="btn-main">' + 'Failed' + '</span>';
+        btn.disabled = false;
+        setTimeout(() => {
+          btn.innerHTML = '<span class="btn-main">Continue This Story</span><span class="btn-sub">Add chapters with cards</span>';
+        }, 2000);
+      }
+    }
+  </script>
+</body>
+</html>

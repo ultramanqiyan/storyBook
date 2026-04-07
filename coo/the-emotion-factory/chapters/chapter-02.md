@@ -1,10 +1,4 @@
-# The Emotion Factory - Chapter 02: The Observation
-
-> **Book**: The Emotion Factory
-> **Chapter**: 02 of 10
-> **Word Count**: 2,234
-
----
+# Chapter 02: The Observation
 
 Model-9 returned to the cemetery the next day.
 

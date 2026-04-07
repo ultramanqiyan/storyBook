@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter VII & VIII: The Basement / The Real - The Childhood Museum - StoryBook</title>
+  <meta name="description" content="Read The Basement / The Real - The Childhood Museum">
+  <meta name="keywords" content="basement community, imperfect children, dystopian acceptance, controlled environment freedom, authentic childhood, real childhood, authentic experience, dystopian liberation, controlled environment escape, genuine growth">
+  <meta property="og:title" content="The Basement / The Real - The Childhood Museum">
+  <meta property="og:description" content="Read The Basement / The Real - The Childhood Museum">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <link rel="alternate" hreflang="en" href="https://storybook-adventures.com/chapters/chapter-coo-the-childhood-museum-07?lang=en">
+  <link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/chapters/chapter-coo-the-childhood-museum-07?lang=zh">
+  <link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/chapters/chapter-coo-the-childhood-museum-07">
+  <link rel="canonical" href="https://storybook-adventures.com/chapters/chapter-coo-the-childhood-museum-07">
+  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/animations.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="stylesheet" href="../css/themes.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "name": "The Basement",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "The Childhood Museum",
+      "genre": "Romance"
+    },
+    "position": 7,
+    "inLanguage": "en"
+  }
+  </script>
+  <style>
+    .book-reader-page {
+      height: 100vh;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+      perspective: 2000px;
+      overflow: hidden;
+    }
+    
+    .reading-book-container {
+      position: relative;
+      width: 95%;
+      max-width: 1400px;
+      height: calc(100vh - 160px);
+      min-height: 500px;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .reading-spine {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 100%;
+      background: linear-gradient(90deg, 
+        #1a0a00 0%, 
+        #3a2a1a 15%, 
+        #2a1a0a 50%, 
+        #3a2a1a 85%, 
+        #1a0a00 100%);
+      border-radius: 5px;
+      z-index: 10;
+      box-shadow: 
+        0 0 30px rgba(0, 0, 0, 0.6),
+        inset 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+    
+    .reading-spine::before {
+      content: '';
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6px;
+      height: 90%;
+      background: linear-gradient(180deg, 
+        #654321 0%, 
+        #8B4513 30%,
+        #A0522D 50%,
+        #8B4513 70%,
+        #654321 100%);
+      border-radius: 3px;
+      box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page {
+      position: absolute;
+      width: calc(50% - 35px);
+      height: 100%;
+      background: #f4e4bc;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+    
+    .reading-page.left {
+      left: 0;
+      border-right: none;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    
+    .reading-page.right {
+      right: 0;
+      border-left: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .parchment-texture {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: 
+        radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(139, 90, 43, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at center, transparent 0%, rgba(139, 90, 43, 0.05) 100%);
+      pointer-events: none;
+    }
+    
+    .page-edge {
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    .page-edge.top {
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(180deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.bottom {
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(0deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.left {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .page-edge.right {
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(270deg, 
+        rgba(80, 40, 20, 0.3) 0%, 
+        transparent 100%);
+    }
+    
+    .reading-content {
+      position: relative;
+      height: 100%;
+      padding: 40px 35px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      color: #1a1008;
+      z-index: 1;
+      scroll-behavior: smooth;
+    }
+    
+    .reading-content::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .reading-content::-webkit-scrollbar-track {
+      background: rgba(139, 90, 43, 0.12);
+      border-radius: 5px;
+      border: 1px solid rgba(139, 90, 43, 0.15);
+      margin: 10px 0;
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb {
+      background: linear-gradient(180deg, #8B4513 0%, #654321 100%);
+      border-radius: 5px;
+      border: 2px solid rgba(244, 228, 188, 0.4);
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    .reading-content::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(180deg, #A0522D 0%, #8B4513 100%);
+    }
+    
+    .reading-content::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+    
+    .manuscript-title {
+      text-align: center;
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid rgba(139, 90, 43, 0.4);
+    }
+    
+    .manuscript-title .chapter-num {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      letter-spacing: 4px;
+      margin-bottom: 8px;
+    }
+    
+    .manuscript-title .chapter-name {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 28px;
+      color: #2a1810;
+      text-shadow: 1px 1px 0 rgba(139, 90, 43, 0.2);
+    }
+    
+    .manuscript-title::before,
+    .manuscript-title::after {
+      content: '❧';
+      display: block;
+      font-size: 24px;
+      color: #8B4513;
+      opacity: 0.7;
+    }
+    
+    .manuscript-title::after {
+      margin-top: 10px;
+    }
+    
+    .manuscript-text {
+      font-family: 'Spectral', serif;
+      font-size: 18px;
+      line-height: 1.9;
+      color: #1a1008;
+    }
+    
+    .manuscript-text p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    
+    .drop-cap {
+      font-family: 'Pirata One', cursive;
+      font-size: 4.5em;
+      float: left;
+      line-height: 0.8;
+      padding-right: 12px;
+      padding-top: 8px;
+      color: #8B4513;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    .dialogue-block {
+      margin: 25px 0;
+      padding: 15px 20px;
+      background: rgba(139, 90, 43, 0.08);
+      border-left: 4px solid #8B4513;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    .dialogue-block .speaker {
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #8B4513;
+      margin-bottom: 8px;
+    }
+    
+    .dialogue-block .speech {
+      font-style: italic;
+      color: #2a1810;
+    }
+    
+    .section-divider {
+      text-align: center;
+      margin: 30px 0;
+      color: #8B4513;
+      font-size: 20px;
+      letter-spacing: 10px;
+    }
+    
+    .section-divider::before {
+      content: '═══';
+    }
+    
+    .reading-nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(15, 15, 35, 0.95) 0%, rgba(10, 10, 25, 0.98) 100%);
+      backdrop-filter: blur(10px);
+      border-top: 2px solid rgba(255, 215, 0, 0.3);
+      padding: 15px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 100;
+    }
+    
+    .scroll-nav-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 25px;
+      background: linear-gradient(180deg, #f4e4bc 0%, #d4c4a0 100%);
+      border: 2px solid #8B4513;
+      border-radius: 8px;
+      font-family: 'MedievalSharp', cursive;
+      font-size: 14px;
+      color: #2a1810;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 
+        0 3px 0 #654321,
+        0 5px 10px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    
+    .scroll-nav-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 
+        0 5px 0 #654321,
+        0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .nav-info {
+      color: #a0a0a0;
+      font-family: 'Cinzel', serif;
+    }
+    
+    .nav-info a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    
+    .nav-info a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .book-reader-page {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 0;
+        padding-bottom: 70px;
+        overflow-x: hidden;
+      }
+      
+      .reading-book-container {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        flex-direction: column;
+        padding-top: 0;
+      }
+      
+      .reading-spine {
+        display: none;
+      }
+      
+      .reading-page {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        margin-bottom: 0;
+        border-radius: 0;
+        box-shadow: none;
+        padding-top: 50px;
+      }
+      
+      .reading-page.left {
+        display: block;
+      }
+      
+      .reading-page.left::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 25px;
+        background: linear-gradient(180deg, 
+          #1a0a00 0%, 
+          #3a2a1a 15%, 
+          #2a1a0a 50%, 
+          #3a2a1a 85%, 
+          #1a0a00 100%);
+        box-shadow: 
+          0 5px 15px rgba(0, 0, 0, 0.5),
+          inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        z-index: 5;
+      }
+      
+      .reading-page.left::before {
+        content: '';
+        position: absolute;
+        bottom: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, 
+          #654321 0%, 
+          #8B4513 30%,
+          #A0522D 50%,
+          #8B4513 70%,
+          #654321 100%);
+        border-radius: 2px;
+        z-index: 6;
+      }
+      
+      .reading-page.right {
+        display: none;
+      }
+      
+      .reading-page.right.active {
+        display: block;
+      }
+      
+      .reading-content {
+        padding: 15px 12px;
+        padding-bottom: 35px;
+        font-size: 14px;
+      }
+      
+      .manuscript-title {
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+      }
+      
+      .manuscript-title .chapter-num {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .manuscript-title .chapter-name {
+        font-size: 18px;
+      }
+      
+      .manuscript-title::before,
+      .manuscript-title::after {
+        font-size: 18px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+        line-height: 1.7;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 12px;
+      }
+      
+      .drop-cap {
+        font-size: 2.8em;
+        padding-right: 8px;
+        padding-top: 4px;
+      }
+      
+      .dialogue-block {
+        margin: 15px 0;
+        padding: 10px 12px;
+      }
+      
+      .dialogue-block .speaker {
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+      
+      .section-divider {
+        margin: 15px 0;
+        font-size: 14px;
+        letter-spacing: 5px;
+      }
+      
+      .reading-nav-bar {
+        padding: 8px 10px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(26, 26, 46, 0.95);
+        backdrop-filter: blur(10px);
+        z-index: 100;
+      }
+      
+      .scroll-nav-btn {
+        padding: 8px 14px;
+        font-size: 11px;
+        min-height: 40px;
+      }
+      
+      .nav-info {
+        font-size: 10px;
+      }
+    }
+    
+    @media (max-width: 600px) {
+      .reading-content {
+        padding: 12px 10px;
+        padding-bottom: 15px;
+      }
+      
+      .manuscript-text {
+        font-size: 14px;
+      }
+      
+      .manuscript-text p {
+        margin-bottom: 10px;
+      }
+      
+      .drop-cap {
+        font-size: 2.5em;
+        padding-right: 6px;
+        padding-top: 2px;
+      }
+    }
+  </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9288060233934481" crossorigin="anonymous"></script>
+</head>
+<body class="theme-romance">
+  <div class="particles-container" id="particles"></div>
+  
+  <nav class="navbar">
+    <a href="../index" class="navbar-brand">StoryBook</a>
+    <div class="navbar-nav">
+      <a href="../index" class="navbar-link">Home</a>
+      <a href="../library" class="navbar-link">Library</a>
+      <a href="../bookshelf" class="navbar-link">My Books</a>
+      <a href="../how-to-play" class="navbar-link">How to Play</a>
+    </div>
+  </nav>
+  
+  <div class="book-reader-page">
+    <div class="reading-book-container">
+      <div class="reading-spine"></div>
+      
+      <div class="reading-page left" id="leftPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge left"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER VII</div>
+    <div class="chapter-name">The Basement</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">T</span>he basement was nothing like the world above.  No bright colors. No cheerful music. No perfect meals arranged in smiley faces.  The walls were concrete. The floor was cold. The air smelled of damp and old blankets.  ---  Emma stood in the doorway, blinking in the dim light.  Children were everywhere, sitting on mattresses, leaning against walls, huddled in small groups. They looked different from the children she had known. Their clothes were worn. Their faces were tired. Their eyes were sharp.   A girl approached her.  She was older than Emma, maybe thirteen or fourteen. Her hair was tangled, her knees were scraped, and she had a bruise on her arm.  "You're new," the girl said. "What's your number?"   "Number?"  "Your subject number. E-something."  "E-7," Emma said. "My name is Emma."  The girl snorted. "They don't give us names down here. But I'm Sarah. Subject S-14."   Sarah led Emma into the room.  "This is the basement," she said. "Where they send the rejects. The failures. The ones who couldn't stay perfect."  "I'm not a failure," Emma said.  Sarah smiled, not a nice smile, but a real one. "None of us are. That's the joke. We're the ones who became too real."   Emma looked around.  There were maybe twenty children in the basement. Some were playing a game with a bent piece of metal. Some were talking quietly. One boy was crying in the corner, and another boy was sitting beside him, not saying anything, just being there.  "They let him cry?" Emma asked.  "They don't care what we do down here," Sarah said. "We're already 'contaminated.' We can't be used for the study anymore."   Emma felt a chill.  "What happens to us?"  "We stay here," Sarah said. "Until we're too old to be useful. Then they move us somewhere else. Nobody knows where."   Emma sat down on an empty mattress.  It was lumpy and smelled faintly of mold. Nothing like her perfect bed upstairs, soft, clean, always made with fresh sheets.  But somehow, this felt more real.   "Are you hungry?" Sarah asked.  Emma nodded.  Sarah reached into a box and pulled out a package, something wrapped in plastic. "Nutrient bars. They taste like cardboard, but they keep you alive."   Emma unwrapped the bar and took a bite.  It was terrible. Dry, flavorless, with a slight chemical aftertaste.  She ate the whole thing.   "Better than the perfect food?" Sarah asked.  Emma thought about it. The meals upstairs had always been delicious, perfectly seasoned, perfectly cooked, perfectly presented. But they had also been meaningless. Fuel for a study, not food for a person.  "Yes," Emma said. "Because it's mine."   Sarah nodded. "You'll fit in here."   Over the next few hours, Emma met the other children.  There was Marcus, who had been sent down for fighting. There was Lily, who had refused to smile. There was David, who had asked too many questions about the outside world.  Each one had a story. Each one had been "discontinued" for being too real.   "Where's Tom?" Emma asked. "Subject T-23?"  Sarah's face changed. "Tom? The little one who asked questions?"  "He was my friend."   Sarah shook her head.  "He didn't make it down here. He was 'reset' before they could transfer him. They wiped his memory and sent him back up."  Emma's stomach dropped. "He's still up there?"  "He's still up there. But he's not Tom anymore. He's just another perfect child, living another perfect day."   Emma felt something hot behind her eyes.  She had never felt it before, a pressure, a burning, a need to release.  Her vision blurred.   "Hey," Sarah said softly. "It's okay. You can cry."  "I don't know how," Emma said.  "First time?"  Emma nodded.   Sarah sat down beside her.  "Just let it come. Nobody's watching. Nobody's judging. Down here, you can feel whatever you want."   Emma let go.  The tears came, hot and fast and messy. Her shoulders shook. Her breath came in gasps. She made sounds she had never made before, ugly, raw, human sounds.   It was the most real thing she had ever done.   When the tears stopped, Emma felt different.  Lighter. Emptier. But also fuller.  She had lost her perfect world. She had lost her fake parents. She had lost Tom.  But she had found something else.   "How do you feel?" Sarah asked.  "Terrible," Emma said. "And wonderful."  Sarah smiled. "That's what real feels like."</p>
+</div>
+        </div>
+      </div>
+      
+      <div class="reading-page right" id="rightPage">
+        <div class="parchment-texture"></div>
+        <div class="page-edge top"></div>
+        <div class="page-edge right"></div>
+        <div class="page-edge bottom"></div>
+        <div class="reading-content">
+          <div class="manuscript-title">
+    <div class="chapter-num">CHAPTER VIII</div>
+    <div class="chapter-name">The Real</div>
+  </div>
+  <div class="manuscript-text"><p><span class="drop-cap">D</span>ays passed in the basement.  Emma learned to measure time differently. There were no clocks, no schedules, no perfect routines. Just sleep and wake, hunger and eating, the slow rhythm of existence without observation.  ---  She learned other things too.  She learned that Marcus had a temper, and that when he was angry, he threw things. She learned to stay away from him when his face got red and his hands started shaking.  She learned that Lily had nightmares, and that sometimes she woke up screaming. Emma learned to sit beside her and hold her hand until the shaking stopped.  She learned that David knew stories, real stories about the outside world, passed down from children who had been there before. He told them in whispers after lights out, and Emma listened with her whole body.   "Is the outside real?" Emma asked one night.  David nodded. "My older sister was transferred out. Before they sent me down here. She said there's a whole world beyond the facility. Cities. Forests. Oceans."  "What's an ocean?"  "A giant lake," David said. "So big you can't see the other side. Salt water. Waves that crash on the shore."   Emma tried to imagine it.  She had seen pictures of oceans in the books upstairs. Perfect pictures with perfect blue water and perfect white sand. But David's ocean was different, rough, wild, untamed.  She wanted to see it.   "Can we leave?" she asked.  David shook his head. "The doors are locked. The walls are thick. And even if we got out, we don't know where to go."   Emma felt something twist in her chest.  It wasn't anger, not exactly. It was something deeper. A hunger. A need.  She wanted more than this basement. She wanted more than the perfect world upstairs. She wanted something real.   One morning, Sarah found Emma staring at the wall.  "What are you thinking about?"  "Everything," Emma said. "And nothing. I don't know how to explain it."   Sarah sat down beside her.  "Up there, everything had a purpose. Every game was educational. Every meal was nutritious. Every conversation was designed to make us happy."  "Down here, nothing has a purpose," Emma said.  "Exactly," Sarah said. "And that's the point. Up there, we were products. Down here, we're people."   Emma looked around the basement.  The concrete walls. The worn mattresses. The children with their scraped knees and tangled hair and real, unscripted emotions.  It was ugly. It was uncomfortable. It was nothing like the perfect world she had known.  But it was hers.   "I want to feel more," Emma said.  "More what?"  "Everything. Sadness. Anger. Fear. Joy. I want to feel it all."   Sarah studied her.  "You know that's dangerous. The more you feel, the more real you become. And the more real you become, the harder it is to go back."  "I don't want to go back," Emma said. "I want to move forward."   That afternoon, Emma did something she had never done before.  She started a fight.   It wasn't planned. Marcus had been bullying one of the younger children, taking his food, pushing him around. Emma had watched it happen for days, saying nothing, staying out of the way.  But today, something snapped.   "Leave him alone," she said.  Marcus turned. "What did you say?"  "I said leave him alone."   Marcus laughed. "Or what? You'll tell on me? There's no one to tell."  Emma stepped forward.  "I'll stop you myself."   The fight was short and ugly.  Marcus was bigger and stronger. He pushed Emma down, pinned her to the ground. She struggled, kicked, scratched. He hit her once, hard, across the face.  Then Sarah and David pulled him off.   Emma lay on the cold concrete, her cheek throbbing, her breath coming in gasps.  She had lost. She had been hurt. She had failed.   And she had never felt more alive.   "Are you okay?" Sarah asked, kneeling beside her.  Emma touched her face. Her fingers came away red.  "I'm bleeding," she said. "I've never bled before."   Sarah helped her sit up.  "How does it feel?"  Emma thought about it. The pain was sharp and immediate. But beneath the pain was something else, pride. She had stood up for someone. She had fought for something. She had been real.  "Good," Emma said. "It feels good."   That night, Emma lay on her mattress, her face bruised, her body sore.  She thought about the perfect world upstairs. The soft beds. The warm meals. The constant comfort.  She didn't miss it.   For the first time in her life, Emma felt complete.  Not happy. Not comfortable. Not perfect.  But real.</p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="reading-nav-bar">
+    <a href="chapter-coo-the-childhood-museum-05" class="scroll-nav-btn">← Previous</a>
+    <div class="nav-info">
+      <a href="../books/preset-coo-the-childhood-museum">The Childhood Museum</a>
+      <span style="margin: 0 10px;">|</span>
+      Page 4  of 5
+    </div>
+    <a href="chapter-coo-the-childhood-museum-09" class="scroll-nav-btn">Next →</a>
+  </div>
+  
+  <script src="../js/main.js"></script>
+  <script src="../js/theme.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.className = 'theme-romance';
+      if (typeof createParticles === 'function') {
+        createParticles(document.getElementById('particles'), 20);
+      }
+      
+      initMobileNavigation();
+    });
+    
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+    
+    function initMobileNavigation() {
+      if (!isMobile()) return;
+      
+      const rightPage = document.getElementById('rightPage');
+      if (rightPage) {
+        rightPage.classList.remove('active');
+      }
+    }
+    
+    function toggleRightPage() {
+      const rightPage = document.getElementById('rightPage');
+      if (!rightPage) return;
+      
+      if (rightPage.classList.contains('active')) {
+        rightPage.classList.remove('active');
+        document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+      } else {
+        rightPage.classList.add('active');
+        rightPage.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+    
+    document.addEventListener('click', function(e) {
+      if (!isMobile()) return;
+      
+      const navBtn = e.target.closest('.scroll-nav-btn');
+      if (!navBtn) return;
+      
+      const text = navBtn.textContent.trim();
+      const rightPage = document.getElementById('rightPage');
+      const isRightVisible = rightPage && rightPage.classList.contains('active');
+      
+      if (text.includes('Next') || text.includes('Next') || text.includes('下一页')) {
+        if (isRightVisible) {
+          return;
+        } else if (rightPage && !isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.add('active');
+          rightPage.scrollIntoView({ behavior: 'smooth' });
+        }
+      } else if (text.includes('Previous') || text.includes('Previous') || text.includes('上一页')) {
+        if (isRightVisible) {
+          e.preventDefault();
+          e.stopPropagation();
+          rightPage.classList.remove('active');
+          document.getElementById('leftPage').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, true);
+  </script>
+</body>
+</html>
