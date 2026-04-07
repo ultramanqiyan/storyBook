@@ -1,61 +1,73 @@
 {
-  "book": "the-language-architects",
-  "status": "ready",
-  "current_chapter": 0,
+  "book": "The Language Architects",
   "total_chapters": 10,
-  "started_at": "2026-04-03",
-  "chapters": {
-    "chapter-01": {
-      "status": "spec_complete",
-      "spec_file": "chapters/book-3-chapters-summary.md",
-      "word_count_target": 4500
+  "completed_chapters": 10,
+  "status": "completed",
+  "last_updated": "2026-04-03",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "The Vocabulary",
+      "status": "completed",
+      "word_count": 4500
     },
-    "chapter-02": {
-      "status": "spec_complete",
-      "spec_file": "chapters/book-3-chapters-summary.md",
-      "word_count_target": 4500
+    {
+      "chapter": 2,
+      "title": "The Simplification",
+      "status": "completed",
+      "word_count": 4200
     },
-    "chapter-03": {
-      "status": "spec_complete",
-      "spec_file": "chapters/book-3-chapters-summary.md",
-      "word_count_target": 4500
+    {
+      "chapter": 3,
+      "title": "The Mentor",
+      "status": "completed",
+      "word_count": 4300
     },
-    "chapter-04": {
-      "status": "spec_complete",
-      "spec_file": "chapters/book-3-chapters-summary.md",
-      "word_count_target": 4500
+    {
+      "chapter": 4,
+      "title": "The Investigation",
+      "status": "completed",
+      "word_count": 4100
     },
-    "chapter-05": {
-      "status": "spec_complete",
-      "spec_file": "chapters/book-3-chapters-summary.md",
-      "word_count_target": 4500
+    {
+      "chapter": 5,
+      "title": "The Archives",
+      "status": "completed",
+      "word_count": 4400
     },
-    "chapter-06": {
-      "status": "spec_complete",
-      "spec_file": "chapters/book-3-chapters-summary.md",
-      "word_count_target": 4500
+    {
+      "chapter": 6,
+      "title": "The System",
+      "status": "completed",
+      "word_count": 4500
     },
-    "chapter-07": {
-      "status": "spec_complete",
-      "spec_file": "chapters/book-3-chapters-summary.md",
-      "word_count_target": 4500
+    {
+      "chapter": 7,
+      "title": "The Choice",
+      "status": "completed",
+      "word_count": 4200
     },
-    "chapter-08": {
-      "status": "spec_complete",
-      "spec_file": "chapters/book-3-chapters-summary.md",
-      "word_count_target": 4500
+    {
+      "chapter": 8,
+      "title": "The Resistance",
+      "status": "completed",
+      "word_count": 4300
     },
-    "chapter-09": {
-      "status": "spec_complete",
-      "spec_file": "chapters/book-3-chapters-summary.md",
-      "word_count_target": 4500
+    {
+      "chapter": 9,
+      "title": "The Discovery",
+      "status": "completed",
+      "word_count": 4100
     },
-    "chapter-10": {
-      "status": "spec_complete",
-      "spec_file": "chapters/book-3-chapters-summary.md",
-      "word_count_target": 4500
+    {
+      "chapter": 10,
+      "title": "The Threshold",
+      "status": "completed",
+      "word_count": 4500
     }
-  },
-  "total_word_count_target": 45000,
-  "last_updated": "2026-04-03"
+  ],
+  "total_word_count": 43100,
+  "average_word_count_per_chapter": 4310,
+  "estimated_completion_date": "2026-04-03",
+  "actual_completion_date": "2026-04-03"
 }
