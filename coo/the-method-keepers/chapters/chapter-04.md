@@ -1,10 +1,10 @@
-# Chapter 04: The Colleague
+# Chapter 4: The Colleague
 
-Elena found herself walking toward Robert's office before she'd consciously decided to go there. Her feet carried her through the familiar corridors of the Meridian Center, past the humming server rooms and the quiet research labs, past colleagues who nodded and smiled without really seeing her.
+Elena walked toward Robert's office without consciously deciding to go there. Her feet carried her through the familiar corridors of the Meridian Center, past the humming server rooms and the quiet research labs, past colleagues who nodded and smiled without really seeing her.
 
 The morning had aged while she'd been lost in the data. Sunlight now streamed through the corridor windows, casting long rectangles across the polished floors. The building was coming alive around her—technicians arriving for their shifts, researchers heading to meetings, the soft hum of a thousand neural interfaces connecting and disconnecting from the central network.
 
-Elena barely noticed any of it. Her mind was still reeling from what she'd discovered in Sofia's classification rationale. The words echoed in her head: "Subject demonstrates insufficient deference to established knowledge structures. Methodology access would enable questioning behavior inconsistent with optimal social function."
+Elena barely noticed any of it. Her mind was still reeling from what she'd discovered in Sofia's classification rationale. The words echoed in her head: "Subject demonstrates insufficient deference to established knowledge structures. Methodology access would enable questioning behavior inconsistent with social function."
 
 The system hadn't just measured Sofia's cognitive capabilities. It had measured her tendency to question authority—and it had classified her as deficient specifically to prevent her from developing the tools to question more effectively.
 
@@ -46,7 +46,7 @@ Robert nodded slowly. "I expected you would. You always were thorough." He retur
 
 Elena hesitated. This was the moment—the point of no return. Once she said what she was thinking, there would be no taking it back. Robert would either understand, or he would become part of the system she was beginning to question.
 
-"The classification rationale includes a section I don't remember writing," she said carefully. "A section about 'insufficient deference to established knowledge structures.' About 'questioning behavior inconsistent with optimal social function.'"
+"The classification rationale includes a section I don't remember writing," she said carefully. "A section about 'insufficient deference to established knowledge structures.' About 'questioning behavior inconsistent with social function.'"
 
 Robert's expression didn't change. "Yes. I'm familiar with that section."
 
@@ -70,7 +70,7 @@ Robert leaned forward. "Elena, you've spent twenty years studying cognitive stra
 
 "They feel alienated because they've been given the impulse to question without the tools to find answers." Robert shook his head slowly. "That's not freedom, Elena. That's cruelty."
 
-Elena felt the words land like a physical blow. She had no immediate response.
+Elena had no immediate response.
 
 Robert stood and moved to the window, looking out over the Charles River. The morning light caught his profile, softening the lines of age that had accumulated over the years.
 
