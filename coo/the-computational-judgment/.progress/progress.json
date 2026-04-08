@@ -1,8 +1,60 @@
 {
   "book": "the-computational-judgment",
-  "status": "pending",
-  "current_chapter": 0,
+  "status": "completed",
+  "current_chapter": 10,
   "total_chapters": 10,
   "started_at": "2026-04-03",
-  "chapters": {}
+  "completed_at": "2026-04-08",
+  "chapters": {
+    "chapter-01": {
+      "title": "The Appointment",
+      "status": "completed",
+      "word_count": 2420
+    },
+    "chapter-02": {
+      "title": "The System",
+      "status": "completed",
+      "word_count": 2380
+    },
+    "chapter-03": {
+      "title": "The Criteria",
+      "status": "completed",
+      "word_count": 2350
+    },
+    "chapter-04": {
+      "title": "The Past",
+      "status": "completed",
+      "word_count": 2410
+    },
+    "chapter-05": {
+      "title": "The Test Cases",
+      "status": "completed",
+      "word_count": 2440
+    },
+    "chapter-06": {
+      "title": "The Public",
+      "status": "completed",
+      "word_count": 2390
+    },
+    "chapter-07": {
+      "title": "The Bias",
+      "status": "completed",
+      "word_count": 2400
+    },
+    "chapter-08": {
+      "title": "The Choice",
+      "status": "completed",
+      "word_count": 2360
+    },
+    "chapter-09": {
+      "title": "The Revelation",
+      "status": "completed",
+      "word_count": 2380
+    },
+    "chapter-10": {
+      "title": "The Future",
+      "status": "completed",
+      "word_count": 2350
+    }
+  }
 }
