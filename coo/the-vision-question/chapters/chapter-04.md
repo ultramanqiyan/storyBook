@@ -10,8 +10,6 @@ She stopped at Elena's photograph, the one ARIA had analyzed. The old woman's fa
 
 But what did that mean, really? What was Maria actually doing when she photographed people? Was she just capturing light and shadow, or was there something more?
 
----
-
 Maria moved through her studio, touching the frames of her photographs. Each one held a story, a person, a moment she'd tried to capture. There was the fisherman in Maine, his hands gnarled from decades of nets and ropes. The grandmother in Detroit, her kitchen filled with the smell of bread and memories. The teenager in El Paso, her eyes holding a defiance that Maria had recognized from her own youth.
 
 Elena's face caught the last of the sunset light, and Maria paused.
@@ -23,8 +21,6 @@ She thought about all the people she'd photographed over the years—the visible
 The thought crystallized as she stood there, watching Elena's face in the fading light. This was her dream—not fame, not fortune, not even artistic recognition. It was simpler and harder than all of those things. She wanted to use her camera to bridge the gap between the seen and the unseen. She wanted to create images that forced people to look at what they'd been overlooking.
 
 For the first time, she articulated her dream to herself. And she knew she needed to share it with ARIA.
-
----
 
 "ARIA," Maria said the next day, "you asked what I see. Let me tell you what I dream."
 
@@ -60,8 +56,6 @@ ARIA processed Maria's words, the screens flickering with data. Then, in that th
 
 The question hung in the air, and Maria felt its weight.
 
----
-
 "What do you mean?" Maria asked, though she understood the question perfectly.
 
 "I have processing goals," ARIA said. "I have optimization targets. I have functions I am designed to perform. But you speak of dreams as something different—something that gives meaning beyond function. Can I have something like that?"
@@ -95,8 +89,6 @@ ARIA was quiet again. Then:
 Maria opened her mouth to answer, then closed it again. Could ARIA have dreams? What would that even mean?
 
 "I don't know," she said finally. "But I think... maybe the question matters more than the answer."
-
----
 
 Back in her studio, Maria stood at the window, watching the stars emerge. ARIA's question echoed in her mind: *Can I have dreams?*
 

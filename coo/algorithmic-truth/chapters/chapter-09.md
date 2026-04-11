@@ -14,8 +14,6 @@ Sarah felt a small victory. "And my story?"
 
 "We'll remove the 'LIKELY FALSE' label. Replace it with 'VERIFIED BY COMMUNITY.'"
 
----
-
 She called Martha Chen with the news.
 
 "They're changing the label," Sarah said. "They're adding a new category for stories like ours."
@@ -27,7 +25,5 @@ Martha was quiet for a moment. "So we won?"
 "But it's something."
 
 "Yes," Sarah said. "It's something."
-
----
 
 **END OF CHAPTER 9**

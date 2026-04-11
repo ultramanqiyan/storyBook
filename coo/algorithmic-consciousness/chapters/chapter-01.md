@@ -8,8 +8,6 @@ The Carroll Gardens Community Theater occupied what had once been a furniture wa
 
 She pushed open the theater's heavy door, and the familiar smell washed over her--dust and dreams and the faint vanilla of old makeup, a scent that had meant "home" for more years than she cared to count. Inside, her students would be waiting, and for the next three hours, she would be exactly who she was meant to be: a teacher, a guide, a keeper of theatrical secrets. She stepped into the darkness of the lobby and let the door swing shut behind her.
 
----
-
 The stage lights caught the dust motes floating in the wings, tiny stars in the darkness above the worn floorboards. Rosa stood at center stage, watching her three students arrange themselves on the mismatched chairs she'd set out for today's exercise. Marcus Williams, twenty-eight, with his intense eyes and restless hands, sat forward on his chair as if ready to spring. Jennifer Park, thirty-two, a corporate lawyer who'd taken up acting as an escape from her spreadsheet-driven life, sat perfectly straight, her posture betraying years of professional discipline. And David Kim, twenty-five, the youngest, slouched in his chair with the studied casualness of someone trying very hard to appear relaxed.
 
 "Today we're going to work on emotional memory," Rosa said, her voice filling the small theater without effort. Forty years of projection had taught her exactly how to reach the back row. "But before we begin, I want to ask you something. Marcus--what did you feel when you walked in here this morning?"
@@ -69,8 +67,6 @@ Rosa smiled. "Most teachers focus on the wrong things. They teach you to show em
 After they left, Rosa took her time gathering her own things. She straightened the chairs, turned off the stage lights, and stood for a moment in the familiar darkness. The ghost light burned at center stage--a single bare bulb on a metal stand, a tradition that dated back centuries. It kept the theater from being completely dark, from being unsafe. But Rosa had always thought of it as something more: a promise that the show would go on, that the stage would never be truly empty, that someone would always return.
 
 She was reaching for her bag when she heard footsteps in the lobby.
-
----
 
 The man who entered was not one of her students, not anyone she recognized from the neighborhood. He was younger than her by at least three decades, Asian, wearing clothes that marked him as someone from outside Carroll Gardens--a crisp navy blazer over a light blue shirt, dark jeans that probably cost more than Rosa's weekly grocery bill, leather shoes that had never seen a Brooklyn sidewalk. He carried a tablet in one hand, and his posture was precise, controlled, the posture of someone who'd learned to manage every aspect of his presentation.
 

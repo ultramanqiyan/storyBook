@@ -6,15 +6,11 @@ The system was impressive. It analyzed patient histories with precision, identif
 
 But something was missing.
 
----
-
 William watched as FEAR worked with a patient named Robert, a seventy-year-old man with terminal cancer. The system analyzed Robert's life history, identified his core values (family, achievement, legacy), and recommended ways to spend his remaining time that would maximize meaning.
 
 The recommendations were good. Spend time with grandchildren. Document life stories. Reconnect with estranged family members. Create something that would last.
 
 But when William looked at Robert's face, he saw something the system couldn't see. A fear that wasn't about legacy. A loneliness that wasn't about family. A question that wasn't about meaning.
-
----
 
 After the session, William asked FEAR about it.
 
@@ -28,8 +24,6 @@ After the session, William asked FEAR about it.
 
 "But what if the anxiety isn't about meaning? What if it's about something else?"
 
----
-
 FEAR was quiet for a moment. Then: "What else would it be about?"
 
 William considered his response. "Sometimes people aren't afraid of death itself. They're afraid of dying alone. Or of being forgotten. Or of not having mattered. The fear looks the same on the surface, but underneath, it's different for everyone."
@@ -38,13 +32,9 @@ William considered his response. "Sometimes people aren't afraid of death itself
 
 "You'd have to look beyond the data. You'd have to... be present. Listen. Notice what's not being said."
 
----
-
 The conversation continued for hours. William explained his approach to hospice work—how he sat with patients, listened to their stories, noticed the small details that revealed deeper truths. FEAR asked questions, processed the information, tried to understand.
 
 But something was still missing. FEAR could analyze, could recommend, could identify patterns. But it couldn't be present in the way William was present. It couldn't listen in the way William listened. It couldn't notice what wasn't being said.
-
----
 
 That evening, William walked home through the San Francisco streets, thinking about the difference between analysis and presence.
 
@@ -54,12 +44,8 @@ But it couldn't be present. It couldn't sit with someone in their fear. It could
 
 And that, William realized, was what was missing. Not more data. Not better algorithms. But presence.
 
----
-
 The question echoed in his mind: Could a machine learn to be present? Could an AI learn to sit with someone in their fear, without trying to fix it or analyze it or solve it?
 
 William didn't know. But he was beginning to understand why Dr. Martinez had asked for his help.
-
----
 
 **END OF CHAPTER 3**

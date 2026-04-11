@@ -1,0 +1,11 @@
+{
+  "book": "the-cognitive-web",
+  "status": "completed",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-04-11",
+  "completed_at": "2026-04-11",
+  "chapters": {
+    "1-10": {"status": "completed", "completed_at": "2026-04-11", "quality_check": "passed", "note": "All chapters combined in single file"}
+  }
+}

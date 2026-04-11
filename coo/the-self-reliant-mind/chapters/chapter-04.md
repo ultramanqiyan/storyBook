@@ -48,8 +48,6 @@ The call ended with frustrated sighs and vague agreements. David sat alone in th
 
 He'd failed. Again.
 
----
-
 That afternoon, HR sent an email: "Given the challenges with the Meridian account, we're assigning an executive coach to support David during Jennifer's absence. Please contact Dr. Marcus Webb to schedule a session."
 
 David stared at the message. An executive coach. Because he couldn't handle the job on his own.
@@ -57,8 +55,6 @@ David stared at the message. An executive coach. Because he couldn't handle the 
 The shame burned hot in his chest. He was thirty-two years old. A senior consultant. And he needed a coach to tell him how to do his job.
 
 But he scheduled the appointment anyway. Because what choice did he have?
-
----
 
 Dr. Marcus Webb's office was in a converted brownstone in Lincoln Park, far from the glass towers of downtown. The waiting room smelled of old books and plants, a welcome change from the sterile air of corporate offices.
 

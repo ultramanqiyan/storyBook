@@ -122,6 +122,4 @@ And he knew, with the clarity that sometimes came in quiet moments, that this wo
 
 The train carried him home.
 
----
-
 **END OF CHAPTER 1**

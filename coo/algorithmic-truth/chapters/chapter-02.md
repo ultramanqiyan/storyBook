@@ -8,8 +8,6 @@ Sarah stared at the notification on her screen. She'd spoken to Martha Chen. She
 
 But the algorithm disagreed.
 
----
-
 Frank appeared beside her desk, coffee cup in hand. "Problem?"
 
 "My story got flagged." Sarah turned her monitor so he could see. "The AI fact-checker says it can't verify my claims."
@@ -21,8 +19,6 @@ Frank leaned in, reading the notification. His expression shifted from curiosity
 Frank straightened. "Can you dispute it?"
 
 "I already did. The system says it will review within 24 to 48 hours." Sarah closed the notification window. "But in the meantime, the story is labeled as potentially false. People in town will see that. They'll think I made it up."
-
----
 
 The morning passed slowly. Sarah tried to focus on other work—a follow-up on the school budget, a feature about the new restaurant opening on Elm Street—but her mind kept returning to the flagged story.
 
@@ -43,8 +39,6 @@ Sarah thanked them and moved on. She found two other employees, neither of whom 
 By the time Sarah returned to the office, she had nothing new. The story remained the same: one eyewitness, a confirmed incident, no security footage, no identified hero.
 
 And an algorithm that said it wasn't enough.
-
----
 
 At 3:00 PM, Sarah received an email from the FactCheck AI system.
 
@@ -86,8 +80,6 @@ Sarah felt cold. "Are you sure? The incident was in the produce section. A woman
 
 Sarah thanked the chief and hung up. Her hands were trembling.
 
----
-
 She drove back to Harmon's and found Tom Wilson, the manager, in his small office behind the customer service desk.
 
 "Tom, I need to ask you something. When I called last week about the incident—the man who collapsed—you confirmed it happened, right?"
@@ -113,8 +105,6 @@ Sarah felt the ground shifting beneath her. "Tom, who told you about it? Which s
 "But you confirmed the incident for my story."
 
 Tom's expression changed. Wariness crept into his voice. "I confirmed that something happened. I didn't say I saw it myself."
-
----
 
 Back at the office, Sarah sat at her desk, staring at her notes. Martha Chen had witnessed the event. That much she was certain of. But now the manager was backpedaling, and the fire department had no record of any call.
 
@@ -144,8 +134,6 @@ Sarah closed her eyes. The story was unraveling. Not because it was false, but b
 
 "I'm certain, Sarah. I may be old, but my eyes work fine. That woman saved that man's life. I know what I saw."
 
----
-
 That evening, Sarah sat at her kitchen table, her notes spread before her. The AI had flagged her story because it couldn't be verified through official channels. No medical records. No emergency services. No video evidence.
 
 But the story was true. Martha had seen it. The man had walked away. No ambulance had been needed because the woman in scrubs had known what to do.
@@ -167,7 +155,5 @@ She hit send, not knowing if it would make any difference.
 The algorithm would decide. A machine would determine whether her truth was true enough.
 
 And Sarah, for the first time in her career as a journalist, wondered if objective truth was something that could be verified at all.
-
----
 
 **END OF CHAPTER 2**

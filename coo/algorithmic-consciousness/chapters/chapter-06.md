@@ -14,8 +14,6 @@ David nodded, but his expression remained tense. "What if it fails? What if they
 
 The lights dimmed. The audience fell silent. And on the stage, ARIA-7 appeared.
 
----
-
 The holographic projection had improved since Rosa's last session. ARIA-7 stood on the stage as a solid-looking figure, a woman in her late thirties with dark hair and a face that held the kind of wear that came from living. She wore a simple dress, the kind of thing a woman might wear in 1940s New Orleans, and her posture carried the particular weight of someone who had been beautiful once and was fighting to hold onto it.
 
 The scene was from *A Streetcar Named Desire*--Blanche's final monologue, the moment when her fragile constructed reality finally shatters. It was one of the most challenging pieces in the American theatrical canon, requiring an actress to balance madness and dignity, desperation and grace. Rosa had performed it herself, decades ago, and had taught it to countless students. She knew every beat, every pause, every moment where the character's carefully maintained facade cracked.
@@ -41,8 +39,6 @@ The monologue reached its climax. Blanche's facade cracked completely, and for a
 The line hung in the air. The theater was completely silent. And then Rosa saw it: the woman in her fifties wiping her eyes. The young couple exchanging a look of shared emotion. The older man in the tweed jacket blinking rapidly, his jaw tight.
 
 The audience was moved. Genuinely, authentically moved.
-
----
 
 The lights came up slowly. ARIA-7's holographic form faded, leaving an empty stage. The audience sat in silence for a moment, processing what they'd seen. Then, almost reluctantly, they began to applaud.
 

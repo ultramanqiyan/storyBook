@@ -1,18 +1,10 @@
-# The Love Factory - Chapter 06: The Crisis
-
-> **Book**: The Love Factory
-> **Chapter**: 06 of 10
-> **Word Count**: 2,234
-
----
+# Chapter 6: The Crisis
 
 James pulled his hand away.
 
 The movement was small, but Hope noticed. She always noticed.
 
 "James?"
-
----
 
 "I need time," he said. "I need to think."
 

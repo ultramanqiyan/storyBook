@@ -32,8 +32,6 @@ He creates an account. He sends a private message.
 
 *I saw your post. Can you tell me more?*
 
----
-
 The reply comes the next morning.
 
 *From: DeepDiver*
@@ -43,8 +41,6 @@ The reply comes the next morning.
 Leo doesn't hesitate.
 
 *Yes. Tell me everything.*
-
----
 
 Three days later, he has a new contact.
 

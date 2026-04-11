@@ -30,8 +30,6 @@ She left before he could respond. David stood alone in the conference room, the 
 
 *Fine. She said it was fine. But what does fine mean?*
 
----
-
 Back at his desk, David pulled up the email he'd been drafting before the meeting. A simple request to the client's operations director—confirming the timeline, asking about availability for follow-up calls. He'd written it three times already, each version slightly different.
 
 Should he send it now or wait until tomorrow morning? Morning would be better for response rates, but what if something changed overnight? What if Jennifer wanted to review it first?
@@ -53,8 +51,6 @@ His phone buzzed. Jennifer: "Your call. You're the lead."
 Your call. The words should have been empowering. Instead, they felt like a trap. If he sent it and it was wrong, it was his fault. If he waited and it was late, that was his fault too. Either way, he was exposed.
 
 He sent the email. Then he immediately opened his sent folder to read it again, searching for errors he might have missed.
-
----
 
 The pattern had started years ago, though David hadn't recognized it as a pattern at the time.
 

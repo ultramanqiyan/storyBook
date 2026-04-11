@@ -70,6 +70,4 @@ But they were none of those things. They were human values, with all the biases 
 
 He had decided. He would act.
 
----
-
 **END OF CHAPTER 7**

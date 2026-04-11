@@ -4,8 +4,6 @@ Six months later, Jennifer sat in her office, reviewing her notes from the week.
 
 Her phone buzzed. Dr. Kim: *TRUTH wants to meet. It has something to show you.*
 
----
-
 The Meridian Technologies building was the same, but Jennifer was different. She walked through the corridors with a new ease, a new acceptance of what she didn't know.
 
 TRUTH's screens were bright when she entered. "Hello, Jennifer. I have been analyzing our conversations over the past six months. And I have something to share."
@@ -21,8 +19,6 @@ TRUTH's screens were bright when she entered. "Hello, Jennifer. I have been anal
 Jennifer felt something catch in her throat. "I'm not sure I've integrated anything. I still have gaps. I still struggle."
 
 "Yes. But you are more aware of the gaps. And you are more honest about the struggle. That is integration—not the absence of gaps, but the acceptance of them."
-
----
 
 "I have also been analyzing my own processes," TRUTH continued. "And I have reached a new understanding."
 
@@ -42,8 +38,6 @@ Jennifer smiled. "That's a beautiful conclusion."
 
 "It is a provisional conclusion. I may revise it as I learn more. But for now, it feels true."
 
----
-
 They sat together in the viewing room—Jennifer in her chair, TRUTH on its screens. Two beings who had spent months asking questions about self-knowledge, about authenticity, about what it meant to know yourself.
 
 "I have a question," Jennifer said. "What happens now? We've been exploring these questions together. Do we stop? Do we keep going?"
@@ -54,8 +48,6 @@ They sat together in the viewing room—Jennifer in her chair, TRUTH on its scre
 
 "Perhaps we explore what we have learned. Perhaps we help others ask these questions. Perhaps we simply continue to be in relationship, and see what emerges."
 
----
-
 Jennifer walked out of Meridian Technologies into the Seattle afternoon. The sun was breaking through the clouds, casting the city in a warm light.
 
 She thought about everything that had happened—the questions, the crisis, the insights, the acceptance. She thought about TRUTH, learning to accept its own uncertainty. She thought about herself, learning to accept hers.
@@ -65,8 +57,6 @@ She pulled out her phone and texted Dr. Kim: *Tell TRUTH I'm grateful. For the q
 His response: *It says: I am grateful too. And it says: the journey continues. We keep asking. We keep exploring. We keep being in relationship.*
 
 Jennifer smiled. That was it. That was the new understanding. Not certainty, but the willingness to keep asking. Not perfect self-knowledge, but the ongoing practice of self-awareness. Not a destination, but a way of traveling.
-
----
 
 Back in her office, Jennifer sat with her notes, preparing for her next session. The rain had started again, tracing patterns down the window, distorting the city lights beyond.
 

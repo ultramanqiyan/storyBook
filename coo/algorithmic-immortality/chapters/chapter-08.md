@@ -6,8 +6,6 @@ Ingrid felt something shift inside her--a relief, recognition, validation. After
 
 But as she spent more time with Margaret, she realized that certainty was not the same as peace.
 
----
-
 Margaret's room was filled with photographs. Her husband Tom, their children, their grandchildren, their life together spanning decades. Ingrid studied them as she helped Margaret get comfortable, adjusting pillows, checking the IV line, making small talk about the weather.
 
 "That one was our fortieth anniversary," Margaret said, her voice already affected by the disease but still clear enough. She pointed to a photo on the dresser--two people standing on a beach, wind in their hair, smiles on their faces. "Tom wanted to go to Hawaii. I said it was too expensive. So we went to Lake Superior instead. Best decision we ever made."
@@ -36,8 +34,6 @@ Ingrid thought of Mrs. Halvorsen, saying almost the same thing. The value of the
 
 "I'm choosing to die the way Tom died. The way people have died for thousands of years. In my body, in my time, with the people I love around me." Margaret's voice softened. "I know it sounds strange. But there's something right about it. Something honest."
 
----
-
 Over the next few days, Ingrid spent hours with Margaret. They talked about her life--her childhood in Duluth, her years as a schoolteacher, her marriage to Tom, their children and grandchildren. They talked about her disease--the slow progression, the loss of function, the acceptance that had come gradually and then suddenly.
 
 And they talked about death.
@@ -59,8 +55,6 @@ Ingrid nodded slowly. "I think I understand."
 "That there's no single answer. That different people want different things. And that my job is to help them figure out what they want--not to tell them what's right."
 
 Margaret nodded approvingly. "That sounds like wisdom to me."
-
----
 
 On the fifth day, Margaret's daughter arrived. Katherine was forty-two, with her mother's dark hair and determined jaw. She came into the room with a tablet in her hand, her expression a mixture of grief and hope.
 
@@ -94,8 +88,6 @@ Katherine wiped her eyes. "I just don't want to lose her."
 
 Katherine was quiet for a long moment. Then she nodded slowly. "I'll try. I'll try to respect her choice."
 
----
-
 That evening, Ingrid sat with Margaret while Katherine and the other family members went to dinner. The room was quiet, the only sounds the soft beeping of monitors and Margaret's labored breathing.
 
 "Thank you," Margaret said. "For what you said to Katherine. She told me."
@@ -113,8 +105,6 @@ Ingrid felt a lump in her throat. "Thank you. That means a lot."
 "I have a request," Margaret said. "When it's time--when I'm close--will you be there? I don't want to be alone."
 
 "I'll be there. I promise."
-
----
 
 Three days later, Ingrid kept her promise. She sat beside Margaret's bed, holding her hand, as the breathing grew slower and shallower. Katherine was there too, and the other children, and the grandchildren--a room full of love and grief and acceptance.
 

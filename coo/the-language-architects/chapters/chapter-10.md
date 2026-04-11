@@ -6,8 +6,6 @@ She had thought about it day and night. She had replayed the simulation results 
 
 The weight of the decision was almost unbearable. If she released the archive, she would be responsible for the cognitive chaos that followed. If she didn't, she would be responsible for the continued limitation of thought.
 
----
-
 She went to visit Khalid on the third day, hoping for guidance.
 
 Her mentor's house looked the same as it had three weeks ago—white siding, green shutters, the overgrown garden that he no longer had the words to tend. But when Khalid opened the door, Amira saw that something had changed.
@@ -30,15 +28,11 @@ Amira stared at him. "I want to live in a world where people can think complex t
 
 "No one said it would be easy." Khalid leaned forward. "When I was... when I still had all my words, I made a choice. I chose to teach people to question, even though the system said I shouldn't. I lost my career. My reputation. My vocabulary." He paused. "But I would do it again. Because some things are worth fighting for, even when you lose."
 
----
-
 Amira left Khalid's house and walked through the West Philadelphia streets. The afternoon sun was warm, the sky clear. She passed houses where families lived, where children played, where people went about their daily lives using simplified language.
 
 She thought about the Shudra, about how they had been denied the ability to think complex thoughts. She thought about the system, about how it had turned language into a tool of control. She thought about her mentor, about how he was losing his ability to think.
 
 And she thought about the archive, about the thousands of words it contained, about the millions of people who could benefit from it—or be harmed by it.
-
----
 
 Back at home, Amira sat in her office, the archive glowing on her screen. The weight of the decision was still there, but now it was accompanied by a sense of resolve.
 
@@ -47,8 +41,6 @@ She pulled up the simulation results one more time. The numbers were clear: if s
 But there was something else in the simulation, something she hadn't noticed before. In the moderate release scenario—the one where a few thousand people gained access to complex vocabulary—the results weren't catastrophic. There was disruption, yes. Confusion. Unrest. But there was also something else: growth. People learning to think in new ways. People discovering the power of words. People pushing back against simplification.
 
 It wasn't liberation. It wasn't revolution. But it was something.
-
----
 
 The doorbell rang.
 
@@ -72,8 +64,6 @@ Amira felt her heart rate quicken. "How did he—"
 
 "He's your mentor. He knows you better than you think." Yuki met her eyes. "Look, I don't know what you're planning. But I know there are others like me. People who want to learn real language. People who are willing to fight for the words to think with. If you release that archive, you won't be alone."
 
----
-
 Amira stood in her office, the archive glowing on her screen, Yuki's words echoing in her mind.
 
 She thought about Khalid, about the decades of teaching, the students who had found their way to him despite the system's best efforts.
@@ -83,8 +73,6 @@ She thought about Yuki, about the others like her who were hungry for real langu
 She thought about the Shudra, about the millions of people who had been denied the words to express their thoughts.
 
 And she thought about language—about the power of words to shape thought, to enable questioning, to challenge assumptions. The power she had spent twenty years restricting.
-
----
 
 The threshold stretched before her. On one side: linguistic freedom, the right to complex thought, the foundation of expression. On the other: cognitive stability, the prevention of chaos, the system she had served.
 
@@ -96,8 +84,6 @@ She thought about the word "hypothesis," disappearing at 9:47 AM three days ago.
 
 And she made her choice.
 
----
-
 The archive released into the network at 7:23 PM on a Tuesday evening.
 
 By Wednesday morning, five thousand people had accessed it. By Wednesday evening, fifteen thousand. By the end of the week, the number had reached eighty thousand.
@@ -106,9 +92,7 @@ The system noticed. The Brahmin council noticed. Amira was called before a disci
 
 But by then, it was too late. The archive was out. Real language, with all its complexity and nuance and power, was spreading through the network like a virus.
 
-And somewhere in West Philadelphia, an old linguist smiled as he felt the words returning.
-
----
+In West Philadelphia, an old linguist smiled as he felt the words returning.
 
 Six months later, Amira sat in Khalid's kitchen, watching Yuki Tanaka explain the concept of "dialectic" to a group of Shudra students.
 
@@ -130,8 +114,6 @@ Amira watched Yuki explain the difference between "hypothesis" and "theory," wat
 
 "No. But it's a start." Khalid smiled. "And that's all language ever is. A start. A word. A thought. The beginning of something, not the end."
 
----
-
 That evening, Amira walked home through the Philadelphia streets. The sun was setting, painting the sky in shades of orange and pink.
 
 She thought about the chaos that had followed the archive's release—the confusion, the protests, the debates. She thought about the people who had struggled with complex language, who had found the new vocabulary overwhelming.
@@ -141,8 +123,6 @@ But she also thought about the people who had thrived. The students like Yuki. T
 The system was still there. The classification still existed. But something had changed. A crack had appeared in the wall. A small one, but a crack nonetheless.
 
 And through that crack, the light of real language was beginning to shine.
-
----
 
 Amira arrived home to find a message waiting for her on her screen.
 
@@ -156,7 +136,7 @@ But for the first time, she knew she wouldn't have to choose alone.
 
 She saved the message, closed her laptop, and walked to the window. The Philadelphia skyline glittered in the distance, the lights of a city full of people who were learning, slowly, to think in new ways.
 
-And somewhere out there, in a small house in West Philadelphia, an old linguist was teaching his students the word "hypothesis," and watching their eyes light up with the possibility of questions they had never been able to ask before.
+In a small house in West Philadelphia, an old linguist was teaching his students the word "hypothesis," and watching their eyes light up with the possibility of questions they had never been able to ask before.
 
 That's what language is, Amira thought. That's what it's always been.
 

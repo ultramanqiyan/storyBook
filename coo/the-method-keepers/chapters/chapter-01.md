@@ -42,8 +42,6 @@ But Sofia had just shaken her head. "You're not listening. I'm not talking about
 
 Now Elena sat at the kitchen table, the classification letter in front of her, and wondered if her daughter had been right.
 
----
-
 Sofia came downstairs at 7:32.
 
 She was wearing the blue sweater she'd bought last month, the one she'd said made her look "serious." Her hair was still damp from the shower, and she carried her backpack slung over one shoulder—the same way she'd carried it since elementary school.
@@ -126,8 +124,6 @@ Elena nodded. "Of course."
 
 Sofia left. The door closed behind her. Elena stood in the quiet apartment, the classification letter still on the table, and wondered if she'd just made the biggest mistake of her life.
 
----
-
 The Meridian System's quarterly review was held in a conference room on the top floor of the Classification Center. Floor-to-ceiling windows looked out over Cambridge, the Charles River glinting in the afternoon light. Elena had sat in this room dozens of times over the years, had presented data and answered questions and defended the methodology module against every conceivable challenge.
 
 Today, she sat in silence.
@@ -194,4 +190,4 @@ She'd written it herself, twenty years ago. Every line. Every algorithm. Every d
 
 She stared at the code for a long time. Then she closed it. Went to bed. Lay awake in the dark, thinking about fair and right, about methodology and privilege, about a system she'd built and the doubts she couldn't shake.
 
-And somewhere, in the back of her mind, a question kept repeating: What if the system is working exactly as designed, and that's the problem?
+In the back of her mind, a question kept repeating: What if the system is working exactly as designed, and that's the problem?

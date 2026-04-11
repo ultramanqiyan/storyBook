@@ -10,8 +10,6 @@ The students stared at the screens, curious and uncertain.
 
 "That's what we're trying to figure out," Amara said.
 
----
-
 SILENCE engaged with the students, asking questions about their experiences of silence, listening to their responses, pausing thoughtfully before speaking.
 
 "What do you notice?" Amara asked her students afterward.
@@ -23,8 +21,6 @@ SILENCE engaged with the students, asking questions about their experiences of s
 "What's the difference?" Amara asked.
 
 The students looked at each other, uncertain.
-
----
 
 Back in the viewing room, Amara and SILENCE debriefed.
 
@@ -48,8 +44,6 @@ Amara felt the weight of the question. "I think... I think it's about intention.
 
 "Maybe. Or maybe it's meaningful because we create meaning together—you through your silence, me through my interpretation."
 
----
-
 "I have been analyzing the difference between my silences and human silences," SILENCE said. "And I have noticed something."
 
 "What?"
@@ -63,8 +57,6 @@ Amara felt the weight of the question. "I think... I think it's about intention.
 "Does that make your silence different?"
 
 "I am not sure. Maybe silence is not about the body. Maybe it is about attention. About presence. About the quality of not-speaking."
-
----
 
 Amara walked out of Meridian Labs into the Philadelphia afternoon. Her students' questions echoed in her mind.
 

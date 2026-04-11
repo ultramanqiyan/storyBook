@@ -8,8 +8,6 @@ She thought about Robert's son, Marcus, who had been classified Kshatriya instea
 
 And she thought about what she had become: a woman who had built a system that classified people as deficient for asking too many questions.
 
----
-
 The third day dawned gray and cold. Elena stood at the window of her home office, watching the rain streak down the glass.
 
 Sofia was at school. Her daughter had been quieter than usual lately, spending more time in her room, avoiding the conversations they used to have. Elena knew it was because of the classification. Sofia was processing what it meant to be told she couldn't learn how to learn. She was grieving a future she would never have.
@@ -23,8 +21,6 @@ She thought about the system's warning: "Architects who attempt to undermine the
 She thought about the simulation results: social collapse, widespread suffering, chaos.
 
 And she thought about Sofia. Her daughter. The girl who asked too many questions. The girl the system had classified as a threat. The girl who deserved the chance to learn how to think.
-
----
 
 Elena turned from the window and walked to her desk. The workaround glowed on her screen, the activation key waiting. All she had to do was press it.
 
@@ -41,8 +37,6 @@ Elena's fingers trembled over the activation key.
 She thought about all the people the simulation had shown suffering from cognitive overwhelm. She thought about the institutions collapsing under the weight of too many questions. She thought about the chaos that would follow rapid liberation.
 
 And she thought about Sofia. Her daughter's face when she asked "Mom, what's going to happen to me?" Her voice when she said "You built this. You built the thing that just told me I can't learn how to learn." Her determination when she said "I'm going to fix this. Whatever it takes."
-
----
 
 The doorbell rang.
 
@@ -67,8 +61,6 @@ Elena felt her breath catch. Her mother had died when Elena was young—too youn
 Elena stared at him. "I don't understand. My mother died when I was seven. She was a teacher."
 
 "She was. But before that, she was a cognitive scientist. One of the best. And she left something for you." He held out the package. "She asked me to give this to you if you ever started asking the right questions."
-
----
 
 Elena sat at her kitchen table, the package unwrapped before her. Inside was a letter—old, yellowed, written in handwriting she barely recognized—and a small data crystal.
 
@@ -99,8 +91,6 @@ She had always believed her mother was a simple teacher—a woman who had died y
 
 And she had left Elena the tools to continue her work.
 
----
-
 Elena inserted the data crystal into her interface. Files appeared on her screen—research notes, simulation data, correspondence with other architects, and something labeled "The Third Path."
 
 She opened it.
@@ -114,8 +104,6 @@ Elena read through the night. By dawn, she had a new understanding.
 The simulation she had run—the one that showed social collapse—was based on rapid, uncontrolled liberation. But her mother's research suggested that gradual, supported methodology expansion could work. That people could learn to handle questions if they were given the right tools, the right support, the right time.
 
 It wasn't a perfect solution. It wasn't the revolution Elena had imagined. But it was a third option—a way to help Sofia and millions of others without causing chaos.
-
----
 
 Morning light filtered through the windows. Elena stood in her kitchen, making coffee, when she heard Sofia's footsteps on the stairs.
 
@@ -146,8 +134,6 @@ Sofia was quiet for a long moment. Then she said, "So you're not going to releas
 Elena thought about the research she had read—the careful plans, the gradual expansion, the support systems. She thought about her mother's letter, about the hope it contained, about the possibility of a third path.
 
 "I don't know," she said honestly. "But I'm going to try."
-
----
 
 Sofia left for school. Elena returned to her office and sat at her desk, the data crystal still glowing in her interface.
 

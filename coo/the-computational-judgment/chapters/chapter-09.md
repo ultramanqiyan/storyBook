@@ -80,6 +80,4 @@ Not certainty. Not faith in a divine plan. But peace in the knowledge that he wa
 
 The train carried him home, through the dark tunnels and the lit stations, toward the people he loved and the work that remained.
 
----
-
 **END OF CHAPTER 9**

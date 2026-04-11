@@ -22,8 +22,6 @@ But eventually, someone gave him a chance. A small company that needed his skill
 
 Mark had almost cried.
 
----
-
 One afternoon, Mark received an email from a former colleague at NexTrade.
 
 *Subject: Update*
@@ -46,8 +44,6 @@ Mark typed a response.
 *Mark*
 
 He hit send and closed his laptop.
-
----
 
 A few days later, he saw a news article about NexTrade.
 

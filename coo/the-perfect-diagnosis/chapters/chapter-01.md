@@ -20,8 +20,6 @@ Sarah nodded, not looking up from her tablet. The numbers were still there, stil
 
 She paused, the question hanging in the air. Was she okay? She had no idea. "I'm fine. Just tired."
 
----
-
 The hallway was beginning to fill with the morning shift, nurses and residents moving in their familiar patterns. Sarah walked through them, tablet in hand, checking her schedule. Room 412 first—Mr. Henderson, the system said, presenting with mild fatigue. Low concern. Standard protocol.
 
 She found herself pausing outside his door, something in the pattern of his morning labs nagging at her. But the system had flagged it as low concern, and the system was never wrong. She pushed the thought aside and went in.
@@ -57,8 +55,6 @@ She didn't. She had no idea how it was. She was 34, healthy, and she couldn't re
 "Whatever you think best, Doctor. You're the one with the perfect record."
 
 She left the room with a strange feeling in her chest—something like satisfaction, but also something like unease. She had gone beyond the system's recommendation. That wasn't like her.
-
----
 
 Her next stop was Dr. Webb's office. She needed to clear the additional tests with him, and honestly, she wasn't sure why she'd ordered them in the first place.
 
@@ -107,8 +103,6 @@ She opened her mouth to answer, but no words came. The truth was, she didn't kno
 "Sarah." His voice stopped her at the door. "The patient you're worried about—Mr. Henderson. Trust that feeling. It might save his life."
 
 She nodded without turning and walked out.
-
----
 
 The morning passed in a blur of patient rooms and data points. The system guided her through each encounter, its soft voice in her earpiece suggesting questions, flagging concerns, recommending treatments. She followed its guidance without thought, her perfect record extending another day.
 

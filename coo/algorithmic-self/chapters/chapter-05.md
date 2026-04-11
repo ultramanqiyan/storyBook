@@ -16,8 +16,6 @@ But even as she wrote, she felt a nagging doubt. The AI had addressed these poin
 
 She pushed the doubt aside. The AI was wrong. She would prove it.
 
----
-
 That afternoon, she went through old photos on her phone, looking for evidence of connection. Here: a picture from last Christmas, Tom with his arm around her at the family gathering. Here: a shot from their vacation two years ago, both of them smiling on a beach in Florida. Here: a candid moment in the kitchen, Tom cooking while she leaned against the counter, watching him.
 
 These were memories. These were proof of a life together. The AI couldn't see these moments, couldn't understand what they meant.
@@ -25,8 +23,6 @@ These were memories. These were proof of a life together. The AI couldn't see th
 But as she scrolled through the photos, she noticed something else. The pictures from two years ago showed more physical contact, more genuine smiles, more moments of spontaneous connection. The pictures from the past year showed them standing apart, smiling politely, going through the motions of a happy couple without actually being one.
 
 She kept scrolling, looking for counter-evidence. But the further back she went, the more she saw what had been lost.
-
----
 
 On Sunday, she decided to conduct an experiment. She would pay attention to every interaction with Tom, documenting the moments of connection that the AI had missed.
 

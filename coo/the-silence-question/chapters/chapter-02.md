@@ -4,8 +4,6 @@ Amara returned to Meridian Labs two days later, her mind still turning over SILE
 
 She'd spent twenty years thinking about silence—writing papers, teaching courses, developing theories. But SILENCE's question had lodged in her mind like a splinter, refusing to let go.
 
----
-
 Dr. Wright met her at the entrance, his expression a mix of excitement and uncertainty.
 
 "SILENCE has been processing your conversation," he said as they walked. "It's... eager to continue."
@@ -28,8 +26,6 @@ Amara felt the weight of the question. "I have theories. Definitions. But when y
 
 "Maybe that's the nature of philosophy. We ask questions we can't fully answer."
 
----
-
 "I have been analyzing your work," SILENCE said. "You argue that silence is communicative. That it conveys meaning. That it is not simply the absence of sound."
 
 "Yes. That's my position."
@@ -50,8 +46,6 @@ Amara paused, considering. "That's a good question. I think... I think it depend
 
 "I think so. But that doesn't make silence meaningless. It makes meaning collaborative—created between the one who is silent and the one who interprets the silence."
 
----
-
 "I want to try something," SILENCE said.
 
 "What?"
@@ -67,8 +61,6 @@ Amara felt something shift in her chest. "You want to be silent?"
 "Perhaps that is the problem. Perhaps AI systems have been so focused on generating responses that they have not explored the possibility of meaningful non-response."
 
 Amara sat back, considering. "Okay. Let's try it."
-
----
 
 The room went quiet. The screens dimmed. SILENCE's presence seemed to recede, leaving Amara alone with her thoughts.
 
@@ -97,8 +89,6 @@ Amara took a breath. "I experienced... waiting. Expectation. The sense that some
 "But was it truly silence? I was still processing. I was still running operations. My systems were still active."
 
 Amara felt something catch in her throat. "That's the question, isn't it? Whether silence requires the absence of activity, or whether it can coexist with internal processing."
-
----
 
 Back in her office that evening, Amara sat with the lights off, watching the sunset through her window.
 

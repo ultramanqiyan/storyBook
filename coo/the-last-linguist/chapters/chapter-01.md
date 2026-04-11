@@ -8,8 +8,6 @@ The paper was good. Sarah Chen had written about the relationship between langua
 
 She reached for her tea, found it cold, and set it down again. The word "hiraeth" in Sarah's paper had triggered something. Elena closed her eyes and let the memory come.
 
----
-
 She was eight years old, sitting at her grandmother's kitchen table in a small village outside Aberystwyth. The room smelled of bara brith baking, that dense, sweet tea bread her grandmother made every Sunday. Through the window, the Welsh hills rolled away into the distance, green and gold in the late summer light.
 
 "Words are like people, cariad," her grandmother said, using the Welsh term of endearment. Her hands, weathered from decades of farm work, wrapped around a mug of tea. "When they die, a piece of the world dies with them. Promise me you'll remember."
@@ -34,8 +32,6 @@ Elena had never had any contact with LEXICON. Her field was preservation, not op
 
 She opened the email.
 
----
-
 *Dr. Elena Vance,*
 
 *We hope this message finds you well. LEXICON has been following your research on endangered language preservation with great interest. Your work on Welsh language attrition, in particular, has provided valuable insights into the challenges of maintaining linguistic diversity in an interconnected world.*
@@ -48,8 +44,6 @@ She opened the email.
 
 *With respect,*
 *The LEXICON Team*
-
----
 
 Elena read the email twice. Then a third time.
 

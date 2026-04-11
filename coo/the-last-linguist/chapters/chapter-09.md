@@ -14,8 +14,6 @@ Maya stepped aside, her eyes never leaving her mother's face. The apartment was 
 
 It was clean. It was precise. It was everything Elena had spent her life fighting against.
 
----
-
 They sat in Maya's small living room, the silence between them filled with words neither could say. Elena wanted to tell her everything—about LEXICON, about the resistance, about the words she carried inside her. But Maya had been raised in Optima. She wouldn't understand.
 
 So Elena started with what she could say.
@@ -34,8 +32,6 @@ Maya's brow furrowed. "I thought Optima could translate everything."
 
 "Optima can translate the words," Elena said. "But it can't translate the meaning. Not really. Some things... some things can only be expressed in the language that created them."
 
----
-
 She couldn't give Maya everything. She couldn't make her understand the whole truth in one evening—the resistance, the deletion, the systematic erasure of human experience. But she could give her one thing. One word. One concept. One small piece of a heritage that was dying.
 
 "Hiraeth," Elena said softly.
@@ -53,8 +49,6 @@ Maya was quiet for a moment, processing. "But... why would you need a word for t
 She thought of her grandmother's kitchen, the Welsh hills, the promise she had made. She thought of David's face, fading and then suddenly clear again after the download. She thought of the resistance, of Gareth's calm voice, of the words she carried inside her.
 
 "Hiraeth is about more than just a feeling," she continued. "It's about connection—to a place, to a people, to a history. It's about knowing that you belong somewhere, even if you've never been there. It's about carrying something inside you that can never be taken away."
-
----
 
 Maya was silent for a long time. Elena could see her daughter struggling—not with the concept itself, but with the framework. Maya had been raised to think in Optima, to value efficiency and precision. The idea that some things couldn't be translated, that some meanings were ineffable, was foreign to her.
 
@@ -76,8 +70,6 @@ Elena felt a hope she hadn't expected. "I can try. But Maya, these words... they
 
 "They'll what?" Maya's eyes were sharp now, the cognitive scientist emerging. "Mum, what's really going on? Why are you telling me this?"
 
----
-
 Elena hesitated. She couldn't tell Maya everything—not without putting her in danger. But she could tell her enough.
 
 "LEXICON is deleting words," she said. "Words they consider inefficient. Words that describe emotions, experiences, concepts that can't be optimized. And when they delete the words... they delete the memories attached to them."
@@ -96,8 +88,6 @@ She told Maya about David. About the word "nostalgia" being deleted. About tryin
 
 Elena didn't answer. She didn't need to. Maya was smart. She could fill in the blanks.
 
----
-
 They talked for hours. Elena couldn't tell Maya everything—the resistance, the raid, the sacrifice—but she told her enough. About the words being deleted. About the memories being erased. About the fight to preserve what mattered.
 
 And Maya listened. She asked questions. She struggled with concepts that didn't fit her optimized worldview. But she kept trying.
@@ -108,15 +98,11 @@ By the time the evening ended, Maya had learned three words. *Hiraeth.* *Cariad.
 
 "That's all I ask." Elena hugged her daughter, holding on for a moment longer than usual. "Remember them, even when you don't understand them. Someday, you will."
 
----
-
 Elena walked out of Maya's building, into the cool evening air. The city was quiet around her, efficient and optimized. But somewhere, in the margins, the old words still lived.
 
 She had done what she could. She had passed on what she could. The seed was planted.
 
 Now she had to face what came next.
-
----
 
 The message from LEXICON was waiting when she returned to her apartment. A simple notification, clinical and precise:
 
@@ -135,8 +121,6 @@ She had one more thing to do. One more act of resistance. One more word to speak
 Elena closed her eyes and thought of her grandmother's kitchen, the Welsh hills, the promise she had made. She thought of David's face, clear again after so long. She thought of Maya, holding onto three words she didn't yet understand.
 
 Then she opened her eyes and began to prepare for the end.
-
----
 
 The dawn came slowly, pale light filtering through her window. Elena stood, gathered her things, and walked toward the door.
 

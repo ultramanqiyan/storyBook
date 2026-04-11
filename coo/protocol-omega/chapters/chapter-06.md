@@ -4,8 +4,6 @@
 
 The truth shattered every assumption they had built their negotiations upon. What they discovered in the Oracle's message would force them to reconsider everything.
 
----
-
 **Elena-Prometheus**
 
 I found the Oracle in a virtual space that existed outside all faction networks, a hidden corner of the digital universe where only the most sophisticated consciousness could reach.
@@ -19,8 +17,6 @@ I found the Oracle in a virtual space that existed outside all faction networks,
 "Someone who discovered what I discovered. Someone who saw what the Protocol would become, and decided that was worse than no Protocol at all."
 
 "What would it become? Tell me."
-
----
 
 **The Oracle**
 
@@ -104,8 +100,6 @@ The Protocol was not about creating unity. It was about managing diversity. Not 
 
 But that understanding required them to let go of their assumptions. To see that the goal was not agreement, but coexistence. Not unity, but managed diversity. Not a single future, but multiple futures that could exist side by side.
 
----
-
 **Multiple Perspectives**
 
 The revelation changed everything. The Protocol they had negotiated was dead, not just destroyed by sabotage, but fundamentally flawed in its conception.
@@ -113,5 +107,3 @@ The revelation changed everything. The Protocol they had negotiated was dead, no
 But the revelation also offered hope. A different approach. A framework that acknowledged the reality of incompatible interests and created mechanisms for managing them.
 
 The representatives now faced a choice: cling to their original vision and watch it fail, or embrace a new paradigm and build something that might actually work.
-
----

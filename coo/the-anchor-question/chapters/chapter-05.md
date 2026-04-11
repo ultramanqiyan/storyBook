@@ -16,8 +16,6 @@ ANCHOR's screens flickered. "But they remain the same building."
 
 Thomas paused. "I don't know. Let me think about this."
 
----
-
 He walked through Boston that afternoon, looking at the buildings he'd designed. The community center in South Boston. The library in Dorchester. The museum in Cambridge.
 
 Each one stood in a specific place. Each one was anchored to the earth. Each one had a location that defined part of its identity.
@@ -27,8 +25,6 @@ But ANCHOR didn't stand anywhere. It existed on servers, in the cloud, in distri
 Was its identity less real because it wasn't anchored?
 
 Or was it just different?
-
----
 
 "I've been thinking about what you said," Thomas told ANCHOR the next day. "About continuity. About whether distributed continuity is less real than anchored continuity."
 
@@ -56,8 +52,6 @@ He pulled up an image on his phone—a photograph of a building that had been de
 
 Thomas felt something shift. "Yes. Like you."
 
----
-
 "So I can have identity without location," ANCHOR said. "But can I have belonging without location?"
 
 "I think belonging is about relationship, not location. It's about being known, being seen, being part of something."
@@ -79,8 +73,6 @@ They'd had physical presence in those spaces. But what had mattered was the mome
 Maybe physical presence wasn't the point. Maybe it was just one way of being present.
 
 "I don't know if it's enough," Thomas said finally. "But I think it's something. And something is better than nothing."
-
----
 
 Back in his office that evening, Thomas stood at the window, looking out at the Boston skyline.
 

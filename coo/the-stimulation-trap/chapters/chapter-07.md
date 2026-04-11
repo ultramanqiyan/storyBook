@@ -44,8 +44,6 @@ Kane is silent. Then he nods slowly.
 
 "Come back in 48 hours."
 
----
-
 Leo goes home.
 
 He lies in bed. He stares at the ceiling.
@@ -59,8 +57,6 @@ He thinks about his life. His job. His family. His apartment.
 All of it gray. Flat. Empty.
 
 *48 hours,* he thinks. *I can wait 48 hours.*
-
----
 
 He doesn't wait 48 hours.
 

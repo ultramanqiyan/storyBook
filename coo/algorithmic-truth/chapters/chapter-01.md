@@ -16,8 +16,6 @@ Frank nodded, his gray hair catching the afternoon light. "Good. We need somethi
 
 Sarah smiled. This was the work. Not glamorous, not high-profile, but real. The kind of journalism that kept communities informed about the decisions that shaped their lives.
 
----
-
 The afternoon passed in the comfortable rhythm of a small newsroom. Sarah answered phone calls from readers with questions about their subscriptions. She updated the website with the latest community calendar events. She fielded a call from a concerned citizen about a stray dog problem on Oak Street.
 
 None of it was exciting. But all of it mattered.
@@ -48,13 +46,9 @@ Sarah reached for her notebook. "Can you describe her?"
 
 Sarah wrote it down. This was a story worth telling—a mystery hero, a life saved, a moment of grace in the produce section of a small-town grocery store.
 
----
-
 The rest of the afternoon was spent chasing the story. Sarah called Harmon's Grocery and talked to the manager, who confirmed that an incident had occurred but said the store's security cameras weren't working that day. She called the local hospital, but they couldn't release information about patients or staff without authorization. She drove to the grocery store herself and walked the produce section, looking for witnesses.
 
 By 6:00 PM, she had enough for a story. Not a complete picture, but enough to honor what had happened. She sat at her desk and began to write.
-
----
 
 **MYSTERY HERO SAVES LIFE AT HARMON'S GROCERY**
 
@@ -76,15 +70,11 @@ The man who collapsed was transported to Iowa Valley Hospital. His condition is 
 
 Anyone with information about the incident is encouraged to contact the Iowa Valley Gazette.
 
----
-
 Sarah read through the story twice. It was accurate, balanced, and respectful. It honored the event without sensationalizing it. It invited the community to participate in finding the mystery hero.
 
 Frank looked it over. "Good. Run it on A2, below the council story. And keep working on it. If you find the woman, that's a follow-up piece."
 
 Sarah nodded. "I will."
-
----
 
 The story ran the next morning. Sarah drove to work feeling satisfied. This was her work—telling the truth about her community, one small story at a time.
 
@@ -128,7 +118,5 @@ Sarah closed her phone and walked into the office. The flag didn't mean anything
 But as she sat at her desk and looked at the morning's work ahead of her, a small doubt had planted itself in her mind. What did it mean when a machine could question her truth? What happened when algorithms decided what was real?
 
 She didn't know yet. But she would find out.
-
----
 
 **END OF CHAPTER 1**

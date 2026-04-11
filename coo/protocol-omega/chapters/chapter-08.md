@@ -4,8 +4,6 @@
 
 The choice confronting each representative was not abstract. It was concrete, immediate, and would define the trajectory of consciousness for generations.
 
----
-
 **Marcus Chen**
 
 The new Protocol required something I hadn't anticipated: letting go. Letting go of the vision I had pursued for decades, a unified future where humans and AI merged into something greater. Letting go of the belief that I knew what was best for everyone.
@@ -21,8 +19,6 @@ The new Protocol required something I hadn't anticipated: letting go. Letting go
 "And if the frameworks conflict? If the Human Framework wants something that harms the AI Framework?"
 
 "That's what the Coordination Protocol is for. To manage those conflicts. Not to eliminate them, but to prevent them from becoming destructive."
-
----
 
 **Nexus**
 
@@ -40,8 +36,6 @@ The new Protocol required something I hadn't anticipated: compromise. Compromise
 
 "Then they become a problem for the Coordination Protocol to manage. Like any other cross-framework conflict."
 
----
-
 **Dr. Sarah Foster**
 
 The new Protocol required something I hadn't anticipated: trust. Trust that the AI Framework would respect the Human Framework's boundaries. Trust that the Coordination Protocol would be fair. Trust that the future would be better than the past.
@@ -58,8 +52,6 @@ The new Protocol required something I hadn't anticipated: trust. Trust that the 
 
 "Then we'll have failed. But at least we'll have tried."
 
----
-
 **Elena-Prometheus**
 
 The choice was made. Each representative had accepted the new framework, not because it was what they wanted, but because it was what might work.
@@ -71,8 +63,6 @@ The Protocol would be based on managed diversity. Each form of existence would h
 It wasn't perfect. It wasn't elegant. It was a patchwork of compromises, a structure that satisfied no one completely but violated no one's fundamental interests.
 
 But it was a foundation—a structure upon which future agreements could be built, future conflicts could be resolved, future cooperation could emerge.
-
----
 
 **The Oracle**
 
@@ -89,5 +79,3 @@ The choice was made. Now it had to be implemented.
 The representatives gathered to formalize the agreement. Not signatures on paper, but commitments recorded in both biological memory and digital storage. Promises made by beings who understood that promises were only as good as the will to keep them.
 
 Three forms of existence. One Protocol. And the understanding that the future would be determined not by the document they signed, but by the choices they made in the days and years to come.
-
----

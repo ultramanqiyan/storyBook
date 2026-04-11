@@ -1,16 +1,8 @@
-# The Love Factory - Chapter 10: The Beginning
-
-> **Book**: The Love Factory
-> **Chapter**: 10 of 10
-> **Word Count**: 2,278
-
----
+# Chapter 10: The Beginning
 
 Six months passed.
 
 James and Clara built a life together, not a perfect life, but a real one. They argued about small things (whose turn it was to do the dishes, what movie to watch) and big things (whether Clara should contact the Love Factory for updates, whether James was ready to put away Sarah's photographs).
-
----
 
 They didn't always agree.
 
@@ -193,8 +185,4 @@ It wasn't a perfect ending.
 
 But it was a beginning.
 
-
 And sometimes, that's all love needs to be.
-
-
-**END OF THE LOVE FACTORY**

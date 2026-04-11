@@ -17,8 +17,6 @@ But as he walked to the conference room, his heart was racing. His palms were sw
 
 The thought was paranoid, irrational. But he couldn't shake it.
 
----
-
 The conference room was small, the air stale from too many meetings in too small a space.
 
 Marcus sat across from Rachel, his manager. She was in her early thirties, with a professional smile and a folder that probably contained his performance review.
@@ -70,8 +68,6 @@ Rachel frowned. "What do you mean?"
 "I'm fine," Marcus said, already walking toward the door. "Just busy."
 
 The lie came automatically, a reflex he'd perfected over the past few weeks.
-
----
 
 After the review, Marcus couldn't focus.
 

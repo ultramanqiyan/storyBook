@@ -10,8 +10,6 @@ But Elena knew something the system didn't: methodology wasn't just a set of cou
 
 The question was: how could she provide that guidance without triggering the system's monitoring protocols?
 
----
-
 The answer came to her on the third night of work.
 
 Elena had been analyzing the system's methodology training materials—the courses, exercises, and assessments that were restricted to Brahmin and Kshatriya access levels. The materials were sophisticated, designed to develop complex cognitive skills over months or years of training. They assumed a baseline of cognitive capability that most methodology-deficient individuals simply didn't have.
@@ -30,8 +28,6 @@ It was a plan. A dangerous, illegal, potentially world-changing plan.
 
 Elena began to code.
 
----
-
 The days blurred together. Elena went through the motions of her regular life—going to work, attending meetings, reviewing classification reports—while her mind was elsewhere, always elsewhere, working on the workaround in every spare moment.
 
 At the Meridian Center, she was careful to maintain her normal patterns. She didn't access any restricted files that might trigger monitoring. She didn't ask questions that might seem suspicious. She smiled at colleagues, nodded in meetings, and completed her work with the same efficiency she'd always demonstrated.
@@ -43,8 +39,6 @@ The guilt was a constant companion. Elena thought about the young analyst who ha
 Was she really doing the right thing? Or was she, as Robert had suggested, letting her personal situation color her judgment? Was she risking everything—her career, her freedom, her daughter's future—for a principle that might not even be correct?
 
 These questions haunted her as she worked. But every time she considered stopping, she thought about Sofia—about her daughter's face when she'd asked "Mom, what's going to happen to me?"—and she knew she couldn't stop. Not until she had given Sofia the chance the system had denied her.
-
----
 
 Two weeks into the project, Elena hit her first major obstacle.
 
@@ -59,8 +53,6 @@ The archives were designed to store historical documents, many of which were in 
 If Elena could host the workaround within the archive system, disguised as a historical document processing routine, she might be able to operate without triggering the system's monitoring. It was a long shot—a vulnerability that might have been patched since her last visit—but it was the best option she had found.
 
 She began to plan her approach.
-
----
 
 The personal cost of the rebellion became clear on a Tuesday evening, three weeks into the project.
 
@@ -114,8 +106,6 @@ Sofia nodded slowly, but the fear didn't leave her eyes.
 
 But even as she said the words, Elena knew she was already taking the biggest risk of her life.
 
----
-
 By the end of the fourth week, the workaround was taking shape.
 
 Elena had designed twelve foundational lessons—each one a building block of methodological thinking, adapted for individuals with simplified knowledge access. The lessons started with basic pattern recognition: how to identify recurring elements in data, how to distinguish signal from noise, how to recognize when a pattern was meaningful versus coincidental.
@@ -130,8 +120,6 @@ Elena tested each lesson on herself first, running through the exercises as if s
 
 It was slow, painstaking work. But it was also the most meaningful work she had ever done.
 
----
-
 The hosting solution came together in the fifth week.
 
 Elena had been right about the archive system's isolation gap. The legacy document processing routines operated on a separate network segment, with limited monitoring and no direct connection to the main classification algorithms. By embedding her workaround in a seemingly innocuous document processing routine, she could host the lessons without triggering system alerts.
@@ -141,8 +129,6 @@ She spent three nights setting up the infrastructure: creating the processing ro
 The code itself was simple: a sequence of characters that, when entered into the archive search function, would redirect to the hidden platform. Elena had memorized it, but she also wrote it down in a secure location—in case something happened to her.
 
 The platform was ready. The lessons were ready. The only thing left was to test it.
-
----
 
 On a Saturday morning, Elena sat Sofia down at the kitchen table.
 
@@ -167,7 +153,5 @@ Sofia reached for the tablet, her hand trembling. "You built this? For me?"
 Sofia looked at her mother, her eyes bright with unshed tears.
 
 "Thank you," she whispered.
-
----
 
 The workaround was nearly complete. A few more days, maybe a week, and Elena would have a tool that could grant methodology access to anyone—Sofia, and potentially thousands of others. But even as hope rose in her chest, a cold fear settled in her stomach. What would happen when she used it? What would the system do? What would happen to the world if everyone could learn how to learn?

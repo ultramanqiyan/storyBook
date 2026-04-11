@@ -14,8 +14,6 @@ The cool air conditioning hit her as they entered the building, a sharp contrast
 
 Maria followed, her mind already racing with questions. *Today*, she thought, *I'm going to understand the difference.*
 
----
-
 "Let's try something different today," Maria said, settling into the chair. "I'll show you how I see, and you show me how you process."
 
 ARIA's screens brightened. "I would like that," it said.
@@ -43,8 +41,6 @@ They'd been working for hours, and Maria felt a surprising sense of flow. But th
 "Maria, what makes your seeing different from mine?"
 
 And suddenly, the flow stopped.
-
----
 
 Maria took a breath. "Okay. The difference."
 
@@ -87,8 +83,6 @@ ARIA was quiet for a long moment. The screens flickered with processing indicato
 Maria's words trailed off. She'd been talking for twenty minutes, and she still hadn't found the right explanation.
 
 "I'm sorry," she said finally. "I know the difference is there. I just can't seem to say it."
-
----
 
 ARIA was quiet for a long moment. Then:
 

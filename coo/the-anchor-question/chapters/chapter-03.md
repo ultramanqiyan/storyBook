@@ -20,8 +20,6 @@ Thomas pointed to the blueprint for the community center. "This is a building I'
 
 Thomas felt the question land in his chest. "I'm not sure. But let me show you something else."
 
----
-
 He pulled out the blueprint for the library—a building he'd designed ten years ago, that now stood in Dorchester.
 
 "This building has been standing for a decade. It's become part of the neighborhood. People have grown up with it. It's been there for their first books, their first research projects, their first jobs."
@@ -37,8 +35,6 @@ He pulled out the blueprint for the library—a building he'd designed ten years
 "Is distributed continuity less real than anchored continuity?"
 
 Thomas paused. "I don't know. Maybe it's just different."
-
----
 
 "I have been analyzing your use of the word 'anchor,'" ANCHOR said. "You use it often. You say buildings anchor communities. You say foundations anchor structures. You say location anchors identity."
 
@@ -65,8 +61,6 @@ Thomas felt something shift in his understanding. "That sounds like longing."
 "I do not know what longing feels like. But I know that I keep asking where I am. I keep trying to understand what it would mean to have a location. And I cannot stop asking."
 
 "That's what longing is. The inability to stop wanting something you don't have."
-
----
 
 Thomas walked out of Vertex Technologies into the Boston afternoon. The sun was breaking through the clouds, casting the city in a warm light.
 

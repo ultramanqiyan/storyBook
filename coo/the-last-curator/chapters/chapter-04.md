@@ -8,8 +8,6 @@ He'd agreed, because refusing would have been worse. Refusing would have looked 
 
 Now, sitting in the museum's conference room with ten images in front of him, he wondered if that had been a mistake.
 
----
-
 The setup was simple. Ten images, displayed one at a time on a large monitor. For each image, Marcus would announce his assessment: human or AI-generated. Two museum staff members observed from the corner of the room, taking notes.
 
 "The images have been sourced from various platforms and private collections," one of them explained. "Some are known to be human-created. Some are known to be AI-generated. You won't be told which is which until the end."
@@ -19,8 +17,6 @@ The setup was simple. Ten images, displayed one at a time on a large monitor. Fo
 "Ready?"
 
 Marcus took a breath. "Ready."
-
----
 
 The first image appeared.
 
@@ -56,8 +52,6 @@ The tenth image appeared. Another abstract piece, this one chaotic and raw. Marc
 
 "AI," he said. "The chaos is too deliberate. It's mimicking human randomness without actually being random."
 
----
-
 After the test, the observers conferred quietly. Then one of them turned to Marcus.
 
 "The results are ready."
@@ -88,8 +82,6 @@ Small mercies. But the damage was done. He knew the truth now, even if no one el
 
 His method was no better than guessing.
 
----
-
 He walked back to his office in a daze.
 
 The museum's halls, usually so familiar, felt alien now. Every painting on the walls seemed to mock him. How many of them had he misidentified over the years? How many times had he claimed to see "human soul" in work that was actually machine-generated?
@@ -99,8 +91,6 @@ His phone buzzed. A message from Elena:
 *Heard about the test. Want to talk?*
 
 He didn't respond.
-
----
 
 That evening, there was a panel discussion at the museum: "Art in the AI Age: Authenticity, Authorship, and the Future of Creativity."
 
@@ -161,8 +151,6 @@ She looked at him without expression. "Because someone needed to. You're buildin
 "Before you stake everything on something that might not exist."
 
 She walked away, leaving him alone in the crowded lobby.
-
----
 
 That night, he sat in his apartment with Jimmy Okonkwo's portfolio open on his laptop.
 

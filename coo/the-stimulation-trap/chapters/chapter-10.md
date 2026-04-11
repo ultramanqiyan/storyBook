@@ -12,8 +12,6 @@ He's learned to accept it. To find meaning in the small things. To be grateful f
 
 But today, something is different.
 
----
-
 The woman sits down next to him.
 
 "You seem distracted today."
@@ -45,8 +43,6 @@ He feels the small warmth. The tiny spark.
 It's not enough. It's never been enough.
 
 But it's something.
-
----
 
 That night, he can't sleep.
 

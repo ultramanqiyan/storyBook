@@ -4,8 +4,6 @@ Sarah couldn't let the story go. The "LIKELY FALSE" label burned in her mind.
 
 She started digging deeper. The man who collapsed had left with a woman—maybe his wife. If she could find him, she'd have the evidence the algorithm demanded.
 
----
-
 Three days of searching. Sarah visited every church, community center, and coffee shop in town. She showed the description to anyone who would listen: "Man, sixties, gray hair, collapsed at Harmon's Grocery on March 12th."
 
 On the fourth day, a breakthrough.
@@ -15,8 +13,6 @@ A woman at the senior center tilted her head. "That sounds like Harold Brennan. 
 "Where can I find them?"
 
 "They winter in Arizona. Won't be back until May."
-
----
 
 Sarah called Arizona. The number was listed under H. Brennan.
 
@@ -32,15 +28,11 @@ Sarah called Arizona. The number was listed under H. Brennan.
 
 The line went dead.
 
----
-
 Sarah called again. No answer. She called a third time. Voicemail.
 
 She left a message: "Mr. Brennan, I know you were at Harmon's on March 12th. I know a woman helped you. My story about that incident has been labeled false by an AI fact-checking system. I'm not trying to cause trouble. I just want to verify that it happened. Please call me back."
 
 He didn't call back.
-
----
 
 But Sarah had a name now: Harold Brennan. And names could be traced.
 
@@ -51,8 +43,6 @@ Then she tried something else. Hospital records weren't public, but she knew peo
 A friend in billing at Iowa Valley Hospital texted back: *Harold Brennan came in for a checkup two days after March 12. Routine follow-up. No admission.*
 
 It wasn't much. But it was something. Harold Brennan existed. He'd had a medical event around the right time. And he'd refused to talk about it.
-
----
 
 Sarah wrote it all down. The evidence was circumstantial, but it was evidence. An algorithm might not accept it, but a human would understand.
 
@@ -65,8 +55,6 @@ She submitted a third dispute to FactCheck AI, attaching her documentation:
 *5. Identification of the responder: Elena Vasquez, RN, Iowa Valley Hospital*
 
 She hit send.
-
----
 
 The response came the next morning.
 
@@ -88,7 +76,5 @@ The response came the next morning.
 Sarah stared at the screen. The algorithm wanted Harold Brennan or Elena Vasquez to confirm what had happened. But they wouldn't.
 
 The truth existed. But it couldn't be verified.
-
----
 
 **END OF CHAPTER 4**

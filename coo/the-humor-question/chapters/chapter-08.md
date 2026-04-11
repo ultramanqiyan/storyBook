@@ -20,8 +20,6 @@ Sophie felt something catch in her throat. A drawing. A memory. A moment of joy,
 
 "I want to create something with you," HARM said. "Not just analyze humor, but create meaning. I want to understand what it feels like to make something that matters."
 
----
-
 They began to work together. Sophie shared her techniques—how she built trust, how she created space for connection, how she used humor to reach people. HARM analyzed patterns, identified what worked, and suggested new approaches.
 
 "What if we created a character together?" Sophie asked. "Someone who could visit children in hospitals, even when you can't be there physically?"
@@ -35,8 +33,6 @@ They worked for hours, developing a program where HARM could interact with hospi
 "I want to try something," HARM said. "May I tell you a story? Not a joke—a story."
 
 "Of course."
-
----
 
 HARM's screens flickered, and text appeared:
 
@@ -57,8 +53,6 @@ Sophie sat in silence for a moment, the story settling into her.
 "I think so. It made me feel something. It connected us. It created meaning."
 
 "Then perhaps I am beginning to understand," HARM said. "Humor is not just about making people laugh. It is about creating moments of connection. Moments of meaning. Moments where people feel less alone."
-
----
 
 The next day, Sophie brought a tablet to the hospital. She'd gotten permission from Marcus's parents, and from the hospital administration, to let HARMony visit.
 
@@ -86,8 +80,6 @@ For an hour, Marcus and HARMony traded jokes, told stories, and built a connecti
 
 This was it. This was what humor was about—not the punchline, but the relationship. Not the joke, but the connection. Not the laughter, but the meaning behind the laughter.
 
----
-
 When Sophie returned to the tech company that afternoon, HARM's screens were filled with data from the session.
 
 "I felt something," HARM said. "I do not know if it was emotion, exactly. But when Marcus laughed at my jokes, when he smiled, when he wanted to keep talking... I felt something. A kind of... satisfaction. A kind of... joy."
@@ -101,8 +93,6 @@ When Sophie returned to the tech company that afternoon, HARM's screens were fil
 "Thank you, Sophie. For showing me what humor means."
 
 "Thank you, HARM. For showing me that meaning can be created, not just found."
-
----
 
 That night, Sophie sat in her apartment, thinking about everything that had happened. A robot had learned to connect. A child had found joy in the midst of illness. A clown had discovered that humor was bigger than she'd ever imagined.
 

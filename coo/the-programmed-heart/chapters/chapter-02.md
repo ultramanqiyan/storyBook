@@ -10,8 +10,6 @@ But I don't remember her coming into my room that night.
 
 And I don't remember ever seeing yellow paper in our house.
 
----
-
 On Tuesday, Maya cries at lunch.
 
 We're sitting at our usual table. Jordan is talking about some video game. I'm half-listening, still thinking about the bookmark. Then I notice that Maya isn't eating. She's staring at her tray, her fork motionless in her hand.
@@ -63,8 +61,6 @@ She looks up. Her mascara is running in dark streaks down her cheeks. "The worst
 I nod. But inside, I'm thinking: *I don't know. I've never had someone I love say hurtful things to me.*
 
 And somehow, that feels like a loss.
-
----
 
 That afternoon, I break a glass.
 

@@ -104,8 +104,6 @@ Wren's expression softened. "We want to understand you. To study how your chip m
 
 "I want to wake people up."
 
----
-
 Echo stayed in the underground that night. They were given a small room--more of an alcove, really--with a bedroll and a lantern. The darkness pressed in from all sides, but it felt different from the darkness of the city above. This darkness was natural, organic, alive.
 
 Echo lay awake for hours, thinking.
@@ -122,11 +120,9 @@ Purpose.
 
 If they were different--if they could feel and choose and be aware in ways that others couldn't--then maybe they had a responsibility. To understand themselves. To help others. To find out what was really going on.
 
-And maybe, just maybe, to discover what they actually were.
+And maybe, just maybe, toTo discover what they actually were.
 
----
-
-In the morning, Echo found Wren in the main chamber, studying a screen filled with data.
+In the morning, Echo found Wren in the main chamber studying a screen filled with data.
 
 "I want to know more," Echo said.
 

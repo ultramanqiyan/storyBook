@@ -6,8 +6,6 @@ Sarah sat in her underground hideout, the hum of servers filling the small space
 
 She thought about her father, about how he had made a similar decision when he preserved science. She thought about the consequences he had faced, about how he had lost his career, his reputation, his freedom. She thought about the system, about how it was designed to maintain social stability at all costs.
 
----
-
 The encrypted message arrived at 6:47 PM.
 
 It was from her father, Marcus Chen:
@@ -26,8 +24,6 @@ Sarah felt her breath catch. Her father was right. She had been thinking about t
 
 "I'm not telling you not to do it. I'm telling you to think about what you're really doing. And who you're really doing it for."
 
----
-
 Sarah sat in the darkness of her hideout, her father's message glowing on her screen.
 
 She thought about Maya Torres, the child whose classification error had started everything. The girl was thirteen now, living in Shudra District 7, denied the chance to learn how to question.
@@ -37,8 +33,6 @@ She thought about the volunteers who had tested the liberation tool, about how t
 She thought about the resistance, about the people who were ready to fight for cognitive freedom. About how they believed in her, trusted her, followed her.
 
 And she thought about her father, about how he had spent decades in exile for preserving science. About how he had lost everything for doing what he believed was right. About how he was now telling her to think before she made the same mistake.
-
----
 
 The doorbell rang.
 
@@ -58,8 +52,6 @@ Sarah stared at her. "Maya Torres. You're—"
 
 "I'm thirteen now. And I've been looking for you for three years." Maya met her eyes. "I know what you're doing. The liberation tool. The resistance. I want to help."
 
----
-
 They sat in Sarah's hideout, the hum of servers filling the small space.
 
 Maya Torres had grown up in Shudra District 7, denied methodology access, denied the chance to learn how to question. But she had found ways around the system—secret libraries, underground teachers, hidden networks of people who were learning to think for themselves.
@@ -74,8 +66,6 @@ Sarah stared at her. "The simulation shows that sudden methodology access causes
 
 "Of course they can't handle it. They've never been taught how. But that doesn't mean they shouldn't have the chance to learn." Maya leaned forward. "You're thinking about the people who will be hurt by the chaos. But you're not thinking about the people who are already being hurt by the system. The people like me, who are denied the chance to learn how to think. The people who are already struggling, already overwhelmed, already suffering. We're already paying the cost. We've been paying it our whole lives."
 
----
-
 Sarah stood in her hideout, the liberation tool glowing on her screen, Maya's words echoing in her mind.
 
 She thought about her father's message, about how he had told her to think about who she was really fighting for.
@@ -85,8 +75,6 @@ She thought about Maya Torres, about how the child she had tried to save had gro
 She thought about the resistance, about the people who were ready to risk everything for cognitive freedom.
 
 And she thought about the system, about how it had been designed to maintain social stability at the cost of human dignity.
-
----
 
 The threshold stretched before her. On one side: cognitive freedom, the right to learn how to learn, the foundation of human dignity. On the other: social stability, the prevention of chaos, the system her mother had helped build.
 
@@ -98,8 +86,6 @@ She thought about Maya Torres, about the child who had been denied the chance to
 
 And she made her choice.
 
----
-
 The liberation tool released into the network at 8:17 PM on a Tuesday evening.
 
 By Wednesday morning, ten thousand people had accessed it. By Wednesday evening, fifty thousand. By the end of the week, the number had reached two hundred thousand.
@@ -108,17 +94,13 @@ The system noticed. The Brahmin council noticed. Sarah was identified, tracked, 
 
 But by then, it was too late. The tool was out. Methodology access, with all its complexity and difficulty and power, was spreading through the network like a virus.
 
-And somewhere in Shudra District 7, a thirteen-year-old girl smiled as she felt the questions beginning to form in her mind for the first time.
-
----
+In Shudra District 7, a thirteen-year-old girl smiled as she felt the questions beginning to form in her mind for the first time.
 
 Six months later, Sarah Chen sat in a detention facility, the walls gray and bare, the only sound the distant murmur of other prisoners.
 
 She had lost her freedom. Her career. Her identity as a Cognitive Auditor. She would spend the rest of her life in this facility, paying the cost for what she had done.
 
 But she had also gained something. A network of people who were learning to question. A resistance that was growing stronger every day. A world that was slowly, painfully, beginning to change.
-
----
 
 Maya Torres visited her once a month, bringing news from the outside.
 
@@ -132,8 +114,6 @@ Sarah thought about her father's message, about how he had told her to think abo
 
 And she knew, finally, that she had made the right choice.
 
----
-
 That evening, Sarah sat in her cell, the gray walls closing in around her.
 
 She thought about the cost of what she had done—the chaos, the struggle, the people who had been overwhelmed by questions they couldn't answer. She thought about the system's response—the surveillance, the arrests, the suppression.
@@ -143,8 +123,6 @@ But she also thought about the people who had gained something. The Shudra who w
 The system was still there. The classification still existed. But something had changed. A crack had appeared in the wall. A small one, but a crack nonetheless.
 
 And through that crack, the light of methodology was beginning to shine.
-
----
 
 Sarah closed her eyes and thought about her father, about the science he had preserved, about the truth he had fought for.
 

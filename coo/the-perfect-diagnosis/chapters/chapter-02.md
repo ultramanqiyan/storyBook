@@ -10,8 +10,6 @@ Coffee. She needed coffee. The machine gurgled in her kitchen, filling the apart
 
 She showered, dressed, and checked the tablet three more times before leaving. Each time: green lights. Each time: the same reassurance. The system was fine. She was fine. Yesterday was an aberration.
 
----
-
 The hospital felt different in the morning light. The same fluorescent corridors, the same antiseptic smell, the same hurried pace of nurses and residents. But Sarah walked through it like a ghost, hyperaware of every glance, every whispered conversation that stopped when she passed.
 
 She made it to the doctors' lounge without incident. Her locker opened with the familiar combination, her white coat hanging where she'd left it. She put it on, felt the weight of it on her shoulders. The tablet slid into her pocket, its presence both comfort and accusation.
@@ -66,8 +64,6 @@ In the hallway, she pulled up MEDICA on her tablet, her fingers trembling. The s
 
 She had known that once. She was certain of it.
 
----
-
 The meeting with Dr. Cross was scheduled for 11:00 AM. Sarah spent the hours between the failed diagnosis and the meeting hiding in the on-call room, running through case after case on her tablet, letting the system guide her through each one. It worked perfectly. Every diagnosis was correct, every recommendation appropriate. The system was back. She was back.
 
 But the doubt remained, a cold knot in her stomach that wouldn't loosen.
@@ -100,8 +96,6 @@ Sarah nodded, but the words echoed in her mind: *It won't happen again.* She was
 
 "You may go."
 
----
-
 The cafeteria was crowded when Sarah walked in. She spotted Dr. James Chen at a table near the window, eating alone. They had been friends once, had trained together, had covered for each other during brutal residency shifts. She considered joining him.
 
 Then he looked up and saw her.
@@ -119,8 +113,6 @@ But she couldn't forget the feeling. That blank space in her mind where knowledg
 What if it happened again? What if the system went down during a critical moment? What if someone died because she couldn't remember how to be a doctor?
 
 She pushed her food away, appetite gone.
-
----
 
 She volunteered for the night shift.
 

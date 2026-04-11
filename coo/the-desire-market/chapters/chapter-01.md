@@ -26,8 +26,6 @@ The recommendation appeared on my phone before I could finish the thought: "New 
 
 I smiled. The algorithm knew me well.
 
----
-
 The restaurant was exactly what I wanted—spicy, authentic, reasonably priced. I ate alone, scrolling through my phone, reading articles the algorithm had selected for me. An essay about the ethics of desire prediction. A review of a book on free will. A profile of a philosopher who questioned whether authentic choice was possible in a world of curated experiences.
 
 Interesting. I hadn't realized I was interested in these topics. But the algorithm had predicted I would be, and it was rarely wrong.
@@ -35,8 +33,6 @@ Interesting. I hadn't realized I was interested in these topics. But the algorit
 After dinner, I walked home through the city streets. The evening was warm, the sidewalks crowded with people whose desires were being analyzed and predicted in buildings just like mine. I passed a coffee shop, a yoga studio, a gallery. All the places Subject 447 would visit in the coming weeks, all the desires I had predicted for her.
 
 It felt good, knowing what people wanted. It felt like a kind of power.
-
----
 
 At home, I poured a glass of wine and sat on my couch. The apartment was exactly right—furnished with pieces the algorithm had recommended, decorated with art that matched my aesthetic preferences, organized according to principles that maximized my satisfaction. I'd followed every recommendation, and the result was a space that felt perfectly suited to me.
 
@@ -48,8 +44,6 @@ I messaged her. She responded within minutes. We made plans for Saturday.
 
 The algorithm was right again. It was always right.
 
----
-
 Before bed, I opened my laptop and reviewed my own prediction file. Every employee at the Market had one—a comprehensive analysis of their desires, preferences, and predicted behaviors. It was supposed to help us understand ourselves better, to make choices that would lead to greater satisfaction.
 
 My file showed the usual patterns: career ambition, desire for meaningful work, preference for urban living, interest in philosophy and technology. The predictions were accurate. I did want those things. The algorithm knew me better than I knew myself.
@@ -59,7 +53,5 @@ I closed the laptop and turned off the light. In the darkness, I thought about S
 It was satisfying, being right. It was satisfying, knowing what people wanted.
 
 I fell asleep thinking about the next day's predictions, the next set of desires to decode.
-
----
 
 **END OF CHAPTER 1**

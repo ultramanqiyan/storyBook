@@ -49,5 +49,3 @@ Two days after the transmission, Helena spread her findings across her office li
  She picked up the card. The university had rejected her, but that didn't mean the work was over. It meant she needed a different approach, and maybe, just maybe, she'd found someone who could help
 
  Tomorrow she would call Marcus Webb. Tonight, she would let herself feel something she hadn't felt in three years: hope
-
----

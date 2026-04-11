@@ -1,16 +1,8 @@
-# The Love Factory - Chapter 09: The Decision
-
-> **Book**: The Love Factory
-> **Chapter**: 09 of 10
-> **Word Count**: 2,212
-
----
+# Chapter 9: The Decision
 
 The rain stopped the next morning.
 
 But something had changed between James and Clara, a wall had come down, a distance had closed. They moved around each other differently now, with an ease that hadn't been there before.
-
----
 
 James was making coffee when Clara came into the kitchen.
 

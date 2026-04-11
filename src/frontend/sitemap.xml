@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://storybook-adventures.com/</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/?lang=zh"/>
@@ -13,7 +13,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/library</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/library?lang=zh"/>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/how-to-play</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/how-to-play?lang=zh"/>
@@ -31,37 +31,19 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/privacy</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://storybook-adventures.com/terms</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://storybook-adventures.com/about</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/about?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/about?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/about"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/contact</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/contact?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/contact?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/contact"/>
-  </url>
-  <url>
     <loc>https://storybook-adventures.com/books/preset-adventure-003</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-adventure-003?lang=en"/>
@@ -70,7 +52,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-adventure-003-en</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-adventure-003-en?lang=en"/>
@@ -79,7 +61,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-adventure-004</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-adventure-004?lang=en"/>
@@ -88,7 +70,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-adventure-004-en</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-adventure-004-en?lang=en"/>
@@ -97,7 +79,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-001</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-001?lang=en"/>
@@ -106,7 +88,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-002</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-002?lang=en"/>
@@ -115,7 +97,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-003</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-003?lang=en"/>
@@ -124,7 +106,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-004</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-004?lang=en"/>
@@ -133,7 +115,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-005</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-005?lang=en"/>
@@ -142,7 +124,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-006</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-006?lang=en"/>
@@ -151,7 +133,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-007</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-007?lang=en"/>
@@ -160,7 +142,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-008</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-008?lang=en"/>
@@ -169,7 +151,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-009</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-009?lang=en"/>
@@ -178,7 +160,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-010</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-010?lang=en"/>
@@ -187,7 +169,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-011</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-011?lang=en"/>
@@ -196,7 +178,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-012</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-012?lang=en"/>
@@ -205,7 +187,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-013</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-013?lang=en"/>
@@ -214,7 +196,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-014</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-014?lang=en"/>
@@ -223,7 +205,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-015</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-015?lang=en"/>
@@ -232,7 +214,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-016</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-016?lang=en"/>
@@ -241,7 +223,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-017</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-017?lang=en"/>
@@ -250,7 +232,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-018</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-018?lang=en"/>
@@ -259,7 +241,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-019</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-019?lang=en"/>
@@ -268,7 +250,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-020</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-020?lang=en"/>
@@ -277,7 +259,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-021</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-021?lang=en"/>
@@ -286,7 +268,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-022</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-022?lang=en"/>
@@ -295,7 +277,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-ai-023</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-ai-023?lang=en"/>
@@ -304,7 +286,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-business-003</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-business-003?lang=en"/>
@@ -313,7 +295,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-business-003-en</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-business-003-en?lang=en"/>
@@ -322,7 +304,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-business-004</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-business-004?lang=en"/>
@@ -331,7 +313,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-business-004-en</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-business-004-en?lang=en"/>
@@ -339,188 +321,8 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-business-004-en"/>
   </url>
   <url>
-    <loc>https://storybook-adventures.com/books/preset-fantasy-003</loc>
-    <lastmod>2026-03-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-fantasy-003?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-fantasy-003?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-fantasy-003"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-fantasy-003-en</loc>
-    <lastmod>2026-03-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-fantasy-003-en?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-fantasy-003-en?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-fantasy-003-en"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-fantasy-004</loc>
-    <lastmod>2026-03-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-fantasy-004?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-fantasy-004?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-fantasy-004"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-fantasy-004-en</loc>
-    <lastmod>2026-03-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-fantasy-004-en?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-fantasy-004-en?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-fantasy-004-en"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-romance-003</loc>
-    <lastmod>2026-03-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-romance-003?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-romance-003?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-romance-003"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-romance-003-en</loc>
-    <lastmod>2026-03-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-romance-003-en?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-romance-003-en?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-romance-003-en"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-romance-004</loc>
-    <lastmod>2026-03-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-romance-004?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-romance-004?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-romance-004"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-romance-004-en</loc>
-    <lastmod>2026-03-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-romance-004-en?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-romance-004-en?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-romance-004-en"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-neural-druid</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-neural-druid?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-neural-druid?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-neural-druid"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-unconditional</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-unconditional?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-unconditional?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-unconditional"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-blame-game</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-blame-game?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-blame-game?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-blame-game"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-silent-partner</loc>
-    <lastmod>2026-03-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-silent-partner?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-silent-partner?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-silent-partner"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-whispering-network</loc>
-    <lastmod>2026-03-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-whispering-network?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-whispering-network?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-whispering-network"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-synthetic-soul</loc>
-    <lastmod>2026-03-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-synthetic-soul?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-synthetic-soul?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-synthetic-soul"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-hollow-heart</loc>
-    <lastmod>2026-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-hollow-heart?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-hollow-heart?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-hollow-heart"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-silent-lab</loc>
-    <lastmod>2026-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-silent-lab?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-silent-lab?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-silent-lab"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-quantum-witch</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-quantum-witch?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-quantum-witch?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-quantum-witch"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-prompt-mage</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-prompt-mage?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-prompt-mage?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-prompt-mage"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-clockwork-oracle</loc>
-    <lastmod>2026-03-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-clockwork-oracle?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-clockwork-oracle?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-clockwork-oracle"/>
-  </url>
-  <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-glass-ceiling</loc>
-    <lastmod>2026-03-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-glass-ceiling?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-glass-ceiling?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-glass-ceiling"/>
-  </url>
-  <url>
     <loc>https://storybook-adventures.com/books/preset-coo-memory-park</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-memory-park?lang=en"/>
@@ -528,26 +330,62 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-memory-park"/>
   </url>
   <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-silent-poet</loc>
-    <lastmod>2026-04-01</lastmod>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-blame-game</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-silent-poet?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-silent-poet?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-silent-poet"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-blame-game?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-blame-game?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-blame-game"/>
   </url>
   <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-pain-garden</loc>
-    <lastmod>2026-04-01</lastmod>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-causal-web</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-pain-garden?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-pain-garden?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-pain-garden"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-causal-web?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-causal-web?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-causal-web"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-childhood-museum</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-childhood-museum?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-childhood-museum?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-childhood-museum"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-clockwork-oracle</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-clockwork-oracle?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-clockwork-oracle?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-clockwork-oracle"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-dream-market</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-dream-market?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-dream-market?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-dream-market"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-emotion-factory</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-emotion-factory?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-emotion-factory?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-emotion-factory"/>
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-coo-the-empty-mall</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-empty-mall?lang=en"/>
@@ -555,35 +393,125 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-empty-mall"/>
   </url>
   <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-token-addict-borrowed-mind</loc>
-    <lastmod>2026-04-02</lastmod>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-entropy-horizon</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-token-addict-borrowed-mind?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-token-addict-borrowed-mind?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-token-addict-borrowed-mind"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-entropy-horizon?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-entropy-horizon?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-entropy-horizon"/>
   </url>
   <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-transition-point</loc>
-    <lastmod>2026-04-02</lastmod>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-glass-ceiling</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-transition-point?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-transition-point?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-transition-point"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-glass-ceiling?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-glass-ceiling?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-glass-ceiling"/>
   </url>
   <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-trust-protocol</loc>
-    <lastmod>2026-04-02</lastmod>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-hollow-heart</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-trust-protocol?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-trust-protocol?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-trust-protocol"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-hollow-heart?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-hollow-heart?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-hollow-heart"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-love-factory</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-love-factory?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-love-factory?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-love-factory"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-memory-farm</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-memory-farm?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-memory-farm?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-memory-farm"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-neural-druid</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-neural-druid?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-neural-druid?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-neural-druid"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-pain-garden</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-pain-garden?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-pain-garden?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-pain-garden"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-prompt-mage</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-prompt-mage?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-prompt-mage?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-prompt-mage"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-quantum-witch</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-quantum-witch?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-quantum-witch?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-quantum-witch"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-silent-lab</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-silent-lab?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-silent-lab?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-silent-lab"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-silent-partner</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-silent-partner?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-silent-partner?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-silent-partner"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-silent-poet</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-silent-poet?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-silent-poet?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-silent-poet"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-silicon-fall</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-silicon-fall?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-silicon-fall?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-silicon-fall"/>
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-coo-the-skin-garden</loc>
-    <lastmod>2026-04-06</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-skin-garden?lang=en"/>
@@ -592,7 +520,7 @@
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-coo-the-slow-replacement</loc>
-    <lastmod>2026-04-06</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-slow-replacement?lang=en"/>
@@ -600,30 +528,341 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-slow-replacement"/>
   </url>
   <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-silicon-fall</loc>
-    <lastmod>2026-04-06</lastmod>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-synthetic-soul</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-silicon-fall?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-silicon-fall?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-silicon-fall"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-synthetic-soul?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-synthetic-soul?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-synthetic-soul"/>
   </url>
   <url>
-    <loc>https://storybook-adventures.com/books/preset-coo-the-causal-web</loc>
-    <lastmod>2026-04-07</lastmod>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-token-addict-borrowed-mind</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-causal-web?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-causal-web?lang=zh"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-causal-web"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-token-addict-borrowed-mind?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-token-addict-borrowed-mind?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-token-addict-borrowed-mind"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-transition-point</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-transition-point?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-transition-point?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-transition-point"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-trust-protocol</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-trust-protocol?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-trust-protocol?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-trust-protocol"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-unconditional</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-unconditional?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-unconditional?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-unconditional"/>
   </url>
   <url>
     <loc>https://storybook-adventures.com/books/preset-coo-the-verificationist</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-verificationist?lang=en"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-verificationist?lang=zh"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-verificationist"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-vision-question</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-vision-question?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-vision-question?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-vision-question"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-coo-the-whispering-network</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-coo-the-whispering-network?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-coo-the-whispering-network?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-coo-the-whispering-network"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-fantasy-003</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-fantasy-003?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-fantasy-003?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-fantasy-003"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-fantasy-003-en</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-fantasy-003-en?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-fantasy-003-en?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-fantasy-003-en"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-fantasy-004</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-fantasy-004?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-fantasy-004?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-fantasy-004"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-fantasy-004-en</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-fantasy-004-en?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-fantasy-004-en?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-fantasy-004-en"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-romance-003</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-romance-003?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-romance-003?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-romance-003"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-romance-003-en</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-romance-003-en?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-romance-003-en?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-romance-003-en"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-romance-004</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-romance-004?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-romance-004?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-romance-004"/>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/books/preset-romance-004-en</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://storybook-adventures.com/books/preset-romance-004-en?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://storybook-adventures.com/books/preset-romance-004-en?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://storybook-adventures.com/books/preset-romance-004-en"/>
+  </url>
+
+  <!-- COO精选章节 - 高质量内容推荐 -->
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-neural-druid-07</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-unconditional-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-blame-game-09</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-silent-partner-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-whispering-network-06</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-synthetic-soul-09</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-hollow-heart-09</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-silent-lab-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-quantum-witch-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-prompt-mage-09</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-clockwork-oracle-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-glass-ceiling-09</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-memory-park-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-silent-poet-09</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-pain-garden-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-empty-mall-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-skin-garden-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-slow-replacement-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-silicon-fall-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-causal-web-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-verificationist-05</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-childhood-museum-04</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-dream-market-01</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-emotion-factory-04</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-entropy-horizon-03</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-love-factory-04</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-memory-farm-09</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-token-addict-borrowed-mind-03</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-transition-point-01</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-trust-protocol-01</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-the-vision-question-07</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://storybook-adventures.com/chapters/chapter-coo-algorithmic-aesthetics-03</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>

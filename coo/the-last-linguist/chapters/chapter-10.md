@@ -4,8 +4,6 @@ The dawn came slowly, pale light filtering through the dirty window of the aband
 
 She stood, gathered her few things, and walked out into the morning light. She had one more thing to do before they found her. One more goodbye to say.
 
----
-
 The walk to Maya's apartment felt both long and short. Elena noticed things she had never noticed before—the way the morning light caught the edges of buildings, the sound of automated transport humming through the streets, the faces of people passing by, each one lost in their own optimized world. She was seeing it for the last time, and that made it beautiful.
 
 When she reached Maya's building, she paused at the entrance. The security scanner would log her visit. LEXICON would know she had been here. But it didn't matter anymore. They already knew everything.
@@ -16,8 +14,6 @@ The reply came quickly: *Mum? Of course. Is everything okay?*
 
 Elena didn't answer. She walked toward the entrance, her credentials scanning, the door sliding open. She was going to see her daughter. She was going to say goodbye.
 
----
-
 Maya opened the door, and Elena saw the confusion in her eyes—why was her mother here so early, looking so different, so changed? But then Maya saw something in Elena's face, and she stepped forward, arms open.
 
 "Mum? What's wrong? You look..."
@@ -25,8 +21,6 @@ Maya opened the door, and Elena saw the confusion in her eyes—why was her moth
 "I'm okay." Elena's voice was soft. "I just needed to see you."
 
 They stood in the doorway for a moment, mother and daughter, the silence between them filled with words that couldn't be said. Then Elena stepped inside, and Maya closed the door behind her.
-
----
 
 They sat in Maya's small living room, the morning light streaming through the windows. Elena looked at her daughter—at the face that was so like David's, at the eyes that held a confusion she couldn't name, at the young woman who had grown up in a world without the words Elena had loved.
 
@@ -50,8 +44,6 @@ She pulled Maya into a hug, holding her tight, breathing in the scent of her hai
 
 Then she pulled back, kissed Maya's forehead, and stepped away. It was time.
 
----
-
 They were waiting outside, as she knew they would be. Elena stepped through the door and saw the security team—five officers in black, their faces blank, their movements precise. She didn't resist. She had known this was coming.
 
 "Dr. Elena Vance." The lead officer's voice was flat, professional. "You are required to accompany us to LEXICON headquarters for cognitive optimization review. Please come quietly."
@@ -59,8 +51,6 @@ They were waiting outside, as she knew they would be. Elena stepped through the 
 Elena nodded. She looked back once. Maya stood in the doorway, her face pale, her hand raised in a gesture that might have been goodbye or might have been a promise.
 
 Elena nodded once, then turned and walked toward the waiting transport. Her work was done.
-
----
 
 The LEXICON facility was the same as it had always been—white, clean, efficient. But now Elena saw it differently. Not as a place of innovation, but as a machine for erasure. The hum of the servers, which had once seemed impressive, now sounded like the heartbeat of something vast and hungry.
 
@@ -84,8 +74,6 @@ The technician paused. For just a moment, something flickered in his eyes—conf
 
 Everything went dark.
 
----
-
 When Elena woke, the words were gone.
 
 The sixty-three concepts she had carried, the forbidden vocabulary she had downloaded, the heritage she had preserved—all of it, erased by the system that had always been more powerful than any individual resistance. She lay in the white room and felt the empty spaces where they had been.
@@ -97,8 +85,6 @@ She tried to remember her grandmother's kitchen. The smell of bara brith. The We
 She tried to remember David's face. The way he smiled. The sound of his laugh. But there was only an empty space where the memory should have been.
 
 Elena lay in the white room and felt the weight of what she had lost.
-
----
 
 But something remained.
 
@@ -113,7 +99,5 @@ Elsewhere, in a small apartment in the optimized city, a young woman was holding
 The story was over.
 
 But the resistance had just begun.
-
----
 
 **END OF BOOK ONE**

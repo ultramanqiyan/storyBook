@@ -57,5 +57,3 @@ The observatory was different in the evening light. What had been harsh and accu
  She needed to understand what had just happened. Not just the data, she needed a theory, a framework, something that could explain how consciousness could exist without a body, how it could transmit across space, how Thomas could still be there
 
  Tomorrow she would start building one. Tonight, she would sit with what she'd been given, the understanding that her husband was not as gone as she'd thought
-
----

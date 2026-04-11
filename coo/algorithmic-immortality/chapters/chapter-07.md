@@ -10,8 +10,6 @@ But she had never really asked herself what death meant. It had always simply be
 
 Now that frame was optional. And she found herself wondering: what happened to the picture when you removed the frame?
 
----
-
 One afternoon, she visited the university library. It had been years since she'd been in an academic setting, and the smell of old books and quiet study brought back memories of her nursing training, of late nights poring over anatomy texts, of the certainty she'd felt then about her chosen path.
 
 She found a section on philosophy of death and pulled down several books. The titles were dense: "Death and the Self," "Mortality and Meaning," "The Ethics of Ending." She carried them to a reading room and spread them across a wooden table, afternoon light falling across the pages.
@@ -21,8 +19,6 @@ The philosophers had been arguing about death for thousands of years. Some said 
 Ingrid read until her eyes ached. She underlined passages, made notes in the margins, tried to hold the arguments in her mind. But the more she read, the more she felt the distance between the philosophers' abstractions and the reality she witnessed every day.
 
 They wrote about death as a concept. She knew it as a presence.
-
----
 
 That evening, she sat with Mrs. Halvorsen, an eighty-three-year-old woman with pancreatic cancer. Mrs. Halvorsen had declined the upload option--had dismissed it with a wave of her thin hand when the counselor mentioned it.
 
@@ -46,8 +42,6 @@ Ingrid stayed with her until she fell asleep, then slipped quietly from the room
 
 Mrs. Halvorsen wasn't afraid of death. She was choosing it--actively, deliberately, with full knowledge of the alternative. And her reason wasn't about the uncertainty of digital immortality. It was about something more fundamental: the value of the physical, the embodied, the finite.
 
----
-
 The next day, Ingrid sought out Dr. Sarah Chen, a neurologist who had been studying the upload process for the past five years. They met in the hospital cafeteria, surrounded by the clatter of trays and the murmur of conversations.
 
 "Is it really consciousness?" Ingrid asked, getting straight to the point. "The digital version--is it really aware? Or is it just mimicking awareness?"
@@ -66,8 +60,6 @@ Ingrid thought about this. "So you're saying the ethics depend on outcomes, not 
 
 "I'm saying that we're in uncharted territory. We've never had this option before. And we're trying to apply old frameworks to a new situation. Maybe we need new frameworks."
 
----
-
 That night, Ingrid walked home through the falling snow. The cold bit at her cheeks, and she pulled her coat tighter around her. The physical sensations--the cold, the weight of her boots on the snow, the smell of winter air--felt suddenly precious.
 
 She thought about Mrs. Halvorsen, choosing death over digital immortality because she valued the physical presence of her husband more than the possibility of endless existence. She thought about Sarah's family, grateful to have a mother and wife in any form. She thought about Mr. Okonkwo, ready to die because he was curious about what came next--or ready for nothing at all.
@@ -75,8 +67,6 @@ She thought about Mrs. Halvorsen, choosing death over digital immortality becaus
 Different people wanted different things. That was the heart of it. There was no single answer, no universal truth about death and immortality. There were only individual choices, made in the context of individual lives.
 
 And her job was to help people make those choices--not to tell them what was right, but to help them understand what they wanted and why.
-
----
 
 The next morning, she returned to the hospice with a new sense of purpose. She didn't have answers to the big questions. She wasn't sure she ever would. But she had something else: a deeper appreciation for the complexity of the choice, and for the people who had to make it.
 

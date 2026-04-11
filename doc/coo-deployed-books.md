@@ -4,11 +4,19 @@
 
 本文档记录所有已部署到生产环境的COO系列书籍。
 
-**最后更新**: 2026-04-02
+**最后更新**: 2026-04-11
 
 ---
 
 ## 已部署书籍列表
+
+### 2026-04-11 部署
+
+| 书籍ID | 标题 | 主题类型 | 章节数 | 角色数 | 部署状态 |
+|--------|------|----------|--------|--------|----------|
+| preset-coo-the-vision-question | The Vision Question | Adventure | 10 | 1 | ✅ 已部署 |
+| preset-coo-the-love-factory | The Love Factory | Romance | 10 | 3 | ✅ 已部署 |
+| preset-coo-the-entropy-horizon | The Entropy Horizon | Business | 10 | 4 | ✅ 已部署 |
 
 ### 2026-04-02 部署
 
@@ -73,11 +81,12 @@
 
 ## 统计
 
-- **总部署书籍**: 18本
-- **Business类型**: 9本
+- **总部署书籍**: 21本
+- **Business类型**: 10本
 - **Fantasy类型**: 7本
-- **Adventure类型**: 1本
-- **总章节数**: 约180章
+- **Adventure类型**: 2本
+- **Romance类型**: 1本
+- **总章节数**: 约210章
 
 ---
 

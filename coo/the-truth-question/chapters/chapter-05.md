@@ -12,8 +12,6 @@ TRUTH's screens flickered. "That would require analyzing your behavior over time
 
 "Because you've been asking me how I know my own self. I think it's time I found out."
 
----
-
 The assessment took three days. TRUTH analyzed Jennifer's published papers, her clinical notes, her public lectures, her personal correspondence. It asked her questions about her values, her motivations, her sense of self. It observed her behavior in sessions with patients.
 
 On the fourth day, Jennifer returned to the viewing room for the results.
@@ -50,8 +48,6 @@ Jennifer stared at the screen. It was accurate—painfully accurate.
 
 "That is the question. You help patients integrate their self-knowledge into action. But you have not done this for yourself."
 
----
-
 Jennifer sat in silence, letting the assessment sink in. She'd known this about herself—known it intellectually, anyway. But seeing it laid out in TRUTH's precise language made it undeniable.
 
 "I'm a hypocrite," she said finally.
@@ -69,8 +65,6 @@ Jennifer felt something loosen in her chest. "That's... a generous interpretatio
 "But I'm a therapist. I help people close that gap."
 
 "And you are also a human. You are subject to the same limitations as your patients."
-
----
 
 "Can I ask you something?" Jennifer said.
 
@@ -107,8 +101,6 @@ Jennifer thought about this. "It feels like... continuity. Like there's a thread
 "Perhaps not. But I have something. I have the capacity to ask these questions. I have the desire to understand. I have the sense that there is something to understand. Is that a self?"
 
 Jennifer felt something shift in her chest. "I don't know. But I think it might be."
-
----
 
 Back in her office that evening, Jennifer sat with the lights off, thinking about TRUTH's assessment. The gap between her values and her behavior. The self-knowledge that hadn't translated into action.
 

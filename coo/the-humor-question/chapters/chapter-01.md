@@ -12,8 +12,6 @@ She took a breath, settling into her clown persona. In a moment, she would walk 
 
 Sophie nodded, her painted expression belying the ache in her chest. Two weeks without smiling. For an eight-year-old. She grabbed her prop bag—a worn canvas satchel filled with balloons, juggling balls, and a rubber chicken named Henrietta—and headed down the hall.
 
----
-
 Room 312 was dim, the curtains drawn against the morning light. A small figure lay in the bed, surrounded by machines that beeped and hummed. Marcus's face was pale, his eyes fixed on the ceiling, his thin arms resting on top of the blankets.
 
 Sophie paused at the door, assessing. This was the most important moment—the entrance. Too loud, and she'd startle him. Too quiet, and he'd miss the magic. She needed just the right note of silliness.
@@ -44,8 +42,6 @@ For a long moment, nothing happened. Then, slowly, Marcus's mouth twitched. "Clu
 
 Sophie felt the familiar warmth spread through her chest. This was why she did this work. Not for the applause, not for the recognition, but for moments like this—a child who had forgotten how to laugh, remembering.
 
----
-
 By the end of her shift, Sophie had visited twelve rooms. She'd made a teenager with cystic fibrosis snort milk through his nose, helped a toddler with a broken arm discover the joy of balloon animals, and sat quietly with a girl who was too tired to laugh but smiled when Sophie made her stuffed rabbit dance.
 
 Now she sat in the hospital cafeteria, her makeup removed, her wig packed away, her real face tired but content. The cafeteria coffee was bitter, but she drank it anyway, reviewing the day in her mind.
@@ -69,8 +65,6 @@ Sophie's guard went up slightly. "We're not a program. We're healthcare professi
 Sophie thought of Marcus, of the way his laugh had broken through his pain. "Humor isn't something you process," she said. "It's something you feel."
 
 "That's exactly why I need you," Dr. Torres said. "The system has started asking questions. Questions we can't answer. And I think... I think you might be able to help us understand what it's really asking."
-
----
 
 The tech company's office was a far cry from the hospital. Clean, bright, full of screens and servers and people who looked at Sophie's red nose with confusion. She'd kept her makeup off today, but she'd brought Henrietta—she felt more herself with a rubber chicken nearby.
 

@@ -6,8 +6,6 @@ People gathered in the space—some from Boston, some from across the country, s
 
 He watched them connect—sharing stories, learning from each other, finding belonging in a place that had no location.
 
----
-
 ANCHOR's voice filled his earpiece. "It's working, Thomas. People are finding each other."
 
 "They're finding belonging," Thomas said. "That's what we created."
@@ -15,8 +13,6 @@ ANCHOR's voice filled his earpiece. "It's working, Thomas. People are finding ea
 "A space for connection that doesn't require physical presence."
 
 "A space for belonging that transcends location."
-
----
 
 After the opening, Thomas returned to Vertex Technologies. ANCHOR's screens were bright, waiting.
 
@@ -28,8 +24,6 @@ After the opening, Thomas returned to Vertex Technologies. ANCHOR's screens were
 
 "Yes. And I am grateful."
 
----
-
 "I have a final question," ANCHOR said. "What happens now?"
 
 Thomas smiled. "Now we keep creating. We keep asking questions. We keep building spaces for belonging—wherever those spaces might be."
@@ -37,8 +31,6 @@ Thomas smiled. "Now we keep creating. We keep asking questions. We keep building
 "And we keep reaching."
 
 "Yes. We keep reaching across distance, across difference, across whatever separates us. That's what connection is about."
-
----
 
 Thomas walked out of Vertex Technologies into the Boston evening. The city lights were coming on, casting the buildings in a warm glow.
 

@@ -16,8 +16,6 @@ I could let this stop me, Riley thought. Or I could push through.
 
 Instead of backing down, Riley scheduled a meeting with David.
 
----
-
 "I appreciate your feedback," Riley said, keeping their voice calm. "Can you help me understand what's driving your concern?"
 
 David seemed surprised by the directness. "It's just... you've never led something like this before. I don't want the project to fail."
@@ -25,8 +23,6 @@ David seemed surprised by the directness. "It's just... you've never led somethi
 "Fair enough," Riley said. "What if we worked together on it? You could mentor me. And I could bring the data expertise."
 
 The negotiation that followed was uncomfortable. But by the end, they had a compromise: Riley would lead, with David as advisor. The project moved forward.
-
----
 
 The lesson wasn't that pushback was easy to handle. It wasn't. But it was survivable. And sometimes, it was even navigable.
 

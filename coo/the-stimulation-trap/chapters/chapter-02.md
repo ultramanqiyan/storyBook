@@ -22,8 +22,6 @@ His heart beats faster. This is it. This is what he's been waiting for. The Gard
 
 He clicks the link.
 
----
-
 The preview loads.
 
 He's still in the meeting. Someone is talking about quarterly variance. But Leo is watching his phone screen, where a 30-second teaser plays.
@@ -43,8 +41,6 @@ $899. That's almost his entire entertainment budget for the month. That's more t
 He doesn't hesitate.
 
 He clicks the button.
-
----
 
 That night, he can't focus on anything.
 

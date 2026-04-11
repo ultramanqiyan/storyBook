@@ -26,8 +26,6 @@ Hope.
 
 *Tell me more.*
 
----
-
 The meeting happens two days later.
 
 Kane's office is the same. The desk. The chairs. The shelves of equipment. The humming server in the corner.
@@ -83,8 +81,6 @@ $10,000. Leo doesn't have $10,000. He doesn't have $1,000. He's already emptied 
 But he has a car. He has a lease. He has a few things he could sell.
 
 "I'll get the money."
-
----
 
 It takes a week.
 

@@ -8,13 +8,9 @@ Angela smiled from across her desk. "So. How does it feel?"
 
 "No," Angela said. "It doesn't. But you've learned something important: the fear doesn't have to control you. That's the agency advantage."
 
----
-
 The agency advantage wasn't about being fearless. It was about acting despite fear. It was about recognizing that waiting had costs, that passivity had consequences, that the safe choice wasn't always the right choice.
 
 Riley had learned this the hard way—through missed opportunities, through small failures, through the slow accumulation of choices that had built something new.
-
----
 
 "What's next?" Angela asked.
 
@@ -28,21 +24,15 @@ Riley smiled. "That too. I've started meeting with junior staff who remind me of
 
 Angela nodded. "That's how it spreads. One person at a time. One choice at a time."
 
----
-
 The conversation ended, and Riley walked back through the office. The same fluorescent lights, the same hum of activity, the same environment that had felt like a cage one year ago.
 
 But everything was different now. Not because the world had changed, but because Riley had.
-
----
 
 That evening, Riley sat in the apartment, reflecting on the year. The missed opportunity that had started everything. The email to Angela. The first small step. The resistance, the practice, the impact, the leadership.
 
 All of it had come from one decision: to stop waiting for permission and start taking action.
 
 The agency advantage wasn't a secret. It wasn't a technique. It was a choice. A choice that Riley made every day, in small ways and large ones.
-
----
 
 Riley opened the laptop and started typing. Not a report, not a proposal. Just a reflection on what had been learned.
 
@@ -55,8 +45,6 @@ Riley opened the laptop and started typing. Not a report, not a proposal. Just a
 *One small action. Then another. Then another.*
 
 *That's all it takes.*
-
----
 
 Riley closed the laptop and looked out the window. The Boston skyline glowed against the evening sky. The same view as before, but seen through different eyes.
 
@@ -71,7 +59,5 @@ And that was enough.
 More than enough.
 
 It was everything.
-
----
 
 **END OF BOOK: THE AGENCY WITHIN**

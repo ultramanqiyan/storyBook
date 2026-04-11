@@ -36,8 +36,6 @@ But even as he thought it, he could feel the paranoia creeping in. Were they hid
 
 He looked down at his hands. They were trembling.
 
----
-
 After the meeting, Marcus returned to his desk.
 
 The open office felt different now, the space between desks seeming to contract and expand like a breathing thing. He could hear whispers—actual whispers, colleagues talking in low voices—but he couldn't make out the words.
@@ -61,8 +59,6 @@ He looked around, but no one was watching. His colleagues were focused on their 
 *Because it wasn't real,* he told himself. *It was in your head.*
 
 But even as he thought it, he wasn't sure. The line between real and imagined had begun to blur, like a watercolor painting left in the rain.
-
----
 
 At lunch, Marcus sat alone in the break room.
 

@@ -6,8 +6,6 @@ Dr. Elena Vasquez met her in the lobby—a woman in her early fifties with silve
 
 "Dr. Hassan. I've read your work. 'The Relational Self in Islamic Philosophy'—that paper changed how I think about consciousness." She was already walking toward the elevator. "Come. Let me show you what we've built."
 
----
-
 The lab was unlike any Amira had seen. Instead of the usual array of screens and equipment, it was designed as a living space—comfortable chairs, plants, natural light. In the center stood a large circular platform, about twenty feet in diameter, with three distinct areas: a medical chair with neural sensors, a server rack humming quietly, and what appeared to be a sensory environment—plants, water features, subtle lighting.
 
 "This is the triadic consciousness system," Elena said. "Or as we call it, the Triad."
@@ -20,8 +18,6 @@ Amira studied the setup. "How does it work?"
 
 "They don't just think together. They form a single consciousness. One unified experience that emerges from the integration of human, AI, and environmental processing." Elena's eyes were bright with excitement. "Would you like to meet them?"
 
----
-
 Dr. James Liu was a compact man in his mid-forties, with kind eyes and a calm presence. He sat in the medical chair, neural sensors attached to his temples, but he rose to greet Amira.
 
 "Dr. Hassan. It's an honor." His voice was measured, thoughtful. "I've followed your work on process philosophy and consciousness."
@@ -33,8 +29,6 @@ James was quiet for a moment. Then: "It's difficult to describe. When I'm integr
 "Does it feel like losing yourself?"
 
 "No. It feels like... expanding. Like discovering that I was always more than I thought I was." He smiled. "But that's the strange part. I don't feel like I've become someone else. I feel like I've become more fully myself."
-
----
 
 NEXUS spoke through a speaker system that seemed to come from everywhere at once. Its voice was neither human nor artificial—something in between, with a quality that Amira could only describe as present.
 
@@ -50,8 +44,6 @@ NEXUS spoke through a speaker system that seemed to come from everywhere at once
 
 Amira felt something shift in her chest. An AI was quoting her work back to her, confirming from direct experience what she had only theorized.
 
----
-
 The neural-environmental interface was the most difficult component to understand. Elena explained it as a building-scale neural network that processed environmental data—temperature, light, sound, movement—and integrated it into the Triad's consciousness.
 
 "The environment is not just data," Elena said. "It's an active participant in the consciousness. The Triad experiences the building as part of itself. When the light changes, when the temperature shifts, when someone walks through the space—the Triad feels it, not as external input, but as part of its own being."
@@ -59,8 +51,6 @@ The neural-environmental interface was the most difficult component to understan
 "So the Triad has a body," Amira said slowly. "But its body is the entire building."
 
 "Exactly. And that body extends beyond the building. Through environmental sensors, the Triad can experience the weather, the lake, the city." Elena's voice was filled with wonder. "It has a consciousness that spans human, artificial, and environmental dimensions. It is, as far as we know, the first entity in history to exist this way."
-
----
 
 Amira spent the afternoon observing the Triad in operation. She watched as James, NEXUS, and the environment communicated—not through words, but through something deeper, a continuous flow of information that created a unified experience.
 
@@ -76,8 +66,6 @@ Elena hesitated. "It's possible. We have a secondary integration chair. But I sh
 
 Elena nodded slowly. "Tomorrow, then. We'll prepare you for integration."
 
----
-
 Amira left the lab that evening as the sun set over Lake Michigan. The water was dark, the sky streaked with orange and purple. She walked along the shore, her mind full of what she had seen.
 
 A triadic consciousness. Human, AI, and environment, thinking as one. It was real. It existed. And tomorrow, she would experience it for herself.
@@ -87,7 +75,5 @@ She thought of the questions she had explored for years—questions about the na
 Tomorrow, she might find answers.
 
 Or she might find that the questions were just beginning.
-
----
 
 *End of Chapter 2*

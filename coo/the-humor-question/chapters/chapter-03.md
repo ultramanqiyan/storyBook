@@ -34,8 +34,6 @@ Sophie burst out laughing—not because the joke was particularly clever, but be
 
 "That's perfect," she said. "Henrietta loves it. She's going to tell all her chicken friends."
 
----
-
 After her hospital shift, Sophie headed to the tech company. Dr. Torres met her at the entrance with an expression of barely contained excitement.
 
 "HARM has been processing," he said as they walked. "It's been analyzing humor theory, comedic timing, audience psychology. But it keeps coming back to your sessions."
@@ -65,8 +63,6 @@ Sophie thought about this. "He was proud of himself. He was sharing something he
 "But if I cannot feel it, can I truly understand it? Or am I merely processing?"
 
 The question hung in the air. Sophie realized it was the same question she'd been asking herself—what was the difference between understanding humor and just going through the motions? Was there a difference?
-
----
 
 "Show me what you can do," Sophie said. "Show me how you analyze humor."
 
@@ -103,8 +99,6 @@ Sophie hesitated. The hospital was her domain, a place of vulnerability and trus
 Sophie thought of Marcus, of the way he'd laughed at his own joke, of the pride in his eyes. Maybe HARM could help her understand what she was doing. Maybe they could learn from each other.
 
 "I'll ask," she said. "And if they say yes... we'll see what you can see."
-
----
 
 That evening, Sophie sat with Dr. Torres in the company cafeteria, drinking the same bitter coffee she'd grown used to.
 

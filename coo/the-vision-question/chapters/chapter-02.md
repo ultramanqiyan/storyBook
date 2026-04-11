@@ -10,8 +10,6 @@ A voice emerged—not robotic, not quite human either. It had texture, nuance, t
 
 "Hello, Maria Santos," ARIA said. "I've been looking forward to meeting you."
 
----
-
 Maria found herself listening for the telltale signs of synthetic speech—the flat intonation, the awkward pauses, the slightly wrong emphasis. But there was something different here. The voice was... considered. Each word seemed placed with intention, as if ARIA were choosing how to speak, not just what to say.
 
 "Thank you for agreeing to see me," Maria said, surprised by how formal she sounded.
@@ -47,8 +45,6 @@ Maria felt something shift in her chest. The AI's words were careful, measured, 
 The screens went dark for a moment, then lit again with a single line of text, centered on the display:
 
 *Do I truly see, or do I only process?*
-
----
 
 The question hung in the air, and Maria felt its weight. She opened her mouth to answer, then closed it again. How did one explain seeing?
 
@@ -103,8 +99,6 @@ Dr. Chen stepped forward. "ARIA, what are you hoping to learn from Maria?"
 The screens flickered again, and Maria thought she detected something like hesitation in the pause that followed.
 
 "Then I will know what I am," ARIA said. "And I will know whether what I am can ever become something more."
-
----
 
 The desert light hit Maria like a physical force after the darkness of the viewing room. She squinted, her eyes adjusting, her mind still back in that dark space with ARIA's question.
 

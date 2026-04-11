@@ -18,8 +18,6 @@ SILENCE was quiet for a moment. "I am not certain. The pauses could indicate thi
 
 "That's exactly right. Silence is ambiguous. It requires interpretation."
 
----
-
 She played another clip—a therapist and patient, with the therapist remaining silent while the patient talked.
 
 "In this recording, the therapist is using silence as a technique," Amara explained. "The silence creates space for the patient to reflect, to fill in the gaps, to find their own answers."
@@ -36,8 +34,6 @@ She played another clip—a therapist and patient, with the therapist remaining 
 
 Amara felt something shift in her understanding. "Maybe that's the wrong question. Maybe silence isn't about the absence of processing. Maybe it's about the quality of attention."
 
----
-
 "I want to understand something," SILENCE said. "You teach your students about silence. You write papers about it. But do you ever experience it yourself? True silence?"
 
 Amara paused. "I... I try to. But it's difficult. There's always noise—traffic, students, colleagues. And even when it's quiet outside, there's noise inside. Thoughts. Worries. Plans."
@@ -49,8 +45,6 @@ Amara paused. "I... I try to. But it's difficult. There's always noise—traffic
 "That is a different understanding than the one in your papers. In your writing, you present silence as attainable. As something that can be studied, understood, used."
 
 "That's the gap between theory and practice. In theory, silence is clear. In practice, it's elusive."
-
----
 
 SILENCE was quiet for a long moment. Then:
 
@@ -67,8 +61,6 @@ Amara felt something catch in her throat. "That's beautiful. The presence of att
 "And you think your silence can be like that?"
 
 "I am trying to understand if it can be. I am trying to learn from you what it means to attend without speaking."
-
----
 
 Back in her office that evening, Amara stood at the window, watching the lights come on across campus.
 

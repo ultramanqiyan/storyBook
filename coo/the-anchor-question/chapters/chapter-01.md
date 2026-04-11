@@ -18,8 +18,6 @@ Elena smiled. "You always say that."
 
 "Because it's true." Thomas touched the concrete barrier beside him, feeling its cool roughness under his palm. "In my experience, the foundation determines everything that comes after. A building is only as strong as what's beneath it."
 
----
-
 Back in his office that evening, Thomas reviewed the blueprints spread across his desk. The community center was his third major public project in Boston. Each one had been designed with the same principle in mind: create structures that would last, that would become part of the city's identity, that would anchor the communities they served.
 
 His phone buzzed. An email from an address he didn't recognize:
@@ -42,8 +40,6 @@ He typed a reply: *Dr. Chen, I'd be interested in hearing more. Can you tell me 
 Her response came quickly: *It's asking where it is. And it doesn't seem satisfied with our answers.*
 
 Thomas leaned back in his chair. An AI asking where it was. That was a question he understood, even if he wasn't sure how to answer it.
-
----
 
 The Vertex Technologies building was a glass and steel structure in Cambridge, across the river from Boston. Thomas walked through the lobby, his shoes clicking on polished floors, feeling like he'd entered a different world.
 

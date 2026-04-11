@@ -6,8 +6,6 @@ Everything was in place. Jimmy's pieces were positioned perfectly—the centerpi
 
 Or so he'd thought, until his phone rang.
 
----
-
 "Marcus, have you seen the Times?"
 
 Helen Marsh's voice was tight, controlled. The voice of someone delivering bad news.
@@ -21,8 +19,6 @@ Marcus felt his stomach drop.
 "What kind of story?"
 
 "The kind that goes viral. Read it. Then call me back."
-
----
 
 The headline was devastating:
 

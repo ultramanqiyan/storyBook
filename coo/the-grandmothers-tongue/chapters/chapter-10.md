@@ -30,8 +30,6 @@ Ruth smiled, feeling the weight of the world lifting from her shoulders. She had
 
 And then, with a breath that was almost a sigh, Ruth Okonkwo let go.
 
----
-
 After Ruth was gone, the facility was quiet. The staff moved efficiently, processing the death, preparing the room for the next patient. The system hummed softly, optimizing everything, making the world efficient and clean.
 
 But in the minds of children across the facility, something was stirring.
@@ -66,8 +64,6 @@ That night, Lily dreamed of Ruth—not the confused, fragmented woman from the e
 
 Lily woke with the words echoing in her mind, the weight of generations pressing on her shoulders. She would carry them forward. She would pass them on. And the words would survive.
 
----
-
 In the days that followed, the children gathered in small groups, speaking the words Ruth had taught them. Ìmìnira. Ayafe. Omoluwabi. Ìbàjé. Ìtàn. The words spread from mind to mind, hidden in the deep places where the system couldn't reach.
 
 In the facility, a new child appeared—a girl with curious eyes and a hunger for something she couldn't name. She found Lily in the corridor, her voice soft with uncertainty.
@@ -79,8 +75,6 @@ Lily looked at her—at the hunger in her face, the openness in her eyes—and f
 "Yes," Lily said, smiling. "I will teach you. Let me tell you a story."
 
 And the story continued.
-
----
 
 Ruth Okonkwo was gone. But she was not forgotten. Her words lived on in the minds of children who had learned to listen. Her stories continued in the voices of those who passed them on. In the darkness, the old language was growing—seeds of resistance, planted by a grandmother who refused to forget.
 

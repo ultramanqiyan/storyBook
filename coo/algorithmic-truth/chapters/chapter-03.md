@@ -30,8 +30,6 @@ Frank set the paper down. "What do you want to do?"
 
 "Then maybe we need to find those things."
 
----
-
 Sarah spent the rest of the day strategizing. If the algorithm wanted documentation, she would find documentation. If it wanted multiple sources, she would find multiple sources.
 
 The problem was that the incident had left almost no trace. The man who collapsed had walked away. The woman who saved him had disappeared. The store's security cameras hadn't been working. No ambulance had been called.
@@ -40,15 +38,11 @@ But someone must know something. The man who collapsed had walked out with a wom
 
 Sarah started with the most obvious approach: she asked the community.
 
----
-
 **SEEKING INFORMATION**
 
 *Do you know anything about a medical incident at Harmon's Grocery on Tuesday, March 12th? A man collapsed in the produce section and was helped by a woman in medical scrubs. If you have any information about this incident, please contact Sarah Mitchell at the Iowa Valley Gazette.*
 
 She posted the notice on the newspaper's website and social media accounts. Then she waited.
-
----
 
 The responses came slowly at first. A few people said they'd been at Harmon's that day but hadn't seen anything. One person claimed to have heard about the incident from a friend. Another suggested Sarah was making the whole thing up for attention.
 
@@ -76,8 +70,6 @@ A long pause. Then: "She's a nurse at the hospital. Works in the ER. That's all 
 
 The line went dead.
 
----
-
 Sarah had a name by the next morning. The ER nurse who matched the description was Elena Vasquez. Forty-three years old. Fifteen years at Iowa Valley Hospital. No disciplinary record. Well-respected by colleagues.
 
 Sarah called the hospital's public relations office.
@@ -93,8 +85,6 @@ Sarah called the hospital's public relations office.
 "Is there any way to reach her? Or have her contact me?"
 
 "I'll pass along the message. But I can't promise she'll call you back."
-
----
 
 The call came at 7:00 PM. Sarah was at home, going through her notes.
 
@@ -128,15 +118,11 @@ A long silence. Then: "I can't stop you from writing what you want to write. But
 
 The line went dead.
 
----
-
 Sarah sat in the quiet of her apartment, the phone still in her hand. She had found the woman who had saved the man's life. But Elena Vasquez wouldn't confirm it.
 
 The story remained unverified. The "DISPUTED" label remained. And Sarah was left with a question that had no easy answer:
 
 What was truth worth when the people who knew it wouldn't speak?
-
----
 
 The next day, Sarah received an email from the newspaper consortium. The FactCheck AI system had been updated. Her story was no longer just "DISPUTED." It was now labeled "LIKELY FALSE."
 
@@ -151,7 +137,5 @@ She thought about Elena Vasquez, who had helped a stranger and then disappeared.
 The truth was there. It had happened. But the algorithm couldn't see it.
 
 And Sarah had to decide: What was she going to do about it?
-
----
 
 **END OF CHAPTER 3**

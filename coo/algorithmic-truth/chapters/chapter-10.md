@@ -6,8 +6,6 @@ It wasn't a victory in the traditional sense. The algorithm still existed. It st
 
 Sarah looked at the story on her screen. The headline, the label, Martha's quote. Everything was there. The truth had happened. The algorithm had just learned to see it differently.
 
----
-
 That evening, Sarah sat in her apartment, reflecting on what had happened. The algorithm hadn't been defeated. It had been... updated. Adjusted. It had learned to see something it couldn't see before.
 
 And that was okay. That was progress. That was the beginning of a different relationship between truth and verification.
@@ -15,8 +13,6 @@ And that was okay. That was progress. That was the beginning of a different rela
 The question that had started everything—*What does it mean when a machine can question my truth?*—had been answered. Not with a final conclusion, but with a new understanding: Truth wasn't just what could be verified. It was also what couldn't be verified. What machines couldn't see. What happened in the spaces between records.
 
 And that was where real truth lived.
-
----
 
 Sarah opened her laptop and began to write. Not a news story this time, but a reflection on what she had learned.
 
@@ -36,8 +32,6 @@ Sarah opened her laptop and began to write. Not a news story this time, but a re
 
 *And maybe that's the most important kind of truth of all.*
 
----
-
 Sarah closed her laptop. Outside her window, the Iowa Valley night was quiet. A few cars passed on the street below. Somewhere in town, Martha Chen was going about her evening routine. Somewhere, Elena Vasquez was finishing a shift at the hospital. Somewhere, Harold Brennan was having dinner with his wife.
 
 Real people, living real lives, in a real town, where real things happened every day.
@@ -49,7 +43,5 @@ And that was okay. That was human. That was life.
 Sarah had made her choice. She had published her story. Not because an algorithm verified it, but because she believed it was true.
 
 And in the end, that was what mattered.
-
----
 
 **END OF BOOK: ALGORITHMIC TRUTH**

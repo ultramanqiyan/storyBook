@@ -23,8 +23,6 @@ He walked past Jennifer's office on the way to his desk. Her door was closed, th
 
 *What am I supposed to do?*
 
----
-
 By noon, David had forty-three unread emails.
 
 Client requests. Team questions. Project updates. Each one felt like a demand he couldn't meet. He'd opened the first few, started drafting responses, then stopped. What if he said the wrong thing? What if Jennifer would have handled it differently? What if he made a decision that turned out to be wrong?
@@ -50,8 +48,6 @@ David's mind raced. He needed time to prepare. Time to review. Time to... what? 
 The line went dead. David stared at his phone.
 
 *Concrete recommendations. Without Jennifer.*
-
----
 
 The rest of the day was a blur of hesitation and half-starts.
 

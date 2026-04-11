@@ -20,8 +20,6 @@ By 10:30, the crisis was resolved, the client was calmer, and her colleagues wer
 
 "Experience," she said, and it was true in a way—she had thirty-four years of experience not feeling what she should.
 
----
-
 The office kitchen smelled like burnt coffee and the artificial lemon of the cleaning spray someone had used on the counter. The fluorescent lights hummed overhead, casting a harsh white glow that made everything look slightly clinical. Sarah was reaching for a mug, the ceramic cool and smooth under her fingertips, when she heard it: the crack of porcelain, the splash of liquid, and then something else. A sound that came from Jennifer's throat, sharp and involuntary.
 
 Sarah turned. Jennifer was clutching her hand, blood welling up between her fingers where a shard of the broken mug had caught her palm. The red was vivid against the white porcelain fragments scattered across the counter, against the beige of Jennifer's cardigan where droplets had sprayed.
@@ -55,8 +53,6 @@ Sarah disposed of the bloody wipes, the broken mug fragments. She washed her han
 Jennifer nodded, still cradling her hand against her chest. "I will. And Sarah? Thanks." She smiled, and it was a real smile, warm and grateful, the kind of smile Sarah had learned to recognize but had never naturally produced.
 
 Sarah watched Jennifer leave, watched the way she was still protecting her injured hand, still moving carefully around the kitchen as if the whole world had suddenly become sharp and dangerous. *That,* Sarah thought. *That's what I'm missing. That's what being real feels like.*
-
----
 
 The garage was dark except for the glow of her phone, the cold concrete floor radiating chill through the soles of her shoes. Michael's voice came through like a lifeline she couldn't quite reach, warm and present through the tinny speakers. "How was your day?" he asked, and Sarah opened her mouth to answer with the truth—I watched someone bleed today and felt nothing—but what she said was, "Fine. The usual."
 
@@ -94,8 +90,6 @@ She hung up and sat in the dark, the phone's glow fading as the screen went blac
 
 She didn't have an answer. She never had an answer.
 
----
-
 Every night, Sarah conducted an inventory. Not of possessions, but of damage. She stood in front of the bathroom mirror, the light harsh and clinical, the bulbs she had chosen specifically for their clarity, and catalogued what her body had endured without her knowledge: the bruises, the cuts, the burns she only discovered after they'd already scabbed over.
 
 The bathroom light was harsh, clinical. She had chosen the bulbs specifically for this purpose, for the clarity they provided. She unbuttoned her blouse and examined her arms in the mirror. A small bruise on her left forearm, yellowing at the edges. She pressed her finger into it, watching the skin blanch white, then release. Nothing. No sensation, no confirmation that this mark was connected to her.
@@ -105,8 +99,6 @@ She removed her slacks and continued the inventory. A larger bruise on her right
 Tonight there were seven: a bruise on her left thigh (corner of her desk, probably Tuesday), a cut on her right palm (unknown origin), five smaller marks scattered across her arms and ribs. She traced each one with her finger, pressing hard enough that a normal person would have felt pressure, would have felt the boundary between self and world. She felt only the texture of her own skin, the slight give of flesh over bone.
 
 She turned off the light and stood in the darkness. *I am a ghost haunting my own life,* she thought, and the thought felt true in a way that nothing else did.
-
----
 
 The advertisement appeared between articles about office productivity and stress management, as if the algorithm knew what she needed before she did. Sarah had been scrolling without really reading, her mind half on the day's events and half on nothing at all, when the words caught her attention.
 

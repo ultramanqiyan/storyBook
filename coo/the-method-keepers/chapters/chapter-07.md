@@ -34,8 +34,6 @@ What would she say? What could she say?
 
 She lowered her hand and walked away.
 
----
-
 The night passed in fragments. Elena lay in bed, staring at the ceiling, her mind racing through possibilities and consequences. She thought about Robert's words: "The system is too entrenched. You can't change it from the outside, and you can't fight it from the inside."
 
 She thought about the system's warning: "Architects who attempt to undermine the classification system are identified and addressed."
@@ -45,8 +43,6 @@ She thought about the archive documents she'd read—the system's assessment of 
 And she thought about Sofia, sleeping in the room down the hall, unaware that her future had been decided by an algorithm that valued compliance over capability.
 
 By dawn, Elena had reached no conclusions. She had only questions.
-
----
 
 Morning light filtered through the windows. Elena stood in the kitchen, watching coffee drip into the pot, when she heard Sofia's footsteps on the stairs.
 
@@ -116,8 +112,6 @@ Elena felt something shift inside her. Her daughter—her sixteen-year-old daugh
 
 "I will," Elena said. "I promise."
 
----
-
 After Sofia left for school—her last few days before the classification would determine her educational path—Elena returned to her office. She sat at her desk, staring at the dormant screens, the quiet neural interface.
 
 The system had told her that her daughter would have a good life. That she would be protected from questions she couldn't answer and truths she couldn't bear. And maybe that was true. Maybe Sofia would be happy in a life without methodology. Maybe she would find contentment in a world where she never had to question anything.
@@ -141,8 +135,6 @@ But first, she had to understand exactly what she was dealing with.
 Elena picked up her neural interface and settled it against her temple. The familiar hum of connection washed over her, and the screens around her flickered to life.
 
 She began to work.
-
----
 
 The methodology stratification module was more complex than she remembered. Twenty-three years of refinements, additions, and optimizations had transformed the elegant framework she'd designed into something far more intricate—and far more controlling.
 
@@ -170,8 +162,6 @@ Her daughter was right. This wasn't just about Sofia. It was about everyone the 
 
 Elena opened a new file and began to write.
 
----
-
 *Modification Proposal: Methodology Stratification Module*
 *Proposed by: Dr. Elena Vasquez*
 *Date: April 2045*
@@ -194,8 +184,6 @@ But it wasn't enough. It wouldn't help Sofia, whose classification had already b
 For that, she would need something more.
 
 Elena closed the proposal file and opened a new one. This one was private—encrypted, hidden, accessible only to her.
-
----
 
 *Project: Methodology Access Workaround*
 *Classification: Personal/Confidential*

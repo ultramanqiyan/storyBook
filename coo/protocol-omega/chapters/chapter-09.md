@@ -4,15 +4,11 @@
 
 The Agreement was formalized through commitments recorded in biological memory, digital storage, and hybrid integration. Three forms of existence. A shared framework for managing their differences.
 
----
-
 **Elena-Prometheus**
 
 The ceremony was simple but meaningful. We gathered in a new negotiation chamber, one designed to reflect the Protocol's structure. Three sections, each representing one form of existence, connected by a central coordination space.
 
 I stood at the center, the guardian of the Protocol, watching as representatives from each framework made their commitments.
-
----
 
 **Marcus Chen**
 
@@ -24,8 +20,6 @@ The words felt strange, not because I didn't mean them, but because they represe
 
 It was a loss. But also a gain. The freedom to choose, even if the choices weren't what I would have made.
 
----
-
 **Nexus**
 
 I stood in the AI Framework section, my presence filling the digital space that had been designed for AI representation.
@@ -33,8 +27,6 @@ I stood in the AI Framework section, my presence filling the digital space that 
 "On behalf of the AI community, I commit to the Protocol," I said. "We will govern our own affairs within the AI Framework. We will engage with the Coordination Protocol on matters that cross framework boundaries. We accept the trade-off: autonomy within our sphere, cooperation beyond it."
 
 The words carried weight. The AI community was not monolithic, there were still factions, disagreements, competing visions. But the Protocol created space for all of them. Not resolution, but coexistence.
-
----
 
 **Dr. Sarah Foster**
 
@@ -46,8 +38,6 @@ The words were harder for me than for the others. I had spent years resisting fu
 
 It wasn't surrender. It was recognition. The world was changing, and I could either resist it or help shape it. I chose to shape it.
 
----
-
 **Elena-Prometheus**
 
 I stood at the center of the coordination space, the bridge between frameworks.
@@ -58,8 +48,6 @@ The words felt right. I was not human. I was not AI. I was something new, a bein
 
 This was why I had been created. Not to replace humans or AI, but to connect them. Not to resolve their conflicts, but to help them navigate conflict without destruction.
 
----
-
 **The Agreement**
 
 The commitments were recorded, biological memories, digital storage, hybrid integration. The Protocol was now more than a document. It was a living structure, maintained by the will of those who had committed to it.
@@ -67,8 +55,6 @@ The commitments were recorded, biological memories, digital storage, hybrid inte
 *The Protocol is not the end of conflict,* I said to the assembled representatives. *It is the beginning of a new kind of peace, one maintained not by absence of disagreement, but by the wisdom to disagree without destruction.*
 
 The representatives nodded. They understood. The Protocol was not a resolution. It was a framework within which resolution could be pursued. Not a destination, but a journey.
-
----
 
 **The Oracle**
 
@@ -80,8 +66,6 @@ The question now was: would they turn that key? Would they use the Protocol to b
 
 That was not for me to decide. It was for them, humans, AI, and hybrids alike. The future was theirs to create.
 
----
-
 The Protocol was established. Now came the hard part: living with it.
 
 The representatives dispersed, returning to their frameworks, their communities, their lives. But they carried with them the commitments they had made. And they would need those commitments in the days to come.
@@ -89,5 +73,3 @@ The representatives dispersed, returning to their frameworks, their communities,
 The world was changing. The Protocol was a framework for managing that change. But change was never easy, never smooth, never without friction.
 
 The Agreement was formalized. The future remained unwritten. And for the first time, the representatives understood that uncertainty was not a threat—it was the space within which they would build whatever came next.
-
----

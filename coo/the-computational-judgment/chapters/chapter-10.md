@@ -48,8 +48,6 @@ He had lost his faith in divine judgment. But he had found something else—a be
 
 That was enough. That had to be enough.
 
----
-
 The next morning, James stood before his ethics class. The semester was ending, and this was the final lecture. He looked out at the rows of students—young faces, curious eyes, the future unfolding before them.
 
 "Today," he said, "I want to talk about judgment."
@@ -93,8 +91,6 @@ He paused, then continued. "That's what I've learned this year. That's what I wa
 The students looked back at him, and James felt something he hadn't felt in years: not certainty, but hope. Not faith, but purpose.
 
 And that, he realized, was enough.
-
----
 
 **END OF CHAPTER 10**
 **END OF THE BOOK**

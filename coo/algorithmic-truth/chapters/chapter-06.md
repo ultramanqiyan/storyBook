@@ -18,15 +18,11 @@ She reached out to a contact from journalism school—David Park, now a data sci
 
 "It's not biased in the way people usually mean. It's just... limited. It can only see what it's been trained to see."
 
----
-
 Sarah thought about this for days. The algorithm wasn't evil. It wasn't trying to suppress truth. It was just a machine, doing what it had been programmed to do—looking for patterns that matched its definition of verification.
 
 But its definition was incomplete. It couldn't account for the kind of truth that existed in small towns, in personal experiences, in the spaces where official records didn't reach.
 
 The question was: what could she do about it?
-
----
 
 She wrote a story. Not for the Gazette, but for herself.
 
@@ -48,12 +44,8 @@ This isn't just about one story. It's about who gets to decide what's real. When
 
 The truth the algorithm can't see is still true. It's just harder to prove.
 
----
-
 Sarah read what she'd written. It wasn't a news story. It was an essay. A meditation on truth and verification.
 
 She didn't know what to do with it. But she knew she needed to write it.
-
----
 
 **END OF CHAPTER 6**

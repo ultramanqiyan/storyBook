@@ -86,8 +86,6 @@ He stood up. His legs felt unsteady.
 
 "Thank you, Mark," Jennifer said. Her voice was kind, but her eyes were cold. "I wish you the best."
 
----
-
 Mark walked out of the conference room. David walked beside him.
 
 They didn't speak.
@@ -107,8 +105,6 @@ He put the photo in the box and closed it.
 "I'm ready," Mark said.
 
 David nodded. "I'll walk you out."
-
----
 
 They walked to the elevator in silence.
 

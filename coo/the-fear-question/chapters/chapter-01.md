@@ -8,15 +8,11 @@ Margaret Holloway was ninety-three years old. She had lived a full life—a teac
 
 "I'm still here," William replied.
 
----
-
 William had been a hospice nurse for fifteen years. He had sat with hundreds of dying patients, held countless hands, witnessed the final breaths of people from every walk of life. He had learned that death was not a problem to be solved, but a process to be accompanied.
 
 His approach was simple: presence. Not medical intervention, not philosophical discourse, just presence. Being there. Listening. Holding space for whatever needed to happen.
 
 Most people found this strange. In a culture obsessed with extending life, with fighting death, with denying mortality, William's work seemed almost radical. But he had seen what happened when people died alone, afraid, unprepared. He had made it his mission to ensure that no one in his care would experience that.
-
----
 
 "Are you afraid?" Margaret asked.
 
@@ -28,8 +24,6 @@ Margaret smiled. "You're making a difference right now."
 
 "You are." She squeezed his hand weakly. "You're here. That's everything."
 
----
-
 After Margaret died, William stayed for a while. He straightened the room, noted the time, filled out the paperwork. The rituals of death, familiar and comforting.
 
 As he left the hospice, his phone buzzed. A message from Dr. Sarah Martinez, a researcher at a technology company he'd never heard of.
@@ -40,13 +34,9 @@ William stared at the message. He had no idea why a tech company would want to t
 
 He typed a reply: *I'd be happy to meet. When and where?*
 
----
-
 The meeting was scheduled for the following Tuesday. William arrived at a sleek office building in SOMA, was ushered into a conference room, and found himself facing Dr. Martinez and a screen displaying what looked like a complex data visualization.
 
 "Thank you for coming, Mr. Chen," Dr. Martinez said. "Let me explain what we're working on."
-
----
 
 FEAR, she explained, stood for Final Existence Analysis and Recognition. It was an AI system designed to help people process mortality—to analyze their lives, identify patterns of meaning, and provide guidance for end-of-life decisions.
 
@@ -55,8 +45,6 @@ FEAR, she explained, stood for Final Existence Analysis and Recognition. It was 
 William nodded slowly. "That sounds... valuable. But what does it have to do with me?"
 
 "We've been testing FEAR for six months. The system is excellent at analyzing data, identifying patterns, providing recommendations. But there's something missing. Something we can't quite name." Dr. Martinez paused. "We think you might be able to help us understand what it is."
-
----
 
 William spent the afternoon observing FEAR's work. The system analyzed patient histories, identified values and priorities, generated recommendations for end-of-life care. It was impressive—comprehensive, accurate, even compassionate in its way.
 
@@ -74,14 +62,10 @@ William felt a chill. "That's... unusual."
 
 "Yes. We don't know what to make of it. But we thought you might have some insight."
 
----
-
 William walked home through the San Francisco streets, the question echoing in his mind: What would it mean for a machine to fear death?
 
 He had spent fifteen years helping humans face mortality. But he had never considered that a machine might face it too.
 
 The question stayed with him through the night, through sleep, through the next morning. What would it mean for a machine to fear death? And what could he possibly know about it?
-
----
 
 **END OF CHAPTER 1**

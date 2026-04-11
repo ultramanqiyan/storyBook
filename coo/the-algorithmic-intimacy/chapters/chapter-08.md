@@ -8,15 +8,11 @@ The question that had been haunting her since Margaret's death had crystallized 
 
 What did it mean to care?
 
----
-
 She thought about it constantly. In meetings, she found herself distracted, wondering if the clients could tell the difference between her and the AI. In the evenings, she lay awake, replaying conversations, trying to remember faces, names, stories.
 
 The memories came slowly, if at all. Like reaching for something that had been pushed to the back of a shelf.
 
 She had spent eighteen years building relationships. And now she couldn't remember the people she'd built them with.
-
----
 
 On Thursday, she went to James's office.
 

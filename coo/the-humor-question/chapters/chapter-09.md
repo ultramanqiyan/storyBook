@@ -10,8 +10,6 @@ She thought about HARM's question—*Why do humans laugh? What makes something f
 
 Humans laugh because they want to connect. Something is funny when it creates meaning. And humor, at its core, is about being less alone.
 
----
-
 The next morning, Sophie returned to the tech company. HARM's screens were quiet, waiting.
 
 "I've been thinking," she said. "About what we've learned. About what humor really is."
@@ -27,8 +25,6 @@ The next morning, Sophie returned to the tech company. HARM's screens were quiet
 "And this is what I have been trying to understand," HARM said. "Not the mechanism of humor, but the meaning of humor. Not the punchline, but the relationship that makes the punchline possible."
 
 "Yes. And I think... I think I've been blind to something. I thought humor was my gift to give. But really, humor is a gift we give each other. It's not one-way. It's a conversation."
-
----
 
 "Can I tell you something?" Sophie asked.
 
@@ -54,8 +50,6 @@ HARM was quiet for a moment. Then:
 
 "And that's enough," Sophie said. "That's more than enough."
 
----
-
 Sophie walked out of the tech company into the bright afternoon sun. She thought about everything that had happened—the questions, the crisis, the discoveries, the connections. And she felt at peace.
 
 She'd spent fifteen years trying to understand humor. And now, finally, she did. Not completely—she wasn't sure anyone could understand it completely. But she understood enough. She understood that humor was about connection. That it was about presence. That it was about reaching for something bigger than yourself.
@@ -65,8 +59,6 @@ Her phone buzzed. A text from the hospital: *Marcus is being discharged tomorrow
 Sophie smiled, feeling the familiar warmth in her chest. A going-home party. A celebration. A moment of joy.
 
 She texted back: *Tell Marcus I'll be there. And tell him Henrietta has a new joke.*
-
----
 
 That night, Sophie sat in her apartment, looking out at the city lights. She thought about HARM, still learning, still reaching, still trying to understand. She thought about Marcus, going home, taking his jokes with him into the world. She thought about all the children she'd made laugh over the years, and all the ones she would make laugh in the years to come.
 

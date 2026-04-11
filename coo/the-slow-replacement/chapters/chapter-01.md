@@ -12,8 +12,6 @@ Routine. Predictable. Safe.
 
 That was about to change.
 
----
-
 The Slack notification appeared at 8:23 AM.
 
 Marcus was at his desk, a standing desk in TechFlow's open office, his mechanical keyboard clicking as he worked through the code review. The notification dot pulsed in his peripheral vision—a small red circle that seemed more insistent than usual.
@@ -53,8 +51,6 @@ Marcus felt a chill run through him. "What AI tool?"
 Marcus turned back to his screen, his hands suddenly cold on the keyboard. "That's just a tool," he said. "Like autocomplete on steroids. It can't replace actual developers."
 
 "Can't it?" David's smile was bitter. "We'll see."
-
----
 
 At 10:00 AM, the entire company gathered in the main conference room.
 

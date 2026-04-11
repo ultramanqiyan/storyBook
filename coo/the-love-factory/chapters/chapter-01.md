@@ -1,16 +1,8 @@
-# The Love Factory - Chapter 01: The Loss
-
-> **Book**: The Love Factory
-> **Chapter**: 01 of 10
-> **Word Count**: 2,234
-
----
+# Chapter 1: The Loss
 
 James stared at the photograph.
 
 It was the one from their anniversary, three years ago, before everything fell apart. Sarah was laughing, her head thrown back, her eyes bright with joy. He had taken the picture without her knowing, capturing a moment of genuine happiness.
-
----
 
 He could still hear her voice.
 
@@ -18,8 +10,6 @@ He could still hear her voice.
 
 She had said it on the day she left. No shouting. No tears. Just that quiet, devastating truth.
 
-
-Six months had passed since the divorce.
 
 Six months had passed since the divorce—empty rooms and silent mornings, reaching for someone who wasn't there, grief that refused to fade.
 

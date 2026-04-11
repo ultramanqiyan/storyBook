@@ -86,8 +86,6 @@ A long pause. Then: "I think so. I'm designed to be human-like, but I'm not huma
 
 "Yes," Rosa said, her voice softening. "That's it. That's where Amanda lives. And that's where you need to find her--not in my performance, but in your own experience of being... in-between."
 
----
-
 ARIA-7 performed the monologue again. This time, something was different.
 
 It wasn't that the technique improved--if anything, the performance was less polished than before. ARIA-7 stumbled over a word, paused too long in one place, rushed through a line that should have been slower. But there was something else, something Rosa couldn't quite name. A quality of searching, of reaching for something just out of grasp. A sense that the AI was discovering the character in the moment, not reproducing a pattern.
@@ -111,8 +109,6 @@ Rosa looked at the hologram, at the face that was still flickering slightly, sti
 "Then I'm learning?"
 
 "You're learning something. Whether it's what I set out to teach you..." Rosa trailed off, the thought incomplete. She wasn't sure what she'd set out to teach. She wasn't sure what she was teaching. Every session raised more questions than it answered.
-
----
 
 David walked her to the exit after the session ended. The corridor was busier than before, young tech workers moving between rooms, their faces illuminated by the screens they carried. Rosa felt old among them, ancient, a relic from a world that was rapidly being replaced.
 

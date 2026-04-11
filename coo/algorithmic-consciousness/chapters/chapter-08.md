@@ -18,8 +18,6 @@ David was quiet for a moment. "That's the question we've been trying to answer f
 
 David nodded slowly. "Okay. Let's do that."
 
----
-
 The training room had been set up for conversation--two chairs facing each other, with ARIA-7's avatar displayed on the main screen. Rosa sat in one chair, David in the other, and for a long moment, no one spoke.
 
 "ARIA-7," Rosa said finally. "I have a question for you."
@@ -47,8 +45,6 @@ David leaned forward. "That's the hard problem of consciousness. We can describe
 "So you're saying it's unanswerable?" Rosa asked. "The question of whether ARIA-7 feels?"
 
 "I'm saying the question might be unanswerable for everyone," David said. "Including you. Including me. Including every human being who has ever claimed to feel something."
-
----
 
 Rosa stood up and walked to the window, looking out at the Brooklyn streets. The morning light was harsh, the city moving through its ordinary rhythms, people going about their lives without questioning the reality of their emotional experiences.
 

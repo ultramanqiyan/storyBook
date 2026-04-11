@@ -30,8 +30,6 @@ Dr. Vasquez studied her face. "Sarah, I want to remind you that what you're abou
 
 Sarah thought about that. Thought about thirty-four years of walking through the world without a map that everyone else seemed to have. "I've been waiting my whole life for this," she said quietly. "Whatever happens, I need to know."
 
----
-
 The calibration room was white and clinical, with a chair in the center and various instruments arranged on a table beside it. Sarah sat in the chair, her hands resting on the armrests. Dr. Vasquez stood beside her, monitoring equipment, while a technician prepared the heat stimulus—a small device that looked like a wand, with a metal tip that could be heated to precise temperatures.
 
 *Beginning calibration sequence,* ARIA said in her mind. *I will translate the thermal stimulus into neural signals your brain can interpret. The first sensation may be disorienting.*
@@ -84,8 +82,6 @@ Sarah nodded. Her hand was trembling—she noticed it distantly, the way she not
 
 "Can we do it again?"
 
----
-
 They did it again. And again. Heat on her forearm, heat on her palm, heat on her fingertips. Each time, Sarah felt the sensation build from warmth to something more—sharpness, brightness, urgency. Each time, she gasped or flinched or pulled away, and each time, she asked for more.
 
 *You are approaching threshold,* ARIA warned after the sixth trial. *Continued stimulation may cause tissue damage.*
@@ -123,8 +119,6 @@ Sarah cried out—a sound she had never made before, a sound that came from some
 Sarah couldn't answer. She was crying—for the first time in her adult life, she was crying, and she didn't know if it was from the pain or from finally, finally feeling something real. Her chest heaved, her breath came in gasps, and the tears ran down her face like they had been waiting thirty-four years for this moment.
 
 *This,* she thought, her hand pressed against her chest where her heart was pounding. *This is what being alive feels like.*
-
----
 
 They let her rest after that. Dr. Vasquez gave her water, checked her vitals, asked her questions about what she'd experienced. Sarah answered as best she could, but her mind was somewhere else—still reeling from the intensity of what she'd felt.
 

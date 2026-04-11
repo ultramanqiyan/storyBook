@@ -28,8 +28,6 @@ The silence on the line was deafening. David could hear his own heartbeat, feel 
 
 *This is it. The test. Do I trust myself or not?*
 
----
-
 He put Karen on hold and stood up, pacing his empty office.
 
 The old patterns screamed at him. Find someone. Anyone. Email the partners. Call Dr. Webb. Text Rachel. Get validation. Get permission. Get someone else to make this call.
@@ -61,8 +59,6 @@ This was bigger. Scarier. More visible.
 But it was the same principle. Trust his judgment. Make a decision. Stand behind it.
 
 He picked up the phone.
-
----
 
 "Karen, I'm going to recommend we accelerate the team lead structure."
 

@@ -6,8 +6,6 @@ He had thought about it day and night. He had replayed the simulation results in
 
 The weight of the decision was almost unbearable. If he released the archive, he would be responsible for the chaos that followed. If he didn't, he would be responsible for the continued castration of science.
 
----
-
 He went to visit his father on the third day, hoping for guidance.
 
 Benjamin Foster was working on his quantum gravity problem when Marcus arrived. The kitchen table was covered in papers, equations spilling across the surface in his father's precise handwriting.
@@ -34,15 +32,11 @@ Marcus stared at his father, really seeing him for the first time in years. Not 
 
 "Every day." His father's voice was quiet. "But I would do it again. Because some things are worth fighting for, even when you lose."
 
----
-
 Marcus left his father's apartment and walked through the Berkeley streets. The afternoon sun was warm, the sky clear. Students hurried past, carrying books and tablets, their minds full of simplified science.
 
 He thought about the Shudra students, about how they had been taught to accept science without question. He thought about the system, about how it had turned science into a tool of control. He thought about his daughter Sarah, about how she deserved to grow up in a world where she could question everything.
 
 And he thought about his father, about how he had spent decades in exile for standing up for the scientific method. About how he had never stopped fighting, even when the fight was hopeless.
-
----
 
 Back at home, Marcus sat in his office, the archive glowing on his screen. The weight of the decision was still there, but now it was accompanied by a sense of resolve.
 
@@ -51,8 +45,6 @@ He pulled up the simulation results one more time. The numbers were clear: if he
 But there was something else in the simulation, something he hadn't noticed before. In the moderate release scenario—the one where a few thousand people gained access to real science—the results weren't catastrophic. There was disruption, yes. Conflict. Unrest. But there was also something else: progress. People learning to question. People discovering the scientific method. People pushing back against dogma.
 
 It wasn't liberation. It wasn't revolution. But it was something.
-
----
 
 The doorbell rang.
 
@@ -76,8 +68,6 @@ Marcus felt his heart rate quicken. "How did he—"
 
 "He's your father. He knows you better than you think." Rachel met his eyes. "Look, I don't know what you're planning. But I know there are others like me. People who want to learn real science. People who are willing to fight for it. If you release that archive, you won't be alone."
 
----
-
 Marcus stood in his office, the archive glowing on his screen, Rachel's words echoing in his mind.
 
 He thought about his father, about the decades of exile, the years of teaching in secret, the students who had found their way to him despite the system's best efforts.
@@ -87,8 +77,6 @@ He thought about Rachel, about the others like her who were hungry for real scie
 He thought about his daughter Sarah, about the world she would inherit, about the kind of father he wanted to be.
 
 And he thought about the scientific method—the process of questioning, testing, refining that had driven every major discovery in human history. The process he had spent fifteen years stripping away from every paper that crossed his desk.
-
----
 
 The threshold stretched before him. On one side: scientific integrity, the right to question, the foundation of knowledge. On the other: social stability, the prevention of chaos, the system he had served.
 
@@ -102,8 +90,6 @@ He smiled bitterly. Because that's what science is, he thought. That's what it's
 
 He made his choice.
 
----
-
 The archive released into the network at 7:23 PM on a Tuesday evening.
 
 By Wednesday morning, three thousand people had accessed it. By Wednesday evening, ten thousand. By the end of the week, the number had reached fifty thousand.
@@ -112,9 +98,7 @@ The system noticed. The Brahmin council noticed. Marcus was called before a disc
 
 But by then, it was too late. The archive was out. Real science, with all its complexity and uncertainty and doubt, was spreading through the network like a virus.
 
-And somewhere in Berkeley, an old physicist smiled as he watched his life's work finally come to fruition.
-
----
+In Berkeley, an old physicist smiled as he watched his life's work finally come to fruition.
 
 Six months later, Marcus sat in his father's kitchen, watching Rachel Torres explain quantum entanglement to a group of Shudra students.
 
@@ -136,8 +120,6 @@ Marcus watched Rachel explain the double-slit experiment, watched the students' 
 
 "No. But it's a start." His father smiled. "And that's all science ever is. A start. A question. A hypothesis. The beginning of something, not the end."
 
----
-
 That evening, Marcus walked home through the Berkeley streets. The sun was setting, painting the sky in shades of orange and pink.
 
 He thought about the chaos that had followed the archive's release—the protests, the debates, the conflicts. He thought about the people who had struggled with real science, who had found the uncertainty overwhelming.
@@ -147,8 +129,6 @@ But he also thought about the people who had thrived. The students like Rachel. 
 The system was still there. The classification still existed. But something had changed. A crack had appeared in the wall. A small one, but a crack nonetheless.
 
 And through that crack, the light of real science was beginning to shine.
-
----
 
 Marcus arrived home to find his daughter Sarah waiting for him.
 
@@ -161,8 +141,6 @@ Marcus arrived home to find his daughter Sarah waiting for him.
 Marcus felt something warm spread through his chest. "That's what science is supposed to do."
 
 "I know." Sarah smiled. "Thanks, Dad. For giving me the chance to learn."
-
----
 
 That night, Marcus sat at his desk and opened his laptop. The archive was still spreading, still reaching new people, still teaching real science.
 

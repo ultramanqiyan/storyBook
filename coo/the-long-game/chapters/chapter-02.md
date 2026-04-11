@@ -8,8 +8,6 @@ He checked the clock: 7:43 AM. Plenty of time to finish the remaining features b
 
 Speed wasn't just his method—it was his identity. And right now, he was winning.
 
----
-
 The first problem appeared at 10:15 AM.
 
 It was small—a data validation issue that should have been caught in testing. But there hadn't been time for proper testing, not with the compressed timeline. Michael fixed it in fifteen minutes and moved on.
@@ -29,8 +27,6 @@ He pulled up the project management tool and looked at the remaining tasks. Feat
 The answer came quickly: edge case testing. The system worked for the happy path. The edge cases could be fixed in production, after the demo. That was the startup way. Ship fast, iterate later.
 
 He made the decision and kept coding.
-
----
 
 Wednesday morning. The dashboard was 95% complete. Michael had been working since 5 AM, fueled by coffee and determination.
 

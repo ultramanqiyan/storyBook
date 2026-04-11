@@ -18,8 +18,6 @@ The cursor blinked, patient and indifferent.
 
 Riley closed the email and opened a spreadsheet instead. There was data to analyze, reports to format, the comfortable rhythm of assigned work. The opportunity would still be there later. There was time. There was always time.
 
----
-
 The team meeting was scheduled for 2:00 PM. Riley arrived early, as usual, taking the familiar spot near the wall. The conference room filled gradually—colleagues settling into chairs, laptops opening, small talk about weekend plans and project updates.
 
 Marcus stood at the front, his posture relaxed but confident. "Thanks everyone for coming. I wanted to discuss the hospital network initiative I mentioned in my email. This is a significant opportunity for our team to contribute to a strategic priority. We need someone to own this."
@@ -40,8 +38,6 @@ Riley watched the exchange, the words forming and dissolving in the space where 
 
 But David had spoken. And Riley had not.
 
----
-
 After the meeting, Riley returned to their desk and sat motionless, staring at the screen. The familiar tasks waited—data to analyze, reports to format—but they looked different now. Smaller. Less meaningful.
 
 David walked by, his step lighter than usual, a small smile on his face. He was already on his way to meet with Marcus, to begin the project that should have been Riley's.
@@ -55,8 +51,6 @@ The answers came in fragments: fear, habit, the deep-seated belief that opportun
 Riley opened the email again, read the words one more time. High-visibility. Leadership role. The opportunity was gone now, claimed by someone who had done what Riley couldn't—speak up, step forward, take a risk.
 
 The cursor blinked on an empty reply box. Riley closed it without typing.
-
----
 
 That evening, Riley sat in the apartment, the silence louder than usual. The takeout container sat on the counter, untouched. The phone screen glowed with the usual social media feeds, but Riley wasn't really seeing it.
 
@@ -86,8 +80,6 @@ What would it take to break out? To stop waiting and start acting? To say the wo
 
 Riley didn't know. But for the first time, the question felt urgent. Not just a passing thought, but a demand.
 
----
-
 The next morning, Riley arrived at 8:15, as always. The office was quiet, the familiar rhythm of the day beginning. But something had shifted overnight—a small restlessness that wouldn't settle.
 
 At 9:00, David walked by Riley's desk, his face bright with purpose. "Hey, Riley. Do you have a minute? I'm putting together the project plan for the hospital initiative, and I could use some input on the data analysis piece. You're the best person I know for that."
@@ -107,3 +99,5 @@ Riley didn't have an answer yet. But the question was there, persistent and dema
 What would happen if I stopped?
 
 The question hung in the air. And this time, Riley didn't push it away.
+
+**END OF CHAPTER 2**

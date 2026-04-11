@@ -1,16 +1,8 @@
-# The Love Factory - Chapter 04: The Question
-
-> **Book**: The Love Factory
-> **Chapter**: 04 of 10
-> **Word Count**: 2,198
-
----
+# Chapter 4: The Question
 
 Two weeks passed.
 
 Hope settled into the apartment with surprising ease. She learned where everything was kept. She developed preferences, she liked coffee in the morning, tea in the afternoon. She preferred the window seat when they watched movies.
-
----
 
 James watched her become more real every day.
 

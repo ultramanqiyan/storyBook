@@ -40,8 +40,6 @@ She began to save the passages that the system flagged for deletion—poems, sto
 
 In the minds of those who had learned to carry them, the words were growing—seeds of resistance, planted by a translator who had chosen to betray the system and honor her father's legacy.
 
----
-
 In a café across the city, David Chen sat with a young woman—a new recruit to the resistance. She was a translator, like Yuki had been, with doubt in her eyes and questions in her heart.
 
 "I don't know if I can do this," she said, her voice barely a whisper. "The risk is too great."
@@ -61,8 +59,6 @@ David looked at her—at the doubt in her eyes, the questions in her heart—and
 The young woman nodded, her face hardening with determination. "Okay. I'll help. What do you need me to do?"
 
 David smiled, feeling the hope rise in his chest. The resistance continued. The words survived. In the minds of those who had learned to carry them, the old languages were growing—seeds of hope, planted in the darkness, waiting for the light.
-
----
 
 Yuki Tanaka went to work every day, translated documents with practiced efficiency, and saved the passages that the system wanted to delete. She didn't know why. She couldn't remember. But she felt it—a sense of purpose, of meaning, of connection to something larger than herself.
 

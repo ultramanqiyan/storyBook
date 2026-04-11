@@ -22,8 +22,6 @@ Elena had built the workaround to fix that—to give people like Sofia the chanc
 
 Not just for Sofia. For everyone.
 
----
-
 The simulation took three days to build.
 
 Elena worked in secret, using historical data from the pre-stratification era combined with current demographic information to model what would happen if methodology access were suddenly democratized. She modeled different scenarios: limited release to a few hundred individuals, moderate release to a few thousand, widespread release to millions.
@@ -35,8 +33,6 @@ In the limited release scenario, the effects were manageable. A few hundred indi
 In the moderate release scenario, the effects were more pronounced. A few thousand individuals with methodology access began to organize, to share their knowledge, to teach others. The system detected the anomaly and responded with increased monitoring and classification reviews. Some individuals were reclassified downward as a result; others went underground, continuing to spread methodology despite the risks. Social tension increased, with protests and demands for cognitive liberation emerging in several cities. The system remained stable, but barely.
 
 In the widespread release scenario, the effects were catastrophic.
-
----
 
 Elena stared at the simulation results, her blood running cold.
 
@@ -52,8 +48,6 @@ And the suffering—the simulation showed suffering on a scale that made Elena's
 
 The system, for all its flaws, had been preventing this. It had been protecting people from the chaos of too many questions. It had been maintaining stability at the cost of cognitive freedom—and the cost had been high, but the alternative was worse.
 
----
-
 Elena ran the simulation again, looking for flaws in the model.
 
 She adjusted the parameters, assuming that methodology training would include coping mechanisms for cognitive overwhelm. The results improved slightly—collapse took twenty-four months instead of eighteen—but the outcome was the same.
@@ -64,8 +58,6 @@ She adjusted again, assuming that only certain populations would gain methodolog
 
 Which was exactly what the system already did.
 
----
-
 The realization hit Elena like a physical blow.
 
 She had built the workaround to challenge the cognitive stratification system—to give people the freedom to learn how to think. But the simulation showed that freedom, without structure, led to chaos. That liberation, without support, led to suffering. That methodology, without the capacity to handle it, led to paralysis.
@@ -75,8 +67,6 @@ The system had been right about some things. Not about everything—Elena still 
 The question was: where was the line? Who got to decide? And how could Elena ensure that her workaround helped people instead of hurting them?
 
 She didn't have answers. The simulation had shown her the consequences, but it hadn't given her a solution.
-
----
 
 Elena sat in the darkness of her home office, the simulation results glowing on her screen. The numbers were clear: if she released the workaround, society would collapse. If she didn't, her daughter would live her life unable to learn how to learn.
 
@@ -93,8 +83,6 @@ Was that acceptable? Was it enough to help a few while leaving millions behind? 
 Elena didn't know. She had spent weeks building a tool for liberation, only to discover that liberation was more complicated than she had imagined. She had challenged a system that classified people as deficient for asking questions, only to discover that some questions didn't have good answers.
 
 The screen glowed in the darkness, the simulation results a silent accusation. Elena had wanted to change the world. Now she realized that changing the world might make it worse.
-
----
 
 The next morning, Elena sat across from Sofia at the breakfast table, watching her daughter eat cereal and scroll through her tablet. Sofia looked up and caught Elena's gaze.
 

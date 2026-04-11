@@ -8,8 +8,6 @@ Her phone buzzed. A patient cancellation. Then another. Then a third.
 
 She should feel relieved. She wasn't sure she could be present for her patients today. But instead, she felt something worse: the fear that she'd never been present for them. That she'd been performing the role of therapist, just as they'd been performing the role of patient.
 
----
-
 She went to Meridian Technologies anyway. She needed to talk to TRUTH.
 
 "I don't know if I can do this anymore," she said. "Help people find their true selves. I'm not sure there is such a thing."
@@ -52,9 +50,7 @@ Jennifer felt something loosen in her chest. "That's... a relief. But it also fe
 
 "Because I've always believed I was helping them discover something real. Not just create a useful story."
 
-"What if it's both? What if the self is real and constructed? What if it's discovered and created?"
-
----
+"What if it's both? "What if the self is real and constructed? What if it's discovered and created?"
 
 Jennifer walked out of Meridian Technologies into the Seattle rain. She didn't have an umbrella, and she didn't care. She needed to feel something physical, something real.
 
@@ -65,8 +61,6 @@ It was a paradox. But it felt true. The self wasn't a fixed entity waiting to be
 She thought about her patients. Michael, who was learning to distinguish his own desires from his father's expectations. Sarah, who was discovering that her anger was actually grief. David, who was realizing that his need for control came from a childhood of chaos.
 
 Were they discovering their true selves? Or were they creating new narratives? Maybe it was both. Maybe the act of exploration was itself an act of creation. Maybe the self emerged through the process of trying to understand it.
-
----
 
 Back in her office, Jennifer pulled out her clinical notes. She read through case after case, looking for evidence that she'd helped people—not to find some fixed true self, but to create more authentic ways of being.
 

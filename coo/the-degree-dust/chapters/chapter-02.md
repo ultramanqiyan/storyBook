@@ -16,8 +16,6 @@ He lay in bed, staring at the ceiling, while his wife Emily slept beside him. Th
 
 What was the point of learning when everything was already known?
 
----
-
 The next morning, Michael decided to find answers.
 
 He started with Dr. Sarah Martinez, a professor of education who had been studying AI's impact on learning. She'd published a paper last year titled "The End of Knowledge: Education in the Age of Infinite Information." He'd meant to read it but hadn't found the time.
@@ -58,8 +56,6 @@ Sarah nodded slowly. "That's the question everyone in education is asking. We bu
 
 "Meaning. Purpose. Connection. The things that AI can't provide." She turned back to him. "The question isn't 'why should I learn.' The question is 'what should I become.' And we've never been very good at answering that."
 
----
-
 Michael left her office with more questions than answers.
 
 He walked across campus, observing the students who were still there. They moved between buildings, carrying backpacks, checking phones, living the college experience that had been the norm for generations.
@@ -98,8 +94,6 @@ The students weren't there for knowledge. They were there for time—for a space
 
 Was there a way to provide the same thing without the debt, without the outdated model, without the pretense that knowledge was the product?
 
----
-
 That evening, he found Alex in the kitchen, making dinner.
 
 "Can we talk?" Michael asked.
@@ -136,8 +130,6 @@ Alex considered this. "That sounds more interesting than college."
 
 "I don't know. But maybe we could figure it out together."
 
----
-
 They talked late into the night, father and son, exploring questions that had no easy answers.
 
 What was education for? What did it mean to learn? What did it mean to grow?
@@ -153,8 +145,6 @@ Alex shared his own frustrations—the pressure to have everything figured out, 
 "Like what?"
 
 "I don't know yet. But I'm going to find out."
-
----
 
 The next morning, Michael returned to his office with a new purpose.
 

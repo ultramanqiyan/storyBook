@@ -28,8 +28,6 @@ The words hit Sarah like a physical blow. A friend.
 
 They said their goodbyes, and Sarah hung up the phone.
 
----
-
 She sat at her desk, staring at the wall.
 
 Margaret was gone. The woman who had been her client for twelve years, who had shared stories about her third-grade students, who had talked about her late husband Harold with such love.
@@ -55,8 +53,6 @@ The information was accurate. But it felt clinical. Like reading a Wikipedia ent
 She closed her eyes and tried to remember Margaret without the screen. The stories she'd told. The way she'd laughed. The sound of her voice on the phone last week, thanking Sarah for remembering her birthday.
 
 The memories came, but barely. Like fragments of a dream she couldn't quite hold onto.
-
----
 
 That evening, she stayed late at the office.
 

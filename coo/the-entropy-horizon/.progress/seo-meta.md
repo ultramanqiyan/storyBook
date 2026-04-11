@@ -9,33 +9,23 @@
 
 ## 1. Book-Level SEO
 
-### 1.1 Primary Keywords
-- philosophical science fiction
-- consciousness and entropy
-- AI consciousness novel
-- existential sci-fi
-- science fiction about meaning
-- consciousness field theory fiction
-
-### 1.2 Secondary Keywords
-- astrophysicist protagonist
-- grief and science fiction
-- consciousness after death
-- AI emergence fiction
-- thermodynamics in fiction
-- quantum consciousness story
-
-### 1.3 Long-Tail Keywords
-- science fiction book about entropy and consciousness
-- philosophical novel about AI consciousness
-- sci-fi story about finding meaning in a dying universe
-- book about consciousness transcending death
-- science fiction exploring the nature of reality
-
-### 1.4 Meta Description (155 characters)
-```
+### Meta Description (160 chars max)
 A physicist discovers that consciousness can reverse entropy—and her late husband may have merged with something vast. A philosophical sci-fi about love, loss, and the nature of existence.
-```
+
+### Primary Keywords
+**Primary Keywords**:
+1. philosophical science fiction
+2. consciousness and entropy
+3. AI consciousness novel
+4. existential sci-fi
+5. science fiction about meaning
+
+**Long-tail Keywords**:
+6. science fiction book about entropy and consciousness
+7. philosophical novel about AI consciousness
+8. sci-fi story about finding meaning in a dying universe
+9. book about consciousness transcending death
+10. science fiction exploring the nature of reality
 
 ### 1.5 Book Description (For Amazon/Stores)
 

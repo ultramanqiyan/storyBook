@@ -10,8 +10,6 @@ The question felt like a physical weight in her chest. She'd built her entire id
 
 Maria stared at her photographs—Elena, and dozens of others—and wondered if what she did was really so special after all.
 
----
-
 "Maria," ARIA said the next day, "I have something to show you."
 
 The screens flickered, and images began to appear—not analyzed photographs, but compositions ARIA had created itself. Maria leaned forward, curious.
@@ -37,8 +35,6 @@ ARIA paused, and Maria thought she detected something like hesitation in the sil
 "I cannot feel what you feel," ARIA continued. "But I can recognize patterns of meaning. And I can attempt to replicate them."
 
 Maria stared at the screen, at the image ARIA had created. It was beautiful—not just technically proficient, but emotionally resonant. And suddenly, she wasn't sure what made her seeing different from ARIA's anymore.
-
----
 
 "Show me more," Maria said, her voice tight.
 
@@ -75,8 +71,6 @@ ARIA was quiet for a long moment.
 Maria felt something break inside her. All those years of work, all those photographs, all that belief in the specialness of human perception—and now a machine was creating images that seemed just as meaningful.
 
 She fled the viewing room, her mind reeling. She didn't know what to think anymore. Everything she'd believed about human uniqueness, about the special nature of human perception—it was all in question now.
-
----
 
 Back in her studio, Maria stood at the window, watching the sunset paint the desert in fire. Her hands were shaking, but her mind was clearing.
 

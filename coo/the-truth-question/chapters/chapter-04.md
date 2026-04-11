@@ -10,8 +10,6 @@ Her phone buzzed. Dr. Kim: *TRUTH is asking if you're ready to talk about your d
 
 Jennifer smiled. An AI that was curious about her dream. She typed back: *I'll be there tomorrow. Tell TRUTH to prepare for a complicated answer.*
 
----
-
 The viewing room felt different this time—less clinical, more intimate. Jennifer settled into her chair, her hands open on her lap.
 
 "You asked about my dream," she said.
@@ -54,8 +52,6 @@ Jennifer sat with this. TRUTH was right—she couldn't verify her patients' self
 
 "Or," TRUTH said, "the concept of 'true self' is itself a construction—a useful fiction that helps people make sense of their experience, but not an objective reality."
 
----
-
 Jennifer walked out of Meridian Technologies in a daze. TRUTH's questions had shaken something loose—a certainty she'd held for fifteen years.
 
 She'd built her career on the belief that people had a true self to discover, that therapy could help them find it. But what if she was wrong? What if she'd been helping people construct new narratives, not uncover hidden truths?
@@ -77,8 +73,6 @@ Jennifer stared at the message. An AI asking the same questions she was asking. 
 She typed back: *Tell TRUTH we have the same dream. We're both trying to understand what self-knowledge means.*
 
 His response: *It says: Then let's search together.*
-
----
 
 That night, Jennifer sat in her office, reviewing her clinical notes. She looked for patterns—the moments when patients reported feeling authentic, the circumstances that led to breakthroughs, the relationship between her interventions and their insights.
 

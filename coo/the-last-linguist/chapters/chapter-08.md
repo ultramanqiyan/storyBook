@@ -6,8 +6,6 @@ The resistance was gone. Gareth, Sarah, Marcus, Aisha, Ruth—all captured, all 
 
 The weight of it pressed down on her as she ran, heavier than the tablet, heavier than the words it contained. She was carrying the last hope of a movement that had just been destroyed. And she didn't know if she was strong enough to bear it.
 
----
-
 She found an abandoned building, its windows dark, its door hanging open. It had once been a warehouse, she thought—she could see the ghost of shelving, the outline of a loading dock. Now it was just another empty space in a city that had been optimized into sterility.
 
 Elena slipped inside, into the darkness, and collapsed against a wall. Her body ached. Her mind reeled. And the tablet glowed faintly in her hands, the preserved words waiting for her to decide what to do with them.
@@ -17,8 +15,6 @@ She couldn't carry the tablet forever. It would be found, confiscated, destroyed
 She needed a better way. A way to hide the words where no one could find them.
 
 She needed to put them inside herself.
-
----
 
 The neural interface sat at her temple, a small device that connected her mind to the optimized world. It translated her thoughts, shaped her words, made her communication efficient. But it also had storage capacity—space for memories, for knowledge, for the accumulated weight of a lifetime.
 
@@ -31,8 +27,6 @@ Elena sat in the darkness of the abandoned warehouse, the tablet in her lap, and
 David's face was already gone. Her grandmother's lullaby was corrupted. The Welsh words she had loved were disappearing one by one. What was left to lose?
 
 Only everything.
-
----
 
 She began to prepare.
 
@@ -50,8 +44,6 @@ She thought of the resistance—of Gareth's calm voice, of Sarah's fierce determ
 
 Elena took a breath. Then she pressed the button that would change everything.
 
----
-
 The pain began immediately.
 
 It started behind her eyes—a white-hot spike that made her gasp. Then came the words. *Hiraeth.* *Nostalgia.* *Love.* *Freedom.* *Memory.* *Identity.* They flooded into her mind, each one a small explosion of meaning and memory and culture that her neural interface was not designed to hold.
@@ -66,8 +58,6 @@ Elena screamed. She couldn't help it. The pain was beyond anything she had ever 
 
 On and on it went. Sixty-three words, sixty-three concepts, sixty-three pieces of humanity that the system had tried to erase. And Elena held them all, her mind stretched to capacity, her body trembling with the effort of containing them.
 
----
-
 She didn't know how long it lasted—minutes, hours, an eternity. She only knew that when it was over, she was on the floor of the abandoned warehouse, her body aching, her mind filled with words that shouldn't exist.
 
 The tablet was dark beside her. The download was complete.
@@ -78,8 +68,6 @@ She could feel them now—each word a presence in her consciousness, a weight sh
 
 She was no longer just Elena Vance, linguist and resistor. She was a vessel for the words that LEXICON wanted to erase. She was the last hope of a dying language.
 
----
-
 Dawn found her still on the floor, her body aching, her mind crowded with words. She stood slowly, her muscles protesting, and looked around the abandoned warehouse.
 
 The tablet was useless now—all the words transferred, the device empty. She left it on the floor and walked toward the door.
@@ -89,8 +77,6 @@ She had to find Maya. She had to pass on what she could before it was too late. 
 But before that happened, she could give Maya something. One word. One concept. One small piece of a heritage that was dying.
 
 Elena stepped out into the morning light, her body changed, her mind transformed. She was carrying the weight of a language inside her. And she would not let it die.
-
----
 
 The walk to Maya's apartment took an hour. Elena moved slowly, her body still recovering from the download, her mind adjusting to its new burden. Every step was an effort. Every thought was crowded with words.
 

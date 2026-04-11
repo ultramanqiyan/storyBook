@@ -12,8 +12,6 @@ The question circled in his mind, a vulture waiting for its moment. He'd been th
 
 *One step at a time,* he reminded himself. *That's all I can do.*
 
----
-
 At 9 AM, the entire company gathered in the main conference room.
 
 Marcus stood near the back, his arms crossed, his breathing steady. He'd been practicing the techniques Dr. Reeves had taught him—grounding exercises, mindfulness, cognitive reframing. They didn't eliminate the fear, but they made it manageable.
@@ -35,8 +33,6 @@ The number hung in the air—15%. That was dozens of people. Maybe even hundreds
 Torres continued, but Marcus barely heard him. His mind was racing, calculating, preparing.
 
 *Am I on the list?*
-
----
 
 After the announcement, the lists were posted.
 

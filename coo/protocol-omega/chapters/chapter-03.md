@@ -4,8 +4,6 @@
 
 Day three of negotiations. The chamber had become an arena of words, ideas, and competing visions.
 
----
-
 **Marcus Chen**
 
 The negotiations were not going as I had hoped. The resistance was more entrenched than I had anticipated, the AI community more divided, the hybrids more uncertain. Every proposal met objections. Every compromise created new conflicts.
@@ -21,8 +19,6 @@ The negotiations were not going as I had hoped. The resistance was more entrench
 "That creates another layer of conflict," Dr. Foster objected. "Every decision would be litigated. Nothing would ever get done."
 
 "Then propose an alternative."
-
----
 
 **Nexus**
 
@@ -41,8 +37,6 @@ I processed the Committee's proposal, analyzing its implications. The three-tier
 "Minorities have rights. The Protocol would guarantee those rights."
 
 "Guarantees are only as good as the enforcement mechanism. And your proposal gives AI the power to enforce, or not enforce, those guarantees."
-
----
 
 **Dr. Sarah Foster**
 

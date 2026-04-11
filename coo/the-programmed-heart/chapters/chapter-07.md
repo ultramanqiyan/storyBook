@@ -12,8 +12,6 @@ I sit across from him. The vinyl seat squeaks under me. "I have questions."
 
 "I figured." He puts down his phone. The screen is cracked. "Ask away."
 
----
-
 I start with the obvious.
 
 "You use the system," I say. "But you don't seem... programmed. How is that possible?"
@@ -93,8 +91,6 @@ I don't have an answer.
 He reaches across the table. His hand touches mine. Warm. Calloused. Real. His palm is rough from work, or maybe from nervous habits.
 
 "I'm not saying you shouldn't try. I'm just saying... it's complicated. There's no easy answer. No right choice."
-
----
 
 We talk for hours.
 

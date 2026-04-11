@@ -89,11 +89,3 @@ Somewhere, in a world she could still dimly perceive, Sarah was reading her lett
  The horizon stretched before her, not an ending, but a beginning. Not a death, but a transformation. And in the vastness of the consciousness field, Helena Frost finally understood what Thomas had always known:
 
  The entropy of the universe increases. But consciousness, awareness, love, connection, consciousness fights back. And sometimes, in the impossible spaces between the stars, it wins
-
----
-
----
-
-**END OF THE ENTROPY HORIZON**
-
-**Book 1 of the Emergence Era Series**

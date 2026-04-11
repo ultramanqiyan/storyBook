@@ -36,8 +36,6 @@ Jennifer was quiet for a moment. Then she smiled again, and this time it held so
 
 "Good," she said. "That's exactly what I was hoping would happen."
 
----
-
 The performance review was scheduled for that afternoon.
 
 David walked into the conference room with Jennifer and one of the senior partners, feeling something he'd never felt before in a review meeting: calm. Not because he expected perfect feedback, but because he knew—regardless of what they said—that he'd grown.
@@ -65,8 +63,6 @@ David felt the words land. Manager. The next level. The recognition he'd always 
 But the strange thing was, it didn't feel like validation in the old sense. It didn't feel like permission to exist. It felt like... acknowledgment. A milestone on a journey he was already on.
 
 "Thank you," he said. "I'm ready."
-
----
 
 The client meeting the next day was with Meridian—the same client that had frustrated him so much in the early days of Jennifer's absence.
 

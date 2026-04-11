@@ -172,6 +172,4 @@ He walked toward the tube station, his briefcase heavy in his hand. The city mov
 
 James had to stop it. Or at least, he had to try.
 
----
-
 **END OF CHAPTER 5**

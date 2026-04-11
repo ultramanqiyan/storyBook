@@ -28,8 +28,6 @@ My mother tilts her head. Concern appears on her face like a light being switche
 
 The lie tastes bitter on my tongue.
 
----
-
 That night, I try to talk to them.
 
 We're in the living room. The TV is on, but no one is watching. My mother is knitting. My father is reading something on his tablet.
@@ -143,8 +141,6 @@ I want to believe her. I want to believe it so badly.
 But I can't.
 
 Because I know the truth.
-
----
 
 I go to my room.
 

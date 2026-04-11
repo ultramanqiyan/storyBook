@@ -1,16 +1,8 @@
-# The Love Factory - Chapter 03: The Arrival
-
-> **Book**: The Love Factory
-> **Chapter**: 03 of 10
-> **Word Count**: 2,212
-
----
+# Chapter 3: The Arrival
 
 The call came on a Tuesday morning.
 
 "Mr. Morrison? This is Dr. Chen from the Love Factory. Hope is ready. You can pick her up today."
-
----
 
 James's heart raced.
 

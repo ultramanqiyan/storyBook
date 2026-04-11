@@ -6,8 +6,6 @@ She hadn't slept. After leaving Robert's office yesterday, she'd driven home, sa
 
 Now she was here, in the building where she had spent the last twenty years, ready to investigate her own creation.
 
----
-
 The fourth floor was quiet at this hour. Elena made her way to her office, past the dark screens and empty desks of her colleagues. Her neural interface connected automatically to the secure network, the familiar hum of data washing over her.
 
 She sat at her desk and pulled up Sofia's classification file.
@@ -44,8 +42,6 @@ But the data was clean. Every response was recorded accurately, every score calc
 
 Which meant the problem wasn't with the calculation. The problem was with the input.
 
----
-
 Elena read through the assessment questions, trying to understand what they were actually measuring.
 
 The first question was simple: *A farmer has 17 sheep. All but 9 die. How many sheep are left?*
@@ -65,8 +61,6 @@ Elena read the response carefully. It wasn't wrong—the hypotheses were reasona
 She continued through the assessment, reading question after question. A pattern began to emerge. Sofia wasn't giving wrong answers—she was giving incomplete answers. She was identifying correct solutions but not explaining her reasoning. She was proposing valid hypotheses but not exploring their implications. She was recognizing patterns but not articulating the underlying logic.
 
 It was as if she knew the answers but didn't know how to show her work.
-
----
 
 Elena sat back, her mind racing. This wasn't a bug in the algorithm. This was a problem with the assessment itself—or, more precisely, with what the assessment was measuring.
 
@@ -116,8 +110,6 @@ Elena felt her heart rate increasing. She pulled up the detailed rationale for m
 
 The pattern was unmistakable. These weren't people who couldn't think methodologically—they were people who couldn't articulate their methodology. They were being classified as deficient not because they lacked capability, but because they lacked the language to describe their capabilities.
 
----
-
 Elena pulled up Sofia's classification rationale, the detailed explanation that the system had generated for her daughter's designation.
 
 **Classification Rationale for Subject: Sofia Vasquez**
@@ -157,8 +149,6 @@ She found it in a section titled "Methodology Transmission and Social Stability"
 Elena sat back. She had written this. Twenty years ago, she had designed a system that prioritized communication over capability, that classified people as deficient not because they couldn't think but because they couldn't explain their thinking.
 
 And she had called it "social function."
-
----
 
 She pulled up the final section of Sofia's classification rationale—the part she hadn't read yet, the part that explained why the system had made this specific determination.
 

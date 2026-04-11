@@ -12,8 +12,6 @@ Marcus remembered his father's voice: "Science without doubt is just dogma in a 
 
 Now Marcus was the one simplifying science, one paper at a time.
 
----
-
 The interface pinged, notifying him of an incoming message. It was from his father.
 
 The message was brief: "We need to talk."
@@ -27,8 +25,6 @@ The San Francisco streets were busy with the mid-morning rush. Marcus walked pas
 He thought about his father, who had been exiled from the scientific community for insisting that students should learn to question. Who had been labeled "historically problematic" for teaching the scientific method.
 
 And he thought about himself, who spent his days stripping the scientific method out of every paper that crossed his desk.
-
----
 
 Benjamin Foster lived in a small apartment in Berkeley, the kind of place that smelled of old books and fresh coffee. Marcus had been visiting his father every Sunday for as long as he could remember, but today felt different. Today, he had questions he wasn't sure he wanted answered.
 
@@ -71,8 +67,6 @@ Marcus shook his head. He'd always been told it was because his father had been 
 Marcus felt a cold chill run down his spine. He'd always known his father had been marginalized, but he'd never fully understood why. Now he did. His father had been punished for doing what scientists are supposed to do—question.
 
 "They've turned science into religion," his father said, his voice carrying the weight of decades of exile. "Facts without questioning. Truth without doubt. That's not science, Marcus. That's dogma dressed in a lab coat."
-
----
 
 Marcus left his father's apartment with more questions than he'd arrived with. And for the first time, he wasn't sure he wanted to find the answers.
 

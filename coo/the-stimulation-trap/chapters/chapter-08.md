@@ -22,8 +22,6 @@ But something stops him. A small, distant memory. Of a time when people mattered
 
 He gets up.
 
----
-
 The door opens.
 
 Sarah stands in the hallway. Her eyes are red. Her face is pale. She looks like she hasn't slept in days.
@@ -81,8 +79,6 @@ He trails off. He doesn't know how to explain. He doesn't have words for what's 
 The word should mean something. It doesn't.
 
 "I know," he says. Because that's what he's supposed to say. "I know."
-
----
 
 They stay for hours.
 

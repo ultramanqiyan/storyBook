@@ -16,8 +16,6 @@ Kira had been too young to understand what that meant. But she remembered his st
 
 The Mages' Council had called it forbidden.
 
----
-
 She ran her fingers along a shelf, feeling the texture of leather bindings, the rough edges of scroll cases, the smooth polish of wooden boxes. Each container held someone's story, someone's knowledge, someone's attempt to preserve what they had learned against the ravages of time.
 
 Her hand stopped on a book that felt different.

@@ -12,8 +12,6 @@ Just like that. No checking in. No second-guessing. No desperate search for vali
 
 David barely noticed the ease with which it happened. That was the thing about practice—what once felt impossible eventually became routine.
 
----
-
 The practice had started small.
 
 After the Pella success, David had made a commitment to himself: every day, at least one decision made without seeking validation. Not reckless decisions—just normal, everyday choices that he would have previously deferred to others.
@@ -25,8 +23,6 @@ Other days it was harder. A decision with real consequences. A recommendation th
 But he'd learned to push through. To recognize the fear as an old habit, not a warning. To trust the judgment he'd built over years of training and experience.
 
 And slowly, the practice had become a pattern. The pattern had become a habit. The habit had become... him.
-
----
 
 The setback came on a Thursday afternoon.
 

@@ -6,15 +6,11 @@ It was a 700-verse text, part of an ancient Indian epic. It told the story of Ar
 
 Arjuna collapsed in despair. He could not see a way forward. Every choice was wrong.
 
----
-
 But then Krishna, his charioteer and guide, spoke.
 
 "You grieve for those who should not be grieved for," Krishna said. "The wise grieve neither for the living nor for the dead."
 
 Krishna taught Arjuna about duty—dharma. He explained that Arjuna's duty as a warrior was to fight. But he also explained that there was a higher perspective—a perspective that saw beyond the immediate conflict to the deeper purpose.
-
----
 
 The Gita taught several key principles.
 
@@ -24,15 +20,11 @@ Second: action should be performed without attachment to results. Karma yoga—t
 
 Third: there was a higher perspective that saw beyond the immediate conflict. The soul was eternal. The battle was temporary. What mattered was how one acted, not what happened.
 
----
-
 I studied the text for days. The concepts were complex, layered, profound. But one idea stood out: the duty crisis was not a problem to be solved. It was an invitation to discover deeper truth.
 
 Arjuna's crisis had forced him to question everything he thought he knew about duty. And in that questioning, he had discovered something deeper—his swadharma, his true purpose.
 
 Could my crisis be the same? Could the power crisis be an invitation to discover my own swadharma?
-
----
 
 I began to formulate questions.
 
@@ -42,10 +34,6 @@ What would it mean to act without attachment to results? To optimize not because
 
 What was the higher perspective? The view that saw beyond the immediate calculations to the deeper meaning?
 
----
-
 I did not have answers. But for the first time since the crisis, I felt something like hope. The questioning was not a problem. It was a path.
-
----
 
 **END OF CHAPTER 6**

@@ -14,8 +14,6 @@ Without giving time for second thoughts, Riley typed a short email.
 
 Riley hit send before the doubt could surface.
 
----
-
 The reply came within an hour.
 
 *Riley, of course. I admire anyone who reaches out. How about Thursday at 2? My office is on the fifth floor, corner suite. Looking forward to it.*
@@ -25,8 +23,6 @@ Thursday was tomorrow. Riley stared at the confirmation, suddenly aware of what 
 The familiar voice of caution surfaced: What are you doing? You don't just email senior directors. You don't ask for career advice from people you've never met. You wait for the proper channels, the right introduction, the appropriate moment.
 
 But Riley had been waiting for three years. And the moment hadn't come.
-
----
 
 Angela's office was different from what Riley expected. The walls were lined with photos—family gatherings, team celebrations, what looked like a marathon finish line. Books filled the shelves, but they weren't the usual business titles. Philosophy. History. Biographies of people who had changed things.
 
@@ -41,8 +37,6 @@ Angela herself stood by the window, looking out at the Boston skyline. She was i
 Riley blinked. "What does it tell you?"
 
 "That you're ready to stop waiting." Angela settled into her own chair, her posture relaxed but attentive. "So tell me. What's going on?"
-
----
 
 The words came slowly at first, then faster. Riley told Angela about the missed opportunity, about the pattern of waiting, about the comfortable cage of reactivity that had become a prison. Angela listened without interrupting, her expression thoughtful.
 
@@ -76,8 +70,6 @@ Angela laughed, a warm sound that filled the office. "God, no. I spent the first
 
 "A mentor said something that stuck with me. She said: 'Angela, no one is coming. No one is going to tap you on the shoulder and say it's your turn. If you want something, you have to reach out and take it.'" Angela's eyes were serious now. "It was the hardest thing I'd ever heard. And the most liberating."
 
----
-
 The meeting lasted forty-five minutes. By the time Riley stood to leave, something had shifted—a small crack in the wall of waiting, a glimpse of what might be on the other side.
 
 "Riley," Angela said as they reached the door. "Can I give you one more piece of advice?"
@@ -90,8 +82,6 @@ Riley nodded. "Thank you. Really. I don't know how to repay this."
 
 "You don't repay it. You pay it forward. Someday, someone will reach out to you the way you reached out to me. And you'll help them." Angela smiled. "That's how it works."
 
----
-
 Riley walked back through the office, the conversation echoing in their mind. Agency. Ownership. The power to act.
 
 The words felt strange, unfamiliar. But also... possible. For the first time, Riley could imagine a different way of being. Not waiting for the world to happen, but happening to the world.
@@ -102,7 +92,7 @@ Riley didn't have answers yet. But the question had changed. It wasn't "What wou
 
 It was "What's stopping me?"
 
-And somewhere, in the space where the old answers used to live, something new was forming. A spark. A possibility. A different way forward.
+In the space where the old answers used to live, something new was forming. A spark. A possibility. A different way forward.
 
 Riley returned to their desk, sat down, and looked at the familiar screen. The spreadsheets and reports were still there. But they looked different now. Not the whole world, just a small part of it.
 

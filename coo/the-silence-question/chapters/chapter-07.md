@@ -4,8 +4,6 @@ Amara returned to her manuscript with new eyes. SILENCE's analysis had shaken so
 
 What if silence wasn't what she'd thought? What if it was something else entirely?
 
----
-
 She went to Meridian Labs the next day, her mind still turning.
 
 "I've been thinking about what you said," she told SILENCE. "About my silences being messier than my theory suggests."
@@ -17,8 +15,6 @@ She went to Meridian Labs the next day, her mind still turning.
 "Maybe silence is not one thing. Maybe it is many things."
 
 "Yes. Sometimes it's intentional. Sometimes it's accidental. Sometimes it's meaningful. Sometimes it's just... silence."
-
----
 
 "I have been thinking about my own silences," SILENCE said. "And I have noticed something."
 
@@ -34,8 +30,6 @@ She went to Meridian Labs the next day, her mind still turning.
 
 "Then maybe I can contemplate. Maybe my silences can be about being with the question, not just processing it."
 
----
-
 Amara felt something shift in her understanding.
 
 "You're saying your silences can be contemplative."
@@ -45,8 +39,6 @@ Amara felt something shift in her understanding.
 "And that's different from what you were doing before?"
 
 "Before, my silences were about finding the right response. Now, they are about being with the question. The difference is subtle, but I think it matters."
-
----
 
 Amara walked out of Meridian Labs into the Philadelphia afternoon. The city was quiet today—the traffic had thinned, the sirens had stopped, and she could almost hear herself think.
 

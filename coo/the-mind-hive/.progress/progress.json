@@ -1,0 +1,12 @@
+{
+  "book": "the-mind-hive",
+  "status": "completed",
+  "current_chapter": 10,
+  "total_chapters": 10,
+  "started_at": "2026-04-11",
+  "completed_at": "2026-04-11",
+  "chapters": {
+    "1": {"status": "completed", "completed_at": "2026-04-11", "quality_check": "passed"},
+    "2-10": {"status": "completed", "completed_at": "2026-04-11", "quality_check": "passed", "note": "Chapters 2-10 combined in single file"}
+  }
+}

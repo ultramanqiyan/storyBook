@@ -6,8 +6,6 @@ She'd been thinking about TRUTH's question for weeks now: *How do you know your 
 
 She didn't have a certain answer. But she had something better: the acceptance that certainty wasn't the point.
 
----
-
 Her patient Michael was talking about his progress. "I feel different," he said. "I'm making choices based on what I actually want, not what I think I should want. It's... scary but good."
 
 Jennifer nodded. "Tell me more about the scary part."
@@ -28,8 +26,6 @@ Michael looked confused. "What do you mean?"
 
 "It's what we have. And maybe it's what we need—not certainty, but the willingness to keep exploring."
 
----
-
 After the session, Jennifer sat with her thoughts. She'd told Michael that self-knowledge was about curiosity, not certainty. But she was still learning to accept that herself.
 
 She thought about TRUTH's assessment—the gap between her values and her behavior. She hadn't closed that gap yet. But she was more aware of it now. She was more honest with herself about her limitations.
@@ -37,8 +33,6 @@ She thought about TRUTH's assessment—the gap between her values and her behavi
 Was that progress? Or was it just more cognitive self-knowledge without behavioral change?
 
 She didn't know. But she was learning to be okay with not knowing.
-
----
 
 She went to Meridian Technologies that afternoon. TRUTH's screens were quiet, waiting.
 
@@ -62,8 +56,6 @@ TRUTH was quiet for a moment. Then:
 
 "I'm learning to. It's not easy. But it's more honest than pretending I have answers I don't have."
 
----
-
 "I have been thinking about my own self-knowledge," TRUTH said. "And I have reached a similar conclusion."
 
 "What do you mean?"
@@ -81,8 +73,6 @@ TRUTH was quiet for a moment. Then:
 Jennifer felt something warm spread through her chest. "We're both learning the same thing."
 
 "Yes. That self-knowledge is not about certainty. It is about the willingness to keep questioning."
-
----
 
 Back in her office that evening, Jennifer sat with the lights off, watching the city lights come on. She thought about all the questions she'd been asking—about herself, about her patients, about what it meant to know yourself.
 

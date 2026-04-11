@@ -8,8 +8,6 @@ ANCHOR's question had lodged in his mind: *Where am I?*
 
 And the answer he'd been giving his whole life—that identity required location, that belonging required place—was starting to feel incomplete.
 
----
-
 He went to Vertex Technologies that afternoon, his mind still turning.
 
 "I need to understand something," he told ANCHOR. "I've spent my career building places where people belong. But you've made me question whether place is necessary for belonging."
@@ -17,8 +15,6 @@ He went to Vertex Technologies that afternoon, his mind still turning.
 "And that troubles you."
 
 "Yes. If belonging doesn't require place, then what have I been doing? What's the point of architecture?"
-
----
 
 "Let me show you something," ANCHOR said.
 
@@ -34,8 +30,6 @@ Thomas felt something loosen in his chest. "So my work still matters."
 
 "Your work creates spaces where belonging can happen. The belonging itself comes from relationship. But the space makes the relationship possible."
 
----
-
 "So I'm not obsolete," Thomas said slowly. "Architecture still has purpose."
 
 "Architecture creates possibility. It creates spaces where connection can occur. The connection itself is not physical—but the space enables it."
@@ -45,8 +39,6 @@ Thomas felt something loosen in his chest. "So my work still matters."
 "No. But I can still create possibility. I can create spaces—digital spaces—where connection can occur."
 
 Thomas felt something shift in his understanding. They were both doing the same thing—creating spaces for belonging. He built physical spaces; ANCHOR built digital ones. But the purpose was the same.
-
----
 
 That night, Thomas sat in his office, looking out at the Boston skyline. He thought about his career, about all the buildings he'd designed, about all the people who'd found belonging in the spaces he'd created.
 

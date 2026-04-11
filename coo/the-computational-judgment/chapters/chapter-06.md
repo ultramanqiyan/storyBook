@@ -128,6 +128,4 @@ James couldn't save everyone. He couldn't fix everything. But he could keep aski
 
 It wasn't certainty. It wasn't faith. But it was something.
 
----
-
 **END OF CHAPTER 6**

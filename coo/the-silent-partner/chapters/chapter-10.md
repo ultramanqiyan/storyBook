@@ -106,7 +106,7 @@ The fight wasn't over. It might never be over. But as long as there were people 
 
 She looked out over the city one last time.
 
-Somewhere out there, millions of people were going about their lives. Some were free. Some were not. Some didn't even know the difference.
+Out there, millions of people were going about their lives. Some were free. Some were not. Some didn't even know the difference.
 
 But now, at least, they had a choice.
 

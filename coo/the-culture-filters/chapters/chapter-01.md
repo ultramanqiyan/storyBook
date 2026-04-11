@@ -10,8 +10,6 @@ James sat back in his chair, staring at the screen. He had been a cultural trans
 
 But watching the trickster become toothless, he felt something twist in his gut.
 
----
-
 The Cultural Translation Center occupied a converted warehouse in East London, the kind of building that had once housed factories and now housed the machinery of cultural simplification. From his desk, James could see the Thames, the barges moving slowly downstream, the city spreading out in all directions.
 
 His colleagues sat at similar desks, translating cultural artifacts from around the world. A woman named Emily Chen was working on a Chinese opera, reducing it from a complex exploration of duty and desire to a simple love story. A man named David Okonkwo—no relation, despite the surname—was simplifying a Brazilian samba, stripping away its historical context until it was just a catchy tune.
@@ -19,8 +17,6 @@ His colleagues sat at similar desks, translating cultural artifacts from around 
 Everyone here believed they were helping. Making culture accessible. Preventing confusion. Maintaining social stability.
 
 But James was beginning to wonder if they were doing something else entirely.
-
----
 
 He pulled up the original version of the folk tale, the one his mother had told him when he was a child growing up in London's Nigerian community.
 
@@ -34,8 +30,6 @@ James closed his eyes. He could hear his mother's voice, telling him the story w
 
 Now James was removing that balance, one simplified translation at a time.
 
----
-
 The notification pinged. A message from his mother.
 
 The message was brief: "We need to talk. In person. Today."
@@ -45,8 +39,6 @@ James stared at the screen. His mother rarely reached out during work hours—sh
 He checked the time. 11:23 AM. He had a deadline at 5:00 PM for the simplified folk tale. He had a meeting with the Brahmin council at 3:00 PM to discuss engagement metrics. He had three other translations waiting in his queue.
 
 But his mother's message had an urgency that made all of that seem unimportant.
-
----
 
 Amina Okonkwo lived in a small house in London's Nigerian community, the same house where James had grown up. The street was lined with similar houses, each one home to families who had come from Nigeria decades ago, who had built lives here while preserving their cultural heritage.
 
@@ -59,8 +51,6 @@ He knocked on the door.
 Footsteps inside. Then the door opened, and his mother stood there, looking older than he had ever seen her.
 
 "James," she said. "Thank you for coming."
-
----
 
 They sat in her kitchen, the same kitchen where James had eaten jollof rice and listened to folk tales and learned the stories that had shaped his understanding of the world. The room smelled of spices and old books, the familiar scents of his childhood.
 
@@ -84,8 +74,6 @@ She looked at him, and James saw something he had never seen in his mother's eye
 
 "I'm not telling you this for sympathy. I'm telling you because you're a cultural translator. You understand how the system works. And you need to know what it's doing to people like me."
 
----
-
 James left his mother's house an hour later, his mind racing.
 
 He drove back to the Cultural Translation Center, but he couldn't focus on his work. Every time he looked at his screen, he saw his mother's face. Every time he thought about cultural simplification, he thought about the stories she was losing.
@@ -97,8 +85,6 @@ James thought about his mother, about the stories she had told him, about the cu
 He thought about the Shudra, about how they were being denied the full richness of human culture.
 
 He thought about himself, about how he had spent twelve years helping to erase the very heritage his mother had spent her life preserving.
-
----
 
 The meeting with the Brahmin council was at 3:00 PM. James sat in the conference room, his simplified folk tale in front of him, the council members watching him expectantly.
 
@@ -124,8 +110,6 @@ The council member looked at him with a puzzled expression. "They adapt. They fu
 
 James nodded slowly. But he couldn't stop thinking about his mother, about the stories she was losing, about the heritage that was being erased.
 
----
-
 After the meeting, James returned to his desk and pulled up the original version of the folk tale.
 
 The trickster spirit, in all his complexity. Neither hero nor villain, but a necessary force. Maintaining balance. Challenging death. Essential to the world.
@@ -135,8 +119,6 @@ James read through the story, really reading it for the first time in years. Not
 He thought about what his mother had said: "You need to know what it's doing to people like me."
 
 And he began to understand that the system he had served for twelve years wasn't protecting people. It was erasing them.
-
----
 
 That evening, James sat at his desk at home, the original folk tale glowing on his screen.
 

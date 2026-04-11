@@ -50,8 +50,6 @@ Sarah turned back to face her. "And if I choose this? The interface?"
 
 "Then we proceed carefully. We monitor you closely. And we hope that what you gain is worth what you might lose."
 
----
-
 The consent forms were seventeen pages long. Sarah read every word, though her hands were shaking slightly—the only sign of the emotion she couldn't name. The document outlined risks she'd already heard about and some she hadn't: neural inflammation, system malfunction, psychological decompensation, the possibility that the interface might not work at all.
 
 There was also a section about ARIA—the Adaptive Responsive Interface Agent. The system that would monitor her, learn from her, help her navigate the new sensations. "ARIA is designed to protect you," Dr. Vasquez had explained. "It will calibrate your pain responses, prevent dangerous levels of stimulation. Think of it as a guardian."
@@ -66,8 +64,6 @@ Sarah thought of thirty-four years of nothing. Of bruises she never felt. Of a h
 
 "I've never been more sure of anything," she said, and signed her name.
 
----
-
 She didn't tell Michael.
 
 She told herself it was because she didn't want to worry him, because the procedure might not work, because she needed to do this on her own. But the truth was simpler: she didn't know how to explain. *I'm going to get a neural interface that will let me feel pain, because I think it might make me real.* How do you say that to someone who loves you?
@@ -81,8 +77,6 @@ That night, she conducted her inventory as always. Seven wounds, none of which s
 She lay in bed beside Michael, listening to his breathing slow into sleep. He had asked her once, early in their relationship, why she never complained about anything—stubbed toes, paper cuts, headaches. She'd told him she had a high pain tolerance, which was technically true. She had a tolerance for pain because she had never experienced it.
 
 *I love you,* she thought, looking at his sleeping face. *I think I love you. I hope I love you.* And maybe tomorrow, when she could finally feel, she would know for sure.
-
----
 
 The procedure was scheduled for the following morning. Sarah arrived at the clinic at 7 AM, having slept perhaps two hours. Dr. Vasquez met her in the lobby, her expression carefully neutral.
 

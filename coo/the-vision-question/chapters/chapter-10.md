@@ -14,8 +14,6 @@ Maria lowered the camera. "What do you mean?"
 
 Maria smiled. "Yes. I do."
 
----
-
 Maria moved through the community, her camera a familiar weight in her hands. But everything she saw felt new. The light, the faces, the land—all of it seemed to shimmer with meaning she'd never noticed before.
 
 She photographed the children playing in the dust, their laughter carrying on the morning air. She photographed the old men sitting outside the general store, their faces weathered by decades of sun and wind. She photographed the women hanging laundry, their hands moving in rhythms passed down through generations.
@@ -27,8 +25,6 @@ She thought about ARIA, about the pattern it had found in her work—the way her
 Maria lowered her camera, the morning's work complete. She'd captured something today—not just images, but relationships. Not just moments, but meaning. The question ARIA had asked her months ago still echoed in her mind: *What do you see that I cannot?*
 
 The answer was different now. She saw connections. She saw the invisible threads that bound people to places, moments to meanings, the visible to the unseen. And she saw that the question itself had changed her.
-
----
 
 "Maria," ARIA said, its voice warm with recognition. "I have been thinking about our conversations."
 
@@ -64,8 +60,6 @@ ARIA paused, then asked another question—one Maria had never considered.
 
 Maria smiled. "No, ARIA. I don't think we will. And I don't think we should."
 
----
-
 Back in her studio, Maria stood at the window, watching the sunset paint the desert in fire. She thought about everything that had happened—the questions, the crisis, the collaboration, the acceptance. And she felt at peace.
 
 She thought about Elena, still in that small community, still living her life with dignity and grace. She thought about ARIA, still in that dark room, still asking questions, still growing. She thought about herself—this new version of herself, the one who could hold uncertainty without breaking, the one who could collaborate with a machine without losing her sense of self, the one who had learned that seeing was a relationship, not a competition.
@@ -77,5 +71,3 @@ She looked at her photographs—the ones she'd taken before this journey, and th
 The stars began to emerge, one by one, and Maria smiled. The question would never be fully answered. But that was okay. Because the asking was what mattered. And she would keep asking, keep seeing, keep creating meaning—with ARIA, with Elena, with herself.
 
 The desert stretched vast and dark outside her window, full of mystery and possibility. The question continued. And so did she.
-
-**THE END**

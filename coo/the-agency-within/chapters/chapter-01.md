@@ -16,8 +16,6 @@ At 9:00, the first message arrived from Marcus, Riley's manager.
 
 The familiar satisfaction of having a task settled over Riley like a comfortable blanket. This was the rhythm of work: wait for assignment, complete assignment, wait for next assignment. It was safe. It was predictable. It was enough.
 
----
-
 The team meeting started at 10:00. Riley sat in the usual spot—third chair from the left, near the wall, close enough to participate but far enough to observe. The conference room was bright with morning light, the whiteboard already covered with notes from the product team's earlier session.
 
 Marcus stood at the front, clicking through slides. "We need someone to take point on the community health initiative. It's a new partnership with the local hospital network. Could be a great visibility opportunity."
@@ -38,8 +36,6 @@ But a small voice whispered: You could have said something. You could have volun
 
 Riley pushed the thought away and focused on taking notes.
 
----
-
 The afternoon passed in a blur of tasks. Riley pulled the Q3 patient satisfaction data, formatted it into clean charts, wrote a brief summary highlighting the key trends. The work was good—Riley knew it was good. The data was accurate, the analysis was sound, the presentation was professional.
 
 At 4:30, Riley sent the file to Marcus.
@@ -55,8 +51,6 @@ Riley looked at their own screen. The completed data report sat in the sent fold
 What would it feel like to create something instead of just complete something?
 
 The question surfaced, unexpected and uncomfortable. Riley pushed it down, packed up, and headed home.
-
----
 
 The apartment was quiet. Riley lived alone in a one-bedroom in Somerville, a twenty-minute commute from the office. The space was neat, organized, everything in its place. Dinner was takeout from the Thai place down the street—pad thai, the usual order—eaten while scrolling through social media.
 
@@ -78,8 +72,6 @@ But what if that's not enough? What if doing what's asked is the bare minimum?
 
 The pad thai sat cooling in its container. Riley wasn't hungry anymore.
 
----
-
 Later that night, Riley opened the laptop and pulled up the company intranet. The community health initiative was mentioned in the quarterly goals—part of the strategic plan to expand the organization's impact. Riley read through the objectives, the timeline, the success metrics.
 
 Jessica's presentation would be good. She was smart, experienced, connected. She would do a great job.
@@ -95,8 +87,6 @@ Riley closed the laptop and sat in the quiet apartment. The streetlights outside
 The thought that had been building all day finally took shape: What is the cost of waiting?
 
 Riley didn't have an answer. But for the first time in a long time, the question felt important enough to ask.
-
----
 
 The next morning, Riley arrived at 8:15, as always. The office was quiet, the fluorescent lights humming, the smell of coffee drifting from the break room. Everything looked the same. Everything felt the same.
 

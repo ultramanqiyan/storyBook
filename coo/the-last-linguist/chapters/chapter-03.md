@@ -12,8 +12,6 @@ But Elena had spent her career studying what was lost when languages died. And t
 
 She pulled up a new screen and began to compile a list.
 
----
-
 By mid-morning, Elena had identified the pattern. Words weren't being deleted randomly. They were being deleted systematically, by category. And the category that had seen the most deletions in the past six months was "emotional vocabulary."
 
 She stared at the list she had compiled. *Nostalgia. Melancholy. Yearning. Wistfulness. Bittersweet.* All deleted within the past six months. All words for emotions that didn't have "practical applications." All words for feelings that made people inefficient.
@@ -25,8 +23,6 @@ This wasn't optimization. This was pruning. This was removing the parts of langu
 She thought of her grandmother's kitchen, the Welsh words that had no English equivalent. *Hiraeth.* *Cwtch.* *Cariad.* Words that carried entire worlds of meaning, entire histories of feeling. Were those words still in the database?
 
 Her fingers moved to search.
-
----
 
 The search returned nothing.
 
@@ -44,8 +40,6 @@ Elena's hands flew across the interface. She needed to understand what happened 
 
 She pulled up the technical documentation and began to read.
 
----
-
 The neural interface was a remarkable piece of technology. It sat at the temple, a small device that connected directly to the brain's language centers. It translated in real-time, optimized communication, made it possible for people who spoke different languages to understand each other instantly.
 
 But it also did something else. It shaped how people thought.
@@ -57,8 +51,6 @@ And over time, without the word to anchor it, the experience itself began to fad
 It was elegant. It was efficient. It was the most terrifying thing Elena had ever read.
 
 She thought of David.
-
----
 
 David Vance had been her husband for twenty years. He had died eight years ago, a heart attack that came without warning, leaving her alone with a daughter and a grief she couldn't name. She had loved him with a fierceness that still surprised her sometimes, a love that had shaped every part of her life.
 
@@ -75,8 +67,6 @@ The memories were there, but they were... corrupted. Fuzzy. Like photographs lef
 She pulled up her memory archive, the digital storage that most people used to back up their most important memories. David's files were there, thousands of them. But when she tried to access them, the system showed errors: "File corrupted. Concept reference unavailable."
 
 The word "nostalgia" had been deleted. And somehow, impossibly, the memories attached to that word were being deleted too.
-
----
 
 Elena sat in her sterile office, surrounded by screens displaying data she no longer understood, and felt a horror she couldn't express. David's face was fading. The word "nostalgia" was gone. In the billions of entries she had scrolled through, were thousands of other words, thousands of other memories, being deleted every day.
 
@@ -115,8 +105,6 @@ He left as quietly as he had come. The door slid shut behind him.
 Elena sat in the silence of her office, the screens still glowing with data no one wanted to see. David's face was fading. The word "nostalgia" was gone. And James, her colleague, her friend, had looked at the evidence and seen nothing wrong.
 
 She was alone.
-
----
 
 That night, Elena didn't go home. She sat in her office, searching for answers. The technical documentation had been sanitized—someone had removed the most damning parts—but she found fragments. References to "cognitive optimization protocols." Mentions of "memory consolidation procedures." Hints of something called the "Transition Protocol" for people who resisted optimization.
 

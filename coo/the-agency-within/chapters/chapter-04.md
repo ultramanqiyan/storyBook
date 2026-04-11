@@ -18,8 +18,6 @@ The words were there, somewhere. But between the thought and the action, somethi
 
 Marcus nodded and moved on. Riley sat at the desk, the moment passed, the opportunity narrowed. Another chance to wait, to observe, to be present without being seen.
 
----
-
 The brainstorming session was everything Riley feared and hoped it would be. Colleagues shared ideas freely, building on each other's suggestions, creating something together. Riley sat in the usual spot, notebook open, pen ready.
 
 Say something. Anything. You have ideas. You know this data better than anyone.
@@ -27,8 +25,6 @@ Say something. Anything. You have ideas. You know this data better than anyone.
 The thoughts circled, but the words stayed locked. Every time Riley started to speak, the fear surfaced: What if it's a bad idea? What if they think I'm overstepping? What if I look stupid?
 
 The meeting ended. Riley had contributed nothing. Again.
-
----
 
 The pattern continued all week.
 
@@ -39,8 +35,6 @@ Wednesday: An opportunity to share insights from a recent analysis. Riley stayed
 Thursday: A direct question from Marcus about how to approach a stakeholder presentation. Riley gave a minimal answer, then watched a colleague expand on it with confidence.
 
 Each night, Riley went home with the same heavy feeling. The determination was still there, but it was being eroded by failure. Every missed opportunity was a small defeat, a confirmation of the voice that said: You can't do this. You're not ready. You'll never be ready.
-
----
 
 Friday afternoon, Riley sat in Dr. James Park's office. Dr. Park was an executive coach the company made available to employees, and Riley had signed up for a session after the third consecutive day of failure.
 
@@ -80,8 +74,6 @@ Riley sat with the question. The answer was obvious, but it hurt to admit.
 
 "Disappearing," Riley said. "Disappearing is worse."
 
----
-
 Dr. Park nodded slowly. "The fear you're describing is real. It's not irrational. But here's what I want you to consider: the fear of taking initiative is the fear of a possibility. The cost of not taking initiative is the reality you're living right now. You're already paying the price. You're just not getting anything for it."
 
 Riley felt the truth of this. The fear was hypothetical—the judgment, the failure, the exposure. But the cost was actual. Every day of waiting was a day of disappearing.
@@ -105,8 +97,6 @@ Riley thought about this. The week of failures hadn't been caused by external fo
 Riley nodded slowly. "One action."
 
 "That's all. Don't try to change everything at once. Just prove to yourself that you can act. That the fear doesn't have to control you."
-
----
 
 Riley left Dr. Park's office with the challenge echoing in their mind. One action. One moment of choosing to act despite the fear.
 

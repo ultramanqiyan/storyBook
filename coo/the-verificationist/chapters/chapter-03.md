@@ -141,7 +141,7 @@ He lay in bed, staring at the ceiling, his mind racing with implications. The ei
 
 He got up and walked to his window. The city sprawled below him, millions of people sleeping, dreaming, unaware that reality itself might be shifting beneath their feet.
 
-Somewhere out there, a mask contained a spirit that shouldn't be seen. A fish recognized observation. A mathematical proof demonstrated contradictions. A building existed in two places. A conversation contained words that were never spoken. A document changed with reading. An event happened differently for different observers. A measurement depended on who performed it.
+Out there, a mask contained a spirit that shouldn't be seen. A fish recognized observation. A mathematical proof demonstrated contradictions. A building existed in two places. A conversation contained words that were never spoken. A document changed with reading. An event happened differently for different observers. A measurement depended on who performed it.
 
 Eight anomalies. Eight cracks. Eight windows into something new.
 

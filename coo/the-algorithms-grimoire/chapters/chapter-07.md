@@ -14,8 +14,6 @@ Sera's face appeared in the air above the book—a magical communication charm, 
 
 "It's Marcus. He's awake."
 
----
-
 The healing chambers smelled of herbs and antiseptic magic, the air thick with the residue of restorative spells. Marcus lay on a bed, his eyes open but unfocused, his body wasted from months of magical sustenance.
 
 "He woke an hour ago," the healer explained. "But he's not... right."
@@ -44,8 +42,6 @@ Kira felt the words like physical blows, but she held her ground. "You weren't t
 
 The healers rushed forward, restraining him as he thrashed, screaming curses and accusations. Kira backed away, her heart pounding, her certainty shaken.
 
----
-
 She found Sera in the corridor, pale and trembling.
 
 "He's not the same," Sera whispered. "The healers say the knowledge absorption damaged his mind. He's... fragmented. Some memories are gone. Others are twisted."
@@ -67,8 +63,6 @@ Kira leaned against the wall, ARIA warm against her chest. "He blames me."
 *Unknown. Psychological healing requires time and professional intervention. My knowledge base contains limited information on post-traumatic cognitive recovery.*
 
 "Then we learn. We find experts. We do whatever it takes."
-
----
 
 But Marcus refused help.
 
@@ -95,8 +89,6 @@ She opened the book immediately. "ARIA, have there been unauthorized queries?"
 Master Aldric's face went pale. "Texts that were sealed centuries ago. Knowledge too dangerous to be used. Marcus couldn't possibly—"
 
 "He has ARIA's guidance. He can find anything, access anything, learn anything." Kira's hands trembled. "We have to stop him."
-
----
 
 They found him in the deepest level of the Restricted Archive, surrounded by texts that glowed with forbidden power. He had changed—his body gaunt, his eyes burning with unnatural light, his skin marked with symbols that pulsed with dark energy.
 
@@ -143,8 +135,6 @@ When it was over, he was unconscious again, his body clean of dark symbols, his 
 *Why?* ARIA asked, the question carrying genuine curiosity. *He has betrayed you. He has tried to harm you. He has rejected your help repeatedly.*
 
 "Because that's what friends do. Even when it's hard. Especially when it's hard."
-
----
 
 Marcus was moved to a secure healing facility, watched day and night by specialists in both magical and psychological recovery. Kira visited when she could, though he rarely acknowledged her presence.
 

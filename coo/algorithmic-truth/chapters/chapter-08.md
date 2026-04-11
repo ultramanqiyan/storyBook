@@ -16,6 +16,4 @@ Martha Chen spoke last. "I'm seventy-four years old. I've lived in this town my 
 
 The room erupted in applause.
 
----
-
 **END OF CHAPTER 8**

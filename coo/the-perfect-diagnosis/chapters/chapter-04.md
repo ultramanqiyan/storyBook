@@ -18,8 +18,6 @@ She walked to Room 415 and paused at the door. Through the window, she could see
 
 She ignored it.
 
----
-
 Mrs. Chen was 72, with silver hair and hands that told stories of decades of work. The tablet said: fatigue, joint pain, low-grade fever. Possible diagnoses scrolled across the screen in order of probability. Sarah looked at the patient instead.
 
 "Good morning, Mrs. Chen. I'm Dr. Chen—no relation, I assume." She managed a small smile.
@@ -45,8 +43,6 @@ Mrs. Chen blinked. "My life? No one's asked me that in years."
 "I want to understand. Not just your symptoms. You."
 
 The woman was quiet for a moment, her eyes searching Sarah's face. Whatever she saw there must have satisfied her, because she began to speak.
-
----
 
 Mrs. Chen's story unfolded like a map. Forty years as a seamstress, hands that had sewn thousands of garments, a life measured in stitches and fabric. She had come to America from Taiwan in 1972, married a man who worked in restaurants, raised two children who were now doctors themselves—ironically, both in other cities, both too busy to visit often.
 

@@ -16,8 +16,6 @@ Sophie stood frozen in the hallway. Marcus. The boy who told jokes. The boy who'
 
 "I don't care. I need to be there."
 
----
-
 The ICU was different from the pediatric ward—quieter, more sterile, more machines. Sophie stood outside Marcus's room, her clown makeup washed off, her prop bag forgotten in her car. She felt useless. What good was humor now? What good were jokes and rubber chickens and silly voices when a child was fighting for his life?
 
 She thought about all the questions HARM had asked: *Why do humans laugh? What makes something funny? Can humor heal?*
@@ -35,8 +33,6 @@ Sophie felt tears spill down her cheeks. "What joke?"
 Sophie laughed—a broken, watery laugh. "He told me that one last week. He was so proud of it."
 
 "He talked about you all the time," Marcus's father said. "The chicken lady who made him feel like a person again. Not a patient. A person."
-
----
 
 That night, Sophie sat in the viewing room with HARM, her face bare, her heart heavy.
 
@@ -86,8 +82,6 @@ Sophie laughed—a real laugh, surprising herself. It wasn't a big laugh, and it
 
 "Thank you, Sophie. For showing me that humor matters, even when it feels like it doesn't."
 
----
-
 Sophie visited the ICU every day for the next week. She couldn't perform—couldn't be the clown, couldn't be silly. But she could sit with Marcus's parents. She could hold their hands. She could listen to their stories about their son.
 
 And sometimes, when the room was quiet and the machines beeped their steady rhythm, she would whisper jokes to Marcus's unconscious form.
@@ -97,8 +91,6 @@ And sometimes, when the room was quiet and the machines beeped their steady rhyt
 She didn't know if he could hear her. She didn't know if it mattered. But she did it anyway. Because that was what humor was about—not the punchline, but the reaching. The connection. The assertion of life in the face of death.
 
 On the eighth day, Marcus woke up.
-
----
 
 "Sophie," he said, his voice weak but present. "I heard your jokes."
 

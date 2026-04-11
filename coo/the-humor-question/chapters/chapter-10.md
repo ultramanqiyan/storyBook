@@ -16,8 +16,6 @@ On the screen, HARMony's animated face smiled. "I think so. I have been practici
 
 "Exactly."
 
----
-
 The party was everything a going-home party should be—loud, joyful, full of laughter and tears. Marcus sat in a wheelchair near the stage, his parents on either side, his face bright with happiness.
 
 Sophie performed her usual routine—Henrietta the rubber chicken attempting various activities, failing hilariously at each one. The children laughed, the parents smiled, and for a moment, the hospital auditorium felt like a place of pure joy.
@@ -52,8 +50,6 @@ More laughter. More connection. More joy.
 
 Sophie watched from the side of the stage, her heart full. This was what humor was about—not the jokes, but the moment. Not the punchline, but the relationship. Not the laughter, but the connection that made laughter possible.
 
----
-
 After the performance, Marcus wheeled himself over to Sophie, his parents following behind.
 
 "That was amazing," he said. "HARMony is so cool! Can she really understand jokes?"
@@ -71,8 +67,6 @@ Sophie felt tears prick at her eyes. "Thank you for letting me be part of this j
 "Thank you for being part of it," Marcus said. "And thank HARMony for me. She's a good robot."
 
 "I will," Sophie said. "She'll be glad to hear it."
-
----
 
 Back at the tech company that afternoon, Sophie sat with HARM, reviewing the party.
 
@@ -92,8 +86,6 @@ Back at the tech company that afternoon, Sophie sat with HARM, reviewing the par
 
 Sophie smiled. "That's not just possible. That's the whole point. Humor isn't a destination. It's a journey. And we're on it together."
 
----
-
 That evening, Sophie stood on the balcony of her apartment, watching the sun set over New Orleans. The city hummed with its usual energy—jazz and laughter and the occasional burst of celebration.
 
 She thought about everything that had happened—the questions, the crisis, the discoveries, the connections. She thought about HARM, learning to be present. She thought about Marcus, going home with a repertoire of jokes and a sense of himself as more than a patient. She thought about herself, the woman behind the clown makeup, finally understanding what she'd been doing all these years.
@@ -105,8 +97,6 @@ Sophie smiled. The next joke. The next connection. The next moment of reaching f
 She texted back: *Tell HARM: The next joke is whatever we create together. The next connection is waiting to happen. The next moment is right around the corner.*
 
 A moment later, Dr. Torres responded: *It says it's ready. And it says: Let's keep laughing together.*
-
----
 
 Sophie turned back to the city, her heart full. She didn't know what would happen next. She didn't know what new questions would arise, what new connections would form, what new jokes would be told.
 

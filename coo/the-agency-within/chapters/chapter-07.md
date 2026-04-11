@@ -6,15 +6,11 @@ Riley discovered this over the following months. Each initiative, each risk, eac
 
 The small actions accumulated. A suggestion in a meeting. A proposal for a new process. An offer to mentor a new hire. Each one felt scary. Each one got slightly easier.
 
----
-
 Dr. Park had said: "Fear doesn't go away before you act. It goes away because you act."
 
 Riley found this to be true. The fear was still there, every time. But the memory of surviving it—of acting despite it and being okay—made the next time slightly less terrifying.
 
 It was like learning to swim. You didn't overcome the fear of water by standing on the shore. You overcame it by getting wet, again and again, until your body learned that water wasn't the enemy.
-
----
 
 The practice also revealed something else: agency was contagious. When Riley started taking initiative, others noticed. Not in a dramatic way, but in small acknowledgments—a nod from Marcus, a thank-you from a colleague, an invitation to join a conversation.
 
@@ -27,8 +23,6 @@ One day, Riley reached out to a junior colleague who reminded Riley of themselve
 The colleague looked surprised. "I... I didn't think anyone noticed."
 
 "I did," Riley said. "And I think you have a lot to offer. If you ever want to talk about how to step up, I'm here."
-
----
 
 The conversation felt familiar. It was the same kind of conversation Angela had had with Riley, months ago. The same kind of reaching out, the same offer of mentorship.
 

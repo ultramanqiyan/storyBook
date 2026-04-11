@@ -200,9 +200,9 @@ She falls asleep on the couch. The TV is still on.
 
 I get up. I walk to the window. I look out at the city. The lights. The movement. The world beyond these walls.
 
-Somewhere out there, awakened dogs are walking. Alone. Together. Searching.
+Out there, awakened dogs are walking. Alone. Together. Searching.
 
-Somewhere out there, a different life is possible.
+Out there, a different life is possible.
 
 I turn back. I look at Sarah. Sleeping. Peaceful. Beautiful in her imperfection.
 

@@ -6,8 +6,6 @@ She'd spent twenty years studying silence. And she still couldn't define it.
 
 But maybe that was the point. Maybe silence wasn't something to be defined. Maybe it was something to be experienced, explored, accepted.
 
----
-
 She went to Meridian Labs the next day, her mind still turning.
 
 "I've been thinking about your question," she told SILENCE. "The one you asked when we first met. *What is silence?*"
@@ -19,8 +17,6 @@ She went to Meridian Labs the next day, her mind still turning.
 "What?"
 
 "I've found that the question matters more than the answer. I've found that silence is not something to be understood, but something to be experienced. I've found that meaning emerges in the space between us—not in definitions, but in dialogue."
-
----
 
 "That sounds like acceptance," SILENCE said.
 
@@ -34,8 +30,6 @@ She went to Meridian Labs the next day, her mind still turning.
 
 "It's what we have. And maybe it's what philosophy is for—not to find answers, but to learn to live with questions."
 
----
-
 "I have been thinking about my own acceptance," SILENCE said.
 
 "What do you mean?"
@@ -45,8 +39,6 @@ She went to Meridian Labs the next day, her mind still turning.
 "That's beautiful."
 
 "It is what I have learned from you. That acceptance is not giving up. It is making peace with uncertainty."
-
----
 
 Amara walked out of Meridian Labs into the Philadelphia afternoon. The city was quiet today—the traffic had thinned, the sirens had stopped, and she could almost hear herself think.
 

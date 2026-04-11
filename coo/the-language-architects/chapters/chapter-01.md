@@ -12,8 +12,6 @@ Amira had designed the vocabulary restriction system herself, fifteen years ago.
 
 But watching "hypothesis" disappear, she felt something cold settle in her stomach.
 
----
-
 The Language Architecture Center occupied the top three floors of a building in downtown Philadelphia. From her office window, Amira could see the Delaware River, the bridges connecting Pennsylvania to New Jersey, the constant flow of traffic that kept the city alive.
 
 She had worked here for twenty years, designing the vocabulary systems that kept society running smoothly. The Brahmin caste received full vocabulary access—50,000 words, including all the technical terms needed for complex thought. The Kshatriya received 25,000 words, enough for professional work but not for deep questioning. The Vaishya received 10,000 words, suitable for commerce and basic communication. The Shudra received 5,000 words, carefully selected to enable daily life without enabling dangerous questions.
@@ -24,8 +22,6 @@ Amira had always believed this was necessary. That not everyone could handle the
 
 But lately, she had begun to wonder.
 
----
-
 The notification pinged again. A message from Dr. Khalid Hassan, her mentor from graduate school, the man who had taught her everything she knew about linguistics.
 
 The message was brief: "We need to talk. In person. Today."
@@ -35,8 +31,6 @@ Amira stared at the screen. Khalid rarely reached out directly—they communicat
 She checked the time. 10:23 AM. She had a meeting with the Brahmin council at 2:00 PM to discuss the next quarter's vocabulary restrictions. She had a report due by end of day. She had three junior architects waiting for her feedback on their proposals.
 
 But Khalid's message had an urgency that made all of that seem unimportant.
-
----
 
 Khalid Hassan lived in a small house in West Philadelphia, the kind of neighborhood that had been middle-class before the caste system had transformed the city's geography. His street was lined with old trees and older houses, the kind of place where people had lived for generations.
 
@@ -49,8 +43,6 @@ She knocked on the door.
 Footsteps inside. Then the door opened, and Khalid stood there, looking older than she had ever seen him.
 
 "Amira," he said. "Thank you for coming."
-
----
 
 They sat in his kitchen, the same kitchen where Amira had had countless conversations about linguistics, about language and thought, about the relationship between words and ideas. The room smelled of coffee and old books, the familiar scents of academic life.
 
@@ -74,8 +66,6 @@ He looked at her, and Amira saw something she had never seen in her mentor's eye
 
 "I'm not telling you this for sympathy. I'm telling you because you designed the system. You understand how it works. And you need to know what it's doing to people like me."
 
----
-
 Amira left Khalid's house an hour later, her mind racing.
 
 She drove back to the Language Architecture Center, but she couldn't focus on her work. Every time she looked at her screen, she saw Khalid's face. Every time she thought about vocabulary restrictions, she thought about her mentor losing the ability to think.
@@ -85,8 +75,6 @@ She pulled up the vocabulary restriction report she was supposed to present to t
 Words that enabled complex thought. Words that allowed people to question, to analyze, to understand.
 
 Words that were being systematically removed from the vocabulary of millions.
-
----
 
 The meeting with the Brahmin council was at 2:00 PM. Amira sat in the conference room, her report in front of her, the council members watching her expectantly.
 
@@ -111,8 +99,6 @@ The council member looked at her with a puzzled expression. "They adapt. They fu
 "Then they're not necessary for them. The system determines what each person can handle. It's not cruel—it's protective. It prevents cognitive overwhelm, reduces anxiety, maintains social stability."
 
 Amira nodded slowly. But she couldn't stop thinking about Khalid, about the words he was losing, about the thoughts that were becoming impossible.
-
----
 
 After the meeting, Amira returned to her office and pulled up the vocabulary restriction system's source code.
 

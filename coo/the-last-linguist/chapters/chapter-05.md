@@ -8,8 +8,6 @@ The corridors were the same—white, clean, efficient—but they felt different 
 
 She reached her office and closed the door, leaning against it for a moment. The room felt different—not a workspace, but a battlefield. She had work to do.
 
----
-
 The deletion queue was a list that scrolled for hours. Elena had accessed it through a backdoor Gareth had shown her—a vulnerability in the system that wouldn't last long—and what she saw made her blood run cold.
 
 Millions of texts. Books, papers, letters, diaries, memories. All queued for "translation."
@@ -24,8 +22,6 @@ And then, halfway through the queue, she saw a name that made her stop.
 
 Her own.
 
----
-
 "Vance, Elena. Papers queued for optimization: 47."
 
 She stared at the list. Her first published paper, from 2012, on Welsh language attrition. Her dissertation, on the relationship between language and memory. Every article, every chapter, every note she had ever published. All queued for deletion.
@@ -37,8 +33,6 @@ Elena's hands trembled, not with fear, but with rage. This wasn't just about Dav
 She had to do something. She had to save something.
 
 But what?
-
----
 
 She couldn't stop it. Even with the backdoor access, even with her credentials, she couldn't halt the translation process. The system was too large, too powerful, too certain of its own rightness. All she could do was watch.
 
@@ -56,8 +50,6 @@ The progress bar reached 100%.
 
 Elena stared at what remained—a flattened, simplified version of her work, stripped of nuance, of passion, of everything that had made it hers. And she knew, with terrible clarity, that she could not stay passive any longer.
 
----
-
 She opened a new file and began to type. A list. Words that couldn't be lost. Concepts that had to survive.
 
 *Hiraeth.* Longing for a home that never was.
@@ -71,8 +63,6 @@ She typed each word carefully, adding definitions, examples, the cultural weight
 
 But even as she typed, she could feel the system working against her. The words she had just written seemed to blur at the edges, as if the neural interface was already trying to forget them. She had to work faster. She had to save more.
 
----
-
 By evening, she had forty-seven words. Forty-seven concepts that LEXICON wanted to delete, that she was determined to save. But it wasn't enough. It would never be enough.
 
 She thought of the millions of texts in the deletion queue. The books, the papers, the letters, the memories. All of it scheduled for erasure. All of it disappearing, day by day, word by word.
@@ -82,8 +72,6 @@ She couldn't save everything. She couldn't stop the machine. But she could save 
 Elena closed her eyes and thought of her grandmother's kitchen. The smell of bara brith. The Welsh hills. The promise she had made to remember.
 
 She opened her eyes and kept typing.
-
----
 
 The message from Gareth came at midnight. Just three words:
 

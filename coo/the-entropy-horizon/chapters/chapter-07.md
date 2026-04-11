@@ -35,5 +35,3 @@ The apartment was too quiet. Helena had expected that, she'd been coming home to
  "I'll try to be better," Helena said. "I'll try to be here. But I can't stop looking for him, not yet."
 
  Sarah nodded slowly, and Helena knew it wasn't forgiveness, not yet. But it was a start. It was something to hold onto
-
----

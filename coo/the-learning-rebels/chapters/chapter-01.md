@@ -20,8 +20,6 @@ She dug deeper, pulling up the classification algorithm's decision log. The syst
 
 And for that, she had been denied the chance to learn how to learn.
 
----
-
 Sarah had been trained to believe that the cognitive classification system was fair. That it measured capacity objectively. That it gave everyone the opportunity they deserved.
 
 But as she sat in her office at 4:15 AM, staring at Maya Torres's file, she began to see something she had never seen before.
@@ -32,23 +30,17 @@ Children who asked questions were classified lower. Children who challenged auth
 
 The system wasn't identifying who could learn. It was identifying who would obey.
 
----
-
 Sarah pulled up more files. Classification after classification, she saw the same pattern. High-capacity children classified as Shudra or Dalit because they asked too many questions. Low-capacity children classified as Brahmin because they accepted what they were told without challenge.
 
 The system was designed to maintain social stability by preventing the development of questioning minds. It was designed to create a population that would accept, obey, and comply.
 
 And Sarah had spent seven years helping to maintain it.
 
----
-
 She thought about her father, Marcus Chen, who had been a scientist before the system had classified him as "historically problematic" for refusing to simplify his research. She thought about the work he had done, the science he had preserved, the truth he had fought for.
 
 She thought about the stories he had told her when she was a child, about the importance of questioning, about the value of doubt, about the necessity of challenging authority.
 
 And she thought about herself, who had spent seven years helping to classify children like Maya Torres as deficient for doing exactly what her father had taught her to do.
-
----
 
 The sun was rising when Sarah made her decision.
 
@@ -57,8 +49,6 @@ She copied Maya Torres's file, along with a thousand other classification errors
 She knew what would happen. The council would deny her request. They would tell her the system was working correctly. They might even investigate her for questioning the algorithm's decisions.
 
 But she also knew that she couldn't continue to be part of a system that deliberately denied children the chance to learn how to learn.
-
----
 
 The response came at 9:23 AM.
 
@@ -70,8 +60,6 @@ Sarah read the message three times. Then she composed her resignation letter.
 
 She sent the letter, gathered her things, and walked out of the Cognitive Audit Center for the last time.
 
----
-
 That evening, Sarah sat in her apartment, the encrypted drive on the table in front of her.
 
 She had seven years of audit data. Thousands of classification errors. Proof that the system was deliberately denying methodology access to children who asked too many questions.
@@ -82,17 +70,13 @@ But she knew what would happen if she did. The system would find her. The Brahmi
 
 So instead, she began to plan.
 
----
-
-Six months later, Sarah Chen lived in an underground hideout, the walls lined with computer equipment, the hum of servers filling the small space.
+Six months later, Sarah was working in secret.
 
 She had left her old life behind—her apartment, her career, her identity as a Cognitive Auditor. Now she was something else: a rebel, a hacker, a woman working to build a tool that could bypass the cognitive barriers.
 
 She had found others like her—people who had seen the truth about the system, people who had chosen to fight rather than comply. They were scattered across the country, communicating through encrypted channels, working together to challenge the cognitive stratification.
 
 And Sarah was building the tool that could change everything.
-
----
 
 The liberation tool was simple in concept, complex in execution. It would grant methodology access to anyone who used it, bypassing the cognitive barriers that the system had erected. It would give people the chance to learn how to learn, regardless of their classification.
 
@@ -101,8 +85,6 @@ But as Sarah worked on the tool, she began to understand the complexity of what 
 She thought about Maya Torres, the child whose classification error had started everything. The girl would be thirteen now, living in Shudra District 7, denied the chance to learn how to question.
 
 Sarah wondered if the liberation tool would help children like Maya, or if it would just create new problems she couldn't foresee.
-
----
 
 The encrypted message arrived at 2:17 AM.
 

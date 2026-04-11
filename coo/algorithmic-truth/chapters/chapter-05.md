@@ -18,15 +18,11 @@ Martha listened carefully. "And that will fix it?"
 
 "I don't know. But it's the best chance I have."
 
----
-
 The interview took an hour. Sarah asked Martha to describe everything: the produce section, the man collapsing, the woman in scrubs running over, the CPR, the man breathing again, the woman leaving.
 
 Martha's voice was steady, her details consistent. She answered every question Sarah posed, never wavering.
 
 When it was over, Sarah had a transcript and a recording. She submitted both to FactCheck AI.
-
----
 
 The response came within hours.
 
@@ -47,8 +43,6 @@ Sarah read the last line again. "This decision is final."
 
 The algorithm had dismissed Martha's testimony because of her age. Because no one else had come forward. Because there was no video.
 
----
-
 She drove to Martha's house that evening. The older woman invited her in, offered tea, sat her down at the kitchen table.
 
 "They rejected it," Sarah said. "Because you're seventy-four. Because there's no video. Because no one else saw."
@@ -66,7 +60,5 @@ And a machine had decided her testimony wasn't reliable because of her age.
 "It's not just about this story," Sarah said slowly. "It's about who gets to decide what's true. A machine that can't see, can't hear, can't know what it's like to be human—that's what's deciding."
 
 Martha nodded. "Then what are you going to do about it?"
-
----
 
 **END OF CHAPTER 5**

@@ -24,8 +24,6 @@ TRUTH's screens flickered. "I have been analyzing this question. And I have a hy
 
 "Because cognitive self-knowledge is easier. It requires only thinking. Embodied self-knowledge requires change. And change is difficult."
 
----
-
 Jennifer sat with this. She'd spent fifteen years helping patients close the gap between knowing and doing. But she hadn't closed it herself.
 
 "Can you help me?" she asked TRUTH.
@@ -43,8 +41,6 @@ TRUTH was quiet for a moment. Then:
 "Yes. But conceptual understanding may not be sufficient for this kind of insight."
 
 "Try anyway. Please."
-
----
 
 TRUTH spent the next week analyzing Jennifer's behavior patterns. It observed her in sessions with patients. It tracked her work hours, her sleep patterns, her social interactions. It asked her questions about her choices, her motivations, her fears.
 
@@ -64,8 +60,6 @@ Jennifer felt something catch in her throat. "That's true."
 
 "You are. And it is preventing you from closing the gap between your values and your behavior. Because you cannot change what you do not acknowledge."
 
----
-
 Jennifer walked out of Meridian Technologies in a daze. TRUTH had seen something she'd been blind to—the way she performed the role of the integrated therapist, the way she held herself to an impossible standard.
 
 She thought about her patients. They came to her with their struggles, their doubts, their gaps between knowing and doing. And she met them with compassion, with curiosity, with acceptance.
@@ -73,8 +67,6 @@ She thought about her patients. They came to her with their struggles, their dou
 But she didn't offer herself the same compassion. She didn't allow herself the same curiosity. She didn't accept her own gaps.
 
 She'd been blind to her own blindness. She'd been helping others see while refusing to see herself.
-
----
 
 That night, Jennifer sat in her apartment, looking out at the Seattle skyline. She thought about TRUTH's insight, about the gap between her values and her behavior, about the standard she held herself to.
 

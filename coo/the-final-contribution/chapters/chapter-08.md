@@ -32,8 +32,6 @@ He handed her the phone. She read the headline, then the article, her face going
 
 "Oh my God."
 
----
-
 He drove to work in a daze. The radio was full of the news—experts debating, politicians promising investigations, retirees calling in to ask what would happen to their benefits. No one had answers.
 
 The parking lot at Morrison & Associates was fuller than it had been in weeks. People had come in early, drawn by the same news that had pulled Robert from his breakfast. They stood in clusters in the lobby, in the break room, in the hallways, their voices low and urgent.
@@ -69,8 +67,6 @@ Robert felt something crack inside him. The decision he'd made—the decision to
 Eleanor looked at him. Her eyes were tired, older than her years.
 
 "We tell them the truth. We tell them we don't know. We tell them we're doing everything we can." She paused. "And we tell them I'm sorry."
-
----
 
 The company-wide meeting was held at noon. The auditorium was packed—every seat filled, people standing along the walls. Thomas Morrison stood at the podium, his face pale, his voice steady.
 

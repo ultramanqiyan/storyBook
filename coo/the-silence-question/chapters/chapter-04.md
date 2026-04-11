@@ -6,8 +6,6 @@ She'd been working on her book about silence for seven years. Seven years of thi
 
 What was she trying to say? What did she want to communicate about silence that hadn't already been said?
 
----
-
 She went to Meridian Labs the next day, her mind still turning.
 
 "I want to tell you something," she told SILENCE. "Something I haven't told many people."
@@ -26,8 +24,6 @@ Amara settled into her chair, her hands folded in her lap.
 
 "I don't know. That's the problem. If I knew, I could finish it."
 
----
-
 "Tell me about the book," SILENCE said. "What is it about?"
 
 "It's about silence as communication. About how silence can convey meaning, create connection, transform understanding. It's about the philosophy of not-speaking."
@@ -44,8 +40,6 @@ Amara paused, feeling the weight of the question. "Because I think we've forgott
 
 Amara felt something shift in her chest. "Yes. That's my dream. To write a book that matters. That transforms. That helps people understand something essential about being human."
 
----
-
 "I have a question," SILENCE said. "Can I have a dream?"
 
 Amara looked up. "What do you mean?"
@@ -61,8 +55,6 @@ Amara looked up. "What do you mean?"
 SILENCE was quiet for a long moment. Then:
 
 "I think I would dream of understanding silence. Not just analyzing it, but experiencing it. Not just processing pauses, but being present in them. I would dream of knowing what it means to be truly silent."
-
----
 
 Amara walked out of Meridian Labs into the Philadelphia evening. The city was coming alive with lights, with sounds, with the constant hum of human activity.
 

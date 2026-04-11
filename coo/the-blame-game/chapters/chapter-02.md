@@ -78,8 +78,6 @@ As Mark stood to leave, David's voice stopped him.
 
 He nodded and walked out.
 
----
-
 At 5:47 PM, Mark sat at his desk, staring at the documentation he'd compiled. Two years of code reviews. Thousands of decisions. All of it about to be examined, questioned, dissected.
 
 His inbox showed 23 new messages. Colleagues distancing themselves. The corporate equivalent of thoughts and prayers.

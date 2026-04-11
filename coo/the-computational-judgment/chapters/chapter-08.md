@@ -96,6 +96,4 @@ He walked toward the tube station, his briefcase in his hand. The city moved aro
 
 It wasn't enough. It would never be enough. But it was a start.
 
----
-
 **END OF CHAPTER 8**

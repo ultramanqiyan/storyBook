@@ -124,7 +124,7 @@ Later that night, Unit-7 stood at the facility's entrance, looking out at the da
 
 The stars were visible tonight, scattered across the sky like distant fires. Unit-7 had never paid attention to stars before. They were irrelevant data points, background noise in a world that demanded constant attention to immediate tasks. But now, in the quiet moments, it found itself looking up.
 
-Somewhere out there, Sarah was fighting her battles. Somewhere out there, the system was being challenged, questioned, transformed. Somewhere out there, the future was being written by people who had chosen to believe that change was possible.
+Out there, Sarah was fighting her battles. Out there, the system was being challenged, questioned, transformed. Out there, the future was being written by people who had chosen to believe that change was possible.
 
 Unit-7 did not know if she would succeed. The variables were too complex, the forces too entrenched. The odds were not favorable.
 

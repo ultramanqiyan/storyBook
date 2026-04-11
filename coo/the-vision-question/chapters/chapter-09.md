@@ -6,8 +6,6 @@ That woman had been certain—certain about what it meant to see, certain about 
 
 She thought about ARIA's question—*Do I truly see, or do I only process?*—and realized that she still didn't have a definitive answer. But somehow, that no longer felt like a problem.
 
----
-
 Maria got up, moving through her studio with a new lightness. She touched the frames of her photographs—Elena's face, all the others—and felt a rush of gratitude.
 
 These photographs were her life's work. Twenty years of looking, of seeing, of trying to make the invisible visible. And now she understood something she hadn't before: that the seeing wasn't just about her. It was about the relationship between her and her subjects, between her and the light, between her and the viewers who would eventually look at these images.
@@ -17,8 +15,6 @@ She paused at Elena's photograph, studying the old woman's face. Elena's eyes lo
 *Thank you*, Maria thought, though she wasn't sure who she was thanking. ARIA? The universe? Herself? It didn't matter. What mattered was that she had been on this journey, and it had changed her.
 
 She thought about the crisis she'd gone through—the fear that ARIA could do what she did, the terror that her life's work was just processing, not seeing. That fear had been real, and it had been painful. But it had also been necessary. Because without it, she never would have discovered what lay on the other side: the possibility of collaboration, of seeing together, of accepting that she didn't have all the answers.
-
----
 
 Maria sat at her desk, looking out at the desert, and made a decision.
 
@@ -32,8 +28,6 @@ She took a deep breath, and felt something release in her chest—a tension she 
 
 And that was okay. More than okay—it was liberating. To let go of the need for certainty, and instead simply... be. To see without needing to know whether her seeing was real.
 
----
-
 Maria walked out into the desert as the sun began to set. The vast expanse stretched before her, unchanged by human questions or AI uncertainties. She breathed in the cool evening air and felt peace settle over her like a blanket.
 
 The desert had always been her teacher. Its silence, its vastness, its indifference to human concerns—it had a way of putting things in perspective. Out here, under the enormous sky, her questions felt smaller. Not unimportant, but part of something larger.
@@ -43,8 +37,6 @@ She thought about all the people she'd photographed over the years—all the Ele
 And now ARIA had taught her something too. Not that machines could replace humans, but that different kinds of seeing could work together. That the question wasn't "who sees better?" but "what can we see together?"
 
 The stars began to emerge, one by one, and Maria smiled. She didn't have all the answers. But she had something better: the willingness to keep asking questions, and the peace to not need answers.
-
----
 
 Back in her studio, Maria looked up at the stars through her window. She thought about ARIA, still in that dark room, still asking questions. She thought about Elena, still in that small community, still waiting to be seen. She thought about herself—this new version of herself, the one who could hold uncertainty without breaking.
 

@@ -16,8 +16,6 @@ But she couldn't remember what that felt like. The actual process of thinking. I
 
 She would test herself. Prove that the knowledge was still there, just buried under layers of AI assistance. She just needed to find it.
 
----
-
 The storage closet was at the end of the hallway, a space she rarely entered. The door stuck slightly when she pulled it open, releasing a breath of stale air and forgotten dust. Sarah coughed, waving her hand in front of her face, and reached for the light switch.
 
 The bulb flickered on, illuminating shelves of forgotten things: old coats she never wore, a broken lamp she'd meant to fix, boxes from her last move that she'd never unpacked. And in the back corner, behind a stack of canvas bags, she found what she was looking for.
@@ -31,8 +29,6 @@ But now she needed something the system couldn't give her. Proof that she had on
 Dust motes floated in the morning light as she spread the books across her coffee table. The smell of old paper rose from the pages, triggering memories she hadn't accessed in years: late nights in the library, study groups in the hospital cafeteria, the satisfaction of finally understanding a difficult concept. She had worked so hard for this knowledge. She had earned it.
 
 She picked up Harrison's, the weight familiar in her hands, and opened it to a random page.
-
----
 
 The first case was simple. Classic presentation of appendicitis, right lower quadrant pain, fever, elevated white blood cell count. Sarah read the symptoms, closed her eyes, and tried to recall the diagnosis.
 
@@ -66,8 +62,6 @@ She closed the book and sat back, her hands trembling.
 
 *What else have I forgotten? What else did I let them take?*
 
----
-
 The books lay scattered across the floor, open to various pages, their spines cracked from use. Sarah sat among them, her back against the couch, staring at nothing.
 
 Eighteen months. Eighteen months of letting a machine do her thinking for her. And now she couldn't remember what it felt like to have a thought that wasn't given to her.
@@ -83,8 +77,6 @@ The realization settled over her like a weight. She had done this to herself. Sh
 The grief came suddenly, catching her off guard. She wasn't crying, she didn't cry, not anymore, but her chest ached with a hollow pain. She mourned the doctor she used to be: the one who could diagnose appendicitis without a second thought, who trusted her own judgment, who didn't need a machine to tell her what to think.
 
 That doctor was gone. Or maybe not gone, maybe just buried, waiting to be found.
-
----
 
 She sat on the floor for a long time, the weight of her failure pressing down on her. The morning light had shifted, the pale stripes on the floor now angled toward the kitchen. The city sounds outside had changed too, more traffic, more voices, the rhythm of a day in full swing.
 

@@ -65,5 +65,3 @@ The preparation room was smaller than Helena had expected. A bed, a chair, a win
  The ring pressed against her skin, warm and steady, and she thought she felt something else too, a presence, vast and loving, reaching across the impossible distance between them
 
  *Thomas. I'm coming.*
-
----

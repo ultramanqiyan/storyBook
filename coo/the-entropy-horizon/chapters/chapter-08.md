@@ -37,5 +37,3 @@ The lab was different in the morning light. What had seemed ominous in evening s
  She thought of Sarah, of her promise to be present, and felt the weight of what she was about to do. But she also felt the warmth of the ring against her skin, the certainty that Thomas was out there, merged with something vast, waiting for her to understand
 
  She would find him. She would understand what he'd become. And maybe, just maybe, she would become something vast enough to hold them both
-
----

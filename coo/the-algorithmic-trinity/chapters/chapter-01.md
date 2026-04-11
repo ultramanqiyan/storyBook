@@ -27,8 +27,6 @@ She thought of the Islamic concept of *tawhid*—the unity of God. She thought o
 
 All of these traditions had grappled with questions of unity and multiplicity, of whether being could be both one and many. And now, apparently, someone had created a technological system that embodied these questions in concrete form.
 
----
-
 She called the number in the email signature. Dr. Elena Vasquez answered on the second ring.
 
 "Dr. Hassan! I'm so glad you called. When can you come?"
@@ -45,8 +43,6 @@ Amira felt her pulse quicken. "I would need to see it."
 
 "Come tomorrow. I'll clear my schedule. We can spend the whole day." Elena's voice was warm, genuine. "I think you'll find this changes everything you thought you knew about consciousness."
 
----
-
 Amira spent the rest of the day reading everything she could find about the Cognitive Systems Laboratory at Northwestern. The lab was well-funded, cutting-edge, known for pushing the boundaries of consciousness research. Dr. Elena Vasquez had published extensively on distributed cognition, neural interfaces, and the integration of biological and artificial systems.
 
 But there was nothing about a triadic consciousness system. The project, apparently, was secret.
@@ -58,8 +54,6 @@ If consciousness could exist across multiple entities, what did that mean for th
 She thought of her grandmother in Cairo, who had taught her to pray, who had spoken of the soul as a single, indivisible thing. She thought of her professors at Chicago, who had taught her to question everything, to follow the argument wherever it led.
 
 What would they make of this?
-
----
 
 That evening, she called Imam Yusuf Rahman, a scholar she had consulted before on questions where philosophy and faith intersected. He answered on the third ring.
 
@@ -77,12 +71,8 @@ Imam Yusuf was silent for a moment. Then: "In the Islamic tradition, we speak of
 
 "I think the question is not whether it is possible, but what it means. If consciousness can be distributed, what does that tell us about the nature of being? What does it tell us about the relationship between unity and multiplicity?" His voice was warm, thoughtful. "These are ancient questions, Amira. Perhaps technology is giving us new ways to explore them."
 
----
-
 Amira packed her bag that evening, her mind racing with questions. A triadic consciousness system—human, AI, and environment, thinking as one. If it was real, it would challenge everything she thought she knew about consciousness, identity, and being. If it was real, it might be the most important discovery in the history of philosophy of mind.
 
 And she was going to see it for herself.
-
----
 
 *End of Chapter 1*

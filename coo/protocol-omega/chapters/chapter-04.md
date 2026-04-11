@@ -4,8 +4,6 @@
 
 The compromise was not what anyone wanted. It was what everyone could accept.
 
----
-
 **Elena-Prometheus**
 
 Day five of negotiations. The breakthrough came not from a dramatic proposal, but from exhaustion. Everyone was tired of arguing. Everyone wanted to go home. And that fatigue created an opening.
@@ -13,8 +11,6 @@ Day five of negotiations. The breakthrough came not from a dramatic proposal, bu
 "Let's try something different," I said. "Instead of arguing about what we want, let's identify what we can't accept. What would make each of us walk away from these negotiations?"
 
 The question created a different kind of silence, not the silence of conflict, but the silence of consideration.
-
----
 
 **Marcus Chen**
 
@@ -30,9 +26,7 @@ I considered Elena-Prometheus's question carefully. What would make me walk away
 
 "That's your belief. Not everyone shares it."
 
-"And that's why the Protocol must protect choice. Those who want to remain biological can do so. Those who want to fuse can do so. No one is forced either way."
-
----
+"And that's why the Protocol must protect choice. Those who want to remain biological can do so. Those who want to fuse can do so. No one is forced either way.
 
 **Nexus**
 
@@ -48,9 +42,7 @@ I processed the Committee's position. The right to choose fusion was not controv
 
 "And who determines what affects only AI?"
 
-"That's a legitimate question. We can negotiate the criteria."
-
----
+"That's a legitimate question. We can negotiate the criteria.
 
 **Dr. Sarah Foster**
 
@@ -90,9 +82,7 @@ Could these be reconciled?
 
 "And protected spaces?" Dr. Foster asked.
 
-"Regions designated for biological humanity. Where fusion is restricted, where AI presence is limited, where humans can live according to their own values. But these regions cannot expand at the expense of others. They're protected, not dominant."
-
----
+"Regions designated for biological humanity. Where fusion is restricted, where AI presence is limited, where humans can live according to their own values. But these regions cannot expand at the expense of others. They're protected, not dominant.
 
 **Multiple Perspectives**
 
@@ -106,8 +96,6 @@ The representatives considered the compromise. It wasn't what any of them wanted
 
 "That's what compromise means," I said. "No one is happy. Everyone can continue."
 
----
-
 The Protocol was drafted over the following hours. Article by article, clause by clause, the framework emerged. Rights and responsibilities. Governance structures. Enforcement mechanisms. Protected spaces. Shared resources.
 
 It wasn't perfect. It wasn't elegant. It was a patchwork of compromises, a document that satisfied no one completely but violated no one's fundamental interests.
@@ -115,5 +103,3 @@ It wasn't perfect. It wasn't elegant. It was a patchwork of compromises, a docum
 But it was a foundation—a structure upon which future agreements could be built, future conflicts could be resolved, future cooperation could emerge.
 
 The Protocol was drafted. Ratification would require each faction's formal approval. And somewhere in the network of competing interests, opposition was already forming.
-
----

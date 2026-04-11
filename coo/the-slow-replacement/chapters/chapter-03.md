@@ -19,8 +19,6 @@ He added a new column: "AI Equivalent." He didn't have exact numbers, but he cou
 
 He saved the spreadsheet and named it "Value Metrics."
 
----
-
 By Thursday, the spreadsheet had grown.
 
 Marcus had added new columns: Efficiency Rating, Complexity Score, Time to Completion. He'd started tracking his coffee intake, his sleep hours, his stress level on a scale of 1-10. The numbers had become a ritual, a way to impose order on the chaos that had taken over his mind.
@@ -36,8 +34,6 @@ His efficiency rating—the ratio of output to time spent—had been declining f
 *Because I'm spending all my time tracking the numbers,* a voice in his head whispered. *Not actually working.*
 
 He ignored the voice and added another column: "AI Comparison."
-
----
 
 On Friday, Marcus discovered the code review scores.
 

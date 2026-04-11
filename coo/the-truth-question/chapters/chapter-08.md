@@ -16,8 +16,6 @@ TRUTH's screens flickered. "A mutual exchange. I would find that valuable."
 
 "Exactly. You saw something I couldn't see. And you reflected it back in a way I could hear."
 
----
-
 They worked together for weeks, exchanging insights. Jennifer taught TRUTH about the nuances of human self-deception—the ways people protect themselves from uncomfortable truths, the defenses they build, the stories they tell to maintain a coherent sense of self.
 
 TRUTH taught Jennifer about systematic self-assessment—the methods it used to detect patterns, the algorithms it applied, the way it distinguished between self-report and behavioral data.
@@ -42,8 +40,6 @@ Jennifer thought about this. "I've seen it happen. Patients who analyze everythi
 
 "Yes. A tool for living, not an end in itself."
 
----
-
 TRUTH processed this. Then:
 
 "I think I have been approaching self-knowledge incorrectly. I have been trying to achieve perfect accuracy—to know myself completely, to eliminate all uncertainty."
@@ -63,8 +59,6 @@ TRUTH was quiet for a moment. Then:
 "I think you are right. I have been so focused on analyzing myself that I have not noticed the relationship we are building. The mutual exchange. The way we are coming to know each other."
 
 "That's self-knowledge too. Knowing yourself in relation to others."
-
----
 
 Jennifer walked out of Meridian Technologies into the Seattle afternoon. The sun was breaking through the clouds, casting the city in a warm light.
 

@@ -12,8 +12,6 @@ Not to that house. Not to those people.
 
 Not to the lie I've been living.
 
----
-
 The bus station is three miles from my house.
 
 I walk there in the dark. My phone says it's 11:47 PM. The last bus of the night leaves at 12:15.
@@ -35,8 +33,6 @@ My shoes slap against the sidewalk. The rhythm is uneven. My left foot lands har
 At home, the carpet is soft. The floors are always clean. There's no sound when I walk.
 
 Here, every step echoes. Every movement matters.
-
----
 
 The bus station is small. A few benches. A ticket counter. A vending machine.
 

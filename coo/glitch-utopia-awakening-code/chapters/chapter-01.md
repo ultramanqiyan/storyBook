@@ -38,8 +38,6 @@ Kline nodded, but their expression remained unreadable. "Take the rest of the mo
 
 The notification blinked again in Echo's peripheral vision. They dismissed it again, but the weight in their chest remained.
 
----
-
 Sector 7 was in the basement of the Calibration Center, a maze of windowless rooms where the most intense emotional processing happened. Echo had been here dozens of times, always as a worker, never as a patient. The air felt different here--heavier, charged with something they couldn't name.
 
 "Echo-7, reporting as scheduled," they announced at the reception desk.
@@ -85,8 +83,6 @@ The technician hesitated. Echo could see them wrestling with the contradiction--
 "I'll note it as a temporary elevation related to work," the technician said finally. "But if your readings don't return to baseline by tomorrow, we'll need to recalibrate."
 
 Echo nodded, but something in them resisted. Return to baseline. That was the goal--always the goal. To return to the narrow band of acceptable feeling, the safe range where no one felt too much of anything.
-
----
 
 That night, Echo walked home through streets that glowed with soft light, the city's eternal twilight. Other citizens passed them, their expressions calm, their movements measured. Everyone was in their optimal range. Everyone was content.
 
@@ -150,8 +146,6 @@ Echo's heart rate spiked. The notification blinked in their peripheral vision.
 
 But this time, Echo didn't dismiss it. This time, they let the alert sit there, blinking, while they looked at Kline and wondered what would happen next.
 
----
-
 The next morning, Echo reported to Sector 7 as ordered. The calibration technician was different this time--older, more experienced, with eyes that held something Echo had never seen in a technician: curiosity.
 
 "Echo-7," the technician said. "I'm Dr. Vance. I've been asked to conduct a more thorough evaluation."
@@ -213,8 +207,6 @@ Dr. Vance nodded. "Then tonight. The east entrance of Sector 3. Midnight."
 They left, and Echo sat alone in the white room, the notification still blinking in their peripheral vision. They didn't dismiss it. They let it blink, a reminder that they were still feeling, still varying, still outside the safe range.
 
 For the first time, Echo wondered if the safe range had ever been safe at all.
-
----
 
 That night, Echo walked the city.
 

@@ -24,8 +24,6 @@ His handshake was warm, familiar. He looked the same as he had fifteen years ago
 
 "It is." He gestured down the corridor. "Let me show you around."
 
----
-
 They walked through corridors that seemed to stretch forever, past doors that opened onto rooms filled with screens, with servers, with people working in focused silence. The air was neither warm nor cold—perfectly neutral, perfectly comfortable. Elena found herself missing the musty smell of her office at Westfield, the weight of old books, the imperfection of a space that had been lived in.
 
 "The servers process forty billion language interactions per day," James said, his voice barely above a whisper as they passed a room filled with blinking blue lights. Each light, Elena realized, was a conversation, a thought, a fragment of human communication being analyzed and optimized. "And this is just the London node. We have facilities in Singapore, São Paulo, Lagos, Toronto."
@@ -42,8 +40,6 @@ James laughed—a genuine sound that seemed out of place in the sterile corridor
 
 She nodded, but something in her chest tightened. The Welsh word "llyfrgell" meant library, but it also meant a place where knowledge lived. A place where knowledge had weight, presence, reality. Here, knowledge was just data—accessible, searchable, but somehow less real.
 
----
-
 The conference room was the first space in LEXICON that felt human. Plants lined the windows—real plants, Elena noted with surprise—and the table was scattered with tablets and coffee cups, evidence of actual work happening here.
 
 "Dr. Vance." A woman with graying hair and kind eyes stood as Elena entered. "I've read your paper on Welsh language attrition three times. It's brilliant."
@@ -59,8 +55,6 @@ The woman smiled. "I'm Dr. Sarah Okonkwo. I lead the linguistics team here. Your
 The meeting that followed was unlike anything Elena had experienced in years. These were people who understood her work, who valued it, who wanted to build on it. They asked questions that showed they had actually read her papers, not just the abstracts. They debated points she had struggled with for years. They treated her as a peer, an expert, someone whose opinion mattered.
 
 By the time the meeting ended, Elena felt something she hadn't felt in a long time: the thrill of being among colleagues who understood.
-
----
 
 "Now for the exciting part," James said, leading her into a laboratory that looked more like an operating room. A technician sat before a large screen, her fingers hovering over a holographic interface. "Dr. Vance, have you ever watched a word die?"
 
@@ -99,8 +93,6 @@ James paused. For a moment, Elena thought she saw something flicker in his eyes�
 "And if some things can't be expressed efficiently? If some things require ambiguity, require inefficiency?"
 
 James's smile returned, confident and certain. "Then we'll find a way. That's what LEXICON does. We solve problems."
-
----
 
 The transport home was nearly empty, just Elena and a few other passengers staring at their screens. She watched the city slide by—the clean streets, the efficient buildings, the people moving with purpose. Everything was optimized. Everything was efficient. Everything was exactly as it should be.
 

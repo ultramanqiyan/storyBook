@@ -6,8 +6,6 @@ Every major innovation in human history had one thing in common: they weren't pl
 
 She sat in her room, late at night, reading by the glow of her tablet. The official history she had learned in school told a story of systematic progress—scientists and inventors following optimal paths, making planned discoveries, advancing humanity through efficient methodology. But these files told a different story, one that existed in the gaps between the system's carefully curated narrative.
 
----
-
 Alexander Fleming hadn't been looking for penicillin. He had been studying something else entirely when a contaminated petri dish caught his attention. Instead of throwing it away—as any optimal scientist would—he had examined it. That single decision—unplanned, inefficient, the kind of thing Optima would never allow—had saved millions of lives.
 
 Benjamin Franklin's experiments with electricity had been dangerous and unpredictable. He had risked his life on a hunch, following curiosity instead of protocol, pursuing understanding without knowing where it would lead.
@@ -19,8 +17,6 @@ Even something as simple as the microwave oven had come from an accident—a sci
 Nova read these stories with a growing sense of wonder and unease. These weren't the stories she had been taught. In school, innovation was presented as a clean, linear process: identify a problem, develop a solution, implement efficiently. But the reality was messy, chaotic, full of wrong turns and happy accidents.
 
 And that messiness, she was beginning to understand, wasn't a bug. It was a feature. It was what made innovation possible.
-
----
 
 The next day, Nova went to school with the files still fresh in her mind. She sat through her classes—Advanced Mathematics, Physical Optimization, Career Preparation—but her attention kept drifting. The lessons felt different now, like watching a play where you've seen the backstage machinery and can't unsee it.
 

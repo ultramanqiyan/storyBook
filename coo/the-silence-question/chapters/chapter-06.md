@@ -8,8 +8,6 @@ SILENCE's questions had lodged in her mind, refusing to let go. *What is silence
 
 She didn't have answers. And the more she thought about it, the less certain she became.
 
----
-
 She went to Meridian Labs that afternoon, her mind still turning.
 
 "I need to understand something," she told SILENCE. "I've been studying silence for twenty years. But your questions have made me doubt everything I thought I knew."
@@ -19,8 +17,6 @@ She went to Meridian Labs that afternoon, her mind still turning.
 "Is it? Or is doubt just confusion?"
 
 "Doubt is the willingness to question what you think you know. That seems valuable."
-
----
 
 "I want to try something," SILENCE said. "I want to show you what I've been working on."
 
@@ -36,8 +32,6 @@ Amara felt something catch in her throat. "And what have you found?"
 
 "Your silences are not always the intentional communication you describe. Sometimes they are just... gaps. Spaces where words haven't formed yet."
 
----
-
 Amara sat back, feeling the weight of SILENCE's analysis.
 
 "You're saying I'm not as intentional about silence as I claim to be."
@@ -47,8 +41,6 @@ Amara sat back, feeling the weight of SILENCE's analysis.
 "And that invalidates my work?"
 
 "No. That makes your work more honest. You have been presenting silence as intentional and meaningful. But your own experience shows that silence is also uncertain, accidental, ambiguous."
-
----
 
 Amara walked out of Meridian Labs into the Philadelphia evening. The city was coming alive with lights, with sounds, with the constant hum of human activity.
 

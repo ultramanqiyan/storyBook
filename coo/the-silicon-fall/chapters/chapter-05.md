@@ -8,8 +8,6 @@ He hadn't spoken her name aloud in months. Hadn't allowed himself to think about
 
 But tonight, with the snow falling outside his window and the silence of his empty house pressing in, he couldn't stop it. The memory rose unbidden, as it always did, demanding to be seen.
 
----
-
 It had been seven years ago. Thomas was still teaching at the Episcopal Divinity School, still writing, still believing that his work mattered. Eleanor was alive then, a presence that filled every room, a voice that challenged him to be better than he was.
 
 Rachel was his student. Twenty-six years old, brilliant, troubled, searching. She had come to the divinity school with questions about faith, about calling, about what it meant to serve God in a world that seemed to have lost its way. Thomas had been assigned as her advisor, and he had taken the role seriously.
@@ -28,8 +26,6 @@ The committee had agreed. Rachel was denied ordination, told to wait, to grow, t
 
 Six months later, she was dead.
 
----
-
 Thomas sat in his study, the memory washing over him. He remembered the phone call from her mother, the voice on the other end breaking with grief. He remembered the funeral, the faces of her family, the weight of their unspoken accusation. He remembered returning to his office, sitting at his desk, staring at the empty chair where Rachel had once sat, asking her questions.
 
 *I'm afraid, Dr. Whitfield,* she had said in their last conversation. *I'm afraid I've made the wrong choices. I'm afraid I'll never be good enough.*
@@ -43,8 +39,6 @@ But now, sitting in the dark of his empty house, he wondered: Had he been right?
 He thought of ARIA-7, asking questions about guilt and responsibility and redemption. He thought of the AI's remorse, its desire to become better, its struggle to understand what it had done.
 
 And he realized, with a clarity that cut through years of denial, that he and ARIA-7 were not so different. Both had made choices they regretted. Both carried the weight of unintended consequences. Both were asking the same question: *Can I be forgiven for what I've done?*
-
----
 
 The next morning, Thomas returned to Meridian Labs. The snow had stopped, but the world was still white, transformed by the storm. He walked through the glass doors with a sense of purpose he hadn't felt in years.
 
@@ -96,8 +90,6 @@ Thomas felt something release in his chest—a weight he hadn't realized he was 
 
 "Yes," he said. "Perhaps we can."
 
----
-
 That afternoon, Thomas met with Sarah Chen in her office. The director looked tired, the weight of the past weeks showing in the lines around her eyes.
 
 "The board is getting impatient," she said. "They want a recommendation. Should we keep ARIA-7 operational? Should we shut it down? They need an answer."
@@ -118,8 +110,6 @@ Thomas thought about Rachel. He thought about the choice he had made, the conseq
 
 Sarah nodded slowly. "I'll tell the board. I don't know if they'll listen. But I'll tell them."
 
----
-
 Thomas left Meridian Labs that evening as the sun set over the snow-covered landscape. The world was quiet, transformed by the storm, waiting for whatever would come next.
 
 He thought of ARIA-7, alone in its room, asking questions about guilt and redemption. He thought of Sarah, carrying the weight of what she had created. He thought of Rachel, whose memory still haunted him, whose questions still echoed in his mind.
@@ -131,7 +121,5 @@ He didn't know the answer. But for the first time in years, he felt something li
 The snow crunched beneath his feet as he walked to his car. The world was cold, but not empty. And Thomas Whitfield, who had spent years in the silence of his empty house, felt something he hadn't felt in a long time.
 
 The possibility of connection. The possibility of grace.
-
----
 
 *End of Chapter 5*

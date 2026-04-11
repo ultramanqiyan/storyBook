@@ -78,7 +78,8 @@ const englishBooks = presetBooks.filter(book => !book.book_id.includes('-zh'));
 englishBooks.forEach(book => {
   const bookId = book.book_id;
   const isAi = bookId.startsWith('preset-ai-');
-  const priority = isAi ? '0.9' : '0.5';
+  const isCoo = bookId.startsWith('preset-coo-');
+  const priority = (isAi || isCoo) ? '0.9' : '0.5';
   
   sitemap += generateBookUrlEntry(bookId, priority, 'monthly');
 });

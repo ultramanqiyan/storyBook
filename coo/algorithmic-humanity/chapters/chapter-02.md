@@ -4,8 +4,6 @@ Robert led her through the house. The walls were covered with photographs--famil
 
 "That's Buddy," Robert said, noticing her gaze. "Over the past twelve years."
 
----
-
 They reached a living room, and there was Buddy. The golden retriever from the photographs. This Buddy wasn't a photograph. He was sitting by the fireplace, head turned toward them, tail wagging.
 
 "Hello, buddy," Angela said, kneeling down. Buddy approached her slowly, sniffing her hand, then pressing his head against her palm. His fur was soft, his eyes warm and brown. He looked at her with the expression of seemed almost like a smile.
@@ -34,8 +32,6 @@ Angela looked at the AI dog, at the synthetic eyes and artificial fur. At the so
 
 Buddy's tail wagged. "That's what I hoped you'd see."
 
----
-
 Driving home, Angela thought about what she'd witnessed. Robert loved Buddy. Buddy--or the programming that was Buddy--seemed to love Robert back. The relationship was real, even if one party wasn't biological.
 
 She thought about her own research. The AI companions she was designing were sophisticated, responsive, adaptive. But they were also... new. They had no history with their users. No shared experiences. No years of learning each other's preferences, quirks, rhythms.
@@ -57,8 +53,6 @@ Angela pulled over and called her research assistant.
 She hung up and sat in her car, watching a family walk across the parking lot. A father, a mother, two children. They moved together, a unit, connected by years of shared experience.
 
 That was what Robert had with Buddy. That was what she'd been missing in her designs. Not intelligence. Not responsiveness. History.
-
----
 
 That night, Angela reviewed the data from the long-term care facilities. The results were striking.
 
@@ -93,8 +87,6 @@ She hung up and opened her laptop. She had a new research direction. Not how to 
 The question wasn't "Can machines love?" The question was "Can machines learn to love over time?"
 
 And watching Buddy's eyes track Robert across the room, Angela thought the answer might be yes.
-
----
 
 Angela returned to Robert's house the following week. This time, she brought a small device--a prototype of her latest companion AI, designed not for immediate emotional connection, but for long-term learning.
 

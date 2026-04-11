@@ -6,8 +6,6 @@ He pulled the records of students who had been accepted to Midwest State but cho
 
 He selected fifty names at random and started calling.
 
----
-
 The first call was to a young woman named Jessica Martinez. She'd been accepted with a partial scholarship, a good student from a local high school. Michael had personally reviewed her application and been impressed.
 
 "Hello, this is Dr. Michael Chen from Midwest State University. I'm calling to—"
@@ -30,8 +28,6 @@ There was a pause. "I was going to be a history major. I love history—always h
 
 Another pause. "I'm not sure 'happy' is the right word. I'm engaged. I'm curious. I'm doing things that matter to me." Her voice softened. "Dr. Chen, I'm not against education. I'm against the idea that education has to happen in a specific place, at a specific cost, in a specific way. The world has changed. I don't think universities have kept up."
 
----
-
 The second call was to Marcus Johnson, a young man who'd been accepted into the engineering program.
 
 "I'm not going to lie," he said. "It was a hard decision. Engineering was always the plan—get a degree, get a job, build a career. That's what everyone told me."
@@ -47,8 +43,6 @@ The second call was to Marcus Johnson, a young man who'd been accepted into the 
 "Do you miss the college experience?"
 
 "Sometimes. I miss the idea of it—being around people my age, having time to explore, not worrying about the future. But then I look at my friends who went to college. They're stressed about debt, about grades, about whether their degrees will mean anything. I'm stressed too, but at least I'm stressed about things that feel real."
-
----
 
 The third call was to Emily Chen—no relation, though they'd joked about it during her campus visit.
 
@@ -66,8 +60,6 @@ The third call was to Emily Chen—no relation, though they'd joked about it dur
 
 "I don't know yet. Ask me in ten years." She paused. "But here's what I think: education should be about becoming, not just knowing. College promised to help me become something, but I'm not sure it would have. It would have given me knowledge, but I can get that anywhere. What I really need is to figure out who I am and what I want. And I'm not sure a campus is the best place for that."
 
----
-
 Michael made twenty calls that day. The patterns were consistent.
 
 Students weren't rejecting education. They were rejecting the specific form that education had taken—the four-year degree, the campus experience, the debt burden. They were finding alternatives that felt more relevant, more practical, more aligned with the world they were inheriting.
@@ -77,8 +69,6 @@ Some were learning trades. Some were starting businesses. Some were traveling, v
 None of them seemed lost. None of them seemed regretful. They were making choices based on a calculation that Michael understood but couldn't quite accept.
 
 The degree wasn't worth the cost.
-
----
 
 That evening, he shared his findings with Alex.
 
@@ -104,8 +94,6 @@ Michael looked at his son. "I've spent thirty years building this institution. B
 
 "But I think you're right. The world has changed. If we don't change with it, we'll become irrelevant. And irrelevance is worse than transformation."
 
----
-
 The next day, Michael returned to his office with a new mission.
 
 He wasn't going to try to save the old model. He was going to try to understand what the new model might be.
@@ -115,8 +103,6 @@ He called the students who had left—the ones who had enrolled and then dropped
 He wanted to understand what they had learned, what they had missed, what they wished they had known.
 
 He wanted to find the gap between what universities provided and what students actually needed.
-
----
 
 His first call was to David Park, a graduate from five years ago who had left a successful career in finance to start a community garden.
 
@@ -130,8 +116,6 @@ His first call was to David Park, a graduate from five years ago who had left a 
 
 "More freedom. Less structure. Professors who asked questions instead of giving answers. A community that supported exploration instead of demanding conformity." He paused. "Basically, everything college isn't designed to provide."
 
----
-
 His second call was to Rachel Torres, who had dropped out after her sophomore year to become an artist.
 
 "I was miserable in college," she said. "Not because the classes were bad—they were fine. But because I was going through the motions. Checking boxes. Doing what I was supposed to do without understanding why."
@@ -144,8 +128,6 @@ His second call was to Rachel Torres, who had dropped out after her sophomore ye
 
 "Every day. But I also wish I hadn't had to choose. I wish college had been a place where I could have discovered painting, where someone could have helped me find my passion instead of just filling me with information."
 
----
-
 His third call was to James Wright, who had graduated with honors and then spent two years unemployed before finding work as a carpenter.
 
 "I did everything right," James said. "Good grades, good degree, good recommendations. And then I graduated into a world that didn't need what I had to offer. I was qualified for jobs that didn't exist, overqualified for jobs that did, and completely unprepared for the reality of the economy."
@@ -153,8 +135,6 @@ His third call was to James Wright, who had graduated with honors and then spent
 "What would have helped?"
 
 "Honesty. Someone telling me that a degree isn't a guarantee. That the world is changing faster than curricula can adapt. That I needed to develop skills that AI can't replicate—hands, creativity, human connection." His voice was bitter. "Instead, everyone told me to trust the system. And the system failed me."
-
----
 
 Michael compiled his findings into a report.
 

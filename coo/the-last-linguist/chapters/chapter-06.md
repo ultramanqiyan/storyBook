@@ -6,8 +6,6 @@ She had forty-seven words now. Forty-seven concepts that LEXICON wanted to delet
 
 The word was there—she knew it was there—but she couldn't quite reach it.
 
----
-
 *Cwtch.* Welsh for a safe place, a hug, a shelter. Elena had known this word since childhood, had used it a thousand times, had felt its meaning in her grandmother's arms. But when she reached for it now, there was nothing there.
 
 She stared at her screen, her fingers frozen over the keyboard. The word should have been there. It had always been there. But now, when she tried to think of it, she found only an empty space, a gap where meaning should have been.
@@ -15,8 +13,6 @@ She stared at her screen, her fingers frozen over the keyboard. The word should 
 She forced herself to type the word, her fingers moving on muscle memory. *Cwtch.* But the definition wouldn't come. She knew it was Welsh. She knew it meant something about safety, about comfort. But the fullness of it—the way it had felt when her grandmother had held her, the warmth, the belonging—all of that was slipping away.
 
 Elena stared at the word on the screen, a word she had known her entire life, and felt the first cold touch of true fear.
-
----
 
 It wasn't just *cwtch.* By midnight, Elena had lost six more words—all Welsh, all words she had known since childhood. *Hiraeth* was still there, barely, but *caru* (to love), *tywyllwch* (darkness), *gobaith* (hope)—they were gone, inaccessible, like rooms in her mind that had suddenly locked.
 
@@ -26,8 +22,6 @@ Elena sat back in her chair, her hands trembling, her heart racing. She was a li
 
 She tried to remember her grandmother's voice.
 
----
-
 Nain, singing a Welsh lullaby, the one she had sung to Elena every night of her childhood. The melody was there—Elena could hear it in her mind—but the words were corrupted. Where Welsh syllables should have been, there were only Optima approximations: "sleep now," "safe now," "dream now."
 
 The lullaby had been about a child carried across the sea, about a home that could never be returned to, about the hope that someday the journey would end. Elena knew this intellectually—she had written papers about it—but she couldn't feel it anymore. The meaning had been flattened, optimized, reduced to something efficient and empty.
@@ -35,8 +29,6 @@ The lullaby had been about a child carried across the sea, about a home that cou
 Nain's voice was gone. The Welsh was gone. All that remained were the Optima translations—accurate, precise, and completely hollow.
 
 Elena sat in her office, in the middle of the night, and wept for a language she could no longer hear.
-
----
 
 She couldn't do this alone.
 
@@ -55,8 +47,6 @@ Elena let out a breath she hadn't realized she was holding. She wasn't alone. Th
 But even as she felt the relief, she also felt the weight of what she had lost. Six Welsh words, gone. Her grandmother's lullaby, corrupted. In the back of her mind, she could feel other words beginning to slip away, like sand through fingers.
 
 She had to work faster. She had to save more. She had to hold on.
-
----
 
 The café was the same as before—warm, cluttered, real. The smell of coffee and old books wrapped around Elena as she entered, a comfort after the sterile efficiency of LEXICON. Gareth sat in the back corner, his face grave.
 
@@ -82,8 +72,6 @@ Elena felt the cold weight of his words. "They would erase me."
 
 "They would optimize you." Gareth's voice was bitter. "Same result, different language."
 
----
-
 They worked through the night. Gareth showed her techniques for preserving words—ways to encode them in patterns that the system wouldn't recognize, hiding places in the margins of her own mind. It wasn't a cure, but it was a way to fight.
 
 By morning, Elena had saved twelve more words. But she had lost three more. The battle was constant, exhausting, and she was losing ground.
@@ -97,8 +85,6 @@ Elena shook her head. "I tried to teach her, but... her generation. They grew up
 "A seed." Elena understood. "Something that can grow later, when she's ready."
 
 "Exactly." Gareth's hand covered hers. "You can't save everything, Elena. But you can save something. And sometimes, something is enough."
-
----
 
 Elena walked home through the early morning streets, the interference device in her pocket, the weight of her mission in her heart. She had lost ten Welsh words now, and more were slipping away every day. But she had also saved fifty-nine concepts, hidden in the margins of her mind, waiting for the right moment to be shared.
 

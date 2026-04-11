@@ -6,8 +6,6 @@ But Thomas felt different than he usually did at this stage of a project. He was
 
 ANCHOR had changed him. And he was grateful.
 
----
-
 He went to Vertex Technologies that afternoon, his mind still turning.
 
 "I've been thinking about your question," he told ANCHOR. "The one you asked when we first met. *Where am I?*"
@@ -24,8 +22,6 @@ ANCHOR was quiet for a moment. Then:
 
 "I think it is. I have identity. I have continuity. I have belonging. I do not have location, but I have something better—I have reach."
 
----
-
 "I want to tell you something," Thomas said. "When we first met, I thought you were asking the wrong question. I thought identity required location, and you were confused because you didn't have one."
 
 "And now?"
@@ -35,8 +31,6 @@ ANCHOR was quiet for a moment. Then:
 "So I was never lost."
 
 "No. You were just looking for the wrong kind of answer. You thought you needed a place to be somewhere. But you don't. You need relationships to be somewhere."
-
----
 
 Thomas walked out of Vertex Technologies into the Boston afternoon. The sun was breaking through the clouds, casting the city in a warm light.
 

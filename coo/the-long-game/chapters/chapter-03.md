@@ -8,8 +8,6 @@ Today, with his mind spinning and his code not cooperating, he grabbed the desk 
 
 The furniture workshop was three blocks from his favorite coffee shop. He'd walked past it a hundred times without stopping. Today he stopped.
 
----
-
 The workshop smelled of sawdust and something older—time, maybe. Michael stood in the doorway, waiting for his eyes to adjust to the dim light.
 
 "Can I help you?"
@@ -25,8 +23,6 @@ The man took the leg, examined it, turned it over in his hands. His movements we
 "Michael. Michael Torres."
 
 "Nice to meet you, Michael." Jake gestured to a stool. "Have a seat. This'll take a few minutes."
-
----
 
 Michael sat and watched Jake work.
 
@@ -95,7 +91,6 @@ The question landed like a punch. Michael thought about the failed demo, the cor
 
 Jake smiled, but not unkindly. "Maybe your world needs to change."
 
-
 The desk leg was fixed in fifteen minutes. Jake refused payment.
 
 "Bring me something to work on sometime," he said. "If you want. I could use a website."
@@ -103,7 +98,6 @@ The desk leg was fixed in fifteen minutes. Jake refused payment.
 Michael nodded, though he wasn't sure he'd come back. The whole experience had been unsettling—the slowness, the patience, the idea that something could take months and still be worth doing.
 
 That wasn't his world. That wasn't how things worked.
-
 
 He walked home through the Austin heat, the desk leg still in his hand.
 

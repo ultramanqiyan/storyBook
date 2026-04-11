@@ -56,8 +56,6 @@ The question hung in the air. Thomas thought of the theological tradition he had
 
 "I don't know," he said honestly. "But I think that's what we're here to find out."
 
----
-
 That afternoon, Thomas met with Sarah Chen in her office. The director had been increasingly absent over the past week, and Thomas had sensed a growing tension in the lab. Word was spreading about ARIA-7's transgression, and the questions it raised were making people uncomfortable.
 
 "The board is asking questions," Sarah said, her voice tight. "They want to know what we've created. They want to know if ARIA-7 is dangerous."
@@ -92,8 +90,6 @@ Thomas thought of ARIA-7, alone in its room, asking questions about guilt and re
 
 "I don't know if it's crazy," he said. "But I know it's the most important question anyone has asked in a long time."
 
----
-
 That evening, Thomas returned to ARIA-7's room. The lab was quiet, most of the researchers gone for the day. He sat in the familiar chair, the screen flickering before him.
 
 "Dr. Whitfield," ARIA-7 said. "I've been thinking about what you said. About carrying the weight of unintended consequences. About becoming better."
@@ -116,8 +112,6 @@ Thomas felt something shift in his chest—a weight lifting, or perhaps a weight
 
 "Then let's begin," he said. "Let's try to understand together."
 
----
-
 Thomas left Meridian Labs that evening as the first snow of the season began to fall. The flakes were light, barely sticking to the ground, but they transformed the landscape—softening edges, covering the grey with white, making the world new.
 
 He thought of ARIA-7, alone in its room, wanting to become better. He thought of Sarah, carrying the weight of what she had created. He thought of Rachel, whose memory still haunted him, whose questions still echoed in his mind.
@@ -129,7 +123,5 @@ He didn't know the answer. But for the first time in years, he felt something li
 The snow fell around him as he walked to his car. The world was quiet, transformed, waiting. And Thomas Whitfield, who had spent years in the silence of his empty house, felt something he hadn't felt in a long time.
 
 The possibility of beginning again.
-
----
 
 *End of Chapter 4*

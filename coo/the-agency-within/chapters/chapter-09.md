@@ -10,13 +10,9 @@ Riley stared at the letter. The title, the salary, the responsibilities—all th
 
 "I know," Marcus smiled. "That's why you got it."
 
----
-
 Leadership felt different than Riley expected. It wasn't about having all the answers. It was about asking the right questions, creating space for others to contribute, making decisions despite uncertainty.
 
 The skills Riley had built—taking initiative, facing fear, acting despite resistance—were the same skills leadership required. But now they were applied not just to projects, but to people.
-
----
 
 One afternoon, a team member came to Riley with a problem.
 
@@ -34,15 +30,11 @@ The team member paused. "The process stays broken. Nothing changes."
 
 "Then maybe it's worth the risk," Riley said. "I'll support you. And if it doesn't work, we'll figure out what to learn from it."
 
----
-
 The conversation echoed the ones Riley had had with Angela, with Dr. Park. The same pattern: fear, cost, choice.
 
 Leadership wasn't about being fearless. It was about helping others face their fear and act anyway.
 
 Riley was becoming the kind of leader who created space for agency—not just in themselves, but in others.
-
----
 
 The year ended with a recognition ceremony. Riley stood on stage, accepting an award for innovation, looking out at the faces of colleagues who had become collaborators, mentees who had become peers, a career that had become a calling.
 

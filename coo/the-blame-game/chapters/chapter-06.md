@@ -16,8 +16,6 @@ He had seen this before. When someone was being investigated, the office became 
 
 He was being isolated.
 
----
-
 At noon, he received an email from Sarah Kim.
 
 *Subject: Lunch?*
@@ -66,8 +64,6 @@ Their voices faded as they walked away.
 Mark stood by the window, his coffee growing cold in his hand.
 
 *Someone has to pay. That's how it works.*
-
----
 
 At 1:45 PM, Mark walked to the conference room.
 

@@ -99,7 +99,7 @@ But it was something.
 
 She closed her laptop and walked to the window. The city lights stretched to the horizon, millions of people going about their lives, unaware of the changes coming their way.
   
-Somewhere out there, servers were humming. Algorithms were learning. The future was being built, one optimization at a time.
+Out there, servers were humming. Algorithms were learning. The future was being built, one optimization at a time.
   
 Out there, workers were losing their jobs, their identities, their sense of purpose. They would wake up tomorrow to find that the ground beneath their feet had shifted.
 

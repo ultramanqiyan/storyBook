@@ -8,8 +8,6 @@ The archives were organized by date and classification level, with the oldest do
 
 She had told herself she was just looking for context. Just trying to understand how the system had evolved from the elegant framework she'd designed to the controlling mechanism it had become. But she knew what she was really looking for: evidence. Proof that the system had been corrupted from its original purpose.
 
----
-
 The elevator doors opened onto the third sublevel, and Elena stepped into the familiar silence of the archives. The air was cool and slightly dry, maintained at optimal conditions for document preservation. The lighting was soft, designed to minimize damage to sensitive materials.
 
 She walked past rows of shelves, her footsteps echoing in the quiet space. Physical documents were stored here—paper, parchment, even older materials that had been carefully preserved through the centuries. But Elena wasn't interested in ancient history. She was looking for something much more recent.
@@ -17,8 +15,6 @@ She walked past rows of shelves, her footsteps echoing in the quiet space. Physi
 The design documents for the cognitive stratification system were stored in Section 7, Subsection C. Elena had helped organize them herself, twenty-three years ago, when the system was first implemented. She remembered the boxes, the folders, the careful cataloging of every decision, every assumption, every rationale.
 
 She found Section 7 and began to search.
-
----
 
 The documents were exactly where she remembered them. Box after box of design specifications, meeting minutes, research papers, and implementation reports. Elena pulled down the boxes she needed and carried them to a reading table in the corner of the archive.
 
@@ -29,8 +25,6 @@ The module had been designed to measure cognitive capacity, not compliance. The 
 Elena felt a spark of hope. The system had been corrupted. Someone had added the deference criterion after the original design. She could prove it, expose it, force a review of every classification that had been affected.
 
 She continued reading, looking for the point where the corruption had occurred.
-
----
 
 The change came in Year 3 of the system's operation.
 
@@ -47,8 +41,6 @@ Elena stared at the document. Her own name was on the attendance list. She had b
 
 She didn't remember.
 
----
-
 Elena pulled more documents, searching for her own notes from that period. She found them in a separate folder—her personal records from Year 3 of the system's operation.
 
 The notes were detailed, covering every meeting she had attended, every decision she had participated in. She found the entry for Meeting 47-B, the session where the deference criterion had been added.
@@ -61,15 +53,11 @@ The notes were detailed, covering every meeting she had attended, every decision
 Elena read her own words, written twenty years ago, and felt something break inside her.
 She had done this. She had helped add the deference criterion. She had believed it was the right thing to do. And she had forgotten—had somehow erased from her memory the moment when she had helped transform the system from a tool for helping people into a tool for controlling them.
 
----
-
 The archive was silent around her. Elena sat at the reading table, surrounded by boxes of documents, and tried to process what she had discovered.
 The system hadn't been corrupted. It had evolved. The people who had designed it—including Elena herself—had made decisions over the years that transformed it from a tool for cognitive support into a mechanism for social control. And they had done it gradually, incrementally, each small change justified by data and research and a genuine belief that they were helping people.
 
 Robert had been right about one thing: the system was working exactly as designed. But he was wrong about another: the design wasn't fixed. It had changed over time, shaped by the people who operated it, responding to the pressures and incentives that operated on them.
 Which meant it could change again.
-
----
 
 Elena gathered the documents she needed—the meeting minutes, the design specifications, the implementation reports. She would need evidence if she was going to challenge the system. Proof that the deference criterion had been added after the original design. Proof that it was measuring compliance rather than capability. Proof that the system was classifying people as deficient for asking questions.
 
@@ -79,8 +67,6 @@ But first, she needed to understand exactly what she was dealing with. The defer
 Elena wasn't sure that assumption was wrong. The simulation she had run showed that widespread methodology access could lead to chaos. The data Robert had cited showed that individuals who questioned everything often struggled to function.
 But the system had taken that uncertainty and turned it into certainty. It had decided, before anyone had a chance to prove otherwise, who could handle questions and who couldn't. It had created a permanent hierarchy of cognitive access, locked people into categories they could never escape.
 That wasn't protection. That was control.
-
----
 
 Elena returned to her office, the documents she had gathered stored securely in her neural interface. She sat at her desk, staring at the screens that displayed the methodology stratification module—the system she had helped create, the system that had classified her daughter as deficient for asking too many questions.
 The archive documents had shown her how the system had evolved. Now she needed to understand how to change it.

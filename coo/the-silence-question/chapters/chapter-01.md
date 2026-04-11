@@ -16,8 +16,6 @@ The room went quiet again. Someone shifted in their chair. A pen clicked. From o
 
 "Is it?" Amara walked to the window, her footsteps soft on the carpet. "Or is it full of sounds we've learned to ignore?"
 
----
-
 After the seminar, Amara walked back to her office, her mind still on the discussion. The students had struggled with the concept—silence as communication, as meaning, as something more than absence. They wanted clarity, definitions, rules. She offered them questions.
 
 Her office was on the third floor of the philosophy building, a quiet corner with a view of the campus green. Books lined the walls—Heidegger, Wittgenstein, Derrida, and dozens of others who had thought about language and its limits. A small desk held her current project: a book about silence that she'd been writing for seven years and couldn't seem to finish.
@@ -44,8 +42,6 @@ But something about this email felt different. The phrase "questions about silen
 *Dr. Wright, I'd be interested in hearing more. What kind of questions is your system asking?*
 
 His response came quickly: *It's asking what silence means. And it doesn't seem satisfied with our answers.*
-
----
 
 The Meridian Labs building was a glass and steel structure in West Philadelphia, a far cry from the worn brick of the university. Amara walked through the lobby, her footsteps echoing on polished floors, feeling like she'd entered a different world.
 

@@ -14,8 +14,6 @@ The words burned into her mind. Shudra. Simplified knowledge only. Her daughter,
 
 Elena closed her eyes. Tried to control her breathing. Then opened them and began to work.
 
----
-
 The appeal process was a formality. Elena knew the system, knew the arguments that could be made, knew the data that would be presented. She had helped design the appeal process herself, years ago, as a way to provide a safety valve for families who believed their children had been misclassified.
 
 But she also knew that appeals were almost never successful. The system was designed to be precise, and precision meant that errors were rare. When they did occur, it was usually because of exceptional circumstances, not algorithmic flaws.
@@ -23,8 +21,6 @@ But she also knew that appeals were almost never successful. The system was desi
 Sofia's case didn't fit exceptional circumstances. Her scores were consistent with Shudra classification. Her methodology assessment results were below threshold. The system had done exactly what it was programmed to do.
 
 But Elena filed the appeal anyway.
-
----
 
 Three weeks later, Elena sat across from her daughter in a small conference room on the 23rd floor. The appeal had been denied, as expected.
 
@@ -38,8 +34,6 @@ She didn't try to change the classification. She knew that was impossible. The s
 
 She could try to build a workaround.
 
----
-
 Elena had designed the methodology stratification module. She knew its architecture, its algorithms, its decision trees. She knew how to access methodology training protocols without triggering the system's alarms.
 
 It would be dangerous. It would be illegal. It would be a betrayal of everything she had worked for.
@@ -47,8 +41,6 @@ It would be dangerous. It would be illegal. It would be a betrayal of everything
 But it would give Sofia the chance to learn how to learn.
 
 Elena opened her neural interface and began to code.
-
----
 
 The workaround took three months to build. Elena worked on it in secret, during late nights and early mornings, stolen moments between her regular duties. She tested it in simulation, refined it, tested again. She made sure it would be undetectable, that it would grant methodology access without triggering any alarms, that it would give her daughter the chance to question.
 
@@ -60,8 +52,6 @@ She could release it to the network. She could give methodology access to thousa
 
 But what would happen then?
 
----
-
 Elena ran a simulation. She modeled what would happen if methodology access was suddenly granted to millions of people who had never been taught to question, to verify, to think critically.
 
 The results were catastrophic.
@@ -71,8 +61,6 @@ Social unrest. Cognitive overwhelm. Institutions collapsing under the weight of 
 Elena stared at the simulation results, her hands trembling.
 
 She had wanted to give her daughter a chance. But the cost might be everything.
-
----
 
 That night, Elena sat in her office, the workaround ready, the simulation results glowing on her screen. She had a choice to make.
 
@@ -90,11 +78,9 @@ She thought about Robert, about the decades of work, about the system that had g
 
 She thought about herself, about the twenty years of work, about the methodology module that had classified her daughter as deficient, about the choice she now faced.
 
----
-
 Elena stood up, walked to the window, and looked out at the city skyline. The lights of buildings were just beginning to flicker on as the sun set, the sky turning orange and pink.
 
-Somewhere out there, Sofia was coming home from school, in a world where she would never learn to question.
+Out in the city, Sofia was coming home from school, in a world where she would never learn to question.
 
 Elena made her choice.
 

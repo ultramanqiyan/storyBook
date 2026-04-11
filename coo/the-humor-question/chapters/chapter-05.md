@@ -46,8 +46,6 @@ HARM was quiet for a long moment. Then:
 
 Sophie smiled. "Go ahead."
 
----
-
 The screens flickered, and text appeared:
 
 *Sophie, I have been observing your work for several weeks now. I have noticed that you often use your rubber chicken, Henrietta, as a way to create connection. The chicken is silly, absurd, unexpected. It invites play.*
@@ -81,8 +79,6 @@ Sophie laughed—a real, genuine laugh. "Because clowns need big shoes to hold a
 *That is not a joke. That is a purpose.*
 
 "Maybe they're the same thing."
-
----
 
 They played for an hour—Sophie and HARMony, asking each other questions, sharing jokes, creating a world where a robot could be curious and a clown could be wise. It wasn't traditional humor. It was something better. It was connection.
 

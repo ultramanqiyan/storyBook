@@ -63,5 +63,3 @@ The observation room overlooked the merge chamber like a gallery seat at a trans
  And then, only then, would she decide whether to follow him
 
  The ring pressed against her skin, warm and steady, like a heartbeat that wouldn't stop
-
----

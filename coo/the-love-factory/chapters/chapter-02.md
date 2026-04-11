@@ -1,16 +1,8 @@
-# The Love Factory - Chapter 02: The Order
-
-> **Book**: The Love Factory
-> **Chapter**: 02 of 10
-> **Word Count**: 2,189
-
----
+# Chapter 2: The Order
 
 James returned to the Love Factory three days later.
 
 He brought everything, photographs, videos, voice recordings from their years together. A digital archive of a relationship that had ended.
-
----
 
 Dr. Chen reviewed the materials with clinical precision.
 

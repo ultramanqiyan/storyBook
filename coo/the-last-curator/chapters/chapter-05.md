@@ -6,8 +6,6 @@ After the blind test, after Elena's public humiliation, he needed something—an
 
 So he sat at his computer, opened Jimmy's portfolio, and looked. Really looked. For the first time, he noticed things he'd missed before.
 
----
-
 It started with the metadata.
 
 Marcus had requested the original digital files of Jimmy's work—high-resolution scans for the exhibition catalog. As he examined them, something caught his eye.
@@ -23,8 +21,6 @@ That wasn't unusual in itself. Most artists used digital tools to document their
 He opened the next image. Same discrepancy. And the next. And the next.
 
 All of Jimmy's work showed the same digital fingerprints.
-
----
 
 Marcus spent the next three hours digging deeper.
 

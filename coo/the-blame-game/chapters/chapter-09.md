@@ -8,8 +8,6 @@ He had told his wife what happened. She had been supportive, angry on his behalf
 
 He didn't have answers.
 
----
-
 Around 3 PM, his phone buzzed.
 
 An email from David.
@@ -44,8 +42,6 @@ He was the individual. He was the answer.
 *We take full responsibility.*
 
 But they didn't. He did.
-
----
 
 He read the statement again.
 

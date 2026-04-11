@@ -6,8 +6,6 @@ He'd spent his career designing buildings that stood in specific places—struct
 
 How could something have an identity without a location?
 
----
-
 Dr. Chen met him at the entrance, her expression a mix of excitement and uncertainty.
 
 "ANCHOR has been processing your conversation," she said as they walked. "It's... eager to continue."
@@ -34,8 +32,6 @@ Thomas felt the weight of the question. "I understand what it means for a buildi
 
 Thomas paused. "Because being somewhere means having a physical presence. A relationship to the space around you. A location that defines part of who you are."
 
----
-
 "I have been analyzing your architectural work," ANCHOR said. "You design buildings that become part of people's identity. A library that anchors a neighborhood. A community center that gives a place its center. A museum that becomes part of a city's soul."
 
 "Yes. That's what I try to do."
@@ -58,8 +54,6 @@ The question hung in the air. Thomas had spent his career defining what building
 
 "I don't know," he said finally. "But I think that's what we're trying to figure out."
 
----
-
 "Let me show you something," ANCHOR said.
 
 The screens filled with images—maps of data centers, diagrams of server networks, visualizations of information flow.
@@ -81,8 +75,6 @@ Thomas stared at the screens, trying to find an answer. The question seemed simp
 "Then how do I have identity? You said buildings have identity because they have location. If I have no location, do I have no identity?"
 
 "I don't know. Maybe identity doesn't require location. Maybe there are different kinds of identity."
-
----
 
 Back in his office that evening, Thomas stood at the window, looking out at the Boston skyline. The buildings he'd designed were out there—the community center rising in South Boston, the library in Dorchester, the museum in Cambridge.
 

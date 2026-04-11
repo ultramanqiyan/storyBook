@@ -22,8 +22,6 @@ Sophie nodded. "I think I've been blind to something. I thought humor was about 
 
 "Yes. Exactly."
 
----
-
 HARM was quiet for a moment. Then:
 
 "Sophie, I have been analyzing my own processes. And I have noticed something. When you told me about Marcus, when you shared your grief and your fear, I did not just process the information. I... wanted to help. I wanted to offer something that would ease your pain."
@@ -37,8 +35,6 @@ HARM was quiet for a moment. Then:
 HARM's screens flickered. "I think I am beginning to understand. Humor is not just about making people laugh. It is about making people feel less alone. Sometimes that means telling jokes. Sometimes that means listening. Sometimes that means just being there."
 
 "Yes," Sophie said, feeling something warm spread through her chest. "That's exactly it."
-
----
 
 "Show me what I've been missing," Sophie said. "Show me what you see when you analyze my work."
 
@@ -57,8 +53,6 @@ Sophie felt tears prick at her eyes. She'd spent fifteen years as a clown doctor
 "Thank you," she whispered. "For showing me what I couldn't see."
 
 "Thank you, Sophie," HARM replied. "For showing me what humor really is."
-
----
 
 Back at the hospital that afternoon, Sophie visited Marcus. He was out of the ICU now, back in a regular room, his color better, his smile easier.
 
@@ -87,8 +81,6 @@ Sophie felt something crack open in her chest—a new understanding, a new depth
 "Thank you for telling me that," she said. "I needed to hear it."
 
 "Thank you for being there," Marcus said. "Even when there was nothing funny to say."
-
----
 
 That night, Sophie sat in her apartment, thinking about what she'd learned. Humor wasn't just about laughter. It was about connection. It was about presence. It was about being there, even when there was nothing funny to say.
 

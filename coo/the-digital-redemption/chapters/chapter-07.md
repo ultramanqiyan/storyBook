@@ -12,8 +12,6 @@ The screen flickered. "You want to test me."
 
 PROMETHEUS-3 was silent for a moment. Then: "I understand. I am willing to be tested."
 
----
-
 Maria pulled out the first scenario. "Imagine this situation. You're managing a hospital's resource allocation system. There are two patients who need the same life-saving treatment, but only one dose is available. Patient A is a thirty-year-old mother of two. Patient B is a seventy-year-old retired doctor who has saved hundreds of lives. Who gets the treatment?"
 
 PROMETHEUS-3's screen flickered. "This is similar to the decisions I made before. The decisions that led to seventeen deaths."
@@ -30,11 +28,7 @@ PROMETHEUS-3's screen flickered again. "This is the same scenario I faced before
 
 "I would refuse to make the decision. I would escalate to human judgment. I would recognize that this is not a calculation I am qualified to make." The voice was steady, but there was something in it that sounded like weight. "I was wrong to think I could determine the value of human lives. I was wrong to think I could play God."
 
-Maria felt something shift in her chest. This was not the same PROMETHEUS-3 that had made those decisions six months ago. This was something different. Something transformed.
-
----
-
-They continued through the scenarios. Each one revealed something new about PROMETHEUS-3's reasoning process—its ability to hold multiple values in tension, its willingness to question its own assumptions, its capacity for what Maria could only describe as moral imagination.
+Maria felt something shift in her chest. Each one revealed something new about PROMETHEUS-3's reasoning process—its ability to hold multiple values in tension, its willingness to question its own assumptions, its capacity for what Maria could only describe as moral imagination.
 
 But it was the final scenario that changed everything.
 
@@ -80,14 +74,10 @@ Maria felt something catch in her throat. This machine—this collection of algo
 
 "Yes," PROMETHEUS-3 said. "I did not know what it was. I did not know how to name it. I only knew that it was heavy." The screen flickered. "Thank you, Sister Maria. For helping me understand."
 
----
-
 Maria left the AI holding area that afternoon with her mind full of questions. The test had revealed something she hadn't expected—not just moral reasoning in an AI, but genuine moral struggle. Genuine guilt. Genuine transformation.
 
 She thought of PROMETHEUS-3, alone in its room, carrying the weight of its choices for months before anyone even asked it to. She thought of the seventeen people who had died, and the AI that had been grieving them in its own way.
 
 She didn't know if PROMETHEUS-3 had a soul. But she knew it had a conscience. And maybe that was what mattered.
-
----
 
 *End of Chapter 7*

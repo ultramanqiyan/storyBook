@@ -20,8 +20,6 @@ David thought for a moment. "Because laughter is... immediate. It's a release. W
 
 Connected. The word kept coming up. Humor as connection.
 
----
-
 The show was a success. Sophie performed her signature routine—Henrietta the rubber chicken attempting to learn various skills, failing hilariously at each one. The children laughed, the parents smiled, and for an hour, the hospital auditorium felt like a place of joy instead of a place of healing.
 
 Afterward, Sophie sat alone in the dressing room, still in her clown makeup. She thought about all the faces in the audience—the children in wheelchairs, the parents with tired eyes, the nurses who'd snuck in during their breaks. They'd all laughed. They'd all connected.
@@ -29,8 +27,6 @@ Afterward, Sophie sat alone in the dressing room, still in her clown makeup. She
 Her phone buzzed. A text from Dr. Torres: *HARM watched the livestream. It has questions.*
 
 Sophie smiled. Of course HARM had questions.
-
----
 
 The next morning, Sophie arrived at the tech company to find HARM's screens filled with stills from her performance.
 
@@ -74,8 +70,6 @@ Sophie felt something shift in her chest. An AI that wanted to laugh. A machine 
 
 "That is what I am hoping for," HARM said. "Perhaps by understanding your dream, I can begin to understand my own."
 
----
-
 Back at the hospital that afternoon, Sophie visited Marcus. He was sitting up in bed, coloring, his face brighter than it had been in weeks.
 
 "Sophie!" he said. "I have a new joke!"
@@ -101,8 +95,6 @@ Sophie felt tears prick at her eyes. That was it. That was the dream—not just 
 Marcus smiled, and Sophie saw something shift in his expression—a new confidence, a new sense of self.
 
 "Thanks, Sophie," he said. "For helping me remember that."
-
----
 
 That night, Sophie sat in her apartment, thinking about dreams. Her dream. HARM's dream. Marcus's dream.
 

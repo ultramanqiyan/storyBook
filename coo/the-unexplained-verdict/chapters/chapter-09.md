@@ -26,8 +26,6 @@ The words felt inadequate. The truth felt too large to articulate.
 
 But she knocked anyway.
 
----
-
 Marcus looked up when she entered, his expression shifting from surprise to something like concern. Jennifer rarely came to his office without a specific reason - a question about a claim, a request for guidance, a professional matter that required his input.
 
 "Walsh," he said, his voice gruff but not unkind. "Everything okay?"
@@ -131,8 +129,6 @@ Jennifer sat with his words. The choice seemed both simple and impossible. She c
 "Then you'll find out," Marcus said. "And you'll decide what to do with that information."
 
 He stood up, signaling the end of the conversation. "I can't tell you what to do, Walsh. But I can tell you this: the question you're asking - what kind of professional do I want to be - that's the right question. The answer is yours to find."
-
----
 
 Jennifer left his office with more questions than answers.
 

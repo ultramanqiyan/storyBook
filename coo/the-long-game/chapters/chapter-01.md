@@ -6,8 +6,6 @@ The screen glowed with notifications, Slack messages from the offshore team, ema
 
 By 6:03, he was out of bed, coffee maker already brewing, laptop open on the kitchen counter. The day had started, and he was already sprinting.
 
----
-
 The home office was really just a corner of the living room, but Michael had made it work. Two monitors, a mechanical keyboard that clacked with satisfying precision, a chair he'd spent too much money on. The Austin skyline was visible through the window, cranes still building, the city still growing, everyone still rushing.
 
 His first call was at 6:45. The offshore team in Bangalore needed clarification on a feature spec. Michael talked them through it while his other monitor displayed the client's dashboard redesign, the one that had to be done by end of day.
@@ -19,8 +17,6 @@ His first call was at 6:45. The offshore team in Bangalore needed clarification 
 "Skip the edge cases. We'll fix those in production. What's the timeline?"
 
 There it was. His favorite question. The one that drove every decision, every trade-off, every sprint.
-
----
 
 By 9 AM, Michael had been working for three hours. He'd answered seventeen Slack messages, reviewed two pull requests, and made significant progress on the dashboard redesign. His coffee sat cold beside him, forgotten in the rush.
 
@@ -45,8 +41,6 @@ He started typing before he could overthink it.
 *Michael*
 
 His fingers flew across the keyboard. This was what he did best, compress timelines, find efficiencies, make the impossible possible. The rush of it was familiar, almost addictive. Every compressed deadline was a validation. Every sprint completed was proof that he could outrun the clock.
-
----
 
 The coffee shop was three blocks from his apartment, a small place with exposed brick and local art on the walls. Michael arrived at 12:30, thirty minutes late, because a call had run over.
 
@@ -84,8 +78,6 @@ Rachel shook her head slowly. "You know what they teach us in residency? That so
 
 "Is it?" She leaned back. "Or is speed just what you're used to?"
 
----
-
 By 6 PM, Michael had shipped the dashboard redesign, restructured the sprint for the accelerated timeline, and responded to forty-three Slack messages. He'd also eaten nothing but a protein bar and drunk four cups of coffee.
 
 His apartment was quiet. The screens were dark. He should eat something. He should rest. He should...
@@ -99,8 +91,6 @@ But the breathing felt wrong. Too slow. Too still. His mind was already racing a
 *This is who I am,* he thought. *This is what it takes.*
 
 He picked up his phone and started typing.
-
----
 
 The apartment was quiet now. Michael sat in the dark, the glow of his closed laptop a faint blue light in the corner. He'd made progress today. He always made progress. But it never felt like enough. There was always another deadline, another client, another sprint.
 

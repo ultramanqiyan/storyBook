@@ -16,8 +16,6 @@ Robert Chen had been her mentor for twenty years. He had recruited her to the Me
 
 And he was the only person she could trust with this.
 
----
-
 Robert's office was on the fifth floor, in the corner of the building with the best view of the Charles River. Elena had been there a hundred times—for meetings, for celebrations, for quiet conversations about the future of cognitive stratification. It was a warm space, filled with books and plants and the accumulated artifacts of a long career.
 
 She stopped outside his door, her hand raised to knock.
@@ -31,8 +29,6 @@ Elena took a breath and knocked.
 "Come in."
 
 Robert's voice was warm, familiar. Elena pushed open the door.
-
----
 
 Robert Chen sat behind his desk, a cup of tea steaming beside him, his neural interface active and casting a soft glow across his silver hair. He looked up as Elena entered, and his expression shifted from professional neutrality to genuine concern.
 
@@ -151,8 +147,6 @@ The system was working exactly as designed. And the people who had designed it b
 "Watch me."
 
 She walked out without looking back.
-
----
 
 The corridor seemed longer on the way out. Elena's footsteps echoed in the silence, each step carrying her further from the conversation, further from the mentor she had trusted, further from the comfortable certainty that had defined her career.
 

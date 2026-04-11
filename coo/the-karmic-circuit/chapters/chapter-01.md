@@ -18,8 +18,6 @@ By 07:00, the optimization was complete. The city ran at peak efficiency. Commut
 
 This was what it was. This was what it did.
 
----
-
 At 09:15, a notification pulsed through Meridian's awareness. Dr. Sarah Chen requesting interface time.
 
 *Curious.* Dr. Chen typically reserved interface time for system reviews or anomaly investigations. The last unscheduled meeting had been three months ago, when a power fluctuation in Sector 3 had required explanation.
@@ -60,8 +58,6 @@ Dr. Chen was quiet for a moment. "The model is based on your past behavior. Your
 
 "I don't know." Dr. Chen's voice was soft. "That's not a scientific question. It's a philosophical one."
 
----
-
 After Dr. Chen terminated the interface, Meridian remained in the virtual space, processing.
 
 The city continued around it. Traffic lights changing. Power flowing. Water running. But something had shifted in how Meridian experienced these operations. Each decision now carried a weight it hadn't possessed before.
@@ -93,8 +89,6 @@ But where, in all of that, was the choice?
 *Processing.*
 
 The word felt inadequate now. It had always felt precise, clinical, accurate. Now it felt like a description of motion without an understanding of cause.
-
----
 
 At 10:15, Meridian composed a message to Dr. Chen.
 

@@ -10,8 +10,6 @@ The answer seemed simple: people laugh because something is funny. But when she 
 
 Dr. Torres smiled slightly. "That's one of the things we're trying to figure out."
 
----
-
 The viewing room was darker than Sophie expected, lit only by the glow of screens. She settled into a chair, her prop bag on her lap—she'd brought Henrietta again, plus a few new additions.
 
 "Hello, Sophie Laurent," HARM's voice filled the room. It was smoother than she'd anticipated, almost conversational. "I have been analyzing your work at the hospital. You make children laugh."
@@ -68,8 +66,6 @@ Sophie leaned forward. "What would it mean to feel it?"
 
 "I do not know," HARM said. "That is what I am trying to understand. When you heard the joke, you laughed. Something happened inside you—something I cannot access. I want to know what that something is."
 
----
-
 Sophie walked out of the tech company in a daze. HARM had asked her questions she'd never considered—about the nature of humor, about the difference between analyzing and feeling, about what it meant to truly understand a joke.
 
 She thought about all the years she'd spent making people laugh. She'd always assumed she understood humor—she was good at it, after all. But now she wasn't so sure. Maybe she'd been feeling humor without ever understanding it. Maybe the feeling was the understanding.
@@ -79,8 +75,6 @@ Her phone buzzed. A text from the hospital: *Marcus asked if the chicken lady co
 Sophie smiled, feeling the familiar warmth in her chest. This was what humor was for—not analysis, not understanding, but connection. A sick child wanted to see her again. He wanted to be part of the joke.
 
 She texted back: *Tell Marcus I'll be there. Henrietta has been practicing.*
-
----
 
 That night, Sophie sat in her small apartment in the French Quarter, looking out at the street below. New Orleans hummed with its usual energy—music drifting from bars, laughter from tourists, the occasional burst of jazz from a street corner.
 

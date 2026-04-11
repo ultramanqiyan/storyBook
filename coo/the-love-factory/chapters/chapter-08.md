@@ -1,16 +1,8 @@
-# The Love Factory - Chapter 08: The Rain
-
-> **Book**: The Love Factory
-> **Chapter**: 08 of 10
-> **Word Count**: 2,256
-
----
+# Chapter 8: The Rain
 
 It started raining on Thursday.
 
 Not a gentle rain, but a downpour, the kind that turned streets into rivers and kept people huddled inside. James stood at the window, watching the water cascade down the glass.
-
----
 
 Clara came up behind him.
 

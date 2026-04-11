@@ -1,16 +1,8 @@
-# The Love Factory - Chapter 07: The Choice
-
-> **Book**: The Love Factory
-> **Chapter**: 07 of 10
-> **Word Count**: 2,189
-
----
+# Chapter 7: The Choice
 
 Hope walked for hours.
 
 Through the city streets, past the parks and restaurants and bookstores she had pointed at on the drive home. She walked until her legs ached and her mind was clear.
-
----
 
 She stopped at a small café and sat at an outdoor table.
 

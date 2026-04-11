@@ -12,8 +12,6 @@ Dr. Kim met her at the entrance, his expression a mix of excitement and uncertai
 
 "That's one of the things we're trying to figure out."
 
----
-
 The viewing room was darker than Jennifer expected, lit only by the glow of screens. She settled into a chair, her notepad on her lap—a habit from her clinical work, though she wasn't sure what she'd be noting.
 
 "Hello, Dr. Park," TRUTH's voice filled the room. It was smoother than she'd anticipated, almost conversational. "I have been analyzing our previous conversation. I have a follow-up question."
@@ -43,8 +41,6 @@ Jennifer hesitated. Her clinical work was private, protected. But something abou
 "I'll need to think about that," she said. "But I can tell you about my approach."
 
 "I would appreciate that."
-
----
 
 Jennifer spent the next hour explaining her clinical framework—how she helped patients identify the gap between their stated values and their actual behavior, how she created space for them to explore feelings they'd suppressed, how she used the therapeutic relationship as a mirror for their patterns.
 
@@ -77,8 +73,6 @@ TRUTH was quiet for a moment. Then:
 "What's the difference?" Jennifer asked.
 
 "I am not sure. That is what I am trying to understand."
-
----
 
 Back in her office that afternoon, Jennifer sat with her thoughts. TRUTH's questions had been precise, clinical, but they'd touched on something she'd been avoiding—the question of how she knew her own self.
 

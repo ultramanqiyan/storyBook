@@ -20,6 +20,4 @@ Sarah paused. "So the algorithm is asking the wrong question."
 
 "The algorithm is asking a question that works for certain kinds of truth—the kind that can be measured and recorded. But there are other kinds of truth. The truth of experience. The truth of testimony. The truth of small moments that don't leave records."
 
----
-
 **END OF CHAPTER 7**

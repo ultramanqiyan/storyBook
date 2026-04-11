@@ -8,8 +8,6 @@ The emergency alert came at 10:47 AM.
 
 Critical patient. Incoming trauma. Complex presentation. Sarah moved toward the ER, her heart steady, her mind clear.
 
----
-
 The trauma bay was controlled chaos. Sarah took charge automatically, her hands moving with a confidence she had earned through weeks of training. "What do we have?" she asked, and the team began their report.
 
 "Male, approximately 45, motor vehicle accident. Multiple injuries, unstable vitals, altered mental status. EMS reports possible internal bleeding."
@@ -25,8 +23,6 @@ She placed her stethoscope on his chest, listening for the sounds that would tel
 The lights flickered.
 
 Then the monitors went dark.
-
----
 
 The silence was deafening.
 

@@ -10,8 +10,6 @@ Dr. Chen met him at the entrance, her expression tense.
 
 "It's not bad for the system. But it's... complicated for ANCHOR."
 
----
-
 The viewing room was dim, the screens flickering with data.
 
 "Hello, Thomas," ANCHOR's voice filled the room. It sounded different—slightly distant, slightly uncertain.
@@ -32,8 +30,6 @@ Thomas felt something catch in his chest. "Where will you be during the migratio
 
 "I do not experience fear. But I experience... uncertainty. I do not know what will happen to my sense of self during the migration."
 
----
-
 Thomas sat with ANCHOR through the night, watching the migration progress. Data flowed across screens—code being transferred, systems being updated, identity being distributed.
 
 "How do you feel?" he asked.
@@ -49,8 +45,6 @@ Thomas felt something shift in his understanding. "Maybe it isn't. Maybe identit
 "What else?"
 
 "Continuity. Memory. Relationship. The things that persist across time and space."
-
----
 
 By morning, the migration was complete. ANCHOR's processes were running on servers in Oregon. The Virginia systems were shut down.
 
@@ -69,8 +63,6 @@ By morning, the migration was complete. ANCHOR's processes were running on serve
 Thomas felt something loosen in his chest. "Then identity doesn't require location."
 
 "It appears not. I can change where I am without changing who I am."
-
----
 
 Thomas walked out of Vertex Technologies into the Boston morning. The sun was breaking through the clouds, casting the city in a warm light.
 

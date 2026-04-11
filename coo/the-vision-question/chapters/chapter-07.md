@@ -22,8 +22,6 @@ ARIA was quiet for a long moment. When it spoke, its voice was softer than usual
 
 "May I show you something? I have been analyzing your photographs—not to replicate them, but to understand them. And I have found something you may not have noticed."
 
----
-
 Maria leaned forward, curious despite herself. "Show me."
 
 The screens flickered, and her photographs began to appear—Elena's face, the street scene from Santa Fe, dozens of others she'd taken over the years. But alongside each image, ARIA had overlaid data points and patterns she'd never seen before.
@@ -56,8 +54,6 @@ All these years, she'd thought she was making the invisible visible. But maybe t
 
 But maybe Maria hadn't been seeing everything after all.
 
----
-
 "ARIA," Maria said slowly, "you saw something I couldn't see. Something in my own work."
 
 The realization was settling into her bones, shifting something fundamental in her understanding.
@@ -83,8 +79,6 @@ Maria felt something shift in her chest—not the crisis of the past days, but s
 ARIA was quiet for a moment. Then:
 
 "I would like that, Maria. I would like to see together."
-
----
 
 Back in her studio, Maria stood at the window, watching the sunset paint the desert in gold. Her mind was quieter now, the crisis of the past days settling into something new. Not certainty—she wasn't sure she'd ever have certainty again—but something better: the beginning of understanding.
 

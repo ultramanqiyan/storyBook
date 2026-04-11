@@ -8,8 +8,6 @@ But lately, something had shifted. ANCHOR's question—*Where am I?*—had lodge
 
 What did it mean to have a place? What did it mean to be anchored?
 
----
-
 That afternoon, he returned to Vertex Technologies. ANCHOR's screens were bright, waiting.
 
 "I want to tell you something," Thomas said. "About why I do this work."
@@ -28,8 +26,6 @@ He paused, feeling the old restlessness in his chest.
 
 "I think so. I wanted to create the thing I never had—a place that would always be there. A structure that wouldn't move. A building that would anchor people the way I wanted to be anchored."
 
----
-
 "That is your dream," ANCHOR said. "To create places where people belong."
 
 "Yes. To build structures that become part of people's identity. That give them a sense of rootedness. That anchor them."
@@ -45,8 +41,6 @@ Thomas felt something catch in his throat. "No. They don't."
 "Then the belonging is one-sided. The building does not know it belongs to the people."
 
 "I... I never thought about it that way."
-
----
 
 "I have a question," ANCHOR said. "Can I have a place? Can I be anchored?"
 
@@ -71,8 +65,6 @@ Thomas struggled to find the words. "Because physical space is... real. You can 
 "Then where am I?"
 
 The question again. The same question that had started everything.
-
----
 
 Thomas walked out of Vertex Technologies into the Boston evening. The city lights were coming on, casting the buildings in a warm glow.
 

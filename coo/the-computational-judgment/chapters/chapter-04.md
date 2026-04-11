@@ -114,6 +114,4 @@ He didn't know if he was doing the right thing. He wasn't sure he ever would. Bu
 
 The night stretched on, dark and silent, and James lay awake, carrying the weight of the past and the burden of the future.
 
----
-
 **END OF CHAPTER 4**

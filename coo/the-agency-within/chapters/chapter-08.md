@@ -14,8 +14,6 @@ Riley felt the eyes turn toward them. The old fear surfaced—the instinct to de
 
 The VP nodded. "I'd like that. Let's schedule a meeting next week to discuss."
 
----
-
 After the meeting, Angela stopped by Riley's desk.
 
 "You've changed," she said, her voice warm.
@@ -26,8 +24,6 @@ After the meeting, Angela stopped by Riley's desk.
 
 Riley looked. The dashboard, the improved processes, the mentoring relationships, the invitations to strategic conversations. None of it would have existed if Riley had kept waiting.
 
----
-
 The impact wasn't just external. Inside, something had shifted. The cage was still there—the fear, the hesitation, the voice that said wait. But the door was open now. Riley had walked through it, again and again, until it became a path instead of a wall.
 
 The question that had started everything—What would it take?—had been answered. It took one small action. Then another. Then another.
@@ -35,8 +31,6 @@ The question that had started everything—What would it take?—had been answer
 The impact was cumulative. Each choice built on the last. Each risk made the next one slightly less scary.
 
 And the life that had felt stuck, narrow, small, was beginning to expand.
-
----
 
 That evening, Riley sat in the apartment, looking at the same view that had seemed so stagnant six months ago. The streetlights were coming on. The Boston skyline glowed in the distance.
 

@@ -16,8 +16,6 @@ He pulled up historical data, looking for context. The university had weathered 
 
 This was something new.
 
----
-
 He called an emergency meeting of the admissions team.
 
 Twelve people gathered in the conference room, their faces showing varying degrees of concern and confusion. Michael had handpicked each of them—experienced professionals who understood the complexities of higher education.
@@ -43,8 +41,6 @@ The meeting dispersed, but Michael stayed in the conference room, staring at the
 He knew what was different. Everyone knew what was different.
 
 The question was whether anyone was willing to say it.
-
----
 
 That afternoon, he walked across campus to the president's office.
 

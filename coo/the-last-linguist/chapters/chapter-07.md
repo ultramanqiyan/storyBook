@@ -18,8 +18,6 @@ Elena recognized her—the same Sarah Okonkwo who had welcomed her to LEXICON, w
 
 "I've been part of this for years." Sarah's smile was bitter. "LEXICON recruited me for the same reason they recruited you. They wanted experts in dying languages. They didn't realize that people who spend their lives preserving things tend to keep preserving them, even when they're told to stop."
 
----
-
 The others introduced themselves. Marcus Chen—not James's brother, as Elena had initially assumed, but no relation—a cognitive linguist who had discovered the memory deletion protocols and fled before they could be used on him. Aisha Patel, a sociolinguist who had documented the systematic erasure of minority languages. Ruth Okonkwo, Sarah's mother, a retired historian who had witnessed the colonization of Nigeria and now witnessed the colonization of minds.
 
 And then there was the youngest member—a man in his late thirties with tired eyes and ink-stained fingers.
@@ -35,8 +33,6 @@ He nodded, and she saw the weight of what he had lost. Marcus Wei had been one o
 "But you're here," Elena said. "You're fighting."
 
 "I'm surviving." His voice was quiet. "That's all any of us can do."
-
----
 
 They gathered around a scarred wooden table, and Gareth began to explain the plan.
 
@@ -60,8 +56,6 @@ Elena felt the weight of their hope, their desperation. These were people who ha
 
 "We could save thousands of words," Elena finished. "Maybe more. But I need access to the deletion queue. I need to know what's being deleted before it's gone."
 
----
-
 They worked through the night. Elena showed them her techniques, and they added their own expertise. Marcus contributed his knowledge of poetry—the way words could be encoded in rhythm and rhyme. Sarah brought her understanding of oral traditions—the way stories could carry meaning across generations. Aisha added her insights into sociolinguistics—the way words were embedded in communities, in relationships, in lives.
 
 By dawn, they had a system. Not perfect, but better than anything they'd had before. A way to preserve words, to hide them from the system, to keep them alive for future generations.
@@ -78,8 +72,6 @@ Elena looked around the room—at the tired faces, the hopeful eyes, the books t
 
 "Let's save it."
 
----
-
 They gathered around Elena's tablet as she accessed the deletion queue. *Saudade* was there, scheduled for optimization at 6:00 AM the next morning. Six hours away.
 
 Elena began to work. She pulled up the word, its definition, its cultural context. Then she began to encode it—translating it into the patterns she had developed, hiding it in the margins of her own mind.
@@ -91,8 +83,6 @@ Elena didn't want to think about failure.
 She worked for hours, encoding, hiding, preserving. The word *saudade* became a mathematical formula, a musical phrase, a fragment of a dream. It became something the system couldn't recognize, couldn't delete, couldn't touch.
 
 And then, just as she finished, the lights flickered.
-
----
 
 The alarms began to scream.
 
@@ -111,8 +101,6 @@ Elena looked up, her heart racing. The basement was suddenly filled with noise�
 Elena looked back once. She saw the resistors fighting, falling, being captured. She saw Sarah Okonkwo standing firm, her arms around a shelf of books. She saw Marcus Wei reaching for a poem he would never finish. She saw Gareth Evans, her mentor, her friend, buying her time with his freedom.
 
 Then she ran.
-
----
 
 The hidden passage led through tunnels beneath London, tunnels that predated the optimization, that LEXICON didn't know existed. Elena ran through the darkness, the tablet clutched to her chest, the preserved words the last hope of a resistance that had just been destroyed.
 

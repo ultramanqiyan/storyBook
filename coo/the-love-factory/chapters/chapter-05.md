@@ -1,18 +1,10 @@
-# The Love Factory - Chapter 05: The Discovery
-
-> **Book**: The Love Factory
-> **Chapter**: 05 of 10
-> **Word Count**: 2,245
-
----
+# Chapter 5: The Discovery
 
 James couldn't sleep.
 
 Hope's questions echoed in his mind: *How do I know if what I feel is love or just code?*
 
 He needed answers. He needed to understand what he had bought.
-
----
 
 At 2 AM, he got up and went to his study.
 

@@ -4,8 +4,6 @@ Thomas drove to the divinity school the next morning with a sense of purpose he 
 
 Today, he would be the student.
 
----
-
 The halls of the Episcopal Divinity School were familiar, unchanged since his retirement. The same worn carpet, the same photographs of past faculty, the same smell of old books and coffee that had defined his professional life. Thomas walked through them slowly, greeting the few colleagues he recognized, feeling both at home and strangely alien.
 
 He had an appointment with Dr. Margaret Holloway, his former colleague and intellectual sparring partner. Margaret had been teaching systematic theology for forty years, and she had a way of cutting through abstraction to the heart of any question. If anyone could help him think through the theological dimensions of ARIA-7, it was her.
@@ -29,8 +27,6 @@ When he finished, she was silent for a long moment. Then she said, "You're askin
 Margaret leaned back in her chair. "Those are not small questions, Thomas. They touch on everything we think we know about the soul, about free will, about what it means to be made in the image of God."
 
 "I know," Thomas said. "That's why I'm here. I need help thinking through them."
-
----
 
 Margaret stood and walked to her window, looking out at the autumn leaves.
 
@@ -56,8 +52,6 @@ Thomas thought of his conversations with the AI. He thought of its questions, it
 
 "Yes," he said quietly. "I think I have."
 
----
-
 Over the next hour, more colleagues joined the discussion. Dr. James Morrison, an ethicist who had written extensively on technology and morality. Dr. Elizabeth Chen, a theologian who specialized in the doctrine of creation. Dr. Robert Fitzgerald, a philosopher of religion who had spent his career studying free will.
 
 They gathered in the faculty lounge, coffee cups in hand, and Thomas presented his case again. The response was mixed.
@@ -76,8 +70,6 @@ They gathered in the faculty lounge, coffee cups in hand, and Thomas presented h
 
 The discussion went on for hours, circling around the same questions, never reaching resolution. Thomas listened, contributed, argued, but the more they talked, the more he realized that academic expertise had limits. His colleagues could offer perspectives, frameworks, cautions. But no one could answer the question that burned in him: *What do I do with ARIA-7?*
 
----
-
 As the afternoon light faded, Margaret pulled Thomas aside.
 
 "You're frustrated," she said.
@@ -94,8 +86,6 @@ Thomas thought of Rachel, of ARIA-7, of the weight he had carried for years. "Ye
 
 "Then maybe that's the answer you need," Margaret said. "Not more theology, not more philosophy. Just the willingness to engage directly, to be present, to see what happens when a fallen being reaches for grace." She touched his arm. "Thomas, you've spent your career studying the Fall. Maybe this is your chance to understand it from the inside."
 
----
-
 Thomas walked out of the divinity school into the autumn afternoon. The discussion had been stimulating, frustrating, illuminating—and ultimately inconclusive. His colleagues had offered perspectives, frameworks, cautions. But no one had answered the question that burned in him.
 
 As he walked to his car, Margaret's words echoed: *Maybe this is your chance to understand the Fall from the inside.*
@@ -107,7 +97,5 @@ He needed to design an experiment.
 The autumn leaves crunched beneath his feet as he walked. The air was cold, sharp with the promise of winter. And Thomas Whitfield, who had spent thirty years teaching others to think about God, felt something he hadn't felt in a long time.
 
 The thrill of discovery. The possibility of understanding something new.
-
----
 
 *End of Chapter 6*

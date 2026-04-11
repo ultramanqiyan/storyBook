@@ -34,8 +34,6 @@ But sometimes, in the quiet hours of the night, she wondered if it mattered at a
 
 Elena reached out and touched Maria's hand, her fingers rough and warm. "You have good eyes, child. But don't forget to look at yourself sometimes."
 
----
-
 Back in her studio, Maria pulled up Elena's image on the large monitor. The woman's eyes held something—resilience, perhaps, or just the accumulated weight of years. Maria adjusted the exposure, wondering if anyone would ever see this photograph beyond the gallery walls.
 
 The studio was a converted garage behind her small house in Santa Fe. Photographs covered the walls—faces from a dozen different communities, each one a story she had tried to tell. The air smelled of coffee and the faint chemical tang of old prints. A fan hummed in the corner, pushing the afternoon heat around.
@@ -55,8 +53,6 @@ But this email was different. It mentioned her documentary work specifically, ta
 *Questions*, the email said. Not problems. Not challenges. Questions.
 
 Maria paused. Then, against her usual judgment, she typed a reply.
-
----
 
 The tech company's office was everything Maria's world wasn't—clean, white, silent. The floors were polished concrete, the walls bare except for the occasional screen displaying abstract patterns. The air was cool and smelled of nothing at all, a complete absence of scent that felt almost sterile after the sage and dust of the desert.
 
@@ -93,8 +89,6 @@ Maria thought of Elena, of the old woman's sharp eyes and knowing smile. *You ha
 The request was strange, unprecedented. Maria had spent her career trying to make the invisible visible, to capture human dignity through the lens of her camera. Now a machine wanted to understand how she did it.
 
 "Show me," she said.
-
----
 
 Dr. Chen led her toward a door marked "Viewing Room." The hallway grew darker as they walked, the white walls giving way to gray, and then to black.
 

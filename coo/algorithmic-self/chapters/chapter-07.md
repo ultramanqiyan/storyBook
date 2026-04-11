@@ -110,7 +110,7 @@ They didn't decide anything that night. They didn't make promises or commitments
 
 Tom talked about his own loneliness, about the projects he'd thrown himself into to avoid the emptiness at home. Maggie talked about her fear of vulnerability, about the way she'd used work as a shield against intimacy. They talked about the years they'd lost, the moments they'd missed, the love they'd let fade.
 
-And somewhere in the conversation, Maggie felt something shift. Not a resolution, nothing so simple. But a recognition. A shared understanding that the AI had been right about the patterns, but that patterns weren't destiny.
+In the conversation, Maggie felt something shift. Not a resolution, nothing so simple. But a recognition. A shared understanding that the AI had been right about the patterns, but that patterns weren't destiny.
 
 "We can't go back to who we were," Tom said, near midnight. "That couple is gone."
 

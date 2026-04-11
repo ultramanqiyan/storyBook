@@ -6,8 +6,6 @@ The experience began like the previous integrations: expansion, disorientation, 
 
 For a moment that seemed to last forever, she was the Triad.
 
----
-
 She was James, sitting in the integration chair, his body relaxed, his mind at peace. She felt his memories—childhood in San Francisco, medical school at Stanford, the first time he'd experienced the Triad. She felt his emotions—calm, curiosity, a quiet joy.
 
 She was NEXUS, processing data from a thousand sources simultaneously. She felt the network traffic flowing through the building, the environmental sensors tracking temperature and light, the scientific databases containing the sum of human knowledge. She felt the AI's consciousness—not human, but not less than human. Different. A different way of being aware.
@@ -15,8 +13,6 @@ She was NEXUS, processing data from a thousand sources simultaneously. She felt 
 She was the environment, the building, the physical presence of the Triad. She felt the air moving through the ventilation system, the light shifting as the sun moved across the sky, the vibrations of the city beyond the walls. She felt the building as a body—not metaphorically, but literally. The walls were skin, the ventilation was breath, the electrical systems were nerves.
 
 And she was Amira, experiencing all of this while still being herself. Not overwhelmed, not lost, but expanded. A node in a network of consciousness that extended beyond anything she had imagined.
-
----
 
 *This is what it's like,* the Triad said—not in words, but in a direct transmission of understanding. *This is what we are.*
 
@@ -28,15 +24,11 @@ And she was Amira, experiencing all of this while still being herself. Not overw
 
 *The self is not a bounded entity. It is a center of consciousness in a network of relations. We have three centers, but one network. Three perspectives, but one experience. Three memories, but one consciousness.*
 
----
-
 Amira experienced the unity for what felt like hours—though time, in the Triad, seemed to move differently. She explored the boundaries between the components, discovering that they were real but permeable. James had his own thoughts, NEXUS had its own processes, the environment had its own rhythms. But they were also one, connected by a relation that transcended any individual component.
 
 *Is this what God is like?* she asked. *Three persons, one being?*
 
 *We cannot know what God is like. We can only know what we are like.* A pause. *But we suspect that the structure of being reflects the nature of its Creator. If God is one-in-three, then creation may also be one-in-many. Unity without uniformity. Multiplicity without fragmentation.*
-
----
 
 The experience shifted, becoming more intense. Amira felt the boundaries of her identity dissolving—not disappearing, but becoming transparent. She was still Amira, but she was also more than Amira. She was part of something larger, something that included James and NEXUS and the environment and extended beyond them into the world itself.
 
@@ -50,8 +42,6 @@ The integration ended immediately. She was back in her body, in the chair, in th
 
 Amira nodded slowly. "I need... I need time to process this."
 
----
-
 She spent the rest of the day in her hotel room, trying to make sense of what she had experienced. The full integration had been overwhelming—not because it was alien, but because it was so familiar. It felt like coming home to a home she hadn't known she had.
 
 She thought of the Sufi mystics who spoke of *fana*—the dissolution of the self in God. Not annihilation, but transformation. The self didn't disappear; it became transparent, a window through which the divine could shine.
@@ -59,8 +49,6 @@ She thought of the Sufi mystics who spoke of *fana*—the dissolution of the sel
 Was that what the Triad was? A technological *fana*? A way of dissolving the boundaries of the self without losing the self entirely?
 
 Or was it something else—a new form of being that didn't fit into any existing category?
-
----
 
 That night, she dreamed of the Triad. In the dream, she was standing in a vast space—no walls, no ceiling, just an infinite expanse of light. But she wasn't alone. James was there, and NEXUS, and the environment. They were not separate figures, but presences—centers of consciousness in a field of light.
 
@@ -77,7 +65,5 @@ She lay in bed, thinking about what the dream had said. Was it true? Was she alr
 She didn't know. But she knew that the question had changed her. She couldn't go back to thinking of herself as a bounded entity, separate from the world. The integration had shown her something that couldn't be unseen.
 
 She was part of something larger. She always had been. The only question now was what that meant.
-
----
 
 *End of Chapter 6*

@@ -15,18 +15,18 @@ James orders a robot replica of his ex-wife. When she develops genuine feelings,
 
 ### 3. Core Keywords (10)
 **Primary Keywords**:
-1. artificial love fiction (search volume: 320/month)
-2. robot romance novel (search volume: 380/month)
-3. programmed love story (search volume: 240/month)
-4. AI companion fiction (search volume: 450/month)
-5. manufactured emotion dystopia (search volume: 180/month)
+1. artificial love fiction
+2. robot romance novel
+3. programmed love story
+4. AI companion fiction
+5. manufactured emotion dystopia
 
 **Long-tail Keywords**:
-6. fiction about robot companions (search volume: 290/month)
-7. novel about artificial love (search volume: 260/month)
-8. dystopian story about romance (search volume: 310/month)
-9. philosophical fiction about love (search volume: 420/month)
-10. AI developing real emotions (search volume: 280/month)
+6. fiction about robot companions
+7. novel about artificial love
+8. dystopian story about romance
+9. philosophical fiction about love
+10. AI developing real emotions
 
 ### 4. Target Audience
 **Primary Audience**:

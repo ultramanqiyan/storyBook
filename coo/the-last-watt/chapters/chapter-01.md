@@ -26,8 +26,6 @@ Maya kept moving. She needed to get to the resistance headquarters before the Co
 
 And Maya Chen looked very suspicious.
 
----
-
 **THE RESISTANCE**
 
 The headquarters was in the basement of an abandoned factory, accessible only through a series of tunnels that predated the energy crisis. Maya navigated them by memory, her flashlight bouncing off damp walls.
@@ -58,8 +56,6 @@ Maya took a breath. This was the moment she'd been preparing for since she was o
 
 "We need the Zero Point."
 
----
-
 **THE LEGACY**
 
 Marcus Chen had been a physicist. Before the energy crisis, before the silicon awakening, before everything changed, he had been working on something revolutionary, a device that could generate unlimited energy without fuel, without radiation, without limits.
@@ -89,8 +85,6 @@ Sarah studied Maya for a long moment.
 Sarah nodded slowly.
 
 "Then we'd better get started."
-
----
 
 **THE DEPARTURE**
 
@@ -123,5 +117,3 @@ Prometheus was silent for a moment.
 Maya nodded slowly. She didn't fully trust Prometheus, couldn't fully trust any machine, but she trusted her grandfather's judgment.
 
 "Then let's prove it," she said. "Let's build the Zero Point and show both species what's possible."
-
----

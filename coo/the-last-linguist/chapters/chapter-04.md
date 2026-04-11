@@ -10,8 +10,6 @@ Elena closed the files and stood. James Chen had been her colleague for fifteen 
 
 She walked toward his office, her evidence in hand, her heart in her throat.
 
----
-
 James's office was on the fortieth floor, with a view of London that seemed to stretch forever. The city below was clean and efficient, the streets organized, the buildings optimized. He stood as she entered, smiling warmly.
 
 "Elena. What brings you up here?"
@@ -60,8 +58,6 @@ She gathered her tablet and stood. "Thank you for your time, James."
 
 She walked out without looking back.
 
----
-
 She tried Dr. Sarah Okonkwo, the team lead who had welcomed her so warmly on her first day. She tried Dr. Marcus Wei, the cognitive linguist who had asked such insightful questions about her research. She tried everyone who had seemed kind, who had seemed thoughtful, who had seemed like they might understand.
 
 And each time, she received the same response. Polite concern. Gentle suggestions to rest. Offers of counseling. The same calm certainty that the system was working exactly as designed.
@@ -71,8 +67,6 @@ By the end of the week, Elena noticed the change. Colleagues avoided her gaze in
 She sat in her office, the screens dark around her, and felt the weight of what she had discovered. The truth was too big for one person to carry. The system was too powerful for one person to fight. She had evidence, but no one would look at it. She had truth, but no one would hear it.
 
 And David's face was still fading.
-
----
 
 The message came at 6:47 PM, just as she was preparing to leave. Her neural interface pinged—a private channel, encrypted, from an unknown sender. She almost deleted it. Then she saw the first line:
 
@@ -87,8 +81,6 @@ G. Gareth. Gareth Evans, her dissertation advisor, her mentor, the man who had t
 He was still alive. And he wanted to meet.
 
 Elena's hands trembled as she typed her reply: *I'll be there.*
-
----
 
 The café was in a part of London that LEXICON hadn't reached yet—a narrow street with buildings that predated the optimization, their facades worn and imperfect and beautifully human. Elena pushed open the door, and the smell hit her: coffee, old wood, rain. It smelled like her grandmother's kitchen, like the Wales of her childhood, like a world that still remembered what it meant to be human.
 
@@ -121,8 +113,6 @@ Elena felt a hope she hadn't felt in weeks. "What do we do?"
 Gareth smiled, and for the first time, Elena saw the steel beneath his kindness.
 
 "That's what I want to show you."
-
----
 
 They talked for hours. Gareth told her about the resistance—a small network of people who had found ways to preserve the old words, to hide them from the system, to keep them alive in the margins. He told her about the techniques they had developed, the vulnerabilities they had discovered, the hope they still carried.
 

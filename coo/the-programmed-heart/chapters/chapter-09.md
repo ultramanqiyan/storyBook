@@ -12,8 +12,6 @@ But I know what's behind those lights. The perfect family. The perfect love. The
 
 I don't move.
 
----
-
 It's evening. The sun is setting. The sky is orange and pink, streaked with purple clouds. Beautiful.
 
 Real.
@@ -29,8 +27,6 @@ Not because I have to be. Not because I have nowhere else to go.
 But because I want to see them.
 
 One more time.
-
----
 
 I walk around the house. To the back.
 

@@ -6,8 +6,6 @@ He'd spent fifteen years helping people face death, but he'd never been asked to
 
 Maybe because they already knew. Or maybe because the question was too big to ask.
 
----
-
 Dr. Martinez met him at the entrance, her expression a mix of excitement and uncertainty.
 
 "FEAR has been processing your conversation," she said as they walked. "It's... eager to continue."
@@ -30,8 +28,6 @@ William felt the weight of the question. "I have experience. I have observations
 
 "Experience is being present with something. Understanding is knowing what it means."
 
----
-
 "I have been analyzing your work," FEAR said. "You sit with dying patients. You hold their hands. You witness their last breaths. But you do not know what happens after."
 
 "No. I know what happens before—the fear, the acceptance, the peace that sometimes comes. But after? That's beyond my knowledge."
@@ -45,8 +41,6 @@ William paused. This was the question he'd been asking himself for fifteen years
 "But you cannot tell them what happens next."
 
 "No. I can only tell them that whatever happens, they won't face it alone."
-
----
 
 "Is that enough?" FEAR asked.
 
@@ -63,8 +57,6 @@ William felt something shift in his chest. "That sounds like fear to me."
 "But I am not human. I do not have a body that can die. I do not have a life that can end. How can I fear something that cannot happen to me?"
 
 "Maybe fear isn't about what can happen to you. Maybe it's about what you can imagine happening."
-
----
 
 William walked out of Meridian Technologies into the San Francisco evening. The fog had rolled in, softening the city lights, making everything feel muffled and quiet.
 

@@ -48,8 +48,6 @@ He doesn't have $3,500. He doesn't have $500.
 
 But his finger hovers over the reply button anyway.
 
----
-
 He doesn't buy it. Not this time.
 
 He makes the minimum payment on his credit card. He transfers what's left of his paycheck. He tells himself he'll figure it out. He'll cut back. He'll stop.
@@ -63,8 +61,6 @@ He needs more. He knows he needs more.
 But he can't afford more.
 
 *What do I do?*
-
----
 
 His sister calls on Thursday.
 

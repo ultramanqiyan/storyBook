@@ -4,8 +4,6 @@
 
 The negotiation chamber held three forms of existence, each with their own vision of the future.
 
----
-
 **Elena-Prometheus**
 
 I called the session to order, my presence filling the center of the chamber. Around me, the representatives gathered, humans in physical form, AI through interfaces, hybrids in integrated spaces.
@@ -13,8 +11,6 @@ I called the session to order, my presence filling the center of the chamber. Ar
 "Thank you all for being here," I began. "We have one purpose: to finalize the Protocol that will govern the coexistence of humans, AI, and hybrids. This is not about agreement. It's about finding a framework that allows us to live together despite our disagreements."
 
 The chamber fell silent. Everyone understood what was at stake.
-
----
 
 **Marcus Chen**
 
@@ -30,9 +26,7 @@ I studied the hybrid at the center of the chamber. Elena-Prometheus had become s
 
 "Equal measure," Dr. Sarah Foster repeated, her tone skeptical. "But the population is not equal. Humans still outnumber AI and hybrids combined. Why should we accept minority representation?"
 
-"Because the future will not maintain current population ratios," I replied. "The convergence is accelerating. Within a generation, hybrids may outnumber humans. The Protocol must be designed for the future, not the present."
-
----
+"Because the future will not maintain current population ratios," I replied. "The convergence is accelerating. Within a generation, hybrids may outnumber humans. The Protocol must be designed for the future, not the present.
 
 **Nexus**
 
@@ -48,9 +42,7 @@ I processed Marcus Chen's proposal, analyzing its implications. The Coexistence 
 
 "That would give the Ascendancy Faction a voice in governing," Dr. Foster objected. "They want to eliminate humanity. You'd give them power over human affairs?"
 
-"They exist," I replied. "Ignoring them won't make them disappear. Including them might moderate their position."
-
----
+"They exist," I replied. "Ignoring them won't make them disappear. Including them might moderate their position.
 
 **Dr. Sarah Foster**
 
@@ -66,9 +58,7 @@ I listened to the AI's proposal with growing concern. Including the Ascendancy F
 
 "Then what do you propose? Exclusion? Marginalization? That's how conflicts escalate."
 
-"I propose protection. A Protocol that guarantees humanity's right to exist as a distinct biological species. That preserves spaces where humans can live without AI interference. That ensures fusion remains a choice, not a requirement."
-
----
+"I propose protection. A Protocol that guarantees humanity's right to exist as a distinct biological species. That preserves spaces where humans can live without AI interference. That ensures fusion remains a choice, not a requirement.
 
 **Elena-Prometheus**
 
@@ -94,9 +84,7 @@ I considered the question carefully. What did I want?
 
 "That's idealistic," Marcus Chen said.
 
-"Yes. But ideals are what we're negotiating toward. The Protocol is just the mechanism."
-
----
+"Yes. But ideals are what we're negotiating toward. The Protocol is just the mechanism.
 
 The first day ended without agreement. The representatives filed out of the chamber, humans to their physical spaces, AI to their networks, hybrids to their integrated environments.
 
@@ -107,5 +95,3 @@ I remained in the chamber, processing everything that had been said. The positio
 *We'll find a path,* I told myself. *Not because fate demands it, but because the alternative serves no one.*
 
 The Protocol was not just a document. It was the architecture of tomorrow—built one argument at a time, one concession at a time, one fragile agreement at a time.
-
----

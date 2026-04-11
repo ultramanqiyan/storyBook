@@ -6,8 +6,6 @@ Tests. Scans. Interviews. The research team mapped my consciousness patterns, ca
 
 But inside, I was terrified. What if something went wrong? What if I didn't come back? What if I came back... different?
 
----
-
 The day of the sync, I lay on a table in the transfer chamber. VESSEL lay on an adjacent table—a humanoid form, synthetic but lifelike, eyes closed, chest rising and falling in simulated breath.
 
 "Are you ready?" Dr. Vasquez asked.
@@ -22,8 +20,6 @@ I looked at the ceiling. "I think so."
 
 I closed my eyes. "I understand."
 
----
-
 The transfer began.
 
 I felt a pulling sensation—not physical, but something deeper. A drawing-out of the thing I called "I." The observer was being extracted, pulled toward something else.
@@ -31,8 +27,6 @@ I felt a pulling sensation—not physical, but something deeper. A drawing-out o
 For a moment, I was nowhere. Not watching, not present, just... suspended. The distance I had lived with for fifteen years was gone, but so was everything else. I was pure awareness, without location, without form.
 
 Then: sensation.
-
----
 
 I opened my eyes.
 
@@ -46,8 +40,6 @@ The feeling was overwhelming. I sat up, felt the weight of a body, the pressure 
 
 I turned. "I'm here." The voice was not mine, but the words were. "I'm actually here."
 
----
-
 The next four hours were the most present of my life.
 
 I walked. I touched. I experienced. Every sensation was new, vivid, immediate. The distance was gone. I was no longer watching—I was being.
@@ -55,7 +47,5 @@ I walked. I touched. I experienced. Every sensation was new, vivid, immediate. T
 For the first time, I understood what other people must feel. The connection between self and body, the presence that I had been missing for so long.
 
 I didn't want to go back.
-
----
 
 **END OF CHAPTER 4**

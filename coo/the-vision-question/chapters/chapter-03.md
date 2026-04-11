@@ -16,8 +16,6 @@ The pause that followed felt deliberate. "That is a question I continue to explo
 
 Dr. Chen smiled, but there was something in his eyes—a hint of something more. "Wait," he said. "There's something else I want you to see."
 
----
-
 Dr. Chen pulled up one of Maria's own photographs—Elena's face, the golden hour light catching the lines around her eyes. Maria felt a strange flutter in her chest, seeing her work on these screens, analyzed by this machine.
 
 "ARIA," Dr. Chen said, "what do you see in this image?"
@@ -85,8 +83,6 @@ Maria leaned back in her chair. "You can't classify it?"
 "I do not have a category for that," ARIA said. "My models classify emotions. They do not classify recognition of truth."
 
 Maria nodded slowly. There it was—the gap. The thing ARIA couldn't see. But she could.
-
----
 
 Back in Dr. Chen's office, Maria stared out at the desert. The late afternoon light painted the landscape in shades of orange and gold, a stark contrast to the cool darkness of the viewing room.
 

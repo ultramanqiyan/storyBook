@@ -10,8 +10,6 @@ I shook it, observing myself perform the gesture. "Thank you for seeing me."
 
 "I'm listening."
 
----
-
 Dr. Vasquez explained the research. Her team had developed a technology called VESSEL—Void-Enabled System for Self-Embodiment and Living. It was an empty embodied intelligence, a physical body without consciousness, designed to "host" transferred consciousness.
 
 "We've been studying consciousness transfer for years," she said. "The question we're trying to answer is: can consciousness be moved from one substrate to another? And if so, what happens to the sense of self?"
@@ -24,8 +22,6 @@ Dr. Vasquez explained the research. Her team had developed a technology called V
 
 "We would transfer your consciousness temporarily to VESSEL. You would exist in the empty body for a period of time, then return to your own body. The goal is to understand what happens to the sense of self during and after the transfer."
 
----
-
 I felt the familiar lift, the observer pulling back. I watched myself consider the offer.
 
 "What are the risks?"
@@ -36,8 +32,6 @@ I felt the familiar lift, the observer pulling back. I watched myself consider t
 
 "The transfer is designed to be temporary. But yes, there are unknowns. You would be the first."
 
----
-
 I observed myself asking more questions. I observed Dr. Vasquez answering. I observed the room, the light, the sense of possibility.
 
 And for the first time in years, I felt something like hope. Not because I expected the experiment to cure me. But because someone was taking my experience seriously. Someone was trying to understand.
@@ -46,8 +40,6 @@ And for the first time in years, I felt something like hope. Not because I expec
 
 Dr. Vasquez smiled. "We'll need to run some preliminary tests. But if everything goes well, we could begin next month."
 
----
-
 I left the office feeling lighter than I had in years. The distance was still there—I was still watching myself walk down the hall, still observing from above. But something had shifted.
 
 Maybe this was the answer. Maybe the sync would close the gap. Maybe I would finally be present.
@@ -55,7 +47,5 @@ Maybe this was the answer. Maybe the sync would close the gap. Maybe I would fin
 Or maybe it would make everything worse.
 
 I didn't know. But for the first time in fifteen years, I was willing to find out.
-
----
 
 **END OF CHAPTER 3**

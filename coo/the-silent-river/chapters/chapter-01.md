@@ -18,8 +18,6 @@ Elena knew about NeuralCore. Everyone did. The AI infrastructure company had ris
 
 What they hadn't promised—what no one had anticipated—was how much water they would need.
 
----
-
 The town of River's Bend had been built around the river, as towns always are. The first settlers had chosen this valley because of the water—the clear, cold flow that came down from the mountains, reliable as sunrise. They had built mills along its banks, then factories, then homes. The river had been the town's heartbeat, its reason for being, the thing that made life possible in a landscape that would otherwise have been unforgiving.
 
 For two hundred years, the people of River's Bend had lived with the river. They had fished its waters and swum in its pools. They had celebrated weddings on its banks and scattered ashes into its flow. The river had been theirs, and they had been the river's, bound together in a relationship older than memory.
@@ -35,8 +33,6 @@ Data centers needed water. Not just a little water—enormous quantities of it, 
 And the river had begun to shrink.
 
 At first, no one noticed. The summer had been dry, people said. Climate change, others suggested. Natural variation. The river had been low before; it would rise again. But the rains came and the river did not rise. The snows melted in the mountains and the river did not swell. Year after year, the water level dropped, until finally, there was nothing left to drop.
-
----
 
 Elena drove into town along what had been River Road, now renamed NeuralCore Boulevard in honor of the company that had saved—and destroyed—the community. The irony was not lost on her.
 

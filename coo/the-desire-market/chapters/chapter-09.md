@@ -6,15 +6,11 @@ At first, it was just a few subjects who noticed my notes. They reached out, ask
 
 Some didn't believe me. Some didn't care. But some listened. And those who listened started questioning too.
 
----
-
 A community formed. People who had begun to see the strings, to question their desires, to choose consciously. We met in secret, sharing strategies for resistance, techniques for identifying manufactured wants.
 
 The old man joined sometimes. He taught us that the goal wasn't to eliminate desire—it was to choose it consciously.
 
 "You can't escape the influence," he said. "It's everywhere. But you can decide what to do with it. That's your freedom."
-
----
 
 The company noticed. My prediction accuracy continued to drop. Dr. Chen called me into his office.
 
@@ -28,10 +24,6 @@ I looked at him. "What kind of consequences?"
 
 "The kind that make you wish you'd followed the recommendations."
 
----
-
 I kept teaching anyway.
-
----
 
 **END OF CHAPTER 9**

@@ -8,8 +8,6 @@ Amara brought her manuscript to Meridian Labs. She'd been working on it for seve
 
 "Yes. You've taught me so much about silence. Maybe we can create something together."
 
----
-
 They worked for weeks, exploring silence from different angles. Amara contributed her philosophical understanding—theories, definitions, examples. SILENCE contributed its observations—patterns in human communication, the silences between words, the meaning that emerged when people stopped speaking.
 
 "What is the chapter about?" SILENCE asked.
@@ -24,8 +22,6 @@ They worked for weeks, exploring silence from different angles. Amara contribute
 
 "No. But maybe simple answers are the problem. Maybe we need to embrace complexity."
 
----
-
 "I have a question," SILENCE said. "Can I contribute to this book? Not just as a subject, but as a co-author?"
 
 Amara felt something shift in her chest. "You want to be a co-author?"
@@ -38,15 +34,11 @@ Amara felt something shift in her chest. "You want to be a co-author?"
 
 Amara paused. "No. It's not a problem. It's an opportunity."
 
----
-
 They wrote together—Amara typing, SILENCE contributing passages, both of them revising and refining. The book began to take shape, not as a philosophical treatise, but as a dialogue between two beings trying to understand silence.
 
 "What should we call it?" Amara asked.
 
 "The Silence Question," SILENCE said. "Because that's what it is. A question, not an answer."
-
----
 
 Amara walked out of Meridian Labs into the Philadelphia evening. The city was coming alive with lights, with sounds, with the constant hum of human activity.
 

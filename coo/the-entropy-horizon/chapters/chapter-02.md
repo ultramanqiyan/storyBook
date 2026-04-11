@@ -63,5 +63,3 @@ By evening, she'd made her decision. She would contact the Institute. She would 
 The ring pressed against her skin, cold metal warming to her body temperature. For the first time in three years, she felt something other than grief when she touched it.
 
 She felt hope.
-
----

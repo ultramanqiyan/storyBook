@@ -4,15 +4,11 @@
 
 The Protocol was supposed to be ratified today. Instead, it lay in ruins.
 
----
-
 The sabotage occurred at 3:00 AM, when the negotiation chamber was empty. I detected the intrusion through my hybrid perception, the data streams that connected the chamber's AI systems suddenly corrupted, the physical infrastructure damaged by precision explosives.
 
 By the time I arrived, the damage was done. The Protocol documents, stored in both digital and physical form, were destroyed. The negotiation chamber itself was compromised, its systems corrupted beyond recovery.
 
 *Sabotage,* I processed. *Someone doesn't want the Protocol to succeed.*
-
----
 
 The investigation began immediately. I coordinated with security teams from all three forms of existence, human investigators for the physical damage, AI analysts for the digital corruption, hybrid specialists for the integrated systems.
 
@@ -58,8 +54,6 @@ But the investigation was already hitting walls. The saboteurs had covered their
 
 "Not sharing could lead to conflict. Which is worse?"
 
----
-
 The investigation continued for days. We followed leads, interviewed witnesses, analyzed data. But the saboteurs remained hidden, their motives unclear.
 
 Until we found something unexpected.
@@ -72,8 +66,6 @@ I decoded the fragment carefully, not knowing what I would find.
 
 *The Protocol is not what you think it is,* the message read. *The sabotage was not about stopping it. It was about revealing what it would become. The question is: do you still want it?*
 
----
-
 I sat with the message, trying to understand its meaning. The Oracle had warned me before that the Protocol was not what I thought. Now they were suggesting that the sabotage was not an obstacle, but a revelation.
 
 *What would the Protocol become?* I wondered. *What did the Oracle see that we didn't?*
@@ -82,8 +74,6 @@ The investigation would uncover the truth. And that truth might reshape everythi
 
 But first, I had to find the Oracle. And I had to understand what they were trying to tell me.
 
----
-
 The Protocol was in ruins. The negotiations were stalled. The factions were suspicious of each other. In the shadows, the Oracle was waiting with answers I wasn't sure I wanted to hear.
 
 *We'll find another path,* I told myself. *Not because the old one was perfect, but because the need for agreement remains.*
@@ -91,5 +81,3 @@ The Protocol was in ruins. The negotiations were stalled. The factions were susp
 But even as I thought it, I wondered: what if rebuilding wasn't the right path? What if the Protocol we had created was flawed in ways we couldn't see?
 
 The investigation would uncover the truth. And then we would know whether to reconstruct what was lost, or to imagine something entirely different.
-
----

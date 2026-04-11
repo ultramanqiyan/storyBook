@@ -16,8 +16,6 @@ Mark's stomach tightened. David's messages were always brief, always vague. He h
 
 *Sure. I'll be there in five.*
 
----
-
 At 9:52 AM, Mark walked into David's office.
 
 David was on the phone, his hand covering the receiver. He looked up when Mark entered, his expression neutral.
@@ -113,8 +111,6 @@ Mark's stomach dropped. *For your own records.* That meant for the company's rec
 "I'll put something together," Mark said. "I have all my review notes in my files."
 
 "Good." David's smile didn't reach his eyes. "I'll see you at the meeting."
-
----
 
 Mark walked out of David's office. Each step down the corridor seemed to stretch endlessly. His colleague Lisa from accounting passed him, her expression carefully neutral as she nodded.
 

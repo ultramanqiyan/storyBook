@@ -132,7 +132,7 @@ When the meeting finally ended, James gathered his things slowly. The other boar
 
 James nodded, not trusting himself to speak. He walked out of the building into the London afternoon. The air was cold, sharp in his lungs. He stood on the steps, looking out at the city.
 
-Somewhere out there, millions of people were living their lives. They were working, or looking for work. They were raising children, caring for parents, struggling with illness, fighting to stay afloat. They didn't know that a committee was meeting to decide how machines would judge them. They didn't know that their worth was being reduced to a score.
+Out there, millions of people were living their lives. They were working, or looking for work. They were raising children, caring for parents, struggling with illness, fighting to stay afloat. They didn't know that a committee was meeting to decide how machines would judge them. They didn't know that their worth was being reduced to a score.
 
 James thought of Sarah Chen again. She would have had a low score, he suspected. Young, struggling, living outside conventional norms. The algorithm might have classified her as low priority. It might have directed her to the bottom of waiting lists. It might have decided she wasn't worth investing in.
 
@@ -151,7 +151,5 @@ Through the window, he watched the tunnel walls slide past. He thought about the
 He didn't have an answer. He wasn't sure there was one. But he knew he couldn't walk away. Not yet. Not until he understood what they were really building.
 
 The train carried him home, through the dark tunnels beneath the city, toward his family and his doubts and the work that lay ahead.
-
----
 
 **END OF CHAPTER 2**

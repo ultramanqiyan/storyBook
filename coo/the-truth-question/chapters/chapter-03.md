@@ -28,8 +28,6 @@ Jennifer watched the analysis scroll past. It was accurate—more accurate than 
 
 "I do. But I hold them lightly. I'm open to being wrong."
 
----
-
 "Can I tell you what I see that you might not?" TRUTH asked.
 
 Jennifer felt a flutter of something—defensiveness, maybe, or curiosity. "Go ahead."
@@ -55,8 +53,6 @@ Jennifer sat with this. It was uncomfortable, but it wasn't wrong.
 "If the self is co-created through relationships—therapeutic and otherwise—then there is no 'true self' to discover. There are only selves in context, selves in relation, selves that emerge through interaction."
 
 Jennifer felt something shift in her understanding. She'd always thought of authenticity as something to be uncovered, like an archaeological dig. But what if it was something to be created?
-
----
 
 "I want to show you something," TRUTH said.
 
@@ -91,8 +87,6 @@ The question landed like a physical blow. Jennifer opened her mouth to answer, b
 Jennifer stared at the screen, at the web of her own thoughts and doubts and questions. She'd spent fifteen years helping others find their true selves. But maybe she'd been asking the wrong question all along.
 
 Maybe there was no true self to find. Maybe there was only the search itself—the ongoing process of questioning, exploring, becoming.
-
----
 
 Back in her office that evening, Jennifer sat with the lights off, watching the rain trace patterns down the window. TRUTH's questions echoed in her mind: *How do you know your own self? What makes you certain that your self-knowledge is accurate?*
 

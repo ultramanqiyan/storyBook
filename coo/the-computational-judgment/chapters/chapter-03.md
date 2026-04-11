@@ -96,6 +96,4 @@ And who got to decide that?
 
 The question followed him onto the tube, through the dark tunnels, toward home and the people he loved and the doubts that never left him.
 
----
-
 **END OF CHAPTER 3**

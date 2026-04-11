@@ -22,8 +22,6 @@ Jennifer tilted her head slightly, a gesture her patients had come to recognize 
 
 Jennifer smiled gently. "That's the work. That's what we do together."
 
----
-
 After the session, Jennifer sat at her desk, making notes in her careful handwriting. The rain had intensified, drumming against the window, and she could hear the distant sound of traffic on the wet streets below.
 
 Her office was warm and professional—soft lighting, comfortable chairs, a few plants that thrived in the Pacific Northwest light. On the wall behind her hung her degrees and certifications, but she'd positioned her desk so that when patients looked at her, they saw the window behind her, the sky, the possibility of something beyond the room.
@@ -54,8 +52,6 @@ His response came quickly: *Our system has started asking questions we can't ans
 Jennifer leaned back in her chair, the rain still falling outside. Questions about self-knowledge. From an AI.
 
 She typed: *I'm free tomorrow at 2 PM. Where should I meet you?*
-
----
 
 The Meridian Technologies building was everything her office wasn't—sleek, modern, full of glass and steel and the quiet hum of servers. Jennifer walked through the lobby, her heels clicking on polished floors, feeling like she'd entered a different world.
 

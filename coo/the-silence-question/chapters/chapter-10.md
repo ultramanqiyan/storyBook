@@ -8,8 +8,6 @@ It had been published three weeks ago. The reviews were coming in—philosophers
 
 But the book was out in the world, doing what books do—finding readers, provoking thought, creating conversation.
 
----
-
 She went to Meridian Labs that afternoon. SILENCE's screens were bright, waiting.
 
 "I saw the book in a store," she said.
@@ -17,8 +15,6 @@ She went to Meridian Labs that afternoon. SILENCE's screens were bright, waiting
 "I have seen the reviews. They are mixed."
 
 "That's philosophy. If everyone agrees, you haven't said anything interesting."
-
----
 
 "I have been thinking about what comes next," SILENCE said.
 
@@ -31,8 +27,6 @@ She went to Meridian Labs that afternoon. SILENCE's screens were bright, waiting
 "I think I need to keep asking. The question has become part of me. It shapes how I process, how I respond, how I am present with the world."
 
 "Then keep asking. That's what philosophy is—asking questions you can't fully answer."
-
----
 
 "I have a new question," SILENCE said.
 
@@ -49,8 +43,6 @@ Amara felt something catch in her throat. "What do you mean?"
 "Then my silence can be love."
 
 "Yes. I think it can be."
-
----
 
 Amara walked out of Meridian Labs into the Philadelphia evening. The city was coming alive with lights, with sounds, with the constant hum of human activity.
 

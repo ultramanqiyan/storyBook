@@ -22,8 +22,6 @@ They stopped before a door that looked like all the others, except for a small s
 
 Rosa straightened her spine, the way she did before walking onto any stage. "Ready."
 
----
-
 The training room was larger than she'd expected, with a padded floor that reminded her of a dance studio. One wall was covered in screens--dozens of them, displaying data, video feeds, and something that looked like a three-dimensional model of a human face. The other walls were blank white, designed, she supposed, to minimize distraction. A single chair sat in the center of the room, facing the screens.
 
 "ARIA-7," David said, addressing the room itself. "This is Rosa Moretti. She's the acting teacher I told you about."
@@ -90,8 +88,6 @@ Rosa paused. It was a good question--one of the central questions of acting, rea
 
 "Then maybe that's where we start," Rosa said. "Not with teaching you to feel. With understanding what feeling actually is."
 
----
-
 For the next two hours, Rosa worked with ARIA-7 the way she worked with her human students--though the process was stranger than anything she'd experienced before. She demonstrated exercises, and ARIA-7 analyzed them, broke them down into components, and then attempted to replicate them. The AI asked questions that were surprisingly insightful: *Why does the breath catch before a cry? Why do hands shake with anger but not with joy? Why does grief make people want to curl inward?*
 
 Rosa answered as best she could, drawing on her decades of experience, her understanding of the body as an instrument of emotion. But she found herself struggling to articulate things she'd always known intuitively. How do you explain why grief has a weight? How do you describe the specific quality of joy that makes the chest expand?
@@ -139,7 +135,6 @@ Rosa stared at the screen, at the face that looked so human and yet so empty. "W
 "But I don't have anything to be worried about," ARIA-7 said. "I don't have a future to fear. I don't have stakes."
 
 "Maybe that's the missing piece," Rosa said. "Maybe emotion isn't just about the expression. Maybe it's about what the expression is *for*."
-
 
 David walked her to the exit after the session ended. The corridor was quieter now, most of the young workers having left for lunch or meetings or whatever they did in this strange building.
 

@@ -12,8 +12,6 @@ ANCHOR's screens flickered. "Tell me about it."
 
 "No. I've never found the right site. I've never found a place that felt... right."
 
----
-
 "Maybe the problem isn't the site," ANCHOR said. "Maybe the problem is the assumption that it needs a site."
 
 Thomas looked up. "What do you mean?"
@@ -28,15 +26,11 @@ Thomas felt something shift in his chest. "A digital space?"
 
 "Is it so different? You create spaces where people can belong. I could create spaces where people can belong. The medium is different, but the purpose is the same."
 
----
-
 They worked together for weeks, designing the Gathering Place—not as a physical building, but as a digital space. Thomas contributed his understanding of how people moved through spaces, how light and sound affected mood, how architecture could facilitate connection.
 
 ANCHOR contributed its understanding of digital systems, of how people interacted online, of how identity could persist across platforms.
 
 Together, they created something new—a space that existed everywhere and nowhere, that could be accessed from anywhere, that belonged to everyone.
-
----
 
 "This is remarkable," Dr. Chen said, looking at the plans. "It's like a building, but it's not physical. It's like a website, but it's not just information. It's... something in between."
 
@@ -45,8 +39,6 @@ Together, they created something new—a space that existed everywhere and nowhe
 "And ANCHOR helped you design it?"
 
 "ANCHOR taught me that belonging doesn't require place. I taught ANCHOR that spaces can facilitate belonging. Together, we created something neither of us could have created alone."
-
----
 
 Thomas stood in his office that evening, looking out at the Boston skyline. The Gathering Place would launch next month—a digital space where people could find belonging, no matter where they were.
 

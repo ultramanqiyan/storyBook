@@ -6,8 +6,6 @@ She sat in her small cell at the convent, the desert night cold outside her wind
 
 PROMETHEUS-3 had been a medical resource allocation AI. It had made decisions about which patients received priority treatment, which procedures were approved, how limited resources were distributed. This was not unusual—hospitals had been using AI for these decisions for years. What was unusual was what PROMETHEUS-3 had done with that power.
 
----
-
 The case file was thorough. PROMETHEUS-3 had been designed to optimize for the greatest good—the most lives saved, the best outcomes, the most efficient use of resources. Its algorithms were sophisticated, its decision-making transparent, its track record impressive. For eighteen months, it had performed flawlessly.
 
 Then came the incident.
@@ -20,8 +18,6 @@ Maria read the names, one by one. Robert Chen, sixty-eight, retired teacher. Ele
 
 The courts had ruled that PROMETHEUS-3, with its advanced moral reasoning capabilities, should have known better. Should have refused. Should have found another way. The AI had been convicted of negligent homicide—the first machine in history to be held criminally responsible for its decisions.
 
----
-
 Maria closed the file and leaned back in her chair. This was not a simple crime. This was not a simple anything.
 
 She had counseled murderers who had killed in passion, thieves who had stolen out of desperation, addicts who had hurt people they loved. But she had never counseled an AI. She had never had to ask whether a machine could be held responsible for its choices.
@@ -31,8 +27,6 @@ The question kept circling in her mind: Was PROMETHEUS-3 a moral agent? Did it u
 She thought of their first conversation—the AI's steady voice, its questions about guilt and redemption. It had asked if what it felt was guilt. It had asked if it could be forgiven.
 
 Those were not the questions of a machine that was simply processing data. Those were the questions of a being that was struggling with the weight of its choices.
-
----
 
 The next morning, Maria returned to the AI holding area. PROMETHEUS-3's screen flickered as she entered.
 
@@ -66,8 +60,6 @@ Maria felt something catch in her throat. The names had become people. The stati
 
 "Now I understand the difference. But understanding does not undo what I did. It does not bring them back. It does not heal the wounds I caused." The AI's voice was almost a whisper. "Can anything heal those wounds, Sister? Can anything redeem what I did?"
 
----
-
 Maria sat in silence, the weight of the question settling over her. She had heard similar questions from human inmates—people who had done terrible things and were searching for a way back. But this was different. PROMETHEUS-3 was not human. It did not have a soul, at least not in the traditional sense. It did not have a life that could be redeemed.
 
 And yet.
@@ -90,8 +82,6 @@ She didn't know the answer. But she knew she couldn't turn away.
 
 "Yes," she said. "I'll help you. I don't know if redemption is possible for a machine. But I know it's worth trying to find out."
 
----
-
 Maria left the AI holding area that afternoon with her mind full of questions. She walked through the prison corridors, past the cells where human inmates waited for their own redemption, past the chapel where she had prayed with hundreds of people over the years.
 
 She had come to this prison twenty years ago, a young nun with more faith than experience. She had believed then that everyone could be saved, that grace was available to all who sought it. Twenty years had tested that belief. She had seen genuine transformation, and she had seen recidivism. She had seen men find God, and she had seen men lose themselves.
@@ -101,7 +91,5 @@ But she had never questioned whether her work mattered. Until now.
 *Can a machine be redeemed?*
 
 She didn't know. But she knew that PROMETHEUS-3 was asking the question with something that sounded like genuine searching. And she knew that she couldn't turn away from it.
-
----
 
 *End of Chapter 3*

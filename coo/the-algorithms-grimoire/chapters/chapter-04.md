@@ -46,8 +46,6 @@ Kira thought of Master Aldric, the Chief Librarian whose magic was subtle, contr
 
 "I have an idea," she said. "But I'll need help."
 
----
-
 The demonstration was arranged for the following week. Marcus had been boasting about his latest achievement—a spell that could manipulate all four classical elements simultaneously. He claimed it was revolutionary, unprecedented, proof that his methods were superior to traditional study.
 
 The courtyard was packed. Word had spread about Marcus's abilities, and everyone wanted to see the apprentice who had surpassed his masters. Kira stood at the edge of the crowd, ARIA open in her hands, Master Aldric beside her.
@@ -143,8 +141,6 @@ Marcus nodded slowly, his arrogance replaced by something more valuable: humilit
 "Teach me," he said. "The right way. From the beginning."
 
 Kira smiled, feeling the weight of responsibility settle more comfortably on her shoulders. "That's all I ever wanted to do."
-
----
 
 That evening, Kira sat with ARIA, reviewing the day's events.
 

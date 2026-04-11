@@ -30,8 +30,6 @@ Maggie felt a flash of anger. "An algorithm can't understand intimacy. It can't 
 
 "You're right. The system can only see patterns. It can't see meaning." Chen paused. "But the patterns are consistent with what relationship researchers have observed in couples approaching separation. The withdrawal happens slowly, incrementally. So slowly that the people involved often don't notice until it's too late."
 
----
-
 The next category was Shared Activities. Maggie had expected this one to be better--they did things together, didn't they?
 
 The data told a different story.
@@ -53,8 +51,6 @@ Maggie thought about their weekends. Tom working on his architectural projects, 
 Maggie felt the anger rising again, but this time it was mixed with something else. Fear? Recognition? She wasn't sure.
 
 "What else?" she asked, her voice tight.
-
----
 
 The Emotional Indicators category was the most disturbing. The AI had analyzed her communications--not just with Tom, but with everyone--and identified patterns in her emotional expression.
 

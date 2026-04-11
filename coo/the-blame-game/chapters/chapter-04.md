@@ -33,8 +33,6 @@ Mark stared at the email. HR. That meant the process was moving forward.
 
 *They're building a case,* he thought. *And I'm the target.*
 
----
-
 At 3 PM, Mark walked into David's office.
 
 David was at his desk, a new stack of papers in front of him. He looked up when Mark entered.
@@ -134,8 +132,6 @@ Mark stood up too. His legs felt unsteady.
 David's expression was unreadable. "I appreciate that, Mark. But right now, I need to focus on the process."
 
 *The process.* Mark knew what that meant. It meant *I'm not on your side.*
-
----
 
 Mark walked back to his desk. His hands were shaking.
 

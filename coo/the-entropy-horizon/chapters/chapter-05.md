@@ -45,5 +45,3 @@ The Emergence Institute rose from the New Avalon skyline like a monument to the 
  She would work with Marcus. She would use the Institute's resources. And she would find out what had happened to Thomas, whether he was truly gone, or whether he was out there, merged with something vast and unknowable, waiting for her to understand
 
  The ring pressed against her skin, and for the first time in three years, it felt warm
-
----

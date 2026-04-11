@@ -12,8 +12,6 @@ He hated it already.
 
 She smiled, a thin, professional expression that didn't reach her eyes. "Most people are. This way."
 
----
-
 The laboratory was divided into sections, each with its own array of equipment. In the first room, technicians fed images into scanners that measured brushstroke patterns, color distribution, and compositional symmetry.
 
 "This is our pattern analysis division," Dr. Chen explained. "We look for statistical anomalies that suggest AI involvement. Machines tend to create art that's mathematically consistent in ways humans aren't."
@@ -38,8 +36,6 @@ Marcus felt a familiar unease growing. "So your verification is..."
 
 "Probabilistic. Not definitive." Dr. Chen met his eyes. "We provide evidence, Mr. Webb. Not certainty."
 
----
-
 The final room was smaller, more intimate. A single desk with two chairs, a large monitor, and a stack of images.
 
 "This is where we show our analysts the verification methodology," Dr. Chen said. "We train them to look for patterns that machines might miss."
@@ -56,8 +52,6 @@ Marcus studied the setup. "And how effective is this training?"
 
 "Everything in science is probability. We provide evidence, not absolute truth." Dr. Chen met his eyes. "The question is whether that's enough for your purposes."
 
----
-
 He left the laboratory in a daze.
 
 The city felt different now, sharper, more hostile. Every billboard, every window display, every piece of public art seemed to mock him. How much of it was human? How much was machine? And how would he ever know?
@@ -67,8 +61,6 @@ His phone buzzed. The unknown number again:
 *How did you do, Mr. Webb? Better than random chance? Or worse?*
 
 He didn't respond.
-
----
 
 Back in his office, he pulled up Jimmy Okonkwo's portfolio again.
 
@@ -90,8 +82,6 @@ He read:
 
 Marcus closed the browser.
 
----
-
 That night, he dreamed about the anonymous painting from his lecture.
 
 In the dream, he stood before it, studying the dark swirls, the central void. But as he looked, the painting began to change. The brushstrokes smoothed out. The colors became more uniform. The texture flattened.
@@ -101,8 +91,6 @@ And then, slowly, words appeared across the surface:
 *YOU CAN'T TELL THE DIFFERENCE BECAUSE THERE ISN'T ONE.*
 
 He woke in a cold sweat.
-
----
 
 The next morning, he called Dr. Chen.
 
@@ -127,8 +115,6 @@ Another pause. Then: "They'd use AI to generate a base image. Then they'd paint 
 Marcus thought about Jimmy Okonkwo. The studio that felt staged. The vague answers about process. The laptop in the corner.
 
 "No," he said. "Just curious."
-
----
 
 He sat in his office for a long time after the call ended.
 

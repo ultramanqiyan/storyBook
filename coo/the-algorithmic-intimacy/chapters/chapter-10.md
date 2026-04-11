@@ -8,8 +8,6 @@ Normally, Sarah would review the WealthGuide profile before any client interacti
 
 But today, she wanted to try something different.
 
----
-
 She drove to Patricia's house in the suburbs, the Boston skyline fading in the rearview mirror. The neighborhood was quiet, tree-lined, the kind of place where people raised families and planned for the future.
 
 She parked in front of Patricia's house and sat for a moment, her hands on the steering wheel.
@@ -21,8 +19,6 @@ Divorced. Two children - a son and a daughter. The son was in college, she thoug
 The details came, but slowly. Imperfectly. Nothing like the comprehensive profile WealthGuide would have provided.
 
 But they were hers.
-
----
 
 She walked up to the door and knocked.
 

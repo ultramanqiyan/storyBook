@@ -20,21 +20,15 @@ Riley nodded, unable to speak. The moment passed, but something had changed. Ril
 
 The fear was still there. But it was smaller now.
 
----
-
 Friday's mockup led to another project. That project led to a conversation with Angela. That conversation led to a new responsibility.
 
 Small steps. Each one scary. Each one taken anyway.
-
----
 
 The change wasn't dramatic. Riley didn't transform overnight into someone who spoke up in every meeting. But something had cracked open. The freeze was still there, but it was melting.
 
 One week later, Riley volunteered to lead a small initiative. Two weeks later, Riley shared an idea in a senior leadership meeting. Three weeks later, Riley was invited to join a strategic planning committee.
 
 Each step was small. Each step was terrifying. Each step was taken anyway.
-
----
 
 The fear didn't disappear. But it became quieter. And in the space it left, something else grew: confidence. Not the easy confidence that some people seemed born with, but a harder-won kind. The confidence that came from proving, again and again, that the fear was survivable.
 

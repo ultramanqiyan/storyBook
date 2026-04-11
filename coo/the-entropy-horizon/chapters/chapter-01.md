@@ -67,5 +67,3 @@ Helena saved her work, backed up everything three times, and finally let herself
 Seven missed calls from Sarah. Three from the department. One from a number she didn't recognize.
 
 Tomorrow she would deal with all of it. Tonight, she had a universe to understand.
-
----
