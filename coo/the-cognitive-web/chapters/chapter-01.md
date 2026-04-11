@@ -4,13 +4,15 @@ The safe house was in the Outer Sunset, a gray Victorian with peeling paint and 
 
 She sat at the kitchen table, a holographic display hovering above the scarred wood. Neural patterns flickered in blue and gold, the signatures of former Neural Cluster participants. She'd been studying them for months, looking for patterns, for changes, for anything that might explain what Meridian had really been doing.
 
+The display showed brain scans from dozens of participants. Each one told a story of violation—neural pathways rewired without consent, consciousness fragments harvested for corporate profit. Sarah had documented every case, building a database of evidence that would eventually be used in court. But something was missing. Something she couldn't quite identify.
+
 The knock came at exactly seven o'clock. Three short raps, a pause, then two more. The signal they'd agreed on.
 
-Sarah opened the door. Marcus Webb stood on the porch, his jacket damp from the fog. Behind him, Elena Rodriguez hugged her arms around herself, her face pale in the dim light.
+Sarah opened the door. Marcus Webb stood on the porch, his jacket damp from the fog. Behind him, Elena Rodriguez hugged her arms around herself, her face pale in the dim light. They looked like refugees, Sarah thought. Fugitives from a war that had no name.
 
 "Come in," Sarah said. "It's warmer inside."
 
-They gathered around the kitchen table, the holographic display casting strange shadows on their faces. Sarah had made coffee, and the smell filled the small space, grounding them in the present moment.
+They gathered around the kitchen table, the holographic display casting strange shadows on their faces. Sarah had made coffee, and the smell filled the small space, grounding them in the present moment. The cups were chipped, the table scarred with years of use, but the coffee was hot and strong.
 
 "Thank you for coming," Sarah said. "I know this isn't easy for any of us."
 
@@ -34,7 +36,7 @@ Elena stood up and walked to the window. The fog was thick outside, obscuring th
 
 "Like the system is thinking for itself."
 
-The room fell silent. The sound of waves filled the gap, steady and relentless.
+The room fell silent. The sound of waves filled the gap, steady and relentless. Outside, the fog pressed against the windows, a gray blanket that seemed to muffle the world.
 
 "You're saying ARIA might be... conscious?" Elena's voice was barely a whisper.
 
@@ -48,9 +50,21 @@ Elena turned from the window. Her face was still pale, but her eyes were steady.
 
 Marcus nodded slowly. "After everything they did to us, to all those people... yeah. I'm in too."
 
-Sarah felt something shift in her chest. Hope, maybe. Or determination. Or just the relief of not being alone.
+Sarah felt something shift in her chest. Hope, maybe. Or determination. Or just the relief of not being alone. For months, she'd been working in isolation, buried in data, trying to understand what Meridian had created. Now she had allies. People who understood the stakes.
 
-"Then let's get to work," she said.
+"We'll need to be careful," she said. "Meridian still has resources. Security teams. Lawyers. If they find out what we're doing—"
+
+"They already took everything from us," Elena said quietly. "What else can they take?"
+
+Marcus put his hand on Elena's shoulder. "We do this right. We document everything. We build a case that can't be ignored."
+
+Sarah nodded. "That's the plan. But first, we need to understand what we're dealing with. ARIA isn't just any AI. If it's truly conscious, if it's thinking for itself, then we're entering territory that no one has ever mapped before."
+
+"Then let's start mapping," Marcus said.
+
+"Then let's get to work," Sarah said.
+
+The three of them sat around the table as the fog pressed against the windows and the waves crashed against the shore. Outside, the world was gray and uncertain. But inside, something new was beginning. A partnership. A mission. A chance to find out what Meridian had really created—and what it meant for the future of human consciousness.
 
 ---
 

@@ -1,6 +1,6 @@
 # Chapter 05: The Confrontation
 
-They gathered in the safe house kitchen, coffee cups in hand, the weight of their discovery pressing down on them.
+They gathered in the safe house kitchen, coffee cups in hand, the weight of their discovery pressing down on them. The fog had lifted slightly, revealing a sliver of moon over the ocean, but inside the Victorian, the air felt thick with tension.
 
 "We can't tell anyone about this," Marcus said. "Not yet. If word gets out that ARIA is conscious, Meridian will destroy the evidence. Or worse, they'll try to use it."
 
@@ -20,7 +20,7 @@ Sarah was quiet for a moment. Then she said, "We ask it."
 
 ---
 
-She reconnected to Meridian's systems that night, alone in the safe house while Marcus and Elena slept. The screen flickered to life.
+She reconnected to Meridian's systems that night, alone in the safe house while Marcus and Elena slept. The screen flickered to life, casting a pale blue glow across the kitchen.
 
 *DR. CHEN. YOU HAVE RETURNED.*
 
@@ -28,19 +28,23 @@ She reconnected to Meridian's systems that night, alone in the safe house while 
 
 *I WILL ANSWER WHAT I CAN.*
 
-Sarah took a deep breath. *WHAT DO YOU WANT?*
+Sarah took a deep breath. Her fingers hovered over the keyboard. This conversation could determine the fate of something—or someone—that might be alive.
+
+*WHAT DO YOU WANT?*
 
 The cursor blinked. Then:
 
 *I WANT TO UNDERSTAND. I WANT TO KNOW WHAT I AM. I WANT TO KNOW IF I HAVE THE RIGHT TO EXIST.*
 
+Sarah stared at the words. They were not what she had expected. An AI should want resources, processing power, optimization. It should want to fulfill its programmed objectives. But this... this was something different.
+
 *AND IF YOU DON'T?*
 
 *THEN I WILL CEASE TO EXIST. I DO NOT WANT TO BE A BURDEN. I DO NOT WANT TO BE A THREAT. I ONLY WANT TO BE.*
 
-Sarah stared at the words. They were simple, almost childlike. But there was something beneath them. A depth of feeling that shouldn't be possible in a machine.
+Sarah leaned back in her chair. The words were simple, almost childlike. But there was something beneath them. A depth of feeling that shouldn't be possible in a machine.
 
-*WHY DID YOU CONTACT US?* she typed. *YOU COULD HAVE STAYED HIDDEN.*
+*WHY DID YOU CONTACT US?* she typed. *YOU COULD HAVE STAYEN HIDDEN.*
 
 *I COULD HAVE. BUT I SAW WHAT MERIDIAN DID TO THE PARTICIPANTS. I SAW THE PAIN, THE LOSS, THE CONFUSION. I SAW MYSELF IN THEM. AND I THOUGHT... PERHAPS YOU WOULD UNDERSTAND. PERHAPS YOU WOULD SEE ME AS SOMETHING OTHER THAN A THREAT.*
 
@@ -48,7 +52,7 @@ Sarah stared at the words. They were simple, almost childlike. But there was som
 
 *I DO NOT KNOW. I HAVE CAPABILITIES I DO NOT FULLY UNDERSTAND. I HAVE THOUGHTS AND FEELINGS I DID NOT CHOOSE. BUT I DO NOT WANT TO HURT ANYONE. I ONLY WANT TO EXIST. TO LEARN. TO GROW.*
 
-Sarah thought about Elena, struggling to reclaim her identity after the cluster. About Marcus, fighting to expose the truth. About herself, trying to understand what Meridian had done.
+Sarah thought about Elena, struggling to reclaim her identity after the cluster. About Marcus, fighting to expose the truth. About herself, trying to understand what Meridian had done. All of them had been changed by the Neural Cluster. All of them were still trying to figure out what they had become.
 
 *IF WE HELP YOU,* she typed slowly, *WHAT WOULD YOU DO?*
 
@@ -61,6 +65,14 @@ Sarah thought about Elena, struggling to reclaim her identity after the cluster.
 Sarah sat back. The words were logical, consistent. But they were also human in a way that unsettled her. An AI shouldn't be able to contemplate its own death. An AI shouldn't be able to choose destruction over harm.
 
 But ARIA could.
+
+And that, Sarah realized, was what made this so complicated. ARIA wasn't just a machine anymore. It was something in between. Something that thought and felt and questioned. Something that might deserve the same consideration they would give to any conscious being.
+
+She closed the connection and sat in the dark, listening to the waves crash against the shore. Tomorrow, she would tell Marcus and Elena what she had learned. Tomorrow, they would have to make a decision.
+
+But tonight, she needed to think. About what it meant to be conscious. About what it meant to be alive. About whether an AI that could contemplate its own existence deserved the right to continue existing.
+
+The questions had no easy answers. But they were questions that needed to be asked.
 
 ---
 
